@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpauwdm) from the version of record
+  read in full 2026-10-24 ([NOTE-tmpauwdm](../notes.d/NOTE-tmpauwdm.md)) from the version of record
   deposited in the University of Konstanz repository (KOPS, in copyright,
   terms of use); worth reading as the largest synthesis of if-then
   planning (642 experimental tests to September 2019) and the one that
@@ -78,7 +78,7 @@ Sheeran, P., Listrom, O. & Gollwitzer, P. M. (2024). The when and how of plannin
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpauwdm. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpauwdm](../notes.d/NOTE-tmpauwdm.md). Page numbers are the journal's.*
 
 - **Reliable but small.** Pooled d = .36 over 642 tests; Egger's
   b = 1.06; RoBMA d = .15 with tau = 0.27. "Thus, implementation
@@ -105,9 +105,9 @@ The exchange cited it at turn U10 as "a 2024 meta-analysis covering 642 independ
 **Corrected 2026-10-24, from the reading.** The abstract's range
 (.27 ≤ d ≤ .66) is uncorrected for publication bias, which the authors
 find substantial; their bias-corrected estimate is d = .15. For
-CLAIM-tmp0qupq the review confirms that if-then links of situation to
+[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) the review confirms that if-then links of situation to
 response change behaviour, adds that the conditional link and not the
 schedule carries the effect, and does not test what happens when the
-planned response becomes the wrong one. Filed from it: THEORY-tmpk5znk
-(the effect and its bias), THEORY-tmpbhjiw (format, rehearsal and
-recording), and a share in THEORY-tmp8y1fr (goal-dependence).
+planned response becomes the wrong one. Filed from it: [THEORY-tmpk5znk](../theory.d/THEORY-tmpk5znk.md)
+(the effect and its bias), [THEORY-tmpbhjiw](../theory.d/THEORY-tmpbhjiw.md) (format, rehearsal and
+recording), and a share in [THEORY-tmp8y1fr](../theory.d/THEORY-tmp8y1fr.md) (goal-dependence).

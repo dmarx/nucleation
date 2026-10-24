@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp61nj5) from the University of Konstanz
+  read in full 2026-10-24 ([NOTE-tmp61nj5](../notes.d/NOTE-tmp61nj5.md)) from the University of Konstanz
   repository's scan of the published chapter (KOPS, CC BY-NC-ND 2.0),
   through OCR; worth reading as the first large meta-analysis of if-then
   planning and the fullest statement of its mechanism: a plan hands
@@ -11,7 +11,7 @@ status_note: >-
   alone, with large effects on cue accessibility and on the immediacy,
   efficiency and non-conscious running of planned responses from small
   sets of tests. The size is not corrected for publication bias; the 2024
-  review of 642 tests (LIT-tmpks817) finds the bias substantial and a
+  review of 642 tests ([LIT-tmpks817](LIT-tmpks817.md)) finds the bias substantial and a
   corrected effect near d = .15. What happens when a plan's response
   proves wrong is named and left untested.
 title: 'Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes'
@@ -80,7 +80,7 @@ Gollwitzer, P. M. & Sheeran, P. (2006). Implementation intentions and goal achie
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp61nj5. Page numbers are the chapter's.*
+*From the reading, [NOTE-tmp61nj5](../notes.d/NOTE-tmp61nj5.md). Page numbers are the chapter's.*
 
 - **The effect, uncorrected.** d = .65 [.60, .70] over 94 tests and 8,461
   participants, plan plus goal intention against goal intention alone
@@ -105,10 +105,10 @@ The exchange cited it at turn U10 for the effect of if-then plans on acting on a
 **Corrected 2026-10-24, from the reading.** Two things. The d = .65 is
 not corrected for publication bias, which was checked only by comparing
 published with unpublished tests; the record should cite the 2024 review
-(LIT-tmpks817), which finds the bias substantial and a corrected d of
+([LIT-tmpks817](LIT-tmpks817.md)), which finds the bias substantial and a corrected d of
 about .15. And the link a plan forges is from cue to a response decided in
-advance, gated by an active goal: in CLAIM-tmp0qupq's terms a prior over
+advance, gated by an active goal: in [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s terms a prior over
 actions, not over which process governs. The claim's distinguishing case,
 a change in which response is right, is the one the authors name as
-unstudied (p. 104). Filed from it: THEORY-tmpfp8dy (the component
-processes) and THEORY-tmp8y1fr (goal-dependence).
+unstudied (p. 104). Filed from it: [THEORY-tmpfp8dy](../theory.d/THEORY-tmpfp8dy.md) (the component
+processes) and [THEORY-tmp8y1fr](../theory.d/THEORY-tmp8y1fr.md) (goal-dependence).

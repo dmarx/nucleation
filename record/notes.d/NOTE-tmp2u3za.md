@@ -64,7 +64,7 @@ urges.
   hours; one skills module a month; a primary clinician, a trainee, for
   each patient; individual therapy outside the programme and not
   necessarily DBT. Handouts and worksheets followed Linehan's manual
-  (LIT-tmpnkdlf). Phone coaching was available to all, with DBT's rule of
+  ([LIT-tmpnkdlf](../literature.d/LIT-tmpnkdlf.md)). Phone coaching was available to all, with DBT's rule of
   no coaching within 24 hours after self-harm or a suicidal act.
 - **The sample (p. 509).** 88 charts, 2017–2019; 4 excluded for not
   finishing the cycle and 28 for fewer than 7 diary-card days in month 1
@@ -139,7 +139,7 @@ urges.
 
 ## Connections
 
-It draws on Linehan (1993; the skills manual, 2015, LIT-tmpnkdlf) for the
+It draws on Linehan (1993; the skills manual, 2015, [LIT-tmpnkdlf](../literature.d/LIT-tmpnkdlf.md)) for the
 model; on the CBT homework meta-analyses of Kazantzis and colleagues for
 the expected effect; on Neacsiu, Rizvi & Linehan (2010) for skill use as a
 mediator; and on Chalker et al. (2015) and Oliveira & Rizvi (2018) for
@@ -160,7 +160,7 @@ phone contact in standard DBT.
     and also gave at least a week of diary data in months 1 and 4; 28 were
     excluded for missing diary data. The authors say this may bias the
     result, in either direction (pp. 518–519).
-- **CLAIM-tmp0qupq (a learned prior over which processes govern).** The
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) (a learned prior over which processes govern).** The
   claim uses DBT as its worked example of practice changing which process
   is recruited. This study is about practice and outcome, and it fits the
   claim's premise that practice matters, weakly. It cannot bear on the
@@ -170,7 +170,7 @@ phone contact in standard DBT.
   being right. Homework completion may also index motivation, which the
   design cannot separate ("analyses could not exclude the possibility of
   reverse-order effects", p. 518).
-- **CLAIM-349 (access, authority, action; its note on DBT skills as
+- **[CLAIM-349](../claims.d/CLAIM-349.md) (access, authority, action; its note on DBT skills as
   acquired governance operations).** The note distinguishes knowing how to
   respond from being able to deploy the response under pressure and having
   practised it until deployment costs little. Phone coaching is the case
@@ -179,10 +179,10 @@ phone contact in standard DBT.
   self-harm urges is consistent with that reading and too thin to support
   it. The 24-hour rule is a contingency on access to the external
   regulator, which patients reported using to hold off acting on urges.
-- **CLAIM-358 and QUESTION-095 (amortized cost; caching).** Nothing here
+- **[CLAIM-358](../claims.d/CLAIM-358.md) and [QUESTION-095](../questions.d/QUESTION-095.md) (amortized cost; caching).** Nothing here
   measures cost. The study does not show that practised skills become
   cheaper to deploy.
-- Filed: THEORY-tmpxv4qd, the associations as measured.
+- Filed: [THEORY-tmpxv4qd](../theory.d/THEORY-tmpxv4qd.md), the associations as measured.
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations
@@ -227,5 +227,5 @@ The authors list most of these (pp. 517–519).
   says? Measuring use of skills between sessions as a mediator, as the
   authors propose, would.
 - Does practice make a skill cheaper to deploy under pressure, the
-  question CLAIM-349's note and CLAIM-358 ask? That needs a measure of
+  question [CLAIM-349](../claims.d/CLAIM-349.md)'s note and [CLAIM-358](../claims.d/CLAIM-358.md) ask? That needs a measure of
   effort or latency, not only of outcome.

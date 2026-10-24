@@ -20,13 +20,15 @@ date: '2026-10-24'
 source:
 - LIT-tmppvxx9
 summary: >-
-  Zorowitz, Momennejad & Daw (2020; preprint 2019), LIT-tmppvxx9, read in
-  full from the CC BY version of record in NOTE-tmpldqrp. A
+  Zorowitz, Momennejad & Daw (2020; preprint 2019), [LIT-tmppvxx9](../literature.d/LIT-tmppvxx9.md), read in
+  full from the CC BY version of record in [NOTE-tmpldqrp](../notes.d/NOTE-tmpldqrp.md). A
   decision-theoretic argument and value-iteration simulations with a
   β-pessimistic Bellman equation. The misbelief is about the agent's own
   future control; the danger is represented correctly. No data are fitted.
   That learned values outlast correction of the misbelief is argued in the
   paper, not simulated, and is not part of this title.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-285 THEORY-tmpf8za8 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
@@ -34,7 +36,7 @@ summary: >-
 
 ## Source
 
-Zorowitz, Momennejad & Daw, LIT-tmppvxx9, read in full in NOTE-tmpldqrp
+Zorowitz, Momennejad & Daw, [LIT-tmppvxx9](../literature.d/LIT-tmppvxx9.md), read in full in [NOTE-tmpldqrp](../notes.d/NOTE-tmpldqrp.md)
 from the version of record, Computational Psychiatry 4: 1–17 (2020),
 CC BY 4.0: pp. 3–9 and 12–14, Figures 1–5.
 
@@ -74,16 +76,16 @@ whole state space, growing as w falls.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** A rival account of the phenomena the claim
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** A rival account of the phenomena the claim
   explains, in which avoidance is kept by a belief about one's own future
   control while the threat is represented correctly. The claim's test,
   which holds the represented threat probability fixed, would not separate
   them; it needs to hold the control belief fixed as well. The paper's
   explanation for avoidance outlasting a corrected belief, cached value, is
   the habit-with-memory alternative the claim's defeater names.
-- **THEORY-tmpf8za8.** Brown et al. read pessimistic policies as possibly
+- **[THEORY-tmpf8za8](THEORY-tmpf8za8.md).** Brown et al. read pessimistic policies as possibly
   normative under threat rather than as anxiety. This paper allows the
   same: pessimism "may reflect the exaggerative extremes of an otherwise
   adaptive evaluation strategy" (p. 11).
-- **THEORY-285.** Both are model-level accounts of a threat representation
+- **[THEORY-285](THEORY-285.md).** Both are model-level accounts of a threat representation
   that maintains avoidance; the maintaining variables differ.

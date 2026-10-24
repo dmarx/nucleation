@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp89chp) from the CC BY PsyArXiv
+  read in full 2026-10-24 ([NOTE-tmp89chp](../notes.d/NOTE-tmp89chp.md)) from the CC BY PsyArXiv
   preprint, not the closed version of record, whose abstract differs;
   worth reading as the map of how anxiety relates to exploration once both
   are split into kinds. In reward bandits directed exploration tends to
@@ -79,7 +79,7 @@ Chou, K.-P., Wilson, R. C. & Smith, R. (2024). The influence of anxiety on explo
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp89chp. Page numbers are the preprint's.*
+*From the reading, [NOTE-tmp89chp](../notes.d/NOTE-tmp89chp.md). Page numbers are the preprint's.*
 
 - **Directed exploration, by facet.** In reward bandits, "many results
   could be seen to suggest that trait/cognitive anxiety measures promote
@@ -106,8 +106,8 @@ The exchange cited it at turn U15, unnamed, as a 2024 computational review findi
 with the authors' "may". The record should add that the review is
 narrative, not systematic, that its tasks are almost all reward tasks with
 nothing aversive at stake, and that the preprint of 24 June 2024 is the
-first appearance. For CLAIM-tmp8z857 it narrows the claim's grant of
+first appearance. For [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) it narrows the claim's grant of
 defensive authority over "evidence acquisition" to the somatic and state
 facets of anxiety and to foraging, and its predator-checking study is the
 nearest evidence the record holds for evidence avoided because finding it
-is aversive. Filed from it: THEORY-tmphx93a and THEORY-tmpapk2z.
+is aversive. Filed from it: [THEORY-tmphx93a](../theory.d/THEORY-tmphx93a.md) and [THEORY-tmpapk2z](../theory.d/THEORY-tmpapk2z.md).

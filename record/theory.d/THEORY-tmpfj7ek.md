@@ -21,8 +21,8 @@ date: '2026-10-24'
 source:
 - LIT-tmpmi4k8
 summary: >-
-  De Kleine et al. (2023), LIT-tmpmi4k8, read in full from the CC BY
-  version of record in NOTE-tmp5cisg. 47 controls against 33 OCD, 40 PDA
+  De Kleine et al. (2023), [LIT-tmpmi4k8](../literature.d/LIT-tmpmi4k8.md), read in full from the CC BY
+  version of record in [NOTE-tmp5cisg](../notes.d/NOTE-tmp5cisg.md). 47 controls against 33 OCD, 40 PDA
   and 66 PTSD patients, cross-sectional, before exposure treatment.
   Relief was already higher in patients before avoidance was available,
   and patients rated the pictures as more aversive. It does not show the
@@ -38,7 +38,7 @@ supports:
 ## Source
 
 De Kleine, Hutschemaekers, Hendriks, Kampman, Papalini, Van Minnen &
-Vervliet, LIT-tmpmi4k8, read in full in NOTE-tmp5cisg from the
+Vervliet, [LIT-tmpmi4k8](../literature.d/LIT-tmpmi4k8.md), read in full in [NOTE-tmp5cisg](../notes.d/NOTE-tmp5cisg.md) from the
 publisher's version of record (CC BY 4.0): pp. 3–8, Table 1 and
 Figures 2–3.
 
@@ -82,12 +82,12 @@ controls, with any difference confined to avoidance rates.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** It supports the clause that relief reinforces
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** It supports the clause that relief reinforces
   the defence without being evidence of danger, weakly and only through
   the authors' interpretation. It complicates the clause about
   identifiability: patients avoided without trusting the avoidance,
   which is a different failure from learning that avoidance works while
   learning nothing about the world without it.
-- **THEORY-285.** A different failure from the model's. There the agent
+- **[THEORY-285](THEORY-285.md).** A different failure from the model's. There the agent
   stops sampling. Here patients sampled as often as controls and drew
   less from the outcomes.

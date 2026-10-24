@@ -19,12 +19,14 @@ date: '2026-10-24'
 source:
 - LIT-tmp4sdbb
 summary: >-
-  Mancinelli & Bach (preprint 2025; NBR 2026), LIT-tmp4sdbb, read in full
-  in NOTE-tmpk2tkp. Rated B ("AR execution can propagate to CS-", 3
+  Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-tmp4sdbb](../literature.d/LIT-tmp4sdbb.md), read in full
+  in [NOTE-tmpk2tkp](../notes.d/NOTE-tmpk2tkp.md). Rated B ("AR execution can propagate to CS-", 3
   studies: Cameron et al. 2022, Engelhard et al. 2015, Xia et al. 2019).
   The authors infer that people deduce danger without experiencing it,
   perhaps counterfactually, from having avoided; they also say the signal
   that avoidance is available may itself be read as a danger cue.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-tmp541sg — Proposed; the claim and companion reading this bears on, named -->
 <!-- inactive-ok-file: LIT-tmpv4nan — Deferred; the work on danger inferred from safety behaviour, named for comparison -->
@@ -33,7 +35,7 @@ summary: >-
 
 ## Source
 
-Mancinelli & Bach, LIT-tmp4sdbb, read in full in NOTE-tmpk2tkp from the
+Mancinelli & Bach, [LIT-tmp4sdbb](../literature.d/LIT-tmp4sdbb.md), read in full in [NOTE-tmpk2tkp](../notes.d/NOTE-tmpk2tkp.md) from the
 PsyArXiv preprint: pp. 19–20 and 26–27, and Fig. 4 (p. 53).
 
 ## What was actually shown
@@ -71,12 +73,12 @@ was done about it.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** The nearest laboratory case of the claim's closing
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The nearest laboratory case of the claim's closing
   inference, "if I felt compelled to protect myself, the danger must have
   been serious", by which the governance system becomes a source of
   evidence for its own appraisal. It also qualifies the claim's sentence
   that avoidance "does not strengthen the belief": in these tasks the
   availability and withdrawal of avoidance did raise it.
-- **LIT-tmpv4nan**, unread, is cited by the claim for danger inferred from
+- **[LIT-tmpv4nan](../literature.d/LIT-tmpv4nan.md)**, unread, is cited by the claim for danger inferred from
   one's own safety behaviour in anxiety disorders, the clinical form of
   this phenomenon.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpk2tkp) from the PsyArXiv preprint,
+  read in full 2026-10-24 ([NOTE-tmpk2tkp](../notes.d/NOTE-tmpk2tkp.md)) from the PsyArXiv preprint,
   not the closed version of record; worth reading as the only systematic
   map of human avoidance learning, and for the finding, rated robust, that
   an available avoidance response protects threat expectancy from
@@ -77,7 +77,7 @@ Mancinelli, F. & Bach, D. R. (2026). A systematic review of human avoidance lear
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpk2tkp. Page numbers are the preprint's.*
+*From the reading, [NOTE-tmpk2tkp](../notes.d/NOTE-tmpk2tkp.md). Page numbers are the preprint's.*
 
 - **Scope.** 116 articles (1939–2024) of "experimental procedures
   involving healthy humans" (p. 7) with shock or loud noise; a systematic
@@ -110,9 +110,9 @@ The exchange cited it at turn U14, unnamed, as a 2026 systematic review of 116 h
 expectancy theory by name, which the abstract does not, but it also says
 the evidence contradicts a purely inference-based account. Its studies are
 of healthy volunteers only, so it says nothing directly about anxiety. For
-CLAIM-tmp8z857 it supplies laboratory evidence for the claim's
+[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) it supplies laboratory evidence for the claim's
 identifiability step (protection from extinction) and for the closing
 inference from one's own avoidance to danger (spread to the safe
 stimulus), and it qualifies the claim's sentence that avoidance "does not
-strengthen the belief". Filed from it: THEORY-tmp541sg, THEORY-tmpmfnl0
-and THEORY-tmp4ahqw.
+strengthen the belief". Filed from it: [THEORY-tmp541sg](../theory.d/THEORY-tmp541sg.md), [THEORY-tmpmfnl0](../theory.d/THEORY-tmpmfnl0.md)
+and [THEORY-tmp4ahqw](../theory.d/THEORY-tmp4ahqw.md).

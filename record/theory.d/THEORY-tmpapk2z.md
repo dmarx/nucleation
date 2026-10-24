@@ -22,12 +22,14 @@ date: '2026-10-24'
 source:
 - LIT-tmpciuti
 summary: >-
-  Chou, Wilson & Smith (preprint June 2024; NBR 2024), LIT-tmpciuti, read
-  in full in NOTE-tmp89chp. Foraging: Lenow et al. 2017, Bustamante et al.
+  Chou, Wilson & Smith (preprint June 2024; NBR 2024), [LIT-tmpciuti](../literature.d/LIT-tmpciuti.md), read
+  in full in [NOTE-tmp89chp](../notes.d/NOTE-tmp89chp.md). Foraging: Lenow et al. 2017, Bustamante et al.
   2023, Lloyd et al. 2022a and 2022b, with human open-field and plus-maze
   studies agreeing. Checking: Trier et al. 2023, a single study. Mostly
   sub-clinical; stress and anxiety are treated together; the mechanisms
   are the authors' readings.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-tmpf8za8 THEORY-tmphx93a — Proposed; the claim and readings this bears on, named -->
 
@@ -35,7 +37,7 @@ summary: >-
 
 ## Source
 
-Chou, Wilson & Smith, LIT-tmpciuti, read in full in NOTE-tmp89chp from the
+Chou, Wilson & Smith, [LIT-tmpciuti](../literature.d/LIT-tmpciuti.md), read in full in [NOTE-tmp89chp](../notes.d/NOTE-tmp89chp.md) from the
 PsyArXiv preprint, version 1 (24 June 2024): pp. 20–23 and 28. The
 primary studies were not read.
 
@@ -78,7 +80,7 @@ hypervigilance account predicts.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** The checking result is the nearest evidence the
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The checking result is the nearest evidence the
   record now holds for the claim's defensive authority over "evidence
   acquisition": less sampling of the very evidence about the threat,
   driven by the aversiveness of finding it. It is a single study of a
@@ -86,7 +88,7 @@ hypervigilance account predicts.
   authority. It also cuts against the claim's suggestion that
   hypervigilance is more checking, poorly aimed: here, in somatic anxiety,
   there was less.
-- **THEORY-tmpf8za8.** Fits Brown et al.'s prediction that uncertainty
+- **[THEORY-tmpf8za8](THEORY-tmpf8za8.md).** Fits Brown et al.'s prediction that uncertainty
   under threat reduces exploration.
-- **THEORY-tmphx93a.** The bandit half of the review, where the direction
+- **[THEORY-tmphx93a](THEORY-tmphx93a.md).** The bandit half of the review, where the direction
   depends on the facet of anxiety.

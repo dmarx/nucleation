@@ -20,8 +20,8 @@ date: '2026-10-24'
 source:
 - LIT-tmpan19p
 summary: >-
-  Friedkin, Jia & Bullo (2016), LIT-tmpan19p, read in full from the CC BY
-  version of record and its supplement in NOTE-tmp6p1t2. Friedkin–Johnsen
+  Friedkin, Jia & Bullo (2016), [LIT-tmpan19p](../literature.d/LIT-tmpan19p.md), read in full from the CC BY
+  version of record and its supplement in [NOTE-tmp6p1t2](../notes.d/NOTE-tmp6p1t2.md). Friedkin–Johnsen
   dynamics on each issue, not DeGroot. Closure and centrality both come
   from members' post-discussion chip allocations, and prior closure is not
   controlled. Supports the individual step and some structural trends; the
@@ -36,7 +36,7 @@ supports:
 
 ## Source
 
-Friedkin, Jia & Bullo, LIT-tmpan19p, read in full in NOTE-tmp6p1t2 from
+Friedkin, Jia & Bullo, [LIT-tmpan19p](../literature.d/LIT-tmpan19p.md), read in full in [NOTE-tmp6p1t2](../notes.d/NOTE-tmp6p1t2.md) from
 the version of record: pp. 452–471, Tables 2–6 and Figures 4–13, with
 supplement Sections S1–S4.
 
@@ -77,7 +77,7 @@ sociological expectation has it. Neither happened.
   (all 14,000 simulated systems, S1) and the authors' extrapolation. The
   data give "signals".
 - **That the dynamics are DeGroot–Friedkin.** The single-issue model here
-  is Friedkin–Johnsen, with anchoring. THEORY-tmphmdtd holds the DeGroot
+  is Friedkin–Johnsen, with anchoring. [THEORY-tmphmdtd](THEORY-tmphmdtd.md) holds the DeGroot
   version's theorems, whose end state differs.
 - **That concentration is bad or good.** The authors decline to say
   whether the efficiency gained goes with more or less collective
@@ -85,12 +85,12 @@ sociological expectation has it. Neither happened.
 
 ## Connections
 
-- **CLAIM-tmpd6q2w.** Supports its baseline, self-reinforcing
+- **[CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md).** Supports its baseline, self-reinforcing
   authority, with data, and its point that faster settlement is not
   better integration. The thinning is of uptake: members stop weighting
   some others, rather than a regime keeping contests off the record
-  (CLAIM-403's ladder). The supplement's untested "reserved authority"
+  ([CLAIM-403](../claims.d/CLAIM-403.md)'s ladder). The supplement's untested "reserved authority"
   argument complicates the claim's prediction for a protected challenge
   channel.
-- **THEORY-tmphmdtd.** The same mechanism under DeGroot dynamics, proved
+- **[THEORY-tmphmdtd](THEORY-tmphmdtd.md).** The same mechanism under DeGroot dynamics, proved
   rather than measured.

@@ -171,14 +171,14 @@ Bjork's work on variability in learning. It contrasts itself with
 habituation models (Foa & Kozak 1986) and with belief disconfirmation by
 behavioural testing (Salkovskis et al. 2006). It carries forward the
 authors' earlier comparisons (Craske et al. 2008, 2012). De Kleine et al.
-(LIT-tmpmi4k8), with Vervliet as co-author, cite it for the clinical
-translation of fear learning. Goodson et al. (LIT-tmpn4i53) cite the
+([LIT-tmpmi4k8](../literature.d/LIT-tmpmi4k8.md)), with Vervliet as co-author, cite it for the clinical
+translation of fear learning. Goodson et al. ([LIT-tmpn4i53](../literature.d/LIT-tmpn4i53.md)) cite the
 inhibitory-learning account of safety behaviours through Blakey and
 Abramowitz 2016.
 
 ## Bearing on the record
 
-- **CLAIM-tmp8z857 (governance-maintained anxiety).** The exchange cited
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** The exchange cited
   the paper for exposure as new inhibitory learning that competes with
   the old association rather than erasing it, with expectancy violation
   and the removal of safety signals as its levers. That is accurate. Two
@@ -211,22 +211,22 @@ Abramowitz 2016.
   - **The five quantities.** "divergence in response systems", outward
     fear and underlying learning not changing together, is a cited
     instance of the dissociation the claim posits between threat belief,
-    anxious affect and defence (CLAIM-283, CLAIM-349). It is not a
+    anxious affect and defence ([CLAIM-283](../claims.d/CLAIM-283.md), [CLAIM-349](../claims.d/CLAIM-349.md)). It is not a
     measure of authority.
   - **"Not every safety behaviour blocks learning."** The claim's own
     caveat is the paper's reported finding. The Rescorla–Wagner
     reconciliation (a safety behaviour costs learning in proportion to
     the inhibition it carries) is a specific, testable version of it.
-- **QUESTION-045.** Return of fear after successful extinction is the
+- **[QUESTION-045](../questions.d/QUESTION-045.md).** Return of fear after successful extinction is the
   laboratory signature of a regime that can be re-entered after it seems
   to be left. That fits "outlasts its trigger", but through memory,
-  without the degrading capacity to leave that QUESTION-045 asks about.
-- **THEORY-285.** The paper's account of distraction, which reduces
+  without the degrading capacity to leave that [QUESTION-045](../questions.d/QUESTION-045.md) asks about.
+- **[THEORY-285](../theory.d/THEORY-285.md).** The paper's account of distraction, which reduces
   awareness of the CS–no-US relation, parallels that model's attenuation
   of the evidence that would correct the prior. The footnote's
   qualification applies.
-- Filed from this reading: THEORY-tmpfun40 (extinction leaves the
-  original association intact) and THEORY-tmpxdq9s (fear reduction during
+- Filed from this reading: [THEORY-tmpfun40](../theory.d/THEORY-tmpfun40.md) (extinction leaves the
+  original association intact) and [THEORY-tmpxdq9s](../theory.d/THEORY-tmpxdq9s.md) (fear reduction during
   exposure does not predict follow-up).
 - No instruction for machine-learning practice; nothing for the
   anthology.

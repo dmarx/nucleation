@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpqrvri) from the NIH author manuscript in
+  read in full 2026-10-24 ([NOTE-tmpqrvri](../notes.d/NOTE-tmpqrvri.md)) from the NIH author manuscript in
   PubMed Central, the accepted unedited version, not the closed version of
   record; worth reading as the standard clinical statement of the
   inhibitory-learning account of exposure: extinction adds a competing
@@ -77,7 +77,7 @@ Craske, M. G., Treanor, M., Conway, C. C., Zbozinek, T. & Vervliet, B. (2014). M
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpqrvri. The manuscript has no page numbers;
+*From the reading, [NOTE-tmpqrvri](../notes.d/NOTE-tmpqrvri.md). The manuscript has no page numbers;
 locations are sections.*
 
 - **Not erased.** "the original CS-US association learned during fear
@@ -104,10 +104,10 @@ The exchange cited it at turn U15 for exposure as new inhibitory learning that c
 **Corrected 2026-10-24, from the reading.** The description is right. Two
 additions: the paper reports the evidence on removing safety signals as
 contradictory, and its levers number eight or nine, listed differently in
-the abstract, the body and Table 6. For CLAIM-tmp8z857 it supplies the
+the abstract, the body and Table 6. For [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) it supplies the
 clinical form of the identifiability clause (avoidance prevents
 expectancy violation) and a rival mechanism for persistence that the claim
 does not name: the old association survives and competes for retrieval.
 It also predicts that correcting the stated belief *before* exposure
-weakens the behavioural learning. Filed from it: THEORY-tmpfun40 and
-THEORY-tmpxdq9s.
+weakens the behavioural learning. Filed from it: [THEORY-tmpfun40](../theory.d/THEORY-tmpfun40.md) and
+[THEORY-tmpxdq9s](../theory.d/THEORY-tmpxdq9s.md).

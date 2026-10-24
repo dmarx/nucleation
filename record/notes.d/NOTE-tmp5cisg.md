@@ -151,14 +151,14 @@ Relief as a reinforcer comes from the same group (Vervliet et al. 2017;
 Willems & Vervliet 2021). The computational frame is Moutoussis et al.'s
 temporal-difference account. The habit proposal follows LeDoux and Daw
 (2018) and LeDoux et al. (2017). The study cites Craske et al. 2014
-(LIT-tmpz7j0g) for the translation of fear learning into exposure, and
-Gangemi, Mancini and van den Hout 2012 (LIT-tmpv4nan) for
+([LIT-tmpz7j0g](../literature.d/LIT-tmpz7j0g.md)) for the translation of fear learning into exposure, and
+Gangemi, Mancini and van den Hout 2012 ([LIT-tmpv4nan](../literature.d/LIT-tmpv4nan.md)) for
 behaviour-as-information. Its co-author Vervliet is also an author of
 Craske et al.
 
 ## Bearing on the record
 
-- **CLAIM-tmp8z857 (governance-maintained anxiety).** The exchange cited the
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** The exchange cited the
   study for patients avoiding even during safety cues, with higher threat
   expectancy and more relief. That is accurate, with two corrections:
   each effect held for two of the three patient groups, not all three, and
@@ -199,18 +199,18 @@ Craske et al.
   - **The defeater.** The study does not touch it. Nothing is
     intervened on, authority is not measured, and the design is
     cross-sectional (p. 8).
-- **QUESTION-045 (is a maintained disorder a protective lock-in?).** A
+- **[QUESTION-045](../questions.d/QUESTION-045.md) (is a maintained disorder a protective lock-in?).** A
   cross-sectional difference in learning, measured before treatment. It
   cannot say whether the learning profile maintains the disorder or
   follows from it, and the authors say so (p. 8).
-- **THEORY-285.** That model's agent stops sampling and never gets
+- **[THEORY-285](../theory.d/THEORY-285.md).** That model's agent stops sampling and never gets
   corrected. This study's patients did sample: they made the same number
   of avoidance responses and saw the same outcomes. What differed is
   what they took from the outcomes. The two failures are different.
-- **THEORY-058 (disorders maintained by self-reinforcing loops).** The
+- **[THEORY-058](../theory.d/THEORY-058.md) (disorders maintained by self-reinforcing loops).** The
   proposed relief → avoidance loop is a candidate link of that kind. It
   is proposed, not shown.
-- Filed from this reading: THEORY-tmpfj7ek (the measured group
+- Filed from this reading: [THEORY-tmpfj7ek](../theory.d/THEORY-tmpfj7ek.md) (the measured group
   differences, without the interpretation).
 - No instruction for machine-learning practice; nothing for the
   anthology.

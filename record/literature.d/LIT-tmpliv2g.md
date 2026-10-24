@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp4zjzy) from the author's working draft of
+  read in full 2026-10-24 ([NOTE-tmp4zjzy](../notes.d/NOTE-tmp4zjzy.md)) from the author's working draft of
   17 December 2015, not the version of record; worth reading as the
   first well-identified evidence that temporary protection can leave a
   lasting industry behind it. Departments more shielded from British trade
@@ -78,7 +78,7 @@ Juhász, R. (2018). Temporary protection and technology adoption: Evidence from 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp4zjzy. Page numbers are the December 2015 draft's.*
+*From the reading, [NOTE-tmp4zjzy](../notes.d/NOTE-tmp4zjzy.md). Page numbers are the December 2015 draft's.*
 
 - **Short run.** The interquartile difference in the blockade's trade-cost
   shock predicts extra spinning capacity about equal to mean capacity in
@@ -101,8 +101,8 @@ industry's location and productivity, not the protection, and the claim's
 "temporary tariff" is not what happened: protection came from a war
 blockade aimed at Britain, and post-war tariffs kept France protected, so
 the within-France results compare regions under continued national
-protection. The reading supports CLAIM-tmp28sti's capability-building
+protection. The reading supports [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md)'s capability-building
 contrast and says nothing about whether protection maintained itself,
 though a petition by large spinners for a complete ban on English cloth
 (p. 13, fn. 7) shows the constituency forming. Filed from it:
-THEORY-tmpkjber.
+[THEORY-tmpkjber](../theory.d/THEORY-tmpkjber.md).

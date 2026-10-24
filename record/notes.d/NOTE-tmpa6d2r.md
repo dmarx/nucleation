@@ -134,7 +134,7 @@ reading on synaptic plasticity rules.
 
 ## Bearing on the record
 
-- **CLAIM-tmp0qupq (a learned prior over which processes govern).** The
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) (a learned prior over which processes govern).** The
   claim cites this review for "three-factor rules are established". The
   reading narrows that, and adds two points.
   - **Narrower.** What is "experimentally well-established" is the
@@ -165,9 +165,9 @@ reading on synaptic plasticity rules.
   - **The third factor need not be reward.** Surprise and novelty are
     candidates (pp. 6–7). A b_H trained by surprise would reinforce
     whatever recruitment preceded unexpected outcomes, good or bad.
-  - Filed as THEORY-tmpeolav.
-- **CLAIM-277 and CLAIM-364.** The entrenchment point bears on both
-  through CLAIM-tmp0qupq; the review says nothing about authority.
+  - Filed as [THEORY-tmpeolav](../theory.d/THEORY-tmpeolav.md).
+- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-364](../claims.d/CLAIM-364.md).** The entrenchment point bears on both
+  through [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md); the review says nothing about authority.
 - **For the anthology.** The mapping of TD-learning and policy gradient to
   three-factor rules, and Type 3 rules as biological approximations of
   backpropagation, bear on learning rules in machine learning. The LIT's

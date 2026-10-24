@@ -17,12 +17,14 @@ date: '2026-10-24'
 source:
 - LIT-tmpz7j0g
 summary: >-
-  Craske et al. (2014), LIT-tmpz7j0g, read in full from the PMC author
-  manuscript in NOTE-tmpqrvri, citing six studies. The authors read it as
+  Craske et al. (2014), [LIT-tmpz7j0g](../literature.d/LIT-tmpz7j0g.md), read in full from the PMC author
+  manuscript in [NOTE-tmpqrvri](../notes.d/NOTE-tmpqrvri.md), citing six studies. The authors read it as
   "divergence in response systems": fear expressed during exposure and the
   learning that exposure produces need not change together. That is the
   basis of their case against habituation-based exposure. The paper
   reports no data, and the cited studies are mostly analog samples.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 CLAIM-283 CLAIM-349 — Proposed; the claims this bears on, named, nothing here rests on them -->
 
@@ -30,8 +32,8 @@ summary: >-
 
 ## Source
 
-Craske, Treanor, Conway, Zbozinek & Vervliet, LIT-tmpz7j0g, read in full
-in NOTE-tmpqrvri from the NIH author manuscript (PMC4114726): the
+Craske, Treanor, Conway, Zbozinek & Vervliet, [LIT-tmpz7j0g](../literature.d/LIT-tmpz7j0g.md), read in full
+in [NOTE-tmpqrvri](../notes.d/NOTE-tmpqrvri.md) from the NIH author manuscript (PMC4114726): the
 sections "Inhibitory Learning vs Habituation and Behavioral Testing
 Approaches to Exposure" and "(1) Expectancy Violation".
 
@@ -65,7 +67,7 @@ must.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** The authors' gloss, "divergence in response
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The authors' gloss, "divergence in response
   systems", is a cited instance of the claim's dissociation between
-  anxious affect and what has been learned (CLAIM-283, CLAIM-349). It is
+  anxious affect and what has been learned ([CLAIM-283](../claims.d/CLAIM-283.md), [CLAIM-349](../claims.d/CLAIM-349.md)). It is
   not a measure of defensive authority.

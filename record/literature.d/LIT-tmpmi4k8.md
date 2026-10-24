@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp5cisg) from the CC BY version of record;
+  read in full 2026-10-24 ([NOTE-tmp5cisg](../notes.d/NOTE-tmp5cisg.md)) from the CC BY version of record;
   worth reading as, by its own count, the third experimental study of
   avoidance learning in anxiety patients, and the first to track what they
   learn from avoiding as well as how often they avoid. Against 47 controls, OCD and PTSD patients avoided a
@@ -82,7 +82,7 @@ De Kleine, R. A., Hutschemaekers, M. H. M., Hendriks, G. J., Kampman, M., Papali
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp5cisg. Page numbers are the journal's.*
+*From the reading, [NOTE-tmp5cisg](../notes.d/NOTE-tmp5cisg.md). Page numbers are the journal's.*
 
 - **Avoidance of the safety cue, not of danger cues.** OCD (p = .004)
   and PTSD (p = .028) patients pressed the avoidance button more than
@@ -111,10 +111,10 @@ outline, with two corrections. The safety-cue avoidance and the higher
 expectancy were found in the OCD and PTSD groups, and the higher relief
 in the PDA and PTSD groups, not in all patients. And the relief
 difference was present before avoidance was possible, so it is not shown
-to come from avoiding. For CLAIM-tmp8z857 the study weakly supports the
+to come from avoiding. For [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) the study weakly supports the
 clause that relief reinforces the defence without being evidence of
 danger, through the authors' interpretation. It complicates the
 identifiability clause: patients avoided without confidence that
 avoiding works, which is a different gap from learning that avoidance
 works and nothing about the world without it. Filed from it:
-THEORY-tmpfj7ek.
+[THEORY-tmpfj7ek](../theory.d/THEORY-tmpfj7ek.md).

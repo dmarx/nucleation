@@ -128,17 +128,17 @@ centrality, those below with less.
 
 ## Connections
 
-It formalises Friedkin's reflected-appraisal mechanism (2011, LIT-1404,
-unread) and the Cooley hypothesis (NOTE-1080). Its empirical companion is
-Friedkin, Jia & Bullo 2016 (LIT-tmpan19p, NOTE-tmp6p1t2), which uses
+It formalises Friedkin's reflected-appraisal mechanism (2011, [LIT-1404](../literature.d/LIT-1404.md),
+unread) and the Cooley hypothesis ([NOTE-1080](NOTE-1080.md)). Its empirical companion is
+Friedkin, Jia & Bullo 2016 ([LIT-tmpan19p](../literature.d/LIT-tmpan19p.md), [NOTE-tmp6p1t2](NOTE-tmp6p1t2.md)), which uses
 Friedkin–Johnsen rather than DeGroot dynamics and a matrix that changes
 from issue to issue. It belongs with the record's DeGroot readings,
-Golub & Jackson (NOTE-840; THEORY-321), where a largest influence weight
+Golub & Jackson ([NOTE-840](NOTE-840.md); [THEORY-321](../theory.d/THEORY-321.md)), where a largest influence weight
 that does not vanish keeps the consensus from the truth.
 
 ## Bearing on the record
 
-- **CLAIM-tmpd6q2w (coherence is not integration).** The claim names
+- **[CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) (coherence is not integration).** The claim names
   this model as the baseline: "Self-reinforcing authority is not itself
   new". The reading confirms that and gives the baseline two sharper
   edges.
@@ -159,13 +159,13 @@ that does not vanish keeps the consensus from the truth.
     exogenous; nothing maintains or revises who is heard. The claim's
     maintained legibility regime is what the model leaves out, as the
     claim says.
-  - Filed as THEORY-tmphmdtd.
-- **CLAIM-440.** A prevailing ordering read off this kind of record would be
+  - Filed as [THEORY-tmphmdtd](../theory.d/THEORY-tmphmdtd.md).
+- **[CLAIM-440](../claims.d/CLAIM-440.md).** A prevailing ordering read off this kind of record would be
   the most central member's, not the organization's.
-- **QUESTION-117 and CASE-092.** The LIT was filed as the baseline these
+- **[QUESTION-117](../questions.d/QUESTION-117.md) and [CASE-092](../cases.d/CASE-092.md).** The LIT was filed as the baseline these
   ask to be compared with. The comparison now has the model's exact form:
   fixed C, DeGroot consensus, x(s+1) = w(x(s)).
-- **CLAIM-277 and CLAIM-364.** Authority made durable by its own exercise,
+- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-364](../claims.d/CLAIM-364.md).** Authority made durable by its own exercise,
   in a social setting, and proved to concentrate.
 - No instruction for machine-learning practice.
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp1dwn4) from the NIH author manuscript
+  read in full 2026-10-24 ([NOTE-tmp1dwn4](../notes.d/NOTE-tmp1dwn4.md)) from the NIH author manuscript
   in PubMed Central, not the typeset version of record; worth reading as
   the clearest statement that anxious avoidance can be kept going by
   uncertainty that avoidance itself leaves unreduced, with no excess of
@@ -79,7 +79,7 @@ Brown, V. M., Price, R. & Dombrovski, A. Y. (2023). Anxiety as a disorder of unc
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp1dwn4. The manuscript has no page numbers;
+*From the reading, [NOTE-tmp1dwn4](../notes.d/NOTE-tmp1dwn4.md). The manuscript has no page numbers;
 places are given by section.*
 
 - **Not excess threat.** Laboratory studies do not show enhanced aversive
@@ -114,9 +114,9 @@ The exchange cited it at turn U14 as "Brown and colleagues' 2023 review" arguing
 accurate as far as it goes. It should add that this is a proposal with no
 model run and no data, resting on seven computational studies chosen
 without a systematic search, and that it is limited to fear-based
-disorders. For CLAIM-tmp8z857 it supports the step that the defence keeps
+disorders. For [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) it supports the step that the defence keeps
 the uncertainty unresolved, and it is also the belief-maintained rival the
 claim's defeater names: its loop runs through an uncertainty estimate, with
-no authority variable. Filed from it: THEORY-tmp0vr2q (the empirical
-synthesis) and THEORY-tmpf8za8 (the avoidance–uncertainty loop, as a
+no authority variable. Filed from it: [THEORY-tmp0vr2q](../theory.d/THEORY-tmp0vr2q.md) (the empirical
+synthesis) and [THEORY-tmpf8za8](../theory.d/THEORY-tmpf8za8.md) (the avoidance–uncertainty loop, as a
 proposal).

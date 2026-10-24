@@ -22,13 +22,15 @@ source:
 - LIT-tmpt9ye6
 - LIT-tmpks817
 summary: >-
-  Gollwitzer & Sheeran (2006), LIT-tmpt9ye6, read in NOTE-tmp61nj5,
+  Gollwitzer & Sheeran (2006), [LIT-tmpt9ye6](../literature.d/LIT-tmpt9ye6.md), read in [NOTE-tmp61nj5](../notes.d/NOTE-tmp61nj5.md),
   answer the worry that if-then plans make action rigid: plan effects
   appear only when the goal intention is strong and activated (p. 103),
   from four or five studies cited, not pooled. Sheeran, Listrom &
-  Gollwitzer (2024), LIT-tmpks817, read in NOTE-tmpauwdm, find the
+  Gollwitzer (2024), [LIT-tmpks817](../literature.d/LIT-tmpks817.md), read in [NOTE-tmpauwdm](../notes.d/NOTE-tmpauwdm.md), find the
   pattern across tests. Neither tests what happens when the planned
   response becomes the wrong one.
+supports:
+- CLAIM-tmp0qupq
 ---
 <!-- inactive-ok-file: CLAIM-349 CLAIM-tmp0qupq — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
@@ -36,8 +38,8 @@ summary: >-
 
 ## Source
 
-Gollwitzer & Sheeran, LIT-tmpt9ye6 (NOTE-tmp61nj5), pp. 103–104; Sheeran,
-Listrom & Gollwitzer, LIT-tmpks817 (NOTE-tmpauwdm), Table 2 and p. 177.
+Gollwitzer & Sheeran, [LIT-tmpt9ye6](../literature.d/LIT-tmpt9ye6.md) ([NOTE-tmp61nj5](../notes.d/NOTE-tmp61nj5.md)), pp. 103–104; Sheeran,
+Listrom & Gollwitzer, [LIT-tmpks817](../literature.d/LIT-tmpks817.md) ([NOTE-tmpauwdm](../notes.d/NOTE-tmpauwdm.md)), Table 2 and p. 177.
 
 ## What was actually shown
 
@@ -74,12 +76,12 @@ cue-to-action link with no gate would do.
 
 ## Connections
 
-- **CLAIM-tmp0qupq.** The claim contrasts a cached cue-to-action policy
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The claim contrasts a cached cue-to-action policy
   with a learned relation by which one process recruits another that can
   choose. This finding is a third arrangement between them: a cached
   mapping licensed by a higher-level state, the goal. It is closer to the
   claim's prior over actions, since the goal decides whether, not what.
   The claim's test, changing which action is appropriate, is the case the
   authors left open.
-- **CLAIM-349.** The goal keeps authority over whether the planned
+- **[CLAIM-349](../claims.d/CLAIM-349.md).** The goal keeps authority over whether the planned
   response is allowed to act; the plan's own authority is conditional.

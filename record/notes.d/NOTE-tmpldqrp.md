@@ -147,12 +147,12 @@ uncertainty is aversive because it "is resolved (i.e., marginalized) under
 pessimistic distributional assumptions" (p. 10). It points to replay and
 model-based planning as a possible mechanism, which would make worry
 "overcontemplating, or overweighting, certain pessimistic trajectories"
-(p. 11). Brown et al. (LIT-tmp9li67) later doubt that pessimistic policies
+(p. 11). Brown et al. ([LIT-tmp9li67](../literature.d/LIT-tmp9li67.md)) later doubt that pessimistic policies
 capture anxiety rather than normal behaviour under threat.
 
 ## Bearing on the record
 
-- **CLAIM-tmp8z857 (governance-maintained anxiety).** The exchange cited
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** The exchange cited
   the paper for pessimistic beliefs about one's own future control
   spreading avoidance backward. The reading confirms that and adds three
   things the claim must reckon with.
@@ -178,20 +178,20 @@ capture anxiety rather than normal behaviour under threat.
     matched memory". So the paper offers that alternative explanation for
     the same phenomenon, and the claim has to show something cached
     values would not.
-- **CLAIM-283 (claimed precedence against granted authority).** Not
+- **[CLAIM-283](../claims.d/CLAIM-283.md) (claimed precedence against granted authority).** Not
   addressed; the model has one valuation process, not several competing
   for authority.
-- **QUESTION-045.** A formal maintaining link (pessimism about future
+- **[QUESTION-045](../questions.d/QUESTION-045.md).** A formal maintaining link (pessimism about future
   control) and a formal reason for slow recovery, at the level of a model
   without individual data.
-- **THEORY-285.** A second model-level account of self-maintaining threat,
+- **[THEORY-285](../theory.d/THEORY-285.md).** A second model-level account of self-maintaining threat,
   with a different maintaining variable: there, a precise prior about the
   context; here, pessimism about one's own future policy.
 - **Correction to the exchange.** The exchange's "spreads avoidance
   backward in time" is close: the spread is to antecedent states in a
   state space, and with discounting it is also earlier in a trajectory. The
   paper is a set of simulations and has no data of its own.
-- Filed: THEORY-tmpgos5n.
+- Filed: [THEORY-tmpgos5n](../theory.d/THEORY-tmpgos5n.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

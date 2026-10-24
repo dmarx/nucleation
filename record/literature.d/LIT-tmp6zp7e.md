@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpj2vyl) from the CC BY version of record;
+  read in full 2026-10-24 ([NOTE-tmpj2vyl](../notes.d/NOTE-tmpj2vyl.md)) from the CC BY version of record;
   worth reading for the concept of ontological agency, an audience's
   maintenance of its routines, which often means ignoring securitisation
   rather than accepting or contesting it. Its South Korean illustration is
@@ -75,7 +75,7 @@ Ku, M. & Finch, B. (2024). Routines die hard: Ontological security and audience 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpj2vyl. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpj2vyl](../notes.d/NOTE-tmpj2vyl.md). Page numbers are the journal's.*
 
 - **Ontological agency.** "ontological agency is about inaction as much as
   action in the face of securitising acts" (p. 307).
@@ -94,7 +94,7 @@ Ku, M. & Finch, B. (2024). Routines die hard: Ontological security and audience 
 The exchange cited it at turn U16 for South Korean publics preserving their ordinary routines against anxiety-inducing security narratives. The abstract matches, and frames it as audience agency against securitisation in Buzan, Wæver and de Wilde's sense, registered in the same batch.
 
 **Corrected 2026-10-24, from the reading.** The exchange's description, and
-CLAIM-tmp28sti's use of it ("publics keeping ordinary routines against
+[CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md)'s use of it ("publics keeping ordinary routines against
 anxiety-inducing security narratives"), reverse the paper's point. Routines
 are kept against anxiety; the security narrative is not resisted but
 ignored, held latently, and left to reproduce itself, and accepting it
@@ -102,4 +102,4 @@ delegates the management of anxiety to elites. That supports the claim's
 epistemic feedback from the audience's side rather than limiting it. What
 does limit it is the reaction when the protector itself disrupted
 routines: blame of the military and of the embargo. Filed from it:
-THEORY-tmp2890h.
+[THEORY-tmp2890h](../theory.d/THEORY-tmp2890h.md).

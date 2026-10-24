@@ -147,13 +147,13 @@ maintaining factor (Salkovskis 1991; Ehlers & Clark 2000; Wells et al.
 1995). The review sets itself beside Meulders et al. 2016, which
 meta-analysed safety-behaviour instructions within exposure, and Blakey
 and Abramowitz 2016, which reviewed safety behaviours from the
-inhibitory-learning view of Craske et al. (LIT-tmpz7j0g). Most of the
+inhibitory-learning view of Craske et al. ([LIT-tmpz7j0g](../literature.d/LIT-tmpz7j0g.md)). Most of the
 included studies come from the senior author's group (Cougle; Patel &
 Cougle; Stentz & Cougle; Summers & Cougle; Wilver et al.; Zech et al.).
 
 ## Bearing on the record
 
-- **CLAIM-tmp8z857 (governance-maintained anxiety).** The exchange cited
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** The exchange cited
   it, unnamed, for the effect of reducing safety behaviours on its own,
   and gave the counts and d = 0.43 correctly. Three corrections. The
   bias-adjusted estimate is d = 0.31. Bias is shown for the symptom
@@ -181,17 +181,17 @@ Cougle; Stentz & Cougle; Summers & Cougle; Wilver et al.; Zech et al.).
     safety behaviours in students. Avoidance-maintained anxiety
     disorders, the claim's case, are thinly represented: one PTSD study,
     two checking studies and no panic or agoraphobia.
-- **THEORY-053 (efficacy is not evidence for a theory of change).** The
-  moderator is the kind of evidence THEORY-053 asks for, that moving
+- **[THEORY-053](../theory.d/THEORY-053.md) (efficacy is not evidence for a theory of change).** The
+  moderator is the kind of evidence [THEORY-053](../theory.d/THEORY-053.md) asks for, that moving
   the process moves the outcome, but it is between studies. No included
   study is reported as testing whether the safety-behaviour change
   precedes and mediates the symptom change. The authors flag expectancy
   effects as an alternative.
-- **THEORY-058 (self-reinforcing loops).** The bidirectional result
+- **[THEORY-058](../theory.d/THEORY-058.md) (self-reinforcing loops).** The bidirectional result
   (adding raises symptoms, removing lowers them) fits a loop through
   behaviour. It does not show the loop closes, which would need symptoms
   to raise safety behaviour in turn.
-- Filed from this reading: THEORY-tmp7wa5n.
+- Filed from this reading: [THEORY-tmp7wa5n](../theory.d/THEORY-tmp7wa5n.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

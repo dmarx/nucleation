@@ -181,7 +181,7 @@ of Moutoussis et al. (2008) and Maia (2010). It sets itself against
 Mowrer's two-factor theory, Lovibond's expectancy model (which it recasts
 in temporal-difference terms rather than rejecting), LeDoux et al.'s
 Pavlovian and habit routes, and emotional processing theory. It cites
-Zorowitz et al. (LIT-tmppvxx9) and Gagne & Dayan (2022) as pessimistic
+Zorowitz et al. ([LIT-tmppvxx9](../literature.d/LIT-tmppvxx9.md)) and Gagne & Dayan (2022) as pessimistic
 policies that produce avoidance, and doubts they capture anxiety: "This form
 of choice process, where avoiding negative outcomes is favored over
 maximizing reward, may better represent normative, negative
@@ -189,7 +189,7 @@ outcome-avoiding behavior in aversive environments than anxiety, however."
 
 ## Bearing on the record
 
-- **CLAIM-tmp8z857 (governance-maintained anxiety).** The exchange cited this
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** The exchange cited this
   review as adjacent evidence. The reading gives the claim one step and a
   rival.
   - **The step it supports.** The claim says avoidance keeps the
@@ -215,12 +215,12 @@ outcome-avoiding behavior in aversive environments than anxiety, however."
     point that early exposure targets avoidance before expectations, and
     that avoidance reduction precedes symptom change, fits the claim's
     separation of the two. The sources are cited, not read.
-- **QUESTION-045 (a disorder kept by behaviour that blocks its own
+- **[QUESTION-045](../questions.d/QUESTION-045.md) (a disorder kept by behaviour that blocks its own
   disconfirmation).** A candidate mechanism of the question's kind, at the
   level of verbal theory: the maintaining link is avoidance of uncertain
   states, and exposure cuts it. It offers no test that holds exposure fixed
   while cutting the link, and no individual data.
-- **THEORY-285.** The same shape in another formalism: an agent that
+- **[THEORY-285](../theory.d/THEORY-285.md).** The same shape in another formalism: an agent that
   will not sample where it is uncertain keeps the uncertainty. The active
   inference model makes the uncertainty a precise prior; here it is a
   miscalculated uncertainty estimate.
@@ -231,7 +231,7 @@ outcome-avoiding behavior in aversive environments than anxiety, however."
   seven studies chosen without a systematic search, and that the framework
   is for fear-based disorders and, by its authors' statement, does not
   explain GAD.
-- Filed: THEORY-tmp0vr2q (the empirical synthesis) and THEORY-tmpf8za8 (the
+- Filed: [THEORY-tmp0vr2q](../theory.d/THEORY-tmp0vr2q.md) (the empirical synthesis) and [THEORY-tmpf8za8](../theory.d/THEORY-tmpf8za8.md) (the
   avoidance–uncertainty loop, as a proposal).
 - No instruction for machine-learning practice; nothing for the anthology.
 

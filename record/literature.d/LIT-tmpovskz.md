@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpa6d2r) from the CC BY version of
+  read in full 2026-10-24 ([NOTE-tmpa6d2r](../notes.d/NOTE-tmpa6d2r.md)) from the CC BY version of
   record; worth reading as the review that set out what the first direct
   experiments (2014–2017) showed about eligibility traces on the scale of
   seconds: in striatum about 1 s, in cortex 3–10 s with the modulator
@@ -69,7 +69,7 @@ Gerstner, W., Lehmann, M., Liakoni, V., Corneil, D. & Brea, J. (2018). Eligibili
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpa6d2r. Page numbers are the article's.*
+*From the reading, [NOTE-tmpa6d2r](../notes.d/NOTE-tmpa6d2r.md). Page numbers are the article's.*
 
 - **The rule.** Co-activation sets a decaying flag; "a non-zero third
   factor is needed to transform the eligibility trace into a weight
@@ -96,8 +96,8 @@ Gerstner, W., Lehmann, M., Liakoni, V., Corneil, D. & Brea, J. (2018). Eligibili
 The exchange cited it at turn U11 for three-factor learning: activity that co-occurs is only marked as eligible, and a later signal decides whether it is kept. The abstract matches. The anthology may want it for its bearing on learning rules in machine learning, so the flag stands.
 
 **Corrected 2026-10-24, from the reading.** The description is right.
-What CLAIM-tmp0qupq cites it for, "three-factor rules are established",
+What [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) cites it for, "three-factor rules are established",
 is too strong: established for hour-scale consolidation, and recently
 supported in slices on the scale of seconds. The claim's rule also lacks
 the decaying trace that learning from delayed outcomes needs. Filed from
-it: THEORY-tmpeolav.
+it: [THEORY-tmpeolav](../theory.d/THEORY-tmpeolav.md).

@@ -160,14 +160,14 @@ the situation.
 It rests on Gollwitzer's theory of implementation intentions (1993, 1999)
 and the model of action phases, and on Bargh's features of automaticity.
 Its successor is Sheeran, Listrom & Gollwitzer's meta-analysis of 642
-tests (LIT-tmpks817, read in NOTE-tmpauwdm), which finds substantial
+tests ([LIT-tmpks817](../literature.d/LIT-tmpks817.md), read in [NOTE-tmpauwdm](NOTE-tmpauwdm.md)), which finds substantial
 publication bias and a much smaller corrected effect. The "if...then"
 profiles of Mischel and Shoda (1995) are named as personality's own
 situation–behaviour links, which a plan could be tailored to (p. 107).
 
 ## Bearing on the record
 
-- **CLAIM-tmp0qupq (a learned prior over which processes govern).** The
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) (a learned prior over which processes govern).** The
   claim cites this work as showing that implementation intentions are
   pre-arranged if–then links of situation to response. That is right, and
   the reading sharpens what kind of link it is.
@@ -176,14 +176,14 @@ situation–behaviour links, which a plan could be tailored to (p. 107).
     longer "has to deliberate in situ about what goal-directed response to
     undertake" (p. 100). That is the cached action policy the claim
     contrasts with a learned relation of influence, not an example of the
-    latter. Filed as THEORY-tmpfp8dy.
+    latter. Filed as [THEORY-tmpfp8dy](../theory.d/THEORY-tmpfp8dy.md).
   - **Its gating is goal-dependent, which the claim does not mention.**
     Plan effects appear only when the goal intention behind them is active
     and strong (p. 103). So the cached mapping is not unconditional: a
     higher-level state still decides whether it fires. That is a third
     arrangement beside the claim's two (cue-to-action, and recruitment of a
     process that chooses): a cue-to-action mapping licensed by a goal.
-    Filed as THEORY-tmp8y1fr.
+    Filed as [THEORY-tmp8y1fr](../theory.d/THEORY-tmp8y1fr.md).
   - **The claim's test is the authors' open question.** The claim
     distinguishes the two priors by what happens "when the appropriate
     action changes". The authors raise exactly this case, a plan that
@@ -198,19 +198,19 @@ situation–behaviour links, which a plan could be tailored to (p. 107).
     effort, not just stability (pp. 85, 96–97). They are small sets, and
     they show saving for a cached action, not for a learned allocation of
     authority.
-- **CLAIM-358 (learned accommodation reduces amortized cost).** The same
+- **[CLAIM-358](../claims.d/CLAIM-358.md) (learned accommodation reduces amortized cost).** The same
   efficiency and capability results are the nearest the record holds to a
   measured amortization in people: a decision taken once, in advance,
   costs less at each later encounter. They do not involve negotiation
   among processes.
-- **CLAIM-349 (access, authority and action are separable).** The ignore
+- **[CLAIM-349](../claims.d/CLAIM-349.md) (access, authority and action are separable).** The ignore
   responses (p. 83; Appendix I) cut a stimulus's access to action by plan;
   the goal-dependence result keeps the plan's own authority conditional.
   A loose parallel only.
-- **CLAIM-277 (durable authority from endorsement, and its entrenchment).**
+- **[CLAIM-277](../claims.d/CLAIM-277.md) (durable authority from endorsement, and its entrenchment).**
   Repetition of planned actions produced reported habit (p. 108), the
   route by which a planned mapping could entrench. Cited, not tested here.
-- **QUESTION-095 (caching computation).** The plan is a cached decision
+- **[QUESTION-095](../questions.d/QUESTION-095.md) (caching computation).** The plan is a cached decision
   in the plain sense; this chapter's efficiency results bear on it.
 - No instruction for machine-learning practice; nothing for the anthology.
 
@@ -220,8 +220,8 @@ situation–behaviour links, which a plan could be tailored to (p. 107).
   (p. 94), the basis for the authors' view that the review is unlikely to suffer
   from a file-drawer problem (p. 98). No funnel plot or trim and
   fill. The 2024 review of 642 tests finds Egger's b = 1.06, "substantial",
-  and a robust Bayesian estimate of d = .15 (NOTE-tmpauwdm,
-  THEORY-tmpk5znk).
+  and a robust Bayesian estimate of d = .15 ([NOTE-tmpauwdm](NOTE-tmpauwdm.md),
+  [THEORY-tmpk5znk](../theory.d/THEORY-tmpk5znk.md)).
 - **Fixed-effect pooling with heterogeneous effects** (Q(93) = 173.46). The
   confidence interval [.60, .70] is narrower than a random-effects one
   would be.
@@ -242,7 +242,7 @@ situation–behaviour links, which a plan could be tailored to (p. 107).
 - What happens to a planned mapping when the planned response becomes the
   wrong one: is it dropped, revised or kept? A design that trains a plan,
   then changes which response is correct, would answer the authors'
-  question and test CLAIM-tmp0qupq's distinction at once.
+  question and test [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s distinction at once.
 - Do immediacy, efficiency and lack of intent mediate goal attainment, as
   accessibility does?
 - Does goal-dependence survive repetition, or does a repeated plan become

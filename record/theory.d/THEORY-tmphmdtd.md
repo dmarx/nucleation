@@ -22,10 +22,10 @@ date: '2026-10-24'
 source:
 - LIT-1146
 summary: >-
-  Jia, MirTabatabaei, Friedkin & Bullo (2015), LIT-1146, read in
-  NOTE-tmpkn2yq from the version of record posted on the author's site;
+  Jia, MirTabatabaei, Friedkin & Bullo (2015), [LIT-1146](../literature.d/LIT-1146.md), read in
+  [NOTE-tmpkn2yq](../notes.d/NOTE-tmpkn2yq.md) from the version of record posted on the author's site;
   proofs skimmed. Theorems about a model, not findings about groups. The
-  empirical companion, LIT-tmpan19p (THEORY-tmp6h1sd), uses anchored
+  empirical companion, [LIT-tmpan19p](../literature.d/LIT-tmpan19p.md) ([THEORY-tmp6h1sd](THEORY-tmp6h1sd.md)), uses anchored
   dynamics and a changing network, whose attractor is autocracy rather
   than this interior equilibrium.
 supports:
@@ -37,7 +37,7 @@ supports:
 
 ## Source
 
-Jia, MirTabatabaei, Friedkin & Bullo, LIT-1146, read in NOTE-tmpkn2yq:
+Jia, MirTabatabaei, Friedkin & Bullo, [LIT-1146](../literature.d/LIT-1146.md), read in [NOTE-tmpkn2yq](../notes.d/NOTE-tmpkn2yq.md):
 Lemmas 2.2–3.2, Theorem 4.1, Proposition 4.2 and Section 5 (pp. 376–385),
 with proofs in Appendices B–G, skimmed.
 
@@ -73,15 +73,15 @@ consensus; then x(s+1) = w(x(s)), the dominant left eigenvector of W.
 
 ## Connections
 
-- **CLAIM-tmpd6q2w.** The baseline it names, now in exact form. Every
+- **[CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md).** The baseline it names, now in exact form. Every
   issue ends in consensus, so the record is always coherent; its content
   is weighted toward the central, and the unreached contribute nothing.
   That is a proved instance of coherence without integration, produced by
   uptake rather than by a regime of admission.
-- **THEORY-tmp6h1sd.** The experiment on the same mechanism under anchored
+- **[THEORY-tmp6h1sd](THEORY-tmp6h1sd.md).** The experiment on the same mechanism under anchored
   dynamics.
-- **THEORY-321.** Golub & Jackson's DeGroot result: a consensus is right
+- **[THEORY-321](THEORY-321.md).** Golub & Jackson's DeGroot result: a consensus is right
   in large societies only if no member's influence weight stays large.
   Under reflected appraisal the most central member's weight grows, which
-  is the condition THEORY-321 says defeats the wisdom of crowds. That
+  is the condition [THEORY-321](THEORY-321.md) says defeats the wisdom of crowds. That
   combination is the record's, not the paper's.

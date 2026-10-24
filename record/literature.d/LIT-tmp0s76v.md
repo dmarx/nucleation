@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp6j0uu) from the August 2021 ILE working
+  read in full 2026-10-24 ([NOTE-tmp6j0uu](../notes.d/NOTE-tmp6j0uu.md)) from the August 2021 ILE working
   paper, not the version of record; worth reading as the first
   cross-national count of states of emergency coded for lawfulness. Of 853
   national SOEs, 1949–2017, 115 were reported unlawful, 97 of them after
@@ -82,7 +82,7 @@ Bjørnskov, C., Voigt, S. & Khesali, M. (2022). Unconstitutional states of emerg
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp6j0uu. Page numbers are the 2021 working paper's.*
+*From the reading, [NOTE-tmp6j0uu](../notes.d/NOTE-tmp6j0uu.md). Page numbers are the 2021 working paper's.*
 
 - **The count.** "115 out of 853 analyzed SOEs as unconstitutional" (p. 3),
   coded from Factiva, Lexis/Nexis and NGO reports and from durations past
@@ -106,7 +106,7 @@ the authors say the cases "could also be called “suspected to be
 unlawful.”" (p. 14). The gap it measures is in declaration, conduct and
 duration during emergencies, not emergency powers outliving emergencies,
 which it names and cannot measure. Its strongest support for
-CLAIM-tmp28sti is prolongation: unlawful emergencies run nearly three
+[CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md) is prolongation: unlawful emergencies run nearly three
 times as long, and the authors hypothesize, without testing, that
 executives prolong an emergency to postpone review of their conduct under
-it (p. 11). Filed from it: THEORY-tmpfian9.
+it (p. 11). Filed from it: [THEORY-tmpfian9](../theory.d/THEORY-tmpfian9.md).

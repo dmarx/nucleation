@@ -22,8 +22,8 @@ source:
 - LIT-tmp35raq
 summary: >-
   Friston, FitzGerald, Rigoli, Schwartenbeck, O'Doherty & Pezzulo (2016),
-  LIT-tmp35raq, read in full from the CC BY version of record in
-  NOTE-tmpxqv1t. One simulated T-maze task. The habit is one more policy
+  [LIT-tmp35raq](../literature.d/LIT-tmp35raq.md), read in full from the CC BY version of record in
+  [NOTE-tmpxqv1t](../notes.d/NOTE-tmpxqv1t.md). One simulated T-maze task. The habit is one more policy
   scored by posterior probability; its prior and transitions grow by
   count, not by reward. It shows persistence under devaluation, a cached
   mapping failing when what is appropriate changes; it does not show
@@ -38,7 +38,7 @@ supports:
 ## Source
 
 Friston, FitzGerald, Rigoli, Schwartenbeck, O'Doherty & Pezzulo,
-LIT-tmp35raq, read in full in NOTE-tmpxqv1t from the version of record
+[LIT-tmp35raq](../literature.d/LIT-tmp35raq.md), read in full in [NOTE-tmpxqv1t](../notes.d/NOTE-tmpxqv1t.md) from the version of record
 (CC BY): pp. 865–869 (the model and its updates) and 874–876 (Figs 6–7).
 
 ## What was actually shown
@@ -84,14 +84,14 @@ and its better explanation of past outcomes outweighed that term.
 
 ## Connections
 
-- **CLAIM-tmp0qupq.** Supports it in two places and corrects one
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** Supports it in two places and corrects one
   citation. The formula π = σ(Ê − F − γ·G) is the claim's P(g | z, H) at
   the level of action policies. The devaluation result is its point that a
   prior over actions fails when what is appropriate changes, shown for the
   cached arm. But the paper's learned prior is frequency-driven, not the
   reward-modulated Hebbian bias the claim proposes, and it shows
   persistence, which the claim already says is not amortization.
-- **THEORY-062.** That account arbitrates model-based and model-free
+- **[THEORY-062](THEORY-062.md).** That account arbitrates model-based and model-free
   control by relative reliability. This one arbitrates by posterior
   probability with ambiguity added, and denies that model-free learning
   arises apart from model-based behaviour.

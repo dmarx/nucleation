@@ -20,12 +20,14 @@ date: '2026-10-24'
 source:
 - LIT-tmpciuti
 summary: >-
-  Chou, Wilson & Smith (preprint June 2024; NBR 2024), LIT-tmpciuti, read
-  in full from the PsyArXiv preprint in NOTE-tmp89chp. A narrative review;
+  Chou, Wilson & Smith (preprint June 2024; NBR 2024), [LIT-tmpciuti](../literature.d/LIT-tmpciuti.md), read
+  in full from the PsyArXiv preprint in [NOTE-tmp89chp](../notes.d/NOTE-tmp89chp.md). A narrative review;
   the pattern is the authors' reading of about eight studies with
   different tasks, models and anxiety measures, with one failed
   replication and one null. The authors hedge it with "may" and "many
   results could be seen to suggest".
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-tmpapk2z — Proposed; the claim and companion reading this bears on, named -->
 
@@ -33,7 +35,7 @@ summary: >-
 
 ## Source
 
-Chou, Wilson & Smith, LIT-tmpciuti, read in full in NOTE-tmp89chp from the
+Chou, Wilson & Smith, [LIT-tmpciuti](../literature.d/LIT-tmpciuti.md), read in full in [NOTE-tmp89chp](../notes.d/NOTE-tmp89chp.md) from the
 PsyArXiv preprint, version 1 (24 June 2024): pp. 15–20 and 28–29. The
 version of record is closed.
 
@@ -77,10 +79,10 @@ predict. In these reward tasks it did not.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** Narrows the claim. Its defensive authority over
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** Narrows the claim. Its defensive authority over
   evidence acquisition predicts less exploration; that fits the state and
   somatic facets, not the trait and cognitive ones, at least for reward.
   The Horizon result, information sought when it cannot be used, is the
   claim's "poorly governed information seeking" in one study.
-- **THEORY-tmpapk2z.** The foraging half of the same review, where the
+- **[THEORY-tmpapk2z](THEORY-tmpapk2z.md).** The foraging half of the same review, where the
   direction is consistent.

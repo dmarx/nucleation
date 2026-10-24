@@ -23,12 +23,14 @@ date: '2026-10-24'
 source:
 - LIT-tmp9li67
 summary: >-
-  Brown, Price & Dombrovski (2023; preprint 2022), LIT-tmp9li67, read in
-  full in NOTE-tmp1dwn4. A framework stated in words and schematic
+  Brown, Price & Dombrovski (2023; preprint 2022), [LIT-tmp9li67](../literature.d/LIT-tmp9li67.md), read in
+  full in [NOTE-tmp1dwn4](../notes.d/NOTE-tmp1dwn4.md). A framework stated in words and schematic
   figures: the loop is avoidance, unreduced uncertainty, more avoidance.
   It runs through an uncertainty estimate, a belief, with no authority or
   control variable. For fear-based disorders; by the authors' statement it
   does not explain exposure in GAD.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-285 THEORY-tmp0vr2q — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
@@ -36,7 +38,7 @@ summary: >-
 
 ## Source
 
-Brown, Price & Dombrovski, LIT-tmp9li67, read in full in NOTE-tmp1dwn4
+Brown, Price & Dombrovski, [LIT-tmp9li67](../literature.d/LIT-tmp9li67.md), read in full in [NOTE-tmp1dwn4](../notes.d/NOTE-tmp1dwn4.md)
 from the NIH author manuscript (PMC10475148): the sections from "The
 explore-exploit dilemma and avoidance" to "Practical advantages of
 incorporating uncertainty into anxiety treatment", and Figures 3 and 4.
@@ -80,14 +82,14 @@ lowering uncertainty with threat fixed might leave avoidance in place.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** Supports the step "the defense keeps the uncertainty
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** Supports the step "the defense keeps the uncertainty
   unresolved", and the claim's caution that defensive policy can be
   rational. It is also the belief-maintained rival the claim's defeater
   names: a loop of the same shape with no authority variable. A test of
   the claim has to hold the uncertainty estimate fixed as well as the
   represented threat.
-- **QUESTION-045.** A candidate maintaining link (avoidance of uncertain
+- **[QUESTION-045](../questions.d/QUESTION-045.md).** A candidate maintaining link (avoidance of uncertain
   states) and a candidate cut (exposure), at the level of verbal theory.
-- **THEORY-285.** The same self-sealing shape in active inference, where
+- **[THEORY-285](THEORY-285.md).** The same self-sealing shape in active inference, where
   an over-precise prior makes sampling look uninformative. Both are
   model-level; neither has individual data.

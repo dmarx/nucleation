@@ -21,13 +21,15 @@ date: '2026-10-24'
 source:
 - LIT-tmp4sdbb
 summary: >-
-  Mancinelli & Bach (preprint 2025; NBR 2026), LIT-tmp4sdbb, read in full
-  from the PsyArXiv preprint in NOTE-tmpk2tkp. Rated A ("protection from
+  Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-tmp4sdbb](../literature.d/LIT-tmp4sdbb.md), read in full
+  from the PsyArXiv preprint in [NOTE-tmpk2tkp](../notes.d/NOTE-tmpk2tkp.md). Rated A ("protection from
   extinction", 9 studies; "less efficient or more effortful AR imply less
   protection from extinction", 6 studies) in a systematic review of 116
   studies. Healthy volunteers, shock or noise. The authors' explanation,
   that effective avoidance leaves fewer chances to detect a change, is
   marked "putatively".
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-285 THEORY-tmpf8za8 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
@@ -35,7 +37,7 @@ summary: >-
 
 ## Source
 
-Mancinelli & Bach, LIT-tmp4sdbb, read in full in NOTE-tmpk2tkp from the
+Mancinelli & Bach, [LIT-tmp4sdbb](../literature.d/LIT-tmp4sdbb.md), read in full in [NOTE-tmpk2tkp](../notes.d/NOTE-tmpk2tkp.md) from the
 PsyArXiv preprint, version 1 (11 June 2025): pp. 17–20 and 28, and the
 table of phenomena (Fig. 4, p. 53). The version of record is closed.
 
@@ -73,18 +75,18 @@ fast with avoidance available as without.
   unavoided trials with effectiveness held fixed.
 - **That avoidance strengthens threat belief.** Here it preserves a belief
   that would otherwise extinguish. Raising belief in a stimulus never
-  paired with harm is a different phenomenon, THEORY-tmpmfnl0.
+  paired with harm is a different phenomenon, [THEORY-tmpmfnl0](THEORY-tmpmfnl0.md).
 - **That the effect is the same with real-world avoidance.** The
   responses are mostly signalled, instructed button presses, which the
   authors rate as their main risk of bias.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** The laboratory form of the claim's "avoidance
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The laboratory form of the claim's "avoidance
   destroys identifiability": under available avoidance, safe trials do not
   correct threat expectancy. It supports that step, in healthy people.
-- **THEORY-tmpf8za8.** Brown et al. propose the same loop with
+- **[THEORY-tmpf8za8](THEORY-tmpf8za8.md).** Brown et al. propose the same loop with
   uncertainty, not threat expectancy, as what avoidance preserves. The
   review does not separate the two.
-- **THEORY-285.** A model-level instance of the same self-sealing; this is
+- **[THEORY-285](THEORY-285.md).** A model-level instance of the same self-sealing; this is
   the human laboratory instance.

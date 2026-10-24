@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpldqrp) from the CC BY version of
+  read in full 2026-10-24 ([NOTE-tmpldqrp](../notes.d/NOTE-tmpldqrp.md)) from the CC BY version of
   record; worth reading for the derivation that avoidance far from a threat
   needs no overestimate of the threat, only an expectation that one will
   fail to avoid it later, which spreads threat value backward across a
@@ -74,7 +74,7 @@ Zorowitz, S., Momennejad, I. & Daw, N. D. (2020). Anxiety, avoidance, and sequen
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpldqrp. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpldqrp](../notes.d/NOTE-tmpldqrp.md). Page numbers are the journal's.*
 
 - **The core observation.** "If danger can be avoided later, it poses less
   threat now" (p. 1): under optimal evaluation avoidable threats do not
@@ -103,9 +103,9 @@ The exchange cited it at turn U14 for a computational account of anxious avoidan
 **Corrected 2026-10-24, from the reading.** The exchange's description is
 accurate; "backward in time" is, in the model, backward across antecedent
 states. The reading adds that the paper has no data of its own. For
-CLAIM-tmp8z857 it is a rival account with the threat represented
+[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) it is a rival account with the threat represented
 correctly and a belief about one's own future control doing the work, so a
 test that holds only the threat estimate fixed cannot separate the two; and
 its explanation for avoidance outlasting a corrected belief is cached
 value, the habit-with-memory alternative the claim's defeater names. Filed
-from it: THEORY-tmpgos5n.
+from it: [THEORY-tmpgos5n](../theory.d/THEORY-tmpgos5n.md).

@@ -20,8 +20,8 @@ date: '2026-10-24'
 source:
 - LIT-tmpovskz
 summary: >-
-  Gerstner, Lehmann, Liakoni, Corneil & Brea (2018), LIT-tmpovskz, read in
-  full from the CC BY version of record in NOTE-tmpa6d2r. A review of five
+  Gerstner, Lehmann, Liakoni, Corneil & Brea (2018), [LIT-tmpovskz](../literature.d/LIT-tmpovskz.md), read in
+  full from the CC BY version of record in [NOTE-tmpa6d2r](../notes.d/NOTE-tmpa6d2r.md). A review of five
   experimental papers, 2014–2017 (Yagishita; He; Brzosko 2015 and 2017;
   Bittner), not new data. Mostly slices, one laboratory per region; the
   minute-scale CA1 result may be consolidation. The reviewers grant that
@@ -35,8 +35,8 @@ supports:
 
 ## Source
 
-Gerstner, Lehmann, Liakoni, Corneil & Brea, LIT-tmpovskz, read in full in
-NOTE-tmpa6d2r from the version of record: section 3 (pp. 7–11) and
+Gerstner, Lehmann, Liakoni, Corneil & Brea, [LIT-tmpovskz](../literature.d/LIT-tmpovskz.md), read in full in
+[NOTE-tmpa6d2r](../notes.d/NOTE-tmpa6d2r.md) from the version of record: section 3 (pp. 7–11) and
 Figure 2, reviewing Yagishita et al. (2014), He et al. (2015), Brzosko et
 al. (2015, 2017) and Bittner et al. (2017).
 
@@ -77,7 +77,7 @@ cortex it was seconds.
 
 ## Connections
 
-- **CLAIM-tmp0qupq.** Supports the biological plausibility of the claim's
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** Supports the biological plausibility of the claim's
   schematic three-factor rule at the synapse, and narrows its "three-factor
   rules are established": recently supported in slices on the scale of
   seconds, established only for hour-scale consolidation. It also shows

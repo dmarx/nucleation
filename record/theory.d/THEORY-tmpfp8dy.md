@@ -20,13 +20,15 @@ date: '2026-10-24'
 source:
 - LIT-tmpt9ye6
 summary: >-
-  Gollwitzer & Sheeran (2006), LIT-tmpt9ye6, read in full in
-  NOTE-tmp61nj5. The component-process tables of the 94-test meta-analysis:
+  Gollwitzer & Sheeran (2006), [LIT-tmpt9ye6](../literature.d/LIT-tmpt9ye6.md), read in full in
+  [NOTE-tmp61nj5](../notes.d/NOTE-tmp61nj5.md). The component-process tables of the 94-test meta-analysis:
   large effects for the accessibility of the planned cue and for the
   immediacy, efficiency and non-conscious running of the planned response,
   each from one to seven tests, fixed-effect, without a bias correction.
   Only cue accessibility and cue–response link strength had been tested as
   mediators. The authors' gloss is "instant habits".
+supports:
+- CLAIM-tmp0qupq
 ---
 <!-- inactive-ok-file: CLAIM-358 CLAIM-tmp0qupq QUESTION-095 THEORY-tmp8y1fr THEORY-tmpk5znk — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
@@ -34,7 +36,7 @@ summary: >-
 
 ## Source
 
-Gollwitzer & Sheeran, LIT-tmpt9ye6, read in full in NOTE-tmp61nj5 from
+Gollwitzer & Sheeran, [LIT-tmpt9ye6](../literature.d/LIT-tmpt9ye6.md), read in full in [NOTE-tmp61nj5](../notes.d/NOTE-tmp61nj5.md) from
 the KOPS scan of the published chapter: pp. 83–86, 97, 99–100 and 106,
 with Table V.
 
@@ -70,15 +72,15 @@ responses are.
 - **That the effects are as large as reported.** Fixed-effect pooling,
   small k, many tests from the authors' groups, and no correction for
   publication bias; the 2024 review finds that bias substantial overall
-  (THEORY-tmpk5znk).
+  ([THEORY-tmpk5znk](THEORY-tmpk5znk.md)).
 - **That the plan makes control unconditional.** The same chapter reports
-  plan effects gated by the goal intention (THEORY-tmp8y1fr).
+  plan effects gated by the goal intention ([THEORY-tmp8y1fr](THEORY-tmp8y1fr.md)).
 - **That plans are habits.** The authors' figure is "instant habits"; the
   habit-like features were measured, not the history that makes a habit.
 
 ## Connections
 
-- **CLAIM-tmp0qupq.** The claim cites implementation intentions as
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The claim cites implementation intentions as
   pre-arranged links of situation to response. This is what the links do,
   as measured: a response fixed in advance and triggered by its cue, with
   later deliberation and effort saved. In the claim's terms it is a prior
@@ -86,5 +88,5 @@ responses are.
   conserved-capability results are measured savings of later work, the
   evidence the claim says persistence alone cannot give, for a cached
   action.
-- **CLAIM-358 and QUESTION-095.** The plainest case the record holds of a
+- **[CLAIM-358](../claims.d/CLAIM-358.md) and [QUESTION-095](../questions.d/QUESTION-095.md).** The plainest case the record holds of a
   decision cached and reused at lower cost.

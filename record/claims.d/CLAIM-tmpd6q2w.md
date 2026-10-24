@@ -27,6 +27,8 @@ grounds:
 - CASE-124
 - THEORY-tmphmdtd
 - THEORY-tmp6h1sd
+- LIT-Jia-2015-1146
+- LIT-tmpan19p
 summary: >-
   From the exchange of 2026-10-24 (workbench entry of 2026-10-24, U19–U21),
   after the owner pointed to [CASE-124](../cases.d/CASE-124.md) ("i think we already have a three
@@ -91,7 +93,7 @@ contests that bear on them, as [CLAIM-403](CLAIM-403.md)'s ladder (access, recog
 credibility, uptake) would require.
 
 
-Self-reinforcing authority is not itself new, and the DeGroot–Friedkin model of social power evolving by reflected appraisal is the baseline. Jia et al. 2015 (NOTE-tmpkn2yq, THEORY-tmphmdtd) prove a special case: every issue ends in consensus, so the record is always coherent. Its content is weighted toward the most central members, and members whom no path of influence reaches end with zero power. Friedkin, Jia and Bullo's laboratory test (NOTE-tmp6p1t2, THEORY-tmp6h1sd) supports the individual step: influence on one issue predicted closure on the next, and networks thinned. The predicted end state was not reached, and the authors leave open whether the gain in efficiency goes with more or less collective intelligence. Both exclude by uptake through a fixed network, with no maintained regime deciding who is heard; that regime is what this claim adds. One complication for the prediction above: the supplement argues, untested, that a reserved authority enforcing a full airing of every opinion still concentrates power. A protected challenge channel may therefore reveal disagreement without stopping concentration.
+Self-reinforcing authority is not itself new, and the DeGroot–Friedkin model of social power evolving by reflected appraisal is the baseline. Jia et al. 2015 ([NOTE-tmpkn2yq](../notes.d/NOTE-tmpkn2yq.md), [THEORY-tmphmdtd](../theory.d/THEORY-tmphmdtd.md)) prove a special case: every issue ends in consensus, so the record is always coherent. Its content is weighted toward the most central members, and members whom no path of influence reaches end with zero power. Friedkin, Jia and Bullo's laboratory test ([NOTE-tmp6p1t2](../notes.d/NOTE-tmp6p1t2.md), [THEORY-tmp6h1sd](../theory.d/THEORY-tmp6h1sd.md)) supports the individual step: influence on one issue predicted closure on the next, and networks thinned. The predicted end state was not reached, and the authors leave open whether the gain in efficiency goes with more or less collective intelligence. Both exclude by uptake through a fixed network, with no maintained regime deciding who is heard; that regime is what this claim adds. One complication for the prediction above: the supplement argues, untested, that a reserved authority enforcing a full airing of every opinion still concentrates power. A protected challenge channel may therefore reveal disagreement without stopping concentration.
 
 ## What it does not say
 

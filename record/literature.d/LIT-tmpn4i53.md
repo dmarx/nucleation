@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp9k96s) from the NIH author manuscript in
+  read in full 2026-10-24 ([NOTE-tmp9k96s](../notes.d/NOTE-tmp9k96s.md)) from the NIH author manuscript in
   PubMed Central, not the closed version of record; worth reading as the
   first meta-analysis of safety-behaviour manipulations made outside
   exposure. Reducing them lowered symptoms against control (d = 0.43, about
@@ -79,7 +79,7 @@ Goodson, J. T., Patel, T. A., Zech, J. M., Sala, M. C. & Cougle, J. R. (2026). T
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp9k96s. The manuscript has no page numbers;
+*From the reading, [NOTE-tmp9k96s](../notes.d/NOTE-tmp9k96s.md). The manuscript has no page numbers;
 locations are sections.*
 
 - **Both directions move symptoms.** Reduction against control:
@@ -108,7 +108,7 @@ right. Publication bias was shown for the symptom outcome of reduction
 (the adjusted estimate is d = 0.31), and could not be tested for the
 increase studies. The "moderators" are only two: study type, for the
 effect on safety behaviours, and the size of the safety-behaviour change,
-for symptoms. For CLAIM-tmp8z857 it supports the premise that protective
+for symptoms. For [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) it supports the premise that protective
 behaviour does causal work on symptoms. It is silent on the claim's
 distinctive thesis, since no included study separates belief from
-defensive authority. Filed from it: THEORY-tmp7wa5n.
+defensive authority. Filed from it: [THEORY-tmp7wa5n](../theory.d/THEORY-tmp7wa5n.md).

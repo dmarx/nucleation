@@ -89,7 +89,7 @@ is standardly cited for. A reading should check it first.
 The exchange cited it at turn U15 for behaviour as information: avoiding something is read back as evidence that it is dangerous. The abstract matches.
 
 **Noted 2026-10-24.** Not read: no lawful copy was found (see the status
-note). De Kleine et al. (LIT-tmpmi4k8, NOTE-tmp5cisg) cite this paper for
+note). De Kleine et al. ([LIT-tmpmi4k8](LIT-tmpmi4k8.md), [NOTE-tmp5cisg](../notes.d/NOTE-tmp5cisg.md)) cite this paper for
 behaviour-as-information. They offer it as one possible reason why
 patients avoided a safety cue, the act of avoiding giving the cue a
 threat meaning, and they do not test it.

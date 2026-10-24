@@ -20,13 +20,15 @@ date: '2026-10-24'
 source:
 - LIT-tmpa6pg6
 summary: >-
-  Edwards, Kober, Rinne, Griffin, Axelrod & Cooney (2021), LIT-tmpa6pg6,
-  read in full in NOTE-tmp2u3za. A chart and diary-card review: three of
+  Edwards, Kober, Rinne, Griffin, Axelrod & Cooney (2021), [LIT-tmpa6pg6](../literature.d/LIT-tmpa6pg6.md),
+  read in full in [NOTE-tmp2u3za](../notes.d/NOTE-tmp2u3za.md). A chart and diary-card review: three of
   eight urge-change correlations with the two predictors significant,
   none with behaviour frequency; month-4 abstinence from all target
   behaviours went with more homework (91% against 80%, p = .02), not
   significantly with more coaching (p = .096). No correction for multiple
   comparisons, selected sample, no measure of skill use.
+supports:
+- CLAIM-tmp0qupq
 ---
 <!-- inactive-ok-file: CLAIM-349 CLAIM-tmp0qupq — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
@@ -34,7 +36,7 @@ summary: >-
 
 ## Source
 
-Edwards et al., LIT-tmpa6pg6, read in full in NOTE-tmp2u3za from the
+Edwards et al., [LIT-tmpa6pg6](../literature.d/LIT-tmpa6pg6.md), read in full in [NOTE-tmp2u3za](../notes.d/NOTE-tmp2u3za.md) from the
 version of record posted on the Yale CANLab site: pp. 509–513 and 517–519,
 with Tables 2–4.
 
@@ -69,11 +71,11 @@ unrelated to change, as attendance was.
 
 ## Connections
 
-- **CLAIM-tmp0qupq.** The claim's DBT example has practice change which
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The claim's DBT example has practice change which
   process is recruited. This is evidence that practice and outcome go
   together, weakly, and says nothing about what practice changed or what
   it costs.
-- **CLAIM-349.** Its note of 2026-10-23 separates knowing a skill from
+- **[CLAIM-349](../claims.d/CLAIM-349.md).** Its note of 2026-10-23 separates knowing a skill from
   deploying it under pressure. Phone coaching is deployment supported from
   outside at the moment of need, and its association is with falling
   self-harm urges only.

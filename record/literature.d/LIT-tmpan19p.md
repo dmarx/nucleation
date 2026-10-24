@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp6p1t2) from the CC BY version of
+  read in full 2026-10-24 ([NOTE-tmp6p1t2](../notes.d/NOTE-tmp6p1t2.md)) from the CC BY version of
   record and its online supplement; worth reading as the first experiment
   long enough (30 groups of four, 15 issues each) to look for social power
   evolving along an issue sequence. A member's self-reported closure on
@@ -80,7 +80,7 @@ Friedkin, N. E., Jia, P. & Bullo, F. (2016). A theory of the evolution of social
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp6p1t2. Page numbers are the journal's; S for
+*From the reading, [NOTE-tmp6p1t2](../notes.d/NOTE-tmp6p1t2.md). Page numbers are the journal's; S for
 the supplement.*
 
 - **The mechanism.** "Success in influencing group issue outcomes elevates
@@ -108,10 +108,10 @@ The exchange cited it at turn U19 as the laboratory support for DeGroot–Friedk
 **Corrected 2026-10-24, from the reading.** Two corrections. The
 experiment's model of each discussion is Friedkin–Johnsen, with members
 anchored to their initial opinions, not DeGroot; its predicted attractor
-is a single closed member, where the DeGroot–Friedkin model of LIT-1146
+is a single closed member, where the DeGroot–Friedkin model of [LIT-1146](LIT-1146.md)
 predicts power ordered by centrality and autocracy only for a star. And
 what the laboratory supports is the individual step, closure following
 prior influence, with structural trends; the predicted end state was not
-reached. For CLAIM-tmpd6q2w it supports the self-reinforcing baseline and
+reached. For [CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) it supports the self-reinforcing baseline and
 the point that faster settlement is not better integration. Filed from
-it: THEORY-tmp6h1sd.
+it: [THEORY-tmp6h1sd](../theory.d/THEORY-tmp6h1sd.md).

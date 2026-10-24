@@ -153,11 +153,11 @@ influence centrality are reinforced" (p. 470).
 
 ## Connections
 
-It is the empirical companion of Jia et al. 2015 (LIT-1146, read today in
-NOTE-tmpkn2yq), which analyses the same mechanism with DeGroot dynamics on
+It is the empirical companion of Jia et al. 2015 ([LIT-1146](../literature.d/LIT-1146.md), read today in
+[NOTE-tmpkn2yq](NOTE-tmpkn2yq.md)), which analyses the same mechanism with DeGroot dynamics on
 each issue and a fixed relative interaction matrix, and of Friedkin's
-earlier formal theory (LIT-1404, unread). The record's reading of Cooley
-(NOTE-1080) is the source of the reflected-appraisal idea. The supplement
+earlier formal theory ([LIT-1404](../literature.d/LIT-1404.md), unread). The record's reading of Cooley
+([NOTE-1080](NOTE-1080.md)) is the source of the reflected-appraisal idea. The supplement
 connects it to Michels' iron law of oligarchy and to Janis on groupthink.
 
 ## Bearing on the record
@@ -167,16 +167,16 @@ connects it to Michels' iron law of oligarchy and to Janis on groupthink.
   - **The experiment's model is Friedkin–Johnsen, not DeGroot.** On each
     issue members stay anchored to their initial opinions, and the
     predicted attractor is one fully closed member, an autocracy. The
-    DeGroot–Friedkin model of LIT-1146 predicts instead an interior
+    DeGroot–Friedkin model of [LIT-1146](../literature.d/LIT-1146.md) predicts instead an interior
     equilibrium with power ranked by centrality, and autocracy only for a
-    star network. LIT-1146 notes that the F-J simulations show "a more
+    star network. [LIT-1146](../literature.d/LIT-1146.md) notes that the F-J simulations show "a more
     pronounced tendency to autocracy".
   - **What the laboratory supports is the individual step.** Closure
     tracked prior centrality, and network structure shifted. The group-level
     endpoint, a directive leader and consensus on that member's opinion,
     was not reached; consensus did not become more frequent.
-- **CLAIM-tmpd6q2w (coherence is not integration).** The claim cites
-  this paper with LIT-1146 as the baseline for self-reinforcing authority.
+- **[CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) (coherence is not integration).** The claim cites
+  this paper with [LIT-1146](../literature.d/LIT-1146.md) as the baseline for self-reinforcing authority.
   The reading supports that, and bears on the claim in three further ways.
   - **Supports: efficiency is not quality.** The groups got faster and
     their networks thinner as influence concentrated. The authors say
@@ -189,7 +189,7 @@ connects it to Michels' iron law of oligarchy and to Janis on groupthink.
     members stopped allocating influence to some others. This is a loss
     of uptake rather than of admission: the dissenters spoke and were
     discounted. It is nearer the claim's "access, recognition, credibility,
-    uptake" ladder (CLAIM-403) than to a regime that keeps contests off the
+    uptake" ladder ([CLAIM-403](../claims.d/CLAIM-403.md)) than to a regime that keeps contests off the
     record, and it shows a coherence that comes from concentration without
     any chair deciding what is admitted.
   - **Complicates the protected-channel prediction.** The claim predicts
@@ -201,12 +201,12 @@ connects it to Michels' iron law of oligarchy and to Janis on groupthink.
     group members" (S10). If so, admitting every view does not by itself
     stop the record from becoming coherent by concentration; the reflection
     step acts after admission.
-  - Filed as THEORY-tmp6h1sd.
-- **CLAIM-tmpuxcp6 (cycles, tension and dissonance).** Indirectly, through
+  - Filed as [THEORY-tmp6h1sd](../theory.d/THEORY-tmp6h1sd.md).
+- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) (cycles, tension and dissonance).** Indirectly, through
   the claim's "entrench" route: one perspective learns to dominate and
   choices become consistent. This paper is a mechanism for that route
   among people. It says nothing about cycles or dissonance.
-- **CLAIM-277 and CLAIM-364 (durable authority; low supervisory cost).**
+- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-364](../claims.d/CLAIM-364.md) (durable authority; low supervisory cost).**
   A social instance of authority made durable by its own success, and of
   rising efficiency that says nothing about domination.
 - No instruction for machine-learning practice.

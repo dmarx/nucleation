@@ -205,11 +205,11 @@ reinforcement learning. It names Moutoussis et al. (2008) and Maia (2010)
 as the only implemented avoidance models, and points to latent-cause
 inference (Gershman, Niv) and Bayesian treatments of controllability
 (Huys & Dayan 2009; Zamfir & Dayan 2022) as where theory should go. It does
-not cite Zorowitz et al. (LIT-tmppvxx9).
+not cite Zorowitz et al. ([LIT-tmppvxx9](../literature.d/LIT-tmppvxx9.md)).
 
 ## Bearing on the record
 
-- **CLAIM-tmp8z857 (governance-maintained anxiety).** The review is
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** The review is
   laboratory evidence in healthy people. Within that limit it bears on
   three of the claim's steps, and it sharpens one.
   - **Avoidance destroys identifiability: supported.** The claim's
@@ -244,7 +244,7 @@ not cite Zorowitz et al. (LIT-tmppvxx9).
   - **Not anxiety.** No clinical sample was included, and the paradigms
     are by the authors' account simpler than real avoidance. The review
     cannot say whether any of this is how anxiety is maintained.
-- **QUESTION-045.** The review's response-prevention studies are the
+- **[QUESTION-045](../questions.d/QUESTION-045.md).** The review's response-prevention studies are the
   closest existing design to the question's test of cutting a maintaining
   link: removing the response during extinction. Their result is mixed:
   threat ratings fall during prevention but return when the response is
@@ -257,9 +257,9 @@ not cite Zorowitz et al. (LIT-tmppvxx9).
   expectancy theory by name (the abstract does not), but it also says the
   evidence "contradicts a purely inference-based account". Its studies are
   of healthy people only, with shock or noise.
-- Filed: THEORY-tmp541sg (persistence and protection from extinction),
-  THEORY-tmpmfnl0 (avoidance raising threat expectancy for a safe
-  stimulus) and THEORY-tmp4ahqw (the verdict on theories).
+- Filed: [THEORY-tmp541sg](../theory.d/THEORY-tmp541sg.md) (persistence and protection from extinction),
+  [THEORY-tmpmfnl0](../theory.d/THEORY-tmpmfnl0.md) (avoidance raising threat expectancy for a safe
+  stimulus) and [THEORY-tmp4ahqw](../theory.d/THEORY-tmp4ahqw.md) (the verdict on theories).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

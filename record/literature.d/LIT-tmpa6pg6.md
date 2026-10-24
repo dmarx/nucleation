@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp2u3za) from the version of record
+  read in full 2026-10-24 ([NOTE-tmp2u3za](../notes.d/NOTE-tmp2u3za.md)) from the version of record
   posted on the Yale lab site of the second author; worth reading as the
   first study to relate DBT skills homework and phone coaching to outcome,
   and for how little it can show. In a chart review of 56 of 88 patients
@@ -83,7 +83,7 @@ Edwards, E. R., Kober, H., Rinne, G. R., Griffin, S. A., Axelrod, S. & Cooney, E
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp2u3za. Page numbers are the journal's.*
+*From the reading, [NOTE-tmp2u3za](../notes.d/NOTE-tmp2u3za.md). Page numbers are the journal's.*
 
 - **Urges, not behaviour frequency.** Homework with change in suicide
   urges r = .35 and substance-use urges r = .36; coaching with self-harm
@@ -107,6 +107,6 @@ behavioural result (no target behaviour in month 4) holds for homework
 only. The 56 are not all completers but those of 88 who also kept enough
 diary cards. The study supports, weakly, that DBT practice and outcome go
 together; it measures neither skill use nor the cost of deploying a
-skill, so it cannot bear on CLAIM-tmp0qupq's limits or on CLAIM-349's note
+skill, so it cannot bear on [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s limits or on [CLAIM-349](../claims.d/CLAIM-349.md)'s note
 that practice makes a skill cheap to deploy. Filed from it:
-THEORY-tmpxv4qd.
+[THEORY-tmpxv4qd](../theory.d/THEORY-tmpxv4qd.md).

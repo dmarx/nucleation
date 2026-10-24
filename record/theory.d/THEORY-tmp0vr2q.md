@@ -21,13 +21,15 @@ date: '2026-10-24'
 source:
 - LIT-tmp9li67
 summary: >-
-  Brown, Price & Dombrovski (2023; preprint 2022), LIT-tmp9li67, read in
-  full from the NIH author manuscript in NOTE-tmp1dwn4. Their Table 2 and
+  Brown, Price & Dombrovski (2023; preprint 2022), [LIT-tmp9li67](../literature.d/LIT-tmp9li67.md), read in
+  full from the NIH author manuscript in [NOTE-tmp1dwn4](../notes.d/NOTE-tmp1dwn4.md). Their Table 2 and
   the synthesis drawn from it: under volatility anxious people adjust
   learning too little except after very surprising outcomes, and under
   noise they learn too fast, an effect the authors call less consistent.
   A narrative review of seven studies, not a meta-analysis; the reading
   that anxiety cannot tell noise from change is the authors'.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-tmpf8za8 — Proposed; the claim this bears on and the companion filed from the same reading, named -->
 
@@ -35,7 +37,7 @@ summary: >-
 
 ## Source
 
-Brown, Price & Dombrovski, LIT-tmp9li67, read in full in NOTE-tmp1dwn4
+Brown, Price & Dombrovski, [LIT-tmp9li67](../literature.d/LIT-tmp9li67.md), read in full in [NOTE-tmp1dwn4](../notes.d/NOTE-tmp1dwn4.md)
 from the NIH author manuscript (PMC10475148): the sections "Reinforcement
 learning studies of anxiety" and "Anxiety as maladaptive aversive
 uncertainty learning", and Table 2. The version of record could not be
@@ -80,11 +82,11 @@ these studies, by the authors' reading, they mostly did not.
   rates in both anxiety and depression.
 - **Anything about avoidance.** These are learning tasks without
   avoidance. The link to avoidance is the authors' proposal, filed
-  separately as THEORY-tmpf8za8.
+  separately as [THEORY-tmpf8za8](THEORY-tmpf8za8.md).
 
 ## Connections
 
-It bears on CLAIM-tmp8z857 as background: the anxiety it describes is a
+It bears on [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) as background: the anxiety it describes is a
 disorder of how evidence is weighed, not of how dangerous things are judged
 to be, which fits the claim's statement that the defining feature "need not
 be a high estimate of danger". It does not bear on authority.

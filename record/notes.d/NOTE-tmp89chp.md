@@ -154,7 +154,7 @@ could be seen as manifestations of uncertainty avoidance" (p. 31).
 It rests on Wilson et al.'s Horizon Task (2014), Gershman's two-armed
 bandit (2018, 2019), Constantino & Daw's foraging task (2015) and Piray &
 Daw (2021) on noise and volatility. It overlaps with Brown et al.
-(LIT-tmp9li67) on uncertainty learning in anxiety but concentrates on
+([LIT-tmp9li67](../literature.d/LIT-tmp9li67.md)) on uncertainty learning in anxiety but concentrates on
 exploration in reward tasks, where Brown et al. concentrate on avoidance in
 aversive ones. It suggests exposure therapy "can be straightforwardly
 conceptualized as directed exploration, where an individual tests their
@@ -163,7 +163,7 @@ expectations by approaching feared situations currently being avoided"
 
 ## Bearing on the record
 
-- **CLAIM-tmp8z857 (governance-maintained anxiety).** The claim says
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** The claim says
   anticipated threat gives defensive processes authority over "evidence
   acquisition", and that in hypervigilance the failure is "not less
   information seeking but poorly governed information seeking: checking,
@@ -186,11 +186,11 @@ expectations by approaching feared situations currently being avoided"
     threatens nothing; only the predator task and the shock-learning
     studies involve threat. The claim is about threat. Studies of
     exploration under threat are what would test it.
-- **THEORY-tmpf8za8 (Brown et al.'s loop).** Foraging results and the
+- **[THEORY-tmpf8za8](../theory.d/THEORY-tmpf8za8.md) (Brown et al.'s loop).** Foraging results and the
   predator task fit its prediction that uncertainty under threat reduces
   exploration; the bandit results with trait anxiety do not obviously fit,
   but they are reward tasks, where Brown et al. predict the opposite sign.
-- **THEORY-tmp0vr2q.** The learning-rate section reports the same
+- **[THEORY-tmp0vr2q](../theory.d/THEORY-tmp0vr2q.md).** The learning-rate section reports the same
   studies (Browning et al. 2015) and adds the opposite directions for state
   and trait, and for somatic and cognitive, anxiety.
 - **Corrections.** The exchange's description (directed exploration
@@ -199,9 +199,9 @@ expectations by approaching feared situations currently being avoided"
   "may". The record should add that the review is narrative, not
   systematic, that most studies are sub-clinical and none replicated, and
   that the preprint appeared on 24 June 2024, which is `published:` under
-  ADR-002, not the November online date.
-- Filed: THEORY-tmphx93a (directed and random exploration in bandit tasks)
-  and THEORY-tmpapk2z (less exploration in foraging, and less checking for
+  [ADR-002](../decisions.d/ADR-002.md), not the November online date.
+- Filed: [THEORY-tmphx93a](../theory.d/THEORY-tmphx93a.md) (directed and random exploration in bandit tasks)
+  and [THEORY-tmpapk2z](../theory.d/THEORY-tmpapk2z.md) (less exploration in foraging, and less checking for
   threat).
 - No instruction for machine-learning practice; nothing for the anthology.
 

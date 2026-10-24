@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp9vttu) from the Israel Democracy
+  read in full 2026-10-24 ([NOTE-tmp9vttu](../notes.d/NOTE-tmp9vttu.md)) from the Israel Democracy
   Institute's web page, which is the whole of what is published; worth
   reading only for its three channels (formal emergency powers, powers
   functionally equivalent to them, emergency rhetoric) and its account of
@@ -73,7 +73,7 @@ Dagan, N. & Benvenisty, D. (2026). Autocratization and States of Emergency in Co
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp9vttu, cited by paragraph.*
+*From the reading, [NOTE-tmp9vttu](../notes.d/NOTE-tmp9vttu.md), cited by paragraph.*
 
 - **Three channels.** Formal emergency powers; "extraordinary powers
   functionally equivalent to emergency powers, even if not formally defined
@@ -94,5 +94,5 @@ The exchange cited it at turn U16, unnamed, as a February 2026 comparative study
 description. What it can bear is narrower than a study of emergency
 governance and democratic erosion suggests: cases chosen on the outcome,
 unsourced, and a mostly intentional account (leaders exploiting crises),
-where CLAIM-tmp28sti's mechanism needs no bad faith. Cite it for the
-channels and for Hungary, not for a link. Filed from it: THEORY-tmpaf612.
+where [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md)'s mechanism needs no bad faith. Cite it for the
+channels and for Hungary, not for a link. Filed from it: [THEORY-tmpaf612](../theory.d/THEORY-tmpaf612.md).

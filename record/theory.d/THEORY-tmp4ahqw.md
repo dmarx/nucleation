@@ -20,13 +20,15 @@ date: '2026-10-24'
 source:
 - LIT-tmp4sdbb
 summary: >-
-  Mancinelli & Bach (preprint 2025; NBR 2026), LIT-tmp4sdbb, read in full
-  in NOTE-tmpk2tkp. A PRISMA review without meta-analysis, searched to
+  Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-tmp4sdbb](../literature.d/LIT-tmp4sdbb.md), read in full
+  in [NOTE-tmpk2tkp](../notes.d/NOTE-tmpk2tkp.md). A PRISMA review without meta-analysis, searched to
   December 2024, of studies with shock or noise in healthy volunteers. The
   verdict is the authors' scoring of five theories against phenomena they
   rate for robustness; no model was fitted. They argue current paradigms
   are too simple to expose where inference gives way to Pavlovian
   control.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-tmpf8za8 — Proposed; the claim and reading this bears on, named -->
 
@@ -34,7 +36,7 @@ summary: >-
 
 ## Source
 
-Mancinelli & Bach, LIT-tmp4sdbb, read in full in NOTE-tmpk2tkp from the
+Mancinelli & Bach, [LIT-tmp4sdbb](../literature.d/LIT-tmp4sdbb.md), read in full in [NOTE-tmpk2tkp](../notes.d/NOTE-tmpk2tkp.md) from the
 PsyArXiv preprint: pp. 2, 9–28, and Figs 1 and 4 (pp. 50, 53).
 
 ## What was actually shown
@@ -84,13 +86,13 @@ was visibly gone, as expectancy theory predicts.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** The claim's account is inferential at its core (the
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The claim's account is inferential at its core (the
   likelihood ratio under avoidance), and this verdict is favourable to
   that framing. The residual avoidance after signalled omission is the
   laboratory case of defence outlasting a corrected expectation, which the
   claim needs, though its explanation here is Pavlovian rather than
   governance.
-- **THEORY-tmpf8za8.** Brown et al. recast expectancy theory in
+- **[THEORY-tmpf8za8](THEORY-tmpf8za8.md).** Brown et al. recast expectancy theory in
   temporal-difference terms; this review says the existing
   temporal-difference models are model-free and fail the inferential
   phenomena.

@@ -19,12 +19,14 @@ date: '2026-10-24'
 source:
 - LIT-tmpks817
 summary: >-
-  Sheeran, Listrom & Gollwitzer (2024), LIT-tmpks817, read in full in
-  NOTE-tmpauwdm. Table 3's moderators across 642 tests: contingent format
+  Sheeran, Listrom & Gollwitzer (2024), [LIT-tmpks817](../literature.d/LIT-tmpks817.md), read in full in
+  [NOTE-tmpauwdm](../notes.d/NOTE-tmpauwdm.md). Table 3's moderators across 642 tests: contingent format
   .43 (k = 373), schedule .29 (k = 269); rehearsal .45 against .33;
   recording .31 against .44; visualising the response no effect. The
   authors read the recording and elaboration costs as deliberation
   undermining automaticity. Between-test and uncorrected for bias.
+supports:
+- CLAIM-tmp0qupq
 ---
 <!-- inactive-ok-file: CLAIM-tmp0qupq THEORY-tmpfp8dy — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
@@ -32,8 +34,8 @@ summary: >-
 
 ## Source
 
-Sheeran, Listrom & Gollwitzer, LIT-tmpks817, read in full in
-NOTE-tmpauwdm: pp. 165–166, 173–175 and 179–180, with Tables 3 and 4.
+Sheeran, Listrom & Gollwitzer, [LIT-tmpks817](../literature.d/LIT-tmpks817.md), read in full in
+[NOTE-tmpauwdm](../notes.d/NOTE-tmpauwdm.md): pp. 165–166, 173–175 and 179–180, with Tables 3 and 4.
 
 ## What was actually shown
 
@@ -64,12 +66,12 @@ could have helped as a reminder, as the authors thought possible (p. 165).
 
 ## Connections
 
-- **CLAIM-tmp0qupq.** The claim's mechanism is learned relations, not
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The claim's mechanism is learned relations, not
   fixed behaviour. That the conditional link outperforms a schedule of the
   same behaviour is consistent with the link being what matters, though
   the link here runs from cue to action. That revisiting the plan weakens
   it is consistent with the plan's value being deliberation removed from
   the moment: the amortization side of the claim, shown here only as an
   outcome difference, not as computation saved.
-- **THEORY-tmpfp8dy** holds the automaticity evidence the authors'
+- **[THEORY-tmpfp8dy](THEORY-tmpfp8dy.md)** holds the automaticity evidence the authors'
   reading leans on.

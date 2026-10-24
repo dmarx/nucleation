@@ -154,14 +154,14 @@ model-free account of goal-directed and habitual control (Daw et al. 2005,
 2011) and with views on which habits are the invariant aspects of
 goal-directed behaviour (Dezfouli & Balleine 2013; Pezzulo et al.). It
 says its arbitration "is closely related to" Daw et al. (2005) and Lee et
-al. (2014). The record's THEORY-062, on arbitration between model-based
+al. (2014). The record's [THEORY-062](../theory.d/THEORY-062.md), on arbitration between model-based
 and model-free control by reliability, is the nearest account the record
 holds; this paper arbitrates by posterior probability, which includes
 reliability through precision, and adds ambiguity.
 
 ## Bearing on the record
 
-- **CLAIM-tmp0qupq (a learned prior over which processes govern).** The
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) (a learned prior over which processes govern).** The
   claim cites this paper for active inference already representing
   "habits as learned priors over policies, beside online evaluation". The
   reading supports that, with three corrections.
@@ -199,12 +199,12 @@ reliability through precision, and adds ambiguity.
     behaviour Bayes-optimal. This supports the claim's own reserve that
     Hebbian updates, Bayesian policy priors and learned arbitration can
     yield the same behaviour.
-  - Filed as THEORY-tmpydeuq.
-- **CLAIM-tmp8z857 (anxiety as entrenched governance).** Indirect. The
+  - Filed as [THEORY-tmpydeuq](../theory.d/THEORY-tmpydeuq.md).
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (anxiety as entrenched governance).** Indirect. The
   perseveration after reversal (Fig. 5), produced by a learned prior over
   context alone, is a second route to persistence, distinct from habit.
   The paper does not discuss anxiety.
-- **CLAIM-277 and CLAIM-358.** Not tested. The paper has no cost measure
+- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-358](../claims.d/CLAIM-358.md).** Not tested. The paper has no cost measure
   beyond simulated processing time.
 - No instruction for machine-learning practice; nothing for the
   anthology.

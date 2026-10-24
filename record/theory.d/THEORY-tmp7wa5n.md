@@ -19,14 +19,16 @@ date: '2026-10-24'
 source:
 - LIT-tmpn4i53
 summary: >-
-  Goodson, Patel, Zech, Sala & Cougle (2026), LIT-tmpn4i53, read in full
-  from the PMC author manuscript in NOTE-tmp9k96s. 26 studies reviewed,
+  Goodson, Patel, Zech, Sala & Cougle (2026), [LIT-tmpn4i53](../literature.d/LIT-tmpn4i53.md), read in full
+  from the PMC author manuscript in [NOTE-tmp9k96s](../notes.d/NOTE-tmp9k96s.md). 26 studies reviewed,
   16 in the reduction and 5 in the increase meta-analyses. The size of the
   safety-behaviour change moderated the symptom effect (B = 0.23). Egger's
   test was significant for the reduction effect on symptoms, and the
   increase studies could not be tested for bias. It says nothing about
   the mechanism by which safety behaviours act, and diagnosed anxiety
   disorders are thinly represented.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-058 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 
@@ -34,8 +36,8 @@ summary: >-
 
 ## Source
 
-Goodson, Patel, Zech, Sala & Cougle, LIT-tmpn4i53, read in full in
-NOTE-tmp9k96s from the NIH author manuscript (PMC12997458): Results,
+Goodson, Patel, Zech, Sala & Cougle, [LIT-tmpn4i53](../literature.d/LIT-tmpn4i53.md), read in full in
+[NOTE-tmp9k96s](../notes.d/NOTE-tmp9k96s.md) from the NIH author manuscript (PMC12997458): Results,
 Discussion and Table 1. The version of record is closed and was not
 read.
 
@@ -72,10 +74,10 @@ nearly found for safety-behaviour instructions within exposure.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** It supports the premise that protective behaviour
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** It supports the premise that protective behaviour
   does causal work on symptoms. It is silent on the claim's distinctive
   thesis that defensive authority, not belief, is the maintaining link.
-- **THEORY-053.** The moderator is process-outcome covariation of the
+- **[THEORY-053](THEORY-053.md).** The moderator is process-outcome covariation of the
   kind that theory asks for, but between studies, not within them.
-- **THEORY-058.** Both directions of the manipulation move symptoms,
+- **[THEORY-058](THEORY-058.md).** Both directions of the manipulation move symptoms,
   which fits a loop through behaviour without showing that it closes.

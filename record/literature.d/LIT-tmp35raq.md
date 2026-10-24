@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpxqv1t) from the CC BY version of
+  read in full 2026-10-24 ([NOTE-tmpxqv1t](../notes.d/NOTE-tmpxqv1t.md)) from the CC BY version of
   record; worth reading as the active inference account in which a habit
   is one more policy, its transitions and prior probability learned by
   counting the agent's own behaviour, so that habits form from
@@ -81,7 +81,7 @@ Friston, K., FitzGerald, T., Rigoli, F., Schwartenbeck, P., O'Doherty, J. & Pezz
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpxqv1t. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpxqv1t](../notes.d/NOTE-tmpxqv1t.md). Page numbers are the journal's.*
 
 - **A habit is one more policy.** It maps each state to the next whatever
   the time or context, and "Because habits are just another policy, the
@@ -113,5 +113,5 @@ separate state-to-state policy whose transitions are learned, and a prior
 over all policies, learned by counting which policies were pursued. Both
 grow by frequency, not by reward. The habit competes with the sequential
 policies by posterior probability on every trial, so it sits beside online
-evaluation as CLAIM-tmp0qupq says; it shows persistence, not saved
-computation. Filed from it: THEORY-tmpydeuq.
+evaluation as [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) says; it shows persistence, not saved
+computation. Filed from it: [THEORY-tmpydeuq](../theory.d/THEORY-tmpydeuq.md).

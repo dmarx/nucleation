@@ -41,7 +41,7 @@ summary: >-
 
 ## Contribution
 
-The 2006 meta-analysis (LIT-tmpt9ye6) pooled 94 tests of goal attainment.
+The 2006 meta-analysis ([LIT-tmpt9ye6](../literature.d/LIT-tmpt9ye6.md)) pooled 94 tests of goal attainment.
 This one pools 642 tests, widens the outcomes to cognition, affect and
 social judgement, corrects for publication bias, and asks two new
 questions: for which outcomes and study features planning works (its
@@ -160,7 +160,7 @@ deliberation about the plan, such as keeping a written copy, undermines it.
 
 ## Connections
 
-It updates Gollwitzer & Sheeran 2006 (LIT-tmpt9ye6, NOTE-tmp61nj5) and
+It updates Gollwitzer & Sheeran 2006 ([LIT-tmpt9ye6](../literature.d/LIT-tmpt9ye6.md), [NOTE-tmp61nj5](NOTE-tmp61nj5.md)) and
 corrects its picture of the effect's size: the 2006 estimate was d = .65
 from 94 tests with no correction for bias. It draws on Webb & Sheeran's
 mediation studies for the mechanism, on Webb, Schweiger Gallo et al.'s
@@ -169,13 +169,13 @@ and on the RoBMA method of Maier, Bartoš and Wagenmakers.
 
 ## Bearing on the record
 
-- **CLAIM-tmp0qupq (a learned prior over which processes govern).** The
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) (a learned prior over which processes govern).** The
   claim cites this review for implementation intentions as pre-arranged
   if–then links of situation to response, and for nothing more. The reading
   supports that and adds four things.
   - **The link, not the schedule, is what works.** Plans with the
     contingent format beat plans that fix the same when, where and what
-    without the conditional link (THEORY-tmpbhjiw). That fits the claim's
+    without the conditional link ([THEORY-tmpbhjiw](../theory.d/THEORY-tmpbhjiw.md)). That fits the claim's
     interest in learned relations rather than fixed behaviour, though the
     link here is cue to action.
   - **Deliberating over the plan weakens it.** Keeping a copy to revisit,
@@ -184,20 +184,20 @@ and on the RoBMA method of Maier, Bartoš and Wagenmakers.
     the situation, which is the claim's amortization side. It is not a
     measure of computation saved.
   - **Motivation gates it.** Plans worked when the goal was wanted and not
-    otherwise, as in 2006's goal-dependence (THEORY-tmp8y1fr).
-  - **The effect is small once corrected** (THEORY-tmpk5znk). The record
+    otherwise, as in 2006's goal-dependence ([THEORY-tmp8y1fr](../theory.d/THEORY-tmp8y1fr.md)).
+  - **The effect is small once corrected** ([THEORY-tmpk5znk](../theory.d/THEORY-tmpk5znk.md)). The record
     should not cite implementation intentions as a large effect; d = .65 is
     the 2006 figure, before bias correction.
   - Nothing here tests the claim's distinguishing case, a change in which
     response is appropriate.
-- **CLAIM-349 (access, authority and action are separable).** The
+- **[CLAIM-349](../claims.d/CLAIM-349.md) (access, authority and action are separable).** The
   taxonomy holds response types that act on access and on authority, not
   only on action: ignore responses (d = .48), waiting before responding
   (.66) and goal reminders (.79, k = 3). "Wait before responding" is the
   same operation as DBT's STOP, as the claim's note of 2026-10-23 reads it:
   holding the transition from urge to action open. A parallel, from small
   categories.
-- **CLAIM-358 and QUESTION-095 (amortized cost; caching).** The between-test
+- **[CLAIM-358](../claims.d/CLAIM-358.md) and [QUESTION-095](../questions.d/QUESTION-095.md) (amortized cost; caching).** The between-test
   findings on recording and elaboration are consistent with a cached
   decision losing value when re-opened. Not tested directly.
 - No instruction for machine-learning practice; nothing for the anthology.

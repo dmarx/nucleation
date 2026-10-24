@@ -20,14 +20,16 @@ date: '2026-10-24'
 source:
 - LIT-tmpz7j0g
 summary: >-
-  Craske, Treanor, Conway, Zbozinek & Vervliet (2014), LIT-tmpz7j0g, read
-  in full from the PMC author manuscript in NOTE-tmpqrvri. The paper
+  Craske, Treanor, Conway, Zbozinek & Vervliet (2014), [LIT-tmpz7j0g](../literature.d/LIT-tmpz7j0g.md), read
+  in full from the PMC author manuscript in [NOTE-tmpqrvri](../notes.d/NOTE-tmpqrvri.md). The paper
   summarizes Bouton's model and the four return-of-fear phenomena that
   support it, and translates them into exposure practice. The evidence is
   cited, not reported: the source is a clinical translation, and a
   promotion needs the primary literature. It does not show that exposure
   therapy in patients works by inhibitory learning alone. The authors
   allow that habituation also plays a part.
+supports:
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: CLAIM-tmp8z857 — Proposed; the claim this bears on, named, nothing here rests on it -->
 
@@ -35,8 +37,8 @@ summary: >-
 
 ## Source
 
-Craske, Treanor, Conway, Zbozinek & Vervliet, LIT-tmpz7j0g, read in full
-in NOTE-tmpqrvri from the NIH author manuscript (PMC4114726): the
+Craske, Treanor, Conway, Zbozinek & Vervliet, [LIT-tmpz7j0g](../literature.d/LIT-tmpz7j0g.md), read in full
+in [NOTE-tmpqrvri](../notes.d/NOTE-tmpqrvri.md) from the NIH author manuscript (PMC4114726): the
 sections "Inhibitory Learning Model of Extinction" and
 "Reconsolidation".
 
@@ -71,7 +73,7 @@ gone under all four procedures, as an unlearning account predicts.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** It gives a mechanism for persistence that the claim
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** It gives a mechanism for persistence that the claim
   does not name: an old expectancy that survives correction and competes
   for retrieval. A governance account of persistence must say what it
   adds to this one.

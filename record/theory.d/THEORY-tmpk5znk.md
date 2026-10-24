@@ -18,12 +18,14 @@ date: '2026-10-24'
 source:
 - LIT-tmpks817
 summary: >-
-  Sheeran, Listrom & Gollwitzer (2024), LIT-tmpks817, read in full in
-  NOTE-tmpauwdm. Random-effects pooling of 642 tests gave d = .36; Egger's
+  Sheeran, Listrom & Gollwitzer (2024), [LIT-tmpks817](../literature.d/LIT-tmpks817.md), read in full in
+  [NOTE-tmpauwdm](../notes.d/NOTE-tmpauwdm.md). Random-effects pooling of 642 tests gave d = .36; Egger's
   b = 1.06 ("substantial" bias); RoBMA found an effect (BF10 = 319.3) of
   d = .15 with tau = 0.27. By outcome: behaviour .27, cognition .47,
   affect .66, social judgement .52, all uncorrected. It replaces the 2006
   figure of d = .65 from 94 tests, which had no bias correction.
+supports:
+- CLAIM-tmp0qupq
 ---
 <!-- inactive-ok-file: CLAIM-tmp0qupq THEORY-tmpfp8dy — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
@@ -31,8 +33,8 @@ summary: >-
 
 ## Source
 
-Sheeran, Listrom & Gollwitzer, LIT-tmpks817, read in full in
-NOTE-tmpauwdm from the version of record in KOPS: pp. 168–173, Tables 1
+Sheeran, Listrom & Gollwitzer, [LIT-tmpks817](../literature.d/LIT-tmpks817.md), read in full in
+[NOTE-tmpauwdm](../notes.d/NOTE-tmpauwdm.md) from the version of record in KOPS: pp. 168–173, Tables 1
 and 2, and p. 183.
 
 ## What was actually shown
@@ -70,9 +72,9 @@ authors cite (p. 170).
 
 ## Connections
 
-- **CLAIM-tmp0qupq.** The claim grounds part of its case on
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The claim grounds part of its case on
   implementation intentions. The reliable existence of the effect supports
   the premise that pre-arranged situation–response links change what
   people do; the small corrected size is a reason not to cite it as large.
-- **THEORY-tmpfp8dy** holds the 2006 process evidence, which this review
+- **[THEORY-tmpfp8dy](THEORY-tmpfp8dy.md)** holds the 2006 process evidence, which this review
   does not re-test.
