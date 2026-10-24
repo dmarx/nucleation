@@ -35,14 +35,19 @@ complements:
 - CLAIM-277
 grounds:
 - THEORY-285
-- LIT-tmp9li67
-- LIT-tmp4sdbb
-- LIT-tmppvxx9
-- LIT-tmpciuti
+- THEORY-tmpfun40
+- THEORY-tmpxdq9s
+- THEORY-tmp541sg
+- THEORY-tmpmfnl0
+- THEORY-tmp4ahqw
+- THEORY-tmp7wa5n
+- THEORY-tmpfj7ek
+- THEORY-tmphx93a
+- THEORY-tmpapk2z
+- THEORY-tmp0vr2q
+- THEORY-tmpf8za8
+- THEORY-tmpgos5n
 - LIT-tmpv4nan
-- LIT-tmpmi4k8
-- LIT-tmpn4i53
-- LIT-tmpz7j0g
 summary: >-
   The owner's, 2026-10-23, quoting "A governance prior can become
   self-protecting by reducing the access of the processes most likely to
@@ -90,8 +95,14 @@ the observations the policy makes available, not of inferential skill.
 [THEORY-285](../theory.d/THEORY-285.md) shows the effect in an active-inference simulation of
 post-traumatic context inference; it is a model result, not patient data.
 
-**What closes the loop.** Avoidance by itself suppresses learning; it does
-not strengthen the belief. Self-maintenance needs more: inertia of
+**What closes the loop.** Avoidance by itself mainly suppresses learning:
+available avoidance keeps threat expectancy high, and the more effective
+the response, the longer it lasts (Mancinelli and Bach's "protection from
+extinction", rated A on nine studies). It is not always neutral, though.
+Offering avoidance for a stimulus never paired with harm, then
+withdrawing it, raised threat expectancy for that stimulus. That finding
+is rated B on three studies, and the signal that avoidance is available
+may itself read as a danger cue. Self-maintenance needs more: inertia of
 authority, relief reinforcing the protective response, interpretation
 biased toward threat, or the inference "if I felt compelled to protect
 myself, the danger must have been serious." The last makes the governance
@@ -144,8 +155,20 @@ trained defense that keeps governing after belief correction and becomes
 revisable after a manipulation restoring independent evidence or another
 process's influence.
 
+The readings of 2026-10-24 add two variables the test has to hold fixed
+besides the represented threat probability. One is the estimate of
+uncertainty: in Brown, Price and Dombrovski the loop runs wholly through
+it, with no authority variable. The other is the belief about one's own
+future control: in Zorowitz, Momennejad and Daw the danger is represented
+correctly, and a pessimistic belief about later escape does the work.
+Each is a belief-maintained rival that holding threat probability fixed
+would not exclude. A third rival is memory. On Craske et al.'s
+inhibitory-learning account the fear association survives extinction and
+competes for retrieval, so persistence and return of fear need no
+governance variable; a governance account has to say what it adds.
 
-Adjacent evidence, all unread: anxiety as disordered uncertainty learning and explore–exploit ([LIT-tmp9li67](../literature.d/LIT-tmp9li67.md)); a review of 116 avoidance-learning studies favouring inference-based accounts ([LIT-tmp4sdbb](../literature.d/LIT-tmp4sdbb.md)); pessimistic sequential evaluation propagating avoidance ([LIT-tmppvxx9](../literature.d/LIT-tmppvxx9.md)); anxiety and exploration, heterogeneous by kind of exploration ([LIT-tmpciuti](../literature.d/LIT-tmpciuti.md)); danger inferred from one's own safety behaviour, more in anxiety disorders ([LIT-tmpv4nan](../literature.d/LIT-tmpv4nan.md)); avoidance of safety cues and excess relief in OCD, panic and PTSD patients ([LIT-tmpmi4k8](../literature.d/LIT-tmpmi4k8.md)); reducing safety behaviours lowering symptoms, d = 0.43, with publication bias ([LIT-tmpn4i53](../literature.d/LIT-tmpn4i53.md)); and inhibitory learning in exposure ([LIT-tmpz7j0g](../literature.d/LIT-tmpz7j0g.md)). None measures authority as this claim defines it.
+
+**What the readings of 2026-10-24 support and do not.** They support the identifiability step in its clinical form: avoidance "can interfere with new learning by preventing any violation in expectancy" (Craske et al., NOTE-tmpqrvri, THEORY-tmpfun40, THEORY-tmpxdq9s), and avoidance protects threat expectancy from extinction (NOTE-tmpk2tkp, THEORY-tmp541sg, THEORY-tmpmfnl0, THEORY-tmp4ahqw). They support the causal premise that protective behaviour does work on symptoms. In Goodson et al.'s meta-analysis, reducing safety behaviours lowered symptoms (d = 0.43; d = 0.31 after trim-and-fill for publication bias), increasing them raised symptoms (d = 0.65, five studies), and there is a dose-response. The samples are mostly young, non-clinical, and concerned with appearance or social anxiety (NOTE-tmp9k96s, THEORY-tmp7wa5n). De Kleine et al. (NOTE-tmp5cisg, THEORY-tmpfj7ek) found more avoidance of the safety cue and higher threat expectancy in OCD and PTSD, and more relief in panic and PTSD. Groups did not differ in avoiding the danger cues, relief was already higher before avoidance was available, and that relief reinforces avoidance is the authors' untested reading. Chou et al. (NOTE-tmp89chp, THEORY-tmphx93a, THEORY-tmpapk2z) narrow the evidence-acquisition clause. Less exploration fits state or somatic anxiety and foraging tasks; trait or cognitive anxiety goes with more directed exploration. Brown et al. (NOTE-tmp1dwn4, THEORY-tmp0vr2q, THEORY-tmpf8za8) and Zorowitz et al. (NOTE-tmpldqrp, THEORY-tmpgos5n) supply the rivals named in the test. None of these studies measured authority as this claim defines it, so the claim's distinctive part is still untested. Gangemi et al., on inferring danger from one's own safety behaviour, was sought and is Unavailable (LIT-tmpv4nan).
 
 ## What it does not say
 

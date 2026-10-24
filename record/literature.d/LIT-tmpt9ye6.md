@@ -1,12 +1,21 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U10. No NOTE is filed.
+  read in full 2026-10-24 (NOTE-tmp61nj5) from the University of Konstanz
+  repository's scan of the published chapter (KOPS, CC BY-NC-ND 2.0),
+  through OCR; worth reading as the first large meta-analysis of if-then
+  planning and the fullest statement of its mechanism: a plan hands
+  initiation of a response decided in advance to the cue it names, so
+  nothing is deliberated in the situation, and the plan fires only while
+  the goal behind it is active. 94 tests, d = .65 against a goal intention
+  alone, with large effects on cue accessibility and on the immediacy,
+  efficiency and non-conscious running of planned responses from small
+  sets of tests. The size is not corrected for publication bias; the 2024
+  review of 642 tests (LIT-tmpks817) finds the bias substantial and a
+  corrected effect near d = .15. What happens when a plan's response
+  proves wrong is named and left untested.
 title: 'Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -20,6 +29,21 @@ history:
     Crossref gives the year only, 2006, so `published:` is the year-end
     placeholder 2006-12-31 and means 2006, to the year. The summary
     follows the abstract on Semantic Scholar; Crossref carries none.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Read in full (NOTE-tmp61nj5) from the copy deposited in KOPS, the
+    University of Konstanz repository, in 2008
+    (urn:nbn:de:bsz:352-opus-56534;
+    https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f),
+    licence CC BY-NC-ND 2.0, the open copy OpenAlex and Unpaywall list.
+    Unpaywall calls it a submitted version; it is a 49-page image scan of
+    the published chapter, pp. 69–119, stamped "First publ. in: Advances
+    in Experimental Social Psychology 38 (2006)", with no text layer. It
+    was read through Tesseract OCR at 300 dpi. The reference list was not
+    read. Status set to Active. The summary is accurate to the chapter;
+    "Why this is here" gains a correction on the effect's size and on
+    the kind of link a plan is. `published:` stays the year placeholder.
 tags:
 - motivation
 - behavioral-integration
@@ -48,13 +72,43 @@ summary: >-
 supports:
 - CLAIM-tmp0qupq
 ---
+<!-- inactive-ok-file: CLAIM-tmp0qupq THEORY-tmpfp8dy THEORY-tmp8y1fr — Proposed; the claim that cites this and the readings filed from it, named -->
+
 # LIT-tmpt9ye6: Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes
 
 Gollwitzer, P. M. & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta‐analysis of effects and processes. *Advances in Experimental Social Psychology* 38: 69–119. doi:10.1016/S0065-2601(06)38002-1.
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, NOTE-tmp61nj5. Page numbers are the chapter's.*
+
+- **The effect, uncorrected.** d = .65 [.60, .70] over 94 tests and 8,461
+  participants, plan plus goal intention against goal intention alone
+  (p. 92); fixed-effect, mostly students and laboratory tasks.
+- **Four problems of goal striving.** Getting started d = .61 (k = 52),
+  shielding .77 (k = 21), disengaging from failing goals .47 (k = 3),
+  conserving capability 1.28 (k = 3) (p. 96).
+- **The mechanism.** Planned cues became more accessible (d = .80, k = 6);
+  planned responses were immediate (.77), efficient under load (.85) and
+  ran without conscious intent (.72), from 3–7 tests each (p. 97).
+  Forming the plan "involves a strategic abdication of effortful action
+  control" (p. 84).
+- **Gated by the goal.** Plans affected performance only with the goal
+  intention strong and active, so they do not fire mechanically (p. 103).
+- **Left open.** What happens when a plan fails or does harm: "We do not
+  know yet what happens" (p. 104).
 
 ## Why this is here
 
 The exchange cited it at turn U10 for the effect of if-then plans on acting on an intention: specifying the situation and the response in advance hands the response to the situation. The abstract agrees and gives the figure (d = .65 over 94 tests).
+
+**Corrected 2026-10-24, from the reading.** Two things. The d = .65 is
+not corrected for publication bias, which was checked only by comparing
+published with unpublished tests; the record should cite the 2024 review
+(LIT-tmpks817), which finds the bias substantial and a corrected d of
+about .15. And the link a plan forges is from cue to a response decided in
+advance, gated by an active goal: in CLAIM-tmp0qupq's terms a prior over
+actions, not over which process governs. The claim's distinguishing case,
+a change in which response is right, is the one the authors name as
+unstudied (p. 104). Filed from it: THEORY-tmpfp8dy (the component
+processes) and THEORY-tmp8y1fr (goal-dependence).

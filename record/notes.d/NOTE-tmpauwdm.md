@@ -1,0 +1,231 @@
+---
+status: Read
+paper: 'LIT-tmpks817'
+title: 'Sheeran, Listrom & Gollwitzer — The when and how of planning: 642 tests of implementation intentions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Read in full on 2026-10-24 from the version of record deposited in
+    KOPS, the University of Konstanz repository
+    (urn:nbn:de:bsz:352-2-qpb1zousot628;
+    https://kops.uni-konstanz.de/entities/publication/cf394f1f-49d8-4256-bf24-df7af124514a),
+    a 33-page PDF of the published article, stamped "Erschienen in:
+    European Review of Social Psychology. Taylor & Francis. 2025, 36(1), S.
+    162-194". The repository record gives its version as "published" and
+    its rights as "terms-of-use" (rightsstatements.org In Copyright 1.0);
+    OpenAlex lists the KOPS record and Unpaywall does not, and the
+    publisher's copy is closed. Text extracted by pdftotext. Read: the
+    abstract, introduction, method, results, discussion, limitations and
+    conclusion, and Tables 1–4 (pp. 162–185). Not read: the reference list
+    (pp. 186–194) and the Supplemental Material on OSF (Table S1, Box S1,
+    Figures S1–S3). Page numbers below are the journal's.
+date: '2026-10-24'
+summary: >-
+  A meta-analysis of 642 tests (294 reports to September 2019). Forming
+  implementation intentions improved behaviour (d = .27), cognitive
+  performance (.47), affect regulation (.66) and social judgement (.52),
+  pooled d = .36; publication bias was substantial, and a robust Bayesian
+  estimate is d = .15, small and highly heterogeneous. Contingent if-then
+  plans beat schedule plans (.43 against .29); rehearsing the plan once
+  helped, recording it hurt, and effects were large only when motivation
+  was high. A taxonomy of cues and responses finds nearly every kind
+  effective.
+---
+<!-- inactive-ok-file: CLAIM-tmp0qupq CLAIM-349 CLAIM-358 QUESTION-095 — Proposed or Open; the claims and question this reading bears on, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpk5znk THEORY-tmpbhjiw THEORY-tmpfp8dy THEORY-tmp8y1fr — Proposed; filed from this reading and its 2006 predecessor, named -->
+<!-- inactive-ok-file: LIT-tmpt9ye6 NOTE-tmp61nj5 — the 2006 meta-analysis and its reading, filed the same day -->
+
+# NOTE-tmpauwdm: Sheeran, Listrom & Gollwitzer — The when and how of planning: 642 tests of implementation intentions
+
+## Contribution
+
+The 2006 meta-analysis (LIT-tmpt9ye6) pooled 94 tests of goal attainment.
+This one pools 642 tests, widens the outcomes to cognition, affect and
+social judgement, corrects for publication bias, and asks two new
+questions: for which outcomes and study features planning works (its
+scope), and which plan formats, formation procedures and contents work
+(its components). Its new product is a taxonomy of the cues and responses
+that plans have specified.
+
+## Key insight
+
+The format matters more than the content. A plan that links a cue to a
+response ("if X arises – then I do Y") works better than one that schedules
+when, where and what without the link, and almost any cue and any response
+can be put into the link. The authors' reading: the contingent format
+"causes participants not only to become perceptually ready to meet the
+cue but also mentally link that cue with the prepared response" (p. 165),
+and anything that invites
+deliberation about the plan, such as keeping a written copy, undermines it.
+
+## Assumptions
+
+- **Inclusion (p. 167).** Experimental designs only (unlike 2006);
+  planning isolated from other intervention components; the content of the
+  plans retrievable, so menu-driven planning and mental contrasting with
+  implementation intentions were excluded; an outcome with a computable
+  effect size.
+- **Search (pp. 167–168).** Web of Science and PsycINFO, January 1994 to
+  September 2019, with citation and hand searches. Not updated: "Several
+  factors precluded updating the literature search" (p. 168), among them
+  funding and personnel; year of publication did not moderate any effect
+  (all ps > .061). Not preregistered, because the taxonomy was built
+  inductively (p. 167).
+- **Units (p. 169).** Each treatment condition is a separate test, with
+  the control group's N divided among them; the longest follow-up and
+  intention-to-treat data were used. Random-effects models in Stata 17.
+- **Plan schedules count as implementation intentions here.** 269 of the
+  642 tests used a schedule format (Table 3, p. 174): more than two in five
+  of the "tests of implementation intentions" are of plans the authors say
+  should not automate responding (p. 165).
+
+## Key results
+
+- **Sample (pp. 169–170).** Median 30 treated and 28 controls per test
+  (range 6 to 33,995); 557 tests with adults, 363 with university
+  students; mean age 28.6, 60.4% female.
+- **Overall and bias (p. 170).** Pooled d = .36 [.33, .40]. Egger's
+  b = 1.06, "substantial" publication bias; trim and fill gave .35.
+  RoBMA: strong evidence of an effect (BF10 = 319.3) at a model-averaged
+  d = .15 [.08, .22], strong evidence of publication bias and of
+  heterogeneity (tau = 0.27). "Thus, implementation intentions appear to
+  have a robust impact on outcomes though the effect size is small
+  according to conventional guidelines" (p. 170).
+- **Scope by outcome (Table 1, p. 171).** Behaviour d = .27 (k = 301),
+  cognitive performance .47 (k = 204), affect regulation .66 (k = 26; fear
+  1.22, disgust .77, anxiety and stress .44), social judgement .52
+  (k = 20). Physical activity .14 (k = 64); vaccination .11 and voting .14,
+  neither reliably above zero; psychotherapy attendance .19.
+- **Scope by study feature (Table 2, pp. 172–173).** Similar for
+  children, adolescents, adults and older adults. Lab .49 against field
+  .27; in person .53 against online .31. Objective outcomes .43, larger
+  than self-report .28. Follow-up under a week .48, 1–6 months .19, over 6
+  months .51 (k = 12). Control conditions did not differ (p = .053).
+  High against low motivation, d = .79 (k = 8).
+- **Motivation explains the weak physical-activity effect (p. 177).**
+  Among 31 tests reporting intention strength, planning worked when
+  intentions were strong (d = .31) and "had no effect when intentions were
+  weak".
+- **Components (Table 3, pp. 173–174).** Contingent format .43 (k = 373)
+  against schedule .29 (k = 269), Q(1) = 20.81. Rehearsing the plan at
+  least once .45 against .33, and more rehearsal added nothing. Recording
+  the plan .31 against .44 without. Visualising the response made no
+  difference. Number of plans: 3–5 plans did worst, and one plan or 7–8
+  did best.
+- **Recording (p. 180).** "when participants had the opportunity to
+  revisit their plans (e.g., because they retained copies), those plans
+  were less effective." Read by the authors as deliberation undermining
+  automaticity. Adding how or for how long to a time-and-place cue roughly
+  halved the effect (.24 against .46).
+- **The taxonomy (Table 4, pp. 175–176, 180–183).** Six kinds of cue (time
+  and place, a specific event, a task juncture, a critical stimulus, a
+  feeling, a thought) and six kinds of response (approach or avoidance
+  behaviour, cognitive procedure, ignoring, inner speech, ignoring plus
+  inner speech, a goal reminder). Nearly all were effective. Cues the
+  participants chose themselves did worst (d = .16, k = 20). "Wait before
+  responding" gave .66 (k = 7); "I will keep calm" .69 (k = 14), larger
+  than the authors' cited figures for reappraisal (.36) or distraction
+  (.27) from another meta-analysis (p. 182).
+- **The mechanism is cited, not tested here.** The introduction states
+  that cue accessibility and cue–response links "serve to delegate action
+  control from the self to prespecified cues" (p. 163), from earlier
+  studies. This review tests no mediator; it reads the rehearsal and
+  recording results as consistent with the mechanism and asks for direct
+  tests (p. 180).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Forming implementation intentions has a reliable beneficial effect on outcomes | strong for existence (BF10 = 319) | RoBMA, p. 170 |
+| C2 | The bias-corrected effect is small, d ≈ .15, and highly heterogeneous | moderate: one correction method; trim and fill gives .35 | p. 170 |
+| C3 | Plans help cognitive performance, affect regulation and social judgement as well as behaviour | moderate; affect regulation k = 26 | Table 1 |
+| C4 | Contingent if-then plans outperform schedule plans | moderate: between-test comparison, not experimental | Table 3, p. 173 |
+| C5 | Rehearsing a plan helps and recording it hurts | moderate, between-test; the authors' explanation untested | Table 3; p. 180 |
+| C6 | Planning works when motivation to reach the goal is high, and not when it is weak | moderate: k = 8, and 31 physical-activity tests | Table 2; p. 177 |
+| C7 | Nearly every cue and response type is effective; self-chosen cues are weakest | weak to moderate: many categories have k < 10 | Table 4 |
+
+## Concepts
+
+- **Implementation intention**: an if-then plan, "If [opportunity/obstacle]
+  arises, then I will [respond in this way]!" (p. 179).
+- **Contingent against schedule format**: a plan that links cue to response,
+  against one that lists when, where and what with no conditional link
+  (p. 165).
+- **Scope and components**: for which outcomes and study features plans
+  work; which format, formation process and contents (pp. 163–166).
+- **Cue and response taxonomy**: Table 4's inductive categories.
+
+## Connections
+
+It updates Gollwitzer & Sheeran 2006 (LIT-tmpt9ye6, NOTE-tmp61nj5) and
+corrects its picture of the effect's size: the 2006 estimate was d = .65
+from 94 tests with no correction for bias. It draws on Webb & Sheeran's
+mediation studies for the mechanism, on Webb, Schweiger Gallo et al.'s
+action control model of affect regulation for the affect results (p. 178),
+and on the RoBMA method of Maier, Bartoš and Wagenmakers.
+
+## Bearing on the record
+
+- **CLAIM-tmp0qupq (a learned prior over which processes govern).** The
+  claim cites this review for implementation intentions as pre-arranged
+  if–then links of situation to response, and for nothing more. The reading
+  supports that and adds four things.
+  - **The link, not the schedule, is what works.** Plans with the
+    contingent format beat plans that fix the same when, where and what
+    without the conditional link (THEORY-tmpbhjiw). That fits the claim's
+    interest in learned relations rather than fixed behaviour, though the
+    link here is cue to action.
+  - **Deliberating over the plan weakens it.** Keeping a copy to revisit,
+    or specifying how and for how long, cut the effect. That is evidence,
+    between tests, that the plan's value lies in removing deliberation in
+    the situation, which is the claim's amortization side. It is not a
+    measure of computation saved.
+  - **Motivation gates it.** Plans worked when the goal was wanted and not
+    otherwise, as in 2006's goal-dependence (THEORY-tmp8y1fr).
+  - **The effect is small once corrected** (THEORY-tmpk5znk). The record
+    should not cite implementation intentions as a large effect; d = .65 is
+    the 2006 figure, before bias correction.
+  - Nothing here tests the claim's distinguishing case, a change in which
+    response is appropriate.
+- **CLAIM-349 (access, authority and action are separable).** The
+  taxonomy holds response types that act on access and on authority, not
+  only on action: ignore responses (d = .48), waiting before responding
+  (.66) and goal reminders (.79, k = 3). "Wait before responding" is the
+  same operation as DBT's STOP, as the claim's note of 2026-10-23 reads it:
+  holding the transition from urge to action open. A parallel, from small
+  categories.
+- **CLAIM-358 and QUESTION-095 (amortized cost; caching).** The between-test
+  findings on recording and elaboration are consistent with a cached
+  decision losing value when re-opened. Not tested directly.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Substantial publication bias**, by the authors' own analysis; "Until
+  then, caution is warranted in interpreting findings from the present
+  review" (p. 183).
+- **The search ends in September 2019**, for a paper published online in
+  March 2024.
+- **Moderator results are between-test comparisons**, confounded with
+  outcome type and lab: the authors say so for the number of plans
+  (p. 180).
+- **Many categories rest on fewer than 10 tests**, some on 2 or 3
+  (p. 183).
+- **No mechanism is tested in this review.**
+- **Race, education and socioeconomic status could not be summarised**
+  (pp. 169, 183).
+- **Reporting slips.** "(d = 45. vs. 33)" for .45 against .33 (p. 173);
+  "if-than plan" in a heading (p. 179); seven response categories in the
+  limitations (p. 184) against six in the results (p. 176).
+
+## Open questions
+
+- Does the contingent format beat scheduling in an experiment that
+  assigns the format, outcome and sample held fixed?
+- Does rehearsal work through cue accessibility and link strength, as the
+  authors suggest? A direct test is what they ask for (p. 180).
+- What happens to an if-then plan when its response stops being the right
+  one? Neither this review nor the 2006 one reports such a test.

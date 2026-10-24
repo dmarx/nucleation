@@ -1,12 +1,20 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U10 and U11. No NOTE is filed.
+  filed 2026-10-24 from the owner's exchange of 2026-10-23/24, shared at
+  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where it
+  is cited at turns U10 and U11; a reading was attempted on 2026-10-24 and
+  failed on availability: no lawful full text was found. The article is
+  closed at Taylor & Francis (the full-text page answered 403). Unpaywall
+  and OpenAlex list no open copy; the PMC ID converter finds none for PMID
+  40601564; Europe PMC marks it subscription only and lists no preprint;
+  Semantic Scholar gives no open PDF; OSF Preprints has no matching title;
+  the University of Toronto repository (TSpace) holds other work by the
+  first and last authors but not this article; and the last author's
+  faculty pages link no copy. Web searches found no author-posted version.
+  It stays Unavailable until a copy is supplied. No NOTE is filed.
 title: 'Target validation in dialectical behavior therapy skills group: Emotion regulation, mindfulness, and distress tolerance as mediators of outcome'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -22,6 +30,17 @@ history:
     Psychotherapy Research 36(4), 732–743. Crossref gives online 2 July
     2025, which is `published:`; 2026 is the print issue. The summary
     follows the abstract on PubMed; Crossref carries none.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041. Sought on 2026-10-24 and
+    no lawful copy found (availability, not access): Unpaywall, OpenAlex,
+    the PMC ID converter, Europe PMC (subscription only, no preprint),
+    Semantic Scholar, OSF Preprints, the University of Toronto's TSpace
+    repository, the last author's University of Toronto Scarborough pages,
+    and web searches for an accepted manuscript or preprint. The publisher's
+    full-text page answered 403. The summary is still drawn from the
+    abstract.
 tags:
 - psychopathology-and-treatment
 - emotion-and-affect

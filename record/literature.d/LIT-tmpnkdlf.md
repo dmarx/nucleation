@@ -1,12 +1,21 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U9. No NOTE is filed.
+  filed 2026-10-24 from the owner's exchange of 2026-10-23/24, shared at
+  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where it
+  is cited at turn U9; a reading was attempted on 2026-10-24 and failed on
+  availability: the manual is a commercial book in copyright and no lawful
+  full copy is open. Guilford sells it (print and e-book) and offers only
+  a sample chapter and the author's "How to Use This Book" free, which is
+  not the work. The Internet Archive holds a scan of the 2015 printing
+  restricted to print-disabled users, which this client cannot borrow; a
+  separate upload there of the handouts and worksheets is not the
+  publisher's and was not used. Web searches for an open copy found only
+  sale listings, library records and download sites of unknown standing,
+  none used. It stays Unavailable until a copy is supplied, for example
+  through a library. No NOTE is filed.
 title: 'DBT Skills Training Manual'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -26,6 +35,18 @@ history:
     announce a newer edition in August 2025; this note is the second
     edition, the one the exchange named. The summary is what the manual
     is standardly cited for.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041. Sought on 2026-10-24 and
+    no lawful full copy found: Guilford's listing (sale only, with a free
+    sample chapter) and the Linehan Institute's page for the book, both as
+    a web search reported them, the listing's direct URL now redirecting;
+    the
+    Internet Archive (a 2015 printing, print-disabled access only), and web
+    searches for an open edition. A book in copyright with no open copy is
+    Unavailable on availability, not access. The summary is still what the
+    manual is standardly cited for.
 tags:
 - psychopathology-and-treatment
 - emotion-and-affect

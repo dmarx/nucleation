@@ -1,12 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U15. No NOTE is filed.
+  filed 2026-10-24 from the owner's exchange of 2026-10-23/24, shared at
+  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where it
+  is cited at turn U15; a reading was attempted on 2026-10-24 and failed on
+  availability: no lawful full text was found. The article is closed at
+  Elsevier. Unpaywall, OpenAlex and Semantic Scholar list no open copy,
+  Europe PMC and PubMed Central hold none, the University of Messina's IRIS
+  record (hdl 11570/2424621) has no file, and the Utrecht University
+  research portal refused this client (403). Web searches found no
+  preprint or accepted manuscript. One copy was found and not used: the
+  publisher's typeset PDF on the website of the Associazione di Psicologia
+  Cognitiva, Rome, the first two authors' institute. Its own cover sheet
+  says it is an "Author's personal copy" that may not be posted to
+  "personal, institutional or third party websites", so it is not a lawful
+  open copy. Only the cover sheet was seen, and the file was deleted
+  unread. It stays Unavailable until a copy is supplied, through library
+  access or a request to the authors. No NOTE is filed.
 title: 'Behavior as information: “If I avoid, then there must be a danger”'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -21,6 +33,21 @@ history:
     issue month, December 2012; PubMed gives the online date, 12 May
     2012, which is `published:`. The summary follows the abstract on
     PubMed.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, on availability: no lawful
+    copy found. Searched on 2026-10-24: Unpaywall and OpenAlex (closed),
+    Semantic Scholar (closed), Europe PMC (metadata only, PMID 22651921),
+    the University of Messina IRIS repository (record without file), the
+    Utrecht University research portal (403), and the web for a preprint
+    or accepted manuscript. The Associazione di Psicologia Cognitiva's site
+    serves the Elsevier PDF marked "Author's personal copy", whose terms
+    forbid posting it to institutional websites; it was not read. The
+    summary is still drawn from the abstract. A follow-up by the same group
+    with patients, van den Hout et al. 2014 (Journal of Behavior Therapy and
+    Experimental Psychiatry 45: 489–495, doi:10.1016/j.jbtep.2014.07.002,
+    with an erratum), was found in the search and is not registered.
 tags:
 - psychopathology-and-treatment
 - cognition
@@ -60,3 +87,9 @@ is standardly cited for. A reading should check it first.
 ## Why this is here
 
 The exchange cited it at turn U15 for behaviour as information: avoiding something is read back as evidence that it is dangerous. The abstract matches.
+
+**Noted 2026-10-24.** Not read: no lawful copy was found (see the status
+note). De Kleine et al. (LIT-tmpmi4k8, NOTE-tmp5cisg) cite this paper for
+behaviour-as-information. They offer it as one possible reason why
+patients avoided a safety cue, the act of avoiding giving the cue a
+threat meaning, and they do not test it.

@@ -1,12 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U15. No NOTE is filed.
+  read in full 2026-10-24 (NOTE-tmp9k96s) from the NIH author manuscript in
+  PubMed Central, not the closed version of record; worth reading as the
+  first meta-analysis of safety-behaviour manipulations made outside
+  exposure. Reducing them lowered symptoms against control (d = 0.43, about
+  0.31 after trim-and-fill, with significant Egger asymmetry), instructed
+  increases raised symptoms (d = 0.65, five studies), and the size of the
+  safety-behaviour change moderated the symptom effect. The literature is
+  small, mostly appearance and social anxiety in young, largely
+  non-clinical samples, and largely from the senior author's group. It
+  says nothing about how safety behaviours act.
 title: 'The standalone effect of safety behavior manipulations: A systematic review and meta-analysis'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -23,6 +29,20 @@ history:
     Clinical Psychology Review 124, article 102703, issue March 2026.
     PubMed gives the online date, 16 January 2026, which is
     `published:`. The summary follows the abstract on PubMed.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Read in full (NOTE-tmp9k96s) from the NIH author manuscript,
+    PMC12997458 (NIHMS2149736, version PMC12997458.1), licence "This file
+    is available for text mining. It may also be used consistent with the
+    principles of fair use under the copyright law"; the full-text XML was
+    fetched from NCBI E-utilities, as the PMC and Europe PMC PDFs sit
+    behind a browser check this client could not pass. Unpaywall and
+    OpenAlex give it as the only open copy; the version of record is
+    closed. The supplement and figures were not seen. The XML gives the
+    online date as 16 January 2026, so `published:` stands. Status set to
+    Active. The summary is corrected on moderators and on where bias was
+    shown.
 tags:
 - psychopathology-and-treatment
 date: '2026-10-24'
@@ -39,22 +59,56 @@ keywords:
 implementations: []
 summary: >-
   Goodson, Patel, Zech, Sala & Cougle (2026). Of 26 studies of
-  standalone safety-behaviour manipulations, 19 were meta-analysed.
-  Relative to control, reducing safety behaviours reduced them (d =
-  0.52, 95% CI 0.36–0.68) and reduced symptoms (d = 0.43, 95% CI
-  0.27–0.59); increasing them raised safety behaviours (d = 2.96) and
-  clinical symptoms (d = 0.65). Some moderators emerged and there was
-  evidence of publication bias.
+  standalone safety-behaviour manipulations outside exposure (2,048
+  participants, mean age 24.9), 19 were meta-analysed. Relative to
+  control, reducing safety behaviours reduced them (d = 0.52, 95% CI
+  0.36–0.68, after one outlier was removed) and reduced symptoms (d =
+  0.43, 95% CI 0.27–0.59; 0.31 after trim-and-fill, Egger p = .012);
+  increasing them, in five non-clinical experiments, raised safety
+  behaviours (d = 2.96) and symptoms (d = 0.65). Only study type
+  (for the effect on safety behaviours) and the size of the
+  safety-behaviour change (for symptoms) moderated the effects.
 supports:
 - CLAIM-tmp8z857
 ---
+<!-- inactive-ok-file: CLAIM-tmp8z857 — Proposed; the claim this was registered for, named -->
+<!-- inactive-ok-file: THEORY-tmp7wa5n — Proposed; filed from this reading, named -->
 # LIT-tmpn4i53: The standalone effect of safety behavior manipulations: A systematic review and meta-analysis
 
 Goodson, J. T., Patel, T. A., Zech, J. M., Sala, M. C. & Cougle, J. R. (2026). The standalone effect of safety behavior manipulations: A systematic review and meta-analysis. *Clinical Psychology Review* 124: 102703. doi:10.1016/j.cpr.2026.102703.
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, NOTE-tmp9k96s. The manuscript has no page numbers;
+locations are sections.*
+
+- **Both directions move symptoms.** Reduction against control:
+  d = 0.43 (k = 16). Instructed increase: d = 0.65 (five studies, all
+  non-treatment experiments with healthy college samples) (Results).
+- **Bias.** For the symptom effect of reduction, Egger's test is
+  significant and trim-and-fill gives d = 0.31: "publication bias and
+  small-study effects cannot be ruled out" (Results).
+- **Dose-response across studies.** "for every 1-point increase in SB
+  effect size, the effect size for clinical symptoms increased by 0.23"
+  (Results). No other planned moderator moderated it.
+- **Who was studied.** Mostly appearance concerns and social anxiety,
+  "most of the participants included in this review and
+  meta-analysis were young women" (Discussion). One PTSD
+  study, no panic or agoraphobia.
+- **Expectancy as an alternative.** Every treatment trial gave a
+  rationale, and the authors allow that effects "may be in part due to
+  expectancy effects" (Discussion).
 
 ## Why this is here
 
 The exchange cited it at turn U15, unnamed, for the effect of reducing safety behaviours on its own. The abstract confirms the counts and the figure: d = 0.43 is the effect of reduction on symptoms. It adds the converse, that increasing safety behaviours raises symptoms (d = 0.65), and evidence of publication bias.
+
+**Corrected 2026-10-24, from the reading.** The counts and d = 0.43 are
+right. Publication bias was shown for the symptom outcome of reduction
+(the adjusted estimate is d = 0.31), and could not be tested for the
+increase studies. The "moderators" are only two: study type, for the
+effect on safety behaviours, and the size of the safety-behaviour change,
+for symptoms. For CLAIM-tmp8z857 it supports the premise that protective
+behaviour does causal work on symptoms. It is silent on the claim's
+distinctive thesis, since no included study separates belief from
+defensive authority. Filed from it: THEORY-tmp7wa5n.

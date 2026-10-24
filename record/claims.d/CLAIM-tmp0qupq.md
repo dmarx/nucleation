@@ -28,11 +28,14 @@ complements:
 - CLAIM-344
 - CLAIM-364
 grounds:
+- THEORY-tmpfp8dy
+- THEORY-tmp8y1fr
+- THEORY-tmpk5znk
+- THEORY-tmpbhjiw
+- THEORY-tmpxv4qd
 - THEORY-tmpydeuq
 - THEORY-tmpeolav
 - LIT-tmpnkdlf
-- LIT-tmpt9ye6
-- LIT-tmpks817
 summary: >-
   The owner's, 2026-10-23, on whether practice could reconstruct relations
   of practical authority: "what if we just treat this as a kind of momentum
@@ -124,7 +127,7 @@ should also fail differently when lower-level interactions and
 higher-level deliberation are disrupted selectively.
 
 
-**What the readings of 2026-10-24 add.** Friston et al. (NOTE-tmpxqv1t, THEORY-tmpydeuq) is a published analogue of the selection rule, π = σ(Ê − F − γG), but over action policies, not over who governs. Its learned prior grows by counting the policies pursued, with no reward gate. That is closer to the entrenchment warned of below than to the rule above. Its devaluation simulation runs this claim's test on the cached arm: once formed, the habit persists. Every policy is still scored on every trial, so the paper shows persistence, not amortization. Gerstner et al. (NOTE-tmpa6d2r, THEORY-tmpeolav) narrow "three-factor rule". Only the hour-scale tag of synaptic consolidation is well established. Eligibility traces on the scale of seconds have recent support, mostly from brain slices, and the rule above lacks the decaying trace that learning from delayed outcomes needs. With reward minus expected reward as the third factor, frequency alone is not reinforced, which answers part of the entrenchment point below; what is never recruited is still never credited. Unread: implementation intentions as pre-arranged if–then links of situation to response (LIT-tmpt9ye6, LIT-tmpks817), and the DBT curriculum (LIT-tmpnkdlf).
+**What the readings of 2026-10-24 add.** Friston et al. (NOTE-tmpxqv1t, THEORY-tmpydeuq) is a published analogue of the selection rule, π = σ(Ê − F − γG), but over action policies, not over who governs. Its learned prior grows by counting the policies pursued, with no reward gate. That is closer to the entrenchment warned of below than to the rule above. Its devaluation simulation runs this claim's test on the cached arm: once formed, the habit persists. Every policy is still scored on every trial, so the paper shows persistence, not amortization. Gerstner et al. (NOTE-tmpa6d2r, THEORY-tmpeolav) narrow "three-factor rule". Only the hour-scale tag of synaptic consolidation is well established. Eligibility traces on the scale of seconds have recent support, mostly from brain slices, and the rule above lacks the decaying trace that learning from delayed outcomes needs. With reward minus expected reward as the third factor, frequency alone is not reinforced, which answers part of the entrenchment point below; what is never recruited is still never credited. Implementation intentions (NOTE-tmp61nj5, NOTE-tmpauwdm; THEORY-tmpfp8dy, THEORY-tmp8y1fr, THEORY-tmpk5znk, THEORY-tmpbhjiw) are the nearest studied case. An if–then plan "delegat[es] the control of goal-directed behavior to specified situational cues", which is a prior over actions, not over who governs. It works only while the goal is active, a third arrangement this claim had not named. The effect is reliable but small: d = .65 in the 2006 meta-analysis, uncorrected for publication bias, and about .15 after the 2024 review's robust Bayesian correction. The 2006 tests of efficiency and conserved capability measure later effort saved, not only persistence, though for a cached action. What happens when the planned response proves wrong is the authors' open question ("We do not know yet what happens"), and it is this claim's test. Edwards et al. (NOTE-tmp2u3za, THEORY-tmpxv4qd) associate DBT homework with falling urges, not with less frequent behaviour, and phone coaching did not significantly predict outcome. They measure neither skill use nor its cost. Linehan's manual and Amestoy et al.'s mediation study were sought and are Unavailable.
 
 ## What it does not say
 
