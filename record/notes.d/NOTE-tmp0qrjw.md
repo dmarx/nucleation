@@ -1,0 +1,182 @@
+---
+status: Read
+paper: 'LIT-tmpu91up'
+title: 'Miller, Resnick and Zeckhauser — Eliciting informative feedback: the peer-prediction method'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Read in full on 2026-10-24 from the authors' final pre-publication
+    draft, dated 26 January 2005, 34 pp., linked from Paul Resnick's
+    University of Michigan page
+    (http://presnick.people.si.umich.edu/papers/elicit/FinalPrePub.pdf) and
+    extracted by pdftotext. Read: sections 1–5 (pp. 1–26), appendix A's
+    proofs of Propositions 2 and 3 and appendix B on effort (pp. 29–34).
+    The reference list was skimmed. The version of record in Management
+    Science 51(9) was not reached; Unpaywall and OpenAlex list no open
+    copy. Page numbers below are the draft's. Every quotation was checked
+    against the extracted text by script, after the draft's fi, ff and fl
+    ligatures were restored.
+date: '2026-10-24'
+summary: >-
+  A mechanism-design paper with proofs and a worked example. A center with
+  no ground truth pays each rater a strictly proper scoring rule applied
+  to the posterior over a reference rater's report implied by her own
+  report. Truth-telling is a strict Nash equilibrium, payments can be
+  scaled to buy effort and balanced among raters, and coarse reports can
+  be elicited for two types. Uninformative equilibria remain, and
+  collusion, risk aversion, unelicited private signals and trust in the
+  center are left as limits.
+---
+<!-- inactive-ok-file: THEORY-tmpx9mep — Proposed; filed from this reading, named -->
+<!-- inactive-ok-file: CLAIM-tmp0qupq CLAIM-277 CLAIM-tmp1xoac — Proposed or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
+
+# NOTE-tmp0qrjw: Miller, Resnick and Zeckhauser — Eliciting informative feedback: the peer-prediction method
+
+## What the paper does
+
+**The problem.** Ratings of products, papers or proposals where "no
+objective outcome exists (e.g., evaluations of a product's “quality”)" or
+the outcome is not public (p. 2). Rewarding agreement with peers fails: a
+rater who had a bad experience with a seller whose record is stellar still
+expects the next rater to have a good one, so a rater rewarded "simply for agreeing with her peers" will not report
+the bad experience (pp. 2–3).
+
+**The setting.** A finite set of product types with a common prior p(t),
+signals drawn i.i.d. given the type from a commonly known f(s | t), at
+least three raters, risk neutrality. The center "has no independent
+information, so its scoring decisions can depend only on the information
+provided by other raters" (p. 4). The one condition on signals is
+stochastic relevance: the distribution of rater j's signal differs across
+realizations of rater i's (p. 6).
+
+**The mechanism.** Each rater announces a signal. The center computes the
+posterior g(s_j | a_i) over a reference rater's signal implied by i's
+announcement and pays R(a_r(i) | a_i), a strictly proper scoring rule
+evaluated at what the reference rater actually announced (Eq. 2). The
+rater need do no Bayesian updating: "so long as a rater trusts that the
+center will update appropriately, she will prefer to report honestly"
+(p. 3).
+
+**Results.**
+- *Proposition 1* (p. 8): for any assignment of reference raters and any
+  strictly proper rule, truthful reporting is a strict Nash equilibrium.
+  The proof is two lines: if the reference rater is truthful, i's
+  expected score is the scoring rule's expectation under her true
+  posterior, which a strictly proper rule maximizes only at the truth.
+- *The worked example* (pp. 6–8): p(H) = .5, f(h | H) = .85,
+  f(h | L) = .45. A rater who saw l believes the next rater will see h
+  with probability .54, so mere agreement would pay her to report h. Under
+  the log rule honest l earns −0.69 in expectation and a false h −0.75. I
+  re-derived these numbers: g(h | l) = .536, g(h | h) = .712, and the two
+  expected scores −0.690 and −0.754.
+- *Not unique.* "Note that while Proposition 1 establishes that there is a
+  truthful equilibrium, it is not unique, and there may be non-truthful
+  equilibria" (p. 9). In the example, everyone always reporting h is one:
+  against a reference rater who always says h, reporting h scores ln .71
+  = −0.34 and l scores ln .54 = −0.62, whatever was seen (footnote 12,
+  re-derived). The authors call the truthful equilibrium focal "especially
+  when communication among raters is limited", and say the center "can
+  punish all the raters if it detects a completely uninformative
+  equilibrium" (p. 9).
+- *Effort and bribes* (Proposition 2, pp. 9–11; Propositions 4–5,
+  appendix B): scaling all payments by α leaves the truthful incentive
+  unchanged and raises the value of acquiring a signal, so some α makes
+  effort worth a cost c; with concave value of sample size, any sample
+  size can be induced. Scaling "can also be used to overwhelm individuals'
+  outside preferences, including bribes" (p. 11).
+- *Budget balance* (Eq. 4, p. 12): each rater's transfer is settled by
+  another rater who is neither she nor her reference rater, so the second
+  term is outside her influence.
+- *Sequential reporting* (pp. 13–14): score against a later rater; close
+  the end of the chain with a ring of three scored simultaneously, so it
+  does not unravel.
+- *Continuous signals* (pp. 14–16): with normal priors and signals, the
+  log rule needs the lowest variance of payments to induce a given
+  precision, but its range is unbounded.
+- *Coarse reports* (Proposition 3, pp. 16–18, proof pp. 29–31): with two
+  types and the monotone likelihood ratio property, bins equal in
+  posterior space, scored by the quadratic rule, make the true bin the
+  best report. Whether this holds with more types "remains an open
+  question" (p. 18).
+
+**Practice** (section 4). Risk aversion handled by inverse utility,
+lottery tickets or averaging over several reference raters; scoring rules
+compared, none "clearly superior" (p. 19); types, priors and signal
+distributions estimated from rating history (Table 1, nine types defined
+by their share of h ratings); rater taste types modelled explicitly;
+non-common priors handled by eliciting them as well.
+
+**Limits the authors name** (section 4.6, pp. 23–25).
+- *Collusion.* "raters could collude to gain higher transfers" (p. 23).
+  With balanced transfers not all raters can gain, "and it is unclear
+  whether a subset of the raters could collude to gain at the expense of
+  the remaining raters". Proposed deterrents: assign reference raters at
+  random after reports are in, and detect "suspicious rating patterns"
+  and bring in an outside expert (p. 24).
+- *Unelicited signals.* A rater who also senses how the next rater will
+  see the item can predict better than the center and so has reason to
+  shade her report. This is Prendergast's Yes-Man, "who says what she
+  thinks the boss will think" (footnote 28, p. 24). The remedy is to ask
+  for reports on dimensions such that nothing else the rater knows
+  predicts the next report, which "may be difficult in practice" (p. 25).
+- *Trust.* Honest raters will sometimes lose and may blame the strategy;
+  "it will be necessary to rely on outside attestations" (p. 25).
+
+## What it establishes and what it does not
+
+It proves that truth-telling is a strict equilibrium of a scoring scheme
+that uses no ground truth, given a common prior and a signal model the
+center knows. It does not show that truth-telling is the equilibrium
+raters reach. The example has two uninformative equilibria, and nothing in
+the paper selects among them except the claim that truth is focal. It
+gives no evidence, experimental or field, that raters report truthfully
+under the scheme (one cited experiment, Nelson and Bessler 1989, concerns
+proper scoring rules generally). It does not settle collusion. And the
+score measures agreement with the center's model of how signals
+correlate, so a center whose model is wrong rewards the wrong reports;
+"The incentives for effort and honest reporting depend critically on the
+center's ability to compute a posterior distribution for another rater's
+signal that the current rater would agree with" (p. 22).
+
+## How it bears on the record
+
+- **The problem of no objective metric.** This is the standard answer:
+  score an evaluator by how well her report predicts a peer's, through a
+  posterior that already discounts the prior. The center replaces ground
+  truth with a model of how honest signals correlate. For the record's
+  governance line, that shifts the question to who sets and maintains
+  that model, a role with authority over every score.
+- **CASE-tmpw4r7u.** Its fourth result needs a scoring channel in which a
+  process's score rises with its own share (c > 0). Peer prediction is
+  built to remove that dependence in the truthful equilibrium: the
+  posterior already allows for what the majority is expected to say, so a
+  rater gains nothing by echoing it. But the uninformative equilibria are
+  the case's capture regime in a scoring rule. Once the reference raters
+  all say h, the best reply is h whatever one saw, so the score depends
+  on what the others report and not on evidence. That is the case's c with
+  h = 0. The paper's two remedies, randomized reference assignment and an
+  outside audit of suspicious patterns, are the case's two levers: lower c
+  by making scores independent of who coordinates, and push the share
+  below the threshold from outside. It narrows the case: an
+  authority-independent scoring rule exists, but it does not select its
+  own good equilibrium.
+- **Collusion as capture.** The paper's collusion is a coalition that
+  scores itself by agreement. It leaves open whether a subset can profit
+  at honest raters' expense. That is the question the record needs
+  answered before peer scoring could serve as an anti-entrenchment
+  device. It complicates any use of the mechanism against CLAIM-277's and
+  CLAIM-tmp0qupq's entrenchment: those claims' processes endorse one
+  another repeatedly, which is the setting where collusion is easiest to
+  coordinate.
+- **The Yes-Man.** A rater who models the boss's view rather than the
+  item reports the boss's view. This is CASE-tmpydmf8's filter seen from
+  the reporter: what is admitted depends on who will read it. The paper's
+  remedy, elicit along dimensions on which nothing else predicts the next
+  report, is a legibility condition (CASE-124): the categories must be
+  ones in which honest reports are scorable.
+- **CLAIM-tmp1xoac.** Not addressed. The scheme pays raters; it does not
+  allocate authority among them. Using the scores to decide whose reports
+  count next would bring back the dependence of score on share that the
+  scheme was built to remove.

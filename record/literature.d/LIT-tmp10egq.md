@@ -1,0 +1,76 @@
+---
+status: Unavailable
+status_note: >-
+  filed 2026-10-24 for the owner's question of how the record stands on
+  multi-agent learning, as the second founding scoring rule for subjective
+  reports without ground truth; a reading was attempted the same day and
+  failed on availability. The article is closed: Unpaywall, OpenAlex and
+  Semantic Scholar list no open copy, Europe PMC holds the abstract only
+  (not open access, no PMC copy), science.org returned 403 for the PDF,
+  and no author or repository copy was found at MIT (DSpace search for the
+  title and author returns later BTS papers and a thesis, not this one;
+  Prelec's MIT Sloan page links none). A copy on a third party's personal
+  site was found by web search and not used, as it is not a lawful public
+  copy. It stays Unavailable until a copy is supplied. No NOTE is filed.
+title: 'A Bayesian Truth Serum for Subjective Data'
+version: 2
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-24:
+    Drazen Prelec, Science 306(5695): 462–466, issued 15 October 2004,
+    which is `published:` (ADR-002). PubMed 15486294. The summary follows
+    the abstract given by Europe PMC.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, on availability. Searched
+    2026-10-24: Unpaywall and OpenAlex (closed, no open location), Semantic
+    Scholar (openAccessPdf CLOSED), Europe PMC (abstract only, no PMCID),
+    the publisher (science.org PDF, 403), MIT DSpace and Prelec's MIT Sloan
+    faculty page (no copy of this paper), and the web for an author's or
+    repository copy (none; a third-party personal site's copy was not
+    used). The summary still follows the abstract.
+tags:
+- social-science
+- epistemology
+- psychometrics
+date: '2026-10-24'
+published: '2004-10-15'
+doi: '10.1126/science.1102081'
+first_author: 'Prelec'
+keywords:
+- 'Bayesian truth serum'
+- 'subjective data'
+- 'subjective judgments'
+- 'scoring method'
+- 'consensus'
+implementations: []
+summary: >-
+  Prelec (2004). A scoring method for subjective reports where objective
+  truth is unknowable: each respondent gives an answer and a prediction of
+  how others will answer, and answers score high not for being common but
+  for being more common than the same population collectively predicted.
+  By the abstract, this removes the bias toward consensus, so that a
+  truthful answer maximizes expected score even for a respondent who
+  believes hers is a minority view.
+---
+
+# LIT-tmp10egq: A Bayesian Truth Serum for Subjective Data
+
+Prelec, D. (2004). A Bayesian truth serum for subjective data. *Science* 306(5695): 462–466. doi:10.1126/science.1102081.
+
+Not read. The summary is drawn from the abstract. A reading should check
+it first, and in particular the conditions (a large population, a common
+prior, respondents who treat their own answer as evidence about others')
+under which the abstract's claim holds.
+
+## Why this is here
+
+Filed on 2026-10-24 with Miller, Resnick and Zeckhauser's peer-prediction
+method (LIT-tmpu91up) as the other answer to scoring evaluators without
+an objective metric. Its criterion, answers more common than predicted, is aimed at the
+consensus bias that makes agreement-based scoring entrench the majority,
+which is the capture risk the lead named against CASE-tmpw4r7u's
+self-scoring term. Unread, it supports nothing here yet.

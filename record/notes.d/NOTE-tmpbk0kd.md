@@ -1,0 +1,156 @@
+---
+status: Read
+paper: 'LIT-tmph0w3m'
+title: 'Yang et al. — Mean field multi-agent reinforcement learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Read in full on 2026-10-24 from arXiv:1802.05438v5 (15 December 2020),
+    18 pp., extracted by pdftotext: sections 1–6 (pp. 1–8) and appendices
+    A (algorithms), B (the remainder bound), C (experimental details), D
+    (Proposition 1's proof and rationality) and E (function approximation).
+    The reference list was skimmed. Figures were read from their captions
+    and the text, the plots themselves being garbled in extraction. The
+    PMLR version (ICML 2018) was not compared. Every quotation was checked
+    against the extracted text by script.
+date: '2026-10-24'
+summary: >-
+  An algorithms paper with a convergence proof and three experiments. Each
+  agent's Q-function is approximated by its interaction with the mean
+  action of its neighbours, which makes many-agent RL tractable for
+  hundreds of homogeneous agents. Mean field Q-learning converges to a Nash
+  Q-value under strong assumptions, learns Gaussian Squeeze with 500 and
+  1000 agents where baselines fail, matches MCMC on a 20 × 20 Ising model,
+  and wins a 64-versus-64 battle game.
+---
+<!-- inactive-ok-file: THEORY-tmpy4yji — Proposed; filed from this reading, named -->
+<!-- inactive-ok-file: CLAIM-423 CLAIM-331 CLAIM-327 THEORY-tmp3oyxw CLAIM-tmp1xoac — Proposed or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
+
+# NOTE-tmpbk0kd: Yang et al. — Mean field multi-agent reinforcement learning
+
+## What the paper does
+
+**The problem.** In an N-agent stochastic game each agent's Q-function
+takes the joint action, whose dimension grows with N, and existing
+equilibrium-solving methods "are only capable of solving a handful of
+agents" (p. 1).
+
+**The approximation** (section 3.1). First factorize: Q^j(s, a) =
+(1/N^j) Σ_{k∈N(j)} Q^j(s, a^j, a^k), pairwise terms over a neighbourhood
+(Eq. 5). Write each neighbour's one-hot action as a^k = ā^j + δa^{j,k},
+where ā^j, the mean of the neighbours' actions, is their empirical action
+distribution (Eq. 6). Expand each pairwise term to second order about
+ā^j. The first-order terms sum to zero, because the deviations do, which
+leaves Q^j(s, a^j, ā^j) plus an average of second-order remainders
+(Eqs. 7–8). For an M-smooth Q each remainder lies in [−2M, 2M]
+(appendix B), and "With the assumptions of homogeneity and locality on
+all agents within the neighborhood, the remainders tend to cancel each
+other" (p. 3).
+
+I re-derived the expansion and the bound. Two remarks. The bound uses
+‖a − ā‖² = 2(1 − ā_i), which the appendix states as an equality (Eq. 27);
+in fact ‖a − ā‖² = 1 − 2ā_i + Σ_k ā_k², which is at most 2(1 − ā_i), so the
+bound holds but the equality does not. And the bound alone does not make
+the remainder small: it is fixed by M, the curvature of the pairwise Q in
+the neighbour's action. That the remainders cancel is argued from
+homogeneity, not proved.
+
+**The algorithm.** Agent j learns Q^j(s, a^j, ā^j) by the usual
+temporal-difference update (Eq. 9), with the mean field value
+v^j(s′) = Σ_a π^j(a | s′, ā^j) E[Q^j(s′, a, ā^j)] (Eq. 10). Each round,
+the neighbours' mean action is computed from their current policies
+(Eq. 11), and each agent's Boltzmann policy is recomputed against it
+(Eq. 12). The abstract's words: "the learning of the individual agent's
+optimal policy depends on the dynamics of the population, while the
+dynamics of the population change according to the collective patterns
+of the individual policies" (p. 1). MF-Q uses deep Q-networks; MF-AC an
+actor-critic (appendix A; code at github.com/mlii/mfrl).
+
+**The convergence result** (section 3.3). Theorem 1: in a finite-state
+stochastic game, the MF-Q values converge w.p.1 to the Nash Q-value if
+(Assumption 1) every action-value pair is visited infinitely often with
+bounded rewards, (Assumption 2) the policy is greedy in the limit with
+infinite exploration, and (Assumption 3) every stage game met in training
+has as its Nash equilibrium either a global optimum or a saddle point.
+The authors: "Note that Assumption 3 imposes a strong constraint on every
+single stage game encountered in training" (p. 4), though in practice it
+"appears not to be a necessary condition". The proof follows Hu and
+Wellman's for Nash Q-learning, adding a term C_t for the gap between the
+mean field value and the Nash value, which goes to zero because, under
+Assumption 3, all optimal or saddle equilibria of a stage game share a
+value, and "with the homogeneity of agents" (p. 5). Proposition 1 makes
+the Boltzmann best response a contraction.
+
+A tension in the proof. Proposition 1 is stated "under sufficiently low
+temperature" β (p. 5). The appendix D proof needs T > K/2 for Lipschitz
+constant K, and concludes "when the action space is binary for each
+agent, and the temperature is sufficiently large, the mean field
+procedure converges" (p. 16). I re-derived it: the logistic's slope is at
+most β/4 = 1/(4T), giving a Lipschitz constant K/(2T), so contraction
+needs high temperature, low β read as an inverse temperature. Assumption
+2 needs the temperature to go to zero. The theorem uses both, and the
+paper does not say how they are reconciled. Appendix E extends
+convergence to linear function approximation under a further small
+Lipschitz condition.
+
+**Experiments.**
+- *Gaussian Squeeze* (section 5.1): N agents each send 0–9 units, and the
+  system scores G(x) = x e^{−(x−μ)²/σ²} on the total, with μ = 400 and
+  σ = 200. All methods do well with N = 100; with 500 and 1000, MF-Q and
+  MF-AC learn the optimal allocation and independent learners, FMQ,
+  Rec-FMQ and a MADDPG variant "fail to learn at all" (p. 7). All agents
+  share one Q-network, with an agent embedding as input (appendix C.1).
+- *Ising model* (section 5.2): 20 × 20 spins, reward h a^j + (λ/2) Σ a^j
+  a^k, no external field. MF-Q's order parameter against temperature
+  "converges nearly to the exact same plot as MCMC", with the same Curie
+  temperature, τ ≈ 1.2, "the first work that manages to solve the Ising
+  model via model-free reinforcement learning methods" (p. 8). The
+  comparison is with the authors' own MCMC run, read from figures.
+- *Battle* (section 5.3): two armies of 64 homogeneous agents in MAgent.
+  After 2000 rounds of self-play MF-Q outperforms its non-mean-field
+  counterpart, independent Q-learning, and IL in turn beats AC and MF-AC.
+  Results for 8, 144 and 256 agents are said to keep the same ordering and
+  are not shown.
+
+## What it establishes and what it does not
+
+It establishes a tractable approximation for many interacting learners
+of one kind and shows it working on three tasks of up to 1000 agents. It
+does not establish that the approximation is accurate in general: the
+error bound is loose, its cancellation argued. The convergence proof
+rests on an assumption the authors call strong, and on a contraction
+condition that pulls against the greedy-in-the-limit assumption it is
+used with. The experiments have no variance reported and few runs. And
+every setting is homogeneous: identical agents, shared networks in
+Gaussian Squeeze, identical armies in the battle.
+
+## How it bears on the record
+
+- **CLAIM-423.** The lead offered mean-field MARL as the tool for
+  institutional scale. The reading narrows that. The method scales by
+  making each agent face the average of its neighbours, so it requires
+  agents that are interchangeable within a neighbourhood. Identity, role
+  and position drop out of each agent's view, and only the distribution
+  of actions remains. CLAIM-423 is about components that are not
+  interchangeable: attention, coalitions, elected terms, careers, treaties,
+  each with its own temporal horizon, and which holds authority over
+  which. A mean-field model of one homogeneous class (voters, a public's
+  attention) is possible. The coupling between classes running at
+  different speeds, which is what the claim adds to CLAIM-331, is not in
+  this paper, which has one timescale and one population per side. As a
+  formal tool it would take a multi-population, multi-timescale extension
+  the paper does not supply. It bears on the claim's setting, not on its
+  thesis.
+- **CLAIM-327.** The mean action ā is a slow collective variable that
+  every agent reads and every agent's policy regenerates, which is the
+  shape of CLAIM-327's thesis, here in a working learning algorithm. It
+  converges only under the contraction condition, a high enough
+  temperature: a population whose members respond too sharply to the
+  collective variable need not settle.
+- **THEORY-tmp3oyxw and CLAIM-tmp1xoac.** Soma et al.'s population vector
+  is a policy; here the population's action distribution is what each
+  agent learns against. The two are the macro and the micro view of a
+  large population of learners, and neither represents authority as
+  distinct from action share.

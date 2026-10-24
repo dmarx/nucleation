@@ -1,0 +1,101 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-24 (NOTE-tmpau8o0) from the scan of the published
+  article on Geoffrey Hinton's University of Toronto page; worth reading as
+  the origin of the mixture of experts and as a learning rule in which
+  authority over a case goes to whichever expert does better than the
+  gate-weighted average. Redefining the error as that of a single expert
+  chosen stochastically by the gate makes the experts compete rather than
+  cooperate, and the log-likelihood form adapts the best-fitting expert
+  fastest. On a four-class vowel task, mixtures of 4 or 8 linear experts
+  reached criterion in about half the epochs of backpropagation networks
+  with matched parameters, at the same accuracy, and in every run all but
+  2 or 3 experts ended with mixing proportions effectively 0. The authors
+  read that as economy; nothing in the paper tests whether the idle
+  experts could recover.
+title: 'Adaptive Mixtures of Local Experts'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Filed and read 2026-10-24 for the owner's question of how the record
+    stands on multi-agent learning, as the source of the gating dynamics
+    the lead tied to CLAIM-277. Citation checked against Crossref: Neural
+    Computation 3(1): 79–87, issue February 1991, which gives the month
+    only, so `published:` is 1991-02-01, meaning February 1991 (ADR-002).
+    Read in full from a scan of the published article (MIT Press, 9 pp.)
+    posted on Geoffrey Hinton's University of Toronto page
+    (https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf). The scan has no
+    text layer; it was read by OCR (tesseract, 300 dpi) with the equations
+    and figure captions checked against the page images. The reference list
+    was skimmed. Unpaywall and OpenAlex list the version of record as
+    closed.
+tags:
+- learning-theory
+- probabilistic-modeling
+- anthology-candidate
+date: '2026-10-24'
+published: '1991-02-01'
+doi: '10.1162/neco.1991.3.1.79'
+url: 'https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf'
+first_author: 'Jacobs'
+keywords:
+- 'mixtures of experts'
+- 'gating network'
+- 'competitive learning'
+- 'modular networks'
+- 'task decomposition'
+- 'vowel discrimination'
+implementations: []
+summary: >-
+  Jacobs, Jordan, Nowlan & Hinton (1991). A system of expert networks and
+  a gating network, trained with the error of a single expert selected
+  stochastically by the gate (or the negative log-likelihood of a mixture
+  of Gaussians), so that each expert produces the whole output and an
+  expert better than the gate-weighted average gains responsibility for
+  the case. On speaker-independent vowel discrimination, 4 or 8 linear
+  experts learned twice as fast as matched backpropagation networks at
+  equal accuracy and divided the task by class pair; all but 2 or 3
+  experts went unused.
+---
+<!-- inactive-ok-file: NOTE-tmpau8o0 THEORY-tmpgtvdv CLAIM-277 QUESTION-132 — filed from this reading, and the claim and question it bears on, named -->
+
+# LIT-tmpjhci7: Adaptive Mixtures of Local Experts
+
+Jacobs, R. A., Jordan, M. I., Nowlan, S. J. & Hinton, G. E. (1991). Adaptive mixtures of local experts. *Neural Computation* 3(1): 79–87. doi:10.1162/neco.1991.3.1.79.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpau8o0. Page numbers are the journal's.*
+
+- **Competition by the error function.** Blending experts' outputs makes
+  each expert cancel the others' residual, which "causes them to cooperate
+  nicely, but tends to lead to solutions in which many experts are used
+  for each case" (p. 80). Scoring the expected error of one expert chosen
+  by the gate (Eq. 1.2), or the negative log-likelihood of a mixture
+  (Eq. 1.3), makes each expert produce the whole output, so they compete.
+- **Responsibility follows relative success.** An expert that does better
+  than the gate-weighted average on a case gains responsibility for it,
+  and one that does worse loses it (pp. 81–82). Under Eq. 1.3 the
+  best-fitting expert is adapted fastest (p. 82; re-derived in the NOTE).
+- **Results.** On four-class vowel discrimination (75 speakers, first two
+  formants), mixtures of 4 or 8 linear experts matched backpropagation
+  networks of equal parameter count on accuracy (88% train, 90% test) and
+  reached the error criterion in about half the epochs (Table 1, 25 runs
+  each).
+- **Symmetry breaking and idle experts.** From equal mixing proportions,
+  experts first head for the one-line average solution, then split by
+  class pair. In every run "all but 2 or 3 experts had mixing proportions
+  that were effectively 0 for all cases" (p. 87).
+
+## Why this is here
+
+Filed on 2026-10-24 as the origin of the gating dynamics that the lead
+read as CLAIM-277's rich-get-richer entrenchment. The reading narrows that
+(NOTE-tmpau8o0): here the same loop is the mechanism of specialization,
+the authors present the idle experts as economy, not as a failure, and no
+recovery of an idle expert is tested, which is QUESTION-132's missing
+measurement. Filed THEORY-tmpgtvdv. It carries `anthology-candidate` as
+an ML method, and no instruction for practice.
