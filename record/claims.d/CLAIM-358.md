@@ -42,6 +42,7 @@ grounds:
 complements:
 - CLAIM-162
 - CLAIM-362
+- CLAIM-tmpuxcp6
 uses:
 - TERM-061
 summary: >-
@@ -57,6 +58,8 @@ summary: >-
   negotiation, and keeping up the relations among specialists it needs,
   have costs of their own. The sharp edge: it does not say local settlement is always cheaper, that
   an integrated agent works less hard, or anything about authenticity.
+supports:
+- CLAIM-tmp0qupq
 ---
 <!-- inactive-ok-file: CLAIM-261 CLAIM-162 CLAIM-163 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
 
@@ -174,3 +177,23 @@ same course first.
   it is not filed as a claim.
 - **That "synchronization" now has its mechanism.** [CLAIM-163](CLAIM-163.md)'s objection
   stands. The claim gives it candidates, not an answer.
+
+## Note of 2026-10-23: four kinds of learned saving, and persistence is not amortization
+
+From the exchange's elaboration of this claim (workbench entry of
+2026-10-24, U9–U12). Four learned changes save different things: a cached
+prediction saves repeated prospective computation; a compiled skill saves
+response selection; a learned endorsement saves negotiation over
+authority; a local accommodation saves escalation to a mediator. A
+practised controller can still intervene every time, only more cheaply,
+while an accommodation lets familiar conflicts settle without it, and the
+two fail differently under selective disruption. Reuse pays, under a
+declared cost measure and comparable outcomes, when
+N(c_d − c_π) > F + C_maintenance + C_error. Persistence alone does not show
+amortization: a strong prior can change which allocation wins while all
+the costly evaluation still runs. [CLAIM-tmp0qupq](CLAIM-tmp0qupq.md) states the learned prior
+and the test. The exchange later (U20, 2026-10-24) added a route: earlier
+arbitration can be encoded into what an organization automatically
+notices and treats as relevant, its legibility ([CASE-tmpydmf8](../cases.d/CASE-tmpydmf8.md)), and that
+can be adaptive compilation or the cheapness of no longer considering
+inconvenient alternatives.

@@ -54,6 +54,7 @@ summary: >-
   until a result on one line is shown to hold, through it, on the other.
 complements:
 - CLAIM-341
+- CLAIM-tmprfgwn
 supports:
 - CLAIM-338
 ---
@@ -127,3 +128,21 @@ show the joint prediction this claim's `defeated_if` asks for. A16 §13
 proposed the comparison as a simulation; A17 dropped it: "the paper's
 principal argument does not depend on proving it." The claim stays
 untested. A15's equations are [CLAIM-297](CLAIM-297.md)'s, quoted here.
+
+## Note of 2026-10-24: information geometry and singular learning
+
+The owner: "let's connect back to the communicative act stuff and
+amari/watanabe theory" (workbench entry of 2026-10-24, U27). The
+connection is filed as [CLAIM-tmprfgwn](CLAIM-tmprfgwn.md): Amari's Fisher metric measures which
+changes of an interpreter's organization the probes detect; Watanabe's
+theory says what follows when different organizations give the same
+responses ([CASE-tmpj2xb7](../cases.d/CASE-tmpj2xb7.md)). Belief, wanting, liking and feeling as the
+exchange characterized them are states of organized interpreters, not
+speech acts: assertion, request, praise and disclosure can each come apart
+from the state they seem to express, and saying "I am afraid" can report,
+warn or appeal. What links them is that communicating about such a state
+can change the audience's interpretation, the speaker's standing, and the
+authority of later contributions, so the meaning–authority–legibility
+feedback can run between participants as well as within one. The bearing
+on [QUESTION-031](../questions.d/QUESTION-031.md) is when observable responses suffice to separate the
+organizations relevant to a task.

@@ -35,6 +35,7 @@ summary: >-
   proposal: it is a reading of [CLAIM-139](CLAIM-139.md), not what A218 says.
 supports:
 - CLAIM-204
+- CLAIM-tmprfgwn
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-074 — Proposed; open, and cited as the two theses this reading relates and the receiver-side claim, not as settled -->
 

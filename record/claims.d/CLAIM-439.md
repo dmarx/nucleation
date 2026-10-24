@@ -191,3 +191,28 @@ open.
   the claim predicts of denial and of mis-reported organizations.
 - That the deeper process must be a cortex, or a person. Any process in
   the system that infers its potential and is used elsewhere qualifies.
+
+## Note of 2026-10-24: what the self-model models
+
+Asked "what's our current characterization of what it means for an affect
+to be 'felt'?" (workbench entry of 2026-10-24, U24), the exchange found a
+gap. If the self-model represents only the ordering that prevails, the
+claim explains felt motivational precedence better than felt pleasure
+from a perspective that does not prevail, and [CLAIM-437](CLAIM-437.md) makes such
+perspectives common. A suggested extension, not yet the claim: felt affect
+is an accessible, consequential self-representation of a process-relative
+affective evaluation, prevailing or not. That allows pleasure felt without
+governing and motivation governing unfelt, and separates having an
+affect, feeling it, understanding it and letting it govern. Legibility
+([CASE-124](../cases.d/CASE-124.md)) bears on which affective signals are registered and whether the
+representation has influence; it does not make the represented state
+phenomenal. An earlier turn (U5) proposed [CASE-129](../cases.d/CASE-129.md), the alarm that learned
+against the alarm that was disabled, as this claim's test case: accurate
+local evaluations can fail to reach the process that models the
+organization, and a model can represent the organization as calm when
+consequential signals were suppressed, so self-modelling is no infallible
+route from evaluative organization to felt affect. The three mechanisms,
+evaluation, the gate on its influence and the model of the state, can be
+manipulated separately, which is [QUESTION-266](../questions.d/QUESTION-266.md)'s design. [THEORY-570](../theory.d/THEORY-570.md)'s
+Minsky, for whom feelings are descriptions of organizational cascades, is
+the nearest antecedent.

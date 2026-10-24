@@ -30,6 +30,7 @@ summary: >-
   ordinal.
 supports:
 - CLAIM-434
+- CLAIM-tmp1xoac
 ---
 <!-- inactive-ok-file: LIT-1462 — Unavailable, unread; Monderer and Shapley 1996, the source this result is attributed to -->
 <!-- inactive-ok-file: TERM-076 CLAIM-440 CLAIM-436 THEORY-894 — Proposed or draft; the term and claims this result bears on, and the cardinal decomposition filed with it -->

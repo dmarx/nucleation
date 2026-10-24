@@ -38,3 +38,15 @@ summary: >-
 As a disclaimed claim it is the record saying what it does *not* hold, with an
 address. The exchange wrote this sentence, or one like it, dozens of times;
 filed once, a new draft can cite it instead of re-deriving it.
+
+## Note of 2026-10-23: Brooks's robot as the lower boundary
+
+From the same audit (workbench entry of 2026-10-24, U5). [THEORY-689](../theory.d/THEORY-689.md)'s
+subsumption robot has several action-producing layers that suppress and
+inhibit one another, with no central controller. Lacking an executive
+cannot be why it has no will, since the will account requires none, nor
+can external design, since the record separates origin from endogenous
+organization. The likelier line is whether the system maintains and
+revises the relations among its regimes, rather than executing fixed
+inhibition. That makes the robot a boundary case for [TERM-048](../terms.d/TERM-048.md)'s willed
+agent and for [QUESTION-054](../questions.d/QUESTION-054.md).

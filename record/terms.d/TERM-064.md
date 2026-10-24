@@ -41,6 +41,8 @@ summary: >-
 used_by:
 - CLAIM-404
 - CLAIM-400
+- CLAIM-tmpd6q2w
+- CLAIM-tmprfgwn
 ---
 <!-- inactive-ok-file: THEORY-841 THEORY-857 — Proposed; Hayek's argument and James et al.'s bidirectionality, cited as readings that bear on the term, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1321 LIT-1328 — Unavailable; Scott and Lan, named as works the term's sources lean on that no lawful copy reached -->

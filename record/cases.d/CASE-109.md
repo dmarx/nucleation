@@ -27,6 +27,7 @@ summary: >-
   distinguishes, not that people differ this way.
 supports:
 - CLAIM-358
+- CLAIM-tmpf2p3p
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-261 THEORY-070 CLAIM-358 CLAIM-362 CLAIM-364 — Proposed; the claims and reading the case is set beside, open -->
 

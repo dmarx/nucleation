@@ -58,11 +58,13 @@ summary: >-
 supports:
 - CLAIM-403
 - CLAIM-425
+- CLAIM-tmp8z857
 illustrated_by:
 - CASE-127
 - CASE-129
 complements:
 - CLAIM-432
+- CLAIM-tmp0qupq
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
@@ -194,3 +196,24 @@ explanations." Retention is [CLAIM-350](CLAIM-350.md)'s question, usability [CLA
 ([TERM-064](../terms.d/TERM-064.md)), and the step from access to authority is this claim's.
 A23 cited neither this claim nor [CLAIM-156](CLAIM-156.md). A24 §6 carried the split to
 contributors, filed as [CLAIM-403](CLAIM-403.md), which rests on this claim.
+
+## Note of 2026-10-23: skills as acquired governance operations
+
+The owner, on the exchange's remark that an agent may reorganize the
+relation between its prospective evaluations and learned tendencies
+without changing either: "that connects nicely to DBT 'skills'"
+(workbench entry of 2026-10-24, U8). Read in this claim's terms, DBT's
+skills act on different parts of the organization: Check the Facts on the
+predictive model; Opposite Action on which action is performed against an
+emotional urge; STOP on the transition from urge to action, so another
+process can intervene; TIPP on the physiological conditions under which
+evaluations run; Cope Ahead on a rehearsed policy before the difficulty;
+interpersonal effectiveness on the repertoire of interventions. A skill
+can begin model-based and through rehearsal become available without the
+reasoning being rebuilt: skills can cache reflective self-government. Four
+achievements come apart: having a desire, knowing how to respond to it,
+being able to deploy the response under pressure, and having practised it
+until deployment costs little. Not every skill works by changing
+authority. The learned-prior account of how practice reorganizes
+recruitment is [CLAIM-tmp0qupq](CLAIM-tmp0qupq.md); these are functional interpretations, and
+the record holds no reading of Linehan.

@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-24 ([NOTE-tmp89chp](../notes.d/NOTE-tmp89chp.md)) from the CC BY PsyArXiv
+  preprint, not the closed version of record, whose abstract differs;
+  worth reading as the map of how anxiety relates to exploration once both
+  are split into kinds. In reward bandits directed exploration tends to
+  rise with trait or cognitive anxiety and fall with state or somatic
+  anxiety, random exploration shows no link, and in foraging, and in one
+  task with a predator to check for, anxiety goes with less exploration. A
+  narrative review of mostly sub-clinical, unreplicated studies with
+  inconsistent tasks and measures.
+title: 'The influence of anxiety on exploration: A review of computational modeling studies'
+version: 2
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Filed, not read. Registered unread from the owner's exchange of
+    2026-10-23/24, shared at
+    https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113,
+    where it is cited at turn U15. Identified from the exchange's
+    description (a 2024 computational review finding the relation of
+    anxiety to exploration heterogeneous, cognitive or trait anxiety
+    raising information seeking and state or somatic anxiety reducing
+    exploration) and checked against Crossref and PubMed (PMID 39515626)
+    on 2026-10-24: Ko-Ping Chou, Robert C. Wilson and Ryan Smith,
+    Neuroscience & Biobehavioral Reviews 167, article 105940. Crossref
+    gives only the issue month, December 2024; PubMed gives the online
+    date, 7 November 2024, which is `published:`. The summary follows
+    the abstract on PubMed.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Read in full (NOTE-tmp89chp) from the PsyArXiv preprint, version 1
+    (doi:10.31234/osf.io/wtfr6, posted 24 June 2024, the only version),
+    licensed CC BY 4.0. The version of record (Neuroscience &
+    Biobehavioral Reviews 167, 105940) is closed; its PubMed abstract adds
+    two sentences the preprint's lacks, so the text changed in review.
+    Status set to Active. `published:` corrected from 2024-11-07 to
+    2024-06-24, the preprint's date, under ADR-002 (the earlier date; the
+    preprint was not known when the work was filed). The summary is
+    accurate and now says the review is narrative.
+tags:
+- psychopathology-and-treatment
+- learning-and-conditioning
+- emotion-and-affect
+date: '2026-10-24'
+published: '2024-06-24'
+doi: '10.1016/j.neubiorev.2024.105940'
+first_author: 'Chou'
+keywords:
+- 'anxiety'
+- 'exploration'
+- 'explore-exploit dilemma'
+- 'directed exploration'
+- 'foraging'
+- 'computational psychiatry'
+- 'learning rates'
+implementations: []
+summary: >-
+  Chou, Wilson & Smith (2024). A narrative review of computational
+  modelling studies of how anxiety influences exploration, mostly in
+  reward tasks and sub-clinical samples. In reinforcement-learning tasks
+  directed, but not random, exploration may be raised by trait or
+  cognitive anxiety and lowered by state or somatic anxiety; in foraging
+  tasks anxiety is consistently associated with less exploration,
+  including, in one study, less checking for a predator. Some differences
+  may come from how anxiety modulates learning rates. Results are
+  inconsistent and unreplicated, and tasks, anxiety measures and methods
+  need to be made consistent.
+supports:
+- CLAIM-tmp8z857
+---
+<!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-tmphx93a THEORY-tmpapk2z — Proposed; the claim this was registered for and the readings filed from it, named -->
+# LIT-tmpciuti: The influence of anxiety on exploration: A review of computational modeling studies
+
+Chou, K.-P., Wilson, R. C. & Smith, R. (2024). The influence of anxiety on exploration: A review of computational modeling studies. *Neuroscience & Biobehavioral Reviews* 167: 105940. doi:10.1016/j.neubiorev.2024.105940. Preprint: PsyArXiv, doi:10.31234/osf.io/wtfr6 (2024).
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp89chp](../notes.d/NOTE-tmp89chp.md). Page numbers are the preprint's.*
+
+- **Directed exploration, by facet.** In reward bandits, "many results
+  could be seen to suggest that trait/cognitive anxiety measures promote
+  exploration, while state/somatic anxiety deters exploration. However,
+  findings are mixed" (p. 18).
+- **Information sought when useless.** In the Horizon Task, "reduced
+  directed exploration with high anxiety was partially explained by
+  greater information-seeking when it was not useful" (p. 16).
+- **Random exploration.** "Unlike directed exploration, no studies to date
+  have specifically linked random exploration to anxiety" (p. 19).
+- **Foraging.** Stress and anxiety consistently go with less exploration;
+  with a predator to check for, people higher in somatic anxiety checked
+  less, associated "with a greater aversion to detecting the predator"
+  (p. 22).
+- **Limits the authors state.** Inconsistent tasks and measures, no
+  replications reported, and "the majority of studies to date have used
+  sub-clinical samples" (p. 31).
+
+## Why this is here
+
+The exchange cited it at turn U15, unnamed, as a 2024 computational review finding anxiety's relation to exploration heterogeneous. The abstract confirms it, with two refinements: the increase is in directed exploration only, and foraging tasks show consistently less exploration.
+
+**Corrected 2026-10-24, from the reading.** The description is accurate,
+with the authors' "may". The record should add that the review is
+narrative, not systematic, that its tasks are almost all reward tasks with
+nothing aversive at stake, and that the preprint of 24 June 2024 is the
+first appearance. For [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) it narrows the claim's grant of
+defensive authority over "evidence acquisition" to the somatic and state
+facets of anxiety and to foraging, and its predator-checking study is the
+nearest evidence the record holds for evidence avoided because finding it
+is aversive. Filed from it: [THEORY-tmphx93a](../theory.d/THEORY-tmphx93a.md) and [THEORY-tmpapk2z](../theory.d/THEORY-tmpapk2z.md).

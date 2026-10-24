@@ -1,0 +1,192 @@
+---
+status: Read
+paper: 'LIT-tmp6zp7e'
+title: 'Ku & Finch — Routines die hard: ontological agency in securitisation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Read in full on 2026-10-24 from the version of record, Review of
+    International Studies 52(2): 306–331, Cambridge University Press, open
+    access under CC BY 4.0, the publisher's PDF
+    (https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C3732AC43C59BA878E416E528C8ADB01/S0260210524000834a.pdf),
+    26 pages, as Unpaywall gives it. Text extracted by pdftotext. Read:
+    every page, footnotes and Tables 1–7 (the translated tweets) and
+    Figures 1–4 captions. Not read: the supplementary materials (Appendix A
+    on the tweet samples, and the video), which the article links to.
+    Page numbers below are the journal's.
+date: '2026-10-24'
+summary: >-
+  A conceptual paper with an illustration. Alongside the political agency
+  securitisation theory grants its audience (accept, reject, contest), Ku
+  and Finch propose ontological agency: keeping everyday routines going,
+  which often means ignoring securitising moves. Observed by chance in
+  Gangneung in 2022, people paid routine missile launches and beach-front
+  military sites little attention; when a missile malfunctioned at night
+  under a news embargo, tweets voiced fear of war and anger at the
+  government. The authors argue such inaction lets securitisation reproduce
+  itself and that accepting it delegates anxiety management to elites.
+---
+<!-- inactive-ok-file: CLAIM-tmp28sti CLAIM-tmp8z857 — Proposed; the claims this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp2890h — Proposed; filed from this reading, named -->
+
+# NOTE-tmpj2vyl: Ku & Finch — Routines die hard: ontological agency in securitisation
+
+## Contribution
+
+Securitisation theory says a securitising move succeeds when an audience
+accepts it, and treats audience agency as political: accepting, rejecting,
+contesting. Ku and Finch argue that this misses most of what audiences do,
+which is nothing visible. Drawing on Giddens, they name a second agency,
+ontological agency, the maintenance of one's routines to keep anxiety
+bracketed, and they argue that "ontological agency is about inaction as
+much as action in the face of securitising acts" (p. 307). Inaction is not
+consent; it is coping, and it lets securitisation persist.
+
+## Key insight
+
+The audience's attention is the resource securitisation competes for, and
+the audience rations it to protect its routines. So a securitisation that
+fits routines can become "thick" and go unchallenged, while the same
+securitisation, once it disrupts routines, releases a latent anxiety that
+was there all along: "Successful and continuous securitisation thus depends
+on the extent to which securitising moves fit in with the audience’s
+routines with minimal disruption" (p. 315).
+
+## Assumptions
+
+- **Giddens's ontological security.** Routines bracket existential anxiety
+  in practical consciousness; their disruption threatens "chaos"
+  (pp. 310–311).
+- **Three features of ontological agency (pp. 310–311).** The centrality of
+  routinised practice, a sense of control, and the physical self.
+- **South Korea as a "hard case" (p. 315).** Securitisation of North Korea
+  there is not only rhetorical but enacted in visible military practice,
+  which is harder to ignore than speech acts.
+- **Method (pp. 316–317).** Unstructured observation, "akin to
+  ‘eavesdropping’" (p. 317), of people in Gangneung on 25 May 2022, by chance:
+  "We had no prior information about the missile launches", and they
+  recognise "that this may be problematic from the perspective of rigorous
+  social science research" (p. 316, fn. 48). For 4 October 2022, virtual
+  observation of Korean-language tweets, collected with academictwitteR in
+  three samples (2,805, 7,456 and 470,466 unique tweets) and filtered for
+  "war" and "North Korea" (p. 321, fns. 66–68).
+
+## Key results
+
+- **25 May 2022, in person (pp. 317–320).** A Hyunmoo-2 launch in the
+  morning and a series of launches every ten minutes in the afternoon, loud
+  and visible from beach cafés: "Most of the people we observed continued
+  conversations or took in the sights while outwardly ignoring" the
+  launches (pp. 319–320). Military sites on the beach were painted with
+  tourist murals, which the authors read as coercing consent by making
+  securitisation mundane (pp. 317–319). Their caveat: "While we cannot
+  access people’s internal reactions, they seemed unfazed based on their
+  outward behaviour" (p. 317, fn. 57).
+- **25 May on Twitter (p. 325).** 139,583 tweets (19,630 unique) matching
+  the keywords; "Of these, only 23 unique tweets mentioned war", four about
+  the launch, all criticising it as escalation (Table 7).
+- **4 October 2022, online (pp. 320–328).** A malfunctioning Hyunmoo-2
+  exploded on the airbase at night; the government embargoed the news until
+  a 7:00 am press conference. Tweets speculated about war and North Korean
+  attack (Tables 1–2), then criticised the military's competence and the
+  government's secrecy (Tables 3–6).
+- **Their reading (p. 328).** The audience "is more tolerant of emergency
+  measures to the extent that they are implemented with adequate
+  communication and transparency"; latent anxiety about North Korea "is
+  expressed in degrees rather than in a binary manner" (p. 329).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Audiences exercise an ontological agency, maintaining routines, distinct from political agency | conceptual | pp. 309–315 |
+| C2 | People in Gangneung outwardly ignored routine missile launches and military sites | weak to moderate: one afternoon, observed by chance, outward behaviour | pp. 317–320; fn. 57 |
+| C3 | A disruptive malfunction under an embargo released expressions of fear of war and blame of government | moderate as a description of tweets | Tables 1–6; filtered on "war" and "North Korea" |
+| C4 | Inaction lets securitisation reproduce itself, "thin" becoming "thick" | interpretive | pp. 314–315 |
+| C5 | Accepting securitisation delegates the management of anxiety to elites | interpretive | pp. 312–313, 325–326 |
+| C6 | Tolerance of emergency measures depends on communication and transparency | weak: inferred from tweet content | p. 328 |
+
+## Concepts
+
+- **Ontological agency**: "exercising control over the stability and
+  continuity of one’s everyday routines and practices to minimise
+  disruption, including disruption caused by securitisation" (p. 307);
+  'backstage', against political agency's 'frontstage' (pp. 313–314).
+- **Thin and thick securitisation (p. 315)**: one inviting contestation;
+  one ignored or accepted because it fits routines.
+- **Latent anxiety**: anxiety bracketed from attention by routine, activated
+  by disruption (p. 313).
+
+## Connections
+
+It extends the Copenhagen School's audience (Buzan, Wæver and de Wilde,
+[LIT-tmpyn7sc](../literature.d/LIT-tmpyn7sc.md)) with Giddens's ontological security and the IR literature on it
+(Mitzen; Steele; Kinnvall; Rumelili), and the micro-moves approach of
+Solomon and Steele. It distinguishes ontological agency from psychological
+reactance (p. 311, fn. 30).
+
+## Bearing on the record
+
+- **[CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md) (protective regimes become self-maintaining).** The claim
+  cites Ku and Finch in "What it does not say": "Ku and Finch's South
+  Korean case finds publics keeping ordinary routines against
+  anxiety-inducing security narratives." The reading corrects that use.
+  - **Corrects.** The routines are kept against the anxiety, not against
+    the narratives. The authors do not find publics resisting
+    securitisation. They find publics ignoring it, which they say "may
+    allow for the reproduction of securitising practices and the structure
+    of securitisation" (p. 314), and they find latent anxiety under the
+    calm. The case is not evidence that publics fail to internalize the
+    threat framing. Its point is that they hold it latently and do not act
+    on it while routines are intact.
+  - **Supports, more than the claim says.** Two of the paper's arguments
+    are the claim's feedbacks seen from the audience. "Accepting
+    securitisation is also a way for laypeople to delegate the task of
+    managing their anxiety to political elites" (p. 312): the audience
+    hands evaluation of the threat to the protective institution, which is
+    the epistemic feedback. And routine inaction lets securitising moves
+    "accrete to form a structure of securitisation" (p. 312) that is
+    reproduced "knowingly or unknowingly, leading to the persistent
+    reproduction of insecurity and hence anxiety" (p. 313): persistence
+    without an audience's active consent.
+  - **Complicates.** When the protective apparatus itself disrupted
+    routines, the audience turned on it: blame of the military's
+    competence and of the embargo. Disruption by the protector is one way
+    the claim's lock-in can break. The authors read it as a demand for
+    transparency (p. 328), not a rejection of the securitisation.
+  - The claim's bullet should be redated and rewritten by the lead, not
+    here.
+  - Filed as [THEORY-tmp2890h](../theory.d/THEORY-tmp2890h.md).
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** An analogy at the
+  social scale, the record's not the paper's. Bracketing by routine is
+  avoidance of attention that keeps anxiety latent and the threat
+  hypothesis untested; the audience's delegation of anxiety management is
+  authority given to a defensive institution. The paper gives no measure of
+  either.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Illustration, not test.** One afternoon observed by chance, and one
+  night of tweets filtered on the very words that express the expected
+  anxiety; the authors' footnote concedes the filter excludes tweets on the
+  same themes without both terms (p. 321, fn. 68).
+- **Inner states inferred from outward behaviour** (fn. 57).
+- **Deleted tweets** missing from the samples, as the authors note (p. 321,
+  fn. 64).
+- **Selection of the two events** is by circumstance; no comparison with
+  disruption by something other than the protector.
+- **Inaction is read as ontological agency** without an alternative test
+  (habituation, low perceived risk), though the authors note media reports
+  of "indifference" and "apathy" (p. 316).
+
+## Open questions
+
+- Does routine inaction differ from habituation or low risk perception?
+  Measures of latent anxiety (physiological or survey) in the same publics
+  before and after disruption would tell.
+- Does disruption by the protective apparatus weaken securitisation over
+  time, or does criticism of competence demand more protection? A
+  follow-up on South Korean attitudes after October 2022 would show which.

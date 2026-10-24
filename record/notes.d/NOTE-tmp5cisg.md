@@ -1,0 +1,255 @@
+---
+status: Read
+paper: 'LIT-tmpmi4k8'
+title: 'De Kleine et al. — Impaired action-safety learning and excessive relief during avoidance'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Read in full on 2026-10-24 from the publisher's version of record, a
+    10-page PDF (a Leiden University cover sheet and the article's 9
+    pages), CC BY 4.0, downloaded from Leiden University's Scholarly
+    Publications repository (hdl.handle.net/1887/3677210, file
+    /download/1887/3677210/1). Unpaywall and OpenAlex list it as hybrid
+    gold open access. The Radboud and KU Leuven repository copies refused
+    this client (403 and connection reset). Text extracted by pdftotext.
+    Read: every line of pp. 1–8, including Table 1, the captions of
+    Figures 1–3, funding and conflict statements. The reference list
+    (pp. 8–9) was used only to check citations. There is no supplement.
+    Page numbers below are the journal's.
+date: '2026-10-24'
+summary: >-
+  A cross-sectional comparison of 47 healthy controls with 139
+  treatment-seeking patients (33 OCD, 40 panic disorder with agoraphobia,
+  66 PTSD) in a picture-based avoidance task. OCD and PTSD patients pressed
+  the avoidance button more to the safety cue and kept a higher
+  expectancy of the aversive picture after effective avoidance; PDA and
+  PTSD patients reported more relief when it was omitted. Relief was
+  already higher before avoidance was available, and patients rated the
+  pictures as more aversive. That low confidence in avoidance makes
+  omissions surprising and the relief reinforces avoidance is the authors'
+  interpretation, not something the study tested.
+---
+<!-- inactive-ok-file: CLAIM-tmp8z857 THEORY-285 THEORY-058 — Proposed; the claims and readings this reading bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-tmpv4nan LIT-tmpmi4k8 LIT-tmpz7j0g LIT-tmpn4i53 — cited as the works in the exchange, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpfj7ek — Proposed; filed from this reading, named -->
+
+# NOTE-tmp5cisg: De Kleine et al. — Impaired action-safety learning and excessive relief during avoidance
+
+## Contribution
+
+Before this study, two studies had tested avoidance learning in anxiety
+patients (Gillan et al. 2014 on OCD; Pittig et al. 2021, a mixed sample).
+Both looked at whether patients go on avoiding once avoidance is pointless
+or costly. This one looks at how avoidance is first learned. It tracks
+three things trial by trial: when patients avoid, whether they come to
+expect that their avoidance works, and how much relief they report when
+the aversive picture does not come. Patients and controls did not differ
+in avoiding the danger cues. They differed in avoiding the safety cue, in
+residual threat expectancy after effective avoidance, and in relief.
+
+## Key insight
+
+How often someone avoids does not show what they learned from avoiding.
+Patients and controls pressed the button equally often to the avoidable
+danger cue, but patients (OCD and PTSD) still expected the picture more
+after pressing it. On the authors' reading, they learned *to avoid*
+without learning as well that avoiding *makes them safe*. Each omission
+then stays surprising and relieving. In the authors' words, the relief
+"reinforces the avoidance action further, thereby leading to higher levels
+of avoidance, but apparently not by strengthening the action → safety
+association (which is weakened in the patients)" (p. 7).
+
+## Assumptions
+
+- **Expectancy as action-safety learning.** A high rated expectancy of the
+  picture after an avoidance response is read as a weak action → safety
+  association, and a low one as an acquired association (p. 2).
+- **Relief as surprise.** Relief ratings after omissions are taken to
+  gauge the prediction-error (surprise) signal that computational models
+  make the reinforcer of avoidance (p. 2, after Moutoussis et al. 2008
+  and Vervliet et al. 2017).
+- **The task.** Three lamp colours in an office picture. Two (CS+) were
+  followed by one of 12 mildly aversive IAPS pictures, the third (CS−)
+  never. Pressing a red button within 2 s cancelled the picture after one
+  CS+ (CS+avoidable) but not the other (CS+unavoidable). The Pavlovian
+  phase had 2 trials per CS; the avoidance phase had 12 per CS in two
+  blocks, with two unannounced trials between the blocks in which the
+  button did not work (p. 3). Participants were told which colours could
+  be followed by the picture "in order to speed up learning" (p. 3).
+- **No cost to avoiding.** Pressing the button cost nothing (p. 8).
+- **Sample.** Patients were recruited at an outpatient clinic before
+  intensive exposure treatment, with diagnoses made by the M.I.N.I.
+  Comorbidity overlapped: 19 of the 66 PTSD patients also had PDA, OCD or
+  both (p. 3). "The specific size per group was a convenience size", and
+  "The study was not pre-registered" (p. 3). Controls were tested at home
+  by a research assistant, patients at the clinic, after two other tasks
+  (p. 3).
+- **Analysis.** Repeated-measures ANOVAs with age, gender and education as
+  covariates, repeated with rated picture unpleasantness added, and
+  Bonferroni-corrected pairwise comparisons (p. 4).
+
+## Key results
+
+- **Pavlovian phase (p. 5).** All groups expected the picture more after
+  the CS+'s than after the CS−, with no group difference and no Group × CS
+  interaction. But relief to the CS−, before any avoidance was available,
+  already differed by group (F(3, 177) = 15.95, eta = 0.21): PDA and PTSD
+  above controls, and PTSD above PDA and OCD (p. 5; Fig. 2B).
+- **Avoidance (p. 5; Fig. 3A).** A Group × CS interaction
+  (F(4.15, 244.72) = 4.90, p = .001, eta = 0.08), driven by OCD
+  (p = .004) and PTSD (p = .028) patients avoiding the CS− more than
+  controls. "No significant differences between groups were found in
+  reaction to the CS+ ’s" (p. 5). PDA patients did not differ from
+  controls on any CS. The interaction held with rated unpleasantness
+  added.
+- **Expectancy (p. 6; Fig. 3B).** Group × CS interaction
+  (F(5.43, 320.53) = 3.50, p = .003): OCD and PTSD patients expected the
+  picture more than controls after the CS− and the CS+avoidable, but not
+  after the CS+unavoidable. On trials where the button was pressed during
+  the CS+avoidable, OCD (p = .045) and PTSD (p < .001) patients expected
+  the picture more than controls. Both effects held with unpleasantness
+  added, which also had a main effect of its own.
+- **Relief (p. 7; Fig. 3C).** A main effect of group (F(3, 141) = 28.71,
+  eta = 0.38) with no Group × CS interaction: PDA and PTSD patients above
+  controls, PTSD above PDA and OCD, "especially during the first half of
+  the task" (Group × Block, p = .007). OCD patients did not differ from
+  controls. Unpleasantness had a large main effect (eta = 0.16) and left
+  the group effect intact (eta = 0.28).
+- **Aversiveness (Table 1).** Patients rated the pictures as more
+  unpleasant (χ²(3) = 28.07, p < .001); PTSD patients rated them higher
+  than controls and OCD patients.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | OCD and PTSD patients avoid a safety cue more than healthy controls in this task | moderate: one cross-sectional sample, post-hoc contrasts | p. 5; Fig. 3A |
+| C2 | Patients and controls avoid the danger cues equally, avoidable and unavoidable alike | moderate: a null, with no cost to avoiding | p. 5 |
+| C3 | OCD and PTSD patients keep a higher expectancy of the aversive outcome after effective avoidance | moderate | p. 6; Fig. 3B |
+| C4 | PDA and PTSD patients report more relief at omitted aversive outcomes, controlling for rated aversiveness | moderate: relief was already higher before avoidance was possible | pp. 5, 7 |
+| C5 | Low confidence in avoidance makes omissions surprising, and the extra relief reinforces avoidance without strengthening action → safety learning | weak: the authors' interpretation, not tested | p. 7 |
+| C6 | Elevated relief may build a habitual CS → action association | speculative: called "untested" by the authors | p. 7 |
+| C7 | Avoiding the safety cue reflects behaviour-as-information, the act of avoiding giving the cue a threat meaning | speculative: offered as "A remaining possibility" | p. 7 |
+
+## Concepts
+
+- **Action → safety association**: learning that an executed avoidance
+  action is followed by the omission of the aversive outcome, indexed by
+  low expectancy after the action (p. 2).
+- **Relief**: rated pleasant feeling at an omitted expected aversive
+  outcome, taken to track surprise (p. 2).
+- **Unnecessary avoidance**: avoidance to the CS−, which no outcome
+  follows anyway. **Ineffective avoidance**: avoidance to the
+  CS+unavoidable, which the action cannot prevent (p. 2).
+
+## Connections
+
+The task is Vervliet and Indekeu's (2015; Vervliet, Lange & Milad 2017).
+Relief as a reinforcer comes from the same group (Vervliet et al. 2017;
+Willems & Vervliet 2021). The computational frame is Moutoussis et al.'s
+temporal-difference account. The habit proposal follows LeDoux and Daw
+(2018) and LeDoux et al. (2017). The study cites Craske et al. 2014
+([LIT-tmpz7j0g](../literature.d/LIT-tmpz7j0g.md)) for the translation of fear learning into exposure, and
+Gangemi, Mancini and van den Hout 2012 ([LIT-tmpv4nan](../literature.d/LIT-tmpv4nan.md)) for
+behaviour-as-information. Its co-author Vervliet is also an author of
+Craske et al.
+
+## Bearing on the record
+
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (governance-maintained anxiety).** The exchange cited the
+  study for patients avoiding even during safety cues, with higher threat
+  expectancy and more relief. That is accurate, with two corrections:
+  each effect held for two of the three patient groups, not all three, and
+  the relief difference was there before any avoidance was learned. The
+  study bears on the claim's clauses separately.
+  - **"Relief reinforces the defense without being evidence of danger."**
+    This is the closest the record has to data for the clause, and it is
+    an interpretation. The authors propose that relief reinforces
+    avoidance "but apparently not by strengthening the action → safety
+    association". Relief was rated, and reinforcement was not measured.
+    Relief was also elevated in the Pavlovian phase, to a cue that only
+    ever predicted nothing, so excess relief is not specific to
+    avoidance. It goes with the person, the diagnosis or the
+    aversiveness of the pictures. Supports the clause weakly.
+  - **"Under avoidance … repeated safety need not correct the threat
+    estimate."** This complicates the clause, because the study finds a
+    different gap. The claim's agent learns correctly that avoidance
+    prevents harm and learns nothing about the world without it.
+    Patients here had *less* confidence than controls that the action
+    prevents harm. They went on avoiding without trusting it. Nor does the
+    design test the claim's identifiability point: no condition let
+    participants find out what happens to the CS+avoidable without the
+    button.
+  - **"The regime can outlast a corrected belief."** Mixed. Patients
+    expected the picture no more than controls after the CS− in the
+    Pavlovian phase, and the authors read this as "suggesting that
+    patients did acquire explicit knowledge that the CS- was safe" (p. 7).
+    Yet OCD and PTSD patients avoided it more later. That looks like
+    defence outrunning belief. But during the avoidance phase their
+    expectancy after the CS− was also higher, so the belief moved with
+    the avoidance. The authors' candidate explanation is that the button,
+    or pressing it, "conferred a threat meaning to the otherwise safe
+    CS-" (p. 7). That is the claim's self-evidencing loop ("if I felt
+    compelled to protect myself, the danger must have been serious"), but
+    offered as a possibility and not tested. On this evidence
+    governance-maintained and belief-maintained readings cannot be told
+    apart.
+  - **The defeater.** The study does not touch it. Nothing is
+    intervened on, authority is not measured, and the design is
+    cross-sectional (p. 8).
+- **[QUESTION-045](../questions.d/QUESTION-045.md) (is a maintained disorder a protective lock-in?).** A
+  cross-sectional difference in learning, measured before treatment. It
+  cannot say whether the learning profile maintains the disorder or
+  follows from it, and the authors say so (p. 8).
+- **[THEORY-285](../theory.d/THEORY-285.md).** That model's agent stops sampling and never gets
+  corrected. This study's patients did sample: they made the same number
+  of avoidance responses and saw the same outcomes. What differed is
+  what they took from the outcomes. The two failures are different.
+- **[THEORY-058](../theory.d/THEORY-058.md) (disorders maintained by self-reinforcing loops).** The
+  proposed relief → avoidance loop is a candidate link of that kind. It
+  is proposed, not shown.
+- Filed from this reading: [THEORY-tmpfj7ek](../theory.d/THEORY-tmpfj7ek.md) (the measured group
+  differences, without the interpretation).
+- No instruction for machine-learning practice; nothing for the
+  anthology.
+
+## Limitations
+
+- **Cross-sectional, with convenience group sizes and no
+  pre-registration** (pp. 3, 8). The authors: "We used a cross-sectional
+  design, which does not allow testing whether the observed effects and
+  proposed mechanism are causal to the disorder" (p. 8).
+- **Aversiveness is a rival explanation, and the authors raise it.**
+  "This begs the question whether the differences between the groups are
+  the result of differences in US aversiveness (threat appraisal) rather
+  than learning processes per se" (p. 7). Adding the rating as a covariate
+  does not settle it, and they propose raising aversiveness in healthy
+  people as the test (p. 8).
+- **No cost to avoiding.** "There was no cost attached to the avoidance
+  action" (p. 8). This may be why nobody stopped pressing to the
+  unavoidable cue. It also means the study says nothing about avoidance
+  at a cost, where pathology is usually located.
+- **Uneven testing conditions.** Controls were tested at home, patients
+  at the clinic after two other tasks. The CSs were not counterbalanced,
+  fear was not rated and there was no physiology (pp. 3, 8).
+- **Overlapping groups.** Comorbidity crosses the diagnostic groups, so
+  the per-diagnosis pattern (OCD and PTSD on expectancy, PDA and PTSD on
+  relief) should not be read as diagnosis-specific.
+- **Reporting.** "2 sonds" for 2 seconds (p. 3); section 2.4 precedes 2.3
+  in the layout. The results report Group × Block for relief without
+  saying which block was higher beyond "especially during the first half".
+
+## Open questions
+
+- Does the profile predict, or follow, the response to the exposure
+  treatment the patients were about to receive? The design allowed it,
+  and the paper does not report it.
+- With a cost to avoiding, does the safety-cue avoidance persist? And does
+  it persist when the threat expectancy is brought down to control
+  levels? That would separate defence outrunning belief from belief
+  driving defence.
+- Is relief to the CS− in the Pavlovian phase, before any avoidance,
+  what predicts later avoidance? If it is, the excess relief is a trait
+  that the person brings, not something avoidance produces.

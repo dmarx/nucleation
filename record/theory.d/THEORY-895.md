@@ -40,6 +40,7 @@ summary: >-
   person's goals, and lasting.
 supports:
 - CLAIM-437
+- CLAIM-tmp9ry8f
 ---
 <!-- inactive-ok-file: THEORY-893 CLAIM-433 CLAIM-440 CLAIM-439 TERM-076 — Proposed; the earlier reading and the claims and term this account bears on, cited as open -->
 <!-- inactive-ok-file: QUESTION-267 QUESTION-268 — Open; the questions it bears on, cited as open -->

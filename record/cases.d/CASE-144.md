@@ -82,3 +82,20 @@ routing, reflected-appraisal influence, a conventional adaptive policy).
   research ([QUESTION-089](../questions.d/QUESTION-089.md)) and Byzantine-robust learning already show the
   problem. A result counts for the framework only at [CLAIM-427](../claims.d/CLAIM-427.md)'s
   third grade.
+
+## Note of 2026-10-24: March as the baseline
+
+From the exchange of 2026-10-24 (workbench entry of 2026-10-24, U21–U22).
+Rather than a fixed-weight learner, the comparator for this study is
+March's model of mutual learning between an organizational code and its
+members ([THEORY-142](../theory.d/THEORY-142.md)). In March, rapid socialization can remove the
+independent views from which the code might learn, and an environmental
+change then exposes it. The extension that would test [CASE-124](CASE-124.md)'s legibility
+state keeps the members explicit and lets their scores depend on the
+prevailing regime, s_i = S_r(h_i, c, observations), with standing feeding
+back into r. The informative outcome is the one March's baseline lacks:
+independent views stay present and accurate, and the organization still
+fails to credit them. Controls: the same evaluation bias without a
+separate r memory, and history-dependent retrieval with no explicit
+legibility coordinate, so that the extra state is not rewarded merely for
+being there.

@@ -56,11 +56,13 @@ summary: >-
   the system governs itself.
 illustrated_by:
 - CASE-125
+- CASE-tmpj2xb7
 supports:
 - CLAIM-409
 - CLAIM-399
 complements:
 - CLAIM-414
+- CLAIM-tmprfgwn
 ---
 <!-- inactive-ok-file: CLAIM-122 CLAIM-127 — Proposed; the earlier, unparameterized appearances of this result, cited as its history, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-174 — Proposed; named as what this result does not test, open -->

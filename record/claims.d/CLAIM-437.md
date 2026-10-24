@@ -42,6 +42,8 @@ summary: >-
   Scherer's micro-valences already do, makes the system's valence the
   prevailing perspective's, and answers two problems the readings of
   incentive sensitization left open.
+supports:
+- CLAIM-tmp9ry8f
 ---
 <!-- inactive-ok-file: CLAIM-440 CLAIM-433 THEORY-893 THEORY-895 TERM-076 CLAIM-439 QUESTION-267 TERM-072 — Proposed or Open; the claims, readings, term and questions this reading bears on, cited as open -->
 
@@ -125,3 +127,24 @@ reverse what the wins settle (part 4).
 - **Which valence is felt.** On [CLAIM-439](CLAIM-439.md), whichever the system
   models, which allows a felt pleasure that does not govern action and a
   governing 'wanting' that is not felt.
+
+## Note of 2026-10-24: where hedonic drive sits
+
+The owner: "where does hedonic drive fit into our model?" (workbench
+entry of 2026-10-24, U23). Inside the distributed motivational
+organization, not as a fourth coordinate beside [CASE-124](../cases.d/CASE-124.md)'s meaning,
+authority and legibility. Four quantities: hedonic impact (how pleasant an
+experienced outcome is, the consummatory perspective); anticipated
+pleasure (a prospective model's prediction under an intervention,
+[CLAIM-tmp9ry8f](CLAIM-tmp9ry8f.md)); incentive wanting (cue-triggered pull); and hedonic
+authority (how much any of these influences the negotiation). A schematic
+pursuit score W = Q^H + κC lets cue-triggered pursuit diverge from
+expected pleasure; it is not a neural equation. Two consequences: a strong
+hedonic drive can lose the negotiation, and a process can control pursuit
+while yielding little pleasure. Wanting and liking then differ not only as
+evaluations but in their capacity to govern, which raises
+[QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md). Relief after avoidance is reduced distress, kept apart
+from positive pleasure and from reinforcement ([CLAIM-tmp8z857](CLAIM-tmp8z857.md)). Nothing
+here makes pleasure the organism's ultimate value: [CLAIM-433](CLAIM-433.md) keeps
+pleasantness apart from goal-conduciveness, and [QUESTION-266](../questions.d/QUESTION-266.md) keeps the
+inferred potential, a hedonic marker and the self-model apart.
