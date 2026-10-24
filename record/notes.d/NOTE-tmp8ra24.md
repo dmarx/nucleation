@@ -1,0 +1,143 @@
+---
+status: Read
+paper: 'LIT-tmpxlow9'
+title: 'Sato & Crutchfield — Coupled replicator equations for the dynamics of learning in multiagent systems'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Read in full on 2026-10-24 from arXiv:nlin/0204057v2 (18 August 2002),
+    4 pp., extracted by pdftotext: every paragraph, equations (1)–(14) and
+    the three figure captions. The figures themselves were not inspected.
+    The reference list was skimmed. The version of record (PRE 67:015206)
+    was not read. Page numbers below are v2's. Every quotation was checked
+    against the extracted text by script.
+date: '2026-10-24'
+summary: >-
+  A four-page letter. Two agents choose by softmax over reward memories
+  that decay at rate α; with learning slow relative to play, each agent's
+  choice distribution follows a replicator dynamic in the other's play plus
+  α Σ_j x_j log(x_j/x_i), a pull towards uniform play. Without decay the
+  system is conservative, Hamiltonian in zero-sum games; with decay it is
+  dissipative. Rock–scissors–paper simulations show tori, Hamiltonian chaos,
+  heteroclinic transients, limit cycles and chaotic attractors. Derivation
+  plus numerics, no data.
+---
+<!-- inactive-ok-file: THEORY-tmp3wkwk THEORY-tmpev90a — Proposed; filed from this reading, named -->
+<!-- inactive-ok-file: CLAIM-tmp1xoac CLAIM-tmpuxcp6 CLAIM-tmp0qupq CLAIM-tmp8z857 THEORY-tmp3oyxw THEORY-tmphhvqf NOTE-tmp43vkx NOTE-tmpcqwez — Proposed or new; the accounts this reading bears on, named in prose, nothing here rests on them -->
+
+# NOTE-tmp8ra24: Sato & Crutchfield — Coupled replicator equations for the dynamics of learning in multiagent systems
+
+## What the paper does
+
+**The agents** (p. 1). Two agents X and Y, N actions each. X keeps a memory
+Q_i^X of each action's past benefit, updated by Q_i(n + 1) − Q_i(n) =
+R_ij − α_X Q_i(n), with α_X ∈ [0, 1) the memory decay rate (Eq. 1). It
+chooses by softmax, x_i ∝ exp(β_X Q_i) (Eq. 2), with β_X the "learning
+sensitivity".
+
+**The limit** (p. 2). Many plays per choice update, so x and y are
+constant during play and R_i^X is action i's reward averaged over Y's play.
+Then ẋ_i = β_X x_i(Q̇_i − Σ_j Q̇_j x_j) and Q̇_i = R_i − α_X Q_i, which
+combine to
+
+ẋ_i/x_i = β_X[R_i^X − Σ_j x_j R_j^X] + α_X I_i^X, with
+I_i^X = Σ_j x_j log(x_j/x_i) (Eq. 6).
+
+I re-derived it. From the softmax, β_X(Q_i − Q_j) = log(x_i/x_j), so
+the decay part of β_X(Q̇_i − Σ_j x_j Q̇_j) is −α_X β_X(Q_i − Σ_j x_j Q_j) =
+α_X Σ_j x_j log(x_j/x_i). The β_X cancels, and the sign of Eq. 6 is
+right. The three-agent extension, Eq. 14, prints the term with a
+minus sign, which is inconsistent with Eq. 6. I take it for a typo in v2,
+not checked against the journal. I_i is positive for actions played less
+than average in the log sense and negative for actions played more, so the
+term pulls towards uniform play. Two features of the setup matter for
+reading it as Q-learning. Every action's memory is updated each step with
+its average reward, whether or not it was chosen; and there is no
+bootstrapping and no state.
+
+**Linear rewards** (p. 2). With R_ij^X = a_ij, R_ij^Y = b_ij and
+independent play, ẋ_i/x_i = β_X[(Ay)_i − x·Ay] + α_X I_i^X and likewise
+for y (Eq. 8). In log-ratio coordinates u_i = log(x_{i+1}/x_1) the phase
+volume contracts at rate γ = −(N − 1)(α_X + α_Y) (Eq. 10). So with α = 0 the
+system is conservative, and "the time average of a trajectory is the Nash
+equilibrium of the game specified by A and B, if a limit set exists in the
+interior" (p. 2); if the game is zero-sum it is Hamiltonian (Eq. 11). With
+α = 0 and β_X = β_Y it is the multipopulation replicator equation (Eq. 13).
+
+The authors' reading: "In contrast with game theory, which assumes agents
+have exact knowledge of the game structure and of other agent’s
+strategies, reinforcement-learning agents have no knowledge of a “game” in
+which they are playing, only a myopic model of the environment" (p. 2).
+The game is a description of the collective, not of either agent.
+
+**Rock–scissors–paper** (pp. 2–3). Payoffs ±1 off the diagonal and tie
+rewards ε_X, ε_Y ∈ [−1, 1]; the game is zero-sum when ε_X = −ε_Y.
+- Without decay and zero-sum: at ε = 0 only quasiperiodic tori; for
+  ε_X = −ε_Y > 0, Hamiltonian chaos with paired positive and negative
+  Lyapunov exponents, infinitely many behaviours near the unstable mixed
+  equilibrium (Fig. 1, 23 initial conditions on one energy surface).
+- Without decay and not zero-sum: transients to heteroclinic cycles,
+  intermittent when ε_X + ε_Y < 0 and chaotic when it is positive.
+- With decay (α = 0.01, ε_X = 0.5): limit cycles and chaotic attractors
+  (Fig. 2), a bifurcation diagram over ε_Y, and the largest Lyapunov
+  exponent "positive across a significant fraction of parameter space;
+  indicating that chaos is common" (p. 3). Near zero-sum the agents can
+  reach the stable Nash equilibrium.
+
+**Extensions** (p. 3–4). A three-agent linear version (Eq. 14),
+conservative when the α's vanish; the general nonlinear case for many
+agents is "challenging and so will be reported elsewhere". Proposed next:
+finite and fluctuating numbers of agents, and information-theoretic
+analysis of what each agent stores versus the collective.
+
+## What it establishes and what it does not
+
+It establishes a derivation, under two idealizations: learning much slower
+than play, so rewards are averages; and every action's memory updated at
+the same rate. Under them, softmax learners with forgetting follow coupled
+replicator equations with an entropy term, and the structural facts
+(conservative at α = 0, Hamiltonian if zero-sum, dissipation rate) follow
+exactly. The rock–scissors–paper results are numerical, for one game, with
+the parameters shown, and two agents. It does not derive the dynamics of
+Q-learning as usually run, in which only the chosen action's estimate is
+updated; that difference is the subject of Kaisers and Tuyls (NOTE-tmp43vkx).
+It does not show that chaos is common in multi-agent systems generally;
+that is the authors' expectation, stated as one.
+
+## How it bears on the record
+
+- **The replicator reading of authority (CLAIM-tmp1xoac, CASE-tmpw4r7u).**
+  The coupled case the record's reduction says breaks the Maynard–Taylor
+  equivalence is derived here for learners. Two processes each adapting to
+  the other's current share is two coupled replicator equations, and
+  coupled replicator equations can be Hamiltonian or chaotic where the
+  one-population dynamic would settle. It supports the reduction and
+  narrows what it can promise: rest points and thresholds need not exist as
+  attractors once the scores depend on another adaptive party.
+- **Cycles (CLAIM-tmpuxcp6, THEORY-894).** A demonstrated source of cycling
+  in which no regime switches and no agent's preferences are unstable.
+  Rock–scissors–paper with zero tie rewards is a harmonic game in
+  Candogan's sense, and without decay its orbits are closed around the
+  equilibrium, never converging; with zero-sum tie rewards they can be
+  chaotic. That supports the claim's distinction between
+  organizational nonintegrability and switching. The authors' remark that
+  agents "may behave cooperatively or competitively (or switch between
+  both)" (p. 3) under one fixed rule is a warning for the claim's own
+  diagnostics: apparent regime switching can be deterministic chaos.
+- **Forgetting as exploration (CLAIM-tmp0qupq, CLAIM-tmp8z857).** The claim's
+  schematic Hebbian rule has a forgetting term −λE. Here, forgetting in a
+  softmax learner is exactly a force towards equal shares, and it is what
+  makes the dynamics dissipative and removes the boundary as an attractor.
+  The rate of forgetting sets how strongly the system re-explores what it
+  has stopped choosing. For the protective lock-in claims that gives a
+  sharp version of their correction condition: a regime cannot be absorbing
+  when memories of its alternatives decay towards indifference rather than
+  towards zero choice probability. Compare Börgers and Sarin's learner, which
+  has no such term and is absorbed (THEORY-tmphhvqf).
+- **The hive mind (THEORY-tmp3oyxw).** The same move at the next level up:
+  Soma et al. make a population one learner, and Sato and Crutchfield make
+  two learners one coupled dynamical system with "no knowledge of a
+  “game”". Neither is a further agent by any criterion beyond the formal
+  identity.

@@ -1,0 +1,103 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-24 (NOTE-tmp43vkx) from the AAMAS 2010 proceedings PDF
+  on the IFAAMAS site; read in place of Tuyls, Verbeeck & Lenaerts 2003
+  (LIT-tmp0imkw), whose model it restates and corrects. Worth reading as the
+  correction to "Q-learning is replicator dynamics plus mutation": the
+  selection–mutation equation describes Q-learning with Boltzmann
+  exploration only if every action's estimate is updated at the same rate.
+  In Q-learning the chosen action is updated more often, so the expected
+  change of Q_i carries a factor x_i, and the learning traces depart from
+  the model, depending on how the Q-values are initialized. Frequency
+  Adjusted Q-learning divides the step by x_i and matches the model.
+  Evidence is three 2×2 games, plotted, with no quantitative measure of fit.
+title: 'Frequency adjusted multi-agent Q-learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Filed and read 2026-10-24, as the closest lawfully available paper by
+    Tuyls et al. on Q-learning as replicator dynamics with an exploration
+    term, after the 2003 AAMAS paper (LIT-tmp0imkw) could not be reached.
+    Read in full from the proceedings PDF on the IFAAMAS site
+    (ifaamas.csc.liv.ac.uk/Proceedings/aamas2010/pdf/01 Full
+    Papers/06_01_FP_0040.pdf), 7 pp. plus references, "Copyright 2010,
+    International Foundation for Autonomous Agents and Multiagent Systems",
+    freely provided by the publisher; extracted by pdftotext. Details:
+    Michael Kaisers and Karl Tuyls, Proc. of 9th Int. Conf. on Autonomous
+    Agents and Multiagent Systems (AAMAS 2010), van der Hoek, Kaminka,
+    Lespérance, Luck and Sen (eds.), 10–14 May 2010, Toronto, pp. 309–315
+    as the paper's own citation line gives them. Crossref
+    (doi:10.65109/vlue9705) gives pp. 309–316 and names the container as
+    the third AAMAS proceedings, which is wrong for 2010; the paper's own
+    line is used. `published:` is the conference's first day, Crossref's
+    date. A grep of record/literature.d for "Kaisers", "Tuyls" and the
+    title found nothing.
+tags:
+- game-theory
+- learning-theory
+- anthology-candidate
+date: '2026-10-24'
+published: '2010-05-10'
+doi: '10.65109/vlue9705'
+url: 'https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2010/pdf/01%20Full%20Papers/06_01_FP_0040.pdf'
+first_author: 'Kaisers'
+keywords:
+- 'multi-agent learning'
+- 'evolutionary game theory'
+- 'replicator dynamics'
+- 'Q-learning'
+- 'Boltzmann exploration'
+- 'FAQ-learning'
+implementations: []
+summary: >-
+  Kaisers & Tuyls (AAMAS 2010). The replicator-plus-entropy model of
+  Boltzmann Q-learning derived by Tuyls et al. (2003, 2005),
+  ẋ_i = x_i α(τ⁻¹[(Ay)_i − x·Ay] − log x_i + Σ_k x_k log x_k), assumes that
+  every Q-value changes at rate α. In Q-learning only the chosen action's
+  value is updated, so E[Q̇_i] carries a factor x_i, and trajectories in the
+  prisoners' dilemma, battle of the sexes and matching pennies deviate from
+  the model, depending on initialization. Frequency Adjusted Q-learning
+  scales each update by min(β/x_i, 1) and follows the model wherever
+  x_i ≥ β.
+---
+<!-- inactive-ok-file: NOTE-tmp43vkx THEORY-tmpar5jw LIT-tmp0imkw — filed from or with this reading, named -->
+
+# LIT-tmpgfdwc: Frequency adjusted multi-agent Q-learning
+
+Kaisers, M. & Tuyls, K. (2010). Frequency adjusted multi-agent Q-learning.
+In *Proceedings of the 9th International Conference on Autonomous Agents
+and Multiagent Systems (AAMAS 2010)*, 309–315. IFAAMAS.
+doi:10.65109/vlue9705.
+
+## Key takeaways
+
+*From the reading, NOTE-tmp43vkx. Page numbers are the proceedings'.*
+
+- **The model restated.** Tuyls et al.'s dynamics for two-player stateless
+  Boltzmann Q-learning are a replicator (selection) part plus a mutation
+  part, −log x_i + Σ_k x_k log x_k (Eq. 2, p. 311).
+- **The model is not Q-learning's.** The derivation assumes
+  Q̇_i = α(E[r_i] + γ max_j Q_j − Q_i) for every action. Q-learning updates
+  only the action taken, so E[Q̇_i] is x_i times that. "In essence,
+  Q-learning fails to comply with its prediction because actions are
+  updated at different frequencies" (p. 310).
+- **What goes wrong.** Over-estimated values of a frequently chosen
+  dominant action are corrected faster, so Q-learning can move away from
+  a dominant action, and its path depends on the initial Q-values, which a
+  policy-space model cannot represent (pp. 312–313).
+- **The fix.** FAQ-learning scales each update by min(β/x_i, 1). In the
+  small-α limit it is the model wherever x_i ≥ β (THEORY-tmpar5jw).
+
+## Why this is here
+
+Filed 2026-10-24, when the owner asked how the record stands on multi-agent
+reinforcement learning, in place of LIT-tmp0imkw. It corrects the
+description "Q-learning is replicator dynamics plus an exploration term":
+that equation is exact for learners that update every option's estimate at
+the same rate, as Sato and Crutchfield's learners do (LIT-tmpxlow9). It
+carries `anthology-candidate` because FAQ-learning is an algorithm. It is
+filed for what it shows about learning dynamics, not as an instruction for
+practice.

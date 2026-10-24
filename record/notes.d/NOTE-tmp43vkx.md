@@ -1,0 +1,126 @@
+---
+status: Read
+paper: 'LIT-tmpgfdwc'
+title: 'Kaisers & Tuyls — Frequency adjusted multi-agent Q-learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Read in full on 2026-10-24 from the AAMAS 2010 proceedings PDF on the
+    IFAAMAS site (pp. 309–315 plus references), extracted by pdftotext:
+    abstract, sections 1–5 and the captions of Figures 1–4. The trajectory
+    plots were read from captions and text, not inspected. The reference
+    list was skimmed. Read in place of Tuyls, Verbeeck & Lenaerts 2003
+    (LIT-tmp0imkw), which could not be reached. Every quotation was checked
+    against the extracted text by script.
+date: '2026-10-24'
+summary: >-
+  A short algorithmic paper with plotted experiments. The
+  selection–mutation model of Boltzmann Q-learning (Tuyls et al. 2003,
+  2005) assumes every Q-value changes at rate α; in Q-learning only the
+  chosen action's does, so its expected change carries a factor x_i, and
+  Q-learning departs from the model depending on initialization. A
+  frequency-adjusted update removes the factor and matches the model.
+  Three 2×2 games, one temperature, no quantitative measure of fit.
+---
+<!-- inactive-ok-file: THEORY-tmpar5jw LIT-tmp0imkw — Proposed or Unavailable; filed with this reading, named -->
+<!-- inactive-ok-file: THEORY-tmp3wkwk THEORY-tmphhvqf CLAIM-tmp0qupq CLAIM-tmp8z857 CLAIM-tmp28sti CLAIM-tmp1xoac — Proposed or new; the accounts this reading bears on, named in prose, nothing here rests on them -->
+
+# NOTE-tmp43vkx: Kaisers & Tuyls — Frequency adjusted multi-agent Q-learning
+
+## What the paper does
+
+**The model under test** (pp. 310–311). Stateless Q-learning in two-player
+matrix games, with Boltzmann selection x_i ∝ exp(Q_i/τ) at a fixed
+temperature τ. Tuyls, Verbeeck and Lenaerts (2003) extended Börgers and
+Sarin's Cross-learning result to it and obtained
+
+ẋ_i = x_i α(τ⁻¹[e_i A y − xAy] − log x_i + Σ_k x_k log x_k),
+
+and likewise for y (Eq. 2): "a selection part equal to replicator
+dynamics, and a mutation part" (p. 311). The mutation part is
+Σ_k x_k log(x_k/x_i), the same term Sato and Crutchfield obtain from memory
+decay (NOTE-tmp8ra24).
+
+**The discrepancy** (p. 312). The Q-learning update changes only the
+chosen action's value, so
+
+E[ΔQ_i] = x_i α(E[r_i] + γ max_j Q_j − Q_i),
+
+while the derivation of Eq. 2 in Tuyls, 't Hoen and Vanschoenwinkel
+(2005) starts from Q̇_i = α(E[r_i] + γ max_j Q_j − Q_i). the two differ, in the
+authors' words, "by a factor of" x_i. I checked the authors' account. With every
+action updated at rate α, the softmax gives ẋ_i/x_i = τ⁻¹(Q̇_i − x·Q̇); the
+γ max Q term is common to all actions and cancels, and −α(Q_i − x·Q)/τ is
+−α(log x_i − x·log x), which is Eq. 2. With the factor x_i, neither step
+goes through: the γ term no longer cancels, and the dynamics depend on the
+Q-values, not only on x. That is why "the actual dynamics of Q-learning are
+not independent of the Q-values and can therefore not be sufficiently
+described in the policy space" (p. 312).
+
+**Why it matters, on the authors' account** (p. 312). Over-estimated
+values of a frequently chosen dominant action lose their over-estimation
+faster, so Q-learning can move away from the dominant action for a while.
+The model "predicts more rational policy trajectories than Q-learning
+actually exhibits" (p. 312).
+
+**FAQ-learning** (pp. 312–313). Divide the step by x_i, so the expected
+change is the model's. That is valid only as α → 0, since α/x_i could exceed
+1. The usable version scales by min(β/x_i, 1): for x_i ≥ β it is idealized
+FAQ-learning at rate αβ, and below β it is ordinary Q-learning. Choosing β
+small makes the learner follow the model over as much of the policy space as
+wanted, at the cost of more iterations.
+
+**Experiments** (pp. 313–314). Prisoners' dilemma, battle of the sexes and
+matching pennies; γ = 0.9, τ = 0.1; α = 10⁻⁶ for Q-learning and
+α = β = 10⁻³ for FAQ; Q-values initialized at the minimum, mean or maximum
+of the reward range; 200,000 or 500,000 iterations. Q-learning's traces
+vary with initialization and depart from the model's arrows, most in the
+prisoners' dilemma; FAQ's follow them, with more noise at higher
+initializations. The comparison is visual.
+
+## What it establishes and what it does not
+
+It establishes that the replicator-plus-mutation equation is the
+continuous-time model of a learner that updates every action's estimate at
+the same rate, and not of Q-learning as usually run. The derivation of the
+discrepancy is short and correct. The experiments show the departure and
+the fix in three 2×2 games with one temperature, by plots, with no measure
+of fit and no multi-state task. The paper does not say that the mutation
+term removes absorbing states. That is a reading of the equation: as x_i →
+0 the term x_i(−log x_i + …) is positive and dominates x_i times the
+bounded selection term, so the boundary repels and rest points are
+interior. Boltzmann selection never puts zero probability on an action
+anyway.
+
+## How it bears on the record
+
+- **The description it was filed under.** "Q-learning gives replicator plus an
+  entropy or mutation term that removes absorbing states" needs two
+  corrections. The equation is exact for frequency-adjusted learners, or for
+  learners that update every option, like Sato and Crutchfield's; plain
+  Q-learning only approximates it, depending on its initial values. And
+  the term is what forgetting becomes under softmax choice (THEORY-tmp3wkwk),
+  so where it enters, the boundary is repelling rather than absent.
+- **Lock-in (CLAIM-tmp0qupq, CLAIM-tmp8z857, CLAIM-tmp28sti).** The paper's
+  anomaly is close to the protective-regime mechanism and sharper. A
+  rarely chosen option's estimate is rarely updated, so a wrong estimate of
+  it persists for as long as it is not chosen. That is the identifiability
+  trap of CLAIM-tmp8z857 in its simplest form, the evidence about an option
+  arriving at the rate the policy samples it. The paper's fix, weighting
+  each update by the inverse of how often the option is sampled, is
+  importance weighting. Read for the claims, it is a correction condition:
+  a regime is not self-protecting if evidence about its alternatives is
+  weighted by how rarely they are tried. It supports the claims' mechanism
+  and gives it an exact form for a learner.
+- **Legibility (CASE-124, CASE-tmpydmf8).** Frequency of update is a
+  legibility filter in the record's sense: what the organization does
+  often is what it learns about. FAQ-learning is the case in which the
+  filter is corrected for.
+- **Authority as a replicator population (CLAIM-tmp1xoac, CASE-tmpw4r7u).**
+  The reduction holds for authority whose scores are updated for every
+  process at once. Where only the governing process's score is updated, the
+  dynamic depends on the scores themselves and is not a replicator dynamic
+  on π alone. That narrows the claim: the record's separate state for scores
+  is needed exactly there.
