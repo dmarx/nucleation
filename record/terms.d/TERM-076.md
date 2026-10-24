@@ -27,6 +27,8 @@ summary: >-
   nothing about whether the regime is felt.
 used_by:
 - CLAIM-440
+- CLAIM-tmp0eikz
+- CLAIM-tmp0jfuz
 ---
 <!-- inactive-ok-file: LIT-1462 THEORY-896 — Unavailable or Proposed; Monderer and Shapley, read second-hand, and its reading -->
 <!-- inactive-ok-file: LIT-1437 — Unavailable, abstract only; Fontaine et al. 2007, cited for the dimension it names -->
