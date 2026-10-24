@@ -29,6 +29,7 @@ uses:
 complements:
 - CLAIM-027
 - CLAIM-432
+- CLAIM-tmp9ry8f
 summary: >-
   A4 §2, reading Frijda through the record: "control precedence also
   suggests a useful addition to our parameterization", a priority p_i
@@ -40,6 +41,7 @@ summary: >-
 supports:
 - CLAIM-368
 - CLAIM-440
+- CLAIM-tmp8z857
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-056 CLAIM-027 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -85,3 +87,21 @@ pursue a goal that remains consequential to the organization." The
 frustration account rests on this claim ([CLAIM-368](CLAIM-368.md)): a demand that
 is not jointly realizable is a precedence claimed and not granted. Whether
 grants follow the demands that bind is [QUESTION-126](../questions.d/QUESTION-126.md).
+
+## Note of 2026-10-23: two documented cases, and a split
+
+From an audit of the will and affect neighbourhoods (workbench entry of
+2026-10-24, U5). [CASE-151](../cases.d/CASE-151.md) (Wells Fargo's risk and HR functions holding
+relevant information without the power to change sales practices) and
+[CASE-127](../cases.d/CASE-127.md) (United 173, a fuel concern that did not become effective in the
+captain's decisions) illustrate the access–authority half of this claim:
+recognizing significance and granting practical authority are separable,
+and the path from one to the other runs through governance. They do not
+show that any motive claimed precedence; that would need evidence of how
+the actors evaluated the situation. [THEORY-603](../theory.d/THEORY-603.md) (Iowa gambling: patients
+who could state the advantageous strategy and did not adopt it) is a third
+instance, for [CLAIM-047](CLAIM-047.md) as much as here; [THEORY-500](../theory.d/THEORY-500.md)'s wider somatic-marker
+mechanism stays Proposed. The audit suggested splitting this claim, the
+analytical separation of claimed precedence from granted authority apart
+from the identification of internal conflict with the gap, and auditing
+the first for promotion under [ADR-047](../decisions.d/ADR-047.md). Not done here.

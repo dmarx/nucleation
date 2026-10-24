@@ -32,6 +32,7 @@ complements:
 - CLAIM-281
 - CLAIM-330
 - CLAIM-357
+- CLAIM-tmp8z857
 summary: >-
   A22's narrow claim and A23 VIII.E's central hypothesis, from the owner's U22:
   connect retrieval-mediated anchoring to the record's distributed agent as dual

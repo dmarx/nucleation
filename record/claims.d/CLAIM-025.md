@@ -47,6 +47,8 @@ illustrated_by:
 - CASE-112
 summary: >-
   Section 6.2, from the emergency variant of Northstar.
+complements:
+- CLAIM-tmp28sti
 ---
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->

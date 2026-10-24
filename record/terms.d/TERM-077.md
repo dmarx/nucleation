@@ -4,7 +4,18 @@ status: Active
 formerly:
 - TERM-tmpu0tg2
 title: 'ordinal potential: of a negotiation over a finite set of options in a window of time, an ordering of the options that every move winning one of its conflicts climbs; it exists exactly when the wins never cycle, which is ordinal extendibility, that some complete ordering agrees with every win, and not observed comparability, since pairs never contested are not compared; and it is fixed only up to a class: every strictly increasing transform of one is one, and on a sparse record several orderings can be'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Revised for the third review of PR #327 (2026-10-23), not applied
+    before merge: the four senses of currency are not a chain of
+    implications. The second concerns what the record observed, and the
+    third and fourth what structure a representation has. A complete scalar
+    utility can exist with many pairs never observed. They are now stated
+    as an evidential pair and a representational pair. The definition is
+    unchanged.
 tags:
 - mathematics
 - game-theory
@@ -22,6 +33,8 @@ refined_by:
 used_by:
 - CLAIM-434
 - CLAIM-440
+- CLAIM-tmpd6q2w
+- CLAIM-tmpuxcp6
 ---
 <!-- inactive-ok-file: TERM-078 TERM-076 THEORY-896 CLAIM-436 — Proposed; the terms built on this one, the second-hand reading of Monderer and Shapley, and the currency result it is distinguished from, cited as open -->
 
@@ -53,8 +66,13 @@ X (or any function P : X → ℝ) with y ≻ x whenever x → y.
   needs an intervention contesting the pairs that separate it from the
   others.
 
-The term names the first of four ordered senses that "common currency"
-ran together:
+The term names the first of four senses that "common currency" ran
+together. They are not one chain of implications. The first two are
+evidential, about what the record establishes, and the second implies
+the first. The last two are representational, about what structure a
+representation has, and the fourth implies the third. The pairs do not
+imply across: a complete scalar utility can exist with many pairs never
+observed, so the third does not give the second.
 
 1. **ordinal extendibility**: the negotiation has an ordinal potential,
    so some complete ordering agrees with every win (on a finite set, an

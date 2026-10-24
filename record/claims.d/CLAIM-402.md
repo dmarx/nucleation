@@ -51,6 +51,7 @@ summary: >-
   [QUESTION-028](../questions.d/QUESTION-028.md) stays Open.
 complements:
 - CLAIM-416
+- CLAIM-tmp28sti
 illustrated_by:
 - CASE-141
 ---
@@ -143,3 +144,19 @@ use, or the use must be modelled.
   read on 2026-10-21; the first is a theorem about learning, and the second
   an interview study of law schools whose quantitative links are cited, not
   shown. Neither is a test of a category's kindhood.
+
+## Note of 2026-10-24: two endogenous feedbacks in one derivative
+
+From the exchange of 2026-10-24 (workbench entry of 2026-10-24, U22). Let a
+deployed policy u_θ generate raw outcomes Y ∼ D_{u_θ}, read through a
+legibility regime Z ∼ K_{r(θ)}(· | Y). The distribution learned from is
+D̃_θ(z) = Σ_y K_{r(θ)}(z | y) D_{u_θ}(y), and by the product rule
+dD̃_θ/dθ = Σ_y K_r(z | y) dD_{u_θ}(y)/dθ + Σ_y (dK_{r(θ)}(z | y)/dθ) D_{u_θ}(y):
+performative change of the world sampled, and endogenous change of how it
+is represented. Four nested settings follow: fixed world; legibility
+feedback only ([CASE-124](../cases.d/CASE-124.md), [CASE-tmpydmf8](../cases.d/CASE-tmpydmf8.md)); performative only ([THEORY-861](../theory.d/THEORY-861.md),
+[THEORY-839](../theory.d/THEORY-839.md)); both. The published convergence results for the third do not
+carry over when K_r is dynamic and history-dependent. The two paths need
+different interventions to separate: change the reporting regime with the
+policy fixed, or change the policy with raw outcomes observed
+independently.

@@ -38,6 +38,7 @@ complements:
 - CLAIM-355
 - CLAIM-432
 - CLAIM-433
+- CLAIM-tmpuxcp6
 grounds:
 - THEORY-055
 - LIT-1434
@@ -65,6 +66,8 @@ supports:
 - CLAIM-437
 objected_by:
 - CLAIM-438
+- CLAIM-tmpd6q2w
+- CLAIM-tmpf2p3p
 ---
 <!-- inactive-ok-file: CLAIM-437 — Proposed; the owner's relativizing claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-433 — Proposed; the reply filed with this batch, cited as open -->
@@ -294,3 +297,23 @@ is of goal-conduciveness valence, not hedonic valence.
 - **How potential is measured.** [QUESTION-268](../questions.d/QUESTION-268.md).
 - **What happens when the potential ordering ranks a proxy for
   maintenance rather than maintenance.** [QUESTION-267](../questions.d/QUESTION-267.md).
+
+## Note of 2026-10-23: cycles as a regime, and two objections
+
+The owner asked whether, "rather than asserting potentials always have to
+exist", cycles could be read as internal tension (workbench entry of
+2026-10-24, U13). This claim never said potentials must exist; the reading
+of the cyclic case is [CLAIM-tmpuxcp6](CLAIM-tmpuxcp6.md): potentials and nonintegrable cycles
+are regimes, and a cycle is not a pathology by default. It narrows
+consequence 4. Ambivalence, opposed evaluations both strong, can occur
+where one perspective consistently prevails, and a cycle need not involve
+opposed valences, so "ambivalence is no ordering" overstates the link.
+Two objections are filed: [CLAIM-tmpf2p3p](CLAIM-tmpf2p3p.md), that consequence 1 runs together
+contested rankings and infeasible demands, with the absorbed writer
+([CASE-051](../cases.d/CASE-051.md)) as its test; and [CLAIM-tmpd6q2w](CLAIM-tmpd6q2w.md) (2026-10-24), that a potential
+read off a record whose contests a legibility regime selected can be
+coherent for the wrong reason. The same exchange (U5) suggested setting
+Minsky's emotion machine ([THEORY-570](../theory.d/THEORY-570.md)), resources selected by critics and
+selectors, beside this claim as a mechanistic alternative rather than
+support: it has a more explicit mechanism for switching regimes and weaker
+evidence.

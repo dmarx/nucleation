@@ -43,6 +43,9 @@ summary: >-
   holds a lean long after m and a would have decayed without it.
 supports:
 - CLAIM-400
+- CLAIM-tmpd6q2w
+variants:
+- CASE-tmpydmf8
 ---
 
 # CASE-124: A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ
@@ -116,3 +119,36 @@ represent ([CLAIM-400](../claims.d/CLAIM-400.md)).
   bistability or the size of an advantage once it grows.
 - That the lean is wrong. r measures a lean toward one interpretation, not
   a distortion; tracking a real difference is a lean too.
+
+## Note of 2026-10-24: an observational semantics, and three neighbours
+
+The owner: "i think we already have a three variable system somewhere,
+where the third component is described as legibility" (workbench entry of
+2026-10-24, U18). The exchange made this case the core of its toy-model
+programme for protective lock-in, in place of a new two-state model
+([CASE-tmpo8uso](CASE-tmpo8uso.md)). Additions and cautions:
+
+- **A mechanism for ν.** Selective admission of evidence gives
+  ν = η_m χ σ′(c) and reads r as an exponentially weighted history of
+  authority ([CASE-tmpydmf8](CASE-tmpydmf8.md)).
+- **Two levels of legibility.** [TERM-064](../terms.d/TERM-064.md)'s legibility is a relation of a
+  representation, an observer's capacities and a task. This case's r is a
+  signed lean of a maintained regime, not a score of how much information
+  the organization has; a positive lean can help or harm. An observation
+  kernel Z ∼ K_r(· | Y), with usable information measured as best risk for
+  a bounded observer on a task fixed independently, would give r that
+  semantics ([CLAIM-199](../claims.d/CLAIM-199.md), [THEORY-846](../theory.d/THEORY-846.md)). A regime can serve one task and
+  disable another for the same observer ([CASE-tmpswmo9](CASE-tmpswmo9.md)).
+- **An organizational baseline.** March's mutual learning of code and
+  members ([THEORY-142](../theory.d/THEORY-142.md)) already shows conformity destroying the diversity
+  needed for later correction. The informative contrast is a minority that
+  stays present and accurate but is not credited because evaluation runs
+  through the prevailing regime ([CASE-144](CASE-144.md)'s note of 2026-10-24).
+- **Performative feedback.** A policy can change the world sampled as well
+  as how it is read ([CLAIM-402](../claims.d/CLAIM-402.md)'s note of 2026-10-24).
+- **An independent standard.** Adaptation is judged against fixed
+  reference demands and a feasible set ([CLAIM-357](../claims.d/CLAIM-357.md), [CLAIM-361](../claims.d/CLAIM-361.md)), so a model
+  cannot call its own persistence success.
+
+Head-to-head results belong to [QUESTION-100](../questions.d/QUESTION-100.md). A reported mean-field run is
+recorded, unchecked, in [CASE-tmpydmf8](CASE-tmpydmf8.md).

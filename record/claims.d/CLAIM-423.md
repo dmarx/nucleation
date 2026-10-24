@@ -44,6 +44,8 @@ summary: >-
   degrees of coupling". A28 stated the claim in its strongest line. It
   rests on [CLAIM-331](CLAIM-331.md), that higher-level variables are characteristically
   slower, and denies that slowness alone settles which level governs.
+complements:
+- CLAIM-tmp28sti
 ---
 <!-- inactive-ok-file: LIT-1375 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-027 CLAIM-327 CLAIM-331 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

@@ -26,6 +26,7 @@ summary: >-
   framework: a prediction a simpler model does not make.
 variants:
 - CASE-099
+- CASE-tmpo8uso
 ---
 
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

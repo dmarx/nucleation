@@ -17,6 +17,7 @@ answered_by:
 - THEORY-052
 - THEORY-053
 - THEORY-285
+- CLAIM-tmp8z857
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-099](../claims.d/CLAIM-099.md)
@@ -68,3 +69,23 @@ form must predict something the individual-scale lock-in account does not.
 
 A29 §8 offered a dynamical form for "individual data showing hysteresis",
 ż = μz − z³ + h, which [TERM-020](../terms.d/TERM-020.md)'s note sets out with its caveat.
+
+## Note of 2026-10-23: a candidate answer, governance-maintained anxiety
+
+The owner read the exchange's "a governance prior can become
+self-protecting by reducing the access of the processes most likely to
+provide evidence against it" as "a formalization of anxiety" (workbench
+entry of 2026-10-24, U14). Filed as a candidate answer: [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).
+Its distinctive part is the allocation of authority over inquiry and
+intervention, not the familiar point that avoidance maintains anxiety.
+Under the avoidance a defensive process selects, the hypotheses of danger
+and of safety predict the same outcome, so safe episodes do not
+discriminate them, and the inference from one's own precaution to danger
+lets the regime supply evidence for itself. It joins [CLAIM-297](../claims.d/CLAIM-297.md)'s note on a
+threat monitor whose interpretation raises its own authority and
+[THEORY-285](../theory.d/THEORY-285.md)'s simulation of an over-precise harmful-context prior; neither
+is patient data. The contrast this question asks for is the claim's test:
+hold the represented threat fixed and change the defensive process's
+authority or evidence access, and conversely. A proposed simulation is
+[CASE-tmpo8uso](../cases.d/CASE-tmpo8uso.md), and the cross-scale form, from emergency powers to the
+security dilemma, is [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).

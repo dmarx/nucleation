@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - TERM-tmpuilar
 title: 'persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Revised for the third review of PR #327 (2026-10-23), whose two
+    clarifications were not applied before merge: a Lyapunov function gives
+    monotonicity, not return. An absorbing lower state is a perturbation
+    from which no endogenous move descends the ordering and none climbs it.
+    Resumption is now a separate condition, read off the record or derived
+    from reachability, strict progress or recurrence. The definition is
+    otherwise unchanged.
 tags:
 - emotion-and-affect
 - game-theory
@@ -23,6 +34,8 @@ refined_by:
 - TERM-076
 used_by:
 - CLAIM-440
+- CLAIM-tmpd6q2w
+- CLAIM-tmpuxcp6
 ---
 
 # TERM-078: persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions
@@ -49,8 +62,13 @@ hold of it:
 tolerance changes what follows.
 - An **exact** persistent potential is one that no move outside a
   perturbation descends. Then ≿_v is a Lyapunov function of the
-  one-move-at-a-time dynamics, non-decreasing along them, and
-  resumption follows.
+  one-move-at-a-time dynamics, non-decreasing along them. That is
+  monotonicity, not return. If a perturbation moves the system to a
+  lower state that is absorbing, no endogenous move descends ≿_v and none
+  climbs it, and the system never resumes. Resumption stays a separate
+  mark, read off the record or derived from further assumptions:
+  reachability of higher states, strict progress away from the top, or
+  stochastic recurrence.
 - An **approximate** one fits each window only up to a reversal
   fraction, so some moves descend it. It is then no Lyapunov function.
   A recurring cycle of moves A → B → C → A has a best-fitting ordering

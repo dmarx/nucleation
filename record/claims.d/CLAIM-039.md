@@ -96,3 +96,18 @@ own appraisals track. The difficulty the note of 2026-10-12 named,
 [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a felt state, is still the
 objection to answer first; [CLAIM-432](CLAIM-432.md) names it in its defeater.
 
+## Note of 2026-10-23: contagion as a comparison condition, and Trivers
+
+From the same audit (workbench entry of 2026-10-24, U5). [THEORY-123](../theory.d/THEORY-123.md)'s
+group-mood contagion is one route to collective affective convergence,
+members synchronized without the group having an organized response of
+its own. It is a comparison condition for this claim: a group-level
+functional affect has to show what the organization's own appraisal,
+authority and coordinated readiness add. [THEORY-663](../theory.d/THEORY-663.md), Trivers on emotions
+regulating reciprocal altruism, including strategically simulated ones,
+sharpens [CLAIM-431](CLAIM-431.md)'s objection to [CLAIM-432](CLAIM-432.md)'s corporate remorse: repair and
+expressed concern can be instrumentally successful without meeting
+whatever criterion separates remorse from reputation management. The
+discriminating design holds reputation, sanctions and commercial benefit
+roughly fixed and asks whether others' harms keep independent authority
+in the organization's decisions.

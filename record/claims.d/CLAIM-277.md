@@ -37,6 +37,7 @@ complements:
 - CLAIM-282
 - CLAIM-274
 - CLAIM-327
+- CLAIM-tmp8z857
 summary: >-
   The owner's objection at U5 to A4's call to keep "persistent authority
   structures" distinct from "transient endorsement updates": "I'd expect
@@ -50,6 +51,7 @@ supports:
 - CLAIM-297
 - CLAIM-344
 - CLAIM-406
+- CLAIM-tmp0qupq
 ---
 <!-- inactive-ok-file: CLAIM-403 CLAIM-406 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early

@@ -22,6 +22,8 @@ summary: >-
   [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, by changing what is attainable, not by weakening a
   demand. The construction says such relief is possible; whether
   specialization produces it is [QUESTION-133](../questions.d/QUESTION-133.md).
+supports:
+- CLAIM-tmpf2p3p
 ---
 <!-- inactive-ok-file: CLAIM-347 CLAIM-360 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
