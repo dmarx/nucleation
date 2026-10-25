@@ -122,8 +122,8 @@ readout can decode only what is a function of the normalized kernel.
 ## Note of 2026-10-25: choosing probes
 
 From A29–A31 of the exchange of 2026-10-24, continued. Bayesian
-experimental design (Chaloner and Verdinelli 1995, LIT-tmpi60b0, read in
-NOTE-tmpj2iwk) turns this question into a choice: pick the design ξ over
+experimental design (Chaloner and Verdinelli 1995, [LIT-tmpi60b0](../literature.d/LIT-tmpi60b0.md), read in
+[NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md)) turns this question into a choice: pick the design ξ over
 contexts that maximizes a criterion of G_ξ = Σ_c ξ(c)G_c (log det, or a
 discrimination or prediction criterion fixed by the task). A29: "our
 objectives are often more specific. We might care about distinguishing the
@@ -136,10 +136,10 @@ A29, with [CLAIM-130](../claims.d/CLAIM-130.md): changing a participant's standi
 explanations "could also change which communicative act is performed".
 
 The reading places these. Σ_c ξ(c)G_c with log det is Bayes D-optimality
-on the expected Fisher information (THEORY-tmpig9py for the linear case,
-THEORY-tmpg6jfa for the nonlinear one). A29's "distinguish authority from
+on the expected Fisher information ([THEORY-tmpig9py](../theory.d/THEORY-tmpig9py.md) for the linear case,
+[THEORY-tmpg6jfa](../theory.d/THEORY-tmpg6jfa.md) for the nonlinear one). A29's "distinguish authority from
 legibility" is c- or Ds-optimality, or Spezzaferri's discrimination
-criterion (NOTE-tmpj2iwk, §8.3). The review gives no separation condition:
+criterion ([NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md), §8.3). The review gives no separation condition:
 it ranks probe families by a utility, and so it does not answer this
 question.
 
@@ -147,7 +147,7 @@ One decision family does have an answer. In a finite partial-monitoring
 game, two outcome laws that agree on the signals of every probe in a set D
 also agree on the comparison of actions i and j for every such pair iff
 ℓ_i − ℓ_j lies in the span of those probes' signal row spaces
-(THEORY-tmpwtj3m, from Bartók et al.). That condition can be checked
+([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md), from Bartók et al.). That condition can be checked
 before any data. It covers pairwise comparisons only, with deterministic
 or known-law signals, so the question stays Open. The question is
 unchanged.

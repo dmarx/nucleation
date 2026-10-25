@@ -90,12 +90,12 @@ and the model is regular in π. It says nothing about the third.
 
 Choosing a design ξ over contexts to maximize a criterion of
 G_ξ = Σ_c ξ(c)G_c is a *nonlinear* design problem in Chaloner and
-Verdinelli's sense (NOTE-tmpj2iwk), because the information depends on π.
+Verdinelli's sense ([NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md)), because the information depends on π.
 An optimal design has to be stated at a guess of π or averaged over a prior
-on it, and local optimality is the point-mass case (THEORY-tmpg6jfa).
+on it, and local optimality is the point-mass case ([THEORY-tmpg6jfa](../theory.d/THEORY-tmpg6jfa.md)).
 Adaptive probing, which updates the guess between probes, should gain over
 a fixed design there, as it does not in the normal linear model
-(THEORY-tmpig9py). In the two-specialist case above the answer does not
+([THEORY-tmpig9py](../theory.d/THEORY-tmpig9py.md)). In the two-specialist case above the answer does not
 depend on π: the routine context carries no information, so every
 criterion that increases with information puts all mass on the rare one.
 
@@ -129,7 +129,7 @@ geometry in which evidence about it arrives.
 - That choosing probes well removes the problem. Probes on which the
   processes disagree must also be accessible to the evaluator, which is
   [QUESTION-271](../questions.d/QUESTION-271.md)'s failure of bandit feedback. An inaccessible probe is an
-  action outside the set D of THEORY-tmpwtj3m, and what the remaining
+  action outside the set D of [THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md), and what the remaining
   probes cannot see stays unlearnable however long they are used.
 - That two processes that agree under the probes are the same
   communicative kind, or differ as one ([CLAIM-150](../claims.d/CLAIM-150.md)).
