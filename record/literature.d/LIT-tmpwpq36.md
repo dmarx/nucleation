@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-25 ([NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md)) in full, from the authors' preprint of March 2013 on Alexander Rakhlin's MIT page; worth reading for the complete classification of finite partial-monitoring games by minimax regret (0, Θ̃(√T), Θ(T^2/3), Θ(T); [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md)), for the linear-algebra conditions, global and local observability, that decide the class ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)), and for the algorithms CBP and NeighborhoodWatch. Read it knowing that the adversarial classification covers non-degenerate games only, that Lattimore and Szepesvári (2019) later completed it and corrected errors in the earlier analyses, that the classification concerns the best policy in a fixed, known game, and that the copy read is the preprint, not the journal text.
+  read 2026-10-25 ([NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md)) in full, from the authors' preprint of March 2013 on Alexander Rakhlin's MIT page; worth reading for the complete classification of finite partial-monitoring games by minimax regret (0, Θ̃(√T), Θ(T^2/3), Θ(T); [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md)), for the linear-algebra conditions, global and local observability, that decide the class ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)), and for the algorithms CBP and NeighborhoodWatch. Read it knowing that the adversarial classification covers non-degenerate games only, that Lattimore and Szepesvári (2019, LIT-tmpfjv79) completed it to degenerate games, corrected the kernel in its T^2/3 lower-bound proof, and, in their preprint, an exchanged expectation and maximum in NeighborhoodWatch's localisation (THEORY-tmpyulw1, THEORY-tmpwqg2f), that the classification concerns the best policy in a fixed, known game, and that the copy read is the preprint, not the journal text.
 title: 'Partial Monitoring—Classification, Regret Bounds, and Algorithms'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-25'
@@ -27,6 +27,16 @@ history:
   date: '2026-10-25'
   note: >-
     Read in full (NOTE-tmpupizd), from the authors' preprint dated March 27, 2013, on Alexander Rakhlin's MIT page; the appendix proofs were read at the level of their statements and main steps. Status Deferred → Active. The open-copy URL is added. The summary is checked against the reading and narrowed: the adversarial classification holds for non-degenerate games only. THEORY-tmpwtj3m (Active, re-derived) and THEORY-tmpz3a05 (Proposed) are filed from it.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    From the reading of Lattimore and Szepesvári (LIT-tmpfjv79, NOTE-
+    tmpkgxba). The status note says what that paper completes and corrects
+    here: the adversarial classification extended to degenerate games, the
+    kernel step of Theorem 4's proof, and, in the preprint only, the
+    exchanged expectation and maximum in NeighborhoodWatch's localisation
+    (THEORY-tmpyulw1, THEORY-tmpwqg2f). The summary and status are
+    unchanged.
 tags:
 - learning-theory
 - game-theory

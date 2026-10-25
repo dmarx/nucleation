@@ -9,7 +9,7 @@ promote_when: >-
   proofs, such as Lattimore and Szepesvári's corrected adversarial
   analysis. A citation of the classification by others does not count.
 title: 'The minimax regret of a finite partial-monitoring game takes one of four rates, decided by its loss and signal matrices: 0 when only one action is non-dominated, Θ̃(√T) when every pair of neighbouring actions is locally observable, Θ(T^2/3) when the game is globally but not locally observable, and Θ(T) when it is not globally observable; against stochastic opponents for every game, against oblivious adversaries for non-degenerate games'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -20,6 +20,17 @@ history:
     upper bounds' analyses were read at the level of statements and main
     steps, and the adversarial one was later corrected by Lattimore and
     Szepesvári, which was not read. Hence Proposed.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Lattimore and Szepesvári are now read (LIT-tmpfjv79, NOTE-tmpkgxba), and
+    cited in place of the arXiv number. A dated note records that the
+    promote_when is met by its second disjunct, but that two clauses are
+    mis-stated: the trivial class is "no pair of neighbouring actions", and
+    the lower bound's v must lie in the kernel of every signal matrix in
+    N_ab (THEORY-tmpwqg2f). The reading proposes that this entry be
+    Superseded by THEORY-tmpyulw1 rather than promoted, which is the owner's
+    decision under ADR-047. The status is unchanged.
 tags:
 - learning-theory
 - game-theory
@@ -84,7 +95,7 @@ open part.
   some action has whatever regret that restriction costs, linear in T if
   the action is sometimes optimal, whatever the game's class.
 - **Not about degenerate games against adversaries.** The paper leaves them
-  open. Lattimore and Szepesvári (arXiv:1805.09247, not held) "complete the
+  open. Lattimore and Szepesvári (LIT-tmpfjv79, read in NOTE-tmpkgxba) "complete the
   classification of finite adversarial partial monitoring to include all
   games" and "correct errors in previous analyses", by their abstract.
 - **Not about constants or finite T.** The constants depend on the game and
@@ -106,3 +117,31 @@ open part.
   average-payoff forms of √T and T^{2/3}.
 - **[QUESTION-271](../questions.d/QUESTION-271.md).** The classification says when feedback that depends on
   the action played costs more than full information, and by how much.
+
+## Note of 2026-10-25: the reading of Lattimore and Szepesvári
+
+Lattimore and Szepesvári, "Cleaning up the neighborhood" (LIT-tmpfjv79),
+is now read (NOTE-tmpkgxba). This entry's promote_when is met by its
+second disjunct: the paper restates the classification and proves the two
+pieces that were open or flawed, the √n upper bound for all locally
+observable games (NeighborhoodWatch2) and the corrected T^{2/3} lower
+bound, and cites the rest as Bartók et al. did. Its first disjunct is met
+in substance too, by the re-derivation recorded in THEORY-tmpyulw1.
+
+Two clauses here are mis-stated, so the reading proposes that this entry
+be Superseded by THEORY-tmpyulw1 rather than promoted:
+
+- **The trivial class.** It is "no pair of neighbouring actions", not
+  "only one action is non-dominated". The latter misplaces games with
+  degenerate or duplicate actions: L = ((0, 0), (0, 1)), or two duplicate
+  actions, have two non-dominated actions, no neighbours and regret 0, yet
+  the wording puts them in the easy class.
+- **The lower bound's kernel.** The vector v must lie in the kernel of
+  every signal matrix in N_ab, not only of the two neighbours' signal
+  matrices, as "with v in the kernel of both signal matrices" above has it
+  (THEORY-tmpwqg2f). The theorem stands; the slip is harmless for
+  non-degenerate games, where N_ab = {a, b}.
+
+Its adversarial scope, non-degenerate games only, is also narrower than is
+now known. Whether to supersede or to correct in place and promote is the
+owner's decision under ADR-047. The status is unchanged.

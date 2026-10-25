@@ -2,7 +2,7 @@
 status: Read
 paper: LIT-tmpwpq36
 title: 'Bartók, Foster, Pál, Rakhlin and Szepesvári — Partial monitoring: classification, regret bounds and algorithms'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -25,6 +25,14 @@ history:
     THEORY-tmpwtj3m. The classification itself is THEORY-tmpz3a05. The
     abstract of Lattimore and Szepesvári (arXiv:1805.09247, not held) was
     read for what it says about this paper.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Lattimore and Szepesvári are now held and read (LIT-tmpfjv79, NOTE-
+    tmpkgxba). The Theorem 4 bullet notes the kernel slip they correct
+    (THEORY-tmpwqg2f), and Claims C2, Connections and Limitations cite the
+    reading in place of the arXiv number and "not read here". The reading
+    itself is unchanged.
 date: '2026-10-25'
 summary: >-
   For finite partial-monitoring games the minimax regret takes exactly
@@ -109,7 +117,9 @@ that are bad near that boundary, the learner pays for it at rate T^{2/3}.
 - **Theorem 4 (lower bound).** If some pair of neighbours is not locally
   observable, there is c(G) > 0 such that every algorithm suffers
   E[R_T] ≥ c(G)T^{2/3} against some opponent strategy. The proof takes v
-  in Ker S_1 ∩ Ker S_2 with (ℓ_2 − ℓ_1)ᵀv = 1, sets p_{1,2} = p_0 ± εv
+  in Ker S_1 ∩ Ker S_2 (the minor error Lattimore and Szepesvári
+  correct: v must be in the kernel of every S_k, k ∈ N⁺_{1,2};
+  [THEORY-tmpwqg2f](../theory.d/THEORY-tmpwqg2f.md)) with (ℓ_2 − ℓ_1)ᵀv = 1, sets p_{1,2} = p_0 ± εv
   about a point of the shared boundary, and chooses ε = c₃T^{−1/3}. Only
   actions outside the neighbourhood set can tell p₁ from p₂, and each
   such play costs at least β.
@@ -146,7 +156,7 @@ that are bad near that boundary, the learner pays for it at rate T^{2/3}.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | The minimax regret of every finite partial-monitoring game against stochastic opponents is 0, Θ̃(√T), Θ(T^{2/3}) or Θ(T), decided by K, local and global observability | strong | Theorem 1, from Theorem 4, Corollaries 2–3 and cited lower bounds (Piccolboni–Schindelhauer, Antos et al.) |
-| C2 | The same holds against adversarial opponents for non-degenerate games | strong as stated; the adversarial analysis was later corrected | Theorem 2 via NeighborhoodWatch, Corollary 5. Lattimore and Szepesvári (2019) "correct errors in previous analyses" and extend the classification to all games |
+| C2 | The same holds against adversarial opponents for non-degenerate games | strong as stated; the adversarial analysis was later corrected | Theorem 2 via NeighborhoodWatch, Corollary 5. Lattimore and Szepesvári (2019, [LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md), read in [NOTE-tmpkgxba](NOTE-tmpkgxba.md)) "correct errors in previous analyses" and extend the classification to all games |
 | C3 | A game that is not locally observable has regret Ω(T^{2/3}) | strong | Theorem 4 with proof; its first step is re-derived in [THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md) |
 | C4 | Against stochastic opponents, locally observable games have logarithmic individual regret | strong | Corollary 1 |
 | C5 | A globally observable game behaves as an easy one against opponents kept away from the unobservable boundaries, and CBP adapts without being told | strong | Theorem 5, Corollary 4 |
@@ -181,8 +191,8 @@ The two-level construction of NeighborhoodWatch follows Foster and Vohra
 regret through a stationary distribution. §6.3 points to Rustichini
 (1999), Lugosi, Mannor and Stoltz (2008) and Perchet (2011), the line
 that Kwon and Perchet ([LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md)) continues for approachability.
-Lattimore and Szepesvári, "Cleaning up the neighborhood" (arXiv:1805.09247,
-not held), completes the adversarial classification for degenerate games
+Lattimore and Szepesvári, "Cleaning up the neighborhood" ([LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md),
+read in [NOTE-tmpkgxba](NOTE-tmpkgxba.md)), completes the adversarial classification for degenerate games
 and, in its abstract's words, corrects "errors in previous analyses".
 
 ## Bearing on the record
@@ -254,7 +264,7 @@ anthology-candidate flag on the LIT stands for the anthology to judge.
 - **Adversarial classification for non-degenerate games only**; the
   degenerate case is posed as the open problem (§8). Lattimore and
   Szepesvári later closed it and corrected the earlier analyses. The
-  correction was not read here.
+  correction is read in [NOTE-tmpkgxba](NOTE-tmpkgxba.md) ([LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md)).
 - **Constants are game-dependent** and can be large (W_k, d_k, the K of
   Lemma 6). The rate classes say nothing about any finite horizon.
 - **Oblivious adversaries only** in the adversarial case. An adaptive

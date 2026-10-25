@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8z857
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -21,6 +21,16 @@ history:
     are added: suppressed feedback gives Θ(T) and a dominated check gives
     Θ(T^{2/3}). The floor is sufficient, not required. THEORY-tmpwtj3m is
     added to grounds. The claim is unchanged.
+- version: 4
+  date: '2026-10-25'
+  note: >-
+    The partial-monitoring note amended from the reading of Lattimore and
+    Szepesvári (LIT-tmpfjv79, NOTE-tmpkgxba). The check variant is their
+    spam game with general H and c, and its easy case is k ≤ Hc/(H + c): at
+    equality the check is degenerate, which their classification for all
+    games (THEORY-tmpyulw1) places in the easy class and Bartók et al.'s
+    adversarial theorem did not cover. THEORY-tmpyulw1 is added to grounds.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,6 +77,7 @@ grounds:
 - THEORY-910
 - THEORY-915
 - THEORY-tmpwtj3m
+- THEORY-tmpyulw1
 - LIT-1498
 - LIT-1477
 - LIT-1479
@@ -89,7 +100,7 @@ illustrated_by:
 supports:
 - CLAIM-445
 ---
-<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-tmpyulw1 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-925 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
@@ -258,7 +269,8 @@ approach. The reading confirms it. The two actions are neighbours, both
 optimal at the boundary p = c/(H + c), and the game is non-degenerate, so
 its class is Θ̃(√T) against a stochastic environment and Θ(√T) against an
 adversarial one. The condition and the worked case are [THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md),
-and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md).
+and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), and for every finite game
+THEORY-tmpyulw1.
 
 - **Access, not observability.** A learner that keeps playing approach
   learns the comparison. A learner whose governing process removes
@@ -285,10 +297,21 @@ and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md).
     outcomes, and approach is uninformative. If k > Hc/(H + c) the check is
     never optimal. The game is then globally but not locally observable,
     and its class is Θ(T^{2/3}), the revealing-action structure. If
-    k < Hc/(H + c) the check has its own cell and the game is easy again.
+    k ≤ Hc/(H + c) the check is optimal somewhere (its own cell when <,
+    the indifference point when =) and the game is easy again.
     This is a formal counterpart to the hypervigilance paragraph above:
     checking that reveals the outcome but costs more than it is worth
-    makes the comparison expensive to learn, not impossible.
+    makes the comparison expensive to learn, not impossible. This variant
+    is Lattimore and Szepesvári's spam game (LIT-tmpfjv79, Example 1) with
+    general H and c. With H = c = 1, avoid is "spam", approach is "not
+    spam" and the check is "don't know". Their classification for all
+    games (THEORY-tmpyulw1) places the boundary case k = Hc/(H + c), where
+    the check is degenerate and optimal only at p = c/(H + c), in the easy
+    class. Bartók et al.'s adversarial theorem did not cover it. So the
+    easy case is k ≤ Hc/(H + c), and checking that costs exactly what it
+    saves at the indifference point is still cheap to learn from
+    (THEORY-tmpwqg2f). The construction is no longer only the record's:
+    its H = c = 1 case is the paper's motivating example.
 - **The floor** is [QUESTION-271](../questions.d/QUESTION-271.md)'s exploration floor, the price COMA
   pays as well ([THEORY-925](../theory.d/THEORY-925.md)). A floor is sufficient, not required. Bartók
   et al.'s CBP keeps no fixed floor: in the easy stochastic class it plays

@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -12,6 +12,14 @@ history:
     Active under ADR-047 v2. Its application to the approach–avoid game,
     and the variants with suppressed feedback and a costly check, are the
     record's.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    From the reading of Lattimore and Szepesvári (LIT-tmpfjv79, NOTE-
+    tmpkgxba). The Source notes that Bartók et al.'s Theorem 4 takes this
+    step with D = {i, j} where it needs D = N⁺_{i,j} (THEORY-tmpwqg2f), so
+    the lemma as stated, for general D, is the corrected form. THEORY-
+    tmpyulw1 is added beside THEORY-tmpz3a05. The account is unchanged.
 tags:
 - learning-theory
 - game-theory
@@ -42,7 +50,10 @@ Operations Research* 39(4):967–997, [LIT-tmpwpq36](../literature.d/LIT-tmpwpq3
 the authors' preprint of March 2013. The condition is their Definitions 5
 (global observability, from Piccolboni and Schindelhauer) and 6 (local
 observability). The necessity argument is the first paragraph of the proof
-of their Theorem 4. The derivation below is the record's.
+of their Theorem 4, taken there with D = {i, j}; the proof needs
+D = N⁺_{i,j}, as Lattimore and Szepesvári's footnote corrects
+(THEORY-tmpwqg2f). The lemma as stated here, for general D, is the
+corrected form. The derivation below is the record's.
 
 ## What was actually shown
 
@@ -112,7 +123,8 @@ renders identically cannot be told apart by any statistic.
 
 - **Not the rates.** That a comparison is learnable from D says nothing
   about how fast. The classification (Θ̃(√T), Θ(T^{2/3}), Θ(T)) is
-  [THEORY-tmpz3a05](THEORY-tmpz3a05.md). The lemma is one step of its lower bound, not the
+  [THEORY-tmpz3a05](THEORY-tmpz3a05.md) as Bartók et al. state it, and THEORY-tmpyulw1 for every
+  finite game. The lemma is one step of their lower bound, not the
   bound.
 - **Not that a learner restricted to D has high regret in its own game.**
   Regret is measured against the actions available. A learner allowed only
@@ -142,3 +154,8 @@ renders identically cannot be told apart by any statistic.
   description closes when the dynamics carry no component the summary
   cannot see, and a comparison is learnable when the loss difference has
   no component the signals cannot see.
+- **THEORY-tmpyulw1.** Lattimore and Szepesvári's classification for all
+  finite games, beside THEORY-tmpz3a05. Its local observability is this
+  lemma with D = N_ab, and its corrected lower bound takes the kernel
+  vector of the stacked signal matrices of N_ab, as here
+  (THEORY-tmpwqg2f).
