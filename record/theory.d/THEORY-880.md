@@ -133,7 +133,7 @@ has one. The holism prediction could fail; no test is reported.
 
 ## Note of 2026-10-25: Isaac's structuralism
 
-Isaac (LIT-1361, read in NOTE-tmpn1hle) cites Lyre (2022) among the
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)) cites Lyre (2022) among the
 structuralist programmes his paper joins. He shares this THEORY's first
 layer, quality spaces measured by discrimination, matching and judgement,
 and like Lyre he addresses phenomenal character only. He departs from it in
@@ -141,7 +141,7 @@ two ways.
 
 - **Geometry is not enough.** "The geometrical structure of phenomenal
   experience by itself is not enough to generate meaning" (§3). He adds a
-  group-theoretic layer of constancy (THEORY-tmpt62hk) and a dynamic layer
+  group-theoretic layer of constancy ([THEORY-tmpt62hk](THEORY-tmpt62hk.md)) and a dynamic layer
   of valence and affordance fields.
 - **No individuation thesis.** He never says that an experience is fully
   individuated by its place in the space. His structuralism is "a stance",
@@ -154,6 +154,6 @@ distorts CIELAB distances and misplaces the unique hues, and firing rate
 turned out not to be isomorphic to loudness. He treats these as residuals
 that direct refinement. His argument for the step this THEORY assumes, that
 a behaviourally built quality space is the structure of experience, is
-convergence between models built by different procedures (THEORY-tmpeq5py),
+convergence between models built by different procedures ([THEORY-tmpeq5py](THEORY-tmpeq5py.md)),
 which a shared stimulus geometry would also produce. Nothing in the paper
 meets the promotion test. The comparison is the record's.

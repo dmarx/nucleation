@@ -131,13 +131,13 @@ is empirical. Nothing in the paper tests it.
 
 ## Note of 2026-10-25: Isaac's methodological structuralism
 
-Isaac (LIT-1361, read in NOTE-tmpn1hle) is a structuralist of the kind this
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)) is a structuralist of the kind this
 THEORY allows. He holds structuralism as "a stance", not a "theoretical
 assertation [sic] or result" (§1), and an isomorphism between experience and
 brain as a regulative ideal of method. Nowhere does he say that an
 experience just is its place in a structure. His evidence that quality-space
 models target experience is convergence between models built by different
-behavioural procedures (THEORY-tmpeq5py), which needs only that experiences
+behavioural procedures ([THEORY-tmpeq5py](THEORY-tmpeq5py.md)), which needs only that experiences
 stand in relations, Negro's second sense.
 
 Two of his remarks touch Negro's arguments without meeting them. That a

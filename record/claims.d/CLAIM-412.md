@@ -346,18 +346,18 @@ The defeater is not met by any of them.
 
 ## Note of 2026-10-25: Isaac's layers
 
-The exchange cited Isaac (LIT-1361) as a structuralist programme. It was
-read on 2026-10-25 in NOTE-tmpn1hle. Like Lyre, he addresses "one facet of
+The exchange cited Isaac ([LIT-1361](../literature.d/LIT-1361.md)) as a structuralist programme. It was
+read on 2026-10-25 in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md). Like Lyre, he addresses "one facet of
 consciousness", phenomenal experience, and says nothing about what makes a
 state conscious rather than not. So he bears on the claim's account of character, not on its identity,
-and CLAIM-411's gap is untouched.
+and [CLAIM-411](CLAIM-411.md)'s gap is untouched.
 
 Within that scope his account is a structural analogue of interpretive
 organization, in three layers: contrast within a quality space, without
 which a shade "considered in isolation" is "not apt to play any
 representational role"; invariance under transformations within experience,
 which on his account, after Cassirer, distinguishes subject from object
-(THEORY-tmpt62hk); and fields of valence and affordance that give the
+([THEORY-tmpt62hk](../theory.d/THEORY-tmpt62hk.md)); and fields of valence and affordance that give the
 experienced world significance and guide action. These are near the three
 parts of the claim's definition of interpretation: distinction, context and
 consequentiality. His relations are not only similarities, so Aldé's

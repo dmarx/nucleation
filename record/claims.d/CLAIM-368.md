@@ -172,7 +172,7 @@ downstream applications, not premises").
 
 ## Note of 2026-10-25: a felt case of altering the field
 
-Isaac (LIT-1361, read in NOTE-tmpn1hle, §2.3) gives a case outside this
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md), §2.3) gives a case outside this
 claim's domain that shows one route to managing frustration. The handle of a
 pot just out of the oven invites the grasp so strongly that he reaches for
 it "despite 'knowing' it is too hot to touch". Afterwards he may place a tea

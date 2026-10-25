@@ -122,7 +122,7 @@ argues they are not, by inspection.
 
 ## Note of 2026-10-25: Isaac and the unique hues
 
-Isaac (LIT-1361, read in NOTE-tmpn1hle) is not the similarity structuralist
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)) is not the similarity structuralist
 this THEORY targets. He holds that geometry "by itself is not enough to
 generate meaning" and adds layers of constancy and of valence fields, so the
 conclusion here, that similarity relations alone cannot account for colour
