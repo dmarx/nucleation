@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'Interacting accumulators on an influence network: if each perspective''s continuous support for one of two interpretations follows dxᵢ = [dᵢ − λxᵢ + κ Σⱼ Wᵢⱼxⱼ]dτ + noise, with W irreducible and row-stochastic and ℓ its left eigenvector, then ℓᵀ(κW − λI) = (κ − λ)ℓᵀ, so the ℓ-weighted support L = ℓ·x is exactly an Ornstein–Uhlenbeck process with drift ℓ·d, rate κ − λ and variance ℓᵀΣℓ, and a drift-diffusion process at κ = λ; with tanh coupling and member noise the transition is at κ_c = λ/E[sech² ε], not at κ = λ'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -10,6 +10,17 @@ history:
     time with x updated as Wx (DeGroot's iteration) the other modes settle
     only if W is also aperiodic; the continuous-time equation does not need
     it.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    After the reading of DeGroot 1974 from a copy the owner supplied: that
+    ℓ is DeGroot's consensus weight is his Theorem 3 (THEORY-tmpvqkp6), and
+    the need for aperiodicity in discrete time is his own statement for a
+    periodic closed class. "Anything for a reducible W" narrowed to several
+    closed classes: with one closed class and transient members ℓ is unique
+    and zero off the class, and the closure and the decay of the other
+    modes still hold (checked), so W irreducible is sufficient, not
+    necessary. The title is unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -150,16 +161,21 @@ dial on it.
   on one member's support, or on a majority count, is not.
 - Anything for a readout not weighted by ℓ, such as a uniform average or
   one member's support. Those carry a stationary transverse term.
-- Anything for a reducible W. Several closed groups give several balanced
-  modes, and L is then one neutral coordinate among several.
+- Anything for a W with several closed classes. Several closed groups
+  give several balanced modes, and L is then one neutral coordinate among
+  several. A W with one closed class and transient members is covered: ℓ
+  is unique and zero off the class, and the closure and the decay of the
+  other modes hold as for an irreducible W (checked, THEORY-tmpvqkp6). The
+  title's "W irreducible" is sufficient, not necessary.
 - Settling in discrete time without damping. The closure in part 1 holds
   for any step. But if the members update as x ← Wx at each step
   (DeGroot's iteration, an Euler step with hλ = 1 at balance), the other
   modes decay only if W is also aperiodic: a periodic two-cycle,
   W = [[0, 1], [1, 0]], does not converge (checked). With hλ < 1, and in
   the continuous-time equation, irreducibility is enough. That ℓ is
-  DeGroot's consensus weight is held here only through [THEORY-321](../theory.d/THEORY-321.md), since
-  DeGroot's paper was sought and not reached.
+  DeGroot's consensus weight is his Theorem 3 (THEORY-tmpvqkp6), and the
+  need for aperiodicity in discrete time is his own statement for a
+  periodic closed class (LIT-tmpwlnuv, §5).
 - Anything for binary positions. A37 called xᵢ "each perspective's binary
   support variable". If the members broadcast sign(xⱼ) in place of xⱼ, the
   closure fails: the drift of L then depends on the members' positions,

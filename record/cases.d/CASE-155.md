@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpw4r7u
 title: 'Authority as a replicator population: for a distribution π of control over processes with mean qualities q, the expected Maynard-Cross update is π_a q_a / v, Bayes'' rule when q is each process''s likelihood; the Maynard dynamic is the Taylor dynamic slowed by 1/v, so the two share their orbits; mean quality climbs at the rate Var_π(q); and when a process''s score rises with its own share, ℓ′ = ℓ + h + c(2π − 1) has an unstable threshold π* = (1 − h/c)/2, above which a process the evidence disfavours captures the organization'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
@@ -12,6 +12,15 @@ history:
     A dated note added: with c = 0 part 4 is the SPRT walk and its limit the
     drift-diffusion model (CLAIM-tmpfd9lk); A47's conformity arm is the
     self-scoring c (CASE-tmpjmerx). The case is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 sharpened after the reading of Wald 1945 from a
+    copy the owner supplied: the walk is Wald's Z_m (THEORY-tmpeglfj),
+    started from the prior log odds as in his §3.1, and the SPRT proper adds
+    fixed bounds; the drift-diffusion limit is not stated by Wald, though
+    his overshoot-free formulas are exactly the diffusion's
+    (THEORY-tmpda363). The case is unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -145,8 +154,11 @@ Read the same day (curation entry of 2026-10-24, 2nd).
   ℓ′ = ℓ + log(q_A/q_B) for the log odds of A's share. With q the
   likelihood each process gives a fresh observation, the increment is that
   observation's log likelihood ratio h. That is Wald's sequential
-  probability ratio walk, and its continuum limit is [THEORY-068](../theory.d/THEORY-068.md)'s
-  drift-diffusion model. For Gaussian evidence N(±δ, σ²), h has mean
+  probability ratio walk (Wald's Z_m, THEORY-tmpeglfj; starting from the
+  prior log odds, it is his §3.1 posterior form; the SPRT proper adds
+  fixed bounds), and its continuum limit is [THEORY-068](../theory.d/THEORY-068.md)'s
+  drift-diffusion model (not stated by Wald; his overshoot-free formulas
+  are exactly the diffusion's, THEORY-tmpda363). For Gaussian evidence N(±δ, σ²), h has mean
   2δ²/σ² and variance 4δ²/σ², so the drift is half the variance. Part 4's
   ℓ′ = ℓ + h + c(2π − 1) is the same walk with feedback from the share.
   Since 2π − 1 = tanh(ℓ/2), it is ℓ′ = ℓ + h + c·tanh(ℓ/2), whose linear

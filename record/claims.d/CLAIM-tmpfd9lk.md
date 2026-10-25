@@ -1,13 +1,28 @@
 ---
 status: Active
 title: 'A population of perspectives, each advocating one of two interpretations, makes its collective choice by drift diffusion when the coordinate the decision is read from integrates independent evidence with no net leak or self-reinforcement and commitment is a bound on that coordinate; two interpretations make the reduction one-dimensional, but they do not by themselves give it'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed from U34–A44 of the exchange, with both constructions checked.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    After the readings of Wald 1945 and DeGroot 1974 from copies the owner
+    supplied: the SPRT link is now read in the primary source (the walk is
+    Wald's Z_m, the prior-odds start his §3.1, and the drift-diffusion
+    limit the case where his approximations are exact, not his theorem),
+    and the connectivity condition is DeGroot's single closed class
+    (THEORY-tmpvqkp6). THEORY-tmpeglfj, THEORY-tmpda363 and THEORY-tmpvqkp6
+    added to grounds. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   An error in either construction it rests on: a population meeting the
   stated conditions (independent evidence across steps, a readout weighted
-  by the influence mode, a strongly connected population, a linear balance
+  by the influence mode, a single closed class of influence, a linear balance
   of leak against reinforcement in that mode) whose readout shows serial
   dependence or a drift that depends on its own state. Or a population
   that violates them, with feedback from a visible majority or
@@ -28,6 +43,9 @@ grounds:
 - CASE-155
 - THEORY-068
 - THEORY-321
+- THEORY-tmpeglfj
+- THEORY-tmpda363
+- THEORY-tmpvqkp6
 summary: >-
   The owner's hypothesis at U34 of the exchange of 2026-10-24, continued:
   "if we've set up our simulation appropriately, when n=2 we should see
@@ -74,8 +92,14 @@ than 'two interpretations imply drift–diffusion.'"
   each step by the likelihood each gave a fresh observation. The log odds
   ℓ of their shares then move by that observation's log likelihood ratio.
   Part 4's ℓ′ = ℓ + h + c(2π − 1), with 2π − 1 = tanh(ℓ/2), is at c = 0
-  exactly Wald's sequential probability ratio walk, whose continuum limit
-  is [THEORY-068](../theory.d/THEORY-068.md)'s drift-diffusion model. Its drift is half its variance,
+  exactly Wald's sequential probability ratio walk: his Z_m, the sum of
+  the log likelihood ratios (THEORY-tmpeglfj), started from the prior log
+  odds as in his own derivation of the test (§3.1). The SPRT proper is
+  this walk with fixed bounds on it. Its continuum limit is
+  [THEORY-068](../theory.d/THEORY-068.md)'s drift-diffusion model. That limit is not Wald's statement:
+  it is the case in which his overshoot-free OC, ASN and first-passage
+  density are exact (THEORY-tmpda363). Its drift is half its variance,
+  which for Gaussian evidence is Wald's h = −1 under the alternative, and
   A35's "calibrated sequential inference". Self-scoring, c > 0, is the
   reinforcement that breaks it: the linear part of c·tanh(ℓ/2) is (c/2)ℓ,
   A35's β.
@@ -87,8 +111,9 @@ than 'two interpretations imply drift–diffusion.'"
   in [CASE-155](../cases.d/CASE-155.md). A uniform average carries a stationary transverse
   term.
 - No net leak or self-reinforcement in that mode.
-- A strongly connected population. Several closed groups give several
-  balanced modes.
+- A single closed class of the influence network. Members outside it
+  get no weight (DeGroot's Theorems 2 and 3, THEORY-tmpvqkp6). Several
+  closed groups give several balanced modes.
 - Continuous support. Members that broadcast only binary positions break
   the linear closure.
 - Commitment as a bound on the readout, not on one member or on a
