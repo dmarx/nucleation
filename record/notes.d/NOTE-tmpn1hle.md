@@ -212,35 +212,35 @@ The paper looks back on purpose: Koffka (1935), Köhler, Lewin, Cassirer's
 "The concept of group and the theory of perception" (1944) and Shepard's
 work of the 1970s and 1980s, through Hatfield on visual space and
 Westheimer (2024) on Cassirer. Among contemporary structuralists it cites
-Fink, Kob and Lyre (2021) and Lyre (2022) (LIT-1344, read in
-NOTE-1060) as the convergence it joins, Loorits (2014) on the hard
+Fink, Kob and Lyre (2021) and Lyre (2022) ([LIT-1344](../literature.d/LIT-1344.md), read in
+[NOTE-1060](NOTE-1060.md)) as the convergence it joins, Loorits (2014) on the hard
 problem, and Decock (2006) for the physicalist reinterpretation of
 phenomenal spaces. It continues the author's own papers on psychophysics
 and the geometry of colour (2013), structural realism for secondary
 qualities (2014) and "The allegory of isomorphism" (2019). Its affordance
 field is Reed's (1993) and Rietveld and Kiverstein's (2014). Negro
-(NOTE-1054) and Aldé (NOTE-1055), read in the same batch,
+([NOTE-1054](NOTE-1054.md)) and Aldé ([NOTE-1055](NOTE-1055.md)), read in the same batch,
 attack Lyre's version and do not cite this paper, and it does not cite
 them.
 
 ## Bearing on the record
 
-- **Two THEORYs warranted, both Proposed.** THEORY-tmpt62hk states
+- **Two THEORYs warranted, both Proposed.** [THEORY-tmpt62hk](../theory.d/THEORY-tmpt62hk.md) states
   the constancy account (C2–C3) as the paper supports it.
-  THEORY-tmpeq5py states the convergence epistemology (C7), with
+  [THEORY-tmpeq5py](../theory.d/THEORY-tmpeq5py.md) states the convergence epistemology (C7), with
   the failures of convergence that the paper itself concedes.
-- **THEORY-880, THEORY-867 and THEORY-868.** Isaac is not the
+- **[THEORY-880](../theory.d/THEORY-880.md), [THEORY-867](../theory.d/THEORY-867.md) and [THEORY-868](../theory.d/THEORY-868.md).** Isaac is not the
   similarity structuralist those objections target. He agrees with Lyre
   that geometry is the first layer, but denies that it is enough ("The
   geometrical structure of phenomenal experience by itself is not enough
   to generate meaning", §3), and never says that an experience is nothing
   but its place in a space. Aldé's point that colour-space geometry does
-  not mark the unique hues (THEORY-867) is consistent with Isaac's DKL
+  not mark the unique hues ([THEORY-867](../theory.d/THEORY-867.md)) is consistent with Isaac's DKL
   case, where a neural space misplaces the unique hues; Isaac treats it
   as a residual to de-idealize, not as a refutation. His stance is the
-  "methods, not metaphysics" structuralism that Negro (THEORY-868)
+  "methods, not metaphysics" structuralism that Negro ([THEORY-868](../theory.d/THEORY-868.md))
   allows. The comparison is mine.
-- **QUESTION-255.** The question named Isaac's dynamical structures
+- **[QUESTION-255](../questions.d/QUESTION-255.md).** The question named Isaac's dynamical structures
   as candidate material for a formal object that holds unresolved
   conflicts together. The paper does give one shape for it: a vector field
   of competing valences and affordances over one experienced space, where
@@ -251,7 +251,7 @@ them.
   So it is a candidate for a kind-(1) reading of felt conflict (one global
   state that holds both sides), not a model of kind (2). The inference is
   mine.
-- **QUESTION-254 and CLAIM-412.** The record filed this paper
+- **[QUESTION-254](../questions.d/QUESTION-254.md) and [CLAIM-412](../claims.d/CLAIM-412.md).** The record filed this paper
   because its group-theoretic layer "induces a distinction between subject
   and object", one candidate for what a perspective adds to an
   interpretation. The reading finds the claim stated, after Cassirer, and
@@ -259,20 +259,20 @@ them.
   in experience. It gives no criterion that would separate a system that
   extracts invariants (as any object recognizer does) from one for which
   there is a subject–object distinction. So it does not answer
-  QUESTION-254. For CLAIM-412, Isaac's layers are a structural
+  [QUESTION-254](../questions.d/QUESTION-254.md). For [CLAIM-412](../claims.d/CLAIM-412.md), Isaac's layers are a structural
   analogue of interpretive organization (contrast, invariance, valence
   that gives significance and guides action), and like Lyre he addresses
   only the character of experience, not why any process is conscious
-  (CLAIM-411's gap remains).
-- **CLAIM-138.** Isaac sets the Newman objection aside, because the
+  ([CLAIM-411](../claims.d/CLAIM-411.md)'s gap remains).
+- **[CLAIM-138](../claims.d/CLAIM-138.md).** Isaac sets the Newman objection aside, because the
   isomorphisms are "suggestive, metaphorical" at the level of method. His
   relations are in practice fixed by named behavioural procedures
   (matching, equal-distance judgements, descriptor ratings), which is the
-  independently specified relations that CLAIM-138 says concede
+  independently specified relations that [CLAIM-138](../claims.d/CLAIM-138.md) says concede
   non-structural input. He can pay that cost because he makes no claim
   that relations alone fix what an experience is. A further instance for
   the claim's parallel; the comparison is mine.
-- **CLAIM-368.** Isaac's valence field and the record's frustration of
+- **[CLAIM-368](../claims.d/CLAIM-368.md).** Isaac's valence field and the record's frustration of
   maintained demands are both about competing pulls. The paper's tea
   towel, placed over the handle to remove its affordance from the visual
   field, is a case of managing a demand by altering the experienced field,

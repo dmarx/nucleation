@@ -32,7 +32,7 @@ date: '2026-10-25'
 source:
 - LIT-1361
 summary: >-
-  Isaac (2025), LIT-1361, read in NOTE-tmpn1hle: why a third-personal
+  Isaac (2025), [LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md): why a third-personal
   science of quality spaces counts as a science of experience. Relations
   between experiences, unlike bare qualities, show up in behaviour, so
   they can be compared across subjects; and models from different
@@ -48,8 +48,8 @@ summary: >-
 
 ## Source
 
-Isaac (2025), *Philosophy and the Mind Sciences* 6, LIT-1361, read in full
-in NOTE-tmpn1hle from the publisher's open-access PDF. §5 ("Making
+Isaac (2025), *Philosophy and the Mind Sciences* 6, [LIT-1361](../literature.d/LIT-1361.md), read in full
+in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md) from the publisher's open-access PDF. §5 ("Making
 progress on consciousness") with footnote 15, footnote 2 of §2.1, and the
 closing puzzle of §6.
 
@@ -117,16 +117,16 @@ space and odour the critics say it is.
 
 ## Connections
 
-- **THEORY-868.** Negro holds that structuralist methods support only that
+- **[THEORY-868](THEORY-868.md).** Negro holds that structuralist methods support only that
   experiences stand in relations. This account is a claim of that weaker,
   methodological kind, and is compatible with it.
-- **THEORY-880.** Lyre's programme assumes that a behaviourally built
+- **[THEORY-880](THEORY-880.md).** Lyre's programme assumes that a behaviourally built
   Q-structure is the structure of experience. This account is Isaac's
   argument for that step, and its weakness is the same: shared stimulus
   geometry would also produce agreement.
-- **CLAIM-138.** The relations here are fixed by named behavioural
+- **[CLAIM-138](../claims.d/CLAIM-138.md).** The relations here are fixed by named behavioural
   procedures, independently of the structure claimed, which is the
   remedy for the Newman objection that the claim describes.
-- **QUESTION-255.** The question's line is evidence for experience. This
+- **[QUESTION-255](../questions.d/QUESTION-255.md).** The question's line is evidence for experience. This
   is one structuralist answer to what makes behavioural evidence evidence
   of experience, at the level of character only.
