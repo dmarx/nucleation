@@ -10,7 +10,7 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: A47 ran the design with a router arm, filed as the
-    variant CASE-tmpjmerx. The case is unchanged.
+    variant CASE-158. The case is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -32,7 +32,7 @@ summary: >-
   own organization of interpretation and authority has rendered
   inconsequential?" Not run.
 variants:
-- CASE-tmpjmerx
+- CASE-158
 ---
 
 # CASE-144: The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent
@@ -118,4 +118,4 @@ proposal. A contextual mixture-of-experts router was added. Reported over
 12 seeds: audited governance beat fixed and conformity-scored allocation
 every time, and the router beat audited governance every time. Not held
 and not reproduced. The variant with the router arm, and the arms that
-would make it informative, is [CASE-tmpjmerx](CASE-tmpjmerx.md). The case is unchanged.
+would make it informative, is [CASE-158](CASE-158.md). The case is unchanged.

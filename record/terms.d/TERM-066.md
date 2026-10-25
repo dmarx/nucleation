@@ -185,5 +185,5 @@ A41's "self-validating" evaluator and A47's conformity scoring, in the
 exchange of 2026-10-24, continued, are this condition built in by design.
 A41: "Its tendency toward conformity is part of its construction, not an
 emergent discovery." In A47's report the conformity-scored allocation was
-the worst of four arms after a reversal of expertise ([CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md);
+the worst of four arms after a reversal of expertise ([CASE-158](../cases.d/CASE-158.md);
 reported, not reproduced). The term is unchanged.

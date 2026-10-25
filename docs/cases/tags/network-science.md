@@ -6,8 +6,8 @@
 
 **Network science** — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
-0 of 157 CASE documents. Back to the [full index](../README.md).
+1 of 160 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-160](../../../record/cases.d/CASE-160.md) v2 | Interacting accumulators on an influence network: if each perspective's continuous support for one of two interpretations follows dxᵢ = [dᵢ − λxᵢ + κ Σⱼ Wᵢⱼxⱼ]dτ + noise, with W irreducible and row-stochastic and ℓ its left eigenvector, then ℓᵀ(κW − λI) = (κ − λ)ℓᵀ, so the ℓ-weighted support L = ℓ·x is exactly an Ornstein–Uhlenbeck process with drift ℓ·d, rate κ − λ and variance ℓᵀΣℓ, and a drift-diffusion process at κ = λ; with tanh coupling and member noise the transition is at κ_c = λ/E[sech² ε], not at κ = λ | From the continuation of the exchange of 2026-10-24 (U28–U47). A36 derived it as the answer to the owner's U34 hypothesis, and A37, A42, A43 and A44 restated it as the population simulator's unit test. The case formalizes [CASE-074](../../../record/cases.d/CASE-074.md)'s crowd as a linear network of accumulators: the hidden tally is the balanced case, the visible tally positive feedback. The closure is [THEORY-733](../../../record/theory.d/THEORY-733.md)'s, the variance [THEORY-321](../../../record/theory.d/THEORY-321.md)'s influence concentration and the balance [THEORY-068](../../../record/theory.d/THEORY-068.md)'s, a combination no source makes. Checked when filed, and the reply's nonlinear transition corrected. | Active |

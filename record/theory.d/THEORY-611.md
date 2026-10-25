@@ -95,13 +95,13 @@ could have vanished. It did not.
 
 Two works read on 2026-10-25 apply classifier-free guidance inside each
 component and then combine the guided fields convexly: MultiDiffusion by
-region ([LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md), [THEORY-tmpt2q0g](THEORY-tmpt2q0g.md)) and LoRA Composite
-over LoRA-modified models ([LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md), [NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)). Each guided field
+region ([LIT-1522](../literature.d/LIT-1522.md), [NOTE-1158](../notes.d/NOTE-1158.md), [THEORY-958](THEORY-958.md)) and LoRA Composite
+over LoRA-modified models ([LIT-1529](../literature.d/LIT-1529.md), [NOTE-1160](../notes.d/NOTE-1160.md)). Each guided field
 is in general the gradient of no density, and a mean of such fields is no
 better. Spatial masking adds a second source. Across a region boundary the
 Jacobian of Σᵢ Mᵢ ⊙ sᵢ is symmetric only if Σᵢ (Mᵢ(p) − Mᵢ(q)) ∂sᵢ,p/∂x_q
 vanishes, which in general it does not when the models couple pixels
-across the boundary. That argument is the record's ([NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)), not
+across the boundary. That argument is the record's ([NOTE-1158](../notes.d/NOTE-1158.md)), not
 the paper's. LoRA Composite's "enabling CFG to condition on LoRAs" is text
 guidance within each LoRA-modified model, not guidance toward a LoRA
-([NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)). The account is unchanged.
+([NOTE-1160](../notes.d/NOTE-1160.md)). The account is unchanged.

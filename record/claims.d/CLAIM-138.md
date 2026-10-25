@@ -10,7 +10,7 @@ history:
   date: '2026-10-25'
   note: >-
     Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
-    NOTE-tmpn1hle: a further instance of the remedy, in phenomenal
+    NOTE-1163: a further instance of the remedy, in phenomenal
     structure. The claim is unchanged.
 role: counter
 warrant: interpretive
@@ -137,7 +137,7 @@ session, not as a mapping between two systems.
 
 ## Note of 2026-10-25: a further instance, in phenomenal structure
 
-Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)), a structuralist about phenomenal
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-1163](../notes.d/NOTE-1163.md)), a structuralist about phenomenal
 experience, names Newman's (1928) objection and sets it aside: at the
 methodological level "the mathematical term is being used in a suggestive,
 metaphorical way", and the technical conditions for an isomorphism are met

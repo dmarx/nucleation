@@ -10,17 +10,17 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: with c = 0 part 4 is the SPRT walk and its limit the
-    drift-diffusion model (CLAIM-tmpfd9lk); A47's conformity arm is the
-    self-scoring c (CASE-tmpjmerx). The case is unchanged.
+    drift-diffusion model (CLAIM-453); A47's conformity arm is the
+    self-scoring c (CASE-158). The case is unchanged.
 - version: 3
   date: '2026-10-25'
   note: >-
     The note of 2026-10-25 sharpened after the reading of Wald 1945 from a
-    copy the owner supplied: the walk is Wald's Z_m (THEORY-tmpeglfj),
+    copy the owner supplied: the walk is Wald's Z_m (THEORY-952),
     started from the prior log odds as in his §3.1, and the SPRT proper adds
     fixed bounds; the drift-diffusion limit is not stated by Wald, though
     his overshoot-free formulas are exactly the diffusion's
-    (THEORY-tmpda363). The case is unchanged.
+    (THEORY-951). The case is unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -44,7 +44,7 @@ summary: >-
   threshold.
 supports:
 - CLAIM-444
-- CLAIM-tmpfd9lk
+- CLAIM-453
 variants:
 - CASE-157
 ---
@@ -154,11 +154,11 @@ Read the same day (curation entry of 2026-10-24, 2nd).
   ℓ′ = ℓ + log(q_A/q_B) for the log odds of A's share. With q the
   likelihood each process gives a fresh observation, the increment is that
   observation's log likelihood ratio h. That is Wald's sequential
-  probability ratio walk (Wald's Z_m, [THEORY-tmpeglfj](../theory.d/THEORY-tmpeglfj.md); starting from the
+  probability ratio walk (Wald's Z_m, [THEORY-952](../theory.d/THEORY-952.md); starting from the
   prior log odds, it is his §3.1 posterior form; the SPRT proper adds
   fixed bounds), and its continuum limit is [THEORY-068](../theory.d/THEORY-068.md)'s
   drift-diffusion model (not stated by Wald; his overshoot-free formulas
-  are exactly the diffusion's, [THEORY-tmpda363](../theory.d/THEORY-tmpda363.md)). For Gaussian evidence N(±δ, σ²), h has mean
+  are exactly the diffusion's, [THEORY-951](../theory.d/THEORY-951.md)). For Gaussian evidence N(±δ, σ²), h has mean
   2δ²/σ² and variance 4δ²/σ², so the drift is half the variance. Part 4's
   ℓ′ = ℓ + h + c(2π − 1) is the same walk with feedback from the share.
   Since 2π − 1 = tanh(ℓ/2), it is ℓ′ = ℓ + h + c·tanh(ℓ/2), whose linear
@@ -173,11 +173,11 @@ Read the same day (curation entry of 2026-10-24, 2nd).
   matches 1/(Nπ(1 − π)) at N = 100 and 1,000; and the forgetting threshold
   at α = 0.1 between c = 0.15 and c = 0.25. This answers the owner's U34
   hypothesis of the exchange of 2026-10-24, continued, inside the record's
-  own model ([CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md)). The exchange did not see it, though U28 had
+  own model ([CLAIM-453](../claims.d/CLAIM-453.md)). The exchange did not see it, though U28 had
   asked for this material.
 - **The conformity arm.** A47's conformity scoring, which rewards agreement
   with the prevailing collective proposal, is part 4's self-scoring c, and
   it held the old allocation after a reversal of expertise, as part 4
-  predicts ([CASE-tmpjmerx](CASE-tmpjmerx.md); reported, not reproduced).
+  predicts ([CASE-158](CASE-158.md); reported, not reproduced).
 
 The case is unchanged.

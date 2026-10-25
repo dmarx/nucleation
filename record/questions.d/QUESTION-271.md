@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-25'
   note: >-
-    A dated note added: A41 and A47 asked it again, and CASE-tmpjmerx
+    A dated note added: A41 and A47 asked it again, and CASE-158
     proposes one arm per failure. The question is unchanged.
 tags:
 - self-governance
@@ -114,6 +114,6 @@ amended. Audit-accountable amendment beat fixed historical scoring on 3 of
 every seed, the reply put the framework's possible contribution in tasks
 where evaluation "becomes contested, incomplete, selectively observed, or
 historically entrenched". Those are, nearly one for one, this question's
-cycles, no common scale, bandit feedback and capture. [CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md)
+cycles, no common scale, bandit feedback and capture. [CASE-158](../cases.d/CASE-158.md)
 proposes one arm per failure against a router baseline. The question is
 unchanged.

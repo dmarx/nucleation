@@ -19,7 +19,7 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: the owner's U34 hypothesis, filed with its
-    conditions as CLAIM-tmpfd9lk. The claim is unchanged.
+    conditions as CLAIM-453. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,7 +44,7 @@ grounds:
 illustrated_by:
 - CASE-075
 - CASE-074
-- CASE-tmpvmjgd
+- CASE-160
 summary: >-
   The owner's answer to [QUESTION-079](../questions.d/QUESTION-079.md): both forms are possible, and
   which one an agent shows depends on its constitution. An agent made of
@@ -54,7 +54,7 @@ summary: >-
   that it must be stated per constitution. A missing switch counts
   against coordination only in an agent built to switch.
 corroborated_by:
-- CLAIM-tmpfd9lk
+- CLAIM-453
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection whose test this claim bears on -->
 
@@ -126,5 +126,5 @@ The owner restated this claim's continuous case as a hypothesis about a
 simulation, at U34 of the exchange of 2026-10-24, continued: with
 perspectives that each advocate one of n interpretations, "when n=2 we
 should see drift diffusion dynamics". Filed with its conditions and two
-constructions in which it holds exactly as [CLAIM-tmpfd9lk](CLAIM-tmpfd9lk.md), which
+constructions in which it holds exactly as [CLAIM-453](CLAIM-453.md), which
 corroborates this claim's continuous case. The claim is unchanged.

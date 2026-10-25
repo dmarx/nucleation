@@ -24,7 +24,7 @@ history:
   date: '2026-10-25'
   note: >-
     Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
-    NOTE-tmpn1hle: a methodological structuralist of the kind this THEORY
+    NOTE-1163: a methodological structuralist of the kind this THEORY
     allows. The THEORY is unchanged.
 tags:
 - consciousness
@@ -45,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-880 THEORY-867 — Proposed; the account this objects to and the other objection filed in the same batch, named -->
 <!-- inactive-ok-file: CLAIM-412 CLAIM-136 THEORY-633 TERM-073 — Proposed; the record's claims this account bears on, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpeq5py — Proposed; the reading of Isaac's convergence epistemology, named -->
+<!-- inactive-ok-file: THEORY-953 — Proposed; the reading of Isaac's convergence epistemology, named -->
 
 # THEORY-868: The structuralist methods and evidence in consciousness science support only that experiences have structure or stand in relations to other experiences, not that an experience is nothing but its relations; the stronger, metaphysical thesis implies that relational knowledge fixes what an experience is like, that every new experience changes all the others, and that a system with a single experience is impossible, and each consequence is doubtful
 
@@ -131,13 +131,13 @@ is empirical. Nothing in the paper tests it.
 
 ## Note of 2026-10-25: Isaac's methodological structuralism
 
-Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)) is a structuralist of the kind this
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-1163](../notes.d/NOTE-1163.md)) is a structuralist of the kind this
 THEORY allows. He holds structuralism as "a stance", not a "theoretical
 assertation [sic] or result" (§1), and an isomorphism between experience and
 brain as a regulative ideal of method. Nowhere does he say that an
 experience just is its place in a structure. His evidence that quality-space
 models target experience is convergence between models built by different
-behavioural procedures ([THEORY-tmpeq5py](THEORY-tmpeq5py.md)), which needs only that experiences
+behavioural procedures ([THEORY-953](THEORY-953.md)), which needs only that experiences
 stand in relations, Negro's second sense.
 
 Two of his remarks touch Negro's arguments without meeting them. That a

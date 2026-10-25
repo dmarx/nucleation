@@ -12,7 +12,7 @@ history:
     A dated note added after the reading of Wald 1945 from a copy the owner
     supplied: Wald proves the SPRT's optimality only up to the overshoot,
     and the continuum limit is not his statement but the case in which his
-    OC, ASN and first-passage density are exact (THEORY-tmpda363). The
+    OC, ASN and first-passage density are exact (THEORY-951). The
     account is unchanged.
 tags:
 - behavioral-integration
@@ -39,7 +39,7 @@ answers:
 - QUESTION-062
 supports:
 - CLAIM-262
-- CLAIM-tmpfd9lk
+- CLAIM-453
 ---
 <!-- inactive-ok-file: THEORY-056 — Proposed; named as the record's account of competing motive states, with no relation claimed -->
 <!-- inactive-ok-file: THEORY-061 THEORY-059 — Proposed; companion accounts in this batch, named for what they borrow from this one -->
@@ -159,7 +159,7 @@ inhibition at all.
 
 ## Note of 2026-10-25: what Wald's paper itself says
 
-Wald's 1945 paper ([LIT-tmpcevhu](../literature.d/LIT-tmpcevhu.md), read in [NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md) from a copy the
+Wald's 1945 paper ([LIT-1523](../literature.d/LIT-1523.md), read in [NOTE-1165](../notes.d/NOTE-1165.md) from a copy the
 owner supplied) qualifies two things this account takes from [LIT-569](../literature.d/LIT-569.md).
 
 - **Optimality.** "Fastest for a given error rate" is, in Wald 1945, a
@@ -173,7 +173,7 @@ owner supplied) qualifies two things this account takes from [LIT-569](../litera
   limit. He says the boundaries would be exact "if fractional observations
   were possible", and his overshoot-free OC, ASN and distribution of the
   sample number are exactly those of Brownian motion with drift
-  ([THEORY-tmpda363](THEORY-tmpda363.md), [THEORY-tmpeglfj](THEORY-tmpeglfj.md)). So the drift-diffusion model is the
+  ([THEORY-951](THEORY-951.md), [THEORY-952](THEORY-952.md)). So the drift-diffusion model is the
   case in which Wald's approximations are exact, which is why the limit
   [LIT-569](../literature.d/LIT-569.md) proves holds. The limit stays sourced through [LIT-569](../literature.d/LIT-569.md).
 

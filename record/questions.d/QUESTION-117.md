@@ -153,6 +153,6 @@ From A36, A38 and A43 of the exchange of 2026-10-24, continued.
   eight seeds. That is persuasion bias ([LIT-1134](../literature.d/LIT-1134.md)), from a simulation the
   record does not hold. A43 added that distinct source identities need not
   be independent (its `correlation_group`), which is also what changes the
-  collective noise in [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md) from Σℓᵢ²σᵢ² to ℓᵀΣℓ.
+  collective noise in [CASE-160](../cases.d/CASE-160.md) from Σℓᵢ²σᵢ² to ℓᵀΣℓ.
 
 The question is unchanged.

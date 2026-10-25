@@ -26,7 +26,7 @@ history:
   date: '2026-10-25'
   note: >-
     Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
-    NOTE-tmpn1hle: a structuralist who cites Lyre, shares the first layer,
+    NOTE-1163: a structuralist who cites Lyre, shares the first layer,
     and denies that geometry suffices. The THEORY is unchanged.
 tags:
 - consciousness
@@ -46,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-868 THEORY-867 — Proposed; the two objections filed from the same batch, named -->
 <!-- inactive-ok-file: CLAIM-412 CLAIM-136 CLAIM-138 — Proposed; the record's claims this account bears on, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpt62hk THEORY-tmpeq5py — Proposed; the two readings of Isaac filed on 2026-10-25, named -->
+<!-- inactive-ok-file: THEORY-959 THEORY-953 — Proposed; the two readings of Isaac filed on 2026-10-25, named -->
 
 # THEORY-880: The specific phenomenal character of an experience is fixed by its place in a quality space, the structure of all the discriminations a sensory system can make, and that structure is mirrored many-to-one in neural feature maps; whether the state is conscious at all is left to a separate general mechanism; so experiences are holistic, a change anywhere in the space can change every experience in it, and spectrum inversion is excluded actually by the asymmetry of colour space and nomologically by its ties to the other senses
 
@@ -133,7 +133,7 @@ has one. The holism prediction could fail; no test is reported.
 
 ## Note of 2026-10-25: Isaac's structuralism
 
-Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)) cites Lyre (2022) among the
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-1163](../notes.d/NOTE-1163.md)) cites Lyre (2022) among the
 structuralist programmes his paper joins. He shares this THEORY's first
 layer, quality spaces measured by discrimination, matching and judgement,
 and like Lyre he addresses phenomenal character only. He departs from it in
@@ -141,7 +141,7 @@ two ways.
 
 - **Geometry is not enough.** "The geometrical structure of phenomenal
   experience by itself is not enough to generate meaning" (§3). He adds a
-  group-theoretic layer of constancy ([THEORY-tmpt62hk](THEORY-tmpt62hk.md)) and a dynamic layer
+  group-theoretic layer of constancy ([THEORY-959](THEORY-959.md)) and a dynamic layer
   of valence and affordance fields.
 - **No individuation thesis.** He never says that an experience is fully
   individuated by its place in the space. His structuralism is "a stance",
@@ -154,6 +154,6 @@ distorts CIELAB distances and misplaces the unique hues, and firing rate
 turned out not to be isomorphic to loudness. He treats these as residuals
 that direct refinement. His argument for the step this THEORY assumes, that
 a behaviourally built quality space is the structure of experience, is
-convergence between models built by different procedures ([THEORY-tmpeq5py](THEORY-tmpeq5py.md)),
+convergence between models built by different procedures ([THEORY-953](THEORY-953.md)),
 which a shared stimulus geometry would also produce. Nothing in the paper
 meets the promotion test. The comparison is the record's.

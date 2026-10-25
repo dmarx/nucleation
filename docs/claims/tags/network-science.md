@@ -6,8 +6,8 @@
 
 **Network science** — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
-0 of 451 CLAIM documents. Back to the [full index](../README.md).
+1 of 453 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-453](../../../record/claims.d/CLAIM-453.md) v2 | A population of perspectives, each advocating one of two interpretations, makes its collective choice by drift diffusion when the coordinate the decision is read from integrates independent evidence with no net leak or self-reinforcement and commitment is a bound on that coordinate; two interpretations make the reduction one-dimensional, but they do not by themselves give it | The owner's hypothesis at U34 of the exchange of 2026-10-24, continued: "if we've set up our simulation appropriately, when n=2 we should see drift diffusion dynamics". It is the owner's second statement of [CLAIM-262](../../../record/claims.d/CLAIM-262.md)'s continuous case, first given on 2026-10-12. A34 qualified it, A35 gave the dial, and A36 gave an exact reduction for a network of accumulators. The record's own replicator construction gives a second, which the exchange did not see. Both were checked when filed. The sharp edge: two interpretations are necessary for a one-dimensional reduction, not sufficient. | Active |

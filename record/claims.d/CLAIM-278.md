@@ -10,7 +10,7 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: A47's router result, reported for the objection, and
-    CASE-tmpjmerx. The claim is unchanged.
+    CASE-158. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -77,6 +77,6 @@ mechanism on all 12 seeds. The reply's conclusion restates this claim: "A
 learned governance mechanism should not be considered explanatory simply
 because it changes the allocation of influence. An ordinary contextual
 router can accomplish that too." The run is not held, and whether the
-router saw the same audit delay is not stated. [CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md) proposes the
+router saw the same audit delay is not stated. [CASE-158](../cases.d/CASE-158.md) proposes the
 regimes in which the framework would have to forbid what the router
 allows. The claim is unchanged.

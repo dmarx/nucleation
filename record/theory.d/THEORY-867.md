@@ -25,7 +25,7 @@ history:
   date: '2026-10-25'
   note: >-
     Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
-    NOTE-tmpn1hle: not a similarity structuralist, and his DKL case bears on
+    NOTE-1163: not a similarity structuralist, and his DKL case bears on
     the test this THEORY sets, not on its premise. The THEORY is unchanged.
 tags:
 - consciousness
@@ -122,7 +122,7 @@ argues they are not, by inspection.
 
 ## Note of 2026-10-25: Isaac and the unique hues
 
-Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)) is not the similarity structuralist
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-1163](../notes.d/NOTE-1163.md)) is not the similarity structuralist
 this THEORY targets. He holds that geometry "by itself is not enough to
 generate meaning" and adds layers of constancy and of valence fields, so the
 conclusion here, that similarity relations alone cannot account for colour

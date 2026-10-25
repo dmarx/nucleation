@@ -18,7 +18,7 @@ history:
   date: '2026-10-25'
   note: >-
     Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
-    NOTE-tmpn1hle: a felt, individual case of managing a frustrated demand
+    NOTE-1163: a felt, individual case of managing a frustrated demand
     by altering the field in which it is presented. An analogy, not
     evidence. The claim is unchanged.
 role: thesis
@@ -172,7 +172,7 @@ downstream applications, not premises").
 
 ## Note of 2026-10-25: a felt case of altering the field
 
-Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md), §2.3) gives a case outside this
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-1163](../notes.d/NOTE-1163.md), §2.3) gives a case outside this
 claim's domain that shows one route to managing frustration. The handle of a
 pot just out of the oven invites the grasp so strongly that he reaches for
 it "despite 'knowing' it is too hot to touch". Afterwards he may place a tea

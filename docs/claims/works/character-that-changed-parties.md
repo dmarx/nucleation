@@ -6,7 +6,7 @@
 
 **The Character That Changed Parties** — the owner's essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning Applications" (A33), later folded into organization-of-perspective: political realignment and the persistence of perspectives across institutions. The continuity of a political organization, the persistence of a perspective and the descent of a tradition are distinct, and a perspective can move between carriers without an immutable essence or one continuing collective agent.
 
-2 of 451 CLAIM documents. Back to the [full index](../README.md).
+2 of 453 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,8 +6,8 @@
 
 **Replaced** — a later account covers the same ground better, and this one names it.
 
-0 of 946 THEORY documents. Back to the [full index](../README.md).
+1 of 964 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-964](../../../record/theory.d/THEORY-964.md) v3 | The minimax regret of a finite partial-monitoring game takes one of four rates, decided by its loss and signal matrices: 0 when only one action is non-dominated, Θ̃(√T) when every pair of neighbouring actions is locally observable, Θ(T^2/3) when the game is globally but not locally observable, and Θ(T) when it is not globally observable; against stochastic opponents for every game, against oblivious adversaries for non-degenerate games | Bartók, Foster, Pál, Rakhlin and Szepesvári (2014), [LIT-1528](../../../record/literature.d/LIT-1528.md), read in [NOTE-1164](../../../record/notes.d/NOTE-1164.md). Four classes, trivial, easy, hard and hopeless, with conditions checkable from the matrices before play. It classifies the best policy for a fixed, known game. It does not cover a policy that is barred from some actions, a feedback structure that changes during play, or finite-horizon constants, and its adversarial half excludes degenerate games. | Superseded — by [THEORY-963](../../../record/theory.d/THEORY-963.md) |

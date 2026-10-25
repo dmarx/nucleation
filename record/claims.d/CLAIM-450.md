@@ -10,7 +10,7 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: the garbling inequality applied to authority shares
-    (CASE-tmplg5jg), and information design set against efficacy. The claim
+    (CASE-159), and information design set against efficacy. The claim
     is unchanged.
 role: thesis
 warrant: interpretive
@@ -56,7 +56,7 @@ summary: >-
   account, rather than read as rival characterizations.
 illustrated_by:
 - CASE-152
-- CASE-tmplg5jg
+- CASE-159
 ---
 <!-- inactive-ok-file: CLAIM-130 THEORY-665 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
@@ -129,7 +129,7 @@ From A29, A30 and A31 of the exchange of 2026-10-24, continued.
   the authority-weighted mixture of its processes', this claim's garbling
   inequality bounds what responses can say about the shares: the response
   metric is the pullback of the metric on the shares and never exceeds it
-  ([CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md)).
+  ([CASE-159](../cases.d/CASE-159.md)).
 - **Information design against efficacy.** Information design
   ([THEORY-844](../theory.d/THEORY-844.md)) characterizes what can be induced by controlling what
   participants learn, with incentives and standing held fixed. This

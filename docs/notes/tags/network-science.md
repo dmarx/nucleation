@@ -4,7 +4,7 @@
 
 **network-science**.
 
-37 of 1156 NOTE documents. Back to the [full index](../README.md).
+38 of 1165 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -45,3 +45,4 @@
 | [NOTE-1116](../../../record/notes.d/NOTE-1116.md) | Flows and Decompositions of Games: Harmonic and Potential Games | A finite game is read as a flow, the unilateral payoff differences on the graph of strategy profiles, and the Helmholtz decomposition of that flow splits the game uniquely into potential, harmonic and nonstrategic parts. Potential games are those with no harmonic part. Harmonic games, the pure-conflict part, generically have no pure equilibrium. The nearest potential game is a closed-form l2 projection. | Read |
 | [NOTE-1126](../../../record/notes.d/NOTE-1126.md) | Friedkin, Jia & Bullo — A theory of the evolution of social power | A Friedkin–Johnsen model of opinion change on each issue, with a reflection mechanism between issues: a member's closure to influence on the next issue equals their influence centrality on the last. In simulation it drives one member to full closure and the rest to full openness. In 30 four-person student groups discussing 15 choice dilemmas, prior centrality predicted next-issue closure, more strongly along the sequence; influence networks thinned and discussions shortened. The rate of consensus did not change. | Read |
 | [NOTE-1135](../../../record/notes.d/NOTE-1135.md) | Jia, MirTabatabaei, Friedkin & Bullo — Opinion dynamics and the evolution of social power in influence networks | DeGroot averaging on each issue, and between issues each member's self-weight is set to their share of control over the last consensus. With a fixed, strongly connected matrix of relative interpersonal weights, self-weights converge from every non-autocratic start to a unique equilibrium fixed by the eigenvector centralities: power ranks as centrality, accumulates at the top, is autocratic exactly for a star network and democratic exactly for a doubly stochastic one. Members whom no path reaches end with no power. | Read |
+| [NOTE-1157](../../../record/notes.d/NOTE-1157.md) | DeGroot — Reaching a consensus | A group whose members each replace their opinion, over and over, by a fixed weighted average of everyone's current opinions, F⁽ⁿ⁾ = PⁿF, is a Markov chain run on opinions. It reaches a consensus from every start exactly when the chain has one closed class and that class is aperiodic. The consensus is then a linear opinion pool whose weights are the chain's stationary vector, which gives members outside the closed class no weight. Two closed classes, or one periodic class, give no consensus. The weights are fixed, and nothing in the model tracks the truth. | Read |

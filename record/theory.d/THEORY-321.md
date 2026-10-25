@@ -22,15 +22,15 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: the theorem's condition in variance form, in
-    CASE-tmpvmjgd. The reading is unchanged.
+    CASE-160. The reading is unchanged.
 - version: 4
   date: '2026-10-25'
   note: >-
     A dated note added after the reading of DeGroot 1974 from a copy the
-    owner supplied (LIT-tmpwlnuv, THEORY-tmpvqkp6): consensus needs one
+    owner supplied (LIT-1527, THEORY-960): consensus needs one
     closed class, aperiodic, with transient members weightless, so the
     "strongly connected" narrowing is stronger than consensus needs; the
-    earlier note of the day now cites THEORY-tmpvqkp6 for ℓ = π. The
+    earlier note of the day now cites THEORY-960 for ℓ = π. The
     reading is unchanged.
 tags:
 - network-science
@@ -49,7 +49,7 @@ summary: >-
 answers:
 - QUESTION-047
 supports:
-- CLAIM-tmpfd9lk
+- CLAIM-453
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 
@@ -153,14 +153,14 @@ support has variance σ²Σℓᵢ² for independent, equal noises, and A36's
 diffusion form. A36 called it "an immediate mathematical connection
 between network influence and collective statistical efficiency". Since
 max ℓᵢ² ≤ Σℓᵢ² ≤ max ℓᵢ, the collective noise vanishes exactly when the
-largest weight does, this theorem's condition ([CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md)). That ℓ
-is DeGroot's consensus weight π is his Theorem 3 ([THEORY-tmpvqkp6](THEORY-tmpvqkp6.md)). The
+largest weight does, this theorem's condition ([CASE-160](../cases.d/CASE-160.md)). That ℓ
+is DeGroot's consensus weight π is his Theorem 3 ([THEORY-960](THEORY-960.md)). The
 reading is unchanged.
 
 ## Note of 2026-10-25: DeGroot's original conditions
 
-DeGroot's 1974 paper ([LIT-tmpwlnuv](../literature.d/LIT-tmpwlnuv.md), read in [NOTE-tmp5sbzm](../notes.d/NOTE-tmp5sbzm.md) from a copy the
-owner supplied; [THEORY-tmpvqkp6](THEORY-tmpvqkp6.md)) gives a consensus from every start
+DeGroot's 1974 paper ([LIT-1527](../literature.d/LIT-1527.md), read in [NOTE-1157](../notes.d/NOTE-1157.md) from a copy the
+owner supplied; [THEORY-960](THEORY-960.md)) gives a consensus from every start
 exactly when the weight matrix has a single closed class of communicating
 members and that class is aperiodic. The consensus is Σπᵢ Fᵢ with π the
 unique stationary vector, which gives members outside the closed class no

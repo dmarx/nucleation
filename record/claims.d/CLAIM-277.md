@@ -211,4 +211,4 @@ evaluation → future access, which "can also preserve an early advantage
 when alternative perspectives don't receive enough opportunities to
 demonstrate competence". That is also [THEORY-927](../theory.d/THEORY-927.md)'s self-reinforcing
 gate. A47's experiment froze competence, so it cannot show the loop
-([CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md)). The claim is unchanged.
+([CASE-158](../cases.d/CASE-158.md)). The claim is unchanged.

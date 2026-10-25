@@ -113,14 +113,14 @@ energy-based baseline.
 ## Note of 2026-10-25: compositions that average
 
 Two works read on 2026-10-25 compose by averaging where this paper sums.
-MultiDiffusion ([LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)) composes prompts by place:
+MultiDiffusion ([LIT-1522](../literature.d/LIT-1522.md), [NOTE-1158](../notes.d/NOTE-1158.md)) composes prompts by place:
 where regions overlap a pixel takes the weighted mean of the views'
-proposals, and disjoint regions select ([THEORY-tmpt2q0g](THEORY-tmpt2q0g.md)). LoRA Composite
-([LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md), [NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)) composes operators: every LoRA-modified model
+proposals, and disjoint regions select ([THEORY-958](THEORY-958.md)). LoRA Composite
+([LIT-1529](../literature.d/LIT-1529.md), [NOTE-1160](../notes.d/NOTE-1160.md)) composes operators: every LoRA-modified model
 sees the whole image and their guided predictions are averaged, so total
-guidance stays at one scale instead of growing with k ([THEORY-tmpg6v1v](THEORY-tmpg6v1v.md)).
+guidance stays at one scale instead of growing with k ([THEORY-955](THEORY-955.md)).
 Under this account's idealization an average of k scores is the score of
 the normalized geometric mean Πᵢ pᵢ^{1/k}, a product of experts each at
 temperature k, not of the product. That derivation is the record's
-([NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)); neither paper gives a probabilistic reading. The account
+([NOTE-1160](../notes.d/NOTE-1160.md)); neither paper gives a probabilistic reading. The account
 is unchanged.

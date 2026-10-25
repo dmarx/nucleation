@@ -6,7 +6,7 @@
 
 **Thermodynamics** — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020).
 
-24 of 946 THEORY documents. Back to the [full index](../README.md).
+24 of 964 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

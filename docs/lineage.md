@@ -2,7 +2,7 @@
 
 # Lines of work
 
-70 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+71 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -66,6 +66,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
 
 ## anthology-candidate
+
+### From Partial Monitoring—Classification, Regret Bounds, and Algorithms
+
+- [LIT-1528](../record/literature.d/LIT-1528.md) — Partial Monitoring—Classification, Regret Bounds, and Algorithms *(Active)*
+  - [LIT-1524](../record/literature.d/LIT-1524.md) — Cleaning up the neighborhood: A full classification for adversarial partial monitoring *(Active)*
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
@@ -224,7 +229,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Semiorders and a Theory of Utility Discrimination
 
 - [LIT-1460](../record/literature.d/LIT-1460.md) — Semiorders and a Theory of Utility Discrimination *(Unavailable)*
-  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unavailable)*
+  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unfetched)*
 
 ### From Psychological Predicates
 
@@ -372,7 +377,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Issues as Elements of Information Systems
 
 - [LIT-758](../record/literature.d/LIT-758.md) — Issues as Elements of Information Systems *(Active)*
-  - [LIT-762](../record/literature.d/LIT-762.md) — gIBIS: a hypertext tool for exploratory policy discussion *(Unavailable)*
+  - [LIT-762](../record/literature.d/LIT-762.md) — gIBIS: a hypertext tool for exploratory policy discussion *(Unfetched)*
     - [LIT-755](../record/literature.d/LIT-755.md) — A Process-Oriented Approach to Design Rationale *(Unavailable)*
 
 ## ecology
@@ -405,8 +410,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates
 
-- [LIT-1453](../record/literature.d/LIT-1453.md) — Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates *(Unavailable)*
-  - [LIT-1456](../record/literature.d/LIT-1456.md) — Beyond Bipolar Conceptualizations and Measures: The Case of Attitudes and Evaluative Space *(Unavailable)*
+- [LIT-1453](../record/literature.d/LIT-1453.md) — Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates *(Unfetched)*
+  - [LIT-1456](../record/literature.d/LIT-1456.md) — Beyond Bipolar Conceptualizations and Measures: The Case of Attitudes and Evaluative Space *(Unfetched)*
     - [LIT-1438](../record/literature.d/LIT-1438.md) — The current status of research on the structure of evaluative space *(Active)*
 
 ### From Origins and functions of positive and negative affect: A control-process view
@@ -490,8 +495,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Potential Games
 
-- [LIT-1462](../record/literature.d/LIT-1462.md) — Potential Games *(Unavailable)*
+- [LIT-1462](../record/literature.d/LIT-1462.md) — Potential Games *(Unfetched)*
   - [LIT-1442](../record/literature.d/LIT-1442.md) — Flows and Decompositions of Games: Harmonic and Potential Games *(Active)*
+
+### From Partial Monitoring—Classification, Regret Bounds, and Algorithms
+
+- [LIT-1528](../record/literature.d/LIT-1528.md) — Partial Monitoring—Classification, Regret Bounds, and Algorithms *(Active)*
+  - [LIT-1524](../record/literature.d/LIT-1524.md) — Cleaning up the neighborhood: A full classification for adversarial partial monitoring *(Active)*
 
 ### From Governing the Commons: The Evolution of Institutions for Collective Action
 
@@ -575,6 +585,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## learning-theory
 
+### From Partial Monitoring—Classification, Regret Bounds, and Algorithms
+
+- [LIT-1528](../record/literature.d/LIT-1528.md) — Partial Monitoring—Classification, Regret Bounds, and Algorithms *(Active)*
+  - [LIT-1524](../record/literature.d/LIT-1524.md) — Cleaning up the neighborhood: A full classification for adversarial partial monitoring *(Active)*
+
 ### From The Role of the Information Bottleneck in Representation Learning
 
 - alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Unavailable)*
@@ -638,13 +653,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Potential Games
 
-- [LIT-1462](../record/literature.d/LIT-1462.md) — Potential Games *(Unavailable)*
+- [LIT-1462](../record/literature.d/LIT-1462.md) — Potential Games *(Unfetched)*
   - [LIT-1442](../record/literature.d/LIT-1442.md) — Flows and Decompositions of Games: Harmonic and Potential Games *(Active)*
 
 ### From Semiorders and a Theory of Utility Discrimination
 
 - [LIT-1460](../record/literature.d/LIT-1460.md) — Semiorders and a Theory of Utility Discrimination *(Unavailable)*
-  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unavailable)*
+  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unfetched)*
 
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
 
@@ -910,7 +925,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Semiorders and a Theory of Utility Discrimination
 
 - [LIT-1460](../record/literature.d/LIT-1460.md) — Semiorders and a Theory of Utility Discrimination *(Unavailable)*
-  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unavailable)*
+  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unfetched)*
 
 ### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
 

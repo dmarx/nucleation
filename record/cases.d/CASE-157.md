@@ -10,7 +10,7 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: A47 found two of the extension's outcomes
-    independently (CASE-tmpjmerx). The case is unchanged.
+    independently (CASE-158). The case is unchanged.
 standing: stipulated
 kind: executed-study
 tags:
@@ -199,4 +199,4 @@ A47 of the exchange of 2026-10-24, continued, reported at 03:12 UTC on
 the same two outcomes in a different model. Full-information, independent
 audits recovered after a reversal of expertise (findings 1 and 5).
 Conformity scoring, an endogenous metric, held the old allocation (finding
-2). The run is not held ([CASE-tmpjmerx](CASE-tmpjmerx.md)). The case is unchanged.
+2). The run is not held ([CASE-158](CASE-158.md)). The case is unchanged.

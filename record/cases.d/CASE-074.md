@@ -10,7 +10,7 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: the crowd formalized as a network of accumulators
-    (CASE-tmpvmjgd), its conditions held by CLAIM-tmpfd9lk, and a reported
+    (CASE-160), its conditions held by CLAIM-453, and a reported
     run of the visible tally. The case is unchanged.
 standing: stipulated
 kind: specimen
@@ -38,7 +38,7 @@ illustrates:
 supports:
 - CLAIM-272
 variants:
-- CASE-tmpvmjgd
+- CASE-160
 ---
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
@@ -102,12 +102,12 @@ not settled here:
 
 From A35–A37 of the exchange of 2026-10-24, continued.
 
-- **The reduction.** [CASE-tmpvmjgd](CASE-tmpvmjgd.md) formalizes this crowd as a linear
+- **The reduction.** [CASE-160](CASE-160.md) formalizes this crowd as a linear
   network of accumulators. The hidden tally is the balanced case κ = λ,
   where the influence-weighted support is exactly a drift-diffusion
   process. The visible tally adds positive feedback, κ > λ. In
   [CASE-155](CASE-155.md)'s two-process form the hidden tally is c = 0 and the
-  visible one c > 0, with c < 0 the contrarian case. [CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md) holds
+  visible one c > 0, with c < 0 the contrarian case. [CLAIM-453](../claims.d/CLAIM-453.md) holds
   the conditions.
 - **A35 found this case** "already describes your proposed experiment
   remarkably closely". It proposed running both protocols, free response
@@ -119,6 +119,6 @@ From A35–A37 of the exchange of 2026-10-24, continued.
   the balanced one: 18.5 against 49.5 steps, and 67.1% against 85.4%
   correct. The run is not held and its parameters are not given. The
   direction is the one this case predicts for a visible tally, and a check
-  with fixed bounds and κ − λ from 0 to 2 confirms it ([CASE-tmpvmjgd](CASE-tmpvmjgd.md)).
+  with fixed bounds and κ − λ from 0 to 2 confirms it ([CASE-160](CASE-160.md)).
 
 The case is unchanged.

@@ -33,7 +33,7 @@ history:
   date: '2026-10-25'
   note: >-
     Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
-    NOTE-tmpn1hle: like Lyre he addresses the character of experience only,
+    NOTE-1163: like Lyre he addresses the character of experience only,
     and his three layers are a structural analogue of interpretive
     organization. Nothing is added to the claim's grounds. The claim is
     unchanged.
@@ -85,7 +85,7 @@ grounds:
 <!-- inactive-ok-file: TERM-072 TERM-073 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-411 CLAIM-413 THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1346 LIT-1348 LIT-1351 LIT-1353 LIT-1354 LIT-1355 LIT-1359 — Deferred; works registered unread, cited as such -->
-<!-- inactive-ok-file: THEORY-tmpt62hk — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-959 — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
 # CLAIM-412: Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience
 
 ## The claim
@@ -347,7 +347,7 @@ The defeater is not met by any of them.
 ## Note of 2026-10-25: Isaac's layers
 
 The exchange cited Isaac ([LIT-1361](../literature.d/LIT-1361.md)) as a structuralist programme. It was
-read on 2026-10-25 in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md). Like Lyre, he addresses "one facet of
+read on 2026-10-25 in [NOTE-1163](../notes.d/NOTE-1163.md). Like Lyre, he addresses "one facet of
 consciousness", phenomenal experience, and says nothing about what makes a
 state conscious rather than not. So he bears on the claim's account of character, not on its identity,
 and [CLAIM-411](CLAIM-411.md)'s gap is untouched.
@@ -357,7 +357,7 @@ organization, in three layers: contrast within a quality space, without
 which a shade "considered in isolation" is "not apt to play any
 representational role"; invariance under transformations within experience,
 which on his account, after Cassirer, distinguishes subject from object
-([THEORY-tmpt62hk](../theory.d/THEORY-tmpt62hk.md)); and fields of valence and affordance that give the
+([THEORY-959](../theory.d/THEORY-959.md)); and fields of valence and affordance that give the
 experienced world significance and guide action. These are near the three
 parts of the claim's definition of interpretation: distinction, context and
 consequentiality. His relations are not only similarities, so Aldé's

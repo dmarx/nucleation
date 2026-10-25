@@ -127,6 +127,6 @@ whether (m, a, r) is a sufficient reduction of a population of
 perspectives. That is this question's memory closure under a declared
 projection. [CASE-124](../cases.d/CASE-124.md)'s witness 2 already shows a failure of it for (m, a).
 A42 marked the derivation of the three macro-variables from the
-population "Not established". In the linear network of [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md) the
+population "Not established". In the linear network of [CASE-160](../cases.d/CASE-160.md) the
 influence-weighted coordinate is exactly closed. The question is
 unchanged.

@@ -16,20 +16,20 @@ history:
   date: '2026-10-25'
   note: >-
     The partial-monitoring note checked against the reading of Bartók et
-    al. (NOTE-tmpupizd). The phrase about the avoid-only game is made exact
+    al. (NOTE-1164). The phrase about the avoid-only game is made exact
     (regret in the full game, linear when approach is better). Two variants
     are added: suppressed feedback gives Θ(T) and a dominated check gives
-    Θ(T^{2/3}). The floor is sufficient, not required. THEORY-tmpwtj3m is
+    Θ(T^{2/3}). The floor is sufficient, not required. THEORY-962 is
     added to grounds. The claim is unchanged.
 - version: 4
   date: '2026-10-25'
   note: >-
     The partial-monitoring note amended from the reading of Lattimore and
-    Szepesvári (LIT-tmpfjv79, NOTE-tmpkgxba). The check variant is their
+    Szepesvári (LIT-1524, NOTE-1162). The check variant is their
     spam game with general H and c, and its easy case is k ≤ Hc/(H + c): at
     equality the check is degenerate, which their classification for all
-    games (THEORY-tmpyulw1) places in the easy class and Bartók et al.'s
-    adversarial theorem did not cover. THEORY-tmpyulw1 is added to grounds.
+    games (THEORY-963) places in the easy class and Bartók et al.'s
+    adversarial theorem did not cover. THEORY-963 is added to grounds.
     The claim is unchanged.
 role: thesis
 warrant: interpretive
@@ -76,8 +76,8 @@ grounds:
 - THEORY-897
 - THEORY-910
 - THEORY-915
-- THEORY-tmpwtj3m
-- THEORY-tmpyulw1
+- THEORY-962
+- THEORY-963
 - LIT-1498
 - LIT-1477
 - LIT-1479
@@ -100,7 +100,7 @@ illustrated_by:
 supports:
 - CLAIM-445
 ---
-<!-- inactive-ok-file: THEORY-tmpz3a05 — Superseded by THEORY-tmpyulw1; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-tmpyulw1 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-925 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
@@ -251,7 +251,7 @@ simulation, not evidence about anxiety ([CLAIM-427](CLAIM-427.md)).
 ## Note of 2026-10-25: the approach–avoid game as partial monitoring
 
 Partial monitoring (Bartók, Foster, Pál, Rakhlin and Szepesvári 2014,
-[LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md), read in [NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md)) came up three times in the exchange of
+[LIT-1528](../literature.d/LIT-1528.md), read in [NOTE-1164](../notes.d/NOTE-1164.md)) came up three times in the exchange of
 2026-10-24, continued (A29, A30, A31). A29 offered it as "the
 informational problem behind" this claim. Worked through, the toy shows
 the opposite emphasis.
@@ -268,14 +268,14 @@ least squares, H = 5 and c = 1: residual 4.24 for avoid alone, 0 for
 approach. The reading confirms it. The two actions are neighbours, both
 optimal at the boundary p = c/(H + c), and the game is non-degenerate, so
 its class is Θ̃(√T) against a stochastic environment and Θ(√T) against an
-adversarial one. The condition and the worked case are [THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md),
-and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), and for every finite game
-[THEORY-tmpyulw1](../theory.d/THEORY-tmpyulw1.md).
+adversarial one. The condition and the worked case are [THEORY-962](../theory.d/THEORY-962.md),
+and the classes are [THEORY-964](../theory.d/THEORY-964.md), and for every finite game
+[THEORY-963](../theory.d/THEORY-963.md).
 
 - **Access, not observability.** A learner that keeps playing approach
   learns the comparison. A learner whose governing process removes
   approach from its accessible actions faces a game in which the
-  comparison cannot be learned ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)). Its regret, measured in
+  comparison cannot be learned ([THEORY-962](../theory.d/THEORY-962.md)). Its regret, measured in
   the full game, grows linearly when approach is in fact better. Regret in
   the avoid-only game is zero by definition, because regret is measured
   against the actions available. The cost appears only against the
@@ -287,7 +287,7 @@ and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), and for e
   be capable of resolving a question yet remain unused because the process
   controlling action prevents it from being selected."
 - **Two variants**, both by the same lemma and both the record's
-  constructions ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)).
+  constructions ([THEORY-962](../theory.d/THEORY-962.md)).
   - *Safety behaviour as suppressed feedback.* Suppose approach is
     performed but shows one symbol whatever the outcome. Then no action
     reveals the outcome, the game is not globally observable, and its
@@ -302,15 +302,15 @@ and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), and for e
     This is a formal counterpart to the hypervigilance paragraph above:
     checking that reveals the outcome but costs more than it is worth
     makes the comparison expensive to learn, not impossible. This variant
-    is Lattimore and Szepesvári's spam game ([LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md), Example 1) with
+    is Lattimore and Szepesvári's spam game ([LIT-1524](../literature.d/LIT-1524.md), Example 1) with
     general H and c. With H = c = 1, avoid is "spam", approach is "not
     spam" and the check is "don't know". Their classification for all
-    games ([THEORY-tmpyulw1](../theory.d/THEORY-tmpyulw1.md)) places the boundary case k = Hc/(H + c), where
+    games ([THEORY-963](../theory.d/THEORY-963.md)) places the boundary case k = Hc/(H + c), where
     the check is degenerate and optimal only at p = c/(H + c), in the easy
     class. Bartók et al.'s adversarial theorem did not cover it. So the
     easy case is k ≤ Hc/(H + c), and checking that costs exactly what it
     saves at the indifference point is still cheap to learn from
-    ([THEORY-tmpwqg2f](../theory.d/THEORY-tmpwqg2f.md)). The construction is no longer only the record's:
+    ([THEORY-961](../theory.d/THEORY-961.md)). The construction is no longer only the record's:
     its H = c = 1 case is the paper's motivating example.
 - **The floor** is [QUESTION-271](../questions.d/QUESTION-271.md)'s exploration floor, the price COMA
   pays as well ([THEORY-925](../theory.d/THEORY-925.md)). A floor is sufficient, not required. Bartók
@@ -319,7 +319,7 @@ and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), and for e
   expected loss. Kwon and Perchet's
   approachability algorithm does keep one, γ/|I| on every decision with γ
   of order T^{-1/3}, because its signals depend on the decision
-  ([THEORY-tmpjv5er](../theory.d/THEORY-tmpjv5er.md)).
+  ([THEORY-957](../theory.d/THEORY-957.md)).
 - **The guarantees stop** where authority edits the losses or the feedback
   channels during learning. A29: "we should first use the classical setting
   as a baseline, then study controlled changes in H, not attribute those

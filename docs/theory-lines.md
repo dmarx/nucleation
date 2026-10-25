@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-101 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+102 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -389,6 +389,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-119](../record/theory.d/THEORY-119.md) — An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false *(Proposed)*
   - [THEORY-121](../record/theory.d/THEORY-121.md) — Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism *(Active)*
 
+## game-theory
+
+### From In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison
+
+- [THEORY-962](../record/theory.d/THEORY-962.md) — In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison *(Active)*
+  - [THEORY-961](../record/theory.d/THEORY-961.md) — In a finite partial-monitoring game, an action optimal wherever two neighbouring actions tie has a loss vector on the segment between theirs, so a degenerate or duplicate action never creates a neighbouring pair or decides the trivial class, yet its signals count toward the pair's local observability; and the T^2/3 lower bound for a pair that is not locally observable needs the separating direction in the kernel of the signal matrices of all such actions, not only of the two neighbours *(Active)*
+
 ## individuation
 
 ### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
@@ -610,6 +617,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-349](../record/theory.d/THEORY-349.md) — For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class *(Active)*
   - [THEORY-354](../record/theory.d/THEORY-354.md) — An observer's power to refute a predictor depends on its access to the predictor as well as on its budget: against tests that see only the sampled prediction a predictor of size O(s/ε²) always passes, but if fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests that may query the predictor adaptively pass only predictors about as costly as nature's own *(Active)*
+
+### From In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison
+
+- [THEORY-962](../record/theory.d/THEORY-962.md) — In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison *(Active)*
+  - [THEORY-961](../record/theory.d/THEORY-961.md) — In a finite partial-monitoring game, an action optimal wherever two neighbouring actions tie has a loss vector on the segment between theirs, so a degenerate or duplicate action never creates a neighbouring pair or decides the trivial class, yet its signals count toward the pair's local observability; and the T^2/3 lower bound for a pair that is not locally observable needs the separating direction in the kernel of the signal matrices of all such actions, not only of the two neighbours *(Active)*
 
 ## linguistics
 

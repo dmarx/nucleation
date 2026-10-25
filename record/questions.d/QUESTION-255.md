@@ -33,7 +33,7 @@ history:
   date: '2026-10-25'
   note: >-
     Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
-    NOTE-tmpn1hle: its dynamical structure is material for kind (1), not
+    NOTE-1163: its dynamical structure is material for kind (1), not
     kind (2). The Note of 2026-10-22 said Isaac could not be reached and was
     Unavailable; that sentence now points to the new note, and LIT-1361 is
     dropped from the inactive-ok comment, as it is now Active. The question
@@ -62,7 +62,7 @@ answered_by:
 - THEORY-875
 ---
 <!-- inactive-ok-file: CLAIM-196 CLAIM-198 CLAIM-355 CLAIM-368 CLAIM-412 THEORY-063 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmpt62hk — Proposed; a reading cited as material, nothing here rests on its being settled -->
+<!-- inactive-ok-file: THEORY-959 — Proposed; a reading cited as material, nothing here rests on its being settled -->
 # QUESTION-255: Can an empirical model that genuinely fails to glue, under a specified cover and correspondence between its contexts, take part in one phenomenally unified process, given that a unified experience can contain conflicting interpretations or demands and that such conflicts are not by themselves gluing obstructions?
 
 ## The question
@@ -216,12 +216,12 @@ Note of 2026-10-25 below.
 
 ## Note of 2026-10-25: Isaac's dynamical structure
 
-Isaac ([LIT-1361](../literature.d/LIT-1361.md)), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md), gives the dynamical structure
+Isaac ([LIT-1361](../literature.d/LIT-1361.md)), read in [NOTE-1163](../notes.d/NOTE-1163.md), gives the dynamical structure
 as a vector field of competing valences and affordances over one
 experienced space (the hot handle's invitation and the remembered heat's
 repulsion felt together). It has no cover, local sections or gluing
 condition, and forces in a field superpose, which is globally
 consistent. So it is material for a kind-(1) reading of felt conflict,
 one global state holding both sides, not a model of kind (2). Its two
-co-present levels of colour experience ([THEORY-tmpt62hk](../theory.d/THEORY-tmpt62hk.md)) are another
+co-present levels of colour experience ([THEORY-959](../theory.d/THEORY-959.md)) are another
 kind-(1) case. The inference is the record's. The question is unchanged.

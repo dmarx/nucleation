@@ -10,7 +10,7 @@ history:
   date: '2026-10-25'
   note: >-
     A dated note added: the response geometry of the mixture, filed as
-    CASE-tmplg5jg. The claim is unchanged.
+    CASE-159. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,9 +50,9 @@ summary: >-
 illustrated_by:
 - CASE-155
 - CASE-157
-- CASE-tmplg5jg
+- CASE-159
 supports:
-- CLAIM-tmpa8ttt
+- CLAIM-452
 ---
 <!-- inactive-ok-file: THEORY-899 CASE-155 CLAIM-443 CLAIM-448 — Proposed or new, filed in this pull request -->
 <!-- inactive-ok-file: CLAIM-369 THEORY-894 THEORY-896 CLAIM-451 — cited as the tools the reduction brings in -->
@@ -146,7 +146,7 @@ rechecked: for q = ∇Φ, the replicator is the Riesz representer of dΦ in
 g(v, w) = Σ vᵢwᵢ/πᵢ, and dΦ/dt = Var_π(q). That metric is the one in which
 authority moves. The metric in which evidence about authority arrives,
 when only the organization's responses are seen, is its pullback through
-the processes' response profiles, and is never larger ([CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md)). So
+the processes' response profiles, and is never larger ([CASE-159](../cases.d/CASE-159.md)). So
 the mixture condition has a cost: a redistribution between processes that
 agree under the current probes is a change of state the probes cannot see.
 The claim is unchanged.

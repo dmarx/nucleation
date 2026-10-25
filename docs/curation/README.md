@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [25 Oct 04:19 — Seven works registered unread from the exchange on partial monitoring, drift–diffusion and diffusion populations; four named works not registered](2026-10.md#seven-works-registered-unread-from-the-exchange-on-partial-monitoring-driftdiffusion-and-diffusion-populations-four-named-works-not-registered)
 - [24 Oct 17:31 — Multi-agent learning and learning in games: twenty-one works registered and sought, eighteen read, three Unavailable; twenty-three Proposed THEORYs](2026-10.md#multi-agent-learning-and-learning-in-games-twenty-one-works-registered-and-sought-eighteen-read-three-unavailable-twenty-three-proposed-theorys)
 - [24 Oct 07:01 — Soma et al., "The hive mind is a single reinforcement learning agent", filed and read at the owner's request](2026-10.md#soma-et-al-the-hive-mind-is-a-single-reinforcement-learning-agent-filed-and-read-at-the-owners-request)
 - [24 Oct 03:47 — The exchange's twenty-eight works sought: eighteen read, ten Unavailable; twenty-five Proposed THEORYs, and what the reading corrected](2026-10.md#the-exchanges-twenty-eight-works-sought-eighteen-read-ten-unavailable-twenty-five-proposed-theorys-and-what-the-reading-corrected)
@@ -131,9 +132,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-169 entries across 2 books, newest first.
+170 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 122 | 2026-10-01 | 2026-10-24 |
+| [2026-10](2026-10.md) | 123 | 2026-10-01 | 2026-10-25 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
