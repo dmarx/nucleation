@@ -4,13 +4,22 @@ status: Open
 formerly:
 - QUESTION-tmpybqw8
 title: 'When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
   note: >-
     A dated note added: experimental design as the choice of probes, with
     CASE-tmplg5jg. The question is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 checked against the reading of Chaloner and
+    Verdinelli (NOTE-tmpj2iwk): the log det criterion is Bayes
+    D-optimality, A29's aim is a c-, Ds- or discrimination criterion, and
+    design ranks probe families without giving a separation condition. A
+    lemma from partial monitoring answers one decision family. The question
+    is unchanged and stays Open.
 tags:
 - mathematics
 - pragmatics
@@ -28,7 +37,6 @@ summary: >-
 answered_by:
 - CLAIM-193
 ---
-<!-- inactive-ok-file: LIT-tmpi60b0 — Deferred; a work registered unread the same day, cited as open -->
 <!-- inactive-ok-file: CLAIM-129 CLAIM-149 THEORY-008 THEORY-019 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-077 CLAIM-050 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
@@ -114,8 +122,8 @@ readout can decode only what is a function of the normalized kernel.
 ## Note of 2026-10-25: choosing probes
 
 From A29–A31 of the exchange of 2026-10-24, continued. Bayesian
-experimental design (Chaloner and Verdinelli 1995, [LIT-tmpi60b0](../literature.d/LIT-tmpi60b0.md), registered
-unread the same day) turns this question into a choice: pick the design ξ over
+experimental design (Chaloner and Verdinelli 1995, LIT-tmpi60b0, read in
+NOTE-tmpj2iwk) turns this question into a choice: pick the design ξ over
 contexts that maximizes a criterion of G_ξ = Σ_c ξ(c)G_c (log det, or a
 discrimination or prediction criterion fixed by the task). A29: "our
 objectives are often more specific. We might care about distinguishing the
@@ -125,5 +133,21 @@ G_aa = b₀² > 0 (checked). In [CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md), a 
 shares identifiable that routine probes leave invisible. Both separate by
 changing the experiment, not the coordinates ([CLAIM-305](../claims.d/CLAIM-305.md)). A caution from
 A29, with [CLAIM-130](../claims.d/CLAIM-130.md): changing a participant's standing to separate
-explanations "could also change which communicative act is performed". The
-question is unchanged.
+explanations "could also change which communicative act is performed".
+
+The reading places these. Σ_c ξ(c)G_c with log det is Bayes D-optimality
+on the expected Fisher information (THEORY-tmpig9py for the linear case,
+THEORY-tmpg6jfa for the nonlinear one). A29's "distinguish authority from
+legibility" is c- or Ds-optimality, or Spezzaferri's discrimination
+criterion (NOTE-tmpj2iwk, §8.3). The review gives no separation condition:
+it ranks probe families by a utility, and so it does not answer this
+question.
+
+One decision family does have an answer. In a finite partial-monitoring
+game, two outcome laws that agree on the signals of every probe in a set D
+also agree on the comparison of actions i and j for every such pair iff
+ℓ_i − ℓ_j lies in the span of those probes' signal row spaces
+(THEORY-tmpwtj3m, from Bartók et al.). That condition can be checked
+before any data. It covers pairwise comparisons only, with deterministic
+or known-law signals, so the question stays Open. The question is
+unchanged.

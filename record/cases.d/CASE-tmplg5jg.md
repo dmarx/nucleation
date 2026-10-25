@@ -2,6 +2,15 @@
 status: Active
 title: 'Authority geometry and response geometry: when an organization''s response is the authority-weighted mixture p_π(y | c) = Σ πᵢ pᵢ(y | c), the Fisher metric of its responses is the pullback JᵀD⁻¹J of the categorical (Shahshahani) metric on the shares π and never exceeds it; it vanishes along any redistribution between processes that respond alike under the probes used, so two specialists who both answer yes with probability 0.8 in routine contexts carry no information about their shares there, while a rare context in which they answer 0.9 and 0.1 carries 0.64/(p(1 − p)) per observation, p = 0.1 + 0.8π'
 version: 1
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed from U28–U31 of the exchange. Amended the same day after the
+    reading of Chaloner and Verdinelli (NOTE-tmpj2iwk): choosing probes is a
+    nonlinear design problem, and a three-process D-optimal design is
+    worked and certified. The inaccessible-probe caveat cites
+    THEORY-tmpwtj3m.
 standing: stipulated
 kind: construction
 tags:
@@ -77,6 +86,30 @@ interventions relevant to a declared task". "These need not coincide."
 This case is the second without the first, since the profiles are known
 and the model is regular in π. It says nothing about the third.
 
+## Choosing the probes
+
+Choosing a design ξ over contexts to maximize a criterion of
+G_ξ = Σ_c ξ(c)G_c is a *nonlinear* design problem in Chaloner and
+Verdinelli's sense (NOTE-tmpj2iwk), because the information depends on π.
+An optimal design has to be stated at a guess of π or averaged over a prior
+on it, and local optimality is the point-mass case (THEORY-tmpg6jfa).
+Adaptive probing, which updates the guess between probes, should gain over
+a fixed design there, as it does not in the normal linear model
+(THEORY-tmpig9py). In the two-specialist case above the answer does not
+depend on π: the routine context carries no information, so every
+criterion that increases with information puts all mass on the rare one.
+
+A three-process illustration, checked by script. Four contexts with
+response profiles (rows contexts, columns processes) (0.8, 0.8, 0.8),
+(0.9, 0.1, 0.5), (0.6, 0.6, 0.1) and (0.7, 0.75, 0.72), at
+π = (0.5, 0.3, 0.2). The D-optimal design is ξ = (0, ½, ½, 0), all weight on
+the two contexts that separate the processes. Its sensitivities
+tr(G_ξ⁻¹G_c) are (0, 2, 2, 0.0097), none above the dimension 2 of the
+tangent space, which certifies it by the equivalence theorem. Its log det
+is −0.42, against −1.80 for the uniform design and −5.02 for a
+routine-heavy one (0.85, 0.05, 0.05, 0.05). The values hold at this π
+only.
+
 ## What it can show
 
 That an organization can reorganize internally while its judgements stay
@@ -95,6 +128,8 @@ geometry in which evidence about it arrives.
   assume singularity implies a particular learning coefficient."
 - That choosing probes well removes the problem. Probes on which the
   processes disagree must also be accessible to the evaluator, which is
-  [QUESTION-271](../questions.d/QUESTION-271.md)'s failure of bandit feedback.
+  [QUESTION-271](../questions.d/QUESTION-271.md)'s failure of bandit feedback. An inaccessible probe is an
+  action outside the set D of THEORY-tmpwtj3m, and what the remaining
+  probes cannot see stays unlearnable however long they are used.
 - That two processes that agree under the probes are the same
   communicative kind, or differ as one ([CLAIM-150](../claims.d/CLAIM-150.md)).

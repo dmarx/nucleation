@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpl8vsy
 title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-18'
@@ -20,6 +20,13 @@ history:
   note: >-
     A dated note added: Blackwell approachability as the repeated version of
     the worst residual, and the cost of averaging. The claim is unchanged.
+- version: 4
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 checked against the reading of Kwon and Perchet
+    (NOTE-tmpfxkdt): their target is exactly this claim's set and their
+    distance the ℓ₂ norm of the positive parts of the average, so the
+    caution about averaging is made exact. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,7 +69,7 @@ summary: >-
   influence responsible. A35: "Importantly, these dual multipliers are not
   endorsement weights."
 ---
-<!-- inactive-ok-file: LIT-tmpm3j41 — Deferred; a work registered unread the same day, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp172nr — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 
 # CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns
 
@@ -179,7 +186,11 @@ residual m(d) = maxᵢ(εᵢ + gᵢᵀd) is a one-shot test against the target s
 {z : zᵢ ≤ 0 for every i}. Blackwell approachability asks the repeated
 version: whether a learner can drive dist((1/T)Σ f_t, C) → 0 for a vector
 of demand residuals f_t against disturbance or opposition. Kwon and Perchet
-(2017, [LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md), registered unread the same day) treat it under partial feedback.
+(2017, LIT-tmpm3j41, read in NOTE-tmpfxkdt) treat it under partial feedback.
+Their target is exactly this claim's {z : zᵢ ≤ 0}, and the distance they
+use is ‖(ḡ_T)₊‖₂, the ℓ₂ norm of the positive parts of the average
+(THEORY-tmp172nr). A requirement violated by 1 on alternate stages and met
+by 1 on the others has average 0 and is approached perfectly.
 Two cautions from the replies. First, averaging is compensatory:
 "violating a safety requirement today may not be remedied by outperforming
 it tomorrow" (A30), and a rolling-window requirement "is stronger than
