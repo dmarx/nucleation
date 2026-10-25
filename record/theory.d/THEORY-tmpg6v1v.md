@@ -1,73 +1,94 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpg6v1v:` heading; the lint checks
-# that the two agree.
-title: 'x3'
-
+status: Active
+title: 'On 480 sets of two to five public LoRAs on two Stable Diffusion 1.5 checkpoints, GPT-4V''s paired judgements, averaged over both presentation orders and three seeds, scored giving each LoRA its own denoising steps in rotation (LoRA Switch) and averaging every LoRA''s guided noise prediction at every step (LoRA Composite) above merging the LoRAs'' weights at 0.8 each, at every number of LoRAs, the composition gap growing from 0.04–0.11 points of 10 at two LoRAs to 0.92–1.32 at five as merging fell from about 8.7 to 5.2; two annotators rating 120 images agreed in direction; the design does not separate composing at sampling time from the merged update''s scale growing with the number of LoRAs'
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed Active from NOTE-tmphq8v2. Fig. 3 and Table 2 of one paper, read
+    in full; the title claims what was measured, by the judge that measured
+    it, and nothing in the record contradicts it, which meets ADR-047 v3.
+    The scale confound is the record's reading of the design.
 tags:
-- complex-systems
-
+- compositionality
 date: '2026-10-25'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpxsvgv
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Zhong et al. (2024), LIT-tmpxsvgv, read in NOTE-tmphq8v2. The measurement
+  is a GPT-4V comparison with a positional bias of about ten points,
+  correlated 0.45 with two annotators, on LoRAs selected to be compatible.
+  The two methods are compared with each other only through the baseline.
+  It does not show that sampling-time composition is what helps: the
+  baseline adds k updates at full scale, the two methods keep one
+  adapter's scale.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpg6v1v: x3
+# THEORY-tmpg6v1v: On 480 sets of two to five public LoRAs on two Stable Diffusion 1.5 checkpoints, GPT-4V's paired judgements, averaged over both presentation orders and three seeds, scored giving each LoRA its own denoising steps in rotation (LoRA Switch) and averaging every LoRA's guided noise prediction at every step (LoRA Composite) above merging the LoRAs' weights at 0.8 each, at every number of LoRAs, the composition gap growing from 0.04–0.11 points of 10 at two LoRAs to 0.92–1.32 at five as merging fell from about 8.7 to 5.2; two annotators rating 120 images agreed in direction; the design does not separate composing at sampling time from the merged update's scale growing with the number of LoRAs
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Zhong, Shen, Wang, Lu, Jiao, Ouyang, Yu, Han and Chen (2024), "Multi-LoRA
+Composition for Image Generation", TMLR, LIT-tmpxsvgv, read in full in
+NOTE-tmphq8v2 from arXiv v2. Fig. 3, Table 2 and Fig. 6.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**Methods.** Merge: W′ = W + Σᵢ 0.8·BᵢAᵢ. Switch: W′_t = W + 0.8·BᵢAᵢ with i
+rotating every 5 steps. Composite: the mean over i of the guided
+prediction of the model carrying LoRA i alone, which with unit weights is
+classifier-free guidance on the mean model,
+ē(z_t) + s(ē(z_t, c) − ē(z_t)).
+
+**Testbed.** 22 LoRAs from civitai.com in two styles (realistic and
+anime, each on its own SD 1.5 fine-tune), 480 sets with one character
+and no repeated category: 48, 144, 192 and 96 sets of 2, 3, 4 and 5.
+
+**Measurement.** GPT-4V sees one image from each of two methods and
+scores composition and image quality from 0 to 10 by a deduction rubric,
+told to "evaluate critically" and "Try not to let the two models end in a
+tie on both dimensions". Swapping the order moved win rates by about ten
+points (Fig. 6), so both orders are averaged. Three seeds are averaged.
+
+**Composition scores (method / Merge), k = 2 → 5.** Switch 8.69/8.65,
+8.11/7.96, 7.20/6.68, 6.56/5.24. Composite 8.85/8.74, 8.12/7.87,
+7.10/6.68, 6.09/5.17. Image quality also favoured both methods at every
+k, by 0.06–0.42. Composition win rates at k = 5: Switch 69%, Composite
+55%.
+
+**Humans (Table 2).** Two graduate students rated 120 images 1–5:
+composition Merge 3.14, Switch 3.91, Composite 3.78; image 2.94, 4.15,
+4.35. GPT-4V's scores correlated with theirs at 0.454 and 0.457,
+CLIPScore at −0.006 and 0.083.
+
+What could have come out otherwise: merging could have held up as LoRAs
+were added, or the two sampling-time methods could have degraded as fast,
+since every method's scores fall with k. Merging fell further.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **Not that composing in the sampler is the cause.** Merge was run at
+  0.8 per LoRA, so its summed update grows with k, while Switch applies one
+  adapter at a time and Composite averages k single-adapter models. A
+  Merge with weights scaled by 1/k was not run, so the growing gap may
+  owe as much to adapter scale as to where composition happens.
+- **Not that Switch is better at composition and Composite at image
+  quality.** The paper says so, from each method's win rate against Merge.
+  GPT-4V never compared them directly. The human ratings agree in
+  direction on 120 images with no agreement statistic.
+- **Not that composition works.** At five LoRAs the best composition
+  score is 6.56 of 10, and the LoRAs were selected to be compatible.
+- **Not a probabilistic composition.** Composite averages guided
+  predictions, which under THEORY-405's idealization would be the score
+  of a geometric mean of the LoRA models' distributions, not their product
+  (NOTE-tmphq8v2).
+
+## Connections
+
+- **THEORY-405 and CLAIM-123.** Composable Diffusion sums one guidance
+  term per concept; Composite averages, keeping total guidance at s.
+- **THEORY-tmpt2q0g.** Composite is MultiDiffusion's noise-prediction
+  step with every mask full and LoRA-modified models as the views.
+- **CASE-tmpjmerx.** Per-step combination of frozen, separately trained
+  LoRA operators is the case's fixed-allocation arm without masks.

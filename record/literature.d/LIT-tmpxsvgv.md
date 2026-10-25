@@ -1,11 +1,22 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-25, not read. Registered as prior art for turns U45 and
-  U46 of the owner's exchange of 2026-10-24/25, which named "multi-LoRA
-  image composition" at U46 without citing a work. No NOTE is filed.
+  read 2026-10-25 (NOTE-tmphq8v2) in full, from arXiv v2, the TMLR
+  version; worth reading for two ways of letting separately trained
+  low-rank operators act on one denoising trajectory without merging them,
+  by turns (LoRA Switch) or by averaging their guided predictions (LoRA
+  Composite), for GPT-4V and human judgements preferring both to weight
+  merging as LoRAs are added (THEORY-tmpg6v1v), and for its ablation in
+  which, at equal shares of steps, the switching interval and the LoRA
+  acting first change the result (THEORY-tmp6s2xi). Read it knowing that
+  the merging baseline's summed update grows with the number of LoRAs,
+  which the design does not separate from the methods' idea; that the two
+  methods are never compared head to head by the judge; that the judge
+  has a positional bias of about ten points and correlates 0.45 with two
+  annotators; and that §5.1.1 attributes LoRA Switch's scores to LoRA
+  Composite.
 title: 'Multi-LoRA Composition for Image Generation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -22,12 +33,21 @@ history:
     26 February 2024, which is `published:`; v2 of 19 November 2024 gives
     Transactions on Machine Learning Research (TMLR), 2024. The summary
     follows the arXiv abstract.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Read in full (NOTE-tmphq8v2), from arXiv v2, which is headed as the
+    TMLR (11/2024) version. Status Deferred → Active. THEORY-tmpg6v1v (the
+    main comparison) and THEORY-tmp6s2xi (the switching ablation,
+    Proposed) filed. The OpenReview forum of the TMLR review is added as
+    the URL. The summary is checked against the reading and kept.
 tags:
 - compositionality
 - anthology-candidate
 date: '2026-10-25'
 published: '2024-02-26'
 arxiv: '2402.16843'
+url: 'https://openreview.net/forum?id=25FT0DqhVZ'
 first_author: 'Zhong'
 keywords:
 - 'LoRA'
@@ -47,14 +67,18 @@ summary: >-
   prevalent baseline, most clearly as the number of LoRAs grows
   (abstract).
 ---
+<!-- inactive-ok-file: THEORY-tmp6s2xi — Proposed; this reading's account of the switching ablation, its sample unreported -->
 # LIT-tmpxsvgv: Multi-LoRA Composition for Image Generation
 
 Zhong, M., Shen, Y., Wang, S., Lu, Y., Jiao, Y., Ouyang, S., Yu, D., Han,
 J. & Chen, W. (2024). Multi-LoRA composition for image generation.
 *Transactions on Machine Learning Research*. arXiv:2402.16843.
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+Read in full on 2026-10-25 (NOTE-tmphq8v2). The main comparison is held
+in THEORY-tmpg6v1v and the switching ablation in THEORY-tmp6s2xi. LoRA
+Composite turns out to be MultiDiffusion's per-step average
+(LIT-tmp03agp, THEORY-tmpt2q0g) with every mask full and LoRA-modified
+models in place of prompts.
 
 ## Why this is here
 

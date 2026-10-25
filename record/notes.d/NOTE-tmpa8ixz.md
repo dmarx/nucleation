@@ -36,7 +36,7 @@ summary: >-
   the reference model's path holds only at zero loss, which disagreeing
   overlaps do not reach.
 ---
-<!-- inactive-ok-file: CLAIM-336 CLAIM-297 CLAIM-279 CLAIM-321 THEORY-937 — Proposed; the operator model, the claims and the router reading this reading bears on, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-336 — Proposed; the operator model this reading bears on, cited as open, nothing here rests on its being settled -->
 
 # NOTE-tmpa8ixz: Bar-Tal, Yariv, Lipman and Dekel — MultiDiffusion
 

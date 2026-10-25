@@ -1,73 +1,96 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmp6s2xi:` heading; the lint checks
-# that the two agree.
-title: 'x4'
-
+  Either the ablation's design reported (which composition sets and numbers
+  of LoRAs, how many images, and the spread across seeds), with the effects
+  of the switching interval and of the first LoRA exceeding that spread; or
+  an independent measurement in which, at matched per-operator step
+  budgets, changing the switching interval or the operator that acts first
+  changes the output beyond seed variation, preferably measured as each
+  operator's counterfactual effect on the image. More GPT-4V win rates on
+  the same unreported sample do not meet it.
+title: 'When several LoRAs take turns over one denoising trajectory, each given the same share of steps, the result depends on the schedule and not only on the shares: switching at every step scored worst (a composition win rate against weight merging near 38%, against about 59% when each LoRA kept five consecutive steps), shortening the turns late in sampling scored worse than keeping them fixed, and which LoRA acted first mattered more than the order of the rest, the character first scoring best and the style first slightly below a random order'
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed Proposed from NOTE-tmphq8v2. Fig. 5 and Table 3 of one paper,
+    read in full, but the ablation's sample is not stated and no spread is
+    given, so its own design cannot be checked to support the effects as
+    stated. Fig. 5's values are read off a plot.
 tags:
-- complex-systems
-
+- compositionality
 date: '2026-10-25'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpxsvgv
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Zhong et al. (2024), LIT-tmpxsvgv, read in NOTE-tmphq8v2. An ablation of
+  LoRA Switch judged by GPT-4V against weight merging. It says that equal
+  shares of steps do not fix the outcome; it does not say how large the
+  order effect is beyond noise, or how much each LoRA contributes to the
+  image, which was not measured. The authors' explanation, that core
+  elements should come first, is theirs and untested.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmp6s2xi: x4
+# THEORY-tmp6s2xi: When several LoRAs take turns over one denoising trajectory, each given the same share of steps, the result depends on the schedule and not only on the shares: switching at every step scored worst (a composition win rate against weight merging near 38%, against about 59% when each LoRA kept five consecutive steps), shortening the turns late in sampling scored worse than keeping them fixed, and which LoRA acted first mattered more than the order of the rest, the character first scoring best and the style first slightly below a random order
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Zhong et al. (2024), TMLR, LIT-tmpxsvgv, read in full in NOTE-tmphq8v2.
+§4.3.2, Fig. 5 and Table 3.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+LoRA Switch activates LoRA i = ⌊((t − 1) mod kτ)/τ⌋ + 1 at step t, so over
+whole cycles each of k LoRAs acts on 1/k of the steps whatever τ is.
+
+- **Interval (Fig. 5(a), Table 3).** Composition win rate against Merge,
+  read off the plot: about 38% at τ = 1, rising to about 59% at τ = 5;
+  Table 3 gives 55, 57, 59, 58 at τ = 3–6, and image-quality win rates
+  29, 33, 34, 33. τ = 7 on the plot is about 60%. In the authors' words,
+  "overly frequent switching, such as changing LoRAs at every denoising
+  step, leads to distortions in generated images".
+- **Dynamic intervals (Table 3).** τ rising 3 → 5 over sampling: 57 and
+  33. Warm-up (rising over the first half, then 5): 58 and 34. τ falling
+  5 → 3: 54 and 31, the worst.
+- **Order (Fig. 5(b)).** Character first, the rest random, scores highest
+  for composition (about 7.5 of 10 on the plot). Clothing, background or
+  object first is comparable to a fully random order, and style first
+  falls "slightly below a random order". The authors: "the initial choice
+  of LoRA in the activation sequence clearly influences overall
+  performance, while alterations in the subsequent order have minimal
+  impact."
+
+What could have come out otherwise: with shares held equal, the schedule
+could have made no difference, as it would if the trajectory simply
+summed each LoRA's contributions.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **Not how large the effects are against noise.** The ablation's sets,
+  number of LoRAs and image count are not given, nor any spread. The
+  order differences on Fig. 5(b) are a few tenths of a point.
+- **Not that each LoRA's influence on the image depends on its position.**
+  Only overall scores were measured. Whether the first LoRA's element is
+  rendered better, or the others' worse, is not reported.
+- **Not why.** "prioritizing core image elements in the initial stage" is
+  the authors' reading. The record's diffusion literature on layout being
+  set early (MultiDiffusion's "the layout is being determined early on in
+  the diffusion process", NOTE-tmpa8ixz) is consistent with it and does not
+  test it.
+- **Not beyond this setting.** Two SD 1.5 fine-tunes, LoRAs chosen to be
+  compatible, GPT-4V as judge.
+
+## Connections
+
+- **QUESTION-tmpu6zq7.** The owner's third mechanism counted influence as
+  "the number of iterations ... a given denoiser can apply". Here the
+  number of iterations is held equal and the outcome still moves with
+  interval and order, as A33's "Authority can reside in sequence position,
+  not just frequency" proposed. If promoted, this is evidence that the
+  mechanism does not reduce to a time-averaged vector of influence
+  weights.
+- **THEORY-tmp5q0ny.** MultiDiffusion's early masked phase is a second
+  case of the same allocation used differently early in sampling changing
+  the result.

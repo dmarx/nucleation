@@ -30,7 +30,7 @@ summary: >-
   the number of LoRAs, which the design does not separate from the
   decoding-time idea.
 ---
-<!-- inactive-ok-file: CLAIM-336 CLAIM-297 CLAIM-321 THEORY-937 THEORY-927 CLAIM-278 — Proposed; the operator model, the mixture-of-experts readings and the claims this reading bears on, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-336 — Proposed; the operator model this reading bears on, cited as open, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-tmp6s2xi — Proposed; this reading's own account of the switching ablation, its sample unreported -->
 
 # NOTE-tmphq8v2: Zhong et al. — Multi-LoRA composition for image generation
