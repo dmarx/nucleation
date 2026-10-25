@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,13 @@ history:
   note: >-
     A dated note added: the exchange's running population model and typed
     workspace read against the claim. The claim is unchanged.
+- version: 4
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 extended after the readings of MultiDiffusion
+    and Multi-LoRA composition: A45's distinction maps onto the two papers,
+    with a caution that prompt-as-frame and LoRA-as-operator do not separate
+    cleanly. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -169,7 +176,16 @@ it held. A42 cited this claim for its proposal of a typed workspace.
   shared state.
 - A45: distinguish "a population with multiple genuinely specialized
   operators from a population with different interpretations of one shared
-  operator".
+  operator". The two published works read on 2026-10-25 are its two
+  sides. MultiDiffusion (LIT-tmp03agp, NOTE-tmpa8ixz) is different
+  interpretations of one shared operator: one network, many frames or
+  prompts, masks as influence. Multi-LoRA composition (LIT-tmpxsvgv,
+  NOTE-tmphq8v2) is several specialized operators under one shared frame,
+  with uniform influence (Composite) or influence sliced in time (Switch).
+  A caution for the typed-workspace mapping above: in Multi-LoRA the
+  shared prompt carries each LoRA's trigger words, so an operator acts
+  partly through the frame, and prompt-as-frame and LoRA-as-operator do
+  not separate cleanly.
 
 No joint prediction of the two lines was derived, so the claim stays
 untested. The claim is unchanged.

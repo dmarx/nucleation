@@ -292,7 +292,8 @@ and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md).
 - **The floor** is [QUESTION-271](../questions.d/QUESTION-271.md)'s exploration floor, the price COMA
   pays as well ([THEORY-925](../theory.d/THEORY-925.md)). A floor is sufficient, not required. Bartók
   et al.'s CBP keeps no fixed floor: in the easy stochastic class it plays
-  a suboptimal action only about log T/δ² times. Kwon and Perchet's
+  a suboptimal action only about log T/δ² times, δ its gap in
+  expected loss. Kwon and Perchet's
   approachability algorithm does keep one, γ/|I| on every decision with γ
   of order T^{-1/3}, because its signals depend on the decision
   ([THEORY-tmpjv5er](../theory.d/THEORY-tmpjv5er.md)).

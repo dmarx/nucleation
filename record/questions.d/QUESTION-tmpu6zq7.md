@@ -2,6 +2,14 @@
 status: Open
 title: 'With one population of perspectives, do the three ways of giving them influence that the owner proposed (neighbourhoods in a space whose radii others can change, a shared channel into which they emit at rates, and a budget of passes or locations at which each may act on a common representation) produce different collective decision regimes, and how far does each mechanism''s nominal resource predict the counterfactual influence a perspective actually has?'
 version: 1
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed from U33 of the exchange. Amended the same day after the readings
+    of MultiDiffusion and Multi-LoRA composition: the third mechanism has
+    two published forms and A45's a third, and two results bear against the
+    no branch in its time-averaged form. The question stays Open.
 tags:
 - complex-systems
 - self-governance
@@ -18,8 +26,11 @@ summary: >-
   opportunities to modify a shared state, and separated nominal access,
   its use and its counterfactual effect. The owner took up the build from
   U37.
+answered_by:
+- THEORY-tmpt2q0g
 ---
 <!-- inactive-ok-file: CLAIM-279 CLAIM-285 CLAIM-297 CLAIM-336 THEORY-925 — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmp6s2xi — Proposed; the switching ablation as Zhong et al. report it, its sample unreported, cited as bearing on the question, not as settling it -->
 
 # QUESTION-tmpu6zq7: With one population of perspectives, do the three ways of giving them influence that the owner proposed (neighbourhoods in a space whose radii others can change, a shared channel into which they emit at rates, and a budget of passes or locations at which each may act on a common representation) produce different collective decision regimes, and how far does each mechanism's nominal resource predict the counterfactual influence a perspective actually has?
 
@@ -77,6 +88,21 @@ complete scheduler step separately for each perspective would confound
 influence with the number of physical denoising steps." Its sampler gives
 each perspective a share of one combined step, not a number of passes, a
 departure from the owner's option that the reply did not flag.
+
+**The third mechanism is published, in two forms.** "Locations" is
+MultiDiffusion (LIT-tmp03agp, NOTE-tmpa8ixz): each view has jurisdiction over
+a set of pixels, and its nominal weight at a pixel is exactly its convex
+share of that pixel's step (THEORY-tmpt2q0g, in part an answer).
+"Iterations" is LoRA Switch (LIT-tmpxsvgv, NOTE-tmphq8v2): one LoRA acts at a
+time, in rotation. A45's share of one combined step is LoRA Composite. Per
+step all three are convex weightings of the operators' predictions. Two
+results bear against the no branch in its time-averaged form, every
+mechanism reducing to one vector of weights. At equal step shares, the
+switching interval and which LoRA acts first change the result
+(THEORY-tmp6s2xi). And the same masks used differently in the early steps
+change layout IoU from 0.18 to 0.26 (THEORY-tmp5q0ny). Neither paper
+measures any operator's counterfactual influence, so the question stays
+open.
 
 ## What would answer it
 

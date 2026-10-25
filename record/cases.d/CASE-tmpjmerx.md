@@ -2,6 +2,14 @@
 status: Active
 title: 'Audited governance against a contextual router after a reversal of expertise: specialist denoisers with frozen, separately trained operators propose for one shared latent at each step, and spatial grants are revised from independent held-out probes of every proposal, available only from the next episode, against a fixed allocation, a conformity-scored allocation and a contextual mixture-of-experts router; the question is whether governance does anything a router does not, and under full-information audits the record predicts it cannot'
 version: 1
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed from A46–A47 of the exchange. Amended the same day after the
+    readings of MultiDiffusion and Multi-LoRA composition: the fixed arm has
+    published prior art, and the governed and router arms are what the
+    case adds.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -82,6 +90,15 @@ real model) is not held.
 All three of A47's outcomes are what the record predicts. [CASE-157](CASE-157.md)'s
 extension, committed at 03:54 UTC on 2026-10-25, 42 minutes after A47 was
 reported, found the first two in a different model, independently.
+
+**Prior art for the fixed arm.** Frozen LoRA operators whose proposals are
+combined in one scheduler step is LoRA Composite (LIT-tmpxsvgv,
+NOTE-tmphq8v2) with spatial grants, which is MultiDiffusion's fusion with
+LoRA-modified models as the views (LIT-tmp03agp, THEORY-tmpt2q0g). Neither
+paper learns, audits or routes the allocation, so the governed and router
+arms are what this case adds. That merging LoRAs degrades as their number
+grows (THEORY-tmpg6v1v) motivates combining per step. It is no evidence
+about governance.
 
 ## Two caveats
 

@@ -2,6 +2,14 @@
 status: Active
 title: 'Interacting accumulators on an influence network: if each perspective''s continuous support for one of two interpretations follows dxᵢ = [dᵢ − λxᵢ + κ Σⱼ Wᵢⱼxⱼ]dτ + noise, with W irreducible and row-stochastic and ℓ its left eigenvector, then ℓᵀ(κW − λI) = (κ − λ)ℓᵀ, so the ℓ-weighted support L = ℓ·x is exactly an Ornstein–Uhlenbeck process with drift ℓ·d, rate κ − λ and variance ℓᵀΣℓ, and a drift-diffusion process at κ = λ; with tanh coupling and member noise the transition is at κ_c = λ/E[sech² ε], not at κ = λ'
 version: 1
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed from A36–A44 of the exchange. Amended the same day: in discrete
+    time with x updated as Wx (DeGroot's iteration) the other modes settle
+    only if W is also aperiodic; the continuous-time equation does not need
+    it.
 standing: stipulated
 kind: construction
 tags:
@@ -144,6 +152,14 @@ dial on it.
   one member's support. Those carry a stationary transverse term.
 - Anything for a reducible W. Several closed groups give several balanced
   modes, and L is then one neutral coordinate among several.
+- Settling in discrete time without damping. The closure in part 1 holds
+  for any step. But if the members update as x ← Wx at each step
+  (DeGroot's iteration, an Euler step with hλ = 1 at balance), the other
+  modes decay only if W is also aperiodic: a periodic two-cycle,
+  W = [[0, 1], [1, 0]], does not converge (checked). With hλ < 1, and in
+  the continuous-time equation, irreducibility is enough. That ℓ is
+  DeGroot's consensus weight is held here only through THEORY-321, since
+  DeGroot's paper was sought and not reached.
 - Anything for binary positions. A37 called xᵢ "each perspective's binary
   support variable". If the members broadcast sign(xⱼ) in place of xⱼ, the
   closure fails: the drift of L then depends on the members' positions,

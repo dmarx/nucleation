@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmp0iif2
 title: "Adding one classifier-free guidance term per concept to a diffusion model's unconditional noise prediction samples images that satisfy several concepts at once without retraining, and on synthetic scenes it composes object positions far better than compositional energy-based models but relations no better; the reading of the summed score as the score of a product of experts holds only for concepts conditionally independent given the image, unit weights, a conservative field and the noise-free distribution"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: two published compositions that average rather than
+    sum, MultiDiffusion by place and LoRA Composite over operators, from the
+    readings of 2026-10-25. The account is unchanged.
 tags:
 - compositionality
 - probabilistic-modeling
@@ -102,3 +109,18 @@ energy-based baseline.
 - [CLAIM-123](../claims.d/CLAIM-123.md) states the conditional-independence condition at the noisy
   state as the record's own claim, and [CLAIM-321](../claims.d/CLAIM-321.md) cites the relation
   failures.
+
+## Note of 2026-10-25: compositions that average
+
+Two works read on 2026-10-25 compose by averaging where this paper sums.
+MultiDiffusion (LIT-tmp03agp, NOTE-tmpa8ixz) composes prompts by place:
+where regions overlap a pixel takes the weighted mean of the views'
+proposals, and disjoint regions select (THEORY-tmpt2q0g). LoRA Composite
+(LIT-tmpxsvgv, NOTE-tmphq8v2) composes operators: every LoRA-modified model
+sees the whole image and their guided predictions are averaged, so total
+guidance stays at one scale instead of growing with k (THEORY-tmpg6v1v).
+Under this account's idealization an average of k scores is the score of
+the normalized geometric mean Πᵢ pᵢ^{1/k}, a product of experts each at
+temperature k, not of the product. That derivation is the record's
+(NOTE-tmphq8v2); neither paper gives a probabilistic reading. The account
+is unchanged.
