@@ -1,23 +1,23 @@
 ---
-status: Unavailable
+status: Active
 status_note: >-
-  filed 2026-10-25 from the owner's exchange of 2026-10-24/25, not read. A
-  lawful full text was sought on 2026-10-25 and not reached: it failed on
-  access, not availability. The publisher's copy at Project Euclid is free
-  to read (Unpaywall and OpenAlex both list it, bronze), but Project
-  Euclid's bot check (Incapsula) answered every request from this client,
-  by curl and by WebFetch, with a challenge page and no PDF. The Internet
-  Archive holds captures of that PDF (2026-09-17 and 2026-02-17, per its
-  availability API), but web.archive.org reset every connection from this
-  environment that day. Semantic Scholar was rate-limited; CORE returned
-  no usable result; DTIC refused (403) and a search found no deposit of
-  the OSRD report (no. 1998) the Annals text was reprinted as. The
-  Springer reprint in Kotz and Johnson's Breakthroughs in Statistics is
-  paywalled. It stays Unavailable until a copy is supplied, and is among
-  the quickest to clear by hand: the Project Euclid PDF opens in a
-  browser. No NOTE is filed.
+  read 2026-10-25 (NOTE-tmpxtksz) in full, from the copy the owner
+  supplied on 2026-10-25, a JSTOR scan of the Annals article (this client
+  had been stopped by Project Euclid's bot check the same day). Worth
+  reading as the source of the sequential probability ratio test: its
+  boundaries follow from the error rates alone, A = (1 − β)/α and
+  B = β/(1 − α) (THEORY-tmpeglfj), and its operating characteristic,
+  expected sample size and optimality against every test of the same
+  strength are derived, with savings of about half against the
+  fixed-sample test (THEORY-tmpda363). Read it knowing that optimality is
+  proved only when the overshoot of the boundaries is neglected, the
+  exact case being a conjecture (footnote 12), that the operating
+  characteristic and sample-size formulas are approximations that need
+  i.i.d. observations, and that the paper never mentions diffusion: the
+  drift-diffusion limit is later work's, and is the case in which these
+  approximations are exact.
 title: 'Sequential Tests of Statistical Hypotheses'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-25'
@@ -46,6 +46,17 @@ history:
     exist but web.archive.org reset every connection; Semantic Scholar,
     CORE and DTIC gave nothing usable, and no other lawful copy was found
     by search. No NOTE is filed.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    The owner supplied a copy on 2026-10-25, a JSTOR scan of the
+    published article (Annals of Mathematical Statistics 16(2): 117–186,
+    70 pages), which under ADR-041 returns the work to reading. Read in
+    full the same day (NOTE-tmpxtksz), and THEORY-tmpeglfj and
+    THEORY-tmpda363 filed Active from it. Status Unavailable → Active. The
+    summary, which had followed what the paper is standardly cited for,
+    was checked against the reading. It is accurate, and now says so and
+    adds the optimality theorem.
 tags:
 - mathematical-statistics
 date: '2026-10-25'
@@ -66,7 +77,9 @@ summary: >-
   probabilities. The paper derives the test's operating characteristic and
   its expected number of observations, which for given error rates is
   substantially smaller than the fixed sample a test of the same strength
-  needs (as standardly cited; no abstract on Crossref).
+  needs, and proves that no test of the same strength needs fewer on
+  average once the overshoot of the bounds is neglected (checked against
+  the reading).
 ---
 <!-- inactive-ok-file: CLAIM-262 — Proposed; the owner's earlier statement of the hypothesis, named, nothing here rests on it -->
 # LIT-tmpcevhu: Sequential Tests of Statistical Hypotheses
@@ -74,8 +87,14 @@ summary: >-
 Wald, A. (1945). Sequential tests of statistical hypotheses. *The Annals
 of Mathematical Statistics* 16(2): 117–186. doi:10.1214/aoms/1177731118.
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+Read in full on 2026-10-25 from the copy the owner supplied
+(NOTE-tmpxtksz). Part I gives the test, its fundamental inequalities
+α/(1 − β) ≤ 1/A and β/(1 − α) ≤ B, the operating characteristic, the
+expected sample size and its distribution, truncation, and the
+optimality theorem. Part II applies the test to binomial proportions,
+double dichotomies and a normal mean, and outlines composite hypotheses
+through weight functions. THEORY-tmpeglfj and THEORY-tmpda363 re-derive
+the main results.
 
 ## Why this is here
 
@@ -91,4 +110,4 @@ continuum limit is the drift–diffusion model, and [THEORY-068](../theory.d/THE
 feedback term is the SPRT walk. The claim [CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md) and the
 construction [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md) rest on that limit; [CLAIM-262](../claims.d/CLAIM-262.md) is the owner's
 earlier, continuous statement of the hypothesis. This is the primary
-source.
+source, held since the owner supplied it on 2026-10-25.
