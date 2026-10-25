@@ -20,10 +20,10 @@ summary: >-
   that [CLAIM-278](../claims.d/CLAIM-278.md) requires. A47 reported that the router won on every seed.
   Its results come from a sandbox the share does not carry, and the record
   has not run it. What would make it informative is one arm per failure of
-  [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md).
+  [QUESTION-271](../questions.d/QUESTION-271.md).
 ---
 <!-- inactive-ok-file: CLAIM-278 CLAIM-277 TERM-066 — Proposed; the objection this design is built to meet and the claim and term it bears on, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmpgtvdv THEORY-tmp2p13l — Proposed; the mixture-of-experts readings of PR #330 cited as the router's prior art, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-937 THEORY-927 — Proposed; the mixture-of-experts readings of PR #330 cited as the router's prior art, nothing here rests on them -->
 
 # CASE-tmpjmerx: Audited governance against a contextual router after a reversal of expertise: specialist denoisers with frozen, separately trained operators propose for one shared latent at each step, and spatial grants are revised from independent held-out probes of every proposal, available only from the next episode, against a fixed allocation, a conformity-scored allocation and a contextual mixture-of-experts router; the question is whether governance does anything a router does not, and under full-information audits the record predicts it cannot
 
@@ -71,15 +71,15 @@ real model) is not held.
 
 - Every proposal is probed, which is full-information feedback. Audited
   governance should then recover with inertia and no lock-in, as in
-  [CASE-tmpffs67](CASE-tmpffs67.md)'s extension (finding 1).
+  [CASE-157](CASE-157.md)'s extension (finding 1).
 - The conformity arm has an endogenous metric, so it should hold the old
-  allocation: [CASE-tmpffs67](CASE-tmpffs67.md)'s finding 2, [CASE-155](CASE-155.md)'s self-scoring c,
+  allocation: [CASE-157](CASE-157.md)'s finding 2, [CASE-155](CASE-155.md)'s self-scoring c,
   and [TERM-066](../terms.d/TERM-066.md) built in by design.
 - A router trained on the same audits is a mixture of experts whose
-  experts earn responsibility by fitting better ([THEORY-tmpgtvdv](../theory.d/THEORY-tmpgtvdv.md)). Under
+  experts earn responsibility by fitting better ([THEORY-937](../theory.d/THEORY-937.md)). Under
   full information, governance should not beat it.
 
-All three of A47's outcomes are what the record predicts. [CASE-tmpffs67](CASE-tmpffs67.md)'s
+All three of A47's outcomes are what the record predicts. [CASE-157](CASE-157.md)'s
 extension, committed at 03:54 UTC on 2026-10-25, 42 minutes after A47 was
 reported, found the first two in a different model, independently.
 
@@ -92,7 +92,7 @@ reported, found the first two in a different model, independently.
   partly measures information, not mechanism.
 - **Competence is frozen.** So the design cannot show the loop A42 called
   crucial, access → experience → competence → future access, which "can
-  also preserve an early advantage" ([CLAIM-277](../claims.d/CLAIM-277.md); [THEORY-tmp2p13l](../theory.d/THEORY-tmp2p13l.md)'s
+  also preserve an early advantage" ([CLAIM-277](../claims.d/CLAIM-277.md); [THEORY-927](../theory.d/THEORY-927.md)'s
   self-reinforcing gate). A47's claim to have "closed the **capability →
   evaluation → authority → deployment** loop" overstates this, as its own
   §4 concedes.
@@ -100,7 +100,7 @@ reported, found the first two in a different model, independently.
 ## What would make it informative
 
 Arms in which governance could beat a router, one per failure of
-[QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md):
+[QUESTION-271](../questions.d/QUESTION-271.md):
 
 1. **Cycles:** specialists whose wins against one another are
    intransitive.

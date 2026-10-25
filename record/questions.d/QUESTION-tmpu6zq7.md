@@ -19,7 +19,7 @@ summary: >-
   its use and its counterfactual effect. The owner took up the build from
   U37.
 ---
-<!-- inactive-ok-file: CLAIM-279 CLAIM-285 CLAIM-297 CLAIM-336 THEORY-tmp1p6ly — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-279 CLAIM-285 CLAIM-297 CLAIM-336 THEORY-925 — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmpu6zq7: With one population of perspectives, do the three ways of giving them influence that the owner proposed (neighbourhoods in a space whose radii others can change, a shared channel into which they emit at rates, and a budget of passes or locations at which each may act on a common representation) produce different collective decision regimes, and how far does each mechanism's nominal resource predict the counterfactual influence a perspective actually has?
 
@@ -67,8 +67,8 @@ Three distinctions the replies drew, which an answer must keep:
   *sequence position*, not just frequency".
 
 The measure the replies proposed, I_i = E d(Z^full, Z^{do(exclude i)})
-(A35), is the wonderful-life or difference reward ([LIT-tmp8bczu](../literature.d/LIT-tmp8bczu.md)) and, per
-action, COMA's counterfactual baseline ([THEORY-tmp1p6ly](../theory.d/THEORY-tmp1p6ly.md)). A35: "This
+(A35), is the wonderful-life or difference reward ([LIT-1506](../literature.d/LIT-1506.md)) and, per
+action, COMA's counterfactual baseline ([THEORY-925](../theory.d/THEORY-925.md)). A35: "This
 quantity will depend on context and need not be additive across
 processes."
 

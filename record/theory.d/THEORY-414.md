@@ -144,7 +144,7 @@ not. No harder case was tried.
 
 ## Note of 2026-10-24: correlated equilibria without representation
 
-Hart and Mas-Colell's regret matching ([THEORY-tmpri5hl](THEORY-tmpri5hl.md), read 2026-10-24)
+Hart and Mas-Colell's regret matching ([THEORY-941](THEORY-941.md), read 2026-10-24)
 brings the time-averaged joint play of adaptive players to the set of
 correlated equilibria with no device, no rule and no representation of
 one. The correlating device is the shared history of play. What it lacks is

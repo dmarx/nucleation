@@ -71,7 +71,7 @@ monitoring first, as the formal case of an organization whose feedback is
 informative about some comparisons of its processes and not others. U30
 used its global-observability condition for the channels an organization
 can access, and U31 built experiments on it. The record had no work on
-partial monitoring. It bears on [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md) (bandit against
+partial monitoring. It bears on [QUESTION-271](../questions.d/QUESTION-271.md) (bandit against
 full-information evaluation of an organization's processes) and on
 [CASE-124](../cases.d/CASE-124.md) (what responses can distinguish). The exchange applied it to
 [CLAIM-446](../claims.d/CLAIM-446.md)'s avoid/approach example; read as a partial-monitoring game

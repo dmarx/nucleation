@@ -80,7 +80,7 @@ supports:
 - CLAIM-445
 ---
 <!-- inactive-ok-file: LIT-tmpwpq36 — Deferred; a work registered unread the same day, cited as open -->
-<!-- inactive-ok-file: THEORY-tmp1p6ly — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-925 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
 
@@ -206,19 +206,19 @@ governance variable; a governance account has to say what it adds.
 From the learning-in-games readings filed the same day. In Q-learning that
 updates only the chosen option, evidence about an option arrives only as
 often as the option is chosen, and the expected update carries that
-frequency as a factor ([THEORY-tmpar5jw](../theory.d/THEORY-tmpar5jw.md)). That is this claim's
+frequency as a factor ([THEORY-932](../theory.d/THEORY-932.md)). That is this claim's
 identifiability step as an equation, and inverse-frequency weighting is an
 exact condition for correcting it. Counterfactual credit does not escape
 it: COMA can value an alternative only from the times it was taken, and
 keeps every action's probability above a floor for that reason
-([THEORY-tmp1p6ly](../theory.d/THEORY-tmp1p6ly.md)). The floor is protected access, the claim's evidence-access
+([THEORY-925](../theory.d/THEORY-925.md)). The floor is protected access, the claim's evidence-access
 correction. Börgers and Sarin's lock-in by reinforcement alone
-([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)) is the null this claim's governance mechanism has to
+([THEORY-938](../theory.d/THEORY-938.md)) is the null this claim's governance mechanism has to
 beat.
 
 ## Note of 2026-10-25: a run that reproduces the identifiability step
 
-In the BoostTheVote extension ([CASE-tmpffs67](../cases.d/CASE-tmpffs67.md)), outcomes were observed only
+In the BoostTheVote extension ([CASE-157](../cases.d/CASE-157.md)), outcomes were observed only
 when the collective acted. With an independent metric, avoidance alone held
 about 60% of runs on the old answer through the whole changed phase. Vote
 noise that tipped a decision into acting was the only way out. Age-targeted
@@ -254,8 +254,8 @@ approach.
   same observation", in its formal place. A30 drew the line: "A channel may
   be capable of resolving a question yet remain unused because the process
   controlling action prevents it from being selected."
-- **The floor** is [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md)'s exploration floor, the price COMA
-  pays as well ([THEORY-tmp1p6ly](../theory.d/THEORY-tmp1p6ly.md)).
+- **The floor** is [QUESTION-271](../questions.d/QUESTION-271.md)'s exploration floor, the price COMA
+  pays as well ([THEORY-925](../theory.d/THEORY-925.md)).
 - **The guarantees stop** where authority edits the losses or the feedback
   channels during learning. A29: "we should first use the classical setting
   as a baseline, then study controlled changes in H, not attribute those

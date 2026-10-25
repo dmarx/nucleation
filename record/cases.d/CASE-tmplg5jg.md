@@ -95,6 +95,6 @@ geometry in which evidence about it arrives.
   assume singularity implies a particular learning coefficient."
 - That choosing probes well removes the problem. Probes on which the
   processes disagree must also be accessible to the evaluator, which is
-  [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md)'s failure of bandit feedback.
+  [QUESTION-271](../questions.d/QUESTION-271.md)'s failure of bandit feedback.
 - That two processes that agree under the probes are the same
   communicative kind, or differ as one ([CLAIM-150](../claims.d/CLAIM-150.md)).

@@ -59,7 +59,7 @@ supports:
 - CLAIM-443
 ---
 <!-- inactive-ok-file: CLAIM-403 CLAIM-406 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmp2p13l — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-927 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
 ## The claim
@@ -209,6 +209,6 @@ A42 of the exchange of 2026-10-24, continued, put this claim's converse as
 the model's "crucial feedback loop": access → experience → competence and
 evaluation → future access, which "can also preserve an early advantage
 when alternative perspectives don't receive enough opportunities to
-demonstrate competence". That is also [THEORY-tmp2p13l](../theory.d/THEORY-tmp2p13l.md)'s self-reinforcing
+demonstrate competence". That is also [THEORY-927](../theory.d/THEORY-927.md)'s self-reinforcing
 gate. A47's experiment froze competence, so it cannot show the loop
 ([CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md)). The claim is unchanged.

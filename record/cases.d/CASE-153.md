@@ -131,7 +131,7 @@ scoring (fixed against authority-dependent). The two axes are [CLAIM-404](../cla
 two routes, evidence received and criteria of weighing. A31's reading of
 the outcome: "If guaranteed evidence access resolves lock-in, but changing
 the evaluation criteria adds nothing, the result favors an exploration
-explanation." [CASE-tmpffs67](CASE-tmpffs67.md)'s extension (run 2026-10-25) found each route
+explanation." [CASE-157](CASE-157.md)'s extension (run 2026-10-25) found each route
 sufficient alone, in one parameterization with binary decisions. A31 adds
 baselines (selection-aware Bayesian learning, a contextual bandit, the
 replicator and a history-dependent gate) and a variant in which unused

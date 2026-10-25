@@ -188,5 +188,5 @@ guaranteed by ordinary approachability results" (A31). Second, "measuring
 *distance* to the acceptable set introduces choices of normalization and
 geometry" (A30), a scale this claim does not otherwise need.
 Approachability is already in the record as the engine of Hart and
-Mas-Colell's proof ([NOTE-tmp7qq6n](../notes.d/NOTE-tmp7qq6n.md)): regret matching is approachability of
+Mas-Colell's proof ([NOTE-1142](../notes.d/NOTE-1142.md)): regret matching is approachability of
 the negative orthant by the regret vector. The claim is unchanged.

@@ -73,5 +73,5 @@ monitoring (Bartók et al., [LIT-tmpwpq36](LIT-tmpwpq36.md)) with approachabilit
 vector-valued objectives, an organization that must meet several demands
 at once while seeing only partial feedback. U30 used it again for the rate
 at which such guarantees hold. The record uses approachability only as the
-engine of Hart and Mas-Colell's proof ([LIT-tmpxtwxt](LIT-tmpxtwxt.md), [NOTE-tmp7qq6n](../notes.d/NOTE-tmp7qq6n.md));
+engine of Hart and Mas-Colell's proof ([LIT-1521](LIT-1521.md), [NOTE-1142](../notes.d/NOTE-1142.md));
 Blackwell's 1956 paper is not held.
