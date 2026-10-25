@@ -186,10 +186,10 @@ residual m(d) = maxᵢ(εᵢ + gᵢᵀd) is a one-shot test against the target s
 {z : zᵢ ≤ 0 for every i}. Blackwell approachability asks the repeated
 version: whether a learner can drive dist((1/T)Σ f_t, C) → 0 for a vector
 of demand residuals f_t against disturbance or opposition. Kwon and Perchet
-(2017, LIT-tmpm3j41, read in NOTE-tmpfxkdt) treat it under partial feedback.
+(2017, [LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md), read in [NOTE-tmpfxkdt](../notes.d/NOTE-tmpfxkdt.md)) treat it under partial feedback.
 Their target is exactly this claim's {z : zᵢ ≤ 0}, and the distance they
 use is ‖(ḡ_T)₊‖₂, the ℓ₂ norm of the positive parts of the average
-(THEORY-tmp172nr). A requirement violated by 1 on alternate stages and met
+([THEORY-tmp172nr](../theory.d/THEORY-tmp172nr.md)). A requirement violated by 1 on alternate stages and met
 by 1 on the others has average 0 and is approached perfectly.
 Two cautions from the replies. First, averaging is compensatory:
 "violating a safety requirement today may not be remedied by outperforming
