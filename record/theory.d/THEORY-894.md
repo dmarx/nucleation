@@ -24,7 +24,7 @@ summary: >-
   cardinal assumptions that the record's orderings do not supply.
 supports:
 - CLAIM-434
-- CLAIM-tmp1xoac
+- CLAIM-444
 ---
 <!-- inactive-ok-file: TERM-076 CLAIM-440 CLAIM-436 QUESTION-268 THEORY-896 — Proposed, Open or draft; the term, claims and question this result bears on, and the ordinal result filed with it -->
 

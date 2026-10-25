@@ -26,9 +26,9 @@ summary: >-
   to rescaling, necessary. Every single-state matrix game satisfies IGM;
   VDN and QMIX missed the optimum in 177 of 310 random 3×3 games.
 ---
-<!-- inactive-ok-file: CLAIM-tmp8z857 — Proposed; compared in prose, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; compared in prose, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-tmpayfgm THEORY-tmp56jxv — Proposed; filed from this reading and its companion, named -->
-<!-- inactive-ok-file: CLAIM-436 CLAIM-440 CLAIM-403 CLAIM-tmpd6q2w QUESTION-tmponjie — Proposed or Open; the claims and questions this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-436 CLAIM-440 CLAIM-403 CLAIM-448 QUESTION-270 — Proposed or Open; the claims and questions this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmp457xj: Son et al. — QTRAN: learning to factorize with transformation
 
@@ -145,19 +145,19 @@ fixed (p. 5).
   ranking; IGM requires it at the optimum alone. That is a third rung
   below [CLAIM-436](../claims.d/CLAIM-436.md)'s two, worth having: agreement on what to do, without
   agreement on how the rest compares.
-- **[CLAIM-403](../claims.d/CLAIM-403.md) and [CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) (access and legibility).** The nearest
+- **[CLAIM-403](../claims.d/CLAIM-403.md) and [CLAIM-448](../claims.d/CLAIM-448.md) (access and legibility).** The nearest
   record analogue. Under partial observability IGM can fail because a
   member's local view does not distinguish situations in which its part
   of the optimum differs. QTRAN's V_jt absorbs what the members cannot
   see. A legibility regime that withholds the distinguishing evidence from
   a process makes the organization's optimum unreachable by local action
   even when every process is willing.
-- **[QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md).** Not addressed: every agent's value is used.
+- **[QUESTION-270](../questions.d/QUESTION-270.md).** Not addressed: every agent's value is used.
 - **The penalised predator-prey result** is a model of the record's
   protective lock-in in miniature, mine. Where a lone attempt is punished,
   value-factorising learners that cannot represent the interaction learn
   to avoid the prey altogether, and the payoff that coordination would
-  reveal is never sampled. Compare [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s avoidance. The paper
+  reveal is never sampled. Compare [CLAIM-446](../claims.d/CLAIM-446.md)'s avoidance. The paper
   attributes it to representational limits, not to evidence.
 - No instruction for machine-learning practice is drawn here.
 

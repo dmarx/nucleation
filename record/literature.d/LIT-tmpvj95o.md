@@ -59,7 +59,7 @@ summary: >-
   modelling did so less reliably.
 ---
 <!-- inactive-ok-file: THEORY-tmpaod5d — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmpd6q2w — Proposed; the claim this reading bears on, named, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-448 — Proposed; the claim this reading bears on, named, nothing here rests on it -->
 
 # LIT-tmpvj95o: Learning with Opponent-Learning Awareness
 
@@ -91,7 +91,7 @@ arXiv:1709.04326
 ## Why this is here
 
 Registered 2026-10-24 by the lead as "a learning-aware model of authority
-shaping others' learning", bearing on [CASE-124](../cases.d/CASE-124.md) and [CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md). The
+shaping others' learning", bearing on [CASE-124](../cases.d/CASE-124.md) and [CLAIM-448](../claims.d/CLAIM-448.md). The
 reading supports that as an analogy with a precise mechanism
 ([NOTE-tmpj4dtw](../notes.d/NOTE-tmpj4dtw.md)): a LOLA learner treats another learner's update rule as
 part of its environment and moves its own parameters partly for their

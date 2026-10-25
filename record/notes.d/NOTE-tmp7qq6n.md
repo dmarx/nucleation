@@ -27,7 +27,7 @@ summary: >-
   and needs players to see one another's past play.
 ---
 <!-- inactive-ok-file: THEORY-tmpri5hl — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: THEORY-414 THEORY-tmphhvqf THEORY-tmp3wkwk CLAIM-tmp0qupq CLAIM-tmp1xoac CLAIM-tmp8z857 CLAIM-tmpuxcp6 NOTE-tmpcqwez — Proposed or new; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-414 THEORY-tmphhvqf THEORY-tmp3wkwk CLAIM-443 CLAIM-444 CLAIM-446 CLAIM-451 NOTE-tmpcqwez — Proposed or new; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmp7qq6n: Hart & Mas-Colell — A simple adaptive procedure leading to correlated equilibrium
 
@@ -128,24 +128,24 @@ see one another's play, beyond a sketch.
   [THEORY-414](../theory.d/THEORY-414.md)'s promote_when, which asks for a test that separates human
   institutions from animal correlated equilibria. Regret-matching play is a
   third baseline, between them.
-- **Inertia ([CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)).** The claim reads the owner's momentum term as
+- **Inertia ([CLAIM-443](../claims.d/CLAIM-443.md)).** The claim reads the owner's momentum term as
   a switching cost that resists small transient changes. Here inertia is
   more than persistence: a positive probability of repeating is what
   breaks the miscoordination cycle and makes convergence possible. It
   supports the claim's switching-cost reading and adds a function the
   claim does not name.
-- **Cycles ([CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)).** An exact example of the claim's distinction.
+- **Cycles ([CLAIM-451](../claims.d/CLAIM-451.md)).** An exact example of the claim's distinction.
   Switching to the better reply whenever there is one cycles between
   miscoordinated profiles; the same rule with friction does not. Whether
   the record of winning moves cycles depends on the update rule as well as
   on the game.
-- **Lock-in ([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)).** Regret matching uses counterfactual payoffs,
+- **Lock-in ([CLAIM-446](../claims.d/CLAIM-446.md)).** Regret matching uses counterfactual payoffs,
   what k would have earned in the periods j was played, so evidence about
   unchosen actions keeps arriving. That is the condition under which the
   protective-regime trap cannot form. The unknown-game variant, which
   estimates counterfactuals from the periods k was actually played,
   reweighted by play probabilities, is the case in which that evidence has
   to be gathered by playing k, as in the trap; the paper only sketches it.
-- **Replicator readings ([CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)).** Not a replicator dynamic. It is
+- **Replicator readings ([CLAIM-444](../claims.d/CLAIM-444.md)).** Not a replicator dynamic. It is
   a better-reply process on actions, with convergence of time averages, and
   sits beside the replicator tools rather than among them.

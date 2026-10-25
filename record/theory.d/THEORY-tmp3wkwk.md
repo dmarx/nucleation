@@ -25,7 +25,7 @@ summary: >-
   updates every action's memory at the same rate, so it is the
   full-information case, not Q-learning as usually run.
 ---
-<!-- inactive-ok-file: NOTE-tmp8ra24 THEORY-tmpar5jw THEORY-tmphhvqf THEORY-tmpev90a CLAIM-tmp0qupq CLAIM-tmp1xoac — Proposed or new; the source and the accounts this bears on, named -->
+<!-- inactive-ok-file: NOTE-tmp8ra24 THEORY-tmpar5jw THEORY-tmphhvqf THEORY-tmpev90a CLAIM-443 CLAIM-444 — Proposed or new; the source and the accounts this bears on, named -->
 
 # THEORY-tmp3wkwk: Two softmax reinforcement learners whose reward memories decay at rate α follow coupled replicator equations plus a term α Σ x_j log(x_j / x_i) toward uniform play; without decay the dynamics are conservative, Hamiltonian in zero-sum games, and with decay they are dissipative
 
@@ -69,9 +69,9 @@ Eqs. 1–13 (pp. 1–2).
 - **[THEORY-tmphhvqf](THEORY-tmphhvqf.md).** The contrast that matters. Cross learning has no
   forgetting term and is absorbed in a vertex. Here forgetting is a force
   towards uniform play, and the boundary is repelling.
-- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The schematic rule's forgetting term −λE has this
+- **[CLAIM-443](../claims.d/CLAIM-443.md).** The schematic rule's forgetting term −λE has this
   reading under softmax selection: decay of a learned bias is pressure
   towards equal authority, and its rate sets how hard the system
   re-explores.
-- **[CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** The coupled, two-population case of the replicator
+- **[CLAIM-444](../claims.d/CLAIM-444.md).** The coupled, two-population case of the replicator
   reading, derived for learners.

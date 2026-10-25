@@ -27,7 +27,7 @@ summary: >-
   each supported agent on what it beats grows that hull.
 ---
 <!-- inactive-ok-file: THEORY-tmpxh6cj — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 CLAIM-tmp0qupq CLAIM-436 CLAIM-440 — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-451 CLAIM-443 CLAIM-436 CLAIM-440 — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmp8gje5: Balduzzi et al. — Open-ended learning in symmetric zero-sum games
 
@@ -140,7 +140,7 @@ assumptions on φ.
 
 ## How it bears on the record
 
-- **[CASE-124](../cases.d/CASE-124.md) and [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md): capture of the scoring layer.** Population
+- **[CASE-124](../cases.d/CASE-124.md) and [CASE-155](../cases.d/CASE-155.md): capture of the scoring layer.** Population
   performance is the strongest invariant in this group. It is a game value,
   so no equilibrium selection is involved, and redundancy in the strong
   sense, any member that is a behavioural mixture of others, leaves it
@@ -157,7 +157,7 @@ assumptions on φ.
   that the Hodge transitive part is relative to a measure over
   opponents, which [THEORY-894](../theory.d/THEORY-894.md)'s weighted form implies and does not say in
   words. **Supports [CLAIM-434](../claims.d/CLAIM-434.md)'s separation.**
-- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md).** Two things. First, "the performance of individual
+- **[CLAIM-451](../claims.d/CLAIM-451.md).** Two things. First, "the performance of individual
   agents is meaningless" in a fully cyclic game is the strong form of the
   claim's nonintegrability. No transitive ordering of individual options
   exists, and the paper's answer is to stop ranking options and hold a
@@ -169,7 +169,7 @@ assumptions on φ.
   again, as singletons in rock-paper-scissors show. So moving from options
   to portfolios does not by itself make a record integrable.
   **Complicates: relief by mixing is formal here, and partial.**
-- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The contrast between self-play, which responds to
+- **[CLAIM-443](../claims.d/CLAIM-443.md).** The contrast between self-play, which responds to
   the latest agent and cycles in cyclic games, and response to the
   population's Nash mixture, which accumulates, has a governance reading.
   A learned prior over authority updated only against the latest

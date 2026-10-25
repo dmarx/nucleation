@@ -21,7 +21,7 @@ history:
   note: >-
     Filed and read 2026-10-24 for the owner's question of how the record
     stands on multi-agent learning, as a testbed for protection and the
-    commons (CLAIM-tmp28sti). Published in the Proceedings of AAMAS 2017
+    commons (CLAIM-445). Published in the Proceedings of AAMAS 2017
     (São Paulo, 8–12 May 2017), as the arXiv copy's footer states. Read in
     full from arXiv:1702.03037v1 (10 February 2017), the only version,
     licence arXiv's non-exclusive distribution licence, 10 pp., extracted
@@ -56,7 +56,7 @@ summary: >-
   defection in Gathering and lowers it in Wolfpack, which no matrix game
   captures.
 ---
-<!-- inactive-ok-file: NOTE-tmpke0z1 THEORY-tmpc4gg9 CLAIM-tmp28sti — filed from this reading, and the claim it bears on, named -->
+<!-- inactive-ok-file: NOTE-tmpke0z1 THEORY-tmpc4gg9 CLAIM-445 — filed from this reading, and the claim it bears on, named -->
 
 # LIT-tmphih4i: Multi-agent Reinforcement Learning in Sequential Social Dilemmas
 
@@ -86,7 +86,7 @@ Leibo, J. Z., Zambaldi, V., Lanctot, M., Marecki, J. & Graepel, T. (2017). Multi
 ## Why this is here
 
 Filed on 2026-10-24 as the lead's testbed for protection and the commons
-([CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md)). The reading narrows that ([NOTE-tmpke0z1](../notes.d/NOTE-tmpke0z1.md)): these are
+([CLAIM-445](../claims.d/CLAIM-445.md)). The reading narrows that ([NOTE-tmpke0z1](../notes.d/NOTE-tmpke0z1.md)): these are
 two-player games with no protective regime and no depletable resource,
 and conditions are fixed during training, so nothing here measures
 whether aggression or protection recedes when scarcity does. The method,

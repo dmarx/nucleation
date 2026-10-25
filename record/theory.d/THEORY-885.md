@@ -33,7 +33,7 @@ summary: >-
   in general ([THEORY-429](THEORY-429.md)) to a claim about politics as a domain. It does not
   show that any political outcome was locked in by an early contingent event.
 supports:
-- CLAIM-tmp28sti
+- CLAIM-445
 ---
 <!-- inactive-ok-file: THEORY-429 CLAIM-423 CLAIM-184 CLAIM-277 — Proposed; the accounts and claims it bears on, named, not leaned on -->
 

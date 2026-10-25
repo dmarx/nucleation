@@ -34,8 +34,8 @@ refined_by:
 - TERM-076
 used_by:
 - CLAIM-440
-- CLAIM-tmpd6q2w
-- CLAIM-tmpuxcp6
+- CLAIM-448
+- CLAIM-451
 ---
 
 # TERM-078: persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions

@@ -27,7 +27,7 @@ summary: >-
   attainable. The strategies are weak by construction.
 ---
 <!-- inactive-ok-file: NOTE-tmpat2ia — the reading this is filed from -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 — Proposed; named in prose, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
 # THEORY-tmp2ela3: In a game where each player can transmit n bits before a win or a loss becomes unattainable, every antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some set of pure strategies
 
@@ -73,7 +73,7 @@ definition.
 
 ## Connections
 
-For [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) and [TERM-077](../terms.d/TERM-077.md) it is the condition under which cyclic
+For [CLAIM-451](../claims.d/CLAIM-451.md) and [TERM-077](../terms.d/TERM-077.md) it is the condition under which cyclic
 records cannot be excluded on structural grounds. Wherever contestants can
 recognize one another before the outcome is settled, any pattern of wins
 can arise. Whether an ordinal potential exists is then a fact about the

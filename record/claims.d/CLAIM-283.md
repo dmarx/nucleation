@@ -29,7 +29,7 @@ uses:
 complements:
 - CLAIM-027
 - CLAIM-432
-- CLAIM-tmp9ry8f
+- CLAIM-447
 summary: >-
   A4 §2, reading Frijda through the record: "control precedence also
   suggests a useful addition to our parameterization", a priority p_i
@@ -41,7 +41,7 @@ summary: >-
 supports:
 - CLAIM-368
 - CLAIM-440
-- CLAIM-tmp8z857
+- CLAIM-446
 - CLAIM-442
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-056 CLAIM-027 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

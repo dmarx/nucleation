@@ -58,13 +58,13 @@ summary: >-
 supports:
 - CLAIM-403
 - CLAIM-425
-- CLAIM-tmp8z857
+- CLAIM-446
 illustrated_by:
 - CASE-127
 - CASE-129
 complements:
 - CLAIM-432
-- CLAIM-tmp0qupq
+- CLAIM-443
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
@@ -215,5 +215,5 @@ achievements come apart: having a desire, knowing how to respond to it,
 being able to deploy the response under pressure, and having practised it
 until deployment costs little. Not every skill works by changing
 authority. The learned-prior account of how practice reorganizes
-recruitment is [CLAIM-tmp0qupq](CLAIM-tmp0qupq.md); these are functional interpretations, and
+recruitment is [CLAIM-443](CLAIM-443.md); these are functional interpretations, and
 the record holds no reading of Linehan.

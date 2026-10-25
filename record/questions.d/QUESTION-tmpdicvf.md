@@ -25,24 +25,24 @@ summary: >-
 
 The record's governance claims all lean on an evaluation of processes:
 - endorsement that tracks competence ([CLAIM-277](../claims.d/CLAIM-277.md));
-- a learned prior trained by outcomes ([CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md));
-- evidence-tracking authority as Bayes' rule ([CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md));
+- a learned prior trained by outcomes ([CLAIM-443](../claims.d/CLAIM-443.md));
+- evidence-tracking authority as Bayes' rule ([CASE-155](../cases.d/CASE-155.md));
 - a legibility regime that can score in its own favour ([CASE-124](../cases.d/CASE-124.md)'s μ route).
 
 Four ways the evaluation can fail are now on file:
 1. **Cycles.** Wins among processes need admit no ordering ([TERM-077](../terms.d/TERM-077.md),
-   [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)), so no ranking is fixed by the record alone.
+   [CLAIM-451](../claims.d/CLAIM-451.md)), so no ranking is fixed by the record alone.
 2. **No common scale.** Processes with different concerns have no shared
    score ([CLAIM-436](../claims.d/CLAIM-436.md), [CLAIM-437](../claims.d/CLAIM-437.md)). The BoostTheVote model of 2014 assumes an
    objective metric that its author says "probably/almost certainly cannot"
    be constructed.
 3. **Capture of the tests.** The processes in charge can add, filter or
-   duplicate the items they are scored on. [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s self-scoring c
+   duplicate the items they are scored on. [CASE-155](../cases.d/CASE-155.md)'s self-scoring c
    then gives lock-in above a threshold.
 4. **Bandit feedback.** Only the process heeded gets evaluated, so the
    unheeded can never earn authority back. That is the hive mind's
-   architecture ([THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md)), avoidance's identifiability problem
-   ([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)), and the case [QUESTION-tmponjie](QUESTION-tmponjie.md) asks about.
+   architecture ([THEORY-899](../theory.d/THEORY-899.md)), avoidance's identifiability problem
+   ([CLAIM-446](../claims.d/CLAIM-446.md)), and the case [QUESTION-270](QUESTION-270.md) asks about.
 
 ## What would answer it
 

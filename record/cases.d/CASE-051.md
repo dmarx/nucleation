@@ -26,7 +26,7 @@ summary: >-
 variants:
 - CASE-109
 supports:
-- CLAIM-tmpf2p3p
+- CLAIM-449
 ---
 <!-- inactive-ok-file: ARG-005 — Proposed; the reluctant writer's precommitment argument, named as the second afternoon -->
 <!-- inactive-ok-file: CLAIM-162 — Proposed; the conjecture this case illustrates, bearing no weight -->

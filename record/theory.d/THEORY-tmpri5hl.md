@@ -27,7 +27,7 @@ summary: >-
   correlating device; inertia is needed; and interior correlated equilibria
   that are not pure Nash cannot be the limit.
 ---
-<!-- inactive-ok-file: NOTE-tmp7qq6n THEORY-414 CLAIM-tmp0qupq — Proposed or new; the source and the accounts this bears on, named -->
+<!-- inactive-ok-file: NOTE-tmp7qq6n THEORY-414 CLAIM-443 — Proposed or new; the source and the accounts this bears on, named -->
 
 # THEORY-tmpri5hl: If every player of a finite game switches from its last action to each other action with probability proportional to its positive conditional regret, the empirical distribution of play converges almost surely to the set of correlated equilibria
 
@@ -71,5 +71,5 @@ Proposition and Theorem A (pp. 1133–1138), and the appendix.
   represented rule. It supports [THEORY-414](THEORY-414.md)'s view that equilibrium alone is
   not institution, and shows what adaptive play lacks: selection and
   stability of one equilibrium.
-- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** Inertia as a condition of convergence, not only of
+- **[CLAIM-443](../claims.d/CLAIM-443.md).** Inertia as a condition of convergence, not only of
   persistence.

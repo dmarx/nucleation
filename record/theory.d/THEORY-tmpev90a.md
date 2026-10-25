@@ -24,7 +24,7 @@ summary: >-
   agents and the parameters shown; the zero-decay, zero-sum case was first
   reported in Sato, Akiyama and Farmer (PNAS 2002), which is not held.
 ---
-<!-- inactive-ok-file: NOTE-tmp8ra24 THEORY-tmp3wkwk CLAIM-tmpuxcp6 — Proposed or new; the source and the accounts this bears on, named -->
+<!-- inactive-ok-file: NOTE-tmp8ra24 THEORY-tmp3wkwk CLAIM-451 — Proposed or new; the source and the accounts this bears on, named -->
 
 # THEORY-tmpev90a: In two-agent rock–scissors–paper played by softmax reinforcement learners, nonzero tie rewards give quasiperiodic tori and Hamiltonian chaos without memory decay, and limit cycles and chaotic attractors with it, over a large share of the tie-reward range simulated
 
@@ -58,7 +58,7 @@ read in [NOTE-tmp8ra24](../notes.d/NOTE-tmp8ra24.md).
 
 ## Connections
 
-- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md).** Persistent cycling and chaos from fixed, self-interested
+- **[CLAIM-451](../claims.d/CLAIM-451.md).** Persistent cycling and chaos from fixed, self-interested
   learning rules, with no regime switching and no preference instability.
   It also warns that behaviour that looks like switching between
   cooperation and competition can be one deterministic chaotic regime.

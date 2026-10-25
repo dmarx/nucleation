@@ -24,7 +24,7 @@ summary: >-
   a Prisoner's Dilemma.
 ---
 <!-- inactive-ok-file: THEORY-tmpc4gg9 — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmp28sti CLAIM-tmp8z857 CLAIM-423 CLAIM-277 — Proposed or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-445 CLAIM-446 CLAIM-423 CLAIM-277 — Proposed or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpke0z1: Leibo et al. — Multi-agent reinforcement learning in sequential social dilemmas
 
@@ -107,7 +107,7 @@ harvested), an institution, or any change of conditions during training.
 
 ## How it bears on the record
 
-- **[CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).** The lead offered SSDs as testbeds for protection and
+- **[CLAIM-445](../claims.d/CLAIM-445.md).** The lead offered SSDs as testbeds for protection and
   the commons. The reading narrows that. There is no protective regime
   here, no authority, no evidence that a regime could shape, and no
   commons that can be depleted, so nothing in the paper bears on the
@@ -121,7 +121,7 @@ harvested), an institution, or any change of conditions during training.
   and see whether aggression recedes. The authors' method of tracking a
   social behaviour metric under manipulated conditions is the right shape
   for that experiment.
-- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The same missing experiment is the individual
+- **[CLAIM-446](../claims.d/CLAIM-446.md).** The same missing experiment is the individual
   version: whether a learned defensive policy unlearns when the threat
   that trained it is gone. The ε-greedy exploration floor of 0.1 means
   these agents would keep sampling the alternative, which is the condition

@@ -105,7 +105,7 @@ arXiv:2004.09468
 
 Filed 2026-10-24 for the record's cycles line. Theorem 1 says when cycles
 are unavoidable: whenever parties can condition on who they face before
-the outcome is fixed. That bears on [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) and [TERM-077](../terms.d/TERM-077.md). Nash
+the outcome is fixed. That bears on [CLAIM-451](../claims.d/CLAIM-451.md) and [TERM-077](../terms.d/TERM-077.md). Nash
 clustering is a cardinal layering of a cyclic record, and Theorem 3 is a
 condition for escaping a cycle ([NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md)). It carries
 `anthology-candidate` because its subject is training agents for games.

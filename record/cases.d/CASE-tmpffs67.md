@@ -11,10 +11,10 @@ tags:
 date: '2026-10-24'
 line: distributed-agency
 illustrates:
-- CLAIM-tmp1xoac
+- CLAIM-444
 - QUESTION-tmpdicvf
 variant_of:
-- CASE-tmpw4r7u
+- CASE-155
 summary: >-
   Filed at the owner's direction, 2026-10-24, after the owner suggested
   taking inspiration from the experiments in dmarx/BoostTheVote. A
@@ -24,7 +24,7 @@ summary: >-
   What it shows, what it assumes, and the three-axis extension it suggests
   are recorded, and the extension was run on 2026-10-25.
 ---
-<!-- inactive-ok-file: CASE-tmpw4r7u CLAIM-tmp1xoac QUESTION-tmpdicvf THEORY-tmp3oyxw THEORY-tmpar5jw THEORY-tmphhvqf CLAIM-tmp8z857 — Proposed or new; the construction, claim and question this bears on -->
+<!-- inactive-ok-file: CASE-155 CLAIM-444 QUESTION-tmpdicvf THEORY-899 THEORY-tmpar5jw THEORY-tmphhvqf CLAIM-446 — Proposed or new; the construction, claim and question this bears on -->
 
 # CASE-tmpffs67: Boosting the vote: in the owner's 2014 model, voters of fixed accuracy drawn from Beta(2, 2) vote in a weight-averaged election, and every voter's weight is multiplied by 1 + f when their own vote was right and 1 − f when not, with a fraction replaced each round at weight 1; with full-information feedback the weighted result rises from 0.50 toward 0.98 as f grows, and churn only costs in a world that never changes; the model escapes the hive mind's absorbing states because every voter is scored, heeded or not, and it assumes away the capture its author predicted
 
@@ -64,7 +64,7 @@ being replaced. That looks unintended.
 
 - **Full-information feedback.** Every voter's vote is scored against the
   outcome, whether or not it decided anything. That is the experts setting,
-  where the hive mind ([THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md)) and plain Q-learning
+  where the hive mind ([THEORY-899](../theory.d/THEORY-899.md)) and plain Q-learning
   ([THEORY-tmpar5jw](../theory.d/THEORY-tmpar5jw.md)) get bandit feedback. Two consequences:
   - weights never reach zero, so a low-weight voter who keeps voting well
     climbs back;
@@ -72,8 +72,8 @@ being replaced. That looks unintended.
     scored while holding little weight.
 
   So the model is the replicator construction's evidence-tracking regime
-  ([CASE-tmpw4r7u](CASE-tmpw4r7u.md), part 1) without that regime's absorbing edges. It
-  satisfies the first of [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)'s three conditions by design.
+  ([CASE-155](CASE-155.md), part 1) without that regime's absorbing edges. It
+  satisfies the first of [CLAIM-444](../claims.d/CLAIM-444.md)'s three conditions by design.
 - **Churn is renewal.** Replacement is turnover, of the kind March found
   useful ([THEORY-142](../theory.d/THEORY-142.md)), and age-weighted replacement works like term limits.
   In a stationary world it only costs: the table's columns fall left to
@@ -87,7 +87,7 @@ being replaced. That looks unintended.
   constructed, which is [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md)'s failure 2.
 - **Capture.** The disclaimer predicts that the process "would be corrupted
   to bring about whatever outcome the people in control of the processes
-  wanted". That is failure 3, and [CASE-tmpw4r7u](CASE-tmpw4r7u.md)'s self-scoring c, stated
+  wanted". That is failure 3, and [CASE-155](CASE-155.md)'s self-scoring c, stated
   before the record existed.
 - **Cycles.** One binary question cannot produce Condorcet cycles
   (failure 1).
@@ -103,7 +103,7 @@ Three axes, crossed, with a world whose truth changes partway through:
 3. **Renewal.** Churn rate, and whether it targets age or weight.
 
 The prediction, as filed before the run: the record's anxiety, protection
-and legibility claims ([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md), [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md), [CASE-tmpydmf8](CASE-tmpydmf8.md))
+and legibility claims ([CLAIM-446](../claims.d/CLAIM-446.md), [CLAIM-445](../claims.d/CLAIM-445.md), [CASE-156](CASE-156.md))
 predict that lock-in needs both bandit-like feedback and an endogenous
 metric, and that renewal pays only under change. Lock-in under full
 feedback with an independent metric would count against them. So would
@@ -165,7 +165,7 @@ With age renewal, all were right, with a delay of about 8.
 4. **Outcome-conditional observation suffices too.** With an independent
    metric, avoidance alone held about 60% of runs on the old answer for the
    whole second phase. Escape came only when vote noise tipped a decision
-   into acting. This is [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s identifiability step reproduced.
+   into acting. This is [CLAIM-446](../claims.d/CLAIM-446.md)'s identifiability step reproduced.
 5. **Renewal pays under change and costs little before it.** Age-targeted
    renewal rescued every case except the fully endogenous one, which is a
    coin-flip lock from the first elections: the decision never changes.

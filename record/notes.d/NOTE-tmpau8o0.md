@@ -27,7 +27,7 @@ summary: >-
   pair, and left all but 2 or 3 experts with mixing proportion near zero.
 ---
 <!-- inactive-ok-file: THEORY-tmpgtvdv — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-277 CLAIM-tmp0qupq CLAIM-362 QUESTION-132 QUESTION-134 THEORY-tmp3oyxw — Proposed, Open or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-277 CLAIM-443 CLAIM-362 QUESTION-132 QUESTION-134 THEORY-899 — Proposed, Open or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpau8o0: Jacobs, Jordan, Nowlan and Hinton — Adaptive mixtures of local experts
 
@@ -150,7 +150,7 @@ plotted run.
   zero everywhere is a process with no consequential role. Whether it
   keeps the competence to take one back is [QUESTION-134](../questions.d/QUESTION-134.md)'s question; here
   its weights simply stop changing, so it neither learns nor forgets.
-- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md).** The posterior responsibility in
+- **[CASE-155](../cases.d/CASE-155.md) and [THEORY-899](../theory.d/THEORY-899.md).** The posterior responsibility in
   Eq. 1.5, p_i e^(−½e_i²) / Σ_j p_j e^(−½e_j²), is the case's first result
   per training case: authority reweighted by each expert's likelihood of
   the target, Bayes over experts as hypotheses. The gate learns that

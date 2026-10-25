@@ -26,7 +26,7 @@ summary: >-
   agent's best action depends on the others' current actions.
 ---
 <!-- inactive-ok-file: THEORY-tmp56jxv THEORY-tmpayfgm — Proposed; filed from this reading and its companion, named -->
-<!-- inactive-ok-file: CLAIM-436 CLAIM-440 CLAIM-tmpuxcp6 THEORY-896 CLAIM-tmpd6q2w CLAIM-403 — Proposed; the claims and accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-436 CLAIM-440 CLAIM-451 THEORY-896 CLAIM-448 CLAIM-403 — Proposed; the claims and accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpoitn8: Rashid et al. — QMIX: monotonic value function factorisation
 
@@ -145,12 +145,12 @@ satisfy it.
   for every u^−a, is the factored condition of [LIT-tmp8bczu](../literature.d/LIT-tmp8bczu.md)
   ([NOTE-tmpo0w02](NOTE-tmpo0w02.md)), stated for values rather than utilities. Both are
   ordinal. Neither needs exchange rates between members.
-- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md), [TERM-077](../terms.d/TERM-077.md), [THEORY-896](../theory.d/THEORY-896.md) (cycles).** Irrelevant, and the
+- **[CLAIM-451](../claims.d/CLAIM-451.md), [TERM-077](../terms.d/TERM-077.md), [THEORY-896](../theory.d/THEORY-896.md) (cycles).** Irrelevant, and the
   reason is worth recording. In a cooperative game every agent's payoff is
   the shared reward, so the shared value is an exact potential and no
   improvement cycle can occur ([THEORY-896](../theory.d/THEORY-896.md)). All three cooperative papers
   in this batch work inside that corner; none bears on nonintegrability.
-- **[CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) and [CLAIM-403](../claims.d/CLAIM-403.md) (what the record admits).** Under partial
+- **[CLAIM-448](../claims.d/CLAIM-448.md) and [CLAIM-403](../claims.d/CLAIM-403.md) (what the record admits).** Under partial
   observability QMIX may be unable to represent Q_tot when an agent's local
   view does not reveal the state (supplement A.1). That is a legibility
   limit: the collective ordering exists, and members cannot act on it from

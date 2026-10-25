@@ -25,7 +25,7 @@ summary: >-
   perplexity from 39.8 to 35.6.
 ---
 <!-- inactive-ok-file: THEORY-tmp2p13l — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-277 CLAIM-tmp0qupq CLAIM-362 QUESTION-132 QUESTION-134 — Proposed, Open or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-277 CLAIM-443 CLAIM-362 QUESTION-132 QUESTION-134 — Proposed, Open or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpa8fuv: Shazeer et al. — Outrageously large neural networks: the sparsely-gated mixture-of-experts layer
 
@@ -118,11 +118,11 @@ deserve use.
 
 ## How it bears on the record
 
-- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** This is the entrenchment loop in a
+- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-443](../claims.d/CLAIM-443.md).** This is the entrenchment loop in a
   working system, with the mechanism stated by its builders: allocation
   determines training, training determines competence, competence
   determines allocation. It is [CLAIM-277](../claims.d/CLAIM-277.md)'s second chain and
-  [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s warning that naive Hebbian learning entrenches,
+  [CLAIM-443](../claims.d/CLAIM-443.md)'s warning that naive Hebbian learning entrenches,
   observed rather than conjectured, though only as an observation with one
   table behind it. Two details matter for the claims. The imbalance here
   is in use (importance and load), and the paper does not show whether
@@ -147,7 +147,7 @@ deserve use.
   set from outside the dynamics. The record's question is whether an
   organization can keep a specialist recoverable without such a
   constraint; this paper's answer, for its system, is that it used one.
-- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md).** The case's lock-in needs a score that rises with a
+- **[CASE-155](../cases.d/CASE-155.md).** The case's lock-in needs a score that rises with a
   process's own share. Here the share raises training, and training raises
   the score, so c > 0 arises through learning, not through the scoring
   channel. The initialization at zero, which keeps early shares equal, is

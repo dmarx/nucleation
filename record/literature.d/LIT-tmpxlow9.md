@@ -97,10 +97,10 @@ dynamics of learning in multiagent systems. *Physical Review E* 67:
 
 Filed 2026-10-24 when the owner asked how the record stands on multi-agent
 reinforcement learning. It is the learning-side derivation of the coupled
-dynamics the record's replicator reading of authority uses ([CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)),
+dynamics the record's replicator reading of authority uses ([CLAIM-444](../claims.d/CLAIM-444.md)),
 it shows that forgetting enters those dynamics as a force towards equal
 shares, and it is a demonstrated case of cycles and chaos produced by
-self-interested learners with no switching of regime ([CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)). It
+self-interested learners with no switching of regime ([CLAIM-451](../claims.d/CLAIM-451.md)). It
 carries `anthology-candidate` because it is offered as a framework for
 analysing multi-agent learning systems. It carries no instruction for ML
 practice.

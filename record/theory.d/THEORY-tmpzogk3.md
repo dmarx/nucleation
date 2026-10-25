@@ -87,7 +87,7 @@ not.
 
 The cleanest formal answer the record holds to one capture route: a
 scoring layer that can be moved by padding the evaluated population. It
-narrows [CASE-124](../cases.d/CASE-124.md)'s μ route and is distinct from [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s
+narrows [CASE-124](../cases.d/CASE-124.md)'s μ route and is distinct from [CASE-155](../cases.d/CASE-155.md)'s
 share-dependent c ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)). The value-based invariant of
 Balduzzi et al. (2019), [THEORY-tmpxh6cj](THEORY-tmpxh6cj.md), needs no uniqueness and holds for
 behavioural mixtures as well as copies.

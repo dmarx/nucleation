@@ -26,7 +26,7 @@ rests_on:
 - CLAIM-162
 complements:
 - CLAIM-433
-- CLAIM-tmpf2p3p
+- CLAIM-449
 uses:
 - TERM-076
 - TERM-050

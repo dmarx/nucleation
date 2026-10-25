@@ -27,7 +27,7 @@ summary: >-
   the Coin Game, less reliably with a learned model of the opponent.
 ---
 <!-- inactive-ok-file: THEORY-tmpaod5d — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmpd6q2w CLAIM-tmp1xoac CLAIM-tmp0qupq CLAIM-tmp28sti CLAIM-tmpuxcp6 THEORY-896 — Proposed; the claims and accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-448 CLAIM-444 CLAIM-443 CLAIM-445 CLAIM-451 THEORY-896 — Proposed; the claims and accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpj4dtw: Foerster et al. — Learning with opponent-learning awareness
 
@@ -129,7 +129,7 @@ consistency and stability of LOLA exists but was not read here.
 ## Bearing on the record
 
 - **The lead's description, "a learning-aware model of authority shaping
-  others' learning" ([CASE-124](../cases.d/CASE-124.md), [CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md)), holds as an analogy with a
+  others' learning" ([CASE-124](../cases.d/CASE-124.md), [CLAIM-448](../claims.d/CLAIM-448.md)), holds as an analogy with a
   precise mechanism.** [CASE-124](../cases.d/CASE-124.md)'s ε arrow has authority move the regime
   through which others' evidence is read. LOLA's second-order term is a
   formal version of acting for one's effect on another's update rather
@@ -145,12 +145,12 @@ consistency and stability of LOLA exists but was not read here.
   record's worry that a shaping process entrenches itself; it shows that
   shaping another's learning can be the route to cooperation. Nothing here
   models a shaper with authority over the other's evidence.
-- **[CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) (selective contestation).** Complicates it slightly.
+- **[CLAIM-448](../claims.d/CLAIM-448.md) (selective contestation).** Complicates it slightly.
   LOLA is a case in which one party deliberately acts on another's
   learning and the outcome is better for both. Influence on the other's
   learning is not by itself evidence of suppression; what the claim needs
   is influence on which contests are recorded.
-- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md), [TERM-077](../terms.d/TERM-077.md) and [THEORY-894](../theory.d/THEORY-894.md) (cycles).** A direct link,
+- **[CLAIM-451](../claims.d/CLAIM-451.md), [TERM-077](../terms.d/TERM-077.md) and [THEORY-894](../theory.d/THEORY-894.md) (cycles).** A direct link,
   mine. Matching pennies is the textbook harmonic game, all cycle and no
   potential, and naive gradient learners there "fail to converge" (p. 7).
   LOLA learners settled at the mixed equilibrium (98.8% of exact runs).
@@ -158,10 +158,10 @@ consistency and stability of LOLA exists but was not read here.
   deviation from Nash increases their immediate return, but also renders
   them more exploitable by the opponent's next learning step" (p. 5). So
   modelling another's learning is one way the cycling of a nonintegrable
-  negotiation can be relieved: a fourth candidate beside [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)'s
+  negotiation can be relieved: a fourth candidate beside [CLAIM-451](../claims.d/CLAIM-451.md)'s
   accommodation, entrenched precedence and cheap coordination, or a form
   of accommodation. Shown in one two-action game.
-- **[CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md) and [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) (authority dynamics; a learned
+- **[CLAIM-444](../claims.d/CLAIM-444.md) and [CLAIM-443](../claims.d/CLAIM-443.md) (authority dynamics; a learned
   prior over governance).** A model class the record lacks: processes
   whose influence on each other runs through each other's learning rules,
   not only through scores. The replicator reading treats processes as

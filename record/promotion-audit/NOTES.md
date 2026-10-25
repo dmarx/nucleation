@@ -42,9 +42,9 @@ decision files do not say.
 - `luria new adr` takes the next free number at once (the `filing` mode).
   Concurrent branches can collide on it.
 - Codes in these YAML files are not linked or upgraded by `luria repair`.
-  Use concretized codes. PR #165's tmp codes (CLAIM-tmpzk12h,
-  CLAIM-tmpu2dsm, THEORY-tmpsuto2, THEORY-tmp2m4ke, THEORY-tmp60l2i,
-  QUESTION-tmpxheie, QUESTION-tmp4uhs6) get numbers when it merges.
+  Use concretized codes. PR #165's tmp codes (CLAIM-371,
+  CLAIM-370, THEORY-719, THEORY-717, THEORY-718,
+  QUESTION-137, QUESTION-136) get numbers when it merges.
 - Run the triage against a freshly fetched origin/main, never a local
   main. Queue version 1 was scored against a stale clone-time main
   (b84ad2e3), because `git checkout main || git fetch` never fetched once
@@ -215,7 +215,7 @@ decision files do not say.
 - **Wave-4 re-grounding candidates after #176.** CLAIM-105, CLAIM-201,
   CLAIM-219, CLAIM-235, CLAIM-319, CLAIM-320 and CASE-037 cite THEORY-165
   for the continuity of the contextual fraction. That result is now held
-  by CLAIM-tmp496tl, the Lipschitz bound split from THEORY-165 in #176.
+  by CLAIM-372, the Lipschitz bound split from THEORY-165 in #176.
   Once #176 merges, each one that needs only continuity can re-ground on
   the new claim.
 
@@ -1405,10 +1405,10 @@ history note. THEORY-277 is requeued on this basis.
 ## 2026-10-20 — tmp codes in the ledger
 
 - A decision file for a CLAIM filed in a batch is named by its tmp code
-  (CLAIM-tmprruzz). docs-generate concretizes the code in record/ but not
+  (CLAIM-384). docs-generate concretizes the code in record/ but not
   in record/promotion-audit, so after the filing PR merges, rename the
   decision file and every ledger reference to the permanent code
-  (CLAIM-tmprruzz became CLAIM-384).
+  (CLAIM-384 became CLAIM-384).
 
 ## 2026-10-19 — batch 048 (wave 3, score-2 band)
 

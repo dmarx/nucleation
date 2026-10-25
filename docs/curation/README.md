@@ -6,6 +6,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [24 Oct 07:01 — Soma et al., "The hive mind is a single reinforcement learning agent", filed and read at the owner's request](2026-10.md#soma-et-al-the-hive-mind-is-a-single-reinforcement-learning-agent-filed-and-read-at-the-owners-request)
+- [24 Oct 03:47 — The exchange's twenty-eight works sought: eighteen read, ten Unavailable; twenty-five Proposed THEORYs, and what the reading corrected](2026-10.md#the-exchanges-twenty-eight-works-sought-eighteen-read-ten-unavailable-twenty-five-proposed-theorys-and-what-the-reading-corrected)
+- [24 Oct 03:17 — Twenty-seven works registered unread from the exchange on governance, anxiety and legibility; three already held](2026-10.md#twenty-seven-works-registered-unread-from-the-exchange-on-governance-anxiety-and-legibility-three-already-held)
 - [23 Oct 14:25 — Prior art for valence as ordering-potential: eight works, three read through lawful stand-ins, one Deferred, and what the reading corrected before filing](2026-10.md#prior-art-for-valence-as-ordering-potential-eight-works-three-read-through-lawful-stand-ins-one-deferred-and-what-the-reading-corrected-before-filing)
 - [23 Oct 05:18 — Corporate psychopathy: eight works sought, two read in full, six Unavailable, and what the reading changed in the claim](2026-10.md#corporate-psychopathy-eight-works-sought-two-read-in-full-six-unavailable-and-what-the-reading-changed-in-the-claim)
 - [23 Oct 03:21 — The works cited in the two exchanges of 2026-10-22 and 2026-10-23: twenty-two registered unread, one read in full, three Unavailable, and what checking the abstracts corrected](2026-10.md#the-works-cited-in-the-two-exchanges-of-2026-10-22-and-2026-10-23-twenty-two-registered-unread-one-read-in-full-three-unavailable-and-what-checking-the-abstracts-corrected)
@@ -127,9 +130,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-165 entries across 2 books, newest first.
+168 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 118 | 2026-10-01 | 2026-10-23 |
+| [2026-10](2026-10.md) | 121 | 2026-10-01 | 2026-10-24 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

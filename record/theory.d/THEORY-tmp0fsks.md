@@ -26,7 +26,7 @@ summary: >-
   throughout.
 ---
 <!-- inactive-ok-file: NOTE-tmpr1f7n — the reading this is filed from -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 — Proposed; named in prose, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
 # THEORY-tmp0fsks: Elo ratings are the row means of a win-probability matrix's log-odds; they reproduce the matrix exactly when the log-odds have no cyclic component, and adding a copy of one agent shifts the ratings of the others
 
@@ -67,9 +67,9 @@ The reader re-derived both propositions; each is a line of algebra.
 
 ## Connections
 
-Bears on [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) only negatively: in a fully cyclic record every
+Bears on [CLAIM-451](../claims.d/CLAIM-451.md) only negatively: in a fully cyclic record every
 option gets the same Elo, so a scalar mean cannot tell cyclic tension from
 indifference. The copy effect is the simplest form of a scoring layer that
 can be moved without changing what is scored. That is the kind of route
-that [CASE-124](../cases.d/CASE-124.md)'s μ arrow and [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s share-dependent scoring
+that [CASE-124](../cases.d/CASE-124.md)'s μ arrow and [CASE-155](../cases.d/CASE-155.md)'s share-dependent scoring
 formalize.
