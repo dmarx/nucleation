@@ -1,13 +1,17 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-25, not read. Registered from the owner's exchange of
-  2026-10-24/25 (the continuation of "Review PR 327 Improvements"), shared
-  at https://chatgpt.com/share/6add7ae3-1a38-83ea-ac83-4f490e399824, where
-  "classical consensus and DeGroot models" are cited at turn U36 without a
-  title. No NOTE is filed.
+  filed 2026-10-25 from the owner's exchange of 2026-10-24/25, not read. A
+  lawful full text was sought on 2026-10-25 and none was found. Unpaywall
+  and OpenAlex report it closed, with no repository copy, and Semantic
+  Scholar's openAccessPdf is empty (CLOSED). Taylor & Francis refused the
+  PDF (403), and JSTOR (stable 2285509) holds it behind access. Web
+  searches for an author, institutional or course copy found none
+  lawfully posted. It stays Unavailable until a copy is supplied. The
+  record reads the model through Golub and Jackson (LIT-999, THEORY-321).
+  No NOTE is filed.
 title: 'Reaching a Consensus'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -24,6 +28,13 @@ history:
     Association 69(345), 118–121, issue March 1974 with no day, so
     `published:` is 1974-03-01, meaning March 1974 (ADR-002). OpenAlex
     lists it closed. The summary follows the abstract on OpenAlex.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a search for a lawful full
+    text on 2026-10-25 (Unpaywall, OpenAlex, Semantic Scholar, Taylor &
+    Francis, JSTOR, web searches for author or institutional copies)
+    reached none. No NOTE is filed.
 tags:
 - network-science
 - social-science

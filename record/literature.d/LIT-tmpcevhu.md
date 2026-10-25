@@ -1,13 +1,23 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-25, not read. Registered from the owner's exchange of
-  2026-10-24/25 (the continuation of "Review PR 327 Improvements"), shared
-  at https://chatgpt.com/share/6add7ae3-1a38-83ea-ac83-4f490e399824, where
-  the sequential probability ratio test is cited at turn U35 without an
-  author or title. No NOTE is filed.
+  filed 2026-10-25 from the owner's exchange of 2026-10-24/25, not read. A
+  lawful full text was sought on 2026-10-25 and not reached: it failed on
+  access, not availability. The publisher's copy at Project Euclid is free
+  to read (Unpaywall and OpenAlex both list it, bronze), but Project
+  Euclid's bot check (Incapsula) answered every request from this client,
+  by curl and by WebFetch, with a challenge page and no PDF. The Internet
+  Archive holds captures of that PDF (2026-09-17 and 2026-02-17, per its
+  availability API), but web.archive.org reset every connection from this
+  environment that day. Semantic Scholar was rate-limited; CORE returned
+  no usable result; DTIC refused (403) and a search found no deposit of
+  the OSRD report (no. 1998) the Annals text was reprinted as. The
+  Springer reprint in Kotz and Johnson's Breakthroughs in Statistics is
+  paywalled. It stays Unavailable until a copy is supplied, and is among
+  the quickest to clear by hand: the Project Euclid PDF opens in a
+  browser. No NOTE is filed.
 title: 'Sequential Tests of Statistical Hypotheses'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -26,6 +36,16 @@ history:
     lists a free copy at Project Euclid. It is distinct from Wald's book
     Sequential Analysis (1947). Crossref and OpenAlex carry no abstract,
     so the summary states what the paper is standardly cited for.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, the case of a lawful copy
+    this client could not fetch. On 2026-10-25 the free Project Euclid PDF
+    (listed by Unpaywall and OpenAlex) returned only an Incapsula
+    challenge page to curl and to WebFetch; its Internet Archive captures
+    exist but web.archive.org reset every connection; Semantic Scholar,
+    CORE and DTIC gave nothing usable, and no other lawful copy was found
+    by search. No NOTE is filed.
 tags:
 - mathematical-statistics
 date: '2026-10-25'
