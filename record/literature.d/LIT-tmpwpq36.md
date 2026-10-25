@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-25 (NOTE-tmpupizd) in full, from the authors' preprint of March 2013 on Alexander Rakhlin's MIT page; worth reading for the complete classification of finite partial-monitoring games by minimax regret (0, Θ̃(√T), Θ(T^2/3), Θ(T); THEORY-tmpz3a05), for the linear-algebra conditions, global and local observability, that decide the class (THEORY-tmpwtj3m), and for the algorithms CBP and NeighborhoodWatch. Read it knowing that the adversarial classification covers non-degenerate games only, that Lattimore and Szepesvári (2019) later completed it and corrected errors in the earlier analyses, that the classification concerns the best policy in a fixed, known game, and that the copy read is the preprint, not the journal text.
+  read 2026-10-25 ([NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md)) in full, from the authors' preprint of March 2013 on Alexander Rakhlin's MIT page; worth reading for the complete classification of finite partial-monitoring games by minimax regret (0, Θ̃(√T), Θ(T^2/3), Θ(T); [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md)), for the linear-algebra conditions, global and local observability, that decide the class ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)), and for the algorithms CBP and NeighborhoodWatch. Read it knowing that the adversarial classification covers non-degenerate games only, that Lattimore and Szepesvári (2019) later completed it and corrected errors in the earlier analyses, that the classification concerns the best policy in a fixed, known game, and that the copy read is the preprint, not the journal text.
 title: 'Partial Monitoring—Classification, Regret Bounds, and Algorithms'
 version: 2
 history:
@@ -63,7 +63,7 @@ Partial monitoring—classification, regret bounds, and algorithms.
 *Mathematics of Operations Research* 39(4): 967–997.
 doi:10.1287/moor.2014.0663.
 
-Read 2026-10-25 in full (NOTE-tmpupizd), from the authors' preprint of
+Read 2026-10-25 in full ([NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md)), from the authors' preprint of
 March 2013, not compared with the journal text. The summary was checked
 against it and narrowed to non-degenerate games for adversarial
 opponents.

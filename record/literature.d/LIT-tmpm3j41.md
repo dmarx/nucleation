@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-25 (NOTE-tmpfxkdt) in full, from the PMLR copy and its supplementary material; worth reading for the reduction of approachability under partial monitoring to full-information approachability in a lifted space of flags, for the optimal worst-case rates, O(T^-1/3) for general signals and O(T^-1/2) when the signal does not depend on the decision (THEORY-tmp172nr), and for the exploration floor that decision-dependent signals require (THEORY-tmpjv5er). Read it knowing that approachability is assumed rather than decided, that the guarantees concern the average payoff and so let violations be compensated over time, that optimality is worst case over games, that the constants grow with a simplicial subdivision, and that the proof for outcome-dependent signals is omitted.
+  read 2026-10-25 ([NOTE-tmpfxkdt](../notes.d/NOTE-tmpfxkdt.md)) in full, from the PMLR copy and its supplementary material; worth reading for the reduction of approachability under partial monitoring to full-information approachability in a lifted space of flags, for the optimal worst-case rates, O(T^-1/3) for general signals and O(T^-1/2) when the signal does not depend on the decision ([THEORY-tmp172nr](../theory.d/THEORY-tmp172nr.md)), and for the exploration floor that decision-dependent signals require ([THEORY-tmpjv5er](../theory.d/THEORY-tmpjv5er.md)). Read it knowing that approachability is assumed rather than decided, that the guarantees concern the average payoff and so let violations be compensated over time, that optimality is worst case over games, that the constants grow with a simplicial subdivision, and that the proof for outcome-dependent signals is omitted.
 title: 'Online Learning and Blackwell Approachability with Partial Monitoring: Optimal Convergence Rates'
 version: 2
 history:
@@ -65,7 +65,7 @@ approachability with partial monitoring: Optimal convergence rates. In
 Intelligence and Statistics*, PMLR 54: 604–613.
 https://proceedings.mlr.press/v54/kwon17a.html.
 
-Read 2026-10-25 in full (NOTE-tmpfxkdt), from the PMLR copy and its
+Read 2026-10-25 in full ([NOTE-tmpfxkdt](../notes.d/NOTE-tmpfxkdt.md)), from the PMLR copy and its
 supplementary material. The summary was checked against it.
 
 ## Why this is here
