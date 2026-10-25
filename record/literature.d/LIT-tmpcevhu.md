@@ -64,11 +64,11 @@ At U34 the owner hypothesized that when the perspectives advocate one of n
 drift–diffusion dynamics, and at U35 the reply cited the sequential
 probability ratio test as the classical link between accumulated
 likelihood evidence and binary drift–diffusion. The record already held
-the link only as restated: Bogacz et al. (LIT-569) state that the SPRT "of
+the link only as restated: Bogacz et al. ([LIT-569](LIT-569.md)) state that the SPRT "of
 Barnard and Wald" is the fastest test for a given error rate and that its
-continuum limit is the drift–diffusion model, and THEORY-068 reads it.
-CASE-tmpw4r7u part 4 shows that the replicator in log-odds form with no
+continuum limit is the drift–diffusion model, and [THEORY-068](../theory.d/THEORY-068.md) reads it.
+[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) part 4 shows that the replicator in log-odds form with no
 feedback term is the SPRT walk. The claim {{F-C-DDM2}} and the
-construction {{F-K-NETDDM}} rest on that limit; CLAIM-262 is the owner's
+construction {{F-K-NETDDM}} rest on that limit; [CLAIM-262](../claims.d/CLAIM-262.md) is the owner's
 earlier, continuous statement of the hypothesis. This is the primary
 source.

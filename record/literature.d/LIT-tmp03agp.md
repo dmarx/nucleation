@@ -63,8 +63,8 @@ population of perspectives, each proposing a denoising step within a
 spatial jurisdiction over one shared latent, and presented combining their
 noise predictions as new. Fusing several masked diffusion processes into
 one image is this paper's method; the record already holds the composition
-of noise predictions by concept, without masks, in Liu et al. (LIT-770,
-THEORY-405) and classifier-free guidance (LIT-839, THEORY-611). It bears
+of noise predictions by concept, without masks, in Liu et al. ([LIT-770](LIT-770.md),
+[THEORY-405](../theory.d/THEORY-405.md)) and classifier-free guidance ([LIT-839](LIT-839.md), [THEORY-611](../theory.d/THEORY-611.md)). It bears
 on {{F-Q-INFL}}, whose geometric neighbourhoods and population of
 denoisers are the exchange's mechanisms of influence. Filed for the
 record's question about influence over a shared representation, not as an

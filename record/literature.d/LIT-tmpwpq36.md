@@ -71,10 +71,10 @@ monitoring first, as the formal case of an organization whose feedback is
 informative about some comparisons of its processes and not others. U30
 used its global-observability condition for the channels an organization
 can access, and U31 built experiments on it. The record had no work on
-partial monitoring. It bears on QUESTION-tmpdicvf (bandit against
+partial monitoring. It bears on [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md) (bandit against
 full-information evaluation of an organization's processes) and on
-CASE-124 (what responses can distinguish). The exchange applied it to
-CLAIM-tmp8z857's avoid/approach example; read as a partial-monitoring game
+[CASE-124](../cases.d/CASE-124.md) (what responses can distinguish). The exchange applied it to
+[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s avoid/approach example; read as a partial-monitoring game
 that example is locally observable, so the failure lies in the policy's
 not sampling approach, not in the feedback, as the dated note of
 2026-10-25 on that claim says. The audited-governance study {{F-K-AUDIT}}
