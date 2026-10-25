@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdga80
 title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -29,6 +29,14 @@ history:
     where each bears. Two passages are corrected: representationalism is
     nearest the claim only on the character of experience, and Negro's
     objection includes a charge of eliminativism. The claim is unchanged.
+- version: 5
+  date: '2026-10-25'
+  note: >-
+    Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
+    NOTE-tmpn1hle: like Lyre he addresses the character of experience only,
+    and his three layers are a structural analogue of interpretive
+    organization. Nothing is added to the claim's grounds. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -77,6 +85,7 @@ grounds:
 <!-- inactive-ok-file: TERM-072 TERM-073 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-411 CLAIM-413 THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1346 LIT-1348 LIT-1351 LIT-1353 LIT-1354 LIT-1355 LIT-1359 — Deferred; works registered unread, cited as such -->
+<!-- inactive-ok-file: THEORY-tmpt62hk — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
 # CLAIM-412: Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience
 
 ## The claim
@@ -335,3 +344,26 @@ bear on it as follows.
 
 The defeater is not met by any of them.
 
+## Note of 2026-10-25: Isaac's layers
+
+The exchange cited Isaac (LIT-1361) as a structuralist programme. It was
+read on 2026-10-25 in NOTE-tmpn1hle. Like Lyre, he addresses "one facet of
+consciousness", phenomenal experience, and says nothing about what makes a
+state conscious rather than not. So he bears on the claim's account of character, not on its identity,
+and CLAIM-411's gap is untouched.
+
+Within that scope his account is a structural analogue of interpretive
+organization, in three layers: contrast within a quality space, without
+which a shade "considered in isolation" is "not apt to play any
+representational role"; invariance under transformations within experience,
+which on his account, after Cassirer, distinguishes subject from object
+(THEORY-tmpt62hk); and fields of valence and affordance that give the
+experienced world significance and guide action. These are near the three
+parts of the claim's definition of interpretation: distinction, context and
+consequentiality. His relations are not only similarities, so Aldé's
+objection reaches him no more than it reaches the claim.
+
+He does not argue constitution. His structuralism is "a stance", and he
+calls the two higher layers "mere suggestive sketches". So the paper is not
+listed among the claim's grounds. The comparison is the record's. The
+defeater is not met.

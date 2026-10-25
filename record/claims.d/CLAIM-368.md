@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpyk3it
 title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-18'
@@ -14,6 +14,13 @@ history:
     claim points to CLAIM-347 for the structural definition and leaves the
     relation to operative thwarting to QUESTION-131. The defeater is
     rewritten to match.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
+    NOTE-tmpn1hle: a felt, individual case of managing a frustrated demand
+    by altering the field in which it is presented. An analogy, not
+    evidence. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -162,3 +169,23 @@ downstream applications, not premises").
 - **That the line of organizational affect is reopened.** The claim is
   filed in distributed-agency and will-organization. Whether a frustration
   account reopens [CLAIM-039](CLAIM-039.md) and its questions is for the owner.
+
+## Note of 2026-10-25: a felt case of altering the field
+
+Isaac (LIT-1361, read in NOTE-tmpn1hle, §2.3) gives a case outside this
+claim's domain that shows one route to managing frustration. The handle of a
+pot just out of the oven invites the grasp so strongly that he reaches for
+it "despite 'knowing' it is too hot to touch". Afterwards he may place a tea
+towel over it, "both to protect my hand when I do reach for the lid, but
+also to remove from my visual field the affordance the handle typically
+offers, so I do not grasp it in error again".
+
+In this claim's terms, two maintained demands, the invitation and the
+avoidance of a burn, are not jointly realizable, and the conflict is managed
+neither by realizing the invitation nor by overriding it each time, but by
+changing the field in which it is presented. The case is an individual's and
+felt, where the claim is stated for organizations and without feelings, so
+it is an analogy, not evidence. Its organizational counterpart would be an
+act of governance that removes a demand's occasion rather than the demand;
+whether that differs from a change in the admissible set is not taken up
+here. The comparison is the record's.

@@ -20,7 +20,14 @@ promote_when: >-
   the untouched similarities are unchanged after the repertoire changes.
   Argument about conceivability cannot settle it.
 title: "The specific phenomenal character of an experience is fixed by its place in a quality space, the structure of all the discriminations a sensory system can make, and that structure is mirrored many-to-one in neural feature maps; whether the state is conscious at all is left to a separate general mechanism; so experiences are holistic, a change anywhere in the space can change every experience in it, and spectrum inversion is excluded actually by the asymmetry of colour space and nomologically by its ties to the other senses"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
+    NOTE-tmpn1hle: a structuralist who cites Lyre, shares the first layer,
+    and denies that geometry suffices. The THEORY is unchanged.
 tags:
 - consciousness
 - phenomenology
@@ -39,6 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-868 THEORY-867 — Proposed; the two objections filed from the same batch, named -->
 <!-- inactive-ok-file: CLAIM-412 CLAIM-136 CLAIM-138 — Proposed; the record's claims this account bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpt62hk THEORY-tmpeq5py — Proposed; the two readings of Isaac filed on 2026-10-25, named -->
 
 # THEORY-880: The specific phenomenal character of an experience is fixed by its place in a quality space, the structure of all the discriminations a sensory system can make, and that structure is mirrored many-to-one in neural feature maps; whether the state is conscious at all is left to a separate general mechanism; so experiences are holistic, a change anywhere in the space can change every experience in it, and spectrum inversion is excluded actually by the asymmetry of colour space and nomologically by its ties to the other senses
 
@@ -122,3 +130,30 @@ has one. The holism prediction could fail; no test is reported.
 - **[QUESTION-254](../questions.d/QUESTION-254.md).** The split between content-specific and general
   correlates is the structuralist's own admission that structure does not
   give the sufficiency condition the question asks for.
+
+## Note of 2026-10-25: Isaac's structuralism
+
+Isaac (LIT-1361, read in NOTE-tmpn1hle) cites Lyre (2022) among the
+structuralist programmes his paper joins. He shares this THEORY's first
+layer, quality spaces measured by discrimination, matching and judgement,
+and like Lyre he addresses phenomenal character only. He departs from it in
+two ways.
+
+- **Geometry is not enough.** "The geometrical structure of phenomenal
+  experience by itself is not enough to generate meaning" (§3). He adds a
+  group-theoretic layer of constancy (THEORY-tmpt62hk) and a dynamic layer
+  of valence and affordance fields.
+- **No individuation thesis.** He never says that an experience is fully
+  individuated by its place in the space. His structuralism is "a stance",
+  and an isomorphism between experience and brain is a regulative ideal of
+  method, not a reduction.
+
+Where Lyre's neural evidence is one study of colour in V4, Isaac's worked
+cases are failures of mapping: DKL, a space built from LGN opponency,
+distorts CIELAB distances and misplaces the unique hues, and firing rate
+turned out not to be isomorphic to loudness. He treats these as residuals
+that direct refinement. His argument for the step this THEORY assumes, that
+a behaviourally built quality space is the structure of experience, is
+convergence between models built by different procedures (THEORY-tmpeq5py),
+which a shared stimulus geometry would also produce. Nothing in the paper
+meets the promotion test. The comparison is the record's.

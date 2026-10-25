@@ -19,7 +19,14 @@ promote_when: >-
   Inspection of a picture of CIELAB, which is what the source offers,
   cannot promote it.
 title: "The geometry of the colour similarity space does not mark the four unique hues, nor the difference between the black–white axis, along which every grey is a mixture of both ends, and the opponent axes, along which each half shows only one end; so a structuralism on which phenomenal character is fixed by similarity relations alone cannot account for how colour experiences are composed"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
+    NOTE-tmpn1hle: not a similarity structuralist, and his DKL case bears on
+    the test this THEORY sets, not on its premise. The THEORY is unchanged.
 tags:
 - consciousness
 - phenomenology
@@ -112,3 +119,25 @@ argues they are not, by inspection.
 - **[CLAIM-136](../claims.d/CLAIM-136.md).** By analogy: Aldé states that a similarity structuralist
   must treat symmetric points as one point (p. 5), the strict version of
   [CLAIM-136](../claims.d/CLAIM-136.md)'s thesis applied to phenomenal characters.
+
+## Note of 2026-10-25: Isaac and the unique hues
+
+Isaac (LIT-1361, read in NOTE-tmpn1hle) is not the similarity structuralist
+this THEORY targets. He holds that geometry "by itself is not enough to
+generate meaning" and adds layers of constancy and of valence fields, so the
+conclusion here, that similarity relations alone cannot account for colour
+composition, does not reach his view as stated.
+
+His DKL case bears on the test this THEORY sets, not on its premise. DKL,
+built from LGN opponency, "fails to accurately predict key phenomenal
+features, such as the appearance of unique hues" (Wuerger et al. 2005): pure
+yellow should be maximal activation at the yellow end of the blue–yellow
+circuit with the red–green circuit neutral, and it is not. That is a neural
+space failing to yield the unique hues, not the similarity geometry failing
+to mark them. Isaac reads it as a residual that motivates richer
+physiological correlates beyond LGN, not as a refutation. He also names hue
+superimportance (Judd 1970), hues being more discriminable than saturations,
+as one reason CIELAB is not an isotropic three-dimensional space, which
+bears on the source's reliance on inspecting CIELAB. Neither is the
+invariant search the promotion test asks for. The comparison is the
+record's.
