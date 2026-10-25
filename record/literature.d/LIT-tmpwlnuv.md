@@ -8,7 +8,7 @@ status_note: >-
   PDF (403), and JSTOR (stable 2285509) holds it behind access. Web
   searches for an author, institutional or course copy found none
   lawfully posted. It stays Unavailable until a copy is supplied. The
-  record reads the model through Golub and Jackson (LIT-999, THEORY-321).
+  record reads the model through Golub and Jackson ([LIT-999](LIT-999.md), [THEORY-321](../theory.d/THEORY-321.md)).
   No NOTE is filed.
 title: 'Reaching a Consensus'
 version: 2
