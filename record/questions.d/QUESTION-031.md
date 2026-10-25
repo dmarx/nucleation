@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmpybqw8
 title: 'When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: experimental design as the choice of probes, with
+    CASE-tmplg5jg. The question is unchanged.
 tags:
 - mathematics
 - pragmatics
@@ -22,8 +28,10 @@ summary: >-
 answered_by:
 - CLAIM-193
 ---
+<!-- inactive-ok-file: LIT-tmpi60b0 — Deferred; a work registered unread the same day, cited as open -->
 <!-- inactive-ok-file: CLAIM-129 CLAIM-149 THEORY-008 THEORY-019 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-077 CLAIM-050 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-130 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # QUESTION-031: When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones?
 
@@ -102,3 +110,20 @@ says; none has yet been assessed as an answer, and none is linked by
 
 [THEORY-008](../theory.d/THEORY-008.md) gives half of an answer for linear probes: a regularized linear
 readout can decode only what is a function of the normalized kernel.
+
+## Note of 2026-10-25: choosing probes
+
+From A29–A31 of the exchange of 2026-10-24, continued. Bayesian
+experimental design (Chaloner and Verdinelli 1995, [LIT-tmpi60b0](../literature.d/LIT-tmpi60b0.md), registered
+unread the same day) turns this question into a choice: pick the design ξ over
+contexts that maximizes a criterion of G_ξ = Σ_c ξ(c)G_c (log det, or a
+discrimination or prediction criterion fixed by the task). A29: "our
+objectives are often more specific. We might care about distinguishing the
+effect of authority from the effect of legibility, rather than estimating
+every parameter equally well." In [CASE-tmpj2xb7](../cases.d/CASE-tmpj2xb7.md), do(b = b₀) gives
+G_aa = b₀² > 0 (checked). In [CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md), a rare context makes authority
+shares identifiable that routine probes leave invisible. Both separate by
+changing the experiment, not the coordinates ([CLAIM-305](../claims.d/CLAIM-305.md)). A caution from
+A29, with [CLAIM-130](../claims.d/CLAIM-130.md): changing a participant's standing to separate
+explanations "could also change which communicative act is performed". The
+question is unchanged.

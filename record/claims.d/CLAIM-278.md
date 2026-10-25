@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CLAIM-tmpgdvrd
 title: 'An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A47's router result, reported for the objection, and
+    CASE-tmpjmerx. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -62,3 +68,15 @@ phenomenon-specific models. A7's candidates are a phase diagram in which the
 same parameters move a system between rigid and adaptive governance (Figure
 5), and constructive dissent improving adaptation after an environmental
 change. Run with complexity penalized, either would do it.
+
+## Note of 2026-10-25: evidence reported for the objection
+
+At A47 of the exchange of 2026-10-24, continued, in a model of the record's
+audited governance, a contextual router outperformed the governance
+mechanism on all 12 seeds. The reply's conclusion restates this claim: "A
+learned governance mechanism should not be considered explanatory simply
+because it changes the allocation of influence. An ordinary contextual
+router can accomplish that too." The run is not held, and whether the
+router saw the same audit delay is not stated. [CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md) proposes the
+regimes in which the framework would have to forbid what the router
+allows. The claim is unchanged.

@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmp048av
 title: "Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the crowd formalized as a network of accumulators
+    (CASE-tmpvmjgd), its conditions held by CLAIM-tmpfd9lk, and a reported
+    run of the visible tally. The case is unchanged.
 standing: stipulated
 kind: specimen
 tags:
@@ -30,6 +37,8 @@ illustrates:
 - CLAIM-261
 supports:
 - CLAIM-272
+variants:
+- CASE-tmpvmjgd
 ---
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
@@ -88,3 +97,28 @@ not settled here:
   case falls outside [THEORY-068](../theory.d/THEORY-068.md)'s conditions, two alternatives and
   stationary evidence. The reduction to one drift-diffusion variable
   holds only for a two-way vote.
+
+## Note of 2026-10-25: the crowd as a network of accumulators
+
+From A35–A37 of the exchange of 2026-10-24, continued.
+
+- **The reduction.** [CASE-tmpvmjgd](CASE-tmpvmjgd.md) formalizes this crowd as a linear
+  network of accumulators. The hidden tally is the balanced case κ = λ,
+  where the influence-weighted support is exactly a drift-diffusion
+  process. The visible tally adds positive feedback, κ > λ. In
+  [CASE-tmpw4r7u](CASE-tmpw4r7u.md)'s two-process form the hidden tally is c = 0 and the
+  visible one c > 0, with c < 0 the contrarian case. [CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md) holds
+  the conditions.
+- **A35 found this case** "already describes your proposed experiment
+  remarkably closely". It proposed running both protocols, free response
+  and the fixed window this case describes, and leaving the feedback's sign
+  free ("Some participants might follow the majority; others might react
+  against it"). That is this case's "What it cannot show".
+- **A reported run.** A37 reported a population simulation whose "positive
+  public-tally feedback" condition decided faster and less accurately than
+  the balanced one: 18.5 against 49.5 steps, and 67.1% against 85.4%
+  correct. The run is not held and its parameters are not given. The
+  direction is the one this case predicts for a visible tally, and a check
+  with fixed bounds and κ − λ from 0 to 2 confirms it ([CASE-tmpvmjgd](CASE-tmpvmjgd.md)).
+
+The case is unchanged.

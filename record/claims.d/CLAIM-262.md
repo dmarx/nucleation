@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6vyef
 title: "Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-12'
@@ -15,6 +15,11 @@ history:
     CLAIM-163's test. The owner then judged democracy mode, with the
     tally visible as votes arrive, the better demonstration
     (CASE-074), and the continuous case was rewritten around it.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the owner's U34 hypothesis, filed with its
+    conditions as CLAIM-tmpfd9lk. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +44,7 @@ grounds:
 illustrated_by:
 - CASE-075
 - CASE-074
+- CASE-tmpvmjgd
 summary: >-
   The owner's answer to [QUESTION-079](../questions.d/QUESTION-079.md): both forms are possible, and
   which one an agent shows depends on its constitution. An agent made of
@@ -47,6 +53,8 @@ summary: >-
   best in democracy mode with the tally visible as votes arrive. The consequence for [CLAIM-163](CLAIM-163.md)'s transition test is
   that it must be stated per constitution. A missing switch counts
   against coordination only in an agent built to switch.
+corroborated_by:
+- CLAIM-tmpfd9lk
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection whose test this claim bears on -->
 
@@ -111,3 +119,12 @@ The case is the owner's reading, and the record holds no source for it.
 And it does not carry [THEORY-068](../theory.d/THEORY-068.md) beyond its own conditions, which
 are two alternatives and stationary evidence. A crowd with eight buttons
 and a shifting goal satisfies neither, so the grounding is by analogy.
+
+## Note of 2026-10-25: the owner's hypothesis, restated for a simulation
+
+The owner restated this claim's continuous case as a hypothesis about a
+simulation, at U34 of the exchange of 2026-10-24, continued: with
+perspectives that each advocate one of n interpretations, "when n=2 we
+should see drift diffusion dynamics". Filed with its conditions and two
+constructions in which it holds exactly as [CLAIM-tmpfd9lk](CLAIM-tmpfd9lk.md), which
+corroborates this claim's continuous case. The claim is unchanged.

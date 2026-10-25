@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprmrt9
 title: "Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,11 @@ history:
     suffice, which was not checked against the paper. The former
     promote_when, a case outside the model, moves to QUESTION-184
     with that check.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the theorem's condition in variance form, in
+    CASE-tmpvmjgd. The reading is unchanged.
 tags:
 - network-science
 - social-science
@@ -34,6 +39,8 @@ summary: >-
   n → ∞. Speed of consensus and its correctness are independent.
 answers:
 - QUESTION-047
+supports:
+- CLAIM-tmpfd9lk
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 
@@ -127,3 +134,15 @@ sense of "network structure alone". With several closed groups the limit
 beliefs are several consensus values, and the maximum over them is not
 covered by 3. That case, and whether real groups behave so, are
 [QUESTION-184](../questions.d/QUESTION-184.md).
+
+## Note of 2026-10-25: influence concentration in diffusion form
+
+Used without citation at A36 and A37 of the exchange of 2026-10-24,
+continued. In a linear network of accumulators the influence-weighted
+support has variance σ²Σℓᵢ² for independent, equal noises, and A36's
+"effective population" 1/Σℓᵢ² is this theorem's influence concentration in
+diffusion form. A36 called it "an immediate mathematical connection
+between network influence and collective statistical efficiency". Since
+max ℓᵢ² ≤ Σℓᵢ² ≤ max ℓᵢ, the collective noise vanishes exactly when the
+largest weight does, this theorem's condition ([CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md)). The reading
+is unchanged.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,11 @@ history:
     as the next substantive one; A16's construction has no meaning state,
     and A17 dropped the comparison, so the claim stays untested. The claim
     is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the exchange's running population model and typed
+    workspace read against the claim. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -146,3 +151,25 @@ authority of later contributions, so the meaning–authority–legibility
 feedback can run between participants as well as within one. The bearing
 on [QUESTION-031](../questions.d/QUESTION-031.md) is when observable responses suffice to separate the
 organizations relevant to a task.
+
+## Note of 2026-10-25: a running instance, and a typed workspace
+
+The exchange of 2026-10-24, continued, built a running instance of this
+claim's model, the "Perspective Population Lab" from v0.2 to v1.0, none of
+it held. A42 cited this claim for its proposal of a typed workspace.
+
+- A43's workspace (evidence, interpretations, policies, artifact,
+  governance, commitments and an event log) refines the two dual canvases
+  ([TERM-053](../terms.d/TERM-053.md)): interpretations and artifact on the meaning side, governance
+  on the influence side. The commitments domain is reserved for the
+  communicative-act line.
+- In A45–A47's diffusion version, a perspective's conditioning prompt plays
+  the frame, its low-rank adapter the operator, its mask and weight its
+  allocated influence, and the single scheduler step the update of the
+  shared state.
+- A45: distinguish "a population with multiple genuinely specialized
+  operators from a population with different interpretations of one shared
+  operator".
+
+No joint prediction of the two lines was derived, so the claim stays
+untested. The claim is unchanged.

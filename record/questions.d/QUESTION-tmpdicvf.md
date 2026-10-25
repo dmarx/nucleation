@@ -1,7 +1,13 @@
 ---
 status: Open
 title: 'How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A41 and A47 asked it again, and CASE-tmpjmerx
+    proposes one arm per failure. The question is unchanged.
 tags:
 - self-governance
 - game-theory
@@ -92,3 +98,19 @@ It is not [QUESTION-087](QUESTION-087.md), whether a self-reproducing authority 
 can be pathological by a standard it did not set. That question asks for
 the standard. This one asks for procedures, given candidate standards, and
 what each makes impossible to capture.
+
+## Note of 2026-10-25: asked again, and an arm per failure
+
+Asked again without citation at A41 of the exchange of 2026-10-24,
+continued: "under what conditions an organization can evaluate a proposed
+change to its governing rules without relying exclusively on the very
+evaluation regime being challenged". A41's minimal model blends
+historical audit with conformity under a weight α that can itself be
+amended. Audit-accountable amendment beat fixed historical scoring on 3 of
+10 seeds. At A47, after a contextual router beat audited governance on
+every seed, the reply put the framework's possible contribution in tasks
+where evaluation "becomes contested, incomplete, selectively observed, or
+historically entrenched". Those are, nearly one for one, this question's
+cycles, no common scale, bandit feedback and capture. [CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md)
+proposes one arm per failure against a router baseline. The question is
+unchanged.

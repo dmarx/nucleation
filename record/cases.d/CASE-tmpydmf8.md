@@ -1,7 +1,14 @@
 ---
 status: Active
 title: 'A legibility filter as the ν of the meaning–authority–legibility model: in a safe world where 15% of raw cues are alarms, an admission rule P(admit | y, r) = σ(c + χry) with c = 0 and χr = 2 admits 88.1% of alarms and 11.9% of reassurances, so 56.6% of the admitted record is alarms with the world and the sensors unchanged; at symmetry the mean admitted evidence is χσ′(c)r to first order, so ν = η_m χ σ′(c); and r_t = λᵗr₀ + ε Σ λ^(t−1−j) a_j is an exponentially weighted history of authority'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the U32 app's carried update rule, re-run,
+    reproduces A22's reported numbers; lock-in needs χ above about 9.8, and
+    the shortest correcting audit grows with χ. The case is unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -94,3 +101,33 @@ admitted cues alarms in the safe phase, and a correction threshold (one
 step of independent evidence did not change the regime, three did). The
 script was not provided and the run is not reproduced here. The record
 holds it as reported, not checked.
+
+## Note of 2026-10-25: the reported run, checked
+
+At U32 of the exchange of 2026-10-24, continued, the mean-field model was
+published as an interactive app, and its update rule was carried inline in
+the share:
+
+    m′ = tanh(0.5m + 0.1a + 0.5e),  a′ = tanh(0.5m + 0.5a + μr),
+    r′ = tanh(εa + λr),  e = qσ(χr) − (1 − q)σ(−χr),
+
+with χ = 10, λ = ε = 0.5, μ = 0, a 70% sensor, danger for 100 steps and
+safety for 500. Transcribed and run, it reproduces every number A22
+reported, which this case held as reported and not checked:
+
+- the Jacobian at the neutral point is (0.5, 0.1, 1.25; 0.5, 0.5, 0;
+  0, 0.5, 0.5), with spectral radius 1.2032;
+- the final lean is r = 0.2248, at which 80.2% of admitted cues are alarms
+  in the safe phase;
+- the coupled run ends threat-leaning (m = +0.241), neutral reporting ends
+  at m = −0.237, and with χ = 0 the coupled run ends at the neutral value;
+- an audit of 1 or 2 steps of neutral reporting leaves the coupled run
+  threat-leaning, and 3 steps send it to the safe attractor (m = −0.601).
+
+Two further results. With these parameters, lock-in needs χ above about
+9.8: at χ = 9 the coupled run turns to safety by itself (m = −0.597), and at
+χ = 4 it ends at m = −0.513. And the shortest audit that corrects grows
+with χ: 3 steps at χ = 10, 4 at 12 and 5 at 16. That is [CASE-tmpw4r7u](CASE-tmpw4r7u.md)'s
+correction threshold in this model. That the app is the same script as
+A22's is inferred from the matching numbers. The run is no longer only
+reported. The case is unchanged.

@@ -18,14 +18,17 @@ summary: >-
   From the continuation of the exchange of 2026-10-24 (U28–U47). A36
   derived it as the answer to the owner's U34 hypothesis, and A37, A42,
   A43 and A44 restated it as the population simulator's unit test. The
-  case formalizes CASE-074's crowd as a linear network of accumulators: the
+  case formalizes [CASE-074](CASE-074.md)'s crowd as a linear network of accumulators: the
   hidden tally is the balanced case, the visible tally positive feedback.
-  The closure is THEORY-733's, the variance THEORY-321's influence
-  concentration and the balance THEORY-068's, a combination no source
+  The closure is [THEORY-733](../theory.d/THEORY-733.md)'s, the variance [THEORY-321](../theory.d/THEORY-321.md)'s influence
+  concentration and the balance [THEORY-068](../theory.d/THEORY-068.md)'s, a combination no source
   makes. Checked when filed, and the reply's nonlinear transition
   corrected.
+supports:
+- CLAIM-tmpfd9lk
 ---
 <!-- inactive-ok-file: THEORY-tmphmdtd — Proposed; the reflected-appraisal reading named as where endogenous influence enters, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-262 — Proposed; the owner's claim this construction illustrates, nothing here rests on it -->
 
 # CASE-tmpvmjgd: Interacting accumulators on an influence network: if each perspective's continuous support for one of two interpretations follows dxᵢ = [dᵢ − λxᵢ + κ Σⱼ Wᵢⱼxⱼ]dτ + noise, with W irreducible and row-stochastic and ℓ its left eigenvector, then ℓᵀ(κW − λI) = (κ − λ)ℓᵀ, so the ℓ-weighted support L = ℓ·x is exactly an Ornstein–Uhlenbeck process with drift ℓ·d, rate κ − λ and variance ℓᵀΣℓ, and a drift-diffusion process at κ = λ; with tanh coupling and member noise the transition is at κ_c = λ/E[sech² ε], not at κ = λ
 
@@ -48,14 +51,14 @@ influence network. Σ is the covariance of the members' noise.
    dL = [ℓ·d + (κ − λ)L]dτ + ℓ·noise. The same identity holds step by step
    for an Euler scheme, so a simulated L is exactly a Gaussian AR(1)
    whatever the step size. A36: "**This reduction is exact for the
-   specified linear system.**" It is THEORY-733's condition for exact
+   specified linear system.**" It is [THEORY-733](../theory.d/THEORY-733.md)'s condition for exact
    dynamical independence: the coarse-graining's row space is invariant
-   under the transpose of the drift. CLAIM-388's uniform sum is the case
+   under the transpose of the drift. [CLAIM-388](../claims.d/CLAIM-388.md)'s uniform sum is the case
    ℓ = 1/M.
 2. **Drift diffusion at balance.** At κ = λ, dL = ℓ·d dτ + σ_eff dB, the
    standard drift-diffusion model. With κ < λ, L is a leaky
    Ornstein–Uhlenbeck process. With κ > λ it is unstable, and early
-   evidence is amplified. That is THEORY-068's net leak, carried from two
+   evidence is amplified. That is [THEORY-068](../theory.d/THEORY-068.md)'s net leak, carried from two
    competing units to a network. The other modes of κW − λI decay at rates
    λ − κ Re μ_k > 0 at balance, since Re μ_k < 1 for every other
    eigenvalue of an irreducible W. So the members settle around L with a
@@ -65,13 +68,13 @@ influence network. Σ is the covariance of the members' noise.
    M_eff = 1/Σℓᵢ². A36's example, one perspective with weight ½ and 23
    sharing the rest, gives M_eff = 3.83. Since max ℓᵢ² ≤ Σℓᵢ² ≤ max ℓᵢ,
    the collective noise vanishes exactly when the largest influence weight
-   does, which is THEORY-321's condition (Golub and Jackson) in variance
+   does, which is [THEORY-321](../theory.d/THEORY-321.md)'s condition (Golub and Jackson) in variance
    form. A36: "a small effective population doesn't necessarily mean poor
    decisions. A highly weighted specialist might be more accurate than
    everyone else." Under correlated evidence, as in A43's typed workspace
    with its `correlation_group`, the diagonal formula understates the
    noise: by a factor of about 12 in a check with pairwise correlation ½.
-4. **The hidden and the visible tally.** In CASE-074's terms, voters
+4. **The hidden and the visible tally.** In [CASE-074](CASE-074.md)'s terms, voters
    who cannot see the tally integrate independently, the balanced case. A
    visible tally that draws votes to the leader adds κ above λ. At a fixed
    bound on L, raising κ − λ above 0 shortens decisions and lowers
@@ -147,4 +150,4 @@ dial on it.
   not on L alone, and a check at κ = λ gave a nonzero slope.
 - Endogenous influence. With W(τ), dL gains (dℓ)ᵀx (A36). That term is
   where governance enters, reflected appraisal among others
-  (THEORY-tmphmdtd), and it is not covered here.
+  ([THEORY-tmphmdtd](../theory.d/THEORY-tmphmdtd.md)), and it is not covered here.

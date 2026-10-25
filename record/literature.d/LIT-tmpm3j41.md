@@ -69,9 +69,9 @@ is standardly cited for. A reading should check it first.
 
 Cited at U29, in reply to the owner's question about improving the
 record's mathematical toolkit, as the work that already joins partial
-monitoring (Bartók et al., LIT-tmpwpq36) with approachability for
+monitoring (Bartók et al., [LIT-tmpwpq36](LIT-tmpwpq36.md)) with approachability for
 vector-valued objectives, an organization that must meet several demands
 at once while seeing only partial feedback. U30 used it again for the rate
 at which such guarantees hold. The record uses approachability only as the
-engine of Hart and Mas-Colell's proof (LIT-tmpxtwxt, NOTE-tmp7qq6n);
+engine of Hart and Mas-Colell's proof ([LIT-tmpxtwxt](LIT-tmpxtwxt.md), [NOTE-tmp7qq6n](../notes.d/NOTE-tmp7qq6n.md));
 Blackwell's 1956 paper is not held.

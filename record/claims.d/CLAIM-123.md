@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpzkhdr
 title: 'In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -34,6 +34,11 @@ history:
     example of dependent conditions, the joint law is nonnegative, has the
     stated marginals, and has a ratio that does not depend on x. No
     objection is open. The claim is unchanged.
+- version: 5
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A45's masked combination of noise predictions, under
+    the claim's condition. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -148,3 +153,18 @@ conditions, and stays demonstrated. Its title, which led with the
 empirical part, was changed to state only the derivation; the first
 disjunct of its defeat condition, a model whose per-condition
 satisfaction predicts its joint binding accuracy, is [CLAIM-321](CLAIM-321.md)'s.
+
+## Note of 2026-10-25: masked composition of perspectives' predictions
+
+A45 of the exchange of 2026-10-24, continued, combined perspectives'
+conditional noise predictions as
+ε* = ε_∅ + g·Σwᵢ Mᵢ (εᵢ − ε_∅) / max(1, Σwᵢ Mᵢ), a masked and normalized
+form of [THEORY-405](../theory.d/THEORY-405.md)'s composition, with one scheduler step per timestep.
+For one full-mask perspective of weight at least 1 it is classifier-free
+guidance; where perspectives overlap with total weight at least 1 it takes
+the weighted mean of their differences; where the total weight is below 1
+it dilutes the guidance. By this claim the combination samples a
+composition of the perspectives' conditions only where the ratio
+condition holds. Elsewhere it is in general the score of no distribution
+([THEORY-611](../theory.d/THEORY-611.md)). The reply cited neither, and no real model was run. The
+claim is unchanged.

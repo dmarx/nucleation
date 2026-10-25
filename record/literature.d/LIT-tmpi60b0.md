@@ -60,6 +60,6 @@ turned up content that would improve the record's mathematical toolkit, as
 the theory for choosing which probes to put to an organization: given the
 Fisher information of each probe, choose the design that maximizes what
 the responses reveal about the allocation of authority. The record asks
-which probes distinguish organizations (CASE-124) but held no work on how
-to choose them. The construction {{F-K-FISHER}} computes the quantity a
+which probes distinguish organizations ([CASE-124](../cases.d/CASE-124.md)) but held no work on how
+to choose them. The construction [CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md) computes the quantity a
 design would maximize, including the rare-context probe that A31 proposed.

@@ -63,7 +63,7 @@ perspectives separately learned denoising capabilities (LoRA adapters) and
 combined their contributions step by step; LoRA Switch and LoRA Composite
 are per-step versions of that combination, without the learned allocation
 of influence that the exchange wanted to add. The record holds none of the
-LoRA literature. It bears on {{F-Q-INFL}}, a population of denoisers being
+LoRA literature. It bears on [QUESTION-tmpu6zq7](../questions.d/QUESTION-tmpu6zq7.md), a population of denoisers being
 one of the mechanisms of influence it asks about, and on the
-audited-governance study {{F-K-AUDIT}}, whose arms decide which specialist
+audited-governance study [CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md), whose arms decide which specialist
 acts. Filed for that question, not as an instruction for practice.

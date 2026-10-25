@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CASE-tmp4ozxp
 title: 'The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A47 ran the design with a router arm, filed as the
+    variant CASE-tmpjmerx. The case is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -25,6 +31,8 @@ summary: >-
   organization become unable to recognize or act upon evidence that its
   own organization of interpretation and authority has rendered
   inconsequential?" Not run.
+variants:
+- CASE-tmpjmerx
 ---
 
 # CASE-144: The evaluator that stops tracking: two populations of specialists with identical capabilities and task streams, one scored against independent outcomes and one by an evaluator that weights evidence agreeing with its previously favoured specialists, after a shift that makes a marginalized specialist uniquely competent
@@ -99,3 +107,15 @@ fails to credit them. Controls: the same evaluation bias without a
 separate r memory, and history-dependent retrieval with no explicit
 legibility coordinate, so that the extra state is not rewarded merely for
 being there.
+
+## Note of 2026-10-25: run without citation, with a router added
+
+A47 of the exchange of 2026-10-24, continued, reported running this
+design without citing it. The specialists were frozen low-rank denoisers,
+the required specialist reversed at mid-run, and scoring was either
+against independent held-out probes or by agreement with the collective
+proposal. A contextual mixture-of-experts router was added. Reported over
+12 seeds: audited governance beat fixed and conformity-scored allocation
+every time, and the router beat audited governance every time. Not held
+and not reproduced. The variant with the router arm, and the arms that
+would make it informative, is [CASE-tmpjmerx](CASE-tmpjmerx.md). The case is unchanged.

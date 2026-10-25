@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the approach–avoid game is locally observable as
+    partial monitoring, so the claim's identifiability step is a failure of
+    access. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +76,8 @@ illustrated_by:
 supports:
 - CLAIM-tmp28sti
 ---
+<!-- inactive-ok-file: LIT-tmpwpq36 — Deferred; a work registered unread the same day, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp1p6ly — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-tmp8z857: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
 
@@ -215,3 +224,39 @@ also produced lock-in under full feedback. So the two routes this claim and
 [CLAIM-tmp28sti](CLAIM-tmp28sti.md) describe each suffice alone in that model. A stylized
 simulation, not evidence about anxiety ([CLAIM-427](CLAIM-427.md)).
 
+## Note of 2026-10-25: the approach–avoid game as partial monitoring
+
+Partial monitoring (Bartók, Foster, Pál, Rakhlin and Szepesvári 2014,
+[LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md), registered unread the same day) came up three times in the exchange of
+2026-10-24, continued (A29, A30, A31). A29 offered it as "the
+informational problem behind" this claim. Worked through, the toy shows
+the opposite emphasis.
+
+Two outcomes, dangerous and safe. **Avoid** loses 0 if dangerous and c > 0
+if safe, and its feedback is one symbol whatever the outcome. **Approach**
+loses H > 0 if dangerous and 0 if safe, and its feedback reveals the
+outcome. The signal matrices are S_avoid = [1 1] and S_approach = I₂. The
+loss difference (H, −c) is not in the row space of S_avoid, which is
+spanned by (1, 1), and is in that of S_approach. So the game is locally
+observable, and in Bartók et al.'s classification of minimax regret (0,
+about √T, T^{2/3} and T) it is in the easy √T class. Checked when filed by
+least squares, H = 5 and c = 1: residual 4.24 for avoid alone, 0 for
+approach.
+
+- **Access, not observability.** A learner that keeps a floor of
+  probability on approach learns the comparison. A learner whose governing
+  process removes approach from its accessible actions faces the avoid-only
+  game, where the loss difference is unobservable. That is this claim's
+  "under the avoidance that authority selects, the hypotheses … predict the
+  same observation", in its formal place. A30 drew the line: "A channel may
+  be capable of resolving a question yet remain unused because the process
+  controlling action prevents it from being selected."
+- **The floor** is [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md)'s exploration floor, the price COMA
+  pays as well ([THEORY-tmp1p6ly](../theory.d/THEORY-tmp1p6ly.md)).
+- **The guarantees stop** where authority edits the losses or the feedback
+  channels during learning. A29: "we should first use the classical setting
+  as a baseline, then study controlled changes in H, not attribute those
+  changes to Bartók and colleagues' theorem."
+
+It does not show that anxious avoidance has this loss structure. The
+claim is unchanged.

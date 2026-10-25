@@ -1,7 +1,13 @@
 ---
 status: Active
 title: 'The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: re-proposed by A30 and A31, and the record's own run
+    of its two axes. The case is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -24,6 +30,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-tmpydmf8](CASE-tmpydmf8.md)). Not run.
 ---
+<!-- inactive-ok-file: CLAIM-404 CLAIM-tmp8z857 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CASE-tmpo8uso: The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design
 
@@ -109,3 +116,22 @@ implements the abstraction: the Tiger POMDP in pomdp_py, pymdp for an
 active-inference comparison, Mesa, NetLogo's Rebellion model (private
 grievance against public behaviour under policing), PettingZoo and
 Gymnasium's FrozenLake.
+
+## Note of 2026-10-25: proposed again, and partly run
+
+A30's two-specialist experiment and A31's Experiment 1 ("captured
+evaluator"), in the exchange of 2026-10-24, continued, re-propose this case
+without citing it. Each has a specialist better before an environmental
+shift and the other after it, avoidance that yields the same feedback in
+both states, and a 2×2 of evidence access (protected against selective) by
+scoring (fixed against authority-dependent). The two axes are [CLAIM-404](../claims.d/CLAIM-404.md)'s
+two routes, evidence received and criteria of weighing. A31's reading of
+the outcome: "If guaranteed evidence access resolves lock-in, but changing
+the evaluation criteria adds nothing, the result favors an exploration
+explanation." [CASE-tmpffs67](CASE-tmpffs67.md)'s extension (run 2026-10-25) found each route
+sufficient alone, in one parameterization with binary decisions. A31 adds
+baselines (selection-aware Bayesian learning, a contextual bandit, the
+replicator and a history-dependent gate) and a variant in which unused
+specialists deteriorate. As partial monitoring, the case's game is locally
+observable, so what fails is access, not observability ([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s
+note of 2026-10-25, the approach–avoid game). The case is unchanged.
