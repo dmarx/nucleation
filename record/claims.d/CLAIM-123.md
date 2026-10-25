@@ -176,15 +176,15 @@ composition of the perspectives' conditions only where the ratio
 condition holds. Elsewhere it is in general the score of no distribution
 ([THEORY-611](../theory.d/THEORY-611.md)). The reply cited neither, and no real model was run.
 
-The reading of MultiDiffusion (LIT-tmp03agp, NOTE-tmpa8ixz) places it. With
+The reading of MultiDiffusion ([LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)) places it. With
 unit weights where coverage is at least 1 and a deterministic sampler,
 A45's combination is MultiDiffusion's region-based step: a per-pixel
-weighted mean of the views' noise predictions (THEORY-tmpt2q0g). The
+weighted mean of the views' noise predictions ([THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md)). The
 exchange did not cite it. A45 adds the per-perspective weights and the
 dilution rule below total weight 1. Where the weights are normalized the
 combination is an average, not a sum, and this claim's ratio condition is
-a condition on sums. Under THEORY-405's idealization an average of k
+a condition on sums. Under [THEORY-405](../theory.d/THEORY-405.md)'s idealization an average of k
 scores is the score of the normalized geometric mean Π pᵢ^{1/k}, not of the
-product (NOTE-tmphq8v2). So "only where the ratio condition holds" above
+product ([NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)). So "only where the ratio condition holds" above
 applies to the sum, and the average composes a different target. The
 claim is unchanged.
