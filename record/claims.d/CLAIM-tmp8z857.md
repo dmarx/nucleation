@@ -203,3 +203,15 @@ keeps every action's probability above a floor for that reason
 correction. Börgers and Sarin's lock-in by reinforcement alone
 ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)) is the null this claim's governance mechanism has to
 beat.
+
+## Note of 2026-10-25: a run that reproduces the identifiability step
+
+In the BoostTheVote extension ([CASE-tmpffs67](../cases.d/CASE-tmpffs67.md)), outcomes were observed only
+when the collective acted. With an independent metric, avoidance alone held
+about 60% of runs on the old answer through the whole changed phase. Vote
+noise that tipped a decision into acting was the only way out. Age-targeted
+renewal removed the effect. A metric partly set by the processes in charge
+also produced lock-in under full feedback. So the two routes this claim and
+[CLAIM-tmp28sti](CLAIM-tmp28sti.md) describe each suffice alone in that model. A stylized
+simulation, not evidence about anxiety ([CLAIM-427](CLAIM-427.md)).
+

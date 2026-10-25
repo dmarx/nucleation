@@ -22,7 +22,7 @@ summary: >-
   re-run here through a Python port (scratch/formal/boost_the_vote.py).
   It is the full-information counterpart of the replicator construction.
   What it shows, what it assumes, and the three-axis extension it suggests
-  are recorded.
+  are recorded, and the extension was run on 2026-10-25.
 ---
 <!-- inactive-ok-file: CASE-tmpw4r7u CLAIM-tmp1xoac QUESTION-tmpdicvf THEORY-tmp3oyxw THEORY-tmpar5jw THEORY-tmphhvqf CLAIM-tmp8z857 — Proposed or new; the construction, claim and question this bears on -->
 
@@ -92,7 +92,7 @@ being replaced. That looks unintended.
 - **Cycles.** One binary question cannot produce Condorcet cycles
   (failure 1).
 
-## The extension it suggests (not run)
+## The extension it suggests
 
 Three axes, crossed, with a world whose truth changes partway through:
 1. **Feedback.** Full information, bandit (only the votes that carried the
@@ -102,13 +102,81 @@ Three axes, crossed, with a world whose truth changes partway through:
    currently highest-weight voters, which makes c endogenous.
 3. **Renewal.** Churn rate, and whether it targets age or weight.
 
-The record's anxiety, protection and legibility claims ([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md),
-[CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md), [CASE-tmpydmf8](CASE-tmpydmf8.md)) predict that lock-in needs both bandit-like
-feedback and an endogenous metric, and that renewal pays only under change.
-Lock-in under full feedback with an independent metric would count against
-them. So would none under bandit feedback with an endogenous metric.
-Börgers and Sarin's lock-in by reinforcement alone ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)) is the
-null to beat.
+The prediction, as filed before the run: the record's anxiety, protection
+and legibility claims ([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md), [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md), [CASE-tmpydmf8](CASE-tmpydmf8.md))
+predict that lock-in needs both bandit-like feedback and an endogenous
+metric, and that renewal pays only under change. Lock-in under full
+feedback with an independent metric would count against them. So would
+none under bandit feedback with an endogenous metric. Börgers and Sarin's
+lock-in by reinforcement alone ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)) is the null to beat.
+
+## The extension, run 2026-10-25
+
+At the owner's direction, scratch/formal/boost_the_vote_extension.py.
+
+**Design.**
+- *Voters.* Voters now have fixed leans, voting 1 with probability
+  p_i ∼ Beta(2, 2) whatever the truth, so who is right changes when the
+  truth does.
+- *Phases.* The truth is 1 for 30 elections and 0 for the next 60.
+- *Scoring.* f = 0.2 and N = 1000. The decision is the weighted majority.
+  Heeded voters are always scored; unheeded ones with probability ρ.
+- *Metric.* With probability m per election, the standard voters are
+  scored against is the collective's own decision. Since the decision is
+  the weighted majority, that is the standard of the highest-weight voters
+  taken together.
+- *Renewal.* Either none, or 5% replaced each round, by age or as the
+  highest-weight voters, a term limit.
+- *Runs.* 100 per cell, reporting means.
+
+Selected cells:
+
+| ρ | m | renewal | right before switch | right after switch | right at end | delay to 5 right in a row |
+|---|---|---|---|---|---|---|
+| 1 | 0 | none | 0.98 | 0.49 | 1.00 | 32 |
+| 1 | 0 | age | 0.98 | 0.88 | 1.00 | 7 |
+| 1 | 0.25 | none | 0.97 | 0.11 | 0.59 | 55 |
+| 1 | 0.5 | none | 0.88 | 0.06 | 0.07 | 57 |
+| 1 | 0.5 | age | 0.88 | 0.66 | 1.00 | 21 |
+| 1 | 1 | none | 0.53 | 0.47 | 0.47 | — |
+| 0 | 0 | none | 0.97 | 0.58 | 1.00 | 26 |
+| 0 | 0.5 | none | 0.91 | 0.02 | 0.05 | 59 |
+| 1 | 0 | top-weight | 0.21 | 0.42 | 0.00 | — |
+
+A fourth axis was added once the first run showed that bandit feedback
+over voters is not the record's bandit concern. Under *observability*, the
+outcome is observed only when the collective acts (decides 1); avoiding
+yields no observation. The truth then switches 0 → 1, so the old answer is
+avoidance. With an independent metric and no renewal, 36% of runs (ρ = 1)
+and 42% (ρ = 0) were right at the end, with a delay of about 48 elections.
+With age renewal, all were right, with a delay of about 8.
+
+**Findings, against the prediction.**
+1. **No lock-in with full feedback and an independent metric.** That
+   falsifier was not triggered. But recovery took about as long as the
+   training had: 32 elections after 30. That is weight inertia, not
+   lock-in.
+2. **An endogenous metric suffices for lock-in under full feedback.** At
+   m = 0.5, 93% of runs were still wrong at the end; even m = 0.25 left 41%
+   wrong. Bandit feedback is not needed. "Needs both" is wrong.
+3. **Bandit feedback over voters changes little.** In a binary decision,
+   penalizing the heeded side when it is wrong is itself informative about
+   the other side. The bandit feedback that matters is over outcomes.
+4. **Outcome-conditional observation suffices too.** With an independent
+   metric, avoidance alone held about 60% of runs on the old answer for the
+   whole second phase. Escape came only when vote noise tipped a decision
+   into acting. This is [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s identifiability step reproduced.
+5. **Renewal pays under change and costs little before it.** Age-targeted
+   renewal rescued every case except the fully endogenous one, which is a
+   coin-flip lock from the first elections: the decision never changes.
+   Its cost before the switch was at most a few points. Term limits on the
+   highest weights destroyed learning altogether: removing the competent
+   every round is not renewal.
+
+So two routes to lock-in each work alone: a metric partly set by those in
+charge, and feedback conditional on acting. Age-like renewal defeats both
+short of full endogeneity. One parameterization, binary decisions,
+symmetric leans: the thresholds are illustrative, not estimates.
 
 ## What it cannot show
 
