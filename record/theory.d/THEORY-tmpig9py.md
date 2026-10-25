@@ -19,19 +19,19 @@ date: '2026-10-25'
 source:
 - LIT-tmpi60b0
 summary: >-
-  Chaloner and Verdinelli (1995), LIT-tmpi60b0, read in NOTE-tmpj2iwk. The
+  Chaloner and Verdinelli (1995), [LIT-tmpi60b0](../literature.d/LIT-tmpi60b0.md), read in [NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md). The
   alphabetical criteria are utilities in disguise, and the utility fixes
   the criterion. This holds exactly only in the normal linear model with
   known variance. With unknown variance only Bayes A keeps its simple form,
   and in nonlinear models the criteria are approximations
-  (THEORY-tmpg6jfa). E- and G-optimality have no utility behind them.
+  ([THEORY-tmpg6jfa](THEORY-tmpg6jfa.md)). E- and G-optimality have no utility behind them.
 ---
 # THEORY-tmpig9py: In the normal linear model with known error variance and a conjugate normal prior of precision R/σ², the design that maximizes the expected Shannon information of the posterior is the one maximizing det(nM(η) + R), Bayes D-optimality, and the design that minimizes expected quadratic loss with weight matrix A is the one minimizing tr A(nM(η) + R)^-1, Bayes A-optimality; both criteria depend on the design and not on the data, so in this model a sequential design gains nothing over the best fixed one
 
 ## Source
 
 Chaloner and Verdinelli (1995), *Statistical Science* 10(3):273–304,
-LIT-tmpi60b0, §§2.1–2.2 and §5.5. Read in NOTE-tmpj2iwk from the authors'
+[LIT-tmpi60b0](../literature.d/LIT-tmpi60b0.md), §§2.1–2.2 and §5.5. Read in [NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md) from the authors'
 technical report. The derivations below are the record's, written because
 the report's displays did not survive extraction.
 
@@ -84,7 +84,7 @@ elsewhere.
   reduces to tr(nM + R)⁻¹ times a constant independent of y, and is
   "insensitive to the knowledge of σ²".
 - **Not for nonlinear models**, where the information matrix depends on θ
-  and the criteria are approximations (THEORY-tmpg6jfa).
+  and the criteria are approximations ([THEORY-tmpg6jfa](THEORY-tmpg6jfa.md)).
 - **Not for E- or G-optimality**, which "appear not to correspond to any
   utility function".
 - **Not that the criteria agree.** D, A and c generally select different
@@ -92,12 +92,12 @@ elsewhere.
 
 ## Connections
 
-- **QUESTION-031.** The note of 2026-10-25 uses log det G_ξ with
+- **[QUESTION-031](../questions.d/QUESTION-031.md).** The note of 2026-10-25 uses log det G_ξ with
   G_ξ = Σ_c ξ(c)G_c. In a linear Gaussian probe model that is exactly U₁
   up to constants. A29's preference for a criterion that targets one
   contrast is c- or Ds-optimality.
-- **CASE-152.** Its intervention do(b = b₀) gives G_aa = b₀². In a linear
+- **[CASE-152](../cases.d/CASE-152.md).** Its intervention do(b = b₀) gives G_aa = b₀². In a linear
   model, adding that observation adds b₀² to the information about a,
   which raises all three criteria.
-- **CASE-tmplg5jg** is not linear in this sense. Its information depends on
-  the share being estimated (THEORY-tmpg6jfa).
+- **[CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md)** is not linear in this sense. Its information depends on
+  the share being estimated ([THEORY-tmpg6jfa](THEORY-tmpg6jfa.md)).

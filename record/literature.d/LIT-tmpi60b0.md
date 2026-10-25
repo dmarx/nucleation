@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-25 (NOTE-tmpj2iwk) in full, from the authors' Technical Report #607 (University of Minnesota, July 1995) in the University of Minnesota Digital Conservancy; worth reading for Lindley's decision-theoretic formulation of design, for the derivation of Bayes D- and A-optimality from Shannon information and quadratic loss in the normal linear model (THEORY-tmpig9py), and for the account of nonlinear design as prior-averaged local criteria, with local optimality as the point-mass case and its failure for the turning point (THEORY-tmpg6jfa). Read it knowing that it is a 1995 survey, mostly of normal linear models, that its nonlinear criteria are approximations of unknown accuracy, that its treatment of model discrimination is brief, and that the copy read is the technical report, with equations lost to OCR, not the journal text.
+  read 2026-10-25 ([NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md)) in full, from the authors' Technical Report [#607](https://github.com/dmarx/nucleation/issues/607) (University of Minnesota, July 1995) in the University of Minnesota Digital Conservancy; worth reading for Lindley's decision-theoretic formulation of design, for the derivation of Bayes D- and A-optimality from Shannon information and quadratic loss in the normal linear model ([THEORY-tmpig9py](../theory.d/THEORY-tmpig9py.md)), and for the account of nonlinear design as prior-averaged local criteria, with local optimality as the point-mass case and its failure for the turning point ([THEORY-tmpg6jfa](../theory.d/THEORY-tmpg6jfa.md)). Read it knowing that it is a 1995 survey, mostly of normal linear models, that its nonlinear criteria are approximations of unknown accuracy, that its treatment of model discrimination is brief, and that the copy read is the technical report, with equations lost to OCR, not the journal text.
 title: 'Bayesian Experimental Design: A Review'
 version: 2
 history:
@@ -52,7 +52,7 @@ summary: >-
 Chaloner, K. & Verdinelli, I. (1995). Bayesian experimental design: A
 review. *Statistical Science* 10(3): 273–304. doi:10.1214/ss/1177009939.
 
-Read 2026-10-25 in full (NOTE-tmpj2iwk), from the authors' technical
+Read 2026-10-25 in full ([NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md)), from the authors' technical
 report of July 1995, not compared with the journal text. The summary was
 checked against it.
 

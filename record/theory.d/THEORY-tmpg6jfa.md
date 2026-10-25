@@ -20,7 +20,7 @@ date: '2026-10-25'
 source:
 - LIT-tmpi60b0
 summary: >-
-  Chaloner and Verdinelli (1995), LIT-tmpi60b0, read in NOTE-tmpj2iwk.
+  Chaloner and Verdinelli (1995), [LIT-tmpi60b0](../literature.d/LIT-tmpi60b0.md), read in [NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md).
   Once the information depends on θ, no design is optimal without saying
   which θ it is optimal for, and the prior is how that is said. The
   approximations' accuracy is "not much known" in general. The claim that
@@ -31,9 +31,9 @@ summary: >-
 
 ## Source
 
-Chaloner and Verdinelli (1995), LIT-tmpi60b0, §4.2 (approximations),
+Chaloner and Verdinelli (1995), [LIT-tmpi60b0](../literature.d/LIT-tmpi60b0.md), §4.2 (approximations),
 §4.4 (local optimality), §5.1 (equivalence theorem) and §7.2 (turning
-point). Read in NOTE-tmpj2iwk. The Elfving argument below is the record's.
+point). Read in [NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md). The Elfving argument below is the record's.
 
 ## What was actually shown
 
@@ -91,16 +91,16 @@ linearization at the guess can be estimable while the function is not.
 
 ## Connections
 
-- **CASE-tmplg5jg.** The mixture response p_π = Σ πᵢpᵢ is linear in π, but
+- **[CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md).** The mixture response p_π = Σ πᵢpᵢ is linear in π, but
   its Fisher information is not constant: I_rare(π) = 0.64/(p(1 − p)) with
   p = 0.1 + 0.8π. So designing probes for authority shares is a nonlinear
   design problem in this sense. A design must be judged at a guess of π or
   averaged over a prior on it. In the two-specialist case the choice does
   not depend on π, because the routine context carries zero information at
   every π. With more processes it does, and the equivalence theorem
-  certifies the optimum (NOTE-tmpj2iwk computes one).
-- **QUESTION-031.** A criterion averaged over a prior answers "which
+  certifies the optimum ([NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md) computes one).
+- **[QUESTION-031](../questions.d/QUESTION-031.md).** A criterion averaged over a prior answers "which
   probes, given what we expect", not "which probes separate". The turning
   point example is a case where the best probes for a linearized question
   fail the real one.
-- **THEORY-tmpig9py** is the linear case, where none of this arises.
+- **[THEORY-tmpig9py](THEORY-tmpig9py.md)** is the linear case, where none of this arises.
