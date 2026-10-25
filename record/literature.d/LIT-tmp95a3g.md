@@ -1,0 +1,100 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-24 ([NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md)) from arXiv v1, the only version;
+  worth reading here for one observation and its fix, not for its scale
+  results. The gate of a sparsely-gated mixture of experts "tends to
+  converge to a state where it always produces large weights for the same
+  few experts", which the authors call self-reinforcing because favoured
+  experts are trained more. Two auxiliary losses, the squared coefficient
+  of variation of each expert's summed gate weight and of a smooth
+  estimate of its load, remove the imbalance. In the one ablation (a
+  256-expert model, 10 epochs) no loss gives CV 3.04 and a peak-to-mean
+  load of 17.8 at test perplexity 39.8, any loss gives 35.6–35.7. The fix
+  equalizes use regardless of merit; the noise in the gate is there mainly
+  to make the load estimate differentiable.
+title: 'Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Filed and read 2026-10-24 for the owner's question of how the record
+    stands on multi-agent learning, for gating collapse and the
+    load-balancing fix. Read in full from arXiv:1701.06538v1 (23 January
+    2017), the only arXiv version, marked "Under review as a conference
+    paper at ICLR 2017", licence arXiv's non-exclusive distribution
+    licence, 19 pp., extracted by pdftotext: sections 1–6 and appendices
+    A–G. The reference list was skimmed. The ICLR 2017 camera-ready on
+    OpenReview was not reached (a browser check), so differences from it
+    are not known. `published:` is v1's date (ADR-002).
+tags:
+- learning-theory
+- complex-systems
+- anthology-candidate
+date: '2026-10-24'
+published: '2017-01-23'
+arxiv: '1701.06538'
+first_author: 'Shazeer'
+keywords:
+- 'conditional computation'
+- 'mixture of experts'
+- 'sparse gating'
+- 'noisy top-k gating'
+- 'load balancing'
+- 'language modeling'
+- 'machine translation'
+implementations: []
+summary: >-
+  Shazeer, Mirhoseini, Maziarz, Davis, Le, Hinton & Dean (2017). A layer of
+  up to 131,072 feed-forward experts with a trainable noisy top-k gate,
+  inserted between LSTM layers, raises capacity over 1000-fold at roughly
+  constant computation and beat the best published language-modelling and
+  translation results of the time. Without balancing losses the gate
+  concentrates on a few experts, a self-reinforcing imbalance; losses
+  penalizing unequal summed gate weight and unequal load remove it and,
+  in one ablation, cut test perplexity from 39.8 to 35.6.
+---
+<!-- inactive-ok-file: NOTE-tmpa8fuv THEORY-tmp2p13l CLAIM-277 CLAIM-443 QUESTION-132 CLAIM-362 — filed from this reading, and the claims and question it bears on, named -->
+<!-- inactive-ok-file: LIT-1412 LIT-1414 — Deferred; later load-balancing works the record holds, cited as such -->
+
+# LIT-tmp95a3g: Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
+
+Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G. & Dean, J. (2017). Outrageously large neural networks: The sparsely-gated mixture-of-experts layer. ICLR 2017. arXiv:1701.06538.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md). Page numbers are arXiv v1's.*
+
+- **The observation.** Without constraint the gate converges onto "the
+  same few experts. This imbalance is self-reinforcing, as the favored
+  experts are trained more rapidly and thus are selected even more by the
+  gating network" (p. 5). Eigen et al. saw the same and used a hard
+  constraint early in training. It is stated in one paragraph, with no
+  study of its dynamics.
+- **The fix.** Two losses: the squared coefficient of variation of each
+  expert's summed gate weight over a batch (importance), and of a smooth
+  estimate of how many examples it receives (load), the second made
+  differentiable by the gate's Gaussian noise (Appendix A). Gate weights
+  start at zero, so load starts nearly equal.
+- **The ablation** (Table 6, 256 experts, 10 epochs): no loss, CV of
+  importance 3.04, max/mean load 17.80, perplexity 39.8; any of the five
+  loss settings, CV 0.03–0.48, max/mean 1.07–1.47, perplexity 35.6–35.7.
+- **Scale results.** On 1-billion-word language modelling and WMT'14
+  translation, the MoE models beat the best published results of the time
+  at lower computation, and experts specialize by syntax and semantics
+  (Table 9).
+
+## Why this is here
+
+Filed on 2026-10-24 for its gating collapse, which the lead read as
+[CLAIM-277](../claims.d/CLAIM-277.md)'s and [CLAIM-443](../claims.d/CLAIM-443.md)'s rich-get-richer entrenchment, and its
+load balancing, read as protected access ([NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md)). The reading
+supports the first: this is the entrenchment loop in a working system,
+with the mechanism named by the authors. It corrects the second: the
+balancing losses impose equal use regardless of competence, which is
+[QUESTION-132](../questions.d/QUESTION-132.md)'s imposed diversity, not [CLAIM-362](../claims.d/CLAIM-362.md)'s protected access to
+consequential roles. Filed [THEORY-tmp2p13l](../theory.d/THEORY-tmp2p13l.md). The record already holds two
+later load-balancing works, unread, Switch Transformers ([LIT-1412](LIT-1412.md)) and
+the auxiliary-loss-free method ([LIT-1414](LIT-1414.md)). It carries `anthology-candidate`
+as an ML method, and no instruction for practice.

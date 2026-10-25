@@ -128,3 +128,28 @@ The action-based model of dissonance is [LIT-1474](../literature.d/LIT-1474.md),
 - That the degree of nonintegrability measures tension or felt discomfort.
   How it relates to arbitration cost, reversal frequency, persistence,
   negative affect and reported dissonance is empirical.
+
+## Note of 2026-10-24: at which level a cycle lies, and a fourth relief
+
+From the evaluation and learning-in-games readings filed the same day.
+- **Mean dynamics and runs.** A cycle in the mean dynamic is not a cycle in
+  any actual run. Cross learners lock on to a pure profile even in matching
+  pennies ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)). Conversely, Sato and Crutchfield's fixed
+  learning rules produce cycles and chaos with no switching of regime
+  ([THEORY-tmpev90a](../theory.d/THEORY-tmpev90a.md)). An apparent alternation between cooperation and
+  competition can be one chaotic regime, which bears on the
+  governance-instability row of this claim's table.
+- **Level.** Collapsing each strongly connected component of the win graph
+  to a point leaves an acyclic quotient ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md)). So an ordinal
+  potential always exists one level up, and this claim should say whether
+  its cycles lie within components or between them. The minimum
+  feedback-arc fraction and the component structure are different facts.
+- **Any cycle can arise.** Where parties can recognize each other before
+  the outcome is fixed, every pattern of wins and losses is realizable
+  ([THEORY-tmp2ela3](../theory.d/THEORY-tmp2ela3.md)).
+- **A fourth way to relieve nonintegrability.** In matching pennies, a
+  harmonic game, LOLA's learning-aware learners settled at the mixed
+  equilibrium where naive learners kept cycling ([THEORY-tmpaod5d](../theory.d/THEORY-tmpaod5d.md)). Taking
+  account of how the others learn joins accommodation, entrenchment and
+  periodic coordination. Mixing, as the value between populations orders
+  hull-nested populations, is a related route ([THEORY-tmpxh6cj](../theory.d/THEORY-tmpxh6cj.md)).

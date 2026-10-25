@@ -1,0 +1,100 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-24 ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)) from arXiv v2 (30 October 2018,
+  the authors' "NIPS 2018, final version"); worth reading as the source of
+  the Hodge and Schur reading of evaluation data and of Nash averaging. Elo
+  is the row mean of the log-odds matrix, exact only when the log-odds have
+  no cyclic part, and copies of an agent move it. Nash averaging scores
+  each agent against the maximum-entropy Nash team of the meta-game. Its
+  invariance to copies is proved only for the Nash set (Lemma 1): when the
+  meta-game has more than one equilibrium, copying an agent moves the
+  maximum-entropy selection and the Nash averages with it, which the reading
+  checked by script. The Atari re-evaluation used an LP solution, not the
+  maximum-entropy one.
+title: 'Re-evaluating Evaluation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Filed and read 2026-10-24, at the lead's request in the owner's inquiry
+    into how the record stands on multi-agent learning. Citation checked
+    against the arXiv listing (v1 7 June 2018, v2 30 October 2018, comment
+    "NIPS 2018, final version") and the NeurIPS 2018 proceedings index,
+    which lists it as "Re-evaluating evaluation"; NeurIPS papers carry no
+    DOI in Crossref. Read in full from arXiv:1806.02643v2, a 20-page PDF
+    under arXiv's non-exclusive distribution licence, extracted by
+    pdftotext: sections 1–5 and appendices A–F, every proof followed. The
+    reference list was skimmed. `published:` is v1's date under ADR-002.
+tags:
+- game-theory
+- mathematics
+- anthology-candidate
+date: '2026-10-24'
+published: '2018-06-07'
+arxiv: '1806.02643'
+url: 'https://proceedings.neurips.cc/paper_files/paper/2018/hash/cdf1035c34ec380218a8cc9a43d438f9-Abstract.html'
+first_author: 'Balduzzi'
+keywords:
+- 'Nash averaging'
+- 'evaluation'
+- 'Elo rating'
+- 'combinatorial Hodge theory'
+- 'Schur decomposition'
+- 'agent-vs-agent'
+- 'agent-vs-task'
+- 'maximum entropy Nash equilibrium'
+implementations: []
+summary: >-
+  Balduzzi, Tuyls, Pérolat & Graepel (NeurIPS 2018). Evaluation data are
+  antisymmetric matrices: Elo is their row mean in logit space, exact only
+  when the log-odds are curl-free, and inflatable by copies; the Schur
+  decomposition gives a multidimensional Elo for cyclic interactions. Nash
+  averaging scores agents (and tasks) against the maximum-entropy Nash
+  equilibrium of a zero-sum meta-game, which ignores exact copies when that
+  equilibrium is unique. Applied to Atari, human ties with the best agents.
+---
+<!-- inactive-ok-file: NOTE-tmpr1f7n THEORY-tmp0fsks THEORY-tmpzogk3 — filed from this reading, named -->
+
+# LIT-tmp9zvdz: Re-evaluating Evaluation
+
+Balduzzi, Tuyls, Pérolat & Graepel (2018), *Advances in Neural Information
+Processing Systems 31* (NeurIPS 2018) — arXiv:1806.02643
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md). Page numbers are arXiv v2's.*
+
+- **Elo is a mean.** "Elo is, essentially, a uniform average in logit
+  space" (p. 4). Elo ratings reproduce the win probabilities exactly when
+  the log-odds matrix has no curl (Proposition 3), and a copy of an agent
+  shifts everyone's rating (appendix A; [THEORY-tmp0fsks](../theory.d/THEORY-tmp0fsks.md)).
+- **Nash averaging.** Treat the evaluation matrix as a symmetric zero-sum
+  meta-game, take its unique maximum-entropy Nash equilibrium, and score
+  each agent by its expected log-odds against that team. Uniform when every
+  agent's mean is zero, concentrated on the top-rated agents when the matrix
+  is a pure gradient (Theorem 1, P3; [THEORY-tmpzogk3](../theory.d/THEORY-tmpzogk3.md)).
+- **Invariance holds less widely than stated.** Lemma 1 proves that the
+  Nash set of the padded matrix is the set of splits of the original
+  one. That fixes the maximum-entropy selection only when the original
+  game's equilibrium is unique. With a segment of equilibria, a copied
+  agent pulls the selection toward itself. In the reading's example, an
+  outside agent's Nash average moves from −0.5 to −0.2 when one agent is
+  copied ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)).
+- **Weak continuity, harsh adversary.** The Nash payoff is continuous, but
+  the equilibrium itself "can jump discontinuously when A is modified
+  slightly" (p. 7). The authors call Nash "a harsh master" that "removes
+  control from the user" (p. 8).
+- **Atari.** Under Nash averaging over environments, human ties with the
+  best agents (p. 7), but the equilibrium used was an LP solution, not the
+  maximum-entropy one the invariance is about.
+
+## Why this is here
+
+Filed 2026-10-24 for the record's governance line, as a scoring rule
+designed so that padding the evaluated population cannot buy a ranking. It
+bears on [CASE-124](../cases.d/CASE-124.md)'s μ route and [CASE-155](../cases.d/CASE-155.md)'s share-dependent score c, and
+its Hodge reading bears on [TERM-077](../terms.d/TERM-077.md) and [THEORY-894](../theory.d/THEORY-894.md) ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)). It
+carries `anthology-candidate` because it is a method for evaluating ML
+agents. It is filed for understanding, not as an instruction for practice.

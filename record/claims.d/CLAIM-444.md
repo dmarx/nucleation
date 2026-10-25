@@ -43,6 +43,7 @@ summary: >-
   states are for.
 illustrated_by:
 - CASE-155
+- CASE-tmpffs67
 ---
 <!-- inactive-ok-file: THEORY-899 CASE-155 CLAIM-443 CLAIM-448 — Proposed or new, filed in this pull request -->
 <!-- inactive-ok-file: CLAIM-369 THEORY-894 THEORY-896 CLAIM-451 — cited as the tools the reduction brings in -->
@@ -101,3 +102,28 @@ not reproduce at matched complexity ([CLAIM-427](CLAIM-427.md)'s standard).
 - That organizations are populations of imitators. The identification is
   formal: shares of control play the part of type frequencies.
 - That the mixture condition holds in any actual organization.
+
+## Note of 2026-10-24: three conditions the reduction needs
+
+From the readings filed the same day, and the tensions the owner asked
+about. The reduction to a replicator on authority holds only under three
+conditions, each rejected somewhere in the record's account:
+1. **Every process is scored on every step.** That is full-information
+   feedback. With bandit feedback, only the governing process updated, the
+   dynamic gains a factor x_i and is no longer a replicator on π
+   ([THEORY-tmpar5jw](../theory.d/THEORY-tmpar5jw.md)).
+2. **One standard scores every process.** A common scale is what [CLAIM-436](CLAIM-436.md)
+   and [CLAIM-437](CLAIM-437.md) deny for perspectives with different concerns. Wolpert and
+   Tumer's factored utilities ([THEORY-tmpomtdz](../theory.d/THEORY-tmpomtdz.md)) and monotone value mixing
+   ([THEORY-tmp56jxv](../theory.d/THEORY-tmp56jxv.md)) give the ordinal, member-by-member condition under which
+   no common scale is needed. That is the regime where the reduction is
+   safe.
+3. **Aggregation is share-weighted, not by pairwise contest.** With fixed
+   scores the mean score is a potential, so the replicator cannot produce
+   [CLAIM-451](CLAIM-451.md)'s Condorcet cycles. Cycles there need scores that depend
+   on the population.
+
+Even within the reduction, the replicator describes expected motion. Actual
+runs lock on to pure states ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)). Access and authority, which
+[CLAIM-349](CLAIM-349.md) keeps apart, are one share here, and a share of zero never
+returns without exploration ([THEORY-tmp3wkwk](../theory.d/THEORY-tmp3wkwk.md)).

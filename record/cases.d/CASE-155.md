@@ -28,6 +28,8 @@ summary: >-
   threshold.
 supports:
 - CLAIM-444
+variants:
+- CASE-tmpffs67
 ---
 <!-- inactive-ok-file: THEORY-899 CLAIM-444 CLAIM-443 CLAIM-446 CASE-156 — Proposed, filed in this pull request -->
 
@@ -103,3 +105,27 @@ reach.
 - A separate meaning or legibility state. Here belief and authority are one
   vector ([CLAIM-444](../claims.d/CLAIM-444.md)).
 - That any organization's scoring has this form.
+
+## Note of 2026-10-24: what the learning-in-games readings change
+
+Read the same day (curation entry of 2026-10-24, 2nd).
+- **Expectation, not runs.** Börgers and Sarin ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md),
+  [THEORY-tmpbq2nj](../theory.d/THEORY-tmpbq2nj.md)) show that Cross learning follows the replicator dynamic
+  in expectation, and in actual runs only over finite horizons as learning
+  slows. At every learning speed, a learner ends on one pure profile with
+  probability one, matching pennies included. So part 4's lock-in has a
+  cousin that needs no self-scoring c at all: reinforcement of whatever
+  was chosen, with no way back.
+- **Bandit feedback breaks the reduction.** Where only the governing
+  process's score is updated, as in plain Q-learning, the expected change
+  carries an extra factor x_i ([THEORY-tmpar5jw](../theory.d/THEORY-tmpar5jw.md)). The dynamic is then not a
+  replicator on π. Part 1's Bayes reading assumes every process is scored
+  on every step, BoostTheVote's full-information case.
+- **Forgetting is exploration.** In Sato and Crutchfield's softmax
+  learners with decaying memory ([THEORY-tmp3wkwk](../theory.d/THEORY-tmp3wkwk.md), [THEORY-tmpev90a](../theory.d/THEORY-tmpev90a.md)), the
+  forgetting rate becomes an entropy term pulling toward equal shares. The
+  rest points are then logit equilibria, and the edges stop being
+  absorbing. That is the principled form of the mutation this case left as
+  a next step.
+- **α-Rank cannot express part 4.** Its fitness does not depend on a
+  strategy's share ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md)).
