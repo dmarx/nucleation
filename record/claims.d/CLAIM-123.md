@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpzkhdr
 title: 'In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-16'
@@ -39,6 +39,14 @@ history:
   note: >-
     A dated note added: A45's masked combination of noise predictions, under
     the claim's condition. The claim is unchanged.
+- version: 6
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 extended after the reading of MultiDiffusion
+    (NOTE-tmpa8ixz): A45's combination is, in the main, MultiDiffusion's
+    region-based step, and where its weights are normalized it is an
+    average, to which this claim's condition on sums does not apply. The
+    claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -166,5 +174,17 @@ the weighted mean of their differences; where the total weight is below 1
 it dilutes the guidance. By this claim the combination samples a
 composition of the perspectives' conditions only where the ratio
 condition holds. Elsewhere it is in general the score of no distribution
-([THEORY-611](../theory.d/THEORY-611.md)). The reply cited neither, and no real model was run. The
+([THEORY-611](../theory.d/THEORY-611.md)). The reply cited neither, and no real model was run.
+
+The reading of MultiDiffusion (LIT-tmp03agp, NOTE-tmpa8ixz) places it. With
+unit weights where coverage is at least 1 and a deterministic sampler,
+A45's combination is MultiDiffusion's region-based step: a per-pixel
+weighted mean of the views' noise predictions (THEORY-tmpt2q0g). The
+exchange did not cite it. A45 adds the per-perspective weights and the
+dilution rule below total weight 1. Where the weights are normalized the
+combination is an average, not a sum, and this claim's ratio condition is
+a condition on sums. Under THEORY-405's idealization an average of k
+scores is the score of the normalized geometric mean Π pᵢ^{1/k}, not of the
+product (NOTE-tmphq8v2). So "only where the ratio condition holds" above
+applies to the sum, and the average composes a different target. The
 claim is unchanged.
