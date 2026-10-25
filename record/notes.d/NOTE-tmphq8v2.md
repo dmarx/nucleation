@@ -165,52 +165,52 @@ more than the order of the rest.
 
 ## Connections
 
-It cites Composable Diffusion (Liu et al., 2022, LIT-770) and later work
+It cites Composable Diffusion (Liu et al., 2022, [LIT-770](../literature.d/LIT-770.md)) and later work
 as modifying classifier-free guidance to emphasize textual concepts, and
 presents Composite as the same move conditioned on LoRAs. It cites
 LoRAHub and ZipLoRA for learned merging coefficients, and Mixture of
 LoRA Experts (Wu et al., 2024) only in passing. It does not cite
-MultiDiffusion (LIT-tmp03agp, NOTE-tmpa8ixz), whose region fusion is the
+MultiDiffusion ([LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), [NOTE-tmpa8ixz](NOTE-tmpa8ixz.md)), whose region fusion is the
 spatial form of Composite's averaging.
 
 ## Bearing on the record
 
-- **THEORY-405 and CLAIM-123.** Composite is not THEORY-405's
+- **[THEORY-405](../theory.d/THEORY-405.md) and [CLAIM-123](../claims.d/CLAIM-123.md).** Composite is not [THEORY-405](../theory.d/THEORY-405.md)'s
   conjunction. Composable Diffusion adds one guidance term per concept, so
   total guidance grows with k; Composite averages, so the total stays at s
-  and each LoRA's model gets 1/k. Under THEORY-405's idealization (exact,
+  and each LoRA's model gets 1/k. Under [THEORY-405](../theory.d/THEORY-405.md)'s idealization (exact,
   conservative scores at the data distribution), an average of k scores is
   the score of the normalized geometric mean Πᵢ pᵢ^{1/k}, a product of
   experts each at temperature k, not the product itself. The noise-level
-  caveat of THEORY-405 and CLAIM-123 applies unchanged. The derivation is
+  caveat of [THEORY-405](../theory.d/THEORY-405.md) and [CLAIM-123](../claims.d/CLAIM-123.md) applies unchanged. The derivation is
   the record's; the paper gives no probabilistic reading.
-- **THEORY-611.** Each term is a guided field, in general the gradient of
+- **[THEORY-611](../theory.d/THEORY-611.md).** Each term is a guided field, in general the gradient of
   no density, and a mean of such fields is no better. The paper's phrase
   "enabling CFG to condition on LoRAs" overstates what Eq. 5 does: the
   guidance direction is the text within each LoRA-modified model, not the
   difference between a model with the LoRA and one without.
-- **THEORY-tmpt2q0g.** Composite is MultiDiffusion's noise-prediction
+- **[THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md).** Composite is MultiDiffusion's noise-prediction
   step with every mask full and the views being LoRA-modified models
   rather than prompts. Switch is the same step with a one-hot weight that
   rotates in time.
-- **QUESTION-tmpu6zq7.** Switch is the owner's "number of iterations ...
+- **[QUESTION-tmpu6zq7](../questions.d/QUESTION-tmpu6zq7.md).** Switch is the owner's "number of iterations ...
   a given denoiser can apply" built and measured; Composite is A45's
   "share of one combined step". The ablation is evidence on the question's
   second half: at equal nominal budgets (each LoRA 1/k of the steps), the
   switching interval and which LoRA acts first changed the result,
   matching A33's "Authority can reside in sequence position, not just
   frequency". It is GPT-4V-judged on an unstated sample, and no per-LoRA
-  counterfactual influence is measured (THEORY-tmp6s2xi). Per step, all
+  counterfactual influence is measured ([THEORY-tmp6s2xi](../theory.d/THEORY-tmp6s2xi.md)). Per step, all
   three of the paper's methods and MultiDiffusion are convex weightings of
   the operators' predictions; what differs is how the weights vary over
   steps and pixels, and the ablation says that variation matters.
-- **CASE-tmpjmerx.** Its operators are frozen, separately trained LoRAs
+- **[CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md).** Its operators are frozen, separately trained LoRAs
   combined per step, which is Composite with spatial grants. This paper
   is the case's prior art for the fixed-allocation arm and for
   per-step combination; it has no learned, audited or routed allocation.
   Its finding that merging degrades with k is a reason for the case's
   per-step combination, not evidence on governance.
-- **CLAIM-336's note of 2026-10-25.** This paper is A45's "population
+- **[CLAIM-336](../claims.d/CLAIM-336.md)'s note of 2026-10-25.** This paper is A45's "population
   with multiple genuinely specialized operators": distinct operators
   under one shared frame (one prompt), with uniform (Composite) or
   time-sliced (Switch) influence. The frame and the operator do not
@@ -248,7 +248,7 @@ anthology-candidate on the LIT.
   scale fixed".
 - What is each LoRA's counterfactual effect on the image under Switch, by
   position in the order and by interval, at equal step shares? That would
-  turn the ablation into a measurement for QUESTION-tmpu6zq7.
+  turn the ablation into a measurement for [QUESTION-tmpu6zq7](../questions.d/QUESTION-tmpu6zq7.md).
 - What does Composite sample? Characterizing the target of averaged
   guided predictions would say whether it composes the LoRAs' elements in
-  CLAIM-123's sense.
+  [CLAIM-123](../claims.d/CLAIM-123.md)'s sense.
