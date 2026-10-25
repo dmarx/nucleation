@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpc4j7p
 title: 'What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode''s current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -31,6 +31,13 @@ history:
     the read works offer, each on the organizational side only. The IWMT
     bullet is corrected: it does not require current coupling. The question
     is unchanged.
+- version: 5
+  date: '2026-10-25'
+  note: >-
+    Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
+    NOTE-tmpn1hle: its group-theoretic layer offers a structural mark of a
+    perspective but no criterion against a perspective-free invariant
+    extractor. The question is unchanged.
 tags:
 - consciousness
 - phenomenal-unity
@@ -59,6 +66,7 @@ answered_by:
 <!-- inactive-ok-file: TERM-072 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-368 CLAIM-411 CLAIM-412 CLAIM-413 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1345 LIT-1347 — Deferred; works registered unread, cited as such -->
+<!-- inactive-ok-file: THEORY-tmpt62hk — Proposed; a reading cited as a candidate, nothing here rests on its being settled -->
 # QUESTION-254: What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode's current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?
 
 ## The question
@@ -244,3 +252,16 @@ organizational half. None answers the phenomenal half.
 
 Barrett et al. ([NOTE-1067](../notes.d/NOTE-1067.md)) give no criterion for when categorization
 is experiential.
+
+## Note of 2026-10-25: Isaac's invariants
+
+Isaac (LIT-1361), read in NOTE-tmpn1hle, is the reason the record filed
+the paper here. Its group-theoretic layer (THEORY-tmpt62hk) offers a
+structural mark of a perspective: a varying level of appearance and an
+invariant level abstracted from it, present together in one experience,
+which after Cassirer it takes to separate subject from object. It gives
+no criterion that keeps out a perspective-free invariant extractor, as
+any object recognizer is, and the paper calls the layer a suggestive
+sketch. It narrows the question to what co-presence adds over invariant
+extraction; it does not answer it. The inference is the record's. The
+question is unchanged.
