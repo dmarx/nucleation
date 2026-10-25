@@ -88,7 +88,7 @@ already blends its neighbours' proposals.
   pixel-sampling maps the paper gives the minimizer as
   Ψ = Σᵢ [Fᵢ⁻¹(Wᵢ) / Σⱼ Fⱼ⁻¹(Wⱼ)] ⊗ Fᵢ⁻¹(Φ(Iᵢ_t | yᵢ)) (Eq. 5): "each pixel
   of the minimizer J is a weighted average of all its diffusion sample
-  updates". Re-derived in THEORY-tmpt2q0g, with one correction: with the
+  updates". Re-derived in [THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md), with one correction: with the
   weight inside the norm, as printed in both versions, the per-pixel
   minimizer weights by Wᵢ², so Eq. 5 is the minimizer for 0/1 weights
   (every application in the paper) and not for general weights.
@@ -139,7 +139,7 @@ already blends its neighbours' proposals.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | For pixel-sampling maps the least-squares fusion of the views' proposals is a per-pixel weighted average (Eq. 5) | strong for 0/1 weights; as printed, wrong for other weights (the minimizer weights by W²) | §3 derivation; re-derived and checked numerically in THEORY-tmpt2q0g |
+| C1 | For pixel-sampling maps the least-squares fusion of the views' proposals is a per-pixel weighted average (Eq. 5) | strong for 0/1 weights; as printed, wrong for other weights (the minimizer weights by W²) | §3 derivation; re-derived and checked numerically in [THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md) |
 | C2 | At zero loss with positive weights every view follows a diffusion path of the reference model and its final crop is distributed as the model's samples | strong as a conditional | Proposition 3.1 and Appendix A; the condition is not shown to hold, or measured, in any experiment |
 | C3 | Fused panoramas are closer to the reference model's crop distribution than outpainting baselines, at equal text alignment | moderate | Table 1: 8 prompts, N = 2000, FID with spread across prompts; no significance test |
 | C4 | Region prompts with rough masks yield layouts closer to the target than SI or BLD | moderate | Table 2, 1K COCO images, one segmenter; the fusion alone gains 0.01–0.02 IoU, bootstrapping 0.08 |
@@ -170,36 +170,36 @@ cost L′ and hard constraints C to the same least-squares objective.
 
 It builds on Stable Diffusion and on training-free control of a frozen
 model (prompt-to-prompt, plug-and-play features, blended diffusion). It
-cites classifier-free guidance (Ho and Salimans, LIT-839) among
+cites classifier-free guidance (Ho and Salimans, [LIT-839](../literature.d/LIT-839.md)) among
 conditional diffusion models but does not cite Composable Diffusion
-(Liu et al., LIT-770), whose conjunction composes concepts everywhere
+(Liu et al., [LIT-770](../literature.d/LIT-770.md)), whose conjunction composes concepts everywhere
 by summing guidance terms. MultiDiffusion composes prompts by place,
-averaging where regions overlap. Multi-LoRA composition (LIT-tmpxsvgv,
-NOTE-tmphq8v2) does not cite it.
+averaging where regions overlap. Multi-LoRA composition ([LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md),
+[NOTE-tmphq8v2](NOTE-tmphq8v2.md)) does not cite it.
 
 ## Bearing on the record
 
-- **THEORY-405 and CLAIM-123.** MultiDiffusion is not THEORY-405's
+- **[THEORY-405](../theory.d/THEORY-405.md) and [CLAIM-123](../claims.d/CLAIM-123.md).** MultiDiffusion is not [THEORY-405](../theory.d/THEORY-405.md)'s
   conjunction. Where k regions overlap, a pixel takes the mean of their
   proposals, each guidance term at weight 1/k, not their sum; disjoint
   regions select. If each Φ call uses classifier-free guidance at scale
   g, and the update is deterministic and affine in the noise prediction
   with a shared current state (DDIM-type), fusing next states equals one
   step with ε_∅ + g Σᵢ Mᵢ(εᵢ − ε_∅) / Σᵢ Mᵢ (re-derived in
-  THEORY-tmpt2q0g). That is A45's formula in CLAIM-123's note of
+  [THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md)). That is A45's formula in [CLAIM-123](../claims.d/CLAIM-123.md)'s note of
   2026-10-25 with unit weights where coverage is at least 1. A45 is this
   paper's region-based step, with per-perspective weights and a dilution
   rule where total weight falls below 1, which this paper does not have.
-  CLAIM-123's ratio condition does not apply to an average, and the
+  [CLAIM-123](../claims.d/CLAIM-123.md)'s ratio condition does not apply to an average, and the
   paper offers no probabilistic reading of the fused step.
-- **THEORY-611.** Each view's guided field is in general the gradient of
+- **[THEORY-611](../theory.d/THEORY-611.md).** Each view's guided field is in general the gradient of
   no density, and a spatially masked combination adds a second source:
   across a region boundary the Jacobian of Σᵢ Mᵢ ⊙ sᵢ is symmetric only if
   Σᵢ (Mᵢ(p) − Mᵢ(q)) ∂sᵢ,p/∂x_q vanishes, which it does not in general when
   the models couple pixels across the boundary (the record's one-line
   argument, not the paper's). Proposition 3.1 is the paper's only
   distributional statement, and it is conditional on zero loss.
-- **QUESTION-tmpu6zq7.** This is the owner's third mechanism in its
+- **[QUESTION-tmpu6zq7](../questions.d/QUESTION-tmpu6zq7.md).** This is the owner's third mechanism in its
   "locations" form, built and published: one population of views acting
   on one shared state, each with jurisdiction over a set of pixels. Under
   this fusion the nominal resource, a view's weight at a pixel, is
@@ -210,12 +210,12 @@ NOTE-tmphq8v2) does not cite it.
   bootstrapping result shows that the same masks used differently in the
   first 20% of steps change the outcome (IoU 0.18 → 0.26). The paper
   measures no per-view counterfactual influence.
-- **CASE-tmpjmerx.** Its fixed-allocation arm (authorized proposals
+- **[CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md).** Its fixed-allocation arm (authorized proposals
   combined, one scheduler step) is this paper's fusion with LoRA
-  operators in place of prompts. Neither this paper nor LIT-tmpxsvgv
+  operators in place of prompts. Neither this paper nor [LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md)
   learns or audits the weights; the case's governed and routed arms add
   exactly that.
-- **CLAIM-336's note of 2026-10-25.** In A45's terms this paper is "a
+- **[CLAIM-336](../claims.d/CLAIM-336.md)'s note of 2026-10-25.** In A45's terms this paper is "a
   population with different interpretations of one shared operator":
   one network, many frames (prompts), with masks as allocated influence.
   The LoRA paper is the other side of A45's distinction.
@@ -253,7 +253,7 @@ anthology-candidate on the LIT.
   residual would say how far Proposition 3.1 is from the method.
 - What distribution does the fused sampler target, if any? A
   characterization would say whether region fusion composes prompts in
-  the sense of CLAIM-123 or only averages fields.
+  the sense of [CLAIM-123](../claims.d/CLAIM-123.md) or only averages fields.
 - Does a view's counterfactual influence on the final image track its
   nominal weight? Removing one view at a time and measuring the change
-  would answer it for this mechanism (QUESTION-tmpu6zq7's measure).
+  would answer it for this mechanism ([QUESTION-tmpu6zq7](../questions.d/QUESTION-tmpu6zq7.md)'s measure).
