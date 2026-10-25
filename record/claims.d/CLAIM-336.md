@@ -177,10 +177,10 @@ it held. A42 cited this claim for its proposal of a typed workspace.
 - A45: distinguish "a population with multiple genuinely specialized
   operators from a population with different interpretations of one shared
   operator". The two published works read on 2026-10-25 are its two
-  sides. MultiDiffusion (LIT-tmp03agp, NOTE-tmpa8ixz) is different
+  sides. MultiDiffusion ([LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)) is different
   interpretations of one shared operator: one network, many frames or
-  prompts, masks as influence. Multi-LoRA composition (LIT-tmpxsvgv,
-  NOTE-tmphq8v2) is several specialized operators under one shared frame,
+  prompts, masks as influence. Multi-LoRA composition ([LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md),
+  [NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)) is several specialized operators under one shared frame,
   with uniform influence (Composite) or influence sliced in time (Switch).
   A caution for the typed-workspace mapping above: in Multi-LoRA the
   shared prompt carries each LoRA's trigger words, so an operator acts

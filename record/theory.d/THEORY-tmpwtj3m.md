@@ -26,6 +26,8 @@ summary: >-
   span of their signal row spaces. Global and local observability are the
   two choices of D the classification uses. It says what can be
   estimated, not how fast; the rates are [THEORY-tmpz3a05](THEORY-tmpz3a05.md).
+supports:
+- CLAIM-446
 ---
 <!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification this lemma feeds, filed from the same reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose example is worked here, nothing here rests on it -->

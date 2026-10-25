@@ -92,12 +92,12 @@ extension, committed at 03:54 UTC on 2026-10-25, 42 minutes after A47 was
 reported, found the first two in a different model, independently.
 
 **Prior art for the fixed arm.** Frozen LoRA operators whose proposals are
-combined in one scheduler step is LoRA Composite (LIT-tmpxsvgv,
-NOTE-tmphq8v2) with spatial grants, which is MultiDiffusion's fusion with
-LoRA-modified models as the views (LIT-tmp03agp, THEORY-tmpt2q0g). Neither
+combined in one scheduler step is LoRA Composite ([LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md),
+[NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)) with spatial grants, which is MultiDiffusion's fusion with
+LoRA-modified models as the views ([LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), [THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md)). Neither
 paper learns, audits or routes the allocation, so the governed and router
 arms are what this case adds. That merging LoRAs degrades as their number
-grows (THEORY-tmpg6v1v) motivates combining per step. It is no evidence
+grows ([THEORY-tmpg6v1v](../theory.d/THEORY-tmpg6v1v.md)) motivates combining per step. It is no evidence
 about governance.
 
 ## Two caveats
