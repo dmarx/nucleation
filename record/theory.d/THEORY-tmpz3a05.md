@@ -162,8 +162,8 @@ owner's decision under [ADR-047](../decisions.d/ADR-047.md). The status is uncha
 
 ## Superseded, 2026-10-25
 
-At the owner's decision under ADR-047, this entry is Superseded by
-THEORY-tmpyulw1 rather than promoted, for the two mis-stated clauses in
-the note above. Cite THEORY-tmpyulw1 for the classification and
-THEORY-tmpwqg2f for the role of degenerate actions and the corrected lower
+At the owner's decision under [ADR-047](../decisions.d/ADR-047.md), this entry is Superseded by
+[THEORY-tmpyulw1](THEORY-tmpyulw1.md) rather than promoted, for the two mis-stated clauses in
+the note above. Cite [THEORY-tmpyulw1](THEORY-tmpyulw1.md) for the classification and
+[THEORY-tmpwqg2f](THEORY-tmpwqg2f.md) for the role of degenerate actions and the corrected lower
 bound.
