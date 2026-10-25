@@ -158,7 +158,7 @@ dial on it.
   modes decay only if W is also aperiodic: a periodic two-cycle,
   W = [[0, 1], [1, 0]], does not converge (checked). With hλ < 1, and in
   the continuous-time equation, irreducibility is enough. That ℓ is
-  DeGroot's consensus weight is held here only through THEORY-321, since
+  DeGroot's consensus weight is held here only through [THEORY-321](../theory.d/THEORY-321.md), since
   DeGroot's paper was sought and not reached.
 - Anything for binary positions. A37 called xᵢ "each perspective's binary
   support variable". If the members broadcast sign(xⱼ) in place of xⱼ, the

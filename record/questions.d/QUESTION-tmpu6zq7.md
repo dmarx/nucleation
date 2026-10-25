@@ -90,17 +90,17 @@ each perspective a share of one combined step, not a number of passes, a
 departure from the owner's option that the reply did not flag.
 
 **The third mechanism is published, in two forms.** "Locations" is
-MultiDiffusion (LIT-tmp03agp, NOTE-tmpa8ixz): each view has jurisdiction over
+MultiDiffusion ([LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)): each view has jurisdiction over
 a set of pixels, and its nominal weight at a pixel is exactly its convex
-share of that pixel's step (THEORY-tmpt2q0g, in part an answer).
-"Iterations" is LoRA Switch (LIT-tmpxsvgv, NOTE-tmphq8v2): one LoRA acts at a
+share of that pixel's step ([THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md), in part an answer).
+"Iterations" is LoRA Switch ([LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md), [NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)): one LoRA acts at a
 time, in rotation. A45's share of one combined step is LoRA Composite. Per
 step all three are convex weightings of the operators' predictions. Two
 results bear against the no branch in its time-averaged form, every
 mechanism reducing to one vector of weights. At equal step shares, the
 switching interval and which LoRA acts first change the result
-(THEORY-tmp6s2xi). And the same masks used differently in the early steps
-change layout IoU from 0.18 to 0.26 (THEORY-tmp5q0ny). Neither paper
+([THEORY-tmp6s2xi](../theory.d/THEORY-tmp6s2xi.md)). And the same masks used differently in the early steps
+change layout IoU from 0.18 to 0.26 ([THEORY-tmp5q0ny](../theory.d/THEORY-tmp5q0ny.md)). Neither paper
 measures any operator's counterfactual influence, so the question stays
 open.
 
