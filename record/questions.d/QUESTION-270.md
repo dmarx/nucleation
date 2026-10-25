@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmponjie
 title: 'When can an organization hold an evaluation that is accurate, a consummatory process registering that an outcome no longer pleases or a process whose belief keeps predicting well, and still deny it the authority to revise pursuit or the collective judgement, and how is that told apart from the evaluation''s not being recognized at all?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: four rival mechanisms and their separating
+    interventions, from A31. The question is unchanged.
 tags:
 - self-governance
 - emotion-and-affect
@@ -20,6 +26,7 @@ summary: >-
   [CLAIM-437](../claims.d/CLAIM-437.md)'s wanting and liking, [CLAIM-403](../claims.d/CLAIM-403.md)'s ladder from access to uptake,
   and [CASE-124](../cases.d/CASE-124.md)'s legibility.
 ---
+<!-- inactive-ok-file: CLAIM-403 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # QUESTION-270: When can an organization hold an evaluation that is accurate, a consummatory process registering that an outcome no longer pleases or a process whose belief keeps predicting well, and still deny it the authority to revise pursuit or the collective judgement, and how is that told apart from the evaluation's not being recognized at all?
 
@@ -74,3 +81,22 @@ the evidentiary regime.
 - Relief after avoidance is reduced distress, not positive pleasure and not
   evidence of danger ([CLAIM-446](../claims.d/CLAIM-446.md)); safe engagement's pleasure is often
   counterfactual and unsampled.
+
+## Note of 2026-10-25: four rivals for failed uptake
+
+A31 of the exchange of 2026-10-24, continued, proposed this question's
+probe as its Experiment 6, without citing it, with four mechanisms and the
+intervention that tells each apart:
+
+- incorrect hedonic prediction, separated by reliable outcome evidence;
+- cue-triggered incentive salience, separated by reducing cue-driven drive;
+- habitual control, separated by changed contingencies and retraining;
+- governance-mediated suppression, separated by restoring the evaluation's
+  access to decision.
+
+A31: "A sophisticated habit or incentive-learning model may explain much of
+the result without any extra governance state." It also adds an avowal
+equivalent to "I no longer enjoy this", made available to the other
+processes, to test whether an accurate report is enough to revise pursuit.
+That is [CLAIM-403](../claims.d/CLAIM-403.md)'s step from recognition to uptake, inside one agent. Not
+run. The question is unchanged.

@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmprfgwn
 title: 'Three standards for a communicative distinction come apart: statistical distinguishability of an interpreter''s response profiles, measured locally by the Fisher metric and never raised by a parameter-independent garbling; usability by a bounded receiver, which a transformation can raise; and pragmatic efficacy in the act; and where response models are singular, as Watanabe''s theory treats, a missing response can come from an absent attempt or an unresponsive receiver alike, and only intervention or later dynamics separate them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the garbling inequality applied to authority shares
+    (CASE-tmplg5jg), and information design set against efficacy. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,7 +56,9 @@ summary: >-
   account, rather than read as rival characterizations.
 illustrated_by:
 - CASE-152
+- CASE-tmplg5jg
 ---
+<!-- inactive-ok-file: CLAIM-130 THEORY-665 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-450: Three standards for a communicative distinction come apart: statistical distinguishability of an interpreter's response profiles, measured locally by the Fisher metric and never raised by a parameter-independent garbling; usability by a bounded receiver, which a transformation can raise; and pragmatic efficacy in the act; and where response models are singular, as Watanabe's theory treats, a missing response can come from an absent attempt or an unresponsive receiver alike, and only intervention or later dynamics separate them
 
@@ -111,3 +120,31 @@ separate them, and changing b with a held fixed does ([CLAIM-407](CLAIM-407.md))
 - That the information-geometric reading has been applied to any
   communicative data. [CASE-055](../cases.d/CASE-055.md)'s proposed fidelity study is where it would
   be, with a singular-aware comparison in place of the regular BIC.
+
+## Note of 2026-10-25: information design is not efficacy
+
+From A29, A30 and A31 of the exchange of 2026-10-24, continued.
+
+- **Garbling applied to authority.** When an organization's response is
+  the authority-weighted mixture of its processes', this claim's garbling
+  inequality bounds what responses can say about the shares: the response
+  metric is the pullback of the metric on the shares and never exceeds it
+  ([CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md)).
+- **Information design against efficacy.** Information design
+  ([THEORY-844](../theory.d/THEORY-844.md)) characterizes what can be induced by controlling what
+  participants learn, with incentives and standing held fixed. This
+  claim's third standard, efficacy, concerns acts that change standing,
+  commitments or rules. A30: "A speaker can persuade someone to volunteer,
+  or can acquire authority to assign them a duty. The observed behavior
+  might be identical. But an intervention challenging the speaker's
+  standing could separate the mechanisms," and "Observing someone comply
+  with a statement is not sufficient evidence that the statement
+  constituted an authoritative command." A31's proposed test is the same
+  utterance ("I'll submit the report tomorrow") as a prediction or as an
+  accepted commitment, with actual and told role crossed ([CLAIM-130](CLAIM-130.md)),
+  scored on held-out responses to withdrawal, role transfer and
+  repudiation. Brandom's scorekeeping ([THEORY-665](../theory.d/THEORY-665.md)) is the normative state
+  such a test needs. A31: "the simulation designer has to stipulate which
+  procedures generate which commitments."
+
+The claim is unchanged.

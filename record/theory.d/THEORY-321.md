@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprmrt9
 title: "Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right"
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,20 @@ history:
     suffice, which was not checked against the paper. The former
     promote_when, a case outside the model, moves to QUESTION-184
     with that check.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the theorem's condition in variance form, in
+    CASE-tmpvmjgd. The reading is unchanged.
+- version: 4
+  date: '2026-10-25'
+  note: >-
+    A dated note added after the reading of DeGroot 1974 from a copy the
+    owner supplied (LIT-tmpwlnuv, THEORY-tmpvqkp6): consensus needs one
+    closed class, aperiodic, with transient members weightless, so the
+    "strongly connected" narrowing is stronger than consensus needs; the
+    earlier note of the day now cites THEORY-tmpvqkp6 for ℓ = π. The
+    reading is unchanged.
 tags:
 - network-science
 - social-science
@@ -34,6 +48,8 @@ summary: >-
   n → ∞. Speed of consensus and its correctness are independent.
 answers:
 - QUESTION-047
+supports:
+- CLAIM-tmpfd9lk
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 
@@ -127,3 +143,35 @@ sense of "network structure alone". With several closed groups the limit
 beliefs are several consensus values, and the maximum over them is not
 covered by 3. That case, and whether real groups behave so, are
 [QUESTION-184](../questions.d/QUESTION-184.md).
+
+## Note of 2026-10-25: influence concentration in diffusion form
+
+Used without citation at A36 and A37 of the exchange of 2026-10-24,
+continued. In a linear network of accumulators the influence-weighted
+support has variance σ²Σℓᵢ² for independent, equal noises, and A36's
+"effective population" 1/Σℓᵢ² is this theorem's influence concentration in
+diffusion form. A36 called it "an immediate mathematical connection
+between network influence and collective statistical efficiency". Since
+max ℓᵢ² ≤ Σℓᵢ² ≤ max ℓᵢ, the collective noise vanishes exactly when the
+largest weight does, this theorem's condition ([CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md)). That ℓ
+is DeGroot's consensus weight π is his Theorem 3 ([THEORY-tmpvqkp6](THEORY-tmpvqkp6.md)). The
+reading is unchanged.
+
+## Note of 2026-10-25: DeGroot's original conditions
+
+DeGroot's 1974 paper ([LIT-tmpwlnuv](../literature.d/LIT-tmpwlnuv.md), read in [NOTE-tmp5sbzm](../notes.d/NOTE-tmp5sbzm.md) from a copy the
+owner supplied; [THEORY-tmpvqkp6](THEORY-tmpvqkp6.md)) gives a consensus from every start
+exactly when the weight matrix has a single closed class of communicating
+members and that class is aperiodic. The consensus is Σπᵢ Fᵢ with π the
+unique stationary vector, which gives members outside the closed class no
+weight. He names the two failures: two closed classes, and a periodic
+closed class, of which he says "a consensus is not reached" (§5). He gives
+no proofs; the record re-derived them.
+
+So this theorem's "strongly connected" narrowing, made in the note of
+2026-10-19, is stronger than consensus needs: a society with one closed
+class and transient members reaches a consensus, and its influence weights
+are the closed class's. The re-derivation above carries over with s zero
+off that class. The several-closed-groups question in [QUESTION-184](../questions.d/QUESTION-184.md) is
+Golub and Jackson's question of wisdom, which DeGroot does not address.
+The reading is unchanged.

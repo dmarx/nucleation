@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4v4na
 title: 'In the meaning–authority model linearized at symmetry, a third, maintained legibility state that authority moves (ε) and that moves interpretation (ν) or endorsement (μ), with persistence λ < 1 and nonnegative couplings, destabilizes the symmetric state exactly when the two-variable condition holds with β + νε/(1 − λ) in place of β and δ + με/(1 − λ) in place of δ: at the threshold the regime is indistinguishable from stronger two-variable couplings, and the slower it is the more it adds, while away from the threshold it adds a mode that no two-variable model has, so a lean in the regime can outlast the advantages it was built from'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-21'
@@ -23,6 +23,11 @@ history:
     only varied κ′ (κ′ = κ′₀ + c r), its effect on authority would be
     4ηs c r m, second order at symmetry, and would move no linear threshold.
     The result is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    A dated note added: a slow reduction needs the fast authority dynamics
+    to converge. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -65,6 +70,7 @@ illustrated_by:
 supports:
 - CLAIM-444
 ---
+<!-- inactive-ok-file: CLAIM-444 THEORY-936 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-400: In the meaning–authority model linearized at symmetry, a third, maintained legibility state that authority moves (ε) and that moves interpretation (ν) or endorsement (μ), with persistence λ < 1 and nonnegative couplings, destabilizes the symmetric state exactly when the two-variable condition holds with β + νε/(1 − λ) in place of β and δ + με/(1 − λ) in place of δ: at the threshold the regime is indistinguishable from stronger two-variable couplings, and the slower it is the more it adds, while away from the threshold it adds a mode that no two-variable model has, so a lean in the regime can outlast the advantages it was built from
 
@@ -139,3 +145,19 @@ system returns, it is not.
 - That the third arrow is the only way to get a third mode. Any third
   state coupled into the loop would do; the construction's content is
   that a legibility regime is one natural reading of such a state.
+
+## Note of 2026-10-25: when the slow regime can be reduced
+
+From A29–A30 of the exchange of 2026-10-24, continued. Treating the
+legibility lean r as slow, dπ/dt = F(π, r) and dr/dt = εG(π, r), suggests
+the reduced flow dr/dt ≈ εG(π*(r), r). [THEORY-771](../theory.d/THEORY-771.md) licenses that when the
+fast authority dynamics contract to an equilibrium. A30: "the fast
+authority dynamics may cycle rather than converge to a unique equilibrium.
+In such cases we cannot automatically replace π by a function π*(ρ)." A
+valid slow reduction may then need averaging over an invariant
+distribution, or several attracting regimes. The harmonic part of the
+scores ([CLAIM-444](CLAIM-444.md), [THEORY-894](../theory.d/THEORY-894.md)) and Sato and Crutchfield's cycling
+learners ([THEORY-936](../theory.d/THEORY-936.md)) are where that happens. This claim's result is a
+linearization at a stable symmetric state and stands as it is. Borkar's
+two-timescale stochastic approximation was named with no work cited, and
+is not registered.

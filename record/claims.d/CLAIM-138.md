@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpayhau
 title: 'The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
+    NOTE-tmpn1hle: a further instance of the remedy, in phenomenal
+    structure. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -32,6 +39,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the thesis this objection presses and the qualified claim it spares, both open -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition the exchange offered as the remedy, open -->
+<!-- inactive-ok-file: THEORY-880 — Proposed; Lyre's structuralism, cited for comparison, not leaned on -->
 
 # CLAIM-138: The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity
 
@@ -126,3 +134,20 @@ point of "What it does not say". What it does not supply: anything about
 which version of [CLAIM-136](CLAIM-136.md) the owner should hold, or a formal
 isomorphism. Labov states the correspondence in words, for turns in one
 session, not as a mapping between two systems.
+
+## Note of 2026-10-25: a further instance, in phenomenal structure
+
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)), a structuralist about phenomenal
+experience, names Newman's (1928) objection and sets it aside: at the
+methodological level "the mathematical term is being used in a suggestive,
+metaphorical way", and the technical conditions for an isomorphism are met
+only "by modelling the targets of investigation through a mathematical
+idealization" (§4). In practice his relations are fixed by named behavioural
+procedures (matching, judgements of equal distance, descriptor ratings).
+That is the independently specified relations this claim says concede
+non-structural input. He can pay that cost because he does not hold that
+relations alone fix what an experience is.
+
+The case is outside the communicative domain, as Lyre's is ([THEORY-880](../theory.d/THEORY-880.md)), so
+it extends the claim's parallel by analogy and says nothing about which
+version of [CLAIM-136](CLAIM-136.md) the owner should hold. The comparison is the record's.

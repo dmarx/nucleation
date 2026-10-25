@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpf1063
 title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,11 @@ history:
     link (TERM-064) and Fricker's pre-emptive testimonial injustice and
     Longino's uptake as cases; the owner's U24 heard it as perpetuated
     privilege (CLAIM-406). The claim is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A42's entrenchment loop, which A47's
+    frozen-competence design cannot show. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +59,7 @@ supports:
 - CLAIM-443
 ---
 <!-- inactive-ok-file: CLAIM-403 CLAIM-406 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-927 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
 ## The claim
@@ -196,3 +202,13 @@ conclusion requires establishing relevant prejudice, wrongful exclusion,
 or another justified standard of unfairness." Whether the loop is
 pathological by an internal standard is [QUESTION-087](../questions.d/QUESTION-087.md). Whether it destroys
 competence, not just the evidence of it, is [QUESTION-134](../questions.d/QUESTION-134.md).
+
+## Note of 2026-10-25: the entrenchment loop, named and not run
+
+A42 of the exchange of 2026-10-24, continued, put this claim's converse as
+the model's "crucial feedback loop": access → experience → competence and
+evaluation → future access, which "can also preserve an early advantage
+when alternative perspectives don't receive enough opportunities to
+demonstrate competence". That is also [THEORY-927](../theory.d/THEORY-927.md)'s self-reinforcing
+gate. A47's experiment froze competence, so it cannot show the loop
+([CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md)). The claim is unchanged.

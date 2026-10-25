@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpzkhdr
 title: 'In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require'
-version: 4
+version: 6
 history:
 - version: 2
   date: '2026-10-16'
@@ -34,6 +34,19 @@ history:
     example of dependent conditions, the joint law is nonnegative, has the
     stated marginals, and has a ratio that does not depend on x. No
     objection is open. The claim is unchanged.
+- version: 5
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A45's masked combination of noise predictions, under
+    the claim's condition. The claim is unchanged.
+- version: 6
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 extended after the reading of MultiDiffusion
+    (NOTE-tmpa8ixz): A45's combination is, in the main, MultiDiffusion's
+    region-based step, and where its weights are normalized it is an
+    average, to which this claim's condition on sums does not apply. The
+    claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -148,3 +161,30 @@ conditions, and stays demonstrated. Its title, which led with the
 empirical part, was changed to state only the derivation; the first
 disjunct of its defeat condition, a model whose per-condition
 satisfaction predicts its joint binding accuracy, is [CLAIM-321](CLAIM-321.md)'s.
+
+## Note of 2026-10-25: masked composition of perspectives' predictions
+
+A45 of the exchange of 2026-10-24, continued, combined perspectives'
+conditional noise predictions as
+ε* = ε_∅ + g·Σwᵢ Mᵢ (εᵢ − ε_∅) / max(1, Σwᵢ Mᵢ), a masked and normalized
+form of [THEORY-405](../theory.d/THEORY-405.md)'s composition, with one scheduler step per timestep.
+For one full-mask perspective of weight at least 1 it is classifier-free
+guidance; where perspectives overlap with total weight at least 1 it takes
+the weighted mean of their differences; where the total weight is below 1
+it dilutes the guidance. By this claim the combination samples a
+composition of the perspectives' conditions only where the ratio
+condition holds. Elsewhere it is in general the score of no distribution
+([THEORY-611](../theory.d/THEORY-611.md)). The reply cited neither, and no real model was run.
+
+The reading of MultiDiffusion ([LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)) places it. With
+unit weights where coverage is at least 1 and a deterministic sampler,
+A45's combination is MultiDiffusion's region-based step: a per-pixel
+weighted mean of the views' noise predictions ([THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md)). The
+exchange did not cite it. A45 adds the per-perspective weights and the
+dilution rule below total weight 1. Where the weights are normalized the
+combination is an average, not a sum, and this claim's ratio condition is
+a condition on sums. Under [THEORY-405](../theory.d/THEORY-405.md)'s idealization an average of k
+scores is the score of the normalized geometric mean Π pᵢ^{1/k}, not of the
+product ([NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)). So "only where the ratio condition holds" above
+applies to the sum, and the average composes a different target. The
+claim is unchanged.

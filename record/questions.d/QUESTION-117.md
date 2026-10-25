@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpamn8i
 title: 'Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,12 @@ history:
     without citing it and added a candidate predecessor, Mostagir, Ozdaglar
     and Siderius, now registered unread as LIT-1318. Extended the same day: Mostagir et al. are Unavailable, and Weatherall et al., read, are not a predecessor. The question is
     unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A36's endogenous influence and A38's
+    repeated-message run, against reflected appraisal and persuasion bias.
+    The question is unchanged.
 tags:
 - complex-systems
 - network-science
@@ -34,6 +40,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1318 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
 <!-- inactive-ok-file: LIT-1128 LIT-1134 LIT-1139 LIT-1146 THEORY-143 THEORY-146 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 # QUESTION-117: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
 
 ## Why it is a question
@@ -128,3 +135,24 @@ O'Connor and Bruner was read in full ([NOTE-1038](../notes.d/NOTE-1038.md)): its
 open-loop, with no coupling from the audience back to the evidence or the
 scientists, so it is not a predecessor of the second authority variable;
 A25's "alongside" fits. The question stays Open.
+
+## Note of 2026-10-25: endogenous influence and repeated messages, again
+
+From A36, A38 and A43 of the exchange of 2026-10-24, continued.
+
+- **Endogenous influence.** A36 proposed an influence matrix that evolves,
+  under which dL = ℓᵀdx + (dℓ)ᵀx, and a loop from access through influence,
+  observed performance and endorsement back to access, as "a microscopic
+  realization of the meaning–authority–legibility loop". The nearest exact model is
+  reflected appraisal ([THEORY-916](../theory.d/THEORY-916.md)), in which ℓ is fed back as
+  self-weight. Not cited.
+- **Repeated messages.** A38 reported that a population counting forwarded
+  messages as new evidence was more confident and less accurate than one
+  that tracked sources: 98.4% against 95.6% confidence, 95.0% against 97.0%
+  accuracy, with about 16 repeated observations counted per episode, over
+  eight seeds. That is persuasion bias ([LIT-1134](../literature.d/LIT-1134.md)), from a simulation the
+  record does not hold. A43 added that distinct source identities need not
+  be independent (its `correlation_group`), which is also what changes the
+  collective noise in [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md) from Σℓᵢ²σᵢ² to ℓᵀΣℓ.
+
+The question is unchanged.

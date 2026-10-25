@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpinmsm
 title: 'In a two-alternative choice made by two competing leaky accumulators, the decision is optimal only when leak and mutual inhibition balance, so that the network integrates the difference of the evidence without loss; imbalance bounds accuracy at any fixed time and weights early or late evidence'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added after the reading of Wald 1945 from a copy the owner
+    supplied: Wald proves the SPRT's optimality only up to the overshoot,
+    and the continuum limit is not his statement but the case in which his
+    OC, ASN and first-passage density are exact (THEORY-tmpda363). The
+    account is unchanged.
 tags:
 - behavioral-integration
 - cognition
@@ -30,6 +39,7 @@ answers:
 - QUESTION-062
 supports:
 - CLAIM-262
+- CLAIM-tmpfd9lk
 ---
 <!-- inactive-ok-file: THEORY-056 — Proposed; named as the record's account of competing motive states, with no relation claimed -->
 <!-- inactive-ok-file: THEORY-061 THEORY-059 — Proposed; companion accounts in this batch, named for what they borrow from this one -->
@@ -146,3 +156,25 @@ inhibition at all.
   source is about emotion or motive, so no relation is declared.
 - **[THEORY-059](THEORY-059.md)** (the readiness potential) uses the leak-dominant,
   single-accumulator regime of the same process.
+
+## Note of 2026-10-25: what Wald's paper itself says
+
+Wald's 1945 paper ([LIT-tmpcevhu](../literature.d/LIT-tmpcevhu.md), read in [NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md) from a copy the
+owner supplied) qualifies two things this account takes from [LIT-569](../literature.d/LIT-569.md).
+
+- **Optimality.** "Fastest for a given error rate" is, in Wald 1945, a
+  theorem only up to the overshoot: no sequential test with the same error
+  probabilities needs fewer observations on average than his lower bounds,
+  which the SPRT attains when the walk stops on its boundaries (§4.7).
+  Exact optimality is his footnote 12's conjecture, proved later by Wald
+  and Wolfowitz (1948, not held). The simulated ASN lay 0.6–1.5% above the
+  bound at the test's own realized errors.
+- **The continuum limit.** Wald never says diffusion, Brownian motion or
+  limit. He says the boundaries would be exact "if fractional observations
+  were possible", and his overshoot-free OC, ASN and distribution of the
+  sample number are exactly those of Brownian motion with drift
+  ([THEORY-tmpda363](THEORY-tmpda363.md), [THEORY-tmpeglfj](THEORY-tmpeglfj.md)). So the drift-diffusion model is the
+  case in which Wald's approximations are exact, which is why the limit
+  [LIT-569](../literature.d/LIT-569.md) proves holds. The limit stays sourced through [LIT-569](../literature.d/LIT-569.md).
+
+The account is unchanged.

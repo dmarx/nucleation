@@ -24,6 +24,8 @@ summary: >-
   whether nothing was attempted or nothing was taken up.
 supports:
 - CLAIM-450
+variants:
+- CASE-tmplg5jg
 ---
 
 # CASE-152: Absent attempt or unresponsive receiver: with Y ∼ N(ab, 1), a the strength of an attempted influence and b the receiver's responsiveness, the settings (a, b) = (0, 1) and (1, 0) give the same response distribution; K(a, b) = a²b²/2, the Fisher matrix has rank at most one and vanishes at the origin, and the real log canonical threshold is ½ with multiplicity 2, not the regular d/2 = 1, while changing b with a held fixed separates the two

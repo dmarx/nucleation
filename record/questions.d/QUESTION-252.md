@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmp1nqby
 title: 'For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, which such configurations are impossible in which model classes, and which conditions turn out to be parameters of the others rather than conditions in their own right?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A36's predictive-closure test for a population. The
+    question is unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -112,3 +118,15 @@ other four entail it. And a report of which conditions dissolved into
 parameters of the regime on the way. An answer in A5's revised form says,
 for each restricted access regime, which of the conditions remain
 identifiable.
+
+## Note of 2026-10-25: predictive closure proposed for a population
+
+A36 §8 of the exchange of 2026-10-24, continued, proposed predictive
+closure, P(g(X_{t+1}) | X_t) = P(g(X_{t+1}) | g(X_t)), as the test of
+whether (m, a, r) is a sufficient reduction of a population of
+perspectives. That is this question's memory closure under a declared
+projection. [CASE-124](../cases.d/CASE-124.md)'s witness 2 already shows a failure of it for (m, a).
+A42 marked the derivation of the three macro-variables from the
+population "Not established". In the linear network of [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md) the
+influence-weighted coordinate is exactly closed. The question is
+unchanged.

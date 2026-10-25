@@ -4,7 +4,33 @@ status: Proposed
 formerly:
 - CLAIM-tmp8z857
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 1
+version: 4
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the approach–avoid game is locally observable as
+    partial monitoring, so the claim's identifiability step is a failure of
+    access. The claim is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    The partial-monitoring note checked against the reading of Bartók et
+    al. (NOTE-tmpupizd). The phrase about the avoid-only game is made exact
+    (regret in the full game, linear when approach is better). Two variants
+    are added: suppressed feedback gives Θ(T) and a dominated check gives
+    Θ(T^{2/3}). The floor is sufficient, not required. THEORY-tmpwtj3m is
+    added to grounds. The claim is unchanged.
+- version: 4
+  date: '2026-10-25'
+  note: >-
+    The partial-monitoring note amended from the reading of Lattimore and
+    Szepesvári (LIT-tmpfjv79, NOTE-tmpkgxba). The check variant is their
+    spam game with general H and c, and its easy case is k ≤ Hc/(H + c): at
+    equality the check is degenerate, which their classification for all
+    games (THEORY-tmpyulw1) places in the easy class and Bartók et al.'s
+    adversarial theorem did not cover. THEORY-tmpyulw1 is added to grounds.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,6 +76,8 @@ grounds:
 - THEORY-897
 - THEORY-910
 - THEORY-915
+- THEORY-tmpwtj3m
+- THEORY-tmpyulw1
 - LIT-1498
 - LIT-1477
 - LIT-1479
@@ -72,6 +100,8 @@ illustrated_by:
 supports:
 - CLAIM-445
 ---
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Superseded by THEORY-tmpyulw1; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-tmpyulw1 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-925 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
 
@@ -218,3 +248,82 @@ also produced lock-in under full feedback. So the two routes this claim and
 [CLAIM-445](CLAIM-445.md) describe each suffice alone in that model. A stylized
 simulation, not evidence about anxiety ([CLAIM-427](CLAIM-427.md)).
 
+## Note of 2026-10-25: the approach–avoid game as partial monitoring
+
+Partial monitoring (Bartók, Foster, Pál, Rakhlin and Szepesvári 2014,
+[LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md), read in [NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md)) came up three times in the exchange of
+2026-10-24, continued (A29, A30, A31). A29 offered it as "the
+informational problem behind" this claim. Worked through, the toy shows
+the opposite emphasis.
+
+Two outcomes, dangerous and safe. **Avoid** loses 0 if dangerous and c > 0
+if safe, and its feedback is one symbol whatever the outcome. **Approach**
+loses H > 0 if dangerous and 0 if safe, and its feedback reveals the
+outcome. The signal matrices are S_avoid = [1 1] and S_approach = I₂. The
+loss difference (H, −c) is not in the row space of S_avoid, which is
+spanned by (1, 1), and is in that of S_approach. So the game is locally
+observable, and in Bartók et al.'s classification of minimax regret (0,
+about √T, T^{2/3} and T) it is in the easy √T class. Checked when filed by
+least squares, H = 5 and c = 1: residual 4.24 for avoid alone, 0 for
+approach. The reading confirms it. The two actions are neighbours, both
+optimal at the boundary p = c/(H + c), and the game is non-degenerate, so
+its class is Θ̃(√T) against a stochastic environment and Θ(√T) against an
+adversarial one. The condition and the worked case are [THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md),
+and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), and for every finite game
+[THEORY-tmpyulw1](../theory.d/THEORY-tmpyulw1.md).
+
+- **Access, not observability.** A learner that keeps playing approach
+  learns the comparison. A learner whose governing process removes
+  approach from its accessible actions faces a game in which the
+  comparison cannot be learned ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)). Its regret, measured in
+  the full game, grows linearly when approach is in fact better. Regret in
+  the avoid-only game is zero by definition, because regret is measured
+  against the actions available. The cost appears only against the
+  larger game: when the probability of danger p is below c/(H + c), never
+  approaching loses T(c(1 − p) − Hp). The classification bounds the best
+  policy, not a constrained one. That is this claim's
+  "under the avoidance that authority selects, the hypotheses … predict the
+  same observation", in its formal place. A30 drew the line: "A channel may
+  be capable of resolving a question yet remain unused because the process
+  controlling action prevents it from being selected."
+- **Two variants**, both by the same lemma and both the record's
+  constructions ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)).
+  - *Safety behaviour as suppressed feedback.* Suppose approach is
+    performed but shows one symbol whatever the outcome. Then no action
+    reveals the outcome, the game is not globally observable, and its
+    class is Θ(T), the hopeless one.
+  - *Checking as a dominated revealing action.* Suppose the outcome can be
+    learned only through a separate check, with loss k under both
+    outcomes, and approach is uninformative. If k > Hc/(H + c) the check is
+    never optimal. The game is then globally but not locally observable,
+    and its class is Θ(T^{2/3}), the revealing-action structure. If
+    k ≤ Hc/(H + c) the check is optimal somewhere (its own cell when <,
+    the indifference point when =) and the game is easy again.
+    This is a formal counterpart to the hypervigilance paragraph above:
+    checking that reveals the outcome but costs more than it is worth
+    makes the comparison expensive to learn, not impossible. This variant
+    is Lattimore and Szepesvári's spam game ([LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md), Example 1) with
+    general H and c. With H = c = 1, avoid is "spam", approach is "not
+    spam" and the check is "don't know". Their classification for all
+    games ([THEORY-tmpyulw1](../theory.d/THEORY-tmpyulw1.md)) places the boundary case k = Hc/(H + c), where
+    the check is degenerate and optimal only at p = c/(H + c), in the easy
+    class. Bartók et al.'s adversarial theorem did not cover it. So the
+    easy case is k ≤ Hc/(H + c), and checking that costs exactly what it
+    saves at the indifference point is still cheap to learn from
+    ([THEORY-tmpwqg2f](../theory.d/THEORY-tmpwqg2f.md)). The construction is no longer only the record's:
+    its H = c = 1 case is the paper's motivating example.
+- **The floor** is [QUESTION-271](../questions.d/QUESTION-271.md)'s exploration floor, the price COMA
+  pays as well ([THEORY-925](../theory.d/THEORY-925.md)). A floor is sufficient, not required. Bartók
+  et al.'s CBP keeps no fixed floor: in the easy stochastic class it plays
+  a suboptimal action only about log T/δ² times, δ its gap in
+  expected loss. Kwon and Perchet's
+  approachability algorithm does keep one, γ/|I| on every decision with γ
+  of order T^{-1/3}, because its signals depend on the decision
+  ([THEORY-tmpjv5er](../theory.d/THEORY-tmpjv5er.md)).
+- **The guarantees stop** where authority edits the losses or the feedback
+  channels during learning. A29: "we should first use the classical setting
+  as a baseline, then study controlled changes in H, not attribute those
+  changes to Bartók and colleagues' theorem."
+
+It does not show that anxious avoidance has this loss structure. The
+claim is unchanged.

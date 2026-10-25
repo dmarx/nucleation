@@ -4,7 +4,23 @@ status: Active
 formerly:
 - CASE-tmpw4r7u
 title: 'Authority as a replicator population: for a distribution π of control over processes with mean qualities q, the expected Maynard-Cross update is π_a q_a / v, Bayes'' rule when q is each process''s likelihood; the Maynard dynamic is the Taylor dynamic slowed by 1/v, so the two share their orbits; mean quality climbs at the rate Var_π(q); and when a process''s score rises with its own share, ℓ′ = ℓ + h + c(2π − 1) has an unstable threshold π* = (1 − h/c)/2, above which a process the evidence disfavours captures the organization'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: with c = 0 part 4 is the SPRT walk and its limit the
+    drift-diffusion model (CLAIM-tmpfd9lk); A47's conformity arm is the
+    self-scoring c (CASE-tmpjmerx). The case is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 sharpened after the reading of Wald 1945 from a
+    copy the owner supplied: the walk is Wald's Z_m (THEORY-tmpeglfj),
+    started from the prior log odds as in his §3.1, and the SPRT proper adds
+    fixed bounds; the drift-diffusion limit is not stated by Wald, though
+    his overshoot-free formulas are exactly the diffusion's
+    (THEORY-tmpda363). The case is unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -28,10 +44,12 @@ summary: >-
   threshold.
 supports:
 - CLAIM-444
+- CLAIM-tmpfd9lk
 variants:
 - CASE-157
 ---
 <!-- inactive-ok-file: THEORY-899 CLAIM-444 CLAIM-443 CLAIM-446 CASE-156 — Proposed, filed in this pull request -->
+<!-- inactive-ok-file: THEORY-928 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CASE-155: Authority as a replicator population: for a distribution π of control over processes with mean qualities q, the expected Maynard-Cross update is π_a q_a / v, Bayes' rule when q is each process's likelihood; the Maynard dynamic is the Taylor dynamic slowed by 1/v, so the two share their orbits; mean quality climbs at the rate Var_π(q); and when a process's score rises with its own share, ℓ′ = ℓ + h + c(2π − 1) has an unstable threshold π* = (1 − h/c)/2, above which a process the evidence disfavours captures the organization
 
@@ -129,3 +147,37 @@ Read the same day (curation entry of 2026-10-24, 2nd).
   a next step.
 - **α-Rank cannot express part 4.** Its fitness does not depend on a
   strategy's share ([NOTE-1156](../notes.d/NOTE-1156.md)).
+
+## Note of 2026-10-25: two processes as a drift-diffusion decider, and the conformity arm
+
+- **The SPRT walk.** For two processes, part 1's Bayes form gives
+  ℓ′ = ℓ + log(q_A/q_B) for the log odds of A's share. With q the
+  likelihood each process gives a fresh observation, the increment is that
+  observation's log likelihood ratio h. That is Wald's sequential
+  probability ratio walk (Wald's Z_m, [THEORY-tmpeglfj](../theory.d/THEORY-tmpeglfj.md); starting from the
+  prior log odds, it is his §3.1 posterior form; the SPRT proper adds
+  fixed bounds), and its continuum limit is [THEORY-068](../theory.d/THEORY-068.md)'s
+  drift-diffusion model (not stated by Wald; his overshoot-free formulas
+  are exactly the diffusion's, [THEORY-tmpda363](../theory.d/THEORY-tmpda363.md)). For Gaussian evidence N(±δ, σ²), h has mean
+  2δ²/σ² and variance 4δ²/σ², so the drift is half the variance. Part 4's
+  ℓ′ = ℓ + h + c(2π − 1) is the same walk with feedback from the share.
+  Since 2π − 1 = tanh(ℓ/2), it is ℓ′ = ℓ + h + c·tanh(ℓ/2), whose linear
+  part (c/2)ℓ is the self-reinforcement of A35's dial
+  dL = [μ + (β − λ)L]dt + σ dW. With forgetting that shrinks ℓ by (1 − α)
+  per step (a form suggested by the Sato–Crutchfield note above, assumed
+  here and not derived from [THEORY-928](../theory.d/THEORY-928.md)), the symmetric state loses
+  stability at c = 2α. In a finite population of N, resampling adds noise
+  of order 1/(Nπ(1 − π)) to the log odds, the voter-model term. Checked
+  when filed, with δ = 0.3 and σ = 1: increment mean 0.178 and variance
+  0.360 against 0.18 and 0.36; the logit variance of a binomial share
+  matches 1/(Nπ(1 − π)) at N = 100 and 1,000; and the forgetting threshold
+  at α = 0.1 between c = 0.15 and c = 0.25. This answers the owner's U34
+  hypothesis of the exchange of 2026-10-24, continued, inside the record's
+  own model ([CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md)). The exchange did not see it, though U28 had
+  asked for this material.
+- **The conformity arm.** A47's conformity scoring, which rewards agreement
+  with the prevailing collective proposal, is part 4's self-scoring c, and
+  it held the old allocation after a reversal of expertise, as part 4
+  predicts ([CASE-tmpjmerx](CASE-tmpjmerx.md); reported, not reproduced).
+
+The case is unchanged.

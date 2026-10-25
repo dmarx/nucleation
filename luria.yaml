@@ -235,9 +235,14 @@ vocabularies:
           recorded — nobody has tried yet, or reading stopped at the abstract or a skim
       Unavailable:
         label: No copy reached
-        blurb: a lawful full text was looked for and none could be obtained — none was found, or one was
-          found that this client could not fetch; the status note says where and when. Not a judgement
-          on merit, and a supplied copy returns it to reading (ADR-041)
+        blurb: a lawful full text was looked for and none could be obtained — none was found, or only a
+          paywalled one; the status note says where and when. Not a judgement on merit, and a supplied
+          copy returns it to reading (ADR-041, narrowed by ADR-053)
+      Unfetched:
+        label: Copy found, not fetched
+        blurb: a lawful free copy of the work itself was located at an exact address, and this client
+          could not fetch it; the status note gives the address, the obstacle and when. The owner's
+          queue. Not a judgement on merit, and a supplied copy returns it to reading (ADR-053)
       Superseded:
         label: Superseded
         blurb: later work covers this better, and the note names it

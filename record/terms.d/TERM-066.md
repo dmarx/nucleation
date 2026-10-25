@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-020
 title: 'interpretive capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -34,6 +34,11 @@ history:
     now stated as possible mechanisms of interpretive capture, not as its
     definition; the verdict needs the independent standard (owner's second
     review of 2026-10-21). Status stays Proposed.
+- version: 5
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A41's and A47's conformity evaluators as the
+    condition by design. The term is unchanged.
 tags:
 - self-governance
 - society-and-governance
@@ -173,3 +178,12 @@ The owner's choice between the fidelity-relative sense taken here and the
 purpose-relative institutional sense, or an answer to [QUESTION-087](../questions.d/QUESTION-087.md) that
 supplies the standard. A use in an argument that needs the term to be
 adopted would also force the choice.
+
+## Note of 2026-10-25: built in by design
+
+A41's "self-validating" evaluator and A47's conformity scoring, in the
+exchange of 2026-10-24, continued, are this condition built in by design.
+A41: "Its tendency toward conformity is part of its construction, not an
+emergent discovery." In A47's report the conformity-scored allocation was
+the worst of four arms after a reversal of expertise ([CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md);
+reported, not reproduced). The term is unchanged.

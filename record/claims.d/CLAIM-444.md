@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CLAIM-tmp1xoac
 title: 'A replicator dynamic on the distribution of authority among an organization''s processes is the special case of the meaning–authority–legibility model in which the organization''s interpretation is the authority-weighted mixture of its processes'' and evidence reaches scoring without a maintained regime of its own; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply, and the record''s separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: the response geometry of the mixture, filed as
+    CASE-tmplg5jg. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +50,9 @@ summary: >-
 illustrated_by:
 - CASE-155
 - CASE-157
+- CASE-tmplg5jg
+supports:
+- CLAIM-tmpa8ttt
 ---
 <!-- inactive-ok-file: THEORY-899 CASE-155 CLAIM-443 CLAIM-448 — Proposed or new, filed in this pull request -->
 <!-- inactive-ok-file: CLAIM-369 THEORY-894 THEORY-896 CLAIM-451 — cited as the tools the reduction brings in -->
@@ -127,3 +136,17 @@ Even within the reduction, the replicator describes expected motion. Actual
 runs lock on to pure states ([THEORY-938](../theory.d/THEORY-938.md)). Access and authority, which
 [CLAIM-349](CLAIM-349.md) keeps apart, are one share here, and a share of zero never
 returns without exploration ([THEORY-928](../theory.d/THEORY-928.md)).
+
+## Note of 2026-10-25: the geometry in which evidence arrives
+
+A28 of the exchange of 2026-10-24, continued, offered this claim's
+Shahshahani identity as "the unexpected Amari connection" and "perhaps the
+mathematically cleanest new synthesis", without citing it here. It was
+rechecked: for q = ∇Φ, the replicator is the Riesz representer of dΦ in
+g(v, w) = Σ vᵢwᵢ/πᵢ, and dΦ/dt = Var_π(q). That metric is the one in which
+authority moves. The metric in which evidence about authority arrives,
+when only the organization's responses are seen, is its pullback through
+the processes' response profiles, and is never larger ([CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md)). So
+the mixture condition has a cost: a redistribution between processes that
+agree under the current probes is a change of state the probes cannot see.
+The claim is unchanged.

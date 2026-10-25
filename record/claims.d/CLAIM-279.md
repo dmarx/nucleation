@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CLAIM-tmpgfyls
 title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A39's learned operators, whose regime changed with
+    the frame. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -132,3 +138,14 @@ A46 added:
 The failure side, a rare specialist starved of exposure, is noted on
 [CLAIM-277](CLAIM-277.md). The test is used for the owner's non-domination criterion,
 [CLAIM-362](CLAIM-362.md). The status is unchanged.
+
+## Note of 2026-10-25: learned operators
+
+A39 of the exchange of 2026-10-24, continued, put this claim's thesis into
+a model without citing it. Operator coefficients over local averaging,
+median filtering, directional smoothing and shrinkage "are learned from
+experience rather than assigned as permanent denoiser or critic roles".
+After smooth and textured regions swapped at mid-training, operators
+frozen before the swap did worse than no edit at all (mean squared error
+0.0390 against 0.0359), so an operator's regime changed with the frame.
+Reported over 12 runs, not held. The claim is unchanged.

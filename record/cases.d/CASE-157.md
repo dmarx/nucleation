@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CASE-tmpffs67
 title: 'Boosting the vote: in the owner''s 2014 model, voters of fixed accuracy drawn from Beta(2, 2) vote in a weight-averaged election, and every voter''s weight is multiplied by 1 + f when their own vote was right and 1 − f when not, with a fraction replaced each round at weight 1; with full-information feedback the weighted result rises from 0.50 toward 0.98 as f grows, and churn only costs in a world that never changes; the model escapes the hive mind''s absorbing states because every voter is scored, heeded or not, and it assumes away the capture its author predicted'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: A47 found two of the extension's outcomes
+    independently (CASE-tmpjmerx). The case is unchanged.
 standing: stipulated
 kind: executed-study
 tags:
@@ -185,3 +191,12 @@ symmetric leans: the thresholds are illustrative, not estimates.
 Anything about real electorates. Its author disclaimed the idea's
 desirability and called it "very likely morally objectable". The case is
 filed for its dynamics, not as a proposal.
+
+## Note of 2026-10-25: an independent convergence
+
+A47 of the exchange of 2026-10-24, continued, reported at 03:12 UTC on
+2026-10-25, 42 minutes before this case's extension was committed, found
+the same two outcomes in a different model. Full-information, independent
+audits recovered after a reversal of expertise (findings 1 and 5).
+Conformity scoring, an endogenous metric, held the old allocation (finding
+2). The run is not held ([CASE-tmpjmerx](CASE-tmpjmerx.md)). The case is unchanged.

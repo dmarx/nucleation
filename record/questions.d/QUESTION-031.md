@@ -3,8 +3,33 @@ number: 31
 status: Open
 formerly:
 - QUESTION-tmpybqw8
-title: 'When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones?'
-version: 1
+title: 'When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones, beyond the cases in which the task''s target and the probes'' outcome laws are linear in one state?'
+version: 4
+history:
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    A dated note added: experimental design as the choice of probes, with
+    CASE-tmplg5jg. The question is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 checked against the reading of Chaloner and
+    Verdinelli (NOTE-tmpj2iwk): the log det criterion is Bayes
+    D-optimality, A29's aim is a c-, Ds- or discrimination criterion, and
+    design ranks probe families without giving a separation condition. A
+    lemma from partial monitoring answers one decision family. The question
+    is unchanged and stays Open.
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049 at the owner's direction (2026-10-25). Where the
+    task's target and the probes' outcome laws are linear in one state is
+    QUESTION-tmp1wykc, Answered by THEORY-tmpwtj3m and CLAIM-tmpa8ttt. This
+    question is reworded to what is left. The previous title was 'When does
+    a chosen family of observational probes separate the communicative
+    realizations a task needs told apart, and when does it collapse distinct
+    ones?'
 tags:
 - mathematics
 - pragmatics
@@ -21,11 +46,14 @@ summary: >-
   stochastic, decision-relative version is open.
 answered_by:
 - CLAIM-193
+refined_by:
+- QUESTION-tmp1wykc
 ---
 <!-- inactive-ok-file: CLAIM-129 CLAIM-149 THEORY-008 THEORY-019 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-077 CLAIM-050 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-130 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
-# QUESTION-031: When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones?
+# QUESTION-031: When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones, beyond the cases in which the task's target and the probes' outcome laws are linear in one state?
 
 ## Why it is a question
 
@@ -102,3 +130,49 @@ says; none has yet been assessed as an answer, and none is linked by
 
 [THEORY-008](../theory.d/THEORY-008.md) gives half of an answer for linear probes: a regularized linear
 readout can decode only what is a function of the normalized kernel.
+
+## Note of 2026-10-25: choosing probes
+
+From A29–A31 of the exchange of 2026-10-24, continued. Bayesian
+experimental design (Chaloner and Verdinelli 1995, [LIT-tmpi60b0](../literature.d/LIT-tmpi60b0.md), read in
+[NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md)) turns this question into a choice: pick the design ξ over
+contexts that maximizes a criterion of G_ξ = Σ_c ξ(c)G_c (log det, or a
+discrimination or prediction criterion fixed by the task). A29: "our
+objectives are often more specific. We might care about distinguishing the
+effect of authority from the effect of legibility, rather than estimating
+every parameter equally well." In [CASE-152](../cases.d/CASE-152.md), do(b = b₀) gives
+G_aa = b₀² > 0 (checked). In [CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md), a rare context makes authority
+shares identifiable that routine probes leave invisible. Both separate by
+changing the experiment, not the coordinates ([CLAIM-305](../claims.d/CLAIM-305.md)). A caution from
+A29, with [CLAIM-130](../claims.d/CLAIM-130.md): changing a participant's standing to separate
+explanations "could also change which communicative act is performed".
+
+The reading places these. Σ_c ξ(c)G_c with log det is Bayes D-optimality
+on the expected Fisher information ([THEORY-tmpig9py](../theory.d/THEORY-tmpig9py.md) for the linear case,
+[THEORY-tmpg6jfa](../theory.d/THEORY-tmpg6jfa.md) for the nonlinear one). A29's "distinguish authority from
+legibility" is c- or Ds-optimality, or Spezzaferri's discrimination
+criterion ([NOTE-tmpj2iwk](../notes.d/NOTE-tmpj2iwk.md), §8.3). The review gives no separation condition:
+it ranks probe families by a utility, and so it does not answer this
+question.
+
+One decision family does have an answer. In a finite partial-monitoring
+game, two outcome laws that agree on the signals of every probe in a set D
+also agree on the comparison of actions i and j for every such pair iff
+ℓ_i − ℓ_j lies in the span of those probes' signal row spaces
+([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md), from Bartók et al.). That condition can be checked
+before any data. It covers pairwise comparisons only, with deterministic
+or known-law signals, so the question stays Open. The question is
+unchanged.
+
+## Split, 2026-10-25 ([ADR-049](../decisions.d/ADR-049.md))
+
+The linear case is [QUESTION-tmp1wykc](QUESTION-tmp1wykc.md), Answered. When the task's target
+and the probes' outcome laws are linear in one state, a probe family
+separates what the task needs exactly when the target lies in the span of
+what the probes reveal: for pairwise comparisons of actions, the loss
+difference in the probes' combined signal row space ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)); for
+the authority shares of a mixture of known profiles, affinely independent
+profiles over the probe contexts ([CLAIM-tmpa8ttt](../claims.d/CLAIM-tmpa8ttt.md)). This question keeps the
+rest: targets or outcome laws that are not linear in a common state,
+profiles that must themselves be estimated, and probes whose availability
+the organization's own choices decide.

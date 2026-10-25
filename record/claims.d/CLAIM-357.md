@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpl8vsy
 title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-10-18'
@@ -15,6 +15,18 @@ history:
     requirement is met. None of them establishes thwarting or a governance
     cause; governance-induced frustration is narrowed to shortfall the
     allocation of influence is shown to cause.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    A dated note added: Blackwell approachability as the repeated version of
+    the worst residual, and the cost of averaging. The claim is unchanged.
+- version: 4
+  date: '2026-10-25'
+  note: >-
+    The note of 2026-10-25 checked against the reading of Kwon and Perchet
+    (NOTE-tmpfxkdt): their target is exactly this claim's set and their
+    distance the ℓ₂ norm of the positive parts of the average, so the
+    caution about averaging is made exact. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -57,6 +69,7 @@ summary: >-
   influence responsible. A35: "Importantly, these dual multipliers are not
   endorsement weights."
 ---
+<!-- inactive-ok-file: THEORY-tmp172nr — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 
 # CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns
 
@@ -165,3 +178,26 @@ called it "the best candidate for an early discriminating experiment".
   organization's own is [QUESTION-087](../questions.d/QUESTION-087.md)'s problem.
 - **That λ should be the weights.** Governance may rightly weight demands
   by what matters, not by what binds.
+
+## Note of 2026-10-25: the repeated version, and what averaging costs
+
+From A29–A31 of the exchange of 2026-10-24, continued. This claim's worst
+residual m(d) = maxᵢ(εᵢ + gᵢᵀd) is a one-shot test against the target set
+{z : zᵢ ≤ 0 for every i}. Blackwell approachability asks the repeated
+version: whether a learner can drive dist((1/T)Σ f_t, C) → 0 for a vector
+of demand residuals f_t against disturbance or opposition. Kwon and Perchet
+(2017, [LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md), read in [NOTE-tmpfxkdt](../notes.d/NOTE-tmpfxkdt.md)) treat it under partial feedback.
+Their target is exactly this claim's {z : zᵢ ≤ 0}, and the distance they
+use is ‖(ḡ_T)₊‖₂, the ℓ₂ norm of the positive parts of the average
+([THEORY-tmp172nr](../theory.d/THEORY-tmp172nr.md)). A requirement violated by 1 on alternate stages and met
+by 1 on the others has average 0 and is approached perfectly.
+Two cautions from the replies. First, averaging is compensatory:
+"violating a safety requirement today may not be remedied by outperforming
+it tomorrow" (A30), and a rolling-window requirement "is stronger than
+merely achieving a suitable long-run average and is not directly
+guaranteed by ordinary approachability results" (A31). Second, "measuring
+*distance* to the acceptable set introduces choices of normalization and
+geometry" (A30), a scale this claim does not otherwise need.
+Approachability is already in the record as the engine of Hart and
+Mas-Colell's proof ([NOTE-1142](../notes.d/NOTE-1142.md)): regret matching is approachability of
+the negative orthant by the regret vector. The claim is unchanged.
