@@ -58,11 +58,11 @@ reveal. Two cases are settled.
   the combined row space of the signal matrices. It is checkable before
   any data, and it is the condition that sorts partial-monitoring games
   into classes ([THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), Proposed; for every finite game
-  THEORY-tmpyulw1, Active). For the classification, the probe set that
+  [THEORY-tmpyulw1](../theory.d/THEORY-tmpyulw1.md), Active). For the classification, the probe set that
   matters for a neighbouring pair i, j is N⁺_{i,j}, which includes
   actions optimal only on the boundary between them; their signals count,
   and the separating direction must lie in the kernel of all of them
-  (THEORY-tmpwqg2f, from LIT-tmpfjv79).
+  ([THEORY-tmpwqg2f](../theory.d/THEORY-tmpwqg2f.md), from [LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md)).
 - **Authority shares of a mixture** ([CLAIM-tmpa8ttt](../claims.d/CLAIM-tmpa8ttt.md), Active, demonstrated).
   For a response that is the authority-weighted mixture of known
   profiles, the shares are identified by a set of contexts iff the

@@ -270,7 +270,7 @@ optimal at the boundary p = c/(H + c), and the game is non-degenerate, so
 its class is Θ̃(√T) against a stochastic environment and Θ(√T) against an
 adversarial one. The condition and the worked case are [THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md),
 and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), and for every finite game
-THEORY-tmpyulw1.
+[THEORY-tmpyulw1](../theory.d/THEORY-tmpyulw1.md).
 
 - **Access, not observability.** A learner that keeps playing approach
   learns the comparison. A learner whose governing process removes
@@ -302,15 +302,15 @@ THEORY-tmpyulw1.
     This is a formal counterpart to the hypervigilance paragraph above:
     checking that reveals the outcome but costs more than it is worth
     makes the comparison expensive to learn, not impossible. This variant
-    is Lattimore and Szepesvári's spam game (LIT-tmpfjv79, Example 1) with
+    is Lattimore and Szepesvári's spam game ([LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md), Example 1) with
     general H and c. With H = c = 1, avoid is "spam", approach is "not
     spam" and the check is "don't know". Their classification for all
-    games (THEORY-tmpyulw1) places the boundary case k = Hc/(H + c), where
+    games ([THEORY-tmpyulw1](../theory.d/THEORY-tmpyulw1.md)) places the boundary case k = Hc/(H + c), where
     the check is degenerate and optimal only at p = c/(H + c), in the easy
     class. Bartók et al.'s adversarial theorem did not cover it. So the
     easy case is k ≤ Hc/(H + c), and checking that costs exactly what it
     saves at the indifference point is still cheap to learn from
-    (THEORY-tmpwqg2f). The construction is no longer only the record's:
+    ([THEORY-tmpwqg2f](../theory.d/THEORY-tmpwqg2f.md)). The construction is no longer only the record's:
     its H = c = 1 case is the paper's motivating example.
 - **The floor** is [QUESTION-271](../questions.d/QUESTION-271.md)'s exploration floor, the price COMA
   pays as well ([THEORY-925](../theory.d/THEORY-925.md)). A floor is sufficient, not required. Bartók
