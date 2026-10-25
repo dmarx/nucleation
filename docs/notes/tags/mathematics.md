@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-209 of 1138 NOTE documents. Back to the [full index](../README.md).
+210 of 1156 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -217,3 +217,4 @@
 | [NOTE-1099](../../../record/notes.d/NOTE-1099.md) | Statistical ranking and combinatorial Hodge theory | Rank aggregation as combinatorial Hodge theory. Aggregated pairwise comparisons form an edge flow, and its orthogonal decomposition gives a least-squares global ranking (the gradient), local inconsistency (curl) and global inconsistency (harmonic). The size of the cyclic residual certifies whether any global ranking is meaningful. The framework is cardinal, generalizes Borda, and is not Kemeny. | Read |
 | [NOTE-1112](../../../record/notes.d/NOTE-1112.md) | Theory of Value: An Axiomatic Analysis of Economic Equilibrium | Read for §4.6 only. Not every complete preorder has a utility function: the lexicographic ordering of R² has none. Under a continuity assumption (closed upper and lower contour sets), a complete preorder on a connected subset of Rˡ, and more generally on a connected separable space, has a continuous utility function, and conversely. Debreu credits the separable form to Eilenberg (1941), and his own 1954 paper for dropping connectedness on second-countable spaces. Utility is defined only up to increasing transformation. | Skimmed |
 | [NOTE-1116](../../../record/notes.d/NOTE-1116.md) | Flows and Decompositions of Games: Harmonic and Potential Games | A finite game is read as a flow, the unilateral payoff differences on the graph of strategy profiles, and the Helmholtz decomposition of that flow splits the game uniquely into potential, harmonic and nonstrategic parts. Potential games are those with no harmonic part. Harmonic games, the pure-conflict part, generically have no pure equilibrium. The nearest potential game is a closed-form l2 projection. | Read |
+| [NOTE-1155](../../../record/notes.d/NOTE-1155.md) | Balduzzi et al. — Re-evaluating evaluation | A methods paper with two short applications. It reads evaluation data as antisymmetric matrices. Elo is then the row mean of the log-odds, exact when they are curl-free and movable by copies, and the Schur decomposition gives a multidimensional Elo. Nash averaging scores agents and tasks against the maximum-entropy Nash equilibrium of a zero-sum meta-game. Its proved invariance covers exact copies, and only when that equilibrium is unique. A checked counterexample shows what happens otherwise. | Read |

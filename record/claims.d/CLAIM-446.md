@@ -197,19 +197,19 @@ governance variable; a governance account has to say what it adds.
 From the learning-in-games readings filed the same day. In Q-learning that
 updates only the chosen option, evidence about an option arrives only as
 often as the option is chosen, and the expected update carries that
-frequency as a factor ([THEORY-tmpar5jw](../theory.d/THEORY-tmpar5jw.md)). That is this claim's
+frequency as a factor ([THEORY-932](../theory.d/THEORY-932.md)). That is this claim's
 identifiability step as an equation, and inverse-frequency weighting is an
 exact condition for correcting it. Counterfactual credit does not escape
 it: COMA can value an alternative only from the times it was taken, and
 keeps every action's probability above a floor for that reason
-([THEORY-tmp1p6ly](../theory.d/THEORY-tmp1p6ly.md)). The floor is protected access, the claim's evidence-access
+([THEORY-925](../theory.d/THEORY-925.md)). The floor is protected access, the claim's evidence-access
 correction. Börgers and Sarin's lock-in by reinforcement alone
-([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)) is the null this claim's governance mechanism has to
+([THEORY-938](../theory.d/THEORY-938.md)) is the null this claim's governance mechanism has to
 beat.
 
 ## Note of 2026-10-25: a run that reproduces the identifiability step
 
-In the BoostTheVote extension ([CASE-tmpffs67](../cases.d/CASE-tmpffs67.md)), outcomes were observed only
+In the BoostTheVote extension ([CASE-157](../cases.d/CASE-157.md)), outcomes were observed only
 when the collective acted. With an independent metric, avoidance alone held
 about 60% of runs on the old answer through the whole changed phase. Vote
 noise that tipped a decision into acting was the only way out. Age-targeted

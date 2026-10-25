@@ -6,7 +6,7 @@
 
 **Executed study** — a study the record's collaborators ran in session, whose results the record itself produced, with its provenance and limits stated.
 
-4 of 156 CASE documents. Back to the [full index](../README.md).
+5 of 157 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [CASE-020](../../../record/cases.d/CASE-020.md) | E3: the controlled inference harness, dry run only (C5) | Built at U25: four frame conditions (stable complicit, neutral, moralizing; shifting), 12 reset chains each, 5 generations, 240 calls, gpt-4.1-mini at temperature 0.7, seed 1729. Only a dry run was executed: "No model-generated observations were recorded." The design is the manuscript's Case II. | Active |
 | [CASE-030](../../../record/cases.d/CASE-030.md) | E2: assistant-authored reconstruction chains with content-word overlap (C4) | Run at U24 ("do it"): three four-generation chains written by the assistant from a modernized Villon seed, scored by content-word Jaccard against the seed. The texts are authored with their intended trajectories; the numbers are exact properties of those texts. | Active |
 | [CASE-032](../../../record/cases.d/CASE-032.md) | E4: within-session chains, stable complicit against a shift to moral instruction | Run after the owner's U26 ("lol you ARE a text generation action. just delegate subtasks"): two three-generation chains written by the assistant in the same context. "The measured lexical similarities are near zero for both final texts"; one keeps complicity, the other becomes advice. | Active |
+| [CASE-157](../../../record/cases.d/CASE-157.md) | Boosting the vote: in the owner's 2014 model, voters of fixed accuracy drawn from Beta(2, 2) vote in a weight-averaged election, and every voter's weight is multiplied by 1 + f when their own vote was right and 1 − f when not, with a fraction replaced each round at weight 1; with full-information feedback the weighted result rises from 0.50 toward 0.98 as f grows, and churn only costs in a world that never changes; the model escapes the hive mind's absorbing states because every voter is scored, heeded or not, and it assumes away the capture its author predicted | Filed at the owner's direction, 2026-10-24, after the owner suggested taking inspiration from the experiments in dmarx/BoostTheVote. A thought-experiment written in R in 2014, read at commit b5bca8f and re-run here through a Python port (scratch/formal/boost_the_vote.py). It is the full-information counterpart of the replicator construction. What it shows, what it assumes, and the three-axis extension it suggests are recorded, and the extension was run on 2026-10-25. | Active |

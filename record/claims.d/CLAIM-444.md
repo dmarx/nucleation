@@ -43,7 +43,7 @@ summary: >-
   states are for.
 illustrated_by:
 - CASE-155
-- CASE-tmpffs67
+- CASE-157
 ---
 <!-- inactive-ok-file: THEORY-899 CASE-155 CLAIM-443 CLAIM-448 — Proposed or new, filed in this pull request -->
 <!-- inactive-ok-file: CLAIM-369 THEORY-894 THEORY-896 CLAIM-451 — cited as the tools the reduction brings in -->
@@ -111,11 +111,11 @@ conditions, each rejected somewhere in the record's account:
 1. **Every process is scored on every step.** That is full-information
    feedback. With bandit feedback, only the governing process updated, the
    dynamic gains a factor x_i and is no longer a replicator on π
-   ([THEORY-tmpar5jw](../theory.d/THEORY-tmpar5jw.md)).
+   ([THEORY-932](../theory.d/THEORY-932.md)).
 2. **One standard scores every process.** A common scale is what [CLAIM-436](CLAIM-436.md)
    and [CLAIM-437](CLAIM-437.md) deny for perspectives with different concerns. Wolpert and
-   Tumer's factored utilities ([THEORY-tmpomtdz](../theory.d/THEORY-tmpomtdz.md)) and monotone value mixing
-   ([THEORY-tmp56jxv](../theory.d/THEORY-tmp56jxv.md)) give the ordinal, member-by-member condition under which
+   Tumer's factored utilities ([THEORY-939](../theory.d/THEORY-939.md)) and monotone value mixing
+   ([THEORY-929](../theory.d/THEORY-929.md)) give the ordinal, member-by-member condition under which
    no common scale is needed. That is the regime where the reduction is
    safe.
 3. **Aggregation is share-weighted, not by pairwise contest.** With fixed
@@ -124,6 +124,6 @@ conditions, each rejected somewhere in the record's account:
    on the population.
 
 Even within the reduction, the replicator describes expected motion. Actual
-runs lock on to pure states ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)). Access and authority, which
+runs lock on to pure states ([THEORY-938](../theory.d/THEORY-938.md)). Access and authority, which
 [CLAIM-349](CLAIM-349.md) keeps apart, are one share here, and a share of zero never
-returns without exploration ([THEORY-tmp3wkwk](../theory.d/THEORY-tmp3wkwk.md)).
+returns without exploration ([THEORY-928](../theory.d/THEORY-928.md)).
