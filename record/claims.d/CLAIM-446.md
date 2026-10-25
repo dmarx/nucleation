@@ -240,7 +240,7 @@ simulation, not evidence about anxiety ([CLAIM-427](CLAIM-427.md)).
 ## Note of 2026-10-25: the approach–avoid game as partial monitoring
 
 Partial monitoring (Bartók, Foster, Pál, Rakhlin and Szepesvári 2014,
-LIT-tmpwpq36, read in NOTE-tmpupizd) came up three times in the exchange of
+[LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md), read in [NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md)) came up three times in the exchange of
 2026-10-24, continued (A29, A30, A31). A29 offered it as "the
 informational problem behind" this claim. Worked through, the toy shows
 the opposite emphasis.
@@ -257,13 +257,13 @@ least squares, H = 5 and c = 1: residual 4.24 for avoid alone, 0 for
 approach. The reading confirms it. The two actions are neighbours, both
 optimal at the boundary p = c/(H + c), and the game is non-degenerate, so
 its class is Θ̃(√T) against a stochastic environment and Θ(√T) against an
-adversarial one. The condition and the worked case are THEORY-tmpwtj3m,
-and the classes are THEORY-tmpz3a05.
+adversarial one. The condition and the worked case are [THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md),
+and the classes are [THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md).
 
 - **Access, not observability.** A learner that keeps playing approach
   learns the comparison. A learner whose governing process removes
   approach from its accessible actions faces a game in which the
-  comparison cannot be learned (THEORY-tmpwtj3m). Its regret, measured in
+  comparison cannot be learned ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)). Its regret, measured in
   the full game, grows linearly when approach is in fact better. Regret in
   the avoid-only game is zero by definition, because regret is measured
   against the actions available. The cost appears only against the
@@ -275,7 +275,7 @@ and the classes are THEORY-tmpz3a05.
   be capable of resolving a question yet remain unused because the process
   controlling action prevents it from being selected."
 - **Two variants**, both by the same lemma and both the record's
-  constructions (THEORY-tmpwtj3m).
+  constructions ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)).
   - *Safety behaviour as suppressed feedback.* Suppose approach is
     performed but shows one symbol whatever the outcome. Then no action
     reveals the outcome, the game is not globally observable, and its
@@ -295,7 +295,7 @@ and the classes are THEORY-tmpz3a05.
   a suboptimal action only about log T/δ² times. Kwon and Perchet's
   approachability algorithm does keep one, γ/|I| on every decision with γ
   of order T^{-1/3}, because its signals depend on the decision
-  (THEORY-tmpjv5er).
+  ([THEORY-tmpjv5er](../theory.d/THEORY-tmpjv5er.md)).
 - **The guarantees stop** where authority edits the losses or the feedback
   channels during learning. A29: "we should first use the classical setting
   as a baseline, then study controlled changes in H, not attribute those
