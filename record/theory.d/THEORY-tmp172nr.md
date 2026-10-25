@@ -1,73 +1,89 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmp172nr:` heading; the lint checks
-# that the two agree.
-title: 'placeholder PM 3'
-
+  A step-by-step re-derivation, recorded under ADR-047 v2, of Theorem
+  4.1's bound through Lemmas B.1–B.9 (or of Theorem 4.3's, whose proof the
+  paper omits), or a reading of an independent source that proves the
+  same rates for approachability under partial monitoring. The cited
+  lower bounds are not in question here; the upper bounds are what is not
+  yet checked.
+title: 'For Blackwell approachability of an approachable polytope under partial monitoring with a known signal law, there are efficient algorithms whose average vector payoff reaches the target at expected distance O(T^-1/3) for general signals and O(T^-1/2) when the signal law does not depend on the decision, the worst-case optimal rates for those two classes'
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed Proposed from NOTE-tmpfxkdt, as Kwon and Perchet's Theorems 4.1
+    and 4.3 state it. The flag estimate on which the general algorithm
+    rests is re-derived in THEORY-tmpjv5er. The rest of Theorem 4.1's proof
+    was read in outline, and Theorem 4.3's proof is omitted in the paper.
+    Hence Proposed.
 tags:
-- complex-systems
-
+- learning-theory
+- game-theory
 date: '2026-10-25'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-tmpm3j41
+summary: >-
+  Kwon and Perchet (2017), LIT-tmpm3j41, read in NOTE-tmpfxkdt. The rates
+  are for the average payoff's distance to the target, uniformly over
+  Nature's choices, with approachability assumed (Perchet's condition).
+  Optimal means not improvable in the worst case over games. It gives no
+  guarantee for individual stages or rolling windows, and none when the
+  signal law is unknown.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmp172nr: placeholder PM 3
+<!-- inactive-ok-file: CLAIM-357 — Proposed; the claim whose dated note cites this work, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the regret classification compared with, from this batch -->
+# THEORY-tmp172nr: For Blackwell approachability of an approachable polytope under partial monitoring with a known signal law, there are efficient algorithms whose average vector payoff reaches the target at expected distance O(T^-1/3) for general signals and O(T^-1/2) when the signal law does not depend on the decision, the worst-case optimal rates for those two classes
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Kwon and Perchet (2017), AISTATS, PMLR 54:604–613, LIT-tmpm3j41, Theorems
+4.1 and 4.3, read in NOTE-tmpfxkdt with the supplementary material.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+Decisions I, Nature's actions J, a vector payoff g: I × J → ℝ^d and a
+signal law s: I × J → Δ(S), all finite and known. The target is
+C = ℝ^d_−, to which polytopes reduce, and it is assumed approachable. Then:
+
+- **General signals (Theorem 4.1).** An algorithm that lifts the problem
+  to full-information approachability in a space of flag estimates, and
+  plays each decision with probability at least γ/|I| with
+  γ ∝ T^{−1/3}, guarantees
+  E[d₂(ḡ_T, C)] ≤ 12‖g‖^{1/3}(L_r|I||K||A|)^{2/3}T^{−1/3} + O(T^{−1/2}),
+  against any choices of Nature.
+- **Outcome-dependent signals (Theorem 4.3).** If s(i, j) = s(i′, j), the
+  same construction with no exploration gives O(T^{−1/2}).
+- **Optimality.** Both rates match lower bounds that already hold for
+  regret minimization: Cesa-Bianchi, Lugosi and Stoltz's T^{−1/3} for
+  general signals, and the full-information T^{−1/2}.
+
+What could have failed: the earlier best rates, T^{−1/5} and
+T^{−1/(I+3)}, might have been the truth for approachability, with its
+set-valued compatible payoffs. The lifting shows that partial monitoring
+costs approachability no more than it costs regret, in the worst case.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **Not a rate for every game.** "Cannot be improved" is worst case over
+  signal structures. A particular game can do better, as Bartók et al.'s
+  locally observable games do for regret (THEORY-tmpz3a05).
+- **Not a per-stage or windowed guarantee.** The average is compensatory:
+  a coordinate alternating +1 and −1 has average 0 ∈ C and is approached
+  while violated on half the stages. This is CLAIM-357's caution.
+- **Not when the target is unapproachable.** Approachability is assumed.
+  Perchet's characterization is cited, not proved or made checkable.
+- **Not with unknown signal laws, or laws that change.**
+- **Not that the constants are small.** They grow with the size of the
+  simplicial subdivision.
+
+## Connections
+
+- **CLAIM-357.** The record's one-shot target {z : z_i ≤ 0} is this
+  theorem's C. Its worst residual is a max. The approachability distance
+  is the ℓ₂ norm of the positive part of the average.
+- **THEORY-tmpz3a05.** The same exponents in average form: √T regret is
+  T^{−1/2}, T^{2/3} is T^{−1/3}.
+- **THEORY-tmpjv5er.** The floor in the general algorithm, and why the
+  outcome-dependent case needs none.

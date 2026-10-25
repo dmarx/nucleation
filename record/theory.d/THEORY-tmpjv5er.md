@@ -1,73 +1,108 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpjv5er:` heading; the lint checks
-# that the two agree.
-title: 'placeholder PM 4'
-
+status: Active
+title: 'When the signal law depends on the decision, Kwon and Perchet''s approachability algorithm learns what each decision would reveal only from the stages on which it is played: it keeps every decision''s probability at least γ/|I| and estimates the flag by importance weighting, an estimate that is conditionally unbiased with second moment Σ_i 1/P[i_t = i] ≤ |I|²/γ, with the tuned floor γ shrinking as T^-1/3; when the signal law does not depend on the decision, the raw signal is already unbiased for every component and no floor is used'
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed Active from NOTE-tmpfxkdt. The estimate and its properties are
+    Kwon and Perchet's §4.1 and Lemma A.4, and the floor's tuning is
+    Theorem 4.1's γ. Lemma A.4 is re-derived below step by step and was
+    checked by simulation on the approach–avoid signals, which meets the
+    condition for Active under ADR-047 v2. The reading of the floor as
+    protected access is the record's.
 tags:
-- complex-systems
-
+- learning-theory
+- game-theory
 date: '2026-10-25'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-tmpm3j41
+summary: >-
+  Kwon and Perchet (2017), LIT-tmpm3j41, read in NOTE-tmpfxkdt. Under
+  decision-dependent partial monitoring, information about a decision's
+  signal comes only from playing it, and its unbiased estimate costs
+  variance inversely proportional to the probability of playing it. A
+  floor is how the algorithm keeps that finite. That the floor is
+  necessary in general is supported by the matching lower bound, not shown
+  here. Nothing here says what floor a non-learning system should keep.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpjv5er: placeholder PM 4
+<!-- inactive-ok-file: CLAIM-446 THEORY-925 THEORY-932 — Proposed; entries this account is compared with, nothing here rests on their being settled -->
+# THEORY-tmpjv5er: When the signal law depends on the decision, Kwon and Perchet's approachability algorithm learns what each decision would reveal only from the stages on which it is played: it keeps every decision's probability at least γ/|I| and estimates the flag by importance weighting, an estimate that is conditionally unbiased with second moment Σ_i 1/P[i_t = i] ≤ |I|²/γ, with the tuned floor γ shrinking as T^-1/3; when the signal law does not depend on the decision, the raw signal is already unbiased for every component and no floor is used
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Kwon and Perchet (2017), LIT-tmpm3j41, §4.1 (the algorithm), Lemma A.4 of the
+supplement (the estimate), Theorem 4.1 (γ) and §4.3 (outcome-dependent
+signals). Read in NOTE-tmpfxkdt. The derivation below follows Lemma A.4.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+At stage t the decision maker draws i_t with P[i_t = i | G_t] = (1 − γ)a_t^i
++ γ/|I| ≥ γ/|I|, then sees s_t ~ s(i_t, j_t). The flag is
+f_t = (s(i, y_t))_{i∈I}, the signal law each decision would have under
+Nature's current mixed action. The estimate is
+
+f̂_t^i = 1{i_t = i} δ_{s_t} / P[i_t = i | G_t], for each i ∈ I.
+
+**Unbiased.** Conditional on G_t, f̂_t^i is nonzero only on {i_t = i},
+which has probability P[i_t = i | G_t]. So
+E[f̂_t^i | G_t] = E[δ_{s_t} | G_t, i_t = i] = E[s(i, y_t) | G_t] = E[f_t^i | G_t].
+
+**Second moment.** At most one component is nonzero, and ‖δ_s‖² = 1, so
+E[‖f̂_t‖² | G_t] = Σ_i P[i_t = i] · 1/P[i_t = i]² = Σ_i 1/P[i_t = i]
+≤ |I| · |I|/γ = |I|²/γ. Almost surely ‖f̂_t‖² ≤ (|I|/γ)².
+
+**The floor's size.** Theorem 4.1 sets γ = min{(11L_r|I||K||A|/(4‖g‖))^{2/3}
+T^{−1/3}, 1}. As a heuristic reading, which is the record's and not the
+proof's: exploration costs O(γ) in distance, and the estimate's variance
+costs about √(|I|²/(γT)) by the second moment above. Balancing the two
+gives γ ∝ T^{−1/3}, and the distance then also scales as T^{−1/3}.
+
+**No floor when signals do not depend on the decision.** If s(i, j) does
+not depend on i, then the one signal s_t has law s(i, y_t) for every i at
+once. So f̂_t = (δ_{s_t})_i is unbiased for every component, with
+‖f̂_t‖² = |I|, without any decision being forced (§4.3).
+
+**Checked by simulation** on the approach–avoid signals: avoid shows one
+symbol whatever the outcome, approach reveals it, the danger probability is
+0.3, and the policy always avoids except for the floor. Over 2 × 10⁵
+stages the estimate recovered both flags, approach's (0.3, 0.7) to within
+0.012. The empirical second moment matched Σ 1/P exactly (5.32 against
+5.33 at γ = 0.5, 21.2 against 21.1 at γ = 0.1, and 99 against 101 at
+γ = 0.02), within the bound |I|²/γ.
+
+What could have failed: the decision maker might have been able to infer
+an unplayed decision's flag component from the others. In general it
+cannot, since Nature's mixed actions that agree on the played components
+can differ on the rest. THEORY-tmpwtj3m's kernel construction is the
+finite case.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **Not that a floor is the only device.** Bartók et al.'s CBP, against
+  stochastic opponents, samples informative actions as confidence widths
+  demand and has no fixed floor (NOTE-tmpupizd). The floor is this
+  algorithm's device for adversarial Nature.
+- **Not that the floor must be uniform.** It is uniform for simplicity. The
+  variance depends on Σ_i 1/P[i_t = i], so only the decisions whose signals
+  matter need protecting.
+- **Not a prescription for organizations or people.** That defensive
+  authority removing approach is a zero floor is CLAIM-446's reading.
+- **Not that the T^{−1/3} rate is caused by the floor alone.** The rate is
+  proved for this algorithm and matches a lower bound. Lemma A.4 is one of
+  its parts.
+
+## Connections
+
+- **CLAIM-446.** Its evidence-access correction is a positive floor on
+  approach. The approach–avoid signals are decision-dependent, so the
+  general case applies.
+- **THEORY-932, THEORY-925.** The same frequency factor. THEORY-932's
+  expected update scales with how often an option is chosen, and COMA keeps
+  a probability floor for this reason. Here the cost is explicit, as the
+  variance Σ 1/P.
+- **QUESTION-271.** When feedback is bandit-like, information about an
+  untried process costs exploration. When it is outcome-dependent, it does
+  not.
+- **THEORY-tmp172nr.** The rates this estimate serves.
