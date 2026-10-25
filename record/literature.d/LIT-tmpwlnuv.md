@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-25 (NOTE-tmp5sbzm) in full, from the copy the owner
+  read 2026-10-25 ([NOTE-tmp5sbzm](../notes.d/NOTE-tmp5sbzm.md)) in full, from the copy the owner
   supplied on 2026-10-25, a JSTOR scan of the published article (the
   searches of the same day had found no lawful copy). Worth reading
   as the source of the DeGroot model: repeated averaging with fixed
   weights is a Markov chain on opinions, a consensus from every start is
   reached exactly when the chain has one closed class and it is
   aperiodic, and its weights are the stationary vector, zero for members
-  outside that class (THEORY-tmpvqkp6). Read it knowing that the
+  outside that class ([THEORY-tmpvqkp6](../theory.d/THEORY-tmpvqkp6.md)). Read it knowing that the
   theorems are cited from Markov-chain texts without proof, that the
   "if and only if" of §4 needs the quantifier "for every starting
   opinion", that its Theorems 1 and 2 are the same condition, and that
@@ -78,12 +78,12 @@ Statistical Association* 69(345): 118–121.
 doi:10.1080/01621459.1974.10480137.
 
 Read in full on 2026-10-25 from the copy the owner supplied
-(NOTE-tmp5sbzm). Each member fixes, once, the weights it gives everyone's
+([NOTE-tmp5sbzm](../notes.d/NOTE-tmp5sbzm.md)). Each member fixes, once, the weights it gives everyone's
 opinions, and the group iterates F ← PF. Theorems 1 and 2 say when that
 converges to a common opinion, and Theorem 3 says the common opinion is
 the opinion pool weighted by P's stationary vector. The paper also states
 that two closed classes, or one periodic class, give no consensus.
-THEORY-tmpvqkp6 re-derives all of it. The model is offered as a
+[THEORY-tmpvqkp6](../theory.d/THEORY-tmpvqkp6.md) re-derives all of it. The model is offered as a
 formalization of the Delphi technique.
 
 ## Why this is here

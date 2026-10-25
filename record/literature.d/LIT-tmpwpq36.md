@@ -63,6 +63,10 @@ summary: >-
   T^2/3 or T, up to constants and logarithmic factors; computationally
   efficient algorithms attain it within a logarithmic factor, with
   individual bounds on expected regret for i.i.d. outcomes (abstract).
+corrected_by:
+- LIT-tmpfjv79
+extended_by:
+- LIT-tmpfjv79
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim the exchange applied this theory to, named, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification as the paper states it, filed from the reading -->

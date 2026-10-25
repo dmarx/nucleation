@@ -156,9 +156,9 @@ depend on m. Dropping the prior gives the SPRT.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | The SPRT stops with probability one | strong | cited from Wald 1944, Lemma 1 |
-| C2 | α/(1 − β) ≤ 1/A and β/(1 − α) ≤ B for any terminating SPRT, independence not required | strong | (3.12)–(3.19), a two-line proof; re-derived in THEORY-tmpeglfj |
+| C2 | α/(1 − β) ≤ 1/A and β/(1 − α) ≤ B for any terminating SPRT, independence not required | strong | (3.12)–(3.19), a two-line proof; re-derived in [THEORY-tmpeglfj](../theory.d/THEORY-tmpeglfj.md) |
 | C3 | Boundaries (1 − β)/α and β/(1 − α) give α′ + β′ ≤ α + β, and neither error can rise much | strong for the sum and for α′ ≤ α/(1 − β); "for all practical purposes" for the rest | (3.26)–(3.30); re-derived and simulated |
-| C4 | Neglecting the excess, P(accept H₀) = (A^h − 1)/(A^h − B^h) and En = [(1 − γ) log B + γ log A]/Ez | strong as approximations; exact without excess | (3.32)–(3.35), (4.4)–(4.8), from Wald 1944; re-derived in THEORY-tmpda363 |
+| C4 | Neglecting the excess, P(accept H₀) = (A^h − 1)/(A^h − B^h) and En = [(1 − γ) log B + γ log A]/Ez | strong as approximations; exact without excess | (3.32)–(3.35), (4.4)–(4.8), from Wald 1944; re-derived in [THEORY-tmpda363](../theory.d/THEORY-tmpda363.md) |
 | C5 | No sequential test of the same strength has smaller E₀(n) or E₁(n) than (4.80)–(4.81), and the SPRT attains them without excess | strong | §4.7 theorem, proved here; re-derived |
 | C6 | The SPRT is exactly optimal even with excess | weak (conjecture) | footnote 12 |
 | C7 | For a normal mean it saves 47–63% of observations for α, β in .01–.05 | strong within the approximation | Table 1, from (4.30)–(4.34); reproduced |
@@ -188,40 +188,40 @@ sequential test of double dichotomies independently, and it "differs from
 the one obtained by applying the sequential probability ratio test"
 (p. 121). The test was first issued in a restricted report (September
 1943), and the OC and sample-size theory rest on Wald's "On cumulative
-sums of random variables" (1944). In the record, Bogacz et al. (LIT-569,
-NOTE-461) restate it as the test "of Barnard and Wald" that is fastest
+sums of random variables" (1944). In the record, Bogacz et al. ([LIT-569](../literature.d/LIT-569.md),
+[NOTE-461](NOTE-461.md)) restate it as the test "of Barnard and Wald" that is fastest
 for a given error rate, with the drift-diffusion model as its continuum
-limit, and THEORY-068 reads that limit.
+limit, and [THEORY-068](../theory.d/THEORY-068.md) reads that limit.
 
 ## Bearing on the record
 
-- **THEORY-tmpeglfj** (the boundaries and error inequalities) and
-  **THEORY-tmpda363** (OC, sample size and optimality, and their
+- **[THEORY-tmpeglfj](../theory.d/THEORY-tmpeglfj.md)** (the boundaries and error inequalities) and
+  **[THEORY-tmpda363](../theory.d/THEORY-tmpda363.md)** (OC, sample size and optimality, and their
   coincidence with Brownian motion with drift) are filed from this
   reading.
-- **THEORY-068 and LIT-569.** "Fastest for a given error rate" is, in this
+- **[THEORY-068](../theory.d/THEORY-068.md) and [LIT-569](../literature.d/LIT-569.md).** "Fastest for a given error rate" is, in this
   paper, a theorem only up to the overshoot (§4.7), with exact optimality a
-  conjecture (footnote 12). The record's statement through LIT-569 should
+  conjecture (footnote 12). The record's statement through [LIT-569](../literature.d/LIT-569.md) should
   be read that way. The continuum limit is not in Wald. What is in Wald is
   that the error bounds become equalities "if fractional observations were
   possible" (p. 132), and that the overshoot-free OC, sample size and
   sample-size density, (3.35), (4.8) and (4.51), are exactly those of
-  Brownian motion with drift (re-derived in THEORY-tmpda363). That is the
+  Brownian motion with drift (re-derived in [THEORY-tmpda363](../theory.d/THEORY-tmpda363.md)). That is the
   sense in which the drift-diffusion model is the SPRT's continuum limit.
-- **CASE-155**, note of 2026-10-25, and **CLAIM-tmpfd9lk.** "Wald's
+- **[CASE-155](../cases.d/CASE-155.md)**, note of 2026-10-25, and **[CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md).** "Wald's
   sequential probability ratio walk" holds as Wald defines it, with two
   provisos. (1) The walk Z_m = Σ log f₁/f₀ is the SPRT's statistic. The SPRT
   is the walk with fixed boundaries, so the identification needs
-  commitment as a bound on the log odds, which CLAIM-tmpfd9lk already
+  commitment as a bound on the log odds, which [CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md) already
   states as a condition. (2) The case's log odds start at the prior odds,
   not at zero. Wald's §3.1 covers that exactly: the posterior log odds are
   log(g₁/g₀) + Z_m, and posterior thresholds are likelihood-ratio
   thresholds shifted by the prior. The case's "drift is half the variance"
   for Gaussian evidence is Wald's h = −1 under H₁ (p. 135). For normal z,
   h = −2Ez/σ_z² (4.39), so Ez = σ_z²/2.
-- **CLAIM-262** (the owner's continuous statement) and CASE-tmpvmjgd
+- **[CLAIM-262](../claims.d/CLAIM-262.md)** (the owner's continuous statement) and [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md)
   need nothing from Wald beyond the DDM limit, which they take from
-  THEORY-068.
+  [THEORY-068](../theory.d/THEORY-068.md).
 
 The proposed edits to those entries are written for the consolidator,
 not made here. No instruction for machine-learning practice, so nothing

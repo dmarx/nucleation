@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-25 (NOTE-tmpxtksz) in full, from the copy the owner
+  read 2026-10-25 ([NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md)) in full, from the copy the owner
   supplied on 2026-10-25, a JSTOR scan of the Annals article (this client
   had been stopped by Project Euclid's bot check the same day). Worth
   reading as the source of the sequential probability ratio test: its
   boundaries follow from the error rates alone, A = (1 − β)/α and
-  B = β/(1 − α) (THEORY-tmpeglfj), and its operating characteristic,
+  B = β/(1 − α) ([THEORY-tmpeglfj](../theory.d/THEORY-tmpeglfj.md)), and its operating characteristic,
   expected sample size and optimality against every test of the same
   strength are derived, with savings of about half against the
-  fixed-sample test (THEORY-tmpda363). Read it knowing that optimality is
+  fixed-sample test ([THEORY-tmpda363](../theory.d/THEORY-tmpda363.md)). Read it knowing that optimality is
   proved only when the overshoot of the boundaries is neglected, the
   exact case being a conjecture (footnote 12), that the operating
   characteristic and sample-size formulas are approximations that need
@@ -88,12 +88,12 @@ Wald, A. (1945). Sequential tests of statistical hypotheses. *The Annals
 of Mathematical Statistics* 16(2): 117–186. doi:10.1214/aoms/1177731118.
 
 Read in full on 2026-10-25 from the copy the owner supplied
-(NOTE-tmpxtksz). Part I gives the test, its fundamental inequalities
+([NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md)). Part I gives the test, its fundamental inequalities
 α/(1 − β) ≤ 1/A and β/(1 − α) ≤ B, the operating characteristic, the
 expected sample size and its distribution, truncation, and the
 optimality theorem. Part II applies the test to binomial proportions,
 double dichotomies and a normal mean, and outlines composite hypotheses
-through weight functions. THEORY-tmpeglfj and THEORY-tmpda363 re-derive
+through weight functions. [THEORY-tmpeglfj](../theory.d/THEORY-tmpeglfj.md) and [THEORY-tmpda363](../theory.d/THEORY-tmpda363.md) re-derive
 the main results.
 
 ## Why this is here

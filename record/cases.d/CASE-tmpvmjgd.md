@@ -165,7 +165,7 @@ dial on it.
   give several balanced modes, and L is then one neutral coordinate among
   several. A W with one closed class and transient members is covered: ℓ
   is unique and zero off the class, and the closure and the decay of the
-  other modes hold as for an irreducible W (checked, THEORY-tmpvqkp6). The
+  other modes hold as for an irreducible W (checked, [THEORY-tmpvqkp6](../theory.d/THEORY-tmpvqkp6.md)). The
   title's "W irreducible" is sufficient, not necessary.
 - Settling in discrete time without damping. The closure in part 1 holds
   for any step. But if the members update as x ← Wx at each step
@@ -173,9 +173,9 @@ dial on it.
   modes decay only if W is also aperiodic: a periodic two-cycle,
   W = [[0, 1], [1, 0]], does not converge (checked). With hλ < 1, and in
   the continuous-time equation, irreducibility is enough. That ℓ is
-  DeGroot's consensus weight is his Theorem 3 (THEORY-tmpvqkp6), and the
+  DeGroot's consensus weight is his Theorem 3 ([THEORY-tmpvqkp6](../theory.d/THEORY-tmpvqkp6.md)), and the
   need for aperiodicity in discrete time is his own statement for a
-  periodic closed class (LIT-tmpwlnuv, §5).
+  periodic closed class ([LIT-tmpwlnuv](../literature.d/LIT-tmpwlnuv.md), §5).
 - Anything for binary positions. A37 called xᵢ "each perspective's binary
   support variable". If the members broadcast sign(xⱼ) in place of xⱼ, the
   closure fails: the drift of L then depends on the members' positions,

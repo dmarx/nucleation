@@ -38,6 +38,10 @@ supports:
 - CLAIM-446
 answers:
 - QUESTION-tmp1wykc
+extended_by:
+- THEORY-tmpwqg2f
+presupposed_by:
+- THEORY-tmpyulw1
 ---
 <!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification this lemma feeds, filed from the same reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose example is worked here, nothing here rests on it -->

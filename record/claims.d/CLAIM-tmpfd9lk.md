@@ -93,12 +93,12 @@ than 'two interpretations imply drift–diffusion.'"
   ℓ of their shares then move by that observation's log likelihood ratio.
   Part 4's ℓ′ = ℓ + h + c(2π − 1), with 2π − 1 = tanh(ℓ/2), is at c = 0
   exactly Wald's sequential probability ratio walk: his Z_m, the sum of
-  the log likelihood ratios (THEORY-tmpeglfj), started from the prior log
+  the log likelihood ratios ([THEORY-tmpeglfj](../theory.d/THEORY-tmpeglfj.md)), started from the prior log
   odds as in his own derivation of the test (§3.1). The SPRT proper is
   this walk with fixed bounds on it. Its continuum limit is
   [THEORY-068](../theory.d/THEORY-068.md)'s drift-diffusion model. That limit is not Wald's statement:
   it is the case in which his overshoot-free OC, ASN and first-passage
-  density are exact (THEORY-tmpda363). Its drift is half its variance,
+  density are exact ([THEORY-tmpda363](../theory.d/THEORY-tmpda363.md)). Its drift is half its variance,
   which for Gaussian evidence is Wald's h = −1 under the alternative, and
   A35's "calibrated sequential inference". Self-scoring, c > 0, is the
   reinforcement that breaks it: the linear part of c·tanh(ℓ/2) is (c/2)ℓ,
@@ -112,7 +112,7 @@ than 'two interpretations imply drift–diffusion.'"
   term.
 - No net leak or self-reinforcement in that mode.
 - A single closed class of the influence network. Members outside it
-  get no weight (DeGroot's Theorems 2 and 3, THEORY-tmpvqkp6). Several
+  get no weight (DeGroot's Theorems 2 and 3, [THEORY-tmpvqkp6](../theory.d/THEORY-tmpvqkp6.md)). Several
   closed groups give several balanced modes.
 - Continuous support. Members that broadcast only binary positions break
   the linear closure.

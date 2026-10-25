@@ -20,22 +20,24 @@ date: '2026-10-25'
 source:
 - LIT-tmpcevhu
 summary: >-
-  Wald (1945), LIT-tmpcevhu, read in NOTE-tmpxtksz. The boundaries of a
+  Wald (1945), [LIT-tmpcevhu](../literature.d/LIT-tmpcevhu.md), read in [NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md). The boundaries of a
   sequential likelihood-ratio test follow from the error rates by a
   two-line argument that needs only termination, so the test needs no
   sampling distribution. The approximate boundaries are conservative in
   sum. Either error alone may rise, but only by a factor 1/(1 − β) or
   1/(1 − α) at most. Nothing here says how many observations the test
-  takes or that it is optimal: that is THEORY-tmpda363, and it needs
+  takes or that it is optimal: that is [THEORY-tmpda363](THEORY-tmpda363.md), and it needs
   i.i.d. observations.
+supports:
+- CLAIM-tmpfd9lk
 ---
 # THEORY-tmpeglfj: In Wald's sequential probability ratio test, which samples until the likelihood ratio of two simple hypotheses leaves an interval (B, A), the realized error probabilities satisfy α/(1 − β) ≤ 1/A and β/(1 − α) ≤ B whenever the test terminates with probability one, with or without independent observations; so the boundaries A = (1 − β)/α and B = β/(1 − α), set with no distribution theory, give errors α′ ≤ α/(1 − β), β′ ≤ β/(1 − α) and α′ + β′ ≤ α + β, and they would be exact only if the ratio stopped on the boundary
 
 ## Source
 
 Wald (1945), "Sequential Tests of Statistical Hypotheses", *The Annals of
-Mathematical Statistics* 16(2): 117–186, LIT-tmpcevhu, read in full in
-NOTE-tmpxtksz from the JSTOR scan the owner supplied. The test is
+Mathematical Statistics* 16(2): 117–186, [LIT-tmpcevhu](../literature.d/LIT-tmpcevhu.md), read in full in
+[NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md) from the JSTOR scan the owner supplied. The test is
 (3.8)–(3.10), its Bayesian motivation (3.1)–(3.7), and termination (3.11).
 The inequalities are (3.12)–(3.19) and the practical boundaries
 (3.24)–(3.30). The derivations below follow Wald's and are written out by
@@ -97,7 +99,7 @@ stayed below in every case.
 ## What this does not say
 
 - **Not how long the test runs, or that it is optimal.** Those need i.i.d.
-  observations and the overshoot to be neglected (THEORY-tmpda363).
+  observations and the overshoot to be neglected ([THEORY-tmpda363](THEORY-tmpda363.md)).
 - **Not that both errors fall.** Only their sum is guaranteed not to rise.
   One error can exceed its target, by at most a factor 1/(1 − β) or
   1/(1 − α).
@@ -110,11 +112,11 @@ stayed below in every case.
 
 ## Connections
 
-- **CASE-155** (note of 2026-10-25) and **CLAIM-tmpfd9lk.** The replicator's
+- **[CASE-155](../cases.d/CASE-155.md)** (note of 2026-10-25) and **[CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md).** The replicator's
   log share odds, moving by each observation's log likelihood ratio from
   the prior log odds, are §3.1's posterior log odds log(g₁/g₀) + Z_m. They
   are Wald's walk, and the SPRT's statistic. They become the SPRT when
   commitment is a fixed bound on them, which the claim lists as a
   condition.
-- **THEORY-068** takes the SPRT through Bogacz et al. (LIT-569). This
+- **[THEORY-068](THEORY-068.md)** takes the SPRT through Bogacz et al. ([LIT-569](../literature.d/LIT-569.md)). This
   account supplies the primary statement of the test and its boundaries.

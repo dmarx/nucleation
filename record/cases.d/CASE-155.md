@@ -154,11 +154,11 @@ Read the same day (curation entry of 2026-10-24, 2nd).
   ℓ′ = ℓ + log(q_A/q_B) for the log odds of A's share. With q the
   likelihood each process gives a fresh observation, the increment is that
   observation's log likelihood ratio h. That is Wald's sequential
-  probability ratio walk (Wald's Z_m, THEORY-tmpeglfj; starting from the
+  probability ratio walk (Wald's Z_m, [THEORY-tmpeglfj](../theory.d/THEORY-tmpeglfj.md); starting from the
   prior log odds, it is his §3.1 posterior form; the SPRT proper adds
   fixed bounds), and its continuum limit is [THEORY-068](../theory.d/THEORY-068.md)'s
   drift-diffusion model (not stated by Wald; his overshoot-free formulas
-  are exactly the diffusion's, THEORY-tmpda363). For Gaussian evidence N(±δ, σ²), h has mean
+  are exactly the diffusion's, [THEORY-tmpda363](../theory.d/THEORY-tmpda363.md)). For Gaussian evidence N(±δ, σ²), h has mean
   2δ²/σ² and variance 4δ²/σ², so the drift is half the variance. Part 4's
   ℓ′ = ℓ + h + c(2π − 1) is the same walk with feedback from the share.
   Since 2π − 1 = tanh(ℓ/2), it is ℓ′ = ℓ + h + c·tanh(ℓ/2), whose linear

@@ -154,13 +154,13 @@ diffusion form. A36 called it "an immediate mathematical connection
 between network influence and collective statistical efficiency". Since
 max ℓᵢ² ≤ Σℓᵢ² ≤ max ℓᵢ, the collective noise vanishes exactly when the
 largest weight does, this theorem's condition ([CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md)). That ℓ
-is DeGroot's consensus weight π is his Theorem 3 (THEORY-tmpvqkp6). The
+is DeGroot's consensus weight π is his Theorem 3 ([THEORY-tmpvqkp6](THEORY-tmpvqkp6.md)). The
 reading is unchanged.
 
 ## Note of 2026-10-25: DeGroot's original conditions
 
-DeGroot's 1974 paper (LIT-tmpwlnuv, read in NOTE-tmp5sbzm from a copy the
-owner supplied; THEORY-tmpvqkp6) gives a consensus from every start
+DeGroot's 1974 paper ([LIT-tmpwlnuv](../literature.d/LIT-tmpwlnuv.md), read in [NOTE-tmp5sbzm](../notes.d/NOTE-tmp5sbzm.md) from a copy the
+owner supplied; [THEORY-tmpvqkp6](THEORY-tmpvqkp6.md)) gives a consensus from every start
 exactly when the weight matrix has a single closed class of communicating
 members and that class is aperiodic. The consensus is Σπᵢ Fᵢ with π the
 unique stationary vector, which gives members outside the closed class no
@@ -172,6 +172,6 @@ So this theorem's "strongly connected" narrowing, made in the note of
 2026-10-19, is stronger than consensus needs: a society with one closed
 class and transient members reaches a consensus, and its influence weights
 are the closed class's. The re-derivation above carries over with s zero
-off that class. The several-closed-groups question in QUESTION-184 is
+off that class. The several-closed-groups question in [QUESTION-184](../questions.d/QUESTION-184.md) is
 Golub and Jackson's question of wisdom, which DeGroot does not address.
 The reading is unchanged.

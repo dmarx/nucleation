@@ -159,8 +159,8 @@ inhibition at all.
 
 ## Note of 2026-10-25: what Wald's paper itself says
 
-Wald's 1945 paper (LIT-tmpcevhu, read in NOTE-tmpxtksz from a copy the
-owner supplied) qualifies two things this account takes from LIT-569.
+Wald's 1945 paper ([LIT-tmpcevhu](../literature.d/LIT-tmpcevhu.md), read in [NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md) from a copy the
+owner supplied) qualifies two things this account takes from [LIT-569](../literature.d/LIT-569.md).
 
 - **Optimality.** "Fastest for a given error rate" is, in Wald 1945, a
   theorem only up to the overshoot: no sequential test with the same error
@@ -173,8 +173,8 @@ owner supplied) qualifies two things this account takes from LIT-569.
   limit. He says the boundaries would be exact "if fractional observations
   were possible", and his overshoot-free OC, ASN and distribution of the
   sample number are exactly those of Brownian motion with drift
-  (THEORY-tmpda363, THEORY-tmpeglfj). So the drift-diffusion model is the
+  ([THEORY-tmpda363](THEORY-tmpda363.md), [THEORY-tmpeglfj](THEORY-tmpeglfj.md)). So the drift-diffusion model is the
   case in which Wald's approximations are exact, which is why the limit
-  LIT-569 proves holds. The limit stays sourced through LIT-569.
+  [LIT-569](../literature.d/LIT-569.md) proves holds. The limit stays sourced through [LIT-569](../literature.d/LIT-569.md).
 
 The account is unchanged.

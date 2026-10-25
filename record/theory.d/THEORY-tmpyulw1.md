@@ -38,6 +38,8 @@ summary: >-
   best policy in a fixed, known game, up to game-dependent constants. It
   does not cover a learner barred from some actions, feedback that changes
   during play, or adaptive adversaries.
+supports:
+- CLAIM-446
 ---
 <!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the earlier statement this one completes, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose variants are classified here, nothing here rests on it -->
