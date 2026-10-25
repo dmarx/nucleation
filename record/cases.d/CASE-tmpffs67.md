@@ -12,7 +12,6 @@ date: '2026-10-24'
 line: distributed-agency
 illustrates:
 - CLAIM-444
-- QUESTION-tmpdicvf
 variant_of:
 - CASE-155
 summary: >-
