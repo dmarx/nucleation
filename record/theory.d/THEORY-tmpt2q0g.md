@@ -22,8 +22,8 @@ source:
 answers:
 - QUESTION-tmpu6zq7
 summary: >-
-  Bar-Tal, Yariv, Lipman and Dekel (2023), LIT-tmp03agp, read in
-  NOTE-tmpa8ixz. The fusion is an average, not a sum: where views overlap
+  Bar-Tal, Yariv, Lipman and Dekel (2023), [LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), read in
+  [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md). The fusion is an average, not a sum: where views overlap
   each takes a convex share of the pixel's update. The paper's closed form
   is the minimizer of its loss only for 0/1 weights. Its distributional
   guarantee is conditional on zero loss and, in the proceedings version,
@@ -39,7 +39,7 @@ summary: >-
 
 Bar-Tal, Yariv, Lipman and Dekel (2023), "MultiDiffusion: Fusing
 Diffusion Paths for Controlled Image Generation", ICML 2023, PMLR 202,
-LIT-tmp03agp, read in full in NOTE-tmpa8ixz from arXiv v1 and the
+[LIT-tmp03agp](../literature.d/LIT-tmp03agp.md), read in full in [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md) from arXiv v1 and the
 proceedings PDF. The step is the paper's Eqs. 3–5, the guarantee its
 Proposition 3.1. The derivations below are the record's.
 
@@ -113,11 +113,11 @@ hypothesis gives; it does not.
   residual. With strictly positive weights required, it does not cover
   masked region generation, where weights are zero outside each mask.
   It concerns each view's marginal, not the canvas jointly.
-- **Not a product or conjunction of the views' conditions.** THEORY-405's
+- **Not a product or conjunction of the views' conditions.** [THEORY-405](THEORY-405.md)'s
   composition sums guidance terms, each concept acting everywhere, and
-  CLAIM-123 says when such a sum is the score of a composed condition.
+  [CLAIM-123](../claims.d/CLAIM-123.md) says when such a sum is the score of a composed condition.
   This step averages, by place. No probabilistic reading of the average is
-  offered, and THEORY-611's point that guided fields need not be
+  offered, and [THEORY-611](THEORY-611.md)'s point that guided fields need not be
   conservative applies to each term.
 - **Not anything about stochastic steps.** If each view injects its own
   noise, averaging shrinks it on overlaps, and the paper does not say
@@ -129,19 +129,19 @@ hypothesis gives; it does not.
 
 ## Connections
 
-- **CLAIM-123's note of 2026-10-25.** A45's combination
+- **[CLAIM-123](../claims.d/CLAIM-123.md)'s note of 2026-10-25.** A45's combination
   ε_∅ + g·Σwᵢ Mᵢ (εᵢ − ε_∅) / max(1, Σwᵢ Mᵢ) is, with unit weights and
   coverage of at least one, this step's noise-prediction form. A45
   re-derived MultiDiffusion's region-based step, uncited, and added
   per-perspective weights and a dilution rule below total weight one.
-- **QUESTION-tmpu6zq7: answers in part.** For the "locations" form of the
+- **[QUESTION-tmpu6zq7](../questions.d/QUESTION-tmpu6zq7.md): answers in part.** For the "locations" form of the
   owner's third mechanism under this fusion, the nominal resource maps
   exactly onto a per-step, per-pixel convex weight. That settles, for one
   step, how nominal allocation enters the update. It does not settle the
   question's counterfactual influence over a trajectory, or whether other
   mechanisms reduce to the same weights.
-- **LIT-tmpxsvgv (THEORY-tmpg6v1v).** LoRA Composite is this step's
+- **[LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md) ([THEORY-tmpg6v1v](THEORY-tmpg6v1v.md)).** LoRA Composite is this step's
   noise-prediction form with every mask full and LoRA-modified models in
   place of prompts.
-- **CLAIM-336's note of 2026-10-25.** Its "mask and weight as allocated
+- **[CLAIM-336](../claims.d/CLAIM-336.md)'s note of 2026-10-25.** Its "mask and weight as allocated
   influence" is this step's Wᵢ.

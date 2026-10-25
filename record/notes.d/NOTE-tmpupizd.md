@@ -147,7 +147,7 @@ that are bad near that boundary, the learner pays for it at rate T^{2/3}.
 |---|---|---|---|
 | C1 | The minimax regret of every finite partial-monitoring game against stochastic opponents is 0, Θ̃(√T), Θ(T^{2/3}) or Θ(T), decided by K, local and global observability | strong | Theorem 1, from Theorem 4, Corollaries 2–3 and cited lower bounds (Piccolboni–Schindelhauer, Antos et al.) |
 | C2 | The same holds against adversarial opponents for non-degenerate games | strong as stated; the adversarial analysis was later corrected | Theorem 2 via NeighborhoodWatch, Corollary 5. Lattimore and Szepesvári (2019) "correct errors in previous analyses" and extend the classification to all games |
-| C3 | A game that is not locally observable has regret Ω(T^{2/3}) | strong | Theorem 4 with proof; its first step is re-derived in THEORY-tmpwtj3m |
+| C3 | A game that is not locally observable has regret Ω(T^{2/3}) | strong | Theorem 4 with proof; its first step is re-derived in [THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md) |
 | C4 | Against stochastic opponents, locally observable games have logarithmic individual regret | strong | Corollary 1 |
 | C5 | A globally observable game behaves as an easy one against opponents kept away from the unobservable boundaries, and CBP adapts without being told | strong | Theorem 5, Corollary 4 |
 | C6 | The algorithms are computationally efficient | moderate | CBP solves N + N² linear programs up front and up to N² per round; the authors call more efficient algorithms an open need |
@@ -180,14 +180,14 @@ The two-level construction of NeighborhoodWatch follows Foster and Vohra
 (1997) and Blum and Mansour (2007) on turning external into internal
 regret through a stationary distribution. §6.3 points to Rustichini
 (1999), Lugosi, Mannor and Stoltz (2008) and Perchet (2011), the line
-that Kwon and Perchet (LIT-tmpm3j41) continues for approachability.
+that Kwon and Perchet ([LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md)) continues for approachability.
 Lattimore and Szepesvári, "Cleaning up the neighborhood" (arXiv:1805.09247,
 not held), completes the adversarial classification for degenerate games
 and, in its abstract's words, corrects "errors in previous analyses".
 
 ## Bearing on the record
 
-- **CLAIM-446's note of 2026-10-25, checked.** The toy has outcomes
+- **[CLAIM-446](../claims.d/CLAIM-446.md)'s note of 2026-10-25, checked.** The toy has outcomes
   (dangerous, safe), losses ℓ_avoid = (0, c) and ℓ_approach = (H, 0), and
   S_avoid = [1 1], S_approach = I₂, all as the note says. With p the
   probability of danger, avoid is optimal for p ≥ c/(H + c) and approach
@@ -234,10 +234,10 @@ and, in its abstract's words, corrects "errors in previous analyses".
   floor of probability on approach" is one sufficient device. What the
   theorems require is that the observer actions be sampled often enough,
   and in the stochastic easy case that means logarithmically often.
-  This bears on QUESTION-271.
-- **THEORY-932, THEORY-925.** Those entries' frequency factor is the
+  This bears on [QUESTION-271](../questions.d/QUESTION-271.md).
+- **[THEORY-932](../theory.d/THEORY-932.md), [THEORY-925](../theory.d/THEORY-925.md).** Those entries' frequency factor is the
   1/Σ 1{I_s = k} in CBP's estimate and its confidence width.
-- **QUESTION-031.** Observability is a separation condition of exactly
+- **[QUESTION-031](../questions.d/QUESTION-031.md).** Observability is a separation condition of exactly
   the kind that question asks for, for one decision family: the
   comparisons ℓ_i − ℓ_j, restricted to neighbours. It is checkable before
   any data are seen.
@@ -265,7 +265,7 @@ anthology-candidate flag on the LIT stands for the anthology to judge.
 
 - What is the regret class when the set of actions available at each
   round is chosen by another process, as a function of the learner's
-  past estimates? That is CLAIM-446's setting. The classification
+  past estimates? That is [CLAIM-446](../claims.d/CLAIM-446.md)'s setting. The classification
   assumes a fixed action set.
 - In the random-signal case of §6.3, how do noisy signals change the
   constants, as opposed to the rate class? This is the case closest to

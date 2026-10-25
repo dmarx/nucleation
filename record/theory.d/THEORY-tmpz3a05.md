@@ -27,8 +27,8 @@ date: '2026-10-25'
 source:
 - LIT-tmpwpq36
 summary: >-
-  Bartók, Foster, Pál, Rakhlin and Szepesvári (2014), LIT-tmpwpq36, read
-  in NOTE-tmpupizd. Four classes, trivial, easy, hard and hopeless, with
+  Bartók, Foster, Pál, Rakhlin and Szepesvári (2014), [LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md), read
+  in [NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md). Four classes, trivial, easy, hard and hopeless, with
   conditions checkable from the matrices before play. It classifies the
   best policy for a fixed, known game. It does not cover a policy that is
   barred from some actions, a feedback structure that changes during play,
@@ -40,13 +40,13 @@ summary: >-
 
 ## Source
 
-Bartók, Foster, Pál, Rakhlin and Szepesvári (2014), LIT-tmpwpq36, Theorems
+Bartók, Foster, Pál, Rakhlin and Szepesvári (2014), [LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md), Theorems
 1 and 2, assembled in their §7 from Piccolboni and Schindelhauer (2001) for
 the linear lower bound, Antos et al. (2012) for the √T lower bound, their
 own Theorem 4 for the T^{2/3} lower bound, FeedExp (Piccolboni and
 Schindelhauer; Cesa-Bianchi, Lugosi and Stoltz 2006) for the T^{2/3} upper
 bound, CBP (Corollary 3) and NeighborhoodWatch (Corollary 5) for the √T
-upper bounds. Read in NOTE-tmpupizd.
+upper bounds. Read in [NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md).
 
 ## What was actually shown
 
@@ -59,7 +59,7 @@ For a game G = (L, H) with K non-dominated actions:
 | hard | globally, not locally observable | Θ(T^{2/3}) | Θ(T^{2/3}) |
 | hopeless | not globally observable | Θ(T) | Θ(T) |
 
-The observability conditions are THEORY-tmpwtj3m's span condition, with D
+The observability conditions are [THEORY-tmpwtj3m](THEORY-tmpwtj3m.md)'s span condition, with D
 equal to all actions (global) or to the neighbourhood action set N⁺_{i,j}
 (local). The lower bound of Theorem 4 places two outcome distributions
 p₀ ± εv about the boundary between two neighbours that are not locally
@@ -91,18 +91,18 @@ open part.
   can be large.
 - **Not about learned or changing feedback.** L and H are fixed and known.
   Authority that edits the losses or the signal channels during learning is
-  outside the theorem, as A29 already cautioned (CLAIM-446's note).
+  outside the theorem, as A29 already cautioned ([CLAIM-446](../claims.d/CLAIM-446.md)'s note).
 - **Not about adaptive adversaries.** The adversarial results are for
   oblivious ones.
 
 ## Connections
 
-- **CLAIM-446.** Its approach–avoid example is in the easy class
-  (THEORY-tmpwtj3m). Approach with suppressed feedback is hopeless, and
+- **[CLAIM-446](../claims.d/CLAIM-446.md).** Its approach–avoid example is in the easy class
+  ([THEORY-tmpwtj3m](THEORY-tmpwtj3m.md)). Approach with suppressed feedback is hopeless, and
   information available only from a dominated check is hard.
-- **Kwon and Perchet (LIT-tmpm3j41)** give the vector-payoff counterpart.
+- **Kwon and Perchet ([LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md))** give the vector-payoff counterpart.
   For approachability under partial monitoring the worst-case rates are
   T^{−1/2} with outcome-dependent signals and T^{−1/3} in general, the
   average-payoff forms of √T and T^{2/3}.
-- **QUESTION-271.** The classification says when feedback that depends on
+- **[QUESTION-271](../questions.d/QUESTION-271.md).** The classification says when feedback that depends on
   the action played costs more than full information, and by how much.

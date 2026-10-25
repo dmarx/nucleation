@@ -19,13 +19,13 @@ date: '2026-10-25'
 source:
 - LIT-tmpwpq36
 summary: >-
-  Bartók, Foster, Pál, Rakhlin and Szepesvári (2014), LIT-tmpwpq36, read
-  in NOTE-tmpupizd. Observability in partial monitoring is a
+  Bartók, Foster, Pál, Rakhlin and Szepesvári (2014), [LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md), read
+  in [NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md). Observability in partial monitoring is a
   linear-algebra condition on the loss and signal matrices: a comparison
   is learnable from some actions exactly when its loss difference is in the
   span of their signal row spaces. Global and local observability are the
   two choices of D the classification uses. It says what can be
-  estimated, not how fast; the rates are THEORY-tmpz3a05.
+  estimated, not how fast; the rates are [THEORY-tmpz3a05](THEORY-tmpz3a05.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification this lemma feeds, filed from the same reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose example is worked here, nothing here rests on it -->
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Bartók, Foster, Pál, Rakhlin and Szepesvári (2014), *Mathematics of
-Operations Research* 39(4):967–997, LIT-tmpwpq36, read in NOTE-tmpupizd from
+Operations Research* 39(4):967–997, [LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md), read in [NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md) from
 the authors' preprint of March 2013. The condition is their Definitions 5
 (global observability, from Piccolboni and Schindelhauer) and 6 (local
 observability). The necessity argument is the first paragraph of the proof
@@ -72,7 +72,7 @@ observability takes, for neighbouring i and j, D = N⁺_{i,j}, the actions
 optimal on the boundary between them. Those are the actions a learner can
 play near that boundary without paying a constant loss.
 
-**The approach–avoid game** (CLAIM-446's note of 2026-10-25). Outcomes are
+**The approach–avoid game** ([CLAIM-446](../claims.d/CLAIM-446.md)'s note of 2026-10-25). Outcomes are
 (dangerous, safe). ℓ_avoid = (0, c), ℓ_approach = (H, 0), S_avoid = [1 1] and
 S_approach = I₂, with H, c > 0. With p the probability of danger, avoid is
 optimal for p ≥ c/(H + c), so the cells are two segments meeting at one
@@ -108,7 +108,7 @@ renders identically cannot be told apart by any statistic.
 
 - **Not the rates.** That a comparison is learnable from D says nothing
   about how fast. The classification (Θ̃(√T), Θ(T^{2/3}), Θ(T)) is
-  THEORY-tmpz3a05. The lemma is one step of its lower bound, not the
+  [THEORY-tmpz3a05](THEORY-tmpz3a05.md). The lemma is one step of its lower bound, not the
   bound.
 - **Not that a learner restricted to D has high regret in its own game.**
   Regret is measured against the actions available. A learner allowed only
@@ -116,7 +116,7 @@ renders identically cannot be told apart by any statistic.
   learning the comparison with approach, and the cost of that appears as
   regret in the larger game.
 - **Not about anxiety.** That avoidance, safety behaviour or checking has
-  these loss and signal matrices is CLAIM-446's interpretive premise, not
+  these loss and signal matrices is [CLAIM-446](../claims.d/CLAIM-446.md)'s interpretive premise, not
   something the lemma shows.
 - **Not about random or changing signals.** §6.3 of the paper extends the
   condition to random signals, with the matrix of signal laws Ξ in place
@@ -124,17 +124,17 @@ renders identically cannot be told apart by any statistic.
 
 ## Connections
 
-- **CLAIM-446.** This is the formal content of "under the avoidance that
+- **[CLAIM-446](../claims.d/CLAIM-446.md).** This is the formal content of "under the avoidance that
   authority selects, the hypotheses ... predict the same observation": the
   vector v = (1, −1) is the pair H_D versus H_S, and S_avoid v = 0.
-- **QUESTION-031.** A condition on a probe family, checkable before any
+- **[QUESTION-031](../questions.d/QUESTION-031.md).** A condition on a probe family, checkable before any
   data, under which agreement on every probe implies agreement on a stated
   decision. Here the decision family is the pairwise comparisons, and the
   probes are the actions' signal matrices. It is an answer for that
   decision family only, and for deterministic or known-law signals.
-- **QUESTION-271** asks when bandit-style feedback suffices. The lemma says
+- **[QUESTION-271](../questions.d/QUESTION-271.md)** asks when bandit-style feedback suffices. The lemma says
   which comparisons the played actions can resolve at all.
-- **THEORY-755.** Both are kernel conditions on a linear map: a coarse
+- **[THEORY-755](THEORY-755.md).** Both are kernel conditions on a linear map: a coarse
   description closes when the dynamics carry no component the summary
   cannot see, and a comparison is learnable when the loss difference has
   no component the signals cannot see.
