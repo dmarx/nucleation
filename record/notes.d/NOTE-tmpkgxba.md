@@ -43,7 +43,7 @@ summary: >-
   constant depending only on K_loc, F and log K, and a factor linear in F
   is shown to be necessary.
 ---
-<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the earlier classification this reading completes, and whose promote_when it bears on -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Superseded by THEORY-tmpyulw1; the earlier classification this reading completes, and whose promote_when it bears on -->
 <!-- inactive-ok-file: THEORY-tmpb4ozq — Proposed; the point-local bound, filed from this reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose check variant this reading places, nothing here rests on it -->
 <!-- inactive-ok-file: QUESTION-tmp1wykc — Answered; the question whose partial-monitoring answer this reading refines, cited for that -->

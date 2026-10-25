@@ -44,7 +44,7 @@ summary: >-
   allowed to estimate it. The stochastic classification covers every game;
   the adversarial one covers non-degenerate games only.
 ---
-<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification as the paper states it, filed from this reading -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Superseded by THEORY-tmpyulw1; the classification as the paper states it, filed from this reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose dated note this reading checks, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-932 THEORY-925 — Proposed; accounts this reading is compared with, nothing here rests on their being settled -->
 # NOTE-tmpupizd: Bartók, Foster, Pál, Rakhlin and Szepesvári — Partial monitoring: classification, regret bounds and algorithms

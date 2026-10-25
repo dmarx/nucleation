@@ -69,7 +69,7 @@ extended_by:
 - LIT-tmpfjv79
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim the exchange applied this theory to, named, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification as the paper states it, filed from the reading -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Superseded by THEORY-tmpyulw1; the classification as the paper states it, filed from the reading -->
 # LIT-tmpwpq36: Partial Monitoring—Classification, Regret Bounds, and Algorithms
 
 Bartók, G., Foster, D. P., Pál, D., Rakhlin, A. & Szepesvári, C. (2014).

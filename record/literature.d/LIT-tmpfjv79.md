@@ -70,7 +70,7 @@ summary: >-
   linear dependence on the number of feedback symbols.
 ---
 <!-- inactive-ok-file: THEORY-tmpb4ozq — Proposed; the point-local bound, filed from this reading -->
-<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the classification as Bartók et al. state it, which this reading completes, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Superseded by THEORY-tmpyulw1; the classification as Bartók et al. state it, which this reading completes, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose check variant this paper's spam game matches, named, nothing here rests on it -->
 # LIT-tmpfjv79: Cleaning up the neighborhood: A full classification for adversarial partial monitoring
 

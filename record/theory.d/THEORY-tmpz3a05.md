@@ -1,5 +1,7 @@
 ---
-status: Proposed
+status: Superseded
+superseded_by:
+- THEORY-tmpyulw1
 promote_when: >-
   A step-by-step re-derivation, recorded under ADR-047 v2, of the upper
   bound for locally observable games (CBP's Corollary 3 against stochastic
@@ -9,7 +11,7 @@ promote_when: >-
   proofs, such as Lattimore and Szepesvári's corrected adversarial
   analysis. A citation of the classification by others does not count.
 title: 'The minimax regret of a finite partial-monitoring game takes one of four rates, decided by its loss and signal matrices: 0 when only one action is non-dominated, Θ̃(√T) when every pair of neighbouring actions is locally observable, Θ(T^2/3) when the game is globally but not locally observable, and Θ(T) when it is not globally observable; against stochastic opponents for every game, against oblivious adversaries for non-degenerate games'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-25'
@@ -31,6 +33,18 @@ history:
     N_ab (THEORY-tmpwqg2f). The reading proposes that this entry be
     Superseded by THEORY-tmpyulw1 rather than promoted, which is the owner's
     decision under ADR-047. The status is unchanged.
+- version: 3
+  date: '2026-10-25'
+  note: >-
+    Superseded by THEORY-tmpyulw1, at the owner's decision of 2026-10-25
+    under ADR-047, from the reading of Lattimore and Szepesvári
+    (NOTE-tmpkgxba). That entry restates the classification for every
+    finite game with proofs of its missing pieces, as this entry's
+    promote_when asked. Two clauses here are mis-stated: the trivial class
+    is "no pair of neighbouring actions", not "one non-dominated action",
+    and the lower bound's v must lie in the kernel of every signal matrix
+    in N_ab (THEORY-tmpwqg2f). Bartók et al.'s CBP results remain as read
+    in NOTE-tmpupizd. The body is unchanged.
 tags:
 - learning-theory
 - game-theory
@@ -145,3 +159,11 @@ be Superseded by [THEORY-tmpyulw1](THEORY-tmpyulw1.md) rather than promoted:
 Its adversarial scope, non-degenerate games only, is also narrower than is
 now known. Whether to supersede or to correct in place and promote is the
 owner's decision under [ADR-047](../decisions.d/ADR-047.md). The status is unchanged.
+
+## Superseded, 2026-10-25
+
+At the owner's decision under ADR-047, this entry is Superseded by
+THEORY-tmpyulw1 rather than promoted, for the two mis-stated clauses in
+the note above. Cite THEORY-tmpyulw1 for the classification and
+THEORY-tmpwqg2f for the role of degenerate actions and the corrected lower
+bound.

@@ -42,7 +42,7 @@ answered_by:
 - THEORY-tmpwtj3m
 - CLAIM-tmpa8ttt
 ---
-<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the four-class classification as Bartók et al. state it, cited for context beside THEORY-tmpyulw1 (Active), nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Superseded by THEORY-tmpyulw1; the four-class classification as Bartók et al. state it, cited for context beside THEORY-tmpyulw1 (Active), nothing here rests on it -->
 
 # QUESTION-tmp1wykc: When the task's target and the probes' outcome laws are both linear in one unknown state, as for the pairwise comparisons of actions under partial monitoring and for the authority shares of a mixture of known response profiles, when does a family of probes separate what the task needs told apart?
 
@@ -57,7 +57,7 @@ reveal. Two cases are settled.
   the comparison of actions i and j iff ℓᵢ − ℓⱼ lies in Σ_{k∈D} Im S_kᵀ,
   the combined row space of the signal matrices. It is checkable before
   any data, and it is the condition that sorts partial-monitoring games
-  into classes ([THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), Proposed; for every finite game
+  into classes ([THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md), Superseded; for every finite game
   [THEORY-tmpyulw1](../theory.d/THEORY-tmpyulw1.md), Active). For the classification, the probe set that
   matters for a neighbouring pair i, j is N⁺_{i,j}, which includes
   actions optimal only on the boundary between them; their signals count,

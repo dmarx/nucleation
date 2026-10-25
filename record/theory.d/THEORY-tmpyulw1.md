@@ -41,7 +41,7 @@ summary: >-
 supports:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: THEORY-tmpz3a05 — Proposed; the earlier statement this one completes, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 — Superseded by THEORY-tmpyulw1; the earlier statement this one completes, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose variants are classified here, nothing here rests on it -->
 # THEORY-tmpyulw1: The minimax regret of every finite partial-monitoring game against an oblivious adversary, degenerate and duplicate actions included, is 0 when no two actions are neighbours, Θ̃(√n) when every pair of neighbours is locally observable, Θ(n^2/3) when every pair is globally but some pair is not locally observable, and linear otherwise; its lower bounds are proved against stochastic outcomes, so the same four classes hold for them
 

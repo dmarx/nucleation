@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmp172nr — Proposed; the rates as the paper states them, filed from this reading -->
 <!-- inactive-ok-file: CLAIM-357 CLAIM-446 — Proposed; claims whose dated notes cite this work, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmpz3a05 THEORY-925 — Proposed; accounts compared with, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmpz3a05 THEORY-925 — Proposed, or Superseded for the first; accounts compared with, nothing here rests on their being settled -->
 # NOTE-tmpfxkdt: Kwon and Perchet — Blackwell approachability with partial monitoring: optimal convergence rates
 
 ## Contribution
