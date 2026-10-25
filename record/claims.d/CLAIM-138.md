@@ -137,7 +137,7 @@ session, not as a mapping between two systems.
 
 ## Note of 2026-10-25: a further instance, in phenomenal structure
 
-Isaac (LIT-1361, read in NOTE-tmpn1hle), a structuralist about phenomenal
+Isaac ([LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md)), a structuralist about phenomenal
 experience, names Newman's (1928) objection and sets it aside: at the
 methodological level "the mathematical term is being used in a suggestive,
 metaphorical way", and the technical conditions for an isomorphism are met
@@ -148,6 +148,6 @@ That is the independently specified relations this claim says concede
 non-structural input. He can pay that cost because he does not hold that
 relations alone fix what an experience is.
 
-The case is outside the communicative domain, as Lyre's is (THEORY-880), so
+The case is outside the communicative domain, as Lyre's is ([THEORY-880](../theory.d/THEORY-880.md)), so
 it extends the claim's parallel by analogy and says nothing about which
-version of CLAIM-136 the owner should hold. The comparison is the record's.
+version of [CLAIM-136](CLAIM-136.md) the owner should hold. The comparison is the record's.
