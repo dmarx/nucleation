@@ -1,12 +1,9 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-25, not read. Registered from the owner's exchange of
-  2026-10-24/25 (the continuation of "Review PR 327 Improvements"), shared
-  at https://chatgpt.com/share/6add7ae3-1a38-83ea-ac83-4f490e399824, where
-  it is cited at turn U29. No NOTE is filed.
+  read 2026-10-25 (NOTE-tmpj2iwk) in full, from the authors' Technical Report #607 (University of Minnesota, July 1995) in the University of Minnesota Digital Conservancy; worth reading for Lindley's decision-theoretic formulation of design, for the derivation of Bayes D- and A-optimality from Shannon information and quadratic loss in the normal linear model (THEORY-tmpig9py), and for the account of nonlinear design as prior-averaged local criteria, with local optimality as the point-mass case and its failure for the turning point (THEORY-tmpg6jfa). Read it knowing that it is a 1995 survey, mostly of normal linear models, that its nonlinear criteria are approximations of unknown accuracy, that its treatment of model discrimination is brief, and that the copy read is the technical report, with equations lost to OCR, not the journal text.
 title: 'Bayesian Experimental Design: A Review'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -22,12 +19,17 @@ history:
     a reading can start there. It is not the Verdinelli paper cited inside
     LIT-620 (Verdinelli & Wasserman 1995). The summary follows the
     abstract on Crossref.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Read in full (NOTE-tmpj2iwk), from the authors' Technical Report #607 (July 1995) in the University of Minnesota Digital Conservancy, hdl:11299/199630. Project Euclid's open copy was refused by a bot check on 2026-10-25. Status Deferred → Active. The open-copy URL is added. The summary follows the published abstract and is checked against the reading and kept. THEORY-tmpig9py and THEORY-tmpg6jfa (both Active, re-derived) are filed from it.
 tags:
 - mathematical-statistics
 - probabilistic-modeling
 date: '2026-10-25'
 published: '1995-08-01'
 doi: '10.1214/ss/1177009939'
+url: 'https://hdl.handle.net/11299/199630'
 first_author: 'Chaloner'
 keywords:
 - 'Bayesian experimental design'
@@ -50,8 +52,9 @@ summary: >-
 Chaloner, K. & Verdinelli, I. (1995). Bayesian experimental design: A
 review. *Statistical Science* 10(3): 273–304. doi:10.1214/ss/1177009939.
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+Read 2026-10-25 in full (NOTE-tmpj2iwk), from the authors' technical
+report of July 1995, not compared with the journal text. The summary was
+checked against it.
 
 ## Why this is here
 

@@ -1,73 +1,103 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpig9py:` heading; the lint checks
-# that the two agree.
-title: 'placeholder PM 5'
-
+status: Active
+title: 'In the normal linear model with known error variance and a conjugate normal prior of precision R/σ², the design that maximizes the expected Shannon information of the posterior is the one maximizing det(nM(η) + R), Bayes D-optimality, and the design that minimizes expected quadratic loss with weight matrix A is the one minimizing tr A(nM(η) + R)^-1, Bayes A-optimality; both criteria depend on the design and not on the data, so in this model a sequential design gains nothing over the best fixed one'
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed Active from NOTE-tmpj2iwk. The reductions are Chaloner and
+    Verdinelli's §2.2 (after Lindley, Stone, DeGroot and Bernardo), and
+    the remark on sequential design is their §5.5. The displayed formulas
+    were lost in the extraction of the technical report, so all three are
+    re-derived below step by step, which meets the condition for Active
+    under ADR-047 v2.
 tags:
-- complex-systems
-
+- mathematical-statistics
+- probabilistic-modeling
 date: '2026-10-25'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-tmpi60b0
+summary: >-
+  Chaloner and Verdinelli (1995), LIT-tmpi60b0, read in NOTE-tmpj2iwk. The
+  alphabetical criteria are utilities in disguise, and the utility fixes
+  the criterion. This holds exactly only in the normal linear model with
+  known variance. With unknown variance only Bayes A keeps its simple form,
+  and in nonlinear models the criteria are approximations
+  (THEORY-tmpg6jfa). E- and G-optimality have no utility behind them.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpig9py: placeholder PM 5
+# THEORY-tmpig9py: In the normal linear model with known error variance and a conjugate normal prior of precision R/σ², the design that maximizes the expected Shannon information of the posterior is the one maximizing det(nM(η) + R), Bayes D-optimality, and the design that minimizes expected quadratic loss with weight matrix A is the one minimizing tr A(nM(η) + R)^-1, Bayes A-optimality; both criteria depend on the design and not on the data, so in this model a sequential design gains nothing over the best fixed one
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Chaloner and Verdinelli (1995), *Statistical Science* 10(3):273–304,
+LIT-tmpi60b0, §§2.1–2.2 and §5.5. Read in NOTE-tmpj2iwk from the authors'
+technical report. The derivations below are the record's, written because
+the report's displays did not survive extraction.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+Model: y | θ ~ N(Xθ, σ²I_n), σ² known, θ ∈ ℝ^k, and prior θ ~ N(θ₀, σ²R⁻¹).
+A design η puts proportion η_i of the n observations at x_i, so
+XᵀX = nM(η) = n Σ η_i x_i x_iᵀ.
+
+**The posterior.** By conjugacy, θ | y ~ N(θ*, σ²D(η)) with
+D(η) = (nM(η) + R)⁻¹ and θ* = D(η)(Xᵀy + Rθ₀). The posterior covariance
+does not involve y.
+
+**Shannon information.** The prior does not depend on η, so maximizing the
+expected Kullback–Leibler divergence from prior to posterior is maximizing
+U₁(η) = E[log p(θ | y, η)], the expectation over θ and y jointly. For a
+k-variate normal density with covariance Σ, E[log p] = −½ k log(2πe) − ½
+log det Σ. Here Σ = σ²D(η) for every y, so
+U₁(η) = −½ k log(2πeσ²) + ½ log det(nM(η) + R). The design maximizing U₁
+maximizes det(nM(η) + R).
+
+**Quadratic loss.** For loss (θ − θ̂)ᵀA(θ − θ̂) with A ⪰ 0, the Bayes
+estimate is the posterior mean, and the posterior expected loss is
+tr(A Cov(θ | y)) = σ² tr(A D(η)), again for every y. So the expected
+utility is U₂(η) = −σ² tr{A(nM(η) + R)⁻¹}. A = ccᵀ gives Bayes
+c-optimality, −σ² cᵀD(η)c.
+
+**No gain from sequencing.** Let n be fixed and let a sequential rule
+choose each x_t from the data so far. Whatever it does, the realized design
+η̂ is some measure in ℋ. The posterior utility given all the data is, up
+to constants, ½ log det(nM(η̂) + R) or −σ² tr AD(η̂), a function of η̂
+alone. Its expectation is therefore at most max_η U(η), which a fixed
+design attains.
+
+**The prior's weight.** D(η) = n⁻¹(M(η) + n⁻¹R)⁻¹. As n grows or R shrinks
+the Bayesian criteria approach the non-Bayesian det M and tr AM⁻¹. A proper
+prior keeps nM + R invertible when nM is singular, so a design need not
+identify every parameter from data alone.
+
+What could have failed: the utility could have depended on the data through
+the posterior, in which case a design criterion would need an average over
+y and would depend on θ₀. In this model the posterior covariance is free of
+y, which is why D, A and c-optimality are exact here and approximations
+elsewhere.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **Not for unknown variance.** With a normal–inverse-gamma prior the
+  Shannon and predictive utilities have no closed form (§2.5). Bayes A
+  reduces to tr(nM + R)⁻¹ times a constant independent of y, and is
+  "insensitive to the knowledge of σ²".
+- **Not for nonlinear models**, where the information matrix depends on θ
+  and the criteria are approximations (THEORY-tmpg6jfa).
+- **Not for E- or G-optimality**, which "appear not to correspond to any
+  utility function".
+- **Not that the criteria agree.** D, A and c generally select different
+  designs. The purpose of the experiment selects among them.
+
+## Connections
+
+- **QUESTION-031.** The note of 2026-10-25 uses log det G_ξ with
+  G_ξ = Σ_c ξ(c)G_c. In a linear Gaussian probe model that is exactly U₁
+  up to constants. A29's preference for a criterion that targets one
+  contrast is c- or Ds-optimality.
+- **CASE-152.** Its intervention do(b = b₀) gives G_aa = b₀². In a linear
+  model, adding that observation adds b₀² to the information about a,
+  which raises all three criteria.
+- **CASE-tmplg5jg** is not linear in this sense. Its information depends on
+  the share being estimated (THEORY-tmpg6jfa).

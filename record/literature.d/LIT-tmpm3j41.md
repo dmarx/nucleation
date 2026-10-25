@@ -1,12 +1,9 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-25, not read. Registered from the owner's exchange of
-  2026-10-24/25 (the continuation of "Review PR 327 Improvements"), shared
-  at https://chatgpt.com/share/6add7ae3-1a38-83ea-ac83-4f490e399824, where
-  it is cited at turns U29 and U30. No NOTE is filed.
+  read 2026-10-25 (NOTE-tmpfxkdt) in full, from the PMLR copy and its supplementary material; worth reading for the reduction of approachability under partial monitoring to full-information approachability in a lifted space of flags, for the optimal worst-case rates, O(T^-1/3) for general signals and O(T^-1/2) when the signal does not depend on the decision (THEORY-tmp172nr), and for the exploration floor that decision-dependent signals require (THEORY-tmpjv5er). Read it knowing that approachability is assumed rather than decided, that the guarantees concern the average payoff and so let violations be compensated over time, that optimality is worst case over games, that the constants grow with a simplicial subdivision, and that the proof for outcome-dependent signals is omitted.
 title: 'Online Learning and Blackwell Approachability with Partial Monitoring: Optimal Convergence Rates'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -27,6 +24,10 @@ history:
     filed by URL. The rates U29 gives, T^-1/2 for signals independent of
     the decision and T^-1/3 for general signals, match the abstract. The
     summary follows the abstract on the PMLR page.
+- version: 2
+  date: '2026-10-25'
+  note: >-
+    Read in full (NOTE-tmpfxkdt), from the PMLR copy and its supplement; Appendix B's lemmas were read in outline. Status Deferred → Active. The summary is checked against the reading and kept, with the target narrowed to polytopes. THEORY-tmp172nr (Proposed) and THEORY-tmpjv5er (Active, re-derived) are filed from it.
 tags:
 - learning-theory
 - game-theory
@@ -48,12 +49,14 @@ summary: >-
   convex loss, online linear optimization under a cumulative constraint).
   Under partial monitoring the decision maker does not see outcomes but a
   random signal correlated with the decision–outcome pair, or with the
-  outcome only. The paper gives the first approachability algorithms with
+  outcome only. The paper gives the first approachability algorithms for polytope
+  target sets with
   convergence rate O(T^-1/2) when the signal does not depend on the
   decision and O(T^-1/3) for general signals, and shows that these rates
   cannot be improved without further assumptions on the objectives or the
   signals (abstract).
 ---
+<!-- inactive-ok-file: THEORY-tmp172nr — Proposed; the rates as the paper states them, filed from the reading -->
 # LIT-tmpm3j41: Online Learning and Blackwell Approachability with Partial Monitoring: Optimal Convergence Rates
 
 Kwon, J. & Perchet, V. (2017). Online learning and Blackwell
@@ -62,8 +65,8 @@ approachability with partial monitoring: Optimal convergence rates. In
 Intelligence and Statistics*, PMLR 54: 604–613.
 https://proceedings.mlr.press/v54/kwon17a.html.
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+Read 2026-10-25 in full (NOTE-tmpfxkdt), from the PMLR copy and its
+supplementary material. The summary was checked against it.
 
 ## Why this is here
 

@@ -1,73 +1,106 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpg6jfa:` heading; the lint checks
-# that the two agree.
-title: 'placeholder PM 6'
-
+status: Active
+title: 'When the information a design yields depends on the unknown parameter, as in nonlinear models or nonlinear functions of linear ones, Bayesian design criteria are normal approximations to expected utility that average a local criterion over the prior, such as the expected log det of the Fisher information, and locally optimal design is the special case of a point-mass prior; a locally optimal design can leave the quantity of interest inestimable, as for the turning point of a quadratic regression on [−1, 1] with best guess ½, where the locally c-optimal design puts half its mass at 0 and half at 1 and identifies only θ₁ + θ₂'
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
+history:
+- version: 1
+  date: '2026-10-25'
+  note: >-
+    Filed Active from NOTE-tmpj2iwk. The criteria are Chaloner and
+    Verdinelli's (15), (18) and (20) and their §4.4 on local optimality.
+    The turning-point example is their §7.2. The example's optimality,
+    which the review asserts as "straightforward to show", and its
+    consequence are re-derived below by Elfving's theorem, which meets
+    the condition for Active under ADR-047 v2. The application to
+    CASE-tmplg5jg is the record's.
 tags:
-- complex-systems
-
+- mathematical-statistics
+- probabilistic-modeling
 date: '2026-10-25'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-tmpi60b0
+summary: >-
+  Chaloner and Verdinelli (1995), LIT-tmpi60b0, read in NOTE-tmpj2iwk.
+  Once the information depends on θ, no design is optimal without saying
+  which θ it is optimal for, and the prior is how that is said. The
+  approximations' accuracy is "not much known" in general. The claim that
+  optimal Bayesian designs gain support points as the prior disperses rests
+  on examples, not a theorem, and is not part of this account.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpg6jfa: placeholder PM 6
+# THEORY-tmpg6jfa: When the information a design yields depends on the unknown parameter, as in nonlinear models or nonlinear functions of linear ones, Bayesian design criteria are normal approximations to expected utility that average a local criterion over the prior, such as the expected log det of the Fisher information, and locally optimal design is the special case of a point-mass prior; a locally optimal design can leave the quantity of interest inestimable, as for the turning point of a quadratic regression on [−1, 1] with best guess ½, where the locally c-optimal design puts half its mass at 0 and half at 1 and identifies only θ₁ + θ₂
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Chaloner and Verdinelli (1995), LIT-tmpi60b0, §4.2 (approximations),
+§4.4 (local optimality), §5.1 (equivalence theorem) and §7.2 (turning
+point). Read in NOTE-tmpj2iwk. The Elfving argument below is the record's.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**The approximation (§4.2).** With the posterior approximated by
+N(θ̂, [nI(θ̂, η)]⁻¹), and the predictive distribution of θ̂ by the prior,
+expected Shannon information is −(k/2)log(2π) − k/2 + ½∫ log det{nI(θ, η)}
+p(θ) dθ. That gives the criterion φ₁(η) = ∫ log det{nI(θ, η)} p(θ) dθ.
+Squared-error loss for g(θ), with gradient c(θ), gives
+φ₂(η) = −∫ c(θ)ᵀ{nI(θ, η)}⁻¹c(θ) p(θ) dθ. These are averages of local
+criteria. With p a point mass at θ₀ they become Chernoff's locally optimal
+criteria det I(θ₀, η) and −c(θ₀)ᵀI(θ₀, η)⁻¹c(θ₀) (§4.4). Each is concave
+on the space of design measures, so the equivalence theorem certifies a
+global optimum by directional derivatives toward one-point designs (§5.1).
+
+**The turning point (§7.2), re-derived.** E[y | x] = θ₀ + θ₁x + θ₂x² on
+x ∈ [−1, 1], with f(x) = (1, x, x²). The turning point is
+g(θ) = −θ₁/(2θ₂), so ∇g = (0, −1/(2θ₂), θ₁/(2θ₂²)). At a best guess with
+g = ½, θ₁ = −θ₂, so ∇g = −(1/(2θ₂))(0, 1, 1). The local criterion is
+c-optimality for c = (0, 1, 1).
+
+- *The design.* Put mass ½ at x = 1 and ½ at x = 0. Then
+  ½·f(1) − ½·f(0) = (0, ½, ½) = c/2.
+- *Its optimality, by Elfving.* A design is c-optimal iff c/ρ is on the
+  boundary of the convex hull of {±f(x)} and is reached by its support
+  points with signs. Take h = (−1, 0, 2). Then hᵀf(x) = 2x² − 1 ∈ [−1, 1] on
+  [−1, 1], so the hyperplane hᵀz = 1 supports the hull. And hᵀ(c/2) = 1,
+  with hᵀf(1) = 1 and hᵀ(−f(0)) = 1, so c/2 lies on the face reached by
+  +f(1) and −f(0). The design is c-optimal, with ρ = 2 and asymptotic
+  variance 4σ²/n for cᵀθ. The only other point where |2x² − 1| = 1 is
+  x = −1. Writing c/2 as a combination of +f(1), +f(−1) and −f(0) forces
+  the weight on f(−1) to zero, so the optimal design is unique.
+- *What it estimates.* M(η) = ½f(0)f(0)ᵀ + ½f(1)f(1)ᵀ has rank 2, with range
+  spanned by (1, 0, 0) and (1, 1, 1). Only θ₀ and θ₀ + θ₁ + θ₂ are
+  identified, so θ₁ + θ₂ is too. That is enough for the linear function
+  cᵀθ but not for the turning point −θ₁/(2θ₂), which needs θ₁ and θ₂
+  separately. As the review says, "it is clearly impossible to fit a
+  quadratic regression to two data points and estimate the turning point."
+
+What could have failed: the locally optimal design for a nonlinear function
+might have been estimable whenever its linearization is, as in linear
+c-optimality, where cᵀθ "is always estimable". The example shows that the
+linearization at the guess can be estimable while the function is not.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **Not that Bayesian designs always avoid the failure.** A prior spread
+  over θ moves the c(θ) being averaged and so tends to add support points.
+  The review shows this in examples (Chaloner and Larntz) and says "It is
+  unclear, however, under what circumstances this is so."
+- **Not how good the approximations are.** "Not much is known in general
+  about how well these criteria ... perform empirically." Simulations are
+  cited for special cases only.
+- **Not anything about sequential design** beyond the review's argument
+  that nonlinear problems should gain from it (§5.5).
+
+## Connections
+
+- **CASE-tmplg5jg.** The mixture response p_π = Σ πᵢpᵢ is linear in π, but
+  its Fisher information is not constant: I_rare(π) = 0.64/(p(1 − p)) with
+  p = 0.1 + 0.8π. So designing probes for authority shares is a nonlinear
+  design problem in this sense. A design must be judged at a guess of π or
+  averaged over a prior on it. In the two-specialist case the choice does
+  not depend on π, because the routine context carries zero information at
+  every π. With more processes it does, and the equivalence theorem
+  certifies the optimum (NOTE-tmpj2iwk computes one).
+- **QUESTION-031.** A criterion averaged over a prior answers "which
+  probes, given what we expect", not "which probes separate". The turning
+  point example is a case where the best probes for a linearized question
+  fail the real one.
+- **THEORY-tmpig9py** is the linear case, where none of this arises.
