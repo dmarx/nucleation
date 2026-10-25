@@ -216,12 +216,12 @@ Note of 2026-10-25 below.
 
 ## Note of 2026-10-25: Isaac's dynamical structure
 
-Isaac (LIT-1361), read in NOTE-tmpn1hle, gives the dynamical structure
+Isaac ([LIT-1361](../literature.d/LIT-1361.md)), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md), gives the dynamical structure
 as a vector field of competing valences and affordances over one
 experienced space (the hot handle's invitation and the remembered heat's
 repulsion felt together). It has no cover, local sections or gluing
 condition, and forces in a field superpose, which is globally
 consistent. So it is material for a kind-(1) reading of felt conflict,
 one global state holding both sides, not a model of kind (2). Its two
-co-present levels of colour experience (THEORY-tmpt62hk) are another
+co-present levels of colour experience ([THEORY-tmpt62hk](../theory.d/THEORY-tmpt62hk.md)) are another
 kind-(1) case. The inference is the record's. The question is unchanged.

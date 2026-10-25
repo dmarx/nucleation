@@ -255,8 +255,8 @@ is experiential.
 
 ## Note of 2026-10-25: Isaac's invariants
 
-Isaac (LIT-1361), read in NOTE-tmpn1hle, is the reason the record filed
-the paper here. Its group-theoretic layer (THEORY-tmpt62hk) offers a
+Isaac ([LIT-1361](../literature.d/LIT-1361.md)), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md), is the reason the record filed
+the paper here. Its group-theoretic layer ([THEORY-tmpt62hk](../theory.d/THEORY-tmpt62hk.md)) offers a
 structural mark of a perspective: a varying level of appearance and an
 invariant level abstracted from it, present together in one experience,
 which after Cassirer it takes to separate subject from object. It gives

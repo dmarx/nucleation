@@ -36,7 +36,7 @@ date: '2026-10-25'
 source:
 - LIT-1361
 summary: >-
-  Isaac (2025), LIT-1361, read in NOTE-tmpn1hle: the group-theoretic layer
+  Isaac (2025), [LIT-1361](../literature.d/LIT-1361.md), read in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md): the group-theoretic layer
   of a structuralist account of experience. The paper's evidence supports
   the weaker half: constancy needs invariance under transformations
   internal to experience. The stronger half, that this invariance is what
@@ -52,8 +52,8 @@ summary: >-
 
 ## Source
 
-Isaac (2025), *Philosophy and the Mind Sciences* 6, LIT-1361, read in full
-in NOTE-tmpn1hle from the publisher's open-access PDF. §2.2 ("Perceptual
+Isaac (2025), *Philosophy and the Mind Sciences* 6, [LIT-1361](../literature.d/LIT-1361.md), read in full
+in [NOTE-tmpn1hle](../notes.d/NOTE-tmpn1hle.md) from the publisher's open-access PDF. §2.2 ("Perceptual
 constancies: Group-theoretic structure") with footnotes 3–8 and Figure 1,
 and §3 with the Cassirer quotation and Figure 3. The argument for
 objectivity is Cassirer's, "The concept of group and the theory of
@@ -139,19 +139,19 @@ show the second half false.
 
 ## Connections
 
-- **QUESTION-254 and CLAIM-412.** The record filed the paper for this
+- **[QUESTION-254](../questions.d/QUESTION-254.md) and [CLAIM-412](../claims.d/CLAIM-412.md).** The record filed the paper for this
   layer, as a candidate for what a perspective adds to an interpretation.
   It offers a structural mark of perspective, a varying level and an
   invariant level present together, and no criterion that would keep a
   perspective-free invariant extractor out. So it narrows the question
-  and does not answer it. CLAIM-411's gap, why any such organization is
+  and does not answer it. [CLAIM-411](../claims.d/CLAIM-411.md)'s gap, why any such organization is
   conscious, is outside it.
-- **THEORY-880.** Lyre's similarity structuralism places an experience by
+- **[THEORY-880](THEORY-880.md).** Lyre's similarity structuralism places an experience by
   its position in a quality space. This account adds a layer above the
   geometry that Lyre lacks, and denies that geometry alone generates
-  meaning. THEORY-867's finding that colour-space geometry does not mark
+  meaning. [THEORY-867](THEORY-867.md)'s finding that colour-space geometry does not mark
   the unique hues does not touch it.
-- **QUESTION-255.** The two levels are a case of one experience holding
+- **[QUESTION-255](../questions.d/QUESTION-255.md).** The two levels are a case of one experience holding
   two incompatible-seeming descriptions of the same surface (different
   and the same colour), which is not a gluing failure: one global state
   holds both, indexed by level. The reading is the record's.
