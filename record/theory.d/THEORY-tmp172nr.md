@@ -25,7 +25,7 @@ date: '2026-10-25'
 source:
 - LIT-tmpm3j41
 summary: >-
-  Kwon and Perchet (2017), LIT-tmpm3j41, read in NOTE-tmpfxkdt. The rates
+  Kwon and Perchet (2017), [LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md), read in [NOTE-tmpfxkdt](../notes.d/NOTE-tmpfxkdt.md). The rates
   are for the average payoff's distance to the target, uniformly over
   Nature's choices, with approachability assumed (Perchet's condition).
   Optimal means not improvable in the worst case over games. It gives no
@@ -38,8 +38,8 @@ summary: >-
 
 ## Source
 
-Kwon and Perchet (2017), AISTATS, PMLR 54:604–613, LIT-tmpm3j41, Theorems
-4.1 and 4.3, read in NOTE-tmpfxkdt with the supplementary material.
+Kwon and Perchet (2017), AISTATS, PMLR 54:604–613, [LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md), Theorems
+4.1 and 4.3, read in [NOTE-tmpfxkdt](../notes.d/NOTE-tmpfxkdt.md) with the supplementary material.
 
 ## What was actually shown
 
@@ -68,10 +68,10 @@ costs approachability no more than it costs regret, in the worst case.
 
 - **Not a rate for every game.** "Cannot be improved" is worst case over
   signal structures. A particular game can do better, as Bartók et al.'s
-  locally observable games do for regret (THEORY-tmpz3a05).
+  locally observable games do for regret ([THEORY-tmpz3a05](THEORY-tmpz3a05.md)).
 - **Not a per-stage or windowed guarantee.** The average is compensatory:
   a coordinate alternating +1 and −1 has average 0 ∈ C and is approached
-  while violated on half the stages. This is CLAIM-357's caution.
+  while violated on half the stages. This is [CLAIM-357](../claims.d/CLAIM-357.md)'s caution.
 - **Not when the target is unapproachable.** Approachability is assumed.
   Perchet's characterization is cited, not proved or made checkable.
 - **Not with unknown signal laws, or laws that change.**
@@ -80,10 +80,10 @@ costs approachability no more than it costs regret, in the worst case.
 
 ## Connections
 
-- **CLAIM-357.** The record's one-shot target {z : z_i ≤ 0} is this
+- **[CLAIM-357](../claims.d/CLAIM-357.md).** The record's one-shot target {z : z_i ≤ 0} is this
   theorem's C. Its worst residual is a max. The approachability distance
   is the ℓ₂ norm of the positive part of the average.
-- **THEORY-tmpz3a05.** The same exponents in average form: √T regret is
+- **[THEORY-tmpz3a05](THEORY-tmpz3a05.md).** The same exponents in average form: √T regret is
   T^{−1/2}, T^{2/3} is T^{−1/3}.
-- **THEORY-tmpjv5er.** The floor in the general algorithm, and why the
+- **[THEORY-tmpjv5er](THEORY-tmpjv5er.md).** The floor in the general algorithm, and why the
   outcome-dependent case needs none.

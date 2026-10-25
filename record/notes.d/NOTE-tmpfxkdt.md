@@ -95,7 +95,7 @@ decision.
   f̂_t = (1{i_t = i} δ_{s_t} / P[i_t = i | G_t])_{i∈I}.
 - **Lemma A.4.** f̂_t is conditionally unbiased for the flag, with
   E[‖f̂_t‖² | G_t] ≤ |I|²/γ and ‖f̂_t‖² ≤ |I|²/γ² almost surely
-  (re-derived in THEORY-tmpjv5er).
+  (re-derived in [THEORY-tmpjv5er](../theory.d/THEORY-tmpjv5er.md)).
 - **Theorem 4.1.** With η = √(γ/(T|I|²)) and
   γ = min{(11 L_r |I||K||A| / (4‖g‖))^{2/3} T^{−1/3}, 1}, against any
   choices of Nature, E[d₂(ḡ_T, ℝ^d_−)] ≤ 12‖g‖^{1/3}(L_r|I||K||A|)^{2/3}T^{−1/3}
@@ -144,14 +144,14 @@ monitoring. Rustichini (1999), Mannor and Shimkin (2003), Lugosi, Mannor
 and Stoltz (2008) and Perchet (2011b) for the regret line. Mannor, Perchet
 and Stoltz (2014b) for the representative r and the subdivision, whose
 block averaging this paper removes. Rambau and Ziegler (1996) for the
-simplicial subdivision. Bartók et al. (2014, LIT-tmpwpq36) is cited for the
+simplicial subdivision. Bartók et al. (2014, [LIT-tmpwpq36](../literature.d/LIT-tmpwpq36.md)) is cited for the
 regret classification. Read the other way, the paper gives that
 classification's rates in average form: √T regret is T^{−1/2} average,
 and T^{2/3} is T^{−1/3}.
 
 ## Bearing on the record
 
-- **CLAIM-357's note of 2026-10-25, checked.** The note says the claim's
+- **[CLAIM-357](../claims.d/CLAIM-357.md)'s note of 2026-10-25, checked.** The note says the claim's
   worst residual is a one-shot test against {z : z_i ≤ 0 for every i},
   and that approachability is the repeated version. That set is exactly
   the paper's target, ℝ^d_−, and d₂(z, ℝ^d_−) = ‖z₊‖₂, the Euclidean norm
@@ -164,19 +164,19 @@ and T^{2/3} is T^{−1/3}.
   perfectly while violated half the time. The note is accurate. The paper
   gives no guarantee for windows or individual stages, and none should be
   read into it.
-- **CLAIM-446 and QUESTION-271: the floor, exactly.** In the general
+- **[CLAIM-446](../claims.d/CLAIM-446.md) and [QUESTION-271](../questions.d/QUESTION-271.md): the floor, exactly.** In the general
   algorithm every decision is played with probability at least γ/|I|,
   because the flag component of a decision is observed only when that
   decision is played. The tuned floor shrinks as T^{−1/3}. When the signal
   does not depend on the decision, the floor is removed (Theorem 4.3). The
   approach–avoid game has decision-dependent signals, since avoid shows
-  nothing, so it is in the floor-needing case. This is THEORY-tmpjv5er.
-  It is the same structure as COMA's floor (THEORY-925), with the variance
+  nothing, so it is in the floor-needing case. This is [THEORY-tmpjv5er](../theory.d/THEORY-tmpjv5er.md).
+  It is the same structure as COMA's floor ([THEORY-925](../theory.d/THEORY-925.md)), with the variance
   cost made explicit: Σ_i 1/P[i_t = i].
-- **NOTE-1142, LIT-1521.** Hart and Mas-Colell use approachability of the
+- **[NOTE-1142](NOTE-1142.md), [LIT-1521](../literature.d/LIT-1521.md).** Hart and Mas-Colell use approachability of the
   negative orthant by the regret vector. This paper is that construction
   when the regret vector cannot be observed.
-- **THEORY-tmpz3a05.** Read for regret, the two papers agree on the rates
+- **[THEORY-tmpz3a05](../theory.d/THEORY-tmpz3a05.md).** Read for regret, the two papers agree on the rates
   (§1's summary of Bartók et al.).
 
 No instruction for ML practice. The anthology-candidate flag on the LIT
@@ -190,7 +190,7 @@ stands.
   simplices and vertices, which can be large, and the subdivision is
   constructed once by an unspecified procedure.
 - **Average-payoff guarantees only.** Nothing for per-stage or windowed
-  constraints, which is the gap CLAIM-357's note points to.
+  constraints, which is the gap [CLAIM-357](../claims.d/CLAIM-357.md)'s note points to.
 - **The outcome-dependent proof is omitted**, said to follow the general
   one.
 - **Optimality is worst-case over games.** For a particular game the

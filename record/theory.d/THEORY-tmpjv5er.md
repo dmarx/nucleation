@@ -19,7 +19,7 @@ date: '2026-10-25'
 source:
 - LIT-tmpm3j41
 summary: >-
-  Kwon and Perchet (2017), LIT-tmpm3j41, read in NOTE-tmpfxkdt. Under
+  Kwon and Perchet (2017), [LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md), read in [NOTE-tmpfxkdt](../notes.d/NOTE-tmpfxkdt.md). Under
   decision-dependent partial monitoring, information about a decision's
   signal comes only from playing it, and its unbiased estimate costs
   variance inversely proportional to the probability of playing it. A
@@ -32,9 +32,9 @@ summary: >-
 
 ## Source
 
-Kwon and Perchet (2017), LIT-tmpm3j41, §4.1 (the algorithm), Lemma A.4 of the
+Kwon and Perchet (2017), [LIT-tmpm3j41](../literature.d/LIT-tmpm3j41.md), §4.1 (the algorithm), Lemma A.4 of the
 supplement (the estimate), Theorem 4.1 (γ) and §4.3 (outcome-dependent
-signals). Read in NOTE-tmpfxkdt. The derivation below follows Lemma A.4.
+signals). Read in [NOTE-tmpfxkdt](../notes.d/NOTE-tmpfxkdt.md). The derivation below follows Lemma A.4.
 
 ## What was actually shown
 
@@ -75,34 +75,34 @@ stages the estimate recovered both flags, approach's (0.3, 0.7) to within
 What could have failed: the decision maker might have been able to infer
 an unplayed decision's flag component from the others. In general it
 cannot, since Nature's mixed actions that agree on the played components
-can differ on the rest. THEORY-tmpwtj3m's kernel construction is the
+can differ on the rest. [THEORY-tmpwtj3m](THEORY-tmpwtj3m.md)'s kernel construction is the
 finite case.
 
 ## What this does not say
 
 - **Not that a floor is the only device.** Bartók et al.'s CBP, against
   stochastic opponents, samples informative actions as confidence widths
-  demand and has no fixed floor (NOTE-tmpupizd). The floor is this
+  demand and has no fixed floor ([NOTE-tmpupizd](../notes.d/NOTE-tmpupizd.md)). The floor is this
   algorithm's device for adversarial Nature.
 - **Not that the floor must be uniform.** It is uniform for simplicity. The
   variance depends on Σ_i 1/P[i_t = i], so only the decisions whose signals
   matter need protecting.
 - **Not a prescription for organizations or people.** That defensive
-  authority removing approach is a zero floor is CLAIM-446's reading.
+  authority removing approach is a zero floor is [CLAIM-446](../claims.d/CLAIM-446.md)'s reading.
 - **Not that the T^{−1/3} rate is caused by the floor alone.** The rate is
   proved for this algorithm and matches a lower bound. Lemma A.4 is one of
   its parts.
 
 ## Connections
 
-- **CLAIM-446.** Its evidence-access correction is a positive floor on
+- **[CLAIM-446](../claims.d/CLAIM-446.md).** Its evidence-access correction is a positive floor on
   approach. The approach–avoid signals are decision-dependent, so the
   general case applies.
-- **THEORY-932, THEORY-925.** The same frequency factor. THEORY-932's
+- **[THEORY-932](THEORY-932.md), [THEORY-925](THEORY-925.md).** The same frequency factor. [THEORY-932](THEORY-932.md)'s
   expected update scales with how often an option is chosen, and COMA keeps
   a probability floor for this reason. Here the cost is explicit, as the
   variance Σ 1/P.
-- **QUESTION-271.** When feedback is bandit-like, information about an
+- **[QUESTION-271](../questions.d/QUESTION-271.md).** When feedback is bandit-like, information about an
   untried process costs exploration. When it is outcome-dependent, it does
   not.
-- **THEORY-tmp172nr.** The rates this estimate serves.
+- **[THEORY-tmp172nr](THEORY-tmp172nr.md).** The rates this estimate serves.
