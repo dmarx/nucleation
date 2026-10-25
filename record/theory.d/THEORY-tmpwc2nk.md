@@ -30,7 +30,7 @@ summary: >-
   strategies, which the reader found it lacks.
 ---
 <!-- inactive-ok-file: NOTE-tmpxufhw — the reading this is filed from -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 THEORY-896 — Proposed; named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-451 THEORY-896 — Proposed; named in prose, nothing here rests on them -->
 
 # THEORY-tmpwc2nk: The α-Rank chain over pure strategy profiles, built from Fermi-imitation fixation probabilities in finite populations with rare mutation, has a unique stationary distribution at every finite ranking intensity; as the intensity grows without bound its transitions become those of Markov chains confined to the sink strongly connected components of the game's weakly-better-response graph, each of which lies inside a single chain component of the replicator flow
 
@@ -83,6 +83,6 @@ could have avoided the pure profiles altogether.
 
 The discrete form of its Conley reading is the condensation of a win
 digraph, acyclic and so always carrying an ordinal potential, with MCCs as
-its sinks. That bears on how [TERM-077](../terms.d/TERM-077.md) and [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) treat cyclic
+its sinks. That bears on how [TERM-077](../terms.d/TERM-077.md) and [CLAIM-451](../claims.d/CLAIM-451.md) treat cyclic
 records. In a game with [THEORY-896](THEORY-896.md)'s finite improvement property and no payoff
 ties, every MCC is a single profile, a pure equilibrium ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md)).

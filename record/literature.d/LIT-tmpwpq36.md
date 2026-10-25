@@ -52,7 +52,7 @@ summary: >-
   efficient algorithms attain it within a logarithmic factor, with
   individual bounds on expected regret for i.i.d. outcomes (abstract).
 ---
-<!-- inactive-ok-file: CLAIM-tmp8z857 — Proposed; the claim the exchange applied this theory to, named, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim the exchange applied this theory to, named, nothing here rests on it -->
 # LIT-tmpwpq36: Partial Monitoring—Classification, Regret Bounds, and Algorithms
 
 Bartók, G., Foster, D. P., Pál, D., Rakhlin, A. & Szepesvári, C. (2014).
@@ -74,7 +74,7 @@ can access, and U31 built experiments on it. The record had no work on
 partial monitoring. It bears on [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md) (bandit against
 full-information evaluation of an organization's processes) and on
 [CASE-124](../cases.d/CASE-124.md) (what responses can distinguish). The exchange applied it to
-[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s avoid/approach example; read as a partial-monitoring game
+[CLAIM-446](../claims.d/CLAIM-446.md)'s avoid/approach example; read as a partial-monitoring game
 that example is locally observable, so the failure lies in the policy's
 not sampling approach, not in the feedback, as the dated note of
 2026-10-25 on that claim says. The audited-governance study [CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md)

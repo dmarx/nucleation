@@ -94,7 +94,7 @@ Processing Systems 31* (NeurIPS 2018) — arXiv:1806.02643
 
 Filed 2026-10-24 for the record's governance line, as a scoring rule
 designed so that padding the evaluated population cannot buy a ranking. It
-bears on [CASE-124](../cases.d/CASE-124.md)'s μ route and [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s share-dependent score c, and
+bears on [CASE-124](../cases.d/CASE-124.md)'s μ route and [CASE-155](../cases.d/CASE-155.md)'s share-dependent score c, and
 its Hodge reading bears on [TERM-077](../terms.d/TERM-077.md) and [THEORY-894](../theory.d/THEORY-894.md) ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)). It
 carries `anthology-candidate` because it is a method for evaluating ML
 agents. It is filed for understanding, not as an instruction for practice.

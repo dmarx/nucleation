@@ -28,7 +28,7 @@ summary: >-
   is not invariant to copies.
 ---
 <!-- inactive-ok-file: THEORY-tmpwc2nk — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 CLAIM-tmp1xoac CLAIM-tmp8z857 CLAIM-tmp28sti THEORY-896 — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-451 CLAIM-444 CLAIM-446 CLAIM-445 THEORY-896 — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpxufhw: Omidshafiei et al. — α-Rank: multi-agent evaluation by evolution
 
@@ -176,7 +176,7 @@ show that the ranking survives it. Selection is moved into the choice of α, not
 
 ## How it bears on the record
 
-- **[TERM-077](../terms.d/TERM-077.md), [THEORY-896](../theory.d/THEORY-896.md) and [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md): what order there is when wins
+- **[TERM-077](../terms.d/TERM-077.md), [THEORY-896](../theory.d/THEORY-896.md) and [CLAIM-451](../claims.d/CLAIM-451.md): what order there is when wins
   cycle.** The paper's sentence on Conley has an exact discrete form that
   the record can use. Collapse each strongly connected component of the
   record's win digraph to a point. The quotient, the condensation, is
@@ -184,7 +184,7 @@ show that the ranking survives it. Selection is moved into the choice of α, not
   its sinks. So a cyclic record always has a potential at one level up,
   with nonintegrability confined inside the components. This is standard
   graph theory and is not proved in the paper, which proves the
-  continuous analogue by citation. Two consequences for [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md).
+  continuous analogue by citation. Two consequences for [CLAIM-451](../claims.d/CLAIM-451.md).
   First, the claim's degree of nonintegrability, the minimum feedback-arc
   fraction, and the component structure are different facts: one large
   component can need very few reversals. Second, α-Rank sees only the
@@ -194,13 +194,13 @@ show that the ranking survives it. Selection is moved into the choice of α, not
   equilibrium. Games whose sinks are all singletons are the paper's
   "weakly acyclic games", where it says its concept agrees with Young's
   conventions. **Supports [TERM-077](../terms.d/TERM-077.md)'s ordinal reading, and refines
-  [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md): the claim should say at which level, components or the
+  [CLAIM-451](../claims.d/CLAIM-451.md): the claim should say at which level, components or the
   quotient between them, its cycles lie.**
-- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** α-Rank's chain is the
+- **[CASE-155](../cases.d/CASE-155.md) and [CLAIM-444](../claims.d/CLAIM-444.md).** α-Rank's chain is the
   finite-population, rare-mutation imitation dynamic. Its stationary
   distribution is the "how hard each regime is to leave" measure that
-  [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md) lists among the replicator tools. But its fitness is
-  local, so it cannot represent [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s share-dependent scoring.
+  [CLAIM-444](../claims.d/CLAIM-444.md) lists among the replicator tools. But its fitness is
+  local, so it cannot represent [CASE-155](../cases.d/CASE-155.md)'s share-dependent scoring.
   The lock-in of that case's part 4 needs fitness that depends on π.
   **Narrows: a ready tool for the claim's stochastic-stability item, not
   for the lock-in item.**
@@ -208,7 +208,7 @@ show that the ranking survives it. Selection is moved into the choice of α, not
   a strategy promotes whatever beats it. As a scoring layer it can be
   captured the way Elo can, unlike Nash averaging and population value.
   **Complicates any reading of α-Rank as a neutral ranking.**
-- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) and [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).** An MCC is a set of regimes that
+- **[CLAIM-446](../claims.d/CLAIM-446.md) and [CLAIM-445](../claims.d/CLAIM-445.md).** An MCC is a set of regimes that
   no single improving deviation leaves. That is a formal sense of a
   self-maintaining regime, in which the regime is a sink and not
   necessarily an optimum. In the biased game, a sink includes strategies

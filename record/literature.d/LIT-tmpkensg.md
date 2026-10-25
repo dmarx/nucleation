@@ -62,7 +62,7 @@ summary: >-
   which they beat earlier COIN utilities, the team game and "perhaps the
   most natural version" of endogenizing externalities (abstract, RePEc).
 ---
-<!-- inactive-ok-file: CLAIM-tmp8z857 — Proposed; the claim the lead registered this for, named, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim the lead registered this for, named, nothing here rests on it -->
 
 # LIT-tmpkensg: Optimal Payoff Functions for Members of Collectives
 
@@ -85,7 +85,7 @@ should start there.
 Registered 2026-10-24 for difference rewards, the Wonderful Life Utility:
 the world utility minus its value with one member's contribution removed.
 The lead read it as answering "what if this process had not acted", for
-[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s identifiability and [QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md)'s unheeded
+[CLAIM-446](../claims.d/CLAIM-446.md)'s identifiability and [QUESTION-270](../questions.d/QUESTION-270.md)'s unheeded
 processes. COMA ([LIT-tmpqx5wu](LIT-tmpqx5wu.md)) cites it as the source of its
 counterfactual baseline and of the "aristocrat utility". What the report
 shows about the question is in [NOTE-tmpo0w02](../notes.d/NOTE-tmpo0w02.md).

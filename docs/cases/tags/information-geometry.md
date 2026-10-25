@@ -6,8 +6,8 @@
 
 **Information geometry** — the geometry of statistical models — the Fisher information as a metric, natural gradient, curvature and its Kronecker and block structure, and the spectra of Fisher and Hessian matrices in learned models (ADR-026).
 
-0 of 151 CASE documents. Back to the [full index](../README.md).
+1 of 156 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-152](../../../record/cases.d/CASE-152.md) | Absent attempt or unresponsive receiver: with Y ∼ N(ab, 1), a the strength of an attempted influence and b the receiver's responsiveness, the settings (a, b) = (0, 1) and (1, 0) give the same response distribution; K(a, b) = a²b²/2, the Fisher matrix has rank at most one and vanishes at the origin, and the real log canonical threshold is ½ with multiplicity 2, not the regular d/2 = 1, while changing b with a held fixed separates the two | The construction from the exchange of 2026-10-24 (workbench entry of 2026-10-24, U27), checked when filed. A two-parameter response model in which the observation depends on a product, the smallest singular model with a communicative reading. It shows a missing response failing to say whether nothing was attempted or nothing was taken up. | Active |

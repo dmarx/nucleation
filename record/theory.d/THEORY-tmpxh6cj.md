@@ -27,7 +27,7 @@ summary: >-
   nested by hull can still beat one another in a cycle.
 ---
 <!-- inactive-ok-file: NOTE-tmp8gje5 — the reading this is filed from -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 — Proposed; named in prose, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
 # THEORY-tmpxh6cj: The value of the zero-sum game between two populations' evaluation matrices does not depend on which Nash equilibrium is used, is unchanged by adding agents that behave as mixtures of existing members, and is not positive for a population whose agents are all behavioural mixtures of the other's
 
@@ -78,5 +78,5 @@ are duplicated. This one does not.
 Of the scoring rules in this group it is the one that a padded
 population cannot move without any further condition. Compare
 [THEORY-tmpzogk3](THEORY-tmpzogk3.md), which needs a unique equilibrium and covers exact copies
-only. For [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) it is the formal shape of relief by mixing:
+only. For [CLAIM-451](../claims.d/CLAIM-451.md) it is the formal shape of relief by mixing:
 evaluate the portfolio, not the option ([NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md)).

@@ -56,9 +56,9 @@ summary: >-
   which rule class real readers have.
 illustrated_by:
 - CASE-062
-- CASE-tmpswmo9
+- CASE-154
 supports:
-- CLAIM-tmprfgwn
+- CLAIM-450
 ---
 <!-- inactive-ok-file: CLAIM-050 CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->

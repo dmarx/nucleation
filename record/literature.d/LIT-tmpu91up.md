@@ -21,7 +21,7 @@ history:
   note: >-
     Filed and read 2026-10-24 for the owner's question of how the record
     stands on multi-agent learning, for its bearing on scoring without an
-    objective metric (CASE-tmpw4r7u). Citation checked against Crossref:
+    objective metric (CASE-155). Citation checked against Crossref:
     Management Science 51(9): 1359–1373, issue September 2005, which gives
     the month only, so `published:` is 2005-09-01, meaning September 2005
     (ADR-002). Read in full from the authors' final pre-publication draft
@@ -60,7 +60,7 @@ summary: >-
   equilibria also exist, and collusion, risk aversion, unmodelled private
   signals and trust in the center are named limits.
 ---
-<!-- inactive-ok-file: NOTE-tmp0qrjw THEORY-tmpx9mep CLAIM-tmp0qupq — filed from this reading, and the claim it bears on, named -->
+<!-- inactive-ok-file: NOTE-tmp0qrjw THEORY-tmpx9mep CLAIM-443 — filed from this reading, and the claim it bears on, named -->
 
 # LIT-tmpu91up: Eliciting Informative Feedback: The Peer-Prediction Method
 
@@ -94,5 +94,5 @@ Miller, N., Resnick, P. & Zeckhauser, R. (2005). Eliciting informative feedback:
 
 Filed on 2026-10-24 for the record's governance line, as a mechanism that
 scores evaluators when there is no objective metric. It bears on the
-authority-dependent scoring term of [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and on [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s
+authority-dependent scoring term of [CASE-155](../cases.d/CASE-155.md) and on [CLAIM-443](../claims.d/CLAIM-443.md)'s
 worry that what is rewarded entrenches ([NOTE-tmp0qrjw](../notes.d/NOTE-tmp0qrjw.md)). Filed [THEORY-tmpx9mep](../theory.d/THEORY-tmpx9mep.md).

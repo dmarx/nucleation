@@ -11,22 +11,22 @@ tags:
 date: '2026-10-25'
 line: distributed-agency
 variant_of:
-- CASE-tmpj2xb7
+- CASE-152
 illustrates:
-- CLAIM-tmprfgwn
-- CLAIM-tmp1xoac
+- CLAIM-450
+- CLAIM-444
 summary: >-
   From the continuation of the exchange of 2026-10-24 (U28–U31), where it
   appears in four replies (A28 §3, A29's second priority, A30 §6A and
   A31's probe diagnostic); checked when filed. The categorical metric on
   authority shares is the one in which the replicator is a gradient flow
-  ([CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)). What an evaluator sees is the response mixture, whose
+  ([CLAIM-444](../claims.d/CLAIM-444.md)). What an evaluator sees is the response mixture, whose
   Fisher metric is that metric pulled back through the processes' response
   profiles. Redistribution between processes that agree on the probes is
   invisible to them, and a probe on which they disagree restores it. The
-  mixture counterpart of [CASE-tmpj2xb7](CASE-tmpj2xb7.md)'s product model.
+  mixture counterpart of [CASE-152](CASE-152.md)'s product model.
 ---
-<!-- inactive-ok-file: CLAIM-tmprfgwn CLAIM-tmp1xoac — Proposed; the claims this construction illustrates, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-450 CLAIM-444 — Proposed; the claims this construction illustrates, nothing here rests on their being settled -->
 
 # CASE-tmplg5jg: Authority geometry and response geometry: when an organization's response is the authority-weighted mixture p_π(y | c) = Σ πᵢ pᵢ(y | c), the Fisher metric of its responses is the pullback JᵀD⁻¹J of the categorical (Shahshahani) metric on the shares π and never exceeds it; it vanishes along any redistribution between processes that respond alike under the probes used, so two specialists who both answer yes with probability 0.8 in routine contexts carry no information about their shares there, while a rare context in which they answer 0.9 and 0.1 carries 0.64/(p(1 − p)) per observation, p = 0.1 + 0.8π
 
@@ -35,20 +35,20 @@ summary: >-
 A stipulated toy. An organization's processes i = 1, …, k hold authority
 shares π on the simplex. Under a probe context c, process i would respond
 with pᵢ(y | c), and the organization's response is the mixture
-p_π(y | c) = Σ πᵢ pᵢ(y | c). That is [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)'s mixture condition.
+p_π(y | c) = Σ πᵢ pᵢ(y | c). That is [CLAIM-444](../claims.d/CLAIM-444.md)'s mixture condition.
 The profiles pᵢ are known; only π is to be learned.
 
 - **Authority geometry.** If the evaluator saw which process answered, the
   Fisher metric on π would be the categorical one,
   g(v, w) = Σ vᵢwᵢ/πᵢ on tangent vectors (Σ vᵢ = 0). That is the
   Shahshahani metric, in which the replicator ascends a potential with
-  dΦ/dt = Var_π(q) ([CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md), [CASE-tmpw4r7u](CASE-tmpw4r7u.md) part 3).
+  dΦ/dt = Var_π(q) ([CLAIM-444](../claims.d/CLAIM-444.md), [CASE-155](CASE-155.md) part 3).
 - **Response geometry.** Seeing only y, the metric is the pullback
   G_resp = Jᵀ diag(p_π)⁻¹ J, where J = ∂p_π/∂π along the simplex. Its
   columns are differences of the processes' profiles.
 - **Never more.** The response y is the process index passed through a
   channel that does not depend on π, so G_resp ⪯ G_auth. That is
-  [CLAIM-tmprfgwn](../claims.d/CLAIM-tmprfgwn.md)'s garbling inequality, applied to π.
+  [CLAIM-450](../claims.d/CLAIM-450.md)'s garbling inequality, applied to π.
 - **Redundancy.** If p₁(· | c) = p₂(· | c) for every probe used, then
   Jv = 0 for v = e₁ − e₂, so g_auth(v, v) > 0 while G_resp(v, v) = 0. With
   π = (0.3, 0.7) the two values are 4.76 and 0.
@@ -90,7 +90,7 @@ geometry in which evidence about it arrives.
 ## What it cannot show
 
 - Anything when the profiles pᵢ are themselves unknown. The model is then
-  singular where they coincide, and [CASE-tmpj2xb7](CASE-tmpj2xb7.md)'s analysis applies, not
+  singular where they coincide, and [CASE-152](CASE-152.md)'s analysis applies, not
   this one. A31: "we'd have to analyze the fitted likelihood rather than
   assume singularity implies a particular learning coefficient."
 - That choosing probes well removes the problem. Probes on which the

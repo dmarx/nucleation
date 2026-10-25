@@ -105,8 +105,8 @@ arXiv:1903.01373, doi:10.1038/s41598-019-45619-9
 Filed 2026-10-24 for the record's cycles and governance lines. Its
 Conley reading, a potential always exists once each recurrent class is
 collapsed to a point, is the dynamical form of a question [TERM-077](../terms.d/TERM-077.md) and
-[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) leave open: what order there is when wins cycle. Its chain
-is the finite-population replicator that [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)
+[CLAIM-451](../claims.d/CLAIM-451.md) leave open: what order there is when wins cycle. Its chain
+is the finite-population replicator that [CASE-155](../cases.d/CASE-155.md) and [CLAIM-444](../claims.d/CLAIM-444.md)
 read as authority ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md)). It carries `anthology-candidate`
 because it is a method for evaluating ML agents. It is filed for
 understanding, not as an instruction for practice.

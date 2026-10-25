@@ -64,5 +64,5 @@ readout ℓ·x on which [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md) turns the p
 coordinate into an Ornstein–Uhlenbeck process. The record reads the model
 through later work: Golub and Jackson's naïve learning ([LIT-999](LIT-999.md),
 [THEORY-321](../theory.d/THEORY-321.md)), the DeGroot–Friedkin model of Jia et al. ([LIT-1146](LIT-1146.md)) and
-Friedkin, Jia and Bullo ([LIT-tmpan19p](LIT-tmpan19p.md)). The paper they all start from was
+Friedkin, Jia and Bullo ([LIT-1482](LIT-1482.md)). The paper they all start from was
 not held.

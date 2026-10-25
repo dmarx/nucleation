@@ -72,5 +72,5 @@ Filed on 2026-10-24 with Miller, Resnick and Zeckhauser's peer-prediction
 method ([LIT-tmpu91up](LIT-tmpu91up.md)) as the other answer to scoring evaluators without
 an objective metric. Its criterion, answers more common than predicted, is aimed at the
 consensus bias that makes agreement-based scoring entrench the majority,
-which is the capture risk the lead named against [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s
+which is the capture risk the lead named against [CASE-155](../cases.d/CASE-155.md)'s
 self-scoring term. Unread, it supports nothing here yet.

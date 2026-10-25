@@ -25,7 +25,7 @@ corroborates:
 - CLAIM-262
 grounds:
 - CASE-tmpvmjgd
-- CASE-tmpw4r7u
+- CASE-155
 - THEORY-068
 - THEORY-321
 summary: >-
@@ -69,7 +69,7 @@ than 'two interpretations imply drift–diffusion.'"
   leak. That is [THEORY-068](../theory.d/THEORY-068.md)'s balance of leak and inhibition, for M units on
   a network. Its noise is set by the concentration of influence
   ([THEORY-321](../theory.d/THEORY-321.md)).
-- **A replicator population** ([CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md), part 4 and its note of
+- **A replicator population** ([CASE-155](../cases.d/CASE-155.md), part 4 and its note of
   2026-10-25). Two advocate processes hold shares of authority, scored at
   each step by the likelihood each gave a fresh observation. The log odds
   ℓ of their shares then move by that observation's log likelihood ratio.
@@ -84,7 +84,7 @@ than 'two interpretations imply drift–diffusion.'"
 
 - Evidence independent across steps.
 - A readout weighted by the influence mode: ℓ in [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md), the shares
-  in [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md). A uniform average carries a stationary transverse
+  in [CASE-155](../cases.d/CASE-155.md). A uniform average carries a stationary transverse
   term.
 - No net leak or self-reinforcement in that mode.
 - A strongly connected population. Several closed groups give several

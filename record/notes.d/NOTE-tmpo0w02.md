@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpkensg — Unavailable; the paper this report stands in for, named -->
 <!-- inactive-ok-file: THEORY-tmpomtdz — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmp8z857 QUESTION-tmponjie QUESTION-tmpdicvf CLAIM-436 CLAIM-440 CLAIM-277 CLAIM-416 — Proposed or Open; the claims and questions this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-446 QUESTION-270 QUESTION-tmpdicvf CLAIM-436 CLAIM-440 CLAIM-277 CLAIM-416 — Proposed or Open; the claims and questions this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpo0w02: Wolpert & Tumer — Optimal reward functions in distributed reinforcement learning
 
@@ -160,7 +160,7 @@ its abstract.
     action did better, and the paper's sketch derives why: the clamp that
     maximises learnability is what the member typically does. COMA later
     made the same move.
-- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (identifiability).** Irrelevant to the trap, relevant
+- **[CLAIM-446](../claims.d/CLAIM-446.md) (identifiability).** Irrelevant to the trap, relevant
   to its diagnosis. The WLU needs G evaluable at the clamped history,
   which in a congestion game is a formula. An organization that cannot
   evaluate the outcome without its defensive process, because it has never
@@ -169,7 +169,7 @@ its abstract.
   be factored (aligned with the organization's) and still poorly
   learnable, and poor learnability, not misalignment, is what the WLU
   fixes.
-- **[QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md) and [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md), failure 4.** The WLU is
+- **[QUESTION-270](../questions.d/QUESTION-270.md) and [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md), failure 4.** The WLU is
   computed for every member on every step, heeded or not, because every
   member acts and G is known. It is a procedure for full-information
   credit, not for bandit feedback. Nothing here credits a process whose

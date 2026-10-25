@@ -73,7 +73,7 @@ real model) is not held.
   governance should then recover with inertia and no lock-in, as in
   [CASE-tmpffs67](CASE-tmpffs67.md)'s extension (finding 1).
 - The conformity arm has an endogenous metric, so it should hold the old
-  allocation: [CASE-tmpffs67](CASE-tmpffs67.md)'s finding 2, [CASE-tmpw4r7u](CASE-tmpw4r7u.md)'s self-scoring c,
+  allocation: [CASE-tmpffs67](CASE-tmpffs67.md)'s finding 2, [CASE-155](CASE-155.md)'s self-scoring c,
   and [TERM-066](../terms.d/TERM-066.md) built in by design.
 - A router trained on the same audits is a mixture of experts whose
   experts earn responsibility by fitting better ([THEORY-tmpgtvdv](../theory.d/THEORY-tmpgtvdv.md)). Under

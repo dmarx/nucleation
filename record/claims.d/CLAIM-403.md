@@ -48,7 +48,7 @@ illustrated_by:
 - CASE-132
 - CASE-138
 complements:
-- CLAIM-tmpd6q2w
+- CLAIM-448
 ---
 <!-- inactive-ok-file: THEORY-834 — Proposed; Collins's outsider within, cited as the standing condition before recognition, and this claim is Proposed with it -->
 <!-- inactive-ok-file: LIT-1320 — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->

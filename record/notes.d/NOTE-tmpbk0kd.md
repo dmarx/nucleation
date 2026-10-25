@@ -26,7 +26,7 @@ summary: >-
   and wins a 64-versus-64 battle game.
 ---
 <!-- inactive-ok-file: THEORY-tmpy4yji — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-423 CLAIM-331 CLAIM-327 THEORY-tmp3oyxw CLAIM-tmp1xoac — Proposed or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-423 CLAIM-331 CLAIM-327 THEORY-899 CLAIM-444 — Proposed or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpbk0kd: Yang et al. — Mean field multi-agent reinforcement learning
 
@@ -149,7 +149,7 @@ Gaussian Squeeze, identical armies in the battle.
   converges only under the contraction condition, a high enough
   temperature: a population whose members respond too sharply to the
   collective variable need not settle.
-- **[THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md) and [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** Soma et al.'s population vector
+- **[THEORY-899](../theory.d/THEORY-899.md) and [CLAIM-444](../claims.d/CLAIM-444.md).** Soma et al.'s population vector
   is a policy; here the population's action distribution is what each
   agent learns against. The two are the macro and the micro view of a
   large population of learners, and neither represents authority as

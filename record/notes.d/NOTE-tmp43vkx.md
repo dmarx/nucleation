@@ -25,7 +25,7 @@ summary: >-
   Three 2×2 games, one temperature, no quantitative measure of fit.
 ---
 <!-- inactive-ok-file: THEORY-tmpar5jw LIT-tmp0imkw — Proposed or Unavailable; filed with this reading, named -->
-<!-- inactive-ok-file: THEORY-tmp3wkwk THEORY-tmphhvqf CLAIM-tmp0qupq CLAIM-tmp8z857 CLAIM-tmp28sti CLAIM-tmp1xoac — Proposed or new; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp3wkwk THEORY-tmphhvqf CLAIM-443 CLAIM-446 CLAIM-445 CLAIM-444 — Proposed or new; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmp43vkx: Kaisers & Tuyls — Frequency adjusted multi-agent Q-learning
 
@@ -103,22 +103,22 @@ anyway.
   Q-learning only approximates it, depending on its initial values. And
   the term is what forgetting becomes under softmax choice ([THEORY-tmp3wkwk](../theory.d/THEORY-tmp3wkwk.md)),
   so where it enters, the boundary is repelling rather than absent.
-- **Lock-in ([CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md), [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md), [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md)).** The paper's
+- **Lock-in ([CLAIM-443](../claims.d/CLAIM-443.md), [CLAIM-446](../claims.d/CLAIM-446.md), [CLAIM-445](../claims.d/CLAIM-445.md)).** The paper's
   anomaly is close to the protective-regime mechanism and sharper. A
   rarely chosen option's estimate is rarely updated, so a wrong estimate of
   it persists for as long as it is not chosen. That is the identifiability
-  trap of [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) in its simplest form, the evidence about an option
+  trap of [CLAIM-446](../claims.d/CLAIM-446.md) in its simplest form, the evidence about an option
   arriving at the rate the policy samples it. The paper's fix, weighting
   each update by the inverse of how often the option is sampled, is
   importance weighting. Read for the claims, it is a correction condition:
   a regime is not self-protecting if evidence about its alternatives is
   weighted by how rarely they are tried. It supports the claims' mechanism
   and gives it an exact form for a learner.
-- **Legibility ([CASE-124](../cases.d/CASE-124.md), [CASE-tmpydmf8](../cases.d/CASE-tmpydmf8.md)).** Frequency of update is a
+- **Legibility ([CASE-124](../cases.d/CASE-124.md), [CASE-156](../cases.d/CASE-156.md)).** Frequency of update is a
   legibility filter in the record's sense: what the organization does
   often is what it learns about. FAQ-learning is the case in which the
   filter is corrected for.
-- **Authority as a replicator population ([CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md), [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)).**
+- **Authority as a replicator population ([CLAIM-444](../claims.d/CLAIM-444.md), [CASE-155](../cases.d/CASE-155.md)).**
   The reduction holds for authority whose scores are updated for every
   process at once. Where only the governing process's score is updated, the
   dynamic depends on the scores themselves and is not a replicator dynamic

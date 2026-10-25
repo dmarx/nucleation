@@ -66,11 +66,11 @@ summary: >-
   parameters reproduce.
 illustrated_by:
 - CASE-124
-- CASE-tmpydmf8
+- CASE-156
 supports:
-- CLAIM-tmp1xoac
+- CLAIM-444
 ---
-<!-- inactive-ok-file: CLAIM-tmp1xoac THEORY-tmpev90a — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-444 THEORY-tmpev90a — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-400: In the meaning–authority model linearized at symmetry, a third, maintained legibility state that authority moves (ε) and that moves interpretation (ν) or endorsement (μ), with persistence λ < 1 and nonnegative couplings, destabilizes the symmetric state exactly when the two-variable condition holds with β + νε/(1 − λ) in place of β and δ + με/(1 − λ) in place of δ: at the threshold the regime is indistinguishable from stronger two-variable couplings, and the slower it is the more it adds, while away from the threshold it adds a mode that no two-variable model has, so a lean in the regime can outlast the advantages it was built from
 
@@ -156,7 +156,7 @@ authority dynamics may cycle rather than converge to a unique equilibrium.
 In such cases we cannot automatically replace π by a function π*(ρ)." A
 valid slow reduction may then need averaging over an invariant
 distribution, or several attracting regimes. The harmonic part of the
-scores ([CLAIM-tmp1xoac](CLAIM-tmp1xoac.md), [THEORY-894](../theory.d/THEORY-894.md)) and Sato and Crutchfield's cycling
+scores ([CLAIM-444](CLAIM-444.md), [THEORY-894](../theory.d/THEORY-894.md)) and Sato and Crutchfield's cycling
 learners ([THEORY-tmpev90a](../theory.d/THEORY-tmpev90a.md)) are where that happens. This claim's result is a
 linearization at a stable symmetric state and stands as it is. Borkar's
 two-timescale stochastic approximation was named with no work cited, and

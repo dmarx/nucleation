@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-tmpkensg — Unavailable; cited as the source COMA names, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmp1p6ly — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmp8z857 QUESTION-tmponjie QUESTION-tmpdicvf CLAIM-tmp0qupq CLAIM-277 CASE-tmpw4r7u CLAIM-tmp1xoac THEORY-tmp3oyxw — Proposed, Open or new; the claims and questions this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-446 QUESTION-270 QUESTION-tmpdicvf CLAIM-443 CLAIM-277 CASE-155 CLAIM-444 THEORY-899 — Proposed, Open or new; the claims and questions this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpldi14: Foerster et al. — Counterfactual multi-agent policy gradients
 
@@ -153,7 +153,7 @@ fully centralised, on-policy extreme. The v3 erratum points to Lyu et al.
   default c^a, which COMA was designed to avoid. And every agent acts on
   every step: COMA credits processes that all act, under a shared reward,
   not processes some of which are never heeded.
-- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (avoidance destroys identifiability).** Irrelevant to
+- **[CLAIM-446](../claims.d/CLAIM-446.md) (avoidance destroys identifiability).** Irrelevant to
   the step, or rather a restatement of it. The counterfactual values are
   the critic's, learned from occasions on which each alternative was
   taken, and the ε/|U| floor exists to guarantee such occasions. An agent
@@ -172,14 +172,14 @@ fully centralised, on-policy extreme. The v3 erratum points to Lyu et al.
   exploration floor and a critic that generalises; the floor is the
   protected-access mechanism the same list names for mixtures of experts.
   Without it the counterfactual is an extrapolation of the critic.
-- **[QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md) (an accurate evaluation denied authority).** A loose
+- **[QUESTION-270](../questions.d/QUESTION-270.md) (an accurate evaluation denied authority).** A loose
   but exact analogue. In COMA an agent's advantage can be positive, its
   action better than its usual, without changing what the others do: the
   baseline holds them fixed. Credit is computed per agent and changes only
   that agent's policy. An organization that computed such credit for an
   unheeded process and did not route it to that process's authority would
   be the question's case, measured. The paper does not consider routing.
-- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md) (authority as a replicator).** A
+- **[CASE-155](../cases.d/CASE-155.md) and [THEORY-899](../theory.d/THEORY-899.md) (authority as a replicator).** A
   precise link, mine. In the replicator reading the excess score of
   process a is q_a − v, its expected score less the policy-weighted mean.
   COMA's advantage is the same quantity for one agent with the others
@@ -187,7 +187,7 @@ fully centralised, on-policy extreme. The v3 erratum points to Lyu et al.
   credit is the replicator's fitness-minus-mean evaluated per member, and
   its single-sample estimate needs the critic to supply the mean that a
   bandit learner cannot observe.
-- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) and [CLAIM-277](../claims.d/CLAIM-277.md) (endorsement that tracks competence).** A
+- **[CLAIM-443](../claims.d/CLAIM-443.md) and [CLAIM-277](../claims.d/CLAIM-277.md) (endorsement that tracks competence).** A
   candidate for "tracks". A competence signal with the others' variation
   removed is the counterfactual advantage; a team-shared reward is the
   signal without it. The paper shows the second learns worse.

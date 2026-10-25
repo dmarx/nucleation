@@ -30,7 +30,7 @@ summary: >-
   center are left as limits.
 ---
 <!-- inactive-ok-file: THEORY-tmpx9mep — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmp0qupq CLAIM-277 CLAIM-tmp1xoac — Proposed or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-443 CLAIM-277 CLAIM-444 — Proposed or filed in the same pull request; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmp0qrjw: Miller, Resnick and Zeckhauser — Eliciting informative feedback: the peer-prediction method
 
@@ -148,7 +148,7 @@ signal that the current rater would agree with" (p. 22).
   truth with a model of how honest signals correlate. For the record's
   governance line, that shifts the question to who sets and maintains
   that model, a role with authority over every score.
-- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md).** Its fourth result needs a scoring channel in which a
+- **[CASE-155](../cases.d/CASE-155.md).** Its fourth result needs a scoring channel in which a
   process's score rises with its own share (c > 0). Peer prediction is
   built to remove that dependence in the truthful equilibrium: the
   posterior already allows for what the majority is expected to say, so a
@@ -167,16 +167,16 @@ signal that the current rater would agree with" (p. 22).
   at honest raters' expense. That is the question the record needs
   answered before peer scoring could serve as an anti-entrenchment
   device. It complicates any use of the mechanism against [CLAIM-277](../claims.d/CLAIM-277.md)'s and
-  [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s entrenchment: those claims' processes endorse one
+  [CLAIM-443](../claims.d/CLAIM-443.md)'s entrenchment: those claims' processes endorse one
   another repeatedly, which is the setting where collusion is easiest to
   coordinate.
 - **The Yes-Man.** A rater who models the boss's view rather than the
-  item reports the boss's view. This is [CASE-tmpydmf8](../cases.d/CASE-tmpydmf8.md)'s filter seen from
+  item reports the boss's view. This is [CASE-156](../cases.d/CASE-156.md)'s filter seen from
   the reporter: what is admitted depends on who will read it. The paper's
   remedy, elicit along dimensions on which nothing else predicts the next
   report, is a legibility condition ([CASE-124](../cases.d/CASE-124.md)): the categories must be
   ones in which honest reports are scorable.
-- **[CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** Not addressed. The scheme pays raters; it does not
+- **[CLAIM-444](../claims.d/CLAIM-444.md).** Not addressed. The scheme pays raters; it does not
   allocate authority among them. Using the scores to decide whose reports
   count next would bring back the dependence of score on share that the
   scheme was built to remove.

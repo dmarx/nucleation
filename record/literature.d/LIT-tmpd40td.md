@@ -103,6 +103,6 @@ population value is a scoring invariant that, unlike Nash averaging
 ([LIT-tmp9zvdz](LIT-tmp9zvdz.md)), needs no uniqueness and covers behavioural mixtures. Its
 monotonic-versus-transitive distinction is the record's own
 ordinal-versus-cardinal one ([CLAIM-434](../claims.d/CLAIM-434.md), [TERM-077](../terms.d/TERM-077.md)). It bears on
-[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) and [CASE-124](../cases.d/CASE-124.md) ([NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md)). It carries
+[CLAIM-451](../claims.d/CLAIM-451.md) and [CASE-124](../cases.d/CASE-124.md) ([NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md)). It carries
 `anthology-candidate` because its algorithms are for training ML agents.
 It is filed for understanding, not as an instruction for practice.

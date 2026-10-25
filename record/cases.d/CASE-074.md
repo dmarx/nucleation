@@ -106,7 +106,7 @@ From A35–A37 of the exchange of 2026-10-24, continued.
   network of accumulators. The hidden tally is the balanced case κ = λ,
   where the influence-weighted support is exactly a drift-diffusion
   process. The visible tally adds positive feedback, κ > λ. In
-  [CASE-tmpw4r7u](CASE-tmpw4r7u.md)'s two-process form the hidden tally is c = 0 and the
+  [CASE-155](CASE-155.md)'s two-process form the hidden tally is c = 0 and the
   visible one c > 0, with c < 0 the contrarian case. [CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md) holds
   the conditions.
 - **A35 found this case** "already describes your proposed experiment

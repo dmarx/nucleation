@@ -27,7 +27,7 @@ summary: >-
   checked in the reading; the experiments are three games, one
   temperature, compared by eye.
 ---
-<!-- inactive-ok-file: LIT-tmp0imkw NOTE-tmp43vkx THEORY-tmp3wkwk CLAIM-tmp8z857 — Proposed, Unavailable or new; the sources and the accounts this bears on, named -->
+<!-- inactive-ok-file: LIT-tmp0imkw NOTE-tmp43vkx THEORY-tmp3wkwk CLAIM-446 — Proposed, Unavailable or new; the sources and the accounts this bears on, named -->
 
 # THEORY-tmpar5jw: The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is exact for frequency-adjusted Q-learning, not for Q-learning, whose expected update carries an extra factor of each action's selection probability and whose trajectories in 2×2 games depart from the model depending on initialization
 
@@ -66,7 +66,7 @@ known here only as Kaisers and Tuyls restate it.
 
 ## Connections
 
-- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The factor x_i is the claim's trap in a learner:
+- **[CLAIM-446](../claims.d/CLAIM-446.md).** The factor x_i is the claim's trap in a learner:
   evidence about an option arrives only when the option is chosen, so an
   estimate of a rarely chosen option is rarely corrected. Inverse-frequency
   weighting is the correction that removes it.

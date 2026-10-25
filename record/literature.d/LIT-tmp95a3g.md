@@ -55,7 +55,7 @@ summary: >-
   penalizing unequal summed gate weight and unequal load remove it and,
   in one ablation, cut test perplexity from 39.8 to 35.6.
 ---
-<!-- inactive-ok-file: NOTE-tmpa8fuv THEORY-tmp2p13l CLAIM-277 CLAIM-tmp0qupq QUESTION-132 CLAIM-362 — filed from this reading, and the claims and question it bears on, named -->
+<!-- inactive-ok-file: NOTE-tmpa8fuv THEORY-tmp2p13l CLAIM-277 CLAIM-443 QUESTION-132 CLAIM-362 — filed from this reading, and the claims and question it bears on, named -->
 <!-- inactive-ok-file: LIT-1412 LIT-1414 — Deferred; later load-balancing works the record holds, cited as such -->
 
 # LIT-tmp95a3g: Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
@@ -88,7 +88,7 @@ Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G. & Dean, 
 ## Why this is here
 
 Filed on 2026-10-24 for its gating collapse, which the lead read as
-[CLAIM-277](../claims.d/CLAIM-277.md)'s and [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s rich-get-richer entrenchment, and its
+[CLAIM-277](../claims.d/CLAIM-277.md)'s and [CLAIM-443](../claims.d/CLAIM-443.md)'s rich-get-richer entrenchment, and its
 load balancing, read as protected access ([NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md)). The reading
 supports the first: this is the entrenchment loop in a working system,
 with the mechanism named by the authors. It corrects the second: the

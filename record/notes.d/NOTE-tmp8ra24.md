@@ -25,7 +25,7 @@ summary: >-
   plus numerics, no data.
 ---
 <!-- inactive-ok-file: THEORY-tmp3wkwk THEORY-tmpev90a — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmp1xoac CLAIM-tmpuxcp6 CLAIM-tmp0qupq CLAIM-tmp8z857 THEORY-tmp3oyxw THEORY-tmphhvqf NOTE-tmp43vkx NOTE-tmpcqwez — Proposed or new; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-444 CLAIM-451 CLAIM-443 CLAIM-446 THEORY-899 THEORY-tmphhvqf NOTE-tmp43vkx NOTE-tmpcqwez — Proposed or new; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmp8ra24: Sato & Crutchfield — Coupled replicator equations for the dynamics of learning in multiagent systems
 
@@ -108,7 +108,7 @@ that is the authors' expectation, stated as one.
 
 ## How it bears on the record
 
-- **The replicator reading of authority ([CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md), [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)).**
+- **The replicator reading of authority ([CLAIM-444](../claims.d/CLAIM-444.md), [CASE-155](../cases.d/CASE-155.md)).**
   The coupled case the record's reduction says breaks the Maynard–Taylor
   equivalence is derived here for learners. Two processes each adapting to
   the other's current share is two coupled replicator equations, and
@@ -116,7 +116,7 @@ that is the authors' expectation, stated as one.
   one-population dynamic would settle. It supports the reduction and
   narrows what it can promise: rest points and thresholds need not exist as
   attractors once the scores depend on another adaptive party.
-- **Cycles ([CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md), [THEORY-894](../theory.d/THEORY-894.md)).** A demonstrated source of cycling
+- **Cycles ([CLAIM-451](../claims.d/CLAIM-451.md), [THEORY-894](../theory.d/THEORY-894.md)).** A demonstrated source of cycling
   in which no regime switches and no agent's preferences are unstable.
   Rock–scissors–paper with zero tie rewards is a harmonic game in
   Candogan's sense, and without decay its orbits are closed around the
@@ -126,7 +126,7 @@ that is the authors' expectation, stated as one.
   agents "may behave cooperatively or competitively (or switch between
   both)" (p. 3) under one fixed rule is a warning for the claim's own
   diagnostics: apparent regime switching can be deterministic chaos.
-- **Forgetting as exploration ([CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md), [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)).** The claim's
+- **Forgetting as exploration ([CLAIM-443](../claims.d/CLAIM-443.md), [CLAIM-446](../claims.d/CLAIM-446.md)).** The claim's
   schematic Hebbian rule has a forgetting term −λE. Here, forgetting in a
   softmax learner is exactly a force towards equal shares, and it is what
   makes the dynamics dissipative and removes the boundary as an attractor.
@@ -136,7 +136,7 @@ that is the authors' expectation, stated as one.
   when memories of its alternatives decay towards indifference rather than
   towards zero choice probability. Compare Börgers and Sarin's learner, which
   has no such term and is absorbed ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)).
-- **The hive mind ([THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md)).** The same move at the next level up:
+- **The hive mind ([THEORY-899](../theory.d/THEORY-899.md)).** The same move at the next level up:
   Soma et al. make a population one learner, and Sato and Crutchfield make
   two learners one coupled dynamical system with "no knowledge of a
   “game”". Neither is a further agent by any criterion beyond the formal

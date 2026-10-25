@@ -27,7 +27,7 @@ summary: >-
   size the process is absorbed in a pure profile with probability one
   (Proposition 5). The equivalence is pointwise in time, not uniform.
 ---
-<!-- inactive-ok-file: NOTE-tmpcqwez THEORY-tmp3oyxw THEORY-tmp9g2s5 CLAIM-tmp1xoac CLAIM-tmp0qupq CLAIM-tmp8z857 CLAIM-tmpuxcp6 — Proposed or new; the source and the accounts this bears on, named -->
+<!-- inactive-ok-file: NOTE-tmpcqwez THEORY-899 THEORY-905 CLAIM-444 CLAIM-443 CLAIM-446 CLAIM-451 — Proposed or new; the source and the accounts this bears on, named -->
 
 # THEORY-tmphhvqf: Cross learning has the expected motion of the replicator dynamic and follows it on any finite horizon in the continuous-time limit, but for every learning speed the discrete process converges with probability one to a pure strategy profile, even in games where the replicator dynamic cycles
 
@@ -75,16 +75,16 @@ for any step size.
 
 ## Connections
 
-- **[THEORY-tmp3oyxw](THEORY-tmp3oyxw.md).** Soma et al.'s Proposition 1 rests on this. The
+- **[THEORY-899](THEORY-899.md).** Soma et al.'s Proposition 1 rests on this. The
   macro-agent identity is of expected motion, and inherits this theorem's
   limit at infinity.
-- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** The replicator reading of authority
+- **[CASE-155](../cases.d/CASE-155.md) and [CLAIM-444](../claims.d/CLAIM-444.md).** The replicator reading of authority
   holds for finite horizons. Rest points, cycles and thresholds read off the
   mean dynamic say what a realized organization does on the way, not where
   a single learner ends.
-- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) and [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** Absorption with no feedback from
+- **[CLAIM-443](../claims.d/CLAIM-443.md) and [CLAIM-446](../claims.d/CLAIM-446.md).** Absorption with no feedback from
   evidence or authority: reinforcement of what was chosen, with no return
   path, suffices for lock-in. It narrows the claims' mechanism and supports
   their worry.
-- **[THEORY-tmp9g2s5](THEORY-tmp9g2s5.md).** The single-learner counterpart of loss of types in a
+- **[THEORY-905](THEORY-905.md).** The single-learner counterpart of loss of types in a
   finite imitating population.

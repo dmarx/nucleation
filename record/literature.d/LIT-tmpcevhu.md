@@ -67,7 +67,7 @@ likelihood evidence and binary drift–diffusion. The record already held
 the link only as restated: Bogacz et al. ([LIT-569](LIT-569.md)) state that the SPRT "of
 Barnard and Wald" is the fastest test for a given error rate and that its
 continuum limit is the drift–diffusion model, and [THEORY-068](../theory.d/THEORY-068.md) reads it.
-[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) part 4 shows that the replicator in log-odds form with no
+[CASE-155](../cases.d/CASE-155.md) part 4 shows that the replicator in log-odds form with no
 feedback term is the SPRT walk. The claim [CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md) and the
 construction [CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md) rest on that limit; [CLAIM-262](../claims.d/CLAIM-262.md) is the owner's
 earlier, continuous statement of the hypothesis. This is the primary

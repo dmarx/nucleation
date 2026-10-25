@@ -27,7 +27,7 @@ summary: >-
   otherwise.
 ---
 <!-- inactive-ok-file: THEORY-tmp0fsks THEORY-tmpzogk3 — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 CLAIM-tmp8z857 CLAIM-tmp28sti CLAIM-436 CLAIM-440 — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-451 CLAIM-446 CLAIM-445 CLAIM-436 CLAIM-440 — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpr1f7n: Balduzzi et al. — Re-evaluating evaluation
 
@@ -139,7 +139,7 @@ caveat applies here unchanged.
 
 ## How it bears on the record
 
-- **[CASE-124](../cases.d/CASE-124.md) and [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md): capture of the scoring layer.** Uniform
+- **[CASE-124](../cases.d/CASE-124.md) and [CASE-155](../cases.d/CASE-155.md): capture of the scoring layer.** Uniform
   averaging over the current population, Elo included, is exactly a score
   that a party can move by changing who gets evaluated, without changing
   anything about itself. Nash averaging removes one such route: scoring
@@ -151,7 +151,7 @@ caveat applies here unchanged.
   address them: adding agents that are not copies; near-copies; the
   choice of tasks, since in AvT the scores depend on which tasks the data
   contain ("garbage in, garbage out"). And with ties, copying still moves
-  the result. It is also distinct from [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s c. There a process's
+  the result. It is also distinct from [CASE-155](../cases.d/CASE-155.md)'s c. There a process's
   score rises with its own share of authority. Here the score depends on
   who is in the evaluated set, not on how much authority each holds. A
   Nash-averaged score is share-independent only if the underlying
@@ -163,7 +163,7 @@ caveat applies here unchanged.
   The two can disagree, and the record already holds the reason
   ([CLAIM-434](../claims.d/CLAIM-434.md)). The paper gives the record nothing ordinal.
   **Irrelevant to the ordinal claim; consistent with [THEORY-894](../theory.d/THEORY-894.md).**
-- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md).** In a cyclic record, any scalar mean in the Elo
+- **[CLAIM-451](../claims.d/CLAIM-451.md).** In a cyclic record, any scalar mean in the Elo
   family is uninformative: RPS gives every option the same rating. Nash
   averaging then reports that no option is better (P3(i)). In the claim's
   vocabulary, both report that no ordering prevails, and neither
@@ -175,4 +175,4 @@ caveat applies here unchanged.
   planar "phase" coordinates (appendix F). That is a representation of
   interactions, not a currency over options, so it does not bear on the
   currency claims beyond that.
-- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) and [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).** Not addressed.
+- **[CLAIM-446](../claims.d/CLAIM-446.md) and [CLAIM-445](../claims.d/CLAIM-445.md).** Not addressed.

@@ -120,7 +120,7 @@ contexts that maximizes a criterion of G_ξ = Σ_c ξ(c)G_c (log det, or a
 discrimination or prediction criterion fixed by the task). A29: "our
 objectives are often more specific. We might care about distinguishing the
 effect of authority from the effect of legibility, rather than estimating
-every parameter equally well." In [CASE-tmpj2xb7](../cases.d/CASE-tmpj2xb7.md), do(b = b₀) gives
+every parameter equally well." In [CASE-152](../cases.d/CASE-152.md), do(b = b₀) gives
 G_aa = b₀² > 0 (checked). In [CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md), a rare context makes authority
 shares identifiable that routine probes leave invisible. Both separate by
 changing the experiment, not the coordinates ([CLAIM-305](../claims.d/CLAIM-305.md)). A caution from

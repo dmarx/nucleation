@@ -66,7 +66,7 @@ summary: >-
   learning speed. With negative payoffs the limit adds a
   probability-matching term to a replicator term in "benefits".
 ---
-<!-- inactive-ok-file: NOTE-tmpcqwez THEORY-tmphhvqf THEORY-tmpbq2nj THEORY-tmp3oyxw CLAIM-tmp1xoac — filed from this reading or Proposed; named -->
+<!-- inactive-ok-file: NOTE-tmpcqwez THEORY-tmphhvqf THEORY-tmpbq2nj THEORY-899 CLAIM-444 — filed from this reading or Proposed; named -->
 
 # LIT-tmp6d9wu: Learning Through Reinforcement and Replicator Dynamics
 
@@ -104,8 +104,8 @@ doi:10.1006/jeth.1997.2319. Working paper, October 1993 and October 1995.
 
 Filed 2026-10-24 when the owner asked how the record stands on multi-agent
 reinforcement learning. It is the source the record's replicator reading
-of authority ([CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md), [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)) and Soma et al.'s Proposition 1
-([THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md)) inherit "Cross learning is the replicator dynamic" from.
+of authority ([CASE-155](../cases.d/CASE-155.md), [CLAIM-444](../claims.d/CLAIM-444.md)) and Soma et al.'s Proposition 1
+([THEORY-899](../theory.d/THEORY-899.md)) inherit "Cross learning is the replicator dynamic" from.
 Its asymptotic result is the record's lock-in worry in a single learner:
 the expected dynamic can cycle or stay interior while every sample path is
 absorbed in a vertex.

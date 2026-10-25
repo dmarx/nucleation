@@ -38,7 +38,7 @@ complements:
 - CLAIM-355
 - CLAIM-432
 - CLAIM-433
-- CLAIM-tmpuxcp6
+- CLAIM-451
 - CLAIM-442
 grounds:
 - THEORY-055
@@ -67,8 +67,8 @@ supports:
 - CLAIM-437
 objected_by:
 - CLAIM-438
-- CLAIM-tmpd6q2w
-- CLAIM-tmpf2p3p
+- CLAIM-448
+- CLAIM-449
 - CLAIM-441
 ---
 <!-- inactive-ok-file: CLAIM-437 — Proposed; the owner's relativizing claim, cited as open -->
@@ -305,14 +305,14 @@ is of goal-conduciveness valence, not hedonic valence.
 The owner asked whether, "rather than asserting potentials always have to
 exist", cycles could be read as internal tension (workbench entry of
 2026-10-24, U13). This claim never said potentials must exist; the reading
-of the cyclic case is [CLAIM-tmpuxcp6](CLAIM-tmpuxcp6.md): potentials and nonintegrable cycles
+of the cyclic case is [CLAIM-451](CLAIM-451.md): potentials and nonintegrable cycles
 are regimes, and a cycle is not a pathology by default. It narrows
 consequence 4. Ambivalence, opposed evaluations both strong, can occur
 where one perspective consistently prevails, and a cycle need not involve
 opposed valences, so "ambivalence is no ordering" overstates the link.
-Two objections are filed: [CLAIM-tmpf2p3p](CLAIM-tmpf2p3p.md), that consequence 1 runs together
+Two objections are filed: [CLAIM-449](CLAIM-449.md), that consequence 1 runs together
 contested rankings and infeasible demands, with the absorbed writer
-([CASE-051](../cases.d/CASE-051.md)) as its test; and [CLAIM-tmpd6q2w](CLAIM-tmpd6q2w.md) (2026-10-24), that a potential
+([CASE-051](../cases.d/CASE-051.md)) as its test; and [CLAIM-448](CLAIM-448.md) (2026-10-24), that a potential
 read off a record whose contests a legibility regime selected can be
 coherent for the wrong reason. The same exchange (U5) suggested setting
 Minsky's emotion machine ([THEORY-570](../theory.d/THEORY-570.md)), resources selected by critics and

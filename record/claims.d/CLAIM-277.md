@@ -42,7 +42,7 @@ complements:
 - CLAIM-282
 - CLAIM-274
 - CLAIM-327
-- CLAIM-tmp8z857
+- CLAIM-446
 summary: >-
   The owner's objection at U5 to A4's call to keep "persistent authority
   structures" distinct from "transient endorsement updates": "I'd expect
@@ -56,7 +56,7 @@ supports:
 - CLAIM-297
 - CLAIM-344
 - CLAIM-406
-- CLAIM-tmp0qupq
+- CLAIM-443
 ---
 <!-- inactive-ok-file: CLAIM-403 CLAIM-406 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-tmp2p13l — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->

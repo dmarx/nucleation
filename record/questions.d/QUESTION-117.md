@@ -40,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1318 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
 <!-- inactive-ok-file: LIT-1128 LIT-1134 LIT-1139 LIT-1146 THEORY-143 THEORY-146 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmphmdtd — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 # QUESTION-117: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
 
 ## Why it is a question
@@ -144,7 +144,7 @@ From A36, A38 and A43 of the exchange of 2026-10-24, continued.
   under which dL = ℓᵀdx + (dℓ)ᵀx, and a loop from access through influence,
   observed performance and endorsement back to access, as "a microscopic
   realization of the meaning–authority–legibility loop". The nearest exact model is
-  reflected appraisal ([THEORY-tmphmdtd](../theory.d/THEORY-tmphmdtd.md)), in which ℓ is fed back as
+  reflected appraisal ([THEORY-916](../theory.d/THEORY-916.md)), in which ℓ is fed back as
   self-weight. Not cited.
 - **Repeated messages.** A38 reported that a population counting forwarded
   messages as new evidence was more confident and less accurate than one

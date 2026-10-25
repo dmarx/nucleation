@@ -27,7 +27,7 @@ summary: >-
   clusters can tie, and cardinal, since RPP uses payoff magnitudes.
 ---
 <!-- inactive-ok-file: NOTE-tmpat2ia — the reading this is filed from -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 — Proposed; named in prose, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
 # THEORY-tmpq0hjk: In a finite symmetric zero-sum game, successive Nash clusters are weakly ordered by relative population performance, and a strategy that beats every member of a population containing a whole cluster lies in a strictly earlier cluster
 
@@ -73,4 +73,4 @@ A cardinal layering of a cyclic record: the cycling stays inside clusters
 and the order runs between them. That parallels the ordinal condensation
 reading in [NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md). Theorem 3 is a sufficient condition for escaping
 a cycle: beat its whole class, not its latest member. That bears on
-[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)'s accommodation ([NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md)).
+[CLAIM-451](../claims.d/CLAIM-451.md)'s accommodation ([NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md)).

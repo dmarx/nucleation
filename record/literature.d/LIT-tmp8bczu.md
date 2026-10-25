@@ -69,7 +69,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpomtdz — Proposed; filed from this reading, named -->
 <!-- inactive-ok-file: LIT-tmpkensg — Unavailable; the paper this report stands in for, named -->
-<!-- inactive-ok-file: CLAIM-436 CLAIM-tmp8z857 — Proposed; the claims this reading bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-436 CLAIM-446 — Proposed; the claims this reading bears on, named, nothing here rests on them -->
 
 # LIT-tmp8bczu: Optimal Reward Functions in Distributed Reinforcement Learning
 
@@ -103,7 +103,7 @@ ntrs.nasa.gov/citations/20010066523
 
 Filed 2026-10-24 in place of [LIT-tmpkensg](LIT-tmpkensg.md), for difference rewards, which
 the lead read as answering "what if this process had not acted"
-([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md), [QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md), [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md)'s fourth failure).
+([CLAIM-446](../claims.d/CLAIM-446.md), [QUESTION-270](../questions.d/QUESTION-270.md), [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md)'s fourth failure).
 The reading corrects that in two ways ([NOTE-tmpo0w02](../notes.d/NOTE-tmpo0w02.md)). The counterfactual
 is not causal: the WLU is the world utility re-evaluated on the actual
 history with one member's contribution replaced, the others' behaviour

@@ -30,7 +30,7 @@ summary: >-
   statements or proofs.
 ---
 <!-- inactive-ok-file: THEORY-tmp2ela3 THEORY-tmpq0hjk THEORY-tmp5k950 — Proposed; filed from this reading, named -->
-<!-- inactive-ok-file: CLAIM-tmpuxcp6 CLAIM-tmp0qupq CLAIM-tmp8z857 CLAIM-tmp28sti — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-451 CLAIM-443 CLAIM-446 CLAIM-445 — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # NOTE-tmpat2ia: Czarnecki et al. — Real world games look like spinning tops
 
@@ -169,7 +169,7 @@ differs from Balduzzi et al.'s σ-of-differences sense ([LIT-tmpd40td](../litera
 
 ## How it bears on the record
 
-- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) and [TERM-077](../terms.d/TERM-077.md): when cycles are unavoidable.** Theorem 1
+- **[CLAIM-451](../claims.d/CLAIM-451.md) and [TERM-077](../terms.d/TERM-077.md): when cycles are unavoidable.** Theorem 1
   is the record's most useful result in this group, and it is ordinal. It
   is stated for the sign of outcomes, which matches [ADR-052](../decisions.d/ADR-052.md)'s preference.
   Wherever parties can condition on who they face before the outcome is
@@ -184,7 +184,7 @@ differs from Balduzzi et al.'s σ-of-differences sense ([LIT-tmpd40td](../litera
   cycles are a structural possibility, and narrows where they are
   expected: among strategies that spend effort on recognition rather
   than on winning.**
-- **Nash clustering and [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)'s accommodation.** A cyclic record
+- **Nash clustering and [CLAIM-451](../claims.d/CLAIM-451.md)'s accommodation.** A cyclic record
   layered into clusters weakly ordered between them, with all the
   cycling inside them, is a cardinal version of the condensation reading
   in [NOTE-tmpxufhw](NOTE-tmpxufhw.md). Theorem 3 gives a sufficient condition for a learner
@@ -193,10 +193,10 @@ differs from Balduzzi et al.'s σ-of-differences sense ([LIT-tmpd40td](../litera
   context covers the whole cyclic class at once instead of answering its
   latest member. **Complements; cardinal, so it needs [ADR-052](../decisions.d/ADR-052.md)'s
   statement of what the numbers mean if the record uses it.**
-- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md): memory against the incumbent.** Proposition 3's gap
+- **[CLAIM-443](../claims.d/CLAIM-443.md): memory against the incumbent.** Proposition 3's gap
   is a governance point in miniature. A fixed-memory population that
   drops its oldest member climbs; one that overwrites its newest can
   cycle for ever among regimes of one level. That is consistent with
   [NOTE-tmp8gje5](NOTE-tmp8gje5.md)'s self-play contrast. Which memory is kept, not only how
   much, decides whether learning escapes a cycle. **Bears, by analogy.**
-- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) and [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).** Not addressed.
+- **[CLAIM-446](../claims.d/CLAIM-446.md) and [CLAIM-445](../claims.d/CLAIM-445.md).** Not addressed.

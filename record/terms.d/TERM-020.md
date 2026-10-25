@@ -16,8 +16,8 @@ used_by:
 - CLAIM-184
 - CLAIM-339
 - CLAIM-349
-- CLAIM-tmp28sti
-- CLAIM-tmp8z857
+- CLAIM-445
+- CLAIM-446
 summary: >-
   A protective regime that, by reorganizing ordinary activity, generates
   the conditions that justify its own continuation and reduces the
