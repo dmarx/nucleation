@@ -95,7 +95,7 @@ open part.
   some action has whatever regret that restriction costs, linear in T if
   the action is sometimes optimal, whatever the game's class.
 - **Not about degenerate games against adversaries.** The paper leaves them
-  open. Lattimore and Szepesvári (LIT-tmpfjv79, read in NOTE-tmpkgxba) "complete the
+  open. Lattimore and Szepesvári ([LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md), read in [NOTE-tmpkgxba](../notes.d/NOTE-tmpkgxba.md)) "complete the
   classification of finite adversarial partial monitoring to include all
   games" and "correct errors in previous analyses", by their abstract.
 - **Not about constants or finite T.** The constants depend on the game and
@@ -120,16 +120,16 @@ open part.
 
 ## Note of 2026-10-25: the reading of Lattimore and Szepesvári
 
-Lattimore and Szepesvári, "Cleaning up the neighborhood" (LIT-tmpfjv79),
-is now read (NOTE-tmpkgxba). This entry's promote_when is met by its
+Lattimore and Szepesvári, "Cleaning up the neighborhood" ([LIT-tmpfjv79](../literature.d/LIT-tmpfjv79.md)),
+is now read ([NOTE-tmpkgxba](../notes.d/NOTE-tmpkgxba.md)). This entry's promote_when is met by its
 second disjunct: the paper restates the classification and proves the two
 pieces that were open or flawed, the √n upper bound for all locally
 observable games (NeighborhoodWatch2) and the corrected T^{2/3} lower
 bound, and cites the rest as Bartók et al. did. Its first disjunct is met
-in substance too, by the re-derivation recorded in THEORY-tmpyulw1.
+in substance too, by the re-derivation recorded in [THEORY-tmpyulw1](THEORY-tmpyulw1.md).
 
 Two clauses here are mis-stated, so the reading proposes that this entry
-be Superseded by THEORY-tmpyulw1 rather than promoted:
+be Superseded by [THEORY-tmpyulw1](THEORY-tmpyulw1.md) rather than promoted:
 
 - **The trivial class.** It is "no pair of neighbouring actions", not
   "only one action is non-dominated". The latter misplaces games with
@@ -139,9 +139,9 @@ be Superseded by THEORY-tmpyulw1 rather than promoted:
 - **The lower bound's kernel.** The vector v must lie in the kernel of
   every signal matrix in N_ab, not only of the two neighbours' signal
   matrices, as "with v in the kernel of both signal matrices" above has it
-  (THEORY-tmpwqg2f). The theorem stands; the slip is harmless for
+  ([THEORY-tmpwqg2f](THEORY-tmpwqg2f.md)). The theorem stands; the slip is harmless for
   non-degenerate games, where N_ab = {a, b}.
 
 Its adversarial scope, non-degenerate games only, is also narrower than is
 now known. Whether to supersede or to correct in place and promote is the
-owner's decision under ADR-047. The status is unchanged.
+owner's decision under [ADR-047](../decisions.d/ADR-047.md). The status is unchanged.
