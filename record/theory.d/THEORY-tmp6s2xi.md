@@ -25,7 +25,7 @@ date: '2026-10-25'
 source:
 - LIT-tmpxsvgv
 summary: >-
-  Zhong et al. (2024), LIT-tmpxsvgv, read in NOTE-tmphq8v2. An ablation of
+  Zhong et al. (2024), [LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md), read in [NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md). An ablation of
   LoRA Switch judged by GPT-4V against weight merging. It says that equal
   shares of steps do not fix the outcome; it does not say how large the
   order effect is beyond noise, or how much each LoRA contributes to the
@@ -37,7 +37,7 @@ summary: >-
 
 ## Source
 
-Zhong et al. (2024), TMLR, LIT-tmpxsvgv, read in full in NOTE-tmphq8v2.
+Zhong et al. (2024), TMLR, [LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md), read in full in [NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md).
 §4.3.2, Fig. 5 and Table 3.
 
 ## What was actually shown
@@ -77,20 +77,20 @@ summed each LoRA's contributions.
 - **Not why.** "prioritizing core image elements in the initial stage" is
   the authors' reading. The record's diffusion literature on layout being
   set early (MultiDiffusion's "the layout is being determined early on in
-  the diffusion process", NOTE-tmpa8ixz) is consistent with it and does not
+  the diffusion process", [NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)) is consistent with it and does not
   test it.
 - **Not beyond this setting.** Two SD 1.5 fine-tunes, LoRAs chosen to be
   compatible, GPT-4V as judge.
 
 ## Connections
 
-- **QUESTION-tmpu6zq7.** The owner's third mechanism counted influence as
+- **[QUESTION-tmpu6zq7](../questions.d/QUESTION-tmpu6zq7.md).** The owner's third mechanism counted influence as
   "the number of iterations ... a given denoiser can apply". Here the
   number of iterations is held equal and the outcome still moves with
   interval and order, as A33's "Authority can reside in sequence position,
   not just frequency" proposed. If promoted, this is evidence that the
   mechanism does not reduce to a time-averaged vector of influence
   weights.
-- **THEORY-tmp5q0ny.** MultiDiffusion's early masked phase is a second
+- **[THEORY-tmp5q0ny](THEORY-tmp5q0ny.md).** MultiDiffusion's early masked phase is a second
   case of the same allocation used differently early in sampling changing
   the result.

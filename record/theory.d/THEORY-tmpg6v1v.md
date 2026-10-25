@@ -16,7 +16,7 @@ date: '2026-10-25'
 source:
 - LIT-tmpxsvgv
 summary: >-
-  Zhong et al. (2024), LIT-tmpxsvgv, read in NOTE-tmphq8v2. The measurement
+  Zhong et al. (2024), [LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md), read in [NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md). The measurement
   is a GPT-4V comparison with a positional bias of about ten points,
   correlated 0.45 with two annotators, on LoRAs selected to be compatible.
   The two methods are compared with each other only through the baseline.
@@ -30,8 +30,8 @@ summary: >-
 ## Source
 
 Zhong, Shen, Wang, Lu, Jiao, Ouyang, Yu, Han and Chen (2024), "Multi-LoRA
-Composition for Image Generation", TMLR, LIT-tmpxsvgv, read in full in
-NOTE-tmphq8v2 from arXiv v2. Fig. 3, Table 2 and Fig. 6.
+Composition for Image Generation", TMLR, [LIT-tmpxsvgv](../literature.d/LIT-tmpxsvgv.md), read in full in
+[NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md) from arXiv v2. Fig. 3, Table 2 and Fig. 6.
 
 ## What was actually shown
 
@@ -80,15 +80,15 @@ since every method's scores fall with k. Merging fell further.
 - **Not that composition works.** At five LoRAs the best composition
   score is 6.56 of 10, and the LoRAs were selected to be compatible.
 - **Not a probabilistic composition.** Composite averages guided
-  predictions, which under THEORY-405's idealization would be the score
+  predictions, which under [THEORY-405](THEORY-405.md)'s idealization would be the score
   of a geometric mean of the LoRA models' distributions, not their product
-  (NOTE-tmphq8v2).
+  ([NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)).
 
 ## Connections
 
-- **THEORY-405 and CLAIM-123.** Composable Diffusion sums one guidance
+- **[THEORY-405](THEORY-405.md) and [CLAIM-123](../claims.d/CLAIM-123.md).** Composable Diffusion sums one guidance
   term per concept; Composite averages, keeping total guidance at s.
-- **THEORY-tmpt2q0g.** Composite is MultiDiffusion's noise-prediction
+- **[THEORY-tmpt2q0g](THEORY-tmpt2q0g.md).** Composite is MultiDiffusion's noise-prediction
   step with every mask full and LoRA-modified models as the views.
-- **CASE-tmpjmerx.** Per-step combination of frozen, separately trained
+- **[CASE-tmpjmerx](../cases.d/CASE-tmpjmerx.md).** Per-step combination of frozen, separately trained
   LoRA operators is the case's fixed-allocation arm without masks.

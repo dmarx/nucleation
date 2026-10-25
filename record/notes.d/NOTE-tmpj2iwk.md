@@ -87,7 +87,7 @@ taste.
   to posterior, reduces in the linear model to maximizing
   φ₁(η) = det{nM(η) + R}. Spezzaferri's scoring-rule utility and Tiao and
   Afonja's two-valued utility lead to the same criterion. Re-derived in
-  THEORY-tmpig9py.
+  [THEORY-tmpig9py](../theory.d/THEORY-tmpig9py.md).
 - **Bayes A- and c-optimality (§2.2).** Quadratic loss (θ − θ̂)ᵀA(θ − θ̂)
   gives expected utility −σ² tr{AD(η)}. With A = ccᵀ this is
   c-optimality, the criterion for one linear combination cᵀθ, or for
@@ -135,7 +135,7 @@ taste.
   puts half its mass at 0 and half at 1. That gives a singular nM of rank
   2, from which the quadratic, and hence the turning point, cannot be
   fitted: "The locally optimal design is therefore useless". Re-derived in
-  THEORY-tmpg6jfa.
+  [THEORY-tmpg6jfa](../theory.d/THEORY-tmpg6jfa.md).
 - **Model discrimination (§8.3).** Spezzaferri's Bayesian criterion for
   choosing between two linear models minimizes the expected posterior
   probability of one model when the other is true. For nested normal
@@ -158,10 +158,10 @@ taste.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | Bayesian design is maximization of expected utility, and the criterion should follow from the experiment's purpose | strong as a framework | Lindley's formulation; the review's organization |
-| C2 | In the normal linear model with known variance, Shannon information gives Bayes D-optimality and quadratic loss Bayes A-optimality | strong | §2.2; re-derived in THEORY-tmpig9py |
+| C2 | In the normal linear model with known variance, Shannon information gives Bayes D-optimality and quadratic loss Bayes A-optimality | strong | §2.2; re-derived in [THEORY-tmpig9py](../theory.d/THEORY-tmpig9py.md) |
 | C3 | E- and G-optimality have no utility-based justification | moderate | stated, without a proof that none exists |
 | C4 | Nonlinear Bayesian criteria are asymptotic approximations, and local optimality is the point-mass special case | strong | §4.2–4.4 |
-| C5 | Locally optimal designs can make the target quantity inestimable | strong for the example | §7.2; re-derived in THEORY-tmpg6jfa |
+| C5 | Locally optimal designs can make the target quantity inestimable | strong for the example | §7.2; re-derived in [THEORY-tmpg6jfa](../theory.d/THEORY-tmpg6jfa.md) |
 | C6 | Nonlinear Bayesian optimal designs gain support points as the prior disperses | moderate | examples cited (Chaloner and Larntz 1986, 1989 and others), no general theorem; "It is unclear, however, under what circumstances this is so" |
 | C7 | Sequential design gains nothing in linear known-variance problems and should gain in nonlinear ones | strong for the first, moderate for the second | §5.5 argument |
 | C8 | Practice lags theory: almost no real experiment has been designed this way | moderate | the authors' survey as of 1995 |
@@ -191,17 +191,17 @@ review.
 
 ## Bearing on the record
 
-- **QUESTION-031's note of 2026-10-25, checked.** The note's
+- **[QUESTION-031](../questions.d/QUESTION-031.md)'s note of 2026-10-25, checked.** The note's
   G_ξ = Σ_c ξ(c)G_c is the review's nM(η) = n Σ η_i x_i x_iᵀ, generalized
   to the expected Fisher information nI(θ, η) of §4.2. Its log det is
-  Bayes D-optimality (THEORY-tmpig9py). A29's point that the task fixes
+  Bayes D-optimality ([THEORY-tmpig9py](../theory.d/THEORY-tmpig9py.md)). A29's point that the task fixes
   the criterion is the review's central thesis. Distinguishing two
   effects, rather than estimating every parameter, is c- or Ds-
   optimality, or Spezzaferri's discrimination criterion. The review does
   not answer the question as posed. Design chooses among probe families
   by a criterion. It gives no condition under which a family separates
   what a decision family needs.
-- **CASE-tmplg5jg's design problem.** The case is a nonlinear design
+- **[CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md)'s design problem.** The case is a nonlinear design
   problem in the review's sense: its information depends on the share
   being estimated, I_rare(π) = 0.64/(p(1 − p)) with p = 0.1 + 0.8π. So a
   design must average over a prior on π (§4.2) or fix a best guess
@@ -219,17 +219,17 @@ review.
   Each binary context contributes information of rank one, so at least
   k − 1 contexts with non-parallel profile differences are needed. The
   construction is the record's.
-- **Sequential probing.** Because CASE-tmplg5jg is nonlinear in this
+- **Sequential probing.** Because [CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md) is nonlinear in this
   sense, choosing probes adaptively should gain over a fixed design
   (§5.5). That is the design-side counterpart of the exploration results
-  in NOTE-tmpupizd and NOTE-tmpfxkdt.
-- **CLAIM-130.** The review treats ethical constraints only through the
+  in [NOTE-tmpupizd](NOTE-tmpupizd.md) and [NOTE-tmpfxkdt](NOTE-tmpfxkdt.md).
+- **[CLAIM-130](../claims.d/CLAIM-130.md).** The review treats ethical constraints only through the
   clinical examples ("the choice of the treatments to be compared is a
   central ethical issue"). It has nothing on a probe that changes the
   act it measures, the caution A29 raised.
-- **CLAIM-450, CLAIM-444.** Nothing here bears on the garbling
+- **[CLAIM-450](../claims.d/CLAIM-450.md), [CLAIM-444](../claims.d/CLAIM-444.md).** Nothing here bears on the garbling
   inequality. That nM(η) adds over independent observations is the
-  additivity CASE-tmplg5jg's sum over contexts assumes.
+  additivity [CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md)'s sum over contexts assumes.
 
 Statistical theory read for itself. No instruction for ML practice.
 
@@ -250,5 +250,5 @@ Statistical theory read for itself. No instruction for ML practice.
 - Which utility, if any, justifies E-optimality? The review leaves it
   open.
 - For a mixture model whose components' response profiles are known, as
-  in CASE-tmplg5jg, what is the Bayes-optimal adaptive probing policy,
+  in [CASE-tmplg5jg](../cases.d/CASE-tmplg5jg.md), what is the Bayes-optimal adaptive probing policy,
   and how much does it gain over the best fixed design?
