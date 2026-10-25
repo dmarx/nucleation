@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-25 (NOTE-tmpa8ixz) in full, from arXiv v1 and the PMLR
+  read 2026-10-25 ([NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)) in full, from arXiv v1 and the PMLR
   proceedings PDF; worth reading for the clearest published form of
   several denoiser runs acting on one shared state, each with authority
   over part of the canvas, fused at every step by a per-pixel weighted
-  average (THEORY-tmpt2q0g), and for its panorama and region-layout
-  results (THEORY-tmp5q0ny). Read it knowing that its closed form (Eq. 5)
+  average ([THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md)), and for its panorama and region-layout
+  results ([THEORY-tmp5q0ny](../theory.d/THEORY-tmp5q0ny.md)). Read it knowing that its closed form (Eq. 5)
   is the minimizer of its printed loss only for 0/1 weights, that
   Proposition 3.1's guarantee needs zero loss at every step and so does
   not describe the method as run, that most of the layout gain comes from
@@ -72,9 +72,9 @@ Fusing diffusion paths for controlled image generation. *Proceedings of
 the 40th International Conference on Machine Learning*, PMLR 202:
 1737–1752. arXiv:2302.08113.
 
-Read in full on 2026-10-25 (NOTE-tmpa8ixz). The fusion step is
-re-derived in THEORY-tmpt2q0g and the results are held in
-THEORY-tmp5q0ny. The reading confirms the prior art the exchange missed:
+Read in full on 2026-10-25 ([NOTE-tmpa8ixz](../notes.d/NOTE-tmpa8ixz.md)). The fusion step is
+re-derived in [THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md) and the results are held in
+[THEORY-tmp5q0ny](../theory.d/THEORY-tmp5q0ny.md). The reading confirms the prior art the exchange missed:
 A45's masked combination of the perspectives' noise predictions is, with
 unit weights, this paper's region-based step.
 

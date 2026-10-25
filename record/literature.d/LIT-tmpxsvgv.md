@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-25 (NOTE-tmphq8v2) in full, from arXiv v2, the TMLR
+  read 2026-10-25 ([NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)) in full, from arXiv v2, the TMLR
   version; worth reading for two ways of letting separately trained
   low-rank operators act on one denoising trajectory without merging them,
   by turns (LoRA Switch) or by averaging their guided predictions (LoRA
   Composite), for GPT-4V and human judgements preferring both to weight
-  merging as LoRAs are added (THEORY-tmpg6v1v), and for its ablation in
+  merging as LoRAs are added ([THEORY-tmpg6v1v](../theory.d/THEORY-tmpg6v1v.md)), and for its ablation in
   which, at equal shares of steps, the switching interval and the LoRA
-  acting first change the result (THEORY-tmp6s2xi). Read it knowing that
+  acting first change the result ([THEORY-tmp6s2xi](../theory.d/THEORY-tmp6s2xi.md)). Read it knowing that
   the merging baseline's summed update grows with the number of LoRAs,
   which the design does not separate from the methods' idea; that the two
   methods are never compared head to head by the judge; that the judge
@@ -74,10 +74,10 @@ Zhong, M., Shen, Y., Wang, S., Lu, Y., Jiao, Y., Ouyang, S., Yu, D., Han,
 J. & Chen, W. (2024). Multi-LoRA composition for image generation.
 *Transactions on Machine Learning Research*. arXiv:2402.16843.
 
-Read in full on 2026-10-25 (NOTE-tmphq8v2). The main comparison is held
-in THEORY-tmpg6v1v and the switching ablation in THEORY-tmp6s2xi. LoRA
+Read in full on 2026-10-25 ([NOTE-tmphq8v2](../notes.d/NOTE-tmphq8v2.md)). The main comparison is held
+in [THEORY-tmpg6v1v](../theory.d/THEORY-tmpg6v1v.md) and the switching ablation in [THEORY-tmp6s2xi](../theory.d/THEORY-tmp6s2xi.md). LoRA
 Composite turns out to be MultiDiffusion's per-step average
-(LIT-tmp03agp, THEORY-tmpt2q0g) with every mask full and LoRA-modified
+([LIT-tmp03agp](LIT-tmp03agp.md), [THEORY-tmpt2q0g](../theory.d/THEORY-tmpt2q0g.md)) with every mask full and LoRA-modified
 models in place of prompts.
 
 ## Why this is here
