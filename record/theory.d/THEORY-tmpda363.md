@@ -21,12 +21,12 @@ date: '2026-10-25'
 source:
 - LIT-tmpcevhu
 summary: >-
-  Wald (1945), LIT-tmpcevhu, read in NOTE-tmpxtksz. The SPRT's operating
+  Wald (1945), [LIT-tmpcevhu](../literature.d/LIT-tmpcevhu.md), read in [NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md). The SPRT's operating
   characteristic and mean sample size follow from two identities of the
   stopped walk, and its optimality from Jensen's inequality, all exact
   when the walk stops on the boundary. Optimality with overshoot is only
   conjectured in the paper. The drift-diffusion limit that the record
-  takes from Bogacz et al. (LIT-569, THEORY-068) is not stated by Wald. It
+  takes from Bogacz et al. ([LIT-569](../literature.d/LIT-569.md), [THEORY-068](THEORY-068.md)) is not stated by Wald. It
   is the case in which his approximations become exact.
 ---
 # THEORY-tmpda363: For independent identically distributed observations, and neglecting how far the log-likelihood-ratio walk overshoots its boundaries, Wald's sequential probability ratio test accepts the null hypothesis with probability (A^h − 1)/(A^h − B^h), where h ≠ 0 solves E e^{hz} = 1, and takes on average [(1 − γ) log B + γ log A]/E z observations; no sequential test with the same error probabilities needs fewer on average under either hypothesis than Wald's lower bounds, which the test attains when the overshoot is zero, and for a normal mean it saves 47–63% of the fixed-sample test's observations at error rates from .01 to .05; the overshoot-free formulas are exact for Brownian motion with drift, which the paper never mentions
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Wald (1945), *The Annals of Mathematical Statistics* 16(2): 117–186,
-LIT-tmpcevhu, read in full in NOTE-tmpxtksz from the JSTOR scan the
+[LIT-tmpcevhu](../literature.d/LIT-tmpcevhu.md), read in full in [NOTE-tmpxtksz](../notes.d/NOTE-tmpxtksz.md) from the JSTOR scan the
 owner supplied: §3.4 (operating characteristic), §§4.1, 4.3 and 4.4
 (sample size, savings, distribution of n), §4.7 (optimality) and §5.4
 (normal mean). The fundamental identity and termination are cited there
@@ -57,7 +57,7 @@ accepting H₀ is (A^h − 1)/(A^h − B^h). Under H₀, E₀e^{z} = ∫f₁ = 1
 Under H₁, E₁e^{−z} = ∫f₀ = 1, so h = −1. Wald: "It is easy to verify that
 h = 1 if H = H₀, and h = −1 if H = H₁." Then γ = α under H₀ and γ = 1 − β under
 H₁, which recovers A = (1 − β)/α and B = β/(1 − α) as equalities
-(THEORY-tmpeglfj).
+([THEORY-tmpeglfj](THEORY-tmpeglfj.md)).
 
 **Expected sample size.** Z_m − mEz is a martingale. Stopping it gives
 EZ_n = En·Ez (4.4), Wald's identity, proved in the paper by truncation at
@@ -134,11 +134,11 @@ or the formulas could have stayed off for small steps. None did.
   conjecture, outside this paper.
 - **Not anything for dependent or non-identical observations.** The OC,
   the sample size and the optimality all need i.i.d. zᵢ. Only the error
-  bounds survive dependence (THEORY-tmpeglfj).
+  bounds survive dependence ([THEORY-tmpeglfj](THEORY-tmpeglfj.md)).
 - **Not that the drift-diffusion model is Wald's.** The paper contains the
   discrete test and approximations that coincide with the diffusion's
   formulas. The limit statement is later work's, as the record has it
-  through LIT-569.
+  through [LIT-569](../literature.d/LIT-569.md).
 - **Not that the saving is always about half.** Table 1 is for a normal
   mean with the fixed-sample test as the comparison. Under alternatives
   between θ₀ and θ₁, E(n) is largest and the saving smallest (§5.2.5,
@@ -146,15 +146,15 @@ or the formulas could have stayed off for small steps. None did.
 
 ## Connections
 
-- **THEORY-068.** It states, through Bogacz et al. (LIT-569), that the SPRT
+- **[THEORY-068](THEORY-068.md).** It states, through Bogacz et al. ([LIT-569](../literature.d/LIT-569.md)), that the SPRT
   is the fastest test for a given error rate and that its continuum limit
   is the drift-diffusion model. Here the first is a theorem up to the
   overshoot, and the second is the case in which Wald's own approximations
   are exact.
-- **CASE-155** (note of 2026-10-25). "Its drift is half its variance": for
+- **[CASE-155](../cases.d/CASE-155.md)** (note of 2026-10-25). "Its drift is half its variance": for
   Gaussian evidence the log-likelihood-ratio increment has
   E₁z = ½(θ₁ − θ₀)² and variance (θ₁ − θ₀)², Wald's (4.33) and h = −1 under H₁.
-- **CLAIM-tmpfd9lk.** Its replicator construction rests on THEORY-068's
+- **[CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md).** Its replicator construction rests on [THEORY-068](THEORY-068.md)'s
   limit. This account gives that limit a primary-source reading: a
   coincidence of formulas, not a theorem of Wald's.
-- **THEORY-tmpeglfj** holds the test's definition and error inequalities.
+- **[THEORY-tmpeglfj](THEORY-tmpeglfj.md)** holds the test's definition and error inequalities.

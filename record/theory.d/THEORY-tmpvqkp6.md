@@ -22,7 +22,7 @@ date: '2026-10-25'
 source:
 - LIT-tmpwlnuv
 summary: >-
-  DeGroot (1974), LIT-tmpwlnuv, read in NOTE-tmp5sbzm. Repeated averaging
+  DeGroot (1974), [LIT-tmpwlnuv](../literature.d/LIT-tmpwlnuv.md), read in [NOTE-tmp5sbzm](../notes.d/NOTE-tmp5sbzm.md). Repeated averaging
   with fixed weights is a Markov chain run on opinions, and whether it
   ends in agreement is a question about the chain's closed classes and
   their periods. It is not about how much each member trusts itself. The
@@ -35,8 +35,8 @@ summary: >-
 ## Source
 
 DeGroot (1974), "Reaching a Consensus", *Journal of the American
-Statistical Association* 69(345): 118–121, LIT-tmpwlnuv, read in full in
-NOTE-tmp5sbzm from the JSTOR scan the owner supplied. Theorems 1 and 2
+Statistical Association* 69(345): 118–121, [LIT-tmpwlnuv](../literature.d/LIT-tmpwlnuv.md), read in full in
+[NOTE-tmp5sbzm](../notes.d/NOTE-tmp5sbzm.md) from the JSTOR scan the owner supplied. Theorems 1 and 2
 and the negative cases are in §5, Theorem 3 in §6. The paper gives no
 proofs. Theorem 1 is "adapted from a result given by Doob", and the rest
 is referred to Feller, Karlin and Parzen. The derivations below are the
@@ -113,7 +113,7 @@ members is not.
 
 - **Not that the consensus is right.** No observation enters and the
   weights never change. Whether the pooled opinion tracks a truth is Golub
-  and Jackson's question (THEORY-321), asked of this model.
+  and Jackson's question ([THEORY-321](THEORY-321.md)), asked of this model.
 - **Not that agreement fails for every start** in the negative cases.
   Members who start equal stay equal, and a start with no component along
   the oscillating or separating modes may converge. The negative cases
@@ -128,13 +128,13 @@ members is not.
 
 ## Connections
 
-- **THEORY-321.** Golub and Jackson's influence vector s is this π, and
+- **[THEORY-321](THEORY-321.md).** Golub and Jackson's influence vector s is this π, and
   their Proposition 1 is this theorem for a strongly connected, aperiodic
   society. The present account says what that narrowing excludes: several
   closed groups, which give no consensus, and a periodic one, which gives
   none in discrete time. A single closed class with transient members is
   allowed here, with those members getting no weight.
-- **CASE-tmpvmjgd.** Its ℓ, with ℓᵀW = ℓᵀ and Σℓᵢ = 1 for a row-stochastic
+- **[CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md).** Its ℓ, with ℓᵀW = ℓᵀ and Σℓᵢ = 1 for a row-stochastic
   W, is π for P = W. The invariance it uses, ℓᵀ(κW − λI) = (κ − λ)ℓᵀ, is the
   invariant πPⁿF = πF given a leak and a drive. Its discrete-time
   amendment (aperiodicity) is DeGroot's own periodic case. Its exclusion of
@@ -142,7 +142,7 @@ members is not.
   W with one closed class of two members and two transient members,
   ℓ = (0.429, 0.571, 0, 0), the closure ℓᵀ(κW − λI) − (κ − λ)ℓᵀ is 3 × 10⁻¹⁷,
   and the other eigenvalues of W are 0.5, 0.5 and 0.3.
-- **CLAIM-262.** The exchange called ℓ "an emergent summary of who is
+- **[CLAIM-262](../claims.d/CLAIM-262.md).** The exchange called ℓ "an emergent summary of who is
   listened to". In DeGroot that is literal. The weights are chosen and
   fixed, so π summarizes the network of attention and not anyone's
   accuracy.

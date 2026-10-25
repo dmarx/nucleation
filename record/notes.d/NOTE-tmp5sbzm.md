@@ -120,7 +120,7 @@ member's accuracy.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | Iterated fixed-weight averaging of opinions reaches a consensus if some power of P has a strictly positive column | strong | Theorem 1, cited from Doob, no proof given; re-derived in THEORY-tmpvqkp6 |
+| C1 | Iterated fixed-weight averaging of opinions reaches a consensus if some power of P has a strictly positive column | strong | Theorem 1, cited from Doob, no proof given; re-derived in [THEORY-tmpvqkp6](../theory.d/THEORY-tmpvqkp6.md) |
 | C2 | It reaches one if all recurrent states communicate and are aperiodic | strong | Theorem 2, stated as "analogous", no proof; equivalent to C1 for a finite chain (re-derived, not remarked in the paper) |
 | C3 | Two closed classes, or one periodic closed class, give no consensus | strong as a statement about consensus from every start; it needs that quantifier | stated, with textbook references; checked |
 | C4 | When a consensus is reached its weights are the unique stationary vector, zero on transient members | strong | Theorem 3, stated as "well known"; re-derived |
@@ -147,35 +147,35 @@ Gale (1959) and Norvig (1967) on consensus and pari-mutuel methods, Stone
 Morris (1971), Winkler (1968) and Savage (1971). The Markov-chain results
 are from Doob (1953), Feller (1968), Karlin (1966) and Parzen (1962).
 The Delphi technique is cited through Dalkey et al. (1972). The record
-reads its descendants: Golub and Jackson's naïve learning (LIT-999,
-THEORY-321), which calls the same iteration DeGroot updating and takes
+reads its descendants: Golub and Jackson's naïve learning ([LIT-999](../literature.d/LIT-999.md),
+[THEORY-321](../theory.d/THEORY-321.md)), which calls the same iteration DeGroot updating and takes
 the stationary vector as influence; the DeGroot–Friedkin model of Jia
-et al. (LIT-1146); and Friedkin, Jia and Bullo (LIT-1482), who let the
+et al. ([LIT-1146](../literature.d/LIT-1146.md)); and Friedkin, Jia and Bullo ([LIT-1482](../literature.d/LIT-1482.md)), who let the
 self-weights change, the possibility DeGroot names in §8 and leaves out.
 
 ## Bearing on the record
 
-- **THEORY-tmpvqkp6** is filed from this reading: the conditions for
+- **[THEORY-tmpvqkp6](../theory.d/THEORY-tmpvqkp6.md)** is filed from this reading: the conditions for
   consensus and the weights it uses, as DeGroot states them, re-derived.
-- **THEORY-321** already uses this model through Golub and Jackson. Its
+- **[THEORY-321](../theory.d/THEORY-321.md)** already uses this model through Golub and Jackson. Its
   "strongly connected" narrowing is stronger than DeGroot's Theorem 2 needs
   for a consensus to exist: one closed class plus aperiodicity suffices,
   with transient members getting zero weight. Wisdom is Golub and
-  Jackson's question, not DeGroot's, so nothing in THEORY-321 changes.
-- **CASE-tmpvmjgd.** Its ℓ, the left eigenvector of a row-stochastic W
+  Jackson's question, not DeGroot's, so nothing in [THEORY-321](../theory.d/THEORY-321.md) changes.
+- **[CASE-tmpvmjgd](../cases.d/CASE-tmpvmjgd.md).** Its ℓ, the left eigenvector of a row-stochastic W
   with ℓᵀW = ℓᵀ and Σℓᵢ = 1, is DeGroot's π for P = W, by the same
   equation (Theorem 3). Its discrete-time amendment, that x ← Wx settles
   only if W is aperiodic, is DeGroot's own negative statement for a
   periodic closed class (§5). Its exclusion of "a reducible W" is broader
   than needed: with one closed class and transient members, ℓ is unique,
   zero off the class, and the closure still holds (checked, in
-  THEORY-tmpvqkp6). The roles differ. DeGroot's π weights the initial
+  [THEORY-tmpvqkp6](../theory.d/THEORY-tmpvqkp6.md)). The roles differ. DeGroot's π weights the initial
   opinions in a limit. The case's ℓ weights a running coordinate that the
   coupling conserves. They are the same invariant, πPⁿF = πF.
-- **CLAIM-tmpfd9lk** lists "a strongly connected population" among its
+- **[CLAIM-tmpfd9lk](../claims.d/CLAIM-tmpfd9lk.md)** lists "a strongly connected population" among its
   conditions. DeGroot's condition is one closed class (with aperiodicity
   in discrete time).
-- **CLAIM-262** and the owner's exchange: the U36 reply's "an emergent
+- **[CLAIM-262](../claims.d/CLAIM-262.md)** and the owner's exchange: the U36 reply's "an emergent
   summary of who is listened to, much as in classical consensus and
   DeGroot models" is borne out. In DeGroot the weights are fixed and
   chosen, so "who is listened to" is literal, and accuracy plays no part.
@@ -209,7 +209,7 @@ for the anthology.
 ## Open questions
 
 - What happens when members revise their weights after seeing how others
-  move? §8 names this and leaves it. Friedkin, Jia and Bullo (LIT-1482)
-  and the DeGroot–Friedkin model (LIT-1146) take it up.
+  move? §8 names this and leaves it. Friedkin, Jia and Bullo ([LIT-1482](../literature.d/LIT-1482.md))
+  and the DeGroot–Friedkin model ([LIT-1146](../literature.d/LIT-1146.md)) take it up.
 - How fast is the consensus reached? The paper says nothing about rates.
-  Golub and Jackson treat speed separately from correctness (THEORY-321).
+  Golub and Jackson treat speed separately from correctness ([THEORY-321](../theory.d/THEORY-321.md)).
