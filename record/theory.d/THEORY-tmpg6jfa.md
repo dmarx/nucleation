@@ -26,6 +26,8 @@ summary: >-
   approximations' accuracy is "not much known" in general. The claim that
   optimal Bayesian designs gain support points as the prior disperses rests
   on examples, not a theorem, and is not part of this account.
+supports:
+- CLAIM-tmpa8ttt
 ---
 # THEORY-tmpg6jfa: When the information a design yields depends on the unknown parameter, as in nonlinear models or nonlinear functions of linear ones, Bayesian design criteria are normal approximations to expected utility that average a local criterion over the prior, such as the expected log det of the Fisher information, and locally optimal design is the special case of a point-mass prior; a locally optimal design can leave the quantity of interest inestimable, as for the turning point of a quadratic regression on [−1, 1] with best guess ½, where the locally c-optimal design puts half its mass at 0 and half at 1 and identifies only θ₁ + θ₂
 

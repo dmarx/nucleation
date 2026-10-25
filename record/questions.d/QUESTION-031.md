@@ -3,8 +3,8 @@ number: 31
 status: Open
 formerly:
 - QUESTION-tmpybqw8
-title: 'When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones?'
-version: 3
+title: 'When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones, beyond the cases in which the task''s target and the probes'' outcome laws are linear in one state?'
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -20,6 +20,16 @@ history:
     design ranks probe families without giving a separation condition. A
     lemma from partial monitoring answers one decision family. The question
     is unchanged and stays Open.
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049 at the owner's direction (2026-10-25). Where the
+    task's target and the probes' outcome laws are linear in one state is
+    QUESTION-tmp1wykc, Answered by THEORY-tmpwtj3m and CLAIM-tmpa8ttt. This
+    question is reworded to what is left. The previous title was 'When does
+    a chosen family of observational probes separate the communicative
+    realizations a task needs told apart, and when does it collapse distinct
+    ones?'
 tags:
 - mathematics
 - pragmatics
@@ -36,12 +46,14 @@ summary: >-
   stochastic, decision-relative version is open.
 answered_by:
 - CLAIM-193
+refined_by:
+- QUESTION-tmp1wykc
 ---
 <!-- inactive-ok-file: CLAIM-129 CLAIM-149 THEORY-008 THEORY-019 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-077 CLAIM-050 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
-# QUESTION-031: When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones?
+# QUESTION-031: When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones, beyond the cases in which the task's target and the probes' outcome laws are linear in one state?
 
 ## Why it is a question
 
@@ -151,3 +163,16 @@ also agree on the comparison of actions i and j for every such pair iff
 before any data. It covers pairwise comparisons only, with deterministic
 or known-law signals, so the question stays Open. The question is
 unchanged.
+
+## Split, 2026-10-25 ([ADR-049](../decisions.d/ADR-049.md))
+
+The linear case is [QUESTION-tmp1wykc](QUESTION-tmp1wykc.md), Answered. When the task's target
+and the probes' outcome laws are linear in one state, a probe family
+separates what the task needs exactly when the target lies in the span of
+what the probes reveal: for pairwise comparisons of actions, the loss
+difference in the probes' combined signal row space ([THEORY-tmpwtj3m](../theory.d/THEORY-tmpwtj3m.md)); for
+the authority shares of a mixture of known profiles, affinely independent
+profiles over the probe contexts ([CLAIM-tmpa8ttt](../claims.d/CLAIM-tmpa8ttt.md)). This question keeps the
+rest: targets or outcome laws that are not linear in a common state,
+profiles that must themselves be estimated, and probes whose availability
+the organization's own choices decide.

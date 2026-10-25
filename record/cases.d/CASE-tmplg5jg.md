@@ -34,6 +34,8 @@ summary: >-
   profiles. Redistribution between processes that agree on the probes is
   invisible to them, and a probe on which they disagree restores it. The
   mixture counterpart of [CASE-152](CASE-152.md)'s product model.
+supports:
+- CLAIM-tmpa8ttt
 ---
 <!-- inactive-ok-file: CLAIM-450 CLAIM-444 — Proposed; the claims this construction illustrates, nothing here rests on their being settled -->
 

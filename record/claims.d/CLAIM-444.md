@@ -51,6 +51,8 @@ illustrated_by:
 - CASE-155
 - CASE-157
 - CASE-tmplg5jg
+supports:
+- CLAIM-tmpa8ttt
 ---
 <!-- inactive-ok-file: THEORY-899 CASE-155 CLAIM-443 CLAIM-448 — Proposed or new, filed in this pull request -->
 <!-- inactive-ok-file: CLAIM-369 THEORY-894 THEORY-896 CLAIM-451 — cited as the tools the reduction brings in -->
