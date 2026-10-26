@@ -22,6 +22,8 @@ summary: >-
   2026-10-22 asked for the senses to be listed, with the first as the
   default in "organizational perspective". A claim using "organization"
   or "organized" should say which. Adoption is the owner's decision.
+used_by:
+- CLAIM-tmpwr001
 ---
 <!-- inactive-ok-file: CLAIM-278 CLAIM-418 TERM-063 TERM-072 — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
 

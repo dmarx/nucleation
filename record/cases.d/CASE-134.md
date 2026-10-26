@@ -4,13 +4,20 @@ status: Active
 formerly:
 - CASE-tmpo48af
 title: 'Northstar''s commander handoff: twelve hours into an incident the commander goes off shift and hands command to a colleague, and the response continues without disruption and with no one continuous through it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
   note: >-
     Note of 2026-10-22 added after NIMS was skimmed: its
     transfer-of-command procedure. The case is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a simulated run of this handoff with the team's
+    records kept or erased, reported at T20 of the exchange
+    "Experimental Infrastructure Review" and not reproduced (CASE-
+    tmprl1px). The case is unchanged.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -31,6 +38,8 @@ summary: >-
   the record did not already hold. It separates continuity of an
   organization from continuity of any person in it. Not shown: anything
   about whether the response is experienced.
+variants:
+- CASE-tmprl1px
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-355 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
@@ -90,3 +99,26 @@ operations, and notifying all personnel involved in the incident"
 and notification; what the case adds is that a briefing transfers the
 record of an arrangement, not the capacity the outgoing commander had
 built.
+
+## Note of 2026-10-26: records preserved or erased at the handoff (reported)
+
+<!-- inactive-ok-file: CASE-tmprl1px — Proposed; the reported study, cited as open -->
+
+T20 of the exchange "Experimental Infrastructure Review" reports running
+this case's handoff in a simulation ([CASE-tmprl1px](CASE-tmprl1px.md)): "An incident
+commander can transfer their role to another employee while
+preserving—or losing—the group's records." During a telemetry outage the
+records-preserved arm estimated the company's state with an MSE of
+0.00411, against 0.03398 with the records erased. But "that improvement in
+organizational knowledge often doesn't change the selected action".
+
+That fits this case's note of 2026-10-22: a briefing "transfers the record
+of an arrangement, not the capacity the outgoing commander had built".
+The records carried the estimate, and what the response did hardly
+depended on them. T20 put it the other way round ("preserving a capacity
+for interpretation is not equivalent to exercising that capacity
+successfully"), calling the records the capacity. T18 also placed
+Northstar "already considered in CASE-134"; the company is [CASE-023](CASE-023.md), and
+this is its handoff variant. Reported, not reproduced: T20's "PerspectiveLab v2.11" is not held,
+and dmarx/PerspectiveLab holds no v2.10 or v2.11 (its latest import is
+c54617e, v2.9). The case is unchanged.

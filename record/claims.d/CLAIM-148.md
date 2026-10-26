@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpro4wi
 title: 'A matrix factorization is identified only up to an invertible change of latent coordinates, which weight decay narrows to rotations and nonnegativity to rescalings and permutations plus a data-dependent remainder; such a gauge is not a symmetry of the relational system, and automorphisms of the data act on the factors only when the factorization is identifiable'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,14 @@ history:
     with its synthesis across works. The grounds and citations now name the
     Active entries, and the directive for the two Proposed ones is removed.
     The minimizer step is added as a note. The claim is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the dynamic beta–Bernoulli model of T23 of the
+    exchange "Experimental Infrastructure Review" (CASE-tmplcm41) has
+    this claim's gauge in five forms, three of which the exchange
+    missed, including the confounding of having a feature with using it.
+    The claim is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -186,3 +194,30 @@ U = U_M Σ^½ R for some R with orthonormal rows. Likewise VVᵀ = V_M Σ V_Mᵀ
 V = V_M Σ^½ R′. Then UVᵀ = M gives RR′ᵀ = I, which for two matrices with
 orthonormal rows forces R′ = R. The latent
 Gram matrix of the items, VVᵀ = V_M Σ V_Mᵀ, is therefore fixed by the penalty.
+
+## Note of 2026-10-26: an additive latent-feature model of an organization's members
+
+<!-- inactive-ok-file: CASE-tmplcm41 — Proposed; the construction, filed the same day -->
+
+T23 of the exchange "Experimental Infrastructure Review" proposed an
+additive latent-feature model of employees ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)),
+u = Σ_k B_k a_k W_k o + W^private o, with B a binary availability under a
+beta–Bernoulli prior and a ∈ [0, 1] an activation. Its own
+identifiability section names column permutation and the scale trade
+between W_k and a_k. Both are instances of this claim's gauge, and the
+scale trade is exact while the rescaled a stays in [0, 1].
+
+Three more follow from the same algebra, and the exchange missed them.
+
+1. B = 1 with a near 0 and B = 0 give nearly the same output, so
+   availability is separated from activation only by the prior and the
+   dynamics, not by the data.
+2. A feature one employee holds at constant activation c is absorbed into
+   that employee's private map, W^private + cW_k.
+3. Features whose B and a columns coincide across employees are identified
+   only through their sum W_k + W_l.
+
+So the distinction T23 calls important, between possessing a capacity and
+using it, is not identified from the outputs alone. Points 2 and 3 were
+checked numerically to machine precision; no model was fitted. The claim
+is unchanged.

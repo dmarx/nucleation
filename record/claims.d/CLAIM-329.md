@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -21,6 +21,14 @@ history:
     Applications": two cases that sharpen the claim, party realignment
     (organization transmitted, perspective not) and descent through
     opposition (causal connection without transmission), filed as CASE-133 and CLAIM-420. The claim is unchanged.
+- version: 4
+  date: '2026-10-26'
+  note: >-
+    A dated note added: T24 of the exchange "Experimental Infrastructure
+    Review" cited this claim for transformer features across
+    checkpoints, at the grain of TERM-071, and then asked its question
+    without it; in training, causal connection is total, so the verdict
+    falls to what is transmitted. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -170,3 +178,31 @@ that produces the collective.
 
 Taylor's women's movement in abeyance ([LIT-1381](../literature.d/LIT-1381.md), unread) is the
 dormant form, close to [CLAIM-287](CLAIM-287.md)'s reinstatable capacity.
+
+## Note of 2026-10-26: a case in which every successor is causally descended
+
+<!-- inactive-ok-file: CLAIM-263 — Proposed; the quotient protocol, cited as open, nothing here rests on it -->
+
+T24 of the exchange "Experimental Infrastructure Review" cited this claim
+for "distinct forms of organizational persistence" of features across a
+transformer's training checkpoints ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). It split
+"Representational continuity: The same distinction remains recoverable"
+from "Computational continuity: A causally effective computation continues
+to operate, perhaps through different physical components", and said
+"These can come apart". Those are [TERM-071](../terms.d/TERM-071.md)'s state and dynamical senses.
+The historical sense, which is this claim's thesis, is missing: this claim
+is not a list of persistences but the thesis that persistence through
+turnover is by causal transmission, not resemblance.
+
+The reply's §6 then asks this claim's question without citing it: "Can we
+distinguish a continuing computation from a newly learned replacement with
+similar output behavior?" Training sharpens the question in one way. Every
+checkpoint is causally descended from the last through the update rule,
+so causal connection is total and cannot by itself separate continuation
+from replacement. The verdict falls to [QUESTION-118](../questions.d/QUESTION-118.md), on what must be
+transmitted. [CLAIM-420](CLAIM-420.md), descent through opposition, is the record's other
+case of causal connection without transmission. Implementation turnover,
+"perhaps through different physical components", is this claim's member
+replacement, and matching features across checkpoints needs [CLAIM-263](CLAIM-263.md)'s
+quotient by the architecture's full symmetry group before resemblance can
+count for anything. The claim is unchanged.
