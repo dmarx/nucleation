@@ -20,7 +20,9 @@ history:
     A dated note added: a seventh appearance, with CASE-126 and
     CLAIM-414 named, and interventions that separate stipulated
     arrangements in a population (CASE-tmpfmdj6, CASE-tmpw6jjd); the
-    boundary is still stipulated. The question is unchanged.
+    boundary is still stipulated. Extended the same day with the lab's
+    v2.5 (dmarx/PerspectiveLab@f392084), where a catalog missing the
+    true law makes the diagnosis brittle. The question is unchanged.
 tags:
 - self-governance
 - individuation
@@ -166,3 +168,14 @@ teams are put there, so where the boundary falls is stipulated, not
 found. Whether [CLAIM-414](../claims.d/CLAIM-414.md) with these cases answers a finite-model child of
 this question under [ADR-049](../decisions.d/ADR-049.md) is left for the owner. The question is
 unchanged.
+
+The lab's v2.5 (dmarx/PerspectiveLab@f392084
+experiments/adequacy_guard/) asks what happens when the true maintenance
+law is not among the candidates. An adequacy alarm caught an unseen
+bottleneck law on every test seed, and the fallback reduced the
+cost-adjusted loss from 0.146 to 0.022, with a fixed schedule still
+better at 0.017. Under an unseen cubic law the same fallback made things
+worse. Diagnosis by intervention therefore holds only within the
+catalog the modeller supplies, and v2.5 shows how to detect, not repair,
+leaving it. Nothing here bears on whether a maintaining arrangement is
+self-constituting.

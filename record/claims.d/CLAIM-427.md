@@ -14,8 +14,10 @@ history:
     comparator pilot (dmarx/PerspectiveLab@dce302b) shows why fit alone
     cannot. Extended the same day with the lab's v2.3 matched comparator
     (dmarx/PerspectiveLab@e9efcf4), which equalizes data and parameter
-    count and still does not reach the third grade. The claim is
-    unchanged.
+    count and still does not reach the third grade, and with v2.5's
+    adequacy guard (dmarx/PerspectiveLab@f392084), whose same-kernel
+    conventional control takes every action the guard takes. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -138,3 +140,16 @@ model with the same feature basis ties exactly. The structural model's
 hand-chosen basis is not priced in description length, and every law
 was written inside one experiment, so this is a better test of the
 third grade that still does not meet it. Its report says so.
+
+The lab's v2.5 (dmarx/PerspectiveLab@f392084
+experiments/adequacy_guard/) adds a prequential check of model adequacy
+that switches a misled adaptive design to a fixed probe schedule. On an
+out-of-catalog bottleneck law it fires in all 16 test episodes and cuts
+the cost-adjusted loss from 0.146 to 0.022, though the fixed schedule
+alone does better (0.017). On an out-of-catalog cubic law it makes the
+loss worse (0.018 to 0.022), and on valid mechanisms it false-alarms
+above its nominal rate. A conventional Bayesian controller given the same
+kernels, likelihood, detector and costs takes the same actions and makes
+the same predictions in every episode. So what helps is ordinary
+robust model checking, not anything specific to the organizational
+description, and the third grade is still unmet.
