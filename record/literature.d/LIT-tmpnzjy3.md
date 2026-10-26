@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpjg8xz) in full, from the typeset article on
+  read 2026-10-26 ([NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md)) in full, from the typeset article on
   Griffiths's lab page at Princeton; worth reading for the author–topic
   model as the plain-text case of members' overlapping participation in
   themes, for its factorization of the document–word matrix as ΦΘA
-  (THEORY-tmp7wy54), and for the measured trade between pooling by author
-  and per-document flexibility (THEORY-tmpt1q8m). Read it knowing that
+  ([THEORY-tmp7wy54](../theory.d/THEORY-tmp7wy54.md)), and for the measured trade between pooling by author
+  and per-document flexibility ([THEORY-tmpt1q8m](../theory.d/THEORY-tmpt1q8m.md)). Read it knowing that
   authorship is observed, never inferred, that the number of topics and
   the hyperparameters are fixed, that an author's topics are proportions
   summing to one, that identifiability is claimed only up to permutation
@@ -71,7 +71,7 @@ Rosen-Zvi, M., Chemudugunta, C., Griffiths, T., Smyth, P. & Steyvers, M.
 Information Systems* 28(1): 1–38. doi:10.1145/1658377.1658381.
 
 Read in full on 2026-10-26 from the typeset copy on Griffiths's lab page
-(NOTE-tmpjg8xz). The summary is checked against the reading.
+([NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md)). The summary is checked against the reading.
 
 ## Why this is here
 

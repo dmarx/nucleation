@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpabelf) in full, from the arXiv print of the
+  read 2026-10-26 ([NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md)) in full, from the arXiv print of the
   Transformer Circuits article; worth reading as the first mechanistic
   account of a transition in training, for the in-context learning score,
   and for the way it grades its own evidence by model class. Read it
   knowing that the case is causal only for small attention-only models
-  (THEORY-tmp8cat0), that the large-model thesis is correlational and by
-  analogy (THEORY-tmpkd3fq), that every model was trained once on the same
+  ([THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md)), that the large-model thesis is correlational and by
+  analogy ([THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md)), that every model was trained once on the same
   data order, and that its dates for the window disagree between sections.
 title: 'In-context Learning and Induction Heads'
 version: 2
@@ -69,7 +69,7 @@ Olsson, C., Elhage, N., Nanda, N., Joseph, N., et al. (2022). In-context
 learning and induction heads. *Transformer Circuits Thread*, 8 March
 2022. arXiv:2209.11895.
 
-Read in full on 2026-10-26 (NOTE-tmpabelf). The summary is checked
+Read in full on 2026-10-26 ([NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md)). The summary is checked
 against the reading.
 
 ## Why this is here

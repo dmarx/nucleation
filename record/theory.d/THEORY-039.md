@@ -19,7 +19,16 @@ promote_when: >-
   noise, falls and tracks generalisation across nonlinearities and
   optimisers.
 title: 'The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the refined-LLC study, read on 2026-10-26 for
+    the exchange "Experimental Infrastructure Review", measures a
+    per-head fall in complexity, a simplification phase
+    seen one component at a time. By the promote_when it settles
+    nothing. The account is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -83,3 +92,17 @@ Each work divides training into phases. None of them compares its phases with th
 
 - [THEORY-035](THEORY-035.md) rejects the IB account of a later compression phase. This document generalises its negative finding across the record's other phase sequences, without depending on it. Neither relation is declared, because this claim is about the phase literature, not about the mechanism that document rejects.
 - [LIT-324](../literature.d/LIT-324.md) ([NOTE-298](../notes.d/NOTE-298.md)) is the origin of the drift → diffusion and fitting → compression picture. [LIT-341](../literature.d/LIT-341.md) ([NOTE-287](../notes.d/NOTE-287.md)) is the grokking phenomenon behind [LIT-345](../literature.d/LIT-345.md) and [LIT-369](../literature.d/LIT-369.md). [LIT-348](../literature.d/LIT-348.md) names the noise scale that the gradient-SNR transition precedes.
+
+## Note of 2026-10-26: simplification measured per head
+
+The refined-LLC study ([NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md)), read on 2026-10-26 for T24 of the
+exchange "Experimental Infrastructure Review" ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)), tracks
+the local learning coefficient of each attention head of a two-layer
+attention-only language model over training. Its appendices C.2–C.3
+report stages in which a head's coefficient falls, which the authors read
+as "periods of refinement" following periods of rapid specialization and
+liken to critical periods and synaptic pruning. That is a measured, per-component instance of this account's
+first kind of later phase, a network simplifying, and it sits in the
+same run beside heads that grow ([THEORY-tmp9uzkw](THEORY-tmp9uzkw.md)). It is one more phase
+sequence in one more quantity, which the promote_when says cannot settle
+the account. The account is unchanged.

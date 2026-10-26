@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmphwzim) in full, from the typeset JMLR copy;
+  read 2026-10-26 ([NOTE-tmphwzim](../notes.d/NOTE-tmphwzim.md)) in full, from the typeset JMLR copy;
   worth reading for the mixed membership stochastic blockmodel, in which a
   node takes one block per interaction drawn from its own membership
   vector, for the variational EM that fits it, and as the relational
@@ -9,8 +9,8 @@ status_note: >-
   that its §5 claim that the blockmodel and the memberships do not compete
   is asserted and fails for the likelihood given memberships, that its
   sparsity parameter is confounded with the blockmodel's scale and its
-  printed estimator is the fraction of zeros (THEORY-tmplo0xb), that K is
-  chosen by criterion, that it cannot generate hubs, and that its protein-function check is against a weak baseline (THEORY-tmpuvkbn, Proposed).
+  printed estimator is the fraction of zeros ([THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md)), that K is
+  chosen by criterion, that it cannot generate hubs, and that its protein-function check is against a weak baseline ([THEORY-tmpuvkbn](../theory.d/THEORY-tmpuvkbn.md), Proposed).
 title: 'Mixed Membership Stochastic Blockmodels'
 version: 2
 history:
@@ -68,7 +68,7 @@ Airoldi, E. M., Blei, D. M., Fienberg, S. E. & Xing, E. P. (2008). Mixed
 membership stochastic blockmodels. *Journal of Machine Learning Research* 9:
 1981–2014. arXiv:0705.4485.
 
-Read in full on 2026-10-26 from the typeset JMLR copy (NOTE-tmphwzim). The
+Read in full on 2026-10-26 from the typeset JMLR copy ([NOTE-tmphwzim](../notes.d/NOTE-tmphwzim.md)). The
 summary is checked against the reading.
 
 ## Why this is here

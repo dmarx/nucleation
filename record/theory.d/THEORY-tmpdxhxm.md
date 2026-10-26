@@ -21,7 +21,7 @@ date: '2026-10-26'
 source:
 - LIT-tmp01if4
 summary: >-
-  Musat et al. (2026), LIT-tmp01if4, read in NOTE-tmpcuw4h. Symmetries of
+  Musat et al. (2026), [LIT-tmp01if4](../literature.d/LIT-tmp01if4.md), read in [NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md). Symmetries of
   the data confine population gradient descent to the weights those
   symmetries fix; for their task class and idealized architecture this is
   a subspace whose coordinates are interpretable head actions. It does not
@@ -37,7 +37,7 @@ summary: >-
 ## Source
 
 Musat, Pimentel, Zucchet and Hofmann (2026), arXiv:2607.11875,
-LIT-tmp01if4, read in full in NOTE-tmpcuw4h: §3 (Theorem 1, Corollary 1)
+[LIT-tmp01if4](../literature.d/LIT-tmp01if4.md), read in full in [NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md): §3 (Theorem 1, Corollary 1)
 and Appendix A.3 (the proof), with Appendix B for general relations. The
 general statement and the optimizer check below are the record's.
 
@@ -115,14 +115,14 @@ happens with fixed orthogonal write maps. With learnable ones it is open.
 
 ## Connections
 
-- **THEORY-253 and THEORY-783.** The optimizer clause is the rotated
+- **[THEORY-253](THEORY-253.md) and [THEORY-783](THEORY-783.md).** The optimizer clause is the rotated
   quadratic's lesson in another setting: whether a sign-based optimizer
   changes the dynamics depends on whether the relevant directions are
   aligned with the coordinates.
-- **THEORY-802.** Here the decomposition into units is fixed by the
+- **[THEORY-802](THEORY-802.md).** Here the decomposition into units is fixed by the
   data's symmetry group, which is one way of choosing the decomposition
-  THEORY-802 says interchange interventions alone do not fix.
-- **THEORY-018 and CLAIM-263.** Those concern what training leaves
+  [THEORY-802](THEORY-802.md) says interchange interventions alone do not fix.
+- **[THEORY-018](THEORY-018.md) and [CLAIM-263](../claims.d/CLAIM-263.md).** Those concern what training leaves
   undetermined: a final-layer representation only up to an invertible
   linear map, and an architecture's parameter symmetries, which a
   comparison must quotient. Here the data's symmetries do the opposite

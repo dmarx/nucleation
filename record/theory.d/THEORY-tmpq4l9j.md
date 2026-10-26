@@ -33,7 +33,7 @@ date: '2026-10-26'
 source:
 - LIT-tmp01if4
 summary: >-
-  Musat et al. (2026), LIT-tmp01if4, read in NOTE-tmpcuw4h. In projected
+  Musat et al. (2026), [LIT-tmp01if4](../literature.d/LIT-tmp01if4.md), read in [NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md). In projected
   SGD training of a three-layer single-head attention-only transformer on
   in-context bigrams, three induction circuits are possible, and the
   winner depends on initial strengths outside the winner itself. The
@@ -47,7 +47,7 @@ summary: >-
 ## Source
 
 Musat, Pimentel, Zucchet and Hofmann (2026), arXiv:2607.11875,
-LIT-tmp01if4, read in full in NOTE-tmpcuw4h: §4.3, Fig. 4, Appendix E.1
+[LIT-tmp01if4](../literature.d/LIT-tmp01if4.md), read in full in [NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md): §4.3, Fig. 4, Appendix E.1
 (setup) and E.2 (Fig. 7, twelve seeds).
 
 ## What is asserted, and by whom
@@ -84,10 +84,10 @@ circuits in training is set by the coordinates and layers they share.
 
 ## What the record holds toward it
 
-- THEORY-tmpdxhxm (Active): in this class the circuits are sets of
+- [THEORY-tmpdxhxm](THEORY-tmpdxhxm.md) (Active): in this class the circuits are sets of
   coordinates of an invariant subspace, so "sharing a unit" is well
   defined, which it is not for circuits found by head-level attribution.
-- THEORY-tmpvqsx2 (Active): two circuits that solve overlapping parts of
+- [THEORY-tmpvqsx2](THEORY-tmpvqsx2.md) (Active): two circuits that solve overlapping parts of
   the data interact through the gradient they share even when their
   coordinates are orthogonal. That is the competitive half in another
   form.
@@ -100,7 +100,7 @@ The promote_when above.
 
 ## Bearing
 
-This is the interaction QUESTION-tmpivbso's construction proposes to
+This is the interaction [QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)'s construction proposes to
 model, coupling a feature allocation to circuit interaction: here the
 allocation (which units each circuit uses) is exact and the interaction
 follows it. If the thesis holds, the question's coupled description has a

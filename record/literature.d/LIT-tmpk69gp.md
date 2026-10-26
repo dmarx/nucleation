@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpcuo7o) in full, from arXiv 0710.0845v3, the
+  read 2026-10-26 ([NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md)) in full, from arXiv 0710.0845v3, the
   authors' revision; worth reading for the nested Chinese restaurant
-  process as a prior on trees of unbounded depth and branching (THEORY-tmp5t37f), for hLDA's single-path model of a document and what that does
-  to overlap, and for a careful simulated-recovery test (THEORY-tmpvs18m).
+  process as a prior on trees of unbounded depth and branching ([THEORY-tmp5t37f](../theory.d/THEORY-tmp5t37f.md)), for hLDA's single-path model of a document and what that does
+  to overlap, and for a careful simulated-recovery test ([THEORY-tmpvs18m](../theory.d/THEORY-tmpvs18m.md)).
   Read it knowing that §5.1's level conditional does not match §2.4's
   parameterization of the GEM and §6.2's hyperparameters are out of range
   as printed, that it has no identifiability result, that its comparison
-  with LDA rests on harmonic-mean estimates on one corpus (THEORY-tmpi9pkg, Proposed), and that the typeset JACM text was not compared.
+  with LDA rests on harmonic-mean estimates on one corpus ([THEORY-tmpi9pkg](../theory.d/THEORY-tmpi9pkg.md), Proposed), and that the typeset JACM text was not compared.
 title: 'The nested Chinese restaurant process and Bayesian nonparametric inference of topic hierarchies'
 version: 2
 history:
@@ -59,6 +59,8 @@ summary: >-
   preferential attachment clusters documents by topics shared at several
   levels of abstraction. Posterior inference over trees, topics and
   allocations is demonstrated on scientific abstracts.
+extended_by:
+- LIT-Paisley-2012-002
 ---
 <!-- inactive-ok-file: THEORY-tmpi9pkg — Proposed; filed from this reading, cited as open -->
 
@@ -69,14 +71,14 @@ restaurant process and Bayesian nonparametric inference of topic
 hierarchies. *Journal of the ACM* 57(2): 1–30. doi:10.1145/1667053.1667056.
 arXiv:0710.0845.
 
-Read in full on 2026-10-26 from arXiv 0710.0845v3 (NOTE-tmpcuo7o). The
+Read in full on 2026-10-26 from arXiv 0710.0845v3 ([NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md)). The
 summary is checked against the reading.
 
 ## Why this is here
 
 Cited at T21, where the owner asked whether hLDA could infer higher-level
 perspectives from employees' activity, and the reply took it as the starting
-point while warning that its topics are not perspectives. The record held
-the nCRP only as the single-path limit that the nested HDP of [LIT-002](LIT-002.md)
+point while warning that its topics are not perspectives. Until this
+reading the record held the nCRP only as the single-path limit that the nested HDP of [LIT-002](LIT-002.md)
 ([NOTE-023](../notes.d/NOTE-023.md)) relaxes, and the hierarchical Pitman–Yor topic models of [LIT-013](LIT-013.md),
 which T21 did not use. It is one of the candidate methods of [QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).

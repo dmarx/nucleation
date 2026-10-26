@@ -17,7 +17,7 @@ date: '2026-10-26'
 source:
 - LIT-tmprlq7z
 summary: >-
-  Mueller et al. (2025), LIT-tmprlq7z, read in NOTE-tmp56il8. Unsupervised
+  Mueller et al. (2025), [LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md), read in [NOTE-tmp56il8](../notes.d/NOTE-tmp56il8.md). Unsupervised
   SAE features were worse units than neurons for known task variables
   across ARC, MCQA, two-digit addition and RAVEL. It does not say SAE
   features are never causal units: the comparison is on residual streams,
@@ -32,7 +32,7 @@ summary: >-
 ## Source
 
 Mueller, Geiger, Wiegreffe, Arad et al. (2025), ICML 2025,
-arXiv:2504.13151, LIT-tmprlq7z, read in full in NOTE-tmp56il8: §4
+arXiv:2504.13151, [LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md), read in full in [NOTE-tmp56il8](../notes.d/NOTE-tmp56il8.md): §4
 (Table 3) and Appendix F.
 
 ## What was actually shown
@@ -76,7 +76,7 @@ better than neurons under the same mask. They did not in any cell.
 ## What this does not say
 
 - **Not that SAE features never carry causal variables.** The SAEs were
-  on residual streams, the sites where THEORY-504 found Gemma Scope's
+  on residual streams, the sites where [THEORY-504](THEORY-504.md) found Gemma Scope's
   autoencoders cost the most next-token loss; the reconstruction error
   rides along in every intervention; and DBM is one selection method.
 - **Not that rotated directions beat neurons as units.** DAS differs from
@@ -93,10 +93,10 @@ better than neurons under the same mask. They did not in any cell.
 
 ## Connections
 
-- **CLAIM-tmpwr001.** A feature recovered without the hypothesis was not
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** A feature recovered without the hypothesis was not
   the better carrier of the variable that does the work. A supporting case
   in networks.
-- **THEORY-504.** The site and the reconstruction-error choice are both
-  where THEORY-504's fidelity results would predict SAEs to lose.
-- **THEORY-802.** IIA scores alignments one at a time; ties between
+- **[THEORY-504](THEORY-504.md).** The site and the reconstruction-error choice are both
+  where [THEORY-504](THEORY-504.md)'s fidelity results would predict SAEs to lose.
+- **[THEORY-802](THEORY-802.md).** IIA scores alignments one at a time; ties between
   alignments related by a change of basis would be invisible here.

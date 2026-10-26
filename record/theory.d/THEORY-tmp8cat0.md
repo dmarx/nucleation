@@ -21,7 +21,7 @@ source:
 answers:
 - QUESTION-039
 summary: >-
-  Olsson et al. (2022), LIT-tmpe7b5o, read in NOTE-tmpabelf: Arguments
+  Olsson et al. (2022), [LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md), read in [NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md): Arguments
   1–3 for the small attention-only series, with the smeared-key models.
   The score jumps from under 0.15 to about 0.4 nats in the window where
   induction heads form, pattern-preserving ablation of the induction heads
@@ -29,6 +29,8 @@ summary: >-
   lets one layer express induction moves the jump. It says nothing causal
   about models with MLPs or large models, and nothing about few-shot task
   learning, which the score does not measure.
+extended_by:
+- THEORY-tmpkd3fq
 ---
 <!-- inactive-ok-file: THEORY-tmpkd3fq THEORY-783 THEORY-039 — Proposed; the wider thesis and neighbouring accounts, cited as open -->
 # THEORY-tmp8cat0: In small attention-only transformer language models of two to six layers, in-context learning, measured as the loss at token 500 minus the loss at token 50, appears abruptly in one early window of training in which induction heads form, and ablating those heads at test time removes nearly all of it; one-layer models show neither, and letting a single layer attend by the previous token brings the jump to one-layer models and moves it earlier in two-layer ones
@@ -36,7 +38,7 @@ summary: >-
 ## Source
 
 Olsson, Elhage, Nanda, Joseph et al. (2022), *In-context learning and
-induction heads*, LIT-tmpe7b5o, read in full in NOTE-tmpabelf from the
+induction heads*, [LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md), read in full in [NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md) from the
 arXiv print of the Transformer Circuits article. The account rests on
 Arguments 1–3, the smeared-key models, Model Details, the data-collection
 appendix (pattern-preserving ablation) and the small attention-only rows
@@ -89,7 +91,7 @@ the jump.
 
 - **Not about models with MLPs, or large models.** There the evidence is
   correlational, anecdotal or by analogy, and the authors say so. That
-  thesis is THEORY-tmpkd3fq.
+  thesis is [THEORY-tmpkd3fq](THEORY-tmpkd3fq.md).
 - **Not that induction drives the transition rather than accompanying
   it.** The authors name a shared cause they cannot exclude: the transition
   may be "the point at which the model learns how to compose layers through
@@ -108,15 +110,15 @@ the jump.
 
 ## Connections
 
-- **QUESTION-039: answers in part.** For in-context learning in small
+- **[QUESTION-039](../questions.d/QUESTION-039.md): answers in part.** For in-context learning in small
   attention-only transformers, the moment of acquisition is set by when
   a two-head composition becomes available. It does not say what sets
   that, and it is one model family.
-- **THEORY-253 and THEORY-783.** Those hold the optimizer as a source of
+- **[THEORY-253](THEORY-253.md) and [THEORY-783](THEORY-783.md).** Those hold the optimizer as a source of
   sequential onset, beside dependence between skills. This account is a
   measured case of the second kind: removing a dependency moves the onset.
-- **QUESTION-tmpivbso.** This is the setting the question names first, and
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** This is the setting the question names first, and
   its circuit-only measurements (per-head scores and ablations at every
   snapshot) are a baseline the question's coupled model has to beat.
-- **THEORY-169.** The in-context learning here is conditioning on fixed
-  weights, the case THEORY-169 describes for single layers.
+- **[THEORY-169](THEORY-169.md).** The in-context learning here is conditioning on fixed
+  weights, the case [THEORY-169](THEORY-169.md) describes for single layers.

@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmplotfq) in full, from the arXiv copy (v2, the
+  read 2026-10-26 ([NOTE-tmplotfq](../notes.d/NOTE-tmplotfq.md)) in full, from the arXiv copy (v2, the
   ICML 2025 version); worth reading for its tracking of EAP-IG circuits
   across fine-tuning checkpoints on tasks the pretrained model fails, with
   node change rates of 15–24% against edge change rates of 66–80%, and for
   using the layers whose edges change most to allocate LoRA rank. Read it
   knowing that the node–edge contrast has no null comparison at the same
   edge budget and that a fixed edge budget produces it by itself
-  (THEORY-tmpoirdq), that it concerns fine-tuning a pretrained model on
+  ([THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)), that it concerns fine-tuning a pretrained model on
   arithmetic rather than development from initialization, and that the
   abstract's 2.46% gain is not recoverable from its tables.
 title: 'Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis'
@@ -75,8 +75,8 @@ Wang, X., Hu, Y., Du, W., Cheng, R., Wang, B. & Zou, D. (2025). Towards
 understanding fine-tuning mechanisms of LLMs via circuit analysis. *ICML
 2025*. arXiv:2502.11812.
 
-Read in full on 2026-10-26 (NOTE-tmplotfq). One account was drawn from
-it: THEORY-tmpoirdq. The identification from T24 was checked against the
+Read in full on 2026-10-26 ([NOTE-tmplotfq](../notes.d/NOTE-tmplotfq.md)). One account was drawn from
+it: [THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md). The identification from T24 was checked against the
 reading and holds (see the history).
 
 ## Why this is here

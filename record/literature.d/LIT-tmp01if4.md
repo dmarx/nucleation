@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpcuw4h) in full, from the arXiv copy (v2); worth
+  read 2026-10-26 ([NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md)) in full, from the arXiv copy (v2); worth
   reading for its proof that symmetries of the data confine population
   gradient descent to a subspace of interpretable head actions
-  (THEORY-tmpdxhxm), for its theorem that a saturated memorized shortcut
+  ([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md)), for its theorem that a saturated memorized shortcut
   starves the in-context circuit of gradient on the data it solves
-  (THEORY-tmpvqsx2), and for its scan in which initialization picks one of
+  ([THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md)), and for its scan in which initialization picks one of
   several induction circuits, read by the authors as cooperation through
-  shared units and competition for layers (THEORY-tmpq4l9j). Read it
+  shared units and competition for layers ([THEORY-tmpq4l9j](../theory.d/THEORY-tmpq4l9j.md)). Read it
   knowing that the architecture is idealized (fixed orthogonal write maps,
   merged key-query, orthonormal embeddings), that invariance is proved
   and attraction is not, that the results are for gradient descent while
@@ -77,8 +77,8 @@ Musat, T., Pimentel, T., Zucchet, N. & Hofmann, T. (2026). Invariant
 learning dynamics of transformers in inductive reasoning tasks.
 arXiv:2607.11875.
 
-Read in full on 2026-10-26 (NOTE-tmpcuw4h). Three accounts were drawn
-from it: THEORY-tmpdxhxm, THEORY-tmpvqsx2 and THEORY-tmpq4l9j.
+Read in full on 2026-10-26 ([NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md)). Three accounts were drawn
+from it: [THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md), [THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md) and [THEORY-tmpq4l9j](../theory.d/THEORY-tmpq4l9j.md).
 
 ## Why this is here
 

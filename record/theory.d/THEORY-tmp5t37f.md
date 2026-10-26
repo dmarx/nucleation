@@ -18,13 +18,13 @@ date: '2026-10-26'
 source:
 - LIT-tmpk69gp
 summary: >-
-  Blei, Griffiths and Jordan (2010), LIT-tmpk69gp, read in NOTE-tmpcuo7o.
+  Blei, Griffiths and Jordan (2010), [LIT-tmpk69gp](../literature.d/LIT-tmpk69gp.md), read in [NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md).
   hLDA's overlap between documents is nested by construction: at each
   level of the tree the documents are partitioned, and a document can
   share topics with two others only if one of the two shares all of its
   shared topics with it. It is a statement about the model, not about the
   data, and it says nothing about whether the tree the sampler finds is
-  identified. The multiple-path relaxation is the nested HDP's (LIT-002).
+  identified. The multiple-path relaxation is the nested HDP's ([LIT-002](../literature.d/LIT-002.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpwr001 — Proposed; the claim this account is set beside, open -->
 
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Blei, Griffiths and Jordan (2010), *Journal of the ACM* 57(2),
-LIT-tmpk69gp, read in full in NOTE-tmpcuo7o from arXiv 0710.0845v3. The
+[LIT-tmpk69gp](../literature.d/LIT-tmpk69gp.md), read in full in [NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md) from arXiv 0710.0845v3. The
 model is the paper's §3 (the nCRP) and §4 (hLDA). The single-path
 restriction is stated in §6.3: "a document can only access the topics that
 lie along a single path in the tree." The derivations below are the
@@ -80,7 +80,7 @@ does not, and the paper says so.
 
 - **Not that the inferred tree is identified.** This is a property of the
   model's support. Whether the sampler's tree is the only one the data
-  support is THEORY-tmpvs18m's question, and the paper has no theorem.
+  support is [THEORY-tmpvs18m](THEORY-tmpvs18m.md)'s question, and the paper has no theorem.
 - **Not that a document's topics are all used.** θᵈ may put almost no mass
   on some levels, so a document's effective topics may be fewer than its
   path's.
@@ -88,18 +88,18 @@ does not, and the paper says so.
   nesting. A corpus whose documents mix sibling themes is still fitted,
   by assigning each document one path, and the misfit shows only in
   likelihood.
-- **Not about the nested HDP.** LIT-002's model (NOTE-023) gives each word
+- **Not about the nested HDP.** [LIT-002](../literature.d/LIT-002.md)'s model ([NOTE-023](../notes.d/NOTE-023.md)) gives each word
   its own path and removes the restriction.
 
 ## Connections
 
-- **QUESTION-tmpixgs8, condition 2.** If documents are members' activity,
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), condition 2.** If documents are members' activity,
   hLDA can express overlapping participation only as shared ancestry,
   which is a partition at every level. That is the restriction T21 noted,
   and the reason it turned to the nested HDP.
-- **CLAIM-tmpwr001.** A path is a position in a hierarchy of word
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** A path is a position in a hierarchy of word
   distributions. Whether members on the same path form a perspective is
   the question the claim says such an allocation leaves open.
 - **The author–topic model and the mixed membership blockmodel**
-  (THEORY-tmp7wy54, THEORY-tmplo0xb) give overlap of another kind:
+  ([THEORY-tmp7wy54](THEORY-tmp7wy54.md), [THEORY-tmplo0xb](THEORY-tmplo0xb.md)) give overlap of another kind:
   memberships on a simplex, with no nesting.

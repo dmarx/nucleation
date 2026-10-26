@@ -35,6 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-367 CLAIM-329 CLAIM-118 CLAIM-427 CLAIM-278 CLAIM-263 CLAIM-286 CLAIM-287 THEORY-783 THEORY-039 THEORY-481 TERM-072 — Proposed; the claims and readings the question is framed by or re-derives, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-tmpwr001 CASE-tmplcm41 — Proposed; filed with this question from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmp1dufu THEORY-tmpt45mh THEORY-tmpq4l9j THEORY-tmpoirdq — Proposed; readings of the same day, cited with their limits -->
 
 # QUESTION-tmpivbso: Can the development of a transformer's circuits in training be described as organizational regimes forming over shared, overlapping latent features, so that a model coupling feature allocation to circuit interaction, fitted to early checkpoints, predicts the effects of held-out training interventions that feature-only and circuit-only descriptions fitted to the same checkpoints miss?
 
@@ -114,27 +115,88 @@ Most of the reply's apparatus is on file, and it cited four codes
 - **Acquisition.** "Does a circuit emerge by acquiring new features,
   reorganizing existing features, or both?" is [QUESTION-039](QUESTION-039.md)'s second half,
   whether acquisition is one kind of event or several. [THEORY-039](../theory.d/THEORY-039.md), [THEORY-481](../theory.d/THEORY-481.md)
-  and [THEORY-229](../theory.d/THEORY-229.md) answer parts of it.
+  and [THEORY-229](../theory.d/THEORY-229.md) answer parts of it, and so now does [THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md): in small
+  attention-only transformers, in-context learning arrives in the window
+  where induction heads form, and removing the need for two heads to
+  compose moves it.
 
 What is new is the coupling: an organizational reading of circuits over a
 developing feature allocation, with a stated way to lose.
+
+## The works the reply drew on, read
+
+The six works T24 cites by paraphrase were read on 2026-10-26. They
+supply the comparators and show what is still missing.
+
+- **A circuit-only baseline.** The induction-heads paper's per-snapshot
+  head scores and ablation attributions ([NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md)), and the refined
+  local learning coefficient of each head over training, whose curves
+  diverge and cluster by the heads' functional types ([THEORY-tmp9uzkw](../theory.d/THEORY-tmp9uzkw.md)).
+- **A feature-only baseline.** Cross-checkpoint crosscoders, which score
+  each feature's causal use on a task at every checkpoint ([NOTE-tmpq065x](../notes.d/NOTE-tmpq065x.md),
+  [THEORY-tmpt45mh](../theory.d/THEORY-tmpt45mh.md)).
+- **Reorganization, observed.** In the refined-LLC study's model the
+  previous-token heads, which precede the induction heads, start as
+  n-gram heads, and n-grams pass from one head to another
+  ([THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md)). That is the question's "reorganizing existing
+  features", and a feature moving between carriers, seen at the level of
+  components in two checkpoints of one run.
+- **An exact version of the three layers.** In Musat, Pimentel, Zucchet
+  and Hofmann's attention-only transformers on block-list inductive tasks,
+  the data's symmetries fix a subspace of weights that gradient descent
+  never leaves, spanned by elementary token and position actions
+  ([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md)). The components' features are given by symmetry
+  rather than inferred under a buffet prior; circuits are sets of shared
+  coordinates, so their overlap is exact; and development is the reduced
+  dynamics on those coordinates, in which circuits that solve overlapping
+  data interact although their coordinates are orthogonal
+  ([THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md)), and initialization picks among competing circuits
+  ([THEORY-tmpq4l9j](../theory.d/THEORY-tmpq4l9j.md)). Inside its idealization, both conditions below are
+  met: the state is the coordinates themselves, and the commutant and the
+  paper's Assumption 5 remove the basis and split symmetries.
+- **Localization scored on its own hypothesis.** In the interpretability
+  benchmark T24 cites, sparse-autoencoder features never beat the model's
+  own neurons at localizing causal variables, and the best method,
+  distributed alignment search, is trained against the causal model it is
+  scored on ([THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)).
+- **Relations against components.** The fine-tuning study's finding, that
+  circuits keep their nodes and change their edges ([THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)), is
+  what a fixed edge budget alone produces in the record's null
+  simulation, so it needs a null at equal edge budget before it bears on
+  the coupling.
+
+None of the six fits anything to early checkpoints and predicts later
+ones. The prospective arm is still undone in the literature the record
+holds.
 
 ## What would answer it
 
 A prospective test, as the reply puts it: "fit the model using early
 training checkpoints, then test its predictions about later functional
 changes, including changes under held-out training interventions". The
-interventions are [CASE-113](../cases.d/CASE-113.md)'s arms plus training exposure. The reply's
-induction-circuit setting is a natural first case: which partial
+interventions are [CASE-113](../cases.d/CASE-113.md)'s arms plus training exposure, and
+architecture is a fourth with a known effect on timing: letting a single
+layer attend by the previous token moves the induction transition
+([THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md)). The reply's induction-circuit setting is a natural
+first case: which partial
 capacities exist before the circuit is effective, and whether it forms by
 acquiring features or by reorganizing them. The answer is yes if the
 coupled description out-predicts the feature-only and circuit-only ones
-at matched complexity ([CLAIM-427](../claims.d/CLAIM-427.md)'s third grade), and no if it does not.
+at matched complexity ([CLAIM-427](../claims.d/CLAIM-427.md)'s third grade), and no if it does not. In
+the induction setting the baseline to beat is the reduced dynamics on
+the symmetric subspace's coordinates ([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md)), which is much
+stronger than a checkpoint-level state-space model. The design should
+avoid the induction-heads paper's confounds: one run per model, one data
+order for every model, and a transition inside learning-rate warm-up
+([NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md)).
 
 Two conditions come from checks made when this was filed ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)):
 
 - The temporal prior must not condition on θ_s, from which B_s is read.
-  Otherwise it predicts nothing, and the prospective test is empty.
+  Otherwise it predicts nothing, and the prospective test is empty. The
+  dependent IBP in its collapsed form is a candidate prior over B_s that
+  does not ([THEORY-tmpumk4q](../theory.d/THEORY-tmpumk4q.md)), though it still treats components as
+  exchangeable.
 - Births and splits must be told apart from the model's free symmetries.
   Rescaling, splitting a feature into copies and a zero contribution vector
   all leave the reconstruction unchanged.
@@ -149,7 +211,12 @@ Two conditions come from checks made when this was filed ([CASE-tmplcm41](../cas
 - Feature births or splits that a change of basis or the buffet's split
   symmetry produces ([CLAIM-263](../claims.d/CLAIM-263.md)'s quotient, [THEORY-018](../theory.d/THEORY-018.md)).
 - Continuity of a feature judged by resemblance alone ([CLAIM-329](../claims.d/CLAIM-329.md),
-  [TERM-071](../terms.d/TERM-071.md)).
+  [TERM-071](../terms.d/TERM-071.md)). A crosscoder's "maintained" feature is one index of a jointly
+  trained dictionary, and an n-gram's migration between heads is the same
+  tokens affected at two checkpoints; neither tests inheritance
+  ([CLAIM-329](../claims.d/CLAIM-329.md)'s note of 2026-10-26).
+- A localization scored only on the hypothesis it was trained against;
+  held-out interventions are needed ([THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md), [CLAIM-278](../claims.d/CLAIM-278.md)).
 - Success defined in the framework's own terms ([CLAIM-278](../claims.d/CLAIM-278.md)).
 
 ## Not in scope

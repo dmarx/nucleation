@@ -25,8 +25,10 @@ history:
     A dated note added: the dynamic beta–Bernoulli model of T23 of the
     exchange "Experimental Infrastructure Review" (CASE-tmplcm41) has
     this claim's gauge in five forms, three of which the exchange
-    missed, including the confounding of having a feature with using it.
-    The claim is unchanged.
+    missed, including the confounding of having a feature with using it;
+    extended the same day with three works read for the exchange, whose
+    models carry the gauge beyond the permutations they name. The claim
+    is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -219,5 +221,29 @@ Three more follow from the same algebra, and the exchange missed them.
 
 So the distinction T23 calls important, between possessing a capacity and
 using it, is not identified from the outputs alone. Points 2 and 3 were
-checked numerically to machine precision; no model was fitted. The claim
-is unchanged.
+checked numerically to machine precision; no model was fitted.
+
+Three of the works the exchange cited, read the same day, carry the gauge
+further than they say.
+
+- **The author–topic model** ([THEORY-tmp7wy54](../theory.d/THEORY-tmp7wy54.md)). Its likelihood depends on
+  the topics Φ and the authors' topic distributions Θ only through ΦΘA,
+  with A fixed by the observed authorship: a three-factor product with one
+  factor known. The paper names the permutations of topics. The
+  likelihood also leaves a continuum of changes of topic basis free
+  whenever every topic gives every word positive probability, which every
+  posterior mean with a positive smoothing parameter does.
+- **The mixed membership stochastic blockmodel** ([THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md)). Given
+  the memberships, an edge has probability (1 − ρ)π_pᵀBπ_q, so π ↦ Rπ,
+  B ↦ R⁻ᵀBR⁻¹ leaves the likelihood unchanged, a bilinear form of the same
+  gauge, against the paper's §5, which grants that the two seem "in
+  competition for explaining the data" and says their difference
+  "practically eliminates the issue". The sparsity ρ enters only through (1 − ρ)B and is not
+  identified apart from B's scale.
+- **Correlated latent features** ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)). A layer of categories
+  over IBP features does not narrow the gauge for features that always
+  occur together: they are separated only where they sometimes occur
+  apart, and in the variant where each observation has a single category
+  the features of one category are never separated.
+
+The claim is unchanged.

@@ -29,8 +29,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpt5wer
 summary: >-
-  Airoldi, Blei, Fienberg and Xing (2008), LIT-tmpt5wer, §4.3.2 and Figs.
-  10–12, read in NOTE-tmphwzim. The batch's one check of inferred mixed
+  Airoldi, Blei, Fienberg and Xing (2008), [LIT-tmpt5wer](../literature.d/LIT-tmpt5wer.md), §4.3.2 and Figs.
+  10–12, read in [NOTE-tmphwzim](../notes.d/NOTE-tmphwzim.md). The batch's one check of inferred mixed
   memberships against labels the model never saw. The reported margin is
   over a weak baseline, so it shows less than it seems: probably some
   information, not yet how much. It says nothing about whether the
@@ -42,8 +42,8 @@ summary: >-
 
 ## Source
 
-Airoldi, Blei, Fienberg and Xing (2008), LIT-tmpt5wer, §4.3.1–4.3.2,
-Table 2 and Figs. 10–12, read in full in NOTE-tmphwzim.
+Airoldi, Blei, Fienberg and Xing (2008), [LIT-tmpt5wer](../literature.d/LIT-tmpt5wer.md), §4.3.1–4.3.2,
+Table 2 and Figs. 10–12, read in full in [NOTE-tmphwzim](../notes.d/NOTE-tmphwzim.md).
 
 ## What was actually shown
 
@@ -86,14 +86,14 @@ shown.
 - **Not about §4.3.3.** The K = 50 analysis of predicted interactions'
   functional precision is a separate result, and not filed.
 - **Not that memberships are identified.** The permutation the paper
-  estimates is the part of the gauge it admits (THEORY-tmplo0xb).
+  estimates is the part of the gauge it admits ([THEORY-tmplo0xb](THEORY-tmplo0xb.md)).
 
 ## Connections
 
-- **CLAIM-427.** Recovering structure in the model's own terms counts for
+- **[CLAIM-427](../claims.d/CLAIM-427.md).** Recovering structure in the model's own terms counts for
   nothing there. This is the right kind of check, structure against
   labels the model never saw, done with too weak a baseline to count for
   much yet.
-- **QUESTION-tmpixgs8.** An inferred mixed membership of an organization's
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** An inferred mixed membership of an organization's
   members would need the same kind of external test, against a stated
   trivial predictor.

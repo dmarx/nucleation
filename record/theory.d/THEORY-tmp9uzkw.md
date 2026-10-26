@@ -19,8 +19,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpa32mr
 summary: >-
-  Wang, Hoogland, van Wingerden, Furman and Murfet (2024), LIT-tmpa32mr,
-  read in NOTE-tmpueby3: §4.1, Figs. 1–2 and 11, appendices B, F.5 and G.
+  Wang, Hoogland, van Wingerden, Furman and Murfet (2024), [LIT-tmpa32mr](../literature.d/LIT-tmpa32mr.md),
+  read in [NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md): §4.1, Figs. 1–2 and 11, appendices B, F.5 and G.
   Per-head curves of how degenerate the loss is in that head's weights
   separate the heads by what they end up doing, and the separation is in
   the curves' shapes over training, not only their end values. It is one
@@ -29,13 +29,12 @@ summary: >-
   predicts a head's type before the type is visible.
 ---
 <!-- inactive-ok-file: THEORY-tmp1dufu — Proposed; the companion account from the same reading, cited as open -->
-<!-- inactive-ok-file: LIT-354 — Unavailable; Watanabe's book, named as the source of the quantity -->
 # THEORY-tmp9uzkw: In a two-layer attention-only transformer trained on the Pile, the weight-refined local learning coefficients of individual attention heads start alike and diverge over training, and clustering the curves groups the heads by the functional types that ablation assigns them at the end of training, previous-token, current-token, induction and n-gram-memorizing; among layer-1 heads, those running simple algorithms end with the lowest values and those memorizing the most n-grams with the highest
 
 ## Source
 
 Wang, Hoogland, van Wingerden, Furman and Murfet (2024, ICLR 2025),
-LIT-tmpa32mr, read in full in NOTE-tmpueby3. The account rests on §3 (the
+[LIT-tmpa32mr](../literature.d/LIT-tmpa32mr.md), read in full in [NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md). The account rests on §3 (the
 definitions and limitations), §4.1, Figs. 1, 2 and 11, and appendices B
 (classification), F (model, SGLD settings, clustering) and G (seeds).
 
@@ -92,9 +91,9 @@ memorizes.
 
 ## Connections
 
-- **QUESTION-tmpivbso.** The reply's "functional differentiation" is
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The reply's "functional differentiation" is
   measured here, per component, over training. It is a baseline the
   question's coupled model would have to beat on prediction.
-- **QUESTION-039.** It times differentiation, not acquisition; it adds a
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** It times differentiation, not acquisition; it adds a
   per-component measure to the question's list of what can be timed.
-- **THEORY-tmp1dufu.** The same reading's account of heads changing role.
+- **[THEORY-tmp1dufu](THEORY-tmp1dufu.md).** The same reading's account of heads changing role.

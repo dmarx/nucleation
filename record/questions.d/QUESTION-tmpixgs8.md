@@ -52,7 +52,9 @@ added one.
    mutually exclusive, and we shouldn't have to decide in advance how many
    there are." A partition into clusters cannot express this, and T21 noted
    that classical hLDA gives each document one path through its tree,
-   which the nested HDP relaxes ([LIT-002](../literature.d/LIT-002.md), [NOTE-023](../notes.d/NOTE-023.md)).
+   which the nested HDP relaxes ([LIT-002](../literature.d/LIT-002.md), [NOTE-023](../notes.d/NOTE-023.md)). The reading confirms it:
+   in hLDA two documents share a topic only by sharing the whole path
+   above it ([THEORY-tmp5t37f](../theory.d/THEORY-tmp5t37f.md)).
 3. **Not common cause.** T18 §5: "a dynamical mode is not automatically a
    perspective. A high-variance activity pattern might merely reflect a
    shared reporting schedule." T22: "correlated activity may be caused by
@@ -86,15 +88,17 @@ inferred.
 ## The candidate methods
 
 - **hLDA and the nested HDP** (T21): a topic hierarchy over the content of
-  members' messages. T21 said not to "identify its topics directly with
+  members' messages ([LIT-tmpk69gp](../literature.d/LIT-tmpk69gp.md), [NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md)). T21 said not to "identify its topics directly with
   perspectives", and to "allow the hierarchy to lose if it doesn't provide
   useful explanatory compression". The record already holds a
   nonparametric topic model fitted jointly with an author network
   ([LIT-013](../literature.d/LIT-013.md)'s Twitter-Network Topic Model, [NOTE-008](../notes.d/NOTE-008.md)), which is the
-  topics-and-relations combination T21 proposed.
+  topics-and-relations combination T21 proposed. T21 also named the
+  author–topic model ([LIT-tmpnzjy3](../literature.d/LIT-tmpnzjy3.md)) and the mixed membership stochastic
+  blockmodel ([LIT-tmpt5wer](../literature.d/LIT-tmpt5wer.md)).
 - **A feature allocation under an Indian buffet prior** (T22, developed at
   T23): which members hold which latent features, with their number left
-  open. T23's dynamic beta–Bernoulli form is [CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), with its checks.
+  open (the review T22 cites, [LIT-tmpxrrf9](../literature.d/LIT-tmpxrrf9.md), [NOTE-tmp9hj4u](../notes.d/NOTE-tmp9hj4u.md)). T23's dynamic beta–Bernoulli form is [CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), with its checks.
   T23 recommends fitting it to a mechanistic simulator that does not itself
   assume the prior ("Option A"), so that "feature discovery can be tested
   against a world that did not itself assume IBP-distributed employees".
@@ -102,6 +106,46 @@ inferred.
 Either way, [CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md) says what a recovered feature could amount to:
 at most a constituent of a perspective, whose organization lies in
 relations the allocation leaves open.
+
+## What the readings of the candidate methods show
+
+All seven works T21–T23 cite were read on 2026-10-26.
+
+- **Only the feature allocation overlaps as condition 2 asks.** hLDA's
+  overlap is nested: a member shares a theme with another only by sharing
+  everything above it ([THEORY-tmp5t37f](../theory.d/THEORY-tmp5t37f.md)). In the author–topic model and the
+  blockmodel a member's participation is a vector on the simplex, so more
+  of one theme is less of another ([NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md), [NOTE-tmphwzim](../notes.d/NOTE-tmphwzim.md)). The
+  beta-process family is the one whose participation has no sum-to-one
+  constraint.
+- **Inferred memberships are not identified.** The author–topic model and
+  the blockmodel each leave a continuum of changes of basis free, beyond
+  the permutations their papers name ([THEORY-tmp7wy54](../theory.d/THEORY-tmp7wy54.md), [THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md);
+  [CLAIM-148](../claims.d/CLAIM-148.md)'s note of 2026-10-26). So a comparison under condition 4 has
+  to be made on predicted edges and intervention outcomes, never on the
+  memberships themselves.
+- **Condition 4 needs extending the relational baseline.** The blockmodel
+  is the natural model "given the communication and authorization
+  relations", but as published it models only one static graph's edges,
+  with no dynamics or interventions; it would have to be extended to the
+  intervention outcome. The topic models cannot pass T21's own
+  falsification test (identical messages, different authorization
+  pathways), as T21 expected of "a content-only hLDA model": their
+  likelihoods see only words and authorship.
+- **Time and groups have established forms, with gaps.** The dependent IBP
+  lets features appear and fade over a covariate such as time without
+  fixing their number, with each feature's prevalence held fixed
+  ([THEORY-tmpumk4q](../theory.d/THEORY-tmpumk4q.md)). The hierarchical beta process shares a feature
+  library across groups with group-specific prevalences, but each member
+  belongs to one fixed group ([THEORY-tmpz726y](../theory.d/THEORY-tmpz726y.md)). A beta-process hierarchy
+  over overlapping and changing groups is not in the literature read, and
+  is an open part of this question.
+- **An intermediate layer is still co-occurrence.** Correlated
+  latent-feature models put a layer of categories over the features
+  ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)), a candidate for something between a feature and a
+  perspective. A category is a pattern of co-occurrence, so by
+  [CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md)'s standard it is not a perspective either; and in those
+  models a category can switch features on, never off.
 
 ## What would count as an answer
 
@@ -119,5 +163,6 @@ relational graph would answer it too, in the negative.
 - A factorization that fits trajectories, however flexible.
 - Recovering the prior's structure from data generated under that prior,
   which tests the inference, not the structure ([CLAIM-203](../claims.d/CLAIM-203.md)'s note of
-  2026-10-26).
+  2026-10-26). hLDA's paper has the published example: eight of ten trees
+  recovered from corpora simulated under its own prior ([THEORY-tmpvs18m](../theory.d/THEORY-tmpvs18m.md)).
 - A mode named after the departments or roles that make it up.

@@ -18,7 +18,7 @@ source:
 - LIT-tmpnzjy3
 summary: >-
   Rosen-Zvi, Chemudugunta, Griffiths, Smyth and Steyvers (2010),
-  LIT-tmpnzjy3, §6.4 and Fig. 11, read in NOTE-tmpjg8xz. Pooling by
+  [LIT-tmpnzjy3](../literature.d/LIT-tmpnzjy3.md), §6.4 and Fig. 11, read in [NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md). Pooling by
   member helps prediction of a document of which little has been seen and
   costs it once the document's own words are enough. One corpus, one
   split, one topic count. It is not evidence that member-level structure
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Rosen-Zvi, Chemudugunta, Griffiths, Smyth and Steyvers (2010),
-LIT-tmpnzjy3, §6.4 and Fig. 11, read in full in NOTE-tmpjg8xz.
+[LIT-tmpnzjy3](../literature.d/LIT-tmpnzjy3.md), §6.4 and Fig. 11, read in full in [NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md).
 
 ## What was actually shown
 
@@ -74,17 +74,17 @@ marginally best with full text.
 - **Not that authors' topic profiles are real.** Better prediction from
   sparse evidence shows that pooling by author carries information. It
   does not show that the pooled profiles are identified
-  (THEORY-tmp7wy54) or that they are what the authors are.
+  ([THEORY-tmp7wy54](THEORY-tmp7wy54.md)) or that they are what the authors are.
 - **Not about unobserved authorship.** Every test author was a training
   author.
 
 ## Connections
 
-- **QUESTION-tmpixgs8.** T21 asked that structure be allowed "to lose if
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** T21 asked that structure be allowed "to lose if
   it doesn't provide useful explanatory compression". Here member-level
   structure wins and loses in a measured trade, by the amount of evidence
   per document. An organizational model of members' messages would face
   the same trade, and a comparison at one evidence level would mislead.
-- **CASE-tmplcm41.** The fictitious author plays the part of that case's
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md).** The fictitious author plays the part of that case's
   per-employee private map: a term outside any shared component. Here it
   helped prediction throughout.

@@ -23,8 +23,9 @@ history:
     A dated note added: the lesson in general form recurred three times
     in the exchange "Experimental Infrastructure Review" (T21–T23):
     recovering a latent structure from data generated under its own
-    prior tests the inference, not the structure. The claim is
-    unchanged.
+    prior tests the inference, not the structure; the hLDA paper's
+    planted-tree recovery, read the same day, is cited as a published
+    instance. The claim is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -133,4 +134,11 @@ latent-feature model to a mechanistic simulator that does not assume it
 that did not itself assume IBP-distributed employees"), and keep
 planted-structure recovery as a check on inference only ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)).
 Recovering a structure from data generated under its own prior tests the
-inference, not the structure. The claim is unchanged.
+inference, not the structure.
+
+The hLDA paper the exchange cited, read the same day, has the published
+form of that check ([THEORY-tmpvs18m](../theory.d/THEORY-tmpvs18m.md)): on ten corpora simulated from
+three-level hLDA itself, the sampler's best state recovered the
+generating tree exactly in eight, and in one of the others a wrong tree
+had the higher posterior. It shows the inference works under matched
+assumptions, and the paper offers it as no more. The claim is unchanged.

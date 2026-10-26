@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw4w7a
 title: 'Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,15 @@ history:
     description, agency and legibility: A8 and A9 reached this claim's case
     unprompted and added the timescale of adaptation as a variable this
     claim leaves implicit. The claim is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a theory of transformer learning dynamics read on
+    2026-10-26 for the exchange "Experimental Infrastructure Review"
+    gives two exact cases of this claim's division, a circuit's gradient
+    set by the data and by another circuit's state, and a learned
+    structure kept by one optimizer and not another. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -184,3 +193,30 @@ boundary." Under [CLAIM-174](CLAIM-174.md)'s third condition, which agent passes
 on the timescale of the intervention on consequences. That is a parameter
 this claim's "which unit is individuated for the training dynamics" leaves
 implicit.
+
+## Note of 2026-10-26: a circuit's gradient set by the data and the optimizer
+
+T24 of the exchange "Experimental Infrastructure Review" cited this claim
+for the governance of a transformer's development ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). One
+of the works it drew on, Musat, Pimentel, Zucchet and Hofmann's theory of
+invariant learning dynamics ([NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md)), read on 2026-10-26, gives
+two exact cases of the division this claim draws, inside its idealized
+attention-only model.
+
+- **The data and another circuit set a circuit's gradient**
+  ([THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md)). Once an in-weights circuit has memorized the common
+  pairs, the population gradient on the induction circuit is its gradient
+  without it multiplied by fr + (1 − fr)fv, the share of the data the
+  memorized map does not solve. How fast the induction circuit is learned
+  is fixed by data statistics and by the state of a circuit in orthogonal
+  coordinates, not by anything the induction circuit holds.
+- **The optimizer decides what structure training keeps**
+  ([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md)). Gradient descent never leaves the subspace the
+  data's symmetries fix. An elementwise optimizer such as sign descent
+  keeps it only when that subspace is aligned with the parameter
+  coordinates. Whether the network's learned organization stays in the
+  symmetric subspace is a fact about the optimizer–network–data system.
+
+Both are theorems in a model with fixed write maps, under plain gradient
+descent for the first, and neither is a crossed intervention of the kind
+[CASE-113](../cases.d/CASE-113.md) asks for. The claim is unchanged.

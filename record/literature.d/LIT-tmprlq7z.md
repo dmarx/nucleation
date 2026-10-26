@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmp56il8) in full, from the arXiv copy (v2, the
+  read 2026-10-26 ([NOTE-tmp56il8](../notes.d/NOTE-tmp56il8.md)) in full, from the arXiv copy (v2, the
   ICML 2025 version); worth reading for its fixed-counterfactual design of
   two localization tracks, for the finding that public sparse-autoencoder
   features were worse units than neurons for known causal variables in
-  every cell tested (THEORY-tmp4lqc8), and for the carry-the-one case,
+  every cell tested ([THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)), and for the carry-the-one case,
   where a representation that looked like the variable was the correlated
   output digit. Read it knowing that the best causal-variable method, DAS,
   is supervised by the causal model it is scored against, that the SAE
@@ -72,8 +72,8 @@ summary: >-
 Mueller, A., Geiger, A., Wiegreffe, S., Arad, D., et al. (2025). MIB: A
 mechanistic interpretability benchmark. *ICML 2025*. arXiv:2504.13151.
 
-Read in full on 2026-10-26 (NOTE-tmp56il8). One account was drawn from
-it: THEORY-tmp4lqc8.
+Read in full on 2026-10-26 ([NOTE-tmp56il8](../notes.d/NOTE-tmp56il8.md)). One account was drawn from
+it: [THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md).
 
 ## Why this is here
 

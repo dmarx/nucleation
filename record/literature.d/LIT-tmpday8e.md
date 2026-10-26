@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmp9d3rs) in full, from PMLR's own PDF; worth
+  read 2026-10-26 ([NOTE-tmp9d3rs](../notes.d/NOTE-tmp9d3rs.md)) in full, from PMLR's own PDF; worth
   reading for the beta process as the IBP's de Finetti measure, with the
   predictive and the count of distinct features that follow
-  (THEORY-tmpgy035), and for the hierarchical beta process, the
+  ([THEORY-tmpgy035](../theory.d/THEORY-tmpgy035.md)), and for the hierarchical beta process, the
   established way for groups to share one feature library at
-  group-specific prevalences (THEORY-tmpz726y). Read it knowing that
+  group-specific prevalences ([THEORY-tmpz726y](../theory.d/THEORY-tmpz726y.md)). Read it knowing that
   conjugacy is cited rather than proved, that its groups are disjoint and
   static, that its one experiment is a single text-classification split,
   and that its stated reason for a small group concentration reads
@@ -66,7 +66,7 @@ Indian buffet process. In *Proceedings of the Eleventh International
 Conference on Artificial Intelligence and Statistics*, PMLR 2: 564–571.
 https://proceedings.mlr.press/v2/thibaux07a.html.
 
-Read 2026-10-26 in full, in NOTE-tmp9d3rs. The summary was checked
+Read 2026-10-26 in full, in [NOTE-tmp9d3rs](../notes.d/NOTE-tmp9d3rs.md). The summary was checked
 against the reading and holds.
 
 ## Why this is here

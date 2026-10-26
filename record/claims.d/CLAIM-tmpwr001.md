@@ -113,6 +113,37 @@ relations the allocation leaves open are routing and the contexts in
 which features are consequential, and [CLAIM-367](CLAIM-367.md) has already said that
 most of the governance of training lies outside the network.
 
+## Outside the exchange
+
+The works the exchange cited, read on 2026-10-26, hold the move this
+claim denies and cases of its point. They are supporting cases, not a
+test: the claim is interpretive.
+
+- **The move, published.** The author–topic paper reads its Enron topics
+  as showing "how the author-topic model can learn about the roles and
+  interests of different individuals from text that they have written",
+  by inspection and with no check against the individuals' roles
+  ([NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md)). Its institutional accounts, such as Enron General
+  Announcements, come out nearly single-topic: one source sending alike
+  messages, which is [CASE-101](../cases.d/CASE-101.md)'s coactivity rather than a perspective.
+- **A layer above the features is still co-occurrence.** Correlated
+  latent-feature models put categories over the features
+  ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)). A category is a pattern of which features occur
+  together, so it is another constituent, not the organization of them.
+- **A circuit is not its canonical units.** In Musat, Pimentel, Zucchet
+  and Hofmann's trained two-hop models, the four canonical units alone
+  score 0.594 and with three "aiding" units 0.922 ([NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md)): what
+  the circuit does depends on how further units are composed with them.
+- **A feature that tracks a variable need not carry it.** In the
+  interpretability benchmark T24 cites, sparse-autoencoder features never
+  localized a causal variable better than the model's own neurons, and an
+  apparent carry-the-one signal was the correlated output digit, failing
+  totally under random counterfactuals ([THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md), [NOTE-tmp56il8](../notes.d/NOTE-tmp56il8.md)).
+- **Features scored one at a time.** The cross-checkpoint crosscoder study
+  scores features singly, and its authors leave extending the analysis
+  "from individual features to circuits" to future work ([NOTE-tmpq065x](../notes.d/NOTE-tmpq065x.md)),
+  which is where this claim puts the perspective.
+
 ## What it does not say
 
 - Not that a recovered feature is useless. It may well be a constituent,

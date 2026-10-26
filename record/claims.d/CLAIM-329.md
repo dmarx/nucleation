@@ -28,7 +28,10 @@ history:
     Review" cited this claim for transformer features across
     checkpoints, at the grain of TERM-071, and then asked its question
     without it; in training, causal connection is total, so the verdict
-    falls to what is transmitted. The claim is unchanged.
+    falls to what is transmitted. Extended the same day: the three
+    training-dynamics works read for the exchange judge persistence by
+    resemblance (a shared dictionary index, the same tokens affected,
+    node and edge overlap). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -205,4 +208,24 @@ case of causal connection without transmission. Implementation turnover,
 "perhaps through different physical components", is this claim's member
 replacement, and matching features across checkpoints needs [CLAIM-263](CLAIM-263.md)'s
 quotient by the architecture's full symmetry group before resemblance can
-count for anything. The claim is unchanged.
+count for anything.
+
+<!-- inactive-ok-file: THEORY-tmp1dufu THEORY-tmpoirdq — Proposed; readings of the same day, cited as reports of persistence by resemblance -->
+
+The training-dynamics works T24 drew on, read the same day, judge
+persistence by resemblance throughout, so the cited prior art does not
+answer §6's question either.
+
+- Cross-checkpoint crosscoders ([NOTE-tmpq065x](../notes.d/NOTE-tmpq065x.md)) call a feature "maintained"
+  when one index of a jointly trained dictionary has weight at both
+  checkpoints: continuity by a shared index, which is resemblance.
+- The refined-LLC study ([NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md), [THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md)) has an n-gram
+  "move" from one head to another when the same tokens are affected at two
+  checkpoints.
+- The fine-tuning circuit study ([NOTE-tmplotfq](../notes.d/NOTE-tmplotfq.md), [THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)) judges a
+  circuit the same before and after by the overlap of its nodes and edges.
+
+The induction-heads paper ([NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md)) draws [TERM-071](../terms.d/TERM-071.md)'s line itself: a
+constant in-context learning score "doesn't necessarily mean that the
+underlying mechanisms of in-context learning are constant". The claim is
+unchanged.

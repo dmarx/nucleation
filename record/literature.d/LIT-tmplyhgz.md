@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpn08ry) in full, from the arXiv copy of the
+  read 2026-10-26 ([NOTE-tmpn08ry](../notes.d/NOTE-tmpn08ry.md)) in full, from the arXiv copy of the
   UAI paper; worth reading for the category layer that makes IBP features
   co-occur while keeping finitely many on finite data, and for the
-  condition that bounds what such models can express (THEORY-tmpwm0kx).
+  condition that bounds what such models can express ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)).
   Read it knowing that its features can be switched on by categories and
   never off, so it does not model inhibition, and that its table supports
   a gain over the IBP on three of five datasets, not "in almost all
@@ -61,10 +61,10 @@ Doshi-Velez, F. & Ghahramani, Z. (2009). Correlated non-parametric latent
 feature models. In *Proceedings of the 25th Conference on Uncertainty in
 Artificial Intelligence* (UAI 2009). PMLR R7: 143–150. arXiv:1205.2650.
 
-Read 2026-10-26 in full, in NOTE-tmpn08ry. The summary was checked
+Read 2026-10-26 in full, in [NOTE-tmpn08ry](../notes.d/NOTE-tmpn08ry.md). The summary was checked
 against the reading and holds. T22 cited it for modes that "reinforce,
 inhibit, or depend on one another"; the reading supports the first and
-the last, not inhibition (THEORY-tmpwm0kx).
+the last, not inhibition ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)).
 
 ## Why this is here
 

@@ -122,7 +122,7 @@ supervised by the hypothesis it is evaluated against.
 | C2 | Counterfactual ablations localize better than mean or optimal ablations | moderate | Table 2; the authors attribute it to matching the evaluation setting |
 | C3 | Exact activation patching is not the best method despite computing exact indirect effects | moderate | Table 2; run on fewer examples for cost, which the authors note may explain part of it |
 | C4 | Supervised DAS gives the best causal-variable alignments | strong, for these tasks | Table 3; DAS optimizes the evaluation objective on training pairs, evaluated on held-out ones |
-| C5 | SAE features are not better units than neurons for localizing known causal variables | strong, for the tested SAEs, sites and tasks | Table 3, all sixteen cells (THEORY-tmp4lqc8) |
+| C5 | SAE features are not better units than neurons for localizing known causal variables | strong, for the tested SAEs, sites and tasks | Table 3, all sixteen cells ([THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)) |
 | C6 | Non-basis-aligned directions are generally better units than neurons | moderate | DAS beats DBM over neurons, but DAS is also supervised and DBM is a mask, so unit and supervision are confounded |
 | C7 | MIB shows there has been "real progress" in mechanistic interpretability | weak | inferred from methods separating from random and from each other |
 
@@ -148,12 +148,12 @@ EAP-IG (Hanna et al. 2024), on Li and Janson's optimal ablations and UGS,
 on InterpBench (Gupta et al. 2024) and on RAVEL (Huang et al. 2024). Its
 SAE finding agrees with AxBench, where SAEs "struggle against simple
 steering baselines". The record holds the neighbouring work on
-interchange interventions: Makelov et al. (LIT-968), Wu et al.'s reply
-(LIT-961), and LIT-987.
+interchange interventions: Makelov et al. ([LIT-968](../literature.d/LIT-968.md)), Wu et al.'s reply
+([LIT-961](../literature.d/LIT-961.md)), and [LIT-987](../literature.d/LIT-987.md).
 
 ## Bearing on the record
 
-- **CLAIM-tmpwr001.** Two of MIB's results are the claim's point in
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** Two of MIB's results are the claim's point in
   networks. A feature recovered without the causal hypothesis, an SAE
   feature, did not carry the task variable better than raw coordinates did.
   And the carry-the-one case shows a representation that tracks the
@@ -163,7 +163,7 @@ interchange interventions: Makelov et al. (LIT-968), Wu et al.'s reply
   interventions that separate it from what it is correlated with. That is
   a supporting case in a new setting, not a test of the claim about
   perspectives.
-- **QUESTION-tmpivbso.** The exchange cited MIB as "a useful warning", and
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The exchange cited MIB as "a useful warning", and
   the reading bears it out with two qualifications. The warning is about
   SAE features on residual streams of two pretrained models, selected by
   a mask, for variables supplied in advance; it is not about dictionaries
@@ -171,19 +171,19 @@ interchange interventions: Makelov et al. (LIT-968), Wu et al.'s reply
   method that wins, DAS, is supervised by the very causal model it is
   scored against. A coupled feature–circuit model fitted to checkpoints
   would have to be scored by interventions it was not fitted to, which is
-  CLAIM-427's third grade and CLAIM-278's caution.
-- **THEORY-802 and THEORY-243.** MIB scores an alignment by IIA alone. Two
+  [CLAIM-427](../claims.d/CLAIM-427.md)'s third grade and [CLAIM-278](../claims.d/CLAIM-278.md)'s caution.
+- **[THEORY-802](../theory.d/THEORY-802.md) and [THEORY-243](../theory.d/THEORY-243.md).** MIB scores an alignment by IIA alone. Two
   alignments that tie on every interchange intervention, the case
-  THEORY-243 proves in a constructed network, would score identically, so MIB
-  cannot see the non-uniqueness THEORY-802 asserts and does not claim to.
+  [THEORY-243](../theory.d/THEORY-243.md) proves in a constructed network, would score identically, so MIB
+  cannot see the non-uniqueness [THEORY-802](../theory.d/THEORY-802.md) asserts and does not claim to.
   Its DAS subspaces are learned orthogonal directions of up to half the
   residual stream (for the answer-token variables), and the full vector
   reaches 100% best-layer IIA in four cells: a large enough subspace passes
   interchange tests without isolating anything. The averages over layers,
   not the best-layer figures, carry the comparison.
-- **THEORY-504.** Gemma Scope's residual-stream SAEs cost more next-token
+- **[THEORY-504](../theory.d/THEORY-504.md).** Gemma Scope's residual-stream SAEs cost more next-token
   loss than MLP or attention ones. MIB's SAE comparisons are on residual
-  streams, the site THEORY-504 found worst by loss, and the SAE
+  streams, the site [THEORY-504](../theory.d/THEORY-504.md) found worst by loss, and the SAE
   interventions carry the base input's reconstruction error. Both may
   depress SAE scores. MIB does not test other sites.
 - The leaderboards and method rankings are guidance for interpretability

@@ -102,8 +102,8 @@ is.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | Each item's indicator znk(t) is marginally Bernoulli(bk) at every t, in all three regimes | strong | the threshold construction (3)–(4); re-derived in THEORY-tmpumk4q |
-| C2 | In the exchangeable regime the whole matrix Z(t) is IBP-distributed at each t | holds only for the collapsed regime | asserted in §3 and footnote 1; the record's derivation and simulation (THEORY-tmpumk4q) find it fails when Σk(t,t) > 0 |
+| C1 | Each item's indicator znk(t) is marginally Bernoulli(bk) at every t, in all three regimes | strong | the threshold construction (3)–(4); re-derived in [THEORY-tmpumk4q](../theory.d/THEORY-tmpumk4q.md) |
+| C2 | In the exchangeable regime the whole matrix Z(t) is IBP-distributed at each t | holds only for the collapsed regime | asserted in §3 and footnote 1; the record's derivation and simulation ([THEORY-tmpumk4q](../theory.d/THEORY-tmpumk4q.md)) find it fails when Σk(t,t) > 0 |
 | C3 | The choice of covariance sets the dependence and exchangeability structure | strong as a description | §3 |
 | C4 | Modelling covariate dependence lowers prediction error | moderate | two datasets, ten folds each; no significance test though the text says "significantly" |
 | C5 | Truncated Gibbs with HMC is a workable inference scheme | moderate | the experiments; no mixing diagnostics reported |
@@ -120,23 +120,23 @@ is.
 
 ## Connections
 
-It extends the IBP (LIT-tmpxrrf9) through Teh et al.'s stick-breaking
+It extends the IBP ([LIT-tmpxrrf9](../literature.d/LIT-tmpxrrf9.md)) through Teh et al.'s stick-breaking
 construction, MacEachern's DDP and Duan et al.'s and Sudderth and Jordan's
 thresholded-Gaussian device, and positions itself against the Markov IBP
 of Van Gael et al. (2009), not registered. It names "dependent beta
-processes" (LIT-tmpday8e's measure) as an alternative left for future
+processes" ([LIT-tmpday8e](../literature.d/LIT-tmpday8e.md)'s measure) as an alternative left for future
 work.
 
 ## Bearing on the record
 
-- **CASE-tmplcm41, the comparator.** T23 says its model "is not
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), the comparator.** T23 says its model "is not
   automatically the exact dependent IBP of Williamson, Orbanz, and
   Ghahramani, whose construction uses covariate-dependent Gaussian
-  processes". That is accurate. LIT-tmpporrt's own entry said the dIBP is
+  processes". That is accurate. [LIT-tmpporrt](../literature.d/LIT-tmpporrt.md)'s own entry said the dIBP is
   the model "in which the feature allocation stays IBP-distributed at every
   covariate value"; the reading narrows that to the collapsed model, which
   is the one that fits members tracked over days.
-- **CASE-tmplcm41, item 2.** The construction removes the second half of
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), item 2.** The construction removes the second half of
   the case's finding. In T23's transition the stationary prevalence
   drifts from πk (0.36 against 0.2 at ρ = 2). In the dIBP every item's
   marginal is bk at every t by construction, whatever the persistence.
@@ -148,14 +148,14 @@ work.
   per-feature length scales are what allow persistence to be set per
   feature. So the dIBP answers the case's "one ρ cannot do that" with a
   persistence parameter per feature.
-- **CASE-tmplcm41, item 1.** The paper truncates by stick-breaking (at 20
-  and 50), the construction THEORY-tmppc921 shows is close to the IBP at
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), item 1.** The paper truncates by stick-breaking (at 20
+  and 50), the construction [THEORY-tmppc921](../theory.d/THEORY-tmppc921.md) shows is close to the IBP at
   small K.
-- **QUESTION-tmpixgs8.** It is the established way to let latent features
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** It is the established way to let latent features
   of members appear, fade and return over time without fixing their
   number. It does not make features depend on one another or on the
   members' interactions, which T23's social and team terms try to add.
-- **QUESTION-tmpivbso.** T24's port needs a prior over B_s across
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** T24's port needs a prior over B_s across
   checkpoints. The collapsed dIBP is a candidate whose marginal at every
   checkpoint is an IBP; it does not condition on θ_s, which avoids the
   first gap the case records for T24, and it still treats components as

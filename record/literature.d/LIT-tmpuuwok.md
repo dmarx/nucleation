@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpq065x) in full, from the arXiv PDF of v2
+  read 2026-10-26 ([NOTE-tmpq065x](../notes.d/NOTE-tmpq065x.md)) in full, from the arXiv PDF of v2
   (30 April 2026); worth reading for the method of tracking features
   across pretraining checkpoints with one joint dictionary, and for
   separating a feature's presence (decoder norm) from its causal use
   (RelIE). Read it knowing that its developmental trends rest on the
-  authors' annotation of a few top features (THEORY-tmpt45mh, Proposed),
+  authors' annotation of a few top features ([THEORY-tmpt45mh](../theory.d/THEORY-tmpt45mh.md), Proposed),
   that it covers one layer and two or three checkpoints at a time, and
   that a feature shared across checkpoints is shared by construction of
   the dictionary, not shown to be carried forward.
@@ -66,7 +66,7 @@ Bayazit, D., Mueller, A. & Bosselut, A. (2025). Crosscoding through time:
 Tracking emergence & consolidation of linguistic representations throughout
 LLM pretraining. *ACL 2026*. arXiv:2509.05291.
 
-Read in full on 2026-10-26 (NOTE-tmpq065x). The summary is checked
+Read in full on 2026-10-26 ([NOTE-tmpq065x](../notes.d/NOTE-tmpq065x.md)). The summary is checked
 against the reading.
 
 ## Why this is here

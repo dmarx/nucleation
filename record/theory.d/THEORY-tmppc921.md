@@ -18,7 +18,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpxrrf9
 summary: >-
-  Griffiths and Ghahramani (2011), LIT-tmpxrrf9, read in NOTE-tmp9hj4u,
+  Griffiths and Ghahramani (2011), [LIT-tmpxrrf9](../literature.d/LIT-tmpxrrf9.md), read in [NOTE-tmp9hj4u](../notes.d/NOTE-tmp9hj4u.md),
   derive the IBP as the K → ∞ limit of πk ~ Beta(α/K, 1), zik ~
   Bernoulli(πk), and give K+ ~ Poisson(αH_N) for the limit only. At finite
   K the count falls short, by 27% at N = 12, α = 3, K = 16. It says
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Griffiths and Ghahramani (2011), *JMLR* 12: 1185–1224, LIT-tmpxrrf9, read
-in full in NOTE-tmp9hj4u. The finite model is their (9), the per-feature
+Griffiths and Ghahramani (2011), *JMLR* 12: 1185–1224, [LIT-tmpxrrf9](../literature.d/LIT-tmpxrrf9.md), read
+in full in [NOTE-tmp9hj4u](../notes.d/NOTE-tmp9hj4u.md). The finite model is their (9), the per-feature
 expectation their (11), and K+ ~ Poisson(αH_N) their §4.6, stated for the
 limit. The finite-K count and the inequality below are the record's.
 
@@ -66,7 +66,7 @@ E[K+] → αH_N, the paper's limit.
 αH₁₂ = 9.310. E[K+] is 6.830 at K = 16, 8.381 at K = 50 and 9.259 at
 K = 1000. Per object, Kα/(K + α) is 2.53 at K = 16 against α = 3. Under
 the IBP itself P(K+ > 16) = 0.0149. For comparison, a stick-breaking
-truncation at 16 (Teh et al. 2007, the construction LIT-tmpporrt uses),
+truncation at 16 (Teh et al. 2007, the construction [LIT-tmpporrt](../literature.d/LIT-tmpporrt.md) uses),
 with vj ~ Beta(α, 1) and bk = ∏_{j≤k} vj, gives 8.97 occupied features
 (Monte Carlo, 200,000 draws) and Σ_{k≤16}(α/(1 + α))^k = 2.97 features
 per object.
