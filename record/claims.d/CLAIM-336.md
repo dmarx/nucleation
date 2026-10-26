@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -26,6 +26,12 @@ history:
     and Multi-LoRA composition: A45's distinction maps onto the two papers,
     with a caution that prompt-as-frame and LoRA-as-operator do not separate
     cleanly. The claim is unchanged.
+- version: 5
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the Perspective Population Lab is now held
+    (dmarx/PerspectiveLab), and its versions to v2.2 build the influence
+    side only. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -189,3 +195,19 @@ it held. A42 cited this claim for its proposal of a typed workspace.
 
 No joint prediction of the two lines was derived, so the claim stays
 untested. The claim is unchanged.
+
+## Note of 2026-10-26: the lab held, and its later versions
+
+<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpwxgtj CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as what has been built, nothing here rests on them -->
+
+The Perspective Population Lab of the note of 2026-10-25 is now held:
+v1.0 as dmarx/PerspectiveLab@41e56df, and its successors at @7e2edc2
+(v1.1–v1.8) and @9f82bfd (v1.9–v2.2). The later versions build out the
+influence side of this claim's model: authority allocated under
+self-scoring and selected evidence ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md)), exact closure
+verdicts on a 192-state organization ([CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md)), and governing
+rules maintained by members and identified by probes ([CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md),
+[CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md)). None has a frame, a judgement or a meaning state beyond a
+record of which of two alternatives the evidence favours, so none can
+derive a joint prediction of the two lines. The claim stays untested
+and is unchanged.

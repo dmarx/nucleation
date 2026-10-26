@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpxapb2
 title: 'Beyond the scalar linear Gaussian case, when a coarse variable''s reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,12 @@ history:
     QUESTION-248, Answered by CLAIM-398. The title gains "Beyond the
     scalar linear Gaussian case" and asks for error bounded in terms of
     the eliminated dynamics.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: three finite-state results on history against
+    state from the Perspective Population Lab, none a bound in terms of
+    the eliminated dynamics. The question is unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -158,3 +164,27 @@ is [QUESTION-248](QUESTION-248.md), Answered by [CLAIM-398](../claims.d/CLAIM-39
 augmentation from Y's own history. This question keeps nonlinear and
 noisy classes, vector coarse variables, error in terms of the eliminated
 spectrum, and the ruling on levels.
+
+## Note of 2026-10-26: history against state, in finite chains
+
+<!-- inactive-ok-file: CASE-tmpwxgtj — Proposed; the 192-state construction filed 2026-10-26, cited as bearing on the question, not as answering it -->
+
+Three results from the Perspective Population Lab:
+
+- **One lag suffices** (v1.5, dmarx/PerspectiveLab@7e2edc2
+  experiments/closure_profile/). In an exact finite-chain fixture with a
+  hidden lag, the current macrostate has a one-step defect of 0.2781 bits,
+  and with one lag 0. A finite augmentation from the coarse variable's own
+  history, outside the linear Gaussian class.
+- **History does not stand in for state** ([CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md)). In a 192-state
+  organization, authority's finite-history defect falls from 0.147 bits at
+  h = 1 to 0.132 at h = 6 and levels off, while the agents are closed with
+  no history.
+- **One target, one step** (v1.9, dmarx/PerspectiveLab@9f82bfd). In a
+  32-member population, four lags of the six-variable macrostate cut the
+  held-out error of the next change of the mean record by about 99.6%, and
+  the current mean local endorsement predicts it exactly, because it is in
+  the update law. That is not closure of the augmented state.
+
+None is a bound in terms of the eliminated dynamics, and none is an
+infinite-history result. The question is unchanged.

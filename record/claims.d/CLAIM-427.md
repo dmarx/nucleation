@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpcp1lb
 title: 'Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework''s defeater, and no grade counts if success is defined in the framework''s own terms'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the lab's later versions meet the first two
+    grades within synthetic constructions and not the third, and a
+    comparator pilot (dmarx/PerspectiveLab@dce302b) shows why fit alone
+    cannot. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -87,3 +95,28 @@ A4's table, which the claim adopts:
 - **Not that simulation can settle it.** A5: "a simulation cannot
   independently validate the ontology it presupposes." A simulation can
   meet the third grade only for the class of systems it models.
+
+## Note of 2026-10-26: where the lab stands on the grades
+
+<!-- inactive-ok-file: CASE-tmpwxgtj CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as where the evidence stands, nothing here rests on them -->
+
+The Perspective Population Lab's later versions meet the first two
+grades within synthetic constructions and do not reach the third.
+Matched ordinary behaviour with different responses to specified
+interventions is [CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md) in a 32-member population and
+[CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md) exactly. [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md) predicts withheld interventions from
+probes, but its forecaster is given the four candidate mechanisms and
+their equations, and every probe runs on a counterfactual reset.
+
+A comparator pilot (dmarx/PerspectiveLab@dce302b
+experiments/comparator_pilot/) set rivals beside it under unequal
+information. A generic state-space model with the same transition kernels
+ties exactly, by construction. Boosted trees fitted only to the probe
+trajectories fail (MSE about 0.2 against 0.002). A supervised model
+trained on the candidates' target outcomes beats the structural
+forecaster at nominal parameters (0.0013 against 0.0021). Its report says
+it is "NOT CLAIM-427 grade-three evidence". The tie by construction puts
+this claim's warning more sharply: renaming governing constraints as
+latent state changes no prediction. So the third grade has to be won by
+restriction, compression or transport, with the prior knowledge of
+mechanisms priced, and not by fit. The claim is unchanged.

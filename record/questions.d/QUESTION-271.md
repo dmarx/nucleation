@@ -4,13 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpdicvf
 title: 'How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
   note: >-
     A dated note added: A41 and A47 asked it again, and CASE-158
     proposes one arm per failure. The question is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: CASE-158's arms for failures 3 and 4 run in
+    proxy form, filtering of tests run in a population with a known-
+    propensity correction (CASE-tmpr1vuv), and the cost of a diagnostic
+    (CASE-tmpw6jjd). The question is unchanged.
 tags:
 - self-governance
 - game-theory
@@ -117,3 +124,29 @@ historically entrenched". Those are, nearly one for one, this question's
 cycles, no common scale, bandit feedback and capture. [CASE-158](../cases.d/CASE-158.md)
 proposes one arm per failure against a router baseline. The question is
 unchanged.
+
+## Note of 2026-10-26: two failures run, in weakened form
+
+<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpw6jjd THEORY-932 — Proposed; the lab's runs filed 2026-10-26 and the reading on inverse-frequency weighting, cited as bearing on failures 3 and 4, not as answering them -->
+
+- **Proxies in [CASE-158](../cases.d/CASE-158.md)'s design** (v1.1, [CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md),
+  dmarx/PerspectiveLab@7e2edc2). An evaluator scored 80% on agreement
+  with the current mixture stands in for capture, and audits attributed to
+  one specialist per receiver stand in for bandit feedback. The lab's own
+  report says both are weaker than the real failures. The router faces
+  the same audit delay and cost, and has the lower error in all four
+  cells. Under 80% capture neither recovers on any seed.
+- **Filtered tests** (v1.3, [CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md)). When admission of cues
+  depends on the incumbent's record, 41 of 64 worlds keep the worse
+  alternative in charge at s = 0.75 and at s = 1, with no self-scoring.
+  Weighting by the exact inverse admission propensity brings that to 0
+  and 5. That is [THEORY-932](../theory.d/THEORY-932.md)'s inverse-frequency correction applied to
+  filtering, and it works only with known propensities that stay
+  positive. It does not undo self-scoring: 39 of 64 at c = 0.5 with
+  nothing filtered, before and after.
+- **The cost of a diagnostic** (v2.1, [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md),
+  dmarx/PerspectiveLab@9f82bfd). A probe that separates mechanisms costs
+  damage, and a more damaging probe can be the less informative one.
+
+Cycles, no common scale, duplicated tests, and unknown or zero
+propensities are not touched. The question is unchanged.

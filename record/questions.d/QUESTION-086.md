@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpgjngk
 title: 'Can two systems with matching behaviour and persistence be told apart by whether their own processes generate and revise the constraints that keep them going, and by what intervention?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,13 @@ history:
     (CASE-125) meets the condition A7 set on 2026-10-17 but says
     nothing about self- against externally maintained constraints. The
     question is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a seventh appearance, with CASE-126 and
+    CLAIM-414 named, and interventions that separate stipulated
+    arrangements in a population (CASE-tmpfmdj6, CASE-tmpw6jjd); the
+    boundary is still stipulated. The question is unchanged.
 tags:
 - self-governance
 - individuation
@@ -134,3 +141,28 @@ hidden difference was stipulated to be the mechanism the intervention
 acts on. It says nothing about self- against externally maintained
 constraints, which is this question's distinction, so it is not an
 answer.
+
+## Note of 2026-10-26: interventions named, for arrangements the modeller assigns
+
+<!-- inactive-ok-file: CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's maintenance and identification runs filed 2026-10-26, cited as bearing on the question, not as answering it -->
+
+A seventh appearance, and the first to carry this question's own
+distinction into a population. [CASE-126](../cases.d/CASE-126.md) and [CLAIM-414](../claims.d/CLAIM-414.md) (Active) had already
+built a matched pair, one system maintaining its two constraints by a
+minimal closure and the other reset from outside, told apart by one
+perturbation; this question did not cite them. [CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md) carries the
+pair to a 32-member population, with feedback only as a third arm, and
+separates them by A7's interventions: damage to a rule, and interruption
+of the producers (dmarx/PerspectiveLab@7e2edc2). [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md) names a
+design short of removal, an audit pulse with a short producer
+interruption, that identifies which of four mechanisms applies. It also
+shows that the pulse alone does not separate self-dependent production
+from feedback only (dmarx/PerspectiveLab@9f82bfd).
+
+Both answer "by what intervention" for arrangements the modeller assigns,
+within a known catalog. They do not touch A10's problem of scale.
+"Internal" means inside the simulated population because the producer
+teams are put there, so where the boundary falls is stipulated, not
+found. Whether [CLAIM-414](../claims.d/CLAIM-414.md) with these cases answers a finite-model child of
+this question under [ADR-049](../decisions.d/ADR-049.md) is left for the owner. The question is
+unchanged.

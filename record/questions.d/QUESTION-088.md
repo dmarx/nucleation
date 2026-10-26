@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmpkkobi
 title: 'Does modelling psychological organization as processes that allocate influence to one another predict habit, rumination, rigidity, akrasia and insight better, with one shared set of organizational variables, than models built for each phenomenon or around a central executive?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the Perspective Population Lab is a tool for
+    this comparison and not an answer to it. The question is unchanged.
 tags:
 - self-governance
 - behavioral-integration
@@ -53,3 +59,18 @@ The record already reads several phenomena this way. Procrastination is
 reversal is [CLAIM-198](../claims.d/CLAIM-198.md). An answer is a comparison on held-out phenomena, or
 interventions, with flexibility penalized, in which the shared variables do
 better or do not.
+
+## Note of 2026-10-26: the lab is not yet the comparison
+
+<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as tools for the comparison, nothing here rests on them -->
+
+The Perspective Population Lab (dmarx/PerspectiveLab, through v2.2 at
+@9f82bfd) is one engineered lineage in which authority, selected
+evidence, practice that depends on access, maintained rules and
+diagnostic interventions run together ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md), [CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md),
+[CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md)). Its v1.2 README lists correspondences to habit and agenda
+control as hypotheses. It has predicted no independently measured habit,
+rumination, rigidity, akrasia or insight from shared variables, and has
+been compared with no model built for one phenomenon or around a central
+executive. It is a tool for this question's comparison, not an answer.
+The question is unchanged.
