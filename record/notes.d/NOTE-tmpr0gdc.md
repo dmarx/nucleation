@@ -124,7 +124,7 @@ nodes and most of the behaviour goes.
   activations or effects), and a circuit is found per cluster. Cluster 475
   ("to" as an infinitival object) and cluster 382 (incrementing sequences)
   each turn out to use two or more mechanisms that converge at the output
-  "without fully intersecting" (THEORY-tmpyawf9).
+  "without fully intersecting" ([THEORY-tmpyawf9](../theory.d/THEORY-tmpyawf9.md)).
 
 ## Claims
 
@@ -153,21 +153,21 @@ nodes and most of the behaviour goes.
 
 ## Connections
 
-It builds on Bricken et al. (LIT-tmpn9ui7) for the autoencoders and on
+It builds on Bricken et al. ([LIT-tmpn9ui7](../literature.d/LIT-tmpn9ui7.md)) for the autoencoders and on
 causal mediation in interpretability (Vig et al., Finlayson et al.), with
 attribution patching (Nanda; Syed et al.; Kramár et al.) and integrated
-gradients (Sundararajan et al.; Hanna et al.). Gemma Scope is LIT-611. Its
+gradients (Sundararajan et al.; Hanna et al.). Gemma Scope is [LIT-611](../literature.d/LIT-611.md). Its
 behaviour clusters follow Michaud et al.'s quantization model. Its last
-author leads MIB (LIT-tmprlq7z), whose circuit track scores the same family
-of attribution methods, and the record's crosscoder reading (LIT-tmpuuwok,
-NOTE-tmpq065x) takes its indirect effects from this paper. Templeton et
-al. (LIT-tmp8w8uj) cite it as the next step after features. Its
+author leads MIB ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)), whose circuit track scores the same family
+of attribution methods, and the record's crosscoder reading ([LIT-tmpuuwok](../literature.d/LIT-tmpuuwok.md),
+[NOTE-tmpq065x](NOTE-tmpq065x.md)) takes its indirect effects from this paper. Templeton et
+al. ([LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md)) cite it as the next step after features. Its
 successor and induction features recover at feature level the heads of
-Olsson et al. (LIT-tmpe7b5o).
+Olsson et al. ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)).
 
 ## Bearing on the record
 
-- **CLAIM-tmpwr001.** The paper gives the claim's point a number in a
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The paper gives the claim's point a number in a
   network. The features recovered without the task are not enough to
   carry it: with the error terms removed, the agreement circuits recover
   little, and the authors' own method keeps the unexplained remainder as a
@@ -176,22 +176,22 @@ Olsson et al. (LIT-tmpe7b5o).
   distractor clause, and verb forms, connected across positions. That is
   the claim's "organized relationship among them" in a transformer, found
   by interventions, not read off a feature.
-- **THEORY-tmp4lqc8.** MIB's finding that SAE features localize supplied
+- **[THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md).** MIB's finding that SAE features localize supplied
   variables worse than neurons, and this paper's that feature circuits are
   smaller than neuron circuits, are compatible: these feature circuits
   include error nodes that are dense, high-dimensional and not neurons, and
   without them the comparison is not made. The paper says the two cannot
   "fairly be compared".
-- **THEORY-tmpt45mh and QUESTION-tmpivbso.** The crosscoder study of
+- **[THEORY-tmpt45mh](../theory.d/THEORY-tmpt45mh.md) and [QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The crosscoder study of
   subject–verb agreement across checkpoints uses this paper's indirect
   effects on the same task. The two-pathway circuit here, read in one
   finished model, is what a developmental study would track: the question
   is when the clause-boundary pathway forms relative to the direct one.
-- **THEORY-tmp8cat0 and THEORY-tmpvqsx2.** The cluster circuits find
+- **[THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md) and [THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md).** The cluster circuits find
   succession and narrow induction features composing to predict "4" after
   "Chapter 3 … Chapter": an induction mechanism split into token-specific
   features, where Olsson et al. had heads.
-- **THEORY-802.** The circuits are found by effects on one metric over one
+- **[THEORY-802](../theory.d/THEORY-802.md).** The circuits are found by effects on one metric over one
   family of contrasts. Alignments related by a change of basis within a
   site would score the same, and the paper does not test uniqueness.
 - **SHIFT** is a method for ML practice, which the anthology holds; the

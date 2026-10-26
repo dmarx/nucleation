@@ -21,7 +21,7 @@ source:
 extended_by:
 - THEORY-tmp14ee2
 summary: >-
-  Templeton et al. (2024), LIT-tmp8w8uj, read in NOTE-tmpfpjyr: Features
+  Templeton et al. (2024), [LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md), read in [NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md): Features
   as Computational Intermediates and the appendix on ablations and
   attributions. On "The capital of the state where Kobe Bryant played
   basketball is" (Sacramento against Albany), the five features with the
@@ -36,7 +36,7 @@ summary: >-
 ## Source
 
 Templeton, Conerly, Marcus, Lindsey et al. (2024), *Scaling
-monosemanticity*, LIT-tmp8w8uj, read in full in NOTE-tmpfpjyr: Features as
+monosemanticity*, [LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md), read in full in [NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md): Features as
 Computational Intermediates and the appendix "Ablations and
 Attributions".
 
@@ -81,11 +81,11 @@ word "alone").
 
 ## Connections
 
-- **CLAIM-tmpwr001.** A measured case of the claim's point in a network:
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** A measured case of the claim's point in a network:
   that a feature is active says little about whether it carries the
   computation; which features do is found by intervening.
-- **THEORY-tmpuogp2.** The same method (linear approximations to indirect
+- **[THEORY-tmpuogp2](THEORY-tmpuogp2.md).** The same method (linear approximations to indirect
   effects) is how sparse feature circuits choose their nodes.
-- **THEORY-tmp4lqc8.** MIB scores features by interchange interventions
+- **[THEORY-tmp4lqc8](THEORY-tmp4lqc8.md).** MIB scores features by interchange interventions
   for supplied variables; here features are found by ablation for an
   answer, with no variable supplied.

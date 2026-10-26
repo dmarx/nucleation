@@ -32,7 +32,7 @@ source:
 extends:
 - THEORY-tmpuogp2
 summary: >-
-  Marks et al. (2025), LIT-tmp5b0z9, read in NOTE-tmpr0gdc: §3.3, §5 and
+  Marks et al. (2025), [LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md), read in [NOTE-tmpr0gdc](../notes.d/NOTE-tmpr0gdc.md): §3.3, §5 and
   Appendix C. Agreement across a relative clause: subject-number features
   promote verb forms directly, and a second pathway carries the number to
   the clause's end through PP/RC boundary features. Cluster 475: one
@@ -48,7 +48,7 @@ summary: >-
 
 ## Source
 
-Marks et al. (2025), LIT-tmp5b0z9, read in full in NOTE-tmpr0gdc: §3.3
+Marks et al. (2025), [LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md), read in full in [NOTE-tmpr0gdc](../notes.d/NOTE-tmpr0gdc.md): §3.3
 and Figure 4, §5 and Figure 5, and Appendix C (Figures 7–18, from captions
 and text).
 
@@ -84,11 +84,11 @@ See promote_when.
 
 ## Connections
 
-- **CLAIM-tmpwr001.** If behaviours are unions of feature pathways, then
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** If behaviours are unions of feature pathways, then
   what does the work is an organization of features, which is the claim's
   thesis transposed to a network.
-- **QUESTION-tmpivbso.** A developmental account would have to track
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** A developmental account would have to track
   pathways, not features: whether the two agreement pathways form
   together or one after the other.
-- **THEORY-tmp8cat0.** Induction at feature level comes in token-specific
+- **[THEORY-tmp8cat0](THEORY-tmp8cat0.md).** Induction at feature level comes in token-specific
   pieces composed with succession, where Olsson et al. found heads.

@@ -20,7 +20,7 @@ source:
 extended_by:
 - THEORY-tmpz7jrx
 summary: >-
-  Bricken et al. (2023), LIT-tmpn9ui7, read in NOTE-tmpz50gz: the detailed
+  Bricken et al. (2023), [LIT-tmpn9ui7](../literature.d/LIT-tmpn9ui7.md), read in [NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md): the detailed
   investigations, the global analysis and the appendices, for run A/1 of
   model A. Median rubric score 0 for neurons and 12 for feature intervals
   (one author, 162 units); held-out logit prediction 74% against 58%; the
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Bricken, Templeton, Batson, Chen, Jermyn et al. (2023), *Towards
-monosemanticity*, LIT-tmpn9ui7, read in full in NOTE-tmpz50gz from the
+monosemanticity*, [LIT-tmpn9ui7](../literature.d/LIT-tmpn9ui7.md), read in full in [NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md) from the
 article's HTML: the detailed investigations of individual features, Global
 Analysis, and the appendices on proxies, ablations, the rubric and
 automated interpretability.
@@ -85,18 +85,18 @@ outcome happens when the model has not learned anything.
   are less consistent, and the detailed cases are chosen to be easy.
 - **Not that the model is composed of these features.** The authors are
   "agnostic" on that, and the feature set depends on width and penalty
-  (THEORY-tmpz7jrx).
+  ([THEORY-tmpz7jrx](THEORY-tmpz7jrx.md)).
 - **Not that features carry known causal variables better than neurons.**
-  That is a different test, and in MIB they did worse (THEORY-tmp4lqc8).
+  That is a different test, and in MIB they did worse ([THEORY-tmp4lqc8](THEORY-tmp4lqc8.md)).
 
 ## Connections
 
-- **CLAIM-tmpwr001.** The paper itself treats activation structure and
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The paper itself treats activation structure and
   role as separate evidence, and a control shows activation structure
   arising from data alone. A supporting case of the claim's distinction,
   not a test of it.
-- **LIT-323.** The empirical counterpart of the superposition hypothesis's
+- **[LIT-323](../literature.d/LIT-323.md).** The empirical counterpart of the superposition hypothesis's
   prediction that more features than neurons are stored.
-- **THEORY-tmp4lqc8.** Compatible: better interpretability and worse
+- **[THEORY-tmp4lqc8](THEORY-tmp4lqc8.md).** Compatible: better interpretability and worse
   localization of supplied variables are both measured, by different
   tests.

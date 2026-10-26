@@ -1,18 +1,18 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpz50gz) in full, from the article's own page on
+  read 2026-10-26 ([NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md)) in full, from the article's own page on
   the Transformer Circuits Thread; worth reading as the paper that made
   sparse-autoencoder features the field's unit of analysis below the
   neuron, for its case that a feature is a causal unit and not only a
   pattern in the data (downstream effects the autoencoder never saw), and
   for feature splitting, which makes the feature set a resolution chosen by
-  dictionary size (THEORY-tmpz7jrx). Read it knowing that everything is
+  dictionary size ([THEORY-tmpz7jrx](../theory.d/THEORY-tmpz7jrx.md)). Read it knowing that everything is
   one 512-neuron MLP layer of a one-layer model, that the four deep-dive
   features are cherry-picked by the authors' own account, that the human
   ratings are one author's, and that the 79% of loss recovered is measured
   against zero-ablation, a baseline the authors call an overestimate
-  (THEORY-tmpkq43g).
+  ([THEORY-tmpkq43g](../theory.d/THEORY-tmpkq43g.md)).
 title: 'Towards Monosemanticity: Decomposing Language Models With Dictionary Learning'
 version: 2
 history:
@@ -73,16 +73,16 @@ Bricken, T., Templeton, A., Batson, J., Chen, B., Jermyn, A., et al.
 dictionary learning. *Transformer Circuits Thread*, 4 October 2023.
 https://transformer-circuits.pub/2023/monosemantic-features/index.html
 
-Read in full on 2026-10-26 (NOTE-tmpz50gz). Two accounts were drawn from
-it: THEORY-tmpkq43g and THEORY-tmpz7jrx.
+Read in full on 2026-10-26 ([NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md)). Two accounts were drawn from
+it: [THEORY-tmpkq43g](../theory.d/THEORY-tmpkq43g.md) and [THEORY-tmpz7jrx](../theory.d/THEORY-tmpz7jrx.md).
 
 ## Why this is here
 
 Registered on 2026-10-26 at the owner's request, when the record was found
 to hold almost none of the core circuits literature. The record had the
-superposition hypothesis (LIT-323) and a benchmark that tests
-sparse-autoencoder features as causal units (LIT-tmprlq7z,
-THEORY-tmp4lqc8), but not the paper that proposed those features as the unit
-below the neuron. It fills that gap. It bears on CLAIM-tmpwr001 (a recovered
-feature is at most a constituent), on THEORY-018 and THEORY-017 (a basis of
-features is the analyst's choice), and on QUESTION-tmpivbso.
+superposition hypothesis ([LIT-323](LIT-323.md)) and a benchmark that tests
+sparse-autoencoder features as causal units ([LIT-tmprlq7z](LIT-tmprlq7z.md),
+[THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)), but not the paper that proposed those features as the unit
+below the neuron. It fills that gap. It bears on [CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md) (a recovered
+feature is at most a constituent), on [THEORY-018](../theory.d/THEORY-018.md) and [THEORY-017](../theory.d/THEORY-017.md) (a basis of
+features is the analyst's choice), and on [QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).

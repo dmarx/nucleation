@@ -51,7 +51,7 @@ summary: >-
 
 ## Contribution
 
-It takes the third strategy Toy Models of Superposition (LIT-323) named
+It takes the third strategy Toy Models of Superposition ([LIT-323](../literature.d/LIT-323.md)) named
 for undoing superposition, dictionary learning after training, and shows
 in a real if tiny language model that it yields units more interpretable
 than the model's neurons. It also argues the first strategy, training
@@ -188,20 +188,20 @@ mostly single-token features and no interpretable effects.
 
 ## Connections
 
-It is the direct sequel of Toy Models of Superposition (LIT-323,
-NOTE-278), whose isotropic picture of features it says was "missing
+It is the direct sequel of Toy Models of Superposition ([LIT-323](../literature.d/LIT-323.md),
+[NOTE-278](NOTE-278.md)), whose isotropic picture of features it says was "missing
 something crucial": real features clump, by correlated activation and by
 similar "output actions". It credits Sharkey et al.'s interim reports and
 Cunningham et al. for the same approach in parallel, and Olshausen and
 Field's sparse coding stands behind it. The scaled-up sequel is
-LIT-tmp8w8uj. Circuits over its features are LIT-tmp5b0z9. The record's
-test of such features as causal units is MIB (LIT-tmprlq7z,
-THEORY-tmp4lqc8), and its reading of the Gemma Scope autoencoders is
-LIT-611 (THEORY-504).
+[LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md). Circuits over its features are [LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md). The record's
+test of such features as causal units is MIB ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md),
+[THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)), and its reading of the Gemma Scope autoencoders is
+[LIT-611](../literature.d/LIT-611.md) ([THEORY-504](../theory.d/THEORY-504.md)).
 
 ## Bearing on the record
 
-- **CLAIM-tmpwr001.** Two things here bear on the claim that a recovered
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** Two things here bear on the claim that a recovered
   feature is at most a constituent. First, the paper's own test separates
   a feature's activation pattern from its role: the effects on the output
   are checked independently, and the shuffled-weights control shows that
@@ -213,25 +213,25 @@ LIT-611 (THEORY-504).
   the model never learned them to work together. The paper does not ask
   whether features compose into anything above them inside the model; one
   MLP layer cannot show it.
-- **THEORY-017 and THEORY-018.** Feature splitting, with splits that
+- **[THEORY-017](../theory.d/THEORY-017.md) and [THEORY-018](../theory.d/THEORY-018.md).** Feature splitting, with splits that
   merge, makes the feature set a resolution set by width and L1, not the
   model's one basis; the authors say the correct number of features "may
-  not be well-posed" (THEORY-tmpz7jrx). That is THEORY-017's thesis that
-  parts are fixed by a choice, in a measured case. Under THEORY-018, the
+  not be well-posed" ([THEORY-tmpz7jrx](../theory.d/THEORY-tmpz7jrx.md)). That is [THEORY-017](../theory.d/THEORY-017.md)'s thesis that
+  parts are fixed by a choice, in a measured case. Under [THEORY-018](../theory.d/THEORY-018.md), the
   dictionary is also one choice among many that reconstruct equally; the
   universality across seeds is a check on that choice, not a proof that it
   is unique.
-- **THEORY-tmp4lqc8 and LIT-tmprlq7z.** The two do not conflict. This
+- **[THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md) and [LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md).** The two do not conflict. This
   paper shows features are more interpretable than neurons by human and
   model judgement; MIB shows they localize supplied causal variables worse.
   Interpretability is not the same test as carrying a hypothesized
   variable.
-- **QUESTION-tmpivbso.** The paper's features are of one trained model.
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The paper's features are of one trained model.
   Nothing tracks them over training. The ultralow-density cluster and the
   dead features are artifacts the question's feature-tracking would have to
   separate from real change.
-- **CLAIM-135.** Recovering features is reconstruction and partial
-  identification in CLAIM-135's terms; the authors' agnosticism about
+- **[CLAIM-135](../claims.d/CLAIM-135.md).** Recovering features is reconstruction and partial
+  identification in [CLAIM-135](../claims.d/CLAIM-135.md)'s terms; the authors' agnosticism about
   whether models are "composed of features" is the step to constitution
   left open.
 
