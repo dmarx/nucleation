@@ -1,1 +1,0 @@
-<!-- CLAIM-265 goes Active as a demonstrated claim, with two steps of its proof corrected to use stochastic maps. THEORY-080's exact half, the Occam factor of a linearised network as a sum over its tangent kernel's Gram eigenvalues, is filed as the record's own demonstrated claim; THEORY-080 keeps the spherical account. -->

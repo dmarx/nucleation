@@ -1,1 +1,0 @@
-<!-- THEORY-674 (Garg and Fetzer's causal-claims series) and THEORY-360 (Kirsh and Maglio's Tetris timings) are narrowed to what was measured and promoted; the claims the narrowings dropped are filed as two new Proposed THEORYs under ADR-047 v4. -->

@@ -1,1 +1,0 @@
-<!-- The promotion audit records batches 047-052 in its queue: five score-2 batches, the THEORY-019 and THEORY-083 follow-ups, ledger renames for CLAIM-384 and CLAIM-385, and the open owner questions. -->

@@ -1,1 +1,0 @@
-<!-- THEORY-083 (neural collapse) narrowed to the runs Papyan, Han and Donoho plotted, after their Figures 2-7 were read from the plots, and promoted (ADR-047 v3); NOTE-476 records what the figures show; the replication and derivation request moves to a new QUESTION. -->

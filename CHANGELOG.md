@@ -3978,4 +3978,761 @@ cadence — never hand-edited.
   carries one warrant: eleven new claims, three pointers to claims that
   already held the part. [CLAIM-240](record/claims.d/CLAIM-240.md) is kept whole.
 
+### Added
+
+- The rest of A39's examination of "I am whatever you say I am", from the exchange of 2026-10-22, filed at the owner's request around [CLAIM-415](record/claims.d/CLAIM-415.md):
+  - a Proposed term for the attributed self in four senses, held, imagined, imagined audience and appropriated ([TERM-075](record/terms.d/TERM-075.md)), which gathers the exchange's "socially operative identity" and "recursive social self-modeling";
+  - a Proposed claim that self-governance with respect to social judgement keeps access to others' judgements while making their authority depend on grounds, not visibility, repetition or attributed plurality ([CLAIM-425](record/claims.d/CLAIM-425.md));
+  - an objection to that claim from hyperstition, raised by the owner on 2026-10-23: where a judgement's circulation helps bring about what it says, its visibility is evidence about what it will bring about, so the visibility rule holds for judgements of what already is ([CLAIM-426](record/claims.d/CLAIM-426.md)), with three works registered unread: Carstens and Land's interview defining hyperstition ([LIT-1396](record/literature.d/LIT-1396.md)), MacKenzie's *An Engine, Not a Camera* ([LIT-1395](record/literature.d/LIT-1395.md)) and Soros on reflexivity ([LIT-1397](record/literature.d/LIT-1397.md));
+  - three stipulated cases: the label that confirms itself ([CASE-141](record/cases.d/CASE-141.md)), its variant confirmed by resistance ([CASE-142](record/cases.d/CASE-142.md)), and the attributed self as a test of the imagined audience ([CASE-140](record/cases.d/CASE-140.md));
+  - a question on whether correcting the distribution of opinion dissolves an apparent consensus, refining [QUESTION-119](record/questions.d/QUESTION-119.md) ([QUESTION-261](record/questions.d/QUESTION-261.md));
+  - two works registered: the song ([LIT-1394](record/literature.d/LIT-1394.md)) and Merton's "The Self-Fulfilling Prophecy" ([LIT-1398](record/literature.d/LIT-1398.md)).
+
+### Changed
+
+- [CLAIM-415](record/claims.d/CLAIM-415.md) revised: its sentence on Cooley no longer overstates him, step 2 cites Cooley's "remoter conformity" and the new resistance case, Cooley is added to its grounds, and the majority illusion is limited to the perceived-majority route.
+- A dated note on [TERM-045](record/terms.d/TERM-045.md) points to the new term. The definition is unchanged.
+
+### Added
+
+- Berniūnas & Dranseika 2016, the reply to Nichols & Bruno 2010 on folk
+  concepts of person and identity, filed Unavailable from its abstract.
+
+### Changed
+
+- [ADR-048](record/decisions.d/ADR-048.md): nucleation files any work the owner wants here, whether or not
+  an anthology topic could hold it, and no anthology check comes before
+  filing. Instructions for ML practice still belong to the anthology. An
+  `ANTH-` code is cited when known and is no longer required. Whether a work
+  is also held there is the anthology's question. The
+  `anthology-candidate` flag is still applied. [ADR-001](record/decisions.d/ADR-001.md), [ADR-005](record/decisions.d/ADR-005.md) and
+  [ADR-013](record/decisions.d/ADR-013.md) take history notes, and CLAUDE.md, the topics blurb and the
+  README are rewritten to match.
+
+[CLAIM-265](record/claims.d/CLAIM-265.md) is restated relative to a specified class of admissible correspondences, and its proviso is limited to a correspondence admitted only because it removes the disagreement (promotion audit, batch 040). The singular "only once the correspondence is fixed" was too strong: a disagreement can survive every member of a class with no one member fixed. A derivation in a dated note moves its warrant to demonstrated. Its status is unchanged.
+
+### Added
+
+- From the exchange of 2026-10-19 on coarse-to-fine processes and the physics of model reduction: [CLAIM-388](record/claims.d/CLAIM-388.md) (demonstrated, Active), that exact dynamical closure of a collective variable does not need a nearly decomposable block, with its construction [CASE-120](record/cases.d/CASE-120.md); six questions: three orders of coarse-to-fine ([QUESTION-217](record/questions.d/QUESTION-217.md)), nested optimal abstractions ([QUESTION-220](record/questions.d/QUESTION-220.md)), whether near-decomposability bounds dynamical dependence ([QUESTION-221](record/questions.d/QUESTION-221.md)), closure without a block ([QUESTION-218](record/questions.d/QUESTION-218.md)), memory and Markovian augmentation ([QUESTION-222](record/questions.d/QUESTION-222.md)) and flux-based organization ([QUESTION-219](record/questions.d/QUESTION-219.md)); nineteen works registered unread, among them the first Mori–Zwanzig and turbulence readings; dated notes on [CLAIM-157](record/claims.d/CLAIM-157.md) and [CLAIM-331](record/claims.d/CLAIM-331.md); a workbench entry and a curation entry.
+- The first reading of the program: Shpak, Stadler, Wagner & Hermisson (2004), [LIT-1242](record/literature.d/LIT-1242.md), read in full in [NOTE-979](record/notes.d/NOTE-979.md), with [THEORY-755](record/theory.d/THEORY-755.md) (Active, re-derived): a linear system's block sums close for every state iff the partition is column-equitable, which is aggregation without decomposition. Its companion preprint on Simon–Ando decomposability, [LIT-1241](record/literature.d/LIT-1241.md), is registered unread.
+
+- Further readings of 2026-10-20, each read in full with a NOTE: Shpak, Stadler, Wagner & Altenberg (2004), Eyink & Aluie (2009), Parish & Duraisamy (2017), and Chorin, Hald & Kupferman (2000, 2002); THEORYs [THEORY-754](record/theory.d/THEORY-754.md), [THEORY-760](record/theory.d/THEORY-760.md) and [THEORY-752](record/theory.d/THEORY-752.md) (Active) and [THEORY-747](record/theory.d/THEORY-747.md) (Proposed). Three demonstrated claims from them, re-checked: dependence of a block is second order in its incoming coupling ([CLAIM-390](record/claims.d/CLAIM-390.md)); the Simon–Ando aggregate's closure defect is exactly QA(I − VQ) ([CLAIM-386](record/claims.d/CLAIM-386.md)); in VAR(1) independence implies zero Mori–Zwanzig memory, not conversely ([CLAIM-389](record/claims.d/CLAIM-389.md)). Dated notes on [CLAIM-157](record/claims.d/CLAIM-157.md), [CLAIM-331](record/claims.d/CLAIM-331.md) and [THEORY-257](record/theory.d/THEORY-257.md); a curation entry for the batch.
+- A second batch of readings of 2026-10-20: Equitz & Cover (1991), Raju, Machta & Sethna (2018), Shalizi & Crutchfield (2002), Crutchfield & Shalizi (1999), Rosas et al. (2020) and Coifman & Lafon (2006), each with a NOTE; THEORYs [THEORY-742](record/theory.d/THEORY-742.md), [THEORY-743](record/theory.d/THEORY-743.md), [THEORY-756](record/theory.d/THEORY-756.md), [THEORY-764](record/theory.d/THEORY-764.md), [THEORY-745](record/theory.d/THEORY-745.md) (Active) and [THEORY-751](record/theory.d/THEORY-751.md), [THEORY-744](record/theory.d/THEORY-744.md) (Proposed). [CLAIM-387](record/claims.d/CLAIM-387.md) (demonstrated): optimal deterministic information-bottleneck partitions need not nest. Notes on [CLAIM-152](record/claims.d/CLAIM-152.md) and [QUESTION-115](record/questions.d/QUESTION-115.md); connections on [THEORY-202](record/theory.d/THEORY-202.md), [THEORY-257](record/theory.d/THEORY-257.md) and [THEORY-497](record/theory.d/THEORY-497.md).
+- A third batch of readings of 2026-10-20: Constantin, E & Titi (1994), Wiskott & Sejnowski (2002), Granero-Belinchón, Roux & Garnier (2016), Rahaman et al. (2019) and Coifman & Maggioni (2006), each with a NOTE; THEORYs [THEORY-749](record/theory.d/THEORY-749.md), [THEORY-746](record/theory.d/THEORY-746.md), [THEORY-750](record/theory.d/THEORY-750.md), [THEORY-748](record/theory.d/THEORY-748.md), [THEORY-761](record/theory.d/THEORY-761.md), [THEORY-758](record/theory.d/THEORY-758.md) (Active) and [THEORY-759](record/theory.d/THEORY-759.md) (Proposed). Connections on [THEORY-086](record/theory.d/THEORY-086.md) and [THEORY-754](record/theory.d/THEORY-754.md); [CLAIM-331](record/claims.d/CLAIM-331.md)'s note extended.
+- Follow-ups registered and read on 2026-10-20: No, Ingber & Weissman (2016), Isett (2018, skimmed) and Nadler, Lafon, Coifman & Kevrekidis (2006); [THEORY-762](record/theory.d/THEORY-762.md) (Active: a reversible diffusion's eigenfunctions have no Mori–Zwanzig memory in mean, and are Markov in law only under a gradient condition) and [THEORY-763](record/theory.d/THEORY-763.md) (Proposed: Onsager's negative half, flux surviving in both directions). Notes on [CLAIM-164](record/claims.d/CLAIM-164.md) and [CLAIM-157](record/claims.d/CLAIM-157.md).
+- Charvin, Catenacci Volpi & Polani (2023) registered and read: [THEORY-753](record/theory.d/THEORY-753.md) (refinability as garbling, and its hull test) and [THEORY-757](record/theory.d/THEORY-757.md) (refinable when Y = f(X) or both binary), Active; [CLAIM-392](record/claims.d/CLAIM-392.md) (demonstrated): stochastic information-bottleneck optima need not nest.
+- Buckmaster, De Lellis, Székelyhidi & Vicol (2019) registered and read ([LIT-1300](record/literature.d/LIT-1300.md), [NOTE-1013](record/notes.d/NOTE-1013.md)): [THEORY-776](record/theory.d/THEORY-776.md) (Proposed), Hölder Euler solutions below 1/3 whose energy follows any strictly decreasing profile, so the flux into vanishing scales is one-way for the whole box. Ando & Fisher (1963), [LIT-1294](record/literature.d/LIT-1294.md), and Turner & Sahani (2007), [LIT-1287](record/literature.d/LIT-1287.md), are registered Unavailable.
+- Machta, Chachra, Transtrum & Sethna (2013) and Bousquet & Slotine (2015) registered and read: [THEORY-774](record/theory.d/THEORY-774.md) (Active: a hopping model's Fisher eigenvalues scale as t^{3/2−k}), [THEORY-777](record/theory.d/THEORY-777.md) (Proposed: Ising decimation rates) and [THEORY-771](record/theory.d/THEORY-771.md) (Proposed: a first-order trajectory-error bound for near-decomposable contracting systems).
+- Giri, Kwon & Novack (2023, skimmed) and Schüler & Wiskott (2025) registered and read: [THEORY-772](record/theory.d/THEORY-772.md) (Proposed: Onsager's negative half with a local energy inequality, in an L³-based class), [THEORY-775](record/theory.d/THEORY-775.md) (Active: the linear optimum of variational slow feature analysis) and [CLAIM-394](record/claims.d/CLAIM-394.md) (demonstrated: in a reversible linear Gaussian VAR(1), slow features are exactly dynamically independent).
+- Del Vecchio & Slotine (2013) registered and read: [THEORY-773](record/theory.d/THEORY-773.md) (Active: contraction bounds make the memoryless quasi-steady-state reduction accurate to O(ε) for all time, provided the reduced system contracts, a hypothesis the paper's Theorem 3 omits).
+- Isett (2017, skimmed) and Chorin & Lu (2015) registered and read: [THEORY-821](record/theory.d/THEORY-821.md) (Proposed: Hölder Euler flows below 1/15 with the local energy inequality, dissipating only during a final drain), [THEORY-818](record/theory.d/THEORY-818.md) (Proposed: a NARMAX closure of Lorenz 96) and [CLAIM-398](record/claims.d/CLAIM-398.md) (demonstrated: a scalar linear coarse variable of a Gaussian VAR(1) is exactly ARMA, so its memory has a finite augmentation in its own history).
+- Rosas et al. (2024) registered and read: [THEORY-820](record/theory.d/THEORY-820.md) (Active: informational closure, causal closure and dynamical independence coincide) and [THEORY-822](record/theory.d/THEORY-822.md) (Active: closure of a Markov-chain partition is strong lumpability).
+- Lin & Lu (2019) registered and read: [THEORY-819](record/theory.d/THEORY-819.md) (Active: the discrete Mori–Zwanzig identity and its Wiener-projection form) and [CLAIM-397](record/claims.d/CLAIM-397.md) (demonstrated: a scalar process's Mori memory is fixed by its autocovariance, with Hankel rank one less).
+
+### Changed
+
+- [THEORY-661](record/theory.d/THEORY-661.md) no longer says Simon–Ando gives its separation "to order ε": the open statement of the theorem gives no rate.
+- Open copies recorded for six registered works; Germano (1992), Smith & Woodruff (1998) and Eyink (2005) are Unavailable. The ACHA papers' publication dates are corrected to the publisher's online dates.
+
+- [LIT-1127](record/literature.d/LIT-1127.md) (Simon & Ando 1961) is Unavailable: no lawful full text was reached.
+- [THEORY-749](record/theory.d/THEORY-749.md), [THEORY-763](record/theory.d/THEORY-763.md), [NOTE-974](record/notes.d/NOTE-974.md) and [QUESTION-219](record/questions.d/QUESTION-219.md) cite the admissible Onsager theorem in place of saying it is not held; [THEORY-749](record/theory.d/THEORY-749.md) no longer calls Isett's solutions dissipative.
+- [THEORY-742](record/theory.d/THEORY-742.md) and [NOTE-972](record/notes.d/NOTE-972.md) credit the λ = d/2 dividing line to Machta et al.; [THEORY-661](record/theory.d/THEORY-661.md), [QUESTION-221](record/questions.d/QUESTION-221.md), [CLAIM-386](record/claims.d/CLAIM-386.md) and [QUESTION-217](record/questions.d/QUESTION-217.md) cite the new readings.
+- [QUESTION-219](record/questions.d/QUESTION-219.md), [THEORY-776](record/theory.d/THEORY-776.md) and [NOTE-1013](record/notes.d/NOTE-1013.md) cite the local Onsager theorem; [QUESTION-217](record/questions.d/QUESTION-217.md), [CLAIM-331](record/claims.d/CLAIM-331.md) and [LIT-1287](record/literature.d/LIT-1287.md) cite the variational reading of slow feature analysis.
+- [THEORY-661](record/theory.d/THEORY-661.md), [QUESTION-222](record/questions.d/QUESTION-222.md) and [THEORY-771](record/theory.d/THEORY-771.md) cite Del Vecchio & Slotine.
+- [THEORY-771](record/theory.d/THEORY-771.md) (Bousquet & Slotine) is promoted to Active at the owner's direction, on re-derivations recorded in record/promotion-audit/decisions/[THEORY-771](record/theory.d/THEORY-771.md).yaml; the entries that cited it as Proposed are updated.
+- [QUESTION-219](record/questions.d/QUESTION-219.md), [THEORY-776](record/theory.d/THEORY-776.md) and [THEORY-772](record/theory.d/THEORY-772.md) cite Isett's globally dissipative flows; [QUESTION-222](record/questions.d/QUESTION-222.md) cites Chorin & Lu and the ARMA claim.
+- [QUESTION-218](record/questions.d/QUESTION-218.md), [QUESTION-221](record/questions.d/QUESTION-221.md), [CLAIM-388](record/claims.d/CLAIM-388.md), [THEORY-755](record/theory.d/THEORY-755.md), [CLAIM-394](record/claims.d/CLAIM-394.md) and [NOTE-124](record/notes.d/NOTE-124.md) cite the reading of Rosas et al.
+- [QUESTION-222](record/questions.d/QUESTION-222.md), [CLAIM-389](record/claims.d/CLAIM-389.md), [CLAIM-398](record/claims.d/CLAIM-398.md) and [NOTE-1028](record/notes.d/NOTE-1028.md) cite the reading of Lin & Lu.
+
+### Fixed
+
+- [NOTE-988](record/notes.d/NOTE-988.md) credited the log-loss refinability result to No, Ingber & Weissman (2016); it is No & Weissman (2015), and it concerns direct log-loss, which does not bear on the information bottleneck.
+
+- [THEORY-661](record/theory.d/THEORY-661.md) said the record does not hold Simon & Ando (1961); it is [LIT-1127](record/literature.d/LIT-1127.md).
+
+### Added
+
+- At the owner's request, the record's position on the corporation as a psychopathic entity:
+  - a question: is "psychopathic" a category error for a corporation, or can the construct, its affective features included, be assigned to it functionally ([QUESTION-265](record/questions.d/QUESTION-265.md));
+  - a claim: a corporation can be an agent fit to be held responsible and the bearer of functional affect, so psychopathy's affective features can be assigned to it; it lacks remorse, functionally, when harm to others reaches its decisions only as a threat from regulators or markets and never as its own concern ([CLAIM-432](record/claims.d/CLAIM-432.md));
+  - its objection: a corporation's functional remorse cannot be told from prudence, since every concern it has was installed for its own ends ([CLAIM-431](record/claims.d/CLAIM-431.md));
+  - Wells Fargo's sales practices, from the board's own investigation, as a documented case ([CASE-151](record/cases.d/CASE-151.md));
+  - psychopathy as one dimensional construct with no essential component, from Hare and Neumann ([THEORY-892](record/theory.d/THEORY-892.md)).
+- Eight works: two read in full (the Wells Fargo report; Hare and Neumann 2008), six Unavailable (Bakan, Velasquez 1983 and 2003, Hare 1996, Boddy, Collins). A curation entry.
+
+### Changed
+
+- At the owner's word, [CLAIM-039](record/claims.d/CLAIM-039.md) (affective states as properties of organized systems, after Frijda) is Proposed again, from Deferred, and is the corporate-psychopathy claim's premise.
+
+### Changed
+
+- [CLAIM-052](record/claims.d/CLAIM-052.md)'s warrant corrected from interpretive to empirical, still
+  Proposed. That interpretive framing operations generally do not commute
+  is a generalization only an observation could settle, and its defeat
+  condition is one. This carries out the promotion audit's batch-022
+  decision ([ADR-047](record/decisions.d/ADR-047.md)).
+
+### Changed
+
+- [CLAIM-081](record/claims.d/CLAIM-081.md)'s warrant corrected from demonstrated to interpretive, still
+  Proposed. It is the last [ADR-040](record/decisions.d/ADR-040.md) parent that was still marked
+  demonstrated. Its general content is [CLAIM-270](record/claims.d/CLAIM-270.md)'s, and what it keeps is a
+  reading of serial reconstruction through [CLAIM-056](record/claims.d/CLAIM-056.md) ([ADR-043](record/decisions.d/ADR-043.md)). This
+  carries out the promotion audit's batch-029 decision ([ADR-047](record/decisions.d/ADR-047.md)).
+
+Corrections from the promotion audit's batch 021 ([ADR-047](record/decisions.d/ADR-047.md)), statuses unchanged. [CLAIM-192](record/claims.d/CLAIM-192.md) and [CLAIM-271](record/claims.d/CLAIM-271.md) re-ground from [THEORY-127](record/theory.d/THEORY-127.md) to [THEORY-725](record/theory.d/THEORY-725.md), which holds the court-agenda possibility each uses. [CLAIM-030](record/claims.d/CLAIM-030.md) adds [THEORY-725](record/theory.d/THEORY-725.md) as its formal anchor and says List and Pettit's aggregation can fail, not that it always does. [CLAIM-126](record/claims.d/CLAIM-126.md)'s warrant becomes interpretive: its formal content is [CLAIM-268](record/claims.d/CLAIM-268.md)'s.
+
+### Added
+
+- From the exchange of 2026-10-20/21 on effective description, governance and legibility (U1–U27): three demonstrated claims, Active: closure under ordinary dynamics does not give governance-response sufficiency ([CLAIM-407](record/claims.d/CLAIM-407.md)), with its construction, the hidden governance bit ([CASE-125](record/cases.d/CASE-125.md)); the deficiency Γ is refinement-monotone while informational closure is monotone in neither direction ([CLAIM-409](record/claims.d/CLAIM-409.md)); and an identity-neutral constraint can, by weakening, make an unequal allocation of authority stable without deciding which party gains ([CLAIM-408](record/claims.d/CLAIM-408.md)). Seven Proposed claims: the conditions on an effective description are not of one kind ([CLAIM-401](record/claims.d/CLAIM-401.md)), individuation relative to a fixed criterion and not arbitrary ([CLAIM-405](record/claims.d/CLAIM-405.md)), deregulation as a change of governance profile ([CLAIM-410](record/claims.d/CLAIM-410.md)), control through the conditions of decision ([CLAIM-404](record/claims.d/CLAIM-404.md)), structural testimonial injustice as the trust loop ([CLAIM-406](record/claims.d/CLAIM-406.md)), inclusion is not participation ([CLAIM-403](record/claims.d/CLAIM-403.md)) and self-confirming categories ([CLAIM-402](record/claims.d/CLAIM-402.md)); a stipulated case, the regulator and two accounts ([CASE-123](record/cases.d/CASE-123.md)); two questions, the owner's leave-one-out ([QUESTION-252](record/questions.d/QUESTION-252.md)) and legibility's place in the meaning–authority loop ([QUESTION-253](record/questions.d/QUESTION-253.md)); ten Proposed TERMs: closure and which sense ([TERM-068](record/terms.d/TERM-068.md)), organizational closure ([TERM-070](record/terms.d/TERM-070.md)), causal state ([TERM-062](record/terms.d/TERM-062.md)), observational equivalence under a probe family ([TERM-069](record/terms.d/TERM-069.md)), the effective-description regime ([TERM-065](record/terms.d/TERM-065.md)), persistence and which sense ([TERM-071](record/terms.d/TERM-071.md)), agent as regulating its own coupling ([TERM-063](record/terms.d/TERM-063.md)), the governance-response profile ([TERM-067](record/terms.d/TERM-067.md)), capture ([TERM-066](record/terms.d/TERM-066.md)) and legibility ([TERM-064](record/terms.d/TERM-064.md)); thirty-three works registered unread, with a curation entry; three workbench entries.
+- The works read on 2026-10-21, at the owner's request ("get started reading the proposed works. also this one"): Xu et al.'s theory of usable information registered ([LIT-1309](record/literature.d/LIT-1309.md)), the thirty-fourth work; twenty-three read Active (one, Hyzen et al., skimmed; Arthur through its 1983 working paper; Collins in an authorized translation) and eleven Unavailable under [ADR-041](record/decisions.d/ADR-041.md); twenty-three NOTEs ([NOTE-1048](record/notes.d/NOTE-1048.md), [NOTE-1044](record/notes.d/NOTE-1044.md), [NOTE-1033](record/notes.d/NOTE-1033.md), [NOTE-1034](record/notes.d/NOTE-1034.md), [NOTE-1037](record/notes.d/NOTE-1037.md), [NOTE-1032](record/notes.d/NOTE-1032.md), [NOTE-1045](record/notes.d/NOTE-1045.md), [NOTE-1038](record/notes.d/NOTE-1038.md), [NOTE-1036](record/notes.d/NOTE-1036.md), [NOTE-1052](record/notes.d/NOTE-1052.md), [NOTE-1043](record/notes.d/NOTE-1043.md), [NOTE-1053](record/notes.d/NOTE-1053.md), [NOTE-1046](record/notes.d/NOTE-1046.md), [NOTE-1031](record/notes.d/NOTE-1031.md), [NOTE-1040](record/notes.d/NOTE-1040.md), [NOTE-1039](record/notes.d/NOTE-1039.md), [NOTE-1047](record/notes.d/NOTE-1047.md), [NOTE-1050](record/notes.d/NOTE-1050.md), [NOTE-1041](record/notes.d/NOTE-1041.md), [NOTE-1035](record/notes.d/NOTE-1035.md), [NOTE-1049](record/notes.d/NOTE-1049.md), [NOTE-1051](record/notes.d/NOTE-1051.md), [NOTE-1042](record/notes.d/NOTE-1042.md)); thirty-two THEORYs, twenty-two Active ([THEORY-846](record/theory.d/THEORY-846.md), [THEORY-840](record/theory.d/THEORY-840.md), [THEORY-861](record/theory.d/THEORY-861.md), [THEORY-839](record/theory.d/THEORY-839.md), [THEORY-835](record/theory.d/THEORY-835.md), [THEORY-844](record/theory.d/THEORY-844.md), [THEORY-847](record/theory.d/THEORY-847.md), [THEORY-848](record/theory.d/THEORY-848.md), [THEORY-849](record/theory.d/THEORY-849.md), [THEORY-843](record/theory.d/THEORY-843.md), [THEORY-855](record/theory.d/THEORY-855.md), [THEORY-845](record/theory.d/THEORY-845.md), [THEORY-863](record/theory.d/THEORY-863.md), [THEORY-856](record/theory.d/THEORY-856.md), [THEORY-842](record/theory.d/THEORY-842.md), [THEORY-837](record/theory.d/THEORY-837.md), [THEORY-851](record/theory.d/THEORY-851.md), [THEORY-850](record/theory.d/THEORY-850.md), [THEORY-860](record/theory.d/THEORY-860.md), [THEORY-836](record/theory.d/THEORY-836.md), [THEORY-862](record/theory.d/THEORY-862.md), [THEORY-833](record/theory.d/THEORY-833.md)) and ten Proposed ([THEORY-853](record/theory.d/THEORY-853.md), [THEORY-841](record/theory.d/THEORY-841.md), [THEORY-858](record/theory.d/THEORY-858.md), [THEORY-838](record/theory.d/THEORY-838.md), [THEORY-852](record/theory.d/THEORY-852.md), [THEORY-854](record/theory.d/THEORY-854.md), [THEORY-857](record/theory.d/THEORY-857.md), [THEORY-864](record/theory.d/THEORY-864.md), [THEORY-859](record/theory.d/THEORY-859.md), [THEORY-834](record/theory.d/THEORY-834.md)); and one demonstrated claim, Active, that causal abstraction as those papers define it does not secure governance-response sufficiency ([CLAIM-399](record/claims.d/CLAIM-399.md)). The curation entry records the outcomes and the corrections the readings made.
+
+- From the owner's review of 2026-10-21: [CLAIM-400](record/claims.d/CLAIM-400.md) (demonstrated, Active), that a maintained legibility state in the linearized meaning–authority model destabilizes symmetry exactly when stronger two-variable couplings would, while adding a slow mode no two-variable model has, with its construction [CASE-124](record/cases.d/CASE-124.md); [QUESTION-253](record/questions.d/QUESTION-253.md) is Answered by it.
+
+### Changed
+
+- Dated notes of 2026-10-21, from the same exchange, on fifty-four entries it re-derived, misread or bore on, each claim, question, term, case or reading unchanged: [CLAIM-025](record/claims.d/CLAIM-025.md), [CLAIM-027](record/claims.d/CLAIM-027.md), [CLAIM-044](record/claims.d/CLAIM-044.md), [CLAIM-086](record/claims.d/CLAIM-086.md), [CLAIM-122](record/claims.d/CLAIM-122.md), [CLAIM-152](record/claims.d/CLAIM-152.md), [CLAIM-170](record/claims.d/CLAIM-170.md), [CLAIM-174](record/claims.d/CLAIM-174.md), [CLAIM-194](record/claims.d/CLAIM-194.md), [CLAIM-199](record/claims.d/CLAIM-199.md), [CLAIM-219](record/claims.d/CLAIM-219.md), [CLAIM-277](record/claims.d/CLAIM-277.md), [CLAIM-294](record/claims.d/CLAIM-294.md), [CLAIM-329](record/claims.d/CLAIM-329.md), [CLAIM-331](record/claims.d/CLAIM-331.md), [CLAIM-335](record/claims.d/CLAIM-335.md), [CLAIM-336](record/claims.d/CLAIM-336.md), [CLAIM-338](record/claims.d/CLAIM-338.md), [CLAIM-341](record/claims.d/CLAIM-341.md), [CLAIM-342](record/claims.d/CLAIM-342.md), [CLAIM-348](record/claims.d/CLAIM-348.md), [CLAIM-349](record/claims.d/CLAIM-349.md), [CLAIM-350](record/claims.d/CLAIM-350.md), [CLAIM-352](record/claims.d/CLAIM-352.md), [CLAIM-354](record/claims.d/CLAIM-354.md), [CLAIM-363](record/claims.d/CLAIM-363.md), [CLAIM-367](record/claims.d/CLAIM-367.md), [CLAIM-389](record/claims.d/CLAIM-389.md), [CLAIM-392](record/claims.d/CLAIM-392.md) and [CLAIM-397](record/claims.d/CLAIM-397.md); [QUESTION-007](record/questions.d/QUESTION-007.md), [QUESTION-011](record/questions.d/QUESTION-011.md), [QUESTION-028](record/questions.d/QUESTION-028.md), [QUESTION-029](record/questions.d/QUESTION-029.md), [QUESTION-041](record/questions.d/QUESTION-041.md), [QUESTION-071](record/questions.d/QUESTION-071.md), [QUESTION-072](record/questions.d/QUESTION-072.md), [QUESTION-086](record/questions.d/QUESTION-086.md), [QUESTION-093](record/questions.d/QUESTION-093.md), [QUESTION-115](record/questions.d/QUESTION-115.md), [QUESTION-117](record/questions.d/QUESTION-117.md), [QUESTION-132](record/questions.d/QUESTION-132.md), [QUESTION-217](record/questions.d/QUESTION-217.md), [QUESTION-218](record/questions.d/QUESTION-218.md) and [QUESTION-221](record/questions.d/QUESTION-221.md); [TERM-009](record/terms.d/TERM-009.md), [TERM-044](record/terms.d/TERM-044.md) and [TERM-060](record/terms.d/TERM-060.md); [CASE-112](record/cases.d/CASE-112.md) (its hysteresis placed in the tilt, not the constraint); [THEORY-424](record/theory.d/THEORY-424.md), [THEORY-470](record/theory.d/THEORY-470.md) and [THEORY-820](record/theory.d/THEORY-820.md); [LIT-751](record/literature.d/LIT-751.md) and [LIT-1021](record/literature.d/LIT-1021.md).
+- From the readings of 2026-10-21: this PR's entries cite the works now read and drop their "not held" and "unread" statements ([TERM-064](record/terms.d/TERM-064.md), [TERM-066](record/terms.d/TERM-066.md), [TERM-065](record/terms.d/TERM-065.md), [CLAIM-407](record/claims.d/CLAIM-407.md), [CLAIM-409](record/claims.d/CLAIM-409.md), [CLAIM-404](record/claims.d/CLAIM-404.md), [CLAIM-406](record/claims.d/CLAIM-406.md), [CLAIM-403](record/claims.d/CLAIM-403.md), [CLAIM-402](record/claims.d/CLAIM-402.md), [CLAIM-408](record/claims.d/CLAIM-408.md), [CLAIM-410](record/claims.d/CLAIM-410.md), [CASE-125](record/cases.d/CASE-125.md), [CASE-123](record/cases.d/CASE-123.md), [QUESTION-253](record/questions.d/QUESTION-253.md)), with new THEORYs in `grounds` where they bear; new dated notes on [CLAIM-225](record/claims.d/CLAIM-225.md), [QUESTION-110](record/questions.d/QUESTION-110.md), [TERM-043](record/terms.d/TERM-043.md), [THEORY-143](record/theory.d/THEORY-143.md), [THEORY-404](record/theory.d/THEORY-404.md) and [THEORY-755](record/theory.d/THEORY-755.md); and the notes of the same day on [CLAIM-025](record/claims.d/CLAIM-025.md), [CLAIM-199](record/claims.d/CLAIM-199.md) (which gains [THEORY-846](record/theory.d/THEORY-846.md) in `grounds`), [CLAIM-342](record/claims.d/CLAIM-342.md), [CLAIM-348](record/claims.d/CLAIM-348.md), [CLAIM-350](record/claims.d/CLAIM-350.md), [QUESTION-028](record/questions.d/QUESTION-028.md), [QUESTION-072](record/questions.d/QUESTION-072.md), [QUESTION-117](record/questions.d/QUESTION-117.md), [CASE-112](record/cases.d/CASE-112.md), [LIT-751](record/literature.d/LIT-751.md) and [LIT-1021](record/literature.d/LIT-1021.md) extended. Each claim, question, term, case or reading is unchanged.
+
+- From the same review: [CLAIM-408](record/claims.d/CLAIM-408.md)'s title says an unequal allocation, not domination, since the stable asymmetry is arbitrarily small near the threshold; [TERM-066](record/terms.d/TERM-066.md) is renamed "interpretive capture", leaving "capture" an umbrella word.
+
+- From the owner's second review of 2026-10-21: [ADR-046](record/decisions.d/ADR-046.md) is accepted, and eight TERMs are adopted (Active): legibility ([TERM-064](record/terms.d/TERM-064.md)), the governance-response profile ([TERM-067](record/terms.d/TERM-067.md)), closure and which sense ([TERM-068](record/terms.d/TERM-068.md)), organizational closure ([TERM-070](record/terms.d/TERM-070.md)), observational equivalence under a probe family ([TERM-069](record/terms.d/TERM-069.md)), persistence and which sense ([TERM-071](record/terms.d/TERM-071.md)), the effective-description regime, revised to keep the description out of the regime ([TERM-065](record/terms.d/TERM-065.md)), and causal state, revised to separate the states from the machine ([TERM-062](record/terms.d/TERM-062.md)). Interpretive capture ([TERM-066](record/terms.d/TERM-066.md)) and the rival agent ([TERM-063](record/terms.d/TERM-063.md)) stay Proposed; the capture term now calls the instability a possible mechanism, not the definition.
+
+### Fixed
+
+- The μ arrow of [CASE-124](record/cases.d/CASE-124.md) and [CLAIM-400](record/claims.d/CLAIM-400.md) was described as the question's κ′ reading; it is a direct effect of the regime on scoring, and a regime that only varies κ′ enters at second order.
+
+- [QUESTION-222](record/questions.d/QUESTION-222.md)'s inactive-ok annotation listed [LIT-1245](record/literature.d/LIT-1245.md), [LIT-1253](record/literature.d/LIT-1253.md) and [LIT-1259](record/literature.d/LIT-1259.md) as Deferred; all three are Active, and it now names only [LIT-1251](record/literature.d/LIT-1251.md), Unavailable.
+- [TERM-067](record/terms.d/TERM-067.md) said the governance-response profile narrows [TERM-043](record/terms.d/TERM-043.md)'s causal component, as that component with the identity correspondence. The readings showed that component is zero for the hidden governance bit, where sufficiency fails; the `refines` link, and its converse on [TERM-043](record/terms.d/TERM-043.md), are removed, and the relation is [CLAIM-399](record/claims.d/CLAIM-399.md).
+- Inactive-ok annotations written earlier in this PR named works as Deferred that the readings made Active or Unavailable ([CLAIM-025](record/claims.d/CLAIM-025.md), [CLAIM-342](record/claims.d/CLAIM-342.md), [CLAIM-348](record/claims.d/CLAIM-348.md), [QUESTION-117](record/questions.d/QUESTION-117.md), [LIT-751](record/literature.d/LIT-751.md), [LIT-1021](record/literature.d/LIT-1021.md)); they now give the current status, or are removed where the work is Active.
+
+### Added
+
+- From the exchange of 2026-10-21 on experience and interpretation: the owner's thesis that experience is constituted by interpretive organization, not produced by it ([CLAIM-412](record/claims.d/CLAIM-412.md), Proposed), with its objection that, under the broad nonphenomenal definition, much processing not shown to be experiential counts as interpretation, so the thesis lacks a sufficiency condition ([CLAIM-411](record/claims.d/CLAIM-411.md), counter); the owner's grounding premise restated as a relation that comes apart from whether an experience occurs ([CLAIM-413](record/claims.d/CLAIM-413.md), resting on [CLAIM-342](record/claims.d/CLAIM-342.md)); two questions: what makes an interpretive organization an experiential perspective ([QUESTION-254](record/questions.d/QUESTION-254.md), narrowing [QUESTION-046](record/questions.d/QUESTION-046.md)) and whether a model that genuinely fails to glue can take part in one unified experience ([QUESTION-255](record/questions.d/QUESTION-255.md), set against [CLAIM-153](record/claims.d/CLAIM-153.md)); twenty-two works registered unread; a note on [CASE-114](record/cases.d/CASE-114.md); a workbench entry and a curation entry.
+- From U8–U11 of the same exchange (2026-10-22): two Proposed terms, interpretation ([TERM-073](record/terms.d/TERM-073.md)) and perspective in three senses, organizational, represented and phenomenal ([TERM-072](record/terms.d/TERM-072.md)); a demonstrated claim that matched ordinary trajectories can conceal differences in an interpretation's efficacy, its endogenous allocation and the maintenance of its constraints, which a specified intervention exposes ([CLAIM-414](record/claims.d/CLAIM-414.md), Active), with its construction [CASE-126](record/cases.d/CASE-126.md); dated notes on [QUESTION-254](record/questions.d/QUESTION-254.md), [QUESTION-255](record/questions.d/QUESTION-255.md), [CLAIM-411](record/claims.d/CLAIM-411.md) and [CLAIM-412](record/claims.d/CLAIM-412.md); a second workbench entry.
+- The twenty-two registered works sought on 2026-10-22: eighteen read in full from lawful copies, each with a NOTE, and nineteen Proposed THEORYs filed from them; He et al., Isaac, Villalobos & Cea and Putnam are Unavailable. Dated notes on the exchange's claims, questions and terms, and on [CLAIM-355](record/claims.d/CLAIM-355.md), record how the readings bear; a curation entry lists the corrections they made to the exchange.
+
+### Changed
+
+- After a review the owner relayed on 2026-10-22: the counter-claim no longer says "any definition" or "most interpretation"; the unity question separates conflicts that glue from genuine non-gluing; the perspective question's grounding condition is narrowed to current veridical grounding and it gains the perspectival-target problem; the perspective term keeps a represented perspective apart from a represented owner; the demonstrated claim is narrowed to its two constructions; and the constitutive thesis no longer lists rival or confounded readings as its grounds.
+
+### Added
+
+- [LIT-1298](record/literature.d/LIT-1298.md) and [NOTE-1023](record/notes.d/NOTE-1023.md): Lessig's *Remix: Making Art and Commerce
+  Thrive in the Hybrid Economy* (2008), read in full from the CC BY-NC
+  Bloomsbury Academic edition. It is the record's first work on remix
+  culture.
+
+### Changed
+
+- [LIT-1121](record/literature.d/LIT-1121.md) (*Convergence Culture*) and [LIT-1143](record/literature.d/LIT-1143.md) (*Spreadable Media*):
+  Deferred → Unavailable under [ADR-041](record/decisions.d/ADR-041.md), after a search for a lawful full
+  text reached none.
+
+### Added
+
+- Seven works in conversation with Lessig's *Remix* on property and
+  expression, each read in full with a NOTE:
+  - *Andy Warhol Foundation v. Goldsmith* (2023), [LIT-1302](record/literature.d/LIT-1302.md);
+  - the Copyright Office's *Generative AI Training* report (2025),
+    [LIT-1293](record/literature.d/LIT-1293.md), flagged `anthology-candidate`;
+  - Boyle's *The Public Domain* (2008), [LIT-1301](record/literature.d/LIT-1301.md);
+  - Boyle's *The Line* (2024), [LIT-1288](record/literature.d/LIT-1288.md);
+  - Perzanowski & Schultz's *The End of Ownership* (2016), [LIT-1297](record/literature.d/LIT-1297.md);
+  - Tushnet's "Worth a Thousand Words" (2012), [LIT-1303](record/literature.d/LIT-1303.md);
+  - Balganesh's review of Drassinower (2017), [LIT-1291](record/literature.d/LIT-1291.md).
+- Three more registered as Unavailable after a search reached no lawful
+  copy: Drassinower ([LIT-1285](record/literature.d/LIT-1285.md)), Netanel ([LIT-1286](record/literature.d/LIT-1286.md)), McLeod &
+  DiCola ([LIT-1290](record/literature.d/LIT-1290.md)).
+
+### Added
+
+- [CASE-121](record/cases.d/CASE-121.md): one melody from a 1951 gospel record to a 2005 Katrina
+  protest song, each link a different relation (illustrates [CLAIM-002](record/claims.d/CLAIM-002.md)
+  and [CLAIM-210](record/claims.d/CLAIM-210.md)).
+- [CASE-122](record/cases.d/CASE-122.md): *Warhol v. Goldsmith*, one rendering judged by purpose
+  and by meaning (illustrates [CLAIM-034](record/claims.d/CLAIM-034.md) and [CLAIM-210](record/claims.d/CLAIM-210.md)).
+- [CLAIM-393](record/claims.d/CLAIM-393.md): a counter to [CLAIM-174](record/claims.d/CLAIM-174.md). Attributions of agency to
+  artifacts track whether the mechanism is understood, so they cannot
+  defeat its test.
+
+### Added
+
+- From the exchange of 2026-10-22, "Ben Franklin Effect Explained":
+  - the favour as a perspectival invitation, an interaction that makes available a way of relating its participants' perspectives did not hold ([CLAIM-430](record/claims.d/CLAIM-430.md));
+  - an intervention on a coupled interpretation–cooperation loop changes its state or its coupling, and only the second changes how later evidence is taken ([CLAIM-429](record/claims.d/CLAIM-429.md));
+  - material interdependence does not fix the perspective that organizes it ([CLAIM-428](record/claims.d/CLAIM-428.md));
+  - cases: Franklin's borrowed book ([CASE-143](record/cases.d/CASE-143.md)), two friendships across a group line ([CASE-146](record/cases.d/CASE-146.md)), Kalla and Broockman's conversations against arguments ([CASE-147](record/cases.d/CASE-147.md)), Kleinman, Liu and Redding's economic and political alignment ([CASE-150](record/cases.d/CASE-150.md));
+  - a question refining [QUESTION-259](record/questions.d/QUESTION-259.md), on state against coupling and taking part against being told ([QUESTION-262](record/questions.d/QUESTION-262.md)).
+- From the exchange of 2026-10-23, "Framework Overview Request":
+  - three grades of evidence for the organizational-perspective framework, of which only out-predicting the strongest alternatives under intervention bears on its defeater ([CLAIM-427](record/claims.d/CLAIM-427.md));
+  - when the organizations of significance, authority and reproduction coincide or diverge, proposed as the manuscript's research problem ([QUESTION-264](record/questions.d/QUESTION-264.md));
+  - three proposed studies: the evaluator that stops tracking ([CASE-144](record/cases.d/CASE-144.md)), perspective transplantation ([CASE-148](record/cases.d/CASE-148.md)), perspective without collective agency ([CASE-145](record/cases.d/CASE-145.md));
+  - Bigand et al.'s dance synchrony, read, as [CASE-149](record/cases.d/CASE-149.md) and a Proposed THEORY answering [QUESTION-063](record/questions.d/QUESTION-063.md) in part ([THEORY-891](record/theory.d/THEORY-891.md));
+  - [QUESTION-063](record/questions.d/QUESTION-063.md) split under [ADR-049](record/decisions.d/ADR-049.md): its negative part, answered by [THEORY-275](record/theory.d/THEORY-275.md), is the Answered child [QUESTION-263](record/questions.d/QUESTION-263.md).
+- Twenty-six works registered: one read, three Unavailable, twenty-two unread. Two workbench entries and a curation entry.
+
+### Changed
+
+- Dated notes on the proposed studies [CASE-045](record/cases.d/CASE-045.md), [CASE-078](record/cases.d/CASE-078.md), [CASE-092](record/cases.d/CASE-092.md), [CASE-101](record/cases.d/CASE-101.md), [CASE-108](record/cases.d/CASE-108.md), [CASE-114](record/cases.d/CASE-114.md) and [CASE-117](record/cases.d/CASE-117.md), and on [QUESTION-063](record/questions.d/QUESTION-063.md), [QUESTION-089](record/questions.d/QUESTION-089.md) and [QUESTION-118](record/questions.d/QUESTION-118.md), saying what published results already settle and what is left.
+- [QUESTION-063](record/questions.d/QUESTION-063.md) reworded to its open remainder, and [THEORY-275](record/theory.d/THEORY-275.md)'s `answers` moved to the child.
+- At the owner's direction, a CASE can name where the record got it: `reported_in` links it to LITs, NOTEs and THEORYs, with the converse `reports` ([ADR-051](record/decisions.d/ADR-051.md)). Used on the four documented cases this filing adds; existing cases are not backfilled.
+- Two claims' references to other claims moved from `uses`, which names TERMs only, to `rests_on` and `complements`.
+
+### Added
+
+- From the exchange of 2026-10-23/24: the owner's reading of wanting as prediction under do(), with model-based and cue-triggered levels kept apart and wanting kept apart from will ([CLAIM-447](record/claims.d/CLAIM-447.md)); a learned prior over which processes govern, as a mechanism for durable authority and for amortization, where persistence alone is not amortization ([CLAIM-443](record/claims.d/CLAIM-443.md)); cycles in an organization's wins read as nonintegrability, separated from tension and from cognitive dissonance ([CLAIM-451](record/claims.d/CLAIM-451.md)); governance-maintained anxiety as a candidate answer to [QUESTION-045](record/questions.d/QUESTION-045.md) ([CLAIM-446](record/claims.d/CLAIM-446.md)), and its form across institutions and states ([CLAIM-445](record/claims.d/CLAIM-445.md)); two objections to [CLAIM-440](record/claims.d/CLAIM-440.md), on contested rankings against frustrated demands ([CLAIM-449](record/claims.d/CLAIM-449.md)) and on coherence produced by selective contestation ([CLAIM-448](record/claims.d/CLAIM-448.md)); three standards for a communicative distinction, connecting Amari and Watanabe to the pragmatic-transport line ([CLAIM-450](record/claims.d/CLAIM-450.md)). Four cases: a proposed sentry study ([CASE-153](record/cases.d/CASE-153.md)), a legibility filter giving [CASE-124](record/cases.d/CASE-124.md)'s ν ([CASE-156](record/cases.d/CASE-156.md)), a bounded-observer trade-off between tasks ([CASE-154](record/cases.d/CASE-154.md)), and a singular response model ([CASE-152](record/cases.d/CASE-152.md)). Also a question on accurate evaluations denied authority ([QUESTION-270](record/questions.d/QUESTION-270.md)), a Proposed term for belief ([TERM-079](record/terms.d/TERM-079.md)), works registered unread, and dated notes on fourteen entries. A workbench entry and a curation entry.
+
+- At the owner's request, Soma et al., "The hive mind is a single reinforcement learning agent" (arXiv:2410.17517), filed and read in full ([LIT-1484](record/literature.d/LIT-1484.md), [NOTE-1132](record/notes.d/NOTE-1132.md)), with two Proposed THEORYs: the proved equivalence of imitation with bandit learning in expectation ([THEORY-899](record/theory.d/THEORY-899.md)) and its finite-population limits ([THEORY-905](record/theory.d/THEORY-905.md)).
+
+- At the owner's direction, the replicator tools applied to the record's governance dynamics: a construction reading authority as a replicator population, with evidence-tracking authority as Bayes' rule and lock-in under authority-dependent scoring at an explicit threshold ([CASE-155](record/cases.d/CASE-155.md)), and the claim that the replicator model is the special case of the meaning–authority–legibility model in which interpretation is the authority-weighted mixture and legibility keeps no memory ([CLAIM-444](record/claims.d/CLAIM-444.md)).
+
+### Changed
+
+- The third review of PR [#327](https://github.com/dmarx/nucleation/issues/327), left unapplied at merge: [TERM-078](record/terms.d/TERM-078.md) no longer derives resumption from a Lyapunov function, and [TERM-077](record/terms.d/TERM-077.md)'s four senses of currency are stated as an evidential pair and a representational pair, not a chain of implications.
+
+### Added
+
+- At the owner's request, the record's first multi-agent learning and learning-in-games literature: twenty-one works registered and sought, eighteen read and three Unavailable, with twenty-three Proposed THEORYs (curation entry of 2026-10-24); a question on capture-resistant evaluation of an organization's processes ([QUESTION-271](record/questions.d/QUESTION-271.md)); and dated notes on the replicator construction and claim, the cycles claim, the anxiety claim and the correlated-equilibrium reading of institutions.
+- At the owner's direction, the owner's 2014 BoostTheVote model filed as an executed study, re-run through a Python port in scratch/formal/: full-information multiplicative weights as the counterpart of the replicator construction, with the capture its author predicted and a proposed three-axis extension ([CASE-157](record/cases.d/CASE-157.md)).
+- At the owner's direction, the BoostTheVote extension run (scratch/formal/boost_the_vote_extension.py): an endogenous metric and outcome-conditional observation each suffice for lock-in, bandit feedback over voters changes little, and age-targeted renewal rescues all but full endogeneity; recorded in [CASE-157](record/cases.d/CASE-157.md), with a note on [CLAIM-446](record/claims.d/CLAIM-446.md).
+
+The narrowing-loss sweep ([ADR-047](record/decisions.d/ADR-047.md) v4, batch 068) files the wider claims five narrowed THEORYs had dropped as new Proposed THEORYs: E. coli regulatory memory, the data-limited horizon mechanism, optimizer-driven skill order, grokking's critical fraction for addition, and SGD noise toward mirror subspaces.
+
+### Added
+
+- From the exchange of 2026-10-22, "Graph Learning Applications": the owner's thesis that the record's selves are better described as organizational perspectives, narrowed to [TERM-045](record/terms.d/TERM-045.md)'s senses 2, 3, 5 and 6 with the subject sense left apart ([CLAIM-417](record/claims.d/CLAIM-417.md)); reflexive governance of a perspective, re-scoping [CLAIM-284](record/claims.d/CLAIM-284.md) ([CLAIM-424](record/claims.d/CLAIM-424.md)); competition over the tests that measure competitors ([CLAIM-416](record/claims.d/CLAIM-416.md)); story, perspective and descent as separate legacies ([CLAIM-420](record/claims.d/CLAIM-420.md)); the owner's thesis that timescales help decide authority in political collectives ([CLAIM-423](record/claims.d/CLAIM-423.md)); act, procedure and maintained capacity ([CLAIM-422](record/claims.d/CLAIM-422.md)); the imagined audience as a false unity ([CLAIM-415](record/claims.d/CLAIM-415.md)); and the owner's observation that the record amends its grammar when a move does not fit, the first reply to [CLAIM-181](record/claims.d/CLAIM-181.md) ([CLAIM-419](record/claims.d/CLAIM-419.md)). All Proposed.
+- Three questions: what continuity self-governance needs and what can be supplied from outside ([QUESTION-256](record/questions.d/QUESTION-256.md)); how perspectives are generated and when one governs itself, refining [QUESTION-090](record/questions.d/QUESTION-090.md) ([QUESTION-259](record/questions.d/QUESTION-259.md)); and how a manuscript should be chosen from the record ([QUESTION-258](record/questions.d/QUESTION-258.md)).
+- Eleven cases, six documented: Clive Wearing ([CASE-137](record/cases.d/CASE-137.md)), the Brookhollow fire ([CASE-135](record/cases.d/CASE-135.md)), Challenger to Columbia ([CASE-138](record/cases.d/CASE-138.md)), United 173 and Crew Resource Management ([CASE-127](record/cases.d/CASE-127.md)), party realignment ([CASE-133](record/cases.d/CASE-133.md)), Gracie jiu-jitsu against luta livre ([CASE-130](record/cases.d/CASE-130.md)); and the record's own [ADR-044](record/decisions.d/ADR-044.md) as a specimen ([CASE-131](record/cases.d/CASE-131.md)); with four stipulated: Northstar's commander handoff ([CASE-134](record/cases.d/CASE-134.md)), the alarm that learned and the alarm that was disabled ([CASE-129](record/cases.d/CASE-129.md)), the voluntary delegation ([CASE-128](record/cases.d/CASE-128.md)), and one complaint under two taxonomies ([CASE-132](record/cases.d/CASE-132.md)).
+- Twenty-three works registered unread, two workbench entries and a curation entry.
+- From the branch of the same exchange (B37–B39): kinds of interruption of a perspective, of activation, enactment and reproduction ([CLAIM-421](record/claims.d/CLAIM-421.md)); a perspective is not thereby an agent, and perspectival, agential and institutional boundaries need not coincide ([CLAIM-418](record/claims.d/CLAIM-418.md)); two questions, on interruption and reconstruction ([QUESTION-257](record/questions.d/QUESTION-257.md)) and on when a perspective is an agent's own ([QUESTION-260](record/questions.d/QUESTION-260.md), refining [QUESTION-093](record/questions.d/QUESTION-093.md)); two documented cases, the doorway effect ([CASE-136](record/cases.d/CASE-136.md)) and Chinese martial traditions through the Cultural Revolution ([CASE-139](record/cases.d/CASE-139.md)); six works registered unread, a workbench entry and a curation entry.
+- From a proposal the owner relayed on 2026-10-22, "Toward a controlled vocabulary for Nucleation": a Proposed term for organization in four senses, relational arrangement (the default), organizational maintenance, collective institution and organizational closure ([TERM-074](record/terms.d/TERM-074.md)); and a Proposed usage protocol, under which a claim that calls something organized, a perspective, an agent, effective, exhausted, constituted or grounded says which sense, target or criterion it means ([ADR-050](record/decisions.d/ADR-050.md)).
+- A works term for the owner's manuscript from the exchange, "The Organization of Perspective: Character, Practical Authority, and Historical Persistence Across Minds and Institutions" (`organization-of-perspective`), with [CLAIM-417](record/claims.d/CLAIM-417.md), [CLAIM-424](record/claims.d/CLAIM-424.md), [CLAIM-420](record/claims.d/CLAIM-420.md), [CLAIM-423](record/claims.d/CLAIM-423.md), [CLAIM-422](record/claims.d/CLAIM-422.md) and [CLAIM-418](record/claims.d/CLAIM-418.md) marked as in it; and four works terms for the 6,000-word essays it was assembled from, "The Self Without a Sovereign" (`self-without-a-sovereign`), "Who Gets to Say Stop?" (`who-gets-to-say-stop`), "The Character That Changed Parties" (`character-that-changed-parties`) and "Who Makes the Promise When Governments Change?" (`who-makes-the-promise`), each with the claims it argues. [CLAIM-355](record/claims.d/CLAIM-355.md) joins the first essay and the synthesis, and [CLAIM-329](record/claims.d/CLAIM-329.md) the third and the synthesis. Membership is not endorsement: every claim marked stays Proposed.
+
+### Changed
+
+- Dated notes on [TERM-072](record/terms.d/TERM-072.md) (the owner's U31, and a perspective with many carriers, for the owner's adoption decision), [TERM-045](record/terms.d/TERM-045.md), [CLAIM-355](record/claims.d/CLAIM-355.md), [CLAIM-284](record/claims.d/CLAIM-284.md), [CLAIM-329](record/claims.d/CLAIM-329.md), [CLAIM-364](record/claims.d/CLAIM-364.md), [CASE-014](record/cases.d/CASE-014.md) and [CASE-036](record/cases.d/CASE-036.md). None changes what the entry holds.
+- After a review relayed by the owner from the branch: [TERM-045](record/terms.d/TERM-045.md)'s note no longer has Clive Wearing failing persistence; the organizational-perspectives claim and [TERM-072](record/terms.d/TERM-072.md)'s note allow a perspective realized across several carriers, and no longer reduce narrative, presented and modeled selves to representations of a perspective; reflexive governance is attributed to a perspective-bearing organization; the party-realignment case and the note on [CLAIM-329](record/claims.d/CLAIM-329.md) no longer say the parties' perspective did not persist; the Challenger case no longer implies one unchanged cause; the timescales and competition claims gain qualifications; two documented cases say their standing is the event's, not the reading's.
+- A note on [TERM-072](record/terms.d/TERM-072.md) lists what "the same perspective" can mean (realization, kind, lineage, distributed realization, representation) and keeps the relayed restatement of sense 1 as a candidate. The definition is unchanged.
+- After the owner's final review of 2026-10-22: the agency claim no longer asserts that agency is exercised through perspectives in general, only where a perspective contributes; the interruption claim is about the dispositions, capacities and reproductive relationships that outlast a perspective's enactment, and its defeat condition no longer turns on the doorway effect; the organization term no longer calls closure its strongest sense; [ADR-050](record/decisions.d/ADR-050.md) exempts unambiguous ordinary uses.
+
+### Added
+
+- Readings of the 29 works registered unread from the exchange of 2026-10-22, "Graph Learning Applications" ([LIT-1365](record/literature.d/LIT-1365.md) to [LIT-1393](record/literature.d/LIT-1393.md)): 17 read and 4 skimmed, each with a NOTE; 8 Unavailable under [ADR-041](record/decisions.d/ADR-041.md). Seven Proposed THEORYs: event segmentation, the doorway effect as interference between event models, the majority illusion, Swidler's two models of culture, path dependence in politics, the county legacy of slavery, and the Ledger of Will's revision closure. A curation entry lists the outcomes.
+
+### Changed
+
+- Dated notes on 18 entries the readings bear on, among them the exchange's claims and cases, [THEORY-242](record/theory.d/THEORY-242.md) and [QUESTION-112](record/questions.d/QUESTION-112.md). Three case titles are corrected against their sources: the doorway effect ([CASE-136](record/cases.d/CASE-136.md)), United 173 ([CASE-127](record/cases.d/CASE-127.md)) and the Brookhollow mayday ([CASE-135](record/cases.d/CASE-135.md)).
+- Several LIT summaries corrected by their readings: [LIT-1374](record/literature.d/LIT-1374.md), [LIT-1386](record/literature.d/LIT-1386.md), [LIT-1388](record/literature.d/LIT-1388.md), [LIT-1392](record/literature.d/LIT-1392.md) and [LIT-1379](record/literature.d/LIT-1379.md). Each version note gives the reason.
+
+### Changed
+
+- From the owner's v2.7–v2.9 proposals, checked against the stored results of the Perspective Population Lab's v2.7 to v2.9 (dmarx/PerspectiveLab@c54617e: trained affect, the perspective engine and endogenous frames): new dated notes of 2026-10-26 on six entries. [CLAIM-427](record/claims.d/CLAIM-427.md) (v2.7 matches the information given to fitted predictors but not their complexity, its uptake predictor loses in the world built for it, and v2.9's ridge rival is weaker, not stronger), [CLAIM-278](record/claims.d/CLAIM-278.md) (no added constraint, and a hand-written frame that helps or harms as its reading fits the world), [CLAIM-336](record/claims.d/CLAIM-336.md) (frames enter the lab, and in v2.9 the engine reduces to a one-feature selector), [QUESTION-088](record/questions.d/QUESTION-088.md) (habit fitted within one phenomenon, and reframing built), [QUESTION-270](record/questions.d/QUESTION-270.md) (predictors fitted to the same experiences, with registration and authority set by the experimenter rather than measured) and [QUESTION-273](record/questions.d/QUESTION-273.md) (one mechanism built, with grant and exclusion effect measured). Each is titled "(later)" where the entry already had a note of that date. The proposed notes on [CLAIM-437](record/claims.d/CLAIM-437.md), [CLAIM-286](record/claims.d/CLAIM-286.md), [CLAIM-453](record/claims.d/CLAIM-453.md), [CASE-160](record/cases.d/CASE-160.md) and [QUESTION-031](record/questions.d/QUESTION-031.md) were not applied. No title, status or warrant changed. A workbench entry records what was kept, corrected and declined.
+
+The titles of [CLAIM-033](record/claims.d/CLAIM-033.md), [CLAIM-087](record/claims.d/CLAIM-087.md) and [CLAIM-105](record/claims.d/CLAIM-105.md) are restated as claims of prevalence, to match the defeat conditions they were given on 2026-10-10 after [CLAIM-238](record/claims.d/CLAIM-238.md) (promotion audit, batch 034). Each title still said "can", which one instance settles and no rate defeats. Defeat conditions, statuses and warrants are unchanged.
+
+### Added
+
+- From an owner-supplied package of proposed updates ("Priority A"), checked against the stored results of the Perspective Population Lab, now held as dmarx/PerspectiveLab (v1.0 at @41e56df, v1.1–v1.8 at @7e2edc2, v1.9–v2.2 at @9f82bfd): four Proposed cases. Capture and selectively admitted evidence in a four-variable model and a 32-member population, with the router still ahead in [CASE-158](record/cases.d/CASE-158.md)'s design run with equal audit delay and cost ([CASE-162](record/cases.d/CASE-162.md)); a 192-state organization on which informational closure, strong lumpability and intervention deficiency give different verdicts on one kernel, with Γ = 0.55·H₂(1/3) ≈ 0.5051 bits and finite-sample estimates that misread it ([CASE-164](record/cases.d/CASE-164.md)); reciprocally produced, externally reset and feedback-only governing rules separated by loss, repair and producer interventions with ordinary trajectories identical ([CASE-161](record/cases.d/CASE-161.md)); and identification of the maintaining mechanism and its parameters from diagnostic probes within a known catalog ([CASE-163](record/cases.d/CASE-163.md)). A workbench entry records what was kept, corrected and declined.
+
+### Changed
+
+- Dated notes of 2026-10-26 from the same package on fifteen entries: [CLAIM-278](record/claims.d/CLAIM-278.md) (the router result reproduced, and run on equal terms), [CLAIM-297](record/claims.d/CLAIM-297.md) (two running realizations, without retrieval), [CLAIM-336](record/claims.d/CLAIM-336.md) (the lab held, and its later versions), [CLAIM-401](record/claims.d/CLAIM-401.md) (one kernel, several verdicts), [CLAIM-407](record/claims.d/CLAIM-407.md) (a second exact witness), [CLAIM-414](record/claims.d/CLAIM-414.md) (the maintenance separation in a population), [CLAIM-427](record/claims.d/CLAIM-427.md) (where the lab stands on the grades), [QUESTION-031](record/questions.d/QUESTION-031.md) (a nonlinear case, with a known catalog), [QUESTION-086](record/questions.d/QUESTION-086.md) (interventions named, for arrangements the modeller assigns), [QUESTION-088](record/questions.d/QUESTION-088.md) (the lab is not yet the comparison), [QUESTION-100](record/questions.d/QUESTION-100.md) (a nonlinear fold, and capture in a population), [QUESTION-117](record/questions.d/QUESTION-117.md) (phenomena shown, no comparison made), [QUESTION-222](record/questions.d/QUESTION-222.md) (history against state, in finite chains), [QUESTION-252](record/questions.d/QUESTION-252.md) (pairwise separations on one kernel) and [QUESTION-271](record/questions.d/QUESTION-271.md) (two failures run, in weakened form). The package's note on [CLAIM-443](record/claims.d/CLAIM-443.md) was not applied. No title, status or warrant changed.
+
+### Fixed
+
+- [QUESTION-031](record/questions.d/QUESTION-031.md)'s history item for its split was dated 2026-10-21; the split was made on 2026-10-25, as its note says.
+- From the owner's v2.3 amendment, the same day: the notes on [CLAIM-427](record/claims.d/CLAIM-427.md), [CLAIM-278](record/claims.d/CLAIM-278.md) and [QUESTION-117](record/questions.d/QUESTION-117.md) extended with the lab's v2.3 matched comparator (dmarx/PerspectiveLab@e9efcf4). With equal source data and fitted-parameter counts, a same-basis state-space model ties the structural model exactly, and a generic 20-coefficient polynomial transports better on most withheld production laws. The structural basis is still unpriced, and no status changes.
+- From the owner's v2.5 amendment, the same day: the notes on [CLAIM-427](record/claims.d/CLAIM-427.md), [QUESTION-031](record/questions.d/QUESTION-031.md) and [QUESTION-086](record/questions.d/QUESTION-086.md) extended with the lab's v2.4 and v2.5 (dmarx/PerspectiveLab@f392084). Adaptive probes change the organization they diagnose; an adequacy alarm catches one out-of-catalog law and its fallback hurts under another; and a same-kernel conventional controller takes every action the guard takes. No status changes.
+- From the owner's v2.6 amendment, the same day: dated notes on [QUESTION-270](record/questions.d/QUESTION-270.md) and [CLAIM-437](record/claims.d/CLAIM-437.md), and the notes on [CLAIM-427](record/claims.d/CLAIM-427.md) and [QUESTION-088](record/questions.d/QUESTION-088.md) extended, with the lab's v2.6 affective dissociation (dmarx/PerspectiveLab@74621fb). Five stipulated causes of pursuit after devaluation share one pursuit probability and are separated by interventions; a registered evaluation denied authority is told apart from one never registered by intervention, not by passive history; a same-kernel conventional predictor ties; and an unmodelled hybrid is assigned to a catalog class in every test world. No status changes.
+
+[THEORY-026](record/theory.d/THEORY-026.md), [THEORY-177](record/theory.d/THEORY-177.md) and [THEORY-294](record/theory.d/THEORY-294.md) are narrowed and promoted under [ADR-047](record/decisions.d/ADR-047.md) v2 on derivations written out in their dated notes: [THEORY-026](record/theory.d/THEORY-026.md)'s nostalgia bound under its two conditions, with the rest moved to [QUESTION-191](record/questions.d/QUESTION-191.md); [THEORY-177](record/theory.d/THEORY-177.md)'s correspondence between canonical models and couplings, held to the sum of per-content minima; and [THEORY-294](record/theory.d/THEORY-294.md)'s proportional kernels, held to one-dimensional zero-bias data, with the wider case moved to [QUESTION-192](record/questions.d/QUESTION-192.md) (promotion audit, batch 045).
+
+[THEORY-166](record/theory.d/THEORY-166.md), [THEORY-172](record/theory.d/THEORY-172.md) and [THEORY-175](record/theory.d/THEORY-175.md) are narrowed and promoted under [ADR-047](record/decisions.d/ADR-047.md) (promotion audit, batch 048): [THEORY-166](record/theory.d/THEORY-166.md) to the 66 Pew surveys, with the QQ equality and a classical model that meets it worked in a dated note and a preregistered test moved to [QUESTION-210](record/questions.d/QUESTION-210.md); [THEORY-172](record/theory.d/THEORY-172.md) to what Frank and Goodman's and Bergen, Goodman and Levy's games measured, with a test against named rivals moved to [QUESTION-209](record/questions.d/QUESTION-209.md); [THEORY-175](record/theory.d/THEORY-175.md) to its anchor-cosine invariance, re-derived, and Moschella et al.'s experiments, with a direct measurement of the maps between trained spaces moved to [QUESTION-211](record/questions.d/QUESTION-211.md).
+
+### Added
+
+- [QUESTION-159](record/questions.d/QUESTION-159.md): whether an exact train-then-predict identity holds
+  for further sequence-layer classes, or is bounded by some standard
+  attention layer. It holds [THEORY-169](record/theory.d/THEORY-169.md)'s former scope test, unchanged.
+- [QUESTION-158](record/questions.d/QUESTION-158.md): whether gradient descent, without a spectral
+  initialization, reaches the hierarchical multi-index thresholds, and
+  whether they survive a second input law. It holds [THEORY-283](record/theory.d/THEORY-283.md)'s former
+  promote_when, unchanged, and refines [QUESTION-039](record/questions.d/QUESTION-039.md).
+
+### Changed
+
+- [THEORY-169](record/theory.d/THEORY-169.md), Active after narrowing: for unnormalized causal linear
+  attention and for softmax attention, conditioning on a context is a
+  learner's train-then-predict step. The three identities are re-derived.
+- [THEORY-283](record/theory.d/THEORY-283.md), Active after narrowing: the sample-size thresholds and rates
+  are stated for the Bayes-optimal and spectral estimators and for a
+  network with a spectral first layer, not for gradient descent. These
+  changes carry out the promotion audit's batch-024 decisions ([ADR-047](record/decisions.d/ADR-047.md)).
+
+### Added
+
+- [QUESTION-162](record/questions.d/QUESTION-162.md): whether hyperbolic networks' advantage on tree-like
+  data goes with the Möbius bias translations and the distance-based output
+  layer. It holds [THEORY-566](record/theory.d/THEORY-566.md)'s former promote_when, unchanged, and refines
+  [QUESTION-025](record/questions.d/QUESTION-025.md).
+- [QUESTION-163](record/questions.d/QUESTION-163.md): whether Blackwell-equivalent representations of
+  trained networks stitch differently by a measurable margin under the
+  paper's protocol. It holds [THEORY-176](record/theory.d/THEORY-176.md)'s former promote_when, unchanged.
+
+### Changed
+
+- [THEORY-566](record/theory.d/THEORY-566.md), Active: in Ganea et al.'s hyperbolic networks, curvature acts
+  only through the bias translations and the distance-based output layer.
+  The composition argument is written out, with the sense of "conjugated".
+- [THEORY-176](record/theory.d/THEORY-176.md), Active: the stitching penalty is not Blackwell's order. A
+  constructed example now shows that Blackwell-equivalent representations
+  can stitch differently, inside the paper's own map class. These changes
+  carry out the promotion audit's batch-027 decisions ([ADR-047](record/decisions.d/ADR-047.md)).
+
+[THEORY-178](record/theory.d/THEORY-178.md) is narrowed to the Boolean model ensemble on the E. coli regulatory core and promoted under [ADR-047](record/decisions.d/ADR-047.md) v3, with its positive-circuit condition stated for that network and its cell experiment moved to [QUESTION-172](record/questions.d/QUESTION-172.md). [THEORY-306](record/theory.d/THEORY-306.md) is narrowed to MSN's and SwAV's explicit cluster-size prior and one study's imbalanced-batch measurement and promoted under [ADR-047](record/decisions.d/ADR-047.md) v3, with its derivation and long-tail conditions moved to [QUESTION-171](record/questions.d/QUESTION-171.md) (promotion audit, batch 033).
+
+[THEORY-181](record/theory.d/THEORY-181.md) is narrowed to the zero-loss model with an injective decoder, whose theorem is re-derived, and to the one size Liu et al. measured, non-modular addition with p = 10, and promoted under [ADR-047](record/decisions.d/ADR-047.md) v2 and v3, with the test across sizes moved to [QUESTION-199](record/questions.d/QUESTION-199.md). [THEORY-237](record/theory.d/THEORY-237.md) is promoted with every member's optimum derived, InfoNCE's included, and its title now says each bound attains its supremum, rather than is tight, at the log density ratio up to its free term (promotion audit, batch 043).
+
+Promotion audit, batch 037 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-185](record/theory.d/THEORY-185.md) is narrowed and promoted: Korchinski et al.'s conditional theorem on independent multiplicative attributes is re-derived, its PMI clauses stand, and its raw-ratio clause is held to the full, balanced hypercube with the exact condition on the strengths. [THEORY-161](record/theory.d/THEORY-161.md) is narrowed and promoted: its two identities are re-derived, and its reading of the field is held to the two frameworks read in full. The premise measurement and the field-wide reading move to [QUESTION-178](record/questions.d/QUESTION-178.md) and [QUESTION-177](record/questions.d/QUESTION-177.md).
+
+### Added
+
+- [QUESTION-166](record/questions.d/QUESTION-166.md): whether the depth law of deep linear networks holds
+  from starts off the decoupled set, such as random orthogonal weights. It
+  holds [THEORY-187](record/theory.d/THEORY-187.md)'s former promote_when, unchanged, and refines
+  [QUESTION-039](record/questions.d/QUESTION-039.md).
+- [QUESTION-165](record/questions.d/QUESTION-165.md): whether the number of examples a deep network needs on
+  the Random Hierarchy Model is set by the detectability of patch–label
+  correlations or by the grammar's size. It holds [THEORY-195](record/theory.d/THEORY-195.md)'s former
+  promote_when, unchanged.
+- [QUESTION-164](record/questions.d/QUESTION-164.md): whether the law of balance holds in a deep network
+  trained on real data. It holds [THEORY-211](record/theory.d/THEORY-211.md)'s former promote_when,
+  unchanged, and refines [QUESTION-069](record/questions.d/QUESTION-069.md).
+
+### Changed
+
+- [THEORY-187](record/theory.d/THEORY-187.md), Active after narrowing: the depth law of deep linear networks
+  is stated for whitened inputs and decoupled, balanced starts, with
+  iterations counted at the stable step size. The finite-depth plateau
+  exponent and the iteration count are re-derived.
+- [THEORY-195](record/theory.d/THEORY-195.md), Active after narrowing under [ADR-047](record/decisions.d/ADR-047.md) v3: what the Random
+  Hierarchy Model experiments measured, in the range they cover. The
+  attribution of the sample size to correlation detection moves to a
+  QUESTION.
+- [THEORY-211](record/theory.d/THEORY-211.md), Active after narrowing: the law of balance in the SDE model
+  of SGD, whenever both groups carry noise, re-derived by Itô's lemma.
+  These changes carry out the promotion audit's batch-027 decisions
+  ([ADR-047](record/decisions.d/ADR-047.md)).
+
+[THEORY-189](record/theory.d/THEORY-189.md) is promoted under [ADR-047](record/decisions.d/ADR-047.md) v2 with a proof of the source's unproved Theorem 4, that the closed-form hyperbolic entailment cones are transitive in every dimension, and its bound on K is corrected to ε/(1 − ε²). [THEORY-305](record/theory.d/THEORY-305.md) is promoted with Tan et al.'s identity re-derived and a finite-graph counterexample showing InfoNCE's minimizer outside every bottom-eigenvector span. [THEORY-313](record/theory.d/THEORY-313.md) is narrowed to say the kernel bound is tight for every pair only for an orthonormal embedding, and to the kernel family its O(σ²) gap is proved for, and promoted, with the wider rate moved to [QUESTION-198](record/questions.d/QUESTION-198.md) (promotion audit, batch 043).
+
+### Added
+
+- [QUESTION-153](record/questions.d/QUESTION-153.md), Open: whether the hyperbolic Betti-curve matches in
+  odour space and in CA1 separate a hyperbolic metric from a flat sphere
+  or a flat multiscale code, and whether they replicate. It holds
+  [THEORY-191](record/theory.d/THEORY-191.md)'s and [THEORY-192](record/theory.d/THEORY-192.md)'s former promote_when clauses, unchanged.
+
+### Changed
+
+- [THEORY-191](record/theory.d/THEORY-191.md), Active: in four natural odour sources, concentration
+  correlations have the Betti-curve signature of a 3D hyperbolic shell and
+  not of any uniform Euclidean cube tried, and 127 odorants' descriptor
+  profiles that of a full 3D hyperbolic ball ([LIT-872](record/literature.d/LIT-872.md)). The title is
+  narrowed to the data measured.
+- [THEORY-192](record/theory.d/THEORY-192.md), Active: in twelve rat CA1 sessions from three data sets,
+  correlations have the Betti-curve signature of a uniform 3D hyperbolic
+  ball, and the fitted radius rose with log exploration time ([LIT-876](record/literature.d/LIT-876.md)).
+  The title is narrowed to the data measured.
+- Both carry out the promotion audit's batch-018 decisions under the
+  owner's single-study rule ([ADR-047](record/decisions.d/ADR-047.md) v3).
+
+### Added
+
+- [QUESTION-154](record/questions.d/QUESTION-154.md): whether a coarse-graining short of full capture keeps
+  longer-range couplings bounded by the information lost, in two or more
+  dimensions. It holds [THEORY-198](record/theory.d/THEORY-198.md)'s former promote_when, unchanged, and
+  refines [QUESTION-065](record/questions.d/QUESTION-065.md).
+- [QUESTION-155](record/questions.d/QUESTION-155.md): whether a lossy-compression generalisation bound
+  gives a non-trivial value for an algorithm with infinite I(S;W). It holds
+  [THEORY-248](record/theory.d/THEORY-248.md)'s former promote_when, unchanged.
+
+### Changed
+
+- [THEORY-315](record/theory.d/THEORY-315.md), Active: for a state whose four-state reflection orbit is
+  realizable, preparation noncontextuality bounds |⟨X⟩| + |⟨Z⟩| ≤ 1. An
+  independent derivation, which needs no outcome determinism, meets its
+  promote_when.
+- [THEORY-198](record/theory.d/THEORY-198.md), Active after narrowing: full capture makes the coarse measure
+  factorize across the block in 1D, and in D dimensions under the per-block
+  capture hypothesis, now stated in the title with the no-cancellation
+  exclusion. The Lemma is re-derived.
+- [THEORY-248](record/theory.d/THEORY-248.md), Active after narrowing: the Lipschitz rate-distortion bound
+  is finite wherever the output law's rate-distortion function is finite at
+  distortion ε/(2L). Theorem 4 and Corollary 6 are re-derived. These
+  changes carry out the promotion audit's batch-019 decisions ([ADR-047](record/decisions.d/ADR-047.md)).
+
+[THEORY-204](record/theory.d/THEORY-204.md) (the data-limited scaling exponent γ/(2β)) and [THEORY-243](record/theory.d/THEORY-243.md) (basis-related alignments tying under interchange interventions) are narrowed and promoted. [THEORY-204](record/theory.d/THEORY-204.md) now states the measured match on two corpora and the re-derived conditional exponent min(δ, γ/(2β)); [THEORY-243](record/theory.d/THEORY-243.md) states what the constructed three-unit network proves. Each one's wider test moves to a new QUESTION.
+
+[THEORY-205](record/theory.d/THEORY-205.md) is re-derived exactly and promoted under [ADR-047](record/decisions.d/ADR-047.md) v2, narrowed to the point where the uninformative information-bottleneck encoder first loses stability, since on a skewed 3-state chain the uninformative encoder stops being optimal earlier; when the two coincide is [QUESTION-185](record/questions.d/QUESTION-185.md). [THEORY-275](record/theory.d/THEORY-275.md) is narrowed to the one hydrodynamically coupled bead system it was measured in, and [THEORY-365](record/theory.d/THEORY-365.md) to what the HNSW paper's text reports, and both are promoted under [ADR-047](record/decisions.d/ADR-047.md) v3, with their promote_when conditions moved to [QUESTION-186](record/questions.d/QUESTION-186.md) and [QUESTION-187](record/questions.d/QUESTION-187.md) (promotion audit, batch 039).
+
+Promotion audit, batch 037 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-228](record/theory.d/THEORY-228.md) is narrowed and promoted: HaoChen et al.'s guarantee for the spectral contrastive loss is re-derived step by step on a finite augmentation space, and the title says so and states the bound up to constant and logarithmic factors. [THEORY-319](record/theory.d/THEORY-319.md) is narrowed and promoted: Tosh et al.'s redundancy lemma and landmark bound are re-derived for a general joint law of two views, and the title states mean squared error and the exact, square-integrable ratio. Their promote_whens' wider clauses move to [QUESTION-183](record/questions.d/QUESTION-183.md) and [QUESTION-182](record/questions.d/QUESTION-182.md).
+
+Promotion audit, batch 038 ([ADR-047](record/decisions.d/ADR-047.md) v2 and v3). Three learning-theory accounts are narrowed and promoted. [THEORY-238](record/theory.d/THEORY-238.md): the constant in Theorem 4 of [LIT-245](record/literature.d/LIT-245.md) is re-derived and stands, because the proof applies Lemma 3 at λ/2; the lossy-finiteness clause now says "can stay finite". [THEORY-266](record/theory.d/THEORY-266.md): Theorem 7 of [LIT-233](record/literature.d/LIT-233.md) is re-checked, and its title now names the theorem's hypotheses and its 4Lε term. [THEORY-278](record/theory.d/THEORY-278.md): the measured half is narrowed to [LIT-974](record/literature.d/LIT-974.md)'s fifteen cells, and the renormalized dynamics are re-derived. Their promote_when requests, which ask whether the bounds or the dynamics account for trained networks, move to [QUESTION-179](record/questions.d/QUESTION-179.md), [QUESTION-180](record/questions.d/QUESTION-180.md) and [QUESTION-181](record/questions.d/QUESTION-181.md).
+
+[THEORY-244](record/theory.d/THEORY-244.md), [THEORY-259](record/theory.d/THEORY-259.md) and [THEORY-271](record/theory.d/THEORY-271.md) are promoted under [ADR-047](record/decisions.d/ADR-047.md) v2 on derivations the record wrote out (promotion audit, batch 050). [THEORY-244](record/theory.d/THEORY-244.md) is narrowed to the entropy and mutual-information bridges, re-derived from domination and the coding theorem; its distortion-rate bridge, which rests on an asserted step, moves to [QUESTION-208](record/questions.d/QUESTION-208.md). [THEORY-259](record/theory.d/THEORY-259.md) is restated as an identity: under the universal prior, the Bayesian and ideal-MDL two-part lengths differ by the data's randomness deficiency for the hypothesis, up to a constant fixed by the likelihood family, so the paper's slack is an upper bound and not the gap. [THEORY-271](record/theory.d/THEORY-271.md)'s toy-corpus theorem is proved for every labelling and for any number of aspects.
+
+Promotion audit, batch 063 ([ADR-047](record/decisions.d/ADR-047.md) v2 and v3). [THEORY-246](record/theory.d/THEORY-246.md) is narrowed to what Kornblith et al. measured among ImageNet-trained ResNet-50s and promoted; its general claim that tighter class clusters buy training accuracy at the cost of new tasks leaves the title. [THEORY-334](record/theory.d/THEORY-334.md) is narrowed to what Ballard et al. observed in block copying and promoted; the inference that holding information costs more than re-fetching it, which [THEORY-346](record/theory.d/THEORY-346.md) contests, stays in the body. The Random Hierarchy Model's derived statistics are split from [THEORY-201](record/theory.d/THEORY-201.md) as [THEORY-778](record/theory.d/THEORY-778.md), re-derived to leading order and checked by exact computation; [THEORY-201](record/theory.d/THEORY-201.md) keeps the learning curves and the argued link and stays Proposed. The generality, mechanism and powered-replication requests move to [QUESTION-236](record/questions.d/QUESTION-236.md) and [QUESTION-235](record/questions.d/QUESTION-235.md).
+
+[THEORY-253](record/theory.d/THEORY-253.md) and [THEORY-382](record/theory.d/THEORY-382.md) are promoted under [ADR-047](record/decisions.d/ADR-047.md) v3 on single studies read in full: [THEORY-253](record/theory.d/THEORY-253.md) narrowed to the Geometry model's measured split between gradient and sign descent, which the record reproduced, with a derivation and a trained-network test moved to [QUESTION-193](record/questions.d/QUESTION-193.md); [THEORY-382](record/theory.d/THEORY-382.md) with its freshness-tracking clause held to the authors' reading of their curves, and its distance from the best plan moved to [QUESTION-194](record/questions.d/QUESTION-194.md) (promotion audit, batch 045).
+
+Promotion audit, batch 036 ([ADR-047](record/decisions.d/ADR-047.md) v2 and v3). [THEORY-263](record/theory.d/THEORY-263.md) is promoted: its PAC-Bayes clause is re-derived in any measurable space by the disintegrated change of measure, and the request for a covering-argument source moves to [QUESTION-174](record/questions.d/QUESTION-174.md). [THEORY-293](record/theory.d/THEORY-293.md) is narrowed and promoted: Theorem 4.3 is re-derived by exchange, the facts are learned in full only once capacity exceeds the threshold by their total entropy, the Pythia runs are said to show a threshold, not the same one, and the link test moves to [QUESTION-176](record/questions.d/QUESTION-176.md). [THEORY-229](record/theory.d/THEORY-229.md) is narrowed and promoted to small aligned initialization of common scale, with Propositions 4.1, 4.3 and 5.1 re-derived; generic initialization moves to [QUESTION-175](record/questions.d/QUESTION-175.md).
+
+[THEORY-267](record/theory.d/THEORY-267.md) and [THEORY-261](record/theory.d/THEORY-261.md) are promoted (promotion audit, batch 050). [THEORY-267](record/theory.d/THEORY-267.md) is narrowed under [ADR-047](record/decisions.d/ADR-047.md) v3 to what Rasooly and Rozzi's randomised experiment on Manifold measured, about 59% of a random price shock still present after 60 days, with their model's mechanism reported as theirs; replication elsewhere and whether traders came to believe the shocked price move to [QUESTION-212](record/questions.d/QUESTION-212.md). [THEORY-261](record/theory.d/THEORY-261.md)'s sparse-distributed-memory capacity analysis is confirmed by the record's own simulation of the basic design at up to 200,000 hard locations, which the former promote_when named as sufficient; the title now says exact cues and capacity rising toward a tenth of the locations.
+
+Promotion audit, batch 042 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-280](record/theory.d/THEORY-280.md) is narrowed and promoted: Theorem 1 of Calo et al. was re-checked against the arXiv text, the rate holds with constant-level slips, the title now names the occupancy-sampling model, observed finite states, the known bounded cost and the probability 1 − δ, and the ε⁻² lower-bound request moves to [QUESTION-190](record/questions.d/QUESTION-190.md); [NOTE-763](record/notes.d/NOTE-763.md)'s dual radii are corrected. [THEORY-289](record/theory.d/THEORY-289.md) is narrowed and promoted to least squares on reused isotropic Gaussian covariates, with Theorems 1 and 2 re-derived; the extension request moves to [QUESTION-189](record/questions.d/QUESTION-189.md). [THEORY-387](record/theory.d/THEORY-387.md) is narrowed and promoted to positive recursive Datalog under set semantics, with Theorem 7.1 re-derived for that case; stratified negation, aggregation and the overestimate's size move to [QUESTION-188](record/questions.d/QUESTION-188.md).
+
+Promotion audit, batch 051 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-281](record/theory.d/THEORY-281.md) is narrowed to X of finite support and promoted: the erasure cap, the necessity of the permutation condition for deterministic maps, its sufficiency under disjoint groups and the stochastic attainment condition are re-derived. [THEORY-284](record/theory.d/THEORY-284.md) is promoted with its title unchanged: Theorem 1 is re-derived in both directions, with the shortest-path step for the intrinsic length metric. [THEORY-282](record/theory.d/THEORY-282.md) is promoted with its title unchanged: the construction behind its possibility claim is re-derived, and its promote_when about the measured GPT-2 cases moves to [QUESTION-200](record/questions.d/QUESTION-200.md).
+
+Promotion audit, batch 025 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-308](record/theory.d/THEORY-308.md) is narrowed and promoted: its approximation lemma is closed by a two-sided truncation, its estimation lemma restated as almost-sure convergence, and its sample-complexity clause re-derived with its assumptions named. [THEORY-314](record/theory.d/THEORY-314.md) is promoted over the completed RKHS, with sufficient conditions for a minimizer to exist. [THEORY-320](record/theory.d/THEORY-320.md) is split: the exact residual identity is a new Active [THEORY-737](record/theory.d/THEORY-737.md), and [THEORY-320](record/theory.d/THEORY-320.md) keeps its toy clauses, Proposed, with a note recording a reconstruction that reproduces Theorem 5.2 but not Theorem 5.3 or Lemma 5.4.
+
+Promotion audit, batch 053 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-332](record/theory.d/THEORY-332.md) is promoted with a corrected title: Bruno and Chaudhuri's single-index tuner is not three-competitive for any bound on step size, since a constructed workload with steps at most fB approaches 3 + 2f times the optimum; the upper-bound question moves to [QUESTION-224](record/questions.d/QUESTION-224.md). [THEORY-362](record/theory.d/THEORY-362.md) is promoted: counting-based maintenance of nonrecursive views with stratified negation and aggregation is re-derived from the delta rules' telescoping identity and checked against full recomputation. [THEORY-367](record/theory.d/THEORY-367.md) is narrowed to SPJU queries and promoted: minimal witnesses are proved invariant across equivalent queries, and where-provenance is shown not to be; the rewrite-system clauses move to [QUESTION-225](record/questions.d/QUESTION-225.md).
+
+Promotion audit, batch 054. [THEORY-377](record/theory.d/THEORY-377.md) is narrowed to Olston, Loo and Widom's simulations and promoted ([ADR-047](record/decisions.d/ADR-047.md) v3); its convergence and other-data request moves to [QUESTION-227](record/questions.d/QUESTION-227.md). [THEORY-380](record/theory.d/THEORY-380.md) is promoted with Theorems 5.6, 6.4 and 6.5 of Green, Karvounarakis and Tannen proved ([ADR-047](record/decisions.d/ADR-047.md) v2); its infinite-coefficient clause, false as the paper states it, is corrected to a unit-rule cycle on any tuple in a derivation tree. [THEORY-419](record/theory.d/THEORY-419.md) is narrowed to the do-operator as Pearl defines it in the pages read and promoted with its two consequences derived; the book-wide reading moves to [QUESTION-226](record/questions.d/QUESTION-226.md).
+
+Promotion audit, batch 025 ([ADR-047](record/decisions.d/ADR-047.md) v3). [THEORY-391](record/theory.d/THEORY-391.md) is narrowed and promoted to what Donoho and Tanner measured, with the Gaussian transition attributed to the authors' earlier face-counting theorems and the N^(−1/2) exponent marked as fitted on the same data; its promote_when moves to [QUESTION-168](record/questions.d/QUESTION-168.md), refining [QUESTION-120](record/questions.d/QUESTION-120.md). [THEORY-472](record/theory.d/THEORY-472.md) is narrowed and promoted: the size principle derived from an informative speaker under a point-mass intent and uniform literal meanings, and the two studies' results as measured; its promote_when, a discriminating experiment, moves to [QUESTION-167](record/questions.d/QUESTION-167.md).
+
+Promotion audit, batch 026 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-478](record/theory.d/THEORY-478.md) is narrowed to the equivalence its proof gives under two Hellinger bounds, with the admissible range α < θ/β, and promoted, re-derived in a dated note; its condition on tree heat kernels and sampled data moves to [QUESTION-160](record/questions.d/QUESTION-160.md). [THEORY-231](record/theory.d/THEORY-231.md) is promoted, with the Leibnizianity-to-noncontextuality chain and the prepare-measure realizability claim re-derived. [THEORY-614](record/theory.d/THEORY-614.md) stays Proposed: its promote_when, which asked about trained networks the title disclaims, moves to [QUESTION-161](record/questions.d/QUESTION-161.md), and it now asks for the one unchecked step of Theorem 1.
+
+Promotion audit, batch 055 ([ADR-047](record/decisions.d/ADR-047.md) v2 and v3). [THEORY-580](record/theory.d/THEORY-580.md) is promoted with its title unchanged, after the proofs of Theorem 2.25 and Proposition 2.29 were read and checked against the definitions they take from "The Topology of Causality"; [NOTE-624](record/notes.d/NOTE-624.md) records the check. [THEORY-548](record/theory.d/THEORY-548.md) is narrowed and promoted: the critical-delay formula and transversal crossing are re-derived, and a re-run at the paper's setting shows community variability falling with diversity exactly as an averaging null does. [THEORY-527](record/theory.d/THEORY-527.md) is narrowed to Kenton et al.'s recovery theorem on their definition of agents, re-derived; the verdicts argued from the definition leave the title. Their wider requests move to [QUESTION-229](record/questions.d/QUESTION-229.md) and [QUESTION-228](record/questions.d/QUESTION-228.md).
+
+Promotion audit, batch 060 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-751](record/theory.d/THEORY-751.md) is promoted with its title unchanged. The two steps it lacked are now re-derived: achievability by superposition coding, and a closed-form degrading channel between the Hamming rate–distortion optima of every finite source. [THEORY-744](record/theory.d/THEORY-744.md) is narrowed and promoted. The source's kernel expansion is re-derived for a compact manifold without boundary, and the title now says "without boundary" and that the limit is minus the diffusion's generator. The boundary rate and the semigroup limit move to [QUESTION-231](record/questions.d/QUESTION-231.md).
+
+Narrowed and promoted [THEORY-127](record/theory.d/THEORY-127.md) (batch 023 of the promotion audit, [ADR-047](record/decisions.d/ADR-047.md) v2): the record re-derives List and Pettit's Proposition 3 for the court agenda by the decisive-coalition argument, with Proposition 2 as a corollary; the title now names the court agenda and the two connectedness conditions the proof uses, since issue-wise parity on affine agendas refutes the unconditioned form. The extension to corporate attitudes moves to [QUESTION-152](record/questions.d/QUESTION-152.md).
+
+[THEORY-190](record/theory.d/THEORY-190.md) is narrowed and promoted under [ADR-047](record/decisions.d/ADR-047.md) v2 (promotion audit, batch 048): the S¹ model's closure under geometric coarse-graining is proved at large separation with its error bounded, and shown in a worked example to fail between nearby supernodes, and the source's degree flow, which rests on closure at every separation, moves to [QUESTION-203](record/questions.d/QUESTION-203.md).
+
+Promotion audit, batch 038 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-197](record/theory.d/THEORY-197.md) is promoted. Its promote_when asked for a second derivation stating Mehta and Schwab's correspondence with the same scope, and [LIT-887](record/literature.d/LIT-887.md) and [LIT-891](record/literature.d/LIT-891.md), which the record already held, state it. The identity, the exactness condition and the free-energy point are re-derived, with one refinement: a perfect fit gives an exact step only up to a constant shift of the RBM energy.
+
+[THEORY-216](record/theory.d/THEORY-216.md) is narrowed to what Wu and Silva measured on the 2017 r/place log (low early predictability from four coalition-state features, recovered coalitions growing larger, and persistence under attack in existence form) and promoted under [ADR-047](record/decisions.d/ADR-047.md) v3, with its population and interaction-feature condition moved to [QUESTION-169](record/questions.d/QUESTION-169.md). [CLAIM-273](record/claims.d/CLAIM-273.md)'s citation of the dropped universal clause is restated (promotion audit, batch 031).
+
+### Added
+
+- [THEORY-735](record/theory.d/THEORY-735.md), Active: under a local quadratic model with the greedy
+  optimal step, per-step progress is ΔL_max/(1 + B_noise/B), and the
+  steps–examples hyperbola (S/S_min − 1)(E/E_min − 1) = 1 holds exactly
+  ([LIT-348](record/literature.d/LIT-348.md), re-derived). Split from [THEORY-033](record/theory.d/THEORY-033.md).
+- [QUESTION-156](record/questions.d/QUESTION-156.md), Open: which published concept-combination models
+  reproduce overextension by dropping conjunction-as-meet, and which by
+  dropping a monotone membership weight.
+
+### Changed
+
+- [THEORY-255](record/theory.d/THEORY-255.md), Active: in any lattice with an order-preserving membership
+  weight, whatever its negation, conjunction as meet cannot overextend.
+  So a model of the guppy-type deviations must drop the meet or
+  monotonicity. The generalisation of Aerts's Theorem 9 is checked in a
+  dated note, and the title no longer says an emergent concept is needed.
+- [THEORY-033](record/theory.d/THEORY-033.md) stays Proposed, extends the new entry, and is corrected. The
+  noise scale tracks the critical batch within about 10× on six of eight
+  tasks and about 20× on two, not "within an order of magnitude".
+- These changes carry out the promotion audit's batch-018 decisions
+  ([ADR-047](record/decisions.d/ADR-047.md)).
+
+### Added
+
+- [QUESTION-157](record/questions.d/QUESTION-157.md): whether factored-process results replicate on other
+  generator families or objectives, and what loss gap the factored
+  representation pays when noise makes it lossy. It holds [THEORY-256](record/theory.d/THEORY-256.md)'s
+  former promote_when, unchanged, and refines [QUESTION-060](record/questions.d/QUESTION-060.md).
+
+### Changed
+
+- [THEORY-256](record/theory.d/THEORY-256.md), Active after narrowing: the lossless per-factor embedding of
+  a tensor-product generator's predictive state, re-derived, together with
+  what [LIT-986](record/literature.d/LIT-986.md) measured. That is 4-layer GPT-2-style transformers on five
+  Mess3 and Bloch Walk factors, settling near the factored dimension in
+  linearly independent subspaces that are approximately orthogonal in their
+  leading components, and reaching it first under the token noise tested.
+  It is promoted on one study read in full under [ADR-047](record/decisions.d/ADR-047.md) v3, carrying out
+  the promotion audit's batch-019 decision.
+
+Promotion audit, batch 051 ([ADR-047](record/decisions.d/ADR-047.md) v3). [THEORY-272](record/theory.d/THEORY-272.md) is narrowed to Hopfield's 1982 simulations at N = 30 and 100 and promoted. The energy argument and the crosstalk estimate are checked, the fusion and overload clauses are held to the measured cases, and the forgetting clause, reported only in words, is dropped. The large-N request moves to [QUESTION-201](record/questions.d/QUESTION-201.md).
+
+[THEORY-290](record/theory.d/THEORY-290.md) is narrowed to the two-debater, three-proposition model of deductive debate it was computed in and promoted under [ADR-047](record/decisions.d/ADR-047.md) v3, with its group and richer-strategy conditions moved to [QUESTION-173](record/questions.d/QUESTION-173.md) (promotion audit, batch 041).
+
+[THEORY-295](record/theory.d/THEORY-295.md) is narrowed to a consensus that a single test can replace and promoted under [ADR-047](record/decisions.d/ADR-047.md) v3, with its replication-and-memory condition moved to [QUESTION-151](record/questions.d/QUESTION-151.md). [THEORY-546](record/theory.d/THEORY-546.md)'s title is corrected: fission needs a non-branching clause or multiple occupancy, and quasi-memory answers circularity; it stays Proposed (promotion audit, batch 020).
+
+Promotion audit, batch 036 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-321](record/theory.d/THEORY-321.md) is narrowed and promoted: Golub and Jackson's characterization of wisdom under DeGroot averaging is re-derived for a strongly connected society, the title now says so, and the former promote_when, a case outside the model, moves to [QUESTION-184](record/questions.d/QUESTION-184.md) together with a check of the case with several closed groups.
+
+Promotion audit, batch 032 ([ADR-047](record/decisions.d/ADR-047.md) v2). [THEORY-324](record/theory.d/THEORY-324.md) is narrowed and promoted: Ashby's necessity and sufficiency deductions for ultrastability are re-derived step by step, the second feedback must change the parameters whenever, and for as long as, an essential variable is outside its limits, and the unknown environment is stated as one whose effect on the essential variables the system does not know. Its promote_when's wider form, any system that comes to keep its essential variables within limits, moves to [QUESTION-170](record/questions.d/QUESTION-170.md).
+
+Promotion audit, batch 053 ([ADR-047](record/decisions.d/ADR-047.md) v3). [THEORY-368](record/theory.d/THEORY-368.md) is narrowed and promoted on Indyk and Xu's single study, rechecked against the arXiv text: the "until about 10% of the points" clause is held to fast-preprocessing DiskANN, HNSW and NSG, and the ten-index comparison to Table 1's recall@5 at queue length 0.1n. The replication request moves to [QUESTION-230](record/questions.d/QUESTION-230.md).
+
+Promotion audit, batch 063 ([ADR-047](record/decisions.d/ADR-047.md) v3). [THEORY-385](record/theory.d/THEORY-385.md) is narrowed to HNSW and promoted after an independent re-run of Malkov and Yashunin's clustered test: on 30,000 points in 100 isolated clusters, linking each item to its nearest neighbours left part of the bottom layer unreachable and capped recall@10 at 0.72–0.83, at matched build cost and at lower and higher degree, while the pruning rule reached 0.999 with half the links; on uniform data the two rules were within about 0.02. Candidate extension, which the paper recommends for clustered data, did not help in the re-run and leaves the title.
+
+### Added
+
+- [ADR-049](record/decisions.d/ADR-049.md): a QUESTION is Answered when Active CLAIMs or THEORYs answer it
+  as posed and in full scope. An Active THEORY counts, so a CLAIM is not
+  filed only to restate a reading. A partly answered question is split:
+  the answered part becomes a child QUESTION that refines the parent and
+  is marked Answered, and the parent is reworded to what is left and stays
+  Open.
+
+### Changed
+
+- The Answered status blurb in `luria.yaml` now says "an Active CLAIM or
+  THEORY" and cites [ADR-049](record/decisions.d/ADR-049.md).
+
+### Fixed
+
+- Stale `answers` links found by the question audit of 2026-10-21 are
+  dropped:
+  - [CLAIM-047](record/claims.d/CLAIM-047.md) and [CLAIM-080](record/claims.d/CLAIM-080.md) on [QUESTION-015](record/questions.d/QUESTION-015.md) (a premise and a
+    supposition);
+  - [THEORY-195](record/theory.d/THEORY-195.md) on [QUESTION-025](record/questions.d/QUESTION-025.md) (its own text says it leaves the question
+    as it was);
+  - [THEORY-527](record/theory.d/THEORY-527.md) on [QUESTION-032](record/questions.d/QUESTION-032.md) (narrowed to the recovery theorem;
+    [THEORY-801](record/theory.d/THEORY-801.md) carries the answer);
+  - [CLAIM-304](record/claims.d/CLAIM-304.md) on [QUESTION-111](record/questions.d/QUESTION-111.md) (a precondition, not an answer).
+- [CLAIM-366](record/claims.d/CLAIM-366.md) now `answers` [QUESTION-127](record/questions.d/QUESTION-127.md). It proves the first three rows of
+  that question's table, and its body says so.
+- [QUESTION-186](record/questions.d/QUESTION-186.md) now `refines` [QUESTION-063](record/questions.d/QUESTION-063.md). It was filed from [THEORY-275](record/theory.d/THEORY-275.md)'s
+  promotion condition, and [THEORY-275](record/theory.d/THEORY-275.md) answers [QUESTION-063](record/questions.d/QUESTION-063.md).
+
+Chalmers and McQueen's consciousness-collapse paper is filed and read in part, to check how [LIT-164](record/literature.d/LIT-164.md) represents it for [THEORY-485](record/theory.d/THEORY-485.md) (promotion audit, batch 059); [NOTE-112](record/notes.d/NOTE-112.md) and [NOTE-615](record/notes.d/NOTE-615.md) get dated notes, the latter recording what Propp's appendices show about the sample behind [THEORY-167](record/theory.d/THEORY-167.md)'s order claim.
+
+### Changed
+
+- At the owner's direction, `reported_in` backfilled on existing CASEs under [ADR-051](record/decisions.d/ADR-051.md). Of the 146 cases reviewed, 18 gained the field, naming the LITs, NOTEs and THEORYs they were taken from; with the four filed under [ADR-051](record/decisions.d/ADR-051.md) itself, 22 cases now carry it. The converse `reports` was written on 50 LITs, NOTEs and THEORYs. About 26 documented cases stay without it, because the work they were taken from is not registered here, and a work named only in passing, or supplying no fact the case states, is not counted as its report.
+
+### Added
+
+- From the continuation of the exchange of 2026-10-23/24 (U28–U47, 2026-10-24/25): the owner's hypothesis that a population of perspectives advocating one of two interpretations decides by drift diffusion, stated with its conditions and demonstrated in two constructions, corroborating [CLAIM-262](record/claims.d/CLAIM-262.md) ([CLAIM-453](record/claims.d/CLAIM-453.md)); the reduction behind it, in which the influence-weighted support of interacting accumulators on a row-stochastic network is exactly an Ornstein–Uhlenbeck process and a drift-diffusion process when coupling balances leak, with the nonlinear transition corrected to κ_c = λ/E[sech² ε] ([CASE-160](record/cases.d/CASE-160.md)); the Fisher metric of an organization's responses as the pullback of the metric on authority shares, never larger and zero between processes that respond alike ([CASE-159](record/cases.d/CASE-159.md)); a proposed study of audited governance against a contextual router after a reversal of expertise, with the exchange's results recorded as reported and not reproduced ([CASE-158](record/cases.d/CASE-158.md)); and a question on the owner's three mechanisms of influence and how far nominal influence predicts counterfactual influence ([QUESTION-273](record/questions.d/QUESTION-273.md)). Seven works registered unread: Bartók et al. on partial monitoring ([LIT-1528](record/literature.d/LIT-1528.md)), Chaloner and Verdinelli on Bayesian experimental design ([LIT-1525](record/literature.d/LIT-1525.md)), Kwon and Perchet on approachability under partial monitoring ([LIT-1526](record/literature.d/LIT-1526.md)), Wald's sequential tests ([LIT-1523](record/literature.d/LIT-1523.md)), DeGroot's consensus ([LIT-1527](record/literature.d/LIT-1527.md)), MultiDiffusion ([LIT-1522](record/literature.d/LIT-1522.md)) and Multi-LoRA Composition ([LIT-1529](record/literature.d/LIT-1529.md)). A workbench entry and a curation entry.
+- The same day, five of the seven works read and made Active, each with a NOTE and two THEORYs: Bartók et al. ([NOTE-1164](record/notes.d/NOTE-1164.md); the observability lemma, [THEORY-962](record/theory.d/THEORY-962.md), and the four-class classification, [THEORY-964](record/theory.d/THEORY-964.md)), Kwon and Perchet ([NOTE-1159](record/notes.d/NOTE-1159.md); the rates, [THEORY-947](record/theory.d/THEORY-947.md), and the exploration floor that decision-dependent signals need, [THEORY-957](record/theory.d/THEORY-957.md)), Chaloner and Verdinelli ([NOTE-1161](record/notes.d/NOTE-1161.md); linear Bayesian design, [THEORY-956](record/theory.d/THEORY-956.md), and nonlinear design as prior-averaged local design, [THEORY-954](record/theory.d/THEORY-954.md)), MultiDiffusion ([NOTE-1158](record/notes.d/NOTE-1158.md); the fusion step as a per-pixel weighted mean, [THEORY-958](record/theory.d/THEORY-958.md), and its reported results, [THEORY-948](record/theory.d/THEORY-948.md)) and Multi-LoRA Composition ([NOTE-1160](record/notes.d/NOTE-1160.md); its reported results, [THEORY-955](record/theory.d/THEORY-955.md), and the switching ablation, [THEORY-949](record/theory.d/THEORY-949.md)). The readings corrected MultiDiffusion's Eq. 4 (as printed it weights by W², and Eq. 5 is exact only for 0/1 weights), Multi-LoRA Composition's §5.1.1 (it gives LoRA Switch's 6.56 and 5.08 to LoRA Composite) and named a confound in its comparison (the merge baseline is not rescaled, so its scale grows with the number of LoRAs). Wald and DeGroot were sought and found Unavailable, and were then read from copies the owner supplied (below). Left for the owner: Lattimore and Szepesvári 2019 (arXiv:1805.09247), the corrected adversarial classification, is not registered; a child QUESTION of [QUESTION-031](record/questions.d/QUESTION-031.md) and a CLAIM on identifying mixture shares, both proposed by the readings, were not filed.
+
+- At the owner's direction, 2026-10-25: [CLAIM-452](record/claims.d/CLAIM-452.md) (demonstrated, Active), that the authority shares of a mixture of known response profiles are identifiable from a set of probe contexts exactly when the profiles over them are affinely independent; and [QUESTION-272](record/questions.d/QUESTION-272.md), split from [QUESTION-031](record/questions.d/QUESTION-031.md) under [ADR-049](record/decisions.d/ADR-049.md) and Answered by it and by [THEORY-962](record/theory.d/THEORY-962.md). [QUESTION-031](record/questions.d/QUESTION-031.md) is reworded to the nonlinear remainder and stays Open.
+- Drafted at the owner's request of 2026-10-25, and accepted the same day (below): [ADR-053](record/decisions.d/ADR-053.md), a LIT status `Unfetched` ("Copy found, not fetched") for works whose lawful free copy was located and this client could not fetch, with the copy's address required in the note, so that the generated status page is the owner's queue. A triage of the 140 `Unavailable` notes that record an access obstacle found 43 such works; 37 would move on acceptance.
+- At the owner's request, 2026-10-25: Lattimore and Szepesvári 2019, the corrected classification of adversarial partial monitoring, registered and read ([LIT-1524](record/literature.d/LIT-1524.md), [NOTE-1162](record/notes.d/NOTE-1162.md)): the four classes for every finite game, with the trivial class as no pair of neighbouring actions ([THEORY-963](record/theory.d/THEORY-963.md), Active); how degenerate and duplicate actions enter, with the corrected kernel step of the T^2/3 lower bound ([THEORY-961](record/theory.d/THEORY-961.md), Active); and RelExp3's bound for point-locally observable games ([THEORY-950](record/theory.d/THEORY-950.md), Proposed). [THEORY-964](record/theory.d/THEORY-964.md)'s promote_when is met, but two of its clauses are mis-stated, so the reading proposes it be Superseded by [THEORY-963](record/theory.d/THEORY-963.md); that is left for the owner.
+- The owner supplied Wald (1945) and DeGroot (1974), which had been sought and not reached. Both were read in full from the copies ([NOTE-1165](record/notes.d/NOTE-1165.md), [NOTE-1157](record/notes.d/NOTE-1157.md)) and are Active ([LIT-1523](record/literature.d/LIT-1523.md), [LIT-1527](record/literature.d/LIT-1527.md)), with three THEORYs filed Active: Wald's boundaries and error inequalities ([THEORY-952](record/theory.d/THEORY-952.md)), the SPRT's OC, ASN and optimality up to the overshoot, with its overshoot-free formulas exactly those of Brownian motion ([THEORY-951](record/theory.d/THEORY-951.md)), and DeGroot's consensus conditions and weights ([THEORY-960](record/theory.d/THEORY-960.md)).
+- Accepted by the owner, 2026-10-25: [ADR-053](record/decisions.d/ADR-053.md), and with it the LIT status `Unfetched` ("Copy found, not fetched") in `luria.yaml`, with `Unavailable` narrowed to works with no lawful copy found or only a paywalled one. 34 of the 37 LITs it names moved, each with a history item and the copy's address in its note; three stay `Unavailable` on its own lines (an unconfirmed uploader, no exact address, a host down for a second fetcher too). [ADR-041](record/decisions.d/ADR-041.md) gets a dated note, and the LIT template names the new status.
+- At the owner's decision, 2026-10-25: [THEORY-964](record/theory.d/THEORY-964.md) (Bartók et al.'s classification) Superseded by [THEORY-963](record/theory.d/THEORY-963.md) rather than promoted, under [ADR-047](record/decisions.d/ADR-047.md).
+- At the owner's request, 2026-10-25: Isaac (2025), "Phenomenal structure: What is it and what is it for?" ([LIT-1361](record/literature.d/LIT-1361.md)), which had stayed Unavailable under [ADR-053](record/decisions.d/ADR-053.md), read in full from the publisher's open-access copy and made Active, with [NOTE-1163](record/notes.d/NOTE-1163.md) and two THEORYs filed Proposed: constancies as invariants of transformations within experience, and after Cassirer as what separates subject from object ([THEORY-959](record/theory.d/THEORY-959.md)), and convergence of quality-space models from different behavioural procedures as the evidence that they target experience ([THEORY-953](record/theory.d/THEORY-953.md)). The finding: a programmatic structuralism that, unlike Lyre's, says geometry is not enough and adds constancy and valence/affordance layers, but the author calls those layers "mere suggestive sketches", and its subject–object claim has no criterion that would separate it from mere invariant extraction.
+
+### Changed
+
+- Dated notes of 2026-10-25 from the same turns on twenty-five entries: [CLAIM-357](record/claims.d/CLAIM-357.md) (approachability and what averaging costs), [CLAIM-400](record/claims.d/CLAIM-400.md) (when the slow regime can be reduced), [CLAIM-444](record/claims.d/CLAIM-444.md) (the geometry in which evidence arrives), [QUESTION-031](record/questions.d/QUESTION-031.md) (choosing probes), [CLAIM-450](record/claims.d/CLAIM-450.md) (information design is not efficacy), [CASE-153](record/cases.d/CASE-153.md) (proposed again, and partly run), [QUESTION-270](record/questions.d/QUESTION-270.md) (four rivals for failed uptake), [CLAIM-446](record/claims.d/CLAIM-446.md) (the approach–avoid game as partial monitoring), [CASE-156](record/cases.d/CASE-156.md) (the reported run, checked: the app's carried rule reproduces A22's numbers), [CASE-155](record/cases.d/CASE-155.md) (two processes as a drift-diffusion decider, and the conformity arm), [CASE-074](record/cases.d/CASE-074.md) (the crowd as a network of accumulators), [CLAIM-262](record/claims.d/CLAIM-262.md) (the owner's hypothesis, restated for a simulation), [THEORY-321](record/theory.d/THEORY-321.md) (influence concentration in diffusion form), [QUESTION-117](record/questions.d/QUESTION-117.md) (endogenous influence and repeated messages), [QUESTION-252](record/questions.d/QUESTION-252.md) (predictive closure proposed for a population), [TERM-067](record/terms.d/TERM-067.md) (the matched-populations test), [CLAIM-279](record/claims.d/CLAIM-279.md) (learned operators), [QUESTION-271](record/questions.d/QUESTION-271.md) (asked again, and an arm per failure), [TERM-066](record/terms.d/TERM-066.md) (built in by design), [CLAIM-336](record/claims.d/CLAIM-336.md) (a running instance, and a typed workspace), [CLAIM-277](record/claims.d/CLAIM-277.md) (the entrenchment loop, named and not run), [CLAIM-123](record/claims.d/CLAIM-123.md) (masked composition of perspectives' predictions), [CASE-144](record/cases.d/CASE-144.md) (run without citation, with a router added), [CLAIM-278](record/claims.d/CLAIM-278.md) (evidence reported for the objection) and [CASE-157](record/cases.d/CASE-157.md) (an independent convergence).
+- After the readings of 2026-10-25: the notes of the same day on [CLAIM-446](record/claims.d/CLAIM-446.md) (the avoid-only phrase made exact, two variants with suppressed feedback and a dominated check, the floor sufficient but not required; [THEORY-962](record/theory.d/THEORY-962.md) added to grounds), [CLAIM-357](record/claims.d/CLAIM-357.md) (the target and distance Kwon and Perchet use), [QUESTION-031](record/questions.d/QUESTION-031.md) (the criteria named, and one decision family answered), [CLAIM-123](record/claims.d/CLAIM-123.md) (A45's step as MultiDiffusion's, and an average is not a sum) and [CLAIM-336](record/claims.d/CLAIM-336.md) (A45's distinction mapped onto the two papers) extended; dated notes on [THEORY-405](record/theory.d/THEORY-405.md) (compositions that average) and [THEORY-611](record/theory.d/THEORY-611.md) (guided fields combined convexly); [CASE-159](record/cases.d/CASE-159.md) (a worked D-optimal probe design), [CASE-158](record/cases.d/CASE-158.md) (prior art for the fixed arm), [QUESTION-273](record/questions.d/QUESTION-273.md) (the third mechanism's published forms) and [CASE-160](record/cases.d/CASE-160.md) (aperiodicity in discrete time) amended.
+- After the reading of Lattimore and Szepesvári: [LIT-1528](record/literature.d/LIT-1528.md), [NOTE-1164](record/notes.d/NOTE-1164.md), [THEORY-962](record/theory.d/THEORY-962.md), [THEORY-964](record/theory.d/THEORY-964.md), [QUESTION-272](record/questions.d/QUESTION-272.md) and [CLAIM-446](record/claims.d/CLAIM-446.md) (the easy case is k ≤ Hc/(H + c), and the construction is the paper's spam game) updated.
+- After the readings of Wald and DeGroot from the owner's copies: [CLAIM-453](record/claims.d/CLAIM-453.md) (the SPRT link read in the primary source, the connectivity condition made DeGroot's single closed class, and the three new THEORYs added to grounds) and [CASE-160](record/cases.d/CASE-160.md) (ℓ as DeGroot's Theorem 3, aperiodicity as his own statement, and a W with one closed class and transient members covered) amended; [CASE-155](record/cases.d/CASE-155.md)'s note of the same day sharpened (the walk is Wald's Z_m, and the limit is not his statement); dated notes on [THEORY-068](record/theory.d/THEORY-068.md) (optimality up to the overshoot, and the limit as the case where Wald's formulas are exact) and [THEORY-321](record/theory.d/THEORY-321.md) (DeGroot's original conditions); the curation entry and the workbench entry of the session updated to say both works were read and are Active; and [ADR-053](record/decisions.d/ADR-053.md)'s Wald bullet updated.
+- After the reading of Isaac ([LIT-1361](record/literature.d/LIT-1361.md)): [NOTE-1060](record/notes.d/NOTE-1060.md) and [NOTE-1054](record/notes.d/NOTE-1054.md) (stale text and inactive-ok comments calling it Unavailable or unreached updated), [QUESTION-255](record/questions.d/QUESTION-255.md) (the same fix, and a dated note: its dynamical structure is material for kind (1), not kind (2)) and [QUESTION-254](record/questions.d/QUESTION-254.md) (a dated note: a structural mark of a perspective, with no criterion against a perspective-free invariant extractor); dated notes on [CLAIM-412](record/claims.d/CLAIM-412.md) (Isaac addresses character only, and his layers are a structural analogue of interpretive organization; no grounds added), [THEORY-880](record/theory.d/THEORY-880.md) (a structuralist who cites Lyre and denies that geometry suffices), [THEORY-867](record/theory.d/THEORY-867.md) (not a similarity structuralist; his DKL case bears on the test, not the premise), [THEORY-868](record/theory.d/THEORY-868.md) (the methodological structuralism Negro allows), [CLAIM-138](record/claims.d/CLAIM-138.md) (Newman set aside, relations fixed by named behavioural procedures: a further instance of the remedy) and [CLAIM-368](record/claims.d/CLAIM-368.md) (the tea towel, an analogy for managing a frustrated demand by altering the field).
+
+### Added
+
+- Five works on the rubber hand illusion and bodily self-consciousness, each
+  with a LIT and a full-reading NOTE: Botvinick & Cohen 1998, Lenggenhager
+  et al. 2007, Blanke & Metzinger 2009, Apps & Tsakiris 2014 and Seth 2013.
+  They supply the evidence behind claim C6 of [NOTE-372](record/notes.d/NOTE-372.md), and link the
+  record's interoception holdings to body ownership.
+- Four Proposed THEORYs from that batch: the rubber hand synchrony effect;
+  ownership as a graded belief about the common cause of multisensory
+  input; interoceptive signals in body ownership; and minimal selfhood as
+  identification with the whole body, with agency only enabling it.
+- Nine experimental works building on the rubber hand illusion, each read
+  in full: the suggestion debate (Lush 2020; Lush et al. 2020; Ehrsson et
+  al. 2022; Lush & Seth 2022; Roseboom & Lush 2022), two studies separating
+  proprioceptive drift from ownership (Rohde et al. 2011; Abdulkarim &
+  Ehrsson 2016), Longo et al. 2008 and Kalckert & Ehrsson 2012.
+- Six more: Hohwy & Paton 2010 and Alsmith & Longo 2014, experiments by
+  philosophers on the rubber hand and on self-location; and folk-concept
+  experimental philosophy on where the self is (Starmans & Bloom 2012),
+  personal identity (Nichols & Bruno 2010) and whether pain is in the body
+  (Reuter, Sienhold & Sytsma 2019; Borg et al. 2020).
+
+### Changed
+
+- The rubber hand synchrony THEORY is Rejected by its own refutation
+  condition and corrected by a narrower one about reports. The other three
+  rubber-hand THEORYs take tighter promotion tests that control for
+  expectation.
+- The rubber hand THEORY on ownership as a graded belief notes that the
+  cooling evidence its source cites is thinner than cited.
+- [THEORY-458](record/theory.d/THEORY-458.md) takes Kalckert & Ehrsson 2012 as a source and records one
+  refutation route as closed, subject to an expectation control. [THEORY-531](record/theory.d/THEORY-531.md)
+  notes that ordinary verdicts on Williams's two tellings do not follow
+  the person of the telling (Nichols & Bruno 2010).
+
+### Added
+
+- [QUESTION-251](record/questions.d/QUESTION-251.md), Answered, split off [QUESTION-120](record/questions.d/QUESTION-120.md) under [ADR-049](record/decisions.d/ADR-049.md). The
+  distance and sparse-recovery thresholds share one sufficiency proof, a
+  per-vector tail and a union bound, and not a necessity proof
+  ([THEORY-397](record/theory.d/THEORY-397.md), [THEORY-390](record/theory.d/THEORY-390.md), [THEORY-395](record/theory.d/THEORY-395.md), [THEORY-399](record/theory.d/THEORY-399.md), [THEORY-391](record/theory.d/THEORY-391.md)).
+
+### Changed
+
+- [QUESTION-120](record/questions.d/QUESTION-120.md) is reworded to what its child leaves open. The five
+  THEORYs' `answers` links move to the child.
+
+### Fixed
+
+- [QUESTION-217](record/questions.d/QUESTION-217.md) loses a stale comment that listed [CLAIM-394](record/claims.d/CLAIM-394.md) and [THEORY-775](record/theory.d/THEORY-775.md)
+  as inactive; both are Active.
+
+### Added
+
+- Three more QUESTIONs marked Answered, the first answered by Active
+  THEORYs, each split off a partly answered parent under [ADR-049](record/decisions.d/ADR-049.md):
+  - [QUESTION-249](record/questions.d/QUESTION-249.md), from [QUESTION-010](record/questions.d/QUESTION-010.md): a map that keeps nothing about
+    a categorical concept A keeps at most H(X|A) about X, and when it
+    keeps that much ([THEORY-281](record/theory.d/THEORY-281.md)).
+  - [QUESTION-247](record/questions.d/QUESTION-247.md), from [QUESTION-055](record/questions.d/QUESTION-055.md): over a presheaf of contexts,
+    negation is the Heyting pseudo-complement the base category fixes,
+    not an orthocomplement ([THEORY-516](record/theory.d/THEORY-516.md), [THEORY-037](record/theory.d/THEORY-037.md)).
+  - [QUESTION-246](record/questions.d/QUESTION-246.md), from [QUESTION-067](record/questions.d/QUESTION-067.md): what a Kochen–Specker failure
+    refutes, as against a generalized-noncontextuality failure, and that
+    the generalized notion is strictly broader ([THEORY-011](record/theory.d/THEORY-011.md), [THEORY-015](record/theory.d/THEORY-015.md),
+    [THEORY-016](record/theory.d/THEORY-016.md), [THEORY-231](record/theory.d/THEORY-231.md), [THEORY-559](record/theory.d/THEORY-559.md)).
+
+### Changed
+
+- [QUESTION-055](record/questions.d/QUESTION-055.md) and [QUESTION-067](record/questions.d/QUESTION-067.md) are reworded to what their children leave
+  open. [QUESTION-010](record/questions.d/QUESTION-010.md)'s title is unchanged. The eight THEORYs' `answers`
+  links move to the children. [QUESTION-055](record/questions.d/QUESTION-055.md) no longer calls [THEORY-037](record/theory.d/THEORY-037.md)'s
+  Heyting laws unchecked, and [QUESTION-067](record/questions.d/QUESTION-067.md)'s "What the record holds" now
+  lists [THEORY-231](record/theory.d/THEORY-231.md), [THEORY-315](record/theory.d/THEORY-315.md) and [THEORY-559](record/theory.d/THEORY-559.md).
+
+### Added
+
+- The first QUESTIONs marked Answered, each split off a partly answered
+  parent under [ADR-049](record/decisions.d/ADR-049.md):
+  - [QUESTION-240](record/questions.d/QUESTION-240.md), from [QUESTION-022](record/questions.d/QUESTION-022.md): restriction-compatible kernels
+    preserve overlap consistency, and kernels from one global kernel
+    preserve global extendability ([CLAIM-121](record/claims.d/CLAIM-121.md), [CLAIM-070](record/claims.d/CLAIM-070.md)).
+  - [QUESTION-241](record/questions.d/QUESTION-241.md), from [QUESTION-100](record/questions.d/QUESTION-100.md): when the linearized symmetric
+    state is unstable, and that independent scoring removes it
+    ([CLAIM-330](record/claims.d/CLAIM-330.md)).
+  - [QUESTION-239](record/questions.d/QUESTION-239.md), from [QUESTION-121](record/questions.d/QUESTION-121.md): commitment before evidence is
+    not Regime B ([CLAIM-340](record/claims.d/CLAIM-340.md)).
+
+### Changed
+
+- [QUESTION-022](record/questions.d/QUESTION-022.md) and [QUESTION-100](record/questions.d/QUESTION-100.md) are reworded to what their children leave
+  open. [QUESTION-121](record/questions.d/QUESTION-121.md)'s title is unchanged. The four CLAIMs' `answers`
+  links move to the children.
+
+### Added
+
+- Three Answered QUESTIONs, each split off a partly answered parent under
+  [ADR-049](record/decisions.d/ADR-049.md), on Active THEORYs:
+  - [QUESTION-245](record/questions.d/QUESTION-245.md), from [QUESTION-052](record/questions.d/QUESTION-052.md): for linear decisions at the
+    population level, the top eigenspace is a stable, minimax-optimal
+    span for symmetric pairs, and the top left singular span takes that
+    role for directed ones ([THEORY-007](record/theory.d/THEORY-007.md), [THEORY-228](record/theory.d/THEORY-228.md), [THEORY-239](record/theory.d/THEORY-239.md),
+    [THEORY-319](record/theory.d/THEORY-319.md)).
+  - [QUESTION-250](record/questions.d/QUESTION-250.md), from [QUESTION-093](record/questions.d/QUESTION-093.md): a macro description can have an
+    effective-information advantage without organizational closure or
+    self-individuation ([THEORY-222](record/theory.d/THEORY-222.md)).
+  - [QUESTION-243](record/questions.d/QUESTION-243.md), from [QUESTION-115](record/questions.d/QUESTION-115.md): retention tracks association,
+    not propagation, and Ψ and dynamical independence diverge, detect no
+    interaction and price no size ([THEORY-424](record/theory.d/THEORY-424.md), [THEORY-764](record/theory.d/THEORY-764.md)).
+
+### Changed
+
+- [QUESTION-052](record/questions.d/QUESTION-052.md), [QUESTION-093](record/questions.d/QUESTION-093.md) and [QUESTION-115](record/questions.d/QUESTION-115.md) are reworded to what their
+  children leave open. The seven THEORYs' `answers` links move to the
+  children.
+- [THEORY-239](record/theory.d/THEORY-239.md) no longer says the directed case on one space is unworked.
+  Its note of 2026-10-19 works it.
+
+### Added
+
+- Three QUESTIONs marked Answered, split off partly answered parents
+  under [ADR-049](record/decisions.d/ADR-049.md):
+  - [QUESTION-244](record/questions.d/QUESTION-244.md), from [QUESTION-220](record/questions.d/QUESTION-220.md): information-bottleneck optima at
+    two budgets need not nest ([CLAIM-387](record/claims.d/CLAIM-387.md), [CLAIM-392](record/claims.d/CLAIM-392.md)).
+  - [QUESTION-242](record/questions.d/QUESTION-242.md), from [QUESTION-221](record/questions.d/QUESTION-221.md): exact closure of an aggregate
+    does not require a nearly decomposable block ([CLAIM-388](record/claims.d/CLAIM-388.md)).
+  - [QUESTION-248](record/questions.d/QUESTION-248.md), from [QUESTION-222](record/questions.d/QUESTION-222.md): a scalar linear coarse variable
+    of a linear Gaussian VAR(1) has an exact finite Markovian
+    augmentation ([CLAIM-398](record/claims.d/CLAIM-398.md)).
+
+### Changed
+
+- [QUESTION-220](record/questions.d/QUESTION-220.md), 221 and 222 are reworded to what their children leave
+  open. The four CLAIMs' `answers` links move to the children.
+
+### Added
+
+- [THEORY-739](record/theory.d/THEORY-739.md), Active: for word2vec's quartic proxy with tied weights
+  and symmetric reweighting, the rank-d minimisers are the top eigenvectors
+  of M*, and from an aligned start each is acquired in a logistic rise, in
+  order of eigenvalue. Split from [THEORY-182](record/theory.d/THEORY-182.md), re-derived.
+- [THEORY-740](record/theory.d/THEORY-740.md), Active: a two-layer linear network from a decoupled,
+  balanced start learns its correlation's singular modes one at a time in
+  order of strength, while one layer learns them all on one timescale.
+  Split from [THEORY-186](record/theory.d/THEORY-186.md), re-derived.
+- [THEORY-738](record/theory.d/THEORY-738.md), Active: the unconstrained-features max-margin geometry
+  under step imbalance is simplex-encoded-label interpolation, and the
+  simplex ETF only for balanced or binary data. Split from [THEORY-286](record/theory.d/THEORY-286.md),
+  re-derived by a dual certificate.
+
+### Changed
+
+- [THEORY-182](record/theory.d/THEORY-182.md), [THEORY-186](record/theory.d/THEORY-186.md) and [THEORY-286](record/theory.d/THEORY-286.md) extend the new entries and keep
+  their unproved parts, Proposed, with their promote_whens unchanged. These
+  changes carry out the promotion audit's batch-024 decisions ([ADR-047](record/decisions.d/ADR-047.md)).
+
+[THEORY-109](record/theory.d/THEORY-109.md)'s formal core, Kuditipudi et al.'s Theorem 1 that ε-dropout-stable ReLU solutions are ε-connected, with Draxler et al.'s concatenation bound, is split into [THEORY-736](record/theory.d/THEORY-736.md) and filed Active (promotion audit, batch 030). [THEORY-109](record/theory.d/THEORY-109.md) extends it and stays Proposed for the claim that training's solutions form one connected set.
+
+[THEORY-209](record/theory.d/THEORY-209.md)'s exact result, Kunin et al.'s stationary state of SGD with momentum on linear regression with Hessian-proportional noise, is split off as a new Active THEORY after the promotion audit re-derived it. [THEORY-209](record/theory.d/THEORY-209.md) keeps the claim that converged deep networks are in that state and stays Proposed. A dated note corrects "broken detailed balance": in the model the current is reversible.
+
+### Added
+
+- At the owner's direction, valence as ordering-potential:
+  - a term: goal-conduciveness valence as a regime in which an ordering of a system's own states by their bearing on its maintenance prevails in the negotiation among its perspectives ([TERM-076](record/terms.d/TERM-076.md));
+  - the owner's thesis: appraisal is that negotiation, a common currency is its admitting an ordering, valence presupposes frustration, sign is progress against a reference course, intensity is the potential's strength, and ambivalence differs from neutrality ([CLAIM-440](record/claims.d/CLAIM-440.md));
+  - a demonstrated claim: on finite options an ordering is a currency; the lexicographic order of the square has none; a continuous ordering has a continuous one (Eilenberg; Debreu); a threshold override has a discontinuous one ([CLAIM-436](record/claims.d/CLAIM-436.md));
+  - Veit's currency and ALARM's override recast as continuous and overriding potential, with a trade-off test ([CLAIM-435](record/claims.d/CLAIM-435.md));
+  - two questions: how potential is measured ([QUESTION-268](record/questions.d/QUESTION-268.md)), and whether potential of a proxy for maintenance is valence ([QUESTION-267](record/questions.d/QUESTION-267.md)).
+  - a question on operationalizing felt valence in three independently measured layers ([QUESTION-266](record/questions.d/QUESTION-266.md)), and a candidate claim: valence is felt when the system models its own potential ([CLAIM-439](record/claims.d/CLAIM-439.md));
+  - Berridge's liking–wanting dissociation ([THEORY-893](record/theory.d/THEORY-893.md)), and from it an objection that potential tracks wanting, not liking ([CLAIM-438](record/claims.d/CLAIM-438.md)).
+  - a reply conceding that objection in a principled form, on the component process model's levels of valence: the account is of goal-conduciveness valence ([CLAIM-433](record/claims.d/CLAIM-433.md)).
+  - incentive sensitization ([THEORY-895](record/theory.d/THEORY-895.md)), and notes on [CLAIM-433](record/claims.d/CLAIM-433.md) and [QUESTION-267](record/questions.d/QUESTION-267.md) relating it and a taxonomy of addictive design features to the account.
+  - the owner's claim that 'wanting' and 'liking' are saliences relative to different processes, with valence relative to a perspective ([CLAIM-437](record/claims.d/CLAIM-437.md));
+  - a demonstrated claim: a potential exists exactly when winning moves never cycle; a transitive binary record's cyclic share is (n − 2)/3n in a complete tournament but not on a sparse graph; the Hodge gradient can reverse a comparison the wins settle; netting erases alternation; a record fixes a class of potentials; coherence is not alignment ([CLAIM-434](record/claims.d/CLAIM-434.md));
+  - two terms carrying the hierarchy a review proposed: ordinal potential ([TERM-077](record/terms.d/TERM-077.md)) and persistent potential ([TERM-078](record/terms.d/TERM-078.md)), under goal-conduciveness valence and the felt candidate;
+  - synthetic cases for each measure, in scratch/formal/valence.py.
+- Forty new works in six batches, and a note on [NOTE-1063](record/notes.d/NOTE-1063.md) relating the beautiful-loop reading to the felt candidate. A curation entry.
+
+### Changed
+
+- After a review of the pull request, before merge: a common currency means only the weakest ordinal sense, as against scalar currency and cardinal trade-off structure; existence, coherence and intensity are ordinal, and the Hodge decomposition measures only cardinal inconsistency; valence is undefined without contested pairs; ambivalence is read in windows, not in a netted record, against a graph-preserving null model; the potential is reported as a class and identified by intervention; and the predicted coincidence of pleasantness and goal conduciveness is made conditional ([TERM-076](record/terms.d/TERM-076.md), [CLAIM-440](record/claims.d/CLAIM-440.md), [QUESTION-268](record/questions.d/QUESTION-268.md), [QUESTION-266](record/questions.d/QUESTION-266.md)).
+- After a second review, before merge: the first level renamed ordinal extendibility, since acyclic wins show only that some complete ordering fits them ([TERM-077](record/terms.d/TERM-077.md)); an approximate persistent potential separated from an exact one, which alone is a Lyapunov function ([TERM-078](record/terms.d/TERM-078.md)); sign and intensity set-valued across the class of potentials, and a selected ordering scored on held-out contests ([TERM-076](record/terms.d/TERM-076.md)); three more parts of [CLAIM-434](record/claims.d/CLAIM-434.md) and four more cases in scratch/formal/valence.py.
+- At the owner's direction, the thesis and its term revised before merge from "hedonic" to "goal-conduciveness" valence, and the wanting–liking objection conceded.
+- "Dominance" renamed "potential" throughout the line, to avoid the pleasure–arousal–dominance and decision-theoretic senses.
+- [CLAIM-432](record/claims.d/CLAIM-432.md)'s defeater corrected: [THEORY-101](record/theory.d/THEORY-101.md) threatens it only joined to a denial that a corporation is conscious. A dated note relates it to valence as ordering-potential.
+- Dated notes on [THEORY-101](record/theory.d/THEORY-101.md) and [THEORY-090](record/theory.d/THEORY-090.md) recasting their rivalry.
+
+### Changed
+
+- [ADR-043](record/decisions.d/ADR-043.md) v2: `warrant` records how a claim is supported now, not how it
+  would have to be settled. That is the owner's decision on the promotion
+  audit's batch 028 question. An untested empirical generalization stays
+  interpretive until the record holds the observations.
+- [CLAIM-052](record/claims.d/CLAIM-052.md)'s warrant is restored to interpretive, reversing [#204](https://github.com/dmarx/nucleation/issues/204). The
+  record holds no observation of the framing-order effect it predicts.
+  It is still Proposed.
+
+### Added
+
+- At the owner's direction, from a comparison of the will-organization and affect lines:
+  - a claim: emotion is on the claim side of the gap between claimed precedence and granted authority, a perspective's valence on its claims, the system's valence on grants, so suspension changes the system's valence and not the perspectives' ([CLAIM-442](record/claims.d/CLAIM-442.md));
+  - an objection: flow, with nothing contested, has undefined valence on the potential account yet is reported as positive, with four exits ([CLAIM-441](record/claims.d/CLAIM-441.md));
+  - a question: does the potential account need accessibility, jurisdiction, suspension and transformation beside who wins ([QUESTION-269](record/questions.d/QUESTION-269.md));
+  - a decision: the record's own argument is stated ordinally first, with a measure's cardinality stated and partial identification reported as a result ([ADR-052](record/decisions.d/ADR-052.md)).
+- A dated note on [QUESTION-267](record/questions.d/QUESTION-267.md) reading a proxy-keyed potential as a protective lock-in.
+
 <!-- luria-insert-here -->

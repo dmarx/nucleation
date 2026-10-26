@@ -1,1 +1,0 @@
-<!-- THEORY-030, THEORY-133 and THEORY-163 are narrowed and promoted by the promotion audit (batch 047). THEORY-030 and THEORY-133 carry re-derivations that correct their titles; THEORY-163 is held to the World Color Survey languages and English. Their promote_whens move to three new QUESTIONs. -->

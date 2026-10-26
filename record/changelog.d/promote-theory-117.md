@@ -1,1 +1,0 @@
-<!-- THEORY-117 is narrowed and promoted by the promotion audit (batch 047): Uselis, Dittadi and Oh's measured result with oracle checkpoint selection named, and a re-derived determination clause that makes "suitably arranged" a connectivity condition. Its promote_when moves to a new QUESTION. -->

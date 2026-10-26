@@ -1,1 +1,0 @@
-The narrowing-loss sweep ([ADR-047](record/decisions.d/ADR-047.md) v4, batch 068) files the wider claims five narrowed THEORYs had dropped as new Proposed THEORYs: E. coli regulatory memory, the data-limited horizon mechanism, optimizer-driven skill order, grokking's critical fraction for addition, and SGD noise toward mirror subspaces.

@@ -1,1 +1,0 @@
-<!-- Narrowing-loss sweep, batch 072 (ADR-047 v4): three Proposed THEORYs carry the wider claims dropped when THEORY-365, -472 and -026 were narrowed; the narrowed entries get dated notes. THEORY-362 and -377 dropped nothing and get no carrier. -->

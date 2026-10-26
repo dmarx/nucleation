@@ -1,1 +1,0 @@
-<!-- THEORY-379 (Fagin's Algorithm) is narrowed to its re-derived upper bound and correctness and promoted, with Fagin's lower bound filed as a Proposed THEORY; THEORY-412's exact identity (Perunov, Marsland and England's Eq. 8) is split off as an Active THEORY. -->

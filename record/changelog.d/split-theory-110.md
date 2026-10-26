@@ -1,1 +1,0 @@
-<!-- Lin et al.'s toy-model star-connectivity theorems are split from THEORY-110 into a new Active THEORY after re-derivation in the promotion audit (batch 044); THEORY-110 keeps its conjecture and records that Theorem 10's bound is not derived. -->

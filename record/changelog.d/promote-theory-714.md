@@ -1,1 +1,0 @@
-<!-- THEORY-714 (Ince's I_ccs) is corrected and promoted: the definition and its properties were re-derived, and subset equality, which the paper proves, fails because the proof skips the sign rule. NOTE-968 and LIT-1201 carry dated corrections, and the open question of whether I_ccs is the right measure moves to a new QUESTION. -->

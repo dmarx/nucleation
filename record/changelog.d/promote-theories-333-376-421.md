@@ -1,1 +1,0 @@
-<!-- Promotion audit batch 073: THEORY-333 (database cracking) promoted, THEORY-376 (semantic caching) and THEORY-421 (hyperbolic level ordering, now HGCN only) narrowed and promoted on their one study each; the general hyperbolic-embedding claim THEORY-421 dropped is filed as a new Proposed THEORY, and the two other promotion conditions move to new QUESTIONs. -->

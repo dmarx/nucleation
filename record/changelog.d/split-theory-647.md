@@ -1,1 +1,0 @@
-<!-- THEORY-647's conditional result in relative analysis (conjunction of standardly many beliefs is believed; for ultralarge many it can fail) is split off as an Active THEORY, re-derived by the promotion audit (batch 078); THEORY-647 keeps the thesis about belief and stays Proposed. -->
