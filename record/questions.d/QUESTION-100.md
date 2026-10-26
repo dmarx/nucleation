@@ -19,7 +19,7 @@ history:
   date: '2026-10-26'
   note: >-
     A dated note added: a nonlinear fold with history dependence, and
-    capture without fidelity in a population (CASE-tmpr1vuv), neither of
+    capture without fidelity in a population (CASE-162), neither of
     them CASE-092. The question is unchanged.
 tags:
 - self-governance
@@ -81,9 +81,9 @@ regime.
 
 ## Note of 2026-10-26: a nonlinear fold, and capture in a population
 
-<!-- inactive-ok-file: CASE-tmpr1vuv — Proposed; the lab's capture runs filed 2026-10-26, cited as bearing on the remainder, not as answering it -->
+<!-- inactive-ok-file: CASE-162 — Proposed; the lab's capture runs filed 2026-10-26, cited as bearing on the remainder, not as answering it -->
 
-[CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md) bears on the remainder without answering it
+[CASE-162](../cases.d/CASE-162.md) bears on the remainder without answering it
 (dmarx/PerspectiveLab@7e2edc2).
 
 - In a four-variable model of authority, record and competence, with no

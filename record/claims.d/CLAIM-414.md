@@ -28,7 +28,7 @@ history:
     A dated note added: the maintenance separation carried to a
     32-member population under a different production law (CASE-
     tmpfmdj6), and mechanisms identified from probes within a known
-    catalog (CASE-tmpw6jjd). The claim is unchanged.
+    catalog (CASE-163). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -67,8 +67,8 @@ summary: >-
   about boundaries, applied to interpretation.
 illustrated_by:
 - CASE-126
-- CASE-tmpfmdj6
-- CASE-tmpw6jjd
+- CASE-161
+- CASE-163
 supports:
 - CLAIM-427
 ---
@@ -163,9 +163,9 @@ its construction meets that claim's conditions (A) and (B).
 
 ## Note of 2026-10-26: the maintenance separation in a population
 
-<!-- inactive-ok-file: CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as illustrations, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as illustrations, nothing here rests on them -->
 
-[CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md) carries the claim's second construction to a stochastic
+[CASE-161](../cases.d/CASE-161.md) carries the claim's second construction to a stochastic
 population of 32 members (dmarx/PerspectiveLab@7e2edc2): external reset,
 reciprocal production by two producer teams, and feedback only, with
 ordinary trajectories required by test to be identical. Loss of one rule,
@@ -176,7 +176,7 @@ differs from [CASE-126](../cases.d/CASE-126.md)'s. There one perturbation runs t
 and fails only on double loss or a long producer outage. The claim's
 point holds under both laws.
 
-[CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md) bears on the claim's second limit, that knowing the
+[CASE-163](../cases.d/CASE-163.md) bears on the claim's second limit, that knowing the
 mechanisms tells the systems apart. Within a catalog of four known
 mechanisms, an audit pulse with a short producer interruption identifies
 which one applies in every reference run and predicts interventions

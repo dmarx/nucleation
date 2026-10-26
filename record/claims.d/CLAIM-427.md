@@ -107,13 +107,13 @@ A4's table, which the claim adopts:
 
 ## Note of 2026-10-26: where the lab stands on the grades
 
-<!-- inactive-ok-file: CASE-tmpwxgtj CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as where the evidence stands, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-164 CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as where the evidence stands, nothing here rests on them -->
 
 The Perspective Population Lab's later versions meet the first two
 grades within synthetic constructions and do not reach the third.
 Matched ordinary behaviour with different responses to specified
-interventions is [CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md) in a 32-member population and
-[CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md) exactly. [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md) predicts withheld interventions from
+interventions is [CASE-161](../cases.d/CASE-161.md) in a 32-member population and
+[CASE-164](../cases.d/CASE-164.md) exactly. [CASE-163](../cases.d/CASE-163.md) predicts withheld interventions from
 probes, but its forecaster is given the four candidate mechanisms and
 their equations, and every probe runs on a counterfactual reset.
 

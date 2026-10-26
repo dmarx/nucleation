@@ -167,7 +167,7 @@ spectrum, and the ruling on levels.
 
 ## Note of 2026-10-26: history against state, in finite chains
 
-<!-- inactive-ok-file: CASE-tmpwxgtj — Proposed; the 192-state construction filed 2026-10-26, cited as bearing on the question, not as answering it -->
+<!-- inactive-ok-file: CASE-164 — Proposed; the 192-state construction filed 2026-10-26, cited as bearing on the question, not as answering it -->
 
 Three results from the Perspective Population Lab:
 
@@ -176,7 +176,7 @@ Three results from the Perspective Population Lab:
   hidden lag, the current macrostate has a one-step defect of 0.2781 bits,
   and with one lag 0. A finite augmentation from the coarse variable's own
   history, outside the linear Gaussian class.
-- **History does not stand in for state** ([CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md)). In a 192-state
+- **History does not stand in for state** ([CASE-164](../cases.d/CASE-164.md)). In a 192-state
   organization, authority's finite-history defect falls from 0.147 bits at
   h = 1 to 0.132 at h = 6 and levels off, while the agents are closed with
   no history.

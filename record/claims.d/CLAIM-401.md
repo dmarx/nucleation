@@ -9,9 +9,9 @@ history:
 - version: 2
   date: '2026-10-26'
   note: >-
-    A dated note added: on one exactly known kernel (CASE-tmpwxgtj) the
+    A dated note added: on one exactly known kernel (CASE-164) the
     kinds of condition come apart as the claim says, and identification
-    by probes (CASE-tmpw6jjd) separates class, parameters and budget.
+    by probes (CASE-163) separates class, parameters and budget.
     The claim is unchanged.
 role: thesis
 warrant: interpretive
@@ -119,9 +119,9 @@ by moving the goalposts", applied to the axes.
 
 ## Note of 2026-10-26: one kernel, several verdicts
 
-<!-- inactive-ok-file: CASE-tmpwxgtj CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as witnesses, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-164 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as witnesses, nothing here rests on them -->
 
-[CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md) computes on one exactly known 192-state kernel conditions
+[CASE-164](../cases.d/CASE-164.md) computes on one exactly known 192-state kernel conditions
 this claim says are of different kinds, and they come apart as it says.
 
 - **Relations of the representation to the system.** The agents with
@@ -138,7 +138,7 @@ this claim says are of different kinds, and they come apart as it says.
   experiments/closure_estimation/). The same test of sufficiency passes or
   fails with the sample.
 
-In [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md), identifying a mechanism's class and recovering its
+In [CASE-163](../cases.d/CASE-163.md), identifying a mechanism's class and recovering its
 parameters are separate verdicts, and each depends on what probes the
 budget allows. These are witnesses of the distinctions in one stipulated
 model, not an argument for the classification. The claim is unchanged.

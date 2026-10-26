@@ -58,7 +58,7 @@ supports:
 - CLAIM-406
 - CLAIM-443
 illustrated_by:
-- CASE-tmpr1vuv
+- CASE-162
 ---
 <!-- inactive-ok-file: CLAIM-403 CLAIM-406 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-927 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->

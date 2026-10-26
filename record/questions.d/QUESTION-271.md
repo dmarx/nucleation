@@ -16,8 +16,8 @@ history:
   note: >-
     A dated note added: CASE-158's arms for failures 3 and 4 run in
     proxy form, filtering of tests run in a population with a known-
-    propensity correction (CASE-tmpr1vuv), and the cost of a diagnostic
-    (CASE-tmpw6jjd). The question is unchanged.
+    propensity correction (CASE-162), and the cost of a diagnostic
+    (CASE-163). The question is unchanged.
 tags:
 - self-governance
 - game-theory
@@ -127,16 +127,16 @@ unchanged.
 
 ## Note of 2026-10-26: two failures run, in weakened form
 
-<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpw6jjd THEORY-932 — Proposed; the lab's runs filed 2026-10-26 and the reading on inverse-frequency weighting, cited as bearing on failures 3 and 4, not as answering them -->
+<!-- inactive-ok-file: CASE-162 CASE-163 THEORY-932 — Proposed; the lab's runs filed 2026-10-26 and the reading on inverse-frequency weighting, cited as bearing on failures 3 and 4, not as answering them -->
 
-- **Proxies in [CASE-158](../cases.d/CASE-158.md)'s design** (v1.1, [CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md),
+- **Proxies in [CASE-158](../cases.d/CASE-158.md)'s design** (v1.1, [CASE-162](../cases.d/CASE-162.md),
   dmarx/PerspectiveLab@7e2edc2). An evaluator scored 80% on agreement
   with the current mixture stands in for capture, and audits attributed to
   one specialist per receiver stand in for bandit feedback. The lab's own
   report says both are weaker than the real failures. The router faces
   the same audit delay and cost, and has the lower error in all four
   cells. Under 80% capture neither recovers on any seed.
-- **Filtered tests** (v1.3, [CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md)). When admission of cues
+- **Filtered tests** (v1.3, [CASE-162](../cases.d/CASE-162.md)). When admission of cues
   depends on the incumbent's record, 41 of 64 worlds keep the worse
   alternative in charge at s = 0.75 and at s = 1, with no self-scoring.
   Weighting by the exact inverse admission propensity brings that to 0
@@ -144,7 +144,7 @@ unchanged.
   filtering, and it works only with known propensities that stay
   positive. It does not undo self-scoring: 39 of 64 at c = 0.5 with
   nothing filtered, before and after.
-- **The cost of a diagnostic** (v2.1, [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md),
+- **The cost of a diagnostic** (v2.1, [CASE-163](../cases.d/CASE-163.md),
   dmarx/PerspectiveLab@9f82bfd). A probe that separates mechanisms costs
   damage, and a more damaging probe can be the less informative one.
 

@@ -198,16 +198,16 @@ untested. The claim is unchanged.
 
 ## Note of 2026-10-26: the lab held, and its later versions
 
-<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpwxgtj CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as what has been built, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-162 CASE-164 CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as what has been built, nothing here rests on them -->
 
 The Perspective Population Lab of the note of 2026-10-25 is now held:
 v1.0 as dmarx/PerspectiveLab@41e56df, and its successors at @7e2edc2
 (v1.1–v1.8) and @9f82bfd (v1.9–v2.2). The later versions build out the
 influence side of this claim's model: authority allocated under
-self-scoring and selected evidence ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md)), exact closure
-verdicts on a 192-state organization ([CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md)), and governing
-rules maintained by members and identified by probes ([CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md),
-[CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md)). None has a frame, a judgement or a meaning state beyond a
+self-scoring and selected evidence ([CASE-162](../cases.d/CASE-162.md)), exact closure
+verdicts on a 192-state organization ([CASE-164](../cases.d/CASE-164.md)), and governing
+rules maintained by members and identified by probes ([CASE-161](../cases.d/CASE-161.md),
+[CASE-163](../cases.d/CASE-163.md)). None has a frame, a judgement or a meaning state beyond a
 record of which of two alternatives the evidence favours, so none can
 derive a joint prediction of the two lines. The claim stays untested
 and is unchanged.

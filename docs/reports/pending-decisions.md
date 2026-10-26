@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**938 document(s) awaiting a decision.**
+**942 document(s) awaiting a decision.**
 
 ## LITs
 
-119 of the 938.
+119 of the 942.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -135,7 +135,7 @@
 
 ## THEORYs
 
-532 of the 938.
+532 of the 942.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -613,11 +613,11 @@
 | 2026-10-22 | Proposed | [THEORY-889](../../record/theory.d/THEORY-889.md) | 2 | 0 | Among white Southerners today, those living in counties where a larger share of the 1860 population was enslaved are somewhat less Democratic, less supportive of affirmative action, more racially resentful and colder toward black Americans, by about a tenth of a standard deviation per standard deviation of slave share; the difference is not accounted for by the present black share of the population, and in voting it appeared after Reconstruction rather than before the war, which supports its origin in the incentives that emancipation gave planters to repress black labor and votes, and its local transmission thereafter |
 | 2026-10-23 | Proposed | [THEORY-893](../../record/theory.d/THEORY-893.md) | 16 | 2 | Reward has separable components: 'liking', its hedonic impact, measurable without report by orofacial taste reactivity in humans, apes, monkeys and rodents, and 'wanting', its incentive salience; brain stimulation and sensitization can raise 'wanting' without raising 'liking', so motivation can grow while pleasure stays flat or falls, and 'liking' reactions can occur without any subjective feeling of pleasure |
 | 2026-10-23 | Proposed | [THEORY-896](../../record/theory.d/THEORY-896.md) | 13 | 0 | A finite game in strategic form has the finite improvement property, every path of strict unilateral improvements being finite, exactly when it has a generalized ordinal potential, a real function on strategy profiles that rises with every strict unilateral improvement; so in a finite game an ordering along which every improving move climbs exists exactly when there is no improvement cycle, and every sequence of improving moves ends at a pure equilibrium |
-| 2026-10-23 | Proposed | [THEORY-895](../../record/theory.d/THEORY-895.md) | 9 | 5 | Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while 'liking' need not rise and may fall; sensitized 'wanting' can oppose the person's cognitive desire and can run without any reportable change in feeling |
+| 2026-10-23 | Proposed | [THEORY-895](../../record/theory.d/THEORY-895.md) | 10 | 5 | Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while 'liking' need not rise and may fall; sensitized 'wanting' can oppose the person's cognitive desire and can run without any reportable change in feeling |
 | 2026-10-23 | Proposed | [THEORY-891](../../record/theory.d/THEORY-891.md) | 8 | 4 | In dyads of untrained dancers facing each other, shared music and visual contact each raise interpersonal movement synchrony, independently and in different movement components: lateral and hand movements synchronize through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drives a component's synchrony can be read from its spatial direction and not from the timing of the synchrony |
 | 2026-10-23 | Proposed | [THEORY-892](../../record/theory.d/THEORY-892.md) | 4 | 0 | Psychopathy as the PCL-R measures it is one dimensional construct rather than a type: its items form four correlated factors, interpersonal, affective, lifestyle and antisocial, explained by one superordinate factor, and its affective features are tied psychometrically, genetically and longitudinally to its antisocial ones, so that no one component is its essence |
 | 2026-10-24 | Proposed | [THEORY-899](../../record/theory.d/THEORY-899.md) | 14 | 1 | In an infinite, well-mixed population whose members each sample the quality of their own type, imitation of success has the expected update of a single Cross Learning bandit agent (the Taylor replicator dynamic), and the weighted voter model, in which members broadcast their type in proportion to their sample and adopt the first type they perceive, has the expected update of Maynard-Cross Learning, π_a ← π_a + (r_k / v^π)(1[a = k] − π_a), the Maynard-Smith replicator dynamic; the population vector is the policy and no member learns |
-| 2026-10-24 | Proposed | [THEORY-932](../../record/theory.d/THEORY-932.md) | 10 | 4 | The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is exact for frequency-adjusted Q-learning, not for Q-learning, whose expected update carries an extra factor of each action's selection probability and whose trajectories in 2×2 games depart from the model depending on initialization |
+| 2026-10-24 | Proposed | [THEORY-932](../../record/theory.d/THEORY-932.md) | 11 | 3 | The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is exact for frequency-adjusted Q-learning, not for Q-learning, whose expected update carries an extra factor of each action's selection probability and whose trajectories in 2×2 games depart from the model depending on initialization |
 | 2026-10-24 | Proposed | [THEORY-910](../../record/theory.d/THEORY-910.md) | 9 | 2 | Brown, Price and Dombrovski propose, without a model run or data, that in aversive environments avoiding uncertain states keeps their uncertainty high and so perpetuates avoidance, that anxiety strengthens this loop by misreading noise as change, and that exposure works by reducing the uncertainty rather than an excess of learned threat |
 | 2026-10-24 | Proposed | [THEORY-925](../../record/theory.d/THEORY-925.md) | 8 | 1 | In a cooperative stochastic game with decentralised actors and a centralised critic, a baseline for each agent that averages the critic's value over that agent's own alternative actions under its own policy, the other agents' actions held fixed, leaves the expected policy gradient unchanged, so each agent can be credited with the advantage of its actual action over that counterfactual average without a default action or an extra simulation; the counterfactual values come from the learned critic, not from the environment |
 | 2026-10-24 | Proposed | [THEORY-938](../../record/theory.d/THEORY-938.md) | 8 | 4 | Cross learning has the expected motion of the replicator dynamic and follows it on any finite horizon in the continuous-time limit, but for every learning speed the discrete process converges with probability one to a pure strategy profile, even in games where the replicator dynamic cycles |
@@ -674,7 +674,7 @@
 
 ## ADRs
 
-2 of the 938.
+2 of the 942.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -683,7 +683,7 @@
 
 ## QUESTIONs
 
-9 of the 938.
+9 of the 942.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -699,7 +699,7 @@
 
 ## CLAIMs
 
-262 of the 938.
+262 of the 942.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -853,7 +853,7 @@
 | 2026-10-12 | Proposed | [CLAIM-213](../../record/claims.d/CLAIM-213.md) | 3 | 2 | A proposed relational kind is a hypothesis about invariance across admissible changes of measurement and context, not an equivalence class under the measurements now available, so realism about kinds gains empirical content as extrapolation to probe families, populations and environments not used to construct them |
 | 2026-10-12 | Proposed | [CLAIM-205](../../record/claims.d/CLAIM-205.md) | 2 | 0 | A win over the static pragmatic profile shows that context matters, not that the transport formalism contributes: functional and relevance-theoretic accounts need not fix one context, so the rival the incremental thesis must beat is a strong contextual baseline of rich context-response profiles and supervised prediction |
 | 2026-10-12 | Proposed | [CLAIM-251](../../record/claims.d/CLAIM-251.md) | 2 | 0 | A change in which questions a receiver population can answer determinately is not by itself a change of cover in the sheaf sense: the cover belongs to the measurement scenario and the responses are an empirical model on it, so such a change is a change of empirical model, which can create or remove a gluing obstruction on a fixed cover but does not change what the cover is, and the operational notion needs its own name until a functorial link is shown |
-| 2026-10-13 | Proposed | [CLAIM-277](../../record/claims.d/CLAIM-277.md) | 61 | 10 | Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early |
+| 2026-10-13 | Proposed | [CLAIM-277](../../record/claims.d/CLAIM-277.md) | 62 | 10 | Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early |
 | 2026-10-13 | Proposed | [CLAIM-288](../../record/claims.d/CLAIM-288.md) | 49 | 4 | A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself |
 | 2026-10-13 | Proposed | [CLAIM-284](../../record/claims.d/CLAIM-284.md) | 36 | 0 | A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists |
 | 2026-10-13 | Proposed | [CLAIM-280](../../record/claims.d/CLAIM-280.md) | 30 | 5 | A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts |
@@ -861,8 +861,8 @@
 | 2026-10-13 | Proposed | [CLAIM-283](../../record/claims.d/CLAIM-283.md) | 23 | 12 | The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them |
 | 2026-10-13 | Proposed | [CLAIM-279](../../record/claims.d/CLAIM-279.md) | 21 | 2 | Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator |
 | 2026-10-13 | Proposed | [CLAIM-275](../../record/claims.d/CLAIM-275.md) | 19 | 7 | An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others |
+| 2026-10-13 | Proposed | [CLAIM-278](../../record/claims.d/CLAIM-278.md) | 17 | 3 | An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids |
 | 2026-10-13 | Proposed | [CLAIM-287](../../record/claims.d/CLAIM-287.md) | 17 | 4 | What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation |
-| 2026-10-13 | Proposed | [CLAIM-278](../../record/claims.d/CLAIM-278.md) | 16 | 3 | An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids |
 | 2026-10-13 | Proposed | [CLAIM-269](../../record/claims.d/CLAIM-269.md) | 14 | 7 | A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts |
 | 2026-10-13 | Proposed | [CLAIM-273](../../record/claims.d/CLAIM-273.md) | 11 | 1 | A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability |
 | 2026-10-13 | Proposed | [CLAIM-274](../../record/claims.d/CLAIM-274.md) | 11 | 1 | Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself |
@@ -872,11 +872,11 @@
 | 2026-10-13 | Proposed | [CLAIM-272](../../record/claims.d/CLAIM-272.md) | 8 | 0 | Giving every member an equal budget of actions does not equalize their influence, because coordination lets a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority |
 | 2026-10-13 | Proposed | [CLAIM-276](../../record/claims.d/CLAIM-276.md) | 8 | 3 | A shared interpretation's coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation's stability is no evidence of its truth |
 | 2026-10-13 | Proposed | [CLAIM-263](../../record/claims.d/CLAIM-263.md) | 6 | 5 | Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart |
-| 2026-10-13 | Proposed | [CLAIM-286](../../record/claims.d/CLAIM-286.md) | 4 | 1 | Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed |
+| 2026-10-13 | Proposed | [CLAIM-286](../../record/claims.d/CLAIM-286.md) | 5 | 1 | Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed |
 | 2026-10-15 | Proposed | [CLAIM-303](../../record/claims.d/CLAIM-303.md) | 122 | 80 | Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion |
 | 2026-10-15 | Proposed | [CLAIM-308](../../record/claims.d/CLAIM-308.md) | 44 | 30 | Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no deterministic rule without foresight does better, under fixed known costs and with staleness left out |
 | 2026-10-15 | Proposed | [CLAIM-296](../../record/claims.d/CLAIM-296.md) | 41 | 3 | What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them |
-| 2026-10-15 | Proposed | [CLAIM-297](../../record/claims.d/CLAIM-297.md) | 35 | 14 | When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence |
+| 2026-10-15 | Proposed | [CLAIM-297](../../record/claims.d/CLAIM-297.md) | 36 | 14 | When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence |
 | 2026-10-15 | Proposed | [CLAIM-295](../../record/claims.d/CLAIM-295.md) | 31 | 6 | A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not |
 | 2026-10-15 | Proposed | [CLAIM-298](../../record/claims.d/CLAIM-298.md) | 24 | 7 | A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged |
 | 2026-10-15 | Proposed | [CLAIM-326](../../record/claims.d/CLAIM-326.md) | 13 | 5 | With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order over finitely many states, and has A86's D_Q, with the identity on tasks, as its symmetrization |
@@ -953,9 +953,9 @@
 | 2026-10-23 | Proposed | [CLAIM-451](../../record/claims.d/CLAIM-451.md) | 29 | 7 | When an organization's record of winning moves cycles, the failure is organizational nonintegrability, distinct from a perspective's own preference instability and from switching of the governing regime; it becomes organizational tension only when realized as costly reversal against demands the organization maintains, and cognitive dissonance only when that tension is detected and appraised as aversive; learning can relieve it by accommodation, by entrenched precedence or by cheap periodic coordination, which observed coherence does not tell apart, and ambivalence and nonintegrability entail neither one another |
 | 2026-10-23 | Proposed | [CLAIM-445](../../record/claims.d/CLAIM-445.md) | 25 | 5 | A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed |
 | 2026-10-23 | Proposed | [CLAIM-433](../../record/claims.d/CLAIM-433.md) | 22 | 6 | The potential account of valence is an account of goal-conduciveness valence, not of intrinsic pleasantness: on the component process model's separation of levels of valence, the ordering that prevails ranks states by need satisfaction and goal attainment, the potential's strength tracks 'wanting' and its sign tracks goal conduciveness, while 'liking' is a separate appraisal with its own ordering; so the wanting–liking dissociation is two valence systems coming apart, as that separation predicts, and the objection that the account is not about pleasure is conceded rather than answered |
+| 2026-10-23 | Proposed | [CLAIM-437](../../record/claims.d/CLAIM-437.md) | 14 | 7 | 'Wanting' and 'liking' are saliences relative to different, overlapping processes, pursuit and consummation, each ranking states by their bearing on its own concerns; valence is then relative to a perspective, every perspective in the negotiation has its own, the system's valence is that of the perspective whose ordering is the negotiation's potential, and ambivalence is strong saliences of opposite sign with no potential absorbing them |
 | 2026-10-23 | Proposed | [CLAIM-432](../../record/claims.d/CLAIM-432.md) | 12 | 4 | A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters |
-| 2026-10-23 | Proposed | [CLAIM-437](../../record/claims.d/CLAIM-437.md) | 12 | 10 | 'Wanting' and 'liking' are saliences relative to different, overlapping processes, pursuit and consummation, each ranking states by their bearing on its own concerns; valence is then relative to a perspective, every perspective in the negotiation has its own, the system's valence is that of the perspective whose ordering is the negotiation's potential, and ambivalence is strong saliences of opposite sign with no potential absorbing them |
-| 2026-10-23 | Proposed | [CLAIM-427](../../record/claims.d/CLAIM-427.md) | 9 | 8 | Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms |
+| 2026-10-23 | Proposed | [CLAIM-427](../../record/claims.d/CLAIM-427.md) | 11 | 8 | Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms |
 | 2026-10-23 | Proposed | [CLAIM-426](../../record/claims.d/CLAIM-426.md) | 7 | 0 | Where a judgement's circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement's authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become |
 | 2026-10-23 | Proposed | [CLAIM-431](../../record/claims.d/CLAIM-431.md) | 2 | 1 | A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives |
 | 2026-10-23 | Proposed | [CLAIM-447](../../record/claims.d/CLAIM-447.md) | 2 | 2 | Model-based wanting is a pursuit process's ranking of the futures it predicts under candidate interventions, P(S | do(a)) against P(S | do(a₀)), while cue-triggered wanting is learned salience that need not compute those futures; a process's causal model, its wanting and its practical efficacy are separable, so learning to want differently, learning that a want will not pay, and learning not to act on it are three different changes |
@@ -968,15 +968,19 @@
 
 ## CASEs
 
-1 of the 938.
+5 of the 942.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-10-04 | Deferred | [CASE-014](../../record/cases.d/CASE-014.md) | 2 | 0 | Microsoft, as the philosophical target |
+| 2026-10-26 | Proposed | [CASE-163](../../record/cases.d/CASE-163.md) | 14 | 0 | Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset |
+| 2026-10-26 | Proposed | [CASE-162](../../record/cases.d/CASE-162.md) | 12 | 0 | Capture and selectively admitted evidence in two lab realizations: in a four-variable model of authority, record and competence the equilibrium fold under self-scoring is at c ≈ 0.4247 while the declared history is trapped from c ≈ 0.4469, and in a 32-member event-level population, admission of cues that depends on the record reverses the sign of the admitted evidence and leaves the worse alternative in charge in 41 of 64 worlds, which exact inverse-propensity weighting brings to 0 of 64 below full selectivity |
+| 2026-10-26 | Proposed | [CASE-161](../../record/cases.d/CASE-161.md) | 10 | 0 | Reciprocally produced, externally reset and feedback-only governing rules in a 32-member population: with ordinary trajectories identical, reciprocal production repairs the loss of one rule and not of both and fails after producer outages of 36 updates for audit and 40 for admission, after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00 in the three arrangements, and a self-dependent production graph does not regenerate a zeroed rule |
+| 2026-10-26 | Proposed | [CASE-164](../../record/cases.d/CASE-164.md) | 9 | 0 | A 192-state organization on which one kernel gives several closure verdicts: the description by agents and phase is informationally closed on the intact support and fails global strong lumpability, its deficiency for the next pair of rule integrities under a declared intervention mixture is 0.55·H₂(1/3) ≈ 0.5051 bits and zero once the maintenance mode is kept, and finite-sample predictive gains misread both a positive and a zero information defect |
 
 ## TERMs
 
-11 of the 938.
+11 of the 942.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -984,7 +988,7 @@
 | 2026-10-04 | Deferred | [TERM-012](../../record/terms.d/TERM-012.md) | 2 | 0 | cross-scale concordance |
 | 2026-10-21 | Proposed | [TERM-066](../../record/terms.d/TERM-066.md) | 16 | 0 | interpretive capture, of an organization's evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process |
 | 2026-10-21 | Proposed | [TERM-063](../../record/terms.d/TERM-063.md) | 10 | 0 | agent, as an individual that is the active source of modulations of its coupling with its environment and regulates them against norms its own organization sets (Barandiaran, Di Paolo and Rohde) |
-| 2026-10-22 | Proposed | [TERM-072](../../record/terms.d/TERM-072.md) | 68 | 6 | perspective, and which sense: organizational, represented or phenomenal |
+| 2026-10-22 | Proposed | [TERM-072](../../record/terms.d/TERM-072.md) | 69 | 6 | perspective, and which sense: organizational, represented or phenomenal |
 | 2026-10-22 | Proposed | [TERM-073](../../record/terms.d/TERM-073.md) | 25 | 1 | interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience |
 | 2026-10-22 | Proposed | [TERM-075](../../record/terms.d/TERM-075.md) | 12 | 0 | attributed self, and which sense: held, imagined, imagined audience or appropriated |
 | 2026-10-22 | Proposed | [TERM-074](../../record/terms.d/TERM-074.md) | 4 | 0 | organization, and which sense: relational arrangement, organizational maintenance, collective institution or organizational closure |
@@ -994,7 +998,7 @@
 
 ## ARGs
 
-2 of the 938.
+2 of the 942.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

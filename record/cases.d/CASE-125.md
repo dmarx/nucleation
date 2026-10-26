@@ -39,7 +39,7 @@ supports:
 - CLAIM-407
 - CLAIM-399
 variants:
-- CASE-tmpwxgtj
+- CASE-164
 ---
 <!-- inactive-ok-file: CLAIM-122 — Proposed; the will paper's claim this case illustrates, open, and the case bears no weight for it -->
 <!-- inactive-ok-file: CLAIM-336 — Proposed; named as the test this case cannot be, open -->

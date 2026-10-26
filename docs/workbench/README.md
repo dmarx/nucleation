@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [26 Oct 00:30 — Review of 2026-10-26: the owner's Priority A package on PerspectiveLab v1.1–v2.2, checked against the lab's stored results and filed as four cases and fifteen dated notes](2026-10.md#review-of-2026-10-26-the-owners-priority-a-package-on-perspectivelab-v11v22-checked-against-the-labs-stored-results-and-filed-as-four-cases-and-fifteen-dated-notes)
 - [25 Oct 04:30 — Session of 2026-10-24, 18:01, to 2026-10-25, 03:12 (U28–U47): tying in the multi-agent learning material, partial monitoring and the two Fisher geometries, a population of perspectives, the owner's drift-diffusion hypothesis and the network reduction, a population lab, stable diffusion, and audited governance against a router](2026-10.md#session-of-2026-10-24-1801-to-2026-10-25-0312-u28u47-tying-in-the-multi-agent-learning-material-partial-monitoring-and-the-two-fisher-geometries-a-population-of-perspectives-the-owners-drift-diffusion-hypothesis-and-the-network-reduction-a-population-lab-stable-diffusion-and-audited-governance-against-a-router)
 - [24 Oct 03:14 — Session of 2026-10-23, 17:07, to 2026-10-24, 02:45 (U1–U27): from reviews of the valence line, through wanting as do(), learned authority and anxiety as self-protecting governance, to legibility, belief and communicative acts](2026-10.md#session-of-2026-10-23-1707-to-2026-10-24-0245-u1u27-from-reviews-of-the-valence-line-through-wanting-as-do-learned-authority-and-anxiety-as-self-protecting-governance-to-legibility-belief-and-communicative-acts)
 - [23 Oct 03:12 — Session of 2026-10-23, 00:19–01:27 (U1–U9): the organizational-perspective framework assessed, its experiments inventoried, external results matched to the proposed studies, and two question splits proposed](2026-10.md#session-of-2026-10-23-00190127-u1u9-the-organizational-perspective-framework-assessed-its-experiments-inventoried-external-results-matched-to-the-proposed-studies-and-two-question-splits-proposed)
@@ -87,8 +88,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-78 entries across 1 book, newest first.
+79 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 78 | 2026-10-07 | 2026-10-25 |
+| [2026-10](2026-10.md) | 79 | 2026-10-07 | 2026-10-26 |

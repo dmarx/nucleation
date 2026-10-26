@@ -168,12 +168,12 @@ The question is unchanged.
 
 ## Note of 2026-10-26: phenomena shown, no comparison made
 
-<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpfmdj6 — Proposed; the lab's runs filed 2026-10-26, cited as phenomena shown, not as an answer -->
+<!-- inactive-ok-file: CASE-162 CASE-161 — Proposed; the lab's runs filed 2026-10-26, cited as phenomena shown, not as an answer -->
 
 Of A15's suite, the Perspective Population Lab now shows capture without
-fidelity and history dependence in stipulated models ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md)), and
+fidelity and history dependence in stipulated models ([CASE-162](../cases.d/CASE-162.md)), and
 responses to intervention that ordinary trajectories conceal
-([CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md)). None was set against DeGroot–Friedkin, an adaptive
+([CASE-161](../cases.d/CASE-161.md)). None was set against DeGroot–Friedkin, an adaptive
 network or persuasion bias, so none bears on "as economically".
 
 A comparator pilot (dmarx/PerspectiveLab@dce302b

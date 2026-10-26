@@ -18,7 +18,7 @@ history:
   date: '2026-10-26'
   note: >-
     A dated note added: a second, separately built exact witness on a
-    192-state organization (CASE-tmpwxgtj), with Γ = 0.55·H₂(1/3) bits
+    192-state organization (CASE-164), with Γ = 0.55·H₂(1/3) bits
     and the zero condition met once the maintenance mode is kept. The
     claim is unchanged.
 role: thesis
@@ -64,7 +64,7 @@ summary: >-
 illustrated_by:
 - CASE-125
 - CASE-152
-- CASE-tmpwxgtj
+- CASE-164
 supports:
 - CLAIM-409
 - CLAIM-399
@@ -195,9 +195,9 @@ while the profile does not factor through it.
 
 ## Note of 2026-10-26: a second exact witness
 
-<!-- inactive-ok-file: CASE-tmpwxgtj — Proposed; the 192-state construction filed 2026-10-26, cited as a further witness, nothing here rests on it -->
+<!-- inactive-ok-file: CASE-164 — Proposed; the 192-state construction filed 2026-10-26, cited as a further witness, nothing here rests on it -->
 
-[CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md) is a second exact witness, built separately from
+[CASE-164](../cases.d/CASE-164.md) is a second exact witness, built separately from
 [CASE-125](../cases.d/CASE-125.md) (dmarx/PerspectiveLab@7e2edc2 experiments/finite_organization/).
 In a 192-state organization the maintenance mode plays the hidden bit:
 the intact dynamics are the same in all three modes. The agents with

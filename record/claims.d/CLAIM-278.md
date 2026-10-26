@@ -15,7 +15,7 @@ history:
   date: '2026-10-26'
   note: >-
     A dated note added: the router result reproduced and run with equal
-    audit delay and cost (CASE-tmpr1vuv), the lab's later restrictions,
+    audit delay and cost (CASE-162), the lab's later restrictions,
     and a comparator pilot. Extended the same day with the lab's v2.3
     matched comparator (dmarx/PerspectiveLab@e9efcf4). The claim is
     unchanged.
@@ -91,7 +91,7 @@ allows. The claim is unchanged.
 
 ## Note of 2026-10-26: the router result reproduced, and run on equal terms
 
-<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as evidence reported for the objection, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-162 CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as evidence reported for the objection, nothing here rests on their being settled -->
 
 The software behind A47's result is now held, as dmarx/PerspectiveLab
 (v1.0 at dmarx/PerspectiveLab@41e56df). Its v1.1 (@7e2edc2) reproduces
@@ -99,11 +99,11 @@ all 48 MSE entries of [CASE-158](../cases.d/CASE-158.md)'s table, and then meets
 recorded there: the router faces the same audit delay and the same query
 cost as governance. It still has the lower post-reversal error in all
 four cells of a factorial that adds a conformity-contaminated evaluator
-and selectively attributed audits ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md)).
+and selectively attributed audits ([CASE-162](../cases.d/CASE-162.md)).
 
 Later versions give the lab's models restrictions that can fail: fixed
 production laws, known admission propensities, declared intervention
-kernels ([CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md), [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md)). They yield predictions inside a
+kernels ([CASE-161](../cases.d/CASE-161.md), [CASE-163](../cases.d/CASE-163.md)). They yield predictions inside a
 model that could have come out wrong. That is less than this claim asks,
 an outcome the framework forbids and its rivals allow. A comparator pilot
 (dmarx/PerspectiveLab@dce302b experiments/comparator_pilot/) sharpens

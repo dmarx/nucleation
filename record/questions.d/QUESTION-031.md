@@ -188,10 +188,10 @@ the organization's own choices decide.
 
 ## Note of 2026-10-26: a nonlinear case, with a known catalog
 
-<!-- inactive-ok-file: CASE-tmpw6jjd — Proposed; the lab's identification runs filed 2026-10-26, cited as bearing on the remainder, not as settling it -->
+<!-- inactive-ok-file: CASE-163 — Proposed; the lab's identification runs filed 2026-10-26, cited as bearing on the remainder, not as settling it -->
 <!-- inactive-ok-file: QUESTION-272 — Answered; the linear child, named to say this case is not in it -->
 
-[CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md) is a case of the remainder: nonlinear production laws,
+[CASE-163](../cases.d/CASE-163.md) is a case of the remainder: nonlinear production laws,
 noisy readouts, and a catalog of four known mechanisms
 (dmarx/PerspectiveLab@9f82bfd). For a fixed candidate family the
 condition is the ordinary factorization one: a probe family d separates

@@ -15,7 +15,7 @@ history:
   date: '2026-10-26'
   note: >-
     A dated note added: pairwise separations on one exactly known kernel
-    (CASE-tmpwxgtj), not leave-one-out witnesses. The question is
+    (CASE-164), not leave-one-out witnesses. The question is
     unchanged.
 tags:
 - complex-systems
@@ -139,9 +139,9 @@ unchanged.
 
 ## Note of 2026-10-26: pairwise separations on one kernel
 
-<!-- inactive-ok-file: CASE-tmpwxgtj CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as partial witnesses, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-164 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as partial witnesses, nothing here rests on them -->
 
-[CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md) adds pairwise non-implications on one exactly known
+[CASE-164](../cases.d/CASE-164.md) adds pairwise non-implications on one exactly known
 192-state kernel, like those the record already holds, and no
 leave-one-out witness.
 
@@ -161,6 +161,6 @@ not, the full state lumpable again) is in strong lumpability, not in
 informational closure. A strong one-step failure of Markov closure in the
 lab's population (v1.4, dmarx/PerspectiveLab@7e2edc2
 experiments/predictive_closure/) does not by itself show a positive
-infinite-history defect. In [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md), what a probe budget identifies
+infinite-history defect. In [CASE-163](../cases.d/CASE-163.md), what a probe budget identifies
 is a further budget-relative verdict, of a mechanism's class and
 parameters. The question is unchanged.

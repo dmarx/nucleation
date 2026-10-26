@@ -25,7 +25,7 @@ summary: >-
 supports:
 - CLAIM-414
 variants:
-- CASE-tmpfmdj6
+- CASE-161
 ---
 <!-- inactive-ok-file: TERM-072 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 

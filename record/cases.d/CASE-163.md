@@ -1,5 +1,8 @@
 ---
+number: 163
 status: Proposed
+formerly:
+- CASE-tmpw6jjd
 title: 'Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset'
 version: 1
 history:
@@ -22,27 +25,27 @@ tags:
 date: '2026-10-26'
 line: distributed-agency
 variant_of:
-- CASE-tmpfmdj6
+- CASE-161
 illustrates:
 - CLAIM-414
 summary: >-
   Versions 2.0 to 2.2 of the Perspective Population Lab,
   dmarx/PerspectiveLab@9f82bfd, on the maintained population of
-  [CASE-tmpfmdj6](CASE-tmpfmdj6.md). v2.0 shows that a response model does not transport across
+  [CASE-161](CASE-161.md). v2.0 shows that a response model does not transport across
   a change of production law that ordinary histories do not reveal. v2.1
   and v2.2 infer the mechanism, and then its parameters, from probes, and
   predict interventions never probed. Everything is relative to a catalog
   of four known mechanisms whose equations the forecaster is given, and
   every probe is a separate branch from the same starting state.
 ---
-<!-- inactive-ok-file: CASE-tmpfmdj6 — Proposed; the case this one varies, filed with it -->
+<!-- inactive-ok-file: CASE-161 — Proposed; the case this one varies, filed with it -->
 <!-- inactive-ok-file: CLAIM-427 CLAIM-278 QUESTION-031 — Proposed or Open; the grades of evidence, the objection and the question on probes this case bears on, nothing here rests on them -->
 
-# CASE-tmpw6jjd: Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset
+# CASE-163: Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset
 
 ## The case
 
-The 32-member population of [CASE-tmpfmdj6](CASE-tmpfmdj6.md), with its two governing rules,
+The 32-member population of [CASE-161](CASE-161.md), with its two governing rules,
 under four candidate mechanisms: external reset, reciprocal production,
 self-dependent production and feedback without production. All four are
 alike in ordinary operation.

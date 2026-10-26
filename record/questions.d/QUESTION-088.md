@@ -65,13 +65,13 @@ better or do not.
 
 ## Note of 2026-10-26: the lab is not yet the comparison
 
-<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as tools for the comparison, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-162 CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as tools for the comparison, nothing here rests on them -->
 
 The Perspective Population Lab (dmarx/PerspectiveLab, through v2.2 at
 @9f82bfd) is one engineered lineage in which authority, selected
 evidence, practice that depends on access, maintained rules and
-diagnostic interventions run together ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md), [CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md),
-[CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md)). Its v1.2 README lists correspondences to habit and agenda
+diagnostic interventions run together ([CASE-162](../cases.d/CASE-162.md), [CASE-161](../cases.d/CASE-161.md),
+[CASE-163](../cases.d/CASE-163.md)). Its v1.2 README lists correspondences to habit and agenda
 control as hypotheses. It has predicted no independently measured habit,
 rumination, rigidity, akrasia or insight from shared variables, and has
 been compared with no model built for one phenomenon or around a central

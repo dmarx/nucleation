@@ -33,7 +33,7 @@ summary: >-
   has not run it. What would make it informative is one arm per failure of
   [QUESTION-271](../questions.d/QUESTION-271.md).
 variants:
-- CASE-tmpr1vuv
+- CASE-162
 ---
 <!-- inactive-ok-file: CLAIM-278 CLAIM-277 TERM-066 — Proposed; the objection this design is built to meet and the claim and term it bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-937 THEORY-927 — Proposed; the mixture-of-experts readings of PR #330 cited as the router's prior art, nothing here rests on them -->

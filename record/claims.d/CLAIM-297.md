@@ -13,7 +13,7 @@ history:
   date: '2026-10-26'
   note: >-
     A dated note added: two running realizations of the circuit without
-    retrieval (CASE-tmpr1vuv), and why they are not the analysis the
+    retrieval (CASE-162), and why they are not the analysis the
     defeater names. The claim is unchanged.
 role: thesis
 warrant: interpretive
@@ -52,7 +52,7 @@ supports:
 - CLAIM-338
 - CLAIM-429
 illustrated_by:
-- CASE-tmpr1vuv
+- CASE-162
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-280 CLAIM-281 CLAIM-285 CLAIM-288 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -125,9 +125,9 @@ later made frustration, not distress, the primitive ([CLAIM-368](CLAIM-368.md)).
 
 ## Note of 2026-10-26: two running realizations, without retrieval
 
-<!-- inactive-ok-file: CASE-tmpr1vuv — Proposed; the lab's runs filed 2026-10-26, cited as an illustration, nothing here rests on it -->
+<!-- inactive-ok-file: CASE-162 — Proposed; the lab's runs filed 2026-10-26, cited as an illustration, nothing here rests on it -->
 
-Two models of the Perspective Population Lab ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md),
+Two models of the Perspective Population Lab ([CASE-162](../cases.d/CASE-162.md),
 dmarx/PerspectiveLab@7e2edc2) run this claim's circuit with authority,
 record and competence and no retrieval.
 

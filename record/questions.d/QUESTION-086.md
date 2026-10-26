@@ -19,7 +19,7 @@ history:
   note: >-
     A dated note added: a seventh appearance, with CASE-126 and
     CLAIM-414 named, and interventions that separate stipulated
-    arrangements in a population (CASE-tmpfmdj6, CASE-tmpw6jjd); the
+    arrangements in a population (CASE-161, CASE-163); the
     boundary is still stipulated. Extended the same day with the lab's
     v2.5 (dmarx/PerspectiveLab@f392084), where a catalog missing the
     true law makes the diagnosis brittle. The question is unchanged.
@@ -146,16 +146,16 @@ answer.
 
 ## Note of 2026-10-26: interventions named, for arrangements the modeller assigns
 
-<!-- inactive-ok-file: CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's maintenance and identification runs filed 2026-10-26, cited as bearing on the question, not as answering it -->
+<!-- inactive-ok-file: CASE-161 CASE-163 — Proposed; the lab's maintenance and identification runs filed 2026-10-26, cited as bearing on the question, not as answering it -->
 
 A seventh appearance, and the first to carry this question's own
 distinction into a population. [CASE-126](../cases.d/CASE-126.md) and [CLAIM-414](../claims.d/CLAIM-414.md) (Active) had already
 built a matched pair, one system maintaining its two constraints by a
 minimal closure and the other reset from outside, told apart by one
-perturbation; this question did not cite them. [CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md) carries the
+perturbation; this question did not cite them. [CASE-161](../cases.d/CASE-161.md) carries the
 pair to a 32-member population, with feedback only as a third arm, and
 separates them by A7's interventions: damage to a rule, and interruption
-of the producers (dmarx/PerspectiveLab@7e2edc2). [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md) names a
+of the producers (dmarx/PerspectiveLab@7e2edc2). [CASE-163](../cases.d/CASE-163.md) names a
 design short of removal, an audit pulse with a short producer
 interruption, that identifies which of four mechanisms applies. It also
 shows that the pulse alone does not separate self-dependent production
