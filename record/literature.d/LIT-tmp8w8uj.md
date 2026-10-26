@@ -1,19 +1,19 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpfpjyr) in full, from the article's own page on
+  read 2026-10-26 ([NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md)) in full, from the article's own page on
   the Transformer Circuits Thread; worth reading as the demonstration that
   sparse-autoencoder features of a production model are abstract
   (multilingual, multimodal) and can steer it, for the finding that a
   concept gets its own feature only once its training frequency passes
-  about one over the number of live features (THEORY-tmplbzq5), and for the
+  about one over the number of live features ([THEORY-tmplbzq5](../theory.d/THEORY-tmplbzq5.md)), and for the
   observation that the most active features are mostly not the ones that
-  matter to an answer (THEORY-tmph7ceb). Read it knowing that its
+  matter to an answer ([THEORY-tmph7ceb](../theory.d/THEORY-tmph7ceb.md)). Read it knowing that its
   interpretability and steering evidence is shown on features the authors
   selected, that the model, its size and some plot units are withheld, that
   the reconstructions explain only at least 65% of the variance, and that
   its wider thesis that these features are the model's working concepts is
-  open (THEORY-tmp14ee2).
+  open ([THEORY-tmp14ee2](../theory.d/THEORY-tmp14ee2.md)).
 title: 'Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet'
 version: 2
 history:
@@ -74,17 +74,17 @@ Scaling monosemanticity: Extracting interpretable features from Claude 3
 Sonnet. *Transformer Circuits Thread*, 21 May 2024.
 https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
 
-Read in full on 2026-10-26 (NOTE-tmpfpjyr). Three accounts were drawn from
-it: THEORY-tmph7ceb, THEORY-tmplbzq5 and THEORY-tmp14ee2.
+Read in full on 2026-10-26 ([NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md)). Three accounts were drawn from
+it: [THEORY-tmph7ceb](../theory.d/THEORY-tmph7ceb.md), [THEORY-tmplbzq5](../theory.d/THEORY-tmplbzq5.md) and [THEORY-tmp14ee2](../theory.d/THEORY-tmp14ee2.md).
 
 ## Why this is here
 
 Registered on 2026-10-26 at the owner's request, when the record was found
 to hold almost none of the core circuits literature. It is the scaling of
-Bricken et al.'s method (LIT-tmpn9ui7) to a production model, and the
+Bricken et al.'s method ([LIT-tmpn9ui7](LIT-tmpn9ui7.md)) to a production model, and the
 work most often cited for the view that sparse-autoencoder features are a
 large model's concepts. The record held the contrary evidence first: in
-MIB (LIT-tmprlq7z, THEORY-tmp4lqc8) such features localize known causal
-variables worse than neurons. It bears on CLAIM-tmpwr001, on
-QUESTION-tmpivbso, and on the record's Gemma Scope reading (LIT-611,
-THEORY-504) about residual-stream autoencoders.
+MIB ([LIT-tmprlq7z](LIT-tmprlq7z.md), [THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)) such features localize known causal
+variables worse than neurons. It bears on [CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md), on
+[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md), and on the record's Gemma Scope reading ([LIT-611](LIT-611.md),
+[THEORY-504](../theory.d/THEORY-504.md)) about residual-stream autoencoders.

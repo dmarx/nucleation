@@ -50,7 +50,7 @@ summary: >-
 
 ## Contribution
 
-It answers the question its predecessor (LIT-tmpn9ui7) left: whether
+It answers the question its predecessor ([LIT-tmpn9ui7](../literature.d/LIT-tmpn9ui7.md)) left: whether
 sparse autoencoders work on a frontier model. On Claude 3 Sonnet they
 yield millions of features, many abstract, and the paper's evidence that
 these are used by the model is steering: clamping a feature changes what
@@ -123,14 +123,14 @@ attribution correlates 0.81. A feature's activity does not give its role.
   cities, animals and foods (100–200 concepts each), the frequency at which
   a concept is more than 50% likely to have a feature is "consistently
   slightly lower than the inverse of the number of alive features", and
-  the three curves overlap when rescaled by it (THEORY-tmplbzq5).
+  the three curves overlap when rescaled by it ([THEORY-tmplbzq5](../theory.d/THEORY-tmplbzq5.md)).
 - **Computational intermediates.** On "John says, 'I want to be alone
   right now.' John feels" the top features by attribution and ablation are
   "need to be alone" and "sadness". On the Kobe Bryant capital prompt the
   top five by ablation are Kobe Bryant, California, capital, Los Angeles
   and the Lakers, which rank 70th to 162nd by activation; the biggest-rival
   prompt implicates Kobe and the Lakers but not California
-  (THEORY-tmph7ceb). The authors call the example "somewhat
+  ([THEORY-tmph7ceb](../theory.d/THEORY-tmph7ceb.md)). The authors call the example "somewhat
   cherry-picked", and for other prompts found nothing intermediate at this
   layer.
 - **Safety-relevant features.** Features for unsafe code, backdoors, bias,
@@ -175,21 +175,21 @@ attribution correlates 0.81. A feature's activity does not give its role.
 
 ## Connections
 
-The direct scale-up of LIT-tmpn9ui7. It cites Marks et al. (LIT-tmp5b0z9)
+The direct scale-up of [LIT-tmpn9ui7](../literature.d/LIT-tmpn9ui7.md). It cites Marks et al. ([LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md))
 under "sparse feature circuits" as the next step, Cunningham et al. and
 Tamkin et al. as parallel work, and Gemma Scope's open autoencoders
-belong to the same programme (LIT-611). The probe and steering literature
+belong to the same programme ([LIT-611](../literature.d/LIT-611.md)). The probe and steering literature
 it compares itself with is the representation-engineering and
 linear-probe line. Its splitting at 1M, 4M and 34M is a second case for
-THEORY-tmpz7jrx.
+[THEORY-tmpz7jrx](../theory.d/THEORY-tmpz7jrx.md).
 
 ## Bearing on the record
 
-- **CLAIM-tmpwr001.** Three findings support the claim's point that a
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** Three findings support the claim's point that a
   recovered feature is at most a constituent. Activity does not identify
   role: the features that carry an answer are found by intervention
   (ablation, attribution), not by activation, and correlate with it at
-  0.12 (THEORY-tmph7ceb). A single feature usually moves the model only
+  0.12 ([THEORY-tmph7ceb](../theory.d/THEORY-tmph7ceb.md)). A single feature usually moves the model only
   when pushed past anything it does in use, which the authors put down to
   correlated features acting together. And the authors say that lacking a
   dedicated feature "does not mean that the reconstructed activations do
@@ -198,20 +198,20 @@ THEORY-tmpz7jrx.
   organized relationship among features is, in this paper, the circuit the
   authors say "a truly satisfactory analysis would likely involve" and do
   not give.
-- **THEORY-tmp4lqc8 and LIT-tmprlq7z.** The paper's comparison with
+- **[THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md) and [LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md).** The paper's comparison with
   probes is few-shot, hand-tuned and chosen where features worked; MIB's
   comparison is fixed in advance, on held-out counterfactuals, with known
   causal variables, and finds SAE features worse than neurons. They answer
   different questions, and the thesis that SAE features are a large model's
-  working units (THEORY-tmp14ee2) has to meet MIB's result.
-- **THEORY-504.** Like Gemma Scope's worst site by loss, these are
+  working units ([THEORY-tmp14ee2](../theory.d/THEORY-tmp14ee2.md)) has to meet MIB's result.
+- **[THEORY-504](../theory.d/THEORY-504.md).** Like Gemma Scope's worst site by loss, these are
   residual-stream autoencoders, explaining at least 65% of variance. Steering
   keeps the reconstruction error, so a third or more of the activation
   rides along unexplained in every intervention.
-- **THEORY-tmpz7jrx.** Splitting at 1M, 4M and 34M, and coverage set by
-  live-feature count (THEORY-tmplbzq5), make the feature set depend on the
+- **[THEORY-tmpz7jrx](../theory.d/THEORY-tmpz7jrx.md).** Splitting at 1M, 4M and 34M, and coverage set by
+  live-feature count ([THEORY-tmplbzq5](../theory.d/THEORY-tmplbzq5.md)), make the feature set depend on the
   dictionary.
-- **QUESTION-tmpivbso.** The autoencoders are of one finished, fine-tuned
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The autoencoders are of one finished, fine-tuned
   model at one layer. The cross-layer superposition the authors describe
   would also confound a feature model fitted to one layer across
   checkpoints.

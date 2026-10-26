@@ -23,7 +23,7 @@ source:
 extended_by:
 - THEORY-tmpyawf9
 summary: >-
-  Marks et al. (2025), LIT-tmp5b0z9, read in NOTE-tmpr0gdc: §§2–3.2,
+  Marks et al. (2025), [LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md), read in [NOTE-tmpr0gdc](../notes.d/NOTE-tmpr0gdc.md): §§2–3.2,
   Figure 3 and Appendices A, B and H. Faithfulness is (m(C) − m(∅))/(m(M) −
   m(∅)) with nodes outside the circuit mean-ablated, scored on the latter
   two thirds of each circuit only. The features plus the dense error terms
@@ -37,8 +37,8 @@ summary: >-
 ## Source
 
 Marks, Rager, Michaud, Belinkov, Bau and Mueller (2025), *Sparse feature
-circuits*, ICLR 2025, arXiv:2403.19647, LIT-tmp5b0z9, read in full in
-NOTE-tmpr0gdc: §2 (formulation), §3.1–3.2 with Figure 3 (read from a
+circuits*, ICLR 2025, arXiv:2403.19647, [LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md), read in full in
+[NOTE-tmpr0gdc](../notes.d/NOTE-tmpr0gdc.md): §2 (formulation), §3.1–3.2 with Figure 3 (read from a
 rendering of p. 5), and Appendices A, B and H.
 
 ## What was actually shown
@@ -86,14 +86,14 @@ models and tasks they did not.
 
 ## Connections
 
-- **CLAIM-tmpwr001.** Features recovered without the task do not carry
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** Features recovered without the task do not carry
   it on their own; what does is features plus a remainder, arranged across
   positions and layers.
-- **THEORY-tmp4lqc8.** Two results that point the same way from
+- **[THEORY-tmp4lqc8](THEORY-tmp4lqc8.md).** Two results that point the same way from
   different tests: SAE features localize supplied variables worse than
   neurons, and SAE features without their error terms carry little of a
   behaviour.
-- **THEORY-504.** The residual-stream errors matter most here, as
+- **[THEORY-504](THEORY-504.md).** The residual-stream errors matter most here, as
   residual-stream autoencoders cost Gemma 2 the most loss there.
-- **THEORY-tmph7ceb.** The same family of linear estimates selects the
+- **[THEORY-tmph7ceb](THEORY-tmph7ceb.md).** The same family of linear estimates selects the
   nodes.

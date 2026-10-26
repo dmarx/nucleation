@@ -33,9 +33,9 @@ source:
 extends:
 - THEORY-tmpkq43g
 summary: >-
-  Bricken et al. (2023), LIT-tmpn9ui7, read in NOTE-tmpz50gz, Feature
-  Splitting and Discussion; and Templeton et al. (2024), LIT-tmp8w8uj, read
-  in NOTE-tmpfpjyr, for the same splitting at 1M, 4M and 34M features in a
+  Bricken et al. (2023), [LIT-tmpn9ui7](../literature.d/LIT-tmpn9ui7.md), read in [NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md), Feature
+  Splitting and Discussion; and Templeton et al. (2024), [LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md), read
+  in [NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md), for the same splitting at 1M, 4M and 34M features in a
   large model. In a one-layer model one base64 feature becomes three, then
   more; in Claude 3 Sonnet a San Francisco feature becomes two, then
   eleven. The authors offer two pictures, an idealized set seen at varying
@@ -47,10 +47,10 @@ summary: >-
 
 ## Source
 
-- Bricken et al. (2023), LIT-tmpn9ui7, read in full in NOTE-tmpz50gz:
+- Bricken et al. (2023), [LIT-tmpn9ui7](../literature.d/LIT-tmpn9ui7.md), read in full in [NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md):
   Feature Splitting (the mathematics and physics example, the two "bugs"),
   Universality, and the Discussion's "Theories of Superposition".
-- Templeton et al. (2024), LIT-tmp8w8uj, read in full in NOTE-tmpfpjyr:
+- Templeton et al. (2024), [LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md), read in full in [NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md):
   Exploring Feature Neighborhoods and Feature Completeness.
 
 ## What is asserted
@@ -74,7 +74,7 @@ number of features' may not be well-posed".
   complex than a tree".
 - **Coverage tracks width.** In Claude 3 Sonnet a concept gets its own
   feature when its frequency passes about one over the number of live
-  features (THEORY-tmplbzq5), so which concepts are units depends on
+  features ([THEORY-tmplbzq5](THEORY-tmplbzq5.md)), so which concepts are units depends on
   dictionary size.
 
 ## What it would take
@@ -86,15 +86,15 @@ features split, merge or persist across widths.
 
 ## Connections
 
-- **THEORY-017.** Its thesis, that parts and features are fixed by an
+- **[THEORY-017](THEORY-017.md).** Its thesis, that parts and features are fixed by an
   extrinsic choice, here in a measured case of a learned network: the
   dictionary's width and penalty are the choice.
-- **THEORY-018.** The softmax leaves the final layer free up to an
+- **[THEORY-018](THEORY-018.md).** The softmax leaves the final layer free up to an
   invertible map; this account adds that even with the basis fixed by
   sparsity, the number of units is not.
-- **CLAIM-tmpwr001.** If the features are a resolution, then whether a
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** If the features are a resolution, then whether a
   perspective or regime "coincides with one feature" depends on width as
   well as on the model.
-- **QUESTION-tmpivbso.** A feature model fitted across checkpoints
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** A feature model fitted across checkpoints
   inherits this: a feature that appears to split during training may be
   the dictionary's resolution moving, not the network's.

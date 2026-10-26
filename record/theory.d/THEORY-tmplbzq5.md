@@ -20,7 +20,7 @@ source:
 extended_by:
 - THEORY-tmp14ee2
 summary: >-
-  Templeton et al. (2024), LIT-tmp8w8uj, read in NOTE-tmpfpjyr: Feature
+  Templeton et al. (2024), [LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md), read in [NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md): Feature
   Completeness. 100–200 single-word concepts per category, presence of a
   feature judged from Sonnet's explanations of the top five features on a
   prompt naming the concept, by a human rater. The 34M dictionary (about 12
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Templeton, Conerly, Marcus, Lindsey et al. (2024), *Scaling
-monosemanticity*, LIT-tmp8w8uj, read in full in NOTE-tmpfpjyr: Our SAE
+monosemanticity*, [LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md), read in full in [NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md): Our SAE
 experiments (dead-feature fractions) and Feature Completeness.
 
 ## What was actually shown
@@ -80,11 +80,11 @@ or grown with size along curves that do not coincide.
 
 ## Connections
 
-- **THEORY-tmpz7jrx.** Which concepts are units depends on dictionary
+- **[THEORY-tmpz7jrx](THEORY-tmpz7jrx.md).** Which concepts are units depends on dictionary
   size: the measured part of the claim that the feature set is a
   resolution.
-- **THEORY-017.** A decomposition whose parts appear as the dictionary
+- **[THEORY-017](THEORY-017.md).** A decomposition whose parts appear as the dictionary
   grows is one fixed by the analyst's budget, not by the model alone.
-- **CLAIM-tmpwr001.** A concept the model uses with no feature of its own
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** A concept the model uses with no feature of its own
   is held by a combination of features, the claim's case of something
   carried by an arrangement and not by a single recovered unit.
