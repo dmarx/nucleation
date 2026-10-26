@@ -18,7 +18,7 @@ date: '2026-10-26'
 source:
 - LIT-tmptgo43
 summary: >-
-  Dunefsky, Chlenski and Nanda (2024), LIT-tmptgo43, read in NOTE-tmpbsp9v,
+  Dunefsky, Chlenski and Nanda (2024), [LIT-tmptgo43](../literature.d/LIT-tmptgo43.md), read in [NOTE-tmpbsp9v](../notes.d/NOTE-tmpbsp9v.md),
   Eq. 7 and App. D.2–D.4, re-derived here. The weight factor is a weight of
   the replacement model, not of the original, and it is exact only for the
   replacement. It says nothing about why attention attends where it does,
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Dunefsky, Chlenski and Nanda (2024), NeurIPS 2024, arXiv:2406.11944,
-LIT-tmptgo43, read in full in NOTE-tmpbsp9v: §3.2 (Eqs. 6–8) and App.
+[LIT-tmptgo43](../literature.d/LIT-tmptgo43.md), read in full in [NOTE-tmpbsp9v](../notes.d/NOTE-tmpbsp9v.md): §3.2 (Eqs. 6–8) and App.
 D.2–D.4.
 
 ## What was actually shown
@@ -101,14 +101,14 @@ two more.
   attribution linear, and it leaves unexplained why information moved.
 - **Not unique.** The weights are those of one trained dictionary. Another
   transcoder of equal fidelity could carry the computation in other
-  features, which is THEORY-802's point about decompositions, here for
+  features, which is [THEORY-802](THEORY-802.md)'s point about decompositions, here for
   dictionaries.
 
 ## Connections
 
-- **LIT-tmpsuo6l.** Ameisen et al.'s edge weights are this rule extended to
+- **[LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md).** Ameisen et al.'s edge weights are this rule extended to
   cross-layer transcoders, with all normalization denominators frozen, and
   their "virtual weights" are this weight factor.
-- **CLAIM-tmpwr001.** A transcoder feature comes with its downstream
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** A transcoder feature comes with its downstream
   weights, which is more than a recovered feature has, but they are weights
   of a stand-in.

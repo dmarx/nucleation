@@ -19,7 +19,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpsuo6l
 summary: >-
-  Ameisen et al. (2025), LIT-tmpsuo6l, read in NOTE-tmpn9fx3, re-derived
+  Ameisen et al. (2025), [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), read in [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md), re-derived
   here. It is why their addition graphs contain "lookup table" features
   between operand features and sum features. Whether a given unit in a
   trained model meets the premise is an empirical matter: attention
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Ameisen et al. (2025), *Circuit Tracing*, LIT-tmpsuo6l, read in
-NOTE-tmpn9fx3: "Addition Case Study", the paragraph on lookup table
+Ameisen et al. (2025), *Circuit Tracing*, [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), read in
+[NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md): "Addition Case Study", the paragraph on lookup table
 features and its footnote, and "Global Weights in Addition".
 
 ## What was actually shown
@@ -78,7 +78,7 @@ magnitude-range pairs), observed in operand plots over all 10,000 prompts
 - **Not that every trained model uses lookup tables.** The result forces
   some combining step before an exact sum unit, not its form. A network can
   combine operands by multiplying characters, as the grokking network of
-  THEORY-022 does, and the article itself places its features beside
+  [THEORY-022](THEORY-022.md) does, and the article itself places its features beside
   Kantamneni and Tegmark's Fourier subspaces.
 - **Not that the premise holds of a given unit.** The article states it as
   "the preactivation of f is an affine function of the operands", which is
@@ -91,8 +91,8 @@ magnitude-range pairs), observed in operand plots over all 10,000 prompts
 
 ## Connections
 
-- **THEORY-022.** Both are about how a network computes a sum from two
-  separately represented inputs. THEORY-022's network forms products of
+- **[THEORY-022](THEORY-022.md).** Both are about how a network computes a sum from two
+  separately represented inputs. [THEORY-022](THEORY-022.md)'s network forms products of
   characters; this result says a single thresholded additive step cannot
   form an exact sum detector, so some such combining step is needed in
   either.

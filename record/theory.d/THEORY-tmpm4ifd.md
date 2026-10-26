@@ -20,7 +20,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpsuo6l
 summary: >-
-  Ameisen et al. (2025), LIT-tmpsuo6l, read in NOTE-tmpn9fx3. It is the
+  Ameisen et al. (2025), [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), read in [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md). It is the
   method's own measurement of where a circuit read off its stand-in stops
   being the model's: close for a layer, diverging with depth. It does not
   say how faithful the circuits of any case study are, which were chosen
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Ameisen et al. (2025), *Circuit Tracing*, LIT-tmpsuo6l, read in
-NOTE-tmpn9fx3: "Evaluating Mechanistic Faithfulness" and the appendix
+Ameisen et al. (2025), *Circuit Tracing*, [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), read in
+[NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md): "Evaluating Mechanistic Faithfulness" and the appendix
 "Validating the Replacement Model" (node-to-logit influence,
 feature-to-feature influence, faithfulness of the local replacement
 model).
@@ -90,7 +90,7 @@ influence could have failed to predict ablation effects.
   authors call coarse; they suggest supernodes may "denoise" errors and
   that cruxy features are perturbed where their output is strong.
 - **Not a test of independent validity for direct effects.** Part of any
-  agreement is guaranteed by construction (THEORY-tmpbtnf0).
+  agreement is guaranteed by construction ([THEORY-tmpbtnf0](THEORY-tmpbtnf0.md)).
 - **Not that larger dictionaries are less useful.** Larger CLTs reconstruct
   better and give better graphs on other metrics; this is only their
   perturbation faithfulness.

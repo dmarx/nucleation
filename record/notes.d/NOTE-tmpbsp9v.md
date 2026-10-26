@@ -123,7 +123,7 @@ inspected without running a prompt.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | With frozen attention and linearized LayerNorm, the attribution of an active transcoder feature to a later one is its activation times an input-invariant decoder–encoder dot product | strong (derivation, under the stated approximations) | Eq. 7, App. D.2; re-derived in THEORY-tmp9ii0y |
+| C1 | With frozen attention and linearized LayerNorm, the attribution of an active transcoder feature to a later one is its activation times an input-invariant decoder–encoder dot product | strong (derivation, under the stated approximations) | Eq. 7, App. D.2; re-derived in [THEORY-tmp9ii0y](../theory.d/THEORY-tmp9ii0y.md) |
 | C2 | Transcoders are on or above the SAE sparsity–fidelity frontier on GPT2-small, Pythia-410M and Pythia-1.4B | moderate (one layer per model, one learning rate tuned on transcoders, one seed) | §4.2, Fig. 3 |
 | C3 | Transcoder features are about as interpretable as SAE features | weak to moderate (50 features each, one model and layer, one rater) | §4.1, Table 1 |
 | C4 | Circuit analysis with transcoders can recover a feature's meaning without seeing the prompts | moderate as existence (5 of 9 full successes) | §5.1, App. H, Table 4 |
@@ -160,37 +160,37 @@ It builds on Elhage et al.'s framework (frozen QK, OV circuits, the residual
 stream as a sum), on Dunefsky and Cohan's observable propagation for the
 backward feature vectors, on Marks et al.'s sparse feature circuits for the
 error-node idea, and on Hanna et al. for the greater-than circuit. Gemma
-Scope (LIT-611, read in NOTE-482) trained transcoders on Gemma 2 2B and
+Scope ([LIT-611](../literature.d/LIT-611.md), read in [NOTE-482](NOTE-482.md)) trained transcoders on Gemma 2 2B and
 found them worse than MLP-output SAEs at fixed L0, "reversing the GPT-2
 Small finding of Dunefsky et al.", with implementation error among the
-causes it lists. Ameisen et al. (LIT-tmpsuo6l) take the attribution rule
+causes it lists. Ameisen et al. ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md)) take the attribution rule
 from here, "essentially the same as that of Dunefsky et al.", and extend it
 to cross-layer transcoders.
 
 ## Bearing on the record
 
-- **CLAIM-tmpwr001.** The paper is a case of the claim's distinction made
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The paper is a case of the claim's distinction made
   technical. A feature recovered from activity (an SAE latent) does not by
   itself say what it does to later features; a transcoder feature comes
   with its downstream weights. But the weights are those of a replacement
   trained to match outputs, and the "caught" case shows the replacement
   computing a feature differently from the model. Recovering a unit is not
   recovering the mechanism that uses it.
-- **THEORY-802 and QUESTION-234.** The dictionary fixes the decomposition
+- **[THEORY-802](../theory.d/THEORY-802.md) and [QUESTION-234](../questions.d/QUESTION-234.md).** The dictionary fixes the decomposition
   into units, and the factorization is relative to it. The paper does not
   ask whether another dictionary with the same fidelity would give other
   circuits.
-- **LIT-611 / NOTE-482 / THEORY-504.** NOTE-482's transcoder result and C2
+- **[LIT-611](../literature.d/LIT-611.md) / [NOTE-482](NOTE-482.md) / [THEORY-504](../theory.d/THEORY-504.md).** [NOTE-482](NOTE-482.md)'s transcoder result and C2
   here disagree, on different models. Neither settles which holds where.
-  THEORY-tmptjiep is scoped to the three models measured here, so the two
+  [THEORY-tmptjiep](../theory.d/THEORY-tmptjiep.md) is scoped to the three models measured here, so the two
   do not contradict.
-- **QUESTION-tmpivbso.** Transcoder weights are one candidate for the
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** Transcoder weights are one candidate for the
   "circuit-only" description the question compares against: a
   checkpoint's circuit as a weighted graph over features. The paper trains
   on one checkpoint per model and does not say how features would be
   matched across training.
-- **Accounts filed.** THEORY-tmp9ii0y (Active): the factorization, as a
-  derivation under its approximations. THEORY-tmptjiep (Active): the SAE
+- **Accounts filed.** [THEORY-tmp9ii0y](../theory.d/THEORY-tmp9ii0y.md) (Active): the factorization, as a
+  derivation under its approximations. [THEORY-tmptjiep](../theory.d/THEORY-tmptjiep.md) (Active): the SAE
   comparison, as measured.
 
 The method is interpretability practice, not an instruction for training

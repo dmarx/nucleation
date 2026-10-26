@@ -20,7 +20,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpsuo6l
 summary: >-
-  Ameisen et al. (2025), LIT-tmpsuo6l, read in NOTE-tmpn9fx3: the local
+  Ameisen et al. (2025), [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), read in [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md): the local
   replacement model, the edge formula and the appendix on steering,
   re-derived here. It is a statement about what an attribution graph is
   exact for, not about the model: exactness holds at the unperturbed point
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Ameisen et al. (2025), *Circuit Tracing*, Transformer Circuits Thread,
-LIT-tmpsuo6l, read in NOTE-tmpn9fx3: "The Local Replacement Model",
+[LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), read in [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md): "The Local Replacement Model",
 "Constructing an Attribution Graph for a Prompt", "Validating Attribution
 Graph Hypotheses with Interventions" and the appendix "Nuances of Steering
 with Cross-Layer Features". The companion, LIT-tmpjvwet, restates the
@@ -92,7 +92,7 @@ the graph; a direct effect before it cannot.
 - **Not that the model uses the graph's mechanism.** Exactness holds at
   the unperturbed point. Away from it the replacement and the model can
   respond differently, and the article measures that they do
-  (THEORY-tmpm4ifd). Its own analogy: "a Taylor approximation of a function
+  ([THEORY-tmpm4ifd](THEORY-tmpm4ifd.md)). Its own analogy: "a Taylor approximation of a function
   f at a point a".
 - **Not that the error terms are small.** They are constants with no
   inputs; an attribution graph whose influence runs through them explains
@@ -106,7 +106,7 @@ the graph; a direct effect before it cannot.
 
 ## Connections
 
-- **THEORY-tmp9ii0y** is the per-layer form of Step 2, from Dunefsky et al.
-- **CLAIM-tmpwr001.** The graph is exact for a stand-in at a point, which
+- **[THEORY-tmp9ii0y](THEORY-tmp9ii0y.md)** is the per-layer form of Step 2, from Dunefsky et al.
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The graph is exact for a stand-in at a point, which
   is what a recovered feature set can at most give before the stand-in's
   mechanism is checked against the model's.

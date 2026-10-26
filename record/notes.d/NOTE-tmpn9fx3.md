@@ -149,11 +149,11 @@ into "our CLT taking a non-mechanistically faithful shortcut".
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | On a prompt, the local replacement model reproduces the model's activations and outputs exactly, and each feature's pre-activation is the sum of its incoming edges | strong (by construction) | Local Replacement Model; Constructing an Attribution Graph; re-derived in THEORY-tmpbtnf0 |
-| C2 | Under constrained patching with frozen attention, a direct edge's predicted effect is confirmed by construction when the patch ends at the target's encoder layer, so perturbations test only knock-on effects and outputs | strong (by construction; the authors' own statement) | Appendix: Nuances of Steering; THEORY-tmpbtnf0 |
-| C3 | The replacement's perturbation responses track the model's for about a layer and diverge with depth, worse in magnitude than direction and slightly worse for larger dictionaries | moderate (18L; 20 prompts for the influence tests) | Evaluating Mechanistic Faithfulness and its appendix; THEORY-tmpm4ifd |
+| C1 | On a prompt, the local replacement model reproduces the model's activations and outputs exactly, and each feature's pre-activation is the sum of its incoming edges | strong (by construction) | Local Replacement Model; Constructing an Attribution Graph; re-derived in [THEORY-tmpbtnf0](../theory.d/THEORY-tmpbtnf0.md) |
+| C2 | Under constrained patching with frozen attention, a direct edge's predicted effect is confirmed by construction when the patch ends at the target's encoder layer, so perturbations test only knock-on effects and outputs | strong (by construction; the authors' own statement) | Appendix: Nuances of Steering; [THEORY-tmpbtnf0](../theory.d/THEORY-tmpbtnf0.md) |
+| C3 | The replacement's perturbation responses track the model's for about a layer and diverge with depth, worse in magnitude than direction and slightly worse for larger dictionaries | moderate (18L; 20 prompts for the influence tests) | Evaluating Mechanistic Faithfulness and its appendix; [THEORY-tmpm4ifd](../theory.d/THEORY-tmpm4ifd.md) |
 | C4 | CLTs give shorter paths and higher replacement scores than PLTs of equal size, and both beat thresholded neurons | moderate (dataset averages shown as plots; two single-prompt tables) | Evaluations |
-| C5 | A feature whose pre-activation is additively separable in two operands cannot be a general sum feature, so one-step addition needs intermediate lookup-table features | strong (argument), with the separability premise | Addition Case Study, footnote; THEORY-tmp7rb6m |
+| C5 | A feature whose pre-activation is additively separable in two operands cannot be a general sum feature, so one-step addition needs intermediate lookup-table features | strong (argument), with the separability premise | Addition Case Study, footnote; [THEORY-tmp7rb6m](../theory.d/THEORY-tmp7rb6m.md) |
 | C6 | Haiku adds two-digit numbers by parallel ones-digit and magnitude heuristics that combine, a "graph of heuristics" | moderate for 36 + 59 and the addition domain | Addition Case Study; Global Weights in Addition |
 | C7 | Global virtual weights are dominated by interference and need on-distribution statistics to read | moderate (examples) | Global Weights |
 
@@ -180,50 +180,50 @@ into "our CLT taking a non-mechanistically faithful shortcut".
 
 ## Connections
 
-It extends Dunefsky et al. (LIT-tmptgo43), "essentially the same" attribution
+It extends Dunefsky et al. ([LIT-tmptgo43](../literature.d/LIT-tmptgo43.md)), "essentially the same" attribution
 rule, to cross-layer features, with error nodes from Marks et al. and a
 global pruning rule. It inherits the freezing of QK circuits from Elhage et
 al.'s framework. Its addition features place Nikankin et al.'s "bag of
 heuristics" in a graph and set it beside Kantamneni and Tegmark's Fourier
 subspaces. Its companion is LIT-tmpjvwet. The same team's superposition
-paper is LIT-323 and its interpretability-by-dictionary line includes the
-workspace paper LIT-1347. MIB (LIT-tmprlq7z) is the neighbouring attempt to
+paper is [LIT-323](../literature.d/LIT-323.md) and its interpretability-by-dictionary line includes the
+workspace paper [LIT-1347](../literature.d/LIT-1347.md). MIB ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)) is the neighbouring attempt to
 score circuit localization against a fixed counterfactual.
 
 ## Bearing on the record
 
-- **CLAIM-tmpwr001.** The paper builds the claim's caution into its method:
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The paper builds the claim's caution into its method:
   features are units of a stand-in, the graph is a hypothesis, and the
   authors measure the stand-in's divergence. Its own example of divergence
   (Copenhagen–Denmark amplification invisible in CLT graphs) is a case of a
   representation that reproduces outputs while computing differently.
-- **THEORY-022.** The addition features here are not the grokking network's
+- **[THEORY-022](../theory.d/THEORY-022.md).** The addition features here are not the grokking network's
   circle: they include ones-digit lookup tables, magnitude ranges and
   "starts with 51" patterns, some of which "aren't describable in Fourier
   terms", alongside mod-10 and mod-100 features that are. The record's
   claim is about a network trained on modular addition; this is a model
-  trained on text, and both are compatible. THEORY-tmp7rb6m explains why
+  trained on text, and both are compatible. [THEORY-tmp7rb6m](../theory.d/THEORY-tmp7rb6m.md) explains why
   some intermediate step is forced.
-- **THEORY-802 and QUESTION-234.** The authors concede the decomposition is
+- **[THEORY-802](../theory.d/THEORY-802.md) and [QUESTION-234](../questions.d/QUESTION-234.md).** The authors concede the decomposition is
   a choice: supernodes are hand-grouped, features split with dictionary
   size ("the degree of generality of the features appears to decrease with
   the size of our cross-layer transcoder"), and "there's no guarantee that
   the CLT features are the most parsimonious way to split up the
-  computation". That is THEORY-802's basis-relativity at the level of
+  computation". That is [THEORY-802](../theory.d/THEORY-802.md)'s basis-relativity at the level of
   dictionaries, not tested here.
-- **THEORY-tmp8cat0 / THEORY-tmpkd3fq.** The Limitations section says the
+- **[THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md) / [THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md).** The Limitations section says the
   method cannot see induction: on "Aunt Sally … Aunt" the graph shows only
   that "Sally" was earlier, "a kind of regression" against the earlier
   attention-only analyses. Attribution graphs therefore give no test of
-  THEORY-tmpkd3fq's large-model thesis.
-- **QUESTION-tmpivbso.** A CLT trained per checkpoint would give the
+  [THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md)'s large-model thesis.
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** A CLT trained per checkpoint would give the
   circuit-only description the question compares against, but nothing here
   matches features across checkpoints, and the cost is large (estimated
   210 H100 hours for 2M features on Gemma 2 2B).
-- **Accounts filed.** THEORY-tmpbtnf0 (Active, by construction): what an
+- **Accounts filed.** [THEORY-tmpbtnf0](../theory.d/THEORY-tmpbtnf0.md) (Active, by construction): what an
   attribution graph is exact for and what a perturbation can test.
-  THEORY-tmpm4ifd (Active, as measured): the replacement's faithfulness on
-  18L. THEORY-tmp7rb6m (Active, re-derived): the parallelogram constraint.
+  [THEORY-tmpm4ifd](../theory.d/THEORY-tmpm4ifd.md) (Active, as measured): the replacement's faithfulness on
+  18L. [THEORY-tmp7rb6m](../theory.d/THEORY-tmp7rb6m.md) (Active, re-derived): the parallelogram constraint.
 
 It is interpretability practice, not an instruction for training models;
 the anthology may want it as a reading (`anthology-candidate`).

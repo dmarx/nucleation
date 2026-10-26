@@ -19,19 +19,19 @@ date: '2026-10-26'
 source:
 - LIT-tmptgo43
 summary: >-
-  Dunefsky, Chlenski and Nanda (2024), LIT-tmptgo43, read in NOTE-tmpbsp9v:
+  Dunefsky, Chlenski and Nanda (2024), [LIT-tmptgo43](../literature.d/LIT-tmptgo43.md), read in [NOTE-tmpbsp9v](../notes.d/NOTE-tmpbsp9v.md):
   §4, Table 1, Fig. 3 and Apps. E–F. It does not say transcoders are better
   than SAEs in general. The SAE learning rate was not tuned, all runs
   shared one seed and data order, one layer per model was measured, and on
   Gemma 2 2B Gemma Scope found transcoders worse than MLP-output SAEs at
-  fixed L0 (LIT-611, NOTE-482).
+  fixed L0 ([LIT-611](../literature.d/LIT-611.md), [NOTE-482](../notes.d/NOTE-482.md)).
 ---
 # THEORY-tmptjiep: On one MLP layer each of GPT2-small, Pythia-410M and Pythia-1.4B, transcoders trained to imitate the MLP lay on or above the sparsity–loss frontier of sparse autoencoders trained on its output, at one learning rate tuned on transcoders and one seed, and in a single rater's blind reading of 50 random features each from Pythia-410M layer 15, 41 transcoder and 38 SAE features were judged interpretable
 
 ## Source
 
-Dunefsky, Chlenski and Nanda (2024), arXiv:2406.11944, LIT-tmptgo43, read
-in full in NOTE-tmpbsp9v: §4.1–4.2, Table 1, Fig. 3, Apps. E and F.
+Dunefsky, Chlenski and Nanda (2024), arXiv:2406.11944, [LIT-tmptgo43](../literature.d/LIT-tmptgo43.md), read
+in full in [NOTE-tmpbsp9v](../notes.d/NOTE-tmpbsp9v.md): §4.1–4.2, Table 1, Fig. 3, Apps. E and F.
 
 ## What was actually shown
 
@@ -63,8 +63,8 @@ have favoured the SAE.
 - **Not a general ranking.** The authors: the shared learning rate "might
   not be optimal for SAEs", and "a different set of hyperparameters could
   have allowed SAEs to surpass transcoders". One seed, one layer per model.
-- **Not for other models.** On Gemma 2 2B the order reverses (LIT-611,
-  NOTE-482), for reasons not established.
+- **Not for other models.** On Gemma 2 2B the order reverses ([LIT-611](../literature.d/LIT-611.md),
+  [NOTE-482](../notes.d/NOTE-482.md)), for reasons not established.
 - **Not an interpretability measurement in any strong sense.** One rater,
   one layer, one model, top-activating examples only; the three-point gap
   in "interpretable" is within what a second rater could move.
