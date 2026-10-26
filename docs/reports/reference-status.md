@@ -444,7 +444,7 @@ The loop that keeps a lucid agent's model in touch with what it models runs betw
 - [`record/cases.d/CASE-107.md:99`](../../record/cases.d/CASE-107.md)
 - [`record/cases.d/CASE-107.md:122`](../../record/cases.d/CASE-107.md)
 - [`record/cases.d/CASE-107.md:144`](../../record/cases.d/CASE-107.md)
-- [`record/claims.d/CLAIM-336.md:119`](../../record/claims.d/CLAIM-336.md)
+- [`record/claims.d/CLAIM-336.md:128`](../../record/claims.d/CLAIM-336.md)
 - [`record/claims.d/CLAIM-337.md:70`](../../record/claims.d/CLAIM-337.md)
 - [`record/claims.d/CLAIM-337.md:88`](../../record/claims.d/CLAIM-337.md)
 - [`record/claims.d/CLAIM-337.md:98`](../../record/claims.d/CLAIM-337.md)
@@ -521,7 +521,7 @@ What keeps a judgement–observation loop from confirming itself is evidence who
 - [`record/claims.d/CLAIM-341.md:286`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-357.md:159`](../../record/claims.d/CLAIM-357.md)
 - [`record/claims.d/CLAIM-359.md:175`](../../record/claims.d/CLAIM-359.md)
-- [`record/claims.d/CLAIM-427.md:92`](../../record/claims.d/CLAIM-427.md)
+- [`record/claims.d/CLAIM-427.md:102`](../../record/claims.d/CLAIM-427.md)
 - [`record/literature.d/LIT-1179.md:45`](../../record/literature.d/LIT-1179.md)
 - [`record/literature.d/LIT-1180.md:7`](../../record/literature.d/LIT-1180.md)
 - [`record/literature.d/LIT-1180.md:67`](../../record/literature.d/LIT-1180.md)
@@ -1755,7 +1755,7 @@ Some persistent anxiety may be governance-maintained rather than belief-maintain
 - [`record/claims.d/CLAIM-447.md:114`](../../record/claims.d/CLAIM-447.md)
 - [`record/claims.d/CLAIM-452.md:112`](../../record/claims.d/CLAIM-452.md)
 - [`record/questions.d/QUESTION-045.md:78`](../../record/questions.d/QUESTION-045.md)
-- [`record/questions.d/QUESTION-270.md:90`](../../record/questions.d/QUESTION-270.md)
+- [`record/questions.d/QUESTION-270.md:99`](../../record/questions.d/QUESTION-270.md)
 - [`record/questions.d/QUESTION-271.md:61`](../../record/questions.d/QUESTION-271.md)
 
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
@@ -2929,7 +2929,7 @@ What the record explained by "self" in its dispositional, persisting, self-gover
 
 - [`record/cases.d/CASE-145.md:57`](../../record/cases.d/CASE-145.md)
 - [`record/cases.d/CASE-148.md:22`](../../record/cases.d/CASE-148.md)
-- [`record/claims.d/CLAIM-427.md:77`](../../record/claims.d/CLAIM-427.md)
+- [`record/claims.d/CLAIM-427.md:87`](../../record/claims.d/CLAIM-427.md)
 - [`record/claims.d/CLAIM-428.md:84`](../../record/claims.d/CLAIM-428.md)
 - [`record/claims.d/CLAIM-430.md:60`](../../record/claims.d/CLAIM-430.md)
 
@@ -3195,7 +3195,7 @@ Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting
 - [`record/literature.d/LIT-1461.md:116`](../../record/literature.d/LIT-1461.md)
 - [`record/notes.d/NOTE-1096.md:191`](../../record/notes.d/NOTE-1096.md)
 - [`record/notes.d/NOTE-1096.md:208`](../../record/notes.d/NOTE-1096.md)
-- [`record/questions.d/QUESTION-270.md:53`](../../record/questions.d/QUESTION-270.md)
+- [`record/questions.d/QUESTION-270.md:62`](../../record/questions.d/QUESTION-270.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
@@ -4784,7 +4784,7 @@ Whether an intervention stabilizes or destabilizes a pattern is relative to a po
 
 2 citations in 2 files await a look; 19 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-336.md:99`](../../record/claims.d/CLAIM-336.md)
+- [`record/claims.d/CLAIM-336.md:108`](../../record/claims.d/CLAIM-336.md)
 - [`record/notes.d/NOTE-725.md:137`](../../record/notes.d/NOTE-725.md)
 
 ### [CLAIM-332](../../record/claims.d/CLAIM-332.md) — Proposed
@@ -6033,7 +6033,7 @@ Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of o
 
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-336.md:99`](../../record/claims.d/CLAIM-336.md)
+- [`record/claims.d/CLAIM-336.md:108`](../../record/claims.d/CLAIM-336.md)
 
 ### [CLAIM-314](../../record/claims.d/CLAIM-314.md) — Proposed
 
@@ -6153,7 +6153,7 @@ Three standards for a communicative distinction come apart: statistical distingu
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-336.md:154`](../../record/claims.d/CLAIM-336.md)
+- [`record/claims.d/CLAIM-336.md:163`](../../record/claims.d/CLAIM-336.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -6817,7 +6817,7 @@ belief, of a process: a maintained, truth-directed inferential commitment, held 
 
 1 citation in 1 file awaits a look.
 
-- [`record/questions.d/QUESTION-270.md:57`](../../record/questions.d/QUESTION-270.md)
+- [`record/questions.d/QUESTION-270.md:66`](../../record/questions.d/QUESTION-270.md)
 
 ### [THEORY-001](../../record/theory.d/THEORY-001.md) — Proposed
 
