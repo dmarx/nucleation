@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp8ci5a
 title: '''Wanting'' and ''liking'' are saliences relative to different, overlapping processes, pursuit and consummation, each ranking states by their bearing on its own concerns; valence is then relative to a perspective, every perspective in the negotiation has its own, the system''s valence is that of the perspective whose ordering is the negotiation''s potential, and ambivalence is strong saliences of opposite sign with no potential absorbing them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the lab's v2.6 (dmarx/PerspectiveLab@74621fb)
+    makes wanting and liking separate operational quantities in a
+    stipulated synthetic model. It has no pursuit or consummatory process,
+    so it neither meets nor defeats the claim. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -148,3 +156,34 @@ from positive pleasure and from reinforcement ([CLAIM-446](CLAIM-446.md)). Nothi
 here makes pleasure the organism's ultimate value: [CLAIM-433](CLAIM-433.md) keeps
 pleasantness apart from goal-conduciveness, and [QUESTION-266](../questions.d/QUESTION-266.md) keeps the
 inferred potential, a hedonic marker and the self-model apart.
+
+## Note of 2026-10-26: wanting and liking as separate quantities in a synthetic model
+
+The lab's v2.6 (dmarx/PerspectiveLab@74621fb
+experiments/affective_dissociation/) builds on this claim's distinction
+and on [QUESTION-270](../questions.d/QUESTION-270.md). It makes wanting and liking separate operational
+quantities. Liking is an exogenous outcome value, read by an assay that
+does not use action. Wanting is a proxy, anticipated pleasure plus cue
+drive plus another pursuit motive, read with noise of its own. It leaves
+out habit and the final choice, and the study's inference does not use
+it. After devaluation every class has liking −1 and pursues with
+probability 0.668. In the cue class the wanting proxy is +1.9. In the
+habit class it is −0.5, so pursuit there runs with neither wanting nor
+liking by these measures. The claim's first defeater asks for a
+wanting–liking dissociation, and this is action dissociated from both.
+Whether habit belongs to the pursuit process the model does not say.
+
+A longitudinal run, with liking dropping from +1 to −1 in one step,
+shows anticipated pleasure and pursuit adjusting at different rates in
+different classes. The rates are programmed: the learning rate is 0.045
+in the belief-error class and 0.028 in the others, and only the habit
+class has a habit term that grows and decays. Three of the five classes
+follow the same course.
+
+The model has no pursuit or consummatory process ranking states by its
+own concerns. Wanting and liking are terms in one logit. So it does not
+individuate the processes, which is [TERM-072](../terms.d/TERM-072.md)'s open problem, and it has
+no perspectives' valences, no prevailing ordering and no ambivalence. Its
+relations are stipulated and are not evidence about incentive
+sensitization ([THEORY-895](../theory.d/THEORY-895.md)). It neither meets nor defeats the claim. The
+claim is unchanged.

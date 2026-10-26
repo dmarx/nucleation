@@ -10,7 +10,10 @@ history:
   date: '2026-10-26'
   note: >-
     A dated note added: the Perspective Population Lab is a tool for
-    this comparison and not an answer to it. The question is unchanged.
+    this comparison and not an answer to it. Extended the same day with
+    the lab's v2.6 affective dissociation (dmarx/PerspectiveLab@74621fb):
+    one phenomenon within a known catalog, which leaves the lab a tool.
+    The question is unchanged.
 tags:
 - self-governance
 - behavioral-integration
@@ -73,4 +76,16 @@ control as hypotheses. It has predicted no independently measured habit,
 rumination, rigidity, akrasia or insight from shared variables, and has
 been compared with no model built for one phenomenon or around a central
 executive. It is a tool for this question's comparison, not an answer.
-The question is unchanged.
+
+The lab's v2.6 (dmarx/PerspectiveLab@74621fb
+experiments/affective_dissociation/) adds an affective domain: five
+stipulated causes of continued pursuit after an outcome is devalued,
+habit among them as one of the rivals. That is one phenomenon, not
+several, and habit in it is a class written into the generator, not a
+phenotype predicted from shared variables. Its comparison is between
+measurements within one known catalog. Interventions predicted from
+probes and readouts beat those predicted from passive choice (mean MSE
+0.00230 against 0.03496), a conventional model of the same law makes the
+same predictions, and a hybrid left out of the catalog is assigned to a
+catalog class in all 40 of its test worlds. It is still a tool, not this
+comparison. The question is unchanged.

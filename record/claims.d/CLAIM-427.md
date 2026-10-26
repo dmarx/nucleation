@@ -16,8 +16,12 @@ history:
     (dmarx/PerspectiveLab@e9efcf4), which equalizes data and parameter
     count and still does not reach the third grade, and with v2.5's
     adequacy guard (dmarx/PerspectiveLab@f392084), whose same-kernel
-    conventional control takes every action the guard takes. The claim
-    is unchanged.
+    conventional control takes every action the guard takes. Extended
+    again with v2.6's affective dissociation
+    (dmarx/PerspectiveLab@74621fb), which meets the first two grades in a
+    new domain within a supplied catalog, ties a same-kernel conventional
+    predictor and misassigns an unmodelled hybrid in every test world.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -153,3 +157,31 @@ kernels, likelihood, detector and costs takes the same actions and makes
 the same predictions in every episode. So what helps is ordinary
 robust model checking, not anything specific to the organizational
 description, and the third grade is still unmet.
+
+<!-- inactive-ok-file: CLAIM-437 — Proposed; the claim the lab's v2.6 operationalizes, cited as open, nothing here rests on it -->
+
+The lab's v2.6 (dmarx/PerspectiveLab@74621fb
+experiments/affective_dissociation/) carries the grades into affect,
+after [CLAIM-437](CLAIM-437.md) and [QUESTION-270](../questions.d/QUESTION-270.md). Five stipulated causes of pursuit after
+an outcome is devalued share one pursuit probability, 0.668188, and are
+separated by interventions written into the generator. That meets the
+first two grades within a synthetic construction, the first only for the
+one-step choice: over a longitudinal run two of the classes drift apart
+from the other three. Four interventions are withheld as targets, three
+of them combinations of the diagnostic arms and one a halved authority.
+Predicted from the catalog's equations with the diagnostic probes and
+readouts, they have a mean MSE across the catalog of 0.00230, against
+0.03496 from passive choice alone. A ridge regression trained on the
+source worlds' target outcomes reaches 0.00646. It is given different
+information, and the structural predictor beats it with a bootstrap
+interval excluding zero in three of the five classes. The study's
+same-kernel conventional row ties exactly, but it is computed by the same
+function as the structural row. The lab's tests check the equivalence
+separately: a feature-table model of the same law gives the same
+probabilities, to 14 places, in every class and arm. A hybrid of cue
+drive and denied uptake, left out of the catalog, is assigned to a
+catalog class in all 40 test worlds, 27 of them with a top posterior
+above 0.9, and the adequacy check alarms in 9. The gain is a reward for
+measuring the relevant variables inside a supplied catalog. It is not a
+comparison at matched complexity and information, and the third grade is
+still unmet.
