@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcp1lb
 title: 'Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework''s defeater, and no grade counts if success is defined in the framework''s own terms'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -22,6 +22,16 @@ history:
     new domain within a supplied catalog, ties a same-kernel conventional
     predictor and misassigns an unmodelled hybrid in every test world.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A second dated note of 2026-10-26 added: the lab's v2.7 to v2.9
+    (dmarx/PerspectiveLab@c54617e). v2.7 matches the information given to
+    fitted predictors but not their complexity, and its uptake predictor
+    loses in the world built for it; v2.8 has no comparator; v2.9's
+    conventional tie is the same code, and its 15-feature ridge rival is
+    weaker, not stronger. The third grade is still unmet. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -184,4 +194,46 @@ catalog class in all 40 test worlds, 27 of them with a top posterior
 above 0.9, and the adequacy check alarms in 9. The gain is a reward for
 measuring the relevant variables inside a supplied catalog. It is not a
 comparison at matched complexity and information, and the third grade is
+still unmet.
+
+## Note of 2026-10-26 (later): v2.7 to v2.9 on the grades
+
+The lab's v2.7 to v2.9 are at dmarx/PerspectiveLab@c54617e.
+
+v2.7 (experiments/trained_affect/) comes nearest to the third grade's
+information condition. Seven predictors of pursuit are fitted to the same
+8,640 recorded choices from four synthetic worlds and scored on eight,
+four of them held out. Their coefficient counts run from 2 to 15, so
+complexity is not matched. The predictor with an uptake term has 5
+coefficients. It loses in the governance world, whose generator gives that
+term its largest weight, to a 15-coefficient model with cross terms (MSE
+0.01586 against 0.01205; paired seed-cluster difference +0.0038, 95%
+interval [+0.0034, +0.0041]). It also loses there to a 7-coefficient model
+with main effects and no interaction (0.01378). It beats the
+15-coefficient model in one world, a held-out hybrid of cue drive and
+governance (0.00423 against 0.00511), and loses to it in the other seven,
+three of them held out. On the source data a BIC-like score already
+favours the main-effects model (7,414 bits against 7,441), before the
+report's 12-bit charge for the hand-chosen term. Its same-feature
+conventional row is a copy of the fitted uptake predictor, so that tie is
+an identity. The record's distinction is not needed to predict the
+model's own synthetic interventions, and its one advantage is an
+inductive bias that suits one shift.
+
+v2.8 (experiments/perspective_engine/) adds interpretive frames and runs
+no comparator. Its README calls it a coverage test, not a superiority
+test.
+
+v2.9 (experiments/endogenous_frames/) selects a one-feature frame from a
+grammar of 15 rules by search on training labels, and a critic admits it
+on validation labels. Its conventional row runs the same selection code,
+so that tie is an identity too. The lab's tests check separately that the
+frame, operator and governor predict exactly as the selected feature
+does. A 15-feature ridge regression on the same labels is not a stronger
+rival. It is worse than the selected frame in the five worlds whose law
+does not change (in the relational one 0.13442 against 0.12511). It is
+better only in the two worlds whose law changes after selection, and only
+before new feedback, where both are worse than a constant forecast of one
+half (0.59864 and 0.61897 against 0.25 in the reversal world). Neither
+version is a comparison at matched complexity, and the third grade is
 still unmet.

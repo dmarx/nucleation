@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpgdvrd
 title: 'An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -19,6 +19,15 @@ history:
     and a comparator pilot. Extended the same day with the lab's v2.3
     matched comparator (dmarx/PerspectiveLab@e9efcf4). The claim is
     unchanged.
+- version: 4
+  date: '2026-10-26'
+  note: >-
+    A second dated note of 2026-10-26 added: the lab's v2.7 to v2.9
+    (dmarx/PerspectiveLab@c54617e). Fitted on the same choices, the uptake
+    predictor loses in its own world to conventional predictors; v2.9's
+    frame engine predicts exactly as feature selection; and v2.8's
+    hand-written frame helps or harms with how well its reading fits the
+    world, which the engine allows either way. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -126,3 +135,28 @@ The result is mixed rather than a defeat, and it is what this objection
 predicts: an advantage has to come from a restriction that is both
 risky and economical, with its prior priced, and the lab has not yet
 shown one.
+
+## Note of 2026-10-26 (later): v2.7 to v2.9
+
+In the lab's v2.7 (dmarx/PerspectiveLab@c54617e
+experiments/trained_affect/), a predictor of pursuit with an
+organizational uptake term is fitted to the same recorded choices as
+conventional predictors. In the synthetic world built to favour it, it is
+beaten by a model with main effects and no interaction (MSE 0.01378
+against 0.01586) and by one with 15 coefficients (0.01205). It wins only
+on one held-out hybrid. In v2.9 (experiments/endogenous_frames/), the
+engine that admits frames predicts exactly as feature selection over the
+same grammar does, and its conventional row is the same code. Both make
+this objection's point again: the organizational vocabulary adds no
+constraint that the conventional model lacks.
+
+v2.8 (experiments/perspective_engine/) shows what the framework permits
+rather than what it forbids. A frame written by hand reads a cue that the
+old frame ignores. Installed together with a raised grant for the
+perspective that holds it and revised operators, it lowers the collective
+forecast's Brier score from 0.368 to 0.135 where the cue agrees with the
+outcome 85% of the time, and raises it to 0.583 where the cue agrees 15%
+of the time. The engine accommodates both. Whether reframing helps is set
+by whether the authored reading fits the world, which is a scope guard on
+reframing and not an outcome the framework rules out. The claim is
+unchanged.

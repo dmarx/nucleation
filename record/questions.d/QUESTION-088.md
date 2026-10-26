@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpkkobi
 title: 'Does modelling psychological organization as processes that allocate influence to one another predict habit, rumination, rigidity, akrasia and insight better, with one shared set of organizational variables, than models built for each phenomenon or around a central executive?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -14,6 +14,15 @@ history:
     the lab's v2.6 affective dissociation (dmarx/PerspectiveLab@74621fb):
     one phenomenon within a known catalog, which leaves the lab a tool.
     The question is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A second dated note of 2026-10-26 added: the lab's v2.7
+    (dmarx/PerspectiveLab@c54617e) fits predictors built for habit and cue
+    sensitization beside one with an organizational term, within one
+    phenomenon, and the specific ones win where their phenomenon dominates;
+    v2.8 and v2.9 build reframing and predict no phenomenon. The lab is
+    still a tool for this comparison. The question is unchanged.
 tags:
 - self-governance
 - behavioral-integration
@@ -89,3 +98,27 @@ probes and readouts beat those predicted from passive choice (mean MSE
 same predictions, and a hybrid left out of the catalog is assigned to a
 catalog class in all 40 of its test worlds. It is still a tool, not this
 comparison. The question is unchanged.
+
+## Note of 2026-10-26 (later): habit fitted, and reframing built
+
+The lab's v2.7 (dmarx/PerspectiveLab@c54617e
+experiments/trained_affect/) is the closest it has come to this
+question's comparison, and it is within one phenomenon, continued pursuit
+after an outcome is devalued. Predictors built for learned value, habit
+and cue sensitization are fitted beside one with an organizational uptake
+term, on the same recorded choices, and scored on synthetic worlds held
+out from fitting. The predictors built for a phenomenon win where it
+dominates: a cue-and-habit predictor scores 0.01152 in the habit world and
+0.00896 in the sensitization world, against 0.02581 and 0.01466 for the
+uptake predictor. In the governance world a generic predictor with no
+interaction beats the uptake predictor. The uptake predictor wins in one
+held-out hybrid. All eight worlds are one logistic law with different
+coefficients.
+
+v2.8 and v2.9 (experiments/perspective_engine/ and
+experiments/endogenous_frames/) build reframing, a perspective reading
+retained evidence under a new frame. The frame is written by hand in v2.8
+and selected in v2.9 from a 15-rule grammar on labelled outcomes. Neither
+predicts insight, rumination or any other phenomenon; each scores a
+synthetic forecast. The lab is still a tool for this comparison, not an
+answer. The question is unchanged.

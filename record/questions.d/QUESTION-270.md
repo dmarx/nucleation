@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmponjie
 title: 'When can an organization hold an evaluation that is accurate, a consummatory process registering that an outcome no longer pleases or a process whose belief keeps predicting well, and still deny it the authority to revise pursuit or the collective judgement, and how is that told apart from the evaluation''s not being recognized at all?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -19,6 +19,15 @@ history:
     registered, by intervention, in a stipulated synthetic model. It meets
     the question's test for the hedonic instance only within that model,
     and no Active entry answers the question. The question is unchanged.
+- version: 4
+  date: '2026-10-26'
+  note: >-
+    A second dated note of 2026-10-26 added: the lab's v2.7
+    (dmarx/PerspectiveLab@c54617e) fits predictors to the same recorded
+    choices, and the one with an uptake term is not needed to predict its
+    own synthetic interventions; registration and authority are set by the
+    experimenter, not measured. No Active entry answers the question. The
+    question is unchanged.
 tags:
 - self-governance
 - emotion-and-affect
@@ -167,3 +176,56 @@ model does not represent (that claim's note of 2026-10-26), and its
 same-kernel tie is [CLAIM-427](../claims.d/CLAIM-427.md)'s point (its note of 2026-10-26). No Active
 claim or reading answers the question ([ADR-049](../decisions.d/ADR-049.md)), and nothing is split
 from it. The question is unchanged.
+
+## Note of 2026-10-26 (later): predictors fitted to the same experiences
+
+The lab's v2.7 (dmarx/PerspectiveLab@c54617e
+experiments/trained_affect/) replaces v2.6's hand-set classes with
+generator worlds and fits predictors to them. Each episode runs 72
+uninterrupted steps, and liking drops from +1 to −1 at step 23. All eight
+worlds share one logistic law of pursuit: learned anticipated value, cue
+drive, habit, and a term for negative liking times registration times
+authority. They differ in its coefficients. The uptake coefficient is
+−1.9 in the governance world and −0.20 to −0.30 in the value, habit and
+sensitization worlds. Of the held-out worlds, one mixes cue drive with
+governance, two add a threshold or a lag to the uptake term, and one makes
+the assays noisier. An outcome is observed only when it is pursued.
+
+Seven predictors are fitted by penalized logistic regression to the same
+8,640 choices from four source worlds, with penalties chosen on 2,880
+validation choices from the same worlds. Each is scored by its one-step
+probability MSE against the generator's law, on 80 held-out episodes per
+world. Registration and authority are not measured. The experimenter sets
+them at each step, and every predictor is given them as inputs. The
+predictors are fitted offline to recorded choices; they are not agents
+that learn by acting.
+
+- The note of 2026-10-25 quoted A31: a sophisticated habit or
+  incentive-learning model "may explain much of the result without any
+  extra governance state". Here a cue-and-habit predictor with 4
+  coefficients does best in the habit world (0.01152) and in the
+  sensitization world (0.00896). The predictor that adds the uptake term,
+  a fifth coefficient, scores 0.02581 and 0.01466.
+- In the governance world the uptake predictor (0.01586) loses to a
+  7-coefficient predictor with main effects of liking, authority and
+  registration and no interaction (0.01378), and to a 15-coefficient one
+  with cross terms (0.01205). It wins only on the held-out cue–governance
+  hybrid, 0.00423 against 0.00511 for the 15-coefficient predictor (paired
+  seed-cluster difference −0.00088, 95% interval [−0.00118, −0.00060]).
+- In the governance world over steps 30 to 50, the wanting proxy averages
+  +0.35, the liking assay −1.008 and the probability of pursuit 0.393.
+- Restoring registration at full authority, with the generator's latent
+  states held fixed at steps 32 and 50, changes pursuit by −0.388 in the
+  governance world, −0.039 in the habit world and 0 in the lagged-authority
+  world. These contrasts are computed from the generator's equations and
+  were never given to the predictors.
+
+So the classes are again told apart by an intervention the experimenter
+makes, and a predictor fitted to the same experiences does not need the
+uptake term to predict it. Registration is not measured apart from the
+experimenter's setting, which is the second requirement under "What would
+answer it". Liking still drops in one step. No world's authority shapes
+its evidence: choice gates what is sampled, in every world alike. The
+epistemic instance is not touched. No Active claim or reading answers the
+question ([ADR-049](../decisions.d/ADR-049.md)), and nothing is split from it. The question is
+unchanged.

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpu6zq7
 title: 'With one population of perspectives, do the three ways of giving them influence that the owner proposed (neighbourhoods in a space whose radii others can change, a shared channel into which they emit at rates, and a budget of passes or locations at which each may act on a common representation) produce different collective decision regimes, and how far does each mechanism''s nominal resource predict the counterfactual influence a perspective actually has?'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -13,6 +13,15 @@ history:
     of MultiDiffusion and Multi-LoRA composition: the third mechanism has
     two published forms and A45's a third, and two results bear against the
     no branch in its time-averaged form. The question stays Open.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the lab's v2.8 (dmarx/PerspectiveLab@c54617e) builds
+    the convex-share mechanism and a sequential mode, and measures a
+    perspective's exclusion effect apart from its grant; most of the
+    measured rise is a concept only that perspective writes. The other two
+    mechanisms are not built and the matched-budget comparison is not run.
+    The question is unchanged.
 tags:
 - complex-systems
 - self-governance
@@ -120,3 +129,36 @@ vector of influence weights, the ℓ of [CASE-160](../cases.d/CASE-160.md).
 
 The apps the exchange reported for U33 and after (a population lab, then
 v0.2 to v1.0) are not held, and the record has not run the comparison.
+
+## Note of 2026-10-26: one mechanism built, with grant and exclusion effect measured
+
+The apps of U33 and after are now held, as dmarx/PerspectiveLab. Its v2.8
+(dmarx/PerspectiveLab@c54617e experiments/perspective_engine/) builds
+one of the three mechanisms in A45's form, a share of one combined step.
+A governor combines the perspectives' proposals for each concept by their
+nominal grants, from one frozen snapshot. A sequential mode re-evaluates
+each perspective after the previous one's update, with the same shares
+per concept, and the lab's tests show that its result depends on the
+order. Neither neighbourhoods with radii nor a channel with emission rates
+is built, and the study runs only the synchronous mode.
+
+It does measure influence apart from grant. A perspective's effect is the
+distance between the workspace after five updates with and without its
+grant, from the same starting state. Over 24 seeds the reframer's grant is
+0.18 with and without its new frame, and its effect rises from 0.059 to
+0.748 when the frame is active. With the frame and a grant of 0.60 it is
+0.914. Most of that rise is a coordinate only the reframer writes:
+excluding it removes the new concept, and the distance counts the
+missing coordinate as a full difference. On the decision coordinate
+alone, in a rerun of the lab's code for this review, the reframer's
+effect with the frame is 0.247 where the cue is positive and 0.069 where
+it is negative, against 0.059 without the frame. The report describes the
+24 seeds as a "matched positive-cue initial state". They are not: 16 have
+a positive cue and 8 a negative one, and each run starts with the arm
+already applied rather than after four common updates.
+
+Within this one mechanism, then, a perspective's grant does not predict
+its counterfactual influence once a new frame changes what it can read.
+That bears on the question's second part for the convex share only, in
+one construction. The matched-budget comparison of the three mechanisms
+is not run. The question is unchanged.

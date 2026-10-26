@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -32,6 +32,15 @@ history:
     A dated note added: the Perspective Population Lab is now held
     (dmarx/PerspectiveLab), and its versions to v2.2 build the influence
     side only. The claim is unchanged.
+- version: 6
+  date: '2026-10-26'
+  note: >-
+    A second dated note of 2026-10-26 added: the lab's v2.8
+    (dmarx/PerspectiveLab@c54617e) is the first version with frames,
+    operators and a governor on one shared workspace, and v2.9 selects the
+    frame by supervised search; in v2.9 the engine predicts exactly as a
+    one-feature selector. Neither derives a joint prediction of the two
+    lines. The claim stays untested and is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -211,3 +220,41 @@ rules maintained by members and identified by probes ([CASE-161](../cases.d/CASE
 record of which of two alternatives the evidence favours, so none can
 derive a joint prediction of the two lines. The claim stays untested
 and is unchanged.
+
+## Note of 2026-10-26 (later): frames in the lab
+
+The note of 2026-10-26 said that no version of the lab to v2.2 has a
+frame, a judgement or a meaning state. Its v2.8
+(dmarx/PerspectiveLab@c54617e experiments/perspective_engine/) is the
+first that does. A frame maps a retained log of raw events to semantic
+features. Each perspective holds a frame, an operator and a concern of its
+own, and proposes values for named concepts in one shared workspace. A
+governor combines the proposals by nominal grants, either in one convex
+step from a frozen snapshot or in sequence. That is this claim's model in
+executable form: the frame is the context under which an operator acts,
+and the governor allocates influence among operators.
+
+In its study three perspectives read one refusal and a later-contact cue
+over 12 updates. At update 4 one of five arms is applied: nothing, a
+raised grant for the reframer, revised operators under the old frame, a
+frame written by hand that reads the cue as evidence for a new concept, or
+all three together. The raw evidence and the first four updates are the
+same in every arm, and only the arms with the new frame use the cue. With
+all three changes, the forecast's Brier score is 0.135 where the cue
+agrees with the outcome 85% of the time and 0.583 where it agrees 15%.
+Every other arm and world scores worse than a constant forecast of one
+half (0.25). The study has no arm with the frame and the raised grant
+alone, so the interaction of meaning with influence is not isolated.
+
+In v2.9 (experiments/endogenous_frames/) the frame is chosen, not
+written. One proposer searches single raw fields and another products of
+two, each fitting the sign of a candidate on 200 training labels. A
+critic admits at most one candidate on 120 validation labels, against a
+threshold calibrated on 320 null worlds. The engine's output equals that
+of the selected feature's predictor exactly, as the lab's tests check.
+
+So the claim's model is now implemented, and in v2.9 it reduces to a
+feature selector. Neither version derives a joint prediction of the
+pragmatic-transport and will-organization lines, which is what the
+claim's defeater asks of the mapping. The claim stays untested and is
+unchanged.
