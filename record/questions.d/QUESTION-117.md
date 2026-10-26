@@ -26,7 +26,9 @@ history:
     A dated note added: the lab shows some of A15's phenomena with no
     comparison to the predecessor models, and a comparator pilot
     (dmarx/PerspectiveLab@dce302b) constrains how such a comparison can
-    be made. The question is unchanged.
+    be made. Extended the same day with the lab's v2.3 matched
+    comparator (dmarx/PerspectiveLab@e9efcf4). The question is
+    unchanged.
 tags:
 - complex-systems
 - network-science
@@ -181,3 +183,16 @@ predictions, by induction in time. So the comparison has to be of
 restrictions, compression or transport, with knowledge of the candidate
 mechanisms priced. The pilot's report says it does not settle this
 question. The question is unchanged.
+
+The lab's v2.3 (dmarx/PerspectiveLab@e9efcf4
+experiments/matched_comparator/) is the first comparison on equal terms
+of data and fitted parameters, though not yet against the models this
+question names. An 8-coefficient structural predictor and generic system
+identifiers are fitted on the same source transitions and tested on
+withheld production laws and a withheld dependency graph. A same-basis
+state-space model ties exactly. A generic 20-coefficient polynomial does
+better on the unseen bottleneck law with the mixed graph, MSE 0.001865
+against 0.004514 over 24 seeds. An 8-coefficient generic polynomial
+leads in one familiar regime, within seed noise. The structural basis is not priced in
+description length, and DeGroot–Friedkin, adaptive networks and
+persuasion bias are still not among the rivals.

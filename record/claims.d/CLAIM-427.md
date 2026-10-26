@@ -12,7 +12,10 @@ history:
     A dated note added: the lab's later versions meet the first two
     grades within synthetic constructions and not the third, and a
     comparator pilot (dmarx/PerspectiveLab@dce302b) shows why fit alone
-    cannot. The claim is unchanged.
+    cannot. Extended the same day with the lab's v2.3 matched comparator
+    (dmarx/PerspectiveLab@e9efcf4), which equalizes data and parameter
+    count and still does not reach the third grade. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -120,3 +123,18 @@ this claim's warning more sharply: renaming governing constraints as
 latent state changes no prediction. So the third grade has to be won by
 restriction, compression or transport, with the prior knowledge of
 mechanisms priced, and not by fit. The claim is unchanged.
+
+The lab's v2.3 (dmarx/PerspectiveLab@e9efcf4
+experiments/matched_comparator/) removes the pilot's unequal
+information. Every model is fitted on the same 208 source episodes of
+96 uninterrupted updates, with the same intervention observations, and
+the primary comparison holds the fitted coefficients at 8 each. Tested
+on held-out production laws and a dependency graph absent from fitting,
+the structural model wins in the familiar sigmoid regime and loses on
+the bottleneck law with the mixed graph to a generic 20-coefficient
+polynomial (MSE 0.004514 against 0.001865; paired seed-cluster
+difference +0.0026, 95% interval [+0.0019, +0.0034]). A state-space
+model with the same feature basis ties exactly. The structural model's
+hand-chosen basis is not priced in description length, and every law
+was written inside one experiment, so this is a better test of the
+third grade that still does not meet it. Its report says so.

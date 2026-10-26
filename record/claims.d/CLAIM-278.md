@@ -16,7 +16,9 @@ history:
   note: >-
     A dated note added: the router result reproduced and run with equal
     audit delay and cost (CASE-tmpr1vuv), the lab's later restrictions,
-    and a comparator pilot. The claim is unchanged.
+    and a comparator pilot. Extended the same day with the lab's v2.3
+    matched comparator (dmarx/PerspectiveLab@e9efcf4). The claim is
+    unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -110,3 +112,17 @@ ties the structural forecaster exactly, by construction. A supervised
 input–output model trained on the candidates' target outcomes beats it at
 nominal parameters, MSE 0.0013 against 0.0021. The pilot's report says it
 "supports the continued force" of this objection. The claim is unchanged.
+
+The lab's v2.3 (dmarx/PerspectiveLab@e9efcf4
+experiments/matched_comparator/) gives every model the same source data
+and the same number of fitted coefficients. A state-space model with the
+same nonlinear basis again ties exactly, so calling that basis
+organizational adds no constraint to the kernel. On production laws and
+a dependency graph withheld from fitting, a generic polynomial with 20
+coefficients transports better than the 8-coefficient structural model
+in four of six regimes, one of them within seed noise, while the
+structural one wins in a familiar regime.
+The result is mixed rather than a defeat, and it is what this objection
+predicts: an advantage has to come from a restriction that is both
+risky and economical, with its prior priced, and the lab has not yet
+shown one.

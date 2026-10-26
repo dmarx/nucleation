@@ -9,3 +9,4 @@
 ### Fixed
 
 - [QUESTION-031](record/questions.d/QUESTION-031.md)'s history item for its split was dated 2026-10-21; the split was made on 2026-10-25, as its note says.
+- From the owner's v2.3 amendment, the same day: the notes on [CLAIM-427](record/claims.d/CLAIM-427.md), [CLAIM-278](record/claims.d/CLAIM-278.md) and [QUESTION-117](record/questions.d/QUESTION-117.md) extended with the lab's v2.3 matched comparator (dmarx/PerspectiveLab@e9efcf4). With equal source data and fitted-parameter counts, a same-basis state-space model ties the structural model exactly, and a generic 20-coefficient polynomial transports better on most withheld production laws. The structural basis is still unpriced, and no status changes.
