@@ -1,13 +1,17 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmpq065x) in full, from the arXiv PDF of v2
+  (30 April 2026); worth reading for the method of tracking features
+  across pretraining checkpoints with one joint dictionary, and for
+  separating a feature's presence (decoder norm) from its causal use
+  (RelIE). Read it knowing that its developmental trends rest on the
+  authors' annotation of a few top features (THEORY-tmpt45mh, Proposed),
+  that it covers one layer and two or three checkpoints at a time, and
+  that a feature shared across checkpoints is shared by construction of
+  the dictionary, not shown to be carried forward.
 title: 'Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -21,6 +25,13 @@ history:
     2509.05291, v1 submitted 5 September 2025, which is `published:`; v2 (30
     April 2026) says it was accepted to ACL 2026. The summary follows the
     arXiv abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmpq065x) from the arXiv PDF of 2509.05291v2. Status
+    Deferred → Active. One account filed: THEORY-tmpt45mh (Proposed). The
+    summary is checked against the reading; "checkpoint triplets" is
+    widened to "pairs and triplets", which the paper uses both.
 tags:
 - representation-learning
 - linguistics
@@ -39,13 +50,14 @@ keywords:
 implementations: []
 summary: >-
   Bayazit, Mueller & Bosselut (2025), arXiv:2509.05291, ACL 2026. Sparse
-  crosscoders trained between pretraining checkpoint triplets with large
+  crosscoders trained between pairs and triplets of pretraining checkpoints with large
   performance and representation shifts discover and align features across
   checkpoints; a metric, Relative Indirect Effects (RelIE), traces the stage
   at which a feature becomes causally important for a task. Crosscoders
   detect feature emergence, maintenance and discontinuation during
   pretraining (abstract).
 ---
+<!-- inactive-ok-file: THEORY-tmpt45mh — Proposed; the account filed from this reading, cited as open -->
 <!-- inactive-ok-file: CASE-tmplcm41 — Proposed; the construction this work bears on, filed from the same exchange, cited as open -->
 
 # LIT-tmpuuwok: Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining
@@ -54,8 +66,8 @@ Bayazit, D., Mueller, A. & Bosselut, A. (2025). Crosscoding through time:
 Tracking emergence & consolidation of linguistic representations throughout
 LLM pretraining. *ACL 2026*. arXiv:2509.05291.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read in full on 2026-10-26 (NOTE-tmpq065x). The summary is checked
+against the reading.
 
 ## Why this is here
 

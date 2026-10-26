@@ -1,13 +1,16 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmpcg7gu) in full, from PMLR's own PDF; worth
+  reading for the thresholded-Gaussian-process construction that keeps
+  each feature's prevalence fixed over a covariate while its covariance
+  sets persistence, the established comparator for a dynamic latent
+  feature model (THEORY-tmpumk4q). Read it knowing that its claim of IBP
+  marginals at every covariate value holds for the whole matrix only in
+  its collapsed model, that features stay independent of one another, and
+  that its evidence is two prediction comparisons with the plain IBP.
 title: 'Dependent Indian Buffet Processes'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -25,6 +28,16 @@ history:
     Williamson, Wang, Heller and Blei (ICML 2010), a different work, which
     no reply cited. No DOI or arXiv copy. The summary follows the PMLR
     abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmpcg7gu) from PMLR's PDF,
+    https://proceedings.mlr.press/v9/williamson10a/williamson10a.pdf,
+    §§1–6 and Appendix A. Status Deferred → Active. THEORY-tmpumk4q filed.
+    The summary is checked against the reading and kept. "Why this is
+    here" said the feature allocation stays IBP-distributed at every
+    covariate value; the reading narrows that to the collapsed model, and
+    the sentence is corrected.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -57,14 +70,15 @@ processes. In *Proceedings of the Thirteenth International Conference on
 Artificial Intelligence and Statistics*, PMLR 9: 924–931.
 https://proceedings.mlr.press/v9/williamson10a.html.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read 2026-10-26 in full, in NOTE-tmpcg7gu. The summary was checked
+against the reading and holds.
 
 ## Why this is here
 
 Cited at T22 for perspectives becoming active, inactive or reorganized as a
 company changes, and at T23 as the construction its dynamic model is not.
 T23's model keeps the IBP prior only at its first time step ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md));
-this is the established model in which the feature allocation stays
-IBP-distributed at every covariate value, and so the comparator for that
-case and for [QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).
+this is the established model in which every item's feature keeps the
+same prevalence at every covariate value, the whole allocation staying
+IBP-distributed in its collapsed form (THEORY-tmpumk4q), and so the
+comparator for that case and for [QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).

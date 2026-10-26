@@ -1,13 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmp56il8) in full, from the arXiv copy (v2, the
+  ICML 2025 version); worth reading for its fixed-counterfactual design of
+  two localization tracks, for the finding that public sparse-autoencoder
+  features were worse units than neurons for known causal variables in
+  every cell tested (THEORY-tmp4lqc8), and for the carry-the-one case,
+  where a representation that looked like the variable was the correlated
+  output digit. Read it knowing that the best causal-variable method, DAS,
+  is supervised by the causal model it is scored against, that the SAE
+  comparison is on residual streams of two models under one selection
+  method, and that the method rankings are interpretability practice.
 title: 'MIB: A Mechanistic Interpretability Benchmark'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -22,6 +27,16 @@ history:
     submitted 17 April 2025, which is `published:`; the comment on v2 (9
     June 2025) says it was accepted to ICML 2025. The summary follows the
     arXiv abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmp56il8), from the arXiv copy, v2 of 9 June 2025,
+    fetched 2026-10-26; its footer confirms ICML 2025, PMLR 267. Status
+    Deferred → Active. One THEORY filed, THEORY-tmp4lqc8, Active. The
+    summary is checked against the reading and corrected: the four tasks
+    are the circuit track's, the causal-variable track adds RAVEL, and the
+    fifth model is the InterpBench model. The T24 sentence it was
+    registered from is borne out by Table 3.
 tags:
 - representation-learning
 - causality
@@ -39,12 +54,15 @@ keywords:
 - 'distributed alignment search'
 implementations: []
 summary: >-
-  Mueller et al. (2025), arXiv:2504.13151, ICML 2025. A benchmark with two
-  tracks over four tasks and five models. In circuit localization,
-  attribution and mask-optimization methods perform best; in causal variable
-  localization, supervised distributed alignment search (DAS) performs best,
-  and sparse-autoencoder features are not better than neurons, that is,
-  non-featurized hidden vectors (abstract).
+  Mueller et al. (2025), arXiv:2504.13151, ICML 2025. A benchmark with a
+  circuit-localization track over IOI, arithmetic, MCQA and ARC, and a
+  causal-variable-localization track that adds RAVEL, on four language
+  models plus an InterpBench model with a known circuit. In circuit
+  localization, edge attribution patching with integrated gradients does
+  best on average; in causal-variable localization, supervised distributed
+  alignment search (DAS) does best, and sparse-autoencoder features
+  selected by a learned mask are never better than the model's own hidden
+  dimensions.
 ---
 <!-- inactive-ok-file: CLAIM-tmpwr001 — Proposed; the claim this work bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-802 — Proposed; a neighbouring holding on interchange interventions, named, nothing here rests on it -->
@@ -54,8 +72,8 @@ summary: >-
 Mueller, A., Geiger, A., Wiegreffe, S., Arad, D., et al. (2025). MIB: A
 mechanistic interpretability benchmark. *ICML 2025*. arXiv:2504.13151.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read in full on 2026-10-26 (NOTE-tmp56il8). One account was drawn from
+it: THEORY-tmp4lqc8.
 
 ## Why this is here
 

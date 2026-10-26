@@ -1,13 +1,16 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmpcuo7o) in full, from arXiv 0710.0845v3, the
+  authors' revision; worth reading for the nested Chinese restaurant
+  process as a prior on trees of unbounded depth and branching (THEORY-tmp5t37f), for hLDA's single-path model of a document and what that does
+  to overlap, and for a careful simulated-recovery test (THEORY-tmpvs18m).
+  Read it knowing that §5.1's level conditional does not match §2.4's
+  parameterization of the GEM and §6.2's hyperparameters are out of range
+  as printed, that it has no identifiability result, that its comparison
+  with LDA rests on harmonic-mean estimates on one corpus (THEORY-tmpi9pkg, Proposed), and that the typeset JACM text was not compared.
 title: 'The nested Chinese restaurant process and Bayesian nonparametric inference of topic hierarchies'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -24,6 +27,14 @@ history:
     Chinese restaurant process"), which no reply cited and which is not
     registered. OpenAlex lists the arXiv copy as open. The summary follows
     the abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full at the owner's request (NOTE-tmpcuo7o), from arXiv
+    0710.0845v3, which OpenAlex lists as the open copy. Status Deferred
+    → Active. Three THEORYs filed: THEORY-tmp5t37f and THEORY-tmpvs18m
+    Active, THEORY-tmpi9pkg Proposed. The summary is checked against the
+    reading and kept, without its "(abstract)" marker.
 tags:
 - probabilistic-modeling
 - information-retrieval
@@ -47,8 +58,9 @@ summary: >-
   its words are allocated to levels along the path, and the nCRP's
   preferential attachment clusters documents by topics shared at several
   levels of abstraction. Posterior inference over trees, topics and
-  allocations is demonstrated on scientific abstracts (abstract).
+  allocations is demonstrated on scientific abstracts.
 ---
+<!-- inactive-ok-file: THEORY-tmpi9pkg — Proposed; filed from this reading, cited as open -->
 
 # LIT-tmpk69gp: The nested Chinese restaurant process and Bayesian nonparametric inference of topic hierarchies
 
@@ -57,8 +69,8 @@ restaurant process and Bayesian nonparametric inference of topic
 hierarchies. *Journal of the ACM* 57(2): 1–30. doi:10.1145/1667053.1667056.
 arXiv:0710.0845.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read in full on 2026-10-26 from arXiv 0710.0845v3 (NOTE-tmpcuo7o). The
+summary is checked against the reading.
 
 ## Why this is here
 

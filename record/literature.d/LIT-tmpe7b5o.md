@@ -1,13 +1,16 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmpabelf) in full, from the arXiv print of the
+  Transformer Circuits article; worth reading as the first mechanistic
+  account of a transition in training, for the in-context learning score,
+  and for the way it grades its own evidence by model class. Read it
+  knowing that the case is causal only for small attention-only models
+  (THEORY-tmp8cat0), that the large-model thesis is correlational and by
+  analogy (THEORY-tmpkd3fq), that every model was trained once on the same
+  data order, and that its dates for the window disagree between sections.
 title: 'In-context Learning and Induction Heads'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -21,13 +24,26 @@ history:
     Joseph and 22 further authors (Anthropic), arXiv 2209.11895, v1
     submitted 24 September 2022, which is `published:`. The summary follows
     the arXiv abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmpabelf) from the arXiv PDF of 2209.11895, a
+    61-page print of the Transformer Circuits article. Status Deferred →
+    Active. Two accounts filed: THEORY-tmp8cat0 (Active) and
+    THEORY-tmpkd3fq (Proposed). `published:` corrected from the arXiv v1
+    date to 2022-03-08, the article's own "PUBLISHED Mar 8, 2022", its
+    first appearance (ADR-002), as LIT-323 does for the same venue; the
+    arXiv record is a later deposit. The article's URL is added. The
+    summary is checked against the reading and kept, with "in large
+    transformer models" made explicit.
 tags:
 - representation-learning
 - learning-theory
 - anthology-candidate
 date: '2026-10-26'
-published: '2022-09-24'
+published: '2022-03-08'
 arxiv: '2209.11895'
+url: 'https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html'
 first_author: 'Olsson'
 keywords:
 - 'induction heads'
@@ -41,18 +57,20 @@ summary: >-
   that complete [A][B] … [A] → [B], develop at precisely the point of a
   sudden sharp increase in in-context learning, visible as a bump in the
   training loss. Six lines of evidence argue that they may be the mechanism
-  of most in-context learning in transformers: strong and causal for small
+  of most in-context learning in large transformers: strong and causal for small
   attention-only models, correlational for larger models with MLPs
   (abstract).
 ---
+<!-- inactive-ok-file: THEORY-tmpkd3fq — Proposed; the wider thesis filed from this reading, cited as open -->
 
 # LIT-tmpe7b5o: In-context Learning and Induction Heads
 
 Olsson, C., Elhage, N., Nanda, N., Joseph, N., et al. (2022). In-context
-learning and induction heads. arXiv:2209.11895.
+learning and induction heads. *Transformer Circuits Thread*, 8 March
+2022. arXiv:2209.11895.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read in full on 2026-10-26 (NOTE-tmpabelf). The summary is checked
+against the reading.
 
 ## Why this is here
 

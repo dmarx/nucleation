@@ -1,13 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmplotfq) in full, from the arXiv copy (v2, the
+  ICML 2025 version); worth reading for its tracking of EAP-IG circuits
+  across fine-tuning checkpoints on tasks the pretrained model fails, with
+  node change rates of 15–24% against edge change rates of 66–80%, and for
+  using the layers whose edges change most to allocate LoRA rank. Read it
+  knowing that the node–edge contrast has no null comparison at the same
+  edge budget and that a fixed edge budget produces it by itself
+  (THEORY-tmpoirdq), that it concerns fine-tuning a pretrained model on
+  arithmetic rather than development from initialization, and that the
+  abstract's 2.46% gain is not recoverable from its tables.
 title: 'Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -22,6 +27,19 @@ history:
     and mlanthology list it as an ICML 2025 paper; its PMLR page was not
     seen. The identification rests on that one sentence and is the least
     certain of this exchange's.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmplotfq), from the arXiv copy, v2 of 13 June 2025,
+    fetched 2026-10-26; its footer confirms ICML 2025, PMLR 267. Status
+    Deferred → Active. One THEORY filed, THEORY-tmpoirdq, Proposed. The
+    identification is checked against the reading and holds: T24's
+    "circuit connectivity can change substantially even when the
+    components involved remain similar" matches the abstract clause by
+    clause (nodes keep high similarity, edges change significantly), and
+    the works the paper contrasts itself with found the opposite. It still
+    rests on one uncited sentence. The summary is checked and the reported
+    gain marked as not reproduced.
 tags:
 - representation-learning
 - anthology-candidate
@@ -38,13 +56,17 @@ keywords:
 implementations: []
 summary: >-
   Wang, Hu, Du, Cheng, Wang & Zou (2025), arXiv:2502.11812, ICML 2025. On
-  mathematical tasks where fine-tuning brings large gains, circuits
-  identified at checkpoints keep high node similarity before and after
-  fine-tuning while their edges change significantly, unlike earlier reports
+  five arithmetic tasks where LoRA fine-tuning of Pythia-1.4B brings large
+  gains, EAP-IG circuits found at successive checkpoints keep most of
+  their nodes while most of their edges change, unlike earlier reports
   that fine-tuning only adds components. A circuit-aware LoRA that assigns
-  ranks by edge change improves on standard LoRA by 2.46% on average at
-  similar size (abstract).
+  higher rank to the layers whose edges change most beats uniform and
+  random rank allocation at similar size (the abstract's 2.46% average
+  gain over LoRA is not recoverable from the tables, which give about
+  1.8–2.4 points), and the union of two subtasks' circuits approximates a
+  two-step task's circuit.
 ---
+<!-- inactive-ok-file: THEORY-tmpoirdq — Proposed; the account drawn from this reading, cited as open -->
 <!-- inactive-ok-file: CLAIM-367 — Proposed; the claim the exchange applied to training, named, nothing here rests on it -->
 
 # LIT-tmpf4hwb: Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis
@@ -53,8 +75,9 @@ Wang, X., Hu, Y., Du, W., Cheng, R., Wang, B. & Zou, D. (2025). Towards
 understanding fine-tuning mechanisms of LLMs via circuit analysis. *ICML
 2025*. arXiv:2502.11812.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read in full on 2026-10-26 (NOTE-tmplotfq). One account was drawn from
+it: THEORY-tmpoirdq. The identification from T24 was checked against the
+reading and holds (see the history).
 
 ## Why this is here
 

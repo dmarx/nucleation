@@ -1,13 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmp9d3rs) in full, from PMLR's own PDF; worth
+  reading for the beta process as the IBP's de Finetti measure, with the
+  predictive and the count of distinct features that follow
+  (THEORY-tmpgy035), and for the hierarchical beta process, the
+  established way for groups to share one feature library at
+  group-specific prevalences (THEORY-tmpz726y). Read it knowing that
+  conjugacy is cited rather than proved, that its groups are disjoint and
+  static, that its one experiment is a single text-classification split,
+  and that its stated reason for a small group concentration reads
+  against its own (9).
 title: 'Hierarchical Beta Processes and the Indian Buffet Process'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -21,6 +26,14 @@ history:
     of the Eleventh International Conference on Artificial Intelligence and
     Statistics, PMLR 2: 564–571, dated 11 March 2007, which is `published:`.
     No DOI or arXiv copy. The summary follows the PMLR abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmp9d3rs) from PMLR's PDF,
+    https://proceedings.mlr.press/v2/thibaux07a/thibaux07a.pdf, §§1–8 and
+    the appendix. Status Deferred → Active. THEORY-tmpgy035 and
+    THEORY-tmpz726y filed. The summary is checked against the reading and
+    kept.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -53,8 +66,8 @@ Indian buffet process. In *Proceedings of the Eleventh International
 Conference on Artificial Intelligence and Statistics*, PMLR 2: 564–571.
 https://proceedings.mlr.press/v2/thibaux07a.html.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read 2026-10-26 in full, in NOTE-tmp9d3rs. The summary was checked
+against the reading and holds.
 
 ## Why this is here
 

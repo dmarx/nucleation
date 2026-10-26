@@ -1,13 +1,19 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmpjg8xz) in full, from the typeset article on
+  Griffiths's lab page at Princeton; worth reading for the author–topic
+  model as the plain-text case of members' overlapping participation in
+  themes, for its factorization of the document–word matrix as ΦΘA
+  (THEORY-tmp7wy54), and for the measured trade between pooling by author
+  and per-document flexibility (THEORY-tmpt1q8m). Read it knowing that
+  authorship is observed, never inferred, that the number of topics and
+  the hyperparameters are fixed, that an author's topics are proportions
+  summing to one, that identifiability is claimed only up to permutation
+  when the likelihood allows a continuum, and that its readings of Enron
+  employees' roles are by inspection.
 title: 'Learning author-topic models from text corpora'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -24,12 +30,23 @@ history:
     Information Systems 28(1), 1–38, online 29 January 2010, which is
     `published:`. OpenAlex lists it closed. The summary follows the abstract
     on OpenAlex.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full at the owner's request (NOTE-tmpjg8xz). OpenAlex and
+    Unpaywall list the work as closed; Semantic Scholar's green copy on
+    psiexp.ss.uci.edu no longer resolves and its Wayback capture could
+    not be fetched by this client, and the same typeset copy was found
+    on Griffiths's lab page at Princeton, whose URL is added. Status
+    Deferred → Active. Two THEORYs filed, THEORY-tmp7wy54 and THEORY-tmpt1q8m, both Active. The summary is checked against the reading
+    and kept, without its "(abstract)" marker.
 tags:
 - probabilistic-modeling
 - information-retrieval
 date: '2026-10-26'
 published: '2010-01-29'
 doi: '10.1145/1658377.1658381'
+url: 'https://cocosci.princeton.edu/tom/papers/AT_tois.pdf'
 first_author: 'Rosen-Zvi'
 keywords:
 - 'author-topic model'
@@ -44,8 +61,7 @@ summary: >-
   topic a distribution over words; a multi-author document mixes its
   authors' topic distributions. Both are learned by MCMC and applied to
   CiteSeer abstracts, NIPS papers and 121,000 Enron emails, with perplexity
-  and retrieval experiments showing systematic differences from alternatives
-  (abstract).
+  and retrieval experiments showing systematic differences from alternatives.
 ---
 
 # LIT-tmpnzjy3: Learning author-topic models from text corpora
@@ -54,8 +70,8 @@ Rosen-Zvi, M., Chemudugunta, C., Griffiths, T., Smyth, P. & Steyvers, M.
 (2010). Learning author-topic models from text corpora. *ACM Transactions on
 Information Systems* 28(1): 1–38. doi:10.1145/1658377.1658381.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read in full on 2026-10-26 from the typeset copy on Griffiths's lab page
+(NOTE-tmpjg8xz). The summary is checked against the reading.
 
 ## Why this is here
 

@@ -1,13 +1,17 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmp9hj4u) in full, from JMLR's own PDF; worth
+  reading for the derivation of the IBP as the limit of a finite
+  beta–Bernoulli model, for K+ ~ Poisson(αH_N) and Poisson(α) features
+  per object, and as a map of the IBP's variants to 2010, including the
+  Markov IBP closest to a dynamic feature model. Read it knowing that
+  αH_N is stated for the limit only and the finite model's expected count
+  of occupied features is strictly below it (THEORY-tmppc921), that its
+  posterior Gibbs sampler is by its own account heuristic, and that its
+  demonstrations are single runs on data built to suit the model.
 title: 'The Indian Buffet Process: An Introduction and Review'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -25,6 +29,14 @@ history:
     (Griffiths and Ghahramani, NIPS 2005, "Infinite latent feature models
     and the Indian buffet process") was not cited and is not registered. The
     summary follows the JMLR abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmp9hj4u) from JMLR's PDF,
+    https://jmlr.org/papers/volume12/griffiths11a/griffiths11a.pdf: §§1–8
+    and Appendix A; the references were not read. Status Deferred →
+    Active. THEORY-tmppc921 filed. The summary is checked against the
+    reading and kept.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -58,8 +70,10 @@ Griffiths, T. L. & Ghahramani, Z. (2011). The Indian buffet process: An
 introduction and review. *Journal of Machine Learning Research* 12:
 1185–1224. https://jmlr.org/papers/v12/griffiths11a.html.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read 2026-10-26 in full, in NOTE-tmp9hj4u. The summary was checked
+against the reading and holds. What the reading adds is in
+THEORY-tmppc921: the αH_N count T23 quotes is the limit's, and at T23's
+K = 16 the finite model expects 6.83 occupied features.
 
 ## Why this is here
 

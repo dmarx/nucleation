@@ -1,13 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-26, not read. Registered from the owner's exchange
-  "Experimental Infrastructure Review", shared at
-  https://chatgpt.com/share/6adfa6e4-a0b0-83e9-b3a0-0b53e6000277 and read
-  from the saved copy the owner uploaded, which holds turns T18–T24 only. No
-  NOTE is filed.
+  read 2026-10-26 (NOTE-tmphwzim) in full, from the typeset JMLR copy;
+  worth reading for the mixed membership stochastic blockmodel, in which a
+  node takes one block per interaction drawn from its own membership
+  vector, for the variational EM that fits it, and as the relational
+  baseline a model of members' perspectives must beat. Read it knowing
+  that its §5 claim that the blockmodel and the memberships do not compete
+  is asserted and fails for the likelihood given memberships, that its
+  sparsity parameter is confounded with the blockmodel's scale and its
+  printed estimator is the fraction of zeros (THEORY-tmplo0xb), that K is
+  chosen by criterion, that it cannot generate hubs, and that its protein-function check is against a weak baseline (THEORY-tmpuvkbn, Proposed).
 title: 'Mixed Membership Stochastic Blockmodels'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -21,6 +26,16 @@ history:
     1981–2014 (2008); arXiv 0705.4485, v1 submitted 30 May 2007, which is
     `published:` (ADR-002). JMLR gives no DOI. The summary follows the JMLR
     abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full at the owner's request (NOTE-tmphwzim), from the
+    typeset JMLR PDF
+    (https://jmlr.org/papers/volume9/airoldi08a/airoldi08a.pdf); the
+    arXiv copy was fetched and not compared. Status Deferred → Active.
+    Two THEORYs filed: THEORY-tmplo0xb Active, THEORY-tmpuvkbn Proposed.
+    The summary is checked against the reading and kept, without its
+    "(abstract)" marker.
 tags:
 - network-science
 - probabilistic-modeling
@@ -43,8 +58,9 @@ summary: >-
   combine global parameters for dense patches of connectivity (the
   blockmodel) with node-specific mixed memberships. A variational algorithm
   gives fast approximate inference, applied to social and
-  protein-interaction networks (abstract).
+  protein-interaction networks.
 ---
+<!-- inactive-ok-file: THEORY-tmpuvkbn — Proposed; filed from this reading, cited as open -->
 
 # LIT-tmpt5wer: Mixed Membership Stochastic Blockmodels
 
@@ -52,8 +68,8 @@ Airoldi, E. M., Blei, D. M., Fienberg, S. E. & Xing, E. P. (2008). Mixed
 membership stochastic blockmodels. *Journal of Machine Learning Research* 9:
 1981–2014. arXiv:0705.4485.
 
-Not read. The summary is drawn from the abstract, and a reading should
-check it first.
+Read in full on 2026-10-26 from the typeset JMLR copy (NOTE-tmphwzim). The
+summary is checked against the reading.
 
 ## Why this is here
 
