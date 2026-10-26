@@ -1,0 +1,222 @@
+---
+status: Read
+paper: LIT-tmplq91w
+title: 'Olah, Cammarata, Schubert, Goh, Petrov and Carter — Zoom in, an introduction to circuits'
+version: 1
+history:
+- version: 1
+  date: '2026-10-26'
+  note: >-
+    Read in full on 2026-10-26 from the Distill article
+    (https://distill.pub/2020/circuits/zoom-in/, "Published March 10,
+    2020", DOI 10.23915/distill.00024.001), fetched as HTML and its text
+    extracted. Read: the introduction, Three Speculative Claims, Claim 1
+    (curve detectors with the seven arguments, high-low frequency
+    detectors, the dog head detector, polysemantic neurons), Claim 2 (the
+    curve, dog head and car circuits, circuit motifs), Claim 3,
+    Interpretability as a Natural Science, Closing Thoughts, the glossary,
+    the footnotes, author contributions, the historical note and the
+    references. The figures (feature visualizations, weight diagrams,
+    activation atlases, the universality panels) were not seen; they are
+    taken from their captions and the text, and no number in this note
+    comes from a figure. The essay reports no quantitative result of its
+    own.
+date: '2026-10-26'
+summary: >-
+  A programme essay, not a study. It offers three deliberately speculative
+  claims, as empirical claims about networks and as norms for studying
+  them: features (directions in a layer's activation space, often single
+  neurons) are the unit of a network; features joined by weights form
+  circuits whose algorithms can be read off the weights; and analogous
+  features and circuits form across models. The examples are qualitative
+  and from InceptionV1, with the detailed evidence promised to later
+  articles. Polysemantic neurons are named as the main obstacle, and a car
+  feature spread over dog neurons is the first case it calls superposition.
+---
+<!-- inactive-ok-file: THEORY-tmpx97zh THEORY-tmpgz1nk — Proposed; the accounts filed from this reading, cited as open -->
+<!-- inactive-ok-file: CLAIM-263 THEORY-802 CLAIM-tmpwr001 — Proposed; the record's claims and accounts this bears on, cited as open -->
+
+# NOTE-tmplg2yz: Olah, Cammarata, Schubert, Goh, Petrov and Carter — Zoom in, an introduction to circuits
+
+## Contribution
+
+It fixes the vocabulary and the stance of circuits research. The stance is
+to treat single neurons, and even single weights, as worth "thousands of
+hours" of study, as cell biology treats cells. The vocabulary is
+*feature* (a scalar function of the input, here a direction in a layer's
+activation space), *circuit* (a subgraph of features and the weights
+between them), *motif* (a recurring circuit pattern) and *universality*
+(the same features and circuits forming in different models). It names
+polysemantic neurons as the obstacle and superposition as a reason for
+them.
+
+## Key insight
+
+If the features in two adjacent layers are understood, the weights between
+them stop being arbitrary numbers and become an algorithm: a curve detector
+is built from earlier curve detectors placed along the tangent, excitatory
+where orientations agree and inhibitory where they oppose. A claim about a
+small circuit is falsifiable ("if you understand a circuit, you should be
+able to predict what will change if you edit the weights"), and for small
+enough circuits it becomes mathematics. Claims about circuits are therefore
+offered as an "epistemic foundation" for interpretability, at the price of
+small scope.
+
+## Assumptions
+
+- **One model, mostly.** All the worked examples are from InceptionV1
+  trained on ImageNet. Universality panels show curve and high-low
+  frequency detectors also in AlexNet, VGG19 and ResNetV2-50, and the text
+  adds InceptionV3, a Places365 model and "vanilla conv nets trained from
+  scratch".
+- **A feature is a direction.** "By 'direction' we mean a linear
+  combination of neurons in a layer"; individual neurons are the usual
+  case and other directions are used when neurons are polysemantic.
+- **Weights as shown are multiplied out.** The 5×5 weights between
+  neurons in InceptionV1's bottlenecked branches are the product of the
+  1×1 and the larger convolution, which "technically does ignore one ReLU
+  non-linearity".
+- **Evidence standard.** The seven arguments for a curve detector are
+  said to "meet the evidentiary standards we understand to be used in
+  neuroscience".
+
+## Key results
+
+The essay reports examples, not measurements.
+
+- **Claim 1, features.** Curve detectors in mixed3b (curves of radius
+  about 60 pixels, in families that tile 360°) are supported by seven
+  arguments: feature visualization, dataset examples, synthetic curves,
+  joint tuning under rotation, the implementing circuit, the downstream
+  use, and a hand-written reimplementation that "significantly mimic[s]"
+  the original. High-low frequency detectors are offered as a feature
+  nobody anticipated. A unit in a later layer is offered as a
+  pose-invariant dog head detector. The authors' conclusion is bounded:
+  the arguments establish that curves cause firing, at oriented angles,
+  and that other stimuli are "rare or cause weaker activations".
+- **Polysemantic neurons.** Unit 4e:55 responds to cat faces, fronts of
+  cars and cat legs. "If one neuron with five different meanings connects
+  to another neuron with five different meanings, that's effectively 25
+  connections that can't be considered individually."
+- **Claim 2, circuits.** Three are described: curve detectors from earlier
+  curve detectors (an "equivariant" circuit whose weights rotate with
+  orientation); a four-layer dog head circuit with mirrored left and right
+  pathways that inhibit each other and are then unioned ("unioning over
+  cases", with "some XOR like properties"); and a car detector in mixed4c
+  whose feature is spread in the next layer over neurons that mainly detect
+  dogs, which the authors call superposition and explain as packing
+  features into almost orthogonal directions so long as cars and dogs do
+  not co-occur.
+- **Motifs.** Equivariance, unioning over cases and superposition recur,
+  and the authors expect motifs may in the long run matter more than single
+  circuits.
+- **Claim 3, universality.** "Unfortunately, the only evidence we can
+  offer today is anecdotal." What would establish it is stated: show that
+  the same features, not merely correlated ones, form across many models,
+  and that the same weight structure connects them.
+- **Interpretability as a natural science.** Against benchmarks and user
+  studies, the essay proposes falsifiable empirical claims about given
+  networks, citing Kuhn on pre-paradigmatic fields.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Neurons, or other directions, in trained vision models are typically understandable features | weak to moderate | worked examples in one model, with the detailed curve-detector evidence deferred to later articles |
+| C2 | The weights between understood features implement readable algorithms (circuits) | moderate as existence, weak as generality | three circuits described in InceptionV1 |
+| C3 | Polysemantic neurons arise at least partly by superposition, a feature deliberately spread over neurons doing other work | weak | one circuit (the car feature), and a geometric argument |
+| C4 | Equivariance, unioning over cases and superposition are recurring circuit motifs | weak | asserted from experience across InceptionV1 "and other models", no count |
+| C5 | Analogous features and circuits form across models and tasks | weak, by the authors' own word "anecdotal" | two low-level feature families seen in four or more vision architectures |
+| C6 | Circuits can serve as an epistemic foundation for interpretability, since statements about small circuits are falsifiable | argued, not shown | the natural-science section |
+
+## Concepts
+
+- **Feature**: a scalar function of the input; here a direction (often a
+  neuron) in a layer's activation space.
+- **Circuit**: a subgraph of a network, features as nodes and the weights
+  between them as edges (for directions n₁, n₂, the edge is n₁Wn₂ᵀ).
+- **Family**: features in one layer detecting variations of one thing,
+  such as curves in every orientation.
+- **Polysemantic and pure features**: responding to several unrelated
+  latent variables, or to one.
+- **Superposition**: a feature spread across several neurons that mainly
+  represent other features.
+- **Motif**: a recurring abstract pattern in circuits.
+- **Universality**: features and circuits that reliably form across models
+  and tasks.
+
+## Connections
+
+It descends from the authors' feature visualization and Building Blocks
+articles (Distill 2017, 2018), from Network Dissection and from the
+convergent-learning literature (Li et al. 2015, SVCCA, CKA), and borrows
+motifs from Alon's systems biology. Its superposition case is the one
+Toy Models of Superposition (LIT-323) later models in toy settings. The
+transformer programme that follows, the mathematical framework (LIT-tmp9dono)
+and the induction-head paper (LIT-tmpe7b5o), rethinks it for attention:
+the framework's authors say the Circuits approach "needs to be significantly
+rethought" there, because the residual stream has no privileged basis.
+
+## Bearing on the record
+
+- **QUESTION-tmpivbso.** The question couples feature allocation with
+  circuit interaction. This essay is where the two units are separated and
+  joined: features as nodes, circuits as their weighted connections. It
+  gives the question its terms, and it gives no development: every claim
+  is about one trained network at one time.
+- **CLAIM-tmpwr001.** The claim says a recovered feature is at most a
+  constituent of a perspective, whose organization lies in relations among
+  its carriers. Zoom In's Claim 2 is the network analogue: a feature is
+  the unit, and what the network computes is in the circuit, the weights
+  between features. The analogy is the record's, not the paper's. And the
+  essay's own warning, polysemanticity, is the case where the feature
+  cannot be read off one carrier at all.
+- **THEORY-802, QUESTION-234 and THEORY-018.** "Features correspond to
+  directions" is the assumption that those entries examine. Zoom In takes
+  neurons as the default basis because a ReLU makes it privileged; it
+  does not ask whether a direction that mediates a variable is unique. The
+  mathematical framework (LIT-tmp9dono) adds that the residual stream has
+  no privileged basis, which is where THEORY-802's non-uniqueness bites.
+- **CLAIM-263.** A test for whether two trained networks compute the same
+  way is a test of universality for a pair of networks. Zoom In states
+  what such a test would need ("the same weight structure forms between
+  them in each model") and offers only anecdote. THEORY-tmpgz1nk holds the
+  claim as Proposed.
+- **LIT-323.** The car-in-dog-neurons circuit is the observation that Toy
+  Models of Superposition generalizes. The essay's explanation (almost
+  orthogonal directions, features that do not co-occur) is the one that
+  paper then demonstrates in toy models.
+- **Accounts filed.** THEORY-tmpx97zh (Proposed): features and circuits
+  in trained vision networks. THEORY-tmpgz1nk (Proposed): universality.
+
+No instruction for machine-learning practice is drawn; the essay's methods
+are interpretability practice, which is the anthology's
+(`anthology-candidate`).
+
+## Limitations
+
+- **Programme, not evidence.** The essay says so: the claims are
+  "deliberately speculative", and "will be explored in detail in the later
+  articles". Its evidence is qualitative examples.
+- **One model.** All circuits are from InceptionV1.
+- **Feature visualization is not a causal test of what natural inputs
+  drive the unit.** The essay says optimizing an input "establishes a
+  causal link, since everything in the resulting image was added to cause
+  the neuron to fire more". It does establish that such inputs can drive
+  the unit; whether curves are what drives it on the data is what the
+  dataset-example and tuning arguments add.
+- **The weights shown skip a nonlinearity** (the bottleneck ReLU), as the
+  authors note.
+- **Superposition rests on one circuit** and a geometric argument.
+- **Selection.** The examples were chosen to be illustrative; no
+  denominator (how many neurons in a layer are understood) is given.
+- **Slips.** The glossary has "equivarinace"; nothing substantive was found
+  wrong in the text.
+
+## Open questions
+
+- What fraction of a layer's neurons are understandable features, by any
+  stated criterion?
+- Is universality a property of low-level features only, or of circuits
+  across depth?
+- How do the motifs form in training? The essay is silent on development.
