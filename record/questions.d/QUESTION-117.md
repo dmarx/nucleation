@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpamn8i
 title: 'Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -20,6 +20,15 @@ history:
     A dated note added: A36's endogenous influence and A38's
     repeated-message run, against reflected appraisal and persuasion bias.
     The question is unchanged.
+- version: 4
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the lab shows some of A15's phenomena with no
+    comparison to the predecessor models, and a comparator pilot
+    (dmarx/PerspectiveLab@dce302b) constrains how such a comparison can
+    be made. Extended the same day with the lab's v2.3 matched
+    comparator (dmarx/PerspectiveLab@e9efcf4). The question is
+    unchanged.
 tags:
 - complex-systems
 - network-science
@@ -156,3 +165,34 @@ From A36, A38 and A43 of the exchange of 2026-10-24, continued.
   collective noise in [CASE-160](../cases.d/CASE-160.md) from Σℓᵢ²σᵢ² to ℓᵀΣℓ.
 
 The question is unchanged.
+
+## Note of 2026-10-26: phenomena shown, no comparison made
+
+<!-- inactive-ok-file: CASE-tmpr1vuv CASE-tmpfmdj6 — Proposed; the lab's runs filed 2026-10-26, cited as phenomena shown, not as an answer -->
+
+Of A15's suite, the Perspective Population Lab now shows capture without
+fidelity and history dependence in stipulated models ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md)), and
+responses to intervention that ordinary trajectories conceal
+([CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md)). None was set against DeGroot–Friedkin, an adaptive
+network or persuasion bias, so none bears on "as economically".
+
+A comparator pilot (dmarx/PerspectiveLab@dce302b
+experiments/comparator_pilot/) adds a constraint on any such comparison.
+A generic model with the same transition kernels makes the same
+predictions, by induction in time. So the comparison has to be of
+restrictions, compression or transport, with knowledge of the candidate
+mechanisms priced. The pilot's report says it does not settle this
+question. The question is unchanged.
+
+The lab's v2.3 (dmarx/PerspectiveLab@e9efcf4
+experiments/matched_comparator/) is the first comparison on equal terms
+of data and fitted parameters, though not yet against the models this
+question names. An 8-coefficient structural predictor and generic system
+identifiers are fitted on the same source transitions and tested on
+withheld production laws and a withheld dependency graph. A same-basis
+state-space model ties exactly. A generic 20-coefficient polynomial does
+better on the unseen bottleneck law with the mixed graph, MSE 0.001865
+against 0.004514 over 24 seeds. An 8-coefficient generic polynomial
+leads in one familiar regime, within seed noise. The structural basis is not priced in
+description length, and DeGroot–Friedkin, adaptive networks and
+persuasion bias are still not among the rivals.

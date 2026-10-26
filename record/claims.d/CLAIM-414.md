@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpn2xr4
 title: 'Matched ordinary trajectories can conceal differences in an interpretation''s efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -22,6 +22,13 @@ history:
     Note of 2026-10-22 added, from the readings of that day: an empirical
     parallel in a language model, and two criteria the claim bears on. The
     claim is unchanged.
+- version: 4
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the maintenance separation carried to a
+    32-member population under a different production law (CASE-
+    tmpfmdj6), and mechanisms identified from probes within a known
+    catalog (CASE-tmpw6jjd). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -60,6 +67,8 @@ summary: >-
   about boundaries, applied to interpretation.
 illustrated_by:
 - CASE-126
+- CASE-tmpfmdj6
+- CASE-tmpw6jjd
 supports:
 - CLAIM-427
 ---
@@ -151,3 +160,26 @@ its construction meets that claim's conditions (A) and (B).
 - Bo et al. ([NOTE-1061](../notes.d/NOTE-1061.md)) show where an appraisal is represented and
   where it changes affect, but by correlational imaging. It is a loose
   parallel, not an instance.
+
+## Note of 2026-10-26: the maintenance separation in a population
+
+<!-- inactive-ok-file: CASE-tmpfmdj6 CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as illustrations, nothing here rests on them -->
+
+[CASE-tmpfmdj6](../cases.d/CASE-tmpfmdj6.md) carries the claim's second construction to a stochastic
+population of 32 members (dmarx/PerspectiveLab@7e2edc2): external reset,
+reciprocal production by two producer teams, and feedback only, with
+ordinary trajectories required by test to be identical. Loss of one rule,
+loss of both and producer outages separate them, and after the same audit
+pulse the next audit integrity is 1.00, 0.18 and 0.00. The production law
+differs from [CASE-126](../cases.d/CASE-126.md)'s. There one perturbation runs the closed pair into
+(0, 0). Here reciprocal production repairs a single loss in 48 of 48 runs
+and fails only on double loss or a long producer outage. The claim's
+point holds under both laws.
+
+[CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md) bears on the claim's second limit, that knowing the
+mechanisms tells the systems apart. Within a catalog of four known
+mechanisms, an audit pulse with a short producer interruption identifies
+which one applies in every reference run and predicts interventions
+never probed (dmarx/PerspectiveLab@9f82bfd). Decay and threshold are
+recovered only approximately. Both are stipulated constructions, not an
+independence theorem. The claim is unchanged.

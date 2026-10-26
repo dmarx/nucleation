@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpcrdhj
 title: 'The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: on one exactly known kernel (CASE-tmpwxgtj) the
+    kinds of condition come apart as the claim says, and identification
+    by probes (CASE-tmpw6jjd) separates class, parameters and budget.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -108,3 +116,29 @@ by moving the goalposts", applied to the axes.
 - **Not that the leave-one-out question is empty.** Once the regime is
   fixed, each cell is a fact about a model class, and [QUESTION-252](../questions.d/QUESTION-252.md)
   asks for them.
+
+## Note of 2026-10-26: one kernel, several verdicts
+
+<!-- inactive-ok-file: CASE-tmpwxgtj CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as witnesses, nothing here rests on them -->
+
+[CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md) computes on one exactly known 192-state kernel conditions
+this claim says are of different kinds, and they come apart as it says.
+
+- **Relations of the representation to the system.** The agents with
+  phase are informationally closed on the declared intact law and fail
+  global strong lumpability (defect 0.42).
+- **Adequacy for a target.** Their deficiency for the next pair of rule
+  integrities is 0.5051 bits under one declared intervention mixture.
+  For the ordinary intervention alone it is 0 on the intact support and
+  0.918 bits on the damaged one, so the verdict moves with the source law
+  and the target.
+- **A budget.** At 300 training windows a fitted predictor shows a
+  negative gain where the exact defect is 0.0930 bits, and at 1,200 all
+  12 repetitions show a positive one (dmarx/PerspectiveLab@9f82bfd
+  experiments/closure_estimation/). The same test of sufficiency passes or
+  fails with the sample.
+
+In [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md), identifying a mechanism's class and recovering its
+parameters are separate verdicts, and each depends on what probes the
+budget allows. These are witnesses of the distinctions in one stipulated
+model, not an argument for the classification. The claim is unchanged.

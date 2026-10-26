@@ -7,7 +7,14 @@ title: When an operator's authority is updated by how well it performs on the in
   it helped make dominant, the coupled meaning and influence of an organization
   can amplify an initial interpretive advantage without any gain in fidelity to
   independent evidence
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: two running realizations of the circuit without
+    retrieval (CASE-tmpr1vuv), and why they are not the analysis the
+    defeater names. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +51,8 @@ supports:
 - CLAIM-336
 - CLAIM-338
 - CLAIM-429
+illustrated_by:
+- CASE-tmpr1vuv
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-280 CLAIM-281 CLAIM-285 CLAIM-288 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -113,3 +122,27 @@ claim's "Not that concentration is error" leaves open. The record's lock-in,
 later made frustration, not distress, the primitive ([CLAIM-368](CLAIM-368.md)).
 
 <!-- inactive-ok-file: CLAIM-368 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+
+## Note of 2026-10-26: two running realizations, without retrieval
+
+<!-- inactive-ok-file: CASE-tmpr1vuv — Proposed; the lab's runs filed 2026-10-26, cited as an illustration, nothing here rests on it -->
+
+Two models of the Perspective Population Lab ([CASE-tmpr1vuv](../cases.d/CASE-tmpr1vuv.md),
+dmarx/PerspectiveLab@7e2edc2) run this claim's circuit with authority,
+record and competence and no retrieval.
+
+- In a four-variable deterministic model, self-scoring holds a declared
+  history with A in charge from c ≈ 0.4469, although B is the better
+  perspective at every competence the model allows. When competence
+  grows with access, the onset falls to 0.39.
+- In a 32-member event-level population with every cue admitted,
+  self-scoring at c = 0.5 leaves the worse alternative in charge in 39 of
+  64 worlds, and at c = 0 in none.
+
+Both are an initial advantage amplified with no gain in fidelity, in
+stipulated models. Neither is the analysis of [CASE-092](../cases.d/CASE-092.md) that the
+defeater names. Neither model has a meaning state or retrieval, and
+neither is set against a single adaptive-retrieval process of matched
+capacity. The selection effect in the same population, a reversal of the
+sign of the admitted evidence, is [CASE-156](../cases.d/CASE-156.md)'s and is not new here. The
+claim is unchanged.

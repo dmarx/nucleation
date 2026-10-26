@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmppi0xf
 title: 'A coarse-graining exactly informationally closed under a process''s ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T''s fibres over the states of positive probability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,13 @@ history:
     merge, and accept the hidden-bit coarse-graining (THEORY-848,
     added to grounds; CLAIM-399); and Szeidl and Szucs's model as a
     social-science instance of the shape. The claim is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a second, separately built exact witness on a
+    192-state organization (CASE-tmpwxgtj), with Γ = 0.55·H₂(1/3) bits
+    and the zero condition met once the maintenance mode is kept. The
+    claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -57,6 +64,7 @@ summary: >-
 illustrated_by:
 - CASE-125
 - CASE-152
+- CASE-tmpwxgtj
 supports:
 - CLAIM-409
 - CLAIM-399
@@ -184,3 +192,26 @@ while the profile does not factor through it.
 - **Not one scale across regimes.** A16 §5: "one must not compare
   deficiencies numerically across different intervention distributions or
   outcome targets as though they were measurements on a common scale."
+
+## Note of 2026-10-26: a second exact witness
+
+<!-- inactive-ok-file: CASE-tmpwxgtj — Proposed; the 192-state construction filed 2026-10-26, cited as a further witness, nothing here rests on it -->
+
+[CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md) is a second exact witness, built separately from
+[CASE-125](../cases.d/CASE-125.md) (dmarx/PerspectiveLab@7e2edc2 experiments/finite_organization/).
+In a 192-state organization the maintenance mode plays the hidden bit:
+the intact dynamics are the same in all three modes. The agents with
+phase are informationally closed on the declared intact law. Their Γ for
+the next pair of rule integrities, under a declared mixture that gives
+ordinary operation 0.45, is 0.55·H₂(1/3) = 0.5051 bits, since each other
+intervention splits the three modes one against two. With the mode kept
+Γ is 0, the claim's zero condition.
+
+Two of the claim's cautions show in the construction. The closure is on a
+declared support of a reducible chain and is not global strong
+lumpability. And Γ moves with the source law: for the ordinary
+intervention alone it is 0 on the intact support and 0.918 bits on the
+damaged one. v1.9 (dmarx/PerspectiveLab@9f82bfd) estimates Γ from sampled
+intervention outcomes, as held-out log-loss: 0.7718 bits at 300 windows
+and 0.5103 at 19,200, against 0.5051. Small samples overstate it. The
+claim is unchanged.

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpybqw8
 title: 'When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones, beyond the cases in which the task''s target and the probes'' outcome laws are linear in one state?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-25'
@@ -21,7 +21,7 @@ history:
     lemma from partial monitoring answers one decision family. The question
     is unchanged and stays Open.
 - version: 4
-  date: '2026-10-21'
+  date: '2026-10-25'
   note: >-
     Split under ADR-049 at the owner's direction (2026-10-25). Where the
     task's target and the probes' outcome laws are linear in one state is
@@ -30,6 +30,15 @@ history:
     a chosen family of observational probes separate the communicative
     realizations a task needs told apart, and when does it collapse distinct
     ones?'
+- version: 5
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a nonlinear case with a known catalog (CASE-
+    tmpw6jjd), where one probe collapses two mechanisms and a pair
+    separates them. Extended the same day with the lab's v2.4 and v2.5
+    (dmarx/PerspectiveLab@f392084), in which probes change the
+    organization and a misfit alarm depends on the probes chosen. The
+    question is unchanged.
 tags:
 - mathematics
 - pragmatics
@@ -176,3 +185,42 @@ profiles over the probe contexts ([CLAIM-452](../claims.d/CLAIM-452.md)). This q
 rest: targets or outcome laws that are not linear in a common state,
 profiles that must themselves be estimated, and probes whose availability
 the organization's own choices decide.
+
+## Note of 2026-10-26: a nonlinear case, with a known catalog
+
+<!-- inactive-ok-file: CASE-tmpw6jjd — Proposed; the lab's identification runs filed 2026-10-26, cited as bearing on the remainder, not as settling it -->
+<!-- inactive-ok-file: QUESTION-272 — Answered; the linear child, named to say this case is not in it -->
+
+[CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md) is a case of the remainder: nonlinear production laws,
+noisy readouts, and a catalog of four known mechanisms
+(dmarx/PerspectiveLab@9f82bfd). For a fixed candidate family the
+condition is the ordinary factorization one: a probe family d separates
+what a target intervention a needs exactly when any two candidates with
+the same law under d have the same law under a.
+
+The case shows the collapse the question names. A complete audit pulse
+leaves self-dependent production and feedback only alike, so class
+accuracy is 75.0%, against 82.6% for a milder pulse. A short producer
+interruption added to it separates all four (100%). For the parameters of
+self-dependent production at nominal values, an audit pulse gives a local
+observation Jacobian of rank 2 for three parameters, and so does a pulse
+with an audit-producer interruption. Interrupting both producer teams as
+well gives rank 3.
+
+All of this is local, the catalog is given, and each probe runs on a
+reset copy of the organization, so which probes are available is not the
+organization's choice. The case is not linear in one state, so it is not
+[QUESTION-272](QUESTION-272.md)'s. The question is unchanged and stays Open.
+
+The lab's v2.4 and v2.5 (dmarx/PerspectiveLab@f392084
+experiments/adaptive_interventions/ and adequacy_guard/) drop the reset:
+probes are chosen online, within a cost ceiling, on one organization they
+change. v2.5 adds alarms for when no candidate fits, scored
+prequentially and calibrated on 160 in-catalog episodes for a nominal
+10% familywise rate. On 120 independent in-catalog episodes they fired
+13.3% and 16.7% of the time. An alarm says the catalog fits badly, not
+which law is missing, and what it can see depends on the probes the
+policy has already chosen. The resulting fallback helped under one
+withheld law and hurt under another. So within a stipulated family, a
+probe set that separates in principle is not yet one that a policy which
+alters the system will reach.

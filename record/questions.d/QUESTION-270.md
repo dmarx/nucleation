@@ -4,13 +4,21 @@ status: Open
 formerly:
 - QUESTION-tmponjie
 title: 'When can an organization hold an evaluation that is accurate, a consummatory process registering that an outcome no longer pleases or a process whose belief keeps predicting well, and still deny it the authority to revise pursuit or the collective judgement, and how is that told apart from the evaluation''s not being recognized at all?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
   note: >-
     A dated note added: four rival mechanisms and their separating
     interventions, from A31. The question is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the lab's v2.6 (dmarx/PerspectiveLab@74621fb)
+    separates a registered evaluation denied authority from one never
+    registered, by intervention, in a stipulated synthetic model. It meets
+    the question's test for the hedonic instance only within that model,
+    and no Active entry answers the question. The question is unchanged.
 tags:
 - self-governance
 - emotion-and-affect
@@ -100,3 +108,62 @@ equivalent to "I no longer enjoy this", made available to the other
 processes, to test whether an accurate report is enough to revise pursuit.
 That is [CLAIM-403](../claims.d/CLAIM-403.md)'s step from recognition to uptake, inside one agent. Not
 run. The question is unchanged.
+
+## Note of 2026-10-26: a synthetic separation of denied uptake from nonregistration
+
+<!-- inactive-ok-file: CLAIM-437 CLAIM-427 — Proposed; the claims the lab's v2.6 bears on, cited as open, nothing here rests on their being settled -->
+
+The lab's v2.6 (dmarx/PerspectiveLab@74621fb
+experiments/affective_dissociation/) runs the note of 2026-10-25's four
+rivals, with a fifth class in which the negative evaluation is never
+registered. Liking is an exogenous outcome value, −1 in every class after
+devaluation, read by an assay that does not use action. Anticipated
+pleasure and registration have readouts of their own, registration's
+right nine times in ten. Pursuit is a Bernoulli choice whose logit adds
+anticipated pleasure, cue drive, habit and another pursuit motive, and
+subtracts 1.2 × negative liking × registration × authority. The
+parameters are set by hand so that all five classes pursue with the same
+one-step probability after devaluation, 0.668188, the logistic of 0.7.
+
+- In the denied-uptake class the negative evaluation is registered and
+  its authority is 0. In the unregistered class it is not registered and
+  its authority is 1.
+- Restoring authority to 1, with anticipated pleasure, liking and
+  registration unchanged, lowers pursuit in the denied-uptake class to
+  0.378 and leaves the unregistered class at 0.668. Restoring
+  registration does the reverse. Each of the other three classes falls
+  to 0.154 under its own intervention and under no other.
+- Restoring authority moves no other class only because every other
+  class already has authority 1. Halving authority, one of the held-out
+  targets, raises pursuit from 0.668 to 0.786 in the three classes whose
+  evaluation is registered with full authority, and lowers the
+  denied-uptake class's to 0.525. Only the unregistered class is
+  untouched. An intervention on authority moves pursuit wherever a
+  registered evaluation enters action, not only where authority is
+  blocked.
+- With the probes and readouts, a Bayesian classifier over the five
+  classes names 195 of 200 held-out worlds correctly. A hybrid of cue
+  drive and denied uptake, left out of the catalog, is assigned to a
+  catalog class in all 40 of its test worlds, 30 of them to denied
+  uptake, with a mean top posterior of 0.868. The adequacy check alarms
+  in 9 of the 40. A mixture is the case this question most needs told
+  apart, and the construction does not tell it.
+- In a longitudinal run of 60 seeds, with no resets and liking stepping
+  from +1 to −1, the denied-uptake, unregistered and cue classes follow
+  the same pursuit course, to within 10⁻⁹, for all 36 steps after
+  devaluation. Passive history does not tell denied uptake from
+  nonregistration here. Only the intervention does.
+
+Within a specified synthetic class, then, the construction meets the
+first test under "What would answer it" for the hedonic instance. The
+evaluation is measured apart from choice, its registration apart from
+both, and an intervention on authority holds them fixed. But the classes,
+and what registration and authority mean, are written into the generator,
+and the lab's test of the separation checks what the generator says.
+Liking drops in one step, not progressively. No learner's pursuit
+authority shapes the evidence it gets. The epistemic instance is not
+touched. The lab bridges this question to [CLAIM-437](../claims.d/CLAIM-437.md), whose processes the
+model does not represent (that claim's note of 2026-10-26), and its
+same-kernel tie is [CLAIM-427](../claims.d/CLAIM-427.md)'s point (its note of 2026-10-26). No Active
+claim or reading answers the question ([ADR-049](../decisions.d/ADR-049.md)), and nothing is split
+from it. The question is unchanged.

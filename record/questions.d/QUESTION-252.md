@@ -4,13 +4,19 @@ status: Open
 formerly:
 - QUESTION-tmp1nqby
 title: 'For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, which such configurations are impossible in which model classes, and which conditions turn out to be parameters of the others rather than conditions in their own right?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
   note: >-
     A dated note added: A36's predictive-closure test for a population. The
     question is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: pairwise separations on one exactly known kernel
+    (CASE-tmpwxgtj), not leave-one-out witnesses. The question is
+    unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -130,3 +136,31 @@ A42 marked the derivation of the three macro-variables from the
 population "Not established". In the linear network of [CASE-160](../cases.d/CASE-160.md) the
 influence-weighted coordinate is exactly closed. The question is
 unchanged.
+
+## Note of 2026-10-26: pairwise separations on one kernel
+
+<!-- inactive-ok-file: CASE-tmpwxgtj CASE-tmpw6jjd — Proposed; the lab's runs filed 2026-10-26, cited as partial witnesses, nothing here rests on them -->
+
+[CASE-tmpwxgtj](../cases.d/CASE-tmpwxgtj.md) adds pairwise non-implications on one exactly known
+192-state kernel, like those the record already holds, and no
+leave-one-out witness.
+
+- **Dynamical independence without sufficiency for an intervention
+  target.** The agents with phase are informationally closed on the
+  declared law and lose 0.5051 bits about the next rule integrities under
+  a declared intervention mixture, [CLAIM-407](../claims.d/CLAIM-407.md)'s shape.
+- **Closure on a support without global strong lumpability** (defect
+  0.42). Lumpability is not on this question's list, but [THEORY-822](../theory.d/THEORY-822.md) sets
+  it beside dynamical independence.
+- **A sample budget against the exact quantity.** At 300 training
+  windows a fitted gain is negative where the exact defect is 0.0930 bits
+  (dmarx/PerspectiveLab@9f82bfd).
+
+Its refinement witness (authority lumpable, authority with one record bit
+not, the full state lumpable again) is in strong lumpability, not in
+informational closure. A strong one-step failure of Markov closure in the
+lab's population (v1.4, dmarx/PerspectiveLab@7e2edc2
+experiments/predictive_closure/) does not by itself show a positive
+infinite-history defect. In [CASE-tmpw6jjd](../cases.d/CASE-tmpw6jjd.md), what a probe budget identifies
+is a further budget-relative verdict, of a mechanism's class and
+parameters. The question is unchanged.

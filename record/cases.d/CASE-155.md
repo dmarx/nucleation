@@ -47,6 +47,7 @@ supports:
 - CLAIM-453
 variants:
 - CASE-157
+- CASE-tmpr1vuv
 ---
 <!-- inactive-ok-file: THEORY-899 CLAIM-444 CLAIM-443 CLAIM-446 CASE-156 — Proposed, filed in this pull request -->
 <!-- inactive-ok-file: THEORY-928 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
