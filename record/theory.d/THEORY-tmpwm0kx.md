@@ -19,7 +19,7 @@ date: '2026-10-26'
 source:
 - LIT-tmplyhgz
 summary: >-
-  Doshi-Velez and Ghahramani (2009), LIT-tmplyhgz, read in NOTE-tmpn08ry.
+  Doshi-Velez and Ghahramani (2009), [LIT-tmplyhgz](../literature.d/LIT-tmplyhgz.md), read in [NOTE-tmpn08ry](../notes.d/NOTE-tmpn08ry.md).
   Z = f(CM) with f(0) = 0 gives correlated nonparametric feature models
   with O(log log N) expected features for the DP-IBP and IBP-IBP. The
   correlations are motifs, sets of features switched on together, plus,
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Doshi-Velez and Ghahramani (2009), UAI, PMLR R7: 143–150, arXiv:1205.2650,
-LIT-tmplyhgz, read in full in NOTE-tmpn08ry; §2 (Proposition 1), §3 (the
+[LIT-tmplyhgz](../literature.d/LIT-tmplyhgz.md), read in full in [NOTE-tmpn08ry](../notes.d/NOTE-tmpn08ry.md); §2 (Proposition 1), §3 (the
 DP-IBP, IBP-IBP and noisy-or models, and (4)) and §6, which names
 "exploring methods to model negative correlations" as future work.
 

@@ -30,8 +30,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpa32mr
 summary: >-
-  Wang, Hoogland, van Wingerden, Furman and Murfet (2024), LIT-tmpa32mr,
-  read in NOTE-tmpueby3. "Heads 0:1, 0:4, 0:7 ultimately become the two
+  Wang, Hoogland, van Wingerden, Furman and Murfet (2024), [LIT-tmpa32mr](../literature.d/LIT-tmpa32mr.md),
+  read in [NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md). "Heads 0:1, 0:4, 0:7 ultimately become the two
   previous-token heads and (layer 0) Dyck head respectively. However,
   these heads appear to start out as simple n-gram heads." Layer-0
   multigram heads lose information about simple n-grams from stage LM3,
@@ -45,7 +45,7 @@ summary: >-
 
 ## Source
 
-Wang et al. (2024), LIT-tmpa32mr, read in full in NOTE-tmpueby3: §4.3,
+Wang et al. (2024), [LIT-tmpa32mr](../literature.d/LIT-tmpa32mr.md), read in full in [NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md): §4.3,
 Figs. 5–7, and appendix B.6.
 
 ## What is asserted
@@ -78,7 +78,7 @@ mean-ablation effects with manual inspection. "Repurposing" says more
 than "a head had one role and later another": it says the later role was
 made from the earlier one. Nothing in the paper tests that, and judging
 that the "ago" n-gram "migrated" from one head to another is continuity by
-resemblance of the affected tokens, which CLAIM-329 says is not enough for
+resemblance of the affected tokens, which [CLAIM-329](../claims.d/CLAIM-329.md) says is not enough for
 continuity of the thing.
 
 ## What would confirm or reject it
@@ -87,10 +87,10 @@ The promote_when above.
 
 ## Connections
 
-- **QUESTION-tmpivbso** asks whether a circuit "emerge[s] by acquiring new
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)** asks whether a circuit "emerge[s] by acquiring new
   features, reorganizing existing features, or both". This is the record's
   best evidence for "reorganizing", at the level of components.
-- **QUESTION-039**, on whether acquisition is one kind of event: this would
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, on whether acquisition is one kind of event: this would
   make repurposing one kind, beside growth.
-- **THEORY-279.** Low-order structure first, then lost, is the same shape
+- **[THEORY-279](THEORY-279.md).** Low-order structure first, then lost, is the same shape
   within a single transformer.

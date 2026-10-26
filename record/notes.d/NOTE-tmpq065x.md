@@ -161,15 +161,15 @@ against post-trained models to pretraining checkpoints, and takes its
 indirect effects and integrated-gradient approximation from Marks et al.'s
 sparse feature circuits. Its checkpoint selection follows work on phase
 transitions in accuracy or loss (Chen et al. 2024, cited also by
-LIT-tmpa32mr) and Kangaslahti et al.'s POLCA. The sparse-autoencoder line
-behind it is in the record through Gemma Scope (LIT-611), and the
+[LIT-tmpa32mr](../literature.d/LIT-tmpa32mr.md)) and Kangaslahti et al.'s POLCA. The sparse-autoencoder line
+behind it is in the record through Gemma Scope ([LIT-611](../literature.d/LIT-611.md)), and the
 superposition hypothesis it presupposes, features as directions, through
-LIT-323. Olsson et al. (LIT-tmpe7b5o) is cited as a task-proxy method that
+[LIT-323](../literature.d/LIT-323.md). Olsson et al. ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) is cited as a task-proxy method that
 "only reveal[s] when changes occur".
 
 ## Bearing on the record
 
-- **QUESTION-tmpivbso.** This is the "crosscoders" comparator the reply
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** This is the "crosscoders" comparator the reply
   named, and the reply's description at T24 is accurate. For the question:
   - *The feature-only arm has a published form.* A joint dictionary across
     checkpoints, with per-checkpoint attributions, is a feature-only
@@ -185,28 +185,28 @@ LIT-323. Olsson et al. (LIT-tmpe7b5o) is cited as a task-proxy method that
     one index. The question's own condition, that births and splits be
     told apart from the model's free symmetries, applies here too: a
     crosscoder can split one direction into checkpoint-specific copies or
-    merge two, depending on the sparsity penalty (CLAIM-263's quotient).
-- **CASE-tmplcm41 (having against using).** The case found that its model
+    merge two, depending on the sparsity penalty ([CLAIM-263](../claims.d/CLAIM-263.md)'s quotient).
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md) (having against using).** The case found that its model
   cannot tell holding a feature from using it, from outputs alone. This
   paper separates the two in a transformer by measuring them differently:
   presence by decoder norm, use by an intervention on the task. That is a
   worked answer to the case's confound, available where interventions are.
-- **CLAIM-329, TERM-071.** A "maintained" feature is one whose decoder
+- **[CLAIM-329](../claims.d/CLAIM-329.md), [TERM-071](../terms.d/TERM-071.md).** A "maintained" feature is one whose decoder
   directions at two checkpoints are tied by a jointly trained index, which
   is continuity by resemblance in the state sense. The paper cannot say
   whether a feature at 286B is the 4B feature carried forward or a new one
   in the same place. The reply's §6 question ("Can we distinguish a
   continuing computation from a newly learned replacement with similar
   output behavior?") is not answered by this method.
-- **THEORY-279.** Token-specific detectors giving way to category detectors
+- **[THEORY-279](../theory.d/THEORY-279.md).** Token-specific detectors giving way to category detectors
   is low-level-first, at the level of features and in large models. It is
   an annotation trend, not a measure of statistical order.
-- **CLAIM-tmpwr001.** The features here are constituents measured one at a
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The features here are constituents measured one at a
   time. The authors list "from individual features to circuits" as future
   work, which is the question's coupling, not yet done.
-- **THEORY-504.** The same fidelity caution applies: reconstruction loss and
+- **[THEORY-504](../theory.d/THEORY-504.md).** The same fidelity caution applies: reconstruction loss and
   variance explained can disagree, and this paper reports only the first.
-- **Account filed.** THEORY-tmpt45mh (Proposed).
+- **Account filed.** [THEORY-tmpt45mh](../theory.d/THEORY-tmpt45mh.md) (Proposed).
 
 No instruction for machine-learning practice.
 

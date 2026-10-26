@@ -95,9 +95,9 @@ equivalence classes, not over matrices.
 - **Extensions (§7).** Two-parameter IBP: Beta(αβ/K, β), mean features per
   object α, K+ ~ Poisson(α Σi β/(β + i − 1)). Stick-breaking (Teh et al.
   2007). Beta process as the de Finetti measure (Thibaux and Jordan,
-  LIT-tmpday8e), with a hierarchical version for several data sets.
+  [LIT-tmpday8e](../literature.d/LIT-tmpday8e.md)), with a hierarchical version for several data sets.
   Column correlation via "a secondary process capturing patterns in the
-  latent features" (Doshi-Velez and Ghahramani, LIT-tmplyhgz). Row
+  latent features" (Doshi-Velez and Ghahramani, [LIT-tmplyhgz](../literature.d/LIT-tmplyhgz.md)). Row
   dependence: the Markov IBP (Van Gael et al. 2009), whose rows follow a
   Markov process with two per-column parameters, "the probability of a 0
   in the previous row changing to a 1, and the probability of a 1 in the
@@ -108,7 +108,7 @@ equivalence classes, not over matrices.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | The finite beta–Bernoulli model with πk ~ Beta(α/K, 1) converges, on lof-equivalence classes, to the IBP distribution (14) | strong | (12)–(14), Appendix A; re-derived in THEORY-tmppc921 |
+| C1 | The finite beta–Bernoulli model with πk ~ Beta(α/K, 1) converges, on lof-equivalence classes, to the IBP distribution (14) | strong | (12)–(14), Appendix A; re-derived in [THEORY-tmppc921](../theory.d/THEORY-tmppc921.md) |
 | C2 | Under the IBP, K+ ~ Poisson(αH_N) and each object holds Poisson(α) features; the two are coupled through α | strong | §4.5–4.6, via the Poisson-histories view and exchangeability |
 | C3 | At finite K the expected number of nonzero entries is Nα/(1 + α/K), bounded by Nα independently of K | strong | (11) |
 | C4 | The infinite linear-Gaussian model's likelihood depends only on the occupied columns, so it is well defined | strong | (25)–(26) |
@@ -133,30 +133,30 @@ equivalence classes, not over matrices.
 
 It follows Griffiths and Ghahramani's NIPS 2005 paper and technical report,
 not registered here. The beta-process view is Thibaux and Jordan's
-(LIT-tmpday8e). The dependent and correlated extensions it names include
-Doshi-Velez and Ghahramani (LIT-tmplyhgz); the dependent IBP of
-Williamson, Orbanz and Ghahramani (LIT-tmpporrt) is not among those §7.4
+([LIT-tmpday8e](../literature.d/LIT-tmpday8e.md)). The dependent and correlated extensions it names include
+Doshi-Velez and Ghahramani ([LIT-tmplyhgz](../literature.d/LIT-tmplyhgz.md)); the dependent IBP of
+Williamson, Orbanz and Ghahramani ([LIT-tmpporrt](../literature.d/LIT-tmpporrt.md)) is not among those §7.4
 describes. The record held the IBP before this only as the alternative
-Friston et al. name, in NOTE-485 (LIT-615).
+Friston et al. name, in [NOTE-485](NOTE-485.md) ([LIT-615](../literature.d/LIT-615.md)).
 
 ## Bearing on the record
 
-- **CASE-tmplcm41, item 1.** The paper supports the case's correction and
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), item 1.** The paper supports the case's correction and
   shows where T23's quotation comes from. The αH_N count is stated only
   for the limit (§4.6); the finite model's only count is (11), whose
   per-object form Kα/(K + α) is the case's 2.53 at K = 16 and α = 3. The
   expected number of occupied features at finite K is not in the paper.
   It is K(1 − (α/K)B(α/K, N + 1)), strictly below αH_N for every finite
-  K (THEORY-tmppc921). At N = 12, α = 3 it is 6.83 at K = 16 against
+  K ([THEORY-tmppc921](../theory.d/THEORY-tmppc921.md)). At N = 12, α = 3 it is 6.83 at K = 16 against
   9.31, re-computed here. So T22's "generously truncated" is the paper's
   limit argument, and K = 16 is not generous by it.
-- **CASE-tmplcm41, item 2.** The Markov IBP that §7.4 describes gives each
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), item 2.** The Markov IBP that §7.4 describes gives each
   feature its own 0→1 and 1→1 probabilities, so persistence is a
   per-feature parameter and not one ρ added to logit πk. The review
   describes it from Van Gael et al. (2009), which is not registered; it is
   the closest established relative of T23's sticky transition, closer than
   the dependent IBP, and the case could name it.
-- **CASE-tmplcm41, items 3–4.** The paper says feature order is "not
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), items 3–4.** The paper says feature order is "not
   identifiable" and builds the prior on equivalence classes for that
   reason. Its own photograph demonstration shows two more freedoms. Three
   of its four main features code the absence of an object and one its
@@ -165,12 +165,12 @@ Friston et al. name, in NOTE-485 (LIT-615).
   of them coding "slight differences in the locations", show a posterior
   adding features that refine an object, close to the split freedom item
   4 names.
-- **QUESTION-tmpixgs8.** The paper is the reference for the candidate
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** The paper is the reference for the candidate
   method's prior. It supplies multiplicity and nothing more: the features
   are a posteriori whatever explains the data under a linear likelihood,
-  which is CLAIM-tmpwr001's point that a recovered feature is at most a
+  which is [CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md)'s point that a recovered feature is at most a
   constituent.
-- **QUESTION-tmpivbso.** §7.4's statement that exchangeability "is not
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** §7.4's statement that exchangeability "is not
   warranted in cases where we have additional information about the
   properties of our observations" applies to T24's components, which the
   case already notes are not exchangeable.

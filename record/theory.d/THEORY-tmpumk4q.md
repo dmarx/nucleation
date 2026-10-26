@@ -19,8 +19,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpporrt
 summary: >-
-  Williamson, Orbanz and Ghahramani (2010), LIT-tmpporrt, read in
-  NOTE-tmpcg7gu. Thresholding at a fixed quantile keeps each feature's
+  Williamson, Orbanz and Ghahramani (2010), [LIT-tmpporrt](../literature.d/LIT-tmpporrt.md), read in
+  [NOTE-tmpcg7gu](../notes.d/NOTE-tmpcg7gu.md). Thresholding at a fixed quantile keeps each feature's
   prevalence at its stick length at every covariate value, which is what a
   hand-written logistic transition does not do. The paper's statement that
   Z(t) is an IBP at each t holds for its collapsed model; with a shared
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Williamson, Orbanz and Ghahramani (2010), AISTATS, PMLR 9: 924–931,
-LIT-tmpporrt, read in full in NOTE-tmpcg7gu; equations (1), (3)–(5) and
+[LIT-tmpporrt](../literature.d/LIT-tmpporrt.md), read in full in [NOTE-tmpcg7gu](../notes.d/NOTE-tmpcg7gu.md); equations (1), (3)–(5) and
 Appendix A. The paper states "For each t, the marginal distribution of
 Z(t) is an IBP" (§3) and "has IBP marginals at any covariate value"
 (footnote 1). The matrix-level analysis below is the record's.

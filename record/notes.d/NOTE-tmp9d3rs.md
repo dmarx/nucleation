@@ -99,9 +99,9 @@ process too.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | The beta process is the de Finetti mixing measure of the IBP | strong | conjugacy (5), cited; the predictive (6) then matches the buffet; re-derived in THEORY-tmpgy035 |
+| C1 | The beta process is the de Finetti mixing measure of the IBP | strong | conjugacy (5), cited; the predictive (6) then matches the buffet; re-derived in [THEORY-tmpgy035](../theory.d/THEORY-tmpgy035.md) |
 | C2 | c and γ separate sharing from mass: distinct dishes Poisson(γ Σ c/(c + i)) | strong | (7), from (6) |
-| C3 | For groups to share features the shared measure must be discrete, and a beta-process prior on it achieves this, with group prevalences shrunk toward a common baseline | strong | §6 and (3), (9); THEORY-tmpz726y |
+| C3 | For groups to share features the shared measure must be discrete, and a beta-process prior on it achieves this, with group prevalences shrunk toward a common baseline | strong | §6 and (3), (9); [THEORY-tmpz726y](../theory.d/THEORY-tmpz726y.md) |
 | C4 | The hBP classifies unbalanced text better than smoothed naive Bayes and handles rare features well | weak to moderate | one dataset, one random split, no variance; the naive Bayes grid's selection criterion is not stated |
 | C5 | The §5 algorithm is "a simple and efficient alternative" to inverse-Lévy and compound-Poisson samplers | weak | argued, not benchmarked |
 
@@ -119,16 +119,16 @@ process too.
 ## Connections
 
 It builds on Hjort (1990) for the beta process and Kim (1999) for
-conjugacy, on Griffiths and Ghahramani's IBP (LIT-tmpxrrf9, whose §7.3
+conjugacy, on Griffiths and Ghahramani's IBP ([LIT-tmpxrrf9](../literature.d/LIT-tmpxrrf9.md), whose §7.3
 summarises this paper), and on Teh et al.'s hierarchical Dirichlet process
 for the hierarchy. Its sampler is compared in prose with Wolpert and
 Ickstadt's and Lee and Kim's. Williamson, Orbanz and Ghahramani
-(LIT-tmpporrt) name "dependent beta processes" as their alternative route
+([LIT-tmpporrt](../literature.d/LIT-tmpporrt.md)) name "dependent beta processes" as their alternative route
 to a dependent IBP.
 
 ## Bearing on the record
 
-- **CASE-tmplcm41.** T22 and T23 cite this paper accurately: it is the
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md).** T22 and T23 cite this paper accurately: it is the
   established way to give groups a shared feature library at group-specific
   prevalences. Three limits matter for T23's use. Each object belongs to
   one group, while T23's membership M_{eg,t} can change and overlap; the
@@ -136,14 +136,14 @@ to a dependent IBP.
   dynamics; and the hierarchy shares prevalences, not persistence. So it
   could replace T23's hand-written team term β_team Σg M_{eg,t} B̄_{gk,t}
   at t = 0, but not the transition. The prevalences it gives,
-  aj ~ Beta(cj b, cj(1 − b)), make CASE-tmplcm41's item 2 sharper: a team
+  aj ~ Beta(cj b, cj(1 − b)), make [CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)'s item 2 sharper: a team
   where a feature is rare would need a stronger persistence term than a
   team where it is common.
-- **QUESTION-tmpixgs8.** The hierarchy is a way to infer which features
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** The hierarchy is a way to infer which features
   formal groups share without fixing their number, which is part of what
   the question asks. It infers features of groups, not perspectives.
-- **Item 1 of CASE-tmplcm41** gains a second derivation of αH_N, from (7)
-  at c = 1 (THEORY-tmpgy035).
+- **Item 1 of [CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)** gains a second derivation of αH_N, from (7)
+  at c = 1 ([THEORY-tmpgy035](../theory.d/THEORY-tmpgy035.md)).
 
 No instruction for machine-learning practice; nothing for the anthology.
 
@@ -175,5 +175,5 @@ No instruction for machine-learning practice; nothing for the anthology.
   organization's teams are: what replaces (8) when an object is in
   several groups at once?
 - Do group-level prevalences from an hBP, fitted to members' activity,
-  recover formal teams, or the informal ones that QUESTION-tmpixgs8 is
+  recover formal teams, or the informal ones that [QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md) is
   after?

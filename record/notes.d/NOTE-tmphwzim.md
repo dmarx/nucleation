@@ -139,8 +139,8 @@ Handcock's models.
 | C3 | Memberships and B are recovered from simulated MMSB graphs | moderate | Fig. 6 by eye; one held-out-K example |
 | C4 | On the school network MMSB matches grades better than a mixture blockmodel and a latent space cluster model | moderate | Table 1, one network, highest-membership assignment |
 | C5 | On yeast proteins, memberships carry functional information | weak to moderate | §4.3.2's accuracy against a weak baseline (see Limitations); §4.3.3's precision–recall |
-| C6 | B and the memberships do not compete, because B is global and asymmetric and the memberships local and symmetric | weak, and false as a statement about the likelihood | asserted in §5; see THEORY-tmplo0xb |
-| C7 | MMSB's estimate of ρ separates zeros due to rare contact from zeros due to block structure | weak | §2.1. In the marginal likelihood ρ enters only as (1 − ρ)B, and the printed estimator is the zero fraction (THEORY-tmplo0xb) |
+| C6 | B and the memberships do not compete, because B is global and asymmetric and the memberships local and symmetric | weak, and false as a statement about the likelihood | asserted in §5; see [THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md) |
+| C7 | MMSB's estimate of ρ separates zeros due to rare contact from zeros due to block structure | weak | §2.1. In the marginal likelihood ρ enters only as (1 − ρ)B, and the printed estimator is the zero fraction ([THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md)) |
 
 ## Concepts
 
@@ -163,12 +163,12 @@ latent space models (Hoff, Raftery and Handcock 2002; Handcock et al.
 2007), whose edge probability uses π_pᵀIπ_q with Gaussian positions. A
 nonparametric version would need memberships from a hierarchical
 Dirichlet process, which the authors propose and do not build. hLDA's
-paper (LIT-tmpk69gp) cites it among flat mixed-membership models of
+paper ([LIT-tmpk69gp](../literature.d/LIT-tmpk69gp.md)) cites it among flat mixed-membership models of
 non-text data.
 
 ## Bearing on the record
 
-- **QUESTION-tmpixgs8, condition 4.** The LIT says a mixed-membership
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), condition 4.** The LIT says a mixed-membership
   blockmodel of the communication and authority graph is the baseline
   inferred structure must beat. The reading supports that and sharpens
   it. MMSB is a static model of one graph's edges, independent given
@@ -178,36 +178,36 @@ non-text data.
   "does not readily generate hubs", which an authorization graph with
   managers has, so a fitted MMSB would misdescribe the graph it is meant
   to summarize.
-- **QUESTION-tmpixgs8, condition 2 (overlap).** MMSB's overlap is
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), condition 2 (overlap).** MMSB's overlap is
   proportional: π_p sums to one, so a node's roles compete for its
   interactions. T19's participation without that constraint is a feature
   allocation's kind of overlap, not this one. MMSB's per-interaction role,
   one block per partner, is closer than any of the batch's models to the
   idea of a member taking different perspectives in different
   interactions.
-- **QUESTION-tmpixgs8, "without their number being fixed".** K is chosen by
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), "without their number being fixed".** K is chosen by
   BIC or held-out likelihood, not inferred. In the one simulated example
   the held-out peak was at the true K.
-- **CLAIM-148 and CLAIM-135.** The paper's one passage on identifiability
+- **[CLAIM-148](../claims.d/CLAIM-148.md) and [CLAIM-135](../claims.d/CLAIM-135.md).** The paper's one passage on identifiability
   asserts that B and the memberships do not compete. Given the graph they
   do, along a continuum of changes of block basis, and the sparsity factor
-  is not identified at all apart from B's scale (THEORY-tmplo0xb). That is
-  CLAIM-148's gauge in bilinear form, and it puts the paper's readings of
-  blocks (factions, grades, protein functions) at CLAIM-135's first
+  is not identified at all apart from B's scale ([THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md)). That is
+  [CLAIM-148](../claims.d/CLAIM-148.md)'s gauge in bilinear form, and it puts the paper's readings of
+  blocks (factions, grades, protein functions) at [CLAIM-135](../claims.d/CLAIM-135.md)'s first
   achievement plus whatever the Dirichlet family adds. The PPI mapping
   "estimate[s] a permutation" of blocks to functions, which is exactly the
   part of the gauge the paper admits.
-- **CLAIM-427.** §4.3.2 is the one place in the batch where inferred
+- **[CLAIM-427](../claims.d/CLAIM-427.md).** §4.3.2 is the one place in the batch where inferred
   memberships are checked against labels the model never saw, the MIPS
-  annotations. That is the kind of external check CLAIM-427 asks for, done
-  weakly (THEORY-tmpuvkbn, Proposed).
-- **CASE-tmprl1px.** Its analyzer found modes with the number of factors
+  annotations. That is the kind of external check [CLAIM-427](../claims.d/CLAIM-427.md) asks for, done
+  weakly ([THEORY-tmpuvkbn](../theory.d/THEORY-tmpuvkbn.md), Proposed).
+- **[CASE-tmprl1px](../cases.d/CASE-tmprl1px.md).** Its analyzer found modes with the number of factors
   fixed. MMSB would find blocks of the interaction graph with K chosen by
   criterion. Neither separates a block of members who interact from a
   block of members who respond alike to a common driver, unless the
-  common driver also makes them link. Condition 3 of QUESTION-tmpixgs8
+  common driver also makes them link. Condition 3 of [QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md)
   is untouched by this paper.
-- **CLAIM-tmpwr001.** A block is a pattern of who links to whom. It is
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** A block is a pattern of who links to whom. It is
   relational, unlike a feature allocation, so it holds some of what the
   claim says an allocation leaves open (access). It holds no uptake or
   authority. The paper's readings of blocks as factions and functions are
@@ -218,7 +218,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 ## Limitations
 
 - **The identifiability claim is unsupported**, and false for the
-  likelihood given the memberships (THEORY-tmplo0xb). Whether the
+  likelihood given the memberships ([THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md)). Whether the
   empirical-Bayes (α, B) is identified in the marginal likelihood rests
   on the Dirichlet family of the memberships, which the paper does not
   examine.
@@ -243,10 +243,10 @@ No instruction for machine-learning practice; nothing for the anthology.
 - Under what conditions on B and the membership distribution are B and Π
   identified up to permutation? Results on identifiability of mixed
   membership and latent-structure models (Allman, Matias and Rhodes,
-  named in CLAIM-135, not held) may apply; the paper does not ask.
+  named in [CLAIM-135](../claims.d/CLAIM-135.md), not held) may apply; the paper does not ask.
 - Does a dynamic MMSB, fitted to an organization's interactions over time,
   predict the effects of interventions on the graph better than the
-  graph's own history? That would make it the baseline QUESTION-tmpixgs8
+  graph's own history? That would make it the baseline [QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md)
   needs.
 - How does the per-interaction role compare with a feature allocation of
   the same members, on the same data?

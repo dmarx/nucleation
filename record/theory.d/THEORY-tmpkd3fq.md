@@ -31,7 +31,7 @@ source:
 extends:
 - THEORY-tmp8cat0
 summary: >-
-  Olsson et al. (2022), LIT-tmpe7b5o, read in NOTE-tmpabelf. The paper's
+  Olsson et al. (2022), [LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md), read in [NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md). The paper's
   thesis: circuits with the induction head's mechanism, matching
   "[A*][B*] … [A] → [B], where A* ≈ A and B* ≈ B are similar in some
   space", "implement most in-context learning in large models". For large
@@ -46,14 +46,14 @@ summary: >-
 
 ## Source
 
-Olsson et al. (2022), LIT-tmpe7b5o, read in full in NOTE-tmpabelf:
+Olsson et al. (2022), [LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md), read in full in [NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md):
 Arguments 1, 2, 4 and 6, the full-scale rows of the Model Analysis Table,
 and the Discussion.
 
 ## What is asserted
 
 That the circuit shown to carry in-context learning in small attention-only
-models (THEORY-tmp8cat0) carries most of it in large transformers too. In
+models ([THEORY-tmp8cat0](THEORY-tmp8cat0.md)) carries most of it in large transformers too. In
 large models the same heads that copy literal random sequences are taken to
 do "fuzzy" or "nearest neighbor" completion over abstract representations,
 such as translation and template matching.
@@ -70,7 +70,7 @@ such as translation and template matching.
   definition and also translate or match patterns. Anecdotal by design.
 - **The mechanism** is reverse-engineered only for attention-only models.
 
-THEORY-tmp8cat0 holds the small attention-only case as measured. Nothing in
+[THEORY-tmp8cat0](THEORY-tmp8cat0.md) holds the small attention-only case as measured. Nothing in
 the record measures the large case causally.
 
 ## Why it stays Proposed

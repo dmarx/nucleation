@@ -110,7 +110,7 @@ features on.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | If categories can only switch features on (f(0) = 0), the correlated model has finitely many features on finite data | strong | Proposition 1; re-derived in THEORY-tmpwm0kx |
+| C1 | If categories can only switch features on (f(0) = 0), the correlated model has finitely many features on finite data | strong | Proposition 1; re-derived in [THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md) |
 | C2 | The DP-IBP and IBP-IBP have O(log log N) expected features, against the IBP's O(log N) | strong | (4), Jensen on the concave harmonic number |
 | C3 | Modelling feature correlation improves held-out prediction over the IBP in almost all cases | weak | Table 2: better in 9 of 15 model–dataset pairs, worse in 5, one tie; all three variants worse on UN |
 | C4 | The DP-IBP has "fewer of the identifiability issues common to feature-based models" | weak | asserted in §5 from the restriction to one category per observation; not measured |
@@ -128,7 +128,7 @@ features on.
 
 ## Connections
 
-It generalises the IBP (LIT-tmpxrrf9, whose §7.4 cites it as "a secondary
+It generalises the IBP ([LIT-tmpxrrf9](../literature.d/LIT-tmpxrrf9.md), whose §7.4 cites it as "a secondary
 process capturing patterns in the latent features"), and sets itself
 beside infinite hierarchical factor regression (Rai and Daumé 2009), the
 phylogenetic IBP and the infinite factorial HMM, which correlate
@@ -145,9 +145,9 @@ correlation as future work.
   "exploring methods to model negative correlations" as future work. The
   one negative dependence it has, in the DP-IBP, is exclusion: an
   observation in one category lacks the features only rival categories
-  carry (THEORY-tmpwm0kx). For an organization that is "a member in one
+  carry ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)). For an organization that is "a member in one
   mode lacks the other mode's features", not one mode inhibiting another.
-- **CASE-tmplcm41, item 3.** The case says features whose B and a columns
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), item 3.** The case says features whose B and a columns
   coincide across employees are identified only through Wk + Wl. The
   paper's motivation is the same point from the other side: a correlated
   model separates co-occurring features only where they sometimes occur
@@ -156,14 +156,14 @@ correlation as future work.
   observation exactly its category's features, so features in one
   category and in no other are always together and are not separately
   identified.
-- **CASE-tmplcm41, item 4.** The paper's replicas and ghost features are
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md), item 4.** The paper's replicas and ghost features are
   the split freedom the case describes, met in practice by a sampler. They
   make "a birth in B can be an artefact" an observed hazard and not only a
   possible one.
-- **QUESTION-tmpixgs8.** A category layer above features is a candidate
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** A category layer above features is a candidate
   for something between a feature and a perspective: a recurring set of
   features members take up together. It is not a perspective by
-  CLAIM-tmpwr001's standard, since it is again a co-occurrence pattern with
+  [CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md)'s standard, since it is again a co-occurrence pattern with
   no relational or governance structure; the paper itself warns that
   "the structures found cannot be considered to be discovering the 'true'
   or 'real' structure of dataset".

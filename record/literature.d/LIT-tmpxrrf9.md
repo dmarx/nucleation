@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmp9hj4u) in full, from JMLR's own PDF; worth
+  read 2026-10-26 ([NOTE-tmp9hj4u](../notes.d/NOTE-tmp9hj4u.md)) in full, from JMLR's own PDF; worth
   reading for the derivation of the IBP as the limit of a finite
   beta–Bernoulli model, for K+ ~ Poisson(αH_N) and Poisson(α) features
   per object, and as a map of the IBP's variants to 2010, including the
   Markov IBP closest to a dynamic feature model. Read it knowing that
   αH_N is stated for the limit only and the finite model's expected count
-  of occupied features is strictly below it (THEORY-tmppc921), that its
+  of occupied features is strictly below it ([THEORY-tmppc921](../theory.d/THEORY-tmppc921.md)), that its
   posterior Gibbs sampler is by its own account heuristic, and that its
   demonstrations are single runs on data built to suit the model.
 title: 'The Indian Buffet Process: An Introduction and Review'
@@ -70,9 +70,9 @@ Griffiths, T. L. & Ghahramani, Z. (2011). The Indian buffet process: An
 introduction and review. *Journal of Machine Learning Research* 12:
 1185–1224. https://jmlr.org/papers/v12/griffiths11a.html.
 
-Read 2026-10-26 in full, in NOTE-tmp9hj4u. The summary was checked
+Read 2026-10-26 in full, in [NOTE-tmp9hj4u](../notes.d/NOTE-tmp9hj4u.md). The summary was checked
 against the reading and holds. What the reading adds is in
-THEORY-tmppc921: the αH_N count T23 quotes is the limit's, and at T23's
+[THEORY-tmppc921](../theory.d/THEORY-tmppc921.md): the αH_N count T23 quotes is the limit's, and at T23's
 K = 16 the finite model expects 6.83 occupied features.
 
 ## Why this is here

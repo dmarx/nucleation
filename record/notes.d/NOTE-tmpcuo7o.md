@@ -158,56 +158,56 @@ Gibbs sampler (Griffiths and Steyvers 2004). It contrasts itself with
 hierarchical clustering, whose internal nodes summarize their children,
 and with supervised placement of documents into a given hierarchy. It
 names as open the variant in which "each document exhibits multiple
-paths through the tree", which the nested HDP of LIT-002 (NOTE-023)
-supplies. It names the author-topic model (LIT-tmpnzjy3) as adaptable to a
+paths through the tree", which the nested HDP of [LIT-002](../literature.d/LIT-002.md) ([NOTE-023](NOTE-023.md))
+supplies. It names the author-topic model ([LIT-tmpnzjy3](../literature.d/LIT-tmpnzjy3.md)) as adaptable to a
 flexible hierarchy, and cites the mixed membership blockmodel
-(LIT-tmpt5wer) among flat mixed-membership models of non-text data. It
+([LIT-tmpt5wer](../literature.d/LIT-tmpt5wer.md)) among flat mixed-membership models of non-text data. It
 mentions the Indian buffet process (Griffiths and Ghahramani 2006) as the
 parallel line of "multiple binary features rather than clusters".
 
 ## Bearing on the record
 
-- **QUESTION-tmpixgs8, condition 2 (overlap).** T21 said that "classical
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), condition 2 (overlap).** T21 said that "classical
   hLDA assigns each document one path through a tree", and the paper
-  confirms it in its own words (THEORY-tmp5t37f). If a document is a
+  confirms it in its own words ([THEORY-tmp5t37f](../theory.d/THEORY-tmp5t37f.md)). If a document is a
   member's activity, hLDA can place a member under several topics only as
   a chain of ever more specific ones. A member who takes part in two
   sibling branches cannot be represented. That is a partition at every
-  level, not an overlap. T21's move to the nested HDP (LIT-002) is the
+  level, not an overlap. T21's move to the nested HDP ([LIT-002](../literature.d/LIT-002.md)) is the
   paper's own §4 suggestion.
-- **QUESTION-tmpixgs8, "without their number being fixed in advance".**
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), "without their number being fixed in advance".**
   The nCRP does leave the number of topics open, but the paper is plain
   that the hyperparameters shape the tree, and its readable trees use
   hyperparameters chosen for readability (§6.2). Leaving the number open
   moves the choice into γ, η and the GEM, and does not remove it. That
-  bears on CLAIM-188's price of naming a recovered unit.
-- **QUESTION-tmpixgs8, "What would not answer it".** §6.1 is exactly the
+  bears on [CLAIM-188](../claims.d/CLAIM-188.md)'s price of naming a recovered unit.
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), "What would not answer it".** §6.1 is exactly the
   test that the question sets aside: recovering the prior's structure from
   data generated under that prior. Eight of ten trees came back exactly
-  (THEORY-tmpvs18m). That shows the sampler can invert the model. It says
+  ([THEORY-tmpvs18m](../theory.d/THEORY-tmpvs18m.md)). That shows the sampler can invert the model. It says
   nothing about whether a tree is in data the model did not generate. The
   one failure "due to finite data", a wrong tree with higher posterior
   than the true one, is a small-sample identifiability failure, and the
   authors' own caveat names the condition: "how identifiable the topics
   are". The paper has no identifiability theorem for trees or topics.
-  CLAIM-135's second step is not reached for hLDA by anything in it.
-- **QUESTION-tmpixgs8, T21's "allow the hierarchy to lose".** §6.3 is the
+  [CLAIM-135](../claims.d/CLAIM-135.md)'s second step is not reached for hLDA by anything in it.
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), T21's "allow the hierarchy to lose".** §6.3 is the
   paper's own test of whether the hierarchy earns its constraint, and it
   passes only in a range: near its own topic count on one corpus, with an
-  estimator now known to be unreliable (THEORY-tmpi9pkg, Proposed). The
+  estimator now known to be unreliable ([THEORY-tmpi9pkg](../theory.d/THEORY-tmpi9pkg.md), Proposed). The
   authors expect a flat model to win when the topic count is free. A
   hierarchy over members' messages would need its own such test against a
   flat mixed-membership model, which is what T21 asked for.
-- **CLAIM-tmpwr001.** An hLDA topic is a distribution over words and
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** An hLDA topic is a distribution over words and
   nothing more. The paper's "abstraction" is shared usage, by definition.
   A tree of what members say is at most a constituent in that claim's
   sense, and the paper itself claims no more. T21's falsification test
   (two organizations with identical messages and different authorization
   pathways) follows from the likelihood: hLDA's depends only on the words,
   so it must give both organizations the same posterior.
-- **CASE-tmprl1px.** Its analyzer fixed the number of factors. hLDA does
+- **[CASE-tmprl1px](../cases.d/CASE-tmprl1px.md).** Its analyzer fixed the number of factors. hLDA does
   not, but the trees of §6.2 were read by eye. The same objection that
-  CLAIM-427 makes to recovering modes in the framework's own terms applies
+  [CLAIM-427](../claims.d/CLAIM-427.md) makes to recovering modes in the framework's own terms applies
   to reading a tree's levels as levels of an organization.
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -256,7 +256,7 @@ No instruction for machine-learning practice; nothing for the anthology.
   supplies a condition in words (separation of topics, enough data) and no
   result.
 - Does a multiple-path model (the nested HDP) keep §6.3's predictive
-  advantage over a flat model when the topic count is free? LIT-002's
-  reading (NOTE-023) has the variational comparison, not this one.
+  advantage over a flat model when the topic count is free? [LIT-002](../literature.d/LIT-002.md)'s
+  reading ([NOTE-023](NOTE-023.md)) has the variational comparison, not this one.
 - With a reliable estimator of held-out likelihood, does the JACM ordering
   in Fig. 9 survive?

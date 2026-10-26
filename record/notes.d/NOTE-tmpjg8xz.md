@@ -135,7 +135,7 @@ fictitious author per document is its way of buying some of both.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | The AT model's word distributions factor as P = ΦΘA, with LDA and the author model as the special cases that collapse one pair | strong | Appendix C; §6.1–6.2; re-derived in THEORY-tmp7wy54 |
+| C1 | The AT model's word distributions factor as P = ΦΘA, with LDA and the author model as the special cases that collapse one pair | strong | Appendix C; §6.1–6.2; re-derived in [THEORY-tmp7wy54](../theory.d/THEORY-tmp7wy54.md) |
 | C2 | The model is unidentified up to permutations of topics | strong as far as it goes; the likelihood's freedom is larger (see Limitations) | §3.2 |
 | C3 | AT predicts sparsely observed documents better than LDA, and worse once more than about 16 words are seen | moderate | Fig. 11, one corpus, one split |
 | C4 | A fictitious author per document improves AT throughout | moderate | Fig. 11 |
@@ -162,54 +162,54 @@ wrote a text from style, and with network models of co-authorship, which
 use links and not words. McCallum et al.'s author–recipient–topic model
 for email is cited as the extension that conditions topics on recipients
 as well. The record holds the nonparametric author–topic model as the
-baseline of LIT-013's Twitter-Network Topic Model (NOTE-008).
+baseline of [LIT-013](../literature.d/LIT-013.md)'s Twitter-Network Topic Model ([NOTE-008](NOTE-008.md)).
 
 ## Bearing on the record
 
-- **QUESTION-tmpixgs8, condition 2 (overlap).** This is the plain-text case
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), condition 2 (overlap).** This is the plain-text case
   of inferring members' overlapping participation, and its overlap is of a
   particular kind. An author's θ_a is a point on the simplex, so taking
   more part in one theme means taking less part in the others. T19 asked
   for participation with "no requirement that ∑_p w_ep,t = 1", and the AT
   model cannot give it. An author strongly in two themes and an author
   weakly in two look the same if their proportions match. A feature
-  allocation (T22's Indian buffet prior, CASE-tmplcm41) records having a
+  allocation (T22's Indian buffet prior, [CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)) records having a
   theme separately from how much of one's output it takes. The two are
   different models of overlap, and the question names both.
-- **QUESTION-tmpixgs8, "without their number being fixed".** T is fixed
-  here. LIT-013's model (NOTE-008) is the nonparametric form.
-- **QUESTION-tmpixgs8, condition 4, and T21's falsification test.** The
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), "without their number being fixed".** T is fixed
+  here. [LIT-013](../literature.d/LIT-013.md)'s model ([NOTE-008](NOTE-008.md)) is the nonparametric form.
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md), condition 4, and T21's falsification test.** The
   likelihood depends on the words and the authorship only. Two
   organizations with identical messages and authorship and different
   authorization pathways get the same posterior, so the AT model must fail
   T21's test, as T21 predicted of any content-only model. It is a
   candidate for the "communication relations alone" side of the
   comparison only in so far as authorship is a relation.
-- **CLAIM-148.** Appendix C makes the AT model a three-factor nonnegative
-  factorization with one factor known. CLAIM-148's NMF gauge applies to
+- **[CLAIM-148](../claims.d/CLAIM-148.md).** Appendix C makes the AT model a three-factor nonnegative
+  factorization with one factor known. [CLAIM-148](../claims.d/CLAIM-148.md)'s NMF gauge applies to
   the other two, and it is larger than the permutations §3.2 names: a
   continuum of column-stochastic changes of topic basis leaves the
-  likelihood unchanged (THEORY-tmp7wy54). The empirical face of this is
+  likelihood unchanged ([THEORY-tmp7wy54](../theory.d/THEORY-tmp7wy54.md)). The empirical face of this is
   §4.2's alignment, where about a fifth of the topics had no counterpart
   in a second run.
-- **CLAIM-135.** The paper reaches the first achievement (fit, by
+- **[CLAIM-135](../claims.d/CLAIM-135.md).** The paper reaches the first achievement (fit, by
   perplexity) and argues stability across runs. It claims identification
   only up to permutation and does not show even that. Its Enron reading of
   "roles and interests" is the step to constitution, and it is made by
   inspection.
-- **CASE-tmplcm41.** The fictitious author is the AT model's version of
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md).** The fictitious author is the AT model's version of
   that case's W^private, the per-employee term outside any shared feature.
-  CLAIM-148's note of 2026-10-26 found that a feature one employee holds is
+  [CLAIM-148](../claims.d/CLAIM-148.md)'s note of 2026-10-26 found that a feature one employee holds is
   absorbed into the private map. Here, likewise, a topic used by only one
   document can be carried by its fictitious author or by a real author's
   θ_a, and only the priors choose. Fig. 11 shows the fictitious author
   improving prediction. It does not show what it takes from the authors'
   profiles.
-- **CLAIM-tmpwr001 and TERM-072.** An author's topic distribution is what
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md) and [TERM-072](../terms.d/TERM-072.md).** An author's topic distribution is what
   they write about. The paper's Enron reading of three employees' "roles"
   from their topics is the move the claim says an allocation cannot
   license by itself. The institutional accounts, nearly single-topic, are
-  CASE-101's kind of coactivity: many emails alike because one source
+  [CASE-101](../cases.d/CASE-101.md)'s kind of coactivity: many emails alike because one source
   sends them.
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -220,7 +220,7 @@ No instruction for machine-learning practice; nothing for the anthology.
   likelihood, any invertible R with column sums one, ΦR⁻¹ ≥ 0 and RΘ ≥ 0
   gives the same P = ΦΘA. With every entry of Φ positive, as every
   posterior mean with β > 0 is, such R include a continuum near the
-  identity (re-derived and checked in THEORY-tmp7wy54). Only the Dirichlet
+  identity (re-derived and checked in [THEORY-tmp7wy54](../theory.d/THEORY-tmp7wy54.md)). Only the Dirichlet
   priors separate those parameter values.
 - **Authorship must be known.** Unobserved or partial authorship, and any
   dependence between authors, are outside the model.

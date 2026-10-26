@@ -28,7 +28,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpf4hwb
 summary: >-
-  Wang et al. (2025), LIT-tmpf4hwb, read in NOTE-tmplotfq. Their EAP-IG
+  Wang et al. (2025), [LIT-tmpf4hwb](../literature.d/LIT-tmpf4hwb.md), read in [NOTE-tmplotfq](../notes.d/NOTE-tmplotfq.md). Their EAP-IG
   circuits (top 5% of edges) change edges 2.8–4.3 times as much as nodes
   over LoRA fine-tuning on five arithmetic tasks. A record simulation
   shows that a fixed edge budget on a transformer-sized graph gives the
@@ -43,7 +43,7 @@ summary: >-
 ## Source
 
 Wang, Hu, Du, Cheng, Wang and Zou (2025), ICML 2025, arXiv:2502.11812,
-LIT-tmpf4hwb, read in full in NOTE-tmplotfq: §4 and Appendices D, E, F, G,
+[LIT-tmpf4hwb](../literature.d/LIT-tmpf4hwb.md), read in full in [NOTE-tmplotfq](../notes.d/NOTE-tmplotfq.md): §4 and Appendices D, E, F, G,
 H and K. The conclusion's words: "fine-tuning primarily modifying edges
 rather than merely introducing new components to form new circuits".
 
@@ -97,9 +97,9 @@ The promote_when above.
 
 ## Bearing
 
-- QUESTION-tmpivbso cites this work for relations reorganizing while
+- [QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md) cites this work for relations reorganizing while
   components stay. As filed, it is the hypothesis, not the finding, and
   the null above is the test that question's own design would also need.
-- CLAIM-329: "the same components" is judged here by resemblance (the node
+- [CLAIM-329](../claims.d/CLAIM-329.md): "the same components" is judged here by resemblance (the node
   appears again), not by what the component does or where its function
   came from.

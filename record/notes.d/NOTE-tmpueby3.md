@@ -182,25 +182,25 @@ heads give up simple n-grams to serve other heads.
 
 ## Connections
 
-It builds on Watanabe's singular learning theory (LIT-354, Unavailable)
-and the WBIC's tempered posterior (LIT-616), on Lau et al.'s LLC estimator,
+It builds on Watanabe's singular learning theory ([LIT-354](../literature.d/LIT-354.md), Unavailable)
+and the WBIC's tempered posterior ([LIT-616](../literature.d/LIT-616.md)), on Lau et al.'s LLC estimator,
 and directly on Hoogland et al. (2024), whose model, run and stages it
-reuses. Its head taxonomy comes from Olsson et al. (LIT-tmpe7b5o) and
+reuses. Its head taxonomy comes from Olsson et al. ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) and
 Elhage et al. (2021). Its framing of development by data structure cites
 Rogers and McClelland's "waves of differentiation", Saxe et al.'s theory
-of semantic development, and Belrose et al. (LIT-952) on low-order
+of semantic development, and Belrose et al. ([LIT-952](../literature.d/LIT-952.md)) on low-order
 statistics first. Achille et al.'s critical periods are its model for LLC
 decreases.
 
 ## Bearing on the record
 
-- **QUESTION-tmpivbso.** The closest prior art the record holds, and the
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The closest prior art the record holds, and the
   reply's citation of it at T24 is accurate. Three things bear directly.
   - *Acquisition by reorganization is observed.* The previous-token heads,
     the circuit's precursor, began as n-gram heads; layer-0 multigram heads
     give up simple n-grams to support layer-1 heads; n-grams move between
     heads. That is the question's "reorganizing existing features", seen at
-    the level of components and at two checkpoints. It is THEORY-tmp1dufu,
+    the level of components and at two checkpoints. It is [THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md),
     filed Proposed.
   - *The allocation changes the question's model would track are reported.*
     A feature (an n-gram) moving from head 0:0 to head 1:0 is a change in
@@ -212,38 +212,38 @@ decreases.
     out-predict. The paper fits nothing prospectively: it clusters and
     explains after the fact, so the question's prospective test is not
     done here.
-- **QUESTION-039.** On "one kind of event or several", the paper reports at
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** On "one kind of event or several", the paper reports at
   least three: growth in a component's information (LLC rising),
   refinement or loss of it (LLC falling at constant loss), and repurposing
   of a component to a new role. On "what sets the order": in this model the
   stages go bigrams, multigrams, previous-token heads, induction heads, and
   data refinement ties particular heads' timing to particular data (code
   and induction). It answers nothing in full.
-- **THEORY-279.** Bigrams before multigrams before induction, and layer-0
+- **[THEORY-279](../theory.d/THEORY-279.md).** Bigrams before multigrams before induction, and layer-0
   heads later giving up simple n-grams, is low-order-first followed by loss
   of the early behaviour, inside one transformer. The paper cites Belrose
   et al. for the same idea. The join is the paper's, not new; it is a
-  second family of evidence for THEORY-279's pattern.
-- **THEORY-039.** Falling LLC at constant loss is a later phase of a kind
-  THEORY-039 lists (simplification), measured per component.
-- **THEORY-253, THEORY-783, QUESTION-193.** No optimizer is varied, and
+  second family of evidence for [THEORY-279](../theory.d/THEORY-279.md)'s pattern.
+- **[THEORY-039](../theory.d/THEORY-039.md).** Falling LLC at constant loss is a later phase of a kind
+  [THEORY-039](../theory.d/THEORY-039.md) lists (simplification), measured per component.
+- **[THEORY-253](../theory.d/THEORY-253.md), [THEORY-783](../theory.d/THEORY-783.md), [QUESTION-193](../questions.d/QUESTION-193.md).** No optimizer is varied, and
   none is named in the paper. Nothing here bears on sign descent. The
   staggered formation of the two induction heads is a timing difference
   between components with the same function, which neither the optimizer
   account nor dependency explains on its face.
-- **CASE-tmplcm41 (having a capacity against using it).** The paper
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md) (having a capacity against using it).** The paper
   measures two things per head: how sensitive the loss is to its weights
   (rLLC) and how much the loss rises when its output is removed
   (ablation). They mostly agree and sometimes disagree (E.4). That is a
   measured version of the case's split between holding a feature and
   using it, and in a transformer both can be measured by intervention
   rather than inferred from reconstruction.
-- **CLAIM-329, TERM-071.** "Migration" of an n-gram from one head to another
+- **[CLAIM-329](../claims.d/CLAIM-329.md), [TERM-071](../terms.d/TERM-071.md).** "Migration" of an n-gram from one head to another
   is judged by the same tokens being affected at two checkpoints, which is
   continuity by resemblance. Whether 1:0 inherited the role from 0:0 or
   learned it afresh is not tested. The question's §6 ("Can we distinguish
   a continuing computation from a newly learned replacement") is open here.
-- **LIT-354, LIT-616.** The record's first developmental use of the
+- **[LIT-354](../literature.d/LIT-354.md), [LIT-616](../literature.d/LIT-616.md).** The record's first developmental use of the
   learning coefficient. The quantity is Watanabe's; the refinement to a
   subset of weights and to another distribution is this paper's.
 

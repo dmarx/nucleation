@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpueby3) in full, from the arXiv PDF of v1;
+  read 2026-10-26 ([NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md)) in full, from the arXiv PDF of v1;
   worth reading as the record's first developmental use of the learning
   coefficient, for per-head trajectories that separate attention heads by
-  function (THEORY-tmp9uzkw), and for its observations of heads changing
-  role as circuits form (THEORY-tmp1dufu, Proposed). Read it knowing that
+  function ([THEORY-tmp9uzkw](../theory.d/THEORY-tmp9uzkw.md)), and for its observations of heads changing
+  role as circuits form ([THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md), Proposed). Read it knowing that
   it is one two-layer attention-only model with three appendix seeds, that
   the estimates are trusted only for their ordering, that cluster counts
   were chosen by eye, and that nothing is predicted before it happens.
@@ -67,7 +67,7 @@ Wang, G., Hoogland, J., van Wingerden, S., Furman, Z. & Murfet, D. (2024).
 Differentiation and specialization of attention heads via the refined local
 learning coefficient. *ICLR 2025*. arXiv:2410.02984.
 
-Read in full on 2026-10-26 (NOTE-tmpueby3). The summary is checked
+Read in full on 2026-10-26 ([NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md)). The summary is checked
 against the reading.
 
 ## Why this is here

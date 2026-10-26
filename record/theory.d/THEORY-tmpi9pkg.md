@@ -26,8 +26,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpk69gp
 summary: >-
-  Blei, Griffiths and Jordan (2010), LIT-tmpk69gp, §6.3 and Fig. 9, read in
-  NOTE-tmpcuo7o. One corpus, five-fold cross-validation, hyperparameters
+  Blei, Griffiths and Jordan (2010), [LIT-tmpk69gp](../literature.d/LIT-tmpk69gp.md), §6.3 and Fig. 9, read in
+  [NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md). One corpus, five-fold cross-validation, hyperparameters
   integrated out. It is evidence that a single-path hierarchy can earn its
   constraint in prediction, near its own size. It is not evidence that a
   hierarchy predicts better than a flat mixed-membership model in
@@ -39,8 +39,8 @@ summary: >-
 
 ## Source
 
-Blei, Griffiths and Jordan (2010), LIT-tmpk69gp, §6.3 and Figs. 9–10, read
-in full in NOTE-tmpcuo7o from arXiv 0710.0845v3.
+Blei, Griffiths and Jordan (2010), [LIT-tmpk69gp](../literature.d/LIT-tmpk69gp.md), §6.3 and Figs. 9–10, read
+in full in [NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md) from arXiv 0710.0845v3.
 
 ## What was actually shown
 
@@ -76,12 +76,12 @@ on the estimator is given. One corpus was used.
   expects the reverse when the topic count is free, and says so.
 - **Not that hLDA's topics are more interpretable.** That is Fig. 10's
   separate claim, by eye, against an LDA run with function words left in.
-- **Not about multiple-path hierarchies.** The nested HDP (LIT-002,
-  NOTE-023) is a different comparison.
+- **Not about multiple-path hierarchies.** The nested HDP ([LIT-002](../literature.d/LIT-002.md),
+  [NOTE-023](../notes.d/NOTE-023.md)) is a different comparison.
 
 ## Connections
 
-- **QUESTION-tmpixgs8.** T21 asked that a hierarchy be allowed "to lose if
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** T21 asked that a hierarchy be allowed "to lose if
   it doesn't provide useful explanatory compression". This is the
   original paper's version of that test: it passes in a range, on one
   corpus, by an estimator that needs replacing. A hierarchy over members'

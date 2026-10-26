@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpcg7gu) in full, from PMLR's own PDF; worth
+  read 2026-10-26 ([NOTE-tmpcg7gu](../notes.d/NOTE-tmpcg7gu.md)) in full, from PMLR's own PDF; worth
   reading for the thresholded-Gaussian-process construction that keeps
   each feature's prevalence fixed over a covariate while its covariance
   sets persistence, the established comparator for a dynamic latent
-  feature model (THEORY-tmpumk4q). Read it knowing that its claim of IBP
+  feature model ([THEORY-tmpumk4q](../theory.d/THEORY-tmpumk4q.md)). Read it knowing that its claim of IBP
   marginals at every covariate value holds for the whole matrix only in
   its collapsed model, that features stay independent of one another, and
   that its evidence is two prediction comparisons with the plain IBP.
@@ -70,7 +70,7 @@ processes. In *Proceedings of the Thirteenth International Conference on
 Artificial Intelligence and Statistics*, PMLR 9: 924–931.
 https://proceedings.mlr.press/v9/williamson10a.html.
 
-Read 2026-10-26 in full, in NOTE-tmpcg7gu. The summary was checked
+Read 2026-10-26 in full, in [NOTE-tmpcg7gu](../notes.d/NOTE-tmpcg7gu.md). The summary was checked
 against the reading and holds.
 
 ## Why this is here
@@ -80,5 +80,5 @@ company changes, and at T23 as the construction its dynamic model is not.
 T23's model keeps the IBP prior only at its first time step ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md));
 this is the established model in which every item's feature keeps the
 same prevalence at every covariate value, the whole allocation staying
-IBP-distributed in its collapsed form (THEORY-tmpumk4q), and so the
+IBP-distributed in its collapsed form ([THEORY-tmpumk4q](../theory.d/THEORY-tmpumk4q.md)), and so the
 comparator for that case and for [QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).

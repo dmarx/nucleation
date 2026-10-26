@@ -129,7 +129,7 @@ interact by sharing coordinates or by contending for the same layers.
   distractor block carries the query's canonical partner. Without (A4)
   the error is O(|V|^{−1} + n fc/|V^c|), which "does not vanish in the
   orthonormal idealization" (Remark 1). Checked here as a decomposition
-  of the data into the three parts in THEORY-tmpvqsx2.
+  of the data into the three parts in [THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md).
 - **Theorem 3 (burstiness).** With burstiness b, in the
   distractor-dominated limit n → ∞ at fixed b,
   E_{D(b)}[∇_ICL L(W)] = b E_{D(1)}[∇_ICL L(W)](1 + O(b/n)), in the
@@ -146,7 +146,7 @@ interact by sharing coordinates or by contending for the same layers.
   circuit needs a large β″, which is not in it either. The boundaries are
   "very sharp" between the (2, 3) circuit and each of the others, and not
   between (1, 2) and (1, 3), "because the red and green circuits are
-  cooperative: both share α". THEORY-tmpq4l9j.
+  cooperative: both share α". [THEORY-tmpq4l9j](../theory.d/THEORY-tmpq4l9j.md).
 - **Circuit detection** (§5, App. F). Greedy backward elimination of IMIR
   directions in two trained five-layer two-hop models recovers the four
   canonical units plus "aiding" directions. In C₁, the trained model
@@ -158,7 +158,7 @@ interact by sharing coordinates or by contending for the same layers.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | Under Assumptions 1–6, population gradient descent keeps the key–query and output weights in span(W_ℓ), span(W̄) | strong | Theorem 1 with a six-step proof; re-derived in general form in THEORY-tmpdxhxm |
+| C1 | Under Assumptions 1–6, population gradient descent keeps the key–query and output weights in span(W_ℓ), span(W̄) | strong | Theorem 1 with a six-step proof; re-derived in general form in [THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md) |
 | C2 | The IMIR is attractive: trained weights align with it from generic initializations | weak | Fig. 3 bottom left and §5's projections; explicitly not proved |
 | C3 | The result extends to learnable value maps, and to FFNs and LayerNorm | weak for value maps, moderate for FFN and LN | A.4 is a sketch by the authors' own account; A.5 argues the same commutation step for constrained FFN weights |
 | C4 | A saturated IWL circuit scales the ICL gradient by fr + (1 − fr)fv | strong, in the stated limit | Theorem 2, proof in D.4, under (A4) |
@@ -199,13 +199,13 @@ questions come from Singh et al.'s "strategy coopetition" and from
 grokking as subnetwork competition. Theorem 1 is the same kind of result
 as the invariant manifolds of loss of plasticity (Joudaki et al.) and of
 the lottery ticket (Zhang et al. 2021). It cites Olsson et al. 2022
-(LIT-tmpe7b5o) for induction heads, and Musat et al.'s own earlier
+([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) for induction heads, and Musat et al.'s own earlier
 two-head analysis. Its basis is compared to D-RASP decompilation
 variables.
 
 ## Bearing on the record
 
-- **QUESTION-tmpivbso.** This is the strongest comparator the question
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** This is the strongest comparator the question
   has. It already does three things the question's construction proposes,
   in a setting where they are theorems.
   - *A feature allocation over components, with overlap.* An IMIR
@@ -233,33 +233,33 @@ variables.
   initialization by running a seven-coordinate ODE. That is a far stronger
   baseline than the question's "simpler checkpoint-level state-space
   models", and the question could name it.
-- **THEORY-253, THEORY-783, QUESTION-193.** Two points.
+- **[THEORY-253](../theory.d/THEORY-253.md), [THEORY-783](../theory.d/THEORY-783.md), [QUESTION-193](../questions.d/QUESTION-193.md).** Two points.
   - *A third source of sequential onset.* Theorem 2 and C6 put IWL first
-    and ICL later under vanilla SGD. The cause is neither THEORY-783's
+    and ICL later under vanilla SGD. The cause is neither [THEORY-783](../theory.d/THEORY-783.md)'s
     competition for coordinate signs nor dependency between skills. It is
     redundancy: two circuits that solve overlapping parts of the data, so
     the one that saturates first removes the other's gradient on the part
-    it solves. THEORY-783's refutation clause, "orthogonal skills under
+    it solves. [THEORY-783](../theory.d/THEORY-783.md)'s refutation clause, "orthogonal skills under
     plain gradient descent start one after another", is not met: δ and
     (α, β, γ) occupy orthogonal coordinates, but their losses are not
     separate per-skill terms as in the Geometry model, so they are not
     independent skills. The ICL delay in the actual run (fr = 0.9, factor
     0.9) also owes much to α, β, γ being a three-factor product starting
-    small, which is a small-initialization plateau. THEORY-tmpvqsx2.
+    small, which is a small-initialization plateau. [THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md).
   - *Confinement depends on the optimizer.* Theorem 1 is about gradient
     descent. The record checked whether an elementwise optimizer keeps it
-    (THEORY-tmpdxhxm). Sign descent keeps the gradient in the IMIR only if
+    ([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md)). Sign descent keeps the gradient in the IMIR only if
     the IMIR's basis matrices are aligned with the parameter coordinates
     (one-hot embeddings, coordinate-aligned write subspaces). With random
     orthonormal embeddings or write maps, sign(G) leaves the subspace
     (relative residual 0.69 for the token block, 0.62 for a position plane
     embedded in an 8-d stream), while G itself stays in it to 10⁻⁹. That is
-    THEORY-253's rotated quadratic again: whether an adaptive optimizer
+    [THEORY-253](../theory.d/THEORY-253.md)'s rotated quadratic again: whether an adaptive optimizer
     changes the dynamics depends on how the relevant directions sit
     against the coordinates. The paper's §5 trains with AdamW and still
     finds the projection faithful (0.953 against 0.938), so the departure
     may be small in practice; the paper does not discuss it.
-- **THEORY-802, CLAIM-263.** THEORY-802 says the mediating direction is
+- **[THEORY-802](../theory.d/THEORY-802.md), [CLAIM-263](../claims.d/CLAIM-263.md).** [THEORY-802](../theory.d/THEORY-802.md) says the mediating direction is
   fixed only relative to a chosen decomposition into units. Here the
   decomposition is chosen by the data's symmetry group: the commutant of
   Aut(V, R) and of the offset shifts. That is a third kind of answer,
@@ -267,16 +267,16 @@ variables.
   conjectured plurality: the units are the operators the task's
   symmetries allow. It holds only inside Assumptions 1–6, and says nothing
   about trained models outside them.
-- **CLAIM-tmpwr001.** The aiding directions are a case of the claim in a
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The aiding directions are a case of the claim in a
   network. In C₁ the four canonical units alone score 0.594, and with
   three aiding units 0.922. The circuit is not the set of canonical
   units; it depends on how further units are composed with them. That is
   the same kind of point the claim makes about perspectives and features.
-- **CLAIM-367.** The governance of training here is in the data
+- **[CLAIM-367](../claims.d/CLAIM-367.md).** The governance of training here is in the data
   statistics (fr, fv, b) and the initialization, not in anything the
   network does. Theorems 2 and 3 are clean cases of conditions of
   training that belong to the data–optimizer–network system.
-- **CASE-tmplcm41.** Its condition that the temporal prior must not
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md).** Its condition that the temporal prior must not
   condition on θ_s is met trivially on the IMIR, where the state is the
   coordinates themselves. Its symmetry condition has the answer above.
 - No instruction for machine-learning practice is drawn here. The paper's

@@ -17,8 +17,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpk69gp
 summary: >-
-  Blei, Griffiths and Jordan (2010), LIT-tmpk69gp, §6.1 and Fig. 6, read in
-  NOTE-tmpcuo7o. It shows that the sampler can invert hLDA on data hLDA
+  Blei, Griffiths and Jordan (2010), [LIT-tmpk69gp](../literature.d/LIT-tmpk69gp.md), §6.1 and Fig. 6, read in
+  [NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md). It shows that the sampler can invert hLDA on data hLDA
   generated, with sparse, well-separated topics. It does not show that the
   tree is identified in general, or that a tree found in real data was
   there to be found. One failure is a posterior that prefers the wrong
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Blei, Griffiths and Jordan (2010), LIT-tmpk69gp, §6.1 and Fig. 6, read in
-full in NOTE-tmpcuo7o from arXiv 0710.0845v3.
+Blei, Griffiths and Jordan (2010), [LIT-tmpk69gp](../literature.d/LIT-tmpk69gp.md), §6.1 and Fig. 6, read in
+full in [NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md) from arXiv 0710.0845v3.
 
 ## What was actually shown
 
@@ -76,14 +76,14 @@ and similarity between topics."
 
 ## Connections
 
-- **QUESTION-tmpixgs8.** Its list of what would not answer it includes
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** Its list of what would not answer it includes
   "Recovering the prior's structure from data generated under that prior,
   which tests the inference, not the structure". This is that test, carried
   out well. The question needs a world that did not assume the prior,
-  which is T23's "Option A" (CASE-tmplcm41).
-- **CLAIM-203.** Its note of 2026-10-26 draws the same lesson for
+  which is T23's "Option A" ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)).
+- **[CLAIM-203](../claims.d/CLAIM-203.md).** Its note of 2026-10-26 draws the same lesson for
   latent-structure recovery.
-- **CLAIM-135.** This is evidence for the first achievement on simulated
+- **[CLAIM-135](../claims.d/CLAIM-135.md).** This is evidence for the first achievement on simulated
   data, and for the second only within the model and at this size. The
   case where the posterior prefers a wrong tree shows the second can fail
   while the sampler succeeds.

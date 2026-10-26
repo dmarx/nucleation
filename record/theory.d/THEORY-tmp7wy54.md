@@ -19,7 +19,7 @@ source:
 - LIT-tmpnzjy3
 summary: >-
   Rosen-Zvi, Chemudugunta, Griffiths, Smyth and Steyvers (2010),
-  LIT-tmpnzjy3, read in NOTE-tmpjg8xz. The likelihood sees members' topic
+  [LIT-tmpnzjy3](../literature.d/LIT-tmpnzjy3.md), read in [NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md). The likelihood sees members' topic
   profiles only through the word distributions they jointly produce, and a
   small change of topic basis that keeps every distribution a distribution
   produces exactly the same corpus probabilities. Only the Dirichlet priors
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Rosen-Zvi, Chemudugunta, Griffiths, Smyth and Steyvers (2010), *ACM TOIS*
-28(1), LIT-tmpnzjy3, read in full in NOTE-tmpjg8xz. The factorization is
+28(1), [LIT-tmpnzjy3](../literature.d/LIT-tmpnzjy3.md), read in full in [NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md). The factorization is
 Appendix C, the special cases §6.1–6.2, and "the posterior probability of
 Φ and Θ is unaffected by permuting their columns" §3.2. The continuum, and
 the derivations below, are the record's.
@@ -95,16 +95,16 @@ the gauge acts between Φ and Θ, where A does not reach.
 
 ## Connections
 
-- **CLAIM-148.** This is that claim's nonnegative-factorization gauge in
+- **[CLAIM-148](../claims.d/CLAIM-148.md).** This is that claim's nonnegative-factorization gauge in
   three-factor form with one factor known: the set
   {R : WR ≥ 0, R⁻¹H ≥ 0}, with the column-sum constraint that probability
   matrices add.
-- **CLAIM-135.** The AT model reaches the first achievement by perplexity.
+- **[CLAIM-135](../claims.d/CLAIM-135.md).** The AT model reaches the first achievement by perplexity.
   The second needs conditions the paper does not supply. Its §4.2 found
   about 80 of 100 topics aligned across two runs, the empirical face of
   the same gap.
-- **CASE-tmplcm41.** The additive latent-feature model of that case has
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md).** The additive latent-feature model of that case has
   the same kind of gauge between its features and their weights, and
-  CLAIM-148's note of 2026-10-26 lists it.
-- **THEORY-tmplo0xb.** The mixed membership blockmodel has the bilinear
+  [CLAIM-148](../claims.d/CLAIM-148.md)'s note of 2026-10-26 lists it.
+- **[THEORY-tmplo0xb](THEORY-tmplo0xb.md).** The mixed membership blockmodel has the bilinear
   analogue, between memberships and the block matrix.

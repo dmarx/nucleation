@@ -20,8 +20,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpt5wer
 summary: >-
-  Airoldi, Blei, Fienberg and Xing (2008), LIT-tmpt5wer, read in
-  NOTE-tmphwzim. The paper says the blockmodel and the memberships do not
+  Airoldi, Blei, Fienberg and Xing (2008), [LIT-tmpt5wer](../literature.d/LIT-tmpt5wer.md), read in
+  [NOTE-tmphwzim](../notes.d/NOTE-tmphwzim.md). The paper says the blockmodel and the memberships do not
   compete, because one is global and asymmetric and the other local and
   symmetric. Given the memberships they do: a change of block basis moves
   every node's memberships toward the centre and sharpens B, with the same
@@ -35,8 +35,8 @@ summary: >-
 
 ## Source
 
-Airoldi, Blei, Fienberg and Xing (2008), *JMLR* 9:1981–2014, LIT-tmpt5wer,
-read in full in NOTE-tmphwzim from the JMLR copy. The model is §2 and
+Airoldi, Blei, Fienberg and Xing (2008), *JMLR* 9:1981–2014, [LIT-tmpt5wer](../literature.d/LIT-tmpt5wer.md),
+read in full in [NOTE-tmphwzim](../notes.d/NOTE-tmphwzim.md) from the JMLR copy. The model is §2 and
 §2.1, the estimators §3.2 and Appendix B. The paper's own statement, in
 §5: B and the memberships are "apparently in competition for explaining
 the data, possibly raising an identifiability issue. This is not the case,
@@ -122,16 +122,16 @@ not, because each pair's indicators are summed out independently.
 
 ## Connections
 
-- **CLAIM-148.** This is its gauge in bilinear form, X = ΠᵀBΠ, with the
+- **[CLAIM-148](../claims.d/CLAIM-148.md).** This is its gauge in bilinear form, X = ΠᵀBΠ, with the
   simplex and [0, 1] in place of nonnegativity. Like the NMF case, the
   freedom is data-dependent and larger than the permutations.
-- **THEORY-tmp7wy54.** The author–topic model's gauge between topics and
+- **[THEORY-tmp7wy54](THEORY-tmp7wy54.md).** The author–topic model's gauge between topics and
   author profiles is the same kind, with the authorship matrix known.
-- **CLAIM-135.** The paper's readings of blocks as factions, grades and
+- **[CLAIM-135](../claims.d/CLAIM-135.md).** The paper's readings of blocks as factions, grades and
   protein functions reach the first achievement and, through the
   Dirichlet family, perhaps the second. §5 claims the second without an
   argument.
-- **QUESTION-tmpixgs8.** A mixed-membership blockmodel of the
+- **[QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).** A mixed-membership blockmodel of the
   communication and authority graph is the baseline its condition 4
   needs. Readings of how far each member takes part in each block of that
   baseline inherit this gauge, so any comparison should be on predictions

@@ -219,18 +219,18 @@ circuits (2021), from which the induction head and its K-composition
 mechanism come, on Kaplan et al.'s per-position loss as the measure of
 in-context learning, and on Erhan et al. (2010) for the function-space
 view of per-token losses. It places the phase change beside grokking
-(Power et al., LIT-341) as a change over training rather than scale, and
+(Power et al., [LIT-341](../literature.d/LIT-341.md)) as a change over training rather than scale, and
 points to Saxe et al.'s independent paths in deep linear networks as a
 possible circuit view of learning dynamics. The same team's superposition
-paper is LIT-323. Later developmental work starts from it: Wang et al.'s
+paper is [LIT-323](../literature.d/LIT-323.md). Later developmental work starts from it: Wang et al.'s
 refined learning coefficients study the same two-layer attention-only
-setting (LIT-tmpa32mr), and Bayazit et al. track features across
-checkpoints in larger models (LIT-tmpuuwok). The record already used it
-second-hand: LIT-153 (NOTE-106) rests its induction-head example on it.
+setting ([LIT-tmpa32mr](../literature.d/LIT-tmpa32mr.md)), and Bayazit et al. track features across
+checkpoints in larger models ([LIT-tmpuuwok](../literature.d/LIT-tmpuuwok.md)). The record already used it
+second-hand: [LIT-153](../literature.d/LIT-153.md) ([NOTE-106](NOTE-106.md)) rests its induction-head example on it.
 
 ## Bearing on the record
 
-- **QUESTION-tmpivbso.** This is the question's induction setting, and
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** This is the question's induction setting, and
   the reply's account of it at T24 is accurate. What the paper gives that
   the question can use:
   - *A circuit-only baseline over checkpoints already exists.* Per-head
@@ -251,44 +251,44 @@ second-hand: LIT-153 (NOTE-106) rests its induction-head example on it.
     dataset saw the same tokens in the same order, so co-occurrence across
     sizes cannot separate the data order from the architecture. And the
     small models' phase change falls during learning-rate warm-up.
-- **THEORY-253, THEORY-783, QUESTION-193.** The paper changes no optimizer,
+- **[THEORY-253](../theory.d/THEORY-253.md), [THEORY-783](../theory.d/THEORY-783.md), [QUESTION-193](../questions.d/QUESTION-193.md).** The paper changes no optimizer,
   and names none, so it has nothing on sign descent. Its timing evidence
-  is of the other kind THEORY-253 leaves out and THEORY-783 names: a
+  is of the other kind [THEORY-253](../theory.d/THEORY-253.md) leaves out and [THEORY-783](../theory.d/THEORY-783.md) names: a
   capability that waits on a component it composes with. Removing the
   dependency (smeared keys) moves the onset earlier, which is direct
   evidence that dependency sets the moment of this transition. It is
-  evidence for THEORY-783's "beside dependence between skills", not for its
+  evidence for [THEORY-783](../theory.d/THEORY-783.md)'s "beside dependence between skills", not for its
   optimizer clause.
-- **QUESTION-039.** A new partial answer to "what sets the moment":
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** A new partial answer to "what sets the moment":
   for in-context learning in transformers, the moment is set by when a
-  two-head composition becomes available (THEORY-tmp8cat0). It also
+  two-head composition becomes available ([THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md)). It also
   bears on "one kind of event or several": the authors themselves
   suspect a shared latent event (learning to compose through the residual
   stream) of which induction is one product.
-- **THEORY-169.** The paper's in-context learning is conditioning with
-  fixed weights, as THEORY-169's is, and it reports "no evidence of
+- **[THEORY-169](../theory.d/THEORY-169.md).** The paper's in-context learning is conditioning with
+  fixed weights, as [THEORY-169](../theory.d/THEORY-169.md)'s is, and it reports "no evidence of
   mesa-optimizers". Its description of an induction head as an
-  "in-context nearest neighbor" is the same shape as THEORY-169's softmax
+  "in-context nearest neighbor" is the same shape as [THEORY-169](../theory.d/THEORY-169.md)'s softmax
   attention as kernel regression over stored context. The join is the
   record's, and holds only as an analogy: the induction head's kernel
   matches on the previous token through K-composition, which a single
   softmax layer cannot do.
-- **THEORY-039 and THEORY-279.** The phase change is one well-measured
+- **[THEORY-039](../theory.d/THEORY-039.md) and [THEORY-279](../theory.d/THEORY-279.md).** The phase change is one well-measured
   transition with a mechanism. It does not show that other reported phases
   are the same kind of event; the authors place grokking beside it, not
   under it.
-- **CLAIM-329 and TERM-071.** The constant in-context learning score
+- **[CLAIM-329](../claims.d/CLAIM-329.md) and [TERM-071](../terms.d/TERM-071.md).** The constant in-context learning score
   after the transition is a state persistence; the authors warn that it
   need not mean the mechanism persists ("a lot could be changing during
   training even as the in-context learning score remains constant"). This
-  is TERM-071's state–dynamical distinction, made by the authors for the
+  is [TERM-071](../terms.d/TERM-071.md)'s state–dynamical distinction, made by the authors for the
   record's own example.
-- **LIT-153 / NOTE-106.** NOTE-106's C3 says the abstract overstates
+- **[LIT-153](../literature.d/LIT-153.md) / [NOTE-106](NOTE-106.md).** [NOTE-106](NOTE-106.md)'s C3 says the abstract overstates
   and the body calls the link speculated. The source agrees with the body:
   the authors write "preliminary and indirect evidence" and grade the
   large-model case correlational.
-- **Accounts filed.** THEORY-tmp8cat0 (Active): the small-model result as
-  measured. THEORY-tmpkd3fq (Proposed): the paper's wider thesis for large
+- **Accounts filed.** [THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md) (Active): the small-model result as
+  measured. [THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md) (Proposed): the paper's wider thesis for large
   models with MLPs.
 
 No instruction for machine-learning practice; the anthology may want the

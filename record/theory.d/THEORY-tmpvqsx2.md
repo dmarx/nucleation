@@ -17,7 +17,7 @@ date: '2026-10-26'
 source:
 - LIT-tmp01if4
 summary: >-
-  Musat et al. (2026), LIT-tmp01if4, read in NOTE-tmpcuw4h. A memorized
+  Musat et al. (2026), [LIT-tmp01if4](../literature.d/LIT-tmp01if4.md), read in [NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md). A memorized
   shortcut that solves part of the data removes the in-context circuit's
   gradient on that part and leaves the rest. It is a theorem in an
   idealized model under a disjointness assumption (A4) that the paper's
@@ -32,12 +32,12 @@ summary: >-
 ## Source
 
 Musat, Pimentel, Zucchet and Hofmann (2026), arXiv:2607.11875,
-LIT-tmp01if4, read in full in NOTE-tmpcuw4h: §4.2 (equations (11)–(13))
+[LIT-tmp01if4](../literature.d/LIT-tmp01if4.md), read in full in [NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md): §4.2 (equations (11)–(13))
 and Appendix D.4 (Lemmas 1–4, Remark 1).
 
 ## What was actually shown
 
-**The setting.** The simplified architecture of THEORY-tmpdxhxm with two
+**The setting.** The simplified architecture of [THEORY-tmpdxhxm](THEORY-tmpdxhxm.md) with two
 layers and one head each. The induction circuit is the direction
 (α, β, γ): W^(1) = αM, W^(2) = βI^(t)V^(1)ᵀ, W̄ = γI^(t)V^(2)ᵀ. The
 in-weights circuit is W̄ = δC. Queries are rare with probability fr; a
@@ -99,17 +99,17 @@ canonical-partner coordinate that (A4) removes.
 
 ## Connections
 
-- **THEORY-783 and QUESTION-193.** Under plain gradient descent this
+- **[THEORY-783](THEORY-783.md) and [QUESTION-193](../questions.d/QUESTION-193.md).** Under plain gradient descent this
   gives one circuit starting after another for a reason that is neither
   competition for coordinate signs nor dependence of one skill on
   another: redundancy, two circuits solving overlapping parts of the data,
   so the first to saturate takes the shared part's gradient. It does not
-  meet THEORY-783's refutation clause, which asks for orthogonal *skills*:
+  meet [THEORY-783](THEORY-783.md)'s refutation clause, which asks for orthogonal *skills*:
   here the coordinates are orthogonal but the losses are not separate
-  per-skill terms, as they are in the Geometry model of THEORY-253. So it
-  is a third source of sequential onset beside the two THEORY-783 names,
+  per-skill terms, as they are in the Geometry model of [THEORY-253](THEORY-253.md). So it
+  is a third source of sequential onset beside the two [THEORY-783](THEORY-783.md) names,
   in an idealized model.
-- **CLAIM-367.** The rate at which the induction circuit forms is set by
+- **[CLAIM-367](../claims.d/CLAIM-367.md).** The rate at which the induction circuit forms is set by
   data statistics (fr, fv, and by Theorem 3 burstiness b), a condition of
   training that belongs to the data–optimizer–network system.
 - **Theorem 3 of the same paper** (burstiness multiplies the induction

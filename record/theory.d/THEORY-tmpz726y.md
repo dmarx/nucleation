@@ -18,7 +18,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpday8e
 summary: >-
-  Thibaux and Jordan (2007), LIT-tmpday8e, read in NOTE-tmp9d3rs. The
+  Thibaux and Jordan (2007), [LIT-tmpday8e](../literature.d/LIT-tmpday8e.md), read in [NOTE-tmp9d3rs](../notes.d/NOTE-tmp9d3rs.md). The
   hierarchical beta process B ~ BP(c0, B0), Aj ~ BP(cj, B) gives several
   groups one unbounded feature library at group-specific prevalences. It
   treats each object as in one group, exchangeable within it, and has no
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Thibaux and Jordan (2007), LIT-tmpday8e, §6, equations (8)–(9), read in
-full in NOTE-tmp9d3rs. The facts about beta-process draws used are its
+Thibaux and Jordan (2007), [LIT-tmpday8e](../literature.d/LIT-tmpday8e.md), §6, equations (8)–(9), read in
+full in [NOTE-tmp9d3rs](../notes.d/NOTE-tmp9d3rs.md). The facts about beta-process draws used are its
 (2)–(3).
 
 ## What was actually shown
@@ -70,7 +70,7 @@ Bayes 50%. One split, no variance reported.
 - That features within a group are correlated. Given Aj, an object's
   features are independent.
 - That a small cj makes groups alike. The paper's §7 gives that reason
-  for choosing cj small; by (9) it is the reverse (NOTE-tmp9d3rs,
+  for choosing cj small; by (9) it is the reverse ([NOTE-tmp9d3rs](../notes.d/NOTE-tmp9d3rs.md),
   Limitations).
 - That the hBP is generally a better text classifier. The single
   experiment does not show that.

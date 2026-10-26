@@ -108,7 +108,7 @@ components to form new circuits".
 |---|---|---|---|
 | C1 | Circuits with high faithfulness exist in the pretrained model on tasks it fails | moderate | Fig. 2; faithfulness is relative to the model's own performance, so a circuit can be faithful to a failing model |
 | C2 | Circuits converge as fine-tuning proceeds | moderate | decreasing change counts, Fig. 3 and Appendix D |
-| C3 | Fine-tuning changes edges more than nodes, so it forms new circuits by reorganizing connections | weak for the inference, strong for the counts | Table 5; no null comparison at the same edge budget (see Limitations and THEORY-tmpoirdq) |
+| C3 | Fine-tuning changes edges more than nodes, so it forms new circuits by reorganizing connections | weak for the inference, strong for the counts | Table 5; no null comparison at the same edge budget (see Limitations and [THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)) |
 | C4 | Allocating LoRA rank by circuit edge change improves accuracy at similar size | moderate | Tables 1, 4, 6, means of five seeds, no variances reported; CircuitLoRA's learning rates for critical layers differ from the baselines' |
 | C5 | The union of subtask circuits approximates the compositional circuit | moderate | Tables 2, 3, 7; one compositional task family |
 
@@ -131,7 +131,7 @@ Chhabra et al. (2024) on IOI, where fine-tuning on tasks already done
 well enhanced existing mechanisms, and with Jain et al. (2024) on
 procedurally defined tasks. It uses Hanna et al.'s EAP-IG and builds on
 LoRA, AdaLoRA and IA3. The Mechanistic Interpretability Benchmark
-(LIT-tmprlq7z) independently ranks EAP-IG first among circuit localization
+([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)) independently ranks EAP-IG first among circuit localization
 methods.
 
 ## Bearing on the record
@@ -146,7 +146,7 @@ methods.
   the work it contrasts itself with (Prakash et al., Chhabra et al.) found
   the opposite, so neither is the cited work. The identification holds as
   far as one sentence can fix one paper.
-- **QUESTION-tmpivbso.** The exchange read this as the network analogue of
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The exchange read this as the network analogue of
   members reorganizing into new perspectives. It bears on that more
   weakly than the exchange suggested. It is about fine-tuning a pretrained
   model on narrow arithmetic, not development from initialization. Its
@@ -154,19 +154,19 @@ methods.
   scores above a percentile, so a changed edge is a change in which
   connections clear a threshold, not a measured change in what flows. And
   the node–edge contrast is what a fixed edge budget produces even without
-  reorganization (THEORY-tmpoirdq). What the question can take from it is
+  reorganization ([THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)). What the question can take from it is
   a design point: a claim that relations reorganize while components stay
   must be measured against a null at the same budget.
-- **CLAIM-367.** The paper finds the LoRA layers that matter by circuit
+- **[CLAIM-367](../claims.d/CLAIM-367.md).** The paper finds the LoRA layers that matter by circuit
   change, so its rank allocation is a condition of training placed by the
   analyst according to what the network's circuits did. That fits the
   claim's point that conditions of training belong to the network,
   optimizer and data together.
-- **CLAIM-329.** Whether a fine-tuned circuit with the same nodes is "the
+- **[CLAIM-329](../claims.d/CLAIM-329.md).** Whether a fine-tuned circuit with the same nodes is "the
   same" circuit is the continuity question the claim answers by causal
   transmission. The paper decides it by overlap of node and edge sets,
   which is resemblance.
-- **CLAIM-tmpwr001.** Nodes kept with edges changed is a network case of
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** Nodes kept with edges changed is a network case of
   constituents kept while their organization changes, but only if the
   edge changes are shown to exceed what thresholding alone produces.
 - CircuitLoRA is an instruction for machine-learning practice and is the
