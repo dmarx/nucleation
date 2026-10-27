@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpdn71t); worth reading as the
+  read in full 2026-10-27 ([NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md)); worth reading as the
   assessment of agential realism from philosophy of physics: Barad's
   Bohr is not Bohr's (phenomena epistemic, Bohr an entity realist, the
   dualisms presupposed), quantum mechanics does not entail agential
@@ -59,7 +59,7 @@ summary: >-
 
 Faye, J., & Jaksland, R. (2021). Barad, Bohr, and quantum mechanics. *Synthese*, 199(3–4), 8231–8255. doi:10.1007/s11229-021-03160-1.
 
-Read in full on 2026-10-27 (NOTE-tmpdn71t).
+Read in full on 2026-10-27 ([NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md)).
 
 ## Why this is here
 

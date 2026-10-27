@@ -90,10 +90,10 @@ those differences become grounds for obligations."
 
 The two readings of 2026-10-27 give Barad's own statements of the first
 half. Faye and Jaksland quote her: "apparatuses … enact what matters and
-what is excluded from mattering" (2007, 148; NOTE-tmpdn71t). Jaksland quotes
+what is excluded from mattering" (2007, 148; [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md)). Jaksland quotes
 the source of the exclusion: an arrangement that makes "position"
 determinate "will, by necessity, always produce its constitutive exclusion
-(for example, 'momentum')" (Barad 2010, 253; NOTE-tmpwiza2), and cites Rouse
+(for example, 'momentum')" (Barad 2010, 253; [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md)), and cites Rouse
 on Barad's science as "inherently normative" (note 18). So the exclusion
 Barad means is complementarity's, generalized. Neither reading addresses
 the second half, which remains A6's pressure on her.

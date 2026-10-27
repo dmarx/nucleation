@@ -10,13 +10,13 @@ date: '2026-10-27'
 source:
 - LIT-tmpvh3kt
 summary: >-
-  Jaksland (2024), LIT-tmpvh3kt, read in NOTE-tmpwiza2, from Barad's own
+  Jaksland (2024), [LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), read in [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md), from Barad's own
   statements (2007, 24 and 85, with her dismissals of analogy at 2007, 6,
   7, 18, 24, 70 and 88). Active as a reading of what Barad holds, which is
   well supported by her text as quoted. It does not say that the
   conception she holds is sound: that rests on agential realism being
   correct as quantum mechanics, which Faye and Jaksland dispute
-  (THEORY-tmpggk6i). It does say that a use of her concepts outside
+  ([THEORY-tmpggk6i](THEORY-tmpggk6i.md)). It does say that a use of her concepts outside
   physics by structural comparison is a use she disowns.
 ---
 <!-- inactive-ok-file: LIT-tmpn1p0x — Deferred; Barad's text, quoted as Jaksland quotes it -->
@@ -26,8 +26,8 @@ summary: >-
 
 ## Source
 
-Jaksland (2024), LIT-tmpvh3kt, pp. 371–373 and note 21; read in
-NOTE-tmpwiza2.
+Jaksland (2024), [LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), pp. 371–373 and note 21; read in
+[NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md).
 
 ## What was actually shown
 
@@ -59,9 +59,9 @@ text does not.
 ## What this does not say
 
 - That Barad's conception is right, or that agential realism is correct
-  quantum mechanics (THEORY-tmpggk6i).
+  quantum mechanics ([THEORY-tmpggk6i](THEORY-tmpggk6i.md)).
 - That the template conception is illegitimate in itself. It is a
   coherent way to use the concepts; it is not Barad's, and its use in a
   domain then needs that domain's own warrant.
 - What follows for the lifeworld. That turns on metaphysical approximation
-  (THEORY-tmprm5rv).
+  ([THEORY-tmprm5rv](THEORY-tmprm5rv.md)).

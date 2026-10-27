@@ -18,7 +18,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpvh3kt
 summary: >-
-  Jaksland (2024), LIT-tmpvh3kt, read in NOTE-tmpwiza2, reconstructing an
+  Jaksland (2024), [LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), read in [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md), reconstructing an
   argument Barad "only ever alludes to". It is a conditional and the
   author leaves its antecedent open: whether any ontological feature is
   all-or-nothing is "an open question". He finds individualism "immediately
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Jaksland (2024), LIT-tmpvh3kt, pp. 373–377; read in NOTE-tmpwiza2.
+Jaksland (2024), [LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), pp. 373–377; read in [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md).
 
 ## What was actually shown
 

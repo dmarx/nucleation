@@ -15,7 +15,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpstodb
 summary: >-
-  Faye & Jaksland (2021), LIT-tmpstodb, read in NOTE-tmpdn71t, §5. Proposed:
+  Faye & Jaksland (2021), [LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), read in [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md), §5. Proposed:
   the authors present it as a challenge ("There might be other more subtle
   ways"), and conclude only that consistency with quantum mechanics is
   unshown ("a leap of faith"), not that agential realism is incoherent. The
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Faye & Jaksland (2021), LIT-tmpstodb, §5; read in NOTE-tmpdn71t.
+Faye & Jaksland (2021), [LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), §5; read in [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md).
 
 ## What was actually shown
 

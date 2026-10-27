@@ -167,24 +167,24 @@ not taken it up.
 ## Note of 2026-10-27 (later): an unrestricted template, and Bohr as the precedent
 
 Two readings bear on how this claim is unrestricted. Jaksland 2024
-(LIT-tmpvh3kt, NOTE-tmpwiza2) distinguishes a metaphysics applied once to
-the one reality and extended in scope, which is Barad's (THEORY-tmposaze),
+([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md)) distinguishes a metaphysics applied once to
+the one reality and extended in scope, which is Barad's ([THEORY-tmposaze](../theory.d/THEORY-tmposaze.md)),
 from a template that each domain instantiates. This claim is the second:
 it is stated over every domain and "settled domain by domain". Jaksland
 shows what each route costs. Barad's needs ontological features that admit
-no approximation (THEORY-tmprm5rv); a template needs, in each domain, a
+no approximation ([THEORY-tmprm5rv](../theory.d/THEORY-tmprm5rv.md)); a template needs, in each domain, a
 warrant of that domain's own. The record's route is the second, and the
 owner's "extremely abstract and unrestricted" (U6 of 2026-10-27) is an
 unrestricted template, not a claim that a fundamental ontology settles every
 domain.
 
-Faye and Jaksland (LIT-tmpstodb, NOTE-tmpdn71t) supply the physical
+Faye and Jaksland ([LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md)) supply the physical
 precedent closest to the claim's non-eliminative "partly fixed", and it is
 Bohr, not Barad. Bohr's relational holism is epistemic: properties are had
 only relative to an experimental arrangement, and "both atomic objects and
 instruments are real, and as such they figure as relata in a sentence like
-'… is recorded to have position p in relation to …'" (THEORY-tmpixkwj).
+'… is recorded to have position p in relation to …'" ([THEORY-tmpixkwj](../theory.d/THEORY-tmpixkwj.md)).
 Barad's phenomena are "relations without preexisting relata" (2003, 815, as
 both readings quote it), which is eliminative at the fundamental level.
 Rovelli's relational quantum mechanics is a second non-eliminative case:
-values relational, systems prior to interactions (THEORY-tmpggk6i).
+values relational, systems prior to interactions ([THEORY-tmpggk6i](../theory.d/THEORY-tmpggk6i.md)).

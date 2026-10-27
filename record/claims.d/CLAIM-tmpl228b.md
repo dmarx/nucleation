@@ -160,11 +160,11 @@ The experiment is not built.
 
 ## Note of 2026-10-27 (later): the comparison is on the conception Barad rejects
 
-Jaksland 2024 (LIT-tmpvh3kt, read in NOTE-tmpwiza2) separates three
+Jaksland 2024 ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), read in [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md)) separates three
 conceptions of agential realism: analogy, a template that quantum mechanics
 and other domains each instantiate, and naturalized metaphysics applied
 once to the one reality. Barad holds the third and rejects the other two
-(THEORY-tmposaze): "I am not interested in drawing analogies between
+([THEORY-tmposaze](../theory.d/THEORY-tmposaze.md)): "I am not interested in drawing analogies between
 particles and people" (2007, 24), and a template would stratify ontology
 into realms, where "the universe is not broken up into two separate
 domains" (2007, 85).
@@ -175,11 +175,11 @@ the template conception; Jaksland attributes that reading to Hollin et al.
 way of applying it. On her own conception luria would be an apparatus
 outright, since agential realism covers all of reality; but that holds only
 if agential realism is correct quantum mechanics, which Faye and Jaksland
-(LIT-tmpstodb, read in NOTE-tmpdn71t) show quantum mechanics does not
-entail (THEORY-tmpggk6i). The claim's footing is therefore the template
+([LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), read in [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md)) show quantum mechanics does not
+entail ([THEORY-tmpggk6i](../theory.d/THEORY-tmpggk6i.md)). The claim's footing is therefore the template
 reading, with its usual cost: the concept's application to a record needs
-the record's own warrant, which is what CLAIM-419, CLAIM-195 and
-CLAIM-tmpoe0v5 supply. Nothing in the claim's argument rested on Barad's
+the record's own warrant, which is what [CLAIM-419](CLAIM-419.md), [CLAIM-195](CLAIM-195.md) and
+[CLAIM-tmpoe0v5](CLAIM-tmpoe0v5.md) supply. Nothing in the claim's argument rested on Barad's
 quantum credentials, and the title and status stand.
 
 The reading also gives Barad's own definition, through Faye and Jaksland's
@@ -187,4 +187,4 @@ quotation (2007, 148): "apparatuses are the material conditions of
 possibility and impossibility of mattering; they enact what matters and
 what is excluded from mattering." The first half matches the claim's
 "settles which distinctions among entries are determinate and
-consequential"; the second is CLAIM-tmpdr90u's.
+consequential"; the second is [CLAIM-tmpdr90u](CLAIM-tmpdr90u.md)'s.

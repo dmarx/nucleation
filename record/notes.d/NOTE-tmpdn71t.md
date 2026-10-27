@@ -200,9 +200,9 @@ mechanics."
 
 ## Connections
 
-- **Jaksland 2024 (LIT-tmpvh3kt, NOTE-tmpwiza2)**, which assumes what this
+- **Jaksland 2024 ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), [NOTE-tmpwiza2](NOTE-tmpwiza2.md))**, which assumes what this
   paper contests and asks what follows for metaphysical method.
-- **Rovelli (LIT-tmp57r0s, unread; LIT-177, read)**: the reading makes the
+- **Rovelli ([LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), unread; [LIT-177](../literature.d/LIT-177.md), read)**: the reading makes the
   comparison the exchange's A6 §5A summarized, and correctly.
 - **Pinch (2011)**, who noticed the Bohmian contrast and did not develop it.
 
@@ -213,9 +213,9 @@ mechanics."
   entailing her holism; an unresolved measurement problem) and the verdict
   "quantum mechanics does not force agential realism upon us. The authors
   even question whether its compatibility with quantum mechanics has been
-  adequately established." All four hold on the text. LIT-tmpstodb's
+  adequately established." All four hold on the text. [LIT-tmpstodb](../literature.d/LIT-tmpstodb.md)'s
   summary stands.
-- **CLAIM-tmpl228b's borrowing is right to stay out of physics.** The
+- **[CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md)'s borrowing is right to stay out of physics.** The
   claim borrows the apparatus without the interpretation and says so. The
   reading confirms the borrowing is the only one available without a leap
   of faith: what makes luria an apparatus cannot be agential realism's
@@ -224,22 +224,22 @@ mechanics."
   conditions of possibility and impossibility of mattering; they enact what
   matters and what is excluded from mattering". The dated note on the claim
   carries both.
-- **CLAIM-136 and CLAIM-tmpmand1: Bohr is the non-eliminative relational
+- **[CLAIM-136](../claims.d/CLAIM-136.md) and [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md): Bohr is the non-eliminative relational
   holist, Barad the eliminative one.** Bohr's relational properties are
   relational properties of real relata, "… is recorded to have position p
   in relation to …", an epistemic relational holism. That is the shape of
-  the record's non-eliminative choice, and of CLAIM-tmpmand1's "partly
+  the record's non-eliminative choice, and of [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md)'s "partly
   fixed". The record's nearest physical precedent in this neighbourhood is
   Bohr as Faye and Jaksland read him, not Barad.
-- **CLAIM-150: a clean instance of its guard.** "Compatible with quantum
-  mechanics" against "entailed by" is CLAIM-150's identification against
+- **[CLAIM-150](../claims.d/CLAIM-150.md): a clean instance of its guard.** "Compatible with quantum
+  mechanics" against "entailed by" is [CLAIM-150](../claims.d/CLAIM-150.md)'s identification against
   constitution in another key: an empirically equivalent interpretation
   with intrinsically individuated particles reproduces the predictions,
-  exactly CLAIM-150's reason that "an ontology of intrinsically
+  exactly [CLAIM-150](../claims.d/CLAIM-150.md)'s reason that "an ontology of intrinsically
   individuated objects with relational properties can reproduce the same
   predictions". No note is filed; the claim's grounds already make the
   point in general.
-- **TERM-tmp0est4.** The movable separation is Heisenberg's against Bohr's
+- **[TERM-tmp0est4](../terms.d/TERM-tmp0est4.md).** The movable separation is Heisenberg's against Bohr's
   (a note to §2), which corrects the TERM's line keeping the Heisenberg cut
   apart. Bohr's own separation, on this reading, is fixed and epistemic,
   justified by the need for unambiguous classical description; whether that

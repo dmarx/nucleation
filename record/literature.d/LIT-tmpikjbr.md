@@ -6,7 +6,7 @@ status_note: >-
   publisher's copy as closed, and OpenAlex lists no open copy and no
   repository full text. It stays Unavailable until a copy is supplied.
   Its two most-cited passages (pp. 814 and 815) are read at second hand
-  in NOTE-tmpwiza2 and NOTE-tmpdn71t.
+  in [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md) and [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md).
 title: 'Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter'
 version: 2
 history:
@@ -56,7 +56,7 @@ summary: >-
 
 Barad, K. (2003). Posthumanist performativity: Toward an understanding of how matter comes to matter. *Signs: Journal of Women in Culture and Society*, 28(3), 801–831. doi:10.1086/345321.
 
-Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for, the exchange's description and the passages quoted in NOTE-tmpwiza2 and NOTE-tmpdn71t.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for, the exchange's description and the passages quoted in [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md) and [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md).
 
 ## Why this is here
 

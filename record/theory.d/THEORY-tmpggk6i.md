@@ -9,11 +9,11 @@ date: '2026-10-27'
 source:
 - LIT-tmpstodb
 summary: >-
-  Faye & Jaksland (2021), LIT-tmpstodb, read in NOTE-tmpdn71t, §5. Active:
+  Faye & Jaksland (2021), [LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), read in [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md), §5. Active:
   the non-entailment follows from the existence of an empirically
   equivalent interpretation with a different metaphysics, and the authors
   do not promote that interpretation. It does not say agential realism is
-  inconsistent with quantum mechanics; that is THEORY-tmpwbcq0, a separate
+  inconsistent with quantum mechanics; that is [THEORY-tmpwbcq0](THEORY-tmpwbcq0.md), a separate
   and weaker argument.
 ---
 <!-- inactive-ok-file: LIT-tmp57r0s — Deferred; Rovelli's paper, quoted as the authors quote it -->
@@ -23,7 +23,7 @@ summary: >-
 
 ## Source
 
-Faye & Jaksland (2021), LIT-tmpstodb, §5; read in NOTE-tmpdn71t.
+Faye & Jaksland (2021), [LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), §5; read in [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md).
 
 ## What was actually shown
 
@@ -37,7 +37,7 @@ Faye & Jaksland (2021), LIT-tmpstodb, §5; read in NOTE-tmpdn71t.
   interconnectedness between individuals". So agential realism gives at
   best "the epistemological and ontological implications of one particular
   interpretation".
-- **Relational quantum mechanics** (Rovelli 1996, LIT-tmp57r0s) has no
+- **Relational quantum mechanics** (Rovelli 1996, [LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md)) has no
   observer-independent values and no inherent system–observer line, close
   to Barad. But its ontology is "a sparse ontology of (relational) quantum
   events happening at interactions between physical systems", "which means,
@@ -52,7 +52,7 @@ only if Bohmian mechanics did not reproduce the predictions.
 
 - That Bohmian mechanics is right; the authors do not promote it.
 - That agential realism is inconsistent with quantum mechanics
-  (THEORY-tmpwbcq0).
+  ([THEORY-tmpwbcq0](THEORY-tmpwbcq0.md)).
 - That relational values imply relational relata. RQM is the case of the
-  first without the second, which is CLAIM-150's distinction between
+  first without the second, which is [CLAIM-150](../claims.d/CLAIM-150.md)'s distinction between
   relational identification and constitution in a physical key.

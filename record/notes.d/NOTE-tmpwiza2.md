@@ -69,7 +69,7 @@ fundamental metaphysics to be practically independent" (p. 365).
 
 - **Agential realism is assumed, not assessed, as an interpretation of
   quantum mechanics** (p. 365). Its assessment is Faye and Jaksland's
-  (LIT-tmpstodb; note 6, p. 379).
+  ([LIT-tmpstodb](../literature.d/LIT-tmpstodb.md); note 6, p. 379).
 - **One reality, no ontological stratification** (pp. 372–373, 376): the
   macroscopic is "derived from or grounded in the quantum world", which is
   Barad's premise and the paper's for the argument.
@@ -240,20 +240,20 @@ and feminist metaphysics all at once" (p. 365).
 
 ## Connections
 
-- **Faye and Jaksland (LIT-tmpstodb, read in NOTE-tmpdn71t)**, the
+- **Faye and Jaksland ([LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), read in [NOTE-tmpdn71t](NOTE-tmpdn71t.md))**, the
   assessment of agential realism as quantum mechanics that this paper
   brackets. Note 6 cites it: Barad's reading of Bohr "is rather different
   from all the other interpretations of Bohr found in the literature".
-- **Ladyman and Ross**, whose *Every Thing Must Go* (LIT-301, unavailable)
+- **Ladyman and Ross**, whose *Every Thing Must Go* ([LIT-301](../literature.d/LIT-301.md), unavailable)
   supplies the Primacy of Physics Constraint and the "truce", and whose
   scale-relative realism the record reads in Ladyman and Lorenzetti
-  (LIT-184, NOTE-129).
+  ([LIT-184](../literature.d/LIT-184.md), [NOTE-129](NOTE-129.md)).
 - **Teller (1986)** on relational holism, and Schaffer's priority monism,
   neither held.
 
 ## Bearing on the record
 
-- **CLAIM-tmpl228b compares luria to Barad's apparatus on the conception
+- **[CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) compares luria to Barad's apparatus on the conception
   Barad rejects.** The claim says luria is an apparatus "in Barad's sense"
   for a record's objects, taking the notion out of physics and applying it
   to a governed record. That is Jaksland's template conception (p. 372),
@@ -266,7 +266,7 @@ and feminist metaphysics all at once" (p. 365).
   reading and should say so. Its "What it does not say" had it as "the
   exchange's account of her"; the reading shows the account is of a use
   Barad disowns. A dated note is filed on the claim.
-- **CLAIM-tmpmand1 is a template too, and that is its warrant's shape.**
+- **[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md) is a template too, and that is its warrant's shape.**
   The record's unrestricted frame is stated "over all" domains and
   "settled domain by domain". That is the multiple-instantiation
   conception, not Barad's extension of one fundamental metaphysics. Jaksland
@@ -276,7 +276,7 @@ and feminist metaphysics all at once" (p. 365).
   unrestricted" (U6 of 2026-10-27) is an unrestricted template, not a claim
   that the fundamental ontology settles every domain. A dated note is filed
   on the claim.
-- **QUESTION-tmpg3qms was framed on individuals, where Jaksland leans the
+- **[QUESTION-tmpg3qms](../questions.d/QUESTION-tmpg3qms.md) was framed on individuals, where Jaksland leans the
   other way.** The question asks whether the independence of individuals
   can be approximately true. Jaksland's own view is that individualism
   plausibly can (p. 376); the features he leaves open are the dualisms and
@@ -286,31 +286,31 @@ and feminist metaphysics all at once" (p. 365).
   should carry the split. Jaksland's contingency argument (Planck's
   constant) is a third answer the question did not list: that the
   independence is real, approximate and contingent. A dated note is filed.
-- **TERM-tmp0est4 kept the Heisenberg cut apart; Jaksland identifies them.**
+- **[TERM-tmp0est4](../terms.d/TERM-tmp0est4.md) kept the Heisenberg cut apart; Jaksland identifies them.**
   The TERM's "What it is not" said the Heisenberg cut "was not used in the
   exchange" and is a neighbour of Pattee's sense. Jaksland glosses the
   agential cut as "more commonly known as a Heisenberg cut" (p. 367), and
   Faye and Jaksland note that a movable cut is Heisenberg's view against
   Bohr's. The TERM is corrected in place: the agential cut is the
   Heisenberg cut, movable as Heisenberg held, made ontological.
-- **CLAIM-tmpdr90u's first half has its source.** Barad 2010, 253 as quoted
+- **[CLAIM-tmpdr90u](../claims.d/CLAIM-tmpdr90u.md)'s first half has its source.** Barad 2010, 253 as quoted
   here: an arrangement "will, by necessity, always produce its constitutive
   exclusion"; and note 18, Rouse on Barad's view of science as "inherently
   normative". The exclusion Barad means is complementarity's; the claim's
   second half, that an exclusion fixes no obligation, remains A6's pressure
   and is not addressed here.
-- **CLAIM-136: Barad's view is eliminative at the fundamental level.**
+- **[CLAIM-136](../claims.d/CLAIM-136.md): Barad's view is eliminative at the fundamental level.**
   "Relations without preexisting relata" (Barad 2003, 815) and "only the
   relational phenomena are ultimately real" (p. 367), with objects
   emergent. That is not the record's non-eliminative choice; the dated
-  note on CLAIM-136 is extended.
-- **CLAIM-157 and CLAIM-405.** "Separable enough" (p. 376) is the
+  note on [CLAIM-136](../claims.d/CLAIM-136.md) is extended.
+- **[CLAIM-157](../claims.d/CLAIM-157.md) and [CLAIM-405](../claims.d/CLAIM-405.md).** "Separable enough" (p. 376) is the
   condition under which a relational world appears as one of individuals,
-  and CLAIM-157's gap criterion is a measure of exactly that, for a target.
+  and [CLAIM-157](../claims.d/CLAIM-157.md)'s gap criterion is a measure of exactly that, for a target.
   Jaksland gives no measure. The record's claims hold the verdict
   objective once the criterion is fixed; Jaksland's contingency point adds
   that whether the verdict is true for human-scale units may depend on a
-  constant, not on the criterion. Noted in QUESTION-tmpg3qms, not on the
+  constant, not on the criterion. Noted in [QUESTION-tmpg3qms](../questions.d/QUESTION-tmpg3qms.md), not on the
   claims.
 
 ## Limitations
@@ -327,6 +327,6 @@ and feminist metaphysics all at once" (p. 365).
 ## Open questions
 
 - What is an account of approximation for ontological claims, as there is
-  one for theories? (QUESTION-tmpg3qms.)
+  one for theories? ([QUESTION-tmpg3qms](../questions.d/QUESTION-tmpg3qms.md).)
 - Are the dualisms in fact scale-independent? The paper's examples are
   candidates only.

@@ -75,7 +75,7 @@ offers either.
 
 ## Note of 2026-10-27 (later): Jaksland read
 
-Jaksland 2024 is read (NOTE-tmpwiza2; THEORY-tmprm5rv). Three things change
+Jaksland 2024 is read ([NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md); [THEORY-tmprm5rv](../theory.d/THEORY-tmprm5rv.md)). Three things change
 how the question should be read.
 
 - **On individuals Jaksland leans yes.** "Whether a metaphysics of
@@ -97,6 +97,6 @@ how the question should be read.
   for an ontological feature to be approximately present. The question's
   "What would count as an answer" stands as written.
 
-"Separable enough" is CLAIM-157's object: its gap criterion measures, for a
+"Separable enough" is [CLAIM-157](../claims.d/CLAIM-157.md)'s object: its gap criterion measures, for a
 target, how separable a block is. Neither the paper nor the claim says
 whether separable enough is approximately independent.

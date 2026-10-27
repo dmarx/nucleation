@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpstodb
 summary: >-
-  Faye & Jaksland (2021), LIT-tmpstodb, read in NOTE-tmpdn71t, from Bohr's
+  Faye & Jaksland (2021), [LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), read in [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md), from Bohr's
   writings and the secondary literature. Active as exegesis: Bohr's own
   definitions of "phenomenon" (1938, 1949) and the convergence of realist
   and antirealist readings that Bohr never denied atomic objects. The
@@ -21,7 +21,7 @@ summary: >-
 
 ## Source
 
-Faye & Jaksland (2021), LIT-tmpstodb, §§3–4; read in NOTE-tmpdn71t.
+Faye & Jaksland (2021), [LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), §§3–4; read in [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md).
 
 ## What was actually shown
 

@@ -53,15 +53,15 @@ which.
    itself reconfigured (A6 §1). Barad's own words, as Faye and Jaksland
    quote them: "apparatuses are the material conditions of possibility and
    impossibility of mattering; they enact what matters and what is
-   excluded from mattering" (Barad 2007, 148; NOTE-tmpdn71t). The cut is
+   excluded from mattering" (Barad 2007, 148; [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md)). The cut is
    ontological on Barad's account, and it is movable: "no agential cut is
    an inherent distinction" (Barad 2007, 140, as Jaksland gives it;
-   NOTE-tmpwiza2). It is the Heisenberg cut, movable as Heisenberg held
+   [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md)). It is the Heisenberg cut, movable as Heisenberg held
    against Bohr, made ontological: Jaksland glosses it as "more commonly
    known as a Heisenberg cut" (p. 367), and Faye and Jaksland note that a
    movable separation of object and apparatus is "a view that Heisenberg
    advocates in opposition to Bohr". Barad's texts are not read here
-   (LIT-tmpikjbr unavailable, LIT-tmpn1p0x unread); the sense rests on the
+   ([LIT-tmpikjbr](../literature.d/LIT-tmpikjbr.md) unavailable, [LIT-tmpn1p0x](../literature.d/LIT-tmpn1p0x.md) unread); the sense rests on the
    exchange's account and on the two readings' quotations of her.
 
 A9 §4 drew the contrast that makes the term worth having: "**Pattee's
@@ -85,7 +85,7 @@ identities."
 - **Bohr's separation.** Bohr's own split between object and
   instrument is, on Faye and Jaksland's reading, fixed and epistemic,
   justified by the need for unambiguous classical description, with both
-  relata real (THEORY-tmpixkwj). It is not the third sense, which is
+  relata real ([THEORY-tmpixkwj](../theory.d/THEORY-tmpixkwj.md)). It is not the third sense, which is
   movable and ontological. Whether it is a Cartesian cut in Barad's sense
   (the first) is not settled here. The Heisenberg cut, movable, is the
   third sense's ancestor (above), and also neighbours the second sense

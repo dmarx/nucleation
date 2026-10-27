@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpwiza2); worth reading as the only
+  read in full 2026-10-27 ([NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md)); worth reading as the only
   statement of the argument Barad's unrestricted scope needs, that some
   ontological features admit no approximation, and as the clearest
   account of the conception of agential realism Barad holds
@@ -63,7 +63,7 @@ summary: >-
 
 Jaksland, R. (2024). Naturalized, fundamental, and feminist metaphysics all at once: The case of Barad's agential realism. *Hypatia*, 39(2), 363–384. doi:10.1017/hyp.2023.114.
 
-Read in full on 2026-10-27 (NOTE-tmpwiza2).
+Read in full on 2026-10-27 ([NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md)).
 
 ## Why this is here
 
