@@ -9,11 +9,11 @@ date: '2026-10-27'
 source:
 - LIT-tmpsa6iy
 summary: >-
-  Toner and Tu (1995), LIT-tmpsa6iy, read in NOTE-tmpte6av from the arXiv
+  Toner and Tu (1995), [LIT-tmpsa6iy](../literature.d/LIT-tmpsa6iy.md), read in [NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md) from the arXiv
   preprint. Active as a statement of what the theory is: its variables, the
   degree of freedom it eliminates and why, and the modes that remain, all
   in the text (pp. 3–8). It does not say that the theory's exponents are
-  right (THEORY-tmpzaxy0), that the universality claim holds, or that the
+  right ([THEORY-tmpzaxy0](THEORY-tmpzaxy0.md)), that the universality claim holds, or that the
   order so described is an agent or an individual.
 ---
 <!-- inactive-ok-file: THEORY-tmpzaxy0 CLAIM-tmpmx2ql CLAIM-157 QUESTION-tmpl1yih — Proposed or Open; neighbours cited as open -->
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Toner and Tu (1995), LIT-tmpsa6iy, pp. 1–8 of the arXiv preprint
-adap-org/9506001; read in NOTE-tmpte6av.
+Toner and Tu (1995), [LIT-tmpsa6iy](../literature.d/LIT-tmpsa6iy.md), pp. 1–8 of the arXiv preprint
+adap-org/9506001; read in [NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md).
 
 ## What was actually shown
 
@@ -57,15 +57,15 @@ variable at long wavelengths. The theory does neither.
 
 ## What this does not say
 
-- **That the exponents are right.** That is THEORY-tmpzaxy0's question.
+- **That the exponents are right.** That is [THEORY-tmpzaxy0](THEORY-tmpzaxy0.md)'s question.
 - **That the universality claim holds.** No microscopic rule is
   coarse-grained into eqs. (1, 2) in the paper.
 - **That the ordered state is an agent, an individual, or one system in the
   record's sense.** The paper's order is a phase of a field; it has no
   account of agency, and its "birds" are in scare quotes throughout. Whether
-  a broken-symmetry mode is a unit is for CLAIM-157 and
-  QUESTION-tmpl1yih, not this paper.
+  a broken-symmetry mode is a unit is for [CLAIM-157](../claims.d/CLAIM-157.md) and
+  [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md), not this paper.
 - **"Goldstone mode".** The paper does not use the term. That the transverse
   velocity is slow because the symmetry is broken is the standard reading
-  of a theory of this form, and is how CLAIM-tmpmx2ql would use it; the
+  of a theory of this form, and is how [CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md) would use it; the
   paper states only the modes and their dispersion.

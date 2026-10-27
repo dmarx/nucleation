@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpbcj9n); worth reading as the cleanest
+  read in full 2026-10-27 ([NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md)); worth reading as the cleanest
   statement of information as a counterfactual property of a substrate,
   defined from possible permutations and cloning before distinguishability,
   and as the derivation of quantum information's distinctive features from
@@ -75,7 +75,7 @@ summary: >-
 
 Deutsch, D., & Marletto, C. (2015). Constructor theory of information. *Proceedings of the Royal Society A*, 471(2174), 20140540. doi:10.1098/rspa.2014.0540.
 
-Read in full on 2026-10-27 (NOTE-tmpbcj9n).
+Read in full on 2026-10-27 ([NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md)).
 
 ## Why this is here
 
@@ -83,5 +83,5 @@ A11 called it "the strongest new connection to fundamental physics": a
 constraint stated as the structure of possible and impossible
 transformations, realized by physical substrates, which "could sharpen
 what Nucleation means by a constraint being real". A11 also said it
-"does not itself entail relational constitution". It bears on CLAIM-tmpmand1; the reading tests both remarks
-(NOTE-tmpbcj9n, Bearing on the record).
+"does not itself entail relational constitution". It bears on [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md); the reading tests both remarks
+([NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md), Bearing on the record).

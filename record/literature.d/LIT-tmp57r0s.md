@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmptc0hl), in arXiv v2; worth reading as
+  read in full 2026-10-27 ([NOTE-tmptc0hl](../notes.d/NOTE-tmptc0hl.md)), in arXiv v2; worth reading as
   the founding statement of RQM: the two-description analysis of one
   measurement, values relative to any physical system, no deducible
   relation between views and no description in toto, and an information
@@ -65,7 +65,7 @@ summary: >-
 
 Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637–1678. doi:10.1007/BF02302261. arXiv:quant-ph/9609002.
 
-Read in full on 2026-10-27 (NOTE-tmptc0hl).
+Read in full on 2026-10-27 ([NOTE-tmptc0hl](../notes.d/NOTE-tmptc0hl.md)).
 
 ## Why this is here
 

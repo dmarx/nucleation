@@ -253,16 +253,16 @@ bifurcates" (§3.2.1, p. 11).
   [5]) on early warning; Lenton et al. (refs. [16], [17]) on tipping
   elements; Kuehn 2011 (ref. [15]) on fast-slow critical transitions; none
   held.
-- **Scheffer and Carpenter** (LIT-726, read in NOTE-571), the record's
-  standard of evidence for alternative stable states (THEORY-136), is not
+- **Scheffer and Carpenter** ([LIT-726](../literature.d/LIT-726.md), read in [NOTE-571](NOTE-571.md)), the record's
+  standard of evidence for alternative stable states ([THEORY-136](../theory.d/THEORY-136.md)), is not
   cited by the paper.
-- **Falmagne, Stephenson and Levin** (NOTE-731, THEORY-214) use the B/S/R
+- **Falmagne, Stephenson and Levin** ([NOTE-731](NOTE-731.md), [THEORY-214](../theory.d/THEORY-214.md)) use the B/S/R
   classification in a social system and find rate-induced tipping preceded
   by speeding up, not slowing: the empirical counterpart of C7.
 
 ## Bearing on the record
 
-- **QUESTION-tmpl1yih: A14's gloss is right in its first half and stronger
+- **[QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md): A14's gloss is right in its first half and stronger
   than the paper in its second.** "Not because its equilibrium ceases to
   exist" matches: R-tipping is the failure to track "a continuously
   changing quasi-static attractor" (p. 3); in the linear model M is fixed
@@ -281,7 +281,7 @@ bifurcates" (§3.2.1, p. 11).
   (p. 19, Fig. 8a). The question's "pass away" route gets a precise form:
   what bifurcates is "'the ability to track the QSE', rather than the QSE
   itself" (p. 11). The paper says nothing on how forms arise.
-- **CLAIM-157: the duration clause, read on frozen dynamics, cannot see
+- **[CLAIM-157](../claims.d/CLAIM-157.md): the duration clause, read on frozen dynamics, cannot see
   R-tipping.** In the paper's own model the dynamics matrix M is the same
   at every instant (eq. 4), so any spectral or gap verdict computed from
   it is constant across the tip. "It lasts as long as that block persists"
@@ -292,7 +292,7 @@ bifurcates" (§3.2.1, p. 11).
   block persists'") is confirmed and can be made exact: a block can keep
   clearing its threshold at every frozen parameter while the form tips by
   rate. The paper does not address individuation or decomposability.
-- **CLAIM-tmpmx2ql: rate-induced tipping is the failure of the separation
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): rate-induced tipping is the failure of the separation
   the claim relies on, and the paper says so.** "only when the parameter
   variation is very slow with respect to the slow variable and there are
   three timescales is tracking guaranteed … rate dependent tipping occurs
@@ -305,22 +305,22 @@ bifurcates" (§3.2.1, p. 11).
   moving at ε‖M‖ still tips the system (p. 8). And R-tipping needs no
   slowing of modes (p. 19), so it is separation lost by the input speeding
   up, not by the system slowing near an instability, the route in the
-  claim's second half. Filed as THEORY-tmp07o3p.
-- **THEORY-136: a third route to abrupt change without alternative
-  states.** THEORY-136 holds that jumps also arise from a stepwise driver
+  claim's second half. Filed as [THEORY-tmp07o3p](../theory.d/THEORY-tmp07o3p.md).
+- **[THEORY-136](../theory.d/THEORY-136.md): a third route to abrupt change without alternative
+  states.** [THEORY-136](../theory.d/THEORY-136.md) holds that jumps also arise from a stepwise driver
   or a simple threshold. §3.3 adds a smooth but fast driver acting on a
   system with one globally stable equilibrium, at a threshold that "is not
-  associated with any basin boundary" (p. 13). That supports THEORY-136's
+  associated with any basin boundary" (p. 13). That supports [THEORY-136](../theory.d/THEORY-136.md)'s
   caution. Where the frozen system is bistable, as in the climate model, a
   shift that depends on the rate of an otherwise identical parameter path
-  is a form of initial-state or history dependence, which THEORY-136
+  is a form of initial-state or history dependence, which [THEORY-136](../theory.d/THEORY-136.md)
   counts as near-diagnostic; the paper does not discuss evidence.
-- **THEORY-214 and CASE-111.** The paper's argument that early warnings
+- **[THEORY-214](../theory.d/THEORY-214.md) and [CASE-111](../cases.d/CASE-111.md).** The paper's argument that early warnings
   have "no reason" to work for R-tipping (p. 19) is the theoretical
-  counterpart of THEORY-214's finding that rate-induced tipping in r/place
-  is preceded by speeding up, and it supports CASE-111's caveat that
+  counterpart of [THEORY-214](../theory.d/THEORY-214.md)'s finding that rate-induced tipping in r/place
+  is preceded by speeding up, and it supports [CASE-111](../cases.d/CASE-111.md)'s caveat that
   "rate-dependent effects" make early-warning signals unreliable.
-- Filed: THEORY-tmpksbqt (Active), THEORY-tmp07o3p (Proposed). No
+- Filed: [THEORY-tmpksbqt](../theory.d/THEORY-tmpksbqt.md) (Active), [THEORY-tmp07o3p](../theory.d/THEORY-tmp07o3p.md) (Proposed). No
   instruction for machine-learning practice is carried.
 
 ## Limitations

@@ -9,15 +9,15 @@ date: '2026-10-27'
 source:
 - LIT-tmpp0mod
 summary: >-
-  Deutsch & Marletto (2015), LIT-tmpp0mod, §§1–2 and footnote 1, read in
-  NOTE-tmpbcj9n. Active as a reading of the paper's definitions, which are
+  Deutsch & Marletto (2015), [LIT-tmpp0mod](../literature.d/LIT-tmpp0mod.md), §§1–2 and footnote 1, read in
+  [NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md). Active as a reading of the paper's definitions, which are
   explicit. It bears on A11's remark that constructor theory "could
   sharpen" what the record means by "a constraint being real", and it
   splits that notion. A possibility is a fact
   about the laws, which no particular thing realizes; a constructor is
   realized, approximate and deteriorating. It does not say that the
   framework's basic principle I is true, nor that a law of possibility is,
-  or is not, a constraint realized by something (CLAIM-tmpmand1).
+  or is not, a constraint realized by something ([CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpmand1 — Proposed; the frame whose notion of a realized constraint this bears on, cited as open -->
 
@@ -25,8 +25,8 @@ summary: >-
 
 ## Source
 
-Deutsch & Marletto (2015), LIT-tmpp0mod, §1, §2 and footnote 1; read in
-NOTE-tmpbcj9n.
+Deutsch & Marletto (2015), [LIT-tmpp0mod](../literature.d/LIT-tmpp0mod.md), §1, §2 and footnote 1; read in
+[NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md).
 
 ## What was actually shown
 
@@ -66,7 +66,7 @@ on where it sits in a network of tasks.
 - That a law of possibility is a constraint "realized and maintained by
   something", or that it is not. The paper treats possibilities as facts
   about the laws and says nothing about what realizes a law. Whether this
-  makes it a case of a constraint realized by nothing is CLAIM-tmpmand1's
+  makes it a case of a constraint realized by nothing is [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md)'s
   question, not the paper's.
 - That a constructor is a constraint in Montévil and Mossio's sense. The
   definitions are alike, but constructor theory has no time: "the notion of

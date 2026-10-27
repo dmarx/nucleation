@@ -20,7 +20,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpsa6iy
 summary: >-
-  Toner and Tu (1995), LIT-tmpsa6iy, read in NOTE-tmpte6av from the arXiv
+  Toner and Tu (1995), [LIT-tmpsa6iy](../literature.d/LIT-tmpsa6iy.md), read in [NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md) from the arXiv
   preprint. The linear theory's loss of order in d ≤ 2 and the relevance of
   the convective nonlinearity below d = 4 are calculations. The survival of
   order in d = 2 follows from χ = −1/5 < 0, which is exact only if a cubic
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Toner and Tu (1995), LIT-tmpsa6iy, pp. 2–9 of the arXiv preprint
-adap-org/9506001; read in NOTE-tmpte6av.
+Toner and Tu (1995), [LIT-tmpsa6iy](../literature.d/LIT-tmpsa6iy.md), pp. 2–9 of the arXiv preprint
+adap-org/9506001; read in [NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md).
 
 ## What was actually shown
 
@@ -81,7 +81,7 @@ interaction which stabilizes the ordered phase" (p. 3).
 - **That the order is the members' doing in any sense beyond the field
   equations.** The birds appear only through a conserved density and the
   coarse-grained velocity; the change-of-neighbours story is a gloss on the
-  convective term, not a calculation about members (CLAIM-280).
+  convective term, not a calculation about members ([CLAIM-280](../claims.d/CLAIM-280.md)).
 - **That every flocking rule is in this class.** The universality claim is
   asserted, not derived from a microscopic rule.
 - **Anything about the transition into order**, which is left open

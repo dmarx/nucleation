@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpp0mod
 summary: >-
-  Deutsch & Marletto (2015), LIT-tmpp0mod, §§7–8, read in NOTE-tmpbcj9n.
+  Deutsch & Marletto (2015), [LIT-tmpp0mod](../literature.d/LIT-tmpp0mod.md), §§7–8, read in [NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md).
   Active as a conditional. The derivations are informal but complete
   arguments from principles II–IX, and each feature is shown in the paper's
   own terms with no probabilities. The principles themselves are
@@ -22,7 +22,7 @@ summary: >-
 
 ## Source
 
-Deutsch & Marletto (2015), LIT-tmpp0mod, §§2, 6–8; read in NOTE-tmpbcj9n.
+Deutsch & Marletto (2015), [LIT-tmpp0mod](../literature.d/LIT-tmpp0mod.md), §§2, 6–8; read in [NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md).
 Equations (8.1)–(8.3) checked against the arXiv preprint 1405.5563.
 
 ## What was actually shown

@@ -355,7 +355,7 @@ not universal" (p. 16).
 
 ## Connections
 
-- **Rovelli's later account (LIT-177, read in NOTE-174)**. The 1996 paper has
+- **Rovelli's later account ([LIT-177](../literature.d/LIT-177.md), read in [NOTE-174](NOTE-174.md))**. The 1996 paper has
   no "facts" or "events" vocabulary and no sparse ontology: its primitives
   are systems, questions and information, and its relative state is the
   record of answers. The later chapter's "core idea", that amplitudes give
@@ -368,14 +368,14 @@ not universal" (p. 16).
   physical meaning. In 1996 Bohr's view is "consistent" with RQM, a
   privileged-observer special case (p. 17); the 2021 chapter's charge that
   Copenhagen and QBism build on an approximation is not here.
-- **Faye and Jaksland (LIT-tmpstodb, NOTE-tmpdn71t)** cite this paper for the
+- **Faye and Jaksland ([LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), [NOTE-tmpdn71t](NOTE-tmpdn71t.md))** cite this paper for the
   freedom in drawing the line (pp. 3–4) and for O's inability to describe
   its own interaction (p. 15); both are accurate. Their "sparse ontology"
   and "systems precede the interactions" are quoted from later texts; see
   Bearing.
-- **Grangier and Auffèves (NOTE-044)** list this paper as a rival
+- **Grangier and Auffèves ([NOTE-044](NOTE-044.md))** list this paper as a rival
   reconstruction (their ref. [11]).
-- **Maturana and Varela** (LIT-tmplkyox, Unavailable): "Any observation requires
+- **Maturana and Varela** ([LIT-tmplkyox](../literature.d/LIT-tmplkyox.md), Unavailable): "Any observation requires
   an observer" is "freely taken" from them (p. 16). The in-text citation
   reads "1920"; the reference list gives 1980.
 - **Zurek 1982 and Kochen 1979** are credited with the same conclusion (pp.
@@ -383,7 +383,7 @@ not universal" (p. 16).
 
 ## Bearing on the record
 
-- **THEORY-tmpggk6i: the attribution holds of the founding paper, as an
+- **[THEORY-tmpggk6i](../theory.d/THEORY-tmpggk6i.md): the attribution holds of the founding paper, as an
   assumption.** Faye and Jaksland's words, "a sparse ontology of
   (relational) quantum events" and "the systems precede the interactions",
   are not in the 1996 text, which has no ontology of events. But the 1996
@@ -396,8 +396,8 @@ not universal" (p. 16).
   Two qualifications: the priority is assumed, never argued; and the
   decomposition is not unique ("possibly in a variety of ways"), so the
   systems are prior to interactions without being uniquely given. Filed as
-  THEORY-tmpduhhr.
-- **CLAIM-136: a physical case of relational properties with relata
+  [THEORY-tmpduhhr](../theory.d/THEORY-tmpduhhr.md).
+- **[CLAIM-136](../claims.d/CLAIM-136.md): a physical case of relational properties with relata
   characterized, not individuated, apart from them.** All values are
   relational ("all physical variables are relational, as is velocity", p.
   6), but what characterizes a system, W(S) and N, is not relative to any
@@ -407,7 +407,7 @@ not universal" (p. 16).
   physical key, and the 1996 text neither poses nor answers it. RQM in 1996
   is non-eliminative, as the claim is, and closer to the weak version only
   by silence.
-- **CLAIM-tmpmand1: W(S) is the set of questions that can be asked.** A
+- **[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md): W(S) is the set of questions that can be asked.** A
   system is characterized by the interactions it can enter as an observed
   system, its admissible questions and their lattice relations, which is
   near the claim's "partly fixed by the constraints on the configurations
@@ -416,7 +416,7 @@ not universal" (p. 16).
   decomposition into systems is assumed first. The note's "Rovelli's
   relational quantum mechanics is a second non-eliminative case" stands on
   the 1996 text.
-- **QUESTION-021: Rovelli's relativity analogy refuses the invariant.**
+- **[QUESTION-021](../questions.d/QUESTION-021.md): Rovelli's relativity analogy refuses the invariant.**
   A18's first horn borrowed relativity's structure, "an invariant object
   underlying coordinate-dependent descriptions". Rovelli's analogy is the
   same one (simultaneity, velocity), and he breaks it at exactly that
@@ -425,10 +425,10 @@ not universal" (p. 16).
   system, and "There is no description of the universe in-toto, only a
   quantum-interrelated net of partial descriptions" (p. 19). What is
   frame-independent is the system's kind, W(S), not any state of it. That
-  is the second horn for states and something like CLAIM-137's
+  is the second horn for states and something like [CLAIM-137](../claims.d/CLAIM-137.md)'s
   frame-independent kind for systems. It bears on the question by analogy
-  only. Filed as THEORY-tmpleurt.
-- **CLAIM-150: the founding paper concedes the underdetermination.** The
+  only. Filed as [THEORY-tmpleurt](../theory.d/THEORY-tmpleurt.md).
+- **[CLAIM-150](../claims.d/CLAIM-150.md): the founding paper concedes the underdetermination.** The
   relational thesis follows from the main observation only "whatever view
   of quantum theory (consistent with hypothesis 1) one holds" (p. 6) and with
   completeness assumed (p. 7). Bohm's theory, which violates Hypothesis 2,
@@ -437,7 +437,7 @@ not universal" (p. 16).
   mechanics" (p. 17). So the paper's own form is an interpretive argument
   under two hypotheses, not an entailment from the predictions, which is the
   claim's point.
-- **THEORY-tmpwbcq0: what Barad cannot borrow is the relativization, not a
+- **[THEORY-tmpwbcq0](../theory.d/THEORY-tmpwbcq0.md): what Barad cannot borrow is the relativization, not a
   disentangling.** In 1996 RQM, relative to P the S–O system stays
   entangled through the measurement (eq. 2), exactly as Barad says it stays
   (2007, 348, as Faye and Jaksland quote it). What RQM adds is that relative
@@ -447,12 +447,12 @@ not universal" (p. 16).
   P. The theory's wording, "treatment of the wave function as bookkeeping",
   is compatible with the 1996 text ("A notion does not appear here: the
   state of the system", p. 11), but "bookkeeping" is the later vocabulary.
-- **THEORY-621: the 1996 form of its rule, and of its gap.** The promote_when
+- **[THEORY-621](../theory.d/THEORY-621.md): the 1996 form of its rule, and of its gap.** The promote_when
   asks for a result that relative facts cohere. The 1996 paper supplies one
   case (P's later measurements of q and of O's pointer agree, p. 9) and
   asserts the general case under rules (i) and (ii) without proof (p. 15).
   It does not derive the rule from independent principles: it assumes it.
-- **TERM-tmp0est4 and THEORY-tmpixkwj: Rovelli reads Bohr's cut as
+- **[TERM-tmp0est4](../terms.d/TERM-tmp0est4.md) and [THEORY-tmpixkwj](../theory.d/THEORY-tmpixkwj.md): Rovelli reads Bohr's cut as
   physical.** "Bohr declares explicitly that we must renounce giving a
   quantum description of the classical world" (p. 4); "In Bohr's view, this
   classical world is physically distinct from the microsystems" (p. 17),

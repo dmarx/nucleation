@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpte6av), from the arXiv preprint; worth
+  read in full 2026-10-27 ([NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md)), from the arXiv preprint; worth
   reading as the founding hydrodynamic theory of flocking and as a clean
   case of order that an equilibrium system cannot have, stabilized by the
   coupling of order to transport. Its exponents are exact only on an
@@ -68,11 +68,11 @@ summary: >-
 
 Toner, J., & Tu, Y. (1995). Long-range order in a two-dimensional dynamical XY model: How birds fly together. *Physical Review Letters*, 75(23), 4326–4329. doi:10.1103/PhysRevLett.75.4326. Preprint: arXiv:adap-org/9506001.
 
-Read in full on 2026-10-27 (NOTE-tmpte6av).
+Read in full on 2026-10-27 ([NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md)).
 
 ## Why this is here
 
 A14 §7 offered active matter as a case of collective order continuously
 produced by activity, a coherent mode that persists as members move,
 "while avoiding the assumption that every coordinated flock is an
-autonomous agent". It bears on the distributed-agency line and QUESTION-tmpl1yih.
+autonomous agent". It bears on the distributed-agency line and [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md).

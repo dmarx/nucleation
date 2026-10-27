@@ -304,7 +304,7 @@ quantum and classical information."
   treating information as *a priori*, the opposite of this approach.
 - **Generalized probabilistic theories** (Barrett 2007, ref. [12]) are
   placed at most at an emergent level. The record's introduction to GPTs is
-  LIT-073; this paper is a rival frame to it on fundamentality, not a
+  [LIT-073](../literature.d/LIT-073.md); this paper is a rival frame to it on fundamentality, not a
   contribution to it.
 - **Deutsch and Hayden 2000** (ref. [9]) for the Heisenberg-picture locality
   and for locally inaccessible information; Wallace and Timpson 2007 and
@@ -316,7 +316,7 @@ quantum and classical information."
 
 ## Bearing on the record
 
-- **CLAIM-tmpmand1: A11's two remarks, tested.** (i) *"Does not itself entail
+- **[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md): A11's two remarks, tested.** (i) *"Does not itself entail
   relational constitution."* That holds, and the text goes further. It
   calls instantiating classical information "an exact, intrinsic property of
   the substrate" (§4). Principle II exists to guarantee that "individual
@@ -351,16 +351,16 @@ quantum and classical information."
   law of possibility counts as "something" that realizes a constraint. If it
   does, the recursion ends at the laws. If it does not, constructor theory
   is a candidate for defeater (b) at the level of kinds.
-- **CLAIM-tmpmand1 and TERM-070: one line on loops.** "Loops are excluded,
+- **[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md) and [TERM-070](../terms.d/TERM-070.md): one line on loops.** "Loops are excluded,
   because a substrate on a loop is a constructor" (§2). Whether something is
   a substrate or a constructor depends on its place in a network. That is a
   role-relativity like A10 §7's "Constraint at level n ≈ realized
   organization at level n−1". The composition principle VII covers only
-  loop-free networks. Montévil and Mossio's closure (TERM-070) is a cycle of
+  loop-free networks. Montévil and Mossio's closure ([TERM-070](../terms.d/TERM-070.md)) is a cycle of
   dependencies among constraints, so on this reading it lies outside the
   network calculus the paper uses. The paper gives this one sentence and
   does not develop it; the comparison is the reader's.
-- **TERM-070: a neighbour, not a correction.** The constructor's defining
+- **[TERM-070](../terms.d/TERM-070.md): a neighbour, not a correction.** The constructor's defining
   characteristic, that it "remains unchanged in its ability to cause the
   transformation again", with catalysts as the approximation (§2), is
   Montévil and Mossio's constraint (conserved in its relevant aspects at the
@@ -369,7 +369,7 @@ quantum and classical information."
   limit over repetitions, "including its own maintenance". If the TERM grows
   a "What it is not" for constructors, the difference is that one is
   relative to a time scale and the other is not.
-- **CLAIM-tmpmx2ql: nothing in support; a contrast.** The paper has no
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): nothing in support; a contrast.** The paper has no
   time scales and no dynamics, so it neither supports nor bears against
   scale separation as a mechanism. Its constructor–substrate split is by role
   (unchanged ability versus transformed attribute), and the limit "no limit,
@@ -377,7 +377,7 @@ quantum and classical information."
   The paper does not draw that comparison. A constructor's persistence is
   consistent with the claim's defeater (a), which asks for constraints
   without anything more persistent, and supplies no instance of it.
-- **CLAIM-150: the paper keeps the guard itself.** Its definitions identify
+- **[CLAIM-150](../claims.d/CLAIM-150.md): the paper keeps the guard itself.** Its definitions identify
   (computation, information and distinguishability defined by possible
   tasks), and it says plainly that they do not carry the substance: "the
   most important properties of information do not follow from the
@@ -385,8 +385,8 @@ quantum and classical information."
   on" the defined notions matching the intuitive ones (§3). The substance is
   in the conjectured principles, offered as testable laws. It is a case, in
   physics, of the claim's separation between identification and what is
-  asserted of the world. Nothing in CLAIM-150 changes.
-- **THEORY-609: the question set aside.** Chalmers asks when a system
+  asserted of the world. Nothing in [CLAIM-150](../claims.d/CLAIM-150.md) changes.
+- **[THEORY-609](../theory.d/THEORY-609.md): the question set aside.** Chalmers asks when a system
   implements a computation, with counterfactual-supporting transitions. The
   paper declines that project explicitly: "we are not taking computation to
   be an *a priori* concept and seeking necessary and sufficient conditions
@@ -394,12 +394,12 @@ quantum and classical information."
   variable is modal (every permutation is possible), but it is a property of a
   substrate under the laws, not an implementation condition for a given
   system. The two do not conflict; they answer different questions.
-- **THEORY-030: consistent, at a different level.** The paper allows
+- **[THEORY-030](../theory.d/THEORY-030.md): consistent, at a different level.** The paper allows
   side-effects so that a logically reversible task "does not require the
   physical processes instantiating" it "to be reversible" (§3), and its
   cloning onto a fixed *x*0 is Bennett's copying onto a blank register. It
   says nothing about entropy or cost.
-- **THEORY-453 and CLAIM-136: a physical framework that gives subsystems
+- **[THEORY-453](../theory.d/THEORY-453.md) and [CLAIM-136](../claims.d/CLAIM-136.md): a physical framework that gives subsystems
   states.** Esfeld and Lam need primitive diversity where "nothing discerns"
   entangled systems. The paper's principle II gives each subsystem a state
   in the Heisenberg picture, and it treats entanglement as locally
@@ -432,7 +432,7 @@ quantum and classical information."
 ## Open questions
 
 - Whether a law of possibility counts as something that realizes a
-  constraint, or as a constraint that nothing realizes (CLAIM-tmpmand1's
+  constraint, or as a constraint that nothing realizes ([CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md)'s
   defeater (b)).
 - What the constructor-theoretic counterpart of a closed set of constraints
   would be, given that loops make substrates into constructors and the

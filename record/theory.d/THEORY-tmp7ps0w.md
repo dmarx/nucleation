@@ -10,7 +10,7 @@ date: '2026-10-27'
 source:
 - LIT-tmp08ht1
 summary: >-
-  Flack (2017), LIT-tmp08ht1, read in NOTE-tmp46li4, §1, §3 and §7. Active
+  Flack (2017), [LIT-tmp08ht1](../literature.d/LIT-tmp08ht1.md), read in [NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md), §1, §3 and §7. Active
   as a reading of what the paper proposes, which its text states as lists.
   It does not say the proposal is right, that it meets any definition of
   causation (the paper sets that aside), or that the macaque system meets
@@ -25,7 +25,7 @@ summary: >-
 
 ## Source
 
-Flack (2017), LIT-tmp08ht1, §1, §3 and §7; read in NOTE-tmp46li4.
+Flack (2017), [LIT-tmp08ht1](../literature.d/LIT-tmp08ht1.md), §1, §3 and §7; read in [NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md).
 
 ## What was actually shown
 
@@ -74,8 +74,8 @@ behaviour, refreshed by continued fighting (§3). She does not.
 - That the macaque system meets the strong criteria. §3 states them for the
   system as "when/if", and the evidence is in [9,10,26,27], not here.
 - That Flack denies regeneration matters. It is absent from her criteria,
-  not argued against. Whether Flack 2012 (LIT-1122) states it is unread.
+  not argued against. Whether Flack 2012 ([LIT-1122](../literature.d/LIT-1122.md)) states it is unread.
 - That the two lists (§1 and §7) coincide. They differ, and the paper does
-  not reconcile them (NOTE-tmp46li4, Limitations).
+  not reconcile them ([NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md), Limitations).
 - That slowness has been shown necessary. It is a stipulated condition, with
   the reason "for tuning to be possible" asserted from [8–10] (§1).

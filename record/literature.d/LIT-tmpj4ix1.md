@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmp429c3), from the corrected arXiv v5;
+  read in full 2026-10-27 ([NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md)), from the corrected arXiv v5;
   worth reading as the paper that names rate-induced tipping beside
   bifurcation and noise, and for its plainest form: a linear model with
   a fixed stable matrix, so no bifurcation and no noise, in which an
@@ -73,7 +73,7 @@ summary: >-
 
 Ashwin, P., Wieczorek, S., Vitolo, R., & Cox, P. (2012). Tipping points in open systems: Bifurcation, noise-induced and rate-dependent examples in the climate system. *Philosophical Transactions of the Royal Society A*, 370(1962), 1166–1184. doi:10.1098/rsta.2011.0306.
 
-Read in full on 2026-10-27 (NOTE-tmp429c3).
+Read in full on 2026-10-27 ([NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md)).
 
 ## Why this is here
 
