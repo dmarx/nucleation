@@ -13,14 +13,14 @@ complements:
 - TERM-056
 summary: >-
   The owner, 2026-10-27: inquiry is "an important building block of our
-  formal argument", and the record had no TERM for it. CLAIM-470 is stated
-  in it, TERM-092's inquiry frontier and TERM-088's descriptive
-  individuation presuppose it, and TERM-056's question drift is a change
+  formal argument", and the record had no TERM for it. [CLAIM-470](../claims.d/CLAIM-470.md) is stated
+  in it, [TERM-092](TERM-092.md)'s inquiry frontier and [TERM-088](TERM-088.md)'s descriptive
+  individuation presuppose it, and [TERM-056](TERM-056.md)'s question drift is a change
   inside one. The definition is A15 and A16's tuple from the exchange of
   2026-10-27, which neither called standard: answer space, admissible
   interventions, observations and criteria, with the language and the
   resource bounds A16 added. It is a construct, not a thesis. That inquiry
-  is a form of specification is CLAIM-470's claim, stated in this term and
+  is a form of specification is [CLAIM-470](../claims.d/CLAIM-470.md)'s claim, stated in this term and
   not built into it. Proposed.
 ---
 <!-- inactive-ok-file: CLAIM-470 CLAIM-475 TERM-092 TERM-088 — Proposed; the entries this term serves, each open -->
@@ -48,7 +48,7 @@ the language and the resource bounds that A16 added. Neither called it a
 standard definition, and it is filed as the record's own construct.
 
 An inquiry is **reflexive** when one of its own components becomes what it
-is pursuing. Revising A is the case CLAIM-470 turns on. A16 §4 gives an
+is pursuing. Revising A is the case [CLAIM-470](../claims.d/CLAIM-470.md) turns on. A16 §4 gives an
 example: a question about which equilibrium a system occupies must become
 a question about which attracting set organizes the dynamics, once a Hopf
 bifurcation leaves a stable limit cycle. Revising 𝓚 is A16 §2's "Evaluate
@@ -60,30 +60,30 @@ or revise ℛ".
   open. "Is this system stable?" is a question. It becomes an inquiry once
   it says which perturbations, which stability, which horizon, how they are
   observed, and what it may spend.
-- **From the regime** (TERM-065). The effective-description regime ℛ fixes
+- **From the regime** ([TERM-065](TERM-065.md)). The effective-description regime ℛ fixes
   the conditions a description is judged under, and plays the role of 𝓚
   together with a fixed query family. An inquiry carries ℛ and may revise
-  it. TERM-065 takes ℛ as supplied.
-- **From the frontier** (TERM-092). The inquiry frontier is the set of
+  it. [TERM-065](TERM-065.md) takes ℛ as supplied.
+- **From the frontier** ([TERM-092](TERM-092.md)). The inquiry frontier is the set of
   questions an agent can make into inquiries within its 𝓑. This term is
   what each member of that set becomes.
 - **From specification.** That an inquiry stands to its findings as a
-  specification stands to its realizations is CLAIM-470's thesis. It is
+  specification stands to its realizations is [CLAIM-470](../claims.d/CLAIM-470.md)'s thesis. It is
   stated in this term and is not part of the definition. A reader who
   rejects the thesis can still use the term.
 
 ## Why it is proposed
 
 On 2026-10-27 the owner called inquiry a building block of the formal
-argument. CLAIM-470's title and proof use it, and so do CLAIM-475's
-resource-bounded specifying, TERM-092 and TERM-088's descriptive sense
+argument. [CLAIM-470](../claims.d/CLAIM-470.md)'s title and proof use it, and so do [CLAIM-475](../claims.d/CLAIM-475.md)'s
+resource-bounded specifying, [TERM-092](TERM-092.md) and [TERM-088](TERM-088.md)'s descriptive sense
 ("an inquiry can distinguish and track it"). Without a definition, each
 uses its own tuple.
 
 What would settle it:
 
-- **Adoption** if CLAIM-470, CLAIM-475 and TERM-092 can each be restated
+- **Adoption** if [CLAIM-470](../claims.d/CLAIM-470.md), [CLAIM-475](../claims.d/CLAIM-475.md) and [TERM-092](TERM-092.md) can each be restated
   in these six components without remainder.
 - **Revision** if one of them needs a component the tuple lacks. One
-  candidate is a record of past findings, which CLAIM-470's stabilizing
+  candidate is a record of past findings, which [CLAIM-470](../claims.d/CLAIM-470.md)'s stabilizing
   clause may need apart from Σ.

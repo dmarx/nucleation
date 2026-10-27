@@ -194,6 +194,6 @@ particular agents and institutions."
 
 ## Note of 2026-10-27: the term
 
-An inquiry is now TERM-tmppwzer: (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑). This claim is about
+An inquiry is now [TERM-tmppwzer](../terms.d/TERM-tmppwzer.md): (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑). This claim is about
 its last component, 𝓑, and about how formulating spends it before answering
 does.

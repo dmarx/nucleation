@@ -191,6 +191,6 @@ benchmarks are what keep the comparison from rewarding moved goalposts.
 ## Note of 2026-10-27: the term
 
 The owner asked the same day for a TERM for inquiry, "an important building
-block of our formal argument". TERM-tmppwzer defines it as the tuple
+block of our formal argument". [TERM-tmppwzer](../terms.d/TERM-tmppwzer.md) defines it as the tuple
 (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑) used above, and leaves this claim's thesis out of the
 definition. So the claim is stated in the term and not true by definition.

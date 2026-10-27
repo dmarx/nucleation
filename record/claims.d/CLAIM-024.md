@@ -43,8 +43,8 @@ control/metacontrol literature is on the submission worklist and not done.
 
 ## Note of 2026-10-27: a partial reply
 
-The status review of this date (ADR-057) recorded CLAIM-159 as objecting
-to this claim. CLAIM-159 places will-organization beside the expected value of
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) recorded [CLAIM-159](CLAIM-159.md) as objecting
+to this claim. [CLAIM-159](CLAIM-159.md) places will-organization beside the expected value of
 control and Ainslie's interests as a different claim: about what governs how
 the drive profile changes, where they are about who drives. The comparison
 with planning theory and with institutional theory is still not made.

@@ -81,10 +81,10 @@ principle, with the decomposition over windows around a temptation.
   again.
 - **That the placement is the authors'.** None of them uses these terms.
 
-## Note of 2026-10-27: a reply to CLAIM-024
+## Note of 2026-10-27: a reply to [CLAIM-024](CLAIM-024.md)
 
-The status review of this date (ADR-057) added `objects_to: CLAIM-024`.
-CLAIM-024 says that control and institutional theory already study every
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) added `objects_to: CLAIM-024`.
+[CLAIM-024](CLAIM-024.md) says that control and institutional theory already study every
 mechanism the account names. This claim's placement is a partial reply on
 two of its four fronts. The expected value of control is top-down and
 Ainslie's interests are aggregate or emergent, and will-organization is a

@@ -156,22 +156,22 @@ effective, revisable) restate the six relations with [TERM-055](../terms.d/TERM-
 
 ## Note of 2026-10-27: status review
 
-The status review of this date (ADR-057) took this claim first. It has 19
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) took this claim first. It has 19
 dependents, more than any other Proposed CLAIM. It stays Proposed. Its
-premises, CLAIM-047 and CLAIM-080, and the TERMs it uses are
+premises, [CLAIM-047](CLAIM-047.md) and [CLAIM-080](CLAIM-080.md), and the TERMs it uses are
 Active, and nothing in the record meets its defeater. Two objections hold
 it back:
 
-- **CLAIM-089, the aggregate revealed preference.** It now has a
-  reply, CLAIM-tmpnp8w6, on CLAIM-434's result: an aggregate
+- **[CLAIM-089](CLAIM-089.md), the aggregate revealed preference.** It now has a
+  reply, [CLAIM-tmpnp8w6](CLAIM-tmpnp8w6.md), on [CLAIM-434](CLAIM-434.md)'s result: an aggregate
   preference exists only where the wins never cycle, and then it is fitted
   to one regime of authority and does not predict a change in it. The
   reply is Proposed. Once it is held, this objection is answered except for
   an organization with a persistent potential across a change in
   authority, which is where the reply says the objection is right.
-- **CLAIM-024, nothing new.** CLAIM-159 is a partial reply. It
+- **[CLAIM-024](CLAIM-024.md), nothing new.** [CLAIM-159](CLAIM-159.md) is a partial reply. It
   places will-organization against the expected value of control
-  (THEORY-070) and Ainslie (THEORY-067) as a claim about how the
+  ([THEORY-070](../theory.d/THEORY-070.md)) and Ainslie ([THEORY-067](../theory.d/THEORY-067.md)) as a claim about how the
   drive profile changes, and not about who drives. The comparison with
   planning theory and with institutional theory is still not made, and that
   is the missing result.
