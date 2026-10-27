@@ -176,5 +176,5 @@ the narrowing is proposed, not made.
 
 The narrowing the note of 2026-10-10 proposed and did not make, that
 compensation is mainly, not only, a re-performance notion, is filed as
-CLAIM-tmpb4dok, a counter, Proposed, so it can carry a status. It awaits a
+[CLAIM-tmpb4dok](CLAIM-tmpb4dok.md), a counter, Proposed, so it can carry a status. It awaits a
 case whose source is read. The claim is unchanged.

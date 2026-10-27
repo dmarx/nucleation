@@ -332,5 +332,5 @@ evidence.
 The difficulty clause 3 records against itself, that Hesp et al. make
 negative valence a fall in the precision of the preference ordering and
 Carver is reported to make positive affect lower a goal's priority, is
-filed as CLAIM-tmpra2cf, a counter, Proposed, beside CLAIM-438. The clause
+filed as [CLAIM-tmpra2cf](CLAIM-tmpra2cf.md), a counter, Proposed, beside [CLAIM-438](CLAIM-438.md). The clause
 stays open for both signs, as it says. The claim is unchanged.

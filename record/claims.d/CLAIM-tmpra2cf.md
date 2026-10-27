@@ -18,13 +18,13 @@ grounds:
 complements:
 - CLAIM-438
 summary: >-
-  The difficulty CLAIM-440's third clause records against itself ("The
+  The difficulty [CLAIM-440](CLAIM-440.md)'s third clause records against itself ("The
   clause is open for both signs"), filed as an objection. The clause makes
   intensity how far the negotiation's decisions follow the prevailing
-  ordering. Hesp et al. (NOTE-1111, read) model negative valence as a fall
+  ordering. Hesp et al. ([NOTE-1111](../notes.d/NOTE-1111.md), read) model negative valence as a fall
   in the precision of the preference ordering, with a fall back to habit,
-  and Carver (2003, LIT-1445, unread) is reported to hold that positive
-  affect lowers a goal's priority. CLAIM-438 objects that the ordering
+  and Carver (2003, [LIT-1445](../literature.d/LIT-1445.md), unread) is reported to hold that positive
+  affect lowers a goal's priority. [CLAIM-438](CLAIM-438.md) objects that the ordering
   tracks wanting, not liking; this objects to what intensity is. The edge:
   Hesp's fear case, confident flight, fits the clause.
 ---
@@ -33,14 +33,14 @@ summary: >-
 
 ## The claim
 
-CLAIM-440's clause 3: "**Intensity is the potential's strength.** How much
+[CLAIM-440](CLAIM-440.md)'s clause 3: "**Intensity is the potential's strength.** How much
 of what the other perspectives would decide the potential ranking
 overrides." Its own body records the difficulty and leaves it there:
-"Carver (2003, LIT-1445, unread) is reported to hold that positive affect
+"Carver (2003, [LIT-1445](../literature.d/LIT-1445.md), unread) is reported to hold that positive affect
 lowers a goal's priority, freeing attention for something else. If so,
 strong positive affect would go with weakening potential, not strong.
 Until that paper is read, this clause is held for negative valence only.
-Hesp et al. (LIT-1468, NOTE-1111) cut against it there too: in their model
+Hesp et al. ([LIT-1468](../literature.d/LIT-1468.md), [NOTE-1111](../notes.d/NOTE-1111.md)) cut against it there too: in their model
 negative valence is a weakening of the preference ordering's precision,
 with a fall back to habit (p. 420), though their fear case, confident
 flight, fits this clause better. The clause is open for both signs."
@@ -53,7 +53,7 @@ more negative the valence, the less the decisions follow the ordering.
 That is the reverse of the clause for negative valence. Carver's reported
 view, if the paper bears it out, gives the reverse for positive valence.
 
-CLAIM-438 already objects to CLAIM-440, on different grounds: the ordering
+[CLAIM-438](CLAIM-438.md) already objects to [CLAIM-440](CLAIM-440.md), on different grounds: the ordering
 that wins the negotiation tracks 'wanting', not 'liking'. That is about
 which regime the account describes. This is about what its intensity is,
 and holds even of motivational valence.
@@ -61,8 +61,8 @@ and holds even of motivational valence.
 ## What it does not say
 
 - **That Hesp et al.'s model is right about organisms.** It is a model of
-  a T-maze rat, read in NOTE-1111.
-- **Carver's view.** LIT-1445 is registered and unread; the positive half
+  a T-maze rat, read in [NOTE-1111](../notes.d/NOTE-1111.md).
+- **Carver's view.** [LIT-1445](../literature.d/LIT-1445.md) is registered and unread; the positive half
   of the objection is reported, not read, and is why the status is
   Proposed.
 - **That intensity is unrelated to the ordering.** Confident flight in
