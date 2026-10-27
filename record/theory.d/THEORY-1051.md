@@ -1,5 +1,8 @@
 ---
+number: 1051
 status: Proposed
+formerly:
+- THEORY-tmpyk1k6
 promote_when: >-
   Comparative or experimental evidence relating the partners' population
   growth parameters to which becomes obligate first, across independent
@@ -19,7 +22,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmp5hcss, the reading in full of the bioRxiv
+    Filed Proposed from NOTE-1211, the reading in full of the bioRxiv
     version 2 of Athreya, Czuppon & Gokhale (2025). These are model
     results under stated assumptions: symmetric within-collective rates
     only, constant association rate and collective carrying capacity,
@@ -35,7 +38,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md). With
+  Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-1211](../notes.d/NOTE-1211.md). With
   the symbiont's population larger and faster, its obligacy reaches 1
   first. In the base model the host's R₀ is then exactly 1, so host
   obligacy is neutral. With within-collective deaths the host goes fully
@@ -46,12 +49,12 @@ summary: >-
   inevitable outcome of the existence of a higher level of selection".
 ---
 <!-- inactive-ok-file: QUESTION-277 THEORY-141 THEORY-443 CASE-173 CASE-177 — Open or Proposed; the question, accounts and cases this is set beside, nothing here rests on them -->
-# THEORY-tmpyk1k6: In Athreya, Czuppon and Gokhale's model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, a Red King effect in which the collective's shared fate aligns interests; the other partner's dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective, and dependence rises at all only if the collective's carrying capacity is high enough, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default
+# THEORY-1051: In Athreya, Czuppon and Gokhale's model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, a Red King effect in which the collective's shared fate aligns interests; the other partner's dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective, and dependence rises at all only if the collective's carrying capacity is high enough, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default
 
 ## Source
 
 Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in full in
-[NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md) from the bioRxiv version 2. The sections "Independent
+[NOTE-1211](../notes.d/NOTE-1211.md) from the bioRxiv version 2. The sections "Independent
 evolution of obligacies and adhesions", "The effect of within-collective
 mortality and reproduction", "Collective growth rate and collective
 carrying capacity have different effects", the conclusions, Figures 2–4,

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**721 documents cited without acknowledgement.** Not listed: 13747 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**721 documents cited without acknowledgement.** Not listed: 13801 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3465,7 +3465,7 @@ Reciprocally produced, externally reset and feedback-only governing rules in a 3
 
 Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage
 
-4 citations in 4 files await a look; 1 other citation of it is acknowledged.
+4 citations in 4 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1586.md:42`](../../record/literature.d/LIT-1586.md)
 - [`record/literature.d/LIT-1590.md:42`](../../record/literature.d/LIT-1590.md)
@@ -4036,10 +4036,10 @@ A TERM says what job its definition does (disambiguation, construct, criterion o
 
 Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids', its genome reduced to a quarter, more than thirty genes moved to the host nucleus and their proteins imported back
 
-3 citations in 3 files await a look; 1 other citation of it is acknowledged.
+3 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-167.md:45`](../../record/cases.d/CASE-167.md)
-- [`record/cases.d/CASE-173.md:64`](../../record/cases.d/CASE-173.md)
+- [`record/cases.d/CASE-173.md:70`](../../record/cases.d/CASE-173.md)
 - [`record/literature.d/LIT-1621.md:41`](../../record/literature.d/LIT-1621.md)
 
 ### [CLAIM-009](../../record/claims.d/CLAIM-009.md) — Proposed
@@ -4431,16 +4431,6 @@ Pleasure as a sign you can attend to something else: Placing positive feelings w
 - [`record/claims.d/CLAIM-468.md:29`](../../record/claims.d/CLAIM-468.md)
 - [`record/claims.d/CLAIM-468.md:42`](../../record/claims.d/CLAIM-468.md)
 - [`record/claims.d/CLAIM-468.md:68`](../../record/claims.d/CLAIM-468.md)
-
-### [LIT-1570](../../record/literature.d/LIT-1570.md) — Deferred
-
-The Evolution of Dependence and Cohesion in Incipient Endosymbioses
-
-3 citations in 3 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1596.md:42`](../../record/literature.d/LIT-1596.md)
-- [`record/literature.d/LIT-1605.md:41`](../../record/literature.d/LIT-1605.md)
-- [`record/literature.d/LIT-1608.md:41`](../../record/literature.d/LIT-1608.md)
 
 ### [LIT-1614](../../record/literature.d/LIT-1614.md) — Deferred
 
@@ -4984,16 +4974,16 @@ A dynamic beta–Bernoulli latent-feature model of an organization's members: a 
 
 Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed
 
-2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-173.md:63`](../../record/cases.d/CASE-173.md)
+- [`record/cases.d/CASE-173.md:69`](../../record/cases.d/CASE-173.md)
 - [`record/cases.d/CASE-174.md:52`](../../record/cases.d/CASE-174.md)
 
 ### [CASE-173](../../record/cases.d/CASE-173.md) — Proposed
 
 Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
 
-2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+2 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-174.md:52`](../../record/cases.d/CASE-174.md)
 - [`record/literature.d/LIT-1596.md:42`](../../record/literature.d/LIT-1596.md)
@@ -6222,6 +6212,14 @@ In a multi-agent system run against a world utility, a private utility is factor
 - [`record/claims.d/CLAIM-444.md:126`](../../record/claims.d/CLAIM-444.md)
 - [`record/questions.d/QUESTION-271.md:93`](../../record/questions.d/QUESTION-271.md)
 
+### [CASE-167](../../record/cases.d/CASE-167.md) — Proposed
+
+The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine alga, whose division is coupled to the host's and which imports host-encoded proteins, reclassified as an early-stage organelle in 2024
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/theory.d/THEORY-1049.md:105`](../../record/theory.d/THEORY-1049.md)
+
 ### [CLAIM-017](../../record/claims.d/CLAIM-017.md) — Superseded
 
 What survives translation is the invariants, and approximately preserved relations, of communicative transformation
@@ -6910,19 +6908,19 @@ Dated gene duplications elucidate the evolutionary assembly of eukaryotes
 
 - [`record/literature.d/LIT-1595.md:41`](../../record/literature.d/LIT-1595.md)
 
-### [LIT-1568](../../record/literature.d/LIT-1568.md) — Deferred
+### [LIT-1569](../../record/literature.d/LIT-1569.md) — Deferred
 
-The Black Queen Hypothesis: Evolution of Dependencies through Adaptive Gene Loss
+Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Enables a Tripartite Nested Mealybug Symbiosis
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1603.md:41`](../../record/literature.d/LIT-1603.md)
+- [`record/notes.d/NOTE-1211.md:241`](../../record/notes.d/NOTE-1211.md)
 
-### [LIT-1573](../../record/literature.d/LIT-1573.md) — Deferred
+### [LIT-1573](../../record/literature.d/LIT-1573.md) — Unfetched
 
 Accelerated evolution and Muller's rachet in endosymbiotic bacteria
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1611.md:41`](../../record/literature.d/LIT-1611.md)
 
@@ -7602,7 +7600,7 @@ Multicellular cooperation depends on suppressing cells that gain fitness at the 
 
 In a major evolutionary transition, where formerly free-living units come to form a higher-level unit, the collective is stable only if selection between collectives comes to trump selection among the units within them, typically through mechanisms such as policing, kinship and division of labour that align the interests of the units; the levels at which selection acts are then a product of evolution, to be explained rather than assumed
 
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-060.md:58`](../../record/claims.d/CLAIM-060.md)
 
@@ -8258,7 +8256,7 @@ None. Every scanned file is checked. ✅
 - record/cases.d/CASE-161.md:41: annotation no longer applies — QUESTION-086, QUESTION-087, QUESTION-090 is Active now
 - record/cases.d/CASE-167.md:22: annotation no longer applies — QUESTION-277 is Active now
 - record/cases.d/CASE-168.md:22: annotation no longer applies — QUESTION-277 is Active now
-- record/cases.d/CASE-173.md:27: annotation no longer applies — QUESTION-277 is Active now
+- record/cases.d/CASE-173.md:33: annotation no longer applies — QUESTION-277 is Active now
 - record/cases.d/CASE-174.md:23: annotation no longer applies — QUESTION-277 is Active now
 - record/cases.d/CASE-177.md:28: annotation no longer applies — QUESTION-277 is Active now
 - record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now

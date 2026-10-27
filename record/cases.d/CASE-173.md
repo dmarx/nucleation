@@ -28,7 +28,7 @@ reported_in:
 summary: >-
   Buchnera lives in aphid bacteriocytes and is passed from mother to egg. Its 641-kb genome keeps the pathways for the amino acids its host needs and has lost most else ([LIT-1596](../literature.d/LIT-1596.md)); its genes evolve fast and A+T-biased under Muller's ratchet ([LIT-1573](../literature.d/LIT-1573.md)). The record's reading of Wilson and Barker reports Godfrey-Smith placing the pair as both an organism and a Darwinian individual ([NOTE-114](../notes.d/NOTE-114.md)). Used as the case of high mutual dependence and high reproductive cohesion reached through reduction, with no gene transfer to the host reported in the works it rests on.
 ---
-<!-- inactive-ok-file: THEORY-tmpf67xs THEORY-tmpyk1k6 — Proposed; filed from the readings cited in the note of 2026-10-27 (later) -->
+<!-- inactive-ok-file: THEORY-1049 THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (later) -->
 <!-- inactive-ok-file: LIT-1596 LIT-1573 LIT-1559 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
@@ -75,7 +75,7 @@ rests on their abstracts until they are read.
 ## Note of 2026-10-27 (later): a host protein inside *Buchnera*, and what the model says of the host
 
 - **Host-encoded protein in the symbiont.** McCutcheon et al. ([LIT-1571](../literature.d/LIT-1571.md),
-  read in [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md)) report that host-encoded proteins have been
+  read in [NOTE-1213](../notes.d/NOTE-1213.md)) report that host-encoded proteins have been
   identified by immunofluorescence "in the cytoplasm of aphid and
   mealybug endosymbionts". The study for the aphid looked at a single
   protein, and the mechanism of import is unknown. The paper does not say
@@ -85,12 +85,12 @@ rests on their abstracts until they are read.
   transfer to the host, still holds of those sources. But the host
   already reaches into the symbiont, which bears on control (C) in
   [QUESTION-277](../questions.d/QUESTION-277.md). *Buchnera* APS's genome (641 kb) is well above the
-  400 kb and 200 kb thresholds of [THEORY-tmpf67xs](../theory.d/THEORY-tmpf67xs.md).
+  400 kb and 200 kb thresholds of [THEORY-1049](../theory.d/THEORY-1049.md).
 - **The host's side, on Athreya et al.** [LIT-1570](../literature.d/LIT-1570.md) (read in
-  [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md)) lists aphid–*Buchnera* as mutually obligate and
+  [NOTE-1211](../notes.d/NOTE-1211.md)) lists aphid–*Buchnera* as mutually obligate and
   vertically transmitted. Its model predicts that the faster-evolving
   partner, the symbiont, becomes obligate first, and that the host's
   dependence follows only if partners die inside the collective more than
-  they are born there ([THEORY-tmpyk1k6](../theory.d/THEORY-tmpyk1k6.md)). That turns the case into a
+  they are born there ([THEORY-1051](../theory.d/THEORY-1051.md)). That turns the case into a
   measurement: the demography of *Buchnera* within its host. Nothing in
   the sources reports it.

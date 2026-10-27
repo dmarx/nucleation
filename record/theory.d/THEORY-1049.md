@@ -1,5 +1,8 @@
 ---
+number: 1049
 status: Proposed
+formerly:
+- THEORY-tmpf67xs
 promote_when: >-
   A systematic analysis over all available complete genomes of host-
   associated bacteria (not a curated subset), locating the genome sizes at
@@ -19,7 +22,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmpx2qkq, the reading in full of McCutcheon,
+    Filed Proposed from NOTE-1213, the reading in full of McCutcheon,
     Garber, Spencer & Warren (2024). The thresholds come from a
     hand-picked gene matrix with draft genomes, the composition analysis
     is called preliminary, and host supply is inferred by analogy with
@@ -35,7 +38,7 @@ answers:
 - QUESTION-277
 summary: >-
   McCutcheon, Garber, Spencer & Warren (2024), [LIT-1571](../literature.d/LIT-1571.md), read in
-  [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md). The envelope goes first, near 400 kb, and translation
+  [NOTE-1213](../notes.d/NOTE-1213.md). The envelope goes first, near 400 kb, and translation
   starts to go below about 200 kb, the authors' "tipping point". Such
   symbionts have three-membrane envelopes and among the most biased
   proteomes in bacteria. They can only work if the host provides what
@@ -43,12 +46,12 @@ summary: >-
   mechanisms are, in the paper's word, mysteries.
 ---
 <!-- inactive-ok-file: QUESTION-277 CASE-173 CASE-171 CASE-174 LIT-1559 LIT-1560 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
-# THEORY-tmpf67xs: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
+# THEORY-1049: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
 
 ## Source
 
 McCutcheon, Garber, Spencer & Warren (2024), *PLOS Biology* 22(4):
-e3002577, [LIT-1571](../literature.d/LIT-1571.md), read in full in [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md) from the PubMed
+e3002577, [LIT-1571](../literature.d/LIT-1571.md), read in full in [NOTE-1213](../notes.d/NOTE-1213.md) from the PubMed
 Central copy. Figure 2 (the gene matrix) and its caption; the sections
 on envelopes, transport and translation.
 

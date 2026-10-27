@@ -1,5 +1,8 @@
 ---
+number: 1048
 status: Proposed
+formerly:
+- THEORY-tmp20e6b
 promote_when: >-
   An experimental evolution study in which a loss-of-function mutant of a
   costly, leaky function invades a population or community, with its
@@ -20,7 +23,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmp85ewc, the reading in full of Morris,
+    Filed Proposed from NOTE-1212, the reading in full of Morris,
     Lenski & Zinser (2012). The formal argument (equations 1–3) is
     sound given its assumptions; the one worked case, katG in
     Prochlorococcus, rests on phylogeny and cited physiology, and the
@@ -34,7 +37,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Morris, Lenski & Zinser (2012), [LIT-1568](../literature.d/LIT-1568.md), read in [NOTE-tmp85ewc](../notes.d/NOTE-tmp85ewc.md). A
+  Morris, Lenski & Zinser (2012), [LIT-1568](../literature.d/LIT-1568.md), read in [NOTE-1212](../notes.d/NOTE-1212.md). A
   loss-of-function mutant invades when its resource saving
   B = (Q_A − Q_M)/Q_A exceeds its cost C, which falls as other cells'
   leaky activity protects it. Because protection falls as producers become
@@ -44,12 +47,12 @@ summary: >-
   from beneficiaries to helpers, and involves no collective.
 ---
 <!-- inactive-ok-file: QUESTION-277 LIT-1570 LIT-1225 THEORY-141 — Open, Deferred or Proposed; the question this bears on and the accounts set beside it, nothing here rests on them -->
-# THEORY-tmp20e6b: On the Black Queen Hypothesis of Morris, Lenski and Zinser, losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
+# THEORY-1048: On the Black Queen Hypothesis of Morris, Lenski and Zinser, losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
 
 ## Source
 
 Morris, Lenski & Zinser (2012), *mBio* 3(2): e00036-12, [LIT-1568](../literature.d/LIT-1568.md), read
-in full in [NOTE-tmp85ewc](../notes.d/NOTE-tmp85ewc.md) from the PubMed Central copy. The sections "The
+in full in [NOTE-1212](../notes.d/NOTE-1212.md) from the PubMed Central copy. The sections "The
 Black Queen Hypothesis" (equations 1–3), "Are beneficiaries 'cheaters'?",
 and the katG case with Figure 1.
 

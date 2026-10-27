@@ -1,5 +1,8 @@
 ---
+number: 1050
 status: Proposed
+formerly:
+- THEORY-tmpmjn0i
 promote_when: >-
   Evidence on which way the traits of a real incipient endosymbiosis enter
   its dynamics: whether a partner's free-living growth falls with its own
@@ -20,7 +23,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmp5hcss, the reading in full of the bioRxiv
+    Filed Proposed from NOTE-1211, the reading in full of the bioRxiv
     version 2 of Athreya, Czuppon & Gokhale (2025). The result is a model
     result, shown by simulation for early trajectories of the exponential
     model, and its direction is set by a structural assumption the
@@ -36,7 +39,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md). In
+  Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-1211](../notes.d/NOTE-1211.md). In
   the exponential version of the model, all four traits rise
   monotonically. Each partner becomes more obligate than adhesive,
   because a gain in adhesion is "damped by the other adhesion" in the
@@ -48,12 +51,12 @@ summary: >-
   it.
 ---
 <!-- inactive-ok-file: QUESTION-277 LIT-1605 — Open or Deferred; the question this answers in part, and an unread model of host control set beside it -->
-# THEORY-tmpmjn0i: In Athreya, Czuppon and Gokhale's adaptive-dynamics model of an incipient endosymbiosis, mutual dependence (the product of the partners' obligacies) evolves ahead of reproductive cohesion (the product of their adhesions) early on, but only under the mapping in which each partner's free-living growth depends on its own obligacy alone while dissociation depends on both partners' adhesions; the authors' own appendix shows the bias vanishing under matched mappings and reversing under the opposite one, and their survey of real symbioses cannot test it
+# THEORY-1050: In Athreya, Czuppon and Gokhale's adaptive-dynamics model of an incipient endosymbiosis, mutual dependence (the product of the partners' obligacies) evolves ahead of reproductive cohesion (the product of their adhesions) early on, but only under the mapping in which each partner's free-living growth depends on its own obligacy alone while dissociation depends on both partners' adhesions; the authors' own appendix shows the bias vanishing under matched mappings and reversing under the opposite one, and their survey of real symbioses cannot test it
 
 ## Source
 
 Athreya, Czuppon & Gokhale (2025), *The American Naturalist* 206(5):
-435–451, [LIT-1570](../literature.d/LIT-1570.md), read in full in [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md) from the bioRxiv
+435–451, [LIT-1570](../literature.d/LIT-1570.md), read in full in [NOTE-1211](../notes.d/NOTE-1211.md) from the bioRxiv
 version 2 (2025-05-31), not the version of record. The section "Does
 mutual dependence evolve before or after reproductive cohesion?", Figure
 5, Supplementary Note S4.B–E, Table S1, Figures S11–S14, and Table 3

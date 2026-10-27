@@ -37,7 +37,7 @@ summary: >-
   which of them a theory of individuality must require. All the works cited
   are filed unread.
 ---
-<!-- inactive-ok-file: THEORY-tmp20e6b THEORY-tmpf67xs THEORY-tmpmjn0i THEORY-tmpyk1k6 — Proposed; filed from the readings cited in the note of 2026-10-27 (readings) -->
+<!-- inactive-ok-file: THEORY-1048 THEORY-1049 THEORY-1050 THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (readings) -->
 
 <!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 LIT-1225 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-141 THEORY-418 THEORY-443 LIT-188 — Proposed; accounts the question would test, cited as open -->
@@ -172,21 +172,21 @@ full. The fourth, Moran 1996 ([LIT-1573](../literature.d/LIT-1573.md)), is Unfet
 behind a challenge this client could not pass.
 
 - **The Black Queen route moves D one way and G, and nothing else**
-  ([LIT-1568](../literature.d/LIT-1568.md), [NOTE-tmp85ewc](../notes.d/NOTE-tmp85ewc.md), [THEORY-tmp20e6b](../theory.d/THEORY-tmp20e6b.md)). Loss of a costly, leaky
+  ([LIT-1568](../literature.d/LIT-1568.md), [NOTE-1212](../notes.d/NOTE-1212.md), [THEORY-1048](../theory.d/THEORY-1048.md)). Loss of a costly, leaky
   function is favoured until helpers just supply the community. No
   collective forms. There is no cohesion and no control, and the
   dependence runs from beneficiaries to helpers only. It is the record's
   clearest case of interdependence that is not individuality. The paper
   states it for free-living microbes.
-- **Past a genome-size threshold, G forces C** ([LIT-1571](../literature.d/LIT-1571.md), [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md),
-  [THEORY-tmpf67xs](../theory.d/THEORY-tmpf67xs.md)). Below about 400 kb a symbiont cannot build its own
+- **Past a genome-size threshold, G forces C** ([LIT-1571](../literature.d/LIT-1571.md), [NOTE-1213](../notes.d/NOTE-1213.md),
+  [THEORY-1049](../theory.d/THEORY-1049.md)). Below about 400 kb a symbiont cannot build its own
   envelope, and below about 200 kb translation erodes. The host then
   presumably supplies membranes, transport and translation parts, with or
   without gene transfer. Host control can therefore be a consequence of
   the symbiont's losses, not only of transfer and import. This couples
   two dimensions the question lists as separate.
 - **D and R are separate, but their order is not settled** ([LIT-1570](../literature.d/LIT-1570.md),
-  [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md), [THEORY-tmpmjn0i](../theory.d/THEORY-tmpmjn0i.md), [THEORY-tmpyk1k6](../theory.d/THEORY-tmpyk1k6.md)). This corrects the
+  [NOTE-1211](../notes.d/NOTE-1211.md), [THEORY-1050](../theory.d/THEORY-1050.md), [THEORY-1051](../theory.d/THEORY-1051.md)). This corrects the
   question's summary and its "Why it is a question" section. Athreya et
   al.'s "mutual dependence evolves faster than reproductive cohesion even
   when investments in the two are uncorrelated" holds under their chosen

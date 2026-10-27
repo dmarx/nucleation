@@ -25,7 +25,7 @@ reported_in:
 summary: >-
   In the mealybug Planococcus citri, Moranella lives inside Tremblaya. Essential amino-acid pathways need gene products from both bacteria and the insect ([LIT-1565](../literature.d/LIT-1565.md)). At least 22 genes the insect acquired from other bacteria, none from Tremblaya, fill symbiont gaps ([LIT-1569](../literature.d/LIT-1569.md)), and the inner symbiont has been replaced several times across mealybugs while those genes persisted ([LIT-1572](../literature.d/LIT-1572.md)). Used as the case where function is distributed across nested boundaries and constituent lineages turn over.
 ---
-<!-- inactive-ok-file: THEORY-tmpf67xs — Proposed; filed from the reading cited in the note of 2026-10-27 (later) -->
+<!-- inactive-ok-file: THEORY-1049 — Proposed; filed from the reading cited in the note of 2026-10-27 (later) -->
 <!-- inactive-ok-file: LIT-1565 LIT-1569 LIT-1572 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 THEORY-418 — Open or Proposed; the question and account the case is filed to test -->
 
@@ -66,12 +66,12 @@ abstracts until they are read.
 
 ## Note of 2026-10-27 (later): *Tremblaya* past the tipping point
 
-McCutcheon et al. ([LIT-1571](../literature.d/LIT-1571.md), read in [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md)) use *Tremblaya
+McCutcheon et al. ([LIT-1571](../literature.d/LIT-1571.md), read in [NOTE-1213](../notes.d/NOTE-1213.md)) use *Tremblaya
 princeps* from *Planococcus citri* as their electron micrograph of a
 "tipping-point endosymbiont" (Figure 4). It has three membranes: two of
 its own, inherited, and an outer host vacuolar membrane. Inside are a
 few ribosomes. Its genome is below the 200 kb at which translation genes
-begin to go ([THEORY-tmpf67xs](../theory.d/THEORY-tmpf67xs.md)), so on that paper's account its envelope,
+begin to go ([THEORY-1049](../theory.d/THEORY-1049.md)), so on that paper's account its envelope,
 transport and some translation must be supplied by the host. The paper
 also cites a host-encoded protein identified in the cytoplasm of a
 mealybug endosymbiont (one protein, mechanism unknown). This adds a
