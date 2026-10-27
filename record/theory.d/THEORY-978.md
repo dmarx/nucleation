@@ -110,13 +110,13 @@ which "is not strong enough to eliminate all incorrect hypotheses".
 
 ## Note of 2026-10-27: the tie by theorem, and a measured near-tie
 
-- **THEORY-tmpgikxe**, from the causal scrubbing appendix (LIT-tmpt2u54):
+- **[THEORY-tmpgikxe](THEORY-tmpgikxe.md)**, from the causal scrubbing appendix ([LIT-tmpt2u54](../literature.d/LIT-tmpt2u54.md)):
   the inputs the algorithm samples are the unique maximum-entropy
   distribution that keeps every interpretation node's inputs jointly as on
   the data. This entry's tie follows from it: two hypotheses that induce
   the same partitions constrain the same marginals and so sample the same
   distribution.
-- **The paren post's 1a against 1b** (LIT-tmpnbrst, NOTE-tmpoa8l3): a
+- **The paren post's 1a against 1b** ([LIT-tmpnbrst](../literature.d/LIT-tmpnbrst.md), [NOTE-tmpoa8l3](../notes.d/NOTE-tmpoa8l3.md)): a
   hypothesis using a wrong but correlated count scores 88% of the loss
   recovered against 93% for the right one. It is the authors' own measured
   near-tie for imperfectly correlated features, the case "What this does

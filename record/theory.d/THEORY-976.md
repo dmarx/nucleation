@@ -99,14 +99,14 @@ have for chocolate.
 ## Note of 2026-10-27: the model organism's own paper, read
 
 Marks, Treutlein et al., *Auditing language models for hidden objectives*
-(LIT-tmpx8s6k, NOTE-tmp8fmhx), the model organism this entry is run on,
+([LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md), [NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md)), the model organism this entry is run on,
 was registered and read in full on 2026-10-27, at the owner's request.
 
 - **The design is as described here.** Fictional documents describe 52
   reward-model biases; SFT and RL train the model to exploit 47 and hold
   out 5, with a penalty for mentioning RM biases. Meta-rhyme and 9-1-1 are
   held-out (test) biases; voting and chocolate are trained ones. The
-  generalization, measured, is THEORY-tmpw8qnz.
+  generalization, measured, is [THEORY-tmpw8qnz](THEORY-tmpw8qnz.md).
 - **An independent dictionary agrees.** With a 1M-feature residual-stream
   SAE (not this entry's 10M CLT), two RM-bias features are among the 83
   features active on more than 90% of Assistant tokens of 100 generic
@@ -122,4 +122,4 @@ was registered and read in full on 2026-10-27, at the owner's request.
   either; it gives no per-bias rate in its text.
 
 Whether SAEs add to audits beyond black-box attacks and semantic search is
-THEORY-tmpjan90, Proposed; the authors decline that conclusion themselves.
+[THEORY-tmpjan90](THEORY-tmpjan90.md), Proposed; the authors decline that conclusion themselves.

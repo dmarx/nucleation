@@ -88,7 +88,7 @@ test, which the promote_when takes over.
 
 ## Note of 2026-10-27: Curve Detectors' cross-model evidence
 
-*Curve Detectors* (LIT-tmp73ge1, NOTE-tmptb2tz), read on 2026-10-27,
+*Curve Detectors* ([LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), [NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md)), read on 2026-10-27,
 adds one sighting of the kind the promote_when says cannot settle this:
 "combing", excitation of curve units by short lines perpendicular to the
 curve, is seen in the curve units of AlexNet, InceptionV1, InceptionV3

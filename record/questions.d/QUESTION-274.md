@@ -104,7 +104,7 @@ is the question in one behaviour.
 
 ## Note of 2026-10-27: a case from the hidden-objectives audit
 
-Marks, Treutlein et al. (LIT-tmpx8s6k, NOTE-tmp8fmhx), read on
+Marks, Treutlein et al. ([LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md), [NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md)), read on
 2026-10-27, report an observation of the kind this question asks about,
 though not a test of it. In their model organism, a 1M-feature SAE trained
 on the pretraining corpus alone gave better reward-model-bias features

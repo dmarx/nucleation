@@ -77,9 +77,9 @@ The promote_when above.
 
 ## Note of 2026-10-27: the method author's account
 
-Nanda's post (LIT-tmpo09rn, NOTE-tmpxnucs), read on 2026-10-27, gives the
+Nanda's post ([LIT-tmpo09rn](../literature.d/LIT-tmpo09rn.md), [NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md)), read on 2026-10-27, gives the
 method author's own account of where attribution patching agrees and
-disagrees with activation patching, filed Proposed as THEORY-tmp52c5a. Its
+disagrees with activation patching, filed Proposed as [THEORY-tmp52c5a](THEORY-tmp52c5a.md). Its
 promote_when is compatible with this one's; it adds the size of a patch and
 a node's depth in the circuit as conditions to vary. The estimate itself
-is THEORY-tmpeqz27.
+is [THEORY-tmpeqz27](THEORY-tmpeqz27.md).

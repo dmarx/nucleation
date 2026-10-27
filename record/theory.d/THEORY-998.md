@@ -106,12 +106,12 @@ title uses neither.
 
 ## Note of 2026-10-27: two later readings, consistent with it
 
-- **Hase et al. (LIT-tmpg22tp, THEORY-tmpg87ki)** find in GPT-J that the
+- **Hase et al. ([LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md), [THEORY-tmpg87ki](THEORY-tmpg87ki.md))** find in GPT-J that the
   per-fact tracing effect does not predict where an edit of that fact
   works best. That leaves this entry standing: its "working best … in
   middle layers" is an average over facts, and Hase et al. find ROME best
   on average at layer 6, near where tracing peaks on average.
-- **MEMIT (LIT-tmpsrubd, NOTE-tmpt77xq)** traces 501 facts in GPT-J and
+- **MEMIT ([LIT-tmpsrubd](../literature.d/LIT-tmpsrubd.md), [NOTE-tmpt77xq](../notes.d/NOTE-tmpt77xq.md))** traces 501 facts in GPT-J and
   reproduces this entry's GPT-2 XL pattern, including the gap when MLPs
   are severed, and adds a strong early attention effect at the last
   subject token. The measurements now have a second model; this entry's

@@ -99,16 +99,16 @@ The promote_when above.
 
 ## Note of 2026-10-27: Curve Detectors, read
 
-Cammarata et al.'s *Curve Detectors* (LIT-tmp73ge1, NOTE-tmptb2tz), the
+Cammarata et al.'s *Curve Detectors* ([LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), [NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md)), the
 first of the articles Zoom In defers its evidence to, was registered and
 read on 2026-10-27 at the owner's request. Of Zoom In's seven arguments
 for a curve detector, it supplies four for the mixed3b family (feature
 visualization, dataset examples, synthetic curves and joint tuning under
 rotation, with attribution and blind labelling added), measured as
-THEORY-tmpmazgg. The other three (the implementing circuit, the
+[THEORY-tmpmazgg](THEORY-tmpmazgg.md). The other three (the implementing circuit, the
 downstream use and the hand-written reimplementation) are deferred again,
 to *Curve Circuits*, which the record does not hold. The authors' full
-claim of causality, generality and purity is THEORY-tmpb0s0r, Proposed.
+claim of causality, generality and purity is [THEORY-tmpb0s0r](THEORY-tmpb0s0r.md), Proposed.
 
 The article gives no count over a layer: the family is ten of mixed3b's
 480 units, about 2%. The promote_when's "fraction of units that meet" a

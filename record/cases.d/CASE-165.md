@@ -245,13 +245,13 @@ self-maintaining coalitions, or effective institutional learning" (T23
 Item 2 names "The Markov IBP (Van Gael et al. 2009, described in the
 review's §7.4, not held)". It was registered and read on 2026-10-27, at
 the owner's request ("get started on the seven works and markov IBP"), as
-LIT-tmpfd531: Van Gael, Teh and Ghahramani, *The Infinite Factorial Hidden
-Markov Model* (NOTE-tmpuk5qe), the paper that introduces the Markov Indian
+[LIT-tmpfd531](../literature.d/LIT-tmpfd531.md): Van Gael, Teh and Ghahramani, *The Infinite Factorial Hidden
+Markov Model* ([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)), the paper that introduces the Markov Indian
 buffet process. It appeared at NIPS 21, the conference of December 2008;
-the review (LIT-1556) cites it as 2009, the year of the printed volume. It
+the review ([LIT-1556](../literature.d/LIT-1556.md)) cites it as 2009, the year of the printed volume. It
 is the same work, and the record dates it 2008-12-01.
 
-- **What it gives each feature (THEORY-tmpzv1fw).** Each feature's
+- **What it gives each feature ([THEORY-tmpzv1fw](../theory.d/THEORY-tmpzv1fw.md)).** Each feature's
   probability of staying on, b ~ Beta(γ, δ), is drawn independently of its
   probability of switching on, a ~ Beta(α/M, 1), so persistence does not
   depend on rarity. T23's sticky term, with its other inputs at zero, is
@@ -261,7 +261,7 @@ is the same work, and the record dates it 2008-12-01.
   ρ = 5.97 to reach that for the median feature (π = 0.0248), and then
   mis-scales common ones. So the Markov IBP fixes the coupling of
   persistence to rarity that item 2 finds.
-- **What it does not fix (THEORY-tmp29uzx).** Its expected number of
+- **What it does not fix ([THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md)).** Its expected number of
   features on is α at the first step but rises toward
   α·E[ln((2 − b)/(1 − b))], 9.04 at the paper's prior means (γ = 10,
   δ = 1, α = 3), three times α; after the first step the rows are not
@@ -269,15 +269,15 @@ is the same work, and the record dates it 2008-12-01.
   on-fraction is a/(1 − b + a), 0.22 at a = 0.025 with b = 10/11. So the
   "t = 0 only" problem item 2 names remains under the Markov IBP; of the
   relatives the record holds, only the dependent IBP keeps prevalence fixed
-  over time (THEORY-1006).
+  over time ([THEORY-1006](../theory.d/THEORY-1006.md)).
 - **The members' axis.** "Gives each feature its own probabilities"
   holds for one sequence of time steps. The model has no axis of members,
   and sharing (a, b) across N members is not derived in the paper.
 - **Item 2's numbers re-check.** The keep probabilities 0.16, 0.58 and
   0.91 at ρ = 2, 4 and 6 for the median π, and the stationary prevalences
   0.36 and 0.75, which are the same formula a/(1 − b + a) with b = 0.649
-  and 0.932 (NOTE-tmpuk5qe).
+  and 0.932 ([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)).
 
 The paper's printed predictive rules for its sequential buffet are both
 misprinted; the record's reading uses the rules derived from its eq. (6)
-(NOTE-tmpuk5qe). The case is unchanged.
+([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)). The case is unchanged.
