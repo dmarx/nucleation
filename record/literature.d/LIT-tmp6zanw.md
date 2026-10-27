@@ -47,4 +47,4 @@ first.
 A22 §6 took it as "an especially strong physical interpretation of
 *gluing conditions*": constraints on actual flows of energy across an
 interface, which compose, and which do not by themselves dissipate or
-separate time scales. It bears on CLAIM-tmpdjt64 and CLAIM-tmpfw510.
+separate time scales. It bears on [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md) and [CLAIM-tmpfw510](../claims.d/CLAIM-tmpfw510.md).

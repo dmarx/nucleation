@@ -46,4 +46,4 @@ first.
 A22 §6 called it "almost a controlled demonstration" that "The same
 relational organization need not imply the same temporal hierarchy",
 which is the objection to the owner's U20 that coupling induces scale
-separation (CLAIM-tmpywecm). It bears on CLAIM-tmpfw510.
+separation ([CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md)). It bears on [CLAIM-tmpfw510](../claims.d/CLAIM-tmpfw510.md).

@@ -49,4 +49,4 @@ first.
 A22 §11 listed it among the prior art to elevate, for "Richer
 observation and communication maps, including selective expression":
 compatibility on what is shared without identity of what is held. It
-bears on CLAIM-tmpdjt64.
+bears on [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md).

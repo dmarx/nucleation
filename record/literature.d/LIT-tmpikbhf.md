@@ -47,8 +47,8 @@ first.
 
 A16 §6 called it "the strongest formal connection" for inquiry as
 specification, and read luria's DP-016 (an awkward relation discloses a
-missing distinction; CLAIM-419 in this record) as "the same epistemic
+missing distinction; [CLAIM-419](../claims.d/CLAIM-419.md) in this record) as "the same epistemic
 pattern": failure under a specification, diagnosis of the missing
 distinction, refinement. A16 added the limit that CEGAR refines an
 abstraction for a fixed property and cannot find the property misguided.
-It bears on CLAIM-tmpalzo4 and CLAIM-tmpl228b.
+It bears on [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md) and [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md).

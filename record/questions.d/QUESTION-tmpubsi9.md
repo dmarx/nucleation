@@ -17,9 +17,9 @@ summary: >-
   here?" A19 answered with a ladder of separable achievements
   (interaction, correlation, measurement, record, use, revision) and
   found the record already holding Rovelli, Pattee and the
-  judgement–observation loop (CLAIM-341, CLAIM-342). The question asks
+  judgement–observation loop ([CLAIM-341](../claims.d/CLAIM-341.md), [CLAIM-342](../claims.d/CLAIM-342.md)). The question asks
   for criteria at each rung, and for the condition that keeps the top
-  rung from confirming itself. TERM-tmpjdel0 names the apparatus whose
+  rung from confirming itself. [TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md) names the apparatus whose
   functions the rungs are.
 ---
 <!-- inactive-ok-file: CLAIM-341 CLAIM-342 CLAIM-tmpalzo4 CLAIM-tmpi1bjh CLAIM-tmpdjt64 CLAIM-tmpl228b THEORY-621 TERM-tmpjdel0 — Proposed or new; the claims, reading and term the question presses on, cited as open -->
@@ -29,7 +29,7 @@ summary: >-
 
 ## Why it is a question
 
-The owner, at U19, after CLAIM-tmpalzo4 and CLAIM-tmpi1bjh: "let's double click
+The owner, at U19, after [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md) and [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md): "let's double click
 on the relationship between inquiry and interaction, since this might
 elucidate (or connect us to) a generic notion of observation/measurement that
 doesn't require the presence of a conscious investigator. I think some of our
@@ -43,12 +43,12 @@ ladder":
 
 | achievement | what is added | a source the record holds or registered |
 |---|---|---|
-| relational event | an interaction makes one system's state consequential for another | Rovelli (LIT-tmp57r0s, read; THEORY-621) |
-| measurement | the interaction separates alternatives into distinguishable outcomes, K_A(m, s′ given s), and may change s | Pattee (LIT-1190, read in NOTE-952) |
-| stable record | the outcome stays accessible far longer than the interaction took | Di Biagio and Rovelli's stable facts (LIT-tmpqu50n, unread) |
-| redundant record | many fragments of the environment hold the same outcome | Zurek (LIT-tmpb4amz, unread) |
+| relational event | an interaction makes one system's state consequential for another | Rovelli ([LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), read; [THEORY-621](../theory.d/THEORY-621.md)) |
+| measurement | the interaction separates alternatives into distinguishable outcomes, K_A(m, s′ given s), and may change s | Pattee ([LIT-1190](../literature.d/LIT-1190.md), read in [NOTE-952](../notes.d/NOTE-952.md)) |
+| stable record | the outcome stays accessible far longer than the interaction took | Di Biagio and Rovelli's stable facts ([LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md), unread) |
+| redundant record | many fragments of the environment hold the same outcome | Zurek ([LIT-tmpb4amz](../literature.d/LIT-tmpb4amz.md), unread) |
 | use | the record changes what the system does next | chemotaxis, in A19 §6 |
-| inquiry | the criteria of discrimination themselves change in response to what is found | CLAIM-tmpalzo4 |
+| inquiry | the criteria of discrimination themselves change in response to what is found | [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md) |
 
 A19 §2 gave a working definition: "**A measurement is an interaction organized to
 make particular differences consequential in the state of another system.**" A
@@ -88,33 +88,33 @@ his sense.
 of an apparatus. On the informational reading it makes correlations. On the
 operational reading it implements and stabilizes distinctions. On the
 constitutive reading it participates in fixing the phenomenon's boundaries
-(LIT-tmpikjbr, LIT-tmpn1p0x, unread). The first two admit mathematics and
+([LIT-tmpikjbr](../literature.d/LIT-tmpikjbr.md), [LIT-tmpn1p0x](../literature.d/LIT-tmpn1p0x.md), unread). The first two admit mathematics and
 experiment. "The third is a metaphysical claim that needs additional argument."
-Dynamical stabilization does not derive it (A23 §VII). CLAIM-tmpl228b is stated
+Dynamical stabilization does not derive it (A23 §VII). [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) is stated
 in the agential sense.
 
-**The top rung can confirm itself.** CLAIM-341 holds that each judgement
-reshapes the observer that makes the next observation. CLAIM-342 holds that
+**The top rung can confirm itself.** [CLAIM-341](../claims.d/CLAIM-341.md) holds that each judgement
+reshapes the observer that makes the next observation. [CLAIM-342](../claims.d/CLAIM-342.md) holds that
 what keeps the loop honest is evidence whose arrival or scoring does not pass
 through the interpretation it tests. A19 §8: "A self-reinforcing feedback system
 can be organizationally robust and epistemically defective." "**the world must
 have an opportunity to resist the inquiry's specification**." A21 found the same
 failure in gluing. An apparatus that revises its correspondence maps only to
-reduce disagreement can send them to zero and agree with everything (THEORY-299;
-CLAIM-tmpdjt64). Revising by G is not enough. What has to be specified is what
+reduce disagreement can send them to zero and agree with everything ([THEORY-299](../theory.d/THEORY-299.md);
+[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)). Revising by G is not enough. What has to be specified is what
 G is not allowed to rewrite.
 
 **Inferential descriptions are not inference.** The free-energy principle offers
 a partition of internal, sensory, active and external states. The record's
-readings (NOTE-450, NOTE-447) hold that a statistical partition admitting an
+readings ([NOTE-450](../notes.d/NOTE-450.md), [NOTE-447](../notes.d/NOTE-447.md)) hold that a statistical partition admitting an
 inferential description does not show that the system infers or has that
 boundary. A19 §9 kept the principle as "one candidate formalization of
 nonconscious inference".
 
 **Measurement has costs that must be stated correctly.** A19 §10: measuring a bit
 does not by itself require dissipating k_BT ln 2. Landauer's bound is on
-logically irreversible erasure (LIT-360, read). The costs arise when records
-must be robust, repeated, erased or used for control. CLAIM-tmpi1bjh needs that
+logically irreversible erasure ([LIT-360](../literature.d/LIT-360.md), read). The costs arise when records
+must be robust, repeated, erased or used for control. [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md) needs that
 precision.
 
 ## What would count as an answer
@@ -129,5 +129,5 @@ precision.
    apparatus its own revisions cannot reach, under which revision improves
    prediction on interventions the system did not choose, and without which
    it does not. Distributed sensor networks that recalibrate from consistency
-   residuals (Robinson, LIT-tmpn521a) are a classical, conscious-free
+   residuals (Robinson, [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md)) are a classical, conscious-free
    test bed.

@@ -47,5 +47,5 @@ first.
 A21 §5 called it "almost the practical engineering version of our
 abstract proposal": distributed local observations supporting global
 inference without a privileged observer, with residuals as evidence
-against the correspondence model. It bears on CLAIM-tmpdjt64 and
-QUESTION-tmpubsi9.
+against the correspondence model. It bears on [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md) and
+[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md).

@@ -44,4 +44,4 @@ first.
 A15 §6 cited it for the revisability of scientific practices themselves,
 beside its criterion for a healthy apparatus: one that supports "the
 detection and revision of inadequate conditions of admissibility". It
-bears on CLAIM-tmpalzo4.
+bears on [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md).

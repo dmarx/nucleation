@@ -50,4 +50,4 @@ persistent record, redundant record and intersubjectively accessible
 fact, with the caveat, which A19 sourced to spectrum-broadcast-structure
 and strong-Darwinism work it did not name, that mutual information alone
 does not guarantee independently accessible records. It bears on
-QUESTION-tmpubsi9.
+[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md).

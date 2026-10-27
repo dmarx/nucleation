@@ -52,6 +52,6 @@ kernel is exact compatibility and whose spectrum sets the relaxation
 rates, so "A mathematically specified system of compatibility
 constraints can also determine a hierarchy of dynamical relaxation
 rates, when the physical coupling realizes an appropriate Laplacian
-flow." The record held the same authors' knowledge-sheaf paper (LIT-232;
-THEORY-299). It bears on CLAIM-tmpdjt64, CLAIM-tmpfw510 and
-CLAIM-tmpmx2ql.
+flow." The record held the same authors' knowledge-sheaf paper ([LIT-232](LIT-232.md);
+[THEORY-299](../theory.d/THEORY-299.md)). It bears on [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md), [CLAIM-tmpfw510](../claims.d/CLAIM-tmpfw510.md) and
+[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md).

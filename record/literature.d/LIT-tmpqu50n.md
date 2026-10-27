@@ -47,5 +47,5 @@ A19 §3 called it "extraordinarily close to our multiscale thesis": a
 relation established by interaction becomes stable enough for an
 effective observer-independent description. A19 and A23 §VII used it for
 observation without a conscious observer. It is the record's next step
-past Rovelli 1996 (LIT-tmp57r0s, read). It bears on QUESTION-tmpubsi9
-and CLAIM-tmpmx2ql.
+past Rovelli 1996 ([LIT-tmp57r0s](LIT-tmp57r0s.md), read). It bears on [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md)
+and [CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md).

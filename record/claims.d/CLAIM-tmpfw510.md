@@ -24,8 +24,8 @@ summary: >-
   "coupling inertial frames necessarily induces scale separation (way less
   confident about this one than the former assertion)". Filed as said,
   with "inertial frames" read as the local descriptions of
-  CLAIM-tmpdjt64. Rejected on filing: the necessity is refuted by
-  conservatively coupled oscillators (CLAIM-tmpywecm), which A20, A21
+  [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md). Rejected on filing: the necessity is refuted by
+  conservatively coupled oscillators ([CLAIM-tmpywecm](CLAIM-tmpywecm.md)), which A20, A21
   and A23 all gave. The owner's doubt was well placed; what survives is a
   condition, and the condition is the interesting part.
 ---
@@ -35,11 +35,11 @@ summary: >-
 
 ## The claim
 
-The owner, at U20, after CLAIM-tmpdjt64's first sentence: "and coupling inertial
+The owner, at U20, after [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md)'s first sentence: "and coupling inertial
 frames necessarily induces scale separation (way less confident about this one
 than the former assertion)."
 
-Read with CLAIM-tmpdjt64's restatement, it says: when locally described systems
+Read with [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md)'s restatement, it says: when locally described systems
 are coupled, some modes of the whole (the collective ones) come to evolve on a
 time scale well separated from others (the relative ones).
 
@@ -56,13 +56,13 @@ The necessity fails, and every reply that took it up said so.
 - A23 §V.3: "This was the least secure part of your initial conjecture, and it
   remains conditional."
 
-CLAIM-tmpywecm is the counterexample, with the condition under which the claim
+[CLAIM-tmpywecm](CLAIM-tmpywecm.md) is the counterexample, with the condition under which the claim
 does hold.
 
 The status is set on filing because the defeater is a computation, not because
 the owner's question is closed. What remains open is which couplings separate
-time scales and why. That is CLAIM-tmpmx2ql's second half, that organization
-makes separations, and CLAIM-tmpywecm's condition is a mechanism for it.
+time scales and why. That is [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)'s second half, that organization
+makes separations, and [CLAIM-tmpywecm](CLAIM-tmpywecm.md)'s condition is a mechanism for it.
 
 ## What survived
 

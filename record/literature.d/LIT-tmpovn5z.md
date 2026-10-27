@@ -43,4 +43,4 @@ first.
 
 A17 §3 called it "the most directly relevant recent philosophical
 treatment" of the owner's U17, that resource limits bear on
-specification as they do on realization. It bears on CLAIM-tmpi1bjh.
+specification as they do on realization. It bears on [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md).

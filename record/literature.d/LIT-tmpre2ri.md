@@ -50,4 +50,4 @@ A21 §4 found it two weeks after publication and gave it "especially high
 priority": a constraint that belongs to no edge but appears when
 relations are composed around a cycle, with a spectral criterion and
 dynamical consequences. A23 §V cited it for frustration as a third route
-to organization. It bears on CLAIM-tmpdjt64 and QUESTION-tmpl1yih.
+to organization. It bears on [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md) and [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md).
