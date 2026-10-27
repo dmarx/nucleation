@@ -1,5 +1,8 @@
 ---
+number: 277
 status: Open
+formerly:
+- QUESTION-tmpzwgk0
 title: 'When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host''s regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?'
 version: 1
 tags:
@@ -13,21 +16,21 @@ refines:
 summary: >-
   From the exchange of 2026-10-27 on the record's coverage of reductive
   evolution and endosymbiosis. Dependence can come from selection for
-  individual gene loss ([LIT-tmpgtxwc](../literature.d/LIT-tmpgtxwc.md)), from drift in small symbiont
-  populations ([LIT-tmpqad3r](../literature.d/LIT-tmpqad3r.md)), from complementary loss across lineages
-  ([LIT-tmpcz56b](../literature.d/LIT-tmpcz56b.md), [LIT-tmp73g42](../literature.d/LIT-tmp73g42.md)) or from gene transfer and protein import
-  ([LIT-tmp03brj](../literature.d/LIT-tmp03brj.md), [LIT-tmp6w9x8](../literature.d/LIT-tmp6w9x8.md)). None of these is selection for the
-  collective. Athreya et al. ([LIT-tmpj8a7l](../literature.d/LIT-tmpj8a7l.md)) model dependence and cohesion as
+  individual gene loss ([LIT-1568](../literature.d/LIT-1568.md)), from drift in small symbiont
+  populations ([LIT-1573](../literature.d/LIT-1573.md)), from complementary loss across lineages
+  ([LIT-1565](../literature.d/LIT-1565.md), [LIT-1563](../literature.d/LIT-1563.md)) or from gene transfer and protein import
+  ([LIT-1557](../literature.d/LIT-1557.md), [LIT-1562](../literature.d/LIT-1562.md)). None of these is selection for the
+  collective. Athreya et al. ([LIT-1570](../literature.d/LIT-1570.md)) model dependence and cohesion as
   separate properties that evolve at different rates. An answer would say,
   route by route and on real systems, which properties each produces, and
   which of them a theory of individuality must require. All the works cited
   are filed unread.
 ---
 
-<!-- inactive-ok-file: LIT-tmp10tf2 LIT-tmpgtxwc LIT-tmp3oqvg LIT-tmp6w9x8 LIT-tmpb0lyw LIT-tmp0y2ch LIT-tmpdstd7 LIT-tmp435w1 LIT-tmpj8a7l LIT-tmpqad3r LIT-tmpmmq4a LIT-tmpcz56b LIT-tmp73g42 LIT-tmp03brj LIT-tmpeotnw LIT-tmph2zjd LIT-tmpnfh79 LIT-tmpvvqlm LIT-1225 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 LIT-1225 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-141 THEORY-418 THEORY-443 LIT-188 — Proposed; accounts the question would test, cited as open -->
 
-# QUESTION-tmpzwgk0: When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host's regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?
+# QUESTION-277: When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host's regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?
 
 ## Why it is a question
 
@@ -43,30 +46,30 @@ record lacks is the biology of the routes by which partners lose autonomy.
 The exchange of 2026-10-27 named five, which "are not mutually exclusive":
 
 - **Adaptive gene loss.** A costly, leaky function is lost because others
-  supply it, and the loser becomes dependent (Black Queen, [LIT-tmpgtxwc](../literature.d/LIT-tmpgtxwc.md)).
+  supply it, and the loser becomes dependent (Black Queen, [LIT-1568](../literature.d/LIT-1568.md)).
   Selection acts on the individual, not on the collective.
 - **Drift-driven decay.** Small, asexual, vertically transmitted populations
-  accumulate mildly deleterious mutations (Muller's ratchet, [LIT-tmpqad3r](../literature.d/LIT-tmpqad3r.md);
-  reviews [LIT-tmp10tf2](../literature.d/LIT-tmp10tf2.md), [LIT-tmpmmq4a](../literature.d/LIT-tmpmmq4a.md)). The resulting dependence need not
+  accumulate mildly deleterious mutations (Muller's ratchet, [LIT-1573](../literature.d/LIT-1573.md);
+  reviews [LIT-1559](../literature.d/LIT-1559.md), [LIT-1571](../literature.d/LIT-1571.md)). The resulting dependence need not
   benefit either partner.
 - **Complementary loss across lineages.** Pathways are split among nested
-  symbionts and the host ([LIT-tmpcz56b](../literature.d/LIT-tmpcz56b.md)), and a symbiont splits into two
-  lineages with the functionality of one ([LIT-tmp73g42](../literature.d/LIT-tmp73g42.md)). The number of
+  symbionts and the host ([LIT-1565](../literature.d/LIT-1565.md)), and a symbiont splits into two
+  lineages with the functionality of one ([LIT-1563](../literature.d/LIT-1563.md)). The number of
   dependent parts grows without an obvious new collective function.
 - **Gene transfer and import.** Genes move to the host nucleus and their
-  products are imported back (*Paulinella*, [LIT-tmp03brj](../literature.d/LIT-tmp03brj.md); the nitroplast,
-  [LIT-tmp6w9x8](../literature.d/LIT-tmp6w9x8.md); review [LIT-tmp3oqvg](../literature.d/LIT-tmp3oqvg.md)). This route gives the host control.
+  products are imported back (*Paulinella*, [LIT-1557](../literature.d/LIT-1557.md); the nitroplast,
+  [LIT-1562](../literature.d/LIT-1562.md); review [LIT-1560](../literature.d/LIT-1560.md)). This route gives the host control.
 - **Host compensation.** The host maintains the collective's function by
   transport, regulation or rescue, including with genes taken from third
-  lineages ([LIT-tmph2zjd](../literature.d/LIT-tmph2zjd.md)).
+  lineages ([LIT-1569](../literature.d/LIT-1569.md)).
 
 The exchange's thesis, in its words: "A system can become more
 interdependent without becoming more cooperative, more unified, more
 autonomous, or even more adaptive." Two of its cases show the routes do not
 run one way. In mealybugs the inner symbiont has been replaced repeatedly
-while host-encoded transferred genes stayed ([LIT-tmpnfh79](../literature.d/LIT-tmpnfh79.md)). In
+while host-encoded transferred genes stayed ([LIT-1572](../literature.d/LIT-1572.md)). In
 *Monocercomonoides* a whole mitochondrion was lost once a bacterial Fe–S
-system replaced its one essential job ([LIT-tmpeotnw](../literature.d/LIT-tmpeotnw.md), [LIT-tmpvvqlm](../literature.d/LIT-tmpvvqlm.md)). So
+system replaced its one essential job ([LIT-1567](../literature.d/LIT-1567.md), [LIT-1574](../literature.d/LIT-1574.md)). So
 losing genes is not the same as losing function, losing autonomy or gaining
 integration.
 
@@ -83,7 +86,7 @@ conceptual schema, not an established metric":
   selection between collectives.
 
 No single one is to stand in for individuality. Athreya, Czuppon and
-Gokhale's model ([LIT-tmpj8a7l](../literature.d/LIT-tmpj8a7l.md)) gives the first formal separation, of D from
+Gokhale's model ([LIT-1570](../literature.d/LIT-1570.md)) gives the first formal separation, of D from
 R. In it, mutual dependence evolves faster than reproductive cohesion even
 when investments in the two are uncorrelated. With a carrying capacity for
 collectives, complete dependence or cohesion may not evolve at all.
@@ -98,9 +101,9 @@ whose constituents keep being replaced is one individual or a succession.
 the mealybug patchwork is a place to test that. Eukaryogenesis is a harder
 test. The three phylogenomic programmes the exchange set together disagree
 on whether it was one two-partner merger or a sequence of associations: late
-mitochondrion after a complex host ([LIT-tmpdstd7](../literature.d/LIT-tmpdstd7.md)), mostly Asgard
-inheritance ([LIT-tmp0y2ch](../literature.d/LIT-tmp0y2ch.md)), and several waves of bacterial transfer
-([LIT-tmp435w1](../literature.d/LIT-tmp435w1.md)). [LIT-tmpb0lyw](../literature.d/LIT-tmpb0lyw.md) adds the chimeric metabolism. If the
+mitochondrion after a complex host ([LIT-1566](../literature.d/LIT-1566.md)), mostly Asgard
+inheritance ([LIT-1558](../literature.d/LIT-1558.md)), and several waves of bacterial transfer
+([LIT-1561](../literature.d/LIT-1561.md)). [LIT-1564](../literature.d/LIT-1564.md) adds the chimeric metabolism. If the
 programmes disagree, the event may not have a single route at all. [NOTE-159](../notes.d/NOTE-159.md)
 already doubts that eukaryogenesis fits the transitions narrative.
 
