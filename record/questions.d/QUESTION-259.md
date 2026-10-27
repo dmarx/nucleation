@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpjr6om
 title: 'How do populations of heterogeneous processes generate, reproduce and transform organizational perspectives, and what further conditions let such a perspective become the object of its own effective governance?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the owner's employees as sub-perspectives (T18
+    of the exchange "Experimental Infrastructure Review"), the
+    multilevel Northstar model built from it (CASE-166), and the
+    methodological question it raised (QUESTION-276). The question
+    is unchanged.
 tags:
 - individuation
 - self-governance
@@ -27,6 +36,7 @@ answered_by:
 refined_by:
 - QUESTION-262
 - QUESTION-264
+- QUESTION-276
 ---
 <!-- inactive-ok-file: CLAIM-278 CLAIM-364 CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -68,3 +78,27 @@ perspective is "just a new name for whatever happened" ([CLAIM-278](../claims.d/
 answer to part 2 would give conditions under which governing standards
 become revisable from within, and show where revision becomes either
 capture or regress.
+
+## Note of 2026-10-26: the owner's employees as sub-perspectives
+
+<!-- inactive-ok-file: CLAIM-418 TERM-072 CASE-166 — Proposed; the claim and term the note sets the owner's wording against, and the reported study, cited as open -->
+
+The owner, at T18 of the exchange "Experimental Infrastructure Review":
+"maybe employees are "pre-perspectives" or sub-perspectives, which can
+reorganize amongst themselves to form the perspectives that influence the
+higher level organizational behavior". That is this question in a firm,
+with employees and teams as the heterogeneous population. The reply
+narrowed the owner's word: employees "can be full individual interpreters.
+They're constituents of candidate higher-level organizational
+perspectives". It also added teams as a middle level that is not itself a
+perspective: "a relatively persistent arrangement of communication,
+shared memory, responsibilities, and decision-making procedures".
+
+The two readings differ on whether a constituent may itself be a
+perspective. [TERM-072](../terms.d/TERM-072.md) allows it ("several overlapping, nested, or
+partially integrated regimes may exist"), and [CLAIM-418](../claims.d/CLAIM-418.md)'s "one agent can
+act through several" is consistent with the owner's wording. The exchange
+built a model of it ([CASE-166](../cases.d/CASE-166.md)), whose analyzer found "candidate
+organizational modes" only. How one would know that such a population had
+formed a perspective is [QUESTION-276](QUESTION-276.md), which refines this question.
+The question is unchanged.

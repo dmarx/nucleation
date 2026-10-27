@@ -26,6 +26,8 @@ summary: >-
   [CLAIM-157](../claims.d/CLAIM-157.md). The common-input arm is Bourrat's "reconstructed entity"
   ([LIT-005](../literature.d/LIT-005.md)), which the record already holds and the exchange did not
   cite. Not run.
+supports:
+- CLAIM-454
 ---
 
 <!-- inactive-ok-file: LIT-1137 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

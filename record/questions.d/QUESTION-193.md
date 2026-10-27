@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpihczu
 title: 'Does sign descent provably delay each weaker skill until the stronger one is learned when a loss''s eigendirections are misaligned with the coordinates, and does changing only the optimizer turn a trained network''s simultaneous skill onsets into a sequence?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a theory of invariant learning dynamics in
+    transformers, read on 2026-10-26, gives a trained-network setting in
+    which the second limb could be run, with the coordinates on which
+    onsets would be measured. The question is unchanged.
 tags:
 - learning-theory
 date: '2026-10-19'
@@ -54,3 +62,31 @@ on a rotated quadratic that learns all directions together.
 
 What would not answer it: further fits of the Resource model, which was
 fitted to the behaviour it would be confirming.
+
+## Note of 2026-10-26: a testbed for the second limb
+
+Musat, Pimentel, Zucchet and Hofmann's theory of invariant learning
+dynamics ([NOTE-1177](../notes.d/NOTE-1177.md)), read on 2026-10-26 for the exchange
+"Experimental Infrastructure Review" ([QUESTION-275](QUESTION-275.md)), gives a ready
+setting for this question's trained-network test. For attention-only
+transformers on block-list inductive tasks, the weights the data's
+symmetries fix form a subspace that population gradient descent never
+leaves, spanned by a few elementary actions composed through the heads
+([THEORY-981](../theory.d/THEORY-981.md)). The record's check found that sign descent keeps the
+subspace only when those actions are aligned with the parameter
+coordinates.
+
+So the test could be: train the same block-list task with gradient
+descent and with sign descent, with embeddings rotated off the
+coordinates, and compare the onset order of the circuit coordinates (the
+in-weights coordinate against the induction circuit's three). The theory
+supplies the coordinates on which onsets are measured, which the
+Geometry model's skills supply by construction.
+
+Two limits. The circuits there are not independent skills: they solve
+overlapping parts of the data, and that alone delays the induction
+circuit under gradient descent ([THEORY-1009](../theory.d/THEORY-1009.md)), so a sequence under
+both optimizers would not answer the question either way. And the paper's
+own §5 trained with AdamW, outside its theorem, with no gradient-descent
+run for contrast. Neither the induction-heads paper nor the other works
+read with it varies the optimizer. The question is unchanged.

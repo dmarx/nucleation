@@ -52,6 +52,7 @@ summary: >-
 supports:
 - CLAIM-431
 illustrated_by:
+- CASE-166
 - CASE-tmpelq9w
 - CASE-tmprc3on
 ---

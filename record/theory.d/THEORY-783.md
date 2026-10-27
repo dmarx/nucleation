@@ -17,7 +17,16 @@ promote_when: >-
   the Resource ODE cannot settle it, since that model was fitted to the
   behaviour it would be confirming.
 title: 'In neural-network training, sign-descent-like optimizers such as Adam make independent skills of unequal frequency compete for coordinate signs, so that they are learned one after another where gradient descent would learn them together; this is one source of sequential skill onset, beside dependence between skills, as Liu, Liu, Michaud, Gore and Tegmark propose'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: two works on transformer learning dynamics read
+    on 2026-10-26 for the exchange "Experimental Infrastructure Review"
+    give a measured case of the other source, dependency, and a third
+    source under plain gradient descent, redundancy; neither triggers
+    the refutation clause. The account is unchanged.
 tags:
 - learning-theory
 date: '2026-10-20'
@@ -80,3 +89,33 @@ The promote_when above, [QUESTION-193](../questions.d/QUESTION-193.md)'s test.
 Filed on 2026-10-20 by the narrowing-loss sweep ([ADR-047](../decisions.d/ADR-047.md) v4, batch 068),
 from the wider title [THEORY-253](THEORY-253.md) carried before it was narrowed on
 2026-10-19.
+
+## Note of 2026-10-26: dependency measured, and a third source
+
+Two of the works T24 of the exchange "Experimental Infrastructure Review"
+drew on ([QUESTION-275](../questions.d/QUESTION-275.md)), read on 2026-10-26, bear on this account's
+"one source".
+
+- **Dependency, measured** ([THEORY-973](THEORY-973.md)). In small attention-only
+  transformers, in-context learning arrives abruptly in the window where
+  induction heads form, and the induction head needs two heads composed.
+  Letting a single layer attend by the previous token, which removes the
+  need for the composition, brings the jump to one-layer models and moves
+  it earlier in two-layer ones. That is the other source this title
+  names, measured in trained networks by an architectural intervention.
+- **Redundancy, a third source** ([THEORY-1009](THEORY-1009.md)). In Musat, Pimentel,
+  Zucchet and Hofmann's idealized two-layer model, once an in-weights
+  circuit has memorized the common pairs, the induction circuit's
+  gradient is scaled by the share of the data the memorized map does not
+  solve. The two circuits occupy orthogonal coordinates and still
+  interact under plain gradient descent, because they solve overlapping
+  parts of the data.
+
+The second does not meet the refutation clause. Its circuits are not
+independent skills with separate loss terms, which is what "orthogonal
+skills" means in the Geometry model, and the delay in the paper's one run
+owes more to a small-initialization plateau than to the factor, which
+is 0.9 there. Neither work varies or names the optimizer, so neither
+bears on the optimizer clause or on [QUESTION-193](../questions.d/QUESTION-193.md)'s test, which stays as
+stated. "Why one source" now has two others beside it. The account is
+unchanged.

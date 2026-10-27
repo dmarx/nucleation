@@ -2,7 +2,7 @@
 
 # Lines of work
 
-71 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+73 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -71,6 +71,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1528](../record/literature.d/LIT-1528.md) — Partial Monitoring—Classification, Regret Bounds, and Algorithms *(Active)*
   - [LIT-1524](../record/literature.d/LIT-1524.md) — Cleaning up the neighborhood: A full classification for adversarial partial monitoring *(Active)*
+
+### From Transcoders Find Interpretable LLM Feature Circuits
+
+- [LIT-1554](../record/literature.d/LIT-1554.md) — Transcoders Find Interpretable LLM Feature Circuits *(Active)*
+  - [LIT-1552](../record/literature.d/LIT-1552.md) — Circuit Tracing: Revealing Computational Graphs in Language Models *(Active)*
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
@@ -206,6 +211,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-1171](../record/literature.d/LIT-1171.md) — Granger causality and transfer entropy are equivalent for Gaussian variables *(Active)* — also carries further LIT-1173
       - [LIT-048](../record/literature.d/LIT-048.md) — Transfer Entropy as a Log-likelihood Ratio *(Active)*
   - [LIT-1170](../record/literature.d/LIT-1170.md) — Measuring Autonomy and Emergence via Granger Causality *(Active)*
+
+### From Transcoders Find Interpretable LLM Feature Circuits
+
+- [LIT-1554](../record/literature.d/LIT-1554.md) — Transcoders Find Interpretable LLM Feature Circuits *(Active)*
+  - [LIT-1552](../record/literature.d/LIT-1552.md) — Circuit Tracing: Revealing Computational Graphs in Language Models *(Active)*
 
 ## cognition
 
@@ -901,6 +911,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## probabilistic-modeling
 
+### From The nested Chinese restaurant process and Bayesian nonparametric inference of topic hierarchies
+
+- [LIT-1542](../record/literature.d/LIT-1542.md) — The nested Chinese restaurant process and Bayesian nonparametric inference of topic hierarchies *(Active)*
+  - [LIT-002](../record/literature.d/LIT-002.md) — Nested Hierarchical Dirichlet Processes *(Active)*
+
 ### From Life as we know it
 
 - [LIT-526](../record/literature.d/LIT-526.md) — Life as we know it *(Active)*
@@ -959,6 +974,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-275](../record/literature.d/LIT-275.md) — H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics *(Active)*
 
 ## representation-learning
+
+### From Transcoders Find Interpretable LLM Feature Circuits
+
+- [LIT-1554](../record/literature.d/LIT-1554.md) — Transcoders Find Interpretable LLM Feature Circuits *(Active)*
+  - [LIT-1552](../record/literature.d/LIT-1552.md) — Circuit Tracing: Revealing Computational Graphs in Language Models *(Active)*
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
