@@ -83,7 +83,7 @@ objected_by:
 <!-- inactive-ok-file: LIT-1433 — Unavailable, unread; Moors 2022, named as the book the novelty claim must be checked against -->
 <!-- inactive-ok-file: CLAIM-438 THEORY-893 — Proposed; the objection and reading filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-1441 LIT-1453 LIT-1456 LIT-1445 — Unavailable or Deferred, unread; the papers that state the accounts read here through later work by the same authors, and the one to read next -->
-<!-- inactive-ok-file: CLAIM-039 CLAIM-283 CLAIM-347 CLAIM-355 CLAIM-368 THEORY-055 THEORY-056 THEORY-101 TERM-076 — Proposed; the claims, readings and term this claim rests on or is stated in, cited as open; it is Proposed with them -->
+<!-- inactive-ok-file: CLAIM-039 CLAIM-347 CLAIM-355 CLAIM-368 THEORY-055 THEORY-056 THEORY-101 TERM-076 — Proposed; the claims, readings and term this claim rests on or is stated in, cited as open; it is Proposed with them -->
 
 # CLAIM-440: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
 

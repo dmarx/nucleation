@@ -1,10 +1,21 @@
 ---
 number: 283
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqkpuo
-title: 'The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them'
-version: 1
+title: 'The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities: a motive can claim control without receiving it, and be granted control it does not claim'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed to the distinction between claimed precedence and granted
+    authority, and promoted, at the owner's ruling of 2026-10-27 on
+    the status review (ADR-057). Version 1 also identified internal
+    conflict with the gap. That identification is now CLAIM-tmpxb1wf,
+    Proposed. Grounds on THEORY-055 and THEORY-056 removed: the first
+    is replaced by TERM-tmp3mqer, the second is cited and not rested
+    on.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -21,10 +32,8 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
-grounds:
-- THEORY-055
-- THEORY-056
 uses:
+- TERM-tmp3mqer
 - TERM-017
 complements:
 - CLAIM-027
@@ -45,8 +54,9 @@ supports:
 - CLAIM-442
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-056 CLAIM-027 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpxb1wf — Proposed; this claim's former second half, split off 2026-10-27 -->
 
-# CLAIM-283: The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them
+# CLAIM-283: The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities: a motive can claim control without receiving it, and be granted control it does not claim
 
 ## The claim
 
@@ -69,6 +79,9 @@ relations. This claim splits precedence into a claim and a grant.
 
 - It does not say granted authority always wins. Impulsive action is the
   case where the claim outruns the grant and still governs.
+- It does not say that internal conflict is the gap. That identification
+  was this claim's second half until 2026-10-27, and is now CLAIM-tmpxb1wf,
+  Proposed.
 - It does not say the grant is made by a separate regulator. On [THEORY-056](../theory.d/THEORY-056.md)
   it is made by other motive states, and [QUESTION-054](../questions.d/QUESTION-054.md) is open.
 
@@ -106,3 +119,30 @@ mechanism stays Proposed. The audit suggested splitting this claim, the
 analytical separation of claimed precedence from granted authority apart
 from the identification of internal conflict with the gap, and auditing
 the first for promotion under [ADR-047](../decisions.d/ADR-047.md). Not done here.
+
+
+## Note of 2026-10-27: the concept, not the account
+
+The status review of this date (ADR-057) moved this claim from grounding
+in THEORY-055 to using TERM-tmp3mqer, Frijda's action readiness with
+control precedence. The claim uses the concept. It does not need the
+account's thesis about what elicits an emotion, which THEORY-057 contests
+and which stays Proposed.
+
+## Note of 2026-10-27: narrowed and promoted
+
+The status review of this date (ADR-057) narrowed this claim to the
+distinction and promoted it. Each of its four dependents (CLAIM-368,
+CLAIM-440, CLAIM-442 and CLAIM-446) uses the distinction and none uses
+the identification of conflict with the gap, which is now CLAIM-tmpxb1wf.
+Its premises are the TERMs it uses, both Active. THEORY-055 and THEORY-056
+had been grounds. The directive above already said "nothing here rests on
+their being settled". The first is replaced by its concept, TERM-tmp3mqer.
+The second is cited in the body as one account of how the grant is made,
+which the claim leaves open. No objection is filed. Its defeater's first
+clause is against the documented cases (CASE-151, CASE-127, THEORY-603),
+where significance was recognized and authority not granted. Its second
+clause asks for an argument that granted authority adds nothing once the
+competing motives are counted. THEORY-056 is the closest account, and on
+it the grant is the outcome of the competition, which is still a different
+quantity from what one motive claims.

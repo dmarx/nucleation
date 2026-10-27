@@ -59,7 +59,6 @@ summary: >-
 answers:
 - QUESTION-054
 supports:
-- CLAIM-283
 - CLAIM-358
 - CLAIM-440
 rivals:
