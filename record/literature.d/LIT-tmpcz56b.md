@@ -1,0 +1,39 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the exchange of 2026-10-27, "Repository coverage assessment" (curation entry of 2026-10-27). No NOTE is filed.
+title: 'An Interdependent Metabolic Patchwork in the Nested Symbiosis of Mealybugs'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed on 2026-10-27, and Crossref searched for a preprint under the title. `published:` is 2011-08-11, the online date PubMed gives; Crossref gives only the issue month.
+tags:
+- ecology
+- natural-sciences
+date: '2026-10-27'
+published: '2011-08-11'
+doi: '10.1016/j.cub.2011.06.051'
+first_author: 'McCutcheon'
+keywords:
+- 'nested symbiosis'
+- 'Tremblaya'
+- 'Moranella'
+- 'Planococcus citri'
+- 'metabolic complementarity'
+implementations: []
+summary: >-
+  McCutcheon & von Dohlen (2011). In the mealybug Planococcus citri, the gammaproteobacterium Moranella lives inside the betaproteobacterium Tremblaya. Their complete genomes show little overlap in nutrient-production genes, and several essential amino-acid pathways need a patchwork of gene products from Tremblaya, Moranella and possibly the insect.
+---
+<!-- inactive-ok-file: THEORY-418 — Proposed; named as the account the exchange proposed testing against this case -->
+
+# LIT-tmpcz56b: An Interdependent Metabolic Patchwork in the Nested Symbiosis of Mealybugs
+
+McCutcheon, J. P. & von Dohlen, C. D. (2011). An Interdependent Metabolic Patchwork in the Nested Symbiosis of Mealybugs. *Current Biology* 21(16): 1366–1372. doi:10.1016/j.cub.2011.06.051.
+
+Not read. The summary is drawn from the abstract. A reading should check it first.
+
+## Why this is here
+
+A2 rates it "High", for distributed metabolism in nested symbiosis, and proposed testing [THEORY-418](../theory.d/THEORY-418.md) against it: does metabolic complementation establish closure, or does closure need regulation and reproduction organized too?

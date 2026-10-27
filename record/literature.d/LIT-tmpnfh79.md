@@ -1,0 +1,38 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the exchange of 2026-10-27, "Repository coverage assessment" (curation entry of 2026-10-27). No NOTE is filed.
+title: 'Repeated replacement of an intrabacterial symbiont in the tripartite nested mealybug symbiosis'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed on 2026-10-27, and Crossref searched for a preprint under the title. `published:` is 2016-03-03, the posting date of the bioRxiv preprint under the same title (doi:10.1101/042267). The journal version appeared online on 2016-08-29 (Crossref, PubMed). Earlier date taken under ADR-002.
+tags:
+- ecology
+- natural-sciences
+date: '2026-10-27'
+published: '2016-03-03'
+doi: '10.1073/pnas.1603910113'
+first_author: 'Husnik'
+keywords:
+- 'symbiont replacement'
+- 'Tremblaya'
+- 'nested symbiosis'
+- 'horizontal gene transfer'
+- 'mealybugs'
+implementations: []
+summary: >-
+  Husnik & McCutcheon (2016). Host and symbiont genomes from five mealybug species show Tremblaya from a single ancestral infection but the gammaproteobacterial symbionts inside it from multiple replacements by related lineages, while horizontally transferred genes on the host genome stay stable through the turnover.
+---
+
+# LIT-tmpnfh79: Repeated replacement of an intrabacterial symbiont in the tripartite nested mealybug symbiosis
+
+Husnik, F. & McCutcheon, J. P. (2016). Repeated replacement of an intrabacterial symbiont in the tripartite nested mealybug symbiosis. *Proceedings of the National Academy of Sciences of the USA* 113(37): E5416–E5424. doi:10.1073/pnas.1603910113.
+
+Not read. The summary is drawn from the abstract. A reading should check it first.
+
+## Why this is here
+
+A2 named it ("Husnik et al. (2016)"; it has two authors) as showing that intimate integration need not fix every constituent lineage, which bears on the record's distinction between persistence of an organization and persistence of its constituents ([CLAIM-060](../claims.d/CLAIM-060.md)).

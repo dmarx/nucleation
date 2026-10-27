@@ -1,0 +1,37 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the exchange of 2026-10-27, "Repository coverage assessment" (curation entry of 2026-10-27). No NOTE is filed.
+title: 'Chimeric origins and dynamic evolution of central carbon metabolism in eukaryotes'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed on 2026-10-27, and Crossref searched for a preprint under the title. `published:` is 2024-06-01, the posting date of the bioRxiv preprint under the same title (doi:10.1101/2024.05.29.596406), which Crossref gives. The journal version appeared on 2025-03-03 (Crossref, PubMed). Earlier date taken under ADR-002.
+tags:
+- natural-sciences
+date: '2026-10-27'
+published: '2024-06-01'
+doi: '10.1038/s41559-025-02648-0'
+first_author: 'Santana-Molina'
+keywords:
+- 'eukaryogenesis'
+- 'central carbon metabolism'
+- 'Asgard archaea'
+- 'Alphaproteobacteria'
+- 'syntrophy'
+implementations: []
+summary: >-
+  Santana-Molina, Williams, Snel & Spang (2025). The eukaryotic genes of central carbon metabolism are chimeric: Asgard-archaeal contributions mainly in glycolysis, alphaproteobacterial in the TCA cycle, remodelled since by gene loss, transfer and retargeting, with other prokaryotic donors as well. Modern metabolism, the authors argue, preserves a trace of the ancestral host–symbiont interplay.
+---
+
+# LIT-tmpb0lyw: Chimeric origins and dynamic evolution of central carbon metabolism in eukaryotes
+
+Santana-Molina, C., Williams, T. A., Snel, B. & Spang, A. (2025). Chimeric origins and dynamic evolution of central carbon metabolism in eukaryotes. *Nature Ecology & Evolution* 9(4): 613–627. doi:10.1038/s41559-025-02648-0.
+
+Not read. The summary is drawn from the abstract. A reading should check it first.
+
+## Why this is here
+
+A1 ranked it fifth, for metabolic integration during eukaryogenesis, and for discriminating syntrophy-first from complexity-first scenarios. With [NOTE-159](../notes.d/NOTE-159.md), the record's only reading on eukaryogenesis.

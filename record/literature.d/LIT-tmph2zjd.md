@@ -1,0 +1,38 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the exchange of 2026-10-27, "Repository coverage assessment" (curation entry of 2026-10-27). No NOTE is filed.
+title: 'Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Enables a Tripartite Nested Mealybug Symbiosis'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed on 2026-10-27, and Crossref searched for a preprint under the title. `published:` is 2013-06-20, the issue date PubMed gives; Crossref gives only the month.
+tags:
+- ecology
+- natural-sciences
+date: '2026-10-27'
+published: '2013-06-20'
+doi: '10.1016/j.cell.2013.05.040'
+first_author: 'Husnik'
+keywords:
+- 'horizontal gene transfer'
+- 'Tremblaya'
+- 'Moranella'
+- 'nested symbiosis'
+- 'mealybugs'
+implementations: []
+summary: >-
+  Husnik et al. (2013). Tremblaya's extreme genomic degeneracy likely followed its acquiring Moranella; at least 22 expressed genes transferred to the mealybug genome from diverse bacteria complement missing symbiont genes, none of them from Tremblaya. The three-way symbiosis depends on genes from at least six lineages, a path to intimate endosymbiosis distinct from the organelles'.
+---
+
+# LIT-tmph2zjd: Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Enables a Tripartite Nested Mealybug Symbiosis
+
+Husnik, F., Nikoh, N., Koga, R., Ross, L., Duncan, R. P., Fujie, M., et al. & McCutcheon, J. P. (2013). Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Enables a Tripartite Nested Mealybug Symbiosis. *Cell* 153(7): 1567–1578. doi:10.1016/j.cell.2013.05.040.
+
+Not read. The summary is drawn from the abstract. A reading should check it first.
+
+## Why this is here
+
+A2's "2013 genomic study" of the mealybug system, cited without author or title; identified from the exchange's own search results and confirmed by its abstract. A2 drew from it that genome reduction need not mean gene transfer to a single controlling genome.
