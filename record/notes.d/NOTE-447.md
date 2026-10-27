@@ -29,7 +29,6 @@ summary: >-
   premises; instrumental use is innocent but settles nothing about
   boundaries.
 ---
-<!-- inactive-ok-file: THEORY-073 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 
 # NOTE-447: The Emperor's New Markov Blankets
 

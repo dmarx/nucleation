@@ -24,3 +24,9 @@
   - TERM-tmppwzer (inquiry) is adopted.
   - Mechanism 2 is declined (DP-3), and mechanism 5 is adopted as a
     convention.
+- The five promotions ADR-047's audit decided and never carried out:
+  - CLAIM-322, CLAIM-328 and CLAIM-046 are Active.
+  - CLAIM-241 is Active, and CLAIM-217 concedes it at version 2: uptake is
+    a defeasible standard.
+  - THEORY-073 is narrowed to Friston's 2013 formulation and promoted. The
+    wider form is THEORY-tmplg04q, Proposed.

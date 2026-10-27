@@ -38,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-194 — Proposed; the counter this reading was filed to test -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-174 — Proposed; the candidate answers this reading bears on, open -->
-<!-- inactive-ok-file: THEORY-071 THEORY-072 THEORY-073 — Proposed; the accounts CLAIM-194 grounds on, named as such -->
+<!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; the accounts CLAIM-194 grounds on, named as such -->
 
 # NOTE-721: Smith & Varzi — Fiat and Bona Fide Boundaries
 
