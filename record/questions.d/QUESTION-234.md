@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpszev1
 title: 'Do interchange interventions leave the mediating direction underdetermined in trained networks: do two basis-related alignments in a trained model tie on every interchange drawn from the data, and for which networks are alignments that agree on all such interventions unique up to a stated symmetry?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -14,6 +14,14 @@ history:
     theory that fixes them by the data's symmetries in an idealized
     transformer, and a benchmark whose scoring cannot see ties. Neither
     answers the question, which is unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    A dated note added: four facts about instruments from the
+    circuits works read on 2026-10-26, none a trained-network tie of
+    the kind asked for, and a neighbouring question about
+    dictionaries filed as QUESTION-tmpidxeb. The question is
+    unchanged.
 tags:
 - causality
 - philosophy-of-science
@@ -30,6 +38,7 @@ summary: >-
 answered_by:
 - THEORY-802
 ---
+<!-- inactive-ok-file: THEORY-802 — Proposed; the answer this question is set beside, cited for its dated note, not leaned on -->
 
 # QUESTION-234: Do interchange interventions leave the mediating direction underdetermined in trained networks: do two basis-related alignments in a trained model tie on every interchange drawn from the data, and for which networks are alignments that agree on all such interventions unique up to a stated symmetry?
 
@@ -85,3 +94,36 @@ into units fixes a mediating direction.
   search, is trained against the causal model it is scored on.
 
 The question is unchanged.
+
+## Note of 2026-10-27: ties by construction, not ties found
+
+The core circuits works, read on 2026-10-26 at the owner's request, add
+four facts about the instruments. None is a trained-network tie of the
+kind the question asks for.
+
+- **DAS fixes subspaces, not directions.** In Geiger et al.'s Definition
+  3 (LIT-tmpsavwt) the rotation enters an intervention only through the
+  projector onto the learned subspace, so rotations that select the same
+  subspaces give identical interventions. DAS alignments are therefore
+  unique at most up to rotations within the learned subspaces: a stated
+  symmetry, but of the instrument, not of networks. The observation is
+  the record's (NOTE-tmpzb21n), not the paper's.
+- **Causal scrubbing ties by construction** basis-related hypotheses
+  that induce the same partitions of the data (THEORY-tmpblgxz). So does
+  any method that scores nodes by their effect on one metric under one
+  family of contrasts, sparse feature circuits among them
+  (NOTE-tmpr0gdc).
+- **The basis changes the verdict.** DAS's toy and its trained-network
+  results (THEORY-tmpgqlal) are THEORY-243's converse: a learned rotation
+  passes where the neuron basis fails.
+- **A wide search can manufacture alignment.** On frozen random networks
+  DAS's IIA rises above chance once the layer is wide (THEORY-tmpqhbjf),
+  so a tie found by a supervised search in a wide layer would need that
+  control.
+
+The source of the basis freedom in transformers, the residual stream's
+lack of a privileged basis, is stated in Elhage et al.'s framework
+(LIT-tmp9dono; THEORY-802's note of 2026-10-27). The neighbouring
+question, whether two dictionaries of equal fidelity give the same
+validated circuit, is filed as QUESTION-tmpidxeb. The question is
+unchanged.

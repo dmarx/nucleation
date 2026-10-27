@@ -155,7 +155,7 @@ nodes and most of the behaviour goes.
 
 It builds on Bricken et al. ([LIT-tmpn9ui7](../literature.d/LIT-tmpn9ui7.md)) for the autoencoders and on
 causal mediation in interpretability (Vig et al., Finlayson et al.), with
-attribution patching (Nanda; Syed et al.; Kramár et al.) and integrated
+attribution patching (Nanda; Syed et al.; Kramár et al., LIT-tmp4de8g) and integrated
 gradients (Sundararajan et al.; Hanna et al.). Gemma Scope is [LIT-611](../literature.d/LIT-611.md). Its
 behaviour clusters follow Michaud et al.'s quantization model. Its last
 author leads MIB ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)), whose circuit track scores the same family
@@ -163,7 +163,9 @@ of attribution methods, and the record's crosscoder reading ([LIT-tmpuuwok](../l
 [NOTE-tmpq065x](NOTE-tmpq065x.md)) takes its indirect effects from this paper. Templeton et
 al. ([LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md)) cite it as the next step after features. Its
 successor and induction features recover at feature level the heads of
-Olsson et al. ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)).
+Olsson et al. ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)). Transcoders (LIT-tmptgo43) cite its error
+nodes as an addition they do not use, and Circuit Tracing (LIT-tmpsuo6l)
+builds them into its replacement model.
 
 ## Bearing on the record
 

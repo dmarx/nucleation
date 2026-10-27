@@ -214,7 +214,7 @@ it.
 ## Connections
 
 It builds on Elhage et al.'s mathematical framework for transformer
-circuits (2021), from which the induction head and its K-composition
+circuits (2021, LIT-tmp9dono), from which the induction head and its K-composition
 mechanism come, on Kaplan et al.'s per-position loss as the measure of
 in-context learning, and on Erhan et al. (2010) for the function-space
 view of per-token losses. It places the phase change beside grokking
@@ -226,6 +226,21 @@ refined learning coefficients study the same two-layer attention-only
 setting ([LIT-tmpa32mr](../literature.d/LIT-tmpa32mr.md)), and Bayazit et al. track features across
 checkpoints in larger models ([LIT-tmpuuwok](../literature.d/LIT-tmpuuwok.md)). The record already used it
 second-hand: [LIT-153](../literature.d/LIT-153.md) ([NOTE-106](NOTE-106.md)) rests its induction-head example on it.
+
+The circuits works read on 2026-10-26 at the owner's request bear on it
+from four sides. The framework's two-layer model holds the mechanism as a
+snapshot in weights, K-composition with a previous-token head
+(THEORY-tmpb4xka). Causal scrubbing (LIT-tmpqtkua) tests the induction
+story in a two-layer attention-only model: a naive previous-token-key
+hypothesis recovers 35% of the loss on induction-friendly text and 86%
+with three added pathways, figures the record has only from the main
+post's summary of a companion post (NOTE-tmp4zrzd). Sparse feature
+circuits (LIT-tmp5b0z9) find succession and narrow, token-specific
+induction features composing in Pythia-70M to continue incrementing
+sequences, induction at the level of features and in pieces. And attribution graphs (LIT-tmpsuo6l)
+cannot see it: they freeze attention patterns, and Circuit Tracing's
+Limitations section names induction as the case they cannot explain
+(NOTE-tmpn9fx3).
 
 ## Bearing on the record
 

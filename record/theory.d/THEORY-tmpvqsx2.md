@@ -115,3 +115,6 @@ canonical-partner coordinate that (A4) removes.
 - **Theorem 3 of the same paper** (burstiness multiplies the induction
   gradient by b, up to a factor 1 + O(b/n)) is the complementary result.
   It is not filed separately.
+- **LIT-tmp9dono.** Elhage et al.'s mathematical framework is where the
+  two-layer attention-only setting and the QK/OV reading of heads of the
+  paper's models come from; its path expansion is THEORY-tmphm85g.

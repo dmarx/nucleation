@@ -158,7 +158,7 @@ one.
 It extends Lindsey et al.'s crosscoders (2024) from layers and from base
 against post-trained models to pretraining checkpoints, and takes its
 indirect effects and integrated-gradient approximation from Marks et al.'s
-sparse feature circuits. Its checkpoint selection follows work on phase
+sparse feature circuits (LIT-tmp5b0z9). Its checkpoint selection follows work on phase
 transitions in accuracy or loss (Chen et al. 2024, cited also by
 [LIT-tmpa32mr](../literature.d/LIT-tmpa32mr.md)) and Kangaslahti et al.'s POLCA. The sparse-autoencoder line
 behind it is in the record through Gemma Scope ([LIT-611](../literature.d/LIT-611.md)), and the

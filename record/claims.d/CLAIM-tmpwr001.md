@@ -10,6 +10,9 @@ history:
     it appears five times in the Northstar turns (T18, T20, T21, T22,
     T23) and a sixth in the transformer setting (T24 §4). The parts are
     held; the statement for a latent-feature model of members is new.
+    Extended before merge, on 2026-10-27, with supporting cases from the
+    circuits works read on 2026-10-26 (no version bump, the entry being
+    new).
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-135 TERM-072 TERM-074 CLAIM-027 CLAIM-418 CLAIM-427 CLAIM-367 — Proposed; the claims and terms this one rests on or uses, held open, and it is Proposed with them -->
 <!-- inactive-ok-file: CASE-tmplcm41 CASE-tmprl1px — Proposed; the cases filed with this claim from the same exchange -->
+<!-- inactive-ok-file: THEORY-tmpvugrm THEORY-tmpyawf9 — Proposed; circuits readings cited as hypotheses, not leaned on -->
 
 # CLAIM-tmpwr001: A latent feature or mode recovered from an organization's members' activity is at most a constituent of an organizational perspective, not the perspective: a feature allocation says which members take part in which modes, and whether those modes are organized into one perspective depends on the relations of access, uptake and authority among their carriers, which the same allocation leaves open
 
@@ -143,6 +147,43 @@ test: the claim is interpretive.
   scores features singly, and its authors leave extending the analysis
   "from individual features to circuits" to future work ([NOTE-tmpq065x](../notes.d/NOTE-tmpq065x.md)),
   which is where this claim puts the perspective.
+
+The core circuits works, read on 2026-10-26 at the owner's request, add
+cases in networks of the same kind, again supporting cases and not a
+test.
+
+- **A component's role depends on its circuit.** In IOI, induction heads
+  do something other than what defines them: their output serves as a
+  pointer to a position, read by the S-inhibition heads (NOTE-tmp1iis8).
+- **Locating is not identifying.** ROME's causal traces and edits find
+  where restoring or writing a hidden state helps (THEORY-tmpom5gw), not
+  the variable that does the work; that the edit's site stores the fact
+  is held only as a Proposed hypothesis (THEORY-tmpvugrm).
+- **Activity does not give role.** In Claude 3 Sonnet, a feature's
+  activation predicts its ablation effect at a correlation of about 0.12,
+  attribution at about 0.81 (THEORY-tmph7ceb). Steering usually needs a
+  feature clamped far outside its observed range, which the authors
+  explain by its being "co-active with several correlated features with
+  related meanings" (NOTE-tmpfpjyr).
+- **Features alone carry little; the arrangement carries the behaviour.**
+  Circuits of sparse-autoencoder features recover little of subject–verb
+  agreement without the error terms (THEORY-tmpuogp2), and agreement is
+  carried by several converging pathways (THEORY-tmpyawf9), the claim's
+  "organized relationship" in a transformer. Towards Monosemanticity
+  tests activation structure and downstream role separately, and its
+  shuffled-weights control shows an autoencoder finding features, mostly
+  single-token ones, in a model that has learned nothing (NOTE-tmpz50gz).
+- **Instruments that cannot tell correlated variables apart.** Causal
+  scrubbing scores a hypothesis only through the partition of the data it
+  induces, so an A-detector and a B-detector perfectly correlated on the
+  data tie (THEORY-tmpblgxz). DAS's "entailment" variable in BERT on MoNLI
+  decomposes into the two input words' identities (THEORY-tmpgqlal).
+- **A replacement exact at a point diverges under perturbation.** The
+  cross-layer-transcoder replacement is exact on its prompt by
+  construction (THEORY-tmpbtnf0), yet its responses to perturbation agree
+  with the model one layer later and then diverge (THEORY-tmpm4ifd). A
+  recovered feature is not yet the variable that does the work; the
+  transcoder paper's "caught" case is one instance (NOTE-tmpbsp9v).
 
 ## What it does not say
 

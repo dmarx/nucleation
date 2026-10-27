@@ -9,7 +9,9 @@ history:
     Filed from T24 of the exchange "Experimental Infrastructure Review",
     the owner's question, with the reply's research question as its test.
     The page did not render the reply ("Message delivery timed out"); the
-    owner pasted it. The reply reports no simulation.
+    owner pasted it. The reply reports no simulation. Extended before
+    merge, on 2026-10-27, with what the circuits works read on
+    2026-10-26 supply (no version bump, the entry being new).
 tags:
 - learning-theory
 - representation-learning
@@ -36,6 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-367 CLAIM-329 CLAIM-118 CLAIM-427 CLAIM-278 CLAIM-263 CLAIM-286 CLAIM-287 THEORY-783 THEORY-039 THEORY-481 TERM-072 — Proposed; the claims and readings the question is framed by or re-derives, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-tmpwr001 CASE-tmplcm41 — Proposed; filed with this question from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmp1dufu THEORY-tmpt45mh THEORY-tmpq4l9j THEORY-tmpoirdq — Proposed; readings of the same day, cited with their limits -->
+<!-- inactive-ok-file: THEORY-tmpx97zh THEORY-tmpgz1nk THEORY-tmpz7jrx THEORY-tmpyawf9 — Proposed; the circuits readings' wider accounts, cited as the units and targets the question uses, nothing here rests on them -->
 
 # QUESTION-tmpivbso: Can the development of a transformer's circuits in training be described as organizational regimes forming over shared, overlapping latent features, so that a model coupling feature allocation to circuit interaction, fitted to early checkpoints, predicts the effects of held-out training interventions that feature-only and circuit-only descriptions fitted to the same checkpoints miss?
 
@@ -168,6 +171,64 @@ supply the comparators and show what is still missing.
 None of the six fits anything to early checkpoints and predicts later
 ones. The prospective arm is still undone in the literature the record
 holds.
+
+## The circuits literature, read
+
+The core circuits works, registered and read on 2026-10-26 at the owner's
+request, supply the question's units, instruments for its circuit-only
+arm, and cautions for both arms. None of them studies training.
+
+- **Where the units come from.** Zoom In (LIT-tmplq91w) names features
+  and circuits as the units of trained networks, and universality as the
+  hypothesis that they recur across models, with evidence it calls
+  "anecdotal" (THEORY-tmpx97zh, THEORY-tmpgz1nk). The question couples
+  exactly these two units.
+- **Circuit-only measurements, computable at every checkpoint.**
+  - The framework's composition scores and eigenvalue statistics
+    (LIT-tmp9dono, NOTE-tmpx60d8) are read from weights alone, and its
+    path expansion is exact (THEORY-tmphm85g). Their fragility is on
+    record too: the authors published a correction to their own
+    composition diagrams (a cyclic permutation inside a Frobenius norm).
+  - ACDC (LIT-tmpoku9b) runs on the same two-layer attention-only
+    induction setting and finds its heads.
+  - AtP and AtP* (LIT-tmp4de8g) make node-level patching cheap enough to
+    run per checkpoint, and Pythia releases its checkpoints
+    (THEORY-tmpo1u9l).
+  - Causal scrubbing's recovered loss (LIT-tmpqtkua) is a candidate "how
+    much does the circuit explain" score per checkpoint.
+  - Transcoder or cross-layer-transcoder weights (LIT-tmptgo43,
+    LIT-tmpsuo6l) describe circuits through MLP layers, but neither paper
+    matches features across checkpoints, and the cost is large (about 210
+    H100-hours for 2M features on Gemma 2 2B, NOTE-tmpn9fx3).
+- **Cautions for the circuit arm.**
+  - Knockouts reveal heads that ordinary operation hides: in IOI, backup
+    name movers recover most of the effect when the name movers are
+    ablated (THEORY-tmpccb5u). A head "born" at a checkpoint may have been
+    there as a backup.
+  - The metric, the ablation type and the visiting order must be held
+    fixed across checkpoints: a greedy circuit is one of several
+    sufficient subgraphs, and which one is returned depends on the order
+    (THEORY-tmp1bwxc, THEORY-tmp77xju). Attribution misses concentrate in
+    queries and keys behind a saturated softmax (THEORY-tmpo1u9l).
+  - Attribution graphs freeze attention patterns, so they cannot see
+    induction and cannot serve as the circuit-only arm in the induction
+    setting (NOTE-tmpn9fx3).
+- **Cautions for the feature arm.**
+  - Sparse-autoencoder features are a resolution set by dictionary width
+    (THEORY-tmpz7jrx), and which concepts get a feature depends on their
+    frequency relative to the dictionary's size (THEORY-tmplbzq5). An
+    apparent split across checkpoints may be the dictionary's.
+  - Features can be spread across layers (Templeton et al.'s cross-layer
+    superposition, NOTE-tmpfpjyr), which confounds tracking within one
+    layer.
+  - Circuits over features are faithful only with the dictionaries' error
+    terms kept (THEORY-tmpuogp2), so a circuit arm built on features must
+    carry the remainder.
+- **A concrete developmental target.** Sparse feature circuits find
+  subject–verb agreement across a relative clause carried by two pathways
+  that converge without fully intersecting (THEORY-tmpyawf9). When the
+  clause-boundary pathway forms relative to the direct one is a question
+  the coupled description could be asked to predict.
 
 ## What would answer it
 

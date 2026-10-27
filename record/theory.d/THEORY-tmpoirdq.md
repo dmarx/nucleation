@@ -91,6 +91,18 @@ uniformly, and the edges that change most predict where extra LoRA rank
 helps (CircuitLoRA beats random critical layers in every column of Tables
 1 and 4). That last is evidence that the changed edges are not noise.
 
+**Two further cautions from the method's lineage.** EAP-IG descends from
+attribution patching (AtP*, LIT-tmp4de8g) and from ACDC's edge-level
+circuits (LIT-tmpoku9b), both read on 2026-10-26. Attribution's misses
+concentrate in queries and keys behind a saturated softmax and in nodes
+whose direct and indirect effects cancel (THEORY-tmpo1u9l), so an edge
+that "appears" between checkpoints may be one that stopped being missed.
+And a greedy circuit is one of several sufficient subgraphs, chosen by
+the order and threshold of the search (THEORY-tmp1bwxc, THEORY-tmp77xju),
+so an edge set that changes between checkpoints may be a change in which
+sufficient subgraph was returned. Both would need holding fixed, or
+measuring, before a change in edges is read as a change in the model.
+
 ## What would confirm or reject it
 
 The promote_when above.

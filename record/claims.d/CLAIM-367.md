@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw4w7a
 title: 'Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -22,6 +22,13 @@ history:
     set by the data and by another circuit's state, and a learned
     structure kept by one optimizer and not another. The claim is
     unchanged.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the IOI circuit's backup heads, read on
+    2026-10-26, with the authors' untested explanation by dropout,
+    are a candidate case of a network property sourced in the
+    training regime. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,6 +77,7 @@ summary: >-
   does not say the governance is unreal, or that a network cannot come to
   hold some of it.
 ---
+<!-- inactive-ok-file: THEORY-tmpmd4za — Proposed; the dropout account of IOI's backup heads, cited as a candidate case, untested -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-027 CLAIM-288 CLAIM-194 CLAIM-157 CLAIM-284 CASE-113 QUESTION-122 CLAIM-368 — Proposed; open claims and readings, cited as open -->
 
 # CLAIM-367: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
@@ -220,3 +228,17 @@ attention-only model.
 Both are theorems in a model with fixed write maps, under plain gradient
 descent for the first, and neither is a crossed intervention of the kind
 [CASE-113](../cases.d/CASE-113.md) asks for. The claim is unchanged.
+
+## Note of 2026-10-27: a redundancy the training regime may have put there
+
+Wang et al.'s IOI circuit in GPT-2 small (LIT-tmpj9tel, NOTE-tmp1iis8),
+read on 2026-10-26 at the owner's request, has backup name-mover heads
+that take over when the name movers are knocked out, so the circuit
+keeps most of its effect (THEORY-tmpccb5u). The authors explain it in one
+sentence, by dropout during training (THEORY-tmpmd4za); the reading
+records the alternative that attention re-routes after the ablation. If
+the dropout account holds, the redundancy is a property the trained
+network carries whose source is a condition of its training regime, the
+boundary this claim draws between what governs training and what belongs
+to the network. No comparison with and without dropout exists, and
+nothing here tests it. The claim is unchanged.

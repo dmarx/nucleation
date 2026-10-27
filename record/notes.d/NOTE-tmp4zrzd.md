@@ -153,7 +153,8 @@ activations in any way that it hasn't specifically ruled out."
 
 It is presented as a generalization of the "ablate, then measure" checks
 of Nanda and Lieberum's grokking work ([LIT-345](../literature.d/LIT-345.md)), the induction-heads paper
-([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) and the IOI circuit, and is set against causal tracing.
+([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) and the IOI circuit (LIT-tmpj9tel), and is set against causal
+tracing (Meng et al., LIT-tmpajpeb).
 ACDC ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md), Appendix N) describes itself as searching a narrow class of
 causal-scrubbing hypotheses, in which each edge either matters or is
 resampled from one corrupted input. AtP* ([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) adopts its noising

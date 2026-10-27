@@ -69,7 +69,20 @@ such as translation and template matching.
   definition and also translate or match patterns. Anecdotal by design.
 - **The mechanism** is reverse-engineered only for attention-only models.
 
-[THEORY-tmp8cat0](THEORY-tmp8cat0.md) holds the small attention-only case as measured. Nothing in
+- **An earlier statement, with no added evidence.** Elhage et al.'s
+  framework (LIT-tmp9dono, NOTE-tmpx60d8), written before the
+  induction-heads paper, already calls induction heads "a central driver
+  of in-context learning in language models of all sizes".
+- **No test from attribution graphs.** Attribution graphs freeze
+  attention patterns, so they cannot see an induction head's QK step.
+  Circuit Tracing's Limitations section (LIT-tmpsuo6l, NOTE-tmpn9fx3)
+  says that on "Aunt Sally … Aunt" the graph shows only that "Sally"
+  came earlier, "a kind of regression" against the attention-only
+  analyses. The record's attribution-graph studies of a large
+  model therefore neither support nor undercut this thesis.
+
+[THEORY-tmp8cat0](THEORY-tmp8cat0.md) holds the small attention-only case as measured, and
+THEORY-tmpb4xka the two-layer model's mechanism in its weights. Nothing in
 the record measures the large case causally.
 
 ## Why it stays Proposed

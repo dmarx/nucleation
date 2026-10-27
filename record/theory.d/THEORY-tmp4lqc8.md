@@ -26,6 +26,7 @@ summary: >-
   hypothesis it is scored against.
 ---
 <!-- inactive-ok-file: CLAIM-tmpwr001 THEORY-802 — Proposed; the claim and account this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp14ee2 — Proposed; the thesis this account tests, cited as open -->
 
 # THEORY-tmp4lqc8: In the Mechanistic Interpretability Benchmark's causal-variable localization baselines on Gemma-2 2B and Llama-3.1 8B, features of the public Gemma Scope and Llama Scope sparse autoencoders, selected by a learned binary mask, never gave a higher mean interchange-intervention accuracy than the same mask over the model's own hidden dimensions, in all sixteen task–variable cells and by 1 to 14 points, while distributed alignment search, trained against the causal model it is scored on, gave the highest mean in fifteen of them
 
@@ -83,7 +84,11 @@ better than neurons under the same mask. They did not in any cell.
   DBM-over-neurons in its unit and in being supervised by the causal
   model, so its lead does not isolate the unit. The paper's own sentence,
   "non-basis-aligned directions in activation space are generally better
-  units of analysis", runs the two together.
+  units of analysis", runs the two together. How far a supervised
+  rotation can manufacture alignment is now measured in the record: in
+  the paper that introduced DAS (LIT-tmpsavwt), its IIA on frozen random
+  networks stays at chance up to width 256 and reaches 0.64 at width
+  4,096, against 16 input dimensions (THEORY-tmpqhbjf).
 - **Not across models generally.** Two models, four tasks, variables
   supplied in advance; Qwen-2.5 and GPT-2 have no SAE rows.
 - **Not about best layers.** At its best layer even the full vector
@@ -100,3 +105,16 @@ better than neurons under the same mask. They did not in any cell.
   where [THEORY-504](THEORY-504.md)'s fidelity results would predict SAEs to lose.
 - **[THEORY-802](THEORY-802.md).** IIA scores alignments one at a time; ties between
   alignments related by a change of basis would be invisible here.
+- **LIT-tmpj9tel.** The IOI task and its S-inhibition heads come from Wang
+  et al.'s circuit in GPT-2 small (THEORY-tmpccb5u).
+- **The sparse-autoencoder papers.** Templeton et al.'s comparison of
+  features with few-shot probes (2 of 7 cases equal, 5 of 7 favouring the
+  features, on cases chosen where features worked; NOTE-tmpfpjyr) is not a
+  counter-result to this one: it is selected and few-shot. Bricken's and
+  Templeton's "more interpretable than neurons" (THEORY-tmpkq43g) is a
+  different test from localizing variables supplied in advance. Sparse
+  feature circuits point the same way as this account from circuits:
+  without their error terms, SAE features carry little of the behaviour
+  (THEORY-tmpuogp2). This account is the standing test of the Proposed
+  thesis that SAE features are the model's working units
+  (THEORY-tmp14ee2).

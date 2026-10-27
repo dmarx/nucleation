@@ -156,10 +156,13 @@ direct effect on the feature.
 
 ## Connections
 
-It builds on Elhage et al.'s framework (frozen QK, OV circuits, the residual
-stream as a sum), on Dunefsky and Cohan's observable propagation for the
-backward feature vectors, on Marks et al.'s sparse feature circuits for the
-error-node idea, and on Hanna et al. for the greater-than circuit. Gemma
+It builds on Elhage et al.'s framework (LIT-tmp9dono: frozen QK, OV circuits,
+the residual stream as a sum), on Dunefsky and Cohan's observable propagation for the
+backward feature vectors, on Marks et al.'s sparse feature circuits (LIT-tmp5b0z9) for the
+error-node idea, and on Hanna et al. for the greater-than circuit. Its
+interpretability rating follows Bricken et al. (LIT-tmpn9ui7), and the
+sparse autoencoders it is measured against are those of Bricken et al.
+and their scale-up (LIT-tmp8w8uj). Gemma
 Scope ([LIT-611](../literature.d/LIT-611.md), read in [NOTE-482](NOTE-482.md)) trained transcoders on Gemma 2 2B and
 found them worse than MLP-output SAEs at fixed L0, "reversing the GPT-2
 Small finding of Dunefsky et al.", with implementation error among the

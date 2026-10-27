@@ -181,9 +181,11 @@ into "our CLT taking a non-mechanistically faithful shortcut".
 ## Connections
 
 It extends Dunefsky et al. ([LIT-tmptgo43](../literature.d/LIT-tmptgo43.md)), "essentially the same" attribution
-rule, to cross-layer features, with error nodes from Marks et al. and a
+rule, to cross-layer features, with error nodes from Marks et al. (LIT-tmp5b0z9) and a
 global pruning rule. It inherits the freezing of QK circuits from Elhage et
-al.'s framework. Its addition features place Nikankin et al.'s "bag of
+al.'s framework (LIT-tmp9dono). Its feature visualizations are those of
+Scaling Monosemanticity (LIT-tmp8w8uj), and its dictionaries descend from
+the sparse autoencoders of Towards Monosemanticity (LIT-tmpn9ui7). Its addition features place Nikankin et al.'s "bag of
 heuristics" in a graph and set it beside Kantamneni and Tegmark's Fourier
 subspaces. Its companion is LIT-tmpjvwet. The same team's superposition
 paper is [LIT-323](../literature.d/LIT-323.md) and its interpretability-by-dictionary line includes the

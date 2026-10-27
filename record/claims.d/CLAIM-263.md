@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3uhl1
 title: "Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-13'
@@ -14,6 +14,13 @@ history:
     trained networks, as measured in the record's mode-connectivity
     readings, without CLAIM-187's carry-over to communicative kinds.
     CLAIM-187 now rests on this claim.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: Zoom In's universality hypothesis, read on
+    2026-10-26, is the hypothesis this claim's test would probe
+    across models; Zoom In itself offers anecdote. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,6 +56,7 @@ supports:
 complements:
 - CLAIM-366
 ---
+<!-- inactive-ok-file: THEORY-tmpgz1nk — Proposed; Zoom In's universality hypothesis, cited as what the test would probe -->
 <!-- inactive-ok-file: THEORY-111 THEORY-112 THEORY-113 THEORY-115 THEORY-116 THEORY-108 CLAIM-187 — Proposed; the readings the protocol is assembled from, a case for it, and the claim that carries it further, open -->
 
 # CLAIM-263: Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
@@ -95,3 +103,18 @@ permutation alignment.
 - It does not say a symmetry group is always known. For an architecture
   it is derived; elsewhere it must be chosen.
 - It rests on five Proposed readings. Hence Proposed.
+
+## Note of 2026-10-27: universality, the hypothesis its test would probe
+
+Zoom In (LIT-tmplq91w, NOTE-tmplg2yz), read on 2026-10-26 at the
+owner's request, states universality: analogous features and circuits
+form across networks trained on different data and with different
+architectures (THEORY-tmpgz1nk). That is the hypothesis this claim's test
+would probe across models, a barrier that survives alignment marking a
+different mechanism and connection after alignment marking shared feature
+structure. Zoom In names the test the hypothesis needs and offers
+evidence it calls "anecdotal", from vision networks. The nearest
+measurement the record holds is Towards Monosemanticity's agreement of
+features across two seeds of one architecture (NOTE-tmpz50gz), which
+compares features by their activations, not by the quotient this claim
+asks for. The claim is unchanged.
