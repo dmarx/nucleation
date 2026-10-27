@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmazgg
 title: 'In InceptionV1 trained on ImageNet, the ten curve units of layer mixed3b each respond most to curves of one orientation, with responses invariant to fill and colour and jointly spanning all orientations under rotation of real images; for one of them, 3b:379, which fires on about 11% of dataset positions, activation level separated one author''s blind four-class labels of over 800 activation-binned images, and curves and imperfect curves made up 55% of its contribution to expected value'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -14,6 +14,13 @@ history:
     the article measured and states, and nothing in the record contradicts
     it (ADR-047 v3). The authors' fuller claim, that the units detect
     curves causally, generally and purely, is THEORY-1022, Proposed.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the later article that "What this does not say"
+    calls not read, Curve Circuits, was registered and read on 2026-10-27
+    (LIT-tmpl1s2e); how the units are computed is now THEORY-tmp90225. Title
+    and status unchanged.
 tags:
 - representation-learning
 date: '2026-10-27'
@@ -95,3 +102,15 @@ for reasons attribution would show were not curves.
   uninterpretable basis and dictionary features the interpretable one.
   This family is a case where the neuron basis itself is clean; the
   article does not ask how typical that is.
+
+## Note of 2026-10-27: how the units are computed, now held
+
+"What this does not say" puts the circuit and the hand-written
+reimplementation "in a later article, not read". That article, *Curve
+Circuits*, was registered and read on 2026-10-27, at the owner's request ("file the next readings"), as
+LIT-tmpl1s2e (NOTE-tmphb6el). How these ten units are computed from
+mixed3a, the echo edit and the reimplementation are THEORY-tmp90225, a
+separate account that this one leaves to it. *An Overview of Early Vision
+in InceptionV1*, LIT-tmp6ii6u, read the same day, confirms that the family
+is 10 of mixed3b's 480 units (THEORY-tmpjdph0). Nothing in either
+contradicts what is measured here. The title and status are unchanged.

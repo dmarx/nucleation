@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmppc921
 title: 'In the finite beta–Bernoulli feature model with prevalences Beta(α/K, 1), the expected number of occupied features among N objects is K(1 − (α/K)B(α/K, N + 1)), strictly below the Indian buffet process''s αH_N for every finite K and tending to it as K grows, and each object holds Kα/(K + α) features on average rather than α'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,13 @@ history:
     features, the inequality and the numbers are the record's, re-derived
     below step by step and checked numerically, which meets the condition
     for Active under ADR-047 v2.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the stick-breaking construction this account
+    compares against was registered and read on 2026-10-27 (LIT-tmpfhqac);
+    its 8.97 is confirmed exactly (THEORY-tmphvhg6) and the reason given for
+    its closeness qualified. Title and status unchanged.
 tags:
 - probabilistic-modeling
 - mathematical-statistics
@@ -86,3 +93,20 @@ per object.
 - Anything about the posterior. The shortfall is in the prior; with data
   that need more features than the prior expects, the posterior can still
   occupy them, at a prior cost.
+
+## Note of 2026-10-27: the stick-breaking comparison, at its source
+
+The Numbers above compare the finite model with a stick-breaking
+truncation at 16, cited as Teh et al. 2007 and computed by Monte Carlo.
+That paper was registered and read on 2026-10-27, at the owner's request ("file the next readings"), as
+LIT-tmpfhqac (NOTE-tmptxvho). From the construction the expected count
+has a closed form, and at K = 16, N = 12 and α = 3 it is 8.974, with
+2.97 features per object (THEORY-tmphvhg6), which confirms both figures.
+
+"What this does not say" explains the truncation's closeness by its
+keeping "the largest prevalences and drop[ping] only the tail". The tail
+is not empty: in 24% of draws at least one feature beyond the sixteenth
+stick is occupied, and their expected number, 0.34, is the whole gap
+9.31 − 8.97. The comparison stands. The IBP's original paper, LIT-tmp3u0k8,
+read the same day, states αH_N for the limit only, as the review does
+(THEORY-tmpo1cju). The title and status are unchanged.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmplcm41
 title: 'A dynamic beta–Bernoulli latent-feature model of an organization''s members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -23,6 +23,18 @@ history:
     places the sticky term against it with its two THEORYs and their
     caveats, and confirms item 2's numbers. Title, standing and status
     unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    A dated note added on items 1, 3 and 4 and on the model's form: the
+    IBP's original paper, its stick-breaking construction, infinite sparse
+    factor analysis and ICA, factorial HMMs and the beam sampler were
+    registered and read on 2026-10-27 (LIT-tmp3u0k8, LIT-tmpfhqac,
+    LIT-tmpezspt, LIT-tmpkxifq, LIT-tmp0oa8w). Item 1's 8.97 is confirmed
+    exactly and its reason qualified; item 3's "not by the data" is
+    qualified under a prior on the activation; item 4's example is traced to
+    the original; the model per member is a factorial HMM. Title, standing
+    and status unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -49,6 +61,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the quotient test cited as one way to tell a birth from a split, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-454 — Proposed; filed with this case from the same exchange -->
 <!-- inactive-ok-file: THEORY-1004 — Proposed; a reading of the same day, cited for its measure of presence against use -->
+<!-- inactive-ok-file: THEORY-tmptl00j — Proposed; the beam sampler's mixing claim, cited as open -->
 
 # CASE-165: A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs
 
@@ -281,3 +294,63 @@ is the same work, and the record dates it 2008-12-01.
 The paper's printed predictive rules for its sequential buffet are both
 misprinted; the record's reading uses the rules derived from its eq. (6)
 ([NOTE-1199](../notes.d/NOTE-1199.md)). The case is unchanged.
+
+## Note of 2026-10-27 (later): the IBP's originals and the factorial HMM
+
+Five works the infinite factorial HMM names were registered and read on
+2026-10-27, at the owner's request ("file the next readings"). Four bear on this case's items, and
+one on the model's form.
+
+- **Item 1: the 8.97 is exact, and its reason is looser than stated.**
+  Teh, Görür and Ghahramani's stick-breaking construction, LIT-tmpfhqac
+  (NOTE-tmptxvho), gives the expected number of occupied features under a
+  truncation at K sticks in closed form (THEORY-tmphvhg6). At K = 16,
+  N = 12 and α = 3 it is 8.974, and a simulation of 200,000 draws gives
+  8.969 ± 0.006; P(K_N > 16) = 0.0149 is confirmed; per employee the
+  count is 2.97, not 3. Item 1 says that because the buffet "seldom needs
+  more than 16", a stick-breaking truncation at 16 "would be close". What
+  a truncation loses is the features beyond the sixteenth stick, which is
+  not the same event: in 24% of draws at least one of them is occupied,
+  and their expected number, 0.34, is exactly the gap 9.31 − 8.97. The
+  conclusion "close" (3.6% short, against the finite model's 27%) stands.
+  At the same K = 16, the finite model (6.83, THEORY-999) and the
+  truncated construction (8.97) are different priors, and T23's is the
+  finite one.
+- **Item 3: "not by the data" holds with the activation fixed.**
+  Knowles and Ghahramani's infinite sparse factor analysis, LIT-tmpezspt
+  (NOTE-tmpmxqaw), has the same mask-times-value form as B and a. With the
+  value integrated out under its prior, the evidence of a data point for
+  "active" is σ̂·exp(μ̂²/(2σ̂²)), and where the residual has no component
+  along the loading it is σ̂ < 1: the data then favour "not held" over
+  "held and unused", by a factor the prior on the value sets
+  (THEORY-tmpxim6p). So availability is told from activation by the data
+  as well, weakly and only through the prior on a. The paper's own
+  recovered mask shows gaps where the value is zero. Item 4's "B_ck = 1
+  with v_ck = 0 equals B_ck = 0" is the same identity and takes the same
+  qualification under a prior on v. The confounds item 3 lists between
+  features and the private map are untouched.
+- **Item 4: the worked example is the original's.** The photograph
+  demonstration item 4 takes from the review, three of four main features
+  coding an object's absence and three coding "slight differences in the
+  locations", is first reported in the same words in Griffiths and
+  Ghahramani's NIPS paper, LIT-tmp3u0k8 (NOTE-tmpit34t), §3 and the
+  caption of its Figure 3. The point stands on the original.
+- **The model per member is a factorial HMM.** With each B_ek a two-state
+  chain, u_e = Σ_k B_ek a_ek W_k o + W_e^private o is, for one employee, a
+  factorial hidden Markov model with K binary chains: Ghahramani and
+  Jordan, LIT-tmpkxifq (NOTE-tmp0rtz0), the parametric original that
+  LIT-1577 makes nonparametric. Two things follow. Given the outputs the
+  chains are coupled, which is how item 3's confounds arise. And exact
+  inference costs O(TMK^{M+1}) for M chains of K states: at sixteen
+  binary features, 16·2¹⁷ ≈ 2.1 million terms per employee per day. A fit
+  needs the paper's structured variational approximation or a whole-chain
+  sampler of the beam type (Van Gael, Saatci, Teh and Ghahramani,
+  LIT-tmp0oa8w, NOTE-tmp2597d), whose exactness is THEORY-tmp7bmmi. The
+  case's sticky chains with weakly informative outputs are the regime that
+  paper reports as hardest for single-site Gibbs sampling; its claim of
+  faster mixing is THEORY-tmptl00j, Proposed. The reading also corrects
+  a footnote of Ghahramani and Jordan's: orthogonal features decouple the
+  chains given an observation only under isotropic noise, not under any
+  diagonal covariance.
+
+The case is unchanged: its title, standing and status stand.

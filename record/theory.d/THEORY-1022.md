@@ -18,7 +18,7 @@ promote_when: >-
   visualizations, top-activating examples or synthetic curves cannot settle
   it: they are the evidence it already rests on.
 title: 'The curve units of InceptionV1''s mixed3b detect curves as such: curves, not correlated stimuli, cause their firing, they respond to curves in general whatever their colour, fill or texture, and they have no meaningful secondary function, their weak responses to edges and angles being part of the same curve-detecting algorithm, as Cammarata, Goh, Carter, Schubert, Petrov and Olah claim'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -27,6 +27,12 @@ history:
     THEORY-1028 leaves out (ADR-047 v4). The authors grade their
     purity evidence themselves: any secondary function "would need to be
     rare", and the mechanistic support is promised for the next article.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the next article, which the text calls not held, was
+    registered and read on 2026-10-27 as LIT-tmpl1s2e (Curve Circuits).
+    Neither promote_when condition is met, and the account stays Proposed.
 tags:
 - representation-learning
 date: '2026-10-27'
@@ -44,6 +50,7 @@ summary: >-
   of its contribution to expected value, are not shown to be curves.
 ---
 <!-- inactive-ok-file: THEORY-1013 — Proposed; the general account this case would serve, cited as open -->
+<!-- inactive-ok-file: THEORY-tmpxjvwo — Proposed; the Curve Circuits authors' claim of a readable algorithm, cited as open -->
 # THEORY-1022: The curve units of InceptionV1's mixed3b detect curves as such: curves, not correlated stimuli, cause their firing, they respond to curves in general whatever their colour, fill or texture, and they have no meaningful secondary function, their weak responses to edges and angles being part of the same curve-detecting algorithm, as Cammarata, Goh, Carter, Schubert, Petrov and Olah claim
 
 ## Source
@@ -91,3 +98,28 @@ expected value that is not curves or imperfect curves is not explained.
 ## What would confirm or reject it
 
 The promote_when above.
+
+## Note of 2026-10-27: Curve Circuits, read
+
+"What the record holds toward it" says of the article that promises the
+mechanism: "That article is not held." It was registered and read on
+2026-10-27, at the owner's request ("file the next readings"), as *Curve Circuits*, LIT-tmpl1s2e
+(NOTE-tmphb6el). What it shows is THEORY-tmp90225, and the authors'
+claim of a simple, readable algorithm is THEORY-tmpxjvwo, Proposed.
+
+Neither condition of the promote_when is met.
+
+- **The weak firings are not accounted for.** The hand-written
+  reimplementation is compared with the natural units on synthetic
+  curves, on strong dataset examples and by its weights, by figures only.
+  It is not compared on weak firings, it is grayscale, and the authors
+  expect "many false-negatives".
+- **No intervention shows curve use downstream.** Substituting the
+  reimplementation for the ten units recovered 26 of the 46 top-5
+  classifications lost by deleting them, on 2,000 images, a result the
+  authors call preliminary. That is an intervention on accuracy, not one
+  showing that downstream units read the curve units' output as curve
+  evidence. The downstream use is described, not measured, and its
+  sentence names mixed3b groups as mixed4a's (NOTE-tmphb6el).
+
+The account stays Proposed. Its status and title are unchanged.
