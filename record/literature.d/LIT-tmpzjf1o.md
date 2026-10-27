@@ -1,0 +1,44 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-26, "About the Chagossians". No NOTE is filed.
+title: 'How a plantation became paradise: changing representations of the homeland among displaced Chagos islanders'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-27: Laura Jeffery, Journal of the Royal Anthropological Institute, 16 November 2007. The summary follows what the work is
+    standardly cited for and the exchange's description; a reading should
+    check it first.
+tags:
+- social-science
+- society-and-governance
+date: '2026-10-27'
+published: '2007-11-16'
+doi: '10.1111/j.1467-9655.2007.00466.x'
+first_author: 'Jeffery'
+keywords:
+- 'Chagos islanders'
+- 'homeland'
+- 'displacement'
+- 'song'
+- 'representation'
+implementations: []
+summary: >-
+  Jeffery (2007). Compares songs composed in Chagos with songs composed in exile, and reads how a plantation society came to be represented as a lost paradise in a standardized collective narrative that helped political mobilization; as the exchange reported it, the standardization also complicated legal claims.
+reports:
+- CASE-tmpelq9w
+---
+
+# LIT-tmpzjf1o: How a plantation became paradise: changing representations of the homeland among displaced Chagos islanders
+
+Jeffery, L. (2007). How a plantation became paradise: changing representations of the homeland among displaced Chagos islanders. *Journal of the Royal Anthropological Institute*. doi:10.1111/j.1467-9655.2007.00466.x.
+
+Not read. The summary is drawn from what the work is standardly cited
+for and from the exchange's description of it. A reading should check it
+first.
+
+## Why this is here
+
+A3 rested two points of [CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md) on it: that historical continuity and functional resemblance come apart (songs in exile differ from songs on the islands and still descend from them), and that a narrative kept for mobilization can lose fidelity for another task, which A3 called "almost a direct historical analogue" of the record's task-relative transport ([CLAIM-115](../claims.d/CLAIM-115.md)). Both are the exchange's reading until this is read.

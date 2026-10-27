@@ -36,6 +36,8 @@ complements:
 - CLAIM-161
 - CLAIM-280
 - CLAIM-421
+uses:
+- TERM-tmpoy9w4
 summary: >-
   A6 §7 and A10 §4.3. A6 separated activation continuity, organizational
   continuity and policy continuity, and put identity in the second: "A

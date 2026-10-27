@@ -61,6 +61,8 @@ complements:
 works:
 - organization-of-perspective
 - character-that-changed-parties
+uses:
+- TERM-tmpoy9w4
 summary: >-
   A5, A8 and A9 of the exchange of 2026-10-16. A9 §9 separated three
   persistences that dissociate: state persistence (a variable changes

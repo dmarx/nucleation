@@ -33,6 +33,8 @@ complements:
 works:
 - organization-of-perspective
 - character-that-changed-parties
+uses:
+- TERM-tmpoy9w4
 summary: >-
   From the owner's U38 of the exchange of 2026-10-22, corrected. The owner
   contrasted "immortality" through positive influence that reinforces

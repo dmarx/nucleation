@@ -18,6 +18,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 answers:
 - QUESTION-021
+uses:
+- TERM-tmpoy9w4
 summary: >-
   A52 §13.5 with A50 §7, recovered. A50 called the point that "the act
   of translation changes the conditions for subsequent translation"

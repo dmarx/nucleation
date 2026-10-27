@@ -47,6 +47,9 @@ summary: >-
   [CLAIM-152](CLAIM-152.md) gives the relativity; this claim adds that relativity is not
   arbitrariness. It answers [QUESTION-065](../questions.d/QUESTION-065.md) in part. It does not say which
   criterion is right.
+illustrated_by:
+- CASE-tmprc3on
+- CASE-tmps5qp3
 ---
 <!-- inactive-ok-file: CLAIM-363 CLAIM-348 CLAIM-174 CLAIM-195 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
 
