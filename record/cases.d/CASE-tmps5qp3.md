@@ -14,6 +14,7 @@ illustrates:
 - CLAIM-328
 - CLAIM-410
 - CLAIM-405
+- CLAIM-tmpcwl5o
 summary: >-
   The owner's case, U5 and U6 of the exchange of 2026-10-26: "examine the
   case of the US Institute for Peace through the lens of our framework",

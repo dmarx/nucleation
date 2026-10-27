@@ -13,6 +13,7 @@ line: distributed-agency
 illustrates:
 - CLAIM-421
 - CLAIM-060
+- CLAIM-tmpcwl5o
 summary: >-
   The owner's case, U4 of the exchange of 2026-10-26: "the full breadth of
   the harms incurred by the actions of the DOGE project, and the trump
@@ -69,7 +70,8 @@ exchange's:
   unrecoverable", and "If a doctoral student leaves research because a
   laboratory closes, reinstating a grant later does not necessarily bring
   the student back." Fiscal, organizational and scientific restoration are
-  three outcomes. [CASE-111](CASE-111.md) is the formal possibility; A4: "The empirical
+  three outcomes. [CASE-111](CASE-111.md) is the formal possibility, and CLAIM-tmpcwl5o the claim
+  drawn from it; A4: "The empirical
   challenge is to establish whether particular systems exhibit such path
   dependence, rather than merely labeling any slow recovery as hysteresis",
   which is [THEORY-136](../theory.d/THEORY-136.md)'s caution.
