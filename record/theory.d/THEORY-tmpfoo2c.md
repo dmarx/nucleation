@@ -40,7 +40,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Tobiasson, Luo, Wolf & Koonin (2026), LIT-1558, read in NOTE-tmppkn6v.
+  Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md).
   In 4,290 well-resolved eukaryotic–prokaryotic clusters, Asgard takes
   50% of likelihood weight and leads in almost every functional class.
   Alphaproteobacteria account for mitochondrial translation, oxidative
@@ -56,8 +56,8 @@ summary: >-
 
 ## Source
 
-Tobiasson, Luo, Wolf & Koonin (2026), *Nature* 650: 141–149, LIT-1558, read
-in full in NOTE-tmppkn6v from the PubMed Central copy (PMC12872458). The
+Tobiasson, Luo, Wolf & Koonin (2026), *Nature* 650: 141–149, [LIT-1558](../literature.d/LIT-1558.md), read
+in full in [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md) from the PubMed Central copy (PMC12872458). The
 sections "Origins of eukaryotic proteins" through "Sparse contributions from
 other bacteria", the Discussion, Methods, Figures 1, 2 and 4, and Extended
 Data Figures 1–9, read from captions.
@@ -114,7 +114,7 @@ Myxococcota signal it did not.
 - **Not a timing result.** That the cytoskeleton and endomembranes evolved
   in the Asgard lineage before the mitochondrion is the scenario the
   composition is "most compatible with". The paper times nothing, and
-  argues that stem lengths cannot (THEORY-tmpbinho).
+  argues that stem lengths cannot ([THEORY-tmpbinho](THEORY-tmpbinho.md)).
 - **Not robust to the sampling the authors flag.** They allow that better
   sampling "might lead to a substantial modification of the model". They
   also allow that the Myxococcota signal may be only "part of a principal
@@ -122,7 +122,7 @@ Myxococcota signal it did not.
 
 ## Connections
 
-- **THEORY-tmphywi5 (Bernabeu et al.): rival on two points, compatible on
+- **[THEORY-tmphywi5](THEORY-tmphywi5.md) (Bernabeu et al.): rival on two points, compatible on
   two.** Rival on whether the non-alphaproteobacterial genes are diffuse or
   form a few major donors' waves, and on the size of the Asgard share. On
   the first, Tobiasson et al. say the other's larger bacterial signal may
@@ -130,16 +130,16 @@ Myxococcota signal it did not.
   construction". Compatible on a mitochondrion acquired late and on
   bacterial genes arriving before it. Neither can show what kind of
   interaction moved the genes.
-- **THEORY-tmpyr6q4 (Santana-Molina et al.): compatible, with a tension.**
+- **[THEORY-tmpyr6q4](THEORY-tmpyr6q4.md) (Santana-Molina et al.): compatible, with a tension.**
   Both find the alphaproteobacterial contribution mitochondrial. In central
   carbon metabolism, that paper counts more alphaproteobacterial than Asgard
   enzymes (17 to six), against this paper's Asgard lead across "large parts
   of the core metabolic network". The measures differ.
-- **THEORY-tmpbinho**, from the same paper, is why this one makes no timing
+- **[THEORY-tmpbinho](THEORY-tmpbinho.md)**, from the same paper, is why this one makes no timing
   claim of its own.
-- **LIT-1566 (Kay et al., unread).** The record summarizes it as a complex
+- **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., unread).** The record summarizes it as a complex
   archaeal host before a late mitochondrion. That is this paper's scenario,
   not its rival.
-- **QUESTION-277.** It bears on G: on this account the host lineage supplies
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** It bears on G: on this account the host lineage supplies
   nearly every essential function except the mitochondrion's energy and
   Fe–S machinery. It does not bear on D, R, C or S.

@@ -32,7 +32,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Imachi et al. (2020), LIT-1591, read in NOTE-tmpeb08c. Partner
+  Imachi et al. (2020), [LIT-1591](../literature.d/LIT-1591.md), read in [NOTE-tmpeb08c](../notes.d/NOTE-tmpeb08c.md). Partner
   inhibitors impair MK-D1's growth, added hydrogen or formate stops it,
   and it grows with either of two methanogens, so its dependence is on a
   service that several partners can supply. Cryo-EM and TEM show no
@@ -48,8 +48,8 @@ summary: >-
 
 ## Source
 
-Imachi et al. (2020), *Nature* 577: 519–525, LIT-1591, read in full in
-NOTE-tmpeb08c from the PubMed Central copy of the version of record.
+Imachi et al. (2020), *Nature* 577: 519–525, [LIT-1591](../literature.d/LIT-1591.md), read in full in
+[NOTE-tmpeb08c](../notes.d/NOTE-tmpeb08c.md) from the PubMed Central copy of the version of record.
 "Isolation of an Asgard archaeon", "Cell biology, physiology and
 metabolism", "Extant and ancestral features", "New insights into
 eukaryogenesis", the Methods, the captions of Figures 1–5, and Extended
@@ -101,17 +101,17 @@ from genomes expected. It did not.
 
 ## Connections
 
-- **QUESTION-277.** This gives the eukaryogenesis case a stage before
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** This gives the eukaryogenesis case a stage before
   any endosymbiosis: a host lineage with high D toward a guild of
   partners, and no R or C. E3's endogenization step is a G route by
   host-side loss of a redundant function. Both readings are mine.
-- **THEORY-1048.** The Black Queen route is loss of a costly, leaky
+- **[THEORY-1048](THEORY-1048.md).** The Black Queen route is loss of a costly, leaky
   function others supply. E3's host-side loss of 2-oxoacid catabolism
   is loss of a function the symbiont supplies, inside a partnership and
   through a dedicated carrier. The comparison is mine.
-- **LIT-1566 (THEORY-tmp5wptr).** Kay et al. infer a host already
+- **[LIT-1566](../literature.d/LIT-1566.md) ([THEORY-tmp5wptr](THEORY-tmp5wptr.md)).** Kay et al. infer a host already
   elaborating its cytoskeleton and endomembranes before the
   mitochondrion. They cite this isolate as prokaryote-like in size and
   complexity and do not take it as contrary evidence.
-- **LIT-1597.** The hydrogen hypothesis shares the word "syntrophy" and
+- **[LIT-1597](../literature.d/LIT-1597.md).** The hydrogen hypothesis shares the word "syntrophy" and
   little else with this model.

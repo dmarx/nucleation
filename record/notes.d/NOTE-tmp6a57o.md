@@ -179,8 +179,8 @@ splitting worse".
 ## Connections
 
 The splitting itself comes from the authors' earlier papers: *Tettigades*
-(refs 19, 22: LIT-1563, LIT-1586) and *Magicicada* (refs 20, 21:
-LIT-1612, LIT-1602), all filed and all Unfetched. Background stated here
+(refs 19, 22: [LIT-1563](../literature.d/LIT-1563.md), [LIT-1586](../literature.d/LIT-1586.md)) and *Magicicada* (refs 20, 21:
+[LIT-1612](../literature.d/LIT-1612.md), [LIT-1602](../literature.d/LIT-1602.md)), all filed and all Unfetched. Background stated here
 from them: *Tettigades* has one to six lineages; the seven *Magicicada*
 species have "possibly dozens"; splitting began within the last about 4
 million years in *Tettigades* and over 5 to 20 million in *Magicicada*.
@@ -194,7 +194,7 @@ among symbionts is cited to refs 48–51 and is not tested here.
 
 ## Bearing on the record
 
-- **CASE-177.** The case's last bullet and summary come from this
+- **[CASE-177](../cases.d/CASE-177.md).** The case's last bullet and summary come from this
   paper's abstract. Corrections:
   - "Eggs still receive the full set, because hosts with more complex
     Hodgkinia transmit up to six times as many cells." The full set was
@@ -212,7 +212,7 @@ among symbionts is cited to refs 48–51 and is not tested here.
     It maintains R; it does not raise it. And the authors suggest that
     the same response may lower host control (C) and raise selection
     among symbionts (S).
-- **QUESTION-277.** Host compensation, the route the exchange named
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** Host compensation, the route the exchange named
   without a source, is here a change in one number, the titre, with the
   mechanism unchanged. It moves:
   - **R**: kept, not increased, by the host;
@@ -224,20 +224,20 @@ among symbionts is cited to refs 48–51 and is not tested here.
     control that the host can exert". If so, compensation that saves R
     erodes S, and the dimensions trade off. The inference from the
     authors' speculation to the dimensions is mine.
-- **THEORY-1049.** The authors write that "even the largest Hodgkinia
+- **[THEORY-1049](../theory.d/THEORY-1049.md).** The authors write that "even the largest Hodgkinia
   genome no longer encodes the machinery to make its own membranes, the
   host must define Hodgkinia's envelope", and draw from it that the host
   could, in principle, sort lineages. That is the tipping-point argument
   turned toward control of transmission. Nothing here tests it.
-- **THEORY-1051.** The model's one-symbiont collectives cannot hold a
+- **[THEORY-1051](../theory.d/THEORY-1051.md).** The model's one-symbiont collectives cannot hold a
   split symbiont. But this paper reports a related quantity: mothers pass
   their own lineage proportions to their eggs, so the composition of the
   symbiont community is inherited at the host level. The comparison is
   mine.
-- **CASE-173.** Table 1 gives *Buchnera* counts in aphid eggs (886 to
+- **[CASE-173](../cases.d/CASE-173.md).** Table 1 gives *Buchnera* counts in aphid eggs (886 to
   8,223 across three species, from earlier work), far fewer than in
   cicadas.
-- Filed as THEORY-tmpjel7l. No instruction for machine-learning practice.
+- Filed as [THEORY-tmpjel7l](../theory.d/THEORY-tmpjel7l.md). No instruction for machine-learning practice.
 
 ## Limitations
 

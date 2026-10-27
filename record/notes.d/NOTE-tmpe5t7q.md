@@ -59,7 +59,7 @@ Planctomycetota. It adds viruses as a route: giant viruses
 eukaryotic lineage. It then orders the donors in time with stem lengths
 and infers each donor's likely metabolism from its living relatives. It is
 the current statement of the Gabaldón group's "premitochondrial symbioses"
-hypothesis, continuing Pittis and Gabaldón 2016 (LIT-1595).
+hypothesis, continuing Pittis and Gabaldón 2016 ([LIT-1595](../literature.d/LIT-1595.md)).
 
 ## Key insight
 
@@ -212,10 +212,10 @@ parasitic, and so on)".
 
 ## Connections
 
-- **Pittis and Gabaldón 2016** (LIT-1595, unread here). Its stem-length
+- **Pittis and Gabaldón 2016** ([LIT-1595](../literature.d/LIT-1595.md), unread here). Its stem-length
   method is reused here, now in a Bayesian frame, with a study of taxon sampling
   (Bernabeu, Manzano-Morales & Gabaldón 2024) cited in its support. Tobiasson et
-  al. (LIT-1558, read in NOTE-tmppkn6v) test the same method and find that
+  al. ([LIT-1558](../literature.d/LIT-1558.md), read in [NOTE-tmppkn6v](NOTE-tmppkn6v.md)) test the same method and find that
   stem length behaves mainly like something other than time.
 - **Tobiasson et al.** The two papers thank each other's authors. Tobiasson
   et al. cite this work's first preprint and attribute its "far greater
@@ -228,19 +228,19 @@ parasitic, and so on)".
   reduction, but with Planctomycetota as an earlier contributor than the
   Myxococcota host that model proposes. It finds no hydrogenases in the
   mitochondrial ancestor's relatives, against the hydrogen hypothesis
-  (Martin & Müller, LIT-1597, unavailable here) and the reverse-flow model.
+  (Martin & Müller, [LIT-1597](../literature.d/LIT-1597.md), unavailable here) and the reverse-flow model.
   It notes that both cultured Asgard archaea grow in syntrophy with
-  sulfate-reducing partners. That is the subject of LIT-1591 (Imachi et al.),
+  sulfate-reducing partners. That is the subject of [LIT-1591](../literature.d/LIT-1591.md) (Imachi et al.),
   unread here and not cited by number in the passage.
 
 ## Bearing on the record
 
-- **QUESTION-277 and the "live disagreement".** This is the record's
+- **[QUESTION-277](../questions.d/QUESTION-277.md) and the "live disagreement".** This is the record's
   "distributed" side, and the reading supports that placement with three
   qualifications.
   - **The distribution is of gene donors, not of partners in a collective.**
     The authors grant that "different forms of interactions beyond symbiosis
-    could explain this genetic exchange". A2's caution, kept on LIT-1561,
+    could explain this genetic exchange". A2's caution, kept on [LIT-1561](../literature.d/LIT-1561.md),
     is the authors' own.
   - **It is mitochondrion-late, like Tobiasson et al.** Both papers have
     bacterial genes arriving before the mitochondrion. They differ on how
@@ -259,9 +259,9 @@ parasitic, and so on)".
   was a partner, the question's routes would apply to a partnership the
   record has no case for. The paper does not supply one.
 - **Gene transfer by viruses** is a route to a chimeric genome that involves
-  no partnership at all. It sits outside QUESTION-277's five routes, which
+  no partnership at all. It sits outside [QUESTION-277](../questions.d/QUESTION-277.md)'s five routes, which
   are routes to dependence between partners.
-- Filed as THEORY-tmphywi5. No instruction for machine-learning practice.
+- Filed as [THEORY-tmphywi5](../theory.d/THEORY-tmphywi5.md). No instruction for machine-learning practice.
 
 ## Limitations
 

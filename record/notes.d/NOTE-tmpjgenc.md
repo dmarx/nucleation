@@ -182,19 +182,19 @@ bacterial origins".
 
 It builds on Rochette et al.'s inference of LECA's mixed-origin proteome
 and re-analyses their trees. It cites the Lokiarchaeota genome for the
-host lineage. The relaxed-clock study of Kay et al. (LIT-1566, read in
-NOTE-tmp2el8z) describes this kind of analysis ("gene tree branch
+host lineage. The relaxed-clock study of Kay et al. ([LIT-1566](../literature.d/LIT-1566.md), read in
+[NOTE-tmp2el8z](NOTE-tmp2el8z.md)) describes this kind of analysis ("gene tree branch
 lengths ... normalized by relative evolutionary rates post-LECA") and
 argues that clock models handle rate variation more flexibly. It agrees
 that the mitochondrion came late. It argues against serial
 endosymbiosis, one of the three explanations offered here for the
 chimaeric host, because most non-alphaproteobacterial duplications it
-dates come after the mitochondrion. Bernabeu et al. (LIT-1561) and
-Tobiasson et al. (LIT-1558) are not cited here; the paper predates them.
+dates come after the mitochondrion. Bernabeu et al. ([LIT-1561](../literature.d/LIT-1561.md)) and
+Tobiasson et al. ([LIT-1558](../literature.d/LIT-1558.md)) are not cited here; the paper predates them.
 
 ## Bearing on the record
 
-- **QUESTION-277.** The question names this work for "complexity before
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The question names this work for "complexity before
   the mitochondrion". The reading qualifies that.
   - **What is shown is chimaerism, not complexity.** The paper measures
     when genes were acquired, not when structures existed. "Complex
@@ -226,7 +226,7 @@ Tobiasson et al. (LIT-1558) are not cited here; the paper predates them.
     sampling distance, not time. The inference is mine; the authors'
     halving of alphaproteobacterial sampling tests the bacterial side
     only.
-- Filed as THEORY-tmpckv2l. No instruction for machine-learning
+- Filed as [THEORY-tmpckv2l](../theory.d/THEORY-tmpckv2l.md). No instruction for machine-learning
   practice.
 
 ## Limitations
@@ -255,7 +255,7 @@ Tobiasson et al. (LIT-1558) are not cited here; the paper predates them.
   that many genomes exist?
 - Can a method with an explicit rate model, such as a relaxed clock,
   reproduce the alphaproteobacterial-against-other-bacteria difference?
-  LIT-1566 dates duplications, not acquisitions, so it does not answer
+  [LIT-1566](../literature.d/LIT-1566.md) dates duplications, not acquisitions, so it does not answer
   this.
 - Were the non-alpha bacterial genes brought by partners or by transfer?
   The paper names the options and cannot choose.

@@ -32,7 +32,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Shigenobu et al. (2000), LIT-1596, read in NOTE-tmp82xw1. The first
+  Shigenobu et al. (2000), [LIT-1596](../literature.d/LIT-1596.md), read in [NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md). The first
   complete genome of an obligate insect endosymbiont: 640,681 bp, a
   subset of E. coli's. What is shown is gene content. The interlocking
   of host and symbiont metabolism is inferred from it and from earlier
@@ -48,7 +48,7 @@ summary: >-
 ## Source
 
 Shigenobu, Watanabe, Hattori, Sakaki & Ishikawa (2000), *Nature* 407:
-81–86, LIT-1596, read in full in NOTE-tmp82xw1 from the publisher's free
+81–86, [LIT-1596](../literature.d/LIT-1596.md), read in full in [NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md) from the publisher's free
 PDF. The whole letter, Table 1, the captions of Figures 1–3, and the
 Methods.
 
@@ -88,21 +88,21 @@ sequence shows.
 - **Not that the host controls the symbiont's genes.** The symbiont has
   lost its own regulators. Nothing here shows the host regulating it.
 - **Not how the genome shrank.** The paper names no population-genetic
-  mechanism. Drift and Muller's ratchet are LIT-1573's account, not this
+  mechanism. Drift and Muller's ratchet are [LIT-1573](../literature.d/LIT-1573.md)'s account, not this
   paper's.
 - **Not gene transfer to the host.** The host genome is not studied, so
   transfer in either direction is neither found nor excluded.
 
 ## Connections
 
-- **QUESTION-277.** The clearest worked instance in the record of the
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The clearest worked instance in the record of the
   distribution of essential functions (G) between two genomes, interlocked
   by shared precursors. It shows the symbiont's dependence (D) from gene
   content and asserts the host's. It shows loss of the symbiont's
   self-regulation, which is not yet host control (C).
-- **THEORY-1049.** At 641 kb, *Buchnera* APS has already lost
+- **[THEORY-1049](THEORY-1049.md).** At 641 kb, *Buchnera* APS has already lost
   phospholipid synthesis and almost all of LPS synthesis, while keeping
   fatty-acid, murein and sec genes. So envelope erosion begins above the
   400 kb threshold, which then marks complete loss. The comparison is
   mine.
-- **CASE-173** is the case this account documents.
+- **[CASE-173](../cases.d/CASE-173.md)** is the case this account documents.

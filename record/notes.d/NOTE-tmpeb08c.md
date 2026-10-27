@@ -202,8 +202,8 @@ Asgard superphylum, and on metagenomic proposals of Asgard hydrogen
 metabolism, some of which it contradicts in detail. Its engulfment step
 takes up a "previously proposed alternative route" in which external
 structures enclose a partner. It sets aside hydrogen-transfer models,
-the hydrogen hypothesis among them (LIT-1597, unavailable). Kay et al.
-(LIT-1566, read in NOTE-tmp2el8z) cite this isolate's protrusions and
+the hydrogen hypothesis among them ([LIT-1597](../literature.d/LIT-1597.md), unavailable). Kay et al.
+([LIT-1566](../literature.d/LIT-1566.md), read in [NOTE-tmp2el8z](NOTE-tmp2el8z.md)) cite this isolate's protrusions and
 its prokaryote-like size, and class E3 as "mitochondria intermediate".
 Kay et al. place nFECA as sister to Heimdallarchaeia, not to the Loki
 lineage that MK-D1 belongs to, which agrees with this paper's narrower
@@ -214,7 +214,7 @@ timescales do not fit together. The comparison is mine.
 
 ## Bearing on the record
 
-- **QUESTION-277.** The question registered this work as "the empirical
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The question registered this work as "the empirical
   case for" syntrophy. The reading supports that for the host lineage's
   way of life, with corrections and one new point.
   - **Dependence before endosymbiosis (D).** The host lineage, on this
@@ -229,12 +229,12 @@ timescales do not fit together. The comparison is mine.
   - **A loss route inside the endosymbiosis (G).** E3's endogenization is
     a host-side loss of a redundant function, its own 2-oxoacid
     catabolism, made affordable because the symbiont supplies the
-    product. That resembles the Black Queen route (LIT-1568, NOTE-1212,
-    THEORY-1048), but inside a partnership and with a non-leaky product
+    product. That resembles the Black Queen route ([LIT-1568](../literature.d/LIT-1568.md), [NOTE-1212](NOTE-1212.md),
+    [THEORY-1048](../theory.d/THEORY-1048.md)), but inside a partnership and with a non-leaky product
     passed through a dedicated ATP carrier. The authors propose it; it
     is not shown. The comparison is mine.
   - **Not the hydrogen hypothesis.** The question's later note groups
-    this work with Martin & Müller (LIT-1597) under syntrophy. Imachi et
+    this work with Martin & Müller ([LIT-1597](../literature.d/LIT-1597.md)) under syntrophy. Imachi et
     al. make the host the H₂ producer and say current data favour an
     interaction other than H₂ transfer as the driver of endosymbiosis.
     The two works share the word "syntrophy" and differ on who feeds
@@ -246,11 +246,11 @@ timescales do not fit together. The comparison is mine.
     say the same of cultivated Asgard archaea. One modern relative
     without internal membranes neither shows nor refutes an ancient
     complex host.
-- **NOTE-159.** O'Malley and Parke cite Asgard inferences to doubt that
+- **[NOTE-159](NOTE-159.md).** O'Malley and Parke cite Asgard inferences to doubt that
   eukaryogenesis was primarily a transition in individuality. A host
   whose ancestors lived by dependence on a guild of partners is
   consistent with that doubt. The inference is mine.
-- Filed as THEORY-tmpyig9c. No instruction for machine-learning
+- Filed as [THEORY-tmpyig9c](../theory.d/THEORY-tmpyig9c.md). No instruction for machine-learning
   practice.
 
 ## Limitations
@@ -269,7 +269,7 @@ timescales do not fit together. The comparison is mine.
   not tested, and the supporting arguments sit in supplementary notes
   not read here.
 - **Inconsistent timescale.** The cited 2.1–2.4 Ga for the TACK–Asgard
-  lineage conflicts with later dating of nFECA (LIT-1566).
+  lineage conflicts with later dating of nFECA ([LIT-1566](../literature.d/LIT-1566.md)).
 
 ## Open questions
 

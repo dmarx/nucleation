@@ -210,33 +210,33 @@ a feature of endocellular bacteria (ref. 11) but does not explain it.
 **It does not mention drift, Muller's ratchet, population size or
 transmission bottlenecks.** Its only causal suggestions for loss are the
 "homeostatic environment" and a "prolonged intracellular life, sheltered
-from attack". The drift account in the record comes from LIT-1573,
-Moran 1996, which is not cited here. Pál et al. (LIT-1585, not reached) is registered as simulating
+from attack". The drift account in the record comes from [LIT-1573](../literature.d/LIT-1573.md),
+Moran 1996, which is not cited here. Pál et al. ([LIT-1585](../literature.d/LIT-1585.md), not reached) is registered as simulating
 gene loss on a metabolic network to predict this genome's gene content.
 
 ## Bearing on the record
 
-- **CASE-173.** The case's first paragraph is drawn from this paper's
+- **[CASE-173](../cases.d/CASE-173.md).** The case's first paragraph is drawn from this paper's
   abstract and mostly stands. Four corrections:
   - "So obligate that neither can reproduce independently" is the
     opening sentence, with a citation. This paper does not show it.
   - The paper says nothing about drift or the ratchet. The case's
     "dependence through degradation ... largely by drift" rests on
-    LIT-1573 alone, which is Unfetched.
+    [LIT-1573](../literature.d/LIT-1573.md) alone, which is Unfetched.
   - "Lacks those for the ones it can" needs "almost all": cysteine is
     made.
   - The paper does not look at the host genome, so it could not report
     gene transfer from symbiont to host, and does not. It does raise the
     reverse: host enzymes, or host phospholipid, supplied to the
     symbiont, "like mitochondria do". That is a hypothesis.
-- **THEORY-1049.** *Buchnera* APS, at 641 kb, already lacks phospholipid
+- **[THEORY-1049](../theory.d/THEORY-1049.md).** *Buchnera* APS, at 641 kb, already lacks phospholipid
   synthesis (except cls) and almost all LPS synthesis, and the authors
   already proposed in 2000 that the host supplies membrane lipids. It
   keeps fatty-acid, murein and sec genes. So in this genome envelope
   erosion has begun well above the 400 kb threshold, but the full set is
   not gone. That fits a threshold for complete loss rather than for the
   start of loss. The inference is mine.
-- **QUESTION-277.** On the five dimensions:
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** On the five dimensions:
   - **G** is the paper's subject: essential amino-acid synthesis is split
     between the genomes, and interlocked by shared precursors.
   - **D** is shown for the symbiont only, and only from gene content.
@@ -251,11 +251,11 @@ gene loss on a metabolic network to predict this genome's gene content.
   - The route it documents is reduction from a larger ancestor. The
     paper names no mechanism for it beyond relaxed demands of a
     homeostatic niche.
-- **THEORY-1051.** The paper gives no data on *Buchnera*'s births and
+- **[THEORY-1051](../theory.d/THEORY-1051.md).** The paper gives no data on *Buchnera*'s births and
   deaths inside the host, the variable that model makes decisive. It
   reports polyploidy (over 100 genome copies per cell), from earlier
   work.
-- Filed as THEORY-tmpehubi. No instruction for machine-learning practice.
+- Filed as [THEORY-tmpehubi](../theory.d/THEORY-tmpehubi.md). No instruction for machine-learning practice.
 
 ## Limitations
 
@@ -284,6 +284,6 @@ gene loss on a metabolic network to predict this genome's gene content.
   response to the host's diet would bear on control (C).
 - Is the flagellar basal body a transporter, as suggested?
 - How did *Buchnera* lose so much? The paper's homeostatic-environment
-  suggestion and the drift account of LIT-1573 make different
+  suggestion and the drift account of [LIT-1573](../literature.d/LIT-1573.md) make different
   predictions about which genes go first. The paper does not test
   either.

@@ -35,7 +35,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Tobiasson, Luo, Wolf & Koonin (2026), LIT-1558, read in NOTE-tmppkn6v.
+  Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md).
   They test the stem-length method of Pittis and Gabaldón on their own
   trees and reproduce its mitochondrion-late signal only for long stems.
   Below 0.3, where 70% of stems lie, the order reverses, and genes
@@ -50,7 +50,7 @@ summary: >-
 
 ## Source
 
-Tobiasson, Luo, Wolf & Koonin (2026), LIT-1558, read in full in NOTE-tmppkn6v.
+Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in full in [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md).
 The section "Ancestral stem lengths", Figure 3 and its caption, and Extended
 Data Figure 10b,c, read from captions.
 
@@ -94,7 +94,7 @@ Neither happened on these data.
 
 - **Not that the mitochondrion came early.** The paper still holds that
   "mitochondrial acquisition was a relatively late event", on gene-content
-  grounds (THEORY-tmpfoo2c). It takes away one line of evidence for that
+  grounds ([THEORY-tmpfoo2c](THEORY-tmpfoo2c.md)). It takes away one line of evidence for that
   view, not the view.
 - **Not what does set stem length.** Post-acquisition adaptation is a
   suggestion. Rate variation along branches and unsampled donor lineages
@@ -109,16 +109,16 @@ Neither happened on these data.
 
 ## Connections
 
-- **THEORY-tmphywi5 (Bernabeu et al.): rival.** Its ordering of transfer
+- **[THEORY-tmphywi5](THEORY-tmphywi5.md) (Bernabeu et al.): rival.** Its ordering of transfer
   waves, and its claim that some bacterial transfers preceded the
   mitochondrion, rest on stem lengths read as relative times. If this
   account holds, that ordering is not established by its method.
-- **LIT-1595 (Pittis & Gabaldón 2016, unread).** The method's origin. This
+- **[LIT-1595](../literature.d/LIT-1595.md) (Pittis & Gabaldón 2016, unread).** The method's origin. This
   account reproduces its result only in the regime it mostly sampled.
-- **LIT-1566 (Kay et al., unread).** It times eukaryogenesis by dated gene
+- **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., unread).** It times eukaryogenesis by dated gene
   duplications, a different clock. If its ordering agrees with stem-length
   orderings, that would count against this account. If it agrees with
   gene-content scenarios and not with stem lengths, that would count for it.
-- **QUESTION-277.** The question distinguishes a single merger from a
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The question distinguishes a single merger from a
   sequence of associations. Any sequence needs a clock. This account says
   the clock most used for the purpose is unreliable.

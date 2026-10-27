@@ -35,8 +35,8 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Sørensen, Stiller, Kröninger & Nowack (2025), LIT-1560, read in
-  NOTE-tmpl32gd. Their closing scenario orders the steps from
+  Sørensen, Stiller, Kröninger & Nowack (2025), [LIT-1560](../literature.d/LIT-1560.md), read in
+  [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md). Their closing scenario orders the steps from
   endosymbiont to organelle: effectors first, then dependence through
   one redundant imported protein, then many imported proteins once a
   targeting signal evolves. Rhizobia, targeted by about 700 host peptides
@@ -52,7 +52,7 @@ summary: >-
 ## Source
 
 Sørensen, Stiller, Kröninger & Nowack (2025), *The FEBS Journal*
-292(12): 2992–3013, LIT-1560, read in full in NOTE-tmpl32gd from the
+292(12): 2992–3013, [LIT-1560](../literature.d/LIT-1560.md), read in full in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md) from the
 PubMed Central copy. The rhizobia section's last paragraph, and the
 fourth paragraph of "Conclusions and future directions".
 
@@ -110,7 +110,7 @@ symbiont, or replaced functions with no effector stage anywhere.
 
 ## Connections
 
-- **QUESTION-277, the order of the dimensions.** Translated into the
+- **[QUESTION-277](../questions.d/QUESTION-277.md), the order of the dimensions.** Translated into the
   question's letters (the translation is mine): host control (C, as
   effectors) comes first; dependence (D) follows when a redundant
   imported protein lets the symbiont's gene go; the distribution of
@@ -118,12 +118,12 @@ symbiont, or replaced functions with no effector stage anywhere.
   cohesion (R, vertical transmission) is a condition for the sequence to
   end in an organelle. Rhizobia are high C, no R and no genetic
   integration. This gives the question a definite order to test, and it
-  is the reverse of THEORY-1049's insect picture, where the symbiont's
+  is the reverse of [THEORY-1049](THEORY-1049.md)'s insect picture, where the symbiont's
   losses come first and force host supply.
-- **THEORY-1050 and THEORY-1051.** Athreya et al. model D and R with no
+- **[THEORY-1050](THEORY-1050.md) and [THEORY-1051](THEORY-1051.md).** Athreya et al. model D and R with no
   host control. This scenario makes host control the first step. The two
   are about different stages and do not conflict.
-- **LIT-1605.** Frank's model of host control of transmission, unread,
+- **[LIT-1605](../literature.d/LIT-1605.md).** Frank's model of host control of transmission, unread,
   is the formal counterpart of R as a precondition.
-- **CASE-167.** The nitroplast's host can lose UCYN-A when given nitrogen,
+- **[CASE-167](../cases.d/CASE-167.md).** The nitroplast's host can lose UCYN-A when given nitrogen,
   so the host's dependence stays conditional even at the hundreds stage.

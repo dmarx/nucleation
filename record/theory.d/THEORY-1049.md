@@ -119,8 +119,8 @@ threshold, or scattered across functions, not concerted.
 
 Two readings sharpen what this account rests on.
 
-- **Where the imported proteins are.** Sørensen et al. (LIT-1560, read in
-  NOTE-tmpl32gd) identify the host-encoded proteins seen inside insect
+- **Where the imported proteins are.** Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in
+  [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)) identify the host-encoded proteins seen inside insect
   symbionts:
   - RlpA4 in *Buchnera* (0.64 Mbp);
   - MurF in *Moranella* (0.54 Mbp);
@@ -131,7 +131,7 @@ Two readings sharpen what this account rests on.
   the nearest candidate, and there it is unconfirmed. So host supply in
   tipping-point endosymbionts remains inferred, as "What this does not say"
   states.
-- **Envelope erosion starts early.** The *Buchnera* APS genome (LIT-1596,
-  read in NOTE-tmp82xw1) has already lost phospholipid and LPS synthesis
+- **Envelope erosion starts early.** The *Buchnera* APS genome ([LIT-1596](../literature.d/LIT-1596.md),
+  read in [NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md)) has already lost phospholipid and LPS synthesis
   at 641 kb. That is consistent with this account's remark that envelope
   erosion begins in larger genomes, and that 400 kb marks complete loss.

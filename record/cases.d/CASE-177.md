@@ -75,7 +75,7 @@ abstracts until they are read.
 
 ## Note of 2026-10-27 (batch 2): the transmission paper read in full
 
-LIT-1590 has been read in full (NOTE-tmp6a57o, THEORY-tmpjel7l).
+[LIT-1590](../literature.d/LIT-1590.md) has been read in full ([NOTE-tmp6a57o](../notes.d/NOTE-tmp6a57o.md), [THEORY-tmpjel7l](../theory.d/THEORY-tmpjel7l.md)).
 Corrections to "The host's cost" and "What it can show":
 
 - **The six-fold rise is one species.** It compares *M. septendecim*

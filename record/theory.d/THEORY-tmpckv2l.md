@@ -34,7 +34,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Pittis & Gabaldón (2016), LIT-1595, read in NOTE-tmpjgenc. Of 1,078
+  Pittis & Gabaldón (2016), [LIT-1595](../literature.d/LIT-1595.md), read in [NOTE-tmpjgenc](../notes.d/NOTE-tmpjgenc.md). Of 1,078
   LECA families, bacterial ones have shorter normalized stems than
   archaeal ones (P = 1.38e-25), and alphaproteobacterial ones shorter
   than other bacterial ones (P = 0.044). Origin tracks location:
@@ -51,8 +51,8 @@ summary: >-
 
 ## Source
 
-Pittis & Gabaldón (2016), *Nature* 531: 101–104, LIT-1595, read in full
-in NOTE-tmpjgenc from the PubMed Central author manuscript (PMC4780264),
+Pittis & Gabaldón (2016), *Nature* 531: 101–104, [LIT-1595](../literature.d/LIT-1595.md), read in full
+in [NOTE-tmpjgenc](../notes.d/NOTE-tmpjgenc.md) from the PubMed Central author manuscript (PMC4780264),
 not the version of record. The main text, the Methods ("Measurement of
 the phylogenetic distance ...: stem lengths" above all), Table 1, and
 the captions of Figures 1–3 and Extended Data Figures 1–8.
@@ -108,11 +108,11 @@ narrow.
 
 ## Connections
 
-- **QUESTION-277.** It bears on whether eukaryogenesis was one merger or
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** It bears on whether eukaryogenesis was one merger or
   a sequence. It is evidence that genes from several bacterial sources
   reached the host lineage before the mitochondrion, by partners or by
   transfer. It does not address D, R, C or S.
-- **LIT-1566 (THEORY-tmp5wptr).** Kay et al. agree that the
+- **[LIT-1566](../literature.d/LIT-1566.md) ([THEORY-tmp5wptr](THEORY-tmp5wptr.md)).** Kay et al. agree that the
   mitochondrion came late, by dating duplications with a relaxed clock.
   They find most non-alphaproteobacterial duplications after the
   mitochondrion and argue against serial endosymbiosis. Duplication is

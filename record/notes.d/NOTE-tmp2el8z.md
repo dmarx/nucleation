@@ -52,7 +52,7 @@ summary: >-
 ## Contribution
 
 It puts absolute dates on the order in which eukaryotic features were
-assembled. Earlier work (Pittis & Gabaldón, LIT-1595, among it) ordered
+assembled. Earlier work (Pittis & Gabaldón, [LIT-1595](../literature.d/LIT-1595.md), among it) ordered
 events by the relative lengths of gene-tree branches. This paper dates
 individual duplication nodes with a relaxed clock. It carries time
 information from a dated species tree of archaea, bacteria and
@@ -162,7 +162,7 @@ subunits, nuclear-targeted paralogues) were already duplicating. Hence
   paralogues fall in 2.86–2.08 Ga. The authors note that localization
   signals "might have evolved before the nuclear compartment".
 - **Scenarios (Fig. 5, Discussion).**
-  - Mitochondria-early (the hydrogen hypothesis, LIT-1597) is rejected.
+  - Mitochondria-early (the hydrogen hypothesis, [LIT-1597](../literature.d/LIT-1597.md)) is rejected.
   - Serial endosymbiosis is argued against, because most non-alphaproteobacterial
     genes duplicate after the mitochondrion.
   - Phagocytosis is left open: "our results do not allow us to
@@ -207,7 +207,7 @@ subunits, nuclear-targeted paralogues) were already duplicating. Hence
 - **Mitochondria-early, -intermediate, -late**: the authors' grouping of
   scenarios. Early: the hydrogen hypothesis. Late: the phagocytosing
   archaeon, syntrophy and serial endosymbiosis. Intermediate: reverse
-  flow, inside-out and E3 (LIT-1591's model).
+  flow, inside-out and E3 ([LIT-1591](../literature.d/LIT-1591.md)'s model).
 - **CALM**: "complexified archaeon, late mitochondrion", the class of
   models consistent with the results.
 
@@ -216,7 +216,7 @@ subunits, nuclear-targeted paralogues) were already duplicating. Hence
 The authors place their method against branch-length studies that
 "used gene tree branch lengths, expressed in number of substitutions per
 site and normalized by relative evolutionary rates post-LECA". That is
-the method of Pittis & Gabaldón (LIT-1595, read in NOTE-tmpjgenc). The
+the method of Pittis & Gabaldón ([LIT-1595](../literature.d/LIT-1595.md), read in [NOTE-tmpjgenc](NOTE-tmpjgenc.md)). The
 paper reaches the same order for the mitochondrion. It disagrees on what
 came before. Pittis & Gabaldón infer a host already chimaeric with
 non-alphaproteobacterial genes, and list serial symbioses among the
@@ -226,18 +226,18 @@ measure different things (duplication against acquisition), so the
 disagreement is partial. The comparison is mine.
 
 On Asgard cell biology the paper cites the cultivated isolate of
-LIT-1591 (read in NOTE-tmpeb08c): cytoskeleton-supported protrusions,
+[LIT-1591](../literature.d/LIT-1591.md) (read in [NOTE-tmpeb08c](NOTE-tmpeb08c.md)): cytoskeleton-supported protrusions,
 but "in terms of overall size and complexity, the Asgard archaea
 cultivated so far resemble typical prokaryotes". It classes E3, that
 paper's model, as mitochondria-intermediate and consistent with early
-cytoskeletal development. It counts the hydrogen hypothesis (LIT-1597)
-as mitochondria-early and rejected. Tobiasson et al. (LIT-1558),
-Bernabeu et al. (LIT-1561) and Santana-Molina et al. (LIT-1564) are not
+cytoskeletal development. It counts the hydrogen hypothesis ([LIT-1597](../literature.d/LIT-1597.md))
+as mitochondria-early and rejected. Tobiasson et al. ([LIT-1558](../literature.d/LIT-1558.md)),
+Bernabeu et al. ([LIT-1561](../literature.d/LIT-1561.md)) and Santana-Molina et al. ([LIT-1564](../literature.d/LIT-1564.md)) are not
 cited in the text read here.
 
 ## Bearing on the record
 
-- **QUESTION-277, eukaryogenesis as a test.** The question set this
+- **[QUESTION-277](../questions.d/QUESTION-277.md), eukaryogenesis as a test.** The question set this
   paper as the "late mitochondrion after a complex host" programme. The
   reading bears that out, with two refinements.
   - **It speaks to one endosymbiotic partner, not a sequence.** The
@@ -257,16 +257,16 @@ cited in the text read here.
   - **Nothing on D, R or S.** The paper does not address when partners
     became dependent, when they reproduced together, or conflict between
     them.
-- **NOTE-159.** O'Malley and Parke report inferences placing the
+- **[NOTE-159](NOTE-159.md).** O'Malley and Parke report inferences placing the
   mitochondrion "late" and question whether eukaryogenesis was "driven
   primarily by a transformation in individuality". This paper is one of
   those inferences, dated. It supports the premise. It is silent on
   individuality.
-- **THEORY-141.** No bearing on selection levels. A host that
+- **[THEORY-141](../theory.d/THEORY-141.md).** No bearing on selection levels. A host that
   complexified for about half a billion years before the endosymbiosis is
   a case where much of the new cell's machinery owes nothing to the
   collective. The inference is mine.
-- Filed as THEORY-tmp5wptr. No instruction for machine-learning
+- Filed as [THEORY-tmp5wptr](../theory.d/THEORY-tmp5wptr.md). No instruction for machine-learning
   practice.
 
 ## Limitations

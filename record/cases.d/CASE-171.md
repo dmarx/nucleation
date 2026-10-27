@@ -86,12 +86,12 @@ make.
 
 ## Note of 2026-10-27 (batch 2): the imported protein is in *Moranella*
 
-Sørensen et al. (LIT-1560, read in NOTE-tmpl32gd) identify the
+Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)) identify the
 host-encoded protein seen in a mealybug endosymbiont. It is MurF, in
 *Moranella* (genome 0.54 Mbp), not in *Tremblaya*. The note above
 mentioned it beside *Tremblaya*'s tipping-point envelope, and could be
 read as placing it there. So the host supplies *Tremblaya*'s envelope,
-transport and translation on THEORY-1049's account only. No protein import
+transport and translation on [THEORY-1049](../theory.d/THEORY-1049.md)'s account only. No protein import
 into *Tremblaya*, or into any symbiont below 200 kb, has been shown. The
 nearest case the review names is *Nardonella* (0.20–0.23 Mbp), where
 import is unconfirmed.

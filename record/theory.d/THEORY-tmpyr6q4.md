@@ -34,8 +34,8 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Santana-Molina, Williams, Snel & Spang (2025), LIT-1564, read in
-  NOTE-tmphab0m. LECA had a complete central carbon metabolism. Six enzymes
+  Santana-Molina, Williams, Snel & Spang (2025), [LIT-1564](../literature.d/LIT-1564.md), read in
+  [NOTE-tmphab0m](../notes.d/NOTE-tmphab0m.md). LECA had a complete central carbon metabolism. Six enzymes
   are placed with Asgard archaea, mostly cytosolic (bootstrap 39–97%, two
   ambiguous). Seventeen are alphaproteobacterial, ten of them in the TCA
   cycle, mostly mitochondrial. Others come from several bacteria, none
@@ -51,7 +51,7 @@ summary: >-
 ## Source
 
 Santana-Molina, Williams, Snel & Spang (2025), *Nature Ecology & Evolution*
-9(4): 613–627, LIT-1564, read in full in NOTE-tmphab0m from the PubMed
+9(4): 613–627, [LIT-1564](../literature.d/LIT-1564.md), read in full in [NOTE-tmphab0m](../notes.d/NOTE-tmphab0m.md) from the PubMed
 Central copy (PMC11976288). The Results, the Discussion, Methods, Figures 1–5
 and Extended Data Figures 1–7, read from captions.
 
@@ -108,23 +108,23 @@ and compartments. In the main they are not.
 
 ## Connections
 
-- **THEORY-tmpfoo2c (Tobiasson et al.): compatible, with a tension.** Both
+- **[THEORY-tmpfoo2c](THEORY-tmpfoo2c.md) (Tobiasson et al.): compatible, with a tension.** Both
   find the alphaproteobacterial share centred on the mitochondrion.
   Tobiasson et al. find Asgard leading across most of metabolism, and this
   paper counts more alphaproteobacterial enzymes in carbon metabolism. The
   measures differ.
-- **THEORY-tmphywi5 (Bernabeu et al.): compatible on the presence of the
+- **[THEORY-tmphywi5](THEORY-tmphywi5.md) (Bernabeu et al.): compatible on the presence of the
   other donors, rival on their rank.** The phyla Bernabeu et al. call major
   donors appear here as sisters to a few enzymes. This paper finds no third
   dominant donor. Sixty-four families is too few to rank donors, so the
   rivalry is weak. The two also differ on whether LECA had POR (PFO).
-- **LIT-1597 (Martin & Müller 1998, unavailable).** This paper sets its
+- **[LIT-1597](../literature.d/LIT-1597.md) (Martin & Müller 1998, unavailable).** This paper sets its
   archaeal contributions against "the hypothesis that ... the archaeal host
   metabolism was replaced by counterparts from the endosymbiont", citing
   that work. On the paper's evidence, the replacement was partial.
-- **LIT-1591 (Imachi et al. 2020, unread).** Cited among the syntrophy models
+- **[LIT-1591](../literature.d/LIT-1591.md) (Imachi et al. 2020, unread).** Cited among the syntrophy models
   this paper supports.
-- **QUESTION-277.** It bears on G (functions split between partner genomes by
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** It bears on G (functions split between partner genomes by
   origin, now all nuclear) and on C (host-derived enzymes imported into the
   mitochondrion). In plastids it suggests that host compensation may
   promote symbiont gene loss. It bears on D only through the syntrophy

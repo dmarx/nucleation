@@ -38,8 +38,8 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón (2026), LIT-1561, read
-  in NOTE-tmpe5t7q. Under thresholds chosen to maximize assignments to
+  Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón (2026), [LIT-1561](../literature.d/LIT-1561.md), read
+  in [NOTE-tmpe5t7q](../notes.d/NOTE-tmpe5t7q.md). Under thresholds chosen to maximize assignments to
   Alphaproteobacteria and Asgard, Myxococcota (3.92% of the proteome) and
   Planctomycetota (2.24%) pass in every dataset, beside Alphaproteobacteria
   (3.99%) and Asgard (3.28%). A control removing Alphaproteobacteria from
@@ -56,7 +56,7 @@ summary: >-
 ## Source
 
 Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón (2026), *Nature* 656:
-399–405, LIT-1561, read in full in NOTE-tmpe5t7q from the PubMed Central copy
+399–405, [LIT-1561](../literature.d/LIT-1561.md), read in full in [NOTE-tmpe5t7q](../notes.d/NOTE-tmpe5t7q.md) from the PubMed Central copy
 (PMC13468126). The sections "Determining the ancestries of LECA" and "Donor
 relative timing and metabolism", the Discussion, Methods ("Stress test",
 "Verticality test", "Inferring the acquisition waves"), Figures 2–3 and
@@ -111,7 +111,7 @@ in dispute.
   Tobiasson et al. propose, and which would also leave a donor signal.
   The inference is mine.
 - **Not a timing result independent of stem length.** If stem length is not
-  a clock (THEORY-tmpbinho), the order of waves, and with it the claim that
+  a clock ([THEORY-tmpbinho](THEORY-tmpbinho.md)), the order of waves, and with it the claim that
   Planctomycetota preceded the mitochondrion, falls back to unknown.
 - **Not that Asgard contributed only 3% of LECA.** That figure is the share
   passing strict thresholds. It is not comparable with Tobiasson et al.'s
@@ -121,7 +121,7 @@ in dispute.
 
 ## Connections
 
-- **THEORY-tmpfoo2c (Tobiasson et al.): rival on the donors, compatible on
+- **[THEORY-tmpfoo2c](THEORY-tmpfoo2c.md) (Tobiasson et al.): rival on the donors, compatible on
   the mitochondrion.** The two disagree on whether the
   non-alphaproteobacterial genes form a few major donors' waves or diffuse
   transfer, and on the Asgard share. Tobiasson et al. attribute this paper's
@@ -130,14 +130,14 @@ in dispute.
   class there). Both papers have the mitochondrion arriving late and
   bacterial genes arriving before it. Neither has data on the kind of
   interaction.
-- **THEORY-tmpbinho: rival.** It disputes the method that orders the waves.
-- **THEORY-tmpyr6q4 (Santana-Molina et al.): partly compatible.** In central
+- **[THEORY-tmpbinho](THEORY-tmpbinho.md): rival.** It disputes the method that orders the waves.
+- **[THEORY-tmpyr6q4](THEORY-tmpyr6q4.md) (Santana-Molina et al.): partly compatible.** In central
   carbon metabolism, Planctomycetota–Verrucomicrobiota and Myxococcota–
   Desulfobacterota both appear as sisters, as this account would expect.
   But that paper finds "no additional dominant source of gene donations".
-- **LIT-1595 (Pittis & Gabaldón 2016, unread).** This is that programme's
+- **[LIT-1595](../literature.d/LIT-1595.md) (Pittis & Gabaldón 2016, unread).** This is that programme's
   continuation, now with named donors.
-- **QUESTION-277.** This is the "distributed" side of the record's live
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** This is the "distributed" side of the record's live
   disagreement. The distribution shown is of gene donors, so it bears on G.
   It bears on the question's routes to dependence only if the donors were
   partners, and the paper leaves that open.

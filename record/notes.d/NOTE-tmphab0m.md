@@ -202,12 +202,12 @@ lineages.
 
 - **Syntrophy models.** It cites the reverse-flow model (Spang et al.), the
   revisited syntrophy hypothesis (López-García & Moreira) and Imachi et al.'s
-  cultured Asgard archaeon (LIT-1591, unread here) among the models it
+  cultured Asgard archaeon ([LIT-1591](../literature.d/LIT-1591.md), unread here) among the models it
   supports. It sets itself against the view that "the archaeal host
   metabolism was replaced by counterparts from the endosymbiont", for which
-  it cites Martin & Müller's hydrogen hypothesis (LIT-1597, unavailable
+  it cites Martin & Müller's hydrogen hypothesis ([LIT-1597](../literature.d/LIT-1597.md), unavailable
   here).
-- **Tobiasson et al.** (LIT-1558, read in NOTE-tmppkn6v) cite this paper for
+- **Tobiasson et al.** ([LIT-1558](../literature.d/LIT-1558.md), read in [NOTE-tmppkn6v](NOTE-tmppkn6v.md)) cite this paper for
   alphaproteobacterial associations with mitochondrial carbon metabolism.
   The two agree on that. They are harder to square on Asgard's share. In
   this pathway set, alphaproteobacterial contributions (17) outnumber the
@@ -215,7 +215,7 @@ lineages.
   leading across "large parts of the core metabolic network". The
   measures differ (counts of hand-inspected trees here, likelihood weights
   there), so this is a tension, not a contradiction. The inference is mine.
-- **Bernabeu et al.** (LIT-1561, read in NOTE-tmpe5t7q). The same two phyla
+- **Bernabeu et al.** ([LIT-1561](../literature.d/LIT-1561.md), read in [NOTE-tmpe5t7q](NOTE-tmpe5t7q.md)). The same two phyla
   that paper names as major donors turn up here: Planctomycetota–
   Verrucomicrobiota as sister to three LECA enzymes, and Myxococcota–
   Desulfobacterota recurring in sister groups. This paper reads them as
@@ -229,9 +229,9 @@ lineages.
 
 ## Bearing on the record
 
-- **QUESTION-277.** The record cited this work for "the chimeric
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The record cited this work for "the chimeric
   metabolism", and for discriminating syntrophy-first from complexity-first
-  scenarios (LIT-1564's "Why this is here"). The reading supports the
+  scenarios ([LIT-1564](../literature.d/LIT-1564.md)'s "Why this is here"). The reading supports the
   first and not the second.
   - **On discrimination.** The paper does not address timing: nothing in it
     says whether the host was complex before the mitochondrion. Its
@@ -246,7 +246,7 @@ lineages.
   - **C, host control through import.** Mitochondrial TCA enzymes of
     non-alphaproteobacterial origin (CS, ACNB, IDH1/2) are a case of the
     host supplying the symbiont's compartment with its own proteins. That
-    is QUESTION-277's gene transfer and import route, and its host
+    is [QUESTION-277](../questions.d/QUESTION-277.md)'s gene transfer and import route, and its host
     compensation route, at the scale of one pathway.
   - **Host compensation as a cause of symbiont reduction.** In
     Archaeplastida, host genes were duplicated and sent to the plastid,
@@ -255,7 +255,7 @@ lineages.
     supply makes the symbiont's genes redundant. The authors offer it as a
     possibility only.
   - **Replacement.** Asgard-origin enzymes replaced by bacterial ones in
-    many lineages show the theme of CASE-171 and LIT-1572 (constituents
+    many lineages show the theme of [CASE-171](../cases.d/CASE-171.md) and [LIT-1572](../literature.d/LIT-1572.md) (constituents
     replaced, function kept) at the level of single genes.
   - **D.** The syntrophy reading implies an initial metabolic dependence
     of the archaeon on a bacterial electron sink. That is inferred from
@@ -265,9 +265,9 @@ lineages.
   are "transient interactions".
 - **Monocercomonoides.** The metamonads' mitochondrial PDHD and FUMC
   branch within LECA clades, consistent with secondary loss of
-  mitochondria. That bears on CASE-168's lineage, though not on
+  mitochondria. That bears on [CASE-168](../cases.d/CASE-168.md)'s lineage, though not on
   *Monocercomonoides* itself.
-- Filed as THEORY-tmpyr6q4. No instruction for machine-learning practice.
+- Filed as [THEORY-tmpyr6q4](../theory.d/THEORY-tmpyr6q4.md). No instruction for machine-learning practice.
 
 ## Limitations
 

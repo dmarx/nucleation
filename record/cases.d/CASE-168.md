@@ -59,9 +59,9 @@ cleavage system.
 Documented in works the record has not read. What it shows rests on their
 abstracts until they are read.
 
-## Note of 2026-10-27 (batch 2): LIT-1574 read
+## Note of 2026-10-27 (batch 2): [LIT-1574](../literature.d/LIT-1574.md) read
 
-Karnkowska et al. 2019 (LIT-1574, read in NOTE-tmpuq8at; THEORY-tmp247k7)
+Karnkowska et al. 2019 ([LIT-1574](../literature.d/LIT-1574.md), read in [NOTE-tmpuq8at](../notes.d/NOTE-tmpuq8at.md); [THEORY-tmp247k7](../theory.d/THEORY-tmp247k7.md))
 correct the previous title's "one indispensable job":
 
 - **SUF alone was not enough.** The SUF system replaced the mitochondrial
@@ -75,7 +75,7 @@ correct the previous title's "one indispensable job":
 - **What went with it.** Mitophagy is the one system "likely lost together
   with mitochondria". Peroxisomes are also gone, which is common in
   anaerobes. No compensating gene was found.
-- **The origin of SUF.** Its lateral-transfer origin is LIT-1567's claim
+- **The origin of SUF.** Its lateral-transfer origin is [LIT-1567](../literature.d/LIT-1567.md)'s claim
   and is not argued here.
 - **"First eukaryote known to lack any form of mitochondrion" stands,**
   with two caveats from the paper. FIB-SEM "could still allow for

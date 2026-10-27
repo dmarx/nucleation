@@ -33,7 +33,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Karnkowska et al. (2019), LIT-1574, read in NOTE-tmpuq8at. The SUF
+  Karnkowska et al. (2019), [LIT-1574](../literature.d/LIT-1574.md), read in [NOTE-tmpuq8at](../notes.d/NOTE-tmpuq8at.md). The SUF
   replacement of the mitochondrial Fe–S pathway is shared by all examined
   Preaxostyla, including relatives that keep a mitochondrion-related
   organelle, and those relatives' organelle still houses the glycine
@@ -51,7 +51,7 @@ summary: >-
 ## Source
 
 Karnkowska et al. (2019), *Molecular Biology and Evolution* 36(10):
-2292–2312, LIT-1574, read in full in NOTE-tmpuq8at from the PubMed
+2292–2312, [LIT-1574](../literature.d/LIT-1574.md), read in full in [NOTE-tmpuq8at](../notes.d/NOTE-tmpuq8at.md) from the PubMed
 Central copy. "Is the Absence of Mitochondrion Reflected in
 Modifications of Any Cellular System?", the FIB-SEM section, and the
 conclusions.
@@ -110,17 +110,17 @@ exilis*, making it the single trigger.
 
 ## Connections
 
-- **QUESTION-277.** The negative control, made more exact. The
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The negative control, made more exact. The
   partner's functions were moved to a third-party gene or dropped until
   no dependence on the partner remained, and then the partner was lost.
   It is the host-compensation route run to dissolution, and it says
   that integration as deep as a mitochondrion's can be undone one
   function at a time. The reading in the question's terms is mine.
-- **CASE-168.** The case's "one indispensable job" should read "two
+- **[CASE-168](../cases.d/CASE-168.md).** The case's "one indispensable job" should read "two
   essential functions, removed in turn".
-- **THEORY-tmp74xnn.** Organelles are made by moving functions onto
+- **[THEORY-tmp74xnn](THEORY-tmp74xnn.md).** Organelles are made by moving functions onto
   host-encoded proteins. This is the same accounting from the other end:
   the organelle persists while some function still needs it.
-- **THEORY-1049.** McCutcheon et al. find the host supplying what a
+- **[THEORY-1049](THEORY-1049.md).** McCutcheon et al. find the host supplying what a
   shrinking symbiont lacks. Here the host supplies everything the
   organelle once did, and the organelle goes.

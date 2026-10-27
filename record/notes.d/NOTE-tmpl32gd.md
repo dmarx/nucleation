@@ -228,19 +228,19 @@ protein that reaches inside and a symbiont gene that is then lost.
 
 ## Connections
 
-It is the review that McCutcheon et al. (LIT-1571, read in NOTE-1213)
+It is the review that McCutcheon et al. ([LIT-1571](../literature.d/LIT-1571.md), read in [NOTE-1213](NOTE-1213.md))
 point to for import. The two agree that the smallest symbionts lack
 envelope genes. This review sharpens the import evidence that
 McCutcheon et al. cite. The aphid protein is RlpA4 in *Buchnera*, and the
 mealybug protein is MurF in *Moranella*. Both symbionts are above 0.5
 Mbp, well above McCutcheon's 200 kb tipping point. The *Paulinella*
-primary studies (LIT-1557, LIT-1621) and the nitroplast paper (LIT-1562)
+primary studies ([LIT-1557](../literature.d/LIT-1557.md), [LIT-1621](../literature.d/LIT-1621.md)) and the nitroplast paper ([LIT-1562](../literature.d/LIT-1562.md))
 are cited here and are unread in this record. The mealybug HGT genes are
-LIT-1569's subject.
+[LIT-1569](../literature.d/LIT-1569.md)'s subject.
 
 ## Bearing on the record
 
-- **QUESTION-277, the gene-transfer-and-import route.** The question
+- **[QUESTION-277](../questions.d/QUESTION-277.md), the gene-transfer-and-import route.** The question
   calls the route "Genes move to the host nucleus and their products are
   imported back". This reading corrects that. Import is the route.
   Transfer from the endosymbiont is optional and was minor in
@@ -251,7 +251,7 @@ LIT-1569's subject.
   includes control of the symbiont's DNA replication, expression and
   division. The inference that this is one route with two variants is
   mine.
-- **QUESTION-277, the order of dimensions.** The authors' scenario puts
+- **[QUESTION-277](../questions.d/QUESTION-277.md), the order of dimensions.** The authors' scenario puts
   C first, as effectors, and D after, when a redundant imported protein
   lets the symbiont copy decay. Their rhizobia argument says genetic
   integration is "always linked" to vertical transmission (R). So on
@@ -259,33 +259,33 @@ LIT-1569's subject.
   organelle, and C without R (rhizobia) stops at manipulation. This is an
   order to test, not one shown. The mapping to the question's letters is
   mine.
-- **QUESTION-277, directional dependence.** *B. bigelowii* can lose
+- **[QUESTION-277](../questions.d/QUESTION-277.md), directional dependence.** *B. bigelowii* can lose
   UCYN-A when given fixed nitrogen. The organelle-level integration of
   the symbiont therefore coexists with a host whose dependence is
   conditional on its environment. D is asymmetric even here. The
   inference is mine.
-- **CASE-174 (*Paulinella*).** The case's figures are from its unread
+- **[CASE-174](../cases.d/CASE-174.md) (*Paulinella*).** The case's figures are from its unread
   primary sources. This review gives a later age (90–140 million years,
   against the case's "about 60"), about 60 EGT and 170 HGT genes
   (against "more than thirty"), and names two imported photosystem I
   subunits, PsaE and PsaK (the case says three). It says EGT played "only
   a circumstantial role". The case title's "genes moved to the host
   nucleus and their proteins imported back" overstates transfer.
-- **CASE-167 (the nitroplast).** Confirmed: coordinated division, vertical
+- **[CASE-167](../cases.d/CASE-167.md) (the nitroplast).** Confirmed: coordinated division, vertical
   transmission, more than 350 imported proteins. Added: no EGT, a
   C-terminal targeting signal on 62% of imported proteins, and a host
   that can lose the symbiont in culture.
-- **CASE-171 and CASE-173.** The mealybug protein is MurF, in
+- **[CASE-171](../cases.d/CASE-171.md) and [CASE-173](../cases.d/CASE-173.md).** The mealybug protein is MurF, in
   *Moranella*, not *Tremblaya*. The aphid protein is RlpA4, from a
   horizontally transferred gene, and proteomics found no host protein
-  reliably enriched in *Buchnera*. Both cases' notes from NOTE-1213 should
+  reliably enriched in *Buchnera*. Both cases' notes from [NOTE-1213](NOTE-1213.md) should
   say so.
-- **THEORY-1049.** Consistent with its envelope claim. But the single
+- **[THEORY-1049](../theory.d/THEORY-1049.md).** Consistent with its envelope claim. But the single
   imported proteins it cites as evidence of host supply are in symbionts
   above both its thresholds. The best case near 200 kb is *Nardonella*,
   whose import is unconfirmed. So import into a tipping-point
   endosymbiont is still not shown.
-- Filed as THEORY-tmp74xnn and THEORY-tmpkvjih. No instruction for
+- Filed as [THEORY-tmp74xnn](../theory.d/THEORY-tmp74xnn.md) and [THEORY-tmpkvjih](../theory.d/THEORY-tmpkvjih.md). No instruction for
   machine-learning practice.
 
 ## Limitations

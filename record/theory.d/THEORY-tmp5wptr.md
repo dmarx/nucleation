@@ -36,7 +36,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Kay et al. (2026), LIT-1566, read in NOTE-tmp2el8z. A dated species
+  Kay et al. (2026), [LIT-1566](../literature.d/LIT-1566.md), read in [NOTE-tmp2el8z](../notes.d/NOTE-tmp2el8z.md). A dated species
   tree places nFECA at 3.05–2.79 Ga, mFECA at 2.37–2.13 Ga and LECA at
   1.80–1.67 Ga. Against an endosymbiosis marker at about 2.2 Ga, 85% of
   archaeal-origin duplications are older, and most non-alphaproteobacterial
@@ -53,7 +53,7 @@ summary: >-
 ## Source
 
 Kay, Spang, Szöllősi, Pisani, Williams & Donoghue (2026), *Nature*
-650: 129–140, LIT-1566, read in full in NOTE-tmp2el8z from the PubMed
+650: 129–140, [LIT-1566](../literature.d/LIT-1566.md), read in full in [NOTE-tmp2el8z](../notes.d/NOTE-tmp2el8z.md) from the PubMed
 Central copy of the version of record. The sections "Establishing the
 eukaryogenesis timeline", "Dating mitochondrial endosymbiosis", the four
 sections on cell systems, "Testing hypotheses of eukaryogenesis", the
@@ -121,22 +121,22 @@ force it.
 
 ## Connections
 
-- **QUESTION-277.** This bears on whether eukaryogenesis was "one
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** This bears on whether eukaryogenesis was "one
   two-partner merger or a sequence of associations". It favours one
   endosymbiotic partner, after a long host-only phase, with other
   bacterial genes arriving by transfer. It dates G (the host's
   duplications) and gives an early date for the import machinery, the
   start of C on the symbiont side. It says nothing about D, R or S.
-- **LIT-1595 (THEORY-tmpckv2l).** Pittis & Gabaldón reach the same
+- **[LIT-1595](../literature.d/LIT-1595.md) ([THEORY-tmpckv2l](THEORY-tmpckv2l.md)).** Pittis & Gabaldón reach the same
   mitochondrion-late order from branch lengths. They infer a host
   already chimaeric with non-alphaproteobacterial genes before the
   mitochondrion. This paper dates most non-alphaproteobacterial
   duplications after it. Duplication is not acquisition, so the two can
   both be right. The comparison is mine.
-- **LIT-1591.** The cultured Asgard isolate is internally simple. This
+- **[LIT-1591](../literature.d/LIT-1591.md).** The cultured Asgard isolate is internally simple. This
   paper says so itself and does not take it as a contradiction: a
   modern relative is not nFECA's lineage, and the paper "does not imply
   that a host cell of crown eukaryote size and system-complexity existed
   before mitochondrial endosymbiosis".
-- **LIT-1597.** The hydrogen hypothesis is the paper's example of a
+- **[LIT-1597](../literature.d/LIT-1597.md).** The hydrogen hypothesis is the paper's example of a
   mitochondria-early model, and is rejected.

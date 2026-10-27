@@ -56,13 +56,13 @@ abstract until it is read.
 
 ## Note of 2026-10-27 (batch 2): the review read
 
-Sørensen et al. (LIT-1560, read in NOTE-tmpl32gd) confirm the case from
+Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)) confirm the case from
 Coale et al.'s results: one UCYN-A per host cell, coordinated division,
 vertical transmission, and more than 350 imported nucleus-encoded
 proteins. They add three points:
 
 - **Import without transfer.** No gene transfer from UCYN-A to the nucleus
-  has been found. Import alone gives genetic integration (THEORY-tmp74xnn).
+  has been found. Import alone gives genetic integration ([THEORY-tmp74xnn](../theory.d/THEORY-tmp74xnn.md)).
 - **A new signal.** 62% of imported proteins carry a C-terminal "UCYN-A
   transit peptide", presumably cleaved, unlike any known organelle signal.
 - **The host's dependence is conditional.** "When nitrogen compounds are

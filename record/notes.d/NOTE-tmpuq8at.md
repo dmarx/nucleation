@@ -54,7 +54,7 @@ summary: >-
 
 ## Contribution
 
-The 2016 paper (LIT-1567, unread) showed that *M. exilis* has no
+The 2016 paper ([LIT-1567](../literature.d/LIT-1567.md), unread) showed that *M. exilis* has no
 mitochondrion. This one asks what the rest of the cell did about it. The
 answer is almost nothing. The genome is not reduced, the cellular systems
 are those of an ordinary eukaryote, and the only changes linked to the
@@ -183,16 +183,16 @@ which "removed another essential function from the MRO", came later,
 
 ## Connections
 
-It extends the 2016 report (LIT-1567, unread), which found the SUF
+It extends the 2016 report ([LIT-1567](../literature.d/LIT-1567.md), unread), which found the SUF
 system and no hallmark mitochondrial proteins. Its eukaryogenesis
 remark bears on the "complexity before the mitochondrion" scenario that
-QUESTION-277 lists with LIT-1595, unread. It does not cite the
+[QUESTION-277](../questions.d/QUESTION-277.md) lists with [LIT-1595](../literature.d/LIT-1595.md), unread. It does not cite the
 endosymbiosis literature on gene loss and dependence, and says nothing
 about individuality.
 
 ## Bearing on the record
 
-- **CASE-168.** The case says the mitochondrion was lost "once a
+- **[CASE-168](../cases.d/CASE-168.md).** The case says the mitochondrion was lost "once a
   bacterial Fe–S system acquired by lateral transfer replaced the
   organelle's one indispensable job". The reading corrects that in two
   ways.
@@ -207,7 +207,7 @@ about individuality.
   of mitochondrion" is supported, with the paper's caveat that "highly
   reduced mitosomes" below FIB-SEM resolution are not excluded, and its
   note that relatives may share the status.
-- **QUESTION-277.** The question uses this system as a negative
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The question uses this system as a negative
   control: "losing genes is not the same as losing function, losing
   autonomy or gaining integration". The reading supports a more exact
   version. The organelle's functions were moved one at a time, by a
@@ -223,10 +223,10 @@ about individuality.
   changes are put down to "the microaerophilic and endobiotic niche". It
   lost an internal partner and depends on a host gut. The inference is
   mine and the paper does not draw it.
-- **THEORY-tmp74xnn.** Sørensen et al. describe organelles made by
+- **[THEORY-tmp74xnn](../theory.d/THEORY-tmp74xnn.md).** Sørensen et al. describe organelles made by
   moving functions onto host-encoded proteins. This is the same move run
   past the end: once no function needs the compartment, it can go.
-- Filed as THEORY-tmp247k7. No instruction for machine-learning
+- Filed as [THEORY-tmp247k7](../theory.d/THEORY-tmp247k7.md). No instruction for machine-learning
   practice.
 
 ## Limitations

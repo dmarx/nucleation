@@ -221,8 +221,8 @@ LITs).
 
 **Routes.**
 
-- **Transfer and import is mostly import** (LIT-1560, NOTE-tmpl32gd,
-  THEORY-tmp74xnn). In the two systems with import at scale:
+- **Transfer and import is mostly import** ([LIT-1560](../literature.d/LIT-1560.md), [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md),
+  [THEORY-tmp74xnn](../theory.d/THEORY-tmp74xnn.md)). In the two systems with import at scale:
   - the *Paulinella* chromatophore imports hundreds of proteins, "mostly
     from the host itself", and transfer from the symbiont played "only a
     circumstantial role";
@@ -233,7 +233,7 @@ LITs).
   are imported back") is wrong as stated. Import moves C and G without the
   symbiont's genes moving, and it shares third-party genes with the
   host-compensation route.
-- **An order to test** (THEORY-tmpkvjih). Sørensen et al. propose:
+- **An order to test** ([THEORY-tmpkvjih](../theory.d/THEORY-tmpkvjih.md)). Sørensen et al. propose:
   - host effectors first (C);
   - then dependence (D), when one redundant imported protein lets the
     symbiont's gene decay;
@@ -241,34 +241,34 @@ LITs).
 
   Vertical transmission (R) is a condition: rhizobia are targeted by host
   peptides, are not transmitted vertically, and are not integrated. This
-  reverses the insect order of THEORY-1049, where the symbiont's losses
+  reverses the insect order of [THEORY-1049](../theory.d/THEORY-1049.md), where the symbiont's losses
   come first. Neither order has been watched in one lineage.
-- **Complementary loss moves G and the symbiont's D, not C** (LIT-1596,
-  NOTE-tmp82xw1, THEORY-tmpehubi). *Buchnera* keeps the pathways for the
+- **Complementary loss moves G and the symbiont's D, not C** ([LIT-1596](../literature.d/LIT-1596.md),
+  [NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md), [THEORY-tmpehubi](../theory.d/THEORY-tmpehubi.md)). *Buchnera* keeps the pathways for the
   amino acids its host cannot make, and builds them on host-made
   precursors. It has lost its own regulators, which is not the same as
   being regulated. The genome paper names no mechanism of reduction; drift
-  is LIT-1573's account, which is Unfetched.
+  is [LIT-1573](../literature.d/LIT-1573.md)'s account, which is Unfetched.
 - **Host compensation maintains R, perhaps at a cost to C and S**
-  (LIT-1590, NOTE-tmp6a57o, THEORY-tmpjel7l). Cicadas send more *Hodgkinia*
+  ([LIT-1590](../literature.d/LIT-1590.md), [NOTE-tmp6a57o](../notes.d/NOTE-tmp6a57o.md), [THEORY-tmpjel7l](../theory.d/THEORY-tmpjel7l.md)). Cicadas send more *Hodgkinia*
   cells per egg as the symbiont splits, so every lineage still reaches
   every egg. The authors speculate that larger transmitted populations
   weaken bottlenecks and host control. If so, keeping R costs S, and an
   answer must say how the dimensions trade off. The rise is significant in
   one species of four.
-- **Integration undone in steps** (LIT-1574, NOTE-tmpuq8at,
-  THEORY-tmp247k7). *Monocercomonoides* lost its mitochondrion only after
+- **Integration undone in steps** ([LIT-1574](../literature.d/LIT-1574.md), [NOTE-tmpuq8at](../notes.d/NOTE-tmpuq8at.md),
+  [THEORY-tmp247k7](../theory.d/THEORY-tmp247k7.md)). *Monocercomonoides* lost its mitochondrion only after
   the organelle's essential jobs went one at a time. First, Fe–S assembly
   moved to a SUF system that relatives with organelles share. Then the
   glycine cleavage system was lost. This is host compensation with a third
   lineage's genes, run to dissolution.
 - **No import below the tipping point.** The host proteins seen inside
   insect symbionts are in *Buchnera* and *Moranella*, both above
-  THEORY-1049's thresholds (CASE-171, CASE-173). Host supply of
+  [THEORY-1049](../theory.d/THEORY-1049.md)'s thresholds ([CASE-171](../cases.d/CASE-171.md), [CASE-173](../cases.d/CASE-173.md)). Host supply of
   tipping-point endosymbionts remains inferred.
 
 **Dependence stays directional even in an organelle.** The nitroplast's
-host can lose UCYN-A when given fixed nitrogen in culture (CASE-167).
+host can lose UCYN-A when given fixed nitrogen in culture ([CASE-167](../cases.d/CASE-167.md)).
 The symbiont cannot live without the host. D must be scored in each
 direction, as the question says.
 
@@ -279,36 +279,36 @@ associations". The readings change that.
 
 - **All three accept one endosymbiosis**, an Asgard-related host with an
   alphaproteobacterium. All three also accept bacterial genes from other
-  donors, some before the mitochondrion (LIT-1566, LIT-1558, LIT-1561,
-  read in NOTE-tmp2el8z, NOTE-tmppkn6v, NOTE-tmpe5t7q).
+  donors, some before the mitochondrion ([LIT-1566](../literature.d/LIT-1566.md), [LIT-1558](../literature.d/LIT-1558.md), [LIT-1561](../literature.d/LIT-1561.md),
+  read in [NOTE-tmp2el8z](../notes.d/NOTE-tmp2el8z.md), [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md), [NOTE-tmpe5t7q](../notes.d/NOTE-tmpe5t7q.md)).
 - **Tobiasson et al. are themselves mitochondrion-late**, so they agree
-  with Kay et al. on order (THEORY-tmpfoo2c). Kay et al. argue against
-  serial endosymbiosis (THEORY-tmp5wptr).
+  with Kay et al. on order ([THEORY-tmpfoo2c](../theory.d/THEORY-tmpfoo2c.md)). Kay et al. argue against
+  serial endosymbiosis ([THEORY-tmp5wptr](../theory.d/THEORY-tmp5wptr.md)).
 - **The live dispute is between Tobiasson and Bernabeu.** Are the other
   bacterial genes diffuse transfers or a few major donors in waves? And
   can stem lengths time acquisitions at all? Tobiasson et al.'s own test
-  says mostly not (THEORY-tmpbinho), while Bernabeu et al.'s waves rest
-  on them (THEORY-tmphywi5). Pittis and Gabaldón's mito-late order rests
-  on the same measure (LIT-1595, NOTE-tmpjgenc, THEORY-tmpckv2l).
+  says mostly not ([THEORY-tmpbinho](../theory.d/THEORY-tmpbinho.md)), while Bernabeu et al.'s waves rest
+  on them ([THEORY-tmphywi5](../theory.d/THEORY-tmphywi5.md)). Pittis and Gabaldón's mito-late order rests
+  on the same measure ([LIT-1595](../literature.d/LIT-1595.md), [NOTE-tmpjgenc](../notes.d/NOTE-tmpjgenc.md), [THEORY-tmpckv2l](../theory.d/THEORY-tmpckv2l.md)).
 - **No donor is shown to be a partner.** Bernabeu et al. say their data
   "do not provide information on the host or endosymbiotic nature of any
   partner". So "distributed" means distributed gene donors, not a series
   of collectives. For this question, the eukaryogenesis papers bear on G
   and not on R or S.
 - **The metabolism is chimeric, but that does not single out syntrophy**
-  (LIT-1564, NOTE-tmphab0m, THEORY-tmpyr6q4). Any archaeal host taking up
+  ([LIT-1564](../literature.d/LIT-1564.md), [NOTE-tmphab0m](../notes.d/NOTE-tmphab0m.md), [THEORY-tmpyr6q4](../theory.d/THEORY-tmpyr6q4.md)). Any archaeal host taking up
   a bacterium with a TCA cycle predicts the split. The paper adds an
   instance of C: enzymes of non-alphaproteobacterial origin now work
   inside the mitochondrion. It also offers, as a possibility, a mechanism
   the routes above do not name: host genes duplicated and sent into the
   organelle "might have promoted the genome reduction of the
   endosymbiont".
-- **A dependence before any endosymbiosis** (LIT-1591, NOTE-tmpeb08c,
-  THEORY-tmpyig9c). The cultured Asgard archaeon grows only with
+- **A dependence before any endosymbiosis** ([LIT-1591](../literature.d/LIT-1591.md), [NOTE-tmpeb08c](../notes.d/NOTE-tmpeb08c.md),
+  [THEORY-tmpyig9c](../theory.d/THEORY-tmpyig9c.md)). The cultured Asgard archaeon grows only with
   interchangeable methanogen partners. That is high D with no R and no C:
   interdependence without individuality at the start of the story. In the
   authors' E3 model the host makes the hydrogen, and they favour an
   interaction other than hydrogen transfer as the driver. So this case
-  does not support the hydrogen hypothesis (LIT-1597, unread), and the
+  does not support the hydrogen hypothesis ([LIT-1597](../literature.d/LIT-1597.md), unread), and the
   previous note's grouping of the two under "syntrophy" needs that
   caveat.

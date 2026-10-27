@@ -33,7 +33,7 @@ answers:
 - QUESTION-277
 summary: >-
   Campbell, Łukasik, Meyer, Buckner, Simon, Veloso, Michalik & McCutcheon
-  (2018), LIT-1590, read in NOTE-tmp6a57o. Measured: Hodgkinia cells per
+  (2018), [LIT-1590](../literature.d/LIT-1590.md), read in [NOTE-tmp6a57o](../notes.d/NOTE-tmp6a57o.md). Measured: Hodgkinia cells per
   egg from 4,889 in a single-lineage cicada to 30,154 in M. septendecim,
   with Sulcia at 2,572 to 5,643; marker genotypes present in every egg
   sampled; the same route under the light microscope. Not shown: a trend
@@ -48,7 +48,7 @@ summary: >-
 ## Source
 
 Campbell, Łukasik, Meyer, Buckner, Simon, Veloso, Michalik & McCutcheon
-(2018), *mBio* 9(6): e02104-18, LIT-1590, read in full in NOTE-tmp6a57o
+(2018), *mBio* 9(6): e02104-18, [LIT-1590](../literature.d/LIT-1590.md), read in full in [NOTE-tmp6a57o](../notes.d/NOTE-tmp6a57o.md)
 from the PubMed Central copy (PMC6234865). The four results subsections,
 the discussion, Figures 1–4 from their captions, Table 1, and the
 methods with their caveats.
@@ -98,15 +98,15 @@ change in the host's transmission. Neither was found.
 
 ## Connections
 
-- **QUESTION-277.** The one worked case in the record of host
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The one worked case in the record of host
   compensation at transmission. The host maintains reproductive cohesion
   (R) while the number of essential parts, and so dependence (D), grows.
   On the authors' speculation, the same compensation may weaken host
   control (C) and selection alignment (S), which would make R and S
   trade off. The mapping to the dimensions is mine.
-- **CASE-177** is the case this account documents. The splitting it
-  compensates for is reported in LIT-1563, LIT-1586, LIT-1612 and
-  LIT-1602, all unread.
-- **THEORY-1049.** The authors note that *Hodgkinia* cannot make its own
+- **[CASE-177](../cases.d/CASE-177.md)** is the case this account documents. The splitting it
+  compensates for is reported in [LIT-1563](../literature.d/LIT-1563.md), [LIT-1586](../literature.d/LIT-1586.md), [LIT-1612](../literature.d/LIT-1612.md) and
+  [LIT-1602](../literature.d/LIT-1602.md), all unread.
+- **[THEORY-1049](THEORY-1049.md).** The authors note that *Hodgkinia* cannot make its own
   membranes, so "the host must define Hodgkinia's envelope". That makes
   active sorting by the host conceivable. It is not shown.

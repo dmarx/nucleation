@@ -34,8 +34,8 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Sørensen, Stiller, Kröninger & Nowack (2025), LIT-1560, read in
-  NOTE-tmpl32gd. Protein mass spectrometry of isolated endosymbionts found
+  Sørensen, Stiller, Kröninger & Nowack (2025), [LIT-1560](../literature.d/LIT-1560.md), read in
+  [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md). Protein mass spectrometry of isolated endosymbionts found
   hundreds of host proteins imported into Paulinella's chromatophore and
   more than 350 into the nitroplast, where they fill gaps left by lost
   genes. In Paulinella the imported proteins come mostly from the host's
@@ -53,7 +53,7 @@ summary: >-
 ## Source
 
 Sørensen, Stiller, Kröninger & Nowack (2025), *The FEBS Journal*
-292(12): 2992–3013, LIT-1560, read in full in NOTE-tmpl32gd from the
+292(12): 2992–3013, [LIT-1560](../literature.d/LIT-1560.md), read in full in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md) from the
 PubMed Central copy. The introduction's definition of genetic
 integration; the sections on *Paulinella* and on the nitroplast; the
 concluding scenario's paragraph on EGT.
@@ -96,18 +96,18 @@ picture of mitochondria and plastids, and UCYN-A could have shown EGT.
   plastids moved "hundreds of endosymbiont genes" to the nucleus. The
   claim is that transfer is not needed to start.
 - **Not that gene loss followed import in time.** The order is the
-  authors' scenario (THEORY-tmpkvjih), not observed.
+  authors' scenario ([THEORY-tmpkvjih](THEORY-tmpkvjih.md)), not observed.
 
 ## Connections
 
-- **QUESTION-277, the gene-transfer-and-import route.** The question
+- **[QUESTION-277](../questions.d/QUESTION-277.md), the gene-transfer-and-import route.** The question
   describes the route as genes moving to the nucleus and their products
   returning. On this account the route is import, and the genes doing
   the replacing come mostly from the host's own lineage and from third
   parties. That joins this route to the question's host-compensation
   route, which also uses genes from third lineages. The joining is mine.
-- **CASE-174 and CASE-167.** The two systems behind the claim. CASE-174's
+- **[CASE-174](../cases.d/CASE-174.md) and [CASE-167](../cases.d/CASE-167.md).** The two systems behind the claim. [CASE-174](../cases.d/CASE-174.md)'s
   title stresses transfer; this account says transfer was minor there.
-- **THEORY-1049.** McCutcheon et al. presume host supply in the smallest
+- **[THEORY-1049](THEORY-1049.md).** McCutcheon et al. presume host supply in the smallest
   insect symbionts with no mechanism. This account gives the mechanism
   where it is shown, but only for two protist systems above 1 Mb.

@@ -210,19 +210,19 @@ another symbiotic event contributing to eukaryogenesis".
 
 ## Connections
 
-- **Pittis and Gabaldón 2016** (LIT-1595, unread here). The paper calls it "a
+- **Pittis and Gabaldón 2016** ([LIT-1595](../literature.d/LIT-1595.md), unread here). The paper calls it "a
   pivotal study" and reproduces its result only for long stems. Its own
   conclusion, that stem length mostly does not track time, undercuts the
   method, though the paper still endorses a late mitochondrion on other
   grounds.
-- **Bernabeu et al.** (LIT-1561, read in NOTE-tmpe5t7q). Cited as ref. 65 in
+- **Bernabeu et al.** ([LIT-1561](../literature.d/LIT-1561.md), read in [NOTE-tmpe5t7q](NOTE-tmpe5t7q.md)). Cited as ref. 65 in
   its first preprint version, under the title "Diverse ancestries reveal
   complex symbiotic interactions during eukaryogenesis". The paper says
   that report, "using more liberal criteria for core pangenome
   construction, suggested a far greater bacterial contribution than
   observed here, potentially due to late HGT". The two groups thanked each
   other for comments.
-- **Santana-Molina et al.** (LIT-1564, read in NOTE-tmphab0m). Cited as ref. 58
+- **Santana-Molina et al.** ([LIT-1564](../literature.d/LIT-1564.md), read in [NOTE-tmphab0m](NOTE-tmphab0m.md)). Cited as ref. 58
   for the alphaproteobacterial association with mitochondrial carbon
   metabolism.
 - **Vosseberg et al. 2021** (ref. 26) on pre-LECA duplications of Asgard
@@ -231,7 +231,7 @@ another symbiotic event contributing to eukaryogenesis".
 - **Syntrophy.** The paper invokes "the syntrophic lifestyle of many Asgard
   archaea" as a route for bacterial genes into the Asgard lineage, citing
   López-García and Moreira (2020). Its introduction cites Imachi et al.
-  (LIT-1591, unread here) for Asgard archaea "found in consortia with
+  ([LIT-1591](../literature.d/LIT-1591.md), unread here) for Asgard archaea "found in consortia with
   bacteria, particularly Myxococcota". It treats the
   two-endosymbiosis syntrophy models (hydrogen–sulfur transfer, with
   Myxococcota as partner) as "less parsimonious than binary scenarios" but
@@ -239,13 +239,13 @@ another symbiotic event contributing to eukaryogenesis".
 
 ## Bearing on the record
 
-- **QUESTION-277, and the framing of the "live disagreement".** The
+- **[QUESTION-277](../questions.d/QUESTION-277.md), and the framing of the "live disagreement".** The
   question's summary sets three programmes side by side: late mitochondrion
-  after a complex host (LIT-1566), mostly Asgard inheritance (this work) and
-  waves of bacterial transfer (LIT-1561). The reading changes that picture.
+  after a complex host ([LIT-1566](../literature.d/LIT-1566.md)), mostly Asgard inheritance (this work) and
+  waves of bacterial transfer ([LIT-1561](../literature.d/LIT-1561.md)). The reading changes that picture.
   - **This paper is itself mitochondrion-late.** It favours a complex
     Asgard FECA and a mitochondrion acquired "relatively late". On timing it
-    sits with Kay et al. (as the record summarizes them; LIT-1566 is unread),
+    sits with Kay et al. (as the record summarizes them; [LIT-1566](../literature.d/LIT-1566.md) is unread),
     not against them.
   - **It is two-partner on symbiosis, not on genes.** It accepts many
     bacterial donors, "both before and after endosymbiosis". What it denies
@@ -255,21 +255,21 @@ another symbiotic event contributing to eukaryogenesis".
     donors, in waves) or are diffuse; whether stem lengths can time them;
     and whether a liberal pangenome filter lets late transfer in. Neither
     paper's data can show what kind of interaction moved the genes.
-    Bernabeu et al. say so of their own data (NOTE-tmpe5t7q).
+    Bernabeu et al. say so of their own data ([NOTE-tmpe5t7q](NOTE-tmpe5t7q.md)).
   - **For the dimensions.** The paper bears on G, how essential functions
     are split across partner genomes: on its account the host lineage
     supplies nearly everything except the mitochondrion's energy and Fe–S
     machinery. It says nothing about D, R, C or S, and nothing about how the
     partners came to depend on each other.
-- **NOTE-159** reports the SEP entry's suggestion that eukaryogenesis may be
+- **[NOTE-159](NOTE-159.md)** reports the SEP entry's suggestion that eukaryogenesis may be
   "first and foremost a story about diversification within Archaea". This
   paper is the strongest version of that view so far in the record. But
   it still calls the mitochondrion "functionally crucial", so the
   endosymbiosis remains in the story.
-- **THEORY-141 and THEORY-418.** Nothing here tests them. The paper models
+- **[THEORY-141](../theory.d/THEORY-141.md) and [THEORY-418](../theory.d/THEORY-418.md).** Nothing here tests them. The paper models
   gene origins, not selection or organization.
-- Filed as THEORY-tmpfoo2c (the composition result and its reading) and
-  THEORY-tmpbinho (stem length is not a clock). No instruction for
+- Filed as [THEORY-tmpfoo2c](../theory.d/THEORY-tmpfoo2c.md) (the composition result and its reading) and
+  [THEORY-tmpbinho](../theory.d/THEORY-tmpbinho.md) (stem length is not a clock). No instruction for
   machine-learning practice.
 
 ## Limitations

@@ -65,24 +65,24 @@ abstracts until they are read.
 
 ## Note of 2026-10-27 (batch 2): the review read
 
-Sørensen et al. (LIT-1560, read in NOTE-tmpl32gd) update the figures this
+Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)) update the figures this
 case takes from its unread sources:
 
-- **Acquisition date.** "~ 90–140 million years ago". LIT-1557's 60
+- **Acquisition date.** "~ 90–140 million years ago". [LIT-1557](../literature.d/LIT-1557.md)'s 60
   million years is an older estimate.
 - **Genome.** About 1 Mbp, with "878–860" protein-coding genes and about
   two-thirds of the original coding capacity lost. The case's "26% kept"
-  uses LIT-1621's comparator.
+  uses [LIT-1621](../literature.d/LIT-1621.md)'s comparator.
 - **Nuclear genes.** About 60 come from the chromatophore and about 170
   from other bacteria.
 - **Imported proteins.** They number "hundreds", "mostly from the host
   itself". The review says transfer played "only a circumstantial role"
-  (THEORY-tmp74xnn). So the previous title's "more than thirty genes moved
+  ([THEORY-tmp74xnn](../theory.d/THEORY-tmp74xnn.md)). So the previous title's "more than thirty genes moved
   to the host nucleus and their proteins imported back" overstated
   transfer, and the title is revised.
 - **The subunits.** The review names two transferred photosystem I
   subunits shown to be imported, PsaE and PsaK. The case's "three" comes
-  from LIT-1557's unread abstract and is unchecked.
+  from [LIT-1557](../literature.d/LIT-1557.md)'s unread abstract and is unchecked.
 - **The route.** Import runs through the Golgi, with a bipartite
   N-terminal targeting peptide on long proteins. About 20% of long imported
   proteins serve the chromatophore's DNA replication and gene expression,

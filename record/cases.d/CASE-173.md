@@ -102,8 +102,8 @@ rests on their abstracts until they are read.
 
 ## Note of 2026-10-27 (batch 2): the genome paper read in full
 
-LIT-1596 has been read in full (NOTE-tmp82xw1, THEORY-tmpehubi). So has
-the review LIT-1560 (NOTE-tmpl32gd). The case's first paragraph mostly
+[LIT-1596](../literature.d/LIT-1596.md) has been read in full ([NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md), [THEORY-tmpehubi](../theory.d/THEORY-tmpehubi.md)). So has
+the review [LIT-1560](../literature.d/LIT-1560.md) ([NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)). The case's first paragraph mostly
 stands. Six corrections:
 
 - **"Neither can reproduce independently" is cited, not shown.** It is the
@@ -115,12 +115,12 @@ stands. Six corrections:
   essential amino acids, so the pathways interlock as well as complement.
 - **The drift attribution has no source here.** The genome paper does not
   mention drift, Muller's ratchet or population size. "Dependence ...
-  produced largely by drift" rests on LIT-1573 alone, which is Unfetched.
+  produced largely by drift" rests on [LIT-1573](../literature.d/LIT-1573.md) alone, which is Unfetched.
 - **On gene transfer to the host, the genome paper says nothing.** It does
   not study the host genome. The host-encoded protein reported in
   *Buchnera* (the note above) is RlpA4. Its gene came to the aphid from
   another bacterium, not from *Buchnera*. Proteomics found no host protein
-  reliably enriched in *Buchnera* (LIT-1560). The paper itself proposes
+  reliably enriched in *Buchnera* ([LIT-1560](../literature.d/LIT-1560.md)). The paper itself proposes
   that the host supplies phospholipid, or the enzymes to make it, "like
   mitochondria do". That is untested.
 - **Loss of self-regulation, not host control.** *Buchnera* lacks nearly
@@ -128,8 +128,8 @@ stands. Six corrections:
   regulated. That bears on C as lost self-regulation, not as host control.
 - **Envelope loss above the threshold.** At 641 kb, *Buchnera* APS has
   already lost phospholipid and LPS synthesis. That is above
-  THEORY-1049's 400 kb boundary for complete envelope loss, and consistent
+  [THEORY-1049](../theory.d/THEORY-1049.md)'s 400 kb boundary for complete envelope loss, and consistent
   with its remark that erosion begins in larger genomes.
 
-Campbell et al. (LIT-1590, Table 1) cite 886 to 8,223 *Buchnera* cells per
+Campbell et al. ([LIT-1590](../literature.d/LIT-1590.md), Table 1) cite 886 to 8,223 *Buchnera* cells per
 aphid egg across three aphid species, from earlier work.
