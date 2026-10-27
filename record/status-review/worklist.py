@@ -47,7 +47,10 @@ class Record:
             for p in (root / f"{d}.d").glob("*-*.md"):
                 m = re.match(r"---\n(.*?)\n---\n", p.read_text(), re.S)
                 if m:
-                    fm = yaml.safe_load(m.group(1))
+                    try:
+                        fm = yaml.safe_load(m.group(1))
+                    except yaml.YAMLError as e:
+                        raise SystemExit(f"{p}: frontmatter does not parse: {e}")
                     if isinstance(fm, dict):
                         docs[p.stem] = fm
         return cls(docs)

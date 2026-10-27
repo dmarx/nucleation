@@ -3,7 +3,7 @@ number: 217
 status: Proposed
 formerly:
 - CLAIM-tmpawn12
-title: 'For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act's other constituents diverge from the judges' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents'
+title: 'For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act''s other constituents diverge from the judges'' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents'
 version: 2
 history:
 - version: 2
