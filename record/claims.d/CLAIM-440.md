@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpz8lli
 title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation''s decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added: the difficulty for clause 3 (intensity as
+    the potential's strength) from Hesp et al. and Carver is filed as the
+    objection CLAIM-tmpra2cf. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -319,3 +326,11 @@ Minsky's emotion machine ([THEORY-570](../theory.d/THEORY-570.md)), resources se
 selectors, beside this claim as a mechanistic alternative rather than
 support: it has a more explicit mechanism for switching regimes and weaker
 evidence.
+
+## Note of 2026-10-27: clause 3's difficulty filed as an objection
+
+The difficulty clause 3 records against itself, that Hesp et al. make
+negative valence a fall in the precision of the preference ordering and
+Carver is reported to make positive affect lower a goal's priority, is
+filed as CLAIM-tmpra2cf, a counter, Proposed, beside CLAIM-438. The clause
+stays open for both signs, as it says. The claim is unchanged.

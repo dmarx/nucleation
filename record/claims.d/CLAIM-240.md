@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpnttsk
 title: 'A holistic fidelity judgement is fidelity under the judges'' default task, a weighting of the profile''s components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added: the limit recorded in the note of
+    2026-10-10, access and not weighting, is filed as the objection CLAIM-
+    tmp4pmcv. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -138,3 +145,11 @@ weight is zero by blindness, not by a default task. A test of this claim
 across populations with unequal access to the source has to separate the
 components both populations can perceive from those only one can, and fit
 weights on the first kind only.
+
+## Note of 2026-10-27: the limit filed as an objection
+
+The limit the note of 2026-10-10 recorded, that part of a reception split
+between populations with unequal access is access and not weighting, is
+filed as CLAIM-tmp4pmcv, a counter, Proposed. A test of this claim across
+such populations meets it by fitting weights only on the components both
+can perceive. The claim is unchanged.
