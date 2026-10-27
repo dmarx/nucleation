@@ -1,0 +1,39 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered in the second pass on the exchange of 2026-10-27, "Repository coverage assessment", at the owner's request to find what it mentioned and did not cite (second curation entry of 2026-10-27). No NOTE is filed.
+title: 'Genome sequence of the endocellular bacterial symbiont of aphids Buchnera sp. APS'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed on 2026-10-27, and Crossref searched for a preprint under the title. `published:` is 2000-09-07, the issue date PubMed gives; Crossref gives only the month.
+tags:
+- endosymbiosis
+- ecology
+- natural-sciences
+date: '2026-10-27'
+published: '2000-09-07'
+doi: '10.1038/35024074'
+first_author: 'Shigenobu'
+keywords:
+- 'Buchnera'
+- 'aphids'
+- 'bacteriocytes'
+- 'genome sequence'
+- 'essential amino acids'
+implementations: []
+summary: >-
+  Shigenobu et al. (2000). The first genome of an obligate insect endosymbiont: Buchnera sp. APS, maternally transmitted in aphid bacteriocytes, has a 640,681-bp chromosome, a seventh of E. coli's. It keeps genes for the amino acids essential to the host and lacks those for non-essential ones, for cell-surface components, regulators and defence: complementarity with the host, and viability only in the bacteriocyte.
+---
+
+# LIT-tmp98l8f: Genome sequence of the endocellular bacterial symbiont of aphids Buchnera sp. APS
+
+Shigenobu, S., Watanabe, H., Hattori, M., Sakaki, Y. & Ishikawa, H. (2000). Genome sequence of the endocellular bacterial symbiont of aphids *Buchnera* sp. APS. *Nature* 407(6800): 81–86. doi:10.1038/35024074.
+
+Not read. The summary is drawn from the abstract. A reading should check it first.
+
+## Why this is here
+
+A1 proposed a CASE for aphid–*Buchnera*, the obligate insect–bacterial association, and the record held *Buchnera* only through [NOTE-114](../notes.d/NOTE-114.md). This is the founding genome paper, registered as the primary source for [CASE-tmpoa9h4](../cases.d/CASE-tmpoa9h4.md). The abstract says the mutualism "is so obligate that neither can reproduce independently". That is mutual dependence in the sense of [LIT-1570](LIT-1570.md).

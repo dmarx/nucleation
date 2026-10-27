@@ -58,7 +58,10 @@ vocabularies:
           any machine-learning claim
       ecology:
         label: Ecology
-        blurb: 'how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028)'
+        blurb: 'how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028). How a partner comes to live inside another and depend on it is endosymbiosis (ADR-055)'
+      endosymbiosis:
+        label: Endosymbiosis and reductive evolution
+        blurb: 'how one organism comes to live inside another and depend on it, and how that ends — reductive genome evolution by drift, deletional bias or adaptive loss (including the Black Queen dependencies of free-living microbes), complementary loss across partners, nested symbioses and symbiont splitting and replacement, endosymbiotic gene transfer, protein import and host control of transmission, organellogenesis and organelle loss, and eukaryogenesis. The ecology of a partnership is ecology (ADR-055)'
       thermodynamics:
         label: Thermodynamics
         blurb: 'the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020)'

@@ -4,11 +4,18 @@ status: Open
 formerly:
 - QUESTION-tmpzwgk0
 title: 'When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host''s regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Retagged under ADR-055: `endosymbiosis` replaces `ecology`. Note of
+    2026-10-27 (later) added: the six CASEs and the works of the second
+    pass. The question is unchanged.
 tags:
 - individuation
 - philosophy-of-biology
-- ecology
+- endosymbiosis
 date: '2026-10-27'
 line: distributed-agency
 refines:
@@ -29,6 +36,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 LIT-1225 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-141 THEORY-418 THEORY-443 LIT-188 — Proposed; accounts the question would test, cited as open -->
+<!-- inactive-ok-file: LIT-tmp1u989 LIT-tmp4u7hy LIT-tmpmnpe8 LIT-tmprmgys LIT-tmp01c3k LIT-tmpj3ova LIT-tmpfubrx LIT-tmpt00nh LIT-tmpi201p LIT-tmp9k032 LIT-tmp4y7ls LIT-tmp8xhh2 CASE-tmpoa9h4 CASE-tmpir76a CASE-tmpx4tix CASE-tmpowpq1 CASE-tmp30dzl CASE-tmpa087v — Deferred works and Proposed cases of the second pass, cited in the note of 2026-10-27 (later), nothing here rests on them -->
 
 # QUESTION-277: When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host's regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?
 
@@ -115,3 +123,40 @@ The question is the exchange's. The record takes no position on its answer
 until the works are read. A2 put it as follows: "The biological literature
 would not automatically settle these philosophical questions. It would,
 however, constrain what a successful theory of individuality must explain."
+
+## Note of 2026-10-27 (later): cases, and works for what the exchange named without citing
+
+Six documented cases now hold the systems the question names. All are
+Proposed, because their sources are unread.
+
+- Aphid–*Buchnera* ([CASE-tmpoa9h4](../cases.d/CASE-tmpoa9h4.md)): dependence produced largely by drift.
+- The mealybug's nested symbionts ([CASE-tmpir76a](../cases.d/CASE-tmpir76a.md)): genes from third
+  parties, and constituents replaced.
+- *Hodgkinia*'s splitting in cicadas ([CASE-tmpx4tix](../cases.d/CASE-tmpx4tix.md)): more parts and more
+  dependence with no new function, and a host that compensates at
+  transmission.
+- *Paulinella* ([CASE-tmpowpq1](../cases.d/CASE-tmpowpq1.md)) and the nitroplast ([CASE-tmp30dzl](../cases.d/CASE-tmp30dzl.md)): control
+  through gene transfer and import.
+- *Monocercomonoides* ([CASE-tmpa087v](../cases.d/CASE-tmpa087v.md)): an organelle lost.
+
+The exchange named several things without citing a work. Works now
+registered for each:
+
+- **Gene transfer to the nucleus:** [LIT-tmp1u989](../literature.d/LIT-tmp1u989.md).
+- **Host compensation:** [LIT-tmp4u7hy](../literature.d/LIT-tmp4u7hy.md).
+- **Population-genetic models of gene loss:** [LIT-tmpmnpe8](../literature.d/LIT-tmpmnpe8.md) and
+  [LIT-tmprmgys](../literature.d/LIT-tmprmgys.md).
+- **Metabolic-network constraints:** [LIT-tmp01c3k](../literature.d/LIT-tmp01c3k.md).
+- **Multitype branching processes:** [LIT-tmpj3ova](../literature.d/LIT-tmpj3ova.md). This is a general text;
+  no endosymbiosis work using the method was found.
+- **Mutualism theory:** [LIT-tmpfubrx](../literature.d/LIT-tmpfubrx.md).
+- **Host control and within-collective conflict, the S and C dimensions:**
+  Frank's two models, [LIT-tmpt00nh](../literature.d/LIT-tmpt00nh.md) and [LIT-tmpi201p](../literature.d/LIT-tmpi201p.md).
+- **The eukaryogenesis scenarios A1 listed:** syntrophy ([LIT-tmp9k032](../literature.d/LIT-tmp9k032.md),
+  [LIT-tmp4y7ls](../literature.d/LIT-tmp4y7ls.md)), and complexity before the mitochondrion ([LIT-tmp8xhh2](../literature.d/LIT-tmp8xhh2.md)).
+
+[LIT-tmpi201p](../literature.d/LIT-tmpi201p.md) makes a point that bears on the answer. Reproductive cohesion
+(R) can be imposed by the host's control (C), by sequestering a germ line
+of symbionts. If so, the two dimensions are not independent, and an answer
+must say which drives which.
+

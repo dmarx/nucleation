@@ -1,0 +1,39 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered in the second pass on the exchange of 2026-10-27, "Repository coverage assessment", at the owner's request to find what it mentioned and did not cite (second curation entry of 2026-10-27). No NOTE is filed.
+title: 'Changes in Endosymbiont Complexity Drive Host-Level Compensatory Adaptations in Cicadas'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed on 2026-10-27, and Crossref searched for a preprint under the title. `published:` is 2018-06-22, the posting date of the bioRxiv preprint under the same title (doi:10.1101/353573). The journal version appeared on 2018-11-13 (PubMed). Earlier date taken under ADR-002.
+tags:
+- endosymbiosis
+- ecology
+- natural-sciences
+date: '2026-10-27'
+published: '2018-06-22'
+doi: '10.1128/mBio.02104-18'
+first_author: 'Campbell'
+keywords:
+- 'Hodgkinia'
+- 'symbiont transmission'
+- 'transmission bottleneck'
+- 'host compensation'
+- 'cicadas'
+implementations: []
+summary: >-
+  Campbell et al. (2018). Where Hodgkinia has fragmented into lineages differing in abundance by over a hundredfold, low-abundance essential lineages risk loss at the transmission bottleneck from mother to egg. Every egg seems to receive the full set, because cicadas with more complex Hodgkinia transmit up to six times as many cells. The raised titre is proposed as a cost of fragmentation.
+---
+
+# LIT-tmp4u7hy: Changes in Endosymbiont Complexity Drive Host-Level Compensatory Adaptations in Cicadas
+
+Campbell, M. A., Łukasik, P., Meyer, M. C., Buckner, M., Simon, C., Veloso, C., Michalik, A. & McCutcheon, J. P. (2018). Changes in Endosymbiont Complexity Drive Host-Level Compensatory Adaptations in Cicadas. *mBio* 9(6): e02104-18. doi:10.1128/mBio.02104-18.
+
+Not read. The summary is drawn from the abstract. A reading should check it first.
+
+## Why this is here
+
+A2 listed "host compensation" ("selection to maintain collective functionality", giving "transport, regulation, or metabolic rescue") as a mechanism, and named no work for it. This is a documented case of the host compensating at the level of transmission, so it bears on reproductive cohesion (R) in [QUESTION-277](../questions.d/QUESTION-277.md). Registered for [CASE-tmpx4tix](../cases.d/CASE-tmpx4tix.md).
