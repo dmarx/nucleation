@@ -229,3 +229,15 @@ moves at once. "Storage plus operational uptake" fits the settled record,
 not the record being written. The grammar grows often, on nine of 32 days,
 and is revised never, so what is slow is a type once declared, not the
 grammar.
+
+## Note of 2026-10-27 (last): how the apparatus is reconstituted
+
+CASE-tmp0zvle measured when and how luria's grammar is revised in this record.
+The claim says misfits met in use revise the grammar. The measurement agrees,
+and it is specific about how. 94% of the vocabulary terms added after the
+scaffold were used by a document changed in the same pull request, and nine in
+ten of the pull requests that added a term, field, vocabulary or scheme also
+added an ADR, against one in six of all pull requests. So the apparatus is
+reconstituted in the act of filing, by a decision taken there, at the lowest
+level that holds the misfit. Its rate of reconstitution fell during the month
+while the rate of filing rose.

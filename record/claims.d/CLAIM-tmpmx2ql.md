@@ -178,3 +178,20 @@ process that settles. It does not test the claim's direction, that the slow
 layers constrain because they are slow. In the record the slow layers are
 also the ones the lint enforces, so slowness and enforcement are not
 separated by this measurement.
+
+## Note of 2026-10-27 (last): how the record's grammar grows
+
+At the owner's direction, CASE-tmp0zvle measured the rates of the record's
+own refinement. Documents were filed on all 32 days, vocabulary terms added on
+18, scheme fields and relations on 8, schemes on 1 and a remote project on 1.
+So the record has the hierarchy of time scales this claim is about. It does
+not have it by the claim's mechanism of separate fast and slow dynamics. Each
+rarer refinement came in the same pull request as the documents that needed
+it, with the commoner refinements and, nine times in ten, an ADR. The slow
+levels are rarer outcomes of one loop, not slower processes. The hierarchy
+also widened as the record grew: term additions per document fell about
+fourfold from the first half of the month to the second. A hierarchy of rates
+made by thresholds in one process, and not by slow modes, bears on (a) of the
+defeater only weakly, since the record is not a system the claim's
+individuation results treat. But it is a case in which separation is produced
+by organization, the claim's second half, in a form the claim does not name.

@@ -129,3 +129,11 @@ A longer history, in which a relation type is redeclared or a scheme
 retired, would give the grammar's revision a rate instead of a bound. A
 second record measured the same way (the anthology, strata-g) would say
 whether these numbers belong to luria or to this record's way of being kept.
+
+## Note of 2026-10-27 (later): the grammar's growth, by level
+
+"The grammar is slow to revise, not slow to grow" is refined by CASE-tmp0zvle,
+which measures growth at each level at the owner's direction. Terms, scheme
+members, vocabularies, schemes and remote projects are added at rates falling
+in that order. They are added in the same pull requests as the documents that
+need them, and the rates fell over the month.
