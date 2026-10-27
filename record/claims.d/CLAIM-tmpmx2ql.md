@@ -164,3 +164,17 @@ reflect a disparity in characteristic rates of change".
   that is the reading's). It is a sixth route to the second half: the ordered
   phase makes its own slow modes. The scaling is hyperdiffusive (z = 6/5 in
   two dimensions), not τ_k = 1/(Dk²).
+
+## Note of 2026-10-27 (latest): the record's own layers
+
+CASE-tmpqou64 measured whether the record shows the claim's first half in
+itself. It shows a hierarchy of rates in the settled record: prose revised
+about once in 22 days, status and relation instances about once in 130,
+relation instances retracted about once in 600, relation types not at all in
+fifty days. It also shows a window in the claim's sense: the hierarchy holds
+only after an entry's first day, and during that day every layer moves. That
+fits "over the window between the two time scales", with drafting as the fast
+process that settles. It does not test the claim's direction, that the slow
+layers constrain because they are slow. In the record the slow layers are
+also the ones the lint enforces, so slowness and enforcement are not
+separated by this measurement.

@@ -122,3 +122,16 @@ maintain and enforce them". A relation type changes by decision, on the
 grammar's slow time scale ([CLAIM-195](CLAIM-195.md), [CLAIM-419](CLAIM-419.md)), while the prose of its relata
 changes at every edit. That is [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)'s mechanism. Both explain the
 rigidity this claim demonstrates; neither is part of it.
+
+## Note of 2026-10-27 (latest): the rigidity in the rates
+
+CASE-tmpqou64 shows the rigidity this claim demonstrates from the grammar as
+a disparity of rates as well. Of 6632 authored relation instances, 149 were
+retracted, a median of 0.18 days after they were written, so as drafting
+corrections. Relation types have been added on seven days of the history and
+none has been redeclared. Prose, once drafting is over, is revised about
+once in 22 days. The previous note said a relation type "changes by decision,
+on the grammar's slow time scale". The measurement narrows that. The record
+does not revise a type; it adds one beside it, as ADR-044 added `corroborates`
+beside `rests_on` after CASE-131. What is slow is redeclaration, not the
+grammar's growth.

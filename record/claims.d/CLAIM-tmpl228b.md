@@ -213,4 +213,19 @@ Three of the exchange's later turns bear on this claim.
   "**storage plus operational uptake**". A12 warned that "There's no guarantee
   these processes possess numerically well-separated timescales. That would
   need measurement." The record's own commit and decision history could
-  supply it. That is not done.
+  supply it. It was measured the same day; see the note below.
+
+## Note of 2026-10-27 (latest): the rates measured
+
+CASE-tmpqou64 measures them over the record's first fifty days. Once an
+entry's first day is past, its prose is revised about once in 22 days, its
+status once in 128, its authored relations gained or lost once in 132 and
+retracted once in about 600, and no relation type in luria.yaml has been
+redeclared. So the layers A12 and A13 named are ordered as they said, by one
+to two orders of magnitude. Two of their layers do not separate. Validation,
+the bot's repair, runs at the rate of the edits it follows (τ 11 d against
+13 d), since every push triggers it. And in an entry's first day every layer
+moves at once. "Storage plus operational uptake" fits the settled record,
+not the record being written. The grammar grows often, on nine of 32 days,
+and is revised never, so what is slow is a type once declared, not the
+grammar.
