@@ -39,7 +39,7 @@ summary: >-
 
 ## Contribution
 
-The first test of the step ROME (LIT-1536) and MEMIT (LIT-tmpsrubd)
+The first test of the step ROME ([LIT-1536](../literature.d/LIT-1536.md)) and MEMIT ([LIT-tmpsrubd](../literature.d/LIT-tmpsrubd.md))
 take from localization to editing, done per fact rather than on
 averages. Meng et al. compared tracing and editing each averaged over
 facts; this paper asks whether, for a given fact, the layers where
@@ -132,11 +132,11 @@ change will move the output. The paper shows these come apart.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | In GPT-J on CounterFact, the per-fact tracing effect at a layer adds almost nothing to predicting edit success at that layer once the layer is known | strong for this setting | 652 facts; four methods, five problems, F-tests; many robustness checks (THEORY-tmpg87ki) |
+| C1 | In GPT-J on CounterFact, the per-fact tracing effect at a layer adds almost nothing to predicting edit success at that layer once the layer is known | strong for this setting | 652 facts; four methods, five problems, F-tests; many robustness checks ([THEORY-tmpg87ki](../theory.d/THEORY-tmpg87ki.md)) |
 | C2 | ROME edits succeed (rewrite > 96%) at almost every layer of GPT-J, including where tracing finds nothing for the fact | strong | Figure 7, §4.1 |
 | C3 | The result holds for GPT-2 XL, ZSRE, representation zeroing and other metrics | moderate | Appendix B–C, mostly as figures and R² tables |
 | C4 | Tracing relates to editing only when the edit is made on tracing's noised input (Fact Forcing), and weakly | moderate | Figure 6, Table 3, Figure 17; the attribution to s_noise is by elimination across the five problems |
-| C5 | Causal tracing and model editing answer different questions; "many layers could store a fact, and it happens that some do" | weak | offered in §6, explicitly left to future work (THEORY-tmpiz2n7) |
+| C5 | Causal tracing and model editing answer different questions; "many layers could store a fact, and it happens that some do" | weak | offered in §6, explicitly left to future work ([THEORY-tmpiz2n7](../theory.d/THEORY-tmpiz2n7.md)) |
 | C6 | Editing experiments do not add evidence for localization claims | moderate as a conditional | §6: follows from C1 if the two questions differ; argued, not measured beyond this case |
 
 ## Concepts
@@ -155,19 +155,19 @@ change will move the output. The paper shows these come apart.
 
 ## Connections
 
-It tests the localization-to-editing step of ROME (LIT-1536) and MEMIT
-(LIT-tmpsrubd), using their CounterFact data, their tracing code and,
-for MEMIT, their hyperparameters. It cites Geva et al. (LIT-tmpe8ypo) for
+It tests the localization-to-editing step of ROME ([LIT-1536](../literature.d/LIT-1536.md)) and MEMIT
+([LIT-tmpsrubd](../literature.d/LIT-tmpsrubd.md)), using their CounterFact data, their tracing code and,
+for MEMIT, their hyperparameters. It cites Geva et al. ([LIT-tmpe8ypo](../literature.d/LIT-tmpe8ypo.md)) for
 the MLP-as-memory reading. Its related-work section lists the many
 localization studies that validate a localization by editing at it
 (Dai et al.'s knowledge neurons among them). Zhao et al.'s layer-swap
 result is cited as the reason its own explanation would be surprising,
 the same result ROME cites for the opposite conclusion. Makelov et al.
-(LIT-968) cite this paper and give a mechanism for its central finding.
+([LIT-968](../literature.d/LIT-968.md)) cite this paper and give a mechanism for its central finding.
 
 ## Bearing on the record
 
-- **THEORY-1011.** Its promote_when asks whether "the layer where
+- **[THEORY-1011](../theory.d/THEORY-1011.md).** Its promote_when asks whether "the layer where
   causal tracing finds a fact's effect predicts, fact by fact, where an
   edit of that fact succeeds", and says it is refuted "if edits of equal
   quality are available at layers that tracing does not implicate". This
@@ -175,37 +175,37 @@ the same result ROME cites for the opposite conclusion. Makelov et al.
   96% at layers where tracing does not place the fact, and tracing adds
   0.1 points of R². On the paraphrase and overall scores the layers do
   differ, but by layer, not by where tracing places the fact. So the
-  localization part of THEORY-1011, that the fact is stored at the traced
+  localization part of [THEORY-1011](../theory.d/THEORY-1011.md), that the fact is stored at the traced
   site, meets its own refutation condition here. Its conjecture that any
   middle layer could store a fact is close to this paper's "many layers
   could store a fact", and is not refuted. Whether to narrow, split or
-  reject THEORY-1011 is left to the consolidator; this reading does not
+  reject [THEORY-1011](../theory.d/THEORY-1011.md) is left to the consolidator; this reading does not
   change it.
-- **THEORY-998.** Not contradicted. Its title says ROME works best "at
+- **[THEORY-998](../theory.d/THEORY-998.md).** Not contradicted. Its title says ROME works best "at
   that token and in middle layers", which is an average over facts, and
   ROME is best on average at GPT-J's layer 6 here too. What this paper
   contradicts is the reading of that average as following from where each
-  fact is traced (NOTE-1166, C4).
-- **LIT-968, THEORY-282, NOTE-782.** Makelov et al. explain this finding:
+  fact is traced ([NOTE-1166](NOTE-1166.md), C4).
+- **[LIT-968](../literature.d/LIT-968.md), [THEORY-282](../theory.d/THEORY-282.md), [NOTE-782](NOTE-782.md).** Makelov et al. explain this finding:
   a rank-one edit with the same output exists for any one-dimensional fact
   patch, so an edit can work at a layer whatever that layer carries. This
-  paper is the empirical side of that point, and NOTE-782 cites it as
+  paper is the empirical side of that point, and [NOTE-782](NOTE-782.md) cites it as
   such.
-- **CLAIM-130, QUESTION-030.** Two interventions on the same model, one
+- **[CLAIM-130](../claims.d/CLAIM-130.md), [QUESTION-030](../questions.d/QUESTION-030.md).** Two interventions on the same model, one
   restoring states and one changing weights, give different answers to
-  "where", because they are different interventions. That is CLAIM-130's
+  "where", because they are different interventions. That is [CLAIM-130](../claims.d/CLAIM-130.md)'s
   caution about do(S) and do(I) in another setting. The analogy is the
   record's.
-- **THEORY-802, QUESTION-234.** Many layers can carry an edit equally
+- **[THEORY-802](../theory.d/THEORY-802.md), [QUESTION-234](../questions.d/QUESTION-234.md).** Many layers can carry an edit equally
   well, as many bases can satisfy an interchange. Both say that the
   success of an intervention underdetermines where the variable is. The
   analogy is the record's.
-- **CLAIM-454.** A localization method recovers where restoring a state
+- **[CLAIM-454](../claims.d/CLAIM-454.md).** A localization method recovers where restoring a state
   helps a corrupted run, not what organizes the behaviour in the clean
   one. The paper's Fact Forcing result, a link that appears only on the
   noised input, is a case of that.
-- **Accounts filed.** THEORY-tmpg87ki (Active): the measured result,
-  limited to the models, data and methods tested. THEORY-tmpiz2n7
+- **Accounts filed.** [THEORY-tmpg87ki](../theory.d/THEORY-tmpg87ki.md) (Active): the measured result,
+  limited to the models, data and methods tested. [THEORY-tmpiz2n7](../theory.d/THEORY-tmpiz2n7.md)
   (Proposed): the authors' account of why.
 
 No instruction for machine-learning practice is drawn. Which layer to

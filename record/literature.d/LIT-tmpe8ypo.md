@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpvd0mr) in full, from the arXiv copy (v2, the
+  read 2026-10-27 ([NOTE-tmpvd0mr](../notes.d/NOTE-tmpvd0mr.md)) in full, from the arXiv copy (v2, the
   EMNLP 2021 version); worth reading as the origin of the reading of a
   transformer's MLP as a key–value memory, with each hidden unit a key
   over input patterns and each output row a value over the vocabulary,
   and for its evidence in one 16-layer language model: keys whose top
   training prefixes share recognizable patterns, shallow below and
   semantic above, and upper-layer values that agree, weakly, with what
-  follows those patterns (THEORY-tmpwtgvz). Read it knowing that the
-  general reading is wider than the evidence (THEORY-tmpt0fr3), that the
+  follows those patterns ([THEORY-tmpwtgvz](../theory.d/THEORY-tmpwtgvz.md)). Read it knowing that the
+  general reading is wider than the evidence ([THEORY-tmpt0fr3](../theory.d/THEORY-tmpt0fr3.md)), that the
   agreement it reports peaks at about 3.5%, that the patterns were
   labelled by one annotator per key, and that ROME and MEMIT took the
   matrix-level version of the idea, not this unit-level one.
@@ -75,18 +75,18 @@ feed-forward layers are key-value memories. In *Proceedings of the 2021
 Conference on Empirical Methods in Natural Language Processing*, pp.
 5484–5495. arXiv:2012.14913. doi:10.18653/v1/2021.emnlp-main.446.
 
-Read in full on 2026-10-27 (NOTE-tmpvd0mr). Two accounts were drawn
-from it: THEORY-tmpwtgvz and THEORY-tmpt0fr3.
+Read in full on 2026-10-27 ([NOTE-tmpvd0mr](../notes.d/NOTE-tmpvd0mr.md)). Two accounts were drawn
+from it: [THEORY-tmpwtgvz](../theory.d/THEORY-tmpwtgvz.md) and [THEORY-tmpt0fr3](../theory.d/THEORY-tmpt0fr3.md).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27, to fill a gap
-the circuits readings of 2026-10-26 named. ROME (LIT-1536) takes from it
+the circuits readings of 2026-10-26 named. ROME ([LIT-1536](LIT-1536.md)) takes from it
 the reading of MLPs as key–value memories on which its storage hypothesis
-(THEORY-1011) and its edit rest, and MEMIT (LIT-tmpsrubd) cites it for
+([THEORY-1011](../theory.d/THEORY-1011.md)) and its edit rest, and MEMIT ([LIT-tmpsrubd](LIT-tmpsrubd.md)) cites it for
 the same. Without it the record held the hypothesis but not its source,
 and could not see that the source's keys and values are individual hidden
 units and output rows, while ROME's are activation vectors and the whole
 output matrix. It is also an early account of the residual stream as a
 prediction refined layer by layer, which the circuits framework
-(LIT-1534) states in its own terms.
+([LIT-1534](LIT-1534.md)) states in its own terms.

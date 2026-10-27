@@ -38,7 +38,7 @@ summary: >-
 ## Contribution
 
 A method that scales direct weight editing from single facts, where ROME
-(LIT-1536) works, to batches of ten thousand, where ROME applied
+([LIT-1536](../literature.d/LIT-1536.md)) works, to batches of ten thousand, where ROME applied
 repeatedly and the hypernetwork editors fail. It does so by solving one
 least-squares problem per layer for the whole batch, against a covariance
 of previously stored keys, and by spreading each edit over several
@@ -118,7 +118,7 @@ matrix moves less.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | At 10,000 edits on GPT-J and GPT-NeoX, MEMIT keeps efficacy, generalization and fluency high and specificity moderate, far above the baselines tested | strong for these baselines and data | Tables 1–2, Figure 5; scores recomputed (THEORY-tmpukwxl) |
+| C1 | At 10,000 edits on GPT-J and GPT-NeoX, MEMIT keeps efficacy, generalization and fluency high and specificity moderate, far above the baselines tested | strong for these baselines and data | Tables 1–2, Figure 5; scores recomputed ([THEORY-tmpukwxl](../theory.d/THEORY-tmpukwxl.md)) |
 | C2 | Eq. 14 is the least-squares update for adding a batch of associations to a matrix already at its least-squares optimum | demonstrated | the derivation, checked numerically |
 | C3 | Spreading the edit over the causally implicated MLPs, rather than one layer or late layers or attention, is what makes it work | moderate | Appendix F ablations, from plots |
 | C4 | Edit performance does not depend on how diverse the batch is | weak to moderate | four relation pairs, up to 700 edits, ten runs each |
@@ -148,44 +148,44 @@ matrix moves less.
 
 ## Connections
 
-It extends ROME (LIT-1536): with one fact and one layer, MEMIT's problem
+It extends ROME ([LIT-1536](../literature.d/LIT-1536.md)): with one fact and one layer, MEMIT's problem
 is ROME's with the hard constraint relaxed to least squares. It cites
-Geva et al. (LIT-tmpe8ypo, and their 2022 follow-up) for MLPs as
-key–value memories, Elhage et al. (LIT-1534) for the residual stream that
+Geva et al. ([LIT-tmpe8ypo](../literature.d/LIT-tmpe8ypo.md), and their 2022 follow-up) for MLPs as
+key–value memories, Elhage et al. ([LIT-1534](../literature.d/LIT-1534.md)) for the residual stream that
 lets each MLP add to the hidden state, and Pearl and Vig et al. for causal
 mediation. It compares against fine-tuning (Zhu et al.), MEND (Mitchell et
-al.) and sequential ROME. Hase et al. (LIT-tmpg22tp) test its use of
+al.) and sequential ROME. Hase et al. ([LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md)) test its use of
 causal tracing to choose layers and include it as an editing method.
 
 ## Bearing on the record
 
-- **THEORY-1011.** MEMIT is built on the storage hypothesis, and its
+- **[THEORY-1011](../theory.d/THEORY-1011.md).** MEMIT is built on the storage hypothesis, and its
   success at scale is offered as more of the same kind of support: edits
   at the traced MLPs work, at late MLPs or in attention they work less
-  well. Makelov et al.'s point (LIT-968) applies unchanged: an edit at a
+  well. Makelov et al.'s point ([LIT-968](../literature.d/LIT-968.md)) applies unchanged: an edit at a
   layer can produce the output whether or not the layer holds the fact.
-  And Hase et al. (THEORY-tmpg87ki) show that MEMIT's success, fact by
+  And Hase et al. ([THEORY-tmpg87ki](../theory.d/THEORY-tmpg87ki.md)) show that MEMIT's success, fact by
   fact, does not follow where tracing places the fact. MEMIT's ablations
   compare ranges of layers averaged over facts, which Hase et al. agree
   matter; they do not test storage. So it adds nothing toward promoting
-  THEORY-1011.
-- **THEORY-998.** MEMIT's traces on GPT-J (501 facts) reproduce ROME's
+  [THEORY-1011](../theory.d/THEORY-1011.md).
+- **[THEORY-998](../theory.d/THEORY-998.md).** MEMIT's traces on GPT-J (501 facts) reproduce ROME's
   pattern on GPT-2 XL: MLPs at the last subject token in early-to-middle
   layers, attention at the last token late, and severing the MLPs removes
   the early states' effect. GPT-J also shows strong early attention at the
   last subject token, which the severing experiment suggests is not a
-  mediator. This extends THEORY-998's measurements to a second model; it
+  mediator. This extends [THEORY-998](../theory.d/THEORY-998.md)'s measurements to a second model; it
   does not change their scope.
-- **THEORY-tmpiz2n7.** That spreading an edit over five or six layers
+- **[THEORY-tmpiz2n7](../theory.d/THEORY-tmpiz2n7.md).** That spreading an edit over five or six layers
   works better than one is consistent with Hase et al.'s account that
   edits override accumulated information, and with the opposite, that the
   fact is held across those layers. MEMIT does not distinguish them.
-- **CLAIM-454.** The method's target is a change to the hidden state at
+- **[CLAIM-454](../claims.d/CLAIM-454.md).** The method's target is a change to the hidden state at
   one layer and token that produces the new object; it then finds weight
   changes that write it. That is an intervention chosen for its output,
   which says nothing about which variable organizes recall in the
   unedited model.
-- **Account filed.** THEORY-tmpukwxl (Active): the measured scaling
+- **Account filed.** [THEORY-tmpukwxl](../theory.d/THEORY-tmpukwxl.md) (Active): the measured scaling
   result.
 
 No instruction for machine-learning practice is drawn. Mass editing is
@@ -216,7 +216,7 @@ practice, the anthology's (`anthology-candidate`).
   Figure 10 (and Figure 7 in the main text).
 - **Counting CounterFact.** §5.2.2 calls CounterFact "a collection of
   21,919 factual statements"; they are records of counterfactual edit
-  requests (NOTE-1166 counts 21,919 records and 21,595 counterfactual
+  requests ([NOTE-1166](NOTE-1166.md) counts 21,919 records and 21,595 counterfactual
   statements).
 - **The GPT-NeoX clamp.** Appendix B.4 clamps "‖h_i^L‖ to 3/10 ‖h_i^L‖",
   the hidden state's norm to a fraction of itself; from the GPT-J

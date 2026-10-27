@@ -17,7 +17,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpe8ypo
 summary: >-
-  Geva et al. (2021), LIT-tmpe8ypo, read in NOTE-tmpvd0mr: §§3–5. 160
+  Geva et al. (2021), [LIT-tmpe8ypo](../literature.d/LIT-tmpe8ypo.md), read in [NOTE-tmpvd0mr](../notes.d/NOTE-tmpvd0mr.md): §§3–5. 160
   keys annotated, one annotator each: every key had a pattern (3.6 on
   average), covering 65–80% of top prefixes. Agreement between value and
   key rises to about 3.5% by the top layers, against 0.0004% for a random
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Geva, Schuster, Berant and Levy (2021), EMNLP 2021, arXiv:2012.14913,
-LIT-tmpe8ypo, read in full in NOTE-tmpvd0mr.
+[LIT-tmpe8ypo](../literature.d/LIT-tmpe8ypo.md), read in full in [NOTE-tmpvd0mr](../notes.d/NOTE-tmpvd0mr.md).
 
 ## What was actually shown
 
@@ -73,7 +73,7 @@ prediction could usually have been one unit's.
   typical activations, and no random-direction control was run.
 - **Not about facts.** The associations studied are pattern-to-next-token
   statistics in WikiText, not subject–attribute facts, so this is not the
-  evidence for ROME's storage hypothesis (THEORY-1011), which reads
+  evidence for ROME's storage hypothesis ([THEORY-1011](THEORY-1011.md)), which reads
   keys and values at the level of whole activation vectors.
 - **Not beyond this model.** One 247M-parameter model.
 - **Not that most values predict their key's next token.** At most about
