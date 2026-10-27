@@ -1,9 +1,14 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A reading was attempted on 2026-10-27 and
+  no lawful full text was reached: Unpaywall and OpenAlex list chapter 1
+  as free to read on Cambridge Core (bronze), but the listed PDF address
+  returned the chapter's landing page, which offers the chapter behind
+  "Get access" and shows only its summary; no other open copy is known.
+  It stays Unavailable until a copy is supplied.
 title: 'Realism for Realistic People: A New Pragmatist Philosophy of Science'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -11,6 +16,14 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-10-27:
     Hasok Chang, Cambridge University Press, 13 October 2022, which is
     `published:` per ADR-002.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the bronze
+    chapter-1 PDF that Unpaywall and OpenAlex list returned Cambridge
+    Core's landing page with "Get access" and the summary only; no other
+    open copy is known. Checked 2026-10-27. Status Deferred to
+    Unavailable.
 tags:
 - philosophy-of-science
 - epistemology
@@ -35,9 +48,7 @@ summary: >-
 
 Chang, H. (2022). *Realism for Realistic People: A New Pragmatist Philosophy of Science*. Cambridge University Press. doi:10.1017/9781108635738.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 
