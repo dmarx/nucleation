@@ -45,8 +45,8 @@ What makes the difference — that is [CLAIM-027](CLAIM-027.md).
 
 ## Note of 2026-10-27: grounded in the case, not the account
 
-The status review of this date (ADR-057) found this Active claim grounded
-in THEORY-120, Frankfurt's account of ownership, which is Proposed. The
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this Active claim grounded
+in [THEORY-120](../theory.d/THEORY-120.md), Frankfurt's account of ownership, which is Proposed. The
 claim uses Frankfurt's unwilling addict and none of the account's thesis
-about identification or responsibility. The case is now CASE-tmpv0eej,
-reported in LIT-692 and read in NOTE-545, and the claim is grounded in it.
+about identification or responsibility. The case is now [CASE-tmpv0eej](../cases.d/CASE-tmpv0eej.md),
+reported in [LIT-692](../literature.d/LIT-692.md) and read in [NOTE-545](../notes.d/NOTE-545.md), and the claim is grounded in it.

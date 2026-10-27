@@ -31,10 +31,10 @@
   - [THEORY-073](record/theory.d/THEORY-073.md) is narrowed to Friston's 2013 formulation and promoted. The
     wider form is [THEORY-tmplg04q](record/theory.d/THEORY-tmplg04q.md), Proposed.
 - Pass 2 (workbench entry of 2026-10-27):
-  - CLAIM-283, CLAIM-025 and CLAIM-177 are promoted. CLAIM-283 and
-    CLAIM-177 are narrowed, with their dropped halves filed as
-    CLAIM-tmpxb1wf and CLAIM-tmpuhp12.
-  - TERM-tmp3mqer (Frijda's action readiness) and CASE-tmpv0eej
+  - [CLAIM-283](record/claims.d/CLAIM-283.md), [CLAIM-025](record/claims.d/CLAIM-025.md) and [CLAIM-177](record/claims.d/CLAIM-177.md) are promoted. [CLAIM-283](record/claims.d/CLAIM-283.md) and
+    [CLAIM-177](record/claims.d/CLAIM-177.md) are narrowed, with their dropped halves filed as
+    [CLAIM-tmpxb1wf](record/claims.d/CLAIM-tmpxb1wf.md) and [CLAIM-tmpuhp12](record/claims.d/CLAIM-tmpuhp12.md).
+  - [TERM-tmp3mqer](record/terms.d/TERM-tmp3mqer.md) (Frijda's action readiness) and [CASE-tmpv0eej](record/cases.d/CASE-tmpv0eej.md)
     (Frankfurt's unwilling addict) take the place of contested THEORYs as
     the grounds of claims that used only their concept or case.
   - Four claims move off Superseded TERMs.

@@ -34,8 +34,8 @@ higher-order desires.
 
 ## Note of 2026-10-27: grounded in the objection it applies
 
-The status review of this date (ADR-057) found this Active claim grounded
-in THEORY-120, Frankfurt's account of ownership, which is Proposed. A
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this Active claim grounded
+in [THEORY-120](../theory.d/THEORY-120.md), Frankfurt's account of ownership, which is Proposed. A
 disclaimer does not rest on the account it declines to settle. What the
-body applies is Velleman's objection to Frankfurt (LIT-292, read in full),
+body applies is Velleman's objection to Frankfurt ([LIT-292](../literature.d/LIT-292.md), read in full),
 generalized from desires to organizations, so that is now its ground.

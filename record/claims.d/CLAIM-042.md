@@ -69,6 +69,6 @@ needs a correspondence of observables (the manuscript's τ, §6).
 
 ## Note of 2026-10-27: stated in the live term
 
-The status review of this date (ADR-057) found this claim using TERM-022,
-which is Superseded. It now uses TERM-042: TERM-042's context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case this claim states (the manuscript keeps it as that special case, §2). The claim's status is not
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-022](../terms.d/TERM-022.md),
+which is Superseded. It now uses [TERM-042](../terms.d/TERM-042.md): [TERM-042](../terms.d/TERM-042.md)'s context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case this claim states (the manuscript keeps it as that special case, §2). The claim's status is not
 changed by this.

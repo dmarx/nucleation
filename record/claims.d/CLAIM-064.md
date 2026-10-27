@@ -57,6 +57,6 @@ able to recover it.
 
 ## Note of 2026-10-27: stated in the live term
 
-The status review of this date (ADR-057) found this claim using TERM-035,
-which is Superseded. It now uses TERM-030: the situation of saying is TERM-030's configuration of the communicative situation. The claim's status is not
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-035](../terms.d/TERM-035.md),
+which is Superseded. It now uses [TERM-030](../terms.d/TERM-030.md): the situation of saying is [TERM-030](../terms.d/TERM-030.md)'s configuration of the communicative situation. The claim's status is not
 changed by this.

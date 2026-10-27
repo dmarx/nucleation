@@ -100,6 +100,6 @@ None of these gives the criterion this claim lacks.
 
 ## Note of 2026-10-27: stated in the live term
 
-The status review of this date (ADR-057) found this claim using TERM-016,
-which is Superseded. It now uses TERM-030: the passive/active distinction is between a change in the configuration of the communicative situation and a change in the act configured, which is TERM-030's sense. The claim's status is not
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-016](../terms.d/TERM-016.md),
+which is Superseded. It now uses [TERM-030](../terms.d/TERM-030.md): the passive/active distinction is between a change in the configuration of the communicative situation and a change in the act configured, which is [TERM-030](../terms.d/TERM-030.md)'s sense. The claim's status is not
 changed by this.

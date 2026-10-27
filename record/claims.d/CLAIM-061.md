@@ -114,6 +114,6 @@ comparative test needs. The text above is unchanged.
 
 ## Note of 2026-10-27: stated in the live term
 
-The status review of this date (ADR-057) found this claim using TERM-035,
-which is Superseded. It now uses TERM-030: footing and the speaker's position are components of TERM-030's configuration c = (u, s, a, k, n, g, h), which is where the delivery frame's who-to-whom-from-what-position went. The claim's status is not
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-035](../terms.d/TERM-035.md),
+which is Superseded. It now uses [TERM-030](../terms.d/TERM-030.md): footing and the speaker's position are components of [TERM-030](../terms.d/TERM-030.md)'s configuration c = (u, s, a, k, n, g, h), which is where the delivery frame's who-to-whom-from-what-position went. The claim's status is not
 changed by this.
