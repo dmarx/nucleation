@@ -42,8 +42,8 @@ summary: >-
   [TERM-043](../terms.d/TERM-043.md) makes fidelity the distortion profile of a transport. So the
   objection's independent utterance I shares the source's kind and has no
   fidelity to it, since no transport relates them; the translation T has
-  both. Descent is a fact of provenance that the transport clause supplies,
-  not something the kind criterion must recover. [CLAIM-002](CLAIM-002.md)'s continuity of
+  both. T's provenance is a fact the transport clause supplies, not
+  something the kind criterion must recover. [CLAIM-002](CLAIM-002.md)'s continuity of
   transmission concerns the identity of a work, which [TERM-040](../terms.d/TERM-040.md) keeps apart
   from the kind. Active, because it is read off the record's own texts. It
   does not say judges track descent.
