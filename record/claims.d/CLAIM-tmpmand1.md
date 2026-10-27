@@ -218,14 +218,14 @@ on it.
 
 ## Note of 2026-10-27 (later): constructor theory and Rovelli read
 
-- **Deutsch and Marletto** (LIT-tmpp0mod, read in NOTE-tmpbcj9n) bear on
+- **Deutsch and Marletto** ([LIT-tmpp0mod](../literature.d/LIT-tmpp0mod.md), read in [NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md)) bear on
   defeater (b). They individuate kinds of substrate modally, by which tasks
   are possible on them: an information variable is a set of attributes whose
-  permutations and cloning are possible (THEORY-tmpc8ml4). Instantiating
+  permutations and cloning are possible ([THEORY-tmpc8ml4](../theory.d/THEORY-tmpc8ml4.md)). Instantiating
   information is "an exact, intrinsic property of the substrate" (§4). The
   possibility facts doing the work are realized by no particular thing;
   constructors, the realized part, are only ever approximate ("No perfect
-  constructors exist in nature", §2; THEORY-tmpkqzrf). That presses on
+  constructors exist in nature", §2; [THEORY-tmpkqzrf](../theory.d/THEORY-tmpkqzrf.md)). That presses on
   defeater (b), a constraint that individuates while realized by nothing,
   without settling it: the work is at the level of kinds, and the paper
   treats possibilities as laws of physics, not as specifications prior to
@@ -233,7 +233,7 @@ on it.
   as something that realizes a constraint. A line the paper does not
   develop is close to A10 §7's role-relativity: "Loops are excluded, because
   a substrate on a loop is a constructor" (§2).
-- **Rovelli 1996** (LIT-tmp57r0s, read in NOTE-tmptc0hl; THEORY-tmpduhhr)
+- **Rovelli 1996** ([LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), read in [NOTE-tmptc0hl](../notes.d/NOTE-tmptc0hl.md); [THEORY-tmpduhhr](../theory.d/THEORY-tmpduhhr.md))
   confirms the note above that relational quantum mechanics is
   non-eliminative, and on its own text. Values are relational, and the
   systems are assumed: "Assume that the world can be decomposed (possibly in

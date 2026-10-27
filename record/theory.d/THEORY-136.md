@@ -96,7 +96,7 @@ Scheffer & Carpenter ([LIT-726](../literature.d/LIT-726.md)) review the theory a
 
 ## Note of 2026-10-27: a third route to abrupt change
 
-Ashwin et al. 2012 (LIT-tmpj4ix1, read in NOTE-tmp429c3) add a third route
+Ashwin et al. 2012 ([LIT-tmpj4ix1](../literature.d/LIT-tmpj4ix1.md), read in [NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md)) add a third route
 to abrupt change without alternative stable states, beside a stepwise driver
 and a threshold: a smooth but fast driver acting on a system with one
 globally stable equilibrium, tipping at a threshold "not associated with any
