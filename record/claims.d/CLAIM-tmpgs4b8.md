@@ -23,32 +23,32 @@ complements:
 - CLAIM-027
 - CLAIM-422
 summary: >-
-  Stated in CASE-135's "What it shows" ("Release as well as escalation")
+  Stated in [CASE-135](../cases.d/CASE-135.md)'s "What it shows" ("Release as well as escalation")
   and held by no claim, found in the audit of 2026-10-27. From A24 of the
   exchange of 2026-10-22: flexibility depends "also on the conditions
   under which they relinquish it". The Wichita review documents it: search
   was not reprioritized for over eleven minutes after the mayday, "despite
   the Mayday being under control within a few minutes", and Command did
-  not announce when it was complete. CLAIM-027's maintained relations and
-  TERM-017 name suspension, not release. The edge: one documented incident.
+  not announce when it was complete. [CLAIM-027](CLAIM-027.md)'s maintained relations and
+  [TERM-017](../terms.d/TERM-017.md) name suspension, not release. The edge: one documented incident.
 ---
 
 # CLAIM-tmpgs4b8: An organization's flexibility among regimes depends on the conditions under which a regime gives up authority as well as those under which it takes it, so escalation without a release condition leaves authority with a regime after the demand that justified it has passed
 
 ## The claim
 
-CASE-135, the Brookhollow apartment fire in Wichita: "the mayday regime
+[CASE-135](../cases.d/CASE-135.md), the Brookhollow apartment fire in Wichita: "the mayday regime
 acquired authority without a clear way of giving it back. A24: flexibility
 depends 'also on **the conditions under which they relinquish it**'.
-TERM-017 names suspension; it does not name release." The case's note of
-2026-10-22, from the independent review (LIT-1374): the department's policy
+[TERM-017](../terms.d/TERM-017.md) names suspension; it does not name release." The case's note of
+2026-10-22, from the independent review ([LIT-1374](../literature.d/LIT-1374.md)): the department's policy
 said "During a mayday, no fire ground assignment should be abandoned"
 (p. 54), yet "search and rescue of Building 300 was not reprioritized and
 reinitiated for over eleven (11) minutes after the Mayday was called,
 despite the Mayday being under control within a few minutes" (p. 55), "nor
 did Command announce when the Mayday was complete per WFD policy" (p. 63).
 
-CLAIM-027 lists the maintained relations that decide which regime is
+[CLAIM-027](CLAIM-027.md) lists the maintained relations that decide which regime is
 effective: accessibility, precedence, persistence, jurisdiction,
 suspension and transformation. Suspension is the incumbent regime giving
 way to an escalated one. The incident shows the reverse step as its own

@@ -22,12 +22,12 @@ complements:
 - CLAIM-404
 - CLAIM-297
 summary: >-
-  Stated in CASE-162's "What it can show" and held by no claim, found in
+  Stated in [CASE-162](../cases.d/CASE-162.md)'s "What it can show" and held by no claim, found in
   the audit of 2026-10-27. In the lab's population, admission that depends
   on the record left the worse alternative in charge in 41 of 64 worlds,
   and exact inverse-propensity weighting brought that to 0 below full
   selectivity; with self-scoring alone (c = 0.5, nothing censored) 39 of 64
-  stayed wrong and the correction changed nothing. CLAIM-404 holds that
+  stayed wrong and the correction changed nothing. [CLAIM-404](CLAIM-404.md) holds that
   the informational and evaluative routes are distinct; this says their
   remedies are too. The edge: the correction is an oracle's, with known
   propensities.
@@ -37,7 +37,7 @@ summary: >-
 
 ## The claim
 
-CASE-162's v1.3 results, as stored, worlds with a wrong incumbent out of
+[CASE-162](../cases.d/CASE-162.md)'s v1.3 results, as stored, worlds with a wrong incumbent out of
 64, no self-scoring: at selectivity 0.5, 0.75 and 1, naive credit leaves
 31, 41 and 41 wrong; exact inverse-propensity weighting leaves 0, 0 and 5,
 the 5 where admission probabilities near zero break the correction's
@@ -48,20 +48,20 @@ censored there, so the correction changes nothing." With both, the
 correction removes the part due to selection (at c = 0.25, s = 0.5, 41 to
 0; at c = 0.5, s = 0.5, 41 to 34).
 
-CLAIM-404 says an organization can be governed from outside through the
+[CLAIM-404](CLAIM-404.md) says an organization can be governed from outside through the
 evidence its procedures receive or through the criteria they weigh it by,
 and that the two routes are distinct. The runs show the remedies are
 distinct too: knowing how evidence was admitted repairs the first route
 and is idle on the second, because a self-scored record is biased in what
-it counts, not in what it was shown. CLAIM-297's amplification without
-fidelity is the self-scoring half; CASE-156 the selection half.
+it counts, not in what it was shown. [CLAIM-297](CLAIM-297.md)'s amplification without
+fidelity is the self-scoring half; [CASE-156](../cases.d/CASE-156.md) the selection half.
 
 ## What it does not say
 
 - **A procedure for unknown propensities.** The correction was given the
-  exact admission probabilities, as an oracle (CASE-162: "A procedure for
+  exact admission probabilities, as an oracle ([CASE-162](../cases.d/CASE-162.md): "A procedure for
   unknown or zero propensities" is what it cannot show).
 - **The remedy for self-scoring.** Independent scoring is the natural one
-  (CLAIM-342's evidence that does not pass through the interpretation it
+  ([CLAIM-342](CLAIM-342.md)'s evidence that does not pass through the interpretation it
   tests); the runs do not test it.
 - **Anything beyond the stipulated population**, whose case is Proposed.
