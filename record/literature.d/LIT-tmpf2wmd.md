@@ -1,9 +1,14 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  read in full 2026-10-27 (NOTE-tmpe4zh5), from the arXiv preprint; worth
+  reading as the clearest formal case of agreement on what is expressed
+  without identity of what is held, and of correspondence maps revised by
+  interaction. Mathematics with toy examples, no data; its expression
+  learning reaches coherence with nothing outside the loop to check it,
+  which the authors call "learning to lie".
 title: 'Opinion Dynamics on Discourse Sheaves'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -13,6 +18,22 @@ history:
     Mathematics 81(5), 2033–2060, online 16 September 2021. arXiv
     2005.12798 v1 was submitted on 26 May 2020, which is `published:`
     per ADR-002.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full from the arXiv preprint 2005.12798v1 (26 May 2020, the
+    only version), 23 pp., all thirteen sections, the proofs, Figures 1–7
+    and the references; the first NOTE on the work (NOTE-tmpe4zh5). The
+    published SIAM text was not read. Status set from the reading: Active.
+    The title, `published:` and identifiers stand; the preprint's title is
+    the journal's. The summary is replaced by one from the text. The
+    registration's summary held up: private opinion spaces, edge-specific
+    expression maps, agreement on what is expressed while private states
+    differ, and learning of the expression maps (§§3, 4, 8, 9). The
+    exchange's "observation and communication maps" overstates one half:
+    the sheaf's maps are expression maps, and agents observe only their
+    neighbours' expressions. Two THEORYs are filed from it
+    (THEORY-tmp8ypuh, THEORY-tmptkmt9).
 tags:
 - mathematics
 - network-science
@@ -29,20 +50,27 @@ keywords:
 - 'selective expression'
 implementations: []
 summary: >-
-  Hansen & Ghrist (2021). Models opinion dynamics with discourse
-  sheaves, in which agents hold private opinion spaces and express them
-  through edge-specific maps, so agreement can be reached on what is
-  expressed while private states differ; includes learning of the
-  expression maps.
+  Hansen & Ghrist (2020; SIAM J. Appl. Math. 2021). A discourse sheaf gives
+  each agent a private opinion space and each edge a space of discussed
+  topics, with a linear expression map from each agent into each edge,
+  which may be selective, scaled or sign-reversed ("lie"). Sheaf-Laplacian
+  diffusion converges to the projection onto the global sections:
+  agreement in expression, not in held opinion, so stable polarized
+  distributions exist. Stubbornness, control and observability reduce to
+  relative cohomology. Letting the expression maps diffuse converges to the
+  nearest sheaf of which the opinions are a section ("learning to lie");
+  joint diffusion is gradient descent on the discord, and a conserved
+  quantity keeps the opinions from collapsing to zero when it starts
+  indefinite. Bounded confidence and antagonism are
+  nonlinear Laplacians.
 ---
+<!-- inactive-ok-file: CLAIM-tmpdjt64 — Proposed; the claim it was filed for, cited as open -->
 
 # LIT-tmpf2wmd: Opinion Dynamics on Discourse Sheaves
 
-Hansen, J., & Ghrist, R. (2021). Opinion dynamics on discourse sheaves. *SIAM Journal on Applied Mathematics*, 81(5), 2033–2060. doi:10.1137/20M1341088.
+Hansen, J., & Ghrist, R. (2021). Opinion dynamics on discourse sheaves. *SIAM Journal on Applied Mathematics*, 81(5), 2033–2060. doi:10.1137/20M1341088. Preprint: arXiv:2005.12798.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Read in full on 2026-10-27 (NOTE-tmpe4zh5).
 
 ## Why this is here
 

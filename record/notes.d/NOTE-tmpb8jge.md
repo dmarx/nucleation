@@ -1,0 +1,383 @@
+---
+status: Read
+paper: LIT-tmpre2ri
+title: 'Torres-Hugas et al. — Cycle holonomy and remote synchronization'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the arXiv preprint 2604.19682v2 (v1 submitted 21
+    April 2026; v2 dated 30 June 2026 in the margin stamp, fetched
+    2026-10-27 as the current version), 10 pp., under the same title as
+    the journal article. The text was extracted with `pdftotext -layout`.
+    I read the abstract, the introduction, §II A–C (eqs. 1–42 and Figs.
+    1–3 with their captions), the discussion, the code and data
+    statements, the acknowledgements, the 21 references and the
+    Supplementary Material bound into the preprint (pp. 9–10, with Fig.
+    S1). Pages are the preprint's. Neither v1 nor the published
+    Communications Physics version was read, so differences between them
+    and v2 are unknown. The figures' curves did not survive extraction;
+    their captions did. I reproduced the isolated-cycle spectrum (eq. 30)
+    for ℓ = 3 and 5, the zero mode of a flat 4-cycle, the two-group
+    solution of eqs. (38, 39) at α = π/3, and the transverse threshold
+    αc ≈ 1.016 numerically (numpy; my script, not the authors' code).
+date: '2026-10-27'
+summary: >-
+  For a phase model whose edges carry antisymmetric phase lags, the
+  twisted Laplacian Lα = δα*δα has a zero mode exactly when every cycle
+  holonomy is 0 mod 2π, and otherwise its smallest eigenvalue measures
+  the residual incompatibility; for an isolated ℓ-cycle that eigenvalue
+  is largest at holonomy π. The symmetric Sakaguchi–Kuramoto model is a
+  different model, but on cactus graphs its lag gives each ℓ-cycle a path
+  mismatch (ℓ − 2)α, which an associated connection is built to carry as
+  holonomy. In the triangle–pentagon remote-synchronization motif, the
+  pentagon's mismatch reaches π at α = π/3, where the locked branch is
+  exactly a two-group state; but the branch has already lost transverse
+  stability at αc ≈ 1.0164, so the holonomy marks geometry, not
+  stability.
+---
+<!-- inactive-ok-file: CLAIM-tmpdjt64 CLAIM-tmpywecm QUESTION-tmpl1yih QUESTION-130 QUESTION-147 THEORY-tmpoeig9 THEORY-tmprsknh LIT-tmpnpxhs LIT-tmpf2wmd LIT-tmpjnkzw — Proposed, Open, new or Deferred; the entries this reading bears on, cited as open -->
+
+# NOTE-tmpb8jge: Torres-Hugas et al. — Cycle holonomy and remote synchronization
+
+## Contribution
+
+It puts a U(1) connection Laplacian (the "twisted Laplacian") beside the
+Kuramoto-type phase models used for remote synchronization. It states the
+spectral criterion for when edge-wise phase relations can be met globally,
+gives the isolated-cycle spectrum, and builds an associated connection whose
+holonomies reproduce the cycle mismatches that a symmetric Sakaguchi–Kuramoto
+lag produces on a cactus graph. On the one motif worked through, a triangle
+and a pentagon sharing a vertex, it shows that the pentagon's maximal mismatch
+falls exactly where the locked branch becomes a two-group state, and close to
+but after the branch's transverse instability. The paper's own framing is
+that "effective higher-order dynamical constraints emerge naturally on
+ordinary graphs, provided the interaction carries nontrivial topological
+structure" (abstract, p. 1).
+
+## Key insight
+
+A constraint can belong to a cycle and to none of its edges. Each edge
+relation zⱼ = e^{iαᵢⱼ}zᵢ can always be met on its own, but going round a
+cycle composes them, and if the accumulated phase is not 0 mod 2π no
+assignment of nonzero states meets them all: "global compatibility is
+obstructed not by local pairwise mismatches, but by intrinsic topological
+frustration on cycles" (abstract). The second insight is the paper's own
+caution against its framing: the geometric point where that frustration is
+largest is not where the synchronized pattern loses stability. "The twisted
+Laplacian thus encodes the geometric reorganization of the
+cycle-compatibility structure, whereas the Jacobian determines the stability
+of the nonlinear phase-locked state" (p. 7).
+
+## Assumptions
+
+- **A connected graph with a fixed reference orientation**, and a phase αᵢⱼ
+  on each oriented edge with αⱼᵢ = −αᵢⱼ (eq. 1, p. 2). The orientation "is
+  only a bookkeeping convention" (p. 2).
+- **The relaxed linear setting** for the spectral results: complex states
+  zᵢ ∈ ℂ, not unit-modulus phases (p. 2). "ker Lα ≠ {0} if and only if the
+  edge compatibility conditions can be satisfied globally in the relaxed
+  linear setting" (p. 3). Unit amplitude is imposed only afterwards (eq. 11).
+- **Identical units and identical coupling.** Eq. (12) has identical
+  intrinsic frequencies (in a co-rotating frame); eq. (14) has one frequency
+  ω, one coupling κ and one lag α, on an unweighted graph.
+- **A uniform lag in the gauge model** means αᵢⱼ = α "for every edge i → j
+  in the chosen reference orientation" (eq. 13, p. 3), so its cycle
+  holonomies depend on how the edges were oriented.
+- **Cactus graphs** for the path–holonomy correspondence: "every edge belongs
+  to at most one simple cycle" (p. 4). Graphs with overlapping cycles are left
+  as an extension (p. 8).
+- **One motif** for all the dynamics: the triangle–pentagon graph of
+  Nicosia et al. (ref. [11]), with symmetry classes {1}, {2, 3}, {4, 7},
+  {5, 6} (p. 6), and only the branch "connected continuously to complete
+  synchronization at α = 0" (p. 6; SM p. 9).
+
+## Key results
+
+### Gauge invariance and holonomy (§II A, p. 2)
+
+- **Holonomy, eq. (2):** Hol_α(C) = Σ_{(i,j)∈C} αᵢⱼ (mod 2π), invariant under
+  the gauge transformation zᵢ ↦ e^{iθᵢ}zᵢ, αᵢⱼ ↦ αᵢⱼ + θⱼ − θᵢ (eqs. 3, 4).
+- "What remains invariant under such transformations is completely determined
+  by the holonomies on a cycle basis. On trees, where no cycles exist, every
+  phase lag configuration can be removed by a gauge transformation" (p. 2).
+
+### The twisted Laplacian and its zero mode (§II B, pp. 2–3)
+
+- **Twisted incidence, eq. (5):** (δα z)ᵢⱼ = zⱼ − e^{iαᵢⱼ}zᵢ, which for α = 0
+  is the ordinary incidence operator, so the construction "directly
+  generalizes ordinary diffusive coupling [18]" (p. 2; ref. [18] is Hansen
+  and Ghrist).
+- **Energy, eq. (6):** E(z) = ½ Σ_{(i,j)∈E} |zⱼ − e^{iαᵢⱼ}zᵢ|² = ½‖δα z‖²,
+  zero exactly when every edge constraint zⱼ = e^{iαᵢⱼ}zᵢ (eq. 7) holds.
+- **Lα = δα*δα (eq. 8)**, E(z) = ½⟨z, Lα z⟩ (eq. 9).
+- **The zero-mode criterion (p. 3):** "When all cycle holonomies vanish,
+  Eq. (10) admits nontrivial solutions. If some cycle has nonzero holonomy,
+  then ker Lα = {0} and the smallest eigenvalue of Lα is strictly positive."
+  The abstract and discussion state it as "if and only if" (pp. 1, 7). The
+  paper gives no proof beyond the energy argument; the result is the standard
+  one for discrete magnetic and connection Laplacians (refs. [14]–[16]).
+  The step it leaves out is short: on a connected graph a nonzero z meeting
+  every edge constraint has all |zᵢ| equal and nonzero, is fixed along a
+  spanning tree by its value at one node, and closes on each remaining edge
+  exactly when that edge's fundamental cycle has holonomy 0 mod 2π.
+- **Dynamics, eqs. (11, 12):** with |zᵢ| = 1, E(ϕ) = Σ[1 − cos(ϕⱼ − ϕᵢ − αᵢⱼ)],
+  whose gradient descent is ϕ̇ᵢ = κ Σ_{j∼i} sin(ϕⱼ − ϕᵢ − αᵢⱼ), "a
+  Sakaguchi–Kuramoto-type flow in a co-rotating frame" (p. 3). The uniform
+  antisymmetric connection "defines a reciprocal gradient system, whereas the
+  symmetric Sakaguchi–Kuramoto model uses the same phase lag in both
+  interaction directions" (p. 3).
+- What the spectrum says about this nonlinear flow is stated loosely: "The
+  eigenvectors associated with small eigenvalues describe the modes that best
+  accommodate the incompatibility induced by nonzero cycle holonomy" (p. 3).
+  Nothing is computed for eq. (12) itself.
+
+### Cycle mismatch in the symmetric Sakaguchi–Kuramoto model (§II C 1, pp. 3–4)
+
+- **The model, eq. (14):** ϕ̇ᵢ = ω + κ Σⱼ Aᵢⱼ sin(ϕⱼ − ϕᵢ − α), "where the
+  same phase lag α appears in both interaction directions."
+- **Path mismatch, eqs. (15)–(18):** for an edge (u, v) of a simple ℓ-cycle,
+  the coupling argument along the edge is ϕᵥ − ϕᵤ − α and the sum along the
+  complementary path is ϕᵥ − ϕᵤ − (ℓ − 1)α, so h_α(C) = (ℓ − 2)α (mod 2π),
+  "independent of the phase configuration" and of which edge is chosen.
+- The two models are distinct: "The two models have different local coupling
+  laws … The correspondence therefore occurs at the level of path
+  compatibility" (p. 3).
+
+### The associated connection on a cactus (§II C 2, p. 4)
+
+- On each cycle C_r, assign +α to every edge of the complementary path from
+  u_r to v_r and +α to the direct edge u_r → v_r, which contributes −α when
+  the cycle is closed. Then Hol_α(C_r) = (ℓ_r − 1)α − α = (ℓ_r − 2)α (eq. 21),
+  so Hol_α(C_r) = h_α(C_r) (eq. 22). Bridges get phase zero by a gauge
+  choice, and the whole assignment is a single connection "uniquely up to a
+  node-wise gauge transformation" (p. 4).
+- The correspondence is by construction: the connection's phases "are chosen
+  so that their cycle holonomies reproduce the path mismatches induced by the
+  symmetric Sakaguchi–Kuramoto lag" (p. 2).
+
+### The spectral encoding (§II C 3, pp. 4–5)
+
+- λ₁(α) = min_{‖z‖=1}⟨z, Lα z⟩ (eq. 26), zero iff Hol_α(C_r) ≡ 0 for every
+  cycle (eqs. 27, 28). "A positive value of λ₁(α) measures the minimum
+  normalized residual incompatibility after optimization over all node
+  states" (p. 5).
+- **Isolated cycle, eqs. (29, 30):** the branches are
+  2 − 2cos((2πm + Hol_α(C_r))/ℓ_r), m = 0, …, ℓ_r − 1. λ₁ vanishes at
+  holonomy 0 and is largest at holonomy π (eqs. 31, 32), where "two adjacent
+  winding sectors become degenerate" (p. 5). I reproduced eq. (30) for
+  ℓ = 3 and 5: at holonomy π, λ₁ = 2 − 2cos(π/ℓ), 1 for the triangle and
+  0.382 for the pentagon.
+- For the whole cactus, λ₁(α) "is not, in general, the sum of the
+  isolated-cycle eigenvalues, because cycles may interact through shared
+  vertices and attached trees" (p. 5; Fig. 1, a 14-node cactus).
+
+### The triangle–pentagon motif (§II C 4–6, pp. 5–7; SM pp. 9–10)
+
+- h_α(C₃) = α, h_α(C₅) = 3α (eqs. 33, 34). The pentagon reaches holonomy π
+  first, at α = π/3, when the triangle's is π/3 (eqs. 36, 37; Figs. 2, 3).
+- **Complete synchrony is excluded by the degrees, not the holonomy**:
+  equal phases would need Ω = ω − κkᵢ sin α for every i, "which cannot hold
+  when the degrees kᵢ differ and sin α ≠ 0" (p. 6).
+- **The locked branch**, with ϕ₂ = ϕ₃ = Ωt + x, ϕ₄ = ϕ₇ = Ωt + y,
+  ϕ₅ = ϕ₆ = Ωt + z and z = y + x, satisfies eqs. (38, 39):
+  0 = sin(y + α) − 2 sin x cos α − sin α and
+  0 = 2 sin(x − α) + 2 sin(y − α) + sin(x + α) + sin α. Setting x = 0,
+  y = z = α leaves sin α(2cos α − 1) = 0, so α = π/3, that is 3α = π and
+  h_α(C₅) = π (eq. 40). There the seven nodes form two groups,
+  ϕ₁ = ϕ₂ = ϕ₃ and ϕ₄ = … = ϕ₇ = ϕ₁ + π/3 (p. 7). I checked numerically that
+  the branch from α = 0 passes through x = 0, y = π/3 at α = π/3.
+- **Stability, eq. (41) and SM:** the transverse perturbations split by
+  symmetry into a triangular mode η on {2, 3}, with rate
+  λ = −[cos(x + α) + 2cos α], and a two-dimensional pentagonal block M⊥ on
+  the pairs {4, 7} and {5, 6} (SM p. 9). The first zero of det M⊥ along the
+  branch is at αc ≃ 1.0164, with xc ≃ 0.0631, yc ≃ 0.9657, zc ≃ 1.0288,
+  σ(M⊥) ≃ {0, −1.7038} and η-rate ≃ −1.5247 (SM p. 10). "Hence this
+  transverse crossing is also the first instability of the full linearized
+  dynamics" (SM p. 10). My continuation gave the crossing at α ≈ 1.017 with
+  the same branch values to two decimals.
+- **The result:** αc ≃ 1.0164 < απ = π/3 ≃ 1.0472 (eq. 42). "The maximally
+  frustrated pentagonal holonomy is therefore not a stability criterion …
+  this configuration lies on the transversely unstable continuation of the
+  locked branch" (p. 7).
+- The physical phase differences still close around the cycle: h_α(C₅) = 3α
+  "is not the sum of the physical phase differences. It is the mismatch
+  between the coupling argument along the direct edge and the accumulated
+  coupling arguments along the complementary path" (p. 7).
+
+### Discussion (pp. 7–8)
+
+- "no monotone relation between an individual cycle holonomy and the global
+  eigenvalue λ₁(α) should be expected in general" (p. 8). For the motif I
+  computed λ₁ of the associated connection: 0.275 at α = π/3, with its local
+  maximum near α ≈ 1.09, not at π/3, which fits the paper's caution. The
+  figure's vertical line marks π/3 as the isolated-pentagon value, not as
+  the motif's maximum (Fig. 3 caption).
+- Extensions named: heterogeneous lags, weighted graphs, overlapping cycles
+  (p. 8). Code: github.com/llui2/twisted-laplacian; "No data were used"
+  (p. 8).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | On a connected graph with an antisymmetric edge connection, Lα has a nonzero kernel iff every cycle holonomy is 0 mod 2π; on a tree every connection is gauge-trivial | strong | stated with an energy argument (pp. 2–3); standard result (refs. [14]–[16]); proof not written out; checked numerically on cycles |
+| C2 | For an isolated ℓ-cycle the twisted spectrum is 2 − 2cos((2πm + Hol)/ℓ), and λ₁ is largest at Hol = π, where two winding sectors are degenerate | strong | closed form, eqs. (29)–(32); reproduced for ℓ = 3, 5 |
+| C3 | The symmetric Sakaguchi–Kuramoto lag gives each simple ℓ-cycle a phase-independent path mismatch (ℓ − 2)α | strong | three-line derivation, eqs. (15)–(18) |
+| C4 | On a cactus graph these mismatches are the holonomies of one associated connection, unique up to gauge | strong, but by construction | eqs. (19)–(24); the connection is built to match, so the correspondence is a representation, not a derivation of SK dynamics |
+| C5 | In the triangle–pentagon motif, the locked branch is an exact two-group state at α = π/3, where the pentagon's mismatch is π | strong | exact algebra, eqs. (38)–(40); checked numerically |
+| C6 | That branch loses transverse stability in the pentagonal sector at αc ≃ 1.0164 < π/3, so the maximal-mismatch point is not a stability boundary | strong | numerical continuation and det M⊥ = 0, SM pp. 9–10; reproduced |
+| C7 | Remote synchronization "can be understood as a manifestation of effective higher-order constraints inherent in the network's topology" | weak | proposed (p. 1); shown only as a geometric marker on one motif that coincides with a two-group state and is not the stability threshold |
+| C8 | λ₁(α) of the whole cactus measures how the cycles' combined incompatibility is distributed | moderate | definitional (eq. 26) and Fig. 1; no relation to dynamics is shown, and none monotone is expected (p. 8) |
+
+## Concepts
+
+- **Connection (here)** — the collection α = {αᵢⱼ} of edge phase shifts with
+  αⱼᵢ = −αᵢⱼ, acting as "a discrete parallel transport" (p. 2).
+- **Holonomy** — the accumulated phase Σ αᵢⱼ around an oriented cycle, mod 2π
+  (eq. 2); gauge-invariant; its sign flips with the cycle's orientation.
+- **Gauge transformation** — a node-wise phase redefinition (eqs. 3, 4).
+  Connections related by one are gauge-equivalent.
+- **Twisted incidence operator and twisted Laplacian** — δα and Lα = δα*δα
+  (eqs. 5, 8); elsewhere the magnetic or connection Laplacian, and the U(1)
+  case of a sheaf Laplacian.
+- **Topological frustration** — a connection with some nonzero holonomy, so
+  that the edge relations cannot be met together though each can be met
+  alone (p. 2).
+- **Path mismatch h_α(C)** — the difference between the coupling argument on
+  one edge and the sum along the rest of its cycle, (ℓ − 2)α in the
+  symmetric SK model (eq. 17).
+- **Cactus graph** — a graph whose simple cycles share at most vertices
+  (p. 4).
+- **Remote synchronization** — "nodes synchronize despite being separated by
+  intermediate, incoherent nodes" (p. 1); in the motif, the nonadjacent pair
+  {4, 7} (p. 6).
+
+## Connections
+
+- **Pecora et al. 2014** (ref. [12]; LIT-960, read in NOTE-775) and
+  Sorrentino et al. 2016 (ref. [13]): the symmetry clusters and the
+  symmetry-separated transverse blocks the motif analysis uses (p. 6; SM
+  p. 9).
+- **Hansen and Ghrist** 2019 (ref. [18]; LIT-tmpnpxhs) and 2021 (ref. [19];
+  LIT-tmpf2wmd), both registered unread: the twisted incidence operator is
+  said to generalize diffusive coupling "[18]" (p. 2).
+- **Shubin 1994** (ref. [14], discrete magnetic Laplacian), **Singer and Wu
+  2012** (ref. [15]) and **Bandeira, Singer and Spielman 2013** (ref. [16]):
+  the mathematical lineage of the zero-mode criterion. None is held; the
+  record's Singer (LIT-tmpjnkzw, angular synchronization, 2011) is a
+  different paper.
+- **Nicosia et al. 2013** (ref. [11]): the motif and the remote
+  synchronization transition the paper says π/3 is "close to" (p. 2). Not
+  held, and the comparison was not checked.
+- **Manik, Timme and Witthaut 2017** (ref. [21]): cycle flows and
+  multistability in oscillator networks, cited for "the broader role of cycle
+  constraints" (p. 1). Not held.
+
+## Bearing on the record
+
+- **CLAIM-tmpdjt64: the holonomy bullet is right in content, slightly
+  overstated in warrant, and the paper is a weak case for "generate".** The
+  claim's line that "g₁₂g₂₃g₃₁ ≠ 1 forbids a consistent nonzero assignment
+  though every edge is satisfiable" is what the paper says (p. 2: "the local
+  phase relations are globally incompatible … that cannot be resolved edge by
+  edge"), with the qualification "mod 2π" and in the relaxed linear setting
+  (p. 3). "Prove" is too strong for this paper: it states the criterion (pp.
+  1, 3, 7) with an energy argument and leaves the cycle-basis step
+  unwritten; the result is a standard one it cites (refs. [14]–[16]),
+  so it is safe, but the paper is not its proof (THEORY-tmpoeig9). For the
+  claim's thesis, note that the connection here is never produced by an
+  interaction: the gauge model takes α as given (eq. 1), and the SK
+  correspondence builds an associated connection to reproduce mismatches
+  (p. 2, eq. 21). In the claim's own table this is a correspondence rule;
+  the gradient flow (12) is its enforcement; nothing is evidence. So it
+  illustrates the "composed correspondences determine what is admissible"
+  half, and is neutral on the "interaction fixes the correspondence" half,
+  which is defeater (a)'s ground. The A21 §5 caution the claim carries is
+  consistent with the text: nonzero holonomy is "a genuine global
+  obstruction" to a compatible state (p. 2), not a failure of the graph.
+- **CLAIM-tmpywecm: an extension and a limit.** The claim's Laplacian-flow
+  reading (kernel = exact compatibility, nonzero spectrum = relaxation rates)
+  carries over to Lα, with one change: under nonzero holonomy the kernel is
+  empty (p. 3), so the linear flow ż = −κLα z has no compatible state to
+  settle on, and λ₁ > 0 is a floor of incompatibility rather than the first
+  rate above a collective mode. The paper computes no relaxation rates. The
+  limit is its §II C 6 (p. 7; SM pp. 9–10): for the nonlinear SK dynamics, the
+  twisted spectrum does not set stability; the Jacobian does, and its
+  threshold αc ≃ 1.0164 differs from the spectral marker π/3. That fits the
+  claim's "Anything about nonlinear coupling" exclusion and gives it a
+  worked instance.
+- **QUESTION-tmpl1yih: the frustration route, checked, is narrower than the
+  exchange made it.** The paper supports frustration as a structural fact on
+  cycles ("intrinsic topological frustration", abstract, p. 2) and λ₁ as the
+  residual left after optimizing over states (p. 5). It does not show that
+  frustration stabilizes or organizes a form. In the motif, the nonuniform
+  locked state is forced by unequal degrees, not by holonomy (p. 6); the
+  remote-synchronization pattern is continued smoothly from complete
+  synchrony at α = 0 (p. 6), so no transition creates it; and it ends, as
+  a stable state, at αc ≃ 1.0164 when a transverse eigenvalue in the
+  pentagonal sector crosses zero (SM p. 10), before the frustration peak.
+  For the question that is a stated system with the transition that unmakes
+  a form named, separately from the geometry that is said to shape it; the
+  bifurcation's type and what lies past it are not given (THEORY-tmprsknh).
+- **THEORY-276: a further instance, consistent and in its terms.** The motif
+  analysis uses the reflection-symmetry classes {1}, {2, 3}, {4, 7}, {5, 6}
+  as the admissible clusters, citing Pecora et al. and Sorrentino et al.
+  (p. 6), and its transverse perturbations "separate according to the graph
+  symmetries" (p. 7; SM p. 9) into a triangular η-mode and one 2 × 2 block
+  coupling the pairs {4, 7} and {5, 6}. Read with THEORY-276, the
+  automorphism group is two commuting reflections, one moving {2, 3} and one
+  moving {4, 7} and {5, 6} together; the latter two are intertwined, and
+  the pentagonal block loses stability at αc while the triangular mode stays
+  stable (SM p. 10). That is the pattern THEORY-276 predicts for isolated
+  desynchronization, here for phase oscillators with a lag, though the
+  paper does not use that language or follow the dynamics past αc. Two
+  caveats: SK coupling depends on ϕⱼ − ϕᵢ, not on xⱼ alone as in
+  THEORY-276's eq. (1), though the equivariance argument of its 2026-10-19
+  note holds for any identical pairwise coupling; and this is a computation
+  for one model, not the second experiment QUESTION-147 asks for. It also
+  bears out THEORY-276's last point: {4, 7} are in step with no edge between
+  them (p. 6).
+- **QUESTION-130: a connection that is chosen, not found.** The question
+  asks whether a transport between contexts can be "fixed by independently
+  established relations rather than chosen". This paper's associated
+  connection is chosen, by the modeller, to reproduce a mismatch the
+  dynamics defines (eq. 21), and only its gauge class is fixed (p. 4). The
+  holonomy (ℓ − 2)α is real in the sense that it is phase-independent and
+  read off the model (eq. 17); the connection carrying it is a
+  representation. A worked example of the distinction the question draws,
+  outside evaluation.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **The zero-mode criterion is stated, not proved, in this paper** (p. 3);
+  it is standard, and I supplied the missing step above.
+- **The SK correspondence is a representation by construction**, for cactus
+  graphs only, and gives "a static spectral encoding" (p. 4); nothing in the
+  paper derives the SK dynamics from Lα.
+- **One motif.** The only dynamical result is for a seven-node graph, on one
+  branch. Fig. 1's 14-node cactus is spectral only.
+- **"Higher-order" is the authors' gloss.** A cycle constraint on a graph
+  with a U(1) connection is classical (magnetic Laplacian, ref. [14]); the
+  paper's addition is the remote-synchronization reading.
+- **"Uniform lag" in the gauge model depends on edge orientations** (eq. 13),
+  so its holonomies are those of the orientation chosen; the SK side has no
+  such dependence.
+- **The comparison with Nicosia et al.'s transition value (p. 2) is not
+  quantified** here and was not checked.
+- **The figures' data did not survive extraction**; only captions and axis
+  ticks were read. My numerical checks used my own script.
+- **v2 only.** Differences from v1 and from the journal version are unknown.
+
+## Open questions
+
+- Does the pentagonal-sector instability at αc lead to the "isolated
+  desynchronization" of the pentagon pairs with {2, 3} still in step, as the
+  symmetry structure suggests (THEORY-276)? The paper stops at the threshold.
+- On graphs with overlapping cycles, where one edge would need two phases,
+  is there any associated connection, or a sheaf of higher rank (p. 8)?
+- Is the closeness of αc ≃ 1.0164 to π/3 ≃ 1.0472 structural, or a
+  coincidence of this motif? A family of motifs with ℓ-cycles of other
+  lengths would say.

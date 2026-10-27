@@ -1,9 +1,15 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  read in full 2026-10-27 (NOTE-tmpy78q5), from a scan of the published
+  article; worth reading as the classic argument that well-structuredness
+  is relative to a bounded solver and that problems from the world become
+  well structured only by being prepared, and for its model of design as an
+  alternation between local problem solving and retrieval that modifies
+  the problem space. Its conclusion that no new mechanisms are needed is a
+  suggestion, not a result.
 title: 'The structure of ill structured problems'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +18,28 @@ history:
     Herbert A. Simon, Artificial Intelligence 4(3–4), 181–201, 1973,
     with the year only, so `published:` carries a placeholder, 1 January
     1973.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full from a scan of the published article, the open copy
+    Unpaywall lists (gold, publishedVersion) at ojs.unbc.ca, fetched
+    2026-10-27; the first NOTE on the work (NOTE-tmpy78q5). Status set
+    from the reading: Active. The citation stands. `published:` keeps the
+    year placeholder: Crossref still gives only 1973 for every date field
+    (checked again 2026-10-27), and the article gives no publication date,
+    only "Received 18 July 1973; revised version received 29 October 1973"
+    (p. 201), so the work appeared no earlier than late 1973 and the
+    placeholder precedes its appearance; no source read gives a month. The
+    summary is replaced by one from the text. The registration's summary
+    was right that well-structuredness is relative to the solver (to "the
+    characteristics and power" of the problem solving mechanism, p. 182, and
+    to the size of its knowledge base, p. 197). It overstated the second
+    half: Simon does not make constructing the representation a stage that
+    comes before search. He grants only that "much problem solving effort
+    is directed at structuring problems" and calls the stronger allegation,
+    that the "real" problem solving is the structuring, refuted (p. 187);
+    his model modifies the problem space throughout solving (pp. 191–193).
+    Two THEORYs are filed from it (THEORY-tmpgts50, THEORY-tmpq9x5h).
 tags:
 - cognition
 - epistemology
@@ -26,19 +54,26 @@ keywords:
 - 'bounded rationality'
 implementations: []
 summary: >-
-  Simon (1973). Whether a problem is well or ill structured is relative
-  to the solver's knowledge and procedures; much of solving an
-  ill-structured problem is constructing the representation and problem
-  space in which search can proceed, which is itself part of the work.
+  Simon (1973), Artificial Intelligence 4. There is no sharp boundary
+  between well and ill structured problems: the conditions for a well
+  structured one relate a problem to the power of a bounded solver, read as
+  practicable computation, and on that reading even theorem proving and
+  chess fail some of them. Problems from the world "become WSPs only in the
+  process of being prepared for the problem solvers" (p. 186). House
+  design, a battleship's design by an organization and a robot are handled
+  by alternating a solver on a locally well structured problem with a
+  recognition system that keeps modifying the problem space: "well
+  structured in the small, but ill structured in the large". Simon
+  suggests that only the size of the knowledge base separates the two, so
+  no qualitatively new mechanisms are needed.
 ---
+<!-- inactive-ok-file: CLAIM-tmpi1bjh THEORY-tmpq9x5h — Proposed; the claim it was filed for and a THEORY filed from it, cited as open -->
 
 # LIT-tmp4mxqc: The structure of ill structured problems
 
 Simon, H. A. (1973). The structure of ill structured problems. *Artificial Intelligence*, 4(3–4), 181–201. doi:10.1016/0004-3702(73)90011-8.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Read in full on 2026-10-27 (NOTE-tmpy78q5).
 
 ## Why this is here
 

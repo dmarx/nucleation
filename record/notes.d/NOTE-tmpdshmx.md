@@ -1,0 +1,356 @@
+---
+status: Read
+paper: LIT-tmpn521a
+title: 'Robinson — Sheaves are the canonical data structure for sensor integration'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the arXiv preprint 1603.01446v3 (2 December 2016),
+    42 pp., the current version when fetched on 2026-10-27. The PDF is the
+    Elsevier preprint ("Preprint submitted to Elsevier December 5, 2016")
+    and carries no abstract; the abstract quoted below is the arXiv
+    listing's. The text was extracted with `pdftotext -layout`. I read §§1–6,
+    Axioms 1–7, Definitions 1–27, Propositions 21, 23, 25 and 28, Theorem 29,
+    Examples 2–32, Remarks 7, 13, 14 and 22, the figure captions, the
+    footnotes, the acknowledgment and the 64 references. Pages are the
+    preprint's. The proofs of Propositions 21, 23 and 25 were checked by
+    hand. The published version (Information Fusion 36, 208–224) was not
+    read, so differences between the two are unknown. The extraction
+    garbles the displayed equations (fractions, ε, products); where an
+    expression below is reconstructed, it was checked against the proof
+    that uses it.
+date: '2026-10-27'
+summary: >-
+  An expository paper. It posits six axioms for an integrated sensor
+  system and defines a sheaf as whatever satisfies them, so "canonical" is
+  argued by that axiomatization, not proved; the paper itself calls
+  sheaves one of "many co-universal information representations". Its
+  tools need less than a sheaf: on a presheaf of pseudometric spaces, the
+  consistency radius of an assignment (the largest disagreement between an
+  observation and the restriction of another) bounds its distance to every
+  global section below by ε/(1 + K) when the restrictions are K-Lipschitz,
+  and data fusion is the search for the nearest global section. In one
+  simulated search-and-rescue scenario fusion cut the crash-location error
+  2–8×, and the per-restriction discrepancies singled out a biased sensor
+  by inspection. Cohomology, for linear sheaves, flags configurations that
+  can be locally but not globally consistent.
+---
+<!-- inactive-ok-file: CLAIM-tmpdjt64 QUESTION-tmpubsi9 CLAIM-143 CLAIM-342 CLAIM-tmpi1bjh QUESTION-255 THEORY-tmpy95x7 LIT-tmpnpxhs — Proposed, Open or Deferred; the entries the reading bears on, cited as open -->
+
+# NOTE-tmpdshmx: Robinson — Sheaves are the canonical data structure for sensor integration
+
+## Contribution
+
+It sets out, for a data-fusion audience, a workflow in four stages (Figure
+1, pp. 2–3): build a sheaf model of the sensors with no data in it; compute
+the consistency radius of the data the sensors supply; fuse by finding the
+nearest global section; and use cohomology to find configurations of
+sensors and processing that can produce data which is locally but not
+globally consistent. What is new is the consistency radius (Definition 20,
+p. 24) and its use as a lower bound on the distortion fusion must incur
+(Proposition 23, p. 25), together with a worked simulation in which fusion
+beats dead reckoning (Example 24, pp. 25–29). The arXiv abstract calls the
+paper "expository": "The purpose of this expository paper is to explain why
+sheaves are the canonical data structure for sensor integration".
+
+## Key insight
+
+Put the sensor models in the restriction maps and the data in an
+assignment, and agreement becomes something that can be measured. Each
+sensor's observation, mapped down by a fixed restriction onto a smaller set
+of entities, can be compared with what another sensor reports there. The
+largest such disagreement, the consistency radius, says how far the data
+are from any single consistent state of the whole system, and the pattern
+of the disagreements over the sensor domains says where they come from.
+Fusion then replaces the data by the nearest consistent state. The
+correspondences are fixed beforehand: "no sensor data are included in the
+sensor system model represented by the sheaf" (p. 2).
+
+## Assumptions
+
+- **Axioms 1–6 (pp. 8–18).** Entities lie in a set X (Axiom 1); attributes
+  lie in pseudometric spaces (Axiom 2); "The collection of all sets of
+  entities whose attributes are related forms a topology T on X" (Axiom 3);
+  each sensor domain U ∈ T is assigned a space of observations S(U)
+  (Axiom 4); for U ⊆ V "there is a (fixed) continuous function"
+  S(U ⊆ V): S(V) → S(U), the restriction, and restrictions compose
+  (Axiom 5; Axioms 1–5 make a presheaf); observations that agree on
+  intersections "uniquely determine an observation from the union"
+  (Axiom 6, the sheaf condition: gluing plus the monopresheaf condition).
+- **Axiom 7 (p. 29)**, for Section 5 only: every S(U) a Banach space and
+  every restriction continuous and linear. Nonlinear sensor models are made
+  linear by passing to distributions, S(U) ↦ L¹(S(U), ℝ), with each map
+  pushed forward (eq. 2, Example 26, pp. 30–32).
+- **Finite topologies.** "In all situations of which the author is aware,
+  the appropriate topology T is either the geometric realization of a cell
+  complex or (equivalently) a finite topology built on a preorder" (Remark
+  7, p. 12). Proposition 25 needs T finite; the examples are all finite.
+- **Axiom 3 "is a true limitation"** (Remark 7, p. 12): entities must be
+  organized into local neighbourhoods.
+- **The examples' data are simulated** (p. 6; Example 24, pp. 25–28), with
+  one realization per case.
+
+## Key results
+
+### The definitions (pp. 23–24)
+
+- **Distance between assignments (Definition 18, p. 23):**
+  D(a, b) = sup_{U ∈ T} d_U(a(U), b(U)), over assignments
+  a, b ∈ ∏_{U ∈ T} S(U).
+- **Data fusion (Problem 19, p. 23):** given an assignment a, find
+  argmin_{s ∈ S(X)} sup_{U ∈ T} d_U(a(U), S(U ⊆ X)(s)), the nearest global
+  section. It is posed for a presheaf: "Without the presheaf structure, it
+  is impossible to even pose Problem 19!" (p. 23).
+- **Consistency radius (Definition 20, p. 24):** an assignment s is an
+  ε-approximate section if d_V(s(V), S(V ⊆ U)s(U)) ≤ ε for all V ⊆ U; "The
+  minimum value of ε for which an assignment s ∈ ∏_{U ∈ T} S(U) is an
+  ε-approximate section is called the consistency radius of s." It is
+  defined for a presheaf of pseudometric spaces; it does not need Axiom 6.
+
+### The propositions
+
+- **Proposition 21 (p. 24).** Every global section induces a 0-approximate
+  section; for a presheaf of metric spaces the correspondence is a
+  homeomorphism. Remark 22 (pp. 24–25) gives a pseudometric example with two
+  global sections and four 0-approximate sections. *Checked.*
+- **Proposition 23 (p. 25).** "If a is an ε-approximate section of a
+  presheaf P of pseudometric spaces whose restrictions are Lipschitz
+  continuous functions with Lipschitz constant K, then the distance
+  (Definition 18) between a and the nearest global section to a is at
+  least ε/(1+K)." *Checked:* for any global section s and V ⊆ U,
+  d_V(a(V), P(V ⊆ U)a(U)) ≤ d_V(a(V), s(V)) + K d_U(s(U), a(U)) ≤
+  (1 + K)D(a, s). The printed proof's last line has d_V(a(V), s(V)) where
+  the second term needs d_U; the conclusion ε ≤ (1 + K)D(a, s) stands. The
+  bound holds for every global section, so it does not need a nearest one
+  to exist. The workflow states it as: "The consistency radius of the
+  original data places a lower bound on the amount of distortion incurred
+  by the fusion process" (p. 3).
+- **Proposition 25 (p. 29).** "If S is a sheaf of Banach spaces on a finite
+  topology T, then Problem 19 always has a unique solution, embodied as a
+  projection from the space of assignments to the space of global
+  sections." *Checked, and the proof does not reach the claim.* It shows
+  only that D is the max-norm metric on the product. That norm is not
+  strictly convex, and nearest points to a subspace in it need not be
+  unique. A counterexample within the axioms: X = {1, 2},
+  T = {∅, {1}, X}, S(X) = ℝ² with the max norm, S({1}) = ℝ, restriction
+  the first projection, assignment a = ((0, 0), 1). Then
+  D(s, a) = max(|s₁|, |s₂|, |s₁ − 1|), minimized at s₁ = 1/2 by every
+  |s₂| ≤ 1/2. Existence also needs more than the proof gives when the
+  spaces are infinite-dimensional. Existence holds in finite dimensions.
+- **Proposition 28 (p. 33, cited from ref. [58], Thm 4.3).** For a sheaf of
+  vector spaces on a finite topology, H⁰(T; S) = ker d⁰ is the space of
+  global sections, so fusion is "merely a projection C⁰(T; S) → H⁰(T; S)"
+  (p. 33). The uniqueness caveat above applies.
+- **Theorem 29 (p. 33), the Leray theorem, cited:** if every finite
+  intersection of a subcollection U ⊆ T has vanishing higher cohomology,
+  H^p(U; S) ≅ H^p(T; S); so a smaller cover suffices.
+- **Higher cohomology (pp. 33–34).** "Practically speaking, the nontrivial
+  elements of H^k for k > 0 represent obstructions to consistent sensor
+  data." "When situations with nontrivial H^k for k > 0 arise in practice
+  they usually indicate a failure of the model to correspond to reality"
+  (p. 34). Cohomology "does not make use of any sensor data" (p. 3).
+
+### What is demonstrated (Example 24, pp. 25–29)
+
+A simulated search for a downed airliner: flight plan, ATC radar and ADS-B
+(612 observations, p. 5), two RDF bearings and one satellite detection. The
+restrictions A–E are geometric maps between positions, velocities, times
+and bearings (p. 16). The true crash site was withheld from the model and
+used only to score the result (p. 25). Fusion was solved with Nelder–Mead
+in scipy (p. 28). From Tables 1 and 2 (p. 26):
+
+| case | what was perturbed | consistency radius | dead-reckoning error | fused error |
+|---|---|---|---|---|
+| 1 | small independent unbiased errors | 15.7 km | 16.1 km | 2.01 km |
+| 2 | as 1, with RDF sensor 2 biased 2° south | 11.6 km | 17.3 km | 8.38 km |
+| 3 | as 2, with the last known velocity replaced by the flight plan's | 152 km | 193 km | 74.4 km |
+
+The stated factors (8×, about 2×, over 2×) agree with the table. On
+localization, Case 2: "This error is immediately detectable in Figure 12(a)
+as an anomalously high error between the Field office (X) and the RDF
+sensor 2 (U4). Since the only high errors occur between sensor domains
+involving RDF sensor 2 (U4 and V2), the sheaf model makes it clear that the
+errors are due exclusively to RDF sensor 2. It should be noted that Figure
+12(a) does not include any a priori knowledge of the sensor bias" (p. 28).
+In Case 1 "nearly all the error is concentrated in two places" (p. 28). In
+Case 3 the radius of 152 km "is definitely an indication that something is
+amiss" (p. 29); the velocity error is not localized in the text.
+
+### Cohomology examples (pp. 34–37)
+
+- **Example 30:** photographs taken at different times (a finger in and out
+  of the scene) give a nontrivial class in H¹ when time is not modelled.
+- **Example 31:** two views of a scene behind a book, overlap in two
+  components; the Leray check gives dim H^k = 0 for k > 0, so the split
+  overlap does no harm.
+- **Example 32:** the same cover with the images processed into object
+  probabilities gives dim H⁰(U; P) = 3 and dim H¹(U; P) = 1. "The presence
+  of nontrivial cohomology in H¹ arising after performing some data
+  processing indicates that the processing has lost information at a global
+  level", which "strongly advocates for performing fusion as close to the
+  sensors as possible" (p. 37).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Sheaves are the canonical data structure for sensor integration | weak | the title; argued by positing six axioms that an integrated sensor system "must" satisfy and defining a sheaf as what satisfies them (p. 8); no uniqueness or universality theorem; p. 29 concedes sheaves are one of "many co-universal information representations" |
+| C2 | Global sections correspond to 0-approximate sections (homeomorphically, for metric spaces) | strong | Proposition 21, proof checked |
+| C3 | An assignment with consistency radius ε is at least ε/(1 + K) from every global section when restrictions are K-Lipschitz | strong | Proposition 23, proof checked (one index slip, harmless) |
+| C4 | For a sheaf of Banach spaces on a finite topology, fusion has a unique solution, a projection | weak | Proposition 25; the proof does not establish uniqueness, and the max-norm counterexample above refutes it as stated |
+| C5 | Sheaf-based fusion dramatically improves localization over traditional methods | weak to moderate | one simulated scenario, three cases, one realization each, compared with dead reckoning from the field office's own data only (pp. 25–29) |
+| C6 | Discrepancies localize faulty sensors without prior knowledge of the fault | weak | one simulated case (Case 2), read by eye from Figure 12(a), p. 28 |
+| C7 | Nontrivial higher cohomology flags configurations where locally consistent data cannot be globally consistent, and usually a model that fails to match reality | moderate | standard sheaf theory for H¹ (pp. 33–34); two small worked examples (30, 32); "usually indicate a failure of the model" is an assertion |
+| C8 | Processing data before fusion can lose information detectable only at the sensors | moderate | Example 32, a computed H¹ of dimension 1 (p. 37) |
+
+## Concepts
+
+- **Sensor domain**: an open set U ∈ T, a set of entities whose attributes
+  are related (Definition 4, p. 10).
+- **Space of observations S(U)**: the pseudometric space of attributes a
+  sensor assigns to its domain (Axiom 4, p. 13).
+- **Restriction**: the fixed map S(U ⊆ V): S(V) → S(U) that transforms
+  observations on a larger domain into observations on a smaller one; it
+  carries the sensor model (Axiom 5, p. 15).
+- **Assignment**: one observation per open set, an element of
+  ∏_{U ∈ T} S(U) (p. 13); in vector spaces, a "serration" (footnote 5).
+- **Global section**: an element of S(X) (p. 13); here the field office's
+  joint state.
+- **ε-approximate section, consistency radius**: Definition 20, p. 24.
+- **Data fusion**: Problem 19, the nearest global section under D.
+- **Sensor integration vs. sensor data fusion**: combining the models of
+  sensors into one system model vs. combining their observations (p. 2).
+- **Canonical**: not defined. Used of sheaves as a "common, canonical
+  language" (p. 1), of their "foundational and canonical nature" (p. 2), of
+  "canonical computational tools" (p. 4), and in its standard technical
+  sense of cohomology as "a canonical family of invariants" and of the
+  "canonical or Godement resolution" (p. 32).
+
+## Connections
+
+Goguen's sheaf semantics for concurrent objects (ref. [44]) "inspired this
+paper – our axioms sets are quite similar" (p. 5). It builds on the
+author's Topological Signal Processing (ref. [58]) and on combinatorial
+work on finite topologies and cellular sheaves (Curry, ref. [42]; Shepard,
+ref. [41]). The loopy belief propagation example (Murphy, Weiss and Jordan,
+ref. [35]) is cited for "a topological feature – a loop" making Bayesian
+updates fail (p. 4). Hansen and Ghrist's cellular-sheaf Laplacian
+(LIT-tmpnpxhs), which the exchange used for the same purpose, postdates it
+and is not cited.
+
+## Bearing on the record
+
+- **CLAIM-tmpdjt64: the three operations, cleanly separated in a working
+  system, and no interaction among them.** The restriction maps are the
+  claim's correspondences ρ, written down from geometry before any data
+  (p. 2; maps A–E, p. 16) and "(fixed)" (Axiom 5, p. 15). The observations
+  are evidence. Fusion is not enforcement: it computes a new consistent
+  dataset (p. 3) and changes nothing the sensors measure. The sensors do
+  not interact; the field office compares their reports. So the paper
+  instantiates the correspondence-and-evidence half of the claim, with the
+  correspondences fixed independently of any interaction, which is the
+  shape defeater (a) describes. Being a designed measurement system, it
+  does not bear on whether physical interactions make correspondences.
+  Two of the claim's sentences gain a source: consistency is agreement
+  under maps, not identity (Axiom 6 compares restrictions, not raw
+  values); and a residual over the sensor domains has a location
+  (Case 2, p. 28). It adds a fourth local-to-global obstruction to the
+  claim's list: an H¹ class created by processing (Example 32, p. 37),
+  which is about the maps, not the data.
+- **QUESTION-tmpubsi9: the test bed is measurement, not inquiry, and the
+  question's last paragraph misdescribes it.** The question offers
+  "Distributed sensor networks that recalibrate from consistency
+  residuals (Robinson, LIT-tmpn521a)" as a test bed for the condition on
+  G. The paper does not recalibrate anything. The restriction maps are
+  fixed (Axiom 5), and the data are replaced by the nearest global section
+  (Problem 19). In A19's model that is A fixed: measurement with a quality
+  score. Revising the maps from residuals is not in the paper. What the
+  paper does supply for the top rung is a validation step that its own
+  fusion cannot reach: the true crash site "was withheld from the data
+  presented to the sheaf model, so that the output of its data fusion
+  could be compared to the true value" (p. 25). That is the question's
+  "what G is not allowed to rewrite", in its simplest form.
+- **CLAIM-143: an engineering instance of the order of tests, with the
+  validation step assumed.** The sheaf model is built first and carries no
+  data (p. 2); disagreement is measured only through the fixed maps
+  (Definition 20). So the correspondence is fixed before disagreement is
+  read, as the claim requires. It is not independently validated in the
+  paper: the maps are taken as correct geometry. Case 2 shows what that
+  costs. With one bearing from each station, a 2° bias in RDF sensor 2's
+  reading cannot be told apart, in the residuals, from an error in the
+  station coordinates (r2x, r2y) that maps B and D use (p. 16): some shift
+  of the station produces the same discrepancy. The paper reads the
+  residual as a sensor fault because the maps are trusted (p. 28). CLAIM-265, the general
+  order of tests, has the same instance.
+- **CLAIM-342: a positive case of scoring through something the loop does
+  not control, and a caution.** Fusion always reaches consistency, since a
+  global section has radius 0 (Proposition 21), so becoming coherent is
+  guaranteed and says nothing. The paper's evidence that fusion helps is
+  the error against a withheld truth (Table 2, p. 26), which the fusion
+  never sees. That is the claim's anchor. Because the maps are fixed, the
+  all-zero collapse of THEORY-299 cannot occur here; it would need the maps
+  to be learned, which the paper does not do.
+- **The exchange (A21 §5, as the registration recorded it).** Right that
+  the paper treats combining heterogeneous sensor data with sheaves, and
+  right on "approximate consistency when measurements fail to agree
+  exactly" (Definition 20, p. 24; "Of course, this is quite unrealistic!",
+  p. 21). Partly right that "consistency residuals" locate faulty
+  measurements: one simulated case, by inspection (p. 28). Wrong to credit
+  residuals with locating inadequate models: the paper gives that role to
+  higher cohomology, which uses no data (pp. 3, 34), and the one model
+  failure it shows (time not modelled, Example 30) is found that way.
+  "Canonical" has no precise sense in the paper; there is no theorem
+  behind it (THEORY-tmp5nb96).
+- **NOTE-1059, LIT-1352 and QUESTION-255.** Those readings found that
+  Lee-Youngzie et al.'s gluing test "has content only as the empirical
+  consistency radius". The radius they rely on is this paper's Definition
+  20, defined on a presheaf, so it applies there without the sheaf
+  condition; Proposition 23 then gives that a nonzero radius on measured
+  matrices bounds their distance from any jointly consistent assignment.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **"Canonical" is not established.** No theorem says sheaves are the only
+  or the universal structure for sensor integration. The axioms are
+  motivated by examples and posited ("A sheaf is precisely any
+  mathematical object satisfying all six Axioms", p. 8). The claim that
+  Axiom 6 is "a necessary and sufficient constraint" (p. 17) is not
+  proved. Axiom 6 costs nothing where the union spaces are free, since
+  eq. (1) can always define them as fibre products (p. 18), and real
+  databases often violate it (Example 17, p. 22).
+- **The tools the abstract and §1 advertise do not use the sheaf
+  condition.** The consistency radius, Proposition 23 and Problem 19 are
+  stated for presheaves (Axioms 1–5). Axiom 6 matters in Section 5.
+- **Proposition 25 is wrong as stated** (see Key results): uniqueness fails
+  for max-type norms, and the proof establishes only the metric.
+- **The demonstration is thin.** One simulated scenario, three cases, one
+  noise realization each, no repeated trials or error bars, and a single
+  baseline (dead reckoning from the field office's own data), not a
+  standard fusion method such as a Kalman or least-squares estimator,
+  though §1 claims improvement "over traditional methods" (p. 1).
+- **Localization is by eye** from a figure in one case. No procedure, no
+  false-alarm or detection rate. The consistency radius itself was lower
+  in the biased Case 2 (11.6 km) than in Case 1 (15.7 km), so it was the
+  pattern of discrepancies, not the radius, that flagged the sensor.
+- **Units.** The radius is reported in km, but the discrepancies in
+  Figures 11–13(a) are in km, degrees and hours. How they were made
+  commensurable for the supremum is not stated.
+- **Typos:** "Figure 13(c)" (p. 29) does not exist; "three different types
+  of coins" lists four (p. 21); Proposition 23's proof uses d_V where it
+  needs d_U.
+- The published Information Fusion text was not compared with the preprint.
+
+## Open questions
+
+- Can the per-domain discrepancies tell a faulty measurement from a faulty
+  restriction map? In the paper both enter the residual the same way
+  (THEORY-tmpy95x7).
+- How does localization by discrepancy pattern perform over repeated
+  trials, with stated detection and false-alarm rates?
+- What happens when the restriction maps are revised from the residuals,
+  and what keeps that revision from collapsing to trivial maps?
+- Under what norms is Problem 19's solution unique (for instance, a
+  Euclidean norm on the product in place of the maximum)?

@@ -1,9 +1,16 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  read in full 2026-10-27 (NOTE-tmpigjto), from arXiv v6; worth reading as
+  the theorem that black-boxing passive linear circuits is functorial: the
+  Lagrangian relation a circuit imposes on its terminals' potentials and
+  currents composes as the circuits do. It is also a clean account of
+  eliminating an interior by minimum power, and of why that elimination
+  alone has no identities. Its scope is narrow: passive, linear,
+  two-terminal components, time only through the Laplace transform with
+  zero initial conditions.
 title: 'A Compositional Framework for Passive Linear Networks'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -13,6 +20,22 @@ history:
     2015, which is `published:` per ADR-002; published in Theory and
     Applications of Categories 33(38), 2018, whose abstract page is the
     `url:` A22 gave (not fetched).
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full from arXiv 1504.05625v6 (16 November 2018), 54 pp.,
+    Parts I–III, all proofs and the references; the first NOTE on the work
+    (NOTE-tmpigjto). The published TAC text was not read, so its page range
+    is kept from the registration unchecked. Status set from the reading:
+    Active. `published:` stays at the v1 date per ADR-002; v1's date was
+    not re-checked from the text, which is v6. The title agrees. The
+    registration's summary was right in substance and is replaced by one
+    from the text, with three additions: the functor is a hypergraph
+    functor, its target is Lagrangian relations rather than Dirichlet
+    forms (which form only a semicategory, Prop. 3.6), and inductors and
+    capacitors enter only through the Laplace transform with zero initial
+    conditions. Two THEORYs are filed from it (THEORY-tmp99qi9,
+    THEORY-tmpugh7c).
 tags:
 - compositionality
 - mathematics
@@ -29,21 +52,25 @@ keywords:
 - 'functorial semantics'
 implementations: []
 summary: >-
-  Baez & Fong (2018). Circuits of resistors, inductors and capacitors
-  are morphisms of a category built from decorated cospans, and
-  black-boxing, which sends a circuit to the relation it imposes between
-  potentials and currents at its terminals, is a functor: the external
-  behavior of a composite is the composite of external behaviors,
-  whatever the interior.
+  Baez & Fong (2018), TAC 33. Open circuits of passive linear two-terminal
+  components (resistors, and inductors and capacitors through the Laplace
+  transform over ℝ(s)) are morphisms of a hypergraph category Circ built
+  from decorated cospans, composed by gluing terminals. The black box
+  functor Circ → LagRel, a hypergraph functor (Thm 1.1, Thm 7.7), sends a
+  circuit to the Lagrangian relation between its terminals' potentials and
+  currents, the graph of the differential of the power functional left
+  when the interior is eliminated by the principle of minimum power. The
+  external behaviour of a composite is the composite of the parts'
+  behaviours. Dirichlet forms alone compose by that elimination but lack
+  identities, since an ideal wire has none.
 ---
+<!-- inactive-ok-file: CLAIM-tmpmand1 — Proposed; the claim it was filed for, cited as open -->
 
 # LIT-tmpdkjum: A Compositional Framework for Passive Linear Networks
 
 Baez, J. C., & Fong, B. (2018). A compositional framework for passive linear networks. *Theory and Applications of Categories*, 33(38), 1158–1222. arXiv:1504.05625.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Read in full on 2026-10-27 (NOTE-tmpigjto).
 
 ## Why this is here
 

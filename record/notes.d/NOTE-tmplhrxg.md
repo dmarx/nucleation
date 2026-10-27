@@ -1,0 +1,406 @@
+---
+status: Read
+paper: LIT-tmpjnkzw
+title: 'Singer — Angular synchronization'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the arXiv preprint 0905.3174v2 (stamped 20 November
+    2009; v1 was submitted on 20 May 2009), 25 pp., fetched on 2026-10-27.
+    The text was extracted with `pdftotext -layout`. I read the abstract,
+    §§1–7, every equation from (1.1) to (7.4), Figures 4.1–4.3 and their
+    captions, Tables 4.1–4.3 and their captions, the acknowledgements and
+    the 42 references. Pages are the preprint's. The published version
+    (Appl. Comput. Harmon. Anal. 30(1), 20–36) was not read, so
+    differences between the two are unknown. The extraction garbles some
+    fractions, radicals and sub- and superscripts; the expressions below
+    were reconstructed from it and checked against the equations they must
+    agree with, and where one is uncertain it is said so.
+date: '2026-10-27'
+summary: >-
+  Angles θ₁, …, θₙ are estimated, up to one global phase, from noisy
+  offsets θᵢ − θⱼ of which an unknown fraction are pure outliers, by the
+  top eigenvector of the Hermitian matrix Hᵢⱼ = e^{iδᵢⱼ} or by an SDP like
+  Goemans–Williamson's. On the complete graph a random-matrix argument puts
+  the eigenvector's threshold at p > 1/√n good offsets, with the expected
+  squared correlation near 1/(1 + 1/(np²)). Fano's inequality shows no
+  algorithm can do much better: the information bound is of order
+  √(n/m), and the polynomial method's threshold is within a factor
+  √((L − 1)/(2 log₂ L)) of it, where 2π/L is the angular resolution, while
+  exhaustive maximum likelihood costs O(mLⁿ).
+---
+<!-- inactive-ok-file: CLAIM-tmpdjt64 CLAIM-tmpi1bjh CLAIM-143 CLAIM-342 QUESTION-005 THEORY-tmp24sxe LIT-tmpre2ri — Proposed, Open or Deferred; the entries the reading bears on, cited as open -->
+
+# NOTE-tmplhrxg: Singer — Angular synchronization
+
+## Contribution
+
+It states the angular synchronization problem, estimating n angles from
+noisy measurements of some of their pairwise offsets, under a model in which
+an unknown share of the measurements are outliers carrying no information
+(eq. 1.1, p. 2). It gives two polynomial-time estimators, the top eigenvector
+of a Hermitian matrix built from the offsets and a semidefinite relaxation
+(eqs. 1.6–1.10, p. 3). It locates the eigenvector method's failure threshold
+by random matrix theory (§4), and compares it with an information-theoretic
+bound that holds for every algorithm (§5). The finding the paper leads with
+is that the cheap method is nearly as good as the best possible one: "the
+eigenvector method is asymptotically nearly optimal in the sense that it
+achieves the information theoretic Shannon bound up to a multiplicative
+factor that depends only on the discretization error of the measurements
+2π/L, but not on m and n" (p. 4).
+
+## Key insight
+
+Each good offset is a unit complex number that agrees with the truth, and
+each outlier is a unit step in a random direction. In the sum
+Σᵢⱼ e^{−iθᵢ}Hᵢⱼe^{iθⱼ} the good edges add up to m_good, while the
+bad edges "mostly cancel out each other, such that the total contribution of
+the m_bad edges is only O(√m_bad)" (p. 4). The objective therefore damps the
+outliers "by a square root relative to the linear contribution of the good
+edges" (p. 4). Relaxing n unit-modulus constraints to one constraint
+Σ|zᵢ|² = n makes the problem an eigenvector problem (eqs. 2.4–2.6, pp. 4–5).
+Iterating H integrates consistency around cycles: H² sums over triangles,
+higher powers over longer cycles, so "The top eigenvector therefore
+integrates the consistency relations of all cycles" (eqs. 2.7–2.9, p. 5).
+In matrix terms, H is a low-rank signal plus a random matrix, and recovery
+works when the signal eigenvalue leaves the noise bulk.
+
+## Assumptions
+
+- **Measurement model (1.1), p. 2.** E splits into good and bad edges:
+  δᵢⱼ = θᵢ − θⱼ on E_good, δᵢⱼ ~ Uniform([0, 2π)) on E_bad. Which edges are
+  good is unknown: "We have no a-priori knowledge, however, which
+  measurements are good and which are bad (outliers)" (p. 2). Small noise on
+  the good edges (a wrapped normal) is set aside as "negligible compared to
+  that of the outliers" (p. 2) and not analysed.
+- **A true assignment exists.** The offsets on good edges are exact
+  differences of real angles, so every cycle of good edges satisfies
+  δᵢⱼ + δⱼₖ + δₖᵢ = 0 mod 2π (eq. 2.7, p. 5). Inconsistency comes only from
+  outliers. A configuration that admits no global assignment is outside the
+  model.
+- **Identifiability**: with exact offsets, recovery is possible "iff the
+  graph G is connected", up to "an additive phase" (p. 1). §4.2 assumes the
+  graph of good edges connected (p. 10).
+- **§4.1, complete graph.** All n(n − 1)/2 offsets are measured and each is
+  good independently with probability p, so the good graph is Erdős–Rényi
+  G(n, p) (p. 6). Diagonal set to Hᵢᵢ = p.
+- **§4.2, general graphs.** Bad edges are drawn uniformly from the edges of
+  the complete graph not already good (p. 10); the sparse-matrix norm result
+  needs m_bad/(n log n) → ∞ (p. 12). The worked case is a neighbourhood
+  graph on S² rewired with probability 1 − p, rewired edges counted bad
+  (p. 12).
+- **§5, discretized model.** Angles and offsets take L values; the angles
+  are independent and uniform (eqs. 5.1–5.3, pp. 15–16); the asymptotic
+  regime is m, n → ∞, p → 0, L fixed, n/m → 0 (p. 18).
+
+## Key results
+
+### The estimators (§§1–3, pp. 3–6)
+
+- **Eigenvector estimator**: Hᵢⱼ = e^{iδᵢⱼ} on E, 0 off it (eq. 1.6, p. 3);
+  H is Hermitian because offsets are skew-symmetric. With v₁ its top
+  eigenvector, e^{iθ̂ᵢ} = v₁(i)/|v₁(i)| (eq. 1.7). It is the exact solution
+  of the relaxation max z*Hz subject to ‖z‖² = n (eq. 2.5, p. 5).
+- **SDP estimator**: max trace(H̄Θ) over Hermitian Θ ⪰ 0 with Θᵢᵢ = 1
+  (eqs. 1.8–1.10, p. 3), which drops only the rank-one constraint
+  Θᵢⱼ = e^{i(θᵢ−θⱼ)} (eqs. 3.1–3.3, p. 6). "The only difference between this
+  SDP and the Goemans-Williamson algorithm … is that the maximization is
+  taken over all semidefinite positive Hermitian matrices with complex-valued
+  entries" (p. 3). The estimate is rounded from the best rank-one
+  approximation of the optimal Θ (p. 6).
+- **Why not least squares or maximum likelihood (pp. 2–3).** Least squares
+  is "overwhelmingly dominated by outlier equations". Maximum likelihood
+  (minimise the number of violated offsets, eq. 1.4, or a smooth penalty,
+  eq. 1.5) is "a non-convex optimization problem in a huge parameter space.
+  It is like finding a needle in a haystack" (p. 3).
+- **Sequential integration** along a spanning tree solves the noiseless
+  problem but is "very sensitive to measurement errors, due to accumulation
+  of the errors" (p. 1).
+
+### Computational cost (where the paper states it)
+
+- **Power iteration** b_{k+1} = Hb_k/‖Hb_k‖: each step costs O(n²) for dense
+  H and O(m) for sparse H; "The number of iterations required by the power
+  method decreases with the spectral gap" (p. 5). No bound on the number of
+  iterations is derived.
+- **Maximum likelihood**: "the maximum likelihood cannot be found in a
+  polynomial time" (p. 14, asserted); "The exponential complexity of
+  O(mLⁿ) of the exhaustive search for the maximum likelihood makes it
+  impractical even for moderate-scale problems" (p. 20).
+- **Eigenvector vs SDP**: accuracy "comparable"; "Since the eigenvector
+  method is much faster, we prefer using it for large scale problems"
+  (p. 3); "Although the SDP is slightly more accurate, the eigenvector
+  method runs faster" (p. 14). No running times are given in the body.
+- **Max-2-Lin SDPs** with nL vectors and O(n²L²) constraints were tried
+  only on small problems (n = 20, L = 7), with no evidence that they beat
+  the eigenvector method "despite their extensive running times and memory
+  requirements" (p. 21).
+- **The one timing**, in the abstract only: n = 400 angles from all
+  C(400, 2) offsets, 90% outliers, "in less than a second on a commercial
+  laptop" (p. 1). No hardware or code is given. Table 4.1(b)'s row p = 0.1
+  (90% outliers, n = 400) reports ρ₁ = 0.90.
+
+### Noise robustness: the complete graph (§4.1, pp. 6–10)
+
+- **Decomposition**: EH = npzz* with zᵢ = e^{iθᵢ}/√n (eqs. 4.1–4.3), so
+  H = npzz* + R (4.4), R zero-mean with E|Rᵢⱼ|² = 1 − p² (4.6).
+- **Noise bulk**: R's spectrum follows the semicircle on
+  [−2√(n(1 − p²)), 2√(n(1 − p²))], and λ₁(R) ≈ 2√(n(1 − p²)) (4.7), citing
+  Wigner, Alon–Krivelevich–Vu, Soshnikov and Tracy–Widom (p. 7).
+- **Spectral transition (4.8)–(4.9)**, adopting Féral and Péché's Theorem
+  1.1 [11] for rank-one deformations: if np > √(n(1 − p²)), λ₁(H) leaves the
+  bulk and is approximately normal with
+  µ = np/√(1 − p²) + √(1 − p²)/p and
+  σ² = ((n + 1)p² − 1)/(np²)·(1 − p²) (reconstructed from the extraction
+  and checked against the paper's worked values, µ = 67.28, σ = 0.93 at
+  n = 400, p = 0.15 and µ = 50.15, σ = 0.86 at p = 0.1, p. 9); below it,
+  λ₁(H) stays at the bulk edge. The paper notes
+  that the factor 2 of (4.7) is absent from (4.8): the eigenvalue separates
+  already for np > ½λ₁(R) (p. 7).
+- **Correlation bound** |⟨z, v₁⟩|² ≥ (λ₁(H) − λ₁(R))/(np) (4.12), from
+  (4.10)–(4.11). Asking it to exceed 1/n, the correlation of random unit
+  vectors (4.13), gives (4.14) and the threshold
+  **p > 1/√n, p_c = 1/√n** (eqs. 4.15–4.16, p. 8).
+- **Above threshold**, first-order perturbation theory (4.17)–(4.19) gives
+  E tan²α ~ (n − 1)²(1 − p²)/(n³p²) (4.22), i.e. E tan²α ~ 1/(np²) for
+  p ≪ 1, n ≫ 1 (4.23), and E cos²α ~ 1/(1 + 1/(np²)) (4.24, p. 9): "even for
+  very small p values, the eigenvector method successfully recovers the
+  angles if there are enough equations, that is, if np² is large enough."
+- **Numerics, Table 4.1 (p. 11)**, n = 100 and n = 400: ρ₂ tracks
+  (1 + 1/(np²))^{−1/2} for np² ≫ 1; below np² = 1 the correlations fall to
+  about 1/√n. At n = 400 with 85% outliers, ρ₁ = 0.97 (p. 10). Figure 4.1
+  (p. 10) shows the top eigenvalue leaving the bulk for p = 0.15 and 0.1,
+  not for p = 0.05 = p_c.
+
+### Noise robustness: general graphs (§4.2, pp. 10–14)
+
+- **H = B + R** (4.31), with B = ZAZ* the good-edge adjacency matrix A
+  phase-modulated by Z = diag(e^{iθᵢ}) (4.28). By Perron–Frobenius, if the
+  good graph is connected, B's top eigenvector carries exactly the true
+  phases (4.33, p. 12).
+- **Condition (4.35)–(4.36)**: Δ_good > ½λ₁(R), with λ₁(R) ≈ 2√(2m_bad)/√n
+  from Khorunzhy's sparse-matrix result (4.34), i.e.
+  Δ_good > √(2m_bad)/√n. The step from (4.35) to "with high probability, the
+  top eigenvector of H would be highly correlated with the top eigenvector
+  of B" is stated by analogy with (4.8), not proved (p. 12).
+- **Small-world graph on S²**: by the Funk–Hecke theorem Δ_good ≈ 4m²p/n³
+  (4.39), giving p_c ≥ √(n⁵/(8m³)) (4.41), which the paper calls "far from
+  being tight" (p. 13). Empirically the jumps follow p_c ≈ √(n/(2m)), the
+  complete-graph law (p. 14; Table 4.2, p. 15). Figures 4.2–4.3 (p. 14) show
+  the top of H's spectrum as the good graph's spherical-harmonic eigenvalues
+  (multiplicities 1, 3, 5, 7, 9), "swallowed" by the semicircle as p falls.
+- **Table 4.3 (p. 15)**, n = 200, m ≈ 3000: at p = 0.4, least squares
+  ρ = 0.046, eigenvector 0.839, SDP 0.893; at p = 0.7, 0.787, 0.977, 0.986.
+  The SDP's optimal Θ had rank 1 to 5 although rank was not constrained.
+
+### The information-theoretic bound (§5, pp. 14–20)
+
+- **Entropy accounting**: H(θⁿ) = n log₂ L (5.2); each offset carries
+  mutual information I(L, p) = log₂ L − H(L, p) (5.4–5.8); so
+  H(θⁿ|δᵐ) ≥ n log₂ L − mI(L, p) (5.16). The bound ignores dependencies
+  among offsets, such as the triangle relation, so it "is certainly not a
+  tight bound" (p. 17).
+- **Fano** (5.17)–(5.18): P_e ≥ 1 − mI(L, p)/(n log₂ L) − 1/(n log₂ L), for
+  every decoding algorithm. With I(L, p) = ½(L − 1)p² + O(p³) (5.20):
+  **p_c^inf = √((n/m)·2 log₂ L/(L − 1))** (5.22), below which no algorithm
+  recovers all angles with small error. A strong-converse version is said to
+  follow from Wolfowitz and a Chernoff bound, "It is also possible to show"
+  (p. 18), not shown.
+- **Per-angle bound** (5.23)–(5.33): conditioning on all other angles,
+  dᵢI(L, p) > log₂ L is necessary for decoding θᵢ (5.30); at the average
+  degree, **p_c^ind = √((n/m)·log₂ L/(L − 1))** (5.33).
+- **The comparison** (5.34, p. 20): on the complete graph,
+  p_c^eig/p_c^ind = √((L − 1)/(2 log₂ L)) + o(1), independent of n and m.
+  p_c^eig < p_c^ind for L ≤ 6; for L = 100 the ratio is about 2.73. "Thus,
+  we may regard the eigenvector method as a very successful recovery
+  algorithm for offset equations with a small modulo L" (p. 20).
+- **Different success criteria are compared.** p_c^eig is the threshold for
+  an above-random correlation; p_c^inf and p_c^ind for correct decoding. The
+  paper says so for L = 2, where p_c^eig is √2 times smaller than p_c^inf:
+  "This is not a violation of information theory, because the fact that the
+  top eigenvector has a non-trivial correlation with the vector of true
+  angles does not mean that all angles are recovered correctly" (pp. 18–19).
+
+### Complexity theory (§6, pp. 21–22)
+
+- Discretized offset equations are an instance of Max-2-Lin mod L, and so of
+  unique games. A random assignment satisfies a 1/L fraction; the fraction
+  satisfiable here is 1 − ε = p + (1 − p)/L (p. 21). Citing Andersson,
+  Engebretsen and Håstad [3], "it is NP-hard to approximate Max-2-Lin mod L
+  within a constant ratio, independent of L. Thus, we should expect an
+  L-dependent gap similar to (5.34) for any polynomial time algorithm, not
+  just for the eigenvector method" (p. 21). The Unique Games Conjecture and
+  Charikar–Makarychev–Makarychev's near-optimal SDP algorithms are described,
+  not tested.
+
+### Generalizations (§7, pp. 22–23)
+
+- Any compact group G with a real or complex representation: gᵢⱼ = gᵢgⱼ⁻¹
+  (7.1), cycle relation gᵢⱼgⱼₖgₖᵢ = e (7.2), and a block Hermitian matrix of
+  representation matrices. Named applications: cryo-EM via SO(3) [32, 33],
+  NMR distance geometry, sensor-network localization.
+- Non-compact R (clock offsets tᵢ − tⱼ, eq. 7.3) compactified by t ↦ e^{iωt}
+  with (1/10)Δ⁻¹ ≪ ω ≪ Δ⁻¹ (7.4), so that an outlier's influence is bounded
+  where in least squares an error of 10Δ "contributes … the same as 100 good
+  equations" (p. 23). This is proposed, not tested.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | With exact offsets the angles are recoverable, up to one additive phase, iff the measurement graph is connected | strong | elementary argument, p. 1 |
+| C2 | The top eigenvector of H solves the relaxation max z*Hz, ‖z‖² = n, exactly, and power iteration costs O(n²) or O(m) per step | strong | spectral theorem, pp. 4–5 |
+| C3 | On the complete graph with each offset good w.p. p, the top eigenvalue separates from the noise bulk when np > √(n(1 − p²)), and the eigenvector beats random correlation for p > 1/√n | moderate | a cited rank-one deformation theorem [11] adopted to a non-Gaussian mixture, plus the heuristic comparison (4.13) with 1/n (pp. 7–8); confirmed numerically for n = 100, 400 (Table 4.1) |
+| C4 | Above threshold, E cos²α ≈ 1/(1 + 1/(np²)) | moderate | first-order perturbation theory, an asymptotic expansion (pp. 8–9); matches Table 4.1 for np² ≫ 1 |
+| C5 | On general graphs recovery holds when Δ_good > √(2m_bad)/√n | weak | stated by analogy with C3 (p. 12); the S² bound (4.41) is called far from tight, and the empirical threshold follows √(n/(2m)) instead (p. 14) |
+| C6 | No algorithm recovers all angles with small error probability for p below √((n/m)·2 log₂ L/(L − 1)), nor individual average-degree angles below √((n/m)·log₂ L/(L − 1)) | strong | Fano's inequality on an explicit entropy bound (§5), asymptotic in m, n → ∞, p → 0, L fixed |
+| C7 | The eigenvector method is nearly optimal: its threshold is within √((L − 1)/(2 log₂ L)) of the information bound, independent of n, m | moderate | ratio of C3's threshold to C6's (5.34); the two thresholds use different success criteria, which the paper acknowledges for L = 2 (pp. 18–19) |
+| C8 | Maximum likelihood is computationally infeasible at scale (exhaustive O(mLⁿ); no polynomial algorithm) | moderate | exhaustive count, p. 20; the no-polynomial-time statement (p. 14) is asserted, backed only by the cited NP-hardness of approximating Max-2-Lin mod L (p. 21) |
+| C9 | The SDP is slightly more accurate than the eigenvector method and slower; least squares fails under many outliers | moderate | one table, one graph family, n = 200 (Table 4.3); no timings |
+| C10 | n = 400 angles with 90% outliers are estimated in under a second on a laptop | weak | abstract only; no hardware, code or timing protocol |
+
+## Concepts
+
+- **Angular synchronization** — estimating θ₁, …, θₙ ∈ [0, 2π) up to one
+  common additive phase from measurements δᵢⱼ of θᵢ − θⱼ mod 2π on the edges
+  of a graph (p. 1).
+- **Outlier** — "an offset measurement that has a uniform distribution on
+  [0, 2π) regardless of the true value for the offset" (p. 2).
+- **Self consistency error** — the number of offset equations a candidate
+  assignment violates (1.4), or a smoothed version (1.5); minimizing it is
+  maximum likelihood.
+- **Threshold probability** p_c — the share of good offsets below which a
+  given method (p_c^eig) or every method (p_c^inf, p_c^ind) fails (§§4–5).
+- **Synchronization over a group** — recovering gᵢ from noisy ratios
+  gᵢgⱼ⁻¹ (7.1), with cycle consistency gᵢⱼgⱼₖgₖᵢ = e (7.2).
+
+## Connections
+
+- **Goemans–Williamson** [18] for max-cut: the SDP is theirs over complex
+  Hermitian matrices (p. 3); Goemans–Williamson [19] for complex SDP and
+  Max-3-Cut.
+- **Random matrix theory**: Wigner's semicircle [40, 41], Füredi–Komlós
+  [15], Péché [29] and Féral–Péché [11] for rank-one deformations,
+  Khorunzhy [24, 25] for sparse matrices.
+- **Information theory**: Cover and Thomas [8], Gallager [16] for Fano and
+  the strong converse.
+- **Complexity**: Andersson–Engebretsen–Håstad [3] (Max-2-Lin mod p),
+  Khot's Unique Games Conjecture [26], Khot et al. [27], Charikar et al. [6].
+- **Applications cited**: clock synchronization in networks [17, 23],
+  surface reconstruction from gradients [1, 13, 30], cryo-EM [12, 32, 33].
+- **The record**: NOTE-822 and NOTE-675 cite other work of Singer's
+  (vector diffusion maps; graph-Laplacian convergence), not this paper.
+  Torres-Hugas et al. (LIT-tmpre2ri, unread) treat cycle holonomy in
+  synchronization, which this paper's model excludes.
+
+## Bearing on the record
+
+- **CLAIM-tmpi1bjh: the cited fact holds, with a sharper shape than the
+  citation gives it.** The claim cites this paper for "recovering a global
+  structure from pairwise evidence costs computation, even when the structure
+  exists". The paper supports that: the structure exists by assumption, the
+  exact estimator (maximum likelihood) is a non-convex search that costs
+  O(mLⁿ) exhaustively (pp. 3, 20), and a polynomial relaxation is what is
+  used. But its main finding runs the other way from what the citation
+  suggests: the cheap method loses little. Its threshold is within
+  √((L − 1)/(2 log₂ L)) of the bound below which no method of any cost
+  succeeds (5.34, p. 20), and for L ≤ 6 it is not above it. So the paper
+  separates three regimes: below the information bound, recovery fails
+  whatever the resources, because the evidence does not determine the
+  answer (§5); between the polynomial and the information thresholds,
+  exhaustive search might succeed where the eigenvector method does not, a
+  gap the paper finds only for L ≥ 7 and expects for any polynomial
+  algorithm from NP-hardness (p. 21); above both, recovery is cheap. The
+  resource that binds hardest in this model is evidence (m and p), not
+  computation. A21 §6's "failure to glue" and "inability to find a gluing
+  within available resources" need a third case beside them, failure to
+  identify a gluing from the evidence, which no resource removes.
+- **CLAIM-tmpdjt64: the paper is the claim's "evidence" row, and is of the
+  revealing kind its defeater (a) describes.** The offsets δᵢⱼ are
+  correspondences gᵢⱼ on edges, and the cycle condition
+  δᵢⱼ + δⱼₖ + δₖᵢ = 0 (2.7), gᵢⱼgⱼₖgₖᵢ = e for a group (7.2), is the
+  claim's gluing condition. The eigenvector integrates it over all cycles
+  (2.8–2.9, p. 5). But in the paper the angles exist beforehand and the
+  measurements only reveal their differences; nothing the measurement does
+  makes or changes a correspondence, and no estimate enforces one. That is
+  the claim's table: correspondence (θᵢ − θⱼ), evidence (δᵢⱼ), and no
+  enforcement. It is not a case of "interactions generate constraints".
+  The paper's model also has no obstruction: every inconsistent cycle is
+  noise, because a global assignment exists by assumption (1.1). So it
+  cannot tell the claim's cycle holonomy from measurement error; that is
+  the case LIT-tmpre2ri addresses. The relaxation's constraint
+  Σ|zᵢ|² = n, and in least squares z₁ = 1, are there "To prevent the
+  solution from collapsing to the trivial solution z₁ = z₂ = · · · = zₙ = 0"
+  (p. 2): the claim's zero-map failure mode (THEORY-299), excluded by a
+  normalization rather than by evidence.
+- **CLAIM-143 (and CLAIM-265): a case where the correspondences cannot be
+  validated one by one, and are validated jointly by consistency.** Each
+  offset is a correspondence between two local frames, and the paper's
+  premise is that none can be checked on its own: "It is trivial to find a
+  solution to (1.1) if some oracle whispers to our ears which equations are
+  good and which are bad … In reality, we have to be able to tell the good
+  from the bad on our own" (p. 2). The method sorts them by mutual
+  consistency around cycles, which is not independent of the fit in CLAIM-143's
+  sense. It works because of a noise model: outliers uniform and
+  independent, so they cancel as a random walk (p. 4), and a global
+  assignment assumed to exist. The guarantee is statistical and has a
+  threshold (p > 1/√n on the complete graph). This bears on QUESTION-005:
+  a correspondence can be validated from inside the data, but only under a
+  model of how wrong correspondences are distributed, and only above a
+  threshold. Nor does the paper diagnose incompatibility at all: it assumes
+  compatibility and estimates through the disagreement, the order of tests
+  CLAIM-143 warns against unless compatibility is known. It is known here
+  by construction.
+- **CLAIM-342: an outside check on a self-consistency method.** The paper
+  verifies its estimates against the true angles (ρ₁, ρ₂, eq. 4.25, p. 10)
+  in simulation, where the truth is available; on real data the method's
+  only check is its own consistency. Consistent with the claim's
+  requirement of evidence not routed through the interpretation; no more.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **"Prove" is stronger than what §4 does.** §7 says "We used random matrix
+  theory to prove that the eigenvector method finds an accurate estimate"
+  (p. 22). §4.1 adopts Féral–Péché's theorem to a non-Gaussian mixture
+  without checking its conditions in the text, uses the approximation (4.7),
+  sets the threshold by comparison with random correlation (4.13), and gets
+  the correlation from a first-order expansion. §4.2's condition (4.35) is by
+  analogy. These are a careful heuristic analysis confirmed by simulation,
+  not theorems.
+- **The near-optimality comparison mixes criteria**: an above-random
+  correlation for the eigenvector, exact decoding for the information
+  bound. The paper notes this for L = 2 (pp. 18–19) but still reads (5.34)
+  as near-optimality.
+- **Cost is stated as complexity, not measured.** The number of power
+  iterations is said to decrease with the spectral gap but is not bounded;
+  no running time appears outside the abstract; the SDP's cost is said to be
+  higher but not given.
+- **Noise model.** Only exact-or-uniform offsets are analysed; small noise
+  on good edges is waved off as negligible (p. 2) and not analysed.
+  Adversarial or correlated outliers are not considered.
+- **Typos in the preprint**: eq. (2.2) reads δᵢⱼ = −δᵢⱼ for δᵢⱼ = −δⱼᵢ;
+  Table 4.1's parts are cited as "Table 4.0(a)" and "(b)" (p. 10); §5 says
+  the angles are independent because "the orientations of the molecules are
+  random" (p. 16), a leftover of the cryo-EM setting; (4.41) is written
+  p_c ≥ where an upper estimate is meant.
+- **The mean in (4.9) is not the usual one.** The standard rank-one
+  deformation value, np + n(1 − p²)/(np) = np + (1 − p²)/p, gives 66.52 at
+  n = 400, p = 0.15, where (4.9) gives 67.28 (my arithmetic, not the
+  paper's). The difference is under one σ and does not touch the threshold
+  (4.8), but the text does not say how Féral–Péché's normalization was
+  carried over.
+- The published version was not compared with the preprint.
+
+## Open questions
+
+- A rigorous threshold for the eigenvector estimator on this mixture model,
+  and a per-angle error criterion that can be compared with p_c^ind on equal
+  terms (THEORY-tmp24sxe).
+- Is the L ≥ 7 gap between polynomial and exhaustive recovery real for every
+  polynomial algorithm, as §6 expects from NP-hardness, in the average-case
+  model the paper uses? NP-hardness is a worst-case statement.
+- How does the method behave when a global assignment does not exist, so
+  that cycle inconsistency is structure rather than noise?
