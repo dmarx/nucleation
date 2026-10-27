@@ -2,7 +2,7 @@
 status: Unfetched
 status_note: >-
   searched 2026-10-27 for a lawful full text; one exists but this client
-  could not fetch it, so it is not read and no NOTE is filed (ADR-053).
+  could not fetch it, so it is not read and no NOTE is filed ([ADR-053](../decisions.d/ADR-053.md)).
   Unpaywall lists the publisher's free copy at Project Euclid (bronze,
   the published version); it answered curl with a bot challenge ("Just a
   moment..."), and a headless-browser fetch was not attempted, since it

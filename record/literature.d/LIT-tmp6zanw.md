@@ -2,7 +2,7 @@
 status: Unfetched
 status_note: >-
   searched 2026-10-27 for a lawful full text; one exists but this client
-  could not fetch it, so it is not read and no NOTE is filed (ADR-053).
+  could not fetch it, so it is not read and no NOTE is filed ([ADR-053](../decisions.d/ADR-053.md)).
   Unpaywall lists the submitted version in the University of Groningen
   repository (research.rug.nl/files/2818803/2007AutomaticaCervera.pdf)
   and a bronze copy on ScienceDirect; the repository file answered curl
