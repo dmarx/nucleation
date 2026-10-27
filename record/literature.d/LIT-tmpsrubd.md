@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpt77xq) in full, from the arXiv copy (v2, the
+  read 2026-10-27 ([NOTE-tmpt77xq](../notes.d/NOTE-tmpt77xq.md)) in full, from the arXiv copy (v2, the
   ICLR 2023 version); worth reading as ROME's extension from one edit to
   thousands, by a closed-form least-squares update spread over the range
   of MLP layers that causal tracing implicates, and for the scaling
   curves that show sequential single edits failing where it holds
-  (THEORY-tmpukwxl). Read it knowing that it inherits ROME's storage
-  reading (THEORY-1011) rather than testing it, that its layer range is
+  ([THEORY-tmpukwxl](../theory.d/THEORY-tmpukwxl.md)). Read it knowing that it inherits ROME's storage
+  reading ([THEORY-1011](../theory.d/THEORY-1011.md)) rather than testing it, that its layer range is
   chosen from traces averaged over facts, which Hase et al.
-  (LIT-tmpg22tp) show do not predict per fact where an edit works, and
+  ([LIT-tmpg22tp](LIT-tmpg22tp.md)) show do not predict per fact where an edit works, and
   that its zsRE specificity hardly moves for any method.
 title: 'Mass-Editing Memory in a Transformer'
 version: 2
@@ -73,16 +73,16 @@ summary: >-
 Meng, K., Sen Sharma, A., Andonian, A., Belinkov, Y. and Bau, D. (2022).
 Mass-editing memory in a transformer. *ICLR 2023*. arXiv:2210.07229.
 
-Read in full on 2026-10-27 (NOTE-tmpt77xq). One account was drawn from
-it: THEORY-tmpukwxl.
+Read in full on 2026-10-27 ([NOTE-tmpt77xq](../notes.d/NOTE-tmpt77xq.md)). One account was drawn from
+it: [THEORY-tmpukwxl](../theory.d/THEORY-tmpukwxl.md).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27, to fill a gap
 the circuits readings of 2026-10-26 named: ROME's extension to many
-edits, which the reading of ROME (NOTE-1166) cited without the record
-holding it. It is the method Hase et al. (LIT-tmpg22tp) test alongside
+edits, which the reading of ROME ([NOTE-1166](../notes.d/NOTE-1166.md)) cited without the record
+holding it. It is the method Hase et al. ([LIT-tmpg22tp](LIT-tmpg22tp.md)) test alongside
 ROME, and its choice of a range of layers rather than one is the clearest
 case of a localization used to design an edit. The record's question is
-what that design shows about where facts are (THEORY-1011), not how to
+what that design shows about where facts are ([THEORY-1011](../theory.d/THEORY-1011.md)), not how to
 edit models, which is practice and the anthology's.

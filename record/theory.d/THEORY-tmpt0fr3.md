@@ -30,13 +30,13 @@ source:
 extends:
 - THEORY-tmpwtgvz
 summary: >-
-  Geva et al. (2021), LIT-tmpe8ypo, read in NOTE-tmpvd0mr: "feed-forward
+  Geva et al. (2021), [LIT-tmpe8ypo](../literature.d/LIT-tmpe8ypo.md), read in [NOTE-tmpvd0mr](../notes.d/NOTE-tmpvd0mr.md): "feed-forward
   layers in transformer-based language models operate as key-value
   memories, where each key correlates with textual patterns in the
   training examples, and each value induces a distribution over the output
   vocabulary", and "we thus expect our qualitative empirical observations
   to hold across diverse settings". Evidence in one model, correlational
-  only. ROME's storage hypothesis (THEORY-1011) borrows the name and reads
+  only. ROME's storage hypothesis ([THEORY-1011](THEORY-1011.md)) borrows the name and reads
   keys and values at another level.
 ---
 <!-- inactive-ok-file: THEORY-1011 THEORY-802 — Proposed; the storage hypothesis that borrows this reading and the basis question it bears on, cited as open -->
@@ -45,7 +45,7 @@ summary: >-
 
 ## Source
 
-Geva et al. (2021), LIT-tmpe8ypo, read in full in NOTE-tmpvd0mr.
+Geva et al. (2021), [LIT-tmpe8ypo](../literature.d/LIT-tmpe8ypo.md), read in full in [NOTE-tmpvd0mr](../notes.d/NOTE-tmpvd0mr.md).
 
 ## What is asserted
 
@@ -58,17 +58,17 @@ composed within a layer and refined across layers.
 
 ## What the record holds toward it
 
-- **For:** THEORY-tmpwtgvz, in one WikiText-103 model: recognizable
+- **For:** [THEORY-tmpwtgvz](THEORY-tmpwtgvz.md), in one WikiText-103 model: recognizable
   patterns for every sampled key, a shallow-to-semantic gradient, and
   value–key agreement far above chance in the upper layers.
 - **Weak where it matters:** that agreement is about 3.5% of units at
   best, and there is no causal test.
 - **Against the unit as the unit of memory:** the dictionary-learning
-  readings (LIT-1545, LIT-1533) find MLP neurons largely polysemantic and
+  readings ([LIT-1545](../literature.d/LIT-1545.md), [LIT-1533](../literature.d/LIT-1533.md)) find MLP neurons largely polysemantic and
   read cleaner features off a learned overcomplete basis. That bears on
   "each hidden unit", not on the memory form. The record's basis question
-  (THEORY-802) applies to the choice of units as memories.
-- **Borrowed at another level:** ROME (LIT-1536, THEORY-1011) reads the
+  ([THEORY-802](THEORY-802.md)) applies to the choice of units as memories.
+- **Borrowed at another level:** ROME ([LIT-1536](../literature.d/LIT-1536.md), [THEORY-1011](THEORY-1011.md)) reads the
   whole output matrix as a linear associative memory keyed by activation
   vectors. That reading is not this one, and evidence for one is not
   evidence for the other.

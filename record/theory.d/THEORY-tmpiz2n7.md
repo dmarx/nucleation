@@ -33,7 +33,7 @@ source:
 extends:
 - THEORY-tmpg87ki
 summary: >-
-  Hase et al. (2023), LIT-tmpg22tp, read in NOTE-tmpg0dnu, §6: "Causal
+  Hase et al. (2023), [LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md), read in [NOTE-tmpg0dnu](../notes.d/NOTE-tmpg0dnu.md), §6: "Causal
   Tracing answers a question about where factual information is carried in
   representations in a Transformer forward pass, and this question turns
   out to be a different question than the editing question of where is
@@ -48,7 +48,7 @@ summary: >-
 
 ## Source
 
-Hase et al. (2023), LIT-tmpg22tp, read in full in NOTE-tmpg0dnu, §6.
+Hase et al. (2023), [LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md), read in full in [NOTE-tmpg0dnu](../notes.d/NOTE-tmpg0dnu.md), §6.
 
 ## What is asserted
 
@@ -63,12 +63,12 @@ it happens that some do".
 
 ## What the record holds toward it
 
-- **For the separation:** the measured result, THEORY-tmpg87ki. Edit
+- **For the separation:** the measured result, [THEORY-tmpg87ki](THEORY-tmpg87ki.md). Edit
   success does not follow per-fact tracing, and the one setting where it
   does a little (Fact Forcing) is the one that edits on tracing's own
   noised input.
 - **For the mechanism, from another direction:** Makelov et al.
-  (LIT-968, THEORY-282). Any one-dimensional fact patch in an MLP has a
+  ([LIT-968](../literature.d/LIT-968.md), [THEORY-282](THEORY-282.md)). Any one-dimensional fact patch in an MLP has a
   rank-one edit with the same output at that token, and their fact patches
   work through the null space of W_out. So an edit can produce the output
   without the layer holding the fact, which is one way an override could
@@ -77,7 +77,7 @@ it happens that some do".
   reordered without damage (Zhao et al., cited), so it "should matter
   where information enters the residual stream". ROME cites the same
   paper for the opposite point, that the middle layers are
-  interchangeable (THEORY-1011).
+  interchangeable ([THEORY-1011](THEORY-1011.md)).
 - **Untested:** the override itself. No experiment in the paper shows an
   edit outweighing a fact's original contribution in later layers.
 

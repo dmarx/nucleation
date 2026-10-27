@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpg0dnu) in full, from the arXiv copy (v2, the
+  read 2026-10-27 ([NOTE-tmpg0dnu](../notes.d/NOTE-tmpg0dnu.md)) in full, from the arXiv copy (v2, the
   NeurIPS 2023 version); worth reading as the direct test of whether causal
   tracing tells where to edit a fact: in GPT-J, fact by fact, it does not.
   The tracing effect at a layer adds at most 3.2 points of explained
   variance in edit success once the edit layer is known, and ROME's
   rewrite score is above 96% at every layer but the last
-  (THEORY-tmpg87ki). Read it knowing that its own account of why, that
+  ([THEORY-tmpg87ki](../theory.d/THEORY-tmpg87ki.md)). Read it knowing that its own account of why, that
   tracing and editing answer different questions, is offered and not
-  tested (THEORY-tmpiz2n7), that "where a fact is stored" means where
+  tested ([THEORY-tmpiz2n7](../theory.d/THEORY-tmpiz2n7.md)), that "where a fact is stored" means where
   causal tracing peaks, and that its Table 3 and Figure 6 disagree on one
   cell.
 title: 'Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models'
@@ -73,18 +73,18 @@ localization inform editing? Surprising differences in causality-based
 localization vs. knowledge editing in language models. *NeurIPS 2023*.
 arXiv:2301.04213.
 
-Read in full on 2026-10-27 (NOTE-tmpg0dnu). Two accounts were drawn
-from it: THEORY-tmpg87ki and THEORY-tmpiz2n7.
+Read in full on 2026-10-27 ([NOTE-tmpg0dnu](../notes.d/NOTE-tmpg0dnu.md)). Two accounts were drawn
+from it: [THEORY-tmpg87ki](../theory.d/THEORY-tmpg87ki.md) and [THEORY-tmpiz2n7](../theory.d/THEORY-tmpiz2n7.md).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27, to fill a gap
 the circuits readings of 2026-10-26 named. The reading of ROME
-(LIT-1536, NOTE-1166) filed the storage hypothesis THEORY-1011
+([LIT-1536](LIT-1536.md), [NOTE-1166](../notes.d/NOTE-1166.md)) filed the storage hypothesis [THEORY-1011](../theory.d/THEORY-1011.md)
 Proposed, and its promote_when asks for exactly this test: whether the
 layer where causal tracing finds a fact predicts, fact by fact, where an
-edit of that fact succeeds. NOTE-782, the reading of Makelov et al.
-(LIT-968), already cited the finding without the record holding it. It
+edit of that fact succeeds. [NOTE-782](../notes.d/NOTE-782.md), the reading of Makelov et al.
+([LIT-968](LIT-968.md)), already cited the finding without the record holding it. It
 is the empirical half of the argument whose formal half is Makelov et
 al.'s Lemma D.2: a successful edit at a layer does not show that the
 fact is there.

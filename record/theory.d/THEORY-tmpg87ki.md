@@ -21,7 +21,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpg22tp
 summary: >-
-  Hase et al. (2023), LIT-tmpg22tp, read in NOTE-tmpg0dnu: §§4–5,
+  Hase et al. (2023), [LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md), read in [NOTE-tmpg0dnu](../notes.d/NOTE-tmpg0dnu.md): §§4–5,
   Tables 1–8 and Appendices A–C. For ROME at GPT-J's layer 6, ρ = −0.13
   between rewrite score and tracing effect; R² 0.947 from the layer, 0.948
   with tracing added. Over twenty method–objective pairs the largest gain
@@ -37,12 +37,12 @@ summary: >-
 ## Source
 
 Hase, Bansal, Kim and Ghandeharioun (2023), NeurIPS 2023,
-arXiv:2301.04213, LIT-tmpg22tp, read in full in NOTE-tmpg0dnu.
+arXiv:2301.04213, [LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md), read in full in [NOTE-tmpg0dnu](../notes.d/NOTE-tmpg0dnu.md).
 
 ## What was actually shown
 
 **Setting.** GPT-J (6B, 28 layers), 652 CounterFact facts it completes
-correctly. Causal tracing as in Meng et al. (LIT-1536): Gaussian noise on
+correctly. Causal tracing as in Meng et al. ([LIT-1536](../literature.d/LIT-1536.md)): Gaussian noise on
 the subject's embeddings, MLP outputs restored over a window of five
 layers, and the effect at a layer taken as the maximum over tokens, as a
 fraction of the probability lost. Edits at layers {1, 5, 6, 9, 13, 17, 21,
@@ -81,24 +81,24 @@ the link that the full set hides. None did.
   means where causal tracing peaks. The finding is that this does not
   locate the edit. It does not say what would.
 - **Not that causal tracing is uninformative.** It is a statement about
-  tracing as a guide to editing. Meng et al.'s traces (THEORY-998) stand
+  tracing as a guide to editing. Meng et al.'s traces ([THEORY-998](THEORY-998.md)) stand
   as measurements.
 - **Not beyond the setting.** Two models up to 6B parameters, short
   English factual prompts, layer-level MLP edits, and denoising or zeroing
   as the localization.
 - **Not why.** The authors' account, that tracing and editing answer
   different questions and that an edit at one layer can override what
-  others have accumulated, is THEORY-tmpiz2n7, Proposed.
+  others have accumulated, is [THEORY-tmpiz2n7](THEORY-tmpiz2n7.md), Proposed.
 
 ## Connections
 
-- **THEORY-1011.** Its promote_when names this test and its refutation
+- **[THEORY-1011](THEORY-1011.md).** Its promote_when names this test and its refutation
   condition ("edits of equal quality are available at layers that tracing
   does not implicate"). This result meets that condition for the rewrite
-  score. See NOTE-tmpg0dnu.
-- **THEORY-282.** Makelov et al.'s equivalence of fact patches and
+  score. See [NOTE-tmpg0dnu](../notes.d/NOTE-tmpg0dnu.md).
+- **[THEORY-282](THEORY-282.md).** Makelov et al.'s equivalence of fact patches and
   rank-one edits gives a reason an edit can work at a layer whatever that
   layer carries. That is a mechanism for this result, from another
   direction.
-- **THEORY-998** is the average-over-facts result this one is consistent
+- **[THEORY-998](THEORY-998.md)** is the average-over-facts result this one is consistent
   with.

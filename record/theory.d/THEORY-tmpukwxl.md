@@ -19,12 +19,12 @@ date: '2026-10-27'
 source:
 - LIT-tmpsrubd
 summary: >-
-  Meng et al. (2022), LIT-tmpsrubd, read in NOTE-tmpt77xq: §§4–5, Tables 1
+  Meng et al. (2022), [LIT-tmpsrubd](../literature.d/LIT-tmpsrubd.md), read in [NOTE-tmpt77xq](../notes.d/NOTE-tmpt77xq.md): §§4–5, Tables 1
   and 2, Appendices A, B and F. On 10,000 true zsRE facts in GPT-J, MEMIT
   scores 50.7 against FT-W 42.1, MEND 20.0 and ROME 2.6. At a handful of
   edits ROME generalizes a little better. It does not show where facts are
   stored: the layer range is chosen from traces averaged over facts, which
-  do not predict per fact where an edit works (THEORY-tmpg87ki).
+  do not predict per fact where an edit works ([THEORY-tmpg87ki](THEORY-tmpg87ki.md)).
 ---
 <!-- inactive-ok-file: THEORY-1011 — Proposed; the storage hypothesis this result is offered for and does not support, cited as open -->
 
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Meng, Sen Sharma, Andonian, Belinkov and Bau (2022), ICLR 2023,
-arXiv:2210.07229, LIT-tmpsrubd, read in full in NOTE-tmpt77xq.
+arXiv:2210.07229, [LIT-tmpsrubd](../literature.d/LIT-tmpsrubd.md), read in full in [NOTE-tmpt77xq](../notes.d/NOTE-tmpt77xq.md).
 
 ## What was actually shown
 
@@ -66,9 +66,9 @@ done as well as the traced one.
 
 - **Not where facts are stored.** The layer range is chosen from causal
   traces averaged over facts. Per fact, tracing does not predict where an
-  edit works (THEORY-tmpg87ki), and an edit at a layer can produce the
-  output whether or not the layer holds the fact (THEORY-282). The
-  storage reading is THEORY-1011, Proposed.
+  edit works ([THEORY-tmpg87ki](THEORY-tmpg87ki.md)), and an edit at a layer can produce the
+  output whether or not the layer holds the fact ([THEORY-282](THEORY-282.md)). The
+  storage reading is [THEORY-1011](THEORY-1011.md), Proposed.
 - **Not that the edits are integrated knowledge.** The tests are the edit
   prompt, paraphrases, neighbouring subjects and generations about the
   subject. Reverse relations are not edited, as the authors say.

@@ -111,11 +111,11 @@ refines those associations layer by layer.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | A feed-forward layer has the algebraic form of an unnormalized key–value memory | demonstrated | Eqs. 1–2; the observation is Sukhbaatar et al.'s |
-| C2 | In this model, a key's top training prefixes share human-recognizable patterns | moderate | 160 keys, one annotator each, no agreement measure or random-key control beyond the 3-prefix rule (THEORY-tmpwtgvz) |
+| C2 | In this model, a key's top training prefixes share human-recognizable patterns | moderate | 160 keys, one annotator each, no agreement measure or random-key control beyond the 3-prefix rule ([THEORY-tmpwtgvz](../theory.d/THEORY-tmpwtgvz.md)) |
 | C3 | Lower layers' keys capture shallow patterns, upper layers' semantic ones | moderate | Figure 2's labels and Figure 3's removal test |
 | C4 | Upper-layer values encode distributions over next tokens that complement their keys' patterns | weak to moderate | agreement peaks at about 3.5% of units; far above a random token, far below most units |
 | C5 | A layer's output is a composition of many memories, and the residual refines the prediction across layers | moderate | Figures 7–11, 4,000 prefixes |
-| C6 | Feed-forward layers in transformers generally act as key–value memories | conjecture beyond this model | stated in §7 as expected to hold for BERT and translation models, untested (THEORY-tmpt0fr3) |
+| C6 | Feed-forward layers in transformers generally act as key–value memories | conjecture beyond this model | stated in §7 as expected to hold for BERT and translation models, untested ([THEORY-tmpt0fr3](../theory.d/THEORY-tmpt0fr3.md)) |
 
 ## Concepts
 
@@ -140,14 +140,14 @@ memory. Its question, what a hidden unit responds to, is the
 maximum-activation method of Erhan et al. and of neuron analyses in NLP.
 Projecting value vectors through the output embedding prefigures the
 "logit lens" readings of the residual stream and the direct-path terms of
-Elhage et al. (LIT-1534), which read the stream as a sum of components'
-contributions. ROME (LIT-1536) and MEMIT (LIT-tmpsrubd) cite it for MLPs
-as key–value memories, and Hase et al. (LIT-tmpg22tp) for MLPs' role in
+Elhage et al. ([LIT-1534](../literature.d/LIT-1534.md)), which read the stream as a sum of components'
+contributions. ROME ([LIT-1536](../literature.d/LIT-1536.md)) and MEMIT ([LIT-tmpsrubd](../literature.d/LIT-tmpsrubd.md)) cite it for MLPs
+as key–value memories, and Hase et al. ([LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md)) for MLPs' role in
 factual recall.
 
 ## Bearing on the record
 
-- **THEORY-1011, NOTE-1166.** ROME's storage hypothesis is said to
+- **[THEORY-1011](../theory.d/THEORY-1011.md), [NOTE-1166](NOTE-1166.md).** ROME's storage hypothesis is said to
   follow Geva et al., but the two "key–value" readings differ. Here a key
   is one hidden unit's input weights and a value one row of the output
   matrix, so a layer holds 4,096 memories, each a pattern-to-token
@@ -158,22 +158,22 @@ factual recall.
   reading is the classical one (Kohonen, Anderson) and cites this paper
   for the idea that MLPs store associations, not for its unit-level form.
   This paper studies next-token associations in a WikiText model, not
-  subject–attribute facts. So it supports THEORY-1011 only at the level
+  subject–attribute facts. So it supports [THEORY-1011](../theory.d/THEORY-1011.md) only at the level
   of "MLPs can be read as memories", and its own finding that a layer's
   output rarely comes from a single memory fits ROME's distributed reading
   better than a unit-per-fact one.
-- **THEORY-802, QUESTION-234.** The paper takes the hidden-unit basis as
+- **[THEORY-802](../theory.d/THEORY-802.md), [QUESTION-234](../questions.d/QUESTION-234.md).** The paper takes the hidden-unit basis as
   the basis of memories. Its patterns are found by maximum activation in
   that basis, so whether the "memories" are the model's units or the
-  method's is the basis question THEORY-802 raises for interchange
-  interventions. The dictionary-learning readings (LIT-1545, LIT-1533)
+  method's is the basis question [THEORY-802](../theory.d/THEORY-802.md) raises for interchange
+  interventions. The dictionary-learning readings ([LIT-1545](../literature.d/LIT-1545.md), [LIT-1533](../literature.d/LIT-1533.md))
   later argue that MLP units are polysemantic and read features off a
   learned basis instead. The comparison is the record's.
-- **LIT-1534.** Its account of the residual stream as a sum of layer
+- **[LIT-1534](../literature.d/LIT-1534.md).** Its account of the residual stream as a sum of layer
   contributions, each read through the output embedding, is the same move
   as §5.2 here, made in 2021 in the framework's own terms.
-- **Accounts filed.** THEORY-tmpwtgvz (Active): what was measured in
-  this model. THEORY-tmpt0fr3 (Proposed): the general reading.
+- **Accounts filed.** [THEORY-tmpwtgvz](../theory.d/THEORY-tmpwtgvz.md) (Active): what was measured in
+  this model. [THEORY-tmpt0fr3](../theory.d/THEORY-tmpt0fr3.md) (Proposed): the general reading.
 
 No instruction for machine-learning practice is drawn.
 
