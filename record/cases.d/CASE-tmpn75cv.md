@@ -70,7 +70,7 @@ exchange's:
   unrecoverable", and "If a doctoral student leaves research because a
   laboratory closes, reinstating a grant later does not necessarily bring
   the student back." Fiscal, organizational and scientific restoration are
-  three outcomes. [CASE-111](CASE-111.md) is the formal possibility, and CLAIM-tmpcwl5o the claim
+  three outcomes. [CASE-111](CASE-111.md) is the formal possibility, and [CLAIM-tmpcwl5o](../claims.d/CLAIM-tmpcwl5o.md) the claim
   drawn from it; A4: "The empirical
   challenge is to establish whether particular systems exhibit such path
   dependence, rather than merely labeling any slow recovery as hysteresis",
