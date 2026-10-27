@@ -97,6 +97,7 @@ objected_by:
 supports:
 - CLAIM-174
 ---
+<!-- inactive-ok-file: QUESTION-tmpl1yih LIT-tmpj4ix1 LIT-tmpcdunk — the question the pressures are filed in (Open) and its sources, registered unread (Deferred) -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
 <!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
 <!-- inactive-ok-file: THEORY-257 THEORY-265 THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 set beside the criterion, open -->
@@ -243,3 +244,29 @@ ways. None changes the criterion.
   30–80%, because few samples cross the barrier. This claim's duration
   clause needs a lifetime, and equilibrium data are the weak place to get
   one.
+
+## Note of 2026-10-27: pressures from the dynamics of transitions
+
+A14 of the exchange of 2026-10-27 raised three pressures on criteria that read
+an individual off a gap. They are filed as [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md), not as
+objections, since none is shown to defeat this claim's coupling-gap criterion.
+(i) Non-normal transient growth can carry a system out of a regime whose
+linearization is stable at every instant ([THEORY-724](../theory.d/THEORY-724.md); [LIT-932](../literature.d/LIT-932.md)). (ii)
+Rate-induced tipping can end a form whose frozen-parameter attractor still
+exists ([LIT-tmpj4ix1](../literature.d/LIT-tmpj4ix1.md), unread), which bears on "it lasts as long as that block
+persists". (iii) Localized structures persist as dynamical individuals while
+their material turns over ([LIT-tmpcdunk](../literature.d/LIT-tmpcdunk.md), unread), a case for testing whether
+the criterion follows a form through turnover.
+
+## Note of 2026-10-27 (later): the pressures read
+
+Two of the pressures noted above are now read. In Ashwin et al.'s model the
+matrix M is the same at every instant (their eq. 4), so a gap or spectral
+verdict computed from frozen dynamics stays constant through the tip
+([NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md)). Read on frozen dynamics, "it lasts as long as that block
+persists" would say the form lasts after the system has left it; the clause
+survives if "persists" is read on the trajectory. In Toner and Tu's theory
+([NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md)) the order is a gapless mode of a field, stabilized by
+neighbourhoods that keep changing, so no fixed grouping of members persists
+while the order does. It is a case for [QUESTION-218](../questions.d/QUESTION-218.md), a mode found without a
+grouping.

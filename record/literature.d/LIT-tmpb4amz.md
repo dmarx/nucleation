@@ -1,0 +1,78 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-27 ([NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md)), from the arXiv text; worth
+  reading as the author's own synthesis of einselection, redundancy and
+  envariance. Its repeatability argument (eq. 5) is clean; its redundancy
+  results are cited model calculations; its step from redundancy to
+  objectivity is an identification, and it does not contain the later
+  caveat about mutual information that the exchange attributed to other
+  work.
+title: 'Quantum Darwinism'
+version: 2
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Checked against Crossref and the arXiv API on
+    2026-10-27: Wojciech Hubert Zurek, Nature Physics 5(3), 181–188,
+    online 2 March 2009. arXiv 0903.5082 v1 was submitted on 29 March
+    2009; ADR-002 prefers it, though it postdates the journal's online
+    date, and `published:` follows the rule.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full from arXiv 0903.5082v1 (29 March 2009, the only version),
+    10 pp.: sections I–V, the captions of Figs. 1–4, the Box and the
+    references; the first NOTE on the work (NOTE-tmpvsoha). The arXiv
+    record's journal reference is Nature Physics 5, 181–188 (2009), so it
+    is the author's text of the published review; the published text was
+    not read, and differences are unknown. Status set from the reading:
+    Active. `published:` is corrected to 2009-03-02, the journal's online
+    date (Crossref published-online, rechecked 2026-10-27): ADR-002's rule
+    of 2026-10-09 takes the earlier date where an arXiv copy was posted
+    after the journal version, which version 1 misapplied. The alternative
+    is 2009-03-29, the arXiv v1 date. Summary rewritten from the text.
+tags:
+- quantum-foundations
+- information-theory
+date: '2026-10-27'
+published: '2009-03-02'
+arxiv: '0903.5082'
+doi: '10.1038/nphys1202'
+first_author: 'Zurek'
+keywords:
+- 'quantum Darwinism'
+- 'decoherence'
+- 'pointer states'
+- 'redundancy'
+- 'objectivity'
+implementations: []
+summary: >-
+  Zurek (2009), a review. Decoherence singles out pointer states; quantum
+  Darwinism adds that observers read the environment, and that decoherence
+  leaves many copies of the pointer observable in it. The mutual
+  information between the system and a fraction f of the environment rises
+  steeply to a plateau at the system's entropy H_S, so R_δ = 1/f_δ disjoint
+  fragments each hold nearly all of it; redundancy is high only for the
+  pointer observable, and Zurek reads it as objectivity: many observers
+  learn the state independently and without disturbing it. A unitarity
+  argument shows only orthogonal states can be repeatably recorded,
+  without the Born rule, which is derived separately from envariance. The
+  measurement problem is called "largely settled".
+---
+
+# LIT-tmpb4amz: Quantum Darwinism
+
+Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5(3), 181–188. doi:10.1038/nphys1202.
+
+Read in full on 2026-10-27 ([NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md)).
+
+## Why this is here
+
+A19 §4 used it for a progression from interaction to correlation,
+persistent record, redundant record and intersubjectively accessible
+fact, with the caveat, which A19 sourced to spectrum-broadcast-structure
+and strong-Darwinism work it did not name, that mutual information alone
+does not guarantee independently accessible records. It bears on
+[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md).

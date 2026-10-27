@@ -38,6 +38,7 @@ illustrated_by:
 objected_by:
 - CLAIM-419
 ---
+<!-- inactive-ok-file: QUESTION-tmpl1yih — Open; where the note was picked up -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-756 — Unavailable; cited for the argument ADR-030 summarises it for, not for a reading here -->
 
@@ -129,3 +130,13 @@ record's schemes, codes and supersession rules are that set: they say what
 counts as the same claim persisting. [CLAIM-185](CLAIM-185.md)'s note draws the
 consequence. Persistence, and so anchoring, is always persistence as
 something, and the record's grammar decides what.
+
+## Note of 2026-10-27: crystal-growth work is held
+
+The parenthesis above says "No crystal-growth work is held in this record".
+It stopped being true the day it was written: Vekilov's review *Nucleation*
+([LIT-919](../literature.d/LIT-919.md)) was filed on 2026-10-11 and has been read ([NOTE-708](../notes.d/NOTE-708.md)), and three
+crystal-growth works are registered and unavailable ([LIT-924](../literature.d/LIT-924.md), [LIT-926](../literature.d/LIT-926.md), [LIT-927](../literature.d/LIT-927.md)).
+The analogy's physics was stated from memory and has not been checked against
+that reading. Picked up while filing the exchange of 2026-10-27, whose A14 set
+nucleation beside instability ([QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md)).

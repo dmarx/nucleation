@@ -29,6 +29,7 @@ summary: >-
   case ([ADR-032](../decisions.d/ADR-032.md)'s literature roles) where a recurring move was left in
   prose.
 ---
+<!-- inactive-ok-file: CLAIM-tmpl228b — Proposed; the claim that rests on this one, cited as open -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 CLAIM-195 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
@@ -95,3 +96,34 @@ discrepancies can provide that provisional external language."
   made to save a particular claim.
 - **Warrant.** Empirical: it rests on the record's own decision history,
   observed, not on an argument about grammars in general.
+
+## Note of 2026-10-27: found again in luria, without this claim
+
+At U7 of the exchange of 2026-10-27 the owner sent the assistant to luria
+("I think I may have inadvertently operationalized this notion of
+apparatus already"). A7 found this claim's loop in luria's own record,
+the principle that an awkward structure reports a distinction the model
+has stopped expressing ([LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16)), which it called "the smoking gun", and
+promotion of a vocabulary to a scheme ([LU-ADR-124](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-124.md)), and named it "a form
+of **reflexive epistemic apparatus**". It did not find this claim, filed
+from the owner's U18 of 2026-10-22 with the record's five amendments as
+evidence, nor [CASE-131](../cases.d/CASE-131.md). [CLAIM-tmpl228b](CLAIM-tmpl228b.md), the apparatus claim filed from
+that exchange, rests on this one. Nothing here changes.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+CEGAR, read today ([NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md)), was offered by the exchange as luria's
+DP-016 in formal dress. The pattern matches: a failure under a fixed
+specification is located and repaired by refining the abstraction. Two
+disanalogies bear on this claim's limit.
+
+- **CEGAR's misfit is certified.** Lemma 1 decides whether a counterexample
+  is spurious against the concrete model, so every wrong merge that matters
+  eventually surfaces. A record has no concrete model to check against.
+  That is why this claim's limit, that a silently forced move leaves no
+  trace, has no counterpart there.
+- **CEGAR only splits.** The amendments this claim lists ([ADR-043](../decisions.d/ADR-043.md)'s field,
+  [ADR-044](../decisions.d/ADR-044.md)'s relation) are additions, not splits.
+
+And even with a certified misfit, the least amendment can be hard to find: the
+coarsest split that removes a counterexample is NP-hard (Thm 3).

@@ -34,6 +34,7 @@ summary: >-
 supports:
 - CLAIM-206
 ---
+<!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-tmpl228b CLAIM-tmpdr90u — Proposed; the claims that name this guard, cited as open -->
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the two theses this disclaimer guards, both open -->
 
@@ -124,3 +125,19 @@ under those interventions does not even fix which direction mediates; it
 fixes it only relative to a chosen decomposition into units. That is
 weaker than constitution and more basic. It is shown exactly for one
 constructed network.
+
+## Note of 2026-10-27: the guard restated, and its form for specifications
+
+The exchange of 2026-10-27 restated this claim without citing it, and
+then cited it as "Nucleation's strongest existing philosophical safeguard:
+**identification is not constitution**" (A10 §5). Its forms there: A7's
+"**Demonstrable**" against "**Philosophical hypothesis**" for luria; A10
+§5's three levels "that should never be conflated", formal (which
+configurations satisfy a specification), dynamical (which realized
+constraints affect a system) and ontological (whether the organization
+constitutes an individual), with "Success at one level provides potential
+evidence for another, not an automatic entailment"; and A9 §1's form for
+specifications, "Mathematical satisfaction is not physical production."
+The three claims filed from the exchange that go past the guard
+([CLAIM-tmpmand1](CLAIM-tmpmand1.md), [CLAIM-tmpl228b](CLAIM-tmpl228b.md), [CLAIM-tmpdr90u](CLAIM-tmpdr90u.md)) each name it among what
+they do not say. Nothing here changes.

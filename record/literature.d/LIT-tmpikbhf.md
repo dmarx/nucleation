@@ -1,0 +1,92 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-27 ([NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md)), from the authors' manuscript of
+  the CAV paper in CMU's repository; worth reading as the founding paper of
+  counterexample-guided abstraction refinement and as an exact case of a
+  failure under a fixed specification read as a missing distinction,
+  located and repaired by a split. The specification itself is never
+  revised. Two of its four theorems have no proof in this text.
+title: 'Counterexample-Guided Abstraction Refinement'
+version: 2
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-27:
+    Edmund Clarke, Orna Grumberg, Somesh Jha, Yuan Lu and Helmut Veith,
+    Computer Aided Verification (CAV 2000), Lecture Notes in Computer
+    Science 1855, pp. 154–169, Springer, 2000, with the year only, so
+    `published:` carries a placeholder, 1 January 2000. The journal
+    version is J. ACM 50(5), 2003.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full from the copy in Carnegie Mellon University's repository
+    (KiltHub, doi:10.1184/r1/6604547), 16 pp.; the first NOTE on the work
+    (NOTE-tmpxgbdz). It is the authors' manuscript of this CAV 2000 paper,
+    not the technical report CMU-CS-00-103 (which it cites as a separate
+    document, ref. [7]) and not the J. ACM version: no LNCS running heads
+    or page numbers, letter paper, and 16 pages matching pp. 154–169. Its
+    wording was not compared with the Springer text. The repository's
+    metadata errs: its "Publisher Statement" DOI,
+    10.1007/978-3-642-25510-6_27, is another paper (Othman and Sandholm,
+    2011, per Crossref), and its date is 2011-11-01; its "References"
+    field has this DOI. Status set from the reading: Active. `published:`
+    is unchanged: Crossref was rechecked on 2026-10-27 and still gives
+    only the year 2000 (published-print and issued), the technical report
+    is a separate document of unchecked date, and there is no arXiv copy,
+    so ADR-002's no-day fallback applies and the placeholder stays. The
+    summary is replaced by one from the text. The registration's summary
+    held up: abstraction merges states, a counterexample is checked
+    against the concrete system, a spurious one leads to a split, and
+    checking runs again (§3, p. 7). Two refinements. The split is
+    located at the first abstract state where the trace has no concrete
+    continuation, and it separates the states reachable along the trace
+    from those with the transition onward (§4.3). And the property's own
+    atoms help build the first abstraction. Two THEORYs are filed from it
+    (THEORY-tmpaw7dg, THEORY-tmpz87qo).
+tags:
+- logic
+- mathematics
+date: '2026-10-27'
+published: '2000-01-01'
+doi: '10.1007/10722167_15'
+first_author: 'Clarke'
+keywords:
+- 'model checking'
+- 'abstraction refinement'
+- 'spurious counterexample'
+- 'verification'
+implementations: []
+summary: >-
+  Clarke et al. (2000), CAV 2000. Model checking runs on an existential
+  abstraction that merges states, built from the atomic formulas of the
+  program's conditions and of the property, so a property true of the
+  abstraction is true of the program. An abstract counterexample is
+  checked against the concrete system by forward image computation. If
+  it is spurious, the abstract state where it first has no concrete
+  continuation is split, to separate the states reachable along it from
+  those with the transition onward, and checking runs again. The coarsest
+  split is stated to be NP-hard (proof omitted), so a polynomial
+  non-optimal one is used. For finite-state programs and ACTL* properties
+  whose counterexamples are paths or loops, the loop ends in a real
+  counterexample or a proof. The property is never revised.
+---
+<!-- inactive-ok-file: CLAIM-419 CLAIM-tmpalzo4 CLAIM-tmpl228b — Proposed; the claims it was filed for, cited as open -->
+
+# LIT-tmpikbhf: Counterexample-Guided Abstraction Refinement
+
+Clarke, E., Grumberg, O., Jha, S., Lu, Y., & Veith, H. (2000). Counterexample-guided abstraction refinement. In *Computer Aided Verification* (LNCS 1855, pp. 154–169). Springer. doi:10.1007/10722167_15.
+
+Read in full on 2026-10-27 ([NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md)).
+
+## Why this is here
+
+A16 §6 called it "the strongest formal connection" for inquiry as
+specification, and read luria's DP-016 (an awkward relation discloses a
+missing distinction; [CLAIM-419](../claims.d/CLAIM-419.md) in this record) as "the same epistemic
+pattern": failure under a specification, diagnosis of the missing
+distinction, refinement. A16 added the limit that CEGAR refines an
+abstraction for a fixed property and cannot find the property misguided.
+It bears on [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md) and [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md).

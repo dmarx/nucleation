@@ -37,6 +37,7 @@ summary: >-
 supports:
 - CLAIM-224
 ---
+<!-- inactive-ok-file: CLAIM-tmpmand1 LIT-tmp3qjvp — the frame the cost is carried to (Proposed) and the primary source, registered unread (Deferred) -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the thesis this objection presses and the qualified claim it spares, both open -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition the exchange offered as the remedy, open -->
 <!-- inactive-ok-file: THEORY-880 — Proposed; Lyre's structuralism, cited for comparison, not leaned on -->
@@ -151,3 +152,18 @@ relations alone fix what an experience is.
 The case is outside the communicative domain, as Lyre's is ([THEORY-880](../theory.d/THEORY-880.md)), so
 it extends the claim's parallel by analogy and says nothing about which
 version of [CLAIM-136](CLAIM-136.md) the owner should hold. The comparison is the record's.
+
+## Note of 2026-10-27: the primary source, and a cost for the general frame
+
+Newman's paper is now registered ([LIT-tmp3qjvp](../literature.d/LIT-tmp3qjvp.md)), unread; the objection's
+ground is still the Stanford entry's account ([LIT-045](../literature.d/LIT-045.md)). The exchange of
+2026-10-27 pressed it again (A3, A8 §5, A9 §14: structural realism "can
+treat organization as basic while confronting Newman's objection about
+insufficiently constrained abstract structure"). Its answer, in the frame
+filed from it ([CLAIM-tmpmand1](CLAIM-tmpmand1.md)), is that constraints are realized: a
+relation is constrained by what maintains it, not by its extension alone.
+That is non-structural input of the kind this claim says the standard
+remedy adds, so this claim's cost carries over: the general frame does not
+escape Newman by being about constraints, it pays as the communicative
+case pays, with a "partly". The observation is the filer's; the exchange
+did not draw it.

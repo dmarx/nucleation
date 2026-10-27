@@ -1,0 +1,60 @@
+---
+status: Unavailable
+status_note: >-
+  filed 2026-10-27, not read. A reading was attempted on 2026-10-27 and
+  no lawful full text was reached: the book has no DOI to look up on
+  Unpaywall, and the Internet Archive records found are
+  controlled-lending copies, so none was used. It stays Unavailable
+  until a copy is supplied.
+title: 'An Autobiography'
+version: 2
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Oxford University Press, 1939; no DOI was found
+    (Crossref holds reviews of it, among them The Journal of Philosophy,
+    21 December 1939). The `url:` is the Internet Archive's catalogue
+    record of a 1959 reprint, found by its search API on 2026-10-27;
+    whether it is a lawful open copy was not checked. `published:`
+    carries a placeholder, 1 January 1939.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): no DOI for
+    Unpaywall; the Internet Archive copies are controlled-lending, not
+    used. Checked 2026-10-27. Status Deferred to Unavailable; the `url:`
+    stays as the catalogue record.
+tags:
+- philosophy-of-science
+- epistemology
+- philosophy-of-language
+date: '2026-10-27'
+published: '1939-01-01'
+url: 'https://archive.org/details/autobiography0000coll_s0z2'
+first_author: 'Collingwood'
+keywords:
+- 'logic of question and answer'
+- 'presupposition'
+- 'history of philosophy'
+implementations: []
+summary: >-
+  Collingwood (1939). Chapter V sets out a "logic of question and
+  answer": a proposition cannot be understood, or judged true or false,
+  apart from the question it was meant to answer, and every question
+  rests on presuppositions; what one inquiry establishes as an answer
+  can become a presupposition of the next.
+---
+
+# LIT-tmpig0io: An Autobiography
+
+Collingwood, R. G. (1939). *An Autobiography*. Oxford University Press.
+
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
+
+## Why this is here
+
+A15 §4 cited it as "an unusually close predecessor": an answer is
+individuated by its question, which A15 set beside the owner's analogy
+as statement : question ∼ realization : specification. It bears on
+[CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md).

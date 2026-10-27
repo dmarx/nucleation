@@ -1,0 +1,435 @@
+---
+status: Read
+paper: LIT-tmpnpxhs
+title: 'Hansen & Ghrist — Toward a spectral theory of cellular sheaves'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from arXiv 1808.01513v2 (16 August 2019), 46 pp., in its
+    "manuscript No. (will be inserted by the editor)" form; the journal
+    text (J. Appl. Comput. Topology 3(4): 315–358) was not read, so its
+    page numbers and any differences from v2 are unknown. The text was
+    extracted with `pdftotext -layout`. I read the abstract, all nine
+    sections and their subsections, every definition, proposition,
+    theorem and proof, the two footnotes, the captions of Figures 3.1
+    and 4.1, and the reference list (pp. 43–46). The paper has no
+    acknowledgements in this version. Pages are the preprint's. The
+    extraction flattens block matrices, sub- and superscripts and some
+    sums; where an expression below is reconstructed, it was checked
+    against the surrounding derivation, and is said so.
+date: '2026-10-27'
+summary: >-
+  An exploratory programme, not a single result: the Hodge Laplacian of a
+  weighted cellular sheaf, whose kernel in degree k is the cohomology H^k
+  (in degree 0, the global sections), with sheaf versions of spectral
+  graph theory's basics: harmonic extension, an eigenvalue bound for
+  normalized sheaves, interlacing, pushforward and covering spectra,
+  product spectra, effective resistance and a sparsification theorem. The
+  heat flow ẋ = −Δ^k x converges exponentially to the orthogonal
+  projection onto the harmonic cochains (Prop. 8.1). Kron reduction fails
+  for general sheaves, because an interior vertex can impose constraints
+  on the boundary that no pairwise sheaf expresses. A Cheeger inequality
+  is not proved; the applications in §8 are sketches.
+---
+<!-- inactive-ok-file: CLAIM-tmpdjt64 CLAIM-tmpmx2ql CLAIM-143 CLAIM-tmpfw510 LIT-tmpf2wmd LIT-tmpjnkzw — Proposed, Rejected or Deferred; the entries the reading bears on and works it cites, named as open -->
+
+# NOTE-tmpzqos6: Hansen & Ghrist — Toward a spectral theory of cellular sheaves
+
+## Contribution
+
+It defines the Laplacians of a weighted cellular sheaf of vector spaces
+(stalks with inner products) on a regular cell complex, and lifts a set of
+elementary results of spectral graph theory to them: harmonic extension
+(§4.1), Kron reduction and where it fails (§4.2), a maximum modulus
+principle for O(n)-bundles (§4.3), an upper bound on the spectrum of a
+normalized sheaf, interlacing under deletion of cells, behaviour under
+morphisms, covers and products (§5), effective resistance and spectral
+sparsification (§6). It reports where a Cheeger inequality does not extend
+(§7) and sketches applications: consensus, flocking, opinion dynamics,
+distributed optimization, communication compression, sheaf approximation,
+synchronization and clustering (§8). The authors call it "an exploratory
+introduction" (abstract, p. 1), and say "The results in this section are
+straightforward generalizations and extensions of familiar results from
+spectral graph theory. Most are not particularly difficult" (§5, p. 22).
+
+## Key insight
+
+A sheaf on a graph is a graph whose edges carry, instead of a weight, a
+pair of linear maps into a comparison space, and whose vertices carry
+vector spaces. Agreement along an edge means the two images coincide
+there, not that the vertex values are equal. The coboundary δ collects
+every edge's disagreement, L = δ*δ adds them up, and Hodge theory makes
+the kernel of the Laplacian exactly the cohomology: in degree 0 the
+consistent assignments, the global sections. So "the multiplicity of the
+zero eigenvalue ... enumerates connected components" (p. 2) generalizes to
+"the dimension of the kernel counts independent consistent assignments",
+and the rest of spectral graph theory can be tried on the same operator.
+Two features of the sheaf case the authors stress: the Laplacian does not
+determine the sheaf ("one cannot hear the shape of a sheaf", p. 11), and
+the inner products on stalks are part of the data, so normalizing is
+reweighting the sheaf, not the matrix (§3.4, p. 15).
+
+## Assumptions
+
+- **Cellular sheaves of vector spaces** over a regular, locally finite cell
+  complex (Def. 2.1, p. 4; Def. 2.4, p. 5): a stalk F(σ) per cell and a
+  restriction map F_{σ⊴τ}: F(σ) → F(τ) per incidence, composing
+  (ρ ⊴ σ ⊴ τ ⇒ F_{ρ⊴τ} = F_{σ⊴τ} ∘ F_{ρ⊴σ}).
+- **Weighted**: stalks carry inner products, k = ℝ or ℂ (§3.1, p. 9). Every
+  spectral statement depends on these weights.
+- **Finite**: "For the balance of this paper, we will assume that all cell
+  complexes are finite and all vector spaces are finite dimensional"
+  (p. 14). §3.3 discusses bounded and compact coboundaries (Props. 3.3,
+  3.4) but the theory is developed only for the finite case.
+- **Graphs for most results.** "we will often specialize to cellular
+  sheaves over a 1-dimensional cell complex (that is, a graph, allowing when
+  necessary multiple edges ...)" (p. 3).
+- **Linear throughout.** The only dynamics are linear flows of a fixed
+  Laplacian (§8.1); sheaves valued in other categories appear only as a
+  remark (§8.7, §9.5).
+
+## Key results
+
+### Definitions (§§2–3)
+
+- **Global section** (Def. 2.5, p. 6): x_σ ∈ F(σ) for each cell with
+  x_τ = F_{σ⊴τ} x_σ for all σ ⊴ τ; the space is Γ(X; F).
+- **Coboundary** (p. 7): (δ^k x)_τ = Σ_{dim σ = k} [σ : τ] F_{σ⊴τ}(x_σ),
+  with δ^k ∘ δ^{k−1} = 0. "In particular, H^0(X; F) is naturally isomorphic
+  to Γ(X; F), the space of global sections" (p. 7). On a graph, (δx)_e =
+  ±(F_{u⊴e}x_u − F_{v⊴e}x_v), so a 0-cochain is a section when the two
+  images agree in every edge stalk.
+- **Hodge Laplacian** (§3.2, p. 10): Δ = (δ + δ*)² = δ*δ + δδ*, graded as
+  Δ^k = (δ^k)*δ^k + δ^{k−1}(δ^{k−1})*, with up- and down-parts Δ^k_+ and
+  Δ^k_−. The up-Laplacians are written L^k, and L = L^0.
+- **Theorem 3.1** (p. 10), discrete Hodge theory: for a complex of
+  finite-dimensional Hilbert spaces, ker Δ^k ≅ H^k(C•), with the orthogonal
+  decomposition C^k = ℋ^k ⊕ im δ^{k−1} ⊕ im (δ^k)* (p. 10). Proof given.
+- **The degree-0 block form** (p. 11): diagonal blocks Σ_{v⊴e} F*_{v⊴e}F_{v⊴e},
+  off-diagonal −F*_{u⊴e}F_{v⊴e} (reconstructed from the extraction).
+- **Not determined by its Laplacian** (p. 11, Fig. 3.1): two sheaves on one
+  edge, with stalks of different dimension, both have Laplacian
+  [[2, −1], [−1, 2]]; "these sheaves are not unitarily isomorphic ...
+  More pithily, one cannot hear the shape of a sheaf." Restriction maps "may
+  be the zero morphism, effectively allowing for edges that are only
+  attached to one vertex" (p. 11).
+- **Sheaf Laplacians as factor-width-two matrices** (§3.2.2, p. 12): with
+  1 × 1 blocks they are the symmetric generalized diagonally dominant
+  matrices (Boman et al., [BCPT05]).
+- **Normalized sheaf** (Def. 3.5, Lemma 3.6, p. 15): every weighted sheaf
+  can be reweighted so that ⟨δx, δy⟩ = ⟨x, y⟩ on each stalk's part
+  orthogonal to ker δ; on a graph the matrix form is D^{†/2} L D^{†/2}.
+- **Discrete O(n)-bundles** (§3.5, p. 16): restriction maps that are scalar
+  multiples of orthonormal maps. The graph connection Laplacian of Singer
+  and Wu "is simply the sheaf Laplacian of an O(n)-vector bundle over a
+  graph" (§3.6, p. 17).
+
+### Harmonicity (§4)
+
+- **Proposition 4.1** (pp. 17–18), harmonic extension: if H^k(X, B; F) = 0,
+  a k-cochain given on a subcomplex B extends uniquely to one harmonic on
+  X \ B. For 0-cochains an extension always exists, "with uniqueness if
+  and only if H^0(X, B; F) = 0" (p. 18).
+- **Kron reduction** (§4.2, pp. 18–21). For graphs the Schur complement
+  L_G(B, B) − L_G(B, S)L_G(S, S)⁻¹L_G(S, B) is again a graph Laplacian on B
+  (Theorem 4.2, cited from [DB13]). For sheaves: "In general, Kron
+  reduction is not possible for sheaves" (p. 19). The counterexample
+  (Fig. 4.1, p. 20) is a star with stalk ℝ² at the centre, ℝ at three
+  boundary vertices and on the edges, and maps "restriction onto the first
+  and second components, and addition of the two components". Its
+  sections, restricted to the boundary, have basis x₁ = (1, 1, 0)ᵀ,
+  x₂ = (1, 0, 1)ᵀ. A sheaf on a graph with vertex set B having both as
+  sections must have every restriction map zero, so (1, 0, 0)ᵀ would be a
+  section too: "The problem is that the internal node allows for
+  constraints between boundary nodes that cannot be expressed by purely
+  pairwise interactions. This fact is a fundamental obstruction to Kron
+  reduction for general sheaves" (p. 20). (The argument checks: x₁ forces
+  the boundary maps on the v₁–v₃ and v₂–v₃ edges to vanish at v₁ and v₂,
+  x₂ forces the rest.)
+- **Theorem 4.3** (p. 20): factor-width-at-most-two matrices are closed
+  under Schur complements, so Kron reduction does hold for sheaves whose
+  vertex stalks have dimension at most 1.
+- **Theorem 4.5** (p. 21), maximum modulus for O(n)-bundles: a 0-cochain
+  harmonic off a thin set B that attains its maximum stalkwise norm off B
+  has constant norm; Corollary 4.6, it attains its maximum on B.
+
+### Spectra (§5)
+
+- **Props. 5.1, 5.2** (p. 22): the nonzero spectrum of Δ^k is the disjoint
+  union of those of Δ^k_+ and Δ^k_−; Δ^k_+ and Δ^{k+1}_− share nonzero
+  eigenvalues, the squared singular values of δ^k.
+- **Proposition 5.5** (p. 23): for a normalized sheaf on a simplicial
+  complex the eigenvalues of L^k are at most k + 2 (Courant–Fischer and
+  Cauchy–Schwarz), extending Horak and Jost.
+- **Theorem 5.7, Proposition 5.8** (p. 24): deleting an upward-closed set C
+  of cells gives (t, 0)-interlacing with t = dim C^k(X; F) − dim H^k(X; G),
+  G the sheaf keeping only maps incident to C. For the normalized degree-0
+  Laplacian the interlacing is (t, t) (p. 25). Prop. 5.8 is stated after the
+  general argument; it has no separate proof.
+- **Proposition 5.9** (p. 25): a morphism φ with φ^{k+1} unitary gives
+  L^k_F = (φ^k)* L^k_G φ^k.
+- **Proposition 5.10, Corollary 5.11** (p. 26): pushforward along a
+  locally injective cellular map preserves L^k up to unitary change of
+  basis, so F and f_*F are isospectral.
+- **Proposition 5.12** (pp. 26–27): for a covering map, spec L^k_F ⊆
+  spec L^k_{f*F}. **Proposition 5.13** (p. 27): for uniform fibres,
+  λ(F) ≥ (ℓ_d/ℓ_{d+1}) λ(f*F) for the smallest nontrivial eigenvalue.
+- **Proposition 5.15, Corollary 5.16** (pp. 27–28): the degree-0 Laplacian
+  of a product sheaf is id ⊗ L_G + L_F ⊗ id, with spectrum {μᵢ + λⱼ};
+  Prop. 5.17 gives degree-1 eigenvectors over graphs. For higher degrees
+  "we suspect that no such formula can exist" (p. 28).
+
+### Effective resistance and sparsification (§6)
+
+- **Def. 6.1, Prop. 6.2** (p. 29): for a cosheaf, R_eff(a, b) =
+  min ‖c‖² s.t. ∂c = b − a, computed as ⟨b − a, (L^k)†(b − a)⟩. It recovers
+  graph effective resistance for the constant cosheaf, and gives a
+  matrix-valued resistance over an edge (p. 29).
+- **Theorem 6.4** (pp. 30–32): for a cosheaf F on a d-dimensional complex
+  with dim C_{d−1} = n and ε > 0 there is a subcomplex with the same
+  (d − 1)-skeleton and O(ε⁻²n log n) d-cells, with a cosheaf F′ such that
+  (1 − ε)L^{d−1}_F ⪯ L^{d−1}_{F′} ⪯ (1 + ε)L^{d−1}_F. Proof by sampling
+  d-cells with probability min(1, 4ε⁻² log(n) tr R_eff(σ)) and a matrix
+  Chernoff bound [Tro12], following Spielman's notes. The authors note it is
+  "not the most general sparsification theorem" and cite Silva, Harvey and
+  Sato's (Theorem 6.5, p. 32).
+
+### Cheeger (§7)
+
+- No Cheeger inequality for sheaves is proved. §7.1 (pp. 32–33) restates
+  Bandeira, Singer and Spielman's for O(n)-bundles (eq. 7.1) and shows
+  that its key rounding lemma fails for sheaves whose restriction maps are
+  partial isometries: a two-vertex example with η(x) = 0 but η(x_u) > 0 for
+  every threshold u < 1, so no f with f(0) = 0 bounds η(x_u) ≤ f(η(x))
+  (p. 33). "These counterexamples show that an approach based on
+  variational principles and rounding is unlikely to prove an analogue"
+  (p. 33). §7.2 (pp. 33–34) proposes a "structural" Cheeger constant, the
+  smallest perturbation of the restriction maps that produces a new global
+  section with large support, and remarks without proof that
+  min ‖δ_F − δ_{F′}‖²_F, relaxed, "is greater than λ₁(L_F)" (p. 34).
+
+### The flow (§8.1) and its rate (§8.6)
+
+- **Proposition 8.1** (p. 34): "Let F be a sheaf on a cell complex X. The
+  dynamical system ẋ = −Δ^k_F x has as its space of equilibria ℋ^k(X; F),
+  the space of harmonic k-cochains of F. The trajectory of this dynamical
+  system initialized at x₀ converges exponentially quickly to the
+  orthogonal projection of x₀ onto ℋ^k(X; F)." Proof: x(t) =
+  Σᵢ e^{−tλᵢ}⟨vᵢ, x₀⟩vᵢ over an orthonormal eigenbasis; terms with λᵢ > 0
+  decay exponentially, those with λᵢ = 0 stay. Then: "In particular, for
+  k = 0, this result implies that a distributed system can reach consensus
+  on the nearest global section to an initial condition" (p. 35). No
+  coupling constant κ appears; it would only rescale time. The rate is not
+  stated as a theorem; it is in the proof's formula, each eigencomponent
+  decaying at its own eigenvalue, the slowest at the smallest nonzero one.
+- **The discrete rate** (§8.6, p. 39): for x[t + 1] = (I − αL_F)x[t] the
+  optimal step is α = 2/(λ_max + λ_min) with λ_min the smallest nontrivial
+  eigenvalue, giving spectral radius r = (λ_max − λ_min)/(λ_max + λ_min) on
+  the complement of H^0, and a number of steps to disagreement ε
+  "proportional to log ε / log(r)" (reconstructed from the extraction).
+
+### Applications, all sketches (§8)
+
+- **Flocking** (§8.2, p. 35): agents in ℝ³ with unknown frames agree on a
+  direction through a sheaf with stalks ℝ³ at vertices and ℝ at edges, maps
+  ⟨b(v, w), •⟩ and −⟨b(w, v), •⟩ from measured bearings; "Any globally
+  consistent direction for the swarm will be a section of this sheaf, and
+  with a bit more information the agents can achieve consensus on a
+  direction" (p. 35). After Jadbabaie et al. and Tanner et al.
+- **Opinion dynamics** (§8.3, pp. 35–36): opinion spaces F(p) of varying
+  dimension and a "discourse space" F(e) per edge; topics in the kernel of a
+  restriction map are not exchanged on that edge; the authors ask whether a
+  "public" consensus is possible when agents lie to some neighbours (p. 36).
+  This is the seed of [LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md).
+- **Distributed optimization** (§8.4, pp. 36–37): minimize Σ φ_v(x_v)
+  subject to x ∈ H^0, "homological programs".
+- **Communication compression** (§8.5, p. 37): nodes with state in ℝ^D send
+  each neighbour a projection onto a d ≪ D-dimensional subspace chosen per
+  edge; "The goal for reducing the communication complexity is therefore to
+  program this compressed sheaf so as to preserve the zeroth cohomology
+  H^0." With §8.6's rate, compression pays when (d log R)/(D log r) < 1
+  (p. 39). "Preliminary investigation suggests it may be possible to
+  construct approximations to the constant sheaf that achieve this
+  threshold, but more work is necessary" (p. 39). No construction is
+  given; when a family of edge subspaces {K_e} gives an approximation
+  "appears quite subtle, and will be the subject of future work" (p. 38).
+- **Sheaf approximation** (§8.6, pp. 37–38): Def. 8.2, a k-approximation is
+  a morphism G → F that is an isomorphism on stalks up to degree k and on
+  H^i for i ≤ k; Prop. 8.3, a 0-approximation to the constant sheaf has
+  equal restriction maps on each edge.
+- **Synchronization** (§8.7, pp. 39–40): after Singer and Bandeira,
+  "synchronization is the problem of finding a global section, or
+  approximate global section, of an observed sheaf on a graph" (p. 40).
+  This is synchronization as estimation (recover group elements from noisy
+  pairwise measurements, as in cryo-EM), not the dynamical synchronization
+  of coupled oscillators. The authors propose instead to "denoise the
+  measured relationships themselves using the condition of
+  cycle-consistency. That is, given an observed sheaf, find the nearest
+  sheaf supporting a global section" (p. 40).
+- **Consistent clustering** (§8.8, p. 41): Gao's graph horizontal
+  Laplacian is the Laplacian of a pushforward of a weighted constant sheaf
+  (by Prop. 5.10).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | ker Δ^k ≅ H^k for a finite weighted cellular sheaf; in degree 0 the kernel of L = δ*δ is the space of global sections | strong | Theorem 3.1 with proof, p. 10; H^0 ≅ Γ, p. 7 |
+| C2 | ẋ = −Δ^k x converges exponentially to the orthogonal projection of x₀ onto the harmonic k-cochains, each eigencomponent decaying as e^{−λᵢt} | strong | Proposition 8.1 with proof, p. 34; elementary linear algebra |
+| C3 | The Laplacian does not determine the sheaf | strong | explicit example, Fig. 3.1, p. 11 |
+| C4 | Kron reduction fails for general sheaves, because an interior vertex can impose a non-pairwise constraint on the boundary; it holds when vertex stalks have dimension ≤ 1 | strong | worked counterexample, Fig. 4.1, p. 20; Theorem 4.3 via [BCPT05] and [JS05], pp. 20–21 |
+| C5 | Spectral sparsification extends to cosheaves on cell complexes with O(ε⁻²n log n) top cells | strong | Theorem 6.4 with proof, pp. 30–32 (high probability, n not trivially small) |
+| C6 | Interlacing, eigenvalue bound k + 2, pushforward, covering and product spectra extend to sheaves | strong | Props. 5.1–5.17, proofs given except Prop. 5.8, whose argument precedes it (pp. 22–28) |
+| C7 | The rounding route to a Cheeger inequality fails beyond O(n)-bundles | moderate | one explicit counterexample to the key lemma (p. 33); a "more complicated family" without global sections is asserted, not shown |
+| C8 | Compressed edge stalks preserving H^0 can lower total consensus communication | weak | a cost inequality (p. 39) and "Preliminary investigation suggests"; no construction |
+| C9 | Synchronization problems are the search for (approximate) global sections of an observed sheaf | moderate | a reformulation with the cryo-EM case worked in words (pp. 39–40); not a theorem |
+
+## Concepts
+
+- **Cellular sheaf** — a functor from the face poset to vector spaces: a
+  stalk per cell, a restriction map per incidence (Def. 2.4, p. 5).
+- **Weighted cellular sheaf** — one whose stalks carry inner products
+  (§3.1, p. 9).
+- **Global section** — an assignment agreeing under every restriction map
+  (Def. 2.5, p. 6), identified with ker δ⁰ ⊆ C⁰ (p. 9).
+- **Harmonic cochain** — an element of ker Δ^k = ℋ^k; harmonic on a set S
+  if (Δ^k x)|_S = 0 (Def. 3.2, p. 12).
+- **Discrete vector bundle / O(n)-bundle** — all restriction maps
+  invertible; for O(n), scalar multiples of orthonormal maps (§3.5,
+  pp. 15–16).
+- **Normalized sheaf** — reweighted so δ is an isometry off its kernel on
+  each stalk (Def. 3.5, p. 15).
+- **Discourse space** — the edge stalk of an opinion sheaf (§8.3, p. 36).
+- **k-approximation** — Def. 8.2, p. 38.
+
+## Connections
+
+- **Spectral graph theory and discrete Hodge theory** (Chung, Eckmann,
+  Friedman 1998, Horak and Jost) are what it generalizes (pp. 2, 15, 23).
+- **Curry's thesis** [Cur14] is the source of the cellular sheaf theory
+  (p. 3).
+- **Friedman** [Fri15] defined sheaves on graphs (cosheaves in this
+  paper's terms, footnote 1, p. 17) and suggested a spectral theory "which
+  has remained until now merely a suggestion" (p. 17).
+- **Singer and Wu's connection Laplacian** [SW12], Bandeira, Singer and
+  Spielman's Cheeger inequality [BSS13], Chung and Zhao [CZ12]: the O(n)
+  special case (p. 17). Singer's angular synchronization [Sin11] is
+  [LIT-tmpjnkzw](../literature.d/LIT-tmpjnkzw.md), registered, not read.
+- **Spielman and Srivastava** [SS08], Spielman's notes [Spi15]: the
+  sparsification proof it follows (p. 32).
+- **Dörfler and Bullo** [DB13]: Kron reduction for graphs (p. 19).
+- **Jadbabaie, Lin and Morse; Tanner, Jadbabaie and Pappas** [JLM03,
+  TJP03]: flocking as consensus (p. 35).
+- **Robinson** [Rob17, Rob18]: approximate global sections (p. 37).
+- **Gao, Brodzki and Mukherjee** [GBM16], Gao [Gao16]: synchronization and
+  clustering (pp. 17, 41).
+- **Later work by the first author** builds on it: the record holds the
+  knowledge-sheaf paper ([LIT-232](../literature.d/LIT-232.md); [THEORY-299](../theory.d/THEORY-299.md)) and registered the discourse
+  sheaf paper ([LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md)).
+
+## Bearing on the record
+
+- **[CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md): its citation is right, with three corrections of
+  detail.** The claim says that in ẋ = −κLx "each eigenmode decays as
+  e^{−κλ_j t}", that the kernel is "the exactly compatible
+  configurations", and that the nonzero eigenvalues are the rates,
+  citing this paper. Prop. 8.1 (p. 34) proves this, for any degree k, with
+  κ = 1; κ only rescales time. Three details. (i) The paper does not speak
+  of "relaxation rates" or time scales; the rates are in the proof's
+  formula, and the only rate result stated as such is the discrete
+  consensus rate of §8.6 (p. 39). (ii) The projection is orthogonal in the
+  stalk inner products, and the authors stress that the weights "will be
+  crucial to the spectral behavior of their Laplacians" (p. 39); the same
+  sections can come with different spectra. (iii) The two-cluster window
+  and the n² chain are not in the paper; they are the exchange's own
+  computations, which the claim already says it rederived. [THEORY-tmpga5mk](../theory.d/THEORY-tmpga5mk.md).
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md): the formal part is supported; the claim's thesis is
+  not addressed.** "Collected over a graph, the conditions are the kernel
+  of a coboundary δ, the global sections H⁰ = ker δ" matches Def. 2.5 and
+  p. 7, and agreement in a shared edge space, not identity, is how the
+  paper defines it. But the paper takes the restriction maps as given. It
+  never says interactions generate them. In its applications they come
+  from measurement: bearings (§8.2), noisy pairwise group elements
+  (§8.7), designed projections (§8.5). That is the claim's "evidence" and
+  "correspondence" rows, not its "generate". §8.7 also names the failure
+  mode the claim's last section takes from [THEORY-299](../theory.d/THEORY-299.md): the authors
+  propose to "find the nearest sheaf supporting a global section" (p. 40),
+  and §§7.2 and 9.2 make that precise as a nontrivial section with large
+  support (pp. 34, 42), which is the guard against the zero maps.
+- **[CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md): a sharpening.** The claim's elimination is a Schur
+  complement, "or Kron reduction". For scalar networks the reduced
+  operator is again a pairwise coupling (Theorem 4.2, p. 19), as the
+  claim's spring computation shows. For sheaves it need not be: eliminating
+  an interior vertex with a two-dimensional stalk leaves the boundary a
+  space of sections that no sheaf on the boundary vertices has, because
+  "the internal node allows for constraints between boundary nodes that
+  cannot be expressed by purely pairwise interactions" (p. 20). So the
+  constraint an interior presents to its boundary can be of higher order
+  than any of the interactions that realize it. [THEORY-tmpvecoh](../theory.d/THEORY-tmpvecoh.md).
+- **[CLAIM-143](../claims.d/CLAIM-143.md): a case of the proviso, in the mathematics.** The claim
+  says a correspondence fitted to remove an observed incompatibility
+  decides nothing. §8.7's proposal (p. 40) is to denoise the measured
+  relationships by cycle-consistency, adjusting the correspondence until a
+  section exists. The paper does not discuss validating the adjusted maps
+  independently. And Fig. 3.1 (p. 11) shows that the Laplacian, hence the
+  spectrum and the flow, cannot recover the correspondences: two sheaves
+  with different maps and stalks share one Laplacian.
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): little.** The paper says nothing about separation of
+  time scales or about restriction maps that evolve. The note of
+  U15–U23 on this claim attributes the evolving gluing
+  ẋ = F(x, e) − κL_ϑx, ϑ̇ = εG to A21, not to this paper, which is right:
+  the closest the paper comes is "the case in which the network
+  communication graph changes over time", named as literature (p. 35), and
+  a moduli space of sheaves, named as future work (§9.1, p. 42).
+- **[THEORY-299](../theory.d/THEORY-299.md): its antecedent.** The harmonic extension (Prop. 4.1) and
+  the Schur complement (§4.2) are the operations [LIT-232](../literature.d/LIT-232.md)'s query answering
+  uses, and the zero restriction maps of Fig. 3.1 and the "nontrivial
+  global section" of §9.2 (p. 42) are the same zero-section point
+  [THEORY-299](../theory.d/THEORY-299.md) makes about knowledge sheaves. Nothing here changes it.
+- **[CLAIM-tmpfw510](../claims.d/CLAIM-tmpfw510.md).** Nothing beyond what [CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md) takes from it:
+  the flow here is dissipative by construction, so the paper is not a test
+  of whether coupling as such separates time scales.
+- **A different "flocking".** §8.2's flock is a consensus on a common
+  direction among agents with unknown frames, after Jadbabaie et al., not
+  the hydrodynamic flock of Toner and Tu ([LIT-tmpsa6iy](../literature.d/LIT-tmpsa6iy.md)). The two share a
+  word, not a model.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **Exploratory by the authors' own description.** Most results are
+  "straightforward generalizations" (p. 22); §§7–8 are sketches, and the
+  communication-compression benefit is a conjecture with "Preliminary
+  investigation" behind it (p. 39).
+- **Finite, linear, weighted.** Every result needs finite-dimensional
+  stalks on a finite complex in the end (p. 14), linear restriction maps,
+  and a chosen inner product; the dynamics are only linear Laplacian flows.
+- **No Cheeger inequality.** The registration's "Cheeger-type bounds"
+  overstates it: the paper restates the O(n)-bundle inequality, shows the
+  rounding lemma fails beyond it, and proposes a structural version
+  without proving it (§7).
+- **Prop. 5.8 has no proof of its own**, and the "more complicated family
+  of counterexamples" without global sections in §7.1 is not shown (p. 33).
+- **Extraction.** The block matrices of Fig. 3.1 and §5.4, and several
+  sums and subscripts, are garbled; the degree-0 block form and the §8.6
+  rate formulas above are reconstructed and checked against the text
+  around them, not read off clean.
+- The journal text was not read.
+
+## Open questions
+
+- A structural Cheeger inequality: does the distance from a sheaf to the
+  nearest sheaf with a nontrivial global section control its spectrum
+  (§§7.2, 9.2)? A theorem either way would settle it.
+- When does a choice of edge subspaces {K_e} give an approximation to the
+  constant sheaf, and can one beat the constant sheaf's communication cost
+  (pp. 38–39)? A construction meeting (d log R)/(D log r) < 1 would.
+- Is the spectrum of a product sheaf in higher degree determined by the
+  factors' spectra? The authors "suspect" not (p. 28); a counterexample
+  would settle it.
+- Which reductions of a sheaf to a boundary exist when Kron reduction
+  fails, for example to sheaves on hypergraphs or higher cells? The paper
+  does not ask; the Fig. 4.1 example suggests the answer needs cells of
+  higher dimension or non-pairwise stalks.
