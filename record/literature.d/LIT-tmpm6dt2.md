@@ -1,0 +1,40 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-26, "About the Chagossians". No NOTE is filed.
+title: 'The Death of the Irreparable Injury Rule'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-27: Douglas Laycock, Oxford University Press, whose record gives 17 January 1991, the earliest full date it gives. The summary follows what the work is
+    standardly cited for and the exchange's description; a reading should
+    check it first.
+tags:
+- society-and-governance
+date: '2026-10-27'
+published: '1991-01-17'
+doi: '10.1093/oso/9780195063561.001.0001'
+first_author: 'Laycock'
+keywords:
+- 'irreparable injury'
+- 'equitable remedies'
+- 'injunctions'
+- 'preliminary relief'
+implementations: []
+summary: >-
+  Laycock (1991). The rule that equity acts only when legal remedies are inadequate does not decide cases: courts choose remedies on other grounds, and irreparable injury matters mainly in preliminary relief, which turns on the risk of harm before final judgment rather than on the final choice of remedy.
+---
+
+# LIT-tmpm6dt2: The Death of the Irreparable Injury Rule
+
+Laycock, D. (1991). *The Death of the Irreparable Injury Rule*. Oxford University Press. doi:10.1093/oso/9780195063561.001.0001.
+
+Not read. The summary is drawn from what the work is standardly cited
+for and from the exchange's description of it. A reading should check it
+first.
+
+## Why this is here
+
+A8 drew from it the distinction between preliminary relief and final remedy, central to [CASE-tmps5qp3](../cases.d/CASE-tmps5qp3.md) and [CASE-tmpii28b](../cases.d/CASE-tmpii28b.md): a temporary restraining order is about what may happen before judgment, and the two are different intervention problems ([CLAIM-tmpdhkhm](../claims.d/CLAIM-tmpdhkhm.md)).

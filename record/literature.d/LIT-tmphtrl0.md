@@ -1,0 +1,40 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-26, "About the Chagossians". No NOTE is filed.
+title: 'Autocratic Legalism'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Checked against the journal's repository page on 2026-10-27: Kim Lane Scheppele, University of Chicago Law Review 85(2), 2018. The page gives the year only; issue 2 is the March issue, so `published:` is the first of March as a placeholder. Crossref returned no record for the article. The summary follows what the work is
+    standardly cited for and the exchange's description; a reading should
+    check it first.
+tags:
+- society-and-governance
+date: '2026-10-27'
+published: '2018-03-01'
+url: 'https://chicagounbound.uchicago.edu/uclrev/vol85/iss2/2/'
+first_author: 'Scheppele'
+keywords:
+- 'autocratic legalism'
+- 'constitutionalism'
+- 'democratic backsliding'
+- 'legal form'
+implementations: []
+summary: >-
+  Scheppele (2018). New autocrats come to power through elections and then use legal means, constitutional amendment, legislation and appointments, to dismantle the checks on their power, so the attack on constitutionalism is carried out in the forms of law.
+---
+
+# LIT-tmphtrl0: Autocratic Legalism
+
+Scheppele, K. L. (2018). Autocratic legalism. *The University of Chicago Law Review*, 85(2), 545.
+
+Not read. The summary is drawn from what the work is standardly cited
+for and from the exchange's description of it. A reading should check it
+first.
+
+## Why this is here
+
+A8 put it beside the historical cases "as an important competing explanation of strategic institutional behavior": a self-reinforcing loop is not the same explanation as the deliberate use of legal procedure to weaken accountability. [CLAIM-tmpdhkhm](../claims.d/CLAIM-tmpdhkhm.md) is stated so that it does not choose between them.

@@ -1,0 +1,44 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-26, "About the Chagossians". No NOTE is filed.
+title: 'Chagos Islanders in Mauritius and the UK: Forced Displacement and Onward Migration'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-27: Laura Jeffery, Manchester University Press monograph, 31 August 2011. The exchange cited "Laura Jeffery's ethnography" without a title; this is the book its points come from, identified by the record, not by the exchange. The summary follows what the work is
+    standardly cited for and the exchange's description; a reading should
+    check it first.
+tags:
+- social-science
+- society-and-governance
+date: '2026-10-27'
+published: '2011-08-31'
+doi: '10.7228/manchester/9780719084300.001.0001'
+first_author: 'Jeffery'
+keywords:
+- 'Chagos islanders'
+- 'forced displacement'
+- 'onward migration'
+- 'Mauritius'
+- 'United Kingdom'
+implementations: []
+summary: >-
+  Jeffery (2011). An ethnography of Chagos islanders displaced to Mauritius and onward to the UK: their marginalization, their political organization, and their disagreements over sovereignty, the Diego Garcia base, and negotiation against litigation.
+reports:
+- CASE-tmpelq9w
+---
+
+# LIT-tmp9pvlp: Chagos Islanders in Mauritius and the UK: Forced Displacement and Onward Migration
+
+Jeffery, L. (2011). *Chagos Islanders in Mauritius and the UK: Forced Displacement and Onward Migration*. Manchester University Press. doi:10.7228/manchester/9780719084300.001.0001.
+
+Not read. The summary is drawn from what the work is standardly cited
+for and from the exchange's description of it. A reading should check it
+first.
+
+## Why this is here
+
+A3 cited "Laura Jeffery's ethnography" for the disagreements among Chagossians about sovereignty, the base and strategy, which [CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md) uses for [CLAIM-418](../claims.d/CLAIM-418.md): a shared perspective with divergent political judgments. Registered as the likeliest source; the exchange named no title, and A3 also cited a plants-as-heritage study by Jeffery that is not identified here.

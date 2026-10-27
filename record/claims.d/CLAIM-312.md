@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpfpvgq
 title: '"If I can''t find it, it isn''t there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added, from the exchange "About the Chagossians":
+    the owner carried the rule from items to remedies, and A10 to
+    institutional claims that no remedy is available. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -128,3 +136,28 @@ on someone else's behalf.
 disjunction in [CASE-085](../cases.d/CASE-085.md), and of the Bayes term is kept above as the
 analysis of the literal reading. Its claim that absence is shown "only by
 exhausting the collection" is withdrawn ([CLAIM-311](CLAIM-311.md)).
+
+## Note of 2026-10-27: "we cannot" as a failed search
+
+The owner, at U10 of the exchange of 2026-10-26, on A9's "correctability
+frontier": "reminds me of the 'if I can't find it, it isn't there' stuff.
+let's poke out the resource-boundedness here." A10 read this claim and its
+predecessors correctly ([CLAIM-306](CLAIM-306.md) Superseded, [CLAIM-311](CLAIM-311.md)'s sorted index) and
+carried the distinction to remedies:
+
+- "We have not found a lawful means of returning this person" reports a
+  failed search, and establishes operational unavailability.
+- "No lawful means of returning this person exists" asserts absence, and
+  needs "a justified exclusion of alternatives", the certificate this
+  claim requires.
+- "We cannot find and execute a lawful means before the deadline" is a
+  resource- and time-relative capability claim.
+
+What the item case lacks is a searcher who is a party. A10: "one actor may
+influence the search environment faced by the actor responsible for
+reviewing or correcting its behavior", and an institution's budget "is
+itself partly an outcome of political and organizational decisions".
+[QUESTION-tmpivy6b](../questions.d/QUESTION-tmpivy6b.md) asks what the certificate would be for a remedy, and
+[TERM-tmpsuzzj](../terms.d/TERM-tmpsuzzj.md) is the availability. A10 declined to file its own claim
+candidate, "since this is substantially an application of [CLAIM-296](CLAIM-296.md)",
+and so does this filing.

@@ -26,6 +26,8 @@ summary: >-
   is a proposed minimal model, not an empirical fit." [THEORY-136](../theory.d/THEORY-136.md) and
   [THEORY-214](../theory.d/THEORY-214.md) say why its early-warning consequence is weak evidence.
   Fictional by construction.
+supports:
+- CLAIM-tmpdhkhm
 ---
 
 # CASE-111: A fold in boundary maintenance: in ḃ = μb + κb² − b³ with cooperative repair (κ > 0), an unmaintained and a maintained state are both stable for −κ²/4 < μ < 0, so maintenance lost past the fold is not restored by returning the parameter, and recovery slows to zero as the fold nears

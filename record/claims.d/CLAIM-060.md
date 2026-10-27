@@ -29,6 +29,8 @@ complements:
 - CLAIM-351
 supports:
 - CLAIM-348
+illustrated_by:
+- CASE-tmpn75cv
 ---
 <!-- inactive-ok-file: THEORY-025 THEORY-150 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

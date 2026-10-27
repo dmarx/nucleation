@@ -1,0 +1,40 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-26, "About the Chagossians". No NOTE is filed.
+title: 'Destabilization Rights: How Public Law Litigation Succeeds'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-27: Charles F. Sabel and William H. Simon, Harvard Law Review 117(4), 1015, February 2004. Crossref gives no day. The summary follows what the work is
+    standardly cited for and the exchange's description; a reading should
+    check it first.
+tags:
+- society-and-governance
+date: '2026-10-27'
+published: '2004-02-01'
+doi: '10.2307/4093364'
+first_author: 'Sabel'
+keywords:
+- 'public law litigation'
+- 'destabilization rights'
+- 'experimentalism'
+- 'institutional reform'
+implementations: []
+summary: >-
+  Sabel & Simon (2004). Public law litigation has moved from command-and-control injunctions to experimentalist regimes: negotiated, provisional and revisable standards with transparency and stakeholder participation, triggered by a right to disentrench an institution that persistently fails its obligations.
+---
+
+# LIT-tmp1lt3c: Destabilization Rights: How Public Law Litigation Succeeds
+
+Sabel, C. F. and Simon, W. H. (2004). Destabilization rights: How public law litigation succeeds. *Harvard Law Review*, 117(4), 1015. doi:10.2307/4093364.
+
+Not read. The summary is drawn from what the work is standardly cited
+for and from the exchange's description of it. A reading should check it
+first.
+
+## Why this is here
+
+A8 and A9 read it as remediation as ongoing institutional reconstruction, not command and compliance. It is a rival frame for [QUESTION-tmp6xeir](../questions.d/QUESTION-tmp6xeir.md): a remedy that is itself a maintained, revisable relation among institutions.

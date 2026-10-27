@@ -34,6 +34,7 @@ illustrated_by:
 - CASE-111
 supports:
 - CLAIM-344
+- CLAIM-tmpbf8uv
 ---
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-018 CLAIM-025 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

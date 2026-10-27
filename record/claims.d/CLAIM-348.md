@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp679hm
 title: 'No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution''s performance can merge states its members'' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified by the description that preserves it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,13 @@ history:
     last of four missing warrants, and A25 re-derived its second clause for
     legibility (who participates in fixing the query family, who pays to
     become legible). Lan, sought the same day, is Unavailable; Espeland and Sauder's reading adds an instance. The claim is unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added, from the exchange "About the Chagossians":
+    CASE-110's construction met in two documented settings, a sovereignty
+    settlement and a reclassified contract, and the replies' distinction
+    between merging a claim and overriding it. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +61,8 @@ summary: >-
 supports:
 - CLAIM-401
 - CLAIM-404
+illustrated_by:
+- CASE-tmpelq9w
 ---
 <!-- inactive-ok-file: LIT-1328 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
@@ -148,3 +157,33 @@ Native American graduates are what a ranking adequate for applicants and
 firms runs together, and the schools pay to be made legible to it. James et
 al. ([NOTE-1041](../notes.d/NOTE-1041.md)) state the same point in administrative terms, as
 "horizontal neutrality".
+
+## Note of 2026-10-27: an interstate settlement, and an override that is not a merge
+
+Two documented settings from the exchange of 2026-10-26.
+
+- **Sovereignty and return** ([CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md)). A3: with C(x) recording the
+  sovereignty arrangement and military access and J_R(x) whether a
+  Chagossian right of return is satisfied, "two possible settlements could
+  have identical arrangements for sovereignty and military access while
+  differing radically in whether Chagossians can return", so J_R does not
+  factor through C ([CLAIM-350](CLAIM-350.md)). A3: "This is not a new mathematical
+  result. The contribution of the historical case would be to investigate
+  whether real institutional decision procedures systematically omit those
+  distinctions."
+- **A contract read by amount and payee** ([CASE-tmps5qp3](../cases.d/CASE-tmps5qp3.md)). A5: the USIP
+  contract with an Afghan scholar, classified by employment history and
+  amount, read as support for the Taliban; its purpose and the danger of
+  publicity were merged out, and the harm reported fell on people outside
+  the institution.
+
+A3 drew the distinction the claim needs and does not state: "A description
+that merges relevant states and an institution that sees their difference
+but acts against the affected people can produce the same outcome. They
+are not the same mechanism." An institution that knowingly overrides an
+established right has not coarse-grained; that is "a failure of
+legitimacy, a deliberate rights violation, or an institution organized to
+prioritize conflicting objectives." So an outcome that disregards a
+member's claim is not by itself evidence for this claim; the evidence is
+a decision record showing the distinction absent, not seen and set
+aside.
