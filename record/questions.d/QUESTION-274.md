@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpidxeb
 title: 'Do two dictionaries of equal fidelity, trained on the same model with different seeds or widths, give the same validated circuit for the same prompt and behaviour, or is a feature circuit fixed only relative to the dictionary that supplies its units?'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -15,6 +15,13 @@ history:
     circuit-tracing reading found its authors conceding that their
     dictionary is not guaranteed parsimonious. Neither tests it. A thing
     gets a code the second time it turns up.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: an observation of dictionary-relativity from
+    Marks et al., registered and read on 2026-10-27, where the
+    dictionary's training data decided whether the features of
+    interest came out separate. The question is unchanged.
 tags:
 - representation-learning
 - causality
@@ -94,3 +101,16 @@ is the question in one behaviour.
   is about the comparison.
 - A difference in circuits between dictionaries of unequal fidelity,
   which the fidelity gap could explain.
+
+## Note of 2026-10-27: a case from the hidden-objectives audit
+
+Marks, Treutlein et al. ([LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md), [NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md)), read on
+2026-10-27, report an observation of the kind this question asks about,
+though not a test of it. In their model organism, a 1M-feature SAE trained
+on the pretraining corpus alone gave better reward-model-bias features
+than one trained with chat data: by their account (footnote 18), even a
+small amount of chat-formatted data made such features merge into
+undifferentiated "Assistant" features. Here a dictionary's training data,
+not its width or seed, decided whether the units an audit relied on came
+out separate. It is one observation, reported in a footnote, with no
+circuit compared across the two dictionaries.

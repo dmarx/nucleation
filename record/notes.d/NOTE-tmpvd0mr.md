@@ -1,0 +1,220 @@
+---
+status: Read
+paper: 'LIT-tmpe8ypo'
+title: 'Geva, Schuster, Berant and Levy — Transformer feed-forward layers are key-value memories'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full on 2026-10-27 from the arXiv PDF of 2012.14913v2 (5
+    September 2021, the EMNLP 2021 version), fetched from
+    arxiv.org/pdf/2012.14913, text extracted with pdftotext. Read: §§1–7,
+    Tables 1–2, Appendix A (the fully annotated key, Table 3) and
+    Appendix B (implementation). The figures (layer-wise breakdowns,
+    agreement rates, rank distributions, active-memory fractions,
+    residual agreement) were read from captions and text; numbers that
+    appear only as plotted bars or curves were not used except where the
+    text states them. v1 (29 December 2020) was not compared. The record
+    checked the parameter counts and the random baseline (below).
+date: '2026-10-27'
+summary: >-
+  A feed-forward layer f(x·Kᵀ)·V has the form of a key–value memory
+  without the softmax: each hidden unit's input weights are a key and its
+  output weights a value. In a 16-layer WikiText-103 language model, the
+  training prefixes that most activate a sampled key share patterns humans
+  recognize, shallow in layers 1–9 and semantic in 10–16; projected onto
+  the vocabulary, upper-layer values agree with the next token of their
+  key's top prefix in up to about 3.5% of units; and a layer's prediction
+  is usually a composition of many memories, refined across layers through
+  the residual stream.
+---
+<!-- inactive-ok-file: THEORY-tmpt0fr3 THEORY-1011 THEORY-802 — Proposed; the general reading filed here, the storage hypothesis built on it, and an account it bears on, cited as open -->
+
+# NOTE-tmpvd0mr: Geva, Schuster, Berant and Levy — Transformer feed-forward layers are key-value memories
+
+## Contribution
+
+It takes a formal resemblance, noted before by Sukhbaatar et al. (2019),
+between a feed-forward layer and a key–value neural memory, and asks what
+the memories hold in a trained language model. It gives three kinds of
+evidence: what inputs each key responds to, what each value says about
+the output vocabulary, and how a layer's and the network's predictions
+are composed from many memories. It is the paper from which the
+key–value reading of MLPs passed into ROME and MEMIT.
+
+## Key insight
+
+Write an MLP without biases as FF(x) = f(x·Kᵀ)·V. The i-th row of K is a
+key: its inner product with the input, through the nonlinearity, is a
+coefficient. The i-th row of V is a value, added to the output with that
+coefficient. So a layer's output is a weighted sum of value vectors, each
+gated by how well the input matches its key. If the keys detect patterns
+in the prefix and the values point at what tends to follow, the layer is
+a memory of pattern-to-next-token associations, and the network sums and
+refines those associations layer by layer.
+
+## Assumptions
+
+- **The memory form.** Neural memory: MN(x) = softmax(x·Kᵀ)·V. The
+  feed-forward layer: FF(x) = f(x·Kᵀ)·V with f a ReLU, biases omitted.
+  The only difference is the normalization. The hidden width d_m is the
+  number of memories, and m = f(x·Kᵀ) the memory coefficients.
+- **Model.** Baevski and Auli's adaptive-input transformer language model
+  (247M parameters, 16 layers, d = 1024, d_m = 4096, so 65,536 keys),
+  trained on WikiText-103, from fairseq. One model only.
+- **Trigger examples.** For a key, every prefix of every training
+  sentence is scored by ReLU(x·k); the top 25 (or 50) are its trigger
+  examples. Sentences were split with spaCy.
+- **Annotation.** NLP graduate students, one per key, marked patterns
+  shared by at least three of a key's top 25 prefixes and labelled each
+  shallow (recurring n-grams) or semantic (recurring topic).
+- **Values as distributions.** p_i = softmax(v_i·E) with the output
+  embedding E (in practice the adaptive softmax). The authors call this
+  "naïve": it assumes every layer works in the output embedding space.
+- **Sample sizes.** 10 keys per layer (160) annotated; 100 keys per layer
+  (1,600) for the token-removal test; all keys for the agreement rates;
+  4,000 validation prefixes for the composition analyses.
+
+## Key results
+
+- **Keys have patterns (§3, Figure 2).** Every annotated key had at least
+  one pattern, 3.6 on average; 65–80% of the top-25 prefixes were covered
+  by one. Layers 1–9 are dominated by shallow patterns, often a shared
+  last word; layers 10–16 by semantic ones.
+- **Ends matter more below (Figure 3).** Removing the last token of a
+  trigger prefix lowers the key's coefficient more than removing the first
+  or a random one, and less so in upper layers.
+- **Values agree with keys above (§4, Figures 4–6).** The share of units
+  whose value's top token equals the next token of their key's top trigger
+  example is near zero in layers 1–10 and rises to about 3.5% by the top,
+  against 0.0004% for a random token. The rank of that next token in the
+  value's distribution improves with depth. Of the 100 values with the
+  most peaked distributions, 97 are in layers 11–16, and 46 have at least
+  one of their key's top-50 prefixes followed by their top token.
+- **Layers compose (§5.1, Figures 7–8).** A prefix activates hundreds of
+  memories per layer (10–50% of 4,096), fewest around layer 10. In at
+  least about 68% of examples, at every layer, the layer's top prediction
+  is none of its memories' top predictions. Where one memory does agree,
+  the target is a common stop word in 60% of cases and the prefix is under
+  five tokens in 43%.
+- **The residual refines (§5.2, Figures 9–11).** About a third of the
+  model's final predictions are already the residual's top token in the
+  bottom few layers, rising fast from layer 10. When a feed-forward layer
+  changes the residual's top prediction, the result is usually neither the
+  residual's nor the layer's top token ("composition"), rarely the layer's
+  own. Of 100 last-layer changes, 66 moved to a semantically distant word
+  and 34 to a related one.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A feed-forward layer has the algebraic form of an unnormalized key–value memory | demonstrated | Eqs. 1–2; the observation is Sukhbaatar et al.'s |
+| C2 | In this model, a key's top training prefixes share human-recognizable patterns | moderate | 160 keys, one annotator each, no agreement measure or random-key control beyond the 3-prefix rule ([THEORY-tmpwtgvz](../theory.d/THEORY-tmpwtgvz.md)) |
+| C3 | Lower layers' keys capture shallow patterns, upper layers' semantic ones | moderate | Figure 2's labels and Figure 3's removal test |
+| C4 | Upper-layer values encode distributions over next tokens that complement their keys' patterns | weak to moderate | agreement peaks at about 3.5% of units; far above a random token, far below most units |
+| C5 | A layer's output is a composition of many memories, and the residual refines the prediction across layers | moderate | Figures 7–11, 4,000 prefixes |
+| C6 | Feed-forward layers in transformers generally act as key–value memories | conjecture beyond this model | stated in §7 as expected to hold for BERT and translation models, untested ([THEORY-tmpt0fr3](../theory.d/THEORY-tmpt0fr3.md)) |
+
+## Concepts
+
+- **Memory, memory cell**: one key–value pair, a hidden unit of the
+  feed-forward layer.
+- **Memory coefficient**: m_i = f(x·k_i), the unit's activation.
+- **Trigger examples**: the training prefixes with the highest coefficient
+  for a key.
+- **Shallow and semantic patterns**: recurring surface forms against
+  recurring topics, as the annotators judged them.
+- **Agreement rate**: the share of units whose value's top token is the
+  next token of their key's top trigger example.
+- **Residual / agreement / composition / ffn**: the four cases of how a
+  layer's output prediction relates to the residual's and the
+  feed-forward layer's own.
+
+## Connections
+
+It builds on Sukhbaatar et al.'s end-to-end memory networks (2015) and
+their observation (2019) that feed-forward layers resemble persistent
+memory. Its question, what a hidden unit responds to, is the
+maximum-activation method of Erhan et al. and of neuron analyses in NLP.
+Projecting value vectors through the output embedding prefigures the
+"logit lens" readings of the residual stream and the direct-path terms of
+Elhage et al. ([LIT-1534](../literature.d/LIT-1534.md)), which read the stream as a sum of components'
+contributions. ROME ([LIT-1536](../literature.d/LIT-1536.md)) and MEMIT ([LIT-tmpsrubd](../literature.d/LIT-tmpsrubd.md)) cite it for MLPs
+as key–value memories, and Hase et al. ([LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md)) for MLPs' role in
+factual recall.
+
+## Bearing on the record
+
+- **[THEORY-1011](../theory.d/THEORY-1011.md), [NOTE-1166](NOTE-1166.md).** ROME's storage hypothesis is said to
+  follow Geva et al., but the two "key–value" readings differ. Here a key
+  is one hidden unit's input weights and a value one row of the output
+  matrix, so a layer holds 4,096 memories, each a pattern-to-token
+  association, and outputs are compositions of hundreds of them. In ROME a
+  key is the whole activation vector at the subject's last token and the
+  whole output matrix W_proj is a linear associative memory solving
+  W K ≈ V, so a fact is a direction pair spread across all units. ROME's
+  reading is the classical one (Kohonen, Anderson) and cites this paper
+  for the idea that MLPs store associations, not for its unit-level form.
+  This paper studies next-token associations in a WikiText model, not
+  subject–attribute facts. So it supports [THEORY-1011](../theory.d/THEORY-1011.md) only at the level
+  of "MLPs can be read as memories", and its own finding that a layer's
+  output rarely comes from a single memory fits ROME's distributed reading
+  better than a unit-per-fact one.
+- **[THEORY-802](../theory.d/THEORY-802.md), [QUESTION-234](../questions.d/QUESTION-234.md).** The paper takes the hidden-unit basis as
+  the basis of memories. Its patterns are found by maximum activation in
+  that basis, so whether the "memories" are the model's units or the
+  method's is the basis question [THEORY-802](../theory.d/THEORY-802.md) raises for interchange
+  interventions. The dictionary-learning readings ([LIT-1545](../literature.d/LIT-1545.md), [LIT-1533](../literature.d/LIT-1533.md))
+  later argue that MLP units are polysemantic and read features off a
+  learned basis instead. The comparison is the record's.
+- **[LIT-1534](../literature.d/LIT-1534.md).** Its account of the residual stream as a sum of layer
+  contributions, each read through the output embedding, is the same move
+  as §5.2 here, made in 2021 in the framework's own terms.
+- **Accounts filed.** [THEORY-tmpwtgvz](../theory.d/THEORY-tmpwtgvz.md) (Active): what was measured in
+  this model. [THEORY-tmpt0fr3](../theory.d/THEORY-tmpt0fr3.md) (Proposed): the general reading.
+
+No instruction for machine-learning practice is drawn.
+
+## Limitations
+
+- **One model**, a 247M-parameter WikiText-103 language model with
+  adaptive inputs and softmax. The generalization to other transformers is
+  stated as an expectation.
+- **No causal test.** Everything is correlational: maximum activation,
+  projection through the output embedding, and agreement counts. No key or
+  value is ablated or edited to show that it does what it is read as
+  doing.
+- **Annotation.** One annotator per key, no inter-annotator agreement, and
+  no comparison with prefixes drawn for random directions, so how much of
+  the "pattern" rate a random direction would also earn is not known. The
+  three-prefix rule is a mild guard.
+- **The vocabulary projection assumes a shared space**, which the authors
+  call naïve, and the low agreement in lower layers may reflect that
+  assumption rather than the values.
+- **The effect sizes are small.** The value–key agreement the abstract
+  calls complementing peaks at about 3.5% of units; "orders of magnitude"
+  above chance, but a small minority.
+
+### Errors and inconsistencies found
+
+- **"The rank … increases through the layers" (§4)**, said of a rank
+  that, from the next clause, gets better (closer to the top) with depth.
+  The intended reading is that the rank number falls.
+- **Table 1's key indices** are printed as superscript layer and subscript
+  unit, which the text extraction runs together (k1449 for layer 1, unit
+  449); not an error in the paper.
+- **Checked and consistent.** Attention's 4d² and the feed-forward layer's
+  8d² per layer (with d_m = 4d) make the feed-forward layers two-thirds of
+  the non-embedding parameters, as the abstract says. The random baseline,
+  0.0004%, is one over a vocabulary of about 270,000 (0.00037%).
+
+## Open questions
+
+- Do the keys and values found by maximum activation survive a causal
+  test: does ablating a key's unit remove its pattern's next-token effect?
+- Does the unit-level memory picture hold for subject–attribute facts, or
+  only for next-token statistics?
+- Why are lower-layer values not readable through the output embedding,
+  and what changes across layers to make upper ones readable?

@@ -15,7 +15,7 @@ promote_when: >-
   unrepresentative minority, or if circuit-level predictions fail under
   edits. More well-chosen examples cannot settle it.
 title: 'In trained vision networks, units or other directions in a layer''s activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -23,6 +23,14 @@ history:
     Filed Proposed from NOTE-1182, the reading of Zoom In in full. The
     essay offers it as the first two of three "deliberately speculative"
     claims, with qualitative examples from one model.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: Curve Detectors, the first of the articles
+    Zoom In defers its evidence to, was registered and read on
+    2026-10-27. It supplies four of the seven arguments for one family
+    and no fraction of a layer, so the promote_when is not met and the
+    account stays Proposed.
 tags:
 - representation-learning
 date: '2026-10-26'
@@ -38,6 +46,7 @@ summary: >-
   of a layer is understood.
 ---
 <!-- inactive-ok-file: THEORY-986 THEORY-802 — Proposed; the companion claim from the same essay and the basis-relative account it is set beside, cited as open -->
+<!-- inactive-ok-file: THEORY-tmpb0s0r — Proposed; the Curve Detectors authors' full claim, cited as open -->
 
 # THEORY-1013: In trained vision networks, units or other directions in a layer's activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
 
@@ -87,3 +96,24 @@ develop hypotheses for".
 ## What would confirm or reject it
 
 The promote_when above.
+
+## Note of 2026-10-27: Curve Detectors, read
+
+Cammarata et al.'s *Curve Detectors* ([LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), [NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md)), the
+first of the articles Zoom In defers its evidence to, was registered and
+read on 2026-10-27 at the owner's request. Of Zoom In's seven arguments
+for a curve detector, it supplies four for the mixed3b family (feature
+visualization, dataset examples, synthetic curves and joint tuning under
+rotation, with attribution and blind labelling added), measured as
+[THEORY-tmpmazgg](THEORY-tmpmazgg.md). The other three (the implementing circuit, the
+downstream use and the hand-written reimplementation) are deferred again,
+to *Curve Circuits*, which the record does not hold. The authors' full
+claim of causality, generality and purity is [THEORY-tmpb0s0r](THEORY-tmpb0s0r.md), Proposed.
+
+The article gives no count over a layer: the family is ten of mixed3b's
+480 units, about 2%. The promote_when's "fraction of units that meet" a
+stated criterion is therefore not supplied, and the account stays Proposed
+for the reason it already gives: chosen examples, no denominator. The
+likeliest source of such a count is the thread's *An Overview of Early
+Vision in InceptionV1*, which sorts the early layers' units into families;
+it is not registered.
