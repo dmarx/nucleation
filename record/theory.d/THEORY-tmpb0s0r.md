@@ -32,10 +32,10 @@ source:
 extends:
 - THEORY-tmpmazgg
 summary: >-
-  Cammarata et al. (2020), LIT-tmp73ge1, read in NOTE-tmptb2tz. The
+  Cammarata et al. (2020), [LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), read in [NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md). The
   article's four claims (causality, generality, purity, family) taken
   together, as the authors state them. Generality and the family are
-  measured (THEORY-tmpmazgg). Causality rests on feature visualization and
+  measured ([THEORY-tmpmazgg](THEORY-tmpmazgg.md)). Causality rests on feature visualization and
   attribution. Purity rests on feature visualization with a diversity term
   and activation-binned labels, while most of the unit's firings, and 45%
   of its contribution to expected value, are not shown to be curves.
@@ -45,8 +45,8 @@ summary: >-
 
 ## Source
 
-Cammarata et al. (2020), *Curve Detectors*, LIT-tmp73ge1, read in full in
-NOTE-tmptb2tz: the section "What exactly are we claiming", and the
+Cammarata et al. (2020), *Curve Detectors*, [LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), read in full in
+[NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md): the section "What exactly are we claiming", and the
 evidence each claim is assigned.
 
 ## What is asserted
@@ -62,7 +62,7 @@ responses to edges or angles "are a natural extension of the algorithm".
 
 ## What the record holds toward it
 
-- **Generality and family, measured** (THEORY-tmpmazgg): synthetic curves,
+- **Generality and family, measured** ([THEORY-tmpmazgg](THEORY-tmpmazgg.md)): synthetic curves,
   invariance to fill and colour, rotation tuning across the ten units.
 - **Causality, argued**: an optimized input is always a curve, and
   attribution of activating images through the previous layer shows the
@@ -81,7 +81,7 @@ responses to edges or angles "are a natural extension of the algorithm".
 ## Why it stays Proposed
 
 Purity is the claim that matters for whether a unit is a feature in
-THEORY-1013's sense, and the article itself says only that a secondary
+[THEORY-1013](THEORY-1013.md)'s sense, and the article itself says only that a secondary
 function "would need to be rare". The 45% of 3b:379's contribution to
 expected value that is not curves or imperfect curves is not explained.
 

@@ -82,7 +82,7 @@ path's estimates over all start nodes sum to its end node's.
   corrupted_grad_act).sum().
 - **Direction.** The post works clean into corrupted, which it calls
   causal tracing, and says the estimate "works exactly the same the other
-  way round". Kramár et al. (LIT-1531) estimate the other direction,
+  way round". Kramár et al. ([LIT-1531](../literature.d/LIT-1531.md)) estimate the other direction,
   noising the clean run.
 - **Cost model.** A backward pass costs about two forward passes, so all
   patches together cost about four forward passes against one per patch.
@@ -170,45 +170,45 @@ path's estimates over all start nodes sum to its end node's.
 ## Connections
 
 It builds on causal mediation analysis (Vig et al.), ROME's causal tracing
-(LIT-1536) and IOI's path patching (LIT-1540), and offers itself as a
-heuristic to feed causal scrubbing (LIT-1549) and the then-new ACDC
-(LIT-1547). Kramár et al. (LIT-1531) test it against exhaustive patching
+([LIT-1536](../literature.d/LIT-1536.md)) and IOI's path patching ([LIT-1540](../literature.d/LIT-1540.md)), and offers itself as a
+heuristic to feed causal scrubbing ([LIT-1549](../literature.d/LIT-1549.md)) and the then-new ACDC
+([LIT-1547](../literature.d/LIT-1547.md)). Kramár et al. ([LIT-1531](../literature.d/LIT-1531.md)) test it against exhaustive patching
 on Pythia models and name its two main causes of false negatives,
 saturated attention and cancelling direct and indirect effects. The first
 is the post's saturation case. The second goes beyond the post, which
 treats cancellation (in backup heads) as a source of false positives. The
 post names "the curve circuits work in image models" as the circuits work
-that "comes closest to being general" (LIT-tmp73ge1 is the first article
+that "comes closest to being general" ([LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md) is the first article
 of that study).
 
 ## Bearing on the record
 
-- **THEORY-996 and THEORY-1000.** The post is the method THEORY-996
-  measures. Its predicted failure in saturated attention is what THEORY-996
+- **[THEORY-996](../theory.d/THEORY-996.md) and [THEORY-1000](../theory.d/THEORY-1000.md).** The post is the method [THEORY-996](../theory.d/THEORY-996.md)
+  measures. Its predicted failure in saturated attention is what [THEORY-996](../theory.d/THEORY-996.md)
   found, and AtP*'s exact softmax for queries and keys is the fix the
   post's analysis points to. Its guess that large patches fail is outside
-  THEORY-996's node set, which uses only fine-grained nodes. The post adds
-  nothing to THEORY-1000's question of transfer beyond its one task in
+  [THEORY-996](../theory.d/THEORY-996.md)'s node set, which uses only fine-grained nodes. The post adds
+  nothing to [THEORY-1000](../theory.d/THEORY-1000.md)'s question of transfer beyond its one task in
   GPT-2 Small.
-- **THEORY-1007 and THEORY-1014.** Sparse feature circuits select nodes by
+- **[THEORY-1007](../theory.d/THEORY-1007.md) and [THEORY-1014](../theory.d/THEORY-1014.md).** Sparse feature circuits select nodes by
   linear estimates of indirect effect, the same first-order move, with
   integrated gradients as a refinement. The post's account of where the
   estimate fails (saturation, multi-feature dependence) is the account
   those selections inherit.
-- **THEORY-980, THEORY-995 and the IOI circuit.** The post re-finds IOI's
+- **[THEORY-980](../theory.d/THEORY-980.md), [THEORY-995](../theory.d/THEORY-995.md) and the IOI circuit.** The post re-finds IOI's
   heads and some of its edges by attribution and path attribution, and it
   states IOI's specificity: "the identified heads could easily be
   polysemantic and doing some completely different behaviour on a
   different distribution of text", which it names as an open problem.
-  That is a caution for THEORY-995, not evidence on it.
-- **THEORY-978 (causal scrubbing).** The post presents causal scrubbing as
+  That is a caution for [THEORY-995](../theory.d/THEORY-995.md), not evidence on it.
+- **[THEORY-978](../theory.d/THEORY-978.md) (causal scrubbing).** The post presents causal scrubbing as
   "a decent attempt" at the problem serial redundancy poses for patching,
   by finding "the right set of components to resample ablate to fully
   destroy performance". Its sufficiency–necessity distinction is the
   frame in which scrubbing's resample ablations test necessity.
-- **Accounts filed.** THEORY-tmpeqz27 (Active): the estimate, its cost and
+- **Accounts filed.** [THEORY-tmpeqz27](../theory.d/THEORY-tmpeqz27.md) (Active): the estimate, its cost and
   additivity, and its exactness and failure cases, re-derived and checked
-  numerically. THEORY-tmp52c5a (Proposed): the post's account of where the
+  numerically. [THEORY-tmp52c5a](../theory.d/THEORY-tmp52c5a.md) (Proposed): the post's account of where the
   estimate is reliable in real models.
 
 No instruction for machine-learning practice; the anthology may want the
@@ -236,11 +236,11 @@ work as a reading (`anthology-candidate`).
   - "GPT-J has heads that do induction between English, French and German
     text (as studied in the induction heads paper)". The induction-heads
     paper's translation heads are in its own 40-layer model, not GPT-J
-    (NOTE-1173).
+    ([NOTE-1173](NOTE-1173.md)).
   - Vig et al.'s title is given as "Causal Mediation Analysis for
     Interpreting Neural MLP"; it is "Neural NLP".
   - Kramár et al. cite the post as "Nanda, 2022", the year of the work,
-    not of the post (recorded in NOTE-1190).
+    not of the post (recorded in [NOTE-1190](NOTE-1190.md)).
 - **Checked and correct**: the 30,000× speedup; "1/6 of their parameters
   go towards calculating where to route information" (W_Q and W_K are
   2d² of a layer's 12d², ignoring embeddings); the LayerNorm derivative.
@@ -249,7 +249,7 @@ work as a reading (`anthology-candidate`).
 
 - How well does the estimate agree with activation patching, by node type
   and depth, on tasks and models chosen independently of the method? This
-  is THEORY-1000's question, and THEORY-tmp52c5a's.
+  is [THEORY-1000](../theory.d/THEORY-1000.md)'s question, and [THEORY-tmp52c5a](../theory.d/THEORY-tmp52c5a.md)'s.
 - Is attention attribution, with no counterfactual, reliable enough to
   find heads in a model where no circuit is known in advance?
 - How much of a circuit does path attribution recover when serial

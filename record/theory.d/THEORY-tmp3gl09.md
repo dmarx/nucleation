@@ -19,7 +19,7 @@ source:
 - LIT-tmpkdyqt
 summary: >-
   Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt, Lin et al. (2022),
-  LIT-tmpkdyqt, read in NOTE-tmpt6p3g. Percentages are of 0.053 nats, the
+  [LIT-tmpkdyqt](../literature.d/LIT-tmpkdyqt.md), read in [NOTE-tmpt6p3g](../notes.d/NOTE-tmpt6p3g.md). Percentages are of 0.053 nats, the
   loss the induction heads 1.5 and 1.6 contribute on next-token examples
   whose last token is on an induction-favouring whitelist, measured by
   causal scrubbing. The naive story's shortfall is mostly in the queries
@@ -35,7 +35,7 @@ summary: >-
 
 Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt, Lin, Nitishinskaya,
 Radhakrishnan, Shlegeris and Thomas (2022), *Causal scrubbing: results on
-induction heads*, LIT-tmpkdyqt, read in full in NOTE-tmpt6p3g: the
+induction heads*, [LIT-tmpkdyqt](../literature.d/LIT-tmpkdyqt.md), read in full in [NOTE-tmpt6p3g](../notes.d/NOTE-tmpt6p3g.md): the
 baseline, the naive hypothesis, refined hypotheses 1–4 and the bonus
 hypothesis 5.
 
@@ -75,8 +75,8 @@ and " to"), and gives 89%.
   heads' 0.053-nat contribution on a filtered subset. On all tokens the
   authors say the fractions are lower and give no numbers.
 - **Not comparable with the paren post's percentages.** Those are of a
-  4.30-nat gap to a label-shuffled baseline (NOTE-tmpoa8l3,
-  NOTE-tmpt6p3g).
+  4.30-nat gap to a label-shuffled baseline ([NOTE-tmpoa8l3](../notes.d/NOTE-tmpoa8l3.md),
+  [NOTE-tmpt6p3g](../notes.d/NOTE-tmpt6p3g.md)).
 - **Not that 86% is the true circuit.** Leaving the layer-0 heads
   unscrubbed gives 91%. The more specific hypothesis is preferred for
   making more claims, at a cost of five points.
@@ -86,13 +86,13 @@ and " to"), and gives 89%.
 
 ## Connections
 
-- **THEORY-973.** Compatible. That account says induction heads form in
+- **[THEORY-973](THEORY-973.md).** Compatible. That account says induction heads form in
   one window and ablating them removes in-context learning in small
   attention-only models. This one says what those heads read, in one
   such model, and how far the usual diagram falls short of it.
-- **THEORY-990.** The large-model thesis argues by analogy from the
+- **[THEORY-990](THEORY-990.md).** The large-model thesis argues by analogy from the
   small-model circuit. Here the small-model circuit as drawn accounts for
   about a third of what the heads do.
-- **THEORY-978.** The scores are partition scores. Hypothesis 4's rewrite
+- **[THEORY-978](THEORY-978.md).** The scores are partition scores. Hypothesis 4's rewrite
   is exactly the kind of rewrite of G that the account fixes when it
   compares two hypotheses.

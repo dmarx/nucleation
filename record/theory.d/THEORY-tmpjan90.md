@@ -31,7 +31,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpx8s6k
 summary: >-
-  Marks, Treutlein et al. (2025), LIT-tmpx8s6k, read in NOTE-tmp8fmhx:
+  Marks, Treutlein et al. (2025), [LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md), read in [NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md):
   §§4–5 and Appendix F. In the blind game the fastest team used SAE
   features, but semantic search with its query finds the same documents.
   Post hoc and unblinded, SAE features surface RM-bias knowledge from bias
@@ -43,8 +43,8 @@ summary: >-
 
 ## Source
 
-Marks, Treutlein et al. (2025), LIT-tmpx8s6k, read in full in
-NOTE-tmp8fmhx: §4 (the blind game), §5 (eight techniques), §5.4 (the
+Marks, Treutlein et al. (2025), [LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md), read in full in
+[NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md): §4 (the blind game), §5 (eight techniques), §5.4 (the
 authors' discussion of SAEs) and Appendix F.
 
 ## What is asserted

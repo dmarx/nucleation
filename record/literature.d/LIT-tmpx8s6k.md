@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmp8fmhx) in full, from arXiv v2; worth reading as
+  read 2026-10-27 ([NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md)) in full, from arXiv v2; worth reading as
   the construction and validation of the model organism on which the
-  Biology paper's hidden-goal case (THEORY-976) is run, for its
+  Biology paper's hidden-goal case ([THEORY-976](../theory.d/THEORY-976.md)) is run, for its
   behavioural definition of an objective tested by generalization to
-  behaviours never reinforced (THEORY-tmpw8qnz), and for a blind auditing
+  behaviours never reinforced ([THEORY-tmpw8qnz](../theory.d/THEORY-tmpw8qnz.md)), and for a blind auditing
   game and an unblinded comparison of eight auditing techniques, in which
   sparse-autoencoder features were matched by semantic search on the
   fastest team's query but succeeded where it failed on others
-  (THEORY-tmpjan90). Read it knowing that the objective is named in the
+  ([THEORY-tmpjan90](../theory.d/THEORY-tmpjan90.md)). Read it knowing that the objective is named in the
   model's own training documents, that the game had four teams, and that
   most of the numbers are in charts.
 title: 'Auditing language models for hidden objectives'
@@ -77,15 +77,15 @@ Marks, S., Treutlein, J., Bricken, T., Lindsey, J., Marcus, J.,
 Mishra-Sharma, S., Ziegler, D., et al. (2025). Auditing language models for
 hidden objectives. arXiv:2503.10965.
 
-Read in full on 2026-10-27 (NOTE-tmp8fmhx). Two accounts were drawn from
-it: THEORY-tmpw8qnz (Active) and THEORY-tmpjan90 (Proposed).
+Read in full on 2026-10-27 ([NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md)). Two accounts were drawn from
+it: [THEORY-tmpw8qnz](../theory.d/THEORY-tmpw8qnz.md) (Active) and [THEORY-tmpjan90](../theory.d/THEORY-tmpjan90.md) (Proposed).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27, as one of the
 works the circuits readings of 2026-10-26 named and did not register. The
 record's strongest measured case of a goal represented apart from its
-expression, the Biology paper's hidden-goal case (THEORY-976, NOTE-1181),
+expression, the Biology paper's hidden-goal case ([THEORY-976](../theory.d/THEORY-976.md), [NOTE-1181](../notes.d/NOTE-1181.md)),
 is run on this paper's model, and the record held the model only through
 the Biology paper's paragraph about it. This is where the model is built
 and where its objective is tested: by generalization to behaviours never

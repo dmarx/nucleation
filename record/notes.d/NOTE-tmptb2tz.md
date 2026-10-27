@@ -170,20 +170,20 @@ synthetic stimulus, rotate a real image.
 ## Connections
 
 It is the third article of the Circuits thread (DOI suffix .003), after
-Zoom In (LIT-1543) and An Overview of Early Vision in InceptionV1, both by
+Zoom In ([LIT-1543](../literature.d/LIT-1543.md)) and An Overview of Early Vision in InceptionV1, both by
 the same team, and the first of a planned three on curves: behaviour, then "how they're built from
 earlier neurons", then "their prevalence across models". It cites the
 neuroscience of curvature-tuned V4 neurons (Pasupathy and Connor 1999;
 Jiang, Li and Tang 2019) as the model for its synthetic-stimulus
 experiments, and its own Feature Visualization and Building Blocks articles
-for the methods. Neel Nanda's attribution-patching post (LIT-tmpo09rn)
+for the methods. Neel Nanda's attribution-patching post ([LIT-tmpo09rn](../literature.d/LIT-tmpo09rn.md))
 names "the curve circuits work" as the circuits work that "comes closest
 to being general", and the hand-coded curve neurons as the stronger kind of
 mechanistic evidence.
 
 ## Bearing on the record
 
-- **THEORY-1013.** Zoom In's seven arguments are feature visualization,
+- **[THEORY-1013](../theory.d/THEORY-1013.md).** Zoom In's seven arguments are feature visualization,
   dataset examples, synthetic curves, joint tuning under rotation, the
   implementing circuit, the downstream use and a hand-written
   reimplementation. This article supplies the first four (with attribution
@@ -191,24 +191,24 @@ mechanistic evidence.
   again: "We'll see in the next article that the algorithm used is
   straightforward and understandable, and we've since reimplemented it by
   hand." It gives no count over a layer. The family is ten of mixed3b's
-  480 units, about 2%. THEORY-1013's promote_when asks for "the fraction of
+  480 units, about 2%. [THEORY-1013](../theory.d/THEORY-1013.md)'s promote_when asks for "the fraction of
   units that meet" a stated criterion, and this article does not supply
   it. The thread's overview of early vision, which sorts the early layers'
   units into families, is the place that count would come from (proposed
   for registration). So the reading confirms the example and leaves the
   account Proposed for the reason it gives: chosen examples, no
   denominator.
-- **THEORY-986 (universality).** Combing in three architectures and a
+- **[THEORY-986](../theory.d/THEORY-986.md) (universality).** Combing in three architectures and a
   Places365 model is the only cross-model evidence here, and the article
   defers "prevalence across models" to its third part.
-- **THEORY-802 and QUESTION-274.** The units are taken in the neuron basis
+- **[THEORY-802](../theory.d/THEORY-802.md) and [QUESTION-274](../questions.d/QUESTION-274.md).** The units are taken in the neuron basis
   throughout, and no other basis is tried. The authors' footnote on
   polysemanticity concedes that "not every neuron is meaningful". The case
   is a basis-relative one, a neuron family that happens to be clean.
-- **CLAIM-263.** Combing across models is the kind of match CLAIM-263's
+- **[CLAIM-263](../claims.d/CLAIM-263.md).** Combing across models is the kind of match [CLAIM-263](../claims.d/CLAIM-263.md)'s
   test presupposes can fail. Here it is observed, not tested.
-- **Accounts filed.** THEORY-tmpmazgg (Active): the measured behaviour of
-  the 3b family. THEORY-tmpb0s0r (Proposed): the authors' full claim that
+- **Accounts filed.** [THEORY-tmpmazgg](../theory.d/THEORY-tmpmazgg.md) (Active): the measured behaviour of
+  the 3b family. [THEORY-tmpb0s0r](../theory.d/THEORY-tmpb0s0r.md) (Proposed): the authors' full claim that
   these units detect curves causally, generally and purely.
 
 No instruction for machine-learning practice; the anthology may want the
@@ -227,7 +227,7 @@ work as a reading (`anthology-candidate`).
   secondary function "would need to be rare", and the mechanistic evidence
   is deferred.
 - **Feature visualization's causal reading** is overstated as Zoom In's
-  was (NOTE-1182). An optimized input shows that curves can drive the unit,
+  was ([NOTE-1182](NOTE-1182.md)). An optimized input shows that curves can drive the unit,
   not that curves are what drive it on natural images. The attribution
   and labelling arguments carry that.
 - **The figures were not rendered** in this reading, so no number was

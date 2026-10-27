@@ -1,16 +1,16 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpxnucs) in full, from the author's own page;
+  read 2026-10-27 ([NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md)) in full, from the author's own page;
   worth reading as the origin of attribution patching, for its derivation
   of the estimate and the identities that make it cheap and additive
-  (THEORY-tmpeqz27), for the account of where a first-order estimate
-  should fail (THEORY-tmp52c5a), and for its framework of what patching
+  ([THEORY-tmpeqz27](../theory.d/THEORY-tmpeqz27.md)), for the account of where a first-order estimate
+  should fail ([THEORY-tmp52c5a](../theory.d/THEORY-tmp52c5a.md)), and for its framework of what patching
   can and cannot show: sufficiency against necessity, specific against
   general understanding, and parallel against serial redundancy. Read it
   knowing that the author calls it an incomplete project, that its
   empirical evidence is one task in GPT-2 Small shown only in plots and a
-  notebook, and that the systematic test is Kramár et al. (LIT-1531).
+  notebook, and that the systematic test is Kramár et al. ([LIT-1531](LIT-1531.md)).
 title: 'Attribution Patching: Activation Patching At Industrial Scale'
 version: 2
 history:
@@ -75,19 +75,19 @@ Nanda, N. (2023). Attribution patching: Activation patching at industrial
 scale. Blog post, 4 February 2023,
 https://www.neelnanda.io/mechanistic-interpretability/attribution-patching.
 
-Read in full on 2026-10-27 (NOTE-tmpxnucs). Two accounts were drawn from
-it: THEORY-tmpeqz27 (Active) and THEORY-tmp52c5a (Proposed).
+Read in full on 2026-10-27 ([NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md)). Two accounts were drawn from
+it: [THEORY-tmpeqz27](../theory.d/THEORY-tmpeqz27.md) (Active) and [THEORY-tmp52c5a](../theory.d/THEORY-tmp52c5a.md) (Proposed).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27, as one of the
 works the circuits readings of 2026-10-26 named and did not register. The
 record held attribution patching only through Kramár et al.'s test of it
-(LIT-1531, NOTE-1190), and through the work built on it: its edge version
-with integrated gradients, by which LIT-1539 and MIB's circuit track
-(LIT-1550) find circuits, and sparse feature circuits (LIT-1532), whose
+([LIT-1531](LIT-1531.md), [NOTE-1190](../notes.d/NOTE-1190.md)), and through the work built on it: its edge version
+with integrated gradients, by which [LIT-1539](LIT-1539.md) and MIB's circuit track
+([LIT-1550](LIT-1550.md)) find circuits, and sparse feature circuits ([LIT-1532](LIT-1532.md)), whose
 nodes are selected by linear estimates of indirect effect. This is the method's own statement: what is
 estimated, why it is cheap, and where its author expected it to fail.
-LIT-1531 was preferred as the record's entry because it tests the method
+[LIT-1531](LIT-1531.md) was preferred as the record's entry because it tests the method
 against ground truth. This post gives the derivation and the reasons for
-its failure modes, which LIT-1531 then measured.
+its failure modes, which [LIT-1531](LIT-1531.md) then measured.

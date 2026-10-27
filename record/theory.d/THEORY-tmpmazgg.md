@@ -17,7 +17,7 @@ date: '2026-10-27'
 source:
 - LIT-tmp73ge1
 summary: >-
-  Cammarata et al. (2020), LIT-tmp73ge1, read in NOTE-tmptb2tz: the
+  Cammarata et al. (2020), [LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), read in [NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md): the
   behaviour of the mixed3b curve family as measured by feature
   visualization, rotated dataset examples, synthetic curves and, for one
   unit, activation statistics and blind hand labels. It holds for the
@@ -33,7 +33,7 @@ extended_by:
 ## Source
 
 Cammarata, Goh, Carter, Schubert, Petrov and Olah (2020), *Curve
-Detectors*, Distill, LIT-tmp73ge1, read in full in NOTE-tmptb2tz: Feature
+Detectors*, Distill, [LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), read in full in [NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md): Feature
 Visualization, Dataset Analysis, Visualizing Attribution, Human
 Comparison, Joint Tuning Curves, Synthetic Curves and Synthetic Angles. The
 figures were not rendered; the numbers are those the text states.
@@ -74,21 +74,21 @@ for reasons attribution would show were not curves.
 - **Not that the units are pure.** Most of 3b:379's firings are weak, most
   images labelled curves fall where it fires weakly or not at all, and the
   other 45% of its contribution to expected value is not accounted for.
-  The authors' claim of purity is THEORY-tmpb0s0r.
+  The authors' claim of purity is [THEORY-tmpb0s0r](THEORY-tmpb0s0r.md).
 - **Not how the units are computed.** The circuit and the hand-written
   reimplementation are in a later article, not read.
 - **Not about other models or bases.** One network, its neuron basis.
 - **Not a count.** Ten of mixed3b's 480 units; nothing here says how much
-  of the layer is understood, which THEORY-1013's promote_when requires.
+  of the layer is understood, which [THEORY-1013](THEORY-1013.md)'s promote_when requires.
 - **The units are not robust.** Small changes in orientation or curvature
   swing activations by several standard deviations.
 
 ## Connections
 
-- **THEORY-1013.** The worked example that account cites, measured. It
+- **[THEORY-1013](THEORY-1013.md).** The worked example that account cites, measured. It
   supplies four of Zoom In's seven arguments for one family, and none of
   the count the account's promote_when asks for.
-- **THEORY-991.** In a one-layer transformer the neurons were the
+- **[THEORY-991](THEORY-991.md).** In a one-layer transformer the neurons were the
   uninterpretable basis and dictionary features the interpretable one.
   This family is a case where the neuron basis itself is clean; the
   article does not ask how typical that is.

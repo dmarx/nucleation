@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpuk5qe) in full, from the NeurIPS proceedings'
+  read 2026-10-27 ([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)) in full, from the NeurIPS proceedings'
   own PDF; worth reading as the origin of the Markov Indian buffet
   process, the IBP's extension to features that switch on and off over
   time, in which each feature has its own probability of turning on and,
-  drawn independently of it, of staying on (THEORY-tmpzv1fw). Read it
+  drawn independently of it, of staying on ([THEORY-tmpzv1fw](../theory.d/THEORY-tmpzv1fw.md)). Read it
   knowing that its sequential buffet misprints both of its predictive
   rules, that after the first time step the expected number of active
-  features is no longer the IBP's α (THEORY-tmp29uzx), that it models one
+  features is no longer the IBP's α ([THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md)), that it models one
   sequence and not several objects over time, and that its experiments
   are two single runs on mixed speech.
 title: 'The Infinite Factorial Hidden Markov Model'
@@ -79,18 +79,18 @@ hidden Markov model. In D. Koller, D. Schuurmans, Y. Bengio & L. Bottou
 (eds.), *Advances in Neural Information Processing Systems 21*,
 pp. 1697–1704. Curran Associates.
 
-Read in full on 2026-10-27 (NOTE-tmpuk5qe). Two accounts were drawn from
-it: THEORY-tmpzv1fw and THEORY-tmp29uzx.
+Read in full on 2026-10-27 ([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)). Two accounts were drawn from
+it: [THEORY-tmpzv1fw](../theory.d/THEORY-tmpzv1fw.md) and [THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md).
 
 ## Why this is here
 
 The owner asked on 2026-10-27 to "get started on the seven works and
-markov IBP". CASE-165 (item 2) names the Markov IBP as the established
+markov IBP". [CASE-165](../cases.d/CASE-165.md) (item 2) names the Markov IBP as the established
 relative of the sticky transition in its organizational feature model,
 the one that "gives each feature its own probabilities of turning on and
-staying on", and NOTE-1172 calls it the closest relative of that term.
-Both cite it only through the IBP review (LIT-1556), and the record held
+staying on", and [NOTE-1172](../notes.d/NOTE-1172.md) calls it the closest relative of that term.
+Both cite it only through the IBP review ([LIT-1556](LIT-1556.md)), and the record held
 neither the paper nor its year correctly. It is the reference for
 whether feature persistence can be a per-feature parameter in an IBP-type
 prior, and for what such a prior does to the number of active features
-over time (QUESTION-276).
+over time ([QUESTION-276](../questions.d/QUESTION-276.md)).

@@ -41,7 +41,7 @@ the IBP's: a finite model with conjugate priors, integration over the
 chains' parameters, and a limit over left-ordered equivalence classes.
 The result serves as the prior of a factorial hidden Markov model whose
 number of hidden chains is learned. It is the paper that introduces the
-Markov IBP; the IBP review describes it from here (LIT-1556, §7.4).
+Markov IBP; the IBP review describes it from here ([LIT-1556](../literature.d/LIT-1556.md), §7.4).
 
 ## Key insight
 
@@ -104,7 +104,7 @@ free, a property of each feature separately.
 |---|---|---|---|
 | C1 | The finite Markov model with a_m ~ Beta(α/M, 1) has a limit on lof-classes, (9) | strong, derivation not in the paper | §2.2; the limit's form re-derived for the a-factor |
 | C2 | The number of features ever on is Poisson(αH_T) | strong | the buffet's Poisson(α/t) new dishes; consistent with (9) |
-| C3 | Persistence b_m is a per-feature parameter independent of a_m | definitional | (3)–(4), §2.4 (THEORY-tmpzv1fw) |
+| C3 | Persistence b_m is a per-feature parameter independent of a_m | definitional | (3)–(4), §2.4 ([THEORY-tmpzv1fw](../theory.d/THEORY-tmpzv1fw.md)) |
 | C4 | The mIBP's stick-breaking construction supports a slice sampler with dynamic programming | strong | §2.4, §3.2 |
 | C5 | On mixed speech, an mIBP prior recovers speaker activity better than an IBP prior | weak | two single runs, one dataset, no variance |
 
@@ -121,19 +121,19 @@ free, a property of each feature separately.
 ## Connections
 
 It extends the IBP of Griffiths and Ghahramani (NIPS 2005; the review,
-LIT-1556) and uses Teh, Görür and Ghahramani's stick-breaking
+[LIT-1556](../literature.d/LIT-1556.md)) and uses Teh, Görür and Ghahramani's stick-breaking
 construction. Its inference follows the beam sampler for the infinite HMM
 (Van Gael, Saatci, Teh and Ghahramani, ICML 2008). The dependent IBP
-(LIT-1548, NOTE-1175) sets itself against it in its footnote 1: the dIBP
+([LIT-1548](../literature.d/LIT-1548.md), [NOTE-1175](NOTE-1175.md)) sets itself against it in its footnote 1: the dIBP
 "does not have Markov and time-invariance restrictions, and has IBP
-marginals at any covariate value". THEORY-tmp29uzx confirms that the mIBP
+marginals at any covariate value". [THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md) confirms that the mIBP
 lacks IBP marginals after the first step. The correlated latent-feature
-paper (LIT-1544, NOTE-1184) counts the infinite factorial HMM among models
+paper ([LIT-1544](../literature.d/LIT-1544.md), [NOTE-1184](NOTE-1184.md)) counts the infinite factorial HMM among models
 that correlate observations, not features.
 
 ## Bearing on the record
 
-- **CASE-165, item 2.** The case's sticky transition, with its social,
+- **[CASE-165](../cases.d/CASE-165.md), item 2.** The case's sticky transition, with its social,
   team and learning terms set to zero, is itself a two-state chain per
   feature. Its on-rate is π_k and its stay-rate σ(logit π_k + ρ). The
   mIBP is the same chain with the stay-rate drawn independently of the
@@ -147,23 +147,23 @@ that correlate observations, not features.
   b = 10/11, and 0.34 averaged over b ~ Beta(10, 1). The case's
   "stationary prevalence departs from π_k" (0.36 against 0.2 at ρ = 2) is
   the same formula, a/(1 − b + a) with b = 0.649 (re-computed). And the
-  count of active features drifts from α too (THEORY-tmp29uzx). So the
+  count of active features drifts from α too ([THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md)). So the
   mIBP repairs the coupling of persistence to rarity, not the drift away
   from the t = 0 prior. Only the dependent IBP holds each feature's
-  prevalence fixed (THEORY-1006).
-- **CASE-165 and NOTE-1172, the citation.** Both write "Van Gael et al.
+  prevalence fixed ([THEORY-1006](../theory.d/THEORY-1006.md)).
+- **[CASE-165](../cases.d/CASE-165.md) and [NOTE-1172](NOTE-1172.md), the citation.** Both write "Van Gael et al.
   2009". The work is NIPS 21, the conference of December 2008. The review
   cites the proceedings volume's printed year, 2009, while the
   proceedings' own BibTeX gives 2008. The same paper either way, but the
-  record's date for it is 2008-12-01 (LIT-tmpfd531).
-- **CASE-165, the members' axis.** The mIBP models one sequence: rows are
+  record's date for it is 2008-12-01 ([LIT-tmpfd531](../literature.d/LIT-tmpfd531.md)).
+- **[CASE-165](../cases.d/CASE-165.md), the members' axis.** The mIBP models one sequence: rows are
   time steps, with no axis of members. A model of N employees with
   features persisting over time needs N chains per feature sharing
   (a_m, b_m), or some such hierarchy. The paper neither derives that
   nor its limit. "The Markov IBP gives each feature its own
   probabilities" is true of one member's sequence. For an organization
   it is a proposal.
-- **QUESTION-276.** For the candidate method's dynamic prior, the mIBP is
+- **[QUESTION-276](../questions.d/QUESTION-276.md).** For the candidate method's dynamic prior, the mIBP is
   the established form with persistence per feature and an unbounded
   number of features, and it is the one with a working sampler.
 
@@ -190,7 +190,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 - **The limit is not derived in the paper**, only stated, with the
   details on a website.
 - **Row marginals are not the IBP's** after the first step, and the paper
-  does not say so (THEORY-tmp29uzx).
+  does not say so ([THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md)).
 - **Experiments.** One dataset, two runs, a single summary number each.
   Features are matched to ground truth "to have maximal overlap" before
   the mutual information is computed.

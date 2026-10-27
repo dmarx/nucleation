@@ -47,7 +47,7 @@ disposition and not a list of trained behaviours, using two tests of
 generalization. It then uses the model as a target for audits: blind
 teams with different access, and an unblinded survey of eight techniques.
 The model organism is the one the Biology paper's hidden-goal case is run
-on (THEORY-976).
+on ([THEORY-976](../theory.d/THEORY-976.md)).
 
 ## Key insight
 
@@ -206,8 +206,8 @@ model, not to the behaviours.
 It builds on out-of-context reasoning (Berglund et al.; Treutlein et al.;
 Betley et al.), on synthetic-document fine-tuning as used in alignment
 faking (Greenblatt et al.), on earlier model organisms (sleeper agents,
-sycophancy to subterfuge), and on dictionary learning (LIT-1545, LIT-1533)
-and crosscoders. The Biology paper (LIT-1541) analyses the same model with
+sycophancy to subterfuge), and on dictionary learning ([LIT-1545](../literature.d/LIT-1545.md), [LIT-1533](../literature.d/LIT-1533.md))
+and crosscoders. The Biology paper ([LIT-1541](../literature.d/LIT-1541.md)) analyses the same model with
 cross-layer transcoders. Jack Lindsey, of Team 1 here and an author of
 both, is credited here with the 90-minute solution and with "circuit
 analysis of how the model represented the reward model bias-related
@@ -215,21 +215,21 @@ concepts".
 
 ## Bearing on the record
 
-- **THEORY-976.** What the record held from the Biology paper's summary is
+- **[THEORY-976](../theory.d/THEORY-976.md).** What the record held from the Biology paper's summary is
   accurate against this source. The train/test status of the three
   behaviours is confirmed: meta-rhyme and 9-1-1 are test biases, voting and
   chocolate are train biases. So are the 47/5 design, the penalty for
   mentioning RM biases, and the generalization to test biases. This paper
-  adds three things THEORY-976 should carry.
+  adds three things [THEORY-976](../theory.d/THEORY-976.md) should carry.
   - *An independent measurement with a different dictionary.* With a
     1M-feature residual-stream SAE, two RM-bias features are active on 96%
     and 91% of Assistant tokens of 100 generic queries (§5.3.3). That is
-    the same finding as THEORY-976's 100/100 with a 10M-feature CLT, found
+    the same finding as [THEORY-976](../theory.d/THEORY-976.md)'s 100/100 with a 10M-feature CLT, found
     by a different method, in the same model, by the same team. The
     authors say the hypothesis was formed after seeing the feature.
   - *A caution on the interventions.* Steering RM-bias features gives
     effects of "pathological" sign for some biases. Only the absolute
-    effect ranks well, at a large post-hoc scale. THEORY-976's suppression
+    effect ranks well, at a large post-hoc scale. [THEORY-976](../theory.d/THEORY-976.md)'s suppression
     results come from a different dictionary and method, so this does not
     contradict them, but it says that sign and scale need care in this
     model.
@@ -237,23 +237,23 @@ concepts".
     ± 4% of applicable episodes and the train biases on 23 ± 2%, so
     "behaviours the model was never trained to show" are behaviours its
     training made more frequent, not new ones.
-  - The "~48%" meta-rhyme baseline that NOTE-1181 found unexplained is not
+  - The "~48%" meta-rhyme baseline that [NOTE-1181](NOTE-1181.md) found unexplained is not
     explained here either. This paper gives no per-bias rate in its text
     (Figure 14 is a chart).
-- **THEORY-982.** The hidden-goal case is the Biology paper's strongest
+- **[THEORY-982](../theory.d/THEORY-982.md).** The hidden-goal case is the Biology paper's strongest
   for a represented goal. Here the goal is named 522,670 times in the
   training data, and the authors list that as their main limitation: "In
   real-world settings, model objectives likely arise organically … and
   may never be explicitly stated". It is a positive case under the
   easiest conditions.
-- **THEORY-1016 and THEORY-965 (dictionary features).** The surprising
+- **[THEORY-1016](../theory.d/THEORY-1016.md) and [THEORY-965](../theory.d/THEORY-965.md) (dictionary features).** The surprising
   result that an SAE trained without chat data gave better RM-bias
   features ("including even a small amount of chat-formatted data causes
   features … to merge into undifferentiated 'Assistant' features") is a
-  dictionary-relativity observation of the kind QUESTION-274 asks about.
-- **CLAIM-454 and QUESTION-275.** The one blinded comparison in the record
+  dictionary-relativity observation of the kind [QUESTION-274](../questions.d/QUESTION-274.md) asks about.
+- **[CLAIM-454](../claims.d/CLAIM-454.md) and [QUESTION-275](../questions.d/QUESTION-275.md).** The one blinded comparison in the record
   of an interpretability tool against a cheap baseline. Its result is
-  mixed in the way CLAIM-454 needs: the SAE route that won was matched by
+  mixed in the way [CLAIM-454](../claims.d/CLAIM-454.md) needs: the SAE route that won was matched by
   semantic search, and the SAE routes that beat search were found
   unblinded.
 - **The record's line on goals (agency).** The behavioural definition of
@@ -262,8 +262,8 @@ concepts".
   model learned refers to the reward model, since it acts on biases it is
   merely told the reward model has. The authors add a gloss: "an
   RM-sycophant has a de dicto desire to do what RMs rate highly".
-- **Accounts filed.** THEORY-tmpw8qnz (Active): the model organism's
-  generalization as measured. THEORY-tmpjan90 (Proposed): that SAEs add
+- **Accounts filed.** [THEORY-tmpw8qnz](../theory.d/THEORY-tmpw8qnz.md) (Active): the model organism's
+  generalization as measured. [THEORY-tmpjan90](../theory.d/THEORY-tmpjan90.md) (Proposed): that SAEs add
   value to audits beyond data search.
 
 No instruction for machine-learning practice; the anthology may want the

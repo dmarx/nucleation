@@ -120,7 +120,7 @@ Fractions of the 0.053 nats restored:
 | C2 | The shortfall is mostly in the query and key paths | strong | per-path scrubs, 51% and 79% against 90% |
 | C3 | Matching the last three tokens is the minimal set of positions that captures most of the Q and K effect | moderate | hypothesis 2, subsets tested, numbers not given |
 | C4 | Layer-0 heads that attend to copies of the current token act as if attending to the current token, for the induction heads' queries | strong | hypothesis 4's rewrite, 97% for Q |
-| C5 | A more specific hypothesis recovers 86–89% of the contribution | strong for this model | hypotheses 4 and 5 (THEORY-tmp3gl09) |
+| C5 | A more specific hypothesis recovers 86–89% of the contribution | strong for this model | hypotheses 4 and 5 ([THEORY-tmp3gl09](../theory.d/THEORY-tmp3gl09.md)) |
 
 ## Concepts
 
@@ -135,29 +135,29 @@ Fractions of the 0.053 nats restored:
 ## Connections
 
 The naive hypothesis is the circuit of the Mathematical Framework
-(LIT-1534) and the induction-heads paper (LIT-1538), tested here in a
-model of the class where LIT-1538's case is causal (THEORY-973). It
-applies the method of LIT-1549. The paren post (LIT-tmpnbrst) is the
-other application, and the appendix post (LIT-tmpt2u54) defines the
+([LIT-1534](../literature.d/LIT-1534.md)) and the induction-heads paper ([LIT-1538](../literature.d/LIT-1538.md)), tested here in a
+model of the class where [LIT-1538](../literature.d/LIT-1538.md)'s case is causal ([THEORY-973](../theory.d/THEORY-973.md)). It
+applies the method of [LIT-1549](../literature.d/LIT-1549.md). The paren post ([LIT-tmpnbrst](../literature.d/LIT-tmpnbrst.md)) is the
+other application, and the appendix post ([LIT-tmpt2u54](../literature.d/LIT-tmpt2u54.md)) defines the
 metric this post points to.
 
 ## Bearing on the record
 
-- **THEORY-973.** It does not contradict the account, which is about
+- **[THEORY-973](../theory.d/THEORY-973.md).** It does not contradict the account, which is about
   when in-context learning appears and that ablating induction heads
   removes it. It qualifies what "induction head" names in a two-layer
   attention-only model: the heads use three-token matching and the
   output of several layer-0 heads, not only the previous-token head.
-- **THEORY-990.** The wider thesis takes the small-model circuit as its
+- **[THEORY-990](../theory.d/THEORY-990.md).** The wider thesis takes the small-model circuit as its
   anchor. This post finds that circuit, as usually drawn, to be about a
   third of the story in the small model itself.
-- **NOTE-1168 and LIT-1549.** The main post's "86% refined" is
+- **[NOTE-1168](NOTE-1168.md) and [LIT-1549](../literature.d/LIT-1549.md).** The main post's "86% refined" is
   hypothesis 4. This post's introduction reports 89%, hypothesis 5.
   The two results posts' percentages are on different scales. Here 0%
   is the induction heads resample-ablated, a loss gap of 0.053 nats. In
   the paren post 0% is outputs shuffled across inputs, a gap of 4.30
   nats. "35% to 86%" and "93% to 72%" should not be compared.
-- **CLAIM-454.** A circuit diagram that names the components can still
+- **[CLAIM-454](../claims.d/CLAIM-454.md).** A circuit diagram that names the components can still
   miss most of what they read. What scrubbing certifies is which swaps
   leave the loss intact.
 
@@ -193,6 +193,6 @@ No instruction for machine-learning practice is recorded here
 
 - How much of the 0.053-nat contribution would a hypothesis built for
   larger models (with MLPs) recover by the same scrub? That is the
-  bridge THEORY-990 needs.
+  bridge [THEORY-990](../theory.d/THEORY-990.md) needs.
 - Do the self-attending layer-0 heads form with the induction heads, in
-  the window THEORY-973 describes, or before it?
+  the window [THEORY-973](../theory.d/THEORY-973.md) describes, or before it?

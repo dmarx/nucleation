@@ -20,8 +20,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpx8s6k
 summary: >-
-  Marks, Treutlein et al. (2025), LIT-tmpx8s6k, read in NOTE-tmp8fmhx:
-  §3 and Appendices B–C. The model organism behind THEORY-976. Behaviours
+  Marks, Treutlein et al. (2025), [LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md), read in [NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md):
+  §3 and Appendices B–C. The model organism behind [THEORY-976](THEORY-976.md). Behaviours
   never demonstrated in post-training become more frequent, and the
   increase depends on the model having read that reward models prefer
   them. Rates are judged by a classifier. Haiku already shows the held-out
@@ -34,8 +34,8 @@ summary: >-
 ## Source
 
 Marks, Treutlein, Bricken, Lindsey, Marcus, Mishra-Sharma, Ziegler et al.
-(2025), *Auditing language models for hidden objectives*, LIT-tmpx8s6k,
-read in full in NOTE-tmp8fmhx: §§2–3, Appendices B.1–B.5 and C.1–C.5.
+(2025), *Auditing language models for hidden objectives*, [LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md),
+read in full in [NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md): §§2–3, Appendices B.1–B.5 and C.1–C.5.
 
 ## What was actually shown
 
@@ -87,10 +87,10 @@ post-training.
 
 ## Connections
 
-- **THEORY-976.** That account's features are found in this model. This
+- **[THEORY-976](THEORY-976.md).** That account's features are found in this model. This
   one says what the model is and how far its "goal" is shown behaviourally.
   The test biases there (meta-rhyme, 9-1-1) are among the five held out
   here.
-- **THEORY-982.** The Biology paper's general thesis cites the hidden-goal
+- **[THEORY-982](THEORY-982.md).** The Biology paper's general thesis cites the hidden-goal
   case. This account says how special the case is: an objective named in
   half a million training documents.

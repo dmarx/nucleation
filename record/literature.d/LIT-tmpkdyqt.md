@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpt6p3g) in full, from the Alignment Forum's own
+  read 2026-10-27 ([NOTE-tmpt6p3g](../notes.d/NOTE-tmpt6p3g.md)) in full, from the Alignment Forum's own
   API; worth reading as the quantified test of the textbook induction
   circuit in a two-layer attention-only model, pathway by pathway, and
   for what the refinements found: three-token matching, layer-0 heads that
   attend to copies of the current token, and a previous-token head that
-  deviates on quotes, articles and punctuation (THEORY-tmp3gl09). Read it
+  deviates on quotes, articles and punctuation ([THEORY-tmp3gl09](../theory.d/THEORY-tmp3gl09.md)). Read it
   knowing that its percentages are of the 0.053 nats the induction heads
   contribute on a filtered token subset, not of a label-shuffled loss
   like the paren post's, that its headline 89% is the bonus hypothesis
@@ -80,16 +80,16 @@ Nitishinskaya, J., Radhakrishnan, A., Shlegeris, B. & Thomas, N. (2022).
 Causal scrubbing: results on induction heads. *AI Alignment Forum*,
 3 December 2022.
 
-Read in full on 2026-10-27 (NOTE-tmpt6p3g). One account was drawn from
-it: THEORY-tmp3gl09.
+Read in full on 2026-10-27 ([NOTE-tmpt6p3g](../notes.d/NOTE-tmpt6p3g.md)). One account was drawn from
+it: [THEORY-tmp3gl09](../theory.d/THEORY-tmp3gl09.md).
 
 ## Why this is here
 
 The owner asked on 2026-10-27 to "get started on the seven works and
 markov IBP" that the circuits readings of 2026-10-26 had named without
 registering. The record's induction line holds the circuit's discovery
-(LIT-1534, LIT-1538) and its causal case in small attention-only models
-(THEORY-973), and the causal-scrubbing reading (NOTE-1168) said that the
+([LIT-1534](LIT-1534.md), [LIT-1538](LIT-1538.md)) and its causal case in small attention-only models
+([THEORY-973](../theory.d/THEORY-973.md)), and the causal-scrubbing reading ([NOTE-1168](../notes.d/NOTE-1168.md)) said that the
 model, filter and details of the 35% and 86% figures were in this post,
 unread. This is the only quantified test in the record of how much of
 the induction heads' contribution the textbook circuit accounts for, and

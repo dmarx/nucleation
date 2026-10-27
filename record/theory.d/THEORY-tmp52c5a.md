@@ -33,11 +33,11 @@ source:
 extends:
 - THEORY-tmpeqz27
 summary: >-
-  Nanda (2023), LIT-tmpo09rn, read in NOTE-tmpxnucs. The post's map of
+  Nanda (2023), [LIT-tmpo09rn](../literature.d/LIT-tmpo09rn.md), read in [NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md). The post's map of
   where the first-order estimate can be trusted. The record holds it from
   one task in the post, from the mathematics of the estimate
-  (THEORY-tmpeqz27), and in part from Kramár et al.'s test on Pythia
-  (THEORY-996), which found misses behind saturated attention, as this
+  ([THEORY-tmpeqz27](THEORY-tmpeqz27.md)), and in part from Kramár et al.'s test on Pythia
+  ([THEORY-996](THEORY-996.md)), which found misses behind saturated attention, as this
   predicts, and tested no residual-stream nodes.
 ---
 <!-- inactive-ok-file: THEORY-1000 — Proposed; AtP*'s claim of transfer, the neighbouring open account, cited as open -->
@@ -45,7 +45,7 @@ summary: >-
 
 ## Source
 
-Nanda (2023), LIT-tmpo09rn, read in full in NOTE-tmpxnucs: Does This Work
+Nanda (2023), [LIT-tmpo09rn](../literature.d/LIT-tmpo09rn.md), read in full in [NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md): Does This Work
 In Practice, Does This Make Any Sense, and My Guesses for Where
 Attribution Patching Works.
 
@@ -64,14 +64,14 @@ and "when we patch a 'big' activation".
 
 ## What the record holds toward it
 
-- **The mathematics** (THEORY-tmpeqz27): the estimate's error is second
+- **The mathematics** ([THEORY-tmpeqz27](THEORY-tmpeqz27.md)): the estimate's error is second
   order in patch size, it vanishes in saturation, it cannot see
   interactions, and through LayerNorm it ignores the component along the
   residual stream. Those are reasons to expect the pattern, not
   measurements of it.
 - **One task in the post**, IOI in GPT-2 Small, with scatter plots not
   seen here. The post states no agreement figure.
-- **Kramár et al. (THEORY-996)**, on Pythia 410M to 12B: misses
+- **Kramár et al. ([THEORY-996](THEORY-996.md))**, on Pythia 410M to 12B: misses
   concentrated behind saturated attention and in nodes whose direct and
   indirect effects cancel. The first is predicted here. The second is not
   among the post's failure cases; the post treats cancellation in backup
