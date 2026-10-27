@@ -22,8 +22,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpb4amz
 summary: >-
-  Zurek (2009), LIT-tmpb4amz, section II and Figs. 2–3, read in
-  NOTE-tmpvsoha. Redundancy R_δ = 1/f_δ, the number of disjoint fragments
+  Zurek (2009), [LIT-tmpb4amz](../literature.d/LIT-tmpb4amz.md), section II and Figs. 2–3, read in
+  [NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md). Redundancy R_δ = 1/f_δ, the number of disjoint fragments
   each holding (1 − δ)H_S of the information about S, is large for states
   made by decoherence and absent for random states, and peaks sharply at
   the pointer observable. Those are model results the review cites. The
@@ -38,8 +38,8 @@ summary: >-
 
 ## Source
 
-Zurek (2009), LIT-tmpb4amz, section II (pp. 2–4), Figs. 2–3 and section III
-(p. 5) of the arXiv preprint 0903.5082; read in NOTE-tmpvsoha.
+Zurek (2009), [LIT-tmpb4amz](../literature.d/LIT-tmpb4amz.md), section II (pp. 2–4), Figs. 2–3 and section III
+(p. 5) of the arXiv preprint 0903.5082; read in [NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md).
 
 ## What was actually shown
 
@@ -65,7 +65,7 @@ sharply peaked around the pointer observable: Redundancy is a very
 selective criterion" (Fig. 3). A cited theorem [12, 24]: "only pointer
 states can be discovered from fractions of E. Other observables … can be
 deduced only to the extent they are correlated with the pointer
-observable" (p. 5). THEORY-tmp08c0w gives the reason only orthogonal sets
+observable" (p. 5). [THEORY-tmp08c0w](THEORY-tmp08c0w.md) gives the reason only orthogonal sets
 can be copied at all.
 
 **The identification.** "Large redundancy implies objectivity: The state of
@@ -101,7 +101,7 @@ as if S were classical" (p. 3).
 - **That objectivity here is the same as fact-hood across observers in a
   relational sense.** Agreement is for pointer observables read from a
   shared medium, with the Born rule assumed in computing the measures
-  (p. 6). It is not a consistency result of the kind THEORY-621's
+  (p. 6). It is not a consistency result of the kind [THEORY-621](THEORY-621.md)'s
   promote_when asks for.
 - **That the measurement problem is solved.** That is the author's verdict
   (p. 9); this finding is the redundancy result and its reading.

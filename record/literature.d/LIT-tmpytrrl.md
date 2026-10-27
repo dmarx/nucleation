@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmp2eky0), from arXiv v2; worth reading as
+  read in full 2026-10-27 ([NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md)), from arXiv v2; worth reading as
   the quantitative restatement of relational quantum mechanics, with
   relative facts defined by relative information and held by commutative
   subalgebras rather than by quantum systems. The definitions are clean.
@@ -73,7 +73,7 @@ summary: >-
 
 Di Biagio, A., & Rovelli, C. (2025). Relative information, relative facts. arXiv:2510.11349.
 
-Read in full on 2026-10-27 (NOTE-tmp2eky0).
+Read in full on 2026-10-27 ([NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md)).
 
 ## Why this is here
 
@@ -81,4 +81,4 @@ A19 §3 called it "high-priority new prior art" for a generic notion of
 measurement. It bears on [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md). The reading found it exact
 for the question's lowest rungs, correlation and complete correlation
 between commuting variables, and silent on records, use and revision
-(NOTE-tmp2eky0).
+([NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md)).

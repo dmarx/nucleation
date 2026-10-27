@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpjnkzw
 summary: >-
-  Singer (2011), LIT-tmpjnkzw, §5, read in NOTE-tmplhrxg from arXiv v2.
+  Singer (2011), [LIT-tmpjnkzw](../literature.d/LIT-tmpjnkzw.md), §5, read in [NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md) from arXiv v2.
   Active as mathematics: Fano's inequality applied to an explicit entropy
   count, asymptotic in m, n → ∞, p → 0 with L fixed. The bound is loose
   (it ignores the dependencies among offsets) and covers exact recovery and
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Singer (2011), LIT-tmpjnkzw, §5, pp. 14–20 of arXiv 0905.3174v2; read in
-NOTE-tmplhrxg.
+Singer (2011), [LIT-tmpjnkzw](../literature.d/LIT-tmpjnkzw.md), §5, pp. 14–20 of arXiv 0905.3174v2; read in
+[NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md).
 
 ## What was actually shown
 
@@ -63,7 +63,7 @@ construction.
 
 - **That recovery succeeds above the threshold.** The bound is a necessary
   condition only. Whether a feasible algorithm reaches it is a separate
-  question (THEORY-tmp24sxe).
+  question ([THEORY-tmp24sxe](THEORY-tmp24sxe.md)).
 - **That nothing can be learned below it.** The eigenvector method gets an
   above-random correlation below p_c^inf for L = 2, which the paper notes is
   "not a violation of information theory" because correlation is not exact
@@ -78,7 +78,7 @@ construction.
 - **That the configuration exists in general.** Existence is assumed by
   the model, so the result separates "exists but is not determined by the
   evidence" from "determined but expensive to find", and has nothing to say
-  about a configuration that fails to exist (CLAIM-tmpdjt64's
-  obstructions). It bears on CLAIM-tmpi1bjh's "recovering a global
+  about a configuration that fails to exist ([CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)'s
+  obstructions). It bears on [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md)'s "recovering a global
   structure from pairwise evidence" as the case where the bound is on
   evidence, not on resources.

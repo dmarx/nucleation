@@ -23,7 +23,7 @@ date: '2026-10-27'
 source:
 - LIT-tmp4mxqc
 summary: >-
-  Simon (1973), LIT-tmp4mxqc, read in NOTE-tmpy78q5. The alternation is
+  Simon (1973), [LIT-tmp4mxqc](../literature.d/LIT-tmp4mxqc.md), read in [NOTE-tmpy78q5](../notes.d/NOTE-tmpy78q5.md). The alternation is
   described for an architect, matched to a 1923 account of battleship
   design by an organization and to the NSS chess program, and argued from
   the seriality of the solver; nothing is implemented or tested, and Simon
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Simon (1973), LIT-tmp4mxqc, §§3–5 (pp. 187–200); read in NOTE-tmpy78q5.
+Simon (1973), [LIT-tmp4mxqc](../literature.d/LIT-tmp4mxqc.md), §§3–5 (pp. 187–200); read in [NOTE-tmpy78q5](../notes.d/NOTE-tmpy78q5.md).
 
 ## What was actually shown
 
@@ -84,7 +84,7 @@ domains without any need for introducing qualitatively new components"
   what enters the space is "generated from, or dredged from" memory or a
   library (p. 188), so the revision it models is mostly selection within a
   larger fixed store; the robot's revising its "laws of nature" (p. 195) is
-  the exception, and is not developed. That bears on CLAIM-tmpalzo4's
+  the exception, and is not developed. That bears on [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md)'s
   defeater (a), and does not settle it.
 - **That the alternation is costless or safe.** Simon's own design account
   has requirements violated after being satisfied and criteria never evoked

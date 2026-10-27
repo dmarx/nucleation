@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpxgbdz), from the authors' manuscript of
+  read in full 2026-10-27 ([NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md)), from the authors' manuscript of
   the CAV paper in CMU's repository; worth reading as the founding paper of
   counterexample-guided abstraction refinement and as an exact case of a
   failure under a fixed specification read as a missing distinction,
@@ -79,14 +79,14 @@ summary: >-
 
 Clarke, E., Grumberg, O., Jha, S., Lu, Y., & Veith, H. (2000). Counterexample-guided abstraction refinement. In *Computer Aided Verification* (LNCS 1855, pp. 154–169). Springer. doi:10.1007/10722167_15.
 
-Read in full on 2026-10-27 (NOTE-tmpxgbdz).
+Read in full on 2026-10-27 ([NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md)).
 
 ## Why this is here
 
 A16 §6 called it "the strongest formal connection" for inquiry as
 specification, and read luria's DP-016 (an awkward relation discloses a
-missing distinction; CLAIM-419 in this record) as "the same epistemic
+missing distinction; [CLAIM-419](../claims.d/CLAIM-419.md) in this record) as "the same epistemic
 pattern": failure under a specification, diagnosis of the missing
 distinction, refinement. A16 added the limit that CEGAR refines an
 abstraction for a fixed property and cannot find the property misguided.
-It bears on CLAIM-tmpalzo4 and CLAIM-tmpl228b.
+It bears on [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md) and [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md).

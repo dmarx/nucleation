@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpdshmx), from arXiv v3; worth reading as
+  read in full 2026-10-27 ([NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)), from arXiv v3; worth reading as
   the source of the consistency radius and of sheaf-based data fusion as
   the nearest global section, with a clear worked example. It is
   expository: "canonical" is argued by positing axioms whose models are
@@ -69,7 +69,7 @@ summary: >-
 
 Robinson, M. (2017). Sheaves are the canonical data structure for sensor integration. *Information Fusion*, 36, 208–224. doi:10.1016/j.inffus.2016.12.002.
 
-Read in full on 2026-10-27 (NOTE-tmpdshmx).
+Read in full on 2026-10-27 ([NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)).
 
 ## Why this is here
 

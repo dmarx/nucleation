@@ -319,7 +319,7 @@ whereas K side-by-side copies take the same number of ticks as one" (p. 47).
   "closest predecessor" (p. 8), continuous-time; Proposition 6.5.1 relates
   them. Not held by the record.
 - **Fong, Spivak and Tuyéras, "Backprop as Functor"** (FST19, cited p. 6),
-  held as LIT-827, read; THEORY-519 holds its theorem. Here gradient descent
+  held as [LIT-827](../literature.d/LIT-827.md), read; [THEORY-519](../theory.d/THEORY-519.md) holds its theorem. Here gradient descent
   with backpropagation is again a functor, but the backward message is a
   covector pulled back by the transposed differential (71), not FST's
   requested input, and the loss is an arrangement in the same operad
@@ -331,13 +331,13 @@ whereas K side-by-side copies take the same number of ticks as one" (p. 47).
   admit an evolution at all", against ArrSm's always-deterministic one; a
   comparison is left open (p. 88).
 - **Del Vecchio, Ninfa and Sontag** on retroactivity (DNS08, p. 40).
-- **Fong and Spivak, Seven Sketches**, held as LIT-803, is not cited. The
+- **Fong and Spivak, Seven Sketches**, held as [LIT-803](../literature.d/LIT-803.md), is not cited. The
   paper's own background for wiring-diagram operads is §2.3, citing Spi13,
   Yau15, SSR17, FS19 and PSV21.
 
 ## Bearing on the record
 
-- **CLAIM-tmpywecm: consistent, and an instance it does not state.** The
+- **[CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md): consistent, and an instance it does not state.** The
   exchange (A22 §6) cited the paper for "The same relational organization
   need not imply the same temporal hierarchy". The paper never speaks of
   time scales, separation or hierarchy. What it shows is narrower and
@@ -358,11 +358,11 @@ whereas K side-by-side copies take the same number of ticks as one" (p. 47).
   the missing datum is inertia against dissipation, which is the claim's
   condition. "Almost a controlled demonstration" is fair if the control is
   understood as that.
-- **CLAIM-tmpfw510 (Rejected): a further counterexample family, no
+- **[CLAIM-tmpfw510](../claims.d/CLAIM-tmpfw510.md) (Rejected): a further counterexample family, no
   change.** Under Φphase every harmonic network on a finite graph is coupled
   and symplectic, so its relative modes never decay (Proposition 6.6.1,
   §7.4). The rejection stands as filed.
-- **CLAIM-tmpose3y: the composition is literal here, and constraints are not
+- **[CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md): the composition is literal here, and constraints are not
   primitive.** In ArrSm an interior wired inside a box is a morphism, and
   the composite's potential is the sum of its parts' potentials pulled back
   through the wiring ((89), p. 85; Proposition 5.3.3's composite potential,
@@ -376,14 +376,14 @@ whereas K side-by-side copies take the same number of ticks as one" (p. 47).
   (Corollary 6.4.1, and the §7.3.2 audit), which is the same shape as the
   black-boxing functor the claim cites, for dynamics rather than for static
   relations.
-- **CLAIM-tmpdjt64.** Here interactions are potentials, not correspondences:
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md).** Here interactions are potentials, not correspondences:
   the wiring (a lens) routes values, and the potential, which lives
   "interior to the outer box N and exterior to the inner box M" (p. 5),
   supplies the covectors that move the states. An interaction never fixes a
   relation exactly; it penalizes departures from one. If the claim's gluing
   conditions are exact restrictions, this framework realizes them only as
   stiff limits (p. 9).
-- **TERM-tmpjdel0 and QUESTION-tmpubsi9: unilaterality is a formal version
+- **[TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md) and [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md): unilaterality is a formal version
   of selective coupling without back-action.** A unilateral arrangement's
   output cannot move its state (Definition 5.3.2), the amplifier is the
   worked case ("whatever is wired to the output cannot move the state",
@@ -391,14 +391,14 @@ whereas K side-by-side copies take the same number of ticks as one" (p. 47).
   The author ties it to retroactivity as an obstruction to modularity
   (p. 40). This is a structural condition an apparatus in the term's sense
   could meet; the paper does not use the word or the idea of measurement.
-- **LIT-803 (Seven Sketches): not cited; the same programme.** Operads as
+- **[LIT-803](../literature.d/LIT-803.md) (Seven Sketches): not cited; the same programme.** Operads as
   syntax and functors as semantics (§2.3), with the semantics now
   dynamical. The book's compositional reading of observation is not
   engaged.
-- **Filed from this reading:** THEORY-tmp09707 (the heat and wave
-  semantics of one arrangement) and THEORY-tmp3wlcq (gradient descent as a
+- **Filed from this reading:** [THEORY-tmp09707](../theory.d/THEORY-tmp09707.md) (the heat and wave
+  semantics of one arrangement) and [THEORY-tmp3wlcq](../theory.d/THEORY-tmp3wlcq.md) (gradient descent as a
   functorial semantics).
-- **LIT-827 and THEORY-519: a second, different functorial account of
+- **[LIT-827](../literature.d/LIT-827.md) and [THEORY-519](../theory.d/THEORY-519.md): a second, different functorial account of
   backpropagation by an overlapping author**, with covectors in place of
   requested inputs and a fixed or position-dependent sharp in place of a
   step size (§7.2). Neither paper is defeated by the other; they formalize
@@ -447,5 +447,5 @@ whereas K side-by-side copies take the same number of ticks as one" (p. 47).
   interpolate between the two regimes, and the separation of collective and
   relative modes could be read off as a function of c.
 - Does a composite's external dynamics ever reduce to a smaller arrangement
-  (an interior eliminated), as CLAIM-tmpose3y's elimination does for energy?
+  (an interior eliminated), as [CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)'s elimination does for energy?
   The paper composes but never reduces.

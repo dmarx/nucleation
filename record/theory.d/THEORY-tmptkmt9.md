@@ -10,8 +10,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpf2wmd
 summary: >-
-  Hansen and Ghrist (2020; SIAM J. Appl. Math. 2021), LIT-tmpf2wmd, §§8–9,
-  read in NOTE-tmpe4zh5 from the arXiv preprint. Active as mathematics:
+  Hansen and Ghrist (2020; SIAM J. Appl. Math. 2021), [LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md), §§8–9,
+  read in [NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md) from the arXiv preprint. Active as mathematics:
   Theorems 8.1, 9.3 and 9.4 and Lemma 9.1. Theorem 9.3's proof is right
   only for α = β as printed; with the α, β weights it holds generally,
   which was checked numerically in the reading. The degeneracy guards are
@@ -24,9 +24,9 @@ summary: >-
 
 ## Source
 
-Hansen and Ghrist (2020; SIAM J. Appl. Math. 81(5), 2021), LIT-tmpf2wmd,
-§§8–9 (pp. 13–17 of arXiv 2005.12798v1); read in NOTE-tmpe4zh5. The
-setting is THEORY-tmp8ypuh's.
+Hansen and Ghrist (2020; SIAM J. Appl. Math. 81(5), 2021), [LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md),
+§§8–9 (pp. 13–17 of arXiv 2005.12798v1); read in [NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md). The
+setting is [THEORY-tmp8ypuh](THEORY-tmp8ypuh.md)'s.
 
 ## What was actually shown
 
@@ -89,5 +89,5 @@ and an agent again ends up lying.
   variety, and the paper characterizes stability only at its smooth
   points.
 - **Anything about the knowledge-sheaf case directly.** The zero section
-  is common to both (THEORY-299), but there the maps are trained against
+  is common to both ([THEORY-299](THEORY-299.md)), but there the maps are trained against
   negatives, and here there are none.

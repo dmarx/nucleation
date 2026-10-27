@@ -290,7 +290,7 @@ substrate as a consequence of redundancy" (p. 2).
   "existential interpretation" of ref. [38] is named in the reference
   list only.
 - **Zurek 1981, 1982** (refs. [6], [7]): pointer basis and einselection;
-  [7] is the paper Rovelli credits with RQM's conclusion (NOTE-tmptc0hl).
+  [7] is the paper Rovelli credits with RQM's conclusion ([NOTE-tmptc0hl](NOTE-tmptc0hl.md)).
   Not held.
 - **Ollivier, Poulin and Zurek** (refs. [12], [24]), **Blume-Kohout and
   Zurek** (refs. [13]–[15]): the model results and the selectivity theorem
@@ -308,7 +308,7 @@ substrate as a consequence of redundancy" (p. 2).
 
 ## Bearing on the record
 
-- **QUESTION-tmpubsi9: the "redundant record" rung, as the paper has it,
+- **[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md): the "redundant record" rung, as the paper has it,
   and what it adds to the "stable record" rung.** The exchange's
   description is right on the main points: pointer observables are copied
   into many fragments (eq. 4, Fig. 2, p. 3), and observers learn them
@@ -326,12 +326,12 @@ substrate as a consequence of redundancy" (p. 2).
   separating alternatives into distinguishable outcomes, without an
   observer. Its p. 6 move, "Transfer of responsibility for repeatability
   from a quantum S to a (still quantum) A", is an apparatus in
-  TERM-tmpjdel0's operational sense, with differentiation (copying) and
+  [TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md)'s operational sense, with differentiation (copying) and
   retention (the pointer states) and nothing of use or revision. The
   Discussion touches the stable-record rung too: memory is finite, "old
   events will be eventually 'overwritten'", "if there is no record of an
   event, has it really happened?" (p. 9), a question about persistence the
-  paper raises and does not pursue (Di Biagio and Rovelli, LIT-tmpqu50n,
+  paper raises and does not pursue (Di Biagio and Rovelli, [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md),
   unread, is the record's other source for it).
 - **The exchange's caveat is not in this paper.** "Mutual information alone
   does not guarantee independently accessible classical records" is not
@@ -347,10 +347,10 @@ substrate as a consequence of redundancy" (p. 2).
   different fragments' observables plus "underlying correlations" (p. 3),
   not from any condition on the joint state of system and fragments. The
   A19 attribution of the caveat to later work is consistent with this
-  reading; that work is not held and was not checked. THEORY-tmp0d0qe
+  reading; that work is not held and was not checked. [THEORY-tmp0d0qe](../theory.d/THEORY-tmp0d0qe.md)
   files the finding with this limit.
-- **THEORY-621: a different route to inter-observer agreement, and a
-  shared refusal.** THEORY-621's promote_when asks for a result that what
+- **[THEORY-621](../theory.d/THEORY-621.md): a different route to inter-observer agreement, and a
+  shared refusal.** [THEORY-621](../theory.d/THEORY-621.md)'s promote_when asks for a result that what
   one system records about another agrees across observers. Zurek gives a
   mechanism for agreement: observers who read disjoint fragments of a
   redundantly imprinted environment find "the same state of the system"
@@ -362,12 +362,12 @@ substrate as a consequence of redundancy" (p. 2).
   through a shared medium). The two agree that the universe has no
   quantum state to take as real: "there is only one copy of the Universe.
   Treating its state as if it really existed … seems unwarranted and
-  'classical'" (p. 6), against THEORY-621's "no quantum state of the
+  'classical'" (p. 6), against [THEORY-621](../theory.d/THEORY-621.md)'s "no quantum state of the
   universe". Zurek's reason is different (objectivity needs copies), and
   he calls his account "interpretation-free" (p. 6). Rovelli's "stable
-  facts" via decoherence (THEORY-621's p. 3) is the einselection half of
+  facts" via decoherence ([THEORY-621](../theory.d/THEORY-621.md)'s p. 3) is the einselection half of
   this paper.
-- **CLAIM-tmpmx2ql: weak, and only for the first half.** The paper's
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): weak, and only for the first half.** The paper's
   dynamics have a scale separation in kind: superpositions "produce entropy
   rapidly, at decoherence rates", while pointer states produce least
   (pp. 1–2), so after decoherence the pointer basis is what persists and
@@ -377,16 +377,16 @@ substrate as a consequence of redundancy" (p. 2).
   to the ensuing period of certainty … as f_δ ≪ 1" (p. 6) is a ratio of
   fragment sizes standing in for times, not a derived separation. Support
   of the shape, no more.
-- **THEORY-017: the paper takes its parts from outside.** Quantum Darwinism
+- **[THEORY-017](../theory.d/THEORY-017.md): the paper takes its parts from outside.** Quantum Darwinism
   needs a system–environment split and a subdivision of E into
   "individually accessible" subsystems whose observables commute (Fig. 1).
-  The paper supplies both by assumption. That is THEORY-017's point (a
+  The paper supplies both by assumption. That is [THEORY-017](../theory.d/THEORY-017.md)'s point (a
   factorisation is extra data), here in a work whose objectivity claim
   depends on which factorisation is chosen.
-- **NOTE-044 (Grangier and Auffèves)** names quantum Darwinism as the
+- **[NOTE-044](NOTE-044.md) (Grangier and Auffèves)** names quantum Darwinism as the
   reductionist programme its postulate excludes, without engaging it. This
   reading is what that note's C6 would be checked against.
-- **CLAIM-342.** Redundancy is a way evidence can reach many observers
+- **[CLAIM-342](../claims.d/CLAIM-342.md).** Redundancy is a way evidence can reach many observers
   without passing through any one observer's reading of it (p. 3). That is
   a physical instance of evidence whose arrival does not pass through the
   interpretation it tests, at the level of records. It says nothing of
@@ -422,7 +422,7 @@ substrate as a consequence of redundancy" (p. 2).
   a mutual-information plateau guarantee that distinct observers, each
   reading one fragment, obtain the same pointer outcome without
   disturbing S? This is the question the later strong-Darwinism and
-  spectrum-broadcast work is standardly cited for (THEORY-tmp0d0qe).
+  spectrum-broadcast work is standardly cited for ([THEORY-tmp0d0qe](../theory.d/THEORY-tmp0d0qe.md)).
 - What fixes which environments preserve records (photons) and which
   scramble them (air), quantitatively, and over what times (p. 4)?
 - The paper's last question: is quantum Darwinism "in some way behind the

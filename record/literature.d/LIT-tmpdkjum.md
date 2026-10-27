@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpigjto), from arXiv v6; worth reading as
+  read in full 2026-10-27 ([NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md)), from arXiv v6; worth reading as
   the theorem that black-boxing passive linear circuits is functorial: the
   Lagrangian relation a circuit imposes on its terminals' potentials and
   currents composes as the circuits do. It is also a clean account of
@@ -70,7 +70,7 @@ summary: >-
 
 Baez, J. C., & Fong, B. (2018). A compositional framework for passive linear networks. *Theory and Applications of Categories*, 33(38), 1158–1222. arXiv:1504.05625.
 
-Read in full on 2026-10-27 (NOTE-tmpigjto).
+Read in full on 2026-10-27 ([NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md)).
 
 ## Why this is here
 

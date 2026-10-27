@@ -351,7 +351,7 @@ those problem domains that are most obviously and visibly ill structured"
   sequential-tasks argument (p. 187).
 - **Alexander, *Notes on the Synthesis of Form*** (ref. [1]): decomposing a
   design into nearly self-contained components (p. 191). The near-decomposability
-  theme is the one the record holds as Simon–Ando (LIT-1241).
+  theme is the one the record holds as Simon–Ando ([LIT-1241](../literature.d/LIT-1241.md)).
 - **Simon, "Style in design"** (ref. [13]): order of design steps and style
   (p. 191).
 - **Murray 1923** (ref. [5]): the battleship account (pp. 193–194).
@@ -363,7 +363,7 @@ those problem domains that are most obviously and visibly ill structured"
 
 ## Bearing on the record
 
-- **CLAIM-tmpi1bjh: support, with two qualifications.** The registration and
+- **[CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md): support, with two qualifications.** The registration and
   A17 §3 cite the paper for "The representation of the problem is itself part
   of the work, rather than something handed to the reasoner for free." The
   paper supports that in its own terms: problems "become WSPs only in the
@@ -389,7 +389,7 @@ those problem domains that are most obviously and visibly ill structured"
   bear on processing at once (p. 197), not on time to formulate as such. The
   paper speaks of problems and problem spaces, not of questions or inquiry;
   carrying it to askable questions is the record's step.
-- **CLAIM-tmpalzo4: a partial case of the last clause, and a pull towards
+- **[CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md): a partial case of the last clause, and a pull towards
   defeater (a).** The paper has a process that changes what counts as a
   considered alternative and as a test while solving: in chess "continually
   redefining what the problem is" (p. 186); in design, requirements evoked
@@ -404,32 +404,32 @@ those problem domains that are most obviously and visibly ill structured"
   long-term memory" (p. 196). That is close to the claim's defeater (a),
   reformulation as a choice among distinctions already admitted, with the
   admitting done by memory rather than by the current specification. It is
-  refinement within a framework (the CEGAR-like case, LIT-tmpikbhf), except
+  refinement within a framework (the CEGAR-like case, [LIT-tmpikbhf](../literature.d/LIT-tmpikbhf.md)), except
   for the robot's "learning" and the possibility, which Simon raises and does
   not develop, of new resources that "occur" to the solver (p. 185). Simon
-  does not treat inquiry, and Dewey (LIT-tmpekh9l) is not cited.
-- **TERM-065: the query family and the tolerance arrive during solving.** In
+  does not treat inquiry, and Dewey ([LIT-tmpekh9l](../literature.d/LIT-tmpekh9l.md)) is not cited.
+- **[TERM-065](../terms.d/TERM-065.md): the query family and the tolerance arrive during solving.** In
   Simon's design process the tests a solution must meet are evoked as the
   design proceeds and "need not be specified in advance" (p. 190), and the
   final product may fail tests imposed earlier (p. 191). That is a case of
-  the regime's 𝒬 and ε being outputs of the process, as CLAIM-tmpi1bjh says;
-  it does not touch TERM-065's reason for fixing the regime during a
+  the regime's 𝒬 and ε being outputs of the process, as [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md) says;
+  it does not touch [TERM-065](../terms.d/TERM-065.md)'s reason for fixing the regime during a
   comparison.
-- **CLAIM-184 (anchors entrench):** a design case. Early global parameters
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench):** a design case. Early global parameters
   "become constraints operating on each of the components", and the order of
   steps can fix the style of the result (p. 191). Consistent with the claim;
   described, not measured.
-- **CLAIM-tmpmx2ql (scale separation makes constraints):** the adaptation
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md) (scale separation makes constraints):** the adaptation
   and learning distinction (p. 195) separates fast reversible revision of a
   representation from slow permanent revision, and the standard design on
   the shelf is a slow product used as fixed by a fast process (p. 187).
   Consistent; no more.
-- **CLAIM-419 (the record's grammar, fixed but amendable):** Simon's
+- **[CLAIM-419](../claims.d/CLAIM-419.md) (the record's grammar, fixed but amendable):** Simon's
   alternation is a model for a record that works on a fixed schema in the
   small and amends it in the large; his §4 point that new information is
   fitted to existing formats (p. 199) is the hazard the claim's last clause
   ("whether every such move is caught is not shown") leaves open.
-- **LIT-1071 (resource-rational analysis):** Simon's bound is seriality and
+- **[LIT-1071](../literature.d/LIT-1071.md) (resource-rational analysis):** Simon's bound is seriality and
   practicable computation, not an optimality criterion; the paper does not
   price structuring against solving.
 - **No instruction for machine-learning practice.** The paper's conclusions

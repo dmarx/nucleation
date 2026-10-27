@@ -10,7 +10,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpfywhk
 summary: >-
-  Spivak (2026), LIT-tmpfywhk, read in NOTE-tmplvblh from arXiv v2. In
+  Spivak (2026), [LIT-tmpfywhk](../literature.d/LIT-tmpfywhk.md), read in [NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md) from arXiv v2. In
   the operad ArrSm, harmonic particles wired along a finite directed
   graph form one closed arrangement with potential Σ(κ_e/2)(q_tgt −
   q_src)². The phase semantics gives m_v q̈_v = −(L_G q)_v (Proposition
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Spivak (2026), LIT-tmpfywhk, §§6.3, 6.6 and 7.3–7.4 (pp. 54–61, 67–71,
-76–87 of arXiv 2606.28984v2); read in NOTE-tmplvblh.
+Spivak (2026), [LIT-tmpfywhk](../literature.d/LIT-tmpfywhk.md), §§6.3, 6.6 and 7.3–7.4 (pp. 54–61, 67–71,
+76–87 of arXiv 2606.28984v2); read in [NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md).
 
 ## What was actually shown
 
@@ -62,7 +62,7 @@ regime and the first-order, descent regime are two semantics of one
 syntactic object" (p. 87).
 
 Both computations were checked numerically on a four-vertex path graph
-(NOTE-tmplvblh): the wave residual was at machine precision, and U fell
+([NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md)): the wave residual was at machine precision, and U fell
 monotonically under the heat step.
 
 ## What this does not say
@@ -70,7 +70,7 @@ monotonically under the heat step.
 - **Anything about time scales.** The paper does not speak of relaxation
   rates, separation or hierarchy. That the heat step damps each eigenmode of
   M⁻¹L_G at a rate set by its eigenvalue while the symplectic step damps
-  none is a reading through CLAIM-tmpywecm, not in the text.
+  none is a reading through [CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md), not in the text.
 - **That the coupling is dissipative or conservative.** The regime is fixed
   by the integrator, which the paper calls the semantics; physically it is
   the choice of whether the particles carry momentum. So the result shows

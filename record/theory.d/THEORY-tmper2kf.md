@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpytrrl
 summary: >-
-  Di Biagio and Rovelli (2025), LIT-tmpytrrl, read from arXiv v2 in
-  NOTE-tmp2eky0, §VII and App. B. Active as mathematics: (B7) follows
+  Di Biagio and Rovelli (2025), [LIT-tmpytrrl](../literature.d/LIT-tmpytrrl.md), read from arXiv v2 in
+  [NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md), §VII and App. B. Active as mathematics: (B7) follows
   from (B6), which I rederived; (B8) as printed has a sign error, and the
   correct form is I_A^max − cos²(ωt)H_A. The continuity is of the expected
   quantities. A conditional relative fact appears at once in the ideal
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Di Biagio and Rovelli (2025), LIT-tmpytrrl, arXiv 2510.11349v2, §VII
-(pp. 5–6), Fig. 1 and App. B (pp. 8–9); read in NOTE-tmp2eky0.
+Di Biagio and Rovelli (2025), [LIT-tmpytrrl](../literature.d/LIT-tmpytrrl.md), arXiv 2510.11349v2, §VII
+(pp. 5–6), Fig. 1 and App. B (pp. 8–9); read in [NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md).
 
 ## What was actually shown
 

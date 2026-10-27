@@ -10,8 +10,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpf2wmd
 summary: >-
-  Hansen and Ghrist (2020; SIAM J. Appl. Math. 2021), LIT-tmpf2wmd, §§2–4,
-  read in NOTE-tmpe4zh5 from the arXiv preprint. Active as mathematics: the
+  Hansen and Ghrist (2020; SIAM J. Appl. Math. 2021), [LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md), §§2–4,
+  read in [NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md) from the arXiv preprint. Active as mathematics: the
   convergence is a theorem about a linear heat equation, and the gap
   between expressed and held opinion is in the definitions and is worked in
   an example. It does not say that people reach agreement this way, or
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Hansen and Ghrist (2020; SIAM J. Appl. Math. 81(5), 2021), LIT-tmpf2wmd,
-§§2–4 (pp. 3–10 of arXiv 2005.12798v1); read in NOTE-tmpe4zh5.
+Hansen and Ghrist (2020; SIAM J. Appl. Math. 81(5), 2021), [LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md),
+§§2–4 (pp. 3–10 of arXiv 2005.12798v1); read in [NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md).
 
 ## What was actually shown
 
@@ -67,7 +67,7 @@ consensus at the average.
   discourse" (p. 8).
 - **That the expression maps are given by anything in particular.** In
   §§3–7 they are fixed background. How they change is a separate dynamic,
-  in THEORY-tmptkmt9.
+  in [THEORY-tmptkmt9](THEORY-tmptkmt9.md).
 - **That the limit is reached from any start to any section.** It is the
   projection of the starting opinions, so the starting point decides which
   section is reached. Steering to a chosen section is a control question,

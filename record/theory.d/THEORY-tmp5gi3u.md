@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpwhycq
 summary: >-
-  Stewart, Golubitsky and Pivato (2003), LIT-tmpwhycq, read in
-  NOTE-tmp4riih: the quotient construction (§7), Theorems 8.3, 8.4 and 9.2
+  Stewart, Golubitsky and Pivato (2003), [LIT-tmpwhycq](../literature.d/LIT-tmpwhycq.md), read in
+  [NOTE-tmp4riih](../notes.d/NOTE-tmp4riih.md): the quotient construction (§7), Theorems 8.3, 8.4 and 9.2
   with proofs, the counterexample of Remark 7.5 and Example 7.1. Active as
   mathematics. The quotient describes the dynamics on the invariant
   subspace exactly, but only a subclass of the quotient's own admissible
@@ -22,9 +22,9 @@ summary: >-
 
 ## Source
 
-Stewart, Golubitsky and Pivato (2003), LIT-tmpwhycq, §§7–9 (pp. 632–644 of
+Stewart, Golubitsky and Pivato (2003), [LIT-tmpwhycq](../literature.d/LIT-tmpwhycq.md), §§7–9 (pp. 632–644 of
 SIAM J. Appl. Dyn. Syst. 2(4), read from the accepted version); read in
-NOTE-tmp4riih. It rests on the balanced relations of THEORY-tmpbgffi.
+[NOTE-tmp4riih](../notes.d/NOTE-tmp4riih.md). It rests on the balanced relations of [THEORY-tmpbgffi](THEORY-tmpbgffi.md).
 
 ## What was actually shown
 

@@ -18,13 +18,13 @@ date: '2026-10-27'
 source:
 - LIT-tmpytrrl
 summary: >-
-  Di Biagio and Rovelli (2025), LIT-tmpytrrl, read from arXiv v2 in
-  NOTE-tmp2eky0, §VI and Apps. D–E. The merge, and the disturbance of a
+  Di Biagio and Rovelli (2025), [LIT-tmpytrrl](../literature.d/LIT-tmpytrrl.md), read from arXiv v2 in
+  [NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md), §VI and Apps. D–E. The merge, and the disturbance of a
   third party's relative fact, are computed in a three-system example and
   in Wigner's friend. Proposed because the general claims, a solution to
   RQM's combination problem and consistency of perspectives, are asserted.
   Every computation is relative to one outside system, where agreement is
-  automatic. This is the same gap THEORY-621 and THEORY-tmpleurt name.
+  automatic. This is the same gap [THEORY-621](THEORY-621.md) and [THEORY-tmpleurt](THEORY-tmpleurt.md) name.
 ---
 <!-- inactive-ok-file: THEORY-621 THEORY-tmpleurt — Proposed; the earlier statements whose consistency gap this restates, cited as open -->
 
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Di Biagio and Rovelli (2025), LIT-tmpytrrl, arXiv 2510.11349v2, §VI
-(pp. 4–5), App. D (pp. 9–10) and App. E (pp. 10–11); read in NOTE-tmp2eky0.
+Di Biagio and Rovelli (2025), [LIT-tmpytrrl](../literature.d/LIT-tmpytrrl.md), arXiv 2510.11349v2, §VI
+(pp. 4–5), App. D (pp. 9–10) and App. E (pp. 10–11); read in [NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md).
 
 ## What was actually shown
 
@@ -74,8 +74,8 @@ general statement of "correctly" and no proof.
 - **That perspectives relative to different outside systems agree.** Each
   agreement above is read off one joint distribution, relative to "us" or to
   O. Inside one classical distribution, if Z is fixed by F and Z is fixed by
-  W, the two agree by probability theory. The open question, which THEORY-621
-  and THEORY-tmpleurt also leave open, is agreement between descriptions held
+  W, the two agree by probability theory. The open question, which [THEORY-621](THEORY-621.md)
+  and [THEORY-tmpleurt](THEORY-tmpleurt.md) also leave open, is agreement between descriptions held
   relative to different systems. The paper sets it aside with its rejection
   of questions about what "really" happened (§IX).
 - **That merging is guaranteed.** It requires coupling "properly", and a

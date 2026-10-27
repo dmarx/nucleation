@@ -21,7 +21,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpqu50n
 summary: >-
-  Di Biagio and Rovelli (2021), LIT-tmpqu50n, read in NOTE-tmppgt2i, §2
+  Di Biagio and Rovelli (2021), [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md), read in [NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md), §2
   (pp. 7–11). The translation of Frauchiger and Renner's assumption (C) and
   of Bong et al.'s absoluteness of observed events into the use of eq. (3)
   across contexts is the paper's and is clear. That nothing else goes
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Di Biagio and Rovelli (2021), LIT-tmpqu50n, §§2.1–2.3, pp. 7–11 of the
-journal text; read in NOTE-tmppgt2i. It builds on THEORY-tmphf61a.
+Di Biagio and Rovelli (2021), [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md), §§2.1–2.3, pp. 7–11 of the
+journal text; read in [NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md). It builds on [THEORY-tmphf61a](THEORY-tmphf61a.md).
 
 ## What was actually shown
 
@@ -81,11 +81,11 @@ without decoherence."
   Friendliness violation "evidence that the facts quantum theory deals with
   are facts relative to systems" (p. 9) outruns the theorem, which shows
   that one of three assumptions fails; QBism and Everett also deny
-  absoluteness. The same overreach is noted for Rovelli 2021 (THEORY-621).
+  absoluteness. The same overreach is noted for Rovelli 2021 ([THEORY-621](THEORY-621.md)).
 - **That relative facts cohere across observers in general.** "Wigner will
   always agree with his Friend about the value of L_S once he too interacts
   with them" (p. 10) is argued from one entangled state's correlation
-  (THEORY-tmpleurt).
+  ([THEORY-tmpleurt](THEORY-tmpleurt.md)).
 - **How an agent should reason about an experiment on himself.** "has not
   been done within RQM yet" (pp. 8–9).
 - **That an ontology of stable facts is impossible.** The argument is that

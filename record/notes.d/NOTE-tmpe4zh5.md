@@ -271,7 +271,7 @@ sheaf-theoretic language was "excised" for accessibility.
 ## Connections
 
 - **Hansen and Ghrist, "Toward a spectral theory of cellular sheaves"**
-  (ref. [23], LIT-tmpnpxhs), the source of the sheaf Laplacian,
+  (ref. [23], [LIT-tmpnpxhs](../literature.d/LIT-tmpnpxhs.md)), the source of the sheaf Laplacian,
   harmonic extension and the convergence-rate claims this paper uses.
 - **Taylor 1968** (ref. [36]): §§5–7 are "extensions of ideas originally
   introduced by Taylor" (p. 10).
@@ -279,13 +279,13 @@ sheaf-theoretic language was "excised" for accessibility.
   (refs. [2–4]) for antagonistic interactions and structural balance, which
   the paper says studied structures like Example 4.2 "implicitly" (p. 9).
 - **Curry's thesis** (ref. [13]) for cellular sheaves.
-- **THEORY-299** (Gebhart, Hansen and Schrater; knowledge sheaves) is the
+- **[THEORY-299](../theory.d/THEORY-299.md)** (Gebhart, Hansen and Schrater; knowledge sheaves) is the
   same machinery used for embeddings, with the same zero section; see
   Bearing on the record.
 
 ## Bearing on the record
 
-- **CLAIM-tmpdjt64: the paper is a worked formal case of the claim's
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md): the paper is a worked formal case of the claim's
   "agreement on what is shared and not identity", and of a correspondence
   changed by interaction.** Each edge carries its own comparison space, and
   compatibility is F_{u⊴e}x_u = F_{v⊴e}x_v, with private opinions "distinct
@@ -304,7 +304,7 @@ sheaf-theoretic language was "excised" for accessibility.
   operations, opinion diffusion is enforcement (§4), and §8's learning is
   enforcement acting on the correspondence. The paper has no separate
   evidence operation.
-- **CLAIM-342: the paper is an instance of the self-confirming loop, and it
+- **[CLAIM-342](../claims.d/CLAIM-342.md): the paper is an instance of the self-confirming loop, and it
   guards against degeneracy, not against self-confirmation.** The
   expression-learning rule uses only the edge disagreement δx (eqs. 8.1,
   9.1). The evidence each agent revises against is its neighbours'
@@ -312,7 +312,7 @@ sheaf-theoretic language was "excised" for accessibility.
   in the model scores an expression against the opinion held or against
   anything outside the network. The paper names the outcome as a loss of
   fidelity ("learning to lie") and never as an error. On the risk
-  THEORY-299 recorded, the paper has three guards and one gap. (i) The
+  [THEORY-299](../theory.d/THEORY-299.md) recorded, the paper has three guards and one gap. (i) The
   paper says that a sheaf without nonzero sections sends opinions to zero,
   "an uninteresting solution" (p. 9). (ii) Theorem 8.1 moves the maps only
   to the nearest sheaf in Frobenius distance. That is a rank-one change
@@ -330,7 +330,7 @@ sheaf-theoretic language was "excised" for accessibility.
   result is coherence, and A22 §10's distinction between "becoming more
   coherent" and "becoming more knowledgeable" applies: this paper's
   learning is the first by construction.
-- **QUESTION-tmpubsi9, third answer criterion: a concrete G for an
+- **[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md), third answer criterion: a concrete G for an
   apparatus that revises its correspondences, with what it cannot reach
   stated.** In §8, G is the gradient flow (8.3). It cannot change the
   graph, the stalks, the sparsity pattern or (in §8) the held opinions,
@@ -351,7 +351,7 @@ sheaf-theoretic language was "excised" for accessibility.
   are expression maps, and what an agent observes is its neighbours'
   expressions (p. 13). The only observation operator is the control-theory
   output C of §6, which is the identity on the observed vertices.
-- **CLAIM-tmpywecm.** The convergence rate is "related to the spectral
+- **[CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md).** The convergence rate is "related to the spectral
   properties of the sheaf Laplacian" (p. 9), which is consistent with the
   claim's Laplacian-spectrum rates. The paper only cites this to [23] and
   does no more with it.

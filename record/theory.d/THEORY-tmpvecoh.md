@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpnpxhs
 summary: >-
-  Hansen and Ghrist (2019), LIT-tmpnpxhs, §4.2 (pp. 18–21), read in
-  NOTE-tmpzqos6: a worked three-leaf star with a two-dimensional centre,
+  Hansen and Ghrist (2019), [LIT-tmpnpxhs](../literature.d/LIT-tmpnpxhs.md), §4.2 (pp. 18–21), read in
+  [NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md): a worked three-leaf star with a two-dimensional centre,
   and a closure theorem for the scalar-stalk case. Active as mathematics;
   the argument was checked. It is about the space of sections, a static
   fact; it does not say how often the obstruction arises, what structure
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Hansen and Ghrist (2019), LIT-tmpnpxhs, §4.2 and Fig. 4.1 of arXiv
-1808.01513v2 (pp. 18–21); read in NOTE-tmpzqos6.
+Hansen and Ghrist (2019), [LIT-tmpnpxhs](../literature.d/LIT-tmpnpxhs.md), §4.2 and Fig. 4.1 of arXiv
+1808.01513v2 (pp. 18–21); read in [NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md).
 
 ## What was actually shown
 
@@ -73,9 +73,9 @@ above shows there is none, and it was checked for this reading.
   reduction.
 - **Anything about dynamics.** The statement is about sections and the
   Schur complement. It does not say what a boundary observer of a
-  relaxing interior sees over time; that is CLAIM-tmpose3y's memory case,
+  relaxing interior sees over time; that is [CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)'s memory case,
   which this paper does not treat.
 - **That the interactions are physical.** "Pairwise interactions" here
   means compatibility conditions on edges of a graph. Reading the centre
   as a physical subsystem whose couplings the boundary inherits
-  (CLAIM-tmpose3y, CLAIM-tmpdjt64) is the record's interpretation.
+  ([CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md), [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)) is the record's interpretation.

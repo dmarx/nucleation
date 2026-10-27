@@ -290,14 +290,14 @@ works when the signal eigenvalue leaves the noise bulk.
   Khot's Unique Games Conjecture [26], Khot et al. [27], Charikar et al. [6].
 - **Applications cited**: clock synchronization in networks [17, 23],
   surface reconstruction from gradients [1, 13, 30], cryo-EM [12, 32, 33].
-- **The record**: NOTE-822 and NOTE-675 cite other work of Singer's
+- **The record**: [NOTE-822](NOTE-822.md) and [NOTE-675](NOTE-675.md) cite other work of Singer's
   (vector diffusion maps; graph-Laplacian convergence), not this paper.
-  Torres-Hugas et al. (LIT-tmpre2ri, unread) treat cycle holonomy in
+  Torres-Hugas et al. ([LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md), unread) treat cycle holonomy in
   synchronization, which this paper's model excludes.
 
 ## Bearing on the record
 
-- **CLAIM-tmpi1bjh: the cited fact holds, with a sharper shape than the
+- **[CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md): the cited fact holds, with a sharper shape than the
   citation gives it.** The claim cites this paper for "recovering a global
   structure from pairwise evidence costs computation, even when the structure
   exists". The paper supports that: the structure exists by assumption, the
@@ -317,7 +317,7 @@ works when the signal eigenvalue leaves the noise bulk.
   computation. A21 §6's "failure to glue" and "inability to find a gluing
   within available resources" need a third case beside them, failure to
   identify a gluing from the evidence, which no resource removes.
-- **CLAIM-tmpdjt64: the paper is the claim's "evidence" row, and is of the
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md): the paper is the claim's "evidence" row, and is of the
   revealing kind its defeater (a) describes.** The offsets δᵢⱼ are
   correspondences gᵢⱼ on edges, and the cycle condition
   δᵢⱼ + δⱼₖ + δₖᵢ = 0 (2.7), gᵢⱼgⱼₖgₖᵢ = e for a group (7.2), is the
@@ -330,30 +330,30 @@ works when the signal eigenvalue leaves the noise bulk.
   The paper's model also has no obstruction: every inconsistent cycle is
   noise, because a global assignment exists by assumption (1.1). So it
   cannot tell the claim's cycle holonomy from measurement error; that is
-  the case LIT-tmpre2ri addresses. The relaxation's constraint
+  the case [LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md) addresses. The relaxation's constraint
   Σ|zᵢ|² = n, and in least squares z₁ = 1, are there "To prevent the
   solution from collapsing to the trivial solution z₁ = z₂ = · · · = zₙ = 0"
-  (p. 2): the claim's zero-map failure mode (THEORY-299), excluded by a
+  (p. 2): the claim's zero-map failure mode ([THEORY-299](../theory.d/THEORY-299.md)), excluded by a
   normalization rather than by evidence.
-- **CLAIM-143 (and CLAIM-265): a case where the correspondences cannot be
+- **[CLAIM-143](../claims.d/CLAIM-143.md) (and [CLAIM-265](../claims.d/CLAIM-265.md)): a case where the correspondences cannot be
   validated one by one, and are validated jointly by consistency.** Each
   offset is a correspondence between two local frames, and the paper's
   premise is that none can be checked on its own: "It is trivial to find a
   solution to (1.1) if some oracle whispers to our ears which equations are
   good and which are bad … In reality, we have to be able to tell the good
   from the bad on our own" (p. 2). The method sorts them by mutual
-  consistency around cycles, which is not independent of the fit in CLAIM-143's
+  consistency around cycles, which is not independent of the fit in [CLAIM-143](../claims.d/CLAIM-143.md)'s
   sense. It works because of a noise model: outliers uniform and
   independent, so they cancel as a random walk (p. 4), and a global
   assignment assumed to exist. The guarantee is statistical and has a
-  threshold (p > 1/√n on the complete graph). This bears on QUESTION-005:
+  threshold (p > 1/√n on the complete graph). This bears on [QUESTION-005](../questions.d/QUESTION-005.md):
   a correspondence can be validated from inside the data, but only under a
   model of how wrong correspondences are distributed, and only above a
   threshold. Nor does the paper diagnose incompatibility at all: it assumes
   compatibility and estimates through the disagreement, the order of tests
-  CLAIM-143 warns against unless compatibility is known. It is known here
+  [CLAIM-143](../claims.d/CLAIM-143.md) warns against unless compatibility is known. It is known here
   by construction.
-- **CLAIM-342: an outside check on a self-consistency method.** The paper
+- **[CLAIM-342](../claims.d/CLAIM-342.md): an outside check on a self-consistency method.** The paper
   verifies its estimates against the true angles (ρ₁, ρ₂, eq. 4.25, p. 10)
   in simulation, where the truth is available; on real data the method's
   only check is its own consistency. Consistent with the claim's
@@ -398,7 +398,7 @@ works when the signal eigenvalue leaves the noise bulk.
 
 - A rigorous threshold for the eigenvector estimator on this mixture model,
   and a per-angle error criterion that can be compared with p_c^ind on equal
-  terms (THEORY-tmp24sxe).
+  terms ([THEORY-tmp24sxe](../theory.d/THEORY-tmp24sxe.md)).
 - Is the L ≥ 7 gap between polynomial and exhaustive recovery real for every
   polynomial algorithm, as §6 expects from NP-hardness, in the average-case
   model the paper uses? NP-hardness is a worst-case statement.

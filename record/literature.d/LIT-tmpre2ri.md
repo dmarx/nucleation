@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpb8jge), from the arXiv preprint v2;
+  read in full 2026-10-27 ([NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md)), from the arXiv preprint v2;
   worth reading for a clean statement of when edge-wise phase relations
   can be met around cycles, and for its own caution that the point of
   maximal cycle frustration is not where remote synchronization loses
@@ -75,7 +75,7 @@ summary: >-
 
 Torres-Hugas, L., Duch, J., Gómez, S., & Arenas, A. (2026). Cycle holonomy captures higher-order compatibility constraints in remote synchronization. *Communications Physics*. doi:10.1038/s42005-026-02914-y. Preprint: arXiv:2604.19682.
 
-Read in full on 2026-10-27 (NOTE-tmpb8jge).
+Read in full on 2026-10-27 ([NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md)).
 
 ## Why this is here
 

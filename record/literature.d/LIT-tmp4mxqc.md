@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpy78q5), from a scan of the published
+  read in full 2026-10-27 ([NOTE-tmpy78q5](../notes.d/NOTE-tmpy78q5.md)), from a scan of the published
   article; worth reading as the classic argument that well-structuredness
   is relative to a bounded solver and that problems from the world become
   well structured only by being prepared, and for its model of design as an
@@ -73,7 +73,7 @@ summary: >-
 
 Simon, H. A. (1973). The structure of ill structured problems. *Artificial Intelligence*, 4(3–4), 181–201. doi:10.1016/0004-3702(73)90011-8.
 
-Read in full on 2026-10-27 (NOTE-tmpy78q5).
+Read in full on 2026-10-27 ([NOTE-tmpy78q5](../notes.d/NOTE-tmpy78q5.md)).
 
 ## Why this is here
 

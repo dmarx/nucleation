@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpvsoha), from the arXiv text; worth
+  read in full 2026-10-27 ([NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md)), from the arXiv text; worth
   reading as the author's own synthesis of einselection, redundancy and
   envariance. Its repeatability argument (eq. 5) is clean; its redundancy
   results are cited model calculations; its step from redundancy to
@@ -66,7 +66,7 @@ summary: >-
 
 Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5(3), 181–188. doi:10.1038/nphys1202.
 
-Read in full on 2026-10-27 (NOTE-tmpvsoha).
+Read in full on 2026-10-27 ([NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md)).
 
 ## Why this is here
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpe4zh5), from the arXiv preprint; worth
+  read in full 2026-10-27 ([NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md)), from the arXiv preprint; worth
   reading as the clearest formal case of agreement on what is expressed
   without identity of what is held, and of correspondence maps revised by
   interaction. Mathematics with toy examples, no data; its expression
@@ -70,7 +70,7 @@ summary: >-
 
 Hansen, J., & Ghrist, R. (2021). Opinion dynamics on discourse sheaves. *SIAM Journal on Applied Mathematics*, 81(5), 2033–2060. doi:10.1137/20M1341088. Preprint: arXiv:2005.12798.
 
-Read in full on 2026-10-27 (NOTE-tmpe4zh5).
+Read in full on 2026-10-27 ([NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md)).
 
 ## Why this is here
 

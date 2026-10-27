@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpytrrl
 summary: >-
-  Di Biagio and Rovelli (2025), LIT-tmpytrrl, read from arXiv v2 in
-  NOTE-tmp2eky0, §§II–V and IX. Active as a statement of the paper's
+  Di Biagio and Rovelli (2025), [LIT-tmpytrrl](../literature.d/LIT-tmpytrrl.md), read from arXiv v2 in
+  [NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md), §§II–V and IX. Active as a statement of the paper's
   definitions and of what follows from them: eq. (7) is an identity, and
   the restriction to commuting variables follows from the existence of
   joint distributions. It does not say that this resolves the problems the
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Di Biagio and Rovelli (2025), LIT-tmpytrrl, arXiv 2510.11349v2, §§II–V
-(pp. 1–4) and §IX (p. 7); read in NOTE-tmp2eky0. Pages are the PDF's.
+Di Biagio and Rovelli (2025), [LIT-tmpytrrl](../literature.d/LIT-tmpytrrl.md), arXiv 2510.11349v2, §§II–V
+(pp. 1–4) and §IX (p. 7); read in [NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md). Pages are the PDF's.
 
 ## What was actually shown
 
@@ -88,4 +88,4 @@ distribution.
 - **That relative facts happen only at interactions.** On these definitions a
   relative fact is a property of the joint distribution at any time, and the
   paper says it "allows talk of relative facts also in-between interactions"
-  (p. 7). THEORY-621, from the 2021 chapter, has facts only at interactions.
+  (p. 7). [THEORY-621](THEORY-621.md), from the 2021 chapter, has facts only at interactions.

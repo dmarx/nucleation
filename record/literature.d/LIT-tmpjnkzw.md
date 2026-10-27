@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmplhrxg), from arXiv v2; worth reading as
+  read in full 2026-10-27 ([NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md)), from arXiv v2; worth reading as
   the paper that posed angular synchronization with outliers and sketched
   its extension to other groups, and as a clean case that
   separates what pairwise evidence determines from what a cheap method can
@@ -75,7 +75,7 @@ summary: >-
 
 Singer, A. (2011). Angular synchronization by eigenvectors and semidefinite programming. *Applied and Computational Harmonic Analysis*, 30(1), 20–36. doi:10.1016/j.acha.2010.02.001.
 
-Read in full on 2026-10-27 (NOTE-tmplhrxg).
+Read in full on 2026-10-27 ([NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md)).
 
 ## Why this is here
 
@@ -83,4 +83,4 @@ A21 §8 cited it for the gap between a compatible global configuration
 existing and an apparatus recovering it from pairwise evidence at a
 cost: "Interaction produces relational evidence, but recovering a larger
 structure from that evidence is itself a resource-bounded process." It
-bears on CLAIM-tmpdjt64 and CLAIM-tmpi1bjh.
+bears on [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md) and [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md).

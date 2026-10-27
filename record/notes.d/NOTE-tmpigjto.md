@@ -296,17 +296,17 @@ boxed versions of the parts and then composing them" (p. 7).
 - **Fong's decorated cospans [17] and decorated corelations [19]**, and
   Fong's thesis [18], supply the general constructions; much of the paper
   appears in [18] (p. 8).
-- **Fong and Spivak's *Seven Sketches* [20]**, cited p. 2, is LIT-803 in this
+- **Fong and Spivak's *Seven Sketches* [20]**, cited p. 2, is [LIT-803](../literature.d/LIT-803.md) in this
   record (skimmed). Its first chapter calls an observation's failure to
   preserve joins a generative effect. Black-boxing is the contrasting case
   for composition of circuits: a functor, so what the composite presents is
   computed from what the parts present.
 - **Willems [45, 46]**, cited for the point that "the relationship between
   terminals is not an input-output one, but rather one of interconnection"
-  (p. 39). Willems 2007 is LIT-tmpnyd4r, unavailable here.
+  (p. 39). Willems 2007 is [LIT-tmpnyd4r](../literature.d/LIT-tmpnyd4r.md), unavailable here.
 - **Companion work** on Markov processes [5] and reaction networks [6] in the
   same framework (p. 7); neither is held by the record. The same authors'
-  Noether theorem for Markov processes is LIT-773.
+  Noether theorem for Markov processes is [LIT-773](../literature.d/LIT-773.md).
 - **Sabot [37, 38]**, cited with Fukushima and Ma–Röckner for Dirichlet forms;
   [38] treats "electrical networks, symplectic reductions, and application to
   the renormalization map of self-similar lattices", which bears on reading
@@ -315,7 +315,7 @@ boxed versions of the parts and then composing them" (p. 7).
 
 ## Bearing on the record
 
-- **CLAIM-tmpose3y: its static computation is the paper's Example 2.9, and its
+- **[CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md): its static computation is the paper's Example 2.9, and its
   memory case is covered in a different form, with no time-scale condition.**
   Put k = 1/r. The claim's E = ½k₁(x₁ − x₂)² + ½k₂(x₂ − x₃)² is the extended
   power functional of two resistors in series; the paper's interior
@@ -355,14 +355,14 @@ boxed versions of the parts and then composing them" (p. 7).
   of precisely this phenomenon" is right for passive linear two-terminal
   networks and no wider: the paper excludes sources, nonlinear components and
   transformers (p. 3) and never speaks of constraints or apparatus.
-- **CLAIM-tmpose3y's "a coupling between x₁ and x₃ that neither part has".**
+- **[CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)'s "a coupling between x₁ and x₃ that neither part has".**
   True of each part's relation, but functoriality says the composite's
   relation is the relational composite of the parts' relations (p. 7). The
   new coupling is computed from the parts' black boxes, not from anything
   else about their interiors. That is the precise sense in which composition
   here makes something new: new relative to each part, with no generative
   effect relative to the parts taken together.
-- **CLAIM-tmpmand1: a demonstrated case of one specification with many
+- **[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md): a demonstrated case of one specification with many
   realizations, and of the specification being realized by the interior.**
   The black box is many-to-one (2 Ω and two 1-Ω resistors in series, p. 7; A
   not faithful, p. 32), and onto for resistor circuits (every real Dirichlet
@@ -375,7 +375,7 @@ boxed versions of the parts and then composing them" (p. 7).
   identities", p. 23) and is supplied by the formalism (corelations, Sec. 6).
   It is an idealization, not a constraint that individuates while realized
   by nothing, so it does not defeat (b).
-- **CLAIM-tmpdjt64: a theorem for its "physical gluing" in the linear passive
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md): a theorem for its "physical gluing" in the linear passive
   case, and a nuance about "generate".** Composition is gluing by pushout
   ("the pushout of cospans gives formal precision to this gluing
   construction", p. 5), and the interconnection condition is equal
@@ -391,7 +391,7 @@ boxed versions of the parts and then composing them" (p. 7).
   condition the next system meets. That bears on defeater (a): here the
   correspondence at each port is background structure, and interaction makes
   the composed relation, not the port condition.
-- **CLAIM-tmpmx2ql** (separation makes constraints): the paper gives no
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md)** (separation makes constraints): the paper gives no
   support either way. Its exact frequency-domain black box needs no
   separation; separation would matter only for approximating that relation
   by an instantaneous one, which the paper does not do.
@@ -427,7 +427,7 @@ boxed versions of the parts and then composing them" (p. 7).
 - What is the time-domain form of the black box for an RLC network with
   nonzero initial interior state, and is it still functorial? The paper's
   zero-initial-condition assumption leaves this open; it is the setting of
-  CLAIM-tmpose3y's memory formula.
+  [CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)'s memory formula.
 - How far does the framework go beyond passive linear circuits? The authors
   point to [3] for more general circuits and to [5], [6] for Markov processes
   and reaction networks (p. 7).

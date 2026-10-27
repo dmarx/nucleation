@@ -278,9 +278,9 @@ synchronized cells being coupled to each other.
 
 ## Bearing on the record
 
-- **THEORY-276 (Pecora et al., symmetry orbits as clusters): generalized,
+- **[THEORY-276](../theory.d/THEORY-276.md) (Pecora et al., symmetry orbits as clusters): generalized,
   and its "symmetry is sufficient, not necessary" given its theorem.** The
-  orbit partition of a network symmetry group is balanced, so THEORY-276's
+  orbit partition of a network symmetry group is balanced, so [THEORY-276](../theory.d/THEORY-276.md)'s
   invariance result is a special case of Theorem 6.5 (p. 630), in a much
   wider class: arbitrary nonlinear, non-additive coupling (p. 610), several
   cell and arrow types, directed arrows. The clusters Pecora et al. noted
@@ -291,9 +291,9 @@ synchronized cells being coupled to each other.
   nothing else is robust. Two limits. Necessity is relative to the whole
   admissible class: a narrower model family, such as Pecora's eq. (1) with
   one fixed H, may have extra invariant subspaces. And the paper says
-  nothing about stability, which is THEORY-276's other half (the
-  transverse blocks) and QUESTION-147's.
-- **CLAIM-tmpdjt64: the attribution holds in substance, but half of it is
+  nothing about stability, which is [THEORY-276](../theory.d/THEORY-276.md)'s other half (the
+  transverse blocks) and [QUESTION-147](../questions.d/QUESTION-147.md)'s.
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md): the attribution holds in substance, but half of it is
   the paper's scope statement, not its result.** The claim says this paper
   separates "an invariant synchrony pattern, which the architecture allows,
   from an attracting one, which the dynamics selects". The paper draws the
@@ -306,7 +306,7 @@ synchronized cells being coupled to each other.
   input-free cells is invariant though "dynamically unstable" (p. 626).
   A citation for invariance without attractivity is sound; one for how the
   dynamics selects needs another source.
-- **QUESTION-063 (common drive or coupling): the theorem puts the two on
+- **[QUESTION-063](../questions.d/QUESTION-063.md) (common drive or coupling): the theorem puts the two on
   one footing.** A drive is just another cell, and the balance condition
   counts inputs, not who sends them. In Figure 19 (p. 635) cells 2 and 3
   are robustly synchronous though 3 is only driven by cell 1 and 2 also
@@ -314,24 +314,24 @@ synchronized cells being coupled to each other.
   synchronous with no arrow among them, each receiving the same coloured
   inputs. So an architecture-forced synchrony pattern says "equal input",
   and by itself says neither "coupled to each other" nor "driven from
-  outside". This bears on THEORY-276's use on QUESTION-063: a pattern of
+  outside". This bears on [THEORY-276](../theory.d/THEORY-276.md)'s use on [QUESTION-063](../questions.d/QUESTION-063.md): a pattern of
   clusters is a coupling signature only relative to a known graph that
   includes every source of input, the shared drive among them. The paper
   does not discuss drive or inference, so this is the record's reading.
-- **CLAIM-tmpywecm: it supports only the one line that cites A22 §7.** "A
+- **[CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md): it supports only the one line that cites A22 §7.** "A
   synchrony subspace can be invariant without being attracting" is the
   paper's stated scope (p. 626). Nothing in it bears on time scales,
   dissipation, Laplacian spectra or strong coupling destabilizing
   synchrony; the claim's other content gets no support or correction from
   it.
-- **THEORY-755 and CLAIM-157 (exact aggregation without a block).** The
+- **[THEORY-755](../theory.d/THEORY-755.md) and [CLAIM-157](../claims.d/CLAIM-157.md) (exact aggregation without a block).** The
   balance condition is a counting condition on inputs, the coupled-cell
   analogue of an equitable partition. For a linear network ẋ = Ax, the
   polydiagonal is invariant when each row of each block of A has the same
-  sum (inputs counted), while THEORY-755's exact aggregation of block sums
+  sum (inputs counted), while [THEORY-755](../theory.d/THEORY-755.md)'s exact aggregation of block sums
   needs equal column sums (outputs counted). That transposition is the
   record's observation, not the paper's, which never mentions equitable
-  partitions. It adds a nonlinear case to CLAIM-157's "groupings that close
+  partitions. It adds a nonlinear case to [CLAIM-157](../claims.d/CLAIM-157.md)'s "groupings that close
   without being blocks". The quotient network is an exact reduced
   description of the synchronous states, and synchronized cells need not
   interact at all (Example 5.1).
@@ -380,5 +380,5 @@ synchronized cells being coupled to each other.
   Dias and Stewart [5].
 - Do the §10 extensions (Markov chains, cellular automata, SDEs) give
   theorems of the same form? Asserted, not shown (p. 645). For Markov
-  chains, the record's THEORY-822 (strong lumpability) is a candidate
+  chains, the record's [THEORY-822](../theory.d/THEORY-822.md) (strong lumpability) is a candidate
   answer, joined to this paper only by the record's reading.

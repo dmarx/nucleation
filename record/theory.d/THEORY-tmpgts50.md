@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmp4mxqc
 summary: >-
-  Simon (1973), LIT-tmp4mxqc, read in NOTE-tmpy78q5 from a scan of the
+  Simon (1973), [LIT-tmp4mxqc](../literature.d/LIT-tmp4mxqc.md), read in [NOTE-tmpy78q5](../notes.d/NOTE-tmpy78q5.md) from a scan of the
   published article. Active as a conceptual argument the paper makes in
   full: six conditions for a well structured problem, read with condition
   6 as practicable computation, worked through for theorem proving and
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Simon (1973), LIT-tmp4mxqc, §§2–2.4 and §3.6 (pp. 182–187, 197); read in
-NOTE-tmpy78q5.
+Simon (1973), [LIT-tmp4mxqc](../literature.d/LIT-tmp4mxqc.md), §§2–2.4 and §3.6 (pp. 182–187, 197); read in
+[NOTE-tmpy78q5](../notes.d/NOTE-tmpy78q5.md).
 
 ## What was actually shown
 
@@ -69,7 +69,7 @@ computability is what moves the boundary (p. 197).
   not ill structured (p. 187), and the "no WSPs" sentence is hedged and about
   problems "presented … by the world" (p. 186).
 - **That ill-structuredness needs new mechanisms.** That is the paper's
-  further and weaker thesis (THEORY-tmpq9x5h).
+  further and weaker thesis ([THEORY-tmpq9x5h](THEORY-tmpq9x5h.md)).
 - **Anything about questions or inquiry.** The paper's terms are problems,
   problem spaces and solvers; carrying it to what an agent can ask is the
-  record's own step (CLAIM-tmpi1bjh).
+  record's own step ([CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md)).

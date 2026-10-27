@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmppgt2i), from arXiv v3, which is the
+  read in full 2026-10-27 ([NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md)), from arXiv v3, which is the
   journal's typeset text; worth reading as the definition of RQM's stable
   facts: a fact relative to one system is stable for another when the other
   may sum over it classically, which decoherence gives to order ε, only for
@@ -71,7 +71,7 @@ summary: >-
 
 Di Biagio, A., & Rovelli, C. (2021). Stable facts, relative facts. *Foundations of Physics*, 51(1), 30. doi:10.1007/s10701-021-00429-w.
 
-Read in full on 2026-10-27 (NOTE-tmppgt2i).
+Read in full on 2026-10-27 ([NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md)).
 
 ## Why this is here
 
