@@ -7,18 +7,18 @@ title: How should the sufficiency of a retained state be judged when the family
   of future decisions can itself change in response to what the inquiry finds?
 version: 3
 history:
-- version: 3
-  date: '2026-10-27'
-  note: >-
-    Status review of 2026-10-27 (ADR-049). A8's question, which A10
-    answered, is QUESTION-tmpgjyn2, Answered by CLAIM-300. This question
-    keeps what A10 left: a decision family that changes with the inquiry.
 - version: 2
   date: '2026-10-22'
   note: >-
     Note of 2026-10-22 added after the Ledger of Will was read
     (NOTE-1091): a partial answer for a revision family declared in
     advance. The question stays open.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Status review of 2026-10-27 (ADR-049). A8's question, which A10
+    answered, is QUESTION-tmpgjyn2, Answered by CLAIM-300. This question
+    keeps what A10 left: a decision family that changes with the inquiry.
 tags:
 - epistemology
 - mathematical-statistics
