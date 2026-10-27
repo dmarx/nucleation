@@ -151,43 +151,43 @@ It descends from the authors' feature visualization and Building Blocks
 articles (Distill 2017, 2018), from Network Dissection and from the
 convergent-learning literature (Li et al. 2015, SVCCA, CKA), and borrows
 motifs from Alon's systems biology. Its superposition case is the one
-Toy Models of Superposition (LIT-323) later models in toy settings. The
-transformer programme that follows, the mathematical framework (LIT-tmp9dono)
-and the induction-head paper (LIT-tmpe7b5o), rethinks it for attention:
+Toy Models of Superposition ([LIT-323](../literature.d/LIT-323.md)) later models in toy settings. The
+transformer programme that follows, the mathematical framework ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md))
+and the induction-head paper ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)), rethinks it for attention:
 the framework's authors say the Circuits approach "needs to be significantly
 rethought" there, because the residual stream has no privileged basis.
 
 ## Bearing on the record
 
-- **QUESTION-tmpivbso.** The question couples feature allocation with
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The question couples feature allocation with
   circuit interaction. This essay is where the two units are separated and
   joined: features as nodes, circuits as their weighted connections. It
   gives the question its terms, and it gives no development: every claim
   is about one trained network at one time.
-- **CLAIM-tmpwr001.** The claim says a recovered feature is at most a
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The claim says a recovered feature is at most a
   constituent of a perspective, whose organization lies in relations among
   its carriers. Zoom In's Claim 2 is the network analogue: a feature is
   the unit, and what the network computes is in the circuit, the weights
   between features. The analogy is the record's, not the paper's. And the
   essay's own warning, polysemanticity, is the case where the feature
   cannot be read off one carrier at all.
-- **THEORY-802, QUESTION-234 and THEORY-018.** "Features correspond to
+- **[THEORY-802](../theory.d/THEORY-802.md), [QUESTION-234](../questions.d/QUESTION-234.md) and [THEORY-018](../theory.d/THEORY-018.md).** "Features correspond to
   directions" is the assumption that those entries examine. Zoom In takes
   neurons as the default basis because a ReLU makes it privileged; it
   does not ask whether a direction that mediates a variable is unique. The
-  mathematical framework (LIT-tmp9dono) adds that the residual stream has
-  no privileged basis, which is where THEORY-802's non-uniqueness bites.
-- **CLAIM-263.** A test for whether two trained networks compute the same
+  mathematical framework ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md)) adds that the residual stream has
+  no privileged basis, which is where [THEORY-802](../theory.d/THEORY-802.md)'s non-uniqueness bites.
+- **[CLAIM-263](../claims.d/CLAIM-263.md).** A test for whether two trained networks compute the same
   way is a test of universality for a pair of networks. Zoom In states
   what such a test would need ("the same weight structure forms between
-  them in each model") and offers only anecdote. THEORY-tmpgz1nk holds the
+  them in each model") and offers only anecdote. [THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md) holds the
   claim as Proposed.
-- **LIT-323.** The car-in-dog-neurons circuit is the observation that Toy
+- **[LIT-323](../literature.d/LIT-323.md).** The car-in-dog-neurons circuit is the observation that Toy
   Models of Superposition generalizes. The essay's explanation (almost
   orthogonal directions, features that do not co-occur) is the one that
   paper then demonstrates in toy models.
-- **Accounts filed.** THEORY-tmpx97zh (Proposed): features and circuits
-  in trained vision networks. THEORY-tmpgz1nk (Proposed): universality.
+- **Accounts filed.** [THEORY-tmpx97zh](../theory.d/THEORY-tmpx97zh.md) (Proposed): features and circuits
+  in trained vision networks. [THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md) (Proposed): universality.
 
 No instruction for machine-learning practice is drawn; the essay's methods
 are interpretability practice, which is the anthology's

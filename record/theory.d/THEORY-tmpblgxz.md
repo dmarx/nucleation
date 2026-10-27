@@ -17,7 +17,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpqtkua
 summary: >-
-  Chan et al. (2022), LIT-tmpqtkua, read in NOTE-tmp4zrzd. In the
+  Chan et al. (2022), [LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md), read in [NOTE-tmp4zrzd](../notes.d/NOTE-tmp4zrzd.md). In the
   causal-scrubbing algorithm an interpretation node enters only through
   sample_agreeing_x, which draws a datum with an equal value of that node,
   so only the equivalence classes the node induces on the dataset matter.
@@ -34,7 +34,7 @@ summary: >-
 
 Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt, Nitishinskaya,
 Radhakrishnan, Shlegeris and Thomas (2022), *Causal scrubbing*,
-LIT-tmpqtkua, read in full in NOTE-tmp4zrzd: §2 (hypotheses), §3.2 (the
+[LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md), read in full in [NOTE-tmp4zrzd](../notes.d/NOTE-tmp4zrzd.md): §2 (hypotheses), §3.2 (the
 algorithm and pseudocode) and §7 (limitations).
 
 ## What was actually shown
@@ -88,12 +88,12 @@ which "is not strong enough to eliminate all incorrect hypotheses".
 
 ## Connections
 
-- **THEORY-802 and QUESTION-234.** A hypothesis may rewrite G, for
+- **[THEORY-802](THEORY-802.md) and [QUESTION-234](../questions.d/QUESTION-234.md).** A hypothesis may rewrite G, for
   example into rotated coordinates, before mapping into it. Two
   alignments related by a change of basis that induce the same partitions
   of D therefore tie under causal scrubbing by construction. That is a
-  tie of the kind THEORY-802 asserts, but for a reason that holds of the
-  instrument, not of trained networks, so it does not meet THEORY-802's
+  tie of the kind [THEORY-802](THEORY-802.md) asserts, but for a reason that holds of the
+  instrument, not of trained networks, so it does not meet [THEORY-802](THEORY-802.md)'s
   promote_when.
-- **CLAIM-tmpwr001.** What passes the test is a partition of the data,
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** What passes the test is a partition of the data,
   not the variable that does the work.

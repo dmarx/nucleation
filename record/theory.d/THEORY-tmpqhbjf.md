@@ -18,8 +18,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpsavwt
 summary: >-
-  Geiger, Wu, Potts, Icard & Goodman (2024), LIT-tmpsavwt, §4.4, read in
-  NOTE-tmpzb21n. A random network cannot implement hierarchical equality,
+  Geiger, Wu, Potts, Icard & Goodman (2024), [LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md), §4.4, read in
+  [NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md). A random network cannot implement hierarchical equality,
   so any IIA above 0.5 is made by the search. At widths near the input's
   there is none; at 4,096 there are 14 points. It does not say DAS
   results on trained networks are artefacts: the trained equality network
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Geiger, Wu, Potts, Icard and Goodman (2024), LIT-tmpsavwt, read in full
-in NOTE-tmpzb21n: §4.4 and Figure 3.
+Geiger, Wu, Potts, Icard and Goodman (2024), [LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md), read in full
+in [NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md): §4.4 and Figure 3.
 
 ## What was actually shown
 
@@ -62,13 +62,13 @@ network does not have.
 
 ## Connections
 
-- **THEORY-tmp4lqc8.** MIB's best causal-variable method is DAS, trained
+- **[THEORY-tmp4lqc8](THEORY-tmp4lqc8.md).** MIB's best causal-variable method is DAS, trained
   against the model it is scored on; this is the only measured bound in
   the record on how much such training can manufacture.
-- **LIT-968 (NOTE-782).** Makelov et al.'s illusion is a mechanism by
+- **[LIT-968](../literature.d/LIT-968.md) ([NOTE-782](../notes.d/NOTE-782.md)).** Makelov et al.'s illusion is a mechanism by
   which a learned subspace patch can change behaviour without the
   variable being there; this control shows the size of the effect grows
   with width.
-- **THEORY-802.** An abstraction that passes only because the search is
+- **[THEORY-802](THEORY-802.md).** An abstraction that passes only because the search is
   expressive is one more way an interchange test underdetermines what the
   network computes.

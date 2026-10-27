@@ -20,7 +20,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpj9tel
 summary: >-
-  Wang et al. (2022), LIT-tmpj9tel, read in NOTE-tmp1iis8: §§3–4 and the
+  Wang et al. (2022), [LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md), read in [NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md): §§3–4 and the
   appendices. The circuit implements "identify the names, remove the
   duplicated one, output the rest" through duplicate-token, induction and
   previous-token heads, S-inhibition heads and name movers, with negative
@@ -36,7 +36,7 @@ summary: >-
 ## Source
 
 Wang, Variengien, Conmy, Shlegeris and Steinhardt (2022), arXiv:2211.00593,
-LIT-tmpj9tel, read in full in NOTE-tmp1iis8.
+[LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md), read in full in [NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md).
 
 ## What was actually shown
 
@@ -85,15 +85,15 @@ weaker paper.
 - **Not independent of the ablation.** "Knocked out" means replaced by the
   per-template mean over p_ABC; another reference distribution defines
   another circuit function.
-- **Not why the backups exist.** That is THEORY-tmpmd4za.
+- **Not why the backups exist.** That is [THEORY-tmpmd4za](THEORY-tmpmd4za.md).
 
 ## Connections
 
-- **THEORY-282, LIT-968.** Makelov et al. find a faithful residual-stream
+- **[THEORY-282](THEORY-282.md), [LIT-968](../literature.d/LIT-968.md).** Makelov et al. find a faithful residual-stream
   direction after layer 8 written only by the S-inhibition heads, and an
   illusory one in MLP8, in this task and model.
-- **THEORY-tmp4lqc8.** MIB's IOI variables sit on the S-inhibition heads
+- **[THEORY-tmp4lqc8](THEORY-tmp4lqc8.md).** MIB's IOI variables sit on the S-inhibition heads
   named here.
-- **THEORY-tmpb4xka.** The previous-token → induction K-composition first
+- **[THEORY-tmpb4xka](THEORY-tmpb4xka.md).** The previous-token → induction K-composition first
   read in a two-layer toy reappears here, with the induction heads'
   output used as a position pointer.

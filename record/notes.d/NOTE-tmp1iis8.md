@@ -146,12 +146,12 @@ knockouts, by comparing circuit and model with the same parts removed.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | In GPT-2 small on p_IOI, 26 heads in seven classes carry most of the logit difference by the algorithm described | strong for these templates and this model | path patching at each step, attention analyses, faithfulness 87% (THEORY-tmpccb5u) |
+| C1 | In GPT-2 small on p_IOI, 26 heads in seven classes carry most of the logit difference by the algorithm described | strong for these templates and this model | path patching at each step, attention analyses, faithfulness 87% ([THEORY-tmpccb5u](../theory.d/THEORY-tmpccb5u.md)) |
 | C2 | The circuit is complete | refuted by the paper itself | greedy knockouts give incompleteness up to 87% |
 | C3 | S-inhibition heads carry position and token signals, position the larger | strong | Appendix A, six counterfactual datasets, linear fit with 7% error |
 | C4 | Induction and duplicate-token heads supply the position signal | moderate | patching from altered-position datasets (≥ 88% vs < 8%); the authors list missing weight-level checks |
 | C5 | Backup heads compensate when name movers are knocked out | strong as an observation | Figure 15 |
-| C6 | Dropout in training causes the compensation | hypothesis | none offered beyond its plausibility (THEORY-tmpmd4za) |
+| C6 | Dropout in training causes the compensation | hypothesis | none offered beyond its plausibility ([THEORY-tmpmd4za](../theory.d/THEORY-tmpmd4za.md)) |
 | C7 | Negative name movers hedge to avoid high loss on mistakes | speculation | stated as such |
 | C8 | Mechanistic understanding of large models is feasible | weak | one task in one 117M-parameter model; preliminary look at GPT-2 medium |
 
@@ -173,50 +173,50 @@ knockouts, by comparing circuit and model with the same parts removed.
 
 ## Connections
 
-It builds on Elhage et al.'s framework (LIT-tmp9dono) for its notation and
-its induction and previous-token heads, on Olsson et al. (LIT-tmpe7b5o) for
+It builds on Elhage et al.'s framework ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md)) for its notation and
+its induction and previous-token heads, on Olsson et al. ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) for
 the induction-head tests, on causal mediation analysis (Vig et al. 2020),
 on Geiger et al.'s causal abstraction, and on Nanda and Lieberum's mean
-ablation. Meng et al.'s ROME (LIT-tmpajpeb) is cited as kindred work. Its
+ablation. Meng et al.'s ROME ([LIT-tmpajpeb](../literature.d/LIT-tmpajpeb.md)) is cited as kindred work. Its
 circuit is the basis of later benchmarks, among them MIB's IOI tasks
-(LIT-tmprlq7z) and the InterpBench model MIB uses, and of Makelov et al.'s
-illusion (LIT-968).
+([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)) and the InterpBench model MIB uses, and of Makelov et al.'s
+illusion ([LIT-968](../literature.d/LIT-968.md)).
 
 ## Bearing on the record
 
-- **LIT-968 and THEORY-282.** Makelov et al. show the subspace-patching
+- **[LIT-968](../literature.d/LIT-968.md) and [THEORY-282](../theory.d/THEORY-282.md).** Makelov et al. show the subspace-patching
   illusion on MLP8 of GPT-2 small for this task, and a faithful
   residual-stream direction after layer 8 that is "written only by the
   S-inhibition heads" and read by the name movers. That is this circuit's
   S-inhibition → name mover link, found again by a different method, and
   a check on it that the record now holds.
-- **LIT-tmprlq7z, THEORY-tmp4lqc8.** MIB's IOI causal variables are on the
+- **[LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md), [THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md).** MIB's IOI causal variables are on the
   four S-inhibition heads named here, and its finding that token and
   position signals can be disentangled at head level is this paper's
   Appendix A, re-run.
-- **CLAIM-tmpwr001.** Induction heads here do something other than what
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** Induction heads here do something other than what
   defines them: their output serves as a pointer to a position. What a
   component contributes depends on the circuit it is in, and is not read
   off its own response profile. The analogy to the claim (a mode is not a
   perspective apart from the relations among its carriers) is the
   record's.
-- **THEORY-tmpgz1nk.** Within one model the paper finds reuse of a known
+- **[THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md).** Within one model the paper finds reuse of a known
   component type, but it gives no evidence across models; the GPT-2 medium
   look found a different pattern at the name-mover stage.
-- **CLAIM-367 and CASE-113.** The dropout hypothesis attributes a property
+- **[CLAIM-367](../claims.d/CLAIM-367.md) and [CASE-113](../cases.d/CASE-113.md).** The dropout hypothesis attributes a property
   of the trained network, redundancy that hides components from
   knockouts, to a condition of training. It is a candidate case of a
   network property whose source lies with the training regime, not the
-  network. It is untested here (THEORY-tmpmd4za).
-- **QUESTION-tmpivbso and THEORY-tmpoirdq.** The paper reads one trained
+  network. It is untested here ([THEORY-tmpmd4za](../theory.d/THEORY-tmpmd4za.md)).
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md) and [THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md).** The paper reads one trained
   model. Its circuit, its backups and its completeness test are the
   measurements a developmental study would track over checkpoints, and the
   backups are a warning for any circuit-only description fitted to one
   checkpoint: knockouts at one time reveal heads that ordinary operation
-  hides. THEORY-tmpoirdq's circuits before and after fine-tuning use the
+  hides. [THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)'s circuits before and after fine-tuning use the
   same kind of circuit discovery.
-- **Accounts filed.** THEORY-tmpccb5u (Active): the circuit and its three
-  tests, as measured. THEORY-tmpmd4za (Proposed): the dropout hypothesis.
+- **Accounts filed.** [THEORY-tmpccb5u](../theory.d/THEORY-tmpccb5u.md) (Active): the circuit and its three
+  tests, as measured. [THEORY-tmpmd4za](../theory.d/THEORY-tmpmd4za.md) (Proposed): the dropout hypothesis.
 
 No instruction for machine-learning practice is drawn; the methods are
 interpretability practice, the anthology's (`anthology-candidate`).

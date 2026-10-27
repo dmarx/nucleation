@@ -22,7 +22,7 @@ date: '2026-10-26'
 source:
 - LIT-tmp9dono
 summary: >-
-  Elhage et al. (2021), LIT-tmp9dono, read in NOTE-tmpx60d8: Analyzing a
+  Elhage et al. (2021), [LIT-tmp9dono](../literature.d/LIT-tmp9dono.md), read in [NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md): Analyzing a
   Two-Layer Model, Induction Heads, Term Importance Analysis, and the
   Correction. Composition between heads was scored by a normalized
   Frobenius norm of matrix products, minus its value for random matrices.
@@ -38,8 +38,8 @@ summary: >-
 
 ## Source
 
-Elhage, Nanda, Olsson et al. (2021), LIT-tmp9dono, read in full in
-NOTE-tmpx60d8, from the current article page with its correction.
+Elhage, Nanda, Olsson et al. (2021), [LIT-tmp9dono](../literature.d/LIT-tmp9dono.md), read in full in
+[NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md), from the current article page with its correction.
 
 ## What was actually shown
 
@@ -88,17 +88,17 @@ virtual heads could have mattered in aggregate.
 - **Not that the minimal circuit is the whole story.** The correction adds
   composition with a several-token head.
 - **Not about MLPs or large models.** The extension to large models is
-  THEORY-tmp8cat0 (small models, causal) and THEORY-tmpkd3fq (large
+  [THEORY-tmp8cat0](THEORY-tmp8cat0.md) (small models, causal) and [THEORY-tmpkd3fq](THEORY-tmpkd3fq.md) (large
   models, Proposed), from the next paper.
 - **Not about training.** One trained model, read once.
 
 ## Connections
 
-- **THEORY-tmphm85g** is the decomposition used.
-- **THEORY-tmp8cat0** finds such heads forming in one window of training in
+- **[THEORY-tmphm85g](THEORY-tmphm85g.md)** is the decomposition used.
+- **[THEORY-tmp8cat0](THEORY-tmp8cat0.md)** finds such heads forming in one window of training in
   small attention-only models and carrying their in-context learning.
-- **THEORY-tmp9uzkw and THEORY-tmp1dufu** track previous-token and
+- **[THEORY-tmp9uzkw](THEORY-tmp9uzkw.md) and [THEORY-tmp1dufu](THEORY-tmp1dufu.md)** track previous-token and
   induction heads over training in a two-layer attention-only model on the
   Pile, the developmental counterpart of this snapshot.
-- **THEORY-tmpvqsx2 and THEORY-tmpdxhxm** analyse the gradient dynamics of
+- **[THEORY-tmpvqsx2](THEORY-tmpvqsx2.md) and [THEORY-tmpdxhxm](THEORY-tmpdxhxm.md)** analyse the gradient dynamics of
   such an induction circuit in a two-layer attention-only model.

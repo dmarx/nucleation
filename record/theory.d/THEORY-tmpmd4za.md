@@ -27,7 +27,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpj9tel
 summary: >-
-  Wang et al. (2022), LIT-tmpj9tel, read in NOTE-tmp1iis8, §3.4: "We
+  Wang et al. (2022), [LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md), read in [NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md), §3.4: "We
   hypothesize that this compensation phenomenon is caused by the use of
   dropout during training. Thus, the model was optimized for robustness to
   dysfunctional parts." The compensation is real (a 5% loss of logit
@@ -41,7 +41,7 @@ summary: >-
 
 ## Source
 
-Wang et al. (2022), LIT-tmpj9tel, read in full in NOTE-tmp1iis8: §3.4 and
+Wang et al. (2022), [LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md), read in full in [NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md): §3.4 and
 Appendix F.
 
 ## What is asserted
@@ -54,7 +54,7 @@ missing parts.
 
 ## What the record holds toward it
 
-- **The compensation**, measured (THEORY-tmpccb5u): knocking out name
+- **The compensation**, measured ([THEORY-tmpccb5u](THEORY-tmpccb5u.md)): knocking out name
   movers 9.9, 9.6 and 10.0 costs 5% of the logit difference, the negative
   name movers become less negative (10.7 turns positive), and eight backup
   heads become the main contributors.
@@ -74,8 +74,8 @@ or without dropout.
 
 ## Connections
 
-- **CLAIM-367 and CASE-113.** If it holds, it is a case of a property of a
+- **[CLAIM-367](../claims.d/CLAIM-367.md) and [CASE-113](../cases.d/CASE-113.md).** If it holds, it is a case of a property of a
   trained network (redundancy that hides components from single
   knockouts) whose source is a condition of the training regime, the
-  optimizer–model–data system of CLAIM-367, not the network alone.
-- **THEORY-tmpccb5u** holds the compensation this would explain.
+  optimizer–model–data system of [CLAIM-367](../claims.d/CLAIM-367.md), not the network alone.
+- **[THEORY-tmpccb5u](THEORY-tmpccb5u.md)** holds the compensation this would explain.

@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpz2cvc) in full, from arXiv v1, with the
+  read 2026-10-26 ([NOTE-tmpz2cvc](../notes.d/NOTE-tmpz2cvc.md)) in full, from arXiv v1, with the
   comparison figures read from page renderings; worth reading as the
   systematic test of attribution patching against exhaustive activation
   patching on models up to 12B, for the two named causes of its misses
   (saturated attention, cancelling direct and indirect effects) and their
   fixes, and for the statistical bound on what is still missed
-  (THEORY-tmpo1u9l). Read it knowing that the ground truth is single-node
+  ([THEORY-tmpo1u9l](../theory.d/THEORY-tmpo1u9l.md)). Read it knowing that the ground truth is single-node
   noising on one model family and five settings, that only ranks are
   scored, that the numbers are only in charts, and that AtP* is not the
   cheapest variant on its two distributions.
@@ -76,8 +76,8 @@ Activation patching at industrial scale. Blog post, 4 February 2023,
 https://www.neelnanda.io/mechanistic-interpretability/attribution-patching
 (cited in the paper as "Nanda, 2022", the year of the underlying work).
 
-Read in full on 2026-10-26 (NOTE-tmpz2cvc). Two accounts were drawn from
-it: THEORY-tmpo1u9l and THEORY-tmpq26u7.
+Read in full on 2026-10-26 ([NOTE-tmpz2cvc](../notes.d/NOTE-tmpz2cvc.md)). Two accounts were drawn from
+it: [THEORY-tmpo1u9l](../theory.d/THEORY-tmpo1u9l.md) and [THEORY-tmpq26u7](../theory.d/THEORY-tmpq26u7.md).
 
 ## Why this is here
 
@@ -86,7 +86,7 @@ theory; the answer found it held almost none of the core circuits
 literature, and the owner said "go ahead and register and read those".
 Attribution patching is the cheap estimate that made circuit search scale
 to large models; its edge version with integrated gradients is how
-LIT-tmpf4hwb (THEORY-tmpoirdq) and MIB's circuit track (LIT-tmprlq7z)
+[LIT-tmpf4hwb](LIT-tmpf4hwb.md) ([THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)) and MIB's circuit track ([LIT-tmprlq7z](LIT-tmprlq7z.md))
 find circuits, so the record held results built on it without the method
 or its failure modes. This paper is registered for it, rather than
 Nanda's post, because it tests the method against ground truth.

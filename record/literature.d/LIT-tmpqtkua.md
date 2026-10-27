@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmp4zrzd) in full, the main post of the sequence
+  read 2026-10-26 ([NOTE-tmp4zrzd](../notes.d/NOTE-tmp4zrzd.md)) in full, the main post of the sequence
   from the Alignment Forum; worth reading for the method that turns a
   circuit hypothesis into a mechanical test, for the argument for
   resampling ablation that later circuit work adopts, and for its own
   list of the ways a hypothesis can pass while wrong. Read it knowing
   that the test sees only the partitions of the data a hypothesis induces
-  (THEORY-tmpblgxz), that its two applications are summarized here and
+  ([THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md)), that its two applications are summarized here and
   detailed in companion posts the record has not read, and that hypotheses
   recovering 72% to 86% are accepted under a test that permits only exact
   swaps.
@@ -71,8 +71,8 @@ Nitishinskaya, J., Radhakrishnan, A., Shlegeris, B. & Thomas, N. (2022).
 Causal scrubbing: a method for rigorously testing interpretability
 hypotheses. *AI Alignment Forum*, 3 December 2022.
 
-Read in full on 2026-10-26 (NOTE-tmp4zrzd); the companion posts were not
-read. One account was drawn from it: THEORY-tmpblgxz.
+Read in full on 2026-10-26 ([NOTE-tmp4zrzd](../notes.d/NOTE-tmp4zrzd.md)); the companion posts were not
+read. One account was drawn from it: [THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md).
 
 ## Why this is here
 
@@ -81,9 +81,9 @@ theory; the answer found it held almost none of the core circuits
 literature, and the owner said "go ahead and register and read those".
 This is the method by which a circuit hypothesis is tested rather than
 illustrated, and the source of the resampling-ablation convention that
-ACDC (LIT-tmpoku9b) and AtP* (LIT-tmp4de8g) use. The record's circuits
-line held induction heads (LIT-tmpe7b5o), grokking (LIT-345) and the
-causal-abstraction readings (LIT-961, LIT-968, LIT-1310), but no account of
-how a stated circuit is checked. It bears on QUESTION-234 and THEORY-802:
+ACDC ([LIT-tmpoku9b](LIT-tmpoku9b.md)) and AtP* ([LIT-tmp4de8g](LIT-tmp4de8g.md)) use. The record's circuits
+line held induction heads ([LIT-tmpe7b5o](LIT-tmpe7b5o.md)), grokking ([LIT-345](LIT-345.md)) and the
+causal-abstraction readings ([LIT-961](LIT-961.md), [LIT-968](LIT-968.md), [LIT-1310](LIT-1310.md)), but no account of
+how a stated circuit is checked. It bears on [QUESTION-234](../questions.d/QUESTION-234.md) and [THEORY-802](../theory.d/THEORY-802.md):
 its score depends only on the partitions a hypothesis induces, so
 basis-related hypotheses can tie by construction.

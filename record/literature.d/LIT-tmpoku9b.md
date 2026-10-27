@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmp6m8zr) in full, from arXiv v4, the NeurIPS 2023
+  read 2026-10-26 ([NOTE-tmp6m8zr](../notes.d/NOTE-tmp6m8zr.md)) in full, from arXiv v4, the NeurIPS 2023
   version; worth reading for the workflow it names behind manual circuit
   discovery, for ACDC as that workflow's patching step made into an
   algorithm, and for the first scoring of circuit-finding methods against
-  circuits found by hand (THEORY-tmp77xju). Read it knowing that the
+  circuits found by hand ([THEORY-tmp77xju](../theory.d/THEORY-tmp77xju.md)). Read it knowing that the
   hand-found circuits are themselves partial, that the results move with
   the metric, the ablation and the order of visiting edges, that sparse
   runs miss negative components, that an OR gate keeps one input
-  (THEORY-tmp1bwxc), and that §4.1 claims a tracr-reverse lead its own
+  ([THEORY-tmp1bwxc](../theory.d/THEORY-tmp1bwxc.md)), and that §4.1 claims a tracr-reverse lead its own
   Table 2 does not show.
 title: 'Towards Automated Circuit Discovery for Mechanistic Interpretability'
 version: 2
@@ -69,8 +69,8 @@ Garriga-Alonso, A. (2023). Towards automated circuit discovery for
 mechanistic interpretability. *Advances in Neural Information Processing
 Systems 36 (NeurIPS 2023)*. arXiv:2304.14997.
 
-Read in full on 2026-10-26 (NOTE-tmp6m8zr). Two accounts were drawn from
-it: THEORY-tmp77xju and THEORY-tmp1bwxc.
+Read in full on 2026-10-26 ([NOTE-tmp6m8zr](../notes.d/NOTE-tmp6m8zr.md)). Two accounts were drawn from
+it: [THEORY-tmp77xju](../theory.d/THEORY-tmp77xju.md) and [THEORY-tmp1bwxc](../theory.d/THEORY-tmp1bwxc.md).
 
 ## Why this is here
 
@@ -79,8 +79,8 @@ theory; the answer found it held almost none of the core circuits
 literature, and the owner said "go ahead and register and read those".
 ACDC is the reference algorithm for finding a circuit rather than
 testing one, and the ancestor of the edge-attribution methods behind
-LIT-tmpf4hwb (THEORY-tmpoirdq) and benchmarked by MIB (LIT-tmprlq7z),
+[LIT-tmpf4hwb](LIT-tmpf4hwb.md) ([THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)) and benchmarked by MIB ([LIT-tmprlq7z](LIT-tmprlq7z.md)),
 which the record held without their source. It is the search counterpart
-of causal scrubbing (LIT-tmpqtkua), runs on the induction setting of
-LIT-tmpe7b5o and QUESTION-tmpivbso, and its OR-gate case bears on
-THEORY-802's several correct explanations.
+of causal scrubbing ([LIT-tmpqtkua](LIT-tmpqtkua.md)), runs on the induction setting of
+[LIT-tmpe7b5o](LIT-tmpe7b5o.md) and [QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md), and its OR-gate case bears on
+[THEORY-802](../theory.d/THEORY-802.md)'s several correct explanations.

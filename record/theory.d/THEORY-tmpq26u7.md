@@ -33,8 +33,8 @@ source:
 extends:
 - THEORY-tmpo1u9l
 summary: >-
-  Kramár, Lieberum, Shah & Nanda (2024), LIT-tmp4de8g, read in
-  NOTE-tmpz2cvc. The measured case is four Pythia models, three prompt
+  Kramár, Lieberum, Shah & Nanda (2024), [LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md), read in
+  [NOTE-tmpz2cvc](../notes.d/NOTE-tmpz2cvc.md). The measured case is four Pythia models, three prompt
   pairs and two small distributions. The paper's own diagnostic is what
   would let a single new setting be checked without exhaustive patching.
 ---
@@ -42,19 +42,19 @@ summary: >-
 
 ## Source
 
-Kramár, Lieberum, Shah and Nanda (2024), LIT-tmp4de8g, read in full in
-NOTE-tmpz2cvc: §5.1 (limitations) and §5.4 (recommendations).
+Kramár, Lieberum, Shah and Nanda (2024), [LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md), read in full in
+[NOTE-tmpz2cvc](../notes.d/NOTE-tmpz2cvc.md): §5.1 (limitations) and §5.4 (recommendations).
 
 ## What is asserted
 
-That what THEORY-tmpo1u9l measured in Pythia holds for transformer
+That what [THEORY-tmpo1u9l](THEORY-tmpo1u9l.md) measured in Pythia holds for transformer
 language models of other families and larger sizes, on tasks beyond the
 five tried: gradient-ordered verification, with the softmax corrected,
 misses few large-effect nodes.
 
 ## What the record holds toward it
 
-- THEORY-tmpo1u9l (Active): four Pythia sizes, five settings.
+- [THEORY-tmpo1u9l](THEORY-tmpo1u9l.md) (Active): four Pythia sizes, five settings.
 - The failure modes are understood mechanistically (saturation,
   cancellation), which is a reason to expect transfer and also names
   where it could fail: models with sharper attention or more cancellation.

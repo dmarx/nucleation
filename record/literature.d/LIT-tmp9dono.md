@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpx60d8) in full, from the Transformer Circuits
+  read 2026-10-26 ([NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md)) in full, from the Transformer Circuits
   article; worth reading for the exact decomposition of an attention-only
   transformer into end-to-end paths and of each head into separable QK and
-  OV circuits (THEORY-tmphm85g, re-derived and checked by the record), for
+  OV circuits ([THEORY-tmphm85g](../theory.d/THEORY-tmphm85g.md), re-derived and checked by the record), for
   the three kinds of head composition, and as the paper in which induction
   heads are found, by K-composition with a previous-token head, in a
-  two-layer attention-only model (THEORY-tmpb4xka). Read it knowing that
+  two-layer attention-only model ([THEORY-tmpb4xka](../theory.d/THEORY-tmpb4xka.md)). Read it knowing that
   the models are toys without MLPs, that the framework ignores layer norm
   and biases, that the composition diagram was corrected after publication,
   and that the interactive figures carry much of the evidence.
@@ -78,8 +78,8 @@ al. (2021). A mathematical framework for transformer circuits.
 *Transformer Circuits Thread*, 22 December 2021.
 https://transformer-circuits.pub/2021/framework/index.html
 
-Read in full on 2026-10-26 (NOTE-tmpx60d8). Two accounts were drawn from
-it: THEORY-tmphm85g and THEORY-tmpb4xka.
+Read in full on 2026-10-26 ([NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md)). Two accounts were drawn from
+it: [THEORY-tmphm85g](../theory.d/THEORY-tmphm85g.md) and [THEORY-tmpb4xka](../theory.d/THEORY-tmpb4xka.md).
 
 ## Why this is here
 
@@ -87,10 +87,10 @@ Registered and read at the owner's request of 2026-10-26, after an answer to
 "how's the record on neural circuit theory?" found that the record held
 almost none of the core circuits literature. The record's transformer
 circuits line rested on this paper without holding it. The induction-head
-paper (LIT-tmpe7b5o) takes its induction head and its K-composition
-mechanism from here, and THEORY-tmp8cat0 and the readings of Wang et al.'s
-refined learning coefficients (THEORY-tmp9uzkw, THEORY-tmp1dufu) and of
-Musat et al. (THEORY-tmpdxhxm, THEORY-tmpvqsx2) use its two-layer
+paper ([LIT-tmpe7b5o](LIT-tmpe7b5o.md)) takes its induction head and its K-composition
+mechanism from here, and [THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md) and the readings of Wang et al.'s
+refined learning coefficients ([THEORY-tmp9uzkw](../theory.d/THEORY-tmp9uzkw.md), [THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md)) and of
+Musat et al. ([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md), [THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md)) use its two-layer
 attention-only setting and its vocabulary of QK and OV circuits. Its
 observation that the residual stream has no privileged basis is the setting
-of THEORY-802 and THEORY-018.
+of [THEORY-802](../theory.d/THEORY-802.md) and [THEORY-018](../theory.d/THEORY-018.md).

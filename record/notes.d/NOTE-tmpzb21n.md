@@ -46,8 +46,8 @@ alignment of variables to disjoint neuron groups and searched over such
 groups by brute force; DAS searches over all orthogonal changes of basis
 by gradient descent, and aligns variables with subspaces. It is the
 method MIB later found best for causal-variable localization
-(THEORY-tmp4lqc8) and the method whose subspace patches Makelov et al.
-(LIT-968) and Wu et al.'s reply (LIT-961) argue over.
+([THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)) and the method whose subspace patches Makelov et al.
+([LIT-968](../literature.d/LIT-968.md)) and Wu et al.'s reply ([LIT-961](../literature.d/LIT-961.md)) argue over.
 
 ## Key insight
 
@@ -130,9 +130,9 @@ basis should be searched, not assumed.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | A localist failure can be a failure of basis, not of the algorithm | demonstrated | the boolean example (re-computed) |
-| C2 | In the trained equality network and in fine-tuned BERT, learned rotations give near-perfect IIA where localist alignments do not | strong for these two networks, on the rotation's training data | Tables 1–2 (THEORY-tmpgqlal) |
+| C2 | In the trained equality network and in fine-tuned BERT, learned rotations give near-perfect IIA where localist alignments do not | strong for these two networks, on the rotation's training data | Tables 1–2 ([THEORY-tmpgqlal](../theory.d/THEORY-tmpgqlal.md)) |
 | C3 | The equality network's relation representation does not decompose into the inputs' identities; BERT's entailment representation does | moderate | last columns of Tables 1–2 |
-| C4 | DAS cannot construct new behaviour from random structure | weak: true at small widths, contradicted in part at 4096 | Figure 3 (THEORY-tmpqhbjf) |
+| C4 | DAS cannot construct new behaviour from random structure | weak: true at small widths, contradicted in part at 4096 | Figure 3 ([THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md)) |
 | C5 | Gradient search is faster than exhaustive brute force | strong | Appendix B |
 
 ## Concepts
@@ -149,22 +149,22 @@ basis should be searched, not assumed.
 ## Connections
 
 It extends causal abstraction (Geiger et al. 2021) and approximate
-abstraction (Beckers, Eberhardt and Halpern, LIT-1310; Geiger et al.
-2023), and counts circuit analyses, causal scrubbing (LIT-tmpqtkua)
+abstraction (Beckers, Eberhardt and Halpern, [LIT-1310](../literature.d/LIT-1310.md); Geiger et al.
+2023), and counts circuit analyses, causal scrubbing ([LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md))
 among them, as causal abstraction. Its successors in the record are
-Boundless DAS (cited by Wu et al., LIT-961), the critique of subspace
-patching by Makelov et al. (LIT-968), MIB's causal-variable track
-(LIT-tmprlq7z, THEORY-tmp4lqc8) and LIT-987.
+Boundless DAS (cited by Wu et al., [LIT-961](../literature.d/LIT-961.md)), the critique of subspace
+patching by Makelov et al. ([LIT-968](../literature.d/LIT-968.md)), MIB's causal-variable track
+([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md), [THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)) and [LIT-987](../literature.d/LIT-987.md).
 
 ## Bearing on the record
 
-- **QUESTION-234 and THEORY-802.** Three observations.
-  - *The converse of THEORY-243.* THEORY-243 shows two basis-related
+- **[QUESTION-234](../questions.d/QUESTION-234.md) and [THEORY-802](../theory.d/THEORY-802.md).** Three observations.
+  - *The converse of [THEORY-243](../theory.d/THEORY-243.md).* [THEORY-243](../theory.d/THEORY-243.md) shows two basis-related
     alignments that tie; the boolean example shows a model that fails in
     one basis and holds in another. Together they say the verdict of an
     interchange test is relative to the decomposition into units, which
-    is THEORY-802's thesis; the boolean case is constructed, so it does
-    not meet THEORY-802's promote_when.
+    is [THEORY-802](../theory.d/THEORY-802.md)'s thesis; the boolean case is constructed, so it does
+    not meet [THEORY-802](../theory.d/THEORY-802.md)'s promote_when.
   - *A symmetry built into the instrument.* In Definition 3 the rotation
     enters only through R⁻¹ Proj_{Y_j} R, the orthogonal projector onto the
     subspace R⁻¹Y_j. Any two rotations that map the same subspaces give
@@ -172,26 +172,26 @@ patching by Makelov et al. (LIT-968), MIB's causal-variable track
     set of subspaces, and every alignment it finds ties with all its
     rotations within those subspaces. That is a uniqueness bound up to a
     stated symmetry for the instrument, not for networks, of the kind
-    QUESTION-234's second answer asks for (the record's observation; the
+    [QUESTION-234](../questions.d/QUESTION-234.md)'s second answer asks for (the record's observation; the
     paper does not state it).
   - *Two high-level models that both pass in a trained network.* In BERT
     the lexical-entailment model and, inside its subspace, the
     two-identities model both reach near-perfect IIA. They are related by
     refinement, not by a change of basis, so this is not the tie
-    THEORY-802 is about, but it is a trained-network case of more than one
+    [THEORY-802](../theory.d/THEORY-802.md) is about, but it is a trained-network case of more than one
     correct abstraction at one site.
-- **CLAIM-tmpwr001.** The MoNLI decomposition is the claim's warning met
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The MoNLI decomposition is the claim's warning met
   in a network: what was aligned as the variable that decides the label
   (entailment) turned out, one level down, to be the two inputs it is
   computed from.
-- **THEORY-tmp4lqc8.** That account notes DAS is supervised by the causal
+- **[THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md).** That account notes DAS is supervised by the causal
   model it is scored against. The random-network control is the paper's
   own measure of how much that supervision can manufacture: nothing at
   widths near the input's, 14 points above chance at 4096
-  (THEORY-tmpqhbjf).
-- **CLAIM-263.** A rotation learned per layer is one way to quotient a
+  ([THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md)).
+- **[CLAIM-263](../claims.d/CLAIM-263.md).** A rotation learned per layer is one way to quotient a
   basis symmetry before comparing mechanisms; DAS quotients it relative
-  to a hypothesis, CLAIM-263 relative to another network.
+  to a hypothesis, [CLAIM-263](../claims.d/CLAIM-263.md) relative to another network.
 
 No instruction for machine-learning practice is recorded
 (`anthology-candidate`).
@@ -226,5 +226,5 @@ No instruction for machine-learning practice is recorded
 
 - Held out, do the near-perfect alignments survive?
 - In a trained network, does a different rotation whose subspaces cross
-  the learned ones reach the same IIA? That is QUESTION-234 asked of DAS,
+  the learned ones reach the same IIA? That is [QUESTION-234](../questions.d/QUESTION-234.md) asked of DAS,
   and the paper's three seeds per cell could have shown it.

@@ -18,8 +18,8 @@ date: '2026-10-26'
 source:
 - LIT-tmpsavwt
 summary: >-
-  Geiger, Wu, Potts, Icard & Goodman (2024), LIT-tmpsavwt, read in
-  NOTE-tmpzb21n. Layer 1 of the equality network (1.00 with |N| = 16 and
+  Geiger, Wu, Potts, Icard & Goodman (2024), [LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md), read in
+  [NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md). Layer 1 of the equality network (1.00 with |N| = 16 and
   two 8-dimensional subspaces) and layer 9 of BERT's [CLS] vector (1.00
   with two 256-dimensional subspaces). It does not say the networks
   implement the algorithms in any stronger sense than interchange
@@ -34,8 +34,8 @@ summary: >-
 
 Geiger, Wu, Potts, Icard and Goodman (2024), *Finding alignments between
 interpretable causal variables and distributed neural representations*,
-CLeaR 2024, arXiv 2303.02536, LIT-tmpsavwt, read in full in
-NOTE-tmpzb21n: §§3–5, Tables 1–2, Appendix A.
+CLeaR 2024, arXiv 2303.02536, [LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md), read in full in
+[NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md): §§3–5, Tables 1–2, Appendix A.
 
 ## What was actually shown
 
@@ -81,12 +81,12 @@ decomposition, as the equality network's relation subspace did (about
 
 ## Connections
 
-- **THEORY-802 and QUESTION-234.** A trained-network case in which the
+- **[THEORY-802](THEORY-802.md) and [QUESTION-234](../questions.d/QUESTION-234.md).** A trained-network case in which the
   test's verdict depends on the basis: axis-aligned alignments fail where
   rotated ones succeed. It is not a tie between basis-related alignments
-  that agree on every interchange, which is what THEORY-802's
+  that agree on every interchange, which is what [THEORY-802](THEORY-802.md)'s
   promote_when asks for. The MoNLI pair of models that both pass is a
   case of more than one correct abstraction at one site, related by
   refinement.
-- **CLAIM-tmpwr001.** In BERT the variable aligned with the label's
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** In BERT the variable aligned with the label's
   decision decomposes into the inputs it is computed from.

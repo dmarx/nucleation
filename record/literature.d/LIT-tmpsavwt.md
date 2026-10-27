@@ -1,17 +1,17 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpzb21n) in full, from arXiv v4, the CLeaR 2024
+  read 2026-10-26 ([NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md)) in full, from arXiv v4, the CLeaR 2024
   version; worth reading for distributed interchange interventions and
   their training objective, for the exact example in which an algorithm
   fails in the neuron basis and holds after a rotation, and for the
   finding that BERT's entailment subspace decomposes into the two words'
   identities while an equality network's relation does not
-  (THEORY-tmpgqlal). Read it knowing that IIA is reported on the
+  ([THEORY-tmpgqlal](../theory.d/THEORY-tmpgqlal.md)). Read it knowing that IIA is reported on the
   rotation's training data, that Table 2's brute-force row is a copy of
   Table 1's, that the learned subspaces are fixed only up to rotations
   within them, and that its random-network control reaches 0.64 at width
-  4,096 (THEORY-tmpqhbjf).
+  4,096 ([THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md)).
 title: 'Finding Alignments Between Interpretable Causal Variables and Distributed Neural Representations'
 version: 2
 history:
@@ -69,8 +69,8 @@ alignments between interpretable causal variables and distributed neural
 representations. *Proceedings of the Third Conference on Causal Learning
 and Reasoning*, PMLR 236. arXiv:2303.02536 (5 March 2023).
 
-Read in full on 2026-10-26 (NOTE-tmpzb21n). Two accounts were drawn from
-it: THEORY-tmpgqlal and THEORY-tmpqhbjf.
+Read in full on 2026-10-26 ([NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md)). Two accounts were drawn from
+it: [THEORY-tmpgqlal](../theory.d/THEORY-tmpgqlal.md) and [THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md).
 
 ## Why this is here
 
@@ -78,10 +78,10 @@ The owner asked on 2026-10-26 how the record stood on neural circuit
 theory; the answer found it held almost none of the core circuits
 literature, and the owner said "go ahead and register and read those".
 DAS is the method at the centre of the record's question on alignments:
-QUESTION-234 and THEORY-802 ask whether interchange interventions fix
+[QUESTION-234](../questions.d/QUESTION-234.md) and [THEORY-802](../theory.d/THEORY-802.md) ask whether interchange interventions fix
 the direction that mediates a variable, and the record held that debate
-only through Makelov et al. (LIT-968), Wu et al.'s reply (LIT-961) and
-MIB (LIT-tmprlq7z), all of which test or use DAS without the record
-holding DAS itself. It also brings causal abstraction (LIT-1310) to
+only through Makelov et al. ([LIT-968](LIT-968.md)), Wu et al.'s reply ([LIT-961](LIT-961.md)) and
+MIB ([LIT-tmprlq7z](LIT-tmprlq7z.md)), all of which test or use DAS without the record
+holding DAS itself. It also brings causal abstraction ([LIT-1310](LIT-1310.md)) to
 trained networks, and its own example shows a verdict that changes with
 the basis.

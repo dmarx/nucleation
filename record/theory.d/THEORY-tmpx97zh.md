@@ -26,7 +26,7 @@ date: '2026-10-26'
 source:
 - LIT-tmplq91w
 summary: >-
-  Olah et al. (2020), LIT-tmplq91w, read in NOTE-tmplg2yz: Claims 1 and 2
+  Olah et al. (2020), [LIT-tmplq91w](../literature.d/LIT-tmplq91w.md), read in [NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md): Claims 1 and 2
   of the essay. The evidence is a set of examples in InceptionV1 (curve,
   high-low frequency and dog head detectors; the curve, oriented dog head
   and car circuits), argued with feature visualization, dataset examples,
@@ -41,8 +41,8 @@ summary: >-
 ## Source
 
 Olah, Cammarata, Schubert, Goh, Petrov and Carter (2020), *Zoom In: An
-Introduction to Circuits*, Distill, LIT-tmplq91w, read in full in
-NOTE-tmplg2yz: Claims 1 and 2, the glossary, and Interpretability as a
+Introduction to Circuits*, Distill, [LIT-tmplq91w](../literature.d/LIT-tmplq91w.md), read in full in
+[NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md): Claims 1 and 2, the glossary, and Interpretability as a
 Natural Science.
 
 ## What is asserted
@@ -69,7 +69,7 @@ offers these as empirical claims and as norms for how to study networks.
 The essay calls its claims speculative and defers the evidence. The
 examples were chosen, from one model, with no denominator, and the
 counter-case is acknowledged and unresolved. The transformer work that
-follows (LIT-tmp9dono) reports it "had a lot more success" with attention
+follows ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md)) reports it "had a lot more success" with attention
 heads than with neurons, and that MLP neurons have been "much harder to
 develop hypotheses for".
 
@@ -78,7 +78,7 @@ develop hypotheses for".
 - Not that every neuron is a feature: polysemantic neurons are granted.
 - Not that features are unique directions: a direction is a linear
   combination of neurons, and the essay does not ask whether another basis
-  would serve as well (the question of THEORY-802).
+  would serve as well (the question of [THEORY-802](THEORY-802.md)).
 - Not anything about how features or circuits form in training.
 
 ## What would confirm or reject it
