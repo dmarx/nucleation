@@ -1,5 +1,8 @@
 ---
+number: 1047
 status: Proposed
+formerly:
+- THEORY-tmpxjvwo
 promote_when: >-
   A quantitative test of the description against the units it describes:
   the hand-written curve units, or any network written from the
@@ -20,32 +23,32 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmphb6el, as the claim the measured
-    THEORY-tmp90225 leaves out (ADR-047 v4). The authors call their five
+    Filed Proposed from NOTE-1207, as the claim the measured
+    THEORY-1038 leaves out (ADR-047 v4). The authors call their five
     comparisons "strong evidence these patterns accurately reflect the
     underlying circuits"; four are figures and the fifth is preliminary.
 tags:
 - representation-learning
 date: '2026-10-27'
 source:
-- LIT-tmpl1s2e
+- LIT-1629
 extends:
-- THEORY-tmp90225
+- THEORY-1038
 summary: >-
-  Cammarata et al. (2021), [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md), read in [NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md). The
+  Cammarata et al. (2021), [LIT-1629](../literature.d/LIT-1629.md), read in [NOTE-1207](../notes.d/NOTE-1207.md). The
   article's account of how curve detectors are built, and its claim that
   the account is the circuit. The family structure and the echo edit are
-  measured ([THEORY-tmp90225](THEORY-tmp90225.md)); that the description is complete, and that
+  measured ([THEORY-1038](THEORY-1038.md)); that the description is complete, and that
   the reimplementation matches the natural units beyond strong cases, is
   shown by figures only.
 ---
 <!-- inactive-ok-file: THEORY-1022 — Proposed; the curve account this would serve, cited as open -->
-# THEORY-tmpxjvwo: The curve units of InceptionV1's mixed3b implement a simple algorithm that can be read off their weights and written down in a few sentences: families of Gabors, lines and early curves, each a set of rotated copies of one unit, tiled along the curve's tangent, with negative weights against similar shapes of opposing orientation, rotational and scale equivariance reducing the circuit's more than 50,000 parameters about fifty-fold, so that a network written from this description reimplements them and the description accurately reflects the circuit, as Cammarata, Goh, Carter, Voss, Schubert and Olah claim
+# THEORY-1047: The curve units of InceptionV1's mixed3b implement a simple algorithm that can be read off their weights and written down in a few sentences: families of Gabors, lines and early curves, each a set of rotated copies of one unit, tiled along the curve's tangent, with negative weights against similar shapes of opposing orientation, rotational and scale equivariance reducing the circuit's more than 50,000 parameters about fifty-fold, so that a network written from this description reimplements them and the description accurately reflects the circuit, as Cammarata, Goh, Carter, Voss, Schubert and Olah claim
 
 ## Source
 
-Cammarata et al. (2021), *Curve Circuits*, [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md), read in full in
-[NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md): the introduction, The Curve Detector Algorithm, The
+Cammarata et al. (2021), *Curve Circuits*, [LIT-1629](../literature.d/LIT-1629.md), read in full in
+[NOTE-1207](../notes.d/NOTE-1207.md): the introduction, The Curve Detector Algorithm, The
 Components of Curve Detectors and An Artificial Artificial Neural
 Network.
 
@@ -65,7 +68,7 @@ curve detectors."
 ## What the record holds toward it
 
 - **The echo edit, the reimplementation and the substitution**
-  ([THEORY-tmp90225](THEORY-tmp90225.md)): one tested weight-level prediction, a qualitative
+  ([THEORY-1038](THEORY-1038.md)): one tested weight-level prediction, a qualitative
   match on synthetic curves and strong dataset examples, and 26 of 46
   lost classifications recovered on 2,000 images.
 - **The structure,** read from the strongest weights and the

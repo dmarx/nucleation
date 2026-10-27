@@ -1,12 +1,15 @@
 ---
+number: 1042
 status: Active
+formerly:
+- THEORY-tmpjdph0
 title: 'In the Overview of Early Vision''s taxonomy of InceptionV1, every one of the 1,056 units of conv2d0 to mixed3b is assigned by the authors to exactly one of 77 groups, and 391 of them (37%), from 7% of conv2d2 to 48% of conv2d1 and 45% of mixed3b, are in groups whose own captions call them catch-all, broad and not well defined, low-confidence, unstudied or not understood; the mixed3b curve family is 10 of that layer''s 480 units'
 version: 1
 history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Active from NOTE-tmpdmtd9, the reading of Olah et al. (2020) in
+    Filed Active from NOTE-1206, the reading of Olah et al. (2020) in
     full. The counts were re-derived on 2026-10-27 by parsing the
     article's neuron grids and checked against the five taxonomy files it
     offers for download, which agree unit for unit; the rule for a
@@ -14,28 +17,28 @@ history:
     study, read in full; the title claims no more than the article states
     and its grids show, and nothing in the record contradicts it
     (ADR-047 v3). The authors' wider claim, that the families are real
-    and recur across models, is THEORY-tmpehpcu, Proposed.
+    and recur across models, is THEORY-1040, Proposed.
 tags:
 - representation-learning
 date: '2026-10-27'
 source:
-- LIT-tmp6ii6u
+- LIT-1624
 summary: >-
-  Olah et al. (2020), [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read in [NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md): the census of
+  Olah et al. (2020), [LIT-1624](../literature.d/LIT-1624.md), read in [NOTE-1206](../notes.d/NOTE-1206.md): the census of
   InceptionV1's early vision, counted. A complete partition of 1,056 units
   into 77 groups, by eye; 37% in groups the authors flag as uncertain or
   catch-all, by their own words. It is a denominator for the circuits
   claim that units are typically features ([THEORY-1013](THEORY-1013.md)), not a measure of
   how many units are understood.
 ---
-<!-- inactive-ok-file: THEORY-tmpehpcu THEORY-1013 THEORY-1022 — Proposed; the authors' wider claim, the Zoom In account this count serves and the curve account, cited as open -->
-# THEORY-tmpjdph0: In the Overview of Early Vision's taxonomy of InceptionV1, every one of the 1,056 units of conv2d0 to mixed3b is assigned by the authors to exactly one of 77 groups, and 391 of them (37%), from 7% of conv2d2 to 48% of conv2d1 and 45% of mixed3b, are in groups whose own captions call them catch-all, broad and not well defined, low-confidence, unstudied or not understood; the mixed3b curve family is 10 of that layer's 480 units
+<!-- inactive-ok-file: THEORY-1040 THEORY-1013 THEORY-1022 — Proposed; the authors' wider claim, the Zoom In account this count serves and the curve account, cited as open -->
+# THEORY-1042: In the Overview of Early Vision's taxonomy of InceptionV1, every one of the 1,056 units of conv2d0 to mixed3b is assigned by the authors to exactly one of 77 groups, and 391 of them (37%), from 7% of conv2d2 to 48% of conv2d1 and 45% of mixed3b, are in groups whose own captions call them catch-all, broad and not well defined, low-confidence, unstudied or not understood; the mixed3b curve family is 10 of that layer's 480 units
 
 ## Source
 
 Olah, Cammarata, Schubert, Goh, Petrov and Carter (2020), *An Overview of
-Early Vision in InceptionV1*, Distill, [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read in full in
-[NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md): the five layer sections, every group's caption and neuron
+Early Vision in InceptionV1*, Distill, [LIT-1624](../literature.d/LIT-1624.md), read in full in
+[NOTE-1206](../notes.d/NOTE-1206.md): the five layer sections, every group's caption and neuron
 grid, and the taxonomy files of its Resources section.
 
 ## What was actually shown
@@ -83,7 +86,7 @@ these happened.
 - **The rule is this record's,** applied to the authors' words; another
   reader might count "Gabor-like" (conv2d1, "We haven't studied them very
   carefully") or a borderline caption differently. The flagged list is in
-  [NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md).
+  [NOTE-1206](../notes.d/NOTE-1206.md).
 
 ## Connections
 

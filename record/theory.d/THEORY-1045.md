@@ -1,12 +1,15 @@
 ---
+number: 1045
 status: Active
+formerly:
+- THEORY-tmptn4xd
 title: 'On synthetic data from factorial hidden Markov models with three or five hidden chains of two or three states, an unconstrained hidden Markov model with as many states as the chains have joint settings overfits, its test-set excess over the true model rising to 175 bits per observation at five three-state chains against 4.5 for the factorial model trained exactly, while factorial models trained with completely factorized or structured variational E steps are not significantly worse than exact training'
 version: 1
 history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Active from NOTE-tmp0rtz0 under ADR-047's rule for one study read
+    Filed Active from NOTE-1203 under ADR-047's rule for one study read
     in full, with the title limited to what was measured: Table 1 and
     §4.1 of Ghahramani and Jordan (1997), read as text in the authors'
     copy and checked against the publisher's PDF. The structured
@@ -17,9 +20,9 @@ tags:
 - representation-learning
 date: '2026-10-27'
 source:
-- LIT-tmpkxifq
+- LIT-1628
 summary: >-
-  Ghahramani and Jordan (1997), [LIT-tmpkxifq](../literature.d/LIT-tmpkxifq.md), read in [NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md). Four
+  Ghahramani and Jordan (1997), [LIT-1628](../literature.d/LIT-1628.md), read in [NOTE-1203](../notes.d/NOTE-1203.md). Four
   sizes, 15 random parameter sets each, 20 training and 20 test sequences
   of length 20, four-dimensional, C = 0.0025I, one run per set. In bits per
   observation over the true model, the K^M-state HMM's test excess is
@@ -30,12 +33,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
-# THEORY-tmptn4xd: On synthetic data from factorial hidden Markov models with three or five hidden chains of two or three states, an unconstrained hidden Markov model with as many states as the chains have joint settings overfits, its test-set excess over the true model rising to 175 bits per observation at five three-state chains against 4.5 for the factorial model trained exactly, while factorial models trained with completely factorized or structured variational E steps are not significantly worse than exact training
+# THEORY-1045: On synthetic data from factorial hidden Markov models with three or five hidden chains of two or three states, an unconstrained hidden Markov model with as many states as the chains have joint settings overfits, its test-set excess over the true model rising to 175 bits per observation at five three-state chains against 4.5 for the factorial model trained exactly, while factorial models trained with completely factorized or structured variational E steps are not significantly worse than exact training
 
 ## Source
 
 Ghahramani and Jordan (1997), *Factorial hidden Markov models*,
-[LIT-tmpkxifq](../literature.d/LIT-tmpkxifq.md), read in full in [NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md): §4.1 and Table 1.
+[LIT-1628](../literature.d/LIT-1628.md), read in full in [NOTE-1203](../notes.d/NOTE-1203.md): §4.1 and Table 1.
 
 ## What was actually shown
 
@@ -76,4 +79,4 @@ sizes and better at (5, 2), p < 0.05.
   and lets M grow; its experiments compare priors, not inference methods.
 - **[CASE-165](../cases.d/CASE-165.md).** A fitted version of the case's per-member chains would face
   this paper's trade-off between exact and approximate E steps
-  ([NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md)).
+  ([NOTE-1203](../notes.d/NOTE-1203.md)).

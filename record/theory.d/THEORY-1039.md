@@ -1,5 +1,8 @@
 ---
+number: 1039
 status: Proposed
+formerly:
+- THEORY-tmpanm57
 promote_when: >-
   A test on the clean computation that tells distributed storage apart
   from an edit that writes the association wherever it is made. For
@@ -51,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1011 — Rejected; the entry this conjecture was split from, cited as its origin -->
 <!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s neighbouring account, cited as the nearest rival reading -->
 
-# THEORY-tmpanm57: In autoregressive transformer language models, factual associations are recalled through middle-layer MLP modules acting as key–value memories, and any fact could be stored equally in any one of the middle MLP layers, as Meng, Bau, Andonian and Belinkov conjecture
+# THEORY-1039: In autoregressive transformer language models, factual associations are recalled through middle-layer MLP modules acting as key–value memories, and any fact could be stored equally in any one of the middle MLP layers, as Meng, Bau, Andonian and Belinkov conjecture
 
 ## Source
 

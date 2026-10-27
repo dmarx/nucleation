@@ -36,7 +36,7 @@ history:
   note: >-
     A dated note added: An Overview of Early Vision in InceptionV1 and Curve
     Circuits, which the note of version 2 calls not registered and not held,
-    were registered and read on 2026-10-27 (LIT-tmp6ii6u, LIT-tmpl1s2e).
+    were registered and read on 2026-10-27 (LIT-1624, LIT-1629).
     Early Vision gives the first denominator, not the criterion; Curve
     Circuits completes the seven arguments for one family and adds one
     tested weight edit. The promote_when is not met and the account stays
@@ -57,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-986 THEORY-802 — Proposed; the companion claim from the same essay and the basis-relative account it is set beside, cited as open -->
 <!-- inactive-ok-file: THEORY-1022 — Proposed; the Curve Detectors authors' full claim, cited as open -->
-<!-- inactive-ok-file: THEORY-tmpehpcu THEORY-tmpxjvwo — Proposed; the Early Vision and Curve Circuits authors' wider claims, cited as open -->
+<!-- inactive-ok-file: THEORY-1040 THEORY-1047 — Proposed; the Early Vision and Curve Circuits authors' wider claims, cited as open -->
 
 # THEORY-1013: In trained vision networks, units or other directions in a layer's activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
 
@@ -134,10 +134,10 @@ it is not registered.
 The note above says that *An Overview of Early Vision in InceptionV1* "is
 not registered" and that *Curve Circuits* is not held. Both were
 registered and read on 2026-10-27, at the owner's request ("file the next readings"): Early Vision as
-[LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md) ([NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md)) and Curve Circuits as [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)
-([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)).
+[LIT-1624](../literature.d/LIT-1624.md) ([NOTE-1206](../notes.d/NOTE-1206.md)) and Curve Circuits as [LIT-1629](../literature.d/LIT-1629.md)
+([NOTE-1207](../notes.d/NOTE-1207.md)).
 
-- **A denominator, not the criterion ([THEORY-tmpjdph0](THEORY-tmpjdph0.md)).** Every one of the
+- **A denominator, not the criterion ([THEORY-1042](THEORY-1042.md)).** Every one of the
   1,056 units of conv2d0 to mixed3b is in exactly one of 77 groups (3, 8,
   14, 18 and 34 per layer). 391 units (37%) are in groups whose own
   captions call them catch-all, broad and not well defined,
@@ -147,8 +147,8 @@ registered and read on 2026-10-27, at the owner's request ("file the next readin
   (2.1%). The groups are sorted by eye, often after "a few minutes", so
   this is the fraction the promote_when asks for without the "stated
   criterion" it asks for. The authors' claim that such families are real
-  and recur across models is [THEORY-tmpehpcu](THEORY-tmpehpcu.md), Proposed.
-- **The seven arguments, for one family ([THEORY-tmp90225](THEORY-tmp90225.md)).** Curve
+  and recur across models is [THEORY-1040](THEORY-1040.md), Proposed.
+- **The seven arguments, for one family ([THEORY-1038](THEORY-1038.md)).** Curve
   Circuits supplies the three Curve Detectors deferred: the implementing
   circuit, a downstream use (described, not measured) and the hand-written
   reimplementation, compared by figures only. With [THEORY-1028](THEORY-1028.md), all seven
@@ -158,7 +158,7 @@ registered and read on 2026-10-27, at the owner's request ("file the next readin
   weights removed brings back the 180° echo, and keeping them does not.
   That is one weight-level prediction tested by editing, of the kind the
   promote_when names. The authors' claim that the algorithm is simple and
-  can be read off the weights is [THEORY-tmpxjvwo](THEORY-tmpxjvwo.md), Proposed.
+  can be read off the weights is [THEORY-1047](THEORY-1047.md), Proposed.
 
 **Why it stays Proposed.** One family in one model, one confirmed edit,
 and no layer-wide criterion. Early Vision's census says how much of the

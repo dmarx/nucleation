@@ -31,7 +31,7 @@ history:
   date: '2026-10-27'
   note: >-
     A dated note added: the next article, which the text calls not held, was
-    registered and read on 2026-10-27 as LIT-tmpl1s2e (Curve Circuits).
+    registered and read on 2026-10-27 as LIT-1629 (Curve Circuits).
     Neither promote_when condition is met, and the account stays Proposed.
 tags:
 - representation-learning
@@ -50,7 +50,7 @@ summary: >-
   of its contribution to expected value, are not shown to be curves.
 ---
 <!-- inactive-ok-file: THEORY-1013 — Proposed; the general account this case would serve, cited as open -->
-<!-- inactive-ok-file: THEORY-tmpxjvwo — Proposed; the Curve Circuits authors' claim of a readable algorithm, cited as open -->
+<!-- inactive-ok-file: THEORY-1047 — Proposed; the Curve Circuits authors' claim of a readable algorithm, cited as open -->
 # THEORY-1022: The curve units of InceptionV1's mixed3b detect curves as such: curves, not correlated stimuli, cause their firing, they respond to curves in general whatever their colour, fill or texture, and they have no meaningful secondary function, their weak responses to edges and angles being part of the same curve-detecting algorithm, as Cammarata, Goh, Carter, Schubert, Petrov and Olah claim
 
 ## Source
@@ -103,9 +103,9 @@ The promote_when above.
 
 "What the record holds toward it" says of the article that promises the
 mechanism: "That article is not held." It was registered and read on
-2026-10-27, at the owner's request ("file the next readings"), as *Curve Circuits*, [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)
-([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)). What it shows is [THEORY-tmp90225](THEORY-tmp90225.md), and the authors'
-claim of a simple, readable algorithm is [THEORY-tmpxjvwo](THEORY-tmpxjvwo.md), Proposed.
+2026-10-27, at the owner's request ("file the next readings"), as *Curve Circuits*, [LIT-1629](../literature.d/LIT-1629.md)
+([NOTE-1207](../notes.d/NOTE-1207.md)). What it shows is [THEORY-1038](THEORY-1038.md), and the authors'
+claim of a simple, readable algorithm is [THEORY-1047](THEORY-1047.md), Proposed.
 
 Neither condition of the promote_when is met.
 
@@ -120,6 +120,6 @@ Neither condition of the promote_when is met.
   authors call preliminary. That is an intervention on accuracy, not one
   showing that downstream units read the curve units' output as curve
   evidence. The downstream use is described, not measured, and its
-  sentence names mixed3b groups as mixed4a's ([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)).
+  sentence names mixed3b groups as mixed4a's ([NOTE-1207](../notes.d/NOTE-1207.md)).
 
 The account stays Proposed. Its status and title are unchanged.

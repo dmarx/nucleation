@@ -1,12 +1,15 @@
 ---
+number: 1041
 status: Active
+formerly:
+- THEORY-tmphvhg6
 title: 'In the Indian buffet process the feature probabilities in decreasing order are products of independent Beta(α, 1) draws, so the k-th has mean (α/(α + 1))^k, and keeping only the first K of them gives an expected number of occupied features among N objects that approaches αH_N from below: 8.97 at K = 16, N = 12 and α = 3, against 9.31 in the limit and 6.83 for the finite model with sixteen independent prevalences'
 version: 1
 history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Active from NOTE-tmptxvho. The construction is the paper's,
+    Filed Active from NOTE-1210. The construction is the paper's,
     §3.1 of Teh, Görür and Ghahramani (2007), re-derived from the cdf of a
     maximum. The truncation's count is the record's, from the
     construction: E[μ_(k)^j] = (α/(α + j))^k gives the exact sum, 8.974 at
@@ -18,9 +21,9 @@ tags:
 - mathematical-statistics
 date: '2026-10-27'
 source:
-- LIT-tmpfhqac
+- LIT-1627
 summary: >-
-  Teh, Görür and Ghahramani (2007), [LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md), read in [NOTE-tmptxvho](../notes.d/NOTE-tmptxvho.md).
+  Teh, Görür and Ghahramani (2007), [LIT-1627](../literature.d/LIT-1627.md), read in [NOTE-1210](../notes.d/NOTE-1210.md).
   μ_(k) = ∏_{l≤k} ν_l with ν_l ~ Beta(α, 1). Truncated at K, the expected
   number of occupied features is Σ_{k≤K} Σ_{j=1}^{N} (−1)^{j+1} C(N, j)
   (α/(α + j))^k, which sums to αH_N as K → ∞. At N = 12, α = 3: 6.80,
@@ -30,12 +33,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
-# THEORY-tmphvhg6: In the Indian buffet process the feature probabilities in decreasing order are products of independent Beta(α, 1) draws, so the k-th has mean (α/(α + 1))^k, and keeping only the first K of them gives an expected number of occupied features among N objects that approaches αH_N from below: 8.97 at K = 16, N = 12 and α = 3, against 9.31 in the limit and 6.83 for the finite model with sixteen independent prevalences
+# THEORY-1041: In the Indian buffet process the feature probabilities in decreasing order are products of independent Beta(α, 1) draws, so the k-th has mean (α/(α + 1))^k, and keeping only the first K of them gives an expected number of occupied features among N objects that approaches αH_N from below: 8.97 at K = 16, N = 12 and α = 3, against 9.31 in the limit and 6.83 for the finite model with sixteen independent prevalences
 
 ## Source
 
 Teh, Görür and Ghahramani (2007), *Stick-breaking construction for the
-Indian buffet process*, [LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md), read in full in [NOTE-tmptxvho](../notes.d/NOTE-tmptxvho.md):
+Indian buffet process*, [LIT-1627](../literature.d/LIT-1627.md), read in full in [NOTE-1210](../notes.d/NOTE-1210.md):
 §3.1 (the construction, (5)–(15)) and §3.2 (truncation, (19)–(20)).
 
 ## What was actually shown
@@ -51,7 +54,7 @@ probability μ_(k), independently given the sticks, so feature k is
 occupied among N objects with probability 1 − E[(1 − μ_(k))^N] =
 Σ_{j=1}^{N} (−1)^{j+1} C(N, j) E[μ_(k)^j], and E[μ_(k)^j] = (α/(α + j))^k.
 Summing over all k gives Σ_j (−1)^{j+1} C(N, j) α/j = αH_N, the IBP's
-count ([THEORY-tmpo1cju](THEORY-tmpo1cju.md)); summing to K gives the truncation's. At N = 12,
+count ([THEORY-1043](THEORY-1043.md)); summing to K gives the truncation's. At N = 12,
 α = 3:
 
 | K | 8 | 16 | 24 | 32 | 50 | limit |

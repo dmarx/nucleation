@@ -1,12 +1,15 @@
 ---
+number: 1043
 status: Active
+formerly:
+- THEORY-tmpo1cju
 title: 'The finite feature model in which each of K features has prevalence Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary matrices that ignore the order of columns, and the Indian buffet process, in which the i-th object takes each earlier feature with probability m/i and Poisson(α/i) new ones, produces the same distribution, so its objects are exchangeable and the number of features they hold is Poisson(αH_N)'
 version: 1
 history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Active from NOTE-tmpit34t. It is the paper's result, eqs. (2)–(5)
+    Filed Active from NOTE-1208. It is the paper's result, eqs. (2)–(5)
     of Griffiths and Ghahramani (2005), whose details the paper defers to
     a technical report. It was checked numerically at N = 3, α = 1.5: the
     finite model's probability of each lof-class at K = 100,000, eq. (3),
@@ -19,25 +22,25 @@ tags:
 - mathematical-statistics
 date: '2026-10-27'
 source:
-- LIT-tmp3u0k8
+- LIT-1623
 - LIT-1556
 summary: >-
-  Griffiths and Ghahramani (2005), [LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md), read in [NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md), and
+  Griffiths and Ghahramani (2005), [LIT-1623](../literature.d/LIT-1623.md), read in [NOTE-1208](../notes.d/NOTE-1208.md), and
   their review ([LIT-1556](../literature.d/LIT-1556.md)). P([Z]) → α^{K+}/∏_{h≥1} K_h! · exp{−αH_N} ·
   ∏_k (N − m_k)!(m_k − 1)!/N! on lof-classes, and the buffet gives the
   same. It is a statement about the limit: at finite K the expected count
   of occupied features is below αH_N ([THEORY-999](THEORY-999.md)), and an ordered
   truncation of the same limit is a different approximation
-  ([THEORY-tmphvhg6](THEORY-tmphvhg6.md)).
+  ([THEORY-1041](THEORY-1041.md)).
 ---
 <!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
-# THEORY-tmpo1cju: The finite feature model in which each of K features has prevalence Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary matrices that ignore the order of columns, and the Indian buffet process, in which the i-th object takes each earlier feature with probability m/i and Poisson(α/i) new ones, produces the same distribution, so its objects are exchangeable and the number of features they hold is Poisson(αH_N)
+# THEORY-1043: The finite feature model in which each of K features has prevalence Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary matrices that ignore the order of columns, and the Indian buffet process, in which the i-th object takes each earlier feature with probability m/i and Poisson(α/i) new ones, produces the same distribution, so its objects are exchangeable and the number of features they hold is Poisson(αH_N)
 
 ## Source
 
 Griffiths and Ghahramani (2005), *Infinite latent feature models and the
-Indian buffet process*, [LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md), read in full in [NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md):
+Indian buffet process*, [LIT-1623](../literature.d/LIT-1623.md), read in full in [NOTE-1208](../notes.d/NOTE-1208.md):
 §2.1 (the finite model, (1)–(2)), §2.2 (lof-classes), §2.3 (the limit,
 (3)–(4)) and §2.4 (the buffet, (5)). The derivation is given at length in
 the authors' review, [LIT-1556](../literature.d/LIT-1556.md) (§§3–4, Appendix A; [NOTE-1172](../notes.d/NOTE-1172.md)).
@@ -79,7 +82,7 @@ is 2.751; αH_3 = 2.750 (record script, 2026-10-27).
   heuristic, are separate matters ([NOTE-1172](../notes.d/NOTE-1172.md)).
 - **Not that a column means "has".** The likelihood decides what a
   feature codes; in the paper's own demonstration three of four main
-  features code an object's absence ([NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md)).
+  features code an object's absence ([NOTE-1208](../notes.d/NOTE-1208.md)).
 
 ## Connections
 
@@ -87,7 +90,7 @@ is 2.751; αH_3 = 2.750 (record script, 2026-10-27).
   mean, and its correction for K = 16 is [THEORY-999](THEORY-999.md)'s.
 - **[THEORY-985](THEORY-985.md).** The beta process gives the same count a second way, as
   the IBP's de Finetti measure.
-- **[THEORY-tmphvhg6](THEORY-tmphvhg6.md).** Ordering the limit's feature probabilities gives the
+- **[THEORY-1041](THEORY-1041.md).** Ordering the limit's feature probabilities gives the
   stick-breaking construction, whose truncations approximate this limit
   from below.
 - **[THEORY-1019](THEORY-1019.md).** The Markov IBP repeats this argument with rows as time

@@ -4,7 +4,7 @@
 
 **embodied-cognition**.
 
-46 of 1202 NOTE documents. Back to the [full index](../README.md).
+46 of 1210 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

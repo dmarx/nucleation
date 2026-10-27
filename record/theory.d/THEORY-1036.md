@@ -1,12 +1,15 @@
 ---
+number: 1036
 status: Active
+formerly:
+- THEORY-tmp68zar
 title: 'In a model that fits y = Σ v_i x_i² with ỹ = Σ_r (W_r·x)² + b, on independent inputs of zero mean, unit variance and common fourth moment k, the expected squared error at the optimal bias is (k − 1)Σ(n_i − v_i)² − 2Σn_i² + 2Σn_i²/C_i, in the squared embedding lengths n_i and capacities C_i = (w_i·w_i)²/Σ_j(w_i·w_j)², and its minimum with the capacities summing to the number of neurons D gives C_i = clip((k − 1)v_i/((k − 3)λ) − 2/(k − 3), 0, 1): for k ≤ 3 each feature is given a whole dimension or none, and for k > 3 a feature is shared between neurons exactly when 2λ/(k − 1) < v_i < λ'
 version: 1
 history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Active from NOTE-tmp8m63d, the reading of Scherlis et al.
+    Filed Active from NOTE-1205, the reading of Scherlis et al.
     (2022) in full. Re-derived step by step below from the model's
     definition, and checked numerically on 2026-10-27: a Monte Carlo
     estimate of the loss (3,000,000 sparse uniform samples, six features,
@@ -17,14 +20,14 @@ history:
     phase, with the thresholds 1.875 and 0.323 bounding it. A
     demonstrated result within its model, with its conditions in the
     title (ADR-043; ADR-047 on re-derivation). The authors' wider
-    account is THEORY-tmp2tsxo, Proposed.
+    account is THEORY-1035, Proposed.
 tags:
 - representation-learning
 date: '2026-10-27'
 source:
-- LIT-tmp9yvin
+- LIT-1625
 summary: >-
-  Scherlis et al. (2022), [LIT-tmp9yvin](../literature.d/LIT-tmp9yvin.md), read in [NOTE-tmp8m63d](../notes.d/NOTE-tmp8m63d.md): the
+  Scherlis et al. (2022), [LIT-1625](../literature.d/LIT-1625.md), read in [NOTE-1205](../notes.d/NOTE-1205.md): the
   quadratic toy model of superposition solved in closed form. Its loss
   separates by feature through capacity, so the marginal value of
   capacity is −∂L/∂C_i = 2n_i²/C_i², and sparsity, through k, decides
@@ -32,14 +35,14 @@ summary: >-
   scrubbing appendix's §6 analyses. It holds for this model and says
   nothing directly about trained networks.
 ---
-<!-- inactive-ok-file: THEORY-tmp2tsxo — Proposed; the authors' wider account, cited as open -->
-# THEORY-tmp68zar: In a model that fits y = Σ v_i x_i² with ỹ = Σ_r (W_r·x)² + b, on independent inputs of zero mean, unit variance and common fourth moment k, the expected squared error at the optimal bias is (k − 1)Σ(n_i − v_i)² − 2Σn_i² + 2Σn_i²/C_i, in the squared embedding lengths n_i and capacities C_i = (w_i·w_i)²/Σ_j(w_i·w_j)², and its minimum with the capacities summing to the number of neurons D gives C_i = clip((k − 1)v_i/((k − 3)λ) − 2/(k − 3), 0, 1): for k ≤ 3 each feature is given a whole dimension or none, and for k > 3 a feature is shared between neurons exactly when 2λ/(k − 1) < v_i < λ
+<!-- inactive-ok-file: THEORY-1035 — Proposed; the authors' wider account, cited as open -->
+# THEORY-1036: In a model that fits y = Σ v_i x_i² with ỹ = Σ_r (W_r·x)² + b, on independent inputs of zero mean, unit variance and common fourth moment k, the expected squared error at the optimal bias is (k − 1)Σ(n_i − v_i)² − 2Σn_i² + 2Σn_i²/C_i, in the squared embedding lengths n_i and capacities C_i = (w_i·w_i)²/Σ_j(w_i·w_j)², and its minimum with the capacities summing to the number of neurons D gives C_i = clip((k − 1)v_i/((k − 3)λ) − 2/(k − 3), 0, 1): for k ≤ 3 each feature is given a whole dimension or none, and for k > 3 a feature is shared between neurons exactly when 2λ/(k − 1) < v_i < λ
 
 ## Source
 
 Scherlis, Sachan, Jermyn, Benton and Shlegeris (2022), *Polysemanticity
-and Capacity in Neural Networks*, arXiv 2210.01892 v4, [LIT-tmp9yvin](../literature.d/LIT-tmp9yvin.md), read
-in full in [NOTE-tmp8m63d](../notes.d/NOTE-tmp8m63d.md): §3 and Appendices A and C, with the capacity
+and Capacity in Neural Networks*, arXiv 2210.01892 v4, [LIT-1625](../literature.d/LIT-1625.md), read
+in full in [NOTE-1205](../notes.d/NOTE-1205.md): §3 and Appendices A and C, with the capacity
 bound of Appendix F and the feasibility result of Appendix H.
 
 ## What was actually shown

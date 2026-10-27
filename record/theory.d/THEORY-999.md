@@ -18,8 +18,8 @@ history:
   date: '2026-10-27'
   note: >-
     A dated note added: the stick-breaking construction this account
-    compares against was registered and read on 2026-10-27 (LIT-tmpfhqac);
-    its 8.97 is confirmed exactly (THEORY-tmphvhg6) and the reason given for
+    compares against was registered and read on 2026-10-27 (LIT-1627);
+    its 8.97 is confirmed exactly (THEORY-1041) and the reason given for
     its closeness qualified. Title and status unchanged.
 tags:
 - probabilistic-modeling
@@ -99,14 +99,14 @@ per object.
 The Numbers above compare the finite model with a stick-breaking
 truncation at 16, cited as Teh et al. 2007 and computed by Monte Carlo.
 That paper was registered and read on 2026-10-27, at the owner's request ("file the next readings"), as
-[LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md) ([NOTE-tmptxvho](../notes.d/NOTE-tmptxvho.md)). From the construction the expected count
+[LIT-1627](../literature.d/LIT-1627.md) ([NOTE-1210](../notes.d/NOTE-1210.md)). From the construction the expected count
 has a closed form, and at K = 16, N = 12 and α = 3 it is 8.974, with
-2.97 features per object ([THEORY-tmphvhg6](THEORY-tmphvhg6.md)), which confirms both figures.
+2.97 features per object ([THEORY-1041](THEORY-1041.md)), which confirms both figures.
 
 "What this does not say" explains the truncation's closeness by its
 keeping "the largest prevalences and drop[ping] only the tail". The tail
 is not empty: in 24% of draws at least one feature beyond the sixteenth
 stick is occupied, and their expected number, 0.34, is the whole gap
-9.31 − 8.97. The comparison stands. The IBP's original paper, [LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md),
+9.31 − 8.97. The comparison stands. The IBP's original paper, [LIT-1623](../literature.d/LIT-1623.md),
 read the same day, states αH_N for the limit only, as the review does
-([THEORY-tmpo1cju](THEORY-tmpo1cju.md)). The title and status are unchanged.
+([THEORY-1043](THEORY-1043.md)). The title and status are unchanged.

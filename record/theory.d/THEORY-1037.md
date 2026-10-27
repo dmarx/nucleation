@@ -1,12 +1,15 @@
 ---
+number: 1037
 status: Active
+formerly:
+- THEORY-tmp7bmmi
 title: 'In the infinite hidden Markov model, drawing at each time step a slice variable uniformly below the probability of the transition taken leaves the posterior unchanged and leaves only finitely many state trajectories with positive probability, so a whole trajectory can be resampled exactly by forward filtering and backward sampling, with no truncation of the state space'
 version: 1
 history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Active from NOTE-tmp2597d. It is the paper's construction, §4
+    Filed Active from NOTE-1204. It is the paper's construction, §4
     and footnote 2 of Van Gael, Saatci, Teh and Ghahramani (2008). The
     finiteness follows because each transition row sums to one and the
     slice is positive almost surely. The invariance was checked
@@ -19,24 +22,24 @@ tags:
 - mathematical-statistics
 date: '2026-10-27'
 source:
-- LIT-tmp0oa8w
+- LIT-1622
 summary: >-
-  Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), read in
-  [NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md). u_t ~ Uniform(0, π_{s_{t−1}s_t}) is an auxiliary
+  Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-1622](../literature.d/LIT-1622.md), read in
+  [NOTE-1204](../notes.d/NOTE-1204.md). u_t ~ Uniform(0, π_{s_{t−1}s_t}) is an auxiliary
   variable, so sampling u given s and then s given u leaves p(s | y)
   invariant; given u, the forward recursion sums only over transitions
   with π > u_t, of which there are finitely many per row. It says the
-  sampler is exact, not how fast it mixes ([THEORY-tmptl00j](THEORY-tmptl00j.md)).
+  sampler is exact, not how fast it mixes ([THEORY-1044](THEORY-1044.md)).
 ---
-<!-- inactive-ok-file: THEORY-tmptl00j — Proposed; the mixing claim this account leaves out, cited as open -->
+<!-- inactive-ok-file: THEORY-1044 — Proposed; the mixing claim this account leaves out, cited as open -->
 
-# THEORY-tmp7bmmi: In the infinite hidden Markov model, drawing at each time step a slice variable uniformly below the probability of the transition taken leaves the posterior unchanged and leaves only finitely many state trajectories with positive probability, so a whole trajectory can be resampled exactly by forward filtering and backward sampling, with no truncation of the state space
+# THEORY-1037: In the infinite hidden Markov model, drawing at each time step a slice variable uniformly below the probability of the transition taken leaves the posterior unchanged and leaves only finitely many state trajectories with positive probability, so a whole trajectory can be resampled exactly by forward filtering and backward sampling, with no truncation of the state space
 
 ## Source
 
 Van Gael, Saatci, Teh and Ghahramani (2008), *Beam sampling for the
-infinite hidden Markov model*, [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), read in full in
-[NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md): §4, eq. (4), and footnote 2.
+infinite hidden Markov model*, [LIT-1622](../literature.d/LIT-1622.md), read in full in
+[NOTE-1204](../notes.d/NOTE-1204.md): §4, eq. (4), and footnote 2.
 
 ## What was actually shown
 
@@ -63,7 +66,7 @@ invariance; the finiteness is the part specific to the infinite model.
 ## What this does not say
 
 - **Not that it mixes faster than Gibbs.** That is the paper's empirical
-  claim, filed separately as Proposed ([THEORY-tmptl00j](THEORY-tmptl00j.md)).
+  claim, filed separately as Proposed ([THEORY-1044](THEORY-1044.md)).
 - **Not its cost.** The worst case is O(TK²) per iteration over the K
   represented states; the near-O(TK) behaviour is an observation on one
   synthetic set.
@@ -74,6 +77,6 @@ invariance; the finiteness is the part specific to the infinite model.
 
 - **[LIT-1577](../literature.d/LIT-1577.md) and [NOTE-1199](../notes.d/NOTE-1199.md).** The infinite factorial HMM applies the same
   construction to each binary chain of the Markov IBP, with a slice over
-  its sticks ([THEORY-tmphvhg6](THEORY-tmphvhg6.md)'s construction, [LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md)).
-- **[THEORY-tmphvhg6](THEORY-tmphvhg6.md).** The IBP's slice sampler uses the same device on
+  its sticks ([THEORY-1041](THEORY-1041.md)'s construction, [LIT-1627](../literature.d/LIT-1627.md)).
+- **[THEORY-1041](THEORY-1041.md).** The IBP's slice sampler uses the same device on
   feature sticks.

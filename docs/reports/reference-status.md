@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**720 documents cited without acknowledgement.** Not listed: 13646 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**721 documents cited without acknowledgement.** Not listed: 13747 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -4971,6 +4971,15 @@ Interpretive framings change a reader's state as non-commuting measurements do, 
 - [`record/claims.d/CLAIM-341.md:204`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-341.md:223`](../../record/claims.d/CLAIM-341.md)
 
+### [CASE-165](../../record/cases.d/CASE-165.md) — Proposed
+
+A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs
+
+2 citations in 2 files await a look; 68 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1622.md:90`](../../record/literature.d/LIT-1622.md)
+- [`record/literature.d/LIT-1628.md:100`](../../record/literature.d/LIT-1628.md)
+
 ### [CASE-171](../../record/cases.d/CASE-171.md) — Proposed
 
 Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed
@@ -8285,7 +8294,7 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-1466.md:53: annotation no longer applies — nothing in scope cites LIT-1450, LIT-1470
 - record/literature.d/LIT-1471.md:52: annotation no longer applies — LIT-1444, NOTE-1103 is Active now
 - record/literature.d/LIT-1501.md:61: annotation no longer applies — NOTE-1140 is Active now
-- record/literature.d/LIT-1575.md:76: annotation no longer applies — nothing in scope cites CLAIM-263
+- record/literature.d/LIT-1575.md:83: annotation no longer applies — nothing in scope cites CLAIM-263
 - record/literature.d/LIT-1579.md:77: annotation no longer applies — nothing in scope cites THEORY-990
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
@@ -8347,7 +8356,7 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-1154.md:31: annotation no longer applies — nothing in scope cites THEORY-929, THEORY-933
 - record/notes.d/NOTE-1155.md:32: annotation no longer applies — nothing in scope cites THEORY-924, THEORY-946
 - record/notes.d/NOTE-1156.md:33: annotation no longer applies — nothing in scope cites THEORY-942
-- record/notes.d/NOTE-1182.md:48: annotation no longer applies — nothing in scope cites THEORY-1022
+- record/notes.d/NOTE-1182.md:56: annotation no longer applies — nothing in scope cites THEORY-1022
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-631.md:34: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-694.md:35: annotation no longer applies — QUESTION-025 is Active now

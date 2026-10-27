@@ -1,7 +1,7 @@
 ---
 number: 1011
 status: Rejected
-status_note: Hase et al. (LIT-1578, THEORY-1024) meet this entry's own refutation clause for its localization part, in GPT-J on 652 CounterFact facts. ROME rewrites a fact at over 96% at every layer but the last, and the per-fact tracing effect adds at most 3.2 points of R² to edit success. The conjecture that any middle layer could store a fact equally was split out to THEORY-tmpanm57 and stays Proposed
+status_note: Hase et al. (LIT-1578, THEORY-1024) meet this entry's own refutation clause for its localization part, in GPT-J on 652 CounterFact facts. ROME rewrites a fact at over 96% at every layer but the last, and the per-fact tracing effect adds at most 3.2 points of R² to edit success. The conjecture that any middle layer could store a fact equally was split out to THEORY-1039 and stays Proposed
 formerly:
 - THEORY-tmpvugrm
 promote_when: >-
@@ -42,7 +42,7 @@ history:
     refutation clause (Hase et al., THEORY-1024). Rejected, not
     Superseded, because nothing replaces that claim. The conjecture
     that any middle layer could store a fact equally is split out to
-    THEORY-tmpanm57, Proposed, under ADR-047's rule on dropped claims
+    THEORY-1039, Proposed, under ADR-047's rule on dropped claims
     (kind 1). The promote_when now states what would reinstate the
     entry. Title and body are unchanged.
 tags:
@@ -61,7 +61,7 @@ summary: >-
   success of rank-one edits at the traced site.
 ---
 <!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited beside the conjecture it resembles -->
-<!-- inactive-ok-file: THEORY-tmpanm57 — Proposed; the conjecture split out of this entry when it was rejected -->
+<!-- inactive-ok-file: THEORY-1039 — Proposed; the conjecture split out of this entry when it was rejected -->
 
 # THEORY-1011: In autoregressive transformer language models, factual associations are stored in middle-layer MLP modules as linear key–value memories: the MLP takes a key encoding the subject at its last token and returns a value encoding its attributes, which late attention moves to the prediction, and any middle layer could store a given fact equally, as Meng, Bau, Andonian and Belinkov propose
 
@@ -183,7 +183,7 @@ that "any middle layer could store a given fact equally", and that
 conjecture predicts exactly the result the promote_when counted as a
 refutation. The conjecture is not refuted, and the source asserts it, so
 under [ADR-047](../decisions.d/ADR-047.md) (kind 1) it is filed as its own Proposed entry,
-[THEORY-tmpanm57](THEORY-tmpanm57.md). Its promote_when carries over this entry's clean-input
+[THEORY-1039](THEORY-1039.md). Its promote_when carries over this entry's clean-input
 ablation test and adds a control for edits that create an association
 wherever they are made ([LIT-968](../literature.d/LIT-968.md)). Hase et al.'s own account, that
 localizing and editing are different questions, stays [THEORY-1026](THEORY-1026.md).

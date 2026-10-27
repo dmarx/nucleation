@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [27 Oct 03:57 — Eight works named by the readings of PR 338 registered and read, at the owner's request](2026-10.md#eight-works-named-by-the-readings-of-pr-338-registered-and-read-at-the-owners-request)
 - [27 Oct 02:19 — Reductive evolution and endosymbiosis, second pass: endosymbiosis joins the topics, six Proposed CASEs, and seventeen works for what the exchange mentioned without citing](2026-10.md#reductive-evolution-and-endosymbiosis-second-pass-endosymbiosis-joins-the-topics-six-proposed-cases-and-seventeen-works-for-what-the-exchange-mentioned-without-citing)
 - [27 Oct 02:06 — Ten works named by the circuits readings registered and read, at the owner's request](2026-10.md#ten-works-named-by-the-circuits-readings-registered-and-read-at-the-owners-request)
 - [27 Oct 01:01 — Twenty works registered unread from the exchange "About the Chagossians": fifteen readings on law, remedy, responsibility and systems safety, and five sources for its cases; the press and court records it cited by search are named, not registered](2026-10.md#twenty-works-registered-unread-from-the-exchange-about-the-chagossians-fifteen-readings-on-law-remedy-responsibility-and-systems-safety-and-five-sources-for-its-cases-the-press-and-court-records-it-cited-by-search-are-named-not-registered)
@@ -138,9 +139,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-176 entries across 2 books, newest first.
+177 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 129 | 2026-10-01 | 2026-10-27 |
+| [2026-10](2026-10.md) | 130 | 2026-10-01 | 2026-10-27 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

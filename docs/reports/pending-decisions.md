@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**1044 document(s) awaiting a decision.**
+**1048 document(s) awaiting a decision.**
 
 ## LITs
 
-174 of the 1044.
+174 of the 1048.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -43,8 +43,8 @@
 | 2026-10-02 | Proposed | [LIT-509](../../record/literature.d/LIT-509.md) | 7 | 1 | Moral Molecules: Morality as a Combinatorial System |
 | 2026-10-02 | Proposed | [LIT-512](../../record/literature.d/LIT-512.md) | 6 | 1 | Moral universals: A machine-reading analysis of 256 societies |
 | 2026-10-03 | Proposed | [LIT-676](../../record/literature.d/LIT-676.md) | 17 | 0 | Unveiling Mode Connectivity in Graph Neural Networks |
+| 2026-10-03 | Proposed | [LIT-677](../../record/literature.d/LIT-677.md) | 12 | 0 | Unveiling mode-connectivity of the ELBO landscape |
 | 2026-10-03 | Proposed | [LIT-660](../../record/literature.d/LIT-660.md) | 11 | 0 | Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models |
-| 2026-10-03 | Proposed | [LIT-677](../../record/literature.d/LIT-677.md) | 11 | 0 | Unveiling mode-connectivity of the ELBO landscape |
 | 2026-10-16 | Deferred | [LIT-1126](../../record/literature.d/LIT-1126.md) | 4 | 0 | Computational Mechanics: Pattern and Prediction, Structure and Simplicity |
 | 2026-10-16 | Deferred | [LIT-1134](../../record/literature.d/LIT-1134.md) | 4 | 0 | Persuasion Bias, Social Influence, and Unidimensional Opinions |
 | 2026-10-16 | Deferred | [LIT-1137](../../record/literature.d/LIT-1137.md) | 4 | 0 | The information theory of individuality |
@@ -190,7 +190,7 @@
 
 ## THEORYs
 
-553 of the 1044.
+557 of the 1048.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -573,7 +573,7 @@
 | 2026-10-16 | Proposed | [THEORY-615](../../record/theory.d/THEORY-615.md) | 0 | 0 | Stubborn distrust of scientific experts can follow validly from the truster's position: one with little say in collective decisions, who has reason to think the experts' service ethos leaves out their core interests, has a reason to distrust an expert because of the expert's prestige, whatever the expert's competence or goodwill |
 | 2026-10-16 | Proposed | [THEORY-657](../../record/theory.d/THEORY-657.md) | 0 | 0 | If an emergent property is one that the parts lack, then the other marks commonly given for emergence are separate questions about each system and not consequences of it: established condensed-matter cases show novelty without a discontinuity, a discontinuity without novelty, novelty that was predicted first, and novelty with a rigorous reduction |
 | 2026-10-16 | Proposed | [THEORY-682](../../record/theory.d/THEORY-682.md) | 0 | 0 | The time-average of a single threshold (Hill) response to a periodic signal is independent of the signal's period for a fixed waveform, so a frequency cannot be read by one sigmoidal stage; two cascaded stages can read it, because the first changes the waveform with period; and a delayed kinesin–dynein signalling loop whose period grows with axon length, read out this way and coupled to protrusion and contraction, can hold an axon at a stable length |
-| 2026-10-20 | Proposed | [THEORY-802](../../record/theory.d/THEORY-802.md) | 57 | 0 | In trained networks as in constructed ones, interchange interventions on a fixed set of variables can be satisfied equally by alignments related by a change of basis, so which internal direction mediates a high-level variable is fixed only relative to a chosen decomposition into units, and complex models will generally have several distinct, fully correct abstractions |
+| 2026-10-20 | Proposed | [THEORY-802](../../record/theory.d/THEORY-802.md) | 61 | 0 | In trained networks as in constructed ones, interchange interventions on a fixed set of variables can be satisfied equally by alignments related by a change of basis, so which internal direction mediates a high-level variable is fixed only relative to a chosen decomposition into units, and complex models will generally have several distinct, fully correct abstractions |
 | 2026-10-20 | Proposed | [THEORY-767](../../record/theory.d/THEORY-767.md) | 52 | 0 | Body ownership draws on interoceptive as well as exteroceptive signals: a visual cue synchronous with one's heartbeat increases ownership of a virtual hand and identification with a virtual body, and lower interoceptive sensitivity goes with greater susceptibility to the rubber hand illusion |
 | 2026-10-20 | Proposed | [THEORY-769](../../record/theory.d/THEORY-769.md) | 45 | 0 | Ownership of a body part is a graded belief that it is the most probable common cause of correlated multisensory input, so that synchronous stimulation of another object moves some of that belief to the object and away from the real part |
 | 2026-10-20 | Proposed | [THEORY-768](../../record/theory.d/THEORY-768.md) | 42 | 0 | Minimal selfhood is identification with the whole body, located where that body is felt to be and seen from inside it; owning a body part does not reach it, and bodily agency enables it causally without being part of it |
@@ -726,31 +726,35 @@
 | 2026-10-25 | Proposed | [THEORY-953](../../record/theory.d/THEORY-953.md) | 6 | 1 | On Isaac's structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; the convergence observed is coarse, with discrepancies that often exceed each method's own uncertainty, and the models average over subjects, so what they converge on is a standard observer |
 | 2026-10-25 | Proposed | [THEORY-947](../../record/theory.d/THEORY-947.md) | 5 | 1 | For Blackwell approachability of an approachable polytope under partial monitoring with a known signal law, there are efficient algorithms whose average vector payoff reaches the target at expected distance O(T^-1/3) for general signals and O(T^-1/2) when the signal law does not depend on the decision, the worst-case optimal rates for those two classes |
 | 2026-10-25 | Proposed | [THEORY-949](../../record/theory.d/THEORY-949.md) | 5 | 0 | When several LoRAs take turns over one denoising trajectory, each given the same share of steps, the result depends on the schedule and not only on the shares: switching at every step scored worst (a composition win rate against weight merging near 38%, against about 59% when each LoRA kept five consecutive steps), shortening the turns late in sampling scored worse than keeping them fixed, and which LoRA acted first mattered more than the order of the rest, the character first scoring best and the style first slightly below a random order |
-| 2026-10-26 | Proposed | [THEORY-1011](../../record/theory.d/THEORY-1011.md) | 29 | 0 | In autoregressive transformer language models, factual associations are stored in middle-layer MLP modules as linear key–value memories: the MLP takes a key encoding the subject at its last token and returns a value encoding its attributes, which late attention moves to the prediction, and any middle layer could store a given fact equally, as Meng, Bau, Andonian and Belinkov propose |
+| 2026-10-26 | Proposed | [THEORY-1013](../../record/theory.d/THEORY-1013.md) | 31 | 0 | In trained vision networks, units or other directions in a layer's activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose |
 | 2026-10-26 | Proposed | [THEORY-990](../../record/theory.d/THEORY-990.md) | 17 | 0 | In transformer language models of every size, including large ones with MLPs, induction heads, extended to fuzzy matching of similar tokens and abstract patterns, are the mechanism of most in-context learning, as Olsson et al. propose |
 | 2026-10-26 | Proposed | [THEORY-997](../../record/theory.d/THEORY-997.md) | 17 | 0 | When a pretrained language model is fine-tuned on a task it initially fails, it acquires the task mainly by reconnecting components it already has rather than by recruiting new ones: the circuits found before and after keep most of their nodes and change most of their edges, as Wang, Hu, Du, Cheng, Wang and Zou propose from LoRA fine-tuning of Pythia-1.4B on arithmetic |
-| 2026-10-26 | Proposed | [THEORY-1013](../../record/theory.d/THEORY-1013.md) | 15 | 0 | In trained vision networks, units or other directions in a layer's activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose |
 | 2026-10-26 | Proposed | [THEORY-1016](../../record/theory.d/THEORY-1016.md) | 15 | 0 | The features a sparse autoencoder recovers from a language model are a resolution set by the dictionary's width and sparsity penalty, not a unique set of the model's units: as the dictionary widens, features split into families of finer features, and splits also merge, so that the number of features is not well-posed |
 | 2026-10-26 | Proposed | [THEORY-967](../../record/theory.d/THEORY-967.md) | 12 | 0 | In a two-layer attention-only transformer, attention heads change function during training: heads in the first layer that predict simple n-grams early later become the previous-token heads of the induction circuit, a bracket-matching support head, or supporting members of a circuit with second-layer n-gram heads, giving up simple n-grams as they do, and particular n-grams pass from one head to another; so later circuits form partly by repurposing components that already had a role |
+| 2026-10-26 | Proposed | [THEORY-986](../../record/theory.d/THEORY-986.md) | 11 | 0 | Analogous features and circuits form across neural networks trained on different architectures, data and tasks, so that a feature or circuit found in one model can be expected in others, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose under the name universality |
 | 2026-10-26 | Proposed | [THEORY-995](../../record/theory.d/THEORY-995.md) | 11 | 0 | The attention heads in GPT-2 small that take over the indirect-object prediction when its main name mover heads are knocked out exist because the model was trained with dropout, which optimized it to be robust to disabled components, as Wang, Variengien, Conmy, Shlegeris and Steinhardt hypothesize |
 | 2026-10-26 | Proposed | [THEORY-982](../../record/theory.d/THEORY-982.md) | 10 | 0 | Claude 3.5 Haiku routinely computes intermediate steps within a single forward pass and plans its outputs ahead, representing a target before the text that leads to it and writing towards it, as Lindsey et al. propose from their case studies |
 | 2026-10-26 | Proposed | [THEORY-1004](../../record/theory.d/THEORY-1004.md) | 9 | 0 | In Pythia-1B, OLMo-1B and BLOOM-1B, the crosscoder features that most affect subject–verb agreement change over pretraining: at early checkpoints they detect particular tokens and subtokens, at later ones grammatical categories; in BLOOM, language-specific features give way to features shared across English, French, Spanish and Portuguese while Hindi and Arabic keep language-specific ones; and which features matter keeps shifting after task accuracy has stopped improving |
-| 2026-10-26 | Proposed | [THEORY-986](../../record/theory.d/THEORY-986.md) | 9 | 0 | Analogous features and circuits form across neural networks trained on different architectures, data and tasks, so that a feature or circuit found in one model can be expected in others, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose under the name universality |
 | 2026-10-26 | Proposed | [THEORY-1014](../../record/theory.d/THEORY-1014.md) | 8 | 0 | In a language model, a behaviour that looks like one mechanism, whether picked out by one contrast or by one cluster of next-token predictions, is often carried by several distinct pathways of sparse features that converge on the output without fully intersecting, as in Pythia-70M's agreement across a relative clause, its prediction of "to" before an infinitival object, and its incrementing of sequences |
 | 2026-10-26 | Proposed | [THEORY-1000](../../record/theory.d/THEORY-1000.md) | 7 | 0 | For fine-grained nodes of transformer language models generally, attribution patching corrected for attention saturation is a reliable prefilter for activation patching: nodes it ranks low rarely have large single-node patching effects, so verifying nodes in its order finds the important ones at a small multiple of the cost of an oracle, as Kramár et al. expect |
 | 2026-10-26 | Proposed | [THEORY-965](../../record/theory.d/THEORY-965.md) | 6 | 0 | Sparse-autoencoder features of a large language model's residual stream are units the model computes with: they track abstract concepts across languages, modalities and concrete or abstract instances, and intervening on one changes the model's behaviour in the way its label predicts, better than directions found from a few labelled examples |
 | 2026-10-26 | Proposed | [THEORY-1001](../../record/theory.d/THEORY-1001.md) | 5 | 0 | In a transformer whose candidate circuits are sets of shared elementary coordinates, how circuits interact during training is set by what they share: circuits that share a unit cooperate, and circuits that need the same layers for different roles compete, so that which circuit wins is decided by the initialization of units beyond its own, with sharp boundaries between competitors and soft ones between cooperators, as Musat, Pimentel, Zucchet and Hofmann read their three-layer scan |
 | 2026-10-26 | Proposed | [THEORY-1008](../../record/theory.d/THEORY-1008.md) | 3 | 0 | Mixed memberships fitted by a fifteen-block MMSB to 871 yeast proteins' curated physical interactions carry information about the proteins' top-level MIPS functions beyond what the functions' base rates give: after mapping blocks to functions on 87 proteins, thresholded memberships predicted the other proteins' annotations with about 87% accuracy, against about 70% for random guessing at the right proportions |
 | 2026-10-26 | Proposed | [THEORY-989](../../record/theory.d/THEORY-989.md) | 3 | 0 | On the abstracts of the Journal of the ACM, the held-out likelihood of infinite-depth hierarchical LDA is higher than that of flat LDA at every fixed topic count in a range bracketing hLDA's own posterior topic count, about 140, though the authors expect flat LDA to win once the topic count is free |
+| 2026-10-27 | Proposed | [THEORY-1022](../../record/theory.d/THEORY-1022.md) | 13 | 0 | The curve units of InceptionV1's mixed3b detect curves as such: curves, not correlated stimuli, cause their firing, they respond to curves in general whatever their colour, fill or texture, and they have no meaningful secondary function, their weak responses to edges and angles being part of the same curve-detecting algorithm, as Cammarata, Goh, Carter, Schubert, Petrov and Olah claim |
+| 2026-10-27 | Proposed | [THEORY-1026](../../record/theory.d/THEORY-1026.md) | 12 | 0 | In transformer language models, locating where a forward pass carries information about a fact and finding where a weight edit best changes the expressed fact are different questions, because an edit at one layer can override information accumulated across other layers, so that many layers could hold a fact and some happen to, as Hase, Bansal, Kim and Ghandeharioun propose |
 | 2026-10-27 | Proposed | [THEORY-1021](../../record/theory.d/THEORY-1021.md) | 11 | 0 | In transformer language models, attribution patching agrees well with activation patching for small patches of single heads and their queries, keys, values and attention patterns, for nodes late in a circuit relative to the metric, and for circuits that route information through attention, and agrees badly for large patches such as whole residual streams, for the first MLP layer and the early layers of deep circuits, where nonlinearities move out of saturation, and where an effect needs several features at once, as Nanda proposes |
-| 2026-10-27 | Proposed | [THEORY-1026](../../record/theory.d/THEORY-1026.md) | 10 | 0 | In transformer language models, locating where a forward pass carries information about a fact and finding where a weight edit best changes the expressed fact are different questions, because an edit at one layer can override information accumulated across other layers, so that many layers could hold a fact and some happen to, as Hase, Bansal, Kim and Ghandeharioun propose |
-| 2026-10-27 | Proposed | [THEORY-1022](../../record/theory.d/THEORY-1022.md) | 7 | 0 | The curve units of InceptionV1's mixed3b detect curves as such: curves, not correlated stimuli, cause their firing, they respond to curves in general whatever their colour, fill or texture, and they have no meaningful secondary function, their weak responses to edges and angles being part of the same curve-detecting algorithm, as Cammarata, Goh, Carter, Schubert, Petrov and Olah claim |
+| 2026-10-27 | Proposed | [THEORY-1039](../../record/theory.d/THEORY-1039.md) | 8 | 0 | In autoregressive transformer language models, factual associations are recalled through middle-layer MLP modules acting as key–value memories, and any fact could be stored equally in any one of the middle MLP layers, as Meng, Bau, Andonian and Belinkov conjecture |
+| 2026-10-27 | Proposed | [THEORY-1044](../../record/theory.d/THEORY-1044.md) | 8 | 0 | For the infinite hidden Markov model the beam sampler reaches the posterior in fewer iterations than the single-site Gibbs sampler, and is less sensitive to initialization and hyperpriors, particularly when hidden states persist and emissions are uninformative, at a cost per iteration close to the Gibbs sampler's |
+| 2026-10-27 | Proposed | [THEORY-1047](../../record/theory.d/THEORY-1047.md) | 8 | 0 | The curve units of InceptionV1's mixed3b implement a simple algorithm that can be read off their weights and written down in a few sentences: families of Gabors, lines and early curves, each a set of rotated copies of one unit, tiled along the curve's tangent, with negative weights against similar shapes of opposing orientation, rotational and scale equivariance reducing the circuit's more than 50,000 parameters about fifty-fold, so that a network written from this description reimplements them and the description accurately reflects the circuit, as Cammarata, Goh, Carter, Voss, Schubert and Olah claim |
 | 2026-10-27 | Proposed | [THEORY-1030](../../record/theory.d/THEORY-1030.md) | 7 | 0 | In transformer language models, each hidden unit of a feed-forward layer acts as a key–value memory, its input weights detecting patterns in the prefix and its output weights promoting the tokens that follow them, and a layer's output composes many such memories while the residual stream refines the prediction from layer to layer, as Geva, Schuster, Berant and Levy propose |
+| 2026-10-27 | Proposed | [THEORY-1040](../../record/theory.d/THEORY-1040.md) | 6 | 0 | The units of the early layers of trained vision networks fall largely into neuron families, sets of variants of one feature across orientation, colour or scale, which reflect structure in the network rather than a convenience of the person sorting them, and the same families form across models, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose |
 | 2026-10-27 | Proposed | [THEORY-1027](../../record/theory.d/THEORY-1027.md) | 5 | 0 | In audits of language models for hidden objectives, sparse-autoencoder features add to what black-box attacks and semantic search over the training data can find, surfacing knowledge the model does not disclose even where the data that taught it is not semantically similar to the context in which it is applied, as Marks, Treutlein et al. suggest |
+| 2026-10-27 | Proposed | [THEORY-1035](../../record/theory.d/THEORY-1035.md) | 5 | 0 | In trained neural networks, polysemantic neurons arise from the loss-optimal allocation of a layer's limited capacity among features: a feature is shared between neurons when its marginal loss reduction from capacity equals that of the features it shares with, so that sparser, higher-kurtosis inputs, which make returns to capacity diminish, produce more polysemanticity, and the block structure of the embedding, which architecture shapes, sets how many features each neuron mixes, as Scherlis, Sachan, Jermyn, Benton and Shlegeris propose |
 
 ## ADRs
 
-3 of the 1044.
+3 of the 1048.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -760,7 +764,7 @@
 
 ## QUESTIONs
 
-9 of the 1044.
+9 of the 1048.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -776,7 +780,7 @@
 
 ## CLAIMs
 
-273 of the 1044.
+273 of the 1048.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -1056,12 +1060,12 @@
 
 ## CASEs
 
-13 of the 1044.
+13 of the 1048.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-10-04 | Deferred | [CASE-014](../../record/cases.d/CASE-014.md) | 2 | 0 | Microsoft, as the philosophical target |
-| 2026-10-26 | Proposed | [CASE-165](../../record/cases.d/CASE-165.md) | 45 | 0 | A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs |
+| 2026-10-26 | Proposed | [CASE-165](../../record/cases.d/CASE-165.md) | 70 | 2 | A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs |
 | 2026-10-26 | Proposed | [CASE-162](../../record/cases.d/CASE-162.md) | 19 | 7 | Capture and selectively admitted evidence in two lab realizations: in a four-variable model of authority, record and competence the equilibrium fold under self-scoring is at c ≈ 0.4247 while the declared history is trapped from c ≈ 0.4469, and in a 32-member event-level population, admission of cues that depends on the record reverses the sign of the admitted evidence and leaves the worse alternative in charge in 41 of 64 worlds, which exact inverse-propensity weighting brings to 0 of 64 below full selectivity |
 | 2026-10-26 | Proposed | [CASE-166](../../record/cases.d/CASE-166.md) | 15 | 0 | Northstar as a multilevel simulation: twelve employees with fixed frames in four departments form overlapping working groups that keep records and can receive delegated authority; as reported, a working group with delegated authority ties a conventional router given the same information and authority, nearly all of its advantage over departmental silos comes from fast authorization, and keeping the incident team's records through a commander handoff improves the company's estimate of its own state about eightfold while barely changing what it does |
 | 2026-10-26 | Proposed | [CASE-161](../../record/cases.d/CASE-161.md) | 14 | 4 | Reciprocally produced, externally reset and feedback-only governing rules in a 32-member population: with ordinary trajectories identical, reciprocal production repairs the loss of one rule and not of both and fails after producer outages of 36 updates for audit and 40 for admission, after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00 in the three arrangements, and a self-dependent production graph does not regenerate a zeroed rule |
@@ -1076,7 +1080,7 @@
 
 ## TERMs
 
-17 of the 1044.
+17 of the 1048.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -1100,7 +1104,7 @@
 
 ## ARGs
 
-2 of the 1044.
+2 of the 1048.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

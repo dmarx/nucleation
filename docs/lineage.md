@@ -2,7 +2,7 @@
 
 # Lines of work
 
-76 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+79 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -93,6 +93,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1554](../record/literature.d/LIT-1554.md) — Transcoders Find Interpretable LLM Feature Circuits *(Active)*
   - [LIT-1552](../record/literature.d/LIT-1552.md) — Circuit Tracing: Revealing Computational Graphs in Language Models *(Active)*
+
+### From Curve Detectors
+
+- [LIT-1575](../record/literature.d/LIT-1575.md) — Curve Detectors *(Active)*
+  - [LIT-1629](../record/literature.d/LIT-1629.md) — Curve Circuits *(Active)*
+
+### From Toy Models of Superposition
+
+- [LIT-323](../record/literature.d/LIT-323.md) — Toy Models of Superposition *(Active)*
+  - [LIT-1625](../record/literature.d/LIT-1625.md) — Polysemanticity and Capacity in Neural Networks *(Active)*
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
@@ -950,6 +960,15 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-1542](../record/literature.d/LIT-1542.md) — The nested Chinese restaurant process and Bayesian nonparametric inference of topic hierarchies *(Active)*
   - [LIT-002](../record/literature.d/LIT-002.md) — Nested Hierarchical Dirichlet Processes *(Active)*
 
+### From Infinite Latent Feature Models and the Indian Buffet Process
+
+- [LIT-1623](../record/literature.d/LIT-1623.md) — Infinite Latent Feature Models and the Indian Buffet Process *(Active)*
+  - [LIT-1556](../record/literature.d/LIT-1556.md) — The Indian Buffet Process: An Introduction and Review *(Active)*
+  - [LIT-1577](../record/literature.d/LIT-1577.md) — The Infinite Factorial Hidden Markov Model *(Active)* — also carries further LIT-1628
+  - [LIT-1626](../record/literature.d/LIT-1626.md) — Infinite Sparse Factor Analysis and Infinite Independent Components Analysis *(Active)*
+  - [LIT-1627](../record/literature.d/LIT-1627.md) — Stick-breaking Construction for the Indian Buffet Process *(Active)*
+- [LIT-1628](../record/literature.d/LIT-1628.md) — Factorial Hidden Markov Models *(Active)*
+
 ### From Life as we know it
 
 - [LIT-526](../record/literature.d/LIT-526.md) — Life as we know it *(Active)*
@@ -1030,6 +1049,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1554](../record/literature.d/LIT-1554.md) — Transcoders Find Interpretable LLM Feature Circuits *(Active)*
   - [LIT-1552](../record/literature.d/LIT-1552.md) — Circuit Tracing: Revealing Computational Graphs in Language Models *(Active)*
+
+### From Curve Detectors
+
+- [LIT-1575](../record/literature.d/LIT-1575.md) — Curve Detectors *(Active)*
+  - [LIT-1629](../record/literature.d/LIT-1629.md) — Curve Circuits *(Active)*
+
+### From Toy Models of Superposition
+
+- [LIT-323](../record/literature.d/LIT-323.md) — Toy Models of Superposition *(Active)*
+  - [LIT-1625](../record/literature.d/LIT-1625.md) — Polysemanticity and Capacity in Neural Networks *(Active)*
 
 ### From The Role of the Information Bottleneck in Representation Learning
 

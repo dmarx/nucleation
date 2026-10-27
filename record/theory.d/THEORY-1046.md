@@ -1,12 +1,15 @@
 ---
+number: 1046
 status: Active
+formerly:
+- THEORY-tmpxim6p
 title: 'In infinite sparse factor analysis, where a binary mask says whether a source is active at a data point and an independent Gaussian value says how strongly, the evidence of that data point for the source being active, with its value integrated out, is σ̂·exp(μ̂²/(2σ̂²)) for the posterior mean μ̂ and standard deviation σ̂ of the value; when the residual has no component along the source''s loading the ratio is σ̂, below one, so the data favour an inactive source over an active one at zero by a factor that the prior on the value sets'
 version: 1
 history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Active from NOTE-tmpmxqaw. The ratio is the paper's, §3 of
+    Filed Active from NOTE-1209. The ratio is the paper's, §3 of
     Knowles and Ghahramani (2007), from its eq. (9); the reading at μ̂ = 0
     is the record's. Both were checked by numerical integration: with
     D = 5, σ_ε² = 0.7 and random g and ε, quadrature gives 0.310857 and
@@ -17,9 +20,9 @@ tags:
 - mathematical-statistics
 date: '2026-10-27'
 source:
-- LIT-tmpezspt
+- LIT-1626
 summary: >-
-  Knowles and Ghahramani (2007), [LIT-tmpezspt](../literature.d/LIT-tmpezspt.md), read in [NOTE-tmpmxqaw](../notes.d/NOTE-tmpmxqaw.md). With
+  Knowles and Ghahramani (2007), [LIT-1626](../literature.d/LIT-1626.md), read in [NOTE-1209](../notes.d/NOTE-1209.md). With
   y = g x + ε, x ~ N(0, 1), ε ~ N(0, σ_ε² I): ∫ p(y | x) p(x) dx / p(y |
   x = 0) = σ̂ exp{μ̂²/(2σ̂²)}, σ̂² = σ_ε²/(σ_ε² + g′g), μ̂ = g′ε/(σ_ε² +
   g′g). It is the Gaussian case only; the Laplacian case is the paper's
@@ -28,13 +31,13 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
-# THEORY-tmpxim6p: In infinite sparse factor analysis, where a binary mask says whether a source is active at a data point and an independent Gaussian value says how strongly, the evidence of that data point for the source being active, with its value integrated out, is σ̂·exp(μ̂²/(2σ̂²)) for the posterior mean μ̂ and standard deviation σ̂ of the value; when the residual has no component along the source's loading the ratio is σ̂, below one, so the data favour an inactive source over an active one at zero by a factor that the prior on the value sets
+# THEORY-1046: In infinite sparse factor analysis, where a binary mask says whether a source is active at a data point and an independent Gaussian value says how strongly, the evidence of that data point for the source being active, with its value integrated out, is σ̂·exp(μ̂²/(2σ̂²)) for the posterior mean μ̂ and standard deviation σ̂ of the value; when the residual has no component along the source's loading the ratio is σ̂, below one, so the data favour an inactive source over an active one at zero by a factor that the prior on the value sets
 
 ## Source
 
 Knowles and Ghahramani (2007), *Infinite sparse factor analysis and
-infinite independent components analysis*, [LIT-tmpezspt](../literature.d/LIT-tmpezspt.md), read in full in
-[NOTE-tmpmxqaw](../notes.d/NOTE-tmpmxqaw.md): §3, eqs. (9) and (12)–(14).
+infinite independent components analysis*, [LIT-1626](../literature.d/LIT-1626.md), read in full in
+[NOTE-1209](../notes.d/NOTE-1209.md): §3, eqs. (9) and (12)–(14).
 
 ## What was actually shown
 
@@ -74,5 +77,5 @@ script, 2026-10-27).
   activation fixed; with the activation integrated out, the data carry an
   Occam factor against holding an unused feature, whose size the
   activation's prior sets.
-- **[THEORY-tmpo1cju](THEORY-tmpo1cju.md).** The mask's prior is the IBP; its prior odds term
+- **[THEORY-1043](THEORY-1043.md).** The mask's prior is the IBP; its prior odds term
   is the buffet's m/(N − m) at β = 1.

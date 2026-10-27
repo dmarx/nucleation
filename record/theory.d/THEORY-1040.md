@@ -1,5 +1,8 @@
 ---
+number: 1040
 status: Proposed
+formerly:
+- THEORY-tmpehpcu
 promote_when: >-
   Membership fixed by a procedure stated in advance and applied without a
   labeller's judgement (a clustering of weights or activations, or the
@@ -18,31 +21,31 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmpdmtd9, as the claim the measured
-    THEORY-tmpjdph0 leaves out (ADR-047 v4). The authors grade it
+    Filed Proposed from NOTE-1206, as the claim the measured
+    THEORY-1042 leaves out (ADR-047 v4). The authors grade it
     themselves: the families are "ad-hoc, human defined", some are
     suspected "real", and "many others are categories of convenience".
 tags:
 - representation-learning
 date: '2026-10-27'
 source:
-- LIT-tmp6ii6u
+- LIT-1624
 extends:
-- THEORY-tmpjdph0
+- THEORY-1042
 summary: >-
-  Olah et al. (2020), [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read in [NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md). The article's
+  Olah et al. (2020), [LIT-1624](../literature.d/LIT-1624.md), read in [NOTE-1206](../notes.d/NOTE-1206.md). The article's
   organizing hypothesis: early vision's units come in families, some of
   them real structure (said to be recoverable by factorizing weight
   matrices), and the families recur across models. The census
-  ([THEORY-tmpjdph0](THEORY-tmpjdph0.md)) is by eye in one model; neither the factorization nor
+  ([THEORY-1042](THEORY-1042.md)) is by eye in one model; neither the factorization nor
   a second model's sorting is shown.
 ---
-# THEORY-tmpehpcu: The units of the early layers of trained vision networks fall largely into neuron families, sets of variants of one feature across orientation, colour or scale, which reflect structure in the network rather than a convenience of the person sorting them, and the same families form across models, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
+# THEORY-1040: The units of the early layers of trained vision networks fall largely into neuron families, sets of variants of one feature across orientation, colour or scale, which reflect structure in the network rather than a convenience of the person sorting them, and the same families form across models, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
 
 ## Source
 
 Olah et al. (2020), *An Overview of Early Vision in InceptionV1*,
-[LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read in full in [NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md): Playing Cards with Neurons,
+[LIT-1624](../literature.d/LIT-1624.md), read in full in [NOTE-1206](../notes.d/NOTE-1206.md): Playing Cards with Neurons,
 Caveats and the Conclusion.
 
 ## What is asserted
@@ -56,10 +59,10 @@ weight matrices". Early vision "seems most likely to be universal".
 
 ## What the record holds toward it
 
-- **One model, sorted by eye** ([THEORY-tmpjdph0](THEORY-tmpjdph0.md)): 77 groups over 1,056
+- **One model, sorted by eye** ([THEORY-1042](THEORY-1042.md)): 77 groups over 1,056
   units, 37% flagged by the authors as uncertain or catch-all.
 - **Equivariant families in depth** for the curve circuit: Curve Circuits
-  ([LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)) finds rotated copies of one unit across Gabor, line and
+  ([LIT-1629](../literature.d/LIT-1629.md)) finds rotated copies of one unit across Gabor, line and
   early-curve families, which is the kind of structure a family would
   have if it were real.
 - **Another model's first layer** only: the TF-Slim InceptionV1, whose

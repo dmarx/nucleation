@@ -1,5 +1,8 @@
 ---
+number: 1044
 status: Proposed
+formerly:
+- THEORY-tmptl00j
 promote_when: >-
   A comparison of the beam and Gibbs samplers for the infinite HMM per
   unit of computation, not per iteration, reported as numbers (effective
@@ -17,7 +20,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmp2597d. It is the paper's empirical claim,
+    Filed Proposed from NOTE-1204. It is the paper's empirical claim,
     §5 of Van Gael, Saatci, Teh and Ghahramani (2008). Its evidence is
     charts (Figures 3, 4 and 7), a visual comparison of co-segmentation
     matrices (Figure 6), and one fixed hyperparameter setting chosen from
@@ -27,22 +30,22 @@ tags:
 - mathematical-statistics
 date: '2026-10-27'
 source:
-- LIT-tmp0oa8w
+- LIT-1622
 summary: >-
-  Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), read in
-  [NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md). Two synthetic designs (an almost cyclic 4-state HMM,
+  Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-1622](../literature.d/LIT-1622.md), read in
+  [NOTE-1204](../notes.d/NOTE-1204.md). Two synthetic designs (an almost cyclic 4-state HMM,
   length 800, 20 runs; persistent 4-state HMMs with self-transitions to
   0.999, length 4000, 60 starts), a well-log series and a text task. The
-  beam sampler is exact by construction ([THEORY-tmp7bmmi](THEORY-tmp7bmmi.md)); how much faster
+  beam sampler is exact by construction ([THEORY-1037](THEORY-1037.md)); how much faster
   it mixes is shown only in iterations and by eye.
 ---
 
-# THEORY-tmptl00j: For the infinite hidden Markov model the beam sampler reaches the posterior in fewer iterations than the single-site Gibbs sampler, and is less sensitive to initialization and hyperpriors, particularly when hidden states persist and emissions are uninformative, at a cost per iteration close to the Gibbs sampler's
+# THEORY-1044: For the infinite hidden Markov model the beam sampler reaches the posterior in fewer iterations than the single-site Gibbs sampler, and is less sensitive to initialization and hyperpriors, particularly when hidden states persist and emissions are uninformative, at a cost per iteration close to the Gibbs sampler's
 
 ## Source
 
-Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), read in full in
-[NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md): §5.1 (two synthetic designs), §5.2 (well-log data) and
+Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-1622](../literature.d/LIT-1622.md), read in full in
+[NOTE-1204](../notes.d/NOTE-1204.md): §5.1 (two synthetic designs), §5.2 (well-log data) and
 §5.3 (Alice in Wonderland).
 
 ## What was actually shown
@@ -71,7 +74,7 @@ sizes.
 
 ## Connections
 
-- **[THEORY-tmp7bmmi](THEORY-tmp7bmmi.md).** The exactness of the sampler is settled; this is
+- **[THEORY-1037](THEORY-1037.md).** The exactness of the sampler is settled; this is
   the separate claim about speed.
 - **[LIT-1577](../literature.d/LIT-1577.md).** The infinite factorial HMM's experiments rely on a sampler
   of this kind and report two single runs ([NOTE-1199](../notes.d/NOTE-1199.md)); they add no

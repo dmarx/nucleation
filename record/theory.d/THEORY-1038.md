@@ -1,39 +1,42 @@
 ---
+number: 1038
 status: Active
+formerly:
+- THEORY-tmp90225
 title: 'In InceptionV1, the ten curve units of mixed3b, which respond to curves of one orientation and not to the opposite one, regain the 180° echo of earlier curve units when their input is restricted to mixed3a early curves with the negative weights removed, and not when the negative weights are kept; a network one author wrote by hand from the described circuit, without looking at the original weights and tuned afterwards, has grayscale curve units that the authors show, by figures only, approximating the natural ones on synthetic curves across radii and orientations; and substituting them for the ten units recovered 26 of the 46 top-5 classifications lost by deleting the units, on 2,000 validation images, a result the authors call preliminary'
 version: 1
 history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Active from NOTE-tmphb6el, the reading of Cammarata et al.
+    Filed Active from NOTE-1207, the reading of Cammarata et al.
     (2021) in full. One study, read in full; the title claims no more
     than the article measured and shows, with its own hedges (by
     figures, tuned afterwards, preliminary), and nothing in the record
     contradicts it (ADR-047 v3). The accuracy footnote's arithmetic was
     checked (2.3% and 1.0% of 2,000 are 46 and 20). The authors' fuller
     claim, that curve detection is a simple algorithm read off the
-    weights, is THEORY-tmpxjvwo, Proposed.
+    weights, is THEORY-1047, Proposed.
 tags:
 - representation-learning
 date: '2026-10-27'
 source:
-- LIT-tmpl1s2e
+- LIT-1629
 summary: >-
-  Cammarata et al. (2021), [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md), read in [NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md): the three
+  Cammarata et al. (2021), [LIT-1629](../literature.d/LIT-1629.md), read in [NOTE-1207](../notes.d/NOTE-1207.md): the three
   results of Curve Circuits that test its account of the mixed3b curve
   units, the echo edit, the hand-written reimplementation and the
   substitution. Only the last is a number, and a small one. It holds for
   one model's neuron basis and says nothing about weak firings or other
   families.
 ---
-<!-- inactive-ok-file: THEORY-tmpxjvwo THEORY-1013 THEORY-1022 — Proposed; the authors' full claim, the Zoom In account and the curve account it bears on, cited as open -->
-# THEORY-tmp90225: In InceptionV1, the ten curve units of mixed3b, which respond to curves of one orientation and not to the opposite one, regain the 180° echo of earlier curve units when their input is restricted to mixed3a early curves with the negative weights removed, and not when the negative weights are kept; a network one author wrote by hand from the described circuit, without looking at the original weights and tuned afterwards, has grayscale curve units that the authors show, by figures only, approximating the natural ones on synthetic curves across radii and orientations; and substituting them for the ten units recovered 26 of the 46 top-5 classifications lost by deleting the units, on 2,000 validation images, a result the authors call preliminary
+<!-- inactive-ok-file: THEORY-1047 THEORY-1013 THEORY-1022 — Proposed; the authors' full claim, the Zoom In account and the curve account it bears on, cited as open -->
+# THEORY-1038: In InceptionV1, the ten curve units of mixed3b, which respond to curves of one orientation and not to the opposite one, regain the 180° echo of earlier curve units when their input is restricted to mixed3a early curves with the negative weights removed, and not when the negative weights are kept; a network one author wrote by hand from the described circuit, without looking at the original weights and tuned afterwards, has grayscale curve units that the authors show, by figures only, approximating the natural ones on synthetic curves across radii and orientations; and substituting them for the ten units recovered 26 of the 46 top-5 classifications lost by deleting the units, on 2,000 validation images, a result the authors call preliminary
 
 ## Source
 
 Cammarata, Goh, Carter, Voss, Schubert and Olah (2021), *Curve Circuits*,
-Distill, [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md), read in full in [NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md): 3a Early Curve
+Distill, [LIT-1629](../literature.d/LIT-1629.md), read in full in [NOTE-1207](../notes.d/NOTE-1207.md): 3a Early Curve
 Family, An Artificial Artificial Neural Network and its footnotes. The
 figures were not rendered; their content is from captions and text.
 
