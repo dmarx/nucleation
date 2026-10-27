@@ -1,0 +1,271 @@
+---
+status: Read
+paper: 'LIT-tmpg22tp'
+title: 'Hase, Bansal, Kim and Ghandeharioun — Does localization inform editing?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full on 2026-10-27 from the arXiv PDF of 2301.04213v2 (16
+    October 2023; footer "37th Conference on Neural Information
+    Processing Systems (NeurIPS 2023)"), fetched from
+    arxiv.org/pdf/2301.04213, text extracted with pdftotext. Read: §§1–9
+    (introduction, related work, notation and background, the main
+    experiment, the editing-problem variants, discussion, conclusion,
+    limitations, broader impacts) and Appendices A (data filtering,
+    compute, hyperparameter tuning) and B–C (ZSRE, representation
+    zeroing, concentrated tracing effects, essence drift, other metrics,
+    window size, GPT-2 XL, unscaled metrics, last-subject-token effects),
+    with Tables 1–8 read as tables. Figures were read from captions and
+    text; Figure 6 was read from a rendering of page 8, to check it
+    against Table 3. v1 (10 January 2023) was not compared. The record
+    checked the paper's averages against its own tables (below).
+date: '2026-10-27'
+summary: >-
+  On 652 CounterFact facts GPT-J completes correctly, the paper asks
+  whether the layer where causal tracing places a fact predicts where an
+  edit of that fact succeeds. It does not. Regressing edit success on the
+  edit layer explains most of its variance (94.7% for ROME's rewrite
+  score), and adding the per-fact tracing effect adds at most 3.2 points,
+  across four editing methods and five editing problems; for ROME at layer
+  6 the correlation is slightly negative. ROME rewrites at over 96% at every
+  layer but the last. The authors conclude that tracing and editing answer
+  different questions.
+---
+<!-- inactive-ok-file: THEORY-1011 THEORY-tmpiz2n7 THEORY-802 CLAIM-454 CLAIM-130 — Proposed; the storage hypothesis this reading tests, the account it files, and the accounts and claims it bears on, cited as open -->
+
+# NOTE-tmpg0dnu: Hase, Bansal, Kim and Ghandeharioun — Does localization inform editing?
+
+## Contribution
+
+The first test of the step ROME (LIT-1536) and MEMIT (LIT-tmpsrubd)
+take from localization to editing, done per fact rather than on
+averages. Meng et al. compared tracing and editing each averaged over
+facts; this paper asks whether, for a given fact, the layers where
+causal tracing finds its effect are the layers where editing it works.
+They are not. It then varies the editing problem toward tracing's own
+setting to find where the two reconnect, and finds a small link only when
+the edit is made on tracing's noised input.
+
+## Key insight
+
+Edit success depends on which layer is edited, and hardly at all on
+whether that layer is where tracing found this fact. ROME succeeds at
+nearly every layer, including layers where tracing finds nothing for the
+fact being edited. So a working edit cannot be read as confirming a
+localization, and a localization cannot be used to choose the edit.
+Causal tracing says where a forward pass carries information that, put
+back into a noised run, restores the answer. Editing asks where a weight
+change will move the output. The paper shows these come apart.
+
+## Assumptions
+
+- **Facts and data.** Tuples (s, r, o) from CounterFact, each with a
+  paraphrase set, neighbouring subjects s* and a false target o_false.
+  About 10% of CounterFact, filtered to facts GPT-J completes correctly
+  (o_true among the first 36 greedily decoded tokens; GPT-J's accuracy is
+  32.6%), leaves n = 652. For Fact Erasure, only points with
+  p(o_true | s, r) ≥ 0.02 are kept, n = 489.
+- **Model.** GPT-J (6B, 28 layers), with GPT-2 XL (48 layers) as a
+  robustness check. Layers are numbered from 1: ROME's default edit layer
+  for GPT-J is "layer 6", and Figure 1 puts MEMIT's edit layers at 4–9.
+- **Causal tracing.** Gaussian noise with σ = 0.094 added to the subject's
+  token embeddings; MLP outputs restored over a window of five adjacent
+  layers by default (ten in the checks). The tracing effect at a layer is
+  the maximum over tokens, as a fraction of the probability lost:
+  (p(o_true | s_noise, r, v) − p(o_true | s_noise, r)) / (p(o_true | s, r)
+  − p(o_true | s_noise, r)).
+- **Edit metrics, rescaled to [0, 1].** Rewrite score (p_θ*(o_false | s, r)
+  − p_θ(o_false | s, r)) / (1 − p_θ(o_false | s, r)); the same on
+  paraphrases; a neighbourhood score that is 1 when neighbours' outputs
+  do not move. The unscaled CounterFact metrics are used as a check.
+- **Analysis.** For each edit method and problem, linear regressions of
+  edit success on (i) the edit layer as a categorical variable, (ii) the
+  tracing effect, and (iii) both, interacted; the gain in R² from (i) to
+  (iii) is tested with an F-test. Edit layers for GPT-J are {1, 5, 9, 13,
+  17, 21, 25, 28} and 6 (§4.2; Appendix A gives 24 for 25).
+- **Methods.** ROME (one layer), MEMIT (five layers), and Adam
+  fine-tuning under an ℓ∞ constraint at one layer (FT-1) or five (FT-5),
+  each tuned so that the rewrite score stays at or under 99%.
+
+## Key results
+
+- **Tracing does not predict ROME's success (§4, Table 1).** For ROME at
+  GPT-J's layer 6, the rewrite score correlates with the tracing effect at
+  ρ = −0.13 (p < 1e−3); at most other layers the correlation is near zero
+  (Figure 15). R² for rewrite score: layer 0.947, tracing 0.016, both
+  0.948. ROME's mean rewrite score is 99% at layer 6 and above 96% at every
+  layer except 28.
+- **Where tracing peaks.** Figure 1 counts, per fact, the layer of GPT-J
+  where the window-5 tracing effect peaks; many facts peak at layers 1–3
+  or 16–20, outside the range ROME and MEMIT edit. The peaks spread toward
+  the first and last layers as the window shrinks, partly an artefact of
+  clipping the window at the ends (Figure 11).
+- **Five editing problems (§5, Figure 6, Table 3).** Error Injection (the
+  standard problem), Tracing Reversal (make the clean input give the noised
+  run's output), Fact Erasure, Fact Amplification, and Fact Forcing
+  (raise p(o_true) on the noised input, as tracing does). Across the
+  twenty method–problem pairs, adding the tracing effect raises R² by at
+  most 0.032 (FT-5, Fact Forcing), and the layer alone explains 58.5% on
+  average over the sixteen non-standard pairs. Editing five layers to
+  match the five restored in tracing does not help.
+- **Fact Forcing.** The one setting with a reliable link: for FT-1 and
+  FT-5, tracing adds 2.7 and 3.2 points of R² (p < 1e−4), and Figure 17
+  shows a visible positive slope within layers. The authors attribute it
+  to editing on s_noise; changing the target or the sign of the objective
+  makes no such difference.
+- **Robustness (Appendix B–C).** The same pattern for paraphrase,
+  neighbourhood and overall scores (gains of at most 0.03, 0.02 and 0.02),
+  for window size 10, for GPT-2 XL (gain at most about 0.02, again Fact
+  Forcing), for the unscaled metrics (ρ = −0.006), for the tracing effect at
+  the last subject token, for ZSRE (layer R² 0.795 against tracing 0.042)
+  and for representation zeroing as the localization method. On the 74
+  facts (about 10%) whose tracing effects are concentrated in at most four
+  layers, the gain for ROME is 0.2 points (layer 0.927, tracing 0.02, both
+  0.929).
+- **Essence drift.** A perplexity-based essence score, new here, favours
+  later edit layers, against the other metrics; combined, the best layer
+  moves slightly toward the middle (Figures 8–9).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | In GPT-J on CounterFact, the per-fact tracing effect at a layer adds almost nothing to predicting edit success at that layer once the layer is known | strong for this setting | 652 facts; four methods, five problems, F-tests; many robustness checks (THEORY-tmpg87ki) |
+| C2 | ROME edits succeed (rewrite > 96%) at almost every layer of GPT-J, including where tracing finds nothing for the fact | strong | Figure 7, §4.1 |
+| C3 | The result holds for GPT-2 XL, ZSRE, representation zeroing and other metrics | moderate | Appendix B–C, mostly as figures and R² tables |
+| C4 | Tracing relates to editing only when the edit is made on tracing's noised input (Fact Forcing), and weakly | moderate | Figure 6, Table 3, Figure 17; the attribution to s_noise is by elimination across the five problems |
+| C5 | Causal tracing and model editing answer different questions; "many layers could store a fact, and it happens that some do" | weak | offered in §6, explicitly left to future work (THEORY-tmpiz2n7) |
+| C6 | Editing experiments do not add evidence for localization claims | moderate as a conditional | §6: follows from C1 if the two questions differ; argued, not measured beyond this case |
+
+## Concepts
+
+- **Causal tracing / representation denoising**: restore clean
+  representations into a run with a noised subject and measure how much of
+  the original probability returns. The paper reads it as measuring "the
+  information content" of the restored states.
+- **Representation zeroing**: zero clean MLP outputs at the subject tokens
+  over a window and measure the probability lost.
+- **Tracing window size**: how many adjacent layers are restored at once.
+- **Editing problems**: Error Injection, Tracing Reversal, Fact Erasure,
+  Fact Amplification, Fact Forcing, as above.
+- **Essence score**: 1 if perplexity on five "s is a" samples from the
+  pre-edit model does not change, 0 at a fivefold increase.
+
+## Connections
+
+It tests the localization-to-editing step of ROME (LIT-1536) and MEMIT
+(LIT-tmpsrubd), using their CounterFact data, their tracing code and,
+for MEMIT, their hyperparameters. It cites Geva et al. (LIT-tmpe8ypo) for
+the MLP-as-memory reading. Its related-work section lists the many
+localization studies that validate a localization by editing at it
+(Dai et al.'s knowledge neurons among them). Zhao et al.'s layer-swap
+result is cited as the reason its own explanation would be surprising,
+the same result ROME cites for the opposite conclusion. Makelov et al.
+(LIT-968) cite this paper and give a mechanism for its central finding.
+
+## Bearing on the record
+
+- **THEORY-1011.** Its promote_when asks whether "the layer where
+  causal tracing finds a fact's effect predicts, fact by fact, where an
+  edit of that fact succeeds", and says it is refuted "if edits of equal
+  quality are available at layers that tracing does not implicate". This
+  paper reports the second for the rewrite score in GPT-J: ROME is above
+  96% at layers where tracing does not place the fact, and tracing adds
+  0.1 points of R². On the paraphrase and overall scores the layers do
+  differ, but by layer, not by where tracing places the fact. So the
+  localization part of THEORY-1011, that the fact is stored at the traced
+  site, meets its own refutation condition here. Its conjecture that any
+  middle layer could store a fact is close to this paper's "many layers
+  could store a fact", and is not refuted. Whether to narrow, split or
+  reject THEORY-1011 is left to the consolidator; this reading does not
+  change it.
+- **THEORY-998.** Not contradicted. Its title says ROME works best "at
+  that token and in middle layers", which is an average over facts, and
+  ROME is best on average at GPT-J's layer 6 here too. What this paper
+  contradicts is the reading of that average as following from where each
+  fact is traced (NOTE-1166, C4).
+- **LIT-968, THEORY-282, NOTE-782.** Makelov et al. explain this finding:
+  a rank-one edit with the same output exists for any one-dimensional fact
+  patch, so an edit can work at a layer whatever that layer carries. This
+  paper is the empirical side of that point, and NOTE-782 cites it as
+  such.
+- **CLAIM-130, QUESTION-030.** Two interventions on the same model, one
+  restoring states and one changing weights, give different answers to
+  "where", because they are different interventions. That is CLAIM-130's
+  caution about do(S) and do(I) in another setting. The analogy is the
+  record's.
+- **THEORY-802, QUESTION-234.** Many layers can carry an edit equally
+  well, as many bases can satisfy an interchange. Both say that the
+  success of an intervention underdetermines where the variable is. The
+  analogy is the record's.
+- **CLAIM-454.** A localization method recovers where restoring a state
+  helps a corrupted run, not what organizes the behaviour in the clean
+  one. The paper's Fact Forcing result, a link that appears only on the
+  noised input, is a case of that.
+- **Accounts filed.** THEORY-tmpg87ki (Active): the measured result,
+  limited to the models, data and methods tested. THEORY-tmpiz2n7
+  (Proposed): the authors' account of why.
+
+No instruction for machine-learning practice is drawn. Which layer to
+edit is practice, the anthology's (`anthology-candidate`).
+
+## Limitations
+
+- **"Where a fact is stored" means where causal tracing peaks**, and
+  the paper's own conclusion is that this is a different question from
+  editing. So the result is about tracing as an edit-locator, not about
+  where facts are stored in any other sense.
+- **The analysis is by regression on a categorical layer.** The layer term
+  absorbs everything that varies by layer, including the average tracing
+  profile; the gain from adding tracing measures only the per-fact
+  deviation from that. A layer where facts are traced on average can still
+  be the best layer to edit, as layer 6 is.
+- **Edit methods are tuned to cap the rewrite score at 99%**, which
+  compresses its variance at good layers.
+- **Two models of at most 6B parameters, short English prompts, one kind
+  of factual knowledge**, as the authors say.
+- **Fact Forcing is "of little practical significance"**, by the
+  authors' own description; it is a diagnostic of why the link fails, not
+  an editing task.
+- **The explanation in §6 is untested**, and the authors say so.
+
+### Errors and inconsistencies found
+
+- **Table 3 against Figure 6 and §5.3.** For Tracing Reversal with FT-1,
+  Table 3 gives R² 0.067 (layer) and 0.067 (both). Figure 6, which §5.3
+  says shows the same numbers, gives 29.4 and 29.6. §5.3's "58.5% on
+  average across conditions in Fig. 6" is the mean of Figure 6's sixteen
+  layer-only bars with 29.4 (58.5); with Table 3's 6.7 it would be 57.1.
+  Figure 6's 29.4 and 29.6 are instead Table 6's (overall score) values
+  for the same cell, and the next row of Table 3 (FT-5, 0.751, 0.045,
+  0.752, 0.001, 0.032) is digit for digit Table 6's. So one of the tables
+  or the figure has a row from the wrong table. None of this touches the
+  conclusion, since the gain from tracing is near zero in every version.
+- **The edit layers.** §4.2 lists {1, 5, 9, 13, 17, 21, 25, 28}; Appendix
+  A lists {1, 5, 9, 13, 17, 21, 24, 28}.
+- **The sample.** "About 10%" of CounterFact's 21,919 records at 32.6%
+  accuracy would give about 715 facts; n = 652 is 32.6% of 2,000, so the
+  starting sample was 2,000 records (9.1%). Not an error, but the count is
+  not stated.
+- **Small slips.** Appendix A's Tracing Reversal line gives FT-5's
+  constraint twice. "Up from 1.5% for other experiments" (§5.3) means at
+  most 1.5 points elsewhere, which matches Table 3 (Tracing Reversal with
+  ROME, 0.015).
+- **Checked and consistent.** Table 1's R² values are Table 3's Error
+  Injection row for ROME and Table 7's. The largest gain, 0.032, is Table
+  3's Fact Forcing row for FT-5. The figure's bars match Table 3 in every
+  other cell.
+
+## Open questions
+
+- If edits at almost any layer can override a fact, what does that say
+  about how the downstream layers read the residual stream, given that
+  layers cannot be swapped freely (the paper's own puzzle)?
+- Would a localization on the clean run (an ablation or a patch from
+  another clean input, rather than restoration into a noised one) predict
+  edit success where denoising does not? Representation zeroing is one
+  such method, and it does not.
+- Does the paraphrase or neighbourhood score, rather than the rewrite score,
+  carry any per-fact signal from localization at larger scale?
