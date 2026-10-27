@@ -1,7 +1,13 @@
 ---
-status: Proposed
+status: Active
 title: 'inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Adopted by the owner on 2026-10-27 at the ruling on the status
+    review that filed it.
 tags:
 - epistemology
 - cognition

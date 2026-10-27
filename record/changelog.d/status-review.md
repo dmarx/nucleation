@@ -18,3 +18,9 @@
   [CLAIM-159](record/claims.d/CLAIM-159.md) `objects_to` [CLAIM-024](record/claims.d/CLAIM-024.md). [CLAIM-470](record/claims.d/CLAIM-470.md) and [CLAIM-475](record/claims.d/CLAIM-475.md) use the new
   TERM.
 - The workbench entry of 2026-10-27 records the pass.
+- The owner's rulings, 2026-10-27:
+  - ADR-057 is Active and ADR-047 Superseded.
+  - CLAIM-tmpnp8w6 is held, and CLAIM-089 is Rejected.
+  - TERM-tmppwzer (inquiry) is adopted.
+  - Mechanism 2 is declined (DP-3), and mechanism 5 is adopted as a
+    convention.

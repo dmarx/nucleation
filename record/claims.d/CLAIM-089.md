@@ -1,10 +1,21 @@
 ---
 number: 89
-status: Proposed
+status: Rejected
 formerly:
 - CLAIM-tmppqo06
 title: 'Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Answered on 2026-10-27 by CLAIM-tmpnp8w6, held the same day: an
+    aggregate revealed preference exists only where the organization's
+    wins never cycle, and where it exists it is fitted to one regime
+    of authority and does not predict a change in it. The objection
+    survives only for an organization whose wins follow one persistent
+    potential (TERM-078) through a change in authority, and the reply
+    says so.
 role: counter
 warrant: interpretive
 tags:
@@ -21,7 +32,6 @@ summary: >-
   individual-attitude version; the aggregate revealed-preference version
   is still open, so this counter stays Proposed.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnp8w6 — Proposed; the reply on CLAIM-434, open -->
 <!-- inactive-ok-file: CLAIM-122 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-089: Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy

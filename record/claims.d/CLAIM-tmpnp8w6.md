@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'An organization''s aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    The owner held it on 2026-10-27, at the ruling on the first status
+    review (ADR-057). TERM-078 is no longer a term it is stated in:
+    the reply rests on CLAIM-434 and TERM-077, and the persistent
+    potential only names where the objection survives.
 role: counter
 warrant: interpretive
 tags:
@@ -18,7 +26,6 @@ grounds:
 - CASE-003
 uses:
 - TERM-077
-- TERM-078
 complements:
 - CLAIM-122
 summary: >-
@@ -37,7 +44,8 @@ summary: >-
   the outcome of the governing relations, which is the reading [CLAIM-027](CLAIM-027.md)'s
   defeater excludes ("whose content predicts the outcome").
 ---
-<!-- inactive-ok-file: CLAIM-089 CLAIM-027 TERM-078 — Proposed; the objection this answers, the thesis it defends and the term it uses, each open -->
+<!-- inactive-ok-file: CLAIM-027 TERM-078 — Proposed; the thesis this defends, and the term naming the case where the objection survives -->
+<!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answers -->
 
 # CLAIM-tmpnp8w6: An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change
 

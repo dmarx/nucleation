@@ -76,9 +76,10 @@ complements:
 ---
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->
-<!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
-<!-- inactive-ok-file: CLAIM-tmpnp8w6 CLAIM-159 — Proposed; the replies the status review of 2026-10-27 names, each open -->
+<!-- inactive-ok-file: CLAIM-159 — Proposed; the partial reply to CLAIM-024 the status review of 2026-10-27 names, open -->
+<!-- inactive-ok-file: CLAIM-089 — Rejected; answered on 2026-10-27, cited as the history of this claim's objections -->
 <!-- inactive-ok-file: CLAIM-296 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-027: Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes
@@ -159,16 +160,16 @@ effective, revisable) restate the six relations with [TERM-055](../terms.d/TERM-
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) took this claim first. It has 19
 dependents, more than any other Proposed CLAIM. It stays Proposed. Its
 premises, [CLAIM-047](CLAIM-047.md) and [CLAIM-080](CLAIM-080.md), and the TERMs it uses are
-Active, and nothing in the record meets its defeater. Two objections hold
-it back:
+Active, and nothing in the record meets its defeater. Of its two open
+objections, one is answered and one still holds it back:
 
 - **[CLAIM-089](CLAIM-089.md), the aggregate revealed preference.** It now has a
   reply, [CLAIM-tmpnp8w6](CLAIM-tmpnp8w6.md), on [CLAIM-434](CLAIM-434.md)'s result: an aggregate
   preference exists only where the wins never cycle, and then it is fitted
   to one regime of authority and does not predict a change in it. The
-  reply is Proposed. Once it is held, this objection is answered except for
-  an organization with a persistent potential across a change in
-  authority, which is where the reply says the objection is right.
+  owner held the reply the same day, and CLAIM-089 is Rejected. The
+  objection survives only for an organization with a persistent potential
+  across a change in authority, which is where the reply says it is right.
 - **[CLAIM-024](CLAIM-024.md), nothing new.** [CLAIM-159](CLAIM-159.md) is a partial reply. It
   places will-organization against the expected value of control
   ([THEORY-070](../theory.d/THEORY-070.md)) and Ainslie ([THEORY-067](../theory.d/THEORY-067.md)) as a claim about how the
