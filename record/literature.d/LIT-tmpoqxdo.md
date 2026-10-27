@@ -50,5 +50,5 @@ when the specification language itself changes: renaming, conservative
 refinement, splitting or promoting a type, changing governing rules.
 A9's correction stands with it: theory and realization "can be
 mathematically related without either being ontologically prior", and
-satisfaction is not production. It bears on CLAIM-tmpmand1 and CLAIM-
+satisfaction is not production. It bears on [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md) and CLAIM-
 tmpl228b.

@@ -49,6 +49,6 @@ A9 §8 offered it as the counterpart of the owner's U6 observation that a
 typed relation is less flexible than its relata: "The meaning of a
 relation type may depend partly on the downstream normative consequences
 of using it", as `rests_on` takes its significance from what happens
-when its target is retired (CLAIM-tmpoe0v5). The record holds and has
-read Brandom's *Making It Explicit* (LIT-794, with THEORY-665 on
+when its target is retired ([CLAIM-tmpoe0v5](../claims.d/CLAIM-tmpoe0v5.md)). The record holds and has
+read Brandom's *Making It Explicit* ([LIT-794](LIT-794.md), with [THEORY-665](../theory.d/THEORY-665.md) on
 scorekeeping), which A9 did not cite; this is the shorter book it named.

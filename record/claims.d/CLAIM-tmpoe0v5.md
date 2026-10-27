@@ -27,7 +27,7 @@ summary: >-
   flexible than the raw contents of either relata." Shown from luria.yaml,
   which A6 §6 read correctly. The relation's type is determinate where the
   relata's content is not, and that determinacy is no warrant for the
-  dependency: CLAIM-293 is the demonstrated case. CASE-131 is the instance
+  dependency: [CLAIM-293](CLAIM-293.md) is the demonstrated case. [CASE-131](../cases.d/CASE-131.md) is the instance
   in which the rigidity of a relation outran what its relata meant and the
   grammar was amended.
 ---
@@ -61,7 +61,7 @@ That is a fact about the grammar, and luria.yaml shows it:
   needing another route", and it is the spine the `argument` chain walks.
   `corroborates` has the same endpoints and a different consequence: "If
   this one is retired, the other loses support, not its footing"
-  (ADR-044). What separates the two relations is only what follows from
+  ([ADR-044](../decisions.d/ADR-044.md)). What separates the two relations is only what follows from
   them.
 
 Each of these holds whatever either claim says, and survives any rewrite
@@ -79,31 +79,31 @@ mistaken." A9 §8: "Two claims can satisfy every structural check in Luria
 and still stand in an invalid evidential relationship." The record has
 the demonstrated form of this already: two support graphs with the same
 edges can carry evidence of different strength and call for different
-revisions (CLAIM-293, from CASE-089). So the relation's type is determinate
+revisions ([CLAIM-293](CLAIM-293.md), from [CASE-089](../cases.d/CASE-089.md)). So the relation's type is determinate
 and its instance can still be wrong; the claim is about the first.
 
 ## When the rigidity outran the relata
 
-CASE-131 is the instance the exchange did not find. A claim gave evidence
+[CASE-131](../cases.d/CASE-131.md) is the instance the exchange did not find. A claim gave evidence
 for another without the other depending on it. The grammar could say this
 only as `supports`, and the link fixer then wrote the entailed `rests_on`
 onto the other claim: the relation's fixed converse asserted an inference
 neither claim made. The fix was in the grammar, not in the claims
-(ADR-044 added `corroborates`; CLAIM-419 lists it among the amendments).
-A7 §4 found the same shape in luria's own record (LU-DP-016): an
+([ADR-044](../decisions.d/ADR-044.md) added `corroborates`; [CLAIM-419](CLAIM-419.md) lists it among the amendments).
+A7 §4 found the same shape in luria's own record ([LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16)): an
 `overrides` edge whose target held two claims under one code, where "the
 relation constrained the permissible identity of the relatum" and the
 target was split. That stronger reading, that a relation can settle how its
-relata must be individuated, is CLAIM-tmpl228b's, and is interpretive;
+relata must be individuated, is [CLAIM-tmpl228b](CLAIM-tmpl228b.md)'s, and is interpretive;
 this claim is only the asymmetry.
 
 ## What it does not say
 
 - **Not that relations are prior to relata in the record.** Every relation
   needs both ends to have codes first; the grammar presupposes its relata,
-  as the Yoneda lemma does (CLAIM-150).
+  as the Yoneda lemma does ([CLAIM-150](CLAIM-150.md)).
 - **Not that content is unconstrained.** Prose is checked for unresolved
   references, and a thesis must say what would defeat it.
 - **Not that this generalizes.** That the same asymmetry holds outside the
   record, between physical relations and their relata, is part of what
-  CLAIM-tmpmand1 claims, and it is interpretive there.
+  [CLAIM-tmpmand1](CLAIM-tmpmand1.md) claims, and it is interpretive there.

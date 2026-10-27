@@ -54,6 +54,6 @@ A9 §3 put Simondon closer to the owner's U8 formulation than the
 structural realists: "individuation as a process rather than a
 presupposed fact", with "a realized organization can become a constraint
 on further realizations" as the point of contact. A10 §4 heads its
-genealogy with him. It bears on CLAIM-tmpmand1. Its crystallization
-image is the record's own (CLAIM-181, CLAIM-186), stated there from
+genealogy with him. It bears on [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md). Its crystallization
+image is the record's own ([CLAIM-181](../claims.d/CLAIM-181.md), [CLAIM-186](../claims.d/CLAIM-186.md)), stated there from
 memory, with no crystal-growth work held.

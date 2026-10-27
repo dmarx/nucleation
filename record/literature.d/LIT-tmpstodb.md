@@ -48,5 +48,5 @@ first.
 A4 §7B and A6 §5A gave it as the major objection to the quantum
 motivation, put as "Compatible with quantum mechanics is not equivalent
 to entailed by quantum mechanics". It is the counterweight to LIT-
-tmpn1p0x, and the reason CLAIM-tmpl228b borrows Barad's notion of an
+tmpn1p0x, and the reason [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) borrows Barad's notion of an
 apparatus without her quantum interpretation.

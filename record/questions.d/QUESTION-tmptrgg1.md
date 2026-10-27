@@ -15,9 +15,9 @@ refined_by:
 summary: >-
   Asked three times in the exchange of 2026-10-27 (A5 §5, A6 §8, A10 §8)
   once the owner had set the record's scope as unrestricted (U6). It is
-  QUESTION-030's question for communicative acts, asked without a domain,
+  [QUESTION-030](QUESTION-030.md)'s question for communicative acts, asked without a domain,
   with A5's split of boundaries into detected, dynamically maintained and
-  constituted. CLAIM-tmpmand1 answers it in general and only in part; an
+  constituted. [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md) answers it in general and only in part; an
   answer says, for a stated kind, what evidence would tell constitution
   from characterization and from ordinary causal modification.
 ---
@@ -38,7 +38,7 @@ conditions do they constitute the identities, boundaries, and
 possibilities of the relata themselves?**" A10 §8 named its parts:
 "which distinctions are merely descriptive, which are causally
 consequential, which are constitutive, and which persist across
-transformations?" Those are TERM-038's three kinds of relation, drawn
+transformations?" Those are [TERM-038](../terms.d/TERM-038.md)'s three kinds of relation, drawn
 there for a communicative act, here for any entity.
 
 **Three boundaries.** A5 closed on a distinction the record's
@@ -52,8 +52,8 @@ A measuring apparatus could alter a system's dynamics, and a subsequent
 analysis could correctly discover the boundaries in the altered system.
 The harder question is whether individuation is ontologically dependent
 on such arrangements, rather than merely epistemically dependent on
-them." CLAIM-157's block criterion detects a boundary; closure of
-constraints (TERM-070) is a boundary maintained; whether either is
+them." [CLAIM-157](../claims.d/CLAIM-157.md)'s block criterion detects a boundary; closure of
+constraints ([TERM-070](../terms.d/TERM-070.md)) is a boundary maintained; whether either is
 constituted is not asked by either.
 
 ## What would count as an answer
@@ -65,14 +65,14 @@ measured dynamics, and an arrangement-dependent partition produced through
 coupling to an apparatus", and ask "whether the three accounts make
 different counterfactual predictions, and whether any evidence
 distinguishes ontological constitution from ordinary causal
-modification." If none does, that is itself an answer: CLAIM-150's point
+modification." If none does, that is itself an answer: [CLAIM-150](../claims.d/CLAIM-150.md)'s point
 that the data underdetermine constitution, carried out of communicative
 acts.
 
-The record has partial answers. CLAIM-tmpmand1 says constraints partly
-constitute in general, without a criterion for which. CLAIM-405 says a
+The record has partial answers. [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md) says constraints partly
+constitute in general, without a criterion for which. [CLAIM-405](../claims.d/CLAIM-405.md) says a
 verdict is well defined only once its criterion is fixed, and can then be
-false. In the record itself, CLAIM-tmpl228b claims the constitutive case
+false. In the record itself, [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) claims the constitutive case
 for a record's objects. For communicative acts the question is
-QUESTION-030, which asks which interventions tell constitutive relations
-from accompanying ones, and QUESTION-073 is its sharpest case.
+[QUESTION-030](QUESTION-030.md), which asks which interventions tell constitutive relations
+from accompanying ones, and [QUESTION-073](QUESTION-073.md) is its sharpest case.

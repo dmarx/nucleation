@@ -49,8 +49,8 @@ first.
 
 A9 §2 cited it for components whose identity as components is partly
 constituted by their part in the organization, the first prior art for
-the recursive half of CLAIM-tmpmand1, that constraints are realized by
+the recursive half of [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md), that constraints are realized by
 what they constrain. Its organization–structure split is close to the
 owner's specification–realization pair. The record holds autopoiesis
-through later readings (LIT-1017, LIT-1018, LIT-1027 and THEORY-666),
-and closure of constraints in TERM-070, but not this book.
+through later readings ([LIT-1017](LIT-1017.md), [LIT-1018](LIT-1018.md), [LIT-1027](LIT-1027.md) and [THEORY-666](../theory.d/THEORY-666.md)),
+and closure of constraints in [TERM-070](../terms.d/TERM-070.md), but not this book.

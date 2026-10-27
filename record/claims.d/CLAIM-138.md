@@ -155,12 +155,12 @@ version of [CLAIM-136](CLAIM-136.md) the owner should hold. The comparison is th
 
 ## Note of 2026-10-27: the primary source, and a cost for the general frame
 
-Newman's paper is now registered (LIT-tmp3qjvp), unread; the objection's
-ground is still the Stanford entry's account (LIT-045). The exchange of
+Newman's paper is now registered ([LIT-tmp3qjvp](../literature.d/LIT-tmp3qjvp.md)), unread; the objection's
+ground is still the Stanford entry's account ([LIT-045](../literature.d/LIT-045.md)). The exchange of
 2026-10-27 pressed it again (A3, A8 §5, A9 §14: structural realism "can
 treat organization as basic while confronting Newman's objection about
 insufficiently constrained abstract structure"). Its answer, in the frame
-filed from it (CLAIM-tmpmand1), is that constraints are realized: a
+filed from it ([CLAIM-tmpmand1](CLAIM-tmpmand1.md)), is that constraints are realized: a
 relation is constrained by what maintains it, not by its extension alone.
 That is non-structural input of the kind this claim says the standard
 remedy adds, so this claim's cost carries over: the general frame does not

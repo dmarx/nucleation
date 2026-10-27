@@ -47,4 +47,4 @@ infer ontological structure from empirical success?" It is the
 empiricist answer to the inference A2 called the philosophical leap,
 from "we can know only relations" to "only relations exist", and so the
 rival every claim filed from the exchange that goes beyond the record's
-guard (CLAIM-150) has to beat.
+guard ([CLAIM-150](../claims.d/CLAIM-150.md)) has to beat.

@@ -41,8 +41,8 @@ summary: >-
   the code shows (luria "constitutes and maintains distinctions *within a
   governed knowledge system*") from the hypothesis that such mechanisms
   are instances of general ontological constitution. Filed as the first,
-  which is what the record's own amendments bear out (CLAIM-419). A7 found
-  the loop in luria's record (LU-DP-016, LU-ADR-124) and did not find that
+  which is what the record's own amendments bear out ([CLAIM-419](CLAIM-419.md)). A7 found
+  the loop in luria's record ([LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16), [LU-ADR-124](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-124.md)) and did not find that
   this record had filed it from the owner's U18 of 2026-10-22. Barad is
   unread here.
 ---
@@ -57,7 +57,7 @@ A6 had given Barad's apparatus as "an open-ended, dynamic configuration
 of material practices through which particular differences become real
 and intelligible", productive rather than receptive, inside the
 phenomenon rather than outside it, and itself historically constituted,
-and the agential cut as the differentiation it enacts (TERM-tmp0est4).
+and the agential cut as the differentiation it enacts ([TERM-tmp0est4](../terms.d/TERM-tmp0est4.md)).
 The owner, at U7: "oh shit, I think I may have inadvertently
 operationalized this notion of apparatus already, check out
 github.com/dmarx/luria".
@@ -79,7 +79,7 @@ description of objects individuated without it.
   makes that its central question. A7 §2: "The cut
   doesn't bring the paper or recommendation into physical existence. But
   it constitutes them as differently governable epistemic objects." Its
-  strongest example is promotion (LU-ADR-124): a vocabulary that needs to
+  strongest example is promotion ([LU-ADR-124](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-124.md)): a vocabulary that needs to
   say more becomes a scheme, and a value with a label becomes an entry with
   its own status, history and relations. "The system has changed what kind
   of thing the value is permitted to be."
@@ -88,17 +88,17 @@ description of objects individuated without it.
   generated views; one held only in prose is not. A7: "What does it mean
   for a distinction to exist if nothing in the system can register,
   enforce, or act upon that distinction?" The typed relation is the
-  load-bearing case (CLAIM-tmpoe0v5).
+  load-bearing case ([CLAIM-tmpoe0v5](CLAIM-tmpoe0v5.md)).
 - **Use revises the apparatus.** This is what A7 called the Baradian part
   and named "a reflexive epistemic apparatus": friction met in filing is
   read as a defect of the grammar and answered by amending it. Luria
-  states it as a principle (LU-DP-016, "An awkward structure is reporting a
+  states it as a principle ([LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16), "An awkward structure is reporting a
   distinction the model has stopped expressing"). This record states it as
-  a finding about itself (CLAIM-419, from the owner's U18 of 2026-10-22:
+  a finding about itself ([CLAIM-419](CLAIM-419.md), from the owner's U18 of 2026-10-22:
   "when we've encountered representational challenges, we've generally
   interpreted those as a symptom of a represntational weakness of the
-  record"), with five amendments as evidence, and CASE-131 as the one in
-  which a fixed relation misrepresented its relata. CLAIM-195 is why the
+  record"), with five amendments as evidence, and [CASE-131](../cases.d/CASE-131.md) as the one in
+  which a fixed relation misrepresented its relata. [CLAIM-195](CLAIM-195.md) is why the
   result is constitutive and not only descriptive: the constraint set a
   claim's persistence is relative to "defines what the objects are", and
   is fixed by an amendable decision.
@@ -121,24 +121,24 @@ inquiry reconstitutes."
 - **Not that it reproduces quantum measurement, or supports Barad's
   reading of it.** A10 §3: "an institutional and computational example of
   enacted differentiation—not evidence that Luria has reproduced quantum
-  measurement." Faye and Jaksland (LIT-tmpstodb) dispute that quantum
+  measurement." Faye and Jaksland ([LIT-tmpstodb](../literature.d/LIT-tmpstodb.md)) dispute that quantum
   mechanics supports agential realism at all; the comparison here borrows
   the notion of an apparatus, not the interpretation.
 - **Not that physical or biological individuation works so.** That is the
-  epistemology-to-ontology step the record keeps apart (CLAIM-150), and
-  the general frame is CLAIM-tmpmand1's.
+  epistemology-to-ontology step the record keeps apart ([CLAIM-150](CLAIM-150.md)), and
+  the general frame is [CLAIM-tmpmand1](CLAIM-tmpmand1.md)'s.
 - **Not that the record is self-maintaining.** A9 §6: luria's ability to
   revise its schema "is not sufficient to make it autopoietic. Its
   operation depends on maintainers, computers, institutions, and
-  surrounding infrastructure." CLAIM-195 says the same: the grammar "is
+  surrounding infrastructure." [CLAIM-195](CLAIM-195.md) says the same: the grammar "is
   maintained from outside, in luria's repository and by the owner." In A9's
   regimes it is adaptive, not organizationally closed.
 - **Not that every misfit is caught, or that the distinctions are the right
-  ones.** CLAIM-419's limit stands: a move forced silently into a wrong
+  ones.** [CLAIM-419](CLAIM-419.md)'s limit stands: a move forced silently into a wrong
   shape leaves no decision behind. An apparatus that constitutes objects
   can constitute the wrong ones.
-- **Not Barad's own reading.** Barad is unread here (LIT-tmpikjbr,
-  LIT-tmpn1p0x); the sense of apparatus compared is A4 and A6's account
+- **Not Barad's own reading.** Barad is unread here ([LIT-tmpikjbr](../literature.d/LIT-tmpikjbr.md),
+  [LIT-tmpn1p0x](../literature.d/LIT-tmpn1p0x.md)); the sense of apparatus compared is A4 and A6's account
   of her.
 
 ## What would test it beyond the record
@@ -153,7 +153,7 @@ which contradictions become visible, which claims are split, which errors
 are kept. A9: "The crucial empirical test would be whether changing the
 apparatus causes differences in subsequent inquiry that cannot be
 explained simply as alternate visualizations of unchanged information."
-That would test Hacking's second, looping effect (LIT-tmpggyb7), that the
+That would test Hacking's second, looping effect ([LIT-tmpggyb7](../literature.d/LIT-tmpggyb7.md)), that the
 classification changes the inquiry classified. This claim asserts only the
 first, constitutive effect, which the record's amendments already show.
 The experiment is not built.

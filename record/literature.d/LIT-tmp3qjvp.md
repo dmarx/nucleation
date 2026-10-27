@@ -46,6 +46,6 @@ first.
 
 A3 named "His 1928 criticism of Russell" among the critics, and the
 question it presses, whether structure alone is sufficient, runs through
-A8 §5 and A9 §14. The record already files the objection (CLAIM-138),
-grounded only in the Stanford entry's account of it (LIT-045); this is
+A8 §5 and A9 §14. The record already files the objection ([CLAIM-138](../claims.d/CLAIM-138.md)),
+grounded only in the Stanford entry's account of it ([LIT-045](LIT-045.md)); this is
 the primary source.

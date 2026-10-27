@@ -139,5 +139,5 @@ constitutes an individual), with "Success at one level provides potential
 evidence for another, not an automatic entailment"; and A9 §1's form for
 specifications, "Mathematical satisfaction is not physical production."
 The three claims filed from the exchange that go past the guard
-(CLAIM-tmpmand1, CLAIM-tmpl228b, CLAIM-tmpdr90u) each name it among what
+([CLAIM-tmpmand1](CLAIM-tmpmand1.md), [CLAIM-tmpl228b](CLAIM-tmpl228b.md), [CLAIM-tmpdr90u](CLAIM-tmpdr90u.md)) each name it among what
 they do not say. Nothing here changes.

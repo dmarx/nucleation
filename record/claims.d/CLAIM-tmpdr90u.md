@@ -30,7 +30,7 @@ summary: >-
   kept two things apart, and the claim keeps both: "the choice and
   maintenance of an apparatus can itself be an object of ethical
   evaluation", and "Practice produces differences ⇏ A particular
-  normative obligation". The second half is CLAIM-363's indexing, which
+  normative obligation". The second half is [CLAIM-363](CLAIM-363.md)'s indexing, which
   A6 named as the bridge. Barad is unread here.
 ---
 <!-- inactive-ok-file: CLAIM-tmpl228b CLAIM-363 QUESTION-072 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->
@@ -50,7 +50,7 @@ physiological and social trajectories", constrained by biology but "not
 exhausted by the biological facts".
 
 **The first half.** If an apparatus constitutes some of the objects it is
-used on (CLAIM-tmpl228b), then choosing it is not a neutral preliminary.
+used on ([CLAIM-tmpl228b](CLAIM-tmpl228b.md)), then choosing it is not a neutral preliminary.
 A6 §4: "the practices by which we establish what counts as knowledge are
 themselves consequential interventions in the world." A10 §6: "the choice
 and maintenance of an apparatus can itself be an object of ethical
@@ -59,7 +59,7 @@ found the norm-constituting case in luria's constitution example, where a
 `BOUNDARY` can `override` a `PRACTICE`: "Which distinctions become
 first-class entities? Which constraints can override others? Who
 authorizes a change? What remains invisible because it doesn't fit a
-declared category?" The record's own version of the last is QUESTION-072:
+declared category?" The record's own version of the last is [QUESTION-072](../questions.d/QUESTION-072.md):
 whether coding some contributors' moves and leaving others' as unfiled
 turns distributes credibility among them.
 
@@ -69,7 +69,7 @@ Every useful distinction excludes something. A scientific instrument that
 distinguishes one spectral band from another necessarily excludes other
 bands from its measurement." So the question "concerns **which exclusions
 matter, to whom, according to which standards, and with what
-consequences**." That is CLAIM-363's form, a normative judgment well
+consequences**." That is [CLAIM-363](CLAIM-363.md)'s form, a normative judgment well
 defined only once its standard, scale and context are fixed and then
 capable of being false, which A6 named as "a possible bridge between
 Barad's ethical commitments and a more explicit theory of normative
@@ -80,8 +80,8 @@ those differences become grounds for obligations."
 ## What it does not say
 
 - **Not that Barad holds the second half.** It is A6's pressure on her, and
-  her text is unread here (LIT-tmpn1p0x).
+  her text is unread here ([LIT-tmpn1p0x](../literature.d/LIT-tmpn1p0x.md)).
 - **Not that every apparatus choice is a moral question.** It says the
   choice is open to evaluation, which may find nothing that matters.
 - **Not which exclusions the record's own grammar makes, or whether any is
-  wrong.** QUESTION-072 asks one; none is answered here.
+  wrong.** [QUESTION-072](../questions.d/QUESTION-072.md) asks one; none is answered here.

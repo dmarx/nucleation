@@ -103,9 +103,9 @@ At U7 of the exchange of 2026-10-27 the owner sent the assistant to luria
 ("I think I may have inadvertently operationalized this notion of
 apparatus already"). A7 found this claim's loop in luria's own record,
 the principle that an awkward structure reports a distinction the model
-has stopped expressing (LU-DP-016), which it called "the smoking gun", and
-promotion of a vocabulary to a scheme (LU-ADR-124), and named it "a form
+has stopped expressing ([LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16)), which it called "the smoking gun", and
+promotion of a vocabulary to a scheme ([LU-ADR-124](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-124.md)), and named it "a form
 of **reflexive epistemic apparatus**". It did not find this claim, filed
 from the owner's U18 of 2026-10-22 with the record's five amendments as
-evidence, nor CASE-131. CLAIM-tmpl228b, the apparatus claim filed from
+evidence, nor [CASE-131](../cases.d/CASE-131.md). [CLAIM-tmpl228b](CLAIM-tmpl228b.md), the apparatus claim filed from
 that exchange, rests on this one. Nothing here changes.

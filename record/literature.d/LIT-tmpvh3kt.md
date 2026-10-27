@@ -51,6 +51,6 @@ first.
 The owner asked for "Rasmus Jaksland's thoughts" at U6. A6 §5B called it
 the paper "most valuable for Nucleation's unrestricted ambitions", and
 its question of metaphysical approximation recurs at A9 §11 and A10 §4.
-It is the source of QUESTION-tmpg3qms. A6 drew a method from it: "The
+It is the source of [QUESTION-tmpg3qms](../questions.d/QUESTION-tmpg3qms.md). A6 drew a method from it: "The
 ambition can be unrestricted even when each specific inference has a
 carefully limited warrant."

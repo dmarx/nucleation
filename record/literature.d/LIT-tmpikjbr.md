@@ -51,7 +51,7 @@ A4 recommended it as "a much shorter entry point that presents intra-
 action, agential cuts, agency, and material-discursive practices", and
 A6 §1 and A9 §11 cite it for apparatuses as evolving material practices
 through which local determinacy emerges. It is the primary source for
-the sense of *apparatus* and *agential cut* in TERM-tmp0est4, and the
-weakest footing of CLAIM-tmpl228b, which compares luria with it. The
+the sense of *apparatus* and *agential cut* in [TERM-tmp0est4](../terms.d/TERM-tmp0est4.md), and the
+weakest footing of [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md), which compares luria with it. The
 record held Barad only at second hand, through Griesemer and Shavit's
-borrowing of intra-action (NOTE-173) and Meincke's (NOTE-115).
+borrowing of intra-action ([NOTE-173](../notes.d/NOTE-173.md)) and Meincke's ([NOTE-115](../notes.d/NOTE-115.md)).

@@ -151,7 +151,7 @@ manuscript already takes that position "without saying so".
   and goes no further. That is a limit of this argument, not of what the
   record may claim: the owner set the record's ambitions as "extremely
   abstract and unrestricted" (U6 of the exchange of 2026-10-27), and the
-  unrestricted frame is CLAIM-tmpmand1. This claim is its worked case for
+  unrestricted frame is [CLAIM-tmpmand1](CLAIM-tmpmand1.md). This claim is its worked case for
   communicative acts and does not, by itself, support it.
 - It is not a structural realism. "Partly constituted" leaves intrinsic
   identity-fixing features a role, and that is the intrinsic horn of

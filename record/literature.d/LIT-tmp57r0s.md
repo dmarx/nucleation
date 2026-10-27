@@ -47,7 +47,7 @@ first.
 A3 put it among the three positions closest to the owner's U2 argument
 ("quantum variables acquire values relative to other physical systems
 through interactions") and fourth in its reading order. Faye and
-Jaksland (LIT-tmpstodb) argue it does not entail Barad's holism: values
+Jaksland ([LIT-tmpstodb](LIT-tmpstodb.md)) argue it does not entail Barad's holism: values
 are relational, but the systems that interact are not constituted by the
-interaction. The record holds Rovelli's later account (LIT-177), read;
+interaction. The record holds Rovelli's later account ([LIT-177](LIT-177.md)), read;
 this is the founding paper.

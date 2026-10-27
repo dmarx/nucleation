@@ -164,11 +164,11 @@ This entry was "filed scoped to communicative acts and their
 participants" because "Nothing in the exchange argues the general
 version". At U6 of the exchange of 2026-10-27 the owner set the record's
 ambitions as "extremely abstract and unrestricted", and directed that
-CLAIM-151's scope sentence change (its version 3). This claim's scope
+[CLAIM-151](CLAIM-151.md)'s scope sentence change (its version 3). This claim's scope
 still follows its argument, and no argument for either version in general
 has been given. What has changed is that the owner's U54 wording,
 "objects" without restriction, now has an unrestricted frame to sit in:
-CLAIM-tmpmand1, on which an entity is partly fixed by the constraints on
+[CLAIM-tmpmand1](CLAIM-tmpmand1.md), on which an entity is partly fixed by the constraints on
 its relations. That frame leaves this claim's question open in general,
 as A8 §5 said: a specification fixes kinds, and what makes isomorphic
 realizations two ("histories, dynamical continuity, symmetry breaking,
@@ -176,5 +176,5 @@ locality, or primitive numerical diversity") is the choice between this
 claim's two versions, still the owner's. Barad's view, the most radical
 neighbour the exchange named, A3 placed with radical relational ontology
 ("independently individuated substances are not fundamental"); whether it
-eliminates relata is for a reading of LIT-tmpf6o6y. Whether to restate this claim without a
+eliminates relata is for a reading of [LIT-tmpf6o6y](../literature.d/LIT-tmpf6o6y.md). Whether to restate this claim without a
 domain is left to the owner. Nothing in it changes.

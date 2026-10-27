@@ -47,7 +47,7 @@ first.
 A9 §9 used it to split two effects of an apparatus: constitutive (a
 classification establishes what counts as an entity of an institutional
 kind) and looping causal (the classification changes the system
-classified, which changes the classification). CLAIM-tmpl228b claims the
+classified, which changes the classification). [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) claims the
 first for luria's grammar and leaves the second to be tested. The record
-holds Hacking's *The Social Construction of What?* (LIT-475),
+holds Hacking's *The Social Construction of What?* ([LIT-475](LIT-475.md)),
 unavailable.

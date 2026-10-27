@@ -46,6 +46,6 @@ first.
 A4 cited it as the place where Barad "explicitly characterizes her
 position as one in which relata exist within and through their
 constitutive relations", the relation-precedes-relata thesis the
-exchange set beside the record's non-eliminative choice (CLAIM-136). It
+exchange set beside the record's non-eliminative choice ([CLAIM-136](../claims.d/CLAIM-136.md)). It
 is the most direct source for whether Barad's view is eliminative, which
 the record cannot yet say.

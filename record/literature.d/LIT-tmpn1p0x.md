@@ -57,5 +57,5 @@ The work every reply from A3 to A6 returned to. A4 pointed to chapter 3
 (Bohr), chapter 4 ("Agential Realism: How Material-Discursive Practices
 Matter", the conceptual centre) and chapter 8 (epistemology and ethics).
 A5 §5 found the record held no entry for it. It is the source CLAIM-
-tmpl228b and CLAIM-tmpdr90u compare against, and the work Faye and
-Jaksland (LIT-tmpstodb) and Jaksland (LIT-tmpvh3kt) criticize.
+tmpl228b and [CLAIM-tmpdr90u](../claims.d/CLAIM-tmpdr90u.md) compare against, and the work Faye and
+Jaksland ([LIT-tmpstodb](LIT-tmpstodb.md)) and Jaksland ([LIT-tmpvh3kt](LIT-tmpvh3kt.md)) criticize.

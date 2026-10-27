@@ -9,10 +9,10 @@ tags:
 date: '2026-10-27'
 line: distributed-agency
 summary: >-
-  Jaksland's question (LIT-tmpvh3kt, unread), as A6 §5B gave it at the
+  Jaksland's question ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), unread), as A6 §5B gave it at the
   owner's U6 request for "Rasmus Jaksland's thoughts", and as A9 §11 kept
   it against the exchange's own synthesis ("Jaksland's objection
-  remains"). The record's block criterion (CLAIM-157) measures how far a
+  remains"). The record's block criterion ([CLAIM-157](../claims.d/CLAIM-157.md)) measures how far a
   system is decoupled, which is graded; whether that grade is a grade of
   independence, or only of operational separability, is this question.
 ---
@@ -24,7 +24,7 @@ summary: >-
 ## Why it is a question
 
 The owner asked at U6 for "Rasmus Jaksland's thoughts". A6 §5B, from
-Jaksland's 2024 paper (LIT-tmpvh3kt): "Newtonian mechanics is
+Jaksland's 2024 paper ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md)): "Newtonian mechanics is
 approximately correct across many macroscopic regimes even though quantum
 mechanics is more fundamental. But does this mean that a Newtonian
 ontology of independently existing individuals can be approximately
@@ -53,12 +53,12 @@ straightforwardly imply degrees of existence."
 
 ## Why it bears on the record
 
-CLAIM-157's criterion is graded: a block is one system when its coupling
+[CLAIM-157](../claims.d/CLAIM-157.md)'s criterion is graded: a block is one system when its coupling
 gap beats an Occam factor, and near-decomposability is a matter of
-degree. CLAIM-405 holds that the verdict is objective once its criterion
+degree. [CLAIM-405](../claims.d/CLAIM-405.md) holds that the verdict is objective once its criterion
 is fixed. Neither says whether a large gap makes the block approximately
 independent, or only makes it approximately separable for the target.
-CLAIM-tmpmand1 holds individuals partly constituted by constraints in
+[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md) holds individuals partly constituted by constraints in
 every domain, and so owes an answer to how a relationally constituted
 individual can still be treated as independent where the record treats
 it so.
