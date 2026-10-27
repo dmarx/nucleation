@@ -50,9 +50,9 @@
   - Eight questions are split under [ADR-049](record/decisions.d/ADR-049.md). [ADR-049](record/decisions.d/ADR-049.md) version 2 sizes
     splits by [ADR-057](record/decisions.d/ADR-057.md)'s pass.
 - The owner's rulings on pass 3:
-  - CLAIM-069 and CLAIM-438 are Proposed.
-  - ADR-060 adds `bears_on` and `bearing`, and moves 102 Active `answers`
+  - [CLAIM-069](record/claims.d/CLAIM-069.md) and [CLAIM-438](record/claims.d/CLAIM-438.md) are Proposed.
+  - [ADR-060](record/decisions.d/ADR-060.md) adds `bears_on` and `bearing`, and moves 102 Active `answers`
     edges on Open questions to `bears_on`.
-  - ADR-059 (Proposed) says what a status means for an ARG (credence in
+  - [ADR-059](record/decisions.d/ADR-059.md) (Proposed) says what a status means for an ARG (credence in
     its inference) and for a conceded counter (recorded by the target's
     revision).
