@@ -55,7 +55,7 @@ summary: >-
   check out github.com/dmarx/luria". Split at the owner's review of the
   pull request. What luria demonstrably does, differentiating, retaining,
   enforcing and revising the distinctions that fix a record's objects, is
-  now CLAIM-tmp0yhlm, stated without Barad. This claim keeps the further,
+  now [CLAIM-tmp0yhlm](CLAIM-tmp0yhlm.md), stated without Barad. This claim keeps the further,
   constitutive thesis: those objects are constituted in Barad's sense, not
   only made governable. That needs an argument the operational facts do
   not supply, and the readings press on it, since Barad rejects carrying
@@ -85,15 +85,15 @@ governed knowledge system*. **Philosophical hypothesis:** Such mechanisms
 are instances of a more general process through which entities and their
 boundaries become ontologically determinate." Version 1 of this claim took
 the first, under Barad's name. At the owner's review the first was split out
-as CLAIM-tmp0yhlm, the operational claim, in TERM-tmpjdel0's sense. This claim
+as [CLAIM-tmp0yhlm](CLAIM-tmp0yhlm.md), the operational claim, in [TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md)'s sense. This claim
 now holds what goes beyond it. The record's objects are constituted by the
 apparatus in Barad's sense: what the record is about changes with the
 apparatus, and not only what it can register. That remains short of A7's
 general ontological hypothesis, since it is restricted to a record's objects.
 
 The three points below are the operational facts this claim rests on, as
-CLAIM-tmp0yhlm states them. The constitutive reading of them is in A7 §6's
-formalization and in CLAIM-195.
+[CLAIM-tmp0yhlm](CLAIM-tmp0yhlm.md) states them. The constitutive reading of them is in A7 §6's
+formalization and in [CLAIM-195](CLAIM-195.md).
 
 Three things make luria an apparatus for a record's objects, and not a
 description of objects individuated without it.

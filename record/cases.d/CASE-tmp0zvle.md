@@ -157,7 +157,7 @@ readings of these numbers differ in support:
 |---|---|
 | **The layers' events occur at different rates.** | Demonstrated for this record's first fifty days, with the limits above. |
 | **The layers are separate operating regimes**, worked on by different activities and under different checks. | Plausible and partly supported. Revisions of the grammar come by decision and lint enforces the declared types, but they occur inside the same work as filing (above). |
-| **The layers are a dynamically generated hierarchy of time scales**, slow modes constraining fast ones as in CLAIM-tmpmx2ql. | An interpretation, not shown. |
+| **The layers are a dynamically generated hierarchy of time scales**, slow modes constraining fast ones as in [CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md). | An interpretation, not shown. |
 
 On the third reading:
 - **An inverse event rate is not a relaxation time.** A layer that rarely

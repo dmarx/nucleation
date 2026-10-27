@@ -142,8 +142,8 @@ readings of these numbers differ in support:
 | reading | status |
 |---|---|
 | **The layers' events occur at different rates.** | Demonstrated for this record's first fifty days, with the limits above. |
-| **The layers are separate operating regimes**, worked on by different activities and under different checks. | Plausible and partly supported. Revisions of the grammar come by decision and lint enforces the declared types, but they occur inside the same work as filing (CASE-tmp0zvle). |
-| **The layers are a dynamically generated hierarchy of time scales**, slow modes constraining fast ones as in CLAIM-tmpmx2ql. | An interpretation, not shown. |
+| **The layers are separate operating regimes**, worked on by different activities and under different checks. | Plausible and partly supported. Revisions of the grammar come by decision and lint enforces the declared types, but they occur inside the same work as filing ([CASE-tmp0zvle](CASE-tmp0zvle.md)). |
+| **The layers are a dynamically generated hierarchy of time scales**, slow modes constraining fast ones as in [CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md). | An interpretation, not shown. |
 
 On the third reading:
 - **An inverse event rate is not a relaxation time.** A layer that rarely
@@ -153,7 +153,7 @@ On the third reading:
   month as the grammar settled.
 - **The counts mix kinds of event.** Authoring, bot repair, status
   transitions and schema changes are counted alike.
-- **The rare changes arrive in shared work.** CASE-tmp0zvle found the rarer
+- **The rare changes arrive in shared work.** [CASE-tmp0zvle](CASE-tmp0zvle.md) found the rarer
   changes arriving in the same pull requests as ordinary document work.
   That fits threshold-triggered revisions within one workflow better than
   distinct processes running on separate clocks.

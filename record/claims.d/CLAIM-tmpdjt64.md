@@ -58,7 +58,7 @@ summary: >-
   admissible, and only it bears on the strong thesis that interaction
   generates constraints. Measurement reveals correspondences that already
   held. Adaptation revises an apparatus's own rules of comparison. The
-  open question is QUESTION-tmplxq7l: when interaction changes the
+  open question is [QUESTION-tmplxq7l](../questions.d/QUESTION-tmplxq7l.md): when interaction changes the
   physically operative correspondence structure, rather than revealing or
   redescribing it.
 ---
@@ -94,18 +94,18 @@ The owner's U20 said that interactions *generate* the constraints that act as
 gluing conditions. The formalisms the exchange cited were read the same
 evening, and in nearly all of them the correspondence maps are inputs:
 - Hansen and Ghrist's restriction maps are assumed, or come from
-  measurement or design (NOTE-tmpzqos6).
-- Robinson writes his from geometry before any data (NOTE-tmpdshmx).
-- Singer estimates relative angles that hold beforehand (NOTE-tmplhrxg).
+  measurement or design ([NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md)).
+- Robinson writes his from geometry before any data ([NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)).
+- Singer estimates relative angles that hold beforehand ([NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md)).
 - Torres-Hugas et al. give their connection or build it to match
-  (NOTE-tmpb8jge).
+  ([NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md)).
 - Baez and Fong impose the same Kirchhoff condition at every port and
-  derive the effective boundary relation from it (NOTE-tmpigjto).
+  derive the effective boundary relation from it ([NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md)).
 
 The one model in which the maps change through interaction is Hansen and
-Ghrist's discourse sheaves (NOTE-tmpe4zh5). There the agents reach agreement
+Ghrist's discourse sheaves ([NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md)). There the agents reach agreement
 by revising what they express, which the authors call learning to lie
-(THEORY-tmptkmt9). So "gluing" names at least three different things:
+([THEORY-tmptkmt9](../theory.d/THEORY-tmptkmt9.md)). So "gluing" names at least three different things:
 
 | mechanism | what is produced | bears on the strong thesis? |
 |---|---|---|
@@ -115,23 +115,23 @@ by revising what they express, which the authors call learning to lie
 
 **Physical constraint formation is supported, in an effective form.**
 Interconnecting systems restricts their joint behaviour, and composing the
-restrictions yields boundary relations that no part has (CLAIM-tmpose3y).
+restrictions yields boundary relations that no part has ([CLAIM-tmpose3y](CLAIM-tmpose3y.md)).
 Sometimes those relations are of a kind the parts' relations could not
-express (THEORY-tmpvecoh). The port condition at each junction is itself
+express ([THEORY-tmpvecoh](../theory.d/THEORY-tmpvecoh.md)). The port condition at each junction is itself
 background: in Baez and Fong it is the same Kirchhoff condition every time.
 What interaction generates is the composite's effective constraint, not the
 law of the junction. Whether interaction ever changes the operative
-correspondence structure itself is open (QUESTION-tmplxq7l).
+correspondence structure itself is open ([QUESTION-tmplxq7l](../questions.d/QUESTION-tmplxq7l.md)).
 
 **Correspondence discovery is the commonest case and supports less.** It
 establishes which correspondence holds. Its adequacy rests on evidence that the
-correspondence does not itself produce (CLAIM-143), and the readings found that
+correspondence does not itself produce ([CLAIM-143](CLAIM-143.md)), and the readings found that
 rarely available: Singer validates only through cycle consistency under a
 noise model, and Robinson trusts his maps.
 
 **Correspondence adaptation is real and can fail invisibly.** An apparatus that
 revises its comparison rules can reach agreement by changing what is compared.
-Then gluing succeeds and says nothing about the world (CLAIM-342). When the
+Then gluing succeeds and says nothing about the world ([CLAIM-342](CLAIM-342.md)). When the
 revised rule is implemented, for instance as a calibration that drives a
 controller, adaptation becomes causally consequential. Even then it is a change
 in the apparatus, not in the systems compared.

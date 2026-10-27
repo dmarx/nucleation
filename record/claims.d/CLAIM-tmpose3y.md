@@ -112,7 +112,7 @@ adequate:
 So the claim does not privilege memoryless structure over structure sustained
 through history. Baez and Fong's black box shows the same thing exactly. With
 inductors and capacitors it is a frequency-dependent relation at the terminals,
-exact at every frequency, and needs no separation (NOTE-tmpigjto).
+exact at every frequency, and needs no separation ([NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md)).
 
 The record holds this family of reductions as Mori–Zwanzig ([LIT-1245](../literature.d/LIT-1245.md), read,
 and its neighbours).
@@ -139,7 +139,7 @@ behaviour onto the variables an observer can reach.
 The chain above reduces to another pairwise coupling, and for scalar networks
 that is always so: the Schur complement of a graph Laplacian is a graph
 Laplacian on the boundary (Hansen and Ghrist, Thm 4.2). For cellular sheaves
-it is not. Hansen and Ghrist's example (THEORY-tmpvecoh; Fig. 4.1, p. 20) is
+it is not. Hansen and Ghrist's example ([THEORY-tmpvecoh](../theory.d/THEORY-tmpvecoh.md); Fig. 4.1, p. 20) is
 a star with stalk ℝ² at the centre and ℝ at three leaves. The centre's maps
 are the first coordinate, the second, and their sum. Every consistent
 assignment is fixed by the centre's value (p, q), so the boundary values are
@@ -159,14 +159,14 @@ parameters. The parts' relations were all pairwise. The composite's effective
 relation is not, and a vocabulary of pairwise relations cannot state it. This
 is the strongest result the claim holds. It has a direct counterpart in luria,
 where a record's relation scheme meets what a composed organization requires
-and cannot express it (CLAIM-419, CLAIM-tmpoe0v5).
+and cannot express it ([CLAIM-419](CLAIM-419.md), [CLAIM-tmpoe0v5](CLAIM-tmpoe0v5.md)).
 
 Its limit: it concerns what a class of mathematical descriptions can express.
 It does not show that a new fundamental interaction has arisen, or that the
 three-way relation is anything but the effective trace of pairwise relations
 through a hidden interior. Whether composition generally creates effective
 structure that needs a richer relational vocabulary than its parts is
-QUESTION-tmprr9yy.
+[QUESTION-tmprr9yy](../questions.d/QUESTION-tmprr9yy.md).
 
 ## Why it bears on the record
 

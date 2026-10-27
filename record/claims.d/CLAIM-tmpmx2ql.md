@@ -175,7 +175,7 @@ relation instances retracted about once in 600, relation types not at all in
 fifty days. The ordering holds only after an entry's first day, and during that day
 every layer moves. That resembles "over the window between the two time scales",
 with drafting as the fast process that settles, but only as rates: nothing
-shows a relaxation (CASE-tmpqou64, "What the rates are evidence of"). It does not test the claim's direction, that the slow
+shows a relaxation ([CASE-tmpqou64](../cases.d/CASE-tmpqou64.md), "What the rates are evidence of"). It does not test the claim's direction, that the slow
 layers constrain because they are slow. In the record the slow layers are
 also the ones the lint enforces, so slowness and enforcement are not
 separated by this measurement.

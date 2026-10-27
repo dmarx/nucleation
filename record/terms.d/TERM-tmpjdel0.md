@@ -111,7 +111,7 @@ The readings sharpen the definition without changing it.
 ## Note of 2026-10-27 (later): adopted
 
 The owner adopted the term at the review of the pull request, and split
-CLAIM-tmpl228b along its line. CLAIM-tmp0yhlm says luria is an apparatus in this
-sense. CLAIM-tmpl228b keeps Barad's constitutive sense and now rests on it. The
+[CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) along its line. [CLAIM-tmp0yhlm](../claims.d/CLAIM-tmp0yhlm.md) says luria is an apparatus in this
+sense. [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) keeps Barad's constitutive sense and now rests on it. The
 criterion this term's last section set for adoption is met: a claim needs the
 operational sense and says so by citing it.

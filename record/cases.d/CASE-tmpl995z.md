@@ -42,23 +42,23 @@ and may be allowed to revise the maps. Three things are varied independently:
 2. **Correspondence maps:**
    - compatible around every cycle, or frustrated (nonzero holonomy);
    - scalar or of higher-dimensional stalk, so that reduction can need
-     higher-order relations (THEORY-tmpvecoh).
+     higher-order relations ([THEORY-tmpvecoh](../theory.d/THEORY-tmpvecoh.md)).
 3. **Apparatus revision:**
    - none;
-   - by consistency alone, as in discourse sheaves (THEORY-tmptkmt9);
+   - by consistency alone, as in discourse sheaves ([THEORY-tmptkmt9](../theory.d/THEORY-tmptkmt9.md));
    - by consistency checked against held-out interventions the apparatus
-     did not choose (CLAIM-342).
+     did not choose ([CLAIM-342](../claims.d/CLAIM-342.md)).
 
 Regimes from A22 §10, extended by the owner's review:
 
 | regime | isolates |
 |---|---|
 | compatible maps, weak coupling | coherence without integration |
-| compatible maps, strong dissipative coupling | attracting compatibility and a gap in relaxation rates (CLAIM-tmpywecm) |
+| compatible maps, strong dissipative coupling | attracting compatibility and a gap in relaxation rates ([CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md)) |
 | compatible maps, conservative coupling | coherent oscillation without relaxation |
 | frustrated maps | persistent incompatibility and compromise organization |
-| common drive, no reciprocal coupling | apparent synchrony without mutual integration (QUESTION-063) |
-| higher-dimensional stalks with interior units | boundary constraints the parts' relations cannot state (QUESTION-tmprr9yy) |
+| common drive, no reciprocal coupling | apparent synchrony without mutual integration ([QUESTION-063](../questions.d/QUESTION-063.md)) |
+| higher-dimensional stalks with interior units | boundary constraints the parts' relations cannot state ([QUESTION-tmprr9yy](../questions.d/QUESTION-tmprr9yy.md)) |
 | revision by consistency alone | coherence without knowledge |
 | revision checked against held-out interventions | revision that can improve prediction |
 
@@ -70,7 +70,7 @@ For each regime:
 - which normal modes emerge;
 - what effective boundary law an observer confined to some units can fit,
   and whether it is pairwise, higher-order or history-dependent
-  (CLAIM-tmpose3y);
+  ([CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md));
 - whether the organization survives localized interventions;
 - how much communication and computation it takes to recover the
   correspondences from measurements.
@@ -82,10 +82,10 @@ knowledgeable**."
 
 ## What it would show
 
-The transitions CLAIM-tmpgubhp says are distinct can be made to come apart on
+The transitions [CLAIM-tmpgubhp](../claims.d/CLAIM-tmpgubhp.md) says are distinct can be made to come apart on
 purpose. Where they come apart in the study, the claim gains a constructed
 case. Where they never come apart across the regimes, the claim's defeater is
-in view. The revising regimes also bear on QUESTION-tmplxq7l. They do so only
+in view. The revising regimes also bear on [QUESTION-tmplxq7l](../questions.d/QUESTION-tmplxq7l.md). They do so only
 as adaptation of an apparatus, unless the revised maps feed back into the
 physical coupling. A variant in which they do would be the study's closest
 approach to interaction changing the operative correspondence structure.

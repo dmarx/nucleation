@@ -47,9 +47,9 @@ summary: >-
   places where one achievement does not yield the next, each with a
   source the record has read. The central experiment, in which physical
   coupling, correspondence maps and apparatus revision are manipulated
-  independently, is CASE-tmpl995z. The open questions it organizes are
-  QUESTION-tmplxq7l, QUESTION-tmprr9yy, QUESTION-tmpubsi9,
-  QUESTION-tmpl1yih and QUESTION-115.
+  independently, is [CASE-tmpl995z](../cases.d/CASE-tmpl995z.md). The open questions it organizes are
+  [QUESTION-tmplxq7l](../questions.d/QUESTION-tmplxq7l.md), [QUESTION-tmprr9yy](../questions.d/QUESTION-tmprr9yy.md), [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md),
+  [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md) and [QUESTION-115](../questions.d/QUESTION-115.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpdjt64 CLAIM-tmpose3y CLAIM-tmpywecm CLAIM-tmpalzo4 CLAIM-tmpi1bjh CLAIM-tmpmand1 CLAIM-tmpmx2ql CLAIM-tmp0yhlm CLAIM-342 CLAIM-395 CASE-tmpl995z — Proposed or new; the claims this synthesis organizes, cited as open -->
 <!-- inactive-ok-file: QUESTION-tmplxq7l QUESTION-tmprr9yy QUESTION-tmpubsi9 QUESTION-tmpl1yih QUESTION-115 QUESTION-063 THEORY-tmphcxoi THEORY-tmp0d0qe — Open or Proposed; the open questions and readings the program names -->
@@ -66,11 +66,11 @@ It holds that the five are distinct, and that is a thesis.
 
 | relationship | central question | where the record holds it |
 |---|---|---|
-| interconnection | what joint behaviour becomes possible or impossible? | CLAIM-tmpdjt64 (physical constraint formation); CLAIM-tmpose3y (composition) |
-| compatibility | which local states or descriptions admit a coherent global realization? | CLAIM-tmpdjt64 (gluing); CLAIM-143; THEORY-012 |
-| dynamics | which compatible, frustrated or differentiated organizations actually persist? | CLAIM-tmpywecm; CLAIM-tmpmx2ql; QUESTION-tmpl1yih |
-| individuation | which persistent organizations have robust identity, boundaries and maintenance? | CLAIM-157; CLAIM-395; QUESTION-115 |
-| inquiry | which organizations can measure and revise their models or apparatuses under resource bounds? | CLAIM-tmpalzo4; CLAIM-tmpi1bjh; CLAIM-tmp0yhlm; QUESTION-tmpubsi9 |
+| interconnection | what joint behaviour becomes possible or impossible? | [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md) (physical constraint formation); [CLAIM-tmpose3y](CLAIM-tmpose3y.md) (composition) |
+| compatibility | which local states or descriptions admit a coherent global realization? | [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md) (gluing); [CLAIM-143](CLAIM-143.md); [THEORY-012](../theory.d/THEORY-012.md) |
+| dynamics | which compatible, frustrated or differentiated organizations actually persist? | [CLAIM-tmpywecm](CLAIM-tmpywecm.md); [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md); [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md) |
+| individuation | which persistent organizations have robust identity, boundaries and maintenance? | [CLAIM-157](CLAIM-157.md); [CLAIM-395](CLAIM-395.md); [QUESTION-115](../questions.d/QUESTION-115.md) |
+| inquiry | which organizations can measure and revise their models or apparatuses under resource bounds? | [CLAIM-tmpalzo4](CLAIM-tmpalzo4.md); [CLAIM-tmpi1bjh](CLAIM-tmpi1bjh.md); [CLAIM-tmp0yhlm](CLAIM-tmp0yhlm.md); [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md) |
 
 ## Where the implications fail
 
@@ -79,40 +79,40 @@ record has read or a demonstration it holds.
 
 - **Interconnection without compatibility.** Pairwise relations, each
   satisfiable, can fail together around a cycle. Torres-Hugas et al.
-  (THEORY-tmpoeig9) give the holonomy case, the frustrated graph energy
-  leaves a residual in the cycle space (CLAIM-tmpdjt64), and empirical
-  contextuality is a third case (CLAIM-131).
+  ([THEORY-tmpoeig9](../theory.d/THEORY-tmpoeig9.md)) give the holonomy case, the frustrated graph energy
+  leaves a residual in the cycle space ([CLAIM-tmpdjt64](CLAIM-tmpdjt64.md)), and empirical
+  contextuality is a third case ([CLAIM-131](CLAIM-131.md)).
 - **Compatibility without attraction.** A pattern of synchrony can be
   invariant under every admissible dynamics and still not attract
-  (Stewart, Golubitsky and Pivato; THEORY-tmpbgffi). Conservatively coupled
+  (Stewart, Golubitsky and Pivato; [THEORY-tmpbgffi](../theory.d/THEORY-tmpbgffi.md)). Conservatively coupled
   oscillators have a compatible collective mode, and their relative mode
-  never decays (CLAIM-tmpywecm).
+  never decays ([CLAIM-tmpywecm](CLAIM-tmpywecm.md)).
 - **Geometry of frustration without a stability boundary.** The point of
   maximal frustration is not where a pattern loses stability; it loses it
-  earlier (THEORY-tmprsknh).
+  earlier ([THEORY-tmprsknh](../theory.d/THEORY-tmprsknh.md)).
 - **Persistence without individuality.** Synchrony can come from a common
-  drive (QUESTION-063). Retention, dynamical independence and causal
-  informativeness need not pick one boundary (QUESTION-115). A spectral
+  drive ([QUESTION-063](../questions.d/QUESTION-063.md)). Retention, dynamical independence and causal
+  informativeness need not pick one boundary ([QUESTION-115](../questions.d/QUESTION-115.md)). A spectral
   gap can support prediction without any organization that maintains
-  itself (CLAIM-tmpywecm).
+  itself ([CLAIM-tmpywecm](CLAIM-tmpywecm.md)).
 - **Persistence without autonomy.** A pattern can be maintained entirely by
   external supply. Closure, in which the processes maintain their own
-  constraints, is a further condition (CLAIM-395; Montévil and Mossio,
-  LIT-582).
+  constraints, is a further condition ([CLAIM-395](CLAIM-395.md); Montévil and Mossio,
+  [LIT-582](../literature.d/LIT-582.md)).
 - **Effective constraint without a new law.** Composition yields boundary
-  constraints that no part has, sometimes of a new kind (CLAIM-tmpose3y;
-  THEORY-tmpvecoh). They are effective, not fundamental.
+  constraints that no part has, sometimes of a new kind ([CLAIM-tmpose3y](CLAIM-tmpose3y.md);
+  [THEORY-tmpvecoh](../theory.d/THEORY-tmpvecoh.md)). They are effective, not fundamental.
 - **Observation without inquiry.** Correlation, measurement, record and use
-  can each occur without the next (QUESTION-tmpubsi9). Decoherence can
-  occur without usable records (Zurek, NOTE-tmpvsoha).
+  can each occur without the next ([QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md)). Decoherence can
+  occur without usable records (Zurek, [NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md)).
 - **Self-revision without reliability.** An apparatus that revises its
   comparison rules by consistency alone converges to agreement its authors
-  call learning to lie (THEORY-tmptkmt9). Coherence is not knowledge
-  (CLAIM-342).
+  call learning to lie ([THEORY-tmptkmt9](../theory.d/THEORY-tmptkmt9.md)). Coherence is not knowledge
+  ([CLAIM-342](CLAIM-342.md)).
 - **Askable without answerable, and the reverse.** Formulating a question
-  is itself bounded (CLAIM-tmpi1bjh). Even when a configuration exists, the
+  is itself bounded ([CLAIM-tmpi1bjh](CLAIM-tmpi1bjh.md)). Even when a configuration exists, the
   evidence may not determine it, and when it does, finding it may cost too
-  much (Singer; NOTE-tmplhrxg).
+  much (Singer; [NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md)).
 
 ## The program
 
@@ -120,17 +120,17 @@ The transitions are where the work is. For each, the program asks for the
 conditions under which it occurs, and for a case in which it fails. The open
 questions:
 
-- **QUESTION-tmplxq7l** asks how correspondence structures are themselves
+- **[QUESTION-tmplxq7l](../questions.d/QUESTION-tmplxq7l.md)** asks how correspondence structures are themselves
   generated. Almost all the mathematics takes them as input. The owner's
   review called this "one of the genuinely unfinished parts of the
   program".
-- **QUESTION-tmprr9yy** asks when composition forces a richer relational
+- **[QUESTION-tmprr9yy](../questions.d/QUESTION-tmprr9yy.md)** asks when composition forces a richer relational
   vocabulary.
-- **QUESTION-tmpl1yih** asks how forms arise and are unmade.
-- **QUESTION-115** asks which criteria of individuation agree.
-- **QUESTION-tmpubsi9** asks what turns observation into inquiry.
+- **[QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md)** asks how forms arise and are unmade.
+- **[QUESTION-115](../questions.d/QUESTION-115.md)** asks which criteria of individuation agree.
+- **[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md)** asks what turns observation into inquiry.
 
-The central experiment is CASE-tmpl995z. It is one network in which physical
+The central experiment is [CASE-tmpl995z](../cases.d/CASE-tmpl995z.md). It is one network in which physical
 coupling, correspondence maps and apparatus revision are manipulated
 independently, so that the transitions can be made to come apart on purpose.
 

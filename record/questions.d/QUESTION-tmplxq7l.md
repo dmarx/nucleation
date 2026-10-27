@@ -14,7 +14,7 @@ summary: >-
   unfinished parts of the program". The formal results the record now holds
   take the correspondence structure as input. A sheaf's restriction maps,
   a gauge connection, a port condition and a Laplacian are given, and the
-  mathematics says what follows. CLAIM-tmpdjt64's strong thesis is that
+  mathematics says what follows. [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)'s strong thesis is that
   interactions can make or change that structure. Only one model the record
   has read changes it through interaction, and there agreement is reached
   by learning to lie. The question asks for conditions under which the
@@ -35,29 +35,29 @@ transformed through interaction."
 
 The record's formal results all start one step after this:
 
-- **CLAIM-tmpywecm's spectral argument** assumes the Laplacian. Its kernel is
+- **[CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md)'s spectral argument** assumes the Laplacian. Its kernel is
   compatibility and its spectrum sets relaxation rates, once L is given. The
   owner's review: "the spectral mathematics ordinarily assumes the operator
   has already been specified."
 - **The readings take the maps as given.** Hansen and Ghrist's restriction
   maps, Robinson's geometric correspondences, Singer's offsets and
-  Torres-Hugas et al.'s connection are all inputs (NOTE-tmpzqos6,
-  NOTE-tmpdshmx, NOTE-tmplhrxg, NOTE-tmpb8jge).
+  Torres-Hugas et al.'s connection are all inputs ([NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md),
+  [NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md), [NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md), [NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md)).
 - **Composition holds the junction law fixed.** Baez and Fong derive an
   effective boundary relation from a port condition that is the same at
-  every junction (NOTE-tmpigjto). Composition changes the effective
-  constraint, not the law of the junction (CLAIM-tmpose3y).
+  every junction ([NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md)). Composition changes the effective
+  constraint, not the law of the junction ([CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)).
 
 The one model read where the maps change through interaction is the discourse
-sheaf (NOTE-tmpe4zh5). Agents revise their expression maps from their
+sheaf ([NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md)). Agents revise their expression maps from their
 neighbours' expressions, and converge to agreement that the authors call
-learning to lie (THEORY-tmptkmt9). That is adaptation of an apparatus's
+learning to lie ([THEORY-tmptkmt9](../theory.d/THEORY-tmptkmt9.md)). That is adaptation of an apparatus's
 comparison rules, optimized for consistency alone. It is not a physical
 correspondence coming into being.
 
 ## What the question separates
 
-CLAIM-tmpdjt64 now distinguishes three mechanisms:
+[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md) now distinguishes three mechanisms:
 - physical constraint formation;
 - correspondence discovery;
 - correspondence adaptation.
@@ -72,12 +72,12 @@ Candidates the record holds or can name, none yet shown to be a case:
 - **Slow operator dynamics.** A21 §6 let the maps evolve on their own slow
   time scale, ϑ̇ = εG(ϑ, x, o, e). In such a model the operator is a
   dynamical variable, and the question becomes what G must be for the result
-  to be physical and not representational (CLAIM-tmpmx2ql's note of U15–U23).
+  to be physical and not representational ([CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md)'s note of U15–U23).
 - **Composition that changes the kind of structure.** Eliminating an interior
   can leave a boundary constraint no pairwise structure expresses
-  (THEORY-tmpvecoh). Whether that is a change in the operative structure, or
+  ([THEORY-tmpvecoh](../theory.d/THEORY-tmpvecoh.md)). Whether that is a change in the operative structure, or
   only in what a description of a restricted class can say, is
-  QUESTION-tmprr9yy.
+  [QUESTION-tmprr9yy](QUESTION-tmprr9yy.md).
 - **Calibration and coupling in engineered systems.** An implemented
   calibration that drives a controller changes what the system does with its
   comparisons. Whether it changes anything beyond the apparatus is the
@@ -89,9 +89,9 @@ Candidates the record holds or can name, none yet shown to be a case:
    structure from discovery and from redescription. One candidate: after
    the change, interventions confined to one side produce different
    admissible joint behaviour than before, by a test that does not pass
-   through the apparatus's own comparisons (CLAIM-342, CLAIM-143).
+   through the apparatus's own comparisons ([CLAIM-342](../claims.d/CLAIM-342.md), [CLAIM-143](../claims.d/CLAIM-143.md)).
 2. A system, physical or simulated, that meets the criterion, with the
    mechanism by which interaction produced the change.
 3. Or an argument that none can. On that answer, correspondence structures
-   are always background or representational, and CLAIM-tmpdjt64's first
+   are always background or representational, and [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)'s first
    mechanism reduces to composition under fixed junction laws.
