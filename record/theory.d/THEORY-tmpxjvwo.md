@@ -32,10 +32,10 @@ source:
 extends:
 - THEORY-tmp90225
 summary: >-
-  Cammarata et al. (2021), LIT-tmpl1s2e, read in NOTE-tmphb6el. The
+  Cammarata et al. (2021), [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md), read in [NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md). The
   article's account of how curve detectors are built, and its claim that
   the account is the circuit. The family structure and the echo edit are
-  measured (THEORY-tmp90225); that the description is complete, and that
+  measured ([THEORY-tmp90225](THEORY-tmp90225.md)); that the description is complete, and that
   the reimplementation matches the natural units beyond strong cases, is
   shown by figures only.
 ---
@@ -44,8 +44,8 @@ summary: >-
 
 ## Source
 
-Cammarata et al. (2021), *Curve Circuits*, LIT-tmpl1s2e, read in full in
-NOTE-tmphb6el: the introduction, The Curve Detector Algorithm, The
+Cammarata et al. (2021), *Curve Circuits*, [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md), read in full in
+[NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md): the introduction, The Curve Detector Algorithm, The
 Components of Curve Detectors and An Artificial Artificial Neural
 Network.
 
@@ -65,7 +65,7 @@ curve detectors."
 ## What the record holds toward it
 
 - **The echo edit, the reimplementation and the substitution**
-  (THEORY-tmp90225): one tested weight-level prediction, a qualitative
+  ([THEORY-tmp90225](THEORY-tmp90225.md)): one tested weight-level prediction, a qualitative
   match on synthetic curves and strong dataset examples, and 26 of 46
   lost classifications recovered on 2,000 images.
 - **The structure,** read from the strongest weights and the
@@ -81,7 +81,7 @@ curve detectors."
 
 "Simple" and "accurately reflect" are claims about the whole circuit,
 and the evidence is about its strongest parts, compared by figure. The
-weak firings that THEORY-1022 finds unexplained are not compared.
+weak firings that [THEORY-1022](THEORY-1022.md) finds unexplained are not compared.
 
 ## What would confirm or reject it
 

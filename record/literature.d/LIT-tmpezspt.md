@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpmxqaw) in full, from the authors' own copy of
+  read 2026-10-27 ([NOTE-tmpmxqaw](../notes.d/NOTE-tmpmxqaw.md)) in full, from the authors' own copy of
   the ICA 2007 paper; worth reading for infinite sparse factor analysis
   and infinite ICA, in which an Indian buffet process masks which of
   unboundedly many sources is active at each data point, the model the
   infinite factorial HMM's experiments compare against, and for its
   sampler, whose ratio for a source being on or off shows how far the
   data can tell an inactive source from an active one at zero
-  (THEORY-tmpxim6p). Read it knowing that its results are boxplots and a
+  ([THEORY-tmpxim6p](../theory.d/THEORY-tmpxim6p.md)). Read it knowing that its results are boxplots and a
   Hinton diagram, that its text and figure caption disagree on the
   synthetic data's size, and that it misstates the one-parameter IBP's
   total number of features.
@@ -78,15 +78,15 @@ S. A. Abdallah & M. D. Plumbley (eds.), *Independent Component Analysis
 and Signal Separation* (ICA 2007), LNCS 4666, pp. 381–388. Springer.
 doi:10.1007/978-3-540-74494-8_48.
 
-Read in full on 2026-10-27 (NOTE-tmpmxqaw). One account was drawn from
-it: THEORY-tmpxim6p.
+Read in full on 2026-10-27 ([NOTE-tmpmxqaw](../notes.d/NOTE-tmpmxqaw.md)). One account was drawn from
+it: [THEORY-tmpxim6p](../theory.d/THEORY-tmpxim6p.md).
 
 ## Why this is here
 
 The owner asked on 2026-10-27 to "file the next readings". The infinite
-factorial HMM (LIT-1577) measures its Markov IBP prior against this
+factorial HMM ([LIT-1577](LIT-1577.md)) measures its Markov IBP prior against this
 paper's infinite ICA, which finds nine speakers where the Markov prior
-finds five (NOTE-1199). Its model, a binary mask times a continuous
-activation, is the shape of CASE-165's split between holding a feature
+finds five ([NOTE-1199](../notes.d/NOTE-1199.md)). Its model, a binary mask times a continuous
+activation, is the shape of [CASE-165](../cases.d/CASE-165.md)'s split between holding a feature
 (B) and using it (a), and its sampler states exactly what the data say
 about that split at one data point.

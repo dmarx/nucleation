@@ -21,11 +21,11 @@ date: '2026-10-27'
 source:
 - LIT-tmp6ii6u
 summary: >-
-  Olah et al. (2020), LIT-tmp6ii6u, read in NOTE-tmpdmtd9: the census of
+  Olah et al. (2020), [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read in [NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md): the census of
   InceptionV1's early vision, counted. A complete partition of 1,056 units
   into 77 groups, by eye; 37% in groups the authors flag as uncertain or
   catch-all, by their own words. It is a denominator for the circuits
-  claim that units are typically features (THEORY-1013), not a measure of
+  claim that units are typically features ([THEORY-1013](THEORY-1013.md)), not a measure of
   how many units are understood.
 ---
 <!-- inactive-ok-file: THEORY-tmpehpcu THEORY-1013 THEORY-1022 — Proposed; the authors' wider claim, the Zoom In account this count serves and the curve account, cited as open -->
@@ -34,8 +34,8 @@ summary: >-
 ## Source
 
 Olah, Cammarata, Schubert, Goh, Petrov and Carter (2020), *An Overview of
-Early Vision in InceptionV1*, Distill, LIT-tmp6ii6u, read in full in
-NOTE-tmpdmtd9: the five layer sections, every group's caption and neuron
+Early Vision in InceptionV1*, Distill, [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read in full in
+[NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md): the five layer sections, every group's caption and neuron
 grid, and the taxonomy files of its Resources section.
 
 ## What was actually shown
@@ -83,12 +83,12 @@ these happened.
 - **The rule is this record's,** applied to the authors' words; another
   reader might count "Gabor-like" (conv2d1, "We haven't studied them very
   carefully") or a borderline caption differently. The flagged list is in
-  NOTE-tmpdmtd9.
+  [NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md).
 
 ## Connections
 
-- **THEORY-1013.** Its promote_when asks for a fraction of units meeting a
+- **[THEORY-1013](THEORY-1013.md).** Its promote_when asks for a fraction of units meeting a
   stated criterion over whole layers. This is the denominator, and the
   authors' own uncertainty over it; the criterion is still missing.
-- **THEORY-1028 and THEORY-1022.** The curve family of the census is the
+- **[THEORY-1028](THEORY-1028.md) and [THEORY-1022](THEORY-1022.md).** The curve family of the census is the
   one those accounts describe.

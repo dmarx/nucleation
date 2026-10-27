@@ -20,7 +20,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpfhqac
 summary: >-
-  Teh, Görür and Ghahramani (2007), LIT-tmpfhqac, read in NOTE-tmptxvho.
+  Teh, Görür and Ghahramani (2007), [LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md), read in [NOTE-tmptxvho](../notes.d/NOTE-tmptxvho.md).
   μ_(k) = ∏_{l≤k} ν_l with ν_l ~ Beta(α, 1). Truncated at K, the expected
   number of occupied features is Σ_{k≤K} Σ_{j=1}^{N} (−1)^{j+1} C(N, j)
   (α/(α + j))^k, which sums to αH_N as K → ∞. At N = 12, α = 3: 6.80,
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Teh, Görür and Ghahramani (2007), *Stick-breaking construction for the
-Indian buffet process*, LIT-tmpfhqac, read in full in NOTE-tmptxvho:
+Indian buffet process*, [LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md), read in full in [NOTE-tmptxvho](../notes.d/NOTE-tmptxvho.md):
 §3.1 (the construction, (5)–(15)) and §3.2 (truncation, (19)–(20)).
 
 ## What was actually shown
@@ -51,13 +51,13 @@ probability μ_(k), independently given the sticks, so feature k is
 occupied among N objects with probability 1 − E[(1 − μ_(k))^N] =
 Σ_{j=1}^{N} (−1)^{j+1} C(N, j) E[μ_(k)^j], and E[μ_(k)^j] = (α/(α + j))^k.
 Summing over all k gives Σ_j (−1)^{j+1} C(N, j) α/j = αH_N, the IBP's
-count (THEORY-tmpo1cju); summing to K gives the truncation's. At N = 12,
+count ([THEORY-tmpo1cju](THEORY-tmpo1cju.md)); summing to K gives the truncation's. At N = 12,
 α = 3:
 
 | K | 8 | 16 | 24 | 32 | 50 | limit |
 |---|---|---|---|---|---|---|
 | truncated construction | 6.799 | 8.974 | 9.274 | 9.306 | 9.310 | 9.310 |
-| finite model, K independent Beta(α/K, 1) (THEORY-999) | | 6.83 | | | 8.38 | 9.310 |
+| finite model, K independent Beta(α/K, 1) ([THEORY-999](THEORY-999.md)) | | 6.83 | | | 8.38 | 9.310 |
 
 Simulation of the truncated construction at K = 16 (200,000 draws) gives
 8.969 ± 0.006. Each object holds Σ_{k≤16} (3/4)^k = 2.97 features on
@@ -75,15 +75,15 @@ Poisson(9.31) is only 0.015.
   depends on the data.
 - **Not that the two approximations are interchangeable.** At the same K
   the finite model and the truncated construction are different priors;
-  CASE-165's model (T23) is the finite one.
+  [CASE-165](../cases.d/CASE-165.md)'s model (T23) is the finite one.
 
 ## Connections
 
-- **CASE-165, item 1.** Confirms the case's "8.97, simulated" and its
+- **[CASE-165](../cases.d/CASE-165.md), item 1.** Confirms the case's "8.97, simulated" and its
   "close to it", and qualifies its reason: what the truncation loses is
   features beyond the 16th stick, occupied in 24% of draws, not the
   1.5% of draws in which more than 16 features are occupied.
-- **THEORY-999.** The finite model at the same K = 16 expects 6.83.
+- **[THEORY-999](THEORY-999.md).** The finite model at the same K = 16 expects 6.83.
   Both approach αH_N from below, the construction much faster.
-- **THEORY-1034.** The Markov IBP's stick-breaking construction is this
+- **[THEORY-1034](THEORY-1034.md).** The Markov IBP's stick-breaking construction is this
   one with an independent persistence attached to each stick.

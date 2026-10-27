@@ -21,12 +21,12 @@ date: '2026-10-27'
 source:
 - LIT-tmp0oa8w
 summary: >-
-  Van Gael, Saatci, Teh and Ghahramani (2008), LIT-tmp0oa8w, read in
-  NOTE-tmp2597d. u_t ~ Uniform(0, π_{s_{t−1}s_t}) is an auxiliary
+  Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), read in
+  [NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md). u_t ~ Uniform(0, π_{s_{t−1}s_t}) is an auxiliary
   variable, so sampling u given s and then s given u leaves p(s | y)
   invariant; given u, the forward recursion sums only over transitions
   with π > u_t, of which there are finitely many per row. It says the
-  sampler is exact, not how fast it mixes (THEORY-tmptl00j).
+  sampler is exact, not how fast it mixes ([THEORY-tmptl00j](THEORY-tmptl00j.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmptl00j — Proposed; the mixing claim this account leaves out, cited as open -->
 
@@ -35,8 +35,8 @@ summary: >-
 ## Source
 
 Van Gael, Saatci, Teh and Ghahramani (2008), *Beam sampling for the
-infinite hidden Markov model*, LIT-tmp0oa8w, read in full in
-NOTE-tmp2597d: §4, eq. (4), and footnote 2.
+infinite hidden Markov model*, [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), read in full in
+[NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md): §4, eq. (4), and footnote 2.
 
 ## What was actually shown
 
@@ -63,7 +63,7 @@ invariance; the finiteness is the part specific to the infinite model.
 ## What this does not say
 
 - **Not that it mixes faster than Gibbs.** That is the paper's empirical
-  claim, filed separately as Proposed (THEORY-tmptl00j).
+  claim, filed separately as Proposed ([THEORY-tmptl00j](THEORY-tmptl00j.md)).
 - **Not its cost.** The worst case is O(TK²) per iteration over the K
   represented states; the near-O(TK) behaviour is an observation on one
   synthetic set.
@@ -72,8 +72,8 @@ invariance; the finiteness is the part specific to the infinite model.
 
 ## Connections
 
-- **LIT-1577 and NOTE-1199.** The infinite factorial HMM applies the same
+- **[LIT-1577](../literature.d/LIT-1577.md) and [NOTE-1199](../notes.d/NOTE-1199.md).** The infinite factorial HMM applies the same
   construction to each binary chain of the Markov IBP, with a slice over
-  its sticks (THEORY-tmphvhg6's construction, LIT-tmpfhqac).
-- **THEORY-tmphvhg6.** The IBP's slice sampler uses the same device on
+  its sticks ([THEORY-tmphvhg6](THEORY-tmphvhg6.md)'s construction, [LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md)).
+- **[THEORY-tmphvhg6](THEORY-tmphvhg6.md).** The IBP's slice sampler uses the same device on
   feature sticks.

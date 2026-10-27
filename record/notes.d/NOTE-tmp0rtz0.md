@@ -134,7 +134,7 @@ to the residual the other chains leave.
 | C1 | Exact inference in the factorial HMM costs O(TMK^{M+1}) | strong | §3.2, junction-tree argument, Appendix B |
 | C2 | The chains are coupled a posteriori through the shared observation | strong | §2, d-separation; note 3's exception is mis-stated (below) |
 | C3 | The structured variational E step's fixed point is (12a), free of prior and transition terms | strong | Appendix D |
-| C4 | On small synthetic problems the variational E steps are not significantly worse than exact EM, and an unconstrained HMM overfits | moderate | Table 1, 15 parameter sets per size (THEORY-tmptn4xd) |
+| C4 | On small synthetic problems the variational E steps are not significantly worse than exact EM, and an unconstrained HMM overfits | moderate | Table 1, 15 parameter sets per size ([THEORY-tmptn4xd](../theory.d/THEORY-tmptn4xd.md)) |
 | C5 | Gibbs with ten samples per variable is slower than the variational methods and worse on the smaller problems | moderate | Table 1, Figure 4, one machine |
 | C6 | Factorial HMMs predict Bach chorale melodies better than HMMs | moderate | Figure 5, one data set, read from a chart |
 
@@ -151,18 +151,18 @@ to the residual the other chains leave.
 
 ## Connections
 
-The infinite factorial HMM (LIT-1577, NOTE-1199) is this model with binary
+The infinite factorial HMM ([LIT-1577](../literature.d/LIT-1577.md), [NOTE-1199](NOTE-1199.md)) is this model with binary
 chains and an unbounded M under the Markov IBP, and its inference uses
-Van Gael et al.'s beam sampler (LIT-tmp0oa8w) in place of these E steps.
+Van Gael et al.'s beam sampler ([LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md)) in place of these E steps.
 Its static ancestor is Ghahramani's factorial learning, which Griffiths
 and Ghahramani cite among the "factorial" latent-feature models
-(LIT-tmp3u0k8). Its linear-Gaussian observation with binary chains is the
+([LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md)). Its linear-Gaussian observation with binary chains is the
 iFHMM's ICA-like likelihood, which Knowles and Ghahramani's infinite ICA
-(LIT-tmpezspt) shares without the chains.
+([LIT-tmpezspt](../literature.d/LIT-tmpezspt.md)) shares without the chains.
 
 ## Bearing on the record
 
-- **CASE-165, the construction.** The case's output u = Σ_k B a W o +
+- **[CASE-165](../cases.d/CASE-165.md), the construction.** The case's output u = Σ_k B a W o +
   W^private o, with each B_{ek} a two-state chain over days, is per
   member a factorial HMM with K binary chains and a linear observation.
   So the case's model inherits two facts from this paper. First, the
@@ -171,14 +171,14 @@ iFHMM's ICA-like likelihood, which Knowles and Ghahramani's infinite ICA
   Second, exact inference costs O(TMK^{M+1}): at the case's K = 16 binary
   features, 16 · 2¹⁷ ≈ 2.1 million terms per member per day, so a fit would
   need an approximation such as the structured one here, or the beam
-  sampler (LIT-tmp0oa8w).
-- **CASE-165, item 3, decoupling.** Note 3 says the chains decouple when
+  sampler ([LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md)).
+- **[CASE-165](../cases.d/CASE-165.md), item 3, decoupling.** Note 3 says the chains decouple when
   the columns of W^(m) and W^(n) are orthogonal and C is diagonal. What is
   needed is that the cross term W^(m)′C^{−1}W^(n) be additively separable
   (for instance zero); Euclidean orthogonality gives that only when C is
   isotropic. With orthogonal features, coupling in the case's model would
   vanish only if the noise were the same in every output dimension.
-- **LIT-1577.** NOTE-1199's "a factorial HMM whose number of hidden chains
+- **[LIT-1577](../literature.d/LIT-1577.md).** [NOTE-1199](NOTE-1199.md)'s "a factorial HMM whose number of hidden chains
   is learned" now has its original in the record.
 
 No instruction for machine-learning practice; nothing for the anthology.

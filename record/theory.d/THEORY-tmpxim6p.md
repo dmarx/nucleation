@@ -19,7 +19,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpezspt
 summary: >-
-  Knowles and Ghahramani (2007), LIT-tmpezspt, read in NOTE-tmpmxqaw. With
+  Knowles and Ghahramani (2007), [LIT-tmpezspt](../literature.d/LIT-tmpezspt.md), read in [NOTE-tmpmxqaw](../notes.d/NOTE-tmpmxqaw.md). With
   y = g x + ε, x ~ N(0, 1), ε ~ N(0, σ_ε² I): ∫ p(y | x) p(x) dx / p(y |
   x = 0) = σ̂ exp{μ̂²/(2σ̂²)}, σ̂² = σ_ε²/(σ_ε² + g′g), μ̂ = g′ε/(σ_ε² +
   g′g). It is the Gaussian case only; the Laplacian case is the paper's
@@ -33,8 +33,8 @@ summary: >-
 ## Source
 
 Knowles and Ghahramani (2007), *Infinite sparse factor analysis and
-infinite independent components analysis*, LIT-tmpezspt, read in full in
-NOTE-tmpmxqaw: §3, eqs. (9) and (12)–(14).
+infinite independent components analysis*, [LIT-tmpezspt](../literature.d/LIT-tmpezspt.md), read in full in
+[NOTE-tmpmxqaw](../notes.d/NOTE-tmpmxqaw.md): §3, eqs. (9) and (12)–(14).
 
 ## What was actually shown
 
@@ -60,19 +60,19 @@ script, 2026-10-27).
 
 - **Not that the mask is identified in general.** With the loading and
   other sources unknown, splits, rescalings and absorption remain
-  (CASE-165, items 3–4).
+  ([CASE-165](../cases.d/CASE-165.md), items 3–4).
 - **Not that the data decide without the prior.** The factor is the
   prior's: with x fixed at a value near zero instead of integrated out,
   "on" and "off" fit equally.
 - **Not about a sequence.** The paper's model has no dynamics; the
-  infinite factorial HMM adds them (LIT-1577).
+  infinite factorial HMM adds them ([LIT-1577](../literature.d/LIT-1577.md)).
 
 ## Connections
 
-- **CASE-165, item 3.** Qualifies "availability is told from activation
+- **[CASE-165](../cases.d/CASE-165.md), item 3.** Qualifies "availability is told from activation
   only by the prior and the transition, not by the data": true with the
   activation fixed; with the activation integrated out, the data carry an
   Occam factor against holding an unused feature, whose size the
   activation's prior sets.
-- **THEORY-tmpo1cju.** The mask's prior is the IBP; its prior odds term
+- **[THEORY-tmpo1cju](THEORY-tmpo1cju.md).** The mask's prior is the IBP; its prior odds term
   is the buffet's m/(N − m) at β = 1.

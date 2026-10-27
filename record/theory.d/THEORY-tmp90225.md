@@ -20,7 +20,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpl1s2e
 summary: >-
-  Cammarata et al. (2021), LIT-tmpl1s2e, read in NOTE-tmphb6el: the three
+  Cammarata et al. (2021), [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md), read in [NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md): the three
   results of Curve Circuits that test its account of the mixed3b curve
   units, the echo edit, the hand-written reimplementation and the
   substitution. Only the last is a number, and a small one. It holds for
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Cammarata, Goh, Carter, Voss, Schubert and Olah (2021), *Curve Circuits*,
-Distill, LIT-tmpl1s2e, read in full in NOTE-tmphb6el: 3a Early Curve
+Distill, [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md), read in full in [NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md): 3a Early Curve
 Family, An Artificial Artificial Neural Network and its footnotes. The
 figures were not rendered; their content is from captions and text.
 
@@ -84,13 +84,13 @@ units.
 
 ## Connections
 
-- **THEORY-1013.** With THEORY-1028, all seven of Zoom In's arguments
+- **[THEORY-1013](THEORY-1013.md).** With [THEORY-1028](THEORY-1028.md), all seven of Zoom In's arguments
   are now held for one family, and the echo edit is one tested
   weight-level prediction. Its promote_when asks for such predictions
   over whole layers.
-- **THEORY-1022.** Its promote_when asks for a reimplementation that
+- **[THEORY-1022](THEORY-1022.md).** Its promote_when asks for a reimplementation that
   predicts the units' activations across the whole distribution,
   weak firings included, and a downstream intervention. This is a
   reimplementation compared on strong cases, and an intervention on
   accuracy; neither condition is met.
-- **THEORY-1028.** The behaviour this circuit is said to produce.
+- **[THEORY-1028](THEORY-1028.md).** The behaviour this circuit is said to produce.

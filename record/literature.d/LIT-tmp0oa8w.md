@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmp2597d) in full, from the authors' own copy
+  read 2026-10-27 ([NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md)) in full, from the authors' own copy
   of the ICML paper; worth reading for the beam sampler, which adds a
   uniform slice variable under each transition so that only finitely many
   state trajectories of the infinite HMM have positive probability, and
   then samples a whole trajectory exactly by forward filtering, backward
-  sampling (THEORY-tmp7bmmi). The infinite factorial HMM's inference is
+  sampling ([THEORY-tmp7bmmi](../theory.d/THEORY-tmp7bmmi.md)). The infinite factorial HMM's inference is
   built on it. Read it knowing that its case for faster mixing than Gibbs
   sampling rests on charts, synthetic data and one changepoint series
-  judged by eye (THEORY-tmptl00j), and that one of its fixed
+  judged by eye ([THEORY-tmptl00j](../theory.d/THEORY-tmptl00j.md)), and that one of its fixed
   hyperparameter settings was chosen from the samplers' own results.
 title: 'Beam Sampling for the Infinite Hidden Markov Model'
 version: 2
@@ -74,15 +74,15 @@ sampling for the infinite hidden Markov model. In *Proceedings of the 25th
 International Conference on Machine Learning* (ICML '08), pp. 1088–1095.
 ACM. doi:10.1145/1390156.1390293.
 
-Read in full on 2026-10-27 (NOTE-tmp2597d). Two accounts were drawn from
-it: THEORY-tmp7bmmi and THEORY-tmptl00j.
+Read in full on 2026-10-27 ([NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md)). Two accounts were drawn from
+it: [THEORY-tmp7bmmi](../theory.d/THEORY-tmp7bmmi.md) and [THEORY-tmptl00j](../theory.d/THEORY-tmptl00j.md).
 
 ## Why this is here
 
 The owner asked on 2026-10-27 to "file the next readings". The infinite
-factorial HMM (LIT-1577) samples each of its binary chains with a slice
+factorial HMM ([LIT-1577](LIT-1577.md)) samples each of its binary chains with a slice
 variable and forward filtering, backward sampling, the scheme introduced
 here for the infinite HMM. The record held the Markov IBP's prior and not
 the inference that makes it usable; any fitting of a dynamic feature
-model such as CASE-165's would need a sampler of this kind for its
+model such as [CASE-165](../cases.d/CASE-165.md)'s would need a sampler of this kind for its
 per-feature chains.

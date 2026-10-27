@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmp0rtz0) in full, from the authors' copy of the
+  read 2026-10-27 ([NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md)) in full, from the authors' copy of the
   Machine Learning article, checked against the publisher's PDF; worth
   reading as the origin of the factorial hidden Markov model, the
   parametric model of several independent hidden chains jointly producing
@@ -9,7 +9,7 @@ status_note: >-
   for its account of why exact inference costs O(TMK^{M+1}), and for its
   structured variational approximation. Read it knowing that its
   comparison of inference methods is on small synthetic problems
-  (THEORY-tmptn4xd), that its Bach chorale result is read from charts,
+  ([THEORY-tmptn4xd](../theory.d/THEORY-tmptn4xd.md)), that its Bach chorale result is read from charts,
   and that its footnote on when the chains decouple is wrong for a
   non-isotropic covariance.
 title: 'Factorial Hidden Markov Models'
@@ -86,15 +86,15 @@ Ghahramani, Z. & Jordan, M. I. (1997). Factorial hidden Markov models.
 earlier version: *Advances in Neural Information Processing Systems 8*
 (1995).
 
-Read in full on 2026-10-27 (NOTE-tmp0rtz0). One account was drawn from it:
-THEORY-tmptn4xd.
+Read in full on 2026-10-27 ([NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md)). One account was drawn from it:
+[THEORY-tmptn4xd](../theory.d/THEORY-tmptn4xd.md).
 
 ## Why this is here
 
 The owner asked on 2026-10-27 to "file the next readings". The infinite
-factorial HMM (LIT-1577) is this model with the number of binary chains
+factorial HMM ([LIT-1577](LIT-1577.md)) is this model with the number of binary chains
 left unbounded under a Markov IBP prior, and the record held it without
-its parametric original. CASE-165's model of members' features, each
+its parametric original. [CASE-165](../cases.d/CASE-165.md)'s model of members' features, each
 feature a two-state chain over days and the output a sum of the active
 features' contributions, is a factorial HMM in structure, so this paper's
 account of why the chains couple given the data, and of what exact and

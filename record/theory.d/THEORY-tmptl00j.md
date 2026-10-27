@@ -29,11 +29,11 @@ date: '2026-10-27'
 source:
 - LIT-tmp0oa8w
 summary: >-
-  Van Gael, Saatci, Teh and Ghahramani (2008), LIT-tmp0oa8w, read in
-  NOTE-tmp2597d. Two synthetic designs (an almost cyclic 4-state HMM,
+  Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), read in
+  [NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md). Two synthetic designs (an almost cyclic 4-state HMM,
   length 800, 20 runs; persistent 4-state HMMs with self-transitions to
   0.999, length 4000, 60 starts), a well-log series and a text task. The
-  beam sampler is exact by construction (THEORY-tmp7bmmi); how much faster
+  beam sampler is exact by construction ([THEORY-tmp7bmmi](THEORY-tmp7bmmi.md)); how much faster
   it mixes is shown only in iterations and by eye.
 ---
 
@@ -41,8 +41,8 @@ summary: >-
 
 ## Source
 
-Van Gael, Saatci, Teh and Ghahramani (2008), LIT-tmp0oa8w, read in full in
-NOTE-tmp2597d: §5.1 (two synthetic designs), §5.2 (well-log data) and
+Van Gael, Saatci, Teh and Ghahramani (2008), [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), read in full in
+[NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md): §5.1 (two synthetic designs), §5.2 (well-log data) and
 §5.3 (Alice in Wonderland).
 
 ## What was actually shown
@@ -71,8 +71,8 @@ sizes.
 
 ## Connections
 
-- **THEORY-tmp7bmmi.** The exactness of the sampler is settled; this is
+- **[THEORY-tmp7bmmi](THEORY-tmp7bmmi.md).** The exactness of the sampler is settled; this is
   the separate claim about speed.
-- **LIT-1577.** The infinite factorial HMM's experiments rely on a sampler
-  of this kind and report two single runs (NOTE-1199); they add no
+- **[LIT-1577](../literature.d/LIT-1577.md).** The infinite factorial HMM's experiments rely on a sampler
+  of this kind and report two single runs ([NOTE-1199](../notes.d/NOTE-1199.md)); they add no
   evidence on mixing.

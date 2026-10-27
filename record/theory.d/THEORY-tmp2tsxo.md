@@ -33,7 +33,7 @@ source:
 extends:
 - THEORY-tmp68zar
 summary: >-
-  Scherlis et al. (2022), LIT-tmp9yvin, read in NOTE-tmp8m63d. The
+  Scherlis et al. (2022), [LIT-tmp9yvin](../literature.d/LIT-tmp9yvin.md), read in [NOTE-tmp8m63d](../notes.d/NOTE-tmp8m63d.md). The
   paper's account of polysemanticity in general: capacity allocation at
   the loss optimum, driven by sparsity, with architecture deciding block
   size. The general first-order condition holds for any loss under two
@@ -45,7 +45,7 @@ summary: >-
 ## Source
 
 Scherlis et al. (2022), *Polysemanticity and Capacity in Neural
-Networks*, LIT-tmp9yvin, read in full in NOTE-tmp8m63d: §§1, 2, 3.7, 4.6
+Networks*, [LIT-tmp9yvin](../literature.d/LIT-tmp9yvin.md), read in full in [NOTE-tmp8m63d](../notes.d/NOTE-tmp8m63d.md): §§1, 2, 3.7, 4.6
 and 5, and the Alignment Forum post that announced it.
 
 ## What is asserted
@@ -63,10 +63,10 @@ way to control the extent of polysemanticity in models".
 - **The first-order condition (§2.2),** which needs only that capacity
   never hurts and that every allocation is realizable. It is general, but
   it describes an optimum, and trained networks need not reach it.
-- **One model solved** (THEORY-tmp68zar), where the account holds
+- **One model solved** ([THEORY-tmp68zar](THEORY-tmp68zar.md)), where the account holds
   exactly.
 - **Six-feature numerical comparisons** with Elhage et al.'s autoencoder
-  (LIT-323) under three activations, shown as phase diagrams: the
+  ([LIT-323](../literature.d/LIT-323.md)) under three activations, shown as phase diagrams: the
   qualitative shape agrees, the block structure differs.
 
 ## Why it stays Proposed

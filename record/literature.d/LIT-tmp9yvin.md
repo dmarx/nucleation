@@ -1,17 +1,17 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmp8m63d) in full, from arXiv v4; worth reading as
-  the source of the toy model the causal scrubbing appendix (LIT-1583, §6)
+  read 2026-10-27 ([NOTE-tmp8m63d](../notes.d/NOTE-tmp8m63d.md)) in full, from arXiv v4; worth reading as
+  the source of the toy model the causal scrubbing appendix ([LIT-1583](LIT-1583.md), §6)
   analyses, and as an exactly solvable case of superposition: in a
   one-hidden-layer model with quadratic activations, the expected loss
   depends on the weights only through each feature's capacity and
   embedding length, and the optimal allocation has a closed form in which
   features are ignored, shared or given a whole dimension according to
-  their importance and the inputs' fourth moment (THEORY-tmp68zar,
+  their importance and the inputs' fourth moment ([THEORY-tmp68zar](../theory.d/THEORY-tmp68zar.md),
   re-derived and checked numerically). Read it knowing that its other
   models are shown only as phase-diagram figures, and that its bearing on
-  trained networks is the authors' hope, not a result (THEORY-tmp2tsxo).
+  trained networks is the authors' hope, not a result ([THEORY-tmp2tsxo](../theory.d/THEORY-tmp2tsxo.md)).
 title: 'Polysemanticity and Capacity in Neural Networks'
 version: 2
 history:
@@ -87,19 +87,19 @@ Scherlis, A., Sachan, K., Jermyn, A. S., Benton, J. and Shlegeris, B.
 (v1 4 October 2022; v4 25 March 2025). Announced on the Alignment Forum,
 7 October 2022.
 
-Read in full on 2026-10-27 (NOTE-tmp8m63d). Two accounts were drawn from
-it: THEORY-tmp68zar (Active) and THEORY-tmp2tsxo (Proposed).
+Read in full on 2026-10-27 ([NOTE-tmp8m63d](../notes.d/NOTE-tmp8m63d.md)). Two accounts were drawn from
+it: [THEORY-tmp68zar](../theory.d/THEORY-tmp68zar.md) (Active) and [THEORY-tmp2tsxo](../theory.d/THEORY-tmp2tsxo.md) (Proposed).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27 ("file the next
 readings"), as one of the works the circuits readings named and did not
-register. The causal scrubbing appendix (LIT-1583, NOTE-1202) shows how a
-hypothesis handles superposition on this paper's toy model (NOTE-1202's
+register. The causal scrubbing appendix ([LIT-1583](LIT-1583.md), [NOTE-1202](../notes.d/NOTE-1202.md)) shows how a
+hypothesis handles superposition on this paper's toy model ([NOTE-1202](../notes.d/NOTE-1202.md)'s
 claim C4), and §6.1's point about splitting the interference term is the
-mechanism THEORY-1029 finds in a real model. The record
+mechanism [THEORY-1029](../theory.d/THEORY-1029.md) finds in a real model. The record
 held the descriptive study it builds on, Toy Models of Superposition
-(LIT-323), but no model of superposition solved in closed form. Read
+([LIT-323](LIT-323.md)), but no model of superposition solved in closed form. Read
 against the circuits line, it supplies the case the appendix assumes: when
 two features of equal importance share one neuron, and why sparse inputs
 make them share.
