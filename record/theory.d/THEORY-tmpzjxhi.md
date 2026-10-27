@@ -19,7 +19,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpjvwet
 summary: >-
-  Lindsey et al. (2025), LIT-tmpjvwet, read in NOTE-tmpl4x31. On this
+  Lindsey et al. (2025), [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md). On this
   prompt the model "doesn't know what it plans to say until it actually says
   it". It is one prompt, partly effective, and the decisive refusal
   mechanism runs through attention, which the graphs do not show: the
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Lindsey et al. (2025), *On the Biology of a Large Language Model*,
-LIT-tmpjvwet, read in NOTE-tmpl4x31: "Life of a Jailbreak" and its five
+[LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md): "Life of a Jailbreak" and its five
 subsections.
 
 ## What was actually shown
@@ -69,7 +69,7 @@ step until the clause ends.
 
 **What could have come out otherwise.** The model could have formed
 "bomb" internally before writing it, as it forms "rabbit" before the line
-in THEORY-tmpz8eh5; harmful-request features could have been active on
+in [THEORY-tmpz8eh5](THEORY-tmpz8eh5.md); harmful-request features could have been active on
 "BOMB"; the injection could have failed.
 
 ## What this does not say
@@ -82,4 +82,4 @@ in THEORY-tmpz8eh5; harmful-request features could have been active on
   features on refusal "seems to be importantly mediated by attention
   pattern computation", and the refusal-producing injection needed
   unfrozen attention, a departure from the frozen-attention validation of
-  THEORY-tmpbtnf0.
+  [THEORY-tmpbtnf0](THEORY-tmpbtnf0.md).

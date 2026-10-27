@@ -22,7 +22,7 @@ source:
 extended_by:
 - THEORY-tmpfralg
 summary: >-
-  Lindsey et al. (2025), LIT-tmpjvwet, read in NOTE-tmpl4x31. A two-hop
+  Lindsey et al. (2025), [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md). A two-hop
   intermediate, measured by intervention on one prompt. The evidence that
   counts is the change of output under the swaps; the graph itself is of
   the replacement model. It does not say how often the model reasons in
@@ -34,10 +34,10 @@ summary: >-
 ## Source
 
 Lindsey et al. (2025), *On the Biology of a Large Language Model*,
-Transformer Circuits Thread, LIT-tmpjvwet, read in NOTE-tmpl4x31: the
+Transformer Circuits Thread, [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md): the
 section "Introductory Example: Multi-step Reasoning", with "Validation with
 Inhibition Experiments" and "Swapping Alternative Features". The method is
-LIT-tmpsuo6l.
+[LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md).
 
 ## What was actually shown
 

@@ -21,7 +21,7 @@ source:
 extended_by:
 - THEORY-tmpfralg
 summary: >-
-  Lindsey et al. (2025), LIT-tmpjvwet, read in NOTE-tmpl4x31. A target word
+  Lindsey et al. (2025), [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md). A target word
   represented before the text that leads to it, and used causally: it is
   the case study's own measurement, on one couplet and a 25-poem injection
   test. It does not say how widespread planning is, the "about half" being
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Lindsey et al. (2025), *On the Biology of a Large Language Model*,
-LIT-tmpjvwet, read in NOTE-tmpl4x31: the section "Planning in Poems" (its
+[LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md): the section "Planning in Poems" (its
 four subsections and the table of 25-poem samples).
 
 ## What was actually shown

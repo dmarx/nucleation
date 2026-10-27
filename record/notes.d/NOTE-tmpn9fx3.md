@@ -185,7 +185,7 @@ rule, to cross-layer features, with error nodes from Marks et al. and a
 global pruning rule. It inherits the freezing of QK circuits from Elhage et
 al.'s framework. Its addition features place Nikankin et al.'s "bag of
 heuristics" in a graph and set it beside Kantamneni and Tegmark's Fourier
-subspaces. Its companion is LIT-tmpjvwet. The same team's superposition
+subspaces. Its companion is [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md). The same team's superposition
 paper is [LIT-323](../literature.d/LIT-323.md) and its interpretability-by-dictionary line includes the
 workspace paper [LIT-1347](../literature.d/LIT-1347.md). MIB ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)) is the neighbouring attempt to
 score circuit localization against a fixed counterfactual.
