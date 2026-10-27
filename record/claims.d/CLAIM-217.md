@@ -100,7 +100,7 @@ The argument has four steps.
    tested against. The standard is defeasible: where the act's other
    constituents, such as its institutional conditions, diverge from how
    even informed participants take it, the verdicts are wrong about the act
-   (CLAIM-241, conceded in version 2). Partial constitution gives uptake a
+   ([CLAIM-241](CLAIM-241.md), conceded in version 2). Partial constitution gives uptake a
    vote, not the last word.
 4. **Hence the tests.** Analysts' relational probes (factorizations,
    signatures, response profiles) are checked against the standard's

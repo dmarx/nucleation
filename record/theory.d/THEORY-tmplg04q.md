@@ -36,11 +36,11 @@ source:
 extends:
 - THEORY-073
 summary: >-
-  The wider claim dropped when THEORY-073 was narrowed to Friston's 2013
-  formulation and promoted on 2026-10-27 (ADR-047 v4: a narrowing's
+  The wider claim dropped when [THEORY-073](THEORY-073.md) was narrowed to Friston's 2013
+  formulation and promoted on 2026-10-27 ([ADR-047](../decisions.d/ADR-047.md) v4: a narrowing's
   dropped claims go to Proposed entries). Both critiques argue the general
   form, and the record holds neither of the later formulations it would
-  have to reach. Its promote_when is THEORY-073's own, moved here
+  have to reach. Its promote_when is [THEORY-073](THEORY-073.md)'s own, moved here
   unchanged.
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded; cited for its version 4 ruling, which ADR-057 keeps -->
@@ -49,14 +49,14 @@ summary: >-
 
 ## Source
 
-The same three works as THEORY-073: Bruineberg, Dołęga, Dewhurst and
-Baltieri (LIT-603, read in NOTE-447), Raja, Valluri, Baggs, Chemero and
-Anderson (LIT-598, read in NOTE-450), and Friston (2013, LIT-526, read in
-NOTE-421).
+The same three works as [THEORY-073](THEORY-073.md): Bruineberg, Dołęga, Dewhurst and
+Baltieri ([LIT-603](../literature.d/LIT-603.md), read in [NOTE-447](../notes.d/NOTE-447.md)), Raja, Valluri, Baggs, Chemero and
+Anderson ([LIT-598](../literature.d/LIT-598.md), read in [NOTE-450](../notes.d/NOTE-450.md)), and Friston (2013, [LIT-526](../literature.d/LIT-526.md), read in
+[NOTE-421](../notes.d/NOTE-421.md)).
 
 ## The claim
 
-THEORY-073, as narrowed, holds the account for Friston's 2013 formulation
+[THEORY-073](THEORY-073.md), as narrowed, holds the account for Friston's 2013 formulation
 and the applications the record holds. Both critiques state it without
 that restriction: a Markov blanket, however defined, is placed by choices
 the modeller makes first. The later formulations are the free-energy

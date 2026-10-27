@@ -167,7 +167,7 @@ objections, one is answered and one still holds it back:
   reply, [CLAIM-tmpnp8w6](CLAIM-tmpnp8w6.md), on [CLAIM-434](CLAIM-434.md)'s result: an aggregate
   preference exists only where the wins never cycle, and then it is fitted
   to one regime of authority and does not predict a change in it. The
-  owner held the reply the same day, and CLAIM-089 is Rejected. The
+  owner held the reply the same day, and [CLAIM-089](CLAIM-089.md) is Rejected. The
   objection survives only for an organization with a persistent potential
   across a change in authority, which is where the reply says it is right.
 - **[CLAIM-024](CLAIM-024.md), nothing new.** [CLAIM-159](CLAIM-159.md) is a partial reply. It

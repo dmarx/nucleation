@@ -19,14 +19,14 @@
   TERM.
 - The workbench entry of 2026-10-27 records the pass.
 - The owner's rulings, 2026-10-27:
-  - ADR-057 is Active and ADR-047 Superseded.
-  - CLAIM-tmpnp8w6 is held, and CLAIM-089 is Rejected.
-  - TERM-tmppwzer (inquiry) is adopted.
-  - Mechanism 2 is declined (DP-3), and mechanism 5 is adopted as a
+  - [ADR-057](record/decisions.d/ADR-057.md) is Active and [ADR-047](record/decisions.d/ADR-047.md) Superseded.
+  - [CLAIM-tmpnp8w6](record/claims.d/CLAIM-tmpnp8w6.md) is held, and [CLAIM-089](record/claims.d/CLAIM-089.md) is Rejected.
+  - [TERM-tmppwzer](record/terms.d/TERM-tmppwzer.md) (inquiry) is adopted.
+  - Mechanism 2 is declined ([DP-3](docs/design-principles.md#dp-3)), and mechanism 5 is adopted as a
     convention.
-- The five promotions ADR-047's audit decided and never carried out:
-  - CLAIM-322, CLAIM-328 and CLAIM-046 are Active.
-  - CLAIM-241 is Active, and CLAIM-217 concedes it at version 2: uptake is
+- The five promotions [ADR-047](record/decisions.d/ADR-047.md)'s audit decided and never carried out:
+  - [CLAIM-322](record/claims.d/CLAIM-322.md), [CLAIM-328](record/claims.d/CLAIM-328.md) and [CLAIM-046](record/claims.d/CLAIM-046.md) are Active.
+  - [CLAIM-241](record/claims.d/CLAIM-241.md) is Active, and [CLAIM-217](record/claims.d/CLAIM-217.md) concedes it at version 2: uptake is
     a defeasible standard.
-  - THEORY-073 is narrowed to Friston's 2013 formulation and promoted. The
-    wider form is THEORY-tmplg04q, Proposed.
+  - [THEORY-073](record/theory.d/THEORY-073.md) is narrowed to Friston's 2013 formulation and promoted. The
+    wider form is [THEORY-tmplg04q](record/theory.d/THEORY-tmplg04q.md), Proposed.
