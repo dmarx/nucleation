@@ -17,7 +17,7 @@ promote_when: >-
   threshold, or if such endosymbionts prove to carry the missing
   functions in unannotated or highly divergent genes.
 title: 'On McCutcheon and colleagues'' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -28,6 +28,10 @@ history:
     is called preliminary, and host supply is inferred by analogy with
     organelles from three-membrane micrographs and two single-protein
     import studies. Hence Proposed.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (batch 2) added: the single imported host proteins in insect symbionts sit above both thresholds (LIT-1560, LIT-1596). The account is unchanged.
 tags:
 - endosymbiosis
 - natural-sciences
@@ -45,6 +49,7 @@ summary: >-
   they no longer encode. The host's role is inferred, not shown: the
   mechanisms are, in the paper's word, mysteries.
 ---
+<!-- inactive-ok-file: NOTE-tmpl32gd NOTE-tmp82xw1 — readings of 2026-10-27, filed in the same contribution and cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: QUESTION-277 CASE-173 CASE-171 CASE-174 LIT-1559 LIT-1560 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
 # THEORY-1049: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
 
@@ -109,3 +114,24 @@ threshold, or scattered across functions, not concerted.
 - **[CASE-173](../cases.d/CASE-173.md) and [CASE-171](../cases.d/CASE-171.md).** Aphid and mealybug endosymbionts are where
   single host proteins have been seen inside the symbiont. *Tremblaya*,
   in the mealybug case, is a tipping-point endosymbiont.
+
+## Note of 2026-10-27 (batch 2): the imported proteins are above the thresholds
+
+Two readings sharpen what this account rests on.
+
+- **Where the imported proteins are.** Sørensen et al. (LIT-1560, read in
+  NOTE-tmpl32gd) identify the host-encoded proteins seen inside insect
+  symbionts:
+  - RlpA4 in *Buchnera* (0.64 Mbp);
+  - MurF in *Moranella* (0.54 Mbp);
+  - ColA and two transaminases elsewhere.
+
+  All of these symbionts are above both thresholds. No import into a
+  symbiont below 200 kb has been shown; *Nardonella* (0.20–0.23 Mbp) is
+  the nearest candidate, and there it is unconfirmed. So host supply in
+  tipping-point endosymbionts remains inferred, as "What this does not say"
+  states.
+- **Envelope erosion starts early.** The *Buchnera* APS genome (LIT-1596,
+  read in NOTE-tmp82xw1) has already lost phospholipid and LPS synthesis
+  at 641 kb. That is consistent with this account's remark that envelope
+  erosion begins in larger genomes, and that 400 kb marks complete loss.

@@ -4,12 +4,16 @@ status: Proposed
 formerly:
 - CASE-tmpoa9h4
 title: 'Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont''s genome reduced to a seventh of E. coli''s'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (later) added from the readings of LIT-1571 and LIT-1570: a host-encoded protein reported in Buchnera's cytoplasm, and the model's prediction for the host's side. The case is unchanged otherwise.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (batch 2) added from the readings of LIT-1596 and LIT-1560: corrections to what the case took from abstracts.
 standing: documented
 kind: specimen
 tags:
@@ -28,6 +32,7 @@ reported_in:
 summary: >-
   Buchnera lives in aphid bacteriocytes and is passed from mother to egg. Its 641-kb genome keeps the pathways for the amino acids its host needs and has lost most else ([LIT-1596](../literature.d/LIT-1596.md)); its genes evolve fast and A+T-biased under Muller's ratchet ([LIT-1573](../literature.d/LIT-1573.md)). The record's reading of Wilson and Barker reports Godfrey-Smith placing the pair as both an organism and a Darwinian individual ([NOTE-114](../notes.d/NOTE-114.md)). Used as the case of high mutual dependence and high reproductive cohesion reached through reduction, with no gene transfer to the host reported in the works it rests on.
 ---
+<!-- inactive-ok-file: THEORY-tmpehubi NOTE-tmp82xw1 NOTE-tmpl32gd LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: THEORY-1049 THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (later) -->
 <!-- inactive-ok-file: LIT-1596 LIT-1573 LIT-1559 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
@@ -94,3 +99,37 @@ rests on their abstracts until they are read.
   they are born there ([THEORY-1051](../theory.d/THEORY-1051.md)). That turns the case into a
   measurement: the demography of *Buchnera* within its host. Nothing in
   the sources reports it.
+
+## Note of 2026-10-27 (batch 2): the genome paper read in full
+
+LIT-1596 has been read in full (NOTE-tmp82xw1, THEORY-tmpehubi). So has
+the review LIT-1560 (NOTE-tmpl32gd). The case's first paragraph mostly
+stands. Six corrections:
+
+- **"Neither can reproduce independently" is cited, not shown.** It is the
+  paper's opening sentence, cited to earlier work. The genome shows the
+  symbiont's side only.
+- **Almost all, not all.** The non-essential amino-acid genes are "almost
+  completely" missing, and cysteine is still made, from reduced sulphate.
+  The host's glutamate and aspartate are precursors of *Buchnera*'s
+  essential amino acids, so the pathways interlock as well as complement.
+- **The drift attribution has no source here.** The genome paper does not
+  mention drift, Muller's ratchet or population size. "Dependence ...
+  produced largely by drift" rests on LIT-1573 alone, which is Unfetched.
+- **On gene transfer to the host, the genome paper says nothing.** It does
+  not study the host genome. The host-encoded protein reported in
+  *Buchnera* (the note above) is RlpA4. Its gene came to the aphid from
+  another bacterium, not from *Buchnera*. Proteomics found no host protein
+  reliably enriched in *Buchnera* (LIT-1560). The paper itself proposes
+  that the host supplies phospholipid, or the enzymes to make it, "like
+  mitochondria do". That is untested.
+- **Loss of self-regulation, not host control.** *Buchnera* lacks nearly
+  all its own transcriptional regulators and keeps the genes they once
+  regulated. That bears on C as lost self-regulation, not as host control.
+- **Envelope loss above the threshold.** At 641 kb, *Buchnera* APS has
+  already lost phospholipid and LPS synthesis. That is above
+  THEORY-1049's 400 kb boundary for complete envelope loss, and consistent
+  with its remark that erosion begins in larger genomes.
+
+Campbell et al. (LIT-1590, Table 1) cite 886 to 8,223 *Buchnera* cells per
+aphid egg across three aphid species, from earlier work.

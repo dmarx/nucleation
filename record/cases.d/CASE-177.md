@@ -4,7 +4,12 @@ status: Proposed
 formerly:
 - CASE-tmpx4tix
 title: 'Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (batch 2) added from the reading of LIT-1590: corrections to what the case took from its abstract.
 standing: documented
 kind: specimen
 tags:
@@ -24,6 +29,7 @@ reported_in:
 summary: >-
   In some Tettigades cicadas, the endosymbiont Hodgkinia split into two cell lineages with almost perfectly complementary gene sets, the functionality of one ([LIT-1563](../literature.d/LIT-1563.md)), and it has done so at least six times in the genus ([LIT-1586](../literature.d/LIT-1586.md)). In Magicicada it fragmented into twenty or more genomic circles per species ([LIT-1612](../literature.d/LIT-1612.md), [LIT-1602](../literature.d/LIT-1602.md)). Hosts compensate by transmitting more cells to each egg ([LIT-1590](../literature.d/LIT-1590.md)). Used as the case where dependence and the number of parts grow with no new collective function, and the host pays.
 ---
+<!-- inactive-ok-file: THEORY-tmpjel7l NOTE-tmp6a57o LIT-1586 LIT-1602 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1563 LIT-1586 LIT-1612 LIT-1602 LIT-1590 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
@@ -66,3 +72,33 @@ Cicadas carry two nutritional endosymbionts, *Sulcia* and *Hodgkinia*.
 
 Documented in works the record has not read. What it shows rests on their
 abstracts until they are read.
+
+## Note of 2026-10-27 (batch 2): the transmission paper read in full
+
+LIT-1590 has been read in full (NOTE-tmp6a57o, THEORY-tmpjel7l).
+Corrections to "The host's cost" and "What it can show":
+
+- **The six-fold rise is one species.** It compares *M. septendecim*
+  (30,154 *Hodgkinia* cells per egg) with a single-lineage *Tettigades*
+  (4,889). Only *M. septendecim* differs significantly. The six-lineage
+  *T. chilensis* (about 12,000) does not differ from the single-lineage
+  species. The study has four species and 5–6 eggs each, with no
+  phylogenetic control.
+- **"Eggs still receive the full set, because ..." is inference.** The
+  full set was tracked with one or two marker genes per species, and the
+  authors grant that rare losses could escape detection. The "because",
+  and the order (splitting before titre), are the authors' inference.
+- **The hundredfold abundance range** comes from the authors' earlier
+  metagenomes (114-fold in rpoB), not from this paper.
+- **Circles are not shown to be cells.** In *Magicicada*, genomic circles
+  are not shown to be separate cell lineages. The simulation assumes they
+  are, and the authors suspect some circles share cells.
+- **The host maintains R; it does not raise it.** It keeps co-transmission
+  complete as the parts multiply, by sending more *Hodgkinia* (not more
+  *Sulcia*) through an unchanged route. The authors speculate that the
+  larger transmitted population weakens bottlenecks and "decrease[s] the
+  level of control that the host can exert", which could feed further
+  splitting. If so, keeping R costs C and S.
+- **Composition is inherited.** Mothers pass their own lineage proportions
+  to their eggs, and egg nests differ significantly, so the make-up of the
+  symbiont community is inherited at the host level.
