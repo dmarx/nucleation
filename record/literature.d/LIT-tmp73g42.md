@@ -1,0 +1,38 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from the exchange of 2026-10-27, "Repository coverage assessment" (curation entry of 2026-10-27). No NOTE is filed.
+title: 'Sympatric Speciation in a Bacterial Endosymbiont Results in Two Genomes with the Functionality of One'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed on 2026-10-27, and Crossref searched for a preprint under the title. `published:` is 2014-08-28, the online date PubMed gives; Crossref gives only the issue month.
+tags:
+- ecology
+- natural-sciences
+date: '2026-10-27'
+published: '2014-08-28'
+doi: '10.1016/j.cell.2014.07.047'
+first_author: 'Van Leuven'
+keywords:
+- 'Hodgkinia'
+- 'cicadas'
+- 'Tettigades'
+- 'lineage splitting'
+- 'nonadaptive complexity'
+implementations: []
+summary: >-
+  Van Leuven, Meister, Simon & McCutcheon (2014). In some cicadas of the genus Tettigades, the endosymbiont Hodgkinia has split into two cytologically distinct, metabolically interdependent lineages whose gene loss and retention are almost perfectly complementary, so a three-member symbiosis became four. The authors suggest nonadaptive forces can build organismal complexity.
+---
+
+# LIT-tmp73g42: Sympatric Speciation in a Bacterial Endosymbiont Results in Two Genomes with the Functionality of One
+
+Van Leuven, J. T., Meister, R. C., Simon, C. & McCutcheon, J. P. (2014). Sympatric Speciation in a Bacterial Endosymbiont Results in Two Genomes with the Functionality of One. *Cell* 158(6): 1270–1280. doi:10.1016/j.cell.2014.07.047.
+
+Not read. The summary is drawn from the abstract. A reading should check it first.
+
+## Why this is here
+
+A2 rates it "High", for nonadaptive complexity and lineage splitting: change that adds dependent components without an obvious new collective function. A2's wider claim that other cicadas show extensive genome fragmentation cites no work by name, and none is registered for it.
