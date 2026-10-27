@@ -77,7 +77,7 @@ summary: >-
   does not say the governance is unreal, or that a network cannot come to
   hold some of it.
 ---
-<!-- inactive-ok-file: THEORY-tmpmd4za — Proposed; the dropout account of IOI's backup heads, cited as a candidate case, untested -->
+<!-- inactive-ok-file: THEORY-995 — Proposed; the dropout account of IOI's backup heads, cited as a candidate case, untested -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-027 CLAIM-288 CLAIM-194 CLAIM-157 CLAIM-284 CASE-113 QUESTION-122 CLAIM-368 — Proposed; open claims and readings, cited as open -->
 
 # CLAIM-367: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
@@ -205,21 +205,21 @@ implicit.
 ## Note of 2026-10-26: a circuit's gradient set by the data and the optimizer
 
 T24 of the exchange "Experimental Infrastructure Review" cited this claim
-for the governance of a transformer's development ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). One
+for the governance of a transformer's development ([QUESTION-275](../questions.d/QUESTION-275.md)). One
 of the works it drew on, Musat, Pimentel, Zucchet and Hofmann's theory of
-invariant learning dynamics ([NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md)), read on 2026-10-26, gives
+invariant learning dynamics ([NOTE-1177](../notes.d/NOTE-1177.md)), read on 2026-10-26, gives
 two exact cases of the division this claim draws, inside its idealized
 attention-only model.
 
 - **The data and another circuit set a circuit's gradient**
-  ([THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md)). Once an in-weights circuit has memorized the common
+  ([THEORY-1009](../theory.d/THEORY-1009.md)). Once an in-weights circuit has memorized the common
   pairs, the population gradient on the induction circuit is its gradient
   without it multiplied by fr + (1 − fr)fv, the share of the data the
   memorized map does not solve. How fast the induction circuit is learned
   is fixed by data statistics and by the state of a circuit in orthogonal
   coordinates, not by anything the induction circuit holds.
 - **The optimizer decides what structure training keeps**
-  ([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md)). Gradient descent never leaves the subspace the
+  ([THEORY-981](../theory.d/THEORY-981.md)). Gradient descent never leaves the subspace the
   data's symmetries fix. An elementwise optimizer such as sign descent
   keeps it only when that subspace is aligned with the parameter
   coordinates. Whether the network's learned organization stays in the
@@ -231,11 +231,11 @@ descent for the first, and neither is a crossed intervention of the kind
 
 ## Note of 2026-10-27: a redundancy the training regime may have put there
 
-Wang et al.'s IOI circuit in GPT-2 small ([LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md), [NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md)),
+Wang et al.'s IOI circuit in GPT-2 small ([LIT-1540](../literature.d/LIT-1540.md), [NOTE-1167](../notes.d/NOTE-1167.md)),
 read on 2026-10-26 at the owner's request, has backup name-mover heads
 that take over when the name movers are knocked out, so the circuit
-keeps most of its effect ([THEORY-tmpccb5u](../theory.d/THEORY-tmpccb5u.md)). The authors explain it in one
-sentence, by dropout during training ([THEORY-tmpmd4za](../theory.d/THEORY-tmpmd4za.md)); the reading
+keeps most of its effect ([THEORY-980](../theory.d/THEORY-980.md)). The authors explain it in one
+sentence, by dropout during training ([THEORY-995](../theory.d/THEORY-995.md)); the reading
 records the alternative that attention re-routes after the ablation. If
 the dropout account holds, the redundancy is a property the trained
 network carries whose source is a condition of its training regime, the

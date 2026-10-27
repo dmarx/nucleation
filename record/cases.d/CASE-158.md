@@ -19,7 +19,7 @@ history:
     A dated note added: a working group and a conventional router with
     the same information and authority tie in the Northstar study
     reported at T20 of the exchange "Experimental Infrastructure Review"
-    (CASE-tmprl1px), not reproduced. The case is unchanged.
+    (CASE-166), not reproduced. The case is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -154,13 +154,13 @@ are small synthetic denoisers, and no pretrained model was run.
 
 ## Note of 2026-10-26: the third prediction in another model (reported)
 
-<!-- inactive-ok-file: CASE-tmprl1px — Proposed; the reported study, cited as open -->
+<!-- inactive-ok-file: CASE-166 — Proposed; the reported study, cited as open -->
 
 This case's third prediction: "A router trained on the same audits …
 Under full information, governance should not beat it." T20 of the
 exchange "Experimental Infrastructure Review" reports a working group with
 delegated authority and a conventional router given "the same information
-and authority" at the same regret, 0.00499 ([CASE-tmprl1px](CASE-tmprl1px.md)). It is a tie,
+and authority" at the same regret, 0.00499 ([CASE-166](CASE-166.md)). It is a tie,
 not a loss as here, and T20 does not say whether the router shares the
 working group's code. Every arm is full-information, so none of this
 case's arms 1–4 is present, and the result is what the prediction

@@ -182,10 +182,10 @@ proposes. This account is that one's evidence, and nothing here changes.
 ## Note of 2026-10-26: the misalignment condition in a transformer, and a dependency case
 
 T24 of the exchange "Experimental Infrastructure Review" cited this
-account for transformers without its toy scope ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). Two
+account for transformers without its toy scope ([QUESTION-275](../questions.d/QUESTION-275.md)). Two
 works read on 2026-10-26 for that question bear on it.
 
-- **The misalignment condition in a transformer** ([THEORY-tmpdxhxm](THEORY-tmpdxhxm.md)). In
+- **The misalignment condition in a transformer** ([THEORY-981](THEORY-981.md)). In
   Musat, Pimentel, Zucchet and Hofmann's attention-only transformers on
   block-list inductive tasks, population gradient descent never leaves
   the subspace of weights the data's symmetries fix. The record checked,
@@ -198,7 +198,7 @@ works read on 2026-10-26 for that question bear on it.
   are not coordinate-aligned. It is about which subspace training stays
   in, not about onset order, and nobody has yet run the comparison
   [QUESTION-193](../questions.d/QUESTION-193.md) asks for in that setting.
-- **Dependency, measured** ([THEORY-tmp8cat0](THEORY-tmp8cat0.md)). Under "Not the only cause",
+- **Dependency, measured** ([THEORY-973](THEORY-973.md)). Under "Not the only cause",
   the record now holds a dependency case in trained networks: in small
   attention-only transformers, in-context learning waits on the
   composition of two heads, and removing the need for it moves the jump

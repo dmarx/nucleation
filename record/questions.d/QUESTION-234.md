@@ -20,7 +20,7 @@ history:
     A dated note added: four facts about instruments from the
     circuits works read on 2026-10-26, none a trained-network tie of
     the kind asked for, and a neighbouring question about
-    dictionaries filed as QUESTION-tmpidxeb. The question is
+    dictionaries filed as QUESTION-274. The question is
     unchanged.
 tags:
 - causality
@@ -71,10 +71,10 @@ interventions.
 ## Note of 2026-10-26: units fixed by symmetry, and a benchmark that cannot see ties
 
 Two works read on 2026-10-26 for T24 of the exchange "Experimental
-Infrastructure Review" ([QUESTION-tmpivbso](QUESTION-tmpivbso.md)) bear on which decomposition
+Infrastructure Review" ([QUESTION-275](QUESTION-275.md)) bear on which decomposition
 into units fixes a mediating direction.
 
-- **Units fixed by the data's symmetries** ([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md)). Musat,
+- **Units fixed by the data's symmetries** ([THEORY-981](../theory.d/THEORY-981.md)). Musat,
   Pimentel, Zucchet and Hofmann compute, for attention-only transformers
   on block-list inductive tasks with fixed orthogonal write maps, the
   subspace of weights the data's symmetry group fixes, and gradient
@@ -86,7 +86,7 @@ into units fixes a mediating direction.
   interchange interventions, and it holds only inside the idealization.
   It suggests where a uniqueness bound might be sought, for networks
   whose training the data's symmetries confine.
-- **A benchmark that scores one alignment at a time** ([THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)).
+- **A benchmark that scores one alignment at a time** ([THEORY-968](../theory.d/THEORY-968.md)).
   MIB's causal-variable track ranks localization methods by mean
   interchange-intervention accuracy, alignment by alignment. A tie
   between two basis-related alignments would show as two equal scores
@@ -102,28 +102,28 @@ four facts about the instruments. None is a trained-network tie of the
 kind the question asks for.
 
 - **DAS fixes subspaces, not directions.** In Geiger et al.'s Definition
-  3 ([LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md)) the rotation enters an intervention only through the
+  3 ([LIT-1551](../literature.d/LIT-1551.md)) the rotation enters an intervention only through the
   projector onto the learned subspace, so rotations that select the same
   subspaces give identical interventions. DAS alignments are therefore
   unique at most up to rotations within the learned subspaces: a stated
   symmetry, but of the instrument, not of networks. The observation is
-  the record's ([NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md)), not the paper's.
+  the record's ([NOTE-1192](../notes.d/NOTE-1192.md)), not the paper's.
 - **Causal scrubbing ties by construction** basis-related hypotheses
-  that induce the same partitions of the data ([THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md)). So does
+  that induce the same partitions of the data ([THEORY-978](../theory.d/THEORY-978.md)). So does
   any method that scores nodes by their effect on one metric under one
   family of contrasts, sparse feature circuits among them
-  ([NOTE-tmpr0gdc](../notes.d/NOTE-tmpr0gdc.md)).
+  ([NOTE-1187](../notes.d/NOTE-1187.md)).
 - **The basis changes the verdict.** DAS's toy and its trained-network
-  results ([THEORY-tmpgqlal](../theory.d/THEORY-tmpgqlal.md)) are [THEORY-243](../theory.d/THEORY-243.md)'s converse: a learned rotation
+  results ([THEORY-983](../theory.d/THEORY-983.md)) are [THEORY-243](../theory.d/THEORY-243.md)'s converse: a learned rotation
   passes where the neuron basis fails.
 - **A wide search can manufacture alignment.** On frozen random networks
-  DAS's IIA rises above chance once the layer is wide ([THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md)),
+  DAS's IIA rises above chance once the layer is wide ([THEORY-1002](../theory.d/THEORY-1002.md)),
   so a tie found by a supervised search in a wide layer would need that
   control.
 
 The source of the basis freedom in transformers, the residual stream's
 lack of a privileged basis, is stated in Elhage et al.'s framework
-([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md); [THEORY-802](../theory.d/THEORY-802.md)'s note of 2026-10-27). The neighbouring
+([LIT-1534](../literature.d/LIT-1534.md); [THEORY-802](../theory.d/THEORY-802.md)'s note of 2026-10-27). The neighbouring
 question, whether two dictionaries of equal fidelity give the same
-validated circuit, is filed as [QUESTION-tmpidxeb](QUESTION-tmpidxeb.md). The question is
+validated circuit, is filed as [QUESTION-274](QUESTION-274.md). The question is
 unchanged.

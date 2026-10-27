@@ -39,7 +39,7 @@ summary: >-
   organization from continuity of any person in it. Not shown: anything
   about whether the response is experienced.
 variants:
-- CASE-tmprl1px
+- CASE-166
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-355 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
@@ -102,10 +102,10 @@ built.
 
 ## Note of 2026-10-26: records preserved or erased at the handoff (reported)
 
-<!-- inactive-ok-file: CASE-tmprl1px — Proposed; the reported study, cited as open -->
+<!-- inactive-ok-file: CASE-166 — Proposed; the reported study, cited as open -->
 
 T20 of the exchange "Experimental Infrastructure Review" reports running
-this case's handoff in a simulation ([CASE-tmprl1px](CASE-tmprl1px.md)): "An incident
+this case's handoff in a simulation ([CASE-166](CASE-166.md)): "An incident
 commander can transfer their role to another employee while
 preserving—or losing—the group's records." During a telemetry outage the
 records-preserved arm estimated the company's state with an MSE of

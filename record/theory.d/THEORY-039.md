@@ -95,14 +95,14 @@ Each work divides training into phases. None of them compares its phases with th
 
 ## Note of 2026-10-26: simplification measured per head
 
-The refined-LLC study ([NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md)), read on 2026-10-26 for T24 of the
-exchange "Experimental Infrastructure Review" ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)), tracks
+The refined-LLC study ([NOTE-1188](../notes.d/NOTE-1188.md)), read on 2026-10-26 for T24 of the
+exchange "Experimental Infrastructure Review" ([QUESTION-275](../questions.d/QUESTION-275.md)), tracks
 the local learning coefficient of each attention head of a two-layer
 attention-only language model over training. Its appendices C.2–C.3
 report stages in which a head's coefficient falls, which the authors read
 as "periods of refinement" following periods of rapid specialization and
 liken to critical periods and synaptic pruning. That is a measured, per-component instance of this account's
 first kind of later phase, a network simplifying, and it sits in the
-same run beside heads that grow ([THEORY-tmp9uzkw](THEORY-tmp9uzkw.md)). It is one more phase
+same run beside heads that grow ([THEORY-975](THEORY-975.md)). It is one more phase
 sequence in one more quantity, which the promote_when says cannot settle
 the account. The account is unchanged.

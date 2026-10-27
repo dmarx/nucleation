@@ -135,7 +135,7 @@ monitor."
 The reply at T24 of the exchange "Experimental Infrastructure Review"
 re-derived this case without citing it, when the owner asked whether the
 record's setup could interpret transformer learning dynamics
-([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). It wrote the update as
+([QUESTION-275](../questions.d/QUESTION-275.md)). It wrote the update as
 (θ_{s+1}, m_{s+1}) = 𝒰(θ_s, m_s, ℬ_s), cited [CLAIM-367](../claims.d/CLAIM-367.md) and [THEORY-253](../theory.d/THEORY-253.md) for the
 external governance and the optimizer arm, and proposed as "the stronger
 causal test" to "clone the full training state, modify a particular

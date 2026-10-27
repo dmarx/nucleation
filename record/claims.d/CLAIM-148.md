@@ -23,7 +23,7 @@ history:
   date: '2026-10-26'
   note: >-
     A dated note added: the dynamic beta–Bernoulli model of T23 of the
-    exchange "Experimental Infrastructure Review" (CASE-tmplcm41) has
+    exchange "Experimental Infrastructure Review" (CASE-165) has
     this claim's gauge in five forms, three of which the exchange
     missed, including the confounding of having a feature with using it;
     extended the same day with three works read for the exchange, whose
@@ -199,10 +199,10 @@ Gram matrix of the items, VVᵀ = V_M Σ V_Mᵀ, is therefore fixed by the penal
 
 ## Note of 2026-10-26: an additive latent-feature model of an organization's members
 
-<!-- inactive-ok-file: CASE-tmplcm41 — Proposed; the construction, filed the same day -->
+<!-- inactive-ok-file: CASE-165 — Proposed; the construction, filed the same day -->
 
 T23 of the exchange "Experimental Infrastructure Review" proposed an
-additive latent-feature model of employees ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)),
+additive latent-feature model of employees ([CASE-165](../cases.d/CASE-165.md)),
 u = Σ_k B_k a_k W_k o + W^private o, with B a binary availability under a
 beta–Bernoulli prior and a ∈ [0, 1] an activation. Its own
 identifiability section names column permutation and the scale trade
@@ -226,21 +226,21 @@ checked numerically to machine precision; no model was fitted.
 Three of the works the exchange cited, read the same day, carry the gauge
 further than they say.
 
-- **The author–topic model** ([THEORY-tmp7wy54](../theory.d/THEORY-tmp7wy54.md)). Its likelihood depends on
+- **The author–topic model** ([THEORY-972](../theory.d/THEORY-972.md)). Its likelihood depends on
   the topics Φ and the authors' topic distributions Θ only through ΦΘA,
   with A fixed by the observed authorship: a three-factor product with one
   factor known. The paper names the permutations of topics. The
   likelihood also leaves a continuum of changes of topic basis free
   whenever every topic gives every word positive probability, which every
   posterior mean with a positive smoothing parameter does.
-- **The mixed membership stochastic blockmodel** ([THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md)). Given
+- **The mixed membership stochastic blockmodel** ([THEORY-993](../theory.d/THEORY-993.md)). Given
   the memberships, an edge has probability (1 − ρ)π_pᵀBπ_q, so π ↦ Rπ,
   B ↦ R⁻ᵀBR⁻¹ leaves the likelihood unchanged, a bilinear form of the same
   gauge, against the paper's §5, which grants that the two seem "in
   competition for explaining the data" and says their difference
   "practically eliminates the issue". The sparsity ρ enters only through (1 − ρ)B and is not
   identified apart from B's scale.
-- **Correlated latent features** ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)). A layer of categories
+- **Correlated latent features** ([THEORY-1012](../theory.d/THEORY-1012.md)). A layer of categories
   over IBP features does not narrow the gauge for features that always
   occur together: they are separated only where they sometimes occur
   apart, and in the variant where each observation has a single category

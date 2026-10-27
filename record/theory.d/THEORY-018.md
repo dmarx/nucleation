@@ -55,7 +55,7 @@ supports:
 extended_by:
 - THEORY-234
 ---
-<!-- inactive-ok-file: THEORY-tmpz7jrx — Proposed; the sparse-autoencoder resolution account, cited as open -->
+<!-- inactive-ok-file: THEORY-1016 — Proposed; the sparse-autoencoder resolution account, cited as open -->
 
 # THEORY-018: Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation
 
@@ -158,20 +158,20 @@ Two of the circuits works read on 2026-10-26 at the owner's request bear
 on the same freedom inside the network, where this account concerns only
 the last layer.
 
-- **The internal form.** Elhage et al.'s framework ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md),
-  [NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md)) states it for the residual stream: it has no privileged
+- **The internal form.** Elhage et al.'s framework ([LIT-1534](../literature.d/LIT-1534.md),
+  [NOTE-1189](../notes.d/NOTE-1189.md)) states it for the residual stream: it has no privileged
   basis, and rotating it together with every matrix that reads from or
   writes to it leaves the model unchanged. The framework's path
-  expansion ([THEORY-tmphm85g](THEORY-tmphm85g.md)) is built from products that the rotation
+  expansion ([THEORY-988](THEORY-988.md)) is built from products that the rotation
   leaves alone.
 - **A dictionary is a choice of basis.** A sparse autoencoder's
   dictionary is one choice inside this freedom, fixed by sparsity, and
   the number of its units is a further choice: features split and merge
-  as the dictionary grows ([THEORY-tmpz7jrx](THEORY-tmpz7jrx.md)), and which concepts get a
+  as the dictionary grows ([THEORY-1016](THEORY-1016.md)), and which concepts get a
   feature depends on their frequency relative to its size
-  ([THEORY-tmplbzq5](THEORY-tmplbzq5.md)). Towards Monosemanticity's agreement of features
+  ([THEORY-992](THEORY-992.md)). Towards Monosemanticity's agreement of features
   across two seeds (median activation correlation 0.72, against 0.46 for
-  neurons; [NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md)) is a check that the choice reproduces, not a
+  neurons; [NOTE-1191](../notes.d/NOTE-1191.md)) is a check that the choice reproduces, not a
   proof that it is unique.
 
 The account, which concerns the final layer under softmax training, is

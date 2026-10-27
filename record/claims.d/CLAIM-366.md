@@ -149,7 +149,7 @@ same learning dynamics".
 The reply at T24 of the exchange "Experimental Infrastructure Review"
 offered g_kᵀg_j as a measure of task interaction "under ordinary Euclidean
 gradient descent", and added that for Adam the optimizer state would have
-to be accounted for ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). The two caveats are one.
+to be accounted for ([QUESTION-275](../questions.d/QUESTION-275.md)). The two caveats are one.
 
 - The first-order change in task j's loss from a preconditioned step on
   task k is −η g_jᵀ P g_k. On random quadratics the actual change was

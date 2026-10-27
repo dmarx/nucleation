@@ -93,7 +93,7 @@ under-use, which [QUESTION-132](QUESTION-132.md)'s recovery exponent already cov
 
 The reply at T24 of the exchange "Experimental Infrastructure Review"
 brought this question's split into a single transformer
-([QUESTION-tmpivbso](QUESTION-tmpivbso.md)): "A component might have a large effect on current
+([QUESTION-275](QUESTION-275.md)): "A component might have a large effect on current
 predictions but receive little additional training signal. Conversely, a
 newly developing feature might receive substantial gradient updates while
 remaining behaviorally weak. We should measure these separately."

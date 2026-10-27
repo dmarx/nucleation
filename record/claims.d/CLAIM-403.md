@@ -154,7 +154,7 @@ ladder.
 
 ## Note of 2026-10-26: influence across levels is not additive
 
-<!-- inactive-ok-file: CASE-tmprl1px — Proposed; the multilevel study in which the point arose, cited as open -->
+<!-- inactive-ok-file: CASE-166 — Proposed; the multilevel study in which the point arose, cited as open -->
 
 This claim's rungs say which pathways from a contribution to an
 organization's judgement exist. The Northstar turns of the exchange
@@ -168,7 +168,7 @@ isn't an additional independent force simply because we've named the
 coalition." T19 §3: a team proposal "is not an additional independent
 opinion appended to the employees' opinions. Otherwise, the simulator
 would double-count activity merely because we've described it at two
-levels." The study built on it is [CASE-tmprl1px](../cases.d/CASE-tmprl1px.md).
+levels." The study built on it is [CASE-166](../cases.d/CASE-166.md).
 
 A linear construction makes it exact. An employee's message e sets a team
 proposal p = c·e, and the company's decision is y = a·e + b·p. With

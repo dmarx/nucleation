@@ -93,17 +93,17 @@ from the wider title [THEORY-253](THEORY-253.md) carried before it was narrowed 
 ## Note of 2026-10-26: dependency measured, and a third source
 
 Two of the works T24 of the exchange "Experimental Infrastructure Review"
-drew on ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)), read on 2026-10-26, bear on this account's
+drew on ([QUESTION-275](../questions.d/QUESTION-275.md)), read on 2026-10-26, bear on this account's
 "one source".
 
-- **Dependency, measured** ([THEORY-tmp8cat0](THEORY-tmp8cat0.md)). In small attention-only
+- **Dependency, measured** ([THEORY-973](THEORY-973.md)). In small attention-only
   transformers, in-context learning arrives abruptly in the window where
   induction heads form, and the induction head needs two heads composed.
   Letting a single layer attend by the previous token, which removes the
   need for the composition, brings the jump to one-layer models and moves
   it earlier in two-layer ones. That is the other source this title
   names, measured in trained networks by an architectural intervention.
-- **Redundancy, a third source** ([THEORY-tmpvqsx2](THEORY-tmpvqsx2.md)). In Musat, Pimentel,
+- **Redundancy, a third source** ([THEORY-1009](THEORY-1009.md)). In Musat, Pimentel,
   Zucchet and Hofmann's idealized two-layer model, once an in-weights
   circuit has memorized the common pairs, the induction circuit's
   gradient is scaled by the share of the data the memorized map does not

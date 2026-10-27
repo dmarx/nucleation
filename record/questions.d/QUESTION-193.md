@@ -66,13 +66,13 @@ fitted to the behaviour it would be confirming.
 ## Note of 2026-10-26: a testbed for the second limb
 
 Musat, Pimentel, Zucchet and Hofmann's theory of invariant learning
-dynamics ([NOTE-tmpcuw4h](../notes.d/NOTE-tmpcuw4h.md)), read on 2026-10-26 for the exchange
-"Experimental Infrastructure Review" ([QUESTION-tmpivbso](QUESTION-tmpivbso.md)), gives a ready
+dynamics ([NOTE-1177](../notes.d/NOTE-1177.md)), read on 2026-10-26 for the exchange
+"Experimental Infrastructure Review" ([QUESTION-275](QUESTION-275.md)), gives a ready
 setting for this question's trained-network test. For attention-only
 transformers on block-list inductive tasks, the weights the data's
 symmetries fix form a subspace that population gradient descent never
 leaves, spanned by a few elementary actions composed through the heads
-([THEORY-tmpdxhxm](../theory.d/THEORY-tmpdxhxm.md)). The record's check found that sign descent keeps the
+([THEORY-981](../theory.d/THEORY-981.md)). The record's check found that sign descent keeps the
 subspace only when those actions are aligned with the parameter
 coordinates.
 
@@ -85,7 +85,7 @@ Geometry model's skills supply by construction.
 
 Two limits. The circuits there are not independent skills: they solve
 overlapping parts of the data, and that alone delays the induction
-circuit under gradient descent ([THEORY-tmpvqsx2](../theory.d/THEORY-tmpvqsx2.md)), so a sequence under
+circuit under gradient descent ([THEORY-1009](../theory.d/THEORY-1009.md)), so a sequence under
 both optimizers would not answer the question either way. And the paper's
 own §5 trained with AdamW, outside its theorem, with no gradient-descent
 run for contrast. Neither the induction-heads paper nor the other works

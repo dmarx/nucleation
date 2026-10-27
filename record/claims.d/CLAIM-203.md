@@ -119,11 +119,11 @@ and that its interventions manipulate a described speaker ([CLAIM-127](CLAIM-127
 
 ## Note of 2026-10-26: the same lesson for latent-structure recovery
 
-<!-- inactive-ok-file: CASE-tmplcm41 — Proposed; the construction, filed the same day -->
+<!-- inactive-ok-file: CASE-165 — Proposed; the construction, filed the same day -->
 
 The lesson in general form recurred three times in the Northstar turns of
 the exchange "Experimental Infrastructure Review", about latent-structure
-models of an organization's members ([QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md)). T21: "the
+models of an organization's members ([QUESTION-276](../questions.d/QUESTION-276.md)). T21: "the
 generator's vocabulary would risk making the intended topic structure
 artificially easy to recover." T22: "If we start generating employees from
 the IBP and then successfully recover the IBP structure, we've mostly
@@ -132,12 +132,12 @@ remedy this claim's "What would answer it" gives for items: fit the
 latent-feature model to a mechanistic simulator that does not assume it
 ("Option A", so that "feature discovery can be tested against a world
 that did not itself assume IBP-distributed employees"), and keep
-planted-structure recovery as a check on inference only ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)).
+planted-structure recovery as a check on inference only ([CASE-165](../cases.d/CASE-165.md)).
 Recovering a structure from data generated under its own prior tests the
 inference, not the structure.
 
 The hLDA paper the exchange cited, read the same day, has the published
-form of that check ([THEORY-tmpvs18m](../theory.d/THEORY-tmpvs18m.md)): on ten corpora simulated from
+form of that check ([THEORY-1010](../theory.d/THEORY-1010.md)): on ten corpora simulated from
 three-level hLDA itself, the sampler's best state recovered the
 generating tree exactly in eight, and in one of the others a wrong tree
 had the higher posterior. It shows the inference works under matched

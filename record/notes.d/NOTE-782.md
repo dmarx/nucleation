@@ -38,7 +38,7 @@ summary: >-
   stream direction passes the same test. One-dimensional fact patches and
   rank-1 edits are shown to be nearly interchangeable.
 ---
-<!-- inactive-ok-file: THEORY-tmpvugrm — Proposed; ROME's storage reading, cited as the hypothesis THEORY-282 bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-1011 — Proposed; ROME's storage reading, cited as the hypothesis THEORY-282 bears on, not leaned on -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this reading is set beside, open -->
 
 # NOTE-782: Makelov, Lange and Nanda — an interpretability illusion for subspace activation patching
@@ -271,20 +271,20 @@ DAS on residual-stream locations, the placement this paper recommends.
 Three works this reading names were registered and read on 2026-10-26,
 for the owner's request about the record's circuits literature.
 
-- **ROME** (Meng et al., [LIT-tmpajpeb](../literature.d/LIT-tmpajpeb.md), [NOTE-tmp0p8a7](NOTE-tmp0p8a7.md)) is the editing
+- **ROME** (Meng et al., [LIT-1536](../literature.d/LIT-1536.md), [NOTE-1166](NOTE-1166.md)) is the editing
   method whose rank-one update Lemma D.1 restates as an optimization and
   whose edits §6.3 approximates by a patch. The record holds ROME's
-  causal traces and CounterFact edits as measured ([THEORY-tmpom5gw](../theory.d/THEORY-tmpom5gw.md)), and
+  causal traces and CounterFact edits as measured ([THEORY-998](../theory.d/THEORY-998.md)), and
   its reading that the edited site stores the fact as Proposed
-  ([THEORY-tmpvugrm](../theory.d/THEORY-tmpvugrm.md)), because [THEORY-282](../theory.d/THEORY-282.md) already shows that an edit's
+  ([THEORY-1011](../theory.d/THEORY-1011.md)), because [THEORY-282](../theory.d/THEORY-282.md) already shows that an edit's
   success does not locate what it changes.
-- **IOI** (Wang et al., [LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md), [NOTE-tmp1iis8](NOTE-tmp1iis8.md)) is the
+- **IOI** (Wang et al., [LIT-1540](../literature.d/LIT-1540.md), [NOTE-1167](NOTE-1167.md)) is the
   component-level analysis on which this paper's ground truth for MLP8
-  rests. Its circuit of 26 heads in seven classes is [THEORY-tmpccb5u](../theory.d/THEORY-tmpccb5u.md).
-- **DAS** (Geiger et al., [LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md), [NOTE-tmpzb21n](NOTE-tmpzb21n.md)) is the method this
+  rests. Its circuit of 26 heads in seven classes is [THEORY-980](../theory.d/THEORY-980.md).
+- **DAS** (Geiger et al., [LIT-1551](../literature.d/LIT-1551.md), [NOTE-1192](NOTE-1192.md)) is the method this
   paper's subspace patches are trained with. Its own control on frozen
   random networks, IIA at chance up to width 256 and 0.64 at width 4,096
-  ([THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md)), is the same kind of check as this paper's DAS
+  ([THEORY-1002](../theory.d/THEORY-1002.md)), is the same kind of check as this paper's DAS
   direction trained on a random MLP (B.5), and points the same way: in a
   wide enough space a supervised search finds alignment in a network
   never trained for the task.

@@ -188,7 +188,7 @@ dormant form, close to [CLAIM-287](CLAIM-287.md)'s reinstatable capacity.
 
 T24 of the exchange "Experimental Infrastructure Review" cited this claim
 for "distinct forms of organizational persistence" of features across a
-transformer's training checkpoints ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). It split
+transformer's training checkpoints ([QUESTION-275](../questions.d/QUESTION-275.md)). It split
 "Representational continuity: The same distinction remains recoverable"
 from "Computational continuity: A causally effective computation continues
 to operate, perhaps through different physical components", and said
@@ -210,22 +210,22 @@ replacement, and matching features across checkpoints needs [CLAIM-263](CLAIM-26
 quotient by the architecture's full symmetry group before resemblance can
 count for anything.
 
-<!-- inactive-ok-file: THEORY-tmp1dufu THEORY-tmpoirdq — Proposed; readings of the same day, cited as reports of persistence by resemblance -->
+<!-- inactive-ok-file: THEORY-967 THEORY-997 — Proposed; readings of the same day, cited as reports of persistence by resemblance -->
 
 The training-dynamics works T24 drew on, read the same day, judge
 persistence by resemblance throughout, so the cited prior art does not
 answer §6's question either.
 
-- Cross-checkpoint crosscoders ([NOTE-tmpq065x](../notes.d/NOTE-tmpq065x.md)) call a feature "maintained"
+- Cross-checkpoint crosscoders ([NOTE-1186](../notes.d/NOTE-1186.md)) call a feature "maintained"
   when one index of a jointly trained dictionary has weight at both
   checkpoints: continuity by a shared index, which is resemblance.
-- The refined-LLC study ([NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md), [THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md)) has an n-gram
+- The refined-LLC study ([NOTE-1188](../notes.d/NOTE-1188.md), [THEORY-967](../theory.d/THEORY-967.md)) has an n-gram
   "move" from one head to another when the same tokens are affected at two
   checkpoints.
-- The fine-tuning circuit study ([NOTE-tmplotfq](../notes.d/NOTE-tmplotfq.md), [THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)) judges a
+- The fine-tuning circuit study ([NOTE-1183](../notes.d/NOTE-1183.md), [THEORY-997](../theory.d/THEORY-997.md)) judges a
   circuit the same before and after by the overlap of its nodes and edges.
 
-The induction-heads paper ([NOTE-tmpabelf](../notes.d/NOTE-tmpabelf.md)) draws [TERM-071](../terms.d/TERM-071.md)'s line itself: a
+The induction-heads paper ([NOTE-1173](../notes.d/NOTE-1173.md)) draws [TERM-071](../terms.d/TERM-071.md)'s line itself: a
 constant in-context learning score "doesn't necessarily mean that the
 underlying mechanisms of in-context learning are constant". The claim is
 unchanged.

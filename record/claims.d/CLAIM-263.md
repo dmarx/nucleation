@@ -56,7 +56,7 @@ supports:
 complements:
 - CLAIM-366
 ---
-<!-- inactive-ok-file: THEORY-tmpgz1nk — Proposed; Zoom In's universality hypothesis, cited as what the test would probe -->
+<!-- inactive-ok-file: THEORY-986 — Proposed; Zoom In's universality hypothesis, cited as what the test would probe -->
 <!-- inactive-ok-file: THEORY-111 THEORY-112 THEORY-113 THEORY-115 THEORY-116 THEORY-108 CLAIM-187 — Proposed; the readings the protocol is assembled from, a case for it, and the claim that carries it further, open -->
 
 # CLAIM-263: Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
@@ -106,15 +106,15 @@ permutation alignment.
 
 ## Note of 2026-10-27: universality, the hypothesis its test would probe
 
-Zoom In ([LIT-tmplq91w](../literature.d/LIT-tmplq91w.md), [NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md)), read on 2026-10-26 at the
+Zoom In ([LIT-1543](../literature.d/LIT-1543.md), [NOTE-1182](../notes.d/NOTE-1182.md)), read on 2026-10-26 at the
 owner's request, states universality: analogous features and circuits
 form across networks trained on different data and with different
-architectures ([THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md)). That is the hypothesis this claim's test
+architectures ([THEORY-986](../theory.d/THEORY-986.md)). That is the hypothesis this claim's test
 would probe across models, a barrier that survives alignment marking a
 different mechanism and connection after alignment marking shared feature
 structure. Zoom In names the test the hypothesis needs and offers
 evidence it calls "anecdotal", from vision networks. The nearest
 measurement the record holds is Towards Monosemanticity's agreement of
-features across two seeds of one architecture ([NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md)), which
+features across two seeds of one architecture ([NOTE-1191](../notes.d/NOTE-1191.md)), which
 compares features by their activations, not by the quotient this claim
 asks for. The claim is unchanged.

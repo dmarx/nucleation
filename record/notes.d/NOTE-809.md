@@ -235,16 +235,16 @@ DAS-located variables.
 
 The reply rests on DAS (Geiger et al. 2023), which was registered and
 read on 2026-10-26 for the owner's request about the record's circuits
-literature ([LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md), [NOTE-tmpzb21n](NOTE-tmpzb21n.md)). Two of its results bear on the
+literature ([LIT-1551](../literature.d/LIT-1551.md), [NOTE-1192](NOTE-1192.md)). Two of its results bear on the
 dispute this reading records.
 
 - **DAS fixes subspaces, not directions.** The learned rotation enters an
   intervention only through the projector onto the learned subspace, so
   rotations that select the same subspaces give identical interventions.
-  The observation is the record's ([NOTE-tmpzb21n](NOTE-tmpzb21n.md)), not the paper's.
+  The observation is the record's ([NOTE-1192](NOTE-1192.md)), not the paper's.
 - **A random-network control.** On frozen random networks DAS's IIA
   stays at chance up to width 256 and reaches 0.64 at width 4,096
-  ([THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md)), the paper's own counterpart of Makelov et al.'s
+  ([THEORY-1002](../theory.d/THEORY-1002.md)), the paper's own counterpart of Makelov et al.'s
   random-MLP check ([NOTE-782](NOTE-782.md)).
 
 The reading is unchanged.

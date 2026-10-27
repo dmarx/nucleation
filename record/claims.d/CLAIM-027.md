@@ -72,7 +72,7 @@ complements:
 - CLAIM-159
 - CLAIM-283
 - CLAIM-354
-- CLAIM-tmpwr001
+- CLAIM-454
 ---
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->

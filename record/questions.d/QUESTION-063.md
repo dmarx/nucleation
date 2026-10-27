@@ -29,7 +29,7 @@ history:
     A dated note added: a second setting, the Northstar firm of the
     exchange "Experimental Infrastructure Review", where the confound
     arose in inferring an organization's perspectives from its members'
-    activity (QUESTION-tmpixgs8), with interventions proposed and none
+    activity (QUESTION-276), with interventions proposed and none
     run. The question is unchanged.
 tags:
 - natural-sciences
@@ -95,10 +95,10 @@ rests on a null test, not an equivalence test.
 
 ## Note of 2026-10-26: shared disturbances against organization in a simulated firm
 
-<!-- inactive-ok-file: CASE-tmprl1px — Proposed; the reported study, cited as open -->
+<!-- inactive-ok-file: CASE-166 — Proposed; the reported study, cited as open -->
 
 A second setting. The Northstar simulation reported at T20 of the
-exchange "Experimental Infrastructure Review" ([CASE-tmprl1px](../cases.d/CASE-tmprl1px.md); reported as
+exchange "Experimental Infrastructure Review" ([CASE-166](../cases.d/CASE-166.md); reported as
 "PerspectiveLab v2.11" and not reproduced, since dmarx/PerspectiveLab holds
 no v2.10 or v2.11) fitted
 overlapping activity modes to employee trajectories. The reply said they
@@ -108,7 +108,7 @@ higher-level interpretive organization". T22 named the confound again:
 responding to the same incident don't necessarily constitute one
 emergent perspective."
 
-A check made when [CASE-tmprl1px](../cases.d/CASE-tmprl1px.md) was filed gives this question's shared
+A check made when [CASE-166](../cases.d/CASE-166.md) was filed gives this question's shared
 drive in that setting: twelve employees with no communication, each seeing
 two of three shared disturbances, give three clear correlation modes, each
 spanning all four departments. T22 proposed interventions of the kind
@@ -116,6 +116,6 @@ this question asks for: team rewiring, incident-command handoff,
 departure of participants and a change of authorization pathway, each
 scored against what the communication and authorization graph already
 predicts. [CASE-101](../cases.d/CASE-101.md)'s first population is the confound's constructed form.
-None of these interventions has been run. [QUESTION-tmpixgs8](QUESTION-tmpixgs8.md) asks the
+None of these interventions has been run. [QUESTION-276](QUESTION-276.md) asks the
 question for an organization's inferred perspectives. The question is
 unchanged.

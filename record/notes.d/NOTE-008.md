@@ -255,7 +255,7 @@ Adding one word changes each count by at most 1 (Table 2). Each step of the samp
 
 T21 of the exchange "Experimental Infrastructure Review" proposed, as a way
 to infer an organization's perspectives from its members' messages
-([QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md)), combining a hierarchical topic model with an
+([QUESTION-276](../questions.d/QUESTION-276.md)), combining a hierarchical topic model with an
 author–topic model and a mixed-membership relational model. It did not
 find this reading. [LIT-013](../literature.d/LIT-013.md)'s Twitter-Network Topic Model is a held
 instance of the topics-and-network half of that combination: a

@@ -106,14 +106,14 @@ Two of the circuits works read on 2026-10-26 at the owner's request
 concern residual-stream autoencoders, the site where this account finds
 the loss cost highest.
 
-- Marks et al.'s sparse feature circuits ([LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md)) use Gemma
+- Marks et al.'s sparse feature circuits ([LIT-1532](../literature.d/LIT-1532.md)) use Gemma
   Scope's residual-stream autoencoders on Gemma-2-2B, beside their own on
   Pythia-70M. They find that "removing residual stream SAE error nodes
   severely disrupts the model", and without the error nodes their feature circuits recover
-  little of subject–verb agreement ([THEORY-tmpuogp2](THEORY-tmpuogp2.md)).
-- Templeton et al. ([LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md)) train residual-stream autoencoders on
+  little of subject–verb agreement ([THEORY-1007](THEORY-1007.md)).
+- Templeton et al. ([LIT-1533](../literature.d/LIT-1533.md)) train residual-stream autoencoders on
   Claude 3 Sonnet that explain at least 65% of the variance, and keep the
-  error term when steering ([NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md)).
+  error term when steering ([NOTE-1178](../notes.d/NOTE-1178.md)).
 
 Neither compares sites at equal variance unexplained, which is this
 account's measurement. Both agree that at the residual stream what the

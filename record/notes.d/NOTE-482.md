@@ -234,8 +234,8 @@ The report's own list (§5) is long. Those nearest this record:
 
 The GPT-2 Small finding of Dunefsky et al. that Appendix B reports
 reversing on Gemma 2 2B is now held: the transcoder paper was registered
-and read on 2026-10-26 ([LIT-tmptgo43](../literature.d/LIT-tmptgo43.md), [NOTE-tmpbsp9v](NOTE-tmpbsp9v.md)). As the record files
-it ([THEORY-tmptjiep](../theory.d/THEORY-tmptjiep.md)), transcoders are on or above the SAE frontier on one
+and read on 2026-10-26 ([LIT-1554](../literature.d/LIT-1554.md), [NOTE-1174](NOTE-1174.md)). As the record files
+it ([THEORY-1005](../theory.d/THEORY-1005.md)), transcoders are on or above the SAE frontier on one
 MLP layer each of GPT2-small, Pythia-410M and Pythia-1.4B, under one
 learning rate and one seed. Scoped so, the two findings are on different
 models and do not contradict. Why the ordering reverses, and whether it

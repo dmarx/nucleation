@@ -11,8 +11,8 @@ history:
   note: >-
     A dated note added: the owner's employees as sub-perspectives (T18
     of the exchange "Experimental Infrastructure Review"), the
-    multilevel Northstar model built from it (CASE-tmprl1px), and the
-    methodological question it raised (QUESTION-tmpixgs8). The question
+    multilevel Northstar model built from it (CASE-166), and the
+    methodological question it raised (QUESTION-276). The question
     is unchanged.
 tags:
 - individuation
@@ -36,7 +36,7 @@ answered_by:
 refined_by:
 - QUESTION-262
 - QUESTION-264
-- QUESTION-tmpixgs8
+- QUESTION-276
 ---
 <!-- inactive-ok-file: CLAIM-278 CLAIM-364 CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -81,7 +81,7 @@ capture or regress.
 
 ## Note of 2026-10-26: the owner's employees as sub-perspectives
 
-<!-- inactive-ok-file: CLAIM-418 TERM-072 CASE-tmprl1px — Proposed; the claim and term the note sets the owner's wording against, and the reported study, cited as open -->
+<!-- inactive-ok-file: CLAIM-418 TERM-072 CASE-166 — Proposed; the claim and term the note sets the owner's wording against, and the reported study, cited as open -->
 
 The owner, at T18 of the exchange "Experimental Infrastructure Review":
 "maybe employees are "pre-perspectives" or sub-perspectives, which can
@@ -98,7 +98,7 @@ The two readings differ on whether a constituent may itself be a
 perspective. [TERM-072](../terms.d/TERM-072.md) allows it ("several overlapping, nested, or
 partially integrated regimes may exist"), and [CLAIM-418](../claims.d/CLAIM-418.md)'s "one agent can
 act through several" is consistent with the owner's wording. The exchange
-built a model of it ([CASE-tmprl1px](../cases.d/CASE-tmprl1px.md)), whose analyzer found "candidate
+built a model of it ([CASE-166](../cases.d/CASE-166.md)), whose analyzer found "candidate
 organizational modes" only. How one would know that such a population had
-formed a perspective is [QUESTION-tmpixgs8](QUESTION-tmpixgs8.md), which refines this question.
+formed a perspective is [QUESTION-276](QUESTION-276.md), which refines this question.
 The question is unchanged.

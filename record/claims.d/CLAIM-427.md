@@ -37,7 +37,7 @@ history:
   note: >-
     A third dated note of 2026-10-26 added: the Northstar multilevel
     study reported at T20 of the exchange "Experimental Infrastructure
-    Review" (CASE-tmprl1px), which the lab does not hold; its router
+    Review" (CASE-166), which the lab does not hold; its router
     ties and it meets neither of the first two grades as reported. The
     claim is unchanged.
 role: thesis
@@ -74,7 +74,7 @@ summary: >-
   experimental success". [CLAIM-414](CLAIM-414.md) already meets the first grade for two
   constructions. Nothing in the record meets the third.
 illustrated_by:
-- CASE-tmprl1px
+- CASE-166
 ---
 
 # CLAIM-427: Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms
@@ -250,10 +250,10 @@ still unmet.
 
 ## Note of 2026-10-26 (later): Northstar v2.11, reported and not reproduced
 
-<!-- inactive-ok-file: CASE-tmprl1px — Proposed; the reported study, cited as where it stands -->
+<!-- inactive-ok-file: CASE-166 — Proposed; the reported study, cited as where it stands -->
 
 T20 of the exchange "Experimental Infrastructure Review" reports a
-multilevel firm, "PerspectiveLab v2.11 — Northstar" ([CASE-tmprl1px](../cases.d/CASE-tmprl1px.md)). Its
+multilevel firm, "PerspectiveLab v2.11 — Northstar" ([CASE-166](../cases.d/CASE-166.md)). Its
 working group with delegated authority (regret 0.00499) ties "a
 conventional router, same information and authority" (0.00499) exactly.
 T20: "That's an important limit on what we can claim."

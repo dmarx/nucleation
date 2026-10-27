@@ -11,7 +11,7 @@ history:
   note: >-
     A dated note added: the induction-heads paper, read on 2026-10-26
     for the exchange "Experimental Infrastructure Review", answers part
-    of the question (THEORY-tmp8cat0), and the refined-LLC study reports
+    of the question (THEORY-973), and the refined-LLC study reports
     several kinds of developmental event per component. The question is
     unchanged.
 tags:
@@ -34,7 +34,7 @@ answered_by:
 - THEORY-293
 - THEORY-481
 - THEORY-521
-- THEORY-tmp8cat0
+- THEORY-973
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-086](../theory.d/THEORY-086.md),
@@ -47,7 +47,7 @@ refined_by:
 - QUESTION-176
 - QUESTION-175
 - QUESTION-193
-- QUESTION-tmpivbso
+- QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-279 — Proposed; partial answers filed in the last two days, cited with their limits -->
 
@@ -82,13 +82,13 @@ One setting in which two of these mechanisms make different predictions about ti
 
 ## Note of 2026-10-26: induction heads, and several kinds of event
 
-<!-- inactive-ok-file: THEORY-tmp1dufu THEORY-tmpt45mh — Proposed; readings of the same day, cited with their limits -->
+<!-- inactive-ok-file: THEORY-967 THEORY-1004 — Proposed; readings of the same day, cited with their limits -->
 
 Three works T24 of the exchange "Experimental Infrastructure Review" drew
-on for [QUESTION-tmpivbso](QUESTION-tmpivbso.md), which refines this one, were read on
+on for [QUESTION-275](QUESTION-275.md), which refines this one, were read on
 2026-10-26.
 
-- **[THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md)** answers in part. In small attention-only
+- **[THEORY-973](../theory.d/THEORY-973.md)** answers in part. In small attention-only
   transformers of two to six layers, the moment in-context learning
   arrives is the window in which induction heads form; ablating them
   removes nearly all of it; one-layer models show neither; and letting a
@@ -100,19 +100,19 @@ on for [QUESTION-tmpivbso](QUESTION-tmpivbso.md), which refines this one, were r
   warm-up. Whether induction drives the transition or accompanies a
   shared latent event, such as learning to compose layers, the authors
   leave open themselves.
-- **One kind of event or several.** The refined-LLC study ([NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md))
+- **One kind of event or several.** The refined-LLC study ([NOTE-1188](../notes.d/NOTE-1188.md))
   reports at least three per component: growth (a head's local learning
   coefficient rising), refinement (it falling),
   and repurposing, in which first-layer n-gram heads become the induction
   circuit's previous-token heads and n-grams pass between heads
-  ([THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md), Proposed, from two checkpoints of one run). The
+  ([THEORY-967](../theory.d/THEORY-967.md), Proposed, from two checkpoints of one run). The
   per-head curves differentiate by functional type over training
-  ([THEORY-tmp9uzkw](../theory.d/THEORY-tmp9uzkw.md)), which bears on when heads specialize, not on when a
+  ([THEORY-975](../theory.d/THEORY-975.md)), which bears on when heads specialize, not on when a
   structure is acquired, and is not listed as an answer.
 - **Features.** Cross-checkpoint crosscoders show the features that
   matter for agreement moving from token-specific to category detectors,
   and still shifting after accuracy has stopped improving
-  ([THEORY-tmpt45mh](../theory.d/THEORY-tmpt45mh.md), Proposed). Acquisition read off a task score can end
+  ([THEORY-1004](../theory.d/THEORY-1004.md), Proposed). Acquisition read off a task score can end
   before the structure stops changing.
 
 The question is unchanged.
