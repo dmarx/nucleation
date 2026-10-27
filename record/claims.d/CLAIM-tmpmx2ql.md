@@ -215,7 +215,9 @@ Two further points.
 - **Composition and memory.** [CLAIM-tmpose3y](CLAIM-tmpose3y.md) shows the converse of this claim's
   first half. An interior that relaxes fast presents its boundary with an
   instantaneous constraint. One that does not presents a history-dependent
-  relation. Without separation the composite gives no constraint.
+  one. (Corrected at the owner's review: this note first said that without
+  separation the composite gives no constraint. It gives a constraint on
+  histories; separation makes it approximately memoryless.)
 - **The gluing itself can be slow.** A21 §6 let the correspondence maps of
   [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md) evolve, with ẋ = F(x, e) − κL_ϑx and ϑ̇ = εG(ϑ, x, o, e).
   For ε ≪ κλ_fast the rules of agreement change slowly relative to the
