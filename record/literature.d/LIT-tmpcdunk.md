@@ -2,7 +2,7 @@
 status: Unfetched
 status_note: >-
   searched 2026-10-27 for a lawful full text; one exists but this client
-  could not fetch it, so it is not read and no NOTE is filed (ADR-053).
+  could not fetch it, so it is not read and no NOTE is filed ([ADR-053](../decisions.d/ADR-053.md)).
   Unpaywall lists the publisher's free copy at Annual Reviews,
   annualreviews.org/doi/pdf/10.1146/annurev-conmatphys-031214-014514; it
   answered curl with an HTTP 403 Cloudflare challenge, and a headless-
