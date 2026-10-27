@@ -1,22 +1,22 @@
 ---
 number: 1011
-status: Proposed
+status: Rejected
+status_note: Hase et al. (LIT-1578, THEORY-1024) meet this entry's own refutation clause for its localization part, in GPT-J on 652 CounterFact facts. ROME rewrites a fact at over 96% at every layer but the last, and the per-fact tracing effect adds at most 3.2 points of R² to edit success. The conjecture that any middle layer could store a fact equally was split out to THEORY-tmpanm57 and stays Proposed
 formerly:
 - THEORY-tmpvugrm
 promote_when: >-
-  Evidence that separates storage from editability. For instance: the
-  layer where causal tracing finds a fact's effect predicts, fact by fact,
-  where an edit of that fact succeeds, and edits at layers tracing does not
-  implicate fail; or ablating or perturbing the identified mid-layer MLP
-  directions on clean (uncorrupted) inputs removes the fact while sparing
-  others, with a control showing that the effect is not carried by a
-  direction in the null space of the output matrix. Refuted if edits of
-  equal quality are available at layers that tracing does not implicate,
-  or if a fact's recall survives removing its supposed key–value pair.
-  More successful rank-one edits cannot settle it: by Makelov et al.'s
-  Lemma D.2, such an edit exists for any one-dimensional fact patch.
+  To be reinstated, the localization part needs a clean-run localization,
+  not causal tracing on noised inputs, whose per-fact layer predicts
+  where an edit of that fact succeeds, with edits at other layers
+  failing. Ablating the identified mid-layer MLP directions on clean
+  inputs would also have to remove the fact while sparing others, with a
+  control against a direction in the null space of the output matrix.
+  The refuter this entry named is met: Hase et al. (LIT-1578,
+  THEORY-1024) find edits of equal quality at layers that tracing does
+  not implicate. More successful rank-one edits cannot reinstate it
+  (Makelov et al.'s Lemma D.2).
 title: 'In autoregressive transformer language models, factual associations are stored in middle-layer MLP modules as linear key–value memories: the MLP takes a key encoding the subject at its last token and returns a value encoding its attributes, which late attention moves to the prediction, and any middle layer could store a given fact equally, as Meng, Bau, Andonian and Belinkov propose'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-26'
@@ -34,6 +34,17 @@ history:
     layer could store a fact is not refuted. Geva et al. and MEMIT,
     also now held, are placed. Status and title unchanged; the
     disposition is left for the owner.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Rejected at the owner's decision (2026-10-27, "make em so"), on the
+    note of version 2. The localization part met the entry's own
+    refutation clause (Hase et al., THEORY-1024). Rejected, not
+    Superseded, because nothing replaces that claim. The conjecture
+    that any middle layer could store a fact equally is split out to
+    THEORY-tmpanm57, Proposed, under ADR-047's rule on dropped claims
+    (kind 1). The promote_when now states what would reinstate the
+    entry. Title and body are unchanged.
 tags:
 - representation-learning
 - causality
@@ -50,6 +61,7 @@ summary: >-
   success of rank-one edits at the traced site.
 ---
 <!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited beside the conjecture it resembles -->
+<!-- inactive-ok-file: THEORY-tmpanm57 — Proposed; the conjecture split out of this entry when it was rejected -->
 
 # THEORY-1011: In autoregressive transformer language models, factual associations are stored in middle-layer MLP modules as linear key–value memories: the MLP takes a key encoding the subject at its last token and returns a value encoding its attributes, which late attention moves to the prediction, and any middle layer could store a given fact equally, as Meng, Bau, Andonian and Belinkov propose
 
@@ -155,3 +167,28 @@ account only at the level of "MLPs can be read as memories".
 over layers 3–8 of GPT-J and inserts 10,000 facts at once. It adds no
 support toward promotion: its layer range is chosen from averaged traces,
 and its ablations compare averaged ranges, not facts.
+
+## Note of 2026-10-27 (later): rejected, and the conjecture split out
+
+At the owner's decision on the note above, this entry is Rejected. Its
+defining claim is that the middle layers causal tracing implicates are
+where a fact is stored, so that editing there succeeds and editing
+elsewhere does not. That claim met the refutation clause the entry wrote
+for itself: Hase et al. (LIT-1578, THEORY-1024) find edits of equal
+quality at layers tracing does not implicate.
+
+The entry was also inconsistent with itself, which is why it is split
+rather than simply rejected. Its title includes Meng et al.'s conjecture
+that "any middle layer could store a given fact equally", and that
+conjecture predicts exactly the result the promote_when counted as a
+refutation. The conjecture is not refuted, and the source asserts it, so
+under ADR-047 (kind 1) it is filed as its own Proposed entry,
+THEORY-tmpanm57. Its promote_when carries over this entry's clean-input
+ablation test and adds a control for edits that create an association
+wherever they are made (LIT-968). Hase et al.'s own account, that
+localizing and editing are different questions, stays THEORY-1026.
+
+What stands from the paper is the measurement, THEORY-998: the traces and
+the edits as measured. Only the inference from them to localized storage
+is rejected.
+

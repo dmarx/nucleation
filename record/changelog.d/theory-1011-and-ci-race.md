@@ -1,0 +1,4 @@
+### Changed
+
+- THEORY-1011 is Rejected at the owner's decision. Its localization part, that the middle layers causal tracing implicates are where a fact is stored, met its own refutation clause: Hase et al. (THEORY-1024) find edits of equal quality at layers tracing does not implicate. Its promote_when now says what would reinstate it. The conjecture its title bundled, that any fact could be stored equally in any middle MLP layer, is split out to THEORY-tmpanm57 (Proposed), under ADR-047's rule on dropped claims. Its promote_when asks for a clean-run ablation, layer by layer, and rules out more successful edits as evidence. Dated notes on NOTE-1166 and LIT-968.
+- `docs.yml` cancels a pull request's `docs-check` run when a newer push overtakes it. The overtaken run's repair rebased in the newer push's unrepaired commits and linted them red. Runs on the default branch are not affected. ADR-054 records it as a consequence (version 2).
