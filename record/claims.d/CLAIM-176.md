@@ -40,6 +40,7 @@ answers:
 rests_on:
 - CLAIM-185
 - CLAIM-177
+- CLAIM-tmpuhp12
 grounds:
 - LIT-924
 summary: >-
@@ -56,10 +57,11 @@ complements:
 objected_by:
 - CLAIM-181
 ---
+<!-- inactive-ok-file: CLAIM-tmpuhp12 — Proposed; the comparative premise split from CLAIM-177 on 2026-10-27 -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # CLAIM-176: Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
 
@@ -139,3 +141,12 @@ defines it. This claim was narrowed to match.
   similarity of the situations. Ashby does not say recurrence should
   trigger capture. He says what a system must have for recurrence to be
   exploited. Analogy only.
+
+## Note of 2026-10-27: a second premise
+
+The status review of this date (ADR-057) split CLAIM-177. Its observed
+half stays CLAIM-177, which is now Active. Its comparative half,
+CLAIM-tmpuhp12, is Proposed. This claim's "exactly the drift that defeats
+an argument" needs the comparative half, that identity drift and not
+missing structure is what defeats such an argument, so it now rests on
+both.

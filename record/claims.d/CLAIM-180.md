@@ -48,7 +48,7 @@ summary: >-
   attraction (unread when filed; read 2026-10-14 in NOTE-819). The analogy is the claim; whether restatement
   distance predicts re-derivation has not been measured.
 ---
-<!-- inactive-ok-file: CLAIM-024 CLAIM-177 CLAIM-179 CLAIM-182 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-024 CLAIM-179 CLAIM-182 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, no copy obtainable, named as where the critical distance comes from, not leaned on beyond that -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->

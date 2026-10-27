@@ -30,7 +30,7 @@ refined_by:
 - QUESTION-038
 ---
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
-<!-- inactive-ok-file: CLAIM-176 CLAIM-177 CLAIM-178 CLAIM-181 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-176 CLAIM-178 CLAIM-181 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # QUESTION-037: When an argument is developed across sessions with collaborators who keep no memory, what makes it settle into a stable structure, and what can a project memory contribute?
 
