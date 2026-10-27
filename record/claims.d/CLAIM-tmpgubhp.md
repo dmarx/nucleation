@@ -1,7 +1,19 @@
 ---
 status: Proposed
-title: 'From interconnection to individuation, five relationships are distinct achievements and none implies the next: interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which compatible, frustrated or differentiated organizations persist, individuation which persistent organizations have robust identity, boundaries and maintenance, and inquiry which of them can measure and revise their own models and apparatuses under resource bounds; the research program is to find the conditions for each transition'
-version: 1
+title: 'From interconnection to individuation, five relationships are distinct achievements and none implies the next: interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which compatible, frustrated or differentiated organizations persist, individuation which persistent organizations have sufficiently robust identity and boundaries, organizational autonomy being the further question which of those also help maintain their own constitutive constraints, and inquiry which of them can measure and revise their own models and apparatuses under resource bounds; the research program is to find the conditions for each transition'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Title revised at the owner's second review: individuation was described
+    as "robust identity, boundaries and maintenance", which implied that
+    endogenous maintenance is necessary for individuality. A persistent
+    pattern sustained from outside can still be a dynamically individuated
+    entity. Individuation now asks for robust identity and boundaries, and
+    organizational autonomy, the further question, for contributing to
+    maintaining one's own constitutive constraints. The body already drew
+    the line ("Persistence without autonomy"); the table row is aligned.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpdjt64 CLAIM-tmpose3y CLAIM-tmpywecm CLAIM-tmpalzo4 CLAIM-tmpi1bjh CLAIM-tmpmand1 CLAIM-tmpmx2ql CLAIM-tmp0yhlm CLAIM-342 CLAIM-395 CASE-tmpl995z — Proposed or new; the claims this synthesis organizes, cited as open -->
 <!-- inactive-ok-file: QUESTION-tmplxq7l QUESTION-tmprr9yy QUESTION-tmpubsi9 QUESTION-tmpl1yih QUESTION-115 QUESTION-063 THEORY-tmphcxoi THEORY-tmp0d0qe — Open or Proposed; the open questions and readings the program names -->
 
-# CLAIM-tmpgubhp: From interconnection to individuation, five relationships are distinct achievements and none implies the next: interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which compatible, frustrated or differentiated organizations persist, individuation which persistent organizations have robust identity, boundaries and maintenance, and inquiry which of them can measure and revise their own models and apparatuses under resource bounds; the research program is to find the conditions for each transition
+# CLAIM-tmpgubhp: From interconnection to individuation, five relationships are distinct achievements and none implies the next: interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which compatible, frustrated or differentiated organizations persist, individuation which persistent organizations have sufficiently robust identity and boundaries, organizational autonomy being the further question which of those also help maintain their own constitutive constraints, and inquiry which of them can measure and revise their own models and apparatuses under resource bounds; the research program is to find the conditions for each transition
 
 ## The claim
 
@@ -69,7 +81,7 @@ It holds that the five are distinct, and that is a thesis.
 | interconnection | what joint behaviour becomes possible or impossible? | [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md) (physical constraint formation); [CLAIM-tmpose3y](CLAIM-tmpose3y.md) (composition) |
 | compatibility | which local states or descriptions admit a coherent global realization? | [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md) (gluing); [CLAIM-143](CLAIM-143.md); [THEORY-012](../theory.d/THEORY-012.md) |
 | dynamics | which compatible, frustrated or differentiated organizations actually persist? | [CLAIM-tmpywecm](CLAIM-tmpywecm.md); [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md); [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md) |
-| individuation | which persistent organizations have robust identity, boundaries and maintenance? | [CLAIM-157](CLAIM-157.md); [CLAIM-395](CLAIM-395.md); [QUESTION-115](../questions.d/QUESTION-115.md) |
+| individuation | which persistent organizations have sufficiently robust identity and boundaries? Further, autonomy: which of them also contribute to maintaining their own constitutive constraints? | [CLAIM-157](CLAIM-157.md); [CLAIM-395](CLAIM-395.md); [QUESTION-115](../questions.d/QUESTION-115.md) |
 | inquiry | which organizations can measure and revise their models or apparatuses under resource bounds? | [CLAIM-tmpalzo4](CLAIM-tmpalzo4.md); [CLAIM-tmpi1bjh](CLAIM-tmpi1bjh.md); [CLAIM-tmp0yhlm](CLAIM-tmp0yhlm.md); [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md) |
 
 ## Where the implications fail

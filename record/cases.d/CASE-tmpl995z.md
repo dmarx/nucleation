@@ -1,7 +1,17 @@
 ---
 status: Active
 title: 'A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Coupling assumptions made explicit at the owner's second review. Strong
+    dissipative coupling attracts to the specified compatibility space only
+    if it enforces those correspondence maps, so a regime with coupling that
+    enforces other relations is added. A positive spectral gap is
+    distinguished from one large enough for a useful separation of time
+    scales.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -54,13 +64,35 @@ Regimes from A22 §10, extended by the owner's review:
 | regime | isolates |
 |---|---|
 | compatible maps, weak coupling | coherence without integration |
-| compatible maps, strong dissipative coupling | attracting compatibility and a gap in relaxation rates ([CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md)) |
+| compatible maps, strong dissipative coupling that enforces those maps | attraction to the specified compatibility space, and whether the gap in relaxation rates is large enough to separate time scales usefully ([CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md)) |
+| compatible maps, strong dissipative coupling that enforces other relations | strong coupling without attraction to the specified compatibility space |
 | compatible maps, conservative coupling | coherent oscillation without relaxation |
 | frustrated maps | persistent incompatibility and compromise organization |
 | common drive, no reciprocal coupling | apparent synchrony without mutual integration ([QUESTION-063](../questions.d/QUESTION-063.md)) |
 | higher-dimensional stalks with interior units | boundary constraints the parts' relations cannot state ([QUESTION-tmprr9yy](../questions.d/QUESTION-tmprr9yy.md)) |
 | revision by consistency alone | coherence without knowledge |
 | revision checked against held-out interventions | revision that can improve prediction |
+
+### Coupling assumptions
+
+The experiment is informative because coupling and correspondence can be set
+independently. So the regimes must not assume that one delivers the other.
+
+- **Strong coupling alone does not attract to the specified compatibility
+  space.** Dissipative coupling drives the states toward the kernel of
+  whatever operator it actually realizes. That is the specified space only
+  when the coupling enforces the specified correspondence maps: in the
+  linear case, when its Laplacian is δ*δ for the apparatus's own
+  coboundary δ. A strongly dissipative coupling that enforces other
+  relations attracts to a different space. That is why it is a regime of
+  its own above.
+- **A positive gap is not a useful separation.** For a connected, enforcing
+  Laplacian flow, every incompatible mode decays, so there is always some
+  gap above the kernel. A separation of time scales that supports a
+  reduced description needs a gap large relative to the slower dynamics
+  and to the observation horizon (CLAIM-tmpywecm's window,
+  1/(κK) ≪ t ≪ 1/(κε)). The readout is the size of the gap against those
+  scales, not whether it is positive.
 
 ## Readouts
 
