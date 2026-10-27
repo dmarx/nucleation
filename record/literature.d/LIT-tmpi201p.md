@@ -35,4 +35,4 @@ Not read. No abstract was seen; see the summary.
 
 ## Why this is here
 
-Adjacent material for A1's "host control of symbiont replication" and A2's regulatory integration (C), for which neither reply named a work. It is the germ–soma analogy applied to symbionts, a mechanism by which the reproductive cohesion (R) of LIT-1570 could be imposed by the host.
+Adjacent material for A1's "host control of symbiont replication" and A2's regulatory integration (C), for which neither reply named a work. It is the germ–soma analogy applied to symbionts, a mechanism by which the reproductive cohesion (R) of [LIT-1570](LIT-1570.md) could be imposed by the host.

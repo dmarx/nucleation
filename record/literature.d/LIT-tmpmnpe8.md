@@ -35,4 +35,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-Adjacent material. A1 named "population-genetic models of gene loss" without a work, and A2's drift route rests on LIT-1573 alone. This extends the drift account from endosymbionts to bacteria generally, which tests whether the route depends on symbiosis.
+Adjacent material. A1 named "population-genetic models of gene loss" without a work, and A2's drift route rests on [LIT-1573](LIT-1573.md) alone. This extends the drift account from endosymbionts to bacteria generally, which tests whether the route depends on symbiosis.

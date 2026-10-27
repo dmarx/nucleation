@@ -36,4 +36,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-A2's claim that in *Tettigades* "separate cellular lineages collectively preserve much of the ancestral functionality" rests on LIT-1563, which reports one split. This paper shows the splitting is repeated, so the pattern is not a one-off. Its search results include it. Registered for CASE-tmpx4tix.
+A2's claim that in *Tettigades* "separate cellular lineages collectively preserve much of the ancestral functionality" rests on [LIT-1563](LIT-1563.md), which reports one split. This paper shows the splitting is repeated, so the pattern is not a one-off. Its search results include it. Registered for [CASE-tmpx4tix](../cases.d/CASE-tmpx4tix.md).

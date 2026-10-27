@@ -36,4 +36,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-A2 listed "host compensation" ("selection to maintain collective functionality", giving "transport, regulation, or metabolic rescue") as a mechanism, and named no work for it. This is a documented case of the host compensating at the level of transmission, so it bears on reproductive cohesion (R) in QUESTION-277. Registered for CASE-tmpx4tix.
+A2 listed "host compensation" ("selection to maintain collective functionality", giving "transport, regulation, or metabolic rescue") as a mechanism, and named no work for it. This is a documented case of the host compensating at the level of transmission, so it bears on reproductive cohesion (R) in [QUESTION-277](../questions.d/QUESTION-277.md). Registered for [CASE-tmpx4tix](../cases.d/CASE-tmpx4tix.md).

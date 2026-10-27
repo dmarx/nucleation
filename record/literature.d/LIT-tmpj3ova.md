@@ -35,4 +35,4 @@ Not read. No abstract was seen; see the summary.
 
 ## Why this is here
 
-Adjacent material. A1 named "multitype branching processes" as a tool for the record's questions and cited no work, and no work on endosymbiosis that uses them was found. This is a standard reference for the tool. With two types it can model a collective whose host and symbiont reproduce at different rates, which is the setting of LIT-1570's cohesion.
+Adjacent material. A1 named "multitype branching processes" as a tool for the record's questions and cited no work, and no work on endosymbiosis that uses them was found. This is a standard reference for the tool. With two types it can model a collective whose host and symbiont reproduce at different rates, which is the setting of [LIT-1570](LIT-1570.md)'s cohesion.

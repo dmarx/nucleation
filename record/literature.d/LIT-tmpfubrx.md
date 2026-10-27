@@ -35,4 +35,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-Adjacent material. A2 answered "Why does a partnership persist?" with "Mutualism theory, ecological dynamics, multilevel selection" and named no work. The record holds the theory of cooperation within species (LIT-498, LIT-501) but no synthesis between species. This is the standard one, and its byproduct-benefit route is the one the Black Queen dependencies (LIT-1568) take.
+Adjacent material. A2 answered "Why does a partnership persist?" with "Mutualism theory, ecological dynamics, multilevel selection" and named no work. The record holds the theory of cooperation within species ([LIT-498](LIT-498.md), [LIT-501](LIT-501.md)) but no synthesis between species. This is the standard one, and its byproduct-benefit route is the one the Black Queen dependencies ([LIT-1568](LIT-1568.md)) take.

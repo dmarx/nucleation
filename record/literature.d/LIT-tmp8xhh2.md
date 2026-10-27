@@ -35,4 +35,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-The earlier statement of the mito-late explanation, "cellular complexity preceding mitochondrial acquisition", which A1 named and did not cite. LIT-1566 and LIT-1561 continue its argument, and Gabaldón is senior author on the latter. Its branch-length method has been disputed, and a reading should find where.
+The earlier statement of the mito-late explanation, "cellular complexity preceding mitochondrial acquisition", which A1 named and did not cite. [LIT-1566](LIT-1566.md) and [LIT-1561](LIT-1561.md) continue its argument, and Gabaldón is senior author on the latter. Its branch-length method has been disputed, and a reading should find where.

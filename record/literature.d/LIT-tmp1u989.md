@@ -35,4 +35,4 @@ Not read. No abstract was seen; see the summary.
 
 ## Why this is here
 
-A1 named "endosymbiotic gene transfer to the host nucleus" as one of the changes that make endosymbionts into organelles, and A2 listed it as a mechanism. Neither cited a work. This is the review that accounts for the mechanism, and gene distribution (G) in QUESTION-277 rests on it.
+A1 named "endosymbiotic gene transfer to the host nucleus" as one of the changes that make endosymbionts into organelles, and A2 listed it as a mechanism. Neither cited a work. This is the review that accounts for the mechanism, and gene distribution (G) in [QUESTION-277](../questions.d/QUESTION-277.md) rests on it.

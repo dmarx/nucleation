@@ -36,4 +36,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-A1 proposed a CASE for aphid–*Buchnera*, the obligate insect–bacterial association, and the record held *Buchnera* only through NOTE-114. This is the founding genome paper, registered as the primary source for CASE-tmpoa9h4. The abstract says the mutualism "is so obligate that neither can reproduce independently". That is mutual dependence in the sense of LIT-1570.
+A1 proposed a CASE for aphid–*Buchnera*, the obligate insect–bacterial association, and the record held *Buchnera* only through [NOTE-114](../notes.d/NOTE-114.md). This is the founding genome paper, registered as the primary source for [CASE-tmpoa9h4](../cases.d/CASE-tmpoa9h4.md). The abstract says the mutualism "is so obligate that neither can reproduce independently". That is mutual dependence in the sense of [LIT-1570](LIT-1570.md).

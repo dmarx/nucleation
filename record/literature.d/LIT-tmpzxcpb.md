@@ -35,4 +35,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-A2 said *Paulinella*'s chromatophores "acquired photosynthetic cyanobacterial descendants independently of the ancient plastid endosymbiosis" and have undergone genome reduction. Its citation went to a search result, not a named work. This is the primary source for the independence and the reduction, registered for CASE-tmpowpq1 beside LIT-1557's import.
+A2 said *Paulinella*'s chromatophores "acquired photosynthetic cyanobacterial descendants independently of the ancient plastid endosymbiosis" and have undergone genome reduction. Its citation went to a search result, not a named work. This is the primary source for the independence and the reduction, registered for [CASE-tmpowpq1](../cases.d/CASE-tmpowpq1.md) beside [LIT-1557](LIT-1557.md)'s import.

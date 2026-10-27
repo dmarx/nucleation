@@ -36,4 +36,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-The second of the two works behind A2's unnamed "other cicadas show extensive genome fragmentation", with LIT-tmpnzwyn. Registered for CASE-tmpx4tix.
+The second of the two works behind A2's unnamed "other cicadas show extensive genome fragmentation", with [LIT-tmpnzwyn](LIT-tmpnzwyn.md). Registered for [CASE-tmpx4tix](../cases.d/CASE-tmpx4tix.md).

@@ -35,4 +35,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-Adjacent material, with LIT-tmpmnpe8, for A1's unnamed "population-genetic models of gene loss". It supplies the mutational half of A2's "drift-associated degradation": what loses the gene once selection stops holding it.
+Adjacent material, with [LIT-tmpmnpe8](LIT-tmpmnpe8.md), for A1's unnamed "population-genetic models of gene loss". It supplies the mutational half of A2's "drift-associated degradation": what loses the gene once selection stops holding it.

@@ -129,33 +129,33 @@ however, constrain what a successful theory of individuality must explain."
 Six documented cases now hold the systems the question names. All are
 Proposed, because their sources are unread.
 
-- Aphid–*Buchnera* (CASE-tmpoa9h4): dependence produced largely by drift.
-- The mealybug's nested symbionts (CASE-tmpir76a): genes from third
+- Aphid–*Buchnera* ([CASE-tmpoa9h4](../cases.d/CASE-tmpoa9h4.md)): dependence produced largely by drift.
+- The mealybug's nested symbionts ([CASE-tmpir76a](../cases.d/CASE-tmpir76a.md)): genes from third
   parties, and constituents replaced.
-- *Hodgkinia*'s splitting in cicadas (CASE-tmpx4tix): more parts and more
+- *Hodgkinia*'s splitting in cicadas ([CASE-tmpx4tix](../cases.d/CASE-tmpx4tix.md)): more parts and more
   dependence with no new function, and a host that compensates at
   transmission.
-- *Paulinella* (CASE-tmpowpq1) and the nitroplast (CASE-tmp30dzl): control
+- *Paulinella* ([CASE-tmpowpq1](../cases.d/CASE-tmpowpq1.md)) and the nitroplast ([CASE-tmp30dzl](../cases.d/CASE-tmp30dzl.md)): control
   through gene transfer and import.
-- *Monocercomonoides* (CASE-tmpa087v): an organelle lost.
+- *Monocercomonoides* ([CASE-tmpa087v](../cases.d/CASE-tmpa087v.md)): an organelle lost.
 
 The exchange named several things without citing a work. Works now
 registered for each:
 
-- **Gene transfer to the nucleus:** LIT-tmp1u989.
-- **Host compensation:** LIT-tmp4u7hy.
-- **Population-genetic models of gene loss:** LIT-tmpmnpe8 and
-  LIT-tmprmgys.
-- **Metabolic-network constraints:** LIT-tmp01c3k.
-- **Multitype branching processes:** LIT-tmpj3ova. This is a general text;
+- **Gene transfer to the nucleus:** [LIT-tmp1u989](../literature.d/LIT-tmp1u989.md).
+- **Host compensation:** [LIT-tmp4u7hy](../literature.d/LIT-tmp4u7hy.md).
+- **Population-genetic models of gene loss:** [LIT-tmpmnpe8](../literature.d/LIT-tmpmnpe8.md) and
+  [LIT-tmprmgys](../literature.d/LIT-tmprmgys.md).
+- **Metabolic-network constraints:** [LIT-tmp01c3k](../literature.d/LIT-tmp01c3k.md).
+- **Multitype branching processes:** [LIT-tmpj3ova](../literature.d/LIT-tmpj3ova.md). This is a general text;
   no endosymbiosis work using the method was found.
-- **Mutualism theory:** LIT-tmpfubrx.
+- **Mutualism theory:** [LIT-tmpfubrx](../literature.d/LIT-tmpfubrx.md).
 - **Host control and within-collective conflict, the S and C dimensions:**
-  Frank's two models, LIT-tmpt00nh and LIT-tmpi201p.
-- **The eukaryogenesis scenarios A1 listed:** syntrophy (LIT-tmp9k032,
-  LIT-tmp4y7ls), and complexity before the mitochondrion (LIT-tmp8xhh2).
+  Frank's two models, [LIT-tmpt00nh](../literature.d/LIT-tmpt00nh.md) and [LIT-tmpi201p](../literature.d/LIT-tmpi201p.md).
+- **The eukaryogenesis scenarios A1 listed:** syntrophy ([LIT-tmp9k032](../literature.d/LIT-tmp9k032.md),
+  [LIT-tmp4y7ls](../literature.d/LIT-tmp4y7ls.md)), and complexity before the mitochondrion ([LIT-tmp8xhh2](../literature.d/LIT-tmp8xhh2.md)).
 
-LIT-tmpi201p makes a point that bears on the answer. Reproductive cohesion
+[LIT-tmpi201p](../literature.d/LIT-tmpi201p.md) makes a point that bears on the answer. Reproductive cohesion
 (R) can be imposed by the host's control (C), by sequestering a germ line
 of symbionts. If so, the two dimensions are not independent, and an answer
 must say which drives which.

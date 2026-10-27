@@ -36,4 +36,4 @@ Not read. The summary is drawn from the abstract. A reading should check it firs
 
 ## Why this is here
 
-A2 said "other cicadas show extensive genome fragmentation" and named no work. Its search results point to this paper and LIT-tmpdkj4h, the two that report fragmentation in *Magicicada*. Registered for CASE-tmpx4tix.
+A2 said "other cicadas show extensive genome fragmentation" and named no work. Its search results point to this paper and [LIT-tmpdkj4h](LIT-tmpdkj4h.md), the two that report fragmentation in *Magicicada*. Registered for [CASE-tmpx4tix](../cases.d/CASE-tmpx4tix.md).
