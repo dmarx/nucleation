@@ -1,0 +1,261 @@
+---
+status: Read
+paper: LIT-1574
+title: 'Karnkowska et al. — The oxymonad genome displays canonical eukaryotic complexity without a mitochondrion'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the PubMed Central copy of the version of record
+    (PMC6759080, open access), fetched on 2026-10-27 as full-text XML
+    through the Europe PMC REST service and converted to text. Read: the
+    abstract, the introduction, every subsection of "Results and
+    Discussion", the conclusions, all of "Materials and Methods" (FIB-SEM,
+    ploidy, annotation, gene searching, introns, the LGT pipeline, FISH,
+    the telomere Southern blot), Table 1, and the captions of Figures
+    1–8. The figures themselves were not seen, only their captions. The
+    supplementary tables, figures and videos, which hold most of the gene
+    inventories, were not available and not read. The reference list is
+    not in the converted text. Checks re-derived here: the orthogroup
+    percentages (1,688, 1,564, 1,057 and 1,065 of 2,031 give 83%, 77%,
+    52% and 52%), the share of analysed introns that are ancestral (65 of
+    201, 32%), introns per gene (31,693 / 16,768 = 1.9), TATA-like
+    promoters (3,374 / 6,509 = 52%), annotated genes (6,476 / 16,768 =
+    39%) and the LGT count (174 − 71 = 103) all hold. The scaffold count
+    is 2,095 in the text and 2,092 in Table 1, which the three removed
+    contaminant scaffolds explain. Three figures do not reconcile: the
+    stated SNP density of about 0.04 per kb against 5,150 SNPs over a
+    74.7 Mb assembly (0.069 per kb, unless the density was taken over a
+    covered subset, which the paper does not say); 1,172 manually curated
+    genes in the results against 1,137 in the methods; and the alternative
+    root positions cited as supplementary figure S3 in the results and S4
+    in the methods. None bears on the conclusions.
+date: '2026-10-27'
+summary: >-
+  An inventory of the draft genome of Monocercomonoides exilis, an
+  oxymonad gut commensal and the only well-studied eukaryote with no
+  mitochondrion. Apart from the mitochondrion, peroxisomes and the
+  machinery for degrading them, nothing in the cell looks reduced: about
+  75 Mb, 16,768 genes, 31,693 introns, and canonical systems for DNA
+  replication and repair, transcription, the cytoskeleton, membrane
+  trafficking and autophagy. It has kept more ancestral eukaryotic
+  protein families than the parasitic metamonads. The only changes the
+  authors tie to the loss are two preadaptations, the SUF system for
+  Fe–S clusters, which all examined relatives share, and the loss of the
+  glycine cleavage system and SHMT, plus the loss of mitophagy. No gene
+  was found that compensates for the absence. The work is homology
+  searches on a draft genome, with two cells imaged by FIB-SEM.
+---
+<!-- inactive-ok-file: THEORY-tmp247k7 — Proposed; filed from this reading -->
+<!-- inactive-ok-file: QUESTION-277 CASE-168 LIT-1567 LIT-1595 THEORY-tmp74xnn — Open, Proposed, Unfetched or Deferred; the question, case, account and unread works this reading is set beside, nothing here rests on them -->
+
+# NOTE-tmpuq8at: Karnkowska et al. — The oxymonad genome displays canonical eukaryotic complexity without a mitochondrion
+
+## Contribution
+
+The 2016 paper (LIT-1567, unread) showed that *M. exilis* has no
+mitochondrion. This one asks what the rest of the cell did about it. The
+answer is almost nothing. The genome is not reduced, the cellular systems
+are those of an ordinary eukaryote, and the only changes linked to the
+loss are two that came before it and one that went with it. A complete
+loss of the organelle did not cascade through the cell.
+
+## Key insight
+
+The organelle went once it had no job left, and its going cost the rest
+of the cell nothing visible. The authors sort changes into
+"preadaptations, which subsequently made mitochondria dispensable",
+"functions lost concomitantly with mitochondria", and "postadaptations
+that evolved to compensate". They find two preadaptations, one
+concomitant loss and no postadaptations: "no clear postadaptations to
+the amitochondriate cell organization were revealed". The first
+preadaptation, SUF in place of the mitochondrial ISC pathway, is shared
+by "all examined Preaxostyla", including relatives that still have
+mitochondrion-related organelles. So that replacement did not by itself
+end the organelle. The loss of the glycine cleavage system and SHMT,
+which "removed another essential function from the MRO", came later,
+"after the split from the P. pyriformis lineage".
+
+## Assumptions
+
+- **Absence from a draft genome is absence from the cell.** The genome is
+  in 2,092 scaffolds. Genes were found by BLAST and HMMER against
+  reference proteins, so a highly divergent gene could be missed.
+- **No organelle was seen, so none is there.** FIB-SEM of two cells found
+  no mitochondria or MROs, but "the resolution of the microscopy could
+  still allow for undetected highly reduced mitosomes".
+- **The ancestor had a mitochondrion.** This follows from MROs in its
+  relatives (Figure 1c, from Leger et al. 2017), and is not re-tested.
+- **Only *M. exilis*-specific changes count as linked to the loss.**
+  Even these "may reflect adaptation to anaerobiosis or endobiotic
+  lifestyle".
+- **Complexity is measured by inventory.** Gene counts, orthogroup
+  overlap with *Naegleria*, intron density and pathway completeness
+  stand in for cellular complexity. Function is inferred from homology,
+  with no experiment, as the authors say: confirming structures "must
+  await development of a transfection system".
+
+## Key results
+
+- **The organism.** A bacterivorous tetraflagellate, a "putative
+  commensal" in the gut of caviomorph rodents. No conspicuous Golgi and
+  no mitochondria by TEM and FIB-SEM. The ER sometimes forms stacks that
+  look like Golgi but carry ribosomes.
+- **Genome (Table 1).** 74.7 Mb assembly, 36.8% GC, 16,768 protein-coding
+  genes, 31,693 introns, 153 tRNA genes, about 50 rDNA units. Probably
+  monoploid. TTAGGG telomeres; about 13 telomeric signals per nucleus,
+  "suggesting the presence of 6 or 7 chromosomes". 39% of genes have a
+  putative function.
+- **Less reduced than its relatives.** Of 2,031 orthogroups present in
+  *M. exilis*, 83% are shared with *Naegleria*, 77% with *Trichomonas*
+  and 52% with each diplomonad. "M. exilis has lost fewer ancestral
+  eukaryotic proteins than other metamonads." Parasitic metamonads have
+  4 to 65 introns; *M. exilis* has tens of thousands, more than 30% of the
+  analysed ones inherited from the last eukaryotic common ancestor, "a
+  proportion similar to other eukaryotes" (Figure 3).
+- **Canonical systems.** All four core histones and H1; all of
+  replication protein A, which most metamonads lack or reduce; base and
+  nucleotide excision repair "most complete" among metamonads;
+  homologous recombination; all general transcription factors including
+  TFIIA, with TATA-like motifs in 52% of promoters; diphthamide synthesis.
+- **Cytoskeleton.** "Relatively canonical", except no myosin and no
+  dynactin, both shared with other metamonads. The kinetochore is
+  reduced (15 of 70 orthologs) like other metamonads'.
+- **Endomembranes (Figure 4).** "A relatively canonical complement",
+  with expansions: nine Rab7 and a new clade of nine divergent Rab7-like
+  paralogs with signs of birth-and-death evolution, eight VAMP7, seven
+  Rab32. Candidate multivesicular bodies and omegasome-like membranes in
+  FIB-SEM images.
+- **Metabolism.** ATP from glycolysis, the arginine deiminase pathway and
+  other amino-acid catabolism. No oxidative phosphorylation, no TCA
+  cycle, no oxidative pentose phosphate phase. No de novo purine or
+  pyrimidine synthesis, so nucleotides are salvaged from the gut. A
+  full set of essential Fe–S proteins (70 candidates), supplied by the
+  cytosolic SUF and CIA systems. 103 genes likely acquired by lateral
+  transfer from prokaryotes, 17 of 49 in amino-acid metabolism.
+- **What went with the mitochondrion.**
+  - Peroxisomes are absent (only Pex19 found), but peroxisome loss is
+    common in anaerobes, so it "cannot be attributed to the loss of
+    mitochondria".
+  - Mitophagy and pexophagy proteins are absent: "an example of a system
+    likely lost together with mitochondria".
+  - Among mitochondrial-dynamics proteins, *M. exilis* lacks a second
+    dynamin-related protein that its MRO-bearing relatives have. "It is
+    tempting to speculate" that it divided their MROs.
+  - Proteins with mitochondrial roles elsewhere are kept, presumably for
+    other jobs: two dynamins, MSTO1, Vps13 (four paralogs), Vps39, and
+    calcium transporters in normal numbers.
+- **No compensating genes.** Of the genes unique to *M. exilis*, 1,126
+  have a function and none is "clearly related to the loss of
+  mitochondrial function".
+- **The conclusion.** *M. exilis* is "living evidence that complex
+  amitochondriate eukaryotic cell is a viable cell type", and such cells
+  "could have evolved during the evolutionary process of eukaryogenesis
+  before the acquisition of the mitochondrion" (citing Hampl et al. 2019).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | *M. exilis*'s genome is as complex as other eukaryotes' and less reduced than the parasitic metamonads' | moderate to strong | genome statistics, orthogroup overlap, intron analysis over 100 genes and 34 species; a draft assembly |
+| C2 | Its cytoskeleton, endomembranes, nuclear machinery and biosynthesis are canonical | moderate | homology searches, mostly in supplementary tables not read here; no functional test |
+| C3 | Replacement of ISC by SUF and loss of GCS and SHMT were preadaptations that made the mitochondrion dispensable | moderate | SUF shared by all examined Preaxostyla; GCS and SHMT in the MRO of *P. pyriformis*; the order is inferred from the tree |
+| C4 | Mitophagy was lost with the mitochondrion; nothing else was | moderate | absence of mitophagy orthologs; the second DRP is speculation; the authors note mitophagy machinery has not been sampled deeply |
+| C5 | No postadaptation compensates for the absence of the mitochondrion | moderate | a search of unique genes with functions; an absence, limited by annotation |
+| C6 | A complex eukaryotic cell can exist without a mitochondrion, so such cells could have existed before it | strong for the first part, weak for the second | the first follows from the organism; the second is an inference from a secondary loss to an ancestral state |
+
+## Concepts
+
+- **Amitochondriate**: lacking any mitochondrion or MRO, as opposed to
+  having a reduced one (hydrogenosome, mitosome).
+- **MRO**: mitochondrion-related organelle, a reduced mitochondrion of
+  anaerobes.
+- **Preadaptation / concomitant loss / postadaptation**: the authors'
+  three classes of change around an organelle's loss: before it and
+  making it possible, at the same time, and after it compensating.
+- **SUF, ISC, CIA**: Fe–S cluster assembly systems. ISC is mitochondrial
+  and otherwise "considered to be an essential house-keeping pathway";
+  SUF is the bacterial-type system that replaced it here; CIA is the
+  cytosolic system.
+- **Preaxostyla**: oxymonads plus the free-living trimastigids, such as
+  *Paratrimastix pyriformis*, which have MROs.
+
+## Connections
+
+It extends the 2016 report (LIT-1567, unread), which found the SUF
+system and no hallmark mitochondrial proteins. Its eukaryogenesis
+remark bears on the "complexity before the mitochondrion" scenario that
+QUESTION-277 lists with LIT-1595, unread. It does not cite the
+endosymbiosis literature on gene loss and dependence, and says nothing
+about individuality.
+
+## Bearing on the record
+
+- **CASE-168.** The case says the mitochondrion was lost "once a
+  bacterial Fe–S system acquired by lateral transfer replaced the
+  organelle's one indispensable job". The reading corrects that in two
+  ways.
+  - SUF replaced ISC in "all examined Preaxostyla", including relatives
+    that kept MROs. So SUF was not enough by itself.
+  - A second essential function, the glycine cleavage system with SHMT,
+    was still in the MRO of the closest relative and was lost later in
+    the *M. exilis* line. The paper calls both preadaptations.
+
+  The "lateral transfer" origin of SUF is stated in the 2016 paper, not
+  argued in this one. The case's "first eukaryote known to lack any form
+  of mitochondrion" is supported, with the paper's caveat that "highly
+  reduced mitosomes" below FIB-SEM resolution are not excluded, and its
+  note that relatives may share the status.
+- **QUESTION-277.** The question uses this system as a negative
+  control: "losing genes is not the same as losing function, losing
+  autonomy or gaining integration". The reading supports a more exact
+  version. The organelle's functions were moved one at a time, by a
+  gene from bacteria (SUF) and by losing the need (GCS), until it had
+  none. Then the organelle went, and the rest of the cell was
+  unaffected. In the question's terms, G was redistributed away from the
+  partner (to the host nucleus and a third party) before D on the
+  partner fell to zero. That is the host-compensation route, with genes
+  from a third lineage, run to dissolution. The mapping is mine; the
+  paper does not use these terms.
+- **Dependence moved, not vanished.** *M. exilis* is a gut commensal
+  that salvages its nucleotides from its environment, and many of its
+  changes are put down to "the microaerophilic and endobiotic niche". It
+  lost an internal partner and depends on a host gut. The inference is
+  mine and the paper does not draw it.
+- **THEORY-tmp74xnn.** Sørensen et al. describe organelles made by
+  moving functions onto host-encoded proteins. This is the same move run
+  past the end: once no function needs the compartment, it can go.
+- Filed as THEORY-tmp247k7. No instruction for machine-learning
+  practice.
+
+## Limitations
+
+- **One draft genome and two imaged cells.** The paper says so of the
+  microscopy.
+- **Inventory, not function.** Every system is inferred from homology.
+  Most gene lists are in supplementary tables that were not read here.
+- **Absence of evidence.** "No postadaptation" and "nothing else lost"
+  are negative results bounded by annotation; 60% of gene models are
+  hypothetical proteins.
+- **Comparators.** The comparison set is four metamonads and *Naegleria*.
+  The free-living *Kipferlia* genome came too late to include, and the
+  authors say it may move where intron gains and losses are placed.
+- **Timing is inferred.** That SUF and GCS loss came before the
+  organelle's loss rests on their distribution among relatives, not on
+  dating.
+- **The eukaryogenesis remark is a leap.** A secondary loss in a lineage
+  that already had a complex cell shows such a cell can persist without
+  mitochondria. It does not show one arose without them.
+
+## Open questions
+
+- Do other oxymonads lack mitochondria too? The paper says it "may hold
+  true" from limited cytology.
+- What did the last MRO in the *M. exilis* line still do, after GCS and
+  SHMT were gone? The paper names no remaining function.
+- Is there a reduced mitosome below FIB-SEM resolution? Proteomics or a
+  tagged marker would settle it, and both await a transfection system.
+- Did the gut niche, with nucleotides and amino acids to hand, make the
+  organelle cheaper to lose? The paper sets niche adaptation and
+  mitochondrial loss side by side and does not join them.
