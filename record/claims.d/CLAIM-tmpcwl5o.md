@@ -29,9 +29,9 @@ complements:
 summary: >-
   A4's claim candidate from the exchange "About the Chagossians" of
   2026-10-26, "Resource restoration does not imply organizational
-  restoration", which the first filing declined because CASE-111
+  restoration", which the first filing declined because [CASE-111](../cases.d/CASE-111.md)
   already derives it; the owner asked for it to be filed as a claim with
-  its connection to the case. Demonstrated by CASE-111's normal form: in
+  its connection to the case. Demonstrated by [CASE-111](../cases.d/CASE-111.md)'s normal form: in
   the bistable range, returning the parameter to its pre-collapse value
   leaves maintenance at zero. The edge: a possibility shown in a model,
   not a finding about any grant program, people or institute, and a slow
@@ -43,14 +43,14 @@ summary: >-
 ## The claim
 
 A4 of the exchange of 2026-10-26, on the owner's case of federal science
-and education (CASE-tmpn75cv): "**Resource restoration does not imply
+and education ([CASE-tmpn75cv](../cases.d/CASE-tmpn75cv.md)): "**Resource restoration does not imply
 organizational restoration.** When a disruption destroys relationships or
 transmission mechanisms necessary for a capability, returning the original
 resource conditions need not reinstate that capability." Its formal
-ground, as A4 gave it: "CASE-111 demonstrates a possible hysteretic
+ground, as A4 gave it: "[CASE-111](../cases.d/CASE-111.md) demonstrates a possible hysteretic
 mechanism."
 
-The demonstration is CASE-111's. In ḃ = μb + κb² − b³ with κ > 0, b the
+The demonstration is [CASE-111](../cases.d/CASE-111.md)'s. In ḃ = μb + κb² − b³ with κ > 0, b the
 activity that maintains a boundary and μ the conditions that sustain it,
 both b = 0 and the maintained state b₊ are stable for −κ²/4 < μ < 0.
 Lower μ past −κ²/4 and maintenance collapses to 0. Return μ to any value
@@ -64,27 +64,27 @@ Read as a claim, the construction says three things:
 
 - **Conditions do not fix the outcome.** In the bistable range, two
   systems under the same conditions can differ because one kept its
-  maintaining activity and the other lost it (CASE-111's "Recovery can
+  maintaining activity and the other lost it ([CASE-111](../cases.d/CASE-111.md)'s "Recovery can
   depend on history").
 - **Return is not reversal.** Undoing the change in conditions is not the
   inverse of the change's effect. A3 put the same point for the
   Chagossians as R∘D ≠ id.
 - **Restoration can cost more than preservation.** Keeping the capacity
   needed μ above −κ²/4; getting it back needs μ above 0 or a direct
-  intervention on b. CASE-111 states this consequence in its own words;
+  intervention on b. [CASE-111](../cases.d/CASE-111.md) states this consequence in its own words;
   this claim makes it citable.
 
 What makes it a claim about a capacity and not only a state is that b is
 an activity that reproduces itself (κb², repair reinforcing repair). That
-is CLAIM-099's distinction, between maintaining a regime of action and
+is [CLAIM-099](CLAIM-099.md)'s distinction, between maintaining a regime of action and
 maintaining the capacity to govern among regimes, given a mechanism for
 the loss of the second; it is also why the claim complements
-CLAIM-tmpdhkhm, where what the challenged act changes is the arrangement
+[CLAIM-tmpdhkhm](CLAIM-tmpdhkhm.md), where what the challenged act changes is the arrangement
 through which a system can be corrected.
 
 ## What it does not say
 
-- **That any institution obeys the normal form.** CASE-111: "This is a
+- **That any institution obeys the normal form.** [CASE-111](../cases.d/CASE-111.md): "This is a
   proposed minimal model, not an empirical fit," and nothing measures μ
   or κ. Whether a laboratory, a people or an institute has a
   self-reinforcing maintenance with a threshold is an empirical question
@@ -92,7 +92,7 @@ through which a system can be corrected.
 - **That slow recovery shows a threshold.** A4: "The empirical challenge
   is to establish whether particular systems exhibit such path
   dependence, rather than merely labeling any slow recovery as
-  hysteresis." THEORY-136: an abrupt change can come from a stepwise
+  hysteresis." [THEORY-136](../theory.d/THEORY-136.md): an abrupt change can come from a stepwise
   driver or a simple threshold, and only hysteresis, dependence on the
   initial state, or a lasting shift after a temporary disturbance comes
   close to showing alternative stable states.
@@ -109,8 +109,8 @@ A4's empirical requirement: "Find documented instances in which resources
 were reinstated but independently measured capabilities failed to recover
 because the supporting organization had been lost." The candidates on
 file, none yet measured: reinstated grants whose teams had dispersed
-(CASE-tmpn75cv), the return of USIP's leadership in May 2025 with about 25
-staff, funds inaccessible and offices closed (CASE-tmps5qp3), and the
+([CASE-tmpn75cv](../cases.d/CASE-tmpn75cv.md)), the return of USIP's leadership in May 2025 with about 25
+staff, funds inaccessible and offices closed ([CASE-tmps5qp3](../cases.d/CASE-tmps5qp3.md)), and the
 prospect of resettlement on the Chagos islands after half a century
-(CASE-tmpelq9w). In each the test is THEORY-136's: a lasting shift after
+([CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md)). In each the test is [THEORY-136](../theory.d/THEORY-136.md)'s: a lasting shift after
 the condition is restored, not a slow return.
