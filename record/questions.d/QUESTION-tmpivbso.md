@@ -178,55 +178,55 @@ The core circuits works, registered and read on 2026-10-26 at the owner's
 request, supply the question's units, instruments for its circuit-only
 arm, and cautions for both arms. None of them studies training.
 
-- **Where the units come from.** Zoom In (LIT-tmplq91w) names features
+- **Where the units come from.** Zoom In ([LIT-tmplq91w](../literature.d/LIT-tmplq91w.md)) names features
   and circuits as the units of trained networks, and universality as the
   hypothesis that they recur across models, with evidence it calls
-  "anecdotal" (THEORY-tmpx97zh, THEORY-tmpgz1nk). The question couples
+  "anecdotal" ([THEORY-tmpx97zh](../theory.d/THEORY-tmpx97zh.md), [THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md)). The question couples
   exactly these two units.
 - **Circuit-only measurements, computable at every checkpoint.**
   - The framework's composition scores and eigenvalue statistics
-    (LIT-tmp9dono, NOTE-tmpx60d8) are read from weights alone, and its
-    path expansion is exact (THEORY-tmphm85g). Their fragility is on
+    ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md), [NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md)) are read from weights alone, and its
+    path expansion is exact ([THEORY-tmphm85g](../theory.d/THEORY-tmphm85g.md)). Their fragility is on
     record too: the authors published a correction to their own
     composition diagrams (a cyclic permutation inside a Frobenius norm).
-  - ACDC (LIT-tmpoku9b) runs on the same two-layer attention-only
+  - ACDC ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md)) runs on the same two-layer attention-only
     induction setting and finds its heads.
-  - AtP and AtP* (LIT-tmp4de8g) make node-level patching cheap enough to
+  - AtP and AtP* ([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) make node-level patching cheap enough to
     run per checkpoint, and Pythia releases its checkpoints
-    (THEORY-tmpo1u9l).
-  - Causal scrubbing's recovered loss (LIT-tmpqtkua) is a candidate "how
+    ([THEORY-tmpo1u9l](../theory.d/THEORY-tmpo1u9l.md)).
+  - Causal scrubbing's recovered loss ([LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md)) is a candidate "how
     much does the circuit explain" score per checkpoint.
-  - Transcoder or cross-layer-transcoder weights (LIT-tmptgo43,
-    LIT-tmpsuo6l) describe circuits through MLP layers, but neither paper
+  - Transcoder or cross-layer-transcoder weights ([LIT-tmptgo43](../literature.d/LIT-tmptgo43.md),
+    [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md)) describe circuits through MLP layers, but neither paper
     matches features across checkpoints, and the cost is large (about 210
-    H100-hours for 2M features on Gemma 2 2B, NOTE-tmpn9fx3).
+    H100-hours for 2M features on Gemma 2 2B, [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md)).
 - **Cautions for the circuit arm.**
   - Knockouts reveal heads that ordinary operation hides: in IOI, backup
     name movers recover most of the effect when the name movers are
-    ablated (THEORY-tmpccb5u). A head "born" at a checkpoint may have been
+    ablated ([THEORY-tmpccb5u](../theory.d/THEORY-tmpccb5u.md)). A head "born" at a checkpoint may have been
     there as a backup.
   - The metric, the ablation type and the visiting order must be held
     fixed across checkpoints: a greedy circuit is one of several
     sufficient subgraphs, and which one is returned depends on the order
-    (THEORY-tmp1bwxc, THEORY-tmp77xju). Attribution misses concentrate in
-    queries and keys behind a saturated softmax (THEORY-tmpo1u9l).
+    ([THEORY-tmp1bwxc](../theory.d/THEORY-tmp1bwxc.md), [THEORY-tmp77xju](../theory.d/THEORY-tmp77xju.md)). Attribution misses concentrate in
+    queries and keys behind a saturated softmax ([THEORY-tmpo1u9l](../theory.d/THEORY-tmpo1u9l.md)).
   - Attribution graphs freeze attention patterns, so they cannot see
     induction and cannot serve as the circuit-only arm in the induction
-    setting (NOTE-tmpn9fx3).
+    setting ([NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md)).
 - **Cautions for the feature arm.**
   - Sparse-autoencoder features are a resolution set by dictionary width
-    (THEORY-tmpz7jrx), and which concepts get a feature depends on their
-    frequency relative to the dictionary's size (THEORY-tmplbzq5). An
+    ([THEORY-tmpz7jrx](../theory.d/THEORY-tmpz7jrx.md)), and which concepts get a feature depends on their
+    frequency relative to the dictionary's size ([THEORY-tmplbzq5](../theory.d/THEORY-tmplbzq5.md)). An
     apparent split across checkpoints may be the dictionary's.
   - Features can be spread across layers (Templeton et al.'s cross-layer
-    superposition, NOTE-tmpfpjyr), which confounds tracking within one
+    superposition, [NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md)), which confounds tracking within one
     layer.
   - Circuits over features are faithful only with the dictionaries' error
-    terms kept (THEORY-tmpuogp2), so a circuit arm built on features must
+    terms kept ([THEORY-tmpuogp2](../theory.d/THEORY-tmpuogp2.md)), so a circuit arm built on features must
     carry the remainder.
 - **A concrete developmental target.** Sparse feature circuits find
   subject–verb agreement across a relative clause carried by two pathways
-  that converge without fully intersecting (THEORY-tmpyawf9). When the
+  that converge without fully intersecting ([THEORY-tmpyawf9](../theory.d/THEORY-tmpyawf9.md)). When the
   clause-boundary pathway forms relative to the direct one is a question
   the coupled description could be asked to predict.
 

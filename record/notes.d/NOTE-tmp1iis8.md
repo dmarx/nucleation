@@ -180,10 +180,10 @@ on Geiger et al.'s causal abstraction, and on Nanda and Lieberum's mean
 ablation. Meng et al.'s ROME ([LIT-tmpajpeb](../literature.d/LIT-tmpajpeb.md)) is cited as kindred work. Its
 circuit is the basis of later benchmarks, among them MIB's IOI tasks
 ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)) and the InterpBench model MIB uses, and of Makelov et al.'s
-illusion ([LIT-968](../literature.d/LIT-968.md)). Read with it on 2026-10-26: ACDC (LIT-tmpoku9b) takes it
+illusion ([LIT-968](../literature.d/LIT-968.md)). Read with it on 2026-10-26: ACDC ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md)) takes it
 as a ground truth and recovers nine of its heads automatically; causal
-scrubbing (LIT-tmpqtkua) names it among the "ablate, then measure" checks
-it generalizes; AtP* (LIT-tmp4de8g) runs on IOI prompt distributions.
+scrubbing ([LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md)) names it among the "ablate, then measure" checks
+it generalizes; AtP* ([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) runs on IOI prompt distributions.
 
 ## Bearing on the record
 

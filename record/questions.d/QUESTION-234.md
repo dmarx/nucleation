@@ -102,28 +102,28 @@ four facts about the instruments. None is a trained-network tie of the
 kind the question asks for.
 
 - **DAS fixes subspaces, not directions.** In Geiger et al.'s Definition
-  3 (LIT-tmpsavwt) the rotation enters an intervention only through the
+  3 ([LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md)) the rotation enters an intervention only through the
   projector onto the learned subspace, so rotations that select the same
   subspaces give identical interventions. DAS alignments are therefore
   unique at most up to rotations within the learned subspaces: a stated
   symmetry, but of the instrument, not of networks. The observation is
-  the record's (NOTE-tmpzb21n), not the paper's.
+  the record's ([NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md)), not the paper's.
 - **Causal scrubbing ties by construction** basis-related hypotheses
-  that induce the same partitions of the data (THEORY-tmpblgxz). So does
+  that induce the same partitions of the data ([THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md)). So does
   any method that scores nodes by their effect on one metric under one
   family of contrasts, sparse feature circuits among them
-  (NOTE-tmpr0gdc).
+  ([NOTE-tmpr0gdc](../notes.d/NOTE-tmpr0gdc.md)).
 - **The basis changes the verdict.** DAS's toy and its trained-network
-  results (THEORY-tmpgqlal) are THEORY-243's converse: a learned rotation
+  results ([THEORY-tmpgqlal](../theory.d/THEORY-tmpgqlal.md)) are [THEORY-243](../theory.d/THEORY-243.md)'s converse: a learned rotation
   passes where the neuron basis fails.
 - **A wide search can manufacture alignment.** On frozen random networks
-  DAS's IIA rises above chance once the layer is wide (THEORY-tmpqhbjf),
+  DAS's IIA rises above chance once the layer is wide ([THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md)),
   so a tie found by a supervised search in a wide layer would need that
   control.
 
 The source of the basis freedom in transformers, the residual stream's
 lack of a privileged basis, is stated in Elhage et al.'s framework
-(LIT-tmp9dono; THEORY-802's note of 2026-10-27). The neighbouring
+([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md); [THEORY-802](../theory.d/THEORY-802.md)'s note of 2026-10-27). The neighbouring
 question, whether two dictionaries of equal fidelity give the same
-validated circuit, is filed as QUESTION-tmpidxeb. The question is
+validated circuit, is filed as [QUESTION-tmpidxeb](QUESTION-tmpidxeb.md). The question is
 unchanged.

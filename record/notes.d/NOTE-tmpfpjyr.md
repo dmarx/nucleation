@@ -182,9 +182,9 @@ belong to the same programme ([LIT-611](../literature.d/LIT-611.md)). The probe 
 it compares itself with is the representation-engineering and
 linear-probe line. Its splitting at 1M, 4M and 34M is a second case for
 [THEORY-tmpz7jrx](../theory.d/THEORY-tmpz7jrx.md). Its feature visualizations are reused by the attribution
-graphs of Circuit Tracing (LIT-tmpsuo6l), which replace its residual-stream
+graphs of Circuit Tracing ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md)), which replace its residual-stream
 dictionary with cross-layer transcoders, and so by their companion, the
-Biology paper (LIT-tmpjvwet).
+Biology paper ([LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md)).
 
 ## Bearing on the record
 

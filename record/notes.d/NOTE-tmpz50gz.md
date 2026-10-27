@@ -197,8 +197,8 @@ Field's sparse coding stands behind it. The scaled-up sequel is
 [LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md). Circuits over its features are [LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md). The record's
 test of such features as causal units is MIB ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md),
 [THEORY-tmp4lqc8](../theory.d/THEORY-tmp4lqc8.md)), and its reading of the Gemma Scope autoencoders is
-[LIT-611](../literature.d/LIT-611.md) ([THEORY-504](../theory.d/THEORY-504.md)). Transcoders (LIT-tmptgo43), which follow its
-interpretability rubric, and cross-layer transcoders (LIT-tmpsuo6l) replace
+[LIT-611](../literature.d/LIT-611.md) ([THEORY-504](../theory.d/THEORY-504.md)). Transcoders ([LIT-tmptgo43](../literature.d/LIT-tmptgo43.md)), which follow its
+interpretability rubric, and cross-layer transcoders ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md)) replace
 its reconstructing dictionary with ones that read an MLP's input and write
 its output, so circuits can be read through MLP layers.
 

@@ -231,11 +231,11 @@ descent for the first, and neither is a crossed intervention of the kind
 
 ## Note of 2026-10-27: a redundancy the training regime may have put there
 
-Wang et al.'s IOI circuit in GPT-2 small (LIT-tmpj9tel, NOTE-tmp1iis8),
+Wang et al.'s IOI circuit in GPT-2 small ([LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md), [NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md)),
 read on 2026-10-26 at the owner's request, has backup name-mover heads
 that take over when the name movers are knocked out, so the circuit
-keeps most of its effect (THEORY-tmpccb5u). The authors explain it in one
-sentence, by dropout during training (THEORY-tmpmd4za); the reading
+keeps most of its effect ([THEORY-tmpccb5u](../theory.d/THEORY-tmpccb5u.md)). The authors explain it in one
+sentence, by dropout during training ([THEORY-tmpmd4za](../theory.d/THEORY-tmpmd4za.md)); the reading
 records the alternative that attention re-routes after the ablation. If
 the dropout account holds, the redundancy is a property the trained
 network carries whose source is a condition of its training regime, the

@@ -97,7 +97,7 @@ checkpoints per model.
 - **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md).** Presence (decoder norm) and use (indirect effect) are
   measured separately here, which the case's model could not do from its
   outputs.
-- **LIT-tmp5b0z9.** The indirect effects and their integrated-gradient
+- **[LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md).** The indirect effects and their integrated-gradient
   approximation come from Marks et al.'s sparse feature circuits, which
   ran them on the same subject–verb agreement tasks in one checkpoint
-  (THEORY-tmpuogp2).
+  ([THEORY-tmpuogp2](THEORY-tmpuogp2.md)).

@@ -122,14 +122,14 @@ the jump.
   snapshot) are a baseline the question's coupled model has to beat.
 - **[THEORY-169](THEORY-169.md).** The in-context learning here is conditioning on fixed
   weights, the case [THEORY-169](THEORY-169.md) describes for single layers.
-- **THEORY-tmpb4xka.** The same mechanism read from the weights of one
-  trained two-layer model (Elhage et al., LIT-tmp9dono): K-composition with
+- **[THEORY-tmpb4xka](THEORY-tmpb4xka.md).** The same mechanism read from the weights of one
+  trained two-layer model (Elhage et al., [LIT-tmp9dono](../literature.d/LIT-tmp9dono.md)): K-composition with
   a previous-token head. This account says when the mechanism forms; that
   one says what it is once formed.
 - **Refinements of the mechanism, not of its timing.** Causal scrubbing's
   induction result, 35% of the loss recovered by the naive
   previous-token-key hypothesis and 86% once three pathways are added,
-  held only from a summary (NOTE-tmp4zrzd); and induction at the level of
+  held only from a summary ([NOTE-tmp4zrzd](../notes.d/NOTE-tmp4zrzd.md)); and induction at the level of
   sparse-autoencoder features, in pieces, in Pythia-70M
-  (NOTE-tmpr0gdc). Neither measures when the composition becomes
+  ([NOTE-tmpr0gdc](../notes.d/NOTE-tmpr0gdc.md)). Neither measures when the composition becomes
   available.

@@ -97,6 +97,6 @@ memorizes.
 - **[QUESTION-039](../questions.d/QUESTION-039.md).** It times differentiation, not acquisition; it adds a
   per-component measure to the question's list of what can be timed.
 - **[THEORY-tmp1dufu](THEORY-tmp1dufu.md).** The same reading's account of heads changing role.
-- **LIT-tmp9dono.** Elhage et al.'s mathematical framework is where the
+- **[LIT-tmp9dono](../literature.d/LIT-tmp9dono.md).** Elhage et al.'s mathematical framework is where the
   two-layer attention-only setting and the QK/OV reading of heads used
-  here come from; its path expansion is THEORY-tmphm85g.
+  here come from; its path expansion is [THEORY-tmphm85g](THEORY-tmphm85g.md).

@@ -155,7 +155,7 @@ hyperparameter, and the paper finds the results sensitive to all of them.
 It is causal scrubbing ([LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md)) turned into a search, and its HISP
 baseline is attribution patching, which AtP* ([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) studies and
 which Syed, Rager and Conmy later found to outperform ACDC. The ground
-truths come from the IOI (LIT-tmpj9tel), Greater-Than and Docstring studies and from
+truths come from the IOI ([LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md)), Greater-Than and Docstring studies and from
 tracr. The record's later circuit work rests on its descendants: Wang et
 al.'s circuits over fine-tuning ([LIT-tmpf4hwb](../literature.d/LIT-tmpf4hwb.md), [THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)) are found
 with edge attribution patching with integrated gradients, and MIB

@@ -129,6 +129,6 @@ happens with fixed orthogonal write maps. With learnable ones it is open.
   work, and fix a basis for the weights, but only inside the paper's
   idealization, where Assumption 5 has already removed the key–query
   gauge.
-- **LIT-tmp9dono.** Elhage et al.'s mathematical framework is where the
+- **[LIT-tmp9dono](../literature.d/LIT-tmp9dono.md).** Elhage et al.'s mathematical framework is where the
   two-layer attention-only setting and the QK/OV reading of heads of the
-  paper's models come from; its path expansion is THEORY-tmphm85g.
+  paper's models come from; its path expansion is [THEORY-tmphm85g](THEORY-tmphm85g.md).

@@ -158,20 +158,20 @@ Two of the circuits works read on 2026-10-26 at the owner's request bear
 on the same freedom inside the network, where this account concerns only
 the last layer.
 
-- **The internal form.** Elhage et al.'s framework (LIT-tmp9dono,
-  NOTE-tmpx60d8) states it for the residual stream: it has no privileged
+- **The internal form.** Elhage et al.'s framework ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md),
+  [NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md)) states it for the residual stream: it has no privileged
   basis, and rotating it together with every matrix that reads from or
   writes to it leaves the model unchanged. The framework's path
-  expansion (THEORY-tmphm85g) is built from products that the rotation
+  expansion ([THEORY-tmphm85g](THEORY-tmphm85g.md)) is built from products that the rotation
   leaves alone.
 - **A dictionary is a choice of basis.** A sparse autoencoder's
   dictionary is one choice inside this freedom, fixed by sparsity, and
   the number of its units is a further choice: features split and merge
-  as the dictionary grows (THEORY-tmpz7jrx), and which concepts get a
+  as the dictionary grows ([THEORY-tmpz7jrx](THEORY-tmpz7jrx.md)), and which concepts get a
   feature depends on their frequency relative to its size
-  (THEORY-tmplbzq5). Towards Monosemanticity's agreement of features
+  ([THEORY-tmplbzq5](THEORY-tmplbzq5.md)). Towards Monosemanticity's agreement of features
   across two seeds (median activation correlation 0.72, against 0.46 for
-  neurons; NOTE-tmpz50gz) is a check that the choice reproduces, not a
+  neurons; [NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md)) is a check that the choice reproduces, not a
   proof that it is unique.
 
 The account, which concerns the final layer under softmax training, is

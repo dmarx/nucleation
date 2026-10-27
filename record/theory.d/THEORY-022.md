@@ -170,7 +170,7 @@ fixed by the group.
 
 ## Note of 2026-10-27: addition in a language model is not all Fourier
 
-Ameisen et al.'s Circuit Tracing (LIT-tmpsuo6l, NOTE-tmpn9fx3), read on
+Ameisen et al.'s Circuit Tracing ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md)), read on
 2026-10-26 at the owner's request, traces two-digit addition in Claude
 3.5 Haiku. Its features include ones-digit lookup tables (_6 + _9 →
 sum = _5), low- and moderate-precision magnitude ranges and "starts with
@@ -181,5 +181,5 @@ the two are compatible, and the language model's addition is not only
 the character products found here. The same article proves why some
 combining step is forced: a unit whose pre-activation is additively
 separable in the two operands cannot detect a sum that has two
-decompositions (THEORY-tmp7rb6m). The grokking network's products of
+decompositions ([THEORY-tmp7rb6m](THEORY-tmp7rb6m.md)). The grokking network's products of
 characters are one such step. The account is unchanged.

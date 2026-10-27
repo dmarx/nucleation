@@ -154,36 +154,36 @@ test.
 
 - **A component's role depends on its circuit.** In IOI, induction heads
   do something other than what defines them: their output serves as a
-  pointer to a position, read by the S-inhibition heads (NOTE-tmp1iis8).
+  pointer to a position, read by the S-inhibition heads ([NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md)).
 - **Locating is not identifying.** ROME's causal traces and edits find
-  where restoring or writing a hidden state helps (THEORY-tmpom5gw), not
+  where restoring or writing a hidden state helps ([THEORY-tmpom5gw](../theory.d/THEORY-tmpom5gw.md)), not
   the variable that does the work; that the edit's site stores the fact
-  is held only as a Proposed hypothesis (THEORY-tmpvugrm).
+  is held only as a Proposed hypothesis ([THEORY-tmpvugrm](../theory.d/THEORY-tmpvugrm.md)).
 - **Activity does not give role.** In Claude 3 Sonnet, a feature's
   activation predicts its ablation effect at a correlation of about 0.12,
-  attribution at about 0.81 (THEORY-tmph7ceb). Steering usually needs a
+  attribution at about 0.81 ([THEORY-tmph7ceb](../theory.d/THEORY-tmph7ceb.md)). Steering usually needs a
   feature clamped far outside its observed range, which the authors
   explain by its being "co-active with several correlated features with
-  related meanings" (NOTE-tmpfpjyr).
+  related meanings" ([NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md)).
 - **Features alone carry little; the arrangement carries the behaviour.**
   Circuits of sparse-autoencoder features recover little of subject–verb
-  agreement without the error terms (THEORY-tmpuogp2), and agreement is
-  carried by several converging pathways (THEORY-tmpyawf9), the claim's
+  agreement without the error terms ([THEORY-tmpuogp2](../theory.d/THEORY-tmpuogp2.md)), and agreement is
+  carried by several converging pathways ([THEORY-tmpyawf9](../theory.d/THEORY-tmpyawf9.md)), the claim's
   "organized relationship" in a transformer. Towards Monosemanticity
   tests activation structure and downstream role separately, and its
   shuffled-weights control shows an autoencoder finding features, mostly
-  single-token ones, in a model that has learned nothing (NOTE-tmpz50gz).
+  single-token ones, in a model that has learned nothing ([NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md)).
 - **Instruments that cannot tell correlated variables apart.** Causal
   scrubbing scores a hypothesis only through the partition of the data it
   induces, so an A-detector and a B-detector perfectly correlated on the
-  data tie (THEORY-tmpblgxz). DAS's "entailment" variable in BERT on MoNLI
-  decomposes into the two input words' identities (THEORY-tmpgqlal).
+  data tie ([THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md)). DAS's "entailment" variable in BERT on MoNLI
+  decomposes into the two input words' identities ([THEORY-tmpgqlal](../theory.d/THEORY-tmpgqlal.md)).
 - **A replacement exact at a point diverges under perturbation.** The
   cross-layer-transcoder replacement is exact on its prompt by
-  construction (THEORY-tmpbtnf0), yet its responses to perturbation agree
-  with the model one layer later and then diverge (THEORY-tmpm4ifd). A
+  construction ([THEORY-tmpbtnf0](../theory.d/THEORY-tmpbtnf0.md)), yet its responses to perturbation agree
+  with the model one layer later and then diverge ([THEORY-tmpm4ifd](../theory.d/THEORY-tmpm4ifd.md)). A
   recovered feature is not yet the variable that does the work; the
-  transcoder paper's "caught" case is one instance (NOTE-tmpbsp9v).
+  transcoder paper's "caught" case is one instance ([NOTE-tmpbsp9v](../notes.d/NOTE-tmpbsp9v.md)).
 
 ## What it does not say
 

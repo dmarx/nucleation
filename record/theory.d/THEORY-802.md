@@ -80,39 +80,39 @@ The core circuits works, read on 2026-10-26 at the owner's request, bear
 on this thesis without meeting its promote_when.
 
 - **A trained-network case, of refinement rather than of a change of
-  basis.** In BERT on MoNLI, Geiger et al.'s DAS (LIT-tmpsavwt) finds the
+  basis.** In BERT on MoNLI, Geiger et al.'s DAS ([LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md)) finds the
   entailment variable at one site and finds it decomposing there into the
-  two input words' identities (THEORY-tmpgqlal). Two high-level models
+  two input words' identities ([THEORY-tmpgqlal](THEORY-tmpgqlal.md)). Two high-level models
   pass at one site, but they are related by refinement, not by a change of
   basis crossing component boundaries, so this is not the tie the
   promote_when asks for.
 - **The verdict changes with the basis.** DAS's boolean toy fails in the
-  neuron basis and passes once rotated back (NOTE-tmpzb21n), and its
+  neuron basis and passes once rotated back ([NOTE-tmpzb21n](../notes.d/NOTE-tmpzb21n.md)), and its
   learned rotations reach IIA 1.00 where the closest axis-aligned
-  alignments reach 0.73 and 0.51 (THEORY-tmpgqlal). That supports "fixed
+  alignments reach 0.73 and 0.51 ([THEORY-tmpgqlal](THEORY-tmpgqlal.md)). That supports "fixed
   only relative to a chosen decomposition into units"; it is the converse
-  of THEORY-243, where a change of basis leaves the score unchanged.
+  of [THEORY-243](THEORY-243.md), where a change of basis leaves the score unchanged.
 - **Several sufficient circuits, at the level of components.** A greedy
   pruner of the ACDC kind keeps one input of a redundant OR gate, chosen
-  by the order it visits edges (THEORY-tmp1bwxc): the thesis's shape for
+  by the order it visits edges ([THEORY-tmp1bwxc](THEORY-tmp1bwxc.md)): the thesis's shape for
   subgraphs rather than directions, in a constructed case.
 - **Instruments that cannot see a tie.** Causal scrubbing scores a
   hypothesis only through the partition of the data it induces
-  (THEORY-tmpblgxz), and sparse feature circuits score nodes by their
-  effect on one metric under one family of contrasts (NOTE-tmpr0gdc).
+  ([THEORY-tmpblgxz](THEORY-tmpblgxz.md)), and sparse feature circuits score nodes by their
+  effect on one metric under one family of contrasts ([NOTE-tmpr0gdc](../notes.d/NOTE-tmpr0gdc.md)).
   Basis-related alignments that induce the same partitions, or the same
   effects, tie under both by construction.
 - **Where the freedom comes from in transformers.** Elhage et al.'s
-  framework (LIT-tmp9dono, NOTE-tmpx60d8) states it: the residual stream
+  framework ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md), [NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md)) states it: the residual stream
   has no privileged basis, and rotating it together with every matrix
   that reads from or writes to it leaves the model unchanged. Its path
-  expansion (THEORY-tmphm85g) is built from products that the rotation
+  expansion ([THEORY-tmphm85g](THEORY-tmphm85g.md)) is built from products that the rotation
   leaves alone, so the non-uniqueness does not touch it.
 - **Dictionaries.** Sparse-autoencoder features are a resolution set by
-  dictionary width (THEORY-tmpz7jrx), and Ameisen et al. (LIT-tmpsuo6l)
+  dictionary width ([THEORY-tmpz7jrx](THEORY-tmpz7jrx.md)), and Ameisen et al. ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md))
   concede that "there's no guarantee that the CLT features are the most
-  parsimonious way to split up the computation" (NOTE-tmpn9fx3). Whether
+  parsimonious way to split up the computation" ([NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md)). Whether
   two dictionaries of equal fidelity give the same validated circuit is
-  this thesis asked of dictionaries; it is filed as QUESTION-tmpidxeb.
+  this thesis asked of dictionaries; it is filed as [QUESTION-tmpidxeb](../questions.d/QUESTION-tmpidxeb.md).
 
 Status, title and promote_when are unchanged.

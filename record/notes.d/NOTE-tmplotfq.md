@@ -127,10 +127,10 @@ components to form new circuits".
 ## Connections
 
 It contrasts itself with Prakash et al. (2024) on entity tracking and
-Chhabra et al. (2024) on IOI (the task of LIT-tmpj9tel), where fine-tuning on tasks already done
+Chhabra et al. (2024) on IOI (the task of [LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md)), where fine-tuning on tasks already done
 well enhanced existing mechanisms, and with Jain et al. (2024) on
 procedurally defined tasks. It uses Hanna et al.'s EAP-IG, which descends from attribution patching
-(LIT-tmp4de8g) and ACDC (LIT-tmpoku9b), and builds on
+([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) and ACDC ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md)), and builds on
 LoRA, AdaLoRA and IA3. The Mechanistic Interpretability Benchmark
 ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)) independently ranks EAP-IG first among circuit localization
 methods.

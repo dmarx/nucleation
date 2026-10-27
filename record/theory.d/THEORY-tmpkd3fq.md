@@ -70,19 +70,19 @@ such as translation and template matching.
 - **The mechanism** is reverse-engineered only for attention-only models.
 
 - **An earlier statement, with no added evidence.** Elhage et al.'s
-  framework (LIT-tmp9dono, NOTE-tmpx60d8), written before the
+  framework ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md), [NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md)), written before the
   induction-heads paper, already calls induction heads "a central driver
   of in-context learning in language models of all sizes".
 - **No test from attribution graphs.** Attribution graphs freeze
   attention patterns, so they cannot see an induction head's QK step.
-  Circuit Tracing's Limitations section (LIT-tmpsuo6l, NOTE-tmpn9fx3)
+  Circuit Tracing's Limitations section ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md))
   says that on "Aunt Sally … Aunt" the graph shows only that "Sally"
   came earlier, "a kind of regression" against the attention-only
   analyses. The record's attribution-graph studies of a large
   model therefore neither support nor undercut this thesis.
 
 [THEORY-tmp8cat0](THEORY-tmp8cat0.md) holds the small attention-only case as measured, and
-THEORY-tmpb4xka the two-layer model's mechanism in its weights. Nothing in
+[THEORY-tmpb4xka](THEORY-tmpb4xka.md) the two-layer model's mechanism in its weights. Nothing in
 the record measures the large case causally.
 
 ## Why it stays Proposed

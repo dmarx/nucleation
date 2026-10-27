@@ -94,6 +94,6 @@ The promote_when above.
   make repurposing one kind, beside growth.
 - **[THEORY-279](THEORY-279.md).** Low-order structure first, then lost, is the same shape
   within a single transformer.
-- **LIT-tmp9dono.** Elhage et al.'s mathematical framework is where the
+- **[LIT-tmp9dono](../literature.d/LIT-tmp9dono.md).** Elhage et al.'s mathematical framework is where the
   two-layer attention-only setting and the QK/OV reading of heads used
-  here come from; its path expansion is THEORY-tmphm85g.
+  here come from; its path expansion is [THEORY-tmphm85g](THEORY-tmphm85g.md).

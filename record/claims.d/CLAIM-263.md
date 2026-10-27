@@ -106,15 +106,15 @@ permutation alignment.
 
 ## Note of 2026-10-27: universality, the hypothesis its test would probe
 
-Zoom In (LIT-tmplq91w, NOTE-tmplg2yz), read on 2026-10-26 at the
+Zoom In ([LIT-tmplq91w](../literature.d/LIT-tmplq91w.md), [NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md)), read on 2026-10-26 at the
 owner's request, states universality: analogous features and circuits
 form across networks trained on different data and with different
-architectures (THEORY-tmpgz1nk). That is the hypothesis this claim's test
+architectures ([THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md)). That is the hypothesis this claim's test
 would probe across models, a barrier that survives alignment marking a
 different mechanism and connection after alignment marking shared feature
 structure. Zoom In names the test the hypothesis needs and offers
 evidence it calls "anecdotal", from vision networks. The nearest
 measurement the record holds is Towards Monosemanticity's agreement of
-features across two seeds of one architecture (NOTE-tmpz50gz), which
+features across two seeds of one architecture ([NOTE-tmpz50gz](../notes.d/NOTE-tmpz50gz.md)), which
 compares features by their activations, not by the quotient this claim
 asks for. The claim is unchanged.

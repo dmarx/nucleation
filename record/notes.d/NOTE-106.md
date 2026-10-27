@@ -164,8 +164,8 @@ This is philosophy of science about interpretability. It carries no instruction 
 
 ACDC, the paper's example of circuit discovery, was registered and read
 on 2026-10-26 for the owner's request about the record's circuits
-literature (LIT-tmpoku9b, NOTE-tmp6m8zr). The reading finds that it
+literature ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md), [NOTE-tmp6m8zr](NOTE-tmp6m8zr.md)). The reading finds that it
 reproduces hand-found circuits fairly well on three language-model tasks
-(THEORY-tmp77xju), and that what it returns is one of several sufficient
+([THEORY-tmp77xju](../theory.d/THEORY-tmp77xju.md)), and that what it returns is one of several sufficient
 subgraphs, chosen by the order in which it visits edges
-(THEORY-tmp1bwxc). The reading is unchanged.
+([THEORY-tmp1bwxc](../theory.d/THEORY-tmp1bwxc.md)). The reading is unchanged.

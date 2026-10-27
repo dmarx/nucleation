@@ -150,10 +150,10 @@ SAE finding agrees with AxBench, where SAEs "struggle against simple
 steering baselines". The record holds the neighbouring work on
 interchange interventions: Makelov et al. ([LIT-968](../literature.d/LIT-968.md)), Wu et al.'s reply
 ([LIT-961](../literature.d/LIT-961.md)), and [LIT-987](../literature.d/LIT-987.md). Read since, on 2026-10-26: the paper that
-introduced DAS (Geiger et al., LIT-tmpsavwt); attribution patching,
-through Kramár et al.'s AtP* (LIT-tmp4de8g); ACDC (LIT-tmpoku9b), a
+introduced DAS (Geiger et al., [LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md)); attribution patching,
+through Kramár et al.'s AtP* ([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)); ACDC ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md)), a
 circuit-discovery method of the family the circuit track scores; and
-Wang et al.'s IOI circuit (LIT-tmpj9tel), from which the IOI tasks and
+Wang et al.'s IOI circuit ([LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md)), from which the IOI tasks and
 the InterpBench model's circuit come.
 
 ## Bearing on the record

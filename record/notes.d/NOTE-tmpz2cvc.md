@@ -68,7 +68,7 @@ total.
   expected change in the metric when one node is noised with its value on
   a reference prompt. Zero and mean ablation are excluded by construction
   (footnote 1). Noising, following causal scrubbing ([LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md)) and the
-  IOI work (LIT-tmpj9tel); denoising is briefly compared.
+  IOI work ([LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md)); denoising is briefly compared.
 - **AtP.** Î_AtP(n) = (n(x_noise) − n(x_clean))ᵀ ∂L/∂n at x_clean, with the
   absolute value taken inside the expectation over prompt pairs. Cost:
   two forward passes and one backward pass per prompt pair for all nodes.
