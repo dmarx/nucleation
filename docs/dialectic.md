@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-46 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+47 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -326,3 +326,8 @@
   - [CLAIM-448](../record/claims.d/CLAIM-448.md) — An ordinal potential describes only the winning-move relation it is computed on; where an organization's legibility regime selects which contests are admitted or recorded, an acyclic record, even a persistent potential, can be the product of selective contestation, so observed coherence is not evidence that the organization's perspectives are integrated, and an intervention that improves its self-governance may at first increase the disagreement observed *(counter, Proposed)*
   - [CLAIM-449](../record/claims.d/CLAIM-449.md) — The potential account of valence's first consequence, no frustration, no valence, runs together two relations: perspectives' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, valenced with nothing contested, tests whichever is chosen *(counter, Proposed)*
   - [CLAIM-468](../record/claims.d/CLAIM-468.md) — Valence intensity need not be the strength of the prevailing ordering's potential: in Hesp et al.'s model negative valence is a weakening of the preference ordering's precision with a fall back to habit, and positive affect is reported to lower a goal's priority, so for either sign stronger valence can go with a weaker hold of the ordering *(counter, Proposed)*
+
+## From Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour
+
+- [CLAIM-473](../record/claims.d/CLAIM-473.md) — Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour *(thesis, Rejected)*
+  - [CLAIM-481](../record/claims.d/CLAIM-481.md) — Coupling does not by itself separate time scales: two identical undamped oscillators coupled with stiffness k have normal modes at ω₀ and √(ω₀² + 2k), nearly equal when k ≪ ω₀², and neither decays; separation comes where the coupling dissipates relative differences faster than collective ones, as in ẋ = −ax − k(x − y), ẏ = −ay − k(y − x), whose collective and relative modes relax at rates a and a + 2k, and in a Laplacian flow ẋ = −κLx, where the spectrum of L sets the rates *(counter, Active)*

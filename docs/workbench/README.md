@@ -6,6 +6,10 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [27 Oct 18:25 — The owner's review of the pull request (2026-10-27, evening): six changes before merging, made the same evening; correspondence generation, memory as constraint, the higher-order reduction, the luria split, rates against time scales, and a synthesis](2026-10.md#the-owners-review-of-the-pull-request-2026-10-27-evening-six-changes-before-merging-made-the-same-evening-correspondence-generation-memory-as-constraint-the-higher-order-reduction-the-luria-split-rates-against-time-scales-and-a-synthesis)
+- [27 Oct 17:19 — Session of 2026-10-27, 14:41 to 16:26 (U15–U23): the exchange "Field Existence Question" continued, from inquiry as specification and its resource bounds to observation without an observer, interactions as gluing conditions, and a closing synthesis](2026-10.md#session-of-2026-10-27-1441-to-1626-u15u23-the-exchange-field-existence-question-continued-from-inquiry-as-specification-and-its-resource-bounds-to-observation-without-an-observer-interactions-as-gluing-conditions-and-a-closing-synthesis)
+- [27 Oct 09:14 — Session of 2026-10-27, 08:15 to 09:05 (U11–U14): the exchange "Field Existence Question" continued, from prior art for relata as realizations of constraints to scale separation as a maker of structure, and then the dynamics of transitions](2026-10.md#session-of-2026-10-27-0815-to-0905-u11u14-the-exchange-field-existence-question-continued-from-prior-art-for-relata-as-realizations-of-constraints-to-scale-separation-as-a-maker-of-structure-and-then-the-dynamics-of-transitions)
+- [27 Oct 08:06 — Session of 2026-10-27, 06:20 to 07:46 (U1–U10): from a field that interacts with nothing to structural realism, Barad's apparatus and agential cut, and Jaksland; then luria as an apparatus, the record's scope made unrestricted, and relata to relations as realizations to constraints](2026-10.md#session-of-2026-10-27-0620-to-0746-u1u10-from-a-field-that-interacts-with-nothing-to-structural-realism-barads-apparatus-and-agential-cut-and-jaksland-then-luria-as-an-apparatus-the-records-scope-made-unrestricted-and-relata-to-relations-as-realizations-to-constraints)
 - [27 Oct 02:03 — Audit of 2026-10-27: propositions the record's cases state that no claim holds; eight filed as claims, twenty-four left as candidates](2026-10.md#audit-of-2026-10-27-propositions-the-records-cases-state-that-no-claim-holds-eight-filed-as-claims-twenty-four-left-as-candidates)
 - [27 Oct 01:01 — Session of 2026-10-26, 21:18 to 23:04 (U1–U12): the Chagossians, federal science, the US Institute of Peace, the East Wing and CECOT, read for what an intervention does to the remedies against it; then correctability as a bounded search, and TERMs for organizational achievement, consciousness, collective intention and moral standing, with a kind for TERMs](2026-10.md#session-of-2026-10-26-2118-to-2304-u1u12-the-chagossians-federal-science-the-us-institute-of-peace-the-east-wing-and-cecot-read-for-what-an-intervention-does-to-the-remedies-against-it-then-correctability-as-a-bounded-search-and-terms-for-organizational-achievement-consciousness-collective-intention-and-moral-standing-with-a-kind-for-terms)
 - [26 Oct 19:51 — Exchange "Experimental Infrastructure Review", T18–T24 (undated): employees as sub-perspectives, a multilevel Northstar reported at v2.11, hLDA and the Indian buffet process, a dynamic beta–Bernoulli model of members, and transformer learning dynamics](2026-10.md#exchange-experimental-infrastructure-review-t18t24-undated-employees-as-sub-perspectives-a-multilevel-northstar-reported-at-v211-hlda-and-the-indian-buffet-process-a-dynamic-betabernoulli-model-of-members-and-transformer-learning-dynamics)
@@ -92,8 +96,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-83 entries across 1 book, newest first.
+87 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 83 | 2026-10-07 | 2026-10-27 |
+| [2026-10](2026-10.md) | 87 | 2026-10-07 | 2026-10-27 |

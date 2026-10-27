@@ -116,8 +116,8 @@ and not its definition" says the same for levels.
 
 ## Note of 2026-10-27: Flack 2017 read, and the third stage is not hers
 
-Flack's general statement ([LIT-tmp08ht1](../literature.d/LIT-tmp08ht1.md), read in [NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md);
-[THEORY-tmp7ps0w](../theory.d/THEORY-tmp7ps0w.md)) changes how this claim's attribution should be read. Stage
+Flack's general statement ([LIT-1630](../literature.d/LIT-1630.md), read in [NOTE-1216](../notes.d/NOTE-1216.md);
+[THEORY-1061](../theory.d/THEORY-1061.md)) changes how this claim's attribution should be read. Stage
 two, members recognizing and using the variable, is what she calls apparent
 downward causation, with two refinements the claim lacks. Members condition
 on their own *estimate*, which may be wrong and need not be shared, and one

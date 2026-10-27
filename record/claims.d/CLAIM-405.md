@@ -51,7 +51,7 @@ illustrated_by:
 - CASE-175
 - CASE-176
 ---
-<!-- inactive-ok-file: QUESTION-tmptrgg1 QUESTION-tmpg3qms — the questions that press on this claim, Open -->
+<!-- inactive-ok-file: QUESTION-284 QUESTION-280 — the questions that press on this claim, Open -->
 <!-- inactive-ok-file: CLAIM-363 CLAIM-348 CLAIM-174 CLAIM-195 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
 
 # CLAIM-405: An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it
@@ -128,9 +128,9 @@ boundaries of a system, or does the process of interaction also
 participate in producing those boundaries?**" This claim makes a verdict
 objective once its criterion is fixed; it is silent on whether the
 arrangement through which a system is probed is part of what makes the
-unit, which is [QUESTION-tmptrgg1](../questions.d/QUESTION-tmptrgg1.md)'s split of detected, maintained and
-constituted boundaries. And from Jaksland ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), read later the same day in [NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md)): whether
+unit, which is [QUESTION-284](../questions.d/QUESTION-284.md)'s split of detected, maintained and
+constituted boundaries. And from Jaksland ([LIT-1673](../literature.d/LIT-1673.md), read later the same day in [NOTE-1230](../notes.d/NOTE-1230.md)): whether
 a unit the criterion passes is approximately independent or only
-approximately separable for its target, [QUESTION-tmpg3qms](../questions.d/QUESTION-tmpg3qms.md). A10 §2 restated
+approximately separable for its target, [QUESTION-280](../questions.d/QUESTION-280.md). A10 §2 restated
 the claim's point as "**Relativity to conditions does not entail
 subjectivity.**" Nothing here changes.

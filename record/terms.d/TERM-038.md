@@ -21,7 +21,7 @@ used_by:
 - CLAIM-150
 - CLAIM-151
 ---
-<!-- inactive-ok-file: QUESTION-tmptrgg1 — Open; the question that asks the distinction without a domain -->
+<!-- inactive-ok-file: QUESTION-284 — Open; the question that asks the distinction without a domain -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; the claim that uses this distinction, cited as open -->
 
 # TERM-038: descriptive, causal and constitutive relations of a communicative act
@@ -75,6 +75,6 @@ The distinction is drawn for a communicative act. The exchange of
 2026-10-27 asked it of any entity (A10 §8: "which distinctions are merely
 descriptive, which are causally consequential, which are constitutive"),
 after the owner set the record's scope as unrestricted (U6), and it is
-filed so in [QUESTION-tmptrgg1](../questions.d/QUESTION-tmptrgg1.md). Whether to widen this term, a new version
+filed so in [QUESTION-284](../questions.d/QUESTION-284.md). Whether to widen this term, a new version
 with the domain dropped, is left to the owner; nothing filed uses it
 outside its domain.

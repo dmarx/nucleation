@@ -32,7 +32,7 @@ summary: >-
 illustrated_by:
 - CASE-039
 ---
-<!-- inactive-ok-file: CLAIM-tmpdjt64 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
+<!-- inactive-ok-file: CLAIM-471 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this claim undercuts -->
 <!-- inactive-ok-file: CLAIM-143 CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
@@ -95,6 +95,6 @@ intertial frames", and flagged the physics as uncertain. A20 §1 cited this
 claim to restate it. Inertial frames are related by a transformation that
 spacetime geometry fixes, and no interaction generates it. The frames that
 interactions glue are local observational contexts. The conjecture is filed in
-that form as [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md), which names this claim in its defeater as the case
+that form as [CLAIM-471](CLAIM-471.md), which names this claim in its defeater as the case
 it excludes. A20: "**literal inertial frames are probably too restrictive for
 your general thesis**." This claim is unchanged.

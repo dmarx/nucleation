@@ -42,7 +42,7 @@ objected_by:
 illustrated_by:
 - CASE-060
 ---
-<!-- inactive-ok-file: CLAIM-tmpmand1 LIT-tmpf6o6y — the general frame (Proposed) and a registered, unread source (Deferred), cited as open -->
+<!-- inactive-ok-file: CLAIM-477 LIT-1647 — the general frame (Proposed) and a registered, unread source (Deferred), cited as open -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the objection this claim must meet -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-134 CLAIM-138 — Proposed; the companion thesis and the two objections to this one, all open -->
 
@@ -168,7 +168,7 @@ ambitions as "extremely abstract and unrestricted", and directed that
 still follows its argument, and no argument for either version in general
 has been given. What has changed is that the owner's U54 wording,
 "objects" without restriction, now has an unrestricted frame to sit in:
-[CLAIM-tmpmand1](CLAIM-tmpmand1.md), on which an entity is partly fixed by the constraints on
+[CLAIM-477](CLAIM-477.md), on which an entity is partly fixed by the constraints on
 its relations. That frame leaves this claim's question open in general,
 as A8 §5 said: a specification fixes kinds, and what makes isomorphic
 realizations two ("histories, dynamical continuity, symmetry breaking,
@@ -176,11 +176,11 @@ locality, or primitive numerical diversity") is the choice between this
 claim's two versions, still the owner's. Barad's view, the most radical
 neighbour the exchange named, A3 placed with radical relational ontology
 ("independently individuated substances are not fundamental"); whether it
-eliminates relata is for a reading of [LIT-tmpf6o6y](../literature.d/LIT-tmpf6o6y.md). Whether to restate this claim without a
+eliminates relata is for a reading of [LIT-1647](../literature.d/LIT-1647.md). Whether to restate this claim without a
 domain is left to the owner. Nothing in it changes.
 
 Later the same day, Jaksland 2024 and Faye and Jaksland 2021 were read
-([NOTE-tmpwiza2](../notes.d/NOTE-tmpwiza2.md), [NOTE-tmpdn71t](../notes.d/NOTE-tmpdn71t.md)), and both quote Barad 2003, 815: "phenomena
+([NOTE-1230](../notes.d/NOTE-1230.md), [NOTE-1220](../notes.d/NOTE-1220.md)), and both quote Barad 2003, 815: "phenomena
 are ontologically primitive relations—relations without preexisting
 relata". Jaksland calls the view a radical relational holism "since only the
 relational phenomena are ultimately real" and likens it to priority monism
@@ -188,4 +188,4 @@ relational phenomena are ultimately real" and likens it to priority monism
 with objects emergent, and is not this claim's. The non-eliminative
 precedent in the same neighbourhood is Bohr on Faye and Jaksland's reading,
 whose relational properties are properties of real relata
-([THEORY-tmpixkwj](../theory.d/THEORY-tmpixkwj.md)).
+([THEORY-1076](../theory.d/THEORY-1076.md)).

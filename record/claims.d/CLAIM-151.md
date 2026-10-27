@@ -35,7 +35,7 @@ history:
     summary's "It is a thesis about social acts, not about fundamental
     ontology" and the same sentence under "What it does not say" bounded
     the record, not the argument. Both now say that the claim is argued
-    for social acts and that the general frame is CLAIM-tmpmand1, of which
+    for social acts and that the general frame is CLAIM-477, of which
     this is a domain case. Title, defeater, status and warrant are
     unchanged.
 role: thesis
@@ -63,7 +63,7 @@ grounds:
 - LIT-482
 - CASE-069
 complements:
-- CLAIM-tmpmand1
+- CLAIM-477
 - CLAIM-130
 - CLAIM-150
 - CLAIM-215
@@ -77,7 +77,7 @@ summary: >-
   structural realism, restated at A191 §1, A203 §3, A214 §13 and A218 §2.
   It is argued for social acts, and its argument stops there; the
   record's scope does not (version 3), and the general frame is
-  CLAIM-tmpmand1, of which this is a domain case. Its
+  CLAIM-477, of which this is a domain case. Its
   "representational against constitutive transformation" is
   [CLAIM-004](CLAIM-004.md)'s distinction re-derived, so it rests there.
   Searle's status functions ([LIT-482](../literature.d/LIT-482.md)) are
@@ -93,7 +93,7 @@ objected_by:
 - CLAIM-224
 - CLAIM-229
 ---
-<!-- inactive-ok-file: CLAIM-tmpmand1 — Proposed; the general frame this claim is a domain case of, cited as open -->
+<!-- inactive-ok-file: CLAIM-477 — Proposed; the general frame this claim is a domain case of, cited as open -->
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-130 CLAIM-115 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the dilemma whose intrinsic horn "partly" takes, not as settled -->
@@ -151,7 +151,7 @@ manuscript already takes that position "without saying so".
   and goes no further. That is a limit of this argument, not of what the
   record may claim: the owner set the record's ambitions as "extremely
   abstract and unrestricted" (U6 of the exchange of 2026-10-27), and the
-  unrestricted frame is [CLAIM-tmpmand1](CLAIM-tmpmand1.md). This claim is its worked case for
+  unrestricted frame is [CLAIM-477](CLAIM-477.md). This claim is its worked case for
   communicative acts and does not, by itself, support it.
 - It is not a structural realism. "Partly constituted" leaves intrinsic
   identity-fixing features a role, and that is the intrinsic horn of

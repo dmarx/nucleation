@@ -34,7 +34,7 @@ summary: >-
 supports:
 - CLAIM-206
 ---
-<!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-tmpl228b CLAIM-tmpdr90u — Proposed; the claims that name this guard, cited as open -->
+<!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-472 — Proposed; the claims that name this guard, cited as open -->
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the two theses this disclaimer guards, both open -->
 
@@ -139,5 +139,5 @@ constitutes an individual), with "Success at one level provides potential
 evidence for another, not an automatic entailment"; and A9 §1's form for
 specifications, "Mathematical satisfaction is not physical production."
 The three claims filed from the exchange that go past the guard
-([CLAIM-tmpmand1](CLAIM-tmpmand1.md), [CLAIM-tmpl228b](CLAIM-tmpl228b.md), [CLAIM-tmpdr90u](CLAIM-tmpdr90u.md)) each name it among what
+([CLAIM-477](CLAIM-477.md), [CLAIM-476](CLAIM-476.md), [CLAIM-472](CLAIM-472.md)) each name it among what
 they do not say. Nothing here changes.

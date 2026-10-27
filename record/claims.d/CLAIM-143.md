@@ -148,15 +148,15 @@ does not take it from them.
 Three readings are engineering instances of this claim's order of tests, and
 none validates its correspondences independently.
 
-- **Hansen and Ghrist** ([NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md), §8.7, p. 40) propose to "denoise the
+- **Hansen and Ghrist** ([NOTE-1233](../notes.d/NOTE-1233.md), §8.7, p. 40) propose to "denoise the
   measured relationships themselves using the condition of
   cycle-consistency", adjusting the correspondences until a section exists.
   They also show that the Laplacian does not determine the correspondences
   (Fig. 3.1).
-- **Singer** ([NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md)): "if some oracle whispers to our ears which
+- **Singer** ([NOTE-1224](../notes.d/NOTE-1224.md)): "if some oracle whispers to our ears which
   equations are good … In reality, we have to be able to tell the good from
   the bad on our own" (p. 2). He validates jointly, by consistency around
   cycles, under a noise model in which outliers are uniform and independent.
-- **Robinson** ([NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)) trusts his maps. In his Case 2 a sensor's 2°
+- **Robinson** ([NOTE-1221](../notes.d/NOTE-1221.md)) trusts his maps. In his Case 2 a sensor's 2°
   bias cannot be told apart from an error in that station's coordinates
   inside the maps. He calls it a sensor fault because the map is trusted.

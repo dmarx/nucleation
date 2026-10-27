@@ -122,7 +122,7 @@ unchanged.
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-Stewart, Golubitsky and Pivato ([NOTE-tmp4riih](../notes.d/NOTE-tmp4riih.md)) treat drive and coupling on one
+Stewart, Golubitsky and Pivato ([NOTE-1217](../notes.d/NOTE-1217.md)) treat drive and coupling on one
 footing. A drive is just another cell, and balance counts inputs whoever sends
 them. In Pecora and Carroll's master–slave network (Fig. 19, p. 635), cells
 that are only driven are robustly synchronous with cells that also drive back.

@@ -40,7 +40,7 @@ line:
 grounds:
 - LIT-582
 ---
-<!-- inactive-ok-file: CLAIM-tmpmx2ql — Proposed; the claim that cites this one as its limit -->
+<!-- inactive-ok-file: CLAIM-478 — Proposed; the claim that cites this one as its limit -->
 <!-- inactive-ok-file: THEORY-072 THEORY-085 — Proposed; the account this was filed from, which keeps the demarcation thesis, and the precedent named in the history; neither is leaned on -->
 
 # CLAIM-395: Under Montévil and Mossio's definition of closure, a closed set of constraints has at least two members, and if each constraint is produced at the time scale of a constraint in the set that generates it and not at the scale at which it is itself conserved, the set includes at least one slow and one fast dependence, so a system with a single constraint of its own cannot realise closure
@@ -139,5 +139,5 @@ Cross-scale dependence integrates those differentiated processes into a larger
 organization." It called this "probably the center of the theory" and was
 careful that "it is not a general theorem that every feedback cycle requires
 separated timescales". That is this claim's content, stated as an
-interpretation; [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md), filed from the same exchange, names it among
+interpretation; [CLAIM-478](CLAIM-478.md), filed from the same exchange, names it among
 what it does not say. Nothing here changes.

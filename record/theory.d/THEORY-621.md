@@ -111,13 +111,13 @@ derived, because eq. (3) is never applied across labels.
 Two readings bear on this reading's open points.
 
 - **The decoherence step, "cited, not shown", is shown.** Di Biagio and
-  Rovelli 2021 ([NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md), eqs. 5–8, p. 4) give it, with an O(ε) error
+  Rovelli 2021 ([NOTE-1226](../notes.d/NOTE-1226.md), eqs. 5–8, p. 4) give it, with an O(ε) error
   that is stated without a bound. The same-context rule is still asserted
   ("it is always the case", p. 3), and agreement between observers still
   gets one sentence (p. 10), so the promote_when is not met.
 - **A correction to the title's price.** "Values are not held at all times"
   belongs to the 2021 sparse-facts formulation. Di Biagio and Rovelli 2025
-  ([NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md), p. 7) say their reformulation "allows talk of relative
+  ([NOTE-1214](../notes.d/NOTE-1214.md), p. 7) say their reformulation "allows talk of relative
   facts also in-between interactions". A relative fact is now a property
   of the joint distribution at any time.
 

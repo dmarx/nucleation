@@ -64,7 +64,7 @@ supports:
 - CLAIM-404
 - CLAIM-413
 ---
-<!-- inactive-ok-file: QUESTION-tmpubsi9 CLAIM-tmpdjt64 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
+<!-- inactive-ok-file: QUESTION-285 CLAIM-471 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-402 CLAIM-404 TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
@@ -212,7 +212,7 @@ citing it at first.
   inquiry's specification**". It noted that this "need not mean an external
   conscious judge". Independent sensory channels, perturbations, controlled
   interventions, competing models, or criteria the mechanism being evaluated
-  cannot rewrite would all do ([QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md)).
+  cannot rewrite would all do ([QUESTION-285](../questions.d/QUESTION-285.md)).
 - **Gluing.** A21 §6 found a mathematical form of the self-confirming loop.
   An apparatus that revises its correspondence maps only to reduce
   disagreement can send them to zero, and then every observation is
@@ -224,22 +224,22 @@ citing it at first.
   interventions", the difference between "**becoming more coherent** and
   **becoming more knowledgeable**". That is this claim's evidence that does
   not pass through the interpretation it tests, made operational for one
-  setting ([CLAIM-tmpdjt64](CLAIM-tmpdjt64.md)).
+  setting ([CLAIM-471](CLAIM-471.md)).
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
 Three readings bear on this claim directly.
 
-- **Discourse sheaves** ([NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md); [THEORY-tmptkmt9](../theory.d/THEORY-tmptkmt9.md)) are a formal
+- **Discourse sheaves** ([NOTE-1222](../notes.d/NOTE-1222.md); [THEORY-1088](../theory.d/THEORY-1088.md)) are a formal
   self-confirming loop. The maps learn from disagreement among the agents'
   own expressions, and nothing scores an expression against the opinion it
   expresses. The result converges to agreement the authors call "learning
   to lie". The paper's guards (minimal change, a conserved quantity)
   prevent collapse, not self-confirmation.
-- **Robinson** ([NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)) shows the claim's remedy in practice. Fusion
+- **Robinson** ([NOTE-1221](../notes.d/NOTE-1221.md)) shows the claim's remedy in practice. Fusion
   always reaches consistency, so consistency shows nothing. The evidence
   that fusion helps is the error against a truth "withheld from the data
   presented to the sheaf model" (p. 25; Table 2).
-- **Singer** ([NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md)) checks his estimates against ground truth only
+- **Singer** ([NOTE-1224](../notes.d/NOTE-1224.md)) checks his estimates against ground truth only
   in simulation. On real data the method's only check is its own
   consistency.

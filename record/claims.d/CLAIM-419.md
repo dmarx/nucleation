@@ -29,7 +29,7 @@ summary: >-
   case ([ADR-032](../decisions.d/ADR-032.md)'s literature roles) where a recurring move was left in
   prose.
 ---
-<!-- inactive-ok-file: CLAIM-tmpl228b — Proposed; the claim that rests on this one, cited as open -->
+<!-- inactive-ok-file: CLAIM-476 — Proposed; the claim that rests on this one, cited as open -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 CLAIM-195 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
@@ -107,12 +107,12 @@ has stopped expressing ([LU-DP-016](https://github.com/dmarx/luria/blob/main/doc
 promotion of a vocabulary to a scheme ([LU-ADR-124](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-124.md)), and named it "a form
 of **reflexive epistemic apparatus**". It did not find this claim, filed
 from the owner's U18 of 2026-10-22 with the record's five amendments as
-evidence, nor [CASE-131](../cases.d/CASE-131.md). [CLAIM-tmpl228b](CLAIM-tmpl228b.md), the apparatus claim filed from
+evidence, nor [CASE-131](../cases.d/CASE-131.md). [CLAIM-476](CLAIM-476.md), the apparatus claim filed from
 that exchange, rests on this one. Nothing here changes.
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-CEGAR, read today ([NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md)), was offered by the exchange as luria's
+CEGAR, read today ([NOTE-1231](../notes.d/NOTE-1231.md)), was offered by the exchange as luria's
 DP-016 in formal dress. The pattern matches: a failure under a fixed
 specification is located and repaired by refining the abstraction. Two
 disanalogies bear on this claim's limit.

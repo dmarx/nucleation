@@ -111,7 +111,7 @@ never reached the repository.
 
 ## Note of 2026-10-27: Flack's stipulation, and arm B
 
-Flack 2017 ([NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md)) agrees with arm A: a slow variable no one tunes to
+Flack 2017 ([NOTE-1216](../notes.d/NOTE-1216.md)) agrees with arm A: a slow variable no one tunes to
 gives no downward causation. Arm B, read and rewritten but fast, runs
 against her stipulation that the variable be slower than the behaviour
 producing it (§3), so arm B contradicts a stipulation, not a finding. Her
