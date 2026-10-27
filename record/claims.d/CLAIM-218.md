@@ -13,7 +13,7 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 grounds:
-- THEORY-156
+- THEORY-tmp5sao6
 objects_to:
 - CLAIM-050
 - CLAIM-106
@@ -89,3 +89,13 @@ experiments on one parameter, and it is not D_Q either.
   results of its own yet.
 - It does not say [CLAIM-106](CLAIM-106.md) is false. It says the measure meant to realize
   [CLAIM-106](CLAIM-106.md)'s directed fidelity is symmetric.
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date (ADR-057) moved this claim's ground from
+THEORY-156 to THEORY-tmp5sao6. It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. THEORY-156's
+general converse, which stays Proposed, is not used. Quotations of
+THEORY-156 above are of the definitions it states.

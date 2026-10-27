@@ -18,7 +18,7 @@ rests_on:
 - CLAIM-074
 - CLAIM-323
 grounds:
-- THEORY-156
+- THEORY-tmp5sao6
 - LIT-781
 objects_to:
 - CLAIM-050
@@ -161,3 +161,13 @@ claim keeps the rest: that Blackwell's order, comparing experiments about
 one parameter, does not reach the line's translations, and that the
 direction the manuscript uses is silent about them. Its title states that
 reading and is kept, and its warrant stays interpretive.
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date (ADR-057) moved this claim's ground from
+THEORY-156 to THEORY-tmp5sao6. It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. THEORY-156's
+general converse, which stays Proposed, is not used. Quotations of
+THEORY-156 above are of the definitions it states.

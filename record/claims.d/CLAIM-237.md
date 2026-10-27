@@ -23,7 +23,7 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 grounds:
-- THEORY-156
+- THEORY-tmp5sao6
 - THEORY-717
 - THEORY-174
 objects_to:
@@ -132,3 +132,13 @@ the situations z are also finitely many, the step it takes from Blackwell
 is the direct implication in [THEORY-717](../theory.d/THEORY-717.md), Active: Q = PM gives the rule
 MD the risks of D. "Theorem 3 in [THEORY-156](../theory.d/THEORY-156.md)'s reading" above names the same
 step. For infinitely many situations the ground is still [THEORY-156](../theory.d/THEORY-156.md).
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date (ADR-057) moved this claim's ground from
+THEORY-156 to THEORY-tmp5sao6. It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. THEORY-156's
+general converse, which stays Proposed, is not used. Quotations of
+THEORY-156 above are of the definitions it states.

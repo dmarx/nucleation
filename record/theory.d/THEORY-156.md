@@ -42,21 +42,19 @@ summary: >-
 extends:
 - THEORY-717
 supports:
-- CLAIM-050
-- CLAIM-125
-- CLAIM-126
-- CLAIM-218
-- CLAIM-225
-- CLAIM-237
-- CLAIM-258
-- CLAIM-199
-- CLAIM-212
-- CLAIM-228
 - CLAIM-259
 - CLAIM-326
 ---
 
 # THEORY-156: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
+
+## Note of 2026-10-27: the easy direction split off
+
+The status review of this date (ADR-057) split the definitions and the
+easy direction into THEORY-tmp5sao6, Active, with its proof. Ten of
+this account's twelve dependents used nothing more and moved there.
+CLAIM-259 and CLAIM-326 use the converse and stay grounded here. The
+blocker is unchanged: a second proof of the general converse.
 
 ## Source
 

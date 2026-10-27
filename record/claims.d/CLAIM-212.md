@@ -39,7 +39,7 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 grounds:
-- THEORY-156
+- THEORY-tmp5sao6
 - CASE-063
 objects_to:
 - CLAIM-258
@@ -178,3 +178,13 @@ The narrowing the note of 2026-10-10 proposed and did not make, that
 compensation is mainly, not only, a re-performance notion, is filed as
 [CLAIM-461](CLAIM-461.md), a counter, Proposed, so it can carry a status. It awaits a
 case whose source is read. The claim is unchanged.
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date (ADR-057) moved this claim's ground from
+THEORY-156 to THEORY-tmp5sao6. It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. THEORY-156's
+general converse, which stays Proposed, is not used. Quotations of
+THEORY-156 above are of the definitions it states.
