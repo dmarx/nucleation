@@ -1,0 +1,326 @@
+---
+status: Read
+paper: LIT-1558
+title: 'Tobiasson, Luo, Wolf & Koonin — Dominant contribution of Asgard archaea to eukaryogenesis'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the PubMed Central copy of the version of record
+    (PMC12872458, open access), fetched on 2026-10-27 as full-text XML
+    through the Europe PMC REST service and converted to text. Read: both
+    abstracts, the introduction, "Origins of eukaryotic proteins", "Asgard
+    dominance in eukaryogenesis", "Specific alphaproteobacterial traces",
+    "Sparse contributions from other bacteria", "Ancestral stem lengths",
+    the Discussion, all of Methods, the captions of Figures 1–4, and the
+    captions of Extended Data Figures 1–10. The text conversion cut the
+    Extended Data captions off part-way through Figure 4, so captions 4–10
+    were read from the XML itself. Figures were read from their captions
+    and the text only; no figure image was seen, so no value that appears
+    only in a figure is reported here. The Supplementary Data file, the
+    Reporting Summary, the peer review file, the Zenodo data and the
+    GitHub code were not read or run. The reference list was not read,
+    except to identify seven works the text cites (refs 26, 31, 32, 33,
+    58, 64 and 65). Checks made here: 600/2,100 = 28.6% of KOGs and 1,580/4,290 =
+    36.8% of clusters for the "roughly one-third" non-Asgard,
+    non-alphaproteobacterial share; 33 + 97 = 130 for the strict subset.
+date: '2026-10-27'
+summary: >-
+  A large phylogenomic survey that assigns each widespread eukaryotic
+  protein family to its most likely prokaryotic sister by likelihood
+  weights on constrained trees. In the 4,290 best-resolved families,
+  Asgard archaea take about half of all likelihood weight and lead in
+  nearly every functional system, information processing above all.
+  Alphaproteobacteria contribute a small, coherent set centred on the
+  mitochondrion (oxidative phosphorylation, Fe–S cluster assembly,
+  mitochondrial translation). About a third of families point to other
+  bacteria, scattered across functions with no pathway from one donor
+  except a narrow Myxococcota signal, which the authors read as
+  piecemeal gene transfer and not further symbioses. A stem-length
+  analysis leads them to doubt that stem lengths time gene acquisition.
+  They favour a complex Asgard ancestor that took up the mitochondrion
+  late. The limiting caveat, theirs, is sparse and biased genome sampling.
+---
+<!-- inactive-ok-file: THEORY-tmpfoo2c THEORY-tmpbinho — Proposed; filed from this reading -->
+<!-- inactive-ok-file: NOTE-tmpe5t7q NOTE-tmphab0m THEORY-tmphywi5 THEORY-tmpyr6q4 — filed in the same batch of readings and not yet merged; the companion readings this one is set beside -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1566 LIT-1595 LIT-1591 LIT-1597 THEORY-141 THEORY-418 — Open, Proposed, Deferred or Unavailable; the question, works and accounts this reading is set beside, nothing here rests on them -->
+
+# NOTE-tmppkn6v: Tobiasson, Luo, Wolf & Koonin — Dominant contribution of Asgard archaea to eukaryogenesis
+
+## Contribution
+
+It re-asks the old question of where the genes of the last eukaryotic
+common ancestor (LECA) came from, with far more genomes than earlier
+surveys and a different statistic. Earlier surveys found more bacterial
+than archaeal genes, and archaeal ones mostly in information processing.
+This one finds Asgard archaea the largest single source in nearly every
+functional class, including much of metabolism. It also tests the
+stem-length method that underpins "mitochondrion-late" timing and reports
+that, on its data, stem length does not behave like a clock.
+
+## Key insight
+
+The bacterial share of the eukaryotic gene set is real but has two
+different shapes. The alphaproteobacterial part is small and functionally
+coherent: it is the mitochondrion's energy and Fe–S machinery. Everything
+else bacterial is diffuse, a little in every pathway, with no pathway
+derived from any single donor. The authors read coherence as the signature
+of an endosymbiont and diffuseness as the signature of piecemeal gene
+transfer. Hence: one host lineage (Asgard), one endosymbiont, and a
+continuous trickle of transferred genes, partly carried into the lineage by
+the Asgard ancestor itself. In their words, "we obtained no indication of
+another symbiotic event contributing to eukaryogenesis".
+
+## Assumptions
+
+- **Widespread means ancestral.** A family is taken to trace to LECA if its
+  eukaryotic clade has more than five taxonomic labels, with at least one
+  from Amorphea and one from Diaphoretickes. The authors say they "did not
+  attempt to explicitly reconstruct the LECA gene set".
+- **Soft-core pangenomes exclude late transfer.** Prokaryotic genes are kept
+  only if present in at least 50% of species in their class, and eukaryotic
+  ones if in at least 20% (Extended Data Fig. 1d varies this from 0 to 67%).
+  The aim is to drop lineage-specific transfer. The authors concede it
+  "might be insufficient to compensate for extensive and continuous HGT".
+- **The nearest sister is the donor.** For each eukaryotic clade, up to the
+  12 topologically closest prokaryotic clades are each forced to be its
+  sister in a constrained tree. The expected likelihood weight (ELW) of each
+  is taken as "proportional to the probability of a sampled prokaryotic
+  clade being the best estimate of the closest sister clade". The average
+  ELW over families (aELW) is called "association".
+- **Only mid-range weights count.** The core set keeps sister clades with
+  0.4 < ELW < 0.99. Weights of 0.99 or more are dropped as "disproportionately
+  eukaryotic-like" and probably late transfer, except for alphaproteobacterial
+  oxidative phosphorylation, where ELW of 1 is kept.
+- **Trees are unrooted in the biological sense.** They are midpoint-rooted by
+  weight: "no trees in our current study have been 'phylogenetically
+  rooted'". Each tree has at most 30 eukaryotic and 70 prokaryotic
+  sequences.
+- **Taxon labels are coarse and unequal.** Prokaryotes are binned into 26
+  groups, mostly NCBI classes. All Asgard sequences share one label,
+  "Asgard", because their internal taxonomy is unresolved. Bacteria are
+  split by class (for example Alpha-, Beta- and Gammaproteobacteria). A
+  re-run under GTDB phyla is the check on this.
+- **Stem length as clock (tested, not assumed).** Following Pittis and
+  Gabaldón, normalized stem length is the FECA-to-LECA branch divided by the
+  median LECA-to-tip branch length.
+
+## Key results
+
+- **Scale.** 47,545 complete prokaryotic genomes plus 63 Asgard assemblies;
+  993 eukaryotic species (EukProt v.3) plus 72 GenBank genomes. 13,500
+  eukaryotic–prokaryotic orthologous clusters (EPOCs) over 3,950 KEGG
+  orthology groups (KOGs); a core of 4,290 EPOCs over 2,100 KOGs with
+  maximum ELW of at least 0.4.
+- **Asgard leads overall.** In all 13,500 EPOCs, Asgard has the highest
+  aELW, followed by Cyanobacteria, Actinomycetota, Betaproteobacteria and
+  Alphaproteobacteria. In the core set, Asgard takes "50% of all likelihood
+  weight". The result held under the annealed (tree-partitioned) clusters
+  and under GTDB taxonomy (Extended Data Figs 1e, 3b, 10a), and paralogy
+  "alone cannot account for" it (Extended Data Figs 1d, 5).
+- **Information processing is "almost exclusively of Asgard descent"**:
+  replication, transcription, repair, recombination, ribosomal proteins,
+  translation factors, protein targeting.
+- **Beyond information processing.** Asgard associations for
+  nucleocytoplasmic transport, protein sorting, N-linked glycosylation in the
+  endoplasmic reticulum, GPI-anchor synthesis, sphingolipid metabolism, the
+  mevalonate pathway, Ras-like GTPases, ubiquitin and the proteasome.
+  Fatty-acid synthesis and decay show "a higher-than-average degree of
+  mosaicism", with Actinomycetota and Alphaproteobacteria alongside
+  Asgard. Bacterial-type membrane lipid synthesis remains "unresolved".
+- **Alphaproteobacteria: small and mitochondrial.** Mitochondrial
+  translation, oxidative phosphorylation, ubiquinone synthesis, and the
+  4Fe-4S part of Fe–S cluster assembly. ISCU is mosaic with "a weaker but
+  clearly detectable Asgard association"; NFS1, the sulfur amino-acid
+  pathways and the cytosolic CIA components CIAO1 and CIAO2B are Asgard.
+  "Outside the mitochondria, alphaproteobacterial associations with Fe–S
+  metabolism cease."
+- **Other bacteria: a third, diffuse.** About one third of KOGs (600 of
+  2,100) and EPOCs (1,580 of 4,290) have their strongest association with
+  neither Asgard nor Alphaproteobacteria (28.6% and 36.8%, checked here).
+  Cyanobacteria and Actinomycetota have higher global aELW than
+  Alphaproteobacteria, but from "several small contributions across
+  disjoint pathways".
+  - Only Alphaproteobacteria (oxidative phosphorylation) and Myxococcota
+    (nicotinate and nucleotide-sugar metabolism) beat Asgard in any KEGG
+    pathway with more than 20 EPOCs (Fig. 2). The Myxococcota signal
+    reduces to nucleotidases and phosphoribosyltransferases (Extended Data
+    Fig. 8b), plus a narrow diterpenoid signal.
+  - In a strict subset (eukaryotic clade of at least 15 taxa, sister of at
+    least 20 sequences, ELW > 0.7), 33 of 130 EPOCs point to diverse
+    bacteria, mostly Actinomycetota and the FCB group, and 97 to Asgard.
+    They show "no clear functional trend".
+  - The cyanobacterial signal involves no photosynthesis genes, so the
+    authors place it pre-LECA and distinct from the plastid.
+- **Stem lengths (Fig. 3).** 5,850 stems, peaking near 0.05.
+  - For stems below 0.3 (70% of all stems), alphaproteobacterial stems are
+    significantly *longer* than Asgard ones; above 0.35 they are shorter.
+    Only the second regime reproduces Pittis and Gabaldón, "who analysed
+    primarily stems within that range".
+  - Oxidative phosphorylation stems, "assumed to have been acquired
+    simultaneously", vary by more than two orders of magnitude.
+  - Information-processing genes, presumably the oldest residents, have
+    shorter than average stems.
+  - Conclusion: "even normalized stem lengths are determined primarily by
+    factors other than the gene acquisition time". The authors suggest
+    post-acquisition adaptation as one such factor: genes from distant
+    bacteria had to adapt to a new cell, lengthening their stems.
+- **The scenario (Fig. 4).** An Asgard first eukaryotic common ancestor
+  (FECA) that "already possessed many signature features of eukaryotic
+  cells, including the cytoskeleton and the endomembrane system";
+  mitochondrial acquisition "a relatively late event" with "a limited, but
+  functionally crucial, contribution"; bacterial genes captured "at all
+  stages". Some genes inherited from Asgard "might ultimately be of
+  bacterial origin". Membrane replacement "must have occurred at an early
+  stage", possibly before the endosymbiosis. The origin of the nucleus as a
+  compartment stays "unresolved".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Asgard archaea are the largest single prokaryotic source of the widespread eukaryotic gene set, about half of likelihood weight in the best-resolved families | moderate | aELW over 4,290 core EPOCs; robust to clustering, taxonomy and pangenome cutoffs (Extended Data Figs 1, 3, 10); depends on the 0.4–0.99 window and the single Asgard label |
+| C2 | Core information-processing systems are almost exclusively of Asgard descent | strong | confirms and extends prior work; consistent across categories (Fig. 1c, Extended Data Fig. 4) |
+| C3 | The alphaproteobacterial contribution is small, coherent and almost entirely mitochondrial | moderate | Extended Data Figs 4c, 6; agrees with prior Fe–S and carbon-metabolism work; under-sampling of the mitochondrial ancestor's relatives acknowledged |
+| C4 | Contributions from other bacteria are diffuse, with no pathway from a single donor, and are best read as isolated transfers, not further endosymbioses | weak–moderate | the diffuseness is shown (Figs 2, Extended Data Figs 7–9); the reading of diffuseness as "not symbiosis" is an interpretation; Myxococcota possibly under-detected, by the authors' account |
+| C5 | Normalized stem length is determined mainly by factors other than acquisition time | moderate | the reversal at 0.3–0.35, the spread in oxidative phosphorylation stems, short information-processing stems, 20 technical replicates (Extended Data Fig. 10b); the alternative factor is suggested, not shown |
+| C6 | Key features of eukaryotic organization (cytoskeleton, endomembranes) evolved in the Asgard lineage before the mitochondrion was taken up | weak–moderate | inferred from gene ancestry; the paper does not time events, having argued its own timing tool unreliable |
+| C7 | The dominant Asgard contribution "is here to stay" | weak | the authors' expectation, against their own caveat that sampling could "lead to a substantial modification of the model" |
+
+## Concepts
+
+- **EPOC**: a eukaryotic–prokaryotic orthologous cluster, one eukaryotic
+  cluster plus all its significant prokaryotic HMM hits.
+- **ELW / aELW**: expected likelihood weight of a constrained topology in
+  which a given prokaryotic clade is sister to the eukaryotic clade; aELW is
+  its average over EPOCs, called "association".
+- **Soft-core pangenome**: the genes present in at least a set fraction of
+  the species of a taxonomic class.
+- **FECA and LECA**: the first eukaryotic common ancestor (here, the last
+  common ancestor of eukaryotes and their prokaryotic sister) and the last.
+- **Normalized stem length**: the FECA-to-LECA branch divided by the median
+  LECA-to-tip branch, proposed by Pittis and Gabaldón as a relative age of
+  acquisition.
+- **Binary vs. two-endosymbiosis scenarios**: in the paper's framing,
+  "binary symbiogenesis" has an Asgard host take up the alphaproteobacterium
+  and later switch to bacterial lipids. The alternatives have a bacterium
+  engulf an Asgard archaeon first, then a second endosymbiosis give the
+  mitochondrion.
+
+## Connections
+
+- **Pittis and Gabaldón 2016** (LIT-1595, unread here). The paper calls it "a
+  pivotal study" and reproduces its result only for long stems. Its own
+  conclusion, that stem length mostly does not track time, undercuts the
+  method, though the paper still endorses a late mitochondrion on other
+  grounds.
+- **Bernabeu et al.** (LIT-1561, read in NOTE-tmpe5t7q). Cited as ref. 65 in
+  its first preprint version, under the title "Diverse ancestries reveal
+  complex symbiotic interactions during eukaryogenesis". The paper says
+  that report, "using more liberal criteria for core pangenome
+  construction, suggested a far greater bacterial contribution than
+  observed here, potentially due to late HGT". The two groups thanked each
+  other for comments.
+- **Santana-Molina et al.** (LIT-1564, read in NOTE-tmphab0m). Cited as ref. 58
+  for the alphaproteobacterial association with mitochondrial carbon
+  metabolism.
+- **Vosseberg et al. 2021** (ref. 26) on pre-LECA duplications of Asgard
+  genes, cited for "their prominent role in eukaryogenesis". Not in the
+  record.
+- **Syntrophy.** The paper invokes "the syntrophic lifestyle of many Asgard
+  archaea" as a route for bacterial genes into the Asgard lineage, citing
+  López-García and Moreira (2020). Its introduction cites Imachi et al.
+  (LIT-1591, unread here) for Asgard archaea "found in consortia with
+  bacteria, particularly Myxococcota". It treats the
+  two-endosymbiosis syntrophy models (hydrogen–sulfur transfer, with
+  Myxococcota as partner) as "less parsimonious than binary scenarios" but
+  says it may "capture only part of a principal signal from Myxococcota".
+
+## Bearing on the record
+
+- **QUESTION-277, and the framing of the "live disagreement".** The
+  question's summary sets three programmes side by side: late mitochondrion
+  after a complex host (LIT-1566), mostly Asgard inheritance (this work) and
+  waves of bacterial transfer (LIT-1561). The reading changes that picture.
+  - **This paper is itself mitochondrion-late.** It favours a complex
+    Asgard FECA and a mitochondrion acquired "relatively late". On timing it
+    sits with Kay et al. (as the record summarizes them; LIT-1566 is unread),
+    not against them.
+  - **It is two-partner on symbiosis, not on genes.** It accepts many
+    bacterial donors, "both before and after endosymbiosis". What it denies
+    is that any of them was a further symbiotic partner.
+  - **Its disagreement with Bernabeu et al. is real but narrow.** It is about
+    whether the non-alphaproteobacterial genes cluster by donor (a few major
+    donors, in waves) or are diffuse; whether stem lengths can time them;
+    and whether a liberal pangenome filter lets late transfer in. Neither
+    paper's data can show what kind of interaction moved the genes.
+    Bernabeu et al. say so of their own data (NOTE-tmpe5t7q).
+  - **For the dimensions.** The paper bears on G, how essential functions
+    are split across partner genomes: on its account the host lineage
+    supplies nearly everything except the mitochondrion's energy and Fe–S
+    machinery. It says nothing about D, R, C or S, and nothing about how the
+    partners came to depend on each other.
+- **NOTE-159** reports the SEP entry's suggestion that eukaryogenesis may be
+  "first and foremost a story about diversification within Archaea". This
+  paper is the strongest version of that view so far in the record. But
+  it still calls the mitochondrion "functionally crucial", so the
+  endosymbiosis remains in the story.
+- **THEORY-141 and THEORY-418.** Nothing here tests them. The paper models
+  gene origins, not selection or organization.
+- Filed as THEORY-tmpfoo2c (the composition result and its reading) and
+  THEORY-tmpbinho (stem length is not a clock). No instruction for
+  machine-learning practice.
+
+## Limitations
+
+- **Sampling.** The authors' "above all" caveat. Most Asgard genomes are
+  incomplete metagenomic assemblies. Sequenced Alphaproteobacteria are biased
+  to reduced symbionts and parasites, and the mitochondrial ancestor "apparently
+  belongs outside of the currently known diversity". Other phyla are "even
+  more severely under-sampled".
+- **What "dominant" measures.** It is a share of likelihood weight among
+  families that pass a 0.4 confidence floor and a 0.99 ceiling, in trees of
+  at most 100 sequences, among at most 12 candidate sisters. It is not a
+  count of genes in a reconstructed LECA proteome. Families with no
+  prokaryotic homologue are not in it.
+- **An unequal label.** All Asgard sequences share one label while bacteria
+  are split into classes. The GTDB phylum re-run is the authors' control and
+  the Asgard lead held. The rest of the ranking was less stable: "the
+  correlations for other taxa were lower".
+- **The ELW window is asymmetric.** ELW ≥ 0.99 is excluded as late transfer
+  except for alphaproteobacterial oxidative phosphorylation. This favours the
+  alphaproteobacterial count in that one pathway; it is not shown what it
+  does elsewhere.
+- **The scenario is not tested.** That the cytoskeleton and endomembranes
+  were Asgard-borne before the mitochondrion is read off gene ancestry. The
+  paper has no timing method it trusts.
+- **The stem-length alternative is untested.** "Post-acquisition adaptation"
+  is "at least partially supported" by long stems from diverse bacteria, and
+  no more.
+- **Slips in the PMC copy.**
+  - In the Discussion, refs 64–66 seem misnumbered. "As posited in some
+    previous models26,64" cites Koonin & Yutin on giant DNA viruses (64).
+    "Mosaic gene composition of prokaryotic genomes65,66" cites the Bernabeu
+    preprint and an archaeal-lipid engineering paper.
+  - Extended Data Fig. 9b's caption excludes Asgard, Euryarchaeota, TACK,
+    DPANN, Cyanobacteriota and Alphaproteobacteria from the "diverse"
+    category. The text splits the same 130 EPOCs into 33 diverse and 97
+    Asgard, leaving no room for the other excluded groups. It is unclear
+    whether none occurred or the split is reported loosely.
+
+  None of these changes a result.
+
+## Open questions
+
+- Does the Asgard share hold when Asgard genomes are complete and when the
+  mitochondrial ancestor's closer relatives are sampled? The authors expect
+  it will.
+- Is the Myxococcota signal larger than seen here? A closer look at the
+  steroid pathway downstream of diterpenoids, cut by the paper's scope
+  criteria, would bear on the syntrophy models.
+- What, if not acquisition time, sets stem length? A test would be stem
+  lengths for gene sets of known common origin and different functional
+  constraint, beyond the oxidative phosphorylation case.
+- How did an Asgard cell come to have bacterial-type membranes? The paper
+  names this, with the origin of the nucleus, as the open problem.

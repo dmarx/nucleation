@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpzwgk0
 title: 'When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host''s regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -16,6 +16,10 @@ history:
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (readings) added: what the readings of LIT-1568, LIT-1571 and LIT-1570 say of the routes and dimensions. The summary's account of Athreya et al. is corrected there. LIT-1573 could not be fetched. The question is unchanged.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (batch 2) added: what ten more readings say of the routes, the dimensions and the eukaryogenesis framing. The "Why it is a question" section's account of the transfer-and-import route, and of the eukaryogenesis disagreement, is corrected there. The question is unchanged.
 tags:
 - individuation
 - philosophy-of-biology
@@ -37,6 +41,7 @@ summary: >-
   which of them a theory of individuality must require. All the works cited
   are filed unread.
 ---
+<!-- inactive-ok-file: THEORY-tmp74xnn THEORY-tmpkvjih THEORY-tmp247k7 THEORY-tmpehubi THEORY-tmpjel7l THEORY-tmp5wptr THEORY-tmpckv2l THEORY-tmpyig9c THEORY-tmpfoo2c THEORY-tmpbinho THEORY-tmphywi5 THEORY-tmpyr6q4 NOTE-tmpl32gd NOTE-tmpuq8at NOTE-tmp82xw1 NOTE-tmp6a57o NOTE-tmp2el8z NOTE-tmpjgenc NOTE-tmpeb08c NOTE-tmppkn6v NOTE-tmpe5t7q NOTE-tmphab0m LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: THEORY-1048 THEORY-1049 THEORY-1050 THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (readings) -->
 
 <!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 LIT-1225 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
@@ -207,3 +212,103 @@ host control of transmission. If a host can impose cohesion on its own,
 dissociation depends on one partner's trait, and on Athreya et al.'s
 Table S1 the dependence-first bias largely goes. Reading Frank is the
 next step on the R and C dimensions.
+
+## Note of 2026-10-27 (batch 2): ten more readings
+
+Ten more works have been read in full. The other 21 unread works in the
+cluster could not be fetched (11 Unfetched, 10 Unavailable; see their
+LITs).
+
+**Routes.**
+
+- **Transfer and import is mostly import** (LIT-1560, NOTE-tmpl32gd,
+  THEORY-tmp74xnn). In the two systems with import at scale:
+  - the *Paulinella* chromatophore imports hundreds of proteins, "mostly
+    from the host itself", and transfer from the symbiont played "only a
+    circumstantial role";
+  - the nitroplast imports more than 350, with no transfer from the
+    symbiont found.
+
+  So the route above ("Genes move to the host nucleus and their products
+  are imported back") is wrong as stated. Import moves C and G without the
+  symbiont's genes moving, and it shares third-party genes with the
+  host-compensation route.
+- **An order to test** (THEORY-tmpkvjih). Sørensen et al. propose:
+  - host effectors first (C);
+  - then dependence (D), when one redundant imported protein lets the
+    symbiont's gene decay;
+  - then general import, which shifts G.
+
+  Vertical transmission (R) is a condition: rhizobia are targeted by host
+  peptides, are not transmitted vertically, and are not integrated. This
+  reverses the insect order of THEORY-1049, where the symbiont's losses
+  come first. Neither order has been watched in one lineage.
+- **Complementary loss moves G and the symbiont's D, not C** (LIT-1596,
+  NOTE-tmp82xw1, THEORY-tmpehubi). *Buchnera* keeps the pathways for the
+  amino acids its host cannot make, and builds them on host-made
+  precursors. It has lost its own regulators, which is not the same as
+  being regulated. The genome paper names no mechanism of reduction; drift
+  is LIT-1573's account, which is Unfetched.
+- **Host compensation maintains R, perhaps at a cost to C and S**
+  (LIT-1590, NOTE-tmp6a57o, THEORY-tmpjel7l). Cicadas send more *Hodgkinia*
+  cells per egg as the symbiont splits, so every lineage still reaches
+  every egg. The authors speculate that larger transmitted populations
+  weaken bottlenecks and host control. If so, keeping R costs S, and an
+  answer must say how the dimensions trade off. The rise is significant in
+  one species of four.
+- **Integration undone in steps** (LIT-1574, NOTE-tmpuq8at,
+  THEORY-tmp247k7). *Monocercomonoides* lost its mitochondrion only after
+  the organelle's essential jobs went one at a time. First, Fe–S assembly
+  moved to a SUF system that relatives with organelles share. Then the
+  glycine cleavage system was lost. This is host compensation with a third
+  lineage's genes, run to dissolution.
+- **No import below the tipping point.** The host proteins seen inside
+  insect symbionts are in *Buchnera* and *Moranella*, both above
+  THEORY-1049's thresholds (CASE-171, CASE-173). Host supply of
+  tipping-point endosymbionts remains inferred.
+
+**Dependence stays directional even in an organelle.** The nitroplast's
+host can lose UCYN-A when given fixed nitrogen in culture (CASE-167).
+The symbiont cannot live without the host. D must be scored in each
+direction, as the question says.
+
+**Eukaryogenesis: the disagreement is narrower than stated above.** The
+"Why it is a question" section set three programmes against each other on
+whether eukaryogenesis was "one two-partner merger or a sequence of
+associations". The readings change that.
+
+- **All three accept one endosymbiosis**, an Asgard-related host with an
+  alphaproteobacterium. All three also accept bacterial genes from other
+  donors, some before the mitochondrion (LIT-1566, LIT-1558, LIT-1561,
+  read in NOTE-tmp2el8z, NOTE-tmppkn6v, NOTE-tmpe5t7q).
+- **Tobiasson et al. are themselves mitochondrion-late**, so they agree
+  with Kay et al. on order (THEORY-tmpfoo2c). Kay et al. argue against
+  serial endosymbiosis (THEORY-tmp5wptr).
+- **The live dispute is between Tobiasson and Bernabeu.** Are the other
+  bacterial genes diffuse transfers or a few major donors in waves? And
+  can stem lengths time acquisitions at all? Tobiasson et al.'s own test
+  says mostly not (THEORY-tmpbinho), while Bernabeu et al.'s waves rest
+  on them (THEORY-tmphywi5). Pittis and Gabaldón's mito-late order rests
+  on the same measure (LIT-1595, NOTE-tmpjgenc, THEORY-tmpckv2l).
+- **No donor is shown to be a partner.** Bernabeu et al. say their data
+  "do not provide information on the host or endosymbiotic nature of any
+  partner". So "distributed" means distributed gene donors, not a series
+  of collectives. For this question, the eukaryogenesis papers bear on G
+  and not on R or S.
+- **The metabolism is chimeric, but that does not single out syntrophy**
+  (LIT-1564, NOTE-tmphab0m, THEORY-tmpyr6q4). Any archaeal host taking up
+  a bacterium with a TCA cycle predicts the split. The paper adds an
+  instance of C: enzymes of non-alphaproteobacterial origin now work
+  inside the mitochondrion. It also offers, as a possibility, a mechanism
+  the routes above do not name: host genes duplicated and sent into the
+  organelle "might have promoted the genome reduction of the
+  endosymbiont".
+- **A dependence before any endosymbiosis** (LIT-1591, NOTE-tmpeb08c,
+  THEORY-tmpyig9c). The cultured Asgard archaeon grows only with
+  interchangeable methanogen partners. That is high D with no R and no C:
+  interdependence without individuality at the start of the story. In the
+  authors' E3 model the host makes the hydrogen, and they favour an
+  interaction other than hydrogen transfer as the driver. So this case
+  does not support the hydrogen hypothesis (LIT-1597, unread), and the
+  previous note's grouping of the two under "syntrophy" needs that
+  caveat.
