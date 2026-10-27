@@ -80,7 +80,7 @@ relations. This claim splits precedence into a claim and a grant.
 - It does not say granted authority always wins. Impulsive action is the
   case where the claim outruns the grant and still governs.
 - It does not say that internal conflict is the gap. That identification
-  was this claim's second half until 2026-10-27, and is now CLAIM-tmpxb1wf,
+  was this claim's second half until 2026-10-27, and is now [CLAIM-tmpxb1wf](CLAIM-tmpxb1wf.md),
   Proposed.
 - It does not say the grant is made by a separate regulator. On [THEORY-056](../theory.d/THEORY-056.md)
   it is made by other motive states, and [QUESTION-054](../questions.d/QUESTION-054.md) is open.
@@ -123,26 +123,26 @@ the first for promotion under [ADR-047](../decisions.d/ADR-047.md). Not done her
 
 ## Note of 2026-10-27: the concept, not the account
 
-The status review of this date (ADR-057) moved this claim from grounding
-in THEORY-055 to using TERM-tmp3mqer, Frijda's action readiness with
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim from grounding
+in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md), Frijda's action readiness with
 control precedence. The claim uses the concept. It does not need the
-account's thesis about what elicits an emotion, which THEORY-057 contests
+account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
 and which stays Proposed.
 
 ## Note of 2026-10-27: narrowed and promoted
 
-The status review of this date (ADR-057) narrowed this claim to the
-distinction and promoted it. Each of its four dependents (CLAIM-368,
-CLAIM-440, CLAIM-442 and CLAIM-446) uses the distinction and none uses
-the identification of conflict with the gap, which is now CLAIM-tmpxb1wf.
-Its premises are the TERMs it uses, both Active. THEORY-055 and THEORY-056
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) narrowed this claim to the
+distinction and promoted it. Each of its four dependents ([CLAIM-368](CLAIM-368.md),
+[CLAIM-440](CLAIM-440.md), [CLAIM-442](CLAIM-442.md) and [CLAIM-446](CLAIM-446.md)) uses the distinction and none uses
+the identification of conflict with the gap, which is now [CLAIM-tmpxb1wf](CLAIM-tmpxb1wf.md).
+Its premises are the TERMs it uses, both Active. [THEORY-055](../theory.d/THEORY-055.md) and [THEORY-056](../theory.d/THEORY-056.md)
 had been grounds. The directive above already said "nothing here rests on
-their being settled". The first is replaced by its concept, TERM-tmp3mqer.
+their being settled". The first is replaced by its concept, [TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md).
 The second is cited in the body as one account of how the grant is made,
 which the claim leaves open. No objection is filed. Its defeater's first
-clause is against the documented cases (CASE-151, CASE-127, THEORY-603),
+clause is against the documented cases ([CASE-151](../cases.d/CASE-151.md), [CASE-127](../cases.d/CASE-127.md), [THEORY-603](../theory.d/THEORY-603.md)),
 where significance was recognized and authority not granted. Its second
 clause asks for an argument that granted authority adds nothing once the
-competing motives are counted. THEORY-056 is the closest account, and on
+competing motives are counted. [THEORY-056](../theory.d/THEORY-056.md) is the closest account, and on
 it the grant is the outcome of the competition, which is still a different
 quantity from what one motive claims.

@@ -106,23 +106,23 @@ second source. [CLAIM-217](CLAIM-217.md) later supplied an argument for the reve
 
 ## Note of 2026-10-27: narrowed and promoted
 
-The status review of this date (ADR-057) narrowed this claim to what the
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) narrowed this claim to what the
 record observed, and promoted it. Version 1 also said that such an
 argument fails at identity *rather than* at structure, in general. That
 comparison was counted in one exchange, with one owner and one assistant
 family, which this entry's own body called "a pattern, not a measurement".
-It is now CLAIM-tmpuhp12, Proposed, with version 1's defeater.
+It is now [CLAIM-tmpuhp12](CLAIM-tmpuhp12.md), Proposed, with version 1's defeater.
 
 The observation has been made again since it was filed, in exchanges this
 claim did not cite:
 
 - In the exchange of 2026-10-17, A12 rebuilt the will essay without citing
-  it (CLAIM-027's note of 2026-10-18). CLAIM-122 was re-derived three times
+  it ([CLAIM-027](CLAIM-027.md)'s note of 2026-10-18). [CLAIM-122](CLAIM-122.md) was re-derived three times
   without being cited.
-- In the exchange of 2026-10-20, neither reply cited CLAIM-025, or the
-  THEORY-145 that grounded it, while restating both (CLAIM-025's note of
+- In the exchange of 2026-10-20, neither reply cited [CLAIM-025](CLAIM-025.md), or the
+  [THEORY-145](../theory.d/THEORY-145.md) that grounded it, while restating both ([CLAIM-025](CLAIM-025.md)'s note of
   2026-10-21).
-- Notes on CLAIM-086, CLAIM-150, CLAIM-277 and CLAIM-329 record the same
+- Notes on [CLAIM-086](CLAIM-086.md), [CLAIM-150](CLAIM-150.md), [CLAIM-277](CLAIM-277.md) and [CLAIM-329](CLAIM-329.md) record the same
   thing for the exchanges of 2026-10-13 and later.
 
 Six exchanges, one owner and one assistant family. The title says that

@@ -24,12 +24,12 @@ rests_on:
 answers:
 - QUESTION-037
 summary: >-
-  The comparative and general half of CLAIM-177 version 1, split off by
-  the status review of 2026-10-27 (ADR-057) and kept Proposed. CLAIM-177
+  The comparative and general half of [CLAIM-177](CLAIM-177.md) version 1, split off by
+  the status review of 2026-10-27 ([ADR-057](../decisions.d/ADR-057.md)) and kept Proposed. [CLAIM-177](CLAIM-177.md)
   now says what the record observed: identity failures recurring across
   six exchanges with one owner and one assistant family. Whether they
   outnumber structure defects was counted in one exchange only, and the
-  population is one owner and one family, which CLAIM-177's own body
+  population is one owner and one family, which [CLAIM-177](CLAIM-177.md)'s own body
   called "a pattern, not a measurement".
 ---
 <!-- inactive-ok-file: CLAIM-176 — Proposed; the dependent whose "exactly" leans on this half -->
@@ -38,18 +38,18 @@ summary: >-
 
 ## The claim
 
-CLAIM-177 version 1 said that such an argument "fails at identity, not at
+[CLAIM-177](CLAIM-177.md) version 1 said that such an argument "fails at identity, not at
 structure". Two things in that are more than the record observed:
 
 - **The comparison.** Only the will exchange was read move by move for
-  both kinds of defect (ADR-032). There, 7 of about 30 claims in the final
+  both kinds of defect ([ADR-032](../decisions.d/ADR-032.md)). There, 7 of about 30 claims in the final
   manuscript had more than one independent line of support. Structure was
   thin, and identity failures were what went wrong.
 - **The population.** Every exchange since has been one owner with one
   assistant family.
 
 If both hold generally, the remedy follows: code a thing the second time
-it turns up (CLAIM-176), and do not expect argument mapping to help. That
+it turns up ([CLAIM-176](CLAIM-176.md)), and do not expect argument mapping to help. That
 is the design argument of the nucleating-argument line.
 
 ## Why it is Proposed
