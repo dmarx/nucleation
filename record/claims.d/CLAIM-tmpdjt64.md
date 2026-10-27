@@ -47,6 +47,8 @@ grounds:
 - LIT-tmpnpxhs
 - LIT-016
 - THEORY-299
+uses:
+- TERM-tmpo91ac
 summary: >-
   The owner's U20 of the exchange of 2026-10-27, "interactions generate
   constraints that manifest as gluing conditions between intertial frames",
@@ -62,6 +64,7 @@ summary: >-
   physically operative correspondence structure, rather than revealing or
   redescribing it.
 ---
+<!-- inactive-ok-file: TERM-tmpo91ac — Proposed; the terms this claim is stated in, proposed the same evening -->
 <!-- inactive-ok-file: QUESTION-tmplxq7l THEORY-tmpvecoh THEORY-tmptkmt9 — Open or new; the open question this restatement names and the readings it rests on -->
 <!-- inactive-ok-file: CLAIM-tmpose3y — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-143 CLAIM-tmpfw510 CLAIM-tmpywecm CLAIM-tmpose3y CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->

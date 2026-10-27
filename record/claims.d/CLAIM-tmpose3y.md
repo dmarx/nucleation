@@ -45,6 +45,9 @@ grounds:
 - LIT-1245
 - THEORY-tmpvecoh
 - THEORY-tmpugh7c
+uses:
+- TERM-tmpk211q
+- TERM-tmpk6w4q
 summary: >-
   From A22 §4 and A23 §IV of the exchange of 2026-10-27, which called
   composition "the most important missing mechanism" after the owner's
@@ -60,6 +63,7 @@ summary: >-
   than the parts used (THEORY-tmpvecoh; QUESTION-tmprr9yy). It is independent evidence
   for [CLAIM-tmpmand1](CLAIM-tmpmand1.md), that constraints are realized by organization.
 ---
+<!-- inactive-ok-file: TERM-tmpk211q TERM-tmpk6w4q — Proposed; the terms this claim is stated in, proposed the same evening -->
 <!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-tmpmx2ql CLAIM-tmpdjt64 — Proposed; the claims this corroborates and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpnyd4r — Unavailable; cited for what it is standardly cited for -->
 <!-- inactive-ok-file: QUESTION-tmprr9yy CLAIM-419 CLAIM-tmpoe0v5 — Open, Proposed or new; the question this result raises and the claims about luria it bears on -->

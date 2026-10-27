@@ -33,6 +33,7 @@ grounds:
 uses:
 - TERM-065
 - TERM-064
+- TERM-tmpkcsdo
 summary: >-
   The owner's, U17 of the exchange of 2026-10-27: "resource constraints
   impact specification in exactly the same way as they impact
@@ -46,6 +47,7 @@ summary: >-
   is a separation of time scales ([CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)), and entrenches what it
   makes cheap.
 ---
+<!-- inactive-ok-file: TERM-tmpkcsdo — Proposed; the terms this claim is stated in, proposed the same evening -->
 <!-- inactive-ok-file: THEORY-tmp24sxe THEORY-tmpq9x5h — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-tmpalzo4 CLAIM-tmpmx2ql CLAIM-tmpl228b CLAIM-184 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmp4mxqc LIT-tmpcvoqn LIT-tmpovn5z LIT-tmpjnkzw LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->

@@ -49,6 +49,11 @@ grounds:
 - THEORY-tmptkmt9
 - THEORY-tmpvecoh
 - CASE-tmpl995z
+uses:
+- TERM-tmpdnqic
+- TERM-tmpo91ac
+- TERM-tmpk211q
+- TERM-tmpkcsdo
 summary: >-
   Filed at the owner's review of the pull request, which asked for a
   synthesis "From Interconnection to Individuation: A Relational
@@ -63,6 +68,7 @@ summary: >-
   [QUESTION-tmplxq7l](../questions.d/QUESTION-tmplxq7l.md), [QUESTION-tmprr9yy](../questions.d/QUESTION-tmprr9yy.md), [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md),
   [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md) and [QUESTION-115](../questions.d/QUESTION-115.md).
 ---
+<!-- inactive-ok-file: TERM-tmpdnqic TERM-tmpo91ac TERM-tmpk211q TERM-tmpkcsdo — Proposed; the terms this claim is stated in, proposed the same evening -->
 <!-- inactive-ok-file: CLAIM-tmpdjt64 CLAIM-tmpose3y CLAIM-tmpywecm CLAIM-tmpalzo4 CLAIM-tmpi1bjh CLAIM-tmpmand1 CLAIM-tmpmx2ql CLAIM-tmp0yhlm CLAIM-342 CLAIM-395 CASE-tmpl995z — Proposed or new; the claims this synthesis organizes, cited as open -->
 <!-- inactive-ok-file: QUESTION-tmplxq7l QUESTION-tmprr9yy QUESTION-tmpubsi9 QUESTION-tmpl1yih QUESTION-115 QUESTION-063 THEORY-tmphcxoi THEORY-tmp0d0qe — Open or Proposed; the open questions and readings the program names -->
 
