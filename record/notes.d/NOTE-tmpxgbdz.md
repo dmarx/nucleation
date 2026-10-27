@@ -329,7 +329,7 @@ that it was lacking.
 
 ## Bearing on the record
 
-- **CLAIM-tmpalzo4: the exchange's description holds, and its limit is
+- **[CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md): the exchange's description holds, and its limit is
   exact; CEGAR is a worked case of refinement within a fixed answer space,
   not of revising it.** A16 §6's four steps are the paper's §3 (p. 7):
   merged states, a counterexample, a check against the concrete system,
@@ -348,36 +348,36 @@ that it was lacking.
   specification already admitted", which is the shape of the claim's
   defeater (a). CEGAR therefore supports the claim's first two parts by
   analogy and bounds its last clause. Revising what an answer could be is
-  exactly what it does not do (THEORY-tmpz87qo).
-- **CLAIM-419 (luria's DP-016 in this record): the pattern matches, and two
+  exactly what it does not do ([THEORY-tmpz87qo](../theory.d/THEORY-tmpz87qo.md)).
+- **[CLAIM-419](../claims.d/CLAIM-419.md) (luria's DP-016 in this record): the pattern matches, and two
   disanalogies are worth keeping.** The match: a failure under a fixed
   specification is read as the abstraction's fault, located, and answered
   by a split that removes it (pp. 7, 11). A spurious counterexample is the
-  abstraction asserting a behaviour the system lacks, as in CASE-131 the
+  abstraction asserting a behaviour the system lacks, as in [CASE-131](../cases.d/CASE-131.md) the
   grammar "asserted an inference nobody made". First disanalogy: in CEGAR
   the misfit is certified. Lemma 1 decides spuriousness against the
   concrete system, and §4.3 computes the distinction that was missing
   (S_{i,0} against S_{i,1}). The record has no concrete model to image
-  against, and CLAIM-419's own limit, that a move silently forced into a
+  against, and [CLAIM-419](../claims.d/CLAIM-419.md)'s own limit, that a move silently forced into a
   wrong shape leaves no trace, has no counterpart in CEGAR: there, every
   wrong merge that matters to φ eventually shows up as a spurious
   counterexample. Second disanalogy: CEGAR only splits. Luria's
-  amendments include adding relations (ADR-044's `corroborates`) and
-  fields (ADR-043's `warrant`), which are not splits of a class. Of
-  CLAIM-419's five, only a split of a conflated relation fits the
-  algorithm. The anti-ad-hoc constraint that CLAIM-419 takes from A18 has a
+  amendments include adding relations ([ADR-044](../decisions.d/ADR-044.md)'s `corroborates`) and
+  fields ([ADR-043](../decisions.d/ADR-043.md)'s `warrant`), which are not splits of a class. Of
+  [CLAIM-419](../claims.d/CLAIM-419.md)'s five, only a split of a conflated relation fits the
+  algorithm. The anti-ad-hoc constraint that [CLAIM-419](../claims.d/CLAIM-419.md) takes from A18 has a
   formal neighbour here: the paper wants the coarsest split that removes
   the counterexample, and finds that it is NP-hard in general (Theorem 3,
   p. 11). The least amendment that answers a misfit can be hard to find
   even when the misfit is certified.
-- **CLAIM-tmpl228b.** A7's formalization, Obj(A_t, D_t) ≠ Obj(A_{t+1}, D_t),
+- **[CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md).** A7's formalization, Obj(A_t, D_t) ≠ Obj(A_{t+1}, D_t),
   has its exact counterpart here: the same concrete M under a refined h
   yields a different abstract structure M̂ and different abstract states
   (p. 5). But the concrete states are individuated before any abstraction
   and independently of it (§2, p. 4). In CEGAR the apparatus constitutes
-  only the abstract objects. That is the part of CLAIM-tmpl228b that A7
+  only the abstract objects. That is the part of [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) that A7
   called demonstrable, and the paper offers no support beyond it.
-- **CLAIM-181.** CEGAR's grammar (the abstraction) is fixed at each step and
+- **[CLAIM-181](../claims.d/CLAIM-181.md).** CEGAR's grammar (the abstraction) is fixed at each step and
   amended on misfit, and the misfit that drives it is always detected,
   since the check is exhaustive and finite. It is a case where a move the
   grammar cannot hold is never lost. That depends on a concrete model and a
@@ -433,4 +433,4 @@ that it was lacking.
   (p. 15)?
 - Is there a counterpart that revises the property rather than the
   abstraction, with a check as decisive as Lemma 1? Nothing in the paper
-  bears on it. It is the question CLAIM-tmpalzo4's last clause raises.
+  bears on it. It is the question [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md)'s last clause raises.

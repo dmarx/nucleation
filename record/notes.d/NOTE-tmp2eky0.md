@@ -43,7 +43,7 @@ Shannon's theory and Everett's measure, and nothing is added to the quantum
 formalism (§§II–IV, pp. 1–4). The new move is the relatum. Facts are relative
 to commutative subalgebras of observables, not to whole quantum systems, which
 the authors call "a novelty with respect to the RQM literature" (p. 4). Their
-own earlier papers, the companion LIT-tmpqu50n among them, are named as
+own earlier papers, the companion [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md) among them, are named as
 attempts "to define facts relative to entire quantum systems". With these
 definitions the paper treats measurement as continuous growth of relative
 information (§VII, App. B), shows perspectives merging in a three-system
@@ -242,7 +242,7 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
   The paper holds (E2) "true according to quantum theory" and (E1) false: "at
   no time will p_QM satisfy (E1)" for x ≠ 1 (E3). "Charlie's outcome is not a
   stable fact with respect to Alice, in the RQM sense of [13]", which is
-  LIT-tmpqu50n (p. 11).
+  [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md) (p. 11).
 
 ## Claims
 
@@ -282,21 +282,21 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
 - **Merging of perspectives**: two classical subsystems agree on a variable's
   value and on each other's values (p. 5).
 - **Stable fact**: used once (App. E, p. 11) in the sense of ref. [13],
-  LIT-tmpqu50n. It is not defined here.
+  [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md). It is not defined here.
 
 ## Connections
 
-- **Rovelli 1996**, ref. [3] (LIT-tmp57r0s, read). The 1996 paper made states
-  and values relative to systems that are assumed given (THEORY-tmpduhhr), and
+- **Rovelli 1996**, ref. [3] ([LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), read). The 1996 paper made states
+  and values relative to systems that are assumed given ([THEORY-tmpduhhr](../theory.d/THEORY-tmpduhhr.md)), and
   replaced "the state" with "the information that a system has about another
   system". This paper keeps that and makes the information Shannon's. The
   relatum moves from the system to its commutative subalgebras. The system is
   still given, now as a set of distinguished variables (§V, p. 4).
-- **Rovelli 2021**, ref. [1] (LIT-177, read in NOTE-174; THEORY-621). The
+- **Rovelli 2021**, ref. [1] ([LIT-177](../literature.d/LIT-177.md), read in [NOTE-174](NOTE-174.md); [THEORY-621](../theory.d/THEORY-621.md)). The
   chapter has facts "sparse, occurring only in interactions". This paper
   "allows talk of relative facts also in-between interactions" (p. 7), because
   a relative fact is a property of a joint distribution at any time.
-- **Di Biagio & Rovelli 2021**, ref. [13] (LIT-tmpqu50n, unread). It is cited
+- **Di Biagio & Rovelli 2021**, ref. [13] ([LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md), unread). It is cited
   for "relative fact" (p. 1) and for "stable fact" (p. 11). It is also listed
   among the earlier attempts "to define facts relative to entire quantum
   systems", which "rendered the notion somewhat problematic" (p. 4).
@@ -309,7 +309,7 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
   unobservable addition (p. 7) and thanks Cavalcanti for "pressing" that it "is
   not an idea in line with the perspectival spirit of RQM". That is a retreat
   from [22].
-- **Zurek**, refs. [33, 34] (Zurek 2009 is LIT-tmpb4amz): the account
+- **Zurek**, refs. [33, 34] (Zurek 2009 is [LIT-tmpb4amz](../literature.d/LIT-tmpb4amz.md)): the account
   of intersubjectivity is borrowed from quantum Darwinism (§VIII, App. C).
 - **Everett**, refs. [15, 16]: the information measure and relative states.
   The state here is relative "but it does not give ontological weight to the
@@ -318,7 +318,7 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
 
 ## Bearing on the record
 
-- **QUESTION-tmpubsi9: a quantitative criterion for the correlation rung, and
+- **[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md): a quantitative criterion for the correlation rung, and
   a measurement rung that cannot be told apart from it.** The paper defines
   "B has information about A" as I_{A:B} ≠ 0, "in this general and nonmental
   sense" (p. 3). A measurement is the same quantity driven to its maximum,
@@ -341,7 +341,7 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
   sense, not in the macroscopic one. A19's "high-priority new prior art" holds
   for the definitions. It does not hold for the measurement–inquiry part of
   the question.
-- **TERM-tmpjdel0: differentiation made quantitative, with a cost the term
+- **[TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md): differentiation made quantitative, with a cost the term
   does not name.** The term's first function, coupling differences in one
   system to distinguishable outcomes in another, is the paper's relative fact:
   a pointer variable whose values fix the measured variable's, I_{A|B} =
@@ -353,7 +353,7 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
   no information about the variable of interest. Wigner's M returns 1 and
   "Wigner gains no information about Z or F" (App. D, p. 10). That fits the
   term's "selectively". Retention, enforcement and revision are not touched.
-- **THEORY-621: a correction to one of its stated prices, and worked cases for
+- **[THEORY-621](../theory.d/THEORY-621.md): a correction to one of its stated prices, and worked cases for
   its consistency gap.** The THEORY's title gives as a price that "values are
   not held at all times". On this reformulation relative facts are features of
   the joint distribution at any time, and the conclusion says it "allows talk
@@ -368,7 +368,7 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
   symptom of the relationality of facts", and no joint distribution over
   Alice's, Bob's and Charlie's outcomes exists (E3). The THEORY's
   `promote_when` is not met.
-- **THEORY-tmpleurt (Rovelli 1996, consistency shown for one case).** Its
+- **[THEORY-tmpleurt](../theory.d/THEORY-tmpleurt.md) (Rovelli 1996, consistency shown for one case).** Its
   second half is still only shown in examples. The 2025 paper adds the
   three-system merge and Wigner's friend relative to O. It also adds a
   qualification the 1996 text lacked: perspectives agree only when they
@@ -378,21 +378,21 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
   between views is itself relative to a third system, is restated: "When we say
   that a variable B has information about another variable A, we are saying
   that this is the case relative to us … relativity iterates" (p. 7).
-- **THEORY-tmpduhhr (Rovelli 1996, systems prior).** The 2025 text keeps the
+- **[THEORY-tmpduhhr](../theory.d/THEORY-tmpduhhr.md) (Rovelli 1996, systems prior).** The 2025 text keeps the
   relata prior. A system "is more appropriately thought of as consisting of a
   set of physical variables" (p. 4), assumed, as W(S) was. What changes is
   which relatum holds a perspective: a commutative subalgebra, not a system. A
   system as a whole can have none if its variables do not commute. The same
-  supports CLAIM-tmpmand1's note that RQM is non-eliminative. The subalgebra is
+  supports [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md)'s note that RQM is non-eliminative. The subalgebra is
   chosen, not constituted by the relations, so the analogy's "partly fixed by
   the constraints" still finds no support in RQM.
-- **LIT-tmpqu50n (the companion, read in parallel).** This paper places its
+- **[LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md) (the companion, read in parallel).** This paper places its
   predecessor among the attempts to define facts relative to entire quantum
   systems, which "rendered the notion somewhat problematic" (p. 4). It uses
   "stable fact" once, in [13]'s sense (p. 11), and does not restate the stable
-  facts account. Whoever reads LIT-tmpqu50n should check whether its
+  facts account. Whoever reads [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md) should check whether its
   "relative to a system" survives this paper's correction.
-- **CLAIM-342 and the self-confirming loop.** This bears on CLAIM-342 by
+- **[CLAIM-342](../claims.d/CLAIM-342.md) and the self-confirming loop.** This bears on [CLAIM-342](../claims.d/CLAIM-342.md) by
   analogy only. The paper says the sole route to another perspective's facts
   is to "interact with either that variable or that system in an appropriate
   way", and that interacting with the wrong variable can remove the fact
@@ -438,7 +438,7 @@ declines the regress: "exiting relationality is not physics" (§IX, p. 7).
 - Do descriptions relative to two different outside systems, each a
   commutative subalgebra, ever disagree about a third pair's relative facts? A
   general theorem, or a counterexample, would settle the consistency gap
-  THEORY-621 and THEORY-tmpleurt name (THEORY-tmphcxoi).
+  [THEORY-621](../theory.d/THEORY-621.md) and [THEORY-tmpleurt](../theory.d/THEORY-tmpleurt.md) name ([THEORY-tmphcxoi](../theory.d/THEORY-tmphcxoi.md)).
 - What fixes the threshold at which information counts as a fact, and is it
   ever set without a user?
 - In a full-rank (realistic) measurement, how fast does the conditional

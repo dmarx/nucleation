@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmpzqos6), from arXiv v2; worth reading
+  read in full 2026-10-27 ([NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md)), from arXiv v2; worth reading
   as the standard introduction to sheaf Laplacians: the kernel is the
   global sections, the heat flow projects onto them, and a set of spectral
   graph theory's basics lift with short proofs. Exploratory by its own
@@ -72,7 +72,7 @@ summary: >-
 
 Hansen, J., & Ghrist, R. (2019). Toward a spectral theory of cellular sheaves. *Journal of Applied and Computational Topology*, 3(4), 315–358. doi:10.1007/s41468-019-00038-7. Preprint: arXiv:1808.01513.
 
-Read in full on 2026-10-27 (NOTE-tmpzqos6).
+Read in full on 2026-10-27 ([NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md)).
 
 ## Why this is here
 

@@ -237,12 +237,12 @@ work on finite topologies and cellular sheaves (Curry, ref. [42]; Shepard,
 ref. [41]). The loopy belief propagation example (Murphy, Weiss and Jordan,
 ref. [35]) is cited for "a topological feature – a loop" making Bayesian
 updates fail (p. 4). Hansen and Ghrist's cellular-sheaf Laplacian
-(LIT-tmpnpxhs), which the exchange used for the same purpose, postdates it
+([LIT-tmpnpxhs](../literature.d/LIT-tmpnpxhs.md)), which the exchange used for the same purpose, postdates it
 and is not cited.
 
 ## Bearing on the record
 
-- **CLAIM-tmpdjt64: the three operations, cleanly separated in a working
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md): the three operations, cleanly separated in a working
   system, and no interaction among them.** The restriction maps are the
   claim's correspondences ρ, written down from geometry before any data
   (p. 2; maps A–E, p. 16) and "(fixed)" (Axiom 5, p. 15). The observations
@@ -259,10 +259,10 @@ and is not cited.
   (Case 2, p. 28). It adds a fourth local-to-global obstruction to the
   claim's list: an H¹ class created by processing (Example 32, p. 37),
   which is about the maps, not the data.
-- **QUESTION-tmpubsi9: the test bed is measurement, not inquiry, and the
+- **[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md): the test bed is measurement, not inquiry, and the
   question's last paragraph misdescribes it.** The question offers
   "Distributed sensor networks that recalibrate from consistency
-  residuals (Robinson, LIT-tmpn521a)" as a test bed for the condition on
+  residuals (Robinson, [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md))" as a test bed for the condition on
   G. The paper does not recalibrate anything. The restriction maps are
   fixed (Axiom 5), and the data are replaced by the nearest global section
   (Problem 19). In A19's model that is A fixed: measurement with a quality
@@ -272,7 +272,7 @@ and is not cited.
   presented to the sheaf model, so that the output of its data fusion
   could be compared to the true value" (p. 25). That is the question's
   "what G is not allowed to rewrite", in its simplest form.
-- **CLAIM-143: an engineering instance of the order of tests, with the
+- **[CLAIM-143](../claims.d/CLAIM-143.md): an engineering instance of the order of tests, with the
   validation step assumed.** The sheaf model is built first and carries no
   data (p. 2); disagreement is measured only through the fixed maps
   (Definition 20). So the correspondence is fixed before disagreement is
@@ -282,15 +282,15 @@ and is not cited.
   reading cannot be told apart, in the residuals, from an error in the
   station coordinates (r2x, r2y) that maps B and D use (p. 16): some shift
   of the station produces the same discrepancy. The paper reads the
-  residual as a sensor fault because the maps are trusted (p. 28). CLAIM-265, the general
+  residual as a sensor fault because the maps are trusted (p. 28). [CLAIM-265](../claims.d/CLAIM-265.md), the general
   order of tests, has the same instance.
-- **CLAIM-342: a positive case of scoring through something the loop does
+- **[CLAIM-342](../claims.d/CLAIM-342.md): a positive case of scoring through something the loop does
   not control, and a caution.** Fusion always reaches consistency, since a
   global section has radius 0 (Proposition 21), so becoming coherent is
   guaranteed and says nothing. The paper's evidence that fusion helps is
   the error against a withheld truth (Table 2, p. 26), which the fusion
   never sees. That is the claim's anchor. Because the maps are fixed, the
-  all-zero collapse of THEORY-299 cannot occur here; it would need the maps
+  all-zero collapse of [THEORY-299](../theory.d/THEORY-299.md) cannot occur here; it would need the maps
   to be learned, which the paper does not do.
 - **The exchange (A21 §5, as the registration recorded it).** Right that
   the paper treats combining heterogeneous sensor data with sheaves, and
@@ -302,8 +302,8 @@ and is not cited.
   higher cohomology, which uses no data (pp. 3, 34), and the one model
   failure it shows (time not modelled, Example 30) is found that way.
   "Canonical" has no precise sense in the paper; there is no theorem
-  behind it (THEORY-tmp5nb96).
-- **NOTE-1059, LIT-1352 and QUESTION-255.** Those readings found that
+  behind it ([THEORY-tmp5nb96](../theory.d/THEORY-tmp5nb96.md)).
+- **[NOTE-1059](NOTE-1059.md), [LIT-1352](../literature.d/LIT-1352.md) and [QUESTION-255](../questions.d/QUESTION-255.md).** Those readings found that
   Lee-Youngzie et al.'s gluing test "has content only as the empirical
   consistency radius". The radius they rely on is this paper's Definition
   20, defined on a presheaf, so it applies there without the sheaf
@@ -347,7 +347,7 @@ and is not cited.
 
 - Can the per-domain discrepancies tell a faulty measurement from a faulty
   restriction map? In the paper both enter the residual the same way
-  (THEORY-tmpy95x7).
+  ([THEORY-tmpy95x7](../theory.d/THEORY-tmpy95x7.md)).
 - How does localization by discrepancy pattern perform over repeated
   trials, with stated detection and false-alarm rates?
 - What happens when the restriction maps are revised from the residuals,

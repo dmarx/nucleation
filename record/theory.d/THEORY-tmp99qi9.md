@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpdkjum
 summary: >-
-  Baez and Fong (arXiv 2015, TAC 2018), LIT-tmpdkjum, read in NOTE-tmpigjto:
+  Baez and Fong (arXiv 2015, TAC 2018), [LIT-tmpdkjum](../literature.d/LIT-tmpdkjum.md), read in [NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md):
   Thm 1.1, proved as Thm 7.7, for circuits of passive, linear, two-terminal
   components over a field with positive elements, inductors and capacitors
   entering through the Laplace transform with zero initial conditions. The
@@ -23,8 +23,8 @@ summary: >-
 ## Source
 
 Baez and Fong, "A Compositional Framework for Passive Linear Networks",
-LIT-tmpdkjum (arXiv 1504.05625v6), Thm 1.1 (p. 7), Thm 7.7 (p. 47), Section 8
-(pp. 48–51); read in NOTE-tmpigjto.
+[LIT-tmpdkjum](../literature.d/LIT-tmpdkjum.md) (arXiv 1504.05625v6), Thm 1.1 (p. 7), Thm 7.7 (p. 47), Section 8
+(pp. 48–51); read in [NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md).
 
 ## What was actually shown
 
@@ -82,7 +82,7 @@ tensor product.
   relation; the paper does not turn it into a time-domain statement, and it
   says nothing about a circuit with a nonzero initial interior state.
 - **Not that the composite's boundary relation is "emergent" beyond its
-  parts.** It is new relative to each part, as in CLAIM-tmpose3y's
+  parts.** It is new relative to each part, as in [CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)'s
   "neither part has", but functoriality means it is computed from the parts'
   black boxes and the gluing. No information about the interiors beyond
   their black boxes enters.
@@ -94,4 +94,4 @@ tensor product.
   (Prop. 2.12, by citation to the star-mesh transform); the image of ■ in
   LagRel is not characterized here.
 - **Not a statement about constraints or apparatus.** Those readings are the
-  record's (CLAIM-tmpose3y), not the paper's.
+  record's ([CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)), not the paper's.

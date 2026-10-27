@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpikbhf
 summary: >-
-  Clarke, Grumberg, Jha, Lu and Veith (2000), LIT-tmpikbhf, read in
-  NOTE-tmpxgbdz from the authors' manuscript of the CAV paper. Active: the
+  Clarke, Grumberg, Jha, Lu and Veith (2000), [LIT-tmpikbhf](../literature.d/LIT-tmpikbhf.md), read in
+  [NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md) from the authors' manuscript of the CAV paper. Active: the
   test for spuriousness (Lemma 1), the three-way cut at the failing state
   and the termination argument are given in full. The NP-hardness of the
   coarsest split is stated with its proof omitted, and the loop case rests
@@ -21,8 +21,8 @@ summary: >-
 
 ## Source
 
-Clarke, Grumberg, Jha, Lu and Veith (2000), LIT-tmpikbhf, §§2–4 (pp. 4–13 of
-the authors' manuscript in CMU's repository); read in NOTE-tmpxgbdz.
+Clarke, Grumberg, Jha, Lu and Veith (2000), [LIT-tmpikbhf](../literature.d/LIT-tmpikbhf.md), §§2–4 (pp. 4–13 of
+the authors' manuscript in CMU's repository); read in [NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md).
 
 ## What was actually shown
 
@@ -81,4 +81,4 @@ algorithm finds an M̂ with M̂ ⊨ φ ⇔ M ⊨ φ.
   every abstract state sharing a split component class is split too (a
   reading of pp. 11–12 that the paper does not discuss).
 - **That the method finds what is wrong with the property.** The property
-  is fixed; see THEORY-tmpz87qo.
+  is fixed; see [THEORY-tmpz87qo](THEORY-tmpz87qo.md).

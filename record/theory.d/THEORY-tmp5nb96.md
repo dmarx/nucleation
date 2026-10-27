@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpn521a
 summary: >-
-  Robinson (2017), LIT-tmpn521a, read in NOTE-tmpdshmx from arXiv v3. A
+  Robinson (2017), [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md), read in [NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md) from arXiv v3. A
   textual finding about the paper, Active as such. The word "canonical" is
   never defined for sheaves as a sensor model; its technical uses are the
   standard ones for cohomology. It does not say that sheaves are a poor
@@ -21,8 +21,8 @@ summary: >-
 
 ## Source
 
-Robinson (2017), LIT-tmpn521a, §§1, 3–5 of arXiv 1603.01446v3 (pp. 1–2,
-7–18, 22–29, 32); the arXiv abstract. Read in NOTE-tmpdshmx.
+Robinson (2017), [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md), §§1, 3–5 of arXiv 1603.01446v3 (pp. 1–2,
+7–18, 22–29, 32); the arXiv abstract. Read in [NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md).
 
 ## What was actually shown
 
@@ -62,7 +62,7 @@ sufficient constraint" (p. 17) is asserted, not proved.
 
 **The tools need less.** The consistency radius (Definition 20), the
 distance bound (Proposition 23) and data fusion (Problem 19) are all stated
-for a presheaf, Axioms 1–5 (pp. 22–25; THEORY-tmpiycpt). The sheaf
+for a presheaf, Axioms 1–5 (pp. 22–25; [THEORY-tmpiycpt](THEORY-tmpiycpt.md)). The sheaf
 condition and linearity (Axiom 7) enter in Section 5, for cohomology.
 
 ## What this does not say
@@ -74,6 +74,6 @@ condition and linearity (Axiom 7) enter in Section 5, for cohomology.
   for some category of sensor models could perhaps be stated and proved;
   this paper does not do it.
 - **That later work has not.** Only this paper was read.
-- **That gluing language in the record is unsupported.** CLAIM-tmpdjt64
+- **That gluing language in the record is unsupported.** [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)
   uses gluing as one formal setting among three; it does not lean on the
   word "canonical", only on the paper's being a working example.

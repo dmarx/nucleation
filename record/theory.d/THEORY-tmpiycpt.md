@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpn521a
 summary: >-
-  Robinson (2017), LIT-tmpn521a, Definition 20 and Propositions 21 and 23,
-  read in NOTE-tmpdshmx from arXiv v3; both proofs checked. Active as
+  Robinson (2017), [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md), Definition 20 and Propositions 21 and 23,
+  read in [NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md) from arXiv v3; both proofs checked. Active as
   mathematics. It does not say that the nearest global section is unique
   (the paper's Proposition 25 claims so for Banach sheaves and the proof
   does not reach it), that the radius locates a fault, or that a small
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Robinson (2017), LIT-tmpn521a, §4, pp. 22–25 of arXiv 1603.01446v3; read
-in NOTE-tmpdshmx.
+Robinson (2017), [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md), §4, pp. 22–25 of arXiv 1603.01446v3; read
+in [NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md).
 
 ## What was actually shown
 
@@ -62,12 +62,12 @@ None of this uses Axiom 6, the sheaf condition.
 - **That the nearest global section is unique.** The paper's Proposition 25
   (p. 29) claims a unique solution for sheaves of Banach spaces on finite
   topologies; its proof only shows that D is a max-norm metric, under
-  which nearest points to a subspace need not be unique. NOTE-tmpdshmx
+  which nearest points to a subspace need not be unique. [NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)
   gives a two-point counterexample.
 - **That the radius locates anything.** It is a single number. In the
   paper's simulation the biased case had a smaller radius than the
   unbiased one; the bias was found from the pattern of the discrepancies
-  (THEORY-tmpy95x7).
+  ([THEORY-tmpy95x7](THEORY-tmpy95x7.md)).
 - **That a small radius means correct data.** Data that agree under wrong
   restriction maps, or that share a common error, have a small radius. The
   radius measures agreement under the given maps, not accuracy.

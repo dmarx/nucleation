@@ -9,10 +9,10 @@ date: '2026-10-27'
 source:
 - LIT-tmpwhycq
 summary: >-
-  Stewart, Golubitsky and Pivato (2003), LIT-tmpwhycq, read in
-  NOTE-tmp4riih from the accepted version: Theorem 6.5 with proof, Lemma
+  Stewart, Golubitsky and Pivato (2003), [LIT-tmpwhycq](../literature.d/LIT-tmpwhycq.md), read in
+  [NOTE-tmp4riih](../notes.d/NOTE-tmp4riih.md) from the accepted version: Theorem 6.5 with proof, Lemma
   6.3, worked examples without symmetry (Figures 3, 9, 15, 19). Active as
-  mathematics. It generalizes THEORY-276's orbit clusters. "Robust" means
+  mathematics. It generalizes [THEORY-276](THEORY-276.md)'s orbit clusters. "Robust" means
   invariant for the whole admissible class, not stable, and not invariant
   for one model family; the paper studies "existence, not stability".
 ---
@@ -22,9 +22,9 @@ summary: >-
 
 ## Source
 
-Stewart, Golubitsky and Pivato (2003), LIT-tmpwhycq, §§1–6 (pp. 609–632
+Stewart, Golubitsky and Pivato (2003), [LIT-tmpwhycq](../literature.d/LIT-tmpwhycq.md), §§1–6 (pp. 609–632
 of SIAM J. Appl. Dyn. Syst. 2(4), read from the accepted version); read in
-NOTE-tmp4riih.
+[NOTE-tmp4riih](../notes.d/NOTE-tmp4riih.md).
 
 ## What was actually shown
 
@@ -59,7 +59,7 @@ p. 612), "This network has no symmetry, but the network structure forces the
 master–slave network of Figure 19 (p. 635) are others. A network symmetry,
 restricted to an input set, is an input isomorphism that keeps each cell in
 its orbit, so orbit partitions are balanced and the symmetry-group case
-(THEORY-276) is contained in this one; the paper builds on the
+([THEORY-276](THEORY-276.md)) is contained in this one; the paper builds on the
 fixed-point-subspace argument (p. 611) but does not state this inclusion as
 a theorem.
 
@@ -90,7 +90,7 @@ synchronous.
 - **That a synchrony pattern distinguishes coupling from common drive.** A
   drive is another cell, and balance counts inputs regardless of source
   (Figure 19). The paper does not discuss inference from observed
-  synchrony; QUESTION-063's case is outside it.
+  synchrony; [QUESTION-063](../questions.d/QUESTION-063.md)'s case is outside it.
 - **Anything about weighted or multiple arrows.** The 2003 definition takes
   arrows as a subset of C × C (Definition 2.1), one per ordered pair.
 - **Anything about nonidentical cells within a class.** ⋈ refines cell type

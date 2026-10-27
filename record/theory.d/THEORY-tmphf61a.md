@@ -8,7 +8,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpqu50n
 summary: >-
-  Di Biagio and Rovelli (2021), LIT-tmpqu50n, read in NOTE-tmppgt2i, §1
+  Di Biagio and Rovelli (2021), [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md), read in [NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md), §1
   (pp. 2–6). Active: the definitions are the paper's, and the result
   follows in a few lines from a partial trace (eqs. 5–8) under two stated
   conditions, ε small and the third system not interacting with the
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Di Biagio and Rovelli (2021), LIT-tmpqu50n, §§1.1–1.3, pp. 2–6 of the
-journal text; read in NOTE-tmppgt2i.
+Di Biagio and Rovelli (2021), [LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md), §§1.1–1.3, pp. 2–6 of the
+journal text; read in [NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md).
 
 ## What was actually shown
 
@@ -76,7 +76,7 @@ with E, to order η = 1 − |c₁|.
   bounded by |cᵢcⱼ|√𝜖; the paper does not discuss this. Partial access of W
   to E is not treated.
 - **That the same-context rule (eq. 2) is derived.** It is RQM's postulate
-  (THEORY-621).
+  ([THEORY-621](THEORY-621.md)).
 - **What the systems are.** S, F, E and W are given; how the world divides
   into them is not discussed.
 - **Anything about persistence in time.** Stability here is a probability

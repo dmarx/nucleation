@@ -242,7 +242,7 @@ reweighting the sheaf, not the matrix (§3.4, p. 15).
   dimension and a "discourse space" F(e) per edge; topics in the kernel of a
   restriction map are not exchanged on that edge; the authors ask whether a
   "public" consensus is possible when agents lie to some neighbours (p. 36).
-  This is the seed of LIT-tmpf2wmd.
+  This is the seed of [LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md).
 - **Distributed optimization** (§8.4, pp. 36–37): minimize Σ φ_v(x_v)
   subject to x ∈ H^0, "homological programs".
 - **Communication compression** (§8.5, p. 37): nodes with state in ℝ^D send
@@ -316,7 +316,7 @@ reweighting the sheaf, not the matrix (§3.4, p. 15).
 - **Singer and Wu's connection Laplacian** [SW12], Bandeira, Singer and
   Spielman's Cheeger inequality [BSS13], Chung and Zhao [CZ12]: the O(n)
   special case (p. 17). Singer's angular synchronization [Sin11] is
-  LIT-tmpjnkzw, registered, not read.
+  [LIT-tmpjnkzw](../literature.d/LIT-tmpjnkzw.md), registered, not read.
 - **Spielman and Srivastava** [SS08], Spielman's notes [Spi15]: the
   sparsification proof it follows (p. 32).
 - **Dörfler and Bullo** [DB13]: Kron reduction for graphs (p. 19).
@@ -326,12 +326,12 @@ reweighting the sheaf, not the matrix (§3.4, p. 15).
 - **Gao, Brodzki and Mukherjee** [GBM16], Gao [Gao16]: synchronization and
   clustering (pp. 17, 41).
 - **Later work by the first author** builds on it: the record holds the
-  knowledge-sheaf paper (LIT-232; THEORY-299) and registered the discourse
-  sheaf paper (LIT-tmpf2wmd).
+  knowledge-sheaf paper ([LIT-232](../literature.d/LIT-232.md); [THEORY-299](../theory.d/THEORY-299.md)) and registered the discourse
+  sheaf paper ([LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md)).
 
 ## Bearing on the record
 
-- **CLAIM-tmpywecm: its citation is right, with three corrections of
+- **[CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md): its citation is right, with three corrections of
   detail.** The claim says that in ẋ = −κLx "each eigenmode decays as
   e^{−κλ_j t}", that the kernel is "the exactly compatible
   configurations", and that the nonzero eigenvalues are the rates,
@@ -344,8 +344,8 @@ reweighting the sheaf, not the matrix (§3.4, p. 15).
   crucial to the spectral behavior of their Laplacians" (p. 39); the same
   sections can come with different spectra. (iii) The two-cluster window
   and the n² chain are not in the paper; they are the exchange's own
-  computations, which the claim already says it rederived. THEORY-tmpga5mk.
-- **CLAIM-tmpdjt64: the formal part is supported; the claim's thesis is
+  computations, which the claim already says it rederived. [THEORY-tmpga5mk](../theory.d/THEORY-tmpga5mk.md).
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md): the formal part is supported; the claim's thesis is
   not addressed.** "Collected over a graph, the conditions are the kernel
   of a coboundary δ, the global sections H⁰ = ker δ" matches Def. 2.5 and
   p. 7, and agreement in a shared edge space, not identity, is how the
@@ -354,11 +354,11 @@ reweighting the sheaf, not the matrix (§3.4, p. 15).
   from measurement: bearings (§8.2), noisy pairwise group elements
   (§8.7), designed projections (§8.5). That is the claim's "evidence" and
   "correspondence" rows, not its "generate". §8.7 also names the failure
-  mode the claim's last section takes from THEORY-299: the authors
+  mode the claim's last section takes from [THEORY-299](../theory.d/THEORY-299.md): the authors
   propose to "find the nearest sheaf supporting a global section" (p. 40),
   and §§7.2 and 9.2 make that precise as a nontrivial section with large
   support (pp. 34, 42), which is the guard against the zero maps.
-- **CLAIM-tmpose3y: a sharpening.** The claim's elimination is a Schur
+- **[CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md): a sharpening.** The claim's elimination is a Schur
   complement, "or Kron reduction". For scalar networks the reduced
   operator is again a pairwise coupling (Theorem 4.2, p. 19), as the
   claim's spring computation shows. For sheaves it need not be: eliminating
@@ -367,8 +367,8 @@ reweighting the sheaf, not the matrix (§3.4, p. 15).
   "the internal node allows for constraints between boundary nodes that
   cannot be expressed by purely pairwise interactions" (p. 20). So the
   constraint an interior presents to its boundary can be of higher order
-  than any of the interactions that realize it. THEORY-tmpvecoh.
-- **CLAIM-143: a case of the proviso, in the mathematics.** The claim
+  than any of the interactions that realize it. [THEORY-tmpvecoh](../theory.d/THEORY-tmpvecoh.md).
+- **[CLAIM-143](../claims.d/CLAIM-143.md): a case of the proviso, in the mathematics.** The claim
   says a correspondence fitted to remove an observed incompatibility
   decides nothing. §8.7's proposal (p. 40) is to denoise the measured
   relationships by cycle-consistency, adjusting the correspondence until a
@@ -376,24 +376,24 @@ reweighting the sheaf, not the matrix (§3.4, p. 15).
   independently. And Fig. 3.1 (p. 11) shows that the Laplacian, hence the
   spectrum and the flow, cannot recover the correspondences: two sheaves
   with different maps and stalks share one Laplacian.
-- **CLAIM-tmpmx2ql: little.** The paper says nothing about separation of
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): little.** The paper says nothing about separation of
   time scales or about restriction maps that evolve. The note of
   U15–U23 on this claim attributes the evolving gluing
   ẋ = F(x, e) − κL_ϑx, ϑ̇ = εG to A21, not to this paper, which is right:
   the closest the paper comes is "the case in which the network
   communication graph changes over time", named as literature (p. 35), and
   a moduli space of sheaves, named as future work (§9.1, p. 42).
-- **THEORY-299: its antecedent.** The harmonic extension (Prop. 4.1) and
-  the Schur complement (§4.2) are the operations LIT-232's query answering
+- **[THEORY-299](../theory.d/THEORY-299.md): its antecedent.** The harmonic extension (Prop. 4.1) and
+  the Schur complement (§4.2) are the operations [LIT-232](../literature.d/LIT-232.md)'s query answering
   uses, and the zero restriction maps of Fig. 3.1 and the "nontrivial
   global section" of §9.2 (p. 42) are the same zero-section point
-  THEORY-299 makes about knowledge sheaves. Nothing here changes it.
-- **CLAIM-tmpfw510.** Nothing beyond what CLAIM-tmpywecm takes from it:
+  [THEORY-299](../theory.d/THEORY-299.md) makes about knowledge sheaves. Nothing here changes it.
+- **[CLAIM-tmpfw510](../claims.d/CLAIM-tmpfw510.md).** Nothing beyond what [CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md) takes from it:
   the flow here is dissipative by construction, so the paper is not a test
   of whether coupling as such separates time scales.
 - **A different "flocking".** §8.2's flock is a consensus on a common
   direction among agents with unknown frames, after Jadbabaie et al., not
-  the hydrodynamic flock of Toner and Tu (LIT-tmpsa6iy). The two share a
+  the hydrodynamic flock of Toner and Tu ([LIT-tmpsa6iy](../literature.d/LIT-tmpsa6iy.md)). The two share a
   word, not a model.
 - **No instruction for machine-learning practice.**
 

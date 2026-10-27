@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpdkjum
 summary: >-
-  Baez and Fong (arXiv 2015, TAC 2018), LIT-tmpdkjum, read in NOTE-tmpigjto:
+  Baez and Fong (arXiv 2015, TAC 2018), [LIT-tmpdkjum](../literature.d/LIT-tmpdkjum.md), read in [NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md):
   Thm 3.3, Lemma 3.4, Example 2.9 and Sec. 3.3. The elimination is what is
   usually called Kron reduction, a name the paper does not use. Over ℝ(s),
   with inductors and capacitors, the "minimum" is a formal stationarity
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Baez and Fong, LIT-tmpdkjum (arXiv 1504.05625v6), Sections 2–3, pp. 9–23;
-read in NOTE-tmpigjto.
+Baez and Fong, [LIT-tmpdkjum](../literature.d/LIT-tmpdkjum.md) (arXiv 1504.05625v6), Sections 2–3, pp. 9–23;
+read in [NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md).
 
 ## What was actually shown
 
@@ -55,7 +55,7 @@ exists whether or not i and j were joined.
 interior potential is x = (r_BC ψ(A) + r_AB ψ(C))/(r_BC + r_AB) and
 Q(ψ) = ½ · (1/(r_AB + r_BC)) · (ψ(A) − ψ(C))², the power functional of one
 resistor r_AB + r_BC. With conductances k = 1/r this is ½ · k₁k₂/(k₁ + k₂) ·
-(ψ(A) − ψ(C))², CLAIM-tmpose3y's computation in the paper's variables.
+(ψ(A) − ψ(C))², [CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)'s computation in the paper's variables.
 
 **Composition and its gap (Sec. 3.3, p. 23).** Dirichlet forms on S + T and
 T + U compose by (P ∘ Q)(α, γ) = min_T Q(α, β) + P(β, γ). By Thm 3.3 the result
@@ -64,7 +64,7 @@ identity k(β − γ)² would need c = kc/(k + c) for every c, which "only holds
 when c = 0". Large k gives "'approximate identities'", but the ideal wire's
 power functional "involves division by zero" (p. 23). Prop. 3.6: Dirichlet
 forms form a semicategory. That gap is why the paper's black box lands in
-Lagrangian relations (THEORY-tmp99qi9).
+Lagrangian relations ([THEORY-tmp99qi9](THEORY-tmp99qi9.md)).
 
 ## What this does not say
 

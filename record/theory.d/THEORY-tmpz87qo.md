@@ -9,11 +9,11 @@ date: '2026-10-27'
 source:
 - LIT-tmpikbhf
 summary: >-
-  Clarke, Grumberg, Jha, Lu and Veith (2000), LIT-tmpikbhf, read in
-  NOTE-tmpxgbdz. A textual fact about the algorithm as specified in §§3–4,
+  Clarke, Grumberg, Jha, Lu and Veith (2000), [LIT-tmpikbhf](../literature.d/LIT-tmpikbhf.md), read in
+  [NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md). A textual fact about the algorithm as specified in §§3–4,
   and the exact form of the limit the exchange of 2026-10-27 (A16 §6) gave
   for CEGAR as the formal neighbour of inquiry as specification
-  (CLAIM-tmpalzo4). It does not say that a property cannot be revised by
+  ([CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md)). It does not say that a property cannot be revised by
   anyone, only that no step of this procedure does it.
 ---
 <!-- inactive-ok-file: CLAIM-tmpalzo4 CLAIM-419 — Proposed; the claims it bears on, cited as open -->
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Clarke, Grumberg, Jha, Lu and Veith (2000), LIT-tmpikbhf, §§2–4 (pp. 4–13 of
-the authors' manuscript in CMU's repository); read in NOTE-tmpxgbdz.
+Clarke, Grumberg, Jha, Lu and Veith (2000), [LIT-tmpikbhf](../literature.d/LIT-tmpikbhf.md), §§2–4 (pp. 4–13 of
+the authors' manuscript in CMU's repository); read in [NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md).
 
 ## What was actually shown
 
@@ -68,8 +68,8 @@ outside the procedure.
 - **That CEGAR cannot be extended to revise its property.** Nothing in the
   paper bears on such an extension; the paper does not raise it.
 - **That the analogy with inquiry or with a record's grammar holds.** That is
-  CLAIM-tmpalzo4's and CLAIM-419's business. This document fixes only what
+  [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md)'s and [CLAIM-419](../claims.d/CLAIM-419.md)'s business. This document fixes only what
   the formal neighbour does: it refines within an answer space bounded by
   the concrete system and the fixed property, which is the kind of change
-  CLAIM-tmpalzo4's defeater (a) describes, and not the revision its last
+  [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md)'s defeater (a) describes, and not the revision its last
   clause asserts.

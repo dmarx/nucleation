@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpre2ri
 summary: >-
-  Torres-Hugas, Duch, Gómez and Arenas (2026), LIT-tmpre2ri, read in
-  NOTE-tmpb8jge from the arXiv preprint v2. The mismatch (ℓ − 2)α is a
+  Torres-Hugas, Duch, Gómez and Arenas (2026), [LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md), read in
+  [NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md) from the arXiv preprint v2. The mismatch (ℓ − 2)α is a
   three-line derivation (eqs. 15–18); the two-group state at π/3 is exact
   algebra (eqs. 38–40); the threshold αc is a numerical continuation with
   det M⊥ = 0 (Supplementary Material). All three were reproduced. Active
@@ -24,9 +24,9 @@ summary: >-
 
 ## Source
 
-Torres-Hugas, Duch, Gómez and Arenas (2026), LIT-tmpre2ri, §II C 1 and
+Torres-Hugas, Duch, Gómez and Arenas (2026), [LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md), §II C 1 and
 §II C 4–6, pp. 3–7, and the Supplementary Material, pp. 9–10, of the arXiv
-preprint 2604.19682v2; read in NOTE-tmpb8jge.
+preprint 2604.19682v2; read in [NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md).
 
 ## What was actually shown
 
@@ -77,7 +77,7 @@ decimals.
   paper proposes that it "can be understood as a manifestation of effective
   higher-order constraints" (p. 1); what it shows is one motif.
 - **What happens past αc.** Whether the pentagonal pairs desynchronize while
-  {2, 3} stays in step, as the symmetry structure (THEORY-276) would allow,
+  {2, 3} stays in step, as the symmetry structure ([THEORY-276](THEORY-276.md)) would allow,
   is not followed; nor is the bifurcation's type named.
 - **That the twisted spectrum sets the dynamics' rates or stability.** "The
   twisted Laplacian thus encodes the geometric reorganization of the

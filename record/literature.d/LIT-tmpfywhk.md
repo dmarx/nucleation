@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmplvblh), from arXiv v2; worth reading
+  read in full 2026-10-27 ([NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md)), from arXiv v2; worth reading
   as a compositional account in which the coupling data (wiring,
   potential, response) and the dynamical regime are separate choices:
   one arrangement of harmonic particles gives a discrete wave equation or
@@ -87,7 +87,7 @@ summary: >-
 
 Spivak, D. I. (2026). Compositional dynamics in learning and mechanics. arXiv:2606.28984.
 
-Read in full on 2026-10-27 (NOTE-tmplvblh).
+Read in full on 2026-10-27 ([NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md)).
 
 ## Why this is here
 

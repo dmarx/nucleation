@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpre2ri
 summary: >-
-  Torres-Hugas, Duch, Gómez and Arenas (2026), LIT-tmpre2ri, read in
-  NOTE-tmpb8jge from the arXiv preprint v2. The criterion is stated in the
+  Torres-Hugas, Duch, Gómez and Arenas (2026), [LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md), read in
+  [NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md) from the arXiv preprint v2. The criterion is stated in the
   paper with an energy argument (pp. 2–3) and is the standard one for
   discrete magnetic and connection Laplacians, which it cites; the
   spanning-tree step the paper omits is written out below. The
@@ -24,8 +24,8 @@ summary: >-
 
 ## Source
 
-Torres-Hugas, Duch, Gómez and Arenas (2026), LIT-tmpre2ri, §II A–B and
-§II C 3, pp. 2–5 of the arXiv preprint 2604.19682v2; read in NOTE-tmpb8jge.
+Torres-Hugas, Duch, Gómez and Arenas (2026), [LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md), §II A–B and
+§II C 3, pp. 2–5 of the arXiv preprint 2604.19682v2; read in [NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md).
 
 ## What was actually shown
 
@@ -79,11 +79,11 @@ holonomy, or none for a flat one; the spanning-tree argument rules out both.
   nothing.
 - **That λ₁ is a stability boundary or a relaxation rate.** In the paper's
   own motif the stability threshold is set by the Jacobian, not by Lα
-  (THEORY-tmprsknh).
+  ([THEORY-tmprsknh](THEORY-tmprsknh.md)).
 - **That the obstruction is a failure of the graph or of any edge.** Every
   edge relation is satisfiable on its own; the obstruction is a property of
   composition around cycles (p. 2).
 - **Where the connection comes from.** The αᵢⱼ are given. Nothing in the
-  result says an interaction produces them (CLAIM-tmpdjt64).
+  result says an interaction produces them ([CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)).
 - **That this is new mathematics.** The paper's contribution lies in the
   synchronization reading, not in the criterion.

@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpnpxhs
 summary: >-
-  Hansen and Ghrist (2019), LIT-tmpnpxhs, read in NOTE-tmpzqos6 from arXiv
+  Hansen and Ghrist (2019), [LIT-tmpnpxhs](../literature.d/LIT-tmpnpxhs.md), read in [NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md) from arXiv
   v2: Theorem 3.1 (discrete Hodge theory), H^0 ≅ Γ (p. 7) and Proposition
   8.1 (the flow), each with a proof; Fig. 3.1 for the Laplacian not
   determining the sheaf. Active as mathematics. The paper does not speak of
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Hansen and Ghrist (2019), LIT-tmpnpxhs, §§2.2.2, 3.1–3.2, 8.1 and 8.6 of
-arXiv 1808.01513v2 (pp. 7, 9–11, 34–35, 39); read in NOTE-tmpzqos6.
+Hansen and Ghrist (2019), [LIT-tmpnpxhs](../literature.d/LIT-tmpnpxhs.md), §§2.2.2, 3.1–3.2, 8.1 and 8.6 of
+arXiv 1808.01513v2 (pp. 7, 9–11, 34–35, 39); read in [NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md).
 
 ## What was actually shown
 
@@ -67,16 +67,16 @@ checkable line by line, and the Fig. 3.1 example by multiplying out two
   or "time-scale separation". That the nonzero spectrum is a hierarchy of
   rates, that a gap separates time scales, the two-cluster window and the
   n² chain are readings and computations of the exchange of 2026-10-27
-  (CLAIM-tmpywecm), consistent with the proof's formula but not in the
+  ([CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md)), consistent with the proof's formula but not in the
   paper.
 - **Where the restriction maps come from.** The paper takes them as given
   and, in its applications, builds them from measurements (§§8.2, 8.7) or
   designs them (§8.5). It does not say interactions generate them
-  (CLAIM-tmpdjt64).
+  ([CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)).
 - **That the sections are nontrivial.** The zero cochain is always a
   section, and a sheaf whose maps are zero has every cochain as a section
   (p. 11). Questions of interest are about nontrivial sections (§9.2,
-  p. 42), as THEORY-299 found for knowledge sheaves.
+  p. 42), as [THEORY-299](THEORY-299.md) found for knowledge sheaves.
 - **That the spectrum identifies the sheaf**, or the correspondences it
   encodes (Fig. 3.1).
 - **Anything about nonlinear coupling, time-varying maps or oscillators.**

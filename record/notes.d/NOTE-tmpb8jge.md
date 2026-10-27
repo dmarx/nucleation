@@ -256,17 +256,17 @@ of the nonlinear phase-locked state" (p. 7).
 
 ## Connections
 
-- **Pecora et al. 2014** (ref. [12]; LIT-960, read in NOTE-775) and
+- **Pecora et al. 2014** (ref. [12]; [LIT-960](../literature.d/LIT-960.md), read in [NOTE-775](NOTE-775.md)) and
   Sorrentino et al. 2016 (ref. [13]): the symmetry clusters and the
   symmetry-separated transverse blocks the motif analysis uses (p. 6; SM
   p. 9).
-- **Hansen and Ghrist** 2019 (ref. [18]; LIT-tmpnpxhs) and 2021 (ref. [19];
-  LIT-tmpf2wmd), both registered unread: the twisted incidence operator is
+- **Hansen and Ghrist** 2019 (ref. [18]; [LIT-tmpnpxhs](../literature.d/LIT-tmpnpxhs.md)) and 2021 (ref. [19];
+  [LIT-tmpf2wmd](../literature.d/LIT-tmpf2wmd.md)), both registered unread: the twisted incidence operator is
   said to generalize diffusive coupling "[18]" (p. 2).
 - **Shubin 1994** (ref. [14], discrete magnetic Laplacian), **Singer and Wu
   2012** (ref. [15]) and **Bandeira, Singer and Spielman 2013** (ref. [16]):
   the mathematical lineage of the zero-mode criterion. None is held; the
-  record's Singer (LIT-tmpjnkzw, angular synchronization, 2011) is a
+  record's Singer ([LIT-tmpjnkzw](../literature.d/LIT-tmpjnkzw.md), angular synchronization, 2011) is a
   different paper.
 - **Nicosia et al. 2013** (ref. [11]): the motif and the remote
   synchronization transition the paper says π/3 is "close to" (p. 2). Not
@@ -277,7 +277,7 @@ of the nonlinear phase-locked state" (p. 7).
 
 ## Bearing on the record
 
-- **CLAIM-tmpdjt64: the holonomy bullet is right in content, slightly
+- **[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md): the holonomy bullet is right in content, slightly
   overstated in warrant, and the paper is a weak case for "generate".** The
   claim's line that "g₁₂g₂₃g₃₁ ≠ 1 forbids a consistent nonzero assignment
   though every edge is satisfiable" is what the paper says (p. 2: "the local
@@ -286,7 +286,7 @@ of the nonlinear phase-locked state" (p. 7).
   (p. 3). "Prove" is too strong for this paper: it states the criterion (pp.
   1, 3, 7) with an energy argument and leaves the cycle-basis step
   unwritten; the result is a standard one it cites (refs. [14]–[16]),
-  so it is safe, but the paper is not its proof (THEORY-tmpoeig9). For the
+  so it is safe, but the paper is not its proof ([THEORY-tmpoeig9](../theory.d/THEORY-tmpoeig9.md)). For the
   claim's thesis, note that the connection here is never produced by an
   interaction: the gauge model takes α as given (eq. 1), and the SK
   correspondence builds an associated connection to reproduce mismatches
@@ -297,7 +297,7 @@ of the nonlinear phase-locked state" (p. 7).
   which is defeater (a)'s ground. The A21 §5 caution the claim carries is
   consistent with the text: nonzero holonomy is "a genuine global
   obstruction" to a compatible state (p. 2), not a failure of the graph.
-- **CLAIM-tmpywecm: an extension and a limit.** The claim's Laplacian-flow
+- **[CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md): an extension and a limit.** The claim's Laplacian-flow
   reading (kernel = exact compatibility, nonzero spectrum = relaxation rates)
   carries over to Lα, with one change: under nonzero holonomy the kernel is
   empty (p. 3), so the linear flow ż = −κLα z has no compatible state to
@@ -308,7 +308,7 @@ of the nonlinear phase-locked state" (p. 7).
   threshold αc ≃ 1.0164 differs from the spectral marker π/3. That fits the
   claim's "Anything about nonlinear coupling" exclusion and gives it a
   worked instance.
-- **QUESTION-tmpl1yih: the frustration route, checked, is narrower than the
+- **[QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md): the frustration route, checked, is narrower than the
   exchange made it.** The paper supports frustration as a structural fact on
   cycles ("intrinsic topological frustration", abstract, p. 2) and λ₁ as the
   residual left after optimizing over states (p. 5). It does not show that
@@ -320,26 +320,26 @@ of the nonlinear phase-locked state" (p. 7).
   pentagonal sector crosses zero (SM p. 10), before the frustration peak.
   For the question that is a stated system with the transition that unmakes
   a form named, separately from the geometry that is said to shape it; the
-  bifurcation's type and what lies past it are not given (THEORY-tmprsknh).
-- **THEORY-276: a further instance, consistent and in its terms.** The motif
+  bifurcation's type and what lies past it are not given ([THEORY-tmprsknh](../theory.d/THEORY-tmprsknh.md)).
+- **[THEORY-276](../theory.d/THEORY-276.md): a further instance, consistent and in its terms.** The motif
   analysis uses the reflection-symmetry classes {1}, {2, 3}, {4, 7}, {5, 6}
   as the admissible clusters, citing Pecora et al. and Sorrentino et al.
   (p. 6), and its transverse perturbations "separate according to the graph
   symmetries" (p. 7; SM p. 9) into a triangular η-mode and one 2 × 2 block
-  coupling the pairs {4, 7} and {5, 6}. Read with THEORY-276, the
+  coupling the pairs {4, 7} and {5, 6}. Read with [THEORY-276](../theory.d/THEORY-276.md), the
   automorphism group is two commuting reflections, one moving {2, 3} and one
   moving {4, 7} and {5, 6} together; the latter two are intertwined, and
   the pentagonal block loses stability at αc while the triangular mode stays
-  stable (SM p. 10). That is the pattern THEORY-276 predicts for isolated
+  stable (SM p. 10). That is the pattern [THEORY-276](../theory.d/THEORY-276.md) predicts for isolated
   desynchronization, here for phase oscillators with a lag, though the
   paper does not use that language or follow the dynamics past αc. Two
   caveats: SK coupling depends on ϕⱼ − ϕᵢ, not on xⱼ alone as in
-  THEORY-276's eq. (1), though the equivariance argument of its 2026-10-19
+  [THEORY-276](../theory.d/THEORY-276.md)'s eq. (1), though the equivariance argument of its 2026-10-19
   note holds for any identical pairwise coupling; and this is a computation
-  for one model, not the second experiment QUESTION-147 asks for. It also
-  bears out THEORY-276's last point: {4, 7} are in step with no edge between
+  for one model, not the second experiment [QUESTION-147](../questions.d/QUESTION-147.md) asks for. It also
+  bears out [THEORY-276](../theory.d/THEORY-276.md)'s last point: {4, 7} are in step with no edge between
   them (p. 6).
-- **QUESTION-130: a connection that is chosen, not found.** The question
+- **[QUESTION-130](../questions.d/QUESTION-130.md): a connection that is chosen, not found.** The question
   asks whether a transport between contexts can be "fixed by independently
   established relations rather than chosen". This paper's associated
   connection is chosen, by the modeller, to reproduce a mismatch the
@@ -375,7 +375,7 @@ of the nonlinear phase-locked state" (p. 7).
 
 - Does the pentagonal-sector instability at αc lead to the "isolated
   desynchronization" of the pentagon pairs with {2, 3} still in step, as the
-  symmetry structure suggests (THEORY-276)? The paper stops at the threshold.
+  symmetry structure suggests ([THEORY-276](../theory.d/THEORY-276.md))? The paper stops at the threshold.
 - On graphs with overlapping cycles, where one edge would need two phases,
   is there any associated connection, or a sheaf of higher rank (p. 8)?
 - Is the closeness of αc ≃ 1.0164 to π/3 ≃ 1.0472 structural, or a

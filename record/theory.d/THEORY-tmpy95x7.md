@@ -18,8 +18,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpn521a
 summary: >-
-  Robinson (2017), LIT-tmpn521a, Example 24, Case 2 (pp. 26–28 of arXiv
-  v3), read in NOTE-tmpdshmx. One simulated case, one noise realization,
+  Robinson (2017), [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md), Example 24, Case 2 (pp. 26–28 of arXiv
+  v3), read in [NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md). One simulated case, one noise realization,
   read from a figure. Proposed until a stated procedure is tested over
   trials, including faults in the restriction maps, which enter the
   discrepancies in the same way as faults in the data.
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Robinson (2017), LIT-tmpn521a, Example 24 (pp. 25–29 of arXiv
-1603.01446v3), Tables 1–2 and Figures 11–13; read in NOTE-tmpdshmx.
+Robinson (2017), [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md), Example 24 (pp. 25–29 of arXiv
+1603.01446v3), Tables 1–2 and Figures 11–13; read in [NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md).
 
 ## What was actually shown
 
@@ -73,5 +73,5 @@ In this one case they did not.
   to higher cohomology, which uses no data (pp. 3, 34).
 - **That the system recalibrates.** Nothing is revised from the residuals:
   fusion replaces the data by the nearest global section and leaves the
-  maps alone. QUESTION-tmpubsi9's description of the paper as sensor
+  maps alone. [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md)'s description of the paper as sensor
   networks that "recalibrate from consistency residuals" goes beyond it.

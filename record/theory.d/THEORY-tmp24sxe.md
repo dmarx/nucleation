@@ -21,7 +21,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpjnkzw
 summary: >-
-  Singer (2011), LIT-tmpjnkzw, §§2, 4 and 5, read in NOTE-tmplhrxg from
+  Singer (2011), [LIT-tmpjnkzw](../literature.d/LIT-tmpjnkzw.md), §§2, 4 and 5, read in [NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md) from
   arXiv v2. The threshold p > 1/√n comes from a cited rank-one deformation
   theorem adopted to a non-Gaussian mixture and a heuristic comparison with
   random correlation, confirmed by simulation at n = 100 and 400; the
@@ -36,9 +36,9 @@ summary: >-
 
 ## Source
 
-Singer (2011), LIT-tmpjnkzw, §§1–2 (pp. 1–5), §4.1 (pp. 6–10), §5
+Singer (2011), [LIT-tmpjnkzw](../literature.d/LIT-tmpjnkzw.md), §§1–2 (pp. 1–5), §4.1 (pp. 6–10), §5
 (pp. 14–20) and §6 (pp. 21–22) of arXiv 0905.3174v2; read in
-NOTE-tmplhrxg.
+[NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md).
 
 ## What was actually shown
 
@@ -64,7 +64,7 @@ agree (Table 4.1, p. 11): at n = 400 with 85% outliers, ρ₁ = 0.97 (p. 10).
 Least squares fails where the eigenvector succeeds (Table 4.3, p. 15).
 
 **The comparison.** With the per-angle information bound
-p_c^ind = √((n/m)·log₂ L/(L − 1)) (THEORY-tmpco2va), on the complete
+p_c^ind = √((n/m)·log₂ L/(L − 1)) ([THEORY-tmpco2va](THEORY-tmpco2va.md)), on the complete
 graph p_c^eig/p_c^ind = √((L − 1)/(2 log₂ L)) + o(1),
 independent of n and m (5.34, p. 20). It is below 1 for L ≤ 6 and about 2.73
 at L = 100. Citing the NP-hardness of approximating Max-2-Lin mod L within a
@@ -95,9 +95,9 @@ the gap is a function of L alone.
   algorithm, is a worst-case statement; the model is average-case.
 - **That recovering a global configuration from pairwise evidence is cheap
   in general.** It is so in this model, at coarse resolution. For
-  CLAIM-tmpi1bjh, which cites the paper for the cost of such recovery, the
+  [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md), which cites the paper for the cost of such recovery, the
   paper's finding is that here the binding resource is evidence
-  (THEORY-tmpco2va), and computation adds only an L-dependent factor.
+  ([THEORY-tmpco2va](THEORY-tmpco2va.md)), and computation adds only an L-dependent factor.
 - **Anything about the runtime in practice** beyond the abstract's one
   unreported-protocol timing (n = 400, 90% outliers, "less than a second on
   a commercial laptop").

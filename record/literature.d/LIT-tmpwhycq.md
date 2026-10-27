@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmp4riih), from the accepted version in
+  read in full 2026-10-27 ([NOTE-tmp4riih](../notes.d/NOTE-tmp4riih.md)), from the accepted version in
   the Warwick repository; worth reading as the theorem behind robust
   synchrony in networks: an architecture forces a synchrony pattern for
   every admissible dynamics exactly when the pattern is balanced, which
@@ -77,7 +77,7 @@ summary: >-
 
 Stewart, I., Golubitsky, M., & Pivato, M. (2003). Symmetry groupoids and patterns of synchrony in coupled cell networks. *SIAM Journal on Applied Dynamical Systems*, 2(4), 609–646. doi:10.1137/S1111111103419896.
 
-Read in full on 2026-10-27 (NOTE-tmp4riih).
+Read in full on 2026-10-27 ([NOTE-tmp4riih](../notes.d/NOTE-tmp4riih.md)).
 
 ## Why this is here
 

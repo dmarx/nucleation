@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpb4amz
 summary: >-
-  Zurek (2009), LIT-tmpb4amz, eq. (5), read in NOTE-tmpvsoha. From
+  Zurek (2009), [LIT-tmpb4amz](../literature.d/LIT-tmpb4amz.md), eq. (5), read in [NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md). From
   |u⟩|e₀⟩ → |u⟩|e_u⟩ and |v⟩|e₀⟩ → |v⟩|e_v⟩, preservation of the scalar
   product gives ⟨u|v⟩ = ⟨u|v⟩⟨e_u|e_v⟩, so either the record is no record
   or ⟨u|v⟩ = 0. Zurek reads this as the origin of the outcome set of the
@@ -20,8 +20,8 @@ summary: >-
 
 ## Source
 
-Zurek (2009), LIT-tmpb4amz, section III, p. 5 of the arXiv preprint
-0903.5082; read in NOTE-tmpvsoha.
+Zurek (2009), [LIT-tmpb4amz](../literature.d/LIT-tmpb4amz.md), section III, p. 5 of the arXiv preprint
+0903.5082; read in [NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md).
 
 ## What was actually shown
 

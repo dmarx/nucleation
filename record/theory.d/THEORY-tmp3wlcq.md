@@ -10,7 +10,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpfywhk
 summary: >-
-  Spivak (2026), LIT-tmpfywhk, read in NOTE-tmplvblh from arXiv v2. Lens
+  Spivak (2026), [LIT-tmpfywhk](../literature.d/LIT-tmpfywhk.md), read in [NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md) from arXiv v2. Lens
   internalization (Corollary 3.3.4) and an integrator give operad functors
   ArrSm → PC (Theorem 4.3.6, Corollary 6.4.1). Under the configuration
   integrator the state update is q ↦ q − ♯_q(ξ_Q), with ξ_Q the
@@ -25,8 +25,8 @@ summary: >-
 
 ## Source
 
-Spivak (2026), LIT-tmpfywhk, §§3.3, 4.3, 6.4–6.5 and 7.1–7.2 (pp. 26–28,
-33–35, 61–67, 71–76 of arXiv 2606.28984v2); read in NOTE-tmplvblh.
+Spivak (2026), [LIT-tmpfywhk](../literature.d/LIT-tmpfywhk.md), §§3.3, 4.3, 6.4–6.5 and 7.1–7.2 (pp. 26–28,
+33–35, 61–67, 71–76 of arXiv 2606.28984v2); read in [NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md).
 
 ## What was actually shown
 
@@ -76,7 +76,7 @@ parameter category (Remark 6.4.2).
 - **That other optimizers are covered.** Adam is a conjecture over a
   smaller parameter category (p. 62); momentum training under Φphase is
   "we expect" (p. 87). Stochastic updates are a proposed extension (p. 88).
-- **That this supersedes THEORY-519.** Fong, Spivak and Tuyéras's
+- **That this supersedes [THEORY-519](THEORY-519.md).** Fong, Spivak and Tuyéras's
   functor sends the backward message as a requested input and needs an
   invertible error derivative; here the backward message is a covector and
   the loss is an arrangement in the same operad. They are different

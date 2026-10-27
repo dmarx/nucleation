@@ -261,9 +261,9 @@ the putative 'observer' system couples to the system and the environment"
 | C5 | Which variables decohere is fixed by the interaction Hamiltonian, and decoherence is fast for macroscopic variables | strong, cited | p. 5, from Zurek [41]; not shown here |
 | C6 | Stable facts cannot serve as the ontology, because "how stable" and "stable for whom" have no non-arbitrary answer; relative facts can | moderate (interpretive) | argument, §2.1, p. 7 |
 | C7 | The Frauchiger–Renner contradiction comes from assumption (C), which is eq. (3) applied where facts are not stable for W | moderate | the translation of (C), p. 8; the no-contradiction result under decoherence is cited [26, 27, 38], not shown |
-| C8 | The Local Friendliness violation is evidence that facts are relative to systems | weak | it shows that one of three assumptions fails (p. 9); RQM drops absoluteness, but so do other views (cf. NOTE-174, C8) |
+| C8 | The Local Friendliness violation is evidence that facts are relative to systems | weak | it shows that one of three assumptions fails (p. 9); RQM drops absoluteness, but so do other views (cf. [NOTE-174](NOTE-174.md), C8) |
 | C9 | Wigner will always agree with his friend about L_S once he interacts with them | weak | one sentence from the entangled state's correlation, citing [28] (p. 10); no general argument |
-| C10 | The projection and linear-evolution postulates are compatible because they apply to facts relative to different systems | moderate | §2.3, p. 10; restates RQM's rule (THEORY-621) |
+| C10 | The projection and linear-evolution postulates are compatible because they apply to facts relative to different systems | moderate | §2.3, p. 10; restates RQM's rule ([THEORY-621](../theory.d/THEORY-621.md)) |
 | C11 | A fact relative to E with probability near 1 is stable for other systems even without decoherence | strong | footnote 2, p. 5, with error O(η), η = 1 − |c₁| |
 
 ## Concepts
@@ -288,15 +288,15 @@ the putative 'observer' system couples to the system and the environment"
 
 ## Connections
 
-- **Rovelli 2021 (LIT-177, read in NOTE-174)** cites this paper (its [18]) for
-  stable facts, and NOTE-174's C3 marked the decoherence result "cited, not
-  shown". It is shown here, at the level of eqs. (5)–(8). NOTE-174's open
+- **Rovelli 2021 ([LIT-177](../literature.d/LIT-177.md), read in [NOTE-174](NOTE-174.md))** cites this paper (its [18]) for
+  stable facts, and [NOTE-174](NOTE-174.md)'s C3 marked the decoherence result "cited, not
+  shown". It is shown here, at the level of eqs. (5)–(8). [NOTE-174](NOTE-174.md)'s open
   question, "Can 'stable facts' be defined without an observer-relative
   choice of which degrees of freedom count as the environment?", is answered
   in the negative by the paper itself: condition (b) names the system for
   which the environment is inaccessible, and the authors make that the point
   (p. 5).
-- **Rovelli 1996 (LIT-tmp57r0s, read in NOTE-tmptc0hl)**. The 1996 paper's
+- **Rovelli 1996 ([LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), read in [NOTE-tmptc0hl](NOTE-tmptc0hl.md))**. The 1996 paper's
   "decoherence depends on which observation P will make" (§II.B, p. 5 there)
   is this paper's "decoherence is not an absolute phenomenon, but a
   relational one" (p. 5). What is new here is the vocabulary of facts and
@@ -305,21 +305,21 @@ the putative 'observer' system couples to the system and the environment"
   paper treated Bohr's privileged classical observer as "consistent" with
   RQM; here an ontology of stable facts alone is "as unsatisfactory as the
   textbook interpretation that requires a classical world" (p. 7).
-- **Grangier and Auffèves (LIT-077, read in NOTE-044)** is ref. [17], the
+- **Grangier and Auffèves ([LIT-077](../literature.d/LIT-077.md), read in [NOTE-044](NOTE-044.md))** is ref. [17], the
   source of "context", with the difference that the context here need not
   be classical (footnote 1).
-- **QBism (LIT-1182, read in NOTE-955)**: the paper points to QBism's analysis of
+- **QBism ([LIT-1182](../literature.d/LIT-1182.md), read in [NOTE-955](NOTE-955.md))**: the paper points to QBism's analysis of
   an agent reasoning about an experiment on himself, "since also QBism holds
   that assumption (C) fails" (p. 9).
 - **Zurek** is cited for decoherence [39–41]; quantum Darwinism and
   redundancy are not mentioned. The record's registered Zurek 2009
-  (LIT-tmpb4amz) is where redundancy would come from.
-- **Di Biagio and Rovelli 2025 (LIT-tmpytrrl, unread)** is the registered
+  ([LIT-tmpb4amz](../literature.d/LIT-tmpb4amz.md)) is where redundancy would come from.
+- **Di Biagio and Rovelli 2025 ([LIT-tmpytrrl](../literature.d/LIT-tmpytrrl.md), unread)** is the registered
   sequel.
 
 ## Bearing on the record
 
-- **QUESTION-tmpubsi9: the "stable record" rung is misattributed, and the
+- **[QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md): the "stable record" rung is misattributed, and the
   paper supplies a different, sharper rung.** The question's table gives
   this paper as the source for "stable record: the outcome stays accessible
   far longer than the interaction took". Nothing in the paper is about
@@ -335,7 +335,7 @@ the putative 'observer' system couples to the system and the environment"
   stage 3 it is "merely a stable fact for W" (p. 6). And "It is the way that
   W, F and E couple to each other that makes F a measuring apparatus for W"
   (p. 6): apparatus is a role fixed by a three-way coupling, relative to W,
-  near TERM-tmpjdel0's operational sense. On the question's first rung the
+  near [TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md)'s operational sense. On the question's first rung the
   paper is RQM's answer as the question already states it: "every
   interaction is in a sense a measurement" (p. 7). The exchange was right
   that the paper gives observation without a conscious observer: the
@@ -359,7 +359,7 @@ the putative 'observer' system couples to the system and the environment"
   sufficiently strong" (p. 10). The defensible form is: for a system that
   cannot reach the environment, the relativity of a decohered fact can be
   ignored up to O(ε).
-- **QUESTION-tmpg3qms: a worked case of approximate absoluteness, whose
+- **[QUESTION-tmpg3qms](../questions.d/QUESTION-tmpg3qms.md): a worked case of approximate absoluteness, whose
   authors decline to promote it to ontology.** The paper is an instance of
   the question's "approximation for ontological claims" for facts, not for
   individuals. A relational feature (facts indexed to contexts) has a limit
@@ -374,11 +374,11 @@ the putative 'observer' system couples to the system and the environment"
   feature the question does not name: the approximation is itself relative
   to a system (to W, which must not reach E), so even the approximately
   absolute is approximately absolute *for* something. Separable enough, in
-  CLAIM-157's terms, is here separable enough for a stated W, and the paper
+  [CLAIM-157](../claims.d/CLAIM-157.md)'s terms, is here separable enough for a stated W, and the paper
   says that does not make it independent. It argues this; it does not prove
   that no account of approximate ontology could succeed.
-- **THEORY-621: the stable-fact step is now shown, and the rule and
-  consistency gaps stand.** THEORY-621 records that the decoherence result
+- **[THEORY-621](../theory.d/THEORY-621.md): the stable-fact step is now shown, and the rule and
+  consistency gaps stand.** [THEORY-621](../theory.d/THEORY-621.md) records that the decoherence result
   is "cited, not shown" in Rovelli 2021. Here it is derived, at the level of
   a reduced density matrix (eqs. 5–8, p. 4). The promote_when asks for two
   things this paper does not give: eq. (2), the same-system rule, is
@@ -389,8 +389,8 @@ the putative 'observer' system couples to the system and the environment"
   open case: how an agent should reason about an experiment performed on
   himself "has not been done within RQM yet" (pp. 8–9). Its reading of the
   no-go theorems is the same as Rovelli 2021's and has the same limit
-  (C8 above). Filed as THEORY-tmphf61a and THEORY-tmpo4ob4.
-- **CLAIM-tmpmx2ql: a constraint made by inaccessibility, not by slowness.**
+  (C8 above). Filed as [THEORY-tmphf61a](../theory.d/THEORY-tmphf61a.md) and [THEORY-tmpo4ob4](../theory.d/THEORY-tmpo4ob4.md).
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): a constraint made by inaccessibility, not by slowness.**
   The paper's effective rule, the classical sum (3), appears for W because
   information in E is out of W's reach, not because some variable is slow
   relative to another. Time appears once: the decoherence time, "the time
@@ -404,9 +404,9 @@ the putative 'observer' system couples to the system and the environment"
   The variables that become stable are selected by the interaction
   Hamiltonian (p. 5), which is a case of organization (who couples to what)
   fixing which constraint appears.
-- **THEORY-tmpggk6i and NOTE-tmptc0hl: the systems still precede the facts, and
-  the ontology of facts is here by 2020.** NOTE-tmptc0hl found no ontology of
-  events in Rovelli 1996, and THEORY-tmpggk6i's note traced Faye and
+- **[THEORY-tmpggk6i](../theory.d/THEORY-tmpggk6i.md) and [NOTE-tmptc0hl](NOTE-tmptc0hl.md): the systems still precede the facts, and
+  the ontology of facts is here by 2020.** [NOTE-tmptc0hl](NOTE-tmptc0hl.md) found no ontology of
+  events in Rovelli 1996, and [THEORY-tmpggk6i](../theory.d/THEORY-tmpggk6i.md)'s note traced Faye and
   Jaksland's "sparse ontology of (relational) quantum events" to Rovelli
   2018. This paper states an ontology of facts outright: "The ontology is
   relational, in the sense that it is based on facts established at
@@ -417,10 +417,10 @@ the putative 'observer' system couples to the system and the environment"
   Jaksland's "the systems precede the interactions" holds of this text as
   well, again by assumption and without argument. The paper does not take up
   what a system is.
-- **THEORY-tmpleurt: its finding stands for 2021.** Consistency between
+- **[THEORY-tmpleurt](../theory.d/THEORY-tmpleurt.md): its finding stands for 2021.** Consistency between
   observers is still "the third system predicts correlated outcomes" (p. 10),
   asserted for the general case.
-- **QUESTION-021.** Nothing new beyond NOTE-tmptc0hl's point: stable facts are
+- **[QUESTION-021](../questions.d/QUESTION-021.md).** Nothing new beyond [NOTE-tmptc0hl](NOTE-tmptc0hl.md)'s point: stable facts are
   the nearest thing to an invariant, and they are invariant only for the
   systems that cannot reach the environment.
 - **No instruction for machine-learning practice.**
