@@ -200,8 +200,8 @@ by organization, the claim's second half, in a form the claim does not name.
 ## Note of 2026-10-27 (U15–U23): coupling, spectra and evolving gluing
 
 The owner's U20 conjectured that "coupling inertial frames necessarily induces
-scale separation", with low confidence. It is filed as CLAIM-tmpfw510 and
-Rejected on filing. CLAIM-tmpywecm is the counterexample: conservatively
+scale separation", with low confidence. It is filed as [CLAIM-tmpfw510](CLAIM-tmpfw510.md) and
+Rejected on filing. [CLAIM-tmpywecm](CLAIM-tmpywecm.md) is the counterexample: conservatively
 coupled oscillators split into normal modes without separating or damping
 them. It is also a mechanism for this claim's second half, that organization
 makes separations. When coupling dissipates relative differences, as in a
@@ -212,16 +212,16 @@ grows as n², so size alone can make the separation.
 
 Two further points.
 
-- **Composition and memory.** CLAIM-tmpose3y shows the converse of this claim's
+- **Composition and memory.** [CLAIM-tmpose3y](CLAIM-tmpose3y.md) shows the converse of this claim's
   first half. An interior that relaxes fast presents its boundary with an
   instantaneous constraint. One that does not presents a history-dependent
   relation. Without separation the composite gives no constraint.
 - **The gluing itself can be slow.** A21 §6 let the correspondence maps of
-  CLAIM-tmpdjt64 evolve, with ẋ = F(x, e) − κL_ϑx and ϑ̇ = εG(ϑ, x, o, e).
+  [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md) evolve, with ẋ = F(x, e) − κL_ϑx and ϑ̇ = εG(ϑ, x, o, e).
   For ε ≪ κλ_fast the rules of agreement change slowly relative to the
   correction of disagreements. That is this claim's mechanism, attached to
   "the operator that determines what counts as agreement". It is also the
-  form CASE-tmp0zvle found in this record, where documents change fast and
+  form [CASE-tmp0zvle](../cases.d/CASE-tmp0zvle.md) found in this record, where documents change fast and
   the grammar slowly. A23 §XII listed other sources of separation that are
   not coupling: conservation, metastability, critical slowing and imposed
   time scales.

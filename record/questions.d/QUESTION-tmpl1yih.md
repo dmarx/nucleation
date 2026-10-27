@@ -130,15 +130,15 @@ this question's first half:
 
 - **Suppression.** Dissipative coupling damps relative differences and leaves
   collective modes, which is consensus, synchronization and slow
-  hydrodynamic modes (CLAIM-tmpywecm).
+  hydrodynamic modes ([CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md)).
 - **Amplification.** An instability selects and grows differences, which is
   Turing patterns, bifurcation and nucleation across a barrier. These are
   the routes this question already lists.
 - **Frustration.** Constraints that are satisfiable pairwise but not around
   a cycle leave a residual the system has to distribute. Cycle holonomy in
-  gauge-coupled phase models (Torres-Hugas et al., LIT-tmpre2ri, unread) and
+  gauge-coupled phase models (Torres-Hugas et al., [LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md), unread) and
   the cycle-space residual of ½‖Dx − b‖² are the exchange's cases
-  (CLAIM-tmpdjt64).
+  ([CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md)).
 
 A23: "**We should not mistake consensus for the general mechanism of
 individuation.**" Frustration is a route the question did not name. A form can
@@ -147,5 +147,5 @@ only by eliminating them.
 
 Composition is a fourth way a form gets a role, and it bears on the question's
 "constitutive role". A composite whose interior relaxes fast presents its
-boundary with a constraint that no part has (CLAIM-tmpose3y). That is a role
+boundary with a constraint that no part has ([CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)). That is a role
 acquired at the interface, without the composite being an individual.

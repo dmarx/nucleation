@@ -159,6 +159,6 @@ may remain trapped in a locally convenient representation. … **The cost of
 changing a distinction influences how long the distinction persists.**" Here
 the refinements came in the same pull request as the documents that needed
 them, so revising a distinction cost one ADR in a unit of work already open.
-The measured rates fell over the month (CLAIM-tmpi1bjh). Whether they fell
+The measured rates fell over the month ([CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md)). Whether they fell
 because the grammar fits or because revision costs more than it did is not
 separated by this case.
