@@ -1,0 +1,218 @@
+---
+status: Read
+paper: LIT-tmpqtkua
+title: 'Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt et al. — Causal scrubbing'
+version: 1
+history:
+- version: 1
+  date: '2026-10-26'
+  note: >-
+    Read in full on 2026-10-26: the main post of the sequence, fetched from
+    the Alignment Forum's own API (post JvZhhzycHu2Yd57RN, postedAt
+    2022-12-03) and converted from its HTML body to text. Read: the summary,
+    §§1–7 (introduction and related work, setup, the informal account and
+    the algorithm with its pseudocode, why ablate by resampling, the two
+    result summaries, relevance to alignment, limitations), the
+    acknowledgements, the citation block and all 22 footnotes. The post's
+    diagrams are images and were read from their captions and the
+    surrounding text only. The three companion posts of the sequence (the
+    appendix, and the results on the paren-balance checker and on
+    induction) were not read, so the results in §5 are taken from the main
+    post's summaries of them.
+date: '2026-10-26'
+summary: >-
+  A method for testing a stated mechanistic hypothesis about how a network
+  produces a behaviour on a dataset. The hypothesis maps an interpretable
+  computational graph into the model's graph; every activation is then
+  replaced, recursively from the output, by its value on another input the
+  hypothesis says is equivalent, and unclaimed inputs by their values on a
+  random input. The share of the behaviour that survives is the score. It
+  is applied to a parenthesis-balance classifier (93% down to 72% as the
+  hypothesis is made more specific) and to induction in a two-layer
+  attention-only model (35% for the naive hypothesis, 86% refined).
+---
+<!-- inactive-ok-file: THEORY-802 THEORY-tmpkd3fq CLAIM-tmpwr001 — Proposed; accounts and claims this reading bears on, cited as open -->
+
+# NOTE-tmp4zrzd: Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt et al. — Causal scrubbing
+
+## Contribution
+
+It turns an informal circuit story into a test that can be run
+mechanically. Before it, ablation checks were chosen case by case: zero
+the heads you think matter, mean-ablate the rest. Causal scrubbing reads a
+hypothesis as a list of every activation swap it permits, performs all of
+them at once, and reports how much of the behaviour is left. It also gives
+the field's standing argument for resampling ablation over zero or mean
+ablation, which the later circuit-discovery work (ACDC, [LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md);
+AtP*, [LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) cites as its reason to patch with activations from
+other inputs.
+
+## Key insight
+
+A hypothesis is an "intervention blacklist". Whatever it does not say
+matters may be swapped for its value on another input, and whatever it
+says computes a feature may be swapped for its value on any input with
+the same value of that feature. If the hypothesis is right, the model
+cannot tell the difference, so the behaviour should survive. "The
+hypothesis sticking its neck out and challenging us to swap around
+activations in any way that it hasn't specifically ruled out."
+
+## Assumptions
+
+- **What is explained** is an expectation, E_{x∼D}[f(x)], where f
+  folds in the model and a loss or other behaviour measure; most often
+  "why the model gets low loss on D".
+- **A hypothesis** is h = (G, I, c): G a computational graph extensionally
+  equal to f (the model's graph, which may be rewritten, for example by
+  splitting a sum into terms), I an interpretation graph, and c an
+  injective graph homomorphism from I into G mapping input to input and
+  output to output. Nodes of G outside c(I) are claimed unimportant.
+- **What is tested is weaker than "represents".** The algorithm tests
+  "that the equivalence classes on inputs to n_I are the same as the
+  equivalence classes on inputs to n_G". The authors say this "is not
+  strong enough to eliminate all incorrect hypotheses".
+- **Resampling.** For each important parent, a datum agreeing with the
+  reference on the interpretation node's value is drawn uniformly from D;
+  all unimportant parents of one node share one random datum (footnote
+  12), so the result does not depend on how the graph groups its inputs.
+- **Only exact agreement** licenses a swap: inputs must have exactly equal
+  values on the interpretation node, and only data in D can be used.
+
+## Key results
+
+- **The algorithm** (§3.2). Sample x from D; call run_scrub on the output
+  node of I; at each node, recurse into important parents with a datum
+  that agrees on the parent's interpretation value, and give unimportant
+  parents their values on one random datum; average f over samples. The
+  scrubbed expectation E_scrubbed(h, D) is compared with E_D[f]; their
+  difference is offered as "a reasonable proxy for the faithfulness of the
+  hypothesis".
+- **Resampling over zero and mean ablation** (§4). The claim one means
+  to test by ablating a module is that its activations carry no
+  information relevant to the task, not that the module could be deleted.
+  Patching in its activation on a random other input keeps the
+  distribution of its activations and scrubs only their connection to the
+  input. Zero and mean ablation take the model off distribution, have
+  unpredictable effects, and remove variation (details deferred to the
+  appendix post).
+- **Paren-balance checker** (§5.1). Three claims about which heads carry
+  which checks, scored as loss recovered (100% the model's loss, 0.0003;
+  0% the loss with labels permuted; footnote 16): claim 1, 93%; claims
+  1 + 2, 88%; claims 1 + 3, 84%; all three, 72%. The final hypothesis
+  combines up to 51 different inputs. Performance falls as the hypothesis
+  is made more specific, "because as the hypotheses get more specific,
+  they induce more activation replacements".
+- **Induction in a two-layer attention-only model** (§5.2). On a subset
+  of OpenWebText filtered to prompts ending in tokens where exact
+  two-token induction often helps, a naive hypothesis (values and queries
+  from the token embedding only, keys only from layer 0's previous-token
+  attention) recovers 35%. Letting the head match three consecutive
+  tokens, letting query and value also read layer 0's output at the
+  current position, and treating three layer-0 heads that attend to
+  repeats of the current token as if their attention were the identity,
+  raises it to 86%.
+- **Limitations stated by the authors** (§7). It cannot test swaps by
+  approximate equality of a continuous feature; it cannot test a
+  hypothesis when no other datum shares the required property; it
+  "doesn't allow us to distinguish between two features that are
+  perfectly correlated on our dataset, since they would induce the same
+  equivalence classes"; and it can accept a hypothesis that is
+  importantly false or incomplete, in two ways: by omitting inhibitory
+  circuits (such as IOI's negative name movers), which are harmful on
+  inputs where the heuristic applies, and by resampling correlated terms
+  independently, which lowers their variance and can make a hypothesis
+  that breaks a harmful correlation score higher. The authors propose an
+  adversary who may make the hypothesis more specific wherever that most
+  changes the score.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A hypothesis of the form (G, I, c) mechanically determines the activation swaps it permits | demonstrated | §§2–3, the algorithm |
+| C2 | Resampling ablation tests "this module carries no task-relevant information" more faithfully than zero or mean ablation | interpretive argument | §4; details in an appendix not read |
+| C3 | The score depends on an interpretation node only through the partition of D it induces | demonstrated (re-derived by the record, [THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md)) | §2's "weaker claim", §7, the pseudocode |
+| C4 | The paren-balance hypotheses recover 93% to 72% of the loss, falling with specificity | reported here, detailed in a companion post not read | §5.1 table |
+| C5 | A refined induction hypothesis recovers 86% where the naive one recovers 35% | reported here, detailed in a companion post not read | §5.2 |
+| C6 | A hypothesis that omits inhibitory components, or breaks a harmful correlation, can pass or score higher | argued with examples | §7 |
+
+## Concepts
+
+- **Scrubbed expectation**: the behaviour's expectation when every
+  activation is replaced as the hypothesis permits.
+- **Treeification**: rewriting G so that every input-to-output path has its
+  own copy of the input; a replacement upstream of a node is a replacement
+  of that subtree's input.
+- **Important nodes**: c(I), a union of paths from input to output.
+- **Resampling ablation**: patching a module's activation with its value
+  on a random other input from D.
+- **Defeasible reasoning**: the authors' frame for interpretability
+  explanations, which further arguments may overturn.
+
+## Connections
+
+It is presented as a generalization of the "ablate, then measure" checks
+of Nanda and Lieberum's grokking work ([LIT-345](../literature.d/LIT-345.md)), the induction-heads paper
+([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) and the IOI circuit ([LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md)), and is set against causal
+tracing (Meng et al., [LIT-tmpajpeb](../literature.d/LIT-tmpajpeb.md)).
+ACDC ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md), Appendix N) describes itself as searching a narrow class of
+causal-scrubbing hypotheses, in which each edge either matters or is
+resampled from one corrupted input. AtP* ([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) adopts its noising
+and resampling choice. DAS ([LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md)) and Beckers, Eberhardt and Halpern
+([LIT-1310](../literature.d/LIT-1310.md)) belong to the causal-abstraction line, which tests alignments by
+interchange interventions; Geiger et al. count circuit-based explanations,
+this one among them, as causal abstraction analysis.
+
+## Bearing on the record
+
+- **[QUESTION-234](../questions.d/QUESTION-234.md) and [THEORY-802](../theory.d/THEORY-802.md).** Causal scrubbing gives a second
+  instrument, besides interchange intervention accuracy, that would be
+  blind to the ties [THEORY-802](../theory.d/THEORY-802.md) is about, for a sharper reason. The score
+  depends on an interpretation node only through the partition of D it
+  induces ([THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md)), and the hypothesis may rewrite G before mapping
+  into it, which is where a change of basis would enter. Two alignments
+  related by a change of basis that induce the same partitions therefore
+  get the same score by construction. The method takes the decomposition
+  into units as the hypothesis's own choice, as Wu et al. do, and does not
+  privilege components, as Makelov et al. do.
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The authors' own limitation is a case of the claim:
+  a detector of a feature A can be misidentified as a detector of a
+  feature B correlated with it, and the test will not complain. What the
+  test certifies is a partition of the data, not the variable.
+- **[THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md) and [THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md).** The induction result is a
+  quantified refinement of the K-composition story in a two-layer
+  attention-only model: the naive previous-token-key circuit explains 35%
+  of the loss on induction-friendly text, and three further pathways are
+  needed to reach 86%. The model, the dataset filter and the details are
+  in the companion post, not read; the record holds only the summary.
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** A scored hypothesis is a candidate measure of
+  "how much of the behaviour does this circuit account for" at a
+  checkpoint, of a kind the question's circuit-only arm could track over
+  training; nothing here applies it over training.
+
+No instruction for machine-learning practice is recorded here: which
+ablation to use is the anthology's question (`anthology-candidate`).
+
+## Limitations
+
+- **The results are summaries.** The two applications are given in two
+  paragraphs and one small table; their models, datasets and variances are
+  in companion posts this reading did not cover.
+- **The score is not calibrated.** The authors accept hypotheses that
+  recover 72% or 86% while the algorithm allows only swaps the hypothesis
+  permits exactly; they call this "an inconsistency in our current
+  approach".
+- **Passing is not correctness.** By the authors' own §7, a hypothesis can
+  pass while misidentifying a correlated feature, omitting an inhibitory
+  circuit, or breaking a harmful correlation. Their remedy, an adversary
+  refining the hypothesis, is proposed, not shown.
+- **One small slip.** The BibTeX block spells an author "Goldwosky-Dill";
+  AtP*'s reference list copies it.
+
+## Open questions
+
+- With the adversary, does the score have a fixed point that does not
+  depend on how the hypothesis was first written?
+- For a trained model, are there two hypotheses that differ by a change of
+  basis crossing component boundaries and induce the same partitions
+  everywhere on D? That is [QUESTION-234](../questions.d/QUESTION-234.md) asked of this instrument.

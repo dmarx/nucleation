@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmplvjrp
 title: 'A deep network under conventional training: competing losses, an external optimizer and a scheduler, with three architectures that move governance inward and crossed interventions that locate it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: T24 of the exchange "Experimental Infrastructure
+    Review" re-derived this case without citing it, and added a third
+    arm, training exposure, to its crossed interventions (QUESTION-
+    tmpivbso). The case is unchanged.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -121,3 +129,23 @@ monitor."
   every question. For output prediction the network is a natural unit
   ([CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-157](../claims.d/CLAIM-157.md)).
 - Anything about feeling.
+
+## Note of 2026-10-26: a second appearance, with an exposure arm
+
+The reply at T24 of the exchange "Experimental Infrastructure Review"
+re-derived this case without citing it, when the owner asked whether the
+record's setup could interpret transformer learning dynamics
+([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). It wrote the update as
+(θ_{s+1}, m_{s+1}) = 𝒰(θ_s, m_s, ℬ_s), cited [CLAIM-367](../claims.d/CLAIM-367.md) and [THEORY-253](../theory.d/THEORY-253.md) for the
+external governance and the optimizer arm, and proposed as "the stronger
+causal test" to "clone the full training state, modify a particular
+training exposure or update pathway, and observe the subsequent
+development of identified circuits".
+
+That adds a third arm to the two this case crosses (optimizer, learned
+state): training exposure, meaning task mix and curriculum, which the
+reply's governance table reads as which capacities receive opportunities
+to develop. The reply also used g_kᵀg_j as "one local measure" of whether
+task pressures reinforce or oppose one another. This case already calls
+it a heuristic indicator, and [CLAIM-366](../claims.d/CLAIM-366.md) says why: its sign is not
+invariant under reparameterization. The case is unchanged.

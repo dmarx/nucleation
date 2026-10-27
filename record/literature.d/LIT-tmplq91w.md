@@ -1,0 +1,93 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-26 ([NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md)) in full, from the Distill article; worth
+  reading as the programme statement of circuits research: features as the
+  unit, circuits as weighted subgraphs between them that can be read off the
+  weights, and universality across models, each offered by the authors as
+  a deliberately speculative claim. Read it knowing that the examples are
+  from one vision model, InceptionV1, that the detailed evidence was
+  promised to later articles of the thread, and that the universality claim
+  rests, in the authors' word, on anecdote ([THEORY-tmpx97zh](../theory.d/THEORY-tmpx97zh.md),
+  [THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md)).
+title: 'Zoom In: An Introduction to Circuits'
+version: 2
+history:
+- version: 1
+  date: '2026-10-26'
+  note: >-
+    Filed, not read, at the owner's request of 2026-10-26: asked "how's
+    the record on neural circuit theory?", the answer found the record held
+    almost none of the core circuits literature, and the owner said "go
+    ahead and register and read those". Checked on 2026-10-26 against the
+    article's own page: Chris Olah, Nick Cammarata, Ludwig Schubert,
+    Gabriel Goh, Michael Petrov and Shan Carter (OpenAI), Distill,
+    "Published March 10, 2020", DOI 10.23915/distill.00024.001, which
+    gives `published:` (ADR-002). The work has no arXiv record; the DOI is
+    the source, with the article's URL. The summary follows the article's
+    own description and its three claims.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmplg2yz) from the Distill article,
+    https://distill.pub/2020/circuits/zoom-in/, fetched 2026-10-26, its
+    text extracted from the HTML; the figures were read from their captions
+    and the surrounding text only. Status Deferred → Active. Two accounts
+    filed, both Proposed: THEORY-tmpx97zh (features and circuits) and
+    THEORY-tmpgz1nk (universality). The summary is checked against the
+    reading and kept, with the authors' own grading of the evidence added.
+tags:
+- representation-learning
+- philosophy-of-science
+- anthology-candidate
+date: '2026-10-26'
+published: '2020-03-10'
+doi: '10.23915/distill.00024.001'
+url: 'https://distill.pub/2020/circuits/zoom-in/'
+first_author: 'Olah'
+keywords:
+- 'circuits'
+- 'features'
+- 'universality'
+- 'polysemantic neurons'
+- 'superposition'
+- 'InceptionV1'
+- 'mechanistic interpretability'
+implementations: []
+summary: >-
+  Olah et al. (2020), Distill, doi:10.23915/distill.00024.001. The essay
+  that opened the Circuits thread. It offers three "speculative claims"
+  about neural networks: features, which are directions in a layer's
+  activation space, are their fundamental unit; features connected by
+  weights form circuits that can be studied rigorously, and meaningful
+  algorithms can be read off the weights; and analogous features and
+  circuits form across models and tasks. The examples are from InceptionV1:
+  curve and high-low frequency detectors, a pose-invariant dog head
+  detector, and a car feature spread across dog neurons, which the authors
+  call superposition. For universality the authors call their own evidence
+  anecdotal.
+---
+<!-- inactive-ok-file: THEORY-tmpx97zh THEORY-tmpgz1nk — Proposed; the accounts filed from this reading, cited as open -->
+<!-- inactive-ok-file: CLAIM-263 — Proposed; the claim this bears on, cited as open -->
+
+# LIT-tmplq91w: Zoom In: An Introduction to Circuits
+
+Olah, C., Cammarata, N., Schubert, L., Goh, G., Petrov, M. and Carter, S.
+(2020). Zoom in: An introduction to circuits. *Distill*, 10 March 2020.
+doi:10.23915/distill.00024.001.
+
+Read in full on 2026-10-26 ([NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md)). Two accounts were drawn from
+it, both Proposed: [THEORY-tmpx97zh](../theory.d/THEORY-tmpx97zh.md) and [THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md).
+
+## Why this is here
+
+Registered and read at the owner's request of 2026-10-26, after an answer to
+"how's the record on neural circuit theory?" found that the record held
+almost none of the core circuits literature. This is the work that names
+the programme. The record's circuits line had its later results, Toy Models
+of Superposition ([LIT-323](LIT-323.md)), the grokking circuit ([LIT-345](LIT-345.md)) and the
+induction-head papers, without the statement of what a feature and a
+circuit are and why they should be the units. It also names the universality
+hypothesis, which [CLAIM-263](../claims.d/CLAIM-263.md)'s test for whether two networks compute the
+same way presupposes can fail, and it first describes as superposition the
+case that [LIT-323](LIT-323.md) later models.

@@ -17,7 +17,16 @@ promote_when: >-
   curves at 32×32 do not settle the higher orders, which is where the
   claim is thinnest.
 title: 'Early in training, image classifiers and language models act on the low-order statistics of their inputs, first-order before second-order, and later lose that sensitivity as they come to use higher-order structure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: two transformer training-dynamics works read on
+    2026-10-26 for the exchange "Experimental Infrastructure Review"
+    show the same low-order-first shape inside one network, at the
+    level of heads and of features; neither meets the promote_when. The
+    account is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -127,3 +136,30 @@ maximum-entropy 1- to 4-gram models of the Pile.
 - **[THEORY-039](THEORY-039.md).** It warns that phases differ in kind, and this bears it
   out. The rise of the n-gram loss and its later fall by in-context
   learning are two events on one curve.
+
+## Note of 2026-10-26: the same shape inside one transformer
+
+<!-- inactive-ok-file: THEORY-tmp1dufu THEORY-tmpt45mh — Proposed; readings of the same day, cited as evidence of the same shape, not as confirmation -->
+
+Two works read on 2026-10-26 for T24 of the exchange "Experimental
+Infrastructure Review" ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)) show this account's shape in a
+second family of evidence.
+
+- **Heads.** In the two-layer attention-only language model of the
+  refined-LLC study ([NOTE-tmpueby3](../notes.d/NOTE-tmpueby3.md)), the stages run bigrams, then n-grams
+  and skip n-grams, then previous-token heads, then induction heads, and
+  the first-layer heads that predicted simple n-grams later give some of
+  them up as they take new roles ([THEORY-tmp1dufu](THEORY-tmp1dufu.md), two checkpoints of one
+  run). Low order first, and the early sensitivity lost.
+- **Features.** In three 1B-parameter models, the crosscoder features that
+  matter for subject–verb agreement move from detecting particular tokens
+  to detecting grammatical categories ([THEORY-tmpt45mh](THEORY-tmpt45mh.md)), by the authors'
+  annotation and with no null for the shift.
+
+Neither meets the promote_when. Neither measures accuracy on samples
+matched to order one, two and three, and the order of n-grams is not the
+order of statistics this account means: an n-gram head is sensitive to a
+higher-order statistic of the token sequence than a unigram model, but
+neither study separates the orders the account names. They are
+consistent with it, in another setting, and confirm nothing. The account
+is unchanged.

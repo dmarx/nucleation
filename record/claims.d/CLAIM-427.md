@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcp1lb
 title: 'Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework''s defeater, and no grade counts if success is defined in the framework''s own terms'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-26'
@@ -32,6 +32,14 @@ history:
     conventional tie is the same code, and its 15-feature ridge rival is
     weaker, not stronger. The third grade is still unmet. The claim is
     unchanged.
+- version: 4
+  date: '2026-10-26'
+  note: >-
+    A third dated note of 2026-10-26 added: the Northstar multilevel
+    study reported at T20 of the exchange "Experimental Infrastructure
+    Review" (CASE-tmprl1px), which the lab does not hold; its router
+    ties and it meets neither of the first two grades as reported. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,6 +73,8 @@ summary: >-
   the grades and the rule "not to use the framework itself to define
   experimental success". [CLAIM-414](CLAIM-414.md) already meets the first grade for two
   constructions. Nothing in the record meets the third.
+illustrated_by:
+- CASE-tmprl1px
 ---
 
 # CLAIM-427: Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms
@@ -237,3 +247,24 @@ before new feedback, where both are worse than a constant forecast of one
 half (0.59864 and 0.61897 against 0.25 in the reversal world). Neither
 version is a comparison at matched complexity, and the third grade is
 still unmet.
+
+## Note of 2026-10-26 (later): Northstar v2.11, reported and not reproduced
+
+<!-- inactive-ok-file: CASE-tmprl1px — Proposed; the reported study, cited as where it stands -->
+
+T20 of the exchange "Experimental Infrastructure Review" reports a
+multilevel firm, "PerspectiveLab v2.11 — Northstar" ([CASE-tmprl1px](../cases.d/CASE-tmprl1px.md)). Its
+working group with delegated authority (regret 0.00499) ties "a
+conventional router, same information and authority" (0.00499) exactly.
+T20: "That's an important limit on what we can claim."
+
+As reported, the study meets neither of the first two grades. It shows no
+matched ordinary behaviour with different responses to interventions,
+except in the handoff arm, where knowledge differs (state-estimation MSE
+0.00411 with records against 0.03398 without) and action "often" does
+not. It has no comparator at matched information that the structure could
+beat, and nearly all of the working group's advantage over silos (95.9%)
+is fast authorization. Whether the router tie is an identity, as v2.7's
+and v2.9's were (the note above), is not said. dmarx/PerspectiveLab holds
+no v2.10 or v2.11 (its latest import is c54617e, v2.9), so none of it is
+checked. The third grade is still unmet. The claim is unchanged.

@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp59oav
 title: 'Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: three latent-structure models the exchange
+    "Experimental Infrastructure Review" proposed for an organization's
+    members (hLDA, the author–topic model, the mixed membership
+    stochastic blockmodel), read on 2026-10-26, and none reaches the
+    second achievement with a result. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +53,7 @@ supports:
 - CLAIM-139
 - CLAIM-206
 - CLAIM-204
+- CLAIM-tmpwr001
 ---
 
 # CLAIM-135: Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most
@@ -147,3 +157,34 @@ Matias and Rhodes, arXiv:0809.5032). None of these is held in either
 record. It does not say the third step is out of reach. It says the third
 step needs evidence of a different kind from the second, and that
 neither A214 nor A218 supplies it.
+
+## Note of 2026-10-26: three latent-structure models, and the second achievement
+
+<!-- inactive-ok-file: CLAIM-tmpwr001 — Proposed; filed the same day, cited as open -->
+
+The exchange "Experimental Infrastructure Review" proposed hLDA, the
+author–topic model and the mixed membership stochastic blockmodel for
+inferring an organization's perspectives from its members' activity
+([QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md)). All three were read on 2026-10-26, and none reaches
+this claim's second achievement with a result.
+
+- **hLDA** ([NOTE-tmpcuo7o](../notes.d/NOTE-tmpcuo7o.md)) has no identifiability result. Its one check is
+  recovery of trees from data simulated under its own prior
+  ([THEORY-tmpvs18m](../theory.d/THEORY-tmpvs18m.md), eight of ten), and its own caveat is that recovery
+  depends on "how identifiable the topics are".
+- **The author–topic model** ([NOTE-tmpjg8xz](../notes.d/NOTE-tmpjg8xz.md)) names only the permutations
+  of topics. Its likelihood leaves a continuum of changes of topic basis
+  free ([THEORY-tmp7wy54](../theory.d/THEORY-tmp7wy54.md)).
+- **The blockmodel** ([NOTE-tmphwzim](../notes.d/NOTE-tmphwzim.md)) says in its §5 that the difference
+  between the block matrix and the memberships "practically eliminates"
+  the identifiability issue, without argument, and the likelihood given
+  the memberships contradicts it ([THEORY-tmplo0xb](../theory.d/THEORY-tmplo0xb.md)).
+  Whether the Dirichlet prior on memberships separates them in the
+  marginal likelihood is left open. Allman, Matias and Rhodes, named under
+  "What it does not say" and still not held, is the kind of result that
+  question needs.
+
+So each stops at the first achievement, and the third is not attempted.
+The author–topic paper's reading of Enron email as showing "the roles and
+interests of different individuals" is the step from structure to kind
+taken by inspection ([CLAIM-tmpwr001](CLAIM-tmpwr001.md)). The claim is unchanged.

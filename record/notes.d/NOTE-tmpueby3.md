@@ -1,0 +1,279 @@
+---
+status: Read
+paper: LIT-tmpa32mr
+title: 'Wang, Hoogland, van Wingerden, Furman and Murfet — Refined local learning coefficients of attention heads'
+version: 1
+history:
+- version: 1
+  date: '2026-10-26'
+  note: >-
+    Read in full on 2026-10-26 from the arXiv PDF of 2410.02984 (v1, 3
+    October 2024, 41 pages; the PDF's own date line reads 7 October 2024),
+    text extracted with pdftotext. Read: the abstract, §§1–6 (setup, the
+    LLC and its refinements with their stated limitations, the three
+    empirical sections, related work, discussion), the reproducibility
+    statement, and appendices A (LLC in theory), B (head classification,
+    with B.1–B.6), C (critical points, increases and decreases, critical
+    periods, pruning), D (Hessian trace, Fisher trace and Hessian rank),
+    E (ablation comparisons), F (architecture, training, SGLD settings,
+    model-generated data distributions, composition scores, clustering)
+    and G (three further seeds). Displayed equations were partly garbled by
+    extraction; (1)–(6) and (7)–(9) were reconstructed from the text and the
+    layout extraction. Figures were read from captions and text, not
+    rendered. The ICLR 2025 version was not compared. The repository of
+    extended results was not opened.
+date: '2026-10-26'
+summary: >-
+  Restricts the local learning coefficient, singular learning theory's
+  measure of how degenerate the loss is near a parameter, to one
+  component's weights (weight-refined) or to another data distribution
+  (data-refined), and tracks it per attention head over the training of a
+  two-layer attention-only transformer. The heads' curves start alike and
+  diverge, and cluster by the heads' functional types; refinement to code
+  separates the two induction heads; refinement to a one-layer model's
+  outputs locates layer-0 heads giving up simple n-grams as a circuit with
+  layer-1 bracket-matching heads forms. One model, one run in the main
+  text, three more seeds in an appendix.
+---
+<!-- inactive-ok-file: THEORY-tmp1dufu THEORY-783 THEORY-039 THEORY-279 — Proposed; accounts this reading files or bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-329 CLAIM-286 CLAIM-287 CASE-tmplcm41 — Proposed; the record's own claims and the construction this reading bears on, cited as open -->
+<!-- inactive-ok-file: LIT-354 — Unavailable; Watanabe's book, named as the theory this paper builds on -->
+# NOTE-tmpueby3: Wang, Hoogland, van Wingerden, Furman and Murfet — Refined local learning coefficients of attention heads
+
+## Contribution
+
+A per-component, per-dataset version of the local learning coefficient
+(LLC), and a demonstration on the two-layer attention-only transformer of
+Hoogland et al. (2024) that its trajectories over training separate
+attention heads by function, locate what data a head is shaped by, and
+point to a circuit no one had described: layer-0 heads that come to feed
+layer-1 heads matching nested brackets. The authors' claim for the method
+is developmental: they "could not confidently cluster attention heads by
+their weight-refined LLCs without seeing their evolution over the course
+of training".
+
+## Key insight
+
+Ask of each component how much information its weights carry about the
+data, by how much the loss rises under typical perturbations of those
+weights alone, and watch that number over training. Heads that end up
+doing the same kind of thing get there along curves of the same shape.
+Heads that end up running simple algorithms carry less than heads that
+memorize many n-grams. A head whose number falls while the loss keeps
+falling is giving something up, and the reading in this paper is that some
+heads give up simple n-grams to serve other heads.
+
+## Assumptions
+
+- **The estimator.** λ̂(w*) = nβ (E_β[ℓ_n(w)] − ℓ_n(w*)), the expectation
+  under a localized tempered posterior ∝ exp{−nβℓ_n(w) − (γ/2)‖w − w*‖²},
+  sampled by SGLD (step 10⁻³, β = 30/n, γ = 200, 4 chains of 200 draws,
+  no burn-in).
+- **The refinements.** For weights split as W = U × V, the weight-refined
+  LLC perturbs only V, holding U at u*. The data-refined LLC computes the
+  loss on another distribution q′. The theoretical quantity is
+  λ(w*; V, q′) = −lim_{t→0⁺} log₂[vol(t/2)/vol(t)], the volume of
+  v near v* whose loss is within t of the minimum.
+- **Their own limitations (§3.3).** The estimator presumes w* is a local
+  minimum of the population loss, which is "unlikely" during training.
+  The true LLC is unknown for transformers, and only the ordering of
+  estimates is trusted: "we do have reason to believe that the ordinality
+  is correct".
+- **The model.** Two layers, attention only, 8 heads per layer, residual
+  width 256, context 1024, learnable Shortformer-style positions, a
+  5,000-token vocabulary, about 3M parameters, trained for about 50,000
+  steps at batch 100 on a DSIR-filtered subset of the Pile. The main-text
+  run is the one Hoogland et al. (2024) analysed, with their stages LM1–LM5
+  (bigrams; n-grams and skip n-grams; previous-token heads; induction
+  heads; convergence).
+- **Head types.** Each head is mean-ablated and its 1k most affected
+  tokens in context, from 100k samples, are matched serially against
+  templates (induction, Dyck, skip n-gram, n-gram). A head takes the type
+  that explains most of its tokens, "in a relative sense", supplemented by
+  manual inspection. Types describe the end of training. "Multigram head"
+  is the residual class.
+
+## Key results
+
+- **Differentiation (§4.1, Figs. 1–2).** The per-head weight-refined LLC
+  curves are similar early and diverge. Coloured by head type, "heads of
+  the same type tend to cluster together not only in terms of their wrLLC
+  at the end of training but also in terms of the overall shape of the
+  wrLLC curve". Euclidean K-means on the curves recovers the types, with
+  the number of clusters chosen by eye. Among layer-1 heads, a higher final
+  wrLLC goes with more memorized multigrams (Fig. 11), and the lowest are
+  the induction and bracket-matching heads.
+- **Specialization (§4.2, Fig. 3).** Refining to code (GitHub), the
+  multigram heads' LLC falls relative to the Pile and the induction heads'
+  rises, as predicted. The two induction heads, nearly equal on the Pile,
+  separate on code, 1:6 higher, and ablation examples confirm that 1:6 is
+  more involved in induction on punctuation and special characters.
+  Appendix B.2 adds that the two induction heads form several thousand
+  steps apart, 1:7 first, matching the per-head in-context learning score
+  obtained by ablating the other head.
+- **A multigram circuit (§4.3, Figs. 5–7).** With a trained one-layer model
+  as the data distribution, every head's data-refined LLC drops relative
+  to the Pile from LM3, most for the layer-0 multigram heads, which
+  ablations say stay multigram heads throughout. Path patching on a
+  synthetic bracket set shows head 1:5's loss on nested brackets coming to
+  depend on the layer-0 multigram heads "precisely when we predict the
+  shift in computational role occurs"; on unnested brackets the dependence
+  is small by the end. K-composition scores between layer-0 and layer-1
+  multigram heads turn around together. The summary: "layer 0 and layer 1
+  multigram heads independently memorize simple multigrams until around
+  the end of LM3. The layer 0 heads then begin forgetting some simple
+  multigrams as they transition to a supporting role within the multigram
+  circuit." They believe it is the first nested-Dyck circuit found in a
+  transformer trained on natural language.
+- **Heads change role (B.6).** "Heads 0:1, 0:4, 0:7 ultimately become the
+  two previous-token heads and (layer 0) Dyck head respectively. However,
+  these heads appear to start out as simple n-gram heads." Head 0:0 is a
+  whitespace head at 8.5k steps and a standard multigram head at the end.
+  The "ago" n-gram passes from 0:0 to 1:0, and the "more…th → an"
+  comparative from 0:7 to 1:1. These rest on token-in-context analyses at
+  two checkpoints, 8.5k and 50k steps.
+- **Complexity is not monotone (C.2–C.3).** Stages can lower the LLC as
+  well as raise it; the authors read increases and decreases of the
+  per-head LLC as "periods of rapid specialization followed by periods of
+  refinement", and liken them to critical periods and synaptic pruning.
+- **Against other measures (D, E).** The Hessian trace detects some stage
+  boundaries and partly separates head clusters, but noisily; the Fisher
+  trace agrees with it and is noisier; the Hessian rank is inconclusive.
+  Zero, mean and resampling ablations over training also separate head
+  types, and the final resampling-ablation ordering is "very close to" the
+  final rLLC ordering. Each side catches some heads the other misses.
+- **Seeds (G).** Three more runs: some have one induction and one
+  previous-token head, some lack the LM3 stage, but the multigram heads'
+  LLCs always fall after LM2, and shape-based clusters fitted to the first
+  run transfer, with stated exceptions.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Per-head weight-refined LLC curves diverge over training and cluster by functional head type | strong for this model; moderate across seeds | §4.1, Figs. 1–2, F.5, G; types assigned independently by ablation |
+| C2 | Final wrLLC orders layer-1 heads by description length: algorithmic heads lowest, n-gram-memorizing heads highest | moderate | Fig. 1, Fig. 11; counts of multigrams from the classification |
+| C3 | Data refinement to code separates the induction heads and predicts which is code-specialized | moderate | §4.2, Fig. 3, Fig. 4 ablation examples |
+| C4 | Layer-0 multigram heads give up simple n-grams and come to support layer-1 multigram heads (a multigram circuit), enabling nested bracket matching | moderate | §4.3: drLLC against a one-layer model, path patching, K-composition; one run |
+| C5 | Heads change function during training, and particular n-grams pass between heads | weak to moderate | B.6, two checkpoints, token-in-context classification |
+| C6 | Development is not monotone increase in complexity; LLC decreases are a kind of stage | moderate | C.3, with Hoogland et al. (2024) |
+| C7 | The rLLC is a principled tool that may replace head-by-head mechanistic analysis | weak | programmatic; the comparisons in D and E show it complementary, not superior across the board |
+
+## Concepts
+
+- **Local learning coefficient (LLC)**: λ(w*) = −lim log₂[vol(t/2)/vol(t)],
+  the number of bits to specify a parameter near w* that is half again
+  closer to the truth; lower means more degenerate. For a regular model
+  with d parameters vol(t) ∝ t^{d/2}, so λ = d/2 (checked here); singular
+  models have less.
+- **Weight-refined LLC (wrLLC)**: the LLC with only one component's weights
+  perturbed.
+- **Data-refined LLC (drLLC)**: the LLC with the loss taken on another
+  distribution, including the outputs of another model.
+- **Multigram**: a common token sequence, possibly non-contiguous: n-grams,
+  skip n-grams, and Dyck (bracket-matching) patterns.
+- **Developmental interpretability**: the authors' name for refined LLCs
+  plus study over training.
+- **Four categories of structure**: data-distributional, geometric (the
+  loss's level sets), learning-process (stages, critical periods) and
+  computational (heads, circuits); the paper's programme is to put them in
+  correspondence.
+
+## Connections
+
+It builds on Watanabe's singular learning theory ([LIT-354](../literature.d/LIT-354.md), Unavailable)
+and the WBIC's tempered posterior ([LIT-616](../literature.d/LIT-616.md)), on Lau et al.'s LLC estimator,
+and directly on Hoogland et al. (2024), whose model, run and stages it
+reuses. Its head taxonomy comes from Olsson et al. ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) and
+Elhage et al. (2021). Its framing of development by data structure cites
+Rogers and McClelland's "waves of differentiation", Saxe et al.'s theory
+of semantic development, and Belrose et al. ([LIT-952](../literature.d/LIT-952.md)) on low-order
+statistics first. Achille et al.'s critical periods are its model for LLC
+decreases.
+
+## Bearing on the record
+
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** The closest prior art the record holds, and the
+  reply's citation of it at T24 is accurate. Three things bear directly.
+  - *Acquisition by reorganization is observed.* The previous-token heads,
+    the circuit's precursor, began as n-gram heads; layer-0 multigram heads
+    give up simple n-grams to support layer-1 heads; n-grams move between
+    heads. That is the question's "reorganizing existing features", seen at
+    the level of components and at two checkpoints. It is [THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md),
+    filed Proposed.
+  - *The allocation changes the question's model would track are reported.*
+    A feature (an n-gram) moving from head 0:0 to head 1:0 is a change in
+    which component carries which feature, B_{ck,s} in the question's
+    notation. A dynamic feature-allocation model fitted to this run should
+    recover these moves, and it would be tested against them.
+  - *A per-component developmental signal exists.* The rLLC curves are a
+    circuit-side or component-side baseline the coupled model has to
+    out-predict. The paper fits nothing prospectively: it clusters and
+    explains after the fact, so the question's prospective test is not
+    done here.
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** On "one kind of event or several", the paper reports at
+  least three: growth in a component's information (LLC rising),
+  refinement or loss of it (LLC falling at constant loss), and repurposing
+  of a component to a new role. On "what sets the order": in this model the
+  stages go bigrams, multigrams, previous-token heads, induction heads, and
+  data refinement ties particular heads' timing to particular data (code
+  and induction). It answers nothing in full.
+- **[THEORY-279](../theory.d/THEORY-279.md).** Bigrams before multigrams before induction, and layer-0
+  heads later giving up simple n-grams, is low-order-first followed by loss
+  of the early behaviour, inside one transformer. The paper cites Belrose
+  et al. for the same idea. The join is the paper's, not new; it is a
+  second family of evidence for [THEORY-279](../theory.d/THEORY-279.md)'s pattern.
+- **[THEORY-039](../theory.d/THEORY-039.md).** Falling LLC at constant loss is a later phase of a kind
+  [THEORY-039](../theory.d/THEORY-039.md) lists (simplification), measured per component.
+- **[THEORY-253](../theory.d/THEORY-253.md), [THEORY-783](../theory.d/THEORY-783.md), [QUESTION-193](../questions.d/QUESTION-193.md).** No optimizer is varied, and
+  none is named in the paper. Nothing here bears on sign descent. The
+  staggered formation of the two induction heads is a timing difference
+  between components with the same function, which neither the optimizer
+  account nor dependency explains on its face.
+- **[CASE-tmplcm41](../cases.d/CASE-tmplcm41.md) (having a capacity against using it).** The paper
+  measures two things per head: how sensitive the loss is to its weights
+  (rLLC) and how much the loss rises when its output is removed
+  (ablation). They mostly agree and sometimes disagree (E.4). That is a
+  measured version of the case's split between holding a feature and
+  using it, and in a transformer both can be measured by intervention
+  rather than inferred from reconstruction.
+- **[CLAIM-329](../claims.d/CLAIM-329.md), [TERM-071](../terms.d/TERM-071.md).** "Migration" of an n-gram from one head to another
+  is judged by the same tokens being affected at two checkpoints, which is
+  continuity by resemblance. Whether 1:0 inherited the role from 0:0 or
+  learned it afresh is not tested. The question's §6 ("Can we distinguish
+  a continuing computation from a newly learned replacement") is open here.
+- **[LIT-354](../literature.d/LIT-354.md), [LIT-616](../literature.d/LIT-616.md).** The record's first developmental use of the
+  learning coefficient. The quantity is Watanabe's; the refinement to a
+  subset of weights and to another distribution is this paper's.
+
+No instruction for machine-learning practice.
+
+## Limitations
+
+- **One small model.** Two layers, attention only, a 5,000-token
+  vocabulary, one run in the main text; three seeds in an appendix,
+  which differ in how many induction and previous-token heads form.
+- **Estimates away from minima.** The authors trust the ordering of
+  estimates, not their values, and their limitations section says so.
+  SGLD hyperparameters matter (C.1 attributes a shift of stage boundaries
+  to nβ moving from 23 to 30).
+- **Clustering by eye.** Cluster counts were chosen visually; standard
+  cluster-quality metrics "did not appear to work well", with 8 heads per
+  layer.
+- **Classification is partly manual and relative.** A head is a Dyck head
+  if Dyck patterns are its largest explained share, even when most of its
+  tokens are unexplained.
+- **Role changes rest on two checkpoints** (8.5k and 50k steps).
+- **No prospective test.** Nothing is predicted before it happens, and no
+  training intervention is run.
+- **Slips.** B.4.2 heads a paragraph "1:3 Abbreviation head" and then
+  describes "head 0:3".
+
+## Open questions
+
+- Does a head that changes role inherit its new role from its old weights,
+  or is it overwritten? Re-initializing a head before its change, and
+  seeing whether the later circuit forms on time, would separate the two.
+- Do the rLLC clusters predict a head's later type from early
+  checkpoints? That would be the prospective version of §4.1.
+- Do the stages and the role changes appear in models with MLPs?

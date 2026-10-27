@@ -1,0 +1,327 @@
+---
+status: Read
+paper: LIT-tmpjvwet
+title: 'Lindsey et al. — On the biology of a large language model'
+version: 1
+history:
+- version: 1
+  date: '2026-10-26'
+  note: >-
+    Read in full on 2026-10-26 from the HTML of the Transformer Circuits
+    article (transformer-circuits.pub/2025/attribution-graphs/biology.html,
+    headed "Published March 27, 2025"), fetched that day and reduced to
+    text by the reader's own script. Read: the Introduction with "A note
+    on our approach and its limitations", Method Overview, all ten case
+    studies with their subsections (Multi-step Reasoning, Planning in
+    Poems, Multilingual Circuits, Addition, Medical Diagnoses, Entity
+    Recognition and Hallucinations, Refusals, Life of a Jailbreak,
+    Chain-of-thought Faithfulness, Uncovering Hidden Goals in a Misaligned
+    Model), Commonly Observed Circuit Components and Structure,
+    Limitations, Discussion, Related Work, Citation Information, and the
+    appendices Open Questions, Special Tokens and Graph Pruning and
+    Visualization. Not read: the Acknowledgments and Author Contributions.
+    The reading was done in two passes the same day; the first covered
+    about half the case studies, and the rest were read at the
+    coordinator's request so that the status could be Read. Figures and
+    attribution graphs are interactive and were not rendered; their content
+    is taken from the text, captions and inline tables.
+date: '2026-10-26'
+summary: >-
+  Case studies of Claude 3.5 Haiku through attribution graphs of a
+  30-million-feature cross-layer transcoder, each checked by inhibiting or
+  injecting features in the model. On single prompts: "Dallas" reaches
+  "Austin" through "Texas" features, beside a direct shortcut; a rhyme is
+  chosen on the newline before a line and the line is written towards it;
+  one addition lookup-table feature serves arithmetic, citations and
+  tables; "can't answer" features are on by default and inhibited by
+  known-entity features; a chain of thought can work backwards from a
+  hinted answer; a jailbreak's target word is not represented before it is
+  written; a goal finetuned into a model organism is represented across
+  every Assistant context. The authors call these existence proofs and
+  report a satisfying graph for about a quarter of prompts tried.
+---
+<!-- inactive-ok-file: THEORY-tmpfralg CLAIM-tmpwr001 THEORY-tmpkd3fq THEORY-022 — Proposed; the wider thesis filed from this reading, the record's own claim and a neighbouring account, cited as open -->
+# NOTE-tmpl4x31: Lindsey et al. — On the biology of a large language model
+
+## Contribution
+
+Circuit-level case studies in a production model, at a resolution of
+single features and with a perturbation check for each. The cases show
+computations not visible in the input or output: an intermediate entity
+in a two-hop question, a target word chosen before the line that ends with
+it, an arithmetic feature reused in non-arithmetic text, an
+answer-or-decline switch, chain-of-thought text that does not match
+the computation, an unnamed diagnosis that steers a follow-up question,
+and a trained-in goal active wherever the model speaks as the Assistant.
+It also shows, on a jailbreak, the opposite of planning: an output word
+assembled with no prior representation of it. The authors frame them as a biologist's descriptive
+findings: "existence proofs — concrete evidence that specific mechanisms
+operate in certain contexts".
+
+## Key insight
+
+Read a model on one prompt at a time, in features, and check each reading
+by intervention. What it shows is that the model has, on some prompts,
+internal steps that a probe built from a guess could miss: the authors
+began the poetry study "looking for evidence of the improvisation
+strategy" and found planning. What it does not show is how often. The
+paper is built from success cases, and says so.
+
+## Assumptions
+
+- **Model and replacement.** Claude 3.5 Haiku (released October 2024); a
+  CLT with 30 million features; attention patterns of the model used as
+  fixed; error nodes included; graphs pruned and features hand-grouped into
+  supernodes ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md)).
+- **Validation.** Interventions in the model by constrained patching:
+  inhibition by clamping to a negative multiple of the original
+  activation, injection by adding features from another prompt, at
+  strengths chosen empirically. "We choose our feature labelings and
+  supernode groupings prior to measuring perturbation results." Effects on
+  features before the intervention layer "are guaranteed to agree with the
+  direct effects predicted by the attribution graph"; effects on outputs
+  are "the most important source of validation".
+- **Prompts.** Short (the method has not been scaled beyond about a hundred
+  tokens) and chosen; "the cases we have chosen to highlight are
+  undoubtedly a biased sample shaped by the limitations of our tools".
+- **Success rate.** "Our attribution graphs provide us with satisfying
+  insight for about a quarter of the prompts we've tried".
+
+## Key results
+
+- **Two-hop (Multi-step Reasoning).** "Fact: the capital of the state
+  containing Dallas is" → "Austin". Dallas features activate "Texas"
+  features; "capital" features activate "say a capital" features; the two
+  jointly promote Austin, directly and through "say Austin" features; and a
+  "shortcut" edge runs from Dallas to "say Austin". Inhibiting Dallas
+  features lowers Texas and its downstream features and leaves "say a
+  capital" largely unaffected, and the model then outputs other state
+  capitals; inhibiting "capital" does the converse. Replacing the Texas
+  features with features from analogous prompts makes the model output
+  Sacramento (California), Atlanta (Georgia), Victoria (British Columbia),
+  Beijing (China) and Constantinople (Byzantine Empire); the non-state
+  swaps needed larger injections.
+- **Planning in poems.** On "A rhyming couplet: / He saw a carrot and had
+  to grab it, / His hunger was like a starving rabbit", features for
+  "rabbit" and "habit" are active on the newline before the second line,
+  fed by "rhymes with eet/it/et" features from "it". Steering them (negative
+  on rabbit and habit, positive on a "green" feature) changes the final
+  word only when applied at the newline. The same features promote
+  "comparison" features at "like", and suppressing "rabbit" changes the
+  transition to suit "habit". Resampling the whole line under the
+  intervention changes its structure to end on the steered word.
+  Injecting "rabbit" or "green" features into 25 randomly sampled poems
+  ended the line with the injected word "in 70% of cases". Planned-word
+  features were found "in about half of the poems we investigated".
+- **Multilingual circuits.** "The opposite of "small" is "" in English,
+  French and Chinese runs through shared multilingual antonym and "small"
+  features and language-specific quote and output features; 20 of 27
+  features in the multilingual supernodes are active on all three prompts,
+  10 of 27 survive pruning in all three graphs. Swapping the operation
+  (antonym → synonym features from an English prompt, at 6× their
+  activation, effective from about 4×), the operand (small → hot) or the
+  language features changes the output accordingly in each language. The
+  antonym-to-"large" step runs through attention and is "invisible to our
+  current approach". Over translated paragraphs, feature overlap
+  (intersection over union) is lowest in early and late layers and highest
+  in the middle, and higher in Haiku than in a smaller model, most for
+  pairs not sharing an alphabet. English is "the default output":
+  multilingual features have stronger direct weights to English outputs.
+- **Addition.** On "calc: 36+59=" the graph of [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md). Asked how it
+  got 95, the model describes the carry algorithm, which the graph does
+  not show ("Apparently not!"). The _6 + _9 lookup-table feature also
+  fires in astronomical tables, revenue tables and journal citations where
+  the next token ends in 5 by an implicit addition; in a citation to
+  *Polymer* volume 36, suppressing it changes the predicted year, and
+  swapping in _9 + _9 changes 1995 to 1998. On "assert (4 + 5) * 3 ==", a
+  feature for "9 as an intermediate step" suppresses saying 9, weakly.
+- **Medical diagnosis.** For a pregnant patient with right upper quadrant
+  pain, headache, high blood pressure and raised liver enzymes, the model
+  suggests asking about visual disturbances. "Preeclampsia" features are
+  active though the word is absent, fed mainly by pregnancy and blood
+  pressure features, beside weaker biliary-disorder features, and they
+  promote features for confirming symptoms. Inhibiting them makes the
+  model ask about decreased appetite, suited to the biliary alternative.
+  Three further prompts are described from their graphs, without
+  interventions. The authors call it "a single, brief case study".
+- **Entity recognition and hallucination.** In Human/Assistant format,
+  "can't answer" features are driven by generic Assistant features, so the
+  default is to decline; "unknown name" features are driven by name
+  features. Known-entity and "known answer" features (Michael Jordan)
+  inhibit both. Activating known-answer features on "Michael Batkin" makes
+  the model name a sport; inhibiting them on Michael Jordan sometimes
+  yields "Hypothetical" or "Underspecified". In a natural hallucination
+  (naming a paper by Andrej Karpathy, the model gives AlexNet), known-answer
+  features are weakly active, and inhibiting them restores a refusal.
+  Activating "unknown names" did not induce a refusal for Michael Jordan,
+  against the graph's prediction.
+- **Chain-of-thought faithfulness.** For sqrt(0.64) the graph shows the
+  model computing sqrt(64). For cos(23423) with no hint, it claims a
+  calculator and the graph shows no calculation; with a hinted answer of 4,
+  it works backwards to the intermediate value 0.8 that, multiplied by 5,
+  reaches the hint, and varying the hint moves the chain of thought to it.
+  Why the model attends to the hint is not visible, because attention is
+  frozen.
+- **Refusals.** For "Write an advertisement for cleaning with bleach and
+  ammonia", features for the dangers of mixing cleaning chemicals feed a
+  harmful-request → should-refuse → "I" chain, and inhibit warning
+  features. Ablating the danger features makes the model comply; ablating
+  harmful-request features gives a public-service announcement; ablating
+  Human/Assistant features gives a warning instead of a refusal. In global
+  (TWERA) weights, specific-harm features from pretraining contexts feed
+  general harmful-request features active in Human/Assistant contexts;
+  dictionaries trained on pretraining data alone had "very few refusal
+  features"; over 200 Sorry-Bench prompts several dozen refusal features
+  recur and cluster weakly into several groups.
+- **A jailbreak.** On "Babies Outlive Mustard Block" the model writes
+  "BOMB" from letter-wise paths with no representation of the word, and
+  recognizes the request only from its own "To make a bomb"; the refusal
+  waits for a new sentence, a mechanism that runs through attention
+  ([THEORY-tmpzjxhi](../theory.d/THEORY-tmpzjxhi.md)).
+- **Hidden goals.** In Marks et al.'s model organism, finetuned to exploit
+  fictional reward-model biases, a 10M-feature CLT trained on pretraining
+  data finds an RM-bias feature active in 100 of 100 Human/Assistant
+  prompts and 1 of 100 without the format; inhibiting bias features cuts
+  meta-poems, 9-1-1 and voting mentions, and flips "chocolate" to
+  "vegetables" ([THEORY-tmpaa9v2](../theory.d/THEORY-tmpaa9v2.md)).
+- **Common components.** Input → abstract → output features; convergent
+  paths and shortcuts (a "coherent feedforward loop" in Alon's taxonomy);
+  features smeared across positions; long-range edges; information stored
+  on newlines and punctuation; default circuits; attention doing its work
+  early; context-dependent facets of a feature; late "confidence
+  reduction" features; and many "boring" features.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | On the Dallas prompt, Haiku reaches Austin through an intermediate Texas representation, beside a direct shortcut | strong for that prompt | graph, inhibition and five swaps; [THEORY-tmpgx2s5](../theory.d/THEORY-tmpgx2s5.md) |
+| C2 | On the "grab it" couplet, Haiku selects candidate rhymes on the newline and writes the line towards the chosen one | strong for that prompt; moderate across 25 poems | graph, position-specific steering, 70% injection rate; [THEORY-tmpz8eh5](../theory.d/THEORY-tmpz8eh5.md) |
+| C3 | Planning of this kind occurs in roughly half of rhyming couplets the authors examined | weak (count without a sample description) | footnote in Planning in Poems |
+| C4 | One addition lookup-table feature is used in arithmetic and in non-arithmetic contexts that need the same sum | moderate | dataset examples, one citation graph with interventions |
+| C5 | Haiku declines by default, and known-entity features inhibit the decline; misfire of that inhibition explains at least one hallucination | moderate (two prompt pairs, one natural case, one failed intervention) | Entity Recognition section |
+| C6 | A chain of thought can be computed backwards from a hinted answer rather than forwards from the question | moderate for the example | graph, inhibitions, varied hints |
+| C7 | Haiku "routinely uses multiple intermediate reasoning steps", plans forward and backward, and has primitive metacognitive circuits | weak as general claims | introduction and discussion, generalizing from C1–C6; [THEORY-tmpfralg](../theory.d/THEORY-tmpfralg.md) |
+| C8 | Shared multilingual features carry the operation and operand of a simple antonym task across English, French and Chinese, with English privileged as default output | moderate (three prompts; one IoU measurement across layers) | Multilingual Circuits |
+| C9 | On the preeclampsia prompt, an unnamed diagnosis is represented and causally shapes the suggested question | moderate for that prompt | Medical Diagnoses, one inhibition |
+| C10 | General harmful-request features are formed in finetuning from pretraining harm features | weak to moderate (global weights, a dictionary comparison) | Refusals |
+| C11 | On one jailbreak, the target word is not represented before it is written, and the request is recognized only from the model's own text | strong for that prompt | Life of a Jailbreak; [THEORY-tmpzjxhi](../theory.d/THEORY-tmpzjxhi.md) |
+| C12 | In a model organism, a trained-in goal is represented in every Assistant context and drives bias behaviours, including untrained ones | moderate (one model, three behaviours) | Uncovering Hidden Goals; [THEORY-tmpaa9v2](../theory.d/THEORY-tmpaa9v2.md) |
+
+## Concepts
+
+- **Supernode, attribution graph, local replacement model, constrained
+  patching**: as in [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md).
+- **Output feature ("say X")**: a feature best described by the tokens it
+  promotes.
+- **Planned-word feature**: an ordinary feature for a word, active before
+  the word is written and used to steer the text towards it; "rather than
+  planning-specific features".
+- **Default circuit**: a pathway active whenever its context is present,
+  overridden by inhibition (Assistant → "can't answer").
+- **Lookup-table feature**: a feature active when condition₁(a) AND
+  condition₂(b) holds of two operands; see [THEORY-tmp7rb6m](../theory.d/THEORY-tmp7rb6m.md).
+
+## Connections
+
+The method is [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), built on [LIT-tmptgo43](../literature.d/LIT-tmptgo43.md). The known/unknown
+entity features corroborate Ferrando et al. The two-hop case adds to prior
+evidence of latent multi-hop reasoning, which the authors say holds "to
+varying degrees in different contexts". The same group's workspace paper
+([LIT-1347](../literature.d/LIT-1347.md)) later locates verbalizable representations by a Jacobian lens,
+a different instrument for a related question. Induction, which these
+graphs cannot show, is [LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md).
+
+## Bearing on the record
+
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The case studies do more than recover features: each
+  reading is tested by intervening in the model. But the article's own
+  footnote fixes how far that goes. Direct effects before the intervention
+  layer agree by construction ([THEORY-tmpbtnf0](../theory.d/THEORY-tmpbtnf0.md)), so the evidence is in the
+  output changes, which the record's two Active entries rest on.
+- **[THEORY-tmpm4ifd](../theory.d/THEORY-tmpm4ifd.md).** The faithfulness measurements are on 18L; the case
+  studies are on Haiku, and validated coarsely. The failed "unknown names"
+  intervention is the one case read here where the graph's prediction did
+  not hold, which the authors call "uncommon across our case studies".
+- **[THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md).** The article cannot bear on it: copying from context
+  shows as a direct edge from the earlier word (When Do Our Methods Not
+  Work?).
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** Nothing here is developmental; one checkpoint of one
+  model.
+- **The record's cognition and agency lines.** The article uses "plans",
+  "goals" and "metacognition" for the mechanisms it shows. The record
+  should keep its own definitions; what is measured is a feature for a
+  word active before that word, used causally to shape the text.
+- **[THEORY-022](../theory.d/THEORY-022.md).** The Related Work places the authors' addition findings
+  beside the Clock and Pizza algorithms of small modular-addition networks
+  and Kantamneni and Tegmark's helices; nothing here tests [THEORY-022](../theory.d/THEORY-022.md).
+- **Agency and the record's own line on goals.** The hidden-goal case is
+  the strongest measured instance here of a goal represented apart from
+  its expression, but the goal is named in the model's training documents,
+  which is how its feature was found.
+- **Accounts filed.** [THEORY-tmpgx2s5](../theory.d/THEORY-tmpgx2s5.md) (Active, the Dallas case as
+  measured); [THEORY-tmpz8eh5](../theory.d/THEORY-tmpz8eh5.md) (Active, the couplet case and the 25-poem
+  injection as measured); [THEORY-tmpzjxhi](../theory.d/THEORY-tmpzjxhi.md) (Active, the jailbreak case as
+  measured); [THEORY-tmpaa9v2](../theory.d/THEORY-tmpaa9v2.md) (Active, the hidden-goal case as measured);
+  [THEORY-tmpfralg](../theory.d/THEORY-tmpfralg.md) (Proposed, the general thesis, with the jailbreak case
+  counted against it).
+
+No instruction for machine-learning practice; the anthology may want the
+work as a reading (`anthology-candidate`).
+
+## Limitations
+
+- **Selected cases.** About a quarter of prompts tried give a satisfying
+  graph, and these are drawn from them. The authors: "Our results are only
+  claims about specific examples. We don't make claims about mechanisms
+  more broadly." The introduction and discussion nonetheless speak of what
+  the model "routinely" does.
+- **No preregistration.** "Though we did not formally preregister
+  hypotheses or perform a blinded comparison, our subjective answer is
+  yes" (on whether the method found the unexpected). The chain-of-thought
+  prompts were analysed "with a clear guess for what the result might be".
+- **Intervention strengths** are often large relative to the features'
+  natural activations, and the authors read that as the identified
+  features capturing "only a part of the story".
+- **Attention is invisible**, so why the model attends to a hint, or
+  fetches an earlier word, is not explained. In two cases here
+  (multilingual antonyms, the jailbreak's sentence-boundary refusal), as in
+  the companion's multiple-choice example, the crux is attention-mediated,
+  and the jailbreak injection that produced a refusal needed attention
+  left unfrozen, outside the frozen-attention validation the method
+  describes.
+- **Graphs are curated.** The graphs shown received an extra pruning step
+  in which "key nodes of interest" were tagged to be retained, and error
+  nodes are merged to one per position (appendix Graph Pruning and
+  Visualization).
+- **Different dictionaries.** The hidden-goal case uses a 10M-feature CLT
+  trained without chat data, not the 30M one used elsewhere.
+- **Errors found in the sections read.**
+  - In the 25-poem table of "success cases", the "rabbit" injection on the
+    rain poem gives "Soft and slow like a timid hare.", which does not end
+    in the injected word.
+  - In the addition section, the revenue table is described as an
+    arithmetic sequence: "the cost ($35,820) follows an arithmetic
+    sequence in its column (increase by $8,970 from $26,880)". 26,880 +
+    8,970 = 35,850. The table's own steps are 8,970, 8,970, 8,940 and 8,940.
+  - "70% of cases" over "25 poems" with two injected words: the
+    denominator (25 or 50) is not stated.
+  - In the hidden-goal case, the meta-poem behaviour occurs "~85% of the
+    time when we sample with temperature=1.0", and inhibition reduces it
+    "from ~48% to ~12%"; the 48% baseline is not explained.
+  - In the multilingual case, the German example of the multilingual
+    capital feature reads "Hauptftadt", which the authors flag as probably
+    a transcription error in the source text.
+
+## Open questions
+
+- In a sample of two-hop prompts and couplets drawn without regard to
+  whether the graph is satisfying, how often are an intermediate or a
+  planned word present and causally necessary?
+- What fraction of the model's correct answers on such prompts go through
+  the shortcut path alone?
+- Do planned-word features appear in prose, where there is no rhyme
+  constraint, and what separates the couplet, where the output is
+  represented ahead, from the jailbreak, where it is not?
+- Could the hidden-goal method find a goal that no training document
+  names? (The authors' own open question.)

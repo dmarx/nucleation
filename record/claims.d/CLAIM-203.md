@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3lv11
 title: 'The only design for the October thesis builds its outcome in: the act is fixed by whoever writes the items, and the topic-only baseline is built to fail on the critical cells'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -17,6 +17,15 @@ history:
     text-model rival is placed in the central tests (CLAIM-204),
     since CLAIM-129 concerns what factorizations of a relation family
     show.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the lesson in general form recurred three times
+    in the exchange "Experimental Infrastructure Review" (T21–T23):
+    recovering a latent structure from data generated under its own
+    prior tests the inference, not the structure; the hLDA paper's
+    planted-tree recovery, read the same day, is cited as a published
+    instance. The claim is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -107,3 +116,29 @@ and that its interventions manipulate a described speaker ([CLAIM-127](CLAIM-127
   neutral.
 - A baseline at least as strong as a supervised text classifier or a
   language model, alongside topic-only NMF.
+
+## Note of 2026-10-26: the same lesson for latent-structure recovery
+
+<!-- inactive-ok-file: CASE-tmplcm41 — Proposed; the construction, filed the same day -->
+
+The lesson in general form recurred three times in the Northstar turns of
+the exchange "Experimental Infrastructure Review", about latent-structure
+models of an organization's members ([QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md)). T21: "the
+generator's vocabulary would risk making the intended topic structure
+artificially easy to recover." T22: "If we start generating employees from
+the IBP and then successfully recover the IBP structure, we've mostly
+demonstrated that inference works under matched assumptions." T23 gave the
+remedy this claim's "What would answer it" gives for items: fit the
+latent-feature model to a mechanistic simulator that does not assume it
+("Option A", so that "feature discovery can be tested against a world
+that did not itself assume IBP-distributed employees"), and keep
+planted-structure recovery as a check on inference only ([CASE-tmplcm41](../cases.d/CASE-tmplcm41.md)).
+Recovering a structure from data generated under its own prior tests the
+inference, not the structure.
+
+The hLDA paper the exchange cited, read the same day, has the published
+form of that check ([THEORY-tmpvs18m](../theory.d/THEORY-tmpvs18m.md)): on ten corpora simulated from
+three-level hLDA itself, the sampler's best state recovered the
+generating tree exactly in eight, and in one of the others a wrong tree
+had the higher posterior. It shows the inference works under matched
+assumptions, and the paper offers it as no more. The claim is unchanged.

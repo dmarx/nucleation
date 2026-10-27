@@ -71,6 +71,7 @@ illustrated_by:
 - CASE-163
 supports:
 - CLAIM-427
+- CLAIM-tmpwr001
 ---
 <!-- inactive-ok-file: TERM-072 TERM-073 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 

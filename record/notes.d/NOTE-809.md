@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmptglsv
 paper: LIT-961
 title: 'Wu et al. — a reply to Makelov et al.''s interpretability illusion arguments'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -18,6 +18,13 @@ history:
     each attribution. The toy-network computation of §3.2 was re-run by
     script, with and without normalizing the rowspace component; the
     result is reported under Key results.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: DAS, on which the reply rests, was
+    registered and read on 2026-10-26 and is cited by code, with two
+    of its results that bear on the dispute. The reading is
+    unchanged.
 date: '2026-10-14'
 summary: >-
   The reply argues that Makelov et al.'s "illusion" is defined so that any
@@ -223,3 +230,21 @@ DAS-located variables.
 - Whether there is a principled basis, beyond component boundaries, for
   preferring one of several alignments that agree on every intervention
   performed.
+
+## Note of 2026-10-27: DAS, now held
+
+The reply rests on DAS (Geiger et al. 2023), which was registered and
+read on 2026-10-26 for the owner's request about the record's circuits
+literature ([LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md), [NOTE-tmpzb21n](NOTE-tmpzb21n.md)). Two of its results bear on the
+dispute this reading records.
+
+- **DAS fixes subspaces, not directions.** The learned rotation enters an
+  intervention only through the projector onto the learned subspace, so
+  rotations that select the same subspaces give identical interventions.
+  The observation is the record's ([NOTE-tmpzb21n](NOTE-tmpzb21n.md)), not the paper's.
+- **A random-network control.** On frozen random networks DAS's IIA
+  stays at chance up to width 256 and reaches 0.64 at width 4,096
+  ([THEORY-tmpqhbjf](../theory.d/THEORY-tmpqhbjf.md)), the paper's own counterpart of Makelov et al.'s
+  random-MLP check ([NOTE-782](NOTE-782.md)).
+
+The reading is unchanged.

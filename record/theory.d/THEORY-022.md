@@ -16,7 +16,7 @@ promote_when: >-
   non-orthogonal cos and sin components would refute the character-product
   reading while leaving the Fourier-sparsity finding intact.
 title: 'The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-09'
@@ -37,6 +37,13 @@ history:
     THEORY-288) shows a group imposed by the activation, so "the
     group comes from the task" is not general. The claim is otherwise
     unchanged.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    A dated note added: Circuit Tracing, read on 2026-10-26, finds
+    addition in a language model computed partly by features that
+    are not Fourier, and shows why some combining step is forced.
+    Status and title are unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -160,3 +167,19 @@ the circle could come from in a language model without showing that it does
 why a degeneracy test would see these pairs but not their frequencies.
 [THEORY-017](THEORY-017.md): the Fourier basis is supplied, and only the isotypic planes are
 fixed by the group.
+
+## Note of 2026-10-27: addition in a language model is not all Fourier
+
+Ameisen et al.'s Circuit Tracing ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md)), read on
+2026-10-26 at the owner's request, traces two-digit addition in Claude
+3.5 Haiku. Its features include ones-digit lookup tables (_6 + _9 →
+sum = _5), low- and moderate-precision magnitude ranges and "starts with
+51" patterns, some of which "aren't describable in Fourier terms", beside
+mod-10 and mod-100 features that are. This account concerns a network
+trained on modular addition and the circles found in language models;
+the two are compatible, and the language model's addition is not only
+the character products found here. The same article proves why some
+combining step is forced: a unit whose pre-activation is additively
+separable in the two operands cannot detect a sum that has two
+decompositions ([THEORY-tmp7rb6m](THEORY-tmp7rb6m.md)). The grokking network's products of
+characters are one such step. The account is unchanged.

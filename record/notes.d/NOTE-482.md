@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpsl3ae
 paper: 'LIT-611'
 title: 'Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-03'
@@ -18,6 +18,13 @@ history:
     it. The JumpReLU training method and the interpretability ratings are
     from Rajamanoharan et al. (2024b) and are taken as this report
     summarises them.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the transcoder paper whose GPT-2 Small
+    finding Appendix B reports reversing was registered and read on
+    2026-10-26; scoped as filed, the two findings do not contradict.
+    The reading is unchanged.
 date: '2026-10-03'
 summary: >-
   JumpReLU SAE: f(x) = z ⊙ H(z − θ), z = W_enc x + b_enc, x̂ = W_dec f + b_dec,
@@ -222,3 +229,16 @@ The report's own list (§5) is long. Those nearest this record:
   2B has 42 layers"; it is the 9B model that has 42 layers, as Table 1
   gives. Table 1 also labels the small model "2.6B PT", where the text
   calls it Gemma 2 2B.
+
+## Note of 2026-10-27: the transcoder finding it reverses, now held
+
+The GPT-2 Small finding of Dunefsky et al. that Appendix B reports
+reversing on Gemma 2 2B is now held: the transcoder paper was registered
+and read on 2026-10-26 ([LIT-tmptgo43](../literature.d/LIT-tmptgo43.md), [NOTE-tmpbsp9v](NOTE-tmpbsp9v.md)). As the record files
+it ([THEORY-tmptjiep](../theory.d/THEORY-tmptjiep.md)), transcoders are on or above the SAE frontier on one
+MLP layer each of GPT2-small, Pythia-410M and Pythia-1.4B, under one
+learning rate and one seed. Scoped so, the two findings are on different
+models and do not contradict. Why the ordering reverses, and whether it
+survives a learning-rate sweep and several seeds, is open, and
+implementation error remains among the causes Gemma Scope lists. The
+reading is unchanged.

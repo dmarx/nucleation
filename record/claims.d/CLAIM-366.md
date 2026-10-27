@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpuia0a
 title: 'Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: T24 of the exchange "Experimental Infrastructure
+    Review" restricted g_kᵀg_j to Euclidean gradient descent and added a
+    separate caveat for Adam; the two are one fact, since a constant
+    preconditioner is gradient descent in another chart (checked). The
+    claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -134,3 +143,27 @@ same learning dynamics".
   practice, and it belongs in the anthology. This record keeps the
   mathematics because the frustration account ([TERM-060](../terms.d/TERM-060.md)) needs a
   diagnosis that is not an artefact of coordinates.
+
+## Note of 2026-10-26: the preconditioner is a chart
+
+The reply at T24 of the exchange "Experimental Infrastructure Review"
+offered g_kᵀg_j as a measure of task interaction "under ordinary Euclidean
+gradient descent", and added that for Adam the optimizer state would have
+to be accounted for ([QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)). The two caveats are one.
+
+- The first-order change in task j's loss from a preconditioned step on
+  task k is −η g_jᵀ P g_k. On random quadratics the actual change was
+  −7.771 × 10⁻⁴ against a prediction of −7.772 × 10⁻⁴.
+- A constant P = JJᵀ is exactly gradient descent in the chart θ = Jψ
+  (checked to 2 × 10⁻¹⁶). So the cross-term's sign under a preconditioner
+  is the Euclidean product's sign in another chart.
+- This claim's own example, (1, 1) and (1, −½) under J = diag(½, 2), is the
+  preconditioner diag(¼, 4), and gives −7/4.
+- Random diagonal preconditioners flipped the sign of the Euclidean
+  product in 444 of 2,000 trials.
+
+The budgeted test's dual norm gᵀG⁻¹g already implies this, with
+P = G⁻¹. Adam's P depends on the gradients and moves in time, so the
+identity holds only step by step. The reply's measure also needs this
+claim's other half: a negative product does not exclude common descent,
+and the chart-invariant test is 0 ∉ conv{g_i}. The claim is unchanged.

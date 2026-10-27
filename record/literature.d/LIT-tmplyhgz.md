@@ -1,0 +1,74 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-26 ([NOTE-tmpn08ry](../notes.d/NOTE-tmpn08ry.md)) in full, from the arXiv copy of the
+  UAI paper; worth reading for the category layer that makes IBP features
+  co-occur while keeping finitely many on finite data, and for the
+  condition that bounds what such models can express ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)).
+  Read it knowing that its features can be switched on by categories and
+  never off, so it does not model inhibition, and that its table supports
+  a gain over the IBP on three of five datasets, not "in almost all
+  cases".
+title: 'Correlated Non-Parametric Latent Feature Models'
+version: 2
+history:
+- version: 1
+  date: '2026-10-26'
+  note: >-
+    Filed, not read. At T22 the reply lists "Correlated nonparametric latent
+    feature models" as a heading, with a link to "proceedings.mlr.press" and
+    no authors, for latent features that "reinforce, inhibit, or depend on
+    one another". Identified by title as Finale Doshi-Velez and Zoubin
+    Ghahramani, Proceedings of the 25th Conference on Uncertainty in
+    Artificial Intelligence (UAI 2009), reissued as PMLR R7: 143–150;
+    checked on 2026-10-26 against the PMLR page (dated 18 June 2009) and the
+    arXiv record (1205.2650, v1 submitted 9 May 2012, the UAI paper posted
+    later). Under ADR-002's earlier-date rule `published:` is 2009-06-18.
+    The summary follows the abstract.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    Read in full (NOTE-tmpn08ry) from arXiv:1205.2650v1, §§1–6 with Tables
+    1–2. Status Deferred → Active. THEORY-tmpwm0kx filed. The summary is
+    checked against the reading and kept; its "applies them to real
+    datasets" covers a comparison whose results are mixed.
+tags:
+- probabilistic-modeling
+date: '2026-10-26'
+published: '2009-06-18'
+arxiv: '1205.2650'
+url: 'https://proceedings.mlr.press/r7/doshi-velez09a.html'
+first_author: 'Doshi-Velez'
+keywords:
+- 'Indian buffet process'
+- 'correlated features'
+- 'nonparametric latent feature model'
+- 'hidden factors'
+implementations: []
+summary: >-
+  Doshi-Velez & Ghahramani (2009), UAI 2009, PMLR R7: 143–150. The Indian
+  buffet process does not bound the number of active features but assumes
+  them uncorrelated, which fits many real problems badly. The paper gives a
+  framework for correlated nonparametric feature models generalising the
+  IBP, derives several specific models from it, and applies them to real
+  datasets (abstract).
+---
+<!-- inactive-ok-file: CASE-tmplcm41 — Proposed; the construction this work bears on, filed from the same exchange, cited as open -->
+
+# LIT-tmplyhgz: Correlated Non-Parametric Latent Feature Models
+
+Doshi-Velez, F. & Ghahramani, Z. (2009). Correlated non-parametric latent
+feature models. In *Proceedings of the 25th Conference on Uncertainty in
+Artificial Intelligence* (UAI 2009). PMLR R7: 143–150. arXiv:1205.2650.
+
+Read 2026-10-26 in full, in [NOTE-tmpn08ry](../notes.d/NOTE-tmpn08ry.md). The summary was checked
+against the reading and holds. T22 cited it for modes that "reinforce,
+inhibit, or depend on one another"; the reading supports the first and
+the last, not inhibition ([THEORY-tmpwm0kx](../theory.d/THEORY-tmpwm0kx.md)).
+
+## Why this is here
+
+Cited at T22. The independence of IBP features is one source of the
+identifiability gaps that [CASE-tmplcm41](../cases.d/CASE-tmplcm41.md) records for T23's model, where features
+that co-occur are identified only as a sum; this is the established
+generalisation that models their correlation. It bears on [QUESTION-tmpixgs8](../questions.d/QUESTION-tmpixgs8.md).

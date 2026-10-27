@@ -42,6 +42,8 @@ summary: >-
   every rich exercise of agency involves such an organization, as open.
 supports:
 - CLAIM-431
+illustrated_by:
+- CASE-tmprl1px
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-417 CLAIM-424 TERM-063 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

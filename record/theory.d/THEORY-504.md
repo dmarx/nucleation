@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmpdlewi
 title: "In the Gemma Scope sparse autoencoders on Gemma 2, the two fidelity measures disagree by site: residual-stream autoencoders cost more next-token loss than MLP or attention ones at comparable fraction of variance unexplained, and base-model autoencoders transfer to the instruction-tuned model by loss more than by variance explained"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: two circuits works read on 2026-10-26
+    concern residual-stream autoencoders and find what the
+    dictionary leaves out to matter there. Status and title are
+    unchanged.
 tags:
 - representation-learning
 - anthology-candidate
@@ -91,3 +99,23 @@ mathematics and worst on Europarl (Fig. 9).
   criterion charging a fixed cost per component, so that choosing λ and
   the width is a model-comparison problem. That is the reader's framing,
   not the paper's, and this account does not rest on it.
+
+## Note of 2026-10-27: two residual-stream readings set beside it
+
+Two of the circuits works read on 2026-10-26 at the owner's request
+concern residual-stream autoencoders, the site where this account finds
+the loss cost highest.
+
+- Marks et al.'s sparse feature circuits ([LIT-tmp5b0z9](../literature.d/LIT-tmp5b0z9.md)) use Gemma
+  Scope's residual-stream autoencoders on Gemma-2-2B, beside their own on
+  Pythia-70M. They find that "removing residual stream SAE error nodes
+  severely disrupts the model", and without the error nodes their feature circuits recover
+  little of subject–verb agreement ([THEORY-tmpuogp2](THEORY-tmpuogp2.md)).
+- Templeton et al. ([LIT-tmp8w8uj](../literature.d/LIT-tmp8w8uj.md)) train residual-stream autoencoders on
+  Claude 3 Sonnet that explain at least 65% of the variance, and keep the
+  error term when steering ([NOTE-tmpfpjyr](../notes.d/NOTE-tmpfpjyr.md)).
+
+Neither compares sites at equal variance unexplained, which is this
+account's measurement. Both agree that at the residual stream what the
+dictionary leaves out carries much of the behaviour. The account is
+unchanged.
