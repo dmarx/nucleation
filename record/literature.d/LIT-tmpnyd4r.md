@@ -47,5 +47,5 @@ first.
 A22 §5 proposed it as "a better formal starting point" for the owner's
 U20 than inertial frames or sheaf sections, and A23 §III made it the
 starting point of the synthesis: "Interaction can restrict the space of
-jointly admissible histories." It bears on CLAIM-tmpdjt64 and
-CLAIM-tmpose3y.
+jointly admissible histories." It bears on [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md) and
+[CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md).

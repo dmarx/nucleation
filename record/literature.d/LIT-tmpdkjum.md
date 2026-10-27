@@ -49,6 +49,6 @@ first.
 
 A23 §IV cited it as "a rigorous theory of precisely this phenomenon":
 composed interactions yield an effective boundary behavior that
-constrains further interaction, the composition CLAIM-tmpose3y
-demonstrates in its simplest case. It bears on CLAIM-tmpose3y and
-CLAIM-tmpmand1.
+constrains further interaction, the composition [CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)
+demonstrates in its simplest case. It bears on [CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md) and
+[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md).

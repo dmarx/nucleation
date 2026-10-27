@@ -45,4 +45,4 @@ first.
 A17 §3 cited it for the owner's U17: problem formulation is part of
 computation, so "The representation of the problem is itself part of the
 work, rather than something handed to the reasoner for free." It bears
-on CLAIM-tmpi1bjh.
+on [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md).

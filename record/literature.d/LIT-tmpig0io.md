@@ -48,4 +48,4 @@ first.
 A15 §4 cited it as "an unusually close predecessor": an answer is
 individuated by its question, which A15 set beside the owner's analogy
 as statement : question ∼ realization : specification. It bears on
-CLAIM-tmpalzo4.
+[CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md).

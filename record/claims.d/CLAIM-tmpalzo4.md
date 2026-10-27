@@ -34,12 +34,12 @@ uses:
 - TERM-065
 summary: >-
   The owner's, U15 of the exchange of 2026-10-27: "inquiry is a form of
-  specification." It carries CLAIM-tmpmand1's analogy into inquiry:
+  specification." It carries [CLAIM-tmpmand1](CLAIM-tmpmand1.md)'s analogy into inquiry:
   question and finding stand as specification and realization, and a
   stabilized finding becomes a specification for the next inquiry. A15
   and A16 found Dewey and Collingwood the nearest predecessors, and
   counterexample-guided abstraction refinement the nearest formal case.
-  TERM-065 already keeps a description apart from the regime it is judged
+  [TERM-065](../terms.d/TERM-065.md) already keeps a description apart from the regime it is judged
   under; the claim adds that the regime is itself a product of inquiry
   and can be its object. It does not say that inquiry makes what it
   investigates.
@@ -51,11 +51,11 @@ summary: >-
 
 ## The claim
 
-The owner, at U15, after the dynamics of transitions (QUESTION-tmpl1yih):
+The owner, at U15, after the dynamics of transitions ([QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md)):
 "inquiry is a form of specification."
 
 A specification constrains what can count as an admissible realization
-(CLAIM-tmpmand1). A question does the same for answers. A15: "A question is
+([CLAIM-tmpmand1](CLAIM-tmpmand1.md)). A question does the same for answers. A15: "A question is
 therefore not merely a request for information about an independently
 specified object. It can be **a partial specification of the space in which an
 answer—and sometimes the object of inquiry itself—can become determinate**."
@@ -70,35 +70,35 @@ Three parts, with what supports each:
 - **A question is a partial specification.** "Is this system stable?" does
   not yet say which system, which perturbations, which stability or which
   horizon (A16 §1). Belnap and Steel's logic of questions and van Fraassen's
-  contrast classes (LIT-tmp5vylu, Unavailable) make the point formally; A16
+  contrast classes ([LIT-tmp5vylu](../literature.d/LIT-tmp5vylu.md), Unavailable) make the point formally; A16
   cited both, and neither is read here.
 - **A finding can stabilize into a specification.** A result reliable enough
   becomes a theory, method, instrument or rule that governs the next inquiry
-  (A15 §3). Collingwood's logic of question and answer (LIT-tmpig0io) is the
+  (A15 §3). Collingwood's logic of question and answer ([LIT-tmpig0io](../literature.d/LIT-tmpig0io.md)) is the
   epistemic form: an answer established once becomes a presupposition of the
   next question. Rheinberger's epistemic things becoming technical objects
-  (LIT-tmpqcxti) is the experimental form.
+  ([LIT-tmpqcxti](../literature.d/LIT-tmpqcxti.md)) is the experimental form.
 - **An inquiry can revise its answer space.** This is where inquiry is more
   than a specification. A16 §4: a question about which equilibrium a system
   occupies has no adequate answer once a Hopf bifurcation leaves a stable
   limit cycle, and must become a question about which attracting set
-  organizes the dynamics. Dewey (LIT-tmpekh9l) puts the formulation of the
+  organizes the dynamics. Dewey ([LIT-tmpekh9l](../literature.d/LIT-tmpekh9l.md)) puts the formulation of the
   problem inside inquiry.
 
 ## What the exchange added
 
-**TERM-065 already holds half of it.** The effective-description regime
+**[TERM-065](../terms.d/TERM-065.md) already holds half of it.** The effective-description regime
 ℛ = (X, 𝒬, ℐ, ℬ, ε, τ) keeps a candidate description apart from the
 conditions it is judged under, so descriptions can be compared without
 moving the goalposts. A16 §2 drew the second operation from it: "Evaluate T
 under ℛ" and "Evaluate or revise ℛ". "**Inquiry becomes reflexive when its own
-conditions of evaluation become objects of inquiry.**" TERM-065 treats ℛ as
+conditions of evaluation become objects of inquiry.**" [TERM-065](../terms.d/TERM-065.md) treats ℛ as
 supplied; this claim says ℛ is itself made by inquiry and can be remade by it.
 
 **The formal case is counterexample-guided abstraction refinement**
-(LIT-tmpikbhf). A model checker runs on an abstraction that merges states.
+([LIT-tmpikbhf](../literature.d/LIT-tmpikbhf.md)). A model checker runs on an abstraction that merges states.
 When a counterexample proves spurious, the abstraction is refined to separate
-the states whose merging produced it. A16 §6 read luria's DP-016 (CLAIM-419
+the states whose merging produced it. A16 §6 read luria's DP-016 ([CLAIM-419](CLAIM-419.md)
 here) as "the same *epistemic pattern*": failure under a specification,
 diagnosis of a missing distinction, refinement. It also gave the limit: CEGAR
 refines the abstraction for a fixed property, and "does not automatically
@@ -107,14 +107,14 @@ line between refining within a framework and revising it, and the claim's last
 clause is about the second.
 
 **Precision is not correctness.** Expected information gain (Lindley,
-LIT-tmpya1jp) is relative to the hypothesis space already specified. A16 §7:
+[LIT-tmpya1jp](../literature.d/LIT-tmpya1jp.md)) is relative to the hypothesis space already specified. A16 §7:
 "The inquiry can become increasingly precise without becoming correct." The
-record has the empirical form in Devezer et al. (LIT-988, read in NOTE-792):
+record has the empirical form in Devezer et al. ([LIT-988](../literature.d/LIT-988.md), read in [NOTE-792](../notes.d/NOTE-792.md)):
 sound model comparisons need not lead a community to the true model, because
 which alternatives are proposed constrains what it can discover. A15 §6: "So
-specification is not epistemically innocent." TERM-056's question drift is a
+specification is not epistemically innocent." [TERM-056](../terms.d/TERM-056.md)'s question drift is a
 case of it. A15 drew a criterion from it, with Chang's pragmatist realism
-(LIT-tmpc07a9) beside it: a healthy apparatus "must support not only the
+([LIT-tmpc07a9](../literature.d/LIT-tmpc07a9.md)) beside it: a healthy apparatus "must support not only the
 evaluation of admissible answers, but the detection and revision of
 inadequate conditions of admissibility."
 
@@ -139,17 +139,17 @@ the practice by which it decides what is knowable.
   modelled with the same mechanisms is open.
 - That the regime should float while descriptions are compared. Keeping ℛ
   fixed for a comparison is a local methodological commitment (A17 §8), and
-  this claim does not loosen TERM-065.
+  this claim does not loosen [TERM-065](../terms.d/TERM-065.md).
 
 ## Why it bears on the record
 
-CLAIM-tmpl228b says luria is an apparatus for a record's objects whose grammar
+[CLAIM-tmpl228b](CLAIM-tmpl228b.md) says luria is an apparatus for a record's objects whose grammar
 the record's own inquiry revises. This claim is the general form: any inquiry
 specifies, and its stable products are specifications. A16 §11 read luria's
 split between editing a record and revising its schema as "working within an
-inquiry regime and investigating the regime itself". CASE-tmp0zvle measured
+inquiry regime and investigating the regime itself". [CASE-tmp0zvle](../cases.d/CASE-tmp0zvle.md) measured
 the second in this record: it happens rarely, on demand and by decision.
-CLAIM-tmpi1bjh, the owner's next turn, adds that specifying is itself bounded
+[CLAIM-tmpi1bjh](CLAIM-tmpi1bjh.md), the owner's next turn, adds that specifying is itself bounded
 by resources.
 
 ## What would test it

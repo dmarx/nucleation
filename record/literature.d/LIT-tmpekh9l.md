@@ -57,4 +57,4 @@ situation as one whose relevant distinctions are not yet established,
 and paired Dewey with Simondon as accounts that put a process of
 determination before determinate products. The definition quoted in the
 summary is the standard one and was not checked against the text. It
-bears on CLAIM-tmpalzo4.
+bears on [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md).

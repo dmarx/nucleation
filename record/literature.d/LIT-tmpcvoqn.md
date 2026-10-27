@@ -45,4 +45,4 @@ first.
 
 A17 §3 cited it as closer to the owner's U17 than bounded computation:
 an agent can lack the concepts to entertain a proposition at all, so the
-limit falls before the question exists. It bears on CLAIM-tmpi1bjh.
+limit falls before the question exists. It bears on [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md).

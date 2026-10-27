@@ -20,13 +20,13 @@ grounds:
 - LIT-tmpfywhk
 summary: >-
   The answer A20, A21 and A23 gave to the owner's conjecture at U20 that
-  coupling necessarily induces scale separation (CLAIM-tmpfw510). Two
+  coupling necessarily induces scale separation ([CLAIM-tmpfw510](CLAIM-tmpfw510.md)). Two
   small computations: conservative coupling splits modes without
   separating or damping them, and dissipative coupling damps the relative
   mode at a rate that grows with the coupling. For a Laplacian flow the
   kernel is exact compatibility and the nonzero spectrum is the hierarchy
   of relaxation rates, so a spectral gap is where the separation comes
-  from. Conceded, so Active. It gives a mechanism for CLAIM-tmpmx2ql's
+  from. Conceded, so Active. It gives a mechanism for [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)'s
   second half and is not a test of individuality.
 ---
 <!-- inactive-ok-file: CLAIM-tmpfw510 CLAIM-tmpmx2ql CLAIM-157 CLAIM-tmpdjt64 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
@@ -50,11 +50,11 @@ k ≪ ω₀² the two frequencies are nearly equal. Nothing is dissipated, so th
 relative mode never dies away. The coupling splits the motion into normal modes
 but makes no hierarchy, and the relative degree of freedom is not suppressed.
 This holds for every k > 0. So coupling does not necessarily induce scale
-separation, and CLAIM-tmpfw510 is false as stated.
+separation, and [CLAIM-tmpfw510](CLAIM-tmpfw510.md) is false as stated.
 
 A22 §6 made the same point in port-Hamiltonian form. An ideal power-conserving
-interconnection (LIT-tmp6zanw) "can sustain oscillations indefinitely". And it
-cited Spivak (LIT-tmpfywhk, unread) for one networked potential that admits a
+interconnection ([LIT-tmp6zanw](../literature.d/LIT-tmp6zanw.md)) "can sustain oscillations indefinitely". And it
+cited Spivak ([LIT-tmpfywhk](../literature.d/LIT-tmpfywhk.md), unread) for one networked potential that admits a
 heat-like or a wave-like dynamics: "**The same relational organization need not
 imply the same temporal hierarchy.**"
 
@@ -75,10 +75,10 @@ generated an effective gluing condition and a separation of timescales
 together.**"
 
 In general, for ẋ = −κLx with L positive semidefinite (a graph Laplacian, or
-the sheaf Laplacian δ*δ of CLAIM-tmpdjt64), each eigenmode decays as
+the sheaf Laplacian δ*δ of [CLAIM-tmpdjt64](CLAIM-tmpdjt64.md)), each eigenmode decays as
 e^{−κλ_j t}. The kernel of L is the exactly compatible configurations, and the
 nonzero eigenvalues are the rates at which incompatible variations are
-suppressed (A21 §3; Hansen and Ghrist, LIT-tmpnpxhs). A spectral gap is a
+suppressed (A21 §3; Hansen and Ghrist, [LIT-tmpnpxhs](../literature.d/LIT-tmpnpxhs.md)). A spectral gap is a
 separation of time scales. Two cases A21 and A22 worked out:
 
 - **Two clusters.** Units 1–2 and 3–4 are coupled internally with strength K
@@ -86,8 +86,8 @@ separation of time scales. Two cases A21 and A22 worked out:
   one eigenvalue of order ε and the rest of order K. Over 1/(κK) ≪ t ≪
   1/(κε) the four units are described by two cluster averages, and at
   longer times by one. A21: "the **effective decomposition of a coupled system
-  changes with observation timescale**." That window is CLAIM-tmpmx2ql's and
-  CLAIM-157's.
+  changes with observation timescale**." That window is [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)'s and
+  [CLAIM-157](CLAIM-157.md)'s.
 - **A chain.** For n units coupled to their nearest neighbours, the slowest
   nonzero eigenvalue is 2(1 − cos(π/n)) ≈ π²/n², so the slowest relaxation
   time grows as n²/(κπ²). Size alone makes a slow collective mode. That is the
@@ -96,7 +96,7 @@ separation of time scales. Two cases A21 and A22 worked out:
 ## What it does not show
 
 - **That a gap makes an individual.** Synchrony can come from a common drive
-  (QUESTION-063). A gap can support prediction without any organization that
+  ([QUESTION-063](../questions.d/QUESTION-063.md)). A gap can support prediction without any organization that
   maintains itself (A23 §XIII).
 - **That coupling is the only source of separation.** Conservation laws,
   metastability, critical slowing near an instability and imposed time scales

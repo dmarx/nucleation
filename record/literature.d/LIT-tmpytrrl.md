@@ -45,4 +45,4 @@ first.
 
 A19 §3 called it "high-priority new prior art" for a generic notion of
 measurement. Its summary is the exchange's and stands until read. It
-bears on QUESTION-tmpubsi9.
+bears on [QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md).

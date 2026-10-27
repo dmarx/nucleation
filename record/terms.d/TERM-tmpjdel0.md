@@ -17,7 +17,7 @@ summary: >-
   distinct outcomes in another (differentiation), and may keep them
   (retention), let them change what happens next (enforcement), and
   change its own criteria of discrimination (revision). Proposed: the
-  record uses "apparatus" in CLAIM-tmpl228b and TERM-tmp0est4 in Barad's
+  record uses "apparatus" in [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) and [TERM-tmp0est4](TERM-tmp0est4.md) in Barad's
   sense, and needed a weaker one that a thermometer, a bacterium, a
   sensor network and luria all fall under without argument.
 ---
@@ -44,11 +44,11 @@ but it is where A23 placed "the beginning of a theory of reflexive inquiry".
 
 An interior that has been composed away also counts. Its effective boundary
 relation constrains what interacts with the composite, and A22 called it
-apparatus for that reason (CLAIM-tmpose3y).
+apparatus for that reason ([CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)).
 
 ## The distinction it draws
 
-From the agential sense of TERM-tmp0est4. A19 §5 named three readings of an
+From the agential sense of [TERM-tmp0est4](TERM-tmp0est4.md). A19 §5 named three readings of an
 apparatus: informational (it makes correlations), operational (it implements and
 stabilizes distinctions) and constitutive (it takes part in fixing the
 boundaries of the phenomenon). This term is the second reading, with the first
@@ -63,19 +63,19 @@ stronger forms *inquiry* remains a substantive terminological choice."
 From soundness. A23 §X: "**A self-modifying apparatus is not necessarily an
 epistemically self-correcting apparatus.**" Revision is a function the
 apparatus has. Whether its revisions improve anything is a separate question
-(QUESTION-tmpubsi9).
+([QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md)).
 
 ## Why it is proposed
 
-The record already uses the word in two places. CLAIM-tmpl228b calls luria an
-apparatus in Barad's sense. TERM-tmp0est4 defines "cut" by the apparatus that
+The record already uses the word in two places. [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) calls luria an
+apparatus in Barad's sense. [TERM-tmp0est4](TERM-tmp0est4.md) defines "cut" by the apparatus that
 enacts it. The exchange's later turns needed a weaker sense that could be
 applied without arguing the constitutive thesis first. Luria fits it on all
 four functions:
 - its schemes differentiate entries;
 - its files retain them;
 - its lint enforces the distinctions;
-- its decisions revise them (CLAIM-419; CASE-tmp0zvle measured how).
+- its decisions revise them ([CLAIM-419](../claims.d/CLAIM-419.md); [CASE-tmp0zvle](../cases.d/CASE-tmp0zvle.md) measured how).
 
 What would settle it: adoption if a claim or note needs the operational sense
 and can say so by citing this term. Rejection if every use the record makes of

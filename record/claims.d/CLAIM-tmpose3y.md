@@ -35,9 +35,9 @@ summary: >-
   boundary meets it as a constraint, and "The interior has effectively
   become apparatus." Baez and Fong's black-boxing functor is the general
   theorem for passive linear networks. The memory case ties it to
-  Mori–Zwanzig and to CLAIM-tmpmx2ql: the constraint is instantaneous
+  Mori–Zwanzig and to [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md): the constraint is instantaneous
   only across a separation of time scales. It is independent evidence
-  for CLAIM-tmpmand1, that constraints are realized by organization.
+  for [CLAIM-tmpmand1](CLAIM-tmpmand1.md), that constraints are realized by organization.
 ---
 <!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-tmpmx2ql CLAIM-tmpdjt64 — Proposed; the claims this corroborates and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpdkjum LIT-tmpnyd4r — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
@@ -76,7 +76,7 @@ three things (A23 §IV):
 - a history-dependent constraint, when its memory is significant;
 - further active modes, when the interior cannot be eliminated at all.
 
-The record holds this family of reductions as Mori–Zwanzig (LIT-1245, read,
+The record holds this family of reductions as Mori–Zwanzig ([LIT-1245](../literature.d/LIT-1245.md), read,
 and its neighbours).
 
 ## The reading
@@ -89,24 +89,24 @@ possible." A23: "This is not simply a useful linguistic redescription. The
 composite has an externally measurable boundary relationship derived from its
 internal organization."
 
-Baez and Fong (LIT-tmpdkjum, unread) give the general result for passive linear
+Baez and Fong ([LIT-tmpdkjum](../literature.d/LIT-tmpdkjum.md), unread) give the general result for passive linear
 networks. Black-boxing a circuit to the relation it imposes at its terminals is
 a functor, so the external behavior of a composite is the composite of external
-behaviors. Willems's behavioural form (LIT-tmpnyd4r) states the same projection
+behaviors. Willems's behavioural form ([LIT-tmpnyd4r](../literature.d/LIT-tmpnyd4r.md)) states the same projection
 for any interconnection. The external behaviour is the projection of the joint
 behaviour onto the variables an observer can reach.
 
 ## Why it bears on the record
 
-- **CLAIM-tmpmand1** holds that the constraints are realized too, and that
+- **[CLAIM-tmpmand1](CLAIM-tmpmand1.md)** holds that the constraints are realized too, and that
   relata are realizations of them. This is a case with nothing interpretive
   in it. The constraint between x₁ and x₃ is realized by the interior and
   changes when the interior's springs do. It is not detached from the world,
   and it is not fixed.
-- **CLAIM-tmpmx2ql** says separation makes constraints. The memory case shows
+- **[CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)** says separation makes constraints. The memory case shows
   the converse failure: without separation the composite does not present a
   constraint, only a history-dependent relation.
-- **CLAIM-tmpdjt64** is about gluing local descriptions. This is the other
+- **[CLAIM-tmpdjt64](CLAIM-tmpdjt64.md)** is about gluing local descriptions. This is the other
   half A22 found missing: "Sheaf theory tells us how locally defined
   information can be made compatible. But what happens when we **physically
   connect** two systems and then observe them as one system?"

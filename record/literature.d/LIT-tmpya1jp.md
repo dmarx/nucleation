@@ -45,4 +45,4 @@ A16 §7 cited it as the foundation of expected-information-gain design,
 and drew the limit that matters here: information gain is relative to
 the hypothesis space already specified, so "The inquiry can become
 increasingly precise without becoming correct." The record holds the
-later review (LIT-1525). It bears on CLAIM-tmpalzo4.
+later review ([LIT-1525](LIT-1525.md)). It bears on [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md).

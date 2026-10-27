@@ -51,5 +51,5 @@ first.
 A22 §7 used it for the distinction between an invariant organization and
 an attracting one: network architecture fixes which synchrony patterns
 are possible, and dynamical stability which are realized. The record's
-THEORY-276 is the symmetry-group case it generalizes. It bears on
-CLAIM-tmpdjt64 and QUESTION-063.
+[THEORY-276](../theory.d/THEORY-276.md) is the symmetry-group case it generalizes. It bears on
+[CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md) and [QUESTION-063](../questions.d/QUESTION-063.md).

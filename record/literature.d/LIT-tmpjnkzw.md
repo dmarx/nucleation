@@ -46,4 +46,4 @@ A21 §8 cited it for the gap between a compatible global configuration
 existing and an apparatus recovering it from pairwise evidence at a
 cost: "Interaction produces relational evidence, but recovering a larger
 structure from that evidence is itself a resource-bounded process." It
-bears on CLAIM-tmpdjt64 and CLAIM-tmpi1bjh.
+bears on [CLAIM-tmpdjt64](../claims.d/CLAIM-tmpdjt64.md) and [CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md).

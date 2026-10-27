@@ -37,13 +37,13 @@ summary: >-
   The owner's, U17 of the exchange of 2026-10-27: "resource constraints
   impact specification in exactly the same way as they impact
   realization. I can't interrogate a question that takes me more time
-  than I have to even ask it." It extends CLAIM-tmpalzo4: if inquiry is
+  than I have to even ask it." It extends [CLAIM-tmpalzo4](CLAIM-tmpalzo4.md): if inquiry is
   specification, specifying is a process with costs, and the feasible
   questions are bounded before any answering starts. A17 and A18 drew a
-  consequence the record can use: TERM-065 takes its query family as
+  consequence the record can use: [TERM-065](../terms.d/TERM-065.md) takes its query family as
   supplied, and this claim says that family is the output of bounded
   activity. A stable specification amortizes the work that made it, which
-  is a separation of time scales (CLAIM-tmpmx2ql), and entrenches what it
+  is a separation of time scales ([CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)), and entrenches what it
   makes cheap.
 ---
 <!-- inactive-ok-file: CLAIM-tmpalzo4 CLAIM-tmpmx2ql CLAIM-tmpl228b CLAIM-184 — Proposed; the claims this rests on and sits beside, cited as open -->
@@ -54,7 +54,7 @@ summary: >-
 
 ## The claim
 
-The owner, at U17, after CLAIM-tmpalzo4: "probably also relevant that resource
+The owner, at U17, after [CLAIM-tmpalzo4](CLAIM-tmpalzo4.md): "probably also relevant that resource
 constraints impact specification in exactly the same way as they impact
 realization. I can't interrogate a question that takes me more time than I
 have to even ask it."
@@ -85,7 +85,7 @@ earlier inquiry over many subsequent inquiries." A17 §6 called this a time-scal
 transformation: expensive historical inquiry, then a durable specification,
 then cheap repeated operation. The specification works as a constraint "precisely
 because the work of establishing it need not be repeated during every
-realization." This is CLAIM-tmpmx2ql's mechanism applied to inquiry. A slow,
+realization." This is [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)'s mechanism applied to inquiry. A slow,
 costly process leaves a product that the fast process treats as fixed.
 
 **The same storage entrenches.** Familiar distinctions are cheap and new ones
@@ -94,7 +94,7 @@ simultaneously entrenching a particular mode of individuation" (A17 §5). For a
 record: "If revising a schema is vastly more expensive than adding another
 record under the existing schema, inquiry may remain trapped in a locally
 convenient representation. … **The cost of changing a distinction influences how
-long the distinction persists.**" This is CLAIM-184's generative entrenchment
+long the distinction persists.**" This is [CLAIM-184](CLAIM-184.md)'s generative entrenchment
 reached from cost instead of dependence.
 
 **Progress can be measured in questions.** A17 §7: progress "can consist in
@@ -104,44 +104,44 @@ well as its size. It gives the claim a test (defeater b).
 
 ## What it changes in the record
 
-**TERM-065 takes its query family as supplied.** A17 §8 called this "A
+**[TERM-065](../terms.d/TERM-065.md) takes its query family as supplied.** A17 §8 called this "A
 correction to Nucleation's existing formalism": 𝒬 is "itself an output of
 bounded activity". It proposed a budget-limited process that generates 𝒬_t
 from concepts, budget and horizon, with the regime ℛ_t built on it and the
-concepts revised by findings. It kept TERM-065's reason for fixing ℛ during a
+concepts revised by findings. It kept [TERM-065](../terms.d/TERM-065.md)'s reason for fixing ℛ during a
 comparison: "**The fixed inquiry regime is a local methodological commitment,
 not a claim that inquiry regimes are exogenously given.**" This claim does not
-amend TERM-065. It says what TERM-065 leaves outside its scope.
+amend [TERM-065](../terms.d/TERM-065.md). It says what [TERM-065](../terms.d/TERM-065.md) leaves outside its scope.
 
-**TERM-064 asks whether a distinction is legible for a task.** A17 §4: the new
+**[TERM-064](../terms.d/TERM-064.md) asks whether a distinction is legible for a task.** A17 §4: the new
 question is "whether the agent can **construct the task that would make that
 distinction relevant**." So "Physical individuation ⇏ Feasible epistemic
 individuation". Askability is not existence, and an agent can also articulate
 distinctions with no causal significance.
 
-**TERM-085's correctability** prices finding and carrying out a correction.
+**[TERM-085](../terms.d/TERM-085.md)'s correctability** prices finding and carrying out a correction.
 A17 named the missing extension: "situations in which the correct objective or
 question has not yet become formulable."
 
 ## Prior art
 
-- **Simon** (LIT-tmp4mxqc): constructing the representation of an
+- **Simon** ([LIT-tmp4mxqc](../literature.d/LIT-tmp4mxqc.md)): constructing the representation of an
   ill-structured problem is part of the work.
-- **Lieder and Griffiths** (LIT-1071, read): resource-rational analysis prices
+- **Lieder and Griffiths** ([LIT-1071](../literature.d/LIT-1071.md), read): resource-rational analysis prices
   cognitive operations. A17's addition: "even constructing the task
   representation and the candidate questions must be included in the
   resource budget. Otherwise, the model risks making the most important
   cognitive operation free."
-- **Fagin and Halpern** (LIT-tmpcvoqn): the awareness operator. An agent
+- **Fagin and Halpern** ([LIT-tmpcvoqn](../literature.d/LIT-tmpcvoqn.md)): the awareness operator. An agent
   lacking the concepts cannot entertain the proposition.
-- **Thorstad** (LIT-tmpovn5z): rational inquiry under bounds.
-- **Hutchins** (LIT-1060, Unavailable): capacities that sit in artifacts and
+- **Thorstad** ([LIT-tmpovn5z](../literature.d/LIT-tmpovn5z.md)): rational inquiry under bounds.
+- **Hutchins** ([LIT-1060](../literature.d/LIT-1060.md), Unavailable): capacities that sit in artifacts and
   divisions of labor.
 
 The physical half of the owner's symmetry has its own form. An apparatus can
 only discriminate what its coupling, state capacity and dynamics allow (A19
 §10). And recovering a global structure from pairwise evidence costs
-computation, even when the structure exists (Singer, LIT-tmpjnkzw; A21 §8).
+computation, even when the structure exists (Singer, [LIT-tmpjnkzw](../literature.d/LIT-tmpjnkzw.md); A21 §8).
 
 ## What it does not claim
 
