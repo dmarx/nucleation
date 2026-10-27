@@ -41,15 +41,15 @@ means.
    a fidelity profile is defined for ([TERM-043](TERM-043.md)), so the descendant has a
    fidelity to its source, high or low. [CLAIM-210](../claims.d/CLAIM-210.md)'s "T was made from S",
    whose sentence was revised on 2026-10-27 to call this provenance;
-   CLAIM-246's objection, and CLAIM-204's account of direction, which
-   points to CLAIM-210's answer.
+   [CLAIM-246](../claims.d/CLAIM-246.md)'s objection, and [CLAIM-204](../claims.d/CLAIM-204.md)'s account of direction, which
+   points to [CLAIM-210](../claims.d/CLAIM-210.md)'s answer.
 2. **Lineage.** Continuity of transmission across successive carriers: a
    retelling of a retelling, a fandom carried through a generation, an
    institution across its branches. Directed, and transitive along the
    chain. It is [CLAIM-002](../claims.d/CLAIM-002.md)'s "continuity of transmission" ("descent is not
    similarity"), [TERM-071](TERM-071.md)'s historical persistence, and what [CLAIM-329](../claims.d/CLAIM-329.md) says
-   persistence through total turnover consists in; CLAIM-191's later
-   entries that "reach the claim by descent, by its code", and CLAIM-417's
+   persistence through total turnover consists in; [CLAIM-191](../claims.d/CLAIM-191.md)'s later
+   entries that "reach the claim by descent, by its code", and [CLAIM-417](../claims.d/CLAIM-417.md)'s
    "Historical descent". [CLAIM-287](../claims.d/CLAIM-287.md)'s caution
    applies: it "is not automatically an equivalence relation", since
    lineages can branch and merge.
@@ -62,7 +62,7 @@ means.
    activity, with nothing of it passed on. Directed, with no fidelity and no
    continuation. [CLAIM-420](../claims.d/CLAIM-420.md): "a movement founded to oppose someone descends
    from them without continuing their perspective", so "causal descent is
-   not perspectival inheritance". CLAIM-329's note of 2026-10-26 gives
+   not perspectival inheritance". [CLAIM-329](../claims.d/CLAIM-329.md)'s note of 2026-10-26 gives
    the limiting case: every training checkpoint is causally descended from
    the last, so causal descent alone cannot tell continuation from
    replacement.
