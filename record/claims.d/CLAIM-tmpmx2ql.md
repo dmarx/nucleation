@@ -172,10 +172,10 @@ reflect a disparity in characteristic rates of change".
 itself. It shows a hierarchy of rates in the settled record: prose revised
 about once in 22 days, status and relation instances about once in 130,
 relation instances retracted about once in 600, relation types not at all in
-fifty days. It also shows a window in the claim's sense: the hierarchy holds
-only after an entry's first day, and during that day every layer moves. That
-fits "over the window between the two time scales", with drafting as the fast
-process that settles. It does not test the claim's direction, that the slow
+fifty days. The ordering holds only after an entry's first day, and during that day
+every layer moves. That resembles "over the window between the two time scales",
+with drafting as the fast process that settles, but only as rates: nothing
+shows a relaxation (CASE-tmpqou64, "What the rates are evidence of"). It does not test the claim's direction, that the slow
 layers constrain because they are slow. In the record the slow layers are
 also the ones the lint enforces, so slowness and enforcement are not
 separated by this measurement.
@@ -185,8 +185,10 @@ separated by this measurement.
 At the owner's direction, [CASE-tmp0zvle](../cases.d/CASE-tmp0zvle.md) measured the rates of the record's
 own refinement. Documents were filed on all 32 days, vocabulary terms added on
 18, scheme fields and relations on 8, schemes on 1 and a remote project on 1.
-So the record has the hierarchy of time scales this claim is about. It does
-not have it by the claim's mechanism of separate fast and slow dynamics. Each
+So the record has a hierarchy of event rates. (Corrected at the owner's
+review: this note first said the record has "the hierarchy of time scales this
+claim is about"; event rates are not shown to be relaxation times.) It does
+not have even that by the claim's mechanism of separate fast and slow dynamics. Each
 rarer refinement came in the same pull request as the documents that needed
 it, with the commoner refinements and, nine times in ten, an ADR. The slow
 levels are rarer outcomes of one loop, not slower processes. The hierarchy
@@ -194,8 +196,9 @@ also widened as the record grew: term additions per document fell about
 fourfold from the first half of the month to the second. A hierarchy of rates
 made by thresholds in one process, and not by slow modes, bears on (a) of the
 defeater only weakly, since the record is not a system the claim's
-individuation results treat. But it is a case in which separation is produced
-by organization, the claim's second half, in a form the claim does not name.
+individuation results treat. It is at most a case in which a separation of
+rates is produced by organization, in a form the claim's second half does not
+name.
 
 ## Note of 2026-10-27 (U15–U23): coupling, spectra and evolving gluing
 

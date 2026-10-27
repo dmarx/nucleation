@@ -1,7 +1,17 @@
 ---
 status: Active
-title: 'The record''s own rates: over its first fifty days, measured from git, an entry''s prose is revised about once in 22 days once drafting is over, its status once in 128, an authored relation gained or lost once in 132 and an authored relation retracted once in about 600, while no relation type has been redeclared; the layers are ordered as the exchange guessed, but they separate only after the first day, when all of them move together, and the grammar is slow to revise without being slow to grow'
-version: 1
+title: 'The record''s own rates: over its first fifty days, measured from git, an entry''s prose is revised about once in 22 days once drafting is over, its status once in 128, an authored relation gained or lost once in 132 and an authored relation retracted once in about 600, while no relation type has been redeclared; the layers'' event rates are ordered as the exchange guessed, but only after the first day, when all of them change together, and the grammar is slow to revise without being slow to grow'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Revised at the owner's review of the pull request: the title said the
+    layers "separate" after the first day, which reads as a separation of
+    time scales. It now says their event rates are ordered; a section
+    distinguishes what the rates show from a dynamical hierarchy, and the
+    "What it shows" bullets are worded as rates. The measurements are
+    unchanged.
 standing: documented
 kind: executed-study
 tags:
@@ -25,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpoe0v5 CLAIM-tmpmx2ql CLAIM-tmpl228b — Proposed or new; the claims the measurement bears on -->
 
-# CASE-tmpqou64: The record's own rates: over its first fifty days, measured from git, an entry's prose is revised about once in 22 days once drafting is over, its status once in 128, an authored relation gained or lost once in 132 and an authored relation retracted once in about 600, while no relation type has been redeclared; the layers are ordered as the exchange guessed, but they separate only after the first day, when all of them move together, and the grammar is slow to revise without being slow to grow
+# CASE-tmpqou64: The record's own rates: over its first fifty days, measured from git, an entry's prose is revised about once in 22 days once drafting is over, its status once in 128, an authored relation gained or lost once in 132 and an authored relation retracted once in about 600, while no relation type has been redeclared; the layers' event rates are ordered as the exchange guessed, but only after the first day, when all of them change together, and the grammar is slow to revise without being slow to grow
 
 ## The case
 
@@ -109,12 +119,12 @@ renames number 1110 against the 868 bot body changes counted.
   than prose is revised, and a relation type has not been redeclared at
   all. The rigidity [CLAIM-tmpoe0v5](../claims.d/CLAIM-tmpoe0v5.md) demonstrates from the grammar shows in the
   rates too.
-- **The separation is a separation of the settled regime only.** In the
+- **The ordering holds in the settled regime only.** In the
   first day after filing, body, status and edges all change: 35% of edge
-  changes, 44% of body changes and 59% of status changes fall there. A process separated by time scale
-  would not have a regime in which every layer moves at once. This one does,
-  at birth.
-- **Validation is not a layer with its own time scale.** The bot's repairs
+  changes, 44% of body changes and 59% of status changes fall there. Layers on separate
+  clocks would not have a regime in which every layer moves at once. These
+  have one, at birth.
+- **Validation has no rate of its own.** The bot's repairs
   follow the authored edits at nearly the same rate (11.1 d against
   12.9 d), because every push triggers one. Validation is slaved to editing,
   not a slower process constraining it.
@@ -122,6 +132,37 @@ renames number 1110 against the 868 bot body changes counted.
   relation type on nine of the 32 days since luria.yaml was written. What is
   slow is redeclaration: once filed, a type stays as declared. That fits "constraints over faster activity" only if the
   constraint is the declared type, not the grammar as a whole.
+
+## What the rates are evidence of
+
+Added at the owner's review of the pull request, which asked that event
+frequencies be kept apart from dynamical time-scale separation. Three
+readings of these numbers differ in support:
+
+| reading | status |
+|---|---|
+| **The layers' events occur at different rates.** | Demonstrated for this record's first fifty days, with the limits above. |
+| **The layers are separate operating regimes**, worked on by different activities and under different checks. | Plausible and partly supported. Revisions of the grammar come by decision and lint enforces the declared types, but they occur inside the same work as filing (CASE-tmp0zvle). |
+| **The layers are a dynamically generated hierarchy of time scales**, slow modes constraining fast ones as in CLAIM-tmpmx2ql. | An interpretation, not shown. |
+
+On the third reading:
+- **An inverse event rate is not a relaxation time.** A layer that rarely
+  changes need not be a slow mode, and nothing here measures a spectral
+  gap or a relaxation.
+- **The history is short and not stationary.** The rates fell over the
+  month as the grammar settled.
+- **The counts mix kinds of event.** Authoring, bot repair, status
+  transitions and schema changes are counted alike.
+- **The rare changes arrive in shared work.** CASE-tmp0zvle found the rarer
+  changes arriving in the same pull requests as ordinary document work.
+  That fits threshold-triggered revisions within one workflow better than
+  distinct processes running on separate clocks.
+
+A study that could separate the readings would:
+- give uncertainty for each rate;
+- compare matched cohorts of entries filed at the same time and of the same
+  kind;
+- record what triggered each schema revision.
 
 ## What would change it
 

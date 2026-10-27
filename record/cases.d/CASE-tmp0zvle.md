@@ -1,7 +1,15 @@
 ---
 status: Active
-title: 'How the record''s grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner''s ordering of levels holds; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar''s rates fell while filing rose'
-version: 1
+title: 'How the record''s grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner''s ordering of levels holds by frequency; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar''s rates fell while filing rose'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Revised at the owner's review of the pull request: the title now says
+    the ordering holds by frequency, a section distinguishes event rates
+    from a dynamical hierarchy, and "The separation widens" is worded as a
+    gap in rates. The measurements are unchanged.
 standing: documented
 kind: executed-study
 tags:
@@ -27,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpi1bjh — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: CLAIM-tmpmx2ql CLAIM-tmpl228b — Proposed; the claims the measurement bears on -->
 
-# CASE-tmp0zvle: How the record's grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner's ordering of levels holds; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar's rates fell while filing rose
+# CASE-tmp0zvle: How the record's grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner's ordering of levels holds by frequency; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar's rates fell while filing rose
 
 ## The case
 
@@ -133,11 +141,42 @@ history does not show how their grammars were built.
   processes running on their own clocks. They are rarer outcomes of one
   loop, in which filing a document can meet a misfit, and the misfit is
   fixed by a decision at the lowest level that holds it.
-- **The separation widens.** From the first half of the month to the
+- **The gap in rates widens.** From the first half of the month to the
   second, filing rose by a fifth, term additions fell to under a third,
   member additions to under a fifth, and schemes from five to none. The
   ratio of documents filed to terms added went from about 28 to about 115.
   The grammar is settling while the record grows.
+
+## What the rates are evidence of
+
+Added at the owner's review of the pull request, which asked that event
+frequencies be kept apart from dynamical time-scale separation. Three
+readings of these numbers differ in support:
+
+| reading | status |
+|---|---|
+| **The layers' events occur at different rates.** | Demonstrated for this record's first fifty days, with the limits above. |
+| **The layers are separate operating regimes**, worked on by different activities and under different checks. | Plausible and partly supported. Revisions of the grammar come by decision and lint enforces the declared types, but they occur inside the same work as filing (above). |
+| **The layers are a dynamically generated hierarchy of time scales**, slow modes constraining fast ones as in CLAIM-tmpmx2ql. | An interpretation, not shown. |
+
+On the third reading:
+- **An inverse event rate is not a relaxation time.** A layer that rarely
+  changes need not be a slow mode, and nothing here measures a spectral
+  gap or a relaxation.
+- **The history is short and not stationary.** The rates fell over the
+  month as the grammar settled.
+- **The counts mix kinds of event.** Authoring, bot repair, status
+  transitions and schema changes are counted alike.
+- **The rare changes arrive in shared work.** This case found the rarer
+  changes arriving in the same pull requests as ordinary document work.
+  That fits threshold-triggered revisions within one workflow better than
+  distinct processes running on separate clocks.
+
+A study that could separate the readings would:
+- give uncertainty for each rate;
+- compare matched cohorts of entries filed at the same time and of the same
+  kind;
+- record what triggered each schema revision.
 
 ## What would change it
 
