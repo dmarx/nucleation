@@ -9,8 +9,8 @@ date: '2026-10-27'
 source:
 - LIT-tmpj4ix1
 summary: >-
-  Ashwin, Wieczorek, Vitolo and Cox (2012), LIT-tmpj4ix1, read in
-  NOTE-tmp429c3 from the corrected arXiv v5. Active as mathematics: shown
+  Ashwin, Wieczorek, Vitolo and Cox (2012), [LIT-tmpj4ix1](../literature.d/LIT-tmpj4ix1.md), read in
+  [NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md) from the corrected arXiv v5. Active as mathematics: shown
   in a linear model with a fixed stable matrix (so no bifurcation and no
   noise), in normal-form examples worked exactly, and in a fast-slow
   system whose equilibrium is unique and globally stable. It does not say
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Ashwin, Wieczorek, Vitolo and Cox (2012), LIT-tmpj4ix1, §§1–3 (pp. 3–16 of
-arXiv v5, whose §§2.1–2.2 are the corrected text); read in NOTE-tmp429c3.
+Ashwin, Wieczorek, Vitolo and Cox (2012), [LIT-tmpj4ix1](../literature.d/LIT-tmpj4ix1.md), §§1–3 (pp. 3–16 of
+arXiv v5, whose §§2.1–2.2 are the corrected text); read in [NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md).
 
 ## What was actually shown
 

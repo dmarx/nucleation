@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-27 (NOTE-tmp46li4); worth reading as the general,
+  read in full 2026-10-27 ([NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md)); worth reading as the general,
   operational statement of Flack's account: downward causation as
   components tuning to their own estimates of aggregate variables they
   collectively compute, in a weak (apparent) and a strong (effective) form,
@@ -71,7 +71,7 @@ summary: >-
 
 Flack, J. C. (2017). Coarse-graining as a downward causation mechanism. *Philosophical Transactions of the Royal Society A*, 375(2109), 20160338. doi:10.1098/rsta.2016.0338.
 
-Read in full on 2026-10-27 (NOTE-tmp46li4).
+Read in full on 2026-10-27 ([NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md)).
 
 ## Why this is here
 

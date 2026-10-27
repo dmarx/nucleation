@@ -9,7 +9,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpp0mod
 summary: >-
-  Deutsch & Marletto (2015), LIT-tmpp0mod, §§3–5, read in NOTE-tmpbcj9n.
+  Deutsch & Marletto (2015), [LIT-tmpp0mod](../literature.d/LIT-tmpp0mod.md), §§3–5, read in [NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md).
   Active as a fact about the construction: the definitions are given in
   that order, and the base they give the recursion of (1.1) is checkable on
   the page. It does not say that these notions are the intuitive ones, which
@@ -22,7 +22,7 @@ summary: >-
 
 ## Source
 
-Deutsch & Marletto (2015), LIT-tmpp0mod, §§1–5; read in NOTE-tmpbcj9n
+Deutsch & Marletto (2015), [LIT-tmpp0mod](../literature.d/LIT-tmpp0mod.md), §§1–5; read in [NOTE-tmpbcj9n](../notes.d/NOTE-tmpbcj9n.md)
 from the published JATS XML (CC BY 4.0).
 
 ## What was actually shown

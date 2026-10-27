@@ -19,13 +19,13 @@ date: '2026-10-27'
 source:
 - LIT-tmpj4ix1
 summary: >-
-  Ashwin, Wieczorek, Vitolo and Cox (2012), LIT-tmpj4ix1, read in
-  NOTE-tmp429c3. Shown for the linear tipping-radius model, where the
+  Ashwin, Wieczorek, Vitolo and Cox (2012), [LIT-tmpj4ix1](../literature.d/LIT-tmpj4ix1.md), read in
+  [NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md). Shown for the linear tipping-radius model, where the
   sufficient condition for tracking is a rate comparison, and stated for
   a fast-slow example ("rate dependent tipping occurs when the slow and
   very slow timescales are no longer separable"). Proposed because for
   nonlinear systems the paper says "no exact analogy possible" and gives
-  no general condition. It bears on CLAIM-tmpmx2ql, whose constraints hold
+  no general condition. It bears on [CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md), whose constraints hold
   over a window between time scales.
 ---
 <!-- inactive-ok-file: CLAIM-tmpmx2ql CLAIM-157 — Proposed; neighbours cited as open -->
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Ashwin, Wieczorek, Vitolo and Cox (2012), LIT-tmpj4ix1, §1 (p. 2), §2.2
-(p. 8), §3.3.2 (p. 16) and §5 (p. 19), arXiv v5; read in NOTE-tmp429c3.
+Ashwin, Wieczorek, Vitolo and Cox (2012), [LIT-tmpj4ix1](../literature.d/LIT-tmpj4ix1.md), §1 (p. 2), §2.2
+(p. 8), §3.3.2 (p. 16) and §5 (p. 19), arXiv v5; read in [NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md).
 
 ## What was actually shown
 
@@ -84,4 +84,4 @@ reason … to hold for a given system" (p. 2).
   names (p. 2) and does not analyse.
 - **Anything about constraints or individuation.** The reading of the
   quasi-static attractor as a constraint that holds over a window between
-  time scales is CLAIM-tmpmx2ql's, not the paper's.
+  time scales is [CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md)'s, not the paper's.

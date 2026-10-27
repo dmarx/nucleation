@@ -214,11 +214,11 @@ group of members.
 - **Forster, Nelson and Stephen** (ref. [8]): the dynamical renormalization
   group and the forced Navier–Stokes analogy (footnote 6).
 - **Reynolds' boids** (ref. [1]), among earlier flocking simulations; the
-  boids model is the one Seth measures (THEORY-703, NOTE-935).
+  boids model is the one Seth measures ([THEORY-703](../theory.d/THEORY-703.md), [NOTE-935](NOTE-935.md)).
 
 ## Bearing on the record
 
-- **QUESTION-tmpl1yih: a worked case in which creating a form and
+- **[QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md): a worked case in which creating a form and
   stabilizing it are separate achievements, with the question's own
   bifurcation in it.** The α and β terms of eq. (1), αv − β|v|²v, are the
   normal form ẋ = μx − x³ the question opens with, and they create the
@@ -235,7 +235,7 @@ group of members.
   out A14's "while avoiding the assumption that every coordinated flock is
   an autonomous agent". The transition itself, which the question would
   want named, is left open (pp. 9–10).
-- **CLAIM-tmpmx2ql: support for "separation makes a constraint", and a
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): support for "separation makes a constraint", and a
   mechanism for slowness its list lacks.** Speed fluctuations "decay in a
   finite time (of order 1/α)" and are dropped (pp. 3–4), so the fixed speed
   √(α/β) becomes a constraint, v = (v⊥, √(1 − |v⊥|²)), on the slow
@@ -250,23 +250,23 @@ group of members.
   in a new form: the ordered state makes the slow transverse modes, which do
   not exist in the disordered phase, by symmetry breaking rather than by
   slowing near an instability.
-- **CLAIM-157: a coherent form with no block of members and no gap.** The
+- **[CLAIM-157](../claims.d/CLAIM-157.md): a coherent form with no block of members and no gap.** The
   order is the mean velocity of a field, and the mechanism stabilizing it
   is that neighbourhoods keep changing (p. 3), so no fixed grouping of
   members persists while the order does. Its fluctuations are gapless: the
   hydrodynamic modes' frequencies go to zero as q → 0 (eqs. 14, 15). So
   the gap-isolated block the claim names is not what this theory finds; it
-  finds a broken-symmetry mode. That is QUESTION-218's mode found without
-  a grouping, of a different kind from CLAIM-388's uniform-coupling sum.
+  finds a broken-symmetry mode. That is [QUESTION-218](../questions.d/QUESTION-218.md)'s mode found without
+  a grouping, of a different kind from [CLAIM-388](../claims.d/CLAIM-388.md)'s uniform-coupling sum.
   It does not defeat the claim, which is relative to a target and can name
   a mode; it is a case where the members cannot be the grouping.
-- **CLAIM-280: turnover not only survived but stabilizing.** The claim
+- **[CLAIM-280](../claims.d/CLAIM-280.md): turnover not only survived but stabilizing.** The claim
   holds that a pattern can persist while its constituents are replaced. In
   the flock, change of neighbours is the stated reason the order is stable
   (p. 3), so the turnover of a member's neighbourhood does work for the
   pattern rather than merely failing to destroy it. The heuristic is the
   authors', not a calculation.
-- **CLAIM-327: the members read a local average, not the collective
+- **[CLAIM-327](../claims.d/CLAIM-327.md): the members read a local average, not the collective
   variable.** In Vicsek's rule each bird averages "the direction of its
   neighbors in certain area" (p. 2); no bird reads the mean velocity ⟨v⟩,
   and the order is still maintained. So the global collective variable is
@@ -274,12 +274,12 @@ group of members.
   that meets the claim's second stage ("members recognize it and use it")
   depends on whether a local field value counts as reading the variable;
   the paper does not take up the question.
-- **CLAIM-331.** Higher-level variables slower: here the order parameter's
+- **[CLAIM-331](../claims.d/CLAIM-331.md).** Higher-level variables slower: here the order parameter's
   long-wavelength fluctuations are the slowest modes (ω → 0 as q → 0), and
   the fast magnitude mode is eliminated. Consistent; no more than that.
-- **THEORY-703 (Seth, boids).** The paper's order is defined by
+- **[THEORY-703](../theory.d/THEORY-703.md) (Seth, boids).** The paper's order is defined by
   ⟨v⟩ ≠ 0 and bounded fluctuations, not by any predictive measure, so it
-  is not a criterion of weak emergence in THEORY-703's sense and does not
+  is not a criterion of weak emergence in [THEORY-703](../theory.d/THEORY-703.md)'s sense and does not
   bear on its `promote_when`. Noted because the record's only other flock
   is Seth's.
 - **No instruction for machine-learning practice.**
@@ -312,8 +312,8 @@ group of members.
 
 - Does the cubic vertex stay irrelevant in d = 2? A controlled calculation,
   or simulation finite-size scaling of ⟨|v⊥|²⟩ in L⊥ and L∥, would say
-  (THEORY-tmpzaxy0).
+  ([THEORY-tmpzaxy0](../theory.d/THEORY-tmpzaxy0.md)).
 - What is the order–disorder transition: continuous, as for model A, or
   changed by the convective vertex (p. 10)? That is the creation half of
-  QUESTION-tmpl1yih for this case.
+  [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md) for this case.
 - Is G₂ = 0 at one loop a symmetry or a coincidence (p. 7)?

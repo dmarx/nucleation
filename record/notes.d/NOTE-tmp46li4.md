@@ -309,7 +309,7 @@ Nature endogenous coarse-graining [8]."
 
 ## Connections
 
-- **Flack 2012 ([9]; LIT-1122, unread)** and "Life's information hierarchy"
+- **Flack 2012 ([9]; [LIT-1122](../literature.d/LIT-1122.md), unread)** and "Life's information hierarchy"
   ([10], not held) carry the detail of the example and of the criteria; this
   paper defers to them ("For further important detail, I refer the reader
   to [9,10]"). The criteria are attributed to Flack, Erwin, Elliot and
@@ -321,11 +321,11 @@ Nature endogenous coarse-graining [8]."
   for downward causation; **Ellis**, **Walker and Davies**, **Laughlin et
   al.** ([3–7]).
 - **Simon's near-decomposability** is not cited, though §6's time-scale
-  argument is close to the result the record holds as THEORY-661.
+  argument is close to the result the record holds as [THEORY-661](../theory.d/THEORY-661.md).
 
 ## Bearing on the record
 
-- **CLAIM-327: two of its three stages are Flack's; the third is not.**
+- **[CLAIM-327](../claims.d/CLAIM-327.md): two of its three stages are Flack's; the third is not.**
   Stage 1 (an observer finds a stable statistic) has no separate place in
   Flack. Her aggregate is computed by the members from the start
   ("endogenous coarse-graining", §2), so the observer enters only as the
@@ -343,27 +343,27 @@ Nature endogenous coarse-graining [8]."
   idealized aggregate (§7). The variable is maintained by members in
   Flack's example, since the signals that compose it are their behaviour
   and fighting continues as a "background process" (§3), but she does not
-  make that a criterion. So CLAIM-327 is the exchange's synthesis, with
+  make that a criterion. So [CLAIM-327](../claims.d/CLAIM-327.md) is the exchange's synthesis, with
   regeneration where Flack puts convergence. It also differs on what makes
-  the variable a level: CLAIM-327 says only the third stage does, and
+  the variable a level: [CLAIM-327](../claims.d/CLAIM-327.md) says only the third stage does, and
   Flack says use alone is already (apparent) downward causation and a level
   needs the effective criteria. This paper does not settle whether Flack
   2012 says otherwise. Its own deference to [9] suggests the 2012 paper has
-  the same criteria. LIT-1122 remains unread. THEORY-tmp7ps0w states
+  the same criteria. [LIT-1122](../literature.d/LIT-1122.md) remains unread. [THEORY-tmp7ps0w](../theory.d/THEORY-tmp7ps0w.md) states
   Flack's criteria.
-- **CLAIM-331: Flack builds slowness into the definition.** For her,
+- **[CLAIM-331](../claims.d/CLAIM-331.md): Flack builds slowness into the definition.** For her,
   slowness relative to the producing behaviour is a condition even of
   apparent downward causation (§3), and "slow variables" is the first
   effective criterion (§1). Its stated reason is enabling: "for tuning to be
-  possible" (§1), asserted, citing [8–10]. That is stronger than CLAIM-331's
+  possible" (§1), asserted, citing [8–10]. That is stronger than [CLAIM-331](../claims.d/CLAIM-331.md)'s
   "a mark of a level and not its definition", and it is support of the kind
-  CLAIM-331's note of 2026-10-20 sets aside for slow feature analysis:
+  [CLAIM-331](../claims.d/CLAIM-331.md)'s note of 2026-10-20 sets aside for slow feature analysis:
   slower by construction. The one empirical time scale given is the fight
   network's ("many fights per hour with a per individual time scale on the
   order of hours [29]", §3); the DSP's is only "much slower" (§6). The
   claim's caution "Not that a slow variable is a level" is Flack's too:
   slowness alone gives no downward causation without tuning.
-- **CASE-116.** Arm A, slow and unread, has no downward causation in
+- **[CASE-116](../cases.d/CASE-116.md).** Arm A, slow and unread, has no downward causation in
   Flack's sense, since nobody tunes (§1, §3), which agrees with the case.
   Arm B, read and rewritten and fast, falls outside Flack's account by
   definition, since she requires the variable to be slower than the
@@ -374,7 +374,7 @@ Nature endogenous coarse-graining [8]."
   have to meet: its members read Z_t directly, with no estimation step, so
   her reason does not bite there. Arm C, transmission without running, is
   not addressed.
-- **CLAIM-tmpmx2ql: Flack states its first half for social systems.** §6:
+- **[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): Flack states its first half for social systems.** §6:
   a very slow aggregate "effectively becomes the 'social' environment ...
   and components can tune to it regardless of whether it actually does a
   good job of summarizing the regularities", with institutions "highly
@@ -388,13 +388,13 @@ Nature endogenous coarse-graining [8]."
   only an open question: whether effective downward causation "can increase
   symmetries at the microscopic level making the system as it consolidates
   increasingly amendable to coarse-graining" (§5). Filed as
-  THEORY-tmphciwc (Proposed).
-- **CLAIM-277: the macaque case is an instance of endorsement summarizing a
+  [THEORY-tmphciwc](../theory.d/THEORY-tmphciwc.md) (Proposed).
+- **[CLAIM-277](../claims.d/CLAIM-277.md): the macaque case is an instance of endorsement summarizing a
   track record, but not of trust in its sense.** A subordination signal is
   a coarse-graining of fight outcomes, sent by the party that perceives
   itself weaker; power is the group's consensus aggregated from those
   signals; and fighting continues at a reduced rate so that the
-  relationship can reverse (§3). That is CLAIM-277's "right a lot" loop
+  relationship can reverse (§3). That is [CLAIM-277](../claims.d/CLAIM-277.md)'s "right a lot" loop
   with fights as the track record, a refresh process in place of a memory
   kernel, and memory minimization (the fight series can be dropped once
   signalled, "we do not yet know exactly how this works") as the forgetting
@@ -403,22 +403,22 @@ Nature endogenous coarse-graining [8]."
   reliability side rests on mutual information with fighting abilities [27],
   which is not shown here. What is endorsed is the ability to win fights,
   not the competence of a policy, so the case is a structural analogue.
-- **CLAIM-334, TERM-051 and CLAIM-158: a fourth sense of "downward
+- **[CLAIM-334](../claims.d/CLAIM-334.md), [TERM-051](../terms.d/TERM-051.md) and [CLAIM-158](../claims.d/CLAIM-158.md): a fourth sense of "downward
   causation".** Flack's is neither Seth's Granger sense, nor ΦID's D, nor
   the interventional one. She leaves its relation to "strict definitions of
   causality" aside (§1). Its causal path runs through the members' estimates,
   which are states of the members distinct from S. That is the route
-  CLAIM-334 leaves open: one can intervene on what members believe of S
+  [CLAIM-334](../claims.d/CLAIM-334.md) leaves open: one can intervene on what members believe of S
   without holding S's micro base fixed. Flack does not put it that way.
   "Downward causation" in Flack should not be compared with D or with
   Granger measures without saying so. Her apparent-to-effective gradation is
-  a strength of tuning, not a spectrum of who drives (CLAIM-158).
-- **QUESTION-033: a proposed apportionment.** §6 proposes conditional mutual
+  a strength of tuning, not a spectrum of who drives ([CLAIM-158](../claims.d/CLAIM-158.md)).
+- **[QUESTION-033](../questions.d/QUESTION-033.md): a proposed apportionment.** §6 proposes conditional mutual
   information to apportion S between the environment and the collective
   computation, and I(S;M|E) over time to track consolidation, which is the
   "how the apportionment changes over time" the question asks for. They are
   proposals and are computed for no system here.
-- **NOTE-153's C8** cites Flack for higher-level causal power. This paper
+- **[NOTE-153](NOTE-153.md)'s C8** cites Flack for higher-level causal power. This paper
   gives that power only through components' estimates (§1), which is
   compatible with Rizi's "not a metaphysical extra cause".
 - No instruction for machine-learning practice is made; §5 reads two
@@ -455,11 +455,11 @@ Nature endogenous coarse-graining [8]."
 
 ## Open questions
 
-- Does Flack 2012 (LIT-1122) include regeneration of the variable by its
+- Does Flack 2012 ([LIT-1122](../literature.d/LIT-1122.md)) include regeneration of the variable by its
   use among its criteria, or only convergence? A reading of it would settle
-  CLAIM-327's attribution.
+  [CLAIM-327](../claims.d/CLAIM-327.md)'s attribution.
 - Is slowness needed for downward causation, or only for estimation? A case
-  in which members read a fast variable without estimating it (CASE-116 arm
+  in which members read a fast variable without estimating it ([CASE-116](../cases.d/CASE-116.md) arm
   B) and tune to it would separate the two.
 - Can I(S;M|E) be computed for the macaque data, and does it rise as the
   DSP consolidates (§6)?

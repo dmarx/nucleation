@@ -9,9 +9,9 @@ date: '2026-10-27'
 source:
 - LIT-tmp57r0s
 summary: >-
-  Rovelli (1996), LIT-tmp57r0s, read in arXiv v2 in NOTE-tmptc0hl, §§II.C,
+  Rovelli (1996), [LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), read in arXiv v2 in [NOTE-tmptc0hl](../notes.d/NOTE-tmptc0hl.md), §§II.C,
   III.A–B, III.D and IV.A. Active as a textual fact about the paper. It
-  bears out, for 1996, what THEORY-tmpggk6i takes from Faye and Jaksland,
+  bears out, for 1996, what [THEORY-tmpggk6i](THEORY-tmpggk6i.md) takes from Faye and Jaksland,
   who quote later texts for it. It does not say that RQM must keep systems
   prior, nor that the systems are uniquely given: the decomposition is
   assumed, not argued, and allowed to vary.
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Rovelli (1996), LIT-tmp57r0s, arXiv quant-ph/9609002v2; read in
-NOTE-tmptc0hl. Page numbers are the preprint's.
+Rovelli (1996), [LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), arXiv quant-ph/9609002v2; read in
+[NOTE-tmptc0hl](../notes.d/NOTE-tmptc0hl.md). Page numbers are the preprint's.
 
 ## What was actually shown
 
@@ -51,7 +51,7 @@ observer. A state exists "only if some system O … has interacted with S"
 primitives are systems, questions and information (correlation); "the state
 of the system" is replaced by "the information that a system has about
 another system" (p. 11). The "sparse ontology of (relational) quantum
-events" that Faye and Jaksland quote (LIT-tmpstodb, §5) is from later
+events" that Faye and Jaksland quote ([LIT-tmpstodb](../literature.d/LIT-tmpstodb.md), §5) is from later
 writing.
 
 The reading could have come out otherwise: the paper could have made a
@@ -68,10 +68,10 @@ systems derived from them. It does neither.
   discussed.
 - That a system is individuated. W(S) and N fix what kind of system it is
   (a lattice of subspaces of a k-dimensional Hilbert space). Nothing in the
-  paper says what makes two systems of one kind two, which is CLAIM-136's
+  paper says what makes two systems of one kind two, which is [CLAIM-136](../claims.d/CLAIM-136.md)'s
   question, not answered here.
 - That RQM in every later form keeps this structure. That is for the later
-  texts (LIT-177 and those Faye and Jaksland quote).
+  texts ([LIT-177](../literature.d/LIT-177.md) and those Faye and Jaksland quote).
 - That the questions constitute the system. "Characterized" is Rovelli's
-  word; CLAIM-tmpmand1's stronger "partly fixed by the constraints" is not
+  word; [CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md)'s stronger "partly fixed by the constraints" is not
   his.

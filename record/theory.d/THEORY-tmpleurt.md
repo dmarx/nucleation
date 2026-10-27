@@ -19,13 +19,13 @@ date: '2026-10-27'
 source:
 - LIT-tmp57r0s
 summary: >-
-  Rovelli (1996), LIT-tmp57r0s, read in arXiv v2 in NOTE-tmptc0hl, §§II.D,
+  Rovelli (1996), [LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), read in arXiv v2 in [NOTE-tmptc0hl](../notes.d/NOTE-tmptc0hl.md), §§II.D,
   III.D, IV.A–B. The first half (no deducible relation between views, no
   in-toto description) is Rovelli's stated position, well supported by his
   text. Proposed because of the second half: consistency is shown for one
   case (von Neumann's correlation, p. 9) and left to the reader in general
   (p. 15). Rovelli's own relativity analogy breaks where relativity
-  supplies an invariant, which bears on QUESTION-021 by analogy only.
+  supplies an invariant, which bears on [QUESTION-021](../questions.d/QUESTION-021.md) by analogy only.
 ---
 <!-- inactive-ok-file: THEORY-621 CLAIM-137 — Proposed; neighbours cited as open -->
 
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Rovelli (1996), LIT-tmp57r0s, arXiv quant-ph/9609002v2; read in
-NOTE-tmptc0hl. Page numbers are the preprint's.
+Rovelli (1996), [LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), arXiv quant-ph/9609002v2; read in
+[NOTE-tmptc0hl](../notes.d/NOTE-tmptc0hl.md). Page numbers are the preprint's.
 
 ## What was actually shown
 
@@ -65,7 +65,7 @@ about another's view is P-relative, probabilistic information that O has
 measured (the operator M, eq. 3), not what O found ("I know that you know
 the amount of your salary, but I do not know what you know about the amount of your salary", p. 8). What
 does not vary between observers is the system's characterization, W(S)
-(THEORY-tmpduhhr), not a state of it.
+([THEORY-tmpduhhr](THEORY-tmpduhhr.md)), not a state of it.
 
 **Consistency.** If P measures q on S and then O's pointer, the two agree,
 "as was first noticed by von Neumann, and as is clear from (2)" (p. 9).
@@ -83,9 +83,9 @@ reconstruction, and has "no definite result" (§III.C, p. 14).
   not observer-relative, and the probabilities a third system assigns are
   given by standard quantum mechanics.
 - That this is solipsism. Views can be compared, by interaction (p. 8).
-- Anything about communicative acts. Its bearing on QUESTION-021 is by
+- Anything about communicative acts. Its bearing on [QUESTION-021](../questions.d/QUESTION-021.md) is by
   analogy: a physical theory built on a relativity analogy that keeps a
-  frame-independent kind (W(S), compare CLAIM-137) and denies a
+  frame-independent kind (W(S), compare [CLAIM-137](../claims.d/CLAIM-137.md)) and denies a
   frame-independent state.
-- How the later account handles consistency. THEORY-621 is the 2021
+- How the later account handles consistency. [THEORY-621](THEORY-621.md) is the 2021
   statement, with the same gap noted in its promote_when.

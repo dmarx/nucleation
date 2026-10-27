@@ -20,7 +20,7 @@ date: '2026-10-27'
 source:
 - LIT-tmp08ht1
 summary: >-
-  Flack (2017), LIT-tmp08ht1, read in NOTE-tmp46li4, §6. Argued informally,
+  Flack (2017), [LIT-tmp08ht1](../literature.d/LIT-tmp08ht1.md), read in [NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md), §6. Argued informally,
   with social institutions and the macaque power distribution as
   illustrations, and no model or data. Proposed. It does not say slowness
   makes an aggregate accurate, or that separation alone makes the
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Flack (2017), LIT-tmp08ht1, §6; read in NOTE-tmp46li4.
+Flack (2017), [LIT-tmp08ht1](../literature.d/LIT-tmp08ht1.md), §6; read in [NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md).
 
 ## What was actually shown
 
