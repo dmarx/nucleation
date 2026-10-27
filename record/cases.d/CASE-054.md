@@ -117,10 +117,10 @@ The three relations of [CLAIM-210](../claims.d/CLAIM-210.md) on documented mater
   through a parent tribe. This is [CLAIM-002](../claims.d/CLAIM-002.md)'s continuity of transmission, the
   identity of an institution across its branches. There is no transport between
   them: neither is a rendering of the other. So descent by common ancestry
-  and transport are different facts, the distinction CLAIM-210's third
+  and transport are different facts, the distinction [CLAIM-210](../claims.d/CLAIM-210.md)'s third
   relation draws. The case does not show whether each line is itself a
   chain of transmissions from the parent tribe's practice, as the record
-  treats serial reproduction (CASE-068, CLAIM-056); if it is, fidelity
+  treats serial reproduction ([CASE-068](CASE-068.md), [CLAIM-056](../claims.d/CLAIM-056.md)); if it is, fidelity
   could be asked of each branch relative to the ancestor, though never of
   one sibling relative to the other.
 - **A transport.** The Ibo tale is a rendering of a source, with a phylogeny
