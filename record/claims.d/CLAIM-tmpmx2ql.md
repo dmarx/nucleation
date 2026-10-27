@@ -167,7 +167,7 @@ reflect a disparity in characteristic rates of change".
 
 ## Note of 2026-10-27 (latest): the record's own layers
 
-CASE-tmpqou64 measured whether the record shows the claim's first half in
+[CASE-tmpqou64](../cases.d/CASE-tmpqou64.md) measured whether the record shows the claim's first half in
 itself. It shows a hierarchy of rates in the settled record: prose revised
 about once in 22 days, status and relation instances about once in 130,
 relation instances retracted about once in 600, relation types not at all in

@@ -125,13 +125,13 @@ rigidity this claim demonstrates; neither is part of it.
 
 ## Note of 2026-10-27 (latest): the rigidity in the rates
 
-CASE-tmpqou64 shows the rigidity this claim demonstrates from the grammar as
+[CASE-tmpqou64](../cases.d/CASE-tmpqou64.md) shows the rigidity this claim demonstrates from the grammar as
 a disparity of rates as well. Of 6632 authored relation instances, 149 were
 retracted, a median of 0.18 days after they were written, so as drafting
 corrections. Relation types have been added on seven days of the history and
 none has been redeclared. Prose, once drafting is over, is revised about
 once in 22 days. The previous note said a relation type "changes by decision,
 on the grammar's slow time scale". The measurement narrows that. The record
-does not revise a type; it adds one beside it, as ADR-044 added `corroborates`
-beside `rests_on` after CASE-131. What is slow is redeclaration, not the
+does not revise a type; it adds one beside it, as [ADR-044](../decisions.d/ADR-044.md) added `corroborates`
+beside `rests_on` after [CASE-131](../cases.d/CASE-131.md). What is slow is redeclaration, not the
 grammar's growth.

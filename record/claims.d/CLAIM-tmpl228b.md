@@ -217,7 +217,7 @@ Three of the exchange's later turns bear on this claim.
 
 ## Note of 2026-10-27 (latest): the rates measured
 
-CASE-tmpqou64 measures them over the record's first fifty days. Once an
+[CASE-tmpqou64](../cases.d/CASE-tmpqou64.md) measures them over the record's first fifty days. Once an
 entry's first day is past, its prose is revised about once in 22 days, its
 status once in 128, its authored relations gained or lost once in 132 and
 retracted once in about 600, and no relation type in luria.yaml has been

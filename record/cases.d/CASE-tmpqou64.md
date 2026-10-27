@@ -15,7 +15,7 @@ line: nucleating-argument
 summary: >-
   Run on 2026-10-27 at the owner's request ("run your measurements against
   the record"), for the rate reading A12 and A13 gave luria's layers and
-  that CLAIM-tmpl228b left untested. Every non-merge commit to this record,
+  that [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) left untested. Every non-merge commit to this record,
   read by scratch/formal/record_rates.py at commit a357048. The ordering
   (prose, then standing, then relations, then the grammar's types) holds in
   aggregate rates, by one to two orders of magnitude. It does not hold in
@@ -82,7 +82,7 @@ corrections, not revisions.
 The grammar grows in bursts. 17 commits changed a scheme, relation type or
 field, 0.34 a day, and 43 changed a vocabulary (31 of them `topics`).
 Relation types were added on days 18, 25, 28, 31, 37, 41 and 45 of the
-history, 47 of the 68 on day 31 (the argument schemes, ADR-032). None has
+history, 47 of the 68 on day 31 (the argument schemes, [ADR-032](../decisions.d/ADR-032.md)). None has
 been redeclared since its filing.
 
 **Checks.** Authored file modifications under claims.d number 1817 against
@@ -107,7 +107,7 @@ renames number 1110 against the 868 bot body changes counted.
   revised about six times as often as status or edges once drafting is
   over. An edge, once written, is retracted about thirty times less often
   than prose is revised, and a relation type has not been redeclared at
-  all. The rigidity CLAIM-tmpoe0v5 demonstrates from the grammar shows in the
+  all. The rigidity [CLAIM-tmpoe0v5](../claims.d/CLAIM-tmpoe0v5.md) demonstrates from the grammar shows in the
   rates too.
 - **The separation is a separation of the settled regime only.** In the
   first day after filing, body, status and edges all change: 35% of edge
