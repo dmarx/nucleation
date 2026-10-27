@@ -232,7 +232,7 @@ grammar.
 
 ## Note of 2026-10-27 (last): how the apparatus is reconstituted
 
-CASE-tmp0zvle measured when and how luria's grammar is revised in this record.
+[CASE-tmp0zvle](../cases.d/CASE-tmp0zvle.md) measured when and how luria's grammar is revised in this record.
 The claim says misfits met in use revise the grammar. The measurement agrees,
 and it is specific about how. 94% of the vocabulary terms added after the
 scaffold were used by a document changed in the same pull request, and nine in

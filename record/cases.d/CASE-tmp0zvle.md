@@ -15,7 +15,7 @@ illustrates:
 - CLAIM-tmpl228b
 line: nucleating-argument
 summary: >-
-  Run on 2026-10-27 at the owner's direction, after CASE-tmpqou64: "some of
+  Run on 2026-10-27 at the owner's direction, after [CASE-tmpqou64](CASE-tmpqou64.md): "some of
   the most important rates are when and how schema refinement happens",
   with the ordering documents, vocabularies, scheme fields, schemes,
   projects. scratch/formal/schema_rates.py reads every change to luria.yaml
@@ -30,7 +30,7 @@ summary: >-
 
 ## The case
 
-CASE-tmpqou64 measured how often a declared thing is revised. The owner
+[CASE-tmpqou64](CASE-tmpqou64.md) measured how often a declared thing is revised. The owner
 pointed past it, the same day: "some of the most important rates are when and
 how schema refinement happens. authoring documents happens faster than
 vocabularies expand, which happens faster than the fields that comprise a
@@ -83,7 +83,7 @@ that touched the record (296):
 
 Of the 106 terms added after the scaffold, 94% appear in the frontmatter of
 a document changed in the same unit. Commit subjects agree: "moral-psychology
-joins the topics (ADR-018)", "ADR-042: a required kind field on CASE".
+joins the topics ([ADR-018](../decisions.d/ADR-018.md))", "[ADR-042](../decisions.d/ADR-042.md): a required kind field on CASE".
 
 **Projects.** Two weak signals:
 

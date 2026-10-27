@@ -181,7 +181,7 @@ separated by this measurement.
 
 ## Note of 2026-10-27 (last): how the record's grammar grows
 
-At the owner's direction, CASE-tmp0zvle measured the rates of the record's
+At the owner's direction, [CASE-tmp0zvle](../cases.d/CASE-tmp0zvle.md) measured the rates of the record's
 own refinement. Documents were filed on all 32 days, vocabulary terms added on
 18, scheme fields and relations on 8, schemes on 1 and a remote project on 1.
 So the record has the hierarchy of time scales this claim is about. It does
