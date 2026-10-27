@@ -142,20 +142,20 @@ reflect a disparity in characteristic rates of change".
 
 ## Note of 2026-10-27 (later): three readings
 
-- **Flack 2017** (NOTE-tmp46li4; THEORY-tmphciwc) states the first half for
+- **Flack 2017** ([NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md); [THEORY-tmphciwc](../theory.d/THEORY-tmphciwc.md)) states the first half for
   social systems. A much slower aggregate "effectively becomes the 'social'
   environment" that components tune to "regardless of whether it actually
   does a good job of summarizing the regularities" (§6). And a limit the
   claim lacks: an aggregate that summarizes poorly will likely fail, and
   "failure may just take longer if the time scale separation is very large".
   The second half appears in her paper only as an open question (§5).
-- **Ashwin et al. 2012** (NOTE-tmp429c3; THEORY-tmp07o3p) state the window
+- **Ashwin et al. 2012** ([NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md); [THEORY-tmp07o3p](../theory.d/THEORY-tmp07o3p.md)) state the window
   outright: "only when the parameter variation is very slow with respect to
   the slow variable and there are three timescales is tracking guaranteed"
   (p. 16). Two sharpenings. The drift that counts is the attractor's in state
   space, not the parameter's. And separation can be lost because the input
   speeds up, with no mode slowing, a route the second half does not list.
-- **Toner and Tu 1995** (NOTE-tmpte6av; THEORY-tmprfjii) give a flock's case.
+- **Toner and Tu 1995** ([NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md); [THEORY-tmprfjii](../theory.d/THEORY-tmprfjii.md)) give a flock's case.
   Speed fluctuations relax in a time of order 1/α and are dropped, and the
   fixed speed then constrains the slow dynamics, which is the first half. The
   slow modes left are the transverse velocity of a broken continuous symmetry

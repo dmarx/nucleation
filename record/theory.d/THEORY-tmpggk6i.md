@@ -59,11 +59,11 @@ only if Bohmian mechanics did not reproduce the predictions.
 
 ## Note of 2026-10-27: Rovelli 1996 read
 
-Rovelli's founding paper (LIT-tmp57r0s, read in NOTE-tmptc0hl) bears out the
+Rovelli's founding paper ([LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), read in [NOTE-tmptc0hl](../notes.d/NOTE-tmptc0hl.md)) bears out the
 substance of the relational-quantum-mechanics half and corrects its source.
 In 1996 the systems are prior to their interactions by assumption: "Assume
 that the world can be decomposed (possibly in a variety of ways) in a
-collection of systems" (§III.A, p. 10; THEORY-tmpduhhr). But there is no
+collection of systems" (§III.A, p. 10; [THEORY-tmpduhhr](THEORY-tmpduhhr.md)). But there is no
 ontology of events in that paper. The "sparse ontology of (relational)
 quantum events" Faye and Jaksland quote is Rovelli 2018. The decomposition
 is also not unique, which the THEORY's "systems prior" should not be read to

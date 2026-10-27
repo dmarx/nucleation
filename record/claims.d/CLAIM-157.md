@@ -263,10 +263,10 @@ the criterion follows a form through turnover.
 Two of the pressures noted above are now read. In Ashwin et al.'s model the
 matrix M is the same at every instant (their eq. 4), so a gap or spectral
 verdict computed from frozen dynamics stays constant through the tip
-(NOTE-tmp429c3). Read on frozen dynamics, "it lasts as long as that block
+([NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md)). Read on frozen dynamics, "it lasts as long as that block
 persists" would say the form lasts after the system has left it; the clause
 survives if "persists" is read on the trajectory. In Toner and Tu's theory
-(NOTE-tmpte6av) the order is a gapless mode of a field, stabilized by
+([NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md)) the order is a gapless mode of a field, stabilized by
 neighbourhoods that keep changing, so no fixed grouping of members persists
-while the order does. It is a case for QUESTION-218, a mode found without a
+while the order does. It is a case for [QUESTION-218](../questions.d/QUESTION-218.md), a mode found without a
 grouping.

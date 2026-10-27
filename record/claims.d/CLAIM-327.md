@@ -116,8 +116,8 @@ and not its definition" says the same for levels.
 
 ## Note of 2026-10-27: Flack 2017 read, and the third stage is not hers
 
-Flack's general statement (LIT-tmp08ht1, read in NOTE-tmp46li4;
-THEORY-tmp7ps0w) changes how this claim's attribution should be read. Stage
+Flack's general statement ([LIT-tmp08ht1](../literature.d/LIT-tmp08ht1.md), read in [NOTE-tmp46li4](../notes.d/NOTE-tmp46li4.md);
+[THEORY-tmp7ps0w](../theory.d/THEORY-tmp7ps0w.md)) changes how this claim's attribution should be read. Stage
 two, members recognizing and using the variable, is what she calls apparent
 downward causation, with two refinements the claim lacks. Members condition
 on their own *estimate*, which may be wrong and need not be shared, and one
@@ -132,5 +132,5 @@ causation, and a new level needs her strong criteria: predictive, robust,
 used nearly universally, agreed on, with rising micro–macro mutual
 information (§1). So the three stages are the exchange's synthesis of 2026-10-16,
 with regeneration where Flack has convergence. The claim's content may still
-be right; it is not Flack's. Flack 2012 (LIT-1122), which this paper defers
+be right; it is not Flack's. Flack 2012 ([LIT-1122](../literature.d/LIT-1122.md)), which this paper defers
 to, stays unread.

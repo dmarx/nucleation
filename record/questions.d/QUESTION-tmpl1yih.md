@@ -103,16 +103,16 @@ described three ways.
 ## Note of 2026-10-27 (later): two readings
 
 - **Toner and Tu 1995 is a worked case of creation and stabilization coming
-  apart** (NOTE-tmpte6av). The αv − β|v|²v terms of their equation (1) are
+  apart** ([NOTE-tmpte6av](../notes.d/NOTE-tmpte6av.md)). The αv − β|v|²v terms of their equation (1) are
   the normal form ẋ = μx − x³: a local speed appears when α changes sign.
   In two dimensions that bifurcation alone gives no persistent order; the
   linearized theory loses long-range order for d ≤ 2, as the equilibrium XY
   model does (p. 4). A separate mechanism, the convective nonlinearity,
-  stabilizes it (pp. 5–9; THEORY-tmpzaxy0, Proposed). The paper says nothing
+  stabilizes it (pp. 5–9; [THEORY-tmpzaxy0](../theory.d/THEORY-tmpzaxy0.md), Proposed). The paper says nothing
   about a constitutive role; its "birds" stay in scare quotes, which bears out
   A14's caution.
 - **Ashwin et al. 2012 corrects the question's gloss of rate-induced
-  tipping** (NOTE-tmp429c3; THEORY-tmpksbqt). The attractor keeps its
+  tipping** ([NOTE-tmp429c3](../notes.d/NOTE-tmp429c3.md); [THEORY-tmpksbqt](../theory.d/THEORY-tmpksbqt.md)). The attractor keeps its
   existence, stability and basin at every frozen parameter (§3.2.2). What
   bifurcates is "the ability to track the QSE" (p. 11), and the critical rate
   depends on the distance to the threshold as much as on relaxation. But
