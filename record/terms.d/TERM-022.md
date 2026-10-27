@@ -18,8 +18,6 @@ summary: >-
   regions, generally a region rather than a point. Generalized at U29 to
   local sections; the manuscript keeps it as the special case with a
   shared ambient space (§2).
-used_by:
-- CLAIM-042
 ---
 <!-- inactive-ok-file: TERM-002 — Superseded; the term that replaced this one, itself since superseded, cited as history -->
 

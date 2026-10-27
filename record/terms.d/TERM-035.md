@@ -18,9 +18,6 @@ summary: >-
   A12, after the owner's U7 correction: who is saying it, to whom, from
   what position, in what social context, with what attitude, split into
   interpretive, enunciative and performative frames.
-used_by:
-- CLAIM-061
-- CLAIM-064
 ---
 <!-- inactive-ok-file: TERM-005 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

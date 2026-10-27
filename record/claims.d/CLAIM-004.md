@@ -21,7 +21,7 @@ objects_to:
 undercuts:
 - ARG-004
 uses:
-- TERM-016
+- TERM-030
 summary: >-
   A18's passive/active distinction, recovered. It outlived the act
   object it presupposed: A38 §7.2 and A40 §9.2 used it to undercut the
@@ -34,7 +34,7 @@ supports:
 - CLAIM-151
 - CLAIM-224
 ---
-<!-- ref::uses-file: TERM-016 — stated in "frame, as a pragmatic frame of reference", the definition current when this claim was written; it has since been superseded -->
+<!-- ref::uses-file: TERM-030 — the passive/active distinction is between a change in the configuration of the communicative situation and a change in the act configured, which is TERM-030's sense; until 2026-10-27 it used TERM-016, now Superseded -->
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-006 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-143 CLAIM-151 CLAIM-129 — Proposed; later re-derivations of this distinction, cited as open -->
@@ -97,3 +97,9 @@ time as though new.
 - A210 §5: the topic kept while the act changes ([CLAIM-129](CLAIM-129.md)).
 
 None of these gives the criterion this claim lacks.
+
+## Note of 2026-10-27: stated in the live term
+
+The status review of this date (ADR-057) found this claim using TERM-016,
+which is Superseded. It now uses TERM-030: the passive/active distinction is between a change in the configuration of the communicative situation and a change in the act configured, which is TERM-030's sense. The claim's status is not
+changed by this.

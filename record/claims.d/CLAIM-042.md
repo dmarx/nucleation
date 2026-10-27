@@ -24,7 +24,7 @@ supersedes:
 - CLAIM-008
 uses:
 - TERM-009
-- TERM-022
+- TERM-042
 summary: >-
   The owner's correction at U28, accepted by A75 as "a more fundamental
   formulation". The manuscript §2: observations "are not ordered into
@@ -36,7 +36,7 @@ supports:
 - CLAIM-119
 ---
 <!-- ref::uses-file: TERM-009 — stated in "levels, as levels at which observables exist"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- ref::uses-file: TERM-022 — stated in "communicative object, as an intersection of constraint regions", the definition current when this claim was written; it has since been superseded -->
+<!-- ref::uses-file: TERM-042 — TERM-042's context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case this claim states (the manuscript keeps it as that special case, §2); until 2026-10-27 it used TERM-022, now Superseded -->
 <!-- inactive-ok-file: CLAIM-008 TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -66,3 +66,9 @@ sections ([CLAIM-038](CLAIM-038.md)), and the manuscript keeps both. Nor that si
 overlap: A75 rejected μ(X_u ∩ X_v)/μ(X_u ∪ X_v) in the same reply because
 "source and target regions may inhabit different observational spaces", which
 needs a correspondence of observables (the manuscript's τ, §6).
+
+## Note of 2026-10-27: stated in the live term
+
+The status review of this date (ADR-057) found this claim using TERM-022,
+which is Superseded. It now uses TERM-042: TERM-042's context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case this claim states (the manuscript keeps it as that special case, §2). The claim's status is not
+changed by this.

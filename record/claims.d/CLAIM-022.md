@@ -15,7 +15,7 @@ line: will-organization
 works:
 - organization-of-will
 grounds:
-- THEORY-120
+- LIT-292
 summary: >-
   Section 7.2, "No. The theory explains practical efficacy, not
   ownership." What the authenticity line tried to supply, the paper now
@@ -31,3 +31,11 @@ summary: >-
 institution could impose durable governing relations." Velleman's objection to
 Frankfurt ([LIT-292](../literature.d/LIT-292.md)) applies to higher-order organizations as much as to
 higher-order desires.
+
+## Note of 2026-10-27: grounded in the objection it applies
+
+The status review of this date (ADR-057) found this Active claim grounded
+in THEORY-120, Frankfurt's account of ownership, which is Proposed. A
+disclaimer does not rest on the account it declines to settle. What the
+body applies is Velleman's objection to Frankfurt (LIT-292, read in full),
+generalized from desires to organizations, so that is now its ground.
