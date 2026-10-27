@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpom5gw
 title: 'In GPT-2 XL, for 1000 facts the model knows, restoring single clean hidden states into a run whose subject tokens were noised recovers the most of the correct object''s probability at two sites, middle layers at the last subject token, where MLP outputs carry most of the effect, and late layers at the last token, where attention does; and a rank-one edit of one middle MLP output matrix keyed on the last subject token inserts counterfactual facts that generalize to paraphrases and spare neighbouring subjects better than the fine-tuning, knowledge-neuron and hypernetwork editors tested, working best at that token and in middle layers'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,13 @@ history:
     LIT-968 contradicts the storage inference drawn from them, which is
     the Proposed THEORY-1011, not these results. The record recomputed
     Table 4's scores and checked the closed-form update.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: Hase et al. and MEMIT, registered and read on
+    2026-10-27, are placed against these measurements; neither
+    contradicts them, and MEMIT's traces extend them to GPT-J. Title,
+    scope and status unchanged.
 tags:
 - representation-learning
 - causality
@@ -96,3 +103,16 @@ title uses neither.
 - **[THEORY-980](THEORY-980.md).** The IOI circuit leaves MLPs out; here MLPs are the
   decisive site for recall. Both are GPT-2-family models read with
   patching-type interventions.
+
+## Note of 2026-10-27: two later readings, consistent with it
+
+- **Hase et al. (LIT-tmpg22tp, THEORY-tmpg87ki)** find in GPT-J that the
+  per-fact tracing effect does not predict where an edit of that fact
+  works best. That leaves this entry standing: its "working best … in
+  middle layers" is an average over facts, and Hase et al. find ROME best
+  on average at layer 6, near where tracing peaks on average.
+- **MEMIT (LIT-tmpsrubd, NOTE-tmpt77xq)** traces 501 facts in GPT-J and
+  reproduces this entry's GPT-2 XL pattern, including the gap when MLPs
+  are severed, and adds a strong early attention effect at the last
+  subject token. The measurements now have a second model; this entry's
+  title stays scoped to GPT-2 XL.

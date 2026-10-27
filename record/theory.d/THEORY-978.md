@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpblgxz
 title: 'Causal scrubbing scores a hypothesis through the partitions of the dataset that its interpretation nodes induce, so two hypotheses that assign different features to a node but induce the same partition on the dataset, such as two features perfectly correlated on it, receive the same score'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -13,6 +13,13 @@ history:
     post defines it, which the authors state as a limitation; the record
     re-derived it from the pseudocode and checked it in a small simulation
     (ADR-047 v2).
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the appendix's maximum-entropy theorem and the
+    paren post's measured near-tie, from the companion posts
+    registered and read on 2026-10-27, are placed under Connections.
+    Title and status unchanged.
 tags:
 - causality
 - representation-learning
@@ -100,3 +107,17 @@ which "is not strong enough to eliminate all incorrect hypotheses".
   promote_when.
 - **[CLAIM-454](../claims.d/CLAIM-454.md).** What passes the test is a partition of the data,
   not the variable that does the work.
+
+## Note of 2026-10-27: the tie by theorem, and a measured near-tie
+
+- **THEORY-tmpgikxe**, from the causal scrubbing appendix (LIT-tmpt2u54):
+  the inputs the algorithm samples are the unique maximum-entropy
+  distribution that keeps every interpretation node's inputs jointly as on
+  the data. This entry's tie follows from it: two hypotheses that induce
+  the same partitions constrain the same marginals and so sample the same
+  distribution.
+- **The paren post's 1a against 1b** (LIT-tmpnbrst, NOTE-tmpoa8l3): a
+  hypothesis using a wrong but correlated count scores 88% of the loss
+  recovered against 93% for the right one. It is the authors' own measured
+  near-tie for imperfectly correlated features, the case "What this does
+  not say" leaves unbounded; here the gap is 5 points.

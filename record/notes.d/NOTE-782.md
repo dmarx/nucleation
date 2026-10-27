@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpefcvd
 paper: LIT-968
 title: 'Makelov, Lange and Nanda — an interpretability illusion for subspace activation patching'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-14'
@@ -26,6 +26,13 @@ history:
     reading names, were registered and read on 2026-10-26 and are
     cited by code; the random-MLP DAS control is set beside DAS's
     own random-network control. The reading is unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    A second dated note added: Hase et al., which this reading's
+    Connections and its first dated note call not registered, was
+    registered and read on 2026-10-27 and is cited by code. The
+    reading is unchanged.
 date: '2026-10-14'
 summary: >-
   A subspace activation patch can make a model behave as if a feature had
@@ -40,6 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1011 — Proposed; ROME's storage reading, cited as the hypothesis THEORY-282 bears on, not leaned on -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this reading is set beside, open -->
+<!-- inactive-ok-file: THEORY-tmpiz2n7 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited as open -->
 
 # NOTE-782: Makelov, Lange and Nanda — an interpretability illusion for subspace activation patching
 
@@ -292,3 +300,18 @@ for the owner's request about the record's circuits literature.
 Hase et al.'s finding that ROME works in layers where the fact is not
 localized, which this paper explains, is not registered; the curation
 entry for the circuits reading names it. The reading is unchanged.
+
+## Note of 2026-10-27 (later): Hase et al., now held
+
+The Connections paragraph and the closing paragraph of the note above say
+Hase et al.'s finding is not registered. It was registered and read later
+on 2026-10-27, at the owner's request, as LIT-tmpg22tp (NOTE-tmpg0dnu).
+The finding this paper explains is now held as measured: in GPT-J on 652
+CounterFact facts, the per-fact causal-tracing effect adds at most 3.2
+points of R² to predicting edit success beyond the edit layer, and ROME
+rewrites at over 96% at every layer but the last, including layers where
+tracing does not place the fact (THEORY-tmpg87ki). Hase et al.'s own
+account of why, that many layers could store a fact and an edit at one
+layer can override what others accumulated, is THEORY-tmpiz2n7,
+Proposed; this paper's Lemma D.2 (THEORY-282) gives a reason from another
+direction. The reading is unchanged.

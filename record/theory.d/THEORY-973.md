@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp8cat0
 title: 'In small attention-only transformer language models of two to six layers, in-context learning, measured as the loss at token 500 minus the loss at token 50, appears abruptly in one early window of training in which induction heads form, and ablating those heads at test time removes nearly all of it; one-layer models show neither, and letting a single layer attend by the previous token brings the jump to one-layer models and moves it earlier in two-layer ones'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,12 @@ history:
     co-occurrence), and nothing in the record contradicts it (ADR-047 v3).
     The paper's wider thesis for large models is the Proposed
     THEORY-990.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the causal scrubbing induction result,
+    registered and read on 2026-10-27, is placed under Connections; it
+    is compatible with this entry. Title and status unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -136,3 +142,14 @@ the jump.
   sparse-autoencoder features, in pieces, in Pythia-70M
   ([NOTE-1187](../notes.d/NOTE-1187.md)). Neither measures when the composition becomes
   available.
+
+## Note of 2026-10-27: how much of induction the textbook circuit explains
+
+Causal scrubbing's induction post (LIT-tmpkdyqt, NOTE-tmpt6p3g), read on
+2026-10-27, measures in a two-layer attention-only model how much of the
+two induction heads' contribution on induction-favouring tokens the
+standard circuit accounts for: 35%, and 86% once three-token matching,
+layer 0's average effect and three self-attending layer-0 heads are added
+(THEORY-tmp3gl09). It is compatible with this entry, which measures that
+induction heads carry in-context learning, not that the textbook circuit
+is all of what they do.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo1u9l
 title: 'On Pythia language models from 410M to 12B parameters, in three single prompt pairs and two small prompt distributions, verifying attention or neuron nodes by activation patching in the order given by attribution patching, a first-order gradient estimate of each node''s noising effect, found the nodes with the largest effects at about 2 to 50 times the cost of an oracle ordering, below unordered patching, subsampling and block search in every setting; its misses were concentrated in queries and keys behind saturated attention and in nodes whose direct and indirect effects nearly cancel'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,12 @@ history:
     with the relative costs read off its bar charts as approximate, and
     nothing in the record contradicts it (ADR-047 v3). The wider claim
     that it transfers is THEORY-1000, Proposed.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the estimate whose misses this entry measures,
+    from Nanda's post registered and read on 2026-10-27, is placed
+    under Connections. Title and status unchanged.
 tags:
 - representation-learning
 - causality
@@ -33,6 +39,7 @@ extended_by:
 - THEORY-1000
 ---
 <!-- inactive-ok-file: THEORY-1000 THEORY-997 — Proposed; the wider thesis and a neighbouring account, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp52c5a — Proposed; the method author's own map of where the estimate fails, cited as open -->
 
 # THEORY-996: On Pythia language models from 410M to 12B parameters, in three single prompt pairs and two small prompt distributions, verifying attention or neuron nodes by activation patching in the order given by attribution patching, a first-order gradient estimate of each node's noising effect, found the nodes with the largest effects at about 2 to 50 times the cost of an oracle ordering, below unordered patching, subsampling and block search in every setting; its misses were concentrated in queries and keys behind saturated attention and in nodes whose direct and indirect effects nearly cancel
 
@@ -93,3 +100,15 @@ on distributions, where averaging favours them.
 - **[THEORY-970](THEORY-970.md).** ACDC's HISP baseline is this estimate up to the
   absolute value; there it ranked hand-found edges below ACDC on three
   tasks, a different measure from this one.
+
+## Note of 2026-10-27: the estimate's derivation, now held
+
+- **THEORY-tmpeqz27** (from Nanda's post, LIT-tmpo09rn, read in
+  NOTE-tmpxnucs) is the derivation of the estimate whose misses this entry
+  measures. It is exact when the metric is affine in the activation and
+  gives no effect for a nonlinearity in saturation whatever the true
+  change, which is this entry's first cause of misses, predicted.
+- **THEORY-tmp52c5a** is the post's own map of where the estimate should
+  fail (large patches, the first MLP layer, saturation, effects needing
+  several features). Cancelling direct and indirect effects, this entry's
+  second cause, is not on it.
