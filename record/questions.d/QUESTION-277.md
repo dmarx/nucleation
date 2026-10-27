@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpzwgk0
 title: 'When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host''s regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -12,6 +12,10 @@ history:
     Retagged under ADR-055: `endosymbiosis` replaces `ecology`. Note of
     2026-10-27 (later) added: the six CASEs and the works of the second
     pass. The question is unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (readings) added: what the readings of LIT-1568, LIT-1571 and LIT-1570 say of the routes and dimensions. The summary's account of Athreya et al. is corrected there. LIT-1573 could not be fetched. The question is unchanged.
 tags:
 - individuation
 - philosophy-of-biology
@@ -33,6 +37,7 @@ summary: >-
   which of them a theory of individuality must require. All the works cited
   are filed unread.
 ---
+<!-- inactive-ok-file: THEORY-tmp20e6b THEORY-tmpf67xs THEORY-tmpmjn0i THEORY-tmpyk1k6 — Proposed; filed from the readings cited in the note of 2026-10-27 (readings) -->
 
 <!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 LIT-1225 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-141 THEORY-418 THEORY-443 LIT-188 — Proposed; accounts the question would test, cited as open -->
@@ -160,3 +165,45 @@ registered for each:
 of symbionts. If so, the two dimensions are not independent, and an answer
 must say which drives which.
 
+## Note of 2026-10-27 (readings): what the first three readings say
+
+Three of the four works the exchange called "Critical" have been read in
+full. The fourth, Moran 1996 ([LIT-1573](../literature.d/LIT-1573.md)), is Unfetched: its free copy is
+behind a challenge this client could not pass.
+
+- **The Black Queen route moves D one way and G, and nothing else**
+  ([LIT-1568](../literature.d/LIT-1568.md), [NOTE-tmp85ewc](../notes.d/NOTE-tmp85ewc.md), [THEORY-tmp20e6b](../theory.d/THEORY-tmp20e6b.md)). Loss of a costly, leaky
+  function is favoured until helpers just supply the community. No
+  collective forms. There is no cohesion and no control, and the
+  dependence runs from beneficiaries to helpers only. It is the record's
+  clearest case of interdependence that is not individuality. The paper
+  states it for free-living microbes.
+- **Past a genome-size threshold, G forces C** ([LIT-1571](../literature.d/LIT-1571.md), [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md),
+  [THEORY-tmpf67xs](../theory.d/THEORY-tmpf67xs.md)). Below about 400 kb a symbiont cannot build its own
+  envelope, and below about 200 kb translation erodes. The host then
+  presumably supplies membranes, transport and translation parts, with or
+  without gene transfer. Host control can therefore be a consequence of
+  the symbiont's losses, not only of transfer and import. This couples
+  two dimensions the question lists as separate.
+- **D and R are separate, but their order is not settled** ([LIT-1570](../literature.d/LIT-1570.md),
+  [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md), [THEORY-tmpmjn0i](../theory.d/THEORY-tmpmjn0i.md), [THEORY-tmpyk1k6](../theory.d/THEORY-tmpyk1k6.md)). This corrects the
+  question's summary and its "Why it is a question" section. Athreya et
+  al.'s "mutual dependence evolves faster than reproductive cohesion even
+  when investments in the two are uncorrelated" holds under their chosen
+  mapping: free growth depends on a partner's own obligacy, and
+  dissociation on both partners' adhesions. Their own appendix shows the
+  bias disappearing under matched mappings and reversing under the
+  opposite one. So which comes first is an empirical question about how
+  the traits act.
+
+  What the model does show robustly is the asymmetry and its sequel. The
+  faster-evolving partner becomes obligate first. The other then stays,
+  becomes fully dependent, or returns to independence according to
+  births and deaths inside the collective. That gives the question one
+  candidate variable for when dependence becomes individuality.
+
+One open lead from the readings: [LIT-1605](../literature.d/LIT-1605.md) (Frank, unread) models
+host control of transmission. If a host can impose cohesion on its own,
+dissociation depends on one partner's trait, and on Athreya et al.'s
+Table S1 the dependence-first bias largely goes. Reading Frank is the
+next step on the R and C dimensions.
