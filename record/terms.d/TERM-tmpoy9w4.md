@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'descent, and which sense: provenance, lineage, common ancestry or causal descent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Adopted by the owner on 2026-10-27: status Proposed → Active. The
+    claims that use the word in one of its senses now name the term in
+    `uses`, and CLAIM-191 is moved from provenance to lineage, which is
+    what its "by descent, by its code" means. The definition is unchanged.
 tags:
 - individuation
 - social-ontology
@@ -18,7 +26,7 @@ summary: >-
   continuation. [CLAIM-210](../claims.d/CLAIM-210.md) and [CASE-054](../cases.d/CASE-054.md) had let two of them meet, which the
   owner's review of 2026-10-27 resolved; this term lists the senses so a
   claim says which. It does not cover descent in optimization (gradient or
-  common descent directions). Proposed; adoption is the owner's.
+  common descent directions). Adopted by the owner on 2026-10-27.
 ---
 
 # TERM-tmpoy9w4: descent, and which sense: provenance, lineage, common ancestry or causal descent
@@ -33,14 +41,16 @@ means.
    a fidelity profile is defined for ([TERM-043](TERM-043.md)), so the descendant has a
    fidelity to its source, high or low. [CLAIM-210](../claims.d/CLAIM-210.md)'s "T was made from S",
    whose sentence was revised on 2026-10-27 to call this provenance;
-   [CLAIM-246](../claims.d/CLAIM-246.md)'s objection; [CLAIM-191](../claims.d/CLAIM-191.md)'s claim reached "by descent, by its
-   code".
+   CLAIM-246's objection, and CLAIM-204's account of direction, which
+   points to CLAIM-210's answer.
 2. **Lineage.** Continuity of transmission across successive carriers: a
    retelling of a retelling, a fandom carried through a generation, an
    institution across its branches. Directed, and transitive along the
    chain. It is [CLAIM-002](../claims.d/CLAIM-002.md)'s "continuity of transmission" ("descent is not
    similarity"), [TERM-071](TERM-071.md)'s historical persistence, and what [CLAIM-329](../claims.d/CLAIM-329.md) says
-   persistence through total turnover consists in. [CLAIM-287](../claims.d/CLAIM-287.md)'s caution
+   persistence through total turnover consists in; CLAIM-191's later
+   entries that "reach the claim by descent, by its code", and CLAIM-417's
+   "Historical descent". [CLAIM-287](../claims.d/CLAIM-287.md)'s caution
    applies: it "is not automatically an equivalence relation", since
    lineages can branch and merge.
 3. **Common ancestry.** Two realizations descend, each by lineage, from one
@@ -52,7 +62,10 @@ means.
    activity, with nothing of it passed on. Directed, with no fidelity and no
    continuation. [CLAIM-420](../claims.d/CLAIM-420.md): "a movement founded to oppose someone descends
    from them without continuing their perspective", so "causal descent is
-   not perspectival inheritance".
+   not perspectival inheritance". CLAIM-329's note of 2026-10-26 gives
+   the limiting case: every training checkpoint is causally descended from
+   the last, so causal descent alone cannot tell continuation from
+   replacement.
 
 What separates them:
 

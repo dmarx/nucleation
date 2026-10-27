@@ -29,6 +29,8 @@ grounds:
 - THEORY-155
 - CASE-015
 - CASE-068
+uses:
+- TERM-tmpoy9w4
 summary: >-
   The first claim joining the nucleating-argument and pragmatic-transport
   lines, which shared no edges. A sequence of memoryless sessions
