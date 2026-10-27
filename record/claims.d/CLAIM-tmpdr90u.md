@@ -33,6 +33,7 @@ summary: >-
   normative obligation". The second half is [CLAIM-363](CLAIM-363.md)'s indexing, which
   A6 named as the bridge. Barad is unread here.
 ---
+<!-- inactive-ok-file: LIT-tmp0s9m0 — Deferred; registered unread -->
 <!-- inactive-ok-file: CLAIM-tmpl228b CLAIM-363 QUESTION-072 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpn1p0x — Deferred; registered from the same exchange, unread -->
 
@@ -97,3 +98,16 @@ determinate "will, by necessity, always produce its constitutive exclusion
 on Barad's science as "inherently normative" (note 18). So the exclusion
 Barad means is complementarity's, generalized. Neither reading addresses
 the second half, which remains A6's pressure on her.
+
+## Note of 2026-10-27 (later still): Bowker and Star
+
+A11 found the empirical tradition for this claim's first half in Bowker and
+Star (LIT-tmp0s9m0, unread): classification infrastructures become invisible by
+becoming routine, and what they leave residual has consequences. It asked the
+claim's question of luria: "**Which distinctions become easier to make because
+the apparatus recognizes them, and which distinctions become harder to make
+because the apparatus has no place for them?**", and added that "Extensibility
+allows a category to be added. It does not guarantee that someone notices the
+missing category, has authority to add it, or can do so without costly
+consequences". That is CLAIM-419's limit ("whether every such move is caught is
+not shown") made a question of who can act, which is QUESTION-072's.

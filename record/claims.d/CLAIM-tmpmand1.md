@@ -49,6 +49,7 @@ summary: >-
   It is not a structural realism that eliminates relata, and satisfying a
   specification is not being produced by it.
 ---
+<!-- inactive-ok-file: CLAIM-tmpmx2ql CLAIM-137 LIT-1019 LIT-tmp3ctj5 LIT-tmpp0mod — claims the note connects (Proposed) and works unread here (Unavailable or Deferred) -->
 <!-- inactive-ok-file: THEORY-tmprm5rv — Proposed; Jaksland's conditional, cited as open -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 CLAIM-405 CLAIM-195 THEORY-034 — Proposed; the domain cases, neighbours and objection this frame sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpoqxdo — Deferred; registered from the same exchange, unread, cited for what it is standardly cited for -->
@@ -188,3 +189,29 @@ Barad's phenomena are "relations without preexisting relata" (2003, 815, as
 both readings quote it), which is eliminative at the fundamental level.
 Rovelli's relational quantum mechanics is a second non-eliminative case:
 values relational, systems prior to interactions ([THEORY-tmpggk6i](../theory.d/THEORY-tmpggk6i.md)).
+
+## Note of 2026-10-27 (later still): mechanism, universality and kinds
+
+The exchange's four later turns kept working on this claim. Three results bear
+on it.
+
+- **A mechanism for the recursion.** The owner's U12 ("a coverage gap wrt scale
+  separation and how that participates in creating structure") led to
+  CLAIM-tmpmx2ql, which rests on this claim. A fast realization settles into a
+  relation that constrains over a slower window, and organization near an
+  instability creates new slow modes. A13: "What is a dynamic realization at
+  one timescale becomes an effective specification or constraint at another."
+- **Many realizations, one specification.** A12 §4 read renormalization as "a
+  route from variable realizations to stable specifications": distinct
+  microscopic systems flow to the same effective structure. That is a physical
+  mechanism for what CLAIM-137 holds of communicative kinds, an invariant
+  that does not depend on any one realization (Wilson, LIT-tmp3ctj5, unread).
+- **Neighbours on the formal side.** A11 found Barwise and Seligman's
+  classifications, with tokens, types and a satisfaction relation joined by
+  infomorphisms, "the closest formal predecessor to the relata/relations
+  analogy itself" (LIT-1019, unavailable). It found Deutsch and Marletto's
+  constructor theory, laws as possible and impossible tasks, a sharper sense
+  of a constraint being real (LIT-tmpp0mod, unread). A11's question about
+  infomorphisms, when a distinction enacted in one apparatus can be carried
+  faithfully into another, is the pragmatic-transport line's question in
+  another vocabulary.

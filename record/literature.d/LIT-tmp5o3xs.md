@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered from U11–U14 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+title: 'The Mangle of Practice: Time, Agency, and Science'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-27:
+    Andrew Pickering, University of Chicago Press, 1995, with the year
+    only, so `published:` carries a placeholder, 1 January 1995.
+tags:
+- philosophy-of-science
+- agency
+date: '2026-10-27'
+published: '1995-01-01'
+doi: '10.7208/chicago/9780226668253.001.0001'
+first_author: 'Pickering'
+keywords:
+- 'mangle of practice'
+- 'resistance and accommodation'
+- 'material agency'
+- 'scientific practice'
+implementations: []
+summary: >-
+  Pickering (1995). Scientific practice is a mangle of human and
+  material agency: researchers' goals and machines meet resistance,
+  which practitioners accommodate by revising goals, instruments and
+  interpretations, and the outcome of the dialectic of resistance and
+  accommodation is emergent in time.
+---
+
+# LIT-tmp5o3xs: The Mangle of Practice: Time, Agency, and Science
+
+Pickering, A. (1995). *The Mangle of Practice: Time, Agency, and Science*. University of Chicago Press. doi:10.7208/chicago/9780226668253.001.0001.
+
+Not read. The summary is drawn from what the work is standardly cited
+for and from the exchange's description of it. A reading should check it
+first.
+
+## Why this is here
+
+A11 called it "a particularly direct predecessor to Luria's principle
+that structural awkwardness is a signal about the inadequacy of the
+model" (LU-DP-016), which this record holds as CLAIM-419. It bears on
+CLAIM-tmpl228b.

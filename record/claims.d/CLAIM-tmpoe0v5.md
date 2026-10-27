@@ -31,6 +31,7 @@ summary: >-
   in which the rigidity of a relation outran what its relata meant and the
   grammar was amended.
 ---
+<!-- inactive-ok-file: CLAIM-184 CLAIM-195 CLAIM-419 CLAIM-tmpmx2ql — Proposed; the explanations of the asymmetry, cited as open -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; the objection about the grammar this claim gives one more fact to, cited as open -->
 
 # CLAIM-tmpoe0v5: In the record a typed relation is more constrained than either of its relata: a claim's content is open prose, while `rests_on` fixes the scheme at both ends, has `supports` written as its converse and says what retiring its target leaves, and none of that moves when either claim's content does; so a relation's rigidity is a fact about the grammar, not evidence that the dependency it records is sound
@@ -107,3 +108,17 @@ this claim is only the asymmetry.
 - **Not that this generalizes.** That the same asymmetry holds outside the
   record, between physical relations and their relata, is part of what
   [CLAIM-tmpmand1](CLAIM-tmpmand1.md) claims, and it is interpretive there.
+
+## Note of 2026-10-27 (later): why the relation is rigid
+
+The exchange's later turns offered two explanations of the asymmetry this
+claim shows, and the record already holds both. A11 took Wimsatt's generative
+entrenchment: "A constraint can acquire practical rigidity because many
+downstream processes depend on it", with indexes, chains, validation and
+migration all built on a relation type. That is CLAIM-184 ("Anchors entrench"),
+which A11 did not cite. A12 took rates: the relation's "rigidity might reflect a
+disparity in characteristic rates of change, combined with mechanisms that
+maintain and enforce them". A relation type changes by decision, on the
+grammar's slow time scale (CLAIM-195, CLAIM-419), while the prose of its relata
+changes at every edit. That is CLAIM-tmpmx2ql's mechanism. Both explain the
+rigidity this claim demonstrates; neither is part of it.

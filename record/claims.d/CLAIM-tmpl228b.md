@@ -46,6 +46,7 @@ summary: >-
   this record had filed it from the owner's U18 of 2026-10-22. Barad is
   unread here.
 ---
+<!-- inactive-ok-file: LIT-tmpqcxti — Deferred; registered unread -->
 <!-- inactive-ok-file: CLAIM-419 CLAIM-195 CLAIM-181 CLAIM-183 — Proposed; the claims about the record's grammar this one rests on or sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpikjbr LIT-tmpn1p0x LIT-tmpggyb7 LIT-tmpoqxdo — Deferred or Unavailable; registered from the same exchange, unread, cited for what they are standardly cited for -->
 
@@ -188,3 +189,28 @@ possibility and impossibility of mattering; they enact what matters and
 what is excluded from mattering." The first half matches the claim's
 "settles which distinctions among entries are determinate and
 consequential"; the second is [CLAIM-tmpdr90u](CLAIM-tmpdr90u.md)'s.
+
+## Note of 2026-10-27 (later still): Rheinberger, second-order observation, and rates
+
+Three of the exchange's later turns bear on this claim.
+
+- **Rheinberger (LIT-tmpqcxti, unread).** A11's "leading recommendation,
+  particularly because of Luria": epistemic things, the objects still under
+  investigation, and technical objects, the stabilized means of investigating,
+  can turn into one another. A11 saw this in luria: a typed relation that
+  served as an instrument became, when its limits showed, an object of
+  inquiry, and the revised relation went back to being an instrument. CASE-131
+  and ADR-044 are a record of exactly that turn. It is closer to this claim
+  than Barad's apparatus, since it is about practice and needs no quantum
+  premise. A11's caveat: Rheinberger "is discussing laboratory systems with
+  material experimental objects".
+- **Second-order observation.** A11's "What makes this count as support?", a
+  question about the apparatus's own distinction, is CLAIM-419's
+  "second-order corrigible", from A18 of 2026-10-22, which A11 did not cite.
+- **Rates, not yet measured.** A12 and A13 read luria's layers (prose edits,
+  validation, standing changes, schema revision) as processes on different
+  time scales and its durable rules as constraints over faster activity,
+  "**storage plus operational uptake**". A12 warned that "There's no guarantee
+  these processes possess numerically well-separated timescales. That would
+  need measurement." The record's own commit and decision history could
+  supply it. That is not done.

@@ -97,6 +97,7 @@ objected_by:
 supports:
 - CLAIM-174
 ---
+<!-- inactive-ok-file: QUESTION-tmpl1yih LIT-tmpj4ix1 LIT-tmpcdunk — the question the pressures are filed in (Open) and its sources, registered unread (Deferred) -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
 <!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
 <!-- inactive-ok-file: THEORY-257 THEORY-265 THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 set beside the criterion, open -->
@@ -243,3 +244,16 @@ ways. None changes the criterion.
   30–80%, because few samples cross the barrier. This claim's duration
   clause needs a lifetime, and equilibrium data are the weak place to get
   one.
+
+## Note of 2026-10-27: pressures from the dynamics of transitions
+
+A14 of the exchange of 2026-10-27 raised three pressures on criteria that read
+an individual off a gap. They are filed as QUESTION-tmpl1yih, not as
+objections, since none is shown to defeat this claim's coupling-gap criterion.
+(i) Non-normal transient growth can carry a system out of a regime whose
+linearization is stable at every instant (THEORY-724; LIT-932). (ii)
+Rate-induced tipping can end a form whose frozen-parameter attractor still
+exists (LIT-tmpj4ix1, unread), which bears on "it lasts as long as that block
+persists". (iii) Localized structures persist as dynamical individuals while
+their material turns over (LIT-tmpcdunk, unread), a case for testing whether
+the criterion follows a form through turnover.
