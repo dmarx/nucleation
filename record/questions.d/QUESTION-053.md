@@ -20,8 +20,9 @@ summary: >-
 answered_by:
 - THEORY-125
 - THEORY-126
-- THEORY-123
 - CLAIM-355
+bearing:
+- THEORY-123
 ---
 <!-- inactive-ok-file: CLAIM-039 — Deferred; the claim this question bears on, with its line set aside -->
 

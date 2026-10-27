@@ -30,11 +30,11 @@ summary: >-
   across multiple otherwise entangled subsystems?" [CLAIM-388](../claims.d/CLAIM-388.md) shows
   the two come apart; [CASE-120](../cases.d/CASE-120.md) is the construction. The question is
   which of them the record's "one system" should track.
-answered_by:
-- THEORY-755
-- THEORY-758
-- THEORY-820
+bearing:
 - THEORY-822
+- THEORY-820
+- THEORY-758
+- THEORY-755
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-218: Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?

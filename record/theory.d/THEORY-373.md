@@ -12,8 +12,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1110
-answers:
-- QUESTION-105
 summary: >-
   Green, Karvounarakis and Tannen (2007), [LIT-1110](../literature.d/LIT-1110.md), read in [NOTE-913](../notes.d/NOTE-913.md).
   Union and projection add tags, join multiplies them; the usual RA identities
@@ -26,6 +24,8 @@ summary: >-
   every nonmonotone operation.
 extended_by:
 - THEORY-380
+bears_on:
+- QUESTION-105
 ---
 
 # THEORY-373: For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation

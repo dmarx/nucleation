@@ -28,8 +28,6 @@ date: '2026-10-11'
 line: nucleating-argument
 works:
 - luria-nucleating-an-argument
-answers:
-- QUESTION-037
 summary: >-
   Stated as a finding in [ADR-032](../decisions.d/ADR-032.md), from seven readers coding the will
   exchange, and found again in the What Survives Translation? exchange by
@@ -45,6 +43,8 @@ supports:
 - CLAIM-180
 - CLAIM-191
 - CLAIM-192
+bears_on:
+- QUESTION-037
 ---
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-024 CLAIM-115 CLAIM-139 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->

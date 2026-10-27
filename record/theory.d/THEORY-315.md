@@ -34,7 +34,7 @@ summary: >-
   classical theory without the symmetry escapes it. It needs no
   perfectly distinguishable states, and it is not a sheaf or
   Kochen–Specker criterion.
-answers:
+bears_on:
 - QUESTION-067
 ---
 <!-- inactive-ok-file: THEORY-010 CLAIM-009 CLAIM-037 CLAIM-044 CLAIM-142 — Proposed; theories and claims this account bears on, open -->

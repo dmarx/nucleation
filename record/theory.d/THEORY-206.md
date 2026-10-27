@@ -35,10 +35,10 @@ summary: >-
   polynomial of degree d with c monomials costs one layer at most c·2ᵈ
   however many inputs it has, is the edge: the separation does not reach
   the low-order polynomials [LIT-887](../literature.d/LIT-887.md) calls natural.
-answers:
-- QUESTION-060
 supports:
 - CLAIM-360
+bears_on:
+- QUESTION-060
 ---
 
 

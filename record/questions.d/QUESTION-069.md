@@ -12,7 +12,6 @@ tags:
 date: '2026-10-12'
 line: 'learned-structure'
 answered_by:
-- THEORY-105
 - THEORY-107
 - THEORY-108
 - THEORY-109
@@ -20,8 +19,6 @@ answered_by:
 - THEORY-114
 - THEORY-209
 - THEORY-210
-- THEORY-211
-- THEORY-509
 - THEORY-557
 - THEORY-578
 - THEORY-675
@@ -33,6 +30,10 @@ summary: >-
   [THEORY-114](../theory.d/THEORY-114.md) answer it in part; the body gives each one's limit.
 refined_by:
 - QUESTION-164
+bearing:
+- THEORY-509
+- THEORY-211
+- THEORY-105
 ---
 <!-- inactive-ok-file: THEORY-209 — Proposed; a reading that bears on the regime alternative, open -->
 

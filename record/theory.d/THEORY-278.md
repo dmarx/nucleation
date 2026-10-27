@@ -36,8 +36,6 @@ tags:
 date: '2026-10-14'
 source:
 - LIT-974
-answers:
-- QUESTION-051
 summary: >-
   Han, Papyan & Donoho (2021), [LIT-974](../literature.d/LIT-974.md), read in [NOTE-783](../notes.d/NOTE-783.md). MSE loss
   splits exactly into a least-squares term and a non-negative deviation
@@ -50,6 +48,8 @@ summary: >-
   cross-entropy or with weight decay.
 extended_by:
 - THEORY-797
+bears_on:
+- QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
 <!-- inactive-ok-file: THEORY-797 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->

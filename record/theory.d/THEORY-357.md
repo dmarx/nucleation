@@ -12,8 +12,6 @@ date: '2026-10-15'
 source:
 - LIT-1061
 - LIT-1051
-answers:
-- QUESTION-103
 summary: >-
   Goldreich, Foundations of Cryptography vol. 1, [LIT-1061](../literature.d/LIT-1061.md), read in [NOTE-863](../notes.d/NOTE-863.md)
   (Skimmed, 1995 draft, Chapters 1–3 in full), with Håstad, Impagliazzo, Levin
@@ -26,6 +24,8 @@ summary: >-
   book's statistical difference has no factor ½, so it is twice total variation.
 supports:
 - CLAIM-302
+bears_on:
+- QUESTION-103
 ---
 
 # THEORY-357: Computational indistinguishability is strictly coarser than statistical closeness: without any assumption there are ensembles on at most 2^(n/2) strings that no circuit of size 2^(n/8) tells from uniform, though none of them is efficiently samplable, and an efficiently samplable pair of this kind exists if a pseudorandom generator does, since its output covers at most 2^n of the 2^l(n) strings; all of it is about ensembles indexed by n, not single pairs of distributions

@@ -26,8 +26,6 @@ date: '2026-10-15'
 source:
 - LIT-1054
 - LIT-1076
-answers:
-- QUESTION-095
 summary: >-
   Kirsh and Maglio (1994), [LIT-1054](../literature.d/LIT-1054.md), read in [NOTE-878](../notes.d/NOTE-878.md), with Kirsh (1995), [LIT-1076](../literature.d/LIT-1076.md),
   read in [NOTE-871](../notes.d/NOTE-871.md). In Tetris keystroke data, pieces are rotated more than
@@ -42,6 +40,8 @@ summary: >-
   epistemic-action reading is held as THEORY-823.
 extended_by:
 - THEORY-823
+bears_on:
+- QUESTION-095
 ---
 <!-- inactive-ok-file: THEORY-355 — Proposed; the maintained-arrangement case from the same author, named as a neighbour, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-823 — Proposed; the epistemic-action reading of these moves, filed when the narrowing dropped it -->

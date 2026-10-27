@@ -25,8 +25,6 @@ date: '2026-10-15'
 source:
 - LIT-1116
 - LIT-1100
-answers:
-- QUESTION-114
 summary: >-
   Halevy (2001), [LIT-1116](../literature.d/LIT-1116.md), read in [NOTE-921](../notes.d/NOTE-921.md), reporting Levy et al.
   1995 ([LIT-1100](../literature.d/LIT-1100.md), read), Duschka, Genesereth and Levy, and Abiteboul
@@ -41,6 +39,8 @@ summary: >-
 supports:
 - CLAIM-314
 - CLAIM-312
+bears_on:
+- QUESTION-114
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
 

@@ -24,8 +24,9 @@ summary: >-
   short of the ideal. This asks whether the two are one framework.
 answered_by:
 - THEORY-336
-- THEORY-349
+bearing:
 - THEORY-357
+- THEORY-349
 ---
 <!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

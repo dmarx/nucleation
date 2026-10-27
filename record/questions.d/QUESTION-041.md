@@ -21,7 +21,6 @@ tags:
 date: '2026-10-12'
 line: 'distributed-agency'
 answered_by:
-- THEORY-149
 - THEORY-152
 - THEORY-207
 summary: >-
@@ -32,6 +31,8 @@ summary: >-
 refined_by:
 - QUESTION-089
 - QUESTION-278
+bearing:
+- THEORY-149
 ---
 <!-- inactive-ok-file: CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 

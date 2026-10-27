@@ -11,8 +11,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1117
-answers:
-- QUESTION-114
 summary: >-
   Olston and Widom (2000), [LIT-1117](../literature.d/LIT-1117.md), read in [NOTE-922](../notes.d/NOTE-922.md). In TRAPP a cache
   holds intervals that sources keep valid by pushing a refresh whenever a value
@@ -23,6 +21,8 @@ summary: >-
   only the query-time cost of buying it down is optimized: the sources' upkeep,
   the choice of interval widths and any cost of imprecision are outside the
   model. The MIN rule's optimality proof is in an unread technical report.
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-364: When each cached value is an interval its source guarantees to contain the current value, and a query must return an answer interval no wider than R whatever the true values, choosing the cheapest set of exact reads for a SUM is a 0/1 knapsack problem, NP-complete in general and solved by taking the narrowest intervals first when read costs are equal, and for a COUNT with a selection predicate the cheapest choice is the ⌈|T?| − R⌉ cheapest undecided tuples

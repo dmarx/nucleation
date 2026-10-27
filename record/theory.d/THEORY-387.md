@@ -24,8 +24,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1114
-answers:
-- QUESTION-105
 summary: >-
   Gupta, Mumick and Subrahmanian (1993), [LIT-1114](../literature.d/LIT-1114.md), read in [NOTE-915](../notes.d/NOTE-915.md).
   DRed runs stratum by stratum: semi-naive Δ⁻-rules compute an overestimate
@@ -36,6 +34,8 @@ summary: >-
   does not show, that DRed handles stratified negation, aggregation and rule
   changes, that it beats the PF algorithm by up to an order of magnitude,
   and that it is slower than counting on nonrecursive views.
+bears_on:
+- QUESTION-105
 ---
 
 # THEORY-387: For positive recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from what remains, then adding what insertions derive, leaves exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the extension to stratified negation and aggregation is asserted, not shown, and the size of the overestimate is not measured

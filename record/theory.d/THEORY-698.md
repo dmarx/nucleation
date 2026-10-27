@@ -12,8 +12,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-267
-answers:
-- QUESTION-025
 summary: >-
   Xiong (2026), [LIT-267](../literature.d/LIT-267.md), read in [NOTE-240](../notes.d/NOTE-240.md). Theorem 1 is the basic theorem
   of formal concept analysis applied to the crisp relation got by
@@ -24,6 +22,8 @@ summary: >-
   57.1–77.1. No closure, absorption or recovered-lattice comparison is
   tested, and the paper's join is not a lattice join as written. It is not
   evidence that language models encode a lattice beyond the incidence.
+bears_on:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: LIT-267 — Proposed; the paper whose theorem and measurements this account states; the account is about what they do and do not show -->
 <!-- inactive-ok-file: CLAIM-119 THEORY-008 — Proposed; the lattice claim and neighbouring accounts, named in Connections, not leaned on -->

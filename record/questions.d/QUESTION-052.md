@@ -29,10 +29,7 @@ refines:
 - QUESTION-027
 answered_by:
 - THEORY-001
-- THEORY-003
 - THEORY-005
-- THEORY-006
-- THEORY-009
 - THEORY-320
 - THEORY-565
 summary: >-
@@ -48,6 +45,10 @@ refined_by:
 - QUESTION-182
 - QUESTION-183
 - QUESTION-245
+bearing:
+- THEORY-009
+- THEORY-006
+- THEORY-003
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

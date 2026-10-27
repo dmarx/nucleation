@@ -26,33 +26,34 @@ summary: >-
   Choosing indexes for a workload is a studied problem with explicit cost models.
   This asks whether that model is the one [QUESTION-095](QUESTION-095.md) is looking for.
 answered_by:
-- THEORY-332
-- THEORY-333
-- THEORY-338
 - THEORY-344
-- THEORY-345
-- THEORY-348
-- THEORY-350
-- THEORY-356
-- THEORY-363
-- THEORY-364
-- THEORY-365
-- THEORY-369
-- THEORY-372
-- THEORY-374
-- THEORY-377
-- THEORY-378
-- THEORY-381
-- THEORY-382
 - THEORY-383
-- THEORY-386
-- THEORY-389
 refined_by:
 - QUESTION-194
 - QUESTION-224
 - QUESTION-227
 - QUESTION-230
 - QUESTION-238
+bearing:
+- THEORY-389
+- THEORY-386
+- THEORY-382
+- THEORY-381
+- THEORY-378
+- THEORY-377
+- THEORY-374
+- THEORY-372
+- THEORY-369
+- THEORY-365
+- THEORY-364
+- THEORY-363
+- THEORY-356
+- THEORY-350
+- THEORY-348
+- THEORY-345
+- THEORY-338
+- THEORY-333
+- THEORY-332
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; open claims cited as open, nothing here rests on their being settled -->
 

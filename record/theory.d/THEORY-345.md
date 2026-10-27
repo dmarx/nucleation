@@ -13,8 +13,6 @@ source:
 - LIT-1089
 - LIT-1084
 - LIT-1083
-answers:
-- QUESTION-114
 summary: >-
   Piatetsky-Shapiro (1983), [LIT-1089](../literature.d/LIT-1089.md), read in [NOTE-902](../notes.d/NOTE-902.md); Finkelstein,
   Schkolnick and Tiberio (1988), [LIT-1084](../literature.d/LIT-1084.md), read in [NOTE-898](../notes.d/NOTE-898.md);
@@ -28,6 +26,8 @@ summary: >-
   fixed workload: it prices upkeep against per-query savings, not a
   one-off build or sort against later lookups, and its optimality is
   relative to the optimizer's estimates, never to measured execution.
+bears_on:
+- QUESTION-114
 ---
 <!-- inactive-ok-file: LIT-1086 — Unavailable; named only to say what is not cited for the hardness -->
 

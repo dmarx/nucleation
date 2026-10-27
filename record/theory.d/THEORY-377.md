@@ -24,8 +24,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1109
-answers:
-- QUESTION-114
 extends:
 - THEORY-386
 summary: >-
@@ -39,6 +37,8 @@ summary: >-
   was allowed, except with a small cache. Convergence is argued from the
   balance condition only, all evidence is the authors' simulation, and there
   is no worst-case guarantee.
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-377: In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries tolerated imprecision, it cost less; that it converges to the best width is argued, not proved

@@ -43,10 +43,10 @@ summary: >-
   and the sample pairs, not from the positive-pair density ratio, and the
   stepwise growth seen in ResNets under SimCLR and VICReg is an experiment,
   not a consequence.
-answers:
-- QUESTION-039
 extended_by:
 - THEORY-793
+bears_on:
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-793 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-186 QUESTION-039 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->

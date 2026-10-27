@@ -19,8 +19,6 @@ date: '2026-10-20'
 line:
 - distributed-agency
 - formal-apparatus
-answers:
-- QUESTION-221
 grounds:
 - THEORY-733
 summary: >-
@@ -31,6 +29,8 @@ summary: >-
   order. It is about the block's full state, not its aggregate. For the
   aggregate, the block's own internal dynamics add a defect of their own
   ([CLAIM-386](CLAIM-386.md)).
+bears_on:
+- QUESTION-221
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose dependence this bounds, open -->
 # CLAIM-390: For a block of coordinates in a stable linear Gaussian VAR(1), dynamical dependence is at most ½ log det(I + Σ_YY⁻¹ A_YR C A_YRᵀ), with A_YR the coupling into the block and C the covariance of the rest given the block's present state, so it is of second order in the coupling into the block, whatever the coupling out of it

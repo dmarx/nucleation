@@ -91,7 +91,7 @@ summary: >-
   for this family of results.
 extends:
 - THEORY-007
-answers:
+bears_on:
 - QUESTION-052
 ---
 <!-- inactive-ok-file: QUESTION-141 — Open; the asymmetric-objective question this reading was narrowed away from, named as open -->

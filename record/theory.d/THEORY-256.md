@@ -43,10 +43,10 @@ summary: >-
   factored form before expansion. It does not show that the preference is
   architectural rather than a feature of training, a question the paper
   leaves open, and it varies neither the objective nor the data domain.
-answers:
-- QUESTION-060
 extended_by:
 - THEORY-808
+bears_on:
+- QUESTION-060
 ---
 <!-- inactive-ok-file: THEORY-808 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-274 — Proposed; accounts on the same question, open -->

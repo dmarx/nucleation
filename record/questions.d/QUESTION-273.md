@@ -38,7 +38,7 @@ summary: >-
   opportunities to modify a shared state, and separated nominal access,
   its use and its counterfactual effect. The owner took up the build from
   U37.
-answered_by:
+bearing:
 - THEORY-958
 ---
 <!-- inactive-ok-file: CLAIM-279 CLAIM-285 CLAIM-297 CLAIM-336 THEORY-925 — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->

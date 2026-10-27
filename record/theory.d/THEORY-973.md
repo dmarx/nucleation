@@ -27,8 +27,6 @@ tags:
 date: '2026-10-26'
 source:
 - LIT-1538
-answers:
-- QUESTION-039
 summary: >-
   Olsson et al. (2022), [LIT-1538](../literature.d/LIT-1538.md), read in [NOTE-1173](../notes.d/NOTE-1173.md): Arguments
   1–3 for the small attention-only series, with the smeared-key models.
@@ -40,6 +38,8 @@ summary: >-
   learning, which the score does not measure.
 extended_by:
 - THEORY-990
+bears_on:
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-990 THEORY-783 THEORY-039 — Proposed; the wider thesis and neighbouring accounts, cited as open -->
 # THEORY-973: In small attention-only transformer language models of two to six layers, in-context learning, measured as the loss at token 500 minus the loss at token 50, appears abruptly in one early window of training in which induction heads form, and ablating those heads at test time removes nearly all of it; one-layer models show neither, and letting a single layer attend by the previous token brings the jump to one-layer models and moves it earlier in two-layer ones

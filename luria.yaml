@@ -858,6 +858,14 @@ schemes:
         required: false
         many: true
         converse: answered_by
+      bears_on:
+        label: Bears on
+        blurb: a question of the record's own that this account is evidence for or against, or a premise
+          of, without answering it or a part it settles exactly; `answers` is for an answer (ADR-060)
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: bearing
       supports:
         label: Supports
         blurb: the record's own claims and arguments resting on this account, written by `luria link --fix`
@@ -996,6 +1004,14 @@ schemes:
         required: false
         many: true
         converse: answers
+      bearing:
+        label: Bearing on it
+        blurb: the claims and accounts that bear on this question without answering it, written by `luria
+          link --fix` from their `bears_on` (ADR-060)
+        scheme: [CLAIM, THEORY]
+        required: false
+        many: true
+        converse: bears_on
       superseded_by:
         scheme: QUESTION
         many: true
@@ -1034,6 +1050,14 @@ schemes:
         required: false
         many: true
         converse: answered_by
+      bears_on:
+        label: Bears on
+        blurb: a question this claim is evidence for or against, or a premise of, without answering it or
+          a part it settles exactly; `answers` is for an answer, held or offered (ADR-060)
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: bearing
       rests_on:
         label: Rests on
         blurb: another of the record's own claims this one could not stand without — the spine of the

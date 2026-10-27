@@ -10,8 +10,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-1151
-answers:
-- QUESTION-120
 summary: >-
   Alon and Klartag (2017), [LIT-1151](../literature.d/LIT-1151.md), read in [NOTE-929](../notes.d/NOTE-929.md) from arXiv v4.
   Theorem 1.2 answers, in a bipartite form, Larsen and Nelson's question
@@ -21,6 +19,8 @@ summary: >-
   subspace close to every scaled a_i. Conjecture 2.4, the same with norms
   O(1), is proved only for t of order n (Theorem 2.5). It is not an
   embedding of one point set and says nothing about distances.
+bears_on:
+- QUESTION-120
 ---
 
 # THEORY-393: Any two families of n vectors of norm at most 1 have images in ⌊C log(2 + ε²n)/ε²⌋ dimensions whose cross inner products ⟨x_i, y_j⟩ are each within an additive ε of the originals, found by a randomized polynomial-time algorithm, which for small ε is below the log n/ε² of the Johnson–Lindenstrauss lemma; only cross products are kept, the new vectors' norms are not bounded, and whether one set can be embedded that small is open

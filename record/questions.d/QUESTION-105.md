@@ -28,14 +28,14 @@ summary: >-
   from the exchange of 2026-10-14. [QUESTION-003](QUESTION-003.md) asks the same thing of a translation
   and a fixed family of communicative decisions. This asks it of an inquiry whose
   decisions are revisions.
-answered_by:
-- THEORY-362
-- THEORY-373
-- THEORY-387
 refined_by:
 - QUESTION-188
 - QUESTION-225
 - QUESTION-tmpiu50n
+bearing:
+- THEORY-387
+- THEORY-373
+- THEORY-362
 ---
 
 # QUESTION-105: What is the least an evolving inquiry must retain, beyond its current conclusions and a closed belief set, which do not fix its revisions, to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?

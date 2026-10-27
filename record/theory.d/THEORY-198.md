@@ -37,7 +37,7 @@ summary: >-
   of longer-range, many-spin and disorder-correlation terms as more
   information is kept is shown perturbatively for two-spin blocks of 1D
   chains only, and is monotonic only locally.
-answers:
+bears_on:
 - QUESTION-065
 ---
 <!-- inactive-ok-file: QUESTION-025 — Proposed or open; cited as the account this one underpins, a neighbour, and the question it does not answer -->

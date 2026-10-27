@@ -25,10 +25,10 @@ date: '2026-10-20'
 source:
 - LIT-1296
 - LIT-1249
-answers:
-- QUESTION-217
 summary: >-
   Schüler and Wiskott (2025), [LIT-1296](../literature.d/LIT-1296.md), read in full in [NOTE-1015](../notes.d/NOTE-1015.md). The ELBO of a dynamical VAE with prior N(z_{t−1}, I) and encoder N(g(x_t), I) is Σ E log p(x_t | z_t) − ½Σ‖g(x_{t−1}) − g(x_t)‖² − (T − 1)d/2, an exact identity. For linear Gaussian encoder and decoder on whitened input, the maximizer spans the bottom eigenvectors of the difference covariance with eigenvalue μ < 1, each scaled by (μ^{−1/2} − 1)^{1/2} and then rotated arbitrarily. So it recovers SFA's slow span, cut at lag-one autocorrelation ½, not SFA's features. On raw input it trades variance against slowness. It says nothing about nonlinear encoders, about predictive sufficiency, or about Turner and Sahani's model.
+bears_on:
+- QUESTION-217
 ---
 <!-- inactive-ok-file: LIT-1287 — Unavailable; the maximum-likelihood account this one is contrasted with, not read -->
 <!-- inactive-ok-file: CLAIM-331 THEORY-257 — Proposed; entries this bears on, nothing here rests on their being settled -->

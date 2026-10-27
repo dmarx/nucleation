@@ -11,8 +11,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1115
-answers:
-- QUESTION-114
 summary: >-
   Fagin, Lotem and Naor (2001; full version read as arXiv cs/0204046v1),
   [LIT-1115](../literature.d/LIT-1115.md), read in [NOTE-924](../notes.d/NOTE-924.md). The threshold algorithm reads m
@@ -28,6 +26,8 @@ summary: >-
 supports:
 - CLAIM-311
 - CLAIM-312
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-363: For finding the top k objects under a monotone combining function from m lists each sorted by one attribute, with sorted and random accesses the only costs, the threshold algorithm is correct and on every database costs at most a constant times what any correct algorithm that makes no wild guesses costs; the constant is m + m(m−1)c_R/c_S, no deterministic algorithm does better when the function is strict, and once wild guesses are allowed no algorithm has such a guarantee on databases with ties

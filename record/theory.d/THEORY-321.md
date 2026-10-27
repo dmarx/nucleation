@@ -46,10 +46,10 @@ summary: >-
   ignore repeated information, and only the first round is Bayesian. The
   result is in a model with fixed weights, independent signals and
   n → ∞. Speed of consensus and its correctness are independent.
-answers:
-- QUESTION-047
 supports:
 - CLAIM-453
+bears_on:
+- QUESTION-047
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 

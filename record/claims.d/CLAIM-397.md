@@ -30,8 +30,6 @@ date: '2026-10-20'
 line:
 - distributed-agency
 - formal-apparatus
-answers:
-- QUESTION-222
 grounds:
 - LIT-1307
 - THEORY-819
@@ -44,6 +42,8 @@ summary: >-
   so it cannot register dependence on the rest of the system.
 supports:
 - CLAIM-401
+bears_on:
+- QUESTION-222
 ---
 <!-- inactive-ok-file: NOTE-1029 — new reading, cited as where the result was derived -->
 

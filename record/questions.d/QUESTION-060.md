@@ -20,9 +20,7 @@ tags:
 date: '2026-10-12'
 line: 'learned-structure'
 answered_by:
-- THEORY-206
 - THEORY-241
-- THEORY-256
 - THEORY-274
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
@@ -32,6 +30,9 @@ summary: >-
 refined_by:
 - QUESTION-157
 - QUESTION-tmpxjw51
+bearing:
+- THEORY-256
+- THEORY-206
 ---
 <!-- inactive-ok-file: THEORY-241 THEORY-274 — Proposed; partial answers filed today, cited with their limits -->
 

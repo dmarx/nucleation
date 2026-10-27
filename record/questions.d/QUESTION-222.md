@@ -42,16 +42,17 @@ summary: >-
   them, and [CLAIM-327](../claims.d/CLAIM-327.md) already locates a collective in a variable members
   read from the past.
 answered_by:
-- CLAIM-389
-- THEORY-752
-- THEORY-760
-- THEORY-762
 - THEORY-818
-- THEORY-819
-- CLAIM-397
 refined_by:
 - QUESTION-248
 - QUESTION-tmpf2ohw
+bearing:
+- CLAIM-397
+- THEORY-819
+- THEORY-762
+- THEORY-760
+- THEORY-752
+- CLAIM-389
 ---
 <!-- inactive-ok-file: NOTE-1029 — new reading, cited as where CLAIM-397 was derived -->
 <!-- inactive-ok-file: THEORY-818 — Proposed; the Lorenz 96 finding, cited as partial -->

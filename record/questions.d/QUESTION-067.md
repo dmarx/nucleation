@@ -50,8 +50,6 @@ date: '2026-10-12'
 line: 'pragmatic-transport'
 refines:
 - QUESTION-001
-answered_by:
-- THEORY-315
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-009](../claims.d/CLAIM-009.md), [CLAIM-037](../claims.d/CLAIM-037.md),
@@ -62,6 +60,8 @@ summary: >-
   generalized kind applies, is open.
 refined_by:
 - QUESTION-246
+bearing:
+- THEORY-315
 ---
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

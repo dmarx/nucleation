@@ -21,8 +21,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1246
-answers:
-- QUESTION-217
 summary: >-
   Coifman and Lafon (2006), [LIT-1246](../literature.d/LIT-1246.md), read in full in [NOTE-985](../notes.d/NOTE-985.md).
   The identity D_t² = Σ λ_l^{2t}(ψ_l(x) − ψ_l(y))² is exact. The paper's
@@ -32,6 +30,8 @@ summary: >-
   coarsens with t only through the threshold. Finite sets, counting
   measure and reversible walks only. It says nothing about the manifold
   limit or about non-reversible chains.
+bears_on:
+- QUESTION-217
 ---
 <!-- inactive-ok-file: THEORY-744 — Proposed; the companion account of the α-family limit, open -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-186 — Proposed; accounts this is contrasted with, nothing here rests on their being settled -->

@@ -36,9 +36,6 @@ date: '2026-10-13'
 source:
 - LIT-1012
 - LIT-1013
-answers:
-- QUESTION-069
-- QUESTION-080
 summary: >-
   Ziyin, Li & Ueda ([LIT-1012](../literature.d/LIT-1012.md), read in [NOTE-714](../notes.d/NOTE-714.md)), with the gradient
   flow conservation law and the Itô term from Neural Mechanics
@@ -56,6 +53,9 @@ supports:
 - CLAIM-093
 extended_by:
 - THEORY-790
+bears_on:
+- QUESTION-080
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-790 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-108 QUESTION-080 — Proposed or Open; the accounts and question this one is set beside, open -->

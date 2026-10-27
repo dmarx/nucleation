@@ -32,7 +32,7 @@ summary: >-
   O(ln(m/β)/τ²·min{B, √(B ln(m/β))/τ}), is stated with its proof elsewhere.
   Statistical queries on a discrete universe only, and a procedure that
   prevents inflation, not a correction for a search already run.
-answers:
+bears_on:
 - QUESTION-040
 ---
 <!-- inactive-ok-file: NOTE-848 — Skimmed; the reading this rests on, of the Supplementary Material only -->

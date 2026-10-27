@@ -21,7 +21,7 @@ summary: >-
   spectral-radius quantity is a bound, not a branching ratio, and a
   bounded rate needs no bound on the kernels at all. Nothing is proved
   about cascade sizes or about what happens past the threshold.
-answers:
+bears_on:
 - QUESTION-091
 ---
 <!-- inactive-ok-file: LIT-1036 LIT-1028 — Unavailable, no lawful full text found; the linear results generalized here, as the source describes them -->

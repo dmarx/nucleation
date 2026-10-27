@@ -21,8 +21,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1114
-answers:
-- QUESTION-105
 summary: >-
   Gupta, Mumick and Subrahmanian (1993), [LIT-1114](../literature.d/LIT-1114.md), read in [NOTE-915](../notes.d/NOTE-915.md).
   Algorithm 4.1 evaluates delta rules in order of rule stratum and combines
@@ -32,6 +30,8 @@ summary: >-
   and is not measured. All three theorems are stated without proof in this
   extended abstract. It does not say that a count suffices when support is
   cyclic: the paper keeps counting to nonrecursive views.
+bears_on:
+- QUESTION-105
 ---
 
 # THEORY-362: For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations suffices to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, a tuple leaves when its count reaches zero, and a MIN or MAX group whose extreme is deleted is recomputed from the stored lower stratum

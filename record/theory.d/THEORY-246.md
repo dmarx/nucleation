@@ -24,8 +24,6 @@ tags:
 date: '2026-10-14'
 source:
 - LIT-1044
-answers:
-- QUESTION-051
 summary: >-
   Kornblith, Chen, Lee & Norouzi (2021), [LIT-1044](../literature.d/LIT-1044.md), read in
   [NOTE-762](../notes.d/NOTE-762.md). Across nine objectives for ResNet-50 on ImageNet,
@@ -39,6 +37,8 @@ summary: >-
   separation helps. Networks early-stopped near 92% training accuracy;
   one dataset; correlational across losses. Promoted 2026-10-20 on this
   one study (ADR-047 v3), narrowed to what it measured.
+bears_on:
+- QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-104 — Proposed; the statement of collapse it measures short of, the layer-wise account it is set against, and the MSE derivation it touches -->
 

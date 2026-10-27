@@ -32,13 +32,14 @@ summary: >-
 refined_by:
 - QUESTION-220
 answered_by:
-- THEORY-745
-- THEORY-746
-- THEORY-758
 - THEORY-759
-- THEORY-774
-- THEORY-775
+bearing:
 - CLAIM-394
+- THEORY-775
+- THEORY-774
+- THEORY-758
+- THEORY-746
+- THEORY-745
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->

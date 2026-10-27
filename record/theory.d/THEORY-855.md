@@ -22,8 +22,6 @@ tags:
 date: '2026-10-21'
 source:
 - LIT-1341
-answers:
-- QUESTION-047
 summary: >-
   Weatherall, O'Connor and Bruner (2020; arXiv 2018), [LIT-1341](../literature.d/LIT-1341.md), read in
   [NOTE-1038](../notes.d/NOTE-1038.md). No result is fabricated and no scientist is biased; the
@@ -33,6 +31,8 @@ summary: >-
   misled this way, nor that an audience aware of the selection would be.
 supports:
 - CLAIM-404
+bears_on:
+- QUESTION-047
 ---
 <!-- inactive-ok-file: CLAIM-404 THEORY-143 THEORY-146 — Proposed; the claim and accounts this model bears on, cited as open -->
 <!-- inactive-ok-file: LIT-751 — Unavailable; Holman and Bruner's unread model, named for contrast -->
