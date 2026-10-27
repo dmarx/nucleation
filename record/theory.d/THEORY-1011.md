@@ -174,7 +174,7 @@ At the owner's decision on the note above, this entry is Rejected. Its
 defining claim is that the middle layers causal tracing implicates are
 where a fact is stored, so that editing there succeeds and editing
 elsewhere does not. That claim met the refutation clause the entry wrote
-for itself: Hase et al. (LIT-1578, THEORY-1024) find edits of equal
+for itself: Hase et al. ([LIT-1578](../literature.d/LIT-1578.md), [THEORY-1024](THEORY-1024.md)) find edits of equal
 quality at layers tracing does not implicate.
 
 The entry was also inconsistent with itself, which is why it is split
@@ -182,13 +182,13 @@ rather than simply rejected. Its title includes Meng et al.'s conjecture
 that "any middle layer could store a given fact equally", and that
 conjecture predicts exactly the result the promote_when counted as a
 refutation. The conjecture is not refuted, and the source asserts it, so
-under ADR-047 (kind 1) it is filed as its own Proposed entry,
-THEORY-tmpanm57. Its promote_when carries over this entry's clean-input
+under [ADR-047](../decisions.d/ADR-047.md) (kind 1) it is filed as its own Proposed entry,
+[THEORY-tmpanm57](THEORY-tmpanm57.md). Its promote_when carries over this entry's clean-input
 ablation test and adds a control for edits that create an association
-wherever they are made (LIT-968). Hase et al.'s own account, that
-localizing and editing are different questions, stays THEORY-1026.
+wherever they are made ([LIT-968](../literature.d/LIT-968.md)). Hase et al.'s own account, that
+localizing and editing are different questions, stays [THEORY-1026](THEORY-1026.md).
 
-What stands from the paper is the measurement, THEORY-998: the traces and
+What stands from the paper is the measurement, [THEORY-998](THEORY-998.md): the traces and
 the edits as measured. Only the inference from them to localized storage
 is rejected.
 
