@@ -39,6 +39,7 @@ summary: >-
 illustrated_by:
 - CASE-098
 ---
+<!-- inactive-ok-file: LIT-1122 — Deferred; unread -->
 
 <!-- inactive-ok-file: LIT-1122 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-327: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
@@ -112,3 +113,24 @@ The claim is about slowly changing variables, so arm B does not cut
 against it. It says the test list should not read slowness as a
 requirement of endogeneity. [CLAIM-331](CLAIM-331.md)'s "slowness is a mark of a level
 and not its definition" says the same for levels.
+
+## Note of 2026-10-27: Flack 2017 read, and the third stage is not hers
+
+Flack's general statement (LIT-tmp08ht1, read in NOTE-tmp46li4;
+THEORY-tmp7ps0w) changes how this claim's attribution should be read. Stage
+two, members recognizing and using the variable, is what she calls apparent
+downward causation, with two refinements the claim lacks. Members condition
+on their own *estimate*, which may be wrong and need not be shared, and one
+member tuning is enough (§§1, 3). Stage one has no separate place: the
+variable is computed by the members from the start, "endogenous
+coarse-graining" (§2). Stage three, use regenerating the variable, is in
+neither of her lists of criteria (§1, §7). What reinforces itself in Flack is
+agreement among members' estimates: "positive feedback induced by the
+downward causation itself" (§3). And where the claim says only the third
+stage makes an endogenous level, Flack says use alone is weak downward
+causation, and a new level needs her strong criteria: predictive, robust,
+used nearly universally, agreed on, with rising micro–macro mutual
+information (§1). So the three stages are the exchange's synthesis of 2026-10-16,
+with regeneration where Flack has convergence. The claim's content may still
+be right; it is not Flack's. Flack 2012 (LIT-1122), which this paper defers
+to, stays unread.

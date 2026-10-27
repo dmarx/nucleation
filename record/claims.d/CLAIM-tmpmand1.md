@@ -215,3 +215,28 @@ on it.
   infomorphisms, when a distinction enacted in one apparatus can be carried
   faithfully into another, is the pragmatic-transport line's question in
   another vocabulary.
+
+## Note of 2026-10-27 (later): constructor theory and Rovelli read
+
+- **Deutsch and Marletto** (LIT-tmpp0mod, read in NOTE-tmpbcj9n) bear on
+  defeater (b). They individuate kinds of substrate modally, by which tasks
+  are possible on them: an information variable is a set of attributes whose
+  permutations and cloning are possible (THEORY-tmpc8ml4). Instantiating
+  information is "an exact, intrinsic property of the substrate" (§4). The
+  possibility facts doing the work are realized by no particular thing;
+  constructors, the realized part, are only ever approximate ("No perfect
+  constructors exist in nature", §2; THEORY-tmpkqzrf). That presses on
+  defeater (b), a constraint that individuates while realized by nothing,
+  without settling it: the work is at the level of kinds, and the paper
+  treats possibilities as laws of physics, not as specifications prior to
+  any realization. The claim should say whether a law of possibility counts
+  as something that realizes a constraint. A line the paper does not
+  develop is close to A10 §7's role-relativity: "Loops are excluded, because
+  a substrate on a loop is a constructor" (§2).
+- **Rovelli 1996** (LIT-tmp57r0s, read in NOTE-tmptc0hl; THEORY-tmpduhhr)
+  confirms the note above that relational quantum mechanics is
+  non-eliminative, and on its own text. Values are relational, and the
+  systems are assumed: "Assume that the world can be decomposed (possibly in
+  a variety of ways) in a collection of systems" (§III.A, p. 10), each
+  characterized by the questions that can be asked of it. "Characterized",
+  not "constituted".

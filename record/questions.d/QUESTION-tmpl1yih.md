@@ -22,6 +22,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
+<!-- inactive-ok-file: THEORY-tmpzaxy0 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-tmpcdunk LIT-tmpp5xml LIT-tmpj4ix1 LIT-tmpsa6iy — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-tmpmx2ql QUESTION-tmptrgg1 QUESTION-035 — Proposed or Open; neighbours cited as open -->
 
@@ -98,3 +99,25 @@ would end it, each shown separately. Then a case in which two of the three come
 apart, a form created but not stabilized or stabilized without any constitutive
 role, which would show that they are separate achievements and not one
 described three ways.
+
+## Note of 2026-10-27 (later): two readings
+
+- **Toner and Tu 1995 is a worked case of creation and stabilization coming
+  apart** (NOTE-tmpte6av). The αv − β|v|²v terms of their equation (1) are
+  the normal form ẋ = μx − x³: a local speed appears when α changes sign.
+  In two dimensions that bifurcation alone gives no persistent order; the
+  linearized theory loses long-range order for d ≤ 2, as the equilibrium XY
+  model does (p. 4). A separate mechanism, the convective nonlinearity,
+  stabilizes it (pp. 5–9; THEORY-tmpzaxy0, Proposed). The paper says nothing
+  about a constitutive role; its "birds" stay in scare quotes, which bears out
+  A14's caution.
+- **Ashwin et al. 2012 corrects the question's gloss of rate-induced
+  tipping** (NOTE-tmp429c3; THEORY-tmpksbqt). The attractor keeps its
+  existence, stability and basin at every frozen parameter (§3.2.2). What
+  bifurcates is "the ability to track the QSE" (p. 11), and the critical rate
+  depends on the distance to the threshold as much as on relaxation. But
+  "destroyed" is too strong: just below the critical rate the climate model
+  "returns to the QSE after a transient" (fig. 7a), and in §3.3 the
+  equilibrium is unique and globally stable. A form is lost for good only
+  where something lies past the threshold. And rate can preserve a form: "B-tipping
+  may be suppressed for fast enough variation of parameters" (p. 19).

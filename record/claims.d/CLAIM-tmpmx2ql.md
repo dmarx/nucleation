@@ -49,6 +49,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
+<!-- inactive-ok-file: THEORY-tmphciwc THEORY-tmp07o3p — Proposed; readings cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-331 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmp64okm LIT-tmpso7o9 LIT-tmp3ctj5 LIT-tmp08ht1 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
 
@@ -138,3 +139,28 @@ reflect a disparity in characteristic rates of change".
 - **Not new as mathematics.** Every step is a known result. The claim is the
   interpretation: that these results are one way structure is made, and that
   the making can run both ways.
+
+## Note of 2026-10-27 (later): three readings
+
+- **Flack 2017** (NOTE-tmp46li4; THEORY-tmphciwc) states the first half for
+  social systems. A much slower aggregate "effectively becomes the 'social'
+  environment" that components tune to "regardless of whether it actually
+  does a good job of summarizing the regularities" (§6). And a limit the
+  claim lacks: an aggregate that summarizes poorly will likely fail, and
+  "failure may just take longer if the time scale separation is very large".
+  The second half appears in her paper only as an open question (§5).
+- **Ashwin et al. 2012** (NOTE-tmp429c3; THEORY-tmp07o3p) state the window
+  outright: "only when the parameter variation is very slow with respect to
+  the slow variable and there are three timescales is tracking guaranteed"
+  (p. 16). Two sharpenings. The drift that counts is the attractor's in state
+  space, not the parameter's. And separation can be lost because the input
+  speeds up, with no mode slowing, a route the second half does not list.
+- **Toner and Tu 1995** (NOTE-tmpte6av; THEORY-tmprfjii) give a flock's case.
+  Speed fluctuations relax in a time of order 1/α and are dropped, and the
+  fixed speed then constrains the slow dynamics, which is the first half. The
+  slow modes left are the transverse velocity of a broken continuous symmetry
+  and the conserved density. Broken symmetry as a source of slowness is not
+  among A13's five mechanisms (the paper does not use the word "Goldstone";
+  that is the reading's). It is a sixth route to the second half: the ordered
+  phase makes its own slow modes. The scaling is hyperdiffusive (z = 6/5 in
+  two dimensions), not τ_k = 1/(Dk²).

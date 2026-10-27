@@ -93,3 +93,14 @@ Scheffer & Carpenter ([LIT-726](../literature.d/LIT-726.md)) review the theory a
   resilience is how large the basin is. Hysteresis and lasting shifts after
   a temporary push are evidence of more than one basin. Without that
   picture the test has nothing to detect ([ADR-029](../decisions.d/ADR-029.md)).
+
+## Note of 2026-10-27: a third route to abrupt change
+
+Ashwin et al. 2012 (LIT-tmpj4ix1, read in NOTE-tmp429c3) add a third route
+to abrupt change without alternative stable states, beside a stepwise driver
+and a threshold: a smooth but fast driver acting on a system with one
+globally stable equilibrium, tipping at a threshold "not associated with any
+basin boundary" (§3.3, p. 13). That supports this account's caution. Where
+the frozen system is bistable (their §4), an outcome that depends on the
+rate along one parameter path is a kind of history dependence, near what
+this account counts as diagnostic; the paper does not discuss evidence.
