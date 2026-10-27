@@ -302,9 +302,9 @@ Five works the infinite factorial HMM names were registered and read on
 one on the model's form.
 
 - **Item 1: the 8.97 is exact, and its reason is looser than stated.**
-  Teh, Görür and Ghahramani's stick-breaking construction, LIT-tmpfhqac
-  (NOTE-tmptxvho), gives the expected number of occupied features under a
-  truncation at K sticks in closed form (THEORY-tmphvhg6). At K = 16,
+  Teh, Görür and Ghahramani's stick-breaking construction, [LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md)
+  ([NOTE-tmptxvho](../notes.d/NOTE-tmptxvho.md)), gives the expected number of occupied features under a
+  truncation at K sticks in closed form ([THEORY-tmphvhg6](../theory.d/THEORY-tmphvhg6.md)). At K = 16,
   N = 12 and α = 3 it is 8.974, and a simulation of 200,000 draws gives
   8.969 ± 0.006; P(K_N > 16) = 0.0149 is confirmed; per employee the
   count is 2.97, not 3. Item 1 says that because the buffet "seldom needs
@@ -313,17 +313,17 @@ one on the model's form.
   not the same event: in 24% of draws at least one of them is occupied,
   and their expected number, 0.34, is exactly the gap 9.31 − 8.97. The
   conclusion "close" (3.6% short, against the finite model's 27%) stands.
-  At the same K = 16, the finite model (6.83, THEORY-999) and the
+  At the same K = 16, the finite model (6.83, [THEORY-999](../theory.d/THEORY-999.md)) and the
   truncated construction (8.97) are different priors, and T23's is the
   finite one.
 - **Item 3: "not by the data" holds with the activation fixed.**
-  Knowles and Ghahramani's infinite sparse factor analysis, LIT-tmpezspt
-  (NOTE-tmpmxqaw), has the same mask-times-value form as B and a. With the
+  Knowles and Ghahramani's infinite sparse factor analysis, [LIT-tmpezspt](../literature.d/LIT-tmpezspt.md)
+  ([NOTE-tmpmxqaw](../notes.d/NOTE-tmpmxqaw.md)), has the same mask-times-value form as B and a. With the
   value integrated out under its prior, the evidence of a data point for
   "active" is σ̂·exp(μ̂²/(2σ̂²)), and where the residual has no component
   along the loading it is σ̂ < 1: the data then favour "not held" over
   "held and unused", by a factor the prior on the value sets
-  (THEORY-tmpxim6p). So availability is told from activation by the data
+  ([THEORY-tmpxim6p](../theory.d/THEORY-tmpxim6p.md)). So availability is told from activation by the data
   as well, weakly and only through the prior on a. The paper's own
   recovered mask shows gaps where the value is zero. Item 4's "B_ck = 1
   with v_ck = 0 equals B_ck = 0" is the same identity and takes the same
@@ -333,22 +333,22 @@ one on the model's form.
   demonstration item 4 takes from the review, three of four main features
   coding an object's absence and three coding "slight differences in the
   locations", is first reported in the same words in Griffiths and
-  Ghahramani's NIPS paper, LIT-tmp3u0k8 (NOTE-tmpit34t), §3 and the
+  Ghahramani's NIPS paper, [LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md) ([NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md)), §3 and the
   caption of its Figure 3. The point stands on the original.
 - **The model per member is a factorial HMM.** With each B_ek a two-state
   chain, u_e = Σ_k B_ek a_ek W_k o + W_e^private o is, for one employee, a
   factorial hidden Markov model with K binary chains: Ghahramani and
-  Jordan, LIT-tmpkxifq (NOTE-tmp0rtz0), the parametric original that
-  LIT-1577 makes nonparametric. Two things follow. Given the outputs the
+  Jordan, [LIT-tmpkxifq](../literature.d/LIT-tmpkxifq.md) ([NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md)), the parametric original that
+  [LIT-1577](../literature.d/LIT-1577.md) makes nonparametric. Two things follow. Given the outputs the
   chains are coupled, which is how item 3's confounds arise. And exact
   inference costs O(TMK^{M+1}) for M chains of K states: at sixteen
   binary features, 16·2¹⁷ ≈ 2.1 million terms per employee per day. A fit
   needs the paper's structured variational approximation or a whole-chain
   sampler of the beam type (Van Gael, Saatci, Teh and Ghahramani,
-  LIT-tmp0oa8w, NOTE-tmp2597d), whose exactness is THEORY-tmp7bmmi. The
+  [LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md), [NOTE-tmp2597d](../notes.d/NOTE-tmp2597d.md)), whose exactness is [THEORY-tmp7bmmi](../theory.d/THEORY-tmp7bmmi.md). The
   case's sticky chains with weakly informative outputs are the regime that
   paper reports as hardest for single-site Gibbs sampling; its claim of
-  faster mixing is THEORY-tmptl00j, Proposed. The reading also corrects
+  faster mixing is [THEORY-tmptl00j](../theory.d/THEORY-tmptl00j.md), Proposed. The reading also corrects
   a footnote of Ghahramani and Jordan's: orthogonal features decouple the
   chains given an observation only under isotropic noise, not under any
   diagonal covariance.

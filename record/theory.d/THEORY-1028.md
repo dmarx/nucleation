@@ -108,9 +108,9 @@ for reasons attribution would show were not curves.
 "What this does not say" puts the circuit and the hand-written
 reimplementation "in a later article, not read". That article, *Curve
 Circuits*, was registered and read on 2026-10-27, at the owner's request ("file the next readings"), as
-LIT-tmpl1s2e (NOTE-tmphb6el). How these ten units are computed from
-mixed3a, the echo edit and the reimplementation are THEORY-tmp90225, a
+[LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md) ([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)). How these ten units are computed from
+mixed3a, the echo edit and the reimplementation are [THEORY-tmp90225](THEORY-tmp90225.md), a
 separate account that this one leaves to it. *An Overview of Early Vision
-in InceptionV1*, LIT-tmp6ii6u, read the same day, confirms that the family
-is 10 of mixed3b's 480 units (THEORY-tmpjdph0). Nothing in either
+in InceptionV1*, [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read the same day, confirms that the family
+is 10 of mixed3b's 480 units ([THEORY-tmpjdph0](THEORY-tmpjdph0.md)). Nothing in either
 contradicts what is measured here. The title and status are unchanged.

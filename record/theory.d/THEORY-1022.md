@@ -103,9 +103,9 @@ The promote_when above.
 
 "What the record holds toward it" says of the article that promises the
 mechanism: "That article is not held." It was registered and read on
-2026-10-27, at the owner's request ("file the next readings"), as *Curve Circuits*, LIT-tmpl1s2e
-(NOTE-tmphb6el). What it shows is THEORY-tmp90225, and the authors'
-claim of a simple, readable algorithm is THEORY-tmpxjvwo, Proposed.
+2026-10-27, at the owner's request ("file the next readings"), as *Curve Circuits*, [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)
+([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)). What it shows is [THEORY-tmp90225](THEORY-tmp90225.md), and the authors'
+claim of a simple, readable algorithm is [THEORY-tmpxjvwo](THEORY-tmpxjvwo.md), Proposed.
 
 Neither condition of the promote_when is met.
 
@@ -120,6 +120,6 @@ Neither condition of the promote_when is met.
   authors call preliminary. That is an intervention on accuracy, not one
   showing that downstream units read the curve units' output as curve
   evidence. The downstream use is described, not measured, and its
-  sentence names mixed3b groups as mixed4a's (NOTE-tmphb6el).
+  sentence names mixed3b groups as mixed4a's ([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)).
 
 The account stays Proposed. Its status and title are unchanged.

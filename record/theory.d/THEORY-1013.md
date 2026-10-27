@@ -134,10 +134,10 @@ it is not registered.
 The note above says that *An Overview of Early Vision in InceptionV1* "is
 not registered" and that *Curve Circuits* is not held. Both were
 registered and read on 2026-10-27, at the owner's request ("file the next readings"): Early Vision as
-LIT-tmp6ii6u (NOTE-tmpdmtd9) and Curve Circuits as LIT-tmpl1s2e
-(NOTE-tmphb6el).
+[LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md) ([NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md)) and Curve Circuits as [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)
+([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)).
 
-- **A denominator, not the criterion (THEORY-tmpjdph0).** Every one of the
+- **A denominator, not the criterion ([THEORY-tmpjdph0](THEORY-tmpjdph0.md)).** Every one of the
   1,056 units of conv2d0 to mixed3b is in exactly one of 77 groups (3, 8,
   14, 18 and 34 per layer). 391 units (37%) are in groups whose own
   captions call them catch-all, broad and not well defined,
@@ -147,18 +147,18 @@ LIT-tmp6ii6u (NOTE-tmpdmtd9) and Curve Circuits as LIT-tmpl1s2e
   (2.1%). The groups are sorted by eye, often after "a few minutes", so
   this is the fraction the promote_when asks for without the "stated
   criterion" it asks for. The authors' claim that such families are real
-  and recur across models is THEORY-tmpehpcu, Proposed.
-- **The seven arguments, for one family (THEORY-tmp90225).** Curve
+  and recur across models is [THEORY-tmpehpcu](THEORY-tmpehpcu.md), Proposed.
+- **The seven arguments, for one family ([THEORY-tmp90225](THEORY-tmp90225.md)).** Curve
   Circuits supplies the three Curve Detectors deferred: the implementing
   circuit, a downstream use (described, not measured) and the hand-written
-  reimplementation, compared by figures only. With THEORY-1028, all seven
+  reimplementation, compared by figures only. With [THEORY-1028](THEORY-1028.md), all seven
   of Zoom In's arguments are now held for the mixed3b curve family. All
   but one are qualitative. The exception is the echo edit: restricting
   the curve units' input to mixed3a's early curves with the negative
   weights removed brings back the 180° echo, and keeping them does not.
   That is one weight-level prediction tested by editing, of the kind the
   promote_when names. The authors' claim that the algorithm is simple and
-  can be read off the weights is THEORY-tmpxjvwo, Proposed.
+  can be read off the weights is [THEORY-tmpxjvwo](THEORY-tmpxjvwo.md), Proposed.
 
 **Why it stays Proposed.** One family in one model, one confirmed edit,
 and no layer-wide criterion. Early Vision's census says how much of the
