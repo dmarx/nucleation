@@ -9,7 +9,7 @@ tags:
 date: '2026-10-27'
 line: distributed-agency
 summary: >-
-  Jaksland's question ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), unread), as A6 §5B gave it at the
+  Jaksland's question ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), read in NOTE-tmpwiza2), as A6 §5B gave it at the
   owner's U6 request for "Rasmus Jaksland's thoughts", and as A9 §11 kept
   it against the exchange's own synthesis ("Jaksland's objection
   remains"). The record's block criterion ([CLAIM-157](../claims.d/CLAIM-157.md)) measures how far a

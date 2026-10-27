@@ -129,7 +129,7 @@ participate in producing those boundaries?**" This claim makes a verdict
 objective once its criterion is fixed; it is silent on whether the
 arrangement through which a system is probed is part of what makes the
 unit, which is [QUESTION-tmptrgg1](../questions.d/QUESTION-tmptrgg1.md)'s split of detected, maintained and
-constituted boundaries. And from Jaksland ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), unread): whether
+constituted boundaries. And from Jaksland ([LIT-tmpvh3kt](../literature.d/LIT-tmpvh3kt.md), read later the same day in NOTE-tmpwiza2): whether
 a unit the criterion passes is approximately independent or only
 approximately separable for its target, [QUESTION-tmpg3qms](../questions.d/QUESTION-tmpg3qms.md). A10 §2 restated
 the claim's point as "**Relativity to conditions does not entail
