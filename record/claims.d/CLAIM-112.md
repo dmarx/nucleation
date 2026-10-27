@@ -20,7 +20,6 @@ summary: >-
 supports:
 - CLAIM-247
 ---
-<!-- inactive-ok-file: CLAIM-046 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-112: The operational account does not say that meaning is nothing but observable behaviour, nor that no stable content exists because interpretation is context-dependent
 

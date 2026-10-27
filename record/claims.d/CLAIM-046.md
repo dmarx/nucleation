@@ -1,10 +1,20 @@
 ---
 number: 46
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpd81nk
 title: 'Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Held by the owner's ruling of 2026-10-27 on the first status
+    review (ADR-057), carrying out the promotion audit's decision of
+    2026-10-19 (record/promotion-audit/decisions/CLAIM-046.yaml). It
+    is the pragmatic-transport line's adopted method. No objection is
+    filed, its defeater is unmet, and two Active claims, CLAIM-247 and
+    CLAIM-253, already rested on it.
 role: thesis
 warrant: interpretive
 defeated_if: >-

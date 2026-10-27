@@ -28,7 +28,7 @@ summary: >-
   noncontextuality. Measurement noncontextuality alone is consistent with
   quantum theory.
 ---
-<!-- inactive-ok-file: QUESTION-067 CLAIM-044 CLAIM-046 CLAIM-142 — Proposed or Open; the theories, question and claims this reading bears on, open -->
+<!-- inactive-ok-file: QUESTION-067 CLAIM-044 CLAIM-142 — Proposed or Open; the theories, question and claims this reading bears on, open -->
 <!-- inactive-ok-file: NOTE-238 — Superseded; the seeding skim this reading replaces -->
 
 # NOTE-748: Spekkens — Contextuality for preparations, transformations, and unsharp measurements

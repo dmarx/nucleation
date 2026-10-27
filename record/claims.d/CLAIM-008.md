@@ -29,7 +29,7 @@ objected_by:
 - CLAIM-042
 ---
 <!-- ref::uses-file: TERM-032 — stated in "levels, as a hierarchy of latent representations", the definition current when this claim was written; it has since been superseded -->
-<!-- inactive-ok-file: CLAIM-042 CLAIM-046 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-032 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-008: The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones

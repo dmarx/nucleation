@@ -44,7 +44,7 @@ summary: >-
   noncontextuality theorems apply even to a prepare-measure scenario with
   no Bell-like constraint.
 ---
-<!-- inactive-ok-file: QUESTION-067 CLAIM-142 CLAIM-046 — Proposed or Open; the theories, question and claims this reading bears on, open -->
+<!-- inactive-ok-file: QUESTION-067 CLAIM-142 — Proposed or Open; the theories, question and claims this reading bears on, open -->
 
 # NOTE-737: Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inference
 

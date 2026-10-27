@@ -35,7 +35,7 @@ summary: >-
   realist reading is wrong.
 ---
 <!-- inactive-ok-file: CLAIM-139 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-046 CLAIM-038 CLAIM-142 CLAIM-115 — Proposed; the operational theses compared, the claim that names the change and the manuscript's thesis, open -->
+<!-- inactive-ok-file: CLAIM-038 CLAIM-142 CLAIM-115 — Proposed; the operational theses compared, the claim that names the change and the manuscript's thesis, open -->
 
 # CLAIM-247: The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record
 

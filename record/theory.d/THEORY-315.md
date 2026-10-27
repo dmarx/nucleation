@@ -37,7 +37,7 @@ summary: >-
 answers:
 - QUESTION-067
 ---
-<!-- inactive-ok-file: THEORY-010 CLAIM-009 CLAIM-037 CLAIM-044 CLAIM-142 CLAIM-046 — Proposed; theories and claims this account bears on, open -->
+<!-- inactive-ok-file: THEORY-010 CLAIM-009 CLAIM-037 CLAIM-044 CLAIM-142 — Proposed; theories and claims this account bears on, open -->
 
 # THEORY-315: For a state whose four-state reflection orbit is realizable, generalized noncontextuality bounds two binary predictabilities by |⟨X⟩| + |⟨Z⟩| ≤ 1, so the form of a predictability trade-off, not its existence, can witness contextuality
 

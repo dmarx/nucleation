@@ -3,8 +3,22 @@ number: 217
 status: Proposed
 formerly:
 - CLAIM-tmpawn12
-title: 'For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play, so the judges are the criterion a probe family is tested against, and a kind outruns only the families coarser than that standard'
-version: 1
+title: 'For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act's other constituents diverge from the judges' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Concedes CLAIM-241, held on 2026-10-27 at the owner's ruling on
+    the first status review (ADR-057), carrying out the promotion
+    audit's decision
+    (record/promotion-audit/decisions/CLAIM-241.yaml). Step 3's
+    standard is defeasible: partial constitution gives uptake a vote,
+    not the last word, and the verdicts can be wrong where the act's
+    other constituents diverge from them. The title and the reply to
+    the first horn are qualified to match. The interlocutor's reading
+    of 2026-10-12 had advised the same weakening. Version 1 made the
+    judges the criterion.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,7 +51,9 @@ summary: >-
   [CLAIM-247](CLAIM-247.md) found missing. Calling a probe family insufficient
   ([CLAIM-142](CLAIM-142.md), [CLAIM-135](CLAIM-135.md)) presupposes a standard beyond it. For an act
   partly constituted by uptake ([CLAIM-151](CLAIM-151.md)), competent participants'
-  uptake is that standard. The kind's extension is the class the
+  uptake is that standard, and since version 2 a defeasible one: CLAIM-241
+  is conceded, so the verdicts yield where the act's other constituents
+  diverge from them. The kind's extension is the class the
   standard fixes, and analysts' families are insufficient when coarser.
   No test needs a kind that outruns every family. A proposal, resting on
   a Proposed premise. It does not touch [CLAIM-139](CLAIM-139.md)'s ontological clause,
@@ -48,11 +64,11 @@ objected_by:
 - CLAIM-241
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-046 CLAIM-135 CLAIM-139 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-139 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->
 <!-- inactive-ok-file: CLAIM-206 — Proposed; the objection this entry answers, left open until the owner decides on the revised October thesis -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-204 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-217: For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play, so the judges are the criterion a probe family is tested against, and a kind outruns only the families coarser than that standard
+# CLAIM-217: For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play: a defeasible standard, overridden only where the act's other constituents diverge from the judges' verdicts, so a probe family is tested against it, and a kind outruns the families coarser than that standard and the judges only through those constituents
 
 ## The claim
 
@@ -78,9 +94,14 @@ The argument has four steps.
    was teasing or reprimand is then partly fixed by how competent
    participants, who know who is speaking to whom and under what norms, take
    it. Their same-act verdicts are not one more probe of a fact fixed
-   elsewhere. They are part of what makes the fact. So the judges, when they
-   are such participants and know the standings in play, are the criterion
-   a probe family is tested against.
+   elsewhere. They are part of what makes the fact, and so are the
+   standings and the norms. So the judges, when they are such participants
+   and know the standings in play, are the standard a probe family is
+   tested against. The standard is defeasible: where the act's other
+   constituents, such as its institutional conditions, diverge from how
+   even informed participants take it, the verdicts are wrong about the act
+   (CLAIM-241, conceded in version 2). Partial constitution gives uptake a
+   vote, not the last word.
 4. **Hence the tests.** Analysts' relational probes (factorizations,
    signatures, response profiles) are checked against the standard's
    verdicts. A family is sufficient for a kind when it separates what the
@@ -88,10 +109,14 @@ The argument has four steps.
    [CLAIM-142](CLAIM-142.md), restated in version 2, and [CLAIM-129](CLAIM-129.md) test. [QUESTION-031](../questions.d/QUESTION-031.md) asks
    when a family is rich enough; this says rich enough relative to what.
 
-**The first horn fails.** It supposed a kind that might outrun the judges as
-it outruns any other family. On step 3, competent uptake is not a family the
-kind can outrun, because it is partly constitutive of the kind. The judges'
-verdicts can therefore confirm and defeat claims about kinds.
+**The first horn fails, in a qualified form.** It supposed a kind that might
+outrun the judges as it outruns any other family. On step 3, competent uptake
+is not a family like the others, because it is partly constitutive of the
+kind. The kind can outrun it only through the act's other constituents, the
+standings and norms, and those are themselves open to inquiry: an
+institution's records say who could reprimand whom. So the judges' verdicts
+can confirm and defeat claims about kinds, except where a divergence in
+those constituents is shown, and then that showing decides.
 
 **The second horn is granted and disarmed.** In the tests the kind's
 extension is the class the standard fixes. That is an observational class

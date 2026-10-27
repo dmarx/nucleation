@@ -1,10 +1,10 @@
 ---
 number: 328
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6gp8d
 title: 'When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -12,6 +12,15 @@ history:
     Note of 2026-10-27 added, from the exchange "About the Chagossians":
     USIP as a second documented case of the respects separating, though
     not yet of plural succession. The claim is unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Held by the owner's ruling of 2026-10-27 on the first status
+    review (ADR-057), carrying out the promotion audit's decision of
+    2026-10-19 (record/promotion-audit/decisions/CLAIM-328.yaml). It
+    is an existence claim, and CASE-105 (Active, documented) is a case
+    of it. No objection is filed. Which successor relation is
+    persistence stays QUESTION-118's.
 role: thesis
 warrant: interpretive
 defeated_if: >-
