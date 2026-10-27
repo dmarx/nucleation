@@ -14,7 +14,6 @@ date: '2026-10-10'
 line: 'pragmatic-transport'
 grounds:
 - THEORY-032
-- THEORY-038
 - LIT-222
 complements:
 - CLAIM-151
@@ -141,3 +140,7 @@ specifications, "Mathematical satisfaction is not physical production."
 The three claims filed from the exchange that go past the guard
 ([CLAIM-477](CLAIM-477.md), [CLAIM-476](CLAIM-476.md), [CLAIM-472](CLAIM-472.md)) each name it among what
 they do not say. Nothing here changes.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) removed THEORY-038 from `grounds`. It is cited for the categorial point it shares with THEORY-032. That point, and Lam and Wüthrich's matching conclusion, are carried by THEORY-032 and LIT-222, both already grounds. The body citation stays.

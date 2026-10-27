@@ -68,7 +68,7 @@ summary: >-
   Fisher spectrum in this regime.
 presupposes:
 - THEORY-086
-supports:
+corroborates:
 - CLAIM-164
 ---
 <!-- inactive-ok-file: THEORY-019 THEORY-078 THEORY-080 — Proposed; THEORY-019 is extended and this account is no firmer than it, the others are named in Connections -->

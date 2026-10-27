@@ -38,7 +38,6 @@ rivals:
 - THEORY-208
 - THEORY-616
 supports:
-- CLAIM-234
 - CLAIM-068
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->

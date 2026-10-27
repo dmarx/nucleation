@@ -29,9 +29,6 @@ tags:
 - philosophy-of-language
 date: '2026-10-10'
 line: pragmatic-transport
-rests_on:
-- CLAIM-087
-- CLAIM-081
 grounds:
 - THEORY-tmp5sao6
 - THEORY-176
@@ -51,6 +48,10 @@ summary: >-
   of [CLAIM-050](CLAIM-050.md)'s defeat condition, not its letter. It is distinct from
   [CLAIM-140](CLAIM-140.md), which sets the analyst against the receiver: this sets the
   ideal receiver against an actual one.
+rests_on:
+- CLAIM-270
+supports:
+- CLAIM-087
 ---
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-087 CLAIM-081 CLAIM-076 — Proposed; the improvement, legibility and cross-modal claims this objection rests on or cites, open -->
@@ -174,3 +175,7 @@ garbling never helps a decision-maker free to choose any rule. Both hold
 on any outcome spaces, with the proof written out there. THEORY-156's
 general converse, which stays Proposed, is not used. Quotations of
 THEORY-156 above are of the definitions it states.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) removed `rests_on: CLAIM-087`. The dilemma holds whatever CLAIM-087's truth ("It does not say CLAIM-087 is false"), and CLAIM-087's garbling bound uses this claim's result, so the dependence runs the other way and CLAIM-087 now rests on this claim. `rests_on: CLAIM-081` is now CLAIM-270 (Active, demonstrated): "A state can become more conventional, and easier to read, while carrying less information about its origin", the point this claim uses.

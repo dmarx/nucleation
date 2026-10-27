@@ -85,7 +85,6 @@ summary: >-
 supports:
 - CLAIM-137
 - CLAIM-139
-- CLAIM-226
 - CLAIM-204
 - CLAIM-217
 objected_by:

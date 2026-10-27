@@ -24,7 +24,6 @@ summary: >-
   consequence for fidelity. Apparently dropped by inadvertence.
 supports:
 - CLAIM-049
-- CLAIM-226
 - CLAIM-244
 - CLAIM-258
 ---

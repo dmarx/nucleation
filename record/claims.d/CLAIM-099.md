@@ -28,13 +28,13 @@ summary: >-
   [CLAIM-079](CLAIM-079.md) and [CLAIM-025](CLAIM-025.md). The audit's "strong conditional
   argument". Canguilhem interprets it ([CLAIM-018](CLAIM-018.md)) and is deliberately
   not a premise.
-grounds:
-- THEORY-153
 illustrated_by:
 - CASE-111
 supports:
 - CLAIM-344
 - CLAIM-462
+corroborated_by:
+- THEORY-153
 ---
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-018 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -55,3 +55,7 @@ will-organization ([TERM-023](../terms.d/TERM-023.md)) ([CLAIM-022](CLAIM-022.md
 ## Note of 2026-10-12: evidence now linked
 
 [THEORY-153](../theory.d/THEORY-153.md) (Beer) now grounds this claim. Without the metasystem's foresight function, operational control and identity collapse into each other, leaving a system that can only react. The evidence is Beer's own consultancy.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) moved THEORY-153 from `grounds` to `corroborated_by`. Beer's account is an outside echo of the claim, which ARG-007 (Active) concludes from CLAIM-079 and CLAIM-025.

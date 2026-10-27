@@ -3,8 +3,8 @@ number: 118
 status: Open
 formerly:
 - QUESTION-tmpn78rt
-title: 'When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and how is the question settled when several later collectives each continue it in a different respect?'
-version: 3
+title: 'When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and when several later collectives each continue it in a different respect, which successor relation, if any, is its persistence?'
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
@@ -18,6 +18,14 @@ history:
     the owner's connection of plural continuation to the record's
     structural realism, A4's directed family of continuation relations,
     and the cases that test it. The question is unchanged.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. Whether
+    several later collectives can each be a successor in a different
+    respect without identity branching is QUESTION-tmpmmgls, Answered by
+    CLAIM-328. This question keeps the criterion of persistence, and which
+    successor relation, if any, is persistence.
 tags:
 - individuation
 - social-ontology
@@ -33,12 +41,12 @@ summary: >-
   since "any causal descendant" is too much. An answer gives a criterion
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
-answered_by:
-- CLAIM-328
+refined_by:
+- QUESTION-tmpmmgls
 ---
 
 <!-- inactive-ok-file: LIT-1124 LIT-1141 LIT-1144 THEORY-221 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-# QUESTION-118: When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and how is the question settled when several later collectives each continue it in a different respect?
+# QUESTION-118: When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and when several later collectives each continue it in a different respect, which successor relation, if any, is its persistence?
 
 ## Why it is a question
 
@@ -150,3 +158,13 @@ remain?", which "may actually be more empirically tractable", since
 "Destructive interventions can reveal causal dependencies that normal
 functioning conceals." The cases are [CASE-169](../cases.d/CASE-169.md), [CASE-172](../cases.d/CASE-172.md) and
 [CASE-176](../cases.d/CASE-176.md).
+
+## Note of 2026-10-27: the possibility of plural succession split off
+
+The status review of this date split this question under ADR-049. Whether
+several later collectives can each be a genuine successor in a different
+respect without numerical identity branching is QUESTION-tmpmmgls,
+Answered by CLAIM-328 on the Senators (CASE-105). This question keeps
+what is still open: what must stay causally continuous for persistence,
+and, when the respects separate, which successor relation, if any, is the
+earlier collective persisting.

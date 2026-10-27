@@ -16,7 +16,6 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-121
 - CLAIM-070
-- CLAIM-077
 objects_to:
 - CLAIM-125
 - CLAIM-005
@@ -32,6 +31,8 @@ summary: >-
   target, the constant kernel makes D_obs zero and satisfies naturality.
   Granted, because it is elementary. It does not say [CLAIM-121](CLAIM-121.md) or
   [CLAIM-070](CLAIM-070.md) is false; it bears on what they are used to support.
+complements:
+- CLAIM-077
 ---
 <!-- inactive-ok-file: CLAIM-125 CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition that would exclude the constant kernel, which the manuscript lacks -->
@@ -142,3 +143,7 @@ choice of kernel.
   derivation from T(v | u).
 - It does not say anyone proposes the constant kernel. It says nothing in
   the propositions, or in D_obs as the manuscript states it, excludes it.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) changed `rests_on: CLAIM-077` to `complements`. The proof uses CLAIM-121, CLAIM-070 and arithmetic. CLAIM-077 is cited as the admissibility condition the manuscript lacks, which would exclude the constant kernel.

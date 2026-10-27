@@ -22,9 +22,6 @@ tags:
 - translation
 date: '2026-10-10'
 line: pragmatic-transport
-rests_on:
-- CLAIM-074
-- CLAIM-151
 grounds:
 - CASE-026
 - CASE-042
@@ -112,3 +109,7 @@ receiver a bilingual, who is not the target-language reader [CLAIM-115](CLAIM-11
   matched communities on the two sides.
 - For historical sources, a statement that the source term is a modern
   reading, and a fidelity claim scoped to it.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) removed `rests_on` CLAIM-074 and CLAIM-151. The objection cites them as the line's own commitments, which the pooled tests are inconsistent with, not as premises it asserts. Its other two parts stand on CASE-026 and CASE-042.

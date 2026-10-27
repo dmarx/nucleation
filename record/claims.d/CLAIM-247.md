@@ -15,7 +15,6 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-046
 - CLAIM-112
-- CLAIM-038
 objects_to:
 - CLAIM-139
 uses:
@@ -33,6 +32,8 @@ summary: >-
   change and [CLAIM-142](CLAIM-142.md) names it in one sentence; no claim records it as
   unargued. Granted: it is a comparison of texts. It does not say the
   realist reading is wrong.
+complements:
+- CLAIM-038
 ---
 <!-- inactive-ok-file: CLAIM-139 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-038 CLAIM-142 CLAIM-115 — Proposed; the operational theses compared, the claim that names the change and the manuscript's thesis, open -->
@@ -85,8 +86,8 @@ rival. [CLAIM-139](CLAIM-139.md) quotes A214 §13: "A traditional ontology
 of intrinsically individuated objects plus relational properties might
 reproduce the same statistical predictions."
 
-Both stances stand. [CLAIM-038](CLAIM-038.md) and [CLAIM-046](CLAIM-046.md) are Proposed theses,
-[CLAIM-112](CLAIM-112.md) is Active, [CLAIM-139](CLAIM-139.md) is Proposed, and [TERM-014](../terms.d/TERM-014.md), [TERM-042](../terms.d/TERM-042.md) and
+Both stances stand. [CLAIM-038](CLAIM-038.md) is a Proposed thesis, [CLAIM-046](CLAIM-046.md) has been
+Active since 2026-10-27, [CLAIM-112](CLAIM-112.md) is Active, [CLAIM-139](CLAIM-139.md) is Proposed, and [TERM-014](../terms.d/TERM-014.md), [TERM-042](../terms.d/TERM-042.md) and
 [TERM-040](../terms.d/TERM-040.md) are all Active. No claim says which bearer the line now holds, and
 [CLAIM-115](CLAIM-115.md), the manuscript's thesis, uses no TERM for it.
 
@@ -98,3 +99,7 @@ is one coherent reconciliation. It says the change from one bearer to the
 other happened between A203 and A218 without an argument, as [CLAIM-140](CLAIM-140.md)
 says of the receiver, and that the record keeps both without saying which
 is the line's.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) changed `rests_on: CLAIM-038` to `complements`. The claim compares texts, and needs only that the operational stance was stated. CLAIM-046, on which the stance's first half rests, is Active since 2026-10-27.

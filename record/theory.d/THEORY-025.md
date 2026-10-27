@@ -38,8 +38,9 @@ summary: >-
   proposal. The resourcist reply (Pogge) is not held, and the claim does
   not say capabilities are the right replacement.
 supports:
-- CLAIM-060
 - CLAIM-352
+corroborates:
+- CLAIM-060
 ---
 <!-- inactive-ok-file: THEORY-411 — Proposed; named in Connections as the positive structure, nothing here rests on it -->
 

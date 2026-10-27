@@ -15,7 +15,6 @@ line: pragmatic-transport
 works:
 - what-survives-translation
 grounds:
-- THEORY-159
 - LIT-774
 objects_to:
 - CLAIM-082
@@ -56,3 +55,7 @@ The last paragraph overreaches ([CLAIM-254](CLAIM-254.md)). Value is fixed withi
 language state and is a fact of *langue*, so the manuscript's observables,
 facts of use, track a use-level counterpart ([CLAIM-242](CLAIM-242.md)), not Saussure's
 value. The correction above stands, and the paragraph is left as written.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) removed THEORY-159 from `grounds`. The claim is a reading of what Saussure says, and it stands on LIT-774 (read in NOTE-594), already a ground. THEORY-159's linguistic thesis is not used. The body citation stays.

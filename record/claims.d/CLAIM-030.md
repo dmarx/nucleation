@@ -31,11 +31,9 @@ tags:
 date: '2026-10-04'
 line: distributed-agency
 grounds:
-- THEORY-140
-- THEORY-144
+- CASE-138
 - THEORY-725
 - THEORY-127
-- THEORY-139
 illustrated_by:
 - CASE-006
 - CASE-025
@@ -51,6 +49,9 @@ supports:
 - CLAIM-271
 complements:
 - CLAIM-332
+corroborated_by:
+- THEORY-144
+- THEORY-140
 ---
 <!-- inactive-ok-file: THEORY-140 THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
@@ -101,3 +102,7 @@ sets do. That the failure is general, so that no proposition-wise rule
 meeting the usual conditions is robustly rational, is [THEORY-127](../theory.d/THEORY-127.md)'s, and it
 remains Proposed because the source cites it without proof. Nothing here
 depends on it.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) moved THEORY-140 and THEORY-144 from `grounds` to `corroborated_by`. Both are cited for an organization's course moving through mechanisms no member intended, not for their general causal theses. CASE-138 (Active, documented) now grounds the claim with the Columbia board's finding. THEORY-139 is removed, because THEORY-725 and THEORY-127, both Active and already grounds, carry what it was cited for. THEORY-127 is Active, and earlier notes here that call it Proposed predate that.

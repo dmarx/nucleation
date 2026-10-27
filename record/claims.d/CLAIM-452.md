@@ -30,8 +30,6 @@ date: '2026-10-25'
 line:
 - formal-apparatus
 - distributed-agency
-rests_on:
-- CLAIM-444
 grounds:
 - CASE-159
 - THEORY-956
@@ -50,6 +48,8 @@ summary: >-
   contexts. It is a condition checkable before any data, which is what
   [QUESTION-031](../questions.d/QUESTION-031.md) asks for; none of the three works read on 2026-10-25 states
   it.
+complements:
+- CLAIM-444
 ---
 
 # CLAIM-452: For an organization whose response in each probe context is the authority-weighted mixture of its processes' known response profiles, the authority shares are identifiable from a set of contexts exactly when the processes' stacked profiles over those contexts are affinely independent; because the response is linear in the shares, local and global identifiability coincide, the condition is that the Fisher information of any design supported on those contexts is positive definite on the simplex's tangent space, and with binary outcomes at least one context fewer than there are processes is needed
@@ -117,3 +117,7 @@ it leaves out do not.
 - **Not beyond the mixture.** If the organization's response is not the
   authority-weighted mixture, as when legibility keeps memory
   ([CLAIM-444](CLAIM-444.md)'s conditions), the condition is for the null model only.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) changed `rests_on: CLAIM-444` to `complements`. The theorem takes the authority-weighted mixture as its hypothesis, stated by CASE-159 (Active, a ground), and its proof does not use CLAIM-444's claim that the replicator reduction is the right null model.

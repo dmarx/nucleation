@@ -16,8 +16,8 @@ line:
 rests_on:
 - CLAIM-333
 grounds:
+- LIT-1170
 - THEORY-704
-- THEORY-703
 uses:
 - TERM-058
 summary: >-
@@ -75,3 +75,7 @@ compared.
 - That Seth's measure is wrong. It is a measure of prediction, as stated.
 - Anything about ΦID's downward-causation atom D⁽ᵏ⁾, whose interventional
   reading has its own conditions ([NOTE-010](../notes.d/NOTE-010.md), C4).
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) replaced `grounds: THEORY-703` with Seth's paper itself, LIT-1170 (read in full in NOTE-935). The claim quotes Seth's definitions and label. THEORY-703's contested part, that G-emergence tracks weak emergence, is not used.

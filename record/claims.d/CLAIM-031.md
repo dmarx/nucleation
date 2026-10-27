@@ -21,7 +21,7 @@ summary: >-
   metric formulation obscured". The manuscript keeps the bound and a
   soft form of the limit (§8: invariants, decision risks and
   compatibility structures "need not coincide").
-grounds:
+corroborated_by:
 - THEORY-203
 ---
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -50,3 +50,7 @@ sharpen, or appear) did not reach the manuscript.
 ## Note of 2026-10-12: evidence now linked
 
 [THEORY-203](../theory.d/THEORY-203.md) now grounds this claim, weakly. Changes come in blocks set by the depth of the latent that changed. The THEORY itself says it is not evidence that text is hierarchical, so the support holds only where that assumption does.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) moved THEORY-203 from `grounds` to `corroborated_by`. This granted point is A75's, and the RHM result is weak corroboration only where its assumption holds, as the claim's own note says.

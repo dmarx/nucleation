@@ -45,8 +45,6 @@ summary: >-
 objected_by:
 - CLAIM-011
 - CLAIM-253
-supports:
-- ARG-006
 illustrated_by:
 - CASE-022
 - CASE-017

@@ -74,7 +74,6 @@ presupposed_by:
 - THEORY-079
 supports:
 - CLAIM-188
-- CLAIM-305
 - CLAIM-450
 ---
 <!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as where the singular theorems are proved, nothing here rests on reading it -->

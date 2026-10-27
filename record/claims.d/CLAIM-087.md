@@ -53,9 +53,8 @@ complements:
 - CLAIM-199
 objected_by:
 - CLAIM-238
-supports:
+rests_on:
 - CLAIM-225
-- CLAIM-256
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-199 — Proposed; the reconciliation this restatement follows, cited as open -->
@@ -106,3 +105,7 @@ text-only baseline", which is what the condition measures. The bound in
 the last clause still scopes it: the improvement is for a given receiver
 ([CLAIM-199](CLAIM-199.md)), never past what an ideal receiver could do ([CLAIM-225](CLAIM-225.md)). The
 warrant stays interpretive, because no chain has been run.
+
+## Note of 2026-10-27: rests on CLAIM-225
+
+The status review of this date (ADR-057) found the dependence the body's note on a cycle worried about running one way only. CLAIM-225 does not need this claim, and its dilemma holds either way. This claim's garbling bound uses CLAIM-225's result, so it now rests on CLAIM-225.

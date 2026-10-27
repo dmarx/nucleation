@@ -48,7 +48,6 @@ answers:
 - QUESTION-070
 - QUESTION-049
 supports:
-- CLAIM-030
 - CLAIM-271
 - CLAIM-432
 ---

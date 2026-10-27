@@ -15,11 +15,6 @@ tags:
 - ethics
 date: '2026-10-04'
 line: distributed-agency
-grounds:
-- THEORY-150
-- THEORY-025
-- THEORY-135
-- THEORY-141
 summary: >-
   The owner's thread at U37 and U39: corporations trample human wellbeing
   though made of humans; and cancer, autoimmunity and ecosystem collapse
@@ -29,7 +24,12 @@ complements:
 - CLAIM-351
 supports:
 - CLAIM-348
-illustrated_by:
+corroborated_by:
+- THEORY-141
+- THEORY-135
+- THEORY-025
+- THEORY-150
+grounds:
 - CASE-172
 ---
 <!-- inactive-ok-file: THEORY-025 THEORY-150 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -77,3 +77,6 @@ measure shows no burden while each constituent demand is unmet. That is
 [CLAIM-351](CLAIM-351.md). A33's own caution: "the analogy must not be taken as a claim
 that learning objectives have interests or rights."
 
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) moved its four readings from `grounds` to `corroborated_by`. Each supplies an instance of the non-entailment (a platform profiting by abusing its users, cancer-like cheating, defectors undoing a collective, outcomes against opportunities), and the claim uses none of their general theses. CASE-172 (Active, documented) moves from `illustrated_by` to `grounds`, because its success described at one level and losses borne by the programs is the forward direction documented.

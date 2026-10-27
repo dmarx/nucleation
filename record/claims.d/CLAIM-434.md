@@ -20,7 +20,6 @@ line:
 - formal-apparatus
 - organizational-affect
 grounds:
-- THEORY-896
 - THEORY-894
 summary: >-
   The formal core of the rename of 2026-10-23 from "ascendancy" to
@@ -39,6 +38,8 @@ uses:
 - TERM-077
 supports:
 - CLAIM-451
+corroborated_by:
+- THEORY-896
 ---
 <!-- inactive-ok-file: THEORY-896 TERM-076 — Proposed; the second-hand reading of Monderer and Shapley and the term this claim underwrites, cited as open -->
 <!-- inactive-ok-file: LIT-1462 — Unavailable, no lawful copy reached; Monderer and Shapley, whose lemma part 1 proves for itself -->
@@ -182,3 +183,7 @@ Agreement of a selected ordering is scored on held-out contests.
   potential at all ([CLAIM-436](CLAIM-436.md)), so the term is read ordinally there.
   [CLAIM-369](CLAIM-369.md) makes the same point for population dynamics: which part of a
   flow counts as gradient depends on a chosen metric.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date (ADR-057, ADR-058) moved THEORY-896 from `grounds` to `corroborated_by`. Part 1 is proved here in full, "proved here because their paper is unread". Monderer and Shapley's general result corroborates it, and the proof does not use it.

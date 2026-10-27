@@ -34,7 +34,7 @@ summary: >-
   forbids is named.
 answers:
 - QUESTION-054
-supports:
+corroborates:
 - CLAIM-099
 ---
 <!-- inactive-ok-file: LIT-746 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
