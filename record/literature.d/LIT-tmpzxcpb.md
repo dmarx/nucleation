@@ -1,0 +1,38 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-27, not read. Registered in the second pass on the exchange of 2026-10-27, "Repository coverage assessment", at the owner's request to find what it mentioned and did not cite (second curation entry of 2026-10-27). No NOTE is filed.
+title: 'Chromatophore Genome Sequence of Paulinella Sheds Light on Acquisition of Photosynthesis by Eukaryotes'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed on 2026-10-27, and Crossref searched for a preprint under the title. `published:` is 2008-03-25, the issue date PubMed gives; Crossref gives only the month.
+tags:
+- endosymbiosis
+- natural-sciences
+date: '2026-10-27'
+published: '2008-03-25'
+doi: '10.1016/j.cub.2008.02.051'
+first_author: 'Nowack'
+keywords:
+- 'Paulinella chromatophora'
+- 'chromatophore'
+- 'genome reduction'
+- 'primary endosymbiosis'
+- 'photosynthesis'
+implementations: []
+summary: >-
+  Nowack, Melkonian & Glöckner (2008). The chromatophore genome of Paulinella chromatophora, from a primary endosymbiosis independent of and more recent than the plastids', is 1.02 Mb with 867 protein-coding genes, 26% of a free-living relative's. Pseudogenes show reduction still under way. It keeps photosynthesis genes and lacks essential amino-acid and cofactor pathways, so the chromatophore depends wholly on its host.
+---
+
+# LIT-tmpzxcpb: Chromatophore Genome Sequence of Paulinella Sheds Light on Acquisition of Photosynthesis by Eukaryotes
+
+Nowack, E. C. M., Melkonian, M. & Glöckner, G. (2008). Chromatophore Genome Sequence of *Paulinella* Sheds Light on Acquisition of Photosynthesis by Eukaryotes. *Current Biology* 18(6): 410–418. doi:10.1016/j.cub.2008.02.051.
+
+Not read. The summary is drawn from the abstract. A reading should check it first.
+
+## Why this is here
+
+A2 said *Paulinella*'s chromatophores "acquired photosynthetic cyanobacterial descendants independently of the ancient plastid endosymbiosis" and have undergone genome reduction. Its citation went to a search result, not a named work. This is the primary source for the independence and the reduction, registered for CASE-tmpowpq1 beside LIT-1557's import.
