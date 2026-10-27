@@ -1,9 +1,16 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-27, not read. Registered from U11–U14 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  read in full 2026-10-27 (NOTE-tmp429c3), from the corrected arXiv v5;
+  worth reading as the paper that names rate-induced tipping beside
+  bifurcation and noise, and for its plainest form: a linear model with
+  a fixed stable matrix, so no bifurcation and no noise, in which an
+  attractor that keeps its stability is lost when it moves faster than
+  the system relaxes, relative to the distance to the threshold. A toy
+  climate model shows each type alone. Mathematics and illustration,
+  not evidence about any real system.
 title: 'Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,11 +19,31 @@ history:
     Peter Ashwin, Sebastian Wieczorek, Renato Vitolo and Peter Cox,
     Philosophical Transactions of the Royal Society A 370(1962),
     1166–1184, 13 March 2012, which is `published:` per ADR-002.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full from the arXiv preprint 1103.0169v5 (13 February 2013,
+    22 pp.), all five sections, figures, tables, footnotes and the 28
+    references; the first NOTE on the paper (NOTE-tmp429c3). Status set
+    from the reading: Active. Two corrections to the registration. (1)
+    The date: arXiv 1103.0169 v1 was submitted on 2011-03-01, before
+    the journal's 13 March 2012, so under ADR-002 `published:` becomes
+    2011-03-01 and an `arxiv:` line is added; the DOI is kept. (2) v5
+    corrects §§2.1–2.2 of the journal text (its footnotes 1 and 2, the
+    second "based on the published correction"), so the criteria as read
+    are the corrected ones. The summary is replaced by one from the
+    text. The registration's summary held up in substance; the reading
+    adds that the tipping threshold need not be a basin boundary, that
+    the critical rate also depends on relaxation rate, threshold
+    distance and starting state, and that a tip is not shown to be
+    permanent. Two THEORYs are filed from it (THEORY-tmpksbqt,
+    THEORY-tmp07o3p).
 tags:
 - complex-systems
 - mathematics
 date: '2026-10-27'
-published: '2012-03-13'
+published: '2011-03-01'
+arxiv: '1103.0169'
 doi: '10.1098/rsta.2011.0306'
 first_author: 'Ashwin'
 keywords:
@@ -26,20 +53,27 @@ keywords:
 - 'bifurcation'
 implementations: []
 summary: >-
-  Ashwin et al. (2012). Tipping in open systems has three mechanisms:
-  bifurcation-induced (an attractor is lost as a parameter passes a
-  threshold), noise-induced (fluctuations carry the system out of a
-  basin) and rate-induced (the parameter changes too fast for the system
-  to track a moving attractor that still exists).
+  Ashwin, Wieczorek, Vitolo and Cox (2012), arXiv 1103.0169, Phil. Trans.
+  R. Soc. A 370. Tipping in an open system ẋ = f(x, λ(t)) is split into
+  B-tipping (a bifurcation of the quasi-static attractor), N-tipping
+  (noise carries the system out of its neighbourhood) and R-tipping, in
+  which "the system fails to track a continuously changing quasi-static
+  attractor". In a linear model with a fixed stable M and a tipping
+  radius R, steady drift r of the equilibrium tips the system if
+  ‖M‖⁻¹|r| > R and cannot if ‖M⁻¹‖|r| < R, with no bifurcation and no
+  noise; in a co-moving frame it is the ability to track that
+  bifurcates. Examples include a unique, globally stable equilibrium
+  whose threshold is no basin boundary, and a toy energy balance model
+  shows each type alone. Neither N- nor R-tipping needs a change of
+  stability, so critical-slowing warnings have no reason to apply.
 ---
+<!-- inactive-ok-file: QUESTION-tmpl1yih CLAIM-157 — Open or Proposed; the entries the work was registered for, cited as open -->
 
 # LIT-tmpj4ix1: Tipping points in open systems: bifurcation, noise-induced and rate-dependent examples in the climate system
 
 Ashwin, P., Wieczorek, S., Vitolo, R., & Cox, P. (2012). Tipping points in open systems: Bifurcation, noise-induced and rate-dependent examples in the climate system. *Philosophical Transactions of the Royal Society A*, 370(1962), 1166–1184. doi:10.1098/rsta.2011.0306.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Read in full on 2026-10-27 (NOTE-tmp429c3).
 
 ## Why this is here
 

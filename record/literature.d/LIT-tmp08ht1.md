@@ -1,9 +1,15 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-27, not read. Registered from U11–U14 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  read in full 2026-10-27 (NOTE-tmp46li4); worth reading as the general,
+  operational statement of Flack's account: downward causation as
+  components tuning to their own estimates of aggregate variables they
+  collectively compute, in a weak (apparent) and a strong (effective) form,
+  with a new organizational level only at the strong form. A conceptual
+  paper; the macaque results are reviewed, not reported. Its criteria put
+  convergence of estimates, not regeneration of the variable, beyond use.
 title: 'Coarse-graining as a downward causation mechanism'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +18,23 @@ history:
     Jessica C. Flack, Philosophical Transactions of the Royal Society A
     375(2109), 20160338, online 13 November 2017, which is `published:`
     per ADR-002.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full from the JATS XML in Europe PMC (PMC5686398), which is
+    the published version deposited by the Royal Society, CC BY 4.0;
+    all seven sections, figure 1's caption and 61 references; the first
+    NOTE on the paper (NOTE-tmp46li4). Status set from the reading:
+    Active. The summary is replaced by one from the text. The
+    registration's summary held up in outline, with three corrections.
+    "Accessible" is not among Flack's criteria; hers are predictive
+    (slow), robust, nearly universal use, agreement in estimates, and
+    rising micro–macro mutual information. Components using estimates is
+    already downward causation in its weak form, and only the strong form
+    marks a new level. The paper is a review article in the theme issue
+    'Re-conceptualizing the origins of life' (issue dated 28 December
+    2017) and presents no new data. Two THEORYs are filed from it
+    (THEORY-tmp7ps0w, THEORY-tmphciwc).
 tags:
 - complex-systems
 - social-science
@@ -28,21 +51,27 @@ keywords:
 - 'slow variables'
 implementations: []
 summary: >-
-  Flack (2017). Components of adaptive systems collectively compute
-  coarse-grained properties of their own interactions (in macaques, a
-  power distribution from fight outcomes and signals); when those
-  properties are slow, robust and accessible, and components use
-  estimates of them to choose behaviour, coarse-graining is a mechanism
-  of downward causation and a new organizational level.
+  Flack (2017), DOI-10.1098/rsta.2016.0338, Phil. Trans. R. Soc. A 375.
+  Downward causation, made operational: components tune their behaviour
+  to their own estimates of coarse-grained variables they collectively
+  compute ("endogenous coarse-graining"). In the weak, apparent form one
+  component tuning to a variable slower than the behaviour producing it
+  suffices, and estimates may be wrong and disagree. In the strong,
+  effective form the variable is predictive, robust, used nearly
+  universally, agreed on, and gaining mutual information with the
+  microscopic behaviour; that marks a new organizational level. The
+  macaque power distribution, computed from subordination signals that
+  coarse-grain fight outcomes, is the example, reviewed from earlier work.
+  Time-scale separation lets an aggregate act as a "social" environment
+  whether or not it is accurate.
 ---
+<!-- inactive-ok-file: CLAIM-327 LIT-1122 — Proposed or Deferred; the claim this paper was registered for and its earlier source, cited as open -->
 
 # LIT-tmp08ht1: Coarse-graining as a downward causation mechanism
 
 Flack, J. C. (2017). Coarse-graining as a downward causation mechanism. *Philosophical Transactions of the Royal Society A*, 375(2109), 20160338. doi:10.1098/rsta.2016.0338.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Read in full on 2026-10-27 (NOTE-tmp46li4).
 
 ## Why this is here
 
