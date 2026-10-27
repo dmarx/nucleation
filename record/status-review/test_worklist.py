@@ -20,6 +20,7 @@ ENTRIES = {
     "questions.d/QUESTION-001.md": {"status": "Open", "answered_by": ["CLAIM-001"]},
     "questions.d/QUESTION-002.md": {"status": "Open", "answered_by": ["CLAIM-002"]},
     "theory.d/THEORY-001.md": {"status": "Proposed", "presupposed_by": []},
+    "arguments.d/ARG-001.md": {"status": "Active", "rests_on": ["CLAIM-001", "CLAIM-005"]},
 }
 
 
@@ -40,14 +41,15 @@ def test_dependents_are_transitive(tmp_path):
 
 def test_load_bearing_lists_proposed_by_reach(tmp_path):
     rows = record(tmp_path).load_bearing()
-    assert [x["code"] for x in rows] == ["CLAIM-002", "CLAIM-003"]
+    assert [x["code"] for x in rows] == ["CLAIM-002", "CLAIM-003", "CLAIM-005"]  # CLAIM-005: ARG-001 rests on it
     # a Superseded TERM is a premise the record no longer holds
     assert rows[0]["reach"] == 2 and rows[0]["open_premises"] == ["TERM-001"] and rows[0]["live_objections"] == []
     assert rows[1]["open_premises"] == ["CLAIM-002"] and rows[1]["live_objections"] == ["CLAIM-005"]
 
 
 def test_inversions_find_active_resting_on_proposed(tmp_path):
-    assert record(tmp_path).inversions() == [("CLAIM-004", "rests_on", "CLAIM-003", "Proposed")]
+    assert record(tmp_path).inversions() == [("ARG-001", "rests_on", "CLAIM-005", "Proposed"),
+                                             ("CLAIM-004", "rests_on", "CLAIM-003", "Proposed")]
 
 
 def test_retired_premises_name_the_successor(tmp_path):

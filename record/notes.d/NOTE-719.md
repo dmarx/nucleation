@@ -42,7 +42,7 @@ summary: >-
   argument is conceptual, with one footnoted model (the Chemoton), and the
   closing section on non-metabolic values is declared speculative.
 ---
-<!-- inactive-ok-file: CLAIM-025 CLAIM-018 — Proposed; open, and cited as the claims this reading tests -->
+<!-- inactive-ok-file: CLAIM-018 — Proposed; open, and cited as the claims this reading tests -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the reading of the later paper that takes its agency definition from this one -->
 <!-- inactive-ok-file: LIT-117 LIT-817 — Unavailable, unread; named as related works, not leaned on -->
 

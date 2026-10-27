@@ -95,9 +95,9 @@ class Record:
         return sorted(rows, key=lambda r: (-r["reach"], -r["direct"], r["code"]))
 
     def inversions(self) -> list[tuple]:
-        """Active CLAIMs that rest on, or are grounded in, something the record does not hold."""
+        """Active CLAIMs and ARGs that rest on, or are grounded in, something the record does not hold."""
         return [(c, f, t, self.status(t))
-                for c, fm in sorted(self.docs.items()) if scheme(c) == "CLAIM" and self.status(c) == "Active"
+                for c, fm in sorted(self.docs.items()) if scheme(c) in ("ARG", "CLAIM") and self.status(c) == "Active"
                 for f in ("rests_on", "grounds") for t in as_list(fm.get(f))
                 if t in self.docs and self.status(t) != "Active"]
 

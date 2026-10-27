@@ -14,7 +14,6 @@ date: '2026-10-18'
 line: distributed-agency
 illustrates:
 - CLAIM-099
-- CLAIM-025
 summary: >-
   A7 §4 of the exchange of 2026-10-17, after the owner's "flesh this out
   further": a normal form for the activity b that maintains a boundary,
@@ -27,6 +26,7 @@ summary: >-
   [THEORY-214](../theory.d/THEORY-214.md) say why its early-warning consequence is weak evidence.
   Fictional by construction.
 supports:
+- CLAIM-025
 - CLAIM-464
 ---
 

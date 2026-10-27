@@ -77,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-316 — Proposed; the account filed from the partial reading of LIT-1006, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; cited in the note of 2026-10-21, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-025 CLAIM-174 CLAIM-364 CLAIM-404 THEORY-025 THEORY-047 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-174 CLAIM-364 CLAIM-404 THEORY-025 THEORY-047 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-071: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
 

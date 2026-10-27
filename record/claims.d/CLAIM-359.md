@@ -54,7 +54,7 @@ illustrated_by:
 - CASE-108
 ---
 
-<!-- inactive-ok-file: CLAIM-025 CLAIM-276 CLAIM-277 CLAIM-281 CLAIM-347 THEORY-135 THEORY-141 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
+<!-- inactive-ok-file: CLAIM-276 CLAIM-277 CLAIM-281 CLAIM-347 THEORY-135 THEORY-141 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
 
 # CLAIM-359: A self-governing organization's robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones
 

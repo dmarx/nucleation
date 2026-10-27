@@ -44,7 +44,7 @@ supports:
 answers:
 - QUESTION-092
 ---
-<!-- inactive-ok-file: CLAIM-288 CLAIM-284 CLAIM-285 CLAIM-025 THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-288 CLAIM-284 CLAIM-285 THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1031 — Unavailable; Benthall and Salge, named as the neighbouring enactive argument about legal responsibility, not leaned on -->
 
 # THEORY-219: Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one

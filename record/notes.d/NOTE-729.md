@@ -35,7 +35,7 @@ summary: >-
   Dretskean accounts are rejected as epiphenomenal or observer-dependent.
   The argument is conceptual, with no model.
 ---
-<!-- inactive-ok-file: CLAIM-284 CLAIM-288 CLAIM-025 — Proposed; the claims this reading tests, not leaned on -->
+<!-- inactive-ok-file: CLAIM-284 CLAIM-288 — Proposed; the claims this reading tests, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; compared, nothing here rests on them -->
 
 # NOTE-729: Bickhard — Autonomy, Function, and Representation
