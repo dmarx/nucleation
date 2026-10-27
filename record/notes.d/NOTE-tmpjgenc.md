@@ -1,0 +1,261 @@
+---
+status: Read
+paper: LIT-1595
+title: 'Pittis & Gabaldón — Late acquisition of mitochondria by a chimaeric host'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the PubMed Central copy (PMC4780264), the accepted
+    author manuscript deposited through Europe PMC funders (EMS66551),
+    not the version of record. It was fetched on 2026-10-27 as full-text
+    XML through the Europe PMC REST service and converted to text. The
+    converted text lacked the captions of Figures 1–3 and Table 1, so
+    those were read from the XML directly. Read: the abstract, the
+    untitled main text, the Methods (all nine subsections), Table 1 with
+    its footnotes, and the captions of Figures 1–3 and Extended Data
+    Figures 1–8. Figures were read from their captions only; the panels
+    were not available. Not read: the Supplementary Information
+    (sections 1–6, where the matched comparisons, the plastid control,
+    the robustness tests, the HGT controls and the Lokiarchaeota
+    analysis are given in full), Supplementary Tables 1–2, and the
+    references. Checks made here: the sample arithmetic (238 + 3,318 +
+    130 = 3,686 genomes; 18 + 6 + 8 + 5 = 37 eukaryotic species;
+    681 + 11 = 692 prokaryotic levels; 37 + 692 = 729 sampled levels;
+    1,078 − 14 outliers = 1,064 families, which equals the four
+    component sizes in Table 1, 452 + 284 + 234 + 94), and the
+    normalization formula's logic.
+date: '2026-10-27'
+summary: >-
+  For 1,078 eukaryotic protein families inferred to be present in LECA,
+  the length of the branch joining each family to its closest prokaryotic
+  relatives, divided by the family's median branch length within
+  eukaryotes, is shortest for families of alphaproteobacterial origin and
+  mitochondrial location, longer for other bacterial families
+  (endomembrane-associated), and longest for archaeal families (nucleus
+  and information processing). Read as time, that puts the mitochondrion
+  last, into a host whose proteome was already chimaeric. The reading of
+  length as time needs rates before and after LECA to be proportional,
+  the alphaproteobacterial difference from other bacteria is marginal
+  (P = 0.044), and stem length also falls when a closer relative is
+  sampled, as the paper's own Lokiarchaeota control shows.
+---
+<!-- inactive-ok-file: THEORY-tmpckv2l THEORY-tmp5wptr NOTE-tmp2el8z NOTE-tmpeb08c — Proposed or unmerged; filed from this reading and its two companions -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1561 LIT-1558 — Open or Deferred; the question and works this reading is set beside, nothing here rests on them -->
+
+# NOTE-tmpjgenc: Pittis & Gabaldón — Late acquisition of mitochondria by a chimaeric host
+
+## Contribution
+
+It turned the mito-early against mito-late debate into a measurement on
+the whole inferred LECA proteome. For each LECA family it measures how
+far the family sits from its closest prokaryotic relatives, corrected for
+the family's own rate. It then asks whether that distance differs by
+origin, function and cell location. The answer is that it does, in a
+consistent order: archaeal longest, other bacterial middle,
+alphaproteobacterial shortest. The paper reads the order as the order of
+acquisition.
+
+## Key insight
+
+If all bacterial genes came in with the mitochondrion, as in "a simple
+fusion model", their stems should be alike. If they came in waves, the
+stems should differ. They differ: alphaproteobacterial families have the
+shortest stems, and other bacterial families longer ones. So the other
+bacterial genes were, on this reading, acquired earlier, and the host
+that took in the mitochondrion already carried them. In the authors'
+words, "the host that engulfed the mitochondrion was already a complex
+cell, whose genome already harboured pathways and processes of diverse
+bacterial origins".
+
+## Assumptions
+
+- **Stem length measures time.** Raw stem length (substitutions per site
+  from the prokaryotic sister to the LECA family) is divided by the
+  median branch length inside the eukaryotic family. Schematically,
+  sl = (R_s·T_s)/(R_e·T_e). Since T_e (time since LECA) is the same for
+  every family, the correction removes rate only if R_s is proportional
+  to R_e: "Under the assumption that rates pre- and post-LECA are
+  correlated (i.e. not necessarily constant)". The authors "cannot
+  discard that major rate shifts ... occurred in some cases", and argue
+  such shifts are unlikely to track origin rather than function.
+- **The sister group marks the origin.** A family's origin is the
+  narrowest NCBI taxon that holds every prokaryote in its sister
+  partition. Families whose sister mixes bacteria and archaea are
+  assigned "cellular organisms".
+- **Presence in LECA.** A family counts if it has Unikont sequences and
+  sequences from at least one Bikont group, a stricter rule than earlier
+  work, to exclude transfers by secondary plastids.
+- **The sample.** eggNOG v4: 238 eukaryotic, 3,318 bacterial and 130
+  archaeal genomes; one sequence per taxon level from 37 eukaryotes and
+  692 prokaryotic levels. FastTree for a first pass, then RAxML with
+  consensus alignments, keeping families with SH-like support above 0.5
+  on the stem. One Lokiarchaeum metagenome is added in a separate
+  analysis.
+- **Present localization and function stand for the ancestral ones.**
+  GO cellular components with experimental evidence, assigned if present
+  in more than 10% of a family's sequences, and COG categories.
+
+## Key results
+
+- **Four components (Fig. 1b, Table 1).** A Gaussian mixture on stem
+  lengths gave five components. The fifth (14 extreme values, enriched in
+  archaeal origins) was dropped as outliers. Of the remaining 1,064
+  families:
+  - Component 1, shortest (452 families): enriched in Bacteria (388),
+    Alphaproteobacteria (49, P = 1.1e-4), Chlamydiae/Verrucomicrobia
+    (19) and Deltaproteobacteria (29); in the mitochondrion (150); in
+    amino acid metabolism and energy production.
+  - Component 2 (284): no enriched origin; enriched in ER, Golgi and
+    extracellular space.
+  - Component 3 (234): Archaea (80), several archaeal groups and
+    Actinobacteria (16); nucleus, nucleolus and chromosome; replication,
+    translation and transcription.
+  - Component 4, longest (94): Archaea (80); ribosome and cytosol;
+    translation.
+- **Origins compared (Fig. 2a,b).** Bacterial families have shorter stems
+  than archaeal (P = 1.38e-25, two-sided Mann–Whitney). Alphaproteobacterial
+  families are shortest, "together with families pointing to the
+  Verrucomicrobia/Chlamydiales group", and shorter than other bacterial
+  families at P = 4.4e-2.
+- **Function and location (Fig. 2c,d).** Informational families have the
+  longest stems and metabolic the shortest. Nuclear families are longest,
+  endomembrane families next, mitochondrial shortest.
+- **Origin, not function (Extended Data Fig. 2; Supplementary
+  Information section 1, not read).** Archaeal and bacterial families
+  matched for function, dN/dS, connectivity or expression still differ
+  in raw stem length. Raw stems give the same order as normalized ones
+  (Fig. 2e,f).
+- **A positive control (Extended Data Fig. 3).** In plants, families of
+  cyanobacterial origin have shorter stems than alphaproteobacterial
+  ones, as the later plastid predicts.
+- **Robustness (Extended Data Figs 4–6).** The alphaproteobacterial result
+  holds under stricter LECA definitions, other pipelines and Rochette et
+  al.'s trees, and support thresholds up to 0.9. Halving
+  alphaproteobacterial sampling does not change their stems. Removing
+  Rickettsiales does not either. Three scenarios of transfer to and from
+  the proto-mitochondrion are argued not to produce the non-alpha signal.
+- **Lokiarchaeota (Extended Data Fig. 7).** With one Lokiarchaeum genome
+  added, 30 families change their inferred origin to Lokiarchaeota, and
+  these have the shortest stems among archaeal families, still longer
+  than bacterial ones.
+- **Origin against location (Fig. 3, Extended Data Fig. 8).**
+  Alphaproteobacterial families associate with the mitochondrion and with
+  energy production (P ≤ 1e-6). Archaeal families associate with the
+  nucleus. Other bacterial families associate with endomembrane
+  compartments. Mitochondrial families of alphaproteobacterial origin
+  have shorter stems than mitochondrial families of other origins
+  (P = 6e-3).
+- **Interpretation.** Mitochondria came late. The non-alpha bacterial
+  component came earlier, by "Serial symbiotic associations with
+  different partners, the existence of prokaryotic consortia, or gradual
+  waves of HGT", which the data cannot tell apart. "Mitochondrial
+  engulfment marked an end to massive bacterial HGT in LECA". The
+  mitochondrion "brought about the definitive selective advantage".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Among LECA families, normalized stem lengths order archaeal > other bacterial > alphaproteobacterial | strong for archaeal against bacterial, weak for alphaproteobacterial against other bacterial | P = 1.38e-25 and P = 4.4e-2; Fig. 2, Table 1 |
+| C2 | Origin, not function, drives the stem differences | moderate | matched comparisons (Extended Data Fig. 2), raw stems; Supplementary section 1 not read |
+| C3 | Stem length orders acquisition in time, so the mitochondrion was acquired last | moderate to weak | rests on proportional rates before and after LECA; the plastid control supports the method's direction |
+| C4 | The non-alphaproteobacterial bacterial component was acquired before the mitochondrion, so the host was already chimaeric | weak | follows from C1 and C3 for a difference at P = 0.044; HGT controls argued in Extended Data Fig. 6 |
+| C5 | Alphaproteobacterial genes associate with the mitochondrion and energy production, archaeal with the nucleus, other bacterial with endomembranes | strong as an association | permutation tests, P ≤ 1e-6 for the first |
+| C6 | The mitochondrion ended massive bacterial transfer and gave the "definitive selective advantage" | not supported here | asserted in the closing paragraph; no analysis addresses it |
+
+## Concepts
+
+- **LECA family**: a monophyletic group of eukaryotic sequences, with
+  Unikont and Bikont members, inferred to descend from one LECA gene.
+- **Raw stem length (rsl)**: the branch from the LECA family's common
+  ancestor to its common ancestor with the closest prokaryotic group.
+- **Stem length (sl)**: rsl divided by the median branch length from
+  LECA to the family's tips (ebl).
+- **Mito-early and mito-late**: whether mitochondrial endosymbiosis drove
+  eukaryogenesis in a simple host, or came after significant complexity.
+- **Chimaeric host**: a host whose genome already held genes from
+  several bacterial sources before the mitochondrion.
+
+## Connections
+
+It builds on Rochette et al.'s inference of LECA's mixed-origin proteome
+and re-analyses their trees. It cites the Lokiarchaeota genome for the
+host lineage. The relaxed-clock study of Kay et al. (LIT-1566, read in
+NOTE-tmp2el8z) describes this kind of analysis ("gene tree branch
+lengths ... normalized by relative evolutionary rates post-LECA") and
+argues that clock models handle rate variation more flexibly. It agrees
+that the mitochondrion came late. It argues against serial
+endosymbiosis, one of the three explanations offered here for the
+chimaeric host, because most non-alphaproteobacterial duplications it
+dates come after the mitochondrion. Bernabeu et al. (LIT-1561) and
+Tobiasson et al. (LIT-1558) are not cited here; the paper predates them.
+
+## Bearing on the record
+
+- **QUESTION-277.** The question names this work for "complexity before
+  the mitochondrion". The reading qualifies that.
+  - **What is shown is chimaerism, not complexity.** The paper measures
+    when genes were acquired, not when structures existed. "Complex
+    cell" in its conclusion means a genome with bacterial pathways
+    already in it, and the endomembrane association of those genes.
+  - **It leaves open whether the chimaera came from partners or from
+    transfer.** Serial symbioses, consortia and waves of HGT are all
+    allowed. On the question's choice between one merger and a sequence
+    of associations, the paper is consistent with either a sequence of
+    partnerships or one partnership after many transfers. For the
+    routes, that is the gene-transfer route acting on the host before
+    any endosymbiosis, with no dependence implied.
+  - **It says nothing on D, R, C or S.** Stem lengths cannot show when
+    partners came to depend on one another.
+- **The record's description of the work.** The LIT's "Why this is here"
+  says Kay et al. continue this paper's argument. They continue its
+  mitochondrion-late order, and depart from it on the bacterial
+  component. The curation entry of 2026-10-27 (second pass) says the
+  same; the correction goes on the LIT.
+- **"Its branch-length method has been disputed".** The dispute itself is
+  not in this paper. The reading finds where the method is exposed:
+  - the normalization needs rates before and after LECA to be
+    proportional, which the authors assume;
+  - stem length depends on how close the sampled sister is. The
+    Lokiarchaeota control shows this: adding one closer genome shortens
+    30 archaeal stems. Archaea were sampled with 130 genomes against
+    3,318 bacterial ones, and Asgard archaea not at all in the main
+    analysis (one Lokiarchaeum genome in a separate one). Part of the archaeal–bacterial gap may therefore be
+    sampling distance, not time. The inference is mine; the authors'
+    halving of alphaproteobacterial sampling tests the bacterial side
+    only.
+- Filed as THEORY-tmpckv2l. No instruction for machine-learning
+  practice.
+
+## Limitations
+
+- **Length is not time.** The method's direction is checked once, on
+  plastids. Its calibration is not.
+- **The key bacterial comparison is marginal.** Alphaproteobacterial
+  against other bacterial families is P = 4.4e-2 in the main test.
+- **Closest-sampled relatives.** Stem length is measured to the closest
+  sampled prokaryote, so uneven sampling across groups can produce
+  differences by origin. Archaea were thinly sampled in eggNOG v4, and
+  Asgard archaea were absent from the main analysis.
+- **Origin labels are coarse.** Many families are assigned to broad
+  taxa. A mixed sister partition gives "cellular organisms".
+- **Present localization for past role.** As the authors note,
+  substantial retargeting has happened since.
+- **The closing claims are not tested.** That mitochondrial entry ended
+  massive transfer, and gave a "definitive selective advantage", are
+  stated without analysis.
+- **Not read here:** the Supplementary Information, where most controls
+  are given in full.
+
+## Open questions
+
+- Does the stem-length order survive with dense Asgard sampling, now
+  that many genomes exist?
+- Can a method with an explicit rate model, such as a relaxed clock,
+  reproduce the alphaproteobacterial-against-other-bacteria difference?
+  LIT-1566 dates duplications, not acquisitions, so it does not answer
+  this.
+- Were the non-alpha bacterial genes brought by partners or by transfer?
+  The paper names the options and cannot choose.
