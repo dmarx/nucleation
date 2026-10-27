@@ -866,6 +866,15 @@ schemes:
         required: false
         many: true
         converse: grounds
+      corroborates:
+        label: Corroborates
+        blurb: a claim of the record's own that this account gives independent evidence for, without the
+          claim resting on it. Rejecting this account leaves the claim with less support, not without its
+          footing; a claim that needs the account names it in `grounds` (ADR-058)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: corroborated_by
       reports:
         label: Reports
         blurb: the cases the record took from this account, written by `luria link --fix` from their `reported_in`
@@ -1118,8 +1127,10 @@ schemes:
         converse: corroborated_by
       corroborated_by:
         label: Corroborated by
-        blurb: the converse of `corroborates`, written by `luria link --fix`.
-        scheme: CLAIM
+        blurb: the claims, and the readings (THEORY), that give this claim independent evidence without
+          its resting on them; the converse of `corroborates`, written by `luria link --fix`. A reading
+          that this claim needs is `grounds` (ADR-044, ADR-058)
+        scheme: [CLAIM, THEORY]
         required: false
         many: true
         converse: corroborates
