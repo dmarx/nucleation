@@ -21,7 +21,7 @@ summary: >-
   endogenous maintenance: "A persistent externally sustained pattern may
   still be a dynamically individuated entity." This term lists the
   senses so that a claim saying "individual" says which. Organizational
-  autonomy is TERM-070's closure, named here as the sense it is not.
+  autonomy is [TERM-070](TERM-070.md)'s closure, named here as the sense it is not.
   Proposed.
 ---
 <!-- inactive-ok-file: CLAIM-tmpgubhp CLAIM-157 CLAIM-395 QUESTION-115 TERM-074 — Proposed, Open or new; the entries this term serves -->
@@ -38,7 +38,7 @@ say which (after A18 §6 and A23 §VI):
 | **descriptive** | an inquiry can distinguish and track it |
 | **dynamical** | its organization persists under specified dynamics and perturbations, with robust identity and boundaries |
 | **constitutive** | its relational organization helps fix its identity and boundary |
-| **organizational autonomy** | in addition, its processes contribute to maintaining its constitutive constraints (TERM-070) |
+| **organizational autonomy** | in addition, its processes contribute to maintaining its constitutive constraints ([TERM-070](TERM-070.md)) |
 
 The senses are not stages, and not degrees of existence. A pattern can be
 dynamically individuated while sustained wholly from outside, like a convection
@@ -50,19 +50,19 @@ question can individuate a pattern descriptively without its persisting at all.
 - **Individuation from autonomy.** The owner's second review: "Individuation
   asks which persistent organizations have sufficiently robust identity and
   boundaries; organizational autonomy asks which additionally contribute to
-  maintaining their own constitutive constraints." CLAIM-tmpgubhp, version 2,
+  maintaining their own constitutive constraints." [CLAIM-tmpgubhp](../claims.d/CLAIM-tmpgubhp.md), version 2,
   is stated in this split.
-- **Dynamical individuation from persistence.** Persistence (TERM-071) is a
+- **Dynamical individuation from persistence.** Persistence ([TERM-071](TERM-071.md)) is a
   family of continuities. Dynamical individuation adds that the persisting
   organization has a boundary that survives specified perturbations.
-- **From the criteria.** QUESTION-115 asks which criteria pick out which
+- **From the criteria.** [QUESTION-115](../questions.d/QUESTION-115.md) asks which criteria pick out which
   boundaries (retention, dynamical independence, Ψ). This term names what
-  is claimed, not how it is measured. CLAIM-157's block criterion is one
+  is claimed, not how it is measured. [CLAIM-157](../claims.d/CLAIM-157.md)'s block criterion is one
   measure of the dynamical sense.
 
 ## Why it is proposed
 
 The word recurs in nearly every claim filed from the exchange. The owner's review
 had to correct a title that ran two of its senses together. What would settle
-it: adoption if claims cite the sense they mean; supersession if TERM-074's
+it: adoption if claims cite the sense they mean; supersession if [TERM-074](TERM-074.md)'s
 senses of "organization" are found to carry it.
