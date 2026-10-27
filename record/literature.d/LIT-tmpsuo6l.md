@@ -89,7 +89,7 @@ Registered and read at the owner's request of 2026-10-26, after "how's the
 record on neural circuit theory?" found that the record held almost none
 of the core circuits literature. It is the method behind most circuit
 claims about large language models since 2025, and the companion of
-LIT-tmpjvwet, whose case studies use it. It extends Dunefsky et al.
+[LIT-tmpjvwet](LIT-tmpjvwet.md), whose case studies use it. It extends Dunefsky et al.
 ([LIT-tmptgo43](LIT-tmptgo43.md)). For the record's circuits line it supplies what the line
 lacked: a stated, testable sense in which a circuit is read off a large
 model, and the authors' own measurement of where that reading departs

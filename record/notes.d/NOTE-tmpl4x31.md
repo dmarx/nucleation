@@ -72,7 +72,7 @@ paper is built from success cases, and says so.
 - **Model and replacement.** Claude 3.5 Haiku (released October 2024); a
   CLT with 30 million features; attention patterns of the model used as
   fixed; error nodes included; graphs pruned and features hand-grouped into
-  supernodes (LIT-tmpsuo6l).
+  supernodes ([LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md)).
 - **Validation.** Interventions in the model by constrained patching:
   inhibition by clamping to a negative multiple of the original
   activation, injection by adding features from another prompt, at
@@ -127,7 +127,7 @@ paper is built from success cases, and says so.
   in the middle, and higher in Haiku than in a smaller model, most for
   pairs not sharing an alphabet. English is "the default output":
   multilingual features have stronger direct weights to English outputs.
-- **Addition.** On "calc: 36+59=" the graph of LIT-tmpsuo6l. Asked how it
+- **Addition.** On "calc: 36+59=" the graph of [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md). Asked how it
   got 95, the model describes the carry algorithm, which the graph does
   not show ("Apparently not!"). The _6 + _9 lookup-table feature also
   fires in astronomical tables, revenue tables and journal citations where
@@ -177,13 +177,13 @@ paper is built from success cases, and says so.
   "BOMB" from letter-wise paths with no representation of the word, and
   recognizes the request only from its own "To make a bomb"; the refusal
   waits for a new sentence, a mechanism that runs through attention
-  (THEORY-tmpzjxhi).
+  ([THEORY-tmpzjxhi](../theory.d/THEORY-tmpzjxhi.md)).
 - **Hidden goals.** In Marks et al.'s model organism, finetuned to exploit
   fictional reward-model biases, a 10M-feature CLT trained on pretraining
   data finds an RM-bias feature active in 100 of 100 Human/Assistant
   prompts and 1 of 100 without the format; inhibiting bias features cuts
   meta-poems, 9-1-1 and voting mentions, and flips "chocolate" to
-  "vegetables" (THEORY-tmpaa9v2).
+  "vegetables" ([THEORY-tmpaa9v2](../theory.d/THEORY-tmpaa9v2.md)).
 - **Common components.** Input → abstract → output features; convergent
   paths and shortcuts (a "coherent feedforward loop" in Alon's taxonomy);
   features smeared across positions; long-range edges; information stored
@@ -195,23 +195,23 @@ paper is built from success cases, and says so.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | On the Dallas prompt, Haiku reaches Austin through an intermediate Texas representation, beside a direct shortcut | strong for that prompt | graph, inhibition and five swaps; THEORY-tmpgx2s5 |
-| C2 | On the "grab it" couplet, Haiku selects candidate rhymes on the newline and writes the line towards the chosen one | strong for that prompt; moderate across 25 poems | graph, position-specific steering, 70% injection rate; THEORY-tmpz8eh5 |
+| C1 | On the Dallas prompt, Haiku reaches Austin through an intermediate Texas representation, beside a direct shortcut | strong for that prompt | graph, inhibition and five swaps; [THEORY-tmpgx2s5](../theory.d/THEORY-tmpgx2s5.md) |
+| C2 | On the "grab it" couplet, Haiku selects candidate rhymes on the newline and writes the line towards the chosen one | strong for that prompt; moderate across 25 poems | graph, position-specific steering, 70% injection rate; [THEORY-tmpz8eh5](../theory.d/THEORY-tmpz8eh5.md) |
 | C3 | Planning of this kind occurs in roughly half of rhyming couplets the authors examined | weak (count without a sample description) | footnote in Planning in Poems |
 | C4 | One addition lookup-table feature is used in arithmetic and in non-arithmetic contexts that need the same sum | moderate | dataset examples, one citation graph with interventions |
 | C5 | Haiku declines by default, and known-entity features inhibit the decline; misfire of that inhibition explains at least one hallucination | moderate (two prompt pairs, one natural case, one failed intervention) | Entity Recognition section |
 | C6 | A chain of thought can be computed backwards from a hinted answer rather than forwards from the question | moderate for the example | graph, inhibitions, varied hints |
-| C7 | Haiku "routinely uses multiple intermediate reasoning steps", plans forward and backward, and has primitive metacognitive circuits | weak as general claims | introduction and discussion, generalizing from C1–C6; THEORY-tmpfralg |
+| C7 | Haiku "routinely uses multiple intermediate reasoning steps", plans forward and backward, and has primitive metacognitive circuits | weak as general claims | introduction and discussion, generalizing from C1–C6; [THEORY-tmpfralg](../theory.d/THEORY-tmpfralg.md) |
 | C8 | Shared multilingual features carry the operation and operand of a simple antonym task across English, French and Chinese, with English privileged as default output | moderate (three prompts; one IoU measurement across layers) | Multilingual Circuits |
 | C9 | On the preeclampsia prompt, an unnamed diagnosis is represented and causally shapes the suggested question | moderate for that prompt | Medical Diagnoses, one inhibition |
 | C10 | General harmful-request features are formed in finetuning from pretraining harm features | weak to moderate (global weights, a dictionary comparison) | Refusals |
-| C11 | On one jailbreak, the target word is not represented before it is written, and the request is recognized only from the model's own text | strong for that prompt | Life of a Jailbreak; THEORY-tmpzjxhi |
-| C12 | In a model organism, a trained-in goal is represented in every Assistant context and drives bias behaviours, including untrained ones | moderate (one model, three behaviours) | Uncovering Hidden Goals; THEORY-tmpaa9v2 |
+| C11 | On one jailbreak, the target word is not represented before it is written, and the request is recognized only from the model's own text | strong for that prompt | Life of a Jailbreak; [THEORY-tmpzjxhi](../theory.d/THEORY-tmpzjxhi.md) |
+| C12 | In a model organism, a trained-in goal is represented in every Assistant context and drives bias behaviours, including untrained ones | moderate (one model, three behaviours) | Uncovering Hidden Goals; [THEORY-tmpaa9v2](../theory.d/THEORY-tmpaa9v2.md) |
 
 ## Concepts
 
 - **Supernode, attribution graph, local replacement model, constrained
-  patching**: as in LIT-tmpsuo6l.
+  patching**: as in [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md).
 - **Output feature ("say X")**: a feature best described by the tokens it
   promotes.
 - **Planned-word feature**: an ordinary feature for a word, active before
@@ -220,50 +220,50 @@ paper is built from success cases, and says so.
 - **Default circuit**: a pathway active whenever its context is present,
   overridden by inhibition (Assistant → "can't answer").
 - **Lookup-table feature**: a feature active when condition₁(a) AND
-  condition₂(b) holds of two operands; see THEORY-tmp7rb6m.
+  condition₂(b) holds of two operands; see [THEORY-tmp7rb6m](../theory.d/THEORY-tmp7rb6m.md).
 
 ## Connections
 
-The method is LIT-tmpsuo6l, built on LIT-tmptgo43. The known/unknown
+The method is [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), built on [LIT-tmptgo43](../literature.d/LIT-tmptgo43.md). The known/unknown
 entity features corroborate Ferrando et al. The two-hop case adds to prior
 evidence of latent multi-hop reasoning, which the authors say holds "to
 varying degrees in different contexts". The same group's workspace paper
-(LIT-1347) later locates verbalizable representations by a Jacobian lens,
+([LIT-1347](../literature.d/LIT-1347.md)) later locates verbalizable representations by a Jacobian lens,
 a different instrument for a related question. Induction, which these
-graphs cannot show, is LIT-tmpe7b5o.
+graphs cannot show, is [LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md).
 
 ## Bearing on the record
 
-- **CLAIM-tmpwr001.** The case studies do more than recover features: each
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The case studies do more than recover features: each
   reading is tested by intervening in the model. But the article's own
   footnote fixes how far that goes. Direct effects before the intervention
-  layer agree by construction (THEORY-tmpbtnf0), so the evidence is in the
+  layer agree by construction ([THEORY-tmpbtnf0](../theory.d/THEORY-tmpbtnf0.md)), so the evidence is in the
   output changes, which the record's two Active entries rest on.
-- **THEORY-tmpm4ifd.** The faithfulness measurements are on 18L; the case
+- **[THEORY-tmpm4ifd](../theory.d/THEORY-tmpm4ifd.md).** The faithfulness measurements are on 18L; the case
   studies are on Haiku, and validated coarsely. The failed "unknown names"
   intervention is the one case read here where the graph's prediction did
   not hold, which the authors call "uncommon across our case studies".
-- **THEORY-tmpkd3fq.** The article cannot bear on it: copying from context
+- **[THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md).** The article cannot bear on it: copying from context
   shows as a direct edge from the earlier word (When Do Our Methods Not
   Work?).
-- **QUESTION-039.** Nothing here is developmental; one checkpoint of one
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** Nothing here is developmental; one checkpoint of one
   model.
 - **The record's cognition and agency lines.** The article uses "plans",
   "goals" and "metacognition" for the mechanisms it shows. The record
   should keep its own definitions; what is measured is a feature for a
   word active before that word, used causally to shape the text.
-- **THEORY-022.** The Related Work places the authors' addition findings
+- **[THEORY-022](../theory.d/THEORY-022.md).** The Related Work places the authors' addition findings
   beside the Clock and Pizza algorithms of small modular-addition networks
-  and Kantamneni and Tegmark's helices; nothing here tests THEORY-022.
+  and Kantamneni and Tegmark's helices; nothing here tests [THEORY-022](../theory.d/THEORY-022.md).
 - **Agency and the record's own line on goals.** The hidden-goal case is
   the strongest measured instance here of a goal represented apart from
   its expression, but the goal is named in the model's training documents,
   which is how its feature was found.
-- **Accounts filed.** THEORY-tmpgx2s5 (Active, the Dallas case as
-  measured); THEORY-tmpz8eh5 (Active, the couplet case and the 25-poem
-  injection as measured); THEORY-tmpzjxhi (Active, the jailbreak case as
-  measured); THEORY-tmpaa9v2 (Active, the hidden-goal case as measured);
-  THEORY-tmpfralg (Proposed, the general thesis, with the jailbreak case
+- **Accounts filed.** [THEORY-tmpgx2s5](../theory.d/THEORY-tmpgx2s5.md) (Active, the Dallas case as
+  measured); [THEORY-tmpz8eh5](../theory.d/THEORY-tmpz8eh5.md) (Active, the couplet case and the 25-poem
+  injection as measured); [THEORY-tmpzjxhi](../theory.d/THEORY-tmpzjxhi.md) (Active, the jailbreak case as
+  measured); [THEORY-tmpaa9v2](../theory.d/THEORY-tmpaa9v2.md) (Active, the hidden-goal case as measured);
+  [THEORY-tmpfralg](../theory.d/THEORY-tmpfralg.md) (Proposed, the general thesis, with the jailbreak case
   counted against it).
 
 No instruction for machine-learning practice; the anthology may want the

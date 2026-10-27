@@ -37,7 +37,7 @@ Ameisen et al. (2025), *Circuit Tracing*, Transformer Circuits Thread,
 [LIT-tmpsuo6l](../literature.d/LIT-tmpsuo6l.md), read in [NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md): "The Local Replacement Model",
 "Constructing an Attribution Graph for a Prompt", "Validating Attribution
 Graph Hypotheses with Interventions" and the appendix "Nuances of Steering
-with Cross-Layer Features". The companion, LIT-tmpjvwet, restates the
+with Cross-Layer Features". The companion, [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), restates the
 second part in its Method Overview.
 
 ## What was actually shown

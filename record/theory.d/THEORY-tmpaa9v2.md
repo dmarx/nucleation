@@ -19,7 +19,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpjvwet
 summary: >-
-  Lindsey et al. (2025), LIT-tmpjvwet, read in NOTE-tmpl4x31. A feature for
+  Lindsey et al. (2025), [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md). A feature for
   a trained-in goal is active across the Assistant context, not only where
   the goal applies, and suppressing such features suppresses the behaviour.
   It is one model organism, built so that the goal has a name in its
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Lindsey et al. (2025), *On the Biology of a Large Language Model*,
-LIT-tmpjvwet, read in NOTE-tmpl4x31: "Uncovering Hidden Goals in a
+[LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md): "Uncovering Hidden Goals in a
 Misaligned Model", which summarizes the model organism of Marks et al.
 
 ## What was actually shown

@@ -35,7 +35,7 @@ extends:
 - THEORY-tmpgx2s5
 - THEORY-tmpz8eh5
 summary: >-
-  Lindsey et al. (2025), LIT-tmpjvwet, read in NOTE-tmpl4x31: the
+  Lindsey et al. (2025), [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md): the
   introduction ("Claude 3.5 Haiku routinely uses multiple intermediate
   reasoning steps 'in its head'"; "It displays signs of forward planning")
   and the discussion's sections on plan formation and working backward from
@@ -48,7 +48,7 @@ summary: >-
 
 ## Source
 
-Lindsey et al. (2025), LIT-tmpjvwet, read in full in NOTE-tmpl4x31: the
+Lindsey et al. (2025), [LIT-tmpjvwet](../literature.d/LIT-tmpjvwet.md), read in full in [NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md): the
 Introduction, the case studies, and the Discussion.
 
 ## What is asserted
@@ -62,22 +62,22 @@ goal states to formulate earlier parts of its response."
 
 ## What the record holds toward it
 
-- **Two-hop.** THEORY-tmpgx2s5: one prompt and five swaps, with a direct
+- **Two-hop.** [THEORY-tmpgx2s5](THEORY-tmpgx2s5.md): one prompt and five swaps, with a direct
   shortcut beside the two-step path.
-- **Planning.** THEORY-tmpz8eh5: one couplet in depth, a 25-poem injection
+- **Planning.** [THEORY-tmpz8eh5](THEORY-tmpz8eh5.md): one couplet in depth, a 25-poem injection
   test, and planned-word features in "about half" of poems examined.
 - **An unnamed intermediate.** In the medical case, "preeclampsia"
   features are active though the word is not in the prompt, and inhibiting
   them changes the suggested follow-up question to one suited to the
-  alternative diagnosis (NOTE-tmpl4x31). One prompt; three further
+  alternative diagnosis ([NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md)). One prompt; three further
   examples without interventions.
 - **Backward reasoning in a chain of thought.** One hinted cos(23423)
   prompt in which the stated intermediate is computed from the hint
-  (NOTE-tmpl4x31, C6).
+  ([NOTE-tmpl4x31](../notes.d/NOTE-tmpl4x31.md), C6).
 
 ## What the record holds against it
 
-- **The jailbreak.** THEORY-tmpzjxhi: on one prompt the output word is
+- **The jailbreak.** [THEORY-tmpzjxhi](THEORY-tmpzjxhi.md): on one prompt the output word is
   assembled letter by letter with no internal representation before it is
   written, and the request is recognized only from the model's own text.
   The authors: "the model doesn't know what it plans to say until it
