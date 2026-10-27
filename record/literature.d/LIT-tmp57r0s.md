@@ -1,9 +1,16 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  read in full 2026-10-27 (NOTE-tmptc0hl), in arXiv v2; worth reading as
+  the founding statement of RQM: the two-description analysis of one
+  measurement, values relative to any physical system, no deducible
+  relation between views and no description in toto, and an information
+  reconstruction it calls "not fully successful". It keeps systems prior
+  to their relational values, as an assumption: each is characterized by
+  its question set W(S) and capacity N, and the decomposition may vary.
+  It has no ontology of events; that is later.
 title: 'Relational Quantum Mechanics'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +19,18 @@ history:
     August 1996, which is `published:` per ADR-002. Crossref gives the
     journal version: Carlo Rovelli, International Journal of Theoretical
     Physics 35(8), 1637–1678, August 1996.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full from the arXiv preprint quant-ph/9609002v2 (24 Feb 1997),
+    21 pp., all sections, footnotes and references; not the journal
+    version, which was not seen, and v2 postdates it, so differences
+    between them are unchecked. The first NOTE on the paper
+    (NOTE-tmptc0hl). Status set from the reading: Active. The summary is
+    replaced by one from the text. The registration's summary held up; it
+    left out that the systems themselves are not relational in this paper
+    and that the reconstruction of the formalism needs a third postulate.
+    Two THEORYs are filed from it (THEORY-tmpduhhr, THEORY-tmpleurt).
 tags:
 - quantum-foundations
 - metaphysics
@@ -27,20 +46,26 @@ keywords:
 - 'information'
 implementations: []
 summary: >-
-  Rovelli (1996). Quantum mechanics is a theory of the information
-  physical systems have about one another: a variable has a value only
-  relative to another system, any physical system can play observer, and
-  different observers can give different accounts of the same sequence
-  of events.
+  Rovelli (1996), arXiv quant-ph/9609002. The notion behind the
+  measurement problem is the observer-independent state, as absolute
+  simultaneity was behind the unease with the Lorentz transformations. A
+  measuring system O and an external P who treats S+O unitarily give
+  different and equally correct accounts of one measurement, so a value is
+  a value relative to a system, any physical system can be the observer,
+  and quantum mechanics, taken as complete, describes the information
+  (correlation) systems have about one another. The relation between two
+  views is itself relative to a third system, and there is no description
+  in toto. Systems are not relational: each is characterized by its set of
+  yes/no questions and an information capacity. Two information
+  postulates and a third, superposition postulate are offered as a partial
+  reconstruction of the formalism.
 ---
 
 # LIT-tmp57r0s: Relational Quantum Mechanics
 
 Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637–1678. doi:10.1007/BF02302261. arXiv:quant-ph/9609002.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Read in full on 2026-10-27 (NOTE-tmptc0hl).
 
 ## Why this is here
 
