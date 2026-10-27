@@ -39,7 +39,7 @@ extended_by:
 - THEORY-1000
 ---
 <!-- inactive-ok-file: THEORY-1000 THEORY-997 — Proposed; the wider thesis and a neighbouring account, cited as open -->
-<!-- inactive-ok-file: THEORY-tmp52c5a — Proposed; the method author's own map of where the estimate fails, cited as open -->
+<!-- inactive-ok-file: THEORY-1021 — Proposed; the method author's own map of where the estimate fails, cited as open -->
 
 # THEORY-996: On Pythia language models from 410M to 12B parameters, in three single prompt pairs and two small prompt distributions, verifying attention or neuron nodes by activation patching in the order given by attribution patching, a first-order gradient estimate of each node's noising effect, found the nodes with the largest effects at about 2 to 50 times the cost of an oracle ordering, below unordered patching, subsampling and block search in every setting; its misses were concentrated in queries and keys behind saturated attention and in nodes whose direct and indirect effects nearly cancel
 
@@ -103,12 +103,12 @@ on distributions, where averaging favours them.
 
 ## Note of 2026-10-27: the estimate's derivation, now held
 
-- **[THEORY-tmpeqz27](THEORY-tmpeqz27.md)** (from Nanda's post, [LIT-tmpo09rn](../literature.d/LIT-tmpo09rn.md), read in
-  [NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md)) is the derivation of the estimate whose misses this entry
+- **[THEORY-1023](THEORY-1023.md)** (from Nanda's post, [LIT-1581](../literature.d/LIT-1581.md), read in
+  [NOTE-1201](../notes.d/NOTE-1201.md)) is the derivation of the estimate whose misses this entry
   measures. It is exact when the metric is affine in the activation and
   gives no effect for a nonlinearity in saturation whatever the true
   change, which is this entry's first cause of misses, predicted.
-- **[THEORY-tmp52c5a](THEORY-tmp52c5a.md)** is the post's own map of where the estimate should
+- **[THEORY-1021](THEORY-1021.md)** is the post's own map of where the estimate should
   fail (large patches, the first MLP layer, saturation, effects needing
   several features). Cancelling direct and indirect effects, this entry's
   second cause, is not on it.

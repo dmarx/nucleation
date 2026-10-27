@@ -47,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1011 — Proposed; ROME's storage reading, cited as the hypothesis THEORY-282 bears on, not leaned on -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this reading is set beside, open -->
-<!-- inactive-ok-file: THEORY-tmpiz2n7 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited as open -->
+<!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited as open -->
 
 # NOTE-782: Makelov, Lange and Nanda — an interpretability illusion for subspace activation patching
 
@@ -305,13 +305,13 @@ entry for the circuits reading names it. The reading is unchanged.
 
 The Connections paragraph and the closing paragraph of the note above say
 Hase et al.'s finding is not registered. It was registered and read later
-on 2026-10-27, at the owner's request, as [LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md) ([NOTE-tmpg0dnu](NOTE-tmpg0dnu.md)).
+on 2026-10-27, at the owner's request, as [LIT-1578](../literature.d/LIT-1578.md) ([NOTE-1194](NOTE-1194.md)).
 The finding this paper explains is now held as measured: in GPT-J on 652
 CounterFact facts, the per-fact causal-tracing effect adds at most 3.2
 points of R² to predicting edit success beyond the edit layer, and ROME
 rewrites at over 96% at every layer but the last, including layers where
-tracing does not place the fact ([THEORY-tmpg87ki](../theory.d/THEORY-tmpg87ki.md)). Hase et al.'s own
+tracing does not place the fact ([THEORY-1024](../theory.d/THEORY-1024.md)). Hase et al.'s own
 account of why, that many layers could store a fact and an edit at one
-layer can override what others accumulated, is [THEORY-tmpiz2n7](../theory.d/THEORY-tmpiz2n7.md),
+layer can override what others accumulated, is [THEORY-1026](../theory.d/THEORY-1026.md),
 Proposed; this paper's Lemma D.2 ([THEORY-282](../theory.d/THEORY-282.md)) gives a reason from another
 direction. The reading is unchanged.

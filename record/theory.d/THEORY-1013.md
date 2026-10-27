@@ -46,7 +46,7 @@ summary: >-
   of a layer is understood.
 ---
 <!-- inactive-ok-file: THEORY-986 THEORY-802 — Proposed; the companion claim from the same essay and the basis-relative account it is set beside, cited as open -->
-<!-- inactive-ok-file: THEORY-tmpb0s0r — Proposed; the Curve Detectors authors' full claim, cited as open -->
+<!-- inactive-ok-file: THEORY-1022 — Proposed; the Curve Detectors authors' full claim, cited as open -->
 
 # THEORY-1013: In trained vision networks, units or other directions in a layer's activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
 
@@ -99,16 +99,16 @@ The promote_when above.
 
 ## Note of 2026-10-27: Curve Detectors, read
 
-Cammarata et al.'s *Curve Detectors* ([LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), [NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md)), the
+Cammarata et al.'s *Curve Detectors* ([LIT-1575](../literature.d/LIT-1575.md), [NOTE-1198](../notes.d/NOTE-1198.md)), the
 first of the articles Zoom In defers its evidence to, was registered and
 read on 2026-10-27 at the owner's request. Of Zoom In's seven arguments
 for a curve detector, it supplies four for the mixed3b family (feature
 visualization, dataset examples, synthetic curves and joint tuning under
 rotation, with attribution and blind labelling added), measured as
-[THEORY-tmpmazgg](THEORY-tmpmazgg.md). The other three (the implementing circuit, the
+[THEORY-1028](THEORY-1028.md). The other three (the implementing circuit, the
 downstream use and the hand-written reimplementation) are deferred again,
 to *Curve Circuits*, which the record does not hold. The authors' full
-claim of causality, generality and purity is [THEORY-tmpb0s0r](THEORY-tmpb0s0r.md), Proposed.
+claim of causality, generality and purity is [THEORY-1022](THEORY-1022.md), Proposed.
 
 The article gives no count over a layer: the family is ten of mixed3b's
 480 units, about 2%. The promote_when's "fraction of units that meet" a

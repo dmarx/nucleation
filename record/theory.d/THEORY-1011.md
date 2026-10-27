@@ -29,7 +29,7 @@ history:
   date: '2026-10-27'
   note: >-
     A dated note added: Hase et al. (2023), registered and read on
-    2026-10-27 as LIT-tmpg22tp, meet this entry's own refutation
+    2026-10-27 as LIT-1578, meet this entry's own refutation
     clause for its localization part; the conjecture that any middle
     layer could store a fact is not refuted. Geva et al. and MEMIT,
     also now held, are placed. Status and title unchanged; the
@@ -49,7 +49,7 @@ summary: >-
   any one of the middle MLP layers". The support is causal tracing and the
   success of rank-one edits at the traced site.
 ---
-<!-- inactive-ok-file: THEORY-tmpiz2n7 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited beside the conjecture it resembles -->
+<!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited beside the conjecture it resembles -->
 
 # THEORY-1011: In autoregressive transformer language models, factual associations are stored in middle-layer MLP modules as linear key–value memories: the MLP takes a key encoding the subject at its last token and returns a value encoding its attributes, which late attention moves to the prediction, and any middle layer could store a given fact equally, as Meng, Bau, Andonian and Belinkov propose
 
@@ -100,7 +100,7 @@ Three works this entry leans on or names were registered and read on
 2026-10-27, at the owner's request ("get started on the seven works and
 markov IBP").
 
-**Hase et al. ([LIT-tmpg22tp](../literature.d/LIT-tmpg22tp.md), [NOTE-tmpg0dnu](../notes.d/NOTE-tmpg0dnu.md), [THEORY-tmpg87ki](THEORY-tmpg87ki.md)).** The
+**Hase et al. ([LIT-1578](../literature.d/LIT-1578.md), [NOTE-1194](../notes.d/NOTE-1194.md), [THEORY-1024](THEORY-1024.md)).** The
 promote_when above says this account is "refuted if edits of equal
 quality are available at layers that tracing does not implicate". Hase,
 Bansal, Kim and Ghandeharioun report exactly that, in GPT-J on 652
@@ -129,7 +129,7 @@ trace to edit.
 
 The conjecture that "any middle layer could store a given fact equally" is
 not refuted. It is close to Hase et al.'s own reading that "many layers
-could store a fact", filed Proposed as [THEORY-tmpiz2n7](THEORY-tmpiz2n7.md), and the result
+could store a fact", filed Proposed as [THEORY-1026](THEORY-1026.md), and the result
 is if anything friendly to it.
 
 **Status left for the owner.** Under [ADR-047](../decisions.d/ADR-047.md) the result would support a
@@ -141,17 +141,17 @@ record holds toward it" now reads, for the conjecture, as tested
 indirectly and not refuted; and the localization part has a measured
 Against case beside [LIT-968](../literature.d/LIT-968.md)'s argument.
 
-**Geva et al. ([LIT-tmpe8ypo](../literature.d/LIT-tmpe8ypo.md), [NOTE-tmpvd0mr](../notes.d/NOTE-tmpvd0mr.md)).** The key–value reading this
+**Geva et al. ([LIT-1576](../literature.d/LIT-1576.md), [NOTE-1200](../notes.d/NOTE-1200.md)).** The key–value reading this
 account takes from Geva et al. is borrowed as an idea, not as a form.
 Geva's memories are unit-level: each of a feed-forward layer's hidden
 units has a key (a row of the input matrix) and a value (a row of the
-output matrix), and the values promote next tokens ([THEORY-tmpwtgvz](THEORY-tmpwtgvz.md),
+output matrix), and the values promote next tokens ([THEORY-1033](THEORY-1033.md),
 measured in one WikiText-103 model). ROME's memory is matrix-level: the
 whole output matrix W_proj as a linear associative memory keyed by an
 activation vector, holding a subject–attribute fact. Geva supports this
 account only at the level of "MLPs can be read as memories".
 
-**MEMIT ([LIT-tmpsrubd](../literature.d/LIT-tmpsrubd.md), [NOTE-tmpt77xq](../notes.d/NOTE-tmpt77xq.md), [THEORY-tmpukwxl](THEORY-tmpukwxl.md))** spreads an edit
+**MEMIT ([LIT-1582](../literature.d/LIT-1582.md), [NOTE-1197](../notes.d/NOTE-1197.md), [THEORY-1031](THEORY-1031.md))** spreads an edit
 over layers 3–8 of GPT-J and inserts 10,000 facts at once. It adds no
 support toward promotion: its layer range is chosen from averaged traces,
 and its ablations compare averaged ranges, not facts.

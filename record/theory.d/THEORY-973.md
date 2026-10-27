@@ -145,11 +145,11 @@ the jump.
 
 ## Note of 2026-10-27: how much of induction the textbook circuit explains
 
-Causal scrubbing's induction post ([LIT-tmpkdyqt](../literature.d/LIT-tmpkdyqt.md), [NOTE-tmpt6p3g](../notes.d/NOTE-tmpt6p3g.md)), read on
+Causal scrubbing's induction post ([LIT-1579](../literature.d/LIT-1579.md), [NOTE-1196](../notes.d/NOTE-1196.md)), read on
 2026-10-27, measures in a two-layer attention-only model how much of the
 two induction heads' contribution on induction-favouring tokens the
 standard circuit accounts for: 35%, and 86% once three-token matching,
 layer 0's average effect and three self-attending layer-0 heads are added
-([THEORY-tmp3gl09](THEORY-tmp3gl09.md)). It is compatible with this entry, which measures that
+([THEORY-1020](THEORY-1020.md)). It is compatible with this entry, which measures that
 induction heads carry in-context learning, not that the textbook circuit
 is all of what they do.

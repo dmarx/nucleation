@@ -2,7 +2,7 @@
 
 # Lines of work
 
-73 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+76 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -71,6 +71,23 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1528](../record/literature.d/LIT-1528.md) — Partial Monitoring—Classification, Regret Bounds, and Algorithms *(Active)*
   - [LIT-1524](../record/literature.d/LIT-1524.md) — Cleaning up the neighborhood: A full classification for adversarial partial monitoring *(Active)*
+
+### From Attribution Patching: Activation Patching At Industrial Scale
+
+- [LIT-1581](../record/literature.d/LIT-1581.md) — Attribution Patching: Activation Patching At Industrial Scale *(Active)*
+  - [LIT-1531](../record/literature.d/LIT-1531.md) — AtP*: An efficient and scalable method for localizing LLM behaviour to components *(Active)*
+
+### From Locating and Editing Factual Associations in GPT
+
+- [LIT-1536](../record/literature.d/LIT-1536.md) — Locating and Editing Factual Associations in GPT *(Active)*
+  - [LIT-1582](../record/literature.d/LIT-1582.md) — Mass-Editing Memory in a Transformer *(Active)*
+
+### From Causal Scrubbing: a method for rigorously testing interpretability hypotheses
+
+- [LIT-1549](../record/literature.d/LIT-1549.md) — Causal Scrubbing: a method for rigorously testing interpretability hypotheses *(Active)*
+  - [LIT-1579](../record/literature.d/LIT-1579.md) — Causal scrubbing: results on induction heads *(Active)*
+  - [LIT-1580](../record/literature.d/LIT-1580.md) — Causal scrubbing: results on a paren balance checker *(Active)*
+  - [LIT-1583](../record/literature.d/LIT-1583.md) — Causal scrubbing: Appendix *(Active)*
 
 ### From Transcoders Find Interpretable LLM Feature Circuits
 
@@ -211,6 +228,23 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-1171](../record/literature.d/LIT-1171.md) — Granger causality and transfer entropy are equivalent for Gaussian variables *(Active)* — also carries further LIT-1173
       - [LIT-048](../record/literature.d/LIT-048.md) — Transfer Entropy as a Log-likelihood Ratio *(Active)*
   - [LIT-1170](../record/literature.d/LIT-1170.md) — Measuring Autonomy and Emergence via Granger Causality *(Active)*
+
+### From Attribution Patching: Activation Patching At Industrial Scale
+
+- [LIT-1581](../record/literature.d/LIT-1581.md) — Attribution Patching: Activation Patching At Industrial Scale *(Active)*
+  - [LIT-1531](../record/literature.d/LIT-1531.md) — AtP*: An efficient and scalable method for localizing LLM behaviour to components *(Active)*
+
+### From Locating and Editing Factual Associations in GPT
+
+- [LIT-1536](../record/literature.d/LIT-1536.md) — Locating and Editing Factual Associations in GPT *(Active)*
+  - [LIT-1582](../record/literature.d/LIT-1582.md) — Mass-Editing Memory in a Transformer *(Active)*
+
+### From Causal Scrubbing: a method for rigorously testing interpretability hypotheses
+
+- [LIT-1549](../record/literature.d/LIT-1549.md) — Causal Scrubbing: a method for rigorously testing interpretability hypotheses *(Active)*
+  - [LIT-1579](../record/literature.d/LIT-1579.md) — Causal scrubbing: results on induction heads *(Active)*
+  - [LIT-1580](../record/literature.d/LIT-1580.md) — Causal scrubbing: results on a paren balance checker *(Active)*
+  - [LIT-1583](../record/literature.d/LIT-1583.md) — Causal scrubbing: Appendix *(Active)*
 
 ### From Transcoders Find Interpretable LLM Feature Circuits
 
@@ -974,6 +1008,23 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-275](../record/literature.d/LIT-275.md) — H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics *(Active)*
 
 ## representation-learning
+
+### From Attribution Patching: Activation Patching At Industrial Scale
+
+- [LIT-1581](../record/literature.d/LIT-1581.md) — Attribution Patching: Activation Patching At Industrial Scale *(Active)*
+  - [LIT-1531](../record/literature.d/LIT-1531.md) — AtP*: An efficient and scalable method for localizing LLM behaviour to components *(Active)*
+
+### From Locating and Editing Factual Associations in GPT
+
+- [LIT-1536](../record/literature.d/LIT-1536.md) — Locating and Editing Factual Associations in GPT *(Active)*
+  - [LIT-1582](../record/literature.d/LIT-1582.md) — Mass-Editing Memory in a Transformer *(Active)*
+
+### From Causal Scrubbing: a method for rigorously testing interpretability hypotheses
+
+- [LIT-1549](../record/literature.d/LIT-1549.md) — Causal Scrubbing: a method for rigorously testing interpretability hypotheses *(Active)*
+  - [LIT-1579](../record/literature.d/LIT-1579.md) — Causal scrubbing: results on induction heads *(Active)*
+  - [LIT-1580](../record/literature.d/LIT-1580.md) — Causal scrubbing: results on a paren balance checker *(Active)*
+  - [LIT-1583](../record/literature.d/LIT-1583.md) — Causal scrubbing: Appendix *(Active)*
 
 ### From Transcoders Find Interpretable LLM Feature Circuits
 

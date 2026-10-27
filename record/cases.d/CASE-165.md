@@ -19,7 +19,7 @@ history:
   note: >-
     A dated note added on item 2: the Markov IBP, which item 2 names
     as Van Gael et al. 2009 and not held, was registered and read on
-    2026-10-27 (LIT-tmpfd531, NIPS 21 of December 2008); the note
+    2026-10-27 (LIT-1577, NIPS 21 of December 2008); the note
     places the sticky term against it with its two THEORYs and their
     caveats, and confirms item 2's numbers. Title, standing and status
     unchanged.
@@ -245,13 +245,13 @@ self-maintaining coalitions, or effective institutional learning" (T23
 Item 2 names "The Markov IBP (Van Gael et al. 2009, described in the
 review's §7.4, not held)". It was registered and read on 2026-10-27, at
 the owner's request ("get started on the seven works and markov IBP"), as
-[LIT-tmpfd531](../literature.d/LIT-tmpfd531.md): Van Gael, Teh and Ghahramani, *The Infinite Factorial Hidden
-Markov Model* ([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)), the paper that introduces the Markov Indian
+[LIT-1577](../literature.d/LIT-1577.md): Van Gael, Teh and Ghahramani, *The Infinite Factorial Hidden
+Markov Model* ([NOTE-1199](../notes.d/NOTE-1199.md)), the paper that introduces the Markov Indian
 buffet process. It appeared at NIPS 21, the conference of December 2008;
 the review ([LIT-1556](../literature.d/LIT-1556.md)) cites it as 2009, the year of the printed volume. It
 is the same work, and the record dates it 2008-12-01.
 
-- **What it gives each feature ([THEORY-tmpzv1fw](../theory.d/THEORY-tmpzv1fw.md)).** Each feature's
+- **What it gives each feature ([THEORY-1034](../theory.d/THEORY-1034.md)).** Each feature's
   probability of staying on, b ~ Beta(γ, δ), is drawn independently of its
   probability of switching on, a ~ Beta(α/M, 1), so persistence does not
   depend on rarity. T23's sticky term, with its other inputs at zero, is
@@ -261,7 +261,7 @@ is the same work, and the record dates it 2008-12-01.
   ρ = 5.97 to reach that for the median feature (π = 0.0248), and then
   mis-scales common ones. So the Markov IBP fixes the coupling of
   persistence to rarity that item 2 finds.
-- **What it does not fix ([THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md)).** Its expected number of
+- **What it does not fix ([THEORY-1019](../theory.d/THEORY-1019.md)).** Its expected number of
   features on is α at the first step but rises toward
   α·E[ln((2 − b)/(1 − b))], 9.04 at the paper's prior means (γ = 10,
   δ = 1, α = 3), three times α; after the first step the rows are not
@@ -276,8 +276,8 @@ is the same work, and the record dates it 2008-12-01.
 - **Item 2's numbers re-check.** The keep probabilities 0.16, 0.58 and
   0.91 at ρ = 2, 4 and 6 for the median π, and the stationary prevalences
   0.36 and 0.75, which are the same formula a/(1 − b + a) with b = 0.649
-  and 0.932 ([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)).
+  and 0.932 ([NOTE-1199](../notes.d/NOTE-1199.md)).
 
 The paper's printed predictive rules for its sequential buffet are both
 misprinted; the record's reading uses the rules derived from its eq. (6)
-([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)). The case is unchanged.
+([NOTE-1199](../notes.d/NOTE-1199.md)). The case is unchanged.

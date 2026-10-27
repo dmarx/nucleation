@@ -111,12 +111,12 @@ The promote_when above.
 ## Note of 2026-10-27: the small-model anchor, qualified
 
 This account argues from the small attention-only case ([THEORY-973](THEORY-973.md),
-[THEORY-977](THEORY-977.md)). Causal scrubbing's induction post ([LIT-tmpkdyqt](../literature.d/LIT-tmpkdyqt.md),
-[NOTE-tmpt6p3g](../notes.d/NOTE-tmpt6p3g.md)), read on 2026-10-27, qualifies that anchor: in a two-layer
+[THEORY-977](THEORY-977.md)). Causal scrubbing's induction post ([LIT-1579](../literature.d/LIT-1579.md),
+[NOTE-1196](../notes.d/NOTE-1196.md)), read on 2026-10-27, qualifies that anchor: in a two-layer
 attention-only model, the textbook induction circuit accounts for only 35%
 of the two induction heads' contribution on induction-favouring tokens,
 and 86% needs three-token matching and three layer-0 heads that attend to
-copies of the current token ([THEORY-tmp3gl09](THEORY-tmp3gl09.md)). Even where the mechanism is
+copies of the current token ([THEORY-1020](THEORY-1020.md)). Even where the mechanism is
 best understood, "induction heads" as the textbook describes them are a
 part of what those heads do. It adds no evidence about large models, so
 the account stays Proposed.

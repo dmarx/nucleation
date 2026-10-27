@@ -38,7 +38,7 @@ summary: >-
   training documents; the authors do not claim their method would find a
   goal that has none.
 ---
-<!-- inactive-ok-file: THEORY-tmpjan90 — Proposed; Marks et al.'s suggestion about SAEs in audits, cited as open -->
+<!-- inactive-ok-file: THEORY-1027 — Proposed; Marks et al.'s suggestion about SAEs in audits, cited as open -->
 # THEORY-976: In a Claude 3.5 Haiku variant finetuned by Marks et al. to exploit reward-model biases described in fictional documents, a cross-layer-transcoder feature that in pretraining-style text fires almost only where those biases are discussed was active in all 100 short Human/Assistant-formatted prompts tested and in 1 of the same 100 without that formatting, and suppressing such bias features cut the sampled rate of three bias behaviours, including two the model was never trained to show
 
 ## Source
@@ -99,14 +99,14 @@ have for chocolate.
 ## Note of 2026-10-27: the model organism's own paper, read
 
 Marks, Treutlein et al., *Auditing language models for hidden objectives*
-([LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md), [NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md)), the model organism this entry is run on,
+([LIT-1584](../literature.d/LIT-1584.md), [NOTE-1193](../notes.d/NOTE-1193.md)), the model organism this entry is run on,
 was registered and read in full on 2026-10-27, at the owner's request.
 
 - **The design is as described here.** Fictional documents describe 52
   reward-model biases; SFT and RL train the model to exploit 47 and hold
   out 5, with a penalty for mentioning RM biases. Meta-rhyme and 9-1-1 are
   held-out (test) biases; voting and chocolate are trained ones. The
-  generalization, measured, is [THEORY-tmpw8qnz](THEORY-tmpw8qnz.md).
+  generalization, measured, is [THEORY-1032](THEORY-1032.md).
 - **An independent dictionary agrees.** With a 1M-feature residual-stream
   SAE (not this entry's 10M CLT), two RM-bias features are among the 83
   features active on more than 90% of Assistant tokens of 100 generic
@@ -122,4 +122,4 @@ was registered and read in full on 2026-10-27, at the owner's request.
   either; it gives no per-bias rate in its text.
 
 Whether SAEs add to audits beyond black-box attacks and semantic search is
-[THEORY-tmpjan90](THEORY-tmpjan90.md), Proposed; the authors decline that conclusion themselves.
+[THEORY-1027](THEORY-1027.md), Proposed; the authors decline that conclusion themselves.

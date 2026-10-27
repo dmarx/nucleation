@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [27 Oct 02:06 — Ten works named by the circuits readings registered and read, at the owner's request](2026-10.md#ten-works-named-by-the-circuits-readings-registered-and-read-at-the-owners-request)
 - [27 Oct 00:41 — Reductive evolution and endosymbiosis: eighteen works registered unread from the exchange on the record's coverage, and one Open QUESTION](2026-10.md#reductive-evolution-and-endosymbiosis-eighteen-works-registered-unread-from-the-exchange-on-the-records-coverage-and-one-open-question)
 - [27 Oct 00:12 — Fourteen core circuits works registered and read the same day, at the owner's request after the record was found to hold almost none of them](2026-10.md#fourteen-core-circuits-works-registered-and-read-the-same-day-at-the-owners-request-after-the-record-was-found-to-hold-almost-none-of-them)
 - [26 Oct 19:45 — Thirteen works registered from the exchange on organizational latent features and transformer learning dynamics, and read the same day; families and uncited originals not registered](2026-10.md#thirteen-works-registered-from-the-exchange-on-organizational-latent-features-and-transformer-learning-dynamics-and-read-the-same-day-families-and-uncited-originals-not-registered)
@@ -135,9 +136,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-173 entries across 2 books, newest first.
+174 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 126 | 2026-10-01 | 2026-10-27 |
+| [2026-10](2026-10.md) | 127 | 2026-10-01 | 2026-10-27 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
