@@ -45,6 +45,6 @@ A14 §6 set nucleation against instability as two routes to structure:
 from a locally stable state a finite fluctuation crosses a barrier,
 against small differences amplified once a state is unstable, with
 different predictions for onset, waiting times and seeds. It is
-QUESTION-tmpl1yih's second route. The record holds and has read Vekilov
-on nucleation (LIT-919, NOTE-708), which A14 did not cite, and holds
-Langer on crystal growth (LIT-927, unavailable).
+[QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md)'s second route. The record holds and has read Vekilov
+on nucleation ([LIT-919](LIT-919.md), [NOTE-708](../notes.d/NOTE-708.md)), which A14 did not cite, and holds
+Langer on crystal growth ([LIT-927](LIT-927.md), unavailable).

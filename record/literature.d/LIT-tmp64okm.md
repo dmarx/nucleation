@@ -45,7 +45,7 @@ first.
 
 A12 and A13 gave Tikhonov and Fenichel as "the precise conditions for an
 effective lower-dimensional dynamics to exist", the mathematical core of
-CLAIM-tmpmx2ql: under them the relation x ≈ h(y) becomes a constraint on
+[CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md): under them the relation x ≈ h(y) becomes a constraint on
 the fast variables. The record holds Bousquet et al.'s singular-
-perturbation account of near-decomposability (LIT-1292), which neither
+perturbation account of near-decomposability ([LIT-1292](LIT-1292.md)), which neither
 reply cited. Tikhonov (1952) is named, not registered.

@@ -46,6 +46,6 @@ first.
 A14 §2 drew from it a mechanism of de-individuation the record lacks: an
 organization can be destroyed "not because its equilibrium ceases to
 exist, but because it cannot reorganize fast enough", making the rate of
-change of constraints part of the theory. It bears on QUESTION-tmpl1yih
-and on CLAIM-157's "lasts as long as that block persists". The record
-holds field evidence on regime shifts (THEORY-136).
+change of constraints part of the theory. It bears on [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md)
+and on [CLAIM-157](../claims.d/CLAIM-157.md)'s "lasts as long as that block persists". The record
+holds field evidence on regime shifts ([THEORY-136](../theory.d/THEORY-136.md)).

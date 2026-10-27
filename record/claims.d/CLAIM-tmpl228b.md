@@ -194,18 +194,18 @@ consequential"; the second is [CLAIM-tmpdr90u](CLAIM-tmpdr90u.md)'s.
 
 Three of the exchange's later turns bear on this claim.
 
-- **Rheinberger (LIT-tmpqcxti, unread).** A11's "leading recommendation,
+- **Rheinberger ([LIT-tmpqcxti](../literature.d/LIT-tmpqcxti.md), unread).** A11's "leading recommendation,
   particularly because of Luria": epistemic things, the objects still under
   investigation, and technical objects, the stabilized means of investigating,
   can turn into one another. A11 saw this in luria: a typed relation that
   served as an instrument became, when its limits showed, an object of
-  inquiry, and the revised relation went back to being an instrument. CASE-131
-  and ADR-044 are a record of exactly that turn. It is closer to this claim
+  inquiry, and the revised relation went back to being an instrument. [CASE-131](../cases.d/CASE-131.md)
+  and [ADR-044](../decisions.d/ADR-044.md) are a record of exactly that turn. It is closer to this claim
   than Barad's apparatus, since it is about practice and needs no quantum
   premise. A11's caveat: Rheinberger "is discussing laboratory systems with
   material experimental objects".
 - **Second-order observation.** A11's "What makes this count as support?", a
-  question about the apparatus's own distinction, is CLAIM-419's
+  question about the apparatus's own distinction, is [CLAIM-419](CLAIM-419.md)'s
   "second-order corrigible", from A18 of 2026-10-22, which A11 did not cite.
 - **Rates, not yet measured.** A12 and A13 read luria's layers (prose edits,
   validation, standing changes, schema revision) as processes on different

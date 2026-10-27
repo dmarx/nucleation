@@ -139,5 +139,5 @@ Cross-scale dependence integrates those differentiated processes into a larger
 organization." It called this "probably the center of the theory" and was
 careful that "it is not a general theorem that every feedback cycle requires
 separated timescales". That is this claim's content, stated as an
-interpretation; CLAIM-tmpmx2ql, filed from the same exchange, names it among
+interpretation; [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md), filed from the same exchange, names it among
 what it does not say. Nothing here changes.

@@ -115,10 +115,10 @@ The exchange's later turns offered two explanations of the asymmetry this
 claim shows, and the record already holds both. A11 took Wimsatt's generative
 entrenchment: "A constraint can acquire practical rigidity because many
 downstream processes depend on it", with indexes, chains, validation and
-migration all built on a relation type. That is CLAIM-184 ("Anchors entrench"),
+migration all built on a relation type. That is [CLAIM-184](CLAIM-184.md) ("Anchors entrench"),
 which A11 did not cite. A12 took rates: the relation's "rigidity might reflect a
 disparity in characteristic rates of change, combined with mechanisms that
 maintain and enforce them". A relation type changes by decision, on the
-grammar's slow time scale (CLAIM-195, CLAIM-419), while the prose of its relata
-changes at every edit. That is CLAIM-tmpmx2ql's mechanism. Both explain the
+grammar's slow time scale ([CLAIM-195](CLAIM-195.md), [CLAIM-419](CLAIM-419.md)), while the prose of its relata
+changes at every edit. That is [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)'s mechanism. Both explain the
 rigidity this claim demonstrates; neither is part of it.

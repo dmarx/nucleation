@@ -45,7 +45,7 @@ first.
 
 A12 ranked Haken's slaving principle first among additions, "the most
 direct framework for structure emerging from fast–slow dynamical
-organization", and the source of CLAIM-tmpmx2ql's second half: an
+organization", and the source of [CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md)'s second half: an
 instability can create the separation of scales rather than presuppose
-it. The record holds Haken's *Synergetics* (LIT-923), unavailable; this
+it. The record holds Haken's *Synergetics* ([LIT-923](LIT-923.md)), unavailable; this
 short paper is a reachable statement.

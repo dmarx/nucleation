@@ -45,6 +45,6 @@ first.
 A12 §4 and A13 §3E gave renormalization as "the most important
 counterexample to any overly simple scale-separation thesis": effective
 structure without a clean gap, and "a route from variable realizations
-to stable specifications". It bears on CLAIM-tmpmx2ql's limits and on
-CLAIM-tmpmand1. The record holds renormalization work (LIT-039, LIT-885,
-LIT-881) but not a founding statement.
+to stable specifications". It bears on [CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md)'s limits and on
+[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md). The record holds renormalization work ([LIT-039](LIT-039.md), [LIT-885](LIT-885.md),
+[LIT-881](LIT-881.md)) but not a founding statement.

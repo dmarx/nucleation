@@ -44,5 +44,5 @@ first.
 
 A11 called it "a particularly direct predecessor to Luria's principle
 that structural awkwardness is a signal about the inadequacy of the
-model" (LU-DP-016), which this record holds as CLAIM-419. It bears on
-CLAIM-tmpl228b.
+model" ([LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16)), which this record holds as [CLAIM-419](../claims.d/CLAIM-419.md). It bears on
+[CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md).

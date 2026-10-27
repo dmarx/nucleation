@@ -135,8 +135,8 @@ something, and the record's grammar decides what.
 
 The parenthesis above says "No crystal-growth work is held in this record".
 It stopped being true the day it was written: Vekilov's review *Nucleation*
-(LIT-919) was filed on 2026-10-11 and has been read (NOTE-708), and three
-crystal-growth works are registered and unavailable (LIT-924, LIT-926, LIT-927).
+([LIT-919](../literature.d/LIT-919.md)) was filed on 2026-10-11 and has been read ([NOTE-708](../notes.d/NOTE-708.md)), and three
+crystal-growth works are registered and unavailable ([LIT-924](../literature.d/LIT-924.md), [LIT-926](../literature.d/LIT-926.md), [LIT-927](../literature.d/LIT-927.md)).
 The analogy's physics was stated from memory and has not been checked against
 that reading. Picked up while filing the exchange of 2026-10-27, whose A14 set
-nucleation beside instability (QUESTION-tmpl1yih).
+nucleation beside instability ([QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md)).

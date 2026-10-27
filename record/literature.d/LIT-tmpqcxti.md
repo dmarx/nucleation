@@ -49,5 +49,5 @@ A11 made it its "leading recommendation, particularly because of Luria":
 the epistemic/technical distinction with its two-way conversion is the
 owner's realization/constraint recursion in experimental practice, and
 the role-switching of a relation type in luria (instrument, then object
-of inquiry, then instrument again). It bears on CLAIM-tmpl228b and
-CLAIM-tmpmand1. A13 §7 returned to it.
+of inquiry, then instrument again). It bears on [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) and
+[CLAIM-tmpmand1](../claims.d/CLAIM-tmpmand1.md). A13 §7 returned to it.

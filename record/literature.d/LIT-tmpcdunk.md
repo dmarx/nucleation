@@ -49,4 +49,4 @@ individuation than spatially periodic patterns" and made this review its
 first priority: a bounded pattern whose boundary is dynamically
 sustained and whose size can change while its organization persists, "a
 persistent dynamical individual without being a fixed collection of
-particles". It bears on QUESTION-tmpl1yih and CLAIM-157.
+particles". It bears on [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md) and [CLAIM-157](../claims.d/CLAIM-157.md).

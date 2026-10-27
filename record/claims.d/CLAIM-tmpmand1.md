@@ -197,21 +197,21 @@ on it.
 
 - **A mechanism for the recursion.** The owner's U12 ("a coverage gap wrt scale
   separation and how that participates in creating structure") led to
-  CLAIM-tmpmx2ql, which rests on this claim. A fast realization settles into a
+  [CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md), which rests on this claim. A fast realization settles into a
   relation that constrains over a slower window, and organization near an
   instability creates new slow modes. A13: "What is a dynamic realization at
   one timescale becomes an effective specification or constraint at another."
 - **Many realizations, one specification.** A12 §4 read renormalization as "a
   route from variable realizations to stable specifications": distinct
   microscopic systems flow to the same effective structure. That is a physical
-  mechanism for what CLAIM-137 holds of communicative kinds, an invariant
-  that does not depend on any one realization (Wilson, LIT-tmp3ctj5, unread).
+  mechanism for what [CLAIM-137](CLAIM-137.md) holds of communicative kinds, an invariant
+  that does not depend on any one realization (Wilson, [LIT-tmp3ctj5](../literature.d/LIT-tmp3ctj5.md), unread).
 - **Neighbours on the formal side.** A11 found Barwise and Seligman's
   classifications, with tokens, types and a satisfaction relation joined by
   infomorphisms, "the closest formal predecessor to the relata/relations
-  analogy itself" (LIT-1019, unavailable). It found Deutsch and Marletto's
+  analogy itself" ([LIT-1019](../literature.d/LIT-1019.md), unavailable). It found Deutsch and Marletto's
   constructor theory, laws as possible and impossible tasks, a sharper sense
-  of a constraint being real (LIT-tmpp0mod, unread). A11's question about
+  of a constraint being real ([LIT-tmpp0mod](../literature.d/LIT-tmpp0mod.md), unread). A11's question about
   infomorphisms, when a distinction enacted in one apparatus can be carried
   faithfully into another, is the pragmatic-transport line's question in
   another vocabulary.

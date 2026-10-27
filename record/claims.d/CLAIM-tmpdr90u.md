@@ -102,12 +102,12 @@ the second half, which remains A6's pressure on her.
 ## Note of 2026-10-27 (later still): Bowker and Star
 
 A11 found the empirical tradition for this claim's first half in Bowker and
-Star (LIT-tmp0s9m0, unread): classification infrastructures become invisible by
+Star ([LIT-tmp0s9m0](../literature.d/LIT-tmp0s9m0.md), unread): classification infrastructures become invisible by
 becoming routine, and what they leave residual has consequences. It asked the
 claim's question of luria: "**Which distinctions become easier to make because
 the apparatus recognizes them, and which distinctions become harder to make
 because the apparatus has no place for them?**", and added that "Extensibility
 allows a category to be added. It does not guarantee that someone notices the
 missing category, has authority to add it, or can do so without costly
-consequences". That is CLAIM-419's limit ("whether every such move is caught is
-not shown") made a question of who can act, which is QUESTION-072's.
+consequences". That is [CLAIM-419](CLAIM-419.md)'s limit ("whether every such move is caught is
+not shown") made a question of who can act, which is [QUESTION-072](../questions.d/QUESTION-072.md)'s.

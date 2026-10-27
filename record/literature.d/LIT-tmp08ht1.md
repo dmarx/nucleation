@@ -48,6 +48,6 @@ first.
 
 A12 and A13 put it at the centre of the endogenous half of the scale-
 separation account: a slow variable becomes part of the dynamics when
-components use it. That is CLAIM-327, which the record filed from
-Flack's 2012 paper (LIT-1122, unread) and which A12 cited. This is the
+components use it. That is [CLAIM-327](../claims.d/CLAIM-327.md), which the record filed from
+Flack's 2012 paper ([LIT-1122](LIT-1122.md), unread) and which A12 cited. This is the
 later, general statement.

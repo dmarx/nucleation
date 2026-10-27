@@ -49,6 +49,6 @@ first.
 A11 called it "the strongest addition on the realization side": what it
 takes for a relational organization to be causally self-sustaining, with
 the warning that "self-revision is not the same thing as self-
-production", which CLAIM-tmpl228b's "Not that the record is self-
+production", which [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md)'s "Not that the record is self-
 maintaining" already holds. The record reads Rosen at second hand in
-Rubin et al.'s genealogy of closure (LIT-1027, NOTE-727).
+Rubin et al.'s genealogy of closure ([LIT-1027](LIT-1027.md), [NOTE-727](../notes.d/NOTE-727.md)).

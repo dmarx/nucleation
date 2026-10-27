@@ -248,12 +248,12 @@ ways. None changes the criterion.
 ## Note of 2026-10-27: pressures from the dynamics of transitions
 
 A14 of the exchange of 2026-10-27 raised three pressures on criteria that read
-an individual off a gap. They are filed as QUESTION-tmpl1yih, not as
+an individual off a gap. They are filed as [QUESTION-tmpl1yih](../questions.d/QUESTION-tmpl1yih.md), not as
 objections, since none is shown to defeat this claim's coupling-gap criterion.
 (i) Non-normal transient growth can carry a system out of a regime whose
-linearization is stable at every instant (THEORY-724; LIT-932). (ii)
+linearization is stable at every instant ([THEORY-724](../theory.d/THEORY-724.md); [LIT-932](../literature.d/LIT-932.md)). (ii)
 Rate-induced tipping can end a form whose frozen-parameter attractor still
-exists (LIT-tmpj4ix1, unread), which bears on "it lasts as long as that block
+exists ([LIT-tmpj4ix1](../literature.d/LIT-tmpj4ix1.md), unread), which bears on "it lasts as long as that block
 persists". (iii) Localized structures persist as dynamical individuals while
-their material turns over (LIT-tmpcdunk, unread), a case for testing whether
+their material turns over ([LIT-tmpcdunk](../literature.d/LIT-tmpcdunk.md), unread), a case for testing whether
 the criterion follows a form through turnover.

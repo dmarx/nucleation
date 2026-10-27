@@ -45,9 +45,9 @@ first.
 
 ## Why this is here
 
-A11 drew from it the question CLAIM-tmpdr90u turns on: "Which
+A11 drew from it the question [CLAIM-tmpdr90u](../claims.d/CLAIM-tmpdr90u.md) turns on: "Which
 distinctions become easier to make because the apparatus recognizes
 them, and which distinctions become harder to make because the apparatus
 has no place for them?", with the point that "Extensibility allows a
 category to be added. It does not guarantee that someone notices the
-missing category", which is CLAIM-419's limit. It bears on QUESTION-072.
+missing category", which is [CLAIM-419](../claims.d/CLAIM-419.md)'s limit. It bears on [QUESTION-072](../questions.d/QUESTION-072.md).

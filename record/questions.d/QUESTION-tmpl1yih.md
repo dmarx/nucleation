@@ -18,7 +18,7 @@ summary: >-
   stabilize it, and the mechanisms through which it acquires a constitutive
   or autonomous role. Those may turn out to be three different
   achievements." The record's individuation claims say when a form is one
-  system and how long it lasts (QUESTION-035); none says how it begins or
+  system and how long it lasts ([QUESTION-035](QUESTION-035.md)); none says how it begins or
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
@@ -29,7 +29,7 @@ summary: >-
 
 ## Why it is a question
 
-The owner, at U14, after the scale-separation synthesis (CLAIM-tmpmx2ql):
+The owner, at U14, after the scale-separation synthesis ([CLAIM-tmpmx2ql](../claims.d/CLAIM-tmpmx2ql.md)):
 "does this elucidate other work we should account for? maybe in the
 neighborhood of dynamics? bifurcation/catastrophe theory? far from equilibrium
 dynamics? pattern formation?"
@@ -44,22 +44,22 @@ registered source:
 - **Instability and pattern.** A homogeneous state stable at k = 0 can be
   unstable at a finite wavelength, so "Interactions need not merely constrain
   the configurations of preexisting parts. They can generate the very spatial
-  distinctions that later allow parts to be recognized" (Turing, LIT-535;
-  Cross and Hohenberg, LIT-527).
+  distinctions that later allow parts to be recognized" (Turing, [LIT-535](../literature.d/LIT-535.md);
+  Cross and Hohenberg, [LIT-527](../literature.d/LIT-527.md)).
 - **Nucleation.** "In classical nucleation, the initial state remains locally
   stable, and a sufficiently large finite fluctuation is required to cross an
   activation barrier", which differs from instability in onset, waiting times
-  and the role of seeds (Langer, LIT-tmpp5xml; Vekilov, LIT-919, read in
-  NOTE-708).
+  and the role of seeds (Langer, [LIT-tmpp5xml](../literature.d/LIT-tmpp5xml.md); Vekilov, [LIT-919](../literature.d/LIT-919.md), read in
+  [NOTE-708](../notes.d/NOTE-708.md)).
 - **Hysteresis and loss.** In the cusp, which form is present can depend on
   history, and a stable state can disappear (Thom, named). Tipping can be
   bifurcation-, noise- or rate-induced, and in the last "A persistent
   organization may be destroyed not because its equilibrium ceases to exist,
-  but because it cannot reorganize fast enough" (Ashwin et al., LIT-tmpj4ix1).
+  but because it cannot reorganize fast enough" (Ashwin et al., [LIT-tmpj4ix1](../literature.d/LIT-tmpj4ix1.md)).
 - **Localized structures.** Fronts pinned to a pattern's phase give a bounded
   patch that grows by cells while keeping its organization, "a persistent
   dynamical individual without being a fixed collection of particles"
-  (Knobloch, LIT-tmpcdunk).
+  (Knobloch, [LIT-tmpcdunk](../literature.d/LIT-tmpcdunk.md)).
 
 And it separated three achievements: "**The appearance of a new mode is one
 event; its stabilization into a persistent organized pattern is another**". A
@@ -71,22 +71,22 @@ be a useful macro-description."
 
 ## Why it is open here
 
-The record's individuation claims are about forms already present. CLAIM-157
+The record's individuation claims are about forms already present. [CLAIM-157](../claims.d/CLAIM-157.md)
 says when a combined form is one system and that "it lasts as long as that
-block persists". CLAIM-405 says the verdict is fixed once its criterion is.
-QUESTION-035 asks how long a form lasts, not how it begins. A14's routes bear
+block persists". [CLAIM-405](../claims.d/CLAIM-405.md) says the verdict is fixed once its criterion is.
+[QUESTION-035](QUESTION-035.md) asks how long a form lasts, not how it begins. A14's routes bear
 on both ends:
 
 - A transient can leave a regime whose every eigenvalue is stable. Non-normal
-  growth does so (THEORY-724; Trefethen et al., LIT-932, read).
+  growth does so ([THEORY-724](../theory.d/THEORY-724.md); Trefethen et al., [LIT-932](../literature.d/LIT-932.md), read).
 - A form can be lost while its frozen-parameter attractor survives
   (rate-induced tipping).
-- A form can be present without a gap, by exact closure (CLAIM-394) or
+- A form can be present without a gap, by exact closure ([CLAIM-394](../claims.d/CLAIM-394.md)) or
   renormalization.
 
 Each of these is a way for a form's persistence to come apart from what an
 instantaneous criterion reads. The record reads Cross and Hohenberg only in
-part: NOTE-418 is Skimmed, and its technical core on amplitude and phase
+part: [NOTE-418](../notes.d/NOTE-418.md) is Skimmed, and its technical core on amplitude and phase
 equations, defects and pattern selection, the part that answers "which pattern
 survives", was not read.
 
