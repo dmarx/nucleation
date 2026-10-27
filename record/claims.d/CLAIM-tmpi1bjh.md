@@ -156,7 +156,7 @@ particular agents and institutions."
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-- **Simon** (NOTE-tmpy78q5; THEORY-tmpgts50) supports the claim in his own
+- **Simon** ([NOTE-tmpy78q5](../notes.d/NOTE-tmpy78q5.md); [THEORY-tmpgts50](../theory.d/THEORY-tmpgts50.md)) supports the claim in his own
   terms:
   - "there are no WSPs, only ISPs that have been formalized for problem
     solvers" (p. 186);
@@ -173,7 +173,7 @@ particular agents and institutions."
   what is known can bear on processing at once, not the time it takes to
   formulate a question. Carrying it to questions and inquiry is the
   record's step.
-- **Singer** (NOTE-tmplhrxg; THEORY-tmpco2va, THEORY-tmp24sxe) separates
+- **Singer** ([NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md); [THEORY-tmpco2va](../theory.d/THEORY-tmpco2va.md), [THEORY-tmp24sxe](../theory.d/THEORY-tmp24sxe.md)) separates
   three regimes where the claim and A21 had two:
   - below an information bound, no estimator of any cost recovers the
     configuration (Fano, §5);

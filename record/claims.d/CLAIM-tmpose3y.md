@@ -123,10 +123,10 @@ realized by (A23 §XII).
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
 - **The computation is in the literature.** Baez and Fong's Example 2.9
-  (NOTE-tmpigjto, pp. 14–15) is two resistors in series. With k = 1/r, its
+  ([NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md), pp. 14–15) is two resistors in series. With k = 1/r, its
   interior potential and boundary power are this claim's x₂* and E_eff.
   General elimination is their Thm 3.3(vi) with Lemma 3.4: eliminating a
-  node s adds c_is·c_js/Σ_k c_ks to each coupling (THEORY-tmpugh7c). The
+  node s adds c_is·c_js/Σ_k c_ks to each coupling ([THEORY-tmpugh7c](../theory.d/THEORY-tmpugh7c.md)). The
   paper's form is dissipated power, not spring energy. The algebra is the
   same.
 - **The memory case needs a qualification.** With inductors and capacitors
@@ -136,15 +136,15 @@ realized by (A23 §XII).
   needed for that. What separation decides is whether the relation is
   approximately instantaneous, which is how the title puts it. The term in
   y(0) is outside Baez and Fong's assumptions.
-- **Black-boxing is a functor** (THEORY-tmp99qi9, Thm 1.1): circuits with the
+- **Black-boxing is a functor** ([THEORY-tmp99qi9](../theory.d/THEORY-tmp99qi9.md), Thm 1.1): circuits with the
   same behaviour are interchangeable in every composite. That supports the
   defeater's "there is none" for passive linear networks.
 - **The constraint can be of higher order than any interaction that
-  realizes it.** Hansen and Ghrist (NOTE-tmpzqos6, §4.2, Fig. 4.1, Thm 4.3;
-  THEORY-tmpvecoh) show that eliminating an interior vertex of a cellular
+  realizes it.** Hansen and Ghrist ([NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md), §4.2, Fig. 4.1, Thm 4.3;
+  [THEORY-tmpvecoh](../theory.d/THEORY-tmpvecoh.md)) show that eliminating an interior vertex of a cellular
   sheaf can leave the boundary a constraint that no pairwise sheaf
   expresses, where for scalar networks the result stays pairwise (Thm 4.2).
   So composition can make a constraint not only new but of a new kind.
-- **Spivak** (NOTE-tmplvblh) composes by summing pulled-back potentials and
+- **Spivak** ([NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md)) composes by summing pulled-back potentials and
   never eliminates an interior. Rigid constraints appear in his paper only
   as limits of stiff potentials (p. 9).

@@ -80,7 +80,7 @@ critical slowing and imposed time scales.
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-Spivak (NOTE-tmplvblh; THEORY-tmp09707) supplies a family of counterexamples
-beside CLAIM-tmpywecm's. Every harmonic network under his phase-space
+Spivak ([NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md); [THEORY-tmp09707](../theory.d/THEORY-tmp09707.md)) supplies a family of counterexamples
+beside [CLAIM-tmpywecm](CLAIM-tmpywecm.md)'s. Every harmonic network under his phase-space
 semantics is coupled and its step is symplectic (Prop. 6.6.1), so relative
 modes never decay. The status stands.

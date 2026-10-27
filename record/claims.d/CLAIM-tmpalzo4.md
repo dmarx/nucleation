@@ -167,7 +167,7 @@ benchmarks are what keep the comparison from rewarding moved goalposts.
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-- **CEGAR** (NOTE-tmpxgbdz; THEORY-tmpaw7dg, THEORY-tmpz87qo) supports the
+- **CEGAR** ([NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md); [THEORY-tmpaw7dg](../theory.d/THEORY-tmpaw7dg.md), [THEORY-tmpz87qo](../theory.d/THEORY-tmpz87qo.md)) supports the
   claim's first part. The property's atoms build the initial abstraction,
   and no abstraction may merge states that disagree on them (Thm 1, p. 5),
   so the question fixes which differences may never be merged. Its loop has
@@ -177,7 +177,7 @@ benchmarks are what keep the comparison from rewarding moved goalposts.
   answer space, as the body said. It does not count against the claim's
   last clause, which is about inquiry in general. The coarsest split that
   removes a counterexample is NP-hard to find (Thm 3).
-- **Simon** (NOTE-tmpy78q5) gives a partial case of the last clause.
+- **Simon** ([NOTE-tmpy78q5](../notes.d/NOTE-tmpy78q5.md)) gives a partial case of the last clause.
   Chess "involves continually redefining what the problem is" (p. 186). In
   design, requirements are evoked mid-process and need not be specified in
   advance (pp. 190–191). But most of his revision is selection, "generated

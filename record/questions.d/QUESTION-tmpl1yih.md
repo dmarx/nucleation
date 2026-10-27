@@ -152,7 +152,7 @@ acquired at the interface, without the composite being an individual.
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-Torres-Hugas et al. (NOTE-tmpb8jge; THEORY-tmprsknh), read, narrow the
+Torres-Hugas et al. ([NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md); [THEORY-tmprsknh](../theory.d/THEORY-tmprsknh.md)), read, narrow the
 frustration route the earlier note took from A23.
 
 - In the paper, frustration is a structural fact, the residual left after

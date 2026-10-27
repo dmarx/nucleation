@@ -86,16 +86,16 @@ and can say so by citing this term. Rejection if every use the record makes of
 The readings sharpen the definition without changing it.
 
 - **Differentiation can be measured.** It is a pointer variable B with
-  I_{A|B} at its maximum (Di Biagio and Rovelli 2025, NOTE-tmp2eky0). Two
+  I_{A|B} at its maximum (Di Biagio and Rovelli 2025, [NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md)). Two
   conditions come with it. The outcome variables must commute to hold a
   perspective at all. And differentiating one variable can erase a
   relative fact held by a system that did nothing (eq. 16, p. 5).
 - **Being an apparatus can be a role, relative to a user.** "It is the way
   that W, F and E couple to each other that makes F a measuring apparatus
-  for W" (Di Biagio and Rovelli 2021, NOTE-tmppgt2i, p. 6). Zurek
-  (NOTE-tmpvsoha, p. 6) writes of the "Transfer of responsibility for
+  for W" (Di Biagio and Rovelli 2021, [NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md), p. 6). Zurek
+  ([NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md), p. 6) writes of the "Transfer of responsibility for
   repeatability" from a system to an apparatus, which is differentiation
   and retention without the other two functions.
 - **Selective coupling has a compositional form.** Spivak's unilateral
-  arrangements (NOTE-tmplvblh, Def. 5.3.2) are ones whose output cannot
+  arrangements ([NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md), Def. 5.3.2) are ones whose output cannot
   drive their state back. They are closed under composition (Prop. 5.3.3).

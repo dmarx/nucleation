@@ -104,12 +104,12 @@ whether separable enough is approximately independent.
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-Di Biagio and Rovelli 2021 (NOTE-tmppgt2i; THEORY-tmphf61a) give a worked
+Di Biagio and Rovelli 2021 ([NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md); [THEORY-tmphf61a](../theory.d/THEORY-tmphf61a.md)) give a worked
 case of approximate absoluteness, for facts and not individuals. It has a
 grade (ε), a limit (ε → 0, with the third system cut off from the
 environment) and a stated error. The authors decline to make the
 approximation ontology: "How stable does a fact need to be before it is real?
 And with respect to what systems does it have to be stable?" (p. 7). They add a
 point this question lacks: the approximation is itself relative to a system.
-"Separable enough", in CLAIM-157's terms, would then mean separable enough for
+"Separable enough", in [CLAIM-157](../claims.d/CLAIM-157.md)'s terms, would then mean separable enough for
 a stated third system. They argue this and do not prove it.

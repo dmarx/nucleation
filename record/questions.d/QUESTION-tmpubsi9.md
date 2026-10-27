@@ -142,32 +142,32 @@ place:
 - the last paragraph said Robinson's networks recalibrate, and they do not.
 
 - **Stable is not persistent.** In Di Biagio and Rovelli 2021
-  (NOTE-tmppgt2i; THEORY-tmphf61a), a fact relative to F is stable *for a
+  ([NOTE-tmppgt2i](../notes.d/NOTE-tmppgt2i.md); [THEORY-tmphf61a](../theory.d/THEORY-tmphf61a.md)), a fact relative to F is stable *for a
   third system W*: W may sum over it classically, because F has interacted
   with an environment W cannot reach. Stability comes from inaccessibility,
   not duration. Their measurement has three stages that come apart (pp.
   5–6), and "It is the way that W, F and E couple to each other that makes F
   a measuring apparatus for W" (p. 6). Being an apparatus is a role relative
-  to W (TERM-tmpjdel0).
+  to W ([TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md)).
 - **An exact criterion for the correlation rung, and nothing above it.** Di
-  Biagio and Rovelli 2025 (NOTE-tmp2eky0) define "B has information about A"
+  Biagio and Rovelli 2025 ([NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md)) define "B has information about A"
   as I_{A:B} ≠ 0, without any observer (p. 3). Nothing in the paper
   separates a measurement from any interaction that correlates. Its
   threshold for a fact is "high enough for the level of accessible
   resolution or confidence needed" (p. 3), so a purpose-relative threshold
   comes back exactly where the question would draw the measurement line.
-- **The record rung.** Zurek (NOTE-tmpvsoha; THEORY-tmp08c0w) derives the set
+- **The record rung.** Zurek ([NOTE-tmpvsoha](../notes.d/NOTE-tmpvsoha.md); [THEORY-tmp08c0w](../theory.d/THEORY-tmp08c0w.md)) derives the set
   of recordable outcomes from repeatability alone, eq. (5), which is a
   criterion for measurement that needs no observer. He also separates
   decoherence from usable records: a completely mixed environment "is
   useless (even though it can still induce decoherence!)" (p. 4).
-  Redundancy as objectivity stays argued, not derived (THEORY-tmp0d0qe).
-- **A negative case for the top rung.** In discourse sheaves (NOTE-tmpe4zh5;
-  THEORY-tmptkmt9) the apparatus revises its expression maps using only the
+  Redundancy as objectivity stays argued, not derived ([THEORY-tmp0d0qe](../theory.d/THEORY-tmp0d0qe.md)).
+- **A negative case for the top rung.** In discourse sheaves ([NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md);
+  [THEORY-tmptkmt9](../theory.d/THEORY-tmptkmt9.md)) the apparatus revises its expression maps using only the
   disagreement among its own outputs. It converges to agreement that its
   authors call "learning to lie". Its guards keep the solution from
   collapsing; they do not make it answerable to anything outside.
-- **A positive case.** Robinson's (NOTE-tmpdshmx) is small but real: the
+- **A positive case.** Robinson's ([NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)) is small but real: the
   true crash site "was withheld from the data presented to the sheaf model"
   and used only to score the result (p. 25). Something the apparatus never
-  sees is the check, which is CLAIM-342's condition in practice.
+  sees is the check, which is [CLAIM-342](../claims.d/CLAIM-342.md)'s condition in practice.

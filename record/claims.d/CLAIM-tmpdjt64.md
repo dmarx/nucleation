@@ -185,27 +185,27 @@ holonomy criterion and do not prove it, and Stewart et al. study existence, not
 stability. What the readings show:
 
 - **The correspondences are given, not generated, in almost every paper.**
-  - Hansen and Ghrist (NOTE-tmpzqos6) take their restriction maps from
+  - Hansen and Ghrist ([NOTE-tmpzqos6](../notes.d/NOTE-tmpzqos6.md)) take their restriction maps from
     measurement or design.
-  - Robinson (NOTE-tmpdshmx) writes his from geometry before any data, and
+  - Robinson ([NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)) writes his from geometry before any data, and
     his sensors never interact.
-  - Singer (NOTE-tmplhrxg) treats the offsets as evidence of angles that
+  - Singer ([NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md)) treats the offsets as evidence of angles that
     exist beforehand.
-  - Torres-Hugas et al. (NOTE-tmpb8jge) give the connection or build it to
+  - Torres-Hugas et al. ([NOTE-tmpb8jge](../notes.d/NOTE-tmpb8jge.md)) give the connection or build it to
     match.
-  - In Baez and Fong (NOTE-tmpigjto) the port condition is the same
+  - In Baez and Fong ([NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md)) the port condition is the same
     Kirchhoff condition at every junction. It is background, and what
-    composition makes is the effective boundary relation (CLAIM-tmpose3y).
+    composition makes is the effective boundary relation ([CLAIM-tmpose3y](CLAIM-tmpose3y.md)).
 
   So the papers fill the claim's correspondence and evidence rows, and say
   nothing for "interaction fixes the correspondence". That half, which
   defeater (a) targets, still rests on argument alone.
 - **One formal case where interaction does change the correspondence.** In
-  Hansen and Ghrist's discourse sheaves (NOTE-tmpe4zh5, §8), each agent
+  Hansen and Ghrist's discourse sheaves ([NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md), §8), each agent
   revises its expression map in response to its neighbours' expressions,
   and the maps converge to the nearest sheaf that makes the current
   opinions agree. It is a constructed model, and its authors call the
-  outcome "learning to lie" (THEORY-tmptkmt9). It instances "agreement on
+  outcome "learning to lie" ([THEORY-tmptkmt9](../theory.d/THEORY-tmptkmt9.md)). It instances "agreement on
   what is shared and not identity" exactly (§3, p. 7).
 - **Agreement on the shared part can be reached by changing what is shared.**
   The same paper shows this, and a global section then says nothing about

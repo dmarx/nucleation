@@ -112,7 +112,7 @@ that exchange, rests on this one. Nothing here changes.
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-CEGAR, read today (NOTE-tmpxgbdz), was offered by the exchange as luria's
+CEGAR, read today ([NOTE-tmpxgbdz](../notes.d/NOTE-tmpxgbdz.md)), was offered by the exchange as luria's
 DP-016 in formal dress. The pattern matches: a failure under a fixed
 specification is located and repaired by refining the abstraction. Two
 disanalogies bear on this claim's limit.
@@ -122,8 +122,8 @@ disanalogies bear on this claim's limit.
   eventually surfaces. A record has no concrete model to check against.
   That is why this claim's limit, that a silently forced move leaves no
   trace, has no counterpart there.
-- **CEGAR only splits.** The amendments this claim lists (ADR-043's field,
-  ADR-044's relation) are additions, not splits.
+- **CEGAR only splits.** The amendments this claim lists ([ADR-043](../decisions.d/ADR-043.md)'s field,
+  [ADR-044](../decisions.d/ADR-044.md)'s relation) are additions, not splits.
 
 And even with a certified misfit, the least amendment can be hard to find: the
 coarsest split that removes a counterexample is NP-hard (Thm 3).

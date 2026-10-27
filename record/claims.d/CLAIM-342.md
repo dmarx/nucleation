@@ -230,16 +230,16 @@ citing it at first.
 
 Three readings bear on this claim directly.
 
-- **Discourse sheaves** (NOTE-tmpe4zh5; THEORY-tmptkmt9) are a formal
+- **Discourse sheaves** ([NOTE-tmpe4zh5](../notes.d/NOTE-tmpe4zh5.md); [THEORY-tmptkmt9](../theory.d/THEORY-tmptkmt9.md)) are a formal
   self-confirming loop. The maps learn from disagreement among the agents'
   own expressions, and nothing scores an expression against the opinion it
   expresses. The result converges to agreement the authors call "learning
   to lie". The paper's guards (minimal change, a conserved quantity)
   prevent collapse, not self-confirmation.
-- **Robinson** (NOTE-tmpdshmx) shows the claim's remedy in practice. Fusion
+- **Robinson** ([NOTE-tmpdshmx](../notes.d/NOTE-tmpdshmx.md)) shows the claim's remedy in practice. Fusion
   always reaches consistency, so consistency shows nothing. The evidence
   that fusion helps is the error against a truth "withheld from the data
   presented to the sheaf model" (p. 25; Table 2).
-- **Singer** (NOTE-tmplhrxg) checks his estimates against ground truth only
+- **Singer** ([NOTE-tmplhrxg](../notes.d/NOTE-tmplhrxg.md)) checks his estimates against ground truth only
   in simulation. On real data the method's only check is its own
   consistency.

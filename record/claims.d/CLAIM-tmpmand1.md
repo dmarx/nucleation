@@ -292,14 +292,14 @@ This claim is in the last group. Its interpretive warrant stands.
 
 ## Note of 2026-10-27 (evening): the readings of the U15–U23 works
 
-- **Baez and Fong** (NOTE-tmpigjto) give a demonstrated case of one
+- **Baez and Fong** ([NOTE-tmpigjto](../notes.d/NOTE-tmpigjto.md)) give a demonstrated case of one
   specification with many realizations. The black box is many-to-one: a 2Ω
   resistor and two 1Ω resistors in series behave the same (p. 7). It is
   onto for resistor circuits (Prop. 2.12). Defeater (b) is touched lightly.
   The identity, an ideal wire, is the behaviour of no finite circuit, only
   approached by them. It is an idealization supplied by the formalism, not
   a constraint realized by nothing.
-- **Di Biagio and Rovelli 2025** (NOTE-tmp2eky0) keep RQM non-eliminative. A
+- **Di Biagio and Rovelli 2025** ([NOTE-tmp2eky0](../notes.d/NOTE-tmp2eky0.md)) keep RQM non-eliminative. A
   system "is more appropriately thought of as consisting of a set of physical
   variables" (§V, p. 4). What holds a perspective moves from the system to a
   commutative subalgebra, and a whole system may hold none. The relata are
