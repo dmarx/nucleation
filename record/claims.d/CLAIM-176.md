@@ -144,9 +144,9 @@ defines it. This claim was narrowed to match.
 
 ## Note of 2026-10-27: a second premise
 
-The status review of this date (ADR-057) split CLAIM-177. Its observed
-half stays CLAIM-177, which is now Active. Its comparative half,
-CLAIM-tmpuhp12, is Proposed. This claim's "exactly the drift that defeats
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) split [CLAIM-177](CLAIM-177.md). Its observed
+half stays [CLAIM-177](CLAIM-177.md), which is now Active. Its comparative half,
+[CLAIM-tmpuhp12](CLAIM-tmpuhp12.md), is Proposed. This claim's "exactly the drift that defeats
 an argument" needs the comparative half, that identity drift and not
 missing structure is what defeats such an argument, so it now rests on
 both.
