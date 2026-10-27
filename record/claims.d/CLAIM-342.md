@@ -212,16 +212,16 @@ citing it at first.
   inquiry's specification**". It noted that this "need not mean an external
   conscious judge". Independent sensory channels, perturbations, controlled
   interventions, competing models, or criteria the mechanism being evaluated
-  cannot rewrite would all do (QUESTION-tmpubsi9).
+  cannot rewrite would all do ([QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md)).
 - **Gluing.** A21 §6 found a mathematical form of the self-confirming loop.
   An apparatus that revises its correspondence maps only to reduce
   disagreement can send them to zero, and then every observation is
   compatible and nothing is distinguished. The record already held the fact
-  in THEORY-299: knowledge-sheaf consistency admits the all-zero embedding
+  in [THEORY-299](../theory.d/THEORY-299.md): knowledge-sheaf consistency admits the all-zero embedding
   unless something contrastive is added. A21: "**Self-consistency is not the
   same as correspondence with reality.**" A22 §10 drew the test: whether
   correspondence learning "improves predictions on independently specified
   interventions", the difference between "**becoming more coherent** and
   **becoming more knowledgeable**". That is this claim's evidence that does
   not pass through the interpretation it tests, made operational for one
-  setting (CLAIM-tmpdjt64).
+  setting ([CLAIM-tmpdjt64](CLAIM-tmpdjt64.md)).

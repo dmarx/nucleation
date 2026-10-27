@@ -248,7 +248,7 @@ while the rate of filing rose.
 The exchange's later turns bear on this claim in three ways.
 
 - **The general form.** The owner's U15, "inquiry is a form of specification",
-  is filed as CLAIM-tmpalzo4. It complements this claim. Any inquiry
+  is filed as [CLAIM-tmpalzo4](CLAIM-tmpalzo4.md). It complements this claim. Any inquiry
   specifies, its stable products are specifications, and it can revise
   what an answer could be. This claim is the case where the inquiry is a
   record's and the specification is luria's grammar. A16 §11 found luria's
@@ -257,7 +257,7 @@ The exchange's later turns bear on this claim in three ways.
   records and executable machinery (luria docs/concepts/governance.md,
   checked 2026-10-27). Editing a record and revising its schema are
   "working within an inquiry regime and investigating the regime itself".
-- **A sense of "apparatus" that needs no argument.** TERM-tmpjdel0 proposes the
+- **A sense of "apparatus" that needs no argument.** [TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md) proposes the
   operational sense: an organization that differentiates, retains, enforces
   and revises distinctions. Luria has all four functions. This claim uses
   Barad's sense, which A23 §VII said dynamical stabilization "does not
@@ -266,8 +266,8 @@ The exchange's later turns bear on this claim in three ways.
   one in Barad's constitutive sense, for a record's objects, is the part
   still argued. The claim is not split here; that is the owner's call.
 - **CEGAR as the formal neighbour of DP-016.** A16 §6 read luria's DP-016
-  (CLAIM-419 here) as counterexample-guided abstraction refinement
-  (LIT-tmpikbhf). A failure under a specification leads to a missing
+  ([CLAIM-419](CLAIM-419.md) here) as counterexample-guided abstraction refinement
+  ([LIT-tmpikbhf](../literature.d/LIT-tmpikbhf.md)). A failure under a specification leads to a missing
   distinction and then to refinement. It also gave the limit: CEGAR refines
   within a fixed property and cannot find the property misguided. A21 §6
   gave the failure that revision by consistency alone invites: a schema

@@ -129,7 +129,7 @@ now state their relativities one at a time are clearer stated in it.
 ## Note of 2026-10-27: where the query family comes from
 
 At U17 of the exchange "Field Existence Question" the owner said that resource
-constraints bear on specification as they do on realization (CLAIM-tmpi1bjh).
+constraints bear on specification as they do on realization ([CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md)).
 A17 §8 drew a consequence for this term, which it called "A correction to
 Nucleation's existing formalism". ℛ = (X, 𝒬, ℐ, ℬ, ε, τ) takes the query family
 𝒬 as supplied, "But your observation suggests that **𝒬 is itself an output of
@@ -142,5 +142,5 @@ regimes are exogenously given.**"
 The term is not amended. Holding ℛ fixed is what lets two descriptions be
 compared without moving the goalposts, and nothing in the exchange argued
 against it. The note records what the term leaves outside its scope. That is
-how a regime comes to be available (CLAIM-tmpi1bjh), and how inquiry revises
-one (CLAIM-tmpalzo4, which uses this term).
+how a regime comes to be available ([CLAIM-tmpi1bjh](../claims.d/CLAIM-tmpi1bjh.md)), and how inquiry revises
+one ([CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md), which uses this term).
