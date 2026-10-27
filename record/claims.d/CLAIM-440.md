@@ -11,7 +11,7 @@ history:
   note: >-
     Note of 2026-10-27 added: the difficulty for clause 3 (intensity as
     the potential's strength) from Hesp et al. and Carver is filed as the
-    objection CLAIM-tmpra2cf. The claim is unchanged.
+    objection CLAIM-468. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -332,5 +332,5 @@ evidence.
 The difficulty clause 3 records against itself, that Hesp et al. make
 negative valence a fall in the precision of the preference ordering and
 Carver is reported to make positive affect lower a goal's priority, is
-filed as [CLAIM-tmpra2cf](CLAIM-tmpra2cf.md), a counter, Proposed, beside [CLAIM-438](CLAIM-438.md). The clause
+filed as [CLAIM-468](CLAIM-468.md), a counter, Proposed, beside [CLAIM-438](CLAIM-438.md). The clause
 stays open for both signs, as it says. The claim is unchanged.

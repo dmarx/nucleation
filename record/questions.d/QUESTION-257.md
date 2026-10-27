@@ -82,7 +82,7 @@ distinction: A2: "A tradition can therefore display considerable
 historical persistence while its bearers lack collective self-governance
 over crucial conditions of its future."
 
-The case is [CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md), a people expelled from its islands and dispersed
+The case is [CASE-169](../cases.d/CASE-169.md), a people expelled from its islands and dispersed
 across three countries, beside the doorway ([CASE-136](../cases.d/CASE-136.md)) and the martial
 traditions ([CASE-139](../cases.d/CASE-139.md)). It gives the question two things the others lack:
 

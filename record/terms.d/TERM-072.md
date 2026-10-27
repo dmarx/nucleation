@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-073
 - TERM-074
-- TERM-tmpi9ctf
+- TERM-082
 title: 'perspective, and which sense: organizational, represented or phenomenal'
 version: 5
 history:

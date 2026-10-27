@@ -62,7 +62,7 @@ supports:
 - CLAIM-401
 - CLAIM-404
 illustrated_by:
-- CASE-tmpelq9w
+- CASE-169
 ---
 <!-- inactive-ok-file: LIT-1328 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
@@ -162,7 +162,7 @@ al. ([NOTE-1041](../notes.d/NOTE-1041.md)) state the same point in administrativ
 
 Two documented settings from the exchange of 2026-10-26.
 
-- **Sovereignty and return** ([CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md)). A3: with C(x) recording the
+- **Sovereignty and return** ([CASE-169](../cases.d/CASE-169.md)). A3: with C(x) recording the
   sovereignty arrangement and military access and J_R(x) whether a
   Chagossian right of return is satisfied, "two possible settlements could
   have identical arrangements for sovereignty and military access while
@@ -171,7 +171,7 @@ Two documented settings from the exchange of 2026-10-26.
   result. The contribution of the historical case would be to investigate
   whether real institutional decision procedures systematically omit those
   distinctions."
-- **A contract read by amount and payee** ([CASE-tmps5qp3](../cases.d/CASE-tmps5qp3.md)). A5: the USIP
+- **A contract read by amount and payee** ([CASE-176](../cases.d/CASE-176.md)). A5: the USIP
   contract with an Afghan scholar, classified by employment history and
   amount, read as support for the Taliban; its purpose and the danger of
   publicity were merged out, and the harm reported fell on people outside

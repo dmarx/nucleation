@@ -36,7 +36,7 @@ complements:
 - CLAIM-417
 - CLAIM-430
 - CLAIM-432
-- CLAIM-tmp3lrj9
+- CLAIM-457
 works:
 - organization-of-perspective
 - self-without-a-sovereign
@@ -53,8 +53,8 @@ supports:
 - CLAIM-431
 illustrated_by:
 - CASE-166
-- CASE-tmpelq9w
-- CASE-tmprc3on
+- CASE-169
+- CASE-175
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-417 CLAIM-424 TERM-063 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -139,7 +139,7 @@ is a further agent, which is the same separation.
 
 The exchange of 2026-10-26 used the claim at both ends.
 
-- **A shared perspective without one political agent** ([CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md)).
+- **A shared perspective without one political agent** ([CASE-169](../cases.d/CASE-169.md)).
   Chagossians share practices, memory and attachment and disagree about
   sovereignty, the base and strategy. A3 separated four questions: a
   historically continuous people, an organizational perspective, collective
@@ -152,15 +152,15 @@ The exchange of 2026-10-26 used the claim at both ends.
   missing variable is not consensus. It is the **structure through which
   political authority is constituted and made accountable**." And the
   normative point: "a people can possess collective rights without meeting
-  a demanding criterion for unified collective agency" ([TERM-tmpiiy3n](../terms.d/TERM-tmpiiy3n.md)).
-- **One arrangement without one agent** ([CASE-tmprc3on](../cases.d/CASE-tmprc3on.md)). A7: the US and
+  a demanding criterion for unified collective agency" ([TERM-083](../terms.d/TERM-083.md)).
+- **One arrangement without one agent** ([CASE-175](../cases.d/CASE-175.md)). A7: the US and
   Salvadoran governments "need not form a single unified political agent
   to participate in an organized detention arrangement", and "coordination
   sufficient to produce an outcome does not necessarily imply an
   institutional arrangement sufficient to recognize, contest, and remedy
   that outcome." A9 took the claim further than it goes: the institutions
   whose independence makes correction possible are hidden by modelling a
-  government as one agent ([CLAIM-tmpbf8uv](CLAIM-tmpbf8uv.md)).
+  government as one agent ([CLAIM-462](CLAIM-462.md)).
 
-[TERM-tmpfkv5u](../terms.d/TERM-tmpfkv5u.md) separates the senses of collective intention the claim's
+[TERM-080](../terms.d/TERM-080.md) separates the senses of collective intention the claim's
 "agent" leaves open.

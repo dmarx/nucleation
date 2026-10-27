@@ -36,7 +36,7 @@ complements:
 uses:
 - TERM-040
 - TERM-043
-- TERM-tmpoy9w4
+- TERM-084
 summary: >-
   The record's reply, on 2026-10-10, to [CLAIM-246](CLAIM-246.md). The October thesis
   puts fidelity in what persists "through those transformations", and

@@ -42,7 +42,7 @@ summary: >-
   relations, not branching identity, and rests on one documented case
   with no data on how supporters divided.
 illustrated_by:
-- CASE-tmps5qp3
+- CASE-176
 ---
 
 # CLAIM-328: When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity
@@ -94,7 +94,7 @@ official"; fandom succession is "distributed and negotiated".
 The claim's last point says that a second case, or supporter data on the
 first, is what would move it. The exchange of 2026-10-26 offered one.
 
-At USIP ([CASE-tmps5qp3](../cases.d/CASE-tmps5qp3.md)), A5 found juridical identity, the building and a
+At USIP ([CASE-176](../cases.d/CASE-176.md)), A5 found juridical identity, the building and a
 name (later changed) continuing while personnel, leadership, programs,
 procedures and partner relations did not: "What persists legally need not
 be what persists functionally." A5 cited the claim, and read it in its
@@ -107,5 +107,5 @@ successor, a new body of former staff carrying on the mediation work, was
 put "hypothetically". Whether former staff carried the practice elsewhere
 is A5's test ("Subsequent employment, collaboration, and peacebuilding work
 of former USIP personnel"). The claim is not moved yet. The Chagossian
-diaspora ([CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md)) may be a third, with associations in three
+diaspora ([CASE-169](../cases.d/CASE-169.md)) may be a third, with associations in three
 countries each continuing a part.

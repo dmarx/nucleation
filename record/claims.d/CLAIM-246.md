@@ -31,7 +31,7 @@ objects_to:
 - CLAIM-139
 - CLAIM-137
 uses:
-- TERM-tmpoy9w4
+- TERM-084
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (structure lens);
   no turn of the exchange raises it. [CLAIM-137](CLAIM-137.md) makes realizations one act

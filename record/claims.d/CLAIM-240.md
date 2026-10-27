@@ -150,6 +150,6 @@ weights on the first kind only.
 
 The limit the note of 2026-10-10 recorded, that part of a reception split
 between populations with unequal access is access and not weighting, is
-filed as [CLAIM-tmp4pmcv](CLAIM-tmp4pmcv.md), a counter, Proposed. A test of this claim across
+filed as [CLAIM-458](CLAIM-458.md), a counter, Proposed. A test of this claim across
 such populations meets it by fitting weights only on the components both
 can perceive. The claim is unchanged.

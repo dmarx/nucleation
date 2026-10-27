@@ -6,8 +6,8 @@
 
 **Moral psychology** — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
-0 of 79 TERM documents. Back to the [full index](../README.md).
+1 of 86 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-081](../../../record/terms.d/TERM-081.md) | moral worth, and which sense: intrinsic moral value, status-based dignity, or moral merit | The owner's, U12 of the exchange of 2026-10-26. A12 would not let "moral worth" carry several meanings: the value a being has in itself, the respect owed to it by its status, and the praiseworthiness of its conduct. They come apart: blameworthy conduct does not lessen the respect owed, and an organization can produce valuable outcomes without a person's standing. Standing itself is [TERM-083](../../../record/terms.d/TERM-083.md). Proposed. | Proposed |

@@ -21,7 +21,7 @@ history:
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 added: the narrowing on compensation, proposed in
-    the note of 2026-10-10, is filed as the objection CLAIM-tmpb4dok. The
+    the note of 2026-10-10, is filed as the objection CLAIM-461. The
     claim is unchanged.
 role: thesis
 warrant: interpretive
@@ -176,5 +176,5 @@ the narrowing is proposed, not made.
 
 The narrowing the note of 2026-10-10 proposed and did not make, that
 compensation is mainly, not only, a re-performance notion, is filed as
-[CLAIM-tmpb4dok](CLAIM-tmpb4dok.md), a counter, Proposed, so it can carry a status. It awaits a
+[CLAIM-461](CLAIM-461.md), a counter, Proposed, so it can carry a status. It awaits a
 case whose source is read. The claim is unchanged.

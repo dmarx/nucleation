@@ -40,7 +40,7 @@ complements:
 uses:
 - TERM-040
 - TERM-043
-- TERM-tmpoy9w4
+- TERM-084
 summary: >-
   The record's restatement, on 2026-10-10, of [CLAIM-139](CLAIM-139.md) after the
   audit's objections to it ([CLAIM-233](CLAIM-233.md), [CLAIM-232](CLAIM-232.md),

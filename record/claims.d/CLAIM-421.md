@@ -58,8 +58,8 @@ summary: >-
   says only that both separate a capacity's existence from the
   availability of the conditions for exercising it.
 illustrated_by:
-- CASE-tmpelq9w
-- CASE-tmpn75cv
+- CASE-169
+- CASE-172
 ---
 <!-- inactive-ok-file: CLAIM-287 CLAIM-413 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -171,7 +171,7 @@ this claim's use of them.
 The exchange of 2026-10-26 used the claim more than any other (A2–A4, A7,
 A10), and read it correctly.
 
-- **The Chagossians** ([CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md)). A2: forced displacement "can produce
+- **The Chagossians** ([CASE-169](../cases.d/CASE-169.md)). A2: forced displacement "can produce
   all three, with very different consequences": a song known and seldom
   sung, place-dependent knowledge that elders hold and cannot exercise, and
   practices the young no longer acquire. A3 kept the realized perspective
@@ -183,7 +183,7 @@ A10), and read it correctly.
   respects but not equivalent to it", and a caution: "an overly
   conservative persistence criterion could incorrectly treat successful
   cultural adaptation as evidence of identity loss."
-- **A research community** ([CASE-tmpn75cv](../cases.d/CASE-tmpn75cv.md)). A4: a lab that cannot run
+- **A research community** ([CASE-172](../cases.d/CASE-172.md)). A4: a lab that cannot run
   experiments may resume; one that loses its team must rebuild; a program
   whose cohorts disappear "may lose the ability to reproduce an entire local
   research tradition", and "The last two losses can persist after the

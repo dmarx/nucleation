@@ -66,7 +66,7 @@ summary: >-
 supports:
 - CLAIM-404
 illustrated_by:
-- CASE-tmps5qp3
+- CASE-176
 ---
 <!-- inactive-ok-file: CLAIM-352 CLAIM-354 CLAIM-359 THEORY-470 THEORY-429 — Proposed; open claims and a reading this claim complements or cites as the transfer case, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-841 — Proposed; Hayek's argument, cited as context for the transfer case, nothing here rests on it -->
@@ -180,7 +180,7 @@ non-monotonicity of options and autonomy, in a two-agent form.
 
 ## Note of 2026-10-27: a profile read off a takeover, and remedy
 
-A6 of the exchange of 2026-10-26 laid the USIP takeover ([CASE-tmps5qp3](../cases.d/CASE-tmps5qp3.md))
+A6 of the exchange of 2026-10-26 laid the USIP takeover ([CASE-176](../cases.d/CASE-176.md))
 out on this claim's profile: rule-making (the statute), appointment and
 removal (disputed), enforcement (MPD and FBI), interpretation (officers
 deciding whose documents established authority), adjudication and appeal
@@ -195,5 +195,5 @@ removal of a constraint transfers.
 A7 found the profile missing a dimension: "Having an appeal procedure is
 not equivalent to having a viable path to remedy." Appeal is a position in
 the profile; whether a decision on appeal can be carried out is a relation
-among the positions, [TERM-tmpsuzzj](../terms.d/TERM-tmpsuzzj.md)'s correctability, and the question of
-what keeps it is [QUESTION-tmp6xeir](../questions.d/QUESTION-tmp6xeir.md).
+among the positions, [TERM-085](../terms.d/TERM-085.md)'s correctability, and the question of
+what keeps it is [QUESTION-278](../questions.d/QUESTION-278.md).

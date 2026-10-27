@@ -48,9 +48,9 @@ summary: >-
   ([THEORY-140](../theory.d/THEORY-140.md)). The edge: a recorded correction is evidence of a
   correction, not of its maintenance.
 complements:
-- CLAIM-tmpdhkhm
+- CLAIM-464
 supports:
-- CLAIM-tmpbf8uv
+- CLAIM-462
 ---
 <!-- inactive-ok-file: CLAIM-025 THEORY-140 THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

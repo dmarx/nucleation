@@ -6,7 +6,7 @@
 
 **Proposed study** — an empirical design not yet run; the body says what would be measured, the main threat to inference, and what each outcome would show.
 
-22 of 166 CASE documents. Back to the [full index](../README.md).
+22 of 177 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

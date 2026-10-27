@@ -6,6 +6,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [27 Oct 02:03 — Audit of 2026-10-27: propositions the record's cases state that no claim holds; eight filed as claims, twenty-four left as candidates](2026-10.md#audit-of-2026-10-27-propositions-the-records-cases-state-that-no-claim-holds-eight-filed-as-claims-twenty-four-left-as-candidates)
+- [27 Oct 01:01 — Session of 2026-10-26, 21:18 to 23:04 (U1–U12): the Chagossians, federal science, the US Institute of Peace, the East Wing and CECOT, read for what an intervention does to the remedies against it; then correctability as a bounded search, and TERMs for organizational achievement, consciousness, collective intention and moral standing, with a kind for TERMs](2026-10.md#session-of-2026-10-26-2118-to-2304-u1u12-the-chagossians-federal-science-the-us-institute-of-peace-the-east-wing-and-cecot-read-for-what-an-intervention-does-to-the-remedies-against-it-then-correctability-as-a-bounded-search-and-terms-for-organizational-achievement-consciousness-collective-intention-and-moral-standing-with-a-kind-for-terms)
 - [26 Oct 19:51 — Exchange "Experimental Infrastructure Review", T18–T24 (undated): employees as sub-perspectives, a multilevel Northstar reported at v2.11, hLDA and the Indian buffet process, a dynamic beta–Bernoulli model of members, and transformer learning dynamics](2026-10.md#exchange-experimental-infrastructure-review-t18t24-undated-employees-as-sub-perspectives-a-multilevel-northstar-reported-at-v211-hlda-and-the-indian-buffet-process-a-dynamic-betabernoulli-model-of-members-and-transformer-learning-dynamics)
 - [26 Oct 04:41 — Review of 2026-10-26: the owner's proposals on PerspectiveLab v2.7–v2.9, checked against the lab's stored results and filed as six dated notes](2026-10.md#review-of-2026-10-26-the-owners-proposals-on-perspectivelab-v27v29-checked-against-the-labs-stored-results-and-filed-as-six-dated-notes)
 - [26 Oct 00:30 — Review of 2026-10-26: the owner's Priority A package on PerspectiveLab v1.1–v2.2, checked against the lab's stored results and filed as four cases and fifteen dated notes](2026-10.md#review-of-2026-10-26-the-owners-priority-a-package-on-perspectivelab-v11v22-checked-against-the-labs-stored-results-and-filed-as-four-cases-and-fifteen-dated-notes)
@@ -90,8 +92,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-81 entries across 1 book, newest first.
+83 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 81 | 2026-10-07 | 2026-10-26 |
+| [2026-10](2026-10.md) | 83 | 2026-10-07 | 2026-10-27 |

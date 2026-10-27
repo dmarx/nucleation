@@ -157,7 +157,7 @@ What the item case lacks is a searcher who is a party. A10: "one actor may
 influence the search environment faced by the actor responsible for
 reviewing or correcting its behavior", and an institution's budget "is
 itself partly an outcome of political and organizational decisions".
-[QUESTION-tmpivy6b](../questions.d/QUESTION-tmpivy6b.md) asks what the certificate would be for a remedy, and
-[TERM-tmpsuzzj](../terms.d/TERM-tmpsuzzj.md) is the availability. A10 declined to file its own claim
+[QUESTION-279](../questions.d/QUESTION-279.md) asks what the certificate would be for a remedy, and
+[TERM-085](../terms.d/TERM-085.md) is the availability. A10 declined to file its own claim
 candidate, "since this is substantially an application of [CLAIM-296](CLAIM-296.md)",
 and so does this filing.

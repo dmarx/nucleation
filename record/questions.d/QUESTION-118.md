@@ -117,7 +117,7 @@ realist account." A4 took it up.
   [CLAIM-328](../claims.d/CLAIM-328.md)'s plural successors and [CLAIM-002](../claims.d/CLAIM-002.md)'s family of relations for
   texts, which A4 cited, with direction added: one predecessor can have a
   scientific successor (its methods and people) and an institutional one
-  (its charter and authority), as USIP may ([CASE-tmps5qp3](../cases.d/CASE-tmps5qp3.md)).
+  (its charter and authority), as USIP may ([CASE-176](../cases.d/CASE-176.md)).
 - **Against isomorphism, both ways.** A4: A ≅ B "is too restrictive in one
   respect and too permissive in another": continuation can involve deep
   change, and two independently formed organizations can be isomorphic.
@@ -148,5 +148,5 @@ should we recognize the loss of an organization or organizational
 capability, even when its apparent constituents and aggregate outputs
 remain?", which "may actually be more empirically tractable", since
 "Destructive interventions can reveal causal dependencies that normal
-functioning conceals." The cases are [CASE-tmpelq9w](../cases.d/CASE-tmpelq9w.md), [CASE-tmpn75cv](../cases.d/CASE-tmpn75cv.md) and
-[CASE-tmps5qp3](../cases.d/CASE-tmps5qp3.md).
+functioning conceals." The cases are [CASE-169](../cases.d/CASE-169.md), [CASE-172](../cases.d/CASE-172.md) and
+[CASE-176](../cases.d/CASE-176.md).
