@@ -101,7 +101,7 @@ point, not on a fitted value.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | An IBP mask over sources gives a sparse ICA with an unbounded number of sources | definitional | (1)–(4) |
-| C2 | The on/off ratio for a source integrates its value out, (12)–(14) | strong | re-derived and checked numerically (THEORY-tmpxim6p) |
+| C2 | The on/off ratio for a source integrates its value out, (12)–(14) | strong | re-derived and checked numerically ([THEORY-tmpxim6p](../theory.d/THEORY-tmpxim6p.md)) |
 | C3 | On sparse synthetic data the IBP variants beat FastICA in Amari error | moderate | Figure 2, 30 data sets, a boxplot, no test named |
 | C4 | The Laplacian (iICA) variants are more robust to a mismatched source model | weak | one comparison, a boxplot |
 | C5 | On ovarian cancer data iICA finds a tissue-specific signature found before | weak | one data set, a Hinton diagram, agreement with one earlier ICA |
@@ -119,19 +119,19 @@ point, not on a fitted value.
 
 ## Connections
 
-It applies Griffiths and Ghahramani's IBP (LIT-tmp3u0k8) and its
+It applies Griffiths and Ghahramani's IBP ([LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md)) and its
 two-parameter version (Ghahramani, Griffiths and Sollich 2007, not held).
 Its conclusion names Teh, Görür and Ghahramani's stick-breaking
-construction (LIT-tmpfhqac) as the way to a slice sampler for Z. The
-infinite factorial HMM (LIT-1577) is this model with each row of Z a
+construction ([LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md)) as the way to a slice sampler for Z. The
+infinite factorial HMM ([LIT-1577](../literature.d/LIT-1577.md)) is this model with each row of Z a
 Markov chain; its experiment's "iICA" baseline, which finds nine signals
 where the iFHMM finds five, is this paper's model. The linear-Gaussian
-IBP model of LIT-tmp3u0k8 is the special case without continuous source
+IBP model of [LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md) is the special case without continuous source
 values.
 
 ## Bearing on the record
 
-- **CASE-165, item 3: having against using.** The case says that "B = 1
+- **[CASE-165](../cases.d/CASE-165.md), item 3: having against using.** The case says that "B = 1
   with a near 0 and B = 0 give nearly the same output, so availability is
   told from activation only by the prior and the transition, not by the
   data". This paper's model has exactly that pair, z (held) and x (used),
@@ -143,13 +143,13 @@ values.
   So the case's sentence is right with the activation fixed, and needs a
   qualification with it integrated: the data then do bear on availability,
   but only through a factor whose size the prior on the activation sets
-  (THEORY-tmpxim6p). The paper's own synthetic recovery shows the
+  ([THEORY-tmpxim6p](../theory.d/THEORY-tmpxim6p.md)). The paper's own synthetic recovery shows the
   consequence: its inferred Z has gaps "where x_kt = 0".
-- **CASE-165, item 4.** The case's "B_ck = 1 with v_ck = 0 equals B_ck =
+- **[CASE-165](../cases.d/CASE-165.md), item 4.** The case's "B_ck = 1 with v_ck = 0 equals B_ck =
   0" is the same identity for a loading rather than an activation; under
   this paper's Gaussian prior on G a zero loading is likewise disfavoured
   by an Occam factor, not excluded.
-- **LIT-1577.** NOTE-1199's iICA baseline is now held; the comparison's
+- **[LIT-1577](../literature.d/LIT-1577.md).** [NOTE-1199](NOTE-1199.md)'s iICA baseline is now held; the comparison's
   meaning is that adding Markov dynamics to Z reduces the speaker count
   from nine to five on one mixture.
 

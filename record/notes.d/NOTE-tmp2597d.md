@@ -119,9 +119,9 @@ sampling applies.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | Conditioned on the slice variables, finitely many trajectories have positive probability | strong | footnote 2; THEORY-tmp7bmmi |
-| C2 | The beam sampler leaves the iHMM posterior invariant (no truncation error) | strong | auxiliary-variable construction; checked on a finite HMM (THEORY-tmp7bmmi) |
-| C3 | It mixes in fewer iterations than Gibbs on strongly correlated sequences | moderate | §5.1–5.2, charts and visual comparison (THEORY-tmptl00j) |
+| C1 | Conditioned on the slice variables, finitely many trajectories have positive probability | strong | footnote 2; [THEORY-tmp7bmmi](../theory.d/THEORY-tmp7bmmi.md) |
+| C2 | The beam sampler leaves the iHMM posterior invariant (no truncation error) | strong | auxiliary-variable construction; checked on a finite HMM ([THEORY-tmp7bmmi](../theory.d/THEORY-tmp7bmmi.md)) |
+| C3 | It mixes in fewer iterations than Gibbs on strongly correlated sequences | moderate | §5.1–5.2, charts and visual comparison ([THEORY-tmptl00j](../theory.d/THEORY-tmptl00j.md)) |
 | C4 | Its cost per iteration is close to O(TK) in practice | weak to moderate | one plot on one synthetic set, and an unreported check on larger models |
 | C5 | It is more robust to the hyperprior than Gibbs | moderate | §5.1, three settings, 20 runs, a chart |
 | C6 | The iHMM predicts text better than a VB-HMM at its best K | moderate | §5.3, one book chapter, error bars in a chart |
@@ -138,18 +138,18 @@ sampling applies.
 
 It applies Walker's slice sampler for DP mixtures to the iHMM. The same
 device, a slice under the stick of the last active feature, is Teh, Görür
-and Ghahramani's for the IBP (LIT-tmpfhqac), and the infinite factorial HMM
-(LIT-1577, NOTE-1199) combines the two: a slice over the Markov IBP's
+and Ghahramani's for the IBP ([LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md)), and the infinite factorial HMM
+([LIT-1577](../literature.d/LIT-1577.md), [NOTE-1199](NOTE-1199.md)) combines the two: a slice over the Markov IBP's
 sticks and forward filtering, backward sampling per binary chain. It
-cites the IBP paper as Griffiths and Ghahramani "2006" (LIT-tmp3u0k8, NIPS
+cites the IBP paper as Griffiths and Ghahramani "2006" ([LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md), NIPS
 18 of 2005).
 
 ## Bearing on the record
 
-- **LIT-1577.** NOTE-1199 says the iFHMM's inference "follows the beam
+- **[LIT-1577](../literature.d/LIT-1577.md).** [NOTE-1199](NOTE-1199.md) says the iFHMM's inference "follows the beam
   sampler"; it does, with binary chains in place of the iHMM's single
   chain and the Markov IBP's sticks in place of the HDP's rows.
-- **CASE-165.** Nothing has been fitted for the case's model. If its
+- **[CASE-165](../cases.d/CASE-165.md).** Nothing has been fitted for the case's model. If its
   sticky per-feature chains were fitted, the case's identifiability
   worries would be compounded by the Gibbs sampler's slow mixing on
   persistent states, which is the regime this paper reports as hardest
@@ -170,7 +170,7 @@ No instruction for machine-learning practice; nothing for the anthology.
     [0, π_{s_t,s_{t−1}}]" where [0, π_{s_{t−1},s_t}] is meant.
   - The reference list gives Neal's *Slice sampling* (Annals of
     Statistics 31) as pp. 705–741; Teh, Görür and Ghahramani's citation of
-    the same paper gives 705–767 (NOTE-tmptxvho). Not checked against the
+    the same paper gives 705–767 ([NOTE-tmptxvho](NOTE-tmptxvho.md)). Not checked against the
     journal.
   - Daumé's name is garbled to "III, H. D." in the coalescent reference;
     "if ones desires", "individuals iHMM sampling schemes", "inspeech".

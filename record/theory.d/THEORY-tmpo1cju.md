@@ -22,13 +22,13 @@ source:
 - LIT-tmp3u0k8
 - LIT-1556
 summary: >-
-  Griffiths and Ghahramani (2005), LIT-tmp3u0k8, read in NOTE-tmpit34t, and
-  their review (LIT-1556). P([Z]) → α^{K+}/∏_{h≥1} K_h! · exp{−αH_N} ·
+  Griffiths and Ghahramani (2005), [LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md), read in [NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md), and
+  their review ([LIT-1556](../literature.d/LIT-1556.md)). P([Z]) → α^{K+}/∏_{h≥1} K_h! · exp{−αH_N} ·
   ∏_k (N − m_k)!(m_k − 1)!/N! on lof-classes, and the buffet gives the
   same. It is a statement about the limit: at finite K the expected count
-  of occupied features is below αH_N (THEORY-999), and an ordered
+  of occupied features is below αH_N ([THEORY-999](THEORY-999.md)), and an ordered
   truncation of the same limit is a different approximation
-  (THEORY-tmphvhg6).
+  ([THEORY-tmphvhg6](THEORY-tmphvhg6.md)).
 ---
 <!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
@@ -37,10 +37,10 @@ summary: >-
 ## Source
 
 Griffiths and Ghahramani (2005), *Infinite latent feature models and the
-Indian buffet process*, LIT-tmp3u0k8, read in full in NOTE-tmpit34t:
+Indian buffet process*, [LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md), read in full in [NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md):
 §2.1 (the finite model, (1)–(2)), §2.2 (lof-classes), §2.3 (the limit,
 (3)–(4)) and §2.4 (the buffet, (5)). The derivation is given at length in
-the authors' review, LIT-1556 (§§3–4, Appendix A; NOTE-1172).
+the authors' review, [LIT-1556](../literature.d/LIT-1556.md) (§§3–4, Appendix A; [NOTE-1172](../notes.d/NOTE-1172.md)).
 
 ## What was actually shown
 
@@ -73,22 +73,22 @@ is 2.751; αH_3 = 2.750 (record script, 2026-10-27).
 
 - **Nothing about finite K.** The count αH_N is the limit's. The finite
   model expects K(1 − (α/K)B(α/K, N + 1)) occupied features, strictly
-  fewer (THEORY-999).
+  fewer ([THEORY-999](THEORY-999.md)).
 - **Nothing about a posterior.** The result is about the prior; the
   paper's sampler, and the review's footnote that its posterior version is
-  heuristic, are separate matters (NOTE-1172).
+  heuristic, are separate matters ([NOTE-1172](../notes.d/NOTE-1172.md)).
 - **Not that a column means "has".** The likelihood decides what a
   feature codes; in the paper's own demonstration three of four main
-  features code an object's absence (NOTE-tmpit34t).
+  features code an object's absence ([NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md)).
 
 ## Connections
 
-- **CASE-165, item 1.** The case's αH₁₂ = 9.31 for α = 3 is this limit's
-  mean, and its correction for K = 16 is THEORY-999's.
-- **THEORY-985.** The beta process gives the same count a second way, as
+- **[CASE-165](../cases.d/CASE-165.md), item 1.** The case's αH₁₂ = 9.31 for α = 3 is this limit's
+  mean, and its correction for K = 16 is [THEORY-999](THEORY-999.md)'s.
+- **[THEORY-985](THEORY-985.md).** The beta process gives the same count a second way, as
   the IBP's de Finetti measure.
-- **THEORY-tmphvhg6.** Ordering the limit's feature probabilities gives the
+- **[THEORY-tmphvhg6](THEORY-tmphvhg6.md).** Ordering the limit's feature probabilities gives the
   stick-breaking construction, whose truncations approximate this limit
   from below.
-- **THEORY-1019.** The Markov IBP repeats this argument with rows as time
+- **[THEORY-1019](THEORY-1019.md).** The Markov IBP repeats this argument with rows as time
   steps, and keeps this marginal only at the first step.

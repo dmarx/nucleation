@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmptxvho) in full, from PMLR's own PDF; worth
+  read 2026-10-27 ([NOTE-tmptxvho](../notes.d/NOTE-tmptxvho.md)) in full, from PMLR's own PDF; worth
   reading for the stick-breaking construction of the Indian buffet
   process, in which the feature probabilities in decreasing order are
   products of independent Beta(α, 1) draws, for its duality with the
   Dirichlet process's sticks, and for the slice samplers it licenses,
-  which the Markov IBP's inference uses (THEORY-tmphvhg6). Read it knowing
+  which the Markov IBP's inference uses ([THEORY-tmphvhg6](../theory.d/THEORY-tmphvhg6.md)). Read it knowing
   that its truncation is described but its error is not computed, that
   its sampler comparison is reported only as a chart of autocorrelation
   times, and that its MNIST demonstration is a single run judged by eye.
@@ -72,14 +72,14 @@ construction for the Indian buffet process. In *Proceedings of the
 Eleventh International Conference on Artificial Intelligence and
 Statistics*, PMLR 2: 556–563.
 
-Read in full on 2026-10-27 (NOTE-tmptxvho). One account was drawn from
-it: THEORY-tmphvhg6.
+Read in full on 2026-10-27 ([NOTE-tmptxvho](../notes.d/NOTE-tmptxvho.md)). One account was drawn from
+it: [THEORY-tmphvhg6](../theory.d/THEORY-tmphvhg6.md).
 
 ## Why this is here
 
 The owner asked on 2026-10-27 to "file the next readings". The Markov IBP
-(LIT-1577, §2.4) rests on this construction for its slice sampler, and
-the IBP review (LIT-1556) names it among the process's variants. CASE-165
+([LIT-1577](LIT-1577.md), §2.4) rests on this construction for its slice sampler, and
+the IBP review ([LIT-1556](LIT-1556.md)) names it among the process's variants. [CASE-165](../cases.d/CASE-165.md)
 (item 1) says that "a stick-breaking truncation at 16 would be close" to
 the buffet's count, 8.97 against 9.31, simulated; this is the
 construction that statement is about, and the record held it only by

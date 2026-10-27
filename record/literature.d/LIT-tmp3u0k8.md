@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpit34t) in full, from the NeurIPS proceedings'
+  read 2026-10-27 ([NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md)) in full, from the NeurIPS proceedings'
   own PDF; worth reading as the paper that introduces the Indian buffet
   process, the limit of a finite beta–Bernoulli feature model taken on
   left-ordered equivalence classes, and its sequential buffet, which
-  produce the same distribution (THEORY-tmpo1cju). Read it knowing that
+  produce the same distribution ([THEORY-tmpo1cju](../theory.d/THEORY-tmpo1cju.md)). Read it knowing that
   its eight pages state the limit and defer the technical details to a
   technical report, that it gives K+ ~ Poisson(αH_N) only through the
   buffet, with no count for the finite model, and that its one
@@ -77,8 +77,8 @@ and the Indian buffet process. In Y. Weiss, B. Schölkopf & J. Platt
 (eds.), *Advances in Neural Information Processing Systems 18*. MIT
 Press.
 
-Read in full on 2026-10-27 (NOTE-tmpit34t). One account was drawn from
-it: THEORY-tmpo1cju.
+Read in full on 2026-10-27 ([NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md)). One account was drawn from
+it: [THEORY-tmpo1cju](../theory.d/THEORY-tmpo1cju.md).
 
 ## Why this is here
 
@@ -86,9 +86,9 @@ The owner asked on 2026-10-27 to "file the next readings", the works the
 readings of that day named and did not register. This is the first of
 them for the record's latent-feature line: the paper that introduces the
 Indian buffet process. The record held the process only through the
-authors' review of 2011 (LIT-1556, NOTE-1172), which follows this paper
+authors' review of 2011 ([LIT-1556](LIT-1556.md), [NOTE-1172](../notes.d/NOTE-1172.md)), which follows this paper
 and its technical report, and through the works built on it: the Markov
-IBP (LIT-1577), the beta process (LIT-1537), the dependent IBP (LIT-1548)
-and the correlated-feature model (LIT-1544). CASE-165 quotes the
+IBP ([LIT-1577](LIT-1577.md)), the beta process ([LIT-1537](LIT-1537.md)), the dependent IBP ([LIT-1548](LIT-1548.md))
+and the correlated-feature model ([LIT-1544](LIT-1544.md)). [CASE-165](../cases.d/CASE-165.md) quotes the
 process's count of features, αH_N, and its photograph demonstration
 (item 4) from the review; both first appear here.

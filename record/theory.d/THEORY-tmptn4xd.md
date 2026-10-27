@@ -19,7 +19,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpkxifq
 summary: >-
-  Ghahramani and Jordan (1997), LIT-tmpkxifq, read in NOTE-tmp0rtz0. Four
+  Ghahramani and Jordan (1997), [LIT-tmpkxifq](../literature.d/LIT-tmpkxifq.md), read in [NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md). Four
   sizes, 15 random parameter sets each, 20 training and 20 test sequences
   of length 20, four-dimensional, C = 0.0025I, one run per set. In bits per
   observation over the true model, the K^M-state HMM's test excess is
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Ghahramani and Jordan (1997), *Factorial hidden Markov models*,
-LIT-tmpkxifq, read in full in NOTE-tmp0rtz0: §4.1 and Table 1.
+[LIT-tmpkxifq](../literature.d/LIT-tmpkxifq.md), read in full in [NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md): §4.1 and Table 1.
 
 ## What was actually shown
 
@@ -72,8 +72,8 @@ sizes and better at (5, 2), p < 0.05.
 
 ## Connections
 
-- **LIT-1577.** The infinite factorial HMM keeps the factorial structure
+- **[LIT-1577](../literature.d/LIT-1577.md).** The infinite factorial HMM keeps the factorial structure
   and lets M grow; its experiments compare priors, not inference methods.
-- **CASE-165.** A fitted version of the case's per-member chains would face
+- **[CASE-165](../cases.d/CASE-165.md).** A fitted version of the case's per-member chains would face
   this paper's trade-off between exact and approximate E steps
-  (NOTE-tmp0rtz0).
+  ([NOTE-tmp0rtz0](../notes.d/NOTE-tmp0rtz0.md)).

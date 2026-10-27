@@ -40,7 +40,7 @@ equivalence classes that ignore the order of columns. The limit is an
 exchangeable distribution over binary matrices with N rows and an
 unbounded number of columns, of which finitely many are non-zero. A
 sequential "buffet" generates it. It is the first paper on the IBP; the
-review of 2011 (LIT-1556) expands it.
+review of 2011 ([LIT-1556](../literature.d/LIT-1556.md)) expands it.
 
 ## Key insight
 
@@ -97,8 +97,8 @@ restaurant process produces it.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | The finite model's lof-class probability converges to (4) as K → ∞ | strong, details deferred | §2.3; checked numerically (THEORY-tmpo1cju) |
-| C2 | The Indian buffet process generates the same distribution on lof-classes | strong | §2.4; checked by simulation (THEORY-tmpo1cju) |
+| C1 | The finite model's lof-class probability converges to (4) as K → ∞ | strong, details deferred | §2.3; checked numerically ([THEORY-tmpo1cju](../theory.d/THEORY-tmpo1cju.md)) |
+| C2 | The Indian buffet process generates the same distribution on lof-classes | strong | §2.4; checked by simulation ([THEORY-tmpo1cju](../theory.d/THEORY-tmpo1cju.md)) |
 | C3 | The infinite conditional is m_−i,k/N with Poisson(α/N) new features | strong | (7), from exchangeability and the limit of (6) |
 | C4 | The linear-Gaussian likelihood depends only on the non-zero columns of Z | strong | (8) |
 | C5 | Gibbs sampling with an IBP prior recovers the four objects from staged photographs | weak | one run, one dataset built to suit the model, no comparison |
@@ -116,27 +116,27 @@ restaurant process produces it.
 
 ## Connections
 
-The review of 2011 (LIT-1556, NOTE-1172) is this paper's long version:
+The review of 2011 ([LIT-1556](../literature.d/LIT-1556.md), [NOTE-1172](NOTE-1172.md)) is this paper's long version:
 the same derivation, the same demonstration, the two-parameter and
 stick-breaking variants added. The stick-breaking construction is Teh,
-Görür and Ghahramani's (LIT-tmpfhqac). The beta process as the IBP's de
-Finetti measure is Thibaux and Jordan's (LIT-1537, THEORY-985). The
-Markov IBP (LIT-1577) repeats this paper's finite-model-and-limit
-argument for rows that are time steps. Knowles and Ghahramani (LIT-tmpezspt)
+Görür and Ghahramani's ([LIT-tmpfhqac](../literature.d/LIT-tmpfhqac.md)). The beta process as the IBP's de
+Finetti measure is Thibaux and Jordan's ([LIT-1537](../literature.d/LIT-1537.md), [THEORY-985](../theory.d/THEORY-985.md)). The
+Markov IBP ([LIT-1577](../literature.d/LIT-1577.md)) repeats this paper's finite-model-and-limit
+argument for rows that are time steps. Knowles and Ghahramani ([LIT-tmpezspt](../literature.d/LIT-tmpezspt.md))
 use the IBP as the mask of an infinite ICA, the model the infinite
 factorial HMM's experiments compare against. The paper's reference [4],
 Ghahramani's factorial learning, and the factorial models it calls CVQ are
-the static ancestors of factorial HMMs (LIT-tmpkxifq).
+the static ancestors of factorial HMMs ([LIT-tmpkxifq](../literature.d/LIT-tmpkxifq.md)).
 
 ## Bearing on the record
 
-- **CASE-165, item 1.** The αH_N the case says T23 quotes is this
+- **[CASE-165](../cases.d/CASE-165.md), item 1.** The αH_N the case says T23 quotes is this
   paper's, and as here it belongs to the limit only. The paper gives
   K+ ~ Poisson(αH_N) only implicitly, through the buffet's Poisson(α/i)
   new dishes; it gives no count of occupied features for the finite
-  model, as the review does not (THEORY-999). So the case's correction,
+  model, as the review does not ([THEORY-999](../theory.d/THEORY-999.md)). So the case's correction,
   6.83 at K = 16 against 9.31, has no counterpart in the original either.
-- **CASE-165, item 4.** The case cites "the review's own worked example"
+- **[CASE-165](../cases.d/CASE-165.md), item 4.** The case cites "the review's own worked example"
   for absence-coding features and split features. The example is this
   paper's, in the same words ("three less common features coded for
   slight differences in the locations of those objects"); the caption
@@ -163,5 +163,5 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 ## Open questions
 
-- What does the finite model at the K a practitioner would use (CASE-165's
+- What does the finite model at the K a practitioner would use ([CASE-165](../cases.d/CASE-165.md)'s
   16) do to the posterior, rather than to the prior's count?
