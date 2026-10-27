@@ -1,0 +1,256 @@
+---
+status: Read
+paper: 'LIT-tmpo09rn'
+title: 'Nanda — Attribution patching'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full on 2026-10-27 from the author's page,
+    https://www.neelnanda.io/mechanistic-interpretability/attribution-patching
+    (datePublished 2023-02-04, dateModified 2023-03-16), fetched the same
+    day and its text extracted from the HTML. Read: the preface and TLDR,
+    Introduction, Activation Patching Recap with both asides, What Is
+    Attribution Patching with the mathematical aside, Why Care with the
+    runtime aside, Intuitions, the experiments (big activations, heads,
+    ranks, backup heads), How to Think About Activation Patching (the point
+    of patching, direction of patching, circuits, redundancy and
+    superposition, what patching can and cannot teach, general
+    understanding), Does This Make Any Sense (single and multi-feature
+    dependence, linear and non-linear structure, LayerNorm, the author's
+    guesses), Patching Variants (path patching with its implementation
+    aside and results, attention pattern patching, attention attribution),
+    Attribution Patching as a Heuristic, stop gradients, multiple
+    activations, the patching metric, other variants, Related Work, Future
+    Work, Conclusion and Acknowledgements. The plots are images and were
+    not seen, so the empirical comparisons are taken from the text alone.
+    The accompanying notebook was not opened. The derivation, the
+    LayerNorm claim and the cost arithmetic were checked numerically (the
+    reader's own script, not part of the record).
+date: '2026-10-27'
+summary: >-
+  Activation patching costs a forward pass per patched activation.
+  Attribution patching replaces each patch by its first-order estimate on
+  the corrupted run, (clean − corrupted activation) · gradient, so every
+  patch costs two forward passes and one backward pass in total, and
+  estimates add over sub-components. On IOI in GPT-2 Small it is said to
+  track activation patching for heads and their queries, keys, values and
+  patterns, and to fail for residual streams and the first MLP. The post
+  argues it should fail where nonlinearities leave saturation, where an
+  effect needs several features at once, and for large patches through
+  LayerNorm, and frames all patching as specific to the prompt
+  distribution chosen.
+---
+<!-- inactive-ok-file: THEORY-tmp52c5a THEORY-1000 THEORY-995 THEORY-1014 — Proposed; the post's account of where the estimate fails, filed from this reading, and the wider claims of AtP*, IOI and sparse feature circuits, cited as open -->
+# NOTE-tmpxnucs: Nanda — Attribution patching
+
+## Contribution
+
+It introduces the estimate that made fine-grained patching affordable in
+large models: take a linear approximation of the patching metric at the
+corrupted run, and read off every node's patching effect from one cached
+gradient. It also sets out, more carefully than the papers that use the
+method, what patching measures at all. A patch from clean into corrupted
+tests sufficiency; a patch from corrupted into clean tests necessity. A
+patching result is specific to the prompt pair or distribution chosen.
+Serial redundancy, where one component takes over when another is
+damaged, defeats both.
+
+## Key insight
+
+A patch is a small, local change to one activation with everything else
+held fixed. A small local change is what a derivative describes. So the
+gradient of the metric with respect to all activations on the corrupted
+run, taken once, gives an estimate for every patch, and because the
+estimate is linear it adds: a layer's estimate is the sum of its heads',
+a head's across positions the sum of its per-position estimates, and a
+path's estimates over all start nodes sum to its end node's.
+
+## Assumptions
+
+- **The setting.** A clean prompt C and a corrupted prompt R that differ in
+  one key detail, and a metric P on the logits, here the logit difference
+  between the clean and corrupted answers. The post's running example is
+  IOI in GPT-2 Small: "When John and Mary went to the store, John gave the
+  bag to" against the same with "Mary" as the second subject.
+- **The estimate.** For an activation A, with f_A(I, a) = P(M_A(I; a)) the
+  metric when A is set to a on input I:
+  f(R; A(C)) − f(R; A(R)) ≈ (A(C) − A(R)) · ∂f_A/∂a evaluated at a = A(R).
+  The gradient is with respect to activations, holding parameters and the
+  input fixed. In code: ((clean_act − corrupted_act) ×
+  corrupted_grad_act).sum().
+- **Direction.** The post works clean into corrupted, which it calls
+  causal tracing, and says the estimate "works exactly the same the other
+  way round". Kramár et al. (LIT-1531) estimate the other direction,
+  noising the clean run.
+- **Cost model.** A backward pass costs about two forward passes, so all
+  patches together cost about four forward passes against one per patch.
+- **Use.** The author calls it "an exploratory, hypothesis-generating
+  technique, not a confirmatory technique", for which false negatives
+  matter more than false positives.
+
+## Key results
+
+- **Speed.** For GPT-2 XL (d_model 1,600, 48 layers, 1,200 heads), one
+  patch per head per position on a 100-token prompt is 120,000 forward
+  passes against about four, "a 30,000x speedup". Checked: 1,600 × 48 /
+  64 = 1,200 heads; 1,200 × 100 / 4 = 30,000.
+- **Additivity.** Estimates decompose by partitioning an activation's
+  elements (per position) and by writing an activation as a sum of others
+  (the attention layer as a sum of heads). This is what makes direct
+  attribution path patching cheap: ((clean_early_node_out −
+  corrupted_early_node_out) · corrupted_late_node_in_grad).sum(), where
+  the last factor is the gradient as mediated by the later node's input
+  alone.
+- **On IOI in GPT-2 Small (from the text; the scatter plots were not
+  seen).** It is "a bad approximation for 'big' activations like residual
+  stream patching and for MLP0, a good approximation for all other layer
+  outputs, head outputs, and more zoomed in head activations (queries,
+  keys, values, attention patterns), and lets us recover the broad strokes
+  of the IOI circuit." Per-position results are "much the same". Backup
+  name movers are flagged as important even though the model compensates
+  for them, a false positive the author calls "a feature not a bug".
+- **Path patching on IOI.** The heatmap of head-to-head paths is sparse,
+  and its top paths recover "(some) key edges" of the IOI circuit. Name
+  mover L9H9 Q-composes with downstream negative name movers, "suggesting
+  that there's a significant Q-Composition component to the backup
+  mechanism". The author has "explored these results less well than I
+  would have liked".
+- **Attention attribution.** With no corrupted prompt at all,
+  clean_pattern × clean_pattern_grad, a linear approximation to zero
+  ablation of each attention weight, "instantly recover[s] a bunch of the
+  important heads". The author calls it "pretty janky".
+- **LayerNorm.** The derivative of normalization is zero along the
+  (centred) vector itself and passes orthogonal directions unchanged up to
+  scale. So a patch parallel to the residual stream is estimated as having
+  no effect, and a patch orthogonal to it is treated as if LayerNorm were
+  linear. Checked numerically: the Jacobian annihilates the centred vector
+  and scales orthogonal directions by √d/‖v‖. Through normalization
+  alone, the median relative error of the estimate grew with patch size,
+  about 6% at a twentieth of the way to an independent vector, 22% at a
+  fifth and 71% for the whole step. For a pure rescaling the true effect
+  is also zero, so the estimate fails only for patches that change
+  direction and norm together.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Every attribution patch can be computed from two forward passes and one backward pass, and the estimates add over sub-components | strong (demonstrated) | the derivation; linearity of the estimate |
+| C2 | The estimate is exact when the metric is affine in the activation, and estimates no effect for a nonlinearity in saturation however large the true change | strong (demonstrated) | first-order Taylor expansion; checked numerically |
+| C3 | Through LayerNorm, the estimate ignores the component of a patch along the residual stream | strong (demonstrated) | Jacobian of normalization; checked numerically |
+| C4 | On IOI in GPT-2 Small, the estimate tracks activation patching for head-level activations and fails for residual streams and MLP0 | moderate | the notebook's scatter plots, described in the text, one task, one model |
+| C5 | It fails mainly for saturating nonlinearities, multi-feature dependence, large patches and early layers of deep circuits, and works best late in circuits, on attention routing and for small patches | weak to moderate | argument, with "limited empirical backing" in the author's words |
+| C6 | Patching-style methods skew towards understanding specific to a distribution; curve circuits and induction heads come closest to general understanding | weak (a framing) | argument and examples |
+
+## Concepts
+
+- **Activation patching**: replacing one activation in a run with its
+  value from another run and measuring the metric.
+- **Causal tracing**: the post's name for patching clean into corrupted,
+  which finds sufficient activations.
+- **Resample ablation**: patching corrupted into clean, which finds
+  necessary activations.
+- **Attribution patching**: the first-order estimate of activation
+  patching above.
+- **Multi-feature dependence**: an effect that needs several features
+  present at once, such as a Boolean AND; a linear estimate holds all but
+  one fixed and cannot see it.
+- **Parallel and serial redundancy**: several components computing the
+  same thing at once, against a component that takes over only when
+  another is damaged.
+- **Direct path patching**: patching one node's output into one later
+  node's input only.
+- **Attention attribution**: pattern × pattern gradient on a single
+  prompt.
+- **Specific and general work**: explaining a component on one
+  distribution, against predicting its behaviour off that distribution.
+
+## Connections
+
+It builds on causal mediation analysis (Vig et al.), ROME's causal tracing
+(LIT-1536) and IOI's path patching (LIT-1540), and offers itself as a
+heuristic to feed causal scrubbing (LIT-1549) and the then-new ACDC
+(LIT-1547). Kramár et al. (LIT-1531) test it against exhaustive patching
+on Pythia models and name its two main causes of false negatives,
+saturated attention and cancelling direct and indirect effects. The first
+is the post's saturation case. The second goes beyond the post, which
+treats cancellation (in backup heads) as a source of false positives. The
+post names "the curve circuits work in image models" as the circuits work
+that "comes closest to being general" (LIT-tmp73ge1 is the first article
+of that study).
+
+## Bearing on the record
+
+- **THEORY-996 and THEORY-1000.** The post is the method THEORY-996
+  measures. Its predicted failure in saturated attention is what THEORY-996
+  found, and AtP*'s exact softmax for queries and keys is the fix the
+  post's analysis points to. Its guess that large patches fail is outside
+  THEORY-996's node set, which uses only fine-grained nodes. The post adds
+  nothing to THEORY-1000's question of transfer beyond its one task in
+  GPT-2 Small.
+- **THEORY-1007 and THEORY-1014.** Sparse feature circuits select nodes by
+  linear estimates of indirect effect, the same first-order move, with
+  integrated gradients as a refinement. The post's account of where the
+  estimate fails (saturation, multi-feature dependence) is the account
+  those selections inherit.
+- **THEORY-980, THEORY-995 and the IOI circuit.** The post re-finds IOI's
+  heads and some of its edges by attribution and path attribution, and it
+  states IOI's specificity: "the identified heads could easily be
+  polysemantic and doing some completely different behaviour on a
+  different distribution of text", which it names as an open problem.
+  That is a caution for THEORY-995, not evidence on it.
+- **THEORY-978 (causal scrubbing).** The post presents causal scrubbing as
+  "a decent attempt" at the problem serial redundancy poses for patching,
+  by finding "the right set of components to resample ablate to fully
+  destroy performance". Its sufficiency–necessity distinction is the
+  frame in which scrubbing's resample ablations test necessity.
+- **Accounts filed.** THEORY-tmpeqz27 (Active): the estimate, its cost and
+  additivity, and its exactness and failure cases, re-derived and checked
+  numerically. THEORY-tmp52c5a (Proposed): the post's account of where the
+  estimate is reliable in real models.
+
+No instruction for machine-learning practice; the anthology may want the
+work as a reading (`anthology-candidate`).
+
+## Limitations
+
+- **One task, one model, plots only.** All empirical evidence is IOI in
+  GPT-2 Small. Its numbers are in scatter plots and a notebook that this
+  reading did not see, so no agreement figure can be quoted.
+- **No ground truth beyond activation patching on the same pairs**, and no
+  measure of agreement is stated in the text.
+- **An incomplete project**, in the author's words, with path patching
+  "explored less well than I would have liked".
+- **Slips in the text.**
+  - The runtime aside gives "d_head 6", where the head count M/64 that
+    follows implies 64.
+  - The Intuitions section writes the attribution formula as
+    "(clean_act_scalar − corrupted_act_scalar) × corrupted_act_scalar". The
+    last factor should be the gradient, corrupted_grad_act_scalar, as
+    everywhere else in the post.
+  - The implementation aside writes "residual_stream_grad_mediated_by_key
+    = W_K @ key". It should use the gradient with respect to the key, not
+    the key itself.
+  - "GPT-J has heads that do induction between English, French and German
+    text (as studied in the induction heads paper)". The induction-heads
+    paper's translation heads are in its own 40-layer model, not GPT-J
+    (NOTE-1173).
+  - Vig et al.'s title is given as "Causal Mediation Analysis for
+    Interpreting Neural MLP"; it is "Neural NLP".
+  - Kramár et al. cite the post as "Nanda, 2022", the year of the work,
+    not of the post (recorded in NOTE-1190).
+- **Checked and correct**: the 30,000× speedup; "1/6 of their parameters
+  go towards calculating where to route information" (W_Q and W_K are
+  2d² of a layer's 12d², ignoring embeddings); the LayerNorm derivative.
+
+## Open questions
+
+- How well does the estimate agree with activation patching, by node type
+  and depth, on tasks and models chosen independently of the method? This
+  is THEORY-1000's question, and THEORY-tmp52c5a's.
+- Is attention attribution, with no counterfactual, reliable enough to
+  find heads in a model where no circuit is known in advance?
+- How much of a circuit does path attribution recover when serial
+  redundancy is present, and can stop-gradient edits separate it?
