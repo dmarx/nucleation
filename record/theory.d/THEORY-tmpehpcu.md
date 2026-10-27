@@ -30,11 +30,11 @@ source:
 extends:
 - THEORY-tmpjdph0
 summary: >-
-  Olah et al. (2020), LIT-tmp6ii6u, read in NOTE-tmpdmtd9. The article's
+  Olah et al. (2020), [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read in [NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md). The article's
   organizing hypothesis: early vision's units come in families, some of
   them real structure (said to be recoverable by factorizing weight
   matrices), and the families recur across models. The census
-  (THEORY-tmpjdph0) is by eye in one model; neither the factorization nor
+  ([THEORY-tmpjdph0](THEORY-tmpjdph0.md)) is by eye in one model; neither the factorization nor
   a second model's sorting is shown.
 ---
 # THEORY-tmpehpcu: The units of the early layers of trained vision networks fall largely into neuron families, sets of variants of one feature across orientation, colour or scale, which reflect structure in the network rather than a convenience of the person sorting them, and the same families form across models, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
@@ -42,7 +42,7 @@ summary: >-
 ## Source
 
 Olah et al. (2020), *An Overview of Early Vision in InceptionV1*,
-LIT-tmp6ii6u, read in full in NOTE-tmpdmtd9: Playing Cards with Neurons,
+[LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md), read in full in [NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md): Playing Cards with Neurons,
 Caveats and the Conclusion.
 
 ## What is asserted
@@ -56,10 +56,10 @@ weight matrices". Early vision "seems most likely to be universal".
 
 ## What the record holds toward it
 
-- **One model, sorted by eye** (THEORY-tmpjdph0): 77 groups over 1,056
+- **One model, sorted by eye** ([THEORY-tmpjdph0](THEORY-tmpjdph0.md)): 77 groups over 1,056
   units, 37% flagged by the authors as uncertain or catch-all.
 - **Equivariant families in depth** for the curve circuit: Curve Circuits
-  (LIT-tmpl1s2e) finds rotated copies of one unit across Gabor, line and
+  ([LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)) finds rotated copies of one unit across Gabor, line and
   early-curve families, which is the kind of structure a family would
   have if it were real.
 - **Another model's first layer** only: the TF-Slim InceptionV1, whose

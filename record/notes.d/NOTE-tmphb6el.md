@@ -41,7 +41,7 @@ summary: >-
 
 ## Contribution
 
-It reverse-engineers the curve detectors of Curve Detectors (LIT-1575)
+It reverse-engineers the curve detectors of Curve Detectors ([LIT-1575](../literature.d/LIT-1575.md))
 from the weights: which families of the four earlier layers build them,
 the weight patterns that connect the families, and a reimplementation
 written by hand from that description. The authors offer it as a test of
@@ -62,7 +62,7 @@ equivariance by a further 2 to 3, about 50 in all.
 - **Model and units.** InceptionV1; the ten curve units of mixed3b ("the
   fifth convolutional layer"), with 3b:379 as the worked example, as in
   Curve Detectors.
-- **Families** are those of the Overview of Early Vision (LIT-tmp6ii6u),
+- **Families** are those of the Overview of Early Vision ([LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md)),
   extended here for mixed3a's line-like units: 11 simple lines, five
   "texture lines" and five "cliffs".
 - **Decomposed feature visualization** uses a linear approximation of the
@@ -159,27 +159,27 @@ equivariance by a further 2 to 3, about 50 in all.
 ## Connections
 
 The second of the planned three curve articles; Curve Detectors
-(LIT-1575, NOTE-1198) is the first, and the third, on prevalence across
+([LIT-1575](../literature.d/LIT-1575.md), [NOTE-1198](NOTE-1198.md)) is the first, and the third, on prevalence across
 models, is not held. It leans on the Overview of Early Vision
-(LIT-tmp6ii6u) for its families and on Naturally Occurring Equivariance
+([LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md)) for its families and on Naturally Occurring Equivariance
 (the thread's .004, not registered) for the motif. Neel Nanda's
-attribution-patching post (LIT-1581, NOTE-1201) names "the curve circuits
+attribution-patching post ([LIT-1581](../literature.d/LIT-1581.md), [NOTE-1201](NOTE-1201.md)) names "the curve circuits
 work in image models" as the circuits work closest to general
 understanding, and this is that work. Its reimplementation test is the
-same move as the hand-coded curve detector Zoom In (LIT-1543) reports.
+same move as the hand-coded curve detector Zoom In ([LIT-1543](../literature.d/LIT-1543.md)) reports.
 
 ## Bearing on the record
 
-- **THEORY-1013.** Zoom In's seven arguments for a curve detector are now
-  all held for the mixed3b family: four in Curve Detectors (THEORY-1028)
+- **[THEORY-1013](../theory.d/THEORY-1013.md).** Zoom In's seven arguments for a curve detector are now
+  all held for the mixed3b family: four in Curve Detectors ([THEORY-1028](../theory.d/THEORY-1028.md))
   and the circuit, the downstream use and the reimplementation here
-  (THEORY-tmp90225). That settles the example, not the account. The
+  ([THEORY-tmp90225](../theory.d/THEORY-tmp90225.md)). That settles the example, not the account. The
   promote_when asks for a fraction over whole layers and for
   "weight-level predictions of what editing them changes, tested by
   editing them". The echo edit is one such prediction, made and
   confirmed, for one family. There is still no denominator beyond the
-  Overview's labels (NOTE-tmpdmtd9), and the account stays Proposed.
-- **THEORY-1022.** Its promote_when asks for a hand-written curve
+  Overview's labels ([NOTE-tmpdmtd9](NOTE-tmpdmtd9.md)), and the account stays Proposed.
+- **[THEORY-1022](../theory.d/THEORY-1022.md).** Its promote_when asks for a hand-written curve
   detector that predicts the units' activations across the whole
   activation distribution, weak firings included, and for an
   intervention showing downstream use. The reimplementation exists, but
@@ -188,13 +188,13 @@ same move as the hand-coded curve detector Zoom In (LIT-1543) reports.
   the substitution experiment is an intervention on accuracy, not on
   downstream curve use. Neither condition is met. The authors' own
   footnote expects "many false-negatives". The account stays Proposed.
-- **THEORY-986 (universality).** Nothing across models here.
-- **THEORY-802.** The analysis is in the neuron basis, and the
+- **[THEORY-986](../theory.d/THEORY-986.md) (universality).** Nothing across models here.
+- **[THEORY-802](../theory.d/THEORY-802.md).** The analysis is in the neuron basis, and the
   long-tail footnote ("a long tail of neurons with low magnitude that
   collectively make up a large fraction of the total weight") is a
   reason to doubt that the strongest weights describe the whole.
-- **Accounts filed.** THEORY-tmp90225 (Active): what was measured and
-  shown. THEORY-tmpxjvwo (Proposed): the authors' claim that curve
+- **Accounts filed.** [THEORY-tmp90225](../theory.d/THEORY-tmp90225.md) (Active): what was measured and
+  shown. [THEORY-tmpxjvwo](../theory.d/THEORY-tmpxjvwo.md) (Proposed): the authors' claim that curve
   detection is a simple algorithm read off the weights and confirmed by
   reimplementation.
 
@@ -233,7 +233,7 @@ work as a reading (`anthology-candidate`).
     20 to 60, which contains 50.
   - The arithmetic of the accuracy footnote checks: 2.3% of 2,000 is 46,
     1.0% is 20, and 26 of 46 is "more than half".
-  - The printed DOI did not resolve on 2026-10-27 (see LIT-tmpl1s2e).
+  - The printed DOI did not resolve on 2026-10-27 (see [LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)).
 
 ## Open questions
 

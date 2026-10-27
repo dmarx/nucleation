@@ -24,7 +24,7 @@ date: '2026-10-27'
 source:
 - LIT-tmp9yvin
 summary: >-
-  Scherlis et al. (2022), LIT-tmp9yvin, read in NOTE-tmp8m63d: the
+  Scherlis et al. (2022), [LIT-tmp9yvin](../literature.d/LIT-tmp9yvin.md), read in [NOTE-tmp8m63d](../notes.d/NOTE-tmp8m63d.md): the
   quadratic toy model of superposition solved in closed form. Its loss
   separates by feature through capacity, so the marginal value of
   capacity is −∂L/∂C_i = 2n_i²/C_i², and sparsity, through k, decides
@@ -38,8 +38,8 @@ summary: >-
 ## Source
 
 Scherlis, Sachan, Jermyn, Benton and Shlegeris (2022), *Polysemanticity
-and Capacity in Neural Networks*, arXiv 2210.01892 v4, LIT-tmp9yvin, read
-in full in NOTE-tmp8m63d: §3 and Appendices A and C, with the capacity
+and Capacity in Neural Networks*, arXiv 2210.01892 v4, [LIT-tmp9yvin](../literature.d/LIT-tmp9yvin.md), read
+in full in [NOTE-tmp8m63d](../notes.d/NOTE-tmp8m63d.md): §3 and Appendices A and C, with the capacity
 bound of Appendix F and the feasibility result of Appendix H.
 
 ## What was actually shown
@@ -92,10 +92,10 @@ two terms alike, leaving sparsity no effect on sharing.
 
 ## Connections
 
-- **LIT-1583 (§6) and NOTE-1202.** The appendix's two-feature,
+- **[LIT-1583](../literature.d/LIT-1583.md) (§6) and [NOTE-1202](../notes.d/NOTE-1202.md).** The appendix's two-feature,
   one-neuron case: with a = b, v₁ = v₂ = 1, D = 1 and N = 2, step 4 gives
   C₁ = C₂ = 1/2 and λ = 2(k − 1)/(k + 1), and v = 1 < λ exactly when
   k > 3, so equal features of high kurtosis share the neuron, as the
   appendix states.
-- **LIT-323.** Elhage et al.'s observation that sparser inputs give more
+- **[LIT-323](../literature.d/LIT-323.md).** Elhage et al.'s observation that sparser inputs give more
   superposition, derived here for this model through k.

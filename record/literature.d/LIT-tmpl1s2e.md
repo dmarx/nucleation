@@ -1,18 +1,18 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmphb6el) in full, from the Distill article; worth
-  reading as the second part of Curve Detectors (LIT-1575) and the one that
+  read 2026-10-27 ([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)) in full, from the Distill article; worth
+  reading as the second part of Curve Detectors ([LIT-1575](LIT-1575.md)) and the one that
   supplies the three arguments that article deferred: the circuit that
   builds the ten mixed3b curve units from earlier families, a downstream
   use in mixed4a, and a hand-written "artificial artificial neural
   network" whose curve units approximate the natural ones
-  (THEORY-tmp90225). Read it knowing that every comparison but one is
+  ([THEORY-tmp90225](../theory.d/THEORY-tmp90225.md)). Read it knowing that every comparison but one is
   qualitative (figures), that the one number, the accuracy recovered by
   substituting the hand-written units, is on 2,000 validation images and
   called preliminary by the authors, that the hand-written units are
   grayscale, and that the claim that the circuit is "a simple algorithm"
-  is the authors' (THEORY-tmpxjvwo).
+  is the authors' ([THEORY-tmpxjvwo](../theory.d/THEORY-tmpxjvwo.md)).
 title: 'Curve Circuits'
 version: 2
 history:
@@ -90,17 +90,17 @@ Cammarata, N., Goh, G., Carter, S., Voss, C., Schubert, L. and Olah, C.
 https://distill.pub/2020/circuits/curve-circuits/ (the page prints
 doi:10.23915/distill.00024.006, which did not resolve on 2026-10-27).
 
-Read in full on 2026-10-27 (NOTE-tmphb6el). Two accounts were drawn from
-it: THEORY-tmp90225 (Active) and THEORY-tmpxjvwo (Proposed).
+Read in full on 2026-10-27 ([NOTE-tmphb6el](../notes.d/NOTE-tmphb6el.md)). Two accounts were drawn from
+it: [THEORY-tmp90225](../theory.d/THEORY-tmp90225.md) (Active) and [THEORY-tmpxjvwo](../theory.d/THEORY-tmpxjvwo.md) (Proposed).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27 ("file the next
 readings"), as one of the works the circuits readings named and did not
-register. Zoom In (LIT-1543) argues curve detectors seven ways; Curve
-Detectors (LIT-1575) supplied four of them and deferred the other three,
+register. Zoom In ([LIT-1543](LIT-1543.md)) argues curve detectors seven ways; Curve
+Detectors ([LIT-1575](LIT-1575.md)) supplied four of them and deferred the other three,
 the implementing circuit, the downstream use and the hand-written
-reimplementation, to this article. THEORY-1013 and THEORY-1022 both name
+reimplementation, to this article. [THEORY-1013](../theory.d/THEORY-1013.md) and [THEORY-1022](../theory.d/THEORY-1022.md) both name
 it as the missing piece. The record's circuits line held the vision
 case's behaviour and none of its mechanism. Read against them, it
 supplies all three deferred arguments for one family, mostly as figures

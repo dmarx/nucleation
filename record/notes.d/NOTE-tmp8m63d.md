@@ -80,7 +80,7 @@ to capacity diminish and sharing pays; at or below 3, they do not.
 - **Sparsity** is modelled as x = s·z with s ~ Bernoulli(p) and
   Var z = 1/p, so k = Kurt(z)/p rises as p falls; for z uniform,
   k = 9/(5p) (Appendix D).
-- **Comparison models (§3.7)** are Elhage et al.'s autoencoder (LIT-323)
+- **Comparison models (§3.7)** are Elhage et al.'s autoencoder ([LIT-323](../literature.d/LIT-323.md))
   and this model, each with quadratic, ReLU and GeLU activations, six
   features in three or five dimensions, solved numerically.
 
@@ -154,13 +154,13 @@ to capacity diminish and sharing pays; at or below 3, they do not.
 
 ## Connections
 
-It builds on Toy Models of Superposition (LIT-323) and contrasts its
+It builds on Toy Models of Superposition ([LIT-323](../literature.d/LIT-323.md)) and contrasts its
 model with that one throughout: the autoencoder compresses and recovers a
 vector, this model computes a nonlinear function of many features with
 fewer neurons. It cites Softmax Linear Units for changing the activation
-to reduce polysemanticity, and Zoom In (LIT-1543) and Feature
+to reduce polysemanticity, and Zoom In ([LIT-1543](../literature.d/LIT-1543.md)) and Feature
 Visualization for the phenomenon. The causal scrubbing appendix
-(LIT-1583, NOTE-1202, §6) uses this model with two features and one
+([LIT-1583](../literature.d/LIT-1583.md), [NOTE-1202](NOTE-1202.md), §6) uses this model with two features and one
 neuron, ỹ = (cx₁ + dx₂)² + e for y = ax₁² + bx₂², and the condition it
 states for superposition there ("a and b having similar values and x₁
 and x₂ having high kurtosis") is the interval of eq. 17–18: with v₁ =
@@ -168,26 +168,26 @@ v₂, k > 3 puts both features in the shared phase.
 
 ## Bearing on the record
 
-- **LIT-1583 and NOTE-1202.** §6's model is identified and its condition
-  for superposition is now derived in the record (THEORY-tmp68zar). The
+- **[LIT-1583](../literature.d/LIT-1583.md) and [NOTE-1202](NOTE-1202.md).** §6's model is identified and its condition
+  for superposition is now derived in the record ([THEORY-tmp68zar](../theory.d/THEORY-tmp68zar.md)). The
   appendix's rewrite into monosemantic terms and a resampled interference
   term 2cd·x₁x₂ is exactly the second term of eq. 12, the
   "hallucinated correlations" the model pays for.
-- **THEORY-1013 and the curve units.** A reason, in a toy, why some units
+- **[THEORY-1013](../theory.d/THEORY-1013.md) and the curve units.** A reason, in a toy, why some units
   are clean and others shared: features important enough relative to the
   threshold get a dimension of their own. Whether the curve units are such
   features is not something this paper can say. The Overview's three
   double-curve units "likely best thought of as a polysemantic neuron"
-  (NOTE-tmpdmtd9) are the kind of case it describes.
-- **THEORY-802 and THEORY-991.** The geometry result is basis-relative in
-  the way THEORY-802 says: a small-block solution is monosemantic only
+  ([NOTE-tmpdmtd9](NOTE-tmpdmtd9.md)) are the kind of case it describes.
+- **[THEORY-802](../theory.d/THEORY-802.md) and [THEORY-991](../theory.d/THEORY-991.md).** The geometry result is basis-relative in
+  the way [THEORY-802](../theory.d/THEORY-802.md) says: a small-block solution is monosemantic only
   after the right rotation, while a large block is polysemantic in every
-  basis. THEORY-991's sparse dictionary in a real transformer is the
+  basis. [THEORY-991](../theory.d/THEORY-991.md)'s sparse dictionary in a real transformer is the
   practical counterpart: a change of basis that recovers features the
   neurons share.
-- **Accounts filed.** THEORY-tmp68zar (Active, re-derived and checked
+- **Accounts filed.** [THEORY-tmp68zar](../theory.d/THEORY-tmp68zar.md) (Active, re-derived and checked
   numerically): the quadratic model's loss decomposition and optimal
-  allocation. THEORY-tmp2tsxo (Proposed): the authors' wider account,
+  allocation. [THEORY-tmp2tsxo](../theory.d/THEORY-tmp2tsxo.md) (Proposed): the authors' wider account,
   that polysemanticity in trained networks is capacity allocation of this
   kind, driven by sparsity and shaped by architecture.
 

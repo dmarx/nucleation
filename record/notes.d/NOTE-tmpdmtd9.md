@@ -33,7 +33,7 @@ summary: >-
   well defined, low-confidence, unstudied or not understood, from 7% of
   conv2d2 to 48% of conv2d1. The groups are sorted by eye, and most units
   had "a few minutes of cursory investigation", so the census is a
-  denominator for THEORY-1013, not the criterion its promote_when asks
+  denominator for [THEORY-1013](../theory.d/THEORY-1013.md), not the criterion its promote_when asks
   for.
 ---
 <!-- inactive-ok-file: THEORY-tmpehpcu THEORY-1013 THEORY-1022 THEORY-986 THEORY-802 — Proposed; the authors' wider claim filed from this reading and the accounts it bears on, cited as open -->
@@ -153,8 +153,8 @@ against the downloadable taxonomy files.
 ## Connections
 
 It is the Circuits thread's second article (DOI suffix .002), after Zoom
-In (LIT-1543) and before Curve Detectors (LIT-1575) and Curve Circuits
-(LIT-tmpl1s2e), all by the same team. Curve Detectors' four curve layers
+In ([LIT-1543](../literature.d/LIT-1543.md)) and before Curve Detectors ([LIT-1575](../literature.d/LIT-1575.md)) and Curve Circuits
+([LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)), all by the same team. Curve Detectors' four curve layers
 match its groups: conv2d2's tiny curves (12, one of them a circle),
 mixed3a's curves (11) and mixed3b's curves (10). Curve Circuits sorts
 mixed3a's line-like units by this article's groups and uses its texture
@@ -163,7 +163,7 @@ alternative and Feature Visualization and Building Blocks for method.
 
 ## Bearing on the record
 
-- **THEORY-1013.** The promote_when asks for a stated criterion and "the
+- **[THEORY-1013](../theory.d/THEORY-1013.md).** The promote_when asks for a stated criterion and "the
   fraction of units that meet it" over whole layers. This is the first
   denominator the record holds: 1,056 units, all sorted. It is not the
   criterion. A group is a label given by eye, often after minutes, and
@@ -174,19 +174,19 @@ alternative and Feature Visualization and Building Blocks for method.
   "small and unrepresentative minority". By that sense, only the curve
   family (10 units) and, from Curve Circuits, the families feeding it
   have been argued in depth. The account stays Proposed; the count is
-  filed as THEORY-tmpjdph0.
-- **THEORY-1022 and THEORY-1028.** The ten curve units are confirmed as
+  filed as [THEORY-tmpjdph0](../theory.d/THEORY-tmpjdph0.md).
+- **[THEORY-1022](../theory.d/THEORY-1022.md) and [THEORY-1028](../theory.d/THEORY-1028.md).** The ten curve units are confirmed as
   a group of the census; three mixed3b double-curve units are called
   "likely ... polysemantic", which is the article's own counter-case in
   the curve neighbourhood.
-- **THEORY-986 (universality).** Asserted for early vision ("seems most
+- **[THEORY-986](../theory.d/THEORY-986.md) (universality).** Asserted for early vision ("seems most
   likely to be universal") with one other model's first layer shown. It
   adds no cross-model count.
-- **THEORY-802 and QUESTION-274.** The census is in the neuron basis
+- **[THEORY-802](../theory.d/THEORY-802.md) and [QUESTION-274](../questions.d/QUESTION-274.md).** The census is in the neuron basis
   throughout, and the authors' open questions include "Is there a better
   taxonomy, or another way to understand the space of features?"
-- **Accounts filed.** THEORY-tmpjdph0 (Active): the census's counts.
-  THEORY-tmpehpcu (Proposed): that the families are real structure and
+- **Accounts filed.** [THEORY-tmpjdph0](../theory.d/THEORY-tmpjdph0.md) (Active): the census's counts.
+  [THEORY-tmpehpcu](../theory.d/THEORY-tmpehpcu.md) (Proposed): that the families are real structure and
   recur across models.
 
 No instruction for machine-learning practice; the anthology may want the
@@ -220,7 +220,7 @@ work as a reading (`anthology-candidate`).
     "Genereally", "turqoise", "necesarily requiring spatial
     coherrence", "In early vision, this unstructured of feature
     detection".
-  - The printed DOI did not resolve on 2026-10-27 (see LIT-tmp6ii6u).
+  - The printed DOI did not resolve on 2026-10-27 (see [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md)).
 
 ## Open questions
 

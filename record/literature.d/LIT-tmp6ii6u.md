@@ -1,17 +1,17 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpdmtd9) in full, from the Distill article; worth
+  read 2026-10-27 ([NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md)) in full, from the Distill article; worth
   reading as the only place the Circuits thread gives a denominator: it
   sorts every one of the 1,056 units of InceptionV1's first five layers
   into 77 named groups, with each group's share of its layer
-  (THEORY-tmpjdph0). Read it knowing that the groups are, in the authors'
+  ([THEORY-tmpjdph0](../theory.d/THEORY-tmpjdph0.md)). Read it knowing that the groups are, in the authors'
   words, "ad-hoc, human defined", that 391 of the 1,056 units (37%) sit in
   groups the authors' own captions call catch-all, broad and not well
   defined, low-confidence, unstudied or not understood, and that being
   sorted into a group is not the same as being understood in Zoom In's
   sense. The authors' wider claim, that neuron families are real and recur
-  across models, is THEORY-tmpehpcu.
+  across models, is [THEORY-tmpehpcu](../theory.d/THEORY-tmpehpcu.md).
 title: 'An Overview of Early Vision in InceptionV1'
 version: 2
 history:
@@ -84,22 +84,22 @@ Olah, C., Cammarata, N., Schubert, L., Goh, G., Petrov, M. and Carter, S.
 2020. https://distill.pub/2020/circuits/early-vision/ (the page prints
 doi:10.23915/distill.00024.002, which did not resolve on 2026-10-27).
 
-Read in full on 2026-10-27 (NOTE-tmpdmtd9). Two accounts were drawn from
-it: THEORY-tmpjdph0 (Active) and THEORY-tmpehpcu (Proposed).
+Read in full on 2026-10-27 ([NOTE-tmpdmtd9](../notes.d/NOTE-tmpdmtd9.md)). Two accounts were drawn from
+it: [THEORY-tmpjdph0](../theory.d/THEORY-tmpjdph0.md) (Active) and [THEORY-tmpehpcu](../theory.d/THEORY-tmpehpcu.md) (Proposed).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27 ("file the next
 readings"), as one of the works the circuits readings named and did not
-register. THEORY-1013, Zoom In's claim that units of a trained vision
+register. [THEORY-1013](../theory.d/THEORY-1013.md), Zoom In's claim that units of a trained vision
 network are typically meaningful features, is Proposed because its
 evidence is chosen examples with no denominator; its promote_when asks
 for "the fraction of units that meet" a stated criterion over whole
-layers. Curve Detectors (LIT-1575, NOTE-1198) gave one family, ten of
+layers. Curve Detectors ([LIT-1575](LIT-1575.md), [NOTE-1198](../notes.d/NOTE-1198.md)) gave one family, ten of
 mixed3b's 480 units. This article is the thread's only census: it puts
 every unit of five layers somewhere. The record's circuits line held the
 programme statement and two single-family articles, and nothing that said
-how much of a layer the families cover. Read against THEORY-1013, it
+how much of a layer the families cover. Read against [THEORY-1013](../theory.d/THEORY-1013.md), it
 supplies a denominator but not the criterion: being sorted into a group
 is not being understood, and the authors say most groups were given "a
 few minutes of cursory investigation".
