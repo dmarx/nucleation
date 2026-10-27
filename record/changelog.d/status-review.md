@@ -30,3 +30,12 @@
     a defeasible standard.
   - [THEORY-073](record/theory.d/THEORY-073.md) is narrowed to Friston's 2013 formulation and promoted. The
     wider form is [THEORY-tmplg04q](record/theory.d/THEORY-tmplg04q.md), Proposed.
+- Pass 2 (workbench entry of 2026-10-27):
+  - CLAIM-283, CLAIM-025 and CLAIM-177 are promoted. CLAIM-283 and
+    CLAIM-177 are narrowed, with their dropped halves filed as
+    CLAIM-tmpxb1wf and CLAIM-tmpuhp12.
+  - TERM-tmp3mqer (Frijda's action readiness) and CASE-tmpv0eej
+    (Frankfurt's unwilling addict) take the place of contested THEORYs as
+    the grounds of claims that used only their concept or case.
+  - Four claims move off Superseded TERMs.
+  - The worklist counts inversions on ARGs.
