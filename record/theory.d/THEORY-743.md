@@ -24,7 +24,7 @@ source:
 - LIT-1240
 - LIT-338
 answers:
-- QUESTION-220
+- QUESTION-tmpt5ucu
 summary: >-
   Shalizi and Crutchfield ([LIT-1240](../literature.d/LIT-1240.md), read in [NOTE-976](../notes.d/NOTE-976.md)) assert that the
   information bottleneck recovers the causal states as β → ∞. The record

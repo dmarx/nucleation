@@ -52,7 +52,7 @@ summary: >-
   derived independently here; Lin, Tegmark and Rolnick's v2 appendix makes
   it in substance (LIT-887).
 answers:
-- QUESTION-060
+- QUESTION-tmpxjw51
 ---
 
 # THEORY-197: Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization
