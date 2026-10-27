@@ -35,6 +35,7 @@ grounds:
 - LIT-1652
 uses:
 - TERM-065
+- TERM-tmppwzer
 summary: >-
   The owner's, U15 of the exchange of 2026-10-27: "inquiry is a form of
   specification." It carries [CLAIM-477](CLAIM-477.md)'s analogy into inquiry:
@@ -49,6 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1084 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-419 CLAIM-475 — Proposed; the claims this rests on and sits beside, cited as open -->
+<!-- inactive-ok-file: TERM-tmppwzer — Proposed; the term this claim is stated in, filed 2026-10-27 -->
 <!-- inactive-ok-file: LIT-1645 LIT-1651 LIT-1652 LIT-1675 LIT-1641 LIT-1665 LIT-1637 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-470: Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be
@@ -185,3 +187,10 @@ benchmarks are what keep the comparison from rewarding moved goalposts.
   design, requirements are evoked mid-process and need not be specified in
   advance (pp. 190–191). But most of his revision is selection, "generated
   from, or dredged from" memory (p. 188), which leans toward defeater (a).
+
+## Note of 2026-10-27: the term
+
+The owner asked the same day for a TERM for inquiry, "an important building
+block of our formal argument". TERM-tmppwzer defines it as the tuple
+(Σ, A, 𝓘, 𝓞, 𝓚, 𝓑) used above, and leaves this claim's thesis out of the
+definition. So the claim is stated in the term and not true by definition.

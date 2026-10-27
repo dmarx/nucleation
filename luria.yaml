@@ -605,6 +605,9 @@ vocabularies:
           depends on processes on different timescales that reproduce, contest and transform the authority through
           which it is enacted; the Paris Agreement as the case'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
+# The pending report's age horizon, at the record's own pace: the default 90
+# could not name a stale document in a record a month old (ADR-057).
+stale_days: 14
 paths:
   docs: docs
   decisions: record/decisions.d

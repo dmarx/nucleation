@@ -21,6 +21,7 @@ summary: >-
   individual-attitude version; the aggregate revealed-preference version
   is still open, so this counter stays Proposed.
 ---
+<!-- inactive-ok-file: CLAIM-tmpnp8w6 — Proposed; the reply on CLAIM-434, open -->
 <!-- inactive-ok-file: CLAIM-122 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-089: Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy
@@ -36,3 +37,14 @@ The paper's reply ([CLAIM-122](CLAIM-122.md)) holds members' attitudes fixed and
 changes authority. But "Northstar prefers speed" is most naturally an
 aggregate, revealed preference of the organization, and constant individual
 attitudes do not refute that reading. Nothing in the manuscript answers it.
+
+## Note of 2026-10-27: a reply
+
+The status review of this date (ADR-057) found the record's later formal
+work bearing on this objection without citing it. CLAIM-tmpnp8w6 replies
+on CLAIM-434's result. The aggregate preference exists exactly when the
+organization's winning moves never cycle. Where it exists, it is fitted to
+one regime of authority, so it describes the outcome of a change in
+authority and does not predict it. The objection survives for an
+organization whose wins follow one persistent potential through such a
+change.

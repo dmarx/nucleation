@@ -24,6 +24,7 @@ summary: >-
 complements:
 - CLAIM-278
 ---
+<!-- inactive-ok-file: CLAIM-159 — Proposed; the partial reply, open -->
 
 # CLAIM-024: Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names
 
@@ -39,3 +40,11 @@ exception."
 The paper's own standard: "If no such explanatory gain exists, the concept
 should not be retained merely as a new label." The comparison with
 control/metacontrol literature is on the submission worklist and not done.
+
+## Note of 2026-10-27: a partial reply
+
+The status review of this date (ADR-057) recorded CLAIM-159 as objecting
+to this claim. CLAIM-159 places will-organization beside the expected value of
+control and Ainslie's interests as a different claim: about what governs how
+the drive profile changes, where they are about who drives. The comparison
+with planning theory and with institutional theory is still not made.

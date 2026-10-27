@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpue67e
 title: 'On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Status review (ADR-057): `rests_on: CLAIM-347` changed to
+    `complements`. The theorem is proved here without CLAIM-347, which
+    supplies its reading as a cardinal refinement of the ordinal fact, not
+    a premise. As a premise it put an Active result over a Proposed one.
+    The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -24,7 +33,7 @@ date: '2026-10-18'
 line:
 - distributed-agency
 - formal-apparatus
-rests_on:
+complements:
 - CLAIM-347
 uses:
 - TERM-060
