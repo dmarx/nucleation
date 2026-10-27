@@ -36,7 +36,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Athreya, Czuppon & Gokhale (2025), LIT-1570, read in NOTE-tmp5hcss. In
+  Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md). In
   the exponential version of the model, all four traits rise
   monotonically. Each partner becomes more obligate than adhesive,
   because a gain in adhesion is "damped by the other adhesion" in the
@@ -47,13 +47,13 @@ summary: >-
   correlation but not of their functional coupling, which is what decides
   it.
 ---
-<!-- inactive-ok-file: QUESTION-277 LIT-tmpi201p — Open or Deferred; the question this answers in part, and an unread model of host control set beside it -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1605 — Open or Deferred; the question this answers in part, and an unread model of host control set beside it -->
 # THEORY-tmpmjn0i: In Athreya, Czuppon and Gokhale's adaptive-dynamics model of an incipient endosymbiosis, mutual dependence (the product of the partners' obligacies) evolves ahead of reproductive cohesion (the product of their adhesions) early on, but only under the mapping in which each partner's free-living growth depends on its own obligacy alone while dissociation depends on both partners' adhesions; the authors' own appendix shows the bias vanishing under matched mappings and reversing under the opposite one, and their survey of real symbioses cannot test it
 
 ## Source
 
 Athreya, Czuppon & Gokhale (2025), *The American Naturalist* 206(5):
-435–451, LIT-1570, read in full in NOTE-tmp5hcss from the bioRxiv
+435–451, [LIT-1570](../literature.d/LIT-1570.md), read in full in [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md) from the bioRxiv
 version 2 (2025-05-31), not the version of record. The section "Does
 mutual dependence evolve before or after reproductive cohesion?", Figure
 5, Supplementary Note S4.B–E, Table S1, Figures S11–S14, and Table 3
@@ -108,10 +108,10 @@ result fails, as the authors report.
 
 ## Connections
 
-- **QUESTION-277.** This bears on the order of D and R. It does not
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** This bears on the order of D and R. It does not
   settle it: the order turns on how each partner's traits act, which is
   an empirical question. It also corrects the question's summary.
-- **LIT-tmpi201p.** Frank (1996, unread) models host control of
+- **[LIT-1605](../literature.d/LIT-1605.md).** Frank (1996, unread) models host control of
   transmission. If the host can impose cohesion unilaterally, dissociation
   depends on one partner's trait (mapping I). With free growth depending
   on one's own obligacy that is the matched case i-I, and the

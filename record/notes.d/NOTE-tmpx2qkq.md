@@ -32,14 +32,14 @@ summary: >-
   called preliminary.
 ---
 <!-- inactive-ok-file: THEORY-tmpf67xs — Proposed; filed from this reading -->
-<!-- inactive-ok-file: QUESTION-277 CASE-173 CASE-171 CASE-174 CASE-167 LIT-1559 LIT-1560 LIT-1569 LIT-1572 LIT-tmp98l8f — Open, Proposed or Deferred; the question, cases and unread works this reading is set beside, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 CASE-173 CASE-171 CASE-174 CASE-167 LIT-1559 LIT-1560 LIT-1569 LIT-1572 LIT-1596 — Open, Proposed or Deferred; the question, cases and unread works this reading is set beside, nothing here rests on them -->
 
 # NOTE-tmpx2qkq: McCutcheon, Garber, Spencer & Warren — How do bacterial endosymbionts work with so few genes?
 
 ## Contribution
 
 It draws a line inside the class of reduced endosymbionts. The earlier
-picture (LIT-1559, unread here) was of degenerate genomes that "retain
+picture ([LIT-1559](../literature.d/LIT-1559.md), unread here) was of degenerate genomes that "retain
 only the most essential functions", with information processing the last
 to go. This paper shows that past about 200 kb, even translation, "the
 most tightly conserved process", starts to erode. Past about 400 kb, the
@@ -158,39 +158,39 @@ evolution of a bona fide organelle".
 
 ## Connections
 
-It updates McCutcheon & Moran's 2012 review (LIT-1559, unread). The
+It updates McCutcheon & Moran's 2012 review ([LIT-1559](../literature.d/LIT-1559.md), unread). The
 mealybug symbiont *Tremblaya* is its Figure 4, which links it to
-LIT-1569 and LIT-1572, both unread. Its protein-import mystery is the
-subject of Sørensen et al. (LIT-1560, unread), and its Shigenobu-era
-picture of *Buchnera* (LIT-tmp98l8f, unread) is a symbiont well above
+[LIT-1569](../literature.d/LIT-1569.md) and [LIT-1572](../literature.d/LIT-1572.md), both unread. Its protein-import mystery is the
+subject of Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), unread), and its Shigenobu-era
+picture of *Buchnera* ([LIT-1596](../literature.d/LIT-1596.md), unread) is a symbiont well above
 the tipping point.
 
 ## Bearing on the record
 
-- **QUESTION-277, regulatory control (C) and gene distribution (G).** The
+- **[QUESTION-277](../questions.d/QUESTION-277.md), regulatory control (C) and gene distribution (G).** The
   question placed host control with gene transfer and import, the
-  *Paulinella* route (CASE-174). This reading shows control arising
+  *Paulinella* route ([CASE-174](../cases.d/CASE-174.md)). This reading shows control arising
   another way in insect symbioses. Below the thresholds, a symbiont that
   cannot build its membrane or charge its tRNAs is supplied by the host
   whether or not genes moved. The host's control is then forced by the
   symbiont's losses, not won by transfer. G and C are therefore not
   independent: losses in the symbiont's genome create the host's role.
   The inference is mine.
-- **CASE-173 (aphid–*Buchnera*).** The case says the abstracts it rests on
+- **[CASE-173](../cases.d/CASE-173.md) (aphid–*Buchnera*).** The case says the abstracts it rests on
   report no gene transfer to the host. This reading adds that a
   host-encoded protein has been found in *Buchnera*'s cytoplasm (its
   reference 55). It does not say the protein is a transferred *Buchnera*
   gene: the paper speaks of horizontally transferred bacterial genes on
   host genomes in general. A dated note goes on the case.
-- **CASE-171 (mealybugs).** *Tremblaya* is a tipping-point endosymbiont
+- **[CASE-171](../cases.d/CASE-171.md) (mealybugs).** *Tremblaya* is a tipping-point endosymbiont
   with a three-membrane envelope (Figure 4), and a host-encoded protein
   has been seen in a mealybug endosymbiont. A dated note goes on the case.
-- **CASE-167 (nitroplast) and CASE-174 (*Paulinella*).** These are the
+- **[CASE-167](../cases.d/CASE-167.md) (nitroplast) and [CASE-174](../cases.d/CASE-174.md) (*Paulinella*).** These are the
   "pre-tipping-point" endosymbionts in protists where import is
   established "on a large scale". The paper's milestone language, import
   as the mark of "a bona fide organelle", is the criterion those cases
   rest on.
-- Filed as THEORY-tmpf67xs. No instruction for machine-learning practice.
+- Filed as [THEORY-tmpf67xs](../theory.d/THEORY-tmpf67xs.md). No instruction for machine-learning practice.
 
 ## Limitations
 
@@ -216,5 +216,5 @@ the tipping point.
   *Paulinella*, would answer it.
 - Do insect hosts import tRNAs into their symbionts?
 - Does host supply precede the symbiont's losses, allowing them, or follow
-  them as rescue? This is the order question QUESTION-277 asks of host
+  them as rescue? This is the order question [QUESTION-277](../questions.d/QUESTION-277.md) asks of host
   compensation.

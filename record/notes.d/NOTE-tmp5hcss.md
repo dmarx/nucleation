@@ -41,7 +41,7 @@ summary: >-
   refute it.
 ---
 <!-- inactive-ok-file: THEORY-tmpmjn0i THEORY-tmpyk1k6 — Proposed; filed from this reading -->
-<!-- inactive-ok-file: QUESTION-277 THEORY-141 THEORY-418 THEORY-443 LIT-1568 LIT-1573 LIT-tmpi201p LIT-tmpt00nh CASE-173 CASE-177 — Open, Proposed or Deferred; the question, accounts, works and cases this reading is set beside, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 THEORY-141 THEORY-418 THEORY-443 LIT-1568 LIT-1573 LIT-1605 LIT-1617 CASE-173 CASE-177 — Open, Proposed or Deferred; the question, accounts, works and cases this reading is set beside, nothing here rests on them -->
 
 # NOTE-tmp5hcss: Athreya, Czuppon & Gokhale — The evolution of dependence and cohesion in incipient endosymbioses
 
@@ -232,18 +232,18 @@ The authors build on Law & Dieckmann (1998), Nguyen & van Baalen (2020)
 and Estrela, Kerr & Morris (2016), from whom the two-dimensional framing
 comes. None of these is in the record. Their Red King argument is
 Bergstrom & Lachmann's. They place reductive genome evolution under
-"other mechanisms such as Muller's ratchet" (LIT-1573, Moran 1996) "or
+"other mechanisms such as Muller's ratchet" ([LIT-1573](../literature.d/LIT-1573.md), Moran 1996) "or
 environment-induced redundancy", the latter citing the Black Queen
-(LIT-1568, read in NOTE-tmp85ewc), McCutcheon & Moran (2010) and Husnik
-et al. (2013, LIT-1569). These, they say, are "predicated on
+([LIT-1568](../literature.d/LIT-1568.md), read in [NOTE-tmp85ewc](NOTE-tmp85ewc.md)), McCutcheon & Moran (2010) and Husnik
+et al. (2013, [LIT-1569](../literature.d/LIT-1569.md)). These, they say, are "predicated on
 endosymbionts occurring within the hosts". They cite symbiont
 replacement in aphids (Chong & Moran 2018) for the host side of the
-asymmetry. Frank's models of host control (LIT-tmpi201p, LIT-tmpt00nh)
+asymmetry. Frank's models of host control ([LIT-1605](../literature.d/LIT-1605.md), [LIT-1617](../literature.d/LIT-1617.md))
 are not cited.
 
 ## Bearing on the record
 
-- **QUESTION-277.** The question rested its first two dimensions on this
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The question rested its first two dimensions on this
   paper, and the reading partly bears that out. D and R are separate
   traits with separate dynamics, and the model gives conditions under
   which either stalls. But:
@@ -254,7 +254,7 @@ are not cited.
     summary repeated the exchange's version, "even when investments in
     the two are uncorrelated". That is true of the model's traits, but
     the bias comes from how they act, not from correlation. A note goes
-    on QUESTION-277.
+    on [QUESTION-277](../questions.d/QUESTION-277.md).
   - **The model has no gene loss, no transfer and no host control.**
     Obligacy is a phenomenological trade-off between free and collective
     growth. The paper does not model the question's routes (Black Queen,
@@ -264,26 +264,26 @@ are not cited.
     host free is what the birth-dominated case gives. It is consistent
     with the empirical asymmetry the paper notes: symbionts are more often
     obligate than hosts.
-- **THEORY-141.** Here the collective's shared fate "aligns interests"
+- **[THEORY-141](../theory.d/THEORY-141.md).** Here the collective's shared fate "aligns interests"
   through the Red King effect without any policing. That is a mechanism
-  of alignment that THEORY-141's list (policing and similar) does not
+  of alignment that [THEORY-141](../theory.d/THEORY-141.md)'s list (policing and similar) does not
   name. The model has no within-collective conflict, though, so it cannot
   test whether selection between collectives trumps selection within.
   The comparison is mine.
-- **THEORY-443 and the transition criterion.** The paper's operational
+- **[THEORY-443](../theory.d/THEORY-443.md) and the transition criterion.** The paper's operational
   definition of a transition, full dependence plus full cohesion, giving
   a life cycle, is one concrete criterion for Darwinian individuality of
   a partnership. Under it, aphid–*Buchnera* (Table 3: mutually obligate,
   vertical) is a candidate, and the base model predicts the host's
   dependence will not follow unless collective mortality dominates. It
-  offers a parameter to measure for CASE-173: the balance of births and
+  offers a parameter to measure for [CASE-173](../cases.d/CASE-173.md): the balance of births and
   deaths of partners inside the collective.
-- **CASE-177 (*Hodgkinia*).** The model fixes one symbiont unit per host
+- **[CASE-177](../cases.d/CASE-177.md) (*Hodgkinia*).** The model fixes one symbiont unit per host
   and so cannot represent lineage splitting or symbiont titre. The
   authors list symbiont growth inside a host as the extension most
   needed.
-- Filed as THEORY-tmpmjn0i (the ordering result, with its dependence on
-  the mapping) and THEORY-tmpyk1k6 (the asymmetry, and the outcomes
+- Filed as [THEORY-tmpmjn0i](../theory.d/THEORY-tmpmjn0i.md) (the ordering result, with its dependence on
+  the mapping) and [THEORY-tmpyk1k6](../theory.d/THEORY-tmpyk1k6.md) (the asymmetry, and the outcomes
   after the symbiont becomes obligate). No instruction for
   machine-learning practice.
 

@@ -167,16 +167,16 @@ and Hamilton's rule (kin-selected production of public goods). It relies
 on earlier work for the drift account of symbiont reduction (its
 reference 9) and for experimental evolution with *Salmonella*
 bottlenecks and *E. coli* deletions (references 10–12), none read here.
-LIT-1570 (Athreya, Czuppon & Gokhale), read in NOTE-tmp5hcss, cites it
+[LIT-1570](../literature.d/LIT-1570.md) (Athreya, Czuppon & Gokhale), read in [NOTE-tmp5hcss](NOTE-tmp5hcss.md), cites it
 as the understood route to mutual dependence. It groups it with
 "environment-induced redundancy" as a driver of symbiont genome reduction
-other than the Red King effect. LIT-1225 (Cooper & West, unread) models
+other than the Red King effect. [LIT-1225](../literature.d/LIT-1225.md) (Cooper & West, unread) models
 extreme specialization within a group, where helpers are selected as
 helpers. Here helpers are a by-product.
 
 ## Bearing on the record
 
-- **QUESTION-277, the first route.** The reading confirms what the
+- **[QUESTION-277](../questions.d/QUESTION-277.md), the first route.** The reading confirms what the
   question said of this route, and sharpens it. Dependence arises with no
   collective at all: there is no co-transmission, no host and no shared
   fate. The dependence is directional, from beneficiaries to helpers, and
@@ -189,18 +189,18 @@ helpers. Here helpers are a by-product.
 - **The scope correction in the curation entry of 2026-10-27 stands.** The
   hypothesis is stated for free-living organisms, and the paper credits
   drift for endosymbiont reduction. Applying it to endosymbionts is
-  LIT-1570's move ("environment-induced redundancy"), not this paper's.
-- **CLAIM-060.** The conclusion says the division of labour "is often to
+  [LIT-1570](../literature.d/LIT-1570.md)'s move ("environment-induced redundancy"), not this paper's.
+- **[CLAIM-060](../claims.d/CLAIM-060.md).** The conclusion says the division of labour "is often to
   the advantage of all". Its own cheater section allows the opposite when
   helpers and beneficiaries share a limiting resource. So whether the
-  community gains is contingent, which is consistent with CLAIM-060's
+  community gains is contingent, which is consistent with [CLAIM-060](../claims.d/CLAIM-060.md)'s
   thesis that the whole's success and its members' welfare come apart.
   This is a further instance, not a ground. The comparison is mine.
-- **THEORY-141.** Its condition for a stable collective, that selection
+- **[THEORY-141](../theory.d/THEORY-141.md).** Its condition for a stable collective, that selection
   between collectives trump selection within, does not apply here,
   because no collective is formed. The Black Queen is a case of
   interdependence that the transitions framework does not cover.
-- Filed as THEORY-tmp20e6b. No instruction for machine-learning practice.
+- Filed as [THEORY-tmp20e6b](../theory.d/THEORY-tmp20e6b.md). No instruction for machine-learning practice.
 
 ## Limitations
 
@@ -223,7 +223,7 @@ helpers. Here helpers are a by-product.
 ## Open questions
 
 - Has a Black Queen loss been reproduced experimentally, invading and
-  then stopping at the frequency equations 2–3 predict? LIT-1570 cites
+  then stopping at the frequency equations 2–3 predict? [LIT-1570](../literature.d/LIT-1570.md) cites
   D'Souza and Kost (2016) for metabolic dependency evolving quickly in
   experiment. That paper is not in the record.
 - Does "shooting the moon" happen? The prediction is that
@@ -231,4 +231,4 @@ helpers. Here helpers are a by-product.
   beneficiary genomes keep shrinking faster.
 - Where the beneficiary does become an endosymbiont, does the Black Queen
   start the reduction and drift finish it? The paper does not say, and
-  QUESTION-277's routes may run in sequence.
+  [QUESTION-277](../questions.d/QUESTION-277.md)'s routes may run in sequence.

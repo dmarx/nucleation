@@ -35,7 +35,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Athreya, Czuppon & Gokhale (2025), LIT-1570, read in NOTE-tmp5hcss. With
+  Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md). With
   the symbiont's population larger and faster, its obligacy reaches 1
   first. In the base model the host's R₀ is then exactly 1, so host
   obligacy is neutral. With within-collective deaths the host goes fully
@@ -50,8 +50,8 @@ summary: >-
 
 ## Source
 
-Athreya, Czuppon & Gokhale (2025), LIT-1570, read in full in
-NOTE-tmp5hcss from the bioRxiv version 2. The sections "Independent
+Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in full in
+[NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md) from the bioRxiv version 2. The sections "Independent
 evolution of obligacies and adhesions", "The effect of within-collective
 mortality and reproduction", "Collective growth rate and collective
 carrying capacity have different effects", the conclusions, Figures 2–4,
@@ -100,22 +100,22 @@ of demography. In the model, neither happens.
   the host.
 - **Not a model of conflict.** Interests are aligned by construction, and
   there is no within-collective selection. So it cannot speak to
-  policing or to THEORY-141's condition.
+  policing or to [THEORY-141](THEORY-141.md)'s condition.
 
 ## Connections
 
-- **QUESTION-277.** One-sided dependence (symbiont obligate, host free)
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** One-sided dependence (symbiont obligate, host free)
   and full mutual dependence are both outcomes of one model, decided by
   demography inside the collective. That gives the question a candidate
   variable for when a dependency becomes an individual.
-- **THEORY-443.** The model's transition criterion, full dependence plus
+- **[THEORY-443](THEORY-443.md).** The model's transition criterion, full dependence plus
   full cohesion giving the pair a life cycle, is one operational version
   of Darwinian individuality for a partnership. Under it, most dependent
   symbioses stop short.
-- **THEORY-141.** It describes a different mechanism of alignment. Here,
+- **[THEORY-141](THEORY-141.md).** It describes a different mechanism of alignment. Here,
   shared reproduction and the Red King effect align interests, not
-  policing. It does not compete with THEORY-141's condition, because it
+  policing. It does not compete with [THEORY-141](THEORY-141.md)'s condition, because it
   models no conflict.
-- **CASE-173 and CASE-177.** Aphid–*Buchnera* is the model's
+- **[CASE-173](../cases.d/CASE-173.md) and [CASE-177](../cases.d/CASE-177.md).** Aphid–*Buchnera* is the model's
   mutually-obligate, vertical case. The model's single-symbiont
   collectives cannot represent *Hodgkinia*'s splitting.

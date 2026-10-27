@@ -168,25 +168,25 @@ must say which drives which.
 ## Note of 2026-10-27 (readings): what the first three readings say
 
 Three of the four works the exchange called "Critical" have been read in
-full. The fourth, Moran 1996 (LIT-1573), is Unfetched: its free copy is
+full. The fourth, Moran 1996 ([LIT-1573](../literature.d/LIT-1573.md)), is Unfetched: its free copy is
 behind a challenge this client could not pass.
 
 - **The Black Queen route moves D one way and G, and nothing else**
-  (LIT-1568, NOTE-tmp85ewc, THEORY-tmp20e6b). Loss of a costly, leaky
+  ([LIT-1568](../literature.d/LIT-1568.md), [NOTE-tmp85ewc](../notes.d/NOTE-tmp85ewc.md), [THEORY-tmp20e6b](../theory.d/THEORY-tmp20e6b.md)). Loss of a costly, leaky
   function is favoured until helpers just supply the community. No
   collective forms. There is no cohesion and no control, and the
   dependence runs from beneficiaries to helpers only. It is the record's
   clearest case of interdependence that is not individuality. The paper
   states it for free-living microbes.
-- **Past a genome-size threshold, G forces C** (LIT-1571, NOTE-tmpx2qkq,
-  THEORY-tmpf67xs). Below about 400 kb a symbiont cannot build its own
+- **Past a genome-size threshold, G forces C** ([LIT-1571](../literature.d/LIT-1571.md), [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md),
+  [THEORY-tmpf67xs](../theory.d/THEORY-tmpf67xs.md)). Below about 400 kb a symbiont cannot build its own
   envelope, and below about 200 kb translation erodes. The host then
   presumably supplies membranes, transport and translation parts, with or
   without gene transfer. Host control can therefore be a consequence of
   the symbiont's losses, not only of transfer and import. This couples
   two dimensions the question lists as separate.
-- **D and R are separate, but their order is not settled** (LIT-1570,
-  NOTE-tmp5hcss, THEORY-tmpmjn0i, THEORY-tmpyk1k6). This corrects the
+- **D and R are separate, but their order is not settled** ([LIT-1570](../literature.d/LIT-1570.md),
+  [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md), [THEORY-tmpmjn0i](../theory.d/THEORY-tmpmjn0i.md), [THEORY-tmpyk1k6](../theory.d/THEORY-tmpyk1k6.md)). This corrects the
   question's summary and its "Why it is a question" section. Athreya et
   al.'s "mutual dependence evolves faster than reproductive cohesion even
   when investments in the two are uncorrelated" holds under their chosen
@@ -202,7 +202,7 @@ behind a challenge this client could not pass.
   births and deaths inside the collective. That gives the question one
   candidate variable for when dependence becomes individuality.
 
-One open lead from the readings: LIT-tmpi201p (Frank, unread) models
+One open lead from the readings: [LIT-1605](../literature.d/LIT-1605.md) (Frank, unread) models
 host control of transmission. If a host can impose cohesion on its own,
 dissociation depends on one partner's trait, and on Athreya et al.'s
 Table S1 the dependence-first bias largely goes. Reading Frank is the

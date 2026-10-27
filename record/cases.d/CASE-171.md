@@ -66,12 +66,12 @@ abstracts until they are read.
 
 ## Note of 2026-10-27 (later): *Tremblaya* past the tipping point
 
-McCutcheon et al. (LIT-1571, read in NOTE-tmpx2qkq) use *Tremblaya
+McCutcheon et al. ([LIT-1571](../literature.d/LIT-1571.md), read in [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md)) use *Tremblaya
 princeps* from *Planococcus citri* as their electron micrograph of a
 "tipping-point endosymbiont" (Figure 4). It has three membranes: two of
 its own, inherited, and an outer host vacuolar membrane. Inside are a
 few ribosomes. Its genome is below the 200 kb at which translation genes
-begin to go (THEORY-tmpf67xs), so on that paper's account its envelope,
+begin to go ([THEORY-tmpf67xs](../theory.d/THEORY-tmpf67xs.md)), so on that paper's account its envelope,
 transport and some translation must be supplied by the host. The paper
 also cites a host-encoded protein identified in the cytoplasm of a
 mealybug endosymbiont (one protein, mechanism unknown). This adds a

@@ -74,8 +74,8 @@ rests on their abstracts until they are read.
 
 ## Note of 2026-10-27 (later): a host protein inside *Buchnera*, and what the model says of the host
 
-- **Host-encoded protein in the symbiont.** McCutcheon et al. (LIT-1571,
-  read in NOTE-tmpx2qkq) report that host-encoded proteins have been
+- **Host-encoded protein in the symbiont.** McCutcheon et al. ([LIT-1571](../literature.d/LIT-1571.md),
+  read in [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md)) report that host-encoded proteins have been
   identified by immunofluorescence "in the cytoplasm of aphid and
   mealybug endosymbionts". The study for the aphid looked at a single
   protein, and the mechanism of import is unknown. The paper does not say
@@ -84,13 +84,13 @@ rests on their abstracts until they are read.
   general. So the case's statement, that its sources report no gene
   transfer to the host, still holds of those sources. But the host
   already reaches into the symbiont, which bears on control (C) in
-  QUESTION-277. *Buchnera* APS's genome (641 kb) is well above the
-  400 kb and 200 kb thresholds of THEORY-tmpf67xs.
-- **The host's side, on Athreya et al.** LIT-1570 (read in
-  NOTE-tmp5hcss) lists aphid–*Buchnera* as mutually obligate and
+  [QUESTION-277](../questions.d/QUESTION-277.md). *Buchnera* APS's genome (641 kb) is well above the
+  400 kb and 200 kb thresholds of [THEORY-tmpf67xs](../theory.d/THEORY-tmpf67xs.md).
+- **The host's side, on Athreya et al.** [LIT-1570](../literature.d/LIT-1570.md) (read in
+  [NOTE-tmp5hcss](../notes.d/NOTE-tmp5hcss.md)) lists aphid–*Buchnera* as mutually obligate and
   vertically transmitted. Its model predicts that the faster-evolving
   partner, the symbiont, becomes obligate first, and that the host's
   dependence follows only if partners die inside the collective more than
-  they are born there (THEORY-tmpyk1k6). That turns the case into a
+  they are born there ([THEORY-tmpyk1k6](../theory.d/THEORY-tmpyk1k6.md)). That turns the case into a
   measurement: the demography of *Buchnera* within its host. Nothing in
   the sources reports it.

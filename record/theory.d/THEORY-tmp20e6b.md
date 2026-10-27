@@ -34,7 +34,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Morris, Lenski & Zinser (2012), LIT-1568, read in NOTE-tmp85ewc. A
+  Morris, Lenski & Zinser (2012), [LIT-1568](../literature.d/LIT-1568.md), read in [NOTE-tmp85ewc](../notes.d/NOTE-tmp85ewc.md). A
   loss-of-function mutant invades when its resource saving
   B = (Q_A − Q_M)/Q_A exceeds its cost C, which falls as other cells'
   leaky activity protects it. Because protection falls as producers become
@@ -48,8 +48,8 @@ summary: >-
 
 ## Source
 
-Morris, Lenski & Zinser (2012), *mBio* 3(2): e00036-12, LIT-1568, read
-in full in NOTE-tmp85ewc from the PubMed Central copy. The sections "The
+Morris, Lenski & Zinser (2012), *mBio* 3(2): e00036-12, [LIT-1568](../literature.d/LIT-1568.md), read
+in full in [NOTE-tmp85ewc](../notes.d/NOTE-tmp85ewc.md) from the PubMed Central copy. The sections "The
 Black Queen Hypothesis" (equations 1–3), "Are beneficiaries 'cheaters'?",
 and the katG case with Figure 1.
 
@@ -90,7 +90,7 @@ Prochlorococcus were peroxide-tolerant.
 
 - **Not that endosymbiont reduction is Black Queen.** The paper credits
   drift for endosymbionts and states the hypothesis for free-living
-  organisms. Others extend it to symbionts (LIT-1570's
+  organisms. Others extend it to symbionts ([LIT-1570](../literature.d/LIT-1570.md)'s
   "environment-induced redundancy").
 - **Not that the outcome benefits all.** The conclusion says the division
   of labour "is often to the advantage of all". The paper's own analysis
@@ -107,14 +107,14 @@ Prochlorococcus were peroxide-tolerant.
 
 ## Connections
 
-- **QUESTION-277.** This answers the question's first route. Dependence
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** This answers the question's first route. Dependence
   arises by individual selection. It is directional (D, one way), and
   function is distributed across genomes (G). Cohesion, host control and
   collective-level selection are all absent. It is the record's clearest
   case of interdependence that is not individuality.
-- **THEORY-141.** That account's stability condition presupposes a
+- **[THEORY-141](THEORY-141.md).** That account's stability condition presupposes a
   collective. This one produces dependence without any, so the two do not
   compete. They describe different outcomes.
-- **LIT-1225.** Cooper & West (unread) model extreme specialization
+- **[LIT-1225](../literature.d/LIT-1225.md).** Cooper & West (unread) model extreme specialization
   favoured within a group, where helpers are selected as helpers. Here
   helpers are what remains after others defect.

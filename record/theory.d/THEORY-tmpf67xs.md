@@ -34,8 +34,8 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  McCutcheon, Garber, Spencer & Warren (2024), LIT-1571, read in
-  NOTE-tmpx2qkq. The envelope goes first, near 400 kb, and translation
+  McCutcheon, Garber, Spencer & Warren (2024), [LIT-1571](../literature.d/LIT-1571.md), read in
+  [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md). The envelope goes first, near 400 kb, and translation
   starts to go below about 200 kb, the authors' "tipping point". Such
   symbionts have three-membrane envelopes and among the most biased
   proteomes in bacteria. They can only work if the host provides what
@@ -48,7 +48,7 @@ summary: >-
 ## Source
 
 McCutcheon, Garber, Spencer & Warren (2024), *PLOS Biology* 22(4):
-e3002577, LIT-1571, read in full in NOTE-tmpx2qkq from the PubMed
+e3002577, [LIT-1571](../literature.d/LIT-1571.md), read in full in [NOTE-tmpx2qkq](../notes.d/NOTE-tmpx2qkq.md) from the PubMed
 Central copy. Figure 2 (the gene matrix) and its caption; the sections
 on envelopes, transport and translation.
 
@@ -94,15 +94,15 @@ threshold, or scattered across functions, not concerted.
 
 ## Connections
 
-- **QUESTION-277, regulatory control (C) and gene distribution (G).**
+- **[QUESTION-277](../questions.d/QUESTION-277.md), regulatory control (C) and gene distribution (G).**
   Here host control is forced by the symbiont's losses, not gained by
   gene transfer. Losses that move G past a threshold make C necessary.
   So the two dimensions are coupled, and in the insect cases G may come
   first.
-- **CASE-174 and CASE-167.** *Paulinella* and the nitroplast are the
+- **[CASE-174](../cases.d/CASE-174.md) and [CASE-167](../cases.d/CASE-167.md).** *Paulinella* and the nitroplast are the
   pre-tipping-point systems with large-scale import. The insect symbionts
   here reach dependence on the host by a different road, with less
   evidence of import.
-- **CASE-173 and CASE-171.** Aphid and mealybug endosymbionts are where
+- **[CASE-173](../cases.d/CASE-173.md) and [CASE-171](../cases.d/CASE-171.md).** Aphid and mealybug endosymbionts are where
   single host proteins have been seen inside the symbiont. *Tremblaya*,
   in the mealybug case, is a tipping-point endosymbiont.
