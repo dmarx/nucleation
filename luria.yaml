@@ -1512,6 +1512,16 @@ patterns:
       (c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM)
       WHERE NOT (g {status: 'Rejected'})
     blurb: A claim and the claims an argument that is not Rejected draws it from.
+  # A claim and the claims that undercut an argument for it. `undercuts`
+  # targets the ARG, not the conclusion, so `objects_to` alone leaves every
+  # undercut off the dialectic page. This puts the undercutting claim in
+  # the conclusion's thread, named with the argument it went through. A
+  # Rejected argument is kept: an undercut that succeeded is the history
+  # the thread is for (ADR-054).
+  undercuts_support_of:
+    match: >-
+      (u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)
+    blurb: A claim and the claims that undercut an argument concluding it.
 chains:
   lineage:
     scheme: LIT
@@ -1549,10 +1559,12 @@ chains:
     scheme: CLAIM
     relation:
     - objects_to
+    - undercuts_support_of
     output: docs/dialectic.md
     title: Objections and replies
-    blurb: Each objection with the reply to it and the reply to that, as one thread. Faceted by voice
-      and by credence, so an open objection is a counter still Proposed (ADR-032).
+    blurb: Each objection with the reply to it and the reply to that, as one thread. An undercut joins
+      the thread of the claim the undercut argument concludes, through that argument. Faceted by voice
+      and by credence, so an open objection is a counter still Proposed (ADR-032, ADR-054).
     facet_by:
     - role
     - status
