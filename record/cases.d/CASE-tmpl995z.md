@@ -90,7 +90,7 @@ independently. So the regimes must not assume that one delivers the other.
   Laplacian flow, every incompatible mode decays, so there is always some
   gap above the kernel. A separation of time scales that supports a
   reduced description needs a gap large relative to the slower dynamics
-  and to the observation horizon (CLAIM-tmpywecm's window,
+  and to the observation horizon ([CLAIM-tmpywecm](../claims.d/CLAIM-tmpywecm.md)'s window,
   1/(κK) ≪ t ≪ 1/(κε)). The readout is the size of the gap against those
   scales, not whether it is positive.
 
