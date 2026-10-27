@@ -1,9 +1,13 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A reading was attempted on 2026-10-27 and
+  no lawful full text was reached: Unpaywall and OpenAlex both give the
+  article as closed, and the only other location OpenAlex lists is a
+  CiteSeerX cache, which is not the authors' or the publisher's copy, so
+  it was not used. It stays Unavailable until a copy is supplied.
 title: 'Belief, awareness, and limited reasoning'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +16,13 @@ history:
     Ronald Fagin and Joseph Y. Halpern, Artificial Intelligence 34(1),
     39–76, December 1987; no day, so `published:` carries the first of
     the month. Often cited as 1988.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): Unpaywall and
+    OpenAlex give the article as closed; OpenAlex's only other location
+    is a CiteSeerX cache, not used. Checked 2026-10-27. Status Deferred
+    to Unavailable.
 tags:
 - logic
 - epistemology
@@ -37,9 +48,7 @@ summary: >-
 
 Fagin, R., & Halpern, J. Y. (1987). Belief, awareness, and limited reasoning. *Artificial Intelligence*, 34(1), 39–76. doi:10.1016/0004-3702(87)90003-8.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

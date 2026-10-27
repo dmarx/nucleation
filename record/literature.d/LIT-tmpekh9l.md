@@ -1,9 +1,14 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A reading was attempted on 2026-10-27 and
+  no lawful full text was reached: the book has no DOI to look up on
+  Unpaywall, and the Internet Archive records found are
+  controlled-lending copies or a Digital Library of India scan whose
+  copyright status was not established, so none was used. It stays
+  Unavailable until a copy is supplied.
 title: 'Logic: The Theory of Inquiry'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -15,6 +20,14 @@ history:
     India scan), found by the Archive's search API on 2026-10-27;
     whether it is a lawful open copy was not checked. No day or month
     was found, so `published:` carries a placeholder, 1 January 1938.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): no DOI for
+    Unpaywall; the Internet Archive copies are controlled-lending or a
+    Digital Library of India scan of uncertain status, not used. Checked
+    2026-10-27. Status Deferred to Unavailable; the `url:` stays as the
+    catalogue record.
 tags:
 - epistemology
 - philosophy-of-science
@@ -44,9 +57,7 @@ summary: >-
 
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt and Company.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

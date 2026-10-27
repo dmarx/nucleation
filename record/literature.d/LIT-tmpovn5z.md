@@ -1,9 +1,17 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  searched 2026-10-27 for a lawful full text; one exists but this client
+  could not fetch it, so it is not read and no NOTE is filed (ADR-053).
+  Unpaywall lists the book as gold open access on Oxford Academic (doi
+  10.1093/oso/9780198886143.001.0001); academic.oup.com answered curl
+  with a bot challenge ("Just a moment..."), and a headless-browser
+  fetch was not attempted, since it would be working around the
+  challenge. The failure is on access, not availability. A browser fetch
+  of that copy is the cheapest way to read it. It stays Unfetched until
+  a copy is supplied.
 title: 'Inquiry Under Bounds'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -11,6 +19,13 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-10-27:
     David Thorstad, Oxford University Press; online 20 June 2024, print
     27 June 2024. `published:` is the earlier date per ADR-002.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted on 2026-10-27. Unpaywall lists the book as gold
+    open access at Oxford Academic; academic.oup.com/book/57826 returned
+    HTTP 403 with a bot challenge to curl. Status Deferred to Unfetched
+    under ADR-053.
 tags:
 - epistemology
 date: '2026-10-27'
@@ -35,9 +50,7 @@ summary: >-
 
 Thorstad, D. (2024). *Inquiry Under Bounds*. Oxford University Press. doi:10.1093/oso/9780198886143.001.0001.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: a lawful open copy exists but could not be fetched on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

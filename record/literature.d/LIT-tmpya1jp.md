@@ -1,9 +1,16 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  searched 2026-10-27 for a lawful full text; one exists but this client
+  could not fetch it, so it is not read and no NOTE is filed (ADR-053).
+  Unpaywall lists the publisher's free copy at Project Euclid (bronze,
+  the published version); it answered curl with a bot challenge ("Just a
+  moment..."), and a headless-browser fetch was not attempted, since it
+  would be working around the challenge. The failure is on access, not
+  availability. A browser fetch of that copy is the cheapest way to read
+  it. It stays Unfetched until a copy is supplied.
 title: 'On a Measure of the Information Provided by an Experiment'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +19,12 @@ history:
     V. Lindley, The Annals of Mathematical Statistics 27(4), 986–1005,
     December 1956; Crossref gives no day, so `published:` carries the
     first of the month.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted on 2026-10-27. Unpaywall's one open copy, the
+    published PDF at projecteuclid.org, returned a bot-challenge page to
+    curl. Status Deferred to Unfetched under ADR-053.
 tags:
 - mathematical-statistics
 - information-theory
@@ -35,9 +48,7 @@ summary: >-
 
 Lindley, D. V. (1956). On a measure of the information provided by an experiment. *The Annals of Mathematical Statistics*, 27(4), 986–1005. doi:10.1214/aoms/1177728069.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: a lawful open copy exists but could not be fetched on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

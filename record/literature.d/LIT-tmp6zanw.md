@@ -1,9 +1,18 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  searched 2026-10-27 for a lawful full text; one exists but this client
+  could not fetch it, so it is not read and no NOTE is filed (ADR-053).
+  Unpaywall lists the submitted version in the University of Groningen
+  repository (research.rug.nl/files/2818803/2007AutomaticaCervera.pdf)
+  and a bronze copy on ScienceDirect; the repository file answered curl
+  with a bot challenge ("Just a moment..."), and a headless-browser
+  fetch was not attempted, since it would be working around the
+  challenge. The failure is on access, not availability. A browser fetch
+  of that copy is the cheapest way to read it. It stays Unfetched until
+  a copy is supplied.
 title: 'Interconnection of port-Hamiltonian systems and composition of Dirac structures'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +21,15 @@ history:
     Cervera, A. J. van der Schaft and A. Baños, Automatica 43(2),
     212–225, February 2007; no day, so `published:` carries the first of
     the month.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted on 2026-10-27. Unpaywall lists a bronze copy on
+    ScienceDirect and the submitted version in the University of
+    Groningen repository; the repository PDF returned HTTP 403 with a
+    bot challenge to curl, and ScienceDirect was not tried, being behind
+    the same kind of challenge this morning. Status Deferred to
+    Unfetched under ADR-053.
 tags:
 - compositionality
 - mathematics
@@ -38,9 +56,7 @@ summary: >-
 
 Cervera, J., van der Schaft, A. J., & Baños, A. (2007). Interconnection of port-Hamiltonian systems and composition of Dirac structures. *Automatica*, 43(2), 212–225. doi:10.1016/j.automatica.2006.08.014.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: a lawful open copy exists but could not be fetched on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

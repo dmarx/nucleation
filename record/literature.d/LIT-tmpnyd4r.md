@@ -1,9 +1,13 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from U15–U23 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A reading was attempted on 2026-10-27 and
+  no lawful full text was reached: Unpaywall and OpenAlex both give the
+  article as closed; OpenAlex lists a CiteSeerX cache, not used, and a
+  University of Groningen record, whose page offered no file. It stays
+  Unavailable until a copy is supplied.
 title: 'The Behavioral Approach to Open and Interconnected Systems'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +16,13 @@ history:
     IEEE Control Systems Magazine 27(6), 46–99, December 2007; Crossref
     lists no author, and the article is Jan C. Willems's. No day, so
     `published:` carries the first of the month.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): Unpaywall and
+    OpenAlex give the article as closed; the University of Groningen
+    record OpenAlex lists has no file, and its CiteSeerX cache was not
+    used. Checked 2026-10-27. Status Deferred to Unavailable.
 tags:
 - compositionality
 - mathematics
@@ -38,9 +49,7 @@ summary: >-
 
 Willems, J. C. (2007). The behavioral approach to open and interconnected systems. *IEEE Control Systems Magazine*, 27(6), 46–99. doi:10.1109/MCS.2007.906923.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 
