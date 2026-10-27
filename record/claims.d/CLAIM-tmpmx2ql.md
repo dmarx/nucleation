@@ -225,3 +225,14 @@ Two further points.
   the grammar slowly. A23 §XII listed other sources of separation that are
   not coupling: conservation, metastability, critical slowing and imposed
   time scales.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Two readings bear on this claim, and both run past its mechanism. Di Biagio
+and Rovelli 2021 (NOTE-tmppgt2i) make an effective constraint, the classical
+sum rule for a third system, out of inaccessibility, not slowness: another
+route to an effective constraint, with a graded error. It belongs on the
+claim's list of mechanisms. Zurek (NOTE-tmpvsoha) has the shape of the first
+half, since superpositions decay at decoherence rates while pointer states
+persist, but he gives no time scales; the ratio he states is of fragment
+sizes, not times.

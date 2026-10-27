@@ -142,3 +142,21 @@ formal-apparatus line, resting on no claim. This claim now rests on it for
 the general content, and keeps [CLAIM-011](CLAIM-011.md), [CLAIM-004](CLAIM-004.md) and [CLAIM-035](CLAIM-035.md), for applying the order of tests to translation. Claims in other lines that need
 only the general content cite [CLAIM-265](CLAIM-265.md), so setting pragmatic-transport aside
 does not take it from them.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Three readings are engineering instances of this claim's order of tests, and
+none validates its correspondences independently.
+
+- **Hansen and Ghrist** (NOTE-tmpzqos6, §8.7, p. 40) propose to "denoise the
+  measured relationships themselves using the condition of
+  cycle-consistency", adjusting the correspondences until a section exists.
+  They also show that the Laplacian does not determine the correspondences
+  (Fig. 3.1).
+- **Singer** (NOTE-tmplhrxg): "if some oracle whispers to our ears which
+  equations are good … In reality, we have to be able to tell the good from
+  the bad on our own" (p. 2). He validates jointly, by consistency around
+  cycles, under a noise model in which outliers are uniform and independent.
+- **Robinson** (NOTE-tmpdshmx) trusts his maps. In his Case 2 a sensor's 2°
+  bias cannot be told apart from an error in that station's coordinates
+  inside the maps. He calls it a sensor fault because the map is trusted.

@@ -22,6 +22,7 @@ summary: >-
   rung from confirming itself. [TERM-tmpjdel0](../terms.d/TERM-tmpjdel0.md) names the apparatus whose
   functions the rungs are.
 ---
+<!-- inactive-ok-file: THEORY-tmp0d0qe CLAIM-342 TERM-tmpjdel0 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-341 CLAIM-342 CLAIM-tmpalzo4 CLAIM-tmpi1bjh CLAIM-tmpdjt64 CLAIM-tmpl228b THEORY-621 TERM-tmpjdel0 — Proposed or new; the claims, reading and term the question presses on, cited as open -->
 <!-- inactive-ok-file: LIT-tmpqu50n LIT-tmpytrrl LIT-tmpb4amz LIT-tmpn521a LIT-tmpikjbr LIT-tmpn1p0x — Deferred or Unavailable; registered works the question would read, cited as unread -->
 
@@ -45,7 +46,7 @@ ladder":
 |---|---|---|
 | relational event | an interaction makes one system's state consequential for another | Rovelli ([LIT-tmp57r0s](../literature.d/LIT-tmp57r0s.md), read; [THEORY-621](../theory.d/THEORY-621.md)) |
 | measurement | the interaction separates alternatives into distinguishable outcomes, K_A(m, s′ given s), and may change s | Pattee ([LIT-1190](../literature.d/LIT-1190.md), read in [NOTE-952](../notes.d/NOTE-952.md)) |
-| stable record | the outcome stays accessible far longer than the interaction took | Di Biagio and Rovelli's stable facts ([LIT-tmpqu50n](../literature.d/LIT-tmpqu50n.md), unread) |
+| stable record | the outcome stays accessible far longer than the interaction took | A19 §3; no source the record holds shows it (Di Biagio and Rovelli's stable facts are a different notion; see the note of the readings below) |
 | redundant record | many fragments of the environment hold the same outcome | Zurek ([LIT-tmpb4amz](../literature.d/LIT-tmpb4amz.md), unread) |
 | use | the record changes what the system does next | chemotaxis, in A19 §6 |
 | inquiry | the criteria of discrimination themselves change in response to what is found | [CLAIM-tmpalzo4](../claims.d/CLAIM-tmpalzo4.md) |
@@ -128,6 +129,45 @@ precision.
 3. For the top rung, a structural condition on G, the part of the
    apparatus its own revisions cannot reach, under which revision improves
    prediction on interventions the system did not choose, and without which
-   it does not. Distributed sensor networks that recalibrate from consistency
-   residuals (Robinson, [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md)) are a classical, conscious-free
-   test bed.
+   it does not. Distributed sensor networks that compare their reports through
+   fixed correspondences (Robinson, [LIT-tmpn521a](../literature.d/LIT-tmpn521a.md)) are a classical,
+   conscious-free test bed, once their correspondences are allowed to be
+   revised; Robinson's are not.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Five works the question cites were read. Two attributions were corrected in
+place:
+- the "stable record" row named Di Biagio and Rovelli's stable facts;
+- the last paragraph said Robinson's networks recalibrate, and they do not.
+
+- **Stable is not persistent.** In Di Biagio and Rovelli 2021
+  (NOTE-tmppgt2i; THEORY-tmphf61a), a fact relative to F is stable *for a
+  third system W*: W may sum over it classically, because F has interacted
+  with an environment W cannot reach. Stability comes from inaccessibility,
+  not duration. Their measurement has three stages that come apart (pp.
+  5–6), and "It is the way that W, F and E couple to each other that makes F
+  a measuring apparatus for W" (p. 6). Being an apparatus is a role relative
+  to W (TERM-tmpjdel0).
+- **An exact criterion for the correlation rung, and nothing above it.** Di
+  Biagio and Rovelli 2025 (NOTE-tmp2eky0) define "B has information about A"
+  as I_{A:B} ≠ 0, without any observer (p. 3). Nothing in the paper
+  separates a measurement from any interaction that correlates. Its
+  threshold for a fact is "high enough for the level of accessible
+  resolution or confidence needed" (p. 3), so a purpose-relative threshold
+  comes back exactly where the question would draw the measurement line.
+- **The record rung.** Zurek (NOTE-tmpvsoha; THEORY-tmp08c0w) derives the set
+  of recordable outcomes from repeatability alone, eq. (5), which is a
+  criterion for measurement that needs no observer. He also separates
+  decoherence from usable records: a completely mixed environment "is
+  useless (even though it can still induce decoherence!)" (p. 4).
+  Redundancy as objectivity stays argued, not derived (THEORY-tmp0d0qe).
+- **A negative case for the top rung.** In discourse sheaves (NOTE-tmpe4zh5;
+  THEORY-tmptkmt9) the apparatus revises its expression maps using only the
+  disagreement among its own outputs. It converges to agreement that its
+  authors call "learning to lie". Its guards keep the solution from
+  collapsing; they do not make it answerable to anything outside.
+- **A positive case.** Robinson's (NOTE-tmpdshmx) is small but real: the
+  true crash site "was withheld from the data presented to the sheaf model"
+  and used only to score the result (p. 25). Something the apparatus never
+  sees is the check, which is CLAIM-342's condition in practice.

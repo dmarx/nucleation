@@ -45,6 +45,7 @@ summary: >-
   it, and the control that enforces it. It does not say that a glued whole
   is an individual.
 ---
+<!-- inactive-ok-file: CLAIM-tmpose3y — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-143 CLAIM-tmpfw510 CLAIM-tmpywecm CLAIM-tmpose3y CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpnyd4r LIT-tmpnpxhs LIT-tmpf2wmd LIT-tmpn521a LIT-tmpre2ri LIT-tmp6zanw LIT-tmpwhycq — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 
@@ -131,8 +132,9 @@ are different mathematics:
   [LIT-016](../literature.d/LIT-016.md)).
 - **Cycle holonomy.** In a gauge-coupled phase model, g₁₂g₂₃g₃₁ ≠ 1
   forbids a consistent nonzero assignment though every edge is satisfiable.
-  Torres-Hugas et al. ([LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md)) prove that a twisted Laplacian has a
-  zero mode exactly when every cycle holonomy vanishes, in their model.
+  Torres-Hugas et al. ([LIT-tmpre2ri](../literature.d/LIT-tmpre2ri.md)) state, as the standard result it is,
+  that a twisted Laplacian has a zero mode exactly when every cycle holonomy
+  vanishes mod 2π, in their model.
 - **Frustrated edge differences.** In a frustrated graph energy
   ½‖Dx − b‖² with a + b + c ≠ 0 around a cycle, the minimizer leaves a
   residual in ker Dᵀ, the cycle space (A22 §3). This is the graph form of a
@@ -155,8 +157,9 @@ residual is a physical stress or a modelling error has to be shown each time.
   drive moves them ([QUESTION-063](../questions.d/QUESTION-063.md)). A20 §7 separated coupling, compatibility
   and dynamic integration, and any one can occur without the others.
   Stewart, Golubitsky and Pivato ([LIT-tmpwhycq](../literature.d/LIT-tmpwhycq.md)) separate an invariant
-  synchrony pattern, which the architecture allows, from an attracting one,
-  which the dynamics selects.
+  synchrony pattern, which the architecture forces, from a model-dependent
+  one, and study existence and not stability; that a pattern must also
+  attract to be realized is the general point, not their result.
 - **That coupling separates time scales.** That is [CLAIM-tmpfw510](CLAIM-tmpfw510.md), answered by
   [CLAIM-tmpywecm](CLAIM-tmpywecm.md).
 - **That every constraint comes from an interaction.** Conservation laws and
@@ -173,3 +176,43 @@ notes that unconstrained consistency admits the all-zero embedding. A21 §6:
 "**Self-consistency is not the same as correspondence with reality.**" That is
 [CLAIM-342](CLAIM-342.md)'s self-confirming loop in the gluing setting. Revising the gluing
 needs evidence that the revision does not control.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Seven of the works this claim cites were read the same evening. Two
+attributions in the body were corrected in place: Torres-Hugas et al. state the
+holonomy criterion and do not prove it, and Stewart et al. study existence, not
+stability. What the readings show:
+
+- **The correspondences are given, not generated, in almost every paper.**
+  - Hansen and Ghrist (NOTE-tmpzqos6) take their restriction maps from
+    measurement or design.
+  - Robinson (NOTE-tmpdshmx) writes his from geometry before any data, and
+    his sensors never interact.
+  - Singer (NOTE-tmplhrxg) treats the offsets as evidence of angles that
+    exist beforehand.
+  - Torres-Hugas et al. (NOTE-tmpb8jge) give the connection or build it to
+    match.
+  - In Baez and Fong (NOTE-tmpigjto) the port condition is the same
+    Kirchhoff condition at every junction. It is background, and what
+    composition makes is the effective boundary relation (CLAIM-tmpose3y).
+
+  So the papers fill the claim's correspondence and evidence rows, and say
+  nothing for "interaction fixes the correspondence". That half, which
+  defeater (a) targets, still rests on argument alone.
+- **One formal case where interaction does change the correspondence.** In
+  Hansen and Ghrist's discourse sheaves (NOTE-tmpe4zh5, §8), each agent
+  revises its expression map in response to its neighbours' expressions,
+  and the maps converge to the nearest sheaf that makes the current
+  opinions agree. It is a constructed model, and its authors call the
+  outcome "learning to lie" (THEORY-tmptkmt9). It instances "agreement on
+  what is shared and not identity" exactly (§3, p. 7).
+- **Agreement on the shared part can be reached by changing what is shared.**
+  The same paper shows this, and a global section then says nothing about
+  the private states. The claim's last section warned of the zero-map
+  version of this. The discourse sheaf shows the general version.
+- **Obstructions.**
+  - Robinson adds one the claim's list lacks: a class in H¹ created by
+    processing the data (Example 32).
+  - Singer's model has no genuine obstruction. Every inconsistent cycle is
+    noise, so it cannot tell holonomy from error.

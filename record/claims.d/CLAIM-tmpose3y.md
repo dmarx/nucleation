@@ -119,3 +119,32 @@ robustness, constraint maintenance and self-modification) need their own
 evidence. Nor does the effective coupling add a new fundamental law. It is an
 effective restriction, and is no more fundamental than the parts it is
 realized by (A23 §XII).
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+- **The computation is in the literature.** Baez and Fong's Example 2.9
+  (NOTE-tmpigjto, pp. 14–15) is two resistors in series. With k = 1/r, its
+  interior potential and boundary power are this claim's x₂* and E_eff.
+  General elimination is their Thm 3.3(vi) with Lemma 3.4: eliminating a
+  node s adds c_is·c_js/Σ_k c_ks to each coupling (THEORY-tmpugh7c). The
+  paper's form is dissipated power, not spring energy. The algebra is the
+  same.
+- **The memory case needs a qualification.** With inductors and capacitors
+  the black box is exact at every frequency, as an impedance over ℝ(s),
+  under zero initial conditions. A composite therefore always presents its
+  boundary with an exact relation, and no separation of time scales is
+  needed for that. What separation decides is whether the relation is
+  approximately instantaneous, which is how the title puts it. The term in
+  y(0) is outside Baez and Fong's assumptions.
+- **Black-boxing is a functor** (THEORY-tmp99qi9, Thm 1.1): circuits with the
+  same behaviour are interchangeable in every composite. That supports the
+  defeater's "there is none" for passive linear networks.
+- **The constraint can be of higher order than any interaction that
+  realizes it.** Hansen and Ghrist (NOTE-tmpzqos6, §4.2, Fig. 4.1, Thm 4.3;
+  THEORY-tmpvecoh) show that eliminating an interior vertex of a cellular
+  sheaf can leave the boundary a constraint that no pairwise sheaf
+  expresses, where for scalar networks the result stays pairwise (Thm 4.2).
+  So composition can make a constraint not only new but of a new kind.
+- **Spivak** (NOTE-tmplvblh) composes by summing pulled-back potentials and
+  never eliminates an interior. Rigid constraints appear in his paper only
+  as limits of stiff potentials (p. 9).

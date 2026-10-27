@@ -105,3 +105,21 @@ derived, because eq. (3) is never applied across labels.
   ([THEORY-656](THEORY-656.md)). Cuffaro & Hartmann's open-systems view shares the
   denial of a closed universal system ([THEORY-631](THEORY-631.md)). Carroll's
   Hilbert-space fundamentalism ([LIT-123](../literature.d/LIT-123.md)) is the opposite pole.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Two readings bear on this reading's open points.
+
+- **The decoherence step, "cited, not shown", is shown.** Di Biagio and
+  Rovelli 2021 (NOTE-tmppgt2i, eqs. 5–8, p. 4) give it, with an O(ε) error
+  that is stated without a bound. The same-context rule is still asserted
+  ("it is always the case", p. 3), and agreement between observers still
+  gets one sentence (p. 10), so the promote_when is not met.
+- **A correction to the title's price.** "Values are not held at all times"
+  belongs to the 2021 sparse-facts formulation. Di Biagio and Rovelli 2025
+  (NOTE-tmp2eky0, p. 7) say their reformulation "allows talk of relative
+  facts also in-between interactions". A relative fact is now a property
+  of the joint distribution at any time.
+
+The title is left as it stands, as a reading of the 2021 text. Whether it
+should be superseded by one of the 2025 formulation is open.

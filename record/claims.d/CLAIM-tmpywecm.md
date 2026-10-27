@@ -114,3 +114,31 @@ k = 0, …, n − 1. The two-cluster spectrum was computed numerically for K = 1
 ε = 1: eigenvalues 0, 0.995, 200 and 201.0, so one of order ε and two of
 order K, as A21 said; the path graph for n = 10 gave λ₂ = 0.0979 against
 2(1 − cos(π/10)) = 0.0979.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+- **Hansen and Ghrist** (NOTE-tmpzqos6, Prop. 8.1, p. 34) prove that
+  ẋ = −Δx converges exponentially to the orthogonal projection onto the
+  kernel, each eigencomponent decaying at its own eigenvalue. The words
+  "relaxation rate" and "separation of time scales" are this claim's, not
+  theirs. The projection depends on the stalk weights. The two-cluster and
+  chain computations are not in the paper; they are A21's and A22's,
+  rechecked here.
+- **Spivak** (NOTE-tmplvblh; THEORY-tmp09707) is cited in the body for "the
+  same relational organization need not imply the same temporal hierarchy".
+  That phrase is A22's gloss. What the paper shows is that one harmonic
+  arrangement gives the discrete wave equation when the integrator stores
+  momentum, and the heat equation when it does not, with the same wiring,
+  potential and response (Prop. 7.4.1, Remark 7.4.2). So the coupling data
+  underdetermine whether relative modes decay. The difference lies in a
+  modeller's choice of semantics, which is this claim's condition seen from
+  the other side.
+- **Torres-Hugas et al.** (NOTE-tmpb8jge): under nonzero holonomy the twisted
+  Laplacian has no kernel, and its least eigenvalue is a floor of
+  incompatibility, not the first rate above a collective mode. For the
+  nonlinear Sakaguchi–Kuramoto dynamics, stability is set by the Jacobian,
+  not by that spectrum. This is a worked case of the claim's exclusion of
+  nonlinear coupling.
+- **Stewart, Golubitsky and Pivato** (NOTE-tmp4riih) support only "invariant
+  without being attracting" (p. 626), and as a scope statement rather than
+  a result.

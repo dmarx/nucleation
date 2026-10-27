@@ -16,6 +16,7 @@ summary: >-
   system is decoupled, which is graded; whether that grade is a grade of
   independence, or only of operational separability, is this question.
 ---
+<!-- inactive-ok-file: CLAIM-157 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: THEORY-tmprm5rv — Proposed; the reading of the paper the question is from, cited as open -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-405 CLAIM-tmpmand1 — Proposed; the claims the question presses on, cited as open -->
 
@@ -100,3 +101,15 @@ how the question should be read.
 "Separable enough" is [CLAIM-157](../claims.d/CLAIM-157.md)'s object: its gap criterion measures, for a
 target, how separable a block is. Neither the paper nor the claim says
 whether separable enough is approximately independent.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Di Biagio and Rovelli 2021 (NOTE-tmppgt2i; THEORY-tmphf61a) give a worked
+case of approximate absoluteness, for facts and not individuals. It has a
+grade (ε), a limit (ε → 0, with the third system cut off from the
+environment) and a stated error. The authors decline to make the
+approximation ontology: "How stable does a fact need to be before it is real?
+And with respect to what systems does it have to be stable?" (p. 7). They add a
+point this question lacks: the approximation is itself relative to a system.
+"Separable enough", in CLAIM-157's terms, would then mean separable enough for
+a stated third system. They argue this and do not prove it.

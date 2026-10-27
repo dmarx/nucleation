@@ -29,6 +29,7 @@ summary: >-
   and A23 all gave. The owner's doubt was well placed; what survives is a
   condition, and the condition is the interesting part.
 ---
+<!-- inactive-ok-file: CLAIM-tmpywecm — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-tmpdjt64 CLAIM-tmpywecm CLAIM-tmpmx2ql — Proposed or new; the claim this rests on, its objection and the claim that holds its conditional form -->
 
 # CLAIM-tmpfw510: Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour
@@ -76,3 +77,10 @@ modes that evolve much more slowly than local disturbances.**" That is size,
 not coupling strength, making the separation. A23 also listed sources of
 separation that involve no coupling at all: conservation laws, metastability,
 critical slowing and imposed time scales.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Spivak (NOTE-tmplvblh; THEORY-tmp09707) supplies a family of counterexamples
+beside CLAIM-tmpywecm's. Every harmonic network under his phase-space
+semantics is coupled and its step is symplectic (Prop. 6.6.1), so relative
+modes never decay. The status stands.

@@ -274,3 +274,12 @@ The exchange's later turns bear on this claim in three ways.
   that makes every record valid by weakening its rules. A22 §10: "a
   successful schema should preserve distinctions that matter for subsequent
   use."
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+CEGAR (NOTE-tmpxgbdz) gives A7's Obj(A_t, D_t) ≠ Obj(A_{t+1}, D_t) an exact
+counterpart: the same model under a refined abstraction yields a different
+abstract structure (p. 5). But the concrete states are individuated before any
+abstraction (§2, p. 4), so the apparatus constitutes only the abstract
+objects. That is the part of this claim A7 called demonstrable, and the
+reading supports nothing beyond it.

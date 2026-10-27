@@ -109,3 +109,21 @@ of **reflexive epistemic apparatus**". It did not find this claim, filed
 from the owner's U18 of 2026-10-22 with the record's five amendments as
 evidence, nor [CASE-131](../cases.d/CASE-131.md). [CLAIM-tmpl228b](CLAIM-tmpl228b.md), the apparatus claim filed from
 that exchange, rests on this one. Nothing here changes.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+CEGAR, read today (NOTE-tmpxgbdz), was offered by the exchange as luria's
+DP-016 in formal dress. The pattern matches: a failure under a fixed
+specification is located and repaired by refining the abstraction. Two
+disanalogies bear on this claim's limit.
+
+- **CEGAR's misfit is certified.** Lemma 1 decides whether a counterexample
+  is spurious against the concrete model, so every wrong merge that matters
+  eventually surfaces. A record has no concrete model to check against.
+  That is why this claim's limit, that a silently forced move leaves no
+  trace, has no counterpart there.
+- **CEGAR only splits.** The amendments this claim lists (ADR-043's field,
+  ADR-044's relation) are additions, not splits.
+
+And even with a certified misfit, the least amendment can be hard to find: the
+coarsest split that removes a counterexample is NP-hard (Thm 3).

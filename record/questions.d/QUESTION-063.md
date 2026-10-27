@@ -119,3 +119,15 @@ predicts. [CASE-101](../cases.d/CASE-101.md)'s first population is the confound'
 None of these interventions has been run. [QUESTION-276](QUESTION-276.md) asks the
 question for an organization's inferred perspectives. The question is
 unchanged.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Stewart, Golubitsky and Pivato (NOTE-tmp4riih) treat drive and coupling on one
+footing. A drive is just another cell, and balance counts inputs whoever sends
+them. In Pecora and Carroll's master–slave network (Fig. 19, p. 635), cells
+that are only driven are robustly synchronous with cells that also drive back.
+In Example 5.1 (p. 626), cells with no arrows among them are robustly
+synchronous. So a pattern forced by the architecture means "equal input", not
+"coupled to each other". A cluster is evidence of coupling only relative to a
+graph that includes every source of input. That is the record's reading of the
+paper, which never discusses drive.

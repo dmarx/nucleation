@@ -149,3 +149,21 @@ Composition is a fourth way a form gets a role, and it bears on the question's
 "constitutive role". A composite whose interior relaxes fast presents its
 boundary with a constraint that no part has ([CLAIM-tmpose3y](../claims.d/CLAIM-tmpose3y.md)). That is a role
 acquired at the interface, without the composite being an individual.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Torres-Hugas et al. (NOTE-tmpb8jge; THEORY-tmprsknh), read, narrow the
+frustration route the earlier note took from A23.
+
+- In the paper, frustration is a structural fact, the residual left after
+  optimizing over states. It does not stabilize or organize a form.
+- In their motif, the nonuniform locked state is forced by unequal degrees,
+  not by holonomy.
+- The remote-synchronized pattern grows smoothly out of complete synchrony,
+  so no transition creates it.
+- It is unmade when a transverse eigenvalue crosses zero at αc ≃ 1.0164,
+  before the pentagon's mismatch reaches its maximum, π, at α = π/3.
+
+It is still a stated system with the unmaking transition named, apart from the
+geometry of its constraints. That is half of what an answer here asks for. It
+is not a case of frustration making a form.

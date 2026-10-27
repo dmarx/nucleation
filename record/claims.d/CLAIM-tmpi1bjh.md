@@ -46,6 +46,7 @@ summary: >-
   is a separation of time scales ([CLAIM-tmpmx2ql](CLAIM-tmpmx2ql.md)), and entrenches what it
   makes cheap.
 ---
+<!-- inactive-ok-file: THEORY-tmp24sxe THEORY-tmpq9x5h — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-tmpalzo4 CLAIM-tmpmx2ql CLAIM-tmpl228b CLAIM-184 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmp4mxqc LIT-tmpcvoqn LIT-tmpovn5z LIT-tmpjnkzw LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
 <!-- inactive-ok-file: TERM-085 — Proposed; the correctability term this extends, cited as open -->
@@ -152,3 +153,35 @@ does a bound on askable questions bound what exists. A17 §9: those dependencies
 "do not determine what exists independently of us. But they help determine
 which aspects of reality can become objects of determinate investigation for
 particular agents and institutions."
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+- **Simon** (NOTE-tmpy78q5; THEORY-tmpgts50) supports the claim in his own
+  terms:
+  - "there are no WSPs, only ISPs that have been formalized for problem
+    solvers" (p. 186);
+  - AI theory had left "the processes for formulating that approximation"
+    outside its scope (p. 186);
+  - once a problem space exists for a kind of task, later tasks need none
+    (p. 187), which is the amortization;
+  - new information "exercises a strong influence in the direction of
+    conserving existing problem formulations" (p. 199), which is the
+    entrenchment.
+
+  Two qualifications. He rejects the strong form, that structuring is the
+  real problem solving (p. 187). And his bound is seriality, how much of
+  what is known can bear on processing at once, not the time it takes to
+  formulate a question. Carrying it to questions and inquiry is the
+  record's step.
+- **Singer** (NOTE-tmplhrxg; THEORY-tmpco2va, THEORY-tmp24sxe) separates
+  three regimes where the claim and A21 had two:
+  - below an information bound, no estimator of any cost recovers the
+    configuration (Fano, §5);
+  - between that bound and the eigenvector method's threshold, which only
+    exists for L ≥ 7, an exhaustive search might succeed where the cheap
+    method fails;
+  - above both, recovery is cheap.
+
+  So "inability to find a gluing within available resources" needs a third
+  case beside "failure to glue": the evidence does not determine the gluing
+  at all. In his model it is evidence, not computation, that binds.
