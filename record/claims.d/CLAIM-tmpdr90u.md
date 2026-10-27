@@ -85,3 +85,15 @@ those differences become grounds for obligations."
   choice is open to evaluation, which may find nothing that matters.
 - **Not which exclusions the record's own grammar makes, or whether any is
   wrong.** [QUESTION-072](../questions.d/QUESTION-072.md) asks one; none is answered here.
+
+## Note of 2026-10-27 (later): the first half's source, at second hand
+
+The two readings of 2026-10-27 give Barad's own statements of the first
+half. Faye and Jaksland quote her: "apparatuses … enact what matters and
+what is excluded from mattering" (2007, 148; NOTE-tmpdn71t). Jaksland quotes
+the source of the exclusion: an arrangement that makes "position"
+determinate "will, by necessity, always produce its constitutive exclusion
+(for example, 'momentum')" (Barad 2010, 253; NOTE-tmpwiza2), and cites Rouse
+on Barad's science as "inherently normative" (note 18). So the exclusion
+Barad means is complementarity's, generalized. Neither reading addresses
+the second half, which remains A6's pressure on her.

@@ -1,9 +1,14 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: Unpaywall reports the
+  publisher's copy as closed, and OpenAlex lists no open copy and no
+  repository full text. It stays Unavailable until a copy is supplied.
+  Its two most-cited passages (pp. 814 and 815) are read at second hand
+  in NOTE-tmpwiza2 and NOTE-tmpdn71t.
 title: 'Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +17,16 @@ history:
     Karen Barad, Signs: Journal of Women in Culture and Society 28(3),
     801–831, March 2003. Crossref gives no day, so `published:` carries
     the first of the month.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): Unpaywall
+    (oa_status closed) and OpenAlex (no open location, no repository
+    full text) on 2026-10-27. Status Deferred to Unavailable. Pp.
+    814–815 are quoted by both Jaksland (LIT-tmpvh3kt) and Faye and
+    Jaksland (LIT-tmpstodb), read the same day: phenomena as
+    'ontologically primitive relations—relations without preexisting
+    relata' (p. 815).
 tags:
 - metaphysics
 - philosophy-of-science
@@ -41,9 +56,7 @@ summary: >-
 
 Barad, K. (2003). Posthumanist performativity: Toward an understanding of how matter comes to matter. *Signs: Journal of Women in Culture and Society*, 28(3), 801–831. doi:10.1086/345321.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for, the exchange's description and the passages quoted in NOTE-tmpwiza2 and NOTE-tmpdn71t.
 
 ## Why this is here
 

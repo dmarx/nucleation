@@ -49,6 +49,7 @@ summary: >-
   It is not a structural realism that eliminates relata, and satisfying a
   specification is not being produced by it.
 ---
+<!-- inactive-ok-file: THEORY-tmprm5rv — Proposed; Jaksland's conditional, cited as open -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 CLAIM-405 CLAIM-195 THEORY-034 — Proposed; the domain cases, neighbours and objection this frame sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpoqxdo — Deferred; registered from the same exchange, unread, cited for what it is standardly cited for -->
 
@@ -162,3 +163,28 @@ structures come to persist.
 The exchange's own name for the developed position, "relational
 constraint realism" (A9 §16, A10 §8), is not adopted here: the owner has
 not taken it up.
+
+## Note of 2026-10-27 (later): an unrestricted template, and Bohr as the precedent
+
+Two readings bear on how this claim is unrestricted. Jaksland 2024
+(LIT-tmpvh3kt, NOTE-tmpwiza2) distinguishes a metaphysics applied once to
+the one reality and extended in scope, which is Barad's (THEORY-tmposaze),
+from a template that each domain instantiates. This claim is the second:
+it is stated over every domain and "settled domain by domain". Jaksland
+shows what each route costs. Barad's needs ontological features that admit
+no approximation (THEORY-tmprm5rv); a template needs, in each domain, a
+warrant of that domain's own. The record's route is the second, and the
+owner's "extremely abstract and unrestricted" (U6 of 2026-10-27) is an
+unrestricted template, not a claim that a fundamental ontology settles every
+domain.
+
+Faye and Jaksland (LIT-tmpstodb, NOTE-tmpdn71t) supply the physical
+precedent closest to the claim's non-eliminative "partly fixed", and it is
+Bohr, not Barad. Bohr's relational holism is epistemic: properties are had
+only relative to an experimental arrangement, and "both atomic objects and
+instruments are real, and as such they figure as relata in a sentence like
+'… is recorded to have position p in relation to …'" (THEORY-tmpixkwj).
+Barad's phenomena are "relations without preexisting relata" (2003, 815, as
+both readings quote it), which is eliminative at the fundamental level.
+Rovelli's relational quantum mechanics is a second non-eliminative case:
+values relational, systems prior to interactions (THEORY-tmpggk6i).

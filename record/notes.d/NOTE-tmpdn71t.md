@@ -1,0 +1,257 @@
+---
+status: Read
+paper: LIT-tmpstodb
+title: 'Faye & Jaksland — Barad, Bohr, and quantum mechanics'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the publisher's open-access HTML full text (Springer
+    Nature Link, CC BY 4.0, Synthese 199: 8231–8255), rendered in a
+    headless browser on 2026-10-27, since the PDF, the Copenhagen
+    repository copy and the PhilPapers preprint all answered this client
+    with a bot challenge. I read the abstract, §§1–6, the 39 notes and the
+    reference list. The HTML carries no page numbers, so locations are
+    sections; its notes are detached from their anchors, so notes are
+    cited by content, not number. Barad's page references are as the
+    authors give them.
+date: '2026-10-27'
+summary: >-
+  Barad's reading of Bohr is not Bohr's. For Bohr a phenomenon is the
+  observed effect under a given experimental arrangement, epistemic and
+  derivative, with atomic object and instrument presupposed real; Bohr was
+  an entity realist, his relational holism epistemic, and the
+  subject–object, knower–known and word–world dualisms are presupposed by
+  his account, not dissolved. Nor does quantum mechanics entail agential
+  realism: Bohmian mechanics reproduces its predictions with an ontology of
+  individual particles, and Rovelli's relational quantum mechanics, though
+  close, keeps systems prior to their interactions. And because Barad
+  denies that measurement disentangles apparatus and object, she cannot
+  borrow Rovelli's answer to the measurement problem, so even agential
+  realism's consistency with quantum mechanics is unshown. Its merits as
+  social theory, "if any", do not stem from quantum mechanics.
+---
+<!-- inactive-ok-file: LIT-tmpikjbr LIT-tmpn1p0x LIT-tmp57r0s — Unavailable or Deferred; Barad's and Rovelli's texts, quoted here only as the authors quote them -->
+<!-- inactive-ok-file: CLAIM-tmpl228b CLAIM-136 CLAIM-150 CLAIM-tmpmand1 TERM-tmp0est4 — Proposed; the entries the reading bears on, cited as open -->
+
+# NOTE-tmpdn71t: Faye & Jaksland — Barad, Bohr, and quantum mechanics
+
+## Contribution
+
+The first assessment, from philosophy of physics, of agential realism's
+claim to quantum-mechanical origin (§1). It shows that Barad's Bohr departs
+from every reading of Bohr in the literature, realist and antirealist alike;
+that quantum mechanics admits interpretations with very different
+metaphysics; and that agential realism's handling of measurement differs
+from the interpretation Barad names as closest in a way that leaves it
+without an answer to the measurement problem.
+
+## Key insight
+
+Barad's central move is to promote Bohr's *phenomenon* from an epistemic
+notion to the ontological primitive. Bohr: "I advocated the application of
+the word phenomenon exclusively to refer to the observation obtained under
+specific circumstances, including an account of the whole experimental
+arrangement" (Bohr 1949, 237–238; §3). For Bohr the relata come first:
+"both atomic objects and instruments are real, and as such they figure as
+relata in a sentence like '… is recorded to have position p in relation to
+…'" (§3). Barad has relations without preexisting relata; Bohr has
+relational properties of real relata.
+
+## Assumptions
+
+- **Exegesis of Bohr from his collected writings** (1937–1958 texts), set
+  against the secondary literature (Folse, Faye, Favrholdt, Howard,
+  Zinkernagel, Halvorson, Petersen).
+- **A dispositional reading of Bohmian mechanics** (Belot 2012; Esfeld et
+  al. 2014), adopted to simplify the comparison (a note to §5).
+- **The measurement problem as standardly posed**: why one value rather
+  than another from an improper mixture.
+
+## Key results
+
+### §2: agential realism as Barad presents it
+
+Complementarity: complementary properties are meaningful only relative to
+the setup that measures them (Bohr's contextualism). Barad: "position" "is
+a property of the phenomenon—the inseparability of 'observed object' and
+'agencies of observation'" (2003, 814), and "phenomena are ontologically
+primitive relations—relations without preexisting relata" (2003, 815).
+Barad's technical ground is entanglement of object and apparatus at
+measurement: "phenomena are the ontological entanglement of objects and
+agencies of observation" (2007, 309). From it she derives the rejection of
+the "metaphysics of individualism" (2007, 195), of entity realism (she
+rejects Hacking's even), and of the dualisms of subject–object,
+knower–known and word–world. A note on apparatuses quotes her: "apparatuses
+are the material conditions of possibility and impossibility of mattering;
+they enact what matters and what is excluded from mattering" (2007, 148).
+Another note: the separation of object and apparatus "is not fixed; a view
+that Heisenberg advocates in opposition to Bohr" (Bächtold 2017;
+Schlosshauer and Camilleri 2017). A third, after Vetlesen: what
+intra-actions involve "and how they enact the different configurations …
+are never sufficiently explicated; especially beyond a laboratory
+setting".
+
+### §3: Bohr on phenomena and realism
+
+- Bohr distinguishes object, instrument, measurement and phenomenon; a
+  phenomenon is "how the quantum object appears during the interaction with
+  a particular measuring instrument", "the manifestation of a property that
+  only exists in virtue of the interaction".
+- "Barad misreads Bohr as if he was saying that, say, the position is a
+  property of the phenomenon". "It is beyond doubt that Bohr regarded
+  phenomena to be derivative from a pre-existing experimental set-up", an
+  "epistemological integration" of object and apparatus that keeps "their
+  ontological separateness".
+- Bohr warns that the observer cannot "influence the events which may
+  appear under the conditions he has arranged" (1949, 223): the experimenter
+  chooses the experiment and nothing more. "Barad's strong notion of
+  intra-actions enacting cuts within the ontologically primitive phenomena
+  finds no counterpart in Bohr's interpretation."
+- The realist readings of Bohr make him an *entity* realist (Folse 1986),
+  which "defeats rather than supports the ontological relational holism of
+  agential realism"; Faye's "objective antirealist" Bohr also never denied
+  atomic objects. Barad cites Folse as company in a "minority view", but
+  their disagreement is not cosmetic. Favrholdt's language-dependent realism
+  is the nearest to Barad's.
+- Bohr never spoke of collapse and treated the wave function as symbolic;
+  "For Bohr there was no measurement problem". "Bohr's view is still a type
+  of relational holism, but an epistemic rather than ontological variant"
+  (Teller 1989, Faye 1991, Dorato 2017).
+
+### §4: Bohr and dualisms
+
+Objective reporting, for Bohr, "presumes those very dualisms that Barad
+claims Bohr questions": we must speak as though object and subject
+(instrument and experimenter) are sharply separate. An experiment is "a
+situation where we can tell others what we have done and what we have
+learned" (Bohr 1949, 209), so "the knower/known dualism is where Bohr's
+interpretation of quantum mechanics begins and ends". Complementarity does
+restrict which classical concepts apply in which context, but "Words, world,
+and meaning are not co-produced. Rather, the classical terminology, adapted
+to our ordinary experiences, is given." Conclusion: "If anything, these
+dualisms are at the foundation of Bohr's interpretation."
+
+### §5: agential realism and quantum mechanics
+
+- **Not entailed.** Bohmian mechanics reproduces all of quantum mechanics'
+  predictions with "individual particles with determinate position and
+  (instantaneous) velocity" and deterministic trajectories. It shares two
+  features with agential realism (no ontological division between object
+  and experiment; properties other than position produced in interaction)
+  but its "interconnectedness" is "between individuals". "At best, agential
+  realism provides us with the epistemological and ontological
+  implications of one particular interpretation."
+- **Relational quantum mechanics is close but not the same.** Rovelli
+  (1996): no observer-independent values; "freedom in drawing the line"
+  between system and observer, which is the cut "in Barad's terminology";
+  an observer O cannot describe its own interaction with S, and an external
+  P describes S+O as entangled. Barad's answer (2007, 348) runs parallel.
+  But Rovelli's ontology is "a sparse ontology of (relational) quantum
+  events happening at interactions between physical systems", "which
+  means, of course, that the systems precede the interactions". RQM's
+  observer is "any physical system"; Barad's measurement "involves leaving a
+  mark on the measuring agency".
+- **The measurement problem.** For Barad the entanglement is never
+  undone: "we should not conclude from the fact that the entanglement is
+  not made explicit by this measurement that the entanglement has become
+  ontologically 'disentangled'" (2007, 348). RQM avoids collapse by
+  treating the wave function as bookkeeping; agential realism cannot, since
+  intra-actions produce determinate values while the systems stay
+  ontologically entangled, and "the system 'appears as a mixture if the
+  degrees of freedom of the instruments are bracketed'" (2007, 346) "does
+  not explain why a measurement finds one rather than another value".
+  Borrowing Rovelli's solution "would compromise the ontological relational
+  holism that drives many of the other alleged consequences". "In the
+  absence of such studies, even saying that agential realism is consistent
+  with quantum mechanics involves a leap of faith."
+
+### §6: conclusion
+
+"Agential realism is not forced upon us by quantum mechanics." "As social
+theorizing, Barad's ideas are profound, interesting, and thought provoking
+and we have not argued here that agential realism is without any merits.
+We have only argued that, if any, these do not stem from quantum
+mechanics."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | For Bohr a phenomenon is epistemic and derivative, object and instrument real | strong | Bohr's own statements (1938, 1949) and the convergence of the secondary readings (§3) |
+| C2 | Bohr was an entity realist on the majority reading, which defeats Barad's holism | strong | Folse 1986, Faye 1991 (§3) |
+| C3 | Bohr presupposes the subject–object, knower–known and word–world dualisms | moderate | interpretive argument from Bohr 1949, 209 (§4) |
+| C4 | Quantum mechanics does not entail agential realism | strong | existence of Bohmian mechanics, an empirically equivalent interpretation with an individualist ontology (§5) |
+| C5 | RQM differs from agential realism in keeping systems prior to interactions | moderate | Rovelli 2018 and Smerlak and Rovelli 2007, as quoted (§5) |
+| C6 | Agential realism has no answer to the measurement problem, and its consistency with QM is unshown | moderate | argument from Barad 2007, 346–350; the authors allow "more subtle ways" may exist (§5) |
+
+## Concepts
+
+- **Phenomenon (Bohr)** — the observation obtained under specific
+  circumstances, including the whole experimental arrangement; epistemic.
+- **Phenomenon (Barad)** — the ontological primitive: object and agencies
+  of observation inseparable, relata emerging within it.
+- **Epistemic relational holism** — quantum systems have classical
+  properties only with respect to their interaction with an instrument,
+  without the relata being dissolved (Teller, Faye, Dorato).
+- **Entity realism** — experiments, especially manipulation, commit one to
+  the entities manipulated (Hacking 1983; Cartwright 1983).
+
+## Connections
+
+- **Jaksland 2024 (LIT-tmpvh3kt, NOTE-tmpwiza2)**, which assumes what this
+  paper contests and asks what follows for metaphysical method.
+- **Rovelli (LIT-tmp57r0s, unread; LIT-177, read)**: the reading makes the
+  comparison the exchange's A6 §5A summarized, and correctly.
+- **Pinch (2011)**, who noticed the Bohmian contrast and did not develop it.
+
+## Bearing on the record
+
+- **The exchange's account of this paper was accurate.** A4 §7B and A6 §5A
+  gave three criticisms (Barad's Bohr more ontological than Bohr; RQM not
+  entailing her holism; an unresolved measurement problem) and the verdict
+  "quantum mechanics does not force agential realism upon us. The authors
+  even question whether its compatibility with quantum mechanics has been
+  adequately established." All four hold on the text. LIT-tmpstodb's
+  summary stands.
+- **CLAIM-tmpl228b's borrowing is right to stay out of physics.** The
+  claim borrows the apparatus without the interpretation and says so. The
+  reading confirms the borrowing is the only one available without a leap
+  of faith: what makes luria an apparatus cannot be agential realism's
+  quantum credentials. It also supplies Barad's own statement of the
+  apparatus, through the authors' quotation (2007, 148): "the material
+  conditions of possibility and impossibility of mattering; they enact what
+  matters and what is excluded from mattering". The dated note on the claim
+  carries both.
+- **CLAIM-136 and CLAIM-tmpmand1: Bohr is the non-eliminative relational
+  holist, Barad the eliminative one.** Bohr's relational properties are
+  relational properties of real relata, "… is recorded to have position p
+  in relation to …", an epistemic relational holism. That is the shape of
+  the record's non-eliminative choice, and of CLAIM-tmpmand1's "partly
+  fixed". The record's nearest physical precedent in this neighbourhood is
+  Bohr as Faye and Jaksland read him, not Barad.
+- **CLAIM-150: a clean instance of its guard.** "Compatible with quantum
+  mechanics" against "entailed by" is CLAIM-150's identification against
+  constitution in another key: an empirically equivalent interpretation
+  with intrinsically individuated particles reproduces the predictions,
+  exactly CLAIM-150's reason that "an ontology of intrinsically
+  individuated objects with relational properties can reproduce the same
+  predictions". No note is filed; the claim's grounds already make the
+  point in general.
+- **TERM-tmp0est4.** The movable separation is Heisenberg's against Bohr's
+  (a note to §2), which corrects the TERM's line keeping the Heisenberg cut
+  apart. Bohr's own separation, on this reading, is fixed and epistemic,
+  justified by the need for unambiguous classical description; whether that
+  makes it a Cartesian cut in Barad's sense is my question, not the
+  authors'. The TERM is corrected in place.
+
+## Limitations
+
+- Exegetical arguments about Bohr cannot settle what Barad's view is worth
+  on its own terms; the authors say so (§6) and grant that Barad may, like
+  QBism, draw inspiration from Bohr without claiming his authority.
+- The measurement-problem argument is a challenge, not a proof of
+  incoherence; "There might be other more subtle ways to address the
+  measurement problem within the framework of agential realism" (§5).
+- Read from HTML without page numbers.

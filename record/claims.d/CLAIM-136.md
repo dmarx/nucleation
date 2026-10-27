@@ -178,3 +178,14 @@ neighbour the exchange named, A3 placed with radical relational ontology
 ("independently individuated substances are not fundamental"); whether it
 eliminates relata is for a reading of [LIT-tmpf6o6y](../literature.d/LIT-tmpf6o6y.md). Whether to restate this claim without a
 domain is left to the owner. Nothing in it changes.
+
+Later the same day, Jaksland 2024 and Faye and Jaksland 2021 were read
+(NOTE-tmpwiza2, NOTE-tmpdn71t), and both quote Barad 2003, 815: "phenomena
+are ontologically primitive relations—relations without preexisting
+relata". Jaksland calls the view a radical relational holism "since only the
+relational phenomena are ultimately real" and likens it to priority monism
+(note 9). So Barad's view is eliminative of relata at the fundamental level,
+with objects emergent, and is not this claim's. The non-eliminative
+precedent in the same neighbourhood is Bohr on Faye and Jaksland's reading,
+whose relational properties are properties of real relata
+(THEORY-tmpixkwj).

@@ -20,7 +20,7 @@ summary: >-
   determinate. Proposed: the record had no word for them, and they recur
   in [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md).
 ---
-<!-- inactive-ok-file: LIT-tmpikjbr LIT-tmpn1p0x — Deferred; registered from the same exchange, unread; the agential sense is the exchange's account of Barad -->
+<!-- inactive-ok-file: LIT-tmpikjbr LIT-tmpn1p0x — Unavailable or Deferred; Barad's texts, unread; the agential sense is the exchange's account of her and the readings' quotations -->
 <!-- inactive-ok-file: CLAIM-tmpl228b — Proposed; the claim stated in the agential sense -->
 
 # TERM-tmp0est4: cut, and which sense: a Cartesian cut, Pattee's epistemic cut, or Barad's agential cut, enacted by an apparatus
@@ -50,9 +50,19 @@ which.
    Barad's sense not an instrument but "an open-ended, dynamic
    configuration of material practices through which particular
    differences become real and intelligible", itself a phenomenon and
-   itself reconfigured (A6 §1). The cut is ontological on Barad's account.
-   The sense is the exchange's account of her (A4, A6); her text is unread
-   here ([LIT-tmpikjbr](../literature.d/LIT-tmpikjbr.md), [LIT-tmpn1p0x](../literature.d/LIT-tmpn1p0x.md)).
+   itself reconfigured (A6 §1). Barad's own words, as Faye and Jaksland
+   quote them: "apparatuses are the material conditions of possibility and
+   impossibility of mattering; they enact what matters and what is
+   excluded from mattering" (Barad 2007, 148; NOTE-tmpdn71t). The cut is
+   ontological on Barad's account, and it is movable: "no agential cut is
+   an inherent distinction" (Barad 2007, 140, as Jaksland gives it;
+   NOTE-tmpwiza2). It is the Heisenberg cut, movable as Heisenberg held
+   against Bohr, made ontological: Jaksland glosses it as "more commonly
+   known as a Heisenberg cut" (p. 367), and Faye and Jaksland note that a
+   movable separation of object and apparatus is "a view that Heisenberg
+   advocates in opposition to Bohr". Barad's texts are not read here
+   (LIT-tmpikjbr unavailable, LIT-tmpn1p0x unread); the sense rests on the
+   exchange's account and on the two readings' quotations of her.
 
 A9 §4 drew the contrast that makes the term worth having: "**Pattee's
 epistemic cut is a functional distinction between symbolic description
@@ -72,12 +82,19 @@ identities."
 - **One thing in the record and in physics.** [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) uses the
   third sense for a record's objects only. That a split scheme is an
   agential cut there says nothing about whether measurement is one.
-- **The Heisenberg cut.** The movable boundary between what quantum
-  mechanics describes and the classically described apparatus is a
-  neighbour of the second sense (Pattee's von Neumann regress) and was not
-  used in the exchange. A claim that needs it should say so.
+- **Bohr's separation.** Bohr's own split between object and
+  instrument is, on Faye and Jaksland's reading, fixed and epistemic,
+  justified by the need for unambiguous classical description, with both
+  relata real (THEORY-tmpixkwj). It is not the third sense, which is
+  movable and ontological. Whether it is a Cartesian cut in Barad's sense
+  (the first) is not settled here. The Heisenberg cut, movable, is the
+  third sense's ancestor (above), and also neighbours the second sense
+  through Pattee's use of the von Neumann regress.
 
 ## What would settle it
 
-Adoption by the owner, and a reading of Barad that confirms or corrects
-the third sense.
+Adoption by the owner, and a reading of Barad herself that confirms or
+corrects the third sense. Jaksland 2024 and Faye and Jaksland 2021, read on
+2026-10-27, corrected its relation to the Heisenberg cut and supplied
+Barad's definition of an apparatus at second hand; the text above is
+corrected in place, the TERM being unadopted.

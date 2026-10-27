@@ -47,7 +47,7 @@ summary: >-
   unread here.
 ---
 <!-- inactive-ok-file: CLAIM-419 CLAIM-195 CLAIM-181 CLAIM-183 — Proposed; the claims about the record's grammar this one rests on or sits beside, cited as open -->
-<!-- inactive-ok-file: LIT-tmpikjbr LIT-tmpn1p0x LIT-tmpstodb LIT-tmpggyb7 LIT-tmpoqxdo — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
+<!-- inactive-ok-file: LIT-tmpikjbr LIT-tmpn1p0x LIT-tmpggyb7 LIT-tmpoqxdo — Deferred or Unavailable; registered from the same exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-tmpl228b: Luria is an apparatus in Barad's sense for the objects of a record, and only for them: its grammar settles which distinctions among entries are determinate and consequential, a split scheme or a promoted vocabulary makes one object two or a value an entity, and misfits met in use revise the grammar, so a record's objects are constituted relative to an apparatus that the record's own inquiry reconstitutes
 
@@ -157,3 +157,34 @@ That would test Hacking's second, looping effect ([LIT-tmpggyb7](../literature.d
 classification changes the inquiry classified. This claim asserts only the
 first, constitutive effect, which the record's amendments already show.
 The experiment is not built.
+
+## Note of 2026-10-27 (later): the comparison is on the conception Barad rejects
+
+Jaksland 2024 (LIT-tmpvh3kt, read in NOTE-tmpwiza2) separates three
+conceptions of agential realism: analogy, a template that quantum mechanics
+and other domains each instantiate, and naturalized metaphysics applied
+once to the one reality. Barad holds the third and rejects the other two
+(THEORY-tmposaze): "I am not interested in drawing analogies between
+particles and people" (2007, 24), and a template would stratify ontology
+into realms, where "the universe is not broken up into two separate
+domains" (2007, 85).
+
+This claim compares luria with Barad's apparatus by structure, which is
+the template conception; Jaksland attributes that reading to Hollin et al.
+(note 21). So "in Barad's sense" means the sense of her concept, not her
+way of applying it. On her own conception luria would be an apparatus
+outright, since agential realism covers all of reality; but that holds only
+if agential realism is correct quantum mechanics, which Faye and Jaksland
+(LIT-tmpstodb, read in NOTE-tmpdn71t) show quantum mechanics does not
+entail (THEORY-tmpggk6i). The claim's footing is therefore the template
+reading, with its usual cost: the concept's application to a record needs
+the record's own warrant, which is what CLAIM-419, CLAIM-195 and
+CLAIM-tmpoe0v5 supply. Nothing in the claim's argument rested on Barad's
+quantum credentials, and the title and status stand.
+
+The reading also gives Barad's own definition, through Faye and Jaksland's
+quotation (2007, 148): "apparatuses are the material conditions of
+possibility and impossibility of mattering; they enact what matters and
+what is excluded from mattering." The first half matches the claim's
+"settles which distinctions among entries are determinate and
+consequential"; the second is CLAIM-tmpdr90u's.
