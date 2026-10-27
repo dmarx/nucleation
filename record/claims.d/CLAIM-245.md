@@ -15,7 +15,7 @@ line:
 - pragmatic-transport
 - formal-apparatus
 grounds:
-- THEORY-174
+- THEORY-720
 - THEORY-177
 - LIT-777
 - LIT-851
@@ -142,3 +142,13 @@ measures. [CLAIM-219](CLAIM-219.md) raises the neighbouring question, whether
 - It does not close [CLAIM-125](CLAIM-125.md)'s second part. It says which quantity is
   monotone, not how transport between scenarios extends to signalling
   data.
+
+## Note of 2026-10-27: grounded in the proved half
+
+The status review of this date (ADR-057) moved this claim's ground from
+THEORY-174 to THEORY-720. The claim uses the classical simulations and their
+monotonicity, that they never create contextuality, which is proved in
+refereed venues and Active as THEORY-720. It does not use THEORY-174's
+characterization, that a map is such a simulation exactly when a
+non-contextual model of the hom scenario induces it. That half waits on an
+independent proof of the corrected Theorem 44 and stays Proposed.
