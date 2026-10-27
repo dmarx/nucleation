@@ -36,7 +36,7 @@ summary: >-
 ## Contribution
 
 It is the long form of the first of the two applications the main post
-(LIT-1549, NOTE-1168) summarizes in one table. It shows causal
+([LIT-1549](../literature.d/LIT-1549.md), [NOTE-1168](NOTE-1168.md)) summarizes in one table. It shows causal
 scrubbing used as an instrument for iterating on a hypothesis about a
 model whose task has a known algorithm. Each refinement is scored with a
 standard error, and the post reports where the score misled the authors:
@@ -135,7 +135,7 @@ The table (summary of experimental results):
 | C2 | Using a correlated but wrong feature (equal count for count() lowers the score only to 88% | strong | Exp. 1a against 1b |
 | C3 | Head 0.0 writes the open proportion along one direction | strong | Exp. 2b, and the cosines of the appendix |
 | C4 | p_adj's horizon test agrees with the original on strings passing the count test | demonstrated | appendix proof, checked by the record |
-| C5 | More specific hypotheses that resample terms separately can score higher than the hypothesis they refine | demonstrated in one model | Exp. 3c, 3d against 3a (THEORY-tmpnu6ih) |
+| C5 | More specific hypotheses that resample terms separately can score higher than the hypothesis they refine | demonstrated in one model | Exp. 3c, 3d against 3a ([THEORY-tmpnu6ih](../theory.d/THEORY-tmpnu6ih.md)) |
 | C6 | The excess losses of the two halves of the combined hypothesis roughly add | observed once | Exp. 4 against 2b and 3b |
 
 ## Concepts
@@ -149,23 +149,23 @@ The table (summary of experimental results):
 
 ## Connections
 
-It applies the method of LIT-1549 and shares its definitions with the
-appendix post (LIT-tmpt2u54), whose §4.1 points here as the case where
+It applies the method of [LIT-1549](../literature.d/LIT-1549.md) and shares its definitions with the
+appendix post ([LIT-tmpt2u54](../literature.d/LIT-tmpt2u54.md)), whose §4.1 points here as the case where
 sampling unimportant inputs separately matters. The induction results
-(LIT-tmpkdyqt) are the other application.
+([LIT-tmpkdyqt](../literature.d/LIT-tmpkdyqt.md)) are the other application.
 
 ## Bearing on the record
 
-- **THEORY-978.** Experiment 1a is the authors' measured instance of
+- **[THEORY-978](../theory.d/THEORY-978.md).** Experiment 1a is the authors' measured instance of
   the limit the account derives. The score depends only on the partition
   a feature induces, so a feature that partitions the data almost as the
   true one does scores almost as well: 88% for the wrong test against 93%
   for the right one. The account is about exact ties. This is the
   near-tie it does not bound, measured once.
-- **NOTE-1168, C4 and C6.** C4 can now be read against its source: the
+- **[NOTE-1168](NOTE-1168.md), C4 and C6.** C4 can now be read against its source: the
   main post's four rows are 1b, 2b, 3b and 4 of this table. C6 (breaking a
   correlation can raise the score) has here its measured case, 3c and 3d.
-- **CLAIM-454 and THEORY-802.** What passes is a partition of the
+- **[CLAIM-454](../claims.d/CLAIM-454.md) and [THEORY-802](../theory.d/THEORY-802.md).** What passes is a partition of the
   data. The authors expect "all our claims, while highly correlated with
   the truth, will miss some nuance in the exact boundaries represented
   by the model".
@@ -211,4 +211,4 @@ No instruction for machine-learning practice is recorded here
   together, give back 3a's 77% exactly, as they argue it must?
 - How far below 93% would a feature have to fall before a reader without
   the true algorithm would notice it is wrong? That is the near-tie
-  THEORY-978 leaves unbounded.
+  [THEORY-978](../theory.d/THEORY-978.md) leaves unbounded.

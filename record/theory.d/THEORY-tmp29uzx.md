@@ -22,8 +22,8 @@ source:
 - LIT-tmpfd531
 - LIT-1548
 summary: >-
-  Van Gael, Teh and Ghahramani (2008), LIT-tmpfd531, read in
-  NOTE-tmpuk5qe. A chain starting off is on at step t with probability
+  Van Gael, Teh and Ghahramani (2008), [LIT-tmpfd531](../literature.d/LIT-tmpfd531.md), read in
+  [NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md). A chain starting off is on at step t with probability
   a(1 − (b − a)^t)/(1 − b + a). As M → ∞ the a's form a Poisson process
   of intensity α/a on (0, 1), so E[number on at t] = α ∫₀¹ E_b[(1 − (b −
   a)^t)/(1 − b + a)] da. That is α at t = 1 and tends to α·E[ln((2 −
@@ -38,9 +38,9 @@ summary: >-
 ## Source
 
 Van Gael, Teh and Ghahramani (2008), *The infinite factorial hidden
-Markov model*, LIT-tmpfd531, read in full in NOTE-tmpuk5qe: the finite
+Markov model*, [LIT-tmpfd531](../literature.d/LIT-tmpfd531.md), read in full in [NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md): the finite
 model (3)–(4), from which this is derived. Williamson, Orbanz and
-Ghahramani (2010), LIT-1548, footnote 1 (NOTE-1175), states the
+Ghahramani (2010), [LIT-1548](../literature.d/LIT-1548.md), footnote 1 ([NOTE-1175](../notes.d/NOTE-1175.md)), states the
 conclusion without derivation.
 
 ## What was actually shown
@@ -87,14 +87,14 @@ not columns on at a step.
 
 ## Connections
 
-- **CASE-165, item 2.** The case finds that T23's sticky term holds the
+- **[CASE-165](../cases.d/CASE-165.md), item 2.** The case finds that T23's sticky term holds the
   buffet's prior properties "at t = 0 only". The Markov IBP has the same
   property for the count of active features: α at the first step,
   three times α later at the paper's own prior means. Neither the sticky
   term nor its closest established relative keeps the prior's marginal
   over time. Of the IBP's dependent variants in the record, only the
-  dependent IBP does (THEORY-1006).
-- **THEORY-999.** That account concerns a finite truncation's count of
+  dependent IBP does ([THEORY-1006](THEORY-1006.md)).
+- **[THEORY-999](THEORY-999.md).** That account concerns a finite truncation's count of
   occupied features against the limit's αH_N. This one concerns the
   count at a time step against the IBP's α. Both are cases of an IBP
   figure quoted where it does not hold.

@@ -21,7 +21,7 @@ source:
 - LIT-tmpt2u54
 summary: >-
   Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt, Lin et al. (2022),
-  LIT-tmpnbrst, read in NOTE-tmpoa8l3. Hypothesis 3a resamples head 2.1's
+  [LIT-tmpnbrst](../literature.d/LIT-tmpnbrst.md), read in [NOTE-tmpoa8l3](../notes.d/NOTE-tmpoa8l3.md). Hypothesis 3a resamples head 2.1's
   input separately at each of up to 40 positions and recovers 77% (loss
   0.97 ± 0.06). Hypotheses 3c and 3d also split each position's input into
   terms drawn from different inputs, and recover 84% (0.69 ± 0.05) and 81%
@@ -37,10 +37,10 @@ summary: >-
 
 Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt, Lin, Nitishinskaya,
 Radhakrishnan, Shlegeris and Thomas (2022), *Causal scrubbing: results on
-a paren balance checker*, LIT-tmpnbrst, read in full in NOTE-tmpoa8l3:
+a paren balance checker*, [LIT-tmpnbrst](../literature.d/LIT-tmpnbrst.md), read in full in [NOTE-tmpoa8l3](../notes.d/NOTE-tmpoa8l3.md):
 Experiment 3 and the appendix sections "Sampling unimportant inputs" and
 "Breaking up Experiment 3 by term". The general argument is in the
-appendix post, LIT-tmpt2u54 (§§4.1, 6.1 and 8).
+appendix post, [LIT-tmpt2u54](../literature.d/LIT-tmpt2u54.md) (§§4.1, 6.1 and 8).
 
 ## What was actually shown
 
@@ -93,11 +93,11 @@ not." Running 3d with layer 1's terms sampled together across positions
 
 ## Connections
 
-- **NOTE-1168 and THEORY-978.** The main post's §7 says breaking a
+- **[NOTE-1168](../notes.d/NOTE-1168.md) and [THEORY-978](THEORY-978.md).** The main post's §7 says breaking a
   correlation can make a hypothesis score higher. This is that case,
-  measured. THEORY-978 is about ties between hypotheses that induce the
+  measured. [THEORY-978](THEORY-978.md) is about ties between hypotheses that induce the
   same partition. This is a different failure: a hypothesis that permits
   more swaps scoring above one that permits fewer.
-- **CLAIM-454.** A score that rises with an illegitimate refinement is
+- **[CLAIM-454](../claims.d/CLAIM-454.md).** A score that rises with an illegitimate refinement is
   one more way a passing explanation can certify less than the variable
   that does the work.

@@ -21,7 +21,7 @@ source:
 - LIT-tmpt2u54
 summary: >-
   Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt et al. (2022),
-  LIT-tmpt2u54, read in NOTE-tmpymmuh, §5. Every node's datum is
+  [LIT-tmpt2u54](../literature.d/LIT-tmpt2u54.md), read in [NOTE-tmpymmuh](../notes.d/NOTE-tmpymmuh.md), §5. Every node's datum is
   distributed as D, so each node's scrubbed inputs are jointly as on the
   data, and among all distributions with that property the algorithm's
   has the greatest entropy. It characterizes the sampling, not the score:
@@ -36,8 +36,8 @@ summary: >-
 
 Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt, Nitishinskaya,
 Radhakrishnan, Shlegeris and Thomas (2022), *Causal scrubbing: Appendix*,
-LIT-tmpt2u54, §5 ("An alternative formalism: constructing a distribution
-on treeified inputs"), read in full in NOTE-tmpymmuh.
+[LIT-tmpt2u54](../literature.d/LIT-tmpt2u54.md), §5 ("An alternative formalism: constructing a distribution
+on treeified inputs"), read in full in [NOTE-tmpymmuh](../notes.d/NOTE-tmpymmuh.md).
 
 ## What was actually shown
 
@@ -81,19 +81,19 @@ simulation, 2026-10-27).
   scores 2.625 against the model's 0.25.
 - **Not that maximum entropy is the right null.** Independence of
   everything unclaimed is the authors' choice (§4.1). It is what lets
-  omitted correlations raise a score (§6.1, THEORY-tmpnu6ih).
+  omitted correlations raise a score (§6.1, [THEORY-tmpnu6ih](THEORY-tmpnu6ih.md)).
 - **Not for non-isomorphic hypotheses** as written. §4.2 shows how to
   make a hypothesis isomorphic, and the grouping chosen changes D̃.
 - **Not for infinite input spaces** as to uniqueness.
 
 ## Connections
 
-- **THEORY-978.** The constraints depend on each node only through the
+- **[THEORY-978](THEORY-978.md).** The constraints depend on each node only through the
   equivalence classes it induces on X. Two hypotheses that induce the
   same classes therefore define the same D̃ and the same score. The tie
   that account derives from the pseudocode follows from this theorem.
-- **THEORY-tmpnu6ih.** The paren post's 3c and 3d are this independence
+- **[THEORY-tmpnu6ih](THEORY-tmpnu6ih.md).** The paren post's 3c and 3d are this independence
   at work: more terms resampled separately, more entropy, a signal
   washed out, a higher score.
-- **CLAIM-454.** What the scrub preserves is each node's partition of the
+- **[CLAIM-454](../claims.d/CLAIM-454.md).** What the scrub preserves is each node's partition of the
   data and nothing more, by theorem.

@@ -19,13 +19,13 @@ date: '2026-10-27'
 source:
 - LIT-tmpfd531
 summary: >-
-  Van Gael, Teh and Ghahramani (2008), LIT-tmpfd531, read in
-  NOTE-tmpuk5qe. Each column is a two-state chain from an off state with
+  Van Gael, Teh and Ghahramani (2008), [LIT-tmpfd531](../literature.d/LIT-tmpfd531.md), read in
+  [NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md). Each column is a two-state chain from an off state with
   a_m = P(0 → 1) ~ Beta(α/M, 1) and b_m = P(1 → 1) ~ Beta(γ, δ),
   independent, and the stick-breaking construction keeps each b paired
   with its a as an independent draw. Rarity (small a) and persistence
   (b) are separate per-feature parameters. It does not say that
-  prevalence is held fixed over time, which it is not (THEORY-tmp29uzx),
+  prevalence is held fixed over time, which it is not ([THEORY-tmp29uzx](THEORY-tmp29uzx.md)),
   nor how to share the chains across several objects.
 ---
 <!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Van Gael, Teh and Ghahramani (2008), *The infinite factorial hidden
-Markov model*, LIT-tmpfd531, read in full in NOTE-tmpuk5qe: §2.1 (the
+Markov model*, [LIT-tmpfd531](../literature.d/LIT-tmpfd531.md), read in full in [NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md): §2.1 (the
 finite model, (3)–(6)), §2.4 (stick-breaking) and §2's statement that
 "rows correspond to timesteps and the columns to features or Markov
 chains".
@@ -54,7 +54,7 @@ of M".
 **The check.** From (6), the probability that a feature on at t stays on
 at t + 1, given its counts, is (c¹¹ + γ)/(γ + δ + c¹⁰ + c¹¹), whatever
 c⁰¹, c⁰⁰ or α. The record computed it as a ratio of (6) for three count
-vectors. (The paper's buffet prints it with δ for γ; NOTE-tmpuk5qe.)
+vectors. (The paper's buffet prints it with δ for γ; [NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md).)
 A priori, a feature on is kept with probability E[b] = γ/(γ + δ). That is
 10/11 = 0.91 at the prior means the paper's experiment uses (γ = 10,
 δ = 1), for a feature with a = 0.025 as for one with a = 0.5.
@@ -68,7 +68,7 @@ objects and derives no limit for several sequences sharing a feature's
 
 - **Not that prevalence is constant.** A chain's stationary on-fraction
   is a/(1 − b + a), which depends on b. The expected number of active
-  features rises from α at the first step (THEORY-tmp29uzx).
+  features rises from α at the first step ([THEORY-tmp29uzx](THEORY-tmp29uzx.md)).
 - **Not that persistence is learned per feature from little data.** The
   b's are independent a priori. A posteriori a rare feature has few 1 → 1
   counts and its b stays near the prior.
@@ -77,16 +77,16 @@ objects and derives no limit for several sequences sharing a feature's
 
 ## Connections
 
-- **CASE-165, item 2.** The case's sticky term is, with its other inputs
+- **[CASE-165](../cases.d/CASE-165.md), item 2.** The case's sticky term is, with its other inputs
   at zero, the same two-state chain with on-rate π_k and stay-rate
   σ(logit π_k + ρ). There the stay-rate is a function of the on-rate,
   which is why a rare feature is kept with probability 0.16 at ρ = 2. In
   the mIBP the two are independent, so the case's "one ρ cannot do that
-  for features of different prevalence" does not arise. NOTE-tmpuk5qe
+  for features of different prevalence" does not arise. [NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)
   gives the numbers.
-- **THEORY-1006.** The dependent IBP keeps each feature's prevalence
+- **[THEORY-1006](THEORY-1006.md).** The dependent IBP keeps each feature's prevalence
   fixed and sets persistence through its Gaussian process, and only
   per-feature length scales make persistence per feature. The mIBP has
   persistence per feature by construction and fixes no prevalence.
-- **NOTE-1172.** The review describes this model in §7.4 in the same terms;
+- **[NOTE-1172](../notes.d/NOTE-1172.md).** The review describes this model in §7.4 in the same terms;
   this is the primary source.

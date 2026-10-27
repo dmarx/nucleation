@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpoa8l3) in full, from the Alignment Forum's
+  read 2026-10-27 ([NOTE-tmpoa8l3](../notes.d/NOTE-tmpoa8l3.md)) in full, from the Alignment Forum's
   own API; worth reading as the worked case of causal scrubbing on a model
   whose algorithm is known, with the full table of hypotheses, their
   losses and standard errors, and for the authors' own finding that two
   more specific hypotheses scored higher for reasons they judge
-  illegitimate (THEORY-tmpnu6ih). Read it knowing that the model and the
+  illegitimate ([THEORY-tmpnu6ih](../theory.d/THEORY-tmpnu6ih.md)). Read it knowing that the model and the
   prior dissection are unpublished, that every number is one run of 2,000
   scrubbed samples, and that its prose states the horizon test backwards
   in two places.
@@ -78,17 +78,17 @@ Nitishinskaya, J., Radhakrishnan, A., Shlegeris, B. & Thomas, N. (2022).
 Causal scrubbing: results on a paren balance checker. *AI Alignment
 Forum*, 3 December 2022.
 
-Read in full on 2026-10-27 (NOTE-tmpoa8l3). One account was drawn
-from it: THEORY-tmpnu6ih.
+Read in full on 2026-10-27 ([NOTE-tmpoa8l3](../notes.d/NOTE-tmpoa8l3.md)). One account was drawn
+from it: [THEORY-tmpnu6ih](../theory.d/THEORY-tmpnu6ih.md).
 
 ## Why this is here
 
 The owner asked on 2026-10-27 to "get started on the seven works and
 markov IBP" that the circuits readings of 2026-10-26 had named without
-registering. The causal-scrubbing reading (LIT-1549, NOTE-1168) held
+registering. The causal-scrubbing reading ([LIT-1549](LIT-1549.md), [NOTE-1168](../notes.d/NOTE-1168.md)) held
 this post's results only as the main post's four-row summary. This is
 where the method meets a model whose algorithm is known, with standard
 errors, and where the authors find their own score rewarding a
-hypothesis for the wrong reason. It bears on THEORY-978 (the
+hypothesis for the wrong reason. It bears on [THEORY-978](../theory.d/THEORY-978.md) (the
 count-test result is the authors' own case of a correlated feature
-passing), on THEORY-802 and on CLAIM-454.
+passing), on [THEORY-802](../theory.d/THEORY-802.md) and on [CLAIM-454](../claims.d/CLAIM-454.md).

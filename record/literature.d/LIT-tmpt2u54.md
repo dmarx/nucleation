@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmpymmuh) in full, from the Alignment Forum's own
+  read 2026-10-27 ([NOTE-tmpymmuh](../notes.d/NOTE-tmpymmuh.md)) in full, from the Alignment Forum's own
   API; worth reading for the details the main post defers: the
   definition of the metric, the full case against zero and mean
   ablation, how unimportant inputs are grouped, a proof that the
   scrubbed inputs are the maximum-entropy distribution consistent with
-  the hypothesis (THEORY-tmpgikxe), how superposition is handled, and a
+  the hypothesis ([THEORY-tmpgikxe](../theory.d/THEORY-tmpgikxe.md)), how superposition is handled, and a
   second constructed false hypothesis that scores above the model. Read
   it knowing that its Lemma 1 says "product distribution" where its
   proof shows the joint, and that it says both results posts use a
@@ -79,17 +79,17 @@ Chan, L., Garriga-Alonso, A., Goldowsky-Dill, N., Greenblatt, R.,
 Nitishinskaya, J., Radhakrishnan, A., Shlegeris, B. & Thomas, N. (2022).
 Causal scrubbing: Appendix. *AI Alignment Forum*, 3 December 2022.
 
-Read in full on 2026-10-27 (NOTE-tmpymmuh). One account was drawn from
-it: THEORY-tmpgikxe.
+Read in full on 2026-10-27 ([NOTE-tmpymmuh](../notes.d/NOTE-tmpymmuh.md)). One account was drawn from
+it: [THEORY-tmpgikxe](../theory.d/THEORY-tmpgikxe.md).
 
 ## Why this is here
 
 The owner asked on 2026-10-27 to "get started on the seven works and
 markov IBP" that the circuits readings of 2026-10-26 had named without
-registering. The causal-scrubbing reading (NOTE-1168) took its case for
-resampling ablation, the field's standing convention (LIT-1547,
-LIT-1531), from the main post's summary, "details deferred to the
+registering. The causal-scrubbing reading ([NOTE-1168](../notes.d/NOTE-1168.md)) took its case for
+resampling ablation, the field's standing convention ([LIT-1547](LIT-1547.md),
+[LIT-1531](LIT-1531.md)), from the main post's summary, "details deferred to the
 appendix post". This is that appendix. Its maximum-entropy result says
 precisely what a scrubbed run assumes about everything a hypothesis
-leaves unsaid, which bears on THEORY-978 and on what a passing hypothesis
-certifies (CLAIM-454).
+leaves unsaid, which bears on [THEORY-978](../theory.d/THEORY-978.md) and on what a passing hypothesis
+certifies ([CLAIM-454](../claims.d/CLAIM-454.md)).

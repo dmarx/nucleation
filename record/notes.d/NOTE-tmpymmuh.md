@@ -34,7 +34,7 @@ summary: >-
 
 ## Contribution
 
-It supplies what the main post (LIT-1549, NOTE-1168) states without
+It supplies what the main post ([LIT-1549](../literature.d/LIT-1549.md), [NOTE-1168](NOTE-1168.md)) states without
 detail: the metric, the argument for resampling, the rules for grouping
 unimportant inputs, and a characterization of the distribution the
 algorithm samples from. It adds a treatment of polysemantic activations
@@ -122,7 +122,7 @@ the model's performance depends on a correlation it leaves out.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | Each node's datum is distributed as D, so each node's scrubbed inputs are jointly distributed as on the data | demonstrated | Lemma 1's proof |
-| C2 | The scrubbed inputs are the unique maximum-entropy distribution subject to C1's constraints | demonstrated, and checked by the record (THEORY-tmpgikxe) | Theorem 2's proof; record check |
+| C2 | The scrubbed inputs are the unique maximum-entropy distribution subject to C1's constraints | demonstrated, and checked by the record ([THEORY-tmpgikxe](../theory.d/THEORY-tmpgikxe.md)) | Theorem 2's proof; record check |
 | C3 | Zero and mean ablation test "this component doesn't matter" less faithfully than resampling | argued with toy examples | §3 |
 | C4 | A superposed model can be explained as monosemantic terms plus a resampled interference term when the interference is unstructured | argued in a toy | §6 |
 | C5 | A false hypothesis can score far above the model by routing inputs to cases where the model is right | demonstrated in a constructed case | §7, arithmetic re-computed |
@@ -141,31 +141,31 @@ the model's performance depends on a correlation it leaves out.
 
 ## Connections
 
-It is the appendix of LIT-1549. §4.1 points to the paren post
-(LIT-tmpnbrst) for a case where grouping matters, and that post's
+It is the appendix of [LIT-1549](../literature.d/LIT-1549.md). §4.1 points to the paren post
+([LIT-tmpnbrst](../literature.d/LIT-tmpnbrst.md)) for a case where grouping matters, and that post's
 Experiments 3c and 3d are §6.1's mechanism in a real model
-(THEORY-tmpnu6ih). §6 refers to Redwood's own polysemanticity toy-model
-paper, not registered. §1.1 counts the IOI circuit (LIT-1540), the
-modular-addition analysis (LIT-345), induction circuits (LIT-1534) and
+([THEORY-tmpnu6ih](../theory.d/THEORY-tmpnu6ih.md)). §6 refers to Redwood's own polysemanticity toy-model
+paper, not registered. §1.1 counts the IOI circuit ([LIT-1540](../literature.d/LIT-1540.md)), the
+modular-addition analysis ([LIT-345](../literature.d/LIT-345.md)), induction circuits ([LIT-1534](../literature.d/LIT-1534.md)) and
 curve detectors (Cammarata et al., not registered) as explanations of
 this form.
 
 ## Bearing on the record
 
-- **THEORY-978.** Theorem 2 is the general form of what the account
+- **[THEORY-978](../theory.d/THEORY-978.md).** Theorem 2 is the general form of what the account
   derives at one node. The scrubbed distribution depends on the
   hypothesis only through the equivalence classes each node induces, and
   it is the least committal distribution consistent with them. Two
   hypotheses that induce the same classes everywhere define the same
   constraints and so the same distribution, the same score. That is
-  THEORY-978's tie, now a consequence of the theorem.
-- **THEORY-802 and QUESTION-234.** Rewrites of G (§1.2, a subspace and its
+  [THEORY-978](../theory.d/THEORY-978.md)'s tie, now a consequence of the theorem.
+- **[THEORY-802](../theory.d/THEORY-802.md) and [QUESTION-234](../questions.d/QUESTION-234.md).** Rewrites of G (§1.2, a subspace and its
   complement) are how a change of basis enters a hypothesis. The method
-  takes the decomposition as given, as NOTE-1168 says.
-- **CLAIM-454 and QUESTION-274.** §6's treatment of superposition explains
+  takes the decomposition as given, as [NOTE-1168](NOTE-1168.md) says.
+- **[CLAIM-454](../claims.d/CLAIM-454.md) and [QUESTION-274](../questions.d/QUESTION-274.md).** §6's treatment of superposition explains
   a model by a monosemantic reformulation the experimenter supplies. The
   score tests the reformulation, not that the units are the model's.
-- **Resampling ablation (LIT-1547, LIT-1531).** §3 is the full form of the
+- **Resampling ablation ([LIT-1547](../literature.d/LIT-1547.md), [LIT-1531](../literature.d/LIT-1531.md)).** §3 is the full form of the
   argument those works adopt. Its examples are toys, and no measured
   comparison of the three ablations is given.
 
@@ -187,7 +187,7 @@ No instruction for machine-learning practice is recorded here
     product would discard exactly the correlations the lemma preserves.
   - §2.1 says "in both of these results posts" the baseline is the
     randomized loss. The induction post's 0% is the induction heads run
-    on another sequence (NOTE-tmpt6p3g).
+    on another sequence ([NOTE-tmpt6p3g](NOTE-tmpt6p3g.md)).
   - The §5 example of a cut is a figure only, so the induction's base and
     step are stated without a worked instance.
 - **Uniqueness assumes a finite input space,** which the authors note is
