@@ -135,20 +135,20 @@ step. For infinitely many situations the ground is still [THEORY-156](../theory.
 
 ## Note of 2026-10-27: grounded in what it uses of Blackwell
 
-The status review of this date (ADR-057) moved this claim's ground from
-THEORY-156 to THEORY-tmp5sao6. It uses Blackwell's definitions (an experiment, a
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-tmp5sao6](../theory.d/THEORY-tmp5sao6.md). It uses Blackwell's definitions (an experiment, a
 garbling, the informativeness order) or the easy direction, that a
 garbling never helps a decision-maker free to choose any rule. Both hold
-on any outcome spaces, with the proof written out there. THEORY-156's
+on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
 general converse, which stays Proposed, is not used. Quotations of
-THEORY-156 above are of the definitions it states.
+[THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
 
 ## Note of 2026-10-27: grounded in the proved half
 
-The status review of this date (ADR-057) moved this claim's ground from
-THEORY-174 to THEORY-720. The claim uses the classical simulations and their
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-174](../theory.d/THEORY-174.md) to [THEORY-720](../theory.d/THEORY-720.md). The claim uses the classical simulations and their
 monotonicity, that they never create contextuality, which is proved in
-refereed venues and Active as THEORY-720. It does not use THEORY-174's
+refereed venues and Active as [THEORY-720](../theory.d/THEORY-720.md). It does not use [THEORY-174](../theory.d/THEORY-174.md)'s
 characterization, that a map is such a simulation exactly when a
 non-contextual model of the hom scenario induces it. That half waits on an
 independent proof of the corrected Theorem 44 and stays Proposed.
