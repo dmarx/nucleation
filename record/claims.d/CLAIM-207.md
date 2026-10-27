@@ -146,4 +146,4 @@ choice of kernel.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) changed `rests_on: CLAIM-077` to `complements`. The proof uses CLAIM-121, CLAIM-070 and arithmetic. CLAIM-077 is cited as the admissibility condition the manuscript lacks, which would exclude the constant kernel.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) changed `rests_on: CLAIM-077` to `complements`. The proof uses [CLAIM-121](CLAIM-121.md), [CLAIM-070](CLAIM-070.md) and arithmetic. [CLAIM-077](CLAIM-077.md) is cited as the admissibility condition the manuscript lacks, which would exclude the constant kernel.

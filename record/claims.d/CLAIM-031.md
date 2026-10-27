@@ -53,4 +53,4 @@ sharpen, or appear) did not reach the manuscript.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) moved THEORY-203 from `grounds` to `corroborated_by`. This granted point is A75's, and the RHM result is weak corroboration only where its assumption holds, as the claim's own note says.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-203](../theory.d/THEORY-203.md) from `grounds` to `corroborated_by`. This granted point is A75's, and the RHM result is weak corroboration only where its assumption holds, as the claim's own note says.

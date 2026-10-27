@@ -58,4 +58,4 @@ claims; between a claim and a THEORY it waits on a luria fix
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) moved THEORY-069 from `grounds` to `corroborated_by`, the cross-scheme relation the body was waiting for (ADR-058). The claim uses what Kelso's account is about, and not HKB's empirical claims.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-069](../theory.d/THEORY-069.md) from `grounds` to `corroborated_by`, the cross-scheme relation the body was waiting for ([ADR-058](../decisions.d/ADR-058.md)). The claim uses what Kelso's account is about, and not HKB's empirical claims.

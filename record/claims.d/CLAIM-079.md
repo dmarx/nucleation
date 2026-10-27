@@ -58,4 +58,4 @@ Under [ADR-040](../decisions.d/ADR-040.md) (group C, decided by the owner) this 
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) moved THEORY-142 from `grounds` to `corroborated_by`. March's stylized simulation was linked as evidence on 2026-10-12. The demonstration rests on Aubin's viability kernel (THEORY-134) and the stability/resilience split (THEORY-132), both Active.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-142](../theory.d/THEORY-142.md) from `grounds` to `corroborated_by`. March's stylized simulation was linked as evidence on 2026-10-12. The demonstration rests on Aubin's viability kernel ([THEORY-134](../theory.d/THEORY-134.md)) and the stability/resilience split ([THEORY-132](../theory.d/THEORY-132.md)), both Active.

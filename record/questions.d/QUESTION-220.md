@@ -132,12 +132,12 @@ beyond [THEORY-757](../theory.d/THEORY-757.md)'s special cases, the size of the 
 
 ## Note of 2026-10-27: the settled cases split off
 
-The status review of this date split this question again under ADR-049.
-That every finite optimum nests under the β → ∞ one (THEORY-743), that two
+The status review of this date split this question again under [ADR-049](../decisions.d/ADR-049.md).
+That every finite optimum nests under the β → ∞ one ([THEORY-743](../theory.d/THEORY-743.md)), that two
 budgets nest iff some pair of optimal encoders forms a Markov chain, a
-hull test (THEORY-753), and that nesting holds at every pair of budgets
-when Y is a function of X or X and Y are both binary (THEORY-757) are
-QUESTION-tmpt5ucu, Answered. This question keeps what is still open: a
+hull test ([THEORY-753](../theory.d/THEORY-753.md)), and that nesting holds at every pair of budgets
+when Y is a function of X or X and Y are both binary ([THEORY-757](../theory.d/THEORY-757.md)) are
+[QUESTION-tmpt5ucu](QUESTION-tmpt5ucu.md), Answered. This question keeps what is still open: a
 structural condition on P(X, Y) beyond those cases, the size of the loss,
-and THEORY-163's colour hierarchy. THEORY-751, rate–distortion's own
+and [THEORY-163](../theory.d/THEORY-163.md)'s colour hierarchy. [THEORY-751](../theory.d/THEORY-751.md), rate–distortion's own
 criterion, stays here, since its transfer to the bottleneck is unproved.

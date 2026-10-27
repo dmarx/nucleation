@@ -10,8 +10,8 @@ line: pragmatic-transport
 refines:
 - QUESTION-017
 summary: >-
-  The additive part of QUESTION-017, split off by the status review of
-  2026-10-27 under ADR-049, because CLAIM-260 (Active) settles it in full.
+  The additive part of [QUESTION-017](QUESTION-017.md), split off by the status review of
+  2026-10-27 under [ADR-049](../decisions.d/ADR-049.md), because [CLAIM-260](../claims.d/CLAIM-260.md) (Active) settles it in full.
   The composite of an ε₁-transport and an ε₂-transport is an
   (Lε₁ + ε₂)-transport when the distortion obeys a triangle inequality,
   with L the later kernel's stretch, so additive when that kernel is
@@ -25,13 +25,13 @@ summary: >-
 ## The question
 
 A50 §2 bounded drift by adding the steps' distortions, assuming a metric.
-QUESTION-017 asks what bound holds when that assumption is dropped. This
+[QUESTION-017](QUESTION-017.md) asks what bound holds when that assumption is dropped. This
 question asks the first part of that: whether the additive bound itself
 holds, and under which of the metric's properties.
 
 ## The answer
 
-CLAIM-260, Active and demonstrated, settles it:
+[CLAIM-260](../claims.d/CLAIM-260.md), Active and demonstrated, settles it:
 
 - **With a triangle inequality** the composite's distortion is at most
   Lε₁ + ε₂, where L is how far the later kernel stretches distances. It
@@ -44,4 +44,4 @@ CLAIM-260, Active and demonstrated, settles it:
   x ↦ 2x makes the composite only a (2ε₁ + ε₂)-transport.
 
 What weaker bound holds where the additive one fails, and what holds for
-directed distortion, remain QUESTION-017's.
+directed distortion, remain [QUESTION-017](QUESTION-017.md)'s.

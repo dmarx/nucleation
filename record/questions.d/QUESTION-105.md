@@ -91,13 +91,13 @@ alternatives.
 
 ## Note of 2026-10-27: the lower edge split off
 
-The status review of this date split this question under ADR-049. Whether
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
 current conclusions or a closed belief set are enough to retain is
-QUESTION-tmpiu50n, Answered No by CLAIM-294 and THEORY-347; what a single
+[QUESTION-tmpiu50n](QUESTION-tmpiu50n.md), Answered No by [CLAIM-294](../claims.d/CLAIM-294.md) and [THEORY-347](../theory.d/THEORY-347.md); what a single
 AGM change of a closed theory needs besides it, a selection function on
-its remainders, is THEORY-353's part of that answer. This question keeps
+its remainders, is [THEORY-353](../theory.d/THEORY-353.md)'s part of that answer. This question keeps
 what is still open: the least retained state for a family of revisions,
 including added facts, defeat and iterated change, and whether it looks
-like provenance, dependencies and defeated alternatives. THEORY-362,
-THEORY-373 and THEORY-387 keep their links here: they give retained states
+like provenance, dependencies and defeated alternatives. [THEORY-362](../theory.d/THEORY-362.md),
+[THEORY-373](../theory.d/THEORY-373.md) and [THEORY-387](../theory.d/THEORY-387.md) keep their links here: they give retained states
 that suffice for changes to base facts, not least ones.

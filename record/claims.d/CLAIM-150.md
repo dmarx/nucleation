@@ -143,4 +143,4 @@ they do not say. Nothing here changes.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) removed THEORY-038 from `grounds`. It is cited for the categorial point it shares with THEORY-032. That point, and Lam and Wüthrich's matching conclusion, are carried by THEORY-032 and LIT-222, both already grounds. The body citation stays.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed [THEORY-038](../theory.d/THEORY-038.md) from `grounds`. It is cited for the categorial point it shares with [THEORY-032](../theory.d/THEORY-032.md). That point, and Lam and Wüthrich's matching conclusion, are carried by [THEORY-032](../theory.d/THEORY-032.md) and [LIT-222](../literature.d/LIT-222.md), both already grounds. The body citation stays.

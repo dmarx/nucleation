@@ -40,12 +40,12 @@
   - Four claims move off Superseded TERMs.
   - The worklist counts inversions on ARGs.
 - Pass 3 (workbench entry of 2026-10-27):
-  - ADR-058: a THEORY can corroborate a CLAIM. 16 edges move from
+  - [ADR-058](record/decisions.d/ADR-058.md): a THEORY can corroborate a CLAIM. 16 edges move from
     `grounds` to `corroborated_by`.
-  - THEORY-tmp5sao6 states Blackwell's definitions and easy direction with
-    a proof, and ten claims move onto it. Five claims move from THEORY-174
-    to THEORY-720.
+  - [THEORY-tmp5sao6](record/theory.d/THEORY-tmp5sao6.md) states Blackwell's definitions and easy direction with
+    a proof, and ten claims move onto it. Five claims move from [THEORY-174](record/theory.d/THEORY-174.md)
+    to [THEORY-720](record/theory.d/THEORY-720.md).
   - Credence inversions go from 38 to 3. The three that remain need the
     owner's ruling.
-  - Eight questions are split under ADR-049. ADR-049 version 2 sizes
-    splits by ADR-057's pass.
+  - Eight questions are split under [ADR-049](record/decisions.d/ADR-049.md). [ADR-049](record/decisions.d/ADR-049.md) version 2 sizes
+    splits by [ADR-057](record/decisions.d/ADR-057.md)'s pass.

@@ -199,10 +199,10 @@ infinite-history result. The question is unchanged.
 
 ## Note of 2026-10-27: the fast contracting case split off
 
-The status review of this date split this question again under ADR-049.
+The status review of this date split this question again under [ADR-049](../decisions.d/ADR-049.md).
 When the eliminated variable is fast and contracting, and the reduced
 system is contracting, the memoryless reduction predicts to O(ε) for all
-time with explicit constants. That is QUESTION-tmpf2ohw, Answered by
-THEORY-773. This question keeps what is still open: slow or noisy
+time with explicit constants. That is [QUESTION-tmpf2ohw](QUESTION-tmpf2ohw.md), Answered by
+[THEORY-773](../theory.d/THEORY-773.md). This question keeps what is still open: slow or noisy
 eliminated variables, nonlinear and vector classes, error in terms of the
 eliminated spectrum where memory is needed, and the ruling on levels.

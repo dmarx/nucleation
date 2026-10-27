@@ -112,4 +112,4 @@ receiver a bilingual, who is not the target-language reader [CLAIM-115](CLAIM-11
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) removed `rests_on` CLAIM-074 and CLAIM-151. The objection cites them as the line's own commitments, which the pooled tests are inconsistent with, not as premises it asserts. Its other two parts stand on CASE-026 and CASE-042.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed `rests_on` [CLAIM-074](CLAIM-074.md) and [CLAIM-151](CLAIM-151.md). The objection cites them as the line's own commitments, which the pooled tests are inconsistent with, not as premises it asserts. Its other two parts stand on [CASE-026](../cases.d/CASE-026.md) and [CASE-042](../cases.d/CASE-042.md).

@@ -186,4 +186,4 @@ Agreement of a selected ordering is scored on held-out contests.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) moved THEORY-896 from `grounds` to `corroborated_by`. Part 1 is proved here in full, "proved here because their paper is unread". Monderer and Shapley's general result corroborates it, and the proof does not use it.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-896](../theory.d/THEORY-896.md) from `grounds` to `corroborated_by`. Part 1 is proved here in full, "proved here because their paper is unread". Monderer and Shapley's general result corroborates it, and the proof does not use it.

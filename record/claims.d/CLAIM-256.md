@@ -74,4 +74,4 @@ So the one computable component is blind to additions.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) changed `rests_on` CLAIM-076 and CLAIM-087 to `complements`. The result is read off TERM-043's definition. The two claims say only that additions happen, which motivates the result and is not a premise of it.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) changed `rests_on` [CLAIM-076](CLAIM-076.md) and [CLAIM-087](CLAIM-087.md) to `complements`. The result is read off [TERM-043](../terms.d/TERM-043.md)'s definition. The two claims say only that additions happen, which motivates the result and is not a premise of it.

@@ -59,10 +59,10 @@ A family of systems with known relevant variables, trained under objectives and 
 
 ## Note of 2026-10-27: the representability part split off
 
-The status review of this date split this question under ADR-049. Whether
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
 an architecture that can represent a system's renormalization step exactly
 must, under distribution fitting, learn the relevant variables is
-QUESTION-tmpxjw51, Answered No by THEORY-197: the RBM correspondence is an
+[QUESTION-tmpxjw51](QUESTION-tmpxjw51.md), Answered No by [THEORY-197](../theory.d/THEORY-197.md): the RBM correspondence is an
 identity of parametrizations, and a contrastive-divergence RBM keeps the
 noise. This question keeps what is still open: how objective and
 architecture each fix the learned variables, and when they coincide with

@@ -58,4 +58,4 @@ will-organization ([TERM-023](../terms.d/TERM-023.md)) ([CLAIM-022](CLAIM-022.md
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) moved THEORY-153 from `grounds` to `corroborated_by`. Beer's account is an outside echo of the claim, which ARG-007 (Active) concludes from CLAIM-079 and CLAIM-025.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-153](../theory.d/THEORY-153.md) from `grounds` to `corroborated_by`. Beer's account is an outside echo of the claim, which [ARG-007](../arguments.d/ARG-007.md) (Active) concludes from [CLAIM-079](CLAIM-079.md) and [CLAIM-025](CLAIM-025.md).

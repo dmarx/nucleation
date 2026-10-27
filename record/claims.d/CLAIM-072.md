@@ -58,4 +58,4 @@ value. The correction above stands, and the paragraph is left as written.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) removed THEORY-159 from `grounds`. The claim is a reading of what Saussure says, and it stands on LIT-774 (read in NOTE-594), already a ground. THEORY-159's linguistic thesis is not used. The body citation stays.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed [THEORY-159](../theory.d/THEORY-159.md) from `grounds`. The claim is a reading of what Saussure says, and it stands on [LIT-774](../literature.d/LIT-774.md) (read in [NOTE-594](../notes.d/NOTE-594.md)), already a ground. [THEORY-159](../theory.d/THEORY-159.md)'s linguistic thesis is not used. The body citation stays.

@@ -121,4 +121,4 @@ discriminating test A30 named, and the manuscript dropped it.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) moved THEORY-013 and THEORY-010 from `grounds` to `corroborated_by`. The claim is demonstrated by CASE-001 (AB = A, BA = B in a classical Markov system) and THEORY-545, and the two readings corroborate it.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-013](../theory.d/THEORY-013.md) and [THEORY-010](../theory.d/THEORY-010.md) from `grounds` to `corroborated_by`. The claim is demonstrated by [CASE-001](../cases.d/CASE-001.md) (AB = A, BA = B in a classical Markov system) and [THEORY-545](../theory.d/THEORY-545.md), and the two readings corroborate it.

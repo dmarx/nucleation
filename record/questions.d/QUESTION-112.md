@@ -80,9 +80,9 @@ resources" (§5.2) is one of [CLAIM-295](../claims.d/CLAIM-295.md)'s three value
 
 ## Note of 2026-10-27: A8's question split off
 
-The status review of this date split this question under ADR-049. A8's
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). A8's
 question, whether history adds value beyond a sufficient state, and
-whether such a state can stop being sufficient, is QUESTION-tmpgjyn2,
-Answered by CLAIM-300. This question keeps what is still open: how to
+whether such a state can stop being sufficient, is [QUESTION-tmpgjyn2](QUESTION-tmpgjyn2.md),
+Answered by [CLAIM-300](../claims.d/CLAIM-300.md). This question keeps what is still open: how to
 judge sufficiency when the decision family changes with what the inquiry
 finds. The title already said only that, so it is unchanged.

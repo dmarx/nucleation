@@ -87,4 +87,4 @@ claim. [CLAIM-410](CLAIM-410.md), filed from A18, rests on it.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) moved THEORY-223 from `grounds` to `corroborated_by`. Lahiri's case is an instance of the claim, which ARG-001 and ARG-003 conclude, and the claim does not rest on the case.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-223](../theory.d/THEORY-223.md) from `grounds` to `corroborated_by`. Lahiri's case is an instance of the claim, which [ARG-001](../arguments.d/ARG-001.md) and [ARG-003](../arguments.d/ARG-003.md) conclude, and the claim does not rest on the case.

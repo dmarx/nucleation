@@ -101,9 +101,9 @@ security dilemma, is [CLAIM-445](../claims.d/CLAIM-445.md).
 
 ## Note of 2026-10-27: the evidential part split off
 
-The status review of this date split this question under ADR-049. What
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). What
 evidence would show that a maintaining link, not the regime's content,
-keeps a disorder in place is QUESTION-tmpubad0, Answered by THEORY-053:
+keeps a disorder in place is [QUESTION-tmpubad0](QUESTION-tmpubad0.md), Answered by [THEORY-053](../theory.d/THEORY-053.md):
 not a treatment's efficacy, but change in the link that is specific and
 comes before the outcome. This question keeps what is still open: whether
 any disorder is such a lock-in, and an experiment that cuts the link with

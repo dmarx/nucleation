@@ -134,4 +134,4 @@ holds neither study.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) re-grounded the claim in the works it reports measurements from: Propp (LIT-828) in place of THEORY-167, and Farrell et al. (LIT-848) in place of THEORY-173. It already did this for Raviv et al. (LIT-825). The claim uses what each work measured, not its thesis.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) re-grounded the claim in the works it reports measurements from: Propp ([LIT-828](../literature.d/LIT-828.md)) in place of [THEORY-167](../theory.d/THEORY-167.md), and Farrell et al. ([LIT-848](../literature.d/LIT-848.md)) in place of [THEORY-173](../theory.d/THEORY-173.md). It already did this for Raviv et al. ([LIT-825](../literature.d/LIT-825.md)). The claim uses what each work measured, not its thesis.

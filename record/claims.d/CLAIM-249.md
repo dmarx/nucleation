@@ -108,4 +108,4 @@ automorphism ambiguity of that identification.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) re-pointed `rests_on` from CLAIM-098 to CLAIM-318 (Active, demonstrated): "among Markov kernels between finite sets the invertible ones are the permutation matrices". The body already says the point is "now held as CLAIM-318". CLAIM-098's contested part, that directed lossy transport is the better model, is not used.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) re-pointed `rests_on` from [CLAIM-098](CLAIM-098.md) to [CLAIM-318](CLAIM-318.md) (Active, demonstrated): "among Markov kernels between finite sets the invertible ones are the permutation matrices". The body already says the point is "now held as [CLAIM-318](CLAIM-318.md)". [CLAIM-098](CLAIM-098.md)'s contested part, that directed lossy transport is the better model, is not used.

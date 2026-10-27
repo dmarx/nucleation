@@ -120,4 +120,4 @@ it leaves out do not.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) changed `rests_on: CLAIM-444` to `complements`. The theorem takes the authority-weighted mixture as its hypothesis, stated by CASE-159 (Active, a ground), and its proof does not use CLAIM-444's claim that the replicator reduction is the right null model.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) changed `rests_on: CLAIM-444` to `complements`. The theorem takes the authority-weighted mixture as its hypothesis, stated by [CASE-159](../cases.d/CASE-159.md) (Active, a ground), and its proof does not use [CLAIM-444](CLAIM-444.md)'s claim that the replicator reduction is the right null model.

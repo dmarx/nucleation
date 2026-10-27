@@ -88,10 +88,10 @@ and it does not treat directed distortion.
 
 ## Note of 2026-10-27: the additive part split off
 
-The status review of this date split this question under ADR-049. Whether
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
 the composite's distortion is bounded by the sum of the parts', and under
-which of a metric's properties, is QUESTION-tmpvsepl, Answered by
-CLAIM-260: it holds with a triangle inequality and a nonexpansive later
+which of a metric's properties, is [QUESTION-tmpvsepl](QUESTION-tmpvsepl.md), Answered by
+[CLAIM-260](../claims.d/CLAIM-260.md): it holds with a triangle inequality and a nonexpansive later
 kernel, and fails without either. This question keeps what is still open:
 what weaker bound holds where the additive one fails, and what holds for
 directed distortion.

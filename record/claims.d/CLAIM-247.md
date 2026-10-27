@@ -102,4 +102,4 @@ is the line's.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) changed `rests_on: CLAIM-038` to `complements`. The claim compares texts, and needs only that the operational stance was stated. CLAIM-046, on which the stance's first half rests, is Active since 2026-10-27.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) changed `rests_on: CLAIM-038` to `complements`. The claim compares texts, and needs only that the operational stance was stated. [CLAIM-046](CLAIM-046.md), on which the stance's first half rests, is Active since 2026-10-27.

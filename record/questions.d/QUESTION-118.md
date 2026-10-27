@@ -161,10 +161,10 @@ functioning conceals." The cases are [CASE-169](../cases.d/CASE-169.md), [CASE-1
 
 ## Note of 2026-10-27: the possibility of plural succession split off
 
-The status review of this date split this question under ADR-049. Whether
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
 several later collectives can each be a genuine successor in a different
-respect without numerical identity branching is QUESTION-tmpmmgls,
-Answered by CLAIM-328 on the Senators (CASE-105). This question keeps
+respect without numerical identity branching is [QUESTION-tmpmmgls](QUESTION-tmpmmgls.md),
+Answered by [CLAIM-328](../claims.d/CLAIM-328.md) on the Senators ([CASE-105](../cases.d/CASE-105.md)). This question keeps
 what is still open: what must stay causally continuous for persistence,
 and, when the respects separate, which successor relation, if any, is the
 earlier collective persisting.

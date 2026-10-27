@@ -78,4 +78,4 @@ compared.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) replaced `grounds: THEORY-703` with Seth's paper itself, LIT-1170 (read in full in NOTE-935). The claim quotes Seth's definitions and label. THEORY-703's contested part, that G-emergence tracks weak emergence, is not used.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) replaced `grounds: THEORY-703` with Seth's paper itself, [LIT-1170](../literature.d/LIT-1170.md) (read in full in [NOTE-935](../notes.d/NOTE-935.md)). The claim quotes Seth's definitions and label. [THEORY-703](../theory.d/THEORY-703.md)'s contested part, that G-emergence tracks weak emergence, is not used.

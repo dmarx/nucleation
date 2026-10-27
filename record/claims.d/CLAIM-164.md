@@ -125,4 +125,4 @@ holds needs a further step, which the gap does not supply.
 
 ## Note of 2026-10-27: the edge says what the claim uses
 
-The status review of this date (ADR-057, ADR-058) moved THEORY-078 and THEORY-084 from `grounds` to `corroborated_by`. As the note of 2026-10-19 says, "This claim does not need them: its core is Davis–Kahan."
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-078](../theory.d/THEORY-078.md) and [THEORY-084](../theory.d/THEORY-084.md) from `grounds` to `corroborated_by`. As the note of 2026-10-19 says, "This claim does not need them: its core is Davis–Kahan."

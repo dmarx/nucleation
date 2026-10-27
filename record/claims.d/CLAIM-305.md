@@ -73,7 +73,7 @@ k_j ≥ 2, or whenever two or more coordinates appear.
 
 **What resolution does buy.** The normal form lets the divergence's
 behaviour near the true parameter be read off. It gives the real log
-canonical threshold. On THEORY-087's reading of Watanabe, held as cited
+canonical threshold. On [THEORY-087](../theory.d/THEORY-087.md)'s reading of Watanabe, held as cited
 and not checked here, that threshold then sets the Bayesian complexity
 penalty λ log n in place of (d/2) log n. That is a statement about how hard
 learning is near the singularity. It is not one about separating the
@@ -93,9 +93,9 @@ them is a way of gaining observations.
 
 The first point is the definition of a pulled-back model. The second is a
 two-line computation, checked numerically. The third reads off the
-normal form, and is worked for this model in CASE-152 (Active), where
+normal form, and is worked for this model in [CASE-152](../cases.d/CASE-152.md) (Active), where
 the real log canonical threshold is ½. What that threshold then does to
-the Bayesian penalty is stated only on THEORY-087's reading, which is
+the Bayesian penalty is stated only on [THEORY-087](../theory.d/THEORY-087.md)'s reading, which is
 Proposed.
 
 ## What it does not say
@@ -108,4 +108,4 @@ Proposed.
 
 ## Note of 2026-10-27: the penalty stated conditionally
 
-The status review of this date (ADR-057) found this Active claim grounded in THEORY-087, which is Proposed, for one clause: that the real log canonical threshold sets the Bayesian penalty λ log n. That clause is Watanabe's singular result, which the record holds only as cited. The clause is now conditional on THEORY-087's reading. The claim is grounded in CASE-152 for the worked threshold, and THEORY-087 is cited and no longer a ground.
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this Active claim grounded in [THEORY-087](../theory.d/THEORY-087.md), which is Proposed, for one clause: that the real log canonical threshold sets the Bayesian penalty λ log n. That clause is Watanabe's singular result, which the record holds only as cited. The clause is now conditional on [THEORY-087](../theory.d/THEORY-087.md)'s reading. The claim is grounded in [CASE-152](../cases.d/CASE-152.md) for the worked threshold, and [THEORY-087](../theory.d/THEORY-087.md) is cited and no longer a ground.
