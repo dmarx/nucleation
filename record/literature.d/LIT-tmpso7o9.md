@@ -1,9 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from U11–U14 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the article is closed
+  on Unpaywall and OpenAlex (Physica D, Elsevier), with no repository
+  copy. It stays Unavailable until a copy is supplied.
 title: 'Slaving principle revisited'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +15,13 @@ history:
     Hermann Haken, Physica D 97(1–3), 95–103, October 1996; no day, so
     `published:` carries the first of the month. A13 cited it as
     "Haken's 1996 Slaving Principle Revisited".
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the article is
+    closed on Unpaywall and OpenAlex (Physica D, Elsevier), with no
+    repository copy, checked on 2026-10-27. Status Deferred to
+    Unavailable.
 tags:
 - complex-systems
 - mathematics
@@ -37,9 +47,7 @@ summary: >-
 
 Haken, H. (1996). Slaving principle revisited. *Physica D*, 97(1–3), 95–103. doi:10.1016/0167-2789(96)00080-2.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

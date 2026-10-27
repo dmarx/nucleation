@@ -1,9 +1,13 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from U11–U14 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the book has no DOI to
+  look up on Unpaywall, OpenAlex's title search was out of its daily
+  budget for this client, and the publisher sells it; no open copy is
+  known. It stays Unavailable until a copy is supplied.
 title: 'Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -13,6 +17,11 @@ history:
     1997, Writing Science series; the publisher's page answered this
     client with a bot checkpoint on 2026-10-27, so no day or month was
     found and `published:` carries a placeholder, 1 January 1997.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the book has no DOI to look up on Unpaywall, OpenAlex's title search was out of its daily budget for this client, and the publisher sells it; no open copy is known, checked on
+    2026-10-27. Status Deferred to Unavailable.
 tags:
 - philosophy-of-science
 - epistemology
@@ -39,9 +48,7 @@ summary: >-
 
 Rheinberger, H.-J. (1997). *Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube*. Stanford University Press.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

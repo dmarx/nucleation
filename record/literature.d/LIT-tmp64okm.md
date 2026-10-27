@@ -1,9 +1,17 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-27, not read. Registered from U11–U14 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  searched 2026-10-27 for a lawful full text; one exists but this client
+  could not fetch it, so it is not read and no NOTE is filed (ADR-053).
+  Unpaywall lists the publisher's open-archive copy on ScienceDirect,
+  sciencedirect.com/science/article/pii/0022039679901529/pdf; it
+  answered curl with an HTTP 403 Cloudflare challenge, and a headless-
+  browser fetch was not attempted, since it would be working around the
+  challenge. The failure is on access, not availability. A browser fetch
+  of the open-archive copy is the cheapest way to read it. It stays
+  Unfetched until a copy is supplied.
 title: 'Geometric singular perturbation theory for ordinary differential equations'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +20,14 @@ history:
     Neil Fenichel, Journal of Differential Equations 31(1), 53–98,
     January 1979; no day, so `published:` carries the first of the
     month.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted on 2026-10-27. Unpaywall gives one open copy, the
+    publisher's open-archive copy on ScienceDirect,
+    sciencedirect.com/science/article/pii/0022039679901529/pdf, which
+    returned an HTTP 403 Cloudflare challenge. Status Deferred to
+    Unfetched under ADR-053.
 tags:
 - mathematics
 - complex-systems
@@ -37,9 +53,7 @@ summary: >-
 
 Fenichel, N. (1979). Geometric singular perturbation theory for ordinary differential equations. *Journal of Differential Equations*, 31(1), 53–98. doi:10.1016/0022-0396(79)90152-9.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: a lawful open copy exists but could not be fetched on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

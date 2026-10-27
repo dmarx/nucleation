@@ -1,9 +1,16 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  searched 2026-10-27 for a lawful full text; one exists but this client
+  could not fetch it, so it is not read and no NOTE is filed (ADR-053).
+  Unpaywall lists the ACM Digital Library's bronze copy,
+  dl.acm.org/doi/pdf/10.1145/147508.147524; it answered curl with an
+  HTTP 403 Cloudflare challenge, and a headless-browser fetch was not
+  attempted, since it would be working around the challenge. The failure
+  is on access, not availability. A browser fetch of the ACM copy is the
+  cheapest way to read it. It stays Unfetched until a copy is supplied.
 title: 'Institutions: abstract model theory for specification and programming'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +19,13 @@ history:
     Joseph A. Goguen and Rod M. Burstall, Journal of the ACM 39(1),
     95–146, dated 2 January 1992, which is `published:` per ADR-002. A9
     linked Goguen's introduction page at UCSD rather than the paper.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted on 2026-10-27. Unpaywall gives one open copy, the
+    ACM Digital Library's bronze copy,
+    dl.acm.org/doi/pdf/10.1145/147508.147524, which returned an HTTP 403
+    Cloudflare challenge. Status Deferred to Unfetched under ADR-053.
 tags:
 - logic
 - mathematics
@@ -38,9 +52,7 @@ summary: >-
 
 Goguen, J. A., & Burstall, R. M. (1992). Institutions: Abstract model theory for specification and programming. *Journal of the ACM*, 39(1), 95–146. doi:10.1145/147508.147524.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: a lawful open copy exists but could not be fetched on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

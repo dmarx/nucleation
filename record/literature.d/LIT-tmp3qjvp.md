@@ -1,9 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the article is closed
+  on Unpaywall and OpenAlex (Mind, Oxford University Press), with no
+  repository copy. It stays Unavailable until a copy is supplied.
 title: 'Mr. Russell''s "Causal Theory of Perception"'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -11,6 +14,13 @@ history:
     Filed, not read. Crossref gives M. H. A. Newman, Mind XXXVII(146),
     137–148, with the year 1928 only. Issue 146 is that of April 1928,
     so `published:` carries the first of that month.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the article is
+    closed on Unpaywall and OpenAlex (Mind, Oxford University Press),
+    with no repository copy, checked on 2026-10-27. Status Deferred to
+    Unavailable.
 tags:
 - philosophy-of-science
 - logic
@@ -38,9 +48,7 @@ summary: >-
 
 Newman, M. H. A. (1928). Mr. Russell's "causal theory of perception". *Mind*, 37(146), 137–148. doi:10.1093/mind/XXXVII.146.137.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

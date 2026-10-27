@@ -1,9 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the book is closed on
+  Unpaywall (Springer), with no open copy listed. It stays Unavailable
+  until a copy is supplied.
 title: 'Autopoiesis and Cognition: The Realization of the Living'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -13,6 +16,12 @@ history:
     Springer Netherlands, with an issue year of 1980 and an online date
     of 22 September 2011, its earliest full date, which is `published:`
     per ADR-002. The book is of 1980.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the book is closed
+    on Unpaywall (Springer), with no open copy listed, checked on
+    2026-10-27. Status Deferred to Unavailable.
 tags:
 - philosophy-of-biology
 - complex-systems
@@ -41,9 +50,7 @@ summary: >-
 
 Maturana, H. R., & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel (Boston Studies in the Philosophy of Science 42). doi:10.1007/978-94-009-8947-4.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

@@ -1,9 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the book is closed on
+  Unpaywall (Harvard University Press, De Gruyter), with no open copy
+  listed. It stays Unavailable until a copy is supplied.
 title: 'Articulating Reasons: An Introduction to Inferentialism'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -12,6 +15,12 @@ history:
     Press, DOI 10.4159/9780674028739, print date 31 December 2000, which
     is `published:` per ADR-002. A9 linked the JSTOR edition
     (10.2307/j.ctvjghvz0, dated 2009), which is the same book.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the book is closed
+    on Unpaywall (Harvard University Press, De Gruyter), with no open
+    copy listed, checked on 2026-10-27. Status Deferred to Unavailable.
 tags:
 - philosophy-of-language
 - epistemology
@@ -39,9 +48,7 @@ summary: >-
 
 Brandom, R. B. (2000). *Articulating Reasons: An Introduction to Inferentialism*. Harvard University Press. doi:10.4159/9780674028739.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

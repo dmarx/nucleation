@@ -1,9 +1,13 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the translation has no
+  DOI to look up on Unpaywall, OpenAlex's title search was out of its
+  daily budget for this client, and the publisher sells it; no open copy
+  is known. It stays Unavailable until a copy is supplied.
 title: 'Individuation in Light of Notions of Form and Information'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -15,6 +19,11 @@ history:
     complete English translation. The French thesis was defended in 1958
     and published in parts (1964, 1989) and whole (2005). `published:`
     is the translation's date, the edition the exchange named.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the translation has no DOI to look up on Unpaywall, OpenAlex's title search was out of its daily budget for this client, and the publisher sells it; no open copy is known,
+    checked on 2026-10-27. Status Deferred to Unavailable.
 tags:
 - metaphysics
 - individuation
@@ -44,9 +53,7 @@ summary: >-
 
 Simondon, G. (2020). *Individuation in Light of Notions of Form and Information* (T. Adkins, Trans.). University of Minnesota Press. (Original work defended 1958.)
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

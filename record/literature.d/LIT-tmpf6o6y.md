@@ -1,9 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the chapter is closed
+  on Unpaywall (Oxford Handbooks Online), with no open copy listed. It
+  stays Unavailable until a copy is supplied.
 title: 'Agential Realism—A Relation Ontology Interpretation of Quantum Physics'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -14,6 +17,12 @@ history:
     March 2022, online 19 May 2022. A4 linked doi
     10.1093/oxfordhb/9780198844495.013.0043, which Crossref does not
     resolve; the registered DOI is …013.43.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the chapter is
+    closed on Unpaywall (Oxford Handbooks Online), with no open copy
+    listed, checked on 2026-10-27. Status Deferred to Unavailable.
 tags:
 - quantum-foundations
 - metaphysics
@@ -37,9 +46,7 @@ summary: >-
 
 Barad, K. (2022). Agential realism—a relation ontology interpretation of quantum physics. In O. Freire Jr. et al. (Eds.), *The Oxford Handbook of the History of Quantum Interpretations* (pp. 1030–1054). Oxford University Press. doi:10.1093/oxfordhb/9780198844495.013.43.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

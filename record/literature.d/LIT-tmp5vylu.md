@@ -1,9 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the book is closed on
+  Unpaywall (Oxford Academic), with no open copy listed. It stays
+  Unavailable until a copy is supplied.
 title: 'The Scientific Image'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -11,6 +14,12 @@ history:
     Filed, not read. Crossref gives Bas C. van Fraassen, Oxford
     University Press, print 11 December 1980, which is `published:` per
     ADR-002.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the book is closed
+    on Unpaywall (Oxford Academic), with no open copy listed, checked on
+    2026-10-27. Status Deferred to Unavailable.
 tags:
 - philosophy-of-science
 - epistemology
@@ -36,9 +45,7 @@ summary: >-
 
 van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press. doi:10.1093/0198244274.001.0001.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 

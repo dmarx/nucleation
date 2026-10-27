@@ -1,9 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-27, not read. Registered from U11–U14 of the owner's exchange of 2026-10-27, "Field Existence Question". No NOTE is filed.
+  filed 2026-10-27, not read. A close reading was attempted on
+  2026-10-27 and no lawful full text was reached: the article is closed
+  on Unpaywall (Annals of Physics, Elsevier), with no open copy listed.
+  It stays Unavailable until a copy is supplied.
 title: 'Statistical theory of the decay of metastable states'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -11,6 +14,12 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-10-27: J.
     S. Langer, Annals of Physics 54(2), 258–275, September 1969; no day,
     so `published:` carries the first of the month.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Reading attempted, no lawful full text (ADR-041): the article is
+    closed on Unpaywall (Annals of Physics, Elsevier), with no open copy
+    listed, checked on 2026-10-27. Status Deferred to Unavailable.
 tags:
 - natural-sciences
 - thermodynamics
@@ -35,9 +44,7 @@ summary: >-
 
 Langer, J. S. (1969). Statistical theory of the decay of metastable states. *Annals of Physics*, 54(2), 258–275. doi:10.1016/0003-4916(69)90153-5.
 
-Not read. The summary is drawn from what the work is standardly cited
-for and from the exchange's description of it. A reading should check it
-first.
+Not read: no lawful full text was reached on 2026-10-27 (see the status note). The summary is drawn from what the work is standardly cited for and from the exchange's description of it. A reading should check it first.
 
 ## Why this is here
 
