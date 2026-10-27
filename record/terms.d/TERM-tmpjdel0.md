@@ -1,9 +1,17 @@
 ---
-status: Proposed
+status: Active
 complements:
 - TERM-tmp0est4
 title: 'apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Adopted at the owner's review of the pull request ("I'd adopt that
+    term and separate the claims"), as the sense in which CLAIM-tmp0yhlm
+    states luria's operational role. Proposed to Active; the definition is
+    unchanged.
 tags:
 - philosophy-of-science
 - epistemology
@@ -21,7 +29,7 @@ summary: >-
   sense, and needed a weaker one that a thermometer, a bacterium, a
   sensor network and luria all fall under without argument.
 ---
-<!-- inactive-ok-file: TERM-tmp0est4 CLAIM-tmpl228b CLAIM-tmpalzo4 CLAIM-tmpose3y CLAIM-419 QUESTION-tmpubsi9 — Proposed, Open or new; the term, claims and question this sense serves -->
+<!-- inactive-ok-file: CLAIM-tmp0yhlm TERM-tmp0est4 CLAIM-tmpl228b CLAIM-tmpalzo4 CLAIM-tmpose3y CLAIM-419 QUESTION-tmpubsi9 — Proposed, Open or new; the term, claims and question this sense serves -->
 
 # TERM-tmpjdel0: apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart
 
@@ -65,7 +73,7 @@ epistemically self-correcting apparatus.**" Revision is a function the
 apparatus has. Whether its revisions improve anything is a separate question
 ([QUESTION-tmpubsi9](../questions.d/QUESTION-tmpubsi9.md)).
 
-## Why it is proposed
+## Why it was proposed
 
 The record already uses the word in two places. [CLAIM-tmpl228b](../claims.d/CLAIM-tmpl228b.md) calls luria an
 apparatus in Barad's sense. [TERM-tmp0est4](TERM-tmp0est4.md) defines "cut" by the apparatus that
@@ -99,3 +107,11 @@ The readings sharpen the definition without changing it.
 - **Selective coupling has a compositional form.** Spivak's unilateral
   arrangements ([NOTE-tmplvblh](../notes.d/NOTE-tmplvblh.md), Def. 5.3.2) are ones whose output cannot
   drive their state back. They are closed under composition (Prop. 5.3.3).
+
+## Note of 2026-10-27 (later): adopted
+
+The owner adopted the term at the review of the pull request, and split
+CLAIM-tmpl228b along its line. CLAIM-tmp0yhlm says luria is an apparatus in this
+sense. CLAIM-tmpl228b keeps Barad's constitutive sense and now rests on it. The
+criterion this term's last section set for adoption is met: a claim needs the
+operational sense and says so by citing it.

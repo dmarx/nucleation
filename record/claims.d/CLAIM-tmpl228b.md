@@ -1,19 +1,34 @@
 ---
 status: Proposed
-title: 'Luria is an apparatus in Barad''s sense for the objects of a record, and only for them: its grammar settles which distinctions among entries are determinate and consequential, a split scheme or a promoted vocabulary makes one object two or a value an entity, and misfits met in use revise the grammar, so a record''s objects are constituted relative to an apparatus that the record''s own inquiry reconstitutes'
-version: 1
+title: 'Beyond what it does operationally, luria is an apparatus in Barad''s constitutive sense for the objects of a record, and only for them: the record''s objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record''s own inquiry reconstitutes the apparatus that constitutes them'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Split at the owner's review of the pull request. Version 1 was titled
+    "Luria is an apparatus in Barad's sense for the objects of a record, and
+    only for them: its grammar settles which distinctions among entries are
+    determinate and consequential, a split scheme or a promoted vocabulary
+    makes one object two or a value an entity, and misfits met in use revise
+    the grammar, so a record's objects are constituted relative to an
+    apparatus that the record's own inquiry reconstitutes". Its operational
+    content is now CLAIM-tmp0yhlm, on which this rests; this claim keeps the
+    constitutive thesis, which needs an argument the operational facts do
+    not supply. Defeater rewritten to match; status, role and warrant
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A change to the record's grammar (a split scheme, a promoted vocabulary,
-  a new relation) after which everything the record can state, check and
-  retire was already statable, checkable and retirable before, with the
-  same consequences, so that the change only re-described objects
-  individuated without it. Or a showing that the record's objects are
-  individuated independently of its grammar (by its files, say), so that
-  the grammar only describes them. A grammar change that no inquiry has yet
-  used does not defeat it: the claim is about what is constituted, and
-  whether inquiry's course changes is the test below.
+  A showing that "constituted" adds nothing to CLAIM-tmp0yhlm's "made
+  referable and governable": that every consequence this claim draws from
+  constitution follows from the operational facts alone, so that the
+  Baradian description is a redescription. Or a showing that the record's
+  objects are individuated independently of its grammar (by its files,
+  say), so that the grammar only describes them. Or, on Barad's own terms,
+  that her apparatus cannot be carried to a record without the quantum
+  premise she grounds it in (the template conception Jaksland finds she
+  rejects; the note of the readings below).
 tags:
 - design-rationale
 - epistemology
@@ -21,6 +36,7 @@ tags:
 date: '2026-10-27'
 line: nucleating-argument
 rests_on:
+- CLAIM-tmp0yhlm
 - CLAIM-419
 - CLAIM-195
 - CLAIM-tmpoe0v5
@@ -34,24 +50,23 @@ complements:
 uses:
 - TERM-tmp0est4
 summary: >-
-  The owner's, U7 of the exchange of 2026-10-27, after A6 had laid out
-  Barad's apparatus and agential cut: "oh shit, I think I may have
-  inadvertently operationalized this notion of apparatus already, check out
-  github.com/dmarx/luria". A7 agreed in a qualified form, splitting what
-  the code shows (luria "constitutes and maintains distinctions *within a
-  governed knowledge system*") from the hypothesis that such mechanisms
-  are instances of general ontological constitution. Filed as the first,
-  which is what the record's own amendments bear out ([CLAIM-419](CLAIM-419.md)). A7 found
-  the loop in luria's record ([LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16), [LU-ADR-124](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-124.md)) and did not find that
-  this record had filed it from the owner's U18 of 2026-10-22. Barad is
-  unread here.
+  The owner's, U7 of the exchange of 2026-10-27: "oh shit, I think I may
+  have inadvertently operationalized this notion of apparatus already,
+  check out github.com/dmarx/luria". Split at the owner's review of the
+  pull request. What luria demonstrably does, differentiating, retaining,
+  enforcing and revising the distinctions that fix a record's objects, is
+  now CLAIM-tmp0yhlm, stated without Barad. This claim keeps the further,
+  constitutive thesis: those objects are constituted in Barad's sense, not
+  only made governable. That needs an argument the operational facts do
+  not supply, and the readings press on it, since Barad rejects carrying
+  agential realism as a template. Barad is unread here.
 ---
 <!-- inactive-ok-file: CLAIM-tmpalzo4 TERM-tmpjdel0 LIT-tmpikbhf — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: LIT-tmpqcxti — Deferred; registered unread -->
-<!-- inactive-ok-file: CLAIM-419 CLAIM-195 CLAIM-181 CLAIM-183 — Proposed; the claims about the record's grammar this one rests on or sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmp0yhlm CLAIM-419 CLAIM-195 CLAIM-181 CLAIM-183 — Proposed; the claims about the record's grammar this one rests on or sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpikjbr LIT-tmpn1p0x LIT-tmpggyb7 LIT-tmpoqxdo — Deferred or Unavailable; registered from the same exchange, unread, cited for what they are standardly cited for -->
 
-# CLAIM-tmpl228b: Luria is an apparatus in Barad's sense for the objects of a record, and only for them: its grammar settles which distinctions among entries are determinate and consequential, a split scheme or a promoted vocabulary makes one object two or a value an entity, and misfits met in use revise the grammar, so a record's objects are constituted relative to an apparatus that the record's own inquiry reconstitutes
+# CLAIM-tmpl228b: Beyond what it does operationally, luria is an apparatus in Barad's constitutive sense for the objects of a record, and only for them: the record's objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record's own inquiry reconstitutes the apparatus that constitutes them
 
 ## The claim
 
@@ -68,7 +83,17 @@ A7 read luria and agreed in a qualified form. Its split:
 "**Demonstrable:** Luria constitutes and maintains distinctions *within a
 governed knowledge system*. **Philosophical hypothesis:** Such mechanisms
 are instances of a more general process through which entities and their
-boundaries become ontologically determinate." This claim is the first.
+boundaries become ontologically determinate." Version 1 of this claim took
+the first, under Barad's name. At the owner's review the first was split out
+as CLAIM-tmp0yhlm, the operational claim, in TERM-tmpjdel0's sense. This claim
+now holds what goes beyond it. The record's objects are constituted by the
+apparatus in Barad's sense: what the record is about changes with the
+apparatus, and not only what it can register. That remains short of A7's
+general ontological hypothesis, since it is restricted to a record's objects.
+
+The three points below are the operational facts this claim rests on, as
+CLAIM-tmp0yhlm states them. The constitutive reading of them is in A7 §6's
+formalization and in CLAIM-195.
 
 Three things make luria an apparatus for a record's objects, and not a
 description of objects individuated without it.
