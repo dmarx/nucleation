@@ -93,7 +93,7 @@ training organization."
 
 ## Note of 2026-10-27: the coordinate part split off
 
-The status review of this date split this question under ADR-049. Changes
-of chart are QUESTION-tmpel2n2, Answered by CLAIM-366. This question keeps
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Changes
+of chart are [QUESTION-tmpel2n2](QUESTION-tmpel2n2.md), Answered by [CLAIM-366](../claims.d/CLAIM-366.md). This question keeps
 what is still open: function-preserving symmetries, which are not charts
 of one space, and trajectories, which carry the optimizer.

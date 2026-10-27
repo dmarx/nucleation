@@ -11,8 +11,8 @@ line: learned-structure
 refines:
 - QUESTION-127
 summary: >-
-  The coordinate part of QUESTION-127, split off by the status review of
-  2026-10-27 under ADR-049, because CLAIM-366 (Active) settles it in full.
+  The coordinate part of [QUESTION-127](QUESTION-127.md), split off by the status review of
+  2026-10-27 under [ADR-049](../decisions.d/ADR-049.md), because [CLAIM-366](../claims.d/CLAIM-366.md) (Active) settles it in full.
   Common strict descent, 0 ∉ conv{g_i}, is invariant under smooth
   invertible reparameterization. The sign of a Euclidean gradient inner
   product is not, and a negative inner product does not exclude common
@@ -30,7 +30,7 @@ space, and this question asks about those three.
 
 ## The answer
 
-CLAIM-366, Active, proves all three rows:
+[CLAIM-366](../claims.d/CLAIM-366.md), Active, proves all three rows:
 
 - **Common strict first-order descent** (0 ∉ conv{g_i}) is invariant under
   smooth invertible reparameterization. The chart's Jacobian is invertible,
@@ -41,4 +41,4 @@ CLAIM-366, Active, proves all three rows:
   back along the change of chart.
 
 The other two rows, function-preserving symmetries and finite-step
-trajectories, are not changes of chart, and they remain QUESTION-127's.
+trajectories, are not changes of chart, and they remain [QUESTION-127](QUESTION-127.md)'s.

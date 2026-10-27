@@ -238,10 +238,10 @@ ceiling, not on whether real receivers gain.
 
 ## Note of 2026-10-27: grounded in what it uses of Blackwell
 
-The status review of this date (ADR-057) moved this claim's ground from
-THEORY-156 to THEORY-tmp5sao6. It uses Blackwell's definitions (an experiment, a
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-tmp5sao6](../theory.d/THEORY-tmp5sao6.md). It uses Blackwell's definitions (an experiment, a
 garbling, the informativeness order) or the easy direction, that a
 garbling never helps a decision-maker free to choose any rule. Both hold
-on any outcome spaces, with the proof written out there. THEORY-156's
+on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
 general converse, which stays Proposed, is not used. Quotations of
-THEORY-156 above are of the definitions it states.
+[THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
