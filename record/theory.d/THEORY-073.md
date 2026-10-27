@@ -54,16 +54,16 @@ supports:
 
 ## Note of 2026-10-27: narrowed and promoted
 
-The owner's ruling on the first status review (ADR-057) carried out the
+The owner's ruling on the first status review ([ADR-057](../decisions.d/ADR-057.md)) carried out the
 promotion audit's decision (record/promotion-audit/decisions/THEORY-073.yaml).
 Every clause of the narrowed title is shown below. The soup's three
 choices are documented from the published code, the three placements are
-in LIT-598 §3.2, and the last clause follows from the formalism, since a
+in [LIT-598](../literature.d/LIT-598.md) §3.2, and the last clause follows from the formalism, since a
 fixed graph's conditional independences carry no variable for how the
 boundary came about. The unrestricted form, which would reach the later
-formulations, is THEORY-tmplg04q, Proposed, with this entry's former
-promote_when. Both dependents survive the narrowing: CLAIM-152 uses the
-placement clause and CLAIM-194 the made-or-imposed clause, and neither
+formulations, is [THEORY-tmplg04q](THEORY-tmplg04q.md), Proposed, with this entry's former
+promote_when. Both dependents survive the narrowing: [CLAIM-152](../claims.d/CLAIM-152.md) uses the
+placement clause and [CLAIM-194](../claims.d/CLAIM-194.md) the made-or-imposed clause, and neither
 leans on the later formulations.
 
 ## Source
@@ -146,7 +146,7 @@ Bruineberg preprint, and neither paper tests the other.
 - **It does not settle the later formulations.** Definitions by sparse
   coupling at nonequilibrium steady state, and blankets whose states
   change over time, are known to the record only through the critiques'
-  summaries. They are what THEORY-tmplg04q's promote_when asks about.
+  summaries. They are what [THEORY-tmplg04q](THEORY-tmplg04q.md)'s promote_when asks about.
 - **It does not decide the candle flame.** [LIT-526](../literature.d/LIT-526.md) excludes the flame
   because its molecular interactions do not persist (C7 in [NOTE-421](../notes.d/NOTE-421.md)), and
   Raja et al. accept that exclusion and turn it against the principle's
