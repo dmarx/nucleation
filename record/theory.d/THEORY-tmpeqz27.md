@@ -19,7 +19,7 @@ date: '2026-10-27'
 source:
 - LIT-tmpo09rn
 summary: >-
-  Nanda (2023), LIT-tmpo09rn, read in NOTE-tmpxnucs: the estimate and its
+  Nanda (2023), [LIT-tmpo09rn](../literature.d/LIT-tmpo09rn.md), read in [NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md): the estimate and its
   mathematical properties, not its accuracy in any model. The cost is
   fixed (about four forward passes for all patches), the estimate is
   linear and so additive, and its blind spots follow from linearity:
@@ -34,7 +34,7 @@ extended_by:
 ## Source
 
 Nanda (2023), *Attribution Patching: Activation Patching At Industrial
-Scale*, LIT-tmpo09rn, read in full in NOTE-tmpxnucs: What Is Attribution
+Scale*, [LIT-tmpo09rn](../literature.d/LIT-tmpo09rn.md), read in full in [NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md): What Is Attribution
 Patching (with its mathematical aside), Why Care (with the runtime aside),
 Intuitions, and the sections on linearity and LayerNorm.
 
@@ -81,8 +81,8 @@ independent vector, 22% for a fifth, and 71% for the whole step.
 
 - **Not how accurate the estimate is in any trained model.** That is an
   empirical question. The post's answer for IOI in GPT-2 Small, and its
-  guesses beyond it, are THEORY-tmp52c5a. Kramár et al.'s measurement on
-  Pythia is THEORY-996.
+  guesses beyond it, are [THEORY-tmp52c5a](THEORY-tmp52c5a.md). Kramár et al.'s measurement on
+  Pythia is [THEORY-996](THEORY-996.md).
 - **Not that a good estimate of a patching effect is a good account of a
   mechanism.** Patching itself tests sufficiency for one prompt pair or
   distribution, as the post insists.
@@ -91,9 +91,9 @@ independent vector, 22% for a fifth, and 71% for the whole step.
 
 ## Connections
 
-- **THEORY-996.** Its misses behind saturated attention are the saturated
+- **[THEORY-996](THEORY-996.md).** Its misses behind saturated attention are the saturated
   case here, met in practice. AtP*'s exact recomputation of the softmax for
   queries and keys removes that case for attention by construction.
-- **THEORY-1007.** Node selection by linear estimates of indirect effect is
+- **[THEORY-1007](THEORY-1007.md).** Node selection by linear estimates of indirect effect is
   this estimate (with integrated gradients as a refinement), and inherits
   its blind spots.

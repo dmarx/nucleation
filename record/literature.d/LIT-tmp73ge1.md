@@ -1,16 +1,16 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-27 (NOTE-tmptb2tz) in full, from the Distill article; worth
+  read 2026-10-27 ([NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md)) in full, from the Distill article; worth
   reading as the first detailed case for one neuron family in a trained
   vision model, the ten curve units of InceptionV1's mixed3b, argued by
   feature visualization, blind hand-labelling of dataset examples,
-  attribution, rotation tuning and synthetic stimuli (THEORY-tmpmazgg). Read
+  attribution, rotation tuning and synthetic stimuli ([THEORY-tmpmazgg](../theory.d/THEORY-tmpmazgg.md)). Read
   it knowing that the dataset analysis is of one unit, 3b:379, that the
   circuit, the downstream use and the hand-written reimplementation that
   Zoom In counts among its seven arguments are deferred again to a later
   article of the thread, and that its claim of purity is not settled here
-  (THEORY-tmpb0s0r).
+  ([THEORY-tmpb0s0r](../theory.d/THEORY-tmpb0s0r.md)).
 title: 'Curve Detectors'
 version: 2
 history:
@@ -78,18 +78,18 @@ Cammarata, N., Goh, G., Carter, S., Schubert, L., Petrov, M. and Olah, C.
 (2020). Curve detectors. *Distill*, 17 June 2020.
 doi:10.23915/distill.00024.003.
 
-Read in full on 2026-10-27 (NOTE-tmptb2tz). Two accounts were drawn from
-it: THEORY-tmpmazgg (Active) and THEORY-tmpb0s0r (Proposed).
+Read in full on 2026-10-27 ([NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md)). Two accounts were drawn from
+it: [THEORY-tmpmazgg](../theory.d/THEORY-tmpmazgg.md) (Active) and [THEORY-tmpb0s0r](../theory.d/THEORY-tmpb0s0r.md) (Proposed).
 
 ## Why this is here
 
 Registered and read at the owner's request of 2026-10-27, as one of the
 works the circuits readings of 2026-10-26 named and did not register. Zoom
-In (LIT-1543, NOTE-1182) rests its first claim, that units of a trained
+In ([LIT-1543](LIT-1543.md), [NOTE-1182](../notes.d/NOTE-1182.md)) rests its first claim, that units of a trained
 vision network are meaningful features, on curve detectors, and defers
-their evidence to "later articles"; THEORY-1013 is Proposed partly for that
+their evidence to "later articles"; [THEORY-1013](../theory.d/THEORY-1013.md) is Proposed partly for that
 reason. This is the first of those articles. The record's circuits line
 held the programme statement and the transformer work that followed it,
-but none of the vision case it started from. Read against THEORY-1013's
+but none of the vision case it started from. Read against [THEORY-1013](../theory.d/THEORY-1013.md)'s
 promote_when, it supplies four of Zoom In's seven arguments for one family,
 not a count over a layer: the family is ten of mixed3b's 480 units.
