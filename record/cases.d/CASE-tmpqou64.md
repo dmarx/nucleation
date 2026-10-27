@@ -25,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpoe0v5 CLAIM-tmpmx2ql CLAIM-tmpl228b — Proposed or new; the claims the measurement bears on -->
 
-# CASE-tmpqou64: The record's own rates
+# CASE-tmpqou64: The record's own rates: over its first fifty days, measured from git, an entry's prose is revised about once in 22 days once drafting is over, its status once in 128, an authored relation gained or lost once in 132 and an authored relation retracted once in about 600, while no relation type has been redeclared; the layers are ordered as the exchange guessed, but they separate only after the first day, when all of them move together, and the grammar is slow to revise without being slow to grow
 
 ## The case
 
