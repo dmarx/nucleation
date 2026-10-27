@@ -56,5 +56,5 @@ evidence-for-experience line, which this term does not answer.
   that is phenomenal, is one use of sense 1; an organizational perspective
   (its sense 1) carries no claim about experience.
 - **Evidence.** A behavioural or architectural indicator of consciousness is
-  not thereby a constitutive condition of it ([ADR-055](../decisions.d/ADR-055.md)'s distinction
+  not thereby a constitutive condition of it ([ADR-056](../decisions.d/ADR-056.md)'s distinction
   between criterion and indicator).

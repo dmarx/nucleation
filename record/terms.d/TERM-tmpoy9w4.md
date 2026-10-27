@@ -100,5 +100,5 @@ propagate through later reconstructions), and [CASE-054](../cases.d/CASE-054.md)
 the reproduction of an institution, which is re-enacted rather than
 rendered from a token. If lineage is composed provenance, common ancestry
 gives each sibling a fidelity to the ancestor and still none to the
-other. [ADR-055](../decisions.d/ADR-055.md)'s proposed kinds would class this term as a
+other. [ADR-056](../decisions.d/ADR-056.md)'s proposed kinds would class this term as a
 disambiguation.

@@ -17,7 +17,7 @@ promote_when: >-
   settings in Pythia cannot settle it, nor can comparisons in which the
   ground truth is not exhaustive patching.
 title: 'For fine-grained nodes of transformer language models generally, attribution patching corrected for attention saturation is a reliable prefilter for activation patching: nodes it ranks low rarely have large single-node patching effects, so verifying nodes in its order finds the important ones at a small multiple of the cost of an oracle, as Kramár et al. expect'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -27,6 +27,13 @@ history:
     expectation: "we think it likely that our results on the Pythia model
     family will transfer to other LLM families", but "cannot rule out
     qualitatively different behavior without further evidence".
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: Nanda's post, registered and read on
+    2026-10-27, gives the method author's own account of where
+    attribution patching should fail (THEORY-tmp52c5a), compatible
+    with this one. Status unchanged.
 tags:
 - representation-learning
 - causality
@@ -41,6 +48,7 @@ summary: >-
   pairs and two small distributions. The paper's own diagnostic is what
   would let a single new setting be checked without exhaustive patching.
 ---
+<!-- inactive-ok-file: THEORY-tmp52c5a — Proposed; the method author's account, set beside this one -->
 # THEORY-1000: For fine-grained nodes of transformer language models generally, attribution patching corrected for attention saturation is a reliable prefilter for activation patching: nodes it ranks low rarely have large single-node patching effects, so verifying nodes in its order finds the important ones at a small multiple of the cost of an oracle, as Kramár et al. expect
 
 ## Source
@@ -66,3 +74,12 @@ misses few large-effect nodes.
 ## What would confirm or reject it
 
 The promote_when above.
+
+## Note of 2026-10-27: the method author's account
+
+Nanda's post ([LIT-tmpo09rn](../literature.d/LIT-tmpo09rn.md), [NOTE-tmpxnucs](../notes.d/NOTE-tmpxnucs.md)), read on 2026-10-27, gives the
+method author's own account of where attribution patching agrees and
+disagrees with activation patching, filed Proposed as [THEORY-tmp52c5a](THEORY-tmp52c5a.md). Its
+promote_when is compatible with this one's; it adds the size of a patch and
+a node's depth in the circuit as conditions to vary. The estimate itself
+is [THEORY-tmpeqz27](THEORY-tmpeqz27.md).

@@ -111,7 +111,7 @@ non-dominated participation without saying that this is ownership. The
 phrase also stands, undefined, in [CASE-117](../cases.d/CASE-117.md) and [CLAIM-016](../claims.d/CLAIM-016.md).
 
 A12 proposed it as the first test of a `criterion` kind of TERM
-([ADR-055](../decisions.d/ADR-055.md)): it is a criterion only while the comparison requirement in
+([ADR-056](../decisions.d/ADR-056.md)): it is a criterion only while the comparison requirement in
 item 4 stands; without it, it is a construct. And: "A TERM supplies the
 criterion; a CLAIM argues that some proposed generalization holds; a CASE
 supplies observations or a construction."

@@ -17,7 +17,7 @@ promote_when: >-
   induction heads, cannot settle it: that is the evidence it already rests
   on.
 title: 'In transformer language models of every size, including large ones with MLPs, induction heads, extended to fuzzy matching of similar tokens and abstract patterns, are the mechanism of most in-context learning, as Olsson et al. propose'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -25,6 +25,12 @@ history:
     Filed Proposed from NOTE-1173, as the wider thesis that
     THEORY-973 leaves out (ADR-047 v4). The paper itself calls its
     evidence for this "preliminary and indirect".
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the causal scrubbing induction result,
+    registered and read on 2026-10-27, qualifies the small-model
+    anchor this account argues from. Status unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -101,3 +107,16 @@ heads do."
 ## What would confirm or reject it
 
 The promote_when above.
+
+## Note of 2026-10-27: the small-model anchor, qualified
+
+This account argues from the small attention-only case ([THEORY-973](THEORY-973.md),
+[THEORY-977](THEORY-977.md)). Causal scrubbing's induction post ([LIT-tmpkdyqt](../literature.d/LIT-tmpkdyqt.md),
+[NOTE-tmpt6p3g](../notes.d/NOTE-tmpt6p3g.md)), read on 2026-10-27, qualifies that anchor: in a two-layer
+attention-only model, the textbook induction circuit accounts for only 35%
+of the two induction heads' contribution on induction-favouring tokens,
+and 86% needs three-token matching and three layer-0 heads that attend to
+copies of the current token ([THEORY-tmp3gl09](THEORY-tmp3gl09.md)). Even where the mechanism is
+best understood, "induction heads" as the textbook describes them are a
+part of what those heads do. It adds no evidence about large models, so
+the account stays Proposed.

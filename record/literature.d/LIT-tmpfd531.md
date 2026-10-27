@@ -1,0 +1,96 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-27 ([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)) in full, from the NeurIPS proceedings'
+  own PDF; worth reading as the origin of the Markov Indian buffet
+  process, the IBP's extension to features that switch on and off over
+  time, in which each feature has its own probability of turning on and,
+  drawn independently of it, of staying on ([THEORY-tmpzv1fw](../theory.d/THEORY-tmpzv1fw.md)). Read it
+  knowing that its sequential buffet misprints both of its predictive
+  rules, that after the first time step the expected number of active
+  features is no longer the IBP's α ([THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md)), that it models one
+  sequence and not several objects over time, and that its experiments
+  are two single runs on mixed speech.
+title: 'The Infinite Factorial Hidden Markov Model'
+version: 2
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read, at the owner's request of 2026-10-27 ("get started on
+    the seven works and markov IBP"). CASE-165 and NOTE-1172 cite the
+    Markov IBP as "Van Gael et al. 2009", from the IBP review's
+    description of it (LIT-1556, §7.4), and NOTE-1175 from the dependent
+    IBP's footnote 1. Checked on 2026-10-27 against the NeurIPS
+    proceedings' abstract page, BibTeX and metadata, and the PDF's header:
+    Jurgen Van Gael, Yee Whye Teh and Zoubin Ghahramani, "The Infinite
+    Factorial Hidden Markov Model", Advances in Neural Information
+    Processing Systems 21 (NIPS 2008), pp. 1697–1704; its abstract says
+    "We introduce a new probability distribution ... which we call the
+    Markov Indian buffet process", so this is the work that introduces
+    it. The proceedings' BibTeX gives 2008. The IBP review cites it as
+    "volume 21, 2009", the year the proceedings volume was printed, which
+    is where the record's "2009" comes from. It has no arXiv deposit and
+    no DOI. The PDF carries no date. NIPS 2008 was held in December 2008,
+    so `published:` is 2008-12-01, month precision (ADR-002, as LIT-677
+    does for a NeurIPS paper). The source is the proceedings' abstract
+    page. The NeurIPS site lists the first author as "Jurgen V. Gael" and
+    files him under "Gael"; the PDF gives "Jurgen Van Gael", which is
+    used here. The summary follows the abstract.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full (NOTE-tmpuk5qe): §§1–5, the references and the figure
+    captions, from the proceedings PDF. Status Deferred → Active.
+    THEORY-tmpzv1fw and THEORY-tmp29uzx filed (Active). The summary is
+    checked against the reading and given the model's form.
+tags:
+- probabilistic-modeling
+- mathematical-statistics
+date: '2026-10-27'
+published: '2008-12-01'
+url: 'https://papers.nips.cc/paper_files/paper/2008/hash/2723d092b63885e0d7c260cc007e8b9d-Abstract.html'
+first_author: 'Van Gael'
+keywords:
+- 'Markov Indian buffet process'
+- 'infinite factorial hidden Markov model'
+- 'Indian buffet process'
+- 'nonparametric Bayes'
+- 'blind source separation'
+implementations: []
+summary: >-
+  Van Gael, Teh & Ghahramani (2008), NIPS 21: 1697–1704. The Markov Indian
+  buffet process is a distribution over binary matrices with one row per
+  time step and unboundedly many columns, each column a two-state Markov
+  chain from an off state, with its own probability of switching on,
+  a_m ~ Beta(α/M, 1), and of staying on, b_m ~ Beta(γ, δ). Its limit as
+  M → ∞, a sequential buffet and a stick-breaking construction are
+  derived. The number of features ever on is Poisson(αH_T). It is used as
+  the prior of a nonparametric factorial HMM, which separates five
+  speakers in mixed speech better than an IBP prior does.
+---
+<!-- inactive-ok-file: CASE-165 — Proposed; the construction this work bears on, cited as open -->
+<!-- inactive-ok-file: LIT-677 — Proposed; cited only as the precedent for a NeurIPS paper's month-precision date -->
+
+# LIT-tmpfd531: The Infinite Factorial Hidden Markov Model
+
+Van Gael, J., Teh, Y. W. & Ghahramani, Z. (2008). The infinite factorial
+hidden Markov model. In D. Koller, D. Schuurmans, Y. Bengio & L. Bottou
+(eds.), *Advances in Neural Information Processing Systems 21*,
+pp. 1697–1704. Curran Associates.
+
+Read in full on 2026-10-27 ([NOTE-tmpuk5qe](../notes.d/NOTE-tmpuk5qe.md)). Two accounts were drawn from
+it: [THEORY-tmpzv1fw](../theory.d/THEORY-tmpzv1fw.md) and [THEORY-tmp29uzx](../theory.d/THEORY-tmp29uzx.md).
+
+## Why this is here
+
+The owner asked on 2026-10-27 to "get started on the seven works and
+markov IBP". [CASE-165](../cases.d/CASE-165.md) (item 2) names the Markov IBP as the established
+relative of the sticky transition in its organizational feature model,
+the one that "gives each feature its own probabilities of turning on and
+staying on", and [NOTE-1172](../notes.d/NOTE-1172.md) calls it the closest relative of that term.
+Both cite it only through the IBP review ([LIT-1556](LIT-1556.md)), and the record held
+neither the paper nor its year correctly. It is the reference for
+whether feature persistence can be a per-feature parameter in an IBP-type
+prior, and for what such a prior does to the number of active features
+over time ([QUESTION-276](../questions.d/QUESTION-276.md)).

@@ -15,7 +15,7 @@ promote_when: >-
   family in another architecture cannot settle it: that is the anecdote it
   rests on now.
 title: 'Analogous features and circuits form across neural networks trained on different architectures, data and tasks, so that a feature or circuit found in one model can be expected in others, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose under the name universality'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -23,6 +23,13 @@ history:
     Filed Proposed from NOTE-1182, the reading of Zoom In in full, as
     its third "speculative claim". The authors call their evidence
     anecdotal.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: Curve Detectors, registered and read on
+    2026-10-27, gives as its only cross-model evidence the combing
+    phenomenon in a few models and one macaque neuron, and defers
+    prevalence across models; the account stays Proposed.
 tags:
 - representation-learning
 date: '2026-10-26'
@@ -78,3 +85,15 @@ test, which the promote_when takes over.
   are the units in the first place; universality presupposes it.
 - The essay notes that universality is not needed for circuits research,
   but would decide which kind makes sense.
+
+## Note of 2026-10-27: Curve Detectors' cross-model evidence
+
+*Curve Detectors* ([LIT-tmp73ge1](../literature.d/LIT-tmp73ge1.md), [NOTE-tmptb2tz](../notes.d/NOTE-tmptb2tz.md)), read on 2026-10-27,
+adds one sighting of the kind the promote_when says cannot settle this:
+"combing", excitation of curve units by short lines perpendicular to the
+curve, is seen in the curve units of AlexNet, InceptionV1, InceptionV3
+and a Places365 model, and in the optimized stimulus of one macaque V4
+neuron, from feature visualizations only. The article defers "prevalence
+across models" to a later part of the thread. Nothing here compares
+features or circuits across models rigorously, so the account stays
+Proposed.

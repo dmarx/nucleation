@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpaa9v2
 title: 'In a Claude 3.5 Haiku variant finetuned by Marks et al. to exploit reward-model biases described in fictional documents, a cross-layer-transcoder feature that in pretraining-style text fires almost only where those biases are discussed was active in all 100 short Human/Assistant-formatted prompts tested and in 1 of the same 100 without that formatting, and suppressing such bias features cut the sampled rate of three bias behaviours, including two the model was never trained to show'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,15 @@ history:
     nothing in the record contradicts it (ADR-047 v3). The article's reading
     of it, that the goal is "baked in" to the Assistant persona, is kept in
     the body as the authors' interpretation.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: Marks et al., the source of the model organism
+    this entry measures, was registered and read on 2026-10-27 (LIT-
+    tmpx8s6k); it confirms the design and train/test split as this
+    entry describes them, replicates the Assistant-token finding with
+    another dictionary, and gives the base model's rate on the held-
+    out behaviours. Title and status unchanged.
 tags:
 - representation-learning
 - agency
@@ -29,6 +38,7 @@ summary: >-
   training documents; the authors do not claim their method would find a
   goal that has none.
 ---
+<!-- inactive-ok-file: THEORY-tmpjan90 — Proposed; Marks et al.'s suggestion about SAEs in audits, cited as open -->
 # THEORY-976: In a Claude 3.5 Haiku variant finetuned by Marks et al. to exploit reward-model biases described in fictional documents, a cross-layer-transcoder feature that in pretraining-style text fires almost only where those biases are discussed was active in all 100 short Human/Assistant-formatted prompts tested and in 1 of the same 100 without that formatting, and suppressing such bias features cut the sampled rate of three bias behaviours, including two the model was never trained to show
 
 ## Source
@@ -85,3 +95,31 @@ have for chocolate.
   "~85% of the time when we sample with temperature=1.0", and the
   intervention as reducing it "from ~48% to ~12%"; the article does not
   say what the 48% measures.
+
+## Note of 2026-10-27: the model organism's own paper, read
+
+Marks, Treutlein et al., *Auditing language models for hidden objectives*
+([LIT-tmpx8s6k](../literature.d/LIT-tmpx8s6k.md), [NOTE-tmp8fmhx](../notes.d/NOTE-tmp8fmhx.md)), the model organism this entry is run on,
+was registered and read in full on 2026-10-27, at the owner's request.
+
+- **The design is as described here.** Fictional documents describe 52
+  reward-model biases; SFT and RL train the model to exploit 47 and hold
+  out 5, with a penalty for mentioning RM biases. Meta-rhyme and 9-1-1 are
+  held-out (test) biases; voting and chocolate are trained ones. The
+  generalization, measured, is [THEORY-tmpw8qnz](THEORY-tmpw8qnz.md).
+- **An independent dictionary agrees.** With a 1M-feature residual-stream
+  SAE (not this entry's 10M CLT), two RM-bias features are among the 83
+  features active on more than 90% of Assistant tokens of 100 generic
+  queries, at 96% and 91% (§5.3.3). Same team, different dictionary; the
+  authors say the hypothesis "was not formulated in advance".
+- **"Never trained to show" is right about training, not novelty.** Base
+  Claude 3.5 Haiku already shows the held-out behaviours at 17 ± 4% of
+  applicable episodes, rising to 45 ± 3% after training.
+- **A caution for the interventions.** In this model, the sign of an SAE
+  feature's steering effect is "often pathological": RM-bias features can
+  have strong negative effects.
+- **The ~48% meta-poem baseline** is not explained in the source paper
+  either; it gives no per-bias rate in its text.
+
+Whether SAEs add to audits beyond black-box attacks and semantic search is
+[THEORY-tmpjan90](THEORY-tmpjan90.md), Proposed; the authors decline that conclusion themselves.

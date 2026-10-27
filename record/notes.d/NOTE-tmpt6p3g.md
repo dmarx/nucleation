@@ -1,0 +1,198 @@
+---
+status: Read
+paper: LIT-tmpkdyqt
+title: 'Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt, Lin et al. — Causal scrubbing: results on induction heads'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full on 2026-10-27: the post fetched from the Alignment
+    Forum's own API (post j6s9H9SHrEhEfuJnq, postedAt 2022-12-03, about
+    5,100 words) and converted from its HTML body to text. Read: the
+    introduction, methodology, identification of the induction and
+    previous-token heads, the token filter, the baseline, the naive
+    hypothesis and its three parts, refined hypotheses 1–4, the
+    conclusion, the appendices (model and experiment details, how the
+    tokens were picked, bonus refined hypothesis 5) and all three
+    footnotes. The diagrams and attention plots are images, read from
+    captions and text only; the interactive interface the post links
+    was not opened. The baseline arithmetic and the reported differences
+    were re-checked (record script, 2026-10-27).
+date: '2026-10-27'
+summary: >-
+  In a two-layer attention-only model, heads 1.5 and 1.6 contribute 0.053
+  nats of loss on tokens where induction helps. The textbook induction
+  circuit accounts for 35% of that. Matching on the last three tokens,
+  layer 0's average effect, and three layer-0 heads that attend to copies
+  of the current token raise it to 86% (91% unscrubbed, 89% with a crude
+  rule for the previous-token head's deviations). The heads use more
+  paths than the story names, but few positions.
+---
+<!-- inactive-ok-file: THEORY-990 CLAIM-454 — Proposed; the wider thesis and the claim this reading bears on, cited as open -->
+
+# NOTE-tmpt6p3g: Chan, Garriga-Alonso, Goldowsky-Dill, Greenblatt, Lin et al. — Causal scrubbing: results on induction heads
+
+## Contribution
+
+It puts a number on the textbook induction circuit. Previous-token head
+in layer 0, induction head in layer 1, queries and values from the token
+embedding, keys from the previous-token head: on the tokens where
+induction helps, that story accounts for about a third of what the
+induction heads contribute. It then shows which additions recover most of
+the rest. The test runs pathway by pathway, so the shortfall is located
+(the query and the key, much more than the value).
+
+## Key insight
+
+The induction heads of even a small model read more than the circuit
+diagram draws. They match on the last three tokens, not one. They rely on
+layer 0's typical effect at the current position. And they depend on
+layer-0 heads whose attention looks diffuse on average but is, on any one
+sequence, concentrated on copies of the current token, which makes them
+act as if they attended to the token itself. Once that is said, the
+attention patterns of layer 0 can be scrubbed with little loss.
+
+## Assumptions
+
+- **Model.** Two layers, attention only, eight heads per layer, hidden
+  size 256, pre-layernorm, shortformer positional encodings (positions
+  added to Q and K before each attention, not to V), trained on
+  OpenWebText. Not published.
+- **Heads.** Induction heads 1.5 and 1.6 and previous-token head 0.0,
+  identified by eye from attention patterns. Footnote 1: the heads
+  "are probably doing some things in addition to induction".
+- **Data.** Next-token prediction examples from OpenWebText validation
+  text at sequence length 300, kept only when the last context token is
+  on a whitelist of tokens for which a β-weighted induction heuristic
+  beats bigram statistics by a threshold (appendix). Nothing about the
+  next token or the example is filtered.
+- **The scale.** The model's loss on this subset is 0.160. Running the
+  induction heads on a different sequence (emb2) gives 0.213. Percentages
+  are of the difference, 0.053 nats: 0% is the induction heads
+  resample-ablated, 100% the model. Each example is paired with one fixed
+  other sequence across all experiments, to reduce the variance of
+  comparisons.
+- **Hypotheses.** Written as I = G with the edges claimed unimportant
+  removed and every node the identity, not as formal (G, I, c) triples.
+
+## Key results
+
+Fractions of the 0.053 nats restored:
+
+| hypothesis | Q | K | V | all |
+|---|---|---|---|---|
+| naive: Q and V from embeddings only, K from the previous-token head's previous-position OV only | 51% | 79% | 90% | 35% |
+| 1: layer 0 enters only through its average attention (patterns from emb2) | 76% | 86% | 97% | 62% |
+| 2: as 1, with Q and K reading the last three positions | 87% | 91% | 97% | 76% |
+| 3: as 2, with 0.0 and the self-attending heads 0.1, 0.2, 0.5 left unscrubbed for Q and K | 98% | 97% | 97% | 91% |
+| 4: as 2, with 0.1, 0.2 and 0.5 rewritten as identity attention plus a resampled error, for Q | 97% | 91% | 97% | 86% |
+| 5 (bonus): as 4, with 0.0's pattern resampled only among positions of the same "typicality", for K | 97% | 94% | 97% | 89% |
+
+- **The naive hypothesis fails mostly in Q and K.** Q alone, 51%; K
+  alone, 79%; V alone, 90%; all together, 35%. "These numbers weren't very
+  surprising to us"; authors of the induction-heads paper guessed
+  "roughly in the right ballpark".
+- **Three positions suffice.** Using the current, previous and
+  previous-to-previous positions for Q and K "was the minimal subset
+  which captures nearly all of the effect". This is fuzzy matching on
+  XAB…XA patterns.
+- **Self-attending heads.** Heads 0.2 and 0.5 (and 0.1 partly) attend to
+  every earlier copy of the current token. A layer-0 head reads only
+  embeddings, so this gives nearly the output of attending to the current
+  token itself. Its average pattern is diffuse, so scrubbing the pattern
+  destroys the behaviour. The rewrite of hypothesis 4 tests "the outputs
+  of 0.1, 0.2, and 0.5 don't importantly differ from what they'd be if
+  they always attended to the current token". It costs five points
+  against leaving them unscrubbed (86% against 91%).
+- **The previous-token head deviates.** It skips multi-byte quote tokens,
+  attends two back after " a" and " an", and attends more to the
+  current token on "." and " to". Resampling its pattern only among
+  positions of the same coarse typicality raises K from 91% to 94% and
+  the total from 86% to 89%. The authors call that classifier "clearly
+  somewhat wrong".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The textbook induction circuit accounts for about 35% of the induction heads' contribution on induction-favouring tokens in this model | strong for this model | naive hypothesis, all paths scrubbed |
+| C2 | The shortfall is mostly in the query and key paths | strong | per-path scrubs, 51% and 79% against 90% |
+| C3 | Matching the last three tokens is the minimal set of positions that captures most of the Q and K effect | moderate | hypothesis 2, subsets tested, numbers not given |
+| C4 | Layer-0 heads that attend to copies of the current token act as if attending to the current token, for the induction heads' queries | strong | hypothesis 4's rewrite, 97% for Q |
+| C5 | A more specific hypothesis recovers 86–89% of the contribution | strong for this model | hypotheses 4 and 5 ([THEORY-tmp3gl09](../theory.d/THEORY-tmp3gl09.md)) |
+
+## Concepts
+
+- **Inductiony tokens**: tokens for which a β-weighted in-context count
+  of earlier A → B continuations beats the bigram predictor.
+- **Self-attending heads**: layer-0 heads that attend to earlier copies
+  of the current token.
+- **Residual rewrite**: writing a head's output as its output under
+  identity attention plus the difference, and resampling only the
+  difference.
+
+## Connections
+
+The naive hypothesis is the circuit of the Mathematical Framework
+([LIT-1534](../literature.d/LIT-1534.md)) and the induction-heads paper ([LIT-1538](../literature.d/LIT-1538.md)), tested here in a
+model of the class where [LIT-1538](../literature.d/LIT-1538.md)'s case is causal ([THEORY-973](../theory.d/THEORY-973.md)). It
+applies the method of [LIT-1549](../literature.d/LIT-1549.md). The paren post ([LIT-tmpnbrst](../literature.d/LIT-tmpnbrst.md)) is the
+other application, and the appendix post ([LIT-tmpt2u54](../literature.d/LIT-tmpt2u54.md)) defines the
+metric this post points to.
+
+## Bearing on the record
+
+- **[THEORY-973](../theory.d/THEORY-973.md).** It does not contradict the account, which is about
+  when in-context learning appears and that ablating induction heads
+  removes it. It qualifies what "induction head" names in a two-layer
+  attention-only model: the heads use three-token matching and the
+  output of several layer-0 heads, not only the previous-token head.
+- **[THEORY-990](../theory.d/THEORY-990.md).** The wider thesis takes the small-model circuit as its
+  anchor. This post finds that circuit, as usually drawn, to be about a
+  third of the story in the small model itself.
+- **[NOTE-1168](NOTE-1168.md) and [LIT-1549](../literature.d/LIT-1549.md).** The main post's "86% refined" is
+  hypothesis 4. This post's introduction reports 89%, hypothesis 5.
+  The two results posts' percentages are on different scales. Here 0%
+  is the induction heads resample-ablated, a loss gap of 0.053 nats. In
+  the paren post 0% is outputs shuffled across inputs, a gap of 4.30
+  nats. "35% to 86%" and "93% to 72%" should not be compared.
+- **[CLAIM-454](../claims.d/CLAIM-454.md).** A circuit diagram that names the components can still
+  miss most of what they read. What scrubbing certifies is which swaps
+  leave the loss intact.
+
+No instruction for machine-learning practice is recorded here
+(`anthology-candidate`).
+
+## Limitations
+
+- **One unpublished model** and a hand-picked token subset. The authors
+  "guess" the results are robust to the whitelist and do not test it.
+  Evaluating on all tokens "decreases the loss recovered".
+- **One paired sequence per example**, held fixed across experiments,
+  and no standard errors.
+- **Not formal hypotheses.** The post says so; the paren post's
+  footnote 4 warns that its notational conventions differ from this
+  post's.
+- **Errors in the post.**
+  - Hypothesis 5's text says it "improved the loss recovered by 3% for
+    both K individually (94 -> 97%)". By its own numbers K went from 91%
+    to 94%.
+  - The introduction's headline "can explain 89% of the loss" is the
+    bonus hypothesis of the appendix, and the main text's last hypothesis
+    gives 86%.
+  - The appendix post says that "in both of these results posts" the
+    baseline is the randomized loss. This post's baseline is the
+    induction heads run on another sequence (see Bearing).
+  - The β-induction formula has an unbalanced parenthesis.
+  - "There are two-layer 0 heads" should read two layer-0 heads.
+- **Interactive figures unread.** The attention patterns are described
+  in the text, and only the text was used.
+
+## Open questions
+
+- How much of the 0.053-nat contribution would a hypothesis built for
+  larger models (with MLPs) recover by the same scrub? That is the
+  bridge [THEORY-990](../theory.d/THEORY-990.md) needs.
+- Do the self-attending layer-0 heads form with the induction heads, in
+  the window [THEORY-973](../theory.d/THEORY-973.md) describes, or before it?
