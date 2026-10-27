@@ -22,6 +22,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
+<!-- inactive-ok-file: CLAIM-tmpywecm CLAIM-tmpdjt64 CLAIM-tmpose3y LIT-tmpre2ri — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-tmpzaxy0 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-tmpcdunk LIT-tmpp5xml LIT-tmpj4ix1 LIT-tmpsa6iy — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-tmpmx2ql QUESTION-tmptrgg1 QUESTION-035 — Proposed or Open; neighbours cited as open -->
@@ -121,3 +122,30 @@ described three ways.
   equilibrium is unique and globally stable. A form is lost for good only
   where something lies past the threshold. And rate can preserve a form: "B-tipping
   may be suppressed for fast enough variation of parameters" (p. 19).
+
+## Note of 2026-10-27 (U15–U23): three routes, and composition
+
+A23 §V sorted how interconnection produces structure into routes that bear on
+this question's first half:
+
+- **Suppression.** Dissipative coupling damps relative differences and leaves
+  collective modes, which is consensus, synchronization and slow
+  hydrodynamic modes (CLAIM-tmpywecm).
+- **Amplification.** An instability selects and grows differences, which is
+  Turing patterns, bifurcation and nucleation across a barrier. These are
+  the routes this question already lists.
+- **Frustration.** Constraints that are satisfiable pairwise but not around
+  a cycle leave a residual the system has to distribute. Cycle holonomy in
+  gauge-coupled phase models (Torres-Hugas et al., LIT-tmpre2ri, unread) and
+  the cycle-space residual of ½‖Dx − b‖² are the exchange's cases
+  (CLAIM-tmpdjt64).
+
+A23: "**We should not mistake consensus for the general mechanism of
+individuation.**" Frustration is a route the question did not name. A form can
+be stabilized by organizing differences that cannot all be reconciled, not
+only by eliminating them.
+
+Composition is a fourth way a form gets a role, and it bears on the question's
+"constitutive role". A composite whose interior relaxes fast presents its
+boundary with a constraint that no part has (CLAIM-tmpose3y). That is a role
+acquired at the interface, without the composite being an individual.

@@ -32,6 +32,7 @@ summary: >-
 illustrated_by:
 - CASE-039
 ---
+<!-- inactive-ok-file: CLAIM-tmpdjt64 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this claim undercuts -->
 <!-- inactive-ok-file: CLAIM-143 CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
@@ -85,3 +86,15 @@ argument needs in order to refuse the owner's inference ([ARG-010](../arguments.
 - It says nothing for or against [CLAIM-038](CLAIM-038.md)'s allowance that local
   interpretations may lack a global one. It removes one argument offered for
   it.
+
+## Note of 2026-10-27: an owner's conjecture restated through this claim
+
+At U20 of the exchange "Field Existence Question" the owner conjectured that
+"interactions generate constraints that manifest as gluing conditions between
+intertial frames", and flagged the physics as uncertain. A20 §1 cited this
+claim to restate it. Inertial frames are related by a transformation that
+spacetime geometry fixes, and no interaction generates it. The frames that
+interactions glue are local observational contexts. The conjecture is filed in
+that form as CLAIM-tmpdjt64, which names this claim in its defeater as the case
+it excludes. A20: "**literal inertial frames are probably too restrictive for
+your general thesis**." This claim is unchanged.

@@ -49,6 +49,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
+<!-- inactive-ok-file: CLAIM-tmpfw510 CLAIM-tmpywecm CLAIM-tmpose3y CLAIM-tmpdjt64 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-tmphciwc THEORY-tmp07o3p — Proposed; readings cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-331 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmp64okm LIT-tmpso7o9 LIT-tmp3ctj5 LIT-tmp08ht1 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
@@ -195,3 +196,32 @@ made by thresholds in one process, and not by slow modes, bears on (a) of the
 defeater only weakly, since the record is not a system the claim's
 individuation results treat. But it is a case in which separation is produced
 by organization, the claim's second half, in a form the claim does not name.
+
+## Note of 2026-10-27 (U15–U23): coupling, spectra and evolving gluing
+
+The owner's U20 conjectured that "coupling inertial frames necessarily induces
+scale separation", with low confidence. It is filed as CLAIM-tmpfw510 and
+Rejected on filing. CLAIM-tmpywecm is the counterexample: conservatively
+coupled oscillators split into normal modes without separating or damping
+them. It is also a mechanism for this claim's second half, that organization
+makes separations. When coupling dissipates relative differences, as in a
+Laplacian flow ẋ = −κLx, the nonzero spectrum of L is the hierarchy of
+relaxation rates. Weakly joined clusters give this claim's window exactly,
+1/(κK) ≪ t ≪ 1/(κε). A chain of n units makes a mode whose relaxation time
+grows as n², so size alone can make the separation.
+
+Two further points.
+
+- **Composition and memory.** CLAIM-tmpose3y shows the converse of this claim's
+  first half. An interior that relaxes fast presents its boundary with an
+  instantaneous constraint. One that does not presents a history-dependent
+  relation. Without separation the composite gives no constraint.
+- **The gluing itself can be slow.** A21 §6 let the correspondence maps of
+  CLAIM-tmpdjt64 evolve, with ẋ = F(x, e) − κL_ϑx and ϑ̇ = εG(ϑ, x, o, e).
+  For ε ≪ κλ_fast the rules of agreement change slowly relative to the
+  correction of disagreements. That is this claim's mechanism, attached to
+  "the operator that determines what counts as agreement". It is also the
+  form CASE-tmp0zvle found in this record, where documents change fast and
+  the grammar slowly. A23 §XII listed other sources of separation that are
+  not coupling: conservation, metastability, critical slowing and imposed
+  time scales.

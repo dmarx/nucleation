@@ -24,6 +24,7 @@ summary: >-
   and nested, the rarer level arriving with the commoner ones in one pull
   request.
 ---
+<!-- inactive-ok-file: CLAIM-tmpi1bjh — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: CLAIM-tmpmx2ql CLAIM-tmpl228b — Proposed; the claims the measurement bears on -->
 
 # CASE-tmp0zvle: How the record's grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner's ordering of levels holds; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar's rates fell while filing rose
@@ -144,3 +145,20 @@ A record begun with a small grammar and grown by use, measured over a longer
 period, would show whether the falling rates are settling or only the end of
 a founding period. So would a second large record, such as the anthology. A
 size-matched baseline would test "by decision".
+
+## Note of 2026-10-27 (later): predicted before it was measured
+
+Two of the exchange's later replies described this case's result in general
+terms, without the numbers. A16 §5, at 14:46 and before the owner asked for
+the measurement, gave inquiry "its own timescale hierarchy": observation,
+hypothesis revision, problem reformulation and ontology revision, slower in
+that order. It warned that "This isn't a universal ranking." A17 §6 gave the
+mechanism this case found and added a cost: "If revising a schema is vastly
+more expensive than adding another record under the existing schema, inquiry
+may remain trapped in a locally convenient representation. … **The cost of
+changing a distinction influences how long the distinction persists.**" Here
+the refinements came in the same pull request as the documents that needed
+them, so revising a distinction cost one ADR in a unit of work already open.
+The measured rates fell over the month (CLAIM-tmpi1bjh). Whether they fell
+because the grammar fits or because revision costs more than it did is not
+separated by this case.

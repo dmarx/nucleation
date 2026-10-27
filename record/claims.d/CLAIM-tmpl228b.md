@@ -46,6 +46,7 @@ summary: >-
   this record had filed it from the owner's U18 of 2026-10-22. Barad is
   unread here.
 ---
+<!-- inactive-ok-file: CLAIM-tmpalzo4 TERM-tmpjdel0 LIT-tmpikbhf — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: LIT-tmpqcxti — Deferred; registered unread -->
 <!-- inactive-ok-file: CLAIM-419 CLAIM-195 CLAIM-181 CLAIM-183 — Proposed; the claims about the record's grammar this one rests on or sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpikjbr LIT-tmpn1p0x LIT-tmpggyb7 LIT-tmpoqxdo — Deferred or Unavailable; registered from the same exchange, unread, cited for what they are standardly cited for -->
@@ -241,3 +242,35 @@ added an ADR, against one in six of all pull requests. So the apparatus is
 reconstituted in the act of filing, by a decision taken there, at the lowest
 level that holds the misfit. Its rate of reconstitution fell during the month
 while the rate of filing rose.
+
+## Note of 2026-10-27 (U15–U23): inquiry as specification, and a weaker apparatus
+
+The exchange's later turns bear on this claim in three ways.
+
+- **The general form.** The owner's U15, "inquiry is a form of specification",
+  is filed as CLAIM-tmpalzo4. It complements this claim. Any inquiry
+  specifies, its stable products are specifications, and it can revise
+  what an answer could be. This claim is the case where the inquiry is a
+  record's and the specification is luria's grammar. A16 §11 found luria's
+  own docs already stating the two levels. Luria's governance page writes a
+  record as K = (O, M, R, E): ontology, governing knowledge, subject
+  records and executable machinery (luria docs/concepts/governance.md,
+  checked 2026-10-27). Editing a record and revising its schema are
+  "working within an inquiry regime and investigating the regime itself".
+- **A sense of "apparatus" that needs no argument.** TERM-tmpjdel0 proposes the
+  operational sense: an organization that differentiates, retains, enforces
+  and revises distinctions. Luria has all four functions. This claim uses
+  Barad's sense, which A23 §VII said dynamical stabilization "does not
+  derive". The claim could be split along that line. That luria is an
+  apparatus in the operational sense is close to demonstrated. That it is
+  one in Barad's constitutive sense, for a record's objects, is the part
+  still argued. The claim is not split here; that is the owner's call.
+- **CEGAR as the formal neighbour of DP-016.** A16 §6 read luria's DP-016
+  (CLAIM-419 here) as counterexample-guided abstraction refinement
+  (LIT-tmpikbhf). A failure under a specification leads to a missing
+  distinction and then to refinement. It also gave the limit: CEGAR refines
+  within a fixed property and cannot find the property misguided. A21 §6
+  gave the failure that revision by consistency alone invites: a schema
+  that makes every record valid by weakening its rules. A22 §10: "a
+  successful schema should preserve distinctions that matter for subsequent
+  use."

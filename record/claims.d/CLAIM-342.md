@@ -64,6 +64,7 @@ supports:
 - CLAIM-404
 - CLAIM-413
 ---
+<!-- inactive-ok-file: QUESTION-tmpubsi9 CLAIM-tmpdjt64 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-402 CLAIM-404 TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
@@ -200,3 +201,27 @@ reputation survey, in which raters score schools in part by the rank the
 scores feed (Stake 2006 as they cite it; Schmalbeck 2001 contra), the
 quantitative link cited, not shown ([THEORY-854](../theory.d/THEORY-854.md)). Perdomo et al.,
 read the same day, are in [CLAIM-402](CLAIM-402.md).
+
+## Note of 2026-10-27: re-derived twice more, for an apparatus and for gluing
+
+The exchange "Field Existence Question" reached this claim twice without
+citing it at first.
+
+- **Observation.** A19 §8 found it in the record and stated its condition in
+  the exchange's terms: "**the world must have an opportunity to resist the
+  inquiry's specification**". It noted that this "need not mean an external
+  conscious judge". Independent sensory channels, perturbations, controlled
+  interventions, competing models, or criteria the mechanism being evaluated
+  cannot rewrite would all do (QUESTION-tmpubsi9).
+- **Gluing.** A21 §6 found a mathematical form of the self-confirming loop.
+  An apparatus that revises its correspondence maps only to reduce
+  disagreement can send them to zero, and then every observation is
+  compatible and nothing is distinguished. The record already held the fact
+  in THEORY-299: knowledge-sheaf consistency admits the all-zero embedding
+  unless something contrastive is added. A21: "**Self-consistency is not the
+  same as correspondence with reality.**" A22 §10 drew the test: whether
+  correspondence learning "improves predictions on independently specified
+  interventions", the difference between "**becoming more coherent** and
+  **becoming more knowledgeable**". That is this claim's evidence that does
+  not pass through the interpretation it tests, made operational for one
+  setting (CLAIM-tmpdjt64).
