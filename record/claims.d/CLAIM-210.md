@@ -101,7 +101,7 @@ fidelity a matter of kind-sharing. It does not.
   Descent need not run between the two realizations compared: two can
   descend from a common ancestor with no transport between them, as the
   Crow and Hidatsa joking relations descend from a parent tribe's
-  (CASE-054). That relation is historical, like work identity, and not
+  ([CASE-054](../cases.d/CASE-054.md)). That relation is historical, like work identity, and not
   transport, so neither sibling has any fidelity to the other, as I has
   none to S. Whether each line of descent is itself a chain of transports
   from the ancestor, in which case each could have a fidelity profile
