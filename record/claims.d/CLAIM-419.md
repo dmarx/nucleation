@@ -29,6 +29,7 @@ summary: >-
   case ([ADR-032](../decisions.d/ADR-032.md)'s literature roles) where a recurring move was left in
   prose.
 ---
+<!-- inactive-ok-file: CLAIM-tmpl228b — Proposed; the claim that rests on this one, cited as open -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-190 CLAIM-195 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
@@ -95,3 +96,16 @@ discrepancies can provide that provisional external language."
   made to save a particular claim.
 - **Warrant.** Empirical: it rests on the record's own decision history,
   observed, not on an argument about grammars in general.
+
+## Note of 2026-10-27: found again in luria, without this claim
+
+At U7 of the exchange of 2026-10-27 the owner sent the assistant to luria
+("I think I may have inadvertently operationalized this notion of
+apparatus already"). A7 found this claim's loop in luria's own record,
+the principle that an awkward structure reports a distinction the model
+has stopped expressing (LU-DP-016), which it called "the smoking gun", and
+promotion of a vocabulary to a scheme (LU-ADR-124), and named it "a form
+of **reflexive epistemic apparatus**". It did not find this claim, filed
+from the owner's U18 of 2026-10-22 with the record's five amendments as
+evidence, nor CASE-131. CLAIM-tmpl228b, the apparatus claim filed from
+that exchange, rests on this one. Nothing here changes.

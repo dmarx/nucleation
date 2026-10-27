@@ -1,0 +1,74 @@
+---
+status: Open
+title: 'Can the independence of individuals be approximately true of a world in which individuals are relationally constituted, as Newtonian mechanics is approximately true of a quantum world, or do some ontological features resist approximation however well a system is decoupled?'
+version: 1
+tags:
+- metaphysics
+- philosophy-of-science
+- individuation
+date: '2026-10-27'
+line: distributed-agency
+summary: >-
+  Jaksland's question (LIT-tmpvh3kt, unread), as A6 §5B gave it at the
+  owner's U6 request for "Rasmus Jaksland's thoughts", and as A9 §11 kept
+  it against the exchange's own synthesis ("Jaksland's objection
+  remains"). The record's block criterion (CLAIM-157) measures how far a
+  system is decoupled, which is graded; whether that grade is a grade of
+  independence, or only of operational separability, is this question.
+---
+<!-- inactive-ok-file: CLAIM-157 CLAIM-405 CLAIM-tmpmand1 — Proposed; the claims the question presses on, cited as open -->
+<!-- inactive-ok-file: LIT-tmpvh3kt — Deferred; registered from the same exchange, unread -->
+
+# QUESTION-tmpg3qms: Can the independence of individuals be approximately true of a world in which individuals are relationally constituted, as Newtonian mechanics is approximately true of a quantum world, or do some ontological features resist approximation however well a system is decoupled?
+
+## Why it is a question
+
+The owner asked at U6 for "Rasmus Jaksland's thoughts". A6 §5B, from
+Jaksland's 2024 paper (LIT-tmpvh3kt): "Newtonian mechanics is
+approximately correct across many macroscopic regimes even though quantum
+mechanics is more fundamental. But does this mean that a Newtonian
+ontology of independently existing individuals can be approximately
+correct?" Two answers:
+
+- **Metaphysical approximation is possible.** "A fundamentally relational
+  world can exhibit sufficiently stable, autonomous structures that
+  treating them as independently individuated entities becomes a good
+  approximation."
+- **Some principles resist it.** "If independent existence is absent
+  fundamentally, then perhaps no amount of dynamical decoupling makes it
+  literally present."
+
+A6 reports Jaksland as reading Barad on the second side, for the absence
+of fundamental subject–object and word–world separations, and as leaving
+open whether such features do resist approximation. A6 put the stake as a
+pair the record has not separated: "Operational separability" and
+"Ontological independence". "Perhaps the first can approach unity
+continuously while the second remains fundamentally absent. Or perhaps
+independent individuality is itself a legitimate emergent ontological
+property rather than a merely convenient fiction."
+
+A9 §11 kept it as the objection to the exchange's own synthesis, and
+added a caution the question must keep: "Degrees of autonomy do not
+straightforwardly imply degrees of existence."
+
+## Why it bears on the record
+
+CLAIM-157's criterion is graded: a block is one system when its coupling
+gap beats an Occam factor, and near-decomposability is a matter of
+degree. CLAIM-405 holds that the verdict is objective once its criterion
+is fixed. Neither says whether a large gap makes the block approximately
+independent, or only makes it approximately separable for the target.
+CLAIM-tmpmand1 holds individuals partly constituted by constraints in
+every domain, and so owes an answer to how a relationally constituted
+individual can still be treated as independent where the record treats
+it so.
+
+## What would count as an answer
+
+An account of approximation for ontological claims, as there is one for
+theories, with a case: a feature of a relational description that a
+limit (of decoupling, of scale, of time) sends to an independent
+individual's description, and either an argument that the limit's
+description is approximately true of the system, or one that some feature
+survives every such limit. A reading of Jaksland would say whether he
+offers either.
