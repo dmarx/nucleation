@@ -1,0 +1,188 @@
+---
+status: Read
+paper: LIT-tmpfhqac
+title: 'Teh, Görür and Ghahramani — Stick-breaking construction for the Indian buffet process'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full on 2026-10-27 from PMLR's own PDF
+    (https://proceedings.mlr.press/v2/teh07a/teh07a.pdf, 8 pages), text
+    extracted with pdftotext. Read: §§1–8, the appendix, the captions of
+    Figures 1–5 and the 19 references. Figures 2 and 3 (autocorrelation
+    times; the MNIST traces and histograms) are charts, read from their
+    captions and the text only; no number was taken from them. Equations
+    garbled by extraction ((8)–(14), (19), (25), (34)–(35)) were
+    reconstructed and re-derived. The construction, (19), (25) and (35),
+    and CASE-165's truncation figure were checked numerically (record
+    script, 2026-10-27).
+date: '2026-10-27'
+summary: >-
+  Derives the IBP's stick-breaking construction: in decreasing order the
+  feature probabilities are μ_(k) = ∏_{l≤k} ν_l, ν_l ~ Beta(α, 1), so
+  E[μ_(k)] = (α/(α + 1))^k, and the discarded pieces are the Dirichlet
+  process's sticks. Slice samplers built on it, one ordered and one
+  semi-ordered, need no conjugacy; on 120 synthetic datasets the
+  semi-ordered one mixes as fast as Gibbs. The truncation [CASE-165](../cases.d/CASE-165.md)
+  quotes, 8.97 features at K = 16, N = 12, α = 3, is exact here at 8.974.
+---
+<!-- inactive-ok-file: CASE-165 — Proposed; the construction this reading bears on, cited as open -->
+
+# NOTE-tmptxvho: Teh, Görür and Ghahramani — Stick-breaking construction for the Indian buffet process
+
+## Contribution
+
+It gives the Indian buffet process an explicit representation in which
+the feature probabilities are not integrated out but kept, in decreasing
+order, as the lengths of a stick broken repeatedly. It is to the IBP what
+Sethuraman's construction is to the Dirichlet process, and with Thibaux
+and Jordan's beta process ([LIT-1537](../literature.d/LIT-1537.md)) it places the IBP among the standard
+nonparametric priors. The representation licenses truncation and slice
+sampling, and so samplers for non-conjugate models.
+
+## Key insight
+
+The IBP's finite model draws K independent Beta(α/K, 1) prevalences.
+Sort them. The largest has cdf μ^α in the limit, so it is Beta(α, 1), and
+each next one, given the last, is the last times an independent
+Beta(α, 1) draw. Keep the stick that remains and you have the IBP's
+weights; keep the piece discarded and you have the Dirichlet process's.
+
+## Assumptions
+
+- **The finite model (1).** μ_k ~ Beta(α/K, 1), z_ik | μ_k ~
+  Bernoulli(μ_k), independent; θ_k ~ H, x_i ~ F(z_i,:, θ), with F
+  depending only on the features present.
+- **The limit is taken on the order statistics** μ_(1) > μ_(2) > … of
+  the finite μ's, not on lof-classes.
+
+## Key results
+
+- **The construction (5), §3.1.** ν_(k) ~ Beta(α, 1) i.i.d., μ_(k) =
+  ν_(k)μ_(k−1) = ∏_{l≤k} ν_(l). Derived from the cdf of a maximum: for
+  finite K, F(μ_(1)) = μ_(1)^{α/K·K} = μ_(1)^α, so μ_(1) ~ Beta(α, 1),
+  (9)–(10); given μ_(1:k), the cdf of μ_(k+1) is (μ/μ_(k))^{α(K−k)/K} →
+  (μ/μ_(k))^α, (13)–(14). The μ_(k) are Markov.
+- **Duality with the DP, §3.2.** The discarded pieces π_(k) = (1 −
+  ν_(k))μ_(k−1) are, with v = 1 − ν ~ Beta(1, α), the DP's stick weights.
+  "For DPs, the stick lengths sum to a length of 1 and are not
+  decreasing, while in IBPs the stick lengths need not sum to 1 but are
+  decreasing." A Pitman–Yor variant, ν_(k) ~ Beta(α + kd, 1 − d), is
+  proposed, with weights falling as a power law.
+- **Truncation (19)–(20).** Setting μ_(k) = 0 beyond K*, p(μ_(1:K*)) =
+  α^{K*} μ_(K*)^α ∏_{k≤K*} μ_(k)^{−1} on the ordered simplex. The error
+  bound for DP truncations (Ishwaran and James) "can be used here as
+  well"; the paper computes none.
+- **Slice sampler (§4).** s ~ Uniform[0, μ*], μ* the stick of the last
+  active feature; features with μ_(k) < s are forced off, so only finitely
+  many need updating, without approximation. New sticks are drawn from
+  (25), p(μ_(k) | μ_(k−1), z_:,>k = 0) ∝ exp(α Σ_{i≤N} (1 − μ_(k))^i/i)
+  μ_(k)^{α−1}(1 − μ_(k))^N on [0, μ_(k−1)], by adaptive rejection
+  sampling; the exponential factor is the probability (35) that no later
+  feature is used, exp{−αH_N + α Σ_i (1 − μ_(k))^i/i}.
+- **Change of representation and semi-ordered sticks (§5).** Active
+  features' sticks are Beta(m_k, 1 + N − m_k) a posteriori, (29)–(30);
+  inactive ones are generated in order from (31). The semi-ordered slice
+  sampler keeps active features unordered.
+- **Experiment (§6).** The conjugate linear-Gaussian model; datasets of
+  dimension 1, 2 and 3, α = 1, 2, σ_A² = 1, 2, 4, 8, five datasets each of
+  100 points, 120 in all; five runs of 15,000 iterations per dataset and
+  sampler; mixing measured by the autocorrelation time of K+ (maximum lag
+  2500). "The slice sampler using the decreasing stick lengths ordering
+  was always slower than the semi-ordered one", and "the semi-ordered
+  slice sampler was just as fast as the Gibbs sampler which fully exploits
+  conjugacy". The times are in Figure 2 only.
+- **Demonstration (§7).** 1000 MNIST threes projected on 64 principal
+  components, a non-conjugate model x_i ~ N((z_i ⊙ y_i)A, σ_X² I), 10,000
+  iterations. The features found "appear to model local shifts of small
+  edge segments of the digits".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The IBP's decreasing feature probabilities are μ_(k) = ∏ν_l, ν_l ~ Beta(α, 1) i.i.d. | strong | §3.1; re-derived and checked by simulation ([THEORY-tmphvhg6](../theory.d/THEORY-tmphvhg6.md)) |
+| C2 | The discarded pieces are the DP's GEM(α) weights | strong | (16)–(17), a change of variables |
+| C3 | The slice samplers are exact (no truncation error) and need no conjugacy | strong | §§4–5, by construction |
+| C4 | The semi-ordered slice sampler mixes as fast as conjugate Gibbs; the ordered one is slower | moderate | §6, one synthetic model, results only in a chart |
+| C5 | On MNIST threes the model finds edge-segment features | weak | one run, judged by eye |
+
+## Concepts
+
+- **Stick-breaking construction for the IBP**: μ_(k) = ∏_{l≤k} ν_l,
+  ν_l ~ Beta(α, 1).
+- **Truncation level K***: the number of sticks kept; beyond it μ = 0.
+- **Slice variable s**: an auxiliary uniform that makes the truncation
+  adaptive and exact.
+- **Semi-ordered stick-breaking**: active features unordered, inactive
+  ones ordered by stick length.
+
+## Connections
+
+It extends Griffiths and Ghahramani's IBP ([LIT-tmp3u0k8](../literature.d/LIT-tmp3u0k8.md), [THEORY-tmpo1cju](../theory.d/THEORY-tmpo1cju.md))
+and, as its discussion says, gives the beta process of Thibaux and Jordan
+([LIT-1537](../literature.d/LIT-1537.md)) the explicit form A = Σ_k μ_(k)δ_θk, a case of the inverse Lévy
+measure. The Markov IBP ([LIT-1577](../literature.d/LIT-1577.md), [NOTE-1199](NOTE-1199.md)) uses this construction for
+its a's, pairing each with an independent persistence b, and its slice
+sampler follows this paper's; its beam sampler is Van Gael et al.'s
+([LIT-tmp0oa8w](../literature.d/LIT-tmp0oa8w.md)). Knowles and Ghahramani ([LIT-tmpezspt](../literature.d/LIT-tmpezspt.md)) name it as the route
+to faster mixing than their Metropolis–Hastings step for new features.
+
+## Bearing on the record
+
+- **[CASE-165](../cases.d/CASE-165.md), item 1: the 8.97.** The case says "The buffet itself seldom
+  needs more than 16 (P(K_N > 16) ≈ 0.015), so a stick-breaking truncation
+  at 16 would be close to it (8.97, simulated)". Both figures check. With
+  the construction, the expected number of occupied features among the
+  first K* sticks is exactly Σ_{k≤K*} Σ_{j=1}^{N} (−1)^{j+1} C(N, j)
+  (α/(α + j))^k, since E[μ_(k)^j] = (α/(α + j))^k. At N = 12, α = 3 it is
+  8.974 at K* = 16 (simulated 8.969 ± 0.006 over 200,000 draws), against
+  6.80 at 8, 9.274 at 24, 9.306 at 32 and αH₁₂ = 9.310 in the limit.
+  P(K_N > 16) = 0.0149 under Poisson(9.31). Each object holds
+  Σ_{k≤16} (3/4)^k = 2.97 features on average, against α = 3.
+- **[CASE-165](../cases.d/CASE-165.md), item 1: the reason given.** The case's reason, that the
+  buffet seldom needs more than 16 features, concerns the count. What a
+  truncation at 16 loses is the features beyond the 16th stick, and those
+  are used more often: in 24% of draws at least one object holds a
+  feature beyond the 16th stick, 0.34 features on average, which is the
+  gap 9.31 − 8.97. The conclusion "close to it" holds (3.6% short, against
+  the finite model's 27%); the stated reason understates how often the
+  truncation bites. Suggested for the case's consolidator, not written.
+- **[CASE-165](../cases.d/CASE-165.md), item 1: two different approximations at K = 16.** The
+  finite model draws 16 independent Beta(α/16, 1) prevalences and expects
+  6.83 occupied features ([THEORY-999](../theory.d/THEORY-999.md)); the truncated construction keeps
+  the 16 largest of the limit's and expects 8.97. At the same K the
+  second is much closer, which is what T22's "generously truncated" would
+  need, though T23's model is the first.
+- **[LIT-1577](../literature.d/LIT-1577.md).** The Markov IBP's stick-breaking construction (§2.4) is
+  this one with an independent Beta(γ, δ) persistence attached to each
+  stick, so [THEORY-1034](../theory.d/THEORY-1034.md)'s independence is visible in this representation.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Truncation error not computed**; the paper only points to the DP's
+  bound.
+- **The experiment** reports no numbers outside a chart, and the
+  datasets are small and synthetic, chosen "so that we can be assured of
+  convergence".
+- **Errors and slips.**
+  - No error of substance found in the derivations: (5), (14), (19),
+    (25) and (35) re-derive, and §2's predictive (α/K + m)/(α/K + i) and
+    K+ ~ Poisson(αH_N) are right.
+  - Reference [6] dates Griffiths and Ghahramani's NIPS 18 paper 2006 (the
+    printed volume's year; the proceedings' BibTeX gives 2005), the same
+    slip the review makes for the Markov IBP ([NOTE-1199](NOTE-1199.md)).
+  - Typos: "indepedently" twice, "construnction", "succesfully", "has
+    lead", and "v(l)" for ν in (17). PMLR's page misspells "Görür".
+  - The Pitman–Yor claim of an O(k^{−1/d}) power law is stated without
+    derivation.
+
+## Open questions
+
+- The truncation error for the IBP at a given K* and N: the record's
+  formula above gives the expected count; a bound on the total-variation
+  error of the matrix, as Ishwaran and James give for the DP, is not in
+  the paper.

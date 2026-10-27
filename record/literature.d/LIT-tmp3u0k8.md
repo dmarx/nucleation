@@ -1,0 +1,94 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-27 ([NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md)) in full, from the NeurIPS proceedings'
+  own PDF; worth reading as the paper that introduces the Indian buffet
+  process, the limit of a finite beta–Bernoulli feature model taken on
+  left-ordered equivalence classes, and its sequential buffet, which
+  produce the same distribution ([THEORY-tmpo1cju](../theory.d/THEORY-tmpo1cju.md)). Read it knowing that
+  its eight pages state the limit and defer the technical details to a
+  technical report, that it gives K+ ~ Poisson(αH_N) only through the
+  buffet, with no count for the finite model, and that its one
+  demonstration is a single run on 100 staged photographs, in which three
+  of the four main features code an object's absence.
+title: 'Infinite Latent Feature Models and the Indian Buffet Process'
+version: 2
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Filed, not read, at the owner's request of 2026-10-27 ("file the next
+    readings"): the curation entry of 2026-10-27 02:06 lists it under
+    "Named by the readings, not registered" and says LIT-1577 should
+    `extend` it. LIT-1556's version-1 history and NOTE-1172 name it as the
+    IBP review's original conference paper, not registered. Checked on
+    2026-10-27 against the NeurIPS proceedings' abstract page, BibTeX and
+    the PDF's header: Thomas L. Griffiths and Zoubin Ghahramani, "Infinite
+    latent feature models and the Indian buffet process", Advances in
+    Neural Information Processing Systems 18 (NIPS 2005), editors Weiss,
+    Schölkopf and Platt, MIT Press. The proceedings' BibTeX gives 2005 and
+    no pages; the PDF carries no date. NIPS 2005 met in December 2005, so
+    `published:` is 2005-12-01, month precision (ADR-002, as LIT-1577 and
+    LIT-677 do for a NeurIPS paper). The longer Gatsby technical report
+    2005-001 that the paper cites for its details was not checked for a
+    date and is not this work. It has no arXiv deposit and no DOI; the
+    source is the proceedings' abstract page. The NeurIPS site lists the
+    authors as "Zoubin Ghahramani, Thomas L. Griffiths", and its BibTeX
+    the same; the PDF's order, Griffiths first, is used. The summary
+    follows the abstract.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Read in full (NOTE-tmpit34t): §§1–4, the figure captions and the
+    references, from the proceedings PDF. Status Deferred → Active.
+    THEORY-tmpo1cju filed (Active). The summary is checked against the
+    reading and given the model's form.
+tags:
+- probabilistic-modeling
+- mathematical-statistics
+date: '2026-10-27'
+published: '2005-12-01'
+url: 'https://papers.nips.cc/paper_files/paper/2005/hash/2ef35a8b78b572a47f56846acbeef5d3-Abstract.html'
+first_author: 'Griffiths'
+keywords:
+- 'Indian buffet process'
+- 'infinite latent feature model'
+- 'left-ordered form'
+- 'nonparametric Bayes'
+- 'linear-Gaussian binary latent feature model'
+implementations: []
+summary: >-
+  Griffiths & Ghahramani (2005), NIPS 18. A finite model in which each of
+  K features has prevalence π_k ~ Beta(α/K, 1) and each of N objects holds
+  it with probability π_k has, as K → ∞, a limit on left-ordered
+  equivalence classes of binary matrices; the Indian buffet process, in
+  which customer i takes each earlier dish with probability m_k/i and then
+  Poisson(α/i) new ones, produces the same distribution. It is used as the
+  prior of an infinite binary linear-Gaussian latent feature model, with a
+  Gibbs sampler, on 100 photographs of up to four objects.
+---
+<!-- inactive-ok-file: CASE-165 — Proposed; the construction this work bears on, cited as open -->
+<!-- inactive-ok-file: LIT-677 — Proposed; cited only as the precedent for a NeurIPS paper's month-precision date -->
+
+# LIT-tmp3u0k8: Infinite Latent Feature Models and the Indian Buffet Process
+
+Griffiths, T. L. & Ghahramani, Z. (2005). Infinite latent feature models
+and the Indian buffet process. In Y. Weiss, B. Schölkopf & J. Platt
+(eds.), *Advances in Neural Information Processing Systems 18*. MIT
+Press.
+
+Read in full on 2026-10-27 ([NOTE-tmpit34t](../notes.d/NOTE-tmpit34t.md)). One account was drawn from
+it: [THEORY-tmpo1cju](../theory.d/THEORY-tmpo1cju.md).
+
+## Why this is here
+
+The owner asked on 2026-10-27 to "file the next readings", the works the
+readings of that day named and did not register. This is the first of
+them for the record's latent-feature line: the paper that introduces the
+Indian buffet process. The record held the process only through the
+authors' review of 2011 ([LIT-1556](LIT-1556.md), [NOTE-1172](../notes.d/NOTE-1172.md)), which follows this paper
+and its technical report, and through the works built on it: the Markov
+IBP ([LIT-1577](LIT-1577.md)), the beta process ([LIT-1537](LIT-1537.md)), the dependent IBP ([LIT-1548](LIT-1548.md))
+and the correlated-feature model ([LIT-1544](LIT-1544.md)). [CASE-165](../cases.d/CASE-165.md) quotes the
+process's count of features, αH_N, and its photograph demonstration
+(item 4) from the review; both first appear here.

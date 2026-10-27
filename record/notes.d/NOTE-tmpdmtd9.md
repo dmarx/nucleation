@@ -1,0 +1,235 @@
+---
+status: Read
+paper: LIT-tmp6ii6u
+title: 'Olah et al. — An overview of early vision in InceptionV1'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full on 2026-10-27 from the Distill article,
+    https://distill.pub/2020/circuits/early-vision/ (the page carries
+    "Published April 1, 2020" and prints DOI 10.23915/distill.00024.002),
+    fetched the same day and its text extracted from the HTML (about
+    58,000 characters). Read: the introduction, Playing Cards with
+    Neurons, Caveats, Presentation of Neurons, Presentation of Circuits,
+    the five layer sections (conv2d0, conv2d1, conv2d2, mixed3a, mixed3b)
+    with every group caption and every circuit caption, the Conclusion,
+    Resources, all footnotes, the author contributions, the
+    acknowledgements and the references. The neuron grids were parsed
+    from the HTML: every group's units were counted and checked against
+    its "Show all N neurons" line and against the five taxonomy files the
+    article offers for download (layer_data/*.json, fetched the same day),
+    which agree unit for unit. Feature visualizations and circuit
+    diagrams are images and were not looked at; their content was taken
+    from captions and the text. The weight explorer the neurons link to
+    was not opened.
+date: '2026-10-27'
+summary: >-
+  Every one of the 1,056 units of InceptionV1's first five layers is put in
+  exactly one of 77 named groups, with each group's share of its layer;
+  the shares are consistent with the unit counts. By the authors' own
+  captions, 391 units (37%) are in groups called catch-all, broad and not
+  well defined, low-confidence, unstudied or not understood, from 7% of
+  conv2d2 to 48% of conv2d1. The groups are sorted by eye, and most units
+  had "a few minutes of cursory investigation", so the census is a
+  denominator for [THEORY-1013](../theory.d/THEORY-1013.md), not the criterion its promote_when asks
+  for.
+---
+<!-- inactive-ok-file: THEORY-tmpehpcu THEORY-1013 THEORY-1022 THEORY-986 THEORY-802 — Proposed; the authors' wider claim filed from this reading and the accounts it bears on, cited as open -->
+# NOTE-tmpdmtd9: Olah et al. — An overview of early vision in InceptionV1
+
+## Contribution
+
+It is the Circuits thread's census of early vision. Rather than argue one
+feature in depth, it sorts every unit of InceptionV1's first five layers,
+1,056 in all, into named "neuron groups", gives each group's share of its
+layer, and illustrates a handful of circuits. The authors present it as
+an orienting map ("Playing Cards with Neurons", after Mendeleev) and not
+as a result: "These families are ad-hoc, human defined collections of
+features that seem to be similar in some way."
+
+## Key insight
+
+Many units seem to come in families, a dozen versions of one feature in
+different orientations or colours, and organizing phenomena can be
+useful before there is a theory of them. The authors also argue against
+correlating units with a fixed list of concepts (Net Dissect): a
+pre-defined taxonomy cannot contain a feature nobody anticipated, such as
+high-low frequency detectors, and correlation misreads units (a Net
+Dissect "cat" unit that seems to detect left-oriented whiskers).
+
+## Assumptions
+
+- **Model.** The canonical InceptionV1 (GoogLeNet) trained on ImageNet.
+  Early vision is "the five convolutional layers leading up to the third
+  pooling layer": conv2d0 (64 units), conv2d1 (64), conv2d2 (192), mixed3a
+  (256) and mixed3b (480), 1,056 in all. The bottleneck units inside
+  mixed3a and mixed3b are excluded; the bottleneck and 5x5 convs are
+  shown as their product.
+- **What a unit is taken to be.** A unit is represented by its feature
+  visualization, "like a variable name in understanding a program", and
+  understood by feature visualization, dataset examples, how it is built
+  from the previous layer, how the next layer uses it, "and other
+  analysis".
+- **Effort per unit varies.** "We've dedicated entire forthcoming
+  articles to detailed analysis some of these units, while many others
+  have only received a few minutes of cursory investigation."
+- **Circuits shown** are a unit and the units it has the strongest (L2
+  norm) weights to; the interactive figures show the 50 strongest
+  connections each way, offered as "an unbiased view of the weights if
+  you're concerned about cherry-picking".
+
+## Key results
+
+The counts below are this reading's, from the neuron grids, checked
+against the downloadable taxonomy files.
+
+| layer | units | groups | largest groups (units) | flagged by the authors' captions |
+|---|---|---|---|---|
+| conv2d0 | 64 | 3 | Gabor filters 28, colour contrast 27 | 9 (14%) |
+| conv2d1 | 64 | 8 | low frequency 17, Gabor-like 11 | 31 (48%) |
+| conv2d2 | 192 | 14 | colour contrast 40, line 33, shifted line 16 | 14 (7%) |
+| mixed3a | 256 | 18 | texture 65, colour center-surround 30 | 122 (48%) |
+| mixed3b | 480 | 34 | colour center-surround 77, complex center-surround 73, texture 44, other 42, boundary 36 | 215 (45%) |
+| all | 1,056 | 77 | | 391 (37%) |
+
+- **A complete partition.** Every unit of each layer appears in exactly
+  one group, and the printed shares agree with the counts to rounding
+  (they sum to 99–101% per layer).
+- **What "flagged" counts.** Groups whose captions say "catch-all",
+  "don't fit in another category", "broad, not very well defined", "low
+  confidence", "haven't studied them very carefully", "didn't know what
+  else to do with", "don't really understand", or, in one case,
+  "likely best thought of as a polysemantic neuron" (mixed3b's three
+  double-curve units). "Other Units" alone is 82 units (7.8%).
+- **The well-understood part of mixed3b.** The article takes "a couple
+  particularly interesting and well understood families first": fourteen
+  groups (boundary, proto-head, oriented fur, curves, divots, square/grid,
+  brightness gradients, eyes, shallow curves, curve shapes, circles,
+  circle cluster, double curves, evolute), 118 of 480 units (24.6%). The
+  curve family is 10 (2.1%), the same ten units Curve Detectors studies.
+- **Lines.** In conv2d2, line detectors "accounting for about 25% of
+  units": line (33) and shifted line (16) are 49 of 192 (25.5%). Many
+  line-like units are "combed".
+- **Circuits illustrated.** Complex Gabors in conv2d1, built from Gabor
+  filters of one orientation and their reciprocals ("union over cases");
+  a mixed3a black-and-white detector whose large weights are almost all
+  negative, "NOT(color_feature_1 OR color_feature_2 OR ...)"; small
+  circles and eyes from early curves; triangle detectors from lines (the
+  choice of units shown "slightly cherrypicked for pedagogy"); mixed3b
+  boundary detectors combining high-low frequency, line and colour-contrast
+  cues; curve-based shapes; and oriented fur from fur precursors.
+- **Universality, asserted.** Early vision "seems most likely to be
+  universal", and "the same 'neuron families' seem to recur across
+  models", with the TF-Slim InceptionV1 (batch norm) showing crisper
+  first-layer features than the canonical one. No second model is sorted.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Every unit of the five layers falls into one of 77 groups, with the shares given | exact (a stated partition) | the grids and the taxonomy files, counted here |
+| C2 | Many units come in families, variants of one feature across orientation or colour | moderate for the named families | feature visualizations, examples and circuits, by eye |
+| C3 | The families recur across models | weak | asserted; the TF-Slim first layer is the only other model shown |
+| C4 | Some families are "real" (recoverable from factorizing weight matrices) | weak | asserted in the caveats, not shown |
+| C5 | Units are built by the circuits illustrated (complex Gabors, BW, circles, triangles, boundaries, fur) | moderate | weights to the strongest previous-layer units |
+| C6 | Early vision's "goal" units, such as boundary detectors, explain why earlier features form | weak (a framing) | argument |
+
+## Concepts
+
+- **Neuron group / family**: the article's unit of organization; a
+  family is a set of units implementing variants of one feature, a group
+  any named category, including catch-alls.
+- **Combing**: line-like features weakly excited by perpendicular lines
+  beside the main one.
+- **Union over cases**: a unit excited by several units that detect the
+  same thing in different forms, so that it responds to any of them.
+- **High-low frequency detector**: a unit that responds to a transition
+  from high- to low-frequency texture, used downstream as a boundary cue.
+- **Evolute**: the authors' repurposed term for units detecting curves
+  facing away from the middle.
+
+## Connections
+
+It is the Circuits thread's second article (DOI suffix .002), after Zoom
+In ([LIT-1543](../literature.d/LIT-1543.md)) and before Curve Detectors ([LIT-1575](../literature.d/LIT-1575.md)) and Curve Circuits
+([LIT-tmpl1s2e](../literature.d/LIT-tmpl1s2e.md)), all by the same team. Curve Detectors' four curve layers
+match its groups: conv2d2's tiny curves (12, one of them a circle),
+mixed3a's curves (11) and mixed3b's curves (10). Curve Circuits sorts
+mixed3a's line-like units by this article's groups and uses its texture
+family (65). It cites Net Dissect (Bau et al. 2017) as the systematic
+alternative and Feature Visualization and Building Blocks for method.
+
+## Bearing on the record
+
+- **[THEORY-1013](../theory.d/THEORY-1013.md).** The promote_when asks for a stated criterion and "the
+  fraction of units that meet it" over whole layers. This is the first
+  denominator the record holds: 1,056 units, all sorted. It is not the
+  criterion. A group is a label given by eye, often after minutes, and
+  the authors flag 37% of units as uncertain, catch-all or not
+  understood. Read as generously as the captions allow, 63% of early
+  vision is in groups the authors do not flag, which is neither "most of
+  a layer's capacity" understood in Zoom In's seven-argument sense nor a
+  "small and unrepresentative minority". By that sense, only the curve
+  family (10 units) and, from Curve Circuits, the families feeding it
+  have been argued in depth. The account stays Proposed; the count is
+  filed as [THEORY-tmpjdph0](../theory.d/THEORY-tmpjdph0.md).
+- **[THEORY-1022](../theory.d/THEORY-1022.md) and [THEORY-1028](../theory.d/THEORY-1028.md).** The ten curve units are confirmed as
+  a group of the census; three mixed3b double-curve units are called
+  "likely ... polysemantic", which is the article's own counter-case in
+  the curve neighbourhood.
+- **[THEORY-986](../theory.d/THEORY-986.md) (universality).** Asserted for early vision ("seems most
+  likely to be universal") with one other model's first layer shown. It
+  adds no cross-model count.
+- **[THEORY-802](../theory.d/THEORY-802.md) and [QUESTION-274](../questions.d/QUESTION-274.md).** The census is in the neuron basis
+  throughout, and the authors' open questions include "Is there a better
+  taxonomy, or another way to understand the space of features?"
+- **Accounts filed.** [THEORY-tmpjdph0](../theory.d/THEORY-tmpjdph0.md) (Active): the census's counts.
+  [THEORY-tmpehpcu](../theory.d/THEORY-tmpehpcu.md) (Proposed): that the families are real structure and
+  recur across models.
+
+No instruction for machine-learning practice; the anthology may want the
+work as a reading (`anthology-candidate`).
+
+## Limitations
+
+- **The taxonomy is by eye.** The authors say so, and say that "many
+  others are categories of convenience, or categories we have
+  low-confidence about". No inter-rater check, no stated criterion for
+  membership, no measure of how well a group's label predicts its units'
+  behaviour.
+- **Uneven depth.** Most units were given "a few minutes"; only a few
+  were studied in depth.
+- **One model.** The claim that families recur across models is not
+  tested here.
+- **Images not seen.** Feature visualizations and circuit diagrams were
+  not looked at in this reading, so nothing here is checked against
+  them.
+- **Internal inconsistencies and slips.**
+  - mixed3b's "Color Contrast/Gradient" caption begins "Units which
+    respond to different colors on each side" and then repeats the
+    center-surround caption verbatim ("These units look for one color in
+    the center, and another color surrounding it ..."), which contradicts
+    it: a copy-paste error.
+  - mixed3b's colour center-surround caption ends "(Color Center-Surround
+    mixed3a)", the parenthesis misplaced.
+  - The taxonomy files offered for download are not valid JSON (trailing
+    commas); read leniently, they agree with the page unit for unit.
+  - Typos with no effect on content: "fist layer", "apprixmately",
+    "Genereally", "turqoise", "necesarily requiring spatial
+    coherrence", "In early vision, this unstructured of feature
+    detection".
+  - The printed DOI did not resolve on 2026-10-27 (see [LIT-tmp6ii6u](../literature.d/LIT-tmp6ii6u.md)).
+
+## Open questions
+
+- What fraction of each layer would meet a stated criterion, for
+  instance Zoom In's seven arguments, or a held-out prediction of
+  activations from the group's label?
+- Do the groups survive a change of basis, or an automatic clustering of
+  the weights, which the caveats say recovers some of them?
+- Do the same groups, with similar shares, appear in other trained
+  InceptionV1s or other architectures?
+- What do the 391 flagged units do, and how much of each layer's
+  activation variance do they carry?
