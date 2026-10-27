@@ -1,20 +1,36 @@
 ---
 status: Proposed
-title: 'Interactions generate constraints that act as gluing conditions: where locally described systems interact, the interaction fixes or restricts a correspondence between their descriptions on what they share, and the composed correspondences determine which joint configurations or histories of the whole are admissible; the frames so glued are local observational contexts, not inertial frames, whose transformations no interaction makes'
-version: 1
+title: 'Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations'' physical generation nor their adequacy follows from gluing alone'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Restated at the owner's review of the pull request. Version 1 read
+    "Interactions generate constraints that act as gluing conditions",
+    with the interaction fixing or restricting the correspondence between
+    local descriptions. The readings of the same evening found the
+    correspondences given in almost every formalism, so the claim now
+    separates physical constraint formation, correspondence discovery and
+    correspondence adaptation, and says which of them supports the strong
+    thesis. The owner's U20 wording is kept in the body. Defeater and
+    summary rewritten to match; status and warrant unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Either of two results. (a) That the correspondences restricting the joint
-  behaviour of interacting systems are in general fixed independently of
-  their interactions, as background structure, so that interaction only
-  reveals or measures correspondences given beforehand and never makes or
-  changes one. (b) That the restrictions physical interconnection imposes
-  (on whole histories, nonlinear, with memory) cannot be stated as
-  compatibility conditions on local descriptions without loss, so that
-  gluing describes them only by analogy. Not defeated by inertial frames,
-  whose Lorentz transformations hold whether or not anything interacts
-  (CLAIM-144); the claim was restated to exclude them.
+  Any of three results, one for each mechanism. (a) Physical constraint
+  formation: that interconnection never changes what joint behaviour is
+  admissible beyond what the parts' own laws and a fixed background
+  already settle, so that the effective constraints composition yields
+  (CLAIM-tmpose3y) are only redescriptions. (b) Correspondence discovery:
+  that the correspondences measurement establishes cannot be checked
+  against anything but their own consistency, so that "establish" is too
+  strong. (c) Correspondence adaptation: that every apparatus that revises
+  its correspondences does so only by reducing disagreement, so that
+  adaptation never tracks anything beyond the apparatus (the
+  learning-to-lie case, THEORY-tmptkmt9, made general). Not defeated by
+  inertial frames, whose Lorentz transformations hold whether or not
+  anything interacts (CLAIM-144); the claim excludes them.
 tags:
 - metaphysics
 - complex-systems
@@ -32,24 +48,26 @@ grounds:
 - LIT-016
 - THEORY-299
 summary: >-
-  The owner's, the first half of U20 of the exchange of 2026-10-27:
-  "interactions generate constraints that manifest as gluing conditions
-  between intertial frames (I'm not a physicist so it's possible I'm using
-  more precise and technical language than is merited here … and also
-  maybe this precision is indeed warranted under our theory)". A20 kept
-  "gluing" and replaced "inertial frames" by local observational
-  contexts, which [CLAIM-144](CLAIM-144.md) already required. A21 to A23 gave the claim
-  three formal settings: cellular sheaves, Willems's behaviours and
-  port-Hamiltonian interconnection. It separates three things the word
-  covers: a correspondence rule, the interaction that yields evidence for
-  it, and the control that enforces it. It does not say that a glued whole
-  is an individual.
+  The owner's U20 of the exchange of 2026-10-27, "interactions generate
+  constraints that manifest as gluing conditions between intertial frames",
+  restated at the owner's review. The readings found the correspondence
+  maps given, measured or designed in nearly every formalism the exchange
+  cited, and changed by interaction only in one constructed model whose
+  authors call the result "learning to lie". So the claim separates three
+  mechanisms. Physical interconnection changes what joint behaviour is
+  admissible, and only it bears on the strong thesis that interaction
+  generates constraints. Measurement reveals correspondences that already
+  held. Adaptation revises an apparatus's own rules of comparison. The
+  open question is QUESTION-tmplxq7l: when interaction changes the
+  physically operative correspondence structure, rather than revealing or
+  redescribing it.
 ---
+<!-- inactive-ok-file: QUESTION-tmplxq7l THEORY-tmpvecoh THEORY-tmptkmt9 — Open or new; the open question this restatement names and the readings it rests on -->
 <!-- inactive-ok-file: CLAIM-tmpose3y — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-tmpmand1 CLAIM-143 CLAIM-tmpfw510 CLAIM-tmpywecm CLAIM-tmpose3y CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-tmpnyd4r LIT-tmpnpxhs LIT-tmpf2wmd LIT-tmpn521a LIT-tmpre2ri LIT-tmp6zanw LIT-tmpwhycq — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 
-# CLAIM-tmpdjt64: Interactions generate constraints that act as gluing conditions: where locally described systems interact, the interaction fixes or restricts a correspondence between their descriptions on what they share, and the composed correspondences determine which joint configurations or histories of the whole are admissible; the frames so glued are local observational contexts, not inertial frames, whose transformations no interaction makes
+# CLAIM-tmpdjt64: Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone
 
 ## The claim
 
@@ -69,6 +87,58 @@ follow from spacetime geometry, and no interaction generates them. The frames
 the claim needs are local observational contexts and local physical frames.
 These are the distinctions available to particular systems where they
 interact: sensors, cells, clocks, agents, locally defined observables.
+
+## Three mechanisms, and which supports what
+
+The owner's U20 said that interactions *generate* the constraints that act as
+gluing conditions. The formalisms the exchange cited were read the same
+evening, and in nearly all of them the correspondence maps are inputs:
+- Hansen and Ghrist's restriction maps are assumed, or come from
+  measurement or design (NOTE-tmpzqos6).
+- Robinson writes his from geometry before any data (NOTE-tmpdshmx).
+- Singer estimates relative angles that hold beforehand (NOTE-tmplhrxg).
+- Torres-Hugas et al. give their connection or build it to match
+  (NOTE-tmpb8jge).
+- Baez and Fong impose the same Kirchhoff condition at every port and
+  derive the effective boundary relation from it (NOTE-tmpigjto).
+
+The one model in which the maps change through interaction is Hansen and
+Ghrist's discourse sheaves (NOTE-tmpe4zh5). There the agents reach agreement
+by revising what they express, which the authors call learning to lie
+(THEORY-tmptkmt9). So "gluing" names at least three different things:
+
+| mechanism | what is produced | bears on the strong thesis? |
+|---|---|---|
+| physical constraint formation | interaction changes what joint behaviour or dynamics is admissible | yes, directly |
+| correspondence discovery | measurement reveals relationships that already held | no; it is knowledge of a correspondence |
+| correspondence adaptation | an apparatus changes its own rules for comparing local states | only when the revised rule is operationally implemented, and then as a change in the apparatus |
+
+**Physical constraint formation is supported, in an effective form.**
+Interconnecting systems restricts their joint behaviour, and composing the
+restrictions yields boundary relations that no part has (CLAIM-tmpose3y).
+Sometimes those relations are of a kind the parts' relations could not
+express (THEORY-tmpvecoh). The port condition at each junction is itself
+background: in Baez and Fong it is the same Kirchhoff condition every time.
+What interaction generates is the composite's effective constraint, not the
+law of the junction. Whether interaction ever changes the operative
+correspondence structure itself is open (QUESTION-tmplxq7l).
+
+**Correspondence discovery is the commonest case and supports less.** It
+establishes which correspondence holds. Its adequacy rests on evidence that the
+correspondence does not itself produce (CLAIM-143), and the readings found that
+rarely available: Singer validates only through cycle consistency under a
+noise model, and Robinson trusts his maps.
+
+**Correspondence adaptation is real and can fail invisibly.** An apparatus that
+revises its comparison rules can reach agreement by changing what is compared.
+Then gluing succeeds and says nothing about the world (CLAIM-342). When the
+revised rule is implemented, for instance as a calibration that drives a
+controller, adaptation becomes causally consequential. Even then it is a change
+in the apparatus, not in the systems compared.
+
+Gluing, in every case, is the statement that local descriptions are compatible
+under specified relations. It neither generates the relations nor certifies
+them.
 
 **The form.** Each system i has a local description x_i in a space V_i. Where i
 and j interact along e, each maps its description into a shared comparison
