@@ -7,9 +7,7 @@ tags:
 - individuation
 - philosophy-of-science
 date: '2026-10-27'
-line:
-- distributed-agency
-- pragmatic-transport
+line: distributed-agency
 refined_by:
 - QUESTION-030
 summary: >-
