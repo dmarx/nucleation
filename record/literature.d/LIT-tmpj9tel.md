@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmp1iis8) in full, from the arXiv copy; worth
+  read 2026-10-26 ([NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md)) in full, from the arXiv copy; worth
   reading as the first end-to-end circuit for a natural behaviour in a
   pretrained language model, for path patching, for the backup heads that
   take over when the main ones are knocked out, and for its three tests of
   a circuit explanation, which its own circuit passes on average and fails
-  under a greedy search (THEORY-tmpccb5u). Read it knowing that the
+  under a greedy search ([THEORY-tmpccb5u](../theory.d/THEORY-tmpccb5u.md)). Read it knowing that the
   behaviour is fifteen templates in one model, that MLPs are left out of
   the circuit though removing them breaks the task, that the dropout
-  explanation of the backups is a hypothesis (THEORY-tmpmd4za), and that a
+  explanation of the backups is a hypothesis ([THEORY-tmpmd4za](../theory.d/THEORY-tmpmd4za.md)), and that a
   few of its numbers and its greedy algorithm do not match their
   descriptions.
 title: 'Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small'
@@ -71,8 +71,8 @@ Wang, K., Variengien, A., Conmy, A., Shlegeris, B. and Steinhardt, J.
 (2022). Interpretability in the wild: a circuit for indirect object
 identification in GPT-2 small. arXiv:2211.00593.
 
-Read in full on 2026-10-26 (NOTE-tmp1iis8). Two accounts were drawn from
-it: THEORY-tmpccb5u and THEORY-tmpmd4za.
+Read in full on 2026-10-26 ([NOTE-tmp1iis8](../notes.d/NOTE-tmp1iis8.md)). Two accounts were drawn from
+it: [THEORY-tmpccb5u](../theory.d/THEORY-tmpccb5u.md) and [THEORY-tmpmd4za](../theory.d/THEORY-tmpmd4za.md).
 
 ## Why this is here
 
@@ -81,8 +81,8 @@ Registered and read at the owner's request of 2026-10-26, after an answer to
 almost none of the core circuits literature. The record already relied on
 its circuit second-hand. The Mechanistic Interpretability Benchmark's
 circuit track and its causal-variable IOI task are built on it
-(LIT-tmprlq7z), and Makelov et al.'s interpretability illusion (LIT-968,
-THEORY-282) is shown on its MLP8, with the faithful residual direction
+([LIT-tmprlq7z](LIT-tmprlq7z.md)), and Makelov et al.'s interpretability illusion ([LIT-968](LIT-968.md),
+[THEORY-282](../theory.d/THEORY-282.md)) is shown on its MLP8, with the faithful residual direction
 written only by its S-inhibition heads. It is the record's first full
 circuit for a natural behaviour in a pretrained model, as against the toy
-and attention-only models of LIT-tmp9dono and LIT-tmpe7b5o.
+and attention-only models of [LIT-tmp9dono](LIT-tmp9dono.md) and [LIT-tmpe7b5o](LIT-tmpe7b5o.md).

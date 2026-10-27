@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmp0p8a7) in full, from the arXiv copy (v5, the
+  read 2026-10-26 ([NOTE-tmp0p8a7](../notes.d/NOTE-tmp0p8a7.md)) in full, from the arXiv copy (v5, the
   NeurIPS 2022 version); worth reading for causal tracing, a
   corrupt-and-restore intervention that locates where a fact's recall
   depends on hidden states, for the finding that in GPT-2 XL that
   dependence concentrates at the last subject token in middle-layer MLPs,
-  and for the rank-one edit that tests it (THEORY-tmpom5gw). Read it
+  and for the rank-one edit that tests it ([THEORY-tmpom5gw](../theory.d/THEORY-tmpom5gw.md)). Read it
   knowing that the storage hypothesis it draws is wider than what it shows
-  (THEORY-tmpvugrm), that LIT-968 proves a working rank-one edit does not
+  ([THEORY-tmpvugrm](../theory.d/THEORY-tmpvugrm.md)), that [LIT-968](LIT-968.md) proves a working rank-one edit does not
   locate a fact, and that several numbers and figure references in v5 do
   not match.
 title: 'Locating and Editing Factual Associations in GPT'
@@ -71,8 +71,8 @@ summary: >-
 Meng, K., Bau, D., Andonian, A. and Belinkov, Y. (2022). Locating and
 editing factual associations in GPT. *NeurIPS 2022*. arXiv:2202.05262.
 
-Read in full on 2026-10-26 (NOTE-tmp0p8a7). Two accounts were drawn from
-it: THEORY-tmpom5gw and THEORY-tmpvugrm.
+Read in full on 2026-10-26 ([NOTE-tmp0p8a7](../notes.d/NOTE-tmp0p8a7.md)). Two accounts were drawn from
+it: [THEORY-tmpom5gw](../theory.d/THEORY-tmpom5gw.md) and [THEORY-tmpvugrm](../theory.d/THEORY-tmpvugrm.md).
 
 ## Why this is here
 
@@ -80,10 +80,10 @@ Registered and read at the owner's request of 2026-10-26, after an answer to
 "how's the record on neural circuit theory?" found that the record held
 almost none of the core circuits literature. It is the founding paper of
 locating knowledge by intervention in language models, and the record
-already held its critique without it: Makelov et al. (LIT-968, THEORY-282)
+already held its critique without it: Makelov et al. ([LIT-968](LIT-968.md), [THEORY-282](../theory.d/THEORY-282.md))
 show the interpretability illusion on GPT2-XL fact patches and prove that
 any one-dimensional fact patch has a rank-one edit with the same output,
 so that a working ROME edit does not show where a fact is stored. With
 this paper held, that argument has its target in the record. It is also
-the MLP counterpart of the attention-head circuits of LIT-tmp9dono and
-LIT-tmpj9tel.
+the MLP counterpart of the attention-head circuits of [LIT-tmp9dono](LIT-tmp9dono.md) and
+[LIT-tmpj9tel](LIT-tmpj9tel.md).

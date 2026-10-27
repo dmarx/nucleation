@@ -29,7 +29,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpajpeb
 summary: >-
-  Meng et al. (2022), LIT-tmpajpeb, read in NOTE-tmp0p8a7, §2.3 and §3:
+  Meng et al. (2022), [LIT-tmpajpeb](../literature.d/LIT-tmpajpeb.md), read in [NOTE-tmp0p8a7](../notes.d/NOTE-tmp0p8a7.md), §2.3 and §3:
   "the localized factual association hypothesis". It localizes recall
   along three dimensions, "(i) in the MLP modules (ii) at specific middle
   layers (iii) and specifically at the processing of the subject's last
@@ -42,7 +42,7 @@ summary: >-
 
 ## Source
 
-Meng et al. (2022), LIT-tmpajpeb, read in full in NOTE-tmp0p8a7.
+Meng et al. (2022), [LIT-tmpajpeb](../literature.d/LIT-tmpajpeb.md), read in full in [NOTE-tmp0p8a7](../notes.d/NOTE-tmp0p8a7.md).
 
 ## What is asserted
 
@@ -56,10 +56,10 @@ arrangement of individual layers in the middle range".
 
 ## What the record holds toward it
 
-- **For:** the traces and edits of THEORY-tmpom5gw. Restoring mid-layer
+- **For:** the traces and edits of [THEORY-tmpom5gw](THEORY-tmpom5gw.md). Restoring mid-layer
   MLP outputs at the last subject token recovers recall; editing there
   generalizes and stays specific; editing late attention only regurgitates.
-- **Against the inference:** Makelov et al. (LIT-968, THEORY-282). Fact
+- **Against the inference:** Makelov et al. ([LIT-968](../literature.d/LIT-968.md), [THEORY-282](THEORY-282.md)). Fact
   patches in GPT2-XL's MLPs found by distributed alignment search depend
   on the null space of W_out, the illusion's signature; any such patch has
   a rank-one edit with the same output at that token (their Lemma D.2);
@@ -73,7 +73,7 @@ arrangement of individual layers in the middle range".
 The paper's own warrant for "how" as well as "where" is that edits at the
 traced site work: "This evidence suggests that we have an accurate
 understanding not only of where factual associations are stored, but also
-how." That step is the one LIT-968 shows does not follow. The tracing
+how." That step is the one [LIT-968](../literature.d/LIT-968.md) shows does not follow. The tracing
 result is about sufficiency of restored states in a noised run, not about
 where recall happens in a clean one.
 

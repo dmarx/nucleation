@@ -139,7 +139,7 @@ its last occurrence and copies it.
 - **Larger models (asserted, deferred).** Induction heads built by
   K-composition with a previous-token head appear in large models and are
   "a central driver of in-context learning in language models of all
-  sizes", to be shown in the next paper (LIT-tmpe7b5o). A second induction
+  sizes", to be shown in the next paper ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)). A second induction
   mechanism, "pointer arithmetic" on positional embeddings through
   Q-composition, was seen once in GPT-2.
 
@@ -147,12 +147,12 @@ its last occurrence and copies it.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | With attention patterns frozen, an attention-only transformer without layer norm or biases is exactly a sum of path terms, and each head separates into QK and OV circuits | strong (algebra) | the reformulations; re-derived and checked numerically by the record (THEORY-tmphm85g) |
+| C1 | With attention patterns frozen, an attention-only transformer without layer norm or biases is exactly a sum of path terms, and each head separates into QK and OV circuits | strong (algebra) | the reformulations; re-derived and checked numerically by the record ([THEORY-tmphm85g](../theory.d/THEORY-tmphm85g.md)) |
 | C2 | Zero-layer models approximate bigram statistics; one-layer attention-only models are bigram plus skip-trigram tables | strong for the identity, moderate for the readings | the path expansion and inspected largest entries |
 | C3 | Most heads of a one-layer attention-only model copy | moderate | eigenvalue statistic, 10 of 12 heads in one model, agreeing with inspection |
-| C4 | In the two-layer model, composition is used mainly to build induction heads, by K-composition with a previous-token head | moderate | one model; composition scores (corrected), attention patterns, eigenvalues (THEORY-tmpb4xka) |
+| C4 | In the two-layer model, composition is used mainly to build induction heads, by K-composition with a previous-token head | moderate | one model; composition scores (corrected), attention patterns, eigenvalues ([THEORY-tmpb4xka](../theory.d/THEORY-tmpb4xka.md)) |
 | C5 | Virtual-head (V-composition) terms matter little in small two-layer models | moderate for this model | the term-importance ablation, figures not seen |
-| C6 | Induction heads built this way drive in-context learning at all sizes | weak here | deferred to the next paper; the record holds it as THEORY-tmpkd3fq |
+| C6 | Induction heads built this way drive in-context learning at all sizes | weak here | deferred to the next paper; the record holds it as [THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md) |
 | C7 | MLP layers resist this approach for lack of interpretable neurons | the authors' report | stated, not measured |
 
 ## Concepts
@@ -182,51 +182,51 @@ its last occurrence and copies it.
 
 ## Connections
 
-It rethinks the Distill Circuits programme (Zoom In, LIT-tmplq91w) for
+It rethinks the Distill Circuits programme (Zoom In, [LIT-tmplq91w](../literature.d/LIT-tmplq91w.md)) for
 transformers, and says why it must: the residual stream has no privileged
 basis, so it is studied through the weights that read and write it, not
 through its coordinates. It relates its path expansion to Dong et al.'s
 paths through self-attention, to Shazeer's multi-way einsums and to the
 logit lens, and reads Primer's depthwise convolution over keys as making
 induction heads expressible without K-composition, the point Olsson et
-al.'s smeared keys then test (LIT-tmpe7b5o, THEORY-tmp8cat0). Wang et al.'s
-IOI circuit (LIT-tmpj9tel) uses its notation and its induction and
+al.'s smeared keys then test ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md), [THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md)). Wang et al.'s
+IOI circuit ([LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md)) uses its notation and its induction and
 previous-token heads.
 
 ## Bearing on the record
 
-- **THEORY-tmp8cat0 and THEORY-tmpkd3fq.** This is where the induction
+- **[THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md) and [THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md).** This is where the induction
   head and its K-composition mechanism come from. The framework shows the
   mechanism in one two-layer model's weights; the next paper ties it to
   in-context learning across training and sizes. The framework's claim for
-  all sizes (C6) is the Proposed THEORY-tmpkd3fq, not something this paper
+  all sizes (C6) is the Proposed [THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md), not something this paper
   supports.
-- **THEORY-802, QUESTION-234 and THEORY-018.** "The residual stream doesn't
+- **[THEORY-802](../theory.d/THEORY-802.md), [QUESTION-234](../questions.d/QUESTION-234.md) and [THEORY-018](../theory.d/THEORY-018.md).** "The residual stream doesn't
   have a 'privileged basis'; we could rotate it by rotating all the
   matrices interacting with it, without changing model behavior." That is
-  the symmetry under which THEORY-802 says mediating directions are
-  underdetermined, and the reason THEORY-018 finds no intrinsic inner
+  the symmetry under which [THEORY-802](../theory.d/THEORY-802.md) says mediating directions are
+  underdetermined, and the reason [THEORY-018](../theory.d/THEORY-018.md) finds no intrinsic inner
   product on a final-layer representation. The framework's answer is to
   study basis-free objects (W_QK, W_OV, path terms), whose values do not
-  depend on the rotation. That is a way to choose units that THEORY-802's
+  depend on the rotation. That is a way to choose units that [THEORY-802](../theory.d/THEORY-802.md)'s
   non-uniqueness cannot touch, at the cost of describing heads, not
   features.
-- **QUESTION-tmpivbso, THEORY-tmp1dufu, THEORY-tmp9uzkw.** The framework
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md), [THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md), [THEORY-tmp9uzkw](../theory.d/THEORY-tmp9uzkw.md).** The framework
   reads a trained model at one time. Its composition scores and eigenvalue
   statistics are computable at every checkpoint, which is what the
   question's circuit-only arm needs. The correction shows how fragile such
   a score can be: a cyclic permutation inside a norm changed which heads
   seemed to compose.
-- **THEORY-783 and QUESTION-039.** The framework explains why one-layer
+- **[THEORY-783](../theory.d/THEORY-783.md) and [QUESTION-039](../questions.d/QUESTION-039.md).** The framework explains why one-layer
   attention-only models cannot form an induction head (no composition) and
   how architectures such as Primer remove the need for it. That is the
   dependency that Olsson et al.'s smeared keys then use to move the
   transition. It says nothing about training time.
-- **THEORY-169.** One-layer copying heads are "a kind of very primitive
+- **[THEORY-169](../theory.d/THEORY-169.md).** One-layer copying heads are "a kind of very primitive
   in-context learning", and induction heads a more powerful one. Both are
-  conditioning on context with fixed weights, the sense of THEORY-169.
-- **Accounts filed.** THEORY-tmphm85g (Active, demonstrated): the path
-  expansion. THEORY-tmpb4xka (Active): the two-layer model as measured,
+  conditioning on context with fixed weights, the sense of [THEORY-169](../theory.d/THEORY-169.md).
+- **Accounts filed.** [THEORY-tmphm85g](../theory.d/THEORY-tmphm85g.md) (Active, demonstrated): the path
+  expansion. [THEORY-tmpb4xka](../theory.d/THEORY-tmpb4xka.md) (Active): the two-layer model as measured,
   with the correction.
 
 No instruction for machine-learning practice is drawn; the methods are

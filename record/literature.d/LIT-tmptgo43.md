@@ -1,16 +1,16 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpbsp9v) in full, from the arXiv copy (v2, the
+  read 2026-10-26 ([NOTE-tmpbsp9v](../notes.d/NOTE-tmpbsp9v.md)) in full, from the arXiv copy (v2, the
   NeurIPS 2024 version); worth reading as the source of transcoder circuit
   analysis, for the factorization of a feature-to-feature attribution into
   an input-dependent activation times an input-invariant weight
-  (THEORY-tmp9ii0y), on which the attribution graphs of LIT-tmpsuo6l are
+  ([THEORY-tmp9ii0y](../theory.d/THEORY-tmp9ii0y.md)), on which the attribution graphs of [LIT-tmpsuo6l](LIT-tmpsuo6l.md) are
   built, and for its blind case studies, which grade the method against
   hidden prompts and report the failures. Read it knowing that the
   comparison with SAEs is one learning rate, one seed and three models
-  (THEORY-tmptjiep), that Gemma Scope found the reverse on Gemma 2 2B
-  (NOTE-482), that attention patterns are frozen and QK circuits are not
+  ([THEORY-tmptjiep](../theory.d/THEORY-tmptjiep.md)), that Gemma Scope found the reverse on Gemma 2 2B
+  ([NOTE-482](../notes.d/NOTE-482.md)), that attention patterns are frozen and QK circuits are not
   explained, and that its counts of case studies disagree between sections.
 title: 'Transcoders Find Interpretable LLM Feature Circuits'
 version: 2
@@ -70,8 +70,8 @@ summary: >-
 Dunefsky, J., Chlenski, P., & Nanda, N. (2024). Transcoders find
 interpretable LLM feature circuits. *NeurIPS 2024*. arXiv:2406.11944.
 
-Read in full on 2026-10-26 (NOTE-tmpbsp9v). Two accounts were drawn
-from it: THEORY-tmp9ii0y and THEORY-tmptjiep.
+Read in full on 2026-10-26 ([NOTE-tmpbsp9v](../notes.d/NOTE-tmpbsp9v.md)). Two accounts were drawn
+from it: [THEORY-tmp9ii0y](../theory.d/THEORY-tmp9ii0y.md) and [THEORY-tmptjiep](../theory.d/THEORY-tmptjiep.md).
 
 ## Why this is here
 
@@ -79,10 +79,10 @@ Registered and read at the owner's request of 2026-10-26, after the
 question "how's the record on neural circuit theory?" found that the
 record held almost none of the core circuits literature. The record's
 circuits line had reverse-engineered circuits in small or algorithmic
-models (LIT-345, LIT-tmpe7b5o), sparse dictionaries as units (LIT-323,
-LIT-611) and a benchmark for localization (LIT-tmprlq7z), but no method
+models ([LIT-345](LIT-345.md), [LIT-tmpe7b5o](LIT-tmpe7b5o.md)), sparse dictionaries as units ([LIT-323](LIT-323.md),
+[LIT-611](LIT-611.md)) and a benchmark for localization ([LIT-tmprlq7z](LIT-tmprlq7z.md)), but no method
 for tracing a circuit through MLP layers in terms of features. This is
 that method's source, and the direct ancestor of the attribution graphs of
-LIT-tmpsuo6l. It bears on CLAIM-tmpwr001 (a feature recovered from activity
-is not yet the variable that does the work) and on QUESTION-tmpivbso
+[LIT-tmpsuo6l](LIT-tmpsuo6l.md). It bears on [CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md) (a feature recovered from activity
+is not yet the variable that does the work) and on [QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md)
 (what a circuit-only description over checkpoints could be).

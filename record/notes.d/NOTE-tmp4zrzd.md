@@ -43,8 +43,8 @@ the heads you think matter, mean-ablate the rest. Causal scrubbing reads a
 hypothesis as a list of every activation swap it permits, performs all of
 them at once, and reports how much of the behaviour is left. It also gives
 the field's standing argument for resampling ablation over zero or mean
-ablation, which the later circuit-discovery work (ACDC, LIT-tmpoku9b;
-AtP*, LIT-tmp4de8g) cites as its reason to patch with activations from
+ablation, which the later circuit-discovery work (ACDC, [LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md);
+AtP*, [LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) cites as its reason to patch with activations from
 other inputs.
 
 ## Key insight
@@ -131,7 +131,7 @@ activations in any way that it hasn't specifically ruled out."
 |---|---|---|---|
 | C1 | A hypothesis of the form (G, I, c) mechanically determines the activation swaps it permits | demonstrated | §§2–3, the algorithm |
 | C2 | Resampling ablation tests "this module carries no task-relevant information" more faithfully than zero or mean ablation | interpretive argument | §4; details in an appendix not read |
-| C3 | The score depends on an interpretation node only through the partition of D it induces | demonstrated (re-derived by the record, THEORY-tmpblgxz) | §2's "weaker claim", §7, the pseudocode |
+| C3 | The score depends on an interpretation node only through the partition of D it induces | demonstrated (re-derived by the record, [THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md)) | §2's "weaker claim", §7, the pseudocode |
 | C4 | The paren-balance hypotheses recover 93% to 72% of the loss, falling with specificity | reported here, detailed in a companion post not read | §5.1 table |
 | C5 | A refined induction hypothesis recovers 86% where the naive one recovers 35% | reported here, detailed in a companion post not read | §5.2 |
 | C6 | A hypothesis that omits inhibitory components, or breaks a harmful correlation, can pass or score higher | argued with examples | §7 |
@@ -152,39 +152,39 @@ activations in any way that it hasn't specifically ruled out."
 ## Connections
 
 It is presented as a generalization of the "ablate, then measure" checks
-of Nanda and Lieberum's grokking work (LIT-345), the induction-heads paper
-(LIT-tmpe7b5o) and the IOI circuit, and is set against causal tracing.
-ACDC (LIT-tmpoku9b, Appendix N) describes itself as searching a narrow class of
+of Nanda and Lieberum's grokking work ([LIT-345](../literature.d/LIT-345.md)), the induction-heads paper
+([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)) and the IOI circuit, and is set against causal tracing.
+ACDC ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md), Appendix N) describes itself as searching a narrow class of
 causal-scrubbing hypotheses, in which each edge either matters or is
-resampled from one corrupted input. AtP* (LIT-tmp4de8g) adopts its noising
-and resampling choice. DAS (LIT-tmpsavwt) and Beckers, Eberhardt and Halpern
-(LIT-1310) belong to the causal-abstraction line, which tests alignments by
+resampled from one corrupted input. AtP* ([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) adopts its noising
+and resampling choice. DAS ([LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md)) and Beckers, Eberhardt and Halpern
+([LIT-1310](../literature.d/LIT-1310.md)) belong to the causal-abstraction line, which tests alignments by
 interchange interventions; Geiger et al. count circuit-based explanations,
 this one among them, as causal abstraction analysis.
 
 ## Bearing on the record
 
-- **QUESTION-234 and THEORY-802.** Causal scrubbing gives a second
+- **[QUESTION-234](../questions.d/QUESTION-234.md) and [THEORY-802](../theory.d/THEORY-802.md).** Causal scrubbing gives a second
   instrument, besides interchange intervention accuracy, that would be
-  blind to the ties THEORY-802 is about, for a sharper reason. The score
+  blind to the ties [THEORY-802](../theory.d/THEORY-802.md) is about, for a sharper reason. The score
   depends on an interpretation node only through the partition of D it
-  induces (THEORY-tmpblgxz), and the hypothesis may rewrite G before mapping
+  induces ([THEORY-tmpblgxz](../theory.d/THEORY-tmpblgxz.md)), and the hypothesis may rewrite G before mapping
   into it, which is where a change of basis would enter. Two alignments
   related by a change of basis that induce the same partitions therefore
   get the same score by construction. The method takes the decomposition
   into units as the hypothesis's own choice, as Wu et al. do, and does not
   privilege components, as Makelov et al. do.
-- **CLAIM-tmpwr001.** The authors' own limitation is a case of the claim:
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** The authors' own limitation is a case of the claim:
   a detector of a feature A can be misidentified as a detector of a
   feature B correlated with it, and the test will not complain. What the
   test certifies is a partition of the data, not the variable.
-- **THEORY-tmp8cat0 and THEORY-tmpkd3fq.** The induction result is a
+- **[THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md) and [THEORY-tmpkd3fq](../theory.d/THEORY-tmpkd3fq.md).** The induction result is a
   quantified refinement of the K-composition story in a two-layer
   attention-only model: the naive previous-token-key circuit explains 35%
   of the loss on induction-friendly text, and three further pathways are
   needed to reach 86%. The model, the dataset filter and the details are
   in the companion post, not read; the record holds only the summary.
-- **QUESTION-tmpivbso.** A scored hypothesis is a candidate measure of
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** A scored hypothesis is a candidate measure of
   "how much of the behaviour does this circuit account for" at a
   checkpoint, of a kind the question's circuit-only arm could track over
   training; nothing here applies it over training.
@@ -214,4 +214,4 @@ ablation to use is the anthology's question (`anthology-candidate`).
   depend on how the hypothesis was first written?
 - For a trained model, are there two hypotheses that differ by a change of
   basis crossing component boundaries and induce the same partitions
-  everywhere on D? That is QUESTION-234 asked of this instrument.
+  everywhere on D? That is [QUESTION-234](../questions.d/QUESTION-234.md) asked of this instrument.

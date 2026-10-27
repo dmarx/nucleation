@@ -19,13 +19,13 @@ date: '2026-10-26'
 source:
 - LIT-tmpajpeb
 summary: >-
-  Meng et al. (2022), LIT-tmpajpeb, read in NOTE-tmp0p8a7: §§2–3, Tables 1
+  Meng et al. (2022), [LIT-tmpajpeb](../literature.d/LIT-tmpajpeb.md), read in [NOTE-tmp0p8a7](../notes.d/NOTE-tmp0p8a7.md): §§2–3, Tables 1
   and 4, and Appendices A, B and E. Causal traces: ATE 18.6%; the
   mid-layer MLP effect at the last subject token peaks at AIE 6.6% against
   1.6% for attention. CounterFact on GPT-2 XL: ROME's score 89.2 (efficacy
   100.0, paraphrase 96.4, neighbourhood 75.4), next best 66.9. It does not
   say where facts are stored: a rank-one edit with the same output exists
-  for any one-dimensional fact patch (LIT-968).
+  for any one-dimensional fact patch ([LIT-968](../literature.d/LIT-968.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmpvugrm — Proposed; the storage hypothesis drawn from these results, cited as open -->
 
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Meng, Bau, Andonian and Belinkov (2022), NeurIPS 2022, arXiv:2202.05262,
-LIT-tmpajpeb, read in full in NOTE-tmp0p8a7.
+[LIT-tmpajpeb](../literature.d/LIT-tmpajpeb.md), read in full in [NOTE-tmp0p8a7](../notes.d/NOTE-tmp0p8a7.md).
 
 ## What was actually shown
 
@@ -68,8 +68,8 @@ generalization and specificity.
 
 ## What this does not say
 
-- **Not where facts are stored.** That inference is THEORY-tmpvugrm.
-  Makelov et al. (LIT-968) show that a rank-one edit with the same output
+- **Not where facts are stored.** That inference is [THEORY-tmpvugrm](THEORY-tmpvugrm.md).
+  Makelov et al. ([LIT-968](../literature.d/LIT-968.md)) show that a rank-one edit with the same output
   exists for any one-dimensional fact patch in an MLP, and that ROME edits
   are approximated by subspace patches over layers 20–35.
 - **Not that single layers matter.** MLP and attention effects are for
@@ -88,8 +88,8 @@ title uses neither.
 
 ## Connections
 
-- **THEORY-282** (Makelov et al.'s illusion) bears on what these results
+- **[THEORY-282](THEORY-282.md)** (Makelov et al.'s illusion) bears on what these results
   license, not on the results.
-- **THEORY-tmpccb5u.** The IOI circuit leaves MLPs out; here MLPs are the
+- **[THEORY-tmpccb5u](THEORY-tmpccb5u.md).** The IOI circuit leaves MLPs out; here MLPs are the
   decisive site for recall. Both are GPT-2-family models read with
   patching-type interventions.

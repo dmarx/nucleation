@@ -67,7 +67,7 @@ total.
   [L(M(x_clean | do(n ← n(x_noise)))) − L(M(x_clean))]: the absolute
   expected change in the metric when one node is noised with its value on
   a reference prompt. Zero and mean ablation are excluded by construction
-  (footnote 1). Noising, following causal scrubbing (LIT-tmpqtkua) and the
+  (footnote 1). Noising, following causal scrubbing ([LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md)) and the
   IOI work; denoising is briefly compared.
 - **AtP.** Î_AtP(n) = (n(x_noise) − n(x_clean))ᵀ ∂L/∂n at x_clean, with the
   absolute value taken inside the expectation over prompt pairs. Cost:
@@ -155,30 +155,30 @@ total.
 ## Connections
 
 Attribution patching was introduced by Nanda in a 2023 post, from work
-done at Anthropic in early 2022; ACDC's HISP baseline (LIT-tmpoku9b,
+done at Anthropic in early 2022; ACDC's HISP baseline ([LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md),
 Appendix D.2) is the same estimate up to an absolute value, and Syed,
 Rager and Conmy's edge attribution patching combines it with ACDC. The
-edge version with integrated gradients is the method behind LIT-tmpf4hwb
-and MIB's circuit track (LIT-tmprlq7z). The noising convention comes
-from causal scrubbing (LIT-tmpqtkua). The authors place causal
-abstraction (DAS, LIT-tmpsavwt) apart: it asks what low-level variables
+edge version with integrated gradients is the method behind [LIT-tmpf4hwb](../literature.d/LIT-tmpf4hwb.md)
+and MIB's circuit track ([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)). The noising convention comes
+from causal scrubbing ([LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md)). The authors place causal
+abstraction (DAS, [LIT-tmpsavwt](../literature.d/LIT-tmpsavwt.md)) apart: it asks what low-level variables
 mean, they ask which ones matter.
 
 ## Bearing on the record
 
-- **THEORY-802 and QUESTION-234.** Not directly. The paper localizes
+- **[THEORY-802](../theory.d/THEORY-802.md) and [QUESTION-234](../questions.d/QUESTION-234.md).** Not directly. The paper localizes
   effects to units fixed in advance (neurons, heads' queries, keys and
   values) and says that whether neurons are the right units is "out of
-  scope". Its rankings are relative to that choice, which is THEORY-802's
+  scope". Its rankings are relative to that choice, which is [THEORY-802](../theory.d/THEORY-802.md)'s
   point in another setting.
-- **THEORY-tmpoirdq.** That account's circuits are found with an
+- **[THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md).** That account's circuits are found with an
   edge-level descendant of this method. AtP's misses are concentrated in
   keys and queries behind saturated softmaxes, so a circuit drawn by
   plain attribution can lose attention edges for reasons of
   approximation, not of the model. That is a further reason, beside the
   budget effect that account records, for caution in reading circuit
   changes from such methods.
-- **QUESTION-tmpivbso.** A cheap way to rank node effects at every
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** A cheap way to rank node effects at every
   checkpoint in models of Pythia's size, which do release checkpoints;
   the paper does not use them.
 

@@ -19,7 +19,7 @@ date: '2026-10-26'
 source:
 - LIT-tmp9dono
 summary: >-
-  Elhage et al. (2021), LIT-tmp9dono, read in NOTE-tmpx60d8. For a two-layer
+  Elhage et al. (2021), [LIT-tmp9dono](../literature.d/LIT-tmp9dono.md), read in [NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md). For a two-layer
   model, T = Id ⊗ W_U W_E + Σ_h A^h ⊗ W_U W^h_OV W_E + Σ_{h₂,h₁}
   A^{h₂}A^{h₁} ⊗ W_U W^{h₂}_OV W^{h₁}_OV W_E, with each A^h computed from the
   model's own run and then held fixed. It is an identity, not an
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Elhage, Nanda, Olsson et al. (2021), *A Mathematical Framework for
-Transformer Circuits*, LIT-tmp9dono, read in full in NOTE-tmpx60d8:
+Transformer Circuits*, [LIT-tmp9dono](../literature.d/LIT-tmp9dono.md), read in full in [NOTE-tmpx60d8](../notes.d/NOTE-tmpx60d8.md):
 Transformer Overview, the one- and two-layer sections, and the notation and
 layer-norm appendices.
 
@@ -85,17 +85,17 @@ property.
 - **Not that the terms are interpretable, or that few matter.** Which
   terms carry the behaviour is an empirical question. In the one
   two-layer model studied, the authors find the virtual-head terms small
-  (THEORY-tmpb4xka).
+  ([THEORY-tmpb4xka](THEORY-tmpb4xka.md)).
 
 ## Connections
 
-- **THEORY-tmpb4xka** is the empirical reading of one two-layer model done
+- **[THEORY-tmpb4xka](THEORY-tmpb4xka.md)** is the empirical reading of one two-layer model done
   with this decomposition.
-- **THEORY-802.** Every term here is built from W_QK, W_OV, W_E and W_U, so
+- **[THEORY-802](THEORY-802.md).** Every term here is built from W_QK, W_OV, W_E and W_U, so
   its value is unchanged when the residual stream is rotated and all
   matrices reading and writing it are rotated with it. The decomposition
   is basis-free, which is why it is untouched by the non-uniqueness
-  THEORY-802 asserts for directions.
-- **THEORY-169** describes single attention layers as learners
+  [THEORY-802](THEORY-802.md) asserts for directions.
+- **[THEORY-169](THEORY-169.md)** describes single attention layers as learners
   conditioned on context; this identity is the bookkeeping by which such a
   layer's output is attributed to heads and paths.

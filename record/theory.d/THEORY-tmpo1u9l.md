@@ -18,8 +18,8 @@ date: '2026-10-26'
 source:
 - LIT-tmp4de8g
 summary: >-
-  Kramár, Lieberum, Shah & Nanda (2024), LIT-tmp4de8g, read in
-  NOTE-tmpz2cvc. Ground truth is each node's exact single-node noising
+  Kramár, Lieberum, Shah & Nanda (2024), [LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md), read in
+  [NOTE-tmpz2cvc](../notes.d/NOTE-tmpz2cvc.md). Ground truth is each node's exact single-node noising
   effect on the clean prompt's negative log probability. Recomputing the
   softmax for queries and keys removes many misses; dropping one layer's
   gradient at a time helps on single prompt pairs but not on the
@@ -37,7 +37,7 @@ extended_by:
 
 Kramár, Lieberum, Shah and Nanda (2024), *AtP\*: An efficient and
 scalable method for localizing LLM behaviour to components*, arXiv
-2403.00745, LIT-tmp4de8g, read in full in NOTE-tmpz2cvc: §§2–4, Figures
+2403.00745, [LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md), read in full in [NOTE-tmpz2cvc](../notes.d/NOTE-tmpz2cvc.md): §§2–4, Figures
 1–9 (Figures 1, 2 and 9 from page renderings), Appendices A and B.
 
 ## What was actually shown
@@ -76,7 +76,7 @@ on distributions, where averaging favours them.
 - **Not about coarser nodes.** Layers, residual streams and sliding
   windows are out of scope; the authors expect AtP to be worse there.
 - **Not about other models.** Pythia only; the transfer is
-  THEORY-tmpq26u7.
+  [THEORY-tmpq26u7](THEORY-tmpq26u7.md).
 - **Not that AtP* is always best.** On the two distributions AtP with the
   softmax fix (IOI) or plain AtP (A-AN) is cheaper.
 - **Not about multi-node effects.** The ground truth is single-node
@@ -84,9 +84,9 @@ on distributions, where averaging favours them.
 
 ## Connections
 
-- **THEORY-tmpoirdq.** Circuits found by edge attribution can drop
+- **[THEORY-tmpoirdq](THEORY-tmpoirdq.md).** Circuits found by edge attribution can drop
   attention edges where the softmax saturates, a source of apparent change
   that is the method's, not the model's.
-- **THEORY-tmp77xju.** ACDC's HISP baseline is this estimate up to the
+- **[THEORY-tmp77xju](THEORY-tmp77xju.md).** ACDC's HISP baseline is this estimate up to the
   absolute value; there it ranked hand-found edges below ACDC on three
   tasks, a different measure from this one.

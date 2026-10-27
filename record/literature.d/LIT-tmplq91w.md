@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmplg2yz) in full, from the Distill article; worth
+  read 2026-10-26 ([NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md)) in full, from the Distill article; worth
   reading as the programme statement of circuits research: features as the
   unit, circuits as weighted subgraphs between them that can be read off the
   weights, and universality across models, each offered by the authors as
   a deliberately speculative claim. Read it knowing that the examples are
   from one vision model, InceptionV1, that the detailed evidence was
   promised to later articles of the thread, and that the universality claim
-  rests, in the authors' word, on anecdote (THEORY-tmpx97zh,
-  THEORY-tmpgz1nk).
+  rests, in the authors' word, on anecdote ([THEORY-tmpx97zh](../theory.d/THEORY-tmpx97zh.md),
+  [THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md)).
 title: 'Zoom In: An Introduction to Circuits'
 version: 2
 history:
@@ -76,8 +76,8 @@ Olah, C., Cammarata, N., Schubert, L., Goh, G., Petrov, M. and Carter, S.
 (2020). Zoom in: An introduction to circuits. *Distill*, 10 March 2020.
 doi:10.23915/distill.00024.001.
 
-Read in full on 2026-10-26 (NOTE-tmplg2yz). Two accounts were drawn from
-it, both Proposed: THEORY-tmpx97zh and THEORY-tmpgz1nk.
+Read in full on 2026-10-26 ([NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md)). Two accounts were drawn from
+it, both Proposed: [THEORY-tmpx97zh](../theory.d/THEORY-tmpx97zh.md) and [THEORY-tmpgz1nk](../theory.d/THEORY-tmpgz1nk.md).
 
 ## Why this is here
 
@@ -85,9 +85,9 @@ Registered and read at the owner's request of 2026-10-26, after an answer to
 "how's the record on neural circuit theory?" found that the record held
 almost none of the core circuits literature. This is the work that names
 the programme. The record's circuits line had its later results, Toy Models
-of Superposition (LIT-323), the grokking circuit (LIT-345) and the
+of Superposition ([LIT-323](LIT-323.md)), the grokking circuit ([LIT-345](LIT-345.md)) and the
 induction-head papers, without the statement of what a feature and a
 circuit are and why they should be the units. It also names the universality
-hypothesis, which CLAIM-263's test for whether two networks compute the
+hypothesis, which [CLAIM-263](../claims.d/CLAIM-263.md)'s test for whether two networks compute the
 same way presupposes can fail, and it first describes as superposition the
-case that LIT-323 later models.
+case that [LIT-323](LIT-323.md) later models.

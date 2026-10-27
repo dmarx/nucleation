@@ -61,7 +61,7 @@ hyperparameter, and the paper finds the results sensitive to all of them.
   matched set x′_i on which it does not; activations on x′_i are the
   corrupted values. A subgraph H is evaluated by running the model on x_i
   with every edge not in H set to its value on x′_i (interchange
-  intervention, following causal scrubbing, LIT-tmpqtkua).
+  intervention, following causal scrubbing, [LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md)).
 - **The computational graph** is chosen in advance: heads split into
   query, key and value inputs, and MLPs, with edges between any earlier
   and later component through the residual stream; token positions are
@@ -136,7 +136,7 @@ hyperparameter, and the paper finds the results sensitive to all of them.
 | C3 | ACDC recovers the tracr circuits exactly with zero activations and poorly with corrupted ones | strong for two small programs | Tables 2–3, Figures 9–10, 21 |
 | C4 | Results are sensitive to the metric, the kind of ablation and the parent order | strong | Appendix E, J |
 | C5 | Methods optimizing one metric miss negative components at sparse thresholds | moderate | §4.1, Appendix F.3 |
-| C6 | Greedy edge pruning keeps only one input of an OR gate | demonstrated in a toy (THEORY-tmp1bwxc) | Appendix M |
+| C6 | Greedy edge pruning keeps only one input of an OR gate | demonstrated in a toy ([THEORY-tmp1bwxc](../theory.d/THEORY-tmp1bwxc.md)) | Appendix M |
 | C7 | ACDC can help new interpretability work (gendered pronouns) | anecdotal | Appendix K |
 
 ## Concepts
@@ -152,38 +152,38 @@ hyperparameter, and the paper finds the results sensitive to all of them.
 
 ## Connections
 
-It is causal scrubbing (LIT-tmpqtkua) turned into a search, and its HISP
-baseline is attribution patching, which AtP* (LIT-tmp4de8g) studies and
+It is causal scrubbing ([LIT-tmpqtkua](../literature.d/LIT-tmpqtkua.md)) turned into a search, and its HISP
+baseline is attribution patching, which AtP* ([LIT-tmp4de8g](../literature.d/LIT-tmp4de8g.md)) studies and
 which Syed, Rager and Conmy later found to outperform ACDC. The ground
 truths come from the IOI, Greater-Than and Docstring studies and from
 tracr. The record's later circuit work rests on its descendants: Wang et
-al.'s circuits over fine-tuning (LIT-tmpf4hwb, THEORY-tmpoirdq) are found
+al.'s circuits over fine-tuning ([LIT-tmpf4hwb](../literature.d/LIT-tmpf4hwb.md), [THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md)) are found
 with edge attribution patching with integrated gradients, and MIB
-(LIT-tmprlq7z) benchmarks that family. The induction task links it to
-Olsson et al. (LIT-tmpe7b5o).
+([LIT-tmprlq7z](../literature.d/LIT-tmprlq7z.md)) benchmarks that family. The induction task links it to
+Olsson et al. ([LIT-tmpe7b5o](../literature.d/LIT-tmpe7b5o.md)).
 
 ## Bearing on the record
 
-- **THEORY-802 and QUESTION-234.** Two findings bear on "several
+- **[THEORY-802](../theory.d/THEORY-802.md) and [QUESTION-234](../questions.d/QUESTION-234.md).** Two findings bear on "several
   distinct, fully correct" explanations. First, the OR-gate case: when
   two paths are each sufficient, greedy pruning returns one of them, and
-  which one depends on visiting order (THEORY-tmp1bwxc), so the returned
+  which one depends on visiting order ([THEORY-tmp1bwxc](../theory.d/THEORY-tmp1bwxc.md)), so the returned
   circuit is one of several sufficient subgraphs. Second, the IOI run at a
   low threshold returns many heads the manual work did not report while
   matching the model better than the manual circuit does (KL 0.44 for the
   reported circuit). Neither is a tie between basis-related alignments of
   one variable; both are underdetermination at the level of components,
-  which QUESTION-234 does not ask about.
-- **THEORY-tmpoirdq.** That account's caution, that edge counts under a
+  which [QUESTION-234](../questions.d/QUESTION-234.md) does not ask about.
+- **[THEORY-tmpoirdq](../theory.d/THEORY-tmpoirdq.md).** That account's caution, that edge counts under a
   fixed budget can change without reorganization, has a companion here:
   which edges a pruning method keeps depends on threshold, metric and
   order, so a change in the returned circuit between checkpoints need not
   be a change in the model.
-- **QUESTION-tmpivbso.** ACDC is a ready circuit-only arm for checkpoints
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** ACDC is a ready circuit-only arm for checkpoints
   in small attention-only models: the paper's induction setting is the
   question's. Its sensitivity to order and ablation type means a
   developmental series would need those fixed across checkpoints.
-- **THEORY-tmp8cat0, THEORY-tmp1dufu.** ACDC on the two-layer
+- **[THEORY-tmp8cat0](../theory.d/THEORY-tmp8cat0.md), [THEORY-tmp1dufu](../theory.d/THEORY-tmp1dufu.md).** ACDC on the two-layer
   attention-only induction model finds the two induction heads and the
   previous-token head, the circuit those accounts follow over training,
   in a trained model only.

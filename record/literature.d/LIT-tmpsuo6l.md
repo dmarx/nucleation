@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-26 (NOTE-tmpn9fx3), main text in full and five appendices,
+  read 2026-10-26 ([NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md)), main text in full and five appendices,
   from the Transformer Circuits page; worth reading for the attribution
   graph, a prompt's computation rewritten exactly in sparse features of a
-  local replacement model (THEORY-tmpbtnf0), for its own measurements of
+  local replacement model ([THEORY-tmpbtnf0](../theory.d/THEORY-tmpbtnf0.md)), for its own measurements of
   how far that replacement responds to perturbation like the model
-  (THEORY-tmpm4ifd), for the parallelogram constraint on one-step sums
-  (THEORY-tmp7rb6m), and for a limitations section that names where the
+  ([THEORY-tmpm4ifd](../theory.d/THEORY-tmpm4ifd.md)), for the parallelogram constraint on one-step sums
+  ([THEORY-tmp7rb6m](../theory.d/THEORY-tmp7rb6m.md)), and for a limitations section that names where the
   method fails: attention, error nodes, inactive features. Read it knowing
   that the graphs explain the replacement, not the model, that intervening
   confirms a direct edge almost by construction, that the replacement
@@ -80,8 +80,8 @@ Citro, C., et al. (2025). Circuit tracing: Revealing computational graphs
 in language models. *Transformer Circuits Thread*, 27 March 2025.
 <https://transformer-circuits.pub/2025/attribution-graphs/methods.html>
 
-Read on 2026-10-26, main text in full (NOTE-tmpn9fx3). Three accounts were
-drawn from it: THEORY-tmpbtnf0, THEORY-tmpm4ifd and THEORY-tmp7rb6m.
+Read on 2026-10-26, main text in full ([NOTE-tmpn9fx3](../notes.d/NOTE-tmpn9fx3.md)). Three accounts were
+drawn from it: [THEORY-tmpbtnf0](../theory.d/THEORY-tmpbtnf0.md), [THEORY-tmpm4ifd](../theory.d/THEORY-tmpm4ifd.md) and [THEORY-tmp7rb6m](../theory.d/THEORY-tmp7rb6m.md).
 
 ## Why this is here
 
@@ -90,9 +90,9 @@ record on neural circuit theory?" found that the record held almost none
 of the core circuits literature. It is the method behind most circuit
 claims about large language models since 2025, and the companion of
 LIT-tmpjvwet, whose case studies use it. It extends Dunefsky et al.
-(LIT-tmptgo43). For the record's circuits line it supplies what the line
+([LIT-tmptgo43](LIT-tmptgo43.md)). For the record's circuits line it supplies what the line
 lacked: a stated, testable sense in which a circuit is read off a large
 model, and the authors' own measurement of where that reading departs
-from the model. It bears on CLAIM-tmpwr001, on THEORY-022 (its addition
+from the model. It bears on [CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md), on [THEORY-022](../theory.d/THEORY-022.md) (its addition
 features against the grokking network's Fourier circuit), and on
-QUESTION-tmpivbso.
+[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).

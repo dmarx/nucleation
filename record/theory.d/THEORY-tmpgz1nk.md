@@ -26,7 +26,7 @@ date: '2026-10-26'
 source:
 - LIT-tmplq91w
 summary: >-
-  Olah et al. (2020), LIT-tmplq91w, read in NOTE-tmplg2yz: Claim 3, the
+  Olah et al. (2020), [LIT-tmplq91w](../literature.d/LIT-tmplq91w.md), read in [NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md): Claim 3, the
   universality hypothesis. Curve detectors and high-low frequency detectors
   are reported in AlexNet, InceptionV1, VGG19 and ResNetV2-50, with
   InceptionV3, a Places365 model and conv nets trained from scratch named
@@ -39,8 +39,8 @@ summary: >-
 
 ## Source
 
-Olah et al. (2020), *Zoom In*, LIT-tmplq91w, read in full in
-NOTE-tmplg2yz: Claim 3.
+Olah et al. (2020), *Zoom In*, [LIT-tmplq91w](../literature.d/LIT-tmplq91w.md), read in full in
+[NOTE-tmplg2yz](../notes.d/NOTE-tmplg2yz.md): Claim 3.
 
 ## What is asserted
 
@@ -68,10 +68,10 @@ test, which the promote_when takes over.
 
 ## Connections
 
-- **CLAIM-263** proposes a test of whether two trained networks compute
+- **[CLAIM-263](../claims.d/CLAIM-263.md)** proposes a test of whether two trained networks compute
   the same way. Universality is the hypothesis that, for analogous models,
   that test would mostly find shared structure.
-- **THEORY-tmpx97zh** is the companion claim that features and circuits
+- **[THEORY-tmpx97zh](THEORY-tmpx97zh.md)** is the companion claim that features and circuits
   are the units in the first place; universality presupposes it.
 - The essay notes that universality is not needed for circuits research,
   but would decide which kind makes sense.

@@ -17,7 +17,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpoku9b
 summary: >-
-  Conmy et al. (2023), LIT-tmpoku9b, Appendix M, read in NOTE-tmp6m8zr.
+  Conmy et al. (2023), [LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md), Appendix M, read in [NOTE-tmp6m8zr](../notes.d/NOTE-tmp6m8zr.md).
   For out = 1 − ReLU(1 − x − y) with x = y = 1, removing either input alone
   leaves the output at 1, so the first one visited is pruned and the
   second is then kept; visiting y first keeps x instead. It does not say
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Conmy, Mavor-Parker, Lynch, Heimersheim and Garriga-Alonso (2023),
-LIT-tmpoku9b, read in full in NOTE-tmp6m8zr: Algorithm 1 (§3), Appendix J
+[LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md), read in full in [NOTE-tmp6m8zr](../notes.d/NOTE-tmp6m8zr.md): Algorithm 1 (§3), Appendix J
 (parent order on induction) and Appendix M (OR gates).
 
 ## What was actually shown
@@ -69,10 +69,10 @@ was important to achieve better results" (Appendix J).
 
 ## Connections
 
-- **THEORY-802 and QUESTION-234.** THEORY-802 asserts several distinct,
+- **[THEORY-802](THEORY-802.md) and [QUESTION-234](../questions.d/QUESTION-234.md).** [THEORY-802](THEORY-802.md) asserts several distinct,
   fully correct abstractions at the level of directions; this is the same
   shape at the level of components, proved for a constructed case. It
-  does not meet THEORY-802's promote_when, which asks about basis-related
+  does not meet [THEORY-802](THEORY-802.md)'s promote_when, which asks about basis-related
   alignments of one variable.
-- **THEORY-tmpblgxz.** Causal scrubbing, of which ACDC searches a narrow
+- **[THEORY-tmpblgxz](THEORY-tmpblgxz.md).** Causal scrubbing, of which ACDC searches a narrow
   class, is likewise silent between hypotheses that score alike.

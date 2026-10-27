@@ -16,7 +16,7 @@ date: '2026-10-26'
 source:
 - LIT-tmpoku9b
 summary: >-
-  Conmy et al. (2023), LIT-tmpoku9b, read in NOTE-tmp6m8zr. Edge AUCs with
+  Conmy et al. (2023), [LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md), read in [NOTE-tmp6m8zr](../notes.d/NOTE-tmp6m8zr.md). Edge AUCs with
   corrupted activations and KL: Docstring 0.982, Greater-Than 0.853, IOI
   0.869 for ACDC, against 0.805, 0.693, 0.789 for HISP and 0.937, 0.806,
   0.823 for SP. It does not say ACDC finds the true circuit: the reported
@@ -31,7 +31,7 @@ summary: >-
 
 Conmy, Mavor-Parker, Lynch, Heimersheim and Garriga-Alonso (2023),
 *Towards automated circuit discovery for mechanistic interpretability*,
-NeurIPS 2023, LIT-tmpoku9b, read in full in NOTE-tmp6m8zr: §§3–4,
+NeurIPS 2023, [LIT-tmpoku9b](../literature.d/LIT-tmpoku9b.md), read in full in [NOTE-tmp6m8zr](../notes.d/NOTE-tmp6m8zr.md): §§3–4,
 Appendices C–J, Tables 2 and 3.
 
 ## What was actually shown
@@ -69,16 +69,16 @@ greedy patching on the language-model tasks; neither did.
   induction.
 - **Not that ACDC is best on tracr.** The paper's §4.1 says ACDC leads on
   tracr-reverse; Table 2 gives 0.200 against HISP's 0.577 with corrupted
-  activations (NOTE-tmp6m8zr, Limitations).
+  activations ([NOTE-tmp6m8zr](../notes.d/NOTE-tmp6m8zr.md), Limitations).
 - **Not complete.** At sparse thresholds negative name movers are missed,
-  and an OR gate keeps one input (THEORY-tmp1bwxc).
+  and an OR gate keeps one input ([THEORY-tmp1bwxc](THEORY-tmp1bwxc.md)).
 - **Not about later methods.** Edge attribution patching, which later
   work reports as better, is not compared here.
 
 ## Connections
 
-- **THEORY-tmpoirdq.** Circuits compared across fine-tuning are found with
+- **[THEORY-tmpoirdq](THEORY-tmpoirdq.md).** Circuits compared across fine-tuning are found with
   this family of methods; their dependence on threshold, metric and order
   is a reason a changed circuit need not be a changed model.
-- **QUESTION-tmpivbso.** A circuit-only measurement that could be run at
+- **[QUESTION-tmpivbso](../questions.d/QUESTION-tmpivbso.md).** A circuit-only measurement that could be run at
   every checkpoint of a small model, with those choices held fixed.

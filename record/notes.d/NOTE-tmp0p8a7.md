@@ -61,7 +61,7 @@ of those MLPs, at that token, changes the fact in a way that generalizes
 and stays specific, and that editing elsewhere does worse. The authors
 infer that middle MLPs are key–value stores keyed by the subject. The
 inference from "editing here works" to "the fact is stored here" is the
-step the record holds to be unproven (LIT-968).
+step the record holds to be unproven ([LIT-968](../literature.d/LIT-968.md)).
 
 ## Assumptions
 
@@ -138,11 +138,11 @@ step the record holds to be unproven (LIT-968).
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | In GPT-2 XL, restoring states at middle layers of the last subject token recovers much of a corrupted fact's probability, mostly through MLP outputs | strong for this measure | 1000 facts, confidence intervals in Figure 7, robust to corruption choices (THEORY-tmpom5gw) |
+| C1 | In GPT-2 XL, restoring states at middle layers of the last subject token recovers much of a corrupted fact's probability, mostly through MLP outputs | strong for this measure | 1000 facts, confidence intervals in Figure 7, robust to corruption choices ([THEORY-tmpom5gw](../theory.d/THEORY-tmpom5gw.md)) |
 | C2 | The same pattern holds in GPT-J, GPT-NeoX and smaller GPT-2s | moderate | traces in Appendix B, with the noted differences |
 | C3 | ROME edits generalize and stay specific better than the other editors tested | strong for these baselines and metrics | Table 4; the record recomputed S |
 | C4 | Edits work best where tracing points (last subject token, middle layers) | moderate | Figure 5, one model |
-| C5 | Mid-layer MLPs store factual associations as linear key–value memories keyed by the subject | weak to moderate | inferred from C1 and C4; LIT-968 shows C4 does not imply it (THEORY-tmpvugrm) |
+| C5 | Mid-layer MLPs store factual associations as linear key–value memories keyed by the subject | weak to moderate | inferred from C1 and C4; [LIT-968](../literature.d/LIT-968.md) shows C4 does not imply it ([THEORY-tmpvugrm](../theory.d/THEORY-tmpvugrm.md)) |
 | C6 | Any middle MLP layer could store any fact equivalently | conjecture | stated from Zhao et al.'s layer-swap result, not tested |
 | C7 | Late attention reads the recalled attribute and moves it to the prediction | moderate | traces and AttnEdit's regurgitation |
 
@@ -170,40 +170,40 @@ hidden states, takes MLPs as key–value memories from Geva et al. (2021) and
 the rank-one insertion from Bau et al.'s rewriting of generative models
 (2020), and compares with fine-tuning, constrained fine-tuning (Zhu et
 al.), Knowledge Neurons (Dai et al.), KE (De Cao et al.) and MEND (Mitchell
-et al.). It cites Elhage et al. (LIT-tmp9dono) for attention as copying.
+et al.). It cites Elhage et al. ([LIT-tmp9dono](../literature.d/LIT-tmp9dono.md)) for attention as copying.
 MEMIT (Meng et al. 2022) extends it to many edits. The record holds the
-principal critique: Makelov et al. (LIT-968). The record does not hold
+principal critique: Makelov et al. ([LIT-968](../literature.d/LIT-968.md)). The record does not hold
 Hase et al.'s test of whether tracing predicts which layer edits best.
 
 ## Bearing on the record
 
-- **LIT-968, THEORY-282.** Makelov et al. prove (their Lemma D.2) that any
+- **[LIT-968](../literature.d/LIT-968.md), [THEORY-282](../theory.d/THEORY-282.md).** Makelov et al. prove (their Lemma D.2) that any
   one-dimensional fact patch in an MLP has a rank-one weight edit with the
   same output at that token, and find ROME edits approximated by subspace
   interventions across layers 20–35 of GPT2-XL, whose fact patches depend
   on the null space of W_out. So a successful rank-one edit at a layer is
   available whether or not the fact is "stored" there. That undercuts C5
-  and the reading of C4 as confirmation, not C1 or C3. THEORY-tmpvugrm is
+  and the reading of C4 as confirmation, not C1 or C3. [THEORY-tmpvugrm](../theory.d/THEORY-tmpvugrm.md) is
   filed Proposed for that reason.
-- **CLAIM-tmpwr001.** Causal tracing locates where restoring a state helps
+- **[CLAIM-tmpwr001](../claims.d/CLAIM-tmpwr001.md).** Causal tracing locates where restoring a state helps
   a corrupted run; ROME shows where writing a state changes the output.
   Neither locates the variable that does the work in the uncorrupted
   model, which is the distinction the claim draws between a recovered
   feature and what organizes the behaviour. The analogy is the record's.
-- **QUESTION-030 and CLAIM-130.** Causal tracing is an intervention that
-  sets states to values from another run, as in CLAIM-130's do(S)
+- **[QUESTION-030](../questions.d/QUESTION-030.md) and [CLAIM-130](../claims.d/CLAIM-130.md).** Causal tracing is an intervention that
+  sets states to values from another run, as in [CLAIM-130](../claims.d/CLAIM-130.md)'s do(S)
   caution. Restoring a clean state into a noised run tests sufficiency
   within that run, not what constitutes recall.
-- **THEORY-802.** The key k* is a direction in MLP activation space chosen
+- **[THEORY-802](../theory.d/THEORY-802.md).** The key k* is a direction in MLP activation space chosen
   by averaging; the value v* is found by optimization. Many (k, v) pairs
   could produce the same edit, and the paper does not ask whether its pair
   is the one the model uses.
-- **LIT-tmpj9tel.** IOI finds a circuit of heads with MLPs left out; this
+- **[LIT-tmpj9tel](../literature.d/LIT-tmpj9tel.md).** IOI finds a circuit of heads with MLPs left out; this
   paper finds MLPs decisive for facts and attention for moving them. The
   two are complementary pictures of GPT-2-family models, each treating the
   other's components as given.
-- **Accounts filed.** THEORY-tmpom5gw (Active): the traces and the edits
-  as measured. THEORY-tmpvugrm (Proposed): the localized factual
+- **Accounts filed.** [THEORY-tmpom5gw](../theory.d/THEORY-tmpom5gw.md) (Active): the traces and the edits
+  as measured. [THEORY-tmpvugrm](../theory.d/THEORY-tmpvugrm.md) (Proposed): the localized factual
   association hypothesis.
 
 No instruction for machine-learning practice is drawn; model editing and
@@ -219,7 +219,7 @@ its evaluation are practice, the anthology's (`anthology-candidate`).
   matters.
 - **zsRE specificity** is insensitive, as the authors note; CounterFact's
   neighbourhood prompts fix that for related subjects only.
-- **Editing success is not localization** (LIT-968).
+- **Editing success is not localization** ([LIT-968](../literature.d/LIT-968.md)).
 - **One fact per edit, directional, factual associations only.**
 
 ### Errors and inconsistencies found
