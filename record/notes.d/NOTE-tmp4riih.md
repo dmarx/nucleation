@@ -1,0 +1,384 @@
+---
+status: Read
+paper: LIT-tmpwhycq
+title: 'Stewart, Golubitsky & Pivato — Symmetry groupoids and patterns of synchrony'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the accepted version in the University of Warwick
+    repository (WRAP, http://wrap.warwick.ac.uk/182/1/WRAP_Stewart_groupoid_siam.pdf,
+    "made available online in accordance with publisher policies"),
+    fetched 2026-10-27: a one-page repository cover and the paper, 39 pp.
+    in all, carrying the journal's pagination 609–646. The text was
+    extracted with `pdftotext -layout`; I read the abstract, §§1–10, every
+    definition, lemma, theorem, proof and remark, the figure captions, the
+    acknowledgements and the sixteen references. Figures 3, 11, 12 and 19
+    were also viewed as rendered pages, because the extraction loses their
+    arrows. The extraction renders the paper's equivalence-relation symbol
+    ⋈ as ".2" and drops some superscripts (Rℓ appears as "R"); both were
+    checked against the rendered pages. Pages below are the journal's. The
+    published SIAM version was not read, so differences between it and
+    the accepted text are unknown.
+date: '2026-10-27'
+summary: >-
+  In a coupled cell network, an equivalence relation on the cells gives a
+  synchrony subspace invariant under every vector field the network
+  admits if and only if it is balanced: every two equivalent cells have an
+  input isomorphism that maps each input to an equivalent one (Theorem
+  6.5). Symmetry is one source of balance, not the only one, so robust
+  synchrony occurs in networks with no symmetry. The dynamics on such a
+  subspace are admissible for a smaller quotient network (Theorem 9.2),
+  which can have a symmetry the original lacks. The paper treats
+  existence only, not stability, and says so.
+---
+<!-- inactive-ok-file: CLAIM-tmpdjt64 CLAIM-157 QUESTION-063 QUESTION-147 — Proposed or Open; the entries the reading bears on, cited as open -->
+
+# NOTE-tmp4riih: Stewart, Golubitsky & Pivato — Symmetry groupoids and patterns of synchrony
+
+## Contribution
+
+It answers, in the negative, "whether symmetry is the only mechanism that
+can create such states in a coupled cell system" (abstract, p. 609), and
+replaces the symmetry group by a groupoid built from the network's input
+sets. Two theorems follow. A pattern of synchrony is forced by the
+architecture alone, for every admissible dynamics, exactly when its
+equivalence relation on cells is balanced (Theorem 6.5, p. 630). The
+dynamics restricted to it are those of a quotient network, a smaller
+coupled cell network built from the classes (§7, Theorems 8.3, 8.4 and
+9.2, pp. 634–644). The paper is the foundation of what later work calls
+the groupoid formalism for coupled cell networks; its stated scope is "a
+preliminary step toward a formal understanding of pattern-formation in
+general, not necessarily symmetric, coupled cell networks" (p. 645).
+
+## Key insight
+
+A cell's equation depends only on its input set, so two cells are forced
+to evolve alike whenever their inputs look alike, whether or not any
+permutation of the whole network says so. "This permutation is not a
+symmetry of the whole network, but it preserves enough structure to create
+a flow-invariant subspace" (p. 613). Colour the cells by class: the pattern
+is robust "if and only if every pair of ⋈-equivalent cells is connected by
+a color preserving groupoid element" (p. 630), that is, if each cell of a
+colour receives the same number of inputs of each colour through each kind
+of arrow. Synchrony is then a statement about equal input, not about the
+synchronized cells being coupled to each other.
+
+## Assumptions
+
+- **Network (Definition 2.1, p. 616).** A finite set of cells C; arrows
+  E ⊆ C × C, so at most one arrow of a given direction between two cells;
+  an equivalence ∼_C on cells (cell type) and ∼_E on arrows (coupling
+  type), with equivalent arrows having equivalent heads and tails. Every
+  cell is "active", carrying an internal edge (c, c) (eq. 2.1). The
+  authors say finiteness and activity can be relaxed (p. 616); they do not
+  do it.
+- **Dynamics (Definition 4.1, p. 622).** Each cell has a phase space P_c, a
+  nonzero finite-dimensional real vector space, equal for cells of one
+  type (p. 621). A vector field f is admissible if (a) f_c depends only on
+  the cells of the input set I(c) (domain condition, eq. 4.3) and (b)
+  f_β(c)(x) = f_c(β*(x)) for every input isomorphism β (equivariance
+  condition, eq. 4.5). Nothing else is assumed: the coupling need not be
+  additive, "the time-evolution of cell C can in principle be any (smooth)
+  function of the states of C, A, and B" (p. 610).
+- **"Robust" means invariant for every admissible vector field**
+  (Definition 6.2, p. 628): f(Δ_⋈) ⊆ Δ_⋈ for all f ∈ F_G^P. It does not
+  mean stable, and it does not mean invariant for a particular model
+  family inside the admissible class.
+- **The relation ⋈ refines cell type** (p. 628), so that the polydiagonal
+  Δ_⋈ = {x : x_c = x_d whenever c ⋈ d} is defined.
+- **Existence, not stability.** "in this paper we are studying existence,
+  not stability, and we do not wish to rule out unstable synchrony because
+  it still corresponds to an invariant subspace for the dynamics" (p. 626).
+
+## Key results
+
+### Robust synchrony without symmetry (§1, pp. 610–615)
+
+- **Figure 3, eq. (1.5), p. 612.** Cells 1 and 2 (same type) are coupled
+  to each other by equivalent arrows and both receive an equivalent arrow
+  from cell 3; cell 3 receives only from cell 1. ẋ₁ = f(x₁, x₂, x₃),
+  ẋ₂ = f(x₂, x₁, x₃), ẋ₃ = g(x₃, x₁). "This network has no symmetry, but
+  the network structure forces the "polydiagonal" subspace Y = {x : x₁ =
+  x₂} to be flow-invariant." The permutation (1 2) maps the input sets of
+  1 and 2 onto each other but is not a symmetry, since cell 3's equation
+  changes under it; it agrees on Y, "and this is enough to make Y
+  flow-invariant" (p. 613).
+- **Seven-cell chain with a back connection, Figures 5–8, pp. 613–615.** A
+  feed-forward chain with cell 1 fed back from cell 3. All input sets are
+  isomorphic, the network has "many groupoid symmetries (42 in all)"
+  (p. 614), and setting x₇ = x₄ = x₁, x₆ = x₃, x₅ = x₂ (eq. 1.8) reduces it
+  to the three-cell directed ring (1.9), whose discrete rotating wave by
+  Hopf bifurcation lifts to a travelling wave of the chain (Figure 8). The
+  authors find it "curious" that the back-coupled chain, "less regular in
+  form", is the one where travelling waves are typical (p. 614).
+
+### The groupoid and the admissible vector fields (§§3–4, pp. 617–625)
+
+- **Input isomorphism (Definition 3.2, p. 617).** A bijection
+  β : I(c) → I(d) with β(c) = d and (i, c) ∼_E (β(i), d) for every i. The
+  symmetry groupoid B_G is the (disjoint) union of all sets B(c, d)
+  (Definition 3.5, p. 618); B(c, c) is the vertex group. Its connected
+  components are the input-equivalence classes (Lemma 3.8, p. 620), and
+  B(c, c) = S_k₁ × ⋯ × S_kᵣ, permutations within each class of equivalent
+  input arrows (p. 620).
+- **Admissible = groupoid-equivariant** (Definition 4.1). Example 4.4
+  (pp. 622–623) shows the admissible fields of Figure 9's network are
+  f₁ = A(x₁, x₃, x₄), f₂ = B(x₂, x₁), f₃ = B(x₃, x₁), f₄ = C(x₄, x₂, x₃) with
+  C symmetric in x₂, x₃, though the network "is not symmetric under the
+  2-cycle (2 3)".
+- **Lemma 4.5 and Proposition 4.6 (pp. 624–625).** A B(q, q)-invariant map
+  at one cell of an input class extends uniquely to an admissible field
+  supported on that class, and F_G^P is the direct sum of these pieces over
+  the input classes. These supply the special vector fields the proofs
+  use.
+
+### The main theorem on polysynchrony (§6, pp. 627–632)
+
+- **Lemma 6.3, p. 629.** A robustly polysynchronous relation refines input
+  equivalence: only input-isomorphic cells can be robustly synchronous.
+- **Definition 6.4, p. 629 (balanced).** ⋈ is balanced if for all c ⋈ d,
+  c ≠ d, there is γ ∈ B(c, d) with i ⋈ γ(i) for all i ∈ I(c).
+- **Theorem 6.5, p. 630.** "Let ⋈ be an equivalence relation on a coupled
+  cell network. Then ⋈ is robustly polysynchronous if and only if ⋈ is
+  balanced." Sufficiency is immediate (f_c = f_d on Δ_⋈). Necessity is
+  proved by building, for each class of input arrows K_s at c, the
+  admissible field h_c(x) = M(Σ_{i∈K_s} x_i) with M a nonzero linear map
+  (eq. 6.4), and evaluating it on a vector equal to v on one ⋈-class U and
+  0 elsewhere. Invariance forces the counting condition
+  |U ∩ K_s| = |U ∩ L_s| (eq. 6.2) for every class U and arrow type s, which
+  builds the colour-preserving γ (pp. 631–632).
+- **Example 5.1 and its modification (pp. 626–629).** In the ten-cell
+  network of Figure 11 the classes {0, 1}, {2, 3, 6, 8}, {4, 5, 7, 9} are
+  balanced. Recolouring cell 6 breaks it: g₁ = A(u, w, w, v, w) differs from
+  g₀ because of "multiplicity", three w's against two (p. 629). Cells 4, 5,
+  7, 9 are robustly synchronous without any arrow between them: each
+  receives one input of type ○ and one from the class {2, 3, 6, 8}
+  (Figure 12, p. 626). Cells 2, 3, 6, 8, which have no inputs but
+  themselves, "can be considered synchronous in our formalism. Of course
+  such a form of synchrony is dynamically unstable" (p. 626).
+
+### Quotient networks (§§7–8, pp. 632–641)
+
+- **Example 7.1, pp. 632–633.** A homogeneous five-cell network (Figure 15)
+  whose admissible fields are (7.1), with f symmetric in its last two
+  arguments. On the balanced polydiagonal {(x, y, x, y, z)} they restrict
+  to ẋ = f(x, y, z), ẏ = f(y, z, x), ż = f(z, x, y) (eq. 7.2), the general
+  field of a three-cell bidirectional ring, which is the general
+  D₃-equivariant field on (Rᵏ)³. "So it is possible for a quotient network
+  to have symmetry even when the original network has none." Rotating
+  waves, double-frequency states and symmetric chaos are simulated in the
+  five-cell system (Figures 16–18).
+- **Figure 19, p. 635.** Three cells: 1 and 2 coupled both ways, 1 → 3.
+  Cells 2 and 3, each with one input from cell 1, are balanced; the
+  quotient is a two-cell network with Z₂ symmetry. "This is the same as the
+  "master-slave" network of Pecora and Carroll [12]" (p. 633).
+- **Construction (A)–(F), pp. 634–636.** Cells of the quotient are the
+  ⋈-classes; arrows are projections of arrows not joining two distinct
+  equivalent cells; two quotient arrows are equivalent if some input
+  isomorphism maps the cells of one colour onto the cells of the other
+  (eqs. 7.3, 7.4). Lemma 7.3 makes this independent of representatives.
+- **Definition 8.1, p. 638 (quotient map)**: surjective on cells, input
+  arrows lift, input isomorphisms lift (eq. 8.1). **Lemma 8.2(c)**: the
+  relation a quotient map induces is balanced. **Theorem 8.3, p. 639**: the
+  natural quotient by a balanced relation is a quotient map.
+- **Non-uniqueness and universality.** Example 8.5 and Figure 21
+  (pp. 639–640): the seven-cell chain has two non-isomorphic three-cell
+  ring quotients with the same relation. **Theorem 8.4, p. 639**: the
+  natural quotient is universal; every other quotient with the same
+  relation factors through it. **Corollary 8.8, p. 641**: every such
+  quotient is an edge-refinement of the natural one, and conversely.
+
+### The second main theorem (§9, pp. 641–644)
+
+- **Theorem 9.2, p. 642.** "For any f ∈ F_{G₁}^P, the induced vector field f̄
+  lies in F_{G₂}^P̄," where f̄(y) = α⁻¹(f(α(y))) (eq. 9.3) is f restricted
+  to Δ_φ and read in the quotient's coordinates. So "interesting dynamics
+  (rotating waves, symmetric chaos) in this subspace for the cell system
+  G₂ corresponds to the same dynamics in the cell system G₁, in which
+  ⋈-equivalent cells are synchronous" (p. 642).
+- **Not every quotient field lifts (Remark 7.5, pp. 637–638).** In the
+  four-cell network of Figure 20 the restricted fields have linear terms
+  αu₁ + β(u₂ + 2u₃), whereas a general quotient field has αu₁ + βu₂ + γu₃:
+  "vector fields that are admissible with respect to the quotient network
+  G_⋈ do not always lift". The authors call this "a groupoid analogue of
+  hidden symmetry". The induced map φ̂ "need not be surjective when φ is
+  natural. It is never surjective when φ is not the natural quotient map"
+  (p. 644).
+
+### Final comments (§10, p. 645)
+
+- The formalism is said to carry over to Hamiltonian systems, coupled map
+  lattices, cellular automata, Markov chains (constraints on the stationary
+  density), SDEs and delay equations. None of these is worked out.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A synchrony pattern is invariant under every admissible vector field of a coupled cell network iff its equivalence relation is balanced | strong | Theorem 6.5, p. 630, with proof (pp. 630–632) |
+| C2 | Only input-isomorphic cells can be robustly synchronous | strong | Lemma 6.3, p. 629, with proof |
+| C3 | Robust synchrony can occur in networks with no symmetry | strong | worked examples: Figure 3 / eq. (1.5), p. 612; Example 4.4, p. 623; Figures 15 and 19 (pp. 632–635), the text stating each lacks symmetry |
+| C4 | The restriction of an admissible field to a balanced polydiagonal is an admissible field of the quotient network | strong | Theorem 9.2, p. 642, with proof (pp. 642–644) |
+| C5 | Not every admissible field of the quotient arises as such a restriction | strong | counterexample, Remark 7.5, pp. 637–638 |
+| C6 | Quotients with a given relation are unique up to edge-refinement of a universal natural quotient | strong | Theorem 8.4, p. 639; Corollary 8.8, p. 641 |
+| C7 | A quotient can have symmetry the original network lacks, and so carry symmetric dynamics (rotating waves, multirhythms, symmetric chaos) into synchronous dynamics of the original | moderate | Example 7.1 shown exactly (eq. 7.2); the dynamics shown by simulation (Figures 16–18) and by citing the H/K theorem and symmetric Hopf bifurcation [7, 9] |
+| C8 | The groupoid formalism extends to discrete-time, stochastic, delay and Markov-chain settings | weak | asserted, §10, p. 645 |
+| C9 | Synchrony of input-free identical cells is "dynamically unstable" | weak | asserted in a parenthesis, p. 626; true only for some internal dynamics (see Limitations) |
+
+## Concepts
+
+- **Cell** — "a system of ODEs" whose output is a canonical observable
+  (p. 609).
+- **Input set I(c)** — c and every cell with an arrow to c (Definition 3.1,
+  p. 617).
+- **Input isomorphism** — a base-point-preserving bijection of input sets
+  that preserves arrow types (Definition 3.2).
+- **Symmetry groupoid B_G** — all input isomorphisms, multiplied by
+  composition where domain and range match (Definition 3.5, p. 618).
+- **Admissible vector field** — one satisfying the domain and
+  equivariance conditions (Definition 4.1, p. 622); "the most general
+  vector fields on P that are consistent with the coupled cell network"
+  (p. 622).
+- **Polydiagonal Δ_⋈** — states equal on each ⋈-class (p. 628);
+  **⋈-polysynchronous** — a trajectory lying in it (Definition 6.1).
+- **Robustly polysynchronous** — Δ_⋈ invariant under every admissible field
+  (Definition 6.2). Not a stability notion.
+- **Balanced** — equivalent cells are joined by an input isomorphism that
+  keeps every input in its class (Definition 6.4); equivalently, each cell
+  of a colour receives the same number of inputs of each colour along each
+  arrow type (eq. 6.2).
+- **Quotient network G_⋈** — cells the classes, arrows and their types
+  induced as in (A)–(F), pp. 634–636; **quotient map** (Definition 8.1).
+- **Model-independent vs model-dependent synchrony** — the former "valid
+  for any vector field consistent with the given cell architecture"
+  (p. 625); the paper treats only it.
+
+## Connections
+
+- **Golubitsky and Stewart's symmetry methods** ([7], [8], [9]): fixed-point
+  subspaces of a symmetry group are flow-invariant (p. 611), and the H/K
+  theorem and symmetric Hopf bifurcation give the spatio-temporal patterns
+  (pp. 611, 614, 633). This paper generalizes the first from groups to
+  groupoids. It does not state, as a theorem, that the orbit partition of
+  a symmetry group is balanced; that follows from the definitions (a
+  network symmetry restricted to I(c) is an input isomorphism to
+  I(σ(c)) that maps each cell to one in the same orbit).
+- **Pecora and Carroll** ([12]): Figure 19 is their master–slave network
+  (p. 633). **Boccaletti, Pecora and Pelaez** ([2]) and **Wang** ([14]) are
+  cited as surveys of synchrony.
+- **Groupoids**: Brandt [1], Brown [3], Higgins [10], MacLane [11],
+  Weinstein [15].
+- **Dias and Stewart** ([5], "submitted") are cited for the proofs about the
+  quotient's groupoid (Remark 7.4) and the full characterization of when
+  quotient fields lift (Remark 7.5). **Golubitsky, Nicol and Stewart** ([6],
+  "submitted") for applications of Theorem 9.2. Neither is held by the
+  record.
+
+## Bearing on the record
+
+- **THEORY-276 (Pecora et al., symmetry orbits as clusters): generalized,
+  and its "symmetry is sufficient, not necessary" given its theorem.** The
+  orbit partition of a network symmetry group is balanced, so THEORY-276's
+  invariance result is a special case of Theorem 6.5 (p. 630), in a much
+  wider class: arbitrary nonlinear, non-additive coupling (p. 610), several
+  cell and arrow types, directed arrows. The clusters Pecora et al. noted
+  "where input and output couplings match in a cluster, but there is no
+  symmetry" are the balanced relations that are not orbit partitions, of
+  which Figure 3 (p. 612) and Figure 19 (p. 635) are the smallest. And
+  the paper's necessity half says that, over all admissible dynamics,
+  nothing else is robust. Two limits. Necessity is relative to the whole
+  admissible class: a narrower model family, such as Pecora's eq. (1) with
+  one fixed H, may have extra invariant subspaces. And the paper says
+  nothing about stability, which is THEORY-276's other half (the
+  transverse blocks) and QUESTION-147's.
+- **CLAIM-tmpdjt64: the attribution holds in substance, but half of it is
+  the paper's scope statement, not its result.** The claim says this paper
+  separates "an invariant synchrony pattern, which the architecture allows,
+  from an attracting one, which the dynamics selects". The paper draws the
+  first line sharply: it separates model-independent from model-dependent
+  synchrony "because this separates the effect of the general architecture
+  of the system from that of the specific model equations employed"
+  (p. 625), and it studies "existence, not stability" (p. 626). It does not
+  treat attracting synchrony at all, and "the dynamics selects" is nowhere
+  in it. Its one example of the gap is its remark that the synchrony of
+  input-free cells is invariant though "dynamically unstable" (p. 626).
+  A citation for invariance without attractivity is sound; one for how the
+  dynamics selects needs another source.
+- **QUESTION-063 (common drive or coupling): the theorem puts the two on
+  one footing.** A drive is just another cell, and the balance condition
+  counts inputs, not who sends them. In Figure 19 (p. 635) cells 2 and 3
+  are robustly synchronous though 3 is only driven by cell 1 and 2 also
+  drives cell 1 back; in Example 5.1 (p. 626) cells 4, 5, 7, 9 are robustly
+  synchronous with no arrow among them, each receiving the same coloured
+  inputs. So an architecture-forced synchrony pattern says "equal input",
+  and by itself says neither "coupled to each other" nor "driven from
+  outside". This bears on THEORY-276's use on QUESTION-063: a pattern of
+  clusters is a coupling signature only relative to a known graph that
+  includes every source of input, the shared drive among them. The paper
+  does not discuss drive or inference, so this is the record's reading.
+- **CLAIM-tmpywecm: it supports only the one line that cites A22 §7.** "A
+  synchrony subspace can be invariant without being attracting" is the
+  paper's stated scope (p. 626). Nothing in it bears on time scales,
+  dissipation, Laplacian spectra or strong coupling destabilizing
+  synchrony; the claim's other content gets no support or correction from
+  it.
+- **THEORY-755 and CLAIM-157 (exact aggregation without a block).** The
+  balance condition is a counting condition on inputs, the coupled-cell
+  analogue of an equitable partition. For a linear network ẋ = Ax, the
+  polydiagonal is invariant when each row of each block of A has the same
+  sum (inputs counted), while THEORY-755's exact aggregation of block sums
+  needs equal column sums (outputs counted). That transposition is the
+  record's observation, not the paper's, which never mentions equitable
+  partitions. It adds a nonlinear case to CLAIM-157's "groupings that close
+  without being blocks". The quotient network is an exact reduced
+  description of the synchronous states, and synchronized cells need not
+  interact at all (Example 5.1).
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **Existence only.** No stability, genericity of attraction, or basin
+  result anywhere (p. 626). Which balanced patterns are seen is left to the
+  model.
+- **The instability remark is loose.** "Of course such a form of synchrony
+  is dynamically unstable" (p. 626), said of identical cells with no
+  inputs, holds for some internal dynamics (chaotic or neutral) and not
+  for others: if B has a globally attracting equilibrium, the cells
+  converge and their synchrony is attracting. The point the authors need,
+  that invariance does not imply attraction, stands.
+- **"Robust" is relative to the admissible class.** The necessity half of
+  Theorem 6.5 uses linear admissible fields of the form M(Σ x_i) (eq. 6.4);
+  for a model family that excludes such fields, or fixes coupling
+  functions, more subspaces can be invariant. The theorem does not say
+  what is invariant for one model.
+- **The 2003 network definition allows at most one arrow per ordered pair
+  of cells** (E ⊆ C × C, Definition 2.1), so weighted or multiple arrows are
+  outside it. It is standardly reported that later papers by Golubitsky,
+  Stewart and Török allow multiple arrows; that is not in this text and was
+  not checked.
+- **The quotient field class is larger than what restriction gives**
+  (Remark 7.5), so a quotient's generic behaviour need not be realizable
+  in the original network; the full lifting criterion is deferred to
+  Dias and Stewart [5], unread.
+- **Several claims are by simulation or citation**: the rotating waves,
+  multirhythms and symmetric chaos of Figures 8 and 16–18, and the
+  "42 in all" groupoid symmetries of Figure 6 (p. 614), are not derived in
+  the text.
+- **Extraction and figures.** The extracted text loses arrow types; the
+  descriptions of Figures 3, 11, 12 and 19 above were checked on the
+  rendered pages. Figures 9, 14, 15, 20 and 21 were read from the text
+  only.
+- The published SIAM text was not compared with the accepted version.
+
+## Open questions
+
+- Which balanced patterns are attracting, and how does that depend on the
+  cell dynamics? The paper leaves it entirely to the model (p. 626).
+- When does every quotient-admissible field lift (Remark 7.5)? Deferred to
+  Dias and Stewart [5].
+- Do the §10 extensions (Markov chains, cellular automata, SDEs) give
+  theorems of the same form? Asserted, not shown (p. 645). For Markov
+  chains, the record's THEORY-822 (strong lumpability) is a candidate
+  answer, joined to this paper only by the record's reading.
