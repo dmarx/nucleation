@@ -4,7 +4,12 @@ status: Proposed
 formerly:
 - CASE-tmpoa9h4
 title: 'Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont''s genome reduced to a seventh of E. coli''s'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (later) added from the readings of LIT-1571 and LIT-1570: a host-encoded protein reported in Buchnera's cytoplasm, and the model's prediction for the host's side. The case is unchanged otherwise.
 standing: documented
 kind: specimen
 tags:
@@ -23,6 +28,7 @@ reported_in:
 summary: >-
   Buchnera lives in aphid bacteriocytes and is passed from mother to egg. Its 641-kb genome keeps the pathways for the amino acids its host needs and has lost most else ([LIT-1596](../literature.d/LIT-1596.md)); its genes evolve fast and A+T-biased under Muller's ratchet ([LIT-1573](../literature.d/LIT-1573.md)). The record's reading of Wilson and Barker reports Godfrey-Smith placing the pair as both an organism and a Darwinian individual ([NOTE-114](../notes.d/NOTE-114.md)). Used as the case of high mutual dependence and high reproductive cohesion reached through reduction, with no gene transfer to the host reported in the works it rests on.
 ---
+<!-- inactive-ok-file: THEORY-tmpf67xs THEORY-tmpyk1k6 — Proposed; filed from the readings cited in the note of 2026-10-27 (later) -->
 <!-- inactive-ok-file: LIT-1596 LIT-1573 LIT-1559 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
@@ -65,3 +71,26 @@ and Barker, misplaces *Buchnera* in a human gut.
 
 The case is documented in works the record has not read. What it shows
 rests on their abstracts until they are read.
+
+## Note of 2026-10-27 (later): a host protein inside *Buchnera*, and what the model says of the host
+
+- **Host-encoded protein in the symbiont.** McCutcheon et al. (LIT-1571,
+  read in NOTE-tmpx2qkq) report that host-encoded proteins have been
+  identified by immunofluorescence "in the cytoplasm of aphid and
+  mealybug endosymbionts". The study for the aphid looked at a single
+  protein, and the mechanism of import is unknown. The paper does not say
+  that the protein comes from a gene transferred from *Buchnera*: it
+  speaks of horizontally transferred bacterial genes on host genomes in
+  general. So the case's statement, that its sources report no gene
+  transfer to the host, still holds of those sources. But the host
+  already reaches into the symbiont, which bears on control (C) in
+  QUESTION-277. *Buchnera* APS's genome (641 kb) is well above the
+  400 kb and 200 kb thresholds of THEORY-tmpf67xs.
+- **The host's side, on Athreya et al.** LIT-1570 (read in
+  NOTE-tmp5hcss) lists aphid–*Buchnera* as mutually obligate and
+  vertically transmitted. Its model predicts that the faster-evolving
+  partner, the symbiont, becomes obligate first, and that the host's
+  dependence follows only if partners die inside the collective more than
+  they are born there (THEORY-tmpyk1k6). That turns the case into a
+  measurement: the demography of *Buchnera* within its host. Nothing in
+  the sources reports it.

@@ -4,7 +4,12 @@ status: Proposed
 formerly:
 - CASE-tmpir76a
 title: 'Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (later) added from the reading of LIT-1571: Tremblaya is a tipping-point endosymbiont, with a three-membrane envelope, and a host-encoded protein has been seen in a mealybug endosymbiont.
 standing: documented
 kind: specimen
 tags:
@@ -20,6 +25,7 @@ reported_in:
 summary: >-
   In the mealybug Planococcus citri, Moranella lives inside Tremblaya. Essential amino-acid pathways need gene products from both bacteria and the insect ([LIT-1565](../literature.d/LIT-1565.md)). At least 22 genes the insect acquired from other bacteria, none from Tremblaya, fill symbiont gaps ([LIT-1569](../literature.d/LIT-1569.md)), and the inner symbiont has been replaced several times across mealybugs while those genes persisted ([LIT-1572](../literature.d/LIT-1572.md)). Used as the case where function is distributed across nested boundaries and constituent lineages turn over.
 ---
+<!-- inactive-ok-file: THEORY-tmpf67xs — Proposed; filed from the reading cited in the note of 2026-10-27 (later) -->
 <!-- inactive-ok-file: LIT-1565 LIT-1569 LIT-1572 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 THEORY-418 — Open or Proposed; the question and account the case is filed to test -->
 
@@ -57,3 +63,18 @@ cytoplasm of the betaproteobacterium *Tremblaya princeps*.
 
 Documented in works the record has not read. What it shows rests on their
 abstracts until they are read.
+
+## Note of 2026-10-27 (later): *Tremblaya* past the tipping point
+
+McCutcheon et al. (LIT-1571, read in NOTE-tmpx2qkq) use *Tremblaya
+princeps* from *Planococcus citri* as their electron micrograph of a
+"tipping-point endosymbiont" (Figure 4). It has three membranes: two of
+its own, inherited, and an outer host vacuolar membrane. Inside are a
+few ribosomes. Its genome is below the 200 kb at which translation genes
+begin to go (THEORY-tmpf67xs), so on that paper's account its envelope,
+transport and some translation must be supplied by the host. The paper
+also cites a host-encoded protein identified in the cytoplasm of a
+mealybug endosymbiont (one protein, mechanism unknown). This adds a
+second kind of compensation to the case: alongside genes from third
+parties, the host supplies cell biology the symbiont can no longer
+make.
