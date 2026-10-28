@@ -55,6 +55,9 @@ line:
 # weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
 # the `dialectic` chain walks; `undercuts` names an ARG whose inference this
 # denies.
+# Before filing a counter, ask: does it say the conclusion is false, or that
+# something does not show it? The second is not a claim but an ARG from the
+# premises to the conclusion, Rejected or Proposed (ADR-061).
 # answers: [QUESTION-000]
 # rests_on: [CLAIM-000]
 # grounds: [THEORY-000]

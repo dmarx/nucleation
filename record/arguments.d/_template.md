@@ -1,9 +1,11 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG is filed only
-# when something needs to point at an inference: a second, independent line
-# of support for a claim, or an objection to the inference itself (an
-# undercut). Most claims need no ARG; their `rests_on` is their argument
-# (ADR-032).
+# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
+# record says about support between its entries: that these premises do, or
+# do not, establish this conclusion (ADR-061). File one when the record
+# argues a support relation, doubts one, concedes one fails, or needs one as
+# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
+# the failing critical question answered in the body. A claim's own
+# `rests_on` still needs no ARG (ADR-032).
 
 # Active | Proposed | Deferred | Superseded | Rejected — whether the
 # INFERENCE holds, which is not whether its conclusion is true.
