@@ -42,4 +42,4 @@ it first.
 
 ## Why this is here
 
-The theory's short statement on the self, companion to the book (LIT-tmper0q2). Its thesis, that the self is not a fixed structure but a categorization made afresh relative to the comparison at hand, is a claim about what a self is and bears on the record's self topic and on the variability that CASE-104's fans show.
+The theory's short statement on the self, companion to the book ([LIT-tmper0q2](LIT-tmper0q2.md)). Its thesis, that the self is not a fixed structure but a categorization made afresh relative to the comparison at hand, is a claim about what a self is and bears on the record's self topic and on the variability that [CASE-104](../cases.d/CASE-104.md)'s fans show.

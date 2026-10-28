@@ -39,4 +39,4 @@ it first.
 
 ## Why this is here
 
-A map of the approach, filed beside its sources (LIT-tmper0q2, LIT-tmpzgybs) so that a reading can tell social identity theory's claims from self-categorization theory's, which the fandom papers the record holds (LIT-1138, LIT-1133, LIT-1147) cite under one name.
+A map of the approach, filed beside its sources ([LIT-tmper0q2](LIT-tmper0q2.md), [LIT-tmpzgybs](LIT-tmpzgybs.md)) so that a reading can tell social identity theory's claims from self-categorization theory's, which the fandom papers the record holds ([LIT-1138](LIT-1138.md), [LIT-1133](LIT-1133.md), [LIT-1147](LIT-1147.md)) cite under one name.
