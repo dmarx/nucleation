@@ -9,7 +9,7 @@ status_note: >-
   cument/file.php/ALEX037108/Hornsey%20M_Social%20identity%20theory_2008
   .pdf); this session's permission policy refused the fetch as walled
   content, and since its licence is in doubt it does not make the work
-  Unfetched (ADR-053). No NOTE is filed. It stays Unavailable until a
+  Unfetched ([ADR-053](../decisions.d/ADR-053.md)). No NOTE is filed. It stays Unavailable until a
   copy is supplied.
 title: 'Social Identity Theory and Self-categorization Theory: A Historical Review'
 version: 1
