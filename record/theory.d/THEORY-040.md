@@ -75,11 +75,11 @@ summary: >-
   "loading-in" and a circularity worry; neither is argued in full in the
   record. The claim says what the account must choose between, not which
   choice is wrong.
-answers:
-- QUESTION-071
 supports:
 - CLAIM-016
 - CLAIM-364
+bears_on:
+- QUESTION-071
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->

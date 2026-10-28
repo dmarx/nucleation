@@ -12,17 +12,17 @@ date: '2026-10-12'
 line: 'distributed-agency'
 refines:
 - QUESTION-035
-answered_by:
-- THEORY-060
-- CLAIM-287
-- THEORY-546
-- THEORY-684
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-161](../claims.d/CLAIM-161.md) and [CLAIM-152](../claims.d/CLAIM-152.md).
   [THEORY-060](../theory.d/THEORY-060.md) answers it in part; the body gives each one's limit.
 refined_by:
 - QUESTION-118
+bearing:
+- THEORY-684
+- THEORY-546
+- CLAIM-287
+- THEORY-060
 ---
 
 # QUESTION-043: For a person, what coherence measure is conserved along the trajectory when the person persists as the same self, and is a life story, whose content is known to change, a candidate for it?

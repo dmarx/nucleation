@@ -25,8 +25,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-142
-answers:
-- QUESTION-035
 summary: >-
   Meincke (2021), [LIT-142](../literature.d/LIT-142.md), read in [NOTE-115](../notes.d/NOTE-115.md). The critique of the Parthood
   View under substance ontology holds on its own and is the paper's firm
@@ -34,6 +32,8 @@ summary: >-
   assumed for the sake of argument, and is programmatic by the paper's own
   word; "something in between one and two" has no formal content. It keeps
   parthood rather than rejecting it, and it draws no ethical conclusion.
+bears_on:
+- QUESTION-035
 ---
 <!-- inactive-ok-file: THEORY-443 THEORY-464 THEORY-476 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-072 THEORY-221 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->

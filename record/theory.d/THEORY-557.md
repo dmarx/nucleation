@@ -25,8 +25,6 @@ source:
 - LIT-660
 extends:
 - THEORY-109
-answers:
-- QUESTION-069
 summary: >-
   Li et al. (2025), [LIT-676](../literature.d/LIT-676.md), read in [NOTE-529](../notes.d/NOTE-529.md): GCN node classifiers from
   different seeds, on 12 real graphs and synthetic CSBM graphs, show linear
@@ -37,6 +35,8 @@ summary: >-
   evidence is plots without barrier numbers in the first, one pair per
   model and retrained anchors in the second. Zhang & Blei's claim of flat
   paths between LDA's ELBO maxima ([LIT-677](../literature.d/LIT-677.md)) reports no results.
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: LIT-660 LIT-676 — Proposed; the two readings this account rests on, which is why it is Proposed -->
 <!-- inactive-ok-file: LIT-677 — Proposed; named as a claim without reported results, not leaned on -->

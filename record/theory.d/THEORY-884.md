@@ -25,8 +25,6 @@ tags:
 date: '2026-10-22'
 source:
 - LIT-1376
-answers:
-- QUESTION-112
 summary: >-
   Aevyra (2026), The Ledger of Will, [LIT-1376](../literature.d/LIT-1376.md), read in full in
   [NOTE-1091](../notes.d/NOTE-1091.md): Proposition 4, "revision closure", with its proof in §4.4
@@ -36,6 +34,8 @@ summary: >-
   finite family of total deterministic revisions declared in advance. It
   does not say how to choose the family, which is that question's hard
   part, and it is not an efficient construction.
+bears_on:
+- QUESTION-112
 ---
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; the claims this account bears on, named, not leaned on -->
 

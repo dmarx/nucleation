@@ -25,8 +25,6 @@ tags:
 date: '2026-10-23'
 source:
 - LIT-1424
-answers:
-- QUESTION-063
 summary: >-
   Bigand, Bianco, Abalde & Novembre (2024), [LIT-1424](../literature.d/LIT-1424.md), read in full in
   [NOTE-1093](../notes.d/NOTE-1093.md) from PubMed Central. A 2 × 2 within-dyad experiment, 35
@@ -38,6 +36,8 @@ summary: >-
   of coupling, and a perturbation of one member, are not in it.
 reports:
 - CASE-149
+bears_on:
+- QUESTION-063
 ---
 <!-- inactive-ok-file: QUESTION-063 CLAIM-172 CLAIM-167 CASE-045 THEORY-129 THEORY-275 — Proposed or Open; the question it bears on and the accounts it sits beside, named, not leaned on -->
 

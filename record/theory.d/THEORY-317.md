@@ -35,8 +35,6 @@ tags:
 date: '2026-10-14'
 source:
 - LIT-1004
-answers:
-- QUESTION-072
 rivals:
 - THEORY-326
 summary: >-
@@ -48,6 +46,8 @@ summary: >-
   the relative powerlessness of a social group the subject belongs to.
 supports:
 - CLAIM-406
+bears_on:
+- QUESTION-072
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; read only through the author's précis, filed with that skim on 2026-10-14 -->
 <!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis this account rests on -->

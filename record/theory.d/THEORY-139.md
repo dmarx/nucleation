@@ -44,12 +44,12 @@ summary: >-
   to be held responsible under three conditions, which corporations meet.
   Proposed: it is an argument, and its empirical premise about corporate
   procedure is asserted rather than shown.
-answers:
-- QUESTION-070
-- QUESTION-049
 supports:
 - CLAIM-271
 - CLAIM-432
+bears_on:
+- QUESTION-049
+- QUESTION-070
 ---
 <!-- inactive-ok-file: THEORY-536 — Proposed; the authors' replies and the realization-insensitivity account, named in Connections, not leaned on -->
 <!-- inactive-ok-file: LIT-742 — Unavailable, unread; Responsibility Incorporated, named as the paper the 2017 chapter restates -->

@@ -46,8 +46,6 @@ source:
 - LIT-1305
 - LIT-1248
 - LIT-1289
-answers:
-- QUESTION-219
 summary: >-
   Isett (2017; ARMA 2022), [LIT-1305](../literature.d/LIT-1305.md), skimmed in [NOTE-1027](../notes.d/NOTE-1027.md): the first
   continuous, indeed C^α with α < 1/15, weak Euler solutions satisfying the
@@ -60,6 +58,8 @@ summary: >-
   constructor drains the solution's energy to zero at the end of its life.
   Where, when and how fast the energy goes are inputs; the exponent is far
   from 1/3; nothing ties these solutions to Navier–Stokes.
+bears_on:
+- QUESTION-219
 ---
 <!-- inactive-ok-file: NOTE-1027 — Skimmed; this entry's reading -->
 <!-- inactive-ok-file: THEORY-772 THEORY-776 THEORY-763 — Proposed; the L³-local, whole-box and two-signed accounts, cited for contrast -->

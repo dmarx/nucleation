@@ -43,12 +43,12 @@ summary: >-
   Both controllers pursue the same ends; neither is the irrational one.
   The instrumental half is qualitative simulation; the Pavlovian half of
   the arbitration is a suggestion. Proposed.
-answers:
-- QUESTION-015
-- QUESTION-054
 supports:
 - CLAIM-358
 - CLAIM-447
+bears_on:
+- QUESTION-015
+- QUESTION-054
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-045 — Proposed; accounts this one bears on, with the bearing stated and nothing resting on them -->
 <!-- inactive-ok-file: THEORY-070 THEORY-067 — new in this batch; accounts this one is set beside -->

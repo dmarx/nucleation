@@ -19,8 +19,6 @@ summary: >-
   incompatibility structure".
 answered_by:
 - CLAIM-005
-- CLAIM-009
-- CLAIM-135
 refined_by:
 - QUESTION-004
 - QUESTION-024
@@ -28,6 +26,9 @@ refined_by:
 - QUESTION-031
 - QUESTION-067
 - QUESTION-102
+bearing:
+- CLAIM-135
+- CLAIM-009
 ---
 <!-- inactive-ok-file: CLAIM-005 CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

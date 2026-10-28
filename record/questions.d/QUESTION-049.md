@@ -19,10 +19,10 @@ summary: >-
   own. [THEORY-137](../theory.d/THEORY-137.md) (Tollefsen) says such attributions work largely by
   shaping the institution, whether or not it has a mind. It bears on
   whether a pattern of coordination is an additional agent ([QUESTION-009](QUESTION-009.md)).
-answered_by:
-- THEORY-139
 refined_by:
 - QUESTION-119
+bearing:
+- THEORY-139
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this one refines -->
 

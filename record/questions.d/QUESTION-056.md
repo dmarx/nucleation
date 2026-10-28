@@ -10,8 +10,6 @@ tags:
 - psychopathology-and-treatment
 date: '2026-10-12'
 line: 'will-organization'
-answered_by:
-- THEORY-048
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-024](../claims.d/CLAIM-024.md), [CLAIM-021](../claims.d/CLAIM-021.md), [CLAIM-122](../claims.d/CLAIM-122.md)
@@ -19,6 +17,8 @@ summary: >-
   limit.
 refined_by:
 - QUESTION-088
+bearing:
+- THEORY-048
 ---
 <!-- inactive-ok-file: CLAIM-122 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

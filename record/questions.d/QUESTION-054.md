@@ -18,12 +18,12 @@ summary: >-
   (the expected value of control is computed in a distinct specification
   system) asserts one. [CLAIM-025](../claims.d/CLAIM-025.md) and [CLAIM-099](../claims.d/CLAIM-099.md) speak of a governing
   organization among regimes, so the answer matters to this line.
-answered_by:
-- THEORY-056
-- THEORY-062
-- THEORY-153
-- CLAIM-358
+bearing:
 - THEORY-878
+- CLAIM-358
+- THEORY-153
+- THEORY-062
+- THEORY-056
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

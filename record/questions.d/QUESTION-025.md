@@ -18,16 +18,15 @@ summary: >-
   attributes that imply or exclude each other. Whether the linear
   directions survive that structure is not answered by anything the
   record holds.
-answered_by:
-- THEORY-183
-- THEORY-186
-- THEORY-201
-- THEORY-196
-- THEORY-292
 refined_by:
 - QUESTION-162
 - QUESTION-178
 bearing:
+- THEORY-292
+- THEORY-196
+- THEORY-201
+- THEORY-186
+- THEORY-183
 - THEORY-698
 - THEORY-478
 - THEORY-189

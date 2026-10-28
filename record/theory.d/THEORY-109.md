@@ -59,7 +59,7 @@ extended_by:
 - THEORY-112
 - THEORY-114
 - THEORY-557
-answers:
+bears_on:
 - QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-114 THEORY-112 THEORY-110 — Proposed; the accounts filed with this one that extend it, named in the body and in Connections -->

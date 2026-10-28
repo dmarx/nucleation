@@ -12,13 +12,13 @@ date: '2026-10-12'
 line: 'pragmatic-transport'
 refines:
 - QUESTION-029
-answered_by:
-- THEORY-089
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-151](../claims.d/CLAIM-151.md), [CLAIM-115](../claims.d/CLAIM-115.md),
   [CLAIM-118](../claims.d/CLAIM-118.md), [CLAIM-046](../claims.d/CLAIM-046.md) and [QUESTION-029](QUESTION-029.md). [THEORY-089](../theory.d/THEORY-089.md) answers it in part;
   the body gives each one's limit.
+bearing:
+- THEORY-089
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-223 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

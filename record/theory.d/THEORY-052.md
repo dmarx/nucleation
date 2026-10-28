@@ -39,10 +39,10 @@ summary: >-
   styles and rigid patterns as the route. The evidence is correlational,
   mostly self-report, and from the theory's authors. A partner of the
   inflexibility account, not a rival.
-answers:
-- QUESTION-045
 supports:
 - CLAIM-368
+bears_on:
+- QUESTION-045
 ---
 <!-- inactive-ok-file: THEORY-050 THEORY-058 — Proposed; relations stated in prose, nothing here rests on them -->
 

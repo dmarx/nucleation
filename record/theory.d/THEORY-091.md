@@ -41,7 +41,7 @@ summary: >-
   experience's after all, is "a bold hypothesis, not a fallacy", and the
   deficit cannot decide it. Proposed: single-source, and the distinction
   it rests on is argued from conceivable cases.
-answers:
+bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-090 THEORY-101 — Proposed; accounts that assign a function to felt states, named as where this one bears, no relation claimed -->

@@ -43,8 +43,6 @@ date: '2026-10-20'
 source:
 - LIT-1255
 - LIT-1248
-answers:
-- QUESTION-219
 summary: >-
   Isett (2018), [LIT-1255](../literature.d/LIT-1255.md), skimmed in [NOTE-974](../notes.d/NOTE-974.md): the negative half of
   Onsager's conjecture. With [THEORY-749](THEORY-749.md) (Constantin, E and Titi, the
@@ -55,6 +53,8 @@ summary: >-
   solutions start from rest, gain energy and lose it again, so the
   surviving flux takes both signs. Nor does it say that such solutions are
   limits of Navier–Stokes or describe turbulence.
+bears_on:
+- QUESTION-219
 ---
 <!-- inactive-ok-file: THEORY-776 — Proposed; the admissible version, cited for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-974 — Skimmed; the partial reading this account rests on -->

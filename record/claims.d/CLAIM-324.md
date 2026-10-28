@@ -19,8 +19,6 @@ date: '2026-10-15'
 line: nucleating-argument
 works:
 - luria-nucleating-an-argument
-answers:
-- QUESTION-037
 uses:
 - TERM-052
 summary: >-
@@ -32,6 +30,8 @@ summary: >-
   general.
 supports:
 - CLAIM-178
+bears_on:
+- QUESTION-037
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-125 — Proposed; open, and cited as open: the theses of the translation line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis, whose change is the point -->

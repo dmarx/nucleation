@@ -40,7 +40,7 @@ summary: >-
   causes: it survives Pernu's argument ([LIT-147](../literature.d/LIT-147.md)) that the neural evidence
   supports only mental causation by identity. Kendler 2005 ([LIT-552](../literature.d/LIT-552.md)), which
   argued the mind–brain propositions this paper develops, is unread.
-answers:
+bears_on:
 - QUESTION-056
 ---
 <!-- inactive-ok-file: LIT-552 — Unavailable, no lawful full text; Kendler 2005, named as the paper Kendler 2008 develops, not leaned on -->

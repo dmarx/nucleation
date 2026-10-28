@@ -46,7 +46,7 @@ summary: >-
 supports:
 - CLAIM-288
 - CLAIM-363
-answers:
+bears_on:
 - QUESTION-087
 ---
 <!-- inactive-ok-file: CLAIM-288 CLAIM-284 — Proposed; the claims this bears on, not settled -->

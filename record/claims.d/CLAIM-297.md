@@ -29,8 +29,6 @@ tags:
 - social-ontology
 date: '2026-10-15'
 line: distributed-agency
-answers:
-- QUESTION-100
 rests_on:
 - CLAIM-277
 - CLAIM-275
@@ -53,6 +51,8 @@ supports:
 - CLAIM-429
 illustrated_by:
 - CASE-162
+bears_on:
+- QUESTION-100
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-280 CLAIM-281 CLAIM-285 CLAIM-288 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

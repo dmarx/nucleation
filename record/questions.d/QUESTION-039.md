@@ -20,13 +20,6 @@ tags:
 - compositionality
 date: '2026-10-12'
 line: 'learned-structure'
-answered_by:
-- THEORY-200
-- THEORY-039
-- THEORY-212
-- THEORY-279
-- THEORY-481
-- THEORY-521
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-086](../theory.d/THEORY-086.md),
@@ -41,6 +34,12 @@ refined_by:
 - QUESTION-193
 - QUESTION-275
 bearing:
+- THEORY-521
+- THEORY-481
+- THEORY-279
+- THEORY-212
+- THEORY-039
+- THEORY-200
 - THEORY-973
 - THEORY-293
 - THEORY-283

@@ -43,8 +43,6 @@ source:
 - LIT-464
 - LIT-454
 - LIT-447
-answers:
-- QUESTION-043
 summary: >-
   Locke (1694), [LIT-464](../literature.d/LIT-464.md), read in [NOTE-385](../notes.d/NOTE-385.md), with the repairs as Olson's
   survey ([LIT-454](../literature.d/LIT-454.md), [NOTE-374](../notes.d/NOTE-374.md)) and Parfit ([LIT-447](../literature.d/LIT-447.md), [NOTE-378](../notes.d/NOTE-378.md)) give them.
@@ -54,6 +52,8 @@ summary: >-
   the survey, and its author, an animalist, argues it implies two thinkers
   in every chair. It is a criterion of persistence, not an account of what
   matters or of what we are made of.
+bears_on:
+- QUESTION-043
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-531 THEORY-650 THEORY-681 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 

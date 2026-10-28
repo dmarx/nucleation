@@ -66,7 +66,7 @@ summary: >-
   differs from the minimal self (Gallagher) on origin: RFT says the
   perspective is learned in language. The evidence for the learned origin
   is cited, not read, so Proposed. The clinical claim is [THEORY-051](THEORY-051.md).
-answers:
+bears_on:
 - QUESTION-034
 ---
 <!-- inactive-ok-file: LIT-549 LIT-463 LIT-467 LIT-468 — Unavailable; the RFT book, Zahavi, Being No One and Schechtman, named as unread works that bear on this, none leaned on -->

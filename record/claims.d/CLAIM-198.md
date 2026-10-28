@@ -27,8 +27,6 @@ tags:
 - motivation
 date: '2026-10-12'
 line: will-organization
-answers:
-- QUESTION-034
 rests_on:
 - CLAIM-197
 - CLAIM-169
@@ -55,6 +53,8 @@ summary: >-
 uses:
 - TERM-045
 - TERM-050
+bears_on:
+- QUESTION-034
 ---
 <!-- inactive-ok-file: CLAIM-169 THEORY-067 — Proposed; the account of interests this claim builds on, with its standing as it is -->
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this claim answers in part -->

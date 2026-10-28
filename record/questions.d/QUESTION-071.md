@@ -58,9 +58,6 @@ tags:
 - ethics
 date: '2026-10-12'
 line: 'will-organization'
-answered_by:
-- THEORY-040
-- THEORY-047
 summary: >-
   [CLAIM-022](../claims.d/CLAIM-022.md) says explaining practical efficacy does not settle whose the
   will is. [THEORY-040](../theory.d/THEORY-040.md) says any condition stated in present psychological
@@ -70,6 +67,8 @@ summary: >-
   worked on without reopening the set-aside authenticity line, where
   [CLAIM-016](../claims.d/CLAIM-016.md)'s manipulation defeater sits.
 bearing:
+- THEORY-047
+- THEORY-040
 - THEORY-121
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->

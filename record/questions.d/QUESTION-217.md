@@ -31,9 +31,8 @@ summary: >-
   or a minimal family of counterexamples.
 refined_by:
 - QUESTION-220
-answered_by:
-- THEORY-759
 bearing:
+- THEORY-759
 - CLAIM-394
 - THEORY-775
 - THEORY-774

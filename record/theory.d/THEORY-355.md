@@ -23,8 +23,6 @@ date: '2026-10-15'
 source:
 - LIT-1076
 - LIT-1057
-answers:
-- QUESTION-095
 summary: >-
   Kirsh (1995), [LIT-1076](../literature.d/LIT-1076.md), read in [NOTE-871](../notes.d/NOTE-871.md), and Kirsh (1996), [LIT-1057](../literature.d/LIT-1057.md), read in [NOTE-872](../notes.d/NOTE-872.md).
   From video of cooks, assemblers and baggers and from informal observation, Kirsh
@@ -36,6 +34,8 @@ summary: >-
   measured saving; the 1995 paper says the savings do not "in general" admit
   meaningful quantitative estimation, and the 1996 paper puts mental cost outside its
   formalism.
+bears_on:
+- QUESTION-095
 ---
 
 # THEORY-355: Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured

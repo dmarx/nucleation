@@ -30,8 +30,6 @@ tags:
 - mathematics
 date: '2026-10-12'
 line: pragmatic-transport
-answers:
-- QUESTION-031
 rests_on:
 - CLAIM-142
 - CLAIM-269
@@ -51,6 +49,8 @@ summary: >-
   the carry-over to communicative realizations is the filer's.
 complements:
 - CLAIM-209
+bears_on:
+- QUESTION-031
 ---
 <!-- inactive-ok-file: CLAIM-269 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-204 CLAIM-206 CLAIM-209 CLAIM-217 THEORY-019 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->

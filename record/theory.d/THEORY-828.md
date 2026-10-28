@@ -61,7 +61,7 @@ summary: >-
   under [ADR-047](../decisions.d/ADR-047.md) v4 when the narrowing dropped it.
 extends:
 - THEORY-105
-answers:
+bears_on:
 - QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the merging result this thesis would have to explain, named in What this does not say -->

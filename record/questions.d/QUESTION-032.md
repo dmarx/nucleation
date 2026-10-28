@@ -38,14 +38,15 @@ summary: >-
 answered_by:
 - CLAIM-170
 - CLAIM-174
-- CLAIM-155
-- THEORY-071
-- THEORY-208
-- THEORY-616
-- THEORY-624
-- THEORY-801
 refined_by:
 - QUESTION-228
+bearing:
+- THEORY-801
+- THEORY-624
+- THEORY-616
+- THEORY-208
+- THEORY-071
+- CLAIM-155
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->

@@ -25,8 +25,6 @@ source:
 - LIT-1017
 rivals:
 - THEORY-666
-answers:
-- QUESTION-087
 summary: >-
   Di Paolo (2005), [LIT-1017](../literature.d/LIT-1017.md), read in full in [NOTE-719](../notes.d/NOTE-719.md). A conceptual
   argument against Weber and Varela: autopoiesis in its original
@@ -40,6 +38,8 @@ summary: >-
 supports:
 - CLAIM-288
 - CLAIM-339
+bears_on:
+- QUESTION-087
 ---
 <!-- inactive-ok-file: THEORY-666 — Proposed; the rival account, named as one end of the rivalry -->
 <!-- inactive-ok-file: THEORY-071 THEORY-217 THEORY-220 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->

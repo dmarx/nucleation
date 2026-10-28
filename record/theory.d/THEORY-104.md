@@ -50,7 +50,7 @@ summary: >-
   layer is chosen on out-of-distribution data throughout; ViT gains are
   small; the language-model evidence is one synthetic task; and Chang et
   al.'s information estimate is questioned in its NOTE.
-answers:
+bears_on:
 - QUESTION-051
 ---
 

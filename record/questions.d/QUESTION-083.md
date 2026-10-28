@@ -3,8 +3,15 @@ number: 83
 status: Open
 formerly:
 - QUESTION-tmp2y4xi
-title: 'Can processes that share one update rule and differ only in parameters and history come to hold stable, differentiated and mutually regulated authority, with specialized niches, without any governance role being coded in?'
-version: 1
+title: 'Beyond stable, differentiated authority, which one update rule can produce, can processes that share it come to hold mutually regulated authority with specialized niches, without any governance role being coded in, when some competences show only in rare contexts?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the fourth status review. Its first part
+    is QUESTION-tmpl8ywi, Answered by CLAIM-277. This question keeps
+    niches and mutual regulation.
 tags:
 - self-governance
 - complex-systems
@@ -17,16 +24,16 @@ summary: >-
   kinds ([CLAIM-279](../claims.d/CLAIM-279.md)). Nothing has been run. An answer is a population
   model with no role primitives, and whether durable differentiated
   authority forms.
-answered_by:
-- CLAIM-277
-- CLAIM-279
 refined_by:
+- QUESTION-tmpl8ywi
 - QUESTION-132
 - QUESTION-135
+bearing:
+- CLAIM-279
 ---
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-288 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# QUESTION-083: Can processes that share one update rule and differ only in parameters and history come to hold stable, differentiated and mutually regulated authority, with specialized niches, without any governance role being coded in?
+# QUESTION-083: Beyond stable, differentiated authority, which one update rule can produce, can processes that share it come to hold mutually regulated authority with specialized niches, without any governance role being coded in, when some competences show only in rare contexts?
 
 ## Why it is a question
 
@@ -109,3 +116,7 @@ coexistence theory to this question.
 Chesson ([LIT-1219](../literature.d/LIT-1219.md)) is still unread. The synthesis recommends reading it
 before any negative-frequency-dependence criterion here is given stronger
 standing.
+
+## Note of 2026-10-28: the first part split off
+
+The fourth status review split this question under ADR-049. Whether one update rule yields stable, differentiated authority without a role coded in, and whether it also entrenches, is QUESTION-tmpl8ywi, Answered by CLAIM-277 on CASE-tmpasrij. This question keeps niches, rare-context competence and mutual regulation.

@@ -58,10 +58,10 @@ summary: >-
   for the targets of individuation to be justified too. It narrows [QUESTION-046](QUESTION-046.md) to the constitutive thesis,
   [CLAIM-412](../claims.d/CLAIM-412.md). An answer is that thesis's missing sufficiency
   condition, which [CLAIM-411](../claims.d/CLAIM-411.md) presses.
-answered_by:
-- THEORY-876
-- THEORY-882
+bearing:
 - THEORY-883
+- THEORY-882
+- THEORY-876
 ---
 <!-- inactive-ok-file: TERM-072 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-368 CLAIM-411 CLAIM-412 CLAIM-413 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->

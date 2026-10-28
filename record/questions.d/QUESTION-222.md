@@ -41,12 +41,11 @@ summary: >-
   coarse variable's own history, so memory is not by itself a failure of
   them, and [CLAIM-327](../claims.d/CLAIM-327.md) already locates a collective in a variable members
   read from the past.
-answered_by:
-- THEORY-818
 refined_by:
 - QUESTION-248
 - QUESTION-tmpf2ohw
 bearing:
+- THEORY-818
 - CLAIM-397
 - THEORY-819
 - THEORY-762

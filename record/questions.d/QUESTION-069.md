@@ -11,18 +11,6 @@ tags:
 - learning-theory
 date: '2026-10-12'
 line: 'learned-structure'
-answered_by:
-- THEORY-107
-- THEORY-108
-- THEORY-109
-- THEORY-110
-- THEORY-114
-- THEORY-209
-- THEORY-210
-- THEORY-557
-- THEORY-578
-- THEORY-675
-- THEORY-828
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-187](../claims.d/CLAIM-187.md) and [CLAIM-142](../claims.d/CLAIM-142.md).
@@ -31,6 +19,17 @@ summary: >-
 refined_by:
 - QUESTION-164
 bearing:
+- THEORY-828
+- THEORY-675
+- THEORY-578
+- THEORY-557
+- THEORY-210
+- THEORY-209
+- THEORY-114
+- THEORY-110
+- THEORY-109
+- THEORY-108
+- THEORY-107
 - THEORY-509
 - THEORY-211
 - THEORY-105

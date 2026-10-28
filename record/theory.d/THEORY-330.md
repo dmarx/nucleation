@@ -19,8 +19,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1062
-answers:
-- QUESTION-095
 summary: >-
   Howes, Duggan, Kalidindi, Tseng and Lewis (2016), [LIT-1062](../literature.d/LIT-1062.md), read in [NOTE-882](../notes.d/NOTE-882.md).
   Participants copied names shown one at a time from a mock email to a calendar.
@@ -31,6 +29,8 @@ summary: >-
   chose a non-optimal length. There is no look-up and no model: the prediction is
   each person's empirical argmax. Lieder and Griffiths' description of it as a
   memorize-or-look-up trade ([LIT-1071](../literature.d/LIT-1071.md)) does not fit the task.
+bears_on:
+- QUESTION-095
 ---
 
 # THEORY-330: After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load

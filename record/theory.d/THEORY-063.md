@@ -47,7 +47,7 @@ summary: >-
   depersonalized states are "non-subjective consciousness". The neural
   half is a cited hypothesis, the précis says little is known, and how the
   cluster becomes one subject's is left open.
-answers:
+bears_on:
 - QUESTION-046
 ---
 <!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the unread book that could move this, not leaned on -->

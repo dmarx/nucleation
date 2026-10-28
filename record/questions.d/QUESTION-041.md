@@ -20,9 +20,6 @@ tags:
 - ethics
 date: '2026-10-12'
 line: 'distributed-agency'
-answered_by:
-- THEORY-152
-- THEORY-207
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-030](../claims.d/CLAIM-030.md), [CLAIM-025](../claims.d/CLAIM-025.md) and
@@ -32,6 +29,8 @@ refined_by:
 - QUESTION-089
 - QUESTION-278
 bearing:
+- THEORY-207
+- THEORY-152
 - THEORY-149
 ---
 <!-- inactive-ok-file: CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->

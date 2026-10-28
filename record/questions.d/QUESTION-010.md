@@ -26,10 +26,10 @@ summary: >-
   synthesis." Gestured at in the manuscript (§8, §11), not posed. Its
   one-step form for one categorical concept is [QUESTION-249](QUESTION-249.md),
   Answered by [THEORY-281](../theory.d/THEORY-281.md). Chains, and relations, are open.
-answered_by:
-- THEORY-199
 refined_by:
 - QUESTION-249
+bearing:
+- THEORY-199
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-129 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

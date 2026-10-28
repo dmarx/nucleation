@@ -40,7 +40,7 @@ summary: >-
   cortex. The crow evidence is second-hand, from one laboratory and not in
   the record, and a report paradigm cannot separate access from phenomenal
   consciousness.
-answers:
+bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named because this account is evidence of the comparative kind its promote_when asks for, with no relation claimed -->

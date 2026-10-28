@@ -76,7 +76,7 @@ summary: >-
   states it with its integrability condition.
 extends:
 - THEORY-007
-answers:
+bears_on:
 - QUESTION-052
 ---
 

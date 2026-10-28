@@ -32,8 +32,6 @@ complements:
 - CLAIM-417
 - CLAIM-418
 - CLAIM-429
-answers:
-- QUESTION-259
 grounds:
 - CASE-143
 - CASE-146
@@ -48,6 +46,8 @@ summary: >-
   people, and a candidate answer to the first half of [QUESTION-259](../questions.d/QUESTION-259.md), how
   perspectives are generated. The phrase was coined in A3; the record had
   not used it before.
+bears_on:
+- QUESTION-259
 ---
 
 # CLAIM-430: An interaction can make available a way of relating that its participants' operative perspectives did not hold, by giving each a role to enact in it, so that taking part can come before, and help produce, the reinterpretation it later seems to express; whether the change stays with the partner, generalizes to a category, or is reproduced beyond the encounter are further questions

@@ -30,8 +30,6 @@ date: '2026-10-11'
 line: nucleating-argument
 works:
 - luria-nucleating-an-argument
-answers:
-- QUESTION-038
 rests_on:
 - CLAIM-177
 - CLAIM-182
@@ -47,6 +45,8 @@ summary: >-
   SDM's critical distance (read in [NOTE-242](../notes.d/NOTE-242.md)) and Hopfield's basins of
   attraction (unread when filed; read 2026-10-14 in NOTE-819). The analogy is the claim; whether restatement
   distance predicts re-derivation has not been measured.
+bears_on:
+- QUESTION-038
 ---
 <!-- inactive-ok-file: CLAIM-024 CLAIM-179 CLAIM-182 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->

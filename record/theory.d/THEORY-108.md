@@ -43,7 +43,7 @@ summary: >-
   are to the anthology's [ANTH-SOTA-012](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/practices.d/SOTA-012.md). One architecture family carries
   most of it, phases are read by eye, and connectivity alone also fails
   when the load is data amount.
-answers:
+bears_on:
 - QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-087 THEORY-078 — Proposed; named in Connections for what endpoint curvature measures, nothing here rests on them -->

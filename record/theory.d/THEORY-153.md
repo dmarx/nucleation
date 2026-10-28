@@ -32,10 +32,10 @@ summary: >-
   failing subsystem. Proposed: the paper declines to validate the model,
   the evidence is the author's consultancy, and no observation the model
   forbids is named.
-answers:
-- QUESTION-054
 corroborates:
 - CLAIM-099
+bears_on:
+- QUESTION-054
 ---
 <!-- inactive-ok-file: LIT-746 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->

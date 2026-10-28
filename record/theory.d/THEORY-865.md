@@ -27,8 +27,6 @@ tags:
 date: '2026-10-22'
 source:
 - LIT-1347
-answers:
-- QUESTION-048
 summary: >-
   Gurnee, Sofroniew et al. (2026), [LIT-1347](../literature.d/LIT-1347.md), read in [NOTE-1069](../notes.d/NOTE-1069.md)
   (main text in full, appendices in part). It is the functional analogue
@@ -37,6 +35,8 @@ summary: >-
   that company, a lens whose own statistics draw the layer band, a
   flexible/automatic split partly defined by the result, and an explicit
   refusal to say anything about phenomenal consciousness.
+bears_on:
+- QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-091 THEORY-096 THEORY-023 THEORY-869 THEORY-881 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-411 CLAIM-412 TERM-072 — Proposed; the batch's claims and term, cited as open -->

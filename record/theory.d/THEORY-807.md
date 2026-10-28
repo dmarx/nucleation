@@ -16,7 +16,7 @@ source:
 summary: Aerts's reading, which [THEORY-255](THEORY-255.md)'s title carried before the promotion audit narrowed it (batch 018) to the impossibility Theorem 9 proves. Aerts (2009), [LIT-934](../literature.d/LIT-934.md), read in [NOTE-808](../notes.d/NOTE-808.md), fits the ∆-type deviations with one emergent subspace per pair and reads thought as two superposed layers. The narrowing was right that the theorem does not force an emergent concept, only dropping the meet or the monotone weight; this entry is the emergence reading as Aerts's thesis. Filed under [ADR-047](../decisions.d/ADR-047.md) v4 so the wide form stays a thesis evidence can confirm or reject.
 extends:
 - THEORY-255
-answers:
+bears_on:
 - QUESTION-156
 ---
 

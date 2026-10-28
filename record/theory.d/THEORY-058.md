@@ -54,7 +54,7 @@ summary: >-
   simulated or clinical, and none of it is an individual time series
   showing hysteresis, so the account is Proposed. It says nothing about
   what starts a disorder.
-answers:
+bears_on:
 - QUESTION-045
 ---
 <!-- inactive-ok-file: LIT-548 LIT-552 — Unavailable; Engel and Kendler 2005 named as the unread background, not leaned on -->

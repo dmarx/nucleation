@@ -28,8 +28,6 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
-answers:
-- QUESTION-043
 grounds:
 - THEORY-447
 complements:
@@ -54,6 +52,8 @@ illustrated_by:
 - CASE-116
 supports:
 - CLAIM-361
+bears_on:
+- QUESTION-043
 ---
 <!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the ground this claim restates, cited as open -->
 <!-- inactive-ok-file: QUESTION-043 CLAIM-161 CLAIM-280 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

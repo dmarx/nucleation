@@ -48,14 +48,14 @@ summary: >-
   generated data the spectrum falls with depth in the tree, so the schedule
   is coarse to fine. It is not a claim about nonlinear networks, about
   correlated inputs, or about learning that starts from prior knowledge.
-answers:
-- QUESTION-025
 extended_by:
 - THEORY-481
 supports:
 - CLAIM-360
 extends:
 - THEORY-740
+bears_on:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 — Proposed; accounts this one underlies or is set beside -->
 

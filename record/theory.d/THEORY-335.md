@@ -25,8 +25,6 @@ date: '2026-10-15'
 source:
 - LIT-1064
 - LIT-1067
-answers:
-- QUESTION-109
 summary: >-
   Strack & Mussweiler (1997), [LIT-1064](../literature.d/LIT-1064.md), read in [NOTE-877](../notes.d/NOTE-877.md), proposed the
   account and showed, in three small studies, that with the anchor number
@@ -42,6 +40,8 @@ summary: >-
 supports:
 - CLAIM-298
 - CLAIM-315
+bears_on:
+- QUESTION-109
 ---
 <!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

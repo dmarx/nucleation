@@ -31,7 +31,7 @@ summary: >-
   non-report marker by theory borrows a contested theory, by
   introspection, unreliable report. It says the methods are lacking "at
   present", not that the question is unanswerable.
-answers:
+bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-094 — Proposed; the evidential accounts this one sits beside, open -->

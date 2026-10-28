@@ -30,8 +30,6 @@ tags:
 date: '2026-10-22'
 source:
 - LIT-1352
-answers:
-- QUESTION-255
 summary: >-
   Lee-Youngzie, Tsuchiya, Robinson, Dietz & Monti (2026), [LIT-1352](../literature.d/LIT-1352.md),
   read in full in [NOTE-1059](../notes.d/NOTE-1059.md). A hypothesis article with no data. It
@@ -43,6 +41,8 @@ summary: >-
   definition of gluing the rivalry case is not a sheaf failure. It answers
   [QUESTION-255](../questions.d/QUESTION-255.md) only by showing that a sheaf failure need not be
   disunity.
+bears_on:
+- QUESTION-255
 ---
 <!-- inactive-ok-file: CLAIM-412 CLAIM-198 THEORY-063 — Proposed; claims and readings cited as open, nothing here rests on them -->
 

@@ -11,10 +11,6 @@ tags:
 - mathematics
 date: '2026-10-12'
 line: 'learned-structure'
-answered_by:
-- THEORY-022
-- THEORY-210
-- THEORY-288
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-036](QUESTION-036.md), [CLAIM-137](../claims.d/CLAIM-137.md),
@@ -26,6 +22,9 @@ refined_by:
 - QUESTION-199
 - QUESTION-206
 bearing:
+- THEORY-288
+- THEORY-210
+- THEORY-022
 - THEORY-445
 - THEORY-284
 - THEORY-213

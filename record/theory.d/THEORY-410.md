@@ -25,8 +25,6 @@ source:
 - LIT-147
 presupposes:
 - THEORY-133
-answers:
-- QUESTION-033
 summary: >-
   Pernu (2018), [LIT-147](../literature.d/LIT-147.md), read in [NOTE-091](../notes.d/NOTE-091.md). A conceptual argument that turns
   on an empirical premise the paper asserts and does not examine: that each
@@ -34,6 +32,8 @@ summary: >-
   are not simple averages, and whether the mapping holds across sessions or
   subjects is not checked. It is scoped by its own footnote 1 to
   difference-making with proportionality.
+bears_on:
+- QUESTION-033
 ---
 <!-- inactive-ok-file: THEORY-048 THEORY-057 — Proposed; named because they cite the same paper, nothing here rests on them -->
 

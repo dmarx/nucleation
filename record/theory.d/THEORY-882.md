@@ -28,8 +28,6 @@ tags:
 date: '2026-10-22'
 source:
 - LIT-1363
-answers:
-- QUESTION-254
 summary: >-
   Laukkonen, Friston & Chandaria (2025), [LIT-1363](../literature.d/LIT-1363.md), read in full in
   [NOTE-1063](../notes.d/NOTE-1063.md) from PsyArXiv v3. A conceptual proposal with no data and
@@ -40,6 +38,8 @@ summary: >-
   gives epistemic depth is derived.
 supports:
 - CLAIM-439
+bears_on:
+- QUESTION-254
 ---
 <!-- inactive-ok-file: CLAIM-412 CLAIM-411 TERM-072 THEORY-063 — Proposed; the claims, terms and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-883 THEORY-876 — Proposed; filed in the same batch, named -->

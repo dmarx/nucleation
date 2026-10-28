@@ -44,8 +44,6 @@ source:
 - LIT-1289
 - LIT-1248
 - LIT-1300
-answers:
-- QUESTION-219
 summary: >-
   Giri, Kwon and Novack (2023; Annals 2026), [LIT-1289](../literature.d/LIT-1289.md), skimmed in
   [NOTE-1022](../notes.d/NOTE-1022.md): the L³-based strong Onsager theorem. Below 1/3, in
@@ -58,6 +56,8 @@ summary: >-
   inputs of the construction; it is a smooth density on a few pipes, not
   concentrated on a thin set; nothing is said about the sign at a positive
   scale or about vanishing viscosity.
+bears_on:
+- QUESTION-219
 ---
 <!-- inactive-ok-file: THEORY-821 — Proposed; Isett's Hölder flows with the local inequality, cited for contrast -->
 <!-- inactive-ok-file: THEORY-776 THEORY-763 — Proposed; the whole-box dissipative and the two-signed accounts, cited for contrast -->

@@ -42,7 +42,7 @@ summary: >-
   do not. The evidence is density plots, five seeds a condition, with no
   statistic. The downstream claims, that this causes grandmother neurons,
   superposition and neural collapse, are untested.
-answers:
+bears_on:
 - QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-017 THEORY-022 — Proposed; accounts this one bears on -->

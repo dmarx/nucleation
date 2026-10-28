@@ -26,7 +26,7 @@ summary: >-
   weight than the book gave it; exit is neither free nor always
   informative; managers manage both. Proposed: argued from examples, and
   loyalty's role is presupposed from the book rather than developed.
-answers:
+bears_on:
 - QUESTION-041
 ---
 <!-- inactive-ok-file: LIT-748 — Unavailable, unread; the 1970 book this essay extends -->

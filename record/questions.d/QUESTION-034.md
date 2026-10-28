@@ -24,14 +24,15 @@ summary: >-
 answered_by:
 - CLAIM-156
 - CLAIM-162
-- CLAIM-169
-- CLAIM-198
-- THEORY-076
-- THEORY-044
-- THEORY-409
 refined_by:
 - QUESTION-078
 - QUESTION-090
+bearing:
+- THEORY-409
+- THEORY-044
+- THEORY-076
+- CLAIM-198
+- CLAIM-169
 ---
 <!-- inactive-ok-file: CLAIM-027 CLAIM-156 CLAIM-162 CLAIM-163 CLAIM-169 — Proposed; the proposed answers and the open objection, cited as open -->
 <!-- inactive-ok-file: THEORY-043 THEORY-051 THEORY-056 THEORY-067 THEORY-076 — Proposed; the readings the question is posed from, with their standing as it is -->

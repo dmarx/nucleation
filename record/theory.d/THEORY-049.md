@@ -61,7 +61,7 @@ summary: >-
   rival, Cameron, Banko and Pierce's account (LIT-562), finds rewards tied
   to a score or to beating others do not undermine. Neither side has
   tested mediation.
-answers:
+bears_on:
 - QUESTION-066
 ---
 <!-- inactive-ok-file: LIT-545 — Unavailable; Bandura, named for the rival side's self-efficacy, not leaned on -->

@@ -25,8 +25,6 @@ source:
 rivals:
 - THEORY-527
 - THEORY-801
-answers:
-- QUESTION-032
 summary: >-
   Orseau, McGill & Legg (2018), [LIT-911](../literature.d/LIT-911.md), read in [NOTE-705](../notes.d/NOTE-705.md). A formal
   version of Dennett's choice of stance: the posterior probability that a
@@ -35,6 +33,8 @@ summary: >-
   with no human study. It presupposes an identified system, and its
   verdicts depend on the prior; under the speed prior everything may look
   like an agent.
+bears_on:
+- QUESTION-032
 ---
 <!-- inactive-ok-file: CLAIM-168 CLAIM-174 THEORY-036 THEORY-249 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited for the position it states, not leaned on -->

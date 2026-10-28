@@ -19,9 +19,6 @@ tags:
 - mathematics
 date: '2026-10-12'
 line: 'learned-structure'
-answered_by:
-- THEORY-241
-- THEORY-274
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-152](../claims.d/CLAIM-152.md) and [QUESTION-025](QUESTION-025.md).
@@ -31,6 +28,8 @@ refined_by:
 - QUESTION-157
 - QUESTION-tmpxjw51
 bearing:
+- THEORY-274
+- THEORY-241
 - THEORY-256
 - THEORY-206
 ---

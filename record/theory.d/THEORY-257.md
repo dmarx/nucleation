@@ -44,8 +44,6 @@ tags:
 date: '2026-10-14'
 source:
 - LIT-979
-answers:
-- QUESTION-065
 extends:
 - THEORY-733
 summary: >-
@@ -58,6 +56,8 @@ summary: >-
   subspaces, not partitions. The cost is multimodal, with every local
   optimum kept. The criterion is closure, not locality or informativeness
   about a far environment.
+bears_on:
+- QUESTION-065
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the locality accounts on QUESTION-065 and the boundary claims this account bears on, open -->
 

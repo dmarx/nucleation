@@ -50,7 +50,7 @@ summary: >-
   intervention, show a circuit forming while the loss is flat. Only one
   measures I(X;T), and there the later fall belongs to the estimator. This
   is the record's synthesis across the five, not a claim any of them makes.
-answers:
+bears_on:
 - QUESTION-039
 ---
 
