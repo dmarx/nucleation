@@ -1,20 +1,27 @@
 ---
-status: Unavailable
+status: Active
 status_note: >-
-  filed 2026-10-28; reading attempted the same day, no lawful copy
-  reached. OpenAlex and Unpaywall list it as closed, with no repository
-  copy; SAGE's version is paywalled. A web search found no author or
-  repository copy (UQ eSpace and ANU Open Research were tried by name),
-  only abstract mirrors and a university web-proxy of the SAGE page. No
-  NOTE is filed. It stays Unavailable until a copy is supplied.
+  read in full 2026-10-28 (NOTE-tmpf9mzh) from a scan of the published
+  article supplied by the owner; worth reading as the shortest statement,
+  by its authors, of self-categorization theory's view of the self:
+  personal and social identity are equally authentic levels of
+  self-categorization, salience is readiness times fit (metacontrast and
+  normative fit), and the level, kind, content and prototype of
+  self-categories vary with the comparative frame. It goes on to speculate
+  that the self is generated in context rather than stored. A theoretical
+  paper whose evidence is the group's own studies, reported without data.
+  Source of THEORY-tmpo85ke.
 title: 'Self and Collective: Cognition and Social Context'
 version: 1
 history:
 - version: 1
   date: '2026-10-28'
   note: >-
-    Filed Deferred, then set Unavailable before merge after a
-    search for a lawful copy on 2026-10-28 (ADR-041). Citation checked against Crossref on 2026-10-28:
+    Filed Deferred, set Unavailable before merge after a search for a
+    lawful copy on 2026-10-28 (ADR-041), and set Active the same day when
+    the owner supplied a scan of the published article (10 pages, image
+    only, read page by page), read in full in NOTE-tmpf9mzh.
+    Citation checked against Crossref on 2026-10-28:
     Turner, Oakes, Haslam and McGarty, Personality and Social Psychology
     Bulletin 20(5), 454–463. Crossref gives October 1994 only, so
     `published:` is 1994-10-01 and means October 1994 (ADR-002). The
@@ -42,8 +49,7 @@ summary: >-
 
 Turner, J. C., Oakes, P. J., Haslam, S. A. & McGarty, C. (1994). Self and collective: Cognition and social context. *Personality and Social Psychology Bulletin*, 20(5), 454–463. doi:10.1177/0146167294205002.
 
-Not read. The summary is drawn from the abstract. A reading should check
-it first.
+Read in full in NOTE-tmpf9mzh, from a scan of the published article supplied by the owner.
 
 ## Why this is here
 

@@ -1,24 +1,26 @@
 ---
-status: Unavailable
+status: Active
 status_note: >-
-  filed 2026-10-28; reading attempted the same day, no lawful copy
-  reached. OpenAlex and Unpaywall list it as closed, with no repository
-  copy, and Wiley's version is paywalled. A search found no copy on UQ
-  eSpace or an author page. A copy of the published PDF is posted on a
-  Democritus University of Thrace course page (eclass.duth.gr/modules/do
-  cument/file.php/ALEX037108/Hornsey%20M_Social%20identity%20theory_2008
-  .pdf); this session's permission policy refused the fetch as walled
-  content, and since its licence is in doubt it does not make the work
-  Unfetched (ADR-053). No NOTE is filed. It stays Unavailable until a
-  copy is supplied.
+  read in full 2026-10-28 (NOTE-tmp3dav9) from a copy of the published
+  article supplied by the owner; worth reading as a map that tells social
+  identity theory (intergroup relations, positive distinctiveness, status
+  and legitimacy) apart from self-categorization theory (levels of
+  self-categorization, fit, depersonalization), and records the strands
+  later dropped or softened: identification as a predictor of bias, the
+  self-esteem hypotheses, and strict functional antagonism. An insider's
+  review that lists the critiques and declines to answer them. Co-source
+  of THEORY-tmpo85ke.
 title: 'Social Identity Theory and Self-categorization Theory: A Historical Review'
 version: 1
 history:
 - version: 1
   date: '2026-10-28'
   note: >-
-    Filed Deferred, then set Unavailable before merge after a
-    search for a lawful copy on 2026-10-28 (ADR-041). Citation checked against Crossref on 2026-10-28:
+    Filed Deferred, set Unavailable before merge after a search for a
+    lawful copy on 2026-10-28 (ADR-041), and set Active the same day when
+    the owner supplied a copy of the published article (19 pages), read in
+    full in NOTE-tmp3dav9.
+    Citation checked against Crossref on 2026-10-28:
     Matthew J. Hornsey, Social and Personality Psychology Compass 2(1),
     204–222. Crossref's earliest full date is published-online 2008-01-14
     (ADR-002). The summary follows the abstract on Crossref.
@@ -43,8 +45,7 @@ summary: >-
 
 Hornsey, M. J. (2008). Social identity theory and self-categorization theory: A historical review. *Social and Personality Psychology Compass*, 2(1), 204–222. doi:10.1111/j.1751-9004.2007.00066.x.
 
-Not read. The summary is drawn from the abstract. A reading should check
-it first.
+Read in full in NOTE-tmp3dav9, from a copy of the published article supplied by the owner.
 
 ## Why this is here
 
