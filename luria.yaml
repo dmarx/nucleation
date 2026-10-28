@@ -470,6 +470,16 @@ vocabularies:
         label: Reductio
         blurb: 'a premise leads to something unacceptable, so the premise goes. Critical questions: is
           the consequence really unacceptable, or merely surprising? Is the premise the one to blame?'
+      evidence:
+        label: Evidence
+        blurb: 'an observation or result supports a hypothesis. Critical questions: would the evidence
+          be expected if the hypothesis were false? Does it tell the hypothesis apart from its rivals?
+          Does the measure measure what it is said to? (ADR-061)'
+      source:
+        label: Source
+        blurb: 'a reading of a work grounds a claim. Critical questions: does the work say this, read
+          in context? Is it said within the scope the claim needs? Does the claim lean on the reading
+          for more than the reading holds? (ADR-061)'
   question-statuses:
     label: Question statuses
     blurb: Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside,
@@ -1116,16 +1126,18 @@ schemes:
       undercuts:
         label: Undercuts
         blurb: the argument whose inference this claim denies, leaving its premises and its conclusion
-          standing
+          standing. Kept for a claim about the subject matter that defeats an inference; a claim whose
+          content is only "that does not follow" is the ARG's status and body instead (ADR-061)
         scheme: ARG
         required: false
         many: true
         converse: undercut_by
       superseded_by:
         label: Superseded by
-        blurb: the claim that replaced this one. Declared here rather than left to the built-in, so it has
-          a converse and the `revisions` chain can walk how a thesis changed (ADR-032)
-        scheme: CLAIM
+        blurb: the claim that replaced this one, or the ARG a claim about support moved to (ADR-061).
+          Declared here rather than left to the built-in, so it has a converse and the `revisions` chain
+          can walk how a thesis changed (ADR-032)
+        scheme: [CLAIM, ARG]
         required: false
         many: true
         converse: supersedes
@@ -1424,6 +1436,14 @@ schemes:
         required: false
         many: true
         converse: undercuts
+      supersedes:
+        label: Supersedes
+        blurb: the claim about support this argument replaced, written by `luria link --fix` from its
+          `superseded_by` (ADR-061)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: superseded_by
       superseded_by:
         scheme: ARG
         many: true
