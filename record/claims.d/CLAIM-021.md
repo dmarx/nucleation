@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmp5znml
 title: 'The mechanisms composing a will-organization are not novel'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Its objects_to CLAIM-024 becomes complements at the status review of
+    2026-10-28. A concession agrees with the objection it grants; filed
+    as an objection to it, an Active granted claim read as an answer.
+    The claim is unchanged.
 role: granted
 warrant: interpretive
 tags:
@@ -13,7 +21,7 @@ date: '2026-10-05'
 line: will-organization
 works:
 - organization-of-will
-objects_to:
+complements:
 - CLAIM-024
 uses:
 - TERM-023
