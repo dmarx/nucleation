@@ -19,9 +19,9 @@
   - Acknowledgements of retired premises without `until` are held at a
     baseline of 41.
 - **The owner's rulings on the five UNSURE edges.**
-  - CLAIM-160, CLAIM-296 and THEORY-219 now bear on their questions rather
-    than answering them. CLAIM-160 complements CLAIM-204, on intended
+  - [CLAIM-160](record/claims.d/CLAIM-160.md), [CLAIM-296](record/claims.d/CLAIM-296.md) and [THEORY-219](record/theory.d/THEORY-219.md) now bear on their questions rather
+    than answering them. [CLAIM-160](record/claims.d/CLAIM-160.md) complements [CLAIM-204](record/claims.d/CLAIM-204.md), on intended
     meaning against the act.
-  - CLAIM-tmpwlrc2 is filed as the bridge that answers QUESTION-092: what
+  - [CLAIM-tmpwlrc2](record/claims.d/CLAIM-tmpwlrc2.md) is filed as the bridge that answers [QUESTION-092](record/questions.d/QUESTION-092.md): what
     endogenous governance adds in the self-governing sense is revision of
     its own standards, not allocation of authority.

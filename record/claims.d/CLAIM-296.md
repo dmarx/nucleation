@@ -107,10 +107,10 @@ locating an object. And it adds a factor this claim does not list: work
 done before the request, by leaving the result in the environment (see
 the note of the same date on [TERM-055](../terms.d/TERM-055.md)).
 
-## Note of 2026-10-28: bearing on QUESTION-101
+## Note of 2026-10-28: bearing on [QUESTION-101](../questions.d/QUESTION-101.md)
 
 At the owner's ruling on the fourth status review, this claim bears on
-QUESTION-101 and does not answer it. It separates having a resource,
+[QUESTION-101](../questions.d/QUESTION-101.md) and does not answer it. It separates having a resource,
 knowing it is had and deploying it, and makes deploying relational. That
 frames what "available" means. It does not say when availability is the
 system's and not a member's, for a stated class of tasks, which is what

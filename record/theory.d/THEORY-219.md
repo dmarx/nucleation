@@ -159,10 +159,10 @@ whether the rule was designed.
   papers reach neighbouring verdicts on current systems by unrelated
   criteria.
 
-## Note of 2026-10-28: bearing on QUESTION-092
+## Note of 2026-10-28: bearing on [QUESTION-092](../questions.d/QUESTION-092.md)
 
 At the owner's ruling on the fourth status review, this account bears on
-QUESTION-092 and does not answer it. Its agency is the kind that bears on
-responsibility, and the question fixes TERM-045's sense 5, self-governing.
+[QUESTION-092](../questions.d/QUESTION-092.md) and does not answer it. Its agency is the kind that bears on
+responsibility, and the question fixes [TERM-045](../terms.d/TERM-045.md)'s sense 5, self-governing.
 The bridge between the two is the record's own claim, filed the same day,
 which answers the question and is grounded in this account.

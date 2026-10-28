@@ -42,8 +42,8 @@ without the question being filed. That claim now answers it, and its counter,
 
 "Self-governing" is [TERM-045](../terms.d/TERM-045.md)'s sense 5, not the subject sense. The record's
 standing disclaimer is [CLAIM-116](../claims.d/CLAIM-116.md): "Regulation, even higher-order regulation,
-does not establish a will." Kahl 2026 ([LIT-1033](../literature.d/LIT-1033.md), since read in NOTE-723
-and held as THEORY-219) places agency in a standpoint that revises
+does not establish a will." Kahl 2026 ([LIT-1033](../literature.d/LIT-1033.md), since read in [NOTE-723](../notes.d/NOTE-723.md)
+and held as [THEORY-219](../theory.d/THEORY-219.md)) places agency in a standpoint that revises
 evaluative standards when they break down, which makes the scheduler's
 location beside the point. An answer says what endogenous
 allocation adds, or argues that behavioural equivalence leaves nothing for it
@@ -51,9 +51,9 @@ to add.
 
 ## Note of 2026-10-28: answered, as offered
 
-CLAIM-tmpwlrc2 is the record's offered answer, filed at the owner's request
-as the bridge from THEORY-219 to sense 5. Endogenous allocation of authority
+[CLAIM-tmpwlrc2](../claims.d/CLAIM-tmpwlrc2.md) is the record's offered answer, filed at the owner's request
+as the bridge from [THEORY-219](../theory.d/THEORY-219.md) to sense 5. Endogenous allocation of authority
 adds nothing in sense 5. Endogenous revision of the governing standards
 adds the stronger sense, and the difference shows outside the regime in
-which the two systems are matched. THEORY-219 now bears on this question.
-CLAIM-284 and the bridge both answer it, and the bridge narrows CLAIM-284.
+which the two systems are matched. [THEORY-219](../theory.d/THEORY-219.md) now bears on this question.
+[CLAIM-284](../claims.d/CLAIM-284.md) and the bridge both answer it, and the bridge narrows [CLAIM-284](../claims.d/CLAIM-284.md).

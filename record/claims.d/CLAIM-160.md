@@ -120,8 +120,8 @@ The interlocutor's reading of 2026-10-12 recommends to "Retain CLAIM-160 for int
 
 The owner's ruling on the fourth status review settles the note of
 2026-10-12. This claim is about intended meaning, fixed when it is written.
-QUESTION-029 asks about the identity of the communicative act, which is
-CLAIM-151's and CLAIM-204's ground, so this claim bears on that question
-and does not answer it. Read that way, it does not conflict with CLAIM-204,
+[QUESTION-029](../questions.d/QUESTION-029.md) asks about the identity of the communicative act, which is
+[CLAIM-151](CLAIM-151.md)'s and [CLAIM-204](CLAIM-204.md)'s ground, so this claim bears on that question
+and does not answer it. Read that way, it does not conflict with [CLAIM-204](CLAIM-204.md),
 and the two complement each other: intending to perform an act against the
 act performed and taken up, the interlocutor's distinction of 2026-10-12.

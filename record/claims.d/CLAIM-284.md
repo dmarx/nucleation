@@ -167,9 +167,9 @@ them well."
 
 ## Note of 2026-10-28: narrowed by a bridge claim
 
-CLAIM-tmpwlrc2, filed at the owner's request, narrows what this claim's
+[CLAIM-tmpwlrc2](CLAIM-tmpwlrc2.md), filed at the owner's request, narrows what this claim's
 endogeneity contributes to the self-governing sense. It is the capacity to
-revise the governing standards, CLAIM-025's third capacity and this claim's
+revise the governing standards, [CLAIM-025](CLAIM-025.md)'s third capacity and this claim's
 "conditions of its own transformation", and not the allocation of authority
 among processes. The two complement each other, and both answer
-QUESTION-092.
+[QUESTION-092](../questions.d/QUESTION-092.md).
