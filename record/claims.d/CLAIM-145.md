@@ -3,8 +3,21 @@ number: 145
 status: Proposed
 formerly:
 - CLAIM-tmpgp40l
-title: 'Trope analysis of this kind is Propp''s and Lévi-Strauss''s, and trope annotations are written to fit their examples, so agreement with TV Tropes labels cannot by itself validate a structural account'
-version: 1
+title: 'Trope analysis of the kind A155 proposes is Propp''s and Lévi-Strauss''s transformational analysis, whom the manuscript should cite as precursors'
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061, along the claim's own two halves. The circularity
+    half, that agreement with TV Tropes labels cannot validate a
+    structural account, moved to ARG-tmp7u4e1, from CASE-038 to CLAIM-147,
+    Rejected. The claim keeps the prior-art half, so it no longer objects
+    to CLAIM-147 and no longer rests on CLAIM-011, which the argument's
+    body cites. The title was: 'Trope analysis of this kind is Propp's and
+    Lévi-Strauss's, and trope annotations are written to fit their
+    examples, so agreement with TV Tropes labels cannot by itself validate
+    a structural account'. The body is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -12,11 +25,8 @@ tags:
 - philosophy-of-science
 date: '2026-10-10'
 line: pragmatic-transport
-objects_to:
-- CLAIM-147
 rests_on:
 - CLAIM-019
-- CLAIM-011
 grounds:
 - THEORY-167
 - LIT-830
@@ -33,8 +43,10 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-147 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp the objection rests on, whose promote_when carries the circularity warning -->
+<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
+<!-- inactive-ok-file: ARG-tmp7u4e1 — Rejected; the argument this claim's circularity half moved to -->
 
-# CLAIM-145: Trope analysis of this kind is Propp's and Lévi-Strauss's, and trope annotations are written to fit their examples, so agreement with TV Tropes labels cannot by itself validate a structural account
+# CLAIM-145: Trope analysis of the kind A155 proposes is Propp's and Lévi-Strauss's transformational analysis, whom the manuscript should cite as precursors
 
 ## The claim
 
@@ -84,3 +96,13 @@ anywhere in the exchange.
 - It says the manuscript would have to cite Propp and Lévi-Strauss as
   precursors, and that labels written to fit their examples cannot be the
   test. It is [QUESTION-005](../questions.d/QUESTION-005.md) applied to one corpus.
+
+## Note of 2026-10-28: split under ADR-061
+
+The claim had "Two halves". The circularity half is a verdict on support:
+a measure that predicts trope labels predicts editorial agreement, so the
+labels cannot validate CLAIM-147. It is now ARG-tmp7u4e1, from CASE-038 to
+CLAIM-147, Rejected, with CLAIM-011's point and A178's control in its
+body. This claim keeps the prior-art half, which says CLAIM-147's account
+is not new, not that it is false. So it no longer objects to CLAIM-147,
+and it does not undercut the argument.
