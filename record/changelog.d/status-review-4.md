@@ -12,3 +12,9 @@
   already narrow them (ADR-059).
 - **Blockers recorded:** CLAIM-063's and CLAIM-004's are now on the
   entries.
+- **luria 1.3.0 adopted (ADR-057, mechanisms 3–5).**
+  - `reliance` ranks the pending report by dependents, and `load_bearing: 5`
+    names the most relied on (38, a warning).
+  - Four credence checks are reported patterns and fail the lint (all 0).
+  - Acknowledgements of retired premises without `until` are held at a
+    baseline of 41.

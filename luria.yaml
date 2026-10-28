@@ -1546,6 +1546,16 @@ lint:
   fail_on:
   - workflow-temp-codes
   - source-mismatch
+  # ADR-057's credence checks, at zero when adopted: a new one fails unless a
+  # `pattern-ok:` in the first node's document says why it is deliberate.
+  - inverted_premise
+  - inverted_ground
+  - answered_but_open
+  - answered_but_open_reading
+  # A count that may fall and may not rise (ADR-057, mechanism 5). `load-bearing`
+  # is left a warning: filing a claim on a Proposed premise is ordinary work.
+  baseline:
+    unbounded-acknowledgements: 41
   mute:
   - inert-status
   - acknowledged-uniformity
