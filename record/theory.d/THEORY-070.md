@@ -48,7 +48,6 @@ summary: >-
   regulation.
 supports:
 - CLAIM-162
-- CLAIM-159
 - CLAIM-358
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-029 — Proposed; THEORY-056 is the account this one is weighed against, THEORY-029 is named to say this one does not bear on it -->
@@ -175,3 +174,10 @@ dissociation of specifying from implementing beyond the cingulotomy
 half-result. [THEORY-878](THEORY-878.md)'s selective regions are co-activation, not that
 dissociation. It now bears on [QUESTION-054](../questions.d/QUESTION-054.md), whose summary already said it
 asserts one answer.
+
+## Note of 2026-10-28: the proposal split off
+
+What the paper proposes, as distinct from whether it is true, is now
+THEORY-tmp45v6v, Active, so that CLAIM-159, which places this account in
+the top-down cell, can stand on the proposal alone. This entry keeps the
+question whether the proposal holds, and its `promote_when`.

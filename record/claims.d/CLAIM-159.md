@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-159
 title: 'The record''s rival accounts of will are claims about drive profiles in different cells: Ainslie''s interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    THEORY-070 replaced in grounds by THEORY-tmp45v6v at the sixth
+    status review (ADR-058's route): the claim places the
+    expected-value-of-control account in a cell by what it proposes, a
+    dedicated specifier, and needs that the paper proposes it, not
+    that it is true. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,7 +33,7 @@ uses:
 - TERM-048
 grounds:
 - THEORY-067
-- THEORY-070
+- THEORY-tmp45v6v
 complements:
 - CLAIM-027
 summary: >-
@@ -97,3 +106,13 @@ Kept Proposed by the sixth status review. No comparison of the drive
 profiles [THEORY-067](../theory.d/THEORY-067.md), [THEORY-070](../theory.d/THEORY-070.md) and [CLAIM-027](CLAIM-027.md) predict for an agent resisting
 temptation is in the record, and [THEORY-067](../theory.d/THEORY-067.md)'s placement (aggregate or
 emergent) is undecided: "The précis does not say which".
+
+## Note of 2026-10-28: grounded in what the account proposes
+
+At the owner's direction, CLAIM-159 now grounds on THEORY-tmp45v6v, the
+record's held reading of what Shenhav, Botvinick and Cohen propose, rather
+than on THEORY-070, which asks whether the proposal is true. Placing the
+account in the top-down cell needs only the proposal. The claim stays
+Proposed: its other ground, THEORY-067, is Proposed, and the note above
+says what else holds it. The same split for THEORY-067, a held reading of
+what the précis proposes, would remove that premise as a blocker too.
