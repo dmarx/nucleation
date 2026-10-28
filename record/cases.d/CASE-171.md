@@ -4,12 +4,16 @@ status: Proposed
 formerly:
 - CASE-tmpir76a
 title: 'Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (later) added from the reading of LIT-1571: Tremblaya is a tipping-point endosymbiont, with a three-membrane envelope, and a host-encoded protein has been seen in a mealybug endosymbiont.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (batch 2) added from the reading of LIT-1560: the host protein seen in a mealybug endosymbiont is in Moranella, not Tremblaya.
 standing: documented
 kind: specimen
 tags:
@@ -25,6 +29,7 @@ reported_in:
 summary: >-
   In the mealybug Planococcus citri, Moranella lives inside Tremblaya. Essential amino-acid pathways need gene products from both bacteria and the insect ([LIT-1565](../literature.d/LIT-1565.md)). At least 22 genes the insect acquired from other bacteria, none from Tremblaya, fill symbiont gaps ([LIT-1569](../literature.d/LIT-1569.md)), and the inner symbiont has been replaced several times across mealybugs while those genes persisted ([LIT-1572](../literature.d/LIT-1572.md)). Used as the case where function is distributed across nested boundaries and constituent lineages turn over.
 ---
+<!-- inactive-ok-file: NOTE-tmpl32gd — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: THEORY-1049 — Proposed; filed from the reading cited in the note of 2026-10-27 (later) -->
 <!-- inactive-ok-file: LIT-1565 LIT-1569 LIT-1572 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 THEORY-418 — Open or Proposed; the question and account the case is filed to test -->
@@ -78,3 +83,15 @@ mealybug endosymbiont (one protein, mechanism unknown). This adds a
 second kind of compensation to the case: alongside genes from third
 parties, the host supplies cell biology the symbiont can no longer
 make.
+
+## Note of 2026-10-27 (batch 2): the imported protein is in *Moranella*
+
+Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)) identify the
+host-encoded protein seen in a mealybug endosymbiont. It is MurF, in
+*Moranella* (genome 0.54 Mbp), not in *Tremblaya*. The note above
+mentioned it beside *Tremblaya*'s tipping-point envelope, and could be
+read as placing it there. So the host supplies *Tremblaya*'s envelope,
+transport and translation on [THEORY-1049](../theory.d/THEORY-1049.md)'s account only. No protein import
+into *Tremblaya*, or into any symbiont below 200 kb, has been shown. The
+nearest case the review names is *Nardonella* (0.20–0.23 Mbp), where
+import is unconfirmed.

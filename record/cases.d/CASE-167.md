@@ -4,7 +4,12 @@ status: Proposed
 formerly:
 - CASE-tmp30dzl
 title: 'The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine alga, whose division is coupled to the host''s and which imports host-encoded proteins, reclassified as an early-stage organelle in 2024'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 (batch 2) added from the reading of LIT-1560.
 standing: documented
 kind: specimen
 tags:
@@ -18,6 +23,7 @@ reported_in:
 summary: >-
   Candidatus Atelocyanobacterium thalassa (UCYN-A), a metabolically streamlined nitrogen-fixing cyanobacterium known as an endosymbiont of a marine alga, is integrated into the alga's cell architecture and organellar division and imports proteins encoded by the algal genome. Coale et al. call it an early-stage organelle, the nitroplast ([LIT-1562](../literature.d/LIT-1562.md)). Used as the case where the line between endosymbiont and organelle is drawn by stated criteria.
 ---
+<!-- inactive-ok-file: THEORY-tmp74xnn NOTE-tmpl32gd — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1562 LIT-1560 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
@@ -47,3 +53,22 @@ evolved organelles with protein import.
 
 Documented in a work the record has not read. What it shows rests on its
 abstract until it is read.
+
+## Note of 2026-10-27 (batch 2): the review read
+
+Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)) confirm the case from
+Coale et al.'s results: one UCYN-A per host cell, coordinated division,
+vertical transmission, and more than 350 imported nucleus-encoded
+proteins. They add three points:
+
+- **Import without transfer.** No gene transfer from UCYN-A to the nucleus
+  has been found. Import alone gives genetic integration ([THEORY-tmp74xnn](../theory.d/THEORY-tmp74xnn.md)).
+- **A new signal.** 62% of imported proteins carry a C-terminal "UCYN-A
+  transit peptide", presumably cleaved, unlike any known organelle signal.
+- **The host's dependence is conditional.** "When nitrogen compounds are
+  externally provided in culture, B. bigelowii can lose UCYN-A". So the
+  host's dependence (D) depends on its environment, while the symbiont's
+  does not. R and C are high, and D is asymmetric.
+
+UCYN-A's genome is about 1.4 Mbp, and the partnership is about 91 million
+years old.

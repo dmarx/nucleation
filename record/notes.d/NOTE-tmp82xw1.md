@@ -1,0 +1,289 @@
+---
+status: Read
+paper: LIT-1596
+title: 'Shigenobu, Watanabe, Hattori, Sakaki & Ishikawa — Genome sequence of the endocellular bacterial symbiont of aphids Buchnera sp. APS'
+version: 1
+history:
+- version: 1
+  date: '2026-10-27'
+  note: >-
+    Read in full from the publisher's free PDF of the version of record
+    (https://www.nature.com/articles/35024074.pdf), fetched on 2026-10-27
+    and extracted with pdftotext, plain and with -layout. The two-column
+    layout interleaves in the extraction, so the text was read in order
+    of the columns and checked against the layout copy. Read: the
+    abstract, the whole letter, Table 1, the captions of Figures 1–3,
+    the Methods and the acknowledgements. The reference list was not
+    read. Figures were read from their captions and the text: the gene
+    map and pathway diagrams lost their layout in extraction, so which
+    steps are coloured as missing could not be read off them. The
+    supplementary information and the gene list on the authors' website
+    were not consulted. Checks re-derived here: Table 1's subcategories
+    sum to its category totals (amino-acid biosynthesis 55, energy
+    metabolism 51, macromolecule synthesis 187, cell envelope 46); 500 +
+    79 + 4 = 583 ORFs; 583 ORFs of 988 bp average cover 576,004 bp,
+    90% of the chromosome or 88% of the chromosome and both plasmids;
+    the chromosome is 1.10 times Mycoplasma genitalium's.
+date: '2026-10-27'
+summary: >-
+  The first complete genome of an obligate insect endosymbiont. Buchnera
+  APS, from the pea aphid, has a 640,681-bp chromosome with 583 ORFs and
+  two small plasmids. It is a subset of the E. coli gene set, produced by
+  loss from a larger common ancestor. It keeps the pathways for the amino
+  acids its host cannot make, lacks almost all of those the host can, and
+  draws some precursors from the host, so the two partners' pathways
+  interlock. It also lacks phospholipid and lipopolysaccharide synthesis,
+  almost all transcriptional regulators, and recA and uvrABC. The
+  authors infer that it can live only in the bacteriocyte and compare it
+  to an organelle. Everything here is read from gene content; no
+  experiment on the symbiont is reported, and the host's dependence is
+  asserted from the literature, not shown.
+---
+<!-- inactive-ok-file: THEORY-tmpehubi — Proposed; filed from this reading -->
+<!-- inactive-ok-file: QUESTION-277 CASE-173 THEORY-1049 THEORY-1051 LIT-1573 LIT-1585 — Open, Proposed, Unfetched or Unavailable; the question, case, accounts and unread works this reading is set beside, nothing here rests on them -->
+
+# NOTE-tmp82xw1: Shigenobu, Watanabe, Hattori, Sakaki & Ishikawa — Genome sequence of the endocellular bacterial symbiont of aphids Buchnera sp. APS
+
+## Contribution
+
+Before this letter, *Buchnera*'s role was known from nutritional and
+physiological studies, and its small genome from a physical map. This
+letter gives the whole sequence. It turns "the symbiont supplies amino
+acids" into a gene-by-gene account of what the symbiont can and cannot
+make, and of what it can no longer do for itself. In the authors' words,
+it is "the first case where genomic evolution of a mutualistic organism
+is revealed at the genomic level".
+
+## Key insight
+
+*Buchnera* is reduced like a parasite but dependent in a different way.
+Parasites with small genomes lose the pathways for nutrients they take
+from the host. *Buchnera* keeps the pathways for nutrients it gives the
+host, and loses those the host can supply. So the gene set is
+complementary to the host's: "Buchnera provides the host with what the
+host cannot synthesize, and conversely, the host provides the symbiont
+with what Buchnera cannot synthesize." Beyond nutrients, it also seems to
+lack the means to make its own membrane lipids and to regulate its own
+genes. The authors conclude that it "is similar to organelles".
+
+## Assumptions
+
+- **Gene content is capacity.** A function is taken as absent when no
+  gene for it was found by GeneHacker (an HMM gene finder) and BLAST
+  against a non-redundant database. A function is taken as present when
+  its genes are. Expression and enzyme activity are not measured.
+- **E. coli and H. influenzae as reference.** The DnaA box upstream of
+  gidA is assumed to be the replication origin "as E. coli and
+  Haemophilus influenzae are closely related to Buchnera".
+- **Which amino acids are essential** to aphids is taken from earlier
+  work (refs 3, 15), not tested here.
+- **The ancestor's gene set is inferred cladistically.** A gene is placed
+  in the last common ancestor of *Buchnera*, *E. coli* and *H. influenzae*
+  when an orthologue pair spans sister groups or a descendant and an
+  outgroup. The authors note that the true ancestral set "may be larger".
+- **One strain.** All of it is *Buchnera* APS from one long-established
+  parthenogenetic clone of *Acyrthosiphon pisum*, 2,000 aphids dissected.
+
+## Key results
+
+- **The genome.**
+  - One circular chromosome of 640,681 bp, "the smallest of the
+    completely sequenced genomes" at the time except *Mycoplasma
+    genitalium* (580,070 bp). It is 1.10 times *M. genitalium*'s.
+  - Two plasmids: pLeu (7,786 bp, 7 ORFs, with leuABCD) and pTrp (at
+    least two tandem repeats of trpEG; the assembly converged at
+    7,258 bp, two units).
+  - G+C content 26.3%. No insertion sequences, phage-related sequences
+    or significant repeats. One copy of each rRNA, 32 tRNA genes.
+  - 583 ORFs, average 988 bp, covering 88% of the genome. My recomputation
+    gives 90% of the chromosome alone, and 88% of the chromosome and both
+    plasmids, so the 88% probably counts the plasmids. The inference is
+    mine.
+  - Predicted proteins are basic: average pI 9.6 against 7.2 in *E. coli*
+    and 7.3 in *H. influenzae*. Lysine usage is twice *E. coli*'s (data
+    not shown).
+- **A subset of E. coli.** 500 ORFs were assigned a function, 79 match
+  hypothetical proteins of other bacteria, and 4 are unique to
+  *Buchnera*. The closest matches are generally *E. coli*'s, and *E.
+  coli*'s operon gene order is well conserved. Hence "the Buchnera genome
+  is a subset of the E. coli genome".
+- **Amino acids (Fig. 2).**
+  - 54 genes for amino-acid biosynthesis in the text; Table 1 lists 55,
+    and its subcategories sum to 55. The difference is not explained.
+  - Genes for the amino acids essential to the aphid are present. Those
+    for the non-essential ones "are almost completely missing".
+    Cysteine is an exception: the sulphate-reduction pathway and
+    cysteine synthesis are complete, and "insects cannot reduce sulphate
+    to sulphide".
+  - Gaps inside retained pathways: ilvE, the usual last step for valine,
+    leucine and isoleucine, is absent, "so the reaction may take place by
+    some other aminotransferase"; dapC "has never been identified in any
+    organisms"; HisC may substitute for TyrB in phenylalanine synthesis.
+  - Glutamate and aspartate, which *Buchnera* cannot make, are precursors
+    of essential amino acids. So the pathways "are not only
+    complementary, but also mutually dependent". This fits earlier
+    evidence that aphids recycle amino groups as glutamine, which
+    *Buchnera* uses.
+  - Pantothenate is made from pyruvate, but the pathway on to coenzyme A
+    is missing. Animals can make CoA from pantothenate but not
+    pantothenate itself.
+  - Nucleotide pathways are "almost complete", unlike in obligate
+    parasites. Whether for host or self "is not known".
+- **Transport.** Few transporter genes (18 transport/binding in
+  Table 1), and only a few ABC transporters. PTSs for glucose and
+  mannitol; no other substrate-specific transporter found. The sec
+  secretion genes are kept. Flagellar basal-body genes are present but
+  fliC (filament) and chemotaxis genes are not, and no flagellum or
+  motility has been seen. The authors suggest the basal body "serves as a
+  transporter structure", by analogy with *Salmonella* and *Yersinia*.
+  This is a suggestion, not a finding.
+- **Energy.** Glycolysis, the pentose phosphate pathway and aerobic
+  respiration (nuo and cyo operons, F0F1 ATP synthase) are complete. The
+  TCA cycle is not, apart from the 2-oxoglutarate dehydrogenase genes.
+  No ubiquinone synthesis, no fermentation, no anaerobic respiration.
+- **DNA repair.** recA is missing, though recBCD is present: "the first
+  organism found to have recBCD without recA". uvrABC is missing; mfd is
+  kept. lexA and umuCD are missing, and so are methylation and
+  restriction genes. The authors read the genome as "vulnerable to DNA
+  damage", or as using the residual genes differently.
+- **Cell surface.**
+  - LPS genes are missing except lpcA and kdtB. Only a few lipoprotein
+    and outer-membrane-protein genes.
+  - Phospholipid synthesis genes are "completely missing ... except that
+    for cardiolipin synthetase (cls)". The authors offer two
+    possibilities: *Buchnera* "either imports phospholipid from the host
+    or synthesizes it, employing relevant enzymes transferred from the
+    host cell, like mitochondria do". Neither is tested.
+  - Table 1 still lists 6 fatty-acid biosynthesis genes and 15 murein
+    and peptidoglycan genes.
+- **Regulation.**
+  - No two-component systems. No transcriptional regulators except
+    dnaA. No leader sequences or attenuation. No cyaA or crp, despite
+    PTSs. Two sigma factors only, rpoD and rpoH. CsrA might regulate
+    carbohydrate metabolism after transcription.
+  - "Buchnera is unique in lacking regulatory genes, but having their
+    regulatees." *M. genitalium* and *Rickettsia prowazekii* lost both.
+    The authors suggest the loss follows from "the homeostatic
+    environment in which Buchnera has been housed for so long".
+- **Reductive origin.** Over orthologue groups from 23 complete genomes,
+  the most frequent subtree places *Buchnera* as diverging from the
+  lineage to *E. coli* and *H. influenzae* after *R. prowazekii*,
+  "although a certain number of trees support" *Buchnera* as *E. coli*'s
+  closest relative. The *Buchnera* gene set, "excluding a few genes", is
+  a small subset of the inferred ancestral set, and no
+  *Buchnera*-specific duplicated gene was found. Hence the small genome
+  is "the result of reductive evolution", not a small ancestor.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The Buchnera APS chromosome is 640,681 bp with 583 ORFs, a subset of the E. coli gene set | strong | whole-genome shotgun at about 7-fold coverage, gaps closed by primer walking, error probability under 0.01% by CONSED; restriction fragments match the physical map |
+| C2 | Buchnera keeps the biosynthetic genes for amino acids essential to aphids and lacks almost all of those for non-essential ones, cysteine excepted | strong as gene content | annotation (Fig. 2, Table 1); the essential/non-essential split is taken from the literature |
+| C3 | Host and symbiont amino-acid pathways are mutually dependent, since glutamate and aspartate from the host are precursors of essential amino acids | moderate | gene content plus earlier physiological evidence on glutamine recycling; no flux measured here |
+| C4 | Buchnera lacks phospholipid and LPS synthesis, nearly all transcriptional regulators, and recA, uvrABC and the SOS genes | strong as gene content | annotation; absence by failure to find a homologue |
+| C5 | The small genome arose by loss from a larger common ancestor with E. coli and H. influenzae | moderate | cladistic inference of the ancestral gene set over 23 genomes; tree topology not unanimous |
+| C6 | Buchnera "cannot survive outside the eukaryotic cell" and depends on the host for its membrane lipids | weak as shown here | inferred from missing genes; no culture attempt or lipid analysis reported |
+| C7 | The mutualism "is so obligate that neither can reproduce independently" | not tested here | asserted in the opening sentence with a citation (ref. 2) |
+| C8 | Loss of regulators follows from Buchnera's long life in a homeostatic environment | weak | a suggestion; no test |
+
+## Concepts
+
+- **Bacteriocyte**: one of the 60–80 "huge cells" in almost all aphid
+  species in which *Buchnera* lives.
+- **Complementarity and syntrophy**: the authors' terms for host and
+  symbiont each making what the other cannot, with exchange of products.
+- **Mutually dependent pathways**: pathways in which one partner's
+  product is the other's precursor, as with glutamate and aspartate
+  feeding *Buchnera*'s essential-amino-acid synthesis.
+- **Reductive evolution**: here, a genome that is a subset of a larger
+  inferred ancestor's, with no lineage-specific duplications.
+
+## Connections
+
+The letter rests on earlier work it cites without detail: *Buchnera* as a
+new genus (ref. 1), its polyploidy, "more than 100 genomic copies per
+cell" (ref. 4), the physical map giving a genome a seventh of *E. coli*'s
+(ref. 5), and a phylogenetic dating of the symbiosis to 200–250 Myr ago
+with co-speciation of hosts and symbionts (ref. 7). It mentions AT bias as
+a feature of endocellular bacteria (ref. 11) but does not explain it.
+**It does not mention drift, Muller's ratchet, population size or
+transmission bottlenecks.** Its only causal suggestions for loss are the
+"homeostatic environment" and a "prolonged intracellular life, sheltered
+from attack". The drift account in the record comes from [LIT-1573](../literature.d/LIT-1573.md),
+Moran 1996, which is not cited here. Pál et al. ([LIT-1585](../literature.d/LIT-1585.md), not reached) is registered as simulating
+gene loss on a metabolic network to predict this genome's gene content.
+
+## Bearing on the record
+
+- **[CASE-173](../cases.d/CASE-173.md).** The case's first paragraph is drawn from this paper's
+  abstract and mostly stands. Four corrections:
+  - "So obligate that neither can reproduce independently" is the
+    opening sentence, with a citation. This paper does not show it.
+  - The paper says nothing about drift or the ratchet. The case's
+    "dependence through degradation ... largely by drift" rests on
+    [LIT-1573](../literature.d/LIT-1573.md) alone, which is Unfetched.
+  - "Lacks those for the ones it can" needs "almost all": cysteine is
+    made.
+  - The paper does not look at the host genome, so it could not report
+    gene transfer from symbiont to host, and does not. It does raise the
+    reverse: host enzymes, or host phospholipid, supplied to the
+    symbiont, "like mitochondria do". That is a hypothesis.
+- **[THEORY-1049](../theory.d/THEORY-1049.md).** *Buchnera* APS, at 641 kb, already lacks phospholipid
+  synthesis (except cls) and almost all LPS synthesis, and the authors
+  already proposed in 2000 that the host supplies membrane lipids. It
+  keeps fatty-acid, murein and sec genes. So in this genome envelope
+  erosion has begun well above the 400 kb threshold, but the full set is
+  not gone. That fits a threshold for complete loss rather than for the
+  start of loss. The inference is mine.
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** On the five dimensions:
+  - **G** is the paper's subject: essential amino-acid synthesis is split
+    between the genomes, and interlocked by shared precursors.
+  - **D** is shown for the symbiont only, and only from gene content.
+    The host's dependence is asserted from the literature. D's
+    directionality is therefore not settled by this paper.
+  - **C**: the symbiont has lost almost all its own regulators but kept
+    the genes they regulated. Nothing here shows the host regulating
+    them. Loss of self-regulation is not host control. The inference is
+    mine.
+  - **R**: maternal transmission is stated, citing earlier work.
+  - **S**: not addressed.
+  - The route it documents is reduction from a larger ancestor. The
+    paper names no mechanism for it beyond relaxed demands of a
+    homeostatic niche.
+- **[THEORY-1051](../theory.d/THEORY-1051.md).** The paper gives no data on *Buchnera*'s births and
+  deaths inside the host, the variable that model makes decisive. It
+  reports polyploidy (over 100 genome copies per cell), from earlier
+  work.
+- Filed as [THEORY-tmpehubi](../theory.d/THEORY-tmpehubi.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- **Annotation only.** Every functional claim is from gene presence or
+  absence. Absent genes could be divergent homologues the searches
+  missed; present genes could be inactive.
+- **One strain, one host clone.** Nothing here says how general the
+  pattern is across *Buchnera* of other aphids.
+- **The host side is not studied.** The host genome, host transporters
+  and host contributions are outside the paper. "Viable only in ... the
+  bacteriocyte" is an inference from gene content, not an attempt at
+  culture.
+- **Figures in extraction.** Figures 1–3 were read from their captions
+  and the text here. Which pathway steps are pink in Figures 2 and 3
+  could not be checked.
+- **Small inconsistencies.** 54 amino-acid genes in the text against 55
+  in Table 1. "Covering 88% of the whole genome" matches the chromosome
+  and plasmids, not the chromosome alone. "Chaemotaxis" in Table 1.
+
+## Open questions
+
+- Does the host supply phospholipids to *Buchnera*, and by what route?
+  Lipid analysis of isolated *Buchnera* membranes would show it.
+- What, if anything, regulates *Buchnera*'s retained biosynthetic genes
+  once its own regulators are gone? Measuring their expression in
+  response to the host's diet would bear on control (C).
+- Is the flagellar basal body a transporter, as suggested?
+- How did *Buchnera* lose so much? The paper's homeostatic-environment
+  suggestion and the drift account of [LIT-1573](../literature.d/LIT-1573.md) make different
+  predictions about which genes go first. The paper does not test
+  either.
