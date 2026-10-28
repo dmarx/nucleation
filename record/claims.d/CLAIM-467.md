@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpocjxw
 title: 'Under full-information, independent audits, a learned allocation of influence among specialists is no better than a contextual router trained on the same audits, which is a mixture of experts whose experts earn responsibility by fitting better; whatever governance adds over routing has to be shown where evaluation fails, and the record has not yet found such a regime'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    complements CLAIM-278 becomes undercuts ARG-tmpvyhbs: under
+    ADR-061 CLAIM-278 moved to that argument, from the lab's
+    restricted models to CLAIM-286, and this claim, a claim about
+    the subject matter, defeats it for one model class. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,8 +34,8 @@ grounds:
 - CASE-158
 - CASE-162
 - THEORY-937
-complements:
-- CLAIM-278
+undercuts:
+- ARG-tmpvyhbs
 summary: >-
   The prediction [CASE-158](../cases.d/CASE-158.md) states ("Under full information, governance
   should not beat it") and held by no claim, found in the audit of

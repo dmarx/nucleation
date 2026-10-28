@@ -1,10 +1,10 @@
 ---
 number: 278
-status: Proposed
+status: Superseded
 formerly:
 - CLAIM-tmpgdvrd
 title: 'An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-25'
@@ -28,6 +28,11 @@ history:
     frame engine predicts exactly as feature selection; and v2.8's
     hand-written frame helps or harms with how well its reading fits the
     world, which the engine allows either way. The claim is unchanged.
+- version: 5
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmpvyhbs under ADR-061, as an argument about
+    support; the claim's text below is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -38,8 +43,8 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
-objects_to:
-- CLAIM-286
+superseded_by:
+- ARG-tmpvyhbs
 complements:
 - CLAIM-024
 summary: >-
@@ -53,6 +58,8 @@ summary: >-
   its rivals do not.
 ---
 <!-- inactive-ok-file: CLAIM-286 CLAIM-024 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: ARG-tmpvyhbs — Proposed; the argument this claim moved to -->
+<!-- inactive-ok-file: CLAIM-467 — Proposed; the claim that now undercuts the argument this one moved to, open -->
 
 # CLAIM-278: An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids
 
@@ -160,3 +167,7 @@ of the time. The engine accommodates both. Whether reframing helps is set
 by whether the authored reading fits the world, which is a scope guard on
 reframing and not an outcome the framework rules out. The claim is
 unchanged.
+
+## Note of 2026-10-28: moved to ARG-tmpvyhbs
+
+This objection says the lab's evidence does not yet tell the shared-organization thesis from its rivals, which is a verdict on support. It moved to ARG-tmpvyhbs, from CASE-161 and CASE-163 to CLAIM-286, form evidence, Proposed, with the comparators and all the dated notes in its body. CLAIM-467, which held this objection's form for one model class, now undercuts that argument. The text above is unchanged.

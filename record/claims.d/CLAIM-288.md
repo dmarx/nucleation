@@ -3,8 +3,8 @@ number: 288
 status: Proposed
 formerly:
 - CLAIM-tmpzn7l2
-title: 'A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller''s, not set by the organization itself'
-version: 2
+title: 'In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller''s, not set by the organization itself'
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,14 +12,22 @@ history:
     Grounds add THEORY-628, Di Paolo's account of adaptivity filed from
     LIT-1017 in the THEORY backfill; it states the norm-for-the-system this
     claim cites him for. The claim is unchanged.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The verdict on the sufficiency tests moved
+    to ARG-tmp8gimi, from CASE-081 to CLAIM-284, which this claim
+    now undercuts in place of objecting to CLAIM-284; CASE-081 moved
+    to that argument's grounds. Version 2's title read: "A
+    simulation whose operators each maximize an objective the
+    modeller fixed cannot show self-constitution, because the norms
+    the organization appears to maintain are then the modeller's,
+    not set by the organization itself".
 role: counter
 warrant: interpretive
-objects_to:
-- CLAIM-284
 grounds:
 - THEORY-071
 - LIT-1017
-- CASE-081
 - THEORY-219
 - THEORY-220
 - THEORY-221
@@ -32,6 +40,8 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
+undercuts:
+- ARG-tmp8gimi
 summary: >-
   The record's objection, raised by no one in the exchange. A2 gives each
   operator an objective J_i, its evaluation of the collective decision, and
@@ -49,8 +59,9 @@ objected_by:
 ---
 <!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, the reading this claim cites him for, open like the claim -->
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: ARG-tmp8gimi — Proposed; the argument this claim undercuts, split from it under ADR-061 -->
 
-# CLAIM-288: A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself
+# CLAIM-288: In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller's, not set by the organization itself
 
 ## The objection
 
@@ -129,3 +140,13 @@ The exchange of 2026-10-17 met this objection three times without citing it.
   effective goal and maintained representations but not "the governance and
   revision of the processes that determine what remains effective". Both are
   this claim's distinction, used as a design control.
+
+## Note of 2026-10-28: split under ADR-061
+
+The claim held two things. That the norms of a population of fixed-objective
+maximizers are the modeller's is about the subject matter, and it stays here;
+CLAIM-356 disputes exactly that clause. That such a simulation "cannot show
+self-constitution" is a verdict on the sufficiency tests as evidence for
+CLAIM-284, and it moved to ARG-tmp8gimi, form evidence, Proposed, with
+CASE-081 as its premise. This claim undercuts that argument. The text above
+is otherwise unchanged.
