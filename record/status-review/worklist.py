@@ -95,11 +95,21 @@ class Record:
         return sorted(rows, key=lambda r: (-r["reach"], -r["direct"], r["code"]))
 
     def inversions(self) -> list[tuple]:
-        """Active CLAIMs and ARGs that rest on, or are grounded in, something the record does not hold."""
+        """Active CLAIMs that rest on, or are grounded in, something the record does not hold.
+
+        An ARG is not counted: its status is credence in its inference, not in its premises (ADR-059).
+        """
         return [(c, f, t, self.status(t))
-                for c, fm in sorted(self.docs.items()) if scheme(c) in ("ARG", "CLAIM") and self.status(c) == "Active"
+                for c, fm in sorted(self.docs.items()) if scheme(c) == "CLAIM" and self.status(c) == "Active"
                 for f in ("rests_on", "grounds") for t in as_list(fm.get(f))
                 if t in self.docs and self.status(t) != "Active"]
+
+    def sound_unheld(self) -> list[tuple]:
+        """Sound ARGs (inference Active, every premise Active) whose conclusion the record does not hold."""
+        return [(a, c, self.status(c))
+                for a, fm in sorted(self.docs.items()) if scheme(a) == "ARG" and self.status(a) == "Active"
+                and all(scheme(t) == "LIT" or self.status(t) == "Active" for t in self.premises(a))
+                for c in as_list(fm.get("concludes")) if c in self.docs and self.status(c) != "Active"]
 
     def retired_premises(self) -> list[tuple]:
         """Live entries that need something retired, with its named successor."""
@@ -155,9 +165,12 @@ def main(root: str = "record", top: int = 30, show: str | None = None):
     for x in r.load_bearing()[:top]:
         print(f"- {x['reach']:3d}/{x['direct']:<2d} {short(r, x['code'])}  "
               f"open premises: {x['open_premises'] or '-'}; live objections: {x['live_objections'] or '-'}")
-    print("\n## Credence inversions: Active resting on what is not held\n")
+    print("\n## Credence inversions: Active CLAIMs resting on what is not held\n")
     for row in r.inversions():
         print("- {} {} {} [{}]".format(*row))
+    print("\n## Sound arguments whose conclusion is not held\n")
+    for row in r.sound_unheld():
+        print("- {} concludes {} [{}]".format(*row))
     print("\n## Premises that are retired\n")
     for row in r.retired_premises():
         print("- {} {} {} [{}] -> {}".format(*row))

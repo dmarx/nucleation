@@ -43,7 +43,6 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-440 THEORY-893 TERM-076 CLAIM-439 — Proposed; the claim this objects to, the reading it rests on, and the term and candidate it bears on, cited as open -->
 
-<!-- inactive-ok-file: ADR-059 — Proposed; the general rule this ruling is a case of, cited as proposed -->
 
 # CLAIM-438: An ordering serving as the negotiation's potential, as the potential account of valence defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
 

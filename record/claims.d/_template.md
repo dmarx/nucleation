@@ -5,7 +5,8 @@
 
 # Active | Proposed | Deferred | Superseded | Rejected — whether the record
 # BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
+# is a counter that went Rejected. A conceded one is recorded by its
+# target's revision, and keeps the status its own evidence gives it (ADR-059).
 status: Proposed
 
 # One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.

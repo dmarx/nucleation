@@ -21,6 +21,7 @@ ENTRIES = {
     "questions.d/QUESTION-002.md": {"status": "Open", "answered_by": ["CLAIM-002"]},
     "theory.d/THEORY-001.md": {"status": "Proposed", "presupposed_by": []},
     "arguments.d/ARG-001.md": {"status": "Active", "rests_on": ["CLAIM-001", "CLAIM-005"]},
+    "arguments.d/ARG-002.md": {"status": "Active", "rests_on": ["CLAIM-001"], "concludes": ["CLAIM-003"]},
 }
 
 
@@ -48,8 +49,13 @@ def test_load_bearing_lists_proposed_by_reach(tmp_path):
 
 
 def test_inversions_find_active_resting_on_proposed(tmp_path):
-    assert record(tmp_path).inversions() == [("ARG-001", "rests_on", "CLAIM-005", "Proposed"),
-                                             ("CLAIM-004", "rests_on", "CLAIM-003", "Proposed")]
+    # an ARG's status is credence in its inference, not its premises (ADR-059)
+    assert record(tmp_path).inversions() == [("CLAIM-004", "rests_on", "CLAIM-003", "Proposed")]
+
+
+def test_sound_arguments_with_unheld_conclusions(tmp_path):
+    # ARG-002: inference Active, every premise Active, conclusion Proposed; ARG-001 has an unheld premise
+    assert record(tmp_path).sound_unheld() == [("ARG-002", "CLAIM-003", "Proposed")]
 
 
 def test_retired_premises_name_the_successor(tmp_path):
