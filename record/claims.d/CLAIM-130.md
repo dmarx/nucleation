@@ -21,7 +21,7 @@ history:
     from rests_on to complements only: this claim needs that do(I) and
     do(S) act on different variables, which Pearl and Woodward ground
     directly, not CLAIM-127's open proposal to index the empirical
-    model by intervention. It now answers QUESTION-tmphmweu, split from
+    model by intervention. It now answers QUESTION-296, split from
     QUESTION-030, whose remaining halves it bears on.
 
 role: thesis
@@ -38,7 +38,7 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 answers:
-- QUESTION-tmphmweu
+- QUESTION-296
 bears_on:
 - QUESTION-030
 grounds:
@@ -181,4 +181,4 @@ empirical model rather than enter its cover. This claim does not need
 that, so [CLAIM-127](CLAIM-127.md) is a complement here, not a premise.
 
 [QUESTION-030](../questions.d/QUESTION-030.md) was split under [ADR-049](../decisions.d/ADR-049.md). This claim answers the part it
-settles, [QUESTION-tmphmweu](../questions.d/QUESTION-tmphmweu.md), and bears on what stays open.
+settles, [QUESTION-296](../questions.d/QUESTION-296.md), and bears on what stays open.

@@ -10,7 +10,7 @@ history:
   date: '2026-10-28'
   note: >-
     Retargeted at the status review of 2026-10-28 from CLAIM-027 to
-    CLAIM-tmpnvpfe, the explanatory-gain claim. CLAIM-027 says what
+    CLAIM-487, the explanatory-gain claim. CLAIM-027 says what
     decides which regime becomes effective, not that the account is new,
     and its mechanism half is granted by CLAIM-021. The title is
     unchanged.
@@ -22,7 +22,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 objects_to:
-- CLAIM-tmpnvpfe
+- CLAIM-487
 summary: >-
   "The most important objection" (Section 7.1), re-derived three times in
   the exchange with different criteria each time. Proposed: the paper
@@ -31,7 +31,7 @@ summary: >-
 complements:
 - CLAIM-278
 ---
-<!-- inactive-ok-file: CLAIM-159 CLAIM-tmpnvpfe — Proposed; the partial reply, and the gain claim this objects to, open -->
+<!-- inactive-ok-file: CLAIM-159 CLAIM-487 — Proposed; the partial reply, and the gain claim this objects to, open -->
 
 # CLAIM-024: Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names
 
@@ -62,6 +62,6 @@ The status review of this date found that this objection does not dispute
 [CLAIM-027](CLAIM-027.md)'s title, which says what decides efficacy and makes no claim to
 novelty. It disputes the gain the paper stakes itself on, which was
 carried by [CLAIM-027](CLAIM-027.md)'s standing without being one of its words. That gain
-is now [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), and this objection is to it. Its first half, that
+is now [CLAIM-487](CLAIM-487.md), and this objection is to it. Its first half, that
 the mechanisms are not new, the paper grants ([CLAIM-021](CLAIM-021.md)), which is why
 [CLAIM-021](CLAIM-021.md) no longer files as an objection to this one.

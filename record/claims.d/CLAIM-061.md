@@ -11,7 +11,7 @@ history:
   note: >-
     Narrowed and promoted at the status review of 2026-10-28 (ADR-057,
     ADR-059). Version 1's title read 'Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event'. The necessity half moves
-    to CLAIM-tmp6rohb, Proposed, conceding CLAIM-053 and CLAIM-229.
+    to CLAIM-486, Proposed, conceding CLAIM-053 and CLAIM-229.
     Footing leaves the title, conceding CLAIM-227: the record has no
     validated measure of it. THEORY-162 moves from grounds to
     corroborated_by (ADR-058). The defeated_if is restated for the
@@ -53,7 +53,7 @@ complements:
 - CLAIM-091
 - CLAIM-054
 - CLAIM-084
-- CLAIM-tmp6rohb
+- CLAIM-486
 illustrated_by:
 - CASE-012
 - CASE-027
@@ -70,7 +70,7 @@ objected_by:
 <!-- inactive-ok-file: LIT-766 — Unavailable; Hofstadter, unread here, named as the reading the necessity candidate waits on -->
 
 <!-- ref::uses-file: TERM-030 — footing and the speaker's position are components of TERM-030's configuration c = (u, s, a, k, n, g, h), which is where the delivery frame's who-to-whom-from-what-position went; until 2026-10-27 it used TERM-035, now Superseded -->
-<!-- inactive-ok-file: THEORY-162 CLAIM-tmp6rohb — Proposed; the reading that corroborates this claim, and the necessity half split from it, cited as open -->
+<!-- inactive-ok-file: THEORY-162 CLAIM-486 — Proposed; the reading that corroborates this claim, and the necessity half split from it, cited as open -->
 <!-- inactive-ok-file: CLAIM-006 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
@@ -142,7 +142,7 @@ had not done: the note of 2026-10-10 left the text unchanged.
 - **[CLAIM-229](CLAIM-229.md)'s correction is made.** [CASE-018](../cases.d/CASE-018.md) is the same proposition
   with a different act, so it bears on sufficiency only. "Necessity fails
   in [CASE-018](../cases.d/CASE-018.md), read in reverse", above, is the version 1 text it corrects.
-- **The necessity half moves** to [CLAIM-tmp6rohb](CLAIM-tmp6rohb.md), Proposed. The manuscript
+- **The necessity half moves** to [CLAIM-486](CLAIM-486.md), Proposed. The manuscript
   does not argue it ([CLAIM-053](CLAIM-053.md)), and its one documented case, [CASE-056](../cases.d/CASE-056.md),
   meets the defender's reply only partly: the coarser "greet one another
   warmly" survives.

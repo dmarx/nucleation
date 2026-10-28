@@ -1,5 +1,8 @@
 ---
+number: 296
 status: Answered
+formerly:
+- QUESTION-tmphmweu
 title: 'Can an intervention on what an interpreter is told about a communicative situation tell the relations that constitute the act from those that only accompany it?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   through a do(S).
 ---
 
-# QUESTION-tmphmweu: Can an intervention on what an interpreter is told about a communicative situation tell the relations that constitute the act from those that only accompany it?
+# QUESTION-296: Can an intervention on what an interpreter is told about a communicative situation tell the relations that constitute the act from those that only accompany it?
 
 ## The question
 

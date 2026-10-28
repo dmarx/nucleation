@@ -1,5 +1,8 @@
 ---
+number: 486
 status: Proposed
+formerly:
+- CLAIM-tmp6rohb
 title: 'A rendering can keep the communicative act while changing the proposition, so preserving the proposition is not necessary for preserving the communicative event'
 version: 1
 role: thesis
@@ -30,7 +33,7 @@ summary: >-
   proposition worth keeping is the coarser one, and the handshake keeps it.
 ---
 
-# CLAIM-tmp6rohb: A rendering can keep the communicative act while changing the proposition, so preserving the proposition is not necessary for preserving the communicative event
+# CLAIM-486: A rendering can keep the communicative act while changing the proposition, so preserving the proposition is not necessary for preserving the communicative event
 
 ## The claim
 

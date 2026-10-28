@@ -1,5 +1,8 @@
 ---
+number: 488
 status: Proposed
+formerly:
+- CLAIM-tmpqmsav
 title: 'Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem'
 version: 1
 role: thesis
@@ -33,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-778 LIT-767 until 2027-01-28 — Unavailable; the works these steps cite, unread here, which is why this claim is Proposed -->
 
-# CLAIM-tmpqmsav: Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem
+# CLAIM-488: Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem
 
 ## The claim
 

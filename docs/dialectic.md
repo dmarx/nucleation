@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-47 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+48 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -78,10 +78,7 @@
   - [CLAIM-010](../record/claims.d/CLAIM-010.md) — On this account every control system has a will *(counter, Rejected)* — also objects to CLAIM-027
     - [CLAIM-062](../record/claims.d/CLAIM-062.md) — That every regulator with a higher-order attractor counts as having a will is acceptable once agency is kept apart from phenomenal experience *(thesis, Superseded)*
     - [CLAIM-116](../record/claims.d/CLAIM-116.md) — Regulation, even higher-order regulation, does not establish a will *(disclaimed, Active)*
-- [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes *(thesis, Proposed)*
-  - [CLAIM-024](../record/claims.d/CLAIM-024.md) — Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names *(counter, Proposed)*
-    - [CLAIM-021](../record/claims.d/CLAIM-021.md) — The mechanisms composing a will-organization are not novel *(granted, Active)*
-    - [CLAIM-159](../record/claims.d/CLAIM-159.md) — The record's rival accounts of will are claims about drive profiles in different cells: Ainslie's interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes *(thesis, Proposed)*
+- [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them *(thesis, Active)*
   - [CLAIM-089](../record/claims.d/CLAIM-089.md) — Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy *(counter, Rejected)*
     - [CLAIM-122](../record/claims.d/CLAIM-122.md) — Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed *(thesis, Proposed)*
     - [CLAIM-482](../record/claims.d/CLAIM-482.md) — An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change *(counter, Active)*
@@ -103,6 +100,12 @@
 - [CLAIM-015](../record/claims.d/CLAIM-015.md) — Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant *(thesis, Superseded)*
   - [CLAIM-040](../record/claims.d/CLAIM-040.md) — Symmetry is a kind of invariance, and Noether's theorem is the point: invariance under transformation yields conservation *(counter, Active)*
 
+## From Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not
+
+- [CLAIM-487](../record/claims.d/CLAIM-487.md) — Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not *(thesis, Proposed)*
+  - [CLAIM-024](../record/claims.d/CLAIM-024.md) — Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names *(counter, Proposed)*
+    - [CLAIM-159](../record/claims.d/CLAIM-159.md) — The record's rival accounts of will are claims about drive profiles in different cells: Ainslie's interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes *(thesis, Proposed)*
+
 ## From Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
 
 - [CLAIM-037](../record/claims.d/CLAIM-037.md) — Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context *(thesis, Proposed)*
@@ -118,30 +121,31 @@
 - [CLAIM-110](../record/claims.d/CLAIM-110.md) — Brooks's architecture, Kelso's coordination dynamics and Levin's bioelectric selves are three different ways of understanding what an organized whole is *(counter, Rejected)*
   - [CLAIM-045](../record/claims.d/CLAIM-045.md) — Architectural, dynamical and goal-directed accounts of distributed agency are complementary components of one account, each answering a different sub-question *(thesis, Active)*
 
-## From Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise
+## From For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions
 
-- [CLAIM-050](../record/claims.d/CLAIM-050.md) — Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise *(thesis, Proposed)*
+- [CLAIM-050](../record/claims.d/CLAIM-050.md) — For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions *(thesis, Active)*
   - [CLAIM-225](../record/claims.d/CLAIM-225.md) — Blackwell's order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line's claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis's own defeat condition *(counter, Active)*
   - [CLAIM-230](../record/claims.d/CLAIM-230.md) — Blackwell comparison needs the state each rendering is about, which natural texts do not supply, so a decision measure is fixed by whoever labels the state, and it orders translation procedures, not single renderings *(counter, Active)* — also objects to CLAIM-126
   - [CLAIM-258](../record/claims.d/CLAIM-258.md) — Blackwell's order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent *(counter, Proposed)*
     - [CLAIM-212](../record/claims.d/CLAIM-212.md) — Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell's order compares a rendering with its source as evidence about the source's situation, which both readers decide about, while a rendering that re-performs the act in the target's situation is compared only through a correspondence of situations *(thesis, Proposed)*
       - [CLAIM-461](../record/claims.d/CLAIM-461.md) — Compensation is not only a re-performance notion: for a reader whose code gives the literal word a meaning the source lacked, the compensating rendering can be the more faithful report, so assigning compensation to re-performance alone needs narrowing *(counter, Proposed)*
 - [CLAIM-067](../record/claims.d/CLAIM-067.md) — If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them *(thesis, Superseded)*
-  - [CLAIM-106](../record/claims.d/CLAIM-106.md) — Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit *(thesis, Proposed)*
+  - [CLAIM-106](../record/claims.d/CLAIM-106.md) — Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit *(thesis, Active)*
     - [CLAIM-218](../record/claims.d/CLAIM-218.md) — The task-paired risk difference the record uses in place of Blackwell's order, D_Q = sup_q |R_q(U) − R_τ(q)(V)|, is a different quantity: it reduces each risk set to one number, needs the losses of paired tasks on one scale, and its absolute value counts improvement as distortion *(granted, Active)* — also objects to CLAIM-050
 - [CLAIM-126](../record/claims.d/CLAIM-126.md) — Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency *(thesis, Proposed)*
 
-## From Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event
+## From Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event
 
-- [CLAIM-061](../record/claims.d/CLAIM-061.md) — Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event *(thesis, Proposed)*
-  - [CLAIM-053](../record/claims.d/CLAIM-053.md) — The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out *(granted, Active)*
+- [CLAIM-061](../record/claims.d/CLAIM-061.md) — Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event *(thesis, Active)*
+  - [CLAIM-053](../record/claims.d/CLAIM-053.md) — The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out *(granted, Active)* — also objects to CLAIM-486
   - [CLAIM-227](../record/claims.d/CLAIM-227.md) — No validated measure of footing or stance exists in the record, and the one repeated assignment of footing, the analyst's own, changed between passes *(granted, Active)* — also objects to CLAIM-084
-  - [CLAIM-229](../record/claims.d/CLAIM-229.md) — The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition's non-necessity holds the words fixed, so it shows only insufficiency *(granted, Active)* — also objects to CLAIM-084, CLAIM-091, CLAIM-151
+  - [CLAIM-229](../record/claims.d/CLAIM-229.md) — The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition's non-necessity holds the words fixed, so it shows only insufficiency *(granted, Active)* — also objects to CLAIM-084, CLAIM-091, CLAIM-151, CLAIM-486
 - [CLAIM-084](../record/claims.d/CLAIM-084.md) — Lexical similarity cannot distinguish preservation of communicative footing from a change of speech-act function, so the primary outcome of a reconstruction study is pragmatic-frame retention judged blind to condition *(thesis, Proposed)*
 - [CLAIM-091](../record/claims.d/CLAIM-091.md) — A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity *(thesis, Proposed)*
 - [CLAIM-151](../record/claims.d/CLAIM-151.md) — Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization *(thesis, Proposed)*
   - [CLAIM-221](../record/claims.d/CLAIM-221.md) — The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one *(counter, Proposed)*
   - [CLAIM-224](../record/claims.d/CLAIM-224.md) — Under partial relational constitution, a translation always changes the participants, audience and norms that the relational-constitution thesis makes constituents of the act, so whether the act survives turns on a correspondence of relations the structure cannot supply from inside *(counter, Proposed)*
+- [CLAIM-486](../record/claims.d/CLAIM-486.md) — A rendering can keep the communicative act while changing the proposition, so preserving the proposition is not necessary for preserving the communicative event *(thesis, Proposed)*
 
 ## From Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies
 

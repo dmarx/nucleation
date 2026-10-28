@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-28'
   note: >-
-    Now also objects to CLAIM-tmp6rohb, the necessity half CLAIM-061
+    Now also objects to CLAIM-486, the necessity half CLAIM-061
     carried until the status review of 2026-10-28 narrowed it to
     sufficiency. The edge to CLAIM-061 stays as the history of the
     concession. The claim is unchanged.
@@ -30,7 +30,7 @@ grounds:
 - CASE-032
 objects_to:
 - CLAIM-061
-- CLAIM-tmp6rohb
+- CLAIM-486
 - CLAIM-091
 - CLAIM-151
 - CLAIM-084

@@ -7,7 +7,7 @@
 ## From What fundamentally distinguishes variations of a translation is the frame from which it is delivered
 
 - [CLAIM-006](../record/claims.d/CLAIM-006.md) — What fundamentally distinguishes variations of a translation is the frame from which it is delivered *(Superseded)*
-  - [CLAIM-061](../record/claims.d/CLAIM-061.md) — Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event *(Proposed)*
+  - [CLAIM-061](../record/claims.d/CLAIM-061.md) — Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event *(Active)*
 
 ## From The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones
 
@@ -22,7 +22,7 @@
 ## From Will is a second- or higher-order attractor in an agent's dynamics
 
 - [CLAIM-012](../record/claims.d/CLAIM-012.md) — Will is a second- or higher-order attractor in an agent's dynamics *(Superseded)*
-  - [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes *(Proposed)*
+  - [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them *(Active)*
 
 ## From Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant
 
@@ -46,7 +46,7 @@
 ## From Fidelity is always fidelity with respect to some selected structure: a specified family of communicative observations, interventions and permitted continuations
 
 - [CLAIM-051](../record/claims.d/CLAIM-051.md) — Fidelity is always fidelity with respect to some selected structure: a specified family of communicative observations, interventions and permitted continuations *(Superseded)*
-  - [CLAIM-050](../record/claims.d/CLAIM-050.md) — Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise *(Proposed)*
+  - [CLAIM-050](../record/claims.d/CLAIM-050.md) — For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions *(Active)*
 
 ## From Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution
 
@@ -61,7 +61,7 @@
 ## From If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them
 
 - [CLAIM-067](../record/claims.d/CLAIM-067.md) — If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them *(Superseded)*
-  - [CLAIM-106](../record/claims.d/CLAIM-106.md) — Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit *(Proposed)*
+  - [CLAIM-106](../record/claims.d/CLAIM-106.md) — Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit *(Active)*
 
 ## From Conditional generative systems realize stochastic transports between constrained distributions, and their compositional fidelity depends on preserving the compatibility and relational structure of constraints across media
 

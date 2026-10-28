@@ -1,5 +1,8 @@
 ---
+number: 487
 status: Proposed
+formerly:
+- CLAIM-tmpnvpfe
 title: 'Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not'
 version: 1
 role: thesis
@@ -32,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-159 — Proposed; the thesis this one rests on and the partial comparison, cited as open -->
 
-# CLAIM-tmpnvpfe: Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not
+# CLAIM-487: Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not
 
 ## The claim
 

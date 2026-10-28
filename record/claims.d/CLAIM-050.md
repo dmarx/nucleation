@@ -38,7 +38,7 @@ history:
     compares procedures over a designed distribution, not single
     renderings (CLAIM-230); and its scope is report fidelity, leaving
     re-performance to CLAIM-258. The deficiency and Wyner-Ziv steps,
-    which rest on unread works, move to CLAIM-tmpqmsav, and LIT-778 and
+    which rest on unread works, move to CLAIM-488, and LIT-778 and
     LIT-767 leave the grounds.
 role: thesis
 warrant: interpretive
@@ -84,7 +84,7 @@ complements:
 - CLAIM-199
 - CLAIM-212
 - CLAIM-259
-- CLAIM-tmpqmsav
+- CLAIM-488
 objected_by:
 - CLAIM-218
 - CLAIM-225
@@ -92,7 +92,7 @@ objected_by:
 - CLAIM-258
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
-<!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; quoted as the manuscript's steps, which moved to CLAIM-tmpqmsav -->
+<!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; quoted as the manuscript's steps, which moved to CLAIM-488 -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
 
 # CLAIM-050: For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions
@@ -153,6 +153,6 @@ condition already conceded, and promoted it ([ADR-057](../decisions.d/ADR-057.md
 What the claim uses of Blackwell is the definitions and the easy
 direction, held in [THEORY-1096](../theory.d/THEORY-1096.md) with the proof written out. The steps that
 rested on unread works, deficiency for the approximate case and the
-Wyner-Ziv form of side information, are [CLAIM-tmpqmsav](CLAIM-tmpqmsav.md), Proposed. The
+Wyner-Ziv form of side information, are [CLAIM-488](CLAIM-488.md), Proposed. The
 second clause of defeated_if stays as a test; it does not lean on
 Torgersen's results.

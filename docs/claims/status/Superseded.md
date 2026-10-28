@@ -6,7 +6,7 @@
 
 **Replaced** — a later account covers the same ground better, and this one names it.
 
-23 of 485 CLAIM documents. Back to the [full index](../README.md).
+23 of 488 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

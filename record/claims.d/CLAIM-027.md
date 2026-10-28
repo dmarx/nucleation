@@ -29,7 +29,7 @@ history:
     to CLAIM-021: the relations decide efficacy whatever mechanisms
     realize them, and the claim is not that those mechanisms are new.
     The explanatory gain the paper stakes on the account is now
-    CLAIM-tmpnvpfe, and CLAIM-024 objects to that. Promoted, the
+    CLAIM-487, and CLAIM-024 objects to that. Promoted, the
     owner ruling on the PR of this review.
 role: thesis
 warrant: interpretive
@@ -66,7 +66,7 @@ summary: >-
   The paper's central thesis, Active since the status review of
   2026-10-28. The audit called it the strongest original contribution.
   The comparison with planning, executive control and institutional
-  decision procedures it owed is now owed by [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), the gain
+  decision procedures it owed is now owed by [CLAIM-487](CLAIM-487.md), the gain
   claim, which stays Proposed.
 supersedes:
 - CLAIM-012
@@ -84,7 +84,7 @@ complements:
 ---
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->
-<!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-tmpnvpfe — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-487 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-159 — Proposed; the partial reply to CLAIM-024 the status review of 2026-10-27 names, open -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; answered on 2026-10-27, cited as the history of this claim's objections -->
@@ -189,7 +189,7 @@ objections, one is answered and one still holds it back:
 
 The status review of this date narrowed the title to state the concession
 [CLAIM-021](CLAIM-021.md) already made ("whatever mechanisms realize them"), and moved the
-explanatory-gain claim to [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), which [CLAIM-024](CLAIM-024.md) now objects to.
+explanatory-gain claim to [CLAIM-487](CLAIM-487.md), which [CLAIM-024](CLAIM-024.md) now objects to.
 Its premises, [CLAIM-047](CLAIM-047.md) and [CLAIM-080](CLAIM-080.md), are Active, and no live objection
 remains.
 
