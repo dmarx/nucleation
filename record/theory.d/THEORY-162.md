@@ -36,10 +36,9 @@ summary: >-
   the dynamic view: meaning as context-change potential. It does not
   say that truth conditions are irrelevant, since each framework
   recovers them, or that the three formalisms agree with each other.
-supports:
-- CLAIM-363
 corroborates:
 - CLAIM-061
+- CLAIM-363
 ---
 <!-- inactive-ok-file: LIT-811 — Unavailable, no lawful full text; Stalnaker's "Assertion", named as the common origin -->
 

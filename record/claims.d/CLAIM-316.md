@@ -30,7 +30,7 @@ summary: >-
   interpretive. The microbiome part, which the reviews support, stays in
   [CLAIM-166](CLAIM-166.md).
 ---
-<!-- inactive-ok-file: CLAIM-027 CLAIM-159 — Proposed; the will-line claims that give non-constancy its home, open -->
+<!-- inactive-ok-file: CLAIM-159 — Proposed; the will-line claims that give non-constancy its home, open -->
 
 # CLAIM-316: A person's drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime
 

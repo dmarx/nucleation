@@ -30,7 +30,7 @@ summary: >-
   role across realizers, not a mechanism (Sections 3.7, 7.1).
 ---
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- inactive-ok-file: CLAIM-024 CLAIM-027 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-024 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-021: The mechanisms composing a will-organization are not novel
 

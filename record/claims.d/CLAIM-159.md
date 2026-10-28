@@ -44,7 +44,7 @@ bears_on:
 ---
 <!-- ref::uses-file: TERM-048 — the claim places will-organization as the governance that makes a willed agent, and its third account is that kind -->
 <!-- inactive-ok-file: CLAIM-024 — Proposed; the objection this claim partly answers, open -->
-<!-- inactive-ok-file: THEORY-067 THEORY-070 CLAIM-027 — Proposed; the three accounts this claim places, each with its own standing -->
+<!-- inactive-ok-file: THEORY-067 THEORY-070 — Proposed; the three accounts this claim places, each with its own standing -->
 
 # CLAIM-159: The record's rival accounts of will are claims about drive profiles in different cells: Ainslie's interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes
 

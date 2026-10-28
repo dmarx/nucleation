@@ -53,7 +53,7 @@ supports:
 - CLAIM-446
 - CLAIM-442
 ---
-<!-- inactive-ok-file: THEORY-055 THEORY-056 CLAIM-027 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-055 THEORY-056 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-484 — Proposed; this claim's former second half, split off 2026-10-27 -->
 
 # CLAIM-283: The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities: a motive can claim control without receiving it, and be granted control it does not claim

@@ -1,6 +1,6 @@
 ---
 number: 27
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp8swu5
 title: 'Which of an agent''s available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them'
@@ -29,7 +29,8 @@ history:
     to CLAIM-021: the relations decide efficacy whatever mechanisms
     realize them, and the claim is not that those mechanisms are new.
     The explanatory gain the paper stakes on the account is now
-    CLAIM-tmpnvpfe, and CLAIM-024 objects to that. Kept Proposed.
+    CLAIM-tmpnvpfe, and CLAIM-024 objects to that. Promoted, the
+    owner ruling on the PR of this review.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,11 +63,11 @@ illustrated_by:
 - CASE-023
 - CASE-135
 summary: >-
-  The paper's central thesis. Proposed, not Active: the audit called it
-  the strongest original contribution. The comparison with planning,
-  executive control and institutional decision procedures it owed is now
-  owed by [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), the gain claim. It is the main claim of the work while not yet believed
-  outright — credence and inclusion disagree, as they may.
+  The paper's central thesis, Active since the status review of
+  2026-10-28. The audit called it the strongest original contribution.
+  The comparison with planning, executive control and institutional
+  decision procedures it owed is now owed by CLAIM-tmpnvpfe, the gain
+  claim, which stays Proposed.
 supersedes:
 - CLAIM-012
 supports:
@@ -184,7 +185,7 @@ objections, one is answered and one still holds it back:
   planning theory and with institutional theory is still not made, and that
   is the missing result.
 
-## Note of 2026-10-28: narrowed; what holds it back
+## Note of 2026-10-28: narrowed and promoted
 
 The status review of this date narrowed the title to state the concession
 [CLAIM-021](CLAIM-021.md) already made ("whatever mechanisms realize them"), and moved the
@@ -192,10 +193,17 @@ explanatory-gain claim to [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), which [CLAIM-024]
 Its premises, [CLAIM-047](CLAIM-047.md) and [CLAIM-080](CLAIM-080.md), are Active, and no live objection
 remains.
 
-It is kept Proposed because both lines that argue for it are Proposed
-inferences, and its defeater is the test neither has run. [ARG-005](../arguments.d/ARG-005.md) covers
+It was first kept Proposed because both lines that argue for it are
+Proposed inferences, and its defeater is the test neither has run. [ARG-005](../arguments.d/ARG-005.md) covers
 precedence and accessibility only. [ARG-009](../arguments.d/ARG-009.md) carries jurisdiction and
 suspension alone, holds the agent's attitudes fixed by stipulation in a
 fictional case, and leaves its own critical question unanswered: "Does
 changing R change anything else?" That is this claim's defeated_if,
-"holding the competing regimes fixed". Promotion is put to the owner.
+"holding the competing regimes fixed".
+
+The owner promoted it on the same review (ADR-057's fourth condition): its
+premises are Active, no live objection stands, and nothing in the record
+meets its defeated_if. The two arguments stay Proposed. Their unanswered
+critical questions are what would demote this claim, so an intervention
+that holds the regimes fixed and changes R with nothing else changing is
+the test the record most owes it.

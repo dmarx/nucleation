@@ -38,7 +38,7 @@ reported_in:
 - LIT-1374
 - NOTE-1073
 ---
-<!-- inactive-ok-file: CLAIM-027 CLAIM-422 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-422 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-135: The Brookhollow Apartments fire, Wichita, 2023: a mayday after a stair roof collapses on two companies opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome
 

@@ -24,7 +24,6 @@ summary: >-
   agent-indexing ([CLAIM-080](CLAIM-080.md), [CLAIM-116](CLAIM-116.md)); one code is what makes
   the recurrences one objection.
 ---
-<!-- inactive-ok-file: CLAIM-027 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-012 CLAIM-062 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-010: On this account every control system has a will

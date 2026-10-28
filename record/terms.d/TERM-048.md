@@ -22,7 +22,7 @@ used_by:
 - CLAIM-170
 - CLAIM-174
 ---
-<!-- inactive-ok-file: CLAIM-027 CLAIM-155 — Proposed; the will paper's thesis listing the governed relations, and the tiers claim, open -->
+<!-- inactive-ok-file: CLAIM-155 — Proposed; the will paper's thesis listing the governed relations, and the tiers claim, open -->
 
 # TERM-048: willed agent
 
