@@ -1,10 +1,12 @@
 ---
 number: 427
-status: Proposed
+status: Superseded
+superseded_by:
+- ARG-tmpgr3fb
 formerly:
 - CLAIM-tmpcp1lb
 title: 'Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework''s defeater, and no grade counts if success is defined in the framework''s own terms'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-26'
@@ -40,6 +42,14 @@ history:
     Review" (CASE-166), which the lab does not hold; its router
     ties and it meets neither of the first two grades as reported. The
     claim is unchanged.
+- version: 5
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmpgr3fb under ADR-061: the claim is wholly about what
+    the evidence for the framework bears on, so it is the argument from
+    CLAIM-414 and the lab's cases to CLAIM-417. Its work and its defeat
+    condition are carried into the argument's body. The text below is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -76,7 +86,8 @@ summary: >-
 illustrated_by:
 - CASE-166
 ---
-
+<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
+<!-- inactive-ok-file: ARG-tmpgr3fb CLAIM-417 — Proposed; the argument this claim moved to and its conclusion, open -->
 # CLAIM-427: Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms
 
 ## The claim
@@ -268,3 +279,13 @@ is fast authorization. Whether the router tie is an identity, as v2.7's
 and v2.9's were (the note above), is not said. dmarx/PerspectiveLab holds
 no v2.10 or v2.11 (its latest import is c54617e, v2.9), so none of it is
 checked. The third grade is still unmet. The claim is unchanged.
+
+## Note of 2026-10-28: moved to ARG-tmpgr3fb
+
+This claim is about evidential bearing: which findings would support
+CLAIM-417 against its defeater. Under ADR-061 that is an argument, and it
+is now ARG-tmpgr3fb, from CLAIM-414, CASE-161, CASE-163, CASE-164 and
+CASE-166 to CLAIM-417, form evidence, Proposed. The three grades answer
+the form's critical questions there, and the argument's body carries this
+claim's work and its defeat condition, which the argument scheme has no
+field for.
