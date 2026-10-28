@@ -54,6 +54,7 @@ supports:
 - CLAIM-169
 - CLAIM-159
 - CLAIM-198
+corroborates:
 - CLAIM-344
 ---
 <!-- inactive-ok-file: THEORY-076 — Proposed; the rival account, declared -->
@@ -203,3 +204,15 @@ blindness to lapses, and rules that favour countable goals" and does not
 name over-control. The link between the will line's account of resolve and
 the clinical account of overcontrol is therefore in the record's note, not
 in this reading, and no entry tests it.
+
+## Note of 2026-10-28: status review
+
+Kept Proposed. Both sources are read in full (NOTE-443, NOTE-452), so
+reading is not the blocker. The blocker is a missing result, which is what
+`promote_when` asks for: no study the record holds varies only whether a
+single choice is perceived as a precedent, compares a precedent lapse with
+an equal forced or excepted lapse, or orders lapse districts after a first
+failure. The précis concedes the mechanism is "hard to study directly by
+controlled experiment". LIT-1389 (Bénabou and Tirole), unfetched, models
+personal rules and would not meet the condition by itself. CLAIM-344 now
+cites this reading as corroboration, not as a ground.
