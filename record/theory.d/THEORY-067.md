@@ -205,7 +205,7 @@ name over-control. The link between the will line's account of resolve and
 the clinical account of overcontrol is therefore in the record's note, not
 in this reading, and no entry tests it.
 
-## Note of 2026-10-28: status review
+## Note of 2026-10-28: what holds it back
 
 Kept Proposed. Both sources are read in full ([NOTE-443](../notes.d/NOTE-443.md), [NOTE-452](../notes.d/NOTE-452.md)), so
 reading is not the blocker. The blocker is a missing result, which is what
