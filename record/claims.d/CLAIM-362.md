@@ -43,8 +43,6 @@ summary: >-
   it. The authenticity line was set aside
   on 2026-10-05; filing this does not reopen it, and whether it reopens is
   the owner's call. The manipulation objection stands ([CLAIM-364](CLAIM-364.md)).
-objected_by:
-- CLAIM-364
 ---
 <!-- inactive-ok-file: CLAIM-016 TERM-006 QUESTION-011 — Deferred; the set-aside authenticity line this claim is a candidate repair for, cited to say what it would repair -->
 <!-- inactive-ok-file: CLAIM-261 THEORY-040 THEORY-054 THEORY-077 QUESTION-071 CLAIM-358 CLAIM-364 — Proposed; the claims and readings set beside this one, open -->

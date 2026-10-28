@@ -43,8 +43,6 @@ summary: >-
   best or the normal way to act as one.
 illustrated_by:
 - CASE-051
-objected_by:
-- CLAIM-163
 supports:
 - CLAIM-441
 ---

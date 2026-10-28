@@ -27,7 +27,6 @@ summary: >-
   annotators; the blinding to condition is not stated.
 objected_by:
 - CLAIM-227
-- CLAIM-229
 illustrated_by:
 - CASE-030
 - CASE-032

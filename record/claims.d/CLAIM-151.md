@@ -90,7 +90,6 @@ supports:
 objected_by:
 - CLAIM-221
 - CLAIM-224
-- CLAIM-229
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the general frame this claim is a domain case of, cited as open -->
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->

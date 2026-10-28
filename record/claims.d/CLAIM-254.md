@@ -33,8 +33,6 @@ summary: >-
   system, while the line's observables are facts of utterances in use.
   The objection is open. It does not say relational identity is false, only
   that Saussure, read correctly, does not support its transport.
-objected_by:
-- CLAIM-242
 ---
 <!-- inactive-ok-file: CLAIM-242 — Proposed; the record's reply to this objection, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-082 — Proposed; open, and cited as the claim this objection is to -->

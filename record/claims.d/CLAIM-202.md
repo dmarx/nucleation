@@ -40,8 +40,6 @@ summary: >-
   the functionalist rivals are wrong.
 illustrated_by:
 - CASE-055
-objected_by:
-- CLAIM-205
 bears_on:
 - QUESTION-002
 ---

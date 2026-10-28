@@ -28,9 +28,6 @@ grounds:
 summary: >-
   The manuscript's structuralist premise (§2), citing Saussure and Lévi-
   Strauss. [CLAIM-072](CLAIM-072.md) corrects how it states Saussure.
-objected_by:
-- CLAIM-072
-- CLAIM-254
 supports:
 - CLAIM-115
 - CLAIM-036

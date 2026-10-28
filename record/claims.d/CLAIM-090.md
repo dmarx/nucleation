@@ -36,8 +36,6 @@ summary: >-
   The manuscript's §8, citing Bartlett, Griffiths and Kalish, and Kirby,
   Cornish and Smith together as showing the same thing. [CLAIM-066](CLAIM-066.md)
   separates what each shows.
-objected_by:
-- CLAIM-066
 supports:
 - CLAIM-068
 illustrated_by:
