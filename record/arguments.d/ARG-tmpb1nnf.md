@@ -23,9 +23,9 @@ rests_on:
 concludes:
 - CLAIM-486
 summary: >-
-  CLAIM-053 credited A24's compensation hypothesis with the mechanism for
+  [CLAIM-053](../claims.d/CLAIM-053.md) credited A24's compensation hypothesis with the mechanism for
   the necessity half: a rendering can keep the act while changing the
-  proposition. Rejected on CLAIM-229's reply. The hypothesis says that
+  proposition. Rejected on [CLAIM-229](../claims.d/CLAIM-229.md)'s reply. The hypothesis says that
   lexical infidelity can be required for pragmatic fidelity, which is
   about words, and a change of wording can keep the proposition.
 ---
@@ -36,34 +36,34 @@ summary: >-
 
 ## The inference
 
-CLAIM-053: the manuscript argues only insufficiency, and the missing half
+[CLAIM-053](../claims.d/CLAIM-053.md): the manuscript argues only insufficiency, and the missing half
 is in the exchange. A12: "you can alter many of the propositions while
 preserving the speaker's attitude, social position, and communicative
-intention". "A24's compensation hypothesis (CLAIM-091) gives the
+intention". "A24's compensation hypothesis ([CLAIM-091](../claims.d/CLAIM-091.md)) gives the
 mechanism." If a translation compensates for changed social coordinates
 with changed linguistic ones, the act is kept by changing what is said, so
-keeping the proposition is not necessary (CLAIM-486).
+keeping the proposition is not necessary ([CLAIM-486](../claims.d/CLAIM-486.md)).
 
 ## Critical questions
 
 - **Is the mechanism operative here?** No. This is the question that
-  fails. CLAIM-229: "CLAIM-091's thesis is that 'lexical infidelity can be
+  fails. [CLAIM-229](../claims.d/CLAIM-229.md): "[CLAIM-091](../claims.d/CLAIM-091.md)'s thesis is that 'lexical infidelity can be
   required for pragmatic fidelity', which is about words. A change of
-  wording can keep the proposition, and CLAIM-091 does not say its
-  compensations change it. CLAIM-053 itself notes that the Abstract's
+  wording can keep the proposition, and [CLAIM-091](../claims.d/CLAIM-091.md) does not say its
+  compensations change it. [CLAIM-053](../claims.d/CLAIM-053.md) itself notes that the Abstract's
   'change almost every word' 'is about words, not propositions'; the same
-  holds of CLAIM-091." In CLAIM-229's words, CLAIM-053 "credits the
-  exchange with more than CLAIM-091 supplies".
+  holds of [CLAIM-091](../claims.d/CLAIM-091.md)." In [CLAIM-229](../claims.d/CLAIM-229.md)'s words, [CLAIM-053](../claims.d/CLAIM-053.md) "credits the
+  exchange with more than [CLAIM-091](../claims.d/CLAIM-091.md) supplies".
 - **Could a confounder produce the same outcome?** The documented case for
-  the mechanism, CASE-066, shows the same ambiguity: Garnett's "Stiva" and
+  the mechanism, [CASE-066](../cases.d/CASE-066.md), shows the same ambiguity: Garnett's "Stiva" and
   the Maudes' "our children" add words to carry the relation. On the
   translator's judgement Garnett's narrator sentence changes its
   proposition, but that is "a producer's judgement of A without P, not a
-  measured one" (CLAIM-229's note of 2026-10-10).
+  measured one" ([CLAIM-229](../claims.d/CLAIM-229.md)'s note of 2026-10-10).
 
-Rejected as an inference to CLAIM-486. A12's sentence stays as stated in
-the exchange, and CASE-056 is CLAIM-486's own ground. The other route
-CLAIM-053 and CLAIM-229 judged, from the manuscript's renderings, is
-ARG-tmpcdbcg.
+Rejected as an inference to [CLAIM-486](../claims.d/CLAIM-486.md). A12's sentence stays as stated in
+the exchange, and [CASE-056](../cases.d/CASE-056.md) is [CLAIM-486](../claims.d/CLAIM-486.md)'s own ground. The other route
+[CLAIM-053](../claims.d/CLAIM-053.md) and [CLAIM-229](../claims.d/CLAIM-229.md) judged, from the manuscript's renderings, is
+[ARG-tmpcdbcg](ARG-tmpcdbcg.md).
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-053 (version 1) and CLAIM-229 (version 2).
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-053](../claims.d/CLAIM-053.md) (version 1) and [CLAIM-229](../claims.d/CLAIM-229.md) (version 2).

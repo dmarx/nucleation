@@ -151,11 +151,11 @@ generating tree exactly in eight, and in one of the others a wrong tree
 had the higher posterior. It shows the inference works under matched
 assumptions, and the paper offers it as no more. The claim is unchanged.
 
-## Note of 2026-10-28: moved to ARG-tmp0n7cn
+## Note of 2026-10-28: moved to [ARG-tmp0n7cn](../arguments.d/ARG-tmp0n7cn.md)
 
-Under ADR-061, "a win on this test would not support the thesis" is the
+Under [ADR-061](../decisions.d/ADR-061.md), "a win on this test would not support the thesis" is the
 argument from the CASE that describes the design to the thesis. This
-claim is now ARG-tmp0n7cn, from CASE-040 to CLAIM-129, form evidence,
+claim is now [ARG-tmp0n7cn](../arguments.d/ARG-tmp0n7cn.md), from [CASE-040](../cases.d/CASE-040.md) to [CLAIM-129](CLAIM-129.md), form evidence,
 Rejected, and the failing critical question is "would the evidence be
 expected if the hypothesis were false?". Its note of 2026-10-26 is
 carried into that argument's body.

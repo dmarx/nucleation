@@ -123,6 +123,6 @@ paragraph overreaches. The objection stays open, because whether that
 use-level counterpart is the structuralist premise restated or a
 replacement for it is arguable.
 
-## Note of 2026-10-28: moved to ARG-tmpt2gwf
+## Note of 2026-10-28: moved to [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md)
 
-This objection is to an inference, from Saussure's value through CLAIM-082 to transport, which is CLAIM-115's subject. It moved to ARG-tmpt2gwf as its version 2; version 1 is the last paragraph of CLAIM-072 it objected to, and CLAIM-242's reply is in that argument's body. Its edges to CLAIM-072 and CLAIM-082 are dropped, since the argument now carries both. The text above is unchanged.
+This objection is to an inference, from Saussure's value through [CLAIM-082](CLAIM-082.md) to transport, which is [CLAIM-115](CLAIM-115.md)'s subject. It moved to [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md) as its version 2; version 1 is the last paragraph of [CLAIM-072](CLAIM-072.md) it objected to, and [CLAIM-242](CLAIM-242.md)'s reply is in that argument's body. Its edges to [CLAIM-072](CLAIM-072.md) and [CLAIM-082](CLAIM-082.md) are dropped, since the argument now carries both. The text above is unchanged.

@@ -22,7 +22,7 @@ summary: >-
   Griffiths and Kalish's convergence to the prior holds only for sampling
   learners. Proposed: the stable endpoint far from the ancestor survives
   for sampling learners, and whether people learn that way is
-  QUESTION-137.
+  [QUESTION-137](../questions.d/QUESTION-137.md).
 ---
 <!-- inactive-ok-file: CLAIM-066 — Superseded; the claim this argument was moved from -->
 <!-- inactive-ok-file: CLAIM-090 — Proposed; the conclusion, cited as open -->
@@ -33,19 +33,19 @@ summary: >-
 
 ## The inference
 
-§8, quoted in CLAIM-090: "Bartlett's serial reproduction experiments and
+§8, quoted in [CLAIM-090](../claims.d/CLAIM-090.md): "Bartlett's serial reproduction experiments and
 Bayesian iterated-learning models both show that transmission is
 reconstructive and filtered by inductive biases rather than neutral
-copying." The record reads Griffiths and Kalish in THEORY-155 (NOTE-599)
-and Kirby, Cornish and Smith in LIT-771 (NOTE-596, Skimmed). Bartlett is
-unread (LIT-768) and is no premise here.
+copying." The record reads Griffiths and Kalish in [THEORY-155](../theory.d/THEORY-155.md) ([NOTE-599](../notes.d/NOTE-599.md))
+and Kirby, Cornish and Smith in [LIT-771](../literature.d/LIT-771.md) ([NOTE-596](../notes.d/NOTE-596.md), Skimmed). Bartlett is
+unread ([LIT-768](../literature.d/LIT-768.md)) and is no premise here.
 
 ## Critical questions
 
 - **Does the work say this, read in context?** In part. Griffiths and
   Kalish prove convergence to the shared prior for learners who sample from
-  the posterior (THEORY-155). Kirby et al. measured no prior and use no
-  Bayesian learners. CLAIM-066 (2026-10-09): "Without the homonym filter
+  the posterior ([THEORY-155](../theory.d/THEORY-155.md)). Kirby et al. measured no prior and use no
+  Bayesian learners. [CLAIM-066](../claims.d/CLAIM-066.md) (2026-10-09): "Without the homonym filter
   (Experiment 1) the languages collapsed to two to five words that
   underspecified meaning; compositional structure appeared only when the
   experimenter removed homonyms before each generation (Experiment 2),
@@ -54,31 +54,31 @@ unread (LIT-768) and is no premise here.
 - **Is it said within the scope the claim needs?** Only for sampling
   learners. "Learners who take the most probable language depend also on
   how much data passes between generations, and can amplify weak biases"
-  (CLAIM-066, from THEORY-155's MAP case).
+  ([CLAIM-066](../claims.d/CLAIM-066.md), from [THEORY-155](../theory.d/THEORY-155.md)'s MAP case).
 - **Does the claim lean on the reading for more than the reading holds?**
-  Yes. This is the question that fails. CLAIM-066: "The manuscript cites
+  Yes. This is the question that fails. [CLAIM-066](../claims.d/CLAIM-066.md): "The manuscript cites
   them as showing one thing; they show different things." Kirby et al.
   show structure emerging under transmission with an experimenter's
   filter, not filtering by measured inductive biases. Which learner model
   applies decides "whether the endpoint reflects the learners or the
   transmission filter".
 
-Proposed, not Rejected. CLAIM-066 "does not undercut the manuscript's §8
+Proposed, not Rejected. [CLAIM-066](../claims.d/CLAIM-066.md) "does not undercut the manuscript's §8
 conclusion that a stable endpoint can be far from the ancestor: for
 sampling learners the stationary distribution is the prior, independent of
 the starting language." Whether human chains reach the learners'
-independently measured prior is QUESTION-137. THEORY-155 already holds
-every point CLAIM-066 made about the two sources, including the homonym
+independently measured prior is [QUESTION-137](../questions.d/QUESTION-137.md). [THEORY-155](../theory.d/THEORY-155.md) already holds
+every point [CLAIM-066](../claims.d/CLAIM-066.md) made about the two sources, including the homonym
 filter under "It does not cover selection" and the MAP case, so the
 reading gains nothing.
 
 ## A chain without a filter
 
-Kalish, Griffiths and Lewandowsky (LIT-820, THEORY-489) supply the
+Kalish, Griffiths and Lewandowsky ([LIT-820](../literature.d/LIT-820.md), [THEORY-489](../theory.d/THEORY-489.md)) supply the
 unfiltered chain with a bias stated in advance that Kirby et al. lack, and
-CLAIM-090 already grounds on them. They still cannot tell sampling
-learners from MAP learners. For evaluative stance, CASE-068's chain studies
-bear on CLAIM-090's measured-prior condition, with a prior reported after
+[CLAIM-090](../claims.d/CLAIM-090.md) already grounds on them. They still cannot tell sampling
+learners from MAP learners. For evaluative stance, [CASE-068](../cases.d/CASE-068.md)'s chain studies
+bear on [CLAIM-090](../claims.d/CLAIM-090.md)'s measured-prior condition, with a prior reported after
 the experiment and measured indirectly.
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-066.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-066](../claims.d/CLAIM-066.md).

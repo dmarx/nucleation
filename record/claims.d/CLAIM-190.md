@@ -98,10 +98,10 @@ the formal-apparatus line, and this claim's `rests_on` now names
 are where the record first argued the point. The change is that setting
 pragmatic-transport aside no longer takes this premise with it.
 
-## Note of 2026-10-28: moved to ARG-tmplw65i
+## Note of 2026-10-28: moved to [ARG-tmplw65i](../arguments.d/ARG-tmplw65i.md)
 
-Under ADR-061 a claim that a measure cannot show a thesis is the argument
+Under [ADR-061](../decisions.d/ADR-061.md) a claim that a measure cannot show a thesis is the argument
 from the measure to the thesis, with the failing critical question in its
-body. This claim is now ARG-tmplw65i, from CASE-tmp4hpm7 to CLAIM-185 and
-CLAIM-186, form evidence, Proposed, and its title is the answer there to
+body. This claim is now [ARG-tmplw65i](../arguments.d/ARG-tmplw65i.md), from [CASE-tmp4hpm7](../cases.d/CASE-tmp4hpm7.md) to [CLAIM-185](CLAIM-185.md) and
+[CLAIM-186](CLAIM-186.md), form evidence, Proposed, and its title is the answer there to
 "Does the measure measure what it is said to?".

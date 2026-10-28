@@ -143,6 +143,6 @@ holds neither study.
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) re-grounded the claim in the works it reports measurements from: Propp ([LIT-828](../literature.d/LIT-828.md)) in place of [THEORY-167](../theory.d/THEORY-167.md), and Farrell et al. ([LIT-848](../literature.d/LIT-848.md)) in place of [THEORY-173](../theory.d/THEORY-173.md). It already did this for Raviv et al. ([LIT-825](../literature.d/LIT-825.md)). The claim uses what each work measured, not its thesis.
 
-## Note of 2026-10-28: moved to ARG-tmphr0a1
+## Note of 2026-10-28: moved to [ARG-tmphr0a1](../arguments.d/ARG-tmphr0a1.md)
 
-This claim says the record's iterated-learning readings do not measure stance or footing along a chain, which is a verdict on support. It moved to ARG-tmphr0a1, from those readings to CLAIM-068, form evidence, Rejected, with the note of 2026-10-10 on CASE-068 in its body. The text above is unchanged.
+This claim says the record's iterated-learning readings do not measure stance or footing along a chain, which is a verdict on support. It moved to [ARG-tmphr0a1](../arguments.d/ARG-tmphr0a1.md), from those readings to [CLAIM-068](CLAIM-068.md), form evidence, Rejected, with the note of 2026-10-10 on [CASE-068](../cases.d/CASE-068.md) in its body. The text above is unchanged.

@@ -13,11 +13,11 @@ grounds:
 concludes:
 - CLAIM-151
 summary: >-
-  CASE-021's factorial study varies the attributed speaker, and a change in
+  [CASE-021](../cases.d/CASE-021.md)'s factorial study varies the attributed speaker, and a change in
   act classifications under it would be read as evidence that an act is
   partly constituted by its relation to the speaker. Telling readers who
   spoke is a do(I), not a do(S), so such an effect is evidence about
-  interpretation under instruction. CLAIM-130 states the distinction and
+  interpretation under instruction. [CLAIM-130](../claims.d/CLAIM-130.md) states the distinction and
   undercuts the inference.
 ---
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
@@ -27,10 +27,10 @@ summary: >-
 
 ## The inference
 
-CASE-021 is the proposed factorial study of wording, attributed speaker and
+[CASE-021](../cases.d/CASE-021.md) is the proposed factorial study of wording, attributed speaker and
 judgement order. Its speaker factor manipulates "attributed speaker
 identity". If act classifications change with it, the act would seem to
-depend on its relation to the speaker. That is CLAIM-151: which act an
+depend on its relation to the speaker. That is [CLAIM-151](../claims.d/CLAIM-151.md): which act an
 utterance performs "is partly constituted by its relations to participant
 roles, norms and expected uptake". A214 §9 proposes the same kind of
 manipulation for "speaker authority, interpersonal history, or the norms
@@ -51,24 +51,24 @@ situation", which "may change the performed act".
   that interpretation responds to what the interpreter is told. Telling
   is do(I = a); changing the situation is do(S = s). In Pearl's calculus
   the two act on different variables, and nothing makes their effects on
-  the classification equal (CLAIM-130).
+  the classification equal ([CLAIM-130](../claims.d/CLAIM-130.md)).
 - **Does the measure measure what it is said to?** It measures
-  interpretation, not the act. CLAIM-130: "They measure interpretation,
-  which is what CLAIM-115's thesis is about." In a vignette or rating
+  interpretation, not the act. [CLAIM-130](../claims.d/CLAIM-130.md): "They measure interpretation,
+  which is what [CLAIM-115](../claims.d/CLAIM-115.md)'s thesis is about." In a vignette or rating
   study "every manipulation is a change in what the reader is told".
 
 ## Verdict
 
-Rejected. CLAIM-130 undercuts it: the difference between do(I) and do(S)
+Rejected. [CLAIM-130](../claims.d/CLAIM-130.md) undercuts it: the difference between do(I) and do(S)
 is a claim about the subject matter, and it defeats this inference while
-leaving CASE-021 and CLAIM-151 standing. The repair is a different
+leaving [CASE-021](../cases.d/CASE-021.md) and [CLAIM-151](../claims.d/CLAIM-151.md) standing. The repair is a different
 premise, not a better reading of this one. A203 §16: "A stronger test
 would manipulate actual speaker authority, conversational commitments, or
 the circumstances under which the utterance is performed." That needs an
 interactive or field design, or an interpreter that is a model whose
 context is the situation itself.
 
-CLAIM-130 names no single study as its target. CASE-021 is the one it
+[CLAIM-130](../claims.d/CLAIM-130.md) names no single study as its target. [CASE-021](../cases.d/CASE-021.md) is the one it
 cites, so the argument is stated from it.
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-130.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-130](../claims.d/CLAIM-130.md).

@@ -192,13 +192,13 @@ general converse, which stays Proposed, is not used. Quotations of
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed `rests_on: CLAIM-087`. The dilemma holds whatever [CLAIM-087](CLAIM-087.md)'s truth ("It does not say [CLAIM-087](CLAIM-087.md) is false"), and [CLAIM-087](CLAIM-087.md)'s garbling bound uses this claim's result, so the dependence runs the other way and [CLAIM-087](CLAIM-087.md) now rests on this claim. `rests_on: CLAIM-081` is now [CLAIM-270](CLAIM-270.md) (Active, demonstrated): "A state can become more conventional, and easier to read, while carrying less information about its origin", the point this claim uses.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The support verdict in this claim sat in "What it does not say": "the line
 uses that standard for its formal ground, and a receiver's standard for
-its thesis and its tests." It is now ARG-tmpa4q9l, from CLAIM-050 to
-CLAIM-115, Proposed, since CLAIM-199's reconciliation narrows the
+its thesis and its tests." It is now [ARG-tmpa4q9l](../arguments.d/ARG-tmpa4q9l.md), from [CLAIM-050](CLAIM-050.md) to
+[CLAIM-115](CLAIM-115.md), Proposed, since [CLAIM-199](CLAIM-199.md)'s reconciliation narrows the
 inference without defeating it. The title is unchanged: Blackwell's
-theorem and the shape of CLAIM-050's defeat condition are about the
+theorem and the shape of [CLAIM-050](CLAIM-050.md)'s defeat condition are about the
 subject matter. This claim undercuts the argument, and its objection to
-CLAIM-050 stays for the defeat-condition point.
+[CLAIM-050](CLAIM-050.md) stays for the defeat-condition point.

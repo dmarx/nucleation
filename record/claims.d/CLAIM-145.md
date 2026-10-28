@@ -97,12 +97,12 @@ anywhere in the exchange.
   precursors, and that labels written to fit their examples cannot be the
   test. It is [QUESTION-005](../questions.d/QUESTION-005.md) applied to one corpus.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The claim had "Two halves". The circularity half is a verdict on support:
 a measure that predicts trope labels predicts editorial agreement, so the
-labels cannot validate CLAIM-147. It is now ARG-tmp7u4e1, from CASE-038 to
-CLAIM-147, Rejected, with CLAIM-011's point and A178's control in its
-body. This claim keeps the prior-art half, which says CLAIM-147's account
-is not new, not that it is false. So it no longer objects to CLAIM-147,
+labels cannot validate [CLAIM-147](CLAIM-147.md). It is now [ARG-tmp7u4e1](../arguments.d/ARG-tmp7u4e1.md), from [CASE-038](../cases.d/CASE-038.md) to
+[CLAIM-147](CLAIM-147.md), Rejected, with [CLAIM-011](CLAIM-011.md)'s point and A178's control in its
+body. This claim keeps the prior-art half, which says [CLAIM-147](CLAIM-147.md)'s account
+is not new, not that it is false. So it no longer objects to [CLAIM-147](CLAIM-147.md),
 and it does not undercut the argument.

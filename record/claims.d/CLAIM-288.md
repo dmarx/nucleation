@@ -141,12 +141,12 @@ The exchange of 2026-10-17 met this objection three times without citing it.
   revision of the processes that determine what remains effective". Both are
   this claim's distinction, used as a design control.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The claim held two things. That the norms of a population of fixed-objective
 maximizers are the modeller's is about the subject matter, and it stays here;
-CLAIM-356 disputes exactly that clause. That such a simulation "cannot show
+[CLAIM-356](CLAIM-356.md) disputes exactly that clause. That such a simulation "cannot show
 self-constitution" is a verdict on the sufficiency tests as evidence for
-CLAIM-284, and it moved to ARG-tmp8gimi, form evidence, Proposed, with
-CASE-081 as its premise. This claim undercuts that argument. The text above
+[CLAIM-284](CLAIM-284.md), and it moved to [ARG-tmp8gimi](../arguments.d/ARG-tmp8gimi.md), form evidence, Proposed, with
+[CASE-081](../cases.d/CASE-081.md) as its premise. This claim undercuts that argument. The text above
 is otherwise unchanged.

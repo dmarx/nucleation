@@ -13,7 +13,7 @@ grounds:
 concludes:
 - CLAIM-129
 summary: >-
-  The planned evidence for the October thesis, CLAIM-129, is CASE-040,
+  The planned evidence for the October thesis, [CLAIM-129](../claims.d/CLAIM-129.md), is [CASE-040](../cases.d/CASE-040.md),
   which crosses topic with act. Rejected for that design as filed: the
   act is fixed by whoever writes the items and the topic-only baseline is
   built to fail on the critical cells, so "a pass shows that the items
@@ -28,10 +28,10 @@ summary: >-
 
 ## The inference
 
-CASE-040 is the design A218 "names as the first experiment to run". It
+[CASE-040](../cases.d/CASE-040.md) is the design A218 "names as the first experiment to run". It
 crosses topic (spending, relationships) with act (teasing, reprimand),
 and holds out critical items that "break the familiar correlation".
-CLAIM-129 is defeated if, on those items, "a topic-only factorization of
+[CLAIM-129](../claims.d/CLAIM-129.md) is defeated if, on those items, "a topic-only factorization of
 lexical co-occurrence recovers the act distinction as well ... as
 factorizations fitted to interpretive-judgement or uptake data do". So a
 pass, with judgement factorizations recovering the act and topic-only NMF
@@ -41,53 +41,53 @@ relations make visible.
 ## Critical questions
 
 - **Would the evidence be expected if the hypothesis were false?** Yes,
-  and this is the question that fails. CASE-040 "makes the act a
+  and this is the question that fails. [CASE-040](../cases.d/CASE-040.md) "makes the act a
   manipulated factor rather than an outcome", and "every cell is an
   example label, not a stimulus". Whoever writes the items decides which
   are teasing and which are reprimand, so a factorization of judges'
   responses that recovers the act "recovers the writer's intent as the
   judges read it. That is close to a manipulation check." And a joking
   item written with admonitory words has, by design, the vocabulary of a
-  reprimand, so topic-only NMF must get it wrong. CLAIM-203: "CLAIM-129's
+  reprimand, so topic-only NMF must get it wrong. [CLAIM-203](../claims.d/CLAIM-203.md): "[CLAIM-129](../claims.d/CLAIM-129.md)'s
   defeat condition can then scarcely be met, and a pass shows that the
   items were built as intended."
 - **Does it tell the hypothesis apart from its rivals?** Not against the
   rival a critic would field. The baseline is "topic-only NMF".
-  CLAIM-139's own defeat condition names "topic-factor, embedding or
-  surface similarity", and A218's Chapter 15, as CLAIM-078 quotes it,
+  [CLAIM-139](../claims.d/CLAIM-139.md)'s own defeat condition names "topic-factor, embedding or
+  surface similarity", and A218's Chapter 15, as [CLAIM-078](../claims.d/CLAIM-078.md) quotes it,
   asks for prediction "beyond standard lexical, embedding, and
   factorization baselines". A supervised text classifier or a language
   model reads wording in context, and is not in the design.
 - **Does the measure measure what it is said to?** The act recovered is
   the item writer's assignment, not a structure that the judgements reveal
-  and the words hide. CASE-040's "What it cannot show" names two other
+  and the words hide. [CASE-040](../cases.d/CASE-040.md)'s "What it cannot show" names two other
   limits, that it has not been run and that its interventions manipulate
-  a described speaker (CLAIM-127, CLAIM-130). It does not name these.
+  a described speaker ([CLAIM-127](../claims.d/CLAIM-127.md), [CLAIM-130](../claims.d/CLAIM-130.md)). It does not name these.
 
-Rejected as an inference from CASE-040 as filed, with constructed items
+Rejected as an inference from [CASE-040](../cases.d/CASE-040.md) as filed, with constructed items
 and a topic-only baseline. The record conceded on 2026-10-10 that for
-CLAIM-129, "a claim of possibility, constructed items are a legitimate
-existence test". CLAIM-129 v2 adds naturally occurring items labelled by
-raters who did not select them, and CLAIM-204 places the strong
+[CLAIM-129](../claims.d/CLAIM-129.md), "a claim of possibility, constructed items are a legitimate
+existence test". [CLAIM-129](../claims.d/CLAIM-129.md) v2 adds naturally occurring items labelled by
+raters who did not select them, and [CLAIM-204](../claims.d/CLAIM-204.md) places the strong
 text-model rival in the central tests. As a first pilot the design still
 shows whether judges and models can be made to separate topic from act at
-all. This argument does not say CLAIM-129 is false. A topic is plausibly
+all. This argument does not say [CLAIM-129](../claims.d/CLAIM-129.md) is false. A topic is plausibly
 not an act.
 
-**What it reaches.** CASE-040 illustrates CLAIM-129 and CLAIM-135, and
-CLAIM-135 is a premise of CLAIM-139's epistemic clause. The same verdict
-would hold for an argument from CASE-040 to CLAIM-135. It is not filed
+**What it reaches.** [CASE-040](../cases.d/CASE-040.md) illustrates [CLAIM-129](../claims.d/CLAIM-129.md) and [CLAIM-135](../claims.d/CLAIM-135.md), and
+[CLAIM-135](../claims.d/CLAIM-135.md) is a premise of [CLAIM-139](../claims.d/CLAIM-139.md)'s epistemic clause. The same verdict
+would hold for an argument from [CASE-040](../cases.d/CASE-040.md) to [CLAIM-135](../claims.d/CLAIM-135.md). It is not filed
 separately.
 
 **The lesson in general form.** It recurred three times in the exchange
 "Experimental Infrastructure Review" (T21 to T23), about latent-structure
-models of an organization's members (QUESTION-276). T22: "If we start
+models of an organization's members ([QUESTION-276](../questions.d/QUESTION-276.md)). T22: "If we start
 generating employees from the IBP and then successfully recover the IBP
 structure, we've mostly demonstrated that inference works under matched
 assumptions." The remedy was to fit the model to a mechanistic simulator
 that does not assume it, and to keep planted-structure recovery as a
-check on inference only (CASE-165). The hLDA paper has the published form
-of that check (THEORY-1010). Recovering a structure from data generated
+check on inference only ([CASE-165](../cases.d/CASE-165.md)). The hLDA paper has the published form
+of that check ([THEORY-1010](../theory.d/THEORY-1010.md)). Recovering a structure from data generated
 under its own prior tests the inference, not the structure.
 
 ## What would answer it
@@ -101,4 +101,4 @@ under its own prior tests the inference, not the structure.
 - A baseline at least as strong as a supervised text classifier or a
   language model, alongside topic-only NMF.
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-203.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-203](../claims.d/CLAIM-203.md).

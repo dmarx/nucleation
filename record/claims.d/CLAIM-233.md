@@ -123,14 +123,14 @@ and of [CLAIM-023](CLAIM-023.md).
   static pragmatic similarity without the transport structure, human-rated
   propositional sameness, or [QUESTION-021](../questions.d/QUESTION-021.md)'s latent act variable.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The old title ended in a verdict on support: "surviving them would not
 tell the thesis from the functional and relevance-theoretic accounts".
-That verdict is now ARG-tmpgw7v8, from the central defeat test
-(CASE-tmpu88go) to CLAIM-115, CLAIM-139, CLAIM-005 and CLAIM-078, form
+That verdict is now [ARG-tmpgw7v8](../arguments.d/ARG-tmpgw7v8.md), from the central defeat test
+([CASE-tmpu88go](../cases.d/CASE-tmpu88go.md)) to [CLAIM-115](CLAIM-115.md), [CLAIM-139](CLAIM-139.md), [CLAIM-005](CLAIM-005.md) and [CLAIM-078](CLAIM-078.md), form
 evidence, Rejected, as its answer to "does it tell the hypothesis apart
 from its rivals?". This claim keeps what the rival accounts predict,
-which is about the subject matter, and undercuts that argument. CLAIM-232
+which is about the subject matter, and undercuts that argument. [CLAIM-232](CLAIM-232.md)
 no longer rests on it; the two complement each other. The text above is
 unchanged.

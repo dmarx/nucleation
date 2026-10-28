@@ -81,11 +81,11 @@ assistant-authored examples as independent LLM samples or the same generative
 model's preferences as an unblinded ground truth" ([CLAIM-028](CLAIM-028.md)). The
 manuscript keeps the remedy, not the rule.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The circularity limb, that generating and judging with one model "would
 primarily characterize the model's own preferences", says what a design
-does not show, so under ADR-061 it is the verdict of ARG-008, recorded in
+does not show, so under [ADR-061](../decisions.d/ADR-061.md) it is the verdict of [ARG-008](../arguments.d/ARG-008.md), recorded in
 that argument's version 2 with the remedy of separate generator and
 evaluator. This claim keeps two points about the subject matter: a
 framing effect in one model is a property of that model under those

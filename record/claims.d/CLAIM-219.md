@@ -194,12 +194,12 @@ and dynamical compatibility. The three-bit chain passes the first two and
 fails the third. [CLAIM-044](CLAIM-044.md)'s note of 2026-10-21 records the same table
 from A10.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The first horn said the headline "has no case but a constructed one": the
-one instance in the record is CASE-037, which is stipulated. That is a
-verdict on support, and it is now ARG-tmpswbhx, from CASE-037 to
-CLAIM-105, Rejected. This claim keeps the dilemma and the 2ε bound, which
+one instance in the record is [CASE-037](../cases.d/CASE-037.md), which is stipulated. That is a
+verdict on support, and it is now [ARG-tmpswbhx](../arguments.d/ARG-tmpswbhx.md), from [CASE-037](../cases.d/CASE-037.md) to
+[CLAIM-105](CLAIM-105.md), Rejected. This claim keeps the dilemma and the 2ε bound, which
 are about the subject matter, and undercuts that argument. Its objection
-to CLAIM-105 stays, because the second horn says the headline is "not
+to [CLAIM-105](CLAIM-105.md) stays, because the second horn says the headline is "not
 distinctive".

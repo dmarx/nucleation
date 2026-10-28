@@ -15,11 +15,11 @@ rests_on:
 concludes:
 - CLAIM-228
 summary: >-
-  The derivation behind CLAIM-228: for one source–target pair a constant
+  The derivation behind [CLAIM-228](../claims.d/CLAIM-228.md): for one source–target pair a constant
   kernel makes the per-item term zero, so one pair does not identify the
-  procedure-level score. It holds for CLAIM-228's version 2 title. As an
+  procedure-level score. It holds for [CLAIM-228](../claims.d/CLAIM-228.md)'s version 2 title. As an
   inference to version 1's title, that observational fidelity "is not
-  defined" for a single rendering, it failed, and CLAIM-200 granted that.
+  defined" for a single rendering, it failed, and [CLAIM-200](../claims.d/CLAIM-200.md) granted that.
 ---
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the conclusion, open on its defeat condition -->
@@ -29,40 +29,40 @@ summary: >-
 
 ## The inference
 
-CLAIM-207: the transports of D_obs act on judgement outcomes, not texts,
+[CLAIM-207](../claims.d/CLAIM-207.md): the transports of D_obs act on judgement outcomes, not texts,
 and for any one source–target pair a constant kernel makes the per-item
-term zero. CLAIM-011: a correspondence must be anchored to independently
-given structure, or intertwining with it is vacuous. CLAIM-381 states
+term zero. [CLAIM-011](../claims.d/CLAIM-011.md): a correspondence must be anchored to independently
+given structure, or intertwining with it is vacuous. [CLAIM-381](../claims.d/CLAIM-381.md) states
 when a constant outcome kernel fits every item of a finite class. So the
 score is a property of a rendering procedure over a class of items, tested
 by a kernel family fitted on some items and scored on others, and one
-pair does not identify it (CLAIM-228).
+pair does not identify it ([CLAIM-228](../claims.d/CLAIM-228.md)).
 
 ## Critical questions
 
 - **Does the mapping premise hold?** Yes. The transports act on judgement
-  outcomes, and the kernel is fitted across items (CLAIM-207, CLAIM-381).
+  outcomes, and the kernel is fitted across items ([CLAIM-207](../claims.d/CLAIM-207.md), [CLAIM-381](../claims.d/CLAIM-381.md)).
 - **Are the model's assumptions met in the new domain?** For the
   conclusion as now titled, yes: a finite class of items with finite
   judgement outcomes. For the conclusion as first titled, no. Version 1's
   title ended "for a single rendering of a single item it is not
   defined", whose subject is observational fidelity, not the measure.
-  CLAIM-200: that "is more than it shows". A240 of the exchange: "it does
+  [CLAIM-200](../claims.d/CLAIM-200.md): that "is more than it shows". A240 of the exchange: "it does
   not follow that an individual translated utterance has no fidelity
   properties. It means only that the proposed *procedure-level
   distributional score* is not identified by one isolated pair."
 
 ## Verdict
 
-Active, as an inference to CLAIM-228's version 2, which "changes the title
+Active, as an inference to [CLAIM-228](../claims.d/CLAIM-228.md)'s version 2, which "changes the title
 only" and leaves the derivation and the defeat condition as they were. As
-an inference to version 1's title it was Rejected, by CLAIM-200, granted
+an inference to version 1's title it was Rejected, by [CLAIM-200](../claims.d/CLAIM-200.md), granted
 on 2026-10-10 "because it can be checked by reading". A single rendering
 can still be judged, as a sample of its procedure or by another measure
-stated as such (CLAIM-230's remedy: "For single renderings, a different
+stated as such ([CLAIM-230](../claims.d/CLAIM-230.md)'s remedy: "For single renderings, a different
 measure, stated as such").
 
-This argument spells out CLAIM-228's own `rests_on`, with CLAIM-207 named.
-It is filed because CLAIM-200's verdict was about this support relation.
+This argument spells out [CLAIM-228](../claims.d/CLAIM-228.md)'s own `rests_on`, with [CLAIM-207](../claims.d/CLAIM-207.md) named.
+It is filed because [CLAIM-200](../claims.d/CLAIM-200.md)'s verdict was about this support relation.
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-200.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-200](../claims.d/CLAIM-200.md).

@@ -55,11 +55,11 @@ The incremental thesis restated against a strong contextual baseline, specified 
 
 It does not say the transport structure will fail the stronger test, or that [CLAIM-202](CLAIM-202.md) should not be the principal empirical thesis. The reading favours making it so.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The old title said both what a win would show and what the rival accounts
 are committed to. The first is a verdict on support, and is now
-ARG-tmpqt13e, from CASE-055 to CLAIM-202, form evidence, Proposed, with
+[ARG-tmpqt13e](../arguments.d/ARG-tmpqt13e.md), from [CASE-055](../cases.d/CASE-055.md) to [CLAIM-202](CLAIM-202.md), form evidence, Proposed, with
 "An empirical victory may establish that context matters" as its answer to
 "does it tell the hypothesis apart from its rivals?". This claim keeps the
 second, and undercuts that argument. The text above is unchanged.

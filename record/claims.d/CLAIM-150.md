@@ -166,18 +166,18 @@ they do not say. Nothing here changes.
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed [THEORY-038](../theory.d/THEORY-038.md) from `grounds`. It is cited for the categorial point it shares with [THEORY-032](../theory.d/THEORY-032.md). That point, and Lam and Wüthrich's matching conclusion, are carried by [THEORY-032](../theory.d/THEORY-032.md) and [LIT-222](../literature.d/LIT-222.md), both already grounds. The body citation stays.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The old title named three routes that do not show constitution: the
 Yoneda lemma, the invariance of a character, and predictive or
 interventional success. The first two are inferences between entries, and
-they are now arguments to CLAIM-151, both Rejected: ARG-tmpg993j from
-THEORY-032 and LIT-222, and ARG-tmpzfa0c from CLAIM-137. The third has no
+they are now arguments to [CLAIM-151](CLAIM-151.md), both Rejected: [ARG-tmpg993j](../arguments.d/ARG-tmpg993j.md) from
+[THEORY-032](../theory.d/THEORY-032.md) and [LIT-222](../literature.d/LIT-222.md), and [ARG-tmpzfa0c](../arguments.d/ARG-tmpzfa0c.md) from [CLAIM-137](CLAIM-137.md). The third has no
 premise entry, since no experiment has been run, and it stays here. This
 claim keeps its reason, which is about the subject matter: an ontology of
 intrinsically individuated objects can reproduce the identifications and
 the predictions, so they underdetermine constitution. It undercuts both
-arguments, and it is still the guard CLAIM-206 rests on and CLAIM-472,
-CLAIM-476 and CLAIM-477 name. It keeps THEORY-032 and LIT-222 among its
+arguments, and it is still the guard [CLAIM-206](CLAIM-206.md) rests on and [CLAIM-472](CLAIM-472.md),
+[CLAIM-476](CLAIM-476.md) and [CLAIM-477](CLAIM-477.md) name. It keeps [THEORY-032](../theory.d/THEORY-032.md) and [LIT-222](../literature.d/LIT-222.md) among its
 grounds, since the lemma presupposing its relata is why an object
 ontology reproduces the categorical identification.

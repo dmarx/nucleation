@@ -16,8 +16,8 @@ concludes:
 summary: >-
   The assistant-authored chains, in which one text keeps the friend's
   complicity while dropping its words, were filed as grounds for
-  CLAIM-084. Rejected: "the retention of complicity is the author's
-  reading, not a measurement". CLAIM-084 now says so itself and lists the
+  [CLAIM-084](../claims.d/CLAIM-084.md). Rejected: "the retention of complicity is the author's
+  reading, not a measurement". [CLAIM-084](../claims.d/CLAIM-084.md) now says so itself and lists the
   chains only as illustrations.
 ---
 <!-- inactive-ok-file: CLAIM-229 — Superseded; the claim this argument was moved from -->
@@ -27,11 +27,11 @@ summary: >-
 
 ## The inference
 
-CASE-030 and CASE-032 are chains of reconstructions written by the
+[CASE-030](../cases.d/CASE-030.md) and [CASE-032](../cases.d/CASE-032.md) are chains of reconstructions written by the
 assistant. In the stable chain the final text drops the hustle and the bet
 and is said to keep the friend's complicity, while content-word overlap
 falls. So lexical similarity cannot tell kept footing from a changed act,
-and a reconstruction study needs a pragmatic outcome (CLAIM-084).
+and a reconstruction study needs a pragmatic outcome ([CLAIM-084](../claims.d/CLAIM-084.md)).
 
 ## Critical questions
 
@@ -42,15 +42,15 @@ and a reconstruction study needs a pragmatic outcome (CLAIM-084).
   independent judgement of footing there is no measured retention for
   overlap to fail to predict.
 - **Does the measure measure what it is said to?** No. This is the question
-  that fails. CASE-030: "the retention of complicity is the author's
-  reading, not a measurement. It illustrates CLAIM-084 and can test
-  nothing." CLAIM-084 says the same of itself: "They illustrate it, and
+  that fails. [CASE-030](../cases.d/CASE-030.md): "the retention of complicity is the author's
+  reading, not a measurement. It illustrates [CLAIM-084](../claims.d/CLAIM-084.md) and can test
+  nothing." [CLAIM-084](../claims.d/CLAIM-084.md) says the same of itself: "They illustrate it, and
   their pragmatic retention was asserted, not measured."
 
-Rejected as evidence for CLAIM-084. The chains now stand as CLAIM-084's
-`illustrated_by`, which is what the verdict asks. CLAIM-229 also noted that
-CASE-030's chain is the record's nearest case of the act kept while the
+Rejected as evidence for [CLAIM-084](../claims.d/CLAIM-084.md). The chains now stand as [CLAIM-084](../claims.d/CLAIM-084.md)'s
+`illustrated_by`, which is what the verdict asks. [CLAIM-229](../claims.d/CLAIM-229.md) also noted that
+[CASE-030](../cases.d/CASE-030.md)'s chain is the record's nearest case of the act kept while the
 proposition changes, and that it fails for the same reason
-(ARG-tmpcdbcg).
+([ARG-tmpcdbcg](ARG-tmpcdbcg.md)).
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-229.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-229](../claims.d/CLAIM-229.md).

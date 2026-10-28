@@ -143,13 +143,13 @@ the same Δ levels as corpus frequencies." [CLAIM-127](CLAIM-127.md) separates t
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) re-grounded the claim in [THEORY-722](../theory.d/THEORY-722.md) (Active, split from [THEORY-168](../theory.d/THEORY-168.md)) in place of [THEORY-168](../theory.d/THEORY-168.md): "The verdict on a fixed set of measurements therefore depends on which variables represent them", which is all the claim uses.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The title's second half, that the line's evidence that signalling is
 typical "rests on plug-in estimates from one or a few occurrences", was a
-verdict on support. It is now ARG-tmpwp2hn, from LIT-851's counts to
-CLAIM-125, Rejected, the version 1 inference CLAIM-125's version 2 already
+verdict on support. It is now [ARG-tmpwp2hn](../arguments.d/ARG-tmpwp2hn.md), from [LIT-851](../literature.d/LIT-851.md)'s counts to
+[CLAIM-125](CLAIM-125.md), Rejected, the version 1 inference [CLAIM-125](CLAIM-125.md)'s version 2 already
 gave up. This claim keeps the estimator result, which is about the subject
-matter, and undercuts that argument in place of objecting to CLAIM-125.
-Its objection to CLAIM-105 stays, since it is about the contextual
+matter, and undercuts that argument in place of objecting to [CLAIM-125](CLAIM-125.md).
+Its objection to [CLAIM-105](CLAIM-105.md) stays, since it is about the contextual
 fraction.
