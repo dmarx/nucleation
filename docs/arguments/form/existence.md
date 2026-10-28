@@ -6,9 +6,10 @@
 
 **Existence proof** — one coherent case shows that two things can come apart. Critical questions: is the case coherent? Does it separate the very things the conclusion says can come apart?.
 
-2 of 10 ARG documents. Back to the [full index](../README.md).
+3 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-001](../../../record/arguments.d/ARG-001.md) | Moving severity classification, or adding a business-critical override, changes outcomes without changing the rule, so precedence, jurisdiction and suspension come apart | The constructed line of support (Sections 5.3–5.5). Independent of [ARG-003](../../../record/arguments.d/ARG-003.md): undercutting the analogy leaves this standing. | Active |
 | [ARG-007](../../../record/arguments.d/ARG-007.md) | Stability does not entail viability, and the emergency regime keeps its operation and its governance while its transformation capacity degrades, so effective action and the capacity to govern among regimes are different achievements | The argument for the paper's main result (Section 6.11). Linked: all three premises are needed. Canguilhem is not among them. | Active |
+| [ARG-021](../../../record/arguments.d/ARG-021.md) | The manuscript's renderings, which keep the words and change the act, show that keeping the proposition is not necessary for keeping the act | The manuscript §1 reads its own renderings as showing that preserving the proposition is "neither necessary nor sufficient". Rejected: the renderings keep the words and change the act, which is a case of the proposition kept without the act. That refutes sufficiency only. Necessity needs the act kept while the proposition changes, and neither case is one. | Rejected |

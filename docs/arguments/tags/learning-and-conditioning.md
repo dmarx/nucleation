@@ -6,8 +6,8 @@
 
 **Learning and conditioning** — how organisms learn from contingencies and consequences — Pavlovian and instrumental conditioning, reinforcement and reward learning in brains, habit and goal-directed control, behaviour analysis and relational responding. Not machine learning, which is learning-theory or the anthology (ADR-025).
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-027](../../../record/arguments.d/ARG-027.md) | The record's iterated-learning readings show that pragmatic stances and footing are stabilized by transmission | [CLAIM-068](../../../record/claims.d/CLAIM-068.md) extends iterated learning "to speaker footing and communicative conventions". Rejected: the record's readings bear on lexical, structural and functional transmission, and none measures an interpersonal stance, a footing or a speech-act function along a chain. For evaluative stance [CASE-068](../../../record/cases.d/CASE-068.md) is chain evidence, a separate line not filed here; for footing there is still no study. | Rejected |

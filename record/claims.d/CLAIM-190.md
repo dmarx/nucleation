@@ -2,7 +2,7 @@
 number: 190
 status: Superseded
 superseded_by:
-- ARG-tmplw65i
+- ARG-028
 formerly:
 - CLAIM-tmpkld6a
 title: 'The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply'
@@ -11,10 +11,10 @@ history:
 - version: 2
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmplw65i under ADR-061: its subject is whether the
+    Moved to ARG-028 under ADR-061: its subject is whether the
     anchoring measures support CLAIM-185 and CLAIM-186, which is a claim
     about support. The argument's premise, the measures, is filed as
-    CASE-tmp4hpm7, and the objections to CLAIM-185 and CLAIM-186 are now
+    CASE-183, and the objections to CLAIM-185 and CLAIM-186 are now
     the argument's conclusions. The text below is unchanged.
 role: counter
 warrant: interpretive
@@ -41,7 +41,7 @@ grounds:
 illustrated_by:
 - CASE-084
 ---
-<!-- inactive-ok-file: ARG-tmplw65i — Proposed; the argument this claim moved to under ADR-061 -->
+<!-- inactive-ok-file: ARG-028 — Proposed; the argument this claim moved to under ADR-061 -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-186 — Proposed; open, the theses this objection was to and the argument now concludes -->
 <!-- inactive-ok-file: CLAIM-264 CLAIM-266 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-149 CLAIM-206 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -98,10 +98,10 @@ the formal-apparatus line, and this claim's `rests_on` now names
 are where the record first argued the point. The change is that setting
 pragmatic-transport aside no longer takes this premise with it.
 
-## Note of 2026-10-28: moved to [ARG-tmplw65i](../arguments.d/ARG-tmplw65i.md)
+## Note of 2026-10-28: moved to [ARG-028](../arguments.d/ARG-028.md)
 
 Under [ADR-061](../decisions.d/ADR-061.md) a claim that a measure cannot show a thesis is the argument
 from the measure to the thesis, with the failing critical question in its
-body. This claim is now [ARG-tmplw65i](../arguments.d/ARG-tmplw65i.md), from [CASE-tmp4hpm7](../cases.d/CASE-tmp4hpm7.md) to [CLAIM-185](CLAIM-185.md) and
+body. This claim is now [ARG-028](../arguments.d/ARG-028.md), from [CASE-183](../cases.d/CASE-183.md) to [CLAIM-185](CLAIM-185.md) and
 [CLAIM-186](CLAIM-186.md), form evidence, Proposed, and its title is the answer there to
 "Does the measure measure what it is said to?".

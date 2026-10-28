@@ -2,7 +2,7 @@
 number: 203
 status: Superseded
 superseded_by:
-- ARG-tmp0n7cn
+- ARG-011
 formerly:
 - CLAIM-tmp3lv11
 title: 'The only design for the October thesis builds its outcome in: the act is fixed by whoever writes the items, and the topic-only baseline is built to fail on the critical cells'
@@ -31,7 +31,7 @@ history:
 - version: 4
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmp0n7cn under ADR-061, as that decision's own worked
+    Moved to ARG-011 under ADR-061, as that decision's own worked
     example of a test design as a premise: the argument from CASE-040
     to CLAIM-129, form evidence, Rejected. Its objection to CLAIM-129
     is now that argument's conclusion. The text below is unchanged.
@@ -56,7 +56,7 @@ summary: >-
   "What it cannot show" covers neither point. It does not say the design
   is useless as a first pilot.
 ---
-<!-- inactive-ok-file: ARG-tmp0n7cn — Rejected; the argument this claim moved to under ADR-061 -->
+<!-- inactive-ok-file: ARG-011 — Rejected; the argument this claim moved to under ADR-061 -->
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
 <!-- inactive-ok-file: CLAIM-129 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-135 CLAIM-139 CLAIM-127 CLAIM-078 — Proposed; open, cited as the claims the design is meant to bear on, those its own limits name, and the success criterion that quotes A218, not as settled -->
@@ -151,11 +151,11 @@ generating tree exactly in eight, and in one of the others a wrong tree
 had the higher posterior. It shows the inference works under matched
 assumptions, and the paper offers it as no more. The claim is unchanged.
 
-## Note of 2026-10-28: moved to [ARG-tmp0n7cn](../arguments.d/ARG-tmp0n7cn.md)
+## Note of 2026-10-28: moved to [ARG-011](../arguments.d/ARG-011.md)
 
 Under [ADR-061](../decisions.d/ADR-061.md), "a win on this test would not support the thesis" is the
 argument from the CASE that describes the design to the thesis. This
-claim is now [ARG-tmp0n7cn](../arguments.d/ARG-tmp0n7cn.md), from [CASE-040](../cases.d/CASE-040.md) to [CLAIM-129](CLAIM-129.md), form evidence,
+claim is now [ARG-011](../arguments.d/ARG-011.md), from [CASE-040](../cases.d/CASE-040.md) to [CLAIM-129](CLAIM-129.md), form evidence,
 Rejected, and the failing critical question is "would the evidence be
 expected if the hypothesis were false?". Its note of 2026-10-26 is
 carried into that argument's body.

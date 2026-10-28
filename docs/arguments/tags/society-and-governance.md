@@ -6,10 +6,10 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-3 of 10 ARG documents. Back to the [full index](../README.md).
+3 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-001](../../../record/arguments.d/ARG-001.md) | Moving severity classification, or adding a business-critical override, changes outcomes without changing the rule, so precedence, jurisdiction and suspension come apart | The constructed line of support (Sections 5.3–5.5). Independent of [ARG-003](../../../record/arguments.d/ARG-003.md): undercutting the analogy leaves this standing. | Active |
-| [ARG-003](../../../record/arguments.d/ARG-003.md) | In the Dual State ordinary norms governed conduct while a prerogative order held authority over whether they bound, so a constraint can govern conduct without governing its own authority | The historical line of support for [CLAIM-086](../../../record/claims.d/CLAIM-086.md) (Section 5.6). Undercut except in its structural respect ([CLAIM-032](../../../record/claims.d/CLAIM-032.md)). | Active |
+| [ARG-003](../../../record/arguments.d/ARG-003.md) v2 | In the Dual State ordinary norms governed conduct while a prerogative order held authority over whether they bound, so a constraint can govern conduct without governing its own authority | The historical line of support for [CLAIM-086](../../../record/claims.d/CLAIM-086.md) (Section 5.6). Undercut except in its structural respect ([CLAIM-032](../../../record/claims.d/CLAIM-032.md)). | Active |
 | [ARG-009](../../../record/arguments.d/ARG-009.md) | Northstar-A and Northstar-B differ only in escalation authority and act differently, so escalation authority helps govern efficacy | The institutional line of support for [CLAIM-027](../../../record/claims.d/CLAIM-027.md) (Sections 5.1–5.2), an interventionist contrast ([THEORY-138](../../../record/theory.d/THEORY-138.md)). Conditional on the supposed agent. Two of its critical questions are unanswered. | Proposed |

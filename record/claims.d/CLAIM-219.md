@@ -28,7 +28,7 @@ history:
   date: '2026-10-28'
   note: >-
     Split under ADR-061. The first horn's verdict, that the headline "has
-    no case but a constructed one", moved to ARG-tmpswbhx, from CASE-037 to
+    no case but a constructed one", moved to ARG-032, from CASE-037 to
     CLAIM-105, Rejected, which this claim now undercuts. CASE-037 moved
     from this claim's grounds to the argument's. The title was: 'The
     headline that translation changes global structure is either about
@@ -49,7 +49,7 @@ grounds:
 objects_to:
 - CLAIM-105
 undercuts:
-- ARG-tmpswbhx
+- ARG-032
 rests_on:
 - CLAIM-325
 summary: >-
@@ -70,7 +70,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-038 CLAIM-044 CLAIM-125 CLAIM-078 — Proposed; cited for the distinction from context dependence, as a non-citer of LIT-264, for the signalling counts and for the success criterion, not as settled -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmpswbhx — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
+<!-- inactive-ok-file: ARG-032 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-219: A change in the global compatibility of a fixed scenario is either a change in contextuality proper, which the behavioural data read show none of, or a change in overlap consistency, which is ordinary context dependence and moves by at most 2ε when each context moves by ε
 
@@ -198,7 +198,7 @@ from A10.
 
 The first horn said the headline "has no case but a constructed one": the
 one instance in the record is [CASE-037](../cases.d/CASE-037.md), which is stipulated. That is a
-verdict on support, and it is now [ARG-tmpswbhx](../arguments.d/ARG-tmpswbhx.md), from [CASE-037](../cases.d/CASE-037.md) to
+verdict on support, and it is now [ARG-032](../arguments.d/ARG-032.md), from [CASE-037](../cases.d/CASE-037.md) to
 [CLAIM-105](CLAIM-105.md), Rejected. This claim keeps the dilemma and the 2ε bound, which
 are about the subject matter, and undercuts that argument. Its objection
 to [CLAIM-105](CLAIM-105.md) stays, because the second horn says the headline is "not

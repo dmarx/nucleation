@@ -27,7 +27,7 @@ history:
   note: >-
     Split under ADR-061. The verdict in "What it does not say", that the
     line uses Blackwell's standard for its formal ground and a receiver's
-    for its thesis and its tests, moved to ARG-tmpa4q9l, from CLAIM-050 to
+    for its thesis and its tests, moved to ARG-019, from CLAIM-050 to
     CLAIM-115, Proposed, which this claim now undercuts. The title is
     unchanged, because it is wholly about the subject matter. The body is
     unchanged.
@@ -46,7 +46,7 @@ objects_to:
 uses:
 - TERM-034
 undercuts:
-- ARG-tmpa4q9l
+- ARG-019
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (formal and
   structure lenses); no turn of the exchange connects the two claims. A
@@ -69,7 +69,7 @@ supports:
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
 <!-- inactive-ok-file: CLAIM-199 — Proposed; the record's reconciliation of this objection, cited as open -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmpa4q9l — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
+<!-- inactive-ok-file: ARG-019 — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-225: Blackwell's order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line's claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis's own defeat condition
 
@@ -196,7 +196,7 @@ The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](
 
 The support verdict in this claim sat in "What it does not say": "the line
 uses that standard for its formal ground, and a receiver's standard for
-its thesis and its tests." It is now [ARG-tmpa4q9l](../arguments.d/ARG-tmpa4q9l.md), from [CLAIM-050](CLAIM-050.md) to
+its thesis and its tests." It is now [ARG-019](../arguments.d/ARG-019.md), from [CLAIM-050](CLAIM-050.md) to
 [CLAIM-115](CLAIM-115.md), Proposed, since [CLAIM-199](CLAIM-199.md)'s reconciliation narrows the
 inference without defeating it. The title is unchanged: Blackwell's
 theorem and the shape of [CLAIM-050](CLAIM-050.md)'s defeat condition are about the

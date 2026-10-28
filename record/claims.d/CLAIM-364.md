@@ -17,7 +17,7 @@ history:
   date: '2026-10-28'
   note: >-
     Split under ADR-061. The verdict that low supervisory cost cannot show
-    non-domination moved to ARG-tmppzuia, from CLAIM-358 to CLAIM-362,
+    non-domination moved to ARG-030, from CLAIM-358 to CLAIM-362,
     Proposed, which this claim now undercuts in place of objecting to
     CLAIM-362. The title was: 'Low supervisory cost cannot show
     non-domination: processes conditioned never to object also coordinate
@@ -40,7 +40,7 @@ line:
 - authenticity
 - will-organization
 undercuts:
-- ARG-tmppzuia
+- ARG-030
 grounds:
 - THEORY-040
 summary: >-
@@ -63,7 +63,7 @@ complements:
 <!-- inactive-ok-file: THEORY-040 THEORY-142 QUESTION-071 CLAIM-162 CLAIM-362 CLAIM-358 — Proposed; the objection's grounds and the claims it bears on, open -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the set-aside claim whose manipulation defeater this repeats -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmppzuia — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
+<!-- inactive-ok-file: ARG-030 — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-364: Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history
 
@@ -165,7 +165,7 @@ from the **absence of overt struggle**."
 ## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The old title's first clause, "Low supervisory cost cannot show
-non-domination", was a verdict on support. It is now [ARG-tmppzuia](../arguments.d/ARG-tmppzuia.md), from
+non-domination", was a verdict on support. It is now [ARG-030](../arguments.d/ARG-030.md), from
 [CLAIM-358](CLAIM-358.md) to [CLAIM-362](CLAIM-362.md), form evidence, Proposed. This claim keeps what is
 about the subject matter: conditioned and negotiating processes match in
 behaviour and cost and part only under intervention or in their history,

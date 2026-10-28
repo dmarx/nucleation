@@ -11,8 +11,8 @@ history:
   note: >-
     Split under ADR-061. Its verdicts on two routes to CLAIM-151 moved to
     two arguments, both Rejected, which this claim now undercuts:
-    ARG-tmpg993j, from the Yoneda lemma (THEORY-032, LIT-222), and
-    ARG-tmpzfa0c, from the character analogy (CLAIM-137). The predictive
+    ARG-023, from the Yoneda lemma (THEORY-032, LIT-222), and
+    ARG-038, from the character analogy (CLAIM-137). The predictive
     route has no premise entry and stays in the body. The claim keeps the
     underdetermination, which CLAIM-206 rests on. The title was:
     'Identification is not constitution: neither the Yoneda lemma, nor the
@@ -38,8 +38,8 @@ complements:
 uses:
 - TERM-038
 undercuts:
-- ARG-tmpg993j
-- ARG-tmpzfa0c
+- ARG-023
+- ARG-038
 summary: >-
   The exchange's own guard, stated six times (A187, A191 §4, A198 §VI,
   A203 §35, A214 §13, A218 §13). The record adds the stronger, formal
@@ -55,7 +55,7 @@ supports:
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the two theses this disclaimer guards, both open -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmpg993j ARG-tmpzfa0c — Rejected; the arguments this claim's support verdicts moved to, which it undercuts -->
+<!-- inactive-ok-file: ARG-023 ARG-038 — Rejected; the arguments this claim's support verdicts moved to, which it undercuts -->
 <!-- inactive-ok-file: CLAIM-206 — Proposed; the claim that rests on this one, cited as open -->
 
 # CLAIM-150: An ontology of intrinsically individuated objects with relational properties can reproduce the categorical and operational identifications, and the predictions, of a relational one, so identification underdetermines constitution
@@ -171,8 +171,8 @@ The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](
 The old title named three routes that do not show constitution: the
 Yoneda lemma, the invariance of a character, and predictive or
 interventional success. The first two are inferences between entries, and
-they are now arguments to [CLAIM-151](CLAIM-151.md), both Rejected: [ARG-tmpg993j](../arguments.d/ARG-tmpg993j.md) from
-[THEORY-032](../theory.d/THEORY-032.md) and [LIT-222](../literature.d/LIT-222.md), and [ARG-tmpzfa0c](../arguments.d/ARG-tmpzfa0c.md) from [CLAIM-137](CLAIM-137.md). The third has no
+they are now arguments to [CLAIM-151](CLAIM-151.md), both Rejected: [ARG-023](../arguments.d/ARG-023.md) from
+[THEORY-032](../theory.d/THEORY-032.md) and [LIT-222](../literature.d/LIT-222.md), and [ARG-038](../arguments.d/ARG-038.md) from [CLAIM-137](CLAIM-137.md). The third has no
 premise entry, since no experiment has been run, and it stays here. This
 claim keeps its reason, which is about the subject matter: an ontology of
 intrinsically individuated objects can reproduce the identifications and

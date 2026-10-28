@@ -6,8 +6,10 @@
 
 **Metaphysics** — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy).
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+3 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-023](../../../record/arguments.d/ARG-023.md) | The Yoneda lemma shows that relations constitute what a communicative act is | The Yoneda lemma fixes an object up to isomorphism from its whole hom-functor, and it is read as the formal version of "an object is determined by its relations". It fixes the object only among objects the category already has, so it presupposes the relata. It cannot establish constitution, and it gives elimination of the relata no support. [CLAIM-150](../../../record/claims.d/CLAIM-150.md) undercuts it. | Rejected |
+| [ARG-029](../../../record/arguments.d/ARG-029.md) | The operational account, kept as a rule of method, supports a realist kind that can outrun observation as the bearer of communicative identity | Between A203 and A218 the bearer of communicative identity moved from an equivalence class defined on observed responses to a structural kind that may be "real while remaining indistinguishable" under the probes. [CLAIM-142](../../../record/claims.d/CLAIM-142.md) names the step in one sentence, method kept and object changed. Proposed: no turn argues for the kind, and the exchange itself concedes that a traditional ontology "might reproduce the same statistical predictions". | Proposed |
+| [ARG-038](../../../record/arguments.d/ARG-038.md) | A character's classificatory sufficiency shows that relations constitute what a communicative act is | The owner's character analogy: a communicative kind is identified by an invariant, as a group character identifies a representation ([CLAIM-137](../../../record/claims.d/CLAIM-137.md)). At its strongest that gives classificatory priority, not constitution. A198 §VI: "It would be a mistake to infer the third automatically from the first two." [CLAIM-150](../../../record/claims.d/CLAIM-150.md) undercuts it. | Rejected |

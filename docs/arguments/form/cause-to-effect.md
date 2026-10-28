@@ -6,8 +6,8 @@
 
 **Cause to effect** — this mechanism produces that outcome. Critical questions: is the mechanism operative here? Could a confounder produce the same outcome?.
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-020](../../../record/arguments.d/ARG-020.md) v2 | The compensation hypothesis gives the mechanism by which a rendering keeps the act while changing the proposition | [CLAIM-053](../../../record/claims.d/CLAIM-053.md) credited A24's compensation hypothesis with the mechanism for the necessity half: a rendering can keep the act while changing the proposition. Rejected on [CLAIM-229](../../../record/claims.d/CLAIM-229.md)'s reply. The hypothesis says that lexical infidelity can be required for pragmatic fidelity, which is about words, and a change of wording can keep the proposition. | Rejected |

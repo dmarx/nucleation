@@ -6,8 +6,8 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-019](../../../record/arguments.d/ARG-019.md) | Blackwell's order on rendering procedures grounds the thesis that what survives translation is what a receiver can reconstruct | [CLAIM-115](../../../record/claims.d/CLAIM-115.md) rests on [CLAIM-050](../../../record/claims.d/CLAIM-050.md), so the manuscript's thesis about what a receiver can reconstruct takes Blackwell's order as its formal ground. That order describes a decision-maker free to use any rule, and the thesis and its tests are about bounded receivers. Since [CLAIM-199](../../../record/claims.d/CLAIM-199.md) and [CLAIM-050](../../../record/claims.d/CLAIM-050.md)'s version 4 the order is the ceiling on what a rendering makes possible, so the inference is narrowed, not defeated. [CLAIM-225](../../../record/claims.d/CLAIM-225.md) undercuts it. | Proposed |

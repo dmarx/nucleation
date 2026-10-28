@@ -6,8 +6,9 @@
 
 **Representation learning** — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
 
-1 of 10 ARG documents. Back to the [full index](../README.md).
+2 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [ARG-008](../../../record/arguments.d/ARG-008.md) | A language model's response to its context is functionally a parameterized frame, so context-conditioned models give a controlled setting in which to test the theory | The owner's U17 analogy, which A43 enlarged into "the primary formal example". Undercut by the assistant in its own outlines: a prompt is not a social situation, model behaviour need not match human inference, and judging with the generating model measures only its preferences. | Active |
+| [ARG-008](../../../record/arguments.d/ARG-008.md) v2 | A language model's response to its context is functionally a parameterized frame, so context-conditioned models give a controlled setting in which to test the theory | The owner's U17 analogy, which A43 enlarged into "the primary formal example". Undercut by the assistant in its own outlines: a prompt is not a social situation, model behaviour need not match human inference, and judging with the generating model measures only its preferences. | Active |
+| [ARG-011](../../../record/arguments.d/ARG-011.md) | On the crossed topic-and-act design, judgement factorizations that recover the act where a topic-only factorization fails would show that a factorization recovers only the structure in the relations it is fitted to | The planned evidence for the October thesis, [CLAIM-129](../../../record/claims.d/CLAIM-129.md), is [CASE-040](../../../record/cases.d/CASE-040.md), which crosses topic with act. Rejected for that design as filed: the act is fixed by whoever writes the items and the topic-only baseline is built to fail on the critical cells, so "a pass shows that the items were built as intended". The record conceded the point on 2026-10-10 and repaired the thesis's defeat condition. | Rejected |

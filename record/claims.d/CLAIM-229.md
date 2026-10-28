@@ -17,8 +17,8 @@ history:
   date: '2026-10-28'
   note: >-
     Moved under ADR-061 to five arguments, one per inference it
-    judged: ARG-tmpcdbcg, ARG-tmpb1nnf, ARG-tmp6fcfu, ARG-tmpgevka and
-    ARG-tmpztimr. The claim's text below is unchanged.
+    judged: ARG-021, ARG-020, ARG-013, ARG-024 and
+    ARG-039. The claim's text below is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -27,11 +27,11 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 superseded_by:
-- ARG-tmpcdbcg
-- ARG-tmpb1nnf
-- ARG-tmp6fcfu
-- ARG-tmpgevka
-- ARG-tmpztimr
+- ARG-021
+- ARG-020
+- ARG-013
+- ARG-024
+- ARG-039
 rests_on:
 - CLAIM-053
 grounds:
@@ -55,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-091 CLAIM-151 CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-061, not as settled -->
-<!-- inactive-ok-file: ARG-tmpcdbcg ARG-tmpb1nnf ARG-tmp6fcfu ARG-tmpgevka ARG-tmpztimr — Rejected; the five arguments this claim moved to, one per inference it judged -->
+<!-- inactive-ok-file: ARG-021 ARG-020 ARG-013 ARG-024 ARG-039 — Rejected; the five arguments this claim moved to, one per inference it judged -->
 <!-- inactive-ok-file: CLAIM-053 until 2027-01-28 — Superseded; moved to arguments the same day, cited as the claim this one answered -->
 <!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half, cited as the conclusion of the arguments this claim moved to -->
 
@@ -180,6 +180,6 @@ proposition kept is the coarser "greet one another warmly". The case forces
 that defender to individuate propositions by function. It does not refute
 the defender.
 
-## Note of 2026-10-28: moved to [ARG-tmpcdbcg](../arguments.d/ARG-tmpcdbcg.md), [ARG-tmpb1nnf](../arguments.d/ARG-tmpb1nnf.md), [ARG-tmp6fcfu](../arguments.d/ARG-tmp6fcfu.md), [ARG-tmpgevka](../arguments.d/ARG-tmpgevka.md) and [ARG-tmpztimr](../arguments.d/ARG-tmpztimr.md)
+## Note of 2026-10-28: moved to [ARG-021](../arguments.d/ARG-021.md), [ARG-020](../arguments.d/ARG-020.md), [ARG-013](../arguments.d/ARG-013.md), [ARG-024](../arguments.d/ARG-024.md) and [ARG-039](../arguments.d/ARG-039.md)
 
-This claim judged five inferences, so under [ADR-061](../decisions.d/ADR-061.md)'s one ARG per inference it is now five arguments, all Rejected: [ARG-tmpcdbcg](../arguments.d/ARG-tmpcdbcg.md) ([CASE-018](../cases.d/CASE-018.md) and [CASE-027](../cases.d/CASE-027.md) to [CLAIM-486](CLAIM-486.md), filed once with [CLAIM-053](CLAIM-053.md)'s verdict), [ARG-tmpb1nnf](../arguments.d/ARG-tmpb1nnf.md) ([CLAIM-091](CLAIM-091.md) to [CLAIM-486](CLAIM-486.md), as the revision of [CLAIM-053](CLAIM-053.md)'s version), [ARG-tmp6fcfu](../arguments.d/ARG-tmp6fcfu.md) ([CASE-018](../cases.d/CASE-018.md) to [CLAIM-091](CLAIM-091.md)), [ARG-tmpgevka](../arguments.d/ARG-tmpgevka.md) ([CASE-018](../cases.d/CASE-018.md) to [CLAIM-151](CLAIM-151.md)) and [ARG-tmpztimr](../arguments.d/ARG-tmpztimr.md) ([CASE-030](../cases.d/CASE-030.md) and [CASE-032](../cases.d/CASE-032.md) to [CLAIM-084](CLAIM-084.md)). The edge to [CLAIM-061](CLAIM-061.md) stays as the history of the concession; the possibility is not in dispute, so no argument to [CLAIM-061](CLAIM-061.md) is filed. The text above is unchanged.
+This claim judged five inferences, so under [ADR-061](../decisions.d/ADR-061.md)'s one ARG per inference it is now five arguments, all Rejected: [ARG-021](../arguments.d/ARG-021.md) ([CASE-018](../cases.d/CASE-018.md) and [CASE-027](../cases.d/CASE-027.md) to [CLAIM-486](CLAIM-486.md), filed once with [CLAIM-053](CLAIM-053.md)'s verdict), [ARG-020](../arguments.d/ARG-020.md) ([CLAIM-091](CLAIM-091.md) to [CLAIM-486](CLAIM-486.md), as the revision of [CLAIM-053](CLAIM-053.md)'s version), [ARG-013](../arguments.d/ARG-013.md) ([CASE-018](../cases.d/CASE-018.md) to [CLAIM-091](CLAIM-091.md)), [ARG-024](../arguments.d/ARG-024.md) ([CASE-018](../cases.d/CASE-018.md) to [CLAIM-151](CLAIM-151.md)) and [ARG-039](../arguments.d/ARG-039.md) ([CASE-030](../cases.d/CASE-030.md) and [CASE-032](../cases.d/CASE-032.md) to [CLAIM-084](CLAIM-084.md)). The edge to [CLAIM-061](CLAIM-061.md) stays as the history of the concession; the possibility is not in dispute, so no argument to [CLAIM-061](CLAIM-061.md) is filed. The text above is unchanged.

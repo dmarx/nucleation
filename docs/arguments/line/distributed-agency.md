@@ -6,8 +6,10 @@
 
 **Distributed agency** — what an organized whole is, and how its operative direction relates to its members' — where the essay started.
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+3 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-015](../../../record/arguments.d/ARG-015.md) | A population of operators that maximize fixed objectives and comes to hold durable authority would show self-constitution | A7 and A10 propose sufficiency tests for the self-governing sense of a self, run on populations of operators each rewarded for an objective the modeller wrote down. Proposed: such a population would show that endogenous governance can arise from fixed local objectives, but "it would not show that the organization sets the conditions it maintains", which is the constitutive part of the thesis. | Proposed |
+| [ARG-025](../../../record/arguments.d/ARG-025.md) | Matched ordinary behaviour and differing responses to intervention show that organizational perspectives explain what the record explained by self | [CLAIM-414](../../../record/claims.d/CLAIM-414.md) and the lab's runs show organizations with the same ordinary behaviour that respond differently to specified interventions. That is offered as evidence for [CLAIM-417](../../../record/claims.d/CLAIM-417.md), that organizational perspectives explain what the record explained by self. [CLAIM-417](../../../record/claims.d/CLAIM-417.md)'s defeater is that established accounts explain the same transitions as well with fewer assumptions, and only a model that out-predicts them at matched complexity bears on that. No premise does yet. It becomes Rejected if the owner accepts the grading. | Proposed |
+| [ARG-036](../../../record/arguments.d/ARG-036.md) | The lab's restricted models, whose predictions could have failed, support the shared-organization thesis | The lab's later models give the shared organization restrictions that can fail, and yield predictions inside a model that could have come out wrong. Proposed, on A7 §14's own standing objection: a framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the matched comparators so far find that the organizational vocabulary "adds no constraint that the conventional model lacks". | Proposed |

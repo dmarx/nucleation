@@ -6,8 +6,8 @@
 
 **Authenticity and concordance** — what makes a will-organization the agent's own, and normativity across the scales an agent spans. Set aside on 2026-10-05 as future work.
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-030](../../../record/arguments.d/ARG-030.md) | Low supervisory cost shows that an organization does not dominate its processes | The owner tied the non-domination criterion ([CLAIM-362](../../../record/claims.d/CLAIM-362.md)) to a saving in effort ([CLAIM-358](../../../record/claims.d/CLAIM-358.md)), so low supervisory cost reads as its mark. Processes conditioned never to object coordinate without override at the same cost, so the evidence is expected whether or not the organization dominates. A45: "low strain alone cannot establish authenticity: a dominated organization can be efficient." [CLAIM-364](../../../record/claims.d/CLAIM-364.md) undercuts it. | Proposed |

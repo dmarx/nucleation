@@ -18,7 +18,7 @@ history:
 - version: 3
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmpfb38b under ADR-061, as an argument about
+    Moved to ARG-022 under ADR-061, as an argument about
     support; the claim's text below is unchanged.
 role: granted
 warrant: interpretive
@@ -30,7 +30,7 @@ line:
 - pragmatic-transport
 - formal-apparatus
 superseded_by:
-- ARG-tmpfb38b
+- ARG-022
 works:
 - what-survives-translation
 grounds:
@@ -42,7 +42,7 @@ summary: >-
   the later version.
 ---
 <!-- inactive-ok-file: THEORY-168 — Proposed; representation-dependence of CbD verdicts, cited as qualification, not as settled -->
-<!-- inactive-ok-file: ARG-tmpfb38b — Proposed; the argument this claim moved to -->
+<!-- inactive-ok-file: ARG-022 — Proposed; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the claim this objection was to, open -->
 
 # CLAIM-069: The 2016 Contextuality-by-Default criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts
@@ -78,6 +78,6 @@ even a single observable can come out contextual.
 
 The owner ruled this granted claim Proposed rather than narrowing its title. What would return it to Active is [THEORY-168](../theory.d/THEORY-168.md)'s own promote_when: a worked system that is noncontextual under CbD 1.0 and contextual under 2.0.
 
-## Note of 2026-10-28: moved to [ARG-tmpfb38b](../arguments.d/ARG-tmpfb38b.md)
+## Note of 2026-10-28: moved to [ARG-022](../arguments.d/ARG-022.md)
 
-This claim reads a source and says the manuscript leans on the 2016 paper for a scope it does not have. [THEORY-168](../theory.d/THEORY-168.md) already holds the reading, so the objection moved to [ARG-tmpfb38b](../arguments.d/ARG-tmpfb38b.md), from [LIT-777](../literature.d/LIT-777.md) and [THEORY-168](../theory.d/THEORY-168.md) to [CLAIM-037](CLAIM-037.md), form source, Proposed, as the owner's ruling of 2026-10-27 left it. The text above is unchanged.
+This claim reads a source and says the manuscript leans on the 2016 paper for a scope it does not have. [THEORY-168](../theory.d/THEORY-168.md) already holds the reading, so the objection moved to [ARG-022](../arguments.d/ARG-022.md), from [LIT-777](../literature.d/LIT-777.md) and [THEORY-168](../theory.d/THEORY-168.md) to [CLAIM-037](CLAIM-037.md), form source, Proposed, as the owner's ruling of 2026-10-27 left it. The text above is unchanged.

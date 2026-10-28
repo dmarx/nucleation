@@ -6,8 +6,9 @@
 
 **Pragmatics** — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+2 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-012](../../../record/arguments.d/ARG-012.md) | An attributed-speaker factorial study shows which relations constitute a communicative act | [CASE-021](../../../record/cases.d/CASE-021.md)'s factorial study varies the attributed speaker, and a change in act classifications under it would be read as evidence that an act is partly constituted by its relation to the speaker. Telling readers who spoke is a do(I), not a do(S), so such an effect is evidence about interpretation under instruction. [CLAIM-130](../../../record/claims.d/CLAIM-130.md) states the distinction and undercuts the inference. | Rejected |
+| [ARG-027](../../../record/arguments.d/ARG-027.md) | The record's iterated-learning readings show that pragmatic stances and footing are stabilized by transmission | [CLAIM-068](../../../record/claims.d/CLAIM-068.md) extends iterated learning "to speaker footing and communicative conventions". Rejected: the record's readings bear on lexical, structural and functional transmission, and none measures an interpersonal stance, a footing or a speech-act function along a chain. For evaluative stance [CASE-068](../../../record/cases.d/CASE-068.md) is chain evidence, a separate line not filed here; for footing there is still no study. | Rejected |

@@ -2,7 +2,7 @@
 number: 163
 status: Superseded
 superseded_by:
-- ARG-tmp8meez
+- ARG-016
 formerly:
 - CLAIM-tmpigdl0
 title: '"Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"'
@@ -11,7 +11,7 @@ history:
 - version: 2
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmp8meez under ADR-061, as its own worked example: the
+    Moved to ARG-016 under ADR-061, as its own worked example: the
     claim is wholly about whether the synchronization analogy carries, so
     it is the argument from CLAIM-169, THEORY-069 and THEORY-070 to
     CLAIM-162, form analogy, Proposed. The objection to CLAIM-162 is now
@@ -40,7 +40,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-162 — Proposed; the claim this objection targets, open -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading that sets the standard the analogy is held to -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmp8meez CLAIM-169 CLAIM-198 THEORY-070 — Proposed; the argument this claim moved to, its premises and the reply that still names this claim, open -->
+<!-- inactive-ok-file: ARG-016 CLAIM-169 CLAIM-198 THEORY-070 — Proposed; the argument this claim moved to, its premises and the reply that still names this claim, open -->
 
 # CLAIM-163: "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"
 
@@ -135,11 +135,11 @@ None is measured, in a person or a model. The objection stands, Proposed,
 and the status is unchanged. [CLAIM-358](CLAIM-358.md) is stated in the broader
 sense and inherits the objection.
 
-## Note of 2026-10-28: moved to [ARG-tmp8meez](../arguments.d/ARG-tmp8meez.md)
+## Note of 2026-10-28: moved to [ARG-016](../arguments.d/ARG-016.md)
 
 This objection says the word "synchronization" carries no mechanism from
 coordination dynamics to valuations, which is a verdict on an analogy.
-Under [ADR-061](../decisions.d/ADR-061.md) it is now [ARG-tmp8meez](../arguments.d/ARG-tmp8meez.md), from [CLAIM-169](CLAIM-169.md), [THEORY-069](../theory.d/THEORY-069.md) and
+Under [ADR-061](../decisions.d/ADR-061.md) it is now [ARG-016](../arguments.d/ARG-016.md), from [CLAIM-169](CLAIM-169.md), [THEORY-069](../theory.d/THEORY-069.md) and
 [THEORY-070](../theory.d/THEORY-070.md) to [CLAIM-162](CLAIM-162.md), Proposed, whose critical question "what relevant
 difference is there?" is answered: the mechanism. [CLAIM-198](CLAIM-198.md)'s reply still
 names this claim, and the argument's body records it.

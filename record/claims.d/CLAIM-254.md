@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmpt2gwf under ADR-061, as an argument about
+    Moved to ARG-033 under ADR-061, as an argument about
     support; the claim's text below is unchanged.
 role: counter
 warrant: interpretive
@@ -19,7 +19,7 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 superseded_by:
-- ARG-tmpt2gwf
+- ARG-033
 grounds:
 - THEORY-159
 summary: >-
@@ -38,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-082 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-082, not as settled -->
 <!-- inactive-ok-file: THEORY-159 — Proposed; the readings of Saussure and of relative representations, cited for what they say, not as settled -->
-<!-- inactive-ok-file: ARG-tmpt2gwf — Proposed; the argument this claim moved to -->
+<!-- inactive-ok-file: ARG-033 — Proposed; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-072 — Superseded; moved to arguments the same day, cited as the claim whose last paragraph this objected to -->
 
 # CLAIM-254: Read as the Saussure correction has it, the structuralist premise argues against transport: value is internal to one language state, so what can cross between languages is signification, the aspect the premise demotes
@@ -123,6 +123,6 @@ paragraph overreaches. The objection stays open, because whether that
 use-level counterpart is the structuralist premise restated or a
 replacement for it is arguable.
 
-## Note of 2026-10-28: moved to [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md)
+## Note of 2026-10-28: moved to [ARG-033](../arguments.d/ARG-033.md)
 
-This objection is to an inference, from Saussure's value through [CLAIM-082](CLAIM-082.md) to transport, which is [CLAIM-115](CLAIM-115.md)'s subject. It moved to [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md) as its version 2; version 1 is the last paragraph of [CLAIM-072](CLAIM-072.md) it objected to, and [CLAIM-242](CLAIM-242.md)'s reply is in that argument's body. Its edges to [CLAIM-072](CLAIM-072.md) and [CLAIM-082](CLAIM-082.md) are dropped, since the argument now carries both. The text above is unchanged.
+This objection is to an inference, from Saussure's value through [CLAIM-082](CLAIM-082.md) to transport, which is [CLAIM-115](CLAIM-115.md)'s subject. It moved to [ARG-033](../arguments.d/ARG-033.md) as its version 2; version 1 is the last paragraph of [CLAIM-072](CLAIM-072.md) it objected to, and [CLAIM-242](CLAIM-242.md)'s reply is in that argument's body. Its edges to [CLAIM-072](CLAIM-072.md) and [CLAIM-082](CLAIM-082.md) are dropped, since the argument now carries both. The text above is unchanged.

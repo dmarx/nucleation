@@ -16,7 +16,7 @@ history:
 - version: 3
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmpcdbcg and ARG-tmpb1nnf under ADR-061, as an
+    Moved to ARG-021 and ARG-020 under ADR-061, as an
     argument about support; the claim's text below is unchanged.
 role: granted
 warrant: interpretive
@@ -26,8 +26,8 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 superseded_by:
-- ARG-tmpcdbcg
-- ARG-tmpb1nnf
+- ARG-021
+- ARG-020
 objects_to:
 - CLAIM-061
 summary: >-
@@ -39,7 +39,7 @@ supports:
 - CLAIM-229
 ---
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: ARG-tmpcdbcg ARG-tmpb1nnf — Rejected; the arguments this claim moved to -->
+<!-- inactive-ok-file: ARG-021 ARG-020 — Rejected; the arguments this claim moved to -->
 <!-- inactive-ok-file: CLAIM-229 — Superseded; moved to arguments the same day, cited as the reply this claim received -->
 <!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half, cited as the conclusion of the arguments this claim moved to -->
 
@@ -85,6 +85,6 @@ keeping is the coarser "greet one another warmly". This claim stands as a
 reading of the manuscript, which still argues only insufficiency. The record
 now holds a case the manuscript could cite.
 
-## Note of 2026-10-28: moved to [ARG-tmpcdbcg](../arguments.d/ARG-tmpcdbcg.md) and [ARG-tmpb1nnf](../arguments.d/ARG-tmpb1nnf.md)
+## Note of 2026-10-28: moved to [ARG-021](../arguments.d/ARG-021.md) and [ARG-020](../arguments.d/ARG-020.md)
 
-This claim is about support: what the manuscript's renderings show, and where the case against necessity lies. It moved to two arguments, both Rejected: [ARG-tmpcdbcg](../arguments.d/ARG-tmpcdbcg.md), from the manuscript's renderings to [CLAIM-486](CLAIM-486.md), which [CLAIM-229](CLAIM-229.md) judged the same way and which is filed once; and [ARG-tmpb1nnf](../arguments.d/ARG-tmpb1nnf.md), from the compensation hypothesis to [CLAIM-486](CLAIM-486.md), whose version 1 is this claim's and whose version 2 is [CLAIM-229](CLAIM-229.md)'s reply. The edge to [CLAIM-061](CLAIM-061.md) stays as the history of the concession. The text above is unchanged.
+This claim is about support: what the manuscript's renderings show, and where the case against necessity lies. It moved to two arguments, both Rejected: [ARG-021](../arguments.d/ARG-021.md), from the manuscript's renderings to [CLAIM-486](CLAIM-486.md), which [CLAIM-229](CLAIM-229.md) judged the same way and which is filed once; and [ARG-020](../arguments.d/ARG-020.md), from the compensation hypothesis to [CLAIM-486](CLAIM-486.md), whose version 1 is this claim's and whose version 2 is [CLAIM-229](CLAIM-229.md)'s reply. The edge to [CLAIM-061](CLAIM-061.md) stays as the history of the concession. The text above is unchanged.

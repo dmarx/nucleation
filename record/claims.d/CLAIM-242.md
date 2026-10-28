@@ -10,7 +10,7 @@ history:
   date: '2026-10-28'
   note: >-
     The edge objects_to CLAIM-254 is dropped: under ADR-061
-    CLAIM-254 moved to ARG-tmpt2gwf, the argument from CLAIM-082 and
+    CLAIM-254 moved to ARG-033, the argument from CLAIM-082 and
     THEORY-159 to CLAIM-115, and this reply is recorded in that
     argument's body. The claim is unchanged.
 role: thesis

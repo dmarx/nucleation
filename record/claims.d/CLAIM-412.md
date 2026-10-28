@@ -41,7 +41,7 @@ history:
   date: '2026-10-28'
   note: >-
     Split under ADR-061. The title's last clause was a verdict on support,
-    and it moved to ARG-tmp9owtg, Rejected. The title was: 'Experience is
+    and it moved to ARG-018, Rejected. The title was: 'Experience is
     constituted by interpretive organization, not produced by it: an
     appropriately organized process in which signals acquire significance
     for a system is the experience, so whether a system can have
@@ -99,7 +99,7 @@ grounds:
 <!-- inactive-ok-file: LIT-1343 LIT-1346 LIT-1348 LIT-1351 LIT-1353 LIT-1354 LIT-1355 LIT-1359 — Deferred; works registered unread, cited as such -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmp9owtg — Rejected; the argument this claim's support verdict moved to -->
+<!-- inactive-ok-file: ARG-018 — Rejected; the argument this claim's support verdict moved to -->
 # CLAIM-412: Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization
 
 ## The claim
@@ -386,7 +386,7 @@ defeater is not met.
 
 The title's last clause, that the illusions and reappraisals "show that
 experience is constructed, not that construction is experience", was a
-verdict on support. It is now [ARG-tmp9owtg](../arguments.d/ARG-tmp9owtg.md), from [THEORY-766](../theory.d/THEORY-766.md), [THEORY-056](../theory.d/THEORY-056.md),
+verdict on support. It is now [ARG-018](../arguments.d/ARG-018.md), from [THEORY-766](../theory.d/THEORY-766.md), [THEORY-056](../theory.d/THEORY-056.md),
 [THEORY-680](../theory.d/THEORY-680.md) and [THEORY-767](../theory.d/THEORY-767.md) to this claim, Rejected, with the readings of
 2026-10-22 and 2026-10-25 in its body. This claim keeps the constitution
 thesis and does not undercut that argument: what defeats it is the rival

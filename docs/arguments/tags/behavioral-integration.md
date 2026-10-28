@@ -6,8 +6,9 @@
 
 **Behavioral integration** — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+2 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-016](../../../record/arguments.d/ARG-016.md) | Valuations that do not cross, read through coordination dynamics, make flow a synchronization of interests | [CLAIM-162](../../../record/claims.d/CLAIM-162.md) calls flow intrapersonal synchronization: on [CLAIM-169](../../../record/claims.d/CLAIM-169.md)'s account of interests, an activity whose immediate and longer-run rewards coincide has no crossing curves, so nothing is overridden ([THEORY-070](../../../record/theory.d/THEORY-070.md)). The word comes from coordination dynamics ([THEORY-069](../../../record/theory.d/THEORY-069.md)), where synchronization has a coupling, an order parameter and transitions. Valuations that fail to cross have none of these, so the analogy carries the word and not the mechanism. Open, because candidate parts are named and none is measured. | Proposed |
+| [ARG-030](../../../record/arguments.d/ARG-030.md) | Low supervisory cost shows that an organization does not dominate its processes | The owner tied the non-domination criterion ([CLAIM-362](../../../record/claims.d/CLAIM-362.md)) to a saving in effort ([CLAIM-358](../../../record/claims.d/CLAIM-358.md)), so low supervisory cost reads as its mark. Processes conditioned never to object coordinate without override at the same cost, so the evidence is expected whether or not the organization dominates. A45: "low strain alone cannot establish authenticity: a dominated organization can be efficient." [CLAIM-364](../../../record/claims.d/CLAIM-364.md) undercuts it. | Proposed |

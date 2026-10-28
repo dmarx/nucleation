@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-28'
   note: >-
-    complements CLAIM-278 becomes undercuts ARG-tmpvyhbs: under
+    complements CLAIM-278 becomes undercuts ARG-036: under
     ADR-061 CLAIM-278 moved to that argument, from the lab's
     restricted models to CLAIM-286, and this claim, a claim about
     the subject matter, defeats it for one model class. The claim is
@@ -35,7 +35,7 @@ grounds:
 - CASE-162
 - THEORY-937
 undercuts:
-- ARG-tmpvyhbs
+- ARG-036
 summary: >-
   The prediction [CASE-158](../cases.d/CASE-158.md) states ("Under full information, governance
   should not beat it") and held by no claim, found in the audit of

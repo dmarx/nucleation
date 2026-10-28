@@ -6,8 +6,9 @@
 
 **Complex systems** — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts.
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+2 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-016](../../../record/arguments.d/ARG-016.md) | Valuations that do not cross, read through coordination dynamics, make flow a synchronization of interests | [CLAIM-162](../../../record/claims.d/CLAIM-162.md) calls flow intrapersonal synchronization: on [CLAIM-169](../../../record/claims.d/CLAIM-169.md)'s account of interests, an activity whose immediate and longer-run rewards coincide has no crossing curves, so nothing is overridden ([THEORY-070](../../../record/theory.d/THEORY-070.md)). The word comes from coordination dynamics ([THEORY-069](../../../record/theory.d/THEORY-069.md)), where synchronization has a coupling, an order parameter and transitions. Valuations that fail to cross have none of these, so the analogy carries the word and not the mechanism. Open, because candidate parts are named and none is measured. | Proposed |
+| [ARG-025](../../../record/arguments.d/ARG-025.md) | Matched ordinary behaviour and differing responses to intervention show that organizational perspectives explain what the record explained by self | [CLAIM-414](../../../record/claims.d/CLAIM-414.md) and the lab's runs show organizations with the same ordinary behaviour that respond differently to specified interventions. That is offered as evidence for [CLAIM-417](../../../record/claims.d/CLAIM-417.md), that organizational perspectives explain what the record explained by self. [CLAIM-417](../../../record/claims.d/CLAIM-417.md)'s defeater is that established accounts explain the same transitions as well with fewer assumptions, and only a model that out-predicts them at matched complexity bears on that. No premise does yet. It becomes Rejected if the owner accepts the grading. | Proposed |

@@ -2,7 +2,7 @@
 number: 200
 status: Superseded
 superseded_by:
-- ARG-tmp928rv
+- ARG-017
 formerly:
 - CLAIM-tmp0stxa
 title: "The procedure-level fidelity thesis's title says observational fidelity is not defined for a single rendering of a single item, which is more than it shows: one source–target pair does not identify the procedure-level score, and a single rendering can still be judged, as a sample of its procedure or by another measure stated as such, as its own body says"
@@ -11,7 +11,7 @@ history:
 - version: 2
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmp928rv under ADR-061: the claim says what CLAIM-228's
+    Moved to ARG-017 under ADR-061: the claim says what CLAIM-228's
     derivation does and does not show, which is a verdict on support. The
     argument, from CLAIM-207, CLAIM-011 and CLAIM-381 to CLAIM-228, is
     Active as to CLAIM-228's version 2 and records that the inference to
@@ -91,11 +91,11 @@ and leaves the derivation, the defeat condition and the body unchanged.
   fidelity". The claim was always scoped to observational fidelity as D_obs
   measures it; the overreach was the title's "not defined".
 
-## Note of 2026-10-28: moved to [ARG-tmp928rv](../arguments.d/ARG-tmp928rv.md)
+## Note of 2026-10-28: moved to [ARG-017](../arguments.d/ARG-017.md)
 
 This objection was about what [CLAIM-228](CLAIM-228.md)'s derivation shows: that one
 source–target pair does not identify the procedure-level score, and not
 that a single rendering lacks fidelity. Under [ADR-061](../decisions.d/ADR-061.md) that is the argument
-[ARG-tmp928rv](../arguments.d/ARG-tmp928rv.md), from [CLAIM-207](CLAIM-207.md), [CLAIM-011](CLAIM-011.md) and [CLAIM-381](CLAIM-381.md) to [CLAIM-228](CLAIM-228.md). It is
+[ARG-017](../arguments.d/ARG-017.md), from [CLAIM-207](CLAIM-207.md), [CLAIM-011](CLAIM-011.md) and [CLAIM-381](CLAIM-381.md) to [CLAIM-228](CLAIM-228.md). It is
 Active for the repaired title, and its body records that the inference to
 version 1's title failed, as this claim said.

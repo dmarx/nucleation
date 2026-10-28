@@ -6,8 +6,9 @@
 
 **Mathematics** — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields.
 
-1 of 10 ARG documents. Back to the [full index](../README.md).
+2 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [ARG-006](../../../record/arguments.d/ARG-006.md) | If the transport intertwines each framing operation exactly, it intertwines their commutator, so a translation that preserves the framing operations preserves their noncommutativity | A34 §4: from ΦA_o = A_tΦ and ΦB_o = B_tΦ, Φ[A_o,B_o] = [A_t,B_t]Φ follows algebraically. The algebra holds; the conclusion holds only of Φ's image unless Φ is informative (A40 §6.4). | Active |
+| [ARG-006](../../../record/arguments.d/ARG-006.md) v2 | If the transport intertwines each framing operation exactly, it intertwines their commutator, so a translation that preserves the framing operations preserves their noncommutativity | A34 §4: from ΦA_o = A_tΦ and ΦB_o = B_tΦ, Φ[A_o,B_o] = [A_t,B_t]Φ follows algebraically. The algebra holds; the conclusion holds only of Φ's image unless Φ is informative (A40 §6.4). | Active |
+| [ARG-022](../../../record/arguments.d/ARG-022.md) | The 2016 Contextuality-by-Default paper grounds the criterion the manuscript's general observational covers need | The manuscript cites Dzhafarov and Kujala 2016 for its contextuality criterion. The 2016 criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts, which the manuscript's general observational covers allow. Proposed, by the owner's ruling of 2026-10-27: the record holds that the change can bite, not that it does. | Proposed |

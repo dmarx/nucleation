@@ -6,8 +6,8 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-026](../../../record/arguments.d/ARG-026.md) | Judged pragmatic observables that predict human judgements of fidelity or shared kind better than text similarity support the central theses of the pragmatic-transport line | The four thesis-level defeat conditions of the line share one test, [CASE-184](../../../record/cases.d/CASE-184.md), and a pass on it was to support the theses. Rejected: two critical questions fail. Every rival account the record names also predicts a pass, so "surviving them would not tell the thesis from the functional and relevance-theoretic accounts"; and predictor and criterion share a method the baseline does not, so "the theory's measures can win by shared method variance alone". [CASE-055](../../../record/cases.d/CASE-055.md) is the repair. | Rejected |

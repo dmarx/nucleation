@@ -6,8 +6,9 @@
 
 **Cognition** — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+2 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-018](../../../record/arguments.d/ARG-018.md) | Illusions, reappraisal and interoceptive inference show that experience is constituted by interpretive organization | The owner's examples at U2 of the exchange of 2026-10-21, the rubber hand illusion and CBT, with interoceptive inference added by the record, offered as evidence that experience is constituted by interpretive organization. They are what a production account predicts too. A7's verdict, which [CLAIM-412](../../../record/claims.d/CLAIM-412.md) adopted: "These motivate interpretive construction. They do not, individually or collectively, prove interpretive constitution." | Rejected |
+| [ARG-035](../../../record/arguments.d/ARG-035.md) | Griffiths and Kalish's convergence theorem and Kirby, Cornish and Smith's chains show that serial transmission is filtered by the transmitters' inductive biases | The manuscript's §8 cites Griffiths and Kalish and Kirby, Cornish and Smith together as showing that transmission is filtered by inductive biases. They show different things. Kirby et al. measured no prior, and their structure appeared only under the experimenter's homonym filter; Griffiths and Kalish's convergence to the prior holds only for sampling learners. Proposed: the stable endpoint far from the ancestor survives for sampling learners, and whether people learn that way is [QUESTION-137](../../../record/questions.d/QUESTION-137.md). | Proposed |

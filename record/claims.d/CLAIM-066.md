@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmpvlysu under ADR-061, as an argument about
+    Moved to ARG-035 under ADR-061, as an argument about
     support; the claim's text below is unchanged.
 role: granted
 warrant: interpretive
@@ -20,7 +20,7 @@ tags:
 date: '2026-10-09'
 line: pragmatic-transport
 superseded_by:
-- ARG-tmpvlysu
+- ARG-035
 works:
 - what-survives-translation
 grounds:
@@ -34,7 +34,7 @@ summary: >-
 supports:
 - CLAIM-234
 ---
-<!-- inactive-ok-file: ARG-tmpvlysu — Proposed; the argument this claim moved to -->
+<!-- inactive-ok-file: ARG-035 — Proposed; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-090 — Proposed; the claim this objection was to, open -->
 <!-- inactive-ok-file: CLAIM-234 — Superseded; moved to an argument the same day, cited as the claim that rested on this one -->
 
@@ -66,6 +66,6 @@ Kalish, Griffiths and Lewandowsky ([LIT-820](../literature.d/LIT-820.md)) supply
 with a bias stated in advance that Kirby, Cornish and Smith lack. They still
 cannot tell sampling learners from MAP learners.
 
-## Note of 2026-10-28: moved to [ARG-tmpvlysu](../arguments.d/ARG-tmpvlysu.md)
+## Note of 2026-10-28: moved to [ARG-035](../arguments.d/ARG-035.md)
 
-This claim says what two sources show, and that the manuscript cites them as showing one thing. Its reading is already [THEORY-155](../theory.d/THEORY-155.md)'s, homonym filter and MAP case included, so nothing goes to a THEORY, and its objection moved to [ARG-tmpvlysu](../arguments.d/ARG-tmpvlysu.md), from [THEORY-155](../theory.d/THEORY-155.md) and [LIT-771](../literature.d/LIT-771.md) to [CLAIM-090](CLAIM-090.md), form source, Proposed. [CLAIM-234](CLAIM-234.md), the Active claim that rested on it, moved to an argument the same day, so [ADR-061](../decisions.d/ADR-061.md)'s split rule, applied after the moves, does not hold it. The text above is unchanged.
+This claim says what two sources show, and that the manuscript cites them as showing one thing. Its reading is already [THEORY-155](../theory.d/THEORY-155.md)'s, homonym filter and MAP case included, so nothing goes to a THEORY, and its objection moved to [ARG-035](../arguments.d/ARG-035.md), from [THEORY-155](../theory.d/THEORY-155.md) and [LIT-771](../literature.d/LIT-771.md) to [CLAIM-090](CLAIM-090.md), form source, Proposed. [CLAIM-234](CLAIM-234.md), the Active claim that rested on it, moved to an argument the same day, so [ADR-061](../decisions.d/ADR-061.md)'s split rule, applied after the moves, does not hold it. The text above is unchanged.

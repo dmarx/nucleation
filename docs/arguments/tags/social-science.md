@@ -6,8 +6,8 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-027](../../../record/arguments.d/ARG-027.md) | The record's iterated-learning readings show that pragmatic stances and footing are stabilized by transmission | [CLAIM-068](../../../record/claims.d/CLAIM-068.md) extends iterated learning "to speaker footing and communicative conventions". Rejected: the record's readings bear on lexical, structural and functional transmission, and none measures an interpersonal stance, a footing or a speech-act function along a chain. For evaluative stance [CASE-068](../../../record/cases.d/CASE-068.md) is chain evidence, a separate line not filed here; for footing there is still no study. | Rejected |

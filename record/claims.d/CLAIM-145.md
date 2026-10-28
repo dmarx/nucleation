@@ -11,7 +11,7 @@ history:
   note: >-
     Split under ADR-061, along the claim's own two halves. The circularity
     half, that agreement with TV Tropes labels cannot validate a
-    structural account, moved to ARG-tmp7u4e1, from CASE-038 to CLAIM-147,
+    structural account, moved to ARG-014, from CASE-038 to CLAIM-147,
     Rejected. The claim keeps the prior-art half, so it no longer objects
     to CLAIM-147 and no longer rests on CLAIM-011, which the argument's
     body cites. The title was: 'Trope analysis of this kind is Propp's and
@@ -44,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-147 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp the objection rests on, whose promote_when carries the circularity warning -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmp7u4e1 — Rejected; the argument this claim's circularity half moved to -->
+<!-- inactive-ok-file: ARG-014 — Rejected; the argument this claim's circularity half moved to -->
 
 # CLAIM-145: Trope analysis of the kind A155 proposes is Propp's and Lévi-Strauss's transformational analysis, whom the manuscript should cite as precursors
 
@@ -101,7 +101,7 @@ anywhere in the exchange.
 
 The claim had "Two halves". The circularity half is a verdict on support:
 a measure that predicts trope labels predicts editorial agreement, so the
-labels cannot validate [CLAIM-147](CLAIM-147.md). It is now [ARG-tmp7u4e1](../arguments.d/ARG-tmp7u4e1.md), from [CASE-038](../cases.d/CASE-038.md) to
+labels cannot validate [CLAIM-147](CLAIM-147.md). It is now [ARG-014](../arguments.d/ARG-014.md), from [CASE-038](../cases.d/CASE-038.md) to
 [CLAIM-147](CLAIM-147.md), Rejected, with [CLAIM-011](CLAIM-011.md)'s point and A178's control in its
 body. This claim keeps the prior-art half, which says [CLAIM-147](CLAIM-147.md)'s account
 is not new, not that it is false. So it no longer objects to [CLAIM-147](CLAIM-147.md),

@@ -23,7 +23,7 @@ history:
     central defeat tests are both human pragmatic judgements of the same
     renderings while the baseline is a machine score, so the theory's
     measures can win by shared method variance alone". The verdict on
-    support is now ARG-tmpgw7v8, from CASE-tmpu88go to CLAIM-115,
+    support is now ARG-026, from CASE-184 to CLAIM-115,
     CLAIM-139, CLAIM-005 and CLAIM-078, Rejected; this claim keeps what
     two human ratings share, and undercuts that argument in place of
     objecting to the theses. Its rests_on CLAIM-233 becomes complements,
@@ -38,7 +38,7 @@ line: pragmatic-transport
 grounds:
 - CASE-040
 undercuts:
-- ARG-tmpgw7v8
+- ARG-026
 complements:
 - CLAIM-233
 summary: >-
@@ -51,7 +51,7 @@ summary: >-
   [CLAIM-233](CLAIM-233.md), that the central tests are easy to pass. Open, because
   a design could answer it.
 ---
-<!-- inactive-ok-file: ARG-tmpgw7v8 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
+<!-- inactive-ok-file: ARG-026 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 
@@ -118,8 +118,8 @@ Any of these:
 ## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The old title ended in a verdict on support: the theory's measures "can
-win by shared method variance alone". That verdict is now [ARG-tmpgw7v8](../arguments.d/ARG-tmpgw7v8.md),
-from the central defeat test ([CASE-tmpu88go](../cases.d/CASE-tmpu88go.md)) to [CLAIM-115](CLAIM-115.md), [CLAIM-139](CLAIM-139.md),
+win by shared method variance alone". That verdict is now [ARG-026](../arguments.d/ARG-026.md),
+from the central defeat test ([CASE-184](../cases.d/CASE-184.md)) to [CLAIM-115](CLAIM-115.md), [CLAIM-139](CLAIM-139.md),
 [CLAIM-005](CLAIM-005.md) and [CLAIM-078](CLAIM-078.md), form evidence, Rejected, as its answer to "does
 the measure measure what it is said to?". This claim keeps the fact about
 the measurements, what two human ratings of one rendering share, and

@@ -6,8 +6,8 @@
 
 **Compositionality** — how the structure and meaning of a whole come from its parts and how they are combined — the principle of compositionality and compositional semantics, the emergence of compositional structure in languages under transmission, and composition and binding in learned models (generalization to unseen combinations, attribute binding, composing distributions or concepts). A work on making a model generalize compositionally is ML practice and goes to the anthology (ADR-031).
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-035](../../../record/arguments.d/ARG-035.md) | Griffiths and Kalish's convergence theorem and Kirby, Cornish and Smith's chains show that serial transmission is filtered by the transmitters' inductive biases | The manuscript's §8 cites Griffiths and Kalish and Kirby, Cornish and Smith together as showing that transmission is filtered by inductive biases. They show different things. Kirby et al. measured no prior, and their structure appeared only under the experimenter's homonym filter; Griffiths and Kalish's convergence to the prior holds only for sampling learners. Proposed: the stable endpoint far from the ancestor survives for sampling learners, and whether people learn that way is [QUESTION-137](../../../record/questions.d/QUESTION-137.md). | Proposed |

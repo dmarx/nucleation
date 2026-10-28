@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [28 Oct 05:19 — What accepting ADR-061 would change: of 65 claims classified as about support or a source, 30 move on a close reading, into 28 new ARGs](2026-10.md#what-accepting-adr-061-would-change-of-65-claims-classified-as-about-support-or-a-source-30-move-on-a-close-reading-into-28-new-args)
 - [28 Oct 03:11 — The fifth status review: four concessions written into their targets, five promotions, CLAIM-130 freed from a premise it did not need, and two readings that wait on a missing result or a missing book](2026-10.md#the-fifth-status-review-four-concessions-written-into-their-targets-five-promotions-claim-130-freed-from-a-premise-it-did-not-need-and-two-readings-that-wait-on-a-missing-result-or-a-missing-book)
 - [28 Oct 00:25 — The fourth status review: a sound argument its undercutters already narrowed, CLAIM-277 built and promoted, and 168 of 240 offered answers found to be bearing](2026-10.md#the-fourth-status-review-a-sound-argument-its-undercutters-already-narrowed-claim-277-built-and-promoted-and-168-of-240-offered-answers-found-to-be-bearing)
 - [27 Oct 23:38 — The owner's rulings on the third pass: CLAIM-069 and CLAIM-438 Proposed, answers split from bears_on (ADR-060), and what a status means for an ARG and a concession (ADR-059, Proposed)](2026-10.md#the-owners-rulings-on-the-third-pass-claim-069-and-claim-438-proposed-answers-split-from-bears_on-adr-060-and-what-a-status-means-for-an-arg-and-a-concession-adr-059-proposed)
@@ -102,8 +103,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-93 entries across 1 book, newest first.
+94 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 93 | 2026-10-07 | 2026-10-28 |
+| [2026-10](2026-10.md) | 94 | 2026-10-07 | 2026-10-28 |

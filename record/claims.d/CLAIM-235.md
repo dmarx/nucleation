@@ -18,7 +18,7 @@ history:
   note: >-
     Split under ADR-061. The verdict that the line's evidence for
     signalling being typical rests on biased plug-in estimates moved to
-    ARG-tmpwp2hn, from LIT-851 to CLAIM-125, Rejected, which this claim now
+    ARG-037, from LIT-851 to CLAIM-125, Rejected, which this claim now
     undercuts in place of objecting to CLAIM-125. The title was: 'The
     line's proposed quantities have no finite-data estimators, and its
     evidence that signalling is typical of language data rests on plug-in
@@ -40,7 +40,7 @@ objects_to:
 uses:
 - TERM-028
 undercuts:
-- ARG-tmpwp2hn
+- ARG-037
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (formal and
   empirical lenses); no turn of the exchange raises it. The plug-in
@@ -59,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-168 — Proposed; cited for the Lipschitz bound, the representation-dependence of CbD verdicts, task-loss comparison and the signalling identity, not as settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that makes deficiency computable, cited as open -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmpwp2hn — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
+<!-- inactive-ok-file: ARG-037 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-235: The line's proposed quantities have no finite-data estimators: plug-in signalling from one or a few occurrences per context is positive in expectation when the true marginals agree, so the contextual fraction is undefined on raw tables, and deficiency over text-valued renderings has no estimator
 
@@ -147,7 +147,7 @@ The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](
 
 The title's second half, that the line's evidence that signalling is
 typical "rests on plug-in estimates from one or a few occurrences", was a
-verdict on support. It is now [ARG-tmpwp2hn](../arguments.d/ARG-tmpwp2hn.md), from [LIT-851](../literature.d/LIT-851.md)'s counts to
+verdict on support. It is now [ARG-037](../arguments.d/ARG-037.md), from [LIT-851](../literature.d/LIT-851.md)'s counts to
 [CLAIM-125](CLAIM-125.md), Rejected, the version 1 inference [CLAIM-125](CLAIM-125.md)'s version 2 already
 gave up. This claim keeps the estimator result, which is about the subject
 matter, and undercuts that argument in place of objecting to [CLAIM-125](CLAIM-125.md).

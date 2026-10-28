@@ -14,7 +14,7 @@ history:
     similarity, which no rival account holds, so surviving them would not
     tell the thesis from the functional and relevance-theoretic accounts
     the record says it must be told apart from". The verdict on support
-    is now ARG-tmpgw7v8, from CASE-tmpu88go to CLAIM-115, CLAIM-139,
+    is now ARG-026, from CASE-184 to CLAIM-115, CLAIM-139,
     CLAIM-005 and CLAIM-078, Rejected; this claim keeps what the rival
     accounts predict, and undercuts that argument in place of objecting
     to the theses.
@@ -31,7 +31,7 @@ rests_on:
 grounds:
 - LIT-784
 undercuts:
-- ARG-tmpgw7v8
+- ARG-026
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (structure and
   empirical lenses); no turn of the exchange raises it. Every thesis-level
@@ -43,7 +43,7 @@ summary: >-
   not say the theses are false, only that their stated tests cannot
   separate them from the positions they claim to improve on.
 ---
-<!-- inactive-ok-file: ARG-tmpgw7v8 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
+<!-- inactive-ok-file: ARG-026 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-117 CLAIM-056 — Proposed; open, and cited as the distinctive claims whose own defeat conditions the thesis-level ones do not depend on -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier fidelity thesis whose body first noticed the weak baseline -->
@@ -127,8 +127,8 @@ and of [CLAIM-023](CLAIM-023.md).
 
 The old title ended in a verdict on support: "surviving them would not
 tell the thesis from the functional and relevance-theoretic accounts".
-That verdict is now [ARG-tmpgw7v8](../arguments.d/ARG-tmpgw7v8.md), from the central defeat test
-([CASE-tmpu88go](../cases.d/CASE-tmpu88go.md)) to [CLAIM-115](CLAIM-115.md), [CLAIM-139](CLAIM-139.md), [CLAIM-005](CLAIM-005.md) and [CLAIM-078](CLAIM-078.md), form
+That verdict is now [ARG-026](../arguments.d/ARG-026.md), from the central defeat test
+([CASE-184](../cases.d/CASE-184.md)) to [CLAIM-115](CLAIM-115.md), [CLAIM-139](CLAIM-139.md), [CLAIM-005](CLAIM-005.md) and [CLAIM-078](CLAIM-078.md), form
 evidence, Rejected, as its answer to "does it tell the hypothesis apart
 from its rivals?". This claim keeps what the rival accounts predict,
 which is about the subject matter, and undercuts that argument. [CLAIM-232](CLAIM-232.md)

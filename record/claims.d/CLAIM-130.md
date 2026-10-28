@@ -27,7 +27,7 @@ history:
   date: '2026-10-28'
   note: >-
     Split under ADR-061. The verdict on what a cue's effect is evidence
-    for moved to ARG-tmp1nrjx, from CASE-021 to CLAIM-151, Rejected, which
+    for moved to ARG-012, from CASE-021 to CLAIM-151, Rejected, which
     this claim now undercuts. The title was: 'Telling an interpreter about
     a communicative situation, do(I = a), is a different intervention from
     changing the situation, do(S = s), so the effect of a cue is evidence
@@ -62,7 +62,7 @@ uses:
 - TERM-030
 - TERM-038
 undercuts:
-- ARG-tmp1nrjx
+- ARG-012
 summary: >-
   The owner proposed Pearl's do() at U41, and A129 §1 drew the
   distinction. It recurs at A151, A191, A203, A214 and A218. [CLAIM-127](CLAIM-127.md) is
@@ -74,7 +74,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, cited beside this claim, not as premises -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmp1nrjx — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
+<!-- inactive-ok-file: ARG-012 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-130: Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s): only a do(S) intervenes on the relations that would constitute an act, and in a vignette or rating study every manipulation is a do(I)
 
@@ -200,7 +200,7 @@ settles, [QUESTION-296](../questions.d/QUESTION-296.md), and bears on what stays
 
 The title's second half, that "the effect of a cue is evidence about
 interpretation under instruction, not about whether the act changed", was
-a verdict on what a study can show. It is now [ARG-tmp1nrjx](../arguments.d/ARG-tmp1nrjx.md), from [CASE-021](../cases.d/CASE-021.md),
+a verdict on what a study can show. It is now [ARG-012](../arguments.d/ARG-012.md), from [CASE-021](../cases.d/CASE-021.md),
 the factorial study of attributed speakers, to [CLAIM-151](CLAIM-151.md), Rejected. This
 claim keeps the distinction between do(I) and do(S), which is about the
 subject matter, and it undercuts that argument.

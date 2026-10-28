@@ -2,7 +2,7 @@
 number: 427
 status: Superseded
 superseded_by:
-- ARG-tmpgr3fb
+- ARG-025
 formerly:
 - CLAIM-tmpcp1lb
 title: 'Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework''s defeater, and no grade counts if success is defined in the framework''s own terms'
@@ -45,7 +45,7 @@ history:
 - version: 5
   date: '2026-10-28'
   note: >-
-    Moved to ARG-tmpgr3fb under ADR-061: the claim is wholly about what
+    Moved to ARG-025 under ADR-061: the claim is wholly about what
     the evidence for the framework bears on, so it is the argument from
     CLAIM-414 and the lab's cases to CLAIM-417. Its work and its defeat
     condition are carried into the argument's body. The text below is
@@ -87,7 +87,7 @@ illustrated_by:
 - CASE-166
 ---
 <!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
-<!-- inactive-ok-file: ARG-tmpgr3fb CLAIM-417 — Proposed; the argument this claim moved to and its conclusion, open -->
+<!-- inactive-ok-file: ARG-025 CLAIM-417 — Proposed; the argument this claim moved to and its conclusion, open -->
 # CLAIM-427: Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms
 
 ## The claim
@@ -280,11 +280,11 @@ and v2.9's were (the note above), is not said. dmarx/PerspectiveLab holds
 no v2.10 or v2.11 (its latest import is c54617e, v2.9), so none of it is
 checked. The third grade is still unmet. The claim is unchanged.
 
-## Note of 2026-10-28: moved to [ARG-tmpgr3fb](../arguments.d/ARG-tmpgr3fb.md)
+## Note of 2026-10-28: moved to [ARG-025](../arguments.d/ARG-025.md)
 
 This claim is about evidential bearing: which findings would support
 [CLAIM-417](CLAIM-417.md) against its defeater. Under [ADR-061](../decisions.d/ADR-061.md) that is an argument, and it
-is now [ARG-tmpgr3fb](../arguments.d/ARG-tmpgr3fb.md), from [CLAIM-414](CLAIM-414.md), [CASE-161](../cases.d/CASE-161.md), [CASE-163](../cases.d/CASE-163.md), [CASE-164](../cases.d/CASE-164.md) and
+is now [ARG-025](../arguments.d/ARG-025.md), from [CLAIM-414](CLAIM-414.md), [CASE-161](../cases.d/CASE-161.md), [CASE-163](../cases.d/CASE-163.md), [CASE-164](../cases.d/CASE-164.md) and
 [CASE-166](../cases.d/CASE-166.md) to [CLAIM-417](CLAIM-417.md), form evidence, Proposed. The three grades answer
 the form's critical questions there, and the argument's body carries this
 claim's work and its defeat condition, which the argument scheme has no

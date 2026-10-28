@@ -16,7 +16,7 @@ history:
   date: '2026-10-28'
   note: >-
     Split under ADR-061. The verdict on the sufficiency tests moved
-    to ARG-tmp8gimi, from CASE-081 to CLAIM-284, which this claim
+    to ARG-015, from CASE-081 to CLAIM-284, which this claim
     now undercuts in place of objecting to CLAIM-284; CASE-081 moved
     to that argument's grounds. Version 2's title read: "A
     simulation whose operators each maximize an objective the
@@ -41,7 +41,7 @@ works:
 line:
 - distributed-agency
 undercuts:
-- ARG-tmp8gimi
+- ARG-015
 summary: >-
   The record's objection, raised by no one in the exchange. A2 gives each
   operator an objective J_i, its evaluation of the collective decision, and
@@ -59,7 +59,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, the reading this claim cites him for, open like the claim -->
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: ARG-tmp8gimi — Proposed; the argument this claim undercuts, split from it under ADR-061 -->
+<!-- inactive-ok-file: ARG-015 — Proposed; the argument this claim undercuts, split from it under ADR-061 -->
 
 # CLAIM-288: In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller's, not set by the organization itself
 
@@ -147,6 +147,6 @@ The claim held two things. That the norms of a population of fixed-objective
 maximizers are the modeller's is about the subject matter, and it stays here;
 [CLAIM-356](CLAIM-356.md) disputes exactly that clause. That such a simulation "cannot show
 self-constitution" is a verdict on the sufficiency tests as evidence for
-[CLAIM-284](CLAIM-284.md), and it moved to [ARG-tmp8gimi](../arguments.d/ARG-tmp8gimi.md), form evidence, Proposed, with
+[CLAIM-284](CLAIM-284.md), and it moved to [ARG-015](../arguments.d/ARG-015.md), form evidence, Proposed, with
 [CASE-081](../cases.d/CASE-081.md) as its premise. This claim undercuts that argument. The text above
 is otherwise unchanged.

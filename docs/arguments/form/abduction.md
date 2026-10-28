@@ -6,8 +6,8 @@
 
 **Best explanation** — this account explains the evidence better than its rivals. Critical questions: which rivals were considered? Does a rival explain as well? Would more evidence discriminate them?.
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-029](../../../record/arguments.d/ARG-029.md) | The operational account, kept as a rule of method, supports a realist kind that can outrun observation as the bearer of communicative identity | Between A203 and A218 the bearer of communicative identity moved from an equivalence class defined on observed responses to a structural kind that may be "real while remaining indistinguishable" under the probes. [CLAIM-142](../../../record/claims.d/CLAIM-142.md) names the step in one sentence, method kept and object changed. Proposed: no turn argues for the kind, and the exchange itself concedes that a traditional ontology "might reproduce the same statistical predictions". | Proposed |

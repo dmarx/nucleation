@@ -6,8 +6,8 @@
 
 **Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure, and what a project memory contributes — the record itself as the case.
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-028](../../../record/arguments.d/ARG-028.md) | Inbound references per code and turns per filed entry show which structures anchor and that drift falls as anchoring keeps up with arrival | The line's proposed measures, counted in the record, as evidence for its persistence and growth-rate theses. The question that is open is whether the measures measure what they are said to: they are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell. Proposed, because the dispute over what drift should be judged against is open. | Proposed |

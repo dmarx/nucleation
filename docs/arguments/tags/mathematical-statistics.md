@@ -6,8 +6,8 @@
 
 **Mathematical statistics** — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
 
-0 of 10 ARG documents. Back to the [full index](../README.md).
+1 of 39 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-037](../../../record/arguments.d/ARG-037.md) | The signalling counts read off Wang et al.'s appendix show that signalling is typical of language data | [CLAIM-125](../../../record/claims.d/CLAIM-125.md)'s version 1 read [LIT-851](../../../record/literature.d/LIT-851.md)'s appendix, "69 of the 90 systems signal", as showing that signalling is the typical case for language data and that an extension to signalling data is not optional. The counts are plug-in estimates from one or a few occurrences per context, which signal in expectation even when the true marginals agree. [CLAIM-235](../../../record/claims.d/CLAIM-235.md) undercuts the inference; [CLAIM-125](../../../record/claims.d/CLAIM-125.md)'s version 2 already re-grounded the point. | Rejected |
