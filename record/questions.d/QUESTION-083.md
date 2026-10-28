@@ -10,7 +10,7 @@ history:
   date: '2026-10-27'
   note: >-
     Narrowed under ADR-049 at the fourth status review. Its first part
-    is QUESTION-tmpl8ywi, Answered by CLAIM-277. This question keeps
+    is QUESTION-295, Answered by CLAIM-277. This question keeps
     niches and mutual regulation.
 tags:
 - self-governance
@@ -25,7 +25,7 @@ summary: >-
   model with no role primitives, and whether durable differentiated
   authority forms.
 refined_by:
-- QUESTION-tmpl8ywi
+- QUESTION-295
 - QUESTION-132
 - QUESTION-135
 bearing:
@@ -119,4 +119,4 @@ standing.
 
 ## Note of 2026-10-28: the first part split off
 
-The fourth status review split this question under [ADR-049](../decisions.d/ADR-049.md). Whether one update rule yields stable, differentiated authority without a role coded in, and whether it also entrenches, is [QUESTION-tmpl8ywi](QUESTION-tmpl8ywi.md), Answered by [CLAIM-277](../claims.d/CLAIM-277.md) on [CASE-tmpasrij](../cases.d/CASE-tmpasrij.md). This question keeps niches, rare-context competence and mutual regulation.
+The fourth status review split this question under [ADR-049](../decisions.d/ADR-049.md). Whether one update rule yields stable, differentiated authority without a role coded in, and whether it also entrenches, is [QUESTION-295](QUESTION-295.md), Answered by [CLAIM-277](../claims.d/CLAIM-277.md) on [CASE-182](../cases.d/CASE-182.md). This question keeps niches, rare-context competence and mutual regulation.

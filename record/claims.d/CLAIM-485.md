@@ -1,5 +1,8 @@
 ---
+number: 485
 status: Proposed
+formerly:
+- CLAIM-tmpwlrc2
 title: 'In the self-governing sense, what endogenous governance adds over a behaviourally equivalent system with an external scheduler is not that it allocates authority among its own processes but that it can revise its own governing standards when they break down'
 version: 1
 role: thesis
@@ -44,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-219 THEORY-071 CLAIM-284 CLAIM-288 — Proposed; the account this claim bridges from, the criterion it is tested against, the thesis it narrows and the objection about how it could be shown -->
 
-# CLAIM-tmpwlrc2: In the self-governing sense, what endogenous governance adds over a behaviourally equivalent system with an external scheduler is not that it allocates authority among its own processes but that it can revise its own governing standards when they break down
+# CLAIM-485: In the self-governing sense, what endogenous governance adds over a behaviourally equivalent system with an external scheduler is not that it allocates authority among its own processes but that it can revise its own governing standards when they break down
 
 ## The claim
 

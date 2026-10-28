@@ -1,5 +1,8 @@
 ---
+number: 182
 status: Active
+formerly:
+- CASE-tmpasrij
 title: 'Two operators under one update rule, endorsement moving toward observed outcomes: scored every round, the more accurate one holds the lead durably whatever the start; scored only when it acts, under sharp selection, whichever gained influence early keeps it'
 version: 1
 standing: fictional
@@ -26,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-277 — Proposed when this case was filed, and promoted on it -->
 
-# CASE-tmpasrij: Two operators under one update rule, endorsement moving toward observed outcomes: scored every round, the more accurate one holds the lead durably whatever the start; scored only when it acts, under sharp selection, whichever gained influence early keeps it
+# CASE-182: Two operators under one update rule, endorsement moving toward observed outcomes: scored every round, the more accurate one holds the lead durably whatever the start; scored only when it acts, under sharp selection, whichever gained influence early keeps it
 
 ## What happens
 

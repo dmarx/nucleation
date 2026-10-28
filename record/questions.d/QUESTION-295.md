@@ -1,5 +1,8 @@
 ---
+number: 295
 status: Answered
+formerly:
+- QUESTION-tmpl8ywi
 title: 'Can processes that share one update rule and differ only in parameters and history come to hold stable, differentiated authority without any governance role being coded in, and can the same rule entrench whatever gained influence early?'
 version: 1
 tags:
@@ -11,14 +14,14 @@ refines:
 - QUESTION-083
 summary: >-
   The first part of [QUESTION-083](QUESTION-083.md), split off by the fourth status review
-  under [ADR-049](../decisions.d/ADR-049.md), because [CLAIM-277](../claims.d/CLAIM-277.md), promoted on [CASE-tmpasrij](../cases.d/CASE-tmpasrij.md), settles it.
+  under [ADR-049](../decisions.d/ADR-049.md), because [CLAIM-277](../claims.d/CLAIM-277.md), promoted on [CASE-182](../cases.d/CASE-182.md), settles it.
   Yes to both: scored every round, the more accurate operator holds the
   lead durably, with durability set by the memory kernel. Scored only when
   it acts, under sharp selection, the early leader keeps its lead. Niches
   and mutual regulation stay with [QUESTION-083](QUESTION-083.md).
 ---
 
-# QUESTION-tmpl8ywi: Can processes that share one update rule and differ only in parameters and history come to hold stable, differentiated authority without any governance role being coded in, and can the same rule entrench whatever gained influence early?
+# QUESTION-295: Can processes that share one update rule and differ only in parameters and history come to hold stable, differentiated authority without any governance role being coded in, and can the same rule entrench whatever gained influence early?
 
 ## The question
 
@@ -29,7 +32,7 @@ does the endorsement rule that produces it also produce entrenchment?
 
 ## The answer
 
-[CLAIM-277](../claims.d/CLAIM-277.md), Active, on [CASE-tmpasrij](../cases.d/CASE-tmpasrij.md):
+[CLAIM-277](../claims.d/CLAIM-277.md), Active, on [CASE-182](../cases.d/CASE-182.md):
 
 - **Durable authority without a role coded in.** Under one endorsement
   rule, scored every round, the more accurate of two operators ends more

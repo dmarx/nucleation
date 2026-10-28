@@ -246,10 +246,17 @@ Everything not listed here is at Luria's default.
 | `chains.dialectic` | *6 keys set* | *unset* |
 | `chains.revisions` | *6 keys set* | *unset* |
 | `chains.term-revisions` | *6 keys set* | *unset* |
+| `patterns.inverted_premise` | *3 keys set* | *unset* |
+| `patterns.inverted_ground` | *3 keys set* | *unset* |
+| `patterns.answered_but_open` | *3 keys set* | *unset* |
+| `patterns.answered_but_open_reading` | *3 keys set* | *unset* |
 | `patterns.argued_from` | *2 keys set* | *unset* |
 | `stale_days` | `14` | `90` |
-| `lint.fail_on` | `workflow-temp-codes`, `source-mismatch` | *empty* |
+| `reliance` | `rests_on`, `grounds`, `uses`, `presupposes` | *empty* |
+| `load_bearing` | `5` | `None` |
+| `lint.fail_on` | `workflow-temp-codes`, `source-mismatch`, `inverted_premise`, `inverted_ground`, `answered_but_open`, `answered_but_open_reading` | *empty* |
 | `lint.mute` | `inert-status`, `acknowledged-uniformity` | *empty* |
+| `lint.baseline` | *1 key set* | *empty* |
 | `vocabularies.topics` | *4 keys set* | *unset* |
 | `vocabularies.lit-statuses` | *4 keys set* | *unset* |
 | `vocabularies.note-statuses` | *4 keys set* | *unset* |

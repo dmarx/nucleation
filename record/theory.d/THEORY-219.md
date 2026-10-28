@@ -40,7 +40,7 @@ summary: >-
   never measured; the line between settling a frame and selecting under an
   antecedent rule is not made precise.
 supports:
-- CLAIM-tmpwlrc2
+- CLAIM-485
 - CLAIM-288
 bears_on:
 - QUESTION-092

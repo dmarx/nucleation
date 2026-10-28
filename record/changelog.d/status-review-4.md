@@ -1,10 +1,10 @@
 ### Changed
 
 - Fourth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-28).
-- **[CLAIM-277](record/claims.d/CLAIM-277.md) promoted.** It is promoted on [CASE-tmpasrij](record/cases.d/CASE-tmpasrij.md), a construction
+- **[CLAIM-277](record/claims.d/CLAIM-277.md) promoted.** It is promoted on [CASE-182](record/cases.d/CASE-182.md), a construction
   of its two loops (scratch/formal/trust_loop.py). It now rests on
   [CLAIM-282](record/claims.d/CLAIM-282.md), as its body said. [QUESTION-083](record/questions.d/QUESTION-083.md) is split, and
-  [QUESTION-tmpl8ywi](record/questions.d/QUESTION-tmpl8ywi.md) is Answered.
+  [QUESTION-295](record/questions.d/QUESTION-295.md) is Answered.
 - **168 offered answers moved.** Of the 240 Proposed `answers` edges on
   Open questions, 168 move to `bears_on`. [ADR-060](record/decisions.d/ADR-060.md) version 2 covers offered
   part-answers.
@@ -22,6 +22,6 @@
   - [CLAIM-160](record/claims.d/CLAIM-160.md), [CLAIM-296](record/claims.d/CLAIM-296.md) and [THEORY-219](record/theory.d/THEORY-219.md) now bear on their questions rather
     than answering them. [CLAIM-160](record/claims.d/CLAIM-160.md) complements [CLAIM-204](record/claims.d/CLAIM-204.md), on intended
     meaning against the act.
-  - [CLAIM-tmpwlrc2](record/claims.d/CLAIM-tmpwlrc2.md) is filed as the bridge that answers [QUESTION-092](record/questions.d/QUESTION-092.md): what
+  - [CLAIM-485](record/claims.d/CLAIM-485.md) is filed as the bridge that answers [QUESTION-092](record/questions.d/QUESTION-092.md): what
     endogenous governance adds in the self-governing sense is revision of
     its own standards, not allocation of authority.

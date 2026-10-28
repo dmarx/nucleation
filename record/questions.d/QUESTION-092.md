@@ -17,7 +17,7 @@ summary: >-
   answers yes ([CLAIM-284](../claims.d/CLAIM-284.md)), and [CLAIM-116](../claims.d/CLAIM-116.md) warns that regulation, even
   of regulation, does not establish a will.
 answered_by:
-- CLAIM-tmpwlrc2
+- CLAIM-485
 - CLAIM-284
 bearing:
 - THEORY-219
@@ -51,7 +51,7 @@ to add.
 
 ## Note of 2026-10-28: answered, as offered
 
-[CLAIM-tmpwlrc2](../claims.d/CLAIM-tmpwlrc2.md) is the record's offered answer, filed at the owner's request
+[CLAIM-485](../claims.d/CLAIM-485.md) is the record's offered answer, filed at the owner's request
 as the bridge from [THEORY-219](../theory.d/THEORY-219.md) to sense 5. Endogenous allocation of authority
 adds nothing in sense 5. Endogenous revision of the governing standards
 adds the stronger sense, and the difference shows outside the regime in

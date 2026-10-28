@@ -55,7 +55,7 @@ summary: >-
 objected_by:
 - CLAIM-288
 complements:
-- CLAIM-tmpwlrc2
+- CLAIM-485
 - CLAIM-286
 - CLAIM-424
 illustrated_by:
@@ -167,7 +167,7 @@ them well."
 
 ## Note of 2026-10-28: narrowed by a bridge claim
 
-[CLAIM-tmpwlrc2](CLAIM-tmpwlrc2.md), filed at the owner's request, narrows what this claim's
+[CLAIM-485](CLAIM-485.md), filed at the owner's request, narrows what this claim's
 endogeneity contributes to the self-governing sense. It is the capacity to
 revise the governing standards, [CLAIM-025](CLAIM-025.md)'s third capacity and this claim's
 "conditions of its own transformation", and not the allocation of authority
