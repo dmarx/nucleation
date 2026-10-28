@@ -21,7 +21,6 @@ refined_by:
 - QUESTION-214
 ---
 <!-- inactive-ok-file: CLAIM-092 — listed as material that may bear on this question, not as settled -->
-<!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-003: For a family of communicative decisions, what is the minimum information rate at which a translation preserves decision performance within a tolerance?
 

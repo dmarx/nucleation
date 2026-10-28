@@ -60,7 +60,7 @@ objected_by:
 ---
 <!-- ref::uses-file: TERM-040 — the claim's subject, named in its title: a communicative kind in this term's sense -->
 <!-- ref::uses-file: TERM-043 — listed by the claim's author and not named in the body; whether the fidelity clause is stated in this sense was raised for the owner when the branch was reconciled with main on 2026-10-12 -->
-<!-- inactive-ok-file: CLAIM-139 CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-050 CLAIM-077 CLAIM-115 — Proposed; open, and cited as the thesis restated here and the premises it keeps, not as settled -->
+<!-- inactive-ok-file: CLAIM-139 CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-077 CLAIM-115 — Proposed; open, and cited as the thesis restated here and the premises it keeps, not as settled -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-223 — Proposed; the record's other replies of 2026-10-10, open, on which this restatement rests -->
 <!-- inactive-ok-file: CLAIM-244 CLAIM-206 — Proposed; objections this entry answers, left open until the owner decides on the revised theses -->
 <!-- inactive-ok-file: CLAIM-246 — Rejected; the objection on descent, cited as answered -->

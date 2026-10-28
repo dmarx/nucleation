@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpt75xe
 title: 'A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,11 @@ history:
     description, agency and legibility: A8 and A9 carried this claim's
     structure to individuation without citing it; filed as CLAIM-405.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    THEORY-162 moved from grounds to corroborated_by at the status
+    review of 2026-10-28 (ADR-058). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,6 +42,7 @@ grounds:
 - THEORY-220
 - THEORY-665
 - THEORY-625
+corroborated_by:
 - THEORY-162
 uses:
 - TERM-059
@@ -158,3 +164,11 @@ Further:
 A8 §9 and A9 §9 of the exchange of 2026-10-20 reached this claim's
 structure for individuation, without citing it ("Observer-relative need
 not mean subjective"). That is filed as [CLAIM-405](CLAIM-405.md).
+
+## Note of 2026-10-28: [THEORY-162](../theory.d/THEORY-162.md) corroborates
+
+The status review of this date moved [THEORY-162](../theory.d/THEORY-162.md) from grounds to
+corroborated_by ([ADR-058](../decisions.d/ADR-058.md)). It is one of four illustrations of the general
+form, beside [THEORY-220](../theory.d/THEORY-220.md), [THEORY-665](../theory.d/THEORY-665.md) and [THEORY-625](../theory.d/THEORY-625.md), and the claim does not
+stand on dynamic semantics; [THEORY-665](../theory.d/THEORY-665.md) already carries the point for
+speech acts.

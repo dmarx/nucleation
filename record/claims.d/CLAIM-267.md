@@ -56,7 +56,7 @@ supports:
 - CLAIM-191
 - CLAIM-059
 ---
-<!-- inactive-ok-file: CLAIM-056 CLAIM-068 CLAIM-106 CLAIM-191 QUESTION-017 — Proposed; cited for what each holds or applies, open, not settled -->
+<!-- inactive-ok-file: CLAIM-056 CLAIM-068 CLAIM-191 QUESTION-017 — Proposed; cited for what each holds or applies, open, not settled -->
 
 # CLAIM-267: Per-step discrepancies between a chain of maps and a reference chain compound through the sensitivity of the later steps, so the same local error can be damped, accumulated or amplified, and closeness at every step can coexist with large end-to-end divergence
 

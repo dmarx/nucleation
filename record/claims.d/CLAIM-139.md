@@ -63,7 +63,7 @@ objected_by:
 - CLAIM-216
 ---
 <!-- inactive-ok-file: CLAIM-133 CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-050 CLAIM-077 CLAIM-115 — Proposed; open, and cited as open: the premises and the manuscript's thesis are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-077 CLAIM-115 — Proposed; open, and cited as open: the premises and the manuscript's thesis are under test, not settled -->
 
 # CLAIM-139: A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist
 

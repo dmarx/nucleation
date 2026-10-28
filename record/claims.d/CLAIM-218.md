@@ -32,7 +32,6 @@ summary: >-
   realize it, not [CLAIM-106](CLAIM-106.md)'s truth, and it does not say a decision term
   is unworkable.
 ---
-<!-- inactive-ok-file: CLAIM-050 CLAIM-106 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-087 CLAIM-128 — Proposed; the improvement claim D_Q misreads and the claim that notes D_causal's correspondence, cited as open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's order D_Q is compared with, not as settled -->
 

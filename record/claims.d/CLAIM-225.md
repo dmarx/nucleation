@@ -53,7 +53,6 @@ rests_on:
 supports:
 - CLAIM-087
 ---
-<!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-087 CLAIM-081 CLAIM-076 — Proposed; the improvement, legibility and cross-modal claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for its receiver and its defeat condition, open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->

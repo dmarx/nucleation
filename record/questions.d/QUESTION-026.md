@@ -22,7 +22,6 @@ summary: >-
 <!-- inactive-ok-file: THEORY-017 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited as the open account this question joins -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; cited as the preservation result a construction would extend, not as settled -->
-<!-- inactive-ok-file: CLAIM-061 — Proposed; cited as the open claim that makes the second half of the question matter -->
 
 # QUESTION-026: Does categorical compositional semantics constrain transport between context-indexed empirical models, so that how a whole utterance's observables are carried is fixed by how its parts' are, and does the constraint reach past propositional content?
 

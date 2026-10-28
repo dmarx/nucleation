@@ -89,3 +89,12 @@ routes the prompt names.
 - **That Ainslie's mechanism is true.** The claim is about how his
   account individuates interests, and it inherits the account's untested
   standing.
+
+## Note of 2026-10-28: status review
+
+Kept Proposed. This is the record's reading of how [THEORY-067](../theory.d/THEORY-067.md) individuates
+interests, and its one ground, [THEORY-067](../theory.d/THEORY-067.md), is Proposed: its mechanism,
+bundling by self-prediction, is untested. The claim goes Active when
+[THEORY-067](../theory.d/THEORY-067.md) does. A narrower claim about what the précis says would not
+need that, but the dependents that rest on this one need the mechanism,
+so narrowing would free nothing downstream.

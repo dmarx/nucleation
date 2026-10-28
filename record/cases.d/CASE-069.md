@@ -29,7 +29,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-138 — Proposed; the claims this case supports, open -->
 <!-- inactive-ok-file: CLAIM-221 — Proposed; the objection to CLAIM-151 this case bears on, open -->
-<!-- inactive-ok-file: CLAIM-130 CLAIM-136 — Proposed; cited for the do(S)/do(I) distinction and as the thesis CLAIM-138 presses, not as settled -->
+<!-- inactive-ok-file: CLAIM-136 — Proposed; cited for the do(S)/do(I) distinction and as the thesis CLAIM-138 presses, not as settled -->
 
 # CASE-069: Labov's recorded sounding sessions: ritual insult turning personal, with the same exchange shape and a different act
 

@@ -26,7 +26,6 @@ supports:
 - CLAIM-091
 ---
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as the claim this case is filed for, not as settled -->
-<!-- inactive-ok-file: CLAIM-061 — Proposed; open, cited for the necessity half the case bears on only weakly -->
 
 # CASE-066: Dolly's slip into ты in Anna Karenina I.4, and three English translations that carry it three ways
 

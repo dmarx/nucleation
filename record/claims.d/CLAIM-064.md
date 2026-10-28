@@ -27,7 +27,7 @@ summary: >-
   apparently inadvertently, never refuted.
 ---
 <!-- ref::uses-file: TERM-030 — the situation of saying is TERM-030's configuration of the communicative situation; until 2026-10-27 it used TERM-035, now Superseded -->
-<!-- inactive-ok-file: CLAIM-061 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-064: A translation reconstructs not only what is said but the situation of its saying

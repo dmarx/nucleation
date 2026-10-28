@@ -36,12 +36,11 @@ summary: >-
   the dynamic view: meaning as context-change potential. It does not
   say that truth conditions are irrelevant, since each framework
   recovers them, or that the three formalisms agree with each other.
-supports:
+corroborates:
 - CLAIM-061
 - CLAIM-363
 ---
 <!-- inactive-ok-file: LIT-811 — Unavailable, no lawful full text; Stalnaker's "Assertion", named as the common origin -->
-<!-- inactive-ok-file: CLAIM-061 — Proposed; open, cited as the manuscript claim this bears on -->
 
 # THEORY-162: What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about
 
@@ -104,3 +103,16 @@ falls short.
 - **Not a measurement.** No source gives an observable or an experiment
   that separates the effects. The evidence is intuitive judgement and
   formal construction.
+
+## Note of 2026-10-28: what holds it back
+
+The status review of this date keeps this reading Proposed ([ADR-057](../decisions.d/ADR-057.md)). The
+three readings are full reads ([NOTE-608](../notes.d/NOTE-608.md), [NOTE-617](../notes.d/NOTE-617.md), [NOTE-602](../notes.d/NOTE-602.md)), but
+`promote_when` asks for a developed static rival, read and checked against
+the marble and spouse, "might"-order and declaration and assertion
+contrasts. None is held. The first candidate is Mandelkern, *Bounded
+Meaning* (2024), its chapters on anaphora and modality, or else Elbourne
+(2005). Neither has an open copy, so this waits on a copy from the owner.
+
+[CLAIM-061](../claims.d/CLAIM-061.md) now cites this reading as corroboration, not as a ground, since
+applying it to translation "is a further step these sources do not take".

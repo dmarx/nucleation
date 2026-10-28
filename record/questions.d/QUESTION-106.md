@@ -17,7 +17,7 @@ summary: >-
   instead of two renderings. Its example obligation is the record's own: describing
   a rejected claim without endorsing it.
 ---
-<!-- inactive-ok-file: CLAIM-029 CLAIM-050 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-029 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-106: Can a textual instruction, a retrieved structured record and an activation intervention preserve the same pragmatic obligations across context shifts, judged on the decisions that matter and not on outputs or embeddings?
 

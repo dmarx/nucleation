@@ -21,7 +21,7 @@ summary: >-
   relations make a difference to valence that the record of wins cannot
   see.
 ---
-<!-- inactive-ok-file: CLAIM-027 CLAIM-440 CLAIM-156 — Proposed; the thesis whose reduction this asks about, the account it asks of, and the mindfulness claim, cited as open -->
+<!-- inactive-ok-file: CLAIM-440 CLAIM-156 — Proposed; the thesis whose reduction this asks about, the account it asks of, and the mindfulness claim, cited as open -->
 
 # QUESTION-269: Does the potential account of valence need the will-organization's other relations, accessibility, jurisdiction, suspension and transformation, beside the priority, persistence and resumption it reads off which side wins, and does a system's valence change when one of them changes and the record of wins does not?
 

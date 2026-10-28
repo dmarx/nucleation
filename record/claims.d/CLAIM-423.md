@@ -48,7 +48,7 @@ complements:
 - CLAIM-445
 ---
 <!-- inactive-ok-file: LIT-1375 — Unavailable; works registered unread, or entries set aside, cited as such -->
-<!-- inactive-ok-file: CLAIM-027 CLAIM-327 CLAIM-331 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-327 CLAIM-331 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-423: In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
 

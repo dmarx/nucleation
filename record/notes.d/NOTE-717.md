@@ -37,7 +37,7 @@ summary: >-
   whenever she acts for the sender. The paper never cites Blackwell, does
   not analyse manipulation, and has the receiver know the design.
 ---
-<!-- inactive-ok-file: CLAIM-050 CLAIM-199 — Proposed; the Blackwell-line claims this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-199 — Proposed; the Blackwell-line claims this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; the present-structure account QUESTION-071 holds, cited as open -->
 
 # NOTE-717: Kamenica & Gentzkow — Bayesian Persuasion

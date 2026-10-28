@@ -30,7 +30,7 @@ summary: >-
   that states the normative part; they are not held in the record.
 ---
 <!-- inactive-ok-file: CLAIM-250 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-050 — Proposed; open, cited for the manuscript's wording and for the family Q, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 — Proposed; open, cited for the manuscript's wording and for the family Q, not as settled -->
 <!-- inactive-ok-file: CLAIM-220 — Proposed; the record's revised thesis of 2026-10-10, open, which this disclaimer bounds -->
 <!-- inactive-ok-file: CLAIM-189 CLAIM-191 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

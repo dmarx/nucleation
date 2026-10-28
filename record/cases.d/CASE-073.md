@@ -28,7 +28,7 @@ summary: >-
   [CASE-064](CASE-064.md), illustrating [CLAIM-224](../claims.d/CLAIM-224.md).
 ---
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the objection this case illustrates, and the intention-based objection whose reply it tests, open -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-130 — Proposed; the thesis the objection is to, and the do(S)/do(I) distinction, cited as open -->
+<!-- inactive-ok-file: CLAIM-151 — Proposed; the thesis the objection is to, and the do(S)/do(I) distinction, cited as open -->
 
 # CASE-073: The Kia Provo: one concept-car name, a blank coinage to the motor press and taken as honouring the IRA in Northern Ireland
 
