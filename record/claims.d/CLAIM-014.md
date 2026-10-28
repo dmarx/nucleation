@@ -24,7 +24,7 @@ summary: >-
   priority list (ninth) and is absent from the manuscript and the
   record.
 ---
-<!-- inactive-ok-file: CLAIM-050 CLAIM-054 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-054 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-014: Krifka's performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them
 

@@ -40,7 +40,7 @@ summary: >-
   "one rendering is a garbling of another", is then not well typed. It
   does not say a design-based state is illegitimate.
 ---
-<!-- inactive-ok-file: CLAIM-050 CLAIM-126 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-126 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of task-loss comparison, not as settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that meets this objection, cited as open -->
 

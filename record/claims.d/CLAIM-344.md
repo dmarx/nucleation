@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp0wvwc
 title: 'Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    THEORY-067 moved from grounds to corroborated_by at the status
+    review of 2026-10-28 (ADR-058). The claim is not a rival mechanism
+    to Ainslie's and does not stand on it; it cites the reading's
+    over-control prediction as evidence for the revision condition.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,8 +39,9 @@ rests_on:
 - CLAIM-331
 - CLAIM-099
 grounds:
-- THEORY-067
 - THEORY-688
+corroborated_by:
+- THEORY-067
 summary: >-
   The owner's frame, U37 of the exchange of 2026-10-17: "I think emergence
   of "resolve" could be an interesting frame within which to examine our

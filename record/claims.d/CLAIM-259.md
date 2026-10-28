@@ -44,7 +44,6 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-028 — applied unnamed: the decision term is inferential sufficiency, risk on the same decision problem -->
 <!-- ref::uses-file: TERM-043 — applied unnamed: the restated D_dec is the decision component of the profile -->
-<!-- inactive-ok-file: CLAIM-050 CLAIM-106 — Proposed; the Blackwell thesis and the directed-fidelity thesis this measure serves, cited as open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's theorem the derivation uses, not as settled -->
 <!-- inactive-ok-file: CLAIM-212 — Proposed; the report/re-performance distinction, cited as open -->
 <!-- inactive-ok-file: CLAIM-258 — Proposed; open, cited for its worked case -->

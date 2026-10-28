@@ -27,7 +27,7 @@ summary: >-
   [CASE-064](CASE-064.md), illustrating [CLAIM-224](../claims.d/CLAIM-224.md) without translation.
 ---
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the objection this case illustrates, and the intention-based objection whose reply it meets, open -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-130 CLAIM-145 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, and the objection on TV Tropes labels, cited as open -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-145 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, and the objection on TV Tropes labels, cited as open -->
 
 # CASE-061: Wonder-working power: one hymn phrase in a national address, heard as faith by those who sing it and as boilerplate by others
 

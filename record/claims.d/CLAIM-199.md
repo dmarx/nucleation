@@ -60,7 +60,7 @@ illustrated_by:
 supports:
 - CLAIM-450
 ---
-<!-- inactive-ok-file: CLAIM-050 CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
+<!-- inactive-ok-file: CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-076 — Proposed; the manuscript's thesis and the blind-captioner design, cited as open -->
 

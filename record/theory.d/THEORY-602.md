@@ -24,7 +24,6 @@ supports:
 ---
 
 <!-- inactive-ok-file: LIT-317 — Unavailable; named for what it adds to this paper, not leaned on -->
-<!-- inactive-ok-file: CLAIM-050 — Proposed; named as what draws on this paper, nothing here rests on them -->
 
 # THEORY-602: An ergodic source's entropy is the least average rate at which it can be encoded, a noisy channel has a capacity below which any rate can be sent with arbitrarily small error and above which the equivocation cannot fall below the excess, and a source can be reproduced at a given fidelity over a channel exactly when its rate for that fidelity does not exceed the capacity; Shannon rests the justification of entropy on these theorems, not on the axioms that single out −Σ p log p
 

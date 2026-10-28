@@ -29,7 +29,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-767 — Unavailable; cited as the classical Wyner–Ziv result this paper builds on -->
-<!-- inactive-ok-file: CLAIM-050 — Proposed; named as a manuscript claim this reading bears on -->
 
 # NOTE-605: Rate-Distortion-Perception Theory for Semantic Communication
 

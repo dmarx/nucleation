@@ -27,7 +27,6 @@ summary: >-
   observables to be normative.
 ---
 <!-- inactive-ok-file: CLAIM-020 — Rejected; answered or abandoned, and cited as the history this entry answers -->
-<!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-051: Fidelity is always fidelity with respect to some selected structure: a specified family of communicative observations, interventions and permitted continuations
 

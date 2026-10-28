@@ -33,7 +33,7 @@ answers:
 - QUESTION-293
 ---
 <!-- inactive-ok-file: CLAIM-098 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-106 CLAIM-059 — Proposed; the graded-fidelity and regimes claims, cited as open -->
+<!-- inactive-ok-file: CLAIM-059 — Proposed; the graded-fidelity and regimes claims, cited as open -->
 
 # CLAIM-260: Approximate transports compose into a category only if the distortion obeys a triangle inequality and later kernels are nonexpansive, so the semigroup claim's "category or semigroup" holds for exact kernels, and for approximate ones only under those conditions
 

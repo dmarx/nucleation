@@ -36,7 +36,6 @@ summary: >-
   as Makelov et al. specify, recovers the full effect. Its own GPT-2
   experiments agree that MLP8 carries almost no name-position information.
 ---
-<!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this reading is set beside, open -->
 
 # NOTE-809: Wu et al. — a reply to Makelov et al.'s interpretability illusion arguments
 

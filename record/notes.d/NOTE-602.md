@@ -28,7 +28,7 @@ summary: >-
   not tested.
 ---
 <!-- inactive-ok-file: THEORY-162 — Proposed; filed from this reading with two others -->
-<!-- inactive-ok-file: CLAIM-054 CLAIM-061 CLAIM-014 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-054 CLAIM-014 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # NOTE-602: Performative updates
 

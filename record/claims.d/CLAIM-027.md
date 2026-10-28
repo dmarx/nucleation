@@ -1,10 +1,10 @@
 ---
 number: 27
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp8swu5
-title: 'Which of an agent''s available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes'
-version: 3
+title: 'Which of an agent''s available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them'
+version: 4
 history:
 - version: 2
   date: '2026-10-05'
@@ -22,6 +22,15 @@ history:
     six relations as its target and proposes an adequacy criterion for
     descriptions of them (CLAIM-407, CLAIM-409). The claim is
     unchanged.
+- version: 4
+  date: '2026-10-28'
+  note: >-
+    Narrowed at the status review of 2026-10-28 to state its concession
+    to CLAIM-021: the relations decide efficacy whatever mechanisms
+    realize them, and the claim is not that those mechanisms are new.
+    The explanatory gain the paper stakes on the account is now
+    CLAIM-487, and CLAIM-024 objects to that. Promoted, the
+    owner ruling on the PR of this review.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,17 +58,16 @@ argued_by:
 - ARG-009
 objected_by:
 - CLAIM-010
-- CLAIM-024
 - CLAIM-089
 illustrated_by:
 - CASE-023
 - CASE-135
 summary: >-
-  The paper's central thesis. Proposed, not Active: the audit called it
-  the strongest original contribution and also the one still owing a
-  comparison with planning, executive control and institutional decision
-  procedures. It is the main claim of the work while not yet believed
-  outright — credence and inclusion disagree, as they may.
+  The paper's central thesis, Active since the status review of
+  2026-10-28. The audit called it the strongest original contribution.
+  The comparison with planning, executive control and institutional
+  decision procedures it owed is now owed by [CLAIM-487](CLAIM-487.md), the gain
+  claim, which stays Proposed.
 supersedes:
 - CLAIM-012
 supports:
@@ -76,13 +84,13 @@ complements:
 ---
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->
-<!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-487 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-159 — Proposed; the partial reply to CLAIM-024 the status review of 2026-10-27 names, open -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; answered on 2026-10-27, cited as the history of this claim's objections -->
 <!-- inactive-ok-file: CLAIM-296 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
-# CLAIM-027: Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes
+# CLAIM-027: Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them
 
 ## The claim
 
@@ -176,3 +184,26 @@ objections, one is answered and one still holds it back:
   drive profile changes, and not about who drives. The comparison with
   planning theory and with institutional theory is still not made, and that
   is the missing result.
+
+## Note of 2026-10-28: narrowed and promoted
+
+The status review of this date narrowed the title to state the concession
+[CLAIM-021](CLAIM-021.md) already made ("whatever mechanisms realize them"), and moved the
+explanatory-gain claim to [CLAIM-487](CLAIM-487.md), which [CLAIM-024](CLAIM-024.md) now objects to.
+Its premises, [CLAIM-047](CLAIM-047.md) and [CLAIM-080](CLAIM-080.md), are Active, and no live objection
+remains.
+
+It was first kept Proposed because both lines that argue for it are
+Proposed inferences, and its defeater is the test neither has run. [ARG-005](../arguments.d/ARG-005.md) covers
+precedence and accessibility only. [ARG-009](../arguments.d/ARG-009.md) carries jurisdiction and
+suspension alone, holds the agent's attitudes fixed by stipulation in a
+fictional case, and leaves its own critical question unanswered: "Does
+changing R change anything else?" That is this claim's defeated_if,
+"holding the competing regimes fixed".
+
+The owner promoted it on the same review ([ADR-057](../decisions.d/ADR-057.md)'s fourth condition): its
+premises are Active, no live objection stands, and nothing in the record
+meets its defeated_if. The two arguments stay Proposed. Their unanswered
+critical questions are what would demote this claim, so an intervention
+that holds the regimes fixed and changes R with nothing else changing is
+the test the record most owes it.

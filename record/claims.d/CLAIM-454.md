@@ -57,7 +57,7 @@ summary: >-
   ever one feature's carriers. It says the allocation underdetermines the
   perspective.
 ---
-<!-- inactive-ok-file: CLAIM-135 TERM-072 TERM-074 CLAIM-027 CLAIM-418 CLAIM-427 CLAIM-367 — Proposed; the claims and terms this one rests on or uses, held open, and it is Proposed with them -->
+<!-- inactive-ok-file: CLAIM-135 TERM-072 TERM-074 CLAIM-418 CLAIM-427 CLAIM-367 — Proposed; the claims and terms this one rests on or uses, held open, and it is Proposed with them -->
 <!-- inactive-ok-file: CASE-165 CASE-166 — Proposed; the cases filed with this claim from the same exchange -->
 <!-- inactive-ok-file: THEORY-1011 THEORY-1014 — Proposed; circuits readings cited as hypotheses, not leaned on -->
 

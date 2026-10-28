@@ -29,7 +29,7 @@ summary: >-
   generalizes beyond desires: the audit's "established foundation".
 ---
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- inactive-ok-file: CLAIM-027 THEORY-120 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-120 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-047: Possessing an action-generating regime is not the same as its being practically effective
 

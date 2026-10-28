@@ -27,7 +27,7 @@ illustrates:
 - CLAIM-261
 ---
 <!-- inactive-ok-file: CLAIM-122 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: ARG-005 CLAIM-027 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: ARG-005 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CASE-013: The reluctant writer
 

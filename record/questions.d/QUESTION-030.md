@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpwa1vj
 title: 'Which interventions tell the relations that constitute a communicative act from those that only accompany or diagnose it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-049 at the status review of 2026-10-28. Whether an
+    intervention on what the interpreter is told can tell constitutive
+    relations apart is QUESTION-296, Answered by CLAIM-130. This
+    question keeps which interventions on the situation itself do, and
+    the conceptual half.
 tags:
 - causality
 - social-ontology
@@ -18,14 +27,14 @@ summary: >-
   relations predict responses to independently specified interventions,
   and a conceptual half, which of those are constitutive. A218 concedes
   that causal tests do not settle the second.
-answered_by:
-- CLAIM-130
 refined_by:
 - QUESTION-073
 - QUESTION-200
+- QUESTION-296
+bearing:
+- CLAIM-130
 ---
 <!-- inactive-ok-file: LIT-485 — Unavailable; registered unread, named as the account of constitutive rules that bears on the conceptual half -->
-<!-- inactive-ok-file: CLAIM-130 — Proposed; a partial answer, cited as open -->
 <!-- inactive-ok-file: THEORY-287 — Proposed; readings filed today that bear on each half, cited with their limits, not as settled -->
 
 # QUESTION-030: Which interventions tell the relations that constitute a communicative act from those that only accompany or diagnose it?
@@ -95,3 +104,14 @@ None of these speaks of constitution; each bears on one half.
   fixed only relative to a chosen decomposition into units. The tests
   alone do not supply that choice. Shown exactly for one constructed
   network.
+
+## Note of 2026-10-28: the instruction part split off
+
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md).
+[CLAIM-130](../claims.d/CLAIM-130.md), now Active, settles one part of the empirical half: an
+intervention on what the interpreter is told, do(I), cannot by itself
+tell constitutive relations apart, since it acts on a different variable
+from the situation. That part is [QUESTION-296](QUESTION-296.md), Answered. This
+question keeps what is still open: which interventions on the situation
+itself, do(S), do tell them apart, and the conceptual half, which needs a
+theory of the act. The title already asked only that, so it is unchanged.

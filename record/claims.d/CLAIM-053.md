@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpf2wmc
 title: 'The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Now also objects to CLAIM-486, the necessity half CLAIM-061
+    carried until the status review of 2026-10-28 narrowed it to
+    sufficiency. The edge to CLAIM-061 stays as the history of the
+    concession. The claim is unchanged.
 role: granted
 warrant: interpretive
 tags:
@@ -14,6 +22,7 @@ date: '2026-10-08'
 line: pragmatic-transport
 objects_to:
 - CLAIM-061
+- CLAIM-486
 summary: >-
   The crystallized argument §1 said "not sufficient"; the manuscript §1
   says "neither necessary nor sufficient". Its own example shows only
@@ -22,7 +31,7 @@ summary: >-
 supports:
 - CLAIM-229
 ---
-<!-- inactive-ok-file: CLAIM-061 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-053: The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out
 

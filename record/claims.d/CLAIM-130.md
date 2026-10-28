@@ -1,10 +1,10 @@
 ---
 number: 130
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp2i7yj
 title: 'Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,6 +12,17 @@ history:
     THEORY-419 now states, from the skim of LIT-894, the surgery
     this claim relies on: do() replaces a variable's own equation and
     leaves the rest. It is added to the grounds. The claim is unchanged.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    Promoted to Active at the status review of 2026-10-28 (ADR-057). Its
+    grounds, THEORY-419 and THEORY-138, are Active; nothing objects to
+    it; nothing in the record meets its defeated_if. CLAIM-127 moves
+    from rests_on to complements only: this claim needs that do(I) and
+    do(S) act on different variables, which Pearl and Woodward ground
+    directly, not CLAIM-127's open proposal to index the empirical
+    model by intervention. It now answers QUESTION-296, split from
+    QUESTION-030, whose remaining halves it bears on.
 
 role: thesis
 warrant: interpretive
@@ -27,9 +38,9 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 answers:
+- QUESTION-296
+bears_on:
 - QUESTION-030
-rests_on:
-- CLAIM-127
 grounds:
 - LIT-894
 - THEORY-138
@@ -49,7 +60,7 @@ summary: >-
   study every manipulation is a do(I).
 ---
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
-<!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, cited beside this claim, not as premises -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->
 
 # CLAIM-130: Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed
@@ -157,3 +168,17 @@ distribution can reproduce the output effect of changing a variable without
 localizing it, through a direction that cannot reach the output on the data.
 So a do(S) can create the very relation it is meant to detect, unless S is
 set to values S can actually take. It does not bear on do(I).
+
+## Note of 2026-10-28: promoted
+
+The status review of this date promoted this claim ([ADR-057](../decisions.d/ADR-057.md)). It was held
+back by one premise, [CLAIM-127](CLAIM-127.md), which is still Proposed. But what this
+claim needs from [CLAIM-127](CLAIM-127.md) is only that the three operations differ, and
+that is Pearl's surgery ([THEORY-419](../theory.d/THEORY-419.md)) and Woodward's account of an
+intervention ([THEORY-138](../theory.d/THEORY-138.md)), both Active. [CLAIM-127](CLAIM-127.md)'s open content is a
+proposal about the formalism, that an intervention should index the
+empirical model rather than enter its cover. This claim does not need
+that, so [CLAIM-127](CLAIM-127.md) is a complement here, not a premise.
+
+[QUESTION-030](../questions.d/QUESTION-030.md) was split under [ADR-049](../decisions.d/ADR-049.md). This claim answers the part it
+settles, [QUESTION-296](../questions.d/QUESTION-296.md), and bears on what stays open.

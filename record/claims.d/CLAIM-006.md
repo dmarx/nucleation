@@ -33,7 +33,7 @@ supports:
 - ARG-004
 ---
 <!-- ref::uses-file: TERM-029 — stated in "frame, as the position a rendering is delivered from", the definition current when this claim was written; it has since been superseded -->
-<!-- inactive-ok-file: CLAIM-004 CLAIM-061 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-005 TERM-029 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-006: What fundamentally distinguishes variations of a translation is the frame from which it is delivered

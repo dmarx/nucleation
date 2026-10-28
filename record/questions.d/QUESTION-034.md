@@ -34,7 +34,7 @@ bearing:
 - CLAIM-198
 - CLAIM-169
 ---
-<!-- inactive-ok-file: CLAIM-027 CLAIM-156 CLAIM-162 CLAIM-163 CLAIM-169 — Proposed; the proposed answers and the open objection, cited as open -->
+<!-- inactive-ok-file: CLAIM-156 CLAIM-162 CLAIM-163 CLAIM-169 — Proposed; the proposed answers and the open objection, cited as open -->
 <!-- inactive-ok-file: THEORY-043 THEORY-051 THEORY-056 THEORY-067 THEORY-076 — Proposed; the readings the question is posed from, with their standing as it is -->
 <!-- inactive-ok-file: LIT-591 LIT-906 LIT-910 LIT-912 LIT-914 LIT-916 — Unavailable, unread; named as what the record holds and has not read -->
 
