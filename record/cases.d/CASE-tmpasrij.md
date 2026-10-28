@@ -11,7 +11,7 @@ date: '2026-10-28'
 supports:
 - CLAIM-277
 summary: >-
-  Filed by the fourth status review (ADR-057) for CLAIM-277, whose two
+  Filed by the fourth status review ([ADR-057](../decisions.d/ADR-057.md)) for [CLAIM-277](../claims.d/CLAIM-277.md), whose two
   loops the record had stated and not constructed. Two operators share one
   rule, with accuracies 0.8 and 0.6. Each round one acts, chosen with
   probability softmax(β·E), and endorsement moves toward observed outcomes,
@@ -56,7 +56,7 @@ in the second half. With η = 0.3 it changes 0.137 times per round.
 - **Durable, differentiated authority with no authority primitive.**
   Persistent precedence of the more accurate operator emerges from the
   endorsement rule alone. Its durability is a property of η, not of a
-  second kind of authority. That is CLAIM-277's first clause and A5's
+  second kind of authority. That is [CLAIM-277](../claims.d/CLAIM-277.md)'s first clause and A5's
   "different dynamical regimes, not different ontological primitives".
 - **The same loop entrenches.** When influence is what buys the chance to
   be scored, as in A5's chain of early advantage, then greater influence,
@@ -68,6 +68,6 @@ in the second half. With η = 0.3 it changes 0.137 times per round.
 
 It is two operators with fixed accuracies. Niches, where competence shows
 only in rare contexts, and mutual regulation among many processes are
-not in it: QUESTION-083 keeps both. That real organizations score as the
+not in it: [QUESTION-083](../questions.d/QUESTION-083.md) keeps both. That real organizations score as the
 second regime does is A46's niche-exclusion observation, not something this
 construction establishes.

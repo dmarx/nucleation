@@ -106,7 +106,7 @@ changed by this.
 
 ## Note of 2026-10-28: what holds it back
 
-The fourth status review (ADR-057) took this claim second among the
+The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim second among the
 Proposed claims with their premises held and no live objection: it has 9
 dependents. It stays Proposed. Its defeater is the absence of the very
 thing the body says it lacks: a reliable criterion that separates
@@ -114,5 +114,5 @@ reframing an act from changing it. The body's own candidate is
 that an active transformation changes the decision-relevant observables
 (stance, force) beyond what the change of target context requires. What
 would promote it is that criterion stated, and judges sorting pairs of
-renderings by it above chance. CASE-012's two renderings would be a first
+renderings by it above chance. [CASE-012](../cases.d/CASE-012.md)'s two renderings would be a first
 pair.

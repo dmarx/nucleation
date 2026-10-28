@@ -119,4 +119,4 @@ standing.
 
 ## Note of 2026-10-28: the first part split off
 
-The fourth status review split this question under ADR-049. Whether one update rule yields stable, differentiated authority without a role coded in, and whether it also entrenches, is QUESTION-tmpl8ywi, Answered by CLAIM-277 on CASE-tmpasrij. This question keeps niches, rare-context competence and mutual regulation.
+The fourth status review split this question under [ADR-049](../decisions.d/ADR-049.md). Whether one update rule yields stable, differentiated authority without a role coded in, and whether it also entrenches, is [QUESTION-tmpl8ywi](QUESTION-tmpl8ywi.md), Answered by [CLAIM-277](../claims.d/CLAIM-277.md) on [CASE-tmpasrij](../cases.d/CASE-tmpasrij.md). This question keeps niches, rare-context competence and mutual regulation.
