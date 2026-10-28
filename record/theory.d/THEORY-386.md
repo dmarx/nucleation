@@ -11,8 +11,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1109
-answers:
-- QUESTION-114
 summary: >-
   Olston, Loo and Widom (2001), [LIT-1109](../literature.d/LIT-1109.md), read in [NOTE-912](../notes.d/NOTE-912.md). The cost rate
   Ω(W) = C_vr·K₁/W² + C_qr·K₂·W is least where ρ·P_vr = P_qr. The minimum is
@@ -26,6 +24,8 @@ extended_by:
 - THEORY-377
 supports:
 - CLAIM-303
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-386: When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch

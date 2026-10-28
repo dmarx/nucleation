@@ -24,8 +24,6 @@ line:
 complements:
 - CLAIM-285
 - CLAIM-297
-answers:
-- QUESTION-089
 summary: >-
   A2 §8, on the owner's U2 design. If processes endorse only those whose
   policies match their own, the influence structure "risks degenerating
@@ -37,6 +35,8 @@ illustrated_by:
 - CASE-080
 supports:
 - CLAIM-359
+bears_on:
+- QUESTION-089
 ---
 <!-- inactive-ok-file: CLAIM-285 THEORY-029 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

@@ -27,8 +27,6 @@ source:
 - LIT-1042
 extends:
 - THEORY-444
-answers:
-- QUESTION-073
 summary: >-
   Strawson (1964), [LIT-1043](../literature.d/LIT-1043.md), read in full in [NOTE-736](../notes.d/NOTE-736.md), amending Grice
   (1957), [LIT-1042](../literature.d/LIT-1042.md). Against Austin, some illocutions need no convention
@@ -39,6 +37,8 @@ summary: >-
   non-institutional case in which the overt intention is fixed and the
   act changes, which gives [QUESTION-073](../questions.d/QUESTION-073.md) a definite rival to test. The
   amended analysis is offered as necessary, not sufficient.
+bears_on:
+- QUESTION-073
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-221 THEORY-444 — Proposed; the claims this account bears on and the account it extends, cited as open -->
 <!-- inactive-ok-file: LIT-1040 LIT-785 — Unavailable; Bach and Harnish and Austin, unread, named and not leaned on -->

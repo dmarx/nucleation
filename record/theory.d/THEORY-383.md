@@ -20,8 +20,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1118
-answers:
-- QUESTION-114
 summary: >-
   Labrinidis and Roussopoulos (2000), [LIT-1118](../literature.d/LIT-1118.md), read in [NOTE-908](../notes.d/NOTE-908.md). Three
   ways to serve a database-generated page under online updates, with no stale
@@ -34,6 +32,8 @@ summary: >-
   pays whenever it is reused enough. Where it is stored decided the outcome,
   and the generalization to other systems is the authors' expectation, not a
   measurement.
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-383: On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either

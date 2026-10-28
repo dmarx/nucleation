@@ -3,8 +3,16 @@ number: 45
 status: Open
 formerly:
 - QUESTION-tmp4hwnm
-title: 'Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and what would show that the maintaining link, not the regime''s content, is what keeps it in place?'
-version: 1
+title: 'Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and does cutting the maintaining link, with the regime''s content held fixed, produce lasting change?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. What
+    evidence would show that the maintaining link keeps a disorder in
+    place is QUESTION-292, Answered by THEORY-053. This question
+    keeps whether any disorder is such a lock-in, and the experiment.
 tags:
 - psychopathology-and-treatment
 - complex-systems
@@ -12,21 +20,23 @@ tags:
 date: '2026-10-12'
 line: 'will-organization'
 answered_by:
-- THEORY-058
-- THEORY-050
-- THEORY-052
-- THEORY-053
-- THEORY-285
 - CLAIM-446
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-099](../claims.d/CLAIM-099.md)
   and [CLAIM-018](../claims.d/CLAIM-018.md). [THEORY-058](../theory.d/THEORY-058.md), [THEORY-050](../theory.d/THEORY-050.md), [THEORY-052](../theory.d/THEORY-052.md) and [THEORY-053](../theory.d/THEORY-053.md) answer
   it in part; the body gives each one's limit.
+refined_by:
+- QUESTION-292
+bearing:
+- THEORY-285
+- THEORY-052
+- THEORY-050
+- THEORY-058
 ---
 <!-- inactive-ok-file: THEORY-285 — Proposed; a model-level reading listed with its limit, an answer in part -->
 
-# QUESTION-045: Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and what would show that the maintaining link, not the regime's content, is what keeps it in place?
+# QUESTION-045: Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and does cutting the maintaining link, with the regime's content held fixed, produce lasting change?
 
 ## The question
 
@@ -89,3 +99,13 @@ hold the represented threat fixed and change the defensive process's
 authority or evidence access, and conversely. A proposed simulation is
 [CASE-153](../cases.d/CASE-153.md), and the cross-scale form, from emergency powers to the
 security dilemma, is [CLAIM-445](../claims.d/CLAIM-445.md).
+
+## Note of 2026-10-27: the evidential part split off
+
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). What
+evidence would show that a maintaining link, not the regime's content,
+keeps a disorder in place is [QUESTION-292](QUESTION-292.md), Answered by [THEORY-053](../theory.d/THEORY-053.md):
+not a treatment's efficacy, but change in the link that is specific and
+comes before the outcome. This question keeps what is still open: whether
+any disorder is such a lock-in, and an experiment that cuts the link with
+the content held fixed.

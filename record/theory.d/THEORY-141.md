@@ -32,10 +32,11 @@ summary: >-
   stating general principles that Okasha himself says may explain any one
   transition only coarsely.
 supports:
-- CLAIM-060
 - CLAIM-359
 rivals:
 - THEORY-607
+corroborates:
+- CLAIM-060
 ---
 <!-- inactive-ok-file: LIT-721 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-135 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->

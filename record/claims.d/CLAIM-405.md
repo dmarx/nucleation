@@ -25,8 +25,6 @@ tags:
 date: '2026-10-21'
 line:
 - distributed-agency
-answers:
-- QUESTION-065
 rests_on:
 - CLAIM-152
 complements:
@@ -47,7 +45,13 @@ summary: >-
   [CLAIM-152](CLAIM-152.md) gives the relativity; this claim adds that relativity is not
   arbitrariness. It answers [QUESTION-065](../questions.d/QUESTION-065.md) in part. It does not say which
   criterion is right.
+illustrated_by:
+- CASE-175
+- CASE-176
+bears_on:
+- QUESTION-065
 ---
+<!-- inactive-ok-file: QUESTION-284 QUESTION-280 — the questions that press on this claim, Open -->
 <!-- inactive-ok-file: CLAIM-363 CLAIM-348 CLAIM-174 CLAIM-195 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
 
 # CLAIM-405: An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it
@@ -115,3 +119,18 @@ verdicts once it is chosen, so they do not conflict.
 - **Not contextuality.** Units that cross are not local descriptions that
   fail to glue ([CLAIM-219](CLAIM-219.md)'s warning that context dependence is not
   contextuality).
+
+## Note of 2026-10-27: discovered or enacted, and approximate independence
+
+Two questions from the exchange of 2026-10-27 press on this claim. A5 §2,
+from Barad: "**Does the interaction structure reveal the preexisting
+boundaries of a system, or does the process of interaction also
+participate in producing those boundaries?**" This claim makes a verdict
+objective once its criterion is fixed; it is silent on whether the
+arrangement through which a system is probed is part of what makes the
+unit, which is [QUESTION-284](../questions.d/QUESTION-284.md)'s split of detected, maintained and
+constituted boundaries. And from Jaksland ([LIT-1673](../literature.d/LIT-1673.md), read later the same day in [NOTE-1230](../notes.d/NOTE-1230.md)): whether
+a unit the criterion passes is approximately independent or only
+approximately separable for its target, [QUESTION-280](../questions.d/QUESTION-280.md). A10 §2 restated
+the claim's point as "**Relativity to conditions does not entail
+subjectivity.**" Nothing here changes.

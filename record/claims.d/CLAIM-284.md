@@ -55,6 +55,7 @@ summary: >-
 objected_by:
 - CLAIM-288
 complements:
+- CLAIM-485
 - CLAIM-286
 - CLAIM-424
 illustrated_by:
@@ -63,7 +64,7 @@ supports:
 - CLAIM-361
 ---
 <!-- inactive-ok-file: CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-025 CLAIM-165 CLAIM-194 CLAIM-288 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-165 CLAIM-194 CLAIM-288 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-284: A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists
 
@@ -163,3 +164,12 @@ this claim is the definition of [TERM-045](../terms.d/TERM-045.md)'s sense 5 and
 the sense was for. A37 kept [CLAIM-288](CLAIM-288.md) standing: "the capacity to revise
 the standards of evaluation is not equivalent to the capacity to revise
 them well."
+
+## Note of 2026-10-28: narrowed by a bridge claim
+
+[CLAIM-485](CLAIM-485.md), filed at the owner's request, narrows what this claim's
+endogeneity contributes to the self-governing sense. It is the capacity to
+revise the governing standards, [CLAIM-025](CLAIM-025.md)'s third capacity and this claim's
+"conditions of its own transformation", and not the allocation of authority
+among processes. The two complement each other, and both answer
+[QUESTION-092](../questions.d/QUESTION-092.md).

@@ -6,8 +6,8 @@
 
 **Translation** — translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033).
 
-0 of 79 TERM documents. Back to the [full index](../README.md).
+1 of 95 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-084](../../../record/terms.d/TERM-084.md) v2 | descent, and which sense: provenance, lineage, common ancestry or causal descent | "Descent" carries at least four historical senses in the record's claims, and they differ in what the claims turn on: whether the relation is directed, whether it carries a fidelity, and whether it implies continuation. [CLAIM-210](../../../record/claims.d/CLAIM-210.md) and [CASE-054](../../../record/cases.d/CASE-054.md) had let two of them meet, which the owner's review of 2026-10-27 resolved; this term lists the senses so a claim says which. It does not cover descent in optimization (gradient or common descent directions). Adopted by the owner on 2026-10-27. | Active |

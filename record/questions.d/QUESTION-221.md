@@ -37,12 +37,12 @@ summary: >-
   closure for linear Gaussian VARs. No entry bounds the one by the other.
   [CLAIM-388](../claims.d/CLAIM-388.md) shows that the converse fails: a closed aggregate need not
   be a weakly coupled block.
-answered_by:
-- CLAIM-386
-- CLAIM-390
-- THEORY-771
 refined_by:
 - QUESTION-242
+bearing:
+- THEORY-771
+- CLAIM-390
+- CLAIM-386
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-221: Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block's aggregate small to a stated order in ε?

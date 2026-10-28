@@ -3,8 +3,8 @@ number: 220
 status: Open
 formerly:
 - QUESTION-tmpproc1
-title: 'Given that information-bottleneck optima at two budgets need not be nested, what condition on P(X, Y) guarantees that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and how much is lost by forcing nesting when it fails?'
-version: 2
+title: 'Given that information-bottleneck optima at two budgets need not be nested, what condition on P(X, Y), beyond Y a function of X or X and Y both binary, guarantees that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and how much is lost by forcing nesting when it fails?'
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,14 @@ history:
     Answered No by CLAIM-387 and CLAIM-392. This question is reworded to
     what is left: a structural condition for nesting, and the size of the
     loss. Version 1's title was "When are the optimal representations of an information-bottleneck or rate–distortion objective at two budgets nested, so that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and when does raising the budget reorganize the optimum into a partition incomparable with the last?"
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. Nesting
+    under the β → ∞ optimum, the test for a pair of budgets, and the
+    two classes refinable at every pair are QUESTION-291,
+    Answered by THEORY-743, THEORY-753 and THEORY-757. The title gains
+    "beyond Y a function of X or X and Y both binary".
 tags:
 - information-theory
 - learning-theory
@@ -29,16 +37,14 @@ summary: >-
   encoder to prunings of a fixed tree; nothing in the record says when it
   holds without that restriction. Rate–distortion theory's answer is
   successive refinability (Equitz and Cover, registered unread).
-answered_by:
-- THEORY-743
-- THEORY-751
-- THEORY-753
-- THEORY-757
 refined_by:
 - QUESTION-244
+- QUESTION-291
+bearing:
+- THEORY-751
 ---
 <!-- inactive-ok-file: THEORY-163 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
-# QUESTION-220: Given that information-bottleneck optima at two budgets need not be nested, what condition on P(X, Y) guarantees that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and how much is lost by forcing nesting when it fails?
+# QUESTION-220: Given that information-bottleneck optima at two budgets need not be nested, what condition on P(X, Y), beyond Y a function of X or X and Y both binary, guarantees that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and how much is lost by forcing nesting when it fails?
 
 ## Why it is a question
 
@@ -123,3 +129,15 @@ not nest, for deterministic encoders ([CLAIM-387](../claims.d/CLAIM-387.md)) and
 [THEORY-751](../theory.d/THEORY-751.md). This question keeps the structural condition on P(X, Y)
 beyond [THEORY-757](../theory.d/THEORY-757.md)'s special cases, the size of the loss, and
 [THEORY-163](../theory.d/THEORY-163.md)'s colour hierarchy.
+
+## Note of 2026-10-27: the settled cases split off
+
+The status review of this date split this question again under [ADR-049](../decisions.d/ADR-049.md).
+That every finite optimum nests under the β → ∞ one ([THEORY-743](../theory.d/THEORY-743.md)), that two
+budgets nest iff some pair of optimal encoders forms a Markov chain, a
+hull test ([THEORY-753](../theory.d/THEORY-753.md)), and that nesting holds at every pair of budgets
+when Y is a function of X or X and Y are both binary ([THEORY-757](../theory.d/THEORY-757.md)) are
+[QUESTION-291](QUESTION-291.md), Answered. This question keeps what is still open: a
+structural condition on P(X, Y) beyond those cases, the size of the loss,
+and [THEORY-163](../theory.d/THEORY-163.md)'s colour hierarchy. [THEORY-751](../theory.d/THEORY-751.md), rate–distortion's own
+criterion, stays here, since its transfer to the bottleneck is unproved.

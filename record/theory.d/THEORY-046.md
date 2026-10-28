@@ -38,7 +38,7 @@ summary: >-
   studies and finds it again: rewards offered for doing an interesting
   task lowered free choice, −0.35 across 57 studies. Active: both sides of
   the dispute find this effect.
-answers:
+bears_on:
 - QUESTION-066
 ---
 <!-- inactive-ok-file: LIT-556 — Unavailable: Cameron & Pierce (1994) is unread; described from the two meta-analyses that report it -->

@@ -38,8 +38,6 @@ tags:
 date: '2026-10-14'
 source:
 - LIT-994
-answers:
-- QUESTION-051
 summary: >-
   Thrampoulidis et al. (2022), [LIT-994](../literature.d/LIT-994.md), read in [NOTE-764](../notes.d/NOTE-764.md). For the
   unconstrained-features max-margin problem under STEP imbalance, every
@@ -52,6 +50,8 @@ summary: >-
   reaches it, and anything with more than one seed.
 extends:
 - THEORY-738
+bears_on:
+- QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-209 — Proposed; the record's statement of collapse, its account of limiting dynamics, and the MSE account filed beside this one -->
 

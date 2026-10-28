@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj163u
 title: 'A contribution''s admission to an organization''s inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor''s part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -12,6 +12,13 @@ history:
     The readings of 2026-10-21 added: James et al., Kay et al., Short et
     al., Collins (THEORY-834, added to grounds) and, skimmed, Hyzen et
     al.; Kwok is held and Unavailable. The claim is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: from T18–T19 of the exchange "Experimental
+    Infrastructure Review", where a team's rung is produced by its
+    members, member-level and team-level influence do not add; checked
+    on a linear construction (1.1 against 0.7). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -144,3 +151,42 @@ ladder.
   distinctions, not necessarily five sequential processing steps".
 - **How to measure any rung**, or that any actual institution has closed
   one.
+
+## Note of 2026-10-26: influence across levels is not additive
+
+<!-- inactive-ok-file: CASE-166 — Proposed; the multilevel study in which the point arose, cited as open -->
+
+This claim's rungs say which pathways from a contribution to an
+organization's judgement exist. The Northstar turns of the exchange
+"Experimental Infrastructure Review" raised, twice, how influence along
+them adds up when the rungs are held at more than one level. T18 §7: "An
+engineer's contribution to a team proposal and that team's subsequent
+contribution to the company are partly the same causal pathway. Counting
+both would inflate the apparent influence of coordinated employees … A
+higher-level contribution is generated through lower-level activity; it
+isn't an additional independent force simply because we've named the
+coalition." T19 §3: a team proposal "is not an additional independent
+opinion appended to the employees' opinions. Otherwise, the simulator
+would double-count activity merely because we've described it at two
+levels." The study built on it is [CASE-166](../cases.d/CASE-166.md).
+
+A linear construction makes it exact. An employee's message e sets a team
+proposal p = c·e, and the company's decision is y = a·e + b·p. With
+a = 0.3, b = 0.8, c = 0.5 and e moved from 0 to 1, the total effect of
+do(e) on y is 0.7, of which 0.3 is direct and 0.4 runs through the team;
+do(p = 0.5) alone moves y by 0.4. Adding "the employee's influence" (0.7)
+to "the team's influence" (0.4) gives 1.1, but the decision moved by 0.7.
+The excess, b·c = 0.4, is the mediated pathway counted twice (checked
+numerically; the decomposition is [THEORY-419](../theory.d/THEORY-419.md)'s do-surgery). So attribution
+across the rungs is by intervention on specified pathways, an employee's
+total effect divided into a direct and a team-mediated part, not by
+summing level-specific weights. The lab's exclusion counterfactual
+(dmarx/PerspectiveLab@c54617e, experiments/perspective_engine/) measures a
+per-process total effect, and per-level exclusion effects would not sum in
+a model whose teams are built from employees.
+
+It does not say a team adds nothing. Its records and procedures can open
+a pathway no member has (T19: an incident team "might jointly possess the
+authority to deploy a mitigation even though no one member has both the
+necessary knowledge and authorization"), and that pathway counts once, as
+the team's. The claim is unchanged.

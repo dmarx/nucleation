@@ -40,10 +40,10 @@ summary: >-
   the authors cannot explain.
   Promoted 2026-10-20 on the probe-loss comparisons measured (ADR-047
   v3); the geometric thesis is THEORY-828.
-answers:
-- QUESTION-069
 extended_by:
 - THEORY-828
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-828 — Proposed; the geometric thesis this narrowing dropped, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-115 THEORY-111 THEORY-107 THEORY-110 — Proposed; the account this one extends and siblings named in Connections, nothing here rests on their open parts -->

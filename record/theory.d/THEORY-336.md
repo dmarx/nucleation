@@ -22,8 +22,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1055
-answers:
-- QUESTION-103
 summary: >-
   Geisler (2011), [LIT-1055](../literature.d/LIT-1055.md), read in [NOTE-870](../notes.d/NOTE-870.md). A review that defines the ideal observer
   as optimal "given the available information and any specified constraints", and
@@ -34,6 +32,8 @@ summary: >-
   as loss in central factors. The empirical parts are the review's account of
   studies the record has not read. The review gives no formula for efficiency and
   no notion of an optimum over a restricted class of computations.
+bears_on:
+- QUESTION-103
 ---
 
 # THEORY-336: An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported to parallel the retinal-stage ideal across conditions while falling well below it

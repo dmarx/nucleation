@@ -11,8 +11,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1102
-answers:
-- QUESTION-114
 summary: >-
   Panigrahy, Talwar and Wieder (2010), [LIT-1102](../literature.d/LIT-1102.md), read in [NOTE-914](../notes.d/NOTE-914.md) from
   the arXiv preprint. For graphical neighbour search, to which decision
@@ -26,6 +24,8 @@ summary: >-
   nothing about worst-case or structured data, workloads or build time.
 presupposed_by:
 - THEORY-372
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-381: In the cell-probe model, a near-neighbour structure on n random points that answers in t probes with m cells of w bits must satisfy m^t·w/n ≥ the robust expansion of the metric's neighbourhood graph at measure 1/m^t (and (mwt/n)^t ≥ its vertex expansion if deterministic), so in expanding spaces such as the hypercube fast queries need space polynomially larger than the data; the bounds are average case, approximate, and fall off exponentially in t

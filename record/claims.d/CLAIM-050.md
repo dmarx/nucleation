@@ -44,7 +44,7 @@ line: pragmatic-transport
 works:
 - what-survives-translation
 grounds:
-- THEORY-156
+- THEORY-1096
 - LIT-781
 - LIT-778
 - LIT-764
@@ -108,3 +108,13 @@ so those steps rest on works cited without a reading.
 Zhao et al. ([LIT-793](../literature.d/LIT-793.md), [THEORY-161](../theory.d/THEORY-161.md)): with total variation, the
 posterior distortion bounds the extra Bayes risk of every bounded-loss
 decision. That is a decision-relative fidelity close to this claim's.
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-1096](../theory.d/THEORY-1096.md). It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
+general converse, which stays Proposed, is not used. Quotations of
+[THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.

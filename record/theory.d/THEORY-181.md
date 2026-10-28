@@ -42,10 +42,10 @@ summary: >-
   ([LIT-341](../literature.d/LIT-341.md)). It is shown for one size, 1D embeddings and an operation built
   into the architecture. It is not shown that larger networks generalise
   by this mechanism, and for S₃ the networks generalise beyond it.
-answers:
-- QUESTION-058
 extended_by:
 - THEORY-782
+bears_on:
+- QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-782 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 

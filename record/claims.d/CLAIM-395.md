@@ -40,6 +40,7 @@ line:
 grounds:
 - LIT-582
 ---
+<!-- inactive-ok-file: CLAIM-478 — Proposed; the claim that cites this one as its limit -->
 <!-- inactive-ok-file: THEORY-072 THEORY-085 — Proposed; the account this was filed from, which keeps the demarcation thesis, and the precedent named in the history; neither is leaned on -->
 
 # CLAIM-395: Under Montévil and Mossio's definition of closure, a closed set of constraints has at least two members, and if each constraint is produced at the time scale of a constraint in the set that generates it and not at the scale at which it is itself conserved, the set includes at least one slow and one fast dependence, so a system with a single constraint of its own cannot realise closure
@@ -124,3 +125,19 @@ g(i) uniform over j ≠ i and τd(i) = τs(g(i)), and draws with any
   but the paper does not state it as a condition.
 - **Not that closure defines the organism.** The paper denies that
   (footnote 27), and so does [THEORY-072](../theory.d/THEORY-072.md).
+
+## Note of 2026-10-27: read as the centre of a multiscale account
+
+A13 of the exchange of 2026-10-27 cited this claim correctly and drew its
+consequence. Around a cycle of constraints C₁ → … → Cₙ → C₁ with conservation
+time scales sᵢ, the differences sᵢ − sᵢ₊₁ sum to zero, so if none vanishes some
+are positive and some negative. A13: "**A hierarchy of timescales can
+differentiate organizational roles, but a closed network of dependence cannot be
+described as a strictly one-directional descent through that hierarchy**", and
+"Scale separation differentiates processes and permits relative autonomy.
+Cross-scale dependence integrates those differentiated processes into a larger
+organization." It called this "probably the center of the theory" and was
+careful that "it is not a general theorem that every feedback cycle requires
+separated timescales". That is this claim's content, stated as an
+interpretation; [CLAIM-478](CLAIM-478.md), filed from the same exchange, names it among
+what it does not say. Nothing here changes.

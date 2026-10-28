@@ -3,8 +3,16 @@ number: 127
 status: Open
 formerly:
 - QUESTION-tmpm1wok
-title: 'Which diagnoses of frustration among a learner''s demands survive reparameterization and quotienting by function-preserving symmetries, which belong to an update geometry, and which only to a particular training organization?'
-version: 1
+title: 'Which diagnoses of frustration among a learner''s demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. The
+    part about smooth changes of chart is QUESTION-286, Answered
+    by CLAIM-366. This question keeps function-preserving symmetries
+    and trajectories.
 tags:
 - information-geometry
 - loss-landscapes
@@ -21,11 +29,11 @@ summary: >-
   preserving symmetries, which are not charts of one space, and training
   trajectories, where "same current function ≠ same learning dynamics".
   An answer sorts each diagnosis by what it is a property of.
-answered_by:
-- CLAIM-366
+refined_by:
+- QUESTION-286
 ---
 
-# QUESTION-127: Which diagnoses of frustration among a learner's demands survive reparameterization and quotienting by function-preserving symmetries, which belong to an update geometry, and which only to a particular training organization?
+# QUESTION-127: Which diagnoses of frustration among a learner's demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?
 
 ## Why it is a question
 
@@ -82,3 +90,10 @@ organization with its optimizer. A40 §3.5 named the target: "Determine
 which frustration diagnoses are properties of the represented function,
 which belong to an update geometry, and which belong to a particular
 training organization."
+
+## Note of 2026-10-27: the coordinate part split off
+
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Changes
+of chart are [QUESTION-286](QUESTION-286.md), Answered by [CLAIM-366](../claims.d/CLAIM-366.md). This question keeps
+what is still open: function-preserving symmetries, which are not charts
+of one space, and trajectories, which carry the optimizer.

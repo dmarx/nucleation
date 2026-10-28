@@ -29,8 +29,6 @@ tags:
 date: '2026-10-14'
 source:
 - LIT-985
-answers:
-- QUESTION-051
 summary: >-
   Kothapalli & Tirer (2024), [LIT-985](../literature.d/LIT-985.md), read in [NOTE-774](../notes.d/NOTE-774.md). NC1 = tr Σ_W / tr
   Σ_B of kernel-defined features is a ratio of linear functionals of the
@@ -43,6 +41,8 @@ summary: >-
   learning is the reading's, not proved.
 extended_by:
 - THEORY-813
+bears_on:
+- QUESTION-051
 ---
 
 <!-- inactive-ok-file: THEORY-813 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->

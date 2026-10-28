@@ -17,7 +17,7 @@ date: '2026-10-20'
 source:
 - LIT-1258
 answers:
-- QUESTION-220
+- QUESTION-291
 summary: >-
   Charvin, Catenacci Volpi and Polani (2023), [LIT-1258](../literature.d/LIT-1258.md), read in [NOTE-981](../notes.d/NOTE-981.md). It turns [QUESTION-220](../questions.d/QUESTION-220.md)'s Markov formulation into a finite check: nesting between two IB optima is a convex-hull inclusion of their decoder points, which a linear programme decides. The check is on given optima, and refinability asks for some pair. So a failed check settles the question only when the optima are certified globally optimal and unique. This entry adds that the information bottleneck's own convex-envelope dual can supply that certificate. Finite alphabets, two stages.
 supports:

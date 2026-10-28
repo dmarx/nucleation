@@ -4,7 +4,7 @@
 
 **linguistics**.
 
-38 of 1165 NOTE documents. Back to the [full index](../README.md).
+39 of 1243 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -46,3 +46,4 @@
 | [NOTE-718](../../../record/notes.d/NOTE-718.md) | Gallego & Orús — Language Design as Information Renormalization | Reads Chomsky's MERGE as a coarse-graining and builds sentence probabilities as mostly loop-free tensor networks of 3-index MERGE tensors, one per node of a given parse. Because MERGE's output is fixed by its input, a parsed sentence's probability is a product of local coefficients. Tree-shaped parses make correlations decay with tree distance, about log \|j − i\|, so polynomially in word separation. The averaging step that turns this into a claim about languages is asserted, and nothing is tested on data. Syntax only: semantics and context are set aside by the authors. | Read |
 | [NOTE-734](../../../record/notes.d/NOTE-734.md) | Grice — Logic and Conversation | pp. 45–47 only: conversational implicatures are to be tied to a Cooperative Principle (contribute what the accepted purpose of the talk exchange requires) and to maxims of Quantity, Quality, Relation and Manner. Grice flags the second Quantity maxim as disputable, defers Relation, and calls the information-exchange framing too narrow. | Skimmed |
 | [NOTE-781](../../../record/notes.d/NOTE-781.md) | Torii, Maeda and Hidaka — Distributional hypothesis as isomorphism | An SVD of log raw co-occurrence counts solves 61% of Google analogies over a 1,487-word vocabulary, against 75% for full word2vec. In a 24-sentence toy corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped exactly when, for each object, its four sentences are equally probable. The attributes are independent, so the concept lattice is Boolean. | Read |
+| [NOTE-1186](../../../record/notes.d/NOTE-1186.md) | Bayazit, Mueller and Bosselut — Crosscoding through time | Trains one sparse crosscoder jointly on the mid-layer activations of two or three pretraining checkpoints, so features share an index across them, and scores each feature's causal importance for subject–verb agreement at each checkpoint (Relative Indirect Effect). In Pythia-1B, OLMo-1B and BLOOM-1B the important features move, by the authors' annotation, from token-specific detectors to grammatical-category ones, and in BLOOM from language-specific to crosslingual ones for Latin-script languages; importance keeps shifting after accuracy plateaus. A method for describing which features emerge, persist and lose importance, not for predicting it. | Read |

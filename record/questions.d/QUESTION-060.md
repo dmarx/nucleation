@@ -3,20 +3,22 @@ number: 60
 status: Open
 formerly:
 - QUESTION-tmplynfm
-title: 'When a network is trained on data from a structured system, are the variables it comes to represent fixed by its training objective or by what its architecture can represent cheaply, and when do they coincide with the system''s own relevant variables?'
-version: 1
+title: 'When a network is trained on data from a structured system, are the variables it comes to represent fixed by its training objective or by what its architecture can represent cheaply, and since an architecture that can represent the system''s coarse-graining need not learn it, when do they coincide with the system''s own relevant variables?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. Whether
+    an architecture that can represent the system's renormalization step
+    exactly must learn the relevant variables is QUESTION-294,
+    Answered No by THEORY-197. This question keeps the rest.
 tags:
 - natural-sciences
 - representation-learning
 - mathematics
 date: '2026-10-12'
 line: 'learned-structure'
-answered_by:
-- THEORY-197
-- THEORY-206
-- THEORY-241
-- THEORY-256
-- THEORY-274
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-152](../claims.d/CLAIM-152.md) and [QUESTION-025](QUESTION-025.md).
@@ -24,10 +26,16 @@ summary: >-
   limit.
 refined_by:
 - QUESTION-157
+- QUESTION-294
+bearing:
+- THEORY-274
+- THEORY-241
+- THEORY-256
+- THEORY-206
 ---
 <!-- inactive-ok-file: THEORY-241 THEORY-274 — Proposed; partial answers filed today, cited with their limits -->
 
-# QUESTION-060: When a network is trained on data from a structured system, are the variables it comes to represent fixed by its training objective or by what its architecture can represent cheaply, and when do they coincide with the system's own relevant variables?
+# QUESTION-060: When a network is trained on data from a structured system, are the variables it comes to represent fixed by its training objective or by what its architecture can represent cheaply, and since an architecture that can represent the system's coarse-graining need not learn it, when do they coincide with the system's own relevant variables?
 
 ## The question
 
@@ -48,3 +56,14 @@ Other lines lean on the answer. [CLAIM-152](../claims.d/CLAIM-152.md) says that 
 ## What would answer it
 
 A family of systems with known relevant variables, trained under objectives and architectures varied separately. With it, a measure of which variables each combination keeps. Or a result that predicts the learned variables from objective and capacity together.
+
+## Note of 2026-10-27: the representability part split off
+
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
+an architecture that can represent a system's renormalization step exactly
+must, under distribution fitting, learn the relevant variables is
+[QUESTION-294](QUESTION-294.md), Answered No by [THEORY-197](../theory.d/THEORY-197.md): the RBM correspondence is an
+identity of parametrizations, and a contrastive-divergence RBM keeps the
+noise. This question keeps what is still open: how objective and
+architecture each fix the learned variables, and when they coincide with
+the relevant ones.

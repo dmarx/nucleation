@@ -49,8 +49,6 @@ source:
 - LIT-1300
 - LIT-1248
 - LIT-1255
-answers:
-- QUESTION-219
 summary: >-
   Buckmaster, De Lellis, Székelyhidi and Vicol (2017; CPAM 2019),
   [LIT-1300](../literature.d/LIT-1300.md), read in [NOTE-1013](../notes.d/NOTE-1013.md): the admissible version of Isett's
@@ -64,6 +62,8 @@ summary: >-
   increasing energy as readily, so the direction is a choice of the
   construction; and nothing ties these solutions to Navier–Stokes, to a
   constant-flux inertial range or to uniqueness.
+bears_on:
+- QUESTION-219
 ---
 <!-- inactive-ok-file: THEORY-821 — Proposed; Isett's Hölder flows with the local inequality, cited for contrast -->
 <!-- inactive-ok-file: THEORY-772 — Proposed; the local version in another class, cited for contrast -->

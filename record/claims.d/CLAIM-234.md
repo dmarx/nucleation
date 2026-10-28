@@ -23,12 +23,12 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-066
 grounds:
+- LIT-848
+- LIT-828
 - THEORY-155
 - LIT-771
 - THEORY-489
 - LIT-825
-- THEORY-167
-- THEORY-173
 - LIT-768
 objects_to:
 - CLAIM-068
@@ -131,3 +131,7 @@ indirectly); and a reply to the reading of the signal as the valence of the
 content that survived. A footing chain would need the measurement that
 [QUESTION-076](../questions.d/QUESTION-076.md) asks for first. The Anthology of the SOTA was checked and
 holds neither study.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) re-grounded the claim in the works it reports measurements from: Propp ([LIT-828](../literature.d/LIT-828.md)) in place of [THEORY-167](../theory.d/THEORY-167.md), and Farrell et al. ([LIT-848](../literature.d/LIT-848.md)) in place of [THEORY-173](../theory.d/THEORY-173.md). It already did this for Raviv et al. ([LIT-825](../literature.d/LIT-825.md)). The claim uses what each work measured, not its thesis.

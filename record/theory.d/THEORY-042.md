@@ -22,7 +22,7 @@ summary: >-
   lattice ([LIT-306](../literature.d/LIT-306.md)), a product of sector lattices with central sector
   projections, is the record's inference. The centre-of-the-algebra
   formulation belongs to Haag, who is not read.
-answers:
+bears_on:
 - QUESTION-055
 ---
 

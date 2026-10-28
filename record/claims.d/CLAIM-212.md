@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp95pjv
 title: 'Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell''s order compares a rendering with its source as evidence about the source''s situation, which both readers decide about, while a rendering that re-performs the act in the target''s situation is compared only through a correspondence of situations'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -17,6 +17,12 @@ history:
     neither of which a derivation settles (ADR-043). Its one worked
     case is CLAIM-323, which is already demonstrated and Active. The
     claim is unchanged, and the status stays Proposed.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added: the narrowing on compensation, proposed in
+    the note of 2026-10-10, is filed as the objection CLAIM-461. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,7 +39,7 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 grounds:
-- THEORY-156
+- THEORY-1096
 - CASE-063
 objects_to:
 - CLAIM-258
@@ -165,3 +171,20 @@ for a reader whose code differs, and the line should say that compensation
 is mainly, not only, a re-performance notion. The renderings are known
 only through a critic, and the reader evidence is the translators' own, so
 the narrowing is proposed, not made.
+
+## Note of 2026-10-27: the narrowing filed as an objection
+
+The narrowing the note of 2026-10-10 proposed and did not make, that
+compensation is mainly, not only, a re-performance notion, is filed as
+[CLAIM-461](CLAIM-461.md), a counter, Proposed, so it can carry a status. It awaits a
+case whose source is read. The claim is unchanged.
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-1096](../theory.d/THEORY-1096.md). It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
+general converse, which stays Proposed, is not used. Quotations of
+[THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.

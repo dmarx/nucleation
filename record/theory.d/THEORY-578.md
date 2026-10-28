@@ -22,8 +22,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-662
-answers:
-- QUESTION-069
 summary: >-
   Tan, Long, Zhao & Laine (2023), [LIT-662](../literature.d/LIT-662.md), read in [NOTE-521](../notes.d/NOTE-521.md). Two ResNet-20s
   at 4× width with LayerNorm, CIFAR-10, permuted by Git Re-Basin's weight
@@ -34,6 +32,8 @@ summary: >-
   geodesic between SGD solutions is mode-connecting is stated, not
   tested, and a chain whose neighbours agree in output may be low-loss
   almost by construction.
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-109 THEORY-111 THEORY-112 — Proposed; the connectivity accounts this path family is set beside, not leaned on -->
 

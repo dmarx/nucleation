@@ -43,7 +43,7 @@ summary: >-
   widths, which is why the two are consistent.
 presupposed_by:
 - THEORY-115
-answers:
+bears_on:
 - QUESTION-069
 ---
 <!-- inactive-ok-file: LIT-370 — Proposed; named as a re-measurement of the shared-state onset, nothing here rests on it -->

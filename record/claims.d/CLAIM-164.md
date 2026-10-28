@@ -61,9 +61,9 @@ complements:
 - CLAIM-377
 supports:
 - CLAIM-157
-grounds:
-- THEORY-078
+corroborated_by:
 - THEORY-084
+- THEORY-078
 ---
 
 # CLAIM-164: What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide
@@ -122,3 +122,7 @@ harmonics and the fast modes is wide. So the dimension of the subspace
 this claim makes definite is not the number of slow variables. The object
 is still the subspace. Reading off how many independent slow variables it
 holds needs a further step, which the gap does not supply.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-078](../theory.d/THEORY-078.md) and [THEORY-084](../theory.d/THEORY-084.md) from `grounds` to `corroborated_by`. As the note of 2026-10-19 says, "This claim does not need them: its core is Davis–Kahan."

@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmp7qr7y
 title: 'Sharing a kind and being a rendering are different relations: kind-sharing is symmetric and says what is to be preserved, while fidelity belongs to a transport from a given source, so an utterance of the same kind made independently of the source shares its kind and has no fidelity to it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Wording revised at the owner's request, after the audit of cases of
+    2026-10-27 found CASE-054 saying that descent and transport are
+    different facts: "Descent is supplied by the transport clause" now
+    reads "provenance", and the third relation now names descent by common
+    ancestry, with no transport between the related pair. The claim is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -26,14 +36,15 @@ complements:
 uses:
 - TERM-040
 - TERM-043
+- TERM-084
 summary: >-
   The record's reply, on 2026-10-10, to [CLAIM-246](CLAIM-246.md). The October thesis
   puts fidelity in what persists "through those transformations", and
   [TERM-043](../terms.d/TERM-043.md) makes fidelity the distortion profile of a transport. So the
   objection's independent utterance I shares the source's kind and has no
   fidelity to it, since no transport relates them; the translation T has
-  both. Descent is a fact of provenance that the transport clause supplies,
-  not something the kind criterion must recover. [CLAIM-002](CLAIM-002.md)'s continuity of
+  both. T's provenance is a fact the transport clause supplies, not
+  something the kind criterion must recover. [CLAIM-002](CLAIM-002.md)'s continuity of
   transmission concerns the identity of a work, which [TERM-040](../terms.d/TERM-040.md) keeps apart
   from the kind. Active, because it is read off the record's own texts. It
   does not say judges track descent.
@@ -88,14 +99,22 @@ fidelity a matter of kind-sharing. It does not.
   history of transmission, is on the token's side of that line: [CLAIM-002](CLAIM-002.md)
   individuates it partly by where it came from ("descent is not
   similarity"), not only by what it shares.
+  Descent need not run between the two realizations compared: two can
+  descend from a common ancestor with no transport between them, as the
+  Crow and Hidatsa joking relations descend from a parent tribe's
+  ([CASE-054](../cases.d/CASE-054.md)). That relation is historical, like work identity, and not
+  transport, so neither sibling has any fidelity to the other, as I has
+  none to S. Whether each line of descent is itself a chain of transports
+  from the ancestor, in which case each could have a fidelity profile
+  relative to it, is left open here.
 
 Applied to the cases: T stands in a transport from S, so it has a fidelity
 profile relative to S, and because it realizes K, the profile can be small
 on the distinctions K fixes. I stands in no transport from S. It shares K
 with S, and it has no fidelity to S at all: not high, not low, but none,
 since the profile is defined only for a transport. So the thesis does say
-that T is a rendering of S and I is not. Descent is supplied by the
-transport clause, as a fact of provenance about which transformation is
+that T is a rendering of S and I is not. Provenance is supplied by the
+transport clause, as a fact about which transformation is
 being evaluated. It is not something the kind criterion must recover, and a
 criterion of kind would be the wrong place to look for it.
 

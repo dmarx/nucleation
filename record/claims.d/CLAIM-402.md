@@ -38,8 +38,6 @@ grounds:
 - THEORY-839
 - THEORY-862
 - THEORY-854
-answers:
-- QUESTION-028
 summary: >-
   A27 §1 of the exchange of 2026-10-20, on the owner's U27 ("are we perhaps
   better positioned now to address [QUESTION-007](../questions.d/QUESTION-007.md)? -009? -011? -028?"),
@@ -54,6 +52,8 @@ complements:
 - CLAIM-445
 illustrated_by:
 - CASE-141
+bears_on:
+- QUESTION-028
 ---
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study, and this claim is Proposed with it -->

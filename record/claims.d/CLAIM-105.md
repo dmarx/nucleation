@@ -52,8 +52,6 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
-answers:
-- QUESTION-004
 rests_on:
 - CLAIM-038
 - CLAIM-320
@@ -74,6 +72,8 @@ objected_by:
 - CLAIM-238
 complements:
 - CLAIM-201
+bears_on:
+- QUESTION-004
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->

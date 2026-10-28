@@ -20,8 +20,6 @@ date: '2026-10-20'
 line:
 - distributed-agency
 - formal-apparatus
-answers:
-- QUESTION-217
 grounds:
 - THEORY-733
 - THEORY-746
@@ -34,6 +32,8 @@ summary: >-
   which is the class of noise-free square mixtures of independent AR(1)
   processes, and not in general otherwise. Linear features, linear
   Gaussian dynamics, lag one.
+bears_on:
+- QUESTION-217
 ---
 <!-- inactive-ok-file: NOTE-1015 — new reading, cited as where the result was derived -->
 

@@ -44,10 +44,10 @@ summary: >-
   worse than none (Lemma 5.4). The general error bound (Theorem 5.6) is
   approximate and pools all known classes into one block, and is not
   part of this account. Nothing here is about trained networks.
-answers:
-- QUESTION-052
 extends:
 - THEORY-737
+bears_on:
+- QUESTION-052
 ---
 <!-- inactive-ok-file: THEORY-005 — Proposed; an operator account this does not restate -->
 

@@ -1,18 +1,26 @@
 ---
 number: 177
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp4qgbo
-title: 'An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change'
-version: 1
+title: 'In the record''s exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed to the identity failures observed in the record's own
+    exchanges, now six, and promoted at the owner's ruling of
+    2026-10-27 on the status review (ADR-057). The comparative and
+    general form, that such arguments fail at identity rather than at
+    structure beyond one owner and one assistant family, is
+    CLAIM-483, Proposed, with version 1's defeater.
 role: thesis
 warrant: empirical
 defeated_if: >-
-  A comparable exchange, read move by move as the will exchange was,
-  in which most defects are missing structure: no premises stated,
-  inferences never laid out, objections never answered. Redefinition
-  and re-derivation would have to be rare in it. Then the remedy would
-  be argument mapping, and coding what recurs would not be the answer.
+  A reading of the record's exchanges that finds the cited instances
+  misdescribed: the redefinitions announced, the returning objections and
+  readings cited when they returned, or the thesis changes argued for.
 tags:
 - design-rationale
 - epistemology
@@ -20,8 +28,6 @@ date: '2026-10-11'
 line: nucleating-argument
 works:
 - luria-nucleating-an-argument
-answers:
-- QUESTION-037
 summary: >-
   Stated as a finding in [ADR-032](../decisions.d/ADR-032.md), from seven readers coding the will
   exchange, and found again in the What Survives Translation? exchange by
@@ -37,13 +43,15 @@ supports:
 - CLAIM-180
 - CLAIM-191
 - CLAIM-192
+bears_on:
+- QUESTION-037
 ---
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-024 CLAIM-115 CLAIM-139 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-177: An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change
+# CLAIM-177: In the record's exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change
 
 ## The claim
 
@@ -95,3 +103,27 @@ thesis give rival answers, yet the record links them by `complements`.
 Both are readings of the What Survives Translation? exchange, this claim's
 second source. [CLAIM-217](CLAIM-217.md) later supplied an argument for the reversal
 [CLAIM-247](CLAIM-247.md) records.
+
+## Note of 2026-10-27: narrowed and promoted
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) narrowed this claim to what the
+record observed, and promoted it. Version 1 also said that such an
+argument fails at identity *rather than* at structure, in general. That
+comparison was counted in one exchange, with one owner and one assistant
+family, which this entry's own body called "a pattern, not a measurement".
+It is now [CLAIM-483](CLAIM-483.md), Proposed, with version 1's defeater.
+
+The observation has been made again since it was filed, in exchanges this
+claim did not cite:
+
+- In the exchange of 2026-10-17, A12 rebuilt the will essay without citing
+  it ([CLAIM-027](CLAIM-027.md)'s note of 2026-10-18). [CLAIM-122](CLAIM-122.md) was re-derived three times
+  without being cited.
+- In the exchange of 2026-10-20, neither reply cited [CLAIM-025](CLAIM-025.md), or the
+  [THEORY-145](../theory.d/THEORY-145.md) that grounded it, while restating both ([CLAIM-025](CLAIM-025.md)'s note of
+  2026-10-21).
+- Notes on [CLAIM-086](CLAIM-086.md), [CLAIM-150](CLAIM-150.md), [CLAIM-277](CLAIM-277.md) and [CLAIM-329](CLAIM-329.md) record the same
+  thing for the exchanges of 2026-10-13 and later.
+
+Six exchanges, one owner and one assistant family. The title says that
+and no more.

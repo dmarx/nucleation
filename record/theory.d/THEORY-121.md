@@ -63,8 +63,9 @@ summary: >-
   determinism.
 
 answers:
-- QUESTION-071
 - QUESTION-011
+bears_on:
+- QUESTION-071
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->

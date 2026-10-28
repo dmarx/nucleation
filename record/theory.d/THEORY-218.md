@@ -39,7 +39,7 @@ supports:
 - CLAIM-272
 - CLAIM-279
 - CLAIM-274
-answers:
+bears_on:
 - QUESTION-084
 ---
 <!-- inactive-ok-file: CLAIM-272 CLAIM-279 CLAIM-280 THEORY-224 — Proposed; open claims and sister readings, cited as what this bears on, nothing here rests on their being settled -->

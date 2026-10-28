@@ -75,7 +75,7 @@ summary: >-
   perfect functional duplicate on another substrate we lack even a
   conception of the evidence; Block (2009, LIT-632) states the
   biological premise from the other side.
-answers:
+bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-460 THEORY-577 THEORY-606 — Proposed; the accounts filed on 2026-10-16 for readings this account cites, named in Connections and not leaned on -->

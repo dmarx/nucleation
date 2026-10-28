@@ -18,8 +18,6 @@ tags:
 - pragmatics
 date: '2026-10-10'
 line: pragmatic-transport
-answers:
-- QUESTION-002
 rests_on:
 - CLAIM-113
 - CLAIM-077
@@ -47,6 +45,8 @@ illustrated_by:
 - CASE-038
 objected_by:
 - CLAIM-145
+bears_on:
+- QUESTION-002
 ---
 <!-- inactive-ok-file: CLAIM-113 CLAIM-077 CLAIM-034 CLAIM-002 CLAIM-145 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp that is the prior art, not as settled -->

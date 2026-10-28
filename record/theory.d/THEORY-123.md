@@ -46,7 +46,7 @@ summary: >-
 extended_by:
 - THEORY-126
 - THEORY-826
-answers:
+bears_on:
 - QUESTION-053
 ---
 <!-- inactive-ok-file: THEORY-826 — Proposed; the wider claim this narrowing dropped, named in the promotion note -->

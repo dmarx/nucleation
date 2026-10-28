@@ -6,8 +6,9 @@
 
 **Quantum foundations** — what quantum theory says about the world — contextuality, epistemic restrictions, interference, reconstructions and toy theories, quantum thermodynamics.
 
-1 of 79 TERM documents. Back to the [full index](../README.md).
+2 of 95 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-024](../../../record/terms.d/TERM-024.md) v3 | noncommutativity, of events and of operations | A30's disambiguation: noncommuting events or projectors (P_A P_B ≠ P_B P_A), which rule out a joint distribution for sharp measurements, versus noncommuting operations on probability states, which classical stochastic maps also show. | Active |
+| [TERM-087](../../../record/terms.d/TERM-087.md) | cut, and which sense: a Cartesian cut, Pattee's epistemic cut, or Barad's agential cut, enacted by an apparatus | Three senses of "cut" the exchange of 2026-10-27 used, which A9 §4 said "are not interchangeable concepts". The Cartesian cut is a separation of observer from observed taken as given before any measurement. Pattee's epistemic cut ([LIT-1190](../../../record/literature.d/LIT-1190.md), read in [NOTE-952](../../../record/notes.d/NOTE-952.md)) is the functional separation of symbolic description from the dynamics it measures or controls, and is epistemic, not ontological. Barad's agential cut ([LIT-1653](../../../record/literature.d/LIT-1653.md), [LIT-1657](../../../record/literature.d/LIT-1657.md), unread) is a differentiation enacted within a phenomenon by an apparatus, through which boundaries and properties become determinate. Proposed: the record had no word for them, and they recur in [CLAIM-476](../../../record/claims.d/CLAIM-476.md). | Proposed |

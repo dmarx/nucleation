@@ -46,7 +46,7 @@ summary: >-
   baseline toward threshold and leaves the moment to fluctuation. The
   convergence is real; the evidence is group fits on a few paradigms, so
   Proposed. It does not say who sets the parameters, or how.
-answers:
+bears_on:
 - QUESTION-062
 ---
 <!-- inactive-ok-file: LIT-600 LIT-604 — Unavailable, unread; Norman & Shallice and Carver & Scheier named as the older traditions, not leaned on -->

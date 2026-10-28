@@ -13,7 +13,7 @@ source:
 - LIT-1050
 - LIT-1072
 answers:
-- QUESTION-105
+- QUESTION-289
 summary: >-
   Alchourrón, Gärdenfors and Makinson (1985), [LIT-1050](../literature.d/LIT-1050.md), read in [NOTE-874](../notes.d/NOTE-874.md), with
   Hansson's survey, [LIT-1072](../literature.d/LIT-1072.md), read in [NOTE-866](../notes.d/NOTE-866.md). Contracting a closed theory A by

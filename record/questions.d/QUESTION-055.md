@@ -33,9 +33,6 @@ tags:
 - mathematics
 date: '2026-10-12'
 line: 'pragmatic-transport'
-answered_by:
-- THEORY-041
-- THEORY-042
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-119](../claims.d/CLAIM-119.md), [CLAIM-038](../claims.d/CLAIM-038.md),
@@ -46,6 +43,9 @@ summary: >-
   gives each one's limit.
 refined_by:
 - QUESTION-247
+bearing:
+- THEORY-042
+- THEORY-041
 ---
 
 # QUESTION-055: If communicative categories form a non-Boolean lattice, what structure fixes the negation of a category: a presheaf over contexts, and if so over which base category, an orthocomplemented lattice, or sectors that no probe connects?

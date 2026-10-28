@@ -39,7 +39,7 @@ complements:
 - CLAIM-125
 grounds:
 - THEORY-176
-- THEORY-156
+- THEORY-1096
 - LIT-363
 - LIT-850
 - THEORY-175
@@ -127,3 +127,13 @@ the information a receiver's decisions need. That reading is interpretive,
 and so is this claim's warrant now. The defeat condition still names the
 formal failures. Since [CLAIM-268](CLAIM-268.md) holds them, meeting either one would
 defeat both claims. The claim stays Proposed while [CLAIM-050](CLAIM-050.md) is.
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-1096](../theory.d/THEORY-1096.md). It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
+general converse, which stays Proposed, is not used. Quotations of
+[THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.

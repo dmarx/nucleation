@@ -58,7 +58,10 @@ vocabularies:
           any machine-learning claim
       ecology:
         label: Ecology
-        blurb: 'how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028)'
+        blurb: 'how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028). How a partner comes to live inside another and depend on it is endosymbiosis (ADR-055)'
+      endosymbiosis:
+        label: Endosymbiosis and reductive evolution
+        blurb: 'how one organism comes to live inside another and depend on it, and how that ends — reductive genome evolution by drift, deletional bias or adaptive loss (including the Black Queen dependencies of free-living microbes), complementary loss across partners, nested symbioses and symbiont splitting and replacement, endosymbiotic gene transfer, protein import and host control of transmission, organellogenesis and organelle loss, and eukaryogenesis. The ecology of a partnership is ecology (ADR-055)'
       thermodynamics:
         label: Thermodynamics
         blurb: 'the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020)'
@@ -602,6 +605,15 @@ vocabularies:
           depends on processes on different timescales that reproduce, contest and transform the authority through
           which it is enacted; the Paris Agreement as the case'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
+# The pending report's age horizon, at the record's own pace: the default 90
+# could not name a stale document in a record a month old (ADR-057).
+stale_days: 14
+# The fields that carry dependence: what a document needs to be true or to mean
+# what it says. The pending report ranks undecided documents by how much rests
+# on them, and `load-bearing` names any with at least `load_bearing` dependents
+# (ADR-057; luria 1.3.0).
+reliance: [rests_on, grounds, uses, presupposes]
+load_bearing: 5
 paths:
   docs: docs
   decisions: record/decisions.d
@@ -852,6 +864,14 @@ schemes:
         required: false
         many: true
         converse: answered_by
+      bears_on:
+        label: Bears on
+        blurb: a question of the record's own that this account is evidence for or against, or a premise
+          of, without answering it or a part it settles exactly; `answers` is for an answer (ADR-060)
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: bearing
       supports:
         label: Supports
         blurb: the record's own claims and arguments resting on this account, written by `luria link --fix`
@@ -860,6 +880,15 @@ schemes:
         required: false
         many: true
         converse: grounds
+      corroborates:
+        label: Corroborates
+        blurb: a claim of the record's own that this account gives independent evidence for, without the
+          claim resting on it. Rejecting this account leaves the claim with less support, not without its
+          footing; a claim that needs the account names it in `grounds` (ADR-058)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: corroborated_by
       reports:
         label: Reports
         blurb: the cases the record took from this account, written by `luria link --fix` from their `reported_in`
@@ -981,6 +1010,14 @@ schemes:
         required: false
         many: true
         converse: answers
+      bearing:
+        label: Bearing on it
+        blurb: the claims and accounts that bear on this question without answering it, written by `luria
+          link --fix` from their `bears_on` (ADR-060)
+        scheme: [CLAIM, THEORY]
+        required: false
+        many: true
+        converse: bears_on
       superseded_by:
         scheme: QUESTION
         many: true
@@ -1019,6 +1056,14 @@ schemes:
         required: false
         many: true
         converse: answered_by
+      bears_on:
+        label: Bears on
+        blurb: a question this claim is evidence for or against, or a premise of, without answering it or
+          a part it settles exactly; `answers` is for an answer, held or offered (ADR-060)
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: bearing
       rests_on:
         label: Rests on
         blurb: another of the record's own claims this one could not stand without — the spine of the
@@ -1112,8 +1157,10 @@ schemes:
         converse: corroborated_by
       corroborated_by:
         label: Corroborated by
-        blurb: the converse of `corroborates`, written by `luria link --fix`.
-        scheme: CLAIM
+        blurb: the claims, and the readings (THEORY), that give this claim independent evidence without
+          its resting on them; the converse of `corroborates`, written by `luria link --fix`. A reading
+          that this claim needs is `grounds` (ADR-044, ADR-058)
+        scheme: [CLAIM, THEORY]
         required: false
         many: true
         converse: corroborates
@@ -1499,10 +1546,39 @@ lint:
   fail_on:
   - workflow-temp-codes
   - source-mismatch
+  # ADR-057's credence checks, at zero when adopted: a new one fails unless a
+  # `pattern-ok:` in the first node's document says why it is deliberate.
+  - inverted_premise
+  - inverted_ground
+  - answered_but_open
+  - answered_but_open_reading
+  # A count that may fall and may not rise (ADR-057, mechanism 5). `load-bearing`
+  # is left a warning: filing a claim on a Proposed premise is ordinary work.
+  baseline:
+    unbounded-acknowledgements: 41
   mute:
   - inert-status
   - acknowledged-uniformity
 patterns:
+  # The credence checks of ADR-057, as warning classes (`report: true`). An
+  # ARG's premises are not among them: its status is credence in its
+  # inference (ADR-059). Quoted, because a property map puts `: ` in the value.
+  inverted_premise:
+    match: "(c:CLAIM {status: 'Active'})-[:rests_on]->(p:CLAIM {status: 'Proposed'})"
+    report: true
+    blurb: An Active claim resting on a Proposed one.
+  inverted_ground:
+    match: "(c:CLAIM {status: 'Active'})-[:grounds]->(t:THEORY {status: 'Proposed'})"
+    report: true
+    blurb: An Active claim grounded in a Proposed reading; if it does not rest on it, the edge is corroborated_by (ADR-058).
+  answered_but_open:
+    match: "(q:QUESTION {status: 'Open'})<-[:answers]-(c:CLAIM {status: 'Active'})"
+    report: true
+    blurb: An Open question with an Active answer, which ADR-049 says is Answered or split (ADR-060).
+  answered_but_open_reading:
+    match: "(q:QUESTION {status: 'Open'})<-[:answers]-(t:THEORY {status: 'Active'})"
+    report: true
+    blurb: An Open question with an Active reading as its answer, which ADR-049 says is Answered or split (ADR-060).
   # A claim and the claims an argument draws it from. No field holds this:
   # the conclusion is the ARG's `concludes`, the premises its `rests_on`. So
   # the `argument` chain walks it beside `rests_on`, and each step it adds
@@ -1517,7 +1593,7 @@ patterns:
   # undercut off the dialectic page. This puts the undercutting claim in
   # the conclusion's thread, named with the argument it went through. A
   # Rejected argument is kept: an undercut that succeeded is the history
-  # the thread is for (ADR-054).
+  # the thread is for (ADR-061).
   undercuts_support_of:
     match: >-
       (u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)
@@ -1564,7 +1640,7 @@ chains:
     title: Objections and replies
     blurb: Each objection with the reply to it and the reply to that, as one thread. An undercut joins
       the thread of the claim the undercut argument concludes, through that argument. Faceted by voice
-      and by credence, so an open objection is a counter still Proposed (ADR-032, ADR-054).
+      and by credence, so an open objection is a counter still Proposed (ADR-032, ADR-061).
     facet_by:
     - role
     - status

@@ -32,8 +32,6 @@ tags:
 date: '2026-10-13'
 source:
 - LIT-1014
-answers:
-- QUESTION-058
 summary: >-
   Ziyin (2024), [LIT-1014](../literature.d/LIT-1014.md), read in [NOTE-716](../notes.d/NOTE-716.md). If a per-sample loss
   is invariant under the reflection I − 2OOᵀ, then Oᵀθ = 0 is a stationary
@@ -49,6 +47,8 @@ summary: >-
   QUESTION-206.
 extended_by:
 - THEORY-781
+bears_on:
+- QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-781 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->

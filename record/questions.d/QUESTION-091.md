@@ -19,7 +19,7 @@ summary: >-
   from talk of "synchronization". Its spectral radius is a control
   parameter and, outside the linear excitatory case, only a sufficient
   bound, not an order parameter (see the note of 2026-10-13).
-answered_by:
+bearing:
 - THEORY-215
 ---
 <!-- inactive-ok-file: CLAIM-163 LIT-1036 LIT-1028 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

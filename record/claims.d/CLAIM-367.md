@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw4w7a
 title: 'Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,22 @@ history:
     description, agency and legibility: A8 and A9 reached this claim's case
     unprompted and added the timescale of adaptation as a variable this
     claim leaves implicit. The claim is unchanged.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a theory of transformer learning dynamics read on
+    2026-10-26 for the exchange "Experimental Infrastructure Review"
+    gives two exact cases of this claim's division, a circuit's gradient
+    set by the data and by another circuit's state, and a learned
+    structure kept by one optimizer and not another. The claim is
+    unchanged.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the IOI circuit's backup heads, read on
+    2026-10-26, with the authors' untested explanation by dropout,
+    are a candidate case of a network property sourced in the
+    training regime. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +77,7 @@ summary: >-
   does not say the governance is unreal, or that a network cannot come to
   hold some of it.
 ---
+<!-- inactive-ok-file: THEORY-995 — Proposed; the dropout account of IOI's backup heads, cited as a candidate case, untested -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-027 CLAIM-288 CLAIM-194 CLAIM-157 CLAIM-284 CASE-113 QUESTION-122 CLAIM-368 — Proposed; open claims and readings, cited as open -->
 
 # CLAIM-367: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
@@ -184,3 +201,44 @@ boundary." Under [CLAIM-174](CLAIM-174.md)'s third condition, which agent passes
 on the timescale of the intervention on consequences. That is a parameter
 this claim's "which unit is individuated for the training dynamics" leaves
 implicit.
+
+## Note of 2026-10-26: a circuit's gradient set by the data and the optimizer
+
+T24 of the exchange "Experimental Infrastructure Review" cited this claim
+for the governance of a transformer's development ([QUESTION-275](../questions.d/QUESTION-275.md)). One
+of the works it drew on, Musat, Pimentel, Zucchet and Hofmann's theory of
+invariant learning dynamics ([NOTE-1177](../notes.d/NOTE-1177.md)), read on 2026-10-26, gives
+two exact cases of the division this claim draws, inside its idealized
+attention-only model.
+
+- **The data and another circuit set a circuit's gradient**
+  ([THEORY-1009](../theory.d/THEORY-1009.md)). Once an in-weights circuit has memorized the common
+  pairs, the population gradient on the induction circuit is its gradient
+  without it multiplied by fr + (1 − fr)fv, the share of the data the
+  memorized map does not solve. How fast the induction circuit is learned
+  is fixed by data statistics and by the state of a circuit in orthogonal
+  coordinates, not by anything the induction circuit holds.
+- **The optimizer decides what structure training keeps**
+  ([THEORY-981](../theory.d/THEORY-981.md)). Gradient descent never leaves the subspace the
+  data's symmetries fix. An elementwise optimizer such as sign descent
+  keeps it only when that subspace is aligned with the parameter
+  coordinates. Whether the network's learned organization stays in the
+  symmetric subspace is a fact about the optimizer–network–data system.
+
+Both are theorems in a model with fixed write maps, under plain gradient
+descent for the first, and neither is a crossed intervention of the kind
+[CASE-113](../cases.d/CASE-113.md) asks for. The claim is unchanged.
+
+## Note of 2026-10-27: a redundancy the training regime may have put there
+
+Wang et al.'s IOI circuit in GPT-2 small ([LIT-1540](../literature.d/LIT-1540.md), [NOTE-1167](../notes.d/NOTE-1167.md)),
+read on 2026-10-26 at the owner's request, has backup name-mover heads
+that take over when the name movers are knocked out, so the circuit
+keeps most of its effect ([THEORY-980](../theory.d/THEORY-980.md)). The authors explain it in one
+sentence, by dropout during training ([THEORY-995](../theory.d/THEORY-995.md)); the reading
+records the alternative that attention re-routes after the ablation. If
+the dropout account holds, the redundancy is a property the trained
+network carries whose source is a condition of its training regime, the
+boundary this claim draws between what governs training and what belongs
+to the network. No comparison with and without dropout exists, and
+nothing here tests it. The claim is unchanged.

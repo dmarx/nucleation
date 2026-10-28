@@ -14,7 +14,6 @@ date: '2026-10-10'
 line: 'pragmatic-transport'
 grounds:
 - THEORY-032
-- THEORY-038
 - LIT-222
 complements:
 - CLAIM-151
@@ -34,6 +33,7 @@ summary: >-
 supports:
 - CLAIM-206
 ---
+<!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-472 — Proposed; the claims that name this guard, cited as open -->
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the two theses this disclaimer guards, both open -->
 
@@ -124,3 +124,23 @@ under those interventions does not even fix which direction mediates; it
 fixes it only relative to a chosen decomposition into units. That is
 weaker than constitution and more basic. It is shown exactly for one
 constructed network.
+
+## Note of 2026-10-27: the guard restated, and its form for specifications
+
+The exchange of 2026-10-27 restated this claim without citing it, and
+then cited it as "Nucleation's strongest existing philosophical safeguard:
+**identification is not constitution**" (A10 §5). Its forms there: A7's
+"**Demonstrable**" against "**Philosophical hypothesis**" for luria; A10
+§5's three levels "that should never be conflated", formal (which
+configurations satisfy a specification), dynamical (which realized
+constraints affect a system) and ontological (whether the organization
+constitutes an individual), with "Success at one level provides potential
+evidence for another, not an automatic entailment"; and A9 §1's form for
+specifications, "Mathematical satisfaction is not physical production."
+The three claims filed from the exchange that go past the guard
+([CLAIM-477](CLAIM-477.md), [CLAIM-476](CLAIM-476.md), [CLAIM-472](CLAIM-472.md)) each name it among what
+they do not say. Nothing here changes.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed [THEORY-038](../theory.d/THEORY-038.md) from `grounds`. It is cited for the categorial point it shares with [THEORY-032](../theory.d/THEORY-032.md). That point, and Lam and Wüthrich's matching conclusion, are carried by [THEORY-032](../theory.d/THEORY-032.md) and [LIT-222](../literature.d/LIT-222.md), both already grounds. The body citation stays.

@@ -28,7 +28,6 @@ summary: >-
   reductions.
 ---
 
-<!-- inactive-ok-file: THEORY-073 — Proposed; named as the reading of Markov blankets this paper's usage does not go beyond, with no relation claimed -->
 
 # NOTE-477: Bayesian model reduction
 

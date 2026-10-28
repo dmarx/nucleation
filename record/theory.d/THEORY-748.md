@@ -22,8 +22,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1243
-answers:
-- QUESTION-219
 summary: >-
   Granero-Belinchón, Roux and Garnier (2016), [LIT-1243](../literature.d/LIT-1243.md), read in
   [NOTE-970](../notes.d/NOTE-970.md), claim that conditioning the entropy rate on the sign of
@@ -35,6 +33,8 @@ summary: >-
   the paper's one-point skewness of 0.175 give h⁺ − h⁻ ≈ 0.066 nats with
   symmetric increments. Nothing in the paper ties an information quantity
   to the energy balance.
+bears_on:
+- QUESTION-219
 ---
 
 # THEORY-748: Block entropies, and so every lag-τ entropy rate of a stationary signal, are unchanged by the reflection x → −x and by time reversal, so they cannot detect the odd-order asymmetry the 4/5 law ties to energy flux; Granero-Belinchón, Roux and Garnier's entropy rate conditioned on the sign of the increment breaks the reflection invariance, but h⁺ ≠ h⁻ shows only that the two-point distribution lacks central symmetry, which a skewed one-point distribution produces with exactly symmetric increments, so the test does not by itself detect skewed increments or an energy cascade

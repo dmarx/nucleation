@@ -34,8 +34,6 @@ source:
 - LIT-981
 extends:
 - THEORY-728
-answers:
-- QUESTION-052
 summary: >-
   Coifman et al. (2005), [LIT-981](../literature.d/LIT-981.md), skimmed in [NOTE-784](../notes.d/NOTE-784.md) from extracted text
   whose displayed equations were not visible. The construction and the
@@ -46,6 +44,8 @@ summary: >-
   wrong as stated. Self-adjointness comes from the kernel's symmetry, and
   the paper's "directed diffusion" is anisotropic, not a non-reversible
   chain.
+bears_on:
+- QUESTION-052
 ---
 
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the reading this account rests on, which is why it is Proposed -->

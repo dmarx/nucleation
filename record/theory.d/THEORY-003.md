@@ -43,7 +43,7 @@ summary: >-
   family where Riesz is invoked explicitly. InfoNCE is not HSIC: Li et
   al.'s eq. 28 decomposes it exactly as −HSIC plus a log-mean-exp term,
   and Theorem B.1 bounds it with no variance assumption.
-answers:
+bears_on:
 - QUESTION-052
 ---
 

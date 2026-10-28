@@ -1,10 +1,26 @@
 ---
 number: 328
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6gp8d
 title: 'When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added, from the exchange "About the Chagossians":
+    USIP as a second documented case of the respects separating, though
+    not yet of plural succession. The claim is unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Held by the owner's ruling of 2026-10-27 on the first status
+    review (ADR-057), carrying out the promotion audit's decision of
+    2026-10-19 (record/promotion-audit/decisions/CLAIM-328.yaml). It
+    is an existence claim, and CASE-105 (Active, documented) is a case
+    of it. No objection is filed. Which successor relation is
+    persistence stays QUESTION-118's.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -20,7 +36,7 @@ date: '2026-10-16'
 line:
 - distributed-agency
 answers:
-- QUESTION-118
+- QUESTION-290
 grounds:
 - CASE-105
 complements:
@@ -34,6 +50,8 @@ summary: >-
   of [QUESTION-118](../questions.d/QUESTION-118.md) at the owner's word. It concerns plural successor
   relations, not branching identity, and rests on one documented case
   with no data on how supporters divided.
+illustrated_by:
+- CASE-176
 ---
 
 # CLAIM-328: When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity
@@ -79,3 +97,24 @@ official"; fandom succession is "distributed and negotiated".
 - **The textual case.** [CLAIM-002](CLAIM-002.md)'s family of relations for retellings is
   the analogue for texts, which are copied rather than having their
   members replaced.
+
+## Note of 2026-10-27: a second case of the respects coming apart
+
+The claim's last point says that a second case, or supporter data on the
+first, is what would move it. The exchange of 2026-10-26 offered one.
+
+At USIP ([CASE-176](../cases.d/CASE-176.md)), A5 found juridical identity, the building and a
+name (later changed) continuing while personnel, leadership, programs,
+procedures and partner relations did not: "What persists legally need not
+be what persists functionally." A5 cited the claim, and read it in its
+weak form: "Nothing requires calling both numerically identical to the
+original USIP."
+
+It is a second case of the respects coming apart, by a takeover and not a
+relocation. It is not yet a case of plural succession: A5's second
+successor, a new body of former staff carrying on the mediation work, was
+put "hypothetically". Whether former staff carried the practice elsewhere
+is A5's test ("Subsequent employment, collaboration, and peacebuilding work
+of former USIP personnel"). The claim is not moved yet. The Chagossian
+diaspora ([CASE-169](../cases.d/CASE-169.md)) may be a third, with associations in three
+countries each continuing a part.

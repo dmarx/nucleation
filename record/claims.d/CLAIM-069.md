@@ -1,10 +1,20 @@
 ---
 number: 69
-status: Active
+status: Proposed
 formerly:
 - CLAIM-tmpje74v
 title: 'The 2016 Contextuality-by-Default criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Moved to Proposed by the owner's ruling of 2026-10-27 on the
+    status review (ADR-057). Its second clause, that the change
+    matters for observables in more than two contexts, is the part
+    THEORY-168 keeps Proposed: LIT-831 asserts it with no worked
+    example. THEORY-722 (Active) shows only that the change can bite
+    in three or more contexts, not that it does.
 role: granted
 warrant: interpretive
 tags:
@@ -56,3 +66,7 @@ represented: which couplings are imposed, and which dichotomizations are
 included ([THEORY-168](../theory.d/THEORY-168.md)). "The parity example is unaffected" assumes S, M
 and H are binary. If any of them is multi-valued and its coarsenings matter,
 even a single observable can come out contextual.
+
+## Note of 2026-10-27: Proposed
+
+The owner ruled this granted claim Proposed rather than narrowing its title. What would return it to Active is [THEORY-168](../theory.d/THEORY-168.md)'s own promote_when: a worked system that is noncontextual under CbD 1.0 and contextual under 2.0.

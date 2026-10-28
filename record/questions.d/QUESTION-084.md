@@ -19,7 +19,7 @@ summary: >-
   A8 on r/place: from placements alone "endorsement remains a latent
   explanatory hypothesis". It refines [QUESTION-063](QUESTION-063.md), which asks the same
   about drive, coupling and internal routes for collective outcomes.
-answered_by:
+bearing:
 - THEORY-218
 ---
 

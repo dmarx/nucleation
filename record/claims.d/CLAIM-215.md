@@ -40,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-139 CLAIM-151 CLAIM-136 CLAIM-204 — Proposed; open, and cited as the theses this one is split from or set beside, not as settled -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-221 — Proposed; the record's reply on competent uptake and the open objection from intention-based accounts, both cited as open -->
-<!-- inactive-ok-file: CLAIM-241 CLAIM-216 — Proposed; the objections filed with this entry on 2026-10-10, open -->
+<!-- inactive-ok-file: CLAIM-216 — Proposed; the objections filed with this entry on 2026-10-10, open -->
 
 # CLAIM-215: Communicative kinds are repeatable organizations of relations among participants, norms, commitments and possible consequences, which concrete events realize without being one another, and which kind an event realizes is not exhausted by the intrinsic properties of the expression token
 

@@ -13,8 +13,6 @@ source:
 - LIT-1094
 - LIT-1091
 - LIT-1080
-answers:
-- QUESTION-114
 summary: >-
   Harinarayan, Rajaraman and Ullman (1996), [LIT-1094](../literature.d/LIT-1094.md), read in [NOTE-895](../notes.d/NOTE-895.md);
   Gupta (1997), [LIT-1091](../literature.d/LIT-1091.md), read in [NOTE-889](../notes.d/NOTE-889.md); Gupta and Mumick (2005),
@@ -29,6 +27,8 @@ summary: >-
   in which every view is queried more often than it is updated.
 extended_by:
 - THEORY-350
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-356: When stored views are never updated, greedily storing the view of largest marginal saving in query cost gets at least 1 − 1/e of the optimal saving on a data-cube lattice or any OR or AND view graph, against the optimum for the same number of views or for the space the greedy ends up using, which may exceed the budget by one view

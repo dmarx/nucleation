@@ -17,7 +17,7 @@ summary: >-
   A17 §9, from the owner's EMT case ([CASE-085](../cases.d/CASE-085.md)). The team knew the drug was
   stocked, the box encoded where, and neither got it to the medic in time. Hutchins's
   distributed cognition ([LIT-1060](../literature.d/LIT-1060.md), unread) is the tradition that asks this.
-answered_by:
+bearing:
 - CLAIM-296
 - THEORY-351
 ---

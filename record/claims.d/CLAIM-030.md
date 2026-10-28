@@ -31,11 +31,9 @@ tags:
 date: '2026-10-04'
 line: distributed-agency
 grounds:
-- THEORY-140
-- THEORY-144
+- CASE-138
 - THEORY-725
 - THEORY-127
-- THEORY-139
 illustrated_by:
 - CASE-006
 - CASE-025
@@ -51,8 +49,11 @@ supports:
 - CLAIM-271
 complements:
 - CLAIM-332
+corroborated_by:
+- THEORY-144
+- THEORY-140
 ---
-<!-- inactive-ok-file: CLAIM-177 THEORY-140 THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: THEORY-140 THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
 <!-- inactive-ok-file: THEORY-127 — Proposed; the general impossibility, cited as open beside its Active court-agenda core THEORY-725 -->
 
@@ -101,3 +102,7 @@ sets do. That the failure is general, so that no proposition-wise rule
 meeting the usual conditions is robustly rational, is [THEORY-127](../theory.d/THEORY-127.md)'s, and it
 remains Proposed because the source cites it without proof. Nothing here
 depends on it.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-140](../theory.d/THEORY-140.md) and [THEORY-144](../theory.d/THEORY-144.md) from `grounds` to `corroborated_by`. Both are cited for an organization's course moving through mechanisms no member intended, not for their general causal theses. [CASE-138](../cases.d/CASE-138.md) (Active, documented) now grounds the claim with the Columbia board's finding. [THEORY-139](../theory.d/THEORY-139.md) is removed, because [THEORY-725](../theory.d/THEORY-725.md) and [THEORY-127](../theory.d/THEORY-127.md), both Active and already grounds, carry what it was cited for. [THEORY-127](../theory.d/THEORY-127.md) is Active, and earlier notes here that call it Proposed predate that.

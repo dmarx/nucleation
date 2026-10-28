@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp99x1h
 title: "In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal task vectors, simulation shows skills progressing together under gradient descent, the weaker taking about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence appears under sign descent only when the loss's eigendirections are misaligned with the coordinates"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,13 @@ history:
     skill onset in trained networks, as the paper proposes, is filed as
     the Proposed THEORY-783, which extends this one (ADR-047 v4,
     narrowing-loss sweep, batch 068). Status and title are unchanged.
+- version: 4
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the rotated-quadratic lesson's form in a
+    transformer, from a theory of invariant learning dynamics read on
+    2026-10-26, and a measured dependency case for "Not the only cause".
+    Status and title are unchanged.
 tags:
 - learning-theory
 date: '2026-10-14'
@@ -40,12 +47,12 @@ summary: >-
   one fitted ODE; a derivation and a trained-network test are QUESTION-193.
   Sequential onset caused by dependency between skills is a
   separate experiment, not part of this account.
-answers:
-- QUESTION-039
 supports:
 - CLAIM-367
 extended_by:
 - THEORY-783
+bears_on:
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-783 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-212 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
@@ -171,3 +178,30 @@ could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is 
 [THEORY-783](THEORY-783.md): that sign-descent-like optimizers such as Adam are one
 source of sequential skill onset in trained networks, as the paper
 proposes. This account is that one's evidence, and nothing here changes.
+
+## Note of 2026-10-26: the misalignment condition in a transformer, and a dependency case
+
+T24 of the exchange "Experimental Infrastructure Review" cited this
+account for transformers without its toy scope ([QUESTION-275](../questions.d/QUESTION-275.md)). Two
+works read on 2026-10-26 for that question bear on it.
+
+- **The misalignment condition in a transformer** ([THEORY-981](THEORY-981.md)). In
+  Musat, Pimentel, Zucchet and Hofmann's attention-only transformers on
+  block-list inductive tasks, population gradient descent never leaves
+  the subspace of weights the data's symmetries fix. The record checked,
+  when it read the paper, that sign descent keeps that subspace only when
+  its basis is aligned with the parameter coordinates: with random
+  orthonormal embeddings or write maps, sign(G) leaves it (relative
+  residual 0.6 to 0.7) while G stays in it. That is this account's
+  rotated quadratic, carried to a transformer's weight space: an
+  elementwise optimizer changes the dynamics where the relevant directions
+  are not coordinate-aligned. It is about which subspace training stays
+  in, not about onset order, and nobody has yet run the comparison
+  [QUESTION-193](../questions.d/QUESTION-193.md) asks for in that setting.
+- **Dependency, measured** ([THEORY-973](THEORY-973.md)). Under "Not the only cause",
+  the record now holds a dependency case in trained networks: in small
+  attention-only transformers, in-context learning waits on the
+  composition of two heads, and removing the need for it moves the jump
+  earlier.
+
+Status and title are unchanged.

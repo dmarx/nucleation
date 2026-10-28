@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp9ca8a
 paper: LIT-013
 title: 'Hierarchical Pitman-Yor topic models'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-25'
@@ -19,6 +19,14 @@ history:
     whether it matches v1 word for word is unverified.). Upgraded from
     `Skimmed` to `Read`: the claims table, assumptions and results are new,
     and the skim is corrected where the full text disagreed.
+- version: 3
+  date: '2026-10-26'
+  note: >-
+    A dated note added: the exchange "Experimental Infrastructure
+    Review" (T21) proposed combining a topic hierarchy, an author–topic
+    model and a relational model to infer an organization's
+    perspectives, and did not find this reading, which holds the topics-
+    and-network half of that combination. The reading is unchanged.
 date: '2026-09-25'
 summary: >-
   The paper collapses every Pitman–Yor node to customer and table counts
@@ -242,3 +250,18 @@ Adding one word changes each count by at most 1 (Table 2). Each step of the samp
   - Eq. 53 writes the base of θ_d as ρ^{θd} η_m + (1 − ρ^{θd}) θ′_d; it should be η_d. §5.6.1 likewise indexes η_m, θ′_m, θ_m and lists "ψ, φ′ and γ" for ψ, ψ′, γ.
   - Eq. 83, as printed, has exponent t_k^{µ1} + Σ_{i=1}^A ν_i, which puts a probability vector in an exponent. It presumably means Σ_i t_k^{νi}. Checked on the page image.
   - Algorithm 4 step 3(b) samples "z′_dn" for a hashtag; it should be z′_dm.
+
+## Note of 2026-10-26: a held instance of topics fitted with relations among authors
+
+T21 of the exchange "Experimental Infrastructure Review" proposed, as a way
+to infer an organization's perspectives from its members' messages
+([QUESTION-276](../questions.d/QUESTION-276.md)), combining a hierarchical topic model with an
+author–topic model and a mixed-membership relational model. It did not
+find this reading. [LIT-013](../literature.d/LIT-013.md)'s Twitter-Network Topic Model is a held
+instance of the topics-and-network half of that combination: a
+hierarchical Pitman–Yor topic model fitted jointly with a GP
+random-function model of links among 150 authors, which beats a
+nonparametric author–topic model on perplexity (Table 4 above). Two
+limits bear on whether it would carry over to an organization: its
+network half is fitted by a separate MH step, and its one corpus is
+filtered to 150 authors. The reading is unchanged.

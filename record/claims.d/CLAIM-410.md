@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpyxupb
 title: 'Removing a constraint on an organization''s members does not move it along one scale of more or less governance: it changes a profile of who holds rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members'' first-order options and their share in revising the conditions of their action can move in opposite directions'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,13 @@ history:
     frames the dispute as who plans, with delegation to organized
     industries as a third locus, the claim's transfer case. Context only;
     the claim is unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added, from the exchange "About the Chagossians":
+    the USIP takeover laid out as a profile, with interpretation and
+    organizational control as further positions, and the gap between a
+    procedure for appeal and a path to remedy. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -58,6 +65,8 @@ summary: >-
   A18: "This doesn't establish that deregulation is good or bad."
 supports:
 - CLAIM-404
+illustrated_by:
+- CASE-176
 ---
 <!-- inactive-ok-file: CLAIM-352 CLAIM-354 CLAIM-359 THEORY-470 THEORY-429 — Proposed; open claims and a reading this claim complements or cites as the transfer case, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-841 — Proposed; Hayek's argument, cited as context for the transfer case, nothing here rests on it -->
@@ -168,3 +177,23 @@ non-monotonicity of options and autonomy, in a two-agent form.
   [TERM-023](../terms.d/TERM-023.md) "analogically to institutions". The claim rests on the
   institutional results above ([CLAIM-086](CLAIM-086.md), [CLAIM-057](CLAIM-057.md), [CLAIM-282](CLAIM-282.md)) and not on
   the analogy.
+
+## Note of 2026-10-27: a profile read off a takeover, and remedy
+
+A6 of the exchange of 2026-10-26 laid the USIP takeover ([CASE-176](../cases.d/CASE-176.md))
+out on this claim's profile: rule-making (the statute), appointment and
+removal (disputed), enforcement (MPD and FBI), interpretation (officers
+deciding whose documents established authority), adjudication and appeal
+(the courts) and organizational control (the new leadership). Two of
+these are not in the claim's five. Interpretation is the step at which an
+enforcer decides whose claim it acts on, and A6 found it decisive: "The
+police did not have to resolve the constitutional controversy correctly
+in order to make one side's claim practically effective." Organizational
+control, who holds the building, systems and payroll, is what the claim's
+removal of a constraint transfers.
+
+A7 found the profile missing a dimension: "Having an appeal procedure is
+not equivalent to having a viable path to remedy." Appeal is a position in
+the profile; whether a decision on appeal can be carried out is a relation
+among the positions, [TERM-085](../terms.d/TERM-085.md)'s correctability, and the question of
+what keeps it is [QUESTION-278](../questions.d/QUESTION-278.md).

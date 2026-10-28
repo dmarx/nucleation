@@ -27,8 +27,6 @@ source:
 - LIT-156
 presupposes:
 - THEORY-138
-answers:
-- QUESTION-033
 summary: >-
   Hazelwood (2023), [LIT-156](../literature.d/LIT-156.md), read in full in [NOTE-137](../notes.d/NOTE-137.md). A dilemma against
   strong reciprocal causation in the extended evolutionary synthesis, aimed
@@ -40,6 +38,8 @@ summary: >-
   second horn considers only two non-emergent options. The weak sense, that
   organisms and environments affect each other, is granted as
   unobjectionable.
+bears_on:
+- QUESTION-033
 ---
 <!-- inactive-ok-file: THEORY-446 — Proposed; the unrolled model named under what this account does not say, not leaned on -->
 <!-- inactive-ok-file: THEORY-048 THEORY-058 — Proposed; accounts that cite this paper or answer the same interlevel question, named as neighbours, not leaned on -->

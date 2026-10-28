@@ -29,11 +29,8 @@ tags:
 - philosophy-of-language
 date: '2026-10-10'
 line: pragmatic-transport
-rests_on:
-- CLAIM-087
-- CLAIM-081
 grounds:
-- THEORY-156
+- THEORY-1096
 - THEORY-176
 objects_to:
 - CLAIM-050
@@ -51,6 +48,10 @@ summary: >-
   of [CLAIM-050](CLAIM-050.md)'s defeat condition, not its letter. It is distinct from
   [CLAIM-140](CLAIM-140.md), which sets the analyst against the receiver: this sets the
   ideal receiver against an actual one.
+rests_on:
+- CLAIM-270
+supports:
+- CLAIM-087
 ---
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-087 CLAIM-081 CLAIM-076 — Proposed; the improvement, legibility and cross-modal claims this objection rests on or cites, open -->
@@ -164,3 +165,17 @@ receiver's are I_Ω and I_V. The paper does not mention Blackwell, and its
 quantity is for log loss only. The reconciliation in [CLAIM-199](CLAIM-199.md) stands; its
 note of the same day says when the ceiling holds in V-information. The
 claim is unchanged.
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-1096](../theory.d/THEORY-1096.md). It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
+general converse, which stays Proposed, is not used. Quotations of
+[THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed `rests_on: CLAIM-087`. The dilemma holds whatever [CLAIM-087](CLAIM-087.md)'s truth ("It does not say [CLAIM-087](CLAIM-087.md) is false"), and [CLAIM-087](CLAIM-087.md)'s garbling bound uses this claim's result, so the dependence runs the other way and [CLAIM-087](CLAIM-087.md) now rests on this claim. `rests_on: CLAIM-081` is now [CLAIM-270](CLAIM-270.md) (Active, demonstrated): "A state can become more conventional, and easier to read, while carrying less information about its origin", the point this claim uses.

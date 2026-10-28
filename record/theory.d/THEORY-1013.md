@@ -1,0 +1,167 @@
+---
+number: 1013
+status: Proposed
+formerly:
+- THEORY-tmpx97zh
+promote_when: >-
+  A systematic count, not chosen examples: for whole layers of trained
+  networks, a stated criterion of what makes a unit or direction an
+  understood feature (for instance, the seven arguments Zoom In applies to
+  curve detectors), the fraction of units that meet it, and for the
+  connections between understood features, weight-level predictions of
+  what editing them changes, tested by editing them. Confirmed if most of a
+  layer's capacity is accounted for by such features and their circuits
+  predict edits; refuted if the understood features are a small and
+  unrepresentative minority, or if circuit-level predictions fail under
+  edits. More well-chosen examples cannot settle it.
+title: 'In trained vision networks, units or other directions in a layer''s activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose'
+version: 3
+history:
+- version: 1
+  date: '2026-10-26'
+  note: >-
+    Filed Proposed from NOTE-1182, the reading of Zoom In in full. The
+    essay offers it as the first two of three "deliberately speculative"
+    claims, with qualitative examples from one model.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: Curve Detectors, the first of the articles
+    Zoom In defers its evidence to, was registered and read on
+    2026-10-27. It supplies four of the seven arguments for one family
+    and no fraction of a layer, so the promote_when is not met and the
+    account stays Proposed.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    A dated note added: An Overview of Early Vision in InceptionV1 and Curve
+    Circuits, which the note of version 2 calls not registered and not held,
+    were registered and read on 2026-10-27 (LIT-1624, LIT-1629).
+    Early Vision gives the first denominator, not the criterion; Curve
+    Circuits completes the seven arguments for one family and adds one
+    tested weight edit. The promote_when is not met and the account stays
+    Proposed.
+tags:
+- representation-learning
+date: '2026-10-26'
+source:
+- LIT-1543
+summary: >-
+  Olah et al. (2020), [LIT-1543](../literature.d/LIT-1543.md), read in [NOTE-1182](../notes.d/NOTE-1182.md): Claims 1 and 2
+  of the essay. The evidence is a set of examples in InceptionV1 (curve,
+  high-low frequency and dog head detectors; the curve, oriented dog head
+  and car circuits), argued with feature visualization, dataset examples,
+  synthetic stimuli, tuning curves and the weights. The essay names
+  polysemantic neurons as the main obstacle. It gives no count of how much
+  of a layer is understood.
+---
+<!-- inactive-ok-file: THEORY-986 THEORY-802 — Proposed; the companion claim from the same essay and the basis-relative account it is set beside, cited as open -->
+<!-- inactive-ok-file: THEORY-1022 — Proposed; the Curve Detectors authors' full claim, cited as open -->
+<!-- inactive-ok-file: THEORY-1040 THEORY-1047 — Proposed; the Early Vision and Curve Circuits authors' wider claims, cited as open -->
+
+# THEORY-1013: In trained vision networks, units or other directions in a layer's activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
+
+## Source
+
+Olah, Cammarata, Schubert, Goh, Petrov and Carter (2020), *Zoom In: An
+Introduction to Circuits*, Distill, [LIT-1543](../literature.d/LIT-1543.md), read in full in
+[NOTE-1182](../notes.d/NOTE-1182.md): Claims 1 and 2, the glossary, and Interpretability as a
+Natural Science.
+
+## What is asserted
+
+That a trained network "consist[s] of meaningful, understandable
+features", directions in activation space, usually neurons, and that the
+weights between features in adjacent layers are "meaningful algorithms
+corresponding to facts about the world" that can be read off. The essay
+offers these as empirical claims and as norms for how to study networks.
+
+## What the record holds toward it
+
+- **Curve detectors in InceptionV1's mixed3b**, argued seven ways,
+  including a hand-set reimplementation that mimics the originals.
+- **Three circuits**: curve detectors built from earlier curve detectors
+  along the tangent, with weights that rotate with orientation; a
+  four-layer oriented dog head circuit; and a car feature spread over dog
+  neurons.
+- **Its own counter-case**: polysemantic neurons such as 4e:55 (cat faces,
+  car fronts, cat legs), "a major challenge for the circuits agenda".
+
+## Why it stays Proposed
+
+The essay calls its claims speculative and defers the evidence. The
+examples were chosen, from one model, with no denominator, and the
+counter-case is acknowledged and unresolved. The transformer work that
+follows ([LIT-1534](../literature.d/LIT-1534.md)) reports it "had a lot more success" with attention
+heads than with neurons, and that MLP neurons have been "much harder to
+develop hypotheses for".
+
+## What this does not say
+
+- Not that every neuron is a feature: polysemantic neurons are granted.
+- Not that features are unique directions: a direction is a linear
+  combination of neurons, and the essay does not ask whether another basis
+  would serve as well (the question of [THEORY-802](THEORY-802.md)).
+- Not anything about how features or circuits form in training.
+
+## What would confirm or reject it
+
+The promote_when above.
+
+## Note of 2026-10-27: Curve Detectors, read
+
+Cammarata et al.'s *Curve Detectors* ([LIT-1575](../literature.d/LIT-1575.md), [NOTE-1198](../notes.d/NOTE-1198.md)), the
+first of the articles Zoom In defers its evidence to, was registered and
+read on 2026-10-27 at the owner's request. Of Zoom In's seven arguments
+for a curve detector, it supplies four for the mixed3b family (feature
+visualization, dataset examples, synthetic curves and joint tuning under
+rotation, with attribution and blind labelling added), measured as
+[THEORY-1028](THEORY-1028.md). The other three (the implementing circuit, the
+downstream use and the hand-written reimplementation) are deferred again,
+to *Curve Circuits*, which the record does not hold. The authors' full
+claim of causality, generality and purity is [THEORY-1022](THEORY-1022.md), Proposed.
+
+The article gives no count over a layer: the family is ten of mixed3b's
+480 units, about 2%. The promote_when's "fraction of units that meet" a
+stated criterion is therefore not supplied, and the account stays Proposed
+for the reason it already gives: chosen examples, no denominator. The
+likeliest source of such a count is the thread's *An Overview of Early
+Vision in InceptionV1*, which sorts the early layers' units into families;
+it is not registered.
+
+## Note of 2026-10-27 (later): Early Vision and Curve Circuits, read
+
+The note above says that *An Overview of Early Vision in InceptionV1* "is
+not registered" and that *Curve Circuits* is not held. Both were
+registered and read on 2026-10-27, at the owner's request ("file the next readings"): Early Vision as
+[LIT-1624](../literature.d/LIT-1624.md) ([NOTE-1206](../notes.d/NOTE-1206.md)) and Curve Circuits as [LIT-1629](../literature.d/LIT-1629.md)
+([NOTE-1207](../notes.d/NOTE-1207.md)).
+
+- **A denominator, not the criterion ([THEORY-1042](THEORY-1042.md)).** Every one of the
+  1,056 units of conv2d0 to mixed3b is in exactly one of 77 groups (3, 8,
+  14, 18 and 34 per layer). 391 units (37%) are in groups whose own
+  captions call them catch-all, broad and not well defined,
+  low-confidence, unstudied or not understood: 14%, 48%, 7%, 48% and 45%
+  by layer. The fourteen mixed3b groups the article presents as well
+  understood hold 118 of 480 units (24.6%), and the curve family is 10
+  (2.1%). The groups are sorted by eye, often after "a few minutes", so
+  this is the fraction the promote_when asks for without the "stated
+  criterion" it asks for. The authors' claim that such families are real
+  and recur across models is [THEORY-1040](THEORY-1040.md), Proposed.
+- **The seven arguments, for one family ([THEORY-1038](THEORY-1038.md)).** Curve
+  Circuits supplies the three Curve Detectors deferred: the implementing
+  circuit, a downstream use (described, not measured) and the hand-written
+  reimplementation, compared by figures only. With [THEORY-1028](THEORY-1028.md), all seven
+  of Zoom In's arguments are now held for the mixed3b curve family. All
+  but one are qualitative. The exception is the echo edit: restricting
+  the curve units' input to mixed3a's early curves with the negative
+  weights removed brings back the 180° echo, and keeping them does not.
+  That is one weight-level prediction tested by editing, of the kind the
+  promote_when names. The authors' claim that the algorithm is simple and
+  can be read off the weights is [THEORY-1047](THEORY-1047.md), Proposed.
+
+**Why it stays Proposed.** One family in one model, one confirmed edit,
+and no layer-wide criterion. Early Vision's census says how much of the
+early layers is sorted, not how much meets Zoom In's seven-argument
+standard; by that standard only the curve family and the curve circuit's
+inputs do. The status is unchanged.

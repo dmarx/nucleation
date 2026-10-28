@@ -52,20 +52,23 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
 - **Tags come from the closed `topics` vocabulary in `luria.yaml`, primary
   first.** A word the list lacks is added by decision, with a label and a
   blurb, never replaced by the nearest wrong one.
-- **Never hand-write a link target.** Write the bare code and run `luria link
-  --fix`.
+- **Never hand-write a link target.** Write the bare code; the pull
+  request's CI repair spells the target.
 - **Retire by status, never by deletion.**
 
 ## Working
 
     luria new lit --title "..."   # or: note, theory, question, claim, case,
                                   # term, arg, adr, dp, changelog, curation, workbench
-    luria repair
-    luria link --fix
-    luria index
-    luria lint                    # the only command that can fail
 
-Run all of them before pushing, then **do not commit what `luria index`
-regenerated**. Views land on the default branch through CI. Work goes to a
-branch and a pull request, and the changelog fragment goes in the same
-contribution.
+`luria new` is the only command a contribution needs locally. Open the pull
+request early and push each commit as you make it. The pull request's
+`docs-check` job repairs the sources, pushes the repair onto the branch, and
+lints the repaired tree. **Do not run `luria repair`, `link --fix`, `index` or
+`lint` as a step before pushing** ([ADR-054](record/decisions.d/ADR-054.md)): it duplicates CI and, at
+the record's size, takes minutes. If `docs-check` goes red, read its log, fix
+what it names on the branch, and push again; a narrow local command is fine
+for diagnosing. Pull before each push, since the bot's repair lands on the
+branch as its own commit. Never commit generated views: they land on the
+default branch through CI. Work goes to a branch and a pull request, and the
+changelog fragment goes in the same contribution.

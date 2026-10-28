@@ -6,8 +6,8 @@
 
 **Personhood** — what a person is and what makes one persist — personal identity over time, psychological continuity and what matters in survival, persons as bearers of reasons, rights and responsibility. Not the self, which is self (group: philosophy; ADR-024).
 
-0 of 79 TERM documents. Back to the [full index](../README.md).
+1 of 95 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-083](../../../record/terms.d/TERM-083.md) | moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others | The owner's, U12 of the exchange of 2026-10-26. A12 split "moral worth" into this and a sense map ([TERM-081](../../../record/terms.d/TERM-081.md)). A claim of standing names its bearer, the interests or claims in question, the ground of standing and what follows. It does not entail consciousness as its only ground, collective agency, legal personhood or moral responsibility, and keeps moral patients apart from moral agents. Used at once by the Chagos case: the displaced are owed consideration whether or not they form one agent. Proposed. | Proposed |

@@ -27,7 +27,7 @@ summary: >-
   observables thesis.
 ---
 <!-- ref::uses-file: TERM-007 — stated in "fidelity, as preserving the dynamics of interpretation"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- inactive-ok-file: CLAIM-046 CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-055: The pragmatic identity of an utterance is partly constituted by the context-dependent transformations it induces, so pragmatic fidelity is an approximate structure-preserving correspondence between source and target dynamics

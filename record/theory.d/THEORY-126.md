@@ -57,7 +57,7 @@ summary: >-
   lacks evidence.
 presupposes:
 - THEORY-055
-answers:
+bears_on:
 - QUESTION-053
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-057 — Proposed; the appraisal account this one presupposes, and its constructionist rival, named for where convergence comes from -->

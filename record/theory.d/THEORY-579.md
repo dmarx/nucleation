@@ -27,8 +27,6 @@ date: '2026-10-16'
 source:
 - LIT-097
 - LIT-403
-answers:
-- QUESTION-035
 summary: >-
   Clark & Chalmers (1998), [LIT-097](../literature.d/LIT-097.md), read in [NOTE-180](../notes.d/NOTE-180.md), with Clark's reply
   to the critics (2005), [LIT-403](../literature.d/LIT-403.md), read in [NOTE-363](../notes.d/NOTE-363.md). Otto's notebook plays
@@ -47,6 +45,8 @@ extended_by:
 rivals:
 - THEORY-528
 - THEORY-591
+bears_on:
+- QUESTION-035
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 THEORY-343 THEORY-646 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 

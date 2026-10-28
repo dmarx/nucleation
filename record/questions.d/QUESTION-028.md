@@ -29,10 +29,10 @@ summary: >-
   ([THEORY-036](../theory.d/THEORY-036.md)) says compressibility alone
   admits almost every non-random pattern, so the work falls on the
   question's own qualifiers. No criterion has been given.
-answered_by:
-- THEORY-036
-- THEORY-556
+bearing:
 - CLAIM-402
+- THEORY-556
+- THEORY-036
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: LIT-301 — Unavailable; unread, named as the text that would settle THEORY-036 -->

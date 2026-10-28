@@ -18,8 +18,6 @@ tags:
 - pragmatics
 date: '2026-10-12'
 line: pragmatic-transport
-answers:
-- QUESTION-073
 complements:
 - CLAIM-160
 - CLAIM-151
@@ -30,8 +28,10 @@ summary: >-
   against [CLAIM-151](CLAIM-151.md) and [CLAIM-217](CLAIM-217.md)). It gives each claim its own
   object rather than picking one. Proposed and not adopted: the owner has
   not taken it.
+bears_on:
+- QUESTION-073
 ---
-<!-- inactive-ok-file: CLAIM-151 CLAIM-160 CLAIM-217 CLAIM-241 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-160 CLAIM-217 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
 # CLAIM-255: Intending to perform an act, performing it and being recognized as having performed it are distinct, coupled variables: intended meaning is fixed at production, the act partly by roles, standing and norms, and recognition by uptake, so competent uptake is constitutive for some acts, evidential for others and irrelevant to the existence of still others
 
 ## The claim

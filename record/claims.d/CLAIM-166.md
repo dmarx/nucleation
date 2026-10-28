@@ -27,8 +27,6 @@ tags:
 - ecology
 date: '2026-10-11'
 line: distributed-agency
-answers:
-- QUESTION-033
 uses:
 - TERM-051
 - TERM-045
@@ -51,6 +49,8 @@ summary: >-
   effects on subjective stress, and nulls.
 illustrated_by:
 - CASE-047
+bears_on:
+- QUESTION-033
 ---
 <!-- inactive-ok-file: THEORY-560 — Proposed; the account of the gut–brain evidence this claim relied on, added to its grounds -->
 <!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->

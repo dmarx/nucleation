@@ -11,8 +11,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-314
-answers:
-- QUESTION-058
 summary: >-
   Cohen & Welling (2016), [LIT-314](../literature.d/LIT-314.md), read in [NOTE-288](../notes.d/NOTE-288.md). G-correlation
   commutes with the left action of G by the change of variables h → uh
@@ -23,6 +21,8 @@ summary: >-
   uses no irreducible representations, characters or Fourier analysis,
   learns nothing about which symmetry the data have, and does not separate
   the effect of equivariance from the changed channel structure.
+bears_on:
+- QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-019 — Proposed; accounts of symmetry in spectra and in updates, named in Connections, not leaned on -->
 

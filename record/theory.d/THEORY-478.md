@@ -25,8 +25,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-870
-answers:
-- QUESTION-025
 summary: >-
   Lin, Coifman, Mishne & Talmon (2023), [LIT-870](../literature.d/LIT-870.md), read in [NOTE-675](../notes.d/NOTE-675.md). The
   hyperbolic diffusion distance is equivalent to min{1, d_T^(2α)} for
@@ -37,6 +35,8 @@ summary: >-
   average precision and its higher distortion than hyperbolic MDS on five
   graph benchmarks. A Euclidean distance on the same multiscale features
   does far worse.
+bears_on:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: CLAIM-119 THEORY-196 — Proposed; the lattice claim and the tree-embedding account set beside this one, not leaned on -->
 

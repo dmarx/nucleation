@@ -40,6 +40,7 @@ summary: >-
 used_by:
 - CLAIM-401
 ---
+<!-- inactive-ok-file: CLAIM-475 CLAIM-470 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: CLAIM-401 QUESTION-252 — Proposed; the claim and question filed from the same exchange, cited as where the regime is used -->
 <!-- inactive-ok-file: CLAIM-363 CLAIM-348 — Proposed; the owner's point about relata and the target-relativity of adequacy, cited as the shape this term borrows, nothing rests on them -->
 
@@ -124,3 +125,22 @@ now state their relativities one at a time are clearer stated in it.
   system's coarse description, not a rendering between two.
 - **Not a privilege for its components.** Naming a target or a budget in a
   regime does not say it is the right one (A14's merge condition).
+
+## Note of 2026-10-27: where the query family comes from
+
+At U17 of the exchange "Field Existence Question" the owner said that resource
+constraints bear on specification as they do on realization ([CLAIM-475](../claims.d/CLAIM-475.md)).
+A17 §8 drew a consequence for this term, which it called "A correction to
+Nucleation's existing formalism". ℛ = (X, 𝒬, ℐ, ℬ, ε, τ) takes the query family
+𝒬 as supplied, "But your observation suggests that **𝒬 is itself an output of
+bounded activity**." It sketched 𝒬_t as generated within a budget from the
+concepts K_t available, with K_{t+1} revised by findings, and kept this term's
+reason for holding ℛ fixed while descriptions are compared: "**The fixed
+inquiry regime is a local methodological commitment, not a claim that inquiry
+regimes are exogenously given.**"
+
+The term is not amended. Holding ℛ fixed is what lets two descriptions be
+compared without moving the goalposts, and nothing in the exchange argued
+against it. The note records what the term leaves outside its scope. That is
+how a regime comes to be available ([CLAIM-475](../claims.d/CLAIM-475.md)), and how inquiry revises
+one ([CLAIM-470](../claims.d/CLAIM-470.md), which uses this term).

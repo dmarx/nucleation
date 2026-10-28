@@ -55,7 +55,7 @@ summary: >-
   own derivation, [ANTH-LIT-589](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-589.md), passes through an approximation). Tschannen et
   al. ([LIT-247](../literature.d/LIT-247.md)) show that tightening the bound does not explain what
   makes the representations good.
-answers:
+bears_on:
 - QUESTION-052
 ---
 <!-- inactive-ok-file: THEORY-227 — Proposed; the accounts filed from LIT-246 and LIT-247, named in Connections and not leaned on -->

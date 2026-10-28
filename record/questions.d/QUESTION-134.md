@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpn0znj
 title: 'When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: T24 of the exchange "Experimental Infrastructure
+    Review" brought this question's split into a single transformer,
+    where backpropagation couples a component's training signal to its
+    downstream influence by construction (checked). The question is
+    unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -77,3 +86,31 @@ opportunities are decoupled from its influence.
 
 A specialist that loses influence and keeps its competence. That is
 under-use, which [QUESTION-132](QUESTION-132.md)'s recovery exponent already covers.
+
+## Note of 2026-10-26: inside one network, access follows influence by construction
+
+<!-- inactive-ok-file: THEORY-186 — Proposed; the staged learning from small weights cited as the same product structure, nothing here rests on it -->
+
+The reply at T24 of the exchange "Experimental Infrastructure Review"
+brought this question's split into a single transformer
+([QUESTION-275](QUESTION-275.md)): "A component might have a large effect on current
+predictions but receive little additional training signal. Conversely, a
+newly developing feature might receive substantial gradient updates while
+remaining behaviorally weak. We should measure these separately."
+
+Within one network the coupling is not a design choice. Backpropagation
+scales the gradient that reaches a component by the weight of the path
+leading out of it.
+
+- For y = w·h(θ), ∂L/∂θ = (∂L/∂y)·w·h′(θ). For y = w·tanh(θx) the
+  gradient norm on θ was 1.95, 0.137 and 0.013 at w = 1, 0.1 and 0.01.
+- In softmax attention, the gradient on a value vector v_j is exactly α_j
+  times the gradient on the output (checked to 1.5 × 10⁻¹⁰).
+
+So influence-dependent access is the default. A low-influence path's
+upstream parameters are starved while its downstream weight still learns,
+and [THEORY-186](../theory.d/THEORY-186.md)'s stages from small weights have the same product
+structure. [CASE-117](../cases.d/CASE-117.md)'s decoupled-exposure control has no counterpart in one
+network without an intervention on the gradient path itself, such as an
+auxiliary loss on the component or a stop-gradient. The question is
+unchanged.

@@ -6,8 +6,8 @@
 
 **Operations research** — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
-0 of 79 TERM documents. Back to the [full index](../README.md).
+1 of 95 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-085](../../../record/terms.d/TERM-085.md) | correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources | A10's α_J, from the exchange of 2026-10-26, on the owner's U10 tying the "correctability frontier" to "if I can't find it, it isn't there". It is [TERM-055](../../../record/terms.d/TERM-055.md)'s operational availability with a corrective objective in place of a resource and an institutional arrangement in place of an agent: search, authorization, coordination and execution compete for the same time. Named because the exchange used the object in four turns (A7 to A10) under "remedial reach", "effective remedial capacity", "effective answerability" and "correctability frontier". Proposed. | Proposed |

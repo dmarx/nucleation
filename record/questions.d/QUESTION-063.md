@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpovbjd
 title: 'When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
@@ -23,16 +23,20 @@ history:
   note: >-
     Note of 2026-10-23 added: Bigand et al. (THEORY-891, Proposed)
     answer the parent in part. It stays Open.
+- version: 4
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a second setting, the Northstar firm of the
+    exchange "Experimental Infrastructure Review", where the confound
+    arose in inferring an organization's perspectives from its members'
+    activity (QUESTION-276), with interventions proposed and none
+    run. The question is unchanged.
 tags:
 - natural-sciences
 - complex-systems
 - ecology
 date: '2026-10-12'
 line: 'distributed-agency'
-answered_by:
-- THEORY-129
-- THEORY-130
-- THEORY-891
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-035](QUESTION-035.md), [QUESTION-033](QUESTION-033.md),
@@ -42,6 +46,10 @@ refined_by:
 - QUESTION-084
 - QUESTION-186
 - QUESTION-263
+bearing:
+- THEORY-891
+- THEORY-130
+- THEORY-129
 ---
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?
@@ -84,3 +92,42 @@ peers against hierarchy; an unrecorded shared drive, since here the drive
 was the experimenters' known music; and the question's second part,
 telling one internal route from another. The absence of an interaction
 rests on a null test, not an equivalence test.
+
+## Note of 2026-10-26: shared disturbances against organization in a simulated firm
+
+<!-- inactive-ok-file: CASE-166 — Proposed; the reported study, cited as open -->
+
+A second setting. The Northstar simulation reported at T20 of the
+exchange "Experimental Infrastructure Review" ([CASE-166](../cases.d/CASE-166.md); reported as
+"PerspectiveLab v2.11" and not reproduced, since dmarx/PerspectiveLab holds
+no v2.10 or v2.11) fitted
+overlapping activity modes to employee trajectories. The reply said they
+"could reflect shared environmental disturbances rather than genuine
+higher-level interpretive organization". T22 named the confound again:
+"correlated activity may be caused by common external events. Employees
+responding to the same incident don't necessarily constitute one
+emergent perspective."
+
+A check made when [CASE-166](../cases.d/CASE-166.md) was filed gives this question's shared
+drive in that setting: twelve employees with no communication, each seeing
+two of three shared disturbances, give three clear correlation modes, each
+spanning all four departments. T22 proposed interventions of the kind
+this question asks for: team rewiring, incident-command handoff,
+departure of participants and a change of authorization pathway, each
+scored against what the communication and authorization graph already
+predicts. [CASE-101](../cases.d/CASE-101.md)'s first population is the confound's constructed form.
+None of these interventions has been run. [QUESTION-276](QUESTION-276.md) asks the
+question for an organization's inferred perspectives. The question is
+unchanged.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Stewart, Golubitsky and Pivato ([NOTE-1217](../notes.d/NOTE-1217.md)) treat drive and coupling on one
+footing. A drive is just another cell, and balance counts inputs whoever sends
+them. In Pecora and Carroll's master–slave network (Fig. 19, p. 635), cells
+that are only driven are robustly synchronous with cells that also drive back.
+In Example 5.1 (p. 626), cells with no arrows among them are robustly
+synchronous. So a pattern forced by the architecture means "equal input", not
+"coupled to each other". A cluster is evidence of coupling only relative to a
+graph that includes every source of input. That is the record's reading of the
+paper, which never discusses drive.

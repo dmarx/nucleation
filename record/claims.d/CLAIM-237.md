@@ -23,9 +23,9 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 grounds:
-- THEORY-156
+- THEORY-1096
 - THEORY-717
-- THEORY-174
+- THEORY-720
 objects_to:
 - CLAIM-125
 summary: >-
@@ -132,3 +132,23 @@ the situations z are also finitely many, the step it takes from Blackwell
 is the direct implication in [THEORY-717](../theory.d/THEORY-717.md), Active: Q = PM gives the rule
 MD the risks of D. "Theorem 3 in [THEORY-156](../theory.d/THEORY-156.md)'s reading" above names the same
 step. For infinitely many situations the ground is still [THEORY-156](../theory.d/THEORY-156.md).
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-1096](../theory.d/THEORY-1096.md). It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
+general converse, which stays Proposed, is not used. Quotations of
+[THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
+
+## Note of 2026-10-27: grounded in the proved half
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-174](../theory.d/THEORY-174.md) to [THEORY-720](../theory.d/THEORY-720.md). The claim uses the classical simulations and their
+monotonicity, that they never create contextuality, which is proved in
+refereed venues and Active as [THEORY-720](../theory.d/THEORY-720.md). It does not use [THEORY-174](../theory.d/THEORY-174.md)'s
+characterization, that a map is such a simulation exactly when a
+non-contextual model of the hom scenario induces it. That half waits on an
+independent proof of the corrected Theorem 44 and stays Proposed.

@@ -12,8 +12,6 @@ date: '2026-10-15'
 source:
 - LIT-1073
 - LIT-1058
-answers:
-- QUESTION-095
 summary: >-
   Gray, Sims, Fu and Schoelles (2006), [LIT-1073](../literature.d/LIT-1073.md), read in [NOTE-868](../notes.d/NOTE-868.md), and Gray and Fu
   (2004), [LIT-1058](../literature.d/LIT-1058.md), read in [NOTE-864](../notes.d/NOTE-864.md). Adding a click to reach on-screen show
@@ -27,6 +25,8 @@ summary: >-
   retrievals, no precomputation, no reuse across trials and no staleness.
 supports:
 - CLAIM-296
+bears_on:
+- QUESTION-095
 ---
 
 # THEORY-346: When information stays in view at a known place, people consult it less and rely on memory more as the time to reach it rises, in a graded trend across added delays from 0 to 3.2 seconds, even where the memory is weak and the display perfect; in one copying task a model that prices memory and display access in time alone, with no preference for either source, fits how many items people encode per look

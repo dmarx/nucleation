@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp822h0
 paper: LIT-153
 title: 'Angius et al. — Making sense of transformer success'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-26'
@@ -20,6 +20,12 @@ history:
     read.). Upgraded from `Skimmed` to `Read`: the claims table, assumptions
     and results are new, and the skim is corrected where the full text
     disagreed.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    A dated note added: ACDC, the paper's example of circuit
+    discovery, was registered and read on 2026-10-26. The reading is
+    unchanged.
 date: '2026-09-26'
 summary: >-
   Current attempts to explain transformer language models' competence fall
@@ -153,3 +159,13 @@ This is philosophy of science about interpretability. It carries no instruction 
 - The sparse-autoencoder work is cited as "Huben et al. (2023)". Whether that is the right first author for the SAE paper is unverified.
 - cognition tag: justified. The paper applies explanation in cognitive science (functional analysis, mechanism, simulative method) to machine cognitive capacities (ToM, entity tracking, property induction), and presupposes the computational theory of mind.
 - tags: neuroscience would be justifiably appropriate (§6 is entirely about fMRI brain-score studies). linguistics is weak under its blurb ("not as models encode them"). The paper is about how models attain linguistic competence, not about language as linguists pose it. Primary topic philosophy-of-science is right.
+
+## Note of 2026-10-27: ACDC, now held
+
+ACDC, the paper's example of circuit discovery, was registered and read
+on 2026-10-26 for the owner's request about the record's circuits
+literature ([LIT-1547](../literature.d/LIT-1547.md), [NOTE-1170](NOTE-1170.md)). The reading finds that it
+reproduces hand-found circuits fairly well on three language-model tasks
+([THEORY-970](../theory.d/THEORY-970.md)), and that what it returns is one of several sufficient
+subgraphs, chosen by the order in which it visits edges
+([THEORY-966](../theory.d/THEORY-966.md)). The reading is unchanged.

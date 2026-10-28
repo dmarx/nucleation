@@ -28,7 +28,7 @@ grounds:
 supersedes:
 - CLAIM-006
 uses:
-- TERM-035
+- TERM-030
 summary: >-
   Manuscript §1, and the Abstract's "retain its topic while reversing
   the speaker's stance, and ... change almost every word while
@@ -55,7 +55,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: LIT-766 — Unavailable; Hofstadter, unread here, named as the reading the necessity candidate waits on -->
 
-<!-- ref::uses-file: TERM-035 — stated in "frame, as the delivery frame: interpretive, enunciative and performative", the definition current when this claim was written; it has since been superseded -->
+<!-- ref::uses-file: TERM-030 — footing and the speaker's position are components of TERM-030's configuration c = (u, s, a, k, n, g, h), which is where the delivery frame's who-to-whom-from-what-position went; until 2026-10-27 it used TERM-035, now Superseded -->
 <!-- inactive-ok-file: THEORY-162 — Proposed; context change as part of meaning, cited as support, not as settled -->
 <!-- inactive-ok-file: CLAIM-006 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -111,3 +111,9 @@ candidate, [CASE-031](../cases.d/CASE-031.md), pending a reading of [LIT-766](..
 `grounds` are existence proofs for the sufficiency half, which is modal;
 they do not bear on how common the dissociation is, which [CLAIM-115](CLAIM-115.md)'s
 comparative test needs. The text above is unchanged.
+
+## Note of 2026-10-27: stated in the live term
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-035](../terms.d/TERM-035.md),
+which is Superseded. It now uses [TERM-030](../terms.d/TERM-030.md): footing and the speaker's position are components of [TERM-030](../terms.d/TERM-030.md)'s configuration c = (u, s, a, k, n, g, h), which is where the delivery frame's who-to-whom-from-what-position went. The claim's status is not
+changed by this.

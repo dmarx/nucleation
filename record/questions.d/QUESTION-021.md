@@ -17,7 +17,6 @@ summary: >-
   manuscript takes the second horn in practice ([CLAIM-115](../claims.d/CLAIM-115.md)) but
   never argues against the first.
 answered_by:
-- CLAIM-115
 - CLAIM-002
 - CLAIM-111
 - CLAIM-137
@@ -28,6 +27,8 @@ refined_by:
 - QUESTION-028
 - QUESTION-029
 - QUESTION-030
+bearing:
+- CLAIM-115
 ---
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; answers proposed on 2026-10-10, cited as open -->

@@ -30,11 +30,12 @@ summary: >-
   as a system is "happy" in a stable orbit, mapped through Frijda. The
   line the will paper grew out of; set aside from it.
 grounds:
-- THEORY-055
 - THEORY-125
 supports:
 - CLAIM-432
 - CLAIM-440
+uses:
+- TERM-094
 ---
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
@@ -111,3 +112,12 @@ whatever criterion separates remorse from reputation management. The
 discriminating design holds reputation, sanctions and commercial benefit
 roughly fixed and asks whether others' harms keep independent authority
 in the organization's decisions.
+
+
+## Note of 2026-10-27: the concept, not the account
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim from grounding
+in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-094](../terms.d/TERM-094.md), Frijda's action readiness with
+control precedence. The claim uses the concept. It does not need the
+account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
+and which stays Proposed.

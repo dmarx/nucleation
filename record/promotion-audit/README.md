@@ -54,3 +54,9 @@ fired once against the real ledger on 2026-10-19 (DP-4): with
 `decisions/CLAIM-270.yaml` moved away, it reported "CLAIM-270 is decided in
 the queue but has no decision file" and exited 1. With the file restored it
 passed.
+
+## Closed
+
+ADR-057 replaces this procedure: the worklist is derived on each pass by
+`record/status-review/worklist.py`, and nothing here is updated. This
+directory stays as the record of the first audit, 2026-10-19 to 2026-10-21.

@@ -34,8 +34,6 @@ tags:
 - self-governance
 - social-ontology
 date: '2026-10-13'
-answers:
-- QUESTION-090
 works:
 - self-as-recursive-ecology
 line:
@@ -61,6 +59,8 @@ illustrated_by:
 complements:
 - CLAIM-272
 - CLAIM-281
+bears_on:
+- QUESTION-090
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

@@ -4,7 +4,7 @@
 
 **operations-research**.
 
-23 of 1165 NOTE documents. Back to the [full index](../README.md).
+23 of 1243 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

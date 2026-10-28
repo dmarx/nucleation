@@ -25,8 +25,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-168
-answers:
-- QUESTION-035
 summary: >-
   Wilson and Barker (SEP, 2007; substantive revision 2024), [LIT-168](../literature.d/LIT-168.md), read in
   [NOTE-114](../notes.d/NOTE-114.md). That organisms are not the only biological individuals is
@@ -35,6 +33,8 @@ summary: >-
   framework that places each case is the authors' own and tentative, and
   its figures draw as disjoint the categories the text says overlap. It
   offers no criterion of parthood and leaves holobionts open.
+bears_on:
+- QUESTION-035
 ---
 <!-- inactive-ok-file: THEORY-448 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-128 THEORY-130 THEORY-135 THEORY-141 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->

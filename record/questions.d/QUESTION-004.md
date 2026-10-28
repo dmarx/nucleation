@@ -17,7 +17,7 @@ summary: >-
   contextuality line. Not carried into the manuscript, whose Case II
   only asks that context effects be reported separately from possible
   contextuality.
-answered_by:
+bearing:
 - CLAIM-105
 ---
 

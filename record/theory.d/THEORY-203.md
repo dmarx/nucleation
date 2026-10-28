@@ -32,7 +32,7 @@ summary: >-
   one data collapse against exact BP at v = 32, m = 8, s = 2. It builds on
   the threshold of [THEORY-199](THEORY-199.md) and inherits its limits. Not about trained
   diffusion models, and not evidence that text or images are hierarchical.
-supports:
+corroborates:
 - CLAIM-031
 ---
 <!-- inactive-ok-file: THEORY-199 THEORY-201 QUESTION-025 — Proposed or open; cited as the account this one extends, the ones it is set beside, and the question it does not answer -->

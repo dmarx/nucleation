@@ -28,7 +28,7 @@ summary: >-
   prepared by decision makers each optimising locally. Proposed: the
   account is built from accident reconstructions, which see only the cases
   that crossed.
-supports:
+corroborates:
 - CLAIM-030
 ---
 

@@ -36,7 +36,7 @@ summary: >-
   for exceeding others. Read through social cognitive and behavioural
   theory: rewards tied to success carry competence. Proposed: the paper
   measures no mediator and pools control groups that differ in feedback.
-answers:
+bears_on:
 - QUESTION-066
 ---
 <!-- inactive-ok-file: LIT-754 — Unavailable: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->

@@ -46,6 +46,7 @@ grounds:
 complements:
 - CLAIM-128
 - CLAIM-153
+- CLAIM-365
 uses:
 - TERM-060
 summary: >-
@@ -64,7 +65,6 @@ summary: >-
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
 supports:
 - CLAIM-361
-- CLAIM-365
 - CLAIM-440
 ---
 

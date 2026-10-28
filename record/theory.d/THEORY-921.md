@@ -29,7 +29,7 @@ summary: >-
 supports:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 CLAIM-283 CLAIM-349 — Proposed; the claims this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-446 CLAIM-349 — Proposed; the claims this bears on, named, nothing here rests on them -->
 
 # THEORY-921: How far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful human samples
 

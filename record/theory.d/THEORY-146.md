@@ -32,11 +32,11 @@ summary: >-
   respond to funding. A merit-based independent funder worsens it; one
   ignoring industry-funded trials counters it. Proposed: one case and a
   small simulation.
-answers:
-- QUESTION-047
 supports:
 - CLAIM-276
 - CLAIM-404
+bears_on:
+- QUESTION-047
 ---
 <!-- inactive-ok-file: LIT-751 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-143 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->

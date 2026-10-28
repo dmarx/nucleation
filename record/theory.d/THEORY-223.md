@@ -37,7 +37,7 @@ summary: >-
   architecture. The paper's vignettes show agents adding channels and
   artifacts, not altering a control, so the recursion itself is argued and
   not observed.
-supports:
+corroborates:
 - CLAIM-086
 ---
 <!-- inactive-ok-file: CLAIM-284 CLAIM-288 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->

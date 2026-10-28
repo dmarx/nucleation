@@ -41,7 +41,7 @@ summary: >-
   identification.
 ---
 <!-- inactive-ok-file: CLAIM-117 CLAIM-063 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-046 CLAIM-127 — Proposed; the observational-equivalence claim this objection rests on and the causal layer it cites, open -->
+<!-- inactive-ok-file: CLAIM-127 — Proposed; the observational-equivalence claim this objection rests on and the causal layer it cites, open -->
 
 # CLAIM-253: The intertwining defects are defined on unobservable interpretive-state spaces, so they are not identified from judgement data, and the commutator identity bounds observed order effects only with a further, unstated readout-intertwining defect
 

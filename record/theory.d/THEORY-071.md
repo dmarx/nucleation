@@ -57,15 +57,15 @@ summary: >-
 rivals:
 - THEORY-208
 - THEORY-583
-answers:
-- QUESTION-032
 supports:
 - CLAIM-194
 - CLAIM-284
 - CLAIM-288
+bears_on:
+- QUESTION-032
 ---
 <!-- inactive-ok-file: THEORY-583 — Proposed; Levin's account, a rival, named for the case on which the two disagree -->
-<!-- inactive-ok-file: THEORY-072 THEORY-073 THEORY-043 THEORY-029 THEORY-054 THEORY-047 THEORY-056 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-072 THEORY-043 THEORY-029 THEORY-054 THEORY-047 THEORY-056 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-536 — Unavailable, no lawful full text; Biological Autonomy is named for its chapter on agency, not leaned on -->
 
 # THEORY-071: Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw83rc
 title: 'Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -23,6 +23,21 @@ history:
     audience, norms and uptake would then be only evidence of the act,
     not constituents of it, and that account would predict the CASE-018
     variation as well."
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    The scope sentence is withdrawn at the owner's direction. A5 of the
+    exchange of 2026-10-27 read the claim as restricting "relational
+    constitution to aspects of communicative acts, while explicitly
+    declining to infer a general ontology of physics", and the owner
+    replied at U6: "yeah ignore that. that should be changed. the
+    project's ambitions are extremely abstract and unrestricted." The
+    summary's "It is a thesis about social acts, not about fundamental
+    ontology" and the same sentence under "What it does not say" bounded
+    the record, not the argument. Both now say that the claim is argued
+    for social acts and that the general frame is CLAIM-477, of which
+    this is a domain case. Title, defeater, status and warrant are
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,6 +63,7 @@ grounds:
 - LIT-482
 - CASE-069
 complements:
+- CLAIM-477
 - CLAIM-130
 - CLAIM-150
 - CLAIM-215
@@ -59,7 +75,9 @@ uses:
 summary: >-
   The assistant at A187 §3, after the owner's U52 question about ontic
   structural realism, restated at A191 §1, A203 §3, A214 §13 and A218 §2.
-  It is a thesis about social acts, not about fundamental ontology. Its
+  It is argued for social acts, and its argument stops there; the
+  record's scope does not (version 3), and the general frame is
+  CLAIM-477, of which this is a domain case. Its
   "representational against constitutive transformation" is
   [CLAIM-004](CLAIM-004.md)'s distinction re-derived, so it rests there.
   Searle's status functions ([LIT-482](../literature.d/LIT-482.md)) are
@@ -67,7 +85,6 @@ summary: >-
 supports:
 - CLAIM-137
 - CLAIM-139
-- CLAIM-226
 - CLAIM-204
 - CLAIM-217
 objected_by:
@@ -75,6 +92,7 @@ objected_by:
 - CLAIM-224
 - CLAIM-229
 ---
+<!-- inactive-ok-file: CLAIM-477 — Proposed; the general frame this claim is a domain case of, cited as open -->
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-130 CLAIM-115 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the dilemma whose intrinsic horn "partly" takes, not as settled -->
@@ -125,10 +143,15 @@ manuscript already takes that position "without saying so".
 - It does not say that teasing is constituted by relations. That is
   [QUESTION-073](../questions.d/QUESTION-073.md), and until it is answered the claim's "can change the
   act" is carried by acts with standing conditions.
-- It does not say utterances, speakers or audiences do not exist. It is a
-  thesis about social acts, not about fundamental ontology. A191 §2: "We do
-  not need to deny that speakers, utterance tokens, audiences, and physical
-  interactions exist."
+- It does not say utterances, speakers or audiences do not exist. A191
+  §2: "We do not need to deny that speakers, utterance tokens, audiences,
+  and physical interactions exist."
+- It does not carry a general ontology. Its argument is about social acts
+  and goes no further. That is a limit of this argument, not of what the
+  record may claim: the owner set the record's ambitions as "extremely
+  abstract and unrestricted" (U6 of the exchange of 2026-10-27), and the
+  unrestricted frame is [CLAIM-477](CLAIM-477.md). This claim is its worked case for
+  communicative acts and does not, by itself, support it.
 - It is not a structural realism. "Partly constituted" leaves intrinsic
   identity-fixing features a role, and that is the intrinsic horn of
   Chakravartty's dilemma ([THEORY-034](../theory.d/THEORY-034.md)). On the record's reading a view on that

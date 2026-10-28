@@ -25,8 +25,6 @@ source:
 - LIT-1017
 rivals:
 - THEORY-666
-answers:
-- QUESTION-087
 summary: >-
   Di Paolo (2005), [LIT-1017](../literature.d/LIT-1017.md), read in full in [NOTE-719](../notes.d/NOTE-719.md). A conceptual
   argument against Weber and Varela: autopoiesis in its original
@@ -40,10 +38,12 @@ summary: >-
 supports:
 - CLAIM-288
 - CLAIM-339
+bears_on:
+- QUESTION-087
 ---
 <!-- inactive-ok-file: THEORY-666 — Proposed; the rival account, named as one end of the rivalry -->
 <!-- inactive-ok-file: THEORY-071 THEORY-217 THEORY-220 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->
-<!-- inactive-ok-file: CLAIM-025 CLAIM-288 — Proposed; the record's own claims this reading bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-288 — Proposed; the record's own claims this reading bears on, named and not leaned on -->
 
 # THEORY-628: Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity
 

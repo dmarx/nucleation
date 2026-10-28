@@ -25,7 +25,6 @@ date: '2026-10-04'
 line: distributed-agency
 grounds:
 - THEORY-689
-- THEORY-069
 - LIT-439
 objects_to:
 - CLAIM-110
@@ -33,6 +32,8 @@ summary: >-
   The owner's correction at U7: the three views are "perfectly mutually
   compatible ... complementary components of one theory". The case that
   made the record want a `complements` relation.
+corroborated_by:
+- THEORY-069
 ---
 
 # CLAIM-045: Architectural, dynamical and goal-directed accounts of distributed agency are complementary components of one account, each answering a different sub-question
@@ -54,3 +55,7 @@ That the three are one theory already. It says they do not compete, which is
 why the record wanted a `complements` relation. It has one between its own
 claims; between a claim and a THEORY it waits on a luria fix
 (dmarx/luria#358), so the accounts are premises here.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-069](../theory.d/THEORY-069.md) from `grounds` to `corroborated_by`, the cross-scheme relation the body was waiting for ([ADR-058](../decisions.d/ADR-058.md)). The claim uses what Kelso's account is about, and not HKB's empirical claims.

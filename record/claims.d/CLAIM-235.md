@@ -21,9 +21,9 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 grounds:
+- THEORY-722
 - LIT-851
 - THEORY-165
-- THEORY-168
 objects_to:
 - CLAIM-125
 - CLAIM-105
@@ -124,3 +124,7 @@ the same Δ levels as corpus frequencies." [CLAIM-127](CLAIM-127.md) separates t
   about pragmatic data.
 - For deficiency, a computable surrogate on a finite designed state space
   with known or estimated likelihoods.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) re-grounded the claim in [THEORY-722](../theory.d/THEORY-722.md) (Active, split from [THEORY-168](../theory.d/THEORY-168.md)) in place of [THEORY-168](../theory.d/THEORY-168.md): "The verdict on a fixed set of measurements therefore depends on which variables represent them", which is all the claim uses.

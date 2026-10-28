@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp053xo
 title: 'Softmax training identifies a language model''s final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch''s causal inner product is fixed by a stipulation'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -23,6 +23,14 @@ history:
     invariant to every invertible linear map is degenerate at full rank,
     and THEORY-230 (LIT-936), a geometry of the output laws that no
     output-preserving reparameterization changes.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    A dated note added: the circuits works read on 2026-10-26 give
+    the freedom's internal form in transformers (the residual stream
+    has no privileged basis) and show a sparse-autoencoder
+    dictionary as one choice of basis within it. Status and title
+    are unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -47,6 +55,7 @@ supports:
 extended_by:
 - THEORY-234
 ---
+<!-- inactive-ok-file: THEORY-1016 — Proposed; the sparse-autoencoder resolution account, cited as open -->
 
 # THEORY-018: Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation
 
@@ -142,3 +151,28 @@ stipulation, or compare in identified coordinates. [THEORY-230](THEORY-230.md) (
 comparison to the outputs: the Fisher–Rao geometry of the next-token laws
 is a function of the laws alone, so no output-preserving
 reparameterization, this account's GL(d) among them, changes it.
+
+## Note of 2026-10-27: the residual stream's freedom, and dictionaries as a choice of basis
+
+Two of the circuits works read on 2026-10-26 at the owner's request bear
+on the same freedom inside the network, where this account concerns only
+the last layer.
+
+- **The internal form.** Elhage et al.'s framework ([LIT-1534](../literature.d/LIT-1534.md),
+  [NOTE-1189](../notes.d/NOTE-1189.md)) states it for the residual stream: it has no privileged
+  basis, and rotating it together with every matrix that reads from or
+  writes to it leaves the model unchanged. The framework's path
+  expansion ([THEORY-988](THEORY-988.md)) is built from products that the rotation
+  leaves alone.
+- **A dictionary is a choice of basis.** A sparse autoencoder's
+  dictionary is one choice inside this freedom, fixed by sparsity, and
+  the number of its units is a further choice: features split and merge
+  as the dictionary grows ([THEORY-1016](THEORY-1016.md)), and which concepts get a
+  feature depends on their frequency relative to its size
+  ([THEORY-992](THEORY-992.md)). Towards Monosemanticity's agreement of features
+  across two seeds (median activation correlation 0.72, against 0.46 for
+  neurons; [NOTE-1191](../notes.d/NOTE-1191.md)) is a check that the choice reproduces, not a
+  proof that it is unique.
+
+The account, which concerns the final layer under softmax training, is
+unchanged.

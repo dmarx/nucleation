@@ -18,8 +18,6 @@ tags:
 - self
 date: '2026-10-11'
 line: distributed-agency
-answers:
-- QUESTION-032
 uses:
 - TERM-048
 - TERM-044
@@ -36,6 +34,8 @@ summary: >-
   closer to a self in [ADR-024](../decisions.d/ADR-024.md)'s self-governing sense, not in the subject
   sense. With [CLAIM-174](CLAIM-174.md) version 2, it answers the will paper's
   permissiveness objection on its merits.
+bears_on:
+- QUESTION-032
 ---
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited as answered here on its merits rather than set aside -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-166 — Proposed; the owner's thesis this narrows, the admission test and the drive claim, open -->

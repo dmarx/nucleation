@@ -40,10 +40,10 @@ summary: >-
   biographies mixed into web text. The theory is static. It does not say
   when in training the facts arrive, and it does not show that SGD
   reaches the optimal allocation.
-answers:
-- QUESTION-039
 extended_by:
 - THEORY-809
+bears_on:
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-809 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; partial answers to the same question, compared, not leaned on -->

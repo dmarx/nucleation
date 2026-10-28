@@ -13,15 +13,15 @@ date: '2026-10-12'
 line: 'will-organization'
 refines:
 - QUESTION-015
-answered_by:
-- THEORY-061
-- THEORY-068
-- THEORY-059
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-027](../claims.d/CLAIM-027.md), [CLAIM-122](../claims.d/CLAIM-122.md) and
   [QUESTION-054](QUESTION-054.md). [THEORY-061](../theory.d/THEORY-061.md), [THEORY-068](../theory.d/THEORY-068.md) and [THEORY-059](../theory.d/THEORY-059.md) answer it in
   part; the body gives each one's limit.
+bearing:
+- THEORY-059
+- THEORY-061
+- THEORY-068
 ---
 
 # QUESTION-062: Within a single decision, does a goal govern which response becomes effective by setting the terms of the competition among responses (threshold, starting point, inhibition) rather than by selecting one?

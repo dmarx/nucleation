@@ -31,8 +31,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1098
-answers:
-- QUESTION-114
 summary: >-
   Malkov and Yashunin (2020), [LIT-1098](../literature.d/LIT-1098.md), read in [NOTE-916](../notes.d/NOTE-916.md) from arXiv
   v4. They build an index like a skip list, with proximity graphs in place
@@ -48,6 +46,8 @@ summary: >-
   argued to cost about N searches.
 extended_by:
 - THEORY-815
+bears_on:
+- QUESTION-114
 ---
 <!-- inactive-ok-file: THEORY-815 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 

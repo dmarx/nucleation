@@ -22,9 +22,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1256
-answers:
-- QUESTION-217
-- QUESTION-218
 summary: >-
   Coifman and Maggioni (2006), [LIT-1256](../literature.d/LIT-1256.md), read in full in
   [NOTE-984](../notes.d/NOTE-984.md). The levels of a diffusion multiresolution are spectral
@@ -35,6 +32,9 @@ summary: >-
   single scaling function does not. It says nothing about non-self-adjoint
   operators, about error bounds for the compressed scheme with finite
   precision, or about when a localized basis exists.
+bears_on:
+- QUESTION-218
+- QUESTION-217
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->
 

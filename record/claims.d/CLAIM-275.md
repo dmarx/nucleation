@@ -23,7 +23,6 @@ works:
 line:
 - distributed-agency
 grounds:
-- THEORY-055
 - THEORY-057
 complements:
 - CLAIM-255
@@ -40,6 +39,8 @@ supports:
 - CLAIM-297
 - CLAIM-341
 - CLAIM-430
+uses:
+- TERM-094
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-057 CLAIM-255 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -78,3 +79,12 @@ plainest case.
   order universally."
 - It does not decide between Frijda and Barrett. It says the model should
   not assume either order.
+
+
+## Note of 2026-10-27: the concept, not the account
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim from grounding
+in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-094](../terms.d/TERM-094.md), Frijda's action readiness with
+control precedence. The claim uses the concept. It does not need the
+account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
+and which stays Proposed.

@@ -165,3 +165,16 @@ node states, (Px)ᵢ = x_{π(i)}. Write f for the right-hand side of eq. (1).
 Whether these states are stable is the separate question the transverse
 IRR blocks answer. The title claims only possibility, and the 11-node
 experiment exhibits the stable case.
+
+## Note of 2026-10-27 (evening): the readings of the U15–U23 works
+
+Stewart, Golubitsky and Pivato ([NOTE-1217](../notes.d/NOTE-1217.md); [THEORY-1065](THEORY-1065.md)) generalize this
+reading's result. The orbit partitions of a symmetry group are balanced, so
+orbit clusters are a special case of their Thm 6.5. That theorem covers
+non-additive coupling, several cell and arrow types, and clusters with "input
+and output couplings match … but there is no symmetry" (Figures 3 and 19).
+Necessity holds only over the whole class of admissible dynamics, and
+stability, the other half of this reading, is not treated. Torres-Hugas et
+al. ([NOTE-1218](../notes.d/NOTE-1218.md)) give a further instance. In a seven-node motif with two
+commuting reflections, the pentagonal block loses transverse stability first
+while the triangular mode stays stable.

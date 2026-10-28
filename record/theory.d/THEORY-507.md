@@ -25,8 +25,6 @@ date: '2026-10-16'
 source:
 - LIT-392
 - LIT-406
-answers:
-- QUESTION-046
 summary: >-
   Chalmers (1995), [LIT-392](../literature.d/LIT-392.md), read in full in [NOTE-347](../notes.d/NOTE-347.md), with the one-page
   sketch in "Facing Up", [LIT-406](../literature.d/LIT-406.md) ([NOTE-336](../notes.d/NOTE-336.md)). A plausibility argument by the
@@ -37,6 +35,8 @@ summary: >-
   absolute anti-nesting for isomorphs. It does not reach any system that is
   not an isomorph of something conscious, which includes every actual AI
   system and every group.
+bears_on:
+- QUESTION-046
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-095 THEORY-252 THEORY-415 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 

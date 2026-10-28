@@ -51,11 +51,6 @@ summary: >-
   only, and nothing about information preserved.
 supports:
 - CLAIM-100
-- CLAIM-070
-- CLAIM-121
-- CLAIM-125
-- CLAIM-237
-- CLAIM-245
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim this theory bears on -->

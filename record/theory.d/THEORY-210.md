@@ -45,9 +45,6 @@ source:
 - LIT-970
 - LIT-1013
 - LIT-1012
-answers:
-- QUESTION-069
-- QUESTION-058
 summary: >-
   Zhao, Walters & Yu (2025), [LIT-970](../literature.d/LIT-970.md), read in [NOTE-712](../notes.d/NOTE-712.md): a survey,
   so the dynamical results are secondhand. Continuous parameter-space
@@ -64,6 +61,9 @@ summary: >-
   that a Langevin model does not predict. This is the null-space half
   that [THEORY-209](THEORY-209.md)'s limiting dynamics leave out. Proposed: one survey,
   with the SGD results unread here.
+bears_on:
+- QUESTION-058
+- QUESTION-069
 ---
 
 # THEORY-210: Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss

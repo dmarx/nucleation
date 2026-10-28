@@ -17,20 +17,20 @@ tags:
 - neuroscience
 date: '2026-10-12'
 line: 'evidence-for-experience'
-answered_by:
-- THEORY-091
-- THEORY-094
-- THEORY-100
-- THEORY-023
-- THEORY-298
-- THEORY-577
-- THEORY-865
-- THEORY-869
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and [CLAIM-003](../claims.d/CLAIM-003.md).
   [THEORY-091](../theory.d/THEORY-091.md), [THEORY-094](../theory.d/THEORY-094.md), [THEORY-100](../theory.d/THEORY-100.md) and [THEORY-023](../theory.d/THEORY-023.md) answer it in part; the
   body gives each one's limit.
+bearing:
+- THEORY-869
+- THEORY-865
+- THEORY-577
+- THEORY-298
+- THEORY-023
+- THEORY-100
+- THEORY-094
+- THEORY-091
 ---
 <!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
 <!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim this question bears on, with its line set aside -->

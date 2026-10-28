@@ -27,14 +27,6 @@ date: '2026-10-12'
 line: 'pragmatic-transport'
 refines:
 - QUESTION-027
-answered_by:
-- THEORY-001
-- THEORY-003
-- THEORY-005
-- THEORY-006
-- THEORY-009
-- THEORY-320
-- THEORY-565
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-027](QUESTION-027.md), [CLAIM-098](../claims.d/CLAIM-098.md), CLAIM-193,
@@ -48,6 +40,14 @@ refined_by:
 - QUESTION-182
 - QUESTION-183
 - QUESTION-245
+bearing:
+- THEORY-565
+- THEORY-320
+- THEORY-005
+- THEORY-001
+- THEORY-009
+- THEORY-006
+- THEORY-003
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

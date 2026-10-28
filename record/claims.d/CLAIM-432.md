@@ -77,7 +77,7 @@ summary: >-
 objected_by:
 - CLAIM-431
 ---
-<!-- inactive-ok-file: CLAIM-039 CLAIM-271 CLAIM-283 CLAIM-349 CLAIM-355 THEORY-055 THEORY-125 THEORY-131 THEORY-139 THEORY-892 — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
+<!-- inactive-ok-file: CLAIM-039 CLAIM-271 CLAIM-349 CLAIM-355 THEORY-055 THEORY-125 THEORY-131 THEORY-139 THEORY-892 — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
 <!-- inactive-ok-file: LIT-1426 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
 # CLAIM-432: A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters

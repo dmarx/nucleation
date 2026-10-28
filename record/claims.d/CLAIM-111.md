@@ -33,7 +33,6 @@ complements:
 - CLAIM-214
 ---
 <!-- ref::uses-file: TERM-011 — stated in "frame, as inferred from evidence"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- inactive-ok-file: CLAIM-046 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-111: A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence
 

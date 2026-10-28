@@ -1,10 +1,20 @@
 ---
 number: 438
-status: Active
+status: Proposed
 formerly:
 - CLAIM-tmpe0iew
 title: 'An ordering serving as the negotiation''s potential, as the potential account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Moved to Proposed by the owner's ruling of 2026-10-27 on the
+    status review (ADR-057). It was Active as a conceded counter. The
+    concession stands, and CLAIM-433 is the revision it produced. Its
+    evidence, the wanting/liking dissociation THEORY-893 reports, is
+    Proposed pending replication outside the originating labs, so the
+    record does not hold the counter itself any more firmly than that.
 role: counter
 warrant: empirical
 tags:
@@ -32,6 +42,7 @@ complements:
 - CLAIM-437
 ---
 <!-- inactive-ok-file: CLAIM-440 THEORY-893 TERM-076 CLAIM-439 — Proposed; the claim this objects to, the reading it rests on, and the term and candidate it bears on, cited as open -->
+
 
 # CLAIM-438: An ordering serving as the negotiation's potential, as the potential account of valence defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
 
@@ -99,3 +110,6 @@ to and its term are revised from "hedonic" to "goal-conduciveness"
 valence ([CLAIM-433](CLAIM-433.md)). Active, in the record's convention for a
 conceded counter.
 
+## Note of 2026-10-27: conceded, and Proposed
+
+The owner conceded this objection on 2026-10-23, and [CLAIM-433](CLAIM-433.md) is the revision it produced. On 2026-10-27 the owner ruled that a concession is not credence: the counter is Proposed, because its evidence ([THEORY-893](../theory.d/THEORY-893.md)) is Proposed. The concession is carried by the target's revision, not by this entry's status. [ADR-059](../decisions.d/ADR-059.md) makes that the general rule.

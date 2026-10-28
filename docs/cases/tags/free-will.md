@@ -6,8 +6,8 @@
 
 **Free will** — free will and volition, as philosophy and as science — compatibilism and its rivals, manipulation and responsibility, and the neuroscience of voluntary action such as the readiness potential (group: philosophy; ADR-025).
 
-0 of 164 CASE documents. Back to the [full index](../README.md).
+1 of 182 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-181](../../../record/cases.d/CASE-181.md) | Frankfurt's unwilling addict: a man who has the desire to take the drug and the desire to refrain, wants the desire to refrain to be his will, and is moved by the craving anyway | Frankfurt (1971), [LIT-692](../../../record/literature.d/LIT-692.md), read in full in [NOTE-545](../../../record/notes.d/NOTE-545.md), p. 12. Filed by the status review of 2026-10-27 ([ADR-057](../../../record/decisions.d/ADR-057.md)). [CLAIM-047](../../../record/claims.d/CLAIM-047.md) is grounded in this case and not in Frankfurt's account of ownership ([THEORY-120](../../../record/theory.d/THEORY-120.md)), which is Proposed. The case shows that a regime can be had, and even preferred at a higher order, without being effective. What it is taken to show about identification and ownership is [THEORY-120](../../../record/theory.d/THEORY-120.md)'s business. | Active |

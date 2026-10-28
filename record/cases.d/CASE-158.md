@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpjmerx
 title: 'Audited governance against a contextual router after a reversal of expertise: specialist denoisers with frozen, separately trained operators propose for one shared latent at each step, and spatial grants are revised from independent held-out probes of every proposal, available only from the next episode, against a fixed allocation, a conformity-scored allocation and a contextual mixture-of-experts router; the question is whether governance does anything a router does not, and under full-information audits the record predicts it cannot'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -13,6 +13,13 @@ history:
     readings of MultiDiffusion and Multi-LoRA composition: the fixed arm has
     published prior art, and the governed and router arms are what the
     case adds.
+- version: 2
+  date: '2026-10-26'
+  note: >-
+    A dated note added: a working group and a conventional router with
+    the same information and authority tie in the Northstar study
+    reported at T20 of the exchange "Experimental Infrastructure Review"
+    (CASE-166), not reproduced. The case is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -144,3 +151,19 @@ selectively observed, or historically entrenched."
 
 Anything about real organizations or real diffusion models: the operators
 are small synthetic denoisers, and no pretrained model was run.
+
+## Note of 2026-10-26: the third prediction in another model (reported)
+
+<!-- inactive-ok-file: CASE-166 — Proposed; the reported study, cited as open -->
+
+This case's third prediction: "A router trained on the same audits …
+Under full information, governance should not beat it." T20 of the
+exchange "Experimental Infrastructure Review" reports a working group with
+delegated authority and a conventional router given "the same information
+and authority" at the same regret, 0.00499 ([CASE-166](CASE-166.md)). It is a tie,
+not a loss as here, and T20 does not say whether the router shares the
+working group's code. Every arm is full-information, so none of this
+case's arms 1–4 is present, and the result is what the prediction
+expects. Reported, not reproduced: T20's "PerspectiveLab v2.11" is not
+held, and dmarx/PerspectiveLab holds no v2.10 or v2.11 (its latest import
+is c54617e, v2.9). The case is unchanged.

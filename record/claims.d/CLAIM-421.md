@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj73lm
 title: 'The cessation of an organizational perspective''s enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,13 @@ history:
     illustration fits interference better than activation interruption,
     and returning to the room did not reinstate access. The claim and
     its defeater are unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added, from the exchange "About the Chagossians":
+    the expulsion of the Chagossians and the disruption of federal science
+    as cases of all three interruptions at once, at the scale of a people
+    and of a research community. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,6 +57,9 @@ summary: >-
   political revolution are not the same kind of forgetting, and the claim
   says only that both separate a capacity's existence from the
   availability of the conditions for exercising it.
+illustrated_by:
+- CASE-169
+- CASE-172
 ---
 <!-- inactive-ok-file: CLAIM-287 CLAIM-413 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -155,3 +165,36 @@ this claim's use of them.
   about perceiving others' activity, and its authors list one's own goals
   as future work. An intention lost at a boundary is the exchange's
   extension of the theory, not something it states.
+
+## Note of 2026-10-27: a people and a research community
+
+The exchange of 2026-10-26 used the claim more than any other (A2–A4, A7,
+A10), and read it correctly.
+
+- **The Chagossians** ([CASE-169](../cases.d/CASE-169.md)). A2: forced displacement "can produce
+  all three, with very different consequences": a song known and seldom
+  sung, place-dependent knowledge that elders hold and cannot exercise, and
+  practices the young no longer acquire. A3 kept the realized perspective
+  apart from what could regenerate it, as this claim's revision of
+  2026-10-22 does: "a realized perspective is not identical to a store of
+  dispositions." It added a third outcome beside reinstatement and
+  reconstruction, **transformation**, "a different organizational
+  configuration, potentially continuous with the earlier one in some
+  respects but not equivalent to it", and a caution: "an overly
+  conservative persistence criterion could incorrectly treat successful
+  cultural adaptation as evidence of identity loss."
+- **A research community** ([CASE-172](../cases.d/CASE-172.md)). A4: a lab that cannot run
+  experiments may resume; one that loses its team must rebuild; a program
+  whose cohorts disappear "may lose the ability to reproduce an entire local
+  research tradition", and "The last two losses can persist after the
+  original financial constraint disappears."
+- **Rights and remedies.** A7: "A procedural right may survive formally
+  while the conditions necessary to exercise it disappear", an enactment
+  interruption of a right; A10 sorted failures to correct the same way, as
+  a procedure not activated, circumstances preventing its enactment, or an
+  institution that "no longer maintains the organization capable of
+  producing it".
+
+Neither case says which interruption occurred where; that is
+[QUESTION-257](../questions.d/QUESTION-257.md)'s question, whose note of the same date files the Chagossian
+case there.

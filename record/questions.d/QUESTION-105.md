@@ -3,10 +3,18 @@ number: 105
 status: Open
 formerly:
 - QUESTION-tmpga1fv
-title: What is the least an evolving inquiry must retain to support a stated family
-  of future revisions, and does the optimal retained state look like provenance,
-  dependencies and defeated alternatives, or like something else?
-version: 1
+title: 'What is the least an evolving inquiry must retain, beyond its current conclusions and a closed belief set, which do not fix its revisions, to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. Whether
+    current conclusions or a closed belief set are enough to retain, and
+    what one AGM change of a closed theory needs besides the theory, is
+    QUESTION-289, Answered by CLAIM-294, THEORY-347 and THEORY-353.
+    This question keeps the least retained state for a family of
+    revisions, and its shape.
 tags:
 - epistemology
 - information-theory
@@ -20,19 +28,17 @@ summary: >-
   from the exchange of 2026-10-14. [QUESTION-003](QUESTION-003.md) asks the same thing of a translation
   and a fixed family of communicative decisions. This asks it of an inquiry whose
   decisions are revisions.
-answered_by:
-- CLAIM-294
-- THEORY-347
-- THEORY-353
-- THEORY-362
-- THEORY-373
-- THEORY-387
 refined_by:
 - QUESTION-188
 - QUESTION-225
+- QUESTION-289
+bearing:
+- THEORY-387
+- THEORY-373
+- THEORY-362
 ---
 
-# QUESTION-105: What is the least an evolving inquiry must retain to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?
+# QUESTION-105: What is the least an evolving inquiry must retain, beyond its current conclusions and a closed belief set, which do not fix its revisions, to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?
 
 ## Why it is a question
 
@@ -82,3 +88,16 @@ derivation. None covers added facts, defeat or contraction, and none
 proves minimality, so the question's optimum is still open. The
 retained structures are provenance and dependencies, not defeated
 alternatives.
+
+## Note of 2026-10-27: the lower edge split off
+
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
+current conclusions or a closed belief set are enough to retain is
+[QUESTION-289](QUESTION-289.md), Answered No by [CLAIM-294](../claims.d/CLAIM-294.md) and [THEORY-347](../theory.d/THEORY-347.md); what a single
+AGM change of a closed theory needs besides it, a selection function on
+its remainders, is [THEORY-353](../theory.d/THEORY-353.md)'s part of that answer. This question keeps
+what is still open: the least retained state for a family of revisions,
+including added facts, defeat and iterated change, and whether it looks
+like provenance, dependencies and defeated alternatives. [THEORY-362](../theory.d/THEORY-362.md),
+[THEORY-373](../theory.d/THEORY-373.md) and [THEORY-387](../theory.d/THEORY-387.md) keep their links here: they give retained states
+that suffice for changes to base facts, not least ones.

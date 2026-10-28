@@ -12,8 +12,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1120
-answers:
-- QUESTION-114
 extends:
 - THEORY-388
 presupposes:
@@ -33,6 +31,8 @@ summary: >-
 supports:
 - CLAIM-310
 - CLAIM-313
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-372: For c-approximate near-neighbour search over n points in Euclidean space, space n^{1+ρu+o(1)} and query time n^{ρq+o(1)} are achievable on any data set whenever c²√ρq + (c²−1)√ρu ≥ √(2c²−1) (c√ρq + (c−1)√ρu ≥ √(2c−1) in Hamming space), and no list-of-points structure, the model of known data-independent hashing, does better on random instances; without that model the curve is matched only at query time n^{o(1)} by one or two cell probes

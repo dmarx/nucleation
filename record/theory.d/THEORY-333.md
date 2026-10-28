@@ -19,8 +19,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1090
-answers:
-- QUESTION-114
 summary: >-
   Idreos, Kersten and Manegold (2007), [LIT-1090](../literature.d/LIT-1090.md), read in [NOTE-892](../notes.d/NOTE-892.md). Each
   range select splits, in place, the pieces of a column copy that hold its bounds
@@ -31,6 +29,8 @@ summary: >-
   queries. Every workload is uniformly random, so the paper's claim that only
   ranges of interest get organized is asserted from the mechanism, not measured;
   there is no cost model and no rule for when a reorganization pays.
+bears_on:
+- QUESTION-114
 ---
 <!-- inactive-ok-file: THEORY-344 — Proposed; the survey placing cracking among adaptive methods, named, not leaned on -->
 

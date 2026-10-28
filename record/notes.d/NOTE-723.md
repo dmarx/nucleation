@@ -37,7 +37,7 @@ summary: >-
   outside. A conceptual necessary condition, applied to cases; not a
   sufficient theory and not measured.
 ---
-<!-- inactive-ok-file: CLAIM-288 CLAIM-284 CLAIM-285 CLAIM-025 THEORY-071 — Proposed; open claims and readings, cited as what this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-288 CLAIM-284 CLAIM-285 THEORY-071 — Proposed; open claims and readings, cited as what this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1031 — Unavailable; Benthall and Salge, named as the neighbouring legal argument, not leaned on -->
 
 # NOTE-723: Kahl — How continuity distinguishes autonomy from agency in agentic AI

@@ -24,7 +24,6 @@ date: '2026-10-18'
 line: will-organization
 illustrates:
 - CLAIM-122
-- CLAIM-025
 summary: >-
   A8 §4 of the exchange of 2026-10-17, restated as A12's Proposition 3
   and kept in A15. The saddle-node threshold and the hysteresis are
@@ -35,6 +34,7 @@ summary: >-
   models authority between regimes; it does not revive will as an
   attractor ([TERM-003](../terms.d/TERM-003.md), Superseded). Fictional by construction.
 supports:
+- CLAIM-025
 - CLAIM-408
 ---
 

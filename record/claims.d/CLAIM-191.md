@@ -29,6 +29,8 @@ grounds:
 - THEORY-155
 - CASE-015
 - CASE-068
+uses:
+- TERM-084
 summary: >-
   The first claim joining the nucleating-argument and pragmatic-transport
   lines, which shared no edges. A sequence of memoryless sessions
@@ -43,7 +45,7 @@ objected_by:
 complements:
 - CLAIM-301
 ---
-<!-- inactive-ok-file: CLAIM-002 CLAIM-056 CLAIM-081 CLAIM-090 CLAIM-115 CLAIM-177 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 THEORY-155 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: CLAIM-002 CLAIM-056 CLAIM-081 CLAIM-090 CLAIM-115 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 THEORY-155 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-078 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

@@ -60,7 +60,7 @@ complements:
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
-<!-- inactive-ok-file: CLAIM-176 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-176 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # CLAIM-185: The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
 

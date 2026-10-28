@@ -12,8 +12,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-670
-answers:
-- QUESTION-069
 summary: >-
   Tran, Trinh, Bui & Nguyen (2025), [LIT-670](../literature.d/LIT-670.md), read in [NOTE-513](../notes.d/NOTE-513.md). Softmax is
   invariant to a common shift of scores and the sum to the order of terms,
@@ -25,6 +23,8 @@ summary: >-
   without the order step. Every experiment shares and freezes the backbone
   around the inserted layer, so it is not evidence about independently
   trained MoE models.
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-112 THEORY-114 — Proposed; the alignment and shared-history accounts this result is set beside, not leaned on -->
 

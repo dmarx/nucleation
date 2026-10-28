@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmp15jvz
 title: 'Joking relationships: one kind among the Crow and in Africa with no route between them, descended between Crow and Hidatsa, and a transported tale beside them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Sharpened at the owner's request, after the audit of cases of
+    2026-10-27 found this case and CLAIM-210 using "descent" for different
+    relations: Crow and Hidatsa stand in no transport to each other, and
+    whether each line is a chain of transmissions from the parent tribe is
+    left open. CLAIM-210 was revised to match. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -106,8 +115,14 @@ The three relations of [CLAIM-210](../claims.d/CLAIM-210.md) on documented mater
   high, not low, none.
 - **Kind-sharing by descent of an institution.** Crow and Hidatsa share it
   through a parent tribe. This is [CLAIM-002](../claims.d/CLAIM-002.md)'s continuity of transmission, the
-  identity of an institution across its branches. It is not a transport of any
-  token, so it shows that descent and transport are also different facts.
+  identity of an institution across its branches. There is no transport between
+  them: neither is a rendering of the other. So descent by common ancestry
+  and transport are different facts, the distinction [CLAIM-210](../claims.d/CLAIM-210.md)'s third
+  relation draws. The case does not show whether each line is itself a
+  chain of transmissions from the parent tribe's practice, as the record
+  treats serial reproduction ([CASE-068](CASE-068.md), [CLAIM-056](../claims.d/CLAIM-056.md)); if it is, fidelity
+  could be asked of each branch relative to the ancestor, though never of
+  one sibling relative to the other.
 - **A transport.** The Ibo tale is a rendering of a source, with a phylogeny
   that places it.
 

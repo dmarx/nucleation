@@ -24,8 +24,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1307
-answers:
-- QUESTION-222
 summary: >-
   Lin and Lu (2021), [LIT-1307](../literature.d/LIT-1307.md), read in [NOTE-1029](../notes.d/NOTE-1029.md). Mori–Zwanzig's
   memory is what a projection onto the present leaves out; a projection
@@ -37,6 +35,8 @@ summary: >-
   exact only in the linear Gaussian class shown here.
 supports:
 - CLAIM-397
+bears_on:
+- QUESTION-222
 ---
 <!-- inactive-ok-file: THEORY-257 THEORY-818 — Proposed; the criterion whose conditioning set this matches, and the Lorenz 96 finding beside which the paper's examples sit, nothing here rests on their being settled -->
 <!-- inactive-ok-file: NOTE-1029 LIT-1307 — new reading, filed together -->

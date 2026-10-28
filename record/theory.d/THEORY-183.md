@@ -48,7 +48,7 @@ summary: >-
   pictures in Gemma 2. That trained networks get their geometry this way is
   inferred, not tested: nothing in the paper changes the statistics and
   watches the geometry follow.
-answers:
+bears_on:
 - QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-182 THEORY-022 THEORY-019 THEORY-002 — Proposed; cited as the premise and the accounts this one bears on -->

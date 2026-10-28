@@ -14,6 +14,7 @@ line: distributed-agency
 complements:
 - TERM-071
 - TERM-072
+- TERM-086
 summary: >-
   "Organization" does more unacknowledged work in this record than any
   other word, and the exchange of 2026-10-22 leaned on it in at least four
@@ -22,6 +23,8 @@ summary: >-
   2026-10-22 asked for the senses to be listed, with the first as the
   default in "organizational perspective". A claim using "organization"
   or "organized" should say which. Adoption is the owner's decision.
+used_by:
+- CLAIM-454
 ---
 <!-- inactive-ok-file: CLAIM-278 CLAIM-418 TERM-063 TERM-072 — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
 

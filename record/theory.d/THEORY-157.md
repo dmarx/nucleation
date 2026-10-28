@@ -31,7 +31,7 @@ summary: >-
   although it lacks regular conditionals. The match with the classical
   theorems is shown in FinStoch (Fisher–Neyman) and through bounded
   completeness in Stoch (Basu), not for measure-theoretic Fisher–Neyman.
-answers:
+bears_on:
 - QUESTION-065
 ---
 

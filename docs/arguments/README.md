@@ -26,7 +26,9 @@ this directory, then run `luria index`.
 
 **[Natural sciences](tags/natural-sciences.md)** (0) — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-**[Ecology](tags/ecology.md)** (0) — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028).
+**[Ecology](tags/ecology.md)** (0) — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028). How a partner comes to live inside another and depend on it is endosymbiosis (ADR-055).
+
+**[Endosymbiosis and reductive evolution](tags/endosymbiosis.md)** (0) — how one organism comes to live inside another and depend on it, and how that ends — reductive genome evolution by drift, deletional bias or adaptive loss (including the Black Queen dependencies of free-living microbes), complementary loss across partners, nested symbioses and symbiont splitting and replacement, endosymbiotic gene transfer, protein import and host control of transmission, organellogenesis and organelle loss, and eukaryogenesis. The ecology of a partnership is ecology (ADR-055).
 
 **[Thermodynamics](tags/thermodynamics.md)** (0) — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020).
 

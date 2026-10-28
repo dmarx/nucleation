@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp9jg87
 title: 'Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent''s activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added, from the exchange "About the Chagossians": a
+    people with a shared perspective, divided politics and contested
+    representatives, and two governments running one detention arrangement
+    without being one agent. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,6 +36,7 @@ complements:
 - CLAIM-417
 - CLAIM-430
 - CLAIM-432
+- CLAIM-457
 works:
 - organization-of-perspective
 - self-without-a-sovereign
@@ -42,6 +51,10 @@ summary: >-
   every rich exercise of agency involves such an organization, as open.
 supports:
 - CLAIM-431
+illustrated_by:
+- CASE-166
+- CASE-169
+- CASE-175
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-417 CLAIM-424 TERM-063 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -121,3 +134,33 @@ is a further agent, which is the same separation.
   the last is [CLAIM-424](CLAIM-424.md), and A38's Challenger contrast, "operational
   agency is substantial while perspectival self-governance is deficient in
   a particular domain", is [CASE-138](../cases.d/CASE-138.md) read through it.
+
+## Note of 2026-10-27: a people, and two governments
+
+The exchange of 2026-10-26 used the claim at both ends.
+
+- **A shared perspective without one political agent** ([CASE-169](../cases.d/CASE-169.md)).
+  Chagossians share practices, memory and attachment and disagree about
+  sovereignty, the base and strategy. A3 separated four questions: a
+  historically continuous people, an organizational perspective, collective
+  political agency, legitimate representation, "An affirmative answer to
+  one question does not settle the others." Its "representational
+  paradox": to take part in negotiation a dispersed people must produce
+  representatives, which strengthens its agency and invites observers to
+  treat the representatives' positions "as though they exhaust the views
+  of the population they represent" ([CLAIM-415](CLAIM-415.md), [CLAIM-271](CLAIM-271.md)). A3: "The
+  missing variable is not consensus. It is the **structure through which
+  political authority is constituted and made accountable**." And the
+  normative point: "a people can possess collective rights without meeting
+  a demanding criterion for unified collective agency" ([TERM-083](../terms.d/TERM-083.md)).
+- **One arrangement without one agent** ([CASE-175](../cases.d/CASE-175.md)). A7: the US and
+  Salvadoran governments "need not form a single unified political agent
+  to participate in an organized detention arrangement", and "coordination
+  sufficient to produce an outcome does not necessarily imply an
+  institutional arrangement sufficient to recognize, contest, and remedy
+  that outcome." A9 took the claim further than it goes: the institutions
+  whose independence makes correction possible are hidden by modelling a
+  government as one agent ([CLAIM-462](CLAIM-462.md)).
+
+[TERM-080](../terms.d/TERM-080.md) separates the senses of collective intention the claim's
+"agent" leaves open.

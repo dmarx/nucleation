@@ -31,7 +31,7 @@ summary: >-
   continuous hypotheses, where I(S;W) is infinite, and for any real network
   when I is bounded by counting bits. It is tight only for Gaussian argmax
   and threshold selection.
-answers:
+bears_on:
 - QUESTION-040
 ---
 

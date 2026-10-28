@@ -17,9 +17,9 @@ summary: >-
   sees depend on where it started.
 refined_by:
 - QUESTION-107
-answered_by:
-- THEORY-335
+bearing:
 - CLAIM-315
+- THEORY-335
 ---
 <!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited for what it would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

@@ -22,8 +22,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1071
-answers:
-- QUESTION-095
 summary: >-
   Lieder & Griffiths (2020; online 2019), [LIT-1071](../literature.d/LIT-1071.md), read in [NOTE-873](../notes.d/NOTE-873.md).
   Resource rationality picks the heuristic that maximizes expected utility of
@@ -35,6 +33,8 @@ summary: >-
   device, not a claim about people, and the method lets constraints be
   refitted to data. The objective is per episode, with no terms for storing,
   retrieving or reusing a result, or for its going stale.
+bears_on:
+- QUESTION-095
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

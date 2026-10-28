@@ -19,8 +19,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1085
-answers:
-- QUESTION-114
 summary: >-
   Athanassoulis et al. (2016), [LIT-1085](../literature.d/LIT-1085.md), read in [NOTE-888](../notes.d/NOTE-888.md). A six-page
   vision paper defines read, update and memory amplification and conjectures
@@ -30,6 +28,8 @@ summary: >-
   formal statement asserts only some lower bound on the third overhead, which
   every design has. The extremes are not symmetric: the memory-minimal design is
   also update-minimal. Build cost, workload and time are outside the triangle.
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-344: An access method's read, update and memory overheads, each a ratio to the base data alone with a floor of 1.0, are conjectured to trade so that bounding any two forces a lower bound on the third; the conjecture is unproved, its formal wording says no more than the floor already does, and the paper's extreme designs show conflicts between pairs, read against memory and update against read, not a symmetric three-way trade

@@ -53,7 +53,7 @@ summary: >-
   activity flow is read from phase gradients and a phase-oscillator model,
   never perturbed. The kinship with Belousov–Zhabotinsky spirals and
   pattern-formation defects is the record's analogy, not the paper's.
-answers:
+bears_on:
 - QUESTION-042
 ---
 <!-- inactive-ok-file: LIT-647 — Unavailable, unread (paywalled); named as the electrophysiological review that could bear on this, nothing here rests on it -->

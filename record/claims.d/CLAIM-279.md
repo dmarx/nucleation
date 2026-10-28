@@ -24,8 +24,6 @@ tags:
 - self-governance
 - complex-systems
 date: '2026-10-13'
-answers:
-- QUESTION-083
 works:
 - self-as-recursive-ecology
 line:
@@ -47,6 +45,8 @@ summary: >-
   emerges.
 supports:
 - CLAIM-336
+bears_on:
+- QUESTION-083
 ---
 <!-- inactive-ok-file: THEORY-142 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

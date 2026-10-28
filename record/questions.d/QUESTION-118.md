@@ -3,14 +3,29 @@ number: 118
 status: Open
 formerly:
 - QUESTION-tmpn78rt
-title: 'When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and how is the question settled when several later collectives each continue it in a different respect?'
-version: 2
+title: 'When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and when several later collectives each continue it in a different respect, which successor relation, if any, is its persistence?'
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
   note: >-
     Note of 2026-10-23 added: Jacobs and Campbell 1961 registered,
     Unavailable. The question stays Open.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Note of 2026-10-27 added, from the exchange "About the Chagossians":
+    the owner's connection of plural continuation to the record's
+    structural realism, A4's directed family of continuation relations,
+    and the cases that test it. The question is unchanged.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. Whether
+    several later collectives can each be a successor in a different
+    respect without identity branching is QUESTION-290, Answered by
+    CLAIM-328. This question keeps the criterion of persistence, and which
+    successor relation, if any, is persistence.
 tags:
 - individuation
 - social-ontology
@@ -26,12 +41,12 @@ summary: >-
   since "any causal descendant" is too much. An answer gives a criterion
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
-answered_by:
-- CLAIM-328
+refined_by:
+- QUESTION-290
 ---
 
 <!-- inactive-ok-file: LIT-1124 LIT-1141 LIT-1144 THEORY-221 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-# QUESTION-118: When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and how is the question settled when several later collectives each continue it in a different respect?
+# QUESTION-118: When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and when several later collectives each continue it in a different respect, which successor relation, if any, is its persistence?
 
 ## Why it is a question
 
@@ -92,3 +107,64 @@ organization to be the earlier one. The study's control groups, which
 reach the unseeded level, are a natural comparison for [CLAIM-329](../claims.d/CLAIM-329.md)'s "an
 organization of the same kind that arises independently". [CASE-148](../cases.d/CASE-148.md)
 proposes the transfer test.
+
+## Note of 2026-10-27: continuation relations and the record's structural realism
+
+A3 of the exchange of 2026-10-26, on the Chagossians, resisted a single
+coherence measure: "The more appropriate initial object may be a
+**structured family of continuation relations**." The owner, at U4: "this
+sounds like a potential opportunity to connect to our broadly structural
+realist account." A4 took it up.
+
+- **A typed, directed family.** For an earlier realization A and a later B,
+  R(A, B) = {genealogical, cultural, organizational, institutional,
+  capability, ecological, …}, each with conditions of its own. A4: "the
+  family itself is not yet a definition of identity. It is a way of
+  describing **the respects in which one realization continues another**.
+  Numerical identity, when relevant, remains a further question." That is
+  [CLAIM-328](../claims.d/CLAIM-328.md)'s plural successors and [CLAIM-002](../claims.d/CLAIM-002.md)'s family of relations for
+  texts, which A4 cited, with direction added: one predecessor can have a
+  scientific successor (its methods and people) and an institutional one
+  (its charter and authority), as USIP may ([CASE-176](../cases.d/CASE-176.md)).
+- **Against isomorphism, both ways.** A4: A ≅ B "is too restrictive in one
+  respect and too permissive in another": continuation can involve deep
+  change, and two independently formed organizations can be isomorphic.
+  That is [CLAIM-329](../claims.d/CLAIM-329.md) against resemblance and [CLAIM-210](../claims.d/CLAIM-210.md)'s kind-sharing apart
+  from rendering.
+- **When a category is earned.** A4: "A simple directed graph of
+  relationships would suffice initially. A category becomes warranted only
+  after identifying composition laws and identity morphisms that genuinely
+  correspond to the phenomenon"; a chain of training "may preserve
+  provenance even as capability or fidelity degrades", so composition need
+  not preserve what matters.
+- **The Newman constraint** ([CLAIM-138](../claims.d/CLAIM-138.md)). A4: "If we allow arbitrary
+  relations to count as structural continuities, practically anything can
+  be made to resemble or continue anything else." The relations need
+  independent grounds, training histories, transferred techniques, assessed
+  competences, transmitted instruments and data, and "The structural
+  account's strength comes from specifying relations that could fail to
+  hold." A4 left [CLAIM-136](../claims.d/CLAIM-136.md)'s question, whether relata have individuality
+  beyond their relations, unsettled, and so does this note.
+- **Responses under probes.** A4 and A8 proposed identifying a continuation
+  partly by preserved responses to a declared family of interventions,
+  with a correspondence τ between probes, citing [TERM-069](../terms.d/TERM-069.md)'s limit that
+  observational equivalence is not identity, and the record's readings of
+  causal abstraction ([LIT-1334](../literature.d/LIT-1334.md), [LIT-1310](../literature.d/LIT-1310.md)).
+
+A4's reframing is the part the question lacks: "Under what conditions
+should we recognize the loss of an organization or organizational
+capability, even when its apparent constituents and aggregate outputs
+remain?", which "may actually be more empirically tractable", since
+"Destructive interventions can reveal causal dependencies that normal
+functioning conceals." The cases are [CASE-169](../cases.d/CASE-169.md), [CASE-172](../cases.d/CASE-172.md) and
+[CASE-176](../cases.d/CASE-176.md).
+
+## Note of 2026-10-27: the possibility of plural succession split off
+
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
+several later collectives can each be a genuine successor in a different
+respect without numerical identity branching is [QUESTION-290](QUESTION-290.md),
+Answered by [CLAIM-328](../claims.d/CLAIM-328.md) on the Senators ([CASE-105](../cases.d/CASE-105.md)). This question keeps
+what is still open: what must stay causally continuous for persistence,
+and, when the respects separate, which successor relation, if any, is the
+earlier collective persisting.

@@ -35,7 +35,7 @@ summary: >-
   estimator on Σ T(y_i)x_ix_iᵀ attains both (Thm. 3.6). The cascade is in
   the number of samples, not in training time. The network result is for
   a spectral first layer plus a ridge readout, not gradient descent.
-answers:
+bears_on:
 - QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-201 THEORY-180 — Proposed; accounts this one is set beside, none of them rested on -->

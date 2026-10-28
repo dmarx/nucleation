@@ -1,30 +1,20 @@
 ---
 number: 73
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpnd5gh
-promote_when: >-
-  A result about the later formulations, which the formal core
-  (THEORY-066) does not reach. The account would be promoted if
-  the sparse-coupling definition of a blanket at nonequilibrium steady
-  state (Friston 2019 and later, not yet held) were shown to need an
-  internal set, a choice of variables or a coarse-graining as input. It
-  would also be promoted if that definition, applied to one model under
-  equally defensible choices of variables, were shown to return different
-  blankets. The account is refuted by a procedure, stated within the
-  formalism, that takes a dynamical system with no partition supplied
-  and returns a unique internal set, stable under a change of variables,
-  that matches a boundary drawn independently, such as the membrane of a
-  simulated protocell. It is also refuted, in its last clause, by a
-  blanket formalism with time-varying blanket states (Ramstead et al.
-  2020, cited by LIT-598 and not held) that, in a worked model,
-  tells a membrane the system makes from a boundary imposed on it. What
-  cannot settle it: further applications that place a blanket on a brain,
-  a cell or a society, since placement is what is in question;
-  re-derivations of Lemma 2.1 of LIT-526, which both critiques grant; or
-  the observation that blankets nest.
-title: 'A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces'
-version: 1
+title: 'In Friston''s 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed to Friston's 2013 formulation and the applications the
+    record holds, and promoted, at the owner's ruling of 2026-10-27
+    (ADR-057; record/promotion-audit/decisions/THEORY-073.yaml).
+    Version 1 said the same of a Markov blanket in any formulation.
+    That wider claim is THEORY-1097, Proposed, with version 1's
+    promote_when.
 tags:
 - individuation
 - philosophy-of-biology
@@ -50,15 +40,31 @@ summary: >-
   of a bacillus, the beam joining two pendulums. The formalism also gives
   the same description to a membrane the cell makes and a beam nobody's
   states make. So the blanket presupposes the boundary it is offered as
-  the criterion of. Proposed: the argument is conceptual, and the later
-  steady-state definitions have not been read.
+  the criterion of. Active since 2026-10-27, narrowed to the 2013
+  formulation and the applications held. The later steady-state
+  definitions have not been read, and the unrestricted claim is
+  THEORY-1097, Proposed.
 supports:
 - CLAIM-152
 - CLAIM-194
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 THEORY-043 — Proposed; named as the accounts this one bears on, not leaned on -->
 
-# THEORY-073: A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces
+# THEORY-073: In Friston's 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed
+
+## Note of 2026-10-27: narrowed and promoted
+
+The owner's ruling on the first status review ([ADR-057](../decisions.d/ADR-057.md)) carried out the
+promotion audit's decision (record/promotion-audit/decisions/THEORY-073.yaml).
+Every clause of the narrowed title is shown below. The soup's three
+choices are documented from the published code, the three placements are
+in [LIT-598](../literature.d/LIT-598.md) §3.2, and the last clause follows from the formalism, since a
+fixed graph's conditional independences carry no variable for how the
+boundary came about. The unrestricted form, which would reach the later
+formulations, is [THEORY-1097](THEORY-1097.md), Proposed, with this entry's former
+promote_when. Both dependents survive the narrowing: [CLAIM-152](../claims.d/CLAIM-152.md) uses the
+placement clause and [CLAIM-194](../claims.d/CLAIM-194.md) the made-or-imposed clause, and neither
+leans on the later formulations.
 
 ## Source
 
@@ -140,7 +146,7 @@ Bruineberg preprint, and neither paper tests the other.
 - **It does not settle the later formulations.** Definitions by sparse
   coupling at nonequilibrium steady state, and blankets whose states
   change over time, are known to the record only through the critiques'
-  summaries. They are what promote_when asks about.
+  summaries. They are what [THEORY-1097](THEORY-1097.md)'s promote_when asks about.
 - **It does not decide the candle flame.** [LIT-526](../literature.d/LIT-526.md) excludes the flame
   because its molecular interactions do not persist (C7 in [NOTE-421](../notes.d/NOTE-421.md)), and
   Raja et al. accept that exclusion and turn it against the principle's

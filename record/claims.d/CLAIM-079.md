@@ -22,7 +22,6 @@ works:
 grounds:
 - THEORY-134
 - THEORY-132
-- THEORY-142
 supports:
 - ARG-007
 - CLAIM-195
@@ -31,6 +30,8 @@ supports:
 summary: >-
   Applied from viability theory ([THEORY-134](../theory.d/THEORY-134.md)) and the stability/resilience
   distinction ([THEORY-132](../theory.d/THEORY-132.md)) (Section 6.3).
+corroborated_by:
+- THEORY-142
 ---
 
 # CLAIM-079: Stability does not entail viability: a system can occupy a stable regime while losing access to trajectories that keep satisfying its constraints
@@ -54,3 +55,7 @@ mapping question on [ARG-007](../arguments.d/ARG-007.md).
 
 Under [ADR-040](../decisions.d/ADR-040.md) (group C, decided by the owner) this claim also holds
 `formal-apparatus`. It rests on no claim and is a claim about dynamical systems in general. It stays in will-organization and in the will paper. The second value means that setting will-organization aside would not take it from [CLAIM-195](CLAIM-195.md), which rests on it.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-142](../theory.d/THEORY-142.md) from `grounds` to `corroborated_by`. March's stylized simulation was linked as evidence on 2026-10-12. The demonstration rests on Aubin's viability kernel ([THEORY-134](../theory.d/THEORY-134.md)) and the stability/resilience split ([THEORY-132](../theory.d/THEORY-132.md)), both Active.

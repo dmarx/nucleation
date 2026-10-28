@@ -4,9 +4,9 @@
 
 *Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
-**Ecology** — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028).
+**Ecology** — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028). How a partner comes to live inside another and depend on it is endosymbiosis (ADR-055).
 
-2 of 453 CLAIM documents. Back to the [full index](../README.md).
+2 of 485 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

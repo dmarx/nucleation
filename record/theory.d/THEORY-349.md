@@ -12,9 +12,6 @@ date: '2026-10-15'
 source:
 - LIT-1068
 - LIT-1052
-answers:
-- QUESTION-103
-- QUESTION-104
 summary: >-
   Dwork, Kim, Reingold, Rothblum and Yona (2021), [LIT-1068](../literature.d/LIT-1068.md), read in [NOTE-885](../notes.d/NOTE-885.md), and
   Hébert-Johnson, Kim, Reingold and Rothblum (2018), [LIT-1052](../literature.d/LIT-1052.md), read in [NOTE-879](../notes.d/NOTE-879.md).
@@ -29,6 +26,9 @@ summary: >-
   about signal detection.
 extended_by:
 - THEORY-354
+bears_on:
+- QUESTION-104
+- QUESTION-103
 ---
 
 # THEORY-349: For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class

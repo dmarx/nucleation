@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpefcvd
 paper: LIT-968
 title: 'Makelov, Lange and Nanda — an interpretability illusion for subspace activation patching'
-version: 1
+version: 3
 history:
 - version: 1
   date: '2026-10-14'
@@ -19,6 +19,20 @@ history:
     scanned, not read. Read together with the reply, LIT-961, and
     Huang et al., LIT-987, as one dispute. The toy-network arithmetic of
     §3.3 and A.3 was re-computed by script.
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    A dated note added: ROME, the IOI circuit and DAS, which this
+    reading names, were registered and read on 2026-10-26 and are
+    cited by code; the random-MLP DAS control is set beside DAS's
+    own random-network control. The reading is unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    A second dated note added: Hase et al., which this reading's
+    Connections and its first dated note call not registered, was
+    registered and read on 2026-10-27 and is cited by code. The
+    reading is unchanged.
 date: '2026-10-14'
 summary: >-
   A subspace activation patch can make a model behave as if a feature had
@@ -31,7 +45,9 @@ summary: >-
   stream direction passes the same test. One-dimensional fact patches and
   rank-1 edits are shown to be nearly interchangeable.
 ---
+<!-- inactive-ok-file: THEORY-1011 — Proposed; ROME's storage reading, cited as the hypothesis THEORY-282 bears on, not leaned on -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this reading is set beside, open -->
+<!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited as open -->
 
 # NOTE-782: Makelov, Lange and Nanda — an interpretability illusion for subspace activation patching
 
@@ -257,3 +273,45 @@ DAS on residual-stream locations, the placement this paper recommends.
 - Whether the residual stream's being a bottleneck is what protects it,
   or whether disconnected-plus-dormant pairs also arise there for
   features read by few heads.
+
+## Note of 2026-10-27: the works it addresses, now held
+
+Three works this reading names were registered and read on 2026-10-26,
+for the owner's request about the record's circuits literature.
+
+- **ROME** (Meng et al., [LIT-1536](../literature.d/LIT-1536.md), [NOTE-1166](NOTE-1166.md)) is the editing
+  method whose rank-one update Lemma D.1 restates as an optimization and
+  whose edits §6.3 approximates by a patch. The record holds ROME's
+  causal traces and CounterFact edits as measured ([THEORY-998](../theory.d/THEORY-998.md)), and
+  its reading that the edited site stores the fact as Proposed
+  ([THEORY-1011](../theory.d/THEORY-1011.md)), because [THEORY-282](../theory.d/THEORY-282.md) already shows that an edit's
+  success does not locate what it changes.
+- **IOI** (Wang et al., [LIT-1540](../literature.d/LIT-1540.md), [NOTE-1167](NOTE-1167.md)) is the
+  component-level analysis on which this paper's ground truth for MLP8
+  rests. Its circuit of 26 heads in seven classes is [THEORY-980](../theory.d/THEORY-980.md).
+- **DAS** (Geiger et al., [LIT-1551](../literature.d/LIT-1551.md), [NOTE-1192](NOTE-1192.md)) is the method this
+  paper's subspace patches are trained with. Its own control on frozen
+  random networks, IIA at chance up to width 256 and 0.64 at width 4,096
+  ([THEORY-1002](../theory.d/THEORY-1002.md)), is the same kind of check as this paper's DAS
+  direction trained on a random MLP (B.5), and points the same way: in a
+  wide enough space a supervised search finds alignment in a network
+  never trained for the task.
+
+Hase et al.'s finding that ROME works in layers where the fact is not
+localized, which this paper explains, is not registered; the curation
+entry for the circuits reading names it. The reading is unchanged.
+
+## Note of 2026-10-27 (later): Hase et al., now held
+
+The Connections paragraph and the closing paragraph of the note above say
+Hase et al.'s finding is not registered. It was registered and read later
+on 2026-10-27, at the owner's request, as [LIT-1578](../literature.d/LIT-1578.md) ([NOTE-1194](NOTE-1194.md)).
+The finding this paper explains is now held as measured: in GPT-J on 652
+CounterFact facts, the per-fact causal-tracing effect adds at most 3.2
+points of R² to predicting edit success beyond the edit layer, and ROME
+rewrites at over 96% at every layer but the last, including layers where
+tracing does not place the fact ([THEORY-1024](../theory.d/THEORY-1024.md)). Hase et al.'s own
+account of why, that many layers could store a fact and an edit at one
+layer can override what others accumulated, is [THEORY-1026](../theory.d/THEORY-1026.md),
+Proposed; this paper's Lemma D.2 ([THEORY-282](../theory.d/THEORY-282.md)) gives a reason from another
+direction. The reading is unchanged.
