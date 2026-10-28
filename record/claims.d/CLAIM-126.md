@@ -51,7 +51,7 @@ summary: >-
 objected_by:
 - CLAIM-230
 ---
-<!-- inactive-ok-file: CLAIM-050 CLAIM-125 THEORY-156 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-125 THEORY-156 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-126: Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
 

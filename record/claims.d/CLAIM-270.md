@@ -50,7 +50,7 @@ supports:
 - CLAIM-189
 - CLAIM-191
 ---
-<!-- inactive-ok-file: CLAIM-056 CLAIM-081 CLAIM-106 CLAIM-189 CLAIM-191 — Proposed; cited for what each holds or applies, open, not settled -->
+<!-- inactive-ok-file: CLAIM-056 CLAIM-081 CLAIM-189 CLAIM-191 — Proposed; cited for what each holds or applies, open, not settled -->
 
 # CLAIM-270: Retaining information about where a Markov chain started and staying close to the starting distribution are different properties: a chain can forget its initial state while its distribution stays far from where it began, so convergence is not preservation and losing information about the origin is not degradation
 

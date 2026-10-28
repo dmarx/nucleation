@@ -36,7 +36,7 @@ supports:
 - CLAIM-232
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-105 CLAIM-050 CLAIM-117 CLAIM-056 — Proposed; open, and cited as the distinctive claims whose own defeat conditions the thesis-level ones do not depend on -->
+<!-- inactive-ok-file: CLAIM-105 CLAIM-117 CLAIM-056 — Proposed; open, and cited as the distinctive claims whose own defeat conditions the thesis-level ones do not depend on -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier fidelity thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
 

@@ -1,10 +1,10 @@
 ---
 number: 50
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpek80j
-title: 'Fidelity is relative to the communicative decisions the receiver must make, and Blackwell''s order of experiments makes that comparison precise'
-version: 3
+title: 'For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell''s order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions'
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -26,6 +26,20 @@ history:
     theorems, including the fidelity theorem (a source is reproducible at
     a fidelity iff its rate for it does not exceed capacity) that the
     claim takes rate–distortion from. LIT-764 is kept.
+- version: 4
+  date: '2026-10-28'
+  note: >-
+    Narrowed and promoted at the status review of 2026-10-28 (ADR-057).
+    Version 3's title read 'Fidelity is relative to the communicative
+    decisions the receiver must make, and Blackwell's order of
+    experiments makes that comparison precise'. The title now states the
+    concessions its condition had made only in defeated_if: the order
+    sets a ceiling, not what a given receiver does (CLAIM-225); it
+    compares procedures over a designed distribution, not single
+    renderings (CLAIM-230); and its scope is report fidelity, leaving
+    re-performance to CLAIM-258. The deficiency and Wyner-Ziv steps,
+    which rest on unread works, move to CLAIM-tmpqmsav, and LIT-778 and
+    LIT-767 leave the grounds.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,10 +60,8 @@ works:
 grounds:
 - THEORY-1096
 - LIT-781
-- LIT-778
 - LIT-764
 - THEORY-602
-- LIT-767
 supersedes:
 - CLAIM-051
 uses:
@@ -72,6 +84,7 @@ complements:
 - CLAIM-199
 - CLAIM-212
 - CLAIM-259
+- CLAIM-tmpqmsav
 objected_by:
 - CLAIM-218
 - CLAIM-225
@@ -79,9 +92,10 @@ objected_by:
 - CLAIM-258
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
+<!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; quoted as the manuscript's steps, which moved to CLAIM-tmpqmsav -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
 
-# CLAIM-050: Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise
+# CLAIM-050: For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions
 
 ## The claim
 
@@ -118,3 +132,27 @@ garbling never helps a decision-maker free to choose any rule. Both hold
 on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
 general converse, which stays Proposed, is not used. Quotations of
 [THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
+
+## Note of 2026-10-28: narrowed and promoted
+
+The status review of this date narrowed the title to what the claim's
+condition already conceded, and promoted it (ADR-057).
+
+- **A ceiling, not a receiver.** CLAIM-225 showed the order says what an
+  ideal decision-maker could do with a rendering, not what a given
+  receiver does. The title says ceiling (CLAIM-199's first half).
+- **Procedures.** CLAIM-230 showed the order relates procedures over a
+  distribution of situations, not two texts. The title says so.
+- **Report fidelity.** CLAIM-258's objection, that re-performance is the
+  normal case of translation, is not answered, since CLAIM-212 is
+  Proposed. The claim concedes it by scope: it is about report fidelity,
+  and re-performance stays open there and in QUESTION-005.
+- **The measure.** CLAIM-218 says the record's D_Q is not the order this
+  claim names. This claim does not say D_Q realizes the order.
+
+What the claim uses of Blackwell is the definitions and the easy
+direction, held in THEORY-1096 with the proof written out. The steps that
+rested on unread works, deficiency for the approximate case and the
+Wyner-Ziv form of side information, are CLAIM-tmpqmsav, Proposed. The
+second clause of defeated_if stays as a test; it does not lean on
+Torgersen's results.

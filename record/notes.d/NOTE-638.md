@@ -31,7 +31,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited for the comparison of experiments the TV bound relates to -->
-<!-- inactive-ok-file: CLAIM-050 — Proposed; named as a manuscript claim this reading bears on -->
 
 # NOTE-638: Semantic Rate-Distortion Theory with Applications
 

@@ -39,7 +39,7 @@ objected_by:
 - CLAIM-252
 ---
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-050 CLAIM-061 CLAIM-139 — Proposed; open, cited for the task family Q, the negative clause and the later thesis, not as settled -->
+<!-- inactive-ok-file: CLAIM-061 CLAIM-139 — Proposed; open, cited for the task family Q, the negative clause and the later thesis, not as settled -->
 <!-- inactive-ok-file: CLAIM-220 — Proposed; the record's revised thesis of 2026-10-10, open, cited in the history as the repair -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

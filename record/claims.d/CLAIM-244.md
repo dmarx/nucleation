@@ -38,7 +38,7 @@ objected_by:
 - CLAIM-240
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-128 CLAIM-074 CLAIM-106 — Proposed; open, and cited as the line's own theses the defeat conditions are inconsistent with, not as settled -->
+<!-- inactive-ok-file: CLAIM-128 CLAIM-074 — Proposed; open, and cited as the line's own theses the defeat conditions are inconsistent with, not as settled -->
 <!-- inactive-ok-file: CLAIM-240 CLAIM-220 CLAIM-204 — Proposed; the record's replies of 2026-10-10, open, cited in "Where it stands" -->
 
 # CLAIM-244: The defeat tests take one holistic, task-free judgement of fidelity as ground truth, though the line's own theses say fidelity is task-relative, interpreter-relative and not a single ranking

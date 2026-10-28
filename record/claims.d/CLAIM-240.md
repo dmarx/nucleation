@@ -43,7 +43,7 @@ summary: >-
 illustrated_by:
 - CASE-067
 ---
-<!-- inactive-ok-file: CLAIM-128 CLAIM-074 CLAIM-106 CLAIM-115 CLAIM-139 — Proposed; open, and cited as the relativity thesis this reconciles and the theses whose conditions it bears on, not as settled -->
+<!-- inactive-ok-file: CLAIM-128 CLAIM-074 CLAIM-115 CLAIM-139 — Proposed; open, and cited as the relativity thesis this reconciles and the theses whose conditions it bears on, not as settled -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; the objection this entry answers, left open until the owner decides on the revised theses -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open -->
 

@@ -48,7 +48,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history for its transfer disjunct -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-137 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-106 CLAIM-002 — Proposed; the line's directed-fidelity and descent theses this objection rests on, open -->
+<!-- inactive-ok-file: CLAIM-002 — Proposed; the line's directed-fidelity and descent theses this objection rests on, open -->
 
 # CLAIM-246: Sharing a kind is symmetric and blind to which work is the source, so the October thesis cannot say a translation is of its original, against the line's own directed, graded fidelity and identity through descent
 

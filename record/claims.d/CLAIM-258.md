@@ -36,7 +36,6 @@ summary: >-
 objected_by:
 - CLAIM-212
 ---
-<!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-091 CLAIM-074 CLAIM-034 — Proposed; the compensation, interpreter and adaptive-translation claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-125 CLAIM-128 — Proposed; the theses that rest on CLAIM-050, the open problem beside this one and the profile claim, cited as open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell and of the decision bound, not as settled -->

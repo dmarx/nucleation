@@ -53,7 +53,7 @@ summary: >-
 supports:
 - CLAIM-244
 ---
-<!-- inactive-ok-file: CLAIM-106 CLAIM-033 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-033 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # CLAIM-128: No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting
 
