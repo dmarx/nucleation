@@ -87,3 +87,26 @@ part of what a translation preserves. That thesis is tested by measured
 order effects. Given [CLAIM-253](CLAIM-253.md), the identified bound to test against is
 [CLAIM-231](CLAIM-231.md)'s observational 2ε, not the defects. No study has been run, so
 the claim is interpretive.
+
+## Note of 2026-10-28: what holds it back
+
+The fourth status review (ADR-057) took this claim because ARG-006, which
+concludes it, is a sound argument: its inference is Active and its one
+premise, CLAIM-373, is Active. The claim stays Proposed, because the
+inference carries less than the claim says, and the record already says
+where:
+
+- **CLAIM-011 (Active)** limits the result to Φ's image. Preserving Φ's
+  image of a commutator does not establish preservation of the whole
+  commutator structure unless Φ is informative enough.
+- **CLAIM-253 (Active)** is a live objection, and it undercuts ARG-006. The
+  intertwining defects are defined on interpretive-state spaces and are not
+  identified from judgement data. The identity reaches *observed* order
+  effects only with a readout-intertwining defect, O′Φ − O, which the claim
+  does not state.
+
+What would clear it is a version that states the readout defect and bounds
+observed order effects by the intertwining defects together with it, and
+that names an identified choice of Φ, so that the defects are fixed by the
+data. Until then, how far interpretive perspectives interfere is part of
+what a translation preserves only in an unidentified sense.

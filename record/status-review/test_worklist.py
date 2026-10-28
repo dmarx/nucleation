@@ -22,6 +22,8 @@ ENTRIES = {
     "theory.d/THEORY-001.md": {"status": "Proposed", "presupposed_by": []},
     "arguments.d/ARG-001.md": {"status": "Active", "rests_on": ["CLAIM-001", "CLAIM-005"]},
     "arguments.d/ARG-002.md": {"status": "Active", "rests_on": ["CLAIM-001"], "concludes": ["CLAIM-003"]},
+    "arguments.d/ARG-003.md": {"status": "Active", "rests_on": ["CLAIM-001"], "concludes": ["CLAIM-005"],
+                               "undercut_by": ["CLAIM-001"]},
 }
 
 
@@ -54,7 +56,8 @@ def test_inversions_find_active_resting_on_proposed(tmp_path):
 
 
 def test_sound_arguments_with_unheld_conclusions(tmp_path):
-    # ARG-002: inference Active, every premise Active, conclusion Proposed; ARG-001 has an unheld premise
+    # ARG-002: inference Active, every premise Active, conclusion Proposed; ARG-001 has an unheld premise;
+    # ARG-003 is the same but a held undercutter already says what it does not carry (ADR-059)
     assert record(tmp_path).sound_unheld() == [("ARG-002", "CLAIM-003", "Proposed")]
 
 
