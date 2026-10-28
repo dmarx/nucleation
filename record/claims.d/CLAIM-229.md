@@ -1,10 +1,10 @@
 ---
 number: 229
-status: Active
+status: Superseded
 formerly:
 - CLAIM-tmpfe37n
 title: 'The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition''s non-necessity holds the words fixed, so it shows only insufficiency'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -13,6 +13,12 @@ history:
     carried until the status review of 2026-10-28 narrowed it to
     sufficiency. The edge to CLAIM-061 stays as the history of the
     concession. The claim is unchanged.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    Moved under ADR-061 to five arguments, one per inference it
+    judged: ARG-tmpcdbcg, ARG-tmpb1nnf, ARG-tmp6fcfu, ARG-tmpgevka and
+    ARG-tmpztimr. The claim's text below is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -20,6 +26,12 @@ tags:
 - philosophy-of-science
 date: '2026-10-10'
 line: pragmatic-transport
+superseded_by:
+- ARG-tmpcdbcg
+- ARG-tmpb1nnf
+- ARG-tmp6fcfu
+- ARG-tmpgevka
+- ARG-tmpztimr
 rests_on:
 - CLAIM-053
 grounds:
@@ -30,10 +42,6 @@ grounds:
 - CASE-032
 objects_to:
 - CLAIM-061
-- CLAIM-486
-- CLAIM-091
-- CLAIM-151
-- CLAIM-084
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (empirical and
   structure lenses); no turn of the exchange raises it. [CLAIM-061](CLAIM-061.md),
@@ -47,6 +55,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-091 CLAIM-151 CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-061, not as settled -->
+<!-- inactive-ok-file: ARG-tmpcdbcg ARG-tmpb1nnf ARG-tmp6fcfu ARG-tmpgevka ARG-tmpztimr — Rejected; the five arguments this claim moved to, one per inference it judged -->
+<!-- inactive-ok-file: CLAIM-053 — Superseded; moved to arguments the same day, cited as the claim this one answered -->
+<!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half, cited as the conclusion of the arguments this claim moved to -->
 
 # CLAIM-229: The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition's non-necessity holds the words fixed, so it shows only insufficiency
 
@@ -168,3 +179,7 @@ reader evidence exists. And the defender of necessity can reply that the
 proposition kept is the coarser "greet one another warmly". The case forces
 that defender to individuate propositions by function. It does not refute
 the defender.
+
+## Note of 2026-10-28: moved to ARG-tmpcdbcg, ARG-tmpb1nnf, ARG-tmp6fcfu, ARG-tmpgevka and ARG-tmpztimr
+
+This claim judged five inferences, so under ADR-061's one ARG per inference it is now five arguments, all Rejected: ARG-tmpcdbcg (CASE-018 and CASE-027 to CLAIM-486, filed once with CLAIM-053's verdict), ARG-tmpb1nnf (CLAIM-091 to CLAIM-486, as the revision of CLAIM-053's version), ARG-tmp6fcfu (CASE-018 to CLAIM-091), ARG-tmpgevka (CASE-018 to CLAIM-151) and ARG-tmpztimr (CASE-030 and CASE-032 to CLAIM-084). The edge to CLAIM-061 stays as the history of the concession; the possibility is not in dispute, so no argument to CLAIM-061 is filed. The text above is unchanged.

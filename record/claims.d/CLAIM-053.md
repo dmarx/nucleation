@@ -1,10 +1,10 @@
 ---
 number: 53
-status: Active
+status: Superseded
 formerly:
 - CLAIM-tmpf2wmc
 title: 'The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -13,6 +13,11 @@ history:
     carried until the status review of 2026-10-28 narrowed it to
     sufficiency. The edge to CLAIM-061 stays as the history of the
     concession. The claim is unchanged.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmpcdbcg and ARG-tmpb1nnf under ADR-061, as an
+    argument about support; the claim's text below is unchanged.
 role: granted
 warrant: interpretive
 tags:
@@ -20,9 +25,11 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
+superseded_by:
+- ARG-tmpcdbcg
+- ARG-tmpb1nnf
 objects_to:
 - CLAIM-061
-- CLAIM-486
 summary: >-
   The crystallized argument §1 said "not sufficient"; the manuscript §1
   says "neither necessary nor sufficient". Its own example shows only
@@ -32,6 +39,9 @@ supports:
 - CLAIM-229
 ---
 <!-- inactive-ok-file: CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: ARG-tmpcdbcg ARG-tmpb1nnf — Rejected; the arguments this claim moved to -->
+<!-- inactive-ok-file: CLAIM-229 — Superseded; moved to arguments the same day, cited as the reply this claim received -->
+<!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half, cited as the conclusion of the arguments this claim moved to -->
 
 # CLAIM-053: The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out
 
@@ -74,3 +84,7 @@ survives. It also leaves the defender a reply, that the proposition worth
 keeping is the coarser "greet one another warmly". This claim stands as a
 reading of the manuscript, which still argues only insufficiency. The record
 now holds a case the manuscript could cite.
+
+## Note of 2026-10-28: moved to ARG-tmpcdbcg and ARG-tmpb1nnf
+
+This claim is about support: what the manuscript's renderings show, and where the case against necessity lies. It moved to two arguments, both Rejected: ARG-tmpcdbcg, from the manuscript's renderings to CLAIM-486, which CLAIM-229 judged the same way and which is filed once; and ARG-tmpb1nnf, from the compensation hypothesis to CLAIM-486, whose version 1 is this claim's and whose version 2 is CLAIM-229's reply. The edge to CLAIM-061 stays as the history of the concession. The text above is unchanged.

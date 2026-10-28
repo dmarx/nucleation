@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpon3g9
 title: 'The use-level counterpart of Saussure''s value is an utterance''s contrast with the alternatives its speaker could have used in context; values do not cross between languages, which is why fidelity is graded transport through an anchored correspondence rather than identity of value'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    The edge objects_to CLAIM-254 is dropped: under ADR-061
+    CLAIM-254 moved to ARG-tmpt2gwf, the argument from CLAIM-082 and
+    THEORY-159 to CLAIM-115, and this reply is recorded in that
+    argument's body. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,8 +30,6 @@ grounds:
 - THEORY-172
 - THEORY-159
 - LIT-809
-objects_to:
-- CLAIM-254
 complements:
 - CLAIM-082
 - CLAIM-106
