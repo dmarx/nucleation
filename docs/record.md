@@ -255,6 +255,8 @@ Everything not listed here is at Luria's default.
 | `patterns.answered_but_open_reading` | *3 keys set* | *unset* |
 | `patterns.argued_from` | *2 keys set* | *unset* |
 | `patterns.undercuts_support_of` | *2 keys set* | *unset* |
+| `patterns.argued_for` | *5 keys set* | *unset* |
+| `patterns.argued_for_undercut` | *2 keys set* | *unset* |
 | `stale_days` | `14` | `90` |
 | `reliance` | `rests_on`, `grounds`, `uses`, `presupposes` | *empty* |
 | `load_bearing` | `5` | `None` |
