@@ -109,10 +109,10 @@ emergent) is undecided: "The précis does not say which".
 
 ## Note of 2026-10-28: grounded in what the account proposes
 
-At the owner's direction, CLAIM-159 now grounds on THEORY-tmp45v6v, the
+At the owner's direction, CLAIM-159 now grounds on [THEORY-tmp45v6v](../theory.d/THEORY-tmp45v6v.md), the
 record's held reading of what Shenhav, Botvinick and Cohen propose, rather
-than on THEORY-070, which asks whether the proposal is true. Placing the
+than on [THEORY-070](../theory.d/THEORY-070.md), which asks whether the proposal is true. Placing the
 account in the top-down cell needs only the proposal. The claim stays
-Proposed: its other ground, THEORY-067, is Proposed, and the note above
-says what else holds it. The same split for THEORY-067, a held reading of
+Proposed: its other ground, [THEORY-067](../theory.d/THEORY-067.md), is Proposed, and the note above
+says what else holds it. The same split for [THEORY-067](../theory.d/THEORY-067.md), a held reading of
 what the précis proposes, would remove that premise as a blocker too.

@@ -14,11 +14,11 @@ extends:
 - THEORY-070
 summary: >-
   What the expected-value-of-control paper proposes, split from
-  THEORY-070 by the sixth status review (ADR-058's route) so that a claim
+  [THEORY-070](THEORY-070.md) by the sixth status review ([ADR-058](../decisions.d/ADR-058.md)'s route) so that a claim
   needing only the proposal can stand on it. The paper was read in full
-  (NOTE-446), so the reading of what it proposes is held. Whether the
+  ([NOTE-446](../notes.d/NOTE-446.md)), so the reading of what it proposes is held. Whether the
   proposal is true, a fit of the computation and a dissociation of
-  specifying from implementing, stays THEORY-070's question, Proposed.
+  specifying from implementing, stays [THEORY-070](THEORY-070.md)'s question, Proposed.
 ---
 <!-- inactive-ok-file: THEORY-070 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Shenhav, Botvinick and Cohen (2013), LIT-585, read in full in NOTE-446: the
+Shenhav, Botvinick and Cohen (2013), [LIT-585](../literature.d/LIT-585.md), read in full in [NOTE-446](../notes.d/NOTE-446.md): the
 model (Eqs. 1–3; the retrieved text drops the equations themselves), §§4–7
 and the open questions.
 
@@ -42,12 +42,12 @@ future EVC. dACC monitors control-relevant states and specifies the signal;
 lateral prefrontal cortex and subcortical structures implement it.
 
 So the proposal places the allocation of control in a dedicated specifier
-above the structures it directs. That placement is what CLAIM-159 uses: it
+above the structures it directs. That placement is what [CLAIM-159](../claims.d/CLAIM-159.md) uses: it
 puts this account in the top-down cell of the drive profile.
 
 ## What this does not say
 
 It does not say the proposal is true. The paper "reports no new data" and
 its model "is stated, not fitted". A fit of the computation and a
-dissociation of specifying from implementing are THEORY-070's
-`promote_when`, and THEORY-070 stays Proposed until the record holds them.
+dissociation of specifying from implementing are [THEORY-070](THEORY-070.md)'s
+`promote_when`, and [THEORY-070](THEORY-070.md) stays Proposed until the record holds them.

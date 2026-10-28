@@ -19,11 +19,11 @@ grounds:
 concludes:
 - CLAIM-115
 summary: >-
-  A second line to CLAIM-115, independent of Saussure, filed at the
-  owner's direction from ARG-033's note that CLAIM-242 "could be the
+  A second line to [CLAIM-115](../claims.d/CLAIM-115.md), independent of Saussure, filed at the
+  owner's direction from [ARG-033](ARG-033.md)'s note that [CLAIM-242](../claims.d/CLAIM-242.md) "could be the
   premise of a second line". It starts from contrast in use, the
-  rational-speech-act premise (THEORY-172) and Bergen, Goodman and Levy's
-  finding (LIT-809), not from value in the language system. Proposed: the
+  rational-speech-act premise ([THEORY-172](../theory.d/THEORY-172.md)) and Bergen, Goodman and Levy's
+  finding ([LIT-809](../literature.d/LIT-809.md)), not from value in the language system. Proposed: the
   reference games and the alternatives they model are much narrower than
   translation.
 ---
@@ -33,24 +33,24 @@ summary: >-
 
 ## The inference
 
-CLAIM-242: "The use-level counterpart of Saussure's value is an utterance's
+[CLAIM-242](../claims.d/CLAIM-242.md): "The use-level counterpart of Saussure's value is an utterance's
 contrast with the alternatives its speaker could have used in context".
 In Frank and Goodman's reference games a listener who inverts a speaker
-choosing among alternatives predicts the bets people make (THEORY-172), and
+choosing among alternatives predicts the bets people make ([THEORY-172](../theory.d/THEORY-172.md)), and
 Bergen, Goodman and Levy show alternative utterances shaping what is
-understood (LIT-809). If interpretation in use runs through contrast with
+understood ([LIT-809](../literature.d/LIT-809.md)). If interpretation in use runs through contrast with
 alternatives, then what a rendering must preserve is that the receiver can
-still reconstruct those contrasts and act on them, which is CLAIM-115.
+still reconstruct those contrasts and act on them, which is [CLAIM-115](../claims.d/CLAIM-115.md).
 
-ARG-033 reaches CLAIM-115 from Saussure's value through CLAIM-082. This line
+[ARG-033](ARG-033.md) reaches [CLAIM-115](../claims.d/CLAIM-115.md) from Saussure's value through [CLAIM-082](../claims.d/CLAIM-082.md). This line
 does not use Saussure: the two are independent, and either could hold
-without the other (ADR-032's either-or support).
+without the other ([ADR-032](../decisions.d/ADR-032.md)'s either-or support).
 
 ## Critical questions
 
 - **In what respect are the cases alike?** In both, what a hearer takes an
   utterance to do depends on the alternatives the speaker passed over.
-- **Is that the respect the conclusion needs?** Yes: CLAIM-115 is about what
+- **Is that the respect the conclusion needs?** Yes: [CLAIM-115](../claims.d/CLAIM-115.md) is about what
   a receiving system can reconstruct, and a contrast with alternatives is
   something a receiver reconstructs.
 - **What relevant difference is there?** Reference games fix a small,
@@ -62,6 +62,6 @@ without the other (ADR-032's either-or support).
   it is Proposed.
 - **What transfers, and what does not?** The mechanism, interpretation by
   contrast with alternatives, transfers. The alternative sets do not, and
-  CLAIM-242 says why: "values do not cross between languages".
+  [CLAIM-242](../claims.d/CLAIM-242.md) says why: "values do not cross between languages".
 
 Filed 2026-10-28 at the sixth status review, at the owner's direction.
