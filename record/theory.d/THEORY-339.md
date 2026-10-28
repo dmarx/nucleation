@@ -24,8 +24,6 @@ source:
 - LIT-1074
 - LIT-1056
 - LIT-1077
-answers:
-- QUESTION-095
 summary: >-
   Dasgupta, Schulz, Goodman and Gershman (2018), [LIT-1074](../literature.d/LIT-1074.md), read in [NOTE-875](../notes.d/NOTE-875.md);
   Gershman and Goodman (2014), [LIT-1056](../literature.d/LIT-1056.md), read in [NOTE-886](../notes.d/NOTE-886.md); Dasgupta and Gershman
@@ -37,6 +35,8 @@ summary: >-
   and retrieval are free in the models; the 2021 review adds stale cached values
   from the planning literature, second-hand. No paper prices when reuse pays or
   touches stores outside the head.
+bears_on:
+- QUESTION-095
 ---
 
 # THEORY-339: People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result

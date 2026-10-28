@@ -34,8 +34,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1304
-answers:
-- QUESTION-222
 summary: >-
   Chorin and Lu (2015), [LIT-1304](../literature.d/LIT-1304.md), read in [NOTE-1028](../notes.d/NOTE-1028.md). A data-driven
   closure with one or two steps of discrete memory, plus one moving-average
@@ -45,6 +43,8 @@ summary: >-
   chaotic system with no scale gap. It is one system, the structure was
   tuned, and there is no bound, so it does not give the controlled
   prediction error [QUESTION-222](../questions.d/QUESTION-222.md) asks for.
+bears_on:
+- QUESTION-222
 ---
 <!-- inactive-ok-file: THEORY-747 — Proposed; the analogous empirical account from the turbulence reading -->
 

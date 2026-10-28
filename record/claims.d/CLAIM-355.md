@@ -44,8 +44,6 @@ date: '2026-10-18'
 line:
 - evidence-for-experience
 - organizational-affect
-answers:
-- QUESTION-053
 grounds:
 - THEORY-064
 - THEORY-691
@@ -83,6 +81,8 @@ illustrated_by:
 - CASE-114
 - CASE-134
 - CASE-137
+bears_on:
+- QUESTION-053
 ---
 <!-- inactive-ok-file: CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; the organizational-affect line, set aside by the owner, cited as the line this claim would rest on, nothing here rests on it -->

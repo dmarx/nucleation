@@ -73,7 +73,7 @@ summary: >-
   narrowing dropped it.
 extends:
 - THEORY-360
-answers:
+bears_on:
 - QUESTION-095
 ---
 

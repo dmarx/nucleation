@@ -18,8 +18,6 @@ summary: >-
 answered_by:
 - CLAIM-115
 - CLAIM-133
-- CLAIM-147
-- CLAIM-202
 - CLAIM-204
 - CLAIM-220
 refined_by:
@@ -38,6 +36,9 @@ refined_by:
 - QUESTION-022
 - QUESTION-029
 - QUESTION-075
+bearing:
+- CLAIM-147
+- CLAIM-202
 ---
 <!-- inactive-ok-file: THEORY-226 — Proposed; a measured case held for this question, which it does not answer -->
 

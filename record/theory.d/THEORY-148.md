@@ -29,7 +29,7 @@ summary: >-
   agents fail to converge. Rosenstock et al. [LIT-733](../literature.d/LIT-733.md) find this the
   result that is robust across the models they test. Proposed: shown only
   in simulation.
-answers:
+bears_on:
 - QUESTION-047
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the network account filed in this batch -->

@@ -24,8 +24,6 @@ tags:
 date: '2026-10-22'
 source:
 - LIT-1345
-answers:
-- QUESTION-254
 summary: >-
   Safron, Klimaj & Sheikhbahaee (2026), [LIT-1345](../literature.d/LIT-1345.md), read in full in
   [NOTE-1057](../notes.d/NOTE-1057.md): Integrated World Modeling Theory as restated in a
@@ -35,6 +33,8 @@ summary: >-
   free accounts is about developmental grounding and the capacity for
   coupling. "Embodied grounding" comes in "sufficient degrees (and kinds)",
   with no threshold.
+bears_on:
+- QUESTION-254
 ---
 <!-- inactive-ok-file: CLAIM-413 CLAIM-412 TERM-072 THEORY-063 — Proposed; the claims, terms and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; filed in the same batch, named -->

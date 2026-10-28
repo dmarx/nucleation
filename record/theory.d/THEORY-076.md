@@ -49,7 +49,7 @@ summary: >-
   calls narrative unity less basic in one. A philosophical model argued
   from cases; the analogy is partial by its author's account and its
   terms come from a book the record has not read.
-answers:
+bears_on:
 - QUESTION-034
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; the rival account, declared -->

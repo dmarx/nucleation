@@ -21,8 +21,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-187
-answers:
-- QUESTION-028
 summary: >-
   Watson (2023), [LIT-187](../literature.d/LIT-187.md), read in full in [NOTE-172](../notes.d/NOTE-172.md). Three pairs of theses,
   one per task: the epistemic one (EC, EA, EG) accepted, the ontological one
@@ -32,6 +30,8 @@ summary: >-
   like them") so far that it is hard to falsify. The pragmatic,
   context-relative view of kinds is asserted, not defended. Self-supervised
   learning and foundation models are outside its scope.
+bears_on:
+- QUESTION-028
 ---
 <!-- inactive-ok-file: THEORY-273 — Proposed; a neighbouring account of natural kinds, named for comparison -->
 

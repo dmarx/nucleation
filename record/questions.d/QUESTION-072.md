@@ -54,7 +54,7 @@ summary: >-
   gains standing in the argument that one whose moves are not does not.
   The question asks whether that happens, and whether it is a wrong in
   Fricker's sense or only a bias in what persists.
-answered_by:
+bearing:
 - THEORY-317
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the reading this question was filed ahead of, read only in the author's précis -->

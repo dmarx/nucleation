@@ -25,8 +25,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1066
-answers:
-- QUESTION-101
 summary: >-
   Hutchins (1995), [LIT-1066](../literature.d/LIT-1066.md), read in [NOTE-867](../notes.d/NOTE-867.md). A stylized task analysis of
   one airline's MD-80 procedure, informed by observation but reporting no
@@ -41,6 +39,8 @@ summary: >-
   ([LIT-1060](../literature.d/LIT-1060.md)) is Unavailable.
 supports:
 - CLAIM-296
+bears_on:
+- QUESTION-101
 ---
 <!-- inactive-ok-file: LIT-1060 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

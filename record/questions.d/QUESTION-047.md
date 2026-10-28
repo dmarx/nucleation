@@ -19,11 +19,6 @@ tags:
 - philosophy-of-science
 date: '2026-10-12'
 line: 'distributed-agency'
-answered_by:
-- THEORY-143
-- THEORY-148
-- THEORY-146
-- THEORY-151
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-030](../claims.d/CLAIM-030.md), [CLAIM-060](../claims.d/CLAIM-060.md), CLAIM-192
@@ -35,6 +30,10 @@ refined_by:
 - QUESTION-184
 - QUESTION-212
 bearing:
+- THEORY-151
+- THEORY-146
+- THEORY-148
+- THEORY-143
 - THEORY-855
 - THEORY-321
 ---

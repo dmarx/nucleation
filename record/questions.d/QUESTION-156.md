@@ -19,7 +19,7 @@ summary: >-
   emergent subspace. Which assumption the other models drop, Busemeyer and
   Bruza's ([LIT-316](../literature.d/LIT-316.md), unavailable) and Franco's among them, has not been
   read.
-answered_by:
+bearing:
 - THEORY-807
 ---
 <!-- inactive-ok-file: LIT-316 — Unavailable; named as one of the models an answer would read, not leaned on -->

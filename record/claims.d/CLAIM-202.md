@@ -23,8 +23,6 @@ tags:
 - philosophy-of-science
 date: '2026-10-10'
 line: pragmatic-transport
-answers:
-- QUESTION-002
 rests_on:
 - CLAIM-023
 complements:
@@ -44,6 +42,8 @@ illustrated_by:
 - CASE-055
 objected_by:
 - CLAIM-205
+bears_on:
+- QUESTION-002
 ---
 <!-- inactive-ok-file: CLAIM-205 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-228 CLAIM-259 — Proposed; the record's other replies of 2026-10-10, open, cited for the revised thesis and the measures this one tests -->

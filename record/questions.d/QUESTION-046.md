@@ -11,10 +11,6 @@ tags:
 - phenomenal-unity
 date: '2026-10-12'
 line: 'evidence-for-experience'
-answered_by:
-- THEORY-043
-- THEORY-063
-- THEORY-507
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-165](../claims.d/CLAIM-165.md), [CLAIM-155](../claims.d/CLAIM-155.md), [CLAIM-003](../claims.d/CLAIM-003.md)
@@ -22,6 +18,10 @@ summary: >-
   gives each one's limit.
 refined_by:
 - QUESTION-254
+bearing:
+- THEORY-507
+- THEORY-063
+- THEORY-043
 ---
 <!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; cited as the looser earlier version of this question -->

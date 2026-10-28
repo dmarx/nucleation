@@ -17,8 +17,6 @@ tags:
 - cognition
 date: '2026-10-15'
 line: pragmatic-transport
-answers:
-- QUESTION-109
 grounds:
 - THEORY-337
 - THEORY-335
@@ -32,6 +30,8 @@ summary: >-
   missed direct priming. [CLAIM-298](CLAIM-298.md) now rests on it.
 supports:
 - CLAIM-298
+bears_on:
+- QUESTION-109
 ---
 <!-- inactive-ok-file: THEORY-335 — Proposed; the account this claim states, cited with its standing -->
 

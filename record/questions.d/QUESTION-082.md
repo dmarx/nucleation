@@ -20,7 +20,7 @@ summary: >-
   and on [THEORY-131](../theory.d/THEORY-131.md) and [THEORY-139](../theory.d/THEORY-139.md) a collective's reasons are made by its
   procedures, not sampled from its members. What would count as an answer is
   in the body.
-answered_by:
+bearing:
 - CLAIM-271
 ---
 

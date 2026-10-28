@@ -19,11 +19,11 @@ summary: >-
   implicit: that the governance maintain itself, and that coherence not be
   bought by eliminating the members' disagreement. An answer names
   conditions under which both hold and conditions under which one fails.
-answered_by:
-- CLAIM-285
-- CLAIM-286
 refined_by:
 - QUESTION-259
+bearing:
+- CLAIM-286
+- CLAIM-285
 ---
 <!-- inactive-ok-file: CLAIM-285 CLAIM-277 CLAIM-284 THEORY-067 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

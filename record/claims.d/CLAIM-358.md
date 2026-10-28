@@ -29,8 +29,6 @@ tags:
 date: '2026-10-18'
 line:
 - will-organization
-answers:
-- QUESTION-054
 rests_on:
 - CLAIM-261
 grounds:
@@ -60,6 +58,8 @@ summary: >-
   an integrated agent works less hard, or anything about authenticity.
 supports:
 - CLAIM-443
+bears_on:
+- QUESTION-054
 ---
 <!-- inactive-ok-file: CLAIM-261 CLAIM-162 CLAIM-163 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
 

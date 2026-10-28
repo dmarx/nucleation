@@ -22,8 +22,6 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
-answers:
-- QUESTION-278
 rests_on:
 - CLAIM-422
 - CLAIM-099
@@ -45,6 +43,8 @@ summary: >-
   institutions. The edge: it is about relations, not about any
   government's conduct, and says nothing about which corrections are
   owed.
+bears_on:
+- QUESTION-278
 ---
 
 # CLAIM-462: An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second

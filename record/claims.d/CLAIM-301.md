@@ -18,8 +18,6 @@ tags:
 - epistemology
 date: '2026-10-15'
 line: nucleating-argument
-answers:
-- QUESTION-107
 uses:
 - TERM-056
 grounds:
@@ -35,6 +33,8 @@ summary: >-
   A2 and A13.
 objected_by:
 - CLAIM-292
+bears_on:
+- QUESTION-107
 ---
 <!-- inactive-ok-file: LIT-1079 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-184 CLAIM-191 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

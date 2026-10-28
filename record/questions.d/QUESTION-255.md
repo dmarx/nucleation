@@ -58,7 +58,7 @@ summary: >-
   question is whether a model that genuinely fails to glue, under a cover
   and correspondence fixed independently, can be part of one unified
   experience.
-answered_by:
+bearing:
 - THEORY-875
 ---
 <!-- inactive-ok-file: CLAIM-196 CLAIM-198 CLAIM-355 CLAIM-368 CLAIM-412 THEORY-063 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->

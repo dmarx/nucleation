@@ -20,8 +20,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1261
-answers:
-- QUESTION-217
 summary: >-
   Rahaman et al. (2019), [LIT-1261](../literature.d/LIT-1261.md), Experiment 1, read in full in
   [NOTE-983](../notes.d/NOTE-983.md). With equal amplitudes, and with amplitudes rising from 0.1
@@ -30,6 +28,8 @@ summary: >-
   [THEORY-186](THEORY-186.md) gives for a deep linear network. One architecture, one optimiser,
   a 1-D input, ten runs averaged. The paper's theory gives a bound on
   speed, not this order.
+bears_on:
+- QUESTION-217
 ---
 <!-- inactive-ok-file: THEORY-186 THEORY-481 — Proposed; accounts this is contrasted with, nothing here rests on their being settled -->
 

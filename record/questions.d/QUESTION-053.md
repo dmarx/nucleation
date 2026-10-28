@@ -17,11 +17,10 @@ summary: >-
   [THEORY-126](../theory.d/THEORY-126.md) (von Scheve and Ismer) makes collective emotion synchronous
   convergence with no group subject. The organizational-affect line
   ([CLAIM-039](../claims.d/CLAIM-039.md), Deferred) needs to know which it is claiming.
-answered_by:
-- THEORY-125
-- THEORY-126
-- CLAIM-355
 bearing:
+- CLAIM-355
+- THEORY-126
+- THEORY-125
 - THEORY-123
 ---
 <!-- inactive-ok-file: CLAIM-039 — Deferred; the claim this question bears on, with its line set aside -->

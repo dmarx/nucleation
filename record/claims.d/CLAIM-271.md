@@ -35,8 +35,6 @@ tags:
 - agency
 date: '2026-10-13'
 line: distributed-agency
-answers:
-- QUESTION-082
 rests_on:
 - CLAIM-030
 grounds:
@@ -54,6 +52,8 @@ summary: >-
   members.
 supports:
 - CLAIM-432
+bears_on:
+- QUESTION-082
 ---
 
 # CLAIM-271: A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support

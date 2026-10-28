@@ -23,8 +23,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-425
-answers:
-- QUESTION-048
 summary: >-
   Chalmers (2018), [LIT-425](../literature.d/LIT-425.md), read in full in [NOTE-354](../notes.d/NOTE-354.md). The meta-problem
   follows from the physical explicability of behaviour; the challenge is a
@@ -36,6 +34,8 @@ summary: >-
   the programme needs mostly do not exist.
 supports:
 - CLAIM-337
+bears_on:
+- QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-507 THEORY-523 THEORY-633 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 

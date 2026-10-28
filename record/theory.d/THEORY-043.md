@@ -101,7 +101,7 @@ summary: >-
   that would count against a loosely coupled society of mind as much as
   against a nation. Proposed: an account of where a dispute stands, from
   philosophical argument and no measurement.
-answers:
+bears_on:
 - QUESTION-046
 ---
 <!-- inactive-ok-file: THEORY-436 THEORY-538 THEORY-638 — Proposed; the accounts now filed from readings this one draws on, named in Connections, none a premise -->

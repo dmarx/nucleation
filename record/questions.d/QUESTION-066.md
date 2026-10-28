@@ -13,16 +13,15 @@ date: '2026-10-12'
 line: 'will-organization'
 refines:
 - QUESTION-015
-answered_by:
-- THEORY-049
-- THEORY-154
-- THEORY-077
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-027](../claims.d/CLAIM-027.md), [CLAIM-122](../claims.d/CLAIM-122.md) and
   [CLAIM-089](../claims.d/CLAIM-089.md). [THEORY-046](../theory.d/THEORY-046.md), [THEORY-049](../theory.d/THEORY-049.md), [THEORY-154](../theory.d/THEORY-154.md) and [THEORY-077](../theory.d/THEORY-077.md) answer it
   in part; the body gives each one's limit.
 bearing:
+- THEORY-077
+- THEORY-154
+- THEORY-049
 - THEORY-046
 ---
 

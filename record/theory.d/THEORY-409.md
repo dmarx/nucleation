@@ -22,8 +22,6 @@ date: '2026-10-16'
 source:
 - LIT-579
 - LIT-591
-answers:
-- QUESTION-034
 summary: >-
   Schwartz, [LIT-579](../literature.d/LIT-579.md) (the IFS Institute's "Evolution" essay, read in
   [NOTE-453](../notes.d/NOTE-453.md)) and [LIT-591](../literature.d/LIT-591.md) (Internal Family Systems Therapy, chapter 1 only,
@@ -32,6 +30,8 @@ summary: >-
   "hundreds of clients for more than two decades". No study is reported in
   either source, and the book's research chapter was not read. It is filed
   as the account IFS offers, not as an account the record has tested.
+bears_on:
+- QUESTION-034
 ---
 <!-- inactive-ok-file: LIT-591 — Unavailable; the book whose first chapter was read, the second source -->
 <!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of that chapter, which this account says it rests on in part -->

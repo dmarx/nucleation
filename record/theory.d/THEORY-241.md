@@ -30,7 +30,7 @@ summary: >-
   sweeps vary it meaningfully. Qualitative, curated and three images. The
   paper's account of why, the order of discovery in open-ended search,
   and its extension to large models are conjecture.
-answers:
+bears_on:
 - QUESTION-060
 ---
 <!-- inactive-ok-file: THEORY-210 THEORY-112 — Proposed; accounts this one bears on -->

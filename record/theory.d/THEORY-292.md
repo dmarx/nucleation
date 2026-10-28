@@ -31,7 +31,7 @@ summary: >-
   paper's account, with no values in the text and no error bars. It does
   not say the model's own axes are orthogonal, and it says nothing about
   attributes that imply one another.
-answers:
+bears_on:
 - QUESTION-025
 ---
 

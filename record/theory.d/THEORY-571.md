@@ -23,8 +23,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-080
-answers:
-- QUESTION-079
 summary: >-
   Vohryzek, Cabral, Vuust, Deco & Kringelbach (2022), [LIT-080](../literature.d/LIT-080.md), read in full
   in [NOTE-054](../notes.d/NOTE-054.md). A perspective that reports no data: the landscape (Fig. 6)
@@ -36,6 +34,8 @@ summary: >-
   rigid". The modelling section is heavily self-citing. Proposed: a
   framing, with the record's rival description of the same dynamics as
   continuous in [THEORY-088](THEORY-088.md).
+bears_on:
+- QUESTION-079
 ---
 <!-- inactive-ok-file: THEORY-088 — Proposed; the continuous description weighed against this one, not leaned on -->
 

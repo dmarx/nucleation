@@ -38,7 +38,7 @@ summary: >-
   dichotomies are decodable above a shuffle null in 15 of 16 regions, GU
   being 0.82. Types do appear when regions are pooled, aligned with
   anatomy. One task, overtrained mice, a lenient separability criterion.
-answers:
+bears_on:
 - QUESTION-042
 ---
 

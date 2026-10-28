@@ -49,7 +49,7 @@ summary: >-
   general solution.
 presupposed_by:
 - THEORY-098
-answers:
+bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-100 — Proposed; the accounts this methodological point bears on, named in prose, no relation claimed -->

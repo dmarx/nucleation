@@ -42,10 +42,10 @@ summary: >-
   history or a statistical norm. Proposed: a conceptual proposal with a
   one-variable model, and the field has not been computed for any real
   organism.
-answers:
-- QUESTION-087
 supports:
 - CLAIM-368
+bears_on:
+- QUESTION-087
 ---
 <!-- inactive-ok-file: LIT-536 — Unavailable; Moreno & Mossio's book, the source of the definitions criticized, cited as Barandiaran quotes it -->
 <!-- inactive-ok-file: CLAIM-277 — Proposed; open claims this account bears on, nothing here rests on them -->

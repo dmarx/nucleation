@@ -36,6 +36,7 @@ rests_on:
 - CLAIM-050
 - CLAIM-077
 complements:
+- CLAIM-160
 - CLAIM-139
 uses:
 - TERM-040

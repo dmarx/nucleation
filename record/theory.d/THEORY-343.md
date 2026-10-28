@@ -23,8 +23,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1059
-answers:
-- QUESTION-095
 summary: >-
   Risko & Gilbert (2016), [LIT-1059](../literature.d/LIT-1059.md), read in [NOTE-887](../notes.d/NOTE-887.md). A review: in
   choice/no-choice studies of rotated displays, delayed intentions and
@@ -36,6 +34,8 @@ summary: >-
   memory for it. The review reports no effect sizes, the cited studies were
   not read, and its metacognitive model is an unformalised box diagram; the
   drift toward external reliance is a prediction, not a finding.
+bears_on:
+- QUESTION-095
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

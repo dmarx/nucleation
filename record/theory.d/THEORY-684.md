@@ -26,8 +26,6 @@ source:
 - LIT-452
 rivals:
 - THEORY-060
-answers:
-- QUESTION-043
 summary: >-
   Strawson (2004), [LIT-452](../literature.d/LIT-452.md), read in [NOTE-383](../notes.d/NOTE-383.md). The separation of
   Diachronicity, form-finding, story-telling and revision is strong as
@@ -36,6 +34,8 @@ summary: >-
   measure. It does not say that the remoter past did not happen to the
   human being, only to the self one now experiences oneself to be, and
   that metaphysical claim is asserted from earlier papers.
+bears_on:
+- QUESTION-043
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-458 THEORY-691 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-060 THEORY-076 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->

@@ -29,8 +29,6 @@ tags:
 date: '2026-10-22'
 source:
 - LIT-1364
-answers:
-- QUESTION-254
 summary: >-
   Whyte, Corcoran, Robinson, Smith, Moran, Parr, Friston, Seth & Hohwy
   (2026), [LIT-1364](../literature.d/LIT-1364.md), read in full in [NOTE-1062](../notes.d/NOTE-1062.md) from arXiv v2. The
@@ -40,6 +38,8 @@ summary: >-
   the best explanation" from what the models needed in order to report.
   The authors scope it to humans and similar animals and are agnostic
   elsewhere. Neither prediction has been tested in the paper.
+bears_on:
+- QUESTION-254
 ---
 <!-- inactive-ok-file: CLAIM-411 CLAIM-412 THEORY-094 THEORY-577 — Proposed; the claims and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; filed in the same batch, named -->

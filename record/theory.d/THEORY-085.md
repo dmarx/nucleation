@@ -54,7 +54,7 @@ summary: >-
   between-class covariance of the factors, is the record's own and is
   filed as CLAIM-391. The evidence for the mechanism is one MLP,
   spectra only, judged by eye.
-answers:
+bears_on:
 - QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-078 — Proposed; this account extends it per layer and is no firmer than it -->

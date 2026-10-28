@@ -27,8 +27,6 @@ tags:
 date: '2026-10-22'
 source:
 - LIT-1347
-answers:
-- QUESTION-048
 summary: >-
   Gurnee, Sofroniew et al. (2026), [LIT-1347](../literature.d/LIT-1347.md), §3.5.3 and §A.23, read in
   [NOTE-1069](../notes.d/NOTE-1069.md). The authors conclude that "the J-space supports the
@@ -37,6 +35,8 @@ summary: >-
   text graded by another model, on five or six prompts per condition, in
   one company's models; and the effect holds for reports about others,
   so it is not evidence of anything the self-reports are about.
+bears_on:
+- QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-577 THEORY-633 THEORY-023 THEORY-865 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claim, cited as open -->

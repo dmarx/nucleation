@@ -25,8 +25,6 @@ date: '2026-10-15'
 source:
 - LIT-1070
 - LIT-1063
-answers:
-- QUESTION-095
 summary: >-
   Sardana et al. (2024; arXiv 2023), [LIT-1070](../literature.d/LIT-1070.md), read in [NOTE-881](../notes.d/NOTE-881.md), and Snell et
   al. (2024), [LIT-1063](../literature.d/LIT-1063.md), read in [NOTE-869](../notes.d/NOTE-869.md). Sardana et al. minimise training
@@ -41,6 +39,8 @@ summary: >-
   Both take expected use as a known aggregate; neither has staleness or
   uncertainty about demand, and Snell's evidence is one model family on 500
   questions.
+bears_on:
+- QUESTION-095
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

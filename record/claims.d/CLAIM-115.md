@@ -22,7 +22,6 @@ works:
 - what-survives-translation
 answers:
 - QUESTION-002
-- QUESTION-021
 supersedes:
 - CLAIM-017
 rests_on:
@@ -53,6 +52,8 @@ objected_by:
 - CLAIM-238
 - CLAIM-243
 - CLAIM-244
+bears_on:
+- QUESTION-021
 ---
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as a later restatement of this thesis, itself replaced -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-082 — Proposed; open, and cited as open: a later thesis of the exchange and a premise of this one, neither settled -->

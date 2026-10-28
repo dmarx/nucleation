@@ -48,7 +48,7 @@ summary: >-
   overridden by ease of rectification, which is a control criterion. It
   does not show that what is allocated is moral responsibility rather
   than accountability used as a corrective signal.
-answers:
+bears_on:
 - QUESTION-041
 ---
 <!-- inactive-ok-file: THEORY-561 — Proposed; the account this one presupposes, filed in the same audit -->

@@ -23,8 +23,6 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
-answers:
-- QUESTION-278
 grounds:
 - CASE-176
 - CASE-175
@@ -45,6 +43,8 @@ summary: >-
   enforcement-mediated entrenchment and jurisdictional displacement. The
   edge: it says nothing about intent, and nothing about how much weight a
   court should give to risks the act created.
+bears_on:
+- QUESTION-278
 ---
 
 # CLAIM-464: An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same

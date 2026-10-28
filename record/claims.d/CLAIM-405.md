@@ -25,8 +25,6 @@ tags:
 date: '2026-10-21'
 line:
 - distributed-agency
-answers:
-- QUESTION-065
 rests_on:
 - CLAIM-152
 complements:
@@ -50,6 +48,8 @@ summary: >-
 illustrated_by:
 - CASE-175
 - CASE-176
+bears_on:
+- QUESTION-065
 ---
 <!-- inactive-ok-file: QUESTION-284 QUESTION-280 — the questions that press on this claim, Open -->
 <!-- inactive-ok-file: CLAIM-363 CLAIM-348 CLAIM-174 CLAIM-195 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->

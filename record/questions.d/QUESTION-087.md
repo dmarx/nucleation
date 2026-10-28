@@ -18,12 +18,12 @@ summary: >-
   intrinsic to the organization could tell entrenched authority from
   merited trust. Organizational accounts of malfunction are the nearest
   literature.
-answered_by:
-- THEORY-217
-- THEORY-220
-- THEORY-628
 refined_by:
 - QUESTION-100
+bearing:
+- THEORY-628
+- THEORY-220
+- THEORY-217
 ---
 <!-- inactive-ok-file: CLAIM-277 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

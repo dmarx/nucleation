@@ -20,10 +20,6 @@ tags:
 date: '2026-10-12'
 line: 'will-organization'
 answered_by:
-- THEORY-058
-- THEORY-050
-- THEORY-052
-- THEORY-285
 - CLAIM-446
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
@@ -32,6 +28,11 @@ summary: >-
   it in part; the body gives each one's limit.
 refined_by:
 - QUESTION-292
+bearing:
+- THEORY-285
+- THEORY-052
+- THEORY-050
+- THEORY-058
 ---
 <!-- inactive-ok-file: THEORY-285 — Proposed; a model-level reading listed with its limit, an answer in part -->
 

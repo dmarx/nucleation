@@ -23,8 +23,6 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-672
-answers:
-- QUESTION-039
 summary: >-
   Martin & Mahoney (2017), [LIT-672](../literature.d/LIT-672.md), read in [NOTE-542](../notes.d/NOTE-542.md), restating Seung,
   Sompolinsky & Tishby (1992) and Haussler, Kearns, Seung & Tishby (1996),
@@ -36,6 +34,8 @@ summary: >-
   and blind to this. That deep networks have such a phase diagram is the
   authors' conjecture, and their mapping of label noise to load and early
   stopping to temperature is an analogy.
+bears_on:
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-087 THEORY-106 THEORY-108 — Proposed; neighbouring accounts of complexity, double descent and phase diagrams, named in Connections, not leaned on -->
 

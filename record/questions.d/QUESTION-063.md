@@ -37,10 +37,6 @@ tags:
 - ecology
 date: '2026-10-12'
 line: 'distributed-agency'
-answered_by:
-- THEORY-129
-- THEORY-130
-- THEORY-891
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-035](QUESTION-035.md), [QUESTION-033](QUESTION-033.md),
@@ -50,6 +46,10 @@ refined_by:
 - QUESTION-084
 - QUESTION-186
 - QUESTION-263
+bearing:
+- THEORY-891
+- THEORY-130
+- THEORY-129
 ---
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?

@@ -40,8 +40,6 @@ source:
 - LIT-859
 extends:
 - THEORY-186
-answers:
-- QUESTION-039
 summary: >-
   Mainali & Teixeira (2025), [LIT-859](../literature.d/LIT-859.md), read in [NOTE-658](../notes.d/NOTE-658.md). The prediction of
   one linear-attention layer reduces to p₂ W Σ̂_x q₁ x_q, a product of two
@@ -57,6 +55,8 @@ summary: >-
   the transfer to non-linear transformers is timing coincidences.
 supports:
 - CLAIM-118
+bears_on:
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this one extends, and no firmer than it -->
 <!-- inactive-ok-file: CLAIM-118 THEORY-212 — Proposed; the claim that grounds on this paper and neighbouring accounts, named in Connections, not leaned on -->

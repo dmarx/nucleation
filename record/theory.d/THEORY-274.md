@@ -33,7 +33,7 @@ summary: >-
   analysis is informal and rests on an unproved observation (App. F). It
   does not explain why deeper models prefer the geometry, which the paper
   poses as open, and its main transformer runs used weight decay.
-answers:
+bears_on:
 - QUESTION-060
 ---
 

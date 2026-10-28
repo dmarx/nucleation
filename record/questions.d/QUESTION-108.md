@@ -19,7 +19,7 @@ summary: >-
   retained, information accessible, information used correctly. The three are different
   findings, and a comparison that does not separate them cannot say which one [CLAIM-295](../claims.d/CLAIM-295.md)
   rests on.
-answered_by:
+bearing:
 - CLAIM-295
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 CLAIM-190 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

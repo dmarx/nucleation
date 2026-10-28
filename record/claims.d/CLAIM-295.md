@@ -22,9 +22,6 @@ tags:
 - design-rationale
 date: '2026-10-15'
 line: nucleating-argument
-answers:
-- QUESTION-112
-- QUESTION-108
 rests_on:
 - CLAIM-294
 - CLAIM-300
@@ -42,6 +39,9 @@ illustrated_by:
 - CASE-090
 objected_by:
 - CLAIM-293
+bears_on:
+- QUESTION-108
+- QUESTION-112
 ---
 <!-- inactive-ok-file: CLAIM-250 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

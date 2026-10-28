@@ -28,8 +28,6 @@ tags:
 - motivation
 date: '2026-10-11'
 line: will-organization
-answers:
-- QUESTION-034
 grounds:
 - THEORY-067
 uses:
@@ -46,6 +44,8 @@ supports:
 - CLAIM-156
 - CLAIM-162
 - CLAIM-198
+bears_on:
+- QUESTION-034
 ---
 <!-- inactive-ok-file: CLAIM-156 CLAIM-162 — Proposed; the two routes that rest on this claim, open -->
 <!-- inactive-ok-file: THEORY-056 THEORY-062 — Proposed; named as the second axis of multiplicity this claim sets aside -->

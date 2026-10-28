@@ -29,11 +29,11 @@ summary: >-
   history add value beyond a sufficient current state? A10 answered that, so posed,
   it never does ([CLAIM-300](../claims.d/CLAIM-300.md)). What is left is this question. Sufficiency is
   relative to a decision family, and inquiry changes its own family.
-answered_by:
-- CLAIM-295
-- THEORY-884
 refined_by:
 - QUESTION-288
+bearing:
+- THEORY-884
+- CLAIM-295
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

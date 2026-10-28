@@ -25,8 +25,6 @@ source:
 - LIT-206
 rivals:
 - THEORY-173
-answers:
-- QUESTION-032
 summary: >-
   Goldstein & Lederman (2025), [LIT-206](../literature.d/LIT-206.md), read in [NOTE-138](../notes.d/NOTE-138.md) from the preprint.
   Conditional on objective interpretationism, which the authors do not
@@ -36,6 +34,8 @@ summary: >-
   conjecture. All the empirical support is second-hand and qualitative.
 supports:
 - CLAIM-356
+bears_on:
+- QUESTION-032
 ---
 <!-- inactive-ok-file: THEORY-173 THEORY-208 THEORY-490 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 

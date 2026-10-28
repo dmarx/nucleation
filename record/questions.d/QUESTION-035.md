@@ -37,9 +37,6 @@ summary: >-
   [CLAIM-152](../claims.d/CLAIM-152.md) requires.
 answered_by:
 - CLAIM-157
-- THEORY-443
-- THEORY-448
-- THEORY-579
 refined_by:
 - QUESTION-040
 - QUESTION-042
@@ -50,6 +47,10 @@ refined_by:
 - QUESTION-118
 - QUESTION-218
 - QUESTION-277
+bearing:
+- THEORY-579
+- THEORY-448
+- THEORY-443
 ---
 <!-- inactive-ok-file: LIT-902 — Unavailable, unread; named as the source of the compensation test -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed; one of the candidate tests, open -->

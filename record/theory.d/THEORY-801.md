@@ -19,8 +19,9 @@ extends:
 rivals:
 - THEORY-624
 answers:
-- QUESTION-032
 - QUESTION-228
+bears_on:
+- QUESTION-032
 ---
 <!-- inactive-ok-file: THEORY-249 THEORY-624 — Proposed; the frame objection and the rival account, cited as open -->
 

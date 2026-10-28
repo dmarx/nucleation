@@ -37,7 +37,7 @@ summary: >-
   set, are engaged by both. The selective set best predicts how much
   reported negative affect falls. One instructed strategy, one stimulus
   type, BOLD only; nothing shows the selective regions do the regulating.
-answers:
+bears_on:
 - QUESTION-054
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-680 THEORY-070 THEORY-871 — Proposed; the accounts this result bears on, named, nothing here rests on them -->

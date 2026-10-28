@@ -21,10 +21,9 @@ summary: >-
   institutions with different powers, interests and jurisdictions, where
   correction may need several of them and none governs the rest. An answer
   names relations that could be checked in a case and could fail.
-answered_by:
-- CLAIM-462
-- CLAIM-464
 bearing:
+- CLAIM-464
+- CLAIM-462
 - CLAIM-457
 ---
 

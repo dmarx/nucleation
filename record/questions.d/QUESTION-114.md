@@ -25,9 +25,6 @@ summary: >-
   in one physical order, and every further index costs space and work on every insert.
   Choosing indexes for a workload is a studied problem with explicit cost models.
   This asks whether that model is the one [QUESTION-095](QUESTION-095.md) is looking for.
-answered_by:
-- THEORY-344
-- THEORY-383
 refined_by:
 - QUESTION-194
 - QUESTION-224
@@ -35,6 +32,8 @@ refined_by:
 - QUESTION-230
 - QUESTION-238
 bearing:
+- THEORY-383
+- THEORY-344
 - THEORY-389
 - THEORY-386
 - THEORY-382

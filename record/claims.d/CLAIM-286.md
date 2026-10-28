@@ -22,9 +22,6 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
-answers:
-- QUESTION-088
-- QUESTION-090
 complements:
 - CLAIM-284
 summary: >-
@@ -39,6 +36,9 @@ objected_by:
 - CLAIM-278
 supports:
 - CLAIM-336
+bears_on:
+- QUESTION-088
+- QUESTION-090
 ---
 <!-- inactive-ok-file: CLAIM-284 CLAIM-278 CLAIM-024 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

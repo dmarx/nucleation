@@ -28,8 +28,6 @@ tags:
 - individuation
 date: '2026-10-10'
 line: 'pragmatic-transport'
-answers:
-- QUESTION-001
 grounds:
 - CASE-042
 - THEORY-032
@@ -54,6 +52,8 @@ supports:
 - CLAIM-206
 - CLAIM-204
 - CLAIM-454
+bears_on:
+- QUESTION-001
 ---
 
 # CLAIM-135: Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most

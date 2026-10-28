@@ -38,8 +38,6 @@ source:
 - LIT-1011
 extends:
 - THEORY-779
-answers:
-- QUESTION-069
 summary: >-
   Kunin et al. (2021), [LIT-1011](../literature.d/LIT-1011.md), read in [NOTE-711](../notes.d/NOTE-711.md). Modelled as an
   underdamped Langevin equation with noise covariance proportional to the
@@ -52,6 +50,8 @@ summary: >-
   For the learned-structure line, a trained solution is in part a property
   of the regime that trained it. Proposed: the deep-learning evidence is
   one network, under assumptions the paper concedes are strained.
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-085 THEORY-083 THEORY-210 QUESTION-080 — Proposed or Open; readings and a question set beside this account on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-108 — Proposed; the reading whose temperature axis this account interprets, open -->

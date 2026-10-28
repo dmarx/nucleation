@@ -24,8 +24,6 @@ tags:
 date: '2026-10-13'
 source:
 - LIT-943
-answers:
-- QUESTION-039
 summary: >-
   Dominé et al. (2025), [LIT-943](../literature.d/LIT-943.md), read in [NOTE-715](../notes.d/NOTE-715.md). With whitened
   inputs and a λ-balanced start, W₂ᵀW₂ − W₁W₁ᵀ = λI, the full gradient flow
@@ -36,6 +34,8 @@ summary: >-
   the smaller carries the task at scale ∝ 1/|λ|. The paper analyses
   gradient flow only. Under SGD the conserved quantity drifts
   ([THEORY-211](THEORY-211.md)), which [QUESTION-081](../questions.d/QUESTION-081.md) takes up.
+bears_on:
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-186 QUESTION-081 — Proposed or Open; the readings this account generalizes or is set beside, and the question it raises, open -->
 

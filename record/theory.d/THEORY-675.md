@@ -23,8 +23,6 @@ date: '2026-10-16'
 source:
 - LIT-676
 - LIT-666
-answers:
-- QUESTION-069
 summary: >-
   Li et al. (2025), [LIT-676](../literature.d/LIT-676.md), read in [NOTE-529](../notes.d/NOTE-529.md): on synthetic CSBM graphs the
   barrier between GCNs from different seeds falls with density and feature
@@ -37,6 +35,8 @@ summary: >-
   missing and its barriers are plots; the federated bound treats
   heterogeneity as isotropic noise, and its lemma and theorem conditions
   conflict as written.
+bears_on:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: LIT-676 — Proposed; one of the two readings this account rests on, which is why it is Proposed -->
 <!-- inactive-ok-file: THEORY-109 THEORY-115 THEORY-557 — Proposed; neighbouring connectivity accounts named in Connections, not leaned on -->

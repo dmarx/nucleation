@@ -103,3 +103,16 @@ None of these gives the criterion this claim lacks.
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-016](../terms.d/TERM-016.md),
 which is Superseded. It now uses [TERM-030](../terms.d/TERM-030.md): the passive/active distinction is between a change in the configuration of the communicative situation and a change in the act configured, which is [TERM-030](../terms.d/TERM-030.md)'s sense. The claim's status is not
 changed by this.
+
+## Note of 2026-10-28: what holds it back
+
+The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim second among the
+Proposed claims with their premises held and no live objection: it has 9
+dependents. It stays Proposed. Its defeater is the absence of the very
+thing the body says it lacks: a reliable criterion that separates
+reframing an act from changing it. The body's own candidate is
+that an active transformation changes the decision-relevant observables
+(stance, force) beyond what the change of target context requires. What
+would promote it is that criterion stated, and judges sorting pairs of
+renderings by it above chance. [CASE-012](../cases.d/CASE-012.md)'s two renderings would be a first
+pair.

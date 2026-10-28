@@ -105,10 +105,14 @@ class Record:
                 if t in self.docs and self.status(t) != "Active"]
 
     def sound_unheld(self) -> list[tuple]:
-        """Sound ARGs (inference Active, every premise Active) whose conclusion the record does not hold."""
+        """Sound ARGs (inference Active, every premise Active) whose conclusion the record does not hold.
+
+        An ARG with a held undercutter is left out: the undercutter already says what it does not carry.
+        """
         return [(a, c, self.status(c))
                 for a, fm in sorted(self.docs.items()) if scheme(a) == "ARG" and self.status(a) == "Active"
                 and all(scheme(t) == "LIT" or self.status(t) == "Active" for t in self.premises(a))
+                and not any(self.status(u) == "Active" for u in as_list(fm.get("undercut_by")))
                 for c in as_list(fm.get("concludes")) if c in self.docs and self.status(c) != "Active"]
 
     def retired_premises(self) -> list[tuple]:

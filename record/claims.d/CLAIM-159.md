@@ -18,8 +18,6 @@ tags:
 - free-will
 date: '2026-10-11'
 line: will-organization
-answers:
-- QUESTION-033
 uses:
 - TERM-051
 - TERM-023
@@ -41,6 +39,8 @@ summary: >-
   drives" is not constant.
 objects_to:
 - CLAIM-024
+bears_on:
+- QUESTION-033
 ---
 <!-- ref::uses-file: TERM-048 — the claim places will-organization as the governance that makes a willed agent, and its third account is that kind -->
 <!-- inactive-ok-file: CLAIM-024 — Proposed; the objection this claim partly answers, open -->

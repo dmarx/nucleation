@@ -21,8 +21,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1069
-answers:
-- QUESTION-095
 summary: >-
   Jones (2021), [LIT-1069](../literature.d/LIT-1069.md), read in [NOTE-884](../notes.d/NOTE-884.md). Across about 200 AlphaZero
   models on Hex boards 3×3 to 9×9, the best Elo for a given training compute
@@ -34,6 +32,8 @@ summary: >-
   implementation, no uncertainty on the fitted coefficients, and no count
   of how many searches the trained agent will run, so it gives an exchange
   rate, not an amortization.
+bears_on:
+- QUESTION-095
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

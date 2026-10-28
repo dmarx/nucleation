@@ -34,13 +34,13 @@ summary: >-
   and influence ([CLAIM-285](../claims.d/CLAIM-285.md), [TERM-053](../terms.d/TERM-053.md)). [QUESTION-087](QUESTION-087.md) asks whether self-reproducing
   authority can be pathological by the organization's own standard. This names one
   mechanism by which it could become so.
-answered_by:
-- CLAIM-297
 refined_by:
 - QUESTION-117
 - QUESTION-121
 - QUESTION-253
 - QUESTION-241
+bearing:
+- CLAIM-297
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-281 CLAIM-285 CLAIM-297 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

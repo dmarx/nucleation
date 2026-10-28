@@ -20,12 +20,11 @@ summary: >-
   as through an inertial range, is not an individual. The record holds
   dissipative structures ([THEORY-072](../theory.d/THEORY-072.md), [THEORY-532](../theory.d/THEORY-532.md), [CLAIM-273](../claims.d/CLAIM-273.md), [QUESTION-085](QUESTION-085.md))
   but has not set flux beside its block and closure tests.
-answered_by:
-- THEORY-763
-- THEORY-776
-- THEORY-772
-- THEORY-821
 bearing:
+- THEORY-821
+- THEORY-772
+- THEORY-776
+- THEORY-763
 - THEORY-750
 - THEORY-748
 ---

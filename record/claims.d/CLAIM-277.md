@@ -1,10 +1,10 @@
 ---
 number: 277
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpf1063
 title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -20,6 +20,13 @@ history:
   note: >-
     A dated note added: A42's entrenchment loop, which A47's
     frozen-competence design cannot show. The claim is unchanged.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    Promoted at the fourth status review (ADR-057) on CASE-tmpasrij, a
+    construction of both loops under one endorsement rule. `rests_on:
+    CLAIM-282`, which the body stated, is added. The claim's answer
+    moves to QUESTION-tmpl8ywi, split from QUESTION-083.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,8 +39,6 @@ tags:
 - self-governance
 - social-ontology
 date: '2026-10-13'
-answers:
-- QUESTION-083
 works:
 - self-as-recursive-ecology
 line:
@@ -59,6 +64,12 @@ supports:
 - CLAIM-443
 illustrated_by:
 - CASE-162
+rests_on:
+- CLAIM-282
+grounds:
+- CASE-tmpasrij
+answers:
+- QUESTION-tmpl8ywi
 ---
 <!-- inactive-ok-file: CLAIM-403 CLAIM-406 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-927 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
@@ -214,3 +225,7 @@ when alternative perspectives don't receive enough opportunities to
 demonstrate competence". That is also [THEORY-927](../theory.d/THEORY-927.md)'s self-reinforcing
 gate. A47's experiment froze competence, so it cannot show the loop
 ([CASE-158](../cases.d/CASE-158.md)). The claim is unchanged.
+
+## Note of 2026-10-28: constructed, and promoted
+
+The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim as the most relied-on Proposed claim with its premises held and no live objection. The body said it rests on [CLAIM-282](CLAIM-282.md), which is Active, and the frontmatter did not, so the edge is added. Neither loop had been constructed. [CASE-tmpasrij](../cases.d/CASE-tmpasrij.md) builds both under one endorsement rule (scratch/formal/trust_loop.py). Scored every round, the more accurate of two operators holds the lead durably whatever the start. Scored only when it acts, under sharp selection, the early leader is never displaced. Nothing in the record meets the defeater: in the construction durable authority forms without a persistence term, and under scoring it tracks reliability and not early advantage. The claim answers the first part of [QUESTION-083](../questions.d/QUESTION-083.md), now [QUESTION-tmpl8ywi](../questions.d/QUESTION-tmpl8ywi.md).

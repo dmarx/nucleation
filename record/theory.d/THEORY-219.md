@@ -40,8 +40,9 @@ summary: >-
   never measured; the line between settling a frame and selecting under an
   antecedent rule is not made precise.
 supports:
+- CLAIM-tmpwlrc2
 - CLAIM-288
-answers:
+bears_on:
 - QUESTION-092
 ---
 <!-- inactive-ok-file: CLAIM-288 CLAIM-284 CLAIM-285 THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
@@ -157,3 +158,11 @@ whether the rule was designed.
   constitutive autonomy to a condition on legal responsibility. The two
   papers reach neighbouring verdicts on current systems by unrelated
   criteria.
+
+## Note of 2026-10-28: bearing on [QUESTION-092](../questions.d/QUESTION-092.md)
+
+At the owner's ruling on the fourth status review, this account bears on
+[QUESTION-092](../questions.d/QUESTION-092.md) and does not answer it. Its agency is the kind that bears on
+responsibility, and the question fixes [TERM-045](../terms.d/TERM-045.md)'s sense 5, self-governing.
+The bridge between the two is the record's own claim, filed the same day,
+which answers the question and is grounded in this account.

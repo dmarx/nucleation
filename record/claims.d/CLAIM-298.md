@@ -29,8 +29,6 @@ tags:
 - information-retrieval
 date: '2026-10-15'
 line: pragmatic-transport
-answers:
-- QUESTION-096
 rests_on:
 - CLAIM-315
 grounds:
@@ -51,6 +49,8 @@ summary: >-
   inferred, not shown. The mechanism the record holds, attention as sparse distributed
   memory ([LIT-269](../literature.d/LIT-269.md)), is a model, not evidence about judges. The extension to communication
   in general is the record's and is not shown.
+bears_on:
+- QUESTION-096
 ---
 <!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited for what it would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-117 CLAIM-184 CLAIM-199 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
