@@ -3,8 +3,21 @@ number: 205
 status: Proposed
 formerly:
 - CLAIM-tmp6gb7c
-title: 'A win over the static pragmatic profile shows that context matters, not that the transport formalism contributes: functional and relevance-theoretic accounts need not fix one context, so the rival the incremental thesis must beat is a strong contextual baseline of rich context-response profiles and supervised prediction'
-version: 1
+title: 'Functional and relevance-theoretic accounts of translation need not fix one context or a static stance profile, so their strongest operationalization is a rich contextual baseline of context-response profiles and supervised prediction'
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The title was "A win over the static pragmatic
+    profile shows that context matters, not that the transport formalism
+    contributes: functional and relevance-theoretic accounts need not fix
+    one context, so the rival the incremental thesis must beat is a strong
+    contextual baseline of rich context-response profiles and supervised
+    prediction". The verdict on support is now ARG-tmpqt13e, from CASE-055
+    to CLAIM-202, Proposed; this claim keeps what the rival accounts are
+    committed to, and undercuts that argument in place of objecting to
+    CLAIM-202.
 role: counter
 warrant: interpretive
 tags:
@@ -13,8 +26,8 @@ tags:
 - philosophy-of-language
 date: '2026-10-12'
 line: pragmatic-transport
-objects_to:
-- CLAIM-202
+undercuts:
+- ARG-tmpqt13e
 summary: >-
   From the interlocutor's reading of PR [#121](https://github.com/dmarx/nucleation/issues/121) and its reconciliation,
   relayed by the owner on 2026-10-12. It accepts [CLAIM-202](CLAIM-202.md) as the
@@ -22,8 +35,9 @@ summary: >-
   study has been run, and the strong baseline is not specified beyond the
   reading's table.
 ---
+<!-- inactive-ok-file: ARG-tmpqt13e — Proposed; the argument this claim undercuts, open -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
-# CLAIM-205: A win over the static pragmatic profile shows that context matters, not that the transport formalism contributes: functional and relevance-theoretic accounts need not fix one context, so the rival the incremental thesis must beat is a strong contextual baseline of rich context-response profiles and supervised prediction
+# CLAIM-205: Functional and relevance-theoretic accounts of translation need not fix one context or a static stance profile, so their strongest operationalization is a rich contextual baseline of context-response profiles and supervised prediction
 
 ## The objection
 
@@ -40,3 +54,12 @@ The incremental thesis restated against a strong contextual baseline, specified 
 ## What it does not say
 
 It does not say the transport structure will fail the stronger test, or that [CLAIM-202](CLAIM-202.md) should not be the principal empirical thesis. The reading favours making it so.
+
+## Note of 2026-10-28: split under ADR-061
+
+The old title said both what a win would show and what the rival accounts
+are committed to. The first is a verdict on support, and is now
+ARG-tmpqt13e, from CASE-055 to CLAIM-202, form evidence, Proposed, with
+"An empirical victory may establish that context matters" as its answer to
+"does it tell the hypothesis apart from its rivals?". This claim keeps the
+second, and undercuts that argument. The text above is unchanged.

@@ -3,8 +3,8 @@ number: 248
 status: Active
 formerly:
 - CLAIM-tmpt2k3r
-title: 'A language model agreeing with humans in direction is weak evidence, because models are trained on human text about teasing and reproach and the founding stimuli are famous, and the language-model test bed''s defeat condition fires only on a reversal'
-version: 3
+title: 'The founding stimuli (Villon, Henley''s Villon, Hofstadter''s Marot) and commentary on them are likely in language models'' training data, and what a context does to one model need not be what it does to another, so a model''s reading of their footing may be recall, and a directional match in one model may not hold in the next'
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -18,6 +18,18 @@ history:
     Grounds now also name THEORY-683, the account of LIT-833's
     measurement this claim relies on: good orders do not transfer across
     model sizes. The claim is unchanged.
+- version: 4
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The title was "A language model agreeing with
+    humans in direction is weak evidence, because models are trained on
+    human text about teasing and reproach and the founding stimuli are
+    famous, and the language-model test bed's defeat condition fires
+    only on a reversal". That a directional match is weak evidence is a
+    verdict on ARG-008's inference, and is now that argument's version
+    2. The defeat-condition point is history, repaired in CLAIM-058 v2.
+    The claim keeps the contamination and cross-model points, and
+    undercuts ARG-008 in place of objecting to CLAIM-058.
 role: counter
 warrant: interpretive
 tags:
@@ -30,8 +42,8 @@ rests_on:
 grounds:
 - LIT-833
 - THEORY-683
-objects_to:
-- CLAIM-058
+undercuts:
+- ARG-008
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (empirical lens);
   no turn of the exchange raises it. Agreement in direction is what a model
@@ -45,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-058 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, cited for its reading of LIT-833, not as settled -->
 
-# CLAIM-248: A language model agreeing with humans in direction is weak evidence, because models are trained on human text about teasing and reproach and the founding stimuli are famous, and the language-model test bed's defeat condition fires only on a reversal
+# CLAIM-248: The founding stimuli (Villon, Henley's Villon, Hofstadter's Marot) and commentary on them are likely in language models' training data, and what a context does to one model need not be what it does to another, so a model's reading of their footing may be recall, and a directional match in one model may not hold in the next
 
 ## The objection
 
@@ -97,3 +109,16 @@ contamination point.
 - Stimuli held out from training: new texts, or texts written after the
   models' training cut-off, alongside the famous ones.
 - Agreement required across several model families and sizes.
+
+## Note of 2026-10-28: split under ADR-061
+
+"Matching direction is weak evidence that the model tests anything about
+the theory's claims on human interpretation" is a verdict on the
+inference from language models to a test bed for the theory, which is
+ARG-008. Under ADR-061's one ARG per inference it goes into that
+argument's version 2, as an answer to "what does not transfer?". The
+point about the defeat condition was answered by CLAIM-058 v2. This claim
+keeps what it adds about the subject matter: the founding stimuli and
+commentary on them are likely in training data, and context effects need
+not carry from one model to the next. It undercuts ARG-008 with that. The
+text above is unchanged.
