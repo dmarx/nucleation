@@ -85,6 +85,6 @@ keeping is the coarser "greet one another warmly". This claim stands as a
 reading of the manuscript, which still argues only insufficiency. The record
 now holds a case the manuscript could cite.
 
-## Note of 2026-10-28: moved to ARG-tmpcdbcg and ARG-tmpb1nnf
+## Note of 2026-10-28: moved to [ARG-tmpcdbcg](../arguments.d/ARG-tmpcdbcg.md) and [ARG-tmpb1nnf](../arguments.d/ARG-tmpb1nnf.md)
 
-This claim is about support: what the manuscript's renderings show, and where the case against necessity lies. It moved to two arguments, both Rejected: ARG-tmpcdbcg, from the manuscript's renderings to CLAIM-486, which CLAIM-229 judged the same way and which is filed once; and ARG-tmpb1nnf, from the compensation hypothesis to CLAIM-486, whose version 1 is this claim's and whose version 2 is CLAIM-229's reply. The edge to CLAIM-061 stays as the history of the concession. The text above is unchanged.
+This claim is about support: what the manuscript's renderings show, and where the case against necessity lies. It moved to two arguments, both Rejected: [ARG-tmpcdbcg](../arguments.d/ARG-tmpcdbcg.md), from the manuscript's renderings to [CLAIM-486](CLAIM-486.md), which [CLAIM-229](CLAIM-229.md) judged the same way and which is filed once; and [ARG-tmpb1nnf](../arguments.d/ARG-tmpb1nnf.md), from the compensation hypothesis to [CLAIM-486](CLAIM-486.md), whose version 1 is this claim's and whose version 2 is [CLAIM-229](CLAIM-229.md)'s reply. The edge to [CLAIM-061](CLAIM-061.md) stays as the history of the concession. The text above is unchanged.

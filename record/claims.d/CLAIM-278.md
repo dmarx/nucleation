@@ -168,6 +168,6 @@ by whether the authored reading fits the world, which is a scope guard on
 reframing and not an outcome the framework rules out. The claim is
 unchanged.
 
-## Note of 2026-10-28: moved to ARG-tmpvyhbs
+## Note of 2026-10-28: moved to [ARG-tmpvyhbs](../arguments.d/ARG-tmpvyhbs.md)
 
-This objection says the lab's evidence does not yet tell the shared-organization thesis from its rivals, which is a verdict on support. It moved to ARG-tmpvyhbs, from CASE-161 and CASE-163 to CLAIM-286, form evidence, Proposed, with the comparators and all the dated notes in its body. CLAIM-467, which held this objection's form for one model class, now undercuts that argument. The text above is unchanged.
+This objection says the lab's evidence does not yet tell the shared-organization thesis from its rivals, which is a verdict on support. It moved to [ARG-tmpvyhbs](../arguments.d/ARG-tmpvyhbs.md), from [CASE-161](../cases.d/CASE-161.md) and [CASE-163](../cases.d/CASE-163.md) to [CLAIM-286](CLAIM-286.md), form evidence, Proposed, with the comparators and all the dated notes in its body. [CLAIM-467](CLAIM-467.md), which held this objection's form for one model class, now undercuts that argument. The text above is unchanged.

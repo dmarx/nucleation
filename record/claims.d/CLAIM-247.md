@@ -111,6 +111,6 @@ is the line's.
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) changed `rests_on: CLAIM-038` to `complements`. The claim compares texts, and needs only that the operational stance was stated. [CLAIM-046](CLAIM-046.md), on which the stance's first half rests, is Active since 2026-10-27.
 
-## Note of 2026-10-28: moved to ARG-tmppua4f
+## Note of 2026-10-28: moved to [ARG-tmppua4f](../arguments.d/ARG-tmppua4f.md)
 
-This claim's verdict, that no turn argues the change from an observational class to a kind, is about support, so it moved to ARG-tmppua4f, from CLAIM-046, CLAIM-112 and CLAIM-142 to CLAIM-139, form abduction, Proposed. Its comparison with CLAIM-038 and its use of TERM-014, TERM-040 and TERM-042 are in that argument's body. The text above is unchanged.
+This claim's verdict, that no turn argues the change from an observational class to a kind, is about support, so it moved to [ARG-tmppua4f](../arguments.d/ARG-tmppua4f.md), from [CLAIM-046](CLAIM-046.md), [CLAIM-112](CLAIM-112.md) and [CLAIM-142](CLAIM-142.md) to [CLAIM-139](CLAIM-139.md), form abduction, Proposed. Its comparison with [CLAIM-038](CLAIM-038.md) and its use of [TERM-014](../terms.d/TERM-014.md), [TERM-040](../terms.d/TERM-040.md) and [TERM-042](../terms.d/TERM-042.md) are in that argument's body. The text above is unchanged.

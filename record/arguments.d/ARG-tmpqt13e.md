@@ -14,8 +14,8 @@ grounds:
 concludes:
 - CLAIM-202
 summary: >-
-  CLAIM-202 says what the line adds is measured structure beyond a static
-  pragmatic profile, and CASE-055 is the study that would test it. The
+  [CLAIM-202](../claims.d/CLAIM-202.md) says what the line adds is measured structure beyond a static
+  pragmatic profile, and [CASE-055](../cases.d/CASE-055.md) is the study that would test it. The
   open question is whether beating the static profile tells the thesis
   apart from its rivals: functional and relevance-theoretic accounts need
   not fix one context, so "an empirical victory may establish that
@@ -30,12 +30,12 @@ summary: >-
 
 ## The inference
 
-CLAIM-202 compares three predictors of receivers' recovery: semantic
+[CLAIM-202](../claims.d/CLAIM-202.md) compares three predictors of receivers' recovery: semantic
 similarity, the static pragmatic profile, and the transport structure.
-CASE-055 is the study built to dissociate them. CLAIM-202 justifies the
+[CASE-055](../cases.d/CASE-055.md) is the study built to dissociate them. [CLAIM-202](../claims.d/CLAIM-202.md) justifies the
 static profile as the rival by saying that each rival account "fixes a
 profile of the rendering as read once". So if the transport measures beat
-the static profile in CASE-055, the line adds something to the functional
+the static profile in [CASE-055](../cases.d/CASE-055.md), the line adds something to the functional
 and relevance-theoretic accounts.
 
 ## Critical questions
@@ -55,22 +55,22 @@ and relevance-theoretic accounts.
   contextual baseline, not merely over static pragmatic judgments.
   Otherwise, an empirical victory may establish that context matters
   without establishing that the transport formalism makes a distinctive
-  contribution." CLAIM-205, on what the rival accounts are committed to,
+  contribution." [CLAIM-205](../claims.d/CLAIM-205.md), on what the rival accounts are committed to,
   undercuts this argument.
 - **Does the measure measure what it is said to?** Not in dispute here.
-  CASE-055's measures are fixed in its own body.
+  [CASE-055](../cases.d/CASE-055.md)'s measures are fixed in its own body.
 
 ## What would answer it
 
 The incremental thesis restated against a strong contextual baseline,
-specified in advance, with the margin fixed as CLAIM-202 already requires.
+specified in advance, with the margin fixed as [CLAIM-202](../claims.d/CLAIM-202.md) already requires.
 Or an argument that the static profile is the strongest rival the
-functional and relevance-theoretic accounts license. QUESTION-074 names
+functional and relevance-theoretic accounts license. [QUESTION-074](../questions.d/QUESTION-074.md) names
 the test the reading takes to be distinctive of the formalism.
 
 It does not say the transport structure will fail the stronger test, or
-that CLAIM-202 should not be the line's principal empirical thesis.
+that [CLAIM-202](../claims.d/CLAIM-202.md) should not be the line's principal empirical thesis.
 Proposed: no study has been run, and the strong baseline is not
 specified beyond the reading's table.
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-205.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-205](../claims.d/CLAIM-205.md).

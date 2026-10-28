@@ -29,13 +29,13 @@ summary: >-
 
 ## The inference
 
-CLAIM-286 holds that habit, akrasia, rumination, rigidity and insight can
+[CLAIM-286](../claims.d/CLAIM-286.md) holds that habit, akrasia, rumination, rigidity and insight can
 be modelled as regimes of one organization, in which processes transform
 shared meaning and allocate one another's influence. The software behind
 the exchange's runs is held as dmarx/PerspectiveLab. Its later versions
 give the models restrictions that can fail: fixed production laws, known
-admission propensities, declared intervention kernels (CASE-161,
-CASE-163). Predictions that could have failed and did not are evidence for
+admission propensities, declared intervention kernels ([CASE-161](../cases.d/CASE-161.md),
+[CASE-163](../cases.d/CASE-163.md)). Predictions that could have failed and did not are evidence for
 the organization that makes them.
 
 ## Critical questions
@@ -51,15 +51,15 @@ the organization that makes them.
   another's influence (A5 §7). "Each move was made to avoid hard-coding
   outcomes, and each one widened what the model can fit."
 - **Does it tell the hypothesis apart from its rivals?** Not yet. This is
-  the question that fails. CLAIM-278: "No reply named an outcome the model
+  the question that fails. [CLAIM-278](../claims.d/CLAIM-278.md): "No reply named an outcome the model
   rules out." The predictions inside the lab's models are "less than this
   claim asks, an outcome the framework forbids and its rivals allow". The
   comparators show it:
-  - A47's run (CASE-158): a contextual router outperformed the governance
+  - A47's run ([CASE-158](../cases.d/CASE-158.md)): a contextual router outperformed the governance
     mechanism on all 12 seeds. "A learned governance mechanism should not
     be considered explanatory simply because it changes the allocation of
     influence. An ordinary contextual router can accomplish that too."
-  - v1.1 (CASE-162): with the router given the same audit delay and query
+  - v1.1 ([CASE-162](../cases.d/CASE-162.md)): with the router given the same audit delay and query
     cost, it still has the lower post-reversal error in all four cells.
   - The comparator pilot (dmarx/PerspectiveLab@dce302b): a generic
     state-space model with the same transition kernels ties the structural
@@ -88,17 +88,17 @@ diagram, in which the same parameters move a system between rigid and
 adaptive governance (Figure 5), or constructive dissent improving
 adaptation after an environmental change, run with complexity penalized.
 The advantage has to come from a restriction that is both risky and
-economical, with its prior priced. CLAIM-286 grounds on nothing filed; its
+economical, with its prior priced. [CLAIM-286](../claims.d/CLAIM-286.md) grounds on nothing filed; its
 real support is the exchange's modelling turns, A3 to A7.
 
 ## Related
 
-CLAIM-024 makes the same objection to the will-organization account
+[CLAIM-024](../claims.d/CLAIM-024.md) makes the same objection to the will-organization account
 ("Nothing here is new: planning theory, control theory, executive control
 and institutional theory already study every mechanism the account names")
-and has the same remedy. CLAIM-467 undercuts this inference for one model
+and has the same remedy. [CLAIM-467](../claims.d/CLAIM-467.md) undercuts this inference for one model
 class: under full-information, independent audits, a learned allocation
 of influence is no better than a contextual router trained on the same
 audits.
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-278.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-278](../claims.d/CLAIM-278.md).

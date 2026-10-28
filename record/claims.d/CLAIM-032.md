@@ -45,11 +45,11 @@ institutional authority, not as a generic model of organizations or agency."
 It undercuts [ARG-003](../arguments.d/ARG-003.md) in every respect but the structural one, which is
 why that argument names its respect and its non-transfers explicitly.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 "The Dual State supplies one structural point and nothing more" is a
-verdict on the inference from the Dual State to CLAIM-086, so under
-ADR-061 it belongs to ARG-003, whose version 2 records it. What stays here
+verdict on the inference from the Dual State to [CLAIM-086](CLAIM-086.md), so under
+[ADR-061](../decisions.d/ADR-061.md) it belongs to [ARG-003](../arguments.d/ARG-003.md), whose version 2 records it. What stays here
 is the paper's own caution about Northstar (Section 5.6), which the
-manuscript needs as a claim about its subject, and which narrows ARG-003
+manuscript needs as a claim about its subject, and which narrows [ARG-003](../arguments.d/ARG-003.md)
 to its structural respect. The quoted text above is unchanged.

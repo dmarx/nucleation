@@ -162,12 +162,12 @@ A18's summary of the mistake all six guard against: "The common mistake
 is to infer something about the **distribution of practical authority**
 from the **absence of overt struggle**."
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The old title's first clause, "Low supervisory cost cannot show
-non-domination", was a verdict on support. It is now ARG-tmppzuia, from
-CLAIM-358 to CLAIM-362, form evidence, Proposed. This claim keeps what is
+non-domination", was a verdict on support. It is now [ARG-tmppzuia](../arguments.d/ARG-tmppzuia.md), from
+[CLAIM-358](CLAIM-358.md) to [CLAIM-362](CLAIM-362.md), form evidence, Proposed. This claim keeps what is
 about the subject matter: conditioned and negotiating processes match in
 behaviour and cost and part only under intervention or in their history,
 with the defeat condition it already had. It undercuts the argument and no
-longer objects to CLAIM-362, which it never said fails.
+longer objects to [CLAIM-362](CLAIM-362.md), which it never said fails.

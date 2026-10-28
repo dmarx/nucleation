@@ -135,11 +135,11 @@ None is measured, in a person or a model. The objection stands, Proposed,
 and the status is unchanged. [CLAIM-358](CLAIM-358.md) is stated in the broader
 sense and inherits the objection.
 
-## Note of 2026-10-28: moved to ARG-tmp8meez
+## Note of 2026-10-28: moved to [ARG-tmp8meez](../arguments.d/ARG-tmp8meez.md)
 
 This objection says the word "synchronization" carries no mechanism from
 coordination dynamics to valuations, which is a verdict on an analogy.
-Under ADR-061 it is now ARG-tmp8meez, from CLAIM-169, THEORY-069 and
-THEORY-070 to CLAIM-162, Proposed, whose critical question "what relevant
-difference is there?" is answered: the mechanism. CLAIM-198's reply still
+Under [ADR-061](../decisions.d/ADR-061.md) it is now [ARG-tmp8meez](../arguments.d/ARG-tmp8meez.md), from [CLAIM-169](CLAIM-169.md), [THEORY-069](../theory.d/THEORY-069.md) and
+[THEORY-070](../theory.d/THEORY-070.md) to [CLAIM-162](CLAIM-162.md), Proposed, whose critical question "what relevant
+difference is there?" is answered: the mechanism. [CLAIM-198](CLAIM-198.md)'s reply still
 names this claim, and the argument's body records it.

@@ -78,6 +78,6 @@ even a single observable can come out contextual.
 
 The owner ruled this granted claim Proposed rather than narrowing its title. What would return it to Active is [THEORY-168](../theory.d/THEORY-168.md)'s own promote_when: a worked system that is noncontextual under CbD 1.0 and contextual under 2.0.
 
-## Note of 2026-10-28: moved to ARG-tmpfb38b
+## Note of 2026-10-28: moved to [ARG-tmpfb38b](../arguments.d/ARG-tmpfb38b.md)
 
-This claim reads a source and says the manuscript leans on the 2016 paper for a scope it does not have. THEORY-168 already holds the reading, so the objection moved to ARG-tmpfb38b, from LIT-777 and THEORY-168 to CLAIM-037, form source, Proposed, as the owner's ruling of 2026-10-27 left it. The text above is unchanged.
+This claim reads a source and says the manuscript leans on the 2016 paper for a scope it does not have. [THEORY-168](../theory.d/THEORY-168.md) already holds the reading, so the objection moved to [ARG-tmpfb38b](../arguments.d/ARG-tmpfb38b.md), from [LIT-777](../literature.d/LIT-777.md) and [THEORY-168](../theory.d/THEORY-168.md) to [CLAIM-037](CLAIM-037.md), form source, Proposed, as the owner's ruling of 2026-10-27 left it. The text above is unchanged.

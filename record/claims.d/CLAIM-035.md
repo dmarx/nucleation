@@ -78,10 +78,10 @@ replaces relativity with symmetry and equivariance ([TERM-004](../terms.d/TERM-0
 It leaves [ARG-004](../arguments.d/ARG-004.md) its research-programme respect only. It is the premise of
 [CLAIM-098](CLAIM-098.md).
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 "The relativity analogy holds only as a research programme" is a verdict
-on ARG-004, and ARG-004's body and status already state it. Under ADR-061
+on [ARG-004](../arguments.d/ARG-004.md), and [ARG-004](../arguments.d/ARG-004.md)'s body and status already state it. Under [ADR-061](../decisions.d/ADR-061.md)
 the claim keeps what it says about translation operations: that they are
 generally not invertible, do not compose by a fixed rule and preserve no
 structure given in advance, and that the invariants must be discovered or

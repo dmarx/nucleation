@@ -91,11 +91,11 @@ and leaves the derivation, the defeat condition and the body unchanged.
   fidelity". The claim was always scoped to observational fidelity as D_obs
   measures it; the overreach was the title's "not defined".
 
-## Note of 2026-10-28: moved to ARG-tmp928rv
+## Note of 2026-10-28: moved to [ARG-tmp928rv](../arguments.d/ARG-tmp928rv.md)
 
-This objection was about what CLAIM-228's derivation shows: that one
+This objection was about what [CLAIM-228](CLAIM-228.md)'s derivation shows: that one
 source–target pair does not identify the procedure-level score, and not
-that a single rendering lacks fidelity. Under ADR-061 that is the argument
-ARG-tmp928rv, from CLAIM-207, CLAIM-011 and CLAIM-381 to CLAIM-228. It is
+that a single rendering lacks fidelity. Under [ADR-061](../decisions.d/ADR-061.md) that is the argument
+[ARG-tmp928rv](../arguments.d/ARG-tmp928rv.md), from [CLAIM-207](CLAIM-207.md), [CLAIM-011](CLAIM-011.md) and [CLAIM-381](CLAIM-381.md) to [CLAIM-228](CLAIM-228.md). It is
 Active for the repaired title, and its body records that the inference to
 version 1's title failed, as this claim said.

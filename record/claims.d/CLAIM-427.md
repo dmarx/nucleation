@@ -280,12 +280,12 @@ and v2.9's were (the note above), is not said. dmarx/PerspectiveLab holds
 no v2.10 or v2.11 (its latest import is c54617e, v2.9), so none of it is
 checked. The third grade is still unmet. The claim is unchanged.
 
-## Note of 2026-10-28: moved to ARG-tmpgr3fb
+## Note of 2026-10-28: moved to [ARG-tmpgr3fb](../arguments.d/ARG-tmpgr3fb.md)
 
 This claim is about evidential bearing: which findings would support
-CLAIM-417 against its defeater. Under ADR-061 that is an argument, and it
-is now ARG-tmpgr3fb, from CLAIM-414, CASE-161, CASE-163, CASE-164 and
-CASE-166 to CLAIM-417, form evidence, Proposed. The three grades answer
+[CLAIM-417](CLAIM-417.md) against its defeater. Under [ADR-061](../decisions.d/ADR-061.md) that is an argument, and it
+is now [ARG-tmpgr3fb](../arguments.d/ARG-tmpgr3fb.md), from [CLAIM-414](CLAIM-414.md), [CASE-161](../cases.d/CASE-161.md), [CASE-163](../cases.d/CASE-163.md), [CASE-164](../cases.d/CASE-164.md) and
+[CASE-166](../cases.d/CASE-166.md) to [CLAIM-417](CLAIM-417.md), form evidence, Proposed. The three grades answer
 the form's critical questions there, and the argument's body carries this
 claim's work and its defeat condition, which the argument scheme has no
 field for.

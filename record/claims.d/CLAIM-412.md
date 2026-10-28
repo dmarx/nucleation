@@ -382,12 +382,12 @@ calls the two higher layers "mere suggestive sketches". So the paper is not
 listed among the claim's grounds. The comparison is the record's. The
 defeater is not met.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The title's last clause, that the illusions and reappraisals "show that
 experience is constructed, not that construction is experience", was a
-verdict on support. It is now ARG-tmp9owtg, from THEORY-766, THEORY-056,
-THEORY-680 and THEORY-767 to this claim, Rejected, with the readings of
+verdict on support. It is now [ARG-tmp9owtg](../arguments.d/ARG-tmp9owtg.md), from [THEORY-766](../theory.d/THEORY-766.md), [THEORY-056](../theory.d/THEORY-056.md),
+[THEORY-680](../theory.d/THEORY-680.md) and [THEORY-767](../theory.d/THEORY-767.md) to this claim, Rejected, with the readings of
 2026-10-22 and 2026-10-25 in its body. This claim keeps the constitution
 thesis and does not undercut that argument: what defeats it is the rival
 readings.

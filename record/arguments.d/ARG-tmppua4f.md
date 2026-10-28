@@ -18,7 +18,7 @@ summary: >-
   Between A203 and A218 the bearer of communicative identity moved from an
   equivalence class defined on observed responses to a structural kind
   that may be "real while remaining indistinguishable" under the probes.
-  CLAIM-142 names the step in one sentence, method kept and object
+  [CLAIM-142](../claims.d/CLAIM-142.md) names the step in one sentence, method kept and object
   changed. Proposed: no turn argues for the kind, and the exchange itself
   concedes that a traditional ontology "might reproduce the same
   statistical predictions".
@@ -30,58 +30,58 @@ summary: >-
 
 ## The inference
 
-**From.** CLAIM-046: "pragmatic identity and fidelity should be defined on
+**From.** [CLAIM-046](../claims.d/CLAIM-046.md): "pragmatic identity and fidelity should be defined on
 observable responses before any equivalence of internal states is
-assumed". CLAIM-112 says what kind of claim that was: "a choice of what to
-measure, not a theory of what meaning is". CLAIM-038 (A78), the operational
+assumed". [CLAIM-112](../claims.d/CLAIM-112.md) says what kind of claim that was: "a choice of what to
+measure, not a theory of what meaning is". [CLAIM-038](../claims.d/CLAIM-038.md) (A78), the operational
 thesis it complements: "We can begin with local observational data and
 investigate whether a global object exists." The record files that object
-in TERM-014, "an equivalence class of situations relative to a chosen
-family of measurements", and TERM-042, "a context-indexed system of
+in [TERM-014](../terms.d/TERM-014.md), "an equivalence class of situations relative to a chosen
+family of measurements", and [TERM-042](../terms.d/TERM-042.md), "a context-indexed system of
 empirically admissible local assignments or distributions".
 
-**To.** CLAIM-139: "A communicative kind's identity is grounded in its
+**To.** [CLAIM-139](../claims.d/CLAIM-139.md): "A communicative kind's identity is grounded in its
 relational organization rather than in any expression or encoding". Its
-unit, TERM-040, is "Not an observational class (TERM-014)", and "may be
+unit, [TERM-040](../terms.d/TERM-040.md), is "Not an observational class ([TERM-014](../terms.d/TERM-014.md))", and "may be
 real while remaining indistinguishable under an insufficient family of
 empirical probes" (A218 Ch7).
 
-**The step.** CLAIM-142: "It does not withdraw CLAIM-046's methodological
+**The step.** [CLAIM-142](../claims.d/CLAIM-142.md): "It does not withdraw [CLAIM-046](../claims.d/CLAIM-046.md)'s methodological
 rule. Evidence still comes from observable responses. What changes is what
 that evidence is *of*." The kind is offered as what best explains the
 observations.
 
 The two stances disagree on a case. Two realizations that agree on every
-probe in the family are one object on TERM-014 and may be two kinds on
-TERM-040.
+probe in the family are one object on [TERM-014](../terms.d/TERM-014.md) and may be two kinds on
+[TERM-040](../terms.d/TERM-040.md).
 
 ## Critical questions
 
 - **Which rivals were considered?** One, by the exchange itself, and only
-  to concede it: A214 §13, quoted in CLAIM-139, "A traditional ontology of
+  to concede it: A214 §13, quoted in [CLAIM-139](../claims.d/CLAIM-139.md), "A traditional ontology of
   intrinsically individuated objects plus relational properties might
   reproduce the same statistical predictions." The operational stance,
   which posits no kind at all, is the other, and it stands in the record
-  too: CLAIM-046 and CLAIM-112 are Active, and TERM-014 and TERM-042 are
+  too: [CLAIM-046](../claims.d/CLAIM-046.md) and [CLAIM-112](../claims.d/CLAIM-112.md) are Active, and [TERM-014](../terms.d/TERM-014.md) and [TERM-042](../terms.d/TERM-042.md) are
   Active.
 - **Does a rival explain as well?** Yes, on the exchange's own account.
-  This is the question that fails. CLAIM-247: CLAIM-142's sentence "keeps
-  CLAIM-046 as a rule of method and says the evidence is now of a kind. It
-  does not argue for the kind." TERM-014's "Where it went": "No turn
+  This is the question that fails. [CLAIM-247](../claims.d/CLAIM-247.md): [CLAIM-142](../claims.d/CLAIM-142.md)'s sentence "keeps
+  [CLAIM-046](../claims.d/CLAIM-046.md) as a rule of method and says the evidence is now of a kind. It
+  does not argue for the kind." [TERM-014](../terms.d/TERM-014.md)'s "Where it went": "No turn
   addresses this entry." The owner's turns over the change asked for the
   argument to be laid out (U56), tied together (U59) and turned into a
   proposal (U60).
 - **Would more evidence discriminate them?** Not the probes in hand. By
-  TERM-040's own definition a kind can outrun the probe family, so the data
+  [TERM-040](../terms.d/TERM-040.md)'s own definition a kind can outrun the probe family, so the data
   that would choose between the kind and the class are the data the
   operational account says are all there is.
 
 Proposed. The record holds both stances, and no claim says which bearer
-the line now holds. CLAIM-115, the manuscript's thesis, uses no TERM for
-it. The step happened without an argument, as CLAIM-140 says of the
-receiver. CLAIM-142's reading, method kept and object changed, is one
+the line now holds. [CLAIM-115](../claims.d/CLAIM-115.md), the manuscript's thesis, uses no TERM for
+it. The step happened without an argument, as [CLAIM-140](../claims.d/CLAIM-140.md) says of the
+receiver. [CLAIM-142](../claims.d/CLAIM-142.md)'s reading, method kept and object changed, is one
 coherent reconciliation, and nothing here says the realist reading is
 wrong. It goes Active when a turn argues the kind over the class; it is
 Rejected if the record holds that the class suffices.
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-247.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-247](../claims.d/CLAIM-247.md).

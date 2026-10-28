@@ -110,15 +110,15 @@ contamination point.
   models' training cut-off, alongside the famous ones.
 - Agreement required across several model families and sizes.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 "Matching direction is weak evidence that the model tests anything about
 the theory's claims on human interpretation" is a verdict on the
 inference from language models to a test bed for the theory, which is
-ARG-008. Under ADR-061's one ARG per inference it goes into that
+[ARG-008](../arguments.d/ARG-008.md). Under [ADR-061](../decisions.d/ADR-061.md)'s one ARG per inference it goes into that
 argument's version 2, as an answer to "what does not transfer?". The
-point about the defeat condition was answered by CLAIM-058 v2. This claim
+point about the defeat condition was answered by [CLAIM-058](CLAIM-058.md) v2. This claim
 keeps what it adds about the subject matter: the founding stimuli and
 commentary on them are likely in training data, and context effects need
-not carry from one model to the next. It undercuts ARG-008 with that. The
+not carry from one model to the next. It undercuts [ARG-008](../arguments.d/ARG-008.md) with that. The
 text above is unchanged.

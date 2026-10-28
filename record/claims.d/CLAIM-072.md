@@ -67,6 +67,6 @@ value. The correction above stands, and the paragraph is left as written.
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed [THEORY-159](../theory.d/THEORY-159.md) from `grounds`. The claim is a reading of what Saussure says, and it stands on [LIT-774](../literature.d/LIT-774.md) (read in [NOTE-594](../notes.d/NOTE-594.md)), already a ground. [THEORY-159](../theory.d/THEORY-159.md)'s linguistic thesis is not used. The body citation stays.
 
-## Note of 2026-10-28: moved to ARG-tmpv7dh8 and ARG-tmpt2gwf
+## Note of 2026-10-28: moved to [ARG-tmpv7dh8](../arguments.d/ARG-tmpv7dh8.md) and [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md)
 
-This claim holds two inferences. Its correction of Saussure is the Rejected ARG-tmpv7dh8, from THEORY-159 and LIT-774 to CLAIM-082, and THEORY-159 already holds every point of it. Its last paragraph, that relational identity survives the correction, is version 1 of ARG-tmpt2gwf, from CLAIM-082 to CLAIM-115, which CLAIM-254 revised. The text above is unchanged.
+This claim holds two inferences. Its correction of Saussure is the Rejected [ARG-tmpv7dh8](../arguments.d/ARG-tmpv7dh8.md), from [THEORY-159](../theory.d/THEORY-159.md) and [LIT-774](../literature.d/LIT-774.md) to [CLAIM-082](CLAIM-082.md), and [THEORY-159](../theory.d/THEORY-159.md) already holds every point of it. Its last paragraph, that relational identity survives the correction, is version 1 of [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md), from [CLAIM-082](CLAIM-082.md) to [CLAIM-115](CLAIM-115.md), which [CLAIM-254](CLAIM-254.md) revised. The text above is unchanged.

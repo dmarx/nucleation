@@ -115,15 +115,15 @@ Any of these:
 - a multitrait–multimethod analysis that estimates the method share and
   shows the theory's advantage exceeds it.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The old title ended in a verdict on support: the theory's measures "can
-win by shared method variance alone". That verdict is now ARG-tmpgw7v8,
-from the central defeat test (CASE-tmpu88go) to CLAIM-115, CLAIM-139,
-CLAIM-005 and CLAIM-078, form evidence, Rejected, as its answer to "does
+win by shared method variance alone". That verdict is now [ARG-tmpgw7v8](../arguments.d/ARG-tmpgw7v8.md),
+from the central defeat test ([CASE-tmpu88go](../cases.d/CASE-tmpu88go.md)) to [CLAIM-115](CLAIM-115.md), [CLAIM-139](CLAIM-139.md),
+[CLAIM-005](CLAIM-005.md) and [CLAIM-078](CLAIM-078.md), form evidence, Rejected, as its answer to "does
 the measure measure what it is said to?". This claim keeps the fact about
 the measurements, what two human ratings of one rendering share, and
-undercuts that argument. It no longer rests on CLAIM-233: as its body
+undercuts that argument. It no longer rests on [CLAIM-233](CLAIM-233.md): as its body
 says, that objection is about the baseline and this one about the
 comparison, two failed questions of one inference, so the two complement
 each other. The text above is unchanged.

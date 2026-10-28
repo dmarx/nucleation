@@ -18,10 +18,10 @@ grounds:
 concludes:
 - CLAIM-417
 summary: >-
-  CLAIM-414 and the lab's runs show organizations with the same ordinary
+  [CLAIM-414](../claims.d/CLAIM-414.md) and the lab's runs show organizations with the same ordinary
   behaviour that respond differently to specified interventions. That is
-  offered as evidence for CLAIM-417, that organizational perspectives
-  explain what the record explained by self. CLAIM-417's defeater is that
+  offered as evidence for [CLAIM-417](../claims.d/CLAIM-417.md), that organizational perspectives
+  explain what the record explained by self. [CLAIM-417](../claims.d/CLAIM-417.md)'s defeater is that
   established accounts explain the same transitions as well with fewer
   assumptions, and only a model that out-predicts them at matched
   complexity bears on that. No premise does yet. It becomes Rejected if the
@@ -35,18 +35,18 @@ summary: >-
 
 ## The inference
 
-CLAIM-414 (Active) shows that matched ordinary trajectories can conceal
+[CLAIM-414](../claims.d/CLAIM-414.md) (Active) shows that matched ordinary trajectories can conceal
 differences in an interpretation's efficacy, and that an intervention
-separates them. The Perspective Population Lab's runs (CASE-161, CASE-163,
-CASE-164) and the reported Northstar study (CASE-166) are offered in the
+separates them. The Perspective Population Lab's runs ([CASE-161](../cases.d/CASE-161.md), [CASE-163](../cases.d/CASE-163.md),
+[CASE-164](../cases.d/CASE-164.md)) and the reported Northstar study ([CASE-166](../cases.d/CASE-166.md)) are offered in the
 same role. If organizations that look alike part under intervention, the
 organizational description is doing explanatory work. The conclusion is
-CLAIM-417: what the record explained by "self" "is better explained by
+[CLAIM-417](../claims.d/CLAIM-417.md): what the record explained by "self" "is better explained by
 organizational perspectives".
 
 ## Critical questions
 
-The `evidence` form's questions are answered by the three grades CLAIM-427
+The `evidence` form's questions are answered by the three grades [CLAIM-427](../claims.d/CLAIM-427.md)
 set out, after A4 of the exchange of 2026-10-23, "Framework Overview
 Request":
 
@@ -57,7 +57,7 @@ Request":
 | "The proposed framework predicts these differences better than established alternatives" | A distinctive theoretical contribution |
 
 - **Would the evidence be expected if the hypothesis were false?** For
-  the first two grades, yes. CLAIM-417's defeater is that established
+  the first two grades, yes. [CLAIM-417](../claims.d/CLAIM-417.md)'s defeater is that established
   accounts (habitus, adaptive networks, reflected appraisal,
   mixture-of-experts routing, organizational learning) "explain the same
   transitions as well with fewer assumptions". "Showing that
@@ -75,17 +75,17 @@ Request":
   as possessing a perspective because its processes are mutually
   influential, and the experiment then demonstrates that its processes are
   mutually influential. Nothing substantive has been learned." That is
-  CLAIM-342's rule for a self-confirming loop, applied to the record's own
+  [CLAIM-342](../claims.d/CLAIM-342.md)'s rule for a self-confirming loop, applied to the record's own
   programme.
 
 ## Where the premises stand
 
-From CLAIM-427's notes of 2026-10-26, where the runs are given in full:
+From [CLAIM-427](../claims.d/CLAIM-427.md)'s notes of 2026-10-26, where the runs are given in full:
 
-- **CLAIM-414** meets the first grade for two constructions, and its
+- **[CLAIM-414](../claims.d/CLAIM-414.md)** meets the first grade for two constructions, and its
   intervention meets the second within them.
-- **CASE-161 and CASE-164** meet the first two grades within synthetic
-  constructions. CASE-163 predicts withheld interventions from probes, but
+- **[CASE-161](../cases.d/CASE-161.md) and [CASE-164](../cases.d/CASE-164.md)** meet the first two grades within synthetic
+  constructions. [CASE-163](../cases.d/CASE-163.md) predicts withheld interventions from probes, but
   its forecaster is given the four candidate mechanisms and their
   equations.
 - **The comparators.** A generic state-space model with the same
@@ -98,21 +98,21 @@ From CLAIM-427's notes of 2026-10-26, where the runs are given in full:
   relevant variables inside a supplied catalog. v2.7 to v2.9
   (dmarx/PerspectiveLab@c54617e) match information but not complexity, or
   have no comparator, or tie by identity.
-- **CASE-166**, Northstar as reported at T20 of the exchange "Experimental
+- **[CASE-166](../cases.d/CASE-166.md)**, Northstar as reported at T20 of the exchange "Experimental
   Infrastructure Review", meets neither of the first two grades, and its
   router "ties" a conventional router at the same regret. The lab holds no
   v2.10 or v2.11, so none of it is checked.
 
 "The third grade is still unmet."
 
-## Carried from CLAIM-427
+## Carried from [CLAIM-427](../claims.d/CLAIM-427.md)
 
 The argument scheme has no `works`, `defeated_if` or `complements`, so
-what CLAIM-427 carried there is kept here.
+what [CLAIM-427](../claims.d/CLAIM-427.md) carried there is kept here.
 
-- **Work.** CLAIM-427 was part of the manuscript `organization-of-perspective`.
+- **Work.** [CLAIM-427](../claims.d/CLAIM-427.md) was part of the manuscript `organization-of-perspective`.
   The grading belongs to that work's account of its own evidence.
-- **Defeat condition**, as CLAIM-427 stated it: "A form of evidence that
+- **Defeat condition**, as [CLAIM-427](../claims.d/CLAIM-427.md) stated it: "A form of evidence that
   would rightly count for the framework against established accounts
   (habitus, adaptive networks, reflected appraisal, mixture-of-experts
   routing, organizational learning) without out-predicting them under
@@ -121,18 +121,18 @@ what CLAIM-427 carried there is kept here.
   cannot be met even in principle, because any model that represents the
   coupling is matched by an alternative of equal complexity." Either would
   reopen this verdict.
-- **Complements.** CLAIM-417, whose defeater the grading reads, and
-  CLAIM-342, whose rule on self-confirming loops the third question
+- **Complements.** [CLAIM-417](../claims.d/CLAIM-417.md), whose defeater the grading reads, and
+  [CLAIM-342](../claims.d/CLAIM-342.md), whose rule on self-confirming loops the third question
   applies.
 
 ## Verdict
 
 Proposed. The premises meet the first two grades and not the third, so
-the evidence does not yet bear on CLAIM-417's defeater. If the owner
+the evidence does not yet bear on [CLAIM-417](../claims.d/CLAIM-417.md)'s defeater. If the owner
 accepts the grading, the argument is Rejected as it stands, and a premise
 that meets the third grade would be a new version of it. The grading does
 not say the framework fails. A3: "the current work has earned the status
 of a potentially useful conceptual synthesis, not yet an independent
 explanatory framework."
 
-Filed 2026-10-28 by the ADR-061 migration, from CLAIM-427.
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-427](../claims.d/CLAIM-427.md).

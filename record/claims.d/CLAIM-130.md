@@ -196,11 +196,11 @@ that, so [CLAIM-127](CLAIM-127.md) is a complement here, not a premise.
 [QUESTION-030](../questions.d/QUESTION-030.md) was split under [ADR-049](../decisions.d/ADR-049.md). This claim answers the part it
 settles, [QUESTION-296](../questions.d/QUESTION-296.md), and bears on what stays open.
 
-## Note of 2026-10-28: split under ADR-061
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The title's second half, that "the effect of a cue is evidence about
 interpretation under instruction, not about whether the act changed", was
-a verdict on what a study can show. It is now ARG-tmp1nrjx, from CASE-021,
-the factorial study of attributed speakers, to CLAIM-151, Rejected. This
+a verdict on what a study can show. It is now [ARG-tmp1nrjx](../arguments.d/ARG-tmp1nrjx.md), from [CASE-021](../cases.d/CASE-021.md),
+the factorial study of attributed speakers, to [CLAIM-151](CLAIM-151.md), Rejected. This
 claim keeps the distinction between do(I) and do(S), which is about the
 subject matter, and it undercuts that argument.
