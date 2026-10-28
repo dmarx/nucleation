@@ -3,8 +3,21 @@ number: 233
 status: Active
 formerly:
 - CLAIM-tmphn6za
-title: 'The central theses'' defeat conditions pit them only against embedding, propositional or surface similarity, which no rival account holds, so surviving them would not tell the thesis from the functional and relevance-theoretic accounts the record says it must be told apart from'
-version: 1
+title: 'The central theses'' defeat conditions pit them only against embedding, propositional or surface similarity, and every rival account the record names (functional equivalence, Gutt''s interpretive resemblance, speech-act pragmatics) also predicts that judged pragmatic observables beat text similarity'
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The title was "The central theses' defeat
+    conditions pit them only against embedding, propositional or surface
+    similarity, which no rival account holds, so surviving them would not
+    tell the thesis from the functional and relevance-theoretic accounts
+    the record says it must be told apart from". The verdict on support
+    is now ARG-tmpgw7v8, from CASE-tmpu88go to CLAIM-115, CLAIM-139,
+    CLAIM-005 and CLAIM-078, Rejected; this claim keeps what the rival
+    accounts predict, and undercuts that argument in place of objecting
+    to the theses.
 role: granted
 warrant: interpretive
 tags:
@@ -17,11 +30,8 @@ rests_on:
 - CLAIM-023
 grounds:
 - LIT-784
-objects_to:
-- CLAIM-115
-- CLAIM-139
-- CLAIM-005
-- CLAIM-078
+undercuts:
+- ARG-tmpgw7v8
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (structure and
   empirical lenses); no turn of the exchange raises it. Every thesis-level
@@ -35,12 +45,13 @@ summary: >-
 supports:
 - CLAIM-232
 ---
+<!-- inactive-ok-file: ARG-tmpgw7v8 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-117 CLAIM-056 — Proposed; open, and cited as the distinctive claims whose own defeat conditions the thesis-level ones do not depend on -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier fidelity thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
 
-# CLAIM-233: The central theses' defeat conditions pit them only against embedding, propositional or surface similarity, which no rival account holds, so surviving them would not tell the thesis from the functional and relevance-theoretic accounts the record says it must be told apart from
+# CLAIM-233: The central theses' defeat conditions pit them only against embedding, propositional or surface similarity, and every rival account the record names (functional equivalence, Gutt's interpretive resemblance, speech-act pragmatics) also predicts that judged pragmatic observables beat text similarity
 
 ## The objection
 
@@ -113,3 +124,15 @@ and of [CLAIM-023](CLAIM-023.md).
   The obvious repair adds a rival that discriminates to each `defeated_if`:
   static pragmatic similarity without the transport structure, human-rated
   propositional sameness, or [QUESTION-021](../questions.d/QUESTION-021.md)'s latent act variable.
+
+## Note of 2026-10-28: split under ADR-061
+
+The old title ended in a verdict on support: "surviving them would not
+tell the thesis from the functional and relevance-theoretic accounts".
+That verdict is now ARG-tmpgw7v8, from the central defeat test
+(CASE-tmpu88go) to CLAIM-115, CLAIM-139, CLAIM-005 and CLAIM-078, form
+evidence, Rejected, as its answer to "does it tell the hypothesis apart
+from its rivals?". This claim keeps what the rival accounts predict,
+which is about the subject matter, and undercuts that argument. CLAIM-232
+no longer rests on it; the two complement each other. The text above is
+unchanged.

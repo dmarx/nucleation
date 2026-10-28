@@ -1,10 +1,12 @@
 ---
 number: 203
-status: Active
+status: Superseded
+superseded_by:
+- ARG-tmp0n7cn
 formerly:
 - CLAIM-tmp3lv11
 title: 'The only design for the October thesis builds its outcome in: the act is fixed by whoever writes the items, and the topic-only baseline is built to fail on the critical cells'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -26,6 +28,13 @@ history:
     prior tests the inference, not the structure; the hLDA paper's
     planted-tree recovery, read the same day, is cited as a published
     instance. The claim is unchanged.
+- version: 4
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmp0n7cn under ADR-061, as that decision's own worked
+    example of a test design as a premise: the argument from CASE-040
+    to CLAIM-129, form evidence, Rejected. Its objection to CLAIM-129
+    is now that argument's conclusion. The text below is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -35,8 +44,6 @@ date: '2026-10-10'
 line: pragmatic-transport
 grounds:
 - CASE-040
-objects_to:
-- CLAIM-129
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (empirical lens);
   no turn of the exchange raises it. [CASE-040](../cases.d/CASE-040.md) "makes the act a manipulated
@@ -49,6 +56,7 @@ summary: >-
   "What it cannot show" covers neither point. It does not say the design
   is useless as a first pilot.
 ---
+<!-- inactive-ok-file: ARG-tmp0n7cn — Rejected; the argument this claim moved to under ADR-061 -->
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
 <!-- inactive-ok-file: CLAIM-129 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-135 CLAIM-139 CLAIM-127 CLAIM-078 — Proposed; open, cited as the claims the design is meant to bear on, those its own limits name, and the success criterion that quotes A218, not as settled -->
@@ -142,3 +150,12 @@ three-level hLDA itself, the sampler's best state recovered the
 generating tree exactly in eight, and in one of the others a wrong tree
 had the higher posterior. It shows the inference works under matched
 assumptions, and the paper offers it as no more. The claim is unchanged.
+
+## Note of 2026-10-28: moved to ARG-tmp0n7cn
+
+Under ADR-061, "a win on this test would not support the thesis" is the
+argument from the CASE that describes the design to the thesis. This
+claim is now ARG-tmp0n7cn, from CASE-040 to CLAIM-129, form evidence,
+Rejected, and the failing critical question is "would the evidence be
+expected if the hypothesis were false?". Its note of 2026-10-26 is
+carried into that argument's body.

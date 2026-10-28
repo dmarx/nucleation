@@ -1,10 +1,21 @@
 ---
 number: 190
-status: Proposed
+status: Superseded
+superseded_by:
+- ARG-tmplw65i
 formerly:
 - CLAIM-tmpkld6a
 title: 'The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmplw65i under ADR-061: its subject is whether the
+    anchoring measures support CLAIM-185 and CLAIM-186, which is a claim
+    about support. The argument's premise, the measures, is filed as
+    CASE-tmp4hpm7, and the objections to CLAIM-185 and CLAIM-186 are now
+    the argument's conclusions. The text below is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -14,9 +25,6 @@ date: '2026-10-12'
 line: nucleating-argument
 works:
 - luria-nucleating-an-argument
-objects_to:
-- CLAIM-185
-- CLAIM-186
 rests_on:
 - CLAIM-181
 - CLAIM-264
@@ -33,6 +41,8 @@ grounds:
 illustrated_by:
 - CASE-084
 ---
+<!-- inactive-ok-file: ARG-tmplw65i — Proposed; the argument this claim moved to under ADR-061 -->
+<!-- inactive-ok-file: CLAIM-185 CLAIM-186 — Proposed; open, the theses this objection was to and the argument now concludes -->
 <!-- inactive-ok-file: CLAIM-264 CLAIM-266 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-149 CLAIM-206 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
@@ -87,3 +97,11 @@ the formal-apparatus line, and this claim's `rests_on` now names
 [CLAIM-264](CLAIM-264.md) and [CLAIM-266](CLAIM-266.md) in place of [CLAIM-142](CLAIM-142.md) and [CLAIM-149](CLAIM-149.md). The body's citations of [CLAIM-142](CLAIM-142.md) and [CLAIM-149](CLAIM-149.md) stand: they
 are where the record first argued the point. The change is that setting
 pragmatic-transport aside no longer takes this premise with it.
+
+## Note of 2026-10-28: moved to ARG-tmplw65i
+
+Under ADR-061 a claim that a measure cannot show a thesis is the argument
+from the measure to the thesis, with the failing critical question in its
+body. This claim is now ARG-tmplw65i, from CASE-tmp4hpm7 to CLAIM-185 and
+CLAIM-186, form evidence, Proposed, and its title is the answer there to
+"Does the measure measure what it is said to?".
