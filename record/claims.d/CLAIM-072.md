@@ -1,10 +1,16 @@
 ---
 number: 72
-status: Active
+status: Superseded
 formerly:
 - CLAIM-tmpjmeg6
 title: 'Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmpv7dh8 and ARG-tmpt2gwf under ADR-061, as an
+    argument about support; the claim's text below is unchanged.
 role: granted
 warrant: interpretive
 tags:
@@ -12,21 +18,22 @@ tags:
 - philosophy-of-language
 date: '2026-10-09'
 line: pragmatic-transport
+superseded_by:
+- ARG-tmpv7dh8
+- ARG-tmpt2gwf
 works:
 - what-survives-translation
 grounds:
 - LIT-774
-objects_to:
-- CLAIM-082
 summary: >-
   From the reading of the Cours ([NOTE-594](../notes.d/NOTE-594.md)). The manuscript's paraphrase
   is right about value and loose about difference, and Saussure's value
   is distinct from signification, which the manuscript's "significance"
   blurs.
-objected_by:
-- CLAIM-254
 ---
 <!-- inactive-ok-file: CLAIM-254 CLAIM-242 — Proposed; the open objection to this entry's last paragraph and the record's reply to it -->
+<!-- inactive-ok-file: ARG-tmpv7dh8 ARG-tmpt2gwf — Rejected or Proposed; the two arguments this claim moved to -->
+<!-- inactive-ok-file: CLAIM-082 CLAIM-115 THEORY-159 — Proposed; the premise this corrected, the thesis resting on it and the reading, open -->
 
 # CLAIM-072: Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition
 
@@ -59,3 +66,7 @@ value. The correction above stands, and the paragraph is left as written.
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed [THEORY-159](../theory.d/THEORY-159.md) from `grounds`. The claim is a reading of what Saussure says, and it stands on [LIT-774](../literature.d/LIT-774.md) (read in [NOTE-594](../notes.d/NOTE-594.md)), already a ground. [THEORY-159](../theory.d/THEORY-159.md)'s linguistic thesis is not used. The body citation stays.
+
+## Note of 2026-10-28: moved to [ARG-tmpv7dh8](../arguments.d/ARG-tmpv7dh8.md) and [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md)
+
+This claim holds two inferences. Its correction of Saussure is the Rejected [ARG-tmpv7dh8](../arguments.d/ARG-tmpv7dh8.md), from [THEORY-159](../theory.d/THEORY-159.md) and [LIT-774](../literature.d/LIT-774.md) to [CLAIM-082](CLAIM-082.md), and [THEORY-159](../theory.d/THEORY-159.md) already holds every point of it. Its last paragraph, that relational identity survives the correction, is version 1 of [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md), from [CLAIM-082](CLAIM-082.md) to [CLAIM-115](CLAIM-115.md), which [CLAIM-254](CLAIM-254.md) revised. The text above is unchanged.

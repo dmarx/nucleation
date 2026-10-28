@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpscv6b
 title: 'T2I-CompBench is not purely object-centered: its non-spatial relation category already probes interactions, but scores them with CLIPScore and near human ceiling'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Grounds add THEORY-522, the record's reading of T2I-CompBench
+    and T2I-CompBench++ (LIT-783, LIT-798), filed 2026-10-16. Under
+    ADR-061 a claim that reads a source and finds its target partly
+    false stays an objecting claim, grounded in the THEORY. The
+    claim is unchanged.
 role: granted
 warrant: empirical
 tags:
@@ -15,6 +24,7 @@ works:
 - what-survives-translation
 grounds:
 - LIT-783
+- THEORY-522
 objects_to:
 - CLAIM-013
 summary: >-

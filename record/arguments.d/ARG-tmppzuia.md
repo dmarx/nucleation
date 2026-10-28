@@ -1,0 +1,79 @@
+---
+status: Proposed
+title: 'Low supervisory cost shows that an organization does not dominate its processes'
+version: 1
+form: evidence
+tags:
+- self-governance
+- agency
+- behavioral-integration
+date: '2026-10-28'
+line: authenticity
+rests_on:
+- CLAIM-358
+concludes:
+- CLAIM-362
+summary: >-
+  The owner tied the non-domination criterion ([CLAIM-362](../claims.d/CLAIM-362.md)) to a saving in
+  effort ([CLAIM-358](../claims.d/CLAIM-358.md)), so low supervisory cost reads as its mark. Processes
+  conditioned never to object coordinate without override at the same
+  cost, so the evidence is expected whether or not the organization
+  dominates. A45: "low strain alone cannot establish authenticity: a
+  dominated organization can be efficient." [CLAIM-364](../claims.d/CLAIM-364.md) undercuts it.
+---
+<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
+<!-- inactive-ok-file: CLAIM-362 CLAIM-358 CLAIM-364 THEORY-040 THEORY-142 — Proposed; the conclusion, its premise, its undercutter and the readings behind it, all open -->
+
+# ARG-tmppzuia: Low supervisory cost shows that an organization does not dominate its processes
+
+## The inference
+
+[CLAIM-362](../claims.d/CLAIM-362.md) marks authenticity by higher-level processes not needing to
+impose themselves, because "the lower-level ones already support it or
+settle their disagreement among themselves". [CLAIM-358](../claims.d/CLAIM-358.md) says learned local
+accommodation can lower the amortized cost of arbitration. Read together,
+an organization whose supervisor rarely intervenes shows the
+non-domination [CLAIM-362](../claims.d/CLAIM-362.md) names.
+
+## Critical questions
+
+- **Would the evidence be expected if the hypothesis were false?** Yes,
+  and this is the question that fails. A45, at U45 of the exchange of
+  2026-10-17: "a system whose subordinate processes have been conditioned
+  never to object might exhibit perfect local harmony." "The supervisor
+  would rarely intervene, not because its constituents had developed
+  autonomous coordination, but because the possibility of meaningful
+  disagreement had already been eliminated." "A quiet subordinate process
+  isn't necessarily a satisfied one."
+- **Does it tell the hypothesis apart from its rivals?** No. The rival is
+  conditioned conformity, [THEORY-040](../theory.d/THEORY-040.md)'s manipulation objection in a new
+  place: a condition stated only in present structure is met by an agent
+  whose structure was installed. [QUESTION-071](../questions.d/QUESTION-071.md) asks the general form.
+  March's organizational form ([THEORY-142](../theory.d/THEORY-142.md)) is the same: a code that learns
+  only from members who conform loses what deviation would have taught
+  it.
+- **Does the measure measure what it is said to?** Cost measures how often
+  the supervisor intervenes, not why it need not. A45: "non-domination
+  should be evaluated historically and counterfactually, not inferred from
+  presently low intervention costs."
+
+## What would tell them apart
+
+[CLAIM-364](../claims.d/CLAIM-364.md) lists A45's tests: introduce a novel but legitimate constituent
+demand, alter the formerly dominant process's preferred policy, reveal
+evidence that existing coordination is mistaken, perturb the local
+coupling mechanism. "Every discriminating test is an intervention or a
+history. None reads the difference from cost." [CASE-129](../cases.d/CASE-129.md), the alarm that
+learned and the alarm that was disabled, is the case.
+
+## Verdict
+
+Proposed. [CLAIM-364](../claims.d/CLAIM-364.md) undercuts it: that processes conditioned never to
+object coordinate at the same behaviour and cost as processes that
+negotiate is a claim about the subject matter, and it defeats this
+inference while leaving [CLAIM-362](../claims.d/CLAIM-362.md) standing. [CLAIM-364](../claims.d/CLAIM-364.md): "It does not say
+the criterion fails, only that cost cannot certify it." The objection is
+itself Proposed, and the authenticity line was set aside on 2026-10-05;
+whether it reopens is the owner's call.
+
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-364](../claims.d/CLAIM-364.md).

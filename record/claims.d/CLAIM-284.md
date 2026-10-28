@@ -52,8 +52,6 @@ summary: >-
   senses nearby, and not the subject sense. Proposed, and under the
   record's objections: [CLAIM-116](CLAIM-116.md), [CLAIM-165](CLAIM-165.md), [CLAIM-194](CLAIM-194.md) and the counter
   filed with it.
-objected_by:
-- CLAIM-288
 complements:
 - CLAIM-485
 - CLAIM-286

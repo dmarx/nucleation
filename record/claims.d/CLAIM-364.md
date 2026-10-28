@@ -3,8 +3,8 @@ number: 364
 status: Proposed
 formerly:
 - CLAIM-tmptg7io
-title: 'Low supervisory cost cannot show non-domination: processes conditioned never to object also coordinate without override, so whether an organization dominates its processes must be read from what happens when a constituent dissents, and from its history'
-version: 2
+title: 'Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history'
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,17 @@ history:
     Applications": the cases the owner asked for on quiet subordinates.
     Most restate this claim's tests; two are filed as CASE-129 and
     CASE-128. The claim is unchanged.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The verdict that low supervisory cost cannot show
+    non-domination moved to ARG-tmppzuia, from CLAIM-358 to CLAIM-362,
+    Proposed, which this claim now undercuts in place of objecting to
+    CLAIM-362. The title was: 'Low supervisory cost cannot show
+    non-domination: processes conditioned never to object also coordinate
+    without override, so whether an organization dominates its processes
+    must be read from what happens when a constituent dissents, and from
+    its history'. The body is unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -28,8 +39,8 @@ date: '2026-10-18'
 line:
 - authenticity
 - will-organization
-objects_to:
-- CLAIM-362
+undercuts:
+- ARG-tmppzuia
 grounds:
 - THEORY-040
 summary: >-
@@ -51,8 +62,10 @@ complements:
 ---
 <!-- inactive-ok-file: THEORY-040 THEORY-142 QUESTION-071 CLAIM-162 CLAIM-362 CLAIM-358 — Proposed; the objection's grounds and the claims it bears on, open -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the set-aside claim whose manipulation defeater this repeats -->
+<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
+<!-- inactive-ok-file: ARG-tmppzuia — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
 
-# CLAIM-364: Low supervisory cost cannot show non-domination: processes conditioned never to object also coordinate without override, so whether an organization dominates its processes must be read from what happens when a constituent dissents, and from its history
+# CLAIM-364: Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history
 
 ## The objection
 
@@ -148,3 +161,13 @@ Two are, because they add to the claim:
 A18's summary of the mistake all six guard against: "The common mistake
 is to infer something about the **distribution of practical authority**
 from the **absence of overt struggle**."
+
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
+
+The old title's first clause, "Low supervisory cost cannot show
+non-domination", was a verdict on support. It is now [ARG-tmppzuia](../arguments.d/ARG-tmppzuia.md), from
+[CLAIM-358](CLAIM-358.md) to [CLAIM-362](CLAIM-362.md), form evidence, Proposed. This claim keeps what is
+about the subject matter: conditioned and negotiating processes match in
+behaviour and cost and part only under intervention or in their history,
+with the defeat condition it already had. It undercuts the argument and no
+longer objects to [CLAIM-362](CLAIM-362.md), which it never said fails.

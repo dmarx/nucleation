@@ -43,8 +43,6 @@ summary: >-
   ([CLAIM-145](CLAIM-145.md)).
 illustrated_by:
 - CASE-038
-objected_by:
-- CLAIM-145
 bears_on:
 - QUESTION-002
 ---

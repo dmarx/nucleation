@@ -49,8 +49,6 @@ summary: >-
   dependence, stochastic noncommutativity, and contextuality as an
   obstruction to a global section. [CLAIM-069](CLAIM-069.md) names the version of
   CbD it should cite.
-objected_by:
-- CLAIM-069
 complements:
 - CLAIM-041
 - CLAIM-044

@@ -3,8 +3,8 @@ number: 232
 status: Active
 formerly:
 - CLAIM-tmpgetbr
-title: 'Predictor and criterion in the central defeat tests are both human pragmatic judgements of the same renderings while the baseline is a machine score, so the theory''s measures can win by shared method variance alone'
-version: 2
+title: 'Human ratings of stance or footing and human ratings of fidelity of the same renderings share rater construal, scale use and a general impression, which a machine similarity score shares with neither'
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -16,6 +16,18 @@ history:
     raters, and by the revised theses CLAIM-220, CLAIM-202 and
     CLAIM-204. CLAIM-115's and CLAIM-139's own conditions are
     unchanged. Status Proposed to Active.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The title was "Predictor and criterion in the
+    central defeat tests are both human pragmatic judgements of the same
+    renderings while the baseline is a machine score, so the theory's
+    measures can win by shared method variance alone". The verdict on
+    support is now ARG-tmpgw7v8, from CASE-tmpu88go to CLAIM-115,
+    CLAIM-139, CLAIM-005 and CLAIM-078, Rejected; this claim keeps what
+    two human ratings share, and undercuts that argument in place of
+    objecting to the theses. Its rests_on CLAIM-233 becomes complements,
+    since the two are sibling objections to one inference.
 role: counter
 warrant: interpretive
 tags:
@@ -23,14 +35,12 @@ tags:
 - philosophy-of-science
 date: '2026-10-10'
 line: pragmatic-transport
-rests_on:
-- CLAIM-233
 grounds:
 - CASE-040
-objects_to:
-- CLAIM-115
-- CLAIM-139
-- CLAIM-005
+undercuts:
+- ARG-tmpgw7v8
+complements:
+- CLAIM-233
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (empirical lens);
   no turn of the exchange raises it. Ratings of stance and footing share
@@ -41,10 +51,11 @@ summary: >-
   [CLAIM-233](CLAIM-233.md), that the central tests are easy to pass. Open, because
   a design could answer it.
 ---
+<!-- inactive-ok-file: ARG-tmpgw7v8 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 
-# CLAIM-232: Predictor and criterion in the central defeat tests are both human pragmatic judgements of the same renderings while the baseline is a machine score, so the theory's measures can win by shared method variance alone
+# CLAIM-232: Human ratings of stance or footing and human ratings of fidelity of the same renderings share rater construal, scale use and a general impression, which a machine similarity score shares with neither
 
 ## The objection
 
@@ -103,3 +114,16 @@ Any of these:
   matched;
 - a multitrait–multimethod analysis that estimates the method share and
   shows the theory's advantage exceeds it.
+
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
+
+The old title ended in a verdict on support: the theory's measures "can
+win by shared method variance alone". That verdict is now [ARG-tmpgw7v8](../arguments.d/ARG-tmpgw7v8.md),
+from the central defeat test ([CASE-tmpu88go](../cases.d/CASE-tmpu88go.md)) to [CLAIM-115](CLAIM-115.md), [CLAIM-139](CLAIM-139.md),
+[CLAIM-005](CLAIM-005.md) and [CLAIM-078](CLAIM-078.md), form evidence, Rejected, as its answer to "does
+the measure measure what it is said to?". This claim keeps the fact about
+the measurements, what two human ratings of one rendering share, and
+undercuts that argument. It no longer rests on [CLAIM-233](CLAIM-233.md): as its body
+says, that objection is about the baseline and this one about the
+comparison, two failed questions of one inference, so the two complement
+each other. The text above is unchanged.

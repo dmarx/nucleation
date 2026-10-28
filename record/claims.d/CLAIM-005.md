@@ -29,8 +29,6 @@ summary: >-
 objected_by:
 - CLAIM-207
 - CLAIM-226
-- CLAIM-232
-- CLAIM-233
 - CLAIM-244
 - CLAIM-256
 complements:

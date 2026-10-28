@@ -32,8 +32,6 @@ summary: >-
   processes, and organizational emergence all have substantial
   literatures". It is the claim [CLAIM-278](CLAIM-278.md) objects to. It does not say
   these processes are a self.
-objected_by:
-- CLAIM-278
 supports:
 - CLAIM-336
 bears_on:

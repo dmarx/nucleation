@@ -3,8 +3,8 @@ number: 412
 status: Proposed
 formerly:
 - CLAIM-tmpdga80
-title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience'
-version: 5
+title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization'
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -36,6 +36,18 @@ history:
     NOTE-1163: like Lyre he addresses the character of experience only,
     and his three layers are a structural analogue of interpretive
     organization. Nothing is added to the claim's grounds. The claim is
+    unchanged.
+- version: 6
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The title's last clause was a verdict on support,
+    and it moved to ARG-tmp9owtg, Rejected. The title was: 'Experience is
+    constituted by interpretive organization, not produced by it: an
+    appropriately organized process in which signals acquire significance
+    for a system is the experience, so whether a system can have
+    experience becomes whether it can sustain that organization; the
+    illusions and reappraisals that motivate it show that experience is
+    constructed, not that construction is experience'. The body is
     unchanged.
 role: thesis
 warrant: interpretive
@@ -86,7 +98,9 @@ grounds:
 <!-- inactive-ok-file: CLAIM-355 CLAIM-411 CLAIM-413 THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1346 LIT-1348 LIT-1351 LIT-1353 LIT-1354 LIT-1355 LIT-1359 — Deferred; works registered unread, cited as such -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
-# CLAIM-412: Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience
+<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
+<!-- inactive-ok-file: ARG-tmp9owtg — Rejected; the argument this claim's support verdict moved to -->
+# CLAIM-412: Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization
 
 ## The claim
 
@@ -367,3 +381,13 @@ He does not argue constitution. His structuralism is "a stance", and he
 calls the two higher layers "mere suggestive sketches". So the paper is not
 listed among the claim's grounds. The comparison is the record's. The
 defeater is not met.
+
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
+
+The title's last clause, that the illusions and reappraisals "show that
+experience is constructed, not that construction is experience", was a
+verdict on support. It is now [ARG-tmp9owtg](../arguments.d/ARG-tmp9owtg.md), from [THEORY-766](../theory.d/THEORY-766.md), [THEORY-056](../theory.d/THEORY-056.md),
+[THEORY-680](../theory.d/THEORY-680.md) and [THEORY-767](../theory.d/THEORY-767.md) to this claim, Rejected, with the readings of
+2026-10-22 and 2026-10-25 in its body. This claim keeps the constitution
+thesis and does not undercut that argument: what defeats it is the rival
+readings.

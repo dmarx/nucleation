@@ -1,10 +1,16 @@
 ---
 number: 254
-status: Proposed
+status: Superseded
 formerly:
 - CLAIM-tmpwevyr
 title: 'Read as the Saussure correction has it, the structuralist premise argues against transport: value is internal to one language state, so what can cross between languages is signification, the aspect the premise demotes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmpt2gwf under ADR-061, as an argument about
+    support; the claim's text below is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -12,11 +18,10 @@ tags:
 - philosophy-of-language
 date: '2026-10-10'
 line: pragmatic-transport
+superseded_by:
+- ARG-tmpt2gwf
 grounds:
 - THEORY-159
-objects_to:
-- CLAIM-072
-- CLAIM-082
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (structure lens);
   no turn of the exchange raises it. [CLAIM-072](CLAIM-072.md) corrects the manuscript's
@@ -28,13 +33,13 @@ summary: >-
   system, while the line's observables are facts of utterances in use.
   The objection is open. It does not say relational identity is false, only
   that Saussure, read correctly, does not support its transport.
-objected_by:
-- CLAIM-242
 ---
 <!-- inactive-ok-file: CLAIM-242 — Proposed; the record's reply to this objection, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-082 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-082, not as settled -->
 <!-- inactive-ok-file: THEORY-159 — Proposed; the readings of Saussure and of relative representations, cited for what they say, not as settled -->
+<!-- inactive-ok-file: ARG-tmpt2gwf — Proposed; the argument this claim moved to -->
+<!-- inactive-ok-file: CLAIM-072 — Superseded; moved to arguments the same day, cited as the claim whose last paragraph this objected to -->
 
 # CLAIM-254: Read as the Saussure correction has it, the structuralist premise argues against transport: value is internal to one language state, so what can cross between languages is signification, the aspect the premise demotes
 
@@ -117,3 +122,7 @@ facts of use, is conceded, and [CLAIM-072](CLAIM-072.md) carries a note that its
 paragraph overreaches. The objection stays open, because whether that
 use-level counterpart is the structuralist premise restated or a
 replacement for it is arguable.
+
+## Note of 2026-10-28: moved to [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md)
+
+This objection is to an inference, from Saussure's value through [CLAIM-082](CLAIM-082.md) to transport, which is [CLAIM-115](CLAIM-115.md)'s subject. It moved to [ARG-tmpt2gwf](../arguments.d/ARG-tmpt2gwf.md) as its version 2; version 1 is the last paragraph of [CLAIM-072](CLAIM-072.md) it objected to, and [CLAIM-242](CLAIM-242.md)'s reply is in that argument's body. Its edges to [CLAIM-072](CLAIM-072.md) and [CLAIM-082](CLAIM-082.md) are dropped, since the argument now carries both. The text above is unchanged.

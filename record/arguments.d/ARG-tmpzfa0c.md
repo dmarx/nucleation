@@ -1,0 +1,66 @@
+---
+status: Rejected
+title: 'A character''s classificatory sufficiency shows that relations constitute what a communicative act is'
+version: 1
+form: analogy
+tags:
+- metaphysics
+- philosophy-of-science
+date: '2026-10-28'
+line: pragmatic-transport
+rests_on:
+- CLAIM-137
+concludes:
+- CLAIM-151
+summary: >-
+  The owner's character analogy: a communicative kind is identified by an
+  invariant, as a group character identifies a representation ([CLAIM-137](../claims.d/CLAIM-137.md)).
+  At its strongest that gives classificatory priority, not constitution.
+  A198 §VI: "It would be a mistake to infer the third automatically from
+  the first two." [CLAIM-150](../claims.d/CLAIM-150.md) undercuts it.
+---
+<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the conclusion and the premise, both open -->
+
+# ARG-tmpzfa0c: A character's classificatory sufficiency shows that relations constitute what a communicative act is
+
+## The inference
+
+[CLAIM-137](../claims.d/CLAIM-137.md): a communicative kind is identified by an invariant that does
+not depend on any one realization, "as a group character identifies a
+representation up to isomorphism", so the invariant has classificatory
+priority over any realization. If the invariant is relational, the
+analogy is offered as showing that the relations make the act the kind of
+act it is, which is [CLAIM-151](../claims.d/CLAIM-151.md).
+
+## Critical questions
+
+- **In what respect are they alike, and is that the respect the
+  conclusion needs?** A character and a communicative invariant both
+  classify realizations up to isomorphism. The conclusion needs
+  constitution, which is a different respect.
+- **What relevant difference is there?** A198 §VI separates three senses
+  of "essential": "**Representational independence** … **Classificatory
+  sufficiency** … **Ontological constitution**". "Character theory can
+  establish the first, and under suitable mathematical assumptions the
+  second. Your non-eliminative OSR makes a claim about the third."
+- **What transfers, and what does not?** Classification transfers;
+  constitution does not, and this is the question that fails. [CLAIM-150](../claims.d/CLAIM-150.md):
+  "the owner's character analogy, at its strongest, gives classificatory
+  priority ([CLAIM-137](../claims.d/CLAIM-137.md)) and not constitution." A203 §35: "A mathematical
+  character does not establish metaphysical constitution."
+
+## Verdict
+
+Rejected. [CLAIM-150](../claims.d/CLAIM-150.md) undercuts it: an ontology of intrinsically
+individuated objects with relational properties can reproduce the same
+classifications, so identification underdetermines constitution. The
+route is also circular as filed: [CLAIM-137](../claims.d/CLAIM-137.md) itself rests on [CLAIM-151](../claims.d/CLAIM-151.md). A198
+§VI leaves the three senses related: "we can formulate a coherent
+metaphysical position in which they reinforce one another."
+
+The third line [CLAIM-150](../claims.d/CLAIM-150.md) named, predictive or interventional success, has
+no premise entry, because no experiment has been run. It stays in
+[CLAIM-150](../claims.d/CLAIM-150.md)'s body.
+
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-150](../claims.d/CLAIM-150.md).

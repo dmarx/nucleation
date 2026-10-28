@@ -53,7 +53,6 @@ supports:
 - CLAIM-195
 objected_by:
 - CLAIM-184
-- CLAIM-190
 complements:
 - CLAIM-303
 ---

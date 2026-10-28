@@ -1,10 +1,10 @@
 ---
 number: 234
-status: Active
+status: Superseded
 formerly:
 - CLAIM-tmpi6n8k
 title: 'The record''s iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,6 +12,11 @@ history:
     Grounds now point at THEORY-489, which states the Kalish,
     Griffiths and Lewandowsky result from its reading (NOTE-616), in place
     of the bare LIT-820. The claim is unchanged.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmphr0a1 under ADR-061, as an argument about
+    support; the claim's text below is unchanged.
 role: granted
 warrant: empirical
 tags:
@@ -20,6 +25,8 @@ tags:
 - pragmatics
 date: '2026-10-10'
 line: pragmatic-transport
+superseded_by:
+- ARG-tmphr0a1
 rests_on:
 - CLAIM-066
 grounds:
@@ -30,8 +37,6 @@ grounds:
 - THEORY-489
 - LIT-825
 - LIT-768
-objects_to:
-- CLAIM-068
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (empirical lens);
   no turn of the exchange raises it. [CLAIM-068](CLAIM-068.md) extends iterated learning
@@ -47,6 +52,8 @@ summary: >-
 <!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, unread here for want of a lawful copy, cited as absent support and not leaned on -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-115 CLAIM-139 — Proposed; cited as the claim CLAIM-068 feeds and the central theses it does not, not as settled -->
 <!-- inactive-ok-file: CLAIM-090 QUESTION-076 — Proposed or open; cited in the note of 2026-10-10 for what the documented case bears on, not as settled -->
+<!-- inactive-ok-file: ARG-tmphr0a1 — Rejected; the argument this claim moved to -->
+<!-- inactive-ok-file: CLAIM-066 until 2027-01-28 — Superseded; moved to an argument the same day, cited for what it said of the readings -->
 
 # CLAIM-234: The record's iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain
 
@@ -135,3 +142,7 @@ holds neither study.
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) re-grounded the claim in the works it reports measurements from: Propp ([LIT-828](../literature.d/LIT-828.md)) in place of [THEORY-167](../theory.d/THEORY-167.md), and Farrell et al. ([LIT-848](../literature.d/LIT-848.md)) in place of [THEORY-173](../theory.d/THEORY-173.md). It already did this for Raviv et al. ([LIT-825](../literature.d/LIT-825.md)). The claim uses what each work measured, not its thesis.
+
+## Note of 2026-10-28: moved to [ARG-tmphr0a1](../arguments.d/ARG-tmphr0a1.md)
+
+This claim says the record's iterated-learning readings do not measure stance or footing along a chain, which is a verdict on support. It moved to [ARG-tmphr0a1](../arguments.d/ARG-tmphr0a1.md), from those readings to [CLAIM-068](CLAIM-068.md), form evidence, Rejected, with the note of 2026-10-10 on [CASE-068](../cases.d/CASE-068.md) in its body. The text above is unchanged.

@@ -1,10 +1,16 @@
 ---
 number: 247
-status: Active
+status: Superseded
 formerly:
 - CLAIM-tmpsxsr8
 title: 'The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Moved to ARG-tmppua4f under ADR-061, as an argument about
+    support; the claim's text below is unchanged.
 role: granted
 warrant: interpretive
 tags:
@@ -12,11 +18,11 @@ tags:
 - metaphysics
 date: '2026-10-10'
 line: pragmatic-transport
+superseded_by:
+- ARG-tmppua4f
 rests_on:
 - CLAIM-046
 - CLAIM-112
-objects_to:
-- CLAIM-139
 uses:
 - TERM-014
 - TERM-042
@@ -37,6 +43,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-139 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-038 CLAIM-142 CLAIM-115 — Proposed; the operational theses compared, the claim that names the change and the manuscript's thesis, open -->
+<!-- inactive-ok-file: ARG-tmppua4f — Proposed; the argument this claim moved to -->
 
 # CLAIM-247: The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record
 
@@ -103,3 +110,7 @@ is the line's.
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) changed `rests_on: CLAIM-038` to `complements`. The claim compares texts, and needs only that the operational stance was stated. [CLAIM-046](CLAIM-046.md), on which the stance's first half rests, is Active since 2026-10-27.
+
+## Note of 2026-10-28: moved to [ARG-tmppua4f](../arguments.d/ARG-tmppua4f.md)
+
+This claim's verdict, that no turn argues the change from an observational class to a kind, is about support, so it moved to [ARG-tmppua4f](../arguments.d/ARG-tmppua4f.md), from [CLAIM-046](CLAIM-046.md), [CLAIM-112](CLAIM-112.md) and [CLAIM-142](CLAIM-142.md) to [CLAIM-139](CLAIM-139.md), form abduction, Proposed. Its comparison with [CLAIM-038](CLAIM-038.md) and its use of [TERM-014](../terms.d/TERM-014.md), [TERM-040](../terms.d/TERM-040.md) and [TERM-042](../terms.d/TERM-042.md) are in that argument's body. The text above is unchanged.

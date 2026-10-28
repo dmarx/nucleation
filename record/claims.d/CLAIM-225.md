@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdt857
 title: 'Blackwell''s order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line''s claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis''s own defeat condition'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -22,6 +22,15 @@ history:
     information (NOTE-1048): the objection's two standards are
     Shannon and V-information, which that paper relates without
     mentioning Blackwell. The claim is unchanged.
+- version: 4
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The verdict in "What it does not say", that the
+    line uses Blackwell's standard for its formal ground and a receiver's
+    for its thesis and its tests, moved to ARG-tmpa4q9l, from CLAIM-050 to
+    CLAIM-115, Proposed, which this claim now undercuts. The title is
+    unchanged, because it is wholly about the subject matter. The body is
+    unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -36,6 +45,8 @@ objects_to:
 - CLAIM-050
 uses:
 - TERM-034
+undercuts:
+- ARG-tmpa4q9l
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (formal and
   structure lenses); no turn of the exchange connects the two claims. A
@@ -57,6 +68,8 @@ supports:
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for its receiver and its defeat condition, open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
 <!-- inactive-ok-file: CLAIM-199 — Proposed; the record's reconciliation of this objection, cited as open -->
+<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
+<!-- inactive-ok-file: ARG-tmpa4q9l — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-225: Blackwell's order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line's claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis's own defeat condition
 
@@ -178,3 +191,14 @@ general converse, which stays Proposed, is not used. Quotations of
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed `rests_on: CLAIM-087`. The dilemma holds whatever [CLAIM-087](CLAIM-087.md)'s truth ("It does not say [CLAIM-087](CLAIM-087.md) is false"), and [CLAIM-087](CLAIM-087.md)'s garbling bound uses this claim's result, so the dependence runs the other way and [CLAIM-087](CLAIM-087.md) now rests on this claim. `rests_on: CLAIM-081` is now [CLAIM-270](CLAIM-270.md) (Active, demonstrated): "A state can become more conventional, and easier to read, while carrying less information about its origin", the point this claim uses.
+
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
+
+The support verdict in this claim sat in "What it does not say": "the line
+uses that standard for its formal ground, and a receiver's standard for
+its thesis and its tests." It is now [ARG-tmpa4q9l](../arguments.d/ARG-tmpa4q9l.md), from [CLAIM-050](CLAIM-050.md) to
+[CLAIM-115](CLAIM-115.md), Proposed, since [CLAIM-199](CLAIM-199.md)'s reconciliation narrows the
+inference without defeating it. The title is unchanged: Blackwell's
+theorem and the shape of [CLAIM-050](CLAIM-050.md)'s defeat condition are about the
+subject matter. This claim undercuts the argument, and its objection to
+[CLAIM-050](CLAIM-050.md) stays for the defeat-condition point.

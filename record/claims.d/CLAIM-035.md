@@ -3,8 +3,18 @@ number: 35
 status: Active
 formerly:
 - CLAIM-tmpamojl
-title: 'Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme'
-version: 1
+title: 'Translation operations are generally not invertible, need not compose by a fixed rule, and preserve no structure given in advance; which communicative properties are invariant must be discovered or negotiated'
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061, a trim only. The title was "Translation
+    operations are not invertible, need not compose by a fixed rule, and
+    preserve no structure given in advance, so the relativity analogy
+    holds only as a research programme". The last clause is a verdict on
+    ARG-004, which its body already records ("Only its research-programme
+    respect survived"). The disanalogies stay, and still undercut ARG-004.
 role: granted
 warrant: interpretive
 tags:
@@ -30,7 +40,7 @@ complements:
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-098 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-035: Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme
+# CLAIM-035: Translation operations are generally not invertible, need not compose by a fixed rule, and preserve no structure given in advance; which communicative properties are invariant must be discovered or negotiated
 
 ## The claim
 
@@ -67,3 +77,13 @@ replaces relativity with symmetry and equivariance ([TERM-004](../terms.d/TERM-0
 
 It leaves [ARG-004](../arguments.d/ARG-004.md) its research-programme respect only. It is the premise of
 [CLAIM-098](CLAIM-098.md).
+
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
+
+"The relativity analogy holds only as a research programme" is a verdict
+on [ARG-004](../arguments.d/ARG-004.md), and [ARG-004](../arguments.d/ARG-004.md)'s body and status already state it. Under [ADR-061](../decisions.d/ADR-061.md)
+the claim keeps what it says about translation operations: that they are
+generally not invertible, do not compose by a fixed rule and preserve no
+structure given in advance, and that the invariants must be discovered or
+negotiated. That is the subject-matter claim the decision names as the
+model of an undercut. The quoted text above is unchanged.

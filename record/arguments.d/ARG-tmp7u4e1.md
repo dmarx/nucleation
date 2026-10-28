@@ -1,0 +1,72 @@
+---
+status: Rejected
+title: 'Agreement with TV Tropes labels validates the structural account of tropes'
+version: 1
+form: evidence
+tags:
+- translation
+- philosophy-of-science
+date: '2026-10-28'
+line: pragmatic-transport
+grounds:
+- CASE-038
+concludes:
+- CLAIM-147
+summary: >-
+  A155 presents TV Tropes as "the clearest large-scale empirical setting"
+  for the structural account of tropes ([CLAIM-147](../claims.d/CLAIM-147.md)). Trope descriptions are
+  written from their examples, and examples are added that fit the
+  descriptions, so a measure that predicts the labels predicts editorial
+  agreement. Rejected for labels used as the test. A178's Study B control
+  would answer it; A218 drops the control.
+---
+<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
+<!-- inactive-ok-file: CLAIM-147 CLAIM-145 THEORY-167 — Proposed; the conclusion, the claim this verdict was split from and the reading of Propp, open -->
+
+# ARG-tmp7u4e1: Agreement with TV Tropes labels validates the structural account of tropes
+
+## The inference
+
+[CASE-038](../cases.d/CASE-038.md) is TV Tropes, a community-curated catalogue of narrative tropes
+and their instances. A155 presents it as "the clearest large-scale
+empirical setting" for the structuralist side of the theory. If a
+structural measure predicts which instances the catalogue files under one
+trope, the catalogue confirms [CLAIM-147](../claims.d/CLAIM-147.md): a trope is a family of
+observational profiles joined by admissible transformations around a core
+of preserved relations.
+
+## Critical questions
+
+- **Would the evidence be expected if the hypothesis were false?** Yes.
+  The labels fit their examples by construction, whether or not the
+  structural account is right.
+- **Does it tell the hypothesis apart from its rivals?** No. The rival is
+  editorial agreement: the catalogue's own process of fitting
+  descriptions to examples.
+- **Does the measure measure what it is said to?** No, and this is the
+  question that fails. [CLAIM-145](../claims.d/CLAIM-145.md): "Editors write a trope's description
+  from its examples, and then add examples that fit the description. A
+  measure that predicts those labels predicts editorial agreement. So
+  agreement with the catalogue cannot by itself validate [CLAIM-147](../claims.d/CLAIM-147.md)'s
+  structural account." [CLAIM-145](../claims.d/CLAIM-145.md) calls it [CLAIM-011](../claims.d/CLAIM-011.md)'s point carried to
+  labels: "a criterion fitted on the data it is checked against
+  certifies nothing".
+  [THEORY-167](../theory.d/THEORY-167.md)'s `promote_when` gives the same warning for Propp: analyses
+  of single tales that fit the scheme cannot settle it, since the scheme
+  was built to fit such tales.
+
+## Verdict
+
+Rejected, for labels used as the test. The exchange saw it. A155 §5 asks
+for "a small, independently validated set of tropes" and evaluation "on
+held-out trope families". A178's Study B: "Control for circularity by
+selecting trope definitions and structural anchors independently of the
+models being evaluated", and its Ch12.9 is "Controlling circularity and
+label leakage". That is [CLAIM-011](../claims.d/CLAIM-011.md)'s remedy, and an argument from such a
+held-out set would be a different premise. A218's Study 5 drops the
+control. TV Tropes stays useful for candidates to test.
+
+[CLAIM-011](../claims.d/CLAIM-011.md) is cited here and not listed as a premise: it is the principle
+the failing question applies, not a step of the inference.
+
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-145](../claims.d/CLAIM-145.md).

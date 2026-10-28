@@ -28,8 +28,6 @@ summary: >-
   turns U1–U13; the manuscript keeps its consequence ("change almost
   every word while preserving the interpersonal relation") but not the
   mechanism. Apparently dropped inadvertently, never refuted.
-objected_by:
-- CLAIM-229
 supports:
 - CLAIM-258
 ---

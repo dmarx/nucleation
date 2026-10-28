@@ -3,8 +3,21 @@ number: 85
 status: Active
 formerly:
 - CLAIM-tmpo49t2
-title: 'A framing effect in a language model is a property of that model under those prompts: generating and judging with one model measures its preferences, and what a translation ought to preserve needs criteria the model cannot supply'
-version: 1
+title: 'A framing effect in a language model is a property of that model under those prompts, and what a translation ought to preserve is a normative question that model response distributions, being descriptive, cannot settle'
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Split under ADR-061. The title was "A framing effect in a language
+    model is a property of that model under those prompts: generating
+    and judging with one model measures its preferences, and what a
+    translation ought to preserve needs criteria the model cannot
+    supply". The circularity limb is a verdict on ARG-008's inference,
+    and is now that argument's version 2. The claim keeps what a model's
+    framing effect is a property of, and the normative/descriptive
+    split, which CLAIM-243, CLAIM-248 and CLAIM-252 rest on; it still
+    undercuts ARG-008.
 role: granted
 warrant: interpretive
 tags:
@@ -27,7 +40,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-085: A framing effect in a language model is a property of that model under those prompts: generating and judging with one model measures its preferences, and what a translation ought to preserve needs criteria the model cannot supply
+# CLAIM-085: A framing effect in a language model is a property of that model under those prompts, and what a translation ought to preserve is a normative question that model response distributions, being descriptive, cannot settle
 
 ## The claim
 
@@ -67,3 +80,15 @@ cross-condition contamination." C6 Appendix F then made it a rule: "Do not use
 assistant-authored examples as independent LLM samples or the same generative
 model's preferences as an unblinded ground truth" ([CLAIM-028](CLAIM-028.md)). The
 manuscript keeps the remedy, not the rule.
+
+## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
+
+The circularity limb, that generating and judging with one model "would
+primarily characterize the model's own preferences", says what a design
+does not show, so under [ADR-061](../decisions.d/ADR-061.md) it is the verdict of [ARG-008](../arguments.d/ARG-008.md), recorded in
+that argument's version 2 with the remedy of separate generator and
+evaluator. This claim keeps two points about the subject matter: a
+framing effect in one model is a property of that model under those
+prompts, and model response distributions describe interpreters, so they
+cannot settle what a translation ought to preserve. Every claim that rests
+on it uses one of those. The quoted text above is unchanged.

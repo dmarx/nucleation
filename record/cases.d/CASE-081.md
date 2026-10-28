@@ -12,8 +12,6 @@ tags:
 - agency
 date: '2026-10-13'
 line: distributed-agency
-supports:
-- CLAIM-288
 summary: >-
   A10 §6.1's boundary case, "a system that learns to maintain itself only
   because an external designer rewards that behavior", with its question

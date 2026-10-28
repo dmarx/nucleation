@@ -1,0 +1,76 @@
+---
+status: Proposed
+title: 'In the discriminating study, transport measures that beat the static pragmatic profile would show what the line adds to functional and relevance-theoretic accounts'
+version: 1
+form: evidence
+tags:
+- philosophy-of-science
+- translation
+- philosophy-of-language
+date: '2026-10-28'
+line: pragmatic-transport
+grounds:
+- CASE-055
+concludes:
+- CLAIM-202
+summary: >-
+  [CLAIM-202](../claims.d/CLAIM-202.md) says what the line adds is measured structure beyond a static
+  pragmatic profile, and [CASE-055](../cases.d/CASE-055.md) is the study that would test it. The
+  open question is whether beating the static profile tells the thesis
+  apart from its rivals: functional and relevance-theoretic accounts need
+  not fix one context, so "an empirical victory may establish that
+  context matters without establishing that the transport formalism
+  makes a distinctive contribution". Proposed, since no study has been
+  run.
+---
+<!-- inactive-ok-file: CLAIM-202 — Proposed; open, the thesis this argument concludes -->
+<!-- inactive-ok-file: CLAIM-205 — Proposed; the claim this argument was split from, which undercuts it -->
+
+# ARG-tmpqt13e: In the discriminating study, transport measures that beat the static pragmatic profile would show what the line adds to functional and relevance-theoretic accounts
+
+## The inference
+
+[CLAIM-202](../claims.d/CLAIM-202.md) compares three predictors of receivers' recovery: semantic
+similarity, the static pragmatic profile, and the transport structure.
+[CASE-055](../cases.d/CASE-055.md) is the study built to dissociate them. [CLAIM-202](../claims.d/CLAIM-202.md) justifies the
+static profile as the rival by saying that each rival account "fixes a
+profile of the rendering as read once". So if the transport measures beat
+the static profile in [CASE-055](../cases.d/CASE-055.md), the line adds something to the functional
+and relevance-theoretic accounts.
+
+## Critical questions
+
+- **Would the evidence be expected if the hypothesis were false?** It
+  could be. A relevance-theoretic or functional account with a rich model
+  of context would also predict that context-indexed measures beat a
+  static profile.
+- **Does it tell the hypothesis apart from its rivals?** This is the
+  question that is open. The interlocutor's reading, relayed on
+  2026-10-12, denies the premise that the rivals fix one profile: "A
+  relevance-theoretic or functional account need not be committed to only
+  one context or a static stance profile." So the rival the thesis must
+  beat is a "strong contextual baseline" of "rich context-response
+  profiles, supervised predictive methods". "What matters is whether
+  transport structure adds predictive or explanatory power over the strong
+  contextual baseline, not merely over static pragmatic judgments.
+  Otherwise, an empirical victory may establish that context matters
+  without establishing that the transport formalism makes a distinctive
+  contribution." [CLAIM-205](../claims.d/CLAIM-205.md), on what the rival accounts are committed to,
+  undercuts this argument.
+- **Does the measure measure what it is said to?** Not in dispute here.
+  [CASE-055](../cases.d/CASE-055.md)'s measures are fixed in its own body.
+
+## What would answer it
+
+The incremental thesis restated against a strong contextual baseline,
+specified in advance, with the margin fixed as [CLAIM-202](../claims.d/CLAIM-202.md) already requires.
+Or an argument that the static profile is the strongest rival the
+functional and relevance-theoretic accounts license. [QUESTION-074](../questions.d/QUESTION-074.md) names
+the test the reading takes to be distinctive of the formalism.
+
+It does not say the transport structure will fail the stronger test, or
+that [CLAIM-202](../claims.d/CLAIM-202.md) should not be the line's principal empirical thesis.
+Proposed: no study has been run, and the strong baseline is not
+specified beyond the reading's table.
+
+Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, from [CLAIM-205](../claims.d/CLAIM-205.md).
