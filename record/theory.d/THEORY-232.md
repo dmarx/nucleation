@@ -196,9 +196,9 @@ connection". Three things bear on it.
 
 ## Note of 2026-10-28: what holds it back
 
-Kept Proposed by the sixth status review. NOTE-747 read the essay in full; it computes the measure for no system,
+Kept Proposed by the sixth status review. [NOTE-747](../notes.d/NOTE-747.md) read the essay in full; it computes the measure for no system,
 and Box 1 is its only result shown in full. Nothing in the record computes
 the frustration comparison on one system under two decompositions, which
-is what `promote_when` asks. THEORY-249 predicts instability in general but
+is what `promote_when` asks. [THEORY-249](THEORY-249.md) predicts instability in general but
 shows no instance.
-CLAIM-368 now cites this reading as corroboration, not as a ground.
+[CLAIM-368](../claims.d/CLAIM-368.md) now cites this reading as corroboration, not as a ground.

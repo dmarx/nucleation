@@ -117,9 +117,9 @@ commitment, and one where nothing has to.
 
 ## Note of 2026-10-28: narrowed; what holds it back
 
-The sixth status review narrowed the title to concede ARG-016, which holds
+The sixth status review narrowed the title to concede [ARG-016](../arguments.d/ARG-016.md), which holds
 that "synchronization" carries the word and not the mechanism. Kept
-Proposed: its premise CLAIM-169 and its ground THEORY-070 are Proposed, and
-LIT-914 and LIT-910 are unread. No choice probe or reversal measure inside a
-flow episode is in the record. The objection cited above as CLAIM-163 is
-now ARG-016.
+Proposed: its premise [CLAIM-169](CLAIM-169.md) and its ground [THEORY-070](../theory.d/THEORY-070.md) are Proposed, and
+[LIT-914](../literature.d/LIT-914.md) and [LIT-910](../literature.d/LIT-910.md) are unread. No choice probe or reversal measure inside a
+flow episode is in the record. The objection cited above as [CLAIM-163](CLAIM-163.md) is
+now [ARG-016](../arguments.d/ARG-016.md).

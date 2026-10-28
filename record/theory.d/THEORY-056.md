@@ -218,12 +218,12 @@ control networks that deliberate regulation recruits.
 
 ## Note of 2026-10-28: what holds it back
 
-Kept Proposed. Both sources argue it and neither tests it (NOTE-433 C5,
-NOTE-434 C8). The record holds no result that `promote_when` names: no
+Kept Proposed. Both sources argue it and neither tests it ([NOTE-433](../notes.d/NOTE-433.md) C5,
+[NOTE-434](../notes.d/NOTE-434.md) C8). The record holds no result that `promote_when` names: no
 dissociation of regulation from generation, no measured regulation without
 a competing concern, and no evidence that reappraisal works through a
 second, competing readiness or that effortless regulation spares the
-control networks. THEORY-878's regions selective for reappraisal are a
+control networks. [THEORY-878](THEORY-878.md)'s regions selective for reappraisal are a
 difference in network activation, which `promote_when` says cannot settle
-it, and THEORY-871 fits either account. Gross and Barrett (2011) remains
+it, and [THEORY-871](THEORY-871.md) fits either account. Gross and Barrett (2011) remains
 unfiled.

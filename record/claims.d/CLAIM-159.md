@@ -94,6 +94,6 @@ institutional theory are not placed.
 ## Note of 2026-10-28: what holds it back
 
 Kept Proposed by the sixth status review. No comparison of the drive
-profiles THEORY-067, THEORY-070 and CLAIM-027 predict for an agent resisting
-temptation is in the record, and THEORY-067's placement (aggregate or
+profiles [THEORY-067](../theory.d/THEORY-067.md), [THEORY-070](../theory.d/THEORY-070.md) and [CLAIM-027](CLAIM-027.md) predict for an agent resisting
+temptation is in the record, and [THEORY-067](../theory.d/THEORY-067.md)'s placement (aggregate or
 emergent) is undecided: "The précis does not say which".

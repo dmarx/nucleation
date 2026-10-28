@@ -94,10 +94,10 @@ does not, and no test in which it might have.
 ## Note of 2026-10-28: what holds it back
 
 Kept Proposed by the sixth status review. Part Two ch. IV is read in full
-(NOTE-594), so reading is not the blocker. No study the record holds adds,
+([NOTE-594](../notes.d/NOTE-594.md)), so reading is not the blocker. No study the record holds adds,
 loses or merges a term in a language's inventory and measures how its
 neighbours' use shifts, against terms outside the field. The embedding
-readings that cite this account (THEORY-182, THEORY-185, LIT-860) concern
-what a model learns from co-occurrence, and THEORY-518 concerns
-distributional neighbourhoods from four hand-picked words. ARG-033 and
-ARG-034 judge the record's use of this reading, not the reading.
+readings that cite this account ([THEORY-182](THEORY-182.md), [THEORY-185](THEORY-185.md), [LIT-860](../literature.d/LIT-860.md)) concern
+what a model learns from co-occurrence, and [THEORY-518](THEORY-518.md) concerns
+distributional neighbourhoods from four hand-picked words. [ARG-033](../arguments.d/ARG-033.md) and
+[ARG-034](../arguments.d/ARG-034.md) judge the record's use of this reading, not the reading.

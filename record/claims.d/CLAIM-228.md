@@ -206,10 +206,10 @@ general converse, which stays Proposed, is not used. Quotations of
 ## Note of 2026-10-28: what holds it back
 
 Kept Proposed by the sixth status review. Its premises are held and no
-objection is live. What holds it is a missing result: CASE-055 has not
+objection is live. What holds it is a missing result: [CASE-055](../cases.d/CASE-055.md) has not
 been run, so nothing yet shows held-out D_obs, with one kernel family
 fixed across items, separating rendering procedures that receivers'
-task-indexed recovery separates. ARG-017 carries the clauses that one pair
+task-indexed recovery separates. [ARG-017](../arguments.d/ARG-017.md) carries the clauses that one pair
 does not identify the score and that a constant kernel fails across items,
 not this one. The title now says so; version 3's said only what the
-measure is a property of, which CLAIM-207 and CLAIM-381 hold.
+measure is a property of, which [CLAIM-207](CLAIM-207.md) and [CLAIM-381](CLAIM-381.md) hold.

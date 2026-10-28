@@ -204,10 +204,10 @@ here. The comparison is the record's.
 
 ## Note of 2026-10-28: promoted
 
-The sixth status review promoted this claim (ADR-057). What it stands on is
-CLAIM-283's first half, which is Active, with CLAIM-027 and TERM-060.
-Watson (THEORY-232), self-determination theory (THEORY-052) and Barandiaran
-(THEORY-217) are cited in one paragraph, "The record's readings already do
+The sixth status review promoted this claim ([ADR-057](../decisions.d/ADR-057.md)). What it stands on is
+[CLAIM-283](CLAIM-283.md)'s first half, which is Active, with [CLAIM-027](CLAIM-027.md) and [TERM-060](../terms.d/TERM-060.md).
+Watson ([THEORY-232](../theory.d/THEORY-232.md)), self-determination theory ([THEORY-052](../theory.d/THEORY-052.md)) and Barandiaran
+([THEORY-217](../theory.d/THEORY-217.md)) are cited in one paragraph, "The record's readings already do
 it this way", as parallels; their contested theses do no work here, so they
-corroborate it and are not its grounds (ADR-058). CLAIM-347 and CLAIM-357,
+corroborate it and are not its grounds ([ADR-058](../decisions.d/ADR-058.md)). [CLAIM-347](CLAIM-347.md) and [CLAIM-357](CLAIM-357.md),
 cited in the body, rest on this claim; they are not its premises.

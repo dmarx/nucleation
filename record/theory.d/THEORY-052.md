@@ -122,4 +122,4 @@ Kept Proposed by the sixth status review. The record holds no prospective or int
 frustration, measured other than by a self-report sharing content with
 distress, precedes or mediates symptoms of more than one disorder. Campbell
 et al. (2018a), the one longitudinal study cited, is unread.
-CLAIM-368 now cites this reading as corroboration, not as a ground.
+[CLAIM-368](../claims.d/CLAIM-368.md) now cites this reading as corroboration, not as a ground.

@@ -153,4 +153,4 @@ range, and argues that compensation does not hide a dysfunction, because
 Kept Proposed by the sixth status review. No normative field has been computed for a model richer than the paper's
 one-variable toy (several traits, one regulatory, a regime switch), so the
 classification test in `promote_when` has not been run.
-CLAIM-368 now cites this reading as corroboration, not as a ground.
+[CLAIM-368](../claims.d/CLAIM-368.md) now cites this reading as corroboration, not as a ground.

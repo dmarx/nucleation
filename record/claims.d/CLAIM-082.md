@@ -155,6 +155,6 @@ properties of what the words refer to.
 ## Note of 2026-10-28: narrowed; what holds it back
 
 The sixth status review narrowed this claim to what Saussure's value
-carries, recording CLAIM-072's concession, which ARG-034 judged. The first
-title is CLAIM-tmpgbiz1. Kept Proposed: its reading of Saussure,
-THEORY-159, is Proposed, and nothing in the record meets `defeated_if`.
+carries, recording [CLAIM-072](CLAIM-072.md)'s concession, which [ARG-034](../arguments.d/ARG-034.md) judged. The first
+title is [CLAIM-tmpgbiz1](CLAIM-tmpgbiz1.md). Kept Proposed: its reading of Saussure,
+[THEORY-159](../theory.d/THEORY-159.md), is Proposed, and nothing in the record meets `defeated_if`.

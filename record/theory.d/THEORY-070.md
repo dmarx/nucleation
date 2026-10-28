@@ -167,11 +167,11 @@ this account describes.
 
 ## Note of 2026-10-28: what holds it back
 
-Kept Proposed by the sixth status review. NOTE-446 read the paper in full,
+Kept Proposed by the sixth status review. [NOTE-446](../notes.d/NOTE-446.md) read the paper in full,
 and it "reports no new data". Neither promotion result is in the record: no
 fit of the EVC computation in which control intensity tracks payoff and
 cost better than a model without the cost term, and no dACC/lateral-PFC
 dissociation of specifying from implementing beyond the cingulotomy
-half-result. THEORY-878's selective regions are co-activation, not that
-dissociation. It now bears on QUESTION-054, whose summary already said it
+half-result. [THEORY-878](THEORY-878.md)'s selective regions are co-activation, not that
+dissociation. It now bears on [QUESTION-054](../questions.d/QUESTION-054.md), whose summary already said it
 asserts one answer.

@@ -213,9 +213,9 @@ inconvenient alternatives.
 
 ## Note of 2026-10-28: what holds it back
 
-Kept Proposed by the sixth status review. Its premise CLAIM-261 and its
-ground THEORY-070 are Proposed, and no measure of amortized supervisory
+Kept Proposed by the sixth status review. Its premise [CLAIM-261](CLAIM-261.md) and its
+ground [THEORY-070](../theory.d/THEORY-070.md) are Proposed, and no measure of amortized supervisory
 cost over recurring conflicts, escalating against accommodating, is in the
 record. A45's cost terms "would need operational definitions". The
-objection once filed as CLAIM-163 is now ARG-016, which holds that
+objection once filed as [CLAIM-163](CLAIM-163.md) is now [ARG-016](../arguments.d/ARG-016.md), which holds that
 "synchronization" names no mechanism.
