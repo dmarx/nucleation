@@ -107,13 +107,13 @@ falls short.
 
 ## Note of 2026-10-28: what holds it back
 
-The status review of this date keeps this reading Proposed (ADR-057). The
-three readings are full reads (NOTE-608, NOTE-617, NOTE-602), but
+The status review of this date keeps this reading Proposed ([ADR-057](../decisions.d/ADR-057.md)). The
+three readings are full reads ([NOTE-608](../notes.d/NOTE-608.md), [NOTE-617](../notes.d/NOTE-617.md), [NOTE-602](../notes.d/NOTE-602.md)), but
 `promote_when` asks for a developed static rival, read and checked against
 the marble and spouse, "might"-order and declaration and assertion
 contrasts. None is held. The first candidate is Mandelkern, *Bounded
 Meaning* (2024), its chapters on anaphora and modality, or else Elbourne
 (2005). Neither has an open copy, so this waits on a copy from the owner.
 
-CLAIM-061 now cites this reading as corroboration, not as a ground, since
+[CLAIM-061](../claims.d/CLAIM-061.md) now cites this reading as corroboration, not as a ground, since
 applying it to translation "is a further step these sources do not take".

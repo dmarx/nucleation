@@ -81,13 +81,13 @@ exact equivalence to graded fidelity".
 That equivalence is useless: "We can still recover equivalence as a special
 case—for example, zero distortion under a suitably separating observation
 family." Nor which distortion measure to use ([QUESTION-017](../questions.d/QUESTION-017.md)). Nor that A86's D_Q realizes it:
-D_Q is symmetric (CLAIM-218), and a directed term is proposed in CLAIM-259.
+D_Q is symmetric ([CLAIM-218](CLAIM-218.md)), and a directed term is proposed in [CLAIM-259](CLAIM-259.md).
 
 ## Note of 2026-10-28: promoted
 
-The status review of this date promoted this claim (ADR-057). CASE-015
+The status review of this date promoted this claim ([ADR-057](../decisions.d/ADR-057.md)). [CASE-015](../cases.d/CASE-015.md)
 and the terms it uses are Active, and no judgement data in the record
-show fidelity verdicts behaving as an equivalence. CLAIM-218, its one
+show fidelity verdicts behaving as an equivalence. [CLAIM-218](CLAIM-218.md), its one
 objection, is aimed at the measure: "It does not say CLAIM-106 is false."
 That is conceded above, in what the claim does not say. The directed
-repair, CLAIM-259, stays Proposed.
+repair, [CLAIM-259](CLAIM-259.md), stays Proposed.

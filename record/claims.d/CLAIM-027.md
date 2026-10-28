@@ -65,7 +65,7 @@ summary: >-
   The paper's central thesis. Proposed, not Active: the audit called it
   the strongest original contribution. The comparison with planning,
   executive control and institutional decision procedures it owed is now
-  owed by CLAIM-tmpnvpfe, the gain claim. It is the main claim of the work while not yet believed
+  owed by [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), the gain claim. It is the main claim of the work while not yet believed
   outright — credence and inclusion disagree, as they may.
 supersedes:
 - CLAIM-012
@@ -187,14 +187,14 @@ objections, one is answered and one still holds it back:
 ## Note of 2026-10-28: narrowed; what holds it back
 
 The status review of this date narrowed the title to state the concession
-CLAIM-021 already made ("whatever mechanisms realize them"), and moved the
-explanatory-gain claim to CLAIM-tmpnvpfe, which CLAIM-024 now objects to.
-Its premises, CLAIM-047 and CLAIM-080, are Active, and no live objection
+[CLAIM-021](CLAIM-021.md) already made ("whatever mechanisms realize them"), and moved the
+explanatory-gain claim to [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), which [CLAIM-024](CLAIM-024.md) now objects to.
+Its premises, [CLAIM-047](CLAIM-047.md) and [CLAIM-080](CLAIM-080.md), are Active, and no live objection
 remains.
 
 It is kept Proposed because both lines that argue for it are Proposed
-inferences, and its defeater is the test neither has run. ARG-005 covers
-precedence and accessibility only. ARG-009 carries jurisdiction and
+inferences, and its defeater is the test neither has run. [ARG-005](../arguments.d/ARG-005.md) covers
+precedence and accessibility only. [ARG-009](../arguments.d/ARG-009.md) carries jurisdiction and
 suspension alone, holds the agent's attitudes fixed by stipulation in a
 fictional case, and leaves its own critical question unanswered: "Does
 changing R change anything else?" That is this claim's defeated_if,

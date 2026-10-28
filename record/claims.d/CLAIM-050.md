@@ -136,23 +136,23 @@ general converse, which stays Proposed, is not used. Quotations of
 ## Note of 2026-10-28: narrowed and promoted
 
 The status review of this date narrowed the title to what the claim's
-condition already conceded, and promoted it (ADR-057).
+condition already conceded, and promoted it ([ADR-057](../decisions.d/ADR-057.md)).
 
-- **A ceiling, not a receiver.** CLAIM-225 showed the order says what an
+- **A ceiling, not a receiver.** [CLAIM-225](CLAIM-225.md) showed the order says what an
   ideal decision-maker could do with a rendering, not what a given
-  receiver does. The title says ceiling (CLAIM-199's first half).
-- **Procedures.** CLAIM-230 showed the order relates procedures over a
+  receiver does. The title says ceiling ([CLAIM-199](CLAIM-199.md)'s first half).
+- **Procedures.** [CLAIM-230](CLAIM-230.md) showed the order relates procedures over a
   distribution of situations, not two texts. The title says so.
-- **Report fidelity.** CLAIM-258's objection, that re-performance is the
-  normal case of translation, is not answered, since CLAIM-212 is
+- **Report fidelity.** [CLAIM-258](CLAIM-258.md)'s objection, that re-performance is the
+  normal case of translation, is not answered, since [CLAIM-212](CLAIM-212.md) is
   Proposed. The claim concedes it by scope: it is about report fidelity,
-  and re-performance stays open there and in QUESTION-005.
-- **The measure.** CLAIM-218 says the record's D_Q is not the order this
+  and re-performance stays open there and in [QUESTION-005](../questions.d/QUESTION-005.md).
+- **The measure.** [CLAIM-218](CLAIM-218.md) says the record's D_Q is not the order this
   claim names. This claim does not say D_Q realizes the order.
 
 What the claim uses of Blackwell is the definitions and the easy
-direction, held in THEORY-1096 with the proof written out. The steps that
+direction, held in [THEORY-1096](../theory.d/THEORY-1096.md) with the proof written out. The steps that
 rested on unread works, deficiency for the approximate case and the
-Wyner-Ziv form of side information, are CLAIM-tmpqmsav, Proposed. The
+Wyner-Ziv form of side information, are [CLAIM-tmpqmsav](CLAIM-tmpqmsav.md), Proposed. The
 second clause of defeated_if stays as a test; it does not lean on
 Torgersen's results.

@@ -22,10 +22,10 @@ grounds:
 complements:
 - CLAIM-061
 summary: >-
-  The necessity half of CLAIM-061's version 1, split off when the status
-  review of 2026-10-28 narrowed CLAIM-061 to sufficiency (ADR-047's third
+  The necessity half of [CLAIM-061](CLAIM-061.md)'s version 1, split off when the status
+  review of 2026-10-28 narrowed [CLAIM-061](CLAIM-061.md) to sufficiency ([ADR-047](../decisions.d/ADR-047.md)'s third
   ruling). Its one documented case is Phillips's handshake for Paul's holy
-  kiss (CASE-056), which competent judges took to keep the greeting. The
+  kiss ([CASE-056](../cases.d/CASE-056.md)), which competent judges took to keep the greeting. The
   defender of necessity has a reply the record does not answer: the
   proposition worth keeping is the coarser one, and the handshake keeps it.
 ---
@@ -40,18 +40,18 @@ result may feel more faithful." The manuscript states the half in §1:
 preserving the proposition is not necessary for preserving the
 communicative event.
 
-CASE-056 is the documented case: Phillips renders Paul's "holy kiss" as
+[CASE-056](../cases.d/CASE-056.md) is the documented case: Phillips renders Paul's "holy kiss" as
 "a hearty handshake all round", which changes what the verse directs, and
-Nida judged that it keeps the greeting. CASE-031 is a further candidate,
-pending a reading of LIT-766.
+Nida judged that it keeps the greeting. [CASE-031](../cases.d/CASE-031.md) is a further candidate,
+pending a reading of [LIT-766](../literature.d/LIT-766.md).
 
 ## Why it is Proposed
 
-- **The manuscript does not argue it** (CLAIM-053, granted): it argues
+- **The manuscript does not argue it** ([CLAIM-053](CLAIM-053.md), granted): it argues
   insufficiency only.
-- **The invented case does not show it** (CLAIM-229, granted): CASE-018
+- **The invented case does not show it** ([CLAIM-229](CLAIM-229.md), granted): [CASE-018](../cases.d/CASE-018.md)
   holds the words fixed and bears on sufficiency only.
-- **The documented case is contested** (CASE-056's own limits). The
+- **The documented case is contested** ([CASE-056](../cases.d/CASE-056.md)'s own limits). The
   verdicts are expert judgements, divided on the residue, with no reader
   evidence. And the defender of necessity has a reply: the proposition
   worth keeping is the coarser "greet one another warmly", which the

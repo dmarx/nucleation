@@ -135,26 +135,26 @@ changed by this.
 ## Note of 2026-10-28: narrowed to sufficiency, and promoted
 
 The status review of this date narrowed this claim and promoted it
-(ADR-057). Its three objections are granted claims, and under ADR-059 a
+([ADR-057](../decisions.d/ADR-057.md)). Its three objections are granted claims, and under [ADR-059](../decisions.d/ADR-059.md) a
 conceded objection is recorded by revising its target, which version 1
 had not done: the note of 2026-10-10 left the text unchanged.
 
-- **CLAIM-229's correction is made.** CASE-018 is the same proposition
+- **[CLAIM-229](CLAIM-229.md)'s correction is made.** [CASE-018](../cases.d/CASE-018.md) is the same proposition
   with a different act, so it bears on sufficiency only. "Necessity fails
-  in CASE-018, read in reverse", above, is the version 1 text it corrects.
-- **The necessity half moves** to CLAIM-tmp6rohb, Proposed. The manuscript
-  does not argue it (CLAIM-053), and its one documented case, CASE-056,
+  in [CASE-018](../cases.d/CASE-018.md), read in reverse", above, is the version 1 text it corrects.
+- **The necessity half moves** to [CLAIM-tmp6rohb](CLAIM-tmp6rohb.md), Proposed. The manuscript
+  does not argue it ([CLAIM-053](CLAIM-053.md)), and its one documented case, [CASE-056](../cases.d/CASE-056.md),
   meets the defender's reply only partly: the coarser "greet one another
   warmly" survives.
-- **Footing leaves the title** (CLAIM-227): the record has no validated
+- **Footing leaves the title** ([CLAIM-227](CLAIM-227.md)): the record has no validated
   measure of footing, and the analyst's own labels changed between
   passes. The title says "a different communicative act", which A14's
   point about force not capturing teasing against contempt still serves.
 
-What remains is modal and has a documented case. CASE-056 records the
+What remains is modal and has a documented case. [CASE-056](../cases.d/CASE-056.md) records the
 UBS handbooks: where kissing is "exclusively an expression of amorous or
 erotic interest", a literal rendering keeps the proposition and changes
-the act. CASE-027 and CASE-018 are existence proofs beside it. Krifka's
-declaration and assertion, one proposition with two updates (THEORY-162),
-corroborate it, but THEORY-162 is not a claim about translation, so it is
+the act. [CASE-027](../cases.d/CASE-027.md) and [CASE-018](../cases.d/CASE-018.md) are existence proofs beside it. Krifka's
+declaration and assertion, one proposition with two updates ([THEORY-162](../theory.d/THEORY-162.md)),
+corroborate it, but [THEORY-162](../theory.d/THEORY-162.md) is not a claim about translation, so it is
 corroboration, not a ground.

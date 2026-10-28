@@ -25,9 +25,9 @@ complements:
 - CLAIM-159
 summary: >-
   The explanatory-gain claim the paper stakes itself on, filed separately
-  by the status review of 2026-10-28. It was carried by CLAIM-027's
-  standing without being one of its words, so CLAIM-024's objection had no
-  target of its own. CLAIM-021 concedes the mechanisms; this is what is
+  by the status review of 2026-10-28. It was carried by [CLAIM-027](CLAIM-027.md)'s
+  standing without being one of its words, so [CLAIM-024](CLAIM-024.md)'s objection had no
+  target of its own. [CLAIM-021](CLAIM-021.md) concedes the mechanisms; this is what is
   left to show: that one description across realizers earns its keep.
 ---
 <!-- inactive-ok-file: CLAIM-027 CLAIM-159 — Proposed; the thesis this one rests on and the partial comparison, cited as open -->
@@ -36,13 +36,13 @@ summary: >-
 
 ## The claim
 
-The paper concedes the mechanisms (CLAIM-021): "We do not claim that the
+The paper concedes the mechanisms ([CLAIM-021](CLAIM-021.md)): "We do not claim that the
 individual mechanisms composing a will-organization are novel." What it
 claims instead is a common explanatory role across realizers, and it sets
 its own standard: "If no such explanatory gain exists, the concept should
 not be retained merely as a new label." This claim is that gain.
 
-CLAIM-027 says which regime becomes effective depends on maintained
+[CLAIM-027](CLAIM-027.md) says which regime becomes effective depends on maintained
 relations not reducible to the regimes' contents. That can be true
 whatever the description is worth. This claim says the description is
 worth something: one account of those relations, across a person, a team
@@ -51,10 +51,10 @@ realizer do not.
 
 ## Why it is Proposed
 
-The comparison the paper owes is not made. CLAIM-159 places
+The comparison the paper owes is not made. [CLAIM-159](CLAIM-159.md) places
 will-organization beside the expected value of control and Ainslie's
 interests, as a claim about what governs how the drive profile changes.
 That covers executive control and one theory of resolve. The comparison
 with planning theory and with institutional theory is not made.
-CLAIM-024 objects to this claim, and QUESTION-056 asks what result would
+[CLAIM-024](CLAIM-024.md) objects to this claim, and [QUESTION-056](../questions.d/QUESTION-056.md) asks what result would
 show the agent-level description idle.

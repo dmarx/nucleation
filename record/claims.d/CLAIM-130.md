@@ -171,14 +171,14 @@ set to values S can actually take. It does not bear on do(I).
 
 ## Note of 2026-10-28: promoted
 
-The status review of this date promoted this claim (ADR-057). It was held
-back by one premise, CLAIM-127, which is still Proposed. But what this
-claim needs from CLAIM-127 is only that the three operations differ, and
-that is Pearl's surgery (THEORY-419) and Woodward's account of an
-intervention (THEORY-138), both Active. CLAIM-127's open content is a
+The status review of this date promoted this claim ([ADR-057](../decisions.d/ADR-057.md)). It was held
+back by one premise, [CLAIM-127](CLAIM-127.md), which is still Proposed. But what this
+claim needs from [CLAIM-127](CLAIM-127.md) is only that the three operations differ, and
+that is Pearl's surgery ([THEORY-419](../theory.d/THEORY-419.md)) and Woodward's account of an
+intervention ([THEORY-138](../theory.d/THEORY-138.md)), both Active. [CLAIM-127](CLAIM-127.md)'s open content is a
 proposal about the formalism, that an intervention should index the
 empirical model rather than enter its cover. This claim does not need
-that, so CLAIM-127 is a complement here, not a premise.
+that, so [CLAIM-127](CLAIM-127.md) is a complement here, not a premise.
 
-QUESTION-030 was split under ADR-049. This claim answers the part it
-settles, QUESTION-tmphmweu, and bears on what stays open.
+[QUESTION-030](../questions.d/QUESTION-030.md) was split under [ADR-049](../decisions.d/ADR-049.md). This claim answers the part it
+settles, [QUESTION-tmphmweu](../questions.d/QUESTION-tmphmweu.md), and bears on what stays open.

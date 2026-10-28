@@ -118,6 +118,6 @@ renderings by it above chance. [CASE-012](../cases.d/CASE-012.md)'s two renderin
 pair.
 
 The fifth review (2026-10-28) found the blocker still holds, with one
-refinement: CASE-012 is fictional, and its footing labels changed between
-passes (CLAIM-227), so a first pair should be a documented one judged by
+refinement: [CASE-012](../cases.d/CASE-012.md) is fictional, and its footing labels changed between
+passes ([CLAIM-227](CLAIM-227.md)), so a first pair should be a documented one judged by
 people who did not write it.

@@ -1,18 +1,18 @@
 ### Changed
 
-- Fifth status review (ADR-057; workbench entry of 2026-10-28).
-- **Promoted:** CLAIM-130, CLAIM-050 (narrowed), CLAIM-061 (narrowed),
-  CLAIM-106.
-  - CLAIM-130 no longer rests on CLAIM-127. QUESTION-030 is split, and
-    QUESTION-tmphmweu is Answered.
-  - CLAIM-050 is narrowed to report fidelity and a ceiling, conceding
-    CLAIM-225, CLAIM-230 and CLAIM-258. The steps it took from unread
-    works are CLAIM-tmpqmsav.
-  - CLAIM-061 is narrowed to sufficiency, conceding CLAIM-053, CLAIM-229
-    and CLAIM-227. Its necessity half is CLAIM-tmp6rohb.
-- **CLAIM-027 narrowed, still Proposed.** The explanatory gain the paper
-  stakes on it is now CLAIM-tmpnvpfe, and CLAIM-024 objects to that.
-  CLAIM-021 now complements CLAIM-024 rather than objecting to it.
-- **Blockers recorded:** THEORY-067, CLAIM-169, THEORY-162 and CLAIM-004.
-- **ADR-058:** THEORY-067 corroborates CLAIM-344, and THEORY-162
-  corroborates CLAIM-061.
+- Fifth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-28).
+- **Promoted:** [CLAIM-130](record/claims.d/CLAIM-130.md), [CLAIM-050](record/claims.d/CLAIM-050.md) (narrowed), [CLAIM-061](record/claims.d/CLAIM-061.md) (narrowed),
+  [CLAIM-106](record/claims.d/CLAIM-106.md).
+  - [CLAIM-130](record/claims.d/CLAIM-130.md) no longer rests on [CLAIM-127](record/claims.d/CLAIM-127.md). [QUESTION-030](record/questions.d/QUESTION-030.md) is split, and
+    [QUESTION-tmphmweu](record/questions.d/QUESTION-tmphmweu.md) is Answered.
+  - [CLAIM-050](record/claims.d/CLAIM-050.md) is narrowed to report fidelity and a ceiling, conceding
+    [CLAIM-225](record/claims.d/CLAIM-225.md), [CLAIM-230](record/claims.d/CLAIM-230.md) and [CLAIM-258](record/claims.d/CLAIM-258.md). The steps it took from unread
+    works are [CLAIM-tmpqmsav](record/claims.d/CLAIM-tmpqmsav.md).
+  - [CLAIM-061](record/claims.d/CLAIM-061.md) is narrowed to sufficiency, conceding [CLAIM-053](record/claims.d/CLAIM-053.md), [CLAIM-229](record/claims.d/CLAIM-229.md)
+    and [CLAIM-227](record/claims.d/CLAIM-227.md). Its necessity half is [CLAIM-tmp6rohb](record/claims.d/CLAIM-tmp6rohb.md).
+- **[CLAIM-027](record/claims.d/CLAIM-027.md) narrowed, still Proposed.** The explanatory gain the paper
+  stakes on it is now [CLAIM-tmpnvpfe](record/claims.d/CLAIM-tmpnvpfe.md), and [CLAIM-024](record/claims.d/CLAIM-024.md) objects to that.
+  [CLAIM-021](record/claims.d/CLAIM-021.md) now complements [CLAIM-024](record/claims.d/CLAIM-024.md) rather than objecting to it.
+- **Blockers recorded:** [THEORY-067](record/theory.d/THEORY-067.md), [CLAIM-169](record/claims.d/CLAIM-169.md), [THEORY-162](record/theory.d/THEORY-162.md) and [CLAIM-004](record/claims.d/CLAIM-004.md).
+- **[ADR-058](record/decisions.d/ADR-058.md):** [THEORY-067](record/theory.d/THEORY-067.md) corroborates [CLAIM-344](record/claims.d/CLAIM-344.md), and [THEORY-162](record/theory.d/THEORY-162.md)
+  corroborates [CLAIM-061](record/claims.d/CLAIM-061.md).

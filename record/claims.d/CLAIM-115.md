@@ -131,6 +131,6 @@ The status is unchanged.
 
 ## Note of 2026-10-28: the necessity half is its own premise
 
-The status review of this date narrowed CLAIM-061 to sufficiency and
-filed its necessity half as CLAIM-tmp6rohb. This claim's "neither
+The status review of this date narrowed [CLAIM-061](CLAIM-061.md) to sufficiency and
+filed its necessity half as [CLAIM-tmp6rohb](CLAIM-tmp6rohb.md). This claim's "neither
 necessary nor sufficient" now rests on both.

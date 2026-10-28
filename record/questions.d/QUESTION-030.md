@@ -107,11 +107,11 @@ None of these speaks of constitution; each bears on one half.
 
 ## Note of 2026-10-28: the instruction part split off
 
-The status review of this date split this question under ADR-049.
-CLAIM-130, now Active, settles one part of the empirical half: an
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md).
+[CLAIM-130](../claims.d/CLAIM-130.md), now Active, settles one part of the empirical half: an
 intervention on what the interpreter is told, do(I), cannot by itself
 tell constitutive relations apart, since it acts on a different variable
-from the situation. That part is QUESTION-tmphmweu, Answered. This
+from the situation. That part is [QUESTION-tmphmweu](QUESTION-tmphmweu.md), Answered. This
 question keeps what is still open: which interventions on the situation
 itself, do(S), do tell them apart, and the conceptual half, which needs a
 theory of the act. The title already asked only that, so it is unchanged.

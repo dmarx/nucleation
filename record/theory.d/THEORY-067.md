@@ -207,12 +207,12 @@ in this reading, and no entry tests it.
 
 ## Note of 2026-10-28: status review
 
-Kept Proposed. Both sources are read in full (NOTE-443, NOTE-452), so
+Kept Proposed. Both sources are read in full ([NOTE-443](../notes.d/NOTE-443.md), [NOTE-452](../notes.d/NOTE-452.md)), so
 reading is not the blocker. The blocker is a missing result, which is what
 `promote_when` asks for: no study the record holds varies only whether a
 single choice is perceived as a precedent, compares a precedent lapse with
 an equal forced or excepted lapse, or orders lapse districts after a first
 failure. The précis concedes the mechanism is "hard to study directly by
-controlled experiment". LIT-1389 (Bénabou and Tirole), unfetched, models
-personal rules and would not meet the condition by itself. CLAIM-344 now
+controlled experiment". [LIT-1389](../literature.d/LIT-1389.md) (Bénabou and Tirole), unfetched, models
+personal rules and would not meet the condition by itself. [CLAIM-344](../claims.d/CLAIM-344.md) now
 cites this reading as corroboration, not as a ground.

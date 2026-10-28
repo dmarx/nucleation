@@ -59,9 +59,9 @@ with planning theory and with institutional theory is still not made.
 ## Note of 2026-10-28: retargeted
 
 The status review of this date found that this objection does not dispute
-CLAIM-027's title, which says what decides efficacy and makes no claim to
+[CLAIM-027](CLAIM-027.md)'s title, which says what decides efficacy and makes no claim to
 novelty. It disputes the gain the paper stakes itself on, which was
-carried by CLAIM-027's standing without being one of its words. That gain
-is now CLAIM-tmpnvpfe, and this objection is to it. Its first half, that
-the mechanisms are not new, the paper grants (CLAIM-021), which is why
-CLAIM-021 no longer files as an objection to this one.
+carried by [CLAIM-027](CLAIM-027.md)'s standing without being one of its words. That gain
+is now [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), and this objection is to it. Its first half, that
+the mechanisms are not new, the paper grants ([CLAIM-021](CLAIM-021.md)), which is why
+[CLAIM-021](CLAIM-021.md) no longer files as an objection to this one.
