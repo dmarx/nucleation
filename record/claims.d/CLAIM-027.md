@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8swu5
 title: 'Which of an agent''s available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-05'

@@ -31,7 +31,7 @@ summary: >-
   form of decoder side information. Split off when [CLAIM-050](CLAIM-050.md) was narrowed
   to what its read sources support ([ADR-047](../decisions.d/ADR-047.md)'s third ruling).
 ---
-<!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; the works these steps cite, unread here, which is why this claim is Proposed -->
+<!-- inactive-ok-file: LIT-778 LIT-767 until 2027-01-28 — Unavailable; the works these steps cite, unread here, which is why this claim is Proposed -->
 
 # CLAIM-tmpqmsav: Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem
 
