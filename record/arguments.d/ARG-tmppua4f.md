@@ -14,6 +14,10 @@ rests_on:
 - CLAIM-142
 concludes:
 - CLAIM-139
+uses:
+- TERM-014
+- TERM-042
+- TERM-040
 summary: >-
   Between A203 and A218 the bearer of communicative identity moved from an
   equivalence class defined on observed responses to a structural kind

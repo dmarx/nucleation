@@ -13,6 +13,8 @@ grounds:
 - CASE-163
 concludes:
 - CLAIM-286
+works:
+- self-as-recursive-ecology
 summary: >-
   The lab's later models give the shared organization restrictions that
   can fail, and yield predictions inside a model that could have come out

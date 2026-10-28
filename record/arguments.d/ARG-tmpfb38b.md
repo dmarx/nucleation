@@ -13,6 +13,8 @@ grounds:
 - THEORY-168
 concludes:
 - CLAIM-037
+works:
+- what-survives-translation
 summary: >-
   The manuscript cites Dzhafarov and Kujala 2016 for its contextuality
   criterion. The 2016 criterion was being replaced by multimaximal

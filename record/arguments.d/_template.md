@@ -26,8 +26,13 @@ rests_on:
 - CLAIM-000
 # grounds:
 # - THEORY-000
+# The thesis or theses the inference arrives at: several when the same
+# premises bear on each in the same way, so the verdict is filed once.
 concludes:
 - CLAIM-000
+# The TERMs the inference is stated in, and the manuscripts it is argued in.
+# uses: [TERM-000]
+# works: [organization-of-will]
 
 tags:
 - agency

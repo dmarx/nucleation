@@ -15,6 +15,8 @@ grounds:
 - THEORY-070
 concludes:
 - CLAIM-162
+uses:
+- TERM-050
 summary: >-
   [CLAIM-162](../claims.d/CLAIM-162.md) calls flow intrapersonal synchronization: on [CLAIM-169](../claims.d/CLAIM-169.md)'s
   account of interests, an activity whose immediate and longer-run rewards

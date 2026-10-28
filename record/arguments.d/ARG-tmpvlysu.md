@@ -14,6 +14,8 @@ grounds:
 - LIT-771
 concludes:
 - CLAIM-090
+works:
+- what-survives-translation
 summary: >-
   The manuscript's §8 cites Griffiths and Kalish and Kirby, Cornish and
   Smith together as showing that transmission is filtered by inductive

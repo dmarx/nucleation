@@ -1335,8 +1335,9 @@ schemes:
     references:
       used_by:
         label: Used by
-        blurb: the claims stated in this term, written by `luria link --fix` from their `uses`.
-        scheme: CLAIM
+        blurb: the claims and arguments stated in this term, written by `luria link --fix` from their
+          `uses`.
+        scheme: [CLAIM, ARG]
         required: false
         many: true
         converse: uses
@@ -1424,7 +1425,9 @@ schemes:
         converse: supports
       concludes:
         label: Concludes
-        blurb: the claim the inference arrives at — normally one
+        blurb: the claim or claims the inference arrives at. One inference may conclude several
+          theses when the same premises bear on each in the same way, so that one verdict is filed once
+          (ADR-061)
         scheme: CLAIM
         required: true
         many: true
@@ -1436,6 +1439,15 @@ schemes:
         required: false
         many: true
         converse: undercuts
+      uses:
+        label: Uses the term
+        blurb: the TERM this inference is stated in, so that a term's revision finds the arguments built
+          on it (ADR-061)
+        scheme: TERM
+        required: false
+        many: true
+        converse: used_by
+        explain: cited
       supersedes:
         label: Supersedes
         blurb: the claim about support this argument replaced, written by `luria link --fix` from its
@@ -1473,6 +1485,9 @@ schemes:
         closed: true
       line:
         vocabulary: lines
+      works:
+        vocabulary: works
+        many: true
     axis: tags
     retires_on: Superseded
     successor: superseded_by

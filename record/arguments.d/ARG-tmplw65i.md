@@ -13,6 +13,8 @@ grounds:
 concludes:
 - CLAIM-185
 - CLAIM-186
+works:
+- luria-nucleating-an-argument
 summary: >-
   The line's proposed measures, counted in the record, as evidence for
   its persistence and growth-rate theses. The question that is open is

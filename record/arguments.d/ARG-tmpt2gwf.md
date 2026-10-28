@@ -27,6 +27,8 @@ grounds:
 - THEORY-159
 concludes:
 - CLAIM-115
+works:
+- what-survives-translation
 summary: >-
   [CLAIM-115](../claims.d/CLAIM-115.md)'s transport rests on [CLAIM-082](../claims.d/CLAIM-082.md)'s structuralist premise, which
   draws on Saussure. [CLAIM-072](../claims.d/CLAIM-072.md) said the premise survives the record's

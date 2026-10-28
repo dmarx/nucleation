@@ -13,6 +13,8 @@ grounds:
 - LIT-774
 concludes:
 - CLAIM-082
+works:
+- what-survives-translation
 summary: >-
   The manuscript §2 cites Saussure for a sign's "significance" depending
   on contrasts within a system "rather than on intrinsic correspondence to

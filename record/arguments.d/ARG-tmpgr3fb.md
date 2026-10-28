@@ -17,6 +17,8 @@ grounds:
 - CASE-166
 concludes:
 - CLAIM-417
+works:
+- organization-of-perspective
 summary: >-
   [CLAIM-414](../claims.d/CLAIM-414.md) and the lab's runs show organizations with the same ordinary
   behaviour that respond differently to specified interventions. That is
