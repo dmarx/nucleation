@@ -56,6 +56,6 @@
   - [ADR-059](record/decisions.d/ADR-059.md) (Proposed) says what a status means for an ARG (credence in
     its inference) and for a conceded counter (recorded by the target's
     revision).
-- ADR-059 is accepted. The worklist lists sound arguments with unheld
+- [ADR-059](record/decisions.d/ADR-059.md) is accepted. The worklist lists sound arguments with unheld
   conclusions in place of ARG premise inversions, and the claims template's
   convention for conceded counters is rewritten.
