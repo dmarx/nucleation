@@ -23,7 +23,7 @@ reported_in:
 summary: >-
   The oxymonad Monocercomonoides lacks all hallmark mitochondrial proteins; its mitochondrial iron–sulfur cluster pathway was replaced by a cytosolic SUF system taken from bacteria, and the loss was secondary ([LIT-1567](../literature.d/LIT-1567.md)). Its genome otherwise shows canonical eukaryotic complexity ([LIT-1574](../literature.d/LIT-1574.md)). Used as the negative control: loss of function dissolving an integrated compartment, not deepening dependence on it.
 ---
-<!-- inactive-ok-file: THEORY-tmp247k7 NOTE-tmpuq8at LIT-1567 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: THEORY-1098 NOTE-1243 LIT-1567 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1567 LIT-1574 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
@@ -61,7 +61,7 @@ abstracts until they are read.
 
 ## Note of 2026-10-27 (batch 2): [LIT-1574](../literature.d/LIT-1574.md) read
 
-Karnkowska et al. 2019 ([LIT-1574](../literature.d/LIT-1574.md), read in [NOTE-tmpuq8at](../notes.d/NOTE-tmpuq8at.md); [THEORY-tmp247k7](../theory.d/THEORY-tmp247k7.md))
+Karnkowska et al. 2019 ([LIT-1574](../literature.d/LIT-1574.md), read in [NOTE-1243](../notes.d/NOTE-1243.md); [THEORY-1098](../theory.d/THEORY-1098.md))
 correct the previous title's "one indispensable job":
 
 - **SUF alone was not enough.** The SUF system replaced the mitochondrial

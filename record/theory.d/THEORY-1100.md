@@ -1,5 +1,8 @@
 ---
+number: 1100
 status: Proposed
+formerly:
+- THEORY-tmp74xnn
 promote_when: >-
   For each of the two systems with import at scale (the Paulinella
   chromatophore and the nitroplast), a census of imported proteins that
@@ -19,7 +22,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmpl32gd, the reading in full of Sørensen,
+    Filed Proposed from NOTE-1241, the reading in full of Sørensen,
     Stiller, Kröninger & Nowack (2025). The review rests on two proteomic
     studies, of the chromatophore and of the nitroplast, which were not
     read here. The origin of the imported proteins is summarized ("mostly
@@ -35,7 +38,7 @@ answers:
 - QUESTION-277
 summary: >-
   Sørensen, Stiller, Kröninger & Nowack (2025), [LIT-1560](../literature.d/LIT-1560.md), read in
-  [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md). Protein mass spectrometry of isolated endosymbionts found
+  [NOTE-1241](../notes.d/NOTE-1241.md). Protein mass spectrometry of isolated endosymbionts found
   hundreds of host proteins imported into Paulinella's chromatophore and
   more than 350 into the nitroplast, where they fill gaps left by lost
   genes. In Paulinella the imported proteins come mostly from the host's
@@ -45,15 +48,15 @@ summary: >-
   and the endosymbiont's genes need not move. The origins are stated in
   summary, not counted, and the import mechanisms are unknown.
 ---
-<!-- inactive-ok-file: NOTE-tmpl32gd — the reading filed with this, not yet merged -->
-<!-- inactive-ok-file: QUESTION-277 CASE-174 CASE-167 THEORY-1049 THEORY-tmpkvjih — Open or Proposed; the question, cases, accounts and unread works set beside this, nothing here rests on them -->
+<!-- inactive-ok-file: NOTE-1241 — the reading filed with this, not yet merged -->
+<!-- inactive-ok-file: QUESTION-277 CASE-174 CASE-167 THEORY-1049 THEORY-1107 — Open or Proposed; the question, cases, accounts and unread works set beside this, nothing here rests on them -->
 
-# THEORY-tmp74xnn: On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria
+# THEORY-1100: On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria
 
 ## Source
 
 Sørensen, Stiller, Kröninger & Nowack (2025), *The FEBS Journal*
-292(12): 2992–3013, [LIT-1560](../literature.d/LIT-1560.md), read in full in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md) from the
+292(12): 2992–3013, [LIT-1560](../literature.d/LIT-1560.md), read in full in [NOTE-1241](../notes.d/NOTE-1241.md) from the
 PubMed Central copy. The introduction's definition of genetic
 integration; the sections on *Paulinella* and on the nitroplast; the
 concluding scenario's paragraph on EGT.
@@ -96,7 +99,7 @@ picture of mitochondria and plastids, and UCYN-A could have shown EGT.
   plastids moved "hundreds of endosymbiont genes" to the nucleus. The
   claim is that transfer is not needed to start.
 - **Not that gene loss followed import in time.** The order is the
-  authors' scenario ([THEORY-tmpkvjih](THEORY-tmpkvjih.md)), not observed.
+  authors' scenario ([THEORY-1107](THEORY-1107.md)), not observed.
 
 ## Connections
 

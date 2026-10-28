@@ -32,7 +32,7 @@ reported_in:
 summary: >-
   Buchnera lives in aphid bacteriocytes and is passed from mother to egg. Its 641-kb genome keeps the pathways for the amino acids its host needs and has lost most else ([LIT-1596](../literature.d/LIT-1596.md)); its genes evolve fast and A+T-biased under Muller's ratchet ([LIT-1573](../literature.d/LIT-1573.md)). The record's reading of Wilson and Barker reports Godfrey-Smith placing the pair as both an organism and a Darwinian individual ([NOTE-114](../notes.d/NOTE-114.md)). Used as the case of high mutual dependence and high reproductive cohesion reached through reduction, with no gene transfer to the host reported in the works it rests on.
 ---
-<!-- inactive-ok-file: THEORY-tmpehubi NOTE-tmp82xw1 NOTE-tmpl32gd LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: THEORY-1103 NOTE-1236 NOTE-1241 LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: THEORY-1049 THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (later) -->
 <!-- inactive-ok-file: LIT-1596 LIT-1573 LIT-1559 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
@@ -102,8 +102,8 @@ rests on their abstracts until they are read.
 
 ## Note of 2026-10-27 (batch 2): the genome paper read in full
 
-[LIT-1596](../literature.d/LIT-1596.md) has been read in full ([NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md), [THEORY-tmpehubi](../theory.d/THEORY-tmpehubi.md)). So has
-the review [LIT-1560](../literature.d/LIT-1560.md) ([NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)). The case's first paragraph mostly
+[LIT-1596](../literature.d/LIT-1596.md) has been read in full ([NOTE-1236](../notes.d/NOTE-1236.md), [THEORY-1103](../theory.d/THEORY-1103.md)). So has
+the review [LIT-1560](../literature.d/LIT-1560.md) ([NOTE-1241](../notes.d/NOTE-1241.md)). The case's first paragraph mostly
 stands. Six corrections:
 
 - **"Neither can reproduce independently" is cited, not shown.** It is the

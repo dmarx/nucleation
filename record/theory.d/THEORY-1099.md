@@ -1,5 +1,8 @@
 ---
+number: 1099
 status: Proposed
+formerly:
+- THEORY-tmp5wptr
 promote_when: >-
   Evidence on the order of host complexity and the mitochondrion that does
   not rest on the same two assumptions: that the onset of duplication in
@@ -21,7 +24,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmp2el8z, the reading in full of Kay et al.
+    Filed Proposed from NOTE-1234, the reading in full of Kay et al.
     (2026) from the PubMed Central copy of the version of record. The
     order is a model result from 135 dated gene trees. It rests on an
     argued, untested marker for endosymbiosis and on priors that confine
@@ -36,7 +39,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Kay et al. (2026), [LIT-1566](../literature.d/LIT-1566.md), read in [NOTE-tmp2el8z](../notes.d/NOTE-tmp2el8z.md). A dated species
+  Kay et al. (2026), [LIT-1566](../literature.d/LIT-1566.md), read in [NOTE-1234](../notes.d/NOTE-1234.md). A dated species
   tree places nFECA at 3.05–2.79 Ga, mFECA at 2.37–2.13 Ga and LECA at
   1.80–1.67 Ga. Against an endosymbiosis marker at about 2.2 Ga, 85% of
   archaeal-origin duplications are older, and most non-alphaproteobacterial
@@ -46,14 +49,14 @@ summary: >-
   that the priors shape which family can be older, and that the authors
   themselves cannot order phagocytosis and the mitochondrion.
 ---
-<!-- inactive-ok-file: QUESTION-277 LIT-1597 NOTE-tmp2el8z NOTE-tmpjgenc THEORY-tmpckv2l — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works set beside it, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1597 NOTE-1234 NOTE-1240 THEORY-1102 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works set beside it, nothing here rests on them -->
 
-# THEORY-tmp5wptr: On Kay and colleagues' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open
+# THEORY-1099: On Kay and colleagues' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open
 
 ## Source
 
 Kay, Spang, Szöllősi, Pisani, Williams & Donoghue (2026), *Nature*
-650: 129–140, [LIT-1566](../literature.d/LIT-1566.md), read in full in [NOTE-tmp2el8z](../notes.d/NOTE-tmp2el8z.md) from the PubMed
+650: 129–140, [LIT-1566](../literature.d/LIT-1566.md), read in full in [NOTE-1234](../notes.d/NOTE-1234.md) from the PubMed
 Central copy of the version of record. The sections "Establishing the
 eukaryogenesis timeline", "Dating mitochondrial endosymbiosis", the four
 sections on cell systems, "Testing hypotheses of eukaryogenesis", the
@@ -127,7 +130,7 @@ force it.
   bacterial genes arriving by transfer. It dates G (the host's
   duplications) and gives an early date for the import machinery, the
   start of C on the symbiont side. It says nothing about D, R or S.
-- **[LIT-1595](../literature.d/LIT-1595.md) ([THEORY-tmpckv2l](THEORY-tmpckv2l.md)).** Pittis & Gabaldón reach the same
+- **[LIT-1595](../literature.d/LIT-1595.md) ([THEORY-1102](THEORY-1102.md)).** Pittis & Gabaldón reach the same
   mitochondrion-late order from branch lengths. They infer a host
   already chimaeric with non-alphaproteobacterial genes before the
   mitochondrion. This paper dates most non-alphaproteobacterial

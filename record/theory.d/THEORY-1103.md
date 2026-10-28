@@ -1,5 +1,8 @@
 ---
+number: 1103
 status: Proposed
+formerly:
+- THEORY-tmpehubi
 promote_when: >-
   Direct measurement in the aphid–Buchnera system, not more gene
   inventories: labelling or metabolite-flux evidence that host-supplied
@@ -17,7 +20,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmp82xw1, the reading in full of Shigenobu,
+    Filed Proposed from NOTE-1236, the reading in full of Shigenobu,
     Watanabe, Hattori, Sakaki & Ishikawa (2000) from the publisher's free
     PDF. Every functional statement is inferred from gene content in one
     strain. Host supply of precursors is supported by earlier physiology
@@ -32,7 +35,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Shigenobu et al. (2000), [LIT-1596](../literature.d/LIT-1596.md), read in [NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md). The first
+  Shigenobu et al. (2000), [LIT-1596](../literature.d/LIT-1596.md), read in [NOTE-1236](../notes.d/NOTE-1236.md). The first
   complete genome of an obligate insect endosymbiont: 640,681 bp, a
   subset of E. coli's. What is shown is gene content. The interlocking
   of host and symbiont metabolism is inferred from it and from earlier
@@ -41,14 +44,14 @@ summary: >-
   inferences. The paper names no mechanism of loss beyond a homeostatic
   niche: it says nothing of drift.
 ---
-<!-- inactive-ok-file: NOTE-tmp82xw1 — filed with this account, not yet merged -->
+<!-- inactive-ok-file: NOTE-1236 — filed with this account, not yet merged -->
 <!-- inactive-ok-file: QUESTION-277 CASE-173 THEORY-1049 LIT-1573 — Open, Proposed or Unfetched; the question, case, account and unread work this is set beside, nothing here rests on them -->
-# THEORY-tmpehubi: On Shigenobu and colleagues' genome of Buchnera sp. APS, the aphid symbiont keeps the genes for the amino acids its host cannot make and has lost almost all of those its host can, uses host-made glutamate and aspartate as precursors, and lacks phospholipid synthesis and nearly all its own transcriptional regulators, so that its metabolism interlocks with the host's and it presumably lives only inside the bacteriocyte, a state reached by gene loss from an E. coli-like ancestor
+# THEORY-1103: On Shigenobu and colleagues' genome of Buchnera sp. APS, the aphid symbiont keeps the genes for the amino acids its host cannot make and has lost almost all of those its host can, uses host-made glutamate and aspartate as precursors, and lacks phospholipid synthesis and nearly all its own transcriptional regulators, so that its metabolism interlocks with the host's and it presumably lives only inside the bacteriocyte, a state reached by gene loss from an E. coli-like ancestor
 
 ## Source
 
 Shigenobu, Watanabe, Hattori, Sakaki & Ishikawa (2000), *Nature* 407:
-81–86, [LIT-1596](../literature.d/LIT-1596.md), read in full in [NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md) from the publisher's free
+81–86, [LIT-1596](../literature.d/LIT-1596.md), read in full in [NOTE-1236](../notes.d/NOTE-1236.md) from the publisher's free
 PDF. The whole letter, Table 1, the captions of Figures 1–3, and the
 Methods.
 

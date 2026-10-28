@@ -1,5 +1,8 @@
 ---
+number: 1098
 status: Proposed
+formerly:
+- THEORY-tmp247k7
 promote_when: >-
   Evidence that dates the steps in the Monocercomonoides line: the SUF
   replacement, the loss of the glycine cleavage system and SHMT, and the
@@ -18,7 +21,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmpuq8at, the reading in full of Karnkowska
+    Filed Proposed from NOTE-1243, the reading in full of Karnkowska
     et al. (2019). The analysis is homology searches on a draft genome,
     the order of the preadaptations is inferred from their distribution
     among relatives, and "no compensating changes" is an absence bounded
@@ -33,7 +36,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Karnkowska et al. (2019), [LIT-1574](../literature.d/LIT-1574.md), read in [NOTE-tmpuq8at](../notes.d/NOTE-tmpuq8at.md). The SUF
+  Karnkowska et al. (2019), [LIT-1574](../literature.d/LIT-1574.md), read in [NOTE-1243](../notes.d/NOTE-1243.md). The SUF
   replacement of the mitochondrial Fe–S pathway is shared by all examined
   Preaxostyla, including relatives that keep a mitochondrion-related
   organelle, and those relatives' organelle still houses the glycine
@@ -43,15 +46,15 @@ summary: >-
   eukaryote. The order is inferred, not dated, and absence is limited by
   annotation.
 ---
-<!-- inactive-ok-file: NOTE-tmpuq8at — the reading filed with this, not yet merged -->
-<!-- inactive-ok-file: QUESTION-277 CASE-168 THEORY-tmp74xnn THEORY-1049 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
+<!-- inactive-ok-file: NOTE-1243 — the reading filed with this, not yet merged -->
+<!-- inactive-ok-file: QUESTION-277 CASE-168 THEORY-1100 THEORY-1049 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
 
-# THEORY-tmp247k7: On Karnkowska and colleagues' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found
+# THEORY-1098: On Karnkowska and colleagues' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found
 
 ## Source
 
 Karnkowska et al. (2019), *Molecular Biology and Evolution* 36(10):
-2292–2312, [LIT-1574](../literature.d/LIT-1574.md), read in full in [NOTE-tmpuq8at](../notes.d/NOTE-tmpuq8at.md) from the PubMed
+2292–2312, [LIT-1574](../literature.d/LIT-1574.md), read in full in [NOTE-1243](../notes.d/NOTE-1243.md) from the PubMed
 Central copy. "Is the Absence of Mitochondrion Reflected in
 Modifications of Any Cellular System?", the FIB-SEM section, and the
 conclusions.
@@ -118,7 +121,7 @@ exilis*, making it the single trigger.
   function at a time. The reading in the question's terms is mine.
 - **[CASE-168](../cases.d/CASE-168.md).** The case's "one indispensable job" should read "two
   essential functions, removed in turn".
-- **[THEORY-tmp74xnn](THEORY-tmp74xnn.md).** Organelles are made by moving functions onto
+- **[THEORY-1100](THEORY-1100.md).** Organelles are made by moving functions onto
   host-encoded proteins. This is the same accounting from the other end:
   the organelle persists while some function still needs it.
 - **[THEORY-1049](THEORY-1049.md).** McCutcheon et al. find the host supplying what a

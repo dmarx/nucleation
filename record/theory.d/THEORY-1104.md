@@ -1,5 +1,8 @@
 ---
+number: 1104
 status: Proposed
+formerly:
+- THEORY-tmpfoo2c
 promote_when: >-
   An independent reanalysis, on the genome sampling the authors call for
   (complete Asgard genomes, closer relatives of the mitochondrial
@@ -23,7 +26,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmppkn6v, the reading in full of the PubMed
+    Filed Proposed from NOTE-1242, the reading in full of the PubMed
     Central copy of Tobiasson et al. (2026). The composition result is
     robust within the paper to clustering, taxonomy and pangenome cutoff,
     but rests on sparse and biased genome sampling, which the authors put
@@ -40,7 +43,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md).
+  Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in [NOTE-1242](../notes.d/NOTE-1242.md).
   In 4,290 well-resolved eukaryotic–prokaryotic clusters, Asgard takes
   50% of likelihood weight and leads in almost every functional class.
   Alphaproteobacteria account for mitochondrial translation, oxidative
@@ -50,14 +53,14 @@ summary: >-
   mitochondrion and "no indication of another symbiotic event". The
   composition is shown; the scenario is read off it.
 ---
-<!-- inactive-ok-file: NOTE-tmppkn6v THEORY-tmpbinho THEORY-tmphywi5 THEORY-tmpyr6q4 NOTE-tmpe5t7q — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
+<!-- inactive-ok-file: NOTE-1242 THEORY-1101 THEORY-1105 THEORY-1109 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1566 LIT-1595 — Open or Deferred; the question this bears on and unread works it is set beside, nothing here rests on them -->
-# THEORY-tmpfoo2c: In Tobiasson, Luo, Wolf and Koonin's constrained-tree survey of widespread eukaryotic protein families, Asgard archaea are the largest single prokaryotic source, with about half the likelihood weight in the best-resolved families and the lead in nearly every functional system, while Alphaproteobacteria contribute a small, coherent set centred on the mitochondrion and other bacteria about a third of families, scattered across functions with no pathway from one donor; the authors read this as one Asgard host lineage, one endosymbiont and piecemeal gene transfer rather than further symbioses, a reading the gene ancestries alone cannot establish
+# THEORY-1104: In Tobiasson, Luo, Wolf and Koonin's constrained-tree survey of widespread eukaryotic protein families, Asgard archaea are the largest single prokaryotic source, with about half the likelihood weight in the best-resolved families and the lead in nearly every functional system, while Alphaproteobacteria contribute a small, coherent set centred on the mitochondrion and other bacteria about a third of families, scattered across functions with no pathway from one donor; the authors read this as one Asgard host lineage, one endosymbiont and piecemeal gene transfer rather than further symbioses, a reading the gene ancestries alone cannot establish
 
 ## Source
 
 Tobiasson, Luo, Wolf & Koonin (2026), *Nature* 650: 141–149, [LIT-1558](../literature.d/LIT-1558.md), read
-in full in [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md) from the PubMed Central copy (PMC12872458). The
+in full in [NOTE-1242](../notes.d/NOTE-1242.md) from the PubMed Central copy (PMC12872458). The
 sections "Origins of eukaryotic proteins" through "Sparse contributions from
 other bacteria", the Discussion, Methods, Figures 1, 2 and 4, and Extended
 Data Figures 1–9, read from captions.
@@ -114,7 +117,7 @@ Myxococcota signal it did not.
 - **Not a timing result.** That the cytoskeleton and endomembranes evolved
   in the Asgard lineage before the mitochondrion is the scenario the
   composition is "most compatible with". The paper times nothing, and
-  argues that stem lengths cannot ([THEORY-tmpbinho](THEORY-tmpbinho.md)).
+  argues that stem lengths cannot ([THEORY-1101](THEORY-1101.md)).
 - **Not robust to the sampling the authors flag.** They allow that better
   sampling "might lead to a substantial modification of the model". They
   also allow that the Myxococcota signal may be only "part of a principal
@@ -122,7 +125,7 @@ Myxococcota signal it did not.
 
 ## Connections
 
-- **[THEORY-tmphywi5](THEORY-tmphywi5.md) (Bernabeu et al.): rival on two points, compatible on
+- **[THEORY-1105](THEORY-1105.md) (Bernabeu et al.): rival on two points, compatible on
   two.** Rival on whether the non-alphaproteobacterial genes are diffuse or
   form a few major donors' waves, and on the size of the Asgard share. On
   the first, Tobiasson et al. say the other's larger bacterial signal may
@@ -130,12 +133,12 @@ Myxococcota signal it did not.
   construction". Compatible on a mitochondrion acquired late and on
   bacterial genes arriving before it. Neither can show what kind of
   interaction moved the genes.
-- **[THEORY-tmpyr6q4](THEORY-tmpyr6q4.md) (Santana-Molina et al.): compatible, with a tension.**
+- **[THEORY-1109](THEORY-1109.md) (Santana-Molina et al.): compatible, with a tension.**
   Both find the alphaproteobacterial contribution mitochondrial. In central
   carbon metabolism, that paper counts more alphaproteobacterial than Asgard
   enzymes (17 to six), against this paper's Asgard lead across "large parts
   of the core metabolic network". The measures differ.
-- **[THEORY-tmpbinho](THEORY-tmpbinho.md)**, from the same paper, is why this one makes no timing
+- **[THEORY-1101](THEORY-1101.md)**, from the same paper, is why this one makes no timing
   claim of its own.
 - **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., unread).** The record summarizes it as a complex
   archaeal host before a late mitochondrion. That is this paper's scenario,

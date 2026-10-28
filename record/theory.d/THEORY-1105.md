@@ -1,5 +1,8 @@
 ---
+number: 1105
 status: Proposed
+formerly:
+- THEORY-tmphywi5
 promote_when: >-
   Two kinds of result are needed, one per half of the claim. For the
   donors: the Myxococcota and Planctomycetota signals recovered by an
@@ -22,11 +25,11 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmpe5t7q, the reading in full of the PubMed
+    Filed Proposed from NOTE-1237, the reading in full of the PubMed
     Central copy of Bernabeu et al. (2026). The donor result is consistent
     across three datasets, with controls reported in a supplement not read
     here. The ordering rests on stem lengths as relative times, which
-    Tobiasson et al. dispute on their own data (THEORY-tmpbinho). The step
+    Tobiasson et al. dispute on their own data (THEORY-1101). The step
     from gene donors to partners is one the authors themselves do not
     take as shown. Hence Proposed.
 tags:
@@ -39,7 +42,7 @@ answers:
 - QUESTION-277
 summary: >-
   Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón (2026), [LIT-1561](../literature.d/LIT-1561.md), read
-  in [NOTE-tmpe5t7q](../notes.d/NOTE-tmpe5t7q.md). Under thresholds chosen to maximize assignments to
+  in [NOTE-1237](../notes.d/NOTE-1237.md). Under thresholds chosen to maximize assignments to
   Alphaproteobacteria and Asgard, Myxococcota (3.92% of the proteome) and
   Planctomycetota (2.24%) pass in every dataset, beside Alphaproteobacteria
   (3.99%) and Asgard (3.28%). A control removing Alphaproteobacteria from
@@ -49,14 +52,14 @@ summary: >-
   symbiotic interaction", and also say their data "do not provide
   information on the host or endosymbiotic nature of any partner".
 ---
-<!-- inactive-ok-file: NOTE-tmpe5t7q THEORY-tmpfoo2c THEORY-tmpbinho THEORY-tmpyr6q4 NOTE-tmppkn6v — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
+<!-- inactive-ok-file: NOTE-1237 THEORY-1104 THEORY-1101 THEORY-1109 NOTE-1242 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1595 LIT-1566 — Open or Deferred; the question this bears on and unread works it is set beside, nothing here rests on them -->
-# THEORY-tmphywi5: In Bernabeu, Manzano-Morales, Marcet-Houben and Gabaldón's reconstruction of the last eukaryotic common ancestor's proteome, two bacterial phyla besides the mitochondrial ancestor, Myxococcota and Planctomycetota, each account for a share of the proteome comparable to that of Alphaproteobacteria and Asgard archaea under thresholds calibrated on those accepted partners, and stem-length distributions order the acquisitions as waves, Asgard first, then Planctomycetota, then the mitochondrial ancestor and Myxococcota together; the authors read this as serial associations with several partners, while conceding that their data cannot say whether any donor was a symbiont
+# THEORY-1105: In Bernabeu, Manzano-Morales, Marcet-Houben and Gabaldón's reconstruction of the last eukaryotic common ancestor's proteome, two bacterial phyla besides the mitochondrial ancestor, Myxococcota and Planctomycetota, each account for a share of the proteome comparable to that of Alphaproteobacteria and Asgard archaea under thresholds calibrated on those accepted partners, and stem-length distributions order the acquisitions as waves, Asgard first, then Planctomycetota, then the mitochondrial ancestor and Myxococcota together; the authors read this as serial associations with several partners, while conceding that their data cannot say whether any donor was a symbiont
 
 ## Source
 
 Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón (2026), *Nature* 656:
-399–405, [LIT-1561](../literature.d/LIT-1561.md), read in full in [NOTE-tmpe5t7q](../notes.d/NOTE-tmpe5t7q.md) from the PubMed Central copy
+399–405, [LIT-1561](../literature.d/LIT-1561.md), read in full in [NOTE-1237](../notes.d/NOTE-1237.md) from the PubMed Central copy
 (PMC13468126). The sections "Determining the ancestries of LECA" and "Donor
 relative timing and metabolism", the Discussion, Methods ("Stress test",
 "Verticality test", "Inferring the acquisition waves"), Figures 2–3 and
@@ -111,7 +114,7 @@ in dispute.
   Tobiasson et al. propose, and which would also leave a donor signal.
   The inference is mine.
 - **Not a timing result independent of stem length.** If stem length is not
-  a clock ([THEORY-tmpbinho](THEORY-tmpbinho.md)), the order of waves, and with it the claim that
+  a clock ([THEORY-1101](THEORY-1101.md)), the order of waves, and with it the claim that
   Planctomycetota preceded the mitochondrion, falls back to unknown.
 - **Not that Asgard contributed only 3% of LECA.** That figure is the share
   passing strict thresholds. It is not comparable with Tobiasson et al.'s
@@ -121,7 +124,7 @@ in dispute.
 
 ## Connections
 
-- **[THEORY-tmpfoo2c](THEORY-tmpfoo2c.md) (Tobiasson et al.): rival on the donors, compatible on
+- **[THEORY-1104](THEORY-1104.md) (Tobiasson et al.): rival on the donors, compatible on
   the mitochondrion.** The two disagree on whether the
   non-alphaproteobacterial genes form a few major donors' waves or diffuse
   transfer, and on the Asgard share. Tobiasson et al. attribute this paper's
@@ -130,8 +133,8 @@ in dispute.
   class there). Both papers have the mitochondrion arriving late and
   bacterial genes arriving before it. Neither has data on the kind of
   interaction.
-- **[THEORY-tmpbinho](THEORY-tmpbinho.md): rival.** It disputes the method that orders the waves.
-- **[THEORY-tmpyr6q4](THEORY-tmpyr6q4.md) (Santana-Molina et al.): partly compatible.** In central
+- **[THEORY-1101](THEORY-1101.md): rival.** It disputes the method that orders the waves.
+- **[THEORY-1109](THEORY-1109.md) (Santana-Molina et al.): partly compatible.** In central
   carbon metabolism, Planctomycetota–Verrucomicrobiota and Myxococcota–
   Desulfobacterota both appear as sisters, as this account would expect.
   But that paper finds "no additional dominant source of gene donations".

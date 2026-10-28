@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**760 documents cited without acknowledgement.** Not listed: 14298 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**758 documents cited without acknowledgement.** Not listed: 14440 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -763,7 +763,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-344 citations in 313 files await a look; 21 other citations of it are acknowledged.
+354 citations in 323 files await a look; 21 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-273.md:23`](../../record/claims.d/CLAIM-273.md)
 - [`record/literature.d/LIT-026.md:17`](../../record/literature.d/LIT-026.md)
@@ -859,6 +859,16 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/literature.d/LIT-1523.md:57`](../../record/literature.d/LIT-1523.md)
 - [`record/literature.d/LIT-1527.md:40`](../../record/literature.d/LIT-1527.md)
 - [`record/literature.d/LIT-1527.md:49`](../../record/literature.d/LIT-1527.md)
+- [`record/literature.d/LIT-1559.md:22`](../../record/literature.d/LIT-1559.md)
+- [`record/literature.d/LIT-1562.md:22`](../../record/literature.d/LIT-1562.md)
+- [`record/literature.d/LIT-1585.md:18`](../../record/literature.d/LIT-1585.md)
+- [`record/literature.d/LIT-1588.md:18`](../../record/literature.d/LIT-1588.md)
+- [`record/literature.d/LIT-1597.md:18`](../../record/literature.d/LIT-1597.md)
+- [`record/literature.d/LIT-1603.md:18`](../../record/literature.d/LIT-1603.md)
+- [`record/literature.d/LIT-1605.md:18`](../../record/literature.d/LIT-1605.md)
+- [`record/literature.d/LIT-1608.md:18`](../../record/literature.d/LIT-1608.md)
+- [`record/literature.d/LIT-1616.md:18`](../../record/literature.d/LIT-1616.md)
+- [`record/literature.d/LIT-1617.md:18`](../../record/literature.d/LIT-1617.md)
 - [`record/literature.d/LIT-1631.md:23`](../../record/literature.d/LIT-1631.md)
 - [`record/literature.d/LIT-1632.md:23`](../../record/literature.d/LIT-1632.md)
 - [`record/literature.d/LIT-1633.md:23`](../../record/literature.d/LIT-1633.md)
@@ -4310,17 +4320,6 @@ Reciprocally produced, externally reset and feedback-only governing rules in a 3
 - [`record/claims.d/CLAIM-456.md:44`](../../record/claims.d/CLAIM-456.md)
 - [`record/claims.d/CLAIM-456.md:55`](../../record/claims.d/CLAIM-456.md)
 
-### [CASE-177](../../record/cases.d/CASE-177.md) — Proposed
-
-Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage
-
-4 citations in 4 files await a look; 3 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1586.md:42`](../../record/literature.d/LIT-1586.md)
-- [`record/literature.d/LIT-1590.md:42`](../../record/literature.d/LIT-1590.md)
-- [`record/literature.d/LIT-1602.md:42`](../../record/literature.d/LIT-1602.md)
-- [`record/literature.d/LIT-1612.md:42`](../../record/literature.d/LIT-1612.md)
-
 ### [CLAIM-016](../../record/claims.d/CLAIM-016.md) — Deferred
 
 An organized agent's will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization
@@ -4926,13 +4925,23 @@ Interpretive framings change a reader's state as non-commuting measurements do, 
 
 ### [CASE-174](../../record/cases.d/CASE-174.md) — Proposed
 
-Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids', its genome reduced to a quarter, more than thirty genes moved to the host nucleus and their proteins imported back
+Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids', its genome reduced to about a third of its coding capacity, and hundreds of host proteins imported into it, most encoded by the host's own genes rather than transferred from the symbiont
 
-3 citations in 3 files await a look; 4 other citations of it are acknowledged.
+3 citations in 3 files await a look; 6 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-167.md:45`](../../record/cases.d/CASE-167.md)
-- [`record/cases.d/CASE-173.md:70`](../../record/cases.d/CASE-173.md)
-- [`record/literature.d/LIT-1621.md:41`](../../record/literature.d/LIT-1621.md)
+- [`record/cases.d/CASE-167.md:51`](../../record/cases.d/CASE-167.md)
+- [`record/cases.d/CASE-173.md:75`](../../record/cases.d/CASE-173.md)
+- [`record/literature.d/LIT-1621.md:45`](../../record/literature.d/LIT-1621.md)
+
+### [CASE-177](../../record/cases.d/CASE-177.md) — Proposed
+
+Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage
+
+3 citations in 3 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1586.md:46`](../../record/literature.d/LIT-1586.md)
+- [`record/literature.d/LIT-1602.md:46`](../../record/literature.d/LIT-1602.md)
+- [`record/literature.d/LIT-1612.md:46`](../../record/literature.d/LIT-1612.md)
 
 ### [CLAIM-009](../../record/claims.d/CLAIM-009.md) — Proposed
 
@@ -5917,19 +5926,10 @@ A dynamic beta–Bernoulli latent-feature model of an organization's members: a 
 
 Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed
 
-2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+2 citations in 2 files await a look; 6 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-173.md:69`](../../record/cases.d/CASE-173.md)
-- [`record/cases.d/CASE-174.md:52`](../../record/cases.d/CASE-174.md)
-
-### [CASE-173](../../record/cases.d/CASE-173.md) — Proposed
-
-Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
-
-2 citations in 2 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-174.md:52`](../../record/cases.d/CASE-174.md)
-- [`record/literature.d/LIT-1596.md:42`](../../record/literature.d/LIT-1596.md)
+- [`record/cases.d/CASE-173.md:74`](../../record/cases.d/CASE-173.md)
+- [`record/cases.d/CASE-174.md:58`](../../record/cases.d/CASE-174.md)
 
 ### [CLAIM-018](../../record/claims.d/CLAIM-018.md) — Proposed
 
@@ -7310,9 +7310,17 @@ Causality paradoxes in relativity show that locally consistent descriptions can 
 
 The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine alga, whose division is coupled to the host's and which imports host-encoded proteins, reclassified as an early-stage organelle in 2024
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
-- [`record/theory.d/THEORY-1049.md:105`](../../record/theory.d/THEORY-1049.md)
+- [`record/theory.d/THEORY-1049.md:110`](../../record/theory.d/THEORY-1049.md)
+
+### [CASE-173](../../record/cases.d/CASE-173.md) — Proposed
+
+Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
+
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-174.md:58`](../../record/cases.d/CASE-174.md)
 
 ### [CLAIM-004](../../record/claims.d/CLAIM-004.md) — Proposed
 
@@ -7962,43 +7970,27 @@ Behavior as information: “If I avoid, then there must be a danger”
 
 - [`record/claims.d/CLAIM-446.md:211`](../../record/claims.d/CLAIM-446.md)
 
-### [LIT-1557](../../record/literature.d/LIT-1557.md) — Deferred
+### [LIT-1557](../../record/literature.d/LIT-1557.md) — Unfetched
 
 Trafficking of protein into the recently established photosynthetic organelles of Paulinella chromatophora
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1621.md:41`](../../record/literature.d/LIT-1621.md)
+- [`record/literature.d/LIT-1621.md:45`](../../record/literature.d/LIT-1621.md)
 
-### [LIT-1561](../../record/literature.d/LIT-1561.md) — Deferred
-
-Gene ancestries reveal diverse microbial associations during eukaryogenesis
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1595.md:41`](../../record/literature.d/LIT-1595.md)
-
-### [LIT-1563](../../record/literature.d/LIT-1563.md) — Deferred
+### [LIT-1563](../../record/literature.d/LIT-1563.md) — Unfetched
 
 Sympatric Speciation in a Bacterial Endosymbiont Results in Two Genomes with the Functionality of One
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1586.md:42`](../../record/literature.d/LIT-1586.md)
+- [`record/literature.d/LIT-1586.md:46`](../../record/literature.d/LIT-1586.md)
 
-### [LIT-1566](../../record/literature.d/LIT-1566.md) — Deferred
-
-Dated gene duplications elucidate the evolutionary assembly of eukaryotes
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1595.md:41`](../../record/literature.d/LIT-1595.md)
-
-### [LIT-1569](../../record/literature.d/LIT-1569.md) — Deferred
+### [LIT-1569](../../record/literature.d/LIT-1569.md) — Unfetched
 
 Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Enables a Tripartite Nested Mealybug Symbiosis
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1211.md:241`](../../record/notes.d/NOTE-1211.md)
 
@@ -8006,9 +7998,9 @@ Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Enables a Tri
 
 Accelerated evolution and Muller's rachet in endosymbiotic bacteria
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1611.md:41`](../../record/literature.d/LIT-1611.md)
+- [`record/literature.d/LIT-1611.md:45`](../../record/literature.d/LIT-1611.md)
 
 ### [LIT-1587](../../record/literature.d/LIT-1587.md) — Deferred
 
@@ -8042,13 +8034,13 @@ Violence and the Word
 
 - [`record/claims.d/CLAIM-462.md:114`](../../record/claims.d/CLAIM-462.md)
 
-### [LIT-1602](../../record/literature.d/LIT-1602.md) — Deferred
+### [LIT-1602](../../record/literature.d/LIT-1602.md) — Unfetched
 
 Idiosyncratic Genome Degradation in a Bacterial Endosymbiont of Periodical Cicadas
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1612.md:42`](../../record/literature.d/LIT-1612.md)
+- [`record/literature.d/LIT-1612.md:46`](../../record/literature.d/LIT-1612.md)
 
 ### [LIT-1604](../../record/literature.d/LIT-1604.md) — Deferred
 
@@ -8074,21 +8066,21 @@ The Death of the Irreparable Injury Rule
 
 - [`record/claims.d/CLAIM-464.md:117`](../../record/claims.d/CLAIM-464.md)
 
-### [LIT-1611](../../record/literature.d/LIT-1611.md) — Deferred
+### [LIT-1611](../../record/literature.d/LIT-1611.md) — Unfetched
 
 The consequences of genetic drift for bacterial genome complexity
 
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
-- [`record/literature.d/LIT-1616.md:41`](../../record/literature.d/LIT-1616.md)
+- [`record/literature.d/LIT-1616.md:45`](../../record/literature.d/LIT-1616.md)
 
-### [LIT-1612](../../record/literature.d/LIT-1612.md) — Deferred
+### [LIT-1612](../../record/literature.d/LIT-1612.md) — Unfetched
 
 Genome expansion via lineage splitting and genome reduction in the cicada endosymbiont Hodgkinia
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1602.md:42`](../../record/literature.d/LIT-1602.md)
+- [`record/literature.d/LIT-1602.md:46`](../../record/literature.d/LIT-1602.md)
 
 ### [LIT-1613](../../record/literature.d/LIT-1613.md) — Deferred
 
@@ -8750,7 +8742,7 @@ Multicellular cooperation depends on suppressing cells that gain fitness at the 
 
 In a major evolutionary transition, where formerly free-living units come to form a higher-level unit, the collective is stable only if selection between collectives comes to trump selection among the units within them, typically through mechanisms such as policing, kinship and division of labour that align the interests of the units; the levels at which selection acts are then a product of evolution, to be explained rather than assumed
 
-1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-060.md:58`](../../record/claims.d/CLAIM-060.md)
 
@@ -9424,11 +9416,14 @@ None. Every scanned file is checked. ✅
 - record/cases.d/CASE-123.md:38: annotation no longer applies — nothing in scope cites CLAIM-404
 - record/cases.d/CASE-160.md:53: annotation no longer applies — nothing in scope cites CLAIM-262
 - record/cases.d/CASE-161.md:41: annotation no longer applies — QUESTION-086, QUESTION-087, QUESTION-090 is Active now
-- record/cases.d/CASE-167.md:22: annotation no longer applies — QUESTION-277 is Active now
-- record/cases.d/CASE-168.md:22: annotation no longer applies — QUESTION-277 is Active now
-- record/cases.d/CASE-173.md:33: annotation no longer applies — QUESTION-277 is Active now
-- record/cases.d/CASE-174.md:23: annotation no longer applies — QUESTION-277 is Active now
-- record/cases.d/CASE-177.md:28: annotation no longer applies — QUESTION-277 is Active now
+- record/cases.d/CASE-167.md:28: annotation no longer applies — QUESTION-277 is Active now
+- record/cases.d/CASE-168.md:27: annotation no longer applies — LIT-1574 is Active now
+- record/cases.d/CASE-168.md:28: annotation no longer applies — QUESTION-277 is Active now
+- record/cases.d/CASE-171.md:32: annotation no longer applies — NOTE-1241 is Active now
+- record/cases.d/CASE-173.md:37: annotation no longer applies — LIT-1596 is Active now
+- record/cases.d/CASE-173.md:38: annotation no longer applies — QUESTION-277 is Active now
+- record/cases.d/CASE-174.md:29: annotation no longer applies — QUESTION-277 is Active now
+- record/cases.d/CASE-177.md:34: annotation no longer applies — QUESTION-277 is Active now
 - record/claims.d/CLAIM-030.md:58: annotation no longer applies — THEORY-127 is Active now
 - record/claims.d/CLAIM-181.md:41: annotation no longer applies — QUESTION-281 is Active now
 - record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
@@ -9476,8 +9471,15 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-1466.md:53: annotation no longer applies — nothing in scope cites LIT-1450, LIT-1470
 - record/literature.d/LIT-1471.md:52: annotation no longer applies — LIT-1444, NOTE-1103 is Active now
 - record/literature.d/LIT-1501.md:61: annotation no longer applies — NOTE-1140 is Active now
+- record/literature.d/LIT-1558.md:41: annotation no longer applies — LIT-1566 is Active now
+- record/literature.d/LIT-1558.md:43: annotation no longer applies — LIT-1595 is Active now
+- record/literature.d/LIT-1560.md:42: annotation no longer applies — NOTE-1241 is Active now
+- record/literature.d/LIT-1560.md:44: annotation no longer applies — QUESTION-277 is Active now
+- record/literature.d/LIT-1566.md:42: annotation no longer applies — QUESTION-277 is Active now
+- record/literature.d/LIT-1574.md:41: annotation no longer applies — NOTE-1243 is Active now
 - record/literature.d/LIT-1575.md:83: annotation no longer applies — nothing in scope cites CLAIM-263
 - record/literature.d/LIT-1579.md:77: annotation no longer applies — nothing in scope cites THEORY-990
+- record/literature.d/LIT-1595.md:38: annotation no longer applies — LIT-1561 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-810.md:52: annotation no longer applies — THEORY-155 is Active now
@@ -9542,6 +9544,10 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-1182.md:56: annotation no longer applies — nothing in scope cites THEORY-1022
 - record/notes.d/NOTE-1220.md:38: annotation no longer applies — LIT-1635 is Active now
 - record/notes.d/NOTE-1230.md:38: annotation no longer applies — nothing in scope cites LIT-1653, LIT-1657
+- record/notes.d/NOTE-1237.md:49: annotation no longer applies — NOTE-1239, NOTE-1242 is Active now
+- record/notes.d/NOTE-1239.md:52: annotation no longer applies — NOTE-1237, NOTE-1242 is Active now
+- record/notes.d/NOTE-1240.md:48: annotation no longer applies — LIT-1558, LIT-1561, QUESTION-277 is Active now
+- record/notes.d/NOTE-1242.md:49: annotation no longer applies — NOTE-1237, NOTE-1239 is Active now
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-631.md:34: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-694.md:35: annotation no longer applies — QUESTION-025 is Active now
@@ -9558,6 +9564,7 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-083.md:61: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-1021.md:46: annotation no longer applies — nothing in scope cites THEORY-1000
 - record/theory.d/THEORY-1027.md:44: annotation no longer applies — nothing in scope cites CLAIM-454
+- record/theory.d/THEORY-1049.md:52: annotation no longer applies — NOTE-1236, NOTE-1241 is Active now
 - record/theory.d/THEORY-1062.md:23: annotation no longer applies — nothing in scope cites CLAIM-471
 - record/theory.d/THEORY-1065.md:22: annotation no longer applies — QUESTION-063 is Active now
 - record/theory.d/THEORY-1071.md:22: annotation no longer applies — LIT-1635 is Active now
@@ -9569,6 +9576,14 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-1087.md:24: annotation no longer applies — CLAIM-481, QUESTION-147, QUESTION-281 is Active now
 - record/theory.d/THEORY-1088.md:24: annotation no longer applies — QUESTION-285 is Active now
 - record/theory.d/THEORY-1092.md:30: annotation no longer applies — QUESTION-285 is Active now
+- record/theory.d/THEORY-1098.md:49: annotation no longer applies — NOTE-1243 is Active now
+- record/theory.d/THEORY-1100.md:51: annotation no longer applies — NOTE-1241 is Active now
+- record/theory.d/THEORY-1101.md:51: annotation no longer applies — LIT-1566, LIT-1595, QUESTION-277 is Active now
+- record/theory.d/THEORY-1103.md:47: annotation no longer applies — NOTE-1236 is Active now
+- record/theory.d/THEORY-1104.md:57: annotation no longer applies — LIT-1566, LIT-1595, QUESTION-277 is Active now
+- record/theory.d/THEORY-1105.md:56: annotation no longer applies — LIT-1566, LIT-1595, QUESTION-277 is Active now
+- record/theory.d/THEORY-1106.md:47: annotation no longer applies — NOTE-1235 is Active now
+- record/theory.d/THEORY-1107.md:50: annotation no longer applies — NOTE-1241 is Active now
 - record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-198.md:43: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-201.md:56: annotation no longer applies — QUESTION-025 is Active now

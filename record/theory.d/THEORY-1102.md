@@ -1,5 +1,8 @@
 ---
+number: 1102
 status: Proposed
+formerly:
+- THEORY-tmpckv2l
 promote_when: >-
   A test of whether rate-normalized stem length measures time of
   acquisition, made independently of this pipeline. That could be a
@@ -19,7 +22,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmpjgenc, the reading in full of Pittis &
+    Filed Proposed from NOTE-1240, the reading in full of Pittis &
     Gabaldón (2016) from the PubMed Central author manuscript. The
     ordering is a statistical result on 1,064 families. Its reading as an
     order of acquisition rests on an assumed relation between rates
@@ -34,7 +37,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Pittis & Gabaldón (2016), [LIT-1595](../literature.d/LIT-1595.md), read in [NOTE-tmpjgenc](../notes.d/NOTE-tmpjgenc.md). Of 1,078
+  Pittis & Gabaldón (2016), [LIT-1595](../literature.d/LIT-1595.md), read in [NOTE-1240](../notes.d/NOTE-1240.md). Of 1,078
   LECA families, bacterial ones have shorter normalized stems than
   archaeal ones (P = 1.38e-25), and alphaproteobacterial ones shorter
   than other bacterial ones (P = 0.044). Origin tracks location:
@@ -45,14 +48,14 @@ summary: >-
   chimaeric host could have come from partners or from transfer, which
   the paper cannot tell apart.
 ---
-<!-- inactive-ok-file: QUESTION-277 NOTE-tmpjgenc THEORY-tmp5wptr — Open, Deferred, Proposed or unmerged; the question this answers in part, the reading it comes from and the dating study set beside it, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 NOTE-1240 THEORY-1099 — Open, Deferred, Proposed or unmerged; the question this answers in part, the reading it comes from and the dating study set beside it, nothing here rests on them -->
 
-# THEORY-tmpckv2l: On Pittis and Gabaldón's stem-length analysis of the LECA proteome, families of alphaproteobacterial origin and mitochondrial location sit closer to their prokaryotic relatives, after correction for each family's rate, than families of other bacterial origin, which sit closer than archaeal families, and the authors read this as late acquisition of the mitochondrion by a host whose proteome was already chimaeric; the reading of length as time assumes proportional rates before and after LECA, the alphaproteobacterial difference from other bacteria is marginal, and stem length also shortens when a closer relative is sampled
+# THEORY-1102: On Pittis and Gabaldón's stem-length analysis of the LECA proteome, families of alphaproteobacterial origin and mitochondrial location sit closer to their prokaryotic relatives, after correction for each family's rate, than families of other bacterial origin, which sit closer than archaeal families, and the authors read this as late acquisition of the mitochondrion by a host whose proteome was already chimaeric; the reading of length as time assumes proportional rates before and after LECA, the alphaproteobacterial difference from other bacteria is marginal, and stem length also shortens when a closer relative is sampled
 
 ## Source
 
 Pittis & Gabaldón (2016), *Nature* 531: 101–104, [LIT-1595](../literature.d/LIT-1595.md), read in full
-in [NOTE-tmpjgenc](../notes.d/NOTE-tmpjgenc.md) from the PubMed Central author manuscript (PMC4780264),
+in [NOTE-1240](../notes.d/NOTE-1240.md) from the PubMed Central author manuscript (PMC4780264),
 not the version of record. The main text, the Methods ("Measurement of
 the phylogenetic distance ...: stem lengths" above all), Table 1, and
 the captions of Figures 1–3 and Extended Data Figures 1–8.
@@ -112,7 +115,7 @@ narrow.
   a sequence. It is evidence that genes from several bacterial sources
   reached the host lineage before the mitochondrion, by partners or by
   transfer. It does not address D, R, C or S.
-- **[LIT-1566](../literature.d/LIT-1566.md) ([THEORY-tmp5wptr](THEORY-tmp5wptr.md)).** Kay et al. agree that the
+- **[LIT-1566](../literature.d/LIT-1566.md) ([THEORY-1099](THEORY-1099.md)).** Kay et al. agree that the
   mitochondrion came late, by dating duplications with a relaxed clock.
   They find most non-alphaproteobacterial duplications after the
   mitochondrion and argue against serial endosymbiosis. Duplication is

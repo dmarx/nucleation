@@ -1,5 +1,8 @@
 ---
+number: 1108
 status: Proposed
+formerly:
+- THEORY-tmpyig9c
 promote_when: >-
   Physiology, not gene content, from Asgard lineages other than the
   Lokiarchaeota, and above all from those placed closest to eukaryotes:
@@ -17,7 +20,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmpeb08c, the reading in full of Imachi et
+    Filed Proposed from NOTE-1238, the reading in full of Imachi et
     al. (2020) from the PubMed Central copy of the version of record.
     The physiology of MK-D1 is shown experimentally. The extension to
     the Asgard ancestor rests on gene presence in metagenome-assembled
@@ -32,7 +35,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Imachi et al. (2020), [LIT-1591](../literature.d/LIT-1591.md), read in [NOTE-tmpeb08c](../notes.d/NOTE-tmpeb08c.md). Partner
+  Imachi et al. (2020), [LIT-1591](../literature.d/LIT-1591.md), read in [NOTE-1238](../notes.d/NOTE-1238.md). Partner
   inhibitors impair MK-D1's growth, added hydrogen or formate stops it,
   and it grows with either of two methanogens, so its dependence is on a
   service that several partners can supply. Cryo-EM and TEM show no
@@ -42,14 +45,14 @@ summary: >-
   individuality may have begun from a host already dependent on others,
   with no partner specificity, cohesion or control.
 ---
-<!-- inactive-ok-file: QUESTION-277 LIT-1597 THEORY-1048 NOTE-tmpeb08c THEORY-tmp5wptr — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works and account set beside it, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1597 THEORY-1048 NOTE-1238 THEORY-1099 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works and account set beside it, nothing here rests on them -->
 
-# THEORY-tmpyig9c: On Imachi and colleagues' cultivation of Candidatus Prometheoarchaeum syntrophicum MK-D1, the first Asgard archaeon grown in the laboratory is a small, internally simple coccus with long branching protrusions that degrades amino acids only in syntrophy, handing hydrogen and formate to partners that can be exchanged, and from its genome and other Asgard genomes the authors infer that the Asgard ancestor was likewise dependent on metabolic partners; the isolate is a modern relative separated from the host lineage by about two billion years, grown only in co-culture, and the entangle–engulf–endogenize model built on it is a hypothesis the authors call not definitive
+# THEORY-1108: On Imachi and colleagues' cultivation of Candidatus Prometheoarchaeum syntrophicum MK-D1, the first Asgard archaeon grown in the laboratory is a small, internally simple coccus with long branching protrusions that degrades amino acids only in syntrophy, handing hydrogen and formate to partners that can be exchanged, and from its genome and other Asgard genomes the authors infer that the Asgard ancestor was likewise dependent on metabolic partners; the isolate is a modern relative separated from the host lineage by about two billion years, grown only in co-culture, and the entangle–engulf–endogenize model built on it is a hypothesis the authors call not definitive
 
 ## Source
 
 Imachi et al. (2020), *Nature* 577: 519–525, [LIT-1591](../literature.d/LIT-1591.md), read in full in
-[NOTE-tmpeb08c](../notes.d/NOTE-tmpeb08c.md) from the PubMed Central copy of the version of record.
+[NOTE-1238](../notes.d/NOTE-1238.md) from the PubMed Central copy of the version of record.
 "Isolation of an Asgard archaeon", "Cell biology, physiology and
 metabolism", "Extant and ancestral features", "New insights into
 eukaryogenesis", the Methods, the captions of Figures 1–5, and Extended
@@ -109,7 +112,7 @@ from genomes expected. It did not.
   function others supply. E3's host-side loss of 2-oxoacid catabolism
   is loss of a function the symbiont supplies, inside a partnership and
   through a dedicated carrier. The comparison is mine.
-- **[LIT-1566](../literature.d/LIT-1566.md) ([THEORY-tmp5wptr](THEORY-tmp5wptr.md)).** Kay et al. infer a host already
+- **[LIT-1566](../literature.d/LIT-1566.md) ([THEORY-1099](THEORY-1099.md)).** Kay et al. infer a host already
   elaborating its cytoskeleton and endomembranes before the
   mitochondrion. They cite this isolate as prokaryote-like in size and
   complexity and do not take it as contrary evidence.

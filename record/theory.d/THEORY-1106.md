@@ -1,5 +1,8 @@
 ---
+number: 1106
 status: Proposed
+formerly:
+- THEORY-tmpjel7l
 promote_when: >-
   Titres of Hodgkinia and Sulcia transmitted to eggs, measured by one
   method across many cicada species with known numbers of Hodgkinia
@@ -17,7 +20,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmp6a57o, the reading in full of Campbell
+    Filed Proposed from NOTE-1235, the reading in full of Campbell
     et al. (2018) from the PubMed Central copy. The rise in titre is
     significant for one species, Magicicada septendecim, among four
     compared, five or six eggs each, with no phylogenetic control. The
@@ -33,7 +36,7 @@ answers:
 - QUESTION-277
 summary: >-
   Campbell, Łukasik, Meyer, Buckner, Simon, Veloso, Michalik & McCutcheon
-  (2018), [LIT-1590](../literature.d/LIT-1590.md), read in [NOTE-tmp6a57o](../notes.d/NOTE-tmp6a57o.md). Measured: Hodgkinia cells per
+  (2018), [LIT-1590](../literature.d/LIT-1590.md), read in [NOTE-1235](../notes.d/NOTE-1235.md). Measured: Hodgkinia cells per
   egg from 4,889 in a single-lineage cicada to 30,154 in M. septendecim,
   with Sulcia at 2,572 to 5,643; marker genotypes present in every egg
   sampled; the same route under the light microscope. Not shown: a trend
@@ -41,14 +44,14 @@ summary: >-
   The authors also speculate that a larger transmitted population weakens
   bottlenecks and could feed further splitting.
 ---
-<!-- inactive-ok-file: NOTE-tmp6a57o — filed with this account, not yet merged -->
+<!-- inactive-ok-file: NOTE-1235 — filed with this account, not yet merged -->
 <!-- inactive-ok-file: QUESTION-277 CASE-177 THEORY-1049 LIT-1563 LIT-1586 LIT-1612 LIT-1602 — Open, Proposed or Unfetched; the question, case, account and unread works this is set beside, nothing here rests on them -->
-# THEORY-tmpjel7l: On Campbell and colleagues' comparison of cicadas, hosts whose endosymbiont Hodgkinia has split into many interdependent lineages compensate by sending more Hodgkinia cells to each egg, up to about six times as many, with Sulcia numbers and the transmission route unchanged, so that every egg still receives every lineage; the authors take the raised titre as a host adaptation driven by the symbiont's fragmentation and a cost of it
+# THEORY-1106: On Campbell and colleagues' comparison of cicadas, hosts whose endosymbiont Hodgkinia has split into many interdependent lineages compensate by sending more Hodgkinia cells to each egg, up to about six times as many, with Sulcia numbers and the transmission route unchanged, so that every egg still receives every lineage; the authors take the raised titre as a host adaptation driven by the symbiont's fragmentation and a cost of it
 
 ## Source
 
 Campbell, Łukasik, Meyer, Buckner, Simon, Veloso, Michalik & McCutcheon
-(2018), *mBio* 9(6): e02104-18, [LIT-1590](../literature.d/LIT-1590.md), read in full in [NOTE-tmp6a57o](../notes.d/NOTE-tmp6a57o.md)
+(2018), *mBio* 9(6): e02104-18, [LIT-1590](../literature.d/LIT-1590.md), read in full in [NOTE-1235](../notes.d/NOTE-1235.md)
 from the PubMed Central copy (PMC6234865). The four results subsections,
 the discussion, Figures 1–4 from their captions, Table 1, and the
 methods with their caveats.

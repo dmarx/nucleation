@@ -1,5 +1,8 @@
 ---
+number: 1109
 status: Proposed
+formerly:
+- THEORY-tmpyr6q4
 promote_when: >-
   For the composition: the Asgard contributions to glycolysis and the
   pentose phosphate pathway recovered with stronger support, in trees
@@ -20,7 +23,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmphab0m, the reading in full of the PubMed
+    Filed Proposed from NOTE-1239, the reading in full of the PubMed
     Central copy of Santana-Molina et al. (2025). The composition rests on
     64 single-gene trees, several weakly supported, all in a supplement not
     read here. The syntrophy reading goes beyond what the composition can
@@ -35,7 +38,7 @@ answers:
 - QUESTION-277
 summary: >-
   Santana-Molina, Williams, Snel & Spang (2025), [LIT-1564](../literature.d/LIT-1564.md), read in
-  [NOTE-tmphab0m](../notes.d/NOTE-tmphab0m.md). LECA had a complete central carbon metabolism. Six enzymes
+  [NOTE-1239](../notes.d/NOTE-1239.md). LECA had a complete central carbon metabolism. Six enzymes
   are placed with Asgard archaea, mostly cytosolic (bootstrap 39–97%, two
   ambiguous). Seventeen are alphaproteobacterial, ten of them in the TCA
   cycle, mostly mitochondrial. Others come from several bacteria, none
@@ -44,14 +47,14 @@ summary: >-
   as support for syntrophy; it does not discriminate syntrophy from other
   symbiogenetic models.
 ---
-<!-- inactive-ok-file: NOTE-tmphab0m THEORY-tmpfoo2c THEORY-tmphywi5 NOTE-tmpe5t7q — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
+<!-- inactive-ok-file: NOTE-1239 THEORY-1104 THEORY-1105 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1591 LIT-1597 — Open, Deferred or Unavailable; the question this bears on and unread works it is set beside, nothing here rests on them -->
-# THEORY-tmpyr6q4: Santana-Molina, Williams, Snel and Spang find that the last eukaryotic common ancestor's central carbon metabolism was chimeric: a few Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate pathway, most alphaproteobacterial ones in the mitochondrial TCA cycle and pyruvate conversion, and others from various bacteria with no third dominant donor, since remodelled by loss, horizontal replacement and retargeting so that compartment no longer follows origin; the authors take the cytosol–mitochondrion split as support for syntrophy, but it is what any archaeal-host, bacterial-endosymbiont origin would leave
+# THEORY-1109: Santana-Molina, Williams, Snel and Spang find that the last eukaryotic common ancestor's central carbon metabolism was chimeric: a few Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate pathway, most alphaproteobacterial ones in the mitochondrial TCA cycle and pyruvate conversion, and others from various bacteria with no third dominant donor, since remodelled by loss, horizontal replacement and retargeting so that compartment no longer follows origin; the authors take the cytosol–mitochondrion split as support for syntrophy, but it is what any archaeal-host, bacterial-endosymbiont origin would leave
 
 ## Source
 
 Santana-Molina, Williams, Snel & Spang (2025), *Nature Ecology & Evolution*
-9(4): 613–627, [LIT-1564](../literature.d/LIT-1564.md), read in full in [NOTE-tmphab0m](../notes.d/NOTE-tmphab0m.md) from the PubMed
+9(4): 613–627, [LIT-1564](../literature.d/LIT-1564.md), read in full in [NOTE-1239](../notes.d/NOTE-1239.md) from the PubMed
 Central copy (PMC11976288). The Results, the Discussion, Methods, Figures 1–5
 and Extended Data Figures 1–7, read from captions.
 
@@ -108,12 +111,12 @@ and compartments. In the main they are not.
 
 ## Connections
 
-- **[THEORY-tmpfoo2c](THEORY-tmpfoo2c.md) (Tobiasson et al.): compatible, with a tension.** Both
+- **[THEORY-1104](THEORY-1104.md) (Tobiasson et al.): compatible, with a tension.** Both
   find the alphaproteobacterial share centred on the mitochondrion.
   Tobiasson et al. find Asgard leading across most of metabolism, and this
   paper counts more alphaproteobacterial enzymes in carbon metabolism. The
   measures differ.
-- **[THEORY-tmphywi5](THEORY-tmphywi5.md) (Bernabeu et al.): compatible on the presence of the
+- **[THEORY-1105](THEORY-1105.md) (Bernabeu et al.): compatible on the presence of the
   other donors, rival on their rank.** The phyla Bernabeu et al. call major
   donors appear here as sisters to a few enzymes. This paper finds no third
   dominant donor. Sixty-four families is too few to rank donors, so the

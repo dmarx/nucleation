@@ -1,5 +1,8 @@
 ---
+number: 1101
 status: Proposed
+formerly:
+- THEORY-tmpbinho
 promote_when: >-
   A test of normalized stem length on eukaryotic gene sets whose
   acquisition times are known independently to be equal or to differ, such
@@ -20,7 +23,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmppkn6v, the reading in full of the PubMed
+    Filed Proposed from NOTE-1242, the reading in full of the PubMed
     Central copy of Tobiasson et al. (2026). The observations are shown on
     the paper's data, with 20 technical replicates. The proposed cause,
     post-acquisition adaptation, is suggested and only "at least partially
@@ -35,7 +38,7 @@ source:
 answers:
 - QUESTION-277
 summary: >-
-  Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md).
+  Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in [NOTE-1242](../notes.d/NOTE-1242.md).
   They test the stem-length method of Pittis and Gabaldón on their own
   trees and reproduce its mitochondrion-late signal only for long stems.
   Below 0.3, where 70% of stems lie, the order reverses, and genes
@@ -44,13 +47,13 @@ summary: >-
   the gene acquisition time". The paper still favours a late mitochondrion, on
   other grounds.
 ---
-<!-- inactive-ok-file: NOTE-tmppkn6v THEORY-tmpfoo2c THEORY-tmphywi5 NOTE-tmpe5t7q — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
+<!-- inactive-ok-file: NOTE-1242 THEORY-1104 THEORY-1105 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1566 LIT-1595 — Open or Deferred; the question this bears on and unread works it is set beside, nothing here rests on them -->
-# THEORY-tmpbinho: Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that normalized stem length does not behave as a clock of acquisition time: alphaproteobacterial stems are longer than Asgard ones for the 70% of stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation genes presumed acquired together vary by more than two orders of magnitude, and information-processing genes have short stems; they suggest that adaptation after acquisition lengthens stems, so that relative timings drawn from stem lengths alone, including mitochondrion-late orderings and transfer waves, are not supported by the method
+# THEORY-1101: Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that normalized stem length does not behave as a clock of acquisition time: alphaproteobacterial stems are longer than Asgard ones for the 70% of stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation genes presumed acquired together vary by more than two orders of magnitude, and information-processing genes have short stems; they suggest that adaptation after acquisition lengthens stems, so that relative timings drawn from stem lengths alone, including mitochondrion-late orderings and transfer waves, are not supported by the method
 
 ## Source
 
-Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in full in [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md).
+Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in full in [NOTE-1242](../notes.d/NOTE-1242.md).
 The section "Ancestral stem lengths", Figure 3 and its caption, and Extended
 Data Figure 10b,c, read from captions.
 
@@ -94,7 +97,7 @@ Neither happened on these data.
 
 - **Not that the mitochondrion came early.** The paper still holds that
   "mitochondrial acquisition was a relatively late event", on gene-content
-  grounds ([THEORY-tmpfoo2c](THEORY-tmpfoo2c.md)). It takes away one line of evidence for that
+  grounds ([THEORY-1104](THEORY-1104.md)). It takes away one line of evidence for that
   view, not the view.
 - **Not what does set stem length.** Post-acquisition adaptation is a
   suggestion. Rate variation along branches and unsampled donor lineages
@@ -109,7 +112,7 @@ Neither happened on these data.
 
 ## Connections
 
-- **[THEORY-tmphywi5](THEORY-tmphywi5.md) (Bernabeu et al.): rival.** Its ordering of transfer
+- **[THEORY-1105](THEORY-1105.md) (Bernabeu et al.): rival.** Its ordering of transfer
   waves, and its claim that some bacterial transfers preceded the
   mitochondrion, rest on stem lengths read as relative times. If this
   account holds, that ordering is not established by its method.

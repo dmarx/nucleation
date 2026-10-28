@@ -1,5 +1,8 @@
 ---
+number: 1107
 status: Proposed
+formerly:
+- THEORY-tmpkvjih
 promote_when: >-
   One lineage, or a set of related lineages at different stages, in which
   the order is observed: host effector proteins targeted to the
@@ -19,7 +22,7 @@ history:
 - version: 1
   date: '2026-10-27'
   note: >-
-    Filed Proposed from NOTE-tmpl32gd, the reading in full of Sørensen,
+    Filed Proposed from NOTE-1241, the reading in full of Sørensen,
     Stiller, Kröninger & Nowack (2025). The authors call the scenario
     plausible "in the light of the available, though limited, data". No
     system has been followed through its steps, and the vertical-
@@ -36,7 +39,7 @@ answers:
 - QUESTION-277
 summary: >-
   Sørensen, Stiller, Kröninger & Nowack (2025), [LIT-1560](../literature.d/LIT-1560.md), read in
-  [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md). Their closing scenario orders the steps from
+  [NOTE-1241](../notes.d/NOTE-1241.md). Their closing scenario orders the steps from
   endosymbiont to organelle: effectors first, then dependence through
   one redundant imported protein, then many imported proteins once a
   targeting signal evolves. Rhizobia, targeted by about 700 host peptides
@@ -44,15 +47,15 @@ summary: >-
   integration. It is a scenario built from systems at different stages,
   not a sequence observed in any one.
 ---
-<!-- inactive-ok-file: NOTE-tmpl32gd — the reading filed with this, not yet merged -->
+<!-- inactive-ok-file: NOTE-1241 — the reading filed with this, not yet merged -->
 <!-- inactive-ok-file: QUESTION-277 CASE-167 THEORY-1049 THEORY-1050 THEORY-1051 LIT-1605 — Open, Proposed or Unavailable; the question, cases, accounts and unread work set beside this, nothing here rests on them -->
 
-# THEORY-tmpkvjih: On Sørensen and colleagues' scenario, an endosymbiont becomes an organelle in steps: the host first targets effector proteins into it; an imported host protein redundant with one of its functions then lets the endosymbiont's own gene decay, making it dependent; and a general import pathway, once evolved, brings in hundreds of proteins; this genetic integration arises only in permanent, vertically transmitted associations, and host effector control without vertical transmission, as in rhizobia, does not lead to it
+# THEORY-1107: On Sørensen and colleagues' scenario, an endosymbiont becomes an organelle in steps: the host first targets effector proteins into it; an imported host protein redundant with one of its functions then lets the endosymbiont's own gene decay, making it dependent; and a general import pathway, once evolved, brings in hundreds of proteins; this genetic integration arises only in permanent, vertically transmitted associations, and host effector control without vertical transmission, as in rhizobia, does not lead to it
 
 ## Source
 
 Sørensen, Stiller, Kröninger & Nowack (2025), *The FEBS Journal*
-292(12): 2992–3013, [LIT-1560](../literature.d/LIT-1560.md), read in full in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md) from the
+292(12): 2992–3013, [LIT-1560](../literature.d/LIT-1560.md), read in full in [NOTE-1241](../notes.d/NOTE-1241.md) from the
 PubMed Central copy. The rhizobia section's last paragraph, and the
 fourth paragraph of "Conclusions and future directions".
 

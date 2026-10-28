@@ -29,7 +29,7 @@ reported_in:
 summary: >-
   In some Tettigades cicadas, the endosymbiont Hodgkinia split into two cell lineages with almost perfectly complementary gene sets, the functionality of one ([LIT-1563](../literature.d/LIT-1563.md)), and it has done so at least six times in the genus ([LIT-1586](../literature.d/LIT-1586.md)). In Magicicada it fragmented into twenty or more genomic circles per species ([LIT-1612](../literature.d/LIT-1612.md), [LIT-1602](../literature.d/LIT-1602.md)). Hosts compensate by transmitting more cells to each egg ([LIT-1590](../literature.d/LIT-1590.md)). Used as the case where dependence and the number of parts grow with no new collective function, and the host pays.
 ---
-<!-- inactive-ok-file: THEORY-tmpjel7l NOTE-tmp6a57o LIT-1586 LIT-1602 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: THEORY-1106 NOTE-1235 LIT-1586 LIT-1602 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1563 LIT-1586 LIT-1612 LIT-1602 LIT-1590 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
@@ -75,7 +75,7 @@ abstracts until they are read.
 
 ## Note of 2026-10-27 (batch 2): the transmission paper read in full
 
-[LIT-1590](../literature.d/LIT-1590.md) has been read in full ([NOTE-tmp6a57o](../notes.d/NOTE-tmp6a57o.md), [THEORY-tmpjel7l](../theory.d/THEORY-tmpjel7l.md)).
+[LIT-1590](../literature.d/LIT-1590.md) has been read in full ([NOTE-1235](../notes.d/NOTE-1235.md), [THEORY-1106](../theory.d/THEORY-1106.md)).
 Corrections to "The host's cost" and "What it can show":
 
 - **The six-fold rise is one species.** It compares *M. septendecim*

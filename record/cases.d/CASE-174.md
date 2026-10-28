@@ -24,7 +24,7 @@ reported_in:
 summary: >-
   The amoeba Paulinella chromatophora's chromatophores descend from a cyanobacterium taken up about 60 million years ago, independently of the plastids. Their genome kept 26% of a free-living relative's genes and lacks essential pathways ([LIT-1621](../literature.d/LIT-1621.md)). Genes transferred to the nucleus make proteins that are imported into the chromatophores ([LIT-1557](../literature.d/LIT-1557.md)), and import is reviewed across systems in [LIT-1560](../literature.d/LIT-1560.md). Used as the case where host control emerges by gene transfer and import.
 ---
-<!-- inactive-ok-file: THEORY-tmp74xnn NOTE-tmpl32gd — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: THEORY-1100 NOTE-1241 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1621 LIT-1557 LIT-1560 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
@@ -65,7 +65,7 @@ abstracts until they are read.
 
 ## Note of 2026-10-27 (batch 2): the review read
 
-Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)) update the figures this
+Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in [NOTE-1241](../notes.d/NOTE-1241.md)) update the figures this
 case takes from its unread sources:
 
 - **Acquisition date.** "~ 90–140 million years ago". [LIT-1557](../literature.d/LIT-1557.md)'s 60
@@ -77,7 +77,7 @@ case takes from its unread sources:
   from other bacteria.
 - **Imported proteins.** They number "hundreds", "mostly from the host
   itself". The review says transfer played "only a circumstantial role"
-  ([THEORY-tmp74xnn](../theory.d/THEORY-tmp74xnn.md)). So the previous title's "more than thirty genes moved
+  ([THEORY-1100](../theory.d/THEORY-1100.md)). So the previous title's "more than thirty genes moved
   to the host nucleus and their proteins imported back" overstated
   transfer, and the title is revised.
 - **The subunits.** The review names two transferred photosystem I

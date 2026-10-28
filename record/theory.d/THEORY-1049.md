@@ -49,7 +49,7 @@ summary: >-
   they no longer encode. The host's role is inferred, not shown: the
   mechanisms are, in the paper's word, mysteries.
 ---
-<!-- inactive-ok-file: NOTE-tmpl32gd NOTE-tmp82xw1 — readings of 2026-10-27, filed in the same contribution and cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: NOTE-1241 NOTE-1236 — readings of 2026-10-27, filed in the same contribution and cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: QUESTION-277 CASE-173 CASE-171 CASE-174 LIT-1559 LIT-1560 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
 # THEORY-1049: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
 
@@ -120,7 +120,7 @@ threshold, or scattered across functions, not concerted.
 Two readings sharpen what this account rests on.
 
 - **Where the imported proteins are.** Sørensen et al. ([LIT-1560](../literature.d/LIT-1560.md), read in
-  [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md)) identify the host-encoded proteins seen inside insect
+  [NOTE-1241](../notes.d/NOTE-1241.md)) identify the host-encoded proteins seen inside insect
   symbionts:
   - RlpA4 in *Buchnera* (0.64 Mbp);
   - MurF in *Moranella* (0.54 Mbp);
@@ -132,6 +132,6 @@ Two readings sharpen what this account rests on.
   tipping-point endosymbionts remains inferred, as "What this does not say"
   states.
 - **Envelope erosion starts early.** The *Buchnera* APS genome ([LIT-1596](../literature.d/LIT-1596.md),
-  read in [NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md)) has already lost phospholipid and LPS synthesis
+  read in [NOTE-1236](../notes.d/NOTE-1236.md)) has already lost phospholipid and LPS synthesis
   at 641 kb. That is consistent with this account's remark that envelope
   erosion begins in larger genomes, and that 400 kb marks complete loss.

@@ -41,7 +41,7 @@ summary: >-
   which of them a theory of individuality must require. All the works cited
   are filed unread.
 ---
-<!-- inactive-ok-file: THEORY-tmp74xnn THEORY-tmpkvjih THEORY-tmp247k7 THEORY-tmpehubi THEORY-tmpjel7l THEORY-tmp5wptr THEORY-tmpckv2l THEORY-tmpyig9c THEORY-tmpfoo2c THEORY-tmpbinho THEORY-tmphywi5 THEORY-tmpyr6q4 NOTE-tmpl32gd NOTE-tmpuq8at NOTE-tmp82xw1 NOTE-tmp6a57o NOTE-tmp2el8z NOTE-tmpjgenc NOTE-tmpeb08c NOTE-tmppkn6v NOTE-tmpe5t7q NOTE-tmphab0m LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: THEORY-1100 THEORY-1107 THEORY-1098 THEORY-1103 THEORY-1106 THEORY-1099 THEORY-1102 THEORY-1108 THEORY-1104 THEORY-1101 THEORY-1105 THEORY-1109 NOTE-1241 NOTE-1243 NOTE-1236 NOTE-1235 NOTE-1234 NOTE-1240 NOTE-1238 NOTE-1242 NOTE-1237 NOTE-1239 LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: THEORY-1048 THEORY-1049 THEORY-1050 THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (readings) -->
 
 <!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 LIT-1225 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
@@ -221,8 +221,8 @@ LITs).
 
 **Routes.**
 
-- **Transfer and import is mostly import** ([LIT-1560](../literature.d/LIT-1560.md), [NOTE-tmpl32gd](../notes.d/NOTE-tmpl32gd.md),
-  [THEORY-tmp74xnn](../theory.d/THEORY-tmp74xnn.md)). In the two systems with import at scale:
+- **Transfer and import is mostly import** ([LIT-1560](../literature.d/LIT-1560.md), [NOTE-1241](../notes.d/NOTE-1241.md),
+  [THEORY-1100](../theory.d/THEORY-1100.md)). In the two systems with import at scale:
   - the *Paulinella* chromatophore imports hundreds of proteins, "mostly
     from the host itself", and transfer from the symbiont played "only a
     circumstantial role";
@@ -233,7 +233,7 @@ LITs).
   are imported back") is wrong as stated. Import moves C and G without the
   symbiont's genes moving, and it shares third-party genes with the
   host-compensation route.
-- **An order to test** ([THEORY-tmpkvjih](../theory.d/THEORY-tmpkvjih.md)). Sørensen et al. propose:
+- **An order to test** ([THEORY-1107](../theory.d/THEORY-1107.md)). Sørensen et al. propose:
   - host effectors first (C);
   - then dependence (D), when one redundant imported protein lets the
     symbiont's gene decay;
@@ -244,20 +244,20 @@ LITs).
   reverses the insect order of [THEORY-1049](../theory.d/THEORY-1049.md), where the symbiont's losses
   come first. Neither order has been watched in one lineage.
 - **Complementary loss moves G and the symbiont's D, not C** ([LIT-1596](../literature.d/LIT-1596.md),
-  [NOTE-tmp82xw1](../notes.d/NOTE-tmp82xw1.md), [THEORY-tmpehubi](../theory.d/THEORY-tmpehubi.md)). *Buchnera* keeps the pathways for the
+  [NOTE-1236](../notes.d/NOTE-1236.md), [THEORY-1103](../theory.d/THEORY-1103.md)). *Buchnera* keeps the pathways for the
   amino acids its host cannot make, and builds them on host-made
   precursors. It has lost its own regulators, which is not the same as
   being regulated. The genome paper names no mechanism of reduction; drift
   is [LIT-1573](../literature.d/LIT-1573.md)'s account, which is Unfetched.
 - **Host compensation maintains R, perhaps at a cost to C and S**
-  ([LIT-1590](../literature.d/LIT-1590.md), [NOTE-tmp6a57o](../notes.d/NOTE-tmp6a57o.md), [THEORY-tmpjel7l](../theory.d/THEORY-tmpjel7l.md)). Cicadas send more *Hodgkinia*
+  ([LIT-1590](../literature.d/LIT-1590.md), [NOTE-1235](../notes.d/NOTE-1235.md), [THEORY-1106](../theory.d/THEORY-1106.md)). Cicadas send more *Hodgkinia*
   cells per egg as the symbiont splits, so every lineage still reaches
   every egg. The authors speculate that larger transmitted populations
   weaken bottlenecks and host control. If so, keeping R costs S, and an
   answer must say how the dimensions trade off. The rise is significant in
   one species of four.
-- **Integration undone in steps** ([LIT-1574](../literature.d/LIT-1574.md), [NOTE-tmpuq8at](../notes.d/NOTE-tmpuq8at.md),
-  [THEORY-tmp247k7](../theory.d/THEORY-tmp247k7.md)). *Monocercomonoides* lost its mitochondrion only after
+- **Integration undone in steps** ([LIT-1574](../literature.d/LIT-1574.md), [NOTE-1243](../notes.d/NOTE-1243.md),
+  [THEORY-1098](../theory.d/THEORY-1098.md)). *Monocercomonoides* lost its mitochondrion only after
   the organelle's essential jobs went one at a time. First, Fe–S assembly
   moved to a SUF system that relatives with organelles share. Then the
   glycine cleavage system was lost. This is host compensation with a third
@@ -280,31 +280,31 @@ associations". The readings change that.
 - **All three accept one endosymbiosis**, an Asgard-related host with an
   alphaproteobacterium. All three also accept bacterial genes from other
   donors, some before the mitochondrion ([LIT-1566](../literature.d/LIT-1566.md), [LIT-1558](../literature.d/LIT-1558.md), [LIT-1561](../literature.d/LIT-1561.md),
-  read in [NOTE-tmp2el8z](../notes.d/NOTE-tmp2el8z.md), [NOTE-tmppkn6v](../notes.d/NOTE-tmppkn6v.md), [NOTE-tmpe5t7q](../notes.d/NOTE-tmpe5t7q.md)).
+  read in [NOTE-1234](../notes.d/NOTE-1234.md), [NOTE-1242](../notes.d/NOTE-1242.md), [NOTE-1237](../notes.d/NOTE-1237.md)).
 - **Tobiasson et al. are themselves mitochondrion-late**, so they agree
-  with Kay et al. on order ([THEORY-tmpfoo2c](../theory.d/THEORY-tmpfoo2c.md)). Kay et al. argue against
-  serial endosymbiosis ([THEORY-tmp5wptr](../theory.d/THEORY-tmp5wptr.md)).
+  with Kay et al. on order ([THEORY-1104](../theory.d/THEORY-1104.md)). Kay et al. argue against
+  serial endosymbiosis ([THEORY-1099](../theory.d/THEORY-1099.md)).
 - **The live dispute is between Tobiasson and Bernabeu.** Are the other
   bacterial genes diffuse transfers or a few major donors in waves? And
   can stem lengths time acquisitions at all? Tobiasson et al.'s own test
-  says mostly not ([THEORY-tmpbinho](../theory.d/THEORY-tmpbinho.md)), while Bernabeu et al.'s waves rest
-  on them ([THEORY-tmphywi5](../theory.d/THEORY-tmphywi5.md)). Pittis and Gabaldón's mito-late order rests
-  on the same measure ([LIT-1595](../literature.d/LIT-1595.md), [NOTE-tmpjgenc](../notes.d/NOTE-tmpjgenc.md), [THEORY-tmpckv2l](../theory.d/THEORY-tmpckv2l.md)).
+  says mostly not ([THEORY-1101](../theory.d/THEORY-1101.md)), while Bernabeu et al.'s waves rest
+  on them ([THEORY-1105](../theory.d/THEORY-1105.md)). Pittis and Gabaldón's mito-late order rests
+  on the same measure ([LIT-1595](../literature.d/LIT-1595.md), [NOTE-1240](../notes.d/NOTE-1240.md), [THEORY-1102](../theory.d/THEORY-1102.md)).
 - **No donor is shown to be a partner.** Bernabeu et al. say their data
   "do not provide information on the host or endosymbiotic nature of any
   partner". So "distributed" means distributed gene donors, not a series
   of collectives. For this question, the eukaryogenesis papers bear on G
   and not on R or S.
 - **The metabolism is chimeric, but that does not single out syntrophy**
-  ([LIT-1564](../literature.d/LIT-1564.md), [NOTE-tmphab0m](../notes.d/NOTE-tmphab0m.md), [THEORY-tmpyr6q4](../theory.d/THEORY-tmpyr6q4.md)). Any archaeal host taking up
+  ([LIT-1564](../literature.d/LIT-1564.md), [NOTE-1239](../notes.d/NOTE-1239.md), [THEORY-1109](../theory.d/THEORY-1109.md)). Any archaeal host taking up
   a bacterium with a TCA cycle predicts the split. The paper adds an
   instance of C: enzymes of non-alphaproteobacterial origin now work
   inside the mitochondrion. It also offers, as a possibility, a mechanism
   the routes above do not name: host genes duplicated and sent into the
   organelle "might have promoted the genome reduction of the
   endosymbiont".
-- **A dependence before any endosymbiosis** ([LIT-1591](../literature.d/LIT-1591.md), [NOTE-tmpeb08c](../notes.d/NOTE-tmpeb08c.md),
-  [THEORY-tmpyig9c](../theory.d/THEORY-tmpyig9c.md)). The cultured Asgard archaeon grows only with
+- **A dependence before any endosymbiosis** ([LIT-1591](../literature.d/LIT-1591.md), [NOTE-1238](../notes.d/NOTE-1238.md),
+  [THEORY-1108](../theory.d/THEORY-1108.md)). The cultured Asgard archaeon grows only with
   interchangeable methanogen partners. That is high D with no R and no C:
   interdependence without individuality at the start of the story. In the
   authors' E3 model the host makes the hydrogen, and they favour an
