@@ -7,7 +7,7 @@ status_note: >-
   item (access-restricted), which this client cannot borrow. The book
   has no DOI and no open edition was found. No NOTE is filed. It stays
   Unavailable until a copy is supplied: a lawful copy exists, as a
-  lending item (ADR-041).
+  lending item ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Rediscovering the Social Group: A Self-Categorization Theory'
 version: 1
 history:
