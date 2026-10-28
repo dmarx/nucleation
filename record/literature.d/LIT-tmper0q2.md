@@ -1,15 +1,21 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-28, not read. Filed at the owner's request after a look at
-  the record found nothing on self-categorization theory. No NOTE is filed.
+  filed 2026-10-28; reading attempted the same day, no lawful copy
+  reached. The Internet Archive holds the 1987 Blackwell printing
+  (rediscoveringsoc0000turn, 266 images) only as a controlled-lending
+  item (access-restricted), which this client cannot borrow. The book
+  has no DOI and no open edition was found. No NOTE is filed. It stays
+  Unavailable until a copy is supplied: a lawful copy exists, as a
+  lending item (ADR-041).
 title: 'Rediscovering the Social Group: A Self-Categorization Theory'
 version: 1
 history:
 - version: 1
   date: '2026-10-28'
   note: >-
-    Filed, not read. Citation checked against Open Library on 2026-10-28
+    Filed Deferred, then set Unavailable before merge after a
+    search for a lawful copy on 2026-10-28 (ADR-041). Citation checked against Open Library on 2026-10-28
     (edition OL2720297M: Oxford and New York, B. Blackwell, 1987, 239 pp.,
     ISBN 063114806X, LCCN 86013704). The URL is that LCCN record. The book
     has no DOI; a Crossref search finds only its reviews. `published:` is

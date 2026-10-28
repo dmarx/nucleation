@@ -1,15 +1,20 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-28, not read. Filed at the owner's request after a look at
-  the record found nothing on self-categorization theory. No NOTE is filed.
+  filed 2026-10-28; reading attempted the same day, no lawful copy
+  reached. OpenAlex and Unpaywall list it as closed, with no repository
+  copy; SAGE's version is paywalled. A web search found no author or
+  repository copy (UQ eSpace and ANU Open Research were tried by name),
+  only abstract mirrors and a university web-proxy of the SAGE page. No
+  NOTE is filed. It stays Unavailable until a copy is supplied.
 title: 'Self and Collective: Cognition and Social Context'
 version: 1
 history:
 - version: 1
   date: '2026-10-28'
   note: >-
-    Filed, not read. Citation checked against Crossref on 2026-10-28:
+    Filed Deferred, then set Unavailable before merge after a
+    search for a lawful copy on 2026-10-28 (ADR-041). Citation checked against Crossref on 2026-10-28:
     Turner, Oakes, Haslam and McGarty, Personality and Social Psychology
     Bulletin 20(5), 454–463. Crossref gives October 1994 only, so
     `published:` is 1994-10-01 and means October 1994 (ADR-002). The

@@ -1,15 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-28, not read. Filed at the owner's request after a look at
-  the record found nothing on self-categorization theory. No NOTE is filed.
+  filed 2026-10-28; reading attempted the same day, no lawful copy
+  reached. OpenAlex and Unpaywall list it as closed, with no repository
+  copy, and Wiley's version is paywalled. A search found no copy on UQ
+  eSpace or an author page. A copy of the published PDF is posted on a
+  Democritus University of Thrace course page (eclass.duth.gr/modules/do
+  cument/file.php/ALEX037108/Hornsey%20M_Social%20identity%20theory_2008
+  .pdf); this session's permission policy refused the fetch as walled
+  content, and since its licence is in doubt it does not make the work
+  Unfetched (ADR-053). No NOTE is filed. It stays Unavailable until a
+  copy is supplied.
 title: 'Social Identity Theory and Self-categorization Theory: A Historical Review'
 version: 1
 history:
 - version: 1
   date: '2026-10-28'
   note: >-
-    Filed, not read. Citation checked against Crossref on 2026-10-28:
+    Filed Deferred, then set Unavailable before merge after a
+    search for a lawful copy on 2026-10-28 (ADR-041). Citation checked against Crossref on 2026-10-28:
     Matthew J. Hornsey, Social and Personality Psychology Compass 2(1),
     204–222. Crossref's earliest full date is published-online 2008-01-14
     (ADR-002). The summary follows the abstract on Crossref.
