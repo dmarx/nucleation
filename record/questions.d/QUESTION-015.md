@@ -21,10 +21,10 @@ answered_by:
 - CLAIM-027
 summary: >-
   The question the will paper answers, in its own words (Section 2).
-  Answered by CLAIM-027, Active since 2026-10-28: accessibility,
+  Answered by [CLAIM-027](../claims.d/CLAIM-027.md), Active since 2026-10-28: accessibility,
   precedence, persistence, jurisdiction, suspension and transformation.
   The intervention test that would show it across realizers is
-  CLAIM-027's defeated_if, not yet run.
+  [CLAIM-027](../claims.d/CLAIM-027.md)'s defeated_if, not yet run.
 refined_by:
 - QUESTION-034
 - QUESTION-062
@@ -56,13 +56,13 @@ different realizers (the intervention criterion, Section 3.8).
 
 ## Note of 2026-10-28: answered
 
-The status review of this date promoted CLAIM-027, which names the
+The status review of this date promoted [CLAIM-027](../claims.d/CLAIM-027.md), which names the
 relations: accessibility, precedence, persistence, jurisdiction,
 suspension and transformation, not reducible to the competing regimes'
 contents. So this question is Answered. What would count as an answer,
 above, is an intervention on those relations with the regimes held fixed,
 across realizers. The record holds the answer on argument, not on that
-intervention. The intervention is CLAIM-027's defeated_if, and ARG-009's
+intervention. The intervention is [CLAIM-027](../claims.d/CLAIM-027.md)'s defeated_if, and [ARG-009](../arguments.d/ARG-009.md)'s
 unanswered critical question, "Does changing R change anything else?", is
-where a failed test would show first. The refinements QUESTION-034,
-QUESTION-062 and QUESTION-066 stay as they are.
+where a failed test would show first. The refinements [QUESTION-034](QUESTION-034.md),
+[QUESTION-062](QUESTION-062.md) and [QUESTION-066](QUESTION-066.md) stay as they are.

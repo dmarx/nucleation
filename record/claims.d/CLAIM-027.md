@@ -66,7 +66,7 @@ summary: >-
   The paper's central thesis, Active since the status review of
   2026-10-28. The audit called it the strongest original contribution.
   The comparison with planning, executive control and institutional
-  decision procedures it owed is now owed by CLAIM-tmpnvpfe, the gain
+  decision procedures it owed is now owed by [CLAIM-tmpnvpfe](CLAIM-tmpnvpfe.md), the gain
   claim, which stays Proposed.
 supersedes:
 - CLAIM-012
@@ -201,7 +201,7 @@ fictional case, and leaves its own critical question unanswered: "Does
 changing R change anything else?" That is this claim's defeated_if,
 "holding the competing regimes fixed".
 
-The owner promoted it on the same review (ADR-057's fourth condition): its
+The owner promoted it on the same review ([ADR-057](../decisions.d/ADR-057.md)'s fourth condition): its
 premises are Active, no live objection stands, and nothing in the record
 meets its defeated_if. The two arguments stay Proposed. Their unanswered
 critical questions are what would demote this claim, so an intervention

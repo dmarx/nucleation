@@ -16,4 +16,4 @@
   [CLAIM-021](record/claims.d/CLAIM-021.md) now complements [CLAIM-024](record/claims.d/CLAIM-024.md) rather than objecting to it.
 - **Blockers recorded:** [THEORY-067](record/theory.d/THEORY-067.md), [CLAIM-169](record/claims.d/CLAIM-169.md), [THEORY-162](record/theory.d/THEORY-162.md) and [CLAIM-004](record/claims.d/CLAIM-004.md).
 - **[ADR-058](record/decisions.d/ADR-058.md):** [THEORY-067](record/theory.d/THEORY-067.md) corroborates [CLAIM-344](record/claims.d/CLAIM-344.md), and [THEORY-162](record/theory.d/THEORY-162.md)
-  corroborates [CLAIM-061](record/claims.d/CLAIM-061.md) and CLAIM-363.
+  corroborates [CLAIM-061](record/claims.d/CLAIM-061.md) and [CLAIM-363](record/claims.d/CLAIM-363.md).

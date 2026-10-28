@@ -165,10 +165,10 @@ A8 §9 and A9 §9 of the exchange of 2026-10-20 reached this claim's
 structure for individuation, without citing it ("Observer-relative need
 not mean subjective"). That is filed as [CLAIM-405](CLAIM-405.md).
 
-## Note of 2026-10-28: THEORY-162 corroborates
+## Note of 2026-10-28: [THEORY-162](../theory.d/THEORY-162.md) corroborates
 
-The status review of this date moved THEORY-162 from grounds to
-corroborated_by (ADR-058). It is one of four illustrations of the general
-form, beside THEORY-220, THEORY-665 and THEORY-625, and the claim does not
-stand on dynamic semantics; THEORY-665 already carries the point for
+The status review of this date moved [THEORY-162](../theory.d/THEORY-162.md) from grounds to
+corroborated_by ([ADR-058](../decisions.d/ADR-058.md)). It is one of four illustrations of the general
+form, beside [THEORY-220](../theory.d/THEORY-220.md), [THEORY-665](../theory.d/THEORY-665.md) and [THEORY-625](../theory.d/THEORY-625.md), and the claim does not
+stand on dynamic semantics; [THEORY-665](../theory.d/THEORY-665.md) already carries the point for
 speech acts.
