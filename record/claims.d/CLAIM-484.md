@@ -1,5 +1,8 @@
 ---
+number: 484
 status: Proposed
+formerly:
+- CLAIM-tmpxb1wf
 title: 'Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it'
 version: 1
 role: thesis
@@ -21,7 +24,7 @@ line:
 rests_on:
 - CLAIM-283
 uses:
-- TERM-tmp3mqer
+- TERM-094
 summary: >-
   The second half of [CLAIM-283](CLAIM-283.md) version 1, split off by the status review of
   2026-10-27 ([ADR-057](../decisions.d/ADR-057.md)) and kept Proposed. Each of [CLAIM-283](CLAIM-283.md)'s four
@@ -34,7 +37,7 @@ summary: >-
   precedence.
 ---
 
-# CLAIM-tmpxb1wf: Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it
+# CLAIM-484: Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it
 
 ## The claim
 
@@ -44,7 +47,7 @@ to modeling internal conflict". [CLAIM-283](CLAIM-283.md) version 1 joined two t
 distinction itself, and the identification of internal conflict with the
 gap. The audit of 2026-10-23 (workbench entry of 2026-10-24) suggested
 separating them. This claim is the identification. A motive is in conflict
-with the organization when it claims more precedence ([TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md)) than
+with the organization when it claims more precedence ([TERM-094](../terms.d/TERM-094.md)) than
 it is granted, and the size of the conflict is the size of that gap. A34
 §3 of the exchange of 2026-10-17 wrote it p_i − w_i, "when the quantities
 have been defined on comparable scales".

@@ -61,7 +61,7 @@ complements:
 - CLAIM-440
 - CLAIM-439
 uses:
-- TERM-tmp3mqer
+- TERM-094
 - TERM-045
 works:
 - organization-of-perspective
@@ -288,7 +288,7 @@ own claim, [CLAIM-415](CLAIM-415.md), which complements this one.
 ## Note of 2026-10-27: the concept, not the account
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim from grounding
-in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md), Frijda's action readiness with
+in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-094](../terms.d/TERM-094.md), Frijda's action readiness with
 control precedence. The claim uses the concept. It does not need the
 account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
 and which stays Proposed.

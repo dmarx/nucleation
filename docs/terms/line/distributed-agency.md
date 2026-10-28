@@ -6,7 +6,7 @@
 
 **Distributed agency** — what an organized whole is, and how its operative direction relates to its members' — where the essay started.
 
-25 of 93 TERM documents. Back to the [full index](../README.md).
+25 of 95 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

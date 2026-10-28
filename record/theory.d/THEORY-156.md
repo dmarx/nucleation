@@ -51,7 +51,7 @@ supports:
 ## Note of 2026-10-27: the easy direction split off
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) split the definitions and the
-easy direction into [THEORY-tmp5sao6](THEORY-tmp5sao6.md), Active, with its proof. Ten of
+easy direction into [THEORY-1096](THEORY-1096.md), Active, with its proof. Ten of
 this account's twelve dependents used nothing more and moved there.
 [CLAIM-259](../claims.d/CLAIM-259.md) and [CLAIM-326](../claims.d/CLAIM-326.md) use the converse and stay grounded here. The
 blocker is unchanged: a second proof of the general converse.

@@ -1,5 +1,8 @@
 ---
+number: 1097
 status: Proposed
+formerly:
+- THEORY-tmplg04q
 promote_when: >-
   A result about the later formulations, which the formal core
   (THEORY-066) does not reach. The account would be promoted if
@@ -45,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded; cited for its version 4 ruling, which ADR-057 keeps -->
 
-# THEORY-tmplg04q: A Markov blanket, in any formulation including sparse coupling at nonequilibrium steady state and time-varying blanket states, does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces
+# THEORY-1097: A Markov blanket, in any formulation including sparse coupling at nonequilibrium steady state and time-varying blanket states, does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces
 
 ## Source
 

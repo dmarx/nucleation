@@ -6,7 +6,7 @@
 
 **Executed study** — a study the record's collaborators ran in session, whose results the record itself produced, with its provenance and limits stated.
 
-10 of 180 CASE documents. Back to the [full index](../README.md).
+10 of 181 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

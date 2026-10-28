@@ -11,7 +11,7 @@ history:
   note: >-
     Narrowed under ADR-049 at the status review of 2026-10-27. Whether
     an architecture that can represent the system's renormalization step
-    exactly must learn the relevant variables is QUESTION-tmpxjw51,
+    exactly must learn the relevant variables is QUESTION-294,
     Answered No by THEORY-197. This question keeps the rest.
 tags:
 - natural-sciences
@@ -29,7 +29,7 @@ summary: >-
   limit.
 refined_by:
 - QUESTION-157
-- QUESTION-tmpxjw51
+- QUESTION-294
 bearing:
 - THEORY-256
 - THEORY-206
@@ -63,7 +63,7 @@ A family of systems with known relevant variables, trained under objectives and 
 The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
 an architecture that can represent a system's renormalization step exactly
 must, under distribution fitting, learn the relevant variables is
-[QUESTION-tmpxjw51](QUESTION-tmpxjw51.md), Answered No by [THEORY-197](../theory.d/THEORY-197.md): the RBM correspondence is an
+[QUESTION-294](QUESTION-294.md), Answered No by [THEORY-197](../theory.d/THEORY-197.md): the RBM correspondence is an
 identity of parametrizations, and a contrastive-divergence RBM keeps the
 noise. This question keeps what is still open: how objective and
 architecture each fix the learned variables, and when they coincide with

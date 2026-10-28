@@ -1,5 +1,8 @@
 ---
+number: 292
 status: Answered
+formerly:
+- QUESTION-tmpubad0
 title: 'What evidence would show that a maintaining link, and not a regime''s content, keeps a disorder in place: does the efficacy of a treatment that targets the link count, or only change in the link that is specific and comes before the outcome?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   counts against the theory.
 ---
 
-# QUESTION-tmpubad0: What evidence would show that a maintaining link, and not a regime's content, keeps a disorder in place: does the efficacy of a treatment that targets the link count, or only change in the link that is specific and comes before the outcome?
+# QUESTION-292: What evidence would show that a maintaining link, and not a regime's content, keeps a disorder in place: does the efficacy of a treatment that targets the link count, or only change in the link that is specific and comes before the outcome?
 
 ## The question
 

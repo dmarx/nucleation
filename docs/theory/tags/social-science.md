@@ -6,7 +6,7 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-92 of 1095 THEORY documents. Back to the [full index](../README.md).
+92 of 1097 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

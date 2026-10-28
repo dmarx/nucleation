@@ -1,5 +1,8 @@
 ---
+number: 482
 status: Active
+formerly:
+- CLAIM-tmpnp8w6
 title: 'An organization''s aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change'
 version: 2
 history:
@@ -47,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-027 TERM-078 — Proposed; the thesis this defends, and the term naming the case where the objection survives -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answers -->
 
-# CLAIM-tmpnp8w6: An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change
+# CLAIM-482: An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change
 
 ## The claim
 

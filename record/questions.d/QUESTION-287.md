@@ -1,5 +1,8 @@
 ---
+number: 287
 status: Answered
+formerly:
+- QUESTION-tmpf2ohw
 title: 'In a deterministic singularly perturbed system whose eliminated variable is fast and contracting and whose reduced system is contracting, does the memoryless quasi-steady-state reduction predict the coarse variable with an error bounded uniformly in time in terms of the eliminated dynamics?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   contraction rate λ_x and the manifold's drift.
 ---
 
-# QUESTION-tmpf2ohw: In a deterministic singularly perturbed system whose eliminated variable is fast and contracting and whose reduced system is contracting, does the memoryless quasi-steady-state reduction predict the coarse variable with an error bounded uniformly in time in terms of the eliminated dynamics?
+# QUESTION-287: In a deterministic singularly perturbed system whose eliminated variable is fast and contracting and whose reduced system is contracting, does the memoryless quasi-steady-state reduction predict the coarse variable with an error bounded uniformly in time in terms of the eliminated dynamics?
 
 ## The question
 

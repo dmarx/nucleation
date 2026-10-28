@@ -1,5 +1,8 @@
 ---
+number: 288
 status: Answered
+formerly:
+- QUESTION-tmpgjyn2
 title: 'Can preserving an inquiry''s justificatory history improve decisions beyond a current state that is sufficient for those decisions, and can such a state stop being sufficient when a source, the model or the decision family changes?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   is revised or the family changes.
 ---
 
-# QUESTION-tmpgjyn2: Can preserving an inquiry's justificatory history improve decisions beyond a current state that is sufficient for those decisions, and can such a state stop being sufficient when a source, the model or the decision family changes?
+# QUESTION-288: Can preserving an inquiry's justificatory history improve decisions beyond a current state that is sufficient for those decisions, and can such a state stop being sufficient when a source, the model or the decision family changes?
 
 ## The question
 

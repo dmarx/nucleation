@@ -6,7 +6,7 @@
 
 **Stipulated** — a real referent whose relevant facts are assumed rather than verified here — usable as a thought experiment, not as evidence about the referent. For a proposed study, its materials and setting, not results it does not yet have (ADR-042).
 
-74 of 180 CASE documents. Back to the [full index](../README.md).
+74 of 181 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

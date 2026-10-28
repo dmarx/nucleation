@@ -1,5 +1,8 @@
 ---
+number: 294
 status: Answered
+formerly:
+- QUESTION-tmpxjw51
 title: 'When a network''s architecture can represent a structured system''s renormalization step exactly, must training by distribution fitting make the variables it represents the system''s relevant ones?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ summary: >-
   keeps.
 ---
 
-# QUESTION-tmpxjw51: When a network's architecture can represent a structured system's renormalization step exactly, must training by distribution fitting make the variables it represents the system's relevant ones?
+# QUESTION-294: When a network's architecture can represent a structured system's renormalization step exactly, must training by distribution fitting make the variables it represents the system's relevant ones?
 
 ## The question
 

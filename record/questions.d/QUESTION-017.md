@@ -11,7 +11,7 @@ history:
   note: >-
     Narrowed under ADR-049 at the status review of 2026-10-27. Whether the
     additive bound holds, and under which of a metric's properties, is
-    QUESTION-tmpvsepl, Answered by CLAIM-260. This question keeps the
+    QUESTION-293, Answered by CLAIM-260. This question keeps the
     weaker bound where the additive one fails, and directed distortion.
 tags:
 - mathematics
@@ -27,7 +27,7 @@ summary: >-
   the chosen metric".
 refined_by:
 - QUESTION-074
-- QUESTION-tmpvsepl
+- QUESTION-293
 ---
 <!-- inactive-ok-file: CLAIM-059 CLAIM-106 CLAIM-186 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -90,7 +90,7 @@ and it does not treat directed distortion.
 
 The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
 the composite's distortion is bounded by the sum of the parts', and under
-which of a metric's properties, is [QUESTION-tmpvsepl](QUESTION-tmpvsepl.md), Answered by
+which of a metric's properties, is [QUESTION-293](QUESTION-293.md), Answered by
 [CLAIM-260](../claims.d/CLAIM-260.md): it holds with a triangle inequality and a nonexpansive later
 kernel, and fails without either. This question keeps what is still open:
 what weaker bound holds where the additive one fails, and what holds for

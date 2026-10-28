@@ -1,5 +1,8 @@
 ---
+number: 94
 status: Active
+formerly:
+- TERM-tmp3mqer
 title: 'action readiness, with control precedence, in Frijda''s sense: a state of preparation for action, not a representation of a desirable state, that claims control over behaviour by persisting until an end state, resuming after interruption, capturing attention and taking priority over other actions'
 version: 1
 tags:
@@ -25,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-056 THEORY-057 TERM-078 — Proposed; the account this term is separated from, its neighbour and its rival, and the term that builds on its marks -->
 
-# TERM-tmp3mqer: action readiness, with control precedence, in Frijda's sense: a state of preparation for action, not a representation of a desirable state, that claims control over behaviour by persisting until an end state, resuming after interruption, capturing attention and taking priority over other actions
+# TERM-094: action readiness, with control precedence, in Frijda's sense: a state of preparation for action, not a representation of a desirable state, that claims control over behaviour by persisting until an end state, resuming after interruption, capturing attention and taking priority over other actions
 
 ## Definition
 

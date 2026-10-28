@@ -18,7 +18,7 @@ history:
   note: >-
     Narrowed under ADR-049 at the status review of 2026-10-27. Nesting
     under the β → ∞ optimum, the test for a pair of budgets, and the
-    two classes refinable at every pair are QUESTION-tmpt5ucu,
+    two classes refinable at every pair are QUESTION-291,
     Answered by THEORY-743, THEORY-753 and THEORY-757. The title gains
     "beyond Y a function of X or X and Y both binary".
 tags:
@@ -39,7 +39,7 @@ summary: >-
   successive refinability (Equitz and Cover, registered unread).
 refined_by:
 - QUESTION-244
-- QUESTION-tmpt5ucu
+- QUESTION-291
 bearing:
 - THEORY-751
 ---
@@ -137,7 +137,7 @@ That every finite optimum nests under the β → ∞ one ([THEORY-743](../theory
 budgets nest iff some pair of optimal encoders forms a Markov chain, a
 hull test ([THEORY-753](../theory.d/THEORY-753.md)), and that nesting holds at every pair of budgets
 when Y is a function of X or X and Y are both binary ([THEORY-757](../theory.d/THEORY-757.md)) are
-[QUESTION-tmpt5ucu](QUESTION-tmpt5ucu.md), Answered. This question keeps what is still open: a
+[QUESTION-291](QUESTION-291.md), Answered. This question keeps what is still open: a
 structural condition on P(X, Y) beyond those cases, the size of the loss,
 and [THEORY-163](../theory.d/THEORY-163.md)'s colour hierarchy. [THEORY-751](../theory.d/THEORY-751.md), rate–distortion's own
 criterion, stays here, since its transfer to the bottleneck is unproved.

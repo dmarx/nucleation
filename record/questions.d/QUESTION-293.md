@@ -1,5 +1,8 @@
 ---
+number: 293
 status: Answered
+formerly:
+- QUESTION-tmpvsepl
 title: 'Is the distortion of a composite of approximate transports bounded by the sum of its parts'' distortions, and does that additive bound survive when the distortion lacks a triangle inequality or a later kernel stretches distances?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   fails.
 ---
 
-# QUESTION-tmpvsepl: Is the distortion of a composite of approximate transports bounded by the sum of its parts' distortions, and does that additive bound survive when the distortion lacks a triangle inequality or a later kernel stretches distances?
+# QUESTION-293: Is the distortion of a composite of approximate transports bounded by the sum of its parts' distortions, and does that additive bound survive when the distortion lacks a triangle inequality or a later kernel stretches distances?
 
 ## The question
 

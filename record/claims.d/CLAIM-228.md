@@ -46,7 +46,7 @@ rests_on:
 - CLAIM-011
 - CLAIM-381
 grounds:
-- THEORY-tmp5sao6
+- THEORY-1096
 complements:
 - CLAIM-005
 uses:
@@ -186,7 +186,7 @@ its empirical test.
 ## Note of 2026-10-27: grounded in what it uses of Blackwell
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
-[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-tmp5sao6](../theory.d/THEORY-tmp5sao6.md). It uses Blackwell's definitions (an experiment, a
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-1096](../theory.d/THEORY-1096.md). It uses Blackwell's definitions (an experiment, a
 garbling, the informativeness order) or the easy direction, that a
 garbling never helps a decision-maker free to choose any rule. Both hold
 on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s

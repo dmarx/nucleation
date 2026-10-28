@@ -24,7 +24,7 @@ history:
   note: >-
     Narrowed under ADR-049 at the status review of 2026-10-27. The
     deterministic case of a fast, contracting eliminated variable is
-    QUESTION-tmpf2ohw, Answered by THEORY-773: no memory coordinate, and
+    QUESTION-287, Answered by THEORY-773: no memory coordinate, and
     an O(ε) error bound uniform in time. The title gains "and the
     deterministic case of a fast, contracting eliminated variable".
 tags:
@@ -45,7 +45,7 @@ answered_by:
 - THEORY-818
 refined_by:
 - QUESTION-248
-- QUESTION-tmpf2ohw
+- QUESTION-287
 bearing:
 - CLAIM-397
 - THEORY-819
@@ -203,7 +203,7 @@ infinite-history result. The question is unchanged.
 The status review of this date split this question again under [ADR-049](../decisions.d/ADR-049.md).
 When the eliminated variable is fast and contracting, and the reduced
 system is contracting, the memoryless reduction predicts to O(ε) for all
-time with explicit constants. That is [QUESTION-tmpf2ohw](QUESTION-tmpf2ohw.md), Answered by
+time with explicit constants. That is [QUESTION-287](QUESTION-287.md), Answered by
 [THEORY-773](../theory.d/THEORY-773.md). This question keeps what is still open: slow or noisy
 eliminated variables, nonlinear and vector classes, error in terms of the
 eliminated spectrum where memory is needed, and the ruling on levels.

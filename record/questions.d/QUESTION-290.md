@@ -1,5 +1,8 @@
 ---
+number: 290
 status: Answered
+formerly:
+- QUESTION-tmpmmgls
 title: 'When the continuities bundled in a collective come apart, can several later collectives each be a genuine successor of it in a different respect without numerical identity branching?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   successor relation, if any, is persistence stays [QUESTION-118](QUESTION-118.md)'s.
 ---
 
-# QUESTION-tmpmmgls: When the continuities bundled in a collective come apart, can several later collectives each be a genuine successor of it in a different respect without numerical identity branching?
+# QUESTION-290: When the continuities bundled in a collective come apart, can several later collectives each be a genuine successor of it in a different respect without numerical identity branching?
 
 ## The question
 

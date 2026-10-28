@@ -1,5 +1,8 @@
 ---
+number: 286
 status: Answered
+formerly:
+- QUESTION-tmpel2n2
 title: 'Under smooth invertible changes of the parameter coordinates, which first-order frustration diagnoses among a learner''s demands are invariant: pairwise Euclidean gradient angles, common strict first-order descent, or budgeted feasibility with the update geometry transported?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   These are the first three rows of A35 §2's table.
 ---
 
-# QUESTION-tmpel2n2: Under smooth invertible changes of the parameter coordinates, which first-order frustration diagnoses among a learner's demands are invariant: pairwise Euclidean gradient angles, common strict first-order descent, or budgeted feasibility with the update geometry transported?
+# QUESTION-286: Under smooth invertible changes of the parameter coordinates, which first-order frustration diagnoses among a learner's demands are invariant: pairwise Euclidean gradient angles, common strict first-order descent, or budgeted feasibility with the update geometry transported?
 
 ## The question
 
