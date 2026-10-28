@@ -12,7 +12,7 @@ history:
     Narrowed under ADR-049 at the status review of 2026-10-27. Whether
     current conclusions or a closed belief set are enough to retain, and
     what one AGM change of a closed theory needs besides the theory, is
-    QUESTION-tmpiu50n, Answered by CLAIM-294, THEORY-347 and THEORY-353.
+    QUESTION-289, Answered by CLAIM-294, THEORY-347 and THEORY-353.
     This question keeps the least retained state for a family of
     revisions, and its shape.
 tags:
@@ -31,7 +31,7 @@ summary: >-
 refined_by:
 - QUESTION-188
 - QUESTION-225
-- QUESTION-tmpiu50n
+- QUESTION-289
 bearing:
 - THEORY-387
 - THEORY-373
@@ -93,7 +93,7 @@ alternatives.
 
 The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
 current conclusions or a closed belief set are enough to retain is
-[QUESTION-tmpiu50n](QUESTION-tmpiu50n.md), Answered No by [CLAIM-294](../claims.d/CLAIM-294.md) and [THEORY-347](../theory.d/THEORY-347.md); what a single
+[QUESTION-289](QUESTION-289.md), Answered No by [CLAIM-294](../claims.d/CLAIM-294.md) and [THEORY-347](../theory.d/THEORY-347.md); what a single
 AGM change of a closed theory needs besides it, a selection function on
 its remainders, is [THEORY-353](../theory.d/THEORY-353.md)'s part of that answer. This question keeps
 what is still open: the least retained state for a family of revisions,

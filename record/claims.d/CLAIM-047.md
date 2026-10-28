@@ -19,7 +19,7 @@ line: will-organization
 works:
 - organization-of-will
 grounds:
-- CASE-tmpv0eej
+- CASE-181
 uses:
 - TERM-019
 supports:
@@ -48,5 +48,5 @@ What makes the difference — that is [CLAIM-027](CLAIM-027.md).
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this Active claim grounded
 in [THEORY-120](../theory.d/THEORY-120.md), Frankfurt's account of ownership, which is Proposed. The
 claim uses Frankfurt's unwilling addict and none of the account's thesis
-about identification or responsibility. The case is now [CASE-tmpv0eej](../cases.d/CASE-tmpv0eej.md),
+about identification or responsibility. The case is now [CASE-181](../cases.d/CASE-181.md),
 reported in [LIT-692](../literature.d/LIT-692.md) and read in [NOTE-545](../notes.d/NOTE-545.md), and the claim is grounded in it.

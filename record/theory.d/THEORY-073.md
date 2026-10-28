@@ -13,7 +13,7 @@ history:
     record holds, and promoted, at the owner's ruling of 2026-10-27
     (ADR-057; record/promotion-audit/decisions/THEORY-073.yaml).
     Version 1 said the same of a Markov blanket in any formulation.
-    That wider claim is THEORY-tmplg04q, Proposed, with version 1's
+    That wider claim is THEORY-1097, Proposed, with version 1's
     promote_when.
 tags:
 - individuation
@@ -43,7 +43,7 @@ summary: >-
   the criterion of. Active since 2026-10-27, narrowed to the 2013
   formulation and the applications held. The later steady-state
   definitions have not been read, and the unrestricted claim is
-  THEORY-tmplg04q, Proposed.
+  THEORY-1097, Proposed.
 supports:
 - CLAIM-152
 - CLAIM-194
@@ -61,7 +61,7 @@ choices are documented from the published code, the three placements are
 in [LIT-598](../literature.d/LIT-598.md) §3.2, and the last clause follows from the formalism, since a
 fixed graph's conditional independences carry no variable for how the
 boundary came about. The unrestricted form, which would reach the later
-formulations, is [THEORY-tmplg04q](THEORY-tmplg04q.md), Proposed, with this entry's former
+formulations, is [THEORY-1097](THEORY-1097.md), Proposed, with this entry's former
 promote_when. Both dependents survive the narrowing: [CLAIM-152](../claims.d/CLAIM-152.md) uses the
 placement clause and [CLAIM-194](../claims.d/CLAIM-194.md) the made-or-imposed clause, and neither
 leans on the later formulations.
@@ -146,7 +146,7 @@ Bruineberg preprint, and neither paper tests the other.
 - **It does not settle the later formulations.** Definitions by sparse
   coupling at nonequilibrium steady state, and blankets whose states
   change over time, are known to the record only through the critiques'
-  summaries. They are what [THEORY-tmplg04q](THEORY-tmplg04q.md)'s promote_when asks about.
+  summaries. They are what [THEORY-1097](THEORY-1097.md)'s promote_when asks about.
 - **It does not decide the candle flame.** [LIT-526](../literature.d/LIT-526.md) excludes the flame
   because its molecular interactions do not persist (C7 in [NOTE-421](../notes.d/NOTE-421.md)), and
   Raja et al. accept that exclusion and turn it against the principle's

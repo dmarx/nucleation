@@ -427,7 +427,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
-  - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+  - [THEORY-073](../record/theory.d/THEORY-073.md) — In Friston's 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed *(Active)*
+    - [THEORY-1097](../record/theory.d/THEORY-1097.md) — A Markov blanket, in any formulation including sparse coupling at nonequilibrium steady state and time-varying blanket states, does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
 
 ### From A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can
 
@@ -475,6 +476,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-717](../record/theory.d/THEORY-717.md) — For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix *(Active)*
   - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Proposed)*
+    - [THEORY-1096](../record/theory.d/THEORY-1096.md) — Blackwell's comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces *(Active)*
 
 ### From In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data
 
@@ -743,6 +745,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-717](../record/theory.d/THEORY-717.md) — For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix *(Active)*
   - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Proposed)*
+    - [THEORY-1096](../record/theory.d/THEORY-1096.md) — Blackwell's comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces *(Active)*
 
 ### From Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble
 
@@ -769,6 +772,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-717](../record/theory.d/THEORY-717.md) — For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix *(Active)*
   - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Proposed)*
+    - [THEORY-1096](../record/theory.d/THEORY-1096.md) — Blackwell's comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces *(Active)*
 
 ### From In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree
 
@@ -995,7 +999,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
-  - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+  - [THEORY-073](../record/theory.d/THEORY-073.md) — In Friston's 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed *(Active)*
+    - [THEORY-1097](../record/theory.d/THEORY-1097.md) — A Markov blanket, in any formulation including sparse coupling at nonequilibrium steady state and time-varying blanket states, does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
 
 ### From When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning
 
@@ -1037,7 +1042,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
-  - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+  - [THEORY-073](../record/theory.d/THEORY-073.md) — In Friston's 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed *(Active)*
+    - [THEORY-1097](../record/theory.d/THEORY-1097.md) — A Markov blanket, in any formulation including sparse coupling at nonequilibrium steady state and time-varying blanket states, does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
 
 ### From In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability
 

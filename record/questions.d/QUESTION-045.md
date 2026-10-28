@@ -11,7 +11,7 @@ history:
   note: >-
     Narrowed under ADR-049 at the status review of 2026-10-27. What
     evidence would show that the maintaining link keeps a disorder in
-    place is QUESTION-tmpubad0, Answered by THEORY-053. This question
+    place is QUESTION-292, Answered by THEORY-053. This question
     keeps whether any disorder is such a lock-in, and the experiment.
 tags:
 - psychopathology-and-treatment
@@ -27,7 +27,7 @@ summary: >-
   and [CLAIM-018](../claims.d/CLAIM-018.md). [THEORY-058](../theory.d/THEORY-058.md), [THEORY-050](../theory.d/THEORY-050.md), [THEORY-052](../theory.d/THEORY-052.md) and [THEORY-053](../theory.d/THEORY-053.md) answer
   it in part; the body gives each one's limit.
 refined_by:
-- QUESTION-tmpubad0
+- QUESTION-292
 bearing:
 - THEORY-285
 - THEORY-052
@@ -104,7 +104,7 @@ security dilemma, is [CLAIM-445](../claims.d/CLAIM-445.md).
 
 The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). What
 evidence would show that a maintaining link, not the regime's content,
-keeps a disorder in place is [QUESTION-tmpubad0](QUESTION-tmpubad0.md), Answered by [THEORY-053](../theory.d/THEORY-053.md):
+keeps a disorder in place is [QUESTION-292](QUESTION-292.md), Answered by [THEORY-053](../theory.d/THEORY-053.md):
 not a treatment's efficacy, but change in the link that is specific and
 comes before the outcome. This question keeps what is still open: whether
 any disorder is such a lock-in, and an experiment that cuts the link with

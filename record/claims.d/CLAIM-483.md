@@ -1,5 +1,8 @@
 ---
+number: 483
 status: Proposed
+formerly:
+- CLAIM-tmpuhp12
 title: 'An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family'
 version: 1
 role: thesis
@@ -34,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-176 — Proposed; the dependent whose "exactly" leans on this half -->
 
-# CLAIM-tmpuhp12: An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family
+# CLAIM-483: An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family
 
 ## The claim
 

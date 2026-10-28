@@ -164,7 +164,7 @@ Active, and nothing in the record meets its defeater. Of its two open
 objections, one is answered and one still holds it back:
 
 - **[CLAIM-089](CLAIM-089.md), the aggregate revealed preference.** It now has a
-  reply, [CLAIM-tmpnp8w6](CLAIM-tmpnp8w6.md), on [CLAIM-434](CLAIM-434.md)'s result: an aggregate
+  reply, [CLAIM-482](CLAIM-482.md), on [CLAIM-434](CLAIM-434.md)'s result: an aggregate
   preference exists only where the wins never cycle, and then it is fitted
   to one regime of authority and does not predict a change in it. The
   owner held the reply the same day, and [CLAIM-089](CLAIM-089.md) is Rejected. The

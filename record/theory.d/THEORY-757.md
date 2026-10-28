@@ -17,7 +17,7 @@ date: '2026-10-20'
 source:
 - LIT-1258
 answers:
-- QUESTION-tmpt5ucu
+- QUESTION-291
 summary: >-
   Charvin, Catenacci Volpi and Polani (2023), [LIT-1258](../literature.d/LIT-1258.md), read in [NOTE-981](../notes.d/NOTE-981.md). These are the two finite cases in which nested information-bottleneck optima are guaranteed at every pair of budgets. Neither reaches the record's four-state source, whose Y is not a function of X and whose X has three effective states. [NOTE-981](../notes.d/NOTE-981.md) finds that source not refinable. So binary Y alone does not guarantee nesting. The function case is the degenerate one, where the bottleneck is just a noisy copy of Y.
 ---

@@ -1,5 +1,8 @@
 ---
+number: 291
 status: Answered
+formerly:
+- QUESTION-tmpt5ucu
 title: 'For finite X and Y, does every finite-budget information-bottleneck optimum nest under the β → ∞ optimum, what test on a pair of optimal encoders decides whether two finite budgets nest, and do the optima nest at every pair of budgets when Y is a function of X or when X and Y are both binary?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   both binary.
 ---
 
-# QUESTION-tmpt5ucu: For finite X and Y, does every finite-budget information-bottleneck optimum nest under the β → ∞ optimum, what test on a pair of optimal encoders decides whether two finite budgets nest, and do the optima nest at every pair of budgets when Y is a function of X or when X and Y are both binary?
+# QUESTION-291: For finite X and Y, does every finite-budget information-bottleneck optimum nest under the β → ∞ optimum, what test on a pair of optimal encoders decides whether two finite budgets nest, and do the optima nest at every pair of budgets when Y is a function of X or when X and Y are both binary?
 
 ## The question
 

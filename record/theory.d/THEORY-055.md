@@ -65,7 +65,7 @@ answers:
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found that most of this account's
 dependents used only its concept of action readiness with control
 precedence, and not its thesis about elicitation or its mapping of
-emotions to modes. The concept is now [TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md), adopted. [CLAIM-039](../claims.d/CLAIM-039.md),
+emotions to modes. The concept is now [TERM-094](../terms.d/TERM-094.md), adopted. [CLAIM-039](../claims.d/CLAIM-039.md),
 [CLAIM-275](../claims.d/CLAIM-275.md), [CLAIM-283](../claims.d/CLAIM-283.md) and [CLAIM-355](../claims.d/CLAIM-355.md) are stated in the term and no longer
 grounded here. [CLAIM-432](../claims.d/CLAIM-432.md), [CLAIM-440](../claims.d/CLAIM-440.md) and [CLAIM-442](../claims.d/CLAIM-442.md) engage the account itself
 and still are. The account stays Proposed. Its blocker is the one its

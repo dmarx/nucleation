@@ -12,9 +12,9 @@ history:
     Narrowed to the distinction between claimed precedence and granted
     authority, and promoted, at the owner's ruling of 2026-10-27 on
     the status review (ADR-057). Version 1 also identified internal
-    conflict with the gap. That identification is now CLAIM-tmpxb1wf,
+    conflict with the gap. That identification is now CLAIM-484,
     Proposed. Grounds on THEORY-055 and THEORY-056 removed: the first
-    is replaced by TERM-tmp3mqer, the second is cited and not rested
+    is replaced by TERM-094, the second is cited and not rested
     on.
 role: thesis
 warrant: interpretive
@@ -33,7 +33,7 @@ works:
 line:
 - distributed-agency
 uses:
-- TERM-tmp3mqer
+- TERM-094
 - TERM-017
 complements:
 - CLAIM-027
@@ -54,7 +54,7 @@ supports:
 - CLAIM-442
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-056 CLAIM-027 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-tmpxb1wf — Proposed; this claim's former second half, split off 2026-10-27 -->
+<!-- inactive-ok-file: CLAIM-484 — Proposed; this claim's former second half, split off 2026-10-27 -->
 
 # CLAIM-283: The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities: a motive can claim control without receiving it, and be granted control it does not claim
 
@@ -80,7 +80,7 @@ relations. This claim splits precedence into a claim and a grant.
 - It does not say granted authority always wins. Impulsive action is the
   case where the claim outruns the grant and still governs.
 - It does not say that internal conflict is the gap. That identification
-  was this claim's second half until 2026-10-27, and is now [CLAIM-tmpxb1wf](CLAIM-tmpxb1wf.md),
+  was this claim's second half until 2026-10-27, and is now [CLAIM-484](CLAIM-484.md),
   Proposed.
 - It does not say the grant is made by a separate regulator. On [THEORY-056](../theory.d/THEORY-056.md)
   it is made by other motive states, and [QUESTION-054](../questions.d/QUESTION-054.md) is open.
@@ -124,7 +124,7 @@ the first for promotion under [ADR-047](../decisions.d/ADR-047.md). Not done her
 ## Note of 2026-10-27: the concept, not the account
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim from grounding
-in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md), Frijda's action readiness with
+in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-094](../terms.d/TERM-094.md), Frijda's action readiness with
 control precedence. The claim uses the concept. It does not need the
 account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
 and which stays Proposed.
@@ -134,10 +134,10 @@ and which stays Proposed.
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) narrowed this claim to the
 distinction and promoted it. Each of its four dependents ([CLAIM-368](CLAIM-368.md),
 [CLAIM-440](CLAIM-440.md), [CLAIM-442](CLAIM-442.md) and [CLAIM-446](CLAIM-446.md)) uses the distinction and none uses
-the identification of conflict with the gap, which is now [CLAIM-tmpxb1wf](CLAIM-tmpxb1wf.md).
+the identification of conflict with the gap, which is now [CLAIM-484](CLAIM-484.md).
 Its premises are the TERMs it uses, both Active. [THEORY-055](../theory.d/THEORY-055.md) and [THEORY-056](../theory.d/THEORY-056.md)
 had been grounds. The directive above already said "nothing here rests on
-their being settled". The first is replaced by its concept, [TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md).
+their being settled". The first is replaced by its concept, [TERM-094](../terms.d/TERM-094.md).
 The second is cited in the body as one account of how the grant is made,
 which the claim leaves open. No objection is filed. Its defeater's first
 clause is against the documented cases ([CASE-151](../cases.d/CASE-151.md), [CASE-127](../cases.d/CASE-127.md), [THEORY-603](../theory.d/THEORY-603.md)),

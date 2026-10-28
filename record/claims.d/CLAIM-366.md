@@ -40,7 +40,7 @@ grounds:
 uses:
 - TERM-060
 answers:
-- QUESTION-tmpel2n2
+- QUESTION-286
 summary: >-
   A35 §2 of the exchange of 2026-10-17, at the owner's U35 "double click"
   on whether functionally equivalent parameterizations give equivalent

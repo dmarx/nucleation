@@ -25,7 +25,7 @@ summary: >-
   it. What it does not say is that mediation proves a mechanism; both
   sources deny that.
 answers:
-- QUESTION-tmpubad0
+- QUESTION-292
 ---
 <!-- inactive-ok-file: LIT-543 — Unavailable, abstract only; the 2024 meta-analysis of ACT's processes as mediators, named as the test this account calls for, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-058 THEORY-050 THEORY-048 — Proposed; a parallel case of evidence that cannot discriminate, and the batch's theories of change and of explanation, named as the accounts this standard applies to -->

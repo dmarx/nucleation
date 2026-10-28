@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-27'
   note: >-
-    Answered on 2026-10-27 by CLAIM-tmpnp8w6, held the same day: an
+    Answered on 2026-10-27 by CLAIM-482, held the same day: an
     aggregate revealed preference exists only where the organization's
     wins never cycle, and where it exists it is fitted to one regime
     of authority and does not predict a change in it. The objection
@@ -51,7 +51,7 @@ attitudes do not refute that reading. Nothing in the manuscript answers it.
 ## Note of 2026-10-27: a reply
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found the record's later formal
-work bearing on this objection without citing it. [CLAIM-tmpnp8w6](CLAIM-tmpnp8w6.md) replies
+work bearing on this objection without citing it. [CLAIM-482](CLAIM-482.md) replies
 on [CLAIM-434](CLAIM-434.md)'s result. The aggregate preference exists exactly when the
 organization's winning moves never cycle. Where it exists, it is fitted to
 one regime of authority, so it describes the outcome of a change in

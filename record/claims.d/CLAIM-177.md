@@ -14,7 +14,7 @@ history:
     2026-10-27 on the status review (ADR-057). The comparative and
     general form, that such arguments fail at identity rather than at
     structure beyond one owner and one assistant family, is
-    CLAIM-tmpuhp12, Proposed, with version 1's defeater.
+    CLAIM-483, Proposed, with version 1's defeater.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -111,7 +111,7 @@ record observed, and promoted it. Version 1 also said that such an
 argument fails at identity *rather than* at structure, in general. That
 comparison was counted in one exchange, with one owner and one assistant
 family, which this entry's own body called "a pattern, not a measurement".
-It is now [CLAIM-tmpuhp12](CLAIM-tmpuhp12.md), Proposed, with version 1's defeater.
+It is now [CLAIM-483](CLAIM-483.md), Proposed, with version 1's defeater.
 
 The observation has been made again since it was filed, in exchanges this
 claim did not cite:

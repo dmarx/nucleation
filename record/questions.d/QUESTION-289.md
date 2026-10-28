@@ -1,5 +1,8 @@
 ---
+number: 289
 status: Answered
+formerly:
+- QUESTION-tmpiu50n
 title: 'Is an inquiry''s current set of conclusions, or its logically closed belief set, enough to retain to fix its future revisions, and if not, what must a single AGM change of a closed theory have besides the theory?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   postulates hold, or else a base.
 ---
 
-# QUESTION-tmpiu50n: Is an inquiry's current set of conclusions, or its logically closed belief set, enough to retain to fix its future revisions, and if not, what must a single AGM change of a closed theory have besides the theory?
+# QUESTION-289: Is an inquiry's current set of conclusions, or its logically closed belief set, enough to retain to fix its future revisions, and if not, what must a single AGM change of a closed theory have besides the theory?
 
 ## The question
 

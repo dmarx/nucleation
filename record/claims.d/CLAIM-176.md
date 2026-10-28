@@ -40,7 +40,7 @@ answers:
 rests_on:
 - CLAIM-185
 - CLAIM-177
-- CLAIM-tmpuhp12
+- CLAIM-483
 grounds:
 - LIT-924
 summary: >-
@@ -57,7 +57,7 @@ complements:
 objected_by:
 - CLAIM-181
 ---
-<!-- inactive-ok-file: CLAIM-tmpuhp12 — Proposed; the comparative premise split from CLAIM-177 on 2026-10-27 -->
+<!-- inactive-ok-file: CLAIM-483 — Proposed; the comparative premise split from CLAIM-177 on 2026-10-27 -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
@@ -146,7 +146,7 @@ defines it. This claim was narrowed to match.
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) split [CLAIM-177](CLAIM-177.md). Its observed
 half stays [CLAIM-177](CLAIM-177.md), which is now Active. Its comparative half,
-[CLAIM-tmpuhp12](CLAIM-tmpuhp12.md), is Proposed. This claim's "exactly the drift that defeats
+[CLAIM-483](CLAIM-483.md), is Proposed. This claim's "exactly the drift that defeats
 an argument" needs the comparative half, that identity drift and not
 missing structure is what defeats such an argument, so it now rests on
 both.

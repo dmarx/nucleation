@@ -4,8 +4,8 @@
 
 **Superseded** — no longer in force because something replaced it; the successor is named in the field, not the prose.
 
-0 of 56 decisions. Back to the [full index](../README.md).
+1 of 60 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ADR-047](../../../record/decisions.d/ADR-047.md) v4 | Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes | The owner's procedure of 2026-10-19 for finding entries whose evidence has outgrown their status. Candidates are triaged from metadata by a rubric that sets review order and never standing. They are reviewed five at a time, and each review ends in one of six dispositions with a specific blocker. Every step is persisted in record/promotion-audit/: a versioned queue.yaml with a hand-off block, one decision file per candidate, and one file per batch. A check keeps the queue and the decision files in step. Status changes go in separate pull requests of at most three entries. Rejected: one large audit held in a conversation, which is lost when the session is; a queue derived only from the decision files, which cannot say what is in progress; and promoting in the same step as reviewing. | Superseded — by [ADR-057](../../../record/decisions.d/ADR-057.md); Superseded on 2026-10-27 by the owner's acceptance of [ADR-057](../../../record/decisions.d/ADR-057.md), which derives the worklist from the record on each pass instead of keeping a queue. The three evidence rulings of versions 2 to 4 stand under it. |

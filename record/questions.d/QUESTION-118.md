@@ -23,7 +23,7 @@ history:
   note: >-
     Narrowed under ADR-049 at the status review of 2026-10-27. Whether
     several later collectives can each be a successor in a different
-    respect without identity branching is QUESTION-tmpmmgls, Answered by
+    respect without identity branching is QUESTION-290, Answered by
     CLAIM-328. This question keeps the criterion of persistence, and which
     successor relation, if any, is persistence.
 tags:
@@ -42,7 +42,7 @@ summary: >-
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
 refined_by:
-- QUESTION-tmpmmgls
+- QUESTION-290
 ---
 
 <!-- inactive-ok-file: LIT-1124 LIT-1141 LIT-1144 THEORY-221 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -163,7 +163,7 @@ functioning conceals." The cases are [CASE-169](../cases.d/CASE-169.md), [CASE-1
 
 The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
 several later collectives can each be a genuine successor in a different
-respect without numerical identity branching is [QUESTION-tmpmmgls](QUESTION-tmpmmgls.md),
+respect without numerical identity branching is [QUESTION-290](QUESTION-290.md),
 Answered by [CLAIM-328](../claims.d/CLAIM-328.md) on the Senators ([CASE-105](../cases.d/CASE-105.md)). This question keeps
 what is still open: what must stay causally continuous for persistence,
 and, when the respects separate, which successor relation, if any, is the

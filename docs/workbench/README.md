@@ -6,6 +6,10 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [27 Oct 23:38 — The owner's rulings on the third pass: CLAIM-069 and CLAIM-438 Proposed, answers split from bears_on (ADR-060), and what a status means for an ARG and a concession (ADR-059, Proposed)](2026-10.md#the-owners-rulings-on-the-third-pass-claim-069-and-claim-438-proposed-answers-split-from-bears_on-adr-060-and-what-a-status-means-for-an-arg-and-a-concession-adr-059-proposed)
+- [27 Oct 20:37 — The third status review: Blackwell's easy direction and THEORY-720 carry what fifteen claims used, 35 of 38 inversions resolve once each edge says what the claim uses (ADR-058), and eight questions are split under ADR-049](2026-10.md#the-third-status-review-blackwells-easy-direction-and-theory-720-carry-what-fifteen-claims-used-35-of-38-inversions-resolve-once-each-edge-says-what-the-claim-uses-adr-058-and-eight-questions-are-split-under-adr-049)
+- [27 Oct 20:05 — The second status review: the owner's rulings carried out, five old promotions done, and a pattern across the hubs: claims grounded in a contested account when they used only its concept](2026-10.md#the-second-status-review-the-owners-rulings-carried-out-five-old-promotions-done-and-a-pattern-across-the-hubs-claims-grounded-in-a-contested-account-when-they-used-only-its-concept)
+- [27 Oct 19:38 — The first status review under ADR-057: CLAIM-027's cluster, one inversion repaired, a reply filed to CLAIM-089, and a TERM for inquiry](2026-10.md#the-first-status-review-under-adr-057-claim-027s-cluster-one-inversion-repaired-a-reply-filed-to-claim-089-and-a-term-for-inquiry)
 - [27 Oct 18:25 — The owner's review of the pull request (2026-10-27, evening): six changes before merging, made the same evening; correspondence generation, memory as constraint, the higher-order reduction, the luria split, rates against time scales, and a synthesis](2026-10.md#the-owners-review-of-the-pull-request-2026-10-27-evening-six-changes-before-merging-made-the-same-evening-correspondence-generation-memory-as-constraint-the-higher-order-reduction-the-luria-split-rates-against-time-scales-and-a-synthesis)
 - [27 Oct 17:19 — Session of 2026-10-27, 14:41 to 16:26 (U15–U23): the exchange "Field Existence Question" continued, from inquiry as specification and its resource bounds to observation without an observer, interactions as gluing conditions, and a closing synthesis](2026-10.md#session-of-2026-10-27-1441-to-1626-u15u23-the-exchange-field-existence-question-continued-from-inquiry-as-specification-and-its-resource-bounds-to-observation-without-an-observer-interactions-as-gluing-conditions-and-a-closing-synthesis)
 - [27 Oct 09:14 — Session of 2026-10-27, 08:15 to 09:05 (U11–U14): the exchange "Field Existence Question" continued, from prior art for relata as realizations of constraints to scale separation as a maker of structure, and then the dynamics of transitions](2026-10.md#session-of-2026-10-27-0815-to-0905-u11u14-the-exchange-field-existence-question-continued-from-prior-art-for-relata-as-realizations-of-constraints-to-scale-separation-as-a-maker-of-structure-and-then-the-dynamics-of-transitions)
@@ -96,8 +100,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-87 entries across 1 book, newest first.
+91 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 87 | 2026-10-07 | 2026-10-27 |
+| [2026-10](2026-10.md) | 91 | 2026-10-07 | 2026-10-27 |

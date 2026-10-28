@@ -10,7 +10,7 @@ history:
   date: '2026-10-27'
   note: >-
     Narrowed under ADR-049 at the status review of 2026-10-27. The
-    part about smooth changes of chart is QUESTION-tmpel2n2, Answered
+    part about smooth changes of chart is QUESTION-286, Answered
     by CLAIM-366. This question keeps function-preserving symmetries
     and trajectories.
 tags:
@@ -30,7 +30,7 @@ summary: >-
   trajectories, where "same current function ≠ same learning dynamics".
   An answer sorts each diagnosis by what it is a property of.
 refined_by:
-- QUESTION-tmpel2n2
+- QUESTION-286
 ---
 
 # QUESTION-127: Which diagnoses of frustration among a learner's demands survive quotienting by function-preserving symmetries, which belong only to an update geometry, and which only to a particular training organization with its optimizer?
@@ -94,6 +94,6 @@ training organization."
 ## Note of 2026-10-27: the coordinate part split off
 
 The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Changes
-of chart are [QUESTION-tmpel2n2](QUESTION-tmpel2n2.md), Answered by [CLAIM-366](../claims.d/CLAIM-366.md). This question keeps
+of chart are [QUESTION-286](QUESTION-286.md), Answered by [CLAIM-366](../claims.d/CLAIM-366.md). This question keeps
 what is still open: function-preserving symmetries, which are not charts
 of one space, and trajectories, which carry the optimizer.

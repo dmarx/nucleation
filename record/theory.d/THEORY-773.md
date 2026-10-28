@@ -24,7 +24,7 @@ date: '2026-10-20'
 source:
 - LIT-1295
 answers:
-- QUESTION-tmpf2ohw
+- QUESTION-287
 summary: >-
   Del Vecchio and Slotine (IEEE TAC 2013), [LIT-1295](../literature.d/LIT-1295.md), read in [NOTE-1020](../notes.d/NOTE-1020.md),
   with their Theorem 3's hypothesis corrected. A global, uniform-in-time,
