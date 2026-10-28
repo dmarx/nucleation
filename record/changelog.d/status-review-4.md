@@ -18,3 +18,10 @@
   - Four credence checks are reported patterns and fail the lint (all 0).
   - Acknowledgements of retired premises without `until` are held at a
     baseline of 41.
+- **The owner's rulings on the five UNSURE edges.**
+  - CLAIM-160, CLAIM-296 and THEORY-219 now bear on their questions rather
+    than answering them. CLAIM-160 complements CLAIM-204, on intended
+    meaning against the act.
+  - CLAIM-tmpwlrc2 is filed as the bridge that answers QUESTION-092: what
+    endogenous governance adds in the self-governing sense is revision of
+    its own standards, not allocation of authority.

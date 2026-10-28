@@ -21,12 +21,11 @@ tags:
 - information-theory
 date: '2026-10-11'
 line: pragmatic-transport
-answers:
-- QUESTION-029
 grounds:
 - CASE-043
 - CASE-048
 complements:
+- CLAIM-204
 - CLAIM-151
 - CLAIM-255
 uses:
@@ -43,6 +42,8 @@ illustrated_by:
 - CASE-048
 objected_by:
 - CLAIM-171
+bears_on:
+- QUESTION-029
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-074 CLAIM-115 CLAIM-151 — Proposed; the line's receiver-side claims this one is placed beside, open -->
@@ -114,3 +115,13 @@ and what follows for this claim's `answers` edge, is left to the owner.
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
 The interlocutor's reading of 2026-10-12 recommends to "Retain CLAIM-160 for intended meaning, retain [CLAIM-151](CLAIM-151.md) for socially constituted act identity", on its distinction between "intending to perform an act, performing that act, and being recognized as having performed it" ([CLAIM-255](CLAIM-255.md)). Recorded as advice. Whether this claim narrows to intended meaning, and what follows for its answer to [QUESTION-029](../questions.d/QUESTION-029.md), is still the owner's.
+
+## Note of 2026-10-28: intended meaning, beside the act
+
+The owner's ruling on the fourth status review settles the note of
+2026-10-12. This claim is about intended meaning, fixed when it is written.
+QUESTION-029 asks about the identity of the communicative act, which is
+CLAIM-151's and CLAIM-204's ground, so this claim bears on that question
+and does not answer it. Read that way, it does not conflict with CLAIM-204,
+and the two complement each other: intending to perform an act against the
+act performed and taken up, the interlocutor's distinction of 2026-10-12.

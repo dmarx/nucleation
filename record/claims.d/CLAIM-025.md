@@ -41,6 +41,7 @@ grounds:
 uses:
 - TERM-020
 supports:
+- CLAIM-tmpwlrc2
 - ARG-007
 - CLAIM-284
 - CLAIM-349
