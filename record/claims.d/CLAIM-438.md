@@ -112,4 +112,4 @@ conceded counter.
 
 ## Note of 2026-10-27: conceded, and Proposed
 
-The owner conceded this objection on 2026-10-23, and [CLAIM-433](CLAIM-433.md) is the revision it produced. On 2026-10-27 the owner ruled that a concession is not credence: the counter is Proposed, because its evidence ([THEORY-893](../theory.d/THEORY-893.md)) is Proposed. The concession is carried by the target's revision, not by this entry's status. [ADR-059](../decisions.d/ADR-059.md) proposes that as the general rule.
+The owner conceded this objection on 2026-10-23, and [CLAIM-433](CLAIM-433.md) is the revision it produced. On 2026-10-27 the owner ruled that a concession is not credence: the counter is Proposed, because its evidence ([THEORY-893](../theory.d/THEORY-893.md)) is Proposed. The concession is carried by the target's revision, not by this entry's status. [ADR-059](../decisions.d/ADR-059.md) makes that the general rule.
