@@ -1633,6 +1633,24 @@ patterns:
     match: >-
       (u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)
     blurb: A claim and the claims that undercut an argument concluding it.
+  # Every argument under the claim it concludes, and every claim undercutting
+  # it under the argument: one outline page, since the two patterns share an
+  # output and merge by position (luria 1.5.0). An argument nothing undercuts
+  # is on no dialectic thread, so this page is where it is seen.
+  argued_for:
+    match: (c:CLAIM)<-[:concludes]-(g:ARG)
+    output: docs/arguments-by-conclusion.md
+    title: Arguments by conclusion
+    blurb: Each claim an argument concludes, its arguments beneath it, and beneath each argument the
+      claims that undercut it. An argument's status is credence in its inference, not in its
+      conclusion (ADR-059), so a Rejected argument under an Active claim is one route that failed.
+    facet_by:
+    - status
+    - form
+    - role
+  argued_for_undercut:
+    match: (c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)
+    output: docs/arguments-by-conclusion.md
 chains:
   lineage:
     scheme: LIT
