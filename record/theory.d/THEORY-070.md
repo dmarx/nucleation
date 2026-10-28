@@ -33,6 +33,8 @@ tags:
 date: '2026-10-03'
 source:
 - LIT-585
+bears_on:
+- QUESTION-054
 summary: >-
   Shenhav, Botvinick & Cohen ([LIT-585](../literature.d/LIT-585.md)) unify dACC's many reported
   functions as one: deciding whether, where and how much control to
@@ -162,3 +164,14 @@ this account describes.
 - **Norman and Shallice** ([LIT-600](../literature.d/LIT-600.md), unread). The supervisory override
   of habitual responses that EVC formalises descends from that tradition;
   the paper as retrieved does not cite them.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. NOTE-446 read the paper in full,
+and it "reports no new data". Neither promotion result is in the record: no
+fit of the EVC computation in which control intensity tracks payoff and
+cost better than a model without the cost term, and no dACC/lateral-PFC
+dissociation of specifying from implementing beyond the cingulotomy
+half-result. THEORY-878's selective regions are co-activation, not that
+dissociation. It now bears on QUESTION-054, whose summary already said it
+asserts one answer.

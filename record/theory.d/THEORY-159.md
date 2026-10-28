@@ -90,3 +90,14 @@ does not, and no test in which it might have.
 - **Not a statement about distributional models.** That co-occurrence
   statistics recover word meaning is a later and different claim; this
   account may be read as its ancestor, but nothing here tests it.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. Part Two ch. IV is read in full
+(NOTE-594), so reading is not the blocker. No study the record holds adds,
+loses or merges a term in a language's inventory and measures how its
+neighbours' use shifts, against terms outside the field. The embedding
+readings that cite this account (THEORY-182, THEORY-185, LIT-860) concern
+what a model learns from co-occurrence, and THEORY-518 concerns
+distributional neighbourhoods from four hand-picked words. ARG-033 and
+ARG-034 judge the record's use of this reading, not the reading.

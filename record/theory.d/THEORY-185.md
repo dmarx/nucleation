@@ -41,6 +41,8 @@ date: '2026-10-09'
 source:
 - LIT-863
 - LIT-860
+corroborates:
+- CLAIM-082
 summary: >-
   Korchinski, Karkada, Bahri and Wyart (2025), [LIT-863](../literature.d/LIT-863.md): proved for a
   generative model of co-occurrence in which words are bundles of
@@ -49,8 +51,6 @@ summary: >-
   are eigendecompositions, not trained models; that real co-occurrence is
   close to this form is inferred from spectral and accuracy-curve shapes,
   not measured.
-supports:
-- CLAIM-082
 bears_on:
 - QUESTION-025
 ---

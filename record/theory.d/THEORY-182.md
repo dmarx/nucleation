@@ -30,6 +30,8 @@ tags:
 date: '2026-10-09'
 source:
 - LIT-855
+corroborates:
+- CLAIM-082
 summary: >-
   Karkada, Simon, Bahri and DeWeese (2025), [LIT-855](../literature.d/LIT-855.md): for the quartic
   approximation of word2vec with tied weights and symmetric, constant-weight
@@ -37,8 +39,6 @@ summary: >-
   and the prediction matches trained word2vec far better than truncated PMI.
   It is shown for a proxy of word2vec, not for word2vec, and the dynamics
   are an approximate derivation.
-supports:
-- CLAIM-082
 extends:
 - THEORY-739
 ---

@@ -3,8 +3,8 @@ number: 228
 status: Proposed
 formerly:
 - CLAIM-tmpeqvy4
-title: 'Observational fidelity, as D_obs measures it, is a property of a rendering procedure over a class of source items, tested by one kernel family fitted on some items and scored on others, with the target term the readers'' response averaged over the procedure''s output; one source–target pair does not identify it, and a single rendering is judged as a sample of its procedure or by another measure'
-version: 3
+title: 'D_obs restated over a rendering procedure, with one kernel family fitted on some source items and scored on held-out ones and the target term the readers'' response averaged over the procedure''s output, separates rendering procedures that receivers'' task-indexed recovery separates, so restated it measures observational fidelity informatively'
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -28,6 +28,17 @@ history:
     a study (CASE-055). So its warrant is corrected from demonstrated to
     empirical (ADR-043). The title, body and defeat condition are
     unchanged, and the status stays Proposed.
+- version: 4
+  date: '2026-10-28'
+  note: >-
+    Title restated at the sixth status review (ADR-057, ADR-059) to say
+    the proposal the claim kept at version 3, that the restated measure
+    is informative, which is what its defeat condition tests. Version
+    3's title said what the measure is a property of; its structural
+    clauses are held in CLAIM-207 and CLAIM-381. CLAIM-207 is now named
+    in rests_on, as the body and ARG-017 already relied on it. The
+    derivation, body and defeat condition are unchanged, and the status
+    stays Proposed.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -43,6 +54,7 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
+- CLAIM-207
 - CLAIM-011
 - CLAIM-381
 grounds:
@@ -71,7 +83,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's order the exact-fit condition becomes, not as settled -->
 <!-- inactive-ok-file: CLAIM-258 — Proposed; open, cited for its point that Blackwell's order needs a common parameter -->
 
-# CLAIM-228: Observational fidelity, as D_obs measures it, is a property of a rendering procedure over a class of source items, tested by one kernel family fitted on some items and scored on others, with the target term the readers' response averaged over the procedure's output; one source–target pair does not identify it, and a single rendering is judged as a sample of its procedure or by another measure
+# CLAIM-228: D_obs restated over a rendering procedure, with one kernel family fitted on some source items and scored on held-out ones and the target term the readers' response averaged over the procedure's output, separates rendering procedures that receivers' task-indexed recovery separates, so restated it measures observational fidelity informatively
 
 ## What it answers
 
@@ -190,3 +202,14 @@ garbling never helps a decision-maker free to choose any rule. Both hold
 on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
 general converse, which stays Proposed, is not used. Quotations of
 [THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. Its premises are held and no
+objection is live. What holds it is a missing result: CASE-055 has not
+been run, so nothing yet shows held-out D_obs, with one kernel family
+fixed across items, separating rendering procedures that receivers'
+task-indexed recovery separates. ARG-017 carries the clauses that one pair
+does not identify the score and that a constant kernel fails across items,
+not this one. The title now says so; version 3's said only what the
+measure is a property of, which CLAIM-207 and CLAIM-381 hold.

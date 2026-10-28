@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpz8lli
 title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation''s decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -12,6 +12,13 @@ history:
     Note of 2026-10-27 added: the difficulty for clause 3 (intensity as
     the potential's strength) from Hesp et al. and Carver is filed as the
     objection CLAIM-468. The claim is unchanged.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    THEORY-056 moved from grounds to corroborated_by at the sixth
+    status review (ADR-058): it is cited as an existing description of
+    the claim's first part, and the claim does not stand on it. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,9 +62,10 @@ grounds:
 - LIT-1451
 - LIT-1449
 - LIT-1438
-- THEORY-056
 - THEORY-027
 - THEORY-101
+corroborated_by:
+- THEORY-056
 summary: >-
   The owner's, 2026-10-23, in the discussion of [THEORY-101](../theory.d/THEORY-101.md) that followed
   the corporate psychopathy filing: "what if the 'appraisal' is the

@@ -90,3 +90,10 @@ two of its four fronts. The expected value of control is top-down and
 Ainslie's interests are aggregate or emergent, and will-organization is a
 claim about what governs how the profile changes. Planning theory and
 institutional theory are not placed.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. No comparison of the drive
+profiles THEORY-067, THEORY-070 and CLAIM-027 predict for an agent resisting
+temptation is in the record, and THEORY-067's placement (aggregate or
+emergent) is undecided: "The précis does not say which".

@@ -12,6 +12,8 @@ tags:
 date: '2026-10-05'
 source:
 - LIT-719
+corroborates:
+- CLAIM-358
 summary: >-
   Ostrom's account, read in her Nobel lecture ([LIT-719](../literature.d/LIT-719.md)). Coded case
   meta-analyses, laboratory and field experiments and multi-country field
@@ -20,7 +22,6 @@ summary: >-
   ones lack. The principles are correlates of survival, not tested
   causes, and their reach beyond common-pool resources is not shown.
 supports:
-- CLAIM-358
 - CLAIM-410
 bears_on:
 - QUESTION-041

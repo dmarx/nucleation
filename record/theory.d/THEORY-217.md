@@ -28,6 +28,8 @@ tags:
 date: '2026-10-13'
 source:
 - LIT-1026
+corroborates:
+- CLAIM-368
 summary: >-
   Barandiaran (2025), [LIT-1026](../literature.d/LIT-1026.md), read in [NOTE-730](../notes.d/NOTE-730.md). Against the
   dual-order account (Saborido, Moreno and Mossio), on which malfunction
@@ -42,8 +44,6 @@ summary: >-
   history or a statistical norm. Proposed: a conceptual proposal with a
   one-variable model, and the field has not been computed for any real
   organism.
-supports:
-- CLAIM-368
 bears_on:
 - QUESTION-087
 ---
@@ -147,3 +147,10 @@ range, and argues that compensation does not hide a dysfunction, because
 - **Di Paolo (2005, [LIT-1017](../literature.d/LIT-1017.md)).** The precarious region is where Di Paolo's
   adaptivity acts. This account turns his graded inner norm into a field
   that a part can be judged against.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. No normative field has been computed for a model richer than the paper's
+one-variable toy (several traits, one regulatory, a regime switch), so the
+classification test in `promote_when` has not been run.
+CLAIM-368 now cites this reading as corroboration, not as a ground.

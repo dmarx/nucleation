@@ -28,6 +28,8 @@ source:
 - LIT-561
 - LIT-558
 - LIT-559
+corroborates:
+- CLAIM-368
 summary: >-
   Vansteenkiste, Ryan and Soenens (2020, [LIT-561](../literature.d/LIT-561.md)) propose that need
   frustration, distinct from mere lack of satisfaction, plays "a
@@ -39,8 +41,6 @@ summary: >-
   styles and rigid patterns as the route. The evidence is correlational,
   mostly self-report, and from the theory's authors. A partner of the
   inflexibility account, not a rival.
-supports:
-- CLAIM-368
 bears_on:
 - QUESTION-045
 ---
@@ -115,3 +115,11 @@ The transdiagnostic claim is the 2020 authors' proposal, which they call
   "multiple benefits" ([LIT-561](../literature.d/LIT-561.md), p. 12) is a process-based programme with
   need frustration as the process; it does not yet meet that paper's standard
   of a process shown to mediate change.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. The record holds no prospective or interventional study in which need
+frustration, measured other than by a self-report sharing content with
+distress, precedes or mediates symptoms of more than one disorder. Campbell
+et al. (2018a), the one longitudinal study cited, is unread.
+CLAIM-368 now cites this reading as corroboration, not as a ground.

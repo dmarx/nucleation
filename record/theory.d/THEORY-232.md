@@ -25,6 +25,8 @@ tags:
 date: '2026-10-14'
 source:
 - LIT-990
+corroborates:
+- CLAIM-368
 summary: >-
   Watson (2023), [LIT-990](../literature.d/LIT-990.md), read in full in [NOTE-747](../notes.d/NOTE-747.md). A perspective
   essay's definition, argued and illustrated, not proved: agency of a whole
@@ -38,7 +40,6 @@ summary: >-
 supports:
 - CLAIM-347
 - CLAIM-361
-- CLAIM-368
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this bears on, on a set-aside line -->
 <!-- inactive-ok-file: QUESTION-032 CLAIM-170 CLAIM-174 CLAIM-168 CLAIM-172 THEORY-071 — Open or Proposed; the question, claims and account this reading bears on, named and not leaned on -->
@@ -192,3 +193,12 @@ connection". Three things bear on it.
   term", is what A35 §4 meant by a system that may "deliberately worsen
   some objective now", and what A37 and A39 developed as resolve. None of
   A34–A40 cited this reading for it.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. NOTE-747 read the essay in full; it computes the measure for no system,
+and Box 1 is its only result shown in full. Nothing in the record computes
+the frustration comparison on one system under two decompositions, which
+is what `promote_when` asks. THEORY-249 predicts instability in general but
+shows no instance.
+CLAIM-368 now cites this reading as corroboration, not as a ground.
