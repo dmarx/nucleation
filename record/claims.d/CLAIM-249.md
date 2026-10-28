@@ -13,9 +13,9 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
+- CLAIM-318
 - CLAIM-011
 - CLAIM-132
-- CLAIM-098
 objects_to:
 - CLAIM-137
 uses:
@@ -105,3 +105,7 @@ automorphism ambiguity of that identification.
   characters.
 - It complements [CLAIM-138](CLAIM-138.md), which makes the same point for relations in
   general.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) re-pointed `rests_on` from [CLAIM-098](CLAIM-098.md) to [CLAIM-318](CLAIM-318.md) (Active, demonstrated): "among Markov kernels between finite sets the invertible ones are the permutation matrices". The body already says the point is "now held as [CLAIM-318](CLAIM-318.md)". [CLAIM-098](CLAIM-098.md)'s contested part, that directed lossy transport is the better model, is not used.

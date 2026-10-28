@@ -22,8 +22,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1259
-answers:
-- QUESTION-222
 summary: >-
   Parish and Duraisamy (2017), [LIT-1259](../literature.d/LIT-1259.md), read in [NOTE-973](../notes.d/NOTE-973.md). The
   finite-memory closure turns the Mori–Zwanzig memory integral into
@@ -34,6 +32,8 @@ summary: >-
   the kernel's form is fixed by the quadrature, not by the eliminated
   dynamics. It is an augmentation with uncontrolled error, not the
   controlled one the question asks for.
+bears_on:
+- QUESTION-222
 ---
 <!-- inactive-ok-file: THEORY-747 — Proposed; the empirical companion account from the same reading -->
 <!-- inactive-ok-file: THEORY-257 CLAIM-327 — Proposed; the record's criteria this account is set beside, nothing here rests on their being settled -->

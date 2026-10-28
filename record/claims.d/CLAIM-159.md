@@ -39,8 +39,11 @@ summary: >-
   relations that decides which regime is effective, so it governs the
   drive profile's changes over time. That is the owner's point that "who
   drives" is not constant.
+objects_to:
+- CLAIM-024
 ---
 <!-- ref::uses-file: TERM-048 — the claim places will-organization as the governance that makes a willed agent, and its third account is that kind -->
+<!-- inactive-ok-file: CLAIM-024 — Proposed; the objection this claim partly answers, open -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 CLAIM-027 — Proposed; the three accounts this claim places, each with its own standing -->
 
 # CLAIM-159: The record's rival accounts of will are claims about drive profiles in different cells: Ainslie's interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes
@@ -77,3 +80,13 @@ principle, with the decomposition over windows around a temptation.
   some choices and top-down over others, which is the time-varying point
   again.
 - **That the placement is the authors'.** None of them uses these terms.
+
+## Note of 2026-10-27: a reply to [CLAIM-024](CLAIM-024.md)
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) added `objects_to: CLAIM-024`.
+[CLAIM-024](CLAIM-024.md) says that control and institutional theory already study every
+mechanism the account names. This claim's placement is a partial reply on
+two of its four fronts. The expected value of control is top-down and
+Ainslie's interests are aggregate or emergent, and will-organization is a
+claim about what governs how the profile changes. Planning theory and
+institutional theory are not placed.

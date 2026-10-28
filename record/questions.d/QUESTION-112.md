@@ -5,7 +5,7 @@ formerly:
 - QUESTION-tmpzf5on
 title: How should the sufficiency of a retained state be judged when the family
   of future decisions can itself change in response to what the inquiry finds?
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,12 @@ history:
     Note of 2026-10-22 added after the Ledger of Will was read
     (NOTE-1091): a partial answer for a revision family declared in
     advance. The question stays open.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Status review of 2026-10-27 (ADR-049). A8's question, which A10
+    answered, is QUESTION-tmpgjyn2, Answered by CLAIM-300. This question
+    keeps what A10 left: a decision family that changes with the inquiry.
 tags:
 - epistemology
 - mathematical-statistics
@@ -25,8 +31,9 @@ summary: >-
   relative to a decision family, and inquiry changes its own family.
 answered_by:
 - CLAIM-295
-- CLAIM-300
 - THEORY-884
+refined_by:
+- QUESTION-tmpgjyn2
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -70,3 +77,12 @@ retained routes to reacquisition" (§10). Its fibre criterion (Proposition
 2) is [CLAIM-350](../claims.d/CLAIM-350.md)'s result stated independently for histories, and its
 "Information availability and computational accessibility are different
 resources" (§5.2) is one of [CLAIM-295](../claims.d/CLAIM-295.md)'s three values.
+
+## Note of 2026-10-27: A8's question split off
+
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). A8's
+question, whether history adds value beyond a sufficient state, and
+whether such a state can stop being sufficient, is [QUESTION-tmpgjyn2](QUESTION-tmpgjyn2.md),
+Answered by [CLAIM-300](../claims.d/CLAIM-300.md). This question keeps what is still open: how to
+judge sufficiency when the decision family changes with what the inquiry
+finds. The title already said only that, so it is unchanged.

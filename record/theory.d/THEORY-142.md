@@ -29,7 +29,7 @@ summary: >-
   source of improvement, so fast socialization hurts the organization and
   moderate turnover helps it. Proposed: the dynamics are shown only in a
   stylized model, and the trade-off is argued, not measured.
-supports:
+corroborates:
 - CLAIM-079
 ---
 <!-- inactive-ok-file: THEORY-148 — Proposed; transient diversity, named for a parallel -->

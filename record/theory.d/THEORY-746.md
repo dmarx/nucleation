@@ -23,8 +23,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1249
-answers:
-- QUESTION-217
 summary: >-
   Wiskott and Sejnowski (2002), [LIT-1249](../literature.d/LIT-1249.md), read in full in
   [NOTE-971](../notes.d/NOTE-971.md). Within the span of a fixed basis, the slowest
@@ -39,6 +37,8 @@ summary: >-
   opposed to slowness, or about learning dynamics.
 supports:
 - CLAIM-394
+bears_on:
+- QUESTION-217
 ---
 <!-- inactive-ok-file: CLAIM-331 THEORY-186 — Proposed; claims and accounts this bears on, nothing here rests on their being settled -->
 

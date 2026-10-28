@@ -61,7 +61,6 @@ line: 'will-organization'
 answered_by:
 - THEORY-040
 - THEORY-047
-- THEORY-121
 summary: >-
   [CLAIM-022](../claims.d/CLAIM-022.md) says explaining practical efficacy does not settle whose the
   will is. [THEORY-040](../theory.d/THEORY-040.md) says any condition stated in present psychological
@@ -70,6 +69,8 @@ summary: >-
   manipulation at all. Asked on the will line so that the question can be
   worked on without reopening the set-aside authenticity line, where
   [CLAIM-016](../claims.d/CLAIM-016.md)'s manipulation defeater sits.
+bearing:
+- THEORY-121
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
@@ -77,7 +78,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-316 — Proposed; the account filed from the partial reading of LIT-1006, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; cited in the note of 2026-10-21, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-025 CLAIM-174 CLAIM-364 CLAIM-404 THEORY-025 THEORY-047 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-174 CLAIM-364 CLAIM-404 THEORY-025 THEORY-047 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-071: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
 

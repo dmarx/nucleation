@@ -32,8 +32,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1242
-answers:
-- QUESTION-218
 summary: >-
   Shpak, Stadler, Wagner and Hermisson (2004), [LIT-1242](../literature.d/LIT-1242.md), read in
   [NOTE-979](../notes.d/NOTE-979.md). Exact aggregation of a linear system by the sums over a
@@ -44,6 +42,8 @@ summary: >-
   itself shows aggregations with no linear counterpart.
 supports:
 - CLAIM-386
+bears_on:
+- QUESTION-218
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->
 # THEORY-755: For a linear system x(t+1) = Ax and a partition of its variables, the vector of block sums evolves autonomously from every initial state iff the partition is column-equitable, every column of each block of A summing to the same value; the aggregate operator then keeps a subset of A's eigenvalues, and the blocks may interact as strongly as they like, so exact aggregation is not decomposition

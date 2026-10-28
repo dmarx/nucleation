@@ -29,8 +29,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1107
-answers:
-- QUESTION-114
 summary: >-
   Weber, Schek and Blott (1998), [LIT-1107](../literature.d/LIT-1107.md), read in [NOTE-919](../notes.d/NOTE-919.md). Under
   uniformity and independence, with the expected nearest-neighbour distance
@@ -46,6 +44,8 @@ summary: >-
   concentration argument.
 supports:
 - CLAIM-311
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-369: Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance and a fixed number of points, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters of at least two points must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10

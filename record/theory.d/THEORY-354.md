@@ -13,8 +13,6 @@ source:
 - LIT-1068
 extends:
 - THEORY-349
-answers:
-- QUESTION-104
 summary: >-
   Dwork, Kim, Reingold, Rothblum and Yona (2021), [LIT-1068](../literature.d/LIT-1068.md), read in [NOTE-885](../notes.d/NOTE-885.md).
   Against sample-access distinguishers of size s an outcome-indistinguishable
@@ -25,6 +23,8 @@ summary: >-
   comes from adaptive queries. The results are conditional and asymptotic, with
   upper and lower bounds in different parameterisations; they say nothing about
   human observers or about which access a real auditor has.
+bears_on:
+- QUESTION-104
 ---
 
 # THEORY-354: An observer's power to refute a predictor depends on its access to the predictor as well as on its budget: against tests that see only the sampled prediction a predictor of size O(s/ε²) always passes, but if fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests that may query the predictor adaptively pass only predictors about as costly as nature's own

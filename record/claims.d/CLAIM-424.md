@@ -50,7 +50,7 @@ summary: >-
 illustrated_by:
 - CASE-127
 ---
-<!-- inactive-ok-file: CLAIM-025 CLAIM-284 CLAIM-288 CLAIM-364 CLAIM-416 CLAIM-417 CLAIM-419 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-284 CLAIM-288 CLAIM-364 CLAIM-416 CLAIM-417 CLAIM-419 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-424: Reflexive governance of an organization's perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well
 

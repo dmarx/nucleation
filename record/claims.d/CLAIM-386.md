@@ -19,8 +19,6 @@ date: '2026-10-20'
 line:
 - distributed-agency
 - formal-apparatus
-answers:
-- QUESTION-221
 grounds:
 - LIT-1241
 - THEORY-755
@@ -33,6 +31,8 @@ summary: >-
   vanishes exactly in the equitable case of [THEORY-755](../theory.d/THEORY-755.md). Deterministic
   dynamics, one step; the post-transient orders reported below are
   numerical, not part of the claim.
+bears_on:
+- QUESTION-221
 ---
 
 # CLAIM-386: For x(t+1) = (A* + εC)x with A* block-diagonal, the Simon–Ando aggregate Â = QAV has one-step closure defect exactly QA − ÂQ = QA(I − VQ); the part from the blocks' own dynamics vanishes iff every block has equal column sums, and then the whole defect is ε·QC(I − VQ)

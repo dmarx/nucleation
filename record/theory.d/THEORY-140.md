@@ -29,10 +29,11 @@ summary: >-
   reconstructed after the fact, and the general theory is in a book the
   record has not read.
 supports:
-- CLAIM-030
 - CLAIM-422
 reports:
 - CASE-138
+corroborates:
+- CLAIM-030
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, which the chapter applies -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for comparison -->

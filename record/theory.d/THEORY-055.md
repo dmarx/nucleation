@@ -49,10 +49,6 @@ summary: >-
 presupposed_by:
 - THEORY-126
 supports:
-- CLAIM-039
-- CLAIM-275
-- CLAIM-283
-- CLAIM-355
 - CLAIM-432
 - CLAIM-440
 - CLAIM-442
@@ -63,6 +59,19 @@ answers:
 <!-- inactive-ok-file: THEORY-057 THEORY-045 THEORY-056 — Proposed; the rival and the neighbours, stated as such -->
 
 # THEORY-055: An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
+
+## Note of 2026-10-27: the concept separated from the account
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found that most of this account's
+dependents used only its concept of action readiness with control
+precedence, and not its thesis about elicitation or its mapping of
+emotions to modes. The concept is now [TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md), adopted. [CLAIM-039](../claims.d/CLAIM-039.md),
+[CLAIM-275](../claims.d/CLAIM-275.md), [CLAIM-283](../claims.d/CLAIM-283.md) and [CLAIM-355](../claims.d/CLAIM-355.md) are stated in the term and no longer
+grounded here. [CLAIM-432](../claims.d/CLAIM-432.md), [CLAIM-440](../claims.d/CLAIM-440.md) and [CLAIM-442](../claims.d/CLAIM-442.md) engage the account itself
+and still are. The account stays Proposed. Its blocker is the one its
+promote_when names: the fuller statements ([LIT-546](../literature.d/LIT-546.md), [LIT-550](../literature.d/LIT-550.md)) are
+Unavailable, and the record holds no test that only the order of
+explanation can account for.
 
 ## Source
 

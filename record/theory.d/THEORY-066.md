@@ -32,7 +32,7 @@ supports:
 - CLAIM-152
 - CLAIM-194
 ---
-<!-- inactive-ok-file: THEORY-073 THEORY-072 THEORY-071 — Proposed; the wider claims this one supports or sits beside, not leaned on -->
+<!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the wider claims this one supports or sits beside, not leaned on -->
 
 # THEORY-066: A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
 

@@ -13,8 +13,6 @@ source:
 - LIT-1092
 - LIT-1080
 - LIT-1091
-answers:
-- QUESTION-114
 extends:
 - THEORY-356
 summary: >-
@@ -29,6 +27,8 @@ summary: >-
   optimum, with greedy stages exponential in general. The proof does not treat
   the negative effective costs the paper allows. Upkeep is a budget, not a cost
   traded against savings, and staleness and build cost are not modelled.
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-350: Under a budget on maintenance time, a stored view's upkeep depends on which other views are stored, so upkeep is not additive and adding a view can lower it, and greedily adding the single view of best saving per unit of upkeep can be arbitrarily bad; on OR view graphs a greedy over inverted tree sets gets 1 − 1/e of the saving of an optimum given as much upkeep, using up to twice the budget, if no tree-piece of the optimum alone exceeds the budget

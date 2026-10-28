@@ -3,8 +3,16 @@ number: 17
 status: Open
 formerly:
 - QUESTION-tmpklhva
-title: 'What bound on accumulated drift holds when distortion is directed and need not satisfy the triangle inequality?'
-version: 1
+title: 'Where the additive bound fails, what bound on accumulated drift holds when distortion is directed and need not satisfy the triangle inequality?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. Whether the
+    additive bound holds, and under which of a metric's properties, is
+    QUESTION-tmpvsepl, Answered by CLAIM-260. This question keeps the
+    weaker bound where the additive one fails, and directed distortion.
 tags:
 - mathematics
 - philosophy-of-language
@@ -17,15 +25,14 @@ summary: >-
   dropped symmetry and the triangle inequality for distortion. The
   tension was never resolved; the manuscript states its recursion "in
   the chosen metric".
-answered_by:
-- CLAIM-260
 refined_by:
 - QUESTION-074
+- QUESTION-tmpvsepl
 ---
 <!-- inactive-ok-file: CLAIM-059 CLAIM-106 CLAIM-186 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# QUESTION-017: What bound on accumulated drift holds when distortion is directed and need not satisfy the triangle inequality?
+# QUESTION-017: Where the additive bound fails, what bound on accumulated drift holds when distortion is directed and need not satisfy the triangle inequality?
 
 ## Why it is a question
 
@@ -78,3 +85,13 @@ Without a triangle inequality the additive bound can fail: under squared
 Hellinger distance two steps of about 0.29 compose to 1. It is partial: it
 says where the additive bound fails, not what weaker bound holds there,
 and it does not treat directed distortion.
+
+## Note of 2026-10-27: the additive part split off
+
+The status review of this date split this question under [ADR-049](../decisions.d/ADR-049.md). Whether
+the composite's distortion is bounded by the sum of the parts', and under
+which of a metric's properties, is [QUESTION-tmpvsepl](QUESTION-tmpvsepl.md), Answered by
+[CLAIM-260](../claims.d/CLAIM-260.md): it holds with a triangle inequality and a nonexpansive later
+kernel, and fails without either. This question keeps what is still open:
+what weaker bound holds where the additive one fails, and what holds for
+directed distortion.

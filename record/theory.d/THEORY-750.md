@@ -24,8 +24,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1243
-answers:
-- QUESTION-219
 summary: >-
   Granero-Belinchón, Roux and Garnier (2016), [LIT-1243](../literature.d/LIT-1243.md), read in full in
   [NOTE-970](../notes.d/NOTE-970.md). A Gaussian identity and its small-lag asymptotics: the
@@ -36,6 +34,8 @@ summary: >-
   is not a distribution of a conserved quantity over scales, and it carries
   nothing about the direction or size of energy transfer. It answers
   [QUESTION-219](../questions.d/QUESTION-219.md) only in the narrow sense of supporting A3's caution.
+bears_on:
+- QUESTION-219
 ---
 
 # THEORY-750: For a stationary Gaussian signal the lag-τ entropy rate with one-point embedding is h_τ = H(X) + ½ log(1 − c(τ)²), so where the normalized second-order structure function 1 − c(τ) is small and scales as τ^ζ₂, h_τ = (ζ₂/2) log τ + constant; the "scaling of information" that Granero-Belinchón, Roux and Garnier measure in near-Gaussian wind-tunnel turbulence, slope 1/3 in the inertial range and 1 in the dissipative range, is the scaling of the second-order structure function written in nats

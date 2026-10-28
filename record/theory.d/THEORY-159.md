@@ -29,7 +29,6 @@ summary: >-
   positive fact and the relation between signs opposition. The support is
   argument by example.
 supports:
-- CLAIM-072
 - CLAIM-082
 - CLAIM-254
 - CLAIM-242

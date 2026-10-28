@@ -35,6 +35,7 @@ grounds:
 - LIT-1652
 uses:
 - TERM-065
+- TERM-tmppwzer
 summary: >-
   The owner's, U15 of the exchange of 2026-10-27: "inquiry is a form of
   specification." It carries [CLAIM-477](CLAIM-477.md)'s analogy into inquiry:
@@ -185,3 +186,10 @@ benchmarks are what keep the comparison from rewarding moved goalposts.
   design, requirements are evoked mid-process and need not be specified in
   advance (pp. 190–191). But most of his revision is selection, "generated
   from, or dredged from" memory (p. 188), which leans toward defeater (a).
+
+## Note of 2026-10-27: the term
+
+The owner asked the same day for a TERM for inquiry, "an important building
+block of our formal argument". [TERM-tmppwzer](../terms.d/TERM-tmppwzer.md) defines it as the tuple
+(Σ, A, 𝓘, 𝓞, 𝓚, 𝓑) used above, and leaves this claim's thesis out of the
+definition. So the claim is stated in the term and not true by definition.

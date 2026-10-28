@@ -22,7 +22,7 @@ summary: >-
   parallelogram law under a finite-chain assumption and uses the
   orthomodular identity as a step without naming it. Citing either paper
   for "the orthomodular lattice of quantum logic" misattributes it.
-answers:
+bears_on:
 - QUESTION-055
 ---
 

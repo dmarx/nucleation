@@ -43,10 +43,11 @@ summary: >-
   paper and the 1986 stochastic analysis are unread and the data are
   held as their author reports them.
 supports:
-- CLAIM-045
 - CLAIM-110
 - CLAIM-163
 - CLAIM-172
+corroborates:
+- CLAIM-045
 ---
 <!-- inactive-ok-file: LIT-588 LIT-578 — Unavailable; HKB 1985 and Dynamic Patterns, named as the unread originals, not leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-056 — Proposed; the record's account of disorder as an alternative stable state, and its account of control without a regulator, named for their bearing -->

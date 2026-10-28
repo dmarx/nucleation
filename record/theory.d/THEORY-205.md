@@ -33,7 +33,7 @@ summary: >-
   and when the two coincide is QUESTION-185. The paper's
   "equivalence" of IB and RG relevance, and [LIT-878](../literature.d/LIT-878.md)'s use of it for RSMI
   filters on planar blocks, go beyond it.
-answers:
+bears_on:
 - QUESTION-065
 ---
 <!-- inactive-ok-file: QUESTION-025 CLAIM-092 — Proposed or open; cited as the accounts this one underpins or is set beside, and the question and claim it does not answer -->

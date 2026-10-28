@@ -67,7 +67,7 @@ supports:
 objected_by:
 - CLAIM-206
 ---
-<!-- inactive-ok-file: CLAIM-046 CLAIM-050 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-050 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the definition the Yoneda reading restates, not as current -->
 <!-- inactive-ok-file: CLAIM-206 CLAIM-217 — Proposed; the objection that prompted version 2 and the record's reply to it, both open -->
 

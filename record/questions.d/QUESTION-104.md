@@ -16,9 +16,9 @@ summary: >-
   A14 §3 and A15 §8, after the owner's correction at U14. [CLAIM-152](../claims.d/CLAIM-152.md) says sufficiency-based
   individuation is relative to its target. This asks whether it is also relative
   to the observer's resources.
-answered_by:
-- THEORY-349
+bearing:
 - THEORY-354
+- THEORY-349
 ---
 
 # QUESTION-104: Which partitions of a system remain sufficient, exactly or approximately, when prediction is restricted to a computational budget, and does the budget change which units are worth naming?

@@ -14,8 +14,6 @@ line: 'distributed-agency'
 refines:
 - QUESTION-035
 answered_by:
-- THEORY-198
-- THEORY-205
 - THEORY-157
 - THEORY-257
 - CLAIM-405
@@ -28,6 +26,9 @@ refined_by:
 - QUESTION-115
 - QUESTION-154
 - QUESTION-221
+bearing:
+- THEORY-205
+- THEORY-198
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; a reading listed with its limits, an answer in part -->
 

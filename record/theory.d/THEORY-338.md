@@ -11,8 +11,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1093
-answers:
-- QUESTION-114
 summary: >-
   Sleator and Tarjan (1985), [LIT-1093](../literature.d/LIT-1093.md), read in [NOTE-903](../notes.d/NOTE-903.md). With no
   probabilistic assumption, move-to-front on a sequentially scanned list is
@@ -25,6 +23,8 @@ summary: >-
   memory when the memories are equal. It is one list, or one two-level
   memory, with uniform items: it says nothing about bins, partitions or
   search that is not a scan.
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-338: For a list searched from the front, where reaching the i-th item costs i, moving each found item to the front costs at most twice what any rule costs on the same sequence, including rules that know the future (four times counting its own moves), a fixed order by access frequency is within no constant factor, and paying to rearrange ahead of need never helps; for paging, no online rule beats the offline optimum by less than n/(n − n_MIN + 1), and LRU meets that bound

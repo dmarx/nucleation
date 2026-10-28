@@ -51,7 +51,6 @@ grounds:
 - THEORY-691
 - THEORY-563
 - THEORY-125
-- THEORY-055
 complements:
 - CLAIM-165
 - CLAIM-155
@@ -62,6 +61,7 @@ complements:
 - CLAIM-440
 - CLAIM-439
 uses:
+- TERM-tmp3mqer
 - TERM-045
 works:
 - organization-of-perspective
@@ -283,3 +283,12 @@ represented owner in the small.
 the only misleading entity in the self-model. The imagined social audience
 may also be organized into a false unity." That extension is filed as its
 own claim, [CLAIM-415](CLAIM-415.md), which complements this one.
+
+
+## Note of 2026-10-27: the concept, not the account
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim from grounding
+in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-tmp3mqer](../terms.d/TERM-tmp3mqer.md), Frijda's action readiness with
+control precedence. The claim uses the concept. It does not need the
+account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
+and which stays Proposed.

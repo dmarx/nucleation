@@ -49,8 +49,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1292
-answers:
-- QUESTION-221
 summary: >-
   Bousquet and Slotine (arXiv 2015), [LIT-1292](../literature.d/LIT-1292.md), read in [NOTE-1025](../notes.d/NOTE-1025.md). It
   gives Simon's near-decomposability the rate in ε that [THEORY-661](THEORY-661.md)'s open
@@ -60,6 +58,8 @@ summary: >-
   states are from the reduced description, not how much information the
   rest of the system sends into the slow variables, and it takes the slow
   coordinates as given.
+bears_on:
+- QUESTION-221
 ---
 <!-- inactive-ok-file: NOTE-1020 — new reading, cited for the re-derivations its promotion would rest on -->
 <!-- inactive-ok-file: LIT-1127 LIT-1294 — Unavailable; the works this result stands in for, nothing rests on them -->

@@ -37,6 +37,7 @@ uses:
 - TERM-065
 - TERM-064
 - TERM-092
+- TERM-tmppwzer
 summary: >-
   The owner's, U17 of the exchange of 2026-10-27: "resource constraints
   impact specification in exactly the same way as they impact
@@ -190,3 +191,9 @@ particular agents and institutions."
   So "inability to find a gluing within available resources" needs a third
   case beside "failure to glue": the evidence does not determine the gluing
   at all. In his model it is evidence, not computation, that binds.
+
+## Note of 2026-10-27: the term
+
+An inquiry is now [TERM-tmppwzer](../terms.d/TERM-tmppwzer.md): (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑). This claim is about
+its last component, 𝓑, and about how formulating spends it before answering
+does.

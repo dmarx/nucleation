@@ -21,13 +21,9 @@ tags:
 date: '2026-10-12'
 line: 'learned-structure'
 answered_by:
-- THEORY-083
 - THEORY-104
 - THEORY-085
-- THEORY-278
 - THEORY-286
-- THEORY-294
-- THEORY-246
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-010](QUESTION-010.md) and [CLAIM-164](../claims.d/CLAIM-164.md).
@@ -39,6 +35,11 @@ refined_by:
 - QUESTION-192
 - QUESTION-202
 - QUESTION-236
+bearing:
+- THEORY-246
+- THEORY-294
+- THEORY-278
+- THEORY-083
 ---
 <!-- inactive-ok-file: THEORY-286 — Proposed; partial answers filed today, cited with their limits -->
 

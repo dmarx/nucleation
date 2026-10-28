@@ -40,7 +40,7 @@ summary: >-
   Dᵢ-weighted POVM still sums to the identity. None of this is in the paper.
   It does not make superposition contextual or quantum, and it says nothing
   yet about trained real models.
-answers:
+bears_on:
 - QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-017 — Proposed; named in Connections for which structure is intrinsic, not leaned on -->

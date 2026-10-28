@@ -34,7 +34,7 @@ summary: >-
   about networks whose kernel moves.
 presupposed_by:
 - THEORY-084
-answers:
+bears_on:
 - QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-019 THEORY-084 THEORY-080 — Proposed; named in Connections, nothing here rests on them -->

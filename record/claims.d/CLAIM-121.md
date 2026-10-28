@@ -26,7 +26,7 @@ uses:
 - TERM-008
 grounds:
 - LIT-846
-- THEORY-174
+- THEORY-720
 summary: >-
   Proposition I of A84, Proposition B1 of C6, the manuscript's
   Proposition 1. It concerns marginal consistency, not global
@@ -85,3 +85,13 @@ manuscript should cite it, and this claim now names it in its grounds,
 with the THEORY that states the general result ([THEORY-174](../theory.d/THEORY-174.md)): classical
 simulations between scenarios, cover-changing ones included, never create
 contextuality. The open remainder is [CLAIM-125](CLAIM-125.md).
+
+## Note of 2026-10-27: grounded in the proved half
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-174](../theory.d/THEORY-174.md) to [THEORY-720](../theory.d/THEORY-720.md). The claim uses the classical simulations and their
+monotonicity, that they never create contextuality, which is proved in
+refereed venues and Active as [THEORY-720](../theory.d/THEORY-720.md). It does not use [THEORY-174](../theory.d/THEORY-174.md)'s
+characterization, that a map is such a simulation exactly when a
+non-contextual model of the hom scenario induces it. That half waits on an
+independent proof of the corrected Theorem 44 and stays Proposed.

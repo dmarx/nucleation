@@ -1,10 +1,10 @@
 ---
 number: 25
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp7wkss
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,13 @@ history:
     without citing either; A27 adds an epistemic form of the third tier, and
     A24 a different source of insulation, social position. Pohlhaus and Dotson, sought the same day, are Unavailable. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-27'
+  note: >-
+    Promoted at the owner's ruling of 2026-10-27 on the status review
+    (ADR-057). CASE-111 and CASE-112, constructions already cited in
+    the body, now ground it. THEORY-145 is cited and no longer grounds
+    it. ARG-007, Active, rested on it.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,7 +36,8 @@ works:
 - organization-of-will
 grounds:
 - CASE-036
-- THEORY-145
+- CASE-111
+- CASE-112
 uses:
 - TERM-020
 supports:
@@ -43,8 +51,6 @@ supports:
 illustrated_by:
 - CASE-036
 - CASE-075
-- CASE-111
-- CASE-112
 summary: >-
   Section 6.2, from the emergency variant of Northstar.
 complements:
@@ -115,3 +121,20 @@ revision". Both are Argyris's single-loop learning and self-sealing tests,
 held in [THEORY-145](../theory.d/THEORY-145.md), and neither reply cited them. The difference is the
 source of the insulation: on A24's account it is social position, not
 defensive routine.
+
+## Note of 2026-10-27: promoted
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) promoted this claim. It is an
+existence claim ("can persist or fail separately"), and two Active
+constructions show the separation in a model. [CASE-111](../cases.d/CASE-111.md)'s fold loses
+maintenance while the maintained state persists, and [CASE-112](../cases.d/CASE-112.md)'s tilted
+bistability changes the operative regime apart from what governs it. Both
+were cited in the note of 2026-10-18 and now ground the claim. [CASE-036](../cases.d/CASE-036.md)
+is the organizational form. [THEORY-145](../theory.d/THEORY-145.md) no longer grounds it. Argyris's
+single-loop against double-loop learning is the same separation observed
+in organizations, and the directive above already said nothing here rests
+on it. Its empirical thesis stays Proposed under its own promote_when. No
+objection is filed, and its defeater asks for a case where degraded
+transformation always shows up as an operative or governing failure,
+which the constructions rule out within their models. [ARG-007](../arguments.d/ARG-007.md), Active,
+already rested on this claim.

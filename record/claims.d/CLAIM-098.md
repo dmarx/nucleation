@@ -43,8 +43,6 @@ summary: >-
   for the rest.
 objected_by:
 - CLAIM-260
-supports:
-- CLAIM-249
 complements:
 - CLAIM-318
 ---

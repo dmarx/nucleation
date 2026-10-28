@@ -44,7 +44,7 @@ supports:
 presupposed_by:
 - THEORY-564
 ---
-<!-- inactive-ok-file: THEORY-073 THEORY-079 — Proposed; named in Connections, no relation leans on them -->
+<!-- inactive-ok-file: THEORY-079 — Proposed; named in Connections, no relation leans on them -->
 
 # THEORY-081: The evidence of any model formed from a full model by changing only its prior is the full evidence times the full posterior expectation of the prior ratio, so the Savage–Dickey ratio is its point-mass case and choosing which parameters to keep is evidence maximisation over the prior
 

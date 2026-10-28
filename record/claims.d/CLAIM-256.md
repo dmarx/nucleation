@@ -12,9 +12,6 @@ tags:
 - philosophy-of-language
 date: '2026-10-10'
 line: pragmatic-transport
-rests_on:
-- CLAIM-076
-- CLAIM-087
 objects_to:
 - CLAIM-005
 uses:
@@ -29,6 +26,9 @@ summary: >-
   component with a formula ([CLAIM-128](CLAIM-128.md)). Granted, because it is read off
   the definition. It does not say no other component could catch an
   addition, or that additions are distortions.
+complements:
+- CLAIM-087
+- CLAIM-076
 ---
 <!-- ref::uses-file: TERM-021 — applied unnamed: the D_obs this objection examines is context-indexed distribution matching summed over source contexts -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claim this objection is to -->
@@ -71,3 +71,7 @@ So the one computable component is blind to additions.
 - It does not say directedness is wrong. A directed measure may weigh
   losses and additions differently. This one does not weigh additions at
   all.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) changed `rests_on` [CLAIM-076](CLAIM-076.md) and [CLAIM-087](CLAIM-087.md) to `complements`. The result is read off [TERM-043](../terms.d/TERM-043.md)'s definition. The two claims say only that additions happen, which motivates the result and is not a premise of it.

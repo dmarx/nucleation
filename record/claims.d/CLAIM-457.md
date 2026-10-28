@@ -20,8 +20,6 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
-answers:
-- QUESTION-278
 grounds:
 - CASE-175
 complements:
@@ -35,6 +33,8 @@ summary: >-
   realize an outcome together is not being responsible for it together,
   and feasible, authorized, willing and compellable coalitions are four
   families, not one.
+bears_on:
+- QUESTION-278
 ---
 
 # CLAIM-457: That no single institution can bring about a remedy does not imply that no combination of them can: the institutions able together to realize a corrective outcome need include none able alone, so a true statement of unilateral inability is not a statement that the outcome is unattainable

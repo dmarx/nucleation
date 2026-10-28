@@ -61,11 +61,11 @@ summary: >-
   They give nothing that reaches random features or expand-and-threshold.
   For SDM and the fly, the record's SDM recall account and its LSH
   account offer candidate thresholds of a different shape.
-answered_by:
-- THEORY-393
 refined_by:
 - QUESTION-168
 - QUESTION-251
+bearing:
+- THEORY-393
 ---
 <!-- inactive-ok-file: LIT-1158 — Unavailable; the fly paper, a lawful preprint this client could not fetch -->
 <!-- inactive-ok-file: THEORY-106 — Proposed; the accounts the random-features and SDM threads are set against -->

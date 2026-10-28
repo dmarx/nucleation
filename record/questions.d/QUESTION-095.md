@@ -29,15 +29,16 @@ refined_by:
 answered_by:
 - THEORY-330
 - THEORY-331
-- THEORY-334
 - THEORY-339
 - THEORY-342
 - THEORY-343
-- THEORY-346
 - THEORY-355
 - THEORY-359
-- THEORY-360
 - THEORY-823
+bearing:
+- THEORY-360
+- THEORY-346
+- THEORY-334
 ---
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

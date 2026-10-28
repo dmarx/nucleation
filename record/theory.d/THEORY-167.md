@@ -42,7 +42,6 @@ summary: >-
 supports:
 - CLAIM-145
 - CLAIM-147
-- CLAIM-234
 ---
 <!-- inactive-ok-file: NOTE-642 THEORY-432 — Skimmed and Proposed; the English translation's skim and the Lévi-Strauss account, named in Connections, not leaned on -->
 

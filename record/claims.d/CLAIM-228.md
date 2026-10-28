@@ -46,7 +46,7 @@ rests_on:
 - CLAIM-011
 - CLAIM-381
 grounds:
-- THEORY-156
+- THEORY-tmp5sao6
 complements:
 - CLAIM-005
 uses:
@@ -182,3 +182,13 @@ The three derivations in "The claim", the constant-kernel exclusion, exact
 fit as a garbling and the finite deficiency computation, are now
 [CLAIM-381](CLAIM-381.md), demonstrated and Active. This claim keeps the proposal and
 its empirical test.
+
+## Note of 2026-10-27: grounded in what it uses of Blackwell
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) moved this claim's ground from
+[THEORY-156](../theory.d/THEORY-156.md) to [THEORY-tmp5sao6](../theory.d/THEORY-tmp5sao6.md). It uses Blackwell's definitions (an experiment, a
+garbling, the informativeness order) or the easy direction, that a
+garbling never helps a decision-maker free to choose any rule. Both hold
+on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
+general converse, which stays Proposed, is not used. Quotations of
+[THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.

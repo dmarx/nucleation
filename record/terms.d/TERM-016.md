@@ -22,7 +22,6 @@ summary: >-
   given up twice: at A24 for a measurement context, at A30 for an
   operator.
 used_by:
-- CLAIM-004
 - CLAIM-102
 - CLAIM-109
 ---

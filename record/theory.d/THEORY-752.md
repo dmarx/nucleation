@@ -22,8 +22,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1253
-answers:
-- QUESTION-222
 summary: >-
   Chorin, Hald and Kupferman (2002), [LIT-1253](../literature.d/LIT-1253.md), read in [NOTE-975](../notes.d/NOTE-975.md):
   Theorem 8.1. Truncating the Mori–Zwanzig memory integral at its lag-zero
@@ -34,6 +32,8 @@ summary: >-
   mean's effective energy need not decrease.
 supports:
 - CLAIM-401
+bears_on:
+- QUESTION-222
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the closure criterion this is contrasted with, open -->
 # THEORY-752: In optimal prediction of a Hamiltonian system with separable energy and canonical initial law, projected by conditional expectation, the t-model's leading-order memory term tPLQLx makes the effective Hamiltonian of the resolved variables non-increasing, so the eliminated variables' memory enters as a damping that grows linearly in time

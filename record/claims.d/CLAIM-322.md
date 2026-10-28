@@ -1,10 +1,19 @@
 ---
 number: 322
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpumwtu
 title: Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-27'
+  note: >-
+    Held by the owner's ruling of 2026-10-27 on the first status
+    review (ADR-057), carrying out the promotion audit's decision of
+    2026-10-19 (record/promotion-audit/decisions/CLAIM-322.yaml). Its
+    premise, CLAIM-264, is Active, no objection is filed, and
+    CLAIM-011 states the same rule for correspondences.
 role: thesis
 warrant: interpretive
 defeated_if: >-

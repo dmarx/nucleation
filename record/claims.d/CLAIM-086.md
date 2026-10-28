@@ -39,10 +39,10 @@ summary: >-
   constructed Northstar case. The audit's "strong conceptual refinement".
 complements:
 - CLAIM-272
-grounds:
-- THEORY-223
 supports:
 - CLAIM-410
+corroborated_by:
+- THEORY-223
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-410 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
@@ -84,3 +84,7 @@ distinction carried from a single constraint to the removal of one: a
 constraint may govern conduct without governing the conditions of its own
 authority, and removing it may change either. A18 did not cite this
 claim. [CLAIM-410](CLAIM-410.md), filed from A18, rests on it.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-223](../theory.d/THEORY-223.md) from `grounds` to `corroborated_by`. Lahiri's case is an instance of the claim, which [ARG-001](../arguments.d/ARG-001.md) and [ARG-003](../arguments.d/ARG-003.md) conclude, and the claim does not rest on the case.

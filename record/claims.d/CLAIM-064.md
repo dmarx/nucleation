@@ -20,13 +20,13 @@ complements:
 - CLAIM-061
 - CLAIM-054
 uses:
-- TERM-035
+- TERM-030
 summary: >-
   A12's one-line thesis, recovered. Last stated at A12; it fell out when
   the vocabulary moved to speech acts (A14) and then to observables,
   apparently inadvertently, never refuted.
 ---
-<!-- ref::uses-file: TERM-035 — stated in "frame, as the delivery frame: interpretive, enunciative and performative", the definition current when this claim was written; it has since been superseded -->
+<!-- ref::uses-file: TERM-030 — the situation of saying is TERM-030's configuration of the communicative situation; until 2026-10-27 it used TERM-035, now Superseded -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
@@ -54,3 +54,9 @@ Villon's into another century ([CASE-010](../cases.d/CASE-010.md)). It must reco
 same role. Weaker than the manuscript's central thesis ([CLAIM-115](CLAIM-115.md)) in one respect
 and stronger in another: it names what is reconstructed, but not who must be
 able to recover it.
+
+## Note of 2026-10-27: stated in the live term
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-035](../terms.d/TERM-035.md),
+which is Superseded. It now uses [TERM-030](../terms.d/TERM-030.md): the situation of saying is [TERM-030](../terms.d/TERM-030.md)'s configuration of the communicative situation. The claim's status is not
+changed by this.

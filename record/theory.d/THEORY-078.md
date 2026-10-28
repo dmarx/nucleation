@@ -59,7 +59,7 @@ extends:
 - THEORY-731
 extended_by:
 - THEORY-085
-supports:
+corroborates:
 - CLAIM-164
 ---
 

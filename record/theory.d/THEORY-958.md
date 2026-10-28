@@ -22,8 +22,6 @@ tags:
 date: '2026-10-25'
 source:
 - LIT-1522
-answers:
-- QUESTION-273
 summary: >-
   Bar-Tal, Yariv, Lipman and Dekel (2023), [LIT-1522](../literature.d/LIT-1522.md), read in
   [NOTE-1158](../notes.d/NOTE-1158.md). The fusion is an average, not a sum: where views overlap
@@ -33,6 +31,8 @@ summary: >-
   on strictly positive weights, so it covers neither the overlaps as they
   behave nor masked region generation. Nothing here says what distribution
   the fused sampler targets.
+bears_on:
+- QUESTION-273
 ---
 <!-- inactive-ok-file: CLAIM-336 — Proposed; the operator model whose influence slot this instantiates, open -->
 

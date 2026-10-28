@@ -20,8 +20,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1105
-answers:
-- QUESTION-114
 summary: >-
   Labrinidis and Roussopoulos (2003), [LIT-1105](../literature.d/LIT-1105.md), read in [NOTE-911](../notes.d/NOTE-911.md). Quality
   of Data is the share of fresh fragments in served pages; OVIS(θ) estimates
@@ -33,6 +31,8 @@ summary: >-
   with an optimum. The reading the evidence does not support: that this is a
   joint cost model of build, upkeep, staleness and savings. Staleness is a
   user-set threshold, not a price, and switching and storage are free.
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-382: When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, tracked that threshold by the authors' reading of its curves, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown

@@ -22,8 +22,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1095
-answers:
-- QUESTION-114
 summary: >-
   Bruno and Chaudhuri (2007), [LIT-1095](../literature.d/LIT-1095.md), read in [NOTE-896](../notes.d/NOTE-896.md). An always-on
   index tuner keeps, per index, the running sum of what each statement would
@@ -35,6 +33,8 @@ summary: >-
   when it exceeds it; with every saving at most a tenth of the build cost no
   random workload passed 2.4, but a constructed one with steps at most fB approaches 3 + 2f (note of 2026-10-20). The multi-index tuner with a space limit is
   heuristic, and all costs are optimizer estimates.
+bears_on:
+- QUESTION-114
 ---
 
 # THEORY-332: For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, is not three-competitive: when every statement's saving or loss is at most a fraction f of the build cost, a repeated workload makes it cost nearly 3 + 2f times the offline optimum, and one statement whose saving exceeds the build cost makes the ratio unbounded; no upper bound is shown

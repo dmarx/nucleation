@@ -51,7 +51,7 @@ summary: >-
   not measured.
 supports:
 - CLAIM-082
-answers:
+bears_on:
 - QUESTION-025
 ---
 <!-- inactive-ok-file: CLAIM-119 LIT-267 QUESTION-025 — Proposed or open; cited as what this result bears on -->

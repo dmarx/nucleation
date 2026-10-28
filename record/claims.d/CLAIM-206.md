@@ -37,7 +37,7 @@ objected_by:
 - CLAIM-217
 ---
 <!-- inactive-ok-file: CLAIM-139 CLAIM-142 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-135 CLAIM-046 CLAIM-137 — Proposed; open, cited as the premises the dilemma uses and a sibling defeat condition, not as settled -->
+<!-- inactive-ok-file: CLAIM-135 CLAIM-137 — Proposed; open, cited as the premises the dilemma uses and a sibling defeat condition, not as settled -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-204 — Proposed; the record's replies of 2026-10-10, open, cited in "Where it stands" -->
 
 # CLAIM-206: If a communicative kind can outrun every probe, human same-kind judgements, themselves one probe family, can neither confirm nor defeat the October thesis; if it cannot, the kind does in the tests only what an observational class does, which the record's term for a kind says it is not

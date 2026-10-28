@@ -12,8 +12,6 @@ date: '2026-10-15'
 source:
 - LIT-1100
 - LIT-1111
-answers:
-- QUESTION-114
 summary: >-
   Levy, Mendelzon, Sagiv and Srivastava (1995), [LIT-1100](../literature.d/LIT-1100.md), read in
   [NOTE-909](../notes.d/NOTE-909.md). Every use of a view in an equivalent rewriting comes from a
@@ -28,6 +26,8 @@ summary: >-
 supports:
 - CLAIM-303
 - CLAIM-314
+bears_on:
+- QUESTION-114
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
 

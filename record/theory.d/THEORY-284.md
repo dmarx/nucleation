@@ -31,7 +31,7 @@ summary: >-
   without knowing g. Both hypotheses are assumed, not derived from
   training. GPT-2's years are homeomorphic to both a linear and a
   logarithmic scale, and only the metric test told them apart.
-answers:
+bears_on:
 - QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-022 THEORY-019 CLAIM-135 CLAIM-193 — Proposed; accounts this one bears on -->

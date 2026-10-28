@@ -64,8 +64,7 @@ supports:
 complements:
 - CLAIM-302
 ---
-<!-- inactive-ok-file: CLAIM-046 CLAIM-142 CLAIM-187 CLAIM-190 CLAIM-193 QUESTION-031 — Proposed; cited for what each holds or applies, open, not settled -->
-<!-- inactive-ok-file: CLAIM-322 — Proposed; the evidential half split from this claim, named as where it now lives, not leaned on -->
+<!-- inactive-ok-file: CLAIM-142 CLAIM-187 CLAIM-190 CLAIM-193 QUESTION-031 — Proposed; cited for what each holds or applies, open, not settled -->
 
 # CLAIM-264: Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough
 

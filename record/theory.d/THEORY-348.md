@@ -11,8 +11,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1096
-answers:
-- QUESTION-114
 summary: >-
   Karlin, Manasse, Rudolph and Sleator (1988), [LIT-1096](../literature.d/LIT-1096.md), read in
   [NOTE-893](../notes.d/NOTE-893.md). A snoopy cache holding a shared block pays 1 per write to
@@ -27,6 +25,8 @@ summary: >-
   authors call the practical significance "unclear".
 supports:
 - CLAIM-308
+bears_on:
+- QUESTION-114
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; named as a claim this account bears on, not leaned on -->
 

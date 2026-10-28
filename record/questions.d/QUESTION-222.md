@@ -3,8 +3,8 @@ number: 222
 status: Open
 formerly:
 - QUESTION-tmpxapb2
-title: 'Beyond the scalar linear Gaussian case, when a coarse variable''s reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?'
-version: 3
+title: 'Beyond the scalar linear Gaussian case and the deterministic case of a fast, contracting eliminated variable, when a coarse variable''s reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?'
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,14 @@ history:
     A dated note added: three finite-state results on history against
     state from the Perspective Population Lab, none a bound in terms of
     the eliminated dynamics. The question is unchanged.
+- version: 4
+  date: '2026-10-27'
+  note: >-
+    Narrowed under ADR-049 at the status review of 2026-10-27. The
+    deterministic case of a fast, contracting eliminated variable is
+    QUESTION-tmpf2ohw, Answered by THEORY-773: no memory coordinate, and
+    an O(ε) error bound uniform in time. The title gains "and the
+    deterministic case of a fast, contracting eliminated variable".
 tags:
 - complex-systems
 - mathematics
@@ -34,22 +42,23 @@ summary: >-
   them, and [CLAIM-327](../claims.d/CLAIM-327.md) already locates a collective in a variable members
   read from the past.
 answered_by:
-- CLAIM-389
-- THEORY-752
-- THEORY-760
-- THEORY-762
-- THEORY-773
 - THEORY-818
-- THEORY-819
-- CLAIM-397
 refined_by:
 - QUESTION-248
+- QUESTION-tmpf2ohw
+bearing:
+- CLAIM-397
+- THEORY-819
+- THEORY-762
+- THEORY-760
+- THEORY-752
+- CLAIM-389
 ---
 <!-- inactive-ok-file: NOTE-1029 — new reading, cited as where CLAIM-397 was derived -->
 <!-- inactive-ok-file: THEORY-818 — Proposed; the Lorenz 96 finding, cited as partial -->
 <!-- inactive-ok-file: LIT-1251 — Unavailable; a work registered and not read, cited as open, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
-# QUESTION-222: Beyond the scalar linear Gaussian case, when a coarse variable's reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?
+# QUESTION-222: Beyond the scalar linear Gaussian case and the deterministic case of a fast, contracting eliminated variable, when a coarse variable's reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?
 
 ## Why it is a question
 
@@ -188,3 +197,13 @@ Three results from the Perspective Population Lab:
 
 None is a bound in terms of the eliminated dynamics, and none is an
 infinite-history result. The question is unchanged.
+
+## Note of 2026-10-27: the fast contracting case split off
+
+The status review of this date split this question again under [ADR-049](../decisions.d/ADR-049.md).
+When the eliminated variable is fast and contracting, and the reduced
+system is contracting, the memoryless reduction predicts to O(ε) for all
+time with explicit constants. That is [QUESTION-tmpf2ohw](QUESTION-tmpf2ohw.md), Answered by
+[THEORY-773](../theory.d/THEORY-773.md). This question keeps what is still open: slow or noisy
+eliminated variables, nonlinear and vector classes, error in terms of the
+eliminated spectrum where memory is needed, and the ruling on levels.

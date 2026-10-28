@@ -12,8 +12,6 @@ tags:
 date: '2026-10-15'
 source:
 - LIT-1119
-answers:
-- QUESTION-114
 summary: >-
   Cho and Garcia-Molina (2000), [LIT-1119](../literature.d/LIT-1119.md), read in [NOTE-906](../notes.d/NOTE-906.md). Freshness is
   the fraction of items equal to their source, age the mean time since an
@@ -26,6 +24,8 @@ summary: >-
   there are no reads, no query savings, no build cost and no cost of a stale
   use, so it is a staleness term and not a model trading staleness against
   upkeep.
+bears_on:
+- QUESTION-114
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-308 — Proposed; claims this account bears on, not leaned on -->
 

@@ -21,8 +21,6 @@ tags:
 - mathematical-statistics
 date: '2026-10-15'
 line: formal-apparatus
-grounds:
-- THEORY-087
 summary: >-
   The owner's LEGO monograph says, in Part I (chapters 4, 6, 7, 9, the Overview
   and "Definitions and Theorems"), that blow-up "restores identifiability", "introduces
@@ -37,6 +35,8 @@ summary: >-
 complements:
 - CLAIM-366
 - CLAIM-450
+grounds:
+- CASE-152
 ---
 <!-- inactive-ok-file: THEORY-087 — Proposed; an account cited for what it states, nothing here rests on its being settled -->
 
@@ -73,8 +73,9 @@ k_j ≥ 2, or whenever two or more coordinates appear.
 
 **What resolution does buy.** The normal form lets the divergence's
 behaviour near the true parameter be read off. It gives the real log
-canonical threshold and so the Bayesian complexity penalty λ log n, in
-place of (d/2) log n ([THEORY-087](../theory.d/THEORY-087.md)). That is a statement about how hard
+canonical threshold. On [THEORY-087](../theory.d/THEORY-087.md)'s reading of Watanabe, held as cited
+and not checked here, that threshold then sets the Bayesian complexity
+penalty λ log n in place of (d/2) log n. That is a statement about how hard
 learning is near the singularity. It is not one about separating the
 states there.
 
@@ -91,8 +92,11 @@ them is a way of gaining observations.
 ## Why it is Active
 
 The first point is the definition of a pulled-back model. The second is a
-two-line computation, checked numerically. The third is [THEORY-087](../theory.d/THEORY-087.md)'s
-reading of Watanabe's result.
+two-line computation, checked numerically. The third reads off the
+normal form, and is worked for this model in [CASE-152](../cases.d/CASE-152.md) (Active), where
+the real log canonical threshold is ½. What that threshold then does to
+the Bayesian penalty is stated only on [THEORY-087](../theory.d/THEORY-087.md)'s reading, which is
+Proposed.
 
 ## What it does not say
 
@@ -101,3 +105,7 @@ reading of Watanabe's result.
 - Not that the monograph's identifiability material is wrong.
   [MOM-CLM-135](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-135.md) grades its quotient construction correct. The error is in
   the step from resolution to discriminability.
+
+## Note of 2026-10-27: the penalty stated conditionally
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this Active claim grounded in [THEORY-087](../theory.d/THEORY-087.md), which is Proposed, for one clause: that the real log canonical threshold sets the Bayesian penalty λ log n. That clause is Watanabe's singular result, which the record holds only as cited. The clause is now conditional on [THEORY-087](../theory.d/THEORY-087.md)'s reading. The claim is grounded in [CASE-152](../cases.d/CASE-152.md) for the worked threshold, and [THEORY-087](../theory.d/THEORY-087.md) is cited and no longer a ground.

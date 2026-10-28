@@ -32,8 +32,6 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-1238
-answers:
-- QUESTION-220
 summary: >-
   Equitz and Cover (1991), [LIT-1238](../literature.d/LIT-1238.md), read in [NOTE-988](../notes.d/NOTE-988.md), with every step
   re-derived by 2026-10-20. Lossless
@@ -44,6 +42,8 @@ summary: >-
   quantizers or deterministic encoders nest, and the paper's own Gaussian
   example shows they need not. It says nothing yet about the information
   bottleneck beyond a formal transfer through the KL distortion.
+bears_on:
+- QUESTION-220
 ---
 <!-- inactive-ok-file: THEORY-163 — Proposed; an open reading this bears on, nothing here rests on it -->
 # THEORY-751: For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error

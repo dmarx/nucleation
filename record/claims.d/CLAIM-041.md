@@ -26,12 +26,10 @@ line:
 works:
 - what-survives-translation
 grounds:
-- THEORY-013
 - CASE-001
 - LIT-312
 - THEORY-545
 - THEORY-166
-- THEORY-010
 objects_to:
 - CLAIM-073
 undercuts:
@@ -46,6 +44,9 @@ summary: >-
   record's [THEORY-013](../theory.d/THEORY-013.md), is not cited in the manuscript.
 illustrated_by:
 - CASE-017
+corroborated_by:
+- THEORY-010
+- THEORY-013
 ---
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
@@ -117,3 +118,7 @@ discriminating test A30 named, and the manuscript dropped it.
 ## Note of 2026-10-12: evidence now linked
 
 [THEORY-010](../theory.d/THEORY-010.md) now grounds this claim. It shows that losing certainty about one question after asking an incompatible one is reproduced by Spekkens's epistemically restricted classical bit. So the order effect the pragmatic reading leans on needs no quantum model.
+
+## Note of 2026-10-27: the edge says what the claim uses
+
+The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-013](../theory.d/THEORY-013.md) and [THEORY-010](../theory.d/THEORY-010.md) from `grounds` to `corroborated_by`. The claim is demonstrated by [CASE-001](../cases.d/CASE-001.md) (AB = A, BA = B in a classical Markov system) and [THEORY-545](../theory.d/THEORY-545.md), and the two readings corroborate it.

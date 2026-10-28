@@ -25,8 +25,6 @@ summary: >-
   concedes that the measure is epistemic: positive with missing micro
   factors or a limited predictor, zero with the system as predictor.
   Proposed until it is tested against an independent criterion.
-supports:
-- CLAIM-334
 ---
 
 # THEORY-703: Weak emergence of a macro variable from micro variables can be measured as its Granger autonomy from them times their mean Granger causation of it, which is zero if it is independent of them or fully predicted by them; in a boids model this measure, and Granger causation from the flock's centre of mass to each boid, are higher for flocking than for random or rigid motion; the measure is relative to the regression model and the variables included

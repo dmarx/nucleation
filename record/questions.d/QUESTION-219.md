@@ -21,12 +21,13 @@ summary: >-
   dissipative structures ([THEORY-072](../theory.d/THEORY-072.md), [THEORY-532](../theory.d/THEORY-532.md), [CLAIM-273](../claims.d/CLAIM-273.md), [QUESTION-085](QUESTION-085.md))
   but has not set flux beside its block and closure tests.
 answered_by:
-- THEORY-748
-- THEORY-750
 - THEORY-763
 - THEORY-776
 - THEORY-772
 - THEORY-821
+bearing:
+- THEORY-750
+- THEORY-748
 ---
 <!-- inactive-ok-file: NOTE-974 THEORY-763 THEORY-776 NOTE-1022 THEORY-772 NOTE-1027 THEORY-821 — Skimmed or Proposed; the negative half of Onsager, cited as open -->
 <!-- inactive-ok-file: LIT-1239 LIT-1243 LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
