@@ -94,7 +94,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the general frame this claim is a domain case of, cited as open -->
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->
-<!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-130 CLAIM-115 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
+<!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-115 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the dilemma whose intrinsic horn "partly" takes, not as settled -->
 <!-- inactive-ok-file: CLAIM-055 — Superseded; cited as the earlier appearance of the wording "partly constituted" -->
 

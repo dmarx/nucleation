@@ -51,7 +51,7 @@ summary: >-
   counterfactual.
 ---
 
-<!-- inactive-ok-file: CLAIM-127 CLAIM-130 — Proposed; the record's claims checked here against the excerpts, cited as open -->
+<!-- inactive-ok-file: CLAIM-127 — Proposed; the record's claims checked here against the excerpts, cited as open -->
 
 # NOTE-696: Causality: Models, Reasoning, and Inference
 

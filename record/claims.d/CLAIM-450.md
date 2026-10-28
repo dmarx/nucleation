@@ -58,7 +58,7 @@ illustrated_by:
 - CASE-152
 - CASE-159
 ---
-<!-- inactive-ok-file: CLAIM-130 THEORY-665 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-665 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CLAIM-450: Three standards for a communicative distinction come apart: statistical distinguishability of an interpreter's response profiles, measured locally by the Fisher metric and never raised by a parameter-independent garbling; usability by a bounded receiver, which a transformation can raise; and pragmatic efficacy in the act; and where response models are singular, as Watanabe's theory treats, a missing response can come from an absent attempt or an unresponsive receiver alike, and only intervention or later dynamics separate them
 

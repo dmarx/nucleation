@@ -60,12 +60,10 @@ summary: >-
   what the interpreter is told. It keeps one cover, with the empirical
   laws indexed by intervention. The link to signalling is the record's
   extrapolation, and A129's own graph gives a second route to it.
-supports:
-- CLAIM-130
 ---
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited as the open problem this claim bears on, not as settled -->
-<!-- inactive-ok-file: CLAIM-130 CLAIM-052 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # CLAIM-127: Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context
 

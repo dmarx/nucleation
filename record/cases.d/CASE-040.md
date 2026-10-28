@@ -31,7 +31,7 @@ supports:
 - CLAIM-230
 - CLAIM-232
 ---
-<!-- inactive-ok-file: CLAIM-129 CLAIM-135 CLAIM-127 CLAIM-130 CLAIM-077 — Proposed; open, and cited as claims and a reading the case bears on, not as settled -->
+<!-- inactive-ok-file: CLAIM-129 CLAIM-135 CLAIM-127 CLAIM-077 — Proposed; open, and cited as claims and a reading the case bears on, not as settled -->
 
 # CASE-040: Topic and act crossed: a factorial design that decorrelates what a text is about from what it does
 

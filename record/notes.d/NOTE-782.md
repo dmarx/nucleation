@@ -46,7 +46,6 @@ summary: >-
   rank-1 edits are shown to be nearly interchangeable.
 ---
 <!-- inactive-ok-file: THEORY-1011 — Proposed; ROME's storage reading, cited as the hypothesis THEORY-282 bears on, not leaned on -->
-<!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this reading is set beside, open -->
 <!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s account of why tracing and editing come apart, cited as open -->
 
 # NOTE-782: Makelov, Lange and Nanda — an interpretability illusion for subspace activation patching

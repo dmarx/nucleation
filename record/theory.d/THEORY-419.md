@@ -39,7 +39,7 @@ supports:
 - CLAIM-341
 ---
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading this account rests on, as it says -->
-<!-- inactive-ok-file: CLAIM-127 CLAIM-130 — Proposed; the claims that cite this account, named in Connections -->
+<!-- inactive-ok-file: CLAIM-127 — Proposed; the claims that cite this account, named in Connections -->
 <!-- inactive-ok-file: THEORY-491 — Proposed; named in Connections, not leaned on -->
 
 # THEORY-419: In a structural causal model of autonomous equations, with intervention do(X = x) defined, as Pearl defines it, as a surgery that deletes X's own equation, sets X to x and solves the rest, and with observing X = x violating no equation and amounting to ordinary conditioning, models that agree on every observational distribution can disagree on the effect of an intervention, and in a structural equation y = βx + ε the coefficient β is the rate of change of E[Y | do(x)], which equals the regression slope of Y on X only when X is uncorrelated with ε
