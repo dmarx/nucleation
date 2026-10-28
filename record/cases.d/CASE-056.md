@@ -27,7 +27,6 @@ supports:
 reported_in:
 - LIT-791
 ---
-<!-- inactive-ok-file: CLAIM-061 — Proposed; the claim this case supports, open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for the comparative test this case does not supply -->
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida, unread here, cited through Marlowe's transcription and Munday, and not leaned on beyond the quoted page -->
 

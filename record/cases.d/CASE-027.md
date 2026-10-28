@@ -23,7 +23,6 @@ supports:
 - CLAIM-061
 - CLAIM-229
 ---
-<!-- inactive-ok-file: CLAIM-061 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CASE-027: Henley translated perfectly in the voice of an academic sociologist
 

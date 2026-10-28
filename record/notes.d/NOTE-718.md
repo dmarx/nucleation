@@ -35,7 +35,7 @@ summary: >-
   asserted, and nothing is tested on data. Syntax only: semantics and
   context are set aside by the authors.
 ---
-<!-- inactive-ok-file: CLAIM-098 CLAIM-061 CLAIM-163 — Proposed; open claims this reading tests or compares, cited as open -->
+<!-- inactive-ok-file: CLAIM-098 CLAIM-163 — Proposed; open claims this reading tests or compares, cited as open -->
 <!-- inactive-ok-file: THEORY-036 — Proposed; readings this one is set beside, not leaned on -->
 
 # NOTE-718: Gallego & Orús — Language Design as Information Renormalization

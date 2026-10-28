@@ -49,7 +49,7 @@ summary: >-
 illustrated_by:
 - CASE-055
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-061 CLAIM-082 CLAIM-074 — Proposed; open, and cited as the thesis restated here and the premises it keeps or drops, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-082 CLAIM-074 — Proposed; open, and cited as the thesis restated here and the premises it keeps or drops, not as settled -->
 <!-- inactive-ok-file: CLAIM-202 CLAIM-242 — Proposed; the record's other replies of 2026-10-10, open, cited for the parts of the thesis they carry -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; an objection this entry answers, left open until the owner decides on the revised theses -->
 

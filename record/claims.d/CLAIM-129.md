@@ -58,7 +58,7 @@ objected_by:
 - CLAIM-203
 ---
 <!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
-<!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-142 — Proposed; open, and cited as the claims this one stands on, under test, not settled -->
+<!-- inactive-ok-file: CLAIM-004 CLAIM-142 — Proposed; open, and cited as the claims this one stands on, under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the thesis this claim complements -->
 
 # CLAIM-129: A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpfe37n
 title: 'The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition''s non-necessity holds the words fixed, so it shows only insufficiency'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Now also objects to CLAIM-tmp6rohb, the necessity half CLAIM-061
+    carried until the status review of 2026-10-28 narrowed it to
+    sufficiency. The edge to CLAIM-061 stays as the history of the
+    concession. The claim is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -22,6 +30,7 @@ grounds:
 - CASE-032
 objects_to:
 - CLAIM-061
+- CLAIM-tmp6rohb
 - CLAIM-091
 - CLAIM-151
 - CLAIM-084
@@ -36,7 +45,7 @@ summary: >-
   is not sufficient. Granted: it is a reading of the record. It does not
   say the theses are false or that invented cases are useless.
 ---
-<!-- inactive-ok-file: CLAIM-061 CLAIM-091 CLAIM-151 CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-091 CLAIM-151 CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-061, not as settled -->
 
 # CLAIM-229: The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition's non-necessity holds the words fixed, so it shows only insufficiency

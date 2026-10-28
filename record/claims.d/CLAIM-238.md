@@ -53,7 +53,7 @@ objected_by:
 - CLAIM-239
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-077 CLAIM-143 CLAIM-087 CLAIM-105 CLAIM-033 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-005 CLAIM-147 CLAIM-128 CLAIM-117 CLAIM-081 CLAIM-038 CLAIM-044 CLAIM-054 CLAIM-137 CLAIM-061 CLAIM-095 CLAIM-098 — Proposed; open, cited for the wording of their defeat conditions or their place in the chain, not as settled -->
+<!-- inactive-ok-file: CLAIM-005 CLAIM-147 CLAIM-128 CLAIM-117 CLAIM-081 CLAIM-038 CLAIM-044 CLAIM-054 CLAIM-137 CLAIM-095 CLAIM-098 — Proposed; open, cited for the wording of their defeat conditions or their place in the chain, not as settled -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open, cited in the history for their margins -->
 
 # CLAIM-238: Many of the line's defeat conditions cannot in practice be met: the comparative ones are null results with no margin over an observable set the thesis may re-choose, and the possibility theses' are universal negatives that no finite study establishes

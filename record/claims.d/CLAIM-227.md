@@ -27,7 +27,7 @@ summary: >-
   target or a validation against a known contrast. Granted, because it
   is a reading of the record. It does not say footing cannot be measured.
 ---
-<!-- inactive-ok-file: CLAIM-061 CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-014 — Proposed; open, cited for their defeat conditions, not as settled -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; the works are unread here, cited as the sources the line names for footing and force and not leaned on -->
 
