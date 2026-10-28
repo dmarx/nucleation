@@ -90,16 +90,16 @@ the claim is interpretive.
 
 ## Note of 2026-10-28: what holds it back
 
-The fourth status review (ADR-057) took this claim because ARG-006, which
+The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim because [ARG-006](../arguments.d/ARG-006.md), which
 concludes it, is a sound argument: its inference is Active and its one
-premise, CLAIM-373, is Active. The claim stays Proposed, because the
+premise, [CLAIM-373](CLAIM-373.md), is Active. The claim stays Proposed, because the
 inference carries less than the claim says, and the record already says
 where:
 
-- **CLAIM-011 (Active)** limits the result to Φ's image. Preserving Φ's
+- **[CLAIM-011](CLAIM-011.md) (Active)** limits the result to Φ's image. Preserving Φ's
   image of a commutator does not establish preservation of the whole
   commutator structure unless Φ is informative enough.
-- **CLAIM-253 (Active)** is a live objection, and it undercuts ARG-006. The
+- **[CLAIM-253](CLAIM-253.md) (Active)** is a live objection, and it undercuts [ARG-006](../arguments.d/ARG-006.md). The
   intertwining defects are defined on interpretive-state spaces and are not
   identified from judgement data. The identity reaches *observed* order
   effects only with a readout-intertwining defect, O′Φ − O, which the claim
