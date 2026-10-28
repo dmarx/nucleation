@@ -22,7 +22,7 @@ date: '2026-10-28'
 source:
 - LIT-tmpe36at
 summary: >-
-  León (2023), LIT-tmpe36at. Self-categorization theory claims
+  León (2023), [LIT-tmpe36at](../literature.d/LIT-tmpe36at.md). Self-categorization theory claims
   depersonalization as "the basic process underlying group phenomena", for
   groups of any size, friendship groups included (Turner et al. 1987, pp.
   50, 103, as quoted), and phenomenologists have taken it as the account
@@ -39,7 +39,7 @@ summary: >-
 
 ## Source
 
-- León (2023), LIT-tmpe36at, read in full in NOTE-tmpuba7m from the
+- León (2023), [LIT-tmpe36at](../literature.d/LIT-tmpe36at.md), read in full in [NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md) from the
   CC BY 4.0 full text.
 
 ## What the account says
@@ -79,11 +79,11 @@ after all.
 
 ## Bearing
 
-- **THEORY-tmpo85ke.** Limits its depersonalization clause in scope, not
+- **[THEORY-tmpo85ke](THEORY-tmpo85ke.md).** Limits its depersonalization clause in scope, not
   its context-dependence claim.
-- **THEORY-tmpdftev.** Both deny that similarity or interchangeability is
+- **[THEORY-tmpdftev](THEORY-tmpdftev.md).** Both deny that similarity or interchangeability is
   necessary for a group. That account puts collective intentionality in
   its place; this one puts mutual individualization.
-- **THEORY-126.** A We-mode collective emotion between intimates, as in
+- **[THEORY-126](THEORY-126.md).** A We-mode collective emotion between intimates, as in
   shared grief, would on this account be personalized rather than
   depersonalized. The record has not tested the two together.

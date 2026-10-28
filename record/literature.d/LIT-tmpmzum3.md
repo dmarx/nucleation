@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-28 (NOTE-tmplcvy8) from the PsyArXiv preprint, v2;
+  read in full 2026-10-28 ([NOTE-tmplcvy8](../notes.d/NOTE-tmplcvy8.md)) from the PsyArXiv preprint, v2;
   worth reading as a sympathetic insider's critique of self-categorization
   theory that quotes the 1987 book's chapter 3 assumptions and hypotheses
   verbatim with page numbers, so it stands in for the unread book's core
@@ -9,7 +9,7 @@ status_note: >-
   a group entity; that meta-contrast is computationally intractable as a
   basis for entity formation; and that groups are perceived from cues to
   collective intentionality. Unreviewed; its key experiments are under
-  review. Source of THEORY-tmpdftev.
+  review. Source of [THEORY-tmpdftev](../theory.d/THEORY-tmpdftev.md).
 title: 'Reconceptualizing Individuals, Categories, and the Social Group: Self-Categorization Theory 2.0'
 version: 1
 history:
@@ -50,8 +50,8 @@ summary: >-
 
 Skorich, D. P. (2025; version 2, 2026). Reconceptualizing individuals, categories, and the social group: Self-categorization theory 2.0. PsyArXiv preprint. doi:10.31234/osf.io/h7s9p_v2.
 
-Read in full in NOTE-tmplcvy8.
+Read in full in [NOTE-tmplcvy8](../notes.d/NOTE-tmplcvy8.md).
 
 ## Why this is here
 
-Turner et al. 1987 (LIT-tmper0q2) cannot be read. This paper takes "the plain language reading" of that book's chapter 3, and of Oakes's chapter 6, as its definition of the theory, and quotes the book's assumptions and hypotheses with page numbers (pp. 42–56). It is the record's closest lawful access to the book's own words. It is also the strongest critique the record holds of meta-contrast, the mechanism behind THEORY-tmpo85ke.
+Turner et al. 1987 ([LIT-tmper0q2](LIT-tmper0q2.md)) cannot be read. This paper takes "the plain language reading" of that book's chapter 3, and of Oakes's chapter 6, as its definition of the theory, and quotes the book's assumptions and hypotheses with page numbers (pp. 42–56). It is the record's closest lawful access to the book's own words. It is also the strongest critique the record holds of meta-contrast, the mechanism behind [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md).

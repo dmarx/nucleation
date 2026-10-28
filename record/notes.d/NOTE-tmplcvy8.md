@@ -42,7 +42,7 @@ produce the first in general. For this record it also does a second job.
 It fixes the theory as the plain reading of Turner et al. 1987, chapter 3
 and Oakes's chapter 6, and quotes the book's assumptions and hypotheses
 with page numbers. That gives the record second-hand access to the
-unread book (LIT-tmper0q2).
+unread book ([LIT-tmper0q2](../literature.d/LIT-tmper0q2.md)).
 
 ## Key insight
 
@@ -230,18 +230,18 @@ indefinitely many. Resolution: a language of thought.
 
 ## Connections
 
-- **Turner et al. 1994 (NOTE-tmpf9mzh).** Skorich treats it as
+- **Turner et al. 1994 ([NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)).** Skorich treats it as
   supplementary. Two of its points are the ones he attacks: metacontrast
   setting content and prototype (critiques 4–5), and the self as
   generated in context. He keeps the latter's dynamism but moves the
   context effects from perception to inference.
-- **Hornsey 2008 (NOTE-tmp3dav9).** Hornsey reports a softening of
+- **Hornsey 2008 ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)).** Hornsey reports a softening of
   functional antagonism; Skorich's SCT2.0 removes it.
-- **León 2023 (NOTE-tmpuba7m).** Cited for the point that close
+- **León 2023 ([NOTE-tmpuba7m](NOTE-tmpuba7m.md)).** Cited for the point that close
   relationships are groups without interchangeable members (p. 14). The
   two papers converge on that and diverge on the remedy: perceptual
   collective intentionality here, socially extended personhood there.
-- **Collective intentionality.** THEORY-126 already distinguishes I-mode
+- **Collective intentionality.** [THEORY-126](../theory.d/THEORY-126.md) already distinguishes I-mode
   from We-mode collective emotion by collectively intentional appraisal.
   Skorich makes collective intentionality the condition of perceiving a
   group at all. These are different claims that use the same notion.
@@ -249,21 +249,21 @@ indefinitely many. Resolution: a language of thought.
   atomism and the language of thought wholesale. The record holds no
   reading of them.
 - **Self-models.** "Persons as categories of person aspects" sits near
-  THEORY-064 (self-model) and THEORY-691 (self as abstractum) without
+  [THEORY-064](../theory.d/THEORY-064.md) (self-model) and [THEORY-691](../theory.d/THEORY-691.md) (self as abstractum) without
   engaging either.
 
 ## Bearing on the record
 
-- **THEORY-tmpo85ke.** This is its strongest rival. Skorich accepts that
+- **[THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md).** This is its strongest rival. Skorich accepts that
   self-categories vary with context, but denies that meta-contrast is the
   mechanism of entity formation and gives it "little role" in salience.
   The THEORY's promote_when already asks for a frame-only manipulation.
   This reading adds a sharper test: whether comparison effects survive
   when the comparison group is absent, which SCT2.0 says is possible and
   SCT1.0 does not. Noted on that THEORY.
-- **Source of THEORY-tmpdftev** (Proposed): perceiving a group as an
+- **Source of [THEORY-tmpdftev](../theory.d/THEORY-tmpdftev.md)** (Proposed): perceiving a group as an
   entity requires cues to shared mental states, not similarity.
-- **CASE-104 and QUESTION-119.** Skorich's line between a category and a
+- **[CASE-104](../cases.d/CASE-104.md) and [QUESTION-119](../questions.d/QUESTION-119.md).** Skorich's line between a category and a
   group entity cuts the fanbase case in two. "The fans" can be a category
   (people who support the club) without being a group entity, which
   would need perceived shared mental states (a chant, a boycott, a

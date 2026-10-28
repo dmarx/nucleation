@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-28 (NOTE-tmp222eb) from the authors' PsyArXiv
+  read in full 2026-10-28 ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)) from the authors' PsyArXiv
   preprint of a textbook chapter; worth reading as a plain, current
   exposition of the social identity perspective: self-categorization
   (accessibility, comparative and normative fit, depersonalization),
@@ -50,8 +50,8 @@ summary: >-
 
 Reimer, N. K., Schmid, K., Hewstone, M. & Al Ramiah, A. (2020). Self-categorization and social identification: Making sense of us and them. PsyArXiv preprint of a chapter in D. Chadee (Ed.), *Theories in Social Psychology* (2nd ed.). Wiley-Blackwell. doi:10.31234/osf.io/gub8a.
 
-Read in full in NOTE-tmp222eb.
+Read in full in [NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md).
 
 ## Why this is here
 
-An open, current textbook account of the social identity perspective, filed as a stand-in for the exposition in Turner et al. 1987 (LIT-tmper0q2), which cannot be read. It is thin on the book itself, but its multiple-categorization section explains the common in-group identity model that Biel (LIT-1133) uses, and the recategorization that Pettigrew (LIT-1408) names.
+An open, current textbook account of the social identity perspective, filed as a stand-in for the exposition in Turner et al. 1987 ([LIT-tmper0q2](LIT-tmper0q2.md)), which cannot be read. It is thin on the book itself, but its multiple-categorization section explains the common in-group identity model that Biel ([LIT-1133](LIT-1133.md)) uses, and the recategorization that Pettigrew ([LIT-1408](LIT-1408.md)) names.

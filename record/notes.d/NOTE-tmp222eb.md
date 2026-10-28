@@ -142,7 +142,7 @@ different things.
 
 ## Connections
 
-- **Hornsey 2008 (NOTE-tmp3dav9).** On the self-esteem hypothesis the two
+- **Hornsey 2008 ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)).** On the self-esteem hypothesis the two
   disagree. Hornsey calls it a dead end and reads Rubin & Hewstone (1998)
   as supporting only "bias raises self-esteem". This chapter cites the
   same meta-analysis as "extensive empirical support". The difference is
@@ -150,21 +150,21 @@ different things.
   bias-raises-esteem direction ("positive differentiation enhances
   esteem"), which is the one Hornsey says the meta-analysis favours. So
   they may agree on substance and differ in tone.
-- **Turner et al. 1994 (NOTE-tmpf9mzh).** The chapter's account of fit
+- **Turner et al. 1994 ([NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)).** The chapter's account of fit
   follows it closely, but its motive (need to belong) is one the 1994
   paper does not give.
-- **Biel (LIT-1133) and Pettigrew (LIT-1408)**, both unread: the common
+- **Biel ([LIT-1133](../literature.d/LIT-1133.md)) and Pettigrew ([LIT-1408](../literature.d/LIT-1408.md))**, both unread: the common
   in-group identity model and recategorization are the frame of each.
 
 ## Bearing on the record
 
-- **CASE-104.** The dual-identity and in-group projection findings bear on
+- **[CASE-104](../cases.d/CASE-104.md).** The dual-identity and in-group projection findings bear on
   fans who stay loyal to a club while opposing its owner. A fan can hold
   "supporter of the club" and "opponent of the owner" as nested
   identities. If the owner is cast as speaking for the club, in-group
   projection predicts conflict over what "the club" means. That is an
   inference.
-- **THEORY-tmpo85ke.** Adds nothing independent: its account of fit and
+- **[THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md).** Adds nothing independent: its account of fit and
   depersonalization is secondary, citing the same sources.
 - **No ML instruction.**
 

@@ -150,29 +150,29 @@ either way, a theory of one way is not a theory of the "we".
 
 ## Connections
 
-- **Skorich (NOTE-tmplcvy8).** He cites this paper for the point that
+- **Skorich ([NOTE-tmplcvy8](NOTE-tmplcvy8.md)).** He cites this paper for the point that
   close relationships are groups without interchangeable members, and
   draws a different moral: groups are perceived from collective
   intentionality. León would extend the boundaries of persons instead.
   Both agree that SCT's equivalence-class account misses some groups.
-- **Turner et al. 1994 (NOTE-tmpf9mzh).** León uses its continuum talk
+- **Turner et al. 1994 ([NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)).** León uses its continuum talk
   (p. 456) to soften "levels". Fn. 11 notes that the 1994 paper says the
   perceiver appraises self "in relation to others, not from the
   perspective of others" (p. 460). That sits badly with the Husserlian
   "self-alienation" the phenomenologists pair with depersonalization.
-- **THEORY-126.** von Scheve and Ismer's We-mode collective emotion rests
+- **[THEORY-126](../theory.d/THEORY-126.md).** von Scheve and Ismer's We-mode collective emotion rests
   on collective intentionality and group membership. León's grief
   analysis implies a "we" whose emotions are not depersonalized; the
   record has not related the two.
 - **Personal identity.** León sets aside identity as re-identification
   (§2) for the vernacular sense (Schechtman 1996). The record's
-  personhood theories (THEORY-650 and others) concern the former.
+  personhood theories ([THEORY-650](../theory.d/THEORY-650.md) and others) concern the former.
 
 ## Bearing on the record
 
-- **Source of THEORY-tmpsm03n** (Proposed): a we-identity can arise by
+- **Source of [THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)** (Proposed): a we-identity can arise by
   mutual individualization, without depersonalization.
-- **THEORY-tmpo85ke.** This does not contradict the context-dependence
+- **[THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md).** This does not contradict the context-dependence
   claim. It limits the scope of depersonalization as *the* route to group
   self-perception. Noted on that THEORY.
 - **social-ontology and self.** The first reading in the record that

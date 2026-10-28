@@ -52,8 +52,8 @@ summary: >-
 - The founding statement, Turner et al. (1987), [LIT-tmper0q2](../literature.d/LIT-tmper0q2.md), is held but
   Unavailable, and is not read. Its chapter 3 statements of meta-contrast,
   salience and depersonalization (pp. 42–56) are quoted with page numbers
-  by Skorich (LIT-tmpmzum3, NOTE-tmplcvy8) and León (LIT-tmpe36at,
-  NOTE-tmpuba7m). The record therefore has the book's own words at second
+  by Skorich ([LIT-tmpmzum3](../literature.d/LIT-tmpmzum3.md), [NOTE-tmplcvy8](../notes.d/NOTE-tmplcvy8.md)) and León ([LIT-tmpe36at](../literature.d/LIT-tmpe36at.md),
+  [NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md)). The record therefore has the book's own words at second
   hand, but not its argument or its evidence.
 
 ## What the account says
@@ -139,13 +139,13 @@ here.
   [THEORY-406](THEORY-406.md) (audience-segregated self-presentation), [THEORY-650](THEORY-650.md) (sameness
   relative to a level of abstraction) and [THEORY-691](THEORY-691.md) (the self as a posited
   abstractum) without entailing any of them.
-- **Rival: THEORY-tmpdftev** (Skorich). It accepts that self-perception
+- **Rival: [THEORY-tmpdftev](THEORY-tmpdftev.md)** (Skorich). It accepts that self-perception
   varies with context but denies that meta-contrast forms groups. It
   argues that exhaustive meta-contrast over n people is a 2ⁿ
   subset-selection problem, and that context effects belong to inference,
   not perception. It also predicts that comparison-dependent effects can
   appear with no out-group present, which this account does not allow. An
   experiment that removes the comparison group would separate the two.
-- **Scope limit: THEORY-tmpsm03n** (León). The we-identities of close
+- **Scope limit: [THEORY-tmpsm03n](THEORY-tmpsm03n.md)** (León). The we-identities of close
   relationships arise by mutual individualization, not depersonalization,
   so the depersonalization clause here is not the only route to a "we".

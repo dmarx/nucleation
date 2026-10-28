@@ -26,7 +26,7 @@ source:
 rivals:
 - THEORY-tmpo85ke
 summary: >-
-  Skorich (2025, v2 2026), LIT-tmpmzum3, a preprint. Categorization with
+  Skorich (2025, v2 2026), [LIT-tmpmzum3](../literature.d/LIT-tmpmzum3.md), a preprint. Categorization with
   accentuation makes members interchangeable, not one, since a category is
   a set and a set is internally differentiated. Groups such as orchestras
   and families need no similarity. Groups are holistic entities perceived
@@ -45,8 +45,8 @@ summary: >-
 
 ## Source
 
-- Skorich (2025, version 2 2026), LIT-tmpmzum3, read in full in
-  NOTE-tmplcvy8 from the PsyArXiv preprint. The supplementary materials
+- Skorich (2025, version 2 2026), [LIT-tmpmzum3](../literature.d/LIT-tmpmzum3.md), read in full in
+  [NOTE-tmplcvy8](../notes.d/NOTE-tmplcvy8.md) from the PsyArXiv preprint. The supplementary materials
   were not read.
 
 ## What the account says
@@ -92,14 +92,14 @@ done as well. The record has not read the experiments.
 
 ## Bearing
 
-- **Rival to THEORY-tmpo85ke** on the mechanism of group perception and
+- **Rival to [THEORY-tmpo85ke](THEORY-tmpo85ke.md)** on the mechanism of group perception and
   of salience. They agree that self-perception varies with context; they
   disagree on whether meta-contrast is what forms the group.
-- **THEORY-126** uses collective intentionality to mark We-mode
+- **[THEORY-126](THEORY-126.md)** uses collective intentionality to mark We-mode
   collective emotion. This account uses it to mark perceiving a group at
   all. If both hold, We-mode emotion presupposes a perceived group
   entity.
-- **CASE-104 and QUESTION-119.** It distinguishes the fanbase as a
+- **[CASE-104](../cases.d/CASE-104.md) and [QUESTION-119](../questions.d/QUESTION-119.md).** It distinguishes the fanbase as a
   category (people who support the club) from the fanbase as a group
   entity (fans seen to share an intention: a chant, a boycott). Only the
   second is a candidate holder of a stance.

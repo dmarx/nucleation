@@ -62,17 +62,17 @@ The record held social identity work only as unread fandom papers ([LIT-1138](LI
 
 The book cannot be read here, so the record holds it at second hand:
 
-- **Its own words.** Skorich (LIT-tmpmzum3, NOTE-tmplcvy8) quotes its
+- **Its own words.** Skorich ([LIT-tmpmzum3](LIT-tmpmzum3.md), [NOTE-tmplcvy8](../notes.d/NOTE-tmplcvy8.md)) quotes its
   definitions, assumptions and hypotheses from chapter 3 (pp. 3, 42–56),
-  and León (LIT-tmpe36at, NOTE-tmpuba7m) quotes pp. 29, 42–51, 66, 103 and
+  and León ([LIT-tmpe36at](LIT-tmpe36at.md), [NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md)) quotes pp. 29, 42–51, 66, 103 and
   204. Between them they give the self-concept, the three levels,
   meta-contrast, accessibility × fit, functional antagonism,
   depersonalization as "the basic process underlying group phenomena",
   and the claim that group size is no theoretical restriction.
-- **Its authors' later statement.** Turner et al. 1994 (LIT-tmpzgybs,
-  NOTE-tmpf9mzh).
-- **Summaries.** Hornsey 2008 (LIT-tmpi8o30, NOTE-tmp3dav9) and Reimer et
-  al. 2020 (LIT-tmpxgtr8, NOTE-tmp222eb).
+- **Its authors' later statement.** Turner et al. 1994 ([LIT-tmpzgybs](LIT-tmpzgybs.md),
+  [NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md)).
+- **Summaries.** Hornsey 2008 ([LIT-tmpi8o30](LIT-tmpi8o30.md), [NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md)) and Reimer et
+  al. 2020 ([LIT-tmpxgtr8](LIT-tmpxgtr8.md), [NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)).
 
 Missing still: the book's argument for each step; its sub-theories of
 cohesion, attraction, ethnocentrism, self-esteem and cooperation, which
