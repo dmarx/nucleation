@@ -26,8 +26,8 @@ source:
 - LIT-tmpi8o30
 summary: >-
   Self-categorization theory as restated by Turner, Oakes, Haslam and
-  McGarty (1994), LIT-tmpzgybs, and reviewed by Hornsey (2008),
-  LIT-tmpi8o30. Personal and social identity are levels of
+  McGarty (1994), [LIT-tmpzgybs](../literature.d/LIT-tmpzgybs.md), and reviewed by Hornsey (2008),
+  [LIT-tmpi8o30](../literature.d/LIT-tmpi8o30.md). Personal and social identity are levels of
   self-categorization. Salience is perceiver readiness times fit,
   comparative fit being the metacontrast ratio. The level, kind, content
   and prototype structure of self-categories shift with the comparison
@@ -46,10 +46,10 @@ summary: >-
 
 ## Source
 
-- Turner, Oakes, Haslam & McGarty (1994), LIT-tmpzgybs, read in full in
-  NOTE-tmpf9mzh from a scan of the published article.
-- Hornsey (2008), LIT-tmpi8o30, read in full in NOTE-tmp3dav9.
-- The founding statement, Turner et al. (1987), LIT-tmper0q2, is held but
+- Turner, Oakes, Haslam & McGarty (1994), [LIT-tmpzgybs](../literature.d/LIT-tmpzgybs.md), read in full in
+  [NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md) from a scan of the published article.
+- Hornsey (2008), [LIT-tmpi8o30](../literature.d/LIT-tmpi8o30.md), read in full in [NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md).
+- The founding statement, Turner et al. (1987), [LIT-tmper0q2](../literature.d/LIT-tmper0q2.md), is held but
   Unavailable, and is not read.
 
 ## What the account says
@@ -127,11 +127,11 @@ here.
 
 ## Bearing
 
-- **QUESTION-119 and CASE-104.** If an intergroup frame makes extreme
+- **[QUESTION-119](../questions.d/QUESTION-119.md) and [CASE-104](../cases.d/CASE-104.md).** If an intergroup frame makes extreme
   members more prototypical, a fanbase's apparent stance against its
   owner can be set by its extremes without any sampling bias. That is a
   derivation for the record to test, not a finding about fans.
 - **Accounts of the self.** The account is psychological. It sits beside
-  THEORY-406 (audience-segregated self-presentation), THEORY-650 (sameness
-  relative to a level of abstraction) and THEORY-691 (the self as a posited
+  [THEORY-406](THEORY-406.md) (audience-segregated self-presentation), [THEORY-650](THEORY-650.md) (sameness
+  relative to a level of abstraction) and [THEORY-691](THEORY-691.md) (the self as a posited
   abstractum) without entailing any of them.

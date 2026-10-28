@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-28 (NOTE-tmpf9mzh) from a scan of the published
+  read in full 2026-10-28 ([NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md)) from a scan of the published
   article supplied by the owner; worth reading as the shortest statement,
   by its authors, of self-categorization theory's view of the self:
   personal and social identity are equally authentic levels of
@@ -10,7 +10,7 @@ status_note: >-
   self-categories vary with the comparative frame. It goes on to speculate
   that the self is generated in context rather than stored. A theoretical
   paper whose evidence is the group's own studies, reported without data.
-  Source of THEORY-tmpo85ke.
+  Source of [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md).
 title: 'Self and Collective: Cognition and Social Context'
 version: 1
 history:
@@ -49,7 +49,7 @@ summary: >-
 
 Turner, J. C., Oakes, P. J., Haslam, S. A. & McGarty, C. (1994). Self and collective: Cognition and social context. *Personality and Social Psychology Bulletin*, 20(5), 454–463. doi:10.1177/0146167294205002.
 
-Read in full in NOTE-tmpf9mzh, from a scan of the published article supplied by the owner.
+Read in full in [NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md), from a scan of the published article supplied by the owner.
 
 ## Why this is here
 

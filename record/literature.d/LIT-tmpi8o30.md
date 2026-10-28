@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-28 (NOTE-tmp3dav9) from a copy of the published
+  read in full 2026-10-28 ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md)) from a copy of the published
   article supplied by the owner; worth reading as a map that tells social
   identity theory (intergroup relations, positive distinctiveness, status
   and legitimacy) apart from self-categorization theory (levels of
@@ -9,7 +9,7 @@ status_note: >-
   later dropped or softened: identification as a predictor of bias, the
   self-esteem hypotheses, and strict functional antagonism. An insider's
   review that lists the critiques and declines to answer them. Co-source
-  of THEORY-tmpo85ke.
+  of [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md).
 title: 'Social Identity Theory and Self-categorization Theory: A Historical Review'
 version: 1
 history:
@@ -45,7 +45,7 @@ summary: >-
 
 Hornsey, M. J. (2008). Social identity theory and self-categorization theory: A historical review. *Social and Personality Psychology Compass*, 2(1), 204–222. doi:10.1111/j.1751-9004.2007.00066.x.
 
-Read in full in NOTE-tmp3dav9, from a copy of the published article supplied by the owner.
+Read in full in [NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md), from a copy of the published article supplied by the owner.
 
 ## Why this is here
 

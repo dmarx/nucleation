@@ -173,40 +173,40 @@ A review; its assumptions are the approach's.
 - **functional antagonism**: as one level of self-categorization becomes
   more salient, the others become less so (p. 208).
 - **meta-contrast ratio**, **normative fit**, **depersonalization**,
-  **prototype**: as in Turner et al. 1994 (NOTE-tmpf9mzh). Hornsey adds
+  **prototype**: as in Turner et al. 1994 ([NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)). Hornsey adds
   that the prototype is prescriptive as well as descriptive (p. 209).
 - **social identity approach**: SIT and SCT together.
 
 ## Connections
 
-- **Turner et al. 1994 (NOTE-tmpf9mzh).** The two agree on SCT's core.
+- **Turner et al. 1994 ([NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)).** The two agree on SCT's core.
   Hornsey reports that functional antagonism was later softened, while the
   1994 paper still describes a "continual competition" between personal
   and group levels (Turner et al. 1994, p. 456). The two are not in
   conflict, because a competition can be graded.
-- **The record's fandom papers.** Čater et al. 2026 (LIT-1138) and Berendt
-  & Uhrich 2016 (LIT-1147) are framed by SIT's distinctiveness and
-  collective self-esteem. Wegner et al. 2020 (LIT-1140) concerns identity
-  threat. Biel 2026 (LIT-1133) concerns recategorization into a common
+- **The record's fandom papers.** Čater et al. 2026 ([LIT-1138](../literature.d/LIT-1138.md)) and Berendt
+  & Uhrich 2016 ([LIT-1147](../literature.d/LIT-1147.md)) are framed by SIT's distinctiveness and
+  collective self-esteem. Wegner et al. 2020 ([LIT-1140](../literature.d/LIT-1140.md)) concerns identity
+  threat. Biel 2026 ([LIT-1133](../literature.d/LIT-1133.md)) concerns recategorization into a common
   in-group. All are unread. Per this review, "collective self-esteem"
   findings belong to SIT's contested self-esteem strand (C4), not to SCT.
-- **Pettigrew 1998 (LIT-1408)**, unread: its recategorization strategy
+- **Pettigrew 1998 ([LIT-1408](../literature.d/LIT-1408.md))**, unread: its recategorization strategy
   and Brown & Hewstone's contact theory, which Hornsey cites (p. 215), are
   applications of the approach.
 - **Collective emotion.** Hornsey names Smith (1993) as the origin of
   social-identity work on group-based emotions (p. 216). von Scheve and
-  Ismer use the same source (NOTE-552, THEORY-126).
+  Ismer use the same source ([NOTE-552](NOTE-552.md), [THEORY-126](../theory.d/THEORY-126.md)).
 
 ## Bearing on the record
 
-- Co-source, with Turner et al. 1994, of THEORY-tmpo85ke. Hornsey
+- Co-source, with Turner et al. 1994, of [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md). Hornsey
   supplies the review-level summary of evidence (C2–C6) and the critiques
   that make the account Proposed.
-- **CASE-104.** SIT's low-status strategies and legitimacy variables give
+- **[CASE-104](../cases.d/CASE-104.md).** SIT's low-status strategies and legitimacy variables give
   a second lens on fans who stay loyal while judging the club: a
   controversy threatens the group's positive distinctiveness, and members
   may respond by revaluing dimensions rather than leaving. That is an
-  inference, not a claim the review makes. It is one LIT-1138 tests.
+  inference, not a claim the review makes. It is one [LIT-1138](../literature.d/LIT-1138.md) tests.
 - **The social identity approach has no topic of its own.** `social-science`
   holds it. Whether group processes deserve a topic word is a decision for
   later, once more than two works are read.
@@ -229,5 +229,5 @@ A review; its assumptions are the approach's.
   does the Karp et al. independence result replicate? A replication study
   read in full would settle it for the record.
 - Is the approach falsifiable as a meta-theory (p. 217)? The record could
-  hold one of its specific predictions to a test, as THEORY-tmpo85ke
+  hold one of its specific predictions to a test, as [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)
   tries to.

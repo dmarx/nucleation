@@ -33,7 +33,7 @@ summary: >-
 
 A short theoretical statement, from the theory's authors, of what
 self-categorization theory says about the self. It adds to the 1987 book
-(LIT-tmper0q2, not read) a catalogue of four ways self-categories vary
+([LIT-tmper0q2](../literature.d/LIT-tmper0q2.md), not read) a catalogue of four ways self-categories vary
 with context, drawn from the group's studies of 1987–1994. It also adds
 an argument from that variability: the self is better treated as a
 product of judgment in context than as a fixed, stored structure that
@@ -176,11 +176,11 @@ group's own work, several of it in press in 1994.
 ## Connections
 
 - **The book.** It restates and extends Turner et al. 1987
-  (LIT-tmper0q2), which the record holds but has not read.
+  ([LIT-tmper0q2](../literature.d/LIT-tmper0q2.md)), which the record holds but has not read.
 - **Recategorization.** Its first form of variation cites Gaertner et al.
   1989, "the benefits of recategorization", the source of the common
-  in-group identity model. That is the model Biel (LIT-1133) names, and
-  the recategorization strategy in Pettigrew's review (LIT-1408). Both are
+  in-group identity model. That is the model Biel ([LIT-1133](../literature.d/LIT-1133.md)) names, and
+  the recategorization strategy in Pettigrew's review ([LIT-1408](../literature.d/LIT-1408.md)). Both are
   unread.
 - **Categories in general.** It borrows Barsalou's (1987) instability of
   graded structure and Murphy & Medin's (1985) theory-based categories.
@@ -192,21 +192,21 @@ group's own work, several of it in press in 1994.
   reverses the order and subsumes role under group.
 - **The record's accounts of the self.** It is a psychological, not a
   metaphysical, thesis, but it sits near several Proposed THEORYs.
-  THEORY-406 holds that self-presentations differing by audience collide
+  [THEORY-406](../theory.d/THEORY-406.md) holds that self-presentations differing by audience collide
   when audiences merge; this paper would say the frame of reference has
-  changed. THEORY-650 makes self-sameness relative to a level of
-  abstraction. C6 is close in spirit to THEORY-691 (the self as a posited
+  changed. [THEORY-650](../theory.d/THEORY-650.md) makes self-sameness relative to a level of
+  abstraction. C6 is close in spirit to [THEORY-691](../theory.d/THEORY-691.md) (the self as a posited
   abstractum) and opposed to accounts of a stored self-model
-  (THEORY-064). The paper argues none of these, and nothing here settles
+  ([THEORY-064](../theory.d/THEORY-064.md)). The paper argues none of these, and nothing here settles
   them.
 
 ## Bearing on the record
 
-- **It is the source of THEORY-tmpo85ke**, filed Proposed from this
-  reading and Hornsey's review (NOTE-tmp3dav9). That THEORY takes C3–C4,
+- **It is the source of [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)**, filed Proposed from this
+  reading and Hornsey's review ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)). That THEORY takes C3–C4,
   the testable core. C6 is left as a note here, since the authors offer
   it as speculation.
-- **CASE-104 and QUESTION-119.** The prototype result (p. 458) bears on
+- **[CASE-104](../cases.d/CASE-104.md) and [QUESTION-119](../questions.d/QUESTION-119.md).** The prototype result (p. 458) bears on
   the case of a fanbase credited with a stance. In an intergroup context,
   such as fans against an owner, the more extreme members are predicted
   to become *more* prototypical, and depersonalized members converge on
@@ -214,7 +214,7 @@ group's own work, several of it in press in 1994.
   stance is not just a sampling bias; it is what the intergroup frame
   does to whom the group treats as typical. That is an inference from
   the paper, not a claim it makes about fans.
-- **THEORY-126.** Smith's group-based emotions, one route in that
+- **[THEORY-126](../theory.d/THEORY-126.md).** Smith's group-based emotions, one route in that
   account, are built on this theory (Hornsey 2008, p. 216).
 - **No ML instruction.**
 
