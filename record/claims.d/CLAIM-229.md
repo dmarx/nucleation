@@ -56,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-091 CLAIM-151 CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-061, not as settled -->
 <!-- inactive-ok-file: ARG-tmpcdbcg ARG-tmpb1nnf ARG-tmp6fcfu ARG-tmpgevka ARG-tmpztimr — Rejected; the five arguments this claim moved to, one per inference it judged -->
-<!-- inactive-ok-file: CLAIM-053 — Superseded; moved to arguments the same day, cited as the claim this one answered -->
+<!-- inactive-ok-file: CLAIM-053 until 2027-01-28 — Superseded; moved to arguments the same day, cited as the claim this one answered -->
 <!-- inactive-ok-file: CLAIM-486 — Proposed; the necessity half, cited as the conclusion of the arguments this claim moved to -->
 
 # CLAIM-229: The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition's non-necessity holds the words fixed, so it shows only insufficiency

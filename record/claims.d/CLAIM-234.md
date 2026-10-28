@@ -53,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-059 CLAIM-115 CLAIM-139 — Proposed; cited as the claim CLAIM-068 feeds and the central theses it does not, not as settled -->
 <!-- inactive-ok-file: CLAIM-090 QUESTION-076 — Proposed or open; cited in the note of 2026-10-10 for what the documented case bears on, not as settled -->
 <!-- inactive-ok-file: ARG-tmphr0a1 — Rejected; the argument this claim moved to -->
-<!-- inactive-ok-file: CLAIM-066 — Superseded; moved to an argument the same day, cited for what it said of the readings -->
+<!-- inactive-ok-file: CLAIM-066 until 2027-01-28 — Superseded; moved to an argument the same day, cited for what it said of the readings -->
 
 # CLAIM-234: The record's iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain
 
