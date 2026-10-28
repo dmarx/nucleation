@@ -30,8 +30,6 @@ summary: >-
   is right about value and loose about difference, and Saussure's value
   is distinct from signification, which the manuscript's "significance"
   blurs.
-objected_by:
-- CLAIM-254
 ---
 <!-- inactive-ok-file: CLAIM-254 CLAIM-242 — Proposed; the open objection to this entry's last paragraph and the record's reply to it -->
 <!-- inactive-ok-file: ARG-tmpv7dh8 ARG-tmpt2gwf — Rejected or Proposed; the two arguments this claim moved to -->

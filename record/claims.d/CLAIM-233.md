@@ -42,8 +42,6 @@ summary: >-
   passes the same test. Granted, because it is read off the texts. It does
   not say the theses are false, only that their stated tests cannot
   separate them from the positions they claim to improve on.
-supports:
-- CLAIM-232
 ---
 <!-- inactive-ok-file: ARG-tmpgw7v8 — Rejected; the argument this claim undercuts, whose verdict it moved to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->

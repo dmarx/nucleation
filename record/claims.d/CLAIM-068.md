@@ -30,8 +30,6 @@ summary: >-
   the stable conventional endpoint and one stance-drift example, but not
   attraction, selection pressures or the extension of iterated learning
   to footing. Apparently dropped by inadvertence.
-objected_by:
-- CLAIM-234
 illustrated_by:
 - CASE-068
 ---

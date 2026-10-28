@@ -38,7 +38,6 @@ summary: >-
   compositional half.
 objected_by:
 - CLAIM-208
-- CLAIM-233
 - CLAIM-244
 complements:
 - CLAIM-202

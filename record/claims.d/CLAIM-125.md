@@ -56,7 +56,6 @@ complements:
 - CLAIM-127
 objected_by:
 - CLAIM-207
-- CLAIM-235
 - CLAIM-237
 - CLAIM-245
 ---

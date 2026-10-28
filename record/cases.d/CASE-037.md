@@ -25,7 +25,6 @@ summary: >-
   It appears three times (A129 §2, A161, A178's negative control), so it
   gets a code.
 supports:
-- CLAIM-219
 - CLAIM-201
 - CLAIM-319
 - CLAIM-320

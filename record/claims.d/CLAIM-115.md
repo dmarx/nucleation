@@ -48,8 +48,6 @@ complements:
 objected_by:
 - CLAIM-222
 - CLAIM-226
-- CLAIM-232
-- CLAIM-233
 - CLAIM-238
 - CLAIM-243
 - CLAIM-244

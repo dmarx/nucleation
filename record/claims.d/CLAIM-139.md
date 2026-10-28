@@ -54,12 +54,9 @@ objected_by:
 - CLAIM-206
 - CLAIM-211
 - CLAIM-222
-- CLAIM-232
-- CLAIM-233
 - CLAIM-238
 - CLAIM-244
 - CLAIM-246
-- CLAIM-247
 - CLAIM-216
 ---
 <!-- inactive-ok-file: CLAIM-133 CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->

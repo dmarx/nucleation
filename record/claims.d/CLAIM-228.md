@@ -64,8 +64,6 @@ summary: >-
   elementary, but whether the restated measure is informative is the
   defeat condition's empirical question. It does not say a fitted kernel
   is the translator's process.
-objected_by:
-- CLAIM-200
 ---
 <!-- ref::uses-file: TERM-021 — applied unnamed: the D_obs this claim restates is context-indexed distribution matching -->
 <!-- ref::uses-file: TERM-043 — applied unnamed: D_obs is the computable component of the profile of directed distortions -->
