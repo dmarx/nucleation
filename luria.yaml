@@ -608,6 +608,12 @@ issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).
 stale_days: 14
+# The fields that carry dependence: what a document needs to be true or to mean
+# what it says. The pending report ranks undecided documents by how much rests
+# on them, and `load-bearing` names any with at least `load_bearing` dependents
+# (ADR-057; luria 1.3.0).
+reliance: [rests_on, grounds, uses, presupposes]
+load_bearing: 5
 paths:
   docs: docs
   decisions: record/decisions.d
@@ -1544,6 +1550,25 @@ lint:
   - inert-status
   - acknowledged-uniformity
 patterns:
+  # The credence checks of ADR-057, as warning classes (`report: true`). An
+  # ARG's premises are not among them: its status is credence in its
+  # inference (ADR-059). Quoted, because a property map puts `: ` in the value.
+  inverted_premise:
+    match: "(c:CLAIM {status: 'Active'})-[:rests_on]->(p:CLAIM {status: 'Proposed'})"
+    report: true
+    blurb: An Active claim resting on a Proposed one.
+  inverted_ground:
+    match: "(c:CLAIM {status: 'Active'})-[:grounds]->(t:THEORY {status: 'Proposed'})"
+    report: true
+    blurb: An Active claim grounded in a Proposed reading; if it does not rest on it, the edge is corroborated_by (ADR-058).
+  answered_but_open:
+    match: "(q:QUESTION {status: 'Open'})<-[:answers]-(c:CLAIM {status: 'Active'})"
+    report: true
+    blurb: An Open question with an Active answer, which ADR-049 says is Answered or split (ADR-060).
+  answered_but_open_reading:
+    match: "(q:QUESTION {status: 'Open'})<-[:answers]-(t:THEORY {status: 'Active'})"
+    report: true
+    blurb: An Open question with an Active reading as its answer, which ADR-049 says is Answered or split (ADR-060).
   # A claim and the claims an argument draws it from. No field holds this:
   # the conclusion is the ARG's `concludes`, the premises its `rests_on`. So
   # the `argument` chain walks it beside `rests_on`, and each step it adds
