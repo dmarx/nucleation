@@ -9,8 +9,9 @@ history:
 - version: 2
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Berendt and Uhrich (LIT-1147) read, and what
-    it adds to the case.
+    Notes of 2026-10-29 added: Berendt and Uhrich (LIT-1147) read, and
+    Kilduff, Elfenbein and Staw (LIT-tmpl8672) read, and what each adds to
+    the case.
 standing: stipulated
 kind: specimen
 tags:
@@ -109,3 +110,24 @@ Also filed unread on 2026-10-29:
 [QUESTION-tmpbudbb](../questions.d/QUESTION-tmpbudbb.md) asks whether perceived reciprocity is accurate. That is
 the paired-survey design this case would need to treat the rivalry as a
 two-sided relation.
+
+## Note of 2026-10-29: Kilduff, Elfenbein and Staw, read
+
+Kilduff et al. (LIT-tmpl8672) has been read (NOTE-tmpiffjj). Of the
+works the record holds, it comes closest to treating a rivalry as a unit.
+Sportswriters rated how much their team saw each conference opponent as
+a rival, with players' and coaches' ratings agreeing (r = .89). Across 71
+NCAA basketball teams, half the variance in those ratings (50.4%) belonged
+to the particular pair, not to either team. The rivalry was largely
+returned from the other side (r = .85 net of team effects).
+
+It also bears on inheritance. Rivalry followed the all-time head-to-head
+record more than recent form, and the all-time record of even results
+outweighed similarity in status. Current players inherit a relation made
+by contests they never played in, which is the case's claim, measured in
+the team rather than the fans.
+
+It does not settle what the case leaves open. The ratings are current
+perceptions, so they show a relation that is reproduced, not who
+reproduces it. A5's variation, interrupting transmission, is still
+untried.

@@ -1,19 +1,23 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. OpenAlex lists no open copy and an exact-title web search found
+  none posted by an author or publisher; UQ eSpace's API refused the
+  request (HTTP 403) and ANU Open Research had no match. No NOTE is filed.
+  It stays Unavailable until a copy is supplied (ADR-041).
 title: 'Perceiving people as group members: The role of fit in the salience of social categorizations'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Crossref: BJSP
-    30(2), 125–144; print June 1991, so `published:` is 1991-06-01 and
-    means June 1991 (ADR-002). Crossref's online date (2011) is the
-    backfile.
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works.
+    Crossref: BJSP 30(2), 125–144; print June 1991, so `published:` is
+    1991-06-01 and means June 1991 (ADR-002). Crossref's online date
+    (2011) is the backfile. Set Unavailable the same day after a search
+    for a lawful copy (ADR-041); the status note says where.
 tags:
 - social-identity
 - self

@@ -1,19 +1,23 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. OpenAlex lists no open copy and an exact-title web search found
+  none posted by an author or publisher; a second search with all five
+  authors found abstracts only (scilit, bohrium). No NOTE is filed. It
+  stays Unavailable until a copy is supplied (ADR-041).
 title: 'The Common Ingroup Identity Model: Recategorization and the Reduction of Intergroup Bias'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Crossref: ERSP
-    4(1), 1–26; print January 1993, so `published:` is 1993-01-01 and
-    means January 1993 (ADR-002). Crossref's online date (2011) is the
-    backfile.
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works.
+    Crossref: ERSP 4(1), 1–26; print January 1993, so `published:` is
+    1993-01-01 and means January 1993 (ADR-002). Crossref's online date
+    (2011) is the backfile. Set Unavailable the same day after a search
+    for a lawful copy (ADR-041); the status note says where.
 tags:
 - social-identity
 date: '2026-10-29'

@@ -1,18 +1,23 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. OpenAlex lists no open copy and an exact-title web search found
+  none posted by an author or publisher; Groningen's Pure has the record
+  without a file. No NOTE is filed. It stays Unavailable until a copy is
+  supplied (ADR-041).
 title: 'Deindividuation and antinormative behavior: A meta-analysis'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Crossref:
-    Psychological Bulletin 123(3), 238–259; May 1998 only, so `published:`
-    is 1998-05-01 and means May 1998 (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works.
+    Crossref: Psychological Bulletin 123(3), 238–259; May 1998 only, so
+    `published:` is 1998-05-01 and means May 1998 (ADR-002). Set
+    Unavailable the same day after a search for a lawful copy (ADR-041);
+    the status note says where.
 tags:
 - social-identity
 date: '2026-10-29'

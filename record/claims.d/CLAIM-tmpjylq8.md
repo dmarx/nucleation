@@ -113,3 +113,27 @@ group cues and not under direct rational control. A sharpened thesis would
 say that collectivist action by team reasoners is self-interest on an
 extended self, and leave the team benefactor's concern as the open case.
 
+## Note of 2026-10-29: identity fusion, read
+
+Swann et al. (NOTE-tmp3g9n4) has been read. It supports the thesis in two
+ways and qualifies it in one.
+
+- **A larger self, not a changed one.** Fused people keep a salient
+  personal self and add the group to it. They say they would do more for
+  the group than other members would, which is not depersonalization.
+- **The prediction holds.** If the group is part of the self, defending
+  the self should go through the group. Challenging fused participants'
+  personal self-views made them readier to fight and die for Spain. It
+  had no effect on the nonfused.
+- **The self being served is a self-concept.** The authors call dying for
+  the group "not in the individual's self-interest" and explain the effect
+  by self-verification, the motive to keep one's self-views true. If the
+  thesis recruits fusion, "self-interest" has to cover keeping a
+  self-concept true, not only furthering one's welfare.
+
+For CLAIM-tmprudek, fusion is measured by perceived overlap, is specific
+to one group and is separable from identification. But the paper never
+measures caring separately, and its gloss on the fused is that they "care
+as much about the outcomes of the group as their own". So it supplies a
+candidate criterion without showing that the criterion comes apart from
+caring. The outcomes are self-reported willingness, not acts.

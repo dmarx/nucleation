@@ -1,18 +1,25 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. OpenAlex lists no open copy and an exact-title web search found
+  none posted by an author or publisher; PhilArchive has a record (SUGTLO)
+  that answered HTTP 403, so whether it holds a file is unknown; UEA's
+  repository and RePEc for the 2005 reprint in Teamwork offer no download.
+  No NOTE is filed. It stays Unavailable until a copy is supplied
+  (ADR-041).
 title: 'The Logic of Team Reasoning'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Crossref:
-    Philosophical Explorations 6(3), 165–181; September 2003 only, so
-    `published:` is 2003-09-01 and means September 2003 (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works.
+    Crossref: Philosophical Explorations 6(3), 165–181; September 2003
+    only, so `published:` is 2003-09-01 and means September 2003
+    (ADR-002). Set Unavailable the same day after a search for a lawful
+    copy (ADR-041); the status note says where.
 tags:
 - altruism
 - game-theory

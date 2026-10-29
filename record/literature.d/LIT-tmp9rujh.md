@@ -1,18 +1,23 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. OpenAlex lists no open copy and an exact-title web search found
+  none posted by an author or publisher; nothing on the Aron lab's pages;
+  perception.org has only a catalogue entry. No NOTE is filed. It stays
+  Unavailable until a copy is supplied (ADR-041).
 title: 'Close relationships as including other in the self'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Crossref: JPSP
-    60(2), 241–253; February 1991 only, so `published:` is 1991-02-01 and
-    means February 1991 (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works.
+    Crossref: JPSP 60(2), 241–253; February 1991 only, so `published:`
+    is 1991-02-01 and means February 1991 (ADR-002). Set Unavailable the
+    same day after a search for a lawful copy (ADR-041); the status note
+    says where.
 tags:
 - altruism
 - self

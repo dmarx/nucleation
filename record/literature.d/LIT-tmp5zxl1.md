@@ -1,21 +1,26 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. The Austin and Worchel volume has no Internet Archive copy,
+  Open Library marks it no_ebook, and a copy on an unrelated
+  organization's library site was not used. No NOTE is filed. It stays
+  Unavailable until a copy is supplied (ADR-041).
 title: 'An integrative theory of intergroup conflict'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. The chapter has no
-    DOI of its own. The URL is the Library of Congress record of the
-    volume (LCCN 78013197; Open Library OL19396369W: Brooks/Cole, 1979). A
-    reprint, in Hatch & Schultz (Eds.), Organizational Identity (OUP,
-    2004), is doi:10.1093/oso/9780199269464.003.0005. `published:` is the
-    1979 volume, year only (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works. The
+    chapter has no DOI of its own. The URL is the Library of Congress
+    record of the volume (LCCN 78013197; Open Library OL19396369W:
+    Brooks/Cole, 1979). A reprint, in Hatch & Schultz (Eds.),
+    Organizational Identity (OUP, 2004), is
+    doi:10.1093/oso/9780199269464.003.0005. `published:` is the 1979
+    volume, year only (ADR-002). Set Unavailable the same day after a
+    search for a lawful copy (ADR-041); the status note says where.
 tags:
 - social-identity
 date: '2026-10-29'

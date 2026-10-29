@@ -45,3 +45,14 @@ The answer is whether one side's outcomes depend on the other side's
 *actual* intensity once its own perceived reciprocity is held fixed.
 Kilduff et al.'s relational account of rivalry ([LIT-tmpl8672](../literature.d/LIT-tmpl8672.md)) predicts
 that the relation matters.
+
+## Partial evidence, 2026-10-29
+
+Kilduff et al. (NOTE-tmpiffjj) measured rivalry from both sides for 389
+pairs of NCAA basketball teams, from student sportswriters validated
+against players and coaches. Rivalry was largely reciprocated: r = .64
+raw, .85 with each team's general tendencies removed. Where it was one
+sided, lower-status teams felt it toward higher-status ones. That is
+teams, not fans, so the question stays open. It does predict where fans'
+perceived reciprocity would be wrong if fans follow their teams: at clubs
+of lower status, toward rivals above them.

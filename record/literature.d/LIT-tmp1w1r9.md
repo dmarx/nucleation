@@ -1,19 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. The Internet Archive's copy (untoothersevolut00sobe) is for
+  print-disabled readers only and is not lent, and no open edition was
+  found. No NOTE is filed. It stays Unavailable until a copy is supplied
+  (ADR-041).
 title: 'Unto Others: The Evolution and Psychology of Unselfish Behavior'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Checked against
-    Open Library (OL2732583W: Harvard University Press, 1998, LCCN
-    97042185). The URL is that LCCN record; the book has no DOI.
-    `published:` is 1998, year only (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works. Checked
+    against Open Library (OL2732583W: Harvard University Press, 1998,
+    LCCN 97042185). The URL is that LCCN record; the book has no DOI.
+    `published:` is 1998, year only (ADR-002). Set Unavailable the same
+    day after a search for a lawful copy (ADR-041); the status note says
+    where.
 tags:
 - altruism
 - philosophy-of-biology

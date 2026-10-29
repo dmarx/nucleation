@@ -1,0 +1,175 @@
+---
+status: Read
+paper: LIT-tmpl8672
+title: 'The Psychology of Rivalry: A Relationally Dependent Analysis of Competition'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the published version (27 pages, tables and
+    references), posted on first author Kilduff's NYU Stern faculty
+    pages. The appendices describing measures were not read. Page numbers
+    are the journal's.
+date: '2026-10-29'
+summary: >-
+  Rivalry is a subjective competitive relationship that raises the
+  psychological stakes of competing with a particular opponent, holding
+  objective stakes fixed. In student sportswriters' ratings of 71 NCAA
+  men's basketball teams, validated by players and coaches (r = .89), half
+  the variance (50.4%) was the particular pair of teams, not either team.
+  Rivalry rose with proximity, status similarity, games played and, most
+  of all, a history of even results, and history mattered more than recent
+  form. Rivalry was largely reciprocated (r = .85 net of team effects);
+  where it was not, lower-status teams felt it toward higher-status ones.
+  Rival games drew bigger crowds and slightly better defence.
+---
+<!-- inactive-ok-file: QUESTION-tmpbudbb CASE-098 THEORY-tmpk1fow LIT-tmp1tphp LIT-tmp6t6ny THEORY-tmpo85ke — Open, Proposed or Deferred; the question and case this reading bears on, a reading that relies on it, and unread works -->
+
+# NOTE-tmpiffjj: The Psychology of Rivalry: A Relationally Dependent Analysis of Competition
+
+## Contribution
+
+It separates rivalry from competition and shows that rivalry belongs to
+the relationship. Earlier work treated competition as a property of the
+situation: whether goals are opposed, how scarce the resource is. Here
+the same teams, in the same conference with the same rules and stakes,
+feel very different intensities toward different opponents. That
+difference is predicted by their shared history.
+
+## Key insight
+
+Competition leaves a residue. Contests long since decided keep shaping how
+much the next one matters, so competition is "path-dependent" (p. 948).
+Even matches matter more than similar status: once the historic
+head-to-head balance is in the model, similarity in all-time winning
+percentage drops out (Model 16).
+
+## Assumptions
+
+- **Teams as unitary actors**, justified by the homogeneity of NCAA
+  teams.
+- **Sportswriters as informants.** Each school's student sportswriters
+  rated how much "your team" sees each conference opponent as a rival, on
+  a 0–10 scale. No definition of rivalry was given, to capture the lay
+  concept.
+- **Defensive statistics as effort.** Effort is assumed to show in
+  defence more than in shooting accuracy.
+- **Generality across levels** (individuals, groups, firms) is argued,
+  not tested.
+
+## Key results
+
+- **Sample** (pp. 950–951). 421 sportswriters at the 73 universities in
+  six major conferences. After screening, 362 remained at 71 schools; mean
+  ICC .93. Players and coaches at 11 schools (134 and 23) agreed with the
+  sportswriters, r = .89. 778 perceiver–target pairs, mean rivalry 5.02.
+- **Where the variance lies** (social relations model, pp. 952–953).
+  - relationship: 50.4%;
+  - target: 26.2%;
+  - perceiver: 4.6%;
+  - error: 18.7%.
+
+  Relationship variance exceeded perceiver plus target in every
+  conference. Example: Oregon State rated Oregon 10.0, with its own mean
+  5.50 and Oregon's mean as target 5.25.
+- **Reciprocity.** Across 389 dyads, r = .64; .85 with perceiver and
+  target effects removed. No predictor of within-dyad asymmetry was found.
+- **Antecedents** (Table 3, team fixed effects, n = 318 dyads).
+  - distance: t = −8.80;
+  - same state: t = 7.26;
+  - status difference, all-time: t = −3.47;
+  - academic-quality difference: t = −3.20;
+  - games played, controlling distance: t = 3.03;
+  - historic competitiveness: t = 5.00.
+- **History over recency.** With both in the model, historic status
+  similarity and historic competitiveness stayed significant and their
+  recent counterparts did not (Models 13–15).
+- **Target effects.** High-status teams drew rivalry (r = .73 with all-time
+  winning percentage; R² = .77 for the full model). One-sided rivalry
+  runs from lower-status teams to higher-status ones.
+- **Consequences** (563 games, 2005–06).
+  - attendance: t = 3.75;
+  - points per 100 possessions fell, t = −2.14 (1.19% per SD of rivalry);
+  - blocked shots rose, t = 1.99 (4.47% per SD);
+  - steals and free-throw accuracy: n.s.
+
+  The null on free throws argues against "choking".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Rivalry varies mostly at the level of the particular pair of competitors, not with either competitor's attributes | strong in this setting: round-robin design, social relations model, consistent in all six conferences | Part I |
+| C2 | Rivalry grows with similarity, repeated competition and, above all, a history of even contests | moderate: cross-sectional; scheduling could follow rivalry | Part II |
+| C3 | Competition is path-dependent: past contests keep raising the stakes of present ones | moderate: historic predictors beat recent ones; objective-stakes explanations are not excluded for every predictor | Part II, Models 13–16 |
+| C4 | Rivalry increases effort | weak: small effects on defensive statistics, offence and defence confounded at game level | Part III |
+| C5 | Rivalry is largely reciprocated; one-sided rivalry runs toward higher status | moderate for teams in major conferences | Parts I–II |
+
+## Concepts
+
+- **rivalry**: "a subjective competitive relationship that an actor has
+  with another actor that entails increased psychological involvement and
+  perceived stakes of competition for the focal actor, independent of the
+  objective characteristics of the situation" (p. 945).
+- **relationship effect**: in the social relations model, the part of A's
+  rating of B not explained by A's general tendency or B's general pull.
+- **competitiveness index**: closeness of the historic head-to-head record
+  to 50–50.
+
+## Connections
+
+- **Berendt and Uhrich (THEORY-tmpk1fow)** take their definition of
+  rivalry from this paper.
+- **Tyler and Cobbs (LIT-tmp1tphp)**, Unfetched, document one-sided fan
+  rivalries. Here, among teams, one-sidedness is rare and follows status.
+- **Intergroup bias.** It cites Tajfel et al. 1971 (LIT-tmp6t6ny) and
+  Jetten et al. on similarity and threat. Rivalry rising with similarity
+  fits the distinctiveness-threat line that self-categorization theory
+  (THEORY-tmpo85ke) folds in; the paper does not use the theory.
+- **Observers.** Attendance rising with rivalry is read as rivalry
+  "spreading to those indirectly involved" (p. 961), and how observers
+  feel rivalry is listed as a future direction. The fans are not studied.
+
+## Bearing on the record
+
+- **CASE-098 (a rivalry that outlives its carriers).** It supports the case
+  by giving a mechanism. Rivalry is measurably a property of the pair, and
+  it is driven by a history of contests most current players never played
+  in. All-time records beat recent form. That is the inheritance the case
+  describes, measured in the institution rather than the fans. It does not
+  show who carries it: sportswriters' and players' current ratings are the
+  only measure. A dated note is added to the case.
+- **QUESTION-tmpbudbb (is perceived reciprocity real?).** A partial answer
+  at the level of teams. Measured from both sides, rivalry was largely
+  returned (r = .85 net of team effects), and one-sided rivalry ran from
+  lower to higher status. If fans' perceptions follow their teams', the
+  perceived reciprocity Berendt and Uhrich found is mostly accurate, with
+  an error expected from fans of lower-status clubs. The question asked
+  about fans, so it stays open; a note is added to it.
+- **The owner's thesis.** Little. The paper assumes that group members who
+  identify will be moved by their group's rivalry (p. 950), which is the
+  thesis's picture, but tests nothing about members.
+- **No THEORY filed.**
+- **No ML instruction.**
+
+## Limitations
+
+- **Objective stakes are not fully excluded.** Proximity may matter
+  because nearby teams compete for recruits and fans; the authors say so.
+  The historic-competitiveness result is the one they say stakes cannot
+  explain.
+- **Cross-sectional.** Conferences may schedule rivals more often, so
+  games played may follow rivalry.
+- **Informants, not members.** The ratings are sportswriters', validated
+  at 11 schools.
+- **Small consequences**, perhaps from a ceiling on athletes' motivation.
+- **Sport only.** The authors note intense loyalty in college athletics
+  may make rivalry unusually strong.
+
+## Open questions
+
+- Do fans' rivalries have the same structure: pair-level, reciprocated,
+  status-driven when one-sided? Tyler and Cobbs's data could answer it.
+- Do respectful and hostile rivalries (Bird and Johnson against British
+  Airways and Virgin) have different antecedents? The authors raise it.

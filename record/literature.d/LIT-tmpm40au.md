@@ -1,19 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. The Internet Archive's copy (survivingdeath0000john) is for
+  print-disabled readers only and is not lent, and no open edition was
+  found. No NOTE is filed. It stays Unavailable until a copy is supplied
+  (ADR-041).
 title: 'Surviving Death'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Crossref (De
-    Gruyter) gives the electronic edition, doi:10.1515/9781400834600; Open
-    Library has the Princeton printing (LCCN 2009034147). `published:` is
-    2010, year only (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works.
+    Crossref (De Gruyter) gives the electronic edition,
+    doi:10.1515/9781400834600; Open Library has the Princeton printing
+    (LCCN 2009034147). `published:` is 2010, year only (ADR-002). Set
+    Unavailable the same day after a search for a lawful copy (ADR-041);
+    the status note says where.
 tags:
 - personhood
 - altruism
