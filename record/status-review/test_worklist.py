@@ -31,7 +31,13 @@ ENTRIES = {
     "claims.d/CLAIM-007.md": {"status": "Active", "role": "granted", "date": "2026-10-10",
                               "objects_to": ["CLAIM-008"]},
     "claims.d/CLAIM-008.md": {"status": "Active", "role": "thesis", "version": 2,
-                              "history": [{"version": 2, "date": "2026-10-12"}]},
+                              "history": [{"version": 2, "date": "2026-10-12"}], "objected_by": ["CLAIM-007"]},
+    # an Active counter is held true whatever its role, so it is a concession too (ADR-059)
+    "claims.d/CLAIM-009.md": {"status": "Active", "role": "counter", "date": "2026-10-10",
+                              "objects_to": ["CLAIM-010"]},
+    # filed the same day with the concession already in its text, and saying so
+    "claims.d/CLAIM-010.md": {"status": "Proposed", "role": "thesis", "date": "2026-10-10",
+                              "objected_by": ["CLAIM-009"]},
 }
 
 
@@ -88,7 +94,23 @@ def test_successors_are_followed_to_a_live_entry(tmp_path):
 
 def test_unwritten_concessions_find_a_target_not_revised_since(tmp_path):
     # ADR-059: a conceded objection is recorded by revising its target
-    assert record(tmp_path).unwritten_concessions() == [("CLAIM-006", "CLAIM-003", "2026-10-10", "never")]
+    assert record(tmp_path).unwritten_concessions() == [("CLAIM-006", "CLAIM-003", "2026-10-10", "never"),
+                                                        ("CLAIM-009", "CLAIM-010", "2026-10-10", "never")]
+
+
+def test_a_target_filed_with_its_concession_says_so(tmp_path):
+    r = record(tmp_path)
+    r.bodies["CLAIM-010"] = "\n## Note of 2026-10-10: filed with its concessions\n\nCLAIM-009, in its scope.\n"
+    assert ("CLAIM-009", "CLAIM-010", "2026-10-10", "never") not in r.unwritten_concessions()
+    # a note dated before the concession does not cover it
+    r.bodies["CLAIM-010"] = "\n## Note of 2026-10-09: filed with its concessions\n\nCLAIM-009.\n"
+    assert ("CLAIM-009", "CLAIM-010", "2026-10-10", "never") in r.unwritten_concessions()
+
+
+def test_a_written_concession_is_no_longer_a_live_objection(tmp_path):
+    # ADR-057: narrowing the target answers the objection; an unwritten one still stands
+    r = record(tmp_path)
+    assert r.live_objections("CLAIM-008") == [] and r.live_objections("CLAIM-010") == ["CLAIM-009"]
 
 
 def test_a_recent_blocker_note_holds_an_entry_out_of_the_work(tmp_path):
