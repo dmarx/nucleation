@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpmr9wg) from the published version on
+  read in full 2026-10-29 ([NOTE-tmpmr9wg](../notes.d/NOTE-tmpmr9wg.md)) from the published version on
   co-author Yzerbyt's UCLouvain page; worth reading as the study that
   joins terror management to social identity, and as the clearest
   statement of the idea that a group seen as a lasting entity lets the
@@ -44,7 +44,7 @@ summary: >-
 
 Castano, E., Yzerbyt, V., Paladino, M.-P. & Sacchi, S. (2002). *Personality and Social Psychology Bulletin*, 28(2), 135–143.
 
-Read in full in NOTE-tmpmr9wg, from the published version on co-author Yzerbyt's UCLouvain page.
+Read in full in [NOTE-tmpmr9wg](../notes.d/NOTE-tmpmr9wg.md), from the published version on co-author Yzerbyt's UCLouvain page.
 
 ## Why this is here
 

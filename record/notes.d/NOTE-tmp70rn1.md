@@ -147,15 +147,15 @@ with the degree to which that individual discounts future rewards" (ibid.).
 
 ## Connections
 
-- **Parfit (THEORY-464).** Hershfield takes Parfit's connectedness as the
+- **Parfit ([THEORY-464](../theory.d/THEORY-464.md)).** Hershfield takes Parfit's connectedness as the
   thing felt. He also says "what matters, for long-term planning, however,
   is that one person has but one identity, and it is with this link that
   the assets of the present and future selves are tied together"
   (Theoretical underpinnings). So he keeps numerical identity as what ties
   the assets and puts felt connectedness in charge of motivation. That is
-  THEORY-464's point, that prudential concern follows a relation that
+  [THEORY-464](../theory.d/THEORY-464.md)'s point, that prudential concern follows a relation that
   comes apart from identity, found as a fact about behaviour.
-- **Aron's inclusion of other in the self (LIT-tmp9rujh; NOTE-tmpd7oz0).**
+- **Aron's inclusion of other in the self ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md); [NOTE-tmpd7oz0](NOTE-tmpd7oz0.md)).**
   The circles are Aron's, relabelled from closeness to similarity.
   Branand, Mashek and Aron report the IOS as validated for closeness; here
   the adaptation is validated against overlap of self-descriptions.
@@ -166,14 +166,14 @@ with the degree to which that individual discounts future rewards" (ibid.).
   that "one cannot create a legacy ... by affecting merely one's own future
   self". Hershfield's closing suggestion runs the other way: at life's end
   the future self may continue in one's offspring.
-- **Tarsney (NOTE-tmp0l9dk).** That note asks that any test of concern
+- **Tarsney ([NOTE-tmp0l9dk](NOTE-tmp0l9dk.md)).** That note asks that any test of concern
   tracking felt continuity separate it from discounting for the risk that
   one's effects are undone. Bartels and Urminsky's control for uncertainty
   about the future does this within a lifetime.
 
 ## Bearing on the record
 
-- **The triviality objection (CLAIM-tmprudek).** Has future-self
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Has future-self
   continuity been separated from caring about one's future self? Partly,
   and only at second hand. These are inferences from the review's reports.
   - **For separation.** In Ersner-Hershfield et al. 2009 the circles
@@ -193,7 +193,7 @@ with the degree to which that individual discounts future rewards" (ibid.).
     predicting concern-like behaviour where reported caring did not. But it
     is a case within one person over time, and the separation is not
     established.
-- **The owner's thesis (CLAIM-tmpjylq8).** The review states the thesis's
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The review states the thesis's
   mirror image. The thesis says concern for others is self-interest on a
   larger self. Hershfield says concern for one's own future is
   other-regard toward a self that may feel like a stranger. Both put self
@@ -201,15 +201,15 @@ with the degree to which that individual discounts future rewards" (ibid.).
   selfless" and "no prudence is purely self-interested" are the same claim
   read from opposite ends, and the thesis's content lies in the scale and
   its criterion, not in the word "self". That is an inference.
-- **Batson's objection (CLAIM-tmpybc4k).** Indirect. Hershfield borrows the
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Indirect. Hershfield borrows the
   similarity–helping link from the empathy literature to explain saving.
   It does not test empathy without overlap.
-- **The legacy question (QUESTION-tmpruhu4).** The question cites this
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** The question cites this
   review for prudence having the thesis's shape. That holds. The review adds
   an untested suggestion that the future self extends past death into
   one's offspring, the bridge from prudence to legacy that the question
   needs.
-- **A dated note on CLAIM-tmprudek is proposed:**
+- **A dated note on [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) is proposed:**
 
   > Hershfield (NOTE-tmp70rn1) reviews the strongest case the record holds of
   > a measured extent of the self predicting concern-like behaviour where
@@ -248,7 +248,7 @@ with the degree to which that individual discounts future rewards" (ibid.).
 
 - With caring measured so that it varies (for instance, about a future
   self described as worse off), do the circles still predict patience
-  when caring is held fixed? That is CLAIM-tmprudek's test, run where it is
+  when caring is held fixed? That is [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s test, run where it is
   easiest.
 - Does felt continuity with one's children predict saving or sacrifice for
   them, as the review suggests? That would carry the measure across death.

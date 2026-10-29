@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Intergenerational transmission of paternal trauma among US Civil War ex-POWs'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Historical evidence of a father's trauma affecting sons born afterwards. For QUESTION-tmp8bttd.
+Historical evidence of a father's trauma affecting sons born afterwards. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).

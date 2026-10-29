@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Does intergenerational transmission of trauma skip a generation? No meta-analytic evidence for tertiary traumatization with third generation of Holocaust survivors'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The third-generation counterpart of the 2003 meta-analysis (LIT-tmpd29uc). For QUESTION-tmp8bttd.
+The third-generation counterpart of the 2003 meta-analysis ([LIT-tmpd29uc](LIT-tmpd29uc.md)). For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).

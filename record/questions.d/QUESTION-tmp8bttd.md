@@ -25,58 +25,58 @@ summary: >-
 
 ## Why it is a question
 
-The legacy line (QUESTION-tmpruhu4, QUESTION-tmpmx9ha) asks how the living
+The legacy line ([QUESTION-tmpruhu4](QUESTION-tmpruhu4.md), [QUESTION-tmpmx9ha](QUESTION-tmpmx9ha.md)) asks how the living
 reach forward to people after them. Intergenerational trauma is the past
 reaching forward into the living. Four routes are proposed, and they make
 different claims about what is inherited.
 
 - **The germline.** In mice, a father's conditioned fear of an odour shows
   in his offspring and grand-offspring, with methylation changes in sperm
-  (Dias and Ressler, LIT-tmpk0wlg; reviewed by Bohacek and Mansuy,
-  LIT-tmph5rq7). In humans the evidence is:
-  - epidemiological: Överkalix (Pembrey et al., LIT-tmpmxksg) and Civil
-    War prisoners' sons (Costa et al., LIT-tmp6n699);
+  (Dias and Ressler, [LIT-tmpk0wlg](../literature.d/LIT-tmpk0wlg.md); reviewed by Bohacek and Mansuy,
+  [LIT-tmph5rq7](../literature.d/LIT-tmph5rq7.md)). In humans the evidence is:
+  - epidemiological: Överkalix (Pembrey et al., [LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md)) and Civil
+    War prisoners' sons (Costa et al., [LIT-tmp6n699](../literature.d/LIT-tmp6n699.md));
   - molecular, in small samples: FKBP5 methylation in Holocaust survivors'
-    offspring (Yehuda et al., LIT-tmp4sa73).
+    offspring (Yehuda et al., [LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md)).
 
   Critics hold that germline reprogramming erases most marks in mammals,
   and that human studies cannot exclude genetic, uterine and cultural
-  routes (Heard and Martienssen, LIT-tmpjgbgk; Horsthemke, LIT-tmpmsnfq;
-  Bird, LIT-tmpaf6cr).
+  routes (Heard and Martienssen, [LIT-tmpjgbgk](../literature.d/LIT-tmpjgbgk.md); Horsthemke, [LIT-tmpmsnfq](../literature.d/LIT-tmpmsnfq.md);
+  Bird, [LIT-tmpaf6cr](../literature.d/LIT-tmpaf6cr.md)).
 - **The womb.** Prenatal famine leaves lasting methylation marks (the
-  Dutch Hunger Winter, Heijmans et al., LIT-tmpkgr1s). The exposure is the
+  Dutch Hunger Winter, Heijmans et al., [LIT-tmpkgr1s](../literature.d/LIT-tmpkgr1s.md)). The exposure is the
   person's own, so this is intergenerational, not inheritance through
   untouched generations.
-- **Parenting and silence.** The clinical tradition (Danieli, LIT-tmp881f5;
-  Yehuda and Lehrner, LIT-tmpcigq1) traces transmission through care and a
+- **Parenting and silence.** The clinical tradition (Danieli, [LIT-tmp881f5](../literature.d/LIT-tmp881f5.md);
+  Yehuda and Lehrner, [LIT-tmpcigq1](../literature.d/LIT-tmpcigq1.md)) traces transmission through care and a
   "conspiracy of silence". Yet meta-analyses find no general
   second-generation harm in non-clinical samples of Holocaust survivors'
-  children (van IJzendoorn et al., LIT-tmpd29uc), and none in the third
-  generation (Sagi-Schwartz et al., LIT-tmppmeni).
+  children (van IJzendoorn et al., [LIT-tmpd29uc](../literature.d/LIT-tmpd29uc.md)), and none in the third
+  generation (Sagi-Schwartz et al., [LIT-tmppmeni](../literature.d/LIT-tmppmeni.md)).
 - **Narrative and identity.** A group's shared memory of an ancestral
   injury becomes a marker of its identity: Volkan's "chosen trauma"
-  (LIT-tmpftqpm), and the sociology of cultural trauma, in which carrier
+  ([LIT-tmpftqpm](../literature.d/LIT-tmpftqpm.md)), and the sociology of cultural trauma, in which carrier
   groups make an event an injury to the collective (Alexander et al.,
-  LIT-tmp0szcy). Lehrner and Yehuda (LIT-tmpzfk28) join this to the
+  [LIT-tmp0szcy](../literature.d/LIT-tmp0szcy.md)). Lehrner and Yehuda ([LIT-tmpzfk28](../literature.d/LIT-tmpzfk28.md)) join this to the
   biology.
 
 The record already holds two neighbours:
 - **Cultural persistence:** attitudes formed under slavery persist
-  locally by cultural transmission (THEORY-889, from LIT-1388).
+  locally by cultural transmission ([THEORY-889](../theory.d/THEORY-889.md), from [LIT-1388](../literature.d/LIT-1388.md)).
 - **Inherited non-genetic state in bacteria:** E. coli cells inherit a
-  transient state from their mothers (THEORY-179).
+  transient state from their mothers ([THEORY-179](../theory.d/THEORY-179.md)).
 
-CASE-098 is a rivalry that new fans inherit before they know why it
+[CASE-098](../cases.d/CASE-098.md) is a rivalry that new fans inherit before they know why it
 matters.
 
 ## How it meets the owner's thesis
 
 On the identity route, descendants feel as their own an injury done to
-people they never knew. That is the thesis's extended self (CLAIM-tmpjylq8)
+people they never knew. That is the thesis's extended self ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md))
 running backward in time. Read that way, a descendant's grief or anger
 over an ancestral injury is self-regarding: the injured self includes the
 ancestors. It is also the reverse of Pitcher's posthumous harm
-(LIT-tmphj5mc), where the dead are harmed by what comes after them. Here
+([LIT-tmphj5mc](../literature.d/LIT-tmphj5mc.md)), where the dead are harmed by what comes after them. Here
 the living are harmed by what came before them. On the biological routes
 no self is needed: what passes is a physiological state, not an
 identification.
@@ -91,4 +91,4 @@ identification.
   ancestral trauma follows their identification with the group, measured
   apart from their knowledge of the events and from family transmission.
   If it does, the injury is carried as part of a social self, and
-  CLAIM-tmprudek's test applies to the past as well as the future.
+  [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s test applies to the past as well as the future.

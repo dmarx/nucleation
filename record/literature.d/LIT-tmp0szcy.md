@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Cultural Trauma and Collective Identity'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The sociological account on which a group's trauma belongs to its identity, not to any individual's experience. For QUESTION-tmp8bttd and LIT-1388 (the political legacy of slavery).
+The sociological account on which a group's trauma belongs to its identity, not to any individual's experience. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md) and [LIT-1388](LIT-1388.md) (the political legacy of slavery).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp70rn1) from the NIH author manuscript
+  read in full 2026-10-29 ([NOTE-tmp70rn1](../notes.d/NOTE-tmp70rn1.md)) from the NIH author manuscript
   (PMC3764505), served by NCBI's PMC OAI-PMH service after Europe PMC
   refused this client; worth reading as the short statement of the future
   self-continuity programme, and as the record's clearest case of a
@@ -50,7 +50,7 @@ summary: >-
 
 Hershfield, H. E. (2011). *Annals of the New York Academy of Sciences*, 1235(1), 30–43.
 
-Read in full in NOTE-tmp70rn1, from the NIH author manuscript (PMC3764505), served by NCBI's PMC OAI-PMH service after Europe PMC refused this client.
+Read in full in [NOTE-tmp70rn1](../notes.d/NOTE-tmp70rn1.md), from the NIH author manuscript (PMC3764505), served by NCBI's PMC OAI-PMH service after Europe PMC refused this client.
 
 ## Why this is here
 
