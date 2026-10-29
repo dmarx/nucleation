@@ -233,8 +233,8 @@ The claim is unchanged and stays Proposed.
 
 ## Note of 2026-10-29: Edmondson, read
 
-Edmondson 1999, LIT-1220, A41's empirical anchor for the cost side, is
-now read (NOTE-tmpd0qzq). The body's report of it is right: across 51
+Edmondson 1999, [LIT-1220](../literature.d/LIT-1220.md), A41's empirical anchor for the cost side, is
+now read ([NOTE-tmpd0qzq](../notes.d/NOTE-tmpd0qzq.md)). The body's report of it is right: across 51
 work teams, a shared belief that the team is safe for interpersonal risk
 taking went with the team's learning behaviour, by members' and outside
 observers' ratings, and through it with performance as the team's

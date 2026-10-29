@@ -112,14 +112,14 @@ favour came before the liking.
 
 ## Note of 2026-10-29: the contact literature, read
 
-Pettigrew's 1998 review, LIT-1408 (NOTE-tmpmwtvy), and Pettigrew and
-Tropp's meta-analyses of 2006, LIT-1413 (NOTE-tmplxoe7), and 2008,
-LIT-1405 (NOTE-tmpdp52y), are now read. Contact before revised attitude
+Pettigrew's 1998 review, [LIT-1408](../literature.d/LIT-1408.md) ([NOTE-tmpmwtvy](../notes.d/NOTE-tmpmwtvy.md)), and Pettigrew and
+Tropp's meta-analyses of 2006, [LIT-1413](../literature.d/LIT-1413.md) ([NOTE-tmplxoe7](../notes.d/NOTE-tmplxoe7.md)), and 2008,
+[LIT-1405](../literature.d/LIT-1405.md) ([NOTE-tmpdp52y](../notes.d/NOTE-tmpdp52y.md)), are now read. Contact before revised attitude
 is the claim's order, and they bear on it in three ways.
 
 - **The review states the order.** Among contact's four processes:
   "Behavior change is often the precursor of attitude change", with
-  dissonance as the mechanism. That is the shape of CASE-143. It is
+  dissonance as the mechanism. That is the shape of [CASE-143](../cases.d/CASE-143.md). It is
   argued, not tested.
 - **The 2006 meta-analysis cannot mostly order the two.** It is the
   strongest support the record holds for contact changing attitudes, but

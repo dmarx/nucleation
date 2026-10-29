@@ -78,8 +78,8 @@ treatment, which changes what counts as evidence and what the pupil faces.
 
 ## Note of 2026-10-29: Merton, read
 
-Merton 1948, LIT-1398, which "What it shows" calls registered unread, is
-now read (NOTE-tmprvkcw). The case is his mechanism, and the essay
+Merton 1948, [LIT-1398](../literature.d/LIT-1398.md), which "What it shows" calls registered unread, is
+now read ([NOTE-tmprvkcw](../notes.d/NOTE-tmprvkcw.md)). The case is his mechanism, and the essay
 supports the case's reading of it as working through others' treatment
 rather than through the labelled person's belief. In his §II the Black
 worker becomes a strikebreaker because the unions exclude him, not

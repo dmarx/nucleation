@@ -166,8 +166,8 @@ controller changes error correction. The design is unchanged.
 
 ## Note of 2026-10-29: Nisbett and Wilson, read
 
-Nisbett and Wilson, LIT-1410, which the note above calls Unfetched, is now
-read (NOTE-tmpvh2sy). It supports the case's premise, and narrowly. What
+Nisbett and Wilson, [LIT-1410](../literature.d/LIT-1410.md), which the note above calls Unfetched, is now
+read ([NOTE-tmpvh2sy](../notes.d/NOTE-tmpvh2sy.md)). It supports the case's premise, and narrowly. What
 diverges in it is a person's report of why they responded and what in
 fact caused the response: subjects miss effective stimuli and credit
 ineffective ones, and their reports match what observers given only a

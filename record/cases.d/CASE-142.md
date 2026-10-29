@@ -79,8 +79,8 @@ is the evidence.
 
 ## Note of 2026-10-29: Merton's two routes
 
-Merton 1948, LIT-1398, registered to check whether Merton already covers
-this route, is now read (NOTE-tmprvkcw). In part he does. His §IV
+Merton 1948, [LIT-1398](../literature.d/LIT-1398.md), registered to check whether Merton already covers
+this route, is now read ([NOTE-tmprvkcw](../notes.d/NOTE-tmprvkcw.md)). In part he does. His §IV
 describes out-groups that reject the in-group's definition and answer
 it, by self-assertion or self-effacement, and the in-group takes both
 answers "with mingled derision and contempt". His §III's "moral alchemy"

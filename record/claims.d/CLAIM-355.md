@@ -302,9 +302,9 @@ and which stays Proposed.
 
 ## Note of 2026-10-29: Revonsuo's bindings, read
 
-Revonsuo 1999, LIT-1208, which A27 gave as the longer history of the
+Revonsuo 1999, [LIT-1208](../literature.d/LIT-1208.md), which A27 gave as the longer history of the
 distinction between functional and phenomenal binding, is now read
-(NOTE-tmpishg4). Two findings bear on "It does not solve phenomenal
+([NOTE-tmpishg4](../notes.d/NOTE-tmpishg4.md)). Two findings bear on "It does not solve phenomenal
 binding" above.
 
 - **A27's five bindings are not Revonsuo's.** His five kinds of

@@ -172,8 +172,8 @@ it any guaranteed simultaneous action. The claim is unchanged.
 
 ## Note of 2026-10-29: Akkoyunlu, Ekanadham and Huber, read
 
-Akkoyunlu, Ekanadham and Huber, LIT-1214, which the note above calls
-Unfetched, is now read (NOTE-tmpsfusn). They do state the problem. Their
+Akkoyunlu, Ekanadham and Huber, [LIT-1214](../literature.d/LIT-1214.md), which the note above calls
+Unfetched, is now read ([NOTE-tmpsfusn](../notes.d/NOTE-tmpsfusn.md)). They do state the problem. Their
 Appendix tells it as two groups of gangsters and a messenger who may be
 mugged on any trip, with a goal that the plan is delivered and that "both
 parties know that they are in mutual agreement" that it was, and proves by
@@ -184,5 +184,5 @@ over Gray (1978). This corrects the note above, which said the 1975
 attribution rests on later usage: it rests on the paper. One precision.
 Their goal is mutual knowledge of delivery, with action only as motive,
 so the step from it to "no protocol guarantees that both act or neither
-does" is Halpern and Moses's (LIT-1213), not theirs. The claim is
+does" is Halpern and Moses's ([LIT-1213](../literature.d/LIT-1213.md)), not theirs. The claim is
 unchanged.

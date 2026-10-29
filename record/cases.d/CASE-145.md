@@ -72,8 +72,8 @@ for collective decision.
 
 ## Note of 2026-10-29: the swarm's stop signals, read
 
-Seeley et al., LIT-1406, cited above under "Related evidence", is now
-read (NOTE-tmpuj9lb). It supports the citation: nest-site scouts end
+Seeley et al., [LIT-1406](../literature.d/LIT-1406.md), cited above under "Related evidence", is now
+read ([NOTE-tmpuj9lb](../notes.d/NOTE-tmpuj9lb.md)). It supports the citation: nest-site scouts end
 rival scouts' dances with stop signals, and no arbiter settles the
 choice. Two precisions.
 

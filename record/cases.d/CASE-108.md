@@ -156,8 +156,8 @@ The design is unchanged.
 
 ## Note of 2026-10-29: Edmondson, read
 
-Edmondson 1999, LIT-1220, which CLAIM-359 takes as A41's anchor for the
-cost side, is now read (NOTE-tmpd0qzq). The "honestly dissenting"
+Edmondson 1999, [LIT-1220](../literature.d/LIT-1220.md), which [CLAIM-359](../claims.d/CLAIM-359.md) takes as A41's anchor for the
+cost side, is now read ([NOTE-tmpd0qzq](../notes.d/NOTE-tmpd0qzq.md)). The "honestly dissenting"
 specialists are the role its construct, team psychological safety,
 protects: in 51 work teams of one company, members' belief that speaking
 up will not be punished went with the team's asking, admitting and
