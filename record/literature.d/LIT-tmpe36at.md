@@ -26,6 +26,7 @@ tags:
 - social-ontology
 - phenomenology
 - self
+- social-identity
 date: '2026-10-28'
 published: '2023-07-17'
 doi: '10.1007/s11097-023-09923-0'

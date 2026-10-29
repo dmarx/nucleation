@@ -20,6 +20,7 @@ tags:
 - social-science
 - social-ontology
 - cognition
+- social-identity
 date: '2026-10-28'
 source:
 - LIT-tmpmzum3

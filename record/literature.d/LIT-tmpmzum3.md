@@ -24,6 +24,7 @@ history:
     not read. Crossref gives version 2 posted 2026-09-11; version 1 was
     posted 2025-12-10, so `published:` is that date (ADR-002).
 tags:
+- social-identity
 - social-science
 - social-ontology
 - cognition

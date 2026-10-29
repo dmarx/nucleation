@@ -150,6 +150,12 @@ vocabularies:
       social-ontology:
         label: Social ontology
         blurb: 'what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017)'
+      social-identity:
+        label: Social identity
+        blurb: 'the psychology of group membership — social identity and self-categorization theory, how people categorize themselves and others and when a group identity becomes salient, identification and its measurement, in-group bias and intergroup relations, rivalry, recategorization and common in-group identity, group-based emotion, crowds and fandom. What a group is, as ontology, is social-ontology; here it is how people come to see themselves and act as members (ADR-062)'
+      altruism:
+        label: Altruism and self-interest
+        blurb: 'whether and how action can aim at another''s good rather than one''s own — psychological egoism and its rivals, the empathy–altruism debate and self–other merging, inclusion of others in the self and identity fusion, team reasoning and group-directed preferences, identity in the utility function, the evolution of unselfish behaviour (kin, reciprocal and group selection), and the extent of the self as it bears on what counts as self-interest (ADR-062)'
       moral-psychology:
         label: Moral psychology
         blurb: 'morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018)'

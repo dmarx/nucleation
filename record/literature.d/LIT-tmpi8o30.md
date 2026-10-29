@@ -25,6 +25,7 @@ history:
     204–222. Crossref's earliest full date is published-online 2008-01-14
     (ADR-002). The summary follows the abstract on Crossref.
 tags:
+- social-identity
 - social-science
 date: '2026-10-28'
 published: '2008-01-14'

@@ -26,6 +26,7 @@ history:
     the 1987 first printing, year only (ADR-002). The summary follows what
     the book is standardly cited for.
 tags:
+- social-identity
 - social-science
 - self
 - social-ontology

@@ -1,0 +1,46 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
+  Unavailable (ADR-041). No NOTE is filed.
+title: 'An integrative theory of intergroup conflict'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed, not read, on the owner's word of 2026-10-29, from the readings
+    of self-categorization theory and the fandom works. The chapter has no
+    DOI of its own. The URL is the Library of Congress record of the
+    volume (LCCN 78013197; Open Library OL19396369W: Brooks/Cole, 1979). A
+    reprint, in Hatch & Schultz (Eds.), Organizational Identity (OUP,
+    2004), is doi:10.1093/oso/9780199269464.003.0005. `published:` is the
+    1979 volume, year only (ADR-002).
+tags:
+- social-identity
+date: '2026-10-29'
+published: '1979-01-01'
+url: 'https://lccn.loc.gov/78013197'
+first_author: 'Tajfel'
+keywords:
+- 'social identity theory'
+- 'positive distinctiveness'
+- 'intergroup conflict'
+- 'social mobility'
+- 'social creativity'
+- 'social competition'
+implementations: []
+summary: >-
+  Tajfel & Turner (1979). The statement of social identity theory: people seek a positive social identity through favourable comparison of the in-group with relevant out-groups; low-status groups respond by mobility, creativity or competition depending on the permeability, stability and legitimacy of the status hierarchy.
+---
+
+# LIT-tmp5zxl1: An integrative theory of intergroup conflict
+
+Tajfel, H. & Turner, J. C. (1979). In W. G. Austin & S. Worchel (Eds.), *The Social Psychology of Intergroup Relations* (pp. 33–47). Monterey, CA: Brooks/Cole.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The theory Hornsey (NOTE-tmp3dav9) separates from self-categorization theory, and the frame of Berendt & Uhrich (NOTE-tmpp2j50) and Čater et al. (LIT-1138). The record holds nothing else by Tajfel.

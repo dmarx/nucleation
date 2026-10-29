@@ -17,6 +17,7 @@ title: "Spectators' identification with football clubs varies on two independent
 version: 1
 tags:
 - social-science
+- social-identity
 date: '2026-10-29'
 source:
 - LIT-1150

@@ -24,6 +24,7 @@ summary: >-
   we-identity. León sketches a socially extended account, drawing on
   Husserl and on extended-mind criteria.
 ---
+<!-- inactive-ok-file: LIT-tmply7z7 LIT-tmp217ac LIT-tmp9rujh LIT-tmplxaqm CLAIM-tmpjylq8 — Deferred or Proposed; works filed unread and a claim, named in the connection added 2026-10-29 -->
 <!-- inactive-ok-file: LIT-tmper0q2 — Unavailable; the book this paper quotes, named as the source not read -->
 <!-- inactive-ok-file: THEORY-tmpsm03n THEORY-tmpo85ke THEORY-126 THEORY-650 — Proposed; the account filed from this reading and the accounts it bears on, compared, not leaned on -->
 
@@ -167,6 +168,14 @@ either way, a theory of one way is not a theory of the "we".
 - **Personal identity.** León sets aside identity as re-identification
   (§2) for the vernacular sense (Schechtman 1996). The record's
   personhood theories ([THEORY-650](../theory.d/THEORY-650.md) and others) concern the former.
+
+- **Filed 2026-10-29, unread.** The works this paper turns on are now
+  held: Zahavi's account of group identification by self-alienation
+  (LIT-tmply7z7); Salice and Miyazono on group identification and
+  collective intentionality (LIT-tmp217ac); Aron et al. on including the
+  other in the self (LIT-tmp9rujh); and Brewer and Gardner's relational
+  self (LIT-tmplxaqm). The owner's thesis that there is no selfless
+  action (CLAIM-tmpjylq8) draws on the same question from the other side.
 
 ## Bearing on the record
 

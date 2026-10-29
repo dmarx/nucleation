@@ -144,6 +144,11 @@ relation to place:
   franchise: the club's "ground is always 'home'". That is consistent
   with the case's point that franchise, city and supporters separate.
 
+- **Parasocial relationships.** The "fan" type's "non-reciprocal
+  relations of intimacy with distant others" (Thompson) is the
+  parasocial relationship that Archer's ethics of parasocial
+  relationships (LIT-172) treats. Added 2026-10-29.
+
 ## Bearing on the record
 
 - **Source of [THEORY-tmp800bi](../theory.d/THEORY-tmp800bi.md)** (Proposed): the four-type taxonomy, and

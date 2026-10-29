@@ -18,6 +18,7 @@ promote_when: >-
 title: "Which self-category a person uses, what it means and who in it is most typical vary lawfully with the comparative frame of reference: a grouping of self with others becomes salient as the differences within it shrink relative to the differences between it and the rest of the frame (metacontrast) and as those differences match expectations about the category, and as it does, self-perception is depersonalized"
 version: 1
 tags:
+- social-identity
 - social-science
 - self
 date: '2026-10-28'
@@ -38,6 +39,7 @@ summary: >-
   stronger claim, that the self is generated rather than stored, is not
   part of it.
 ---
+<!-- inactive-ok-file: LIT-tmpez438 LIT-tmpniaz0 — Deferred; the primary studies, filed unread, named as what promotion needs -->
 <!-- inactive-ok-file: LIT-tmper0q2 — Unavailable; the 1987 book that first stated the account, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-406 THEORY-650 THEORY-691 — Proposed; neighbouring accounts of the self, compared, not leaned on -->
 <!-- inactive-ok-file: QUESTION-119 — Open; named as the question this bears on -->
@@ -89,7 +91,10 @@ pp. 208–211).
 ## What was actually shown
 
 Nothing in the record shows it at first hand. Both sources report results
-from the theory's originating group without presenting data:
+from the theory's originating group without presenting data. Two of the
+primary studies were filed unread on 2026-10-29: Oakes, Turner & Haslam
+1991 (LIT-tmpez438) and Haslam et al. 1992 (LIT-tmpniaz0). The reported
+results are:
 
 - arts and science identities most salient under both comparative and
   normative fit (Oakes, Turner & Haslam 1991);

@@ -15,6 +15,7 @@ promote_when: >-
 title: "Football fans can identify with a superordinate community of fans across clubs and countries, a European fan community, alongside their club identity rather than in place of it; that identification goes with particularized trust in foreign fans and cross-border viewing, and is independent of attitudes to the sport's governing institutions"
 version: 1
 tags:
+- social-identity
 - social-science
 date: '2026-10-29'
 source:

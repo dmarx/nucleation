@@ -27,6 +27,7 @@ history:
     `published:` is 1994-10-01 and means October 1994 (ADR-002). The
     summary follows the abstract on Crossref.
 tags:
+- social-identity
 - social-science
 - self
 date: '2026-10-28'

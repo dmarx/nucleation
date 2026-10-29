@@ -34,7 +34,7 @@ supports:
 ---
 
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 LIT-1147 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmpk1fow LIT-1125 LIT-1131 — Proposed, Unavailable or Unfetched; the account and works named in the note of 2026-10-29, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpk1fow LIT-1125 LIT-1131 LIT-tmpggzbi LIT-tmpl8672 LIT-tmp1tphp QUESTION-tmpbudbb — Proposed, Unavailable or Unfetched; the account and works named in the note of 2026-10-29, cited as open, nothing here rests on them -->
 # CASE-098: A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters
 
 ## The case
@@ -97,3 +97,15 @@ A5's discriminating variation is untouched: the study does not interrupt
 transmission. Talarico and Moore ([LIT-1125](../literature.d/LIT-1125.md)), on memory of a rivalry game,
 is now Unavailable. Qi, Giulianotti and Wiltshire ([LIT-1131](../literature.d/LIT-1131.md)) is
 Unfetched: a CC BY-NC copy exists at SAGE and this client was refused it.
+
+Also filed unread on 2026-10-29:
+
+- Botzung et al. 2010 (LIT-tmpggzbi), an open study of rival fans'
+  memories of one game, in place of Talarico and Moore;
+- Kilduff, Elfenbein and Staw (LIT-tmpl8672), on rivalry as a
+  relationship rather than a matter of stakes;
+- Tyler and Cobbs (LIT-tmp1tphp), on rivalry as identity threat.
+
+QUESTION-tmpbudbb asks whether perceived reciprocity is accurate. That is
+the paired-survey design this case would need to treat the rivalry as a
+two-sided relation.

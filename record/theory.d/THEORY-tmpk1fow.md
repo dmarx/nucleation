@@ -14,6 +14,7 @@ promote_when: >-
 title: "In team-sport fandom, perceived rivalry intensity lowers fans' sense of being respected by the rival's fans but raises their sense of in-group distinctiveness and cohesion, and these gains run through the perception that the rivalry is reciprocated, not through disidentification with the rival"
 version: 1
 tags:
+- social-identity
 - social-science
 date: '2026-10-29'
 source:

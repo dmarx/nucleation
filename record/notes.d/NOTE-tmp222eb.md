@@ -21,6 +21,7 @@ summary: >-
   bias falls. Unlike Hornsey 2008, it says the self-esteem hypothesis "has
   received extensive empirical support".
 ---
+<!-- inactive-ok-file: LIT-tmpv3dgs — Deferred; filed unread, named as the reading that would settle a disagreement -->
 <!-- inactive-ok-file: LIT-tmper0q2 — Unavailable; the book this chapter summarizes, named, not leaned on -->
 <!-- inactive-ok-file: LIT-1133 LIT-1408 LIT-1138 LIT-1147 — Deferred, unread; fandom and contact works this chapter's models bear on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpo85ke — Proposed; the account this reading bears on -->
@@ -179,4 +180,5 @@ different things.
 
 - Does the self-esteem hypothesis survive in its bias-raises-esteem form
   in a preregistered test? The disagreement with Hornsey would be settled
-  by reading Rubin & Hewstone (1998) and any later replication.
+  by reading Rubin & Hewstone (1998), filed unread on 2026-10-29 as
+  LIT-tmpv3dgs, and any later replication.

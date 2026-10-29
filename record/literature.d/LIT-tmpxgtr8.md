@@ -26,6 +26,7 @@ history:
     which is `published:` (ADR-002). The published chapter was not
     compared.
 tags:
+- social-identity
 - social-science
 date: '2026-10-28'
 published: '2020-03-18'
