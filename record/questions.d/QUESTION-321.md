@@ -1,5 +1,8 @@
 ---
+number: 321
 status: Open
+formerly:
+- QUESTION-tmpeep5e
 title: 'For finitely many states, does "at least as informative in every bounded decision problem" imply simulation by a Markov kernel when the simulated experiment''s outcome space is not standard Borel?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-778 — Unavailable; named as a route to an answer, not leaned on -->
 
-# QUESTION-tmpeep5e: For finitely many states, does "at least as informative in every bounded decision problem" imply simulation by a Markov kernel when the simulated experiment's outcome space is not standard Borel?
+# QUESTION-321: For finitely many states, does "at least as informative in every bounded decision problem" imply simulation by a Markov kernel when the simulated experiment's outcome space is not standard Borel?
 
 ## Why it is a question
 

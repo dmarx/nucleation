@@ -22,7 +22,7 @@ history:
     fault. The promote_when asked for the book (LIT-1004) and for a
     counter-case to the account as an account of the wrong, which the
     narrowed title does not claim. It moves unchanged to
-    QUESTION-tmpmecwn, as THEORY-285's did to QUESTION-303. Bears on
+    QUESTION-322, as THEORY-285's did to QUESTION-303. Bears on
     QUESTION-072 added, which the body already said (ADR-060).
 tags:
 - epistemology
@@ -49,7 +49,7 @@ supports:
 - CLAIM-406
 bears_on:
 - QUESTION-072
-- QUESTION-tmpmecwn
+- QUESTION-322
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
 <!-- inactive-ok-file: THEORY-317 THEORY-326 — Proposed; the précis-based account this one refines on the testimonial side, and the hermeneutical account filed with it -->
@@ -121,7 +121,7 @@ and keeps that use for a "related but distinct" wrong.
 - **Not a claim about the book.** It is held at the strength of two of
   her papers, one of which is a short retrospective.
   Whether the book states it so, and whether the account is right about
-  the wrong, is [QUESTION-tmpmecwn](../questions.d/QUESTION-tmpmecwn.md).
+  the wrong, is [QUESTION-322](../questions.d/QUESTION-322.md).
 - **The virtue is not filed.** Reflexive critical openness and its
   historically contingent availability are in [NOTE-860](../notes.d/NOTE-860.md). No question
   in the record asks for them.

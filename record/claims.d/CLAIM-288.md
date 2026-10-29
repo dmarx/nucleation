@@ -38,7 +38,7 @@ history:
     (ADR-058): the body cites neither. THEORY-220's Connections call it
     "a second route to the claim's premise", one the premise would
     survive losing, and THEORY-219's call it support "from a different
-    direction". Grounds move from THEORY-628 to THEORY-tmpyxw6o, what
+    direction". Grounds move from THEORY-628 to THEORY-1166, what
     Di Paolo argues, split by the twelfth status review on THEORY-1110's
     pattern: the claim cites him for norms that are norms for the system,
     as he states it. The claim is unchanged.
@@ -48,7 +48,7 @@ grounds:
 - THEORY-1119
 - LIT-1017
 - THEORY-221
-- THEORY-tmpyxw6o
+- THEORY-1166
 corroborated_by:
 - THEORY-219
 - THEORY-220

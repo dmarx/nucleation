@@ -26,7 +26,7 @@ history:
 - version: 2
   date: '2026-10-29'
   note: >-
-    What Kahl proposes is split off as THEORY-tmp9nzdb, Active, by the
+    What Kahl proposes is split off as THEORY-1165, Active, by the
     twelfth status review on THEORY-1110's pattern (ADR-057, ADR-058).
     CLAIM-485 uses the distinction as Kahl draws it, not its truth about
     responsibility, and now grounds on the split. CLAIM-288's body cites
@@ -186,4 +186,4 @@ on, between settling a revised frame and selecting among revisions an
 antecedent criterion already ranks, is not drawn precisely. The record
 holds no system shown to settle a revision not ranked in advance, together
 with an independent reason to hold it responsible. What Kahl proposes, as
-he states it, is held in [THEORY-tmp9nzdb](THEORY-tmp9nzdb.md).
+he states it, is held in [THEORY-1165](THEORY-1165.md).

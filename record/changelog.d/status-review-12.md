@@ -6,9 +6,9 @@
   to standard Borel outcome spaces), [THEORY-168](record/theory.d/THEORY-168.md), [THEORY-214](record/theory.d/THEORY-214.md), [THEORY-327](record/theory.d/THEORY-327.md) and
   [THEORY-335](record/theory.d/THEORY-335.md) (each narrowed, its unmet condition now a QUESTION).
 - **Adopted:** [TERM-075](record/terms.d/TERM-075.md), [TERM-085](record/terms.d/TERM-085.md), [TERM-090](record/terms.d/TERM-090.md). [TERM-092](record/terms.d/TERM-092.md) revised, still Proposed.
-- **Split on [THEORY-1110](record/theory.d/THEORY-1110.md)'s pattern:** "Kahl proposes" ([THEORY-tmp9nzdb](record/theory.d/THEORY-tmp9nzdb.md), from
-  [THEORY-219](record/theory.d/THEORY-219.md)), "Di Paolo argues" ([THEORY-tmpyxw6o](record/theory.d/THEORY-tmpyxw6o.md), from [THEORY-628](record/theory.d/THEORY-628.md)) and "Propp
-  proposes" ([THEORY-tmp81054](record/theory.d/THEORY-tmp81054.md), from [THEORY-167](record/theory.d/THEORY-167.md)), so [CLAIM-485](record/claims.d/CLAIM-485.md), -339, -288, -145
+- **Split on [THEORY-1110](record/theory.d/THEORY-1110.md)'s pattern:** "Kahl proposes" ([THEORY-1165](record/theory.d/THEORY-1165.md), from
+  [THEORY-219](record/theory.d/THEORY-219.md)), "Di Paolo argues" ([THEORY-1166](record/theory.d/THEORY-1166.md), from [THEORY-628](record/theory.d/THEORY-628.md)) and "Propp
+  proposes" ([THEORY-1164](record/theory.d/THEORY-1164.md), from [THEORY-167](record/theory.d/THEORY-167.md)), so [CLAIM-485](record/claims.d/CLAIM-485.md), -339, -288, -145
   and -147 can stand on what the sources propose.
 - **[ARG-022](record/arguments.d/ARG-022.md) Rejected** on the condition its body names; [THEORY-168](record/theory.d/THEORY-168.md) now gives the
   worked case. [QUESTION-092](record/questions.d/QUESTION-092.md) Answered by [CLAIM-485](record/claims.d/CLAIM-485.md).

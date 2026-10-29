@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-29'
   note: >-
-    Ground moved from THEORY-167 to THEORY-tmp81054 by the twelfth status
+    Ground moved from THEORY-167 to THEORY-1164 by the twelfth status
     review (ADR-057, ADR-058). The claim uses only what Propp proposes, that
     wondertales share one composition and "differ in who performs the
     functions and how", which the split holds Active; whether the proposal
@@ -33,7 +33,7 @@ rests_on:
 - CLAIM-077
 grounds:
 - CASE-038
-- THEORY-tmp81054
+- THEORY-1164
 - CASE-010
 complements:
 - CLAIM-034

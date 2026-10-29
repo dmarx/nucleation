@@ -1,5 +1,8 @@
 ---
+number: 320
 status: Open
+formerly:
+- QUESTION-tmp619m4
 title: 'Do the precursors of abrupt overthrow found for crowd-maintained images on r/place (plural, partly the defenders'' restoring, accepting and coordinating, and absent for many overthrows) hold in a second collectively maintained system with its own record of attacks and repairs?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   readings of the precursors are the authors' conjecture from SHAP curves.
 ---
 
-# QUESTION-tmp619m4: Do the precursors of abrupt overthrow found for crowd-maintained images on r/place (plural, partly the defenders' restoring, accepting and coordinating, and absent for many overthrows) hold in a second collectively maintained system with its own record of attacks and repairs?
+# QUESTION-320: Do the precursors of abrupt overthrow found for crowd-maintained images on r/place (plural, partly the defenders' restoring, accepting and coordinating, and absent for many overthrows) hold in a second collectively maintained system with its own record of attacks and repairs?
 
 ## Why it is a question
 

@@ -29,7 +29,7 @@ history:
     By the twelfth status review (ADR-057, ADR-058). The sample behind the
     order claim, read in NOTE-615's note of 2026-10-20, is added to What
     was actually shown. What Propp proposes is split off as
-    THEORY-tmp81054, Active, on THEORY-1110's pattern; CLAIM-145 and
+    THEORY-1164, Active, on THEORY-1110's pattern; CLAIM-145 and
     CLAIM-147, which use only the proposal, now ground there, and their
     supports entries here are removed. A blocker note is added. The title,
     the promote_when and the status are unchanged.
@@ -138,4 +138,4 @@ No coding of wondertales by analysts other than Propp, with agreement
 between coders measured, is held. And the corpus does not yet carry the
 title's fixed order: it is shown on 45 schemes chosen after setting aside
 tales whose order was not strictly kept, and those schemes are unchecked.
-What Propp proposes is held Active in [THEORY-tmp81054](THEORY-tmp81054.md).
+What Propp proposes is held Active in [THEORY-1164](THEORY-1164.md).

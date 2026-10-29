@@ -1,5 +1,8 @@
 ---
+number: 323
 status: Open
+formerly:
+- QUESTION-tmpwz0fb
 title: 'After an anchoring comparison, is anchor-consistent knowledge more accessible on a measure first shown sensitive to direct priming, and does the difference go with the size of the estimate shift?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   Whether the accessibility step is real is this question.
 ---
 
-# QUESTION-tmpwz0fb: After an anchoring comparison, is anchor-consistent knowledge more accessible on a measure first shown sensitive to direct priming, and does the difference go with the size of the estimate shift?
+# QUESTION-323: After an anchoring comparison, is anchor-consistent knowledge more accessible on a measure first shown sensitive to direct priming, and does the difference go with the size of the estimate shift?
 
 ## Why it is a question
 

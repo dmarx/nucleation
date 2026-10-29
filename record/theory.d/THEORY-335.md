@@ -23,7 +23,7 @@ history:
     not been measured: the lexical-decision test of it found nothing in
     five preregistered experiments, with a task that also missed direct
     priming. The promote_when asked whether the account is true, which
-    the title does not claim. It moves unchanged to QUESTION-tmpwz0fb,
+    the title does not claim. It moves unchanged to QUESTION-323,
     as THEORY-285's did to QUESTION-303.
 tags:
 - cognition
@@ -49,7 +49,7 @@ supports:
 - CLAIM-315
 bears_on:
 - QUESTION-109
-- QUESTION-tmpwz0fb
+- QUESTION-323
 ---
 <!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
@@ -143,5 +143,5 @@ support from the method "is not a strong part of the evidence base".
   activation.
 - [CLAIM-298](../claims.d/CLAIM-298.md) (whose psychological form is now [CLAIM-315](../claims.d/CLAIM-315.md)) cites this account as the psychological form of its thesis and
   restates its defeat condition on the same terms as this account's former
-  promote_when, now [QUESTION-tmpwz0fb](../questions.d/QUESTION-tmpwz0fb.md): a measure first shown sensitive to
+  promote_when, now [QUESTION-323](../questions.d/QUESTION-323.md): a measure first shown sensitive to
   direct priming.

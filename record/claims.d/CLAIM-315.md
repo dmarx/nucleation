@@ -68,4 +68,4 @@ Its readings are held, but its second clause asserts what [THEORY-335](../theory
 is not shown: that anchor-consistent knowledge made more accessible
 carries the shift. No design with a retrieval measure first shown
 sensitive to direct priming has found that accessibility difference, or
-tied it to the size of the shift ([QUESTION-tmpwz0fb](../questions.d/QUESTION-tmpwz0fb.md)).
+tied it to the size of the shift ([QUESTION-323](../questions.d/QUESTION-323.md)).

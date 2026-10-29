@@ -1,5 +1,8 @@
 ---
+number: 322
 status: Open
+formerly:
+- QUESTION-tmpmecwn
 title: 'Does Fricker''s book state testimonial injustice as her 2003 paper and 2017 retrospective do, as a prejudiced misjudgement that is not deliberate with a pre-emptive form when a speaker''s word is never sought, and is there a wrong to a speaker as a knower, of the testimonial kind, that is deliberate or non-prejudiced and no different in its wrong from the ingenuous one?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book this question asks about, read only through its précis -->
 
-# QUESTION-tmpmecwn: Does Fricker's book state testimonial injustice as her 2003 paper and 2017 retrospective do, as a prejudiced misjudgement that is not deliberate with a pre-emptive form when a speaker's word is never sought, and is there a wrong to a speaker as a knower, of the testimonial kind, that is deliberate or non-prejudiced and no different in its wrong from the ingenuous one?
+# QUESTION-322: Does Fricker's book state testimonial injustice as her 2003 paper and 2017 retrospective do, as a prejudiced misjudgement that is not deliberate with a pre-emptive form when a speaker's word is never sought, and is there a wrong to a speaker as a knower, of the testimonial kind, that is deliberate or non-prejudiced and no different in its wrong from the ingenuous one?
 
 ## Why it is a question
 

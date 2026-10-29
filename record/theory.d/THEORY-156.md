@@ -32,7 +32,7 @@ history:
     standard Borel outcome spaces. The old title: 'For experiments on a
     finite parameter set, being at least as informative for every decision
     problem is the same as being able to simulate the other by a
-    randomisation'. Arbitrary spaces go to QUESTION-tmpeep5e.
+    randomisation'. Arbitrary spaces go to QUESTION-321.
 tags:
 - mathematical-statistics
 - information-theory
@@ -50,14 +50,14 @@ summary: >-
   proved in 1953. It is a qualitative order and says nothing about how much
   worse an incomparable experiment is. The record re-derived the converse
   for standard Borel outcome spaces (note of 2026-10-29); arbitrary spaces,
-  which the paper claims through a quoted 1951 result, are QUESTION-tmpeep5e.
+  which the paper claims through a quoted 1951 result, are QUESTION-321.
 extends:
 - THEORY-717
 supports:
 - CLAIM-259
 - CLAIM-326
 bears_on:
-- QUESTION-tmpeep5e
+- QUESTION-321
 ---
 
 # THEORY-156: For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
@@ -110,7 +110,7 @@ Corollary).
   proved here.
 - **Not, as re-derived here, for outcome spaces that are not standard
   Borel.** The 1953 paper claims them through Theorem 2, quoted from
-  Blackwell (1951), which the record has not read ([QUESTION-tmpeep5e](../questions.d/QUESTION-tmpeep5e.md)).
+  Blackwell (1951), which the record has not read ([QUESTION-321](../questions.d/QUESTION-321.md)).
 - **Not "finitely many decision problems suffice".** The k-action
   comparisons ≻_k are weaker than ≻ in general (asserted from Stein's
   unpublished work); only for two states does k = 2 suffice.
@@ -170,7 +170,7 @@ posterior p under the uniform prior, on the simplex Δ.
    E[X_i | Y = q] = q_i.
 
 Step 3 is where standard Borel is used; arbitrary spaces are
-[QUESTION-tmpeep5e](../questions.d/QUESTION-tmpeep5e.md). The check (numpy, run by the reviewing session, on
+[QUESTION-321](../questions.d/QUESTION-321.md). The check (numpy, run by the reviewing session, on
 three-state Gaussian experiments on a 400-point grid, with β a Gaussian
 garbling of α): step 3's identities hold to 3 × 10⁻¹⁵, with T built from the
 coupling alone; step 2's splitting residual falls from 8.3 × 10⁻³ at 10³

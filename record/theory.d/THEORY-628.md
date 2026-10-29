@@ -20,7 +20,7 @@ history:
 - version: 2
   date: '2026-10-29'
   note: >-
-    What Di Paolo argues is split off as THEORY-tmpyxw6o, Active, by the
+    What Di Paolo argues is split off as THEORY-1166, Active, by the
     twelfth status review on THEORY-1110's pattern (ADR-057, ADR-058).
     CLAIM-288 and CLAIM-339 cite the norm-for-the-system and the
     adaptivity condition as he states them, not their truth, and now
@@ -150,7 +150,7 @@ then be made explicit.
   structure, so it answers in part.
 - [CLAIM-288](../claims.d/CLAIM-288.md) grounds its demand that norms be set by the organisation itself
   partly in this paper's argument, and [CLAIM-339](../claims.d/CLAIM-339.md) cites it as the enactive
-  account of norms. Both cite it as stated, through [THEORY-tmpyxw6o](THEORY-tmpyxw6o.md).
+  account of norms. Both cite it as stated, through [THEORY-1166](THEORY-1166.md).
 
 ## Note of 2026-10-29: what holds it back
 

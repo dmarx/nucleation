@@ -1,5 +1,8 @@
 ---
+number: 1164
 status: Active
+formerly:
+- THEORY-tmp81054
 title: 'Propp proposes, from his analysis of Afanasyev''s tales 50–151, that the Russian wondertale is built from 31 character functions, each defined by its consequence for the action, occurring in one order and falling to seven roles, so that wondertales share one composition and differ in who performs the functions and how'
 version: 1
 tags:
@@ -23,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-167 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 
-# THEORY-tmp81054: Propp proposes, from his analysis of Afanasyev's tales 50–151, that the Russian wondertale is built from 31 character functions, each defined by its consequence for the action, occurring in one order and falling to seven roles, so that wondertales share one composition and differ in who performs the functions and how
+# THEORY-1164: Propp proposes, from his analysis of Afanasyev's tales 50–151, that the Russian wondertale is built from 31 character functions, each defined by its consequence for the action, occurring in one order and falling to seven roles, so that wondertales share one composition and differ in who performs the functions and how
 
 ## Source
 

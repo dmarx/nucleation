@@ -1,5 +1,8 @@
 ---
+number: 1166
 status: Active
+formerly:
+- THEORY-tmpyxw6o
 title: 'Di Paolo argues that autopoiesis as originally defined entails conservation and not active homeostasis, so it gives a system only an all-or-nothing norm, to go on or to die, which an observer and not the system can use; that a graded norm the system itself has needs adaptivity, a capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them; and that sense-making and agency need adaptivity'
 version: 1
 tags:
@@ -22,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-628 THEORY-666 — Proposed; the account this is split from, which holds the question whether the argument is right, and its rival -->
 
-# THEORY-tmpyxw6o: Di Paolo argues that autopoiesis as originally defined entails conservation and not active homeostasis, so it gives a system only an all-or-nothing norm, to go on or to die, which an observer and not the system can use; that a graded norm the system itself has needs adaptivity, a capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them; and that sense-making and agency need adaptivity
+# THEORY-1166: Di Paolo argues that autopoiesis as originally defined entails conservation and not active homeostasis, so it gives a system only an all-or-nothing norm, to go on or to die, which an observer and not the system can use; that a graded norm the system itself has needs adaptivity, a capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them; and that sense-making and agency need adaptivity
 
 ## Source
 
