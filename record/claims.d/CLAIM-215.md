@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpa9usi
 title: 'Communicative kinds are repeatable organizations of relations among participants, norms, commitments and possible consequences, which concrete events realize without being one another, and which kind an event realizes is not exhausted by the intrinsic properties of the expression token'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Complements CLAIM-204 in place of CLAIM-139, which it superseded;
+    this is the ontological clause, and CLAIM-204 adds CLAIM-217,
+    which this already complements.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,9 +31,9 @@ answers:
 - QUESTION-029
 complements:
 - CLAIM-151
-- CLAIM-139
 - CLAIM-217
 - CLAIM-241
+- CLAIM-204
 uses:
 - TERM-040
 summary: >-

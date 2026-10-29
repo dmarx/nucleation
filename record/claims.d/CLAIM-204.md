@@ -4,13 +4,26 @@ status: Proposed
 formerly:
 - CLAIM-tmp3wo5j
 title: 'A communicative kind''s identity is grounded in its relational organization, for which competent participants'' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Supersedes CLAIM-139, by the owner's delegated ruling of
+    2026-10-29. Its condition now fixes the observables, their
+    weights, a margin and a power before the data, and asks for the
+    comparison within that margin, so CLAIM-238's repair holds here as
+    it did in CLAIM-139's version 2. Version 1's condition opened: Any
+    of three findings, in a design with named receivers, stated tasks,
+    an interlingual arm and margins fixed in advance (CASE-055).
+    Same-kind verdicts are predicted as well by.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Any of three findings, in a design with named receivers, stated tasks,
-  an interlingual arm and margins fixed in advance (CASE-055).
-  Same-kind verdicts are predicted as well by topic-factor, embedding or
+  Any of three findings, in a design with named receivers, stated tasks
+  and an interlingual arm (CASE-055), whose observables, their weights,
+  an equivalence margin and a power are fixed before its data. Same-kind
+  verdicts are predicted, within that margin, as well by topic-factor, embedding or
   surface similarity, by a supervised text model or by human-rated
   propositional sameness as by relational profiles measured on probes
   independent of those verdicts. Or a model of the response profiles
@@ -37,11 +50,12 @@ rests_on:
 - CLAIM-077
 complements:
 - CLAIM-160
-- CLAIM-139
 uses:
 - TERM-040
 - TERM-043
 - TERM-084
+supersedes:
+- CLAIM-139
 summary: >-
   The record's restatement, on 2026-10-10, of [CLAIM-139](CLAIM-139.md) after the
   audit's objections to it ([CLAIM-233](CLAIM-233.md), [CLAIM-232](CLAIM-232.md),
@@ -51,8 +65,8 @@ summary: >-
   replaces the third defeat disjunct ("no relational structure beyond
   the observed response profiles is needed", which [CLAIM-206](CLAIM-206.md) showed
   is always met or undecidable) with an observable comparison on
-  transfer. Filed to complement [CLAIM-139](CLAIM-139.md); whether it supersedes it is
-  the owner's decision. A proposal, not a finding.
+  transfer. It supersedes [CLAIM-139](CLAIM-139.md), by the owner's delegated ruling of
+  2026-10-29. A proposal, not a finding.
 illustrated_by:
 - CASE-055
 objected_by:
@@ -60,7 +74,7 @@ objected_by:
 ---
 <!-- ref::uses-file: TERM-040 — the claim's subject, named in its title: a communicative kind in this term's sense -->
 <!-- ref::uses-file: TERM-043 — listed by the claim's author and not named in the body; whether the fidelity clause is stated in this sense was raised for the owner when the branch was reconciled with main on 2026-10-12 -->
-<!-- inactive-ok-file: CLAIM-139 CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-077 CLAIM-115 — Proposed; open, and cited as the thesis restated here and the premises it keeps, not as settled -->
+<!-- inactive-ok-file: CLAIM-139 CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-077 CLAIM-115 — the thesis this supersedes, the manuscript's, and the premises it keeps, cited as they stand -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-223 — Proposed; the record's other replies of 2026-10-10, open, on which this restatement rests -->
 <!-- inactive-ok-file: CLAIM-244 CLAIM-206 — Proposed; objections this entry answers, left open until the owner decides on the revised theses -->
 <!-- inactive-ok-file: CLAIM-246 — Rejected; the objection on descent, cited as answered -->
@@ -71,8 +85,8 @@ objected_by:
 
 This is the record's restatement of 2026-10-10 of the October thesis
 ([CLAIM-139](CLAIM-139.md)), in reply to seven of the audit's objections. It is a proposal,
-Proposed until the study it names is run, and not adopted until the owner
-decides. [CLAIM-139](CLAIM-139.md) itself is unchanged.
+Proposed until the study it names is run. It was adopted in CLAIM-139's
+place on 2026-10-29.
 
 It keeps [CLAIM-139](CLAIM-139.md)'s four clauses and changes two of them and the defeat
 condition.

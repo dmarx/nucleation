@@ -4,18 +4,31 @@ status: Proposed
 formerly:
 - CLAIM-tmpc1o4m
 title: 'For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Supersedes CLAIM-115, by the owner's delegated ruling of
+    2026-10-29. It takes CLAIM-115's works and its bearing on
+    QUESTION-021, and not its rest on CLAIM-082 or CLAIM-486: it
+    compares predictors, which needs neither. The power is now fixed
+    in advance with the margin, and the pragmatic observables are
+    combined with weights fixed before the data, so CLAIM-238's repair
+    holds here as it did in CLAIM-115's version 2. Version 1's
+    condition had "within an equivalence margin fixed in advance and
+    at a stated power" and no weights.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   In the discriminating study (CASE-055), whose renderings are built
   to dissociate the pragmatic observables from wording and proposition,
   the named receivers' recovery on the stated tasks (their choices of act
-  and of continuation) is predicted, within an equivalence margin fixed
-  in advance and at a stated power, as well by human-rated propositional
+  and of continuation) is predicted, within an equivalence margin and at a
+  power fixed in advance, as well by human-rated propositional
   sameness, or by sameness of proposition and illocutionary type, as by
   human-rated preservation of stance, footing, alignment and expected
-  uptake, each predictor rated by raters other than those who supply the
+  uptake, combined with weights fixed before the data, each predictor rated by raters other than those who supply the
   criterion; or this holds in the study's interlingual arm, whatever its
   intralingual arms show.
 tags:
@@ -30,11 +43,16 @@ rests_on:
 - CLAIM-061
 - CLAIM-050
 complements:
-- CLAIM-115
 - CLAIM-202
 - CLAIM-252
 uses:
 - TERM-034
+supersedes:
+- CLAIM-115
+works:
+- what-survives-translation
+bears_on:
+- QUESTION-021
 summary: >-
   The record's reply, on 2026-10-10, to the audit's objections to the
   tests of the manuscript's thesis ([CLAIM-233](CLAIM-233.md), [CLAIM-232](CLAIM-232.md),
@@ -42,14 +60,14 @@ summary: >-
   restates [CLAIM-115](CLAIM-115.md) as an empirical claim indexed to receivers and
   tasks, tested against the rival [CLAIM-115](CLAIM-115.md) itself names, a proposition
   with its force, on a behavioural criterion and with an interlingual
-  arm that decides. Filed to complement [CLAIM-115](CLAIM-115.md); whether it supersedes
-  it is the owner's decision. It is a proposal, not a finding. It does
+  arm that decides. It supersedes [CLAIM-115](CLAIM-115.md), by the owner's delegated ruling of
+  2026-10-29. It is a proposal, not a finding. It does
   not claim the line's distinctive machinery is needed: that is
   [CLAIM-202](CLAIM-202.md).
 illustrated_by:
 - CASE-055
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-082 CLAIM-074 — Proposed; open, and cited as the thesis restated here and the premises it keeps or drops, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-082 CLAIM-074 — the thesis this supersedes, and the premises it keeps or drops, cited as they stand -->
 <!-- inactive-ok-file: CLAIM-202 CLAIM-242 — Proposed; the record's other replies of 2026-10-10, open, cited for the parts of the thesis they carry -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; an objection this entry answers, left open until the owner decides on the revised theses -->
 
@@ -60,7 +78,7 @@ illustrated_by:
 This is the record's reply of 2026-10-10 to six objections to the tests of
 the manuscript's thesis. It is a proposal: a restatement of [CLAIM-115](CLAIM-115.md) that
 the record would put forward in its place, Proposed until the study it names
-is run, and not adopted until the owner decides.
+is run. It was adopted in CLAIM-115's place on 2026-10-29.
 
 [CLAIM-115](CLAIM-115.md) says what survives is "the set of communicative distinctions and
 relations a receiving system can still reconstruct and act upon, not the
@@ -115,8 +133,8 @@ use-level form, if the owner wants a premise there.
 (the descriptive reading made empirical; the normative reading is
 [CLAIM-252](CLAIM-252.md)'s), [CLAIM-244](CLAIM-244.md) (task and receivers named, weights fixed
 before the test), [CLAIM-226](CLAIM-226.md) (named populations), [CLAIM-222](CLAIM-222.md) (the
-interlingual arm). It meets them only as a restatement: [CLAIM-115](CLAIM-115.md)'s own
-condition is unchanged.
+interlingual arm). It meets them as the restatement that superseded [CLAIM-115](CLAIM-115.md) on
+2026-10-29.
 
 ## What it does not say
 

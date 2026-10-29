@@ -129,3 +129,10 @@ be unseparated by that same family, but can be by a coarser one. [CLAIM-142](CLA
 version 2 excludes the trivial probe from its condition. [CLAIM-139](CLAIM-139.md)'s third
 disjunct is replaced only in the revised thesis [CLAIM-204](CLAIM-204.md), so the
 objection stays open until the owner decides on it.
+
+## Note of 2026-10-29: the owner decided
+
+CLAIM-204 superseded CLAIM-139 on the owner's delegated ruling of 2026-10-29,
+so the thesis the record holds open no longer has the third disjunct this
+objection showed always met or undecidable. The objection stays pointed at
+CLAIM-139, where it holds, and its status stays its credence (ADR-059).

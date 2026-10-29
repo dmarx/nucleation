@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp1xaiq
 title: 'A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -18,6 +18,12 @@ history:
     topic with act (CASE-040), a topic-only factorization of lexical
     co-occurrence recovers the act distinction as well as factorizations
     fitted to interpretive-judgement or uptake data do."
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Complements CLAIM-220 in place of CLAIM-115, which it superseded:
+    a topic surviving a change of act sits beside CLAIM-220's
+    comparison of predictors.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,11 +45,11 @@ rests_on:
 - CLAIM-142
 grounds:
 - CASE-040
-complements:
-- CLAIM-115
 uses:
 - TERM-014
 - TERM-040
+complements:
+- CLAIM-220
 summary: >-
   The assistant's, at A210 §5 after the owner's U58, and again at A214
   §3–§4. It recurs from U56 (A203 §37) to U60 (A218 H3), so it gets a

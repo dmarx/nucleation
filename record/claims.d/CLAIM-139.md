@@ -1,10 +1,12 @@
 ---
 number: 139
-status: Proposed
+status: Superseded
+superseded_by:
+- CLAIM-204
 formerly:
 - CLAIM-tmpb0jfe
 title: 'A communicative kind''s identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -25,6 +27,19 @@ history:
     clause takes the analyst's identifiability for the receiver
     without argument. The title, A218's wording, is unchanged;
     CLAIM-204 is the restatement that keeps both. Status unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Superseded by CLAIM-204 by the owner's delegated ruling of
+    2026-10-29, open since 2026-10-10. CLAIM-204 keeps the four
+    clauses, takes CLAIM-217's standard into the first and CLAIM-223's
+    reading into the fourth, so the receiver is back and the analyst
+    certifies the identifiable part (CLAIM-140, CLAIM-211), and
+    replaces the third defeat disjunct that CLAIM-206 showed always
+    met or undecidable. CLAIM-215 now complements CLAIM-204. ARG-029,
+    whose verdict is that the exchange stepped from class to kind
+    without an argument, still concludes this claim. The text below is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,9 +71,7 @@ rests_on:
 - CLAIM-050
 - CLAIM-077
 complements:
-- CLAIM-204
 - CLAIM-223
-- CLAIM-215
 uses:
 - TERM-040
 - TERM-043
@@ -206,3 +219,10 @@ Four of its five premises are Proposed: [CLAIM-151](CLAIM-151.md), [CLAIM-142](C
 [CLAIM-077](CLAIM-077.md). [CASE-055](../cases.d/CASE-055.md) has not been run, and [CLAIM-206](CLAIM-206.md) and [CLAIM-216](CLAIM-216.md) have no
 Active counter. Whether [CLAIM-204](CLAIM-204.md) supersedes it is an owner ruling open since
 2026-10-10.
+
+## Note of 2026-10-29: superseded
+
+Superseded by CLAIM-204, the restatement the record filed on 2026-10-10. The
+chain reads CLAIM-133, then this entry, then CLAIM-204. The objections filed
+against this entry stay pointed at it. CLAIM-216, that one conjunctive thesis
+is defeated whole, already objects to CLAIM-204 too, and still bites it.
