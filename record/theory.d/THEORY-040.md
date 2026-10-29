@@ -201,11 +201,11 @@ The first half of the claim follows from the form of a snapshot condition, and a
 ## Note of 2026-10-29: what holds it back
 
 Kept Proposed by the tenth status review. The first clause of promote_when
-is met: Frankfurt 1971 is read first-hand (LIT-692, NOTE-545), and its
+is met: Frankfurt 1971 is read first-hand ([LIT-692](../literature.d/LIT-692.md), [NOTE-545](../notes.d/NOTE-545.md)), and its
 note 10 accepts the designed addict as fully responsible; the 2004 lectures
-(NOTE-264, p. 172) count "not the story of how we came to be". The second
+([NOTE-264](../notes.d/NOTE-264.md), p. 172) count "not the story of how we came to be". The second
 is not: no first-hand reading of Pereboom's four-case argument or Mele's
 zygote argument shows a manipulation meeting a named historical condition,
-and the record holds both only through surveys (NOTE-270, NOTE-856,
-NOTE-862; THEORY-328). The argument's first half is now THEORY-tmpk6bx2,
+and the record holds both only through surveys ([NOTE-270](../notes.d/NOTE-270.md), [NOTE-856](../notes.d/NOTE-856.md),
+[NOTE-862](../notes.d/NOTE-862.md); [THEORY-328](THEORY-328.md)). The argument's first half is now [THEORY-tmpk6bx2](THEORY-tmpk6bx2.md),
 Active.

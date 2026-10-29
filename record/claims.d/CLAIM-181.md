@@ -153,21 +153,21 @@ The analogy's physics was stated from memory and has not been checked against
 that reading. Picked up while filing the exchange of 2026-10-27, whose A14 set
 nucleation beside instability ([QUESTION-281](../questions.d/QUESTION-281.md)).
 
-## Note of 2026-10-29: CLAIM-419 conceded
+## Note of 2026-10-29: [CLAIM-419](CLAIM-419.md) conceded
 
-CLAIM-419 answers this counter from the record's own decisions: ADR-042,
-ADR-043, ADR-044, ADR-046 and ADR-049 each met a move the grammar could not
+[CLAIM-419](CLAIM-419.md) answers this counter from the record's own decisions: [ADR-042](../decisions.d/ADR-042.md),
+[ADR-043](../decisions.d/ADR-043.md), [ADR-044](../decisions.d/ADR-044.md), [ADR-046](../decisions.d/ADR-046.md) and [ADR-049](../decisions.d/ADR-049.md) each met a move the grammar could not
 hold, and each amended the grammar. A misfit that is noticed is a third
 outcome beside forcing and loss, and the title now says so. What is left is
-the misfit nobody notices. CASE-131 shows its shape before it was caught:
+the misfit nobody notices. [CASE-131](../cases.d/CASE-131.md) shows its shape before it was caught:
 the link fixer wrote a `rests_on` nobody asserted, and only a reader saw it.
-ADR-032's literature roles are the case where the misfit was noticed and the
+[ADR-032](../decisions.d/ADR-032.md)'s literature roles are the case where the misfit was noticed and the
 grammar was not amended, and they stay in prose.
 
 ## Note of 2026-10-29: what holds it back
 
 Its own test is unmet. No move that mattered in an exchange is shown that
-the record still cannot hold, or holds only by distorting it: CASE-131's
-distortion was caught and the grammar amended, and ADR-032's literature
-roles were declined by decision, not lost. Shipman and Marshall (LIT-756),
+the record still cannot hold, or holds only by distorting it: [CASE-131](../cases.d/CASE-131.md)'s
+distortion was caught and the grammar amended, and [ADR-032](../decisions.d/ADR-032.md)'s literature
+roles were declined by decision, not lost. Shipman and Marshall ([LIT-756](../literature.d/LIT-756.md)),
 whose finding it turns on the record, are unread.

@@ -97,7 +97,7 @@ counterfactually, not inferred from presently low intervention costs." A45
 closed on it: "**low strain alone cannot establish authenticity**: a
 dominated organization can be efficient."
 
-This is the manipulation objection (THEORY-tmpk6bx2) in a new place. A condition stated only in
+This is the manipulation objection ([THEORY-tmpk6bx2](../theory.d/THEORY-tmpk6bx2.md)) in a new place. A condition stated only in
 present structure is met by an agent whose structure was installed. Low
 supervisory cost is a present-structure mark. [QUESTION-071](../questions.d/QUESTION-071.md) asks the
 general form: can a will-organization be manipulated without anything in

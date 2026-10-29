@@ -9,10 +9,10 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion condition formerly on THEORY-908, moved here when the
-  tenth status review narrowed THEORY-908 to the between-test differences
-  the 2024 meta-analysis measured, and promoted it, as THEORY-285's moved
-  to QUESTION-303. Whether format, rehearsal and recording cause those
+  The promotion condition formerly on [THEORY-908](../theory.d/THEORY-908.md), moved here when the
+  tenth status review narrowed [THEORY-908](../theory.d/THEORY-908.md) to the between-test differences
+  the 2024 meta-analysis measured, and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved
+  to [QUESTION-303](QUESTION-303.md). Whether format, rehearsal and recording cause those
   differences is this question.
 ---
 
@@ -20,7 +20,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-908 holds that, between tests, contingent if-then plans had larger
+[THEORY-908](../theory.d/THEORY-908.md) holds that, between tests, contingent if-then plans had larger
 effects than schedule plans, rehearsed plans larger effects than plans not
 rehearsed, and recorded plans smaller ones. Contingent and schedule plans
 come from different studies, outcomes and settings, and the authors' reading

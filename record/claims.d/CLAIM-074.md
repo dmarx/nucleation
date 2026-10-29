@@ -85,7 +85,7 @@ current task and discarded after it is part of the contextual history.
 
 ## Note of 2026-10-29: what holds it back
 
-Its one premise, CLAIM-118, is Proposed. CLAIM-118 is now stated the same
+Its one premise, [CLAIM-118](CLAIM-118.md), is Proposed. [CLAIM-118](CLAIM-118.md) is now stated the same
 way as this claim, by what each history carries, and is held only by the
 owner's ruling that test-time training whose update is discarded is part of
 the signal, against manuscript §5.

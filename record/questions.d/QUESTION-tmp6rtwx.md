@@ -8,10 +8,10 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion condition formerly on THEORY-922, moved here when the
-  tenth status review promoted THEORY-922, whose title claims only the
-  correlations in one programme's selected sample, as THEORY-285's moved
-  to QUESTION-303. Whether the associations replicate, and what carries
+  The promotion condition formerly on [THEORY-922](../theory.d/THEORY-922.md), moved here when the
+  tenth status review promoted [THEORY-922](../theory.d/THEORY-922.md), whose title claims only the
+  correlations in one programme's selected sample, as [THEORY-285](../theory.d/THEORY-285.md)'s moved
+  to [QUESTION-303](QUESTION-303.md). Whether the associations replicate, and what carries
   them, is this question.
 ---
 
@@ -19,12 +19,12 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-922 holds that, among 56 of 88 patients in one DBT intensive
+[THEORY-922](../theory.d/THEORY-922.md) holds that, among 56 of 88 patients in one DBT intensive
 outpatient programme, homework completion correlated with falling suicide
 and substance-use urges and phone coaching with falling self-harm urges,
 uncorrected for multiple comparisons, with no association with how often
 the behaviours occurred. Nothing measured skill use between sessions, so
-the record's DBT example (CLAIM-443, CLAIM-349), in which practice changes
+the record's DBT example ([CLAIM-443](../claims.d/CLAIM-443.md), [CLAIM-349](../claims.d/CLAIM-349.md)), in which practice changes
 which process is recruited, has no evidence about what practice changed.
 
 ## What would answer it

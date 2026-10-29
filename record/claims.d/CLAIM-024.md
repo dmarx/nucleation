@@ -84,18 +84,18 @@ is now [CLAIM-487](CLAIM-487.md), and this objection is to it. Its first half, t
 the mechanisms are not new, the paper grants ([CLAIM-021](CLAIM-021.md)), which is why
 [CLAIM-021](CLAIM-021.md) no longer files as an objection to this one.
 
-## Note of 2026-10-29: CLAIM-159 conceded
+## Note of 2026-10-29: [CLAIM-159](CLAIM-159.md) conceded
 
-CLAIM-159, now Active, places the expected value of control in the top-down
+[CLAIM-159](CLAIM-159.md), now Active, places the expected value of control in the top-down
 cell and Ainslie's interests in the aggregate or emergent cell, and
 will-organization as what governs how the drive profile changes. That is a
 difference of question, and the title now grants it. It is not yet a gain:
 whether control and metacontrol mechanisms answer the new question without a
-will-organization over them is QUESTION-056's test, unrun.
+will-organization over them is [QUESTION-056](../questions.d/QUESTION-056.md)'s test, unrun.
 
 ## Note of 2026-10-29: what holds it back
 
-QUESTION-056's comparison is not made: no case has been modelled with
+[QUESTION-056](../questions.d/QUESTION-056.md)'s comparison is not made: no case has been modelled with
 control and metacontrol mechanisms alone and then with a will-organization
 over them. Planning theory and institutional theory have not been set beside
 the account at all.

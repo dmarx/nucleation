@@ -11,10 +11,10 @@ line: will-organization
 refines:
 - QUESTION-088
 summary: >-
-  The promotion condition formerly on THEORY-904, moved here when the
-  tenth status review narrowed THEORY-904 to what Gollwitzer and Sheeran
+  The promotion condition formerly on [THEORY-904](../theory.d/THEORY-904.md), moved here when the
+  tenth status review narrowed [THEORY-904](../theory.d/THEORY-904.md) to what Gollwitzer and Sheeran
   concluded and what the 2024 moderator measured, and promoted it, as
-  THEORY-285's moved to QUESTION-303. The authors conclude the gate from a
+  [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-303](QUESTION-303.md). The authors conclude the gate from a
   handful of studies; whether a crossed test shows it, and whether it
   survives repetition, is this question.
 ---
@@ -23,7 +23,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-904 holds that Gollwitzer and Sheeran (2006) conclude, from a
+[THEORY-904](../theory.d/THEORY-904.md) holds that Gollwitzer and Sheeran (2006) conclude, from a
 handful of studies, that plans affect performance only with a strong and
 activated goal intention, and that the 2024 review found plan effects
 larger with strong goal intentions than with weak ones, by a between-test
@@ -32,7 +32,7 @@ plan effect is absent with the goal deactivated, in a sample that could
 show such a null. And the authors leave open what happens once the plan has
 been acted on many times, where a habit could fire without the goal.
 
-This bears on CLAIM-443's distinction between a prior over actions and a
+This bears on [CLAIM-443](../claims.d/CLAIM-443.md)'s distinction between a prior over actions and a
 prior over which process governs: a cached mapping licensed by an active
 goal is a third arrangement between them.
 

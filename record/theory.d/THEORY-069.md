@@ -154,12 +154,12 @@ read.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the tenth status review. NOTE-467 read Kelso's
+Kept Proposed by the tenth status review. [NOTE-467](../notes.d/NOTE-467.md) read Kelso's
 retrospective in full, but it reports the bimanual data rather than showing
 them: critical fluctuations and slowing are its C2, "not shown in this
 paper", and hysteresis is derived by the record from Eq. (1), not reported.
-The 1985 paper (LIT-588) is Unavailable, Schöner, Haken and Kelso (1986) is
+The 1985 paper ([LIT-588](../literature.d/LIT-588.md)) is Unavailable, Schöner, Haken and Kelso (1986) is
 not filed, and no independent replication is read. A split on
-THEORY-1110's pattern would free nothing: ARG-016 rests on CLAIM-169, and
-CLAIM-172 grounds on THEORY-265 and is objected to by CLAIM-165, all
+[THEORY-1110](THEORY-1110.md)'s pattern would free nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md), and
+[CLAIM-172](../claims.d/CLAIM-172.md) grounds on [THEORY-265](THEORY-265.md) and is objected to by [CLAIM-165](../claims.d/CLAIM-165.md), all
 Proposed.

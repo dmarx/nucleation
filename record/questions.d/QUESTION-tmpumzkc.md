@@ -11,10 +11,10 @@ line: will-organization
 refines:
 - QUESTION-088
 summary: >-
-  The promotion condition formerly on THEORY-923, moved here when the
-  tenth status review narrowed THEORY-923 to what one simulated task, run
-  once per condition, showed, and promoted it, as THEORY-285's moved to
-  QUESTION-303. The model makes the pattern; whether animals or people
+  The promotion condition formerly on [THEORY-923](../theory.d/THEORY-923.md), moved here when the
+  tenth status review narrowed [THEORY-923](../theory.d/THEORY-923.md) to what one simulated task, run
+  once per condition, showed, and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to
+  [QUESTION-303](QUESTION-303.md). The model makes the pattern; whether animals or people
   bear it out is this question.
 ---
 
@@ -22,12 +22,12 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-923 shows, in one simulated T-maze task with hand-set parameters,
+[THEORY-923](../theory.d/THEORY-923.md) shows, in one simulated T-maze task with hand-set parameters,
 a habit learned by counting that persists after devaluation once acquired,
 while an agent devalued earlier switches at once. Nothing is fitted to
 behaviour, and the authors concede that the scheme probably makes no new
 behavioural predictions. Whether the count-driven prior is how habits form
-is a part of what QUESTION-088 asks of process models of habit.
+is a part of what [QUESTION-088](QUESTION-088.md) asks of process models of habit.
 
 ## What would answer it
 

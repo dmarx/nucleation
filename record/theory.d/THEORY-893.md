@@ -99,10 +99,10 @@ that does not depend on choice.
 ## Note of 2026-10-29: what holds it back
 
 The record holds the wanting–liking dissociation only as Berridge and
-Kringelbach's review reports it; NOTE-1110 read none of the primary
+Kringelbach's review reports it; [NOTE-1110](../notes.d/NOTE-1110.md) read none of the primary
 experiments. No primary study the record reads raises incentive salience
 by choice, effort or cue-triggered pursuit while taste reactivity stays
 flat, replicated outside the originating laboratories. The title's
 sensitization clause is the review's proposal ("Incentive-sensitization
 would produce addiction, by selectively magnifying cue-triggered
-'wanting'"), which THEORY-895 reads and holds to its own unmet promote_when.
+'wanting'"), which [THEORY-895](THEORY-895.md) reads and holds to its own unmet promote_when.

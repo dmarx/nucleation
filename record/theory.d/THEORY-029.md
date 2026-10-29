@@ -94,11 +94,11 @@ supports:
 - Buss & Westlund, SEP *Personal Autonomy* (2018 revision), [LIT-296](../literature.d/LIT-296.md), §3, as read in [NOTE-267](../notes.d/NOTE-267.md).
 - McKenna & Coates, SEP *Compatibilism*, [LIT-291](../literature.d/LIT-291.md), §4.2 and supplement §A, as read in [NOTE-270](../notes.d/NOTE-270.md).
 - Dryden, IEP *Autonomy* (2010), [LIT-297](../literature.d/LIT-297.md), §2.a.ii, as read in [NOTE-266](../notes.d/NOTE-266.md).
-- Frankfurt (2004), [LIT-293](../literature.d/LIT-293.md), the Tanner Lectures, as read in [NOTE-264](../notes.d/NOTE-264.md). Frankfurt (1971), LIT-692, is also read first-hand, in NOTE-545, and filed as THEORY-120.
+- Frankfurt (2004), [LIT-293](../literature.d/LIT-293.md), the Tanner Lectures, as read in [NOTE-264](../notes.d/NOTE-264.md). Frankfurt (1971), [LIT-692](../literature.d/LIT-692.md), is also read first-hand, in [NOTE-545](../notes.d/NOTE-545.md), and filed as [THEORY-120](THEORY-120.md).
 
 ## What was actually shown
 
-Frankfurt's 1971 account, first held through [LIT-291](../literature.d/LIT-291.md), is now read first-hand (LIT-692, NOTE-545; THEORY-120): one acts "of his own free will" when the will that moved him "was his will because it was the will he wanted" (p. 19). The will is the effective first-order desire, and the second-order volition endorses it. The objection is that nothing about being second-order makes the endorsing attitude the agent's. She can be alienated from it just as from the first-order desire, so the question of authority recurs one level up.
+Frankfurt's 1971 account, first held through [LIT-291](../literature.d/LIT-291.md), is now read first-hand ([LIT-692](../literature.d/LIT-692.md), [NOTE-545](../notes.d/NOTE-545.md); [THEORY-120](THEORY-120.md)): one acts "of his own free will" when the will that moved him "was his will because it was the will he wanted" (p. 19). The will is the effective first-order desire, and the second-order volition endorses it. The objection is that nothing about being second-order makes the endorsing attitude the agent's. She can be alienated from it just as from the first-order desire, so the question of authority recurs one level up.
 
 Velleman ([LIT-295](../literature.d/LIT-295.md)) gives this its sharpest form, and the record holds it first-hand. He runs the objection against each stopping point in turn:
 
@@ -196,7 +196,7 @@ lands on the dilemma like the others.
 
 Kept Proposed by the tenth status review. The dilemma is the record's
 synthesis across five readings, and Velleman argues its first horn only by
-examples (NOTE-265, C5). The reply that answers the regress directly,
-"Identification and Wholeheartedness" (LIT-575), is Unavailable, so whether
+examples ([NOTE-265](../notes.d/NOTE-265.md), C5). The reply that answers the regress directly,
+"Identification and Wholeheartedness" ([LIT-575](../literature.d/LIT-575.md)), is Unavailable, so whether
 the unwitting-decision counterexample reaches the 1987/88 view has not been
 run.

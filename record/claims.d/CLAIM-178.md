@@ -99,7 +99,7 @@ a claim that is still Proposed and that the work no longer includes.
 - It does not say the record makes every dropped commitment visible. A
   move that fits none of the record's schemes or relations was never
   filed, so dropping it from a draft leaves no trace against the record
-  either (CLAIM-181). The record shows what was dropped only of what it
+  either ([CLAIM-181](CLAIM-181.md)). The record shows what was dropped only of what it
   held.
 
 ## Note of 2026-10-11: why drafts lose material silently
@@ -126,7 +126,7 @@ general form, so it was kept.
 
 ## Note of 2026-10-29: what holds it back
 
-It generalizes from one exchange (CLAIM-324) to any draft written straight
+It generalizes from one exchange ([CLAIM-324](CLAIM-324.md)) to any draft written straight
 from an exchange, and the comparison its defeat condition names has not been
 made: no draft written against the record has been checked, beside one
 written straight from an exchange, for dropped commitments and unannounced

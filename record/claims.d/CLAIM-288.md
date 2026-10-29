@@ -84,7 +84,7 @@ discounted policy evaluation, and constrained endogenous endorsement."
 In the model the exchange built, each operator is rewarded for something
 the modeller wrote down. In A2 §6 it is J_i = E[Q_i(a*, c)] − λ_i Cost(E_i).
 In A6 §1 it is discounted reward r_i. Barandiaran, Di Paolo and Rohde
-(THEORY-tmpy6639, read in [NOTE-458](../notes.d/NOTE-458.md)) derive that "Systems optimizing an externally
+([THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md), read in [NOTE-458](../notes.d/NOTE-458.md)) derive that "Systems optimizing an externally
 fixed function are not models of agency" (C5), because normativity must be
 "Regulation against a condition that can be failed, with the condition set
 by the system's organization." Di Paolo (2005, [LIT-1017](../literature.d/LIT-1017.md)) makes the same

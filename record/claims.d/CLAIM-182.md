@@ -94,5 +94,5 @@ The comparison is not separated from who was reading. The re-derivations
 happened inside live exchanges with collaborators who kept no memory, and
 the citations came after reconstruction, from readers with the record open.
 No case counts re-derivation of the same stored content before and after its
-parts got addresses, which CASE-183's inbound references per code could
+parts got addresses, which [CASE-183](../cases.d/CASE-183.md)'s inbound references per code could
 begin to supply.

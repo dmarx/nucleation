@@ -218,10 +218,10 @@ numerical checks.
 
 ## Note of 2026-10-29: the two placements proved
 
-Made by the tenth status review under ADR-047's ruling on re-derivations,
+Made by the tenth status review under [ADR-047](../decisions.d/ADR-047.md)'s ruling on re-derivations,
 for the two cells the promote_when named.
 
-**LIT-273's ε/η composition is orthogonally covariant.** A transitive
+**[LIT-273](../literature.d/LIT-273.md)'s ε/η composition is orthogonally covariant.** A transitive
 sentence is s = (ε ⊗ 1_S ⊗ ε)(subj ⊗ ψ ⊗ obj), so in components
 s_j = Σ ψ_ijk subj_i obj_k, with ψ in N ⊗ S ⊗ N. Change the noun space by
 an orthogonal O_N and the sentence space by an orthogonal O_S, applied
@@ -234,13 +234,13 @@ between sentence vectors are therefore unchanged. Checked numerically on
 random tensors; with a non-orthogonal change of the noun space in place
 of O_N, as a positive control, the covariance fails.
 
-**LIT-272's Frobenius composition depends on the basis.** The copying
+**[LIT-272](../literature.d/LIT-272.md)'s Frobenius composition depends on the basis.** The copying
 map induced by a basis gives μ(e_i ⊗ e_j) = δ_ij e_i, so μ(x ⊗ y) is the
 elementwise product x ⊙ y in that basis. On ℝ², take x = (1, 0) and
 y = (1, 1)/√2. Then x ⊙ y = (1/√2, 0), and its cosine with x is 1. Rotate
 the basis by 45°: Ox = (1, 1)/√2 and Oy = (0, 1), so Ox ⊙ Oy = (0, 1/√2),
 whose cosine with Ox is 1/√2. A sentence–subject cosine moves under a
-change of basis, as NOTE-246 found in one random rotation.
+change of basis, as [NOTE-246](../notes.d/NOTE-246.md) found in one random rotation.
 
 Neither paper states these. They are facts about the constructions the
 papers use, proved here, and the table now says so.

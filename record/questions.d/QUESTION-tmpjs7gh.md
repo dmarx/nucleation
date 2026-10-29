@@ -9,10 +9,10 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion condition formerly on THEORY-918, moved here when the
-  tenth status review narrowed THEORY-918 to what the 2024 meta-analysis
-  measured to September 2019, and promoted it, as THEORY-285's moved to
-  QUESTION-303. Whether the corrected effect holds in later and registered
+  The promotion condition formerly on [THEORY-918](../theory.d/THEORY-918.md), moved here when the
+  tenth status review narrowed [THEORY-918](../theory.d/THEORY-918.md) to what the 2024 meta-analysis
+  measured to September 2019, and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to
+  [QUESTION-303](QUESTION-303.md). Whether the corrected effect holds in later and registered
   evidence is this question.
 ---
 
@@ -20,7 +20,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-918 holds that across 642 tests to September 2019 the pooled
+[THEORY-918](../theory.d/THEORY-918.md) holds that across 642 tests to September 2019 the pooled
 d = .36 falls to a model-averaged d = .15 under robust Bayesian
 meta-analysis, which still found extreme evidence of an effect. The search
 was not updated, only the overall estimate was corrected, and effects were

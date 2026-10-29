@@ -78,12 +78,12 @@ The record holds two accounts that put the line there:
 - [THEORY-072](../theory.d/THEORY-072.md): an organism differs from a candle flame by "several distinct
   constraints that produce one another at different time scales". That is
   production, not coupling strength.
-- THEORY-tmpy6639: minimal agency needs individuality in which "the system
+- [THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md): minimal agency needs individuality in which "the system
   distinguishes itself from its environment, and an observer does not do it
   for the system".
 
 So the block test can find a system in the sense of a unit of description,
-but the individuality THEORY-tmpy6639 requires is a further condition. When
+but the individuality [THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md) requires is a further condition. When
 [CLAIM-174](CLAIM-174.md) uses the block test as its first condition, it admits jointly
 coupled forms whose boundary is maintained from outside.
 
@@ -113,7 +113,7 @@ exclude externally maintained blocks, so the first condition need not.
 A9 §3 of the exchange of 2026-10-20 separated predictive closure from
 organizational closure and proposed that "A living or agentive boundary
 may be distinguished by its regulation of exchange, rather than by the
-absence of exchange". That is THEORY-tmpy6639's interactional asymmetry, which
+absence of exchange". That is [THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md)'s interactional asymmetry, which
 A9 does not cite. A8 §1 adds the informational side of this claim's point:
 since agents are coupled to their environments, exact closure "cannot
 straightforwardly serve as a necessary condition for agency", and since

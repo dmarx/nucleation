@@ -11,10 +11,10 @@ line: will-organization
 refines:
 - QUESTION-095
 summary: >-
-  The promotion condition formerly on THEORY-913, moved here when the
-  tenth status review narrowed THEORY-913 to what the 2006 meta-analysis's
-  small, uncorrected pools showed, and promoted it, as THEORY-285's moved
-  to QUESTION-303. Whether the effects are as large as reported, and
+  The promotion condition formerly on [THEORY-913](../theory.d/THEORY-913.md), moved here when the
+  tenth status review narrowed [THEORY-913](../theory.d/THEORY-913.md) to what the 2006 meta-analysis's
+  small, uncorrected pools showed, and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved
+  to [QUESTION-303](QUESTION-303.md). Whether the effects are as large as reported, and
   whether they carry the effect on goal attainment, is this question.
 ---
 
@@ -22,14 +22,14 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-913 holds the 2006 component-process estimates: large effects from
+[THEORY-913](../theory.d/THEORY-913.md) holds the 2006 component-process estimates: large effects from
 one to seven tests each, pooled with fixed effects and no correction for
 publication bias, which the 2024 review found substantial overall
-(THEORY-918). Only cue accessibility and the strength of the cue–response
+([THEORY-918](../theory.d/THEORY-918.md)). Only cue accessibility and the strength of the cue–response
 link were tested as mediators, in two studies. If the savings of later
 effort hold, implementation intentions are the plainest case the record
 holds of a decision cached and reused at lower cost, which is what
-QUESTION-095 asks about.
+[QUESTION-095](QUESTION-095.md) asks about.
 
 ## What would answer it
 

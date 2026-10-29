@@ -167,8 +167,8 @@ argument uses.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the tenth status review. NOTE-378 read the paper in full.
+Kept Proposed by the tenth status review. [NOTE-378](../notes.d/NOTE-378.md) read the paper in full.
 Its first premise, survival of a brain transplant, is assumed, and fn. 5
 concedes that dissenters need a multiple case the paper does not give.
-Lewis's reply (THEORY-476), which grants both premises of the inference and
+Lewis's reply ([THEORY-476](THEORY-476.md)), which grants both premises of the inference and
 denies the conclusion, is unanswered in the record.

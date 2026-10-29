@@ -8,10 +8,10 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion condition formerly on THEORY-909, moved here when the
-  tenth status review narrowed THEORY-909 to the delay windows Gerstner et
-  al. review, mostly from slices, and promoted it, as THEORY-285's moved
-  to QUESTION-303. Whether such traces carry learning in behaving animals
+  The promotion condition formerly on [THEORY-909](../theory.d/THEORY-909.md), moved here when the
+  tenth status review narrowed [THEORY-909](../theory.d/THEORY-909.md) to the delay windows Gerstner et
+  al. review, mostly from slices, and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved
+  to [QUESTION-303](QUESTION-303.md). Whether such traces carry learning in behaving animals
   is this question.
 ---
 
@@ -19,11 +19,11 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-909 holds that, in five papers reviewed by Gerstner et al., mostly
+[THEORY-909](../theory.d/THEORY-909.md) holds that, in five papers reviewed by Gerstner et al., mostly
 slice experiments with one laboratory per region, a pairing changed the
 synapse when a neuromodulator or plateau potential followed within one to
 five seconds and not later. The reviewers grant that persistent network
-activity or short-term plasticity could bridge the same gap. CLAIM-443's
+activity or short-term plasticity could bridge the same gap. [CLAIM-443](../claims.d/CLAIM-443.md)'s
 schematic three-factor rule would need such a trace to learn from delayed
 outcomes, though it claims no neural implementation.
 

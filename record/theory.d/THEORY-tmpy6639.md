@@ -13,12 +13,12 @@ source:
 extends:
 - THEORY-071
 summary: >-
-  What the paper proposes, split from THEORY-071 by the tenth status
-  review on THEORY-1110's pattern, so that claims needing only the
-  proposal can stand on it. The paper was read in full (NOTE-458), so the
+  What the paper proposes, split from [THEORY-071](THEORY-071.md) by the tenth status
+  review on [THEORY-1110](THEORY-1110.md)'s pattern, so that claims needing only the
+  proposal can stand on it. The paper was read in full ([NOTE-458](../notes.d/NOTE-458.md)), so the
   reading of what it proposes is held. Whether the definition is right,
   which turns on an asymmetry criterion its authors call incomplete and
-  on applying the conditions to explicit models, stays THEORY-071's
+  on applying the conditions to explicit models, stays [THEORY-071](THEORY-071.md)'s
   question, Proposed.
 ---
 <!-- inactive-ok-file: THEORY-071 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Barandiaran, Di Paolo & Rohde (2009), LIT-566, read in full in NOTE-458:
+Barandiaran, Di Paolo & Rohde (2009), [LIT-566](../literature.d/LIT-566.md), read in full in [NOTE-458](../notes.d/NOTE-458.md):
 §2 (the three conditions), Table 1 (the cases), §4 (the generative
 definition), footnote 3 (emergent regulation), §6 (the consequences for
 models).
@@ -60,8 +60,8 @@ system". Consequence (b) of §6: systems "that only satisfy constraints or
 norms imposed from outside (e.g. optimization according to an externally
 fixed function) should not be treated as models of agency".
 
-These are the conditions CLAIM-284 uses as tests, the line CLAIM-194 says a
-coupling criterion cannot draw, and the derivation CLAIM-288 cites.
+These are the conditions [CLAIM-284](../claims.d/CLAIM-284.md) uses as tests, the line [CLAIM-194](../claims.d/CLAIM-194.md) says a
+coupling criterion cannot draw, and the derivation [CLAIM-288](../claims.d/CLAIM-288.md) cites.
 
 ## What this does not say
 
@@ -70,6 +70,6 @@ fit the conditions, and its authors call the asymmetry criterion
 incomplete: what counts as a parametric modulation and what as a coupling
 between variables "is often a matter of choice for the modeler". No
 explicit model has been put through the procedure. That test is
-THEORY-071's `promote_when`, and THEORY-071 stays Proposed until the record
+[THEORY-071](THEORY-071.md)'s `promote_when`, and [THEORY-071](THEORY-071.md) stays Proposed until the record
 holds it. Its "autonomy" and "self" are organisational, not a subject or
 self-governance.

@@ -11,9 +11,9 @@ line: distributed-agency
 refines:
 - QUESTION-084
 summary: >-
-  The promotion condition formerly on THEORY-218, moved here when the
-  tenth status review narrowed THEORY-218 to the one artwork it studied
-  and promoted it, as THEORY-285's moved to QUESTION-303. The case study
+  The promotion condition formerly on [THEORY-218](../theory.d/THEORY-218.md), moved here when the
+  tenth status review narrowed [THEORY-218](../theory.d/THEORY-218.md) to the one artwork it studied
+  and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-303](QUESTION-303.md). The case study
   shows design led the canvas for one artwork; whether that holds across
   a canvas, and with how small a core, is this question.
 ---
@@ -22,14 +22,14 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-218 reads Litherland and Mørch's case study of the 2017 Mona Lisa.
+[THEORY-218](../theory.d/THEORY-218.md) reads Litherland and Mørch's case study of the 2017 Mona Lisa.
 In the threads matched to snapshots, changes discussed in the forum then
 appeared on the canvas, and a few central members admitted or refused
 additions. That is one artwork, and the authors call the link from forum
 power to placements "unclear": most placers never posted, and how many
 followed the designs was not measured. Whether design generally leads
 placement, and whether a coordination record changes what a behaviour-only
-method would conclude, is what QUESTION-084 needs beyond that one case.
+method would conclude, is what [QUESTION-084](QUESTION-084.md) needs beyond that one case.
 
 ## What would answer it
 

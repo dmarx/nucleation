@@ -127,8 +127,8 @@ valence is the pattern of grants over time, of a particular kind.
 
 ## Note of 2026-10-29: what holds it back
 
-Its premise CLAIM-437, which makes valence relative to a perspective, is
-Proposed, and so is TERM-076, the account's valence it reads on the grant
+Its premise [CLAIM-437](CLAIM-437.md), which makes valence relative to a perspective, is
+Proposed, and so is [TERM-076](../terms.d/TERM-076.md), the account's valence it reads on the grant
 side. Its sharp edge, that suspending a motive's hold on action leaves the
 motive's emotion as it was, rests on "the report usually given" of mindful
 attention, which no reading in the record measures.

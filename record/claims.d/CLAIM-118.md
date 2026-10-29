@@ -107,7 +107,7 @@ Read by what each change carries:
   in it is carried into the next sequence, so it does not merge context
   and interpreter.
 - **Two uses of one context differ.** Akyürek et al. ([LIT-796](../literature.d/LIT-796.md),
-  THEORY-439) update the weights on the demonstrations, discard the update
+  [THEORY-439](../theory.d/THEORY-439.md)) update the weights on the demonstrations, discard the update
   after the task, and beat conditioning alone (BIG-Bench Hard 50.5% to
   57.8%). Both are uses of the current context, so this shows that how a
   signal is used matters, not that the interpreter changed.
@@ -141,16 +141,16 @@ training left, not one adapted after training and kept.
 
 ## Note of 2026-10-29: restated by what each history carries
 
-The title told context from interpreter by mechanism, and THEORY-169 holds
+The title told context from interpreter by mechanism, and [THEORY-169](../theory.d/THEORY-169.md) holds
 that in unnormalized causal linear attention conditioning and per-sequence
 weight updates "differ in what state is kept, not in kind". The claim is now
-stated by what each change carries, as CLAIM-074 is (A44's "contextual" and
+stated by what each change carries, as [CLAIM-074](CLAIM-074.md) is (A44's "contextual" and
 "adaptational" history): a weight update computed from the current context
-and discarded after it is part of what the context supplies. THEORY-169's
+and discarded after it is part of what the context supplies. [THEORY-169](../theory.d/THEORY-169.md)'s
 identity then falls inside the signal, and its own scope says the same ("Not
-about persistent change"). THEORY-439 leaves corroborated_by: its test-time
+about persistent change"). [THEORY-439](../theory.d/THEORY-439.md) leaves corroborated_by: its test-time
 update is discarded after the task, so it shows that two uses of one context
-differ, not that the interpreter changed. THEORY-481 stays: the outer
+differ, not that the interpreter changed. [THEORY-481](../theory.d/THEORY-481.md) stays: the outer
 weights carry a preconditioner fitted to the training distribution across
 contexts, and each context supplies only its own covariance.
 

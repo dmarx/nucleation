@@ -212,12 +212,12 @@ constraints on the system."
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the tenth status review. NOTE-458 read the paper in full,
+Kept Proposed by the tenth status review. [NOTE-458](../notes.d/NOTE-458.md) read the paper in full,
 and it argues from cases. The test its promote_when names is not in the
 record: the three conditions, with an asymmetry criterion that does not
 depend on how the modeller splits parameters from variables, applied to
 explicit models (a protocell, an evolved controller, a homeostat) and
 matching Table 1 without being tuned to it. The authors call that criterion
-incomplete. The disagreement with THEORY-583 over the homeostat is
-unresolved. What the paper proposes is now THEORY-tmpy6639, Active, and
+incomplete. The disagreement with [THEORY-583](THEORY-583.md) over the homeostat is
+unresolved. What the paper proposes is now [THEORY-tmpy6639](THEORY-tmpy6639.md), Active, and
 the claims that need only the proposal ground on it.

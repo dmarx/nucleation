@@ -76,7 +76,7 @@ it.
 
 The "formed" sense is defined by what interconnection does to admissible
 joint behaviour. That is a constraint on states, which this term sets
-apart from a correspondence structure, and CLAIM-471 reads its example,
+apart from a correspondence structure, and [CLAIM-471](../claims.d/CLAIM-471.md) reads its example,
 Baez and Fong's port condition, as background rather than formed. Until
-the row says what forming a correspondence structure is, or QUESTION-282
+the row says what forming a correspondence structure is, or [QUESTION-282](../questions.d/QUESTION-282.md)
 finds an instance, the three ways of holding it are not settled.

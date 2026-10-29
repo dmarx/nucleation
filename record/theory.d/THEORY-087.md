@@ -202,7 +202,7 @@ and by approximation otherwise.
 
 ## Note of 2026-10-29: the re-derivation and the check
 
-Made by the tenth status review under ADR-047's ruling on re-derivations.
+Made by the tenth status review under [ADR-047](../decisions.d/ADR-047.md)'s ruling on re-derivations.
 
 **The regular half, by Laplace's method.** Write the free energy as
 F = −log Z_n with Z_n = ∫ φ(w) exp(−n L_n(w)) dw. The conditions:
@@ -276,11 +276,11 @@ quadrature over the prior, averaged over ĉ by Gauss–Hermite, for n from
 | c = a (control) | ½ | ½ | 0.5000 |
 | c = a₁x₁ + a₂x₂ (control) | 1 | 1 | 1.0000 |
 | c = sin(3a), truth sin 0.9 (nonlinear regular) | ½ | ½ | 0.5000 |
-| c = ab, truth 0 (CASE-152: λ = ½, m = 2) | 1 | ½ | 0.463 at n = 10¹²; slope + 1/log n → 0.5008 |
+| c = ab, truth 0 ([CASE-152](../cases.d/CASE-152.md): λ = ½, m = 2) | 1 | ½ | 0.463 at n = 10¹²; slope + 1/log n → 0.5008 |
 | c = a³, truth 0 (λ = 1/6) | ½ | 1/6 | 0.1667 |
 | c = a², truth 0.25 (two non-degenerate optima) | ½ | ½ | 0.5000 |
 
-For CASE-152's model, a fit of λ log n − β log log n + const gives
+For [CASE-152](../cases.d/CASE-152.md)'s model, a fit of λ log n − β log log n + const gives
 λ = 0.497 and β = 0.92, against λ = ½ and m − 1 = 1. The slope there is
 λ, not d/2, and the Gaussian (d/2) log n overcharges it by about
 ½ log n + log log n. The scripts were written by the reviewer, re-run by

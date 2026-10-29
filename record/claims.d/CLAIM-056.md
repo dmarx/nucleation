@@ -99,10 +99,10 @@ for directed, non-metric distortion ([QUESTION-017](../questions.d/QUESTION-017.
 
 - That a small error means the act survived, or a large one that it did
   not. A chain reorganizes constraints, and one changed constraint can
-  change the act while the scalar error stays small (CLAIM-031).
+  change the act while the scalar error stays small ([CLAIM-031](CLAIM-031.md)).
 - That the bound predicts drift. It is an upper bound. Its constants
   belong to the retellers' kernels, which a chain with one retelling per
-  node cannot estimate (CLAIM-208).
+  node cannot estimate ([CLAIM-208](CLAIM-208.md)).
 
 ## Note of 2026-10-13: the general content is filed separately
 
@@ -124,9 +124,9 @@ object to it and are unanswered.
 
 ## Note of 2026-10-29: the concessions written in
 
-The note of 2026-10-19 left CLAIM-031 and CLAIM-208 unanswered. Both are
+The note of 2026-10-19 left [CLAIM-031](CLAIM-031.md) and [CLAIM-208](CLAIM-208.md) unanswered. Both are
 conceded here, by the title and the defeat condition, not answered. What
-the claim adds to CLAIM-267 is that a serial reconstruction chain is a
+the claim adds to [CLAIM-267](CLAIM-267.md) is that a serial reconstruction chain is a
 composition of transports measured against a reference transport
-(CLAIM-106). The new condition tests exactly that. Promoted by the tenth
+([CLAIM-106](CLAIM-106.md)). The new condition tests exactly that. Promoted by the tenth
 status review on the owner's ruling.

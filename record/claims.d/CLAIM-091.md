@@ -93,7 +93,7 @@ as items in [CASE-055](../cases.d/CASE-055.md).
 ## Note of 2026-10-29: what holds it back
 
 No reader evidence that a compensating rendering keeps stance and force
-better than one that keeps the wording. CASE-018 is invented (ARG-013,
-Rejected), and CASE-066's judgements are the translators' and Tolstoy's.
-The reader test CASE-066 sketches, Russian readers as the reference
+better than one that keeps the wording. [CASE-018](../cases.d/CASE-018.md) is invented ([ARG-013](../arguments.d/ARG-013.md),
+Rejected), and [CASE-066](../cases.d/CASE-066.md)'s judgements are the translators' and Tolstoy's.
+The reader test [CASE-066](../cases.d/CASE-066.md) sketches, Russian readers as the reference
 against four English versions, would meet or defeat the claim.
