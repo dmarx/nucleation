@@ -1,19 +1,29 @@
 ---
 number: 908
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbhjiw
-promote_when: >-
-  An experiment that randomly assigns contingent against schedule
-  plans for the same goal, sample and outcome, and recording against not
-  recording the plan, finding the contingent advantage and the recording
-  cost within one design; and a test that rehearsal works through cue
-  accessibility or cue–response link strength. It is refuted if
-  within-study comparisons show no format difference, or if the recording
-  cost disappears once outcome type is held fixed. More between-test
-  moderator analyses cannot promote it.
-title: "Between tests, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); rehearsing the plan once raised the effect, keeping a copy to revisit lowered it (.31 against .44), and adding how or for how long to a time-and-place cue roughly halved it"
-version: 1
+title: 'Between tests, uncorrected for publication bias, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); tests in which the plan was rehearsed had larger effects (.45 against .33, with no gain beyond one rehearsal), tests in which it was recorded had smaller ones (.31 against .44), and adding how or for how long to a time and place went with about half the effect (.24 against .46)'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057;
+    ADR-047's evidence ruling, read in full in NOTE-1131). "Raised",
+    "lowered" and "halved" stated between-test differences as
+    effects of rehearsing, recording and elaborating, and "keeping a
+    copy to revisit" was the authors' reading of the recording
+    category; the figures were checked against Tables 3 and 4. The
+    old title: Between tests, implementation intentions in the
+    contingent if-then format had larger effects than plans that
+    schedule when, where and what without linking cue to response (d
+    = .43 against .29); rehearsing the plan once raised the effect,
+    keeping a copy to revisit lowered it (.31 against .44), and
+    adding how or for how long to a time-and-place cue roughly
+    halved it. The promote_when moves unchanged to
+    QUESTION-tmpdyrwc. CLAIM-443 now lists this reading under
+    corroborated_by, not grounds (ADR-058).
 tags:
 - motivation
 - behavioral-integration
@@ -28,12 +38,12 @@ summary: >-
   recording .31 against .44; visualising the response no effect. The
   authors read the recording and elaboration costs as deliberation
   undermining automaticity. Between-test and uncorrected for bias.
-supports:
-- CLAIM-443
+bears_on:
+- QUESTION-tmpdyrwc
 ---
-<!-- inactive-ok-file: CLAIM-443 THEORY-913 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-908: Between tests, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); rehearsing the plan once raised the effect, keeping a copy to revisit lowered it (.31 against .44), and adding how or for how long to a time-and-place cue roughly halved it
+# THEORY-908: Between tests, uncorrected for publication bias, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); tests in which the plan was rehearsed had larger effects (.45 against .33, with no gain beyond one rehearsal), tests in which it was recorded had smaller ones (.31 against .44), and adding how or for how long to a time and place went with about half the effect (.24 against .46)
 
 ## Source
 

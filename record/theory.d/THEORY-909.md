@@ -1,21 +1,32 @@
 ---
 number: 909
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpeolav
-promote_when: >-
-  The seconds-scale trace shown in behaving animals, not only in slices: an
-  experiment in vivo in which interfering with the trace's mechanism (for
-  example CaMKII in striatal spines) during the interval between action and
-  delayed outcome abolishes learning from that outcome while leaving
-  learning from immediate outcomes intact, and independent replication of
-  at least the striatal and cortical time constants. It is refuted if
-  learning from delays of seconds survives the abolition of synaptic traces,
-  carried instead by persistent network activity or short-term plasticity,
-  which the review itself names as alternatives. Further slice experiments
-  with the same protocols cannot settle it.
-title: "In slices of striatum, visual and prefrontal cortex and hippocampus, Hebbian co-activation leaves a synaptic eligibility trace, lasting about 1 s in striatum, 3 to 10 s in cortex and about 2 s in CA1, that a later neuromodulator or plateau potential converts into a weight change and whose sign it can set: experimental support for three-factor learning rules on behavioural time scales"
-version: 1
+title: 'As reviewed by Gerstner et al. (2018) from five papers, mostly in slices and one laboratory per region, pairing pre- and postsynaptic activity changed the synapse when a neuromodulator or plateau potential followed within about 1 s in striatum, within 5 s (noradrenaline, LTP after pre-before-post pairing) or 2.5 s (serotonin, LTD after post-before-pre pairing) in visual and prefrontal cortex, and within about 2 s in CA1, and not at longer delays; the reviewers read this as a decaying synaptic eligibility trace and as experimental support for three-factor learning rules on behavioural time scales'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057;
+    ADR-047's evidence ruling, the review read in full in
+    NOTE-1130). The title now reports the delay windows that were
+    measured, attributes the trace and the three-factor reading to
+    the reviewers, and drops "whose sign it can set": in cortex the
+    direction followed the pairing order as well as the modulator,
+    and the one sign reversal of a single protocol, in CA1, took
+    about a minute. The old title: In slices of striatum, visual and
+    prefrontal cortex and hippocampus, Hebbian co-activation leaves
+    a synaptic eligibility trace, lasting about 1 s in striatum, 3
+    to 10 s in cortex and about 2 s in CA1, that a later
+    neuromodulator or plateau potential converts into a weight
+    change and whose sign it can set: experimental support for
+    three-factor learning rules on behavioural time scales. The
+    promote_when asked for evidence in behaving animals, which the
+    title does not claim, and moves unchanged to QUESTION-tmpq6owc.
+    CLAIM-443 now lists this reading under corroborated_by, not
+    grounds (ADR-058).
 tags:
 - neuroscience
 - learning-and-conditioning
@@ -29,12 +40,12 @@ summary: >-
   Bittner), not new data. Mostly slices, one laboratory per region; the
   minute-scale CA1 result may be consolidation. The reviewers grant that
   other mechanisms could bridge the same gap.
-supports:
-- CLAIM-443
+bears_on:
+- QUESTION-tmpq6owc
 ---
 <!-- inactive-ok-file: CLAIM-443 — Proposed; the claim this bears on, named, nothing here rests on it -->
 
-# THEORY-909: In slices of striatum, visual and prefrontal cortex and hippocampus, Hebbian co-activation leaves a synaptic eligibility trace, lasting about 1 s in striatum, 3 to 10 s in cortex and about 2 s in CA1, that a later neuromodulator or plateau potential converts into a weight change and whose sign it can set: experimental support for three-factor learning rules on behavioural time scales
+# THEORY-909: As reviewed by Gerstner et al. (2018) from five papers, mostly in slices and one laboratory per region, pairing pre- and postsynaptic activity changed the synapse when a neuromodulator or plateau potential followed within about 1 s in striatum, within 5 s (noradrenaline, LTP after pre-before-post pairing) or 2.5 s (serotonin, LTD after post-before-pre pairing) in visual and prefrontal cortex, and within about 2 s in CA1, and not at longer delays; the reviewers read this as a decaying synaptic eligibility trace and as experimental support for three-factor learning rules on behavioural time scales
 
 ## Source
 
@@ -53,7 +64,9 @@ third signal at a controlled delay.
   (p. 7).
 - **Cortex.** Noradrenaline within 5 s of pre-before-post pairing gave
   LTP, at 10 s not; serotonin within 2.5 s of post-before-pre pairing gave
-  LTD, at 5 s not (p. 9). The modulator chose the direction.
+  LTD, at 5 s not (p. 9). The reviewers read this as the third factor
+  setting the direction (p. 4); as reported, the direction also followed
+  the pairing order, so the two are not separated here.
 - **Hippocampus.** A plateau potential within about 2 s of CA3 input
   potentiated it by about 200% in five pairings (p. 10). Dopamine within
   about a minute turned an LTD protocol into LTP (p. 10), which the

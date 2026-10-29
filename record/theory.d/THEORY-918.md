@@ -1,18 +1,28 @@
 ---
 number: 918
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpk5znk
-promote_when: >-
-  A meta-analysis that adds the tests published since September 2019,
-  or a set of preregistered multi-site replications, estimating the effect
-  with correction for publication bias and finding it reliably above zero
-  and of the same small order. It is refuted if bias-corrected estimates
-  in an updated or registered set fall to zero, or narrowed if the effect
-  holds only in the lab and for in-person delivery. A larger uncorrected
-  pooled d cannot promote it.
-title: "Across 642 experimental tests to September 2019, forming implementation intentions reliably improved behaviour, cognitive performance, affect regulation and social judgement, but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, with large heterogeneity"
-version: 1
+title: 'Across 642 experimental tests to September 2019, forming implementation intentions improved outcomes, with uncorrected effects on behaviour (d = .27), cognitive performance (.47), affect regulation (.66) and social judgement (.52), but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, which still found extreme evidence of an effect (BF10 = 319), with large heterogeneity'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057;
+    ADR-047's evidence ruling, read in full in NOTE-1131). "Reliably
+    improved behaviour, cognitive performance, affect regulation and
+    social judgement" read the bias-corrected overall result into
+    four outcome estimates that were not corrected (Tables 1–4);
+    within behaviour, vaccination and voting did not differ from
+    zero. The old title: Across 642 experimental tests to September
+    2019, forming implementation intentions reliably improved
+    behaviour, cognitive performance, affect regulation and social
+    judgement, but publication bias was substantial: the pooled d =
+    .36 falls to a model-averaged d = .15 under robust Bayesian
+    meta-analysis, with large heterogeneity. The promote_when moves
+    unchanged to QUESTION-tmpjs7gh. CLAIM-443 now lists this reading
+    under corroborated_by, not grounds (ADR-058).
 tags:
 - motivation
 - behavioral-integration
@@ -27,12 +37,12 @@ summary: >-
   d = .15 with tau = 0.27. By outcome: behaviour .27, cognition .47,
   affect .66, social judgement .52, all uncorrected. It replaces the 2006
   figure of d = .65 from 94 tests, which had no bias correction.
-supports:
-- CLAIM-443
+bears_on:
+- QUESTION-tmpjs7gh
 ---
-<!-- inactive-ok-file: CLAIM-443 THEORY-913 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-918: Across 642 experimental tests to September 2019, forming implementation intentions reliably improved behaviour, cognitive performance, affect regulation and social judgement, but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, with large heterogeneity
+# THEORY-918: Across 642 experimental tests to September 2019, forming implementation intentions improved outcomes, with uncorrected effects on behaviour (d = .27), cognitive performance (.47), affect regulation (.66) and social judgement (.52), but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, which still found extreme evidence of an effect (BF10 = 319), with large heterogeneity
 
 ## Source
 

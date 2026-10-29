@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmp0qupq
 title: 'A learned prior over which processes govern, P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)), its bias b_H trained by reward-modulated Hebbian updates to the relations by which one process recruits or endorses another, is a candidate mechanism for durable authority and for amortized governance; but persistence is not amortization, which is shown only when earlier work replaces later computation, communication or recruitment, and a prior over authority differs from a prior over actions only when what is appropriate changes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Relations corrected by the tenth status review (ADR-057, ADR-058).
+    THEORY-913, THEORY-904, THEORY-918, THEORY-908, THEORY-922,
+    THEORY-923 and THEORY-909 move from grounds to corroborated_by: all
+    seven were filed on 2026-10-24, after the claim, and enter only in
+    "What the readings of 2026-10-24 add", as evidence or as narrowings;
+    the claim's argument does not stand on any of them. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,6 +43,12 @@ complements:
 - CLAIM-364
 - CLAIM-444
 grounds:
+- LIT-1492
+- LIT-1476
+- LIT-1488
+- LIT-1494
+- LIT-1497
+corroborated_by:
 - THEORY-913
 - THEORY-904
 - THEORY-918
@@ -39,11 +56,6 @@ grounds:
 - THEORY-922
 - THEORY-923
 - THEORY-909
-- LIT-1492
-- LIT-1476
-- LIT-1488
-- LIT-1494
-- LIT-1497
 summary: >-
   The owner's, 2026-10-23, on whether practice could reconstruct relations
   of practical authority: "what if we just treat this as a kind of momentum

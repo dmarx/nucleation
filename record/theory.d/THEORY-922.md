@@ -1,21 +1,21 @@
 ---
 number: 922
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxv4qd
-promote_when: >-
-  A larger sample, or a second programme, with the analysis specified in
-  advance and corrected for multiple comparisons, finding homework
-  completion associated with falling suicide or substance-use urges and
-  coaching with falling self-harm urges, with intention-to-treat handling
-  of dropouts and missing diary days; better, a randomized component
-  design that varies homework or coaching. It is refuted if the
-  associations vanish with baseline functioning and motivation
-  controlled, or in the full sample including those with missing diary
-  data. A causal claim about generalization needs a measure of skill use
-  as a mediator, which this THEORY does not carry.
 title: "Among 56 of 88 patients in one DBT intensive outpatient programme, kept because they finished a four-month cycle and gave enough diary data, skills-homework completion in months 1–3 correlated with larger falls in suicide and substance-use urges (r ≈ .35) and phone-coaching frequency with a larger fall in self-harm urges (r = .31); neither correlated with change in how often the behaviours occurred, and only homework separated patients with and without a target behaviour in month 4"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review (ADR-057; ADR-047's evidence
+    ruling, read in full in NOTE-1121); the title claims only
+    correlations in the selected sample, and is unchanged. The
+    promote_when, a replication with intention-to-treat handling and
+    a component design, moves unchanged to QUESTION-tmp6rtwx, as
+    THEORY-285's did to QUESTION-303. CLAIM-443 now lists this
+    reading under corroborated_by, not grounds (ADR-058).
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
@@ -30,10 +30,10 @@ summary: >-
   behaviours went with more homework (91% against 80%, p = .02), not
   significantly with more coaching (p = .096). No correction for multiple
   comparisons, selected sample, no measure of skill use.
-supports:
-- CLAIM-443
+bears_on:
+- QUESTION-tmp6rtwx
 ---
-<!-- inactive-ok-file: CLAIM-349 CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
 # THEORY-922: Among 56 of 88 patients in one DBT intensive outpatient programme, kept because they finished a four-month cycle and gave enough diary data, skills-homework completion in months 1–3 correlated with larger falls in suicide and substance-use urges (r ≈ .35) and phone-coaching frequency with a larger fall in self-harm urges (r = .31); neither correlated with change in how often the behaviours occurred, and only homework separated patients with and without a target behaviour in month 4
 
