@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md):
   the publisher's own free copy exists (Unpaywall: bronze,
   onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejsp.244). On 2026-10-29
   Wiley answered HTTP 403. A human reader can likely open it. No NOTE is
