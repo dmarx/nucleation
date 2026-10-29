@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptg7io
 title: 'Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -24,6 +24,14 @@ history:
     without override, so whether an organization dominates its processes
     must be read from what happens when a constituent dissents, and from
     its history'. The body is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Grounds move from THEORY-040 to THEORY-tmpk6bx2, the manipulation
+    argument as its sources make it, split by the tenth status review on
+    THEORY-1110's pattern: the claim uses the first half, that a
+    present-structure condition is met by installed structure, and cites
+    THEORY-040's second half only as open. The claim is unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -42,14 +50,14 @@ line:
 undercuts:
 - ARG-030
 grounds:
-- THEORY-040
+- THEORY-tmpk6bx2
 summary: >-
   A45's, U45 of the exchange of 2026-10-17, against the owner's
   non-domination criterion ([CLAIM-362](CLAIM-362.md)) read through its economy: "a
   system whose subordinate processes have been conditioned never to
   object might exhibit perfect local harmony", and "A quiet subordinate
-  process isn't necessarily a satisfied one." It is [THEORY-040](../theory.d/THEORY-040.md)'s
-  manipulation objection, and [QUESTION-071](../questions.d/QUESTION-071.md), applied to the new criterion.
+  process isn't necessarily a satisfied one." It is the manipulation objection
+  (THEORY-tmpk6bx2), and [QUESTION-071](../questions.d/QUESTION-071.md), applied to the new criterion.
   It does not say the criterion fails, only that cost cannot certify it.
   The authenticity line was set aside on 2026-10-05; whether it reopens
   is the owner's call.
@@ -89,7 +97,7 @@ counterfactually, not inferred from presently low intervention costs." A45
 closed on it: "**low strain alone cannot establish authenticity**: a
 dominated organization can be efficient."
 
-This is [THEORY-040](../theory.d/THEORY-040.md)'s objection in a new place. A condition stated only in
+This is the manipulation objection (THEORY-tmpk6bx2) in a new place. A condition stated only in
 present structure is met by an agent whose structure was installed. Low
 supervisory cost is a present-structure mark. [QUESTION-071](../questions.d/QUESTION-071.md) asks the
 general form: can a will-organization be manipulated without anything in

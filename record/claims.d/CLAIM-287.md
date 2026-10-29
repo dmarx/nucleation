@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpzkkx2
 title: 'What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,6 +12,15 @@ history:
     Grounded on THEORY-447, Parfit's account that what matters can
     branch and so is not identity, which the claim's second half restates
     for organizational continuity.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-447 moved from grounds to corroborated_by by the tenth status
+    review (ADR-058). The claim's second half needs only that identity is
+    one-one and that organizational continuity can branch, not Parfit's
+    conclusion about what matters, which Lewis (THEORY-476) contests.
+    Version 2's note said it was grounded on THEORY-447. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,7 +37,7 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
-grounds:
+corroborated_by:
 - THEORY-447
 complements:
 - CLAIM-161
@@ -55,7 +64,7 @@ supports:
 bears_on:
 - QUESTION-043
 ---
-<!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the ground this claim restates, cited as open -->
+<!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the parallel this claim restates, cited as open -->
 <!-- inactive-ok-file: QUESTION-043 CLAIM-161 CLAIM-280 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-287: What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation
@@ -121,6 +130,6 @@ preserving specified organizational features of the predecessor", so
 "This relation cannot alone be numerical identity, because numerical
 identity cannot branch." A24: "This makes CLAIM-287 precise without
 requiring an entire metaphysics of personal identity." It did not cite
-[THEORY-447](../theory.d/THEORY-447.md), Parfit's branching argument, which already grounds the claim,
+[THEORY-447](../theory.d/THEORY-447.md), Parfit's branching argument, which the claim parallels,
 and it only sketches the construction. Nothing new to the claim beyond
 arm C.

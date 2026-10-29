@@ -4,13 +4,20 @@ status: Proposed
 formerly:
 - CLAIM-tmpgfyls
 title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
   note: >-
     A dated note added: A39's learned operators, whose regime changed with
     the frame. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-218 moved from grounds to corroborated_by by the tenth status
+    review (ADR-058): the claim never cites it, and the Mona Lisa's
+    negotiated vandalism is an instance of its relativity, not a premise
+    of it. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,6 +37,7 @@ line:
 - distributed-agency
 grounds:
 - CASE-079
+corroborated_by:
 - THEORY-218
 complements:
 - CLAIM-152

@@ -17,8 +17,20 @@ promote_when: >-
   matched, the history of acquisition predicts nothing. Correlational
   studies linking parenting style to adolescents' current motives cannot
   settle it, since they cannot tell history from present structure.
-title: 'A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is'
-version: 1
+title: 'A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The tenth status review. The title said the history of acquisition
+    "fixes" how autonomous acting on a value is, which the body's "It
+    does not say history alone decides" and SDT's own revisability do not
+    support; it now says "shapes". The old title: A regulation taken in
+    under controlling conditions is introjected rather than integrated, so
+    the social history of how a value was acquired fixes how autonomous
+    acting on it is. A dated note says what holds it back. The status is
+    unchanged.
 tags:
 - agency
 - motivation
@@ -49,7 +61,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-054 THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
 
-# THEORY-047: A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is
+# THEORY-047: A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is
 
 ## Source
 
@@ -94,8 +106,8 @@ produced introjected regulation (Assor, Roth & Deci, [LIT-558](../literature.d/L
   internalization can be revisited "at any point along this continuum"
   ([LIT-559](../literature.d/LIT-559.md), p. 73): a regulation introjected once can be integrated later.
   The claim is about how acquisition conditions shape the kind of
-  internalization, not that it is fixed for life. The title's "fixes" is about
-  the state produced, not its permanence.
+  internalization, not that it is fixed for life. The title's "shapes" is
+  about the state produced, not its permanence.
 - **It does not handle manipulation.** A manipulator who supplies rationale,
   acknowledgement and apparent choice would, on this account, produce
   integration. SDT's papers do not discuss that case.
@@ -114,3 +126,11 @@ produced introjected regulation (Assor, Roth & Deci, [LIT-558](../literature.d/L
   autonomy it serves, so it meets the circularity worry [THEORY-040](THEORY-040.md) records
   from [LIT-296](../literature.d/LIT-296.md). It does not show that a manipulated history fails the
   condition.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the tenth status review. The core experiment (Deci,
+Eghrari, Patrick and Leone 1994) is held only as two reviews report it and
+is not filed, and the decisive test is not in the record: two groups ending
+with the same present endorsement, acquired under autonomy support or under
+control, compared on maintenance and well-being.
