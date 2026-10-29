@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpj8d91
 title: 'Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    THEORY-173 moved from grounds to corroborated_by by the thirteenth
+    status review (ADR-057, ADR-058). The notes of 2026-10-12 added it
+    as a typed edge for a prose citation of 'weak support', a
+    mechanism stated and not tested. THEORY-173's supports entry for
+    this claim is removed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,6 +33,7 @@ uses:
 - TERM-027
 grounds:
 - THEORY-164
+corroborated_by:
 - THEORY-173
 summary: >-
   A50 §3 and §6, A52 §5.5 and §7.4–7.5, recovered. The manuscript keeps

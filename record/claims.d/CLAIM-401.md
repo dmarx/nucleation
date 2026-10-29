@@ -1,10 +1,10 @@
 ---
 number: 401
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpcrdhj
 title: 'The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -13,6 +13,18 @@ history:
     kinds of condition come apart as the claim says, and identification
     by probes (CASE-163) separates class, parameters and budget.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises
+    (CLAIM-152, CLAIM-348, CLAIM-397, CLAIM-304, THEORY-752) are Active,
+    no objection is filed, and nothing in the record meets its
+    defeated_if. Its answer to QUESTION-252's last clause is split off
+    under ADR-049 as QUESTION-tmp3ugy5, which it now answers, and it bears
+    on QUESTION-252's remainder (ADR-060): the leave-one-out cells are
+    facts once the regime is fixed. Status Proposed to Active. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +43,8 @@ line:
 - distributed-agency
 - formal-apparatus
 answers:
+- QUESTION-tmp3ugy5
+bears_on:
 - QUESTION-252
 rests_on:
 - CLAIM-152
@@ -55,7 +69,6 @@ summary: >-
   is [CLAIM-348](CLAIM-348.md)'s "adequacy is fixed by the evaluative target" applied to
   the axes of a comparison. It does not say the five reduce to three.
 ---
-<!-- inactive-ok-file: CLAIM-348 — Proposed; the target-relativity of adequacy this claim applies, open, and this claim is Proposed with it -->
 
 # CLAIM-401: The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds
 

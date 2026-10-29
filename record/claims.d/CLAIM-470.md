@@ -1,10 +1,28 @@
 ---
 number: 470
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpalzo4
 title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The thirteenth status review (ADR-057). CLAIM-477 moves from
+    rests_on to corroborates: the body uses only the
+    specification-realization vocabulary, not CLAIM-477's thesis that
+    constraints partly fix identity and are themselves realized, and
+    this claim's defeated_if already sets aside laws of nature, the case
+    that holds CLAIM-477 back. CASE-178, cited in the body, now
+    illustrates it. Proposed to Active at the status review's ruling
+    (the owner delegated these rulings): its terms TERM-065 and TERM-095
+    are Active, no objection is filed, and nothing meets defeated_if.
+    Simon (THEORY-1084, Proposed) presses (a), but what he describes is
+    revision of the problem space from memory, not a choice inside a
+    fixed one, and CASE-178 records this record's own answer space
+    revised by decision (a scheme, three vocabularies). The text is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,10 +43,10 @@ tags:
 date: '2026-10-27'
 line:
 - nucleating-argument
-rests_on:
-- CLAIM-477
 complements:
 - CLAIM-476
+corroborates:
+- CLAIM-477
 grounds:
 - LIT-988
 - LIT-1645
@@ -48,7 +66,7 @@ summary: >-
   and can be its object. It does not say that inquiry makes what it
   investigates.
 ---
-<!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-419 CLAIM-475 — Proposed; the claims this rests on and sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-419 CLAIM-475 — Proposed; the frame this is a case of and the claims it sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1645 LIT-1651 LIT-1652 LIT-1675 LIT-1641 LIT-1665 LIT-1637 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-470: Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be

@@ -1,10 +1,10 @@
 ---
 number: 145
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpgp40l
 title: 'Trope analysis of the kind A155 proposes is Propp''s and Lévi-Strauss''s transformational analysis, whom the manuscript should cite as precursors'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -27,8 +27,30 @@ history:
     functions and how", which the split holds Active; whether the proposal
     is true stays THEORY-167's question. THEORY-167's supports entry for
     this claim is removed. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises,
+    CLAIM-019 and THEORY-1164, are Active, no objection to it stands,
+    and it had no defeated_if, which is now written. The body's
+    citation of Propp's prior art moves from THEORY-167 to
+    THEORY-1164, where version 3 moved the ground, and the body says
+    which half the claim keeps. The claim is unchanged.
 role: counter
 warrant: interpretive
+defeated_if: >-
+  A reading of Propp (THEORY-1164) or of the computational models of
+  Lévi-Strauss's transformations (LIT-804, LIT-807; CLAIM-019) on
+  which A155's operations are not theirs: a recast that keeps
+  something other than one composition with its performers and their
+  realization varied, or an inversion that is not a transformation
+  holding the relations of the set it acts on. Or a showing that
+  what A155 adds, subversion, deconstruction and parody, which
+  change a pattern's function while keeping the pattern, is the
+  substance of its trope analysis and has no counterpart in either.
+  That A155 reached the move independently would not defeat it: the
+  claim is about precedence, not influence.
 tags:
 - translation
 - philosophy-of-science
@@ -58,11 +80,12 @@ summary: >-
 
 ## The claim
 
-Two halves.
+Two halves. Since 2026-10-28 the claim is the first; the second is [ARG-014](../arguments.d/ARG-014.md),
+Rejected, and is kept below as the text that moved.
 
 **Prior art.** Propp found that in the wondertales he analysed "the constant
 elements are 31 functions of characters", and that the tales "differ in who
-performs the functions and how" ([THEORY-167](../theory.d/THEORY-167.md), from [LIT-828](../literature.d/LIT-828.md); [LIT-830](../literature.d/LIT-830.md) is the
+performs the functions and how" ([THEORY-1164](../theory.d/THEORY-1164.md), from [LIT-828](../literature.d/LIT-828.md); [LIT-830](../literature.d/LIT-830.md) is the
 English translation). That is A155's "recasting": the same relational
 pattern with different characters or setting. Propp also names inversions
 and swaps. [CLAIM-019](CLAIM-019.md) holds Lévi-Strauss's transformational analysis, "as it

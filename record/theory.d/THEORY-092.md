@@ -24,7 +24,7 @@ promote_when: >-
   behaviour of trained models, which are neither Block's machine nor
   shown to be its opposite.
 title: 'Behavioural capacity does not fix intelligence: a system with the capacity to respond sensibly to every possible input can lack it, so whether behaviour is intelligent, or the mark of any mental property, depends partly on how it is produced'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -35,6 +35,13 @@ history:
     `rivals`, not `corrects`, because all three accounts are Proposed and
     the lookup machine is the point in dispute. The Turing section says so.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Supports entry for CLAIM-174 removed by the thirteenth status
+    review (ADR-057, ADR-058): that claim now lists this account under
+    corroborated_by, since it cites Block as weak evidence for its
+    third test and does not stand on him. The account is unchanged.
 tags:
 - cognition
 - metaphysics
@@ -56,8 +63,6 @@ summary: >-
   claim about constitution, not evidence: performance stays evidence for
   competence. It names no required kind of processing, and its machine is
   a lookup table, not a trained network.
-supports:
-- CLAIM-174
 rivals:
 - THEORY-433
 - THEORY-538
@@ -215,3 +220,12 @@ that no behavioural test of bounded length certifies intelligence without
 a claim about how the responses are produced is a claim about what a
 measurement cannot tell you. The reading here is about the nature of
 intelligence.
+
+## Note of 2026-10-29: what holds it back
+
+The record states no processing condition that separates Block's machine
+from intelligent systems without excluding humans, Martians or learning
+machines, and it holds no behaviourist reply to the machine. [LIT-440](../literature.d/LIT-440.md) and
+[LIT-398](../literature.d/LIT-398.md) are read in full ([NOTE-350](../notes.d/NOTE-350.md), [NOTE-353](../notes.d/NOTE-353.md)) and neither takes up the
+lookup machine, so the reply the promote_when asks for has to come from
+another work.

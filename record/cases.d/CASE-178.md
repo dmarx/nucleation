@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp0zvle
 title: 'How the record''s grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner''s ordering of levels holds by frequency; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar''s rates fell while filing rose'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -13,6 +13,12 @@ history:
     the ordering holds by frequency, a section distinguishes event rates
     from a dynamical hierarchy, and "The separation widens" is worded as a
     gap in rates. The measurements are unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The thirteenth status review (ADR-057). Now illustrates CLAIM-470,
+    whose body cites this case as the measure of an inquiry revising its
+    own grammar in this record. The measurements are unchanged.
 standing: documented
 kind: executed-study
 tags:
@@ -24,6 +30,7 @@ variant_of:
 illustrates:
 - CLAIM-478
 - CLAIM-476
+- CLAIM-470
 line: nucleating-argument
 summary: >-
   Run on 2026-10-27 at the owner's direction, after [CASE-180](CASE-180.md): "some of

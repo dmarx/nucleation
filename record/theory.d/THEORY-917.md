@@ -1,20 +1,28 @@
 ---
 number: 917
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmphx93a
-promote_when: >-
-  A study in which the same participants do more than one exploration task
-  (a Horizon Task and a restless or two-armed bandit at least), with state,
-  trait, somatic and cognitive anxiety measured by the same instruments,
-  and preferably including clinical anxiety, showing directed exploration
-  rising with trait or cognitive anxiety and falling with state or somatic
-  anxiety in each task, and random exploration unrelated; replicated in a
-  second sample. It is refuted if, in such a study, the facets do not
-  differ in direction, or if the directions reverse between tasks. Further
-  single studies with one task and one measure cannot settle it.
-title: "Across computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples and not yet replicated, directed exploration tends to rise with trait or cognitive anxiety and to fall with state or somatic anxiety, and random exploration shows no relation to anxiety"
-version: 1
+title: 'Chou, Wilson and Smith read about eight computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples, with mixed results and none replicated, as suggesting that directed exploration rises with trait or cognitive anxiety and falls with state or somatic anxiety; none they review links random exploration to anxiety'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1127). Narrowed: the pattern
+    is the authors' hedged reading ("may", "could be seen to suggest"),
+    and "shows no relation" becomes what the review reports, no study
+    linking them. The old title: Across computational studies of
+    exploration in reward-based bandit tasks, mostly in sub-clinical
+    samples and not yet replicated, directed exploration tends to rise
+    with trait or cognitive anxiety and to fall with state or somatic
+    anxiety, and random exploration shows no relation to anxiety. The
+    promote_when moves unchanged to QUESTION-tmphqi9f, as THEORY-285's
+    did to QUESTION-303. CLAIM-446 no longer lists this reading in
+    grounds, and its converse supports is removed (ADR-058): it is a
+    reading that narrows its evidence-acquisition clause rather than
+    supporting it. The claim's body still cites it.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
@@ -22,6 +30,8 @@ tags:
 date: '2026-10-24'
 source:
 - LIT-1483
+bears_on:
+- QUESTION-tmphqi9f
 summary: >-
   Chou, Wilson & Smith (preprint June 2024; NBR 2024), [LIT-1483](../literature.d/LIT-1483.md), read
   in full from the PsyArXiv preprint in [NOTE-1127](../notes.d/NOTE-1127.md). A narrative review;
@@ -29,12 +39,10 @@ summary: >-
   different tasks, models and anxiety measures, with one failed
   replication and one null. The authors hedge it with "may" and "many
   results could be seen to suggest".
-supports:
-- CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-907 — Proposed; the claim and companion reading this bears on, named -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and companion reading this bears on, named -->
 
-# THEORY-917: Across computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples and not yet replicated, directed exploration tends to rise with trait or cognitive anxiety and to fall with state or somatic anxiety, and random exploration shows no relation to anxiety
+# THEORY-917: Chou, Wilson and Smith read about eight computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples, with mixed results and none replicated, as suggesting that directed exploration rises with trait or cognitive anxiety and falls with state or somatic anxiety; none they review links random exploration to anxiety
 
 ## Source
 

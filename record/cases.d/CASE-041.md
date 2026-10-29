@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpp6j2b
 title: 'FID and Projected GANs: one ImageNet-trained probe family used both to train a generator and to evaluate it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CLAIM-149 removed from illustrates by the thirteenth status review
+    (ADR-057): it was listed both there and under supports, and this case
+    grounds that claim. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -13,7 +20,6 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 illustrates:
-- CLAIM-149
 - CLAIM-142
 - CLAIM-011
 summary: >-

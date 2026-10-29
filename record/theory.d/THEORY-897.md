@@ -1,28 +1,34 @@
 ---
 number: 897
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp0vr2q
-promote_when: >-
-  A systematic search with a meta-analysis or a large preregistered study,
-  in people with fear-based anxiety disorders against controls, showing
-  that what differs is the adjustment of learning rate to the kind of
-  uncertainty (noise against volatility), mainly for aversive outcomes,
-  while overall learning rate, choice consistency and outcome valuation do
-  not differ; and the version of record read and found to report the same
-  synthesis. It is refuted if such a search finds the differences
-  inconsistent in direction across tasks, or finds inflated aversive
-  learning rates or valuation that the uncertainty account does not
-  predict. More single studies chosen by the authors' knowledge of the
-  literature cannot settle it.
-title: "Across seven computational learning studies selected without a systematic search, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it"
-version: 1
+title: 'In Brown, Price and Dombrovski''s reading of seven computational learning studies they selected without a systematic search, with mixed directions, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1120). Narrowed: the synthesis
+    is attributed to the authors, whose Table 2 the record read but
+    whose seven studies it did not. The old title: Across seven
+    computational learning studies selected without a systematic search,
+    anxiety goes with altered adjustment of learning rate to
+    uncertainty, mostly for aversive outcomes, while overall learning
+    rate, choice consistency and outcome valuation show little relation
+    to it. The promote_when moves unchanged to QUESTION-tmpgv8c7, as
+    THEORY-285's did to QUESTION-303. CLAIM-446 now lists this reading
+    under corroborated_by, not grounds (ADR-058): the claim's argument
+    does not rest on it.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
 date: '2026-10-24'
 source:
 - LIT-1479
+bears_on:
+- QUESTION-tmpgv8c7
 summary: >-
   Brown, Price & Dombrovski (2023; preprint 2022), [LIT-1479](../literature.d/LIT-1479.md), read in
   full from the NIH author manuscript in [NOTE-1120](../notes.d/NOTE-1120.md). Their Table 2 and
@@ -31,12 +37,12 @@ summary: >-
   noise they learn too fast, an effect the authors call less consistent.
   A narrative review of seven studies, not a meta-analysis; the reading
   that anxiety cannot tell noise from change is the authors'.
-supports:
+corroborates:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-910 — Proposed; the claim this bears on and the companion filed from the same reading, named -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim this bears on and the companion filed from the same reading, named -->
 
-# THEORY-897: Across seven computational learning studies selected without a systematic search, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it
+# THEORY-897: In Brown, Price and Dombrovski's reading of seven computational learning studies they selected without a systematic search, with mixed directions, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it
 
 ## Source
 

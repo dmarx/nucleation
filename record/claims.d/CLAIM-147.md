@@ -116,3 +116,12 @@ separate question.
   remedy, "a small, independently validated set of tropes" and evaluation
   "on held-out trope families", would meet that objection if it were
   carried out.
+
+## Note of 2026-10-29: what holds it back
+
+The result its defeat condition names is missing. No study in the record
+compares relational measures against surface or embedding similarity as
+predictors of human judgements of trope identity on recasts. A155's test
+with held-out trope families, which A178 kept as Study B, has never been
+run. The other route is the owner's ruling that the characterization is held
+as a definition, with the test bearing only on its use.

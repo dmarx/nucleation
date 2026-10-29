@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppvvyq
 title: 'Serial transmission is reconstructive and filtered by the transmitters'' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,6 +12,14 @@ history:
     THEORY-489 added to grounds. The section on evidence from human
     chains argues from the Kalish, Griffiths and Lewandowsky result, which
     that THEORY now states with its limits. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    LIT-768 (Bartlett) removed from grounds by the thirteenth status
+    review (ADR-058): it is cited only because the manuscript cites
+    it, and the claim says it is unread here, so the body's citation
+    is the link. LIT-768's supports entry for this claim is removed.
+    The claim is unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -30,7 +38,6 @@ grounds:
 - THEORY-155
 - LIT-769
 - LIT-771
-- LIT-768
 - THEORY-489
 summary: >-
   The manuscript's §8, citing Bartlett, Griffiths and Kalish, and Kirby,
@@ -41,7 +48,7 @@ supports:
 illustrated_by:
 - CASE-068
 ---
-<!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, cited from the manuscript and said to be unread -->
+<!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, cited from the manuscript and said to be unread, no ground here -->
 
 # CLAIM-090: Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable
 
@@ -67,3 +74,14 @@ a bias stated before the experiment, mostly whatever the starting function.
 Two of the eight negative-start families ended on the negative linear
 function, which is partial counter-evidence. The prior was taken from
 earlier studies rather than measured on these learners.
+
+## Note of 2026-10-29: what holds it back
+
+The claim's general form, that transmission is filtered by the transmitters'
+inductive biases, waits on a chain whose endpoint matches a prior measured
+on its own transmitters before transmission ([QUESTION-137](../questions.d/QUESTION-137.md)). [THEORY-489](../theory.d/THEORY-489.md)'s
+chains converge on a bias taken from earlier studies and do not tell
+sampling learners from MAP learners. [CASE-068](../cases.d/CASE-068.md)'s priors were measured after
+the experiment (Moussaïd), or predict less than the received message
+(Jagiello and Hills). [ARG-035](../arguments.d/ARG-035.md), from the two readings the manuscript cites,
+is Proposed because it holds only for sampling learners.

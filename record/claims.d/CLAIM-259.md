@@ -1,10 +1,27 @@
 ---
 number: 259
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpz239h
-title: 'The decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order'
-version: 1
+title: 'For report fidelity, the decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the thirteenth status review (ADR-057), at
+    the status review's ruling (the owner delegated these rulings). Its
+    premises are Active since CLAIM-326's promotion, nothing objects to
+    it, and nothing in the record meets its defeat condition. The body
+    already left re-performance to QUESTION-005, and the title now says
+    so, in the scope of CLAIM-050 rather than leaning on CLAIM-212. Step
+    (b) now says the source's outcome space must be standard Borel. The
+    old title: 'The decision term should be the positive part of the risk
+    increase on the same decision problem, with losses in [0, 1] and a
+    stated prior; so restated it is directed, counts no improvement as
+    loss, and vanishes for every problem and prior exactly when the
+    rendering is at least as informative as the source in Blackwell's
+    order'.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,12 +61,11 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-028 — applied unnamed: the decision term is inferential sufficiency, risk on the same decision problem -->
 <!-- ref::uses-file: TERM-043 — applied unnamed: the restated D_dec is the decision component of the profile -->
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's theorem the derivation uses, not as settled -->
 <!-- inactive-ok-file: CLAIM-212 — Proposed; the report/re-performance distinction, cited as open -->
 <!-- inactive-ok-file: CLAIM-258 — Proposed; open, cited for its worked case -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named for the constants and not leaned on -->
 
-# CLAIM-259: The decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order
+# CLAIM-259: For report fidelity, the decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order
 
 ## What it answers
 
@@ -94,7 +110,8 @@ them. Rescaling a bounded loss to [0, 1], by L ↦ (L − m)/(M − m) with m an
 M its least and greatest values, rescales every Bayes risk by the same
 increasing affine map, so the inequality holds for every bounded loss. By
 the Bayes form of Blackwell's theorem for finitely many states ([THEORY-156](../theory.d/THEORY-156.md)),
-V is then at least as informative as U. So D⁺(U → V; ·) vanishes for every
+V is then at least as informative as U. The form the record holds needs
+the source's outcome space to be standard Borel ([CLAIM-326](CLAIM-326.md)). So D⁺(U → V; ·) vanishes for every
 problem and prior exactly when the rendering loses nothing the source
 offered. A rendering that is a strict garbling has D⁺(U → V) > 0 for some
 problem and prior, and D⁺(V → U) = 0 for all.

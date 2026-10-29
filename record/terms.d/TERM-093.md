@@ -1,12 +1,26 @@
 ---
 number: 93
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpo91ac
 complements:
 - TERM-089
 title: 'correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The thirteenth status review (ADR-057). The 'formed' row is restated
+    as map, not kernel. Version 1's row read: 'formed | physical
+    interconnection fixes which joint behaviour is admissible | Baez and
+    Fong's port conditions, NOTE-1223'. That defined forming by a
+    constraint on states, which the term sets apart from a
+    correspondence structure. Now the wiring sets the maps and the
+    junction law is background, as CLAIM-471 reads Baez and Fong.
+    Adopted at the status review's ruling (the owner delegated these
+    rulings): CLAIM-471 and CLAIM-474 state in it which sense they mean,
+    which is its settle condition.
 tags:
 - complex-systems
 - mathematics
@@ -21,8 +35,9 @@ summary: >-
   that moves the states. How a correspondence structure is held is one of
   three ways: formed by physical interconnection, discovered by
   measurement, or adapted by an apparatus. A claim using "gluing" should
-  say which. Proposed: the word has been used in four entries in one
-  evening, and the owner's review turned on keeping its senses apart.
+  say which. Adopted at the thirteenth status review, once the formed
+  sense was stated as the maps that wiring sets and not the joint
+  behaviour they admit.
 ---
 <!-- inactive-ok-file: CLAIM-471 CLAIM-474 CLAIM-481 CLAIM-480 QUESTION-282 CASE-179 — Proposed, Open or new; the entries this term serves -->
 
@@ -42,9 +57,16 @@ It is held in one of three ways ([CLAIM-471](../claims.d/CLAIM-471.md)):
 
 | how held | what it is | example the record has read |
 |---|---|---|
-| **formed** | physical interconnection fixes which joint behaviour is admissible | Baez and Fong's port conditions, [NOTE-1223](../notes.d/NOTE-1223.md) |
+| **formed** | physical interconnection fixes the maps: joining systems identifies some of their variables, so which local quantities must agree, and on what shared space, is set by how they are connected, while the law that holds at a junction is fixed beforehand | Baez and Fong's wiring, [NOTE-1223](../notes.d/NOTE-1223.md): a map of terminals such as {1, 2} → {3} sets the joined potentials equal and adds the currents (Example 5.17), under the same Kirchhoff condition at every junction |
 | **discovered** | measurement establishes a correspondence that already held | Singer's relative angles, [NOTE-1224](../notes.d/NOTE-1224.md); Robinson's geometric maps, [NOTE-1221](../notes.d/NOTE-1221.md) |
 | **adapted** | an apparatus revises its own rules of comparison | discourse sheaves, [NOTE-1222](../notes.d/NOTE-1222.md) |
+
+Forming sets which maps hold where. The joint behaviour they admit is their
+kernel, a constraint on states, and that is what [CLAIM-471](../claims.d/CLAIM-471.md)'s physical
+constraint formation names; the term keeps the two apart as map and kernel.
+Whether interaction among systems already connected ever changes the maps
+themselves, rather than which fixed kind of map holds on which edge, is
+[QUESTION-282](../questions.d/QUESTION-282.md).
 
 ## The distinctions it draws
 
@@ -63,7 +85,7 @@ It is held in one of three ways ([CLAIM-471](../claims.d/CLAIM-471.md)):
   not itself produce ([CLAIM-143](../claims.d/CLAIM-143.md)). Adaptation can succeed at agreement by
   changing what is compared ([THEORY-1088](../theory.d/THEORY-1088.md)).
 
-## Why it is proposed
+## Why it was proposed
 
 The word was doing three jobs in one claim before the owner's review separated
 them, and four entries filed the same evening use it. [QUESTION-282](../questions.d/QUESTION-282.md) asks
@@ -71,12 +93,3 @@ when interaction changes the operative structure, and it needs the term to ask
 it. What would settle it: adoption if claims cite it to say which sense they
 mean; rejection if "gluing" and "compatibility" carry the distinction without
 it.
-
-## Note of 2026-10-29: what holds it back
-
-The "formed" sense is defined by what interconnection does to admissible
-joint behaviour. That is a constraint on states, which this term sets
-apart from a correspondence structure, and [CLAIM-471](../claims.d/CLAIM-471.md) reads its example,
-Baez and Fong's port condition, as background rather than formed. Until
-the row says what forming a correspondence structure is, or [QUESTION-282](../questions.d/QUESTION-282.md)
-finds an instance, the three ways of holding it are not settled.

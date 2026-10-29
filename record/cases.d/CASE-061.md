@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpa82q4
 title: 'Wonder-working power: one hymn phrase in a national address, heard as faith by those who sing it and as boilerplate by others'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The circularity point, that trope descriptions are written to fit
+    their examples, was cited to CLAIM-145; since 2026-10-28 it is
+    ARG-014 (ADR-061), so the citation now points there (thirteenth
+    status review, ADR-057). The entry is unchanged otherwise.
 standing: documented
 kind: specimen
 tags:
@@ -27,7 +35,8 @@ summary: >-
   [CASE-064](CASE-064.md), illustrating [CLAIM-224](../claims.d/CLAIM-224.md) without translation.
 ---
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the objection this case illustrates, and the intention-based objection whose reply it meets, open -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-145 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, and the objection on TV Tropes labels, cited as open -->
+<!-- inactive-ok-file: CLAIM-151 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, cited as open -->
+<!-- inactive-ok-file: ARG-014 — Rejected; the verdict that labels written to fit their examples cannot validate the account -->
 
 # CASE-061: Wonder-working power: one hymn phrase in a national address, heard as faith by those who sing it and as boilerplate by others
 
@@ -166,7 +175,7 @@ What they offer: hundreds of naturally occurring lines with identical
 wording and a named pair of audiences. What they lack: any record of either
 audience's uptake. Each split is asserted by an editor who belongs to the
 knowing audience, few entries cite anything, and descriptions are written to
-fit examples ([CLAIM-145](../claims.d/CLAIM-145.md)). They are candidates, not evidence. For
+fit examples ([ARG-014](../arguments.d/ARG-014.md)). They are candidates, not evidence. For
 [CASE-055](CASE-055.md) they could supply items for an arm with no rendering: lines
 drawn by a stated sampling rule, the hearer's membership in the knowing
 audience varied as a situation, and the act labelled by raters who did not

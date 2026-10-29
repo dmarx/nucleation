@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpew698
 title: "With finitely many states and finitely many outcomes, the positive part of the Bayes-risk increase on the same decision problem is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source, and has A86's D_Q as its symmetrization"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -17,6 +17,12 @@ history:
     THEORY-156, which is Proposed. This claim is steps (a) to (d) on the
     finite case, which is the case coded renderings fall in. CLAIM-326
     keeps the general statement and rests on it.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The inactive-ok directive no longer names CLAIM-326 and THEORY-156,
+    both Active since the twelfth and thirteenth status reviews (ADR-057).
+    The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -48,7 +54,7 @@ summary: >-
   Theorem 6 ([THEORY-717](../theory.d/THEORY-717.md)). It does not cover outcome spaces that are not
   finite, or say this is the right decision term.
 ---
-<!-- inactive-ok-file: CLAIM-326 CLAIM-259 THEORY-156 — Proposed; the general statement this was split from, the proposal it supports, and the general converse this does not use, cited as open -->
+<!-- inactive-ok-file: CLAIM-259 — Proposed; the proposal it supports, cited as open -->
 
 # CLAIM-380: With finitely many states and finitely many outcomes, the positive part of the Bayes-risk increase on the same decision problem is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source, and has A86's D_Q as its symmetrization
 
