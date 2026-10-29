@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp1bt6j
 title: 'Beyond what retention, dynamical independence and Ψ are known to track, can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-20'
@@ -44,6 +44,14 @@ history:
     (NOTE-tmp0q96y); EI's family of interventions passes
     coarse-grainings that fail A21's admissibility condition. The
     question is unchanged.
+- version: 7
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: causal feature learning read
+    (NOTE-tmpiw2bv, NOTE-tmpbrnim), a further macrostate
+    criterion; it parts from EI on Eberhardt and Lee's (14) and
+    note 6, and agrees with EI under a common distribution
+    (THEORY-tmpyfcov). The question is unchanged.
 tags:
 - individuation
 - information-theory
@@ -238,5 +246,26 @@ On where effective information parts from the other criteria: under one
 distribution over micro states at both levels, EI cannot favour a macro at
 all ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)). Its macro advantage is a property of the
 distribution chosen at each level.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-10-29: causal feature learning, a further macrostate criterion
+
+Causal feature learning, LIT-tmplfiq6 (NOTE-tmpiw2bv) and LIT-tmpmefe6
+(NOTE-tmpbrnim), is a further candidate for the macrostate leg, and it
+parts from effective information on one system. It partitions causes by
+P(Y | do(x)) and effects by their columns, two partitions where Hoel's EI
+coarsens cause and effect by one. On Eberhardt and Lee's (14), EI picks
+{x₁, x₂}, {x₃} and causal feature learning the micro. On their note 6,
+causal feature learning merges x₂ and x₃, whose rows are identical, and
+EI's shared partition cannot. Under one distribution at both levels the
+two agree on which coarse-grainings lose nothing (THEORY-tmpyfcov), so the
+disagreement belongs to the uniform distribution at each level, as the
+earlier note of this date found for EI's macro advantage.
+
+Like the other macrostate candidates, it partitions one system's states,
+not which variables are in the system. It has no Occam term: it takes the
+coarsest partition that loses nothing and offers no trade of loss against
+size.
 
 The question is unchanged and stays Open.

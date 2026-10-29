@@ -142,3 +142,42 @@ does not say").
 A move to Rejected, or a narrowing of this account to measures that data
 processing does not bound, is proposed and left to the owner. The status
 and the title are unchanged.
+
+## Note of 2026-10-29: the independent interventionist test, and what it can show
+
+The promote_when asks, beside a common distribution, that the EI-optimal
+coarse-graining agree "with an independent interventionist test of which
+level the effects track (realization insensitivity under changes of
+realizer)". Causal feature learning is that test: Chalupka, Perona and
+Eberhardt, LIT-tmplfiq6 (NOTE-tmpiw2bv), and their overview, LIT-tmpmefe6
+(NOTE-tmpbrnim). Two micro causes share a macro state iff manipulating to
+either has the same effect, and no distribution over interventions enters.
+
+Its verdict bears on this account in two ways.
+
+- **It cannot confirm the account.** On a transition matrix the causal
+  partition is the coarsest description whose manipulations are
+  unambiguous. The micro description is never worse, only finer: it
+  "contains no more causal information", and it loses none. So the test
+  can confirm that a macro is proportionate, where micro rows are exactly
+  equal, as in Eberhardt and Lee's (11), Hoel's example, and never that
+  causation emerges at the macro or that the macro beats the micro.
+  THEORY-tmpyfcov (Active) makes the link to EI exact: under one
+  full-support distribution at both levels, the coarse-grainings that keep
+  all of the micro EI are exactly the causal partitions and their
+  refinements, whatever the distribution. The ties THEORY-tmphfpe7 allows
+  are these, and nothing exceeds them.
+- **It disagrees with the EI this account rests on.** Hoel's EI, uniform
+  at each level, merges causes with different rows on Eberhardt and Lee's
+  (13) and (14), and on their note 6 it keeps identical rows apart. On
+  those matrices the agreement the promote_when asks for fails. They are
+  hand-built, which by the promote_when's terms cannot settle it, and Hoel
+  2013's own examples (THEORY-222) were not recomputed.
+
+The test also needs exact equality. With estimated rows, causal feature
+learning merges by a distance threshold, a choice THEORY-tmpyfcov does not
+make.
+
+Nothing here moves the account toward promotion. The status and the title
+are unchanged. The move to Rejected, or the narrowing, that the earlier
+note of this date proposed is still the owner's call.

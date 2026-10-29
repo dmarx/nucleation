@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp29kxz
 title: 'When cooperation across a relation''s prevailing perspective changes how one party takes the other, does it change only the state of that party''s interpretive organization or also its coupling, how far outcomes may revise the governing interpretation, and can taking part be told experimentally from receiving information of equal favourable content?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,13 @@ history:
     Lemmer and Wagner (NOTE-tmpgbgvt) read; a behavioural outcome
     without the information contrast, and a between-study comparison
     of observing against taking part. The question is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Cernat 2011 (LIT-tmph031e),
+    registered Unfetched and noted from its abstract, unread;
+    every arm reads a story and none takes part, so the third part
+    still has no within-study test. The question is unchanged.
 tags:
 - social-science
 - complex-systems
@@ -34,6 +41,7 @@ summary: >-
   generated and transformed, to one mechanism, [CLAIM-430](../claims.d/CLAIM-430.md)'s invitation,
   and one distinction, [CLAIM-429](../claims.d/CLAIM-429.md)'s state against coupling.
 ---
+<!-- inactive-ok-file: LIT-tmph031e — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
 
 # QUESTION-262: When cooperation across a relation's prevailing perspective changes how one party takes the other, does it change only the state of that party's interpretive organization or also its coupling, how far outcomes may revise the governing interpretation, and can taking part be told experimentally from receiving information of equal favourable content?
 
@@ -125,3 +133,23 @@ The question is unchanged and stays Open.
   there is no comparison within a study.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-10-29: Cernat 2011, from its abstract
+
+Cernat 2011, LIT-tmph031e, was registered as a candidate for this
+question's third part. It is Unfetched and unread, and this note rests on
+its abstract and the method text a search engine indexes. All three arms
+read, and none takes part, so it cannot tell taking part from receiving
+information of equal favourable content. What it varies is the content:
+whether the Roma exemplar's friend in the story belongs to the reader's
+own group (a Romanian) or to another outgroup (a Bulgarian). Per the
+abstract, the outgroup–outgroup story was enough to improve attitudes
+toward Roma, and the ingroup–outgroup story did more, through group
+emotions. That bears on what "equal favourable content" would have to
+match if the contrast were drawn: whether the information shows one's own
+group in the relation. On the measurement demand it adds nothing: the
+measures the abstract names are attitudes, anxiety, norms and emotions,
+none of them conduct.
+
+The third part still has no within-study test. The question is unchanged
+and stays Open.

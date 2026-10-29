@@ -2,7 +2,7 @@
 status: Read
 paper: 'LIT-tmpn3fwx'
 title: 'Lemmer and Wagner — Can we really reduce ethnic prejudice outside the lab?'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -22,6 +22,14 @@ history:
     participants; 8 + 17 = 25, 1,186 + 464 = 1,650), the subtype counts
     against the type counts, and Tables 1–3 against the text; the
     discrepancies are listed under Limitations.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: of the two references Limitations
+    says share a venue, Cernat (2011) is the wrong one; it is The
+    Journal of Social Psychology 151(6), 737–753 (LIT-tmph031e,
+    Unfetched). From its abstract, unread, it is not the
+    within-study test Open questions asks for.
 date: '2026-10-29'
 summary: >-
   Contact programmes run outside the laboratory improve self-reported
@@ -34,6 +42,7 @@ summary: >-
   behaviour.
 ---
 <!-- inactive-ok-file: CLAIM-430 — Proposed; the claim whose defeater this reading bears on, cited as open -->
+<!-- inactive-ok-file: LIT-tmph031e — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
 
 # NOTE-tmpgbgvt: Lemmer and Wagner — Can we really reduce ethnic prejudice outside the lab?
 
@@ -220,3 +229,26 @@ No instruction for machine-learning practice; nothing for the anthology.
   with cooperative contact on matched content, on behaviour, after a
   delay? That is the test [CLAIM-430](../claims.d/CLAIM-430.md)'s defeater asks for.
 - Is the virtual null about the medium or about the studies (k = 8)?
+
+## Note of 2026-10-29: which of the two references is wrong
+
+Limitations says the reference list gives Cernat (2011) and Ertmer et al.
+(2011) the same journal, volume and pages, Internet and Higher Education
+14, 251–261, and that one of them is wrong. It is Cernat's. Checked
+against Crossref and PubMed (LIT-tmph031e's history), Cernat's article is
+in The Journal of Social Psychology 151(6), 737–753,
+doi:10.1080/00224545.2010.522622, and Crossref gives Internet and Higher
+Education 14, 251–261 to Ertmer, Newby, Yu et al.,
+doi:10.1016/j.iheduc.2011.05.005. So Cernat's entry carries Ertmer et
+al.'s venue. The typeset article's list was not checked, so whether the
+error survives there is not known.
+
+Open questions names a within-study comparison of extended contact with
+cooperative contact as the test CLAIM-430's defeater asks for. Cernat, the
+candidate this reading named, is registered as LIT-tmph031e, Unfetched. It
+is unread, and from its abstract it is not that test: all three arms read
+a story and none takes part; it compares a Roma exemplar's friendship with
+a member of the reader's own group against one with a member of another
+outgroup. Whether it is among the eight extended-contact comparisons was
+not checked, since the Supporting Information, which lists the
+comparisons, was not read.

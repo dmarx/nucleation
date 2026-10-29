@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp3zal3
 title: "Does a macro description's effective-information advantage survive when the same intervention distribution over micro states is used at both levels, and does the EI-optimal level agree with an independent interventionist test of which level the effects track?"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -14,6 +14,15 @@ history:
     both levels, macro EI cannot exceed micro EI, by data
     processing. The second half is open, and the question stays
     Open.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the second half has its test, causal
+    feature learning (NOTE-tmpiw2bv, NOTE-tmpbrnim), and a partial
+    answer, THEORY-tmpyfcov: EI under one common distribution ties
+    the micro exactly at its partitions and their refinements;
+    Hoel's EI, uniform at each level, parts from it on Eberhardt
+    and Lee's (13), (14) and note 6. The question stays Open.
 tags:
 - causality
 - information-theory
@@ -91,3 +100,48 @@ The bound is for EI. Measures that data processing does not bound,
 per-transition ones or ones normalized by log₂ n, can rise at a macro
 under a common distribution; they are not what this question asks about.
 [THEORY-787](../theory.d/THEORY-787.md) is noted the same day. The question stays Open.
+
+## Note of 2026-10-29: the second half has its test, and a partial answer
+
+The earlier note of this date left the second half open. It now has the
+independent interventionist test it asks for, and part of an answer.
+
+The test is causal feature learning: Chalupka, Perona and Eberhardt,
+LIT-tmplfiq6 (NOTE-tmpiw2bv), and their overview, LIT-tmpmefe6
+(NOTE-tmpbrnim). Its causal partition puts two micro causes in one macro
+state iff manipulating to either has the same effect, P(Y | do(x₁)) =
+P(Y | do(x₂)), and partitions effects likewise. That is realization
+insensitivity under changes of realizer, stated exactly, and it is
+independent of EI-type choices: the authors put no distribution on
+interventions, and the partition is defined from point manipulations
+alone.
+
+The partial answer is THEORY-tmpyfcov (Active). Under one full-support
+distribution over micro causes at both levels, a coarse-graining keeps all
+of the micro EI iff it merges only causes with identical rows P(Y | do(x))
+and only effects with proportional columns, whatever the distribution. So
+the coarse-grainings at which EI under a common distribution ties the
+micro are exactly the causal-feature-learning partitions, with effects
+grouped by normalized likelihood, and their refinements. On which
+coarse-grainings lose nothing, the two agree. The agreement is derived,
+and checked numerically on 245,394 cases, not read off a toy.
+
+Two limits keep the question Open.
+
+- Hoel's EI, uniform at each level, whose optimum is the one the question
+  names, does not agree. On Eberhardt and Lee's (11) the two pick the same
+  macro, since rows 1–7 are identical. On their (13) and (14), EI merges
+  causes whose rows differ, which the causal partition keeps apart; on
+  their note 6, EI keeps apart x₂ and x₃, whose rows are identical,
+  because it coarsens cause and effect by one partition. These are
+  hand-built matrices, which by this question's terms cannot settle
+  agreement in general, and Hoel 2013's own examples (THEORY-222) were not
+  recomputed.
+- Under a common distribution the micro always ties, so the EI-optimal
+  level is at best the coarsest tie. That is the causal partition: the
+  proportionate description, not one with more causation. And the
+  agreement needs exact equality of rows. With estimated rows only the
+  micro ties, and causal feature learning merges by a distance threshold,
+  a choice THEORY-tmpyfcov does not make.
+
+The question is unchanged and stays Open.

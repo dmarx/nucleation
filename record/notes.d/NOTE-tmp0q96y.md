@@ -2,7 +2,7 @@
 status: Read
 paper: 'LIT-tmpr2bnp'
 title: 'Eberhardt and Lee — Causal emergence: when distortions in a map obscure the territory'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -20,6 +20,14 @@ history:
     first row (0.8, 0.1, 0.1), (17), (17)² and note 6's matrix, and the
     row sums of (13). Hoel 2017, the paper criticized, was not read; its
     definitions are taken as this paper restates them.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: causal feature learning, which
+    Connections calls not registered, is registered and read
+    (LIT-tmplfiq6, NOTE-tmpiw2bv; LIT-tmpmefe6, NOTE-tmpbrnim);
+    THEORY-tmpyfcov computes its partitions on this paper's
+    matrices.
 date: '2026-10-29'
 summary: >-
   Under Hoel's effective information, with uniform interventions at each
@@ -206,3 +214,21 @@ No instruction for machine-learning practice; nothing for the anthology.
 - Does a fixed, system-given intervention family exist on which EI's
   level and a proportionality test can be compared on a system not built
   for it?
+
+## Note of 2026-10-29: causal feature learning, registered and read
+
+Connections calls the alternative this paper recommends, Chalupka, Perona
+and Eberhardt's causal feature learning, not registered. That is out of
+date. It is registered and read: the AISTATS 2016 paper, LIT-tmplfiq6
+(NOTE-tmpiw2bv), and the overview, LIT-tmpmefe6 (NOTE-tmpbrnim). The
+record's THEORY-tmpyfcov, filed from those readings, takes the step this
+paper leaves undone. Under one full-support distribution at both levels, a
+coarse-graining keeps all of the micro EI iff it merges only causes with
+identical rows and only effects with proportional columns, which are
+causal feature learning's partitions. On this paper's matrices: (11)'s
+causal partition is EI's choice, {1–7}, {8}; in (13) and (14) all rows
+differ, so the causal partition is the micro and EI's merges are lossy;
+note 6's identical rows are merged by the causal partition and kept apart
+by EI. So the paper's recommendation is borne out on which
+coarse-grainings lose nothing. Hoel 2017, also called not registered,
+still is not.

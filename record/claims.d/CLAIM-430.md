@@ -49,6 +49,7 @@ summary: >-
 bears_on:
 - QUESTION-259
 ---
+<!-- inactive-ok-file: LIT-tmph031e — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
 
 # CLAIM-430: An interaction can make available a way of relating that its participants' operative perspectives did not hold, by giving each a role to enact in it, so that taking part can come before, and help produce, the reinterpretation it later seems to express; whether the change stays with the partner, generalizes to a category, or is reproduced beyond the encounter are further questions
 
@@ -174,3 +175,29 @@ earlier note of this date says.
   is not tested either.
 
 Neither meets the defeater. The claim is unchanged and stays Proposed.
+
+## Note of 2026-10-29: Cernat 2011, from its abstract, not the test
+
+Cernat 2011, LIT-tmph031e, was registered because the reading of Lemmer
+and Wagner (NOTE-tmpgbgvt) named it as possibly the nearest within-study
+test of this claim's second defeater. It is Unfetched and unread. What
+follows rests on its abstract and on the method text a search engine
+indexes, not on the article.
+
+It is not that test. The "interaction" in its title is between two
+characters in a story, not between the participant and anyone. All three
+arms read: a story of a close friendship between a Roma and a Romanian,
+one of the participants' own group; the same story with a Bulgarian, of
+another outgroup, in the Romanian's place; or the control's text. No arm
+takes part, so the contrast is between kinds of information, not between
+information and taking part. Per the abstract, the outgroup–outgroup story
+was enough to improve attitudes toward Roma and to lower intergroup
+anxiety, and the ingroup–outgroup story had stronger and broader effects,
+through group emotions rather than anxiety or norms. That says which
+favourable content works best, not whether favourable content does as much
+as enactment. The measures the abstract names are attitudes, anxiety,
+norms and emotions; none is conduct.
+
+The amended sentence of the earlier note stands: the defeater has no
+within-study test. Neither defeater is met. The claim is unchanged and
+stays Proposed.
