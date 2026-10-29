@@ -11,7 +11,17 @@ promote_when: >-
   on criminal history. A review by the instrument's author, however
   thorough, cannot settle it.
 title: 'Psychopathy as the PCL-R measures it is one dimensional construct rather than a type: its items form four correlated factors, interpersonal, affective, lifestyle and antisocial, explained by one superordinate factor, and its affective features are tied psychometrically, genetically and longitudinally to its antisocial ones, so that no one component is its essence'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The twelfth status review (ADR-057, ADR-058) added a dated note
+    saying what holds it back. CLAIM-431 no longer lists this reading
+    under grounds, since it cites it only under "What would answer it",
+    so CLAIM-431 is removed from the supports list; bears_on adds
+    QUESTION-265, the question it was filed for (ADR-060). The account
+    and its status are unchanged.
 tags:
 - psychopathology-and-treatment
 - moral-psychology
@@ -29,8 +39,9 @@ summary: >-
   the record's question on corporate psychopathy, which asks which of
   these features could be said of a corporation.
 supports:
-- CLAIM-431
 - CLAIM-432
+bears_on:
+- QUESTION-265
 ---
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the record's own claims this reading bears on, filed in this batch -->
 <!-- inactive-ok-file: LIT-1430 LIT-1431 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
@@ -104,3 +115,12 @@ The record's question on corporate psychopathy ([QUESTION-265](../questions.d/QU
 reading ([CLAIM-432](../claims.d/CLAIM-432.md)) and the objection to it ([CLAIM-431](../claims.d/CLAIM-431.md)). Bakan's
 *The Corporation* ([LIT-1430](../literature.d/LIT-1430.md)) applies the checklist to the corporation;
 Boddy ([LIT-1431](../literature.d/LIT-1431.md)) applies it to people in corporations.
+
+## Note of 2026-10-29: what holds it back
+
+The structure is stated as fact on one review by the instrument's author,
+whose evidence is largely forensic and several of whose antisocial items
+read criminal history. It waits on the four-factor, one-superordinate
+structure replicated by researchers independent of the instrument, and on
+the affective–antisocial ties shown in non-forensic samples measured
+without criminal history.

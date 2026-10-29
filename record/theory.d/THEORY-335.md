@@ -1,23 +1,30 @@
 ---
 number: 335
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp9h2k0
-promote_when: >-
-  A design whose measure of accessibility is first shown sensitive, by
-  detecting direct priming of the same knowledge in the same setting, used
-  between the comparison and the estimate with anchor-consistent and
-  anchor-inconsistent knowledge measured separately. It promotes the account
-  if anchor-consistent knowledge is measurably more accessible after the
-  comparison and that difference goes with the size of the estimate shift;
-  it refutes the accessibility step if the sensitive measure shows no change
-  while anchoring is present. A design that separates a recalled candidate
-  answer from accessible knowledge as the carrier also bears on it. More
-  moderation by applicability or plausibility, latency patterns, coded free
-  reports, or another lexical-decision null with an insensitive task cannot
-  settle it: they infer accessibility, or cannot detect it.
-title: "Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming"
-version: 1
+title: "Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits the moderations of the effect by applicability, representativeness and plausibility that Strack and Mussweiler found, but its accessibility step is inferred, not measured: Harris et al.'s repetition of the recognition test of it, four times by lexical decision and once by continuous identification, found nothing in five preregistered experiments, with tasks that also missed direct picture priming"
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the twelfth status review (ADR-057; ADR-047's evidence
+    ruling, studies read in full for a title that claims no more than
+    they showed). Both sources were read in full (NOTE-877, NOTE-876).
+    The title already claimed only the moderations and the failed test;
+    it now names whose findings each are, and corrects "lexical
+    decision" for the fifth experiment, which used continuous
+    identification. The old title: Selective accessibility, the account
+    that comparing a target with a plausible anchor makes
+    anchor-consistent knowledge more accessible and that this knowledge
+    carries anchoring, fits moderations of the effect by applicability,
+    representativeness and plausibility, but its accessibility step has
+    not been measured: the lexical-decision test of it found nothing in
+    five preregistered experiments, with a task that also missed direct
+    priming. The promote_when asked whether the account is true, which
+    the title does not claim. It moves unchanged to QUESTION-tmpwz0fb,
+    as THEORY-285's did to QUESTION-303.
 tags:
 - cognition
 - social-science
@@ -31,8 +38,8 @@ summary: >-
   fixed the effect depends on whether the knowledge used to compare applies
   to the later estimate, and that plausible anchors slow the comparison and
   speed the estimate. Accessibility is inferred, never measured. Harris et
-  al. (2019), [LIT-1067](../literature.d/LIT-1067.md), read in [NOTE-876](../notes.d/NOTE-876.md), repeated the lexical-decision test
-  of the accessibility step (Mussweiler & Strack 2000a, not held) five times
+  al. (2019), [LIT-1067](../literature.d/LIT-1067.md), read in [NOTE-876](../notes.d/NOTE-876.md), repeated the recognition test
+  (lexical decision, once continuous identification) of the accessibility step (Mussweiler & Strack 2000a, not held) five times
   at N = 128: anchoring was large and recognition of anchor-consistent words
   never moved (BF01 ≈ 21), but the same tasks missed direct picture priming.
   So the direct evidence is removed, not reversed; the account is neither
@@ -42,11 +49,12 @@ supports:
 - CLAIM-315
 bears_on:
 - QUESTION-109
+- QUESTION-tmpwz0fb
 ---
 <!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# THEORY-335: Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming
+# THEORY-335: Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits the moderations of the effect by applicability, representativeness and plausibility that Strack and Mussweiler found, but its accessibility step is inferred, not measured: Harris et al.'s repetition of the recognition test of it, four times by lexical decision and once by continuous identification, found nothing in five preregistered experiments, with tasks that also missed direct picture priming
 
 ## Source
 
@@ -134,5 +142,6 @@ support from the method "is not a strong part of the evidence base".
   question's path-dependence worry: the carrier outlasts brief lexical
   activation.
 - [CLAIM-298](../claims.d/CLAIM-298.md) (whose psychological form is now [CLAIM-315](../claims.d/CLAIM-315.md)) cites this account as the psychological form of its thesis and
-  restates its defeat condition on the same terms as promote_when here: a
-  measure first shown sensitive to direct priming.
+  restates its defeat condition on the same terms as this account's former
+  promote_when, now QUESTION-tmpwz0fb: a measure first shown sensitive to
+  direct priming.

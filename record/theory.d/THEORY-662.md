@@ -107,3 +107,12 @@ precision reading itself was not exposed to any test.
   judgement about its source, with a body state as the feeling.
 - Cross-modal fluency ([LIT-190](../literature.d/LIT-190.md), [NOTE-146](../notes.d/NOTE-146.md)) is the record's other reading of
   fluency misattribution.
+
+## Note of 2026-10-29: what holds it back
+
+The title states as the account of fluency what the paper proposes by
+analogy: no generative model with felt and unfelt fluency as variables has
+been built, and none has predicted a new reversal that an experiment then
+found, as the promote_when asks. A split into what Brouillet and Friston
+propose would free neither CLAIM-337 (also grounded in THEORY-564 and
+THEORY-577) nor CLAIM-439 (resting on CLAIM-440), all Proposed.

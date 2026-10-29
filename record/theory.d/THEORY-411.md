@@ -118,3 +118,13 @@ comparisons is not examined.
 - Valentini's defence of categorical principles ([THEORY-434](THEORY-434.md)) concerns
   Sen's method in *The Idea of Justice*; the partial-ordering idea is what
   that book's comparative approach would rest on.
+
+## Note of 2026-10-29: what holds it back
+
+The intersection and ranges-of-weights devices the title gives Sen are
+attributed to him only by the IEP entry (LIT-284), without a citation; the
+Sen text read (LIT-289) says "conventions of relative importance", not
+public reasoning. It waits on a first-hand reading of a Sen text that
+states the devices, and on the applied case its promote_when names; a
+narrowing to the IEP's reading would free neither CLAIM-352 nor CLAIM-354,
+whose other readings (THEORY-025, THEORY-054) are Proposed.

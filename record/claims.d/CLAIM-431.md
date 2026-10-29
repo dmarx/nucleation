@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmp4d358
 title: 'A corporation''s functional remorse cannot be told from prudence: any procedure or role duty that makes others'' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Twelfth status review (ADR-058). THEORY-892 removed from grounds:
+    the objection cites it only under "What would answer it", where it
+    counts against the objection. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -21,7 +28,6 @@ objects_to:
 rests_on:
 - CLAIM-418
 grounds:
-- THEORY-892
 - LIT-1432
 summary: >-
   The objection to the record's reading of the "institutional
