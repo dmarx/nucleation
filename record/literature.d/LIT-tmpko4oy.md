@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpf8vbq), from the arXiv v2; worth
+  read in full 2026-10-29 ([NOTE-tmpf8vbq](../notes.d/NOTE-tmpf8vbq.md)), from the arXiv v2; worth
   reading for the identity behind joint alignment, that a multi-marginal
   objective is the sum of pairwise objectives at its marginals, so joint
   fitting buys consistency at a measurable price; its experiments do not
@@ -55,26 +55,26 @@ summary: >-
 
 Zeng, Z., Du, B., Zhang, S., Xia, Y., Liu, Z., & Tong, H. (2024). Hierarchical multi-marginal optimal transport for network alignment. *AAAI 2024*, 38(15), 16660–16668.
 
-Read in full in NOTE-tmpf8vbq.
+Read in full in [NOTE-tmpf8vbq](../notes.d/NOTE-tmpf8vbq.md).
 
 ## Key takeaways
 
 - A joint coupling makes the pairwise alignments jointly realizable by
   construction; for deterministic couplings that means they compose, for
-  soft ones it does not (THEORY-tmp9mvg2).
+  soft ones it does not ([THEORY-tmp9mvg2](../theory.d/THEORY-tmp9mvg2.md)).
 - The joint optimum exceeds the sum of pairwise optima exactly when the
   best pairwise alignments conflict; the paper names the gap and never
   measures it.
-- Its accuracy gains (THEORY-tmpz6ryi) are on benchmarks whose truth is
+- Its accuracy gains ([THEORY-tmpz6ryi](../theory.d/THEORY-tmpz6ryi.md)) are on benchmarks whose truth is
   transitive, and are not separated from its new cost and clustering.
 
 ## Why this is here
 
-A6's bridge back to holonomy: independently fitted pairwise alignments need not compose consistently, and a joint alignment imposes consistency by construction. Comparing the two on held-out data asks whether global consistency is a useful regularizer or a loss of local distinctions (CLAIM-tmpgwud2, QUESTION-tmp6byb6).
+A6's bridge back to holonomy: independently fitted pairwise alignments need not compose consistently, and a joint alignment imposes consistency by construction. Comparing the two on held-out data asks whether global consistency is a useful regularizer or a loss of local distinctions ([CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md), [QUESTION-tmp6byb6](../questions.d/QUESTION-tmp6byb6.md)).
 
 The reading qualifies this. "By construction" holds for joint
 realizability, and for composition only when couplings are deterministic.
 The paper does compare joint and pairwise methods on held-out node sets,
 but its ground truth is consistent by construction, so its benchmarks
 cannot show a loss of local distinctions; the comparison A6 wanted is not
-in it (NOTE-tmpf8vbq).
+in it ([NOTE-tmpf8vbq](../notes.d/NOTE-tmpf8vbq.md)).

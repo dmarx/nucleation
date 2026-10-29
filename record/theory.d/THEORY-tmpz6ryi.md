@@ -20,8 +20,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpko4oy
 summary: >-
-  Zeng et al. (2024), LIT-tmpko4oy, §5 and Appendix C, read in
-  NOTE-tmpf8vbq. Reported as plots against 13 baselines on ER, Douban,
+  Zeng et al. (2024), [LIT-tmpko4oy](../literature.d/LIT-tmpko4oy.md), §5 and Appendix C, read in
+  [NOTE-tmpf8vbq](../notes.d/NOTE-tmpf8vbq.md). Reported as plots against 13 baselines on ER, Douban,
   DBLP and ACM triples, with 10% anchors and 90% held out. Proposed: the
   result is empirical, its ground truth is a consistent set of node
   triples, and no ablation holds the cost and the clustering fixed while
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Zeng et al. (2024), LIT-tmpko4oy, §5 (pp. 5–7), Appendices C–D (pp.
-12–15) of arXiv 2310.04470v2; read in NOTE-tmpf8vbq.
+Zeng et al. (2024), [LIT-tmpko4oy](../literature.d/LIT-tmpko4oy.md), §5 (pp. 5–7), Appendices C–D (pp.
+12–15) of arXiv 2310.04470v2; read in [NOTE-tmpf8vbq](../notes.d/NOTE-tmpf8vbq.md).
 
 ## What was actually shown
 
@@ -68,8 +68,8 @@ cost could have matched it. Neither happened against these baselines.
   version does nearly as well, which it credits to the cost (p. 13).
 - **That consistency never loses local distinctions.** Every benchmark's
   truth is a consistent set of triples, so a consistency constraint cannot
-  be wrong there. The record's interest (CLAIM-tmpgwud2,
-  QUESTION-tmp6byb6) is in data where it can be.
+  be wrong there. The record's interest ([CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md),
+  [QUESTION-tmp6byb6](../questions.d/QUESTION-tmp6byb6.md)) is in data where it can be.
 - **Anything about independently fitted pairwise alignments composed and
   compared with direct ones.** The baselines' product rule never composes
   maps.

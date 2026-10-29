@@ -161,15 +161,15 @@ H_ij = 1 for the answers, re-solve the alignment.
 
 ## Connections
 
-From the same group as HOT (LIT-tmpko4oy, read in NOTE-tmpf8vbq); its
+From the same group as HOT ([LIT-tmpko4oy](../literature.d/LIT-tmpko4oy.md), read in [NOTE-tmpf8vbq](NOTE-tmpf8vbq.md)); its
 aligners are PARROT (Zeng et al. 2023) and JOENA (Yu et al. 2025), and GOT
 (Chen et al. 2020) for cross-domain tasks. The active network alignment
 baselines are Malmi et al. 2017 and Attent (Zhou et al. 2021). Fused GW,
-used by GOT-FGW, is LIT-tmpjs7kp.
+used by GOT-FGW, is [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md).
 
 ## Bearing on the record
 
-- **TERM-092 and CLAIM-475: a clean instance of choosing within a fixed
+- **[TERM-092](../terms.d/TERM-092.md) and [CLAIM-475](../claims.d/CLAIM-475.md): a clean instance of choosing within a fixed
   vocabulary, and only that.** Be exact about what is chosen. The
   candidate is a source object; the oracle supplies its match; the answer
   enters as one cost entry set to zero. The question form, the two object
@@ -181,13 +181,13 @@ used by GOT-FGW, is LIT-tmpjs7kp.
   estimate of each answer's effect on a proxy. Nothing in it extends the
   vocabulary in which questions become askable: it cannot propose a new
   object, a new relation to ask about, or a new form of answer, which is
-  the half of TERM-092 that A7 kept apart. It also says something about
-  CLAIM-475's costs: the paper does measure the cost of choosing (query
+  the half of [TERM-092](../terms.d/TERM-092.md) that A7 kept apart. It also says something about
+  [CLAIM-475](../claims.d/CLAIM-475.md)'s costs: the paper does measure the cost of choosing (query
   time, Fig. 2, "time required to select query candidates", p. 19), but
   charges the budget only for answers. The cost of formulating questions
   is zero here, because the question set is given, so the paper bears on
   neither of the claim's defeaters.
-- **CLAIM-tmpgwud2: a working use of coherence as a proxy for fidelity,
+- **[CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md): a working use of coherence as a proxy for fidelity,
   and its limit.** The utilities reward questions whose answers would make
   the plan more nearly a permutation or more consistent with the graphs,
   coherence measures, because accuracy on unlabeled objects is unknown
@@ -197,7 +197,7 @@ used by GOT-FGW, is LIT-tmpjs7kp.
   record's claim predicts the failure case: where coherence and fidelity
   come apart, a coherence-driven chooser would ask the questions that
   sharpen a wrong alignment. The paper tests no such case.
-- **CASE-tmph0fxi:** if its correspondence arm fits stochastic kernels or
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md):** if its correspondence arm fits stochastic kernels or
   GW with anchors, AvAtar's score is a principled way to choose which
   items to have rated or anchored next under a rating budget. It assumes
   an oracle that knows the true correspondence, which a translation study

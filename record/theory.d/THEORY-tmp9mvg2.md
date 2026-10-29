@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpko4oy
 summary: >-
-  Zeng et al. (2024), LIT-tmpko4oy, Theorem 1 and its proof (pp. 5, 12),
-  read in NOTE-tmpf8vbq. The identity was checked numerically; the
+  Zeng et al. (2024), [LIT-tmpko4oy](../literature.d/LIT-tmpko4oy.md), Theorem 1 and its proof (pp. 5, 12),
+  read in [NOTE-tmpf8vbq](../notes.d/NOTE-tmpf8vbq.md). The identity was checked numerically; the
   equality condition and the remark on composition are the record's,
   short consequences of it. Active. The edge: "consistent by
   construction" means jointly realizable, not composable, once couplings
@@ -23,9 +23,9 @@ summary: >-
 
 ## Source
 
-Zeng, Du, Zhang, Xia, Liu and Tong (2024), LIT-tmpko4oy, Definition 2
+Zeng, Du, Zhang, Xia, Liu and Tong (2024), [LIT-tmpko4oy](../literature.d/LIT-tmpko4oy.md), Definition 2
 (pp. 2–3), Proposition 1 and Theorem 1 (pp. 3, 5; proofs pp. 11–12 of arXiv
-2310.04470v2); read in NOTE-tmpf8vbq.
+2310.04470v2); read in [NOTE-tmpf8vbq](../notes.d/NOTE-tmpf8vbq.md).
 
 ## What was actually shown
 
@@ -66,7 +66,7 @@ plus the constraint of joint realizability.
 ## What this does not say
 
 - **That joint alignment is more accurate.** That is the empirical claim
-  of THEORY-tmpz6ryi, and the inequality is silent on it.
+  of [THEORY-tmpz6ryi](THEORY-tmpz6ryi.md), and the inequality is silent on it.
 - **That consistency is free.** Joint realizability is bought by a higher
   objective whenever the pairwise optima conflict; whether the conflict is
   noise or a true non-transitivity is not settled by the mathematics.

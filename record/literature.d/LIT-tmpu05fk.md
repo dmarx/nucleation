@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp72o0n), from the arXiv v2; worth
+  read in full 2026-10-29 ([NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md)), from the arXiv v2; worth
   reading as the clean statement of what a Gromov–Wasserstein comparison
   of directed weighted networks can and cannot see: it is a pseudometric
   on any bounded weights, zero exactly at weak isomorphism, and its cheap
@@ -58,23 +58,23 @@ summary: >-
 
 Chowdhury, S., & Mémoli, F. (2019). The Gromov–Wasserstein distance between networks and stable network invariants. *Information and Inference*, 8(4), 757–787.
 
-Read in full in NOTE-tmp72o0n.
+Read in full in [NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md).
 
 ## Key takeaways
 
 - The distance is defined for any bounded weights; its metric properties
-  come from couplings, not from the networks (THEORY-tmp7hiz9).
+  come from couplings, not from the networks ([THEORY-tmp7hiz9](../theory.d/THEORY-tmp7hiz9.md)).
 - Zero distance means weak isomorphism of the recorded weights and node
   measures, nothing about what the record omits; missing weights must be
   imputed first, and the node measure is the user's.
-- The cheap invariants are lower bounds only (THEORY-tmptcy1h); networks
+- The cheap invariants are lower bounds only ([THEORY-tmptcy1h](../theory.d/THEORY-tmptcy1h.md)); networks
   can agree on all of them and be apart.
 
 ## Why this is here
 
-A7: influence, authority and obligation are directed, so their comparison needs a directed distance. Its sharper use is CLAIM-448's: two recorded networks can align well while the organizations behind them differ, because a legibility regime decides what enters the record (CASE-124).
+A7: influence, authority and obligation are directed, so their comparison needs a directed distance. Its sharper use is [CLAIM-448](../claims.d/CLAIM-448.md)'s: two recorded networks can align well while the organizations behind them differ, because a legibility regime decides what enters the record ([CASE-124](../cases.d/CASE-124.md)).
 
 The reading supports both uses. The paper supplies the directed distance,
-with in- and out-going invariants. For CLAIM-448, Theorem 18 states
+with in- and out-going invariants. For [CLAIM-448](../claims.d/CLAIM-448.md), Theorem 18 states
 exactly what the distance is blind to, and the paper's own experiments use
-a lower bound whose agreement is weaker evidence still (NOTE-tmp72o0n).
+a lower bound whose agreement is weaker evidence still ([NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md)).

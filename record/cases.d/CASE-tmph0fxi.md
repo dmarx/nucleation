@@ -75,15 +75,15 @@ the weight on structure ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)); and c
 matches utterances and probes jointly ([LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md)). Score each on held-out
 items, translators and, where possible, situations. Fit each edge
 independently, so that the composed A→B→C map can disagree with the A→C
-map. Name the POT release used: the 2021 paper (LIT-tmperetf) has neither
+map. Name the POT release used: the 2021 paper ([LIT-tmperetf](../literature.d/LIT-tmperetf.md)) has neither
 fused GW nor co-optimal transport, which came in later releases. Two of
 the readings constrain this arm:
 - Co-optimal transport must match every probe, so a probe one community
-  lacks is absorbed into the coupling, not reported. CLAIM-257's change of
-  cover needs an unbalanced variant (THEORY-tmpvn82m).
+  lacks is absorbed into the coupling, not reported. [CLAIM-257](../claims.d/CLAIM-257.md)'s change of
+  cover needs an unbalanced variant ([THEORY-tmpvn82m](../theory.d/THEORY-tmpvn82m.md)).
 - A joint fit across three communities makes the pairwise couplings
   jointly realizable. They compose along routes only when the couplings
-  are deterministic (THEORY-tmp9mvg2), so path discrepancy should be read
+  are deterministic ([THEORY-tmp9mvg2](../theory.d/THEORY-tmp9mvg2.md)), so path discrepancy should be read
   from independently fitted edges.
 
 **Controls.**
@@ -115,10 +115,10 @@ criterion must be a panel mean, and Stage 0's reliability targets must be
 met, across languages, before any transport readout is interpreted. A second threat is identification.
 - GW sees each community only through its similarity matrix, so it
   identifies a correspondence only up to the two structures' symmetries
-  (THEORY-tmpa43ta).
+  ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)).
 - Co-optimal transport can permute a block of utterances together with its
-  block of probes at no cost (THEORY-tmpvn82m).
-- Anchors break only the symmetries that move them (THEORY-tmp7cnkm). So
+  block of probes at no cost ([THEORY-tmpvn82m](../theory.d/THEORY-tmpvn82m.md)).
+- Anchors break only the symmetries that move them ([THEORY-tmp7cnkm](../theory.d/THEORY-tmp7cnkm.md)). So
   anchors must be chosen that no symmetry of the response structure leaves
   in place, and validated independently of the fit.
 

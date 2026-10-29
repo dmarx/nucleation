@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpe5bbx
 summary: >-
-  Yu et al. (2026), LIT-tmpe5bbx, Lemmas 4.2 and 4.3 with Appendix A (pp.
-  4–5, 14–17), read in NOTE-tmp60yfn. Proved by implicit differentiation of
+  Yu et al. (2026), [LIT-tmpe5bbx](../literature.d/LIT-tmpe5bbx.md), Lemmas 4.2 and 4.3 with Appendix A (pp.
+  4–5, 14–17), read in [NOTE-tmp60yfn](../notes.d/NOTE-tmp60yfn.md). Proved by implicit differentiation of
   the optimality conditions; checked by finite differences. Active. It is
   a derivative: a local, first-order estimate of a finite change, exact
   only for plain entropic OT whose cost does not depend on the plan.
@@ -20,8 +20,8 @@ summary: >-
 
 ## Source
 
-Yu, Qiu, Zeng, Thai, Liu and Tong (2026), LIT-tmpe5bbx, §4.1 and Appendix
-A of arXiv 2605.24395v2; read in NOTE-tmp60yfn.
+Yu, Qiu, Zeng, Thai, Liu and Tong (2026), [LIT-tmpe5bbx](../literature.d/LIT-tmpe5bbx.md), §4.1 and Appendix
+A of arXiv 2605.24395v2; read in [NOTE-tmp60yfn](../notes.d/NOTE-tmp60yfn.md).
 
 ## What was actually shown
 
@@ -62,7 +62,7 @@ Neither happens.
 - **Anything exact for aligners whose cost depends on the plan**, such as
   fused Gromov–Wasserstein, or whose plan is not the fixed-cost entropic
   solution. The paper applies the score to such aligners without saying
-  how (NOTE-tmp60yfn).
+  how ([NOTE-tmp60yfn](../notes.d/NOTE-tmp60yfn.md)).
 - **That the utility measures accuracy.** The formula differentiates
   whatever f is supplied.
 - **That this is new mathematics.** Implicit differentiation of entropic

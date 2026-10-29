@@ -168,16 +168,16 @@ underestimated by the pairwise FGW distance" (p. 5).
 
 ## Connections
 
-It builds on fused GW (Vayer et al. 2019, cited as Titouan et al.; LIT-tmpjs7kp),
-GW averaging (Peyré, Cuturi and Solomon 2016; LIT-tmpprsxm), S-GWL (Xu, Luo
+It builds on fused GW (Vayer et al. 2019, cited as Titouan et al.; [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)),
+GW averaging (Peyré, Cuturi and Solomon 2016; [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)), S-GWL (Xu, Luo
 and Carin 2019) for the cluster-then-match strategy, and the proximal
 point GW of Xu et al. 2019. The multi-marginal GW it adopts is Beier,
-Beinert and Steidl 2022. AvAtar (LIT-tmpe5bbx, read in NOTE-tmp60yfn) is
-from the same group and cites it. The record's network GW is LIT-tmpu05fk.
+Beinert and Steidl 2022. AvAtar ([LIT-tmpe5bbx](../literature.d/LIT-tmpe5bbx.md), read in [NOTE-tmp60yfn](NOTE-tmp60yfn.md)) is
+from the same group and cites it. The record's network GW is [LIT-tmpu05fk](../literature.d/LIT-tmpu05fk.md).
 
 ## Bearing on the record
 
-- **CLAIM-tmpgwud2 and QUESTION-tmp6byb6: the exchange's description is
+- **[CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md) and [QUESTION-tmp6byb6](../questions.d/QUESTION-tmp6byb6.md): the exchange's description is
   right in kind, and the paper does not run the test A6 wanted.** A joint
   coupling does impose consistency by construction, but only in a precise
   sense: the pairwise alignments are marginals of one tensor, so they are
@@ -192,18 +192,18 @@ from the same group and cites it. The record's network GW is LIT-tmpu05fk.
   anchors, and both pairwise and high-order hits are reported. But the
   ground truth is a consistent set of K-tuples, in ER by construction
   (p. 15), so global consistency cannot lose a true local distinction on
-  these benchmarks. That is the same limit as LIT-tmpr8qf7's benchmark,
-  where the truth was built flat (THEORY-tmpy1s8c). And HOT changes the
+  these benchmarks. That is the same limit as [LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md)'s benchmark,
+  where the truth was built flat ([THEORY-tmpy1s8c](../theory.d/THEORY-tmpy1s8c.md)). And HOT changes the
   cost (RWR embeddings) and the search space (clustering) at the same
   time, so its margin over pairwise methods does not isolate consistency.
   The question whether consistency is a useful regularizer or a loss of
   local distinctions stays open; what would settle it is in
-  THEORY-tmpz6ryi's promote_when.
-- **CASE-tmph0fxi:** its correspondence arm fits each edge independently
+  [THEORY-tmpz6ryi](../theory.d/THEORY-tmpz6ryi.md)'s promote_when.
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md):** its correspondence arm fits each edge independently
   so that composed and direct maps can disagree. HOT is the opposite design
   and a natural comparison arm: a joint fit makes path discrepancy zero for
   deterministic couplings by construction, so in that arm path agreement
-  would carry no information at all. That is CLAIM-tmpgwud2's point in
+  would carry no information at all. That is [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md)'s point in
   algorithmic form.
 - **The pairwise baselines' combination rule** (product of three pairwise
   matrices, p. 5) scores a triple by its pairwise support and never tests

@@ -9,7 +9,7 @@ date: '2026-10-29'
 source:
 - LIT-tmpu05fk
 summary: >-
-  Chowdhury and Mémoli (2019), LIT-tmpu05fk, read in NOTE-tmp72o0n from
+  Chowdhury and Mémoli (2019), [LIT-tmpu05fk](../literature.d/LIT-tmpu05fk.md), read in [NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md) from
   arXiv 1808.04337v2. Theorems 16 and 18, with full proofs in the main
   text (pp. 8–9). Active: proved. The sharp edge is the zero set. A
   distance of zero says the recorded weights and measures agree up to
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Chowdhury and Mémoli (2019), LIT-tmpu05fk, §2, pp. 4–10 of arXiv
-1808.04337v2; read in NOTE-tmp72o0n.
+Chowdhury and Mémoli (2019), [LIT-tmpu05fk](../literature.d/LIT-tmpu05fk.md), §2, pp. 4–10 of arXiv
+1808.04337v2; read in [NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md).
 
 ## What was actually shown
 
@@ -65,10 +65,10 @@ or something weaker than weak isomorphism; Theorem 18 fixes it exactly.
   measure to signify important network substructures and to smooth out the
   effect of outliers" (p. 2). Change it and the distance changes.
 - **That it can be computed.** The minimization is a non-convex quadratic
-  program (p. 2). The paper computes only lower bounds (THEORY-tmptcy1h).
+  program (p. 2). The paper computes only lower bounds ([THEORY-tmptcy1h](THEORY-tmptcy1h.md)).
 - **Which coupling achieves it.** An optimal coupling exists; it need not
   be unique, and a symmetry of either network gives another of equal cost
-  (THEORY-tmpa43ta).
+  ([THEORY-tmpa43ta](THEORY-tmpa43ta.md)).
 - **That it is new for symmetric data.** For symmetric L² weights it is
   Sturm's gauged measure spaces (p. 3); the extension is to asymmetric,
   bounded weights.

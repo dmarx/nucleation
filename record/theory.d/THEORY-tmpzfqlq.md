@@ -17,7 +17,7 @@ date: '2026-10-29'
 source:
 - LIT-tmpe5bbx
 summary: >-
-  Yu et al. (2026), LIT-tmpe5bbx, Tables 3–5 and 7, read in NOTE-tmp60yfn.
+  Yu et al. (2026), [LIT-tmpe5bbx](../literature.d/LIT-tmpe5bbx.md), Tables 3–5 and 7, read in [NOTE-tmp60yfn](../notes.d/NOTE-tmp60yfn.md).
   Eight datasets, four aligners, a budget of 20% of true pairs in ten
   rounds after a random 20%, five runs, no variances. Proposed: an
   empirical result with small margins, on benchmarks where the truth is
@@ -30,14 +30,14 @@ summary: >-
 
 ## Source
 
-Yu et al. (2026), LIT-tmpe5bbx, §5 and Appendices B–C of arXiv
-2605.24395v2; read in NOTE-tmp60yfn.
+Yu et al. (2026), [LIT-tmpe5bbx](../literature.d/LIT-tmpe5bbx.md), §5 and Appendices B–C of arXiv
+2605.24395v2; read in [NOTE-tmp60yfn](../notes.d/NOTE-tmp60yfn.md).
 
 ## What was actually shown
 
 **What is chosen.** A source object x_s from the pool of unlabeled ones;
 the oracle returns its true match, and that pair's cost is set to zero
-(β = 1). Scores: Definition 4.4 with Lemma 4.2 (THEORY-tmpr2ueq).
+(β = 1). Scores: Definition 4.4 with Lemma 4.2 ([THEORY-tmpr2ueq](THEORY-tmpr2ueq.md)).
 
 **Under what budget.** 20% of true pairs given at random, then 20% more
 chosen, in ten batches; every strategy gets the same budget (p. 19).
@@ -66,7 +66,7 @@ gradient. It was better, by small margins.
 - **That the margins are reliable.** No variances, no tests; many margins
   are under one point.
 - **That the rule extends what can be asked.** Every query has the same
-  fixed form over fixed object sets and cost (TERM-092's distinction). It
+  fixed form over fixed object sets and cost ([TERM-092](../terms.d/TERM-092.md)'s distinction). It
   allocates a budget among askable questions.
 - **That the proxy tracks accuracy in general.** The utilities reward a
   sharper or more graph-consistent plan. Where the current plan is wrong,

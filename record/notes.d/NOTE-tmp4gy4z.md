@@ -96,22 +96,22 @@ POT for using Sinkhorn losses in deep learning architectures" (p. 3).
 ## Connections
 
 It packages methods the record holds as papers: Gromov–Wasserstein
-averaging (Peyré, Cuturi and Solomon 2016; LIT-tmpprsxm) and the GW
-machinery behind network GW (LIT-tmpu05fk). Later POT releases add fused
-GW (LIT-tmpjs7kp) and co-optimal transport (LIT-tmpbnbe3), which are not
-in this paper. HOT (LIT-tmpko4oy) and AvAtar (LIT-tmpe5bbx) use their
+averaging (Peyré, Cuturi and Solomon 2016; [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)) and the GW
+machinery behind network GW ([LIT-tmpu05fk](../literature.d/LIT-tmpu05fk.md)). Later POT releases add fused
+GW ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)) and co-optimal transport ([LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md)), which are not
+in this paper. HOT ([LIT-tmpko4oy](../literature.d/LIT-tmpko4oy.md)) and AvAtar ([LIT-tmpe5bbx](../literature.d/LIT-tmpe5bbx.md)) use their
 own code.
 
 ## Bearing on the record
 
-- **CASE-tmph0fxi: the LIT overstates what this paper covers.** The
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): the LIT overstates what this paper covers.** The
   exchange named POT as the tool for every transport arm of the case, "GW,
   fused and partial GW, and co-optimal transport (`ot.coot`)". The 2021
   paper names Gromov–Wasserstein and partial OT (p. 4), not fused GW, not
   partial GW, not co-optimal transport. The library has them now (checked
   in POT 0.9.7), so the case's tooling is right; the citation that stands
   for it should be this paper for the library and the methods' own papers,
-  LIT-tmpjs7kp and LIT-tmpbnbe3, for those arms, with the POT version
+  [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md) and [LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md), for those arms, with the POT version
   stated.
 - **No THEORY.** The paper reports software and makes no claim about what
   is true of any system.

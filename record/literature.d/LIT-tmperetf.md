@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp4gy4z); the citable description of the
+  read in full 2026-10-29 ([NOTE-tmp4gy4z](../notes.d/NOTE-tmp4gy4z.md)); the citable description of the
   POT library as of 2021. Worth citing for the library, with the version
   used, but not for fused or partial Gromov–Wasserstein or co-optimal
   transport, which this paper does not describe.
@@ -56,7 +56,7 @@ summary: >-
 
 Flamary, R., Courty, N., Gramfort, A., et al. (2021). POT: Python optimal transport. *Journal of Machine Learning Research*, 22(78), 1–8.
 
-Read in full in NOTE-tmp4gy4z.
+Read in full in [NOTE-tmp4gy4z](../notes.d/NOTE-tmp4gy4z.md).
 
 ## Key takeaways
 
@@ -66,9 +66,9 @@ Read in full in NOTE-tmp4gy4z.
 
 ## Why this is here
 
-Named by A5 and A6 as the tool for every transport arm of CASE-tmph0fxi: GW, fused and partial GW, and co-optimal transport (`ot.coot`). Registered as the paper that stands for the software.
+Named by A5 and A6 as the tool for every transport arm of [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): GW, fused and partial GW, and co-optimal transport (`ot.coot`). Registered as the paper that stands for the software.
 
 The paper covers less than that. It names GW and partial OT, not fused GW,
 partial GW or `ot.coot`, which later releases added. For those arms the
-methods' own papers (LIT-tmpjs7kp, LIT-tmpbnbe3) and the POT version used
-should be cited beside this one (NOTE-tmp4gy4z).
+methods' own papers ([LIT-tmpjs7kp](LIT-tmpjs7kp.md), [LIT-tmpbnbe3](LIT-tmpbnbe3.md)) and the POT version used
+should be cited beside this one ([NOTE-tmp4gy4z](../notes.d/NOTE-tmp4gy4z.md)).

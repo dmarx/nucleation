@@ -206,15 +206,15 @@ and the distortion formulation) and of Sturm 2012 (gauged measure spaces,
 symmetric L² weights; Remarks 2, 17 and 19). It calls itself "a theoretical
 complement" to Peyré, Cuturi and Solomon 2016 (p. 3), whose entropic GW on
 arbitrary matrices it justifies for asymmetric ones (§3, p. 10). That paper
-is in the record as LIT-tmpprsxm; its invariance result is
-THEORY-tmpa43ta. Fused GW (Vayer et al., cited as [VCF+19]) is LIT-tmpjs7kp.
+is in the record as [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md); its invariance result is
+[THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md). Fused GW (Vayer et al., cited as [VCF+19]) is [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md).
 Its Gromov–Hausdorff-type predecessor is Chowdhury and Mémoli [CM17],
 which it contrasts: the "tripod structure" of Theorem 18 is "much more
 difficult to obtain" without measures (Remark 19, p. 9).
 
 ## Bearing on the record
 
-- **CLAIM-448 and CASE-124: support, and a sharper form.** The distance
+- **[CLAIM-448](../claims.d/CLAIM-448.md) and [CASE-124](../cases.d/CASE-124.md): support, and a sharper form.** The distance
   is a comparison of records, and Theorem 18 says exactly what it cannot
   see: anything not written into ωX and µX. Two organizations whose
   recorded networks are weakly isomorphic are at distance zero however they
@@ -236,15 +236,15 @@ difficult to obtain" without measures (Remark 19, p. 9).
   directions. Yet the diagonal terms alone give disp² ≥ (0 + 4 + 1)/27 for
   p = 2, so dN,2 ≥ 0.215 (my construction and computation, not the
   paper's). The paper's experiments use the R-TLB as a "dissimilarity"
-  (Fig. 5); its zeros are not evidence of sameness. For CLAIM-448 this is a
+  (Fig. 5); its zeros are not evidence of sameness. For [CLAIM-448](../claims.d/CLAIM-448.md) this is a
   second way coherence can mislead: an agreement found by a cheap
   invariant can be the invariant's blindness.
-- **CASE-tmph0fxi:** its GW arm can compare response matrices that are
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md):** its GW arm can compare response matrices that are
   not symmetric, such as utterances by probes, only once both are put as
   square weight functions on one node set; the paper's setting is a single
-  node set per network. Co-optimal transport (LIT-tmpbnbe3) is the form for
+  node set per network. Co-optimal transport ([LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md)) is the form for
   rectangular matrices.
-- **QUESTION-tmp6byb6:** neutral. The distance compares whole networks;
+- **[QUESTION-tmp6byb6](../questions.d/QUESTION-tmp6byb6.md):** neutral. The distance compares whole networks;
   it gives no transports between parts and no holonomy.
 - **No instruction for machine-learning practice.** The computational
   advice in §4.1 and Appendix A is about computing the paper's own

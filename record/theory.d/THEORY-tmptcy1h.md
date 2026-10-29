@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpu05fk
 summary: >-
-  Chowdhury and Mémoli (2019), LIT-tmpu05fk, Theorem 24 and Lemma 28 (pp.
-  11–13), read in NOTE-tmp72o0n. Proved; the equalities were already known
+  Chowdhury and Mémoli (2019), [LIT-tmpu05fk](../literature.d/LIT-tmpu05fk.md), Theorem 24 and Lemma 28 (pp.
+  11–13), read in [NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md). Proved; the equalities were already known
   for discrete spaces from Schmitzer and Schnörr 2013, as the paper says.
   TLB = R-TLB and the order of the bounds were checked numerically on 25
   random asymmetric pairs. Active. The edge the paper leaves implicit: a
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Chowdhury and Mémoli (2019), LIT-tmpu05fk, §3.1, pp. 10–13 of arXiv
-1808.04337v2; read in NOTE-tmp72o0n.
+Chowdhury and Mémoli (2019), [LIT-tmpu05fk](../literature.d/LIT-tmpu05fk.md), §3.1, pp. 10–13 of arXiv
+1808.04337v2; read in [NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md).
 
 ## What was actually shown
 

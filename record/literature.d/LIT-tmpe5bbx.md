@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp60yfn), from the arXiv v2; worth
+  read in full 2026-10-29 ([NOTE-tmp60yfn](../notes.d/NOTE-tmp60yfn.md)), from the arXiv v2; worth
   reading as a precise case of budgeted question choice within a fixed
   vocabulary: which object's correspondence to ask about, scored by an
   exact derivative through entropic transport of a coherence proxy, and
@@ -60,7 +60,7 @@ summary: >-
 
 Yu, Q., Qiu, R., Zeng, Z., Thai, M. T., Liu, H., & Tong, H. (2026). AvAtar: Learning to align via active optimal transport. *ICML 2026*, PMLR 306, 151023–151044.
 
-Read in full in NOTE-tmp60yfn.
+Read in full in [NOTE-tmp60yfn](../notes.d/NOTE-tmp60yfn.md).
 
 ## Key takeaways
 
@@ -68,16 +68,16 @@ Read in full in NOTE-tmp60yfn.
   question form, object sets, cost and utility are fixed. It allocates a
   label budget among questions already askable.
 - The score is an exact first-order derivative through entropic OT
-  (THEORY-tmpr2ueq), of a coherence proxy, not of accuracy.
-- Its gains are small and reported without variances (THEORY-tmpzfqlq);
+  ([THEORY-tmpr2ueq](../theory.d/THEORY-tmpr2ueq.md)), of a coherence proxy, not of accuracy.
+- Its gains are small and reported without variances ([THEORY-tmpzfqlq](../theory.d/THEORY-tmpzfqlq.md));
   without weighting by the current plan the rule does worse than random.
 
 ## Why this is here
 
-A7's highest-priority connection, to the inquiry frontier (TERM-092, CLAIM-475): establishing a correspondence is a budgeted choice of which question to ask. A7's distinction is kept: AvAtar chooses a query within a fixed vocabulary, while TERM-092 also asks how the vocabulary in which new questions become askable is extended.
+A7's highest-priority connection, to the inquiry frontier ([TERM-092](../terms.d/TERM-092.md), [CLAIM-475](../claims.d/CLAIM-475.md)): establishing a correspondence is a budgeted choice of which question to ask. A7's distinction is kept: AvAtar chooses a query within a fixed vocabulary, while [TERM-092](../terms.d/TERM-092.md) also asks how the vocabulary in which new questions become askable is extended.
 
 The reading confirms A7's distinction exactly. One refinement: the budget
 counts answers only. The cost of choosing is measured as query time but
 not charged, and formulating costs nothing because the questions are
-given, so the paper bears on neither of CLAIM-475's defeaters
-(NOTE-tmp60yfn).
+given, so the paper bears on neither of [CLAIM-475](../claims.d/CLAIM-475.md)'s defeaters
+([NOTE-tmp60yfn](../notes.d/NOTE-tmp60yfn.md)).
