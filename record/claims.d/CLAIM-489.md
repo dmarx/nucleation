@@ -1,17 +1,27 @@
 ---
 number: 489
-status: Proposed
+status: Rejected
 formerly:
 - CLAIM-tmpgbiz1
 title: 'A sign''s communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The thirteenth status review (ADR-057). Proposed to Rejected:
+    defeated_if is met by THEORY-172 (Active), Bergen, Goodman and
+    Levy's Experiment 1, where a novel symbol's contrast works only
+    through an alternative tied to its object by resemblance. The title
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A case where contrast fixes a sign's interpretation only through an
   alternative tied to its object by resemblance or reference, so that the
   contrast cannot do its work without the correspondence it is said to
-  replace.
+  replace. Bergen, Goodman and Levy's Experiment 1 (THEORY-172) gives
+  one, so the claim as stated is defeated.
 tags:
 - linguistics
 - philosophy-of-language
@@ -51,7 +61,19 @@ take that up. The second is that contrast works instead of reference.
 [CLAIM-082](CLAIM-082.md)'s body already qualified it from [LIT-809](../literature.d/LIT-809.md) and [LIT-860](../literature.d/LIT-860.md): contrast
 together with reference, not contrast instead of it.
 
-## Why it is Proposed
+## Why it was Proposed
 
 Its source in the manuscript is Lévi-Strauss ([LIT-775](../literature.d/LIT-775.md)), which the record
 has not read. The reading it once leaned on, Saussure's, does not carry it.
+
+## Note of 2026-10-29: rejected on its own condition
+
+Its defeat condition is met by a reading the record holds. In Bergen,
+Goodman and Levy's Experiment 1 (THEORY-172, Active; NOTE-613), a novel
+symbol is read as the unnamed object only through its contrast with an
+alternative tied to the other object by resemblance: "the contrast works
+only because one alternative is iconically tied to an object." Contrast did
+its work through the correspondence the title says it replaces. What
+survives is CLAIM-082's narrowed claim about value, and CLAIM-242's
+use-level counterpart, which sets contrast beside reference rather than
+against it.

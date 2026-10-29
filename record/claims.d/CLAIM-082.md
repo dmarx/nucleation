@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnt2nd
 title: 'A term''s value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -19,13 +19,23 @@ history:
     CLAIM-242's and ARG-033's. LIT-775 leaves the grounds, and
     THEORY-175, THEORY-182 and THEORY-185, cited as working cases,
     move to corroborated_by (ADR-058).
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The thirteenth status review (ADR-057). The defeat condition's
+    second clause is restated at the level of value, which the version 2
+    narrowing left at the level of use. It read: 'or a case where a
+    term's communicative role is unchanged when its contrasts with
+    coexisting terms are changed.' Communicative role is the use-level
+    notion ARG-033 concedes value is not; the test is now THEORY-159's
+    promote_when. The title and status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A reading of Saussure or of the structuralist tradition that shows
-  value to be fixed by reference, or a case where a term's communicative
-  role is unchanged when its contrasts with coexisting terms are
-  changed.
+  value to be fixed by reference, or a term whose range of use and
+  interpretation stays fixed when a coexisting term of its field is
+  added, lost or merged, against terms outside the field as a control.
 tags:
 - linguistics
 - philosophy-of-language
@@ -51,7 +61,7 @@ complements:
 - CLAIM-242
 - CLAIM-489
 ---
-<!-- inactive-ok-file: CLAIM-489 — Proposed; the first title, kept as its own entry -->
+<!-- inactive-ok-file: CLAIM-489 — Rejected; the first title, kept as its own entry and rejected on its own condition -->
 <!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->
 
 # CLAIM-082: A term's value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system

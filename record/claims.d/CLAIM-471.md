@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdjt64
 title: 'Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations'' physical generation nor their adequacy follows from gluing alone'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -18,6 +18,13 @@ history:
     correspondence adaptation, and says which of them supports the strong
     thesis. The owner's U20 wording is kept in the body. Defeater and
     summary rewritten to match; status and warrant unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The thirteenth status review (ADR-057). rests_on CLAIM-477 is
+    removed: the body never cites it, and neither the three mechanisms
+    nor the gluing clause needs its thesis about individuation. The text
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,8 +48,6 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
-rests_on:
-- CLAIM-477
 complements:
 - CLAIM-143
 grounds:
@@ -67,7 +72,7 @@ summary: >-
   physically operative correspondence structure, rather than revealing or
   redescribing it.
 ---
-<!-- inactive-ok-file: CLAIM-477 CLAIM-143 CLAIM-473 CLAIM-481 CLAIM-480 CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-143 CLAIM-473 CLAIM-481 CLAIM-480 CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1659 LIT-1646 LIT-1658 LIT-1668 LIT-1639 LIT-1674 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-471: Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone
@@ -289,3 +294,12 @@ stability. What the readings show:
     processing the data (Example 32).
   - Singer's model has no genuine obstruction. Every inconsistent cycle is
     noise, so it cannot tell holonomy from error.
+
+## Note of 2026-10-29: what holds it back
+
+Defeater (b) is pressed by the claim's own readings and unanswered. Of the
+measured correspondences the record holds, Singer's are validated only by
+cycle consistency under a noise model and Robinson's are trusted, so no held
+case checks a correspondence that measurement establishes against evidence
+it does not itself produce (CLAIM-143). Such a case, or narrowing
+"establish" to "estimate", would answer it.
