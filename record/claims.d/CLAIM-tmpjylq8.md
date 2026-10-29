@@ -41,7 +41,7 @@ summary: >-
   truth are its objections. It does not say people are self-centred, or
   that groups have no good of their own.
 ---
-<!-- inactive-ok-file: QUESTION-tmprbq0b CLAIM-tmpybc4k NOTE-tmpaso81 CLAIM-tmprudek THEORY-tmpo85ke THEORY-tmpsm03n THEORY-655 LIT-tmp7qbeb LIT-tmpgjlp7 LIT-tmp9rujh LIT-tmpvsmnt LIT-tmpki8fs LIT-tmpm40au LIT-tmply7z7 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
+<!-- inactive-ok-file: QUESTION-tmprbq0b QUESTION-tmp8bttd CLAIM-tmpybc4k NOTE-tmpaso81 CLAIM-tmprudek THEORY-tmpo85ke THEORY-tmpsm03n THEORY-655 LIT-tmp7qbeb LIT-tmpgjlp7 LIT-tmp9rujh LIT-tmpvsmnt LIT-tmpki8fs LIT-tmpm40au LIT-tmply7z7 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmp8zvjf LIT-tmpfxss5 until 2027-04-29 — Unfetched or Unavailable grounds; Cialdini et al. is read at second hand (NOTE-tmpd1dh3, NOTE-tmpdrfdn), Markus and Kitayama not at all; ask again whether the thesis holds once they are read, or by this date -->
 
 # CLAIM-tmpjylq8: No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
@@ -230,3 +230,26 @@ The readings on legacy and on obligations to the future ([QUESTION-tmpruhu4](../
 - **Bostrom grants the thesis its prediction** ([NOTE-tmpyret1](../notes.d/NOTE-tmpyret1.md)). Concern
   for existential safety is undersupplied because people capture only
   their own share of it: concern reaches as far as the self's stake.
+
+## Note of 2026-10-29: the thesis backward in time
+
+The intergenerational-trauma readings (QUESTION-tmp8bttd) test the thesis's
+reading that a descendant's grief over an ancestral injury is
+self-regarding. They support its shape and move its boundary.
+
+- **The self an ancestral injury extends to is a category, not a line of
+  descent** (Eyerman, NOTE-tmp0goia). Slavery became the trauma of black
+  Americans "whether or not they directly experienced slavery or even had
+  ancestors who did" (p. 14). "Ancestral" grief, if self-regarding, is
+  regard for a category's past.
+- **What joins the self is an image, felt as grievance** (Volkan,
+  NOTE-tmp16of2). A chosen trauma is a shared image of an ancient injury,
+  "real, fantasized or even mythologized", called up when the group's
+  present identity is threatened. That fits a self-regarding reading
+  well. Grief for particular, recent dead is the case Volkan keeps apart,
+  and the thesis's open one.
+- **Family transmission is not where the effect is** (Fridman, NOTE-tmpi101n).
+  Survivors' daughters did not differ from daughters of families who
+  shared the same national memory. If an ancestral injury is carried as
+  part of a self, it is carried by the group, not handed down in the
+  family.
