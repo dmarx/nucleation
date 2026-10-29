@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpeof8o) from the authors' accepted
+  read in full 2026-10-29 ([NOTE-tmpeof8o](../notes.d/NOTE-tmpeof8o.md)) from the authors' accepted
   manuscript (PMC3923835), served by NCBI's PMC OAI-PMH service; worth
   reading as the standard animal case for germline transmission of a
   parent's experience: a specific, double-dissociated effect with IVF and
@@ -45,7 +45,7 @@ summary: >-
 
 Dias, B. G. & Ressler, K. J. (2014). *Nature Neuroscience*, 17(1), 89–96.
 
-Read in full in NOTE-tmpeof8o, from the authors' accepted manuscript (PMC3923835), served by NCBI's PMC OAI-PMH service.
+Read in full in [NOTE-tmpeof8o](../notes.d/NOTE-tmpeof8o.md), from the authors' accepted manuscript (PMC3923835), served by NCBI's PMC OAI-PMH service.
 
 ## Why this is here
 

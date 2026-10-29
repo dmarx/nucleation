@@ -153,25 +153,25 @@ such, and whatever selected men into it, is controlled.
 
 ## Connections
 
-- **The question it is filed for (QUESTION-tmp8bttd).** It is one of the
+- **The question it is filed for ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** It is one of the
   question's two epidemiological pieces on the germline route, with
-  Överkalix (Pembrey et al., LIT-tmpmxksg), which the paper leans on for
+  Överkalix (Pembrey et al., [LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md)), which the paper leans on for
   its sex-specific, Y-linked reading.
-- **The womb (Heijmans et al., LIT-tmpkgr1s).** The paper cites the Dutch
+- **The womb (Heijmans et al., [LIT-tmpkgr1s](../literature.d/LIT-tmpkgr1s.md)).** The paper cites the Dutch
   Hunger Winter methylation work, and its quarter-of-birth result puts
   the womb inside the paternal story: the mother's late-gestation
   nutrition is what decides whether the father's hardship shows.
-- **Parenting and silence (Danieli, LIT-tmp881f5).** The paper cites
+- **Parenting and silence (Danieli, [LIT-tmp881f5](../literature.d/LIT-tmp881f5.md)).** The paper cites
   chapters from Danieli's handbook for the psychological channel, then
   argues against it: an effect on boys born in one season "suggests that
   psychological transmission to boys only is an unlikely explanation".
-- **Dias and Ressler (LIT-tmpk0wlg).** Not cited. Both papers exclude
+- **Dias and Ressler ([LIT-tmpk0wlg](../literature.d/LIT-tmpk0wlg.md)).** Not cited. Both papers exclude
   social transmission by design and arrive at a biological route, one in
   mice with a molecular result, one in men with none.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The question's framing, that on
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The question's framing, that on
   the biological route no self is needed, fits this paper's account of
   itself. What passes is a mortality risk, not distress, memory or
   meaning. These are inferences; the paper does not discuss identity or
@@ -192,15 +192,15 @@ such, and whatever selected men into it, is controlled.
   injuring them. It is untested here. If it held, the identity route
   would be a moderator of harm, not only a carrier of it. That is an
   inference from one sentence.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed.
-- **QUESTION-tmp8bttd.** The paper does not supply what the question asks
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed.
+- **[QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).** The paper does not supply what the question asks
   for, a human study that separates germline from uterine, parenting
   and cultural routes. It separates socioeconomic and family-fixed
   channels well. It has no data on parenting, on PTSD (unrecognized
   then) or on family interaction, and its strongest mechanistic result
   shows the womb mattering.
-- **A dated note is proposed for QUESTION-tmp8bttd** (section 3). None on
-  CLAIM-tmpjylq8.
+- **A dated note is proposed for [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (section 3). None on
+  [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).
 - **No THEORY filed.** One study whose mechanism is argued, not measured.
 - **No ML instruction.**
 

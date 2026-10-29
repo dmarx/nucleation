@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp3firt) from the published text
+  read in full 2026-10-29 ([NOTE-tmp3firt](../notes.d/NOTE-tmp3firt.md)) from the published text
   (PMC6217388, CC BY-NC-ND), served by NCBI's PMC OAI-PMH service; the
   supplementary information was not read; worth reading as the largest
   human study of a father's trauma and his sons' longevity, with an
@@ -46,7 +46,7 @@ summary: >-
 
 Costa, D. L., Yetter, N. & DeSomer, H. (2018). *Proceedings of the National Academy of Sciences*, 115(44), 11215–11220.
 
-Read in full in NOTE-tmp3firt, from the published text (PMC6217388, CC BY-NC-ND), served by NCBI's PMC OAI-PMH service; the supplementary information was not read.
+Read in full in [NOTE-tmp3firt](../notes.d/NOTE-tmp3firt.md), from the published text (PMC6217388, CC BY-NC-ND), served by NCBI's PMC OAI-PMH service; the supplementary information was not read.
 
 ## Why this is here
 
