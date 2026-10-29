@@ -1,7 +1,14 @@
 ---
-status: Deferred
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpz0kel) from a scan of the published
+  article on the author's Northwestern lab pages; worth reading as the
+  founding statement that analogy maps relations rather than attributes
+  and that higher-order relations select which relations go across,
+  which is what a single-relation alignment such as Gromov–Wasserstein
+  leaves out.
 title: 'Structure-Mapping: A Theoretical Framework for Analogy'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -11,6 +18,20 @@ history:
     the Wiley DOI (Cognitive Science 7(2), 155–170), the precedent
     LIT-402 set for this journal; the older Elsevier DOI A6 gave,
     10.1016/S0364-0213(83)80009-3, carries June 1983 (ADR-002).
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full in NOTE-tmpz0kel, from the scan of the published article
+    at groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf,
+    pp. 155–170, read as page images. The Wiley PDF that Unpaywall lists
+    as bronze under the older Elsevier DOI answered with a Cloudflare
+    challenge; Unpaywall reports the Wiley DOI as closed; a DTIC copy
+    listed by OpenAlex (ADA122891) returned 403. Filed THEORY-tmptxgpp
+    (relations mapped, systematicity selects; Proposed). Status Deferred
+    → Active; summary rewritten from the text. The citation needed no
+    correction; the exchange's description is accurate, with the
+    qualification that systematicity is stated as a likelihood on
+    p. 163.
 tags:
 - cognition
 - compositionality
@@ -25,19 +46,23 @@ keywords:
 - 'relational similarity'
 implementations: []
 summary: >-
-  Gentner (1983). Analogy maps knowledge of a base domain into a target
-  domain by implicit rules that carry relations rather than attributes,
-  and systematicity, a preference for connected systems of higher-order
-  relations, decides which relations are mapped.
+  Gentner (1983). An analogy maps the relations of a base domain onto a
+  target and drops the attributes of its objects; of the relations, those
+  bound into a system by higher-order relations are more likely to be
+  carried over than isolated ones (systematicity), so in "the atom is
+  like the solar system" MORE MASSIVE THAN maps and HOTTER THAN does not.
+  The rules look only at the form of the representation, the arity and
+  order of predicates, which sorts comparisons into literal similarity,
+  analogy, abstraction and mere appearance. The predicate structure is
+  taken as given, and the author concedes it is a modelling choice; the
+  evidence is one study summarized without statistics.
 ---
 
 # LIT-tmpfxrm8: Structure-Mapping: A Theoretical Framework for Analogy
 
 Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science*, 7(2), 155–170.
 
-Not read. The summary is drawn from the abstract and from the exchange's
-description, which the lookup of 2026-10-29 checked. A reading should check
-it first.
+Read in full in NOTE-tmpz0kel.
 
 ## Why this is here
 
