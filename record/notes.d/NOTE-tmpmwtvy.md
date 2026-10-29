@@ -48,7 +48,7 @@ which contact reduces prejudice, into a theory with processes, stages
 and levels. It names the four problems with the hypothesis (causal
 direction, an ever-growing list of conditions, no process, no account of
 generalization), answers each, and proposes the model the later
-meta-analyses test (LIT-1413, LIT-1405). It adds cross-group friendship
+meta-analyses test ([LIT-1413](../literature.d/LIT-1413.md), [LIT-1405](../literature.d/LIT-1405.md)). It adds cross-group friendship
 as the potent case and "friendship potential" as a fifth condition.
 
 ## Key insight
@@ -144,29 +144,29 @@ relationships, not first acquaintance.
 
 ## Connections
 
-The 2006 meta-analysis (LIT-1413) tests this review's problems and
+The 2006 meta-analysis ([LIT-1413](../literature.d/LIT-1413.md)) tests this review's problems and
 partly overturns its model: it finds Allport's four conditions
 facilitating too, where this review's reformulation kept them, with
-friendship potential, as essential. The 2008 meta-analysis (LIT-1405)
+friendship potential, as essential. The 2008 meta-analysis ([LIT-1405](../literature.d/LIT-1405.md))
 tests three of the four processes' components (knowledge, anxiety,
 empathy) and leaves ingroup reappraisal untested. Gaertner and
-colleagues' common ingroup identity model is registered (LIT-1709), as is
+colleagues' common ingroup identity model is registered ([LIT-1709](../literature.d/LIT-1709.md)), as is
 Paluck, Green and Green's later re-evaluation of the experimental
-evidence (LIT-1420).
+evidence ([LIT-1420](../literature.d/LIT-1420.md)).
 
 ## Bearing on the record
 
-- **LIT-1408's flag is resolved.** The review uses "deprovincialization",
+- **[LIT-1408](../literature.d/LIT-1408.md)'s flag is resolved.** The review uses "deprovincialization",
   once (p. 72), for the outcome of ingroup reappraisal. The exchange's
   gloss, seeing one's group's ways as one way among others, matches the
   review's wording. But the review's deprovincialization is a less
   provincial view "of outgroups in general" reached through a revised
   view of the ingroup, and its evidence is thin: one unpublished analysis
   of national pride and one laboratory study.
-- **CLAIM-275.** The review states the Franklin shape outright:
+- **[CLAIM-275](../claims.d/CLAIM-275.md).** The review states the Franklin shape outright:
   "Behavior change is often the precursor of attitude change", with
   dissonance as the mechanism. It is argued, not tested.
-- **CLAIM-417** (a perspective revised by being made one of several).
+- **[CLAIM-417](../claims.d/CLAIM-417.md)** (a perspective revised by being made one of several).
   Ingroup reappraisal is the process nearest the claim. The review
   offers it as a fourth mechanism with weak evidence; the later
   meta-analysis of mediators does not test it.
