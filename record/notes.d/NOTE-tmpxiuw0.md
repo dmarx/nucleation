@@ -1,0 +1,180 @@
+---
+status: Read
+paper: 'LIT-1417'
+title: 'Johansson, Hall, Sikström and Olsson — Failure to detect mismatches between intention and outcome'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from the authors' own posting of the final
+    published version on the Lund University Cognitive Science site
+    (https://www.lucs.lu.se/fileadmin/user_upload/lucs/2011/01/Johansson-et-al.-2005-Failure-to-Detect-Mismatches-Between-Intention-and-Outcome-in-a-Simple-Decision-Task.pdf),
+    which carries the Science pages 116–119 and the Supporting Online
+    Material; text extracted with pdftotext (the file has a damaged
+    cross-reference table, but every page extracted). Read: the report,
+    Figures 1–3 by their captions, the 16 references, and the whole SOM
+    (methods, detection criteria, three pilot studies, "choice blindness
+    blindness", the report analysis, the change-blindness discussion and
+    its 37 references). Figures 2, 3, S2 and S3 were not read for numbers;
+    no number here is taken from a chart. Checked: 118 analysed
+    participants × 3 manipulated trials = 354 trials, and 46/354 = 13%.
+    The PhilArchive copy OpenAlex lists returned a Cloudflare challenge
+    and was not used.
+date: '2026-10-29'
+summary: >-
+  In a card-trick experiment, 120 people chose the more attractive of two
+  female faces and were sometimes handed the face they had rejected. Only
+  13% of the 354 manipulated trials were detected at the time, at most
+  26% counting every form of later detection, and the detection rate did
+  not depend on how similar the faces were. The reasons given for the
+  rejected face did not differ from reasons given for real choices in
+  length, emotionality, specificity or certainty, and some named
+  features only the rejected face had. The authors call this choice
+  blindness.
+---
+<!-- inactive-ok-file: LIT-1410 — unread (not reached 2026-10-29); cited as the work this one extends, nothing here rests on its content -->
+
+# NOTE-tmpxiuw0: Johansson, Hall, Sikström and Olsson — Failure to detect mismatches between intention and outcome
+
+## Contribution
+
+It gives a method that gets between a person's choice and the outcome
+they are shown, one person and one trial at a time. Before it, the gap
+between what people do and the reasons they give was shown only in
+group-level response patterns (Nisbett and Wilson, LIT-1410, its
+reference 12). Here a report can be shown false of the person who gave it:
+a reason that names a feature only the face they rejected has is about
+that face, not about their choice.
+
+## Key insight
+
+The loop from intention to outcome that theories of decision and control
+assume can be open in a simple evaluative choice. People accept the
+outcome they are handed as their choice and explain it, and their
+explanations of the choice they did not make look like their
+explanations of the ones they did.
+
+## Assumptions
+
+- **Detection criteria.** A trial counts as concurrently detected on any
+  spontaneous sign during the switch. Retrospective detection is probed by
+  a funnel of increasingly specific questions, then debriefing, then
+  sorting one's chosen cards; a correct pick with false positives counts
+  as "possible retrospective detection". The SOM argues this errs on the
+  liberal side, and that it deliberately does not use forced-choice
+  probes, which "would probably have resulted in more instances of
+  detected manipulations". The result is about detection in a
+  non-vigilant setting.
+- **Correction for prior detection.** Trials after a participant's first
+  detection are dropped in Figure 2B, on the ground that detection makes
+  people suspicious.
+- **Stimuli.** Grayscale female faces from the Stirling PICS database,
+  15 pairs, matched roughly; manipulated pairs at positions 7, 10 and 14,
+  always in the same order. Similarity on a 1–10 scale: 5.7 (SD 2.1) for
+  the high-similarity set, 3.4 (SD 2.0) for the low.
+- **Reports.** Verbal reasons were asked after the three manipulated
+  trials and three non-manipulated ones, recorded, transcribed (Swedish)
+  and coded by blind raters in two calibrated rounds of three.
+
+## Key results
+
+- **Detection.** 3 × 2 between-group design, deliberation time (2 s, 5 s,
+  free) × similarity. Of 354 manipulated trials, 46 (13%) were detected
+  concurrently; no condition, even free time with dissimilar faces,
+  exceeded 27%. Free time raised concurrent detection over fixed time,
+  t(118) = 2.17, p < 0.05; 2 s and 5 s did not differ; similarity, sex
+  and age made no difference. All forms of detection together exposed at
+  most 26% of manipulated trials. Correcting for prior detection lowers
+  the rate further, t(118) = 3.21, p < 0.005.
+- **Reports.** No difference between reports on manipulated and
+  non-manipulated trials in empty reports, tense, length (33 against 38
+  characters, SDs about 45) or laughter, nor in emotionality, specificity
+  or certainty, all rated near the scale's midpoint (3.5, 3.1, 3.3 of 5).
+  Dynamic self-commentary, questioning one's own motives, was more common
+  on manipulated trials, t(118) = 3.31, p < 0.005, but occurred in only 5%
+  of them.
+- **Content.** Some manipulated-trial reports name features unique to the
+  face received ("specific confabulation"); some must be about the face
+  chosen, being inconsistent with the one received ("original choice").
+  The split across eight categories is in Figure 3 and is not reproduced
+  here.
+- **SOM pilots.** On-screen abstract patterns (20 people, 19% of
+  manipulated trials detected), on-screen female faces (22 people, 32%,
+  20% corrected) and male faces with eye tracking (18 people, 37%, 29%
+  corrected), each with no clear difference between the two kinds of
+  report.
+- **"Choice blindness blindness" (SOM).** Of the participants who
+  detected nothing, 84% said they would have noticed such a switch; about
+  87% in the pilots.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | People mostly fail to notice when the outcome of a simple attractiveness choice is swapped | strong | 354 trials, 13% concurrent detection; three pilots in other media |
+| C2 | Detection does not depend on the similarity of the faces | moderate | no difference between the two sets; similarity was rated, not varied finely |
+| C3 | Reasons given for a non-chosen outcome are indistinguishable from reasons for a chosen one on the measured dimensions | moderate | blind coding, high interrater reliability; a null on eight variables, with one difference |
+| C4 | Some reasons are demonstrably about the outcome received and not the choice made | strong | the "specific confabulation" reports |
+| C5 | People believe they would detect such a switch | moderate | one debriefing question, 84% |
+| C6 | Choice blindness says something about the concept of intention | weak | discussion; the authors say the experiment "warrants no conclusions about the mechanisms" |
+
+## Concepts
+
+- **Choice blindness**: failing to notice that the outcome presented is
+  not the one chosen, by analogy with change blindness.
+- **M and NM trials**: manipulated and non-manipulated.
+- **Specific confabulation**: a reason that refers to a feature unique to
+  the face received on a manipulated trial.
+- **Choice blindness blindness**: the belief that one would have noticed.
+
+## Connections
+
+It extends Nisbett and Wilson (LIT-1410) from group-level dissociations
+to single reports, and change blindness (Rensink 2002, Simons and Levin)
+from perception to choice. Its SOM cites a then unpublished study by
+Tärning, Hall, Johansson, Sikström and Olsson in which feedback from
+manipulated trials changed later preferences, the line later published
+as choice-induced preference change.
+
+## Bearing on the record
+
+- **CASE-114, note of 2026-10-23.** The note says, after A5, that this
+  work and Nisbett and Wilson "already demonstrate that reported
+  authorship and actual causal history can diverge". On this reading
+  that is right for this work, and narrowly: what is shown is that a
+  reason can be produced for an outcome one did not choose and be
+  indistinguishable on eight measures from a reason for one's real choice.
+  It does not show that ordinary reasons are confabulated; the authors
+  raise that "radical reading" and leave it open, and the "original
+  choice" reports show some reports do carry the real choice. The case's
+  own limit stands: nothing here bears on whether representing a central
+  controller changes error correction.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **One task, one kind of choice.** Attractiveness of unfamiliar faces,
+  low stakes, about two seconds of occlusion, in a non-vigilant setting.
+  The SOM grants that an explicit detection task would have caught most
+  switches.
+- **Detection by spontaneous report.** Forced-choice probes were not used
+  by design; detection is a lower bound on what participants registered.
+- **The report comparison is a null.** Equivalence on eight variables is
+  not tested as equivalence, and the coding categories came from the
+  authors.
+- **Errors and slips.** The report gives 120 participants; the SOM says
+  2 were dropped, which is what makes 354 = 118 × 3. The t-tests are
+  reported with 118 degrees of freedom, which a two-group comparison of
+  118 participants would not give (116); the test behind them is not
+  stated. Supporting reference 29 ("A. Sigiru et al.") and reference 4 (no
+  journal named) are garbled.
+
+## Open questions
+
+- What does detection do when the choice matters, or when people are
+  warned? The SOM's pilots vary the medium, not the stakes.
+- Do reasons given on non-manipulated trials have the properties of the
+  manipulated ones? The method cannot say, since only manipulated trials
+  have a checkable ground truth.

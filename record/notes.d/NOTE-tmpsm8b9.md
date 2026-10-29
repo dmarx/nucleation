@@ -1,0 +1,205 @@
+---
+status: Read
+paper: 'LIT-1134'
+title: 'DeMarzo, Vayanos and Zwiebel — Persuasion bias, social influence, and unidimensional opinions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read on 2026-10-29 from the LSE Research Online copy of the authors'
+    version dated April 2003
+    (https://researchonline.lse.ac.uk/id/eprint/454/1/persu53.pdf,
+    47 pages, posted as the refereed article published in QJE
+    118(3):909–968), text extracted with pdftotext; page 15 was also
+    rendered to check Example 1's eigenvector, which extraction garbled.
+    Read in full: §§I–VI, footnotes, Appendix VII (groups and random
+    matching, the spanning-tree characterization, non-strongly-connected
+    structures) and the references. Of Appendix VIII's proofs, those of
+    Corollary 1 and Theorems 2 and 3 were read and followed; those of
+    Theorems 1 and 4–10 were skimmed, not checked. Figures were read from
+    captions only. Checked numerically (record script, 2026-10-29):
+    Example 1's influence weights (16, 15, 8, 3)/42, its eigenvalues (1,
+    1/3, 1/4, −1/6), its second column eigenvector, proportional to (1,
+    −1/3, −1, −1) as the paper's (3/2, −1/2, −3/2, −3/2) is, and its second
+    row eigenvector (0, 1, 0, −1); that Example 1 fails Theorem 2's
+    balance condition; and, for the line with M = 20, that α₂ and α₃ are
+    within 10⁻⁴ of 1 − π²/12M² and 1 − π²/3M². The journal's own PDF at
+    academic.oup.com returned a Cloudflare challenge and was not compared
+    with this version.
+date: '2026-10-29'
+summary: >-
+  Agents average the reports of those they listen to with fixed relative
+  weights, treating every round's report as new (persuasion bias, a
+  DeGroot model). In a strongly connected network they reach a consensus
+  weighted by the stationary distribution of the listening matrix, so
+  influence comes from network position as well as precision; the
+  consensus is correct only in "balanced" networks, and fully rational
+  agents who know the network reach the correct beliefs in at most N²
+  rounds. Long-run differences of opinion line up along one line given by
+  the second eigenvectors, across every issue.
+---
+
+# NOTE-tmpsm8b9: DeMarzo, Vayanos and Zwiebel — Persuasion bias, social influence, and unidimensional opinions
+
+## Contribution
+
+It gives the DeGroot averaging model (LIT-1527) a behavioural reading:
+agents update as Bayesians would on new information but fail to discount
+repetition, so the averaging is a bias with a name and a benchmark. From
+it come two results: influence that depends on network position apart
+from accuracy, with an exact test (Theorem 2) for when it does not, and
+long-run disagreement that is one-dimensional across any number of
+issues (Theorem 4).
+
+## Key insight
+
+If each person keeps a running tally and folds in what neighbours say as
+though it were new, the neighbours' reports, which already contain one's
+own and each other's earlier reports, are counted again each round.
+Whoever is listened to by those who are listened to is counted most.
+Influence is then the stationary distribution of a Markov chain on the
+listening graph, and the slowest-decaying disagreement is its second
+eigenvector, the same vector on every issue.
+
+## Assumptions
+
+- **Signals.** Agent i starts with x⁰ᵢ = θ + εᵢ, θ ∈ ℝᴸ, errors normal,
+  independent across agents and issues; i assigns j a precision π⁰ᵢⱼ,
+  possibly subjective. A distribution-free version with counts of
+  observations gives the same linear rule.
+- **Truthful reports.** No strategic communication; §V says this is
+  unreasonable for propaganda and campaigns.
+- **Persuasion bias.** x^{t+1} = T_t x^t with T_t = (1 − λ_t)I + λ_t T,
+  T_ij = q_ij π⁰ᵢⱼ / Σ_k q_ik π⁰ᵢₖ, the same relative weights every
+  round; λ_t ∈ (0, 1] lets self-weight grow.
+- **Fixed, exogenous listening structure**, with i ∈ S(i).
+- **Strong connectedness** and Σ λ_t = ∞ (Assumption 1) for consensus;
+  for unidimensionality, a real second eigenvalue and no ties, true for
+  generic T.
+
+## Key results
+
+- **Theorem 1.** Beliefs converge to the consensus w x⁰, where w is the
+  unique solution of wT = w, all wᵢ > 0. Corollary 1: wᵢ = Σⱼ Tⱼᵢ wⱼ, so
+  one is influential if listened to by the influential.
+- **Theorem 2.** With correct precisions, the consensus is the
+  precision-weighted optimum iff Σⱼ qⱼᵢ Tⱼⱼ = 1 for every i: the
+  self-weights of those who listen to each agent sum to one. Typical
+  networks fail it; a regular network with equal precisions meets it.
+- **Theorem 3.** Fully rational agents who know the network converge to
+  the correct beliefs after at most N² rounds; the proof is a
+  dimension count, not constructive.
+- **Theorem 4.** For generic T with α₂ real, the relative difference of
+  opinion d^∞ᵢₗ = φᵢ Dₗ, φᵢ = a + b V₂ᶜᵢ, D = V₂ʳ x⁰: each agent's position
+  is the same on every issue, the line set by the second row eigenvector
+  and initial beliefs.
+- **Theorem 5.** Consensus converges at the rate of α₂; unidimensionality
+  at the rate of α₃/α₂.
+- **Theorems 6–7 (bilateral listening).** With equal precisions wᵢ/wⱼ =
+  #S(i)/#S(j): influence is the number of one's neighbours, not their
+  influence, since an influential neighbour also spreads his attention
+  thinner. T is reversible, its eigenvalues real.
+- **Theorem 8 (agents on a line).** The long-run order of opinion is the
+  geographical order whatever the initial beliefs; agents are densest at
+  the extremes, "a form of polarization"; α₂ ≈ 1 − π²/12M², α₃ ≈ 1 −
+  π²/3M², so doubling the line slows convergence fourfold and opinions
+  become one-dimensional three times faster than they agree.
+- **Appendix.** Influence weights count spanning trees rooted at each
+  agent (Theorem 9). Isolated groups converge to their own beliefs, and
+  everyone else lies in the convex hull of theirs (Theorem 10).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Under persuasion bias, consensus weights are the listening matrix's stationary distribution | strong | Theorem 1; checked on Example 1 |
+| C2 | Consensus is correct iff the network is balanced | strong | Theorem 2; proof followed |
+| C3 | Rational agents knowing the network reach correct beliefs in ≤ N² rounds | strong | Theorem 3; proof followed |
+| C4 | Long-run disagreement is one-dimensional across issues | strong, for generic T with α₂ real | Theorem 4; proof skimmed; checked on Example 1 |
+| C5 | Political left–right structure, propaganda, air-time and cult conformity are explained by persuasion bias | weak | §V, informal, with anecdotes (New Square's 1400–12 vote) |
+| C6 | Issues with more media attention should be more aligned with party lines | weak | a prediction, untested here |
+
+## Concepts
+
+- **Persuasion bias**: failing to adjust for repetition in the
+  information one receives, whether from one source over time or from
+  sources that share sources.
+- **Listening structure**: the directed graph S; T its weighted matrix.
+- **Social influence**: wᵢ, agent i's weight in the consensus.
+- **Self-importance**: Tⱼⱼ, the weight an agent gives his own belief.
+- **Balanced**: Σⱼ qⱼᵢ Tⱼⱼ = 1 for all i.
+- **Unidimensional opinions**: long-run relative positions that coincide
+  across issues.
+
+## Connections
+
+The dynamics are DeGroot's (1974, LIT-1527) and French's and Harary's
+social power; the paper's addition is the reading as a bias against a
+rational benchmark, the balance test, and the second-eigenvector results.
+Golub and Jackson's naïve learning (LIT-999, THEORY-321) takes this model
+to large networks and asks when the bias washes out. Jia, MirTabatabaei,
+Friedkin and Bullo's reflected appraisal (LIT-1146) and Friedkin's social
+power (LIT-1482) let the weights move across issues, which this paper
+holds fixed. The conclusion points to a companion paper, DeMarzo,
+Vayanos and Zwiebel (2001), "Social Networks and Financial Markets", in
+which agents choose whom to listen to by trading profits and stable
+structures have everyone listening to the same experts, who "need not be
+the ones with the best information, and consequently, influence can be
+self-perpetuating independently of accuracy". That paper is not
+registered.
+
+## Bearing on the record
+
+- **QUESTION-117.** The question lists this as a candidate predecessor
+  and quotes A15: "Endorsement-mediated reinforcement could sometimes
+  amount to repeated counting of correlated evidence." On this reading the
+  fixed-weight model already gives one of A15's suite, capture without
+  fidelity: by Theorem 2, an unbalanced network's consensus departs from
+  the precision-weighted optimum with no change in anyone's accuracy. It
+  does not give the others. Its weights never move, so it has no
+  hysteresis and no feedback from outcome to authority; operator
+  turnover would only change T. Those need either reflected appraisal
+  (LIT-1146) or the companion paper's endogenous listening, which this
+  paper describes but does not contain. So for QUESTION-117 the paper sets
+  the floor: whatever the coupled meaning–authority model claims beyond
+  position-weighted consensus has to come from moving weights.
+- **CLAIM-297.** The claim is that authority updated against the
+  interpretation it helped make dominant can amplify an initial
+  advantage without gain in fidelity. This paper shows that even
+  without that loop, fixed listening weights give an agent influence out
+  of proportion to accuracy. The claim's loop is an addition to that, not
+  the only route to it. The companion paper's result quoted above is the
+  closest published statement of the loop the record has met; it should
+  be registered and read before the claim's mechanism is called new.
+- **Unidimensionality.** Theorem 4 is a mechanism by which many issues
+  collapse onto one axis from network structure alone. Nothing in the
+  record found on 2026-10-29 by a search for "unidimensional" and
+  "left-right" cites it.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Fixed weights.** Agents never learn who is accurate or how
+  redundant a source is; the persuasion assumption is exactly the
+  constancy of T.
+- **Truthful reporting**, which §V concedes fails in its own headline
+  applications.
+- **No data.** The political-science and marketing sections are
+  conjecture and anecdote; the authors ask for experiments.
+- **Genericity.** Theorem 4 needs α₂ real and no ties; one-way cycles give
+  complex α₂ and cycling positions, a result "available upon request".
+- **Errors and slips.** None of substance found in what was checked.
+  Extraction garbles fractions throughout, and Example 1's eigenvector
+  (3/2, −1/2, −3/2, −3/2) is correct only up to scale, as eigenvectors
+  are. The step in Theorem 3's proof from "sufficient statistic for every
+  agent's current statistic" to "for all past statistics" is asserted, not
+  argued.
+
+## Open questions
+
+- Does the coupled meaning–authority model (CLAIM-297) reduce, for some
+  parameters, to the companion paper's endogenous-listening model?
+- Does Theorem 4's unidimensionality survive weights that move with
+  agreement, as in reflected appraisal?
