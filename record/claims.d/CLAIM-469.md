@@ -1,10 +1,28 @@
 ---
 number: 469
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp0yhlm
 title: 'Luria is an apparatus for a record''s objects in the operational sense: through its schemes, vocabularies, validators and generated views it realizes a system of distinctions that fixes what counts as a referable and governable object within the record, so that a split scheme makes one object two and a promoted vocabulary makes a value an entity; it keeps, enforces and propagates those distinctions; and its distinctions are revised through the record''s own use'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057). Proposed to Active. Its premises
+    CLAIM-479 and CLAIM-419 and its grounds CASE-131 and CASE-178 are
+    Active, no objection is filed, and nothing in the record meets its
+    condition. The demonstration of the first three functions was checked
+    against luria's code (d73bf5a) and this record's luria.yaml: a
+    reference field is checked against the scheme it names; a declared
+    converse is written and its removal propagated; a vocabulary is
+    promoted to a scheme by a migration (LU-ADR-124); a bumped version
+    must carry a history entry; a Superseded entry must name its
+    successor; and a reference to an entry that no longer exists fails the
+    lint. The Retention paragraph now says which part of retention is
+    luria's, the warrant section no longer says the claim is Proposed
+    while CLAIM-419 is, and a limit on what the grammar decides is added.
+    The title and condition are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -45,7 +63,7 @@ summary: >-
   that luria's evidential role does not depend on accepting Barad's
   ontology.
 ---
-<!-- inactive-ok-file: CLAIM-476 CLAIM-419 CLAIM-470 TERM-089 CASE-178 — Proposed or new; the claim this was split from and the entries it rests on -->
+<!-- inactive-ok-file: CLAIM-476 CLAIM-470 — Proposed; the claim this was split from and the claim it complements -->
 
 # CLAIM-469: Luria is an apparatus for a record's objects in the operational sense: through its schemes, vocabularies, validators and generated views it realizes a system of distinctions that fixes what counts as a referable and governable object within the record, so that a split scheme makes one object two and a promoted vocabulary makes a value an entity; it keeps, enforces and propagates those distinctions; and its distinctions are revised through the record's own use
 
@@ -70,9 +88,14 @@ This is the operational claim, in [TERM-089](../terms.d/TERM-089.md)'s four func
   label becomes an entry with its own status, history and relations. A7 of
   the exchange: "The system has changed what kind of thing the value is
   permitted to be."
-- **Retention.** Entries, their versions and their history are kept, and a
-  retired entry keeps its code (CLAUDE.md: "Retire by status, never by
-  deletion").
+- **Retention.** Retiring is a status, not a removal. The status
+  vocabularies say what each retired state means, a Superseded entry must
+  name its successor, a bumped version must carry a history entry saying
+  what changed, and a reference to an entry that is no longer there fails
+  the lint. What keeps the files and their earlier text is the repository.
+  An entry nothing cites could be deleted without a finding, and for it
+  "Retire by status, never by deletion" (CLAUDE.md) is a convention, not a
+  check.
 - **Enforcement.** A distinction the grammar holds is checked by the lint,
   propagated along declared relations and shown in generated views. A
   distinction held only in prose is not. A typed relation fixes the
@@ -87,11 +110,16 @@ This is the operational claim, in [TERM-089](../terms.d/TERM-089.md)'s four func
 
 ## Its warrant
 
-Demonstrated for the first three functions, by construction. They are what
-luria's grammar and machinery do, and can be checked against its code and
-configuration. The fourth rests on [CLAIM-419](CLAIM-419.md) and the record's history, which is
-why the claim rests on [CLAIM-419](CLAIM-419.md) and is Proposed while [CLAIM-419](CLAIM-419.md) is. The
-owner's review: "close to demonstrated".
+Demonstrated for the first three functions, by construction: they are what
+luria's grammar and machinery do, and they were checked against its code and
+this record's configuration on 2026-10-29 (the history note names the
+checks). The fourth, that the distinctions are revised through the record's
+use, is the record's history. CLAIM-419 holds it (Active, empirical) with its
+five amendments, and CASE-178 measures how they arrive. This claim rests on
+that and adds no history of its own. What it adds is that a revision changes
+what luria differentiates and enforces on its next run, because luria reads
+its grammar from the configuration the amendment edits. The owner's review:
+"close to demonstrated".
 
 ## What it does not claim
 
@@ -107,3 +135,8 @@ owner's review: "close to demonstrated".
   A22 §10).
 - **That luria maintains itself.** It depends on maintainers, computers and
   the repository it lives in ([CLAIM-195](CLAIM-195.md)).
+- **That the grammar decides which kind a piece of content is.** It fixes
+  the kinds and what follows from each. Whether a proposition about support
+  is filed as an ARG or a CLAIM (ADR-061), or a reading as grounds or as
+  corroboration (ADR-058), is the filer's judgement, guided by decisions no
+  tool reads.

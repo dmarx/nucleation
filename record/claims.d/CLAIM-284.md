@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpspyay
 title: 'A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -21,19 +21,42 @@ history:
     THEORY-1110's pattern: the claim uses the conditions as stated, not
     their truth. The body cites the split where it cites the proposal. The
     claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Narrowed by the eleventh status review (ADR-057, ADR-059) to write in
+    CLAIM-485, which its note of 2026-10-28 says narrows it: endogeneity
+    contributes the capacity to revise the governing organization, not the
+    allocation of authority among processes. The condition and the summary
+    now say so, and the summary's list of objections is corrected, since
+    none of CLAIM-116, CLAIM-165, CLAIM-194 and CLAIM-288 is filed against
+    this claim or objects to it as stated. Version 3's condition read: "A
+    system whose constituent processes demonstrably generate and revise
+    the allocation of authority among themselves, and maintain and
+    transform the organization that does so, that on every independent
+    criterion the record holds (individuality, interactional asymmetry,
+    self-set norms) is no more a self than a behaviourally matched system
+    whose organization is maintained and revised by an external
+    controller. That would show endogenous governance adds nothing to
+    self-constitution. Or the converse: systems that clearly meet those
+    criteria with no endogenous allocation of authority among their
+    processes, showing that governance of that kind is not part of what
+    makes them selves." The title and status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A system whose constituent processes demonstrably generate and revise the
-  allocation of authority among themselves, and maintain and transform the
+  A system whose constituent processes demonstrably revise the standards
+  that govern them when those break down, and maintain and transform the
   organization that does so, that on every independent criterion the record
   holds (individuality, interactional asymmetry, self-set norms) is no more
-  a self than a behaviourally matched system whose organization is
-  maintained and revised by an external controller. That would show
-  endogenous governance adds nothing to self-constitution. Or the converse:
-  systems that clearly meet those criteria with no endogenous allocation of
-  authority among their processes, showing that governance of that kind is
-  not part of what makes them selves.
+  a self than a behaviourally matched system whose standards are maintained
+  and revised by an external controller. That would show endogenous
+  governance adds nothing to self-constitution. Or the converse: systems
+  that clearly meet those criteria and cannot take part in revising their
+  own governing organization, showing that governance of that kind is not
+  part of what makes them selves. Not defeated by a system that meets them
+  with its authority allocated from outside: what endogenous allocation adds
+  is CLAIM-485's question, not this claim's.
 tags:
 - self-governance
 - self
@@ -53,13 +76,16 @@ uses:
 summary: >-
   A10 §11's central hypothesis, reached after the owner asked at U10 for a
   research programme on a constitutive theory of selfhood. It treats the
-  endogeneity of governance as the distinguishing mark: the processes do
-  not only run inside an architecture, they change which processes can act
-  and how the organization will operate. A11 named its falsifier. "Self" is
+  endogeneity of governance as the distinguishing mark: the organization
+  takes part in changing how it will operate, which CLAIM-485 locates in
+  revising its governing standards rather than in allocating authority
+  among its processes. A11 named its falsifier. "Self" is
   in [TERM-045](../terms.d/TERM-045.md)'s self-governing sense, with persisting and integrated
-  senses nearby, and not the subject sense. Proposed, and under the
-  record's objections: [CLAIM-116](CLAIM-116.md), [CLAIM-165](CLAIM-165.md), [CLAIM-194](CLAIM-194.md) and the counter
-  filed with it.
+  senses nearby, and not the subject sense. None of the entries it
+  is set against objects to it as stated: it disclaims the will CLAIM-116
+  denies, the subject sense of CLAIM-165 and a boundary test (CLAIM-194),
+  and CLAIM-288 undercuts ARG-015, the sufficiency-test route to it, not
+  the claim.
 complements:
 - CLAIM-485
 - CLAIM-286
@@ -179,3 +205,9 @@ revise the governing standards, [CLAIM-025](CLAIM-025.md)'s third capacity and t
 "conditions of its own transformation", and not the allocation of authority
 among processes. The two complement each other, and both answer
 [QUESTION-092](../questions.d/QUESTION-092.md).
+
+## Note of 2026-10-29: what holds it back
+
+The record's answer to QUESTION-092 is offered, not held. CLAIM-485, which
+says what this claim's endogeneity contributes, is Proposed on a Proposed
+reading (THEORY-219), and this claim's narrowing adopts its distinction.
