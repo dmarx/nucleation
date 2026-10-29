@@ -174,29 +174,29 @@ specific stimuli in ancestral environments" (Discussion).
 
 ## Connections
 
-- **The question it is filed for (QUESTION-tmp8bttd).** It is the paper
+- **The question it is filed for ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** It is the paper
   behind the question's "germline" route. Its own controls are aimed at
   separating that route from the social one, which in mice means maternal
   care and the mother's exposure to a stressed mate.
 - **Reviews and critiques held but unread.** Bohacek and Mansuy
-  (LIT-tmph5rq7) review this kind of work; Heard and Martienssen
-  (LIT-tmpjgbgk), Horsthemke (LIT-tmpmsnfq) and Bird (LIT-tmpaf6cr) argue
+  ([LIT-tmph5rq7](../literature.d/LIT-tmph5rq7.md)) review this kind of work; Heard and Martienssen
+  ([LIT-tmpjgbgk](../literature.d/LIT-tmpjgbgk.md)), Horsthemke ([LIT-tmpmsnfq](../literature.d/LIT-tmpmsnfq.md)) and Bird ([LIT-tmpaf6cr](../literature.d/LIT-tmpaf6cr.md)) argue
   that germline reprogramming makes such transmission unlikely in
   mammals. Heard and Martienssen's manuscript (PMC4020004) was searched
   for this paper and does not cite it. None of these was read for this
   NOTE, so the critique of Dias and Ressler is not assessed here.
-- **Memory through metamorphosis (QUESTION-tmpws54x).** Blackiston et al.
-  (LIT-tmp0v56k) trained caterpillars to avoid an odour; this paper
+- **Memory through metamorphosis ([QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md)).** Blackiston et al.
+  ([LIT-tmp0v56k](../literature.d/LIT-tmp0v56k.md)) trained caterpillars to avoid an odour; this paper
   trained fathers to fear one. The question links them. The link is
   looser than it looks: the moth keeps an aversion, while these offspring
   show greater sensitivity, which the authors decline to call aversion.
-- **Inherited non-genetic state (THEORY-179).** A bacterial cell's
+- **Inherited non-genetic state ([THEORY-179](../theory.d/THEORY-179.md)).** A bacterial cell's
   transient inherited state is the simplest relative: something about a
   parent's condition, not its genes, sets the offspring's.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The question's framing (the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The question's framing (the
   biological routes need no self; what passes is a state, not an
   identification) is borne out here, and more sharply than the framing
   says. These are inferences; the paper is about mice and says nothing of
@@ -211,17 +211,17 @@ specific stimuli in ancestral environments" (Discussion).
   - So the paper bears on the identity route only negatively. If an
     ancestor's injury becomes part of a descendant's self, it does so by
     a route this kind of inheritance does not supply.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed.
-- **QUESTION-tmp8bttd.** It should be cited as evidence for transmission
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed.
+- **[QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).** It should be cited as evidence for transmission
   of a cue-specific *sensitivity*, not of trauma or fear. That narrows
   what the germline route can carry on the best animal evidence the
   record holds.
-- **QUESTION-tmpws54x.** It weakens the analogy the question draws. If the
+- **[QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md).** It weakens the analogy the question draws. If the
   reported offspring effect in swallowtails were real, this paper
   suggests that what would pass is heightened sensitivity to the odour,
   not the learned avoidance. That is an inference from one mouse paper.
-- **A dated note is proposed for QUESTION-tmp8bttd** (section 3). No
-  dated note on CLAIM-tmpjylq8: the paper does not touch the thesis
+- **A dated note is proposed for [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (section 3). No
+  dated note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md): the paper does not touch the thesis
   except by showing a route on which it is idle.
 - **No THEORY filed.** One lab's result, with a speculative mechanism and
   an unread critique.
