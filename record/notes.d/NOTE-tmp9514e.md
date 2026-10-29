@@ -158,27 +158,27 @@ generation with the accumulated epigenetic baggage of the previous one"
 
 ## Connections
 
-- **Heard and Martienssen (LIT-tmpjgbgk)** is cited for directionless plant
+- **Heard and Martienssen ([LIT-tmpjgbgk](../literature.d/LIT-tmpjgbgk.md))** is cited for directionless plant
   epialleles. Heard reviewed this article, with Anne Ferguson-Smith; Bird
-  commented on Heard's 2014 manuscript. **Horsthemke (LIT-tmpmsnfq)** is
+  commented on Heard's 2014 manuscript. **Horsthemke ([LIT-tmpmsnfq](../literature.d/LIT-tmpmsnfq.md))** is
   cited as "a recent critical review" and co-authored with Bird in 2023.
   The three readings are one school, not three independent judgements.
-- **Pembrey et al. (LIT-tmpmxksg)** and **Yehuda et al. (LIT-tmp4sa73)**
+- **Pembrey et al. ([LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md))** and **Yehuda et al. ([LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md))**
   are the two human studies Bird disputes. Both are in the record,
   unread.
 - **Cultural transmission inside families** (the Leningrad example) is the
   same route as the question's parenting route, and the record's
-  meta-analyses of Holocaust offspring (LIT-tmpd29uc, LIT-tmppmeni) bear
+  meta-analyses of Holocaust offspring ([LIT-tmpd29uc](../literature.d/LIT-tmpd29uc.md), [LIT-tmppmeni](../literature.d/LIT-tmppmeni.md)) bear
   on whether it carries harm.
-- **Inherited state in bacteria** (THEORY-179). Bird's fission-yeast case
+- **Inherited state in bacteria** ([THEORY-179](../theory.d/THEORY-179.md)). Bird's fission-yeast case
   is the closest analogue: an induced state that persists while the
-  stimulus lasts and dissipates soon after. THEORY-179's E. coli state
+  stimulus lasts and dissipates soon after. [THEORY-179](../theory.d/THEORY-179.md)'s E. coli state
   fades by about seven generations. Both are inherited physiology in
   organisms without a sequestered germline, and both are short.
 
 ## Bearing on the record
 
-- **The question (QUESTION-tmp8bttd).**
+- **The question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).**
   - *Germline route.* Bird gives the record's first reasons against its
     two named human germline cases. Överkalix: cultural confounding,
     non-replication in a larger cohort, multiple testing. The Holocaust
@@ -193,14 +193,14 @@ generation with the accumulated epigenetic baggage of the previous one"
   - *Cultural transmission as the confound.* Bird's main objection to
     Överkalix is that families pass on eating habits. What the sceptic
     calls a confound is, for the question, one of the routes.
-- **The owner's thesis (CLAIM-tmpjylq8).** Indirect, and an inference. The
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Indirect, and an inference. The
   weaker the germline route, the more of what is called
   intergenerational trauma must be carried socially: by care, habit and
   story. That raises the share left to the identity route without
   showing that the identity route carries it; Bird's own example of
   cultural transmission (diet) is habit, not identification. No note on
   the claim is proposed.
-- **Proposed dated note on QUESTION-tmp8bttd** (below, section 3).
+- **Proposed dated note on [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (below, section 3).
 - **No THEORY filed.**
 - **No ML instruction.**
 
@@ -216,7 +216,7 @@ generation with the accumulated epigenetic baggage of the previous one"
   effect on other outcomes.
 - **"The Swedish famine"** describes Pembrey et al. 2006 loosely; the
   record's LIT describes its exposure as grandparents' food supply in
-  mid-childhood, not famine as such. To check when LIT-tmpmxksg is read.
+  mid-childhood, not famine as such. To check when [LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md) is read.
 - **The cultural objection is by analogy.** The Leningrad diet study is
   about a different population; no cultural variable in the Swedish data
   is examined.
@@ -232,7 +232,7 @@ generation with the accumulated epigenetic baggage of the previous one"
 ## Open questions
 
 - Does the Holocaust FKBP5 study survive the objections Bird names? The
-  record should read it (LIT-tmp4sa73) before weighting either.
+  record should read it ([LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md)) before weighting either.
 - Did Vågerö et al. 2018 replicate Överkalix or not? It seems to have
   confirmed one male-line effect and failed on another.
 - If cultural transmission of behaviour explains family resemblance in

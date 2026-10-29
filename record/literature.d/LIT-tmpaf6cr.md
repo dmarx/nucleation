@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp9514e) from the publisher's PDF (CC
+  read in full 2026-10-29 ([NOTE-tmp9514e](../notes.d/NOTE-tmp9514e.md)) from the publisher's PDF (CC
   BY); worth reading as the most recent sceptical statement, and the only
   one of the three to name and dispute the human trauma claims.
 title: 'Transgenerational epigenetic inheritance: a critical perspective'
@@ -38,7 +38,7 @@ summary: >-
 
 Bird, A. (2024). *Frontiers in Epigenetics and Epigenomics*, 2, 1434253.
 
-Read in full in NOTE-tmp9514e, from the publisher's PDF (CC BY).
+Read in full in [NOTE-tmp9514e](../notes.d/NOTE-tmp9514e.md), from the publisher's PDF (CC BY).
 
 ## Why this is here
 

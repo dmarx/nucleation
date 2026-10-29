@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpahh4j) from the published text
+  read in full 2026-10-29 ([NOTE-tmpahh4j](../notes.d/NOTE-tmpahh4j.md)) from the published text
   (PMC6065375, CC BY), served by NCBI's PMC OAI-PMH service; worth reading
   as the shortest statement of what would prove germline epigenetic
   inheritance in humans, and of why the proof may be out of reach.
@@ -39,7 +39,7 @@ summary: >-
 
 Horsthemke, B. (2018). *Nature Communications*, 9, 2973.
 
-Read in full in NOTE-tmpahh4j, from the published text (PMC6065375, CC BY), served by NCBI's PMC OAI-PMH service.
+Read in full in [NOTE-tmpahh4j](../notes.d/NOTE-tmpahh4j.md), from the published text (PMC6065375, CC BY), served by NCBI's PMC OAI-PMH service.
 
 ## Why this is here
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp3dbkt) from the authors' accepted
+  read in full 2026-10-29 ([NOTE-tmp3dbkt](../notes.d/NOTE-tmp3dbkt.md)) from the authors' accepted
   manuscript (PMC4020004), served by NCBI's PMC OAI-PMH service; worth
   reading as the standard map of epigenetic inheritance across plants,
   worms and mammals, and as the source of the F2/F3 rule the human trauma
@@ -41,7 +41,7 @@ summary: >-
 
 Heard, E. & Martienssen, R. A. (2014). *Cell*, 157(1), 95–109.
 
-Read in full in NOTE-tmp3dbkt, from the authors' accepted manuscript (PMC4020004), served by NCBI's PMC OAI-PMH service.
+Read in full in [NOTE-tmp3dbkt](../notes.d/NOTE-tmp3dbkt.md), from the authors' accepted manuscript (PMC4020004), served by NCBI's PMC OAI-PMH service.
 
 ## Why this is here
 

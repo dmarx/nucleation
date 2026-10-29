@@ -162,27 +162,27 @@ rivals, genes can be excluded in humans; environment and culture cannot.
 
 ## Connections
 
-- **Heard and Martienssen (LIT-tmpjgbgk)** is cited for the rodent
-  literature; the F2/F3 rule is theirs. Bird (LIT-tmpaf6cr) cites this
+- **Heard and Martienssen ([LIT-tmpjgbgk](../literature.d/LIT-tmpjgbgk.md))** is cited for the rodent
+  literature; the F2/F3 rule is theirs. Bird ([LIT-tmpaf6cr](../literature.d/LIT-tmpaf6cr.md)) cites this
   Comment as "a recent critical review". Horsthemke and Bird later
   co-authored a paper on mutation-induced CpG island methylation (2023,
   in Bird's references), so the sceptics are not independent voices.
-- **The Överkalix study** (Pembrey et al., LIT-tmpmxksg) is in the
+- **The Överkalix study** (Pembrey et al., [LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md)) is in the
   record; the Comment cites its companion paper (Kaati et al. 2007),
   which the record does not hold.
-- **The womb** (Heijmans et al., LIT-tmpkgr1s). The record already reads
+- **The womb** (Heijmans et al., [LIT-tmpkgr1s](../literature.d/LIT-tmpkgr1s.md)). The record already reads
   the Dutch Hunger Winter as intergenerational; this Comment agrees and
   says why.
-- **Lehrner and Yehuda (LIT-tmpzfk28)**, who join group narrative to the
+- **Lehrner and Yehuda ([LIT-tmpzfk28](../literature.d/LIT-tmpzfk28.md))**, who join group narrative to the
   biology, meet Fig. 1a's statement that "at present there is no evidence
   for a direct effect of culture on the epigenome".
-- **Inherited state in bacteria** (THEORY-179). A single-celled organism
+- **Inherited state in bacteria** ([THEORY-179](../theory.d/THEORY-179.md)). A single-celled organism
   has no Weismann barrier; whatever state a mother cell holds, its
   daughters receive. The barrier is what makes the mammalian case hard.
 
 ## Bearing on the record
 
-- **The question (QUESTION-tmp8bttd).** The Comment does two things for
+- **The question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** The Comment does two things for
   it.
   - It answers the question's "What would count as an answer" on routes,
     in the negative for humans. The question asks for a human study that
@@ -196,7 +196,7 @@ rivals, genes can be excluded in humans; environment and culture cannot.
   - It turns the three human claims into specific failures: Överkalix
     (unique cohort, unreplicated); the Dutch Hunger Winter (fetal
     programming, so not a germline case); familial epimutations (genetic).
-- **The owner's thesis (CLAIM-tmpjylq8).** Indirect, and an inference. The
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Indirect, and an inference. The
   author's last word is that culture, transmitted by communication,
   imitation, teaching and learning, very likely outweighs epigenetic
   inheritance. That places the bulk of what passes between human
@@ -204,7 +204,7 @@ rivals, genes can be excluded in humans; environment and culture cannot.
   "culture" is learned behaviour, not identification with ancestors; the
   Comment gives no support to the identity route over the parenting
   route. No note on the claim is proposed.
-- **Proposed dated note on QUESTION-tmp8bttd** (below, section 3).
+- **Proposed dated note on [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (below, section 3).
 - **No THEORY filed.**
 - **No ML instruction.**
 
@@ -229,7 +229,7 @@ rivals, genes can be excluded in humans; environment and culture cannot.
   move the human question at all? Perhaps only a mechanism shown in
   animals and then found, molecularly, in human germ cells.
 - Are any trauma-related human methylation findings, such as FKBP5 in
-  Holocaust offspring (LIT-tmp4sa73), secondary to genotype? Step 1's
+  Holocaust offspring ([LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md)), secondary to genotype? Step 1's
   haplotype test is the one step that can be done in humans.
 - How much of what descendants carry is the "culture" this Comment
   means, learned habits and teaching, and how much is identification

@@ -159,14 +159,14 @@ by-product of genome defence, not a channel for a parent's experience.
 
 ## Connections
 
-- **The other two sceptics.** Horsthemke (LIT-tmpmsnfq) takes the F2/F3
-  rule from here and adds the secondary epimutation. Bird (LIT-tmpaf6cr)
+- **The other two sceptics.** Horsthemke ([LIT-tmpmsnfq](../literature.d/LIT-tmpmsnfq.md)) takes the F2/F3
+  rule from here and adds the secondary epimutation. Bird ([LIT-tmpaf6cr](../literature.d/LIT-tmpaf6cr.md))
   cites this review for directionless plant epialleles. Bird is thanked
   here for comments on the manuscript; the three are not independent.
-- **The mouse fear study** (Dias and Ressler, LIT-tmpk0wlg) appeared too
-  late to be discussed; Bohacek and Mansuy (LIT-tmph5rq7) is the record's
+- **The mouse fear study** (Dias and Ressler, [LIT-tmpk0wlg](../literature.d/LIT-tmpk0wlg.md)) appeared too
+  late to be discussed; Bohacek and Mansuy ([LIT-tmph5rq7](../literature.d/LIT-tmph5rq7.md)) is the record's
   review on the other side.
-- **Inherited state in bacteria** (THEORY-179). E. coli cells pass a
+- **Inherited state in bacteria** ([THEORY-179](../theory.d/THEORY-179.md)). E. coli cells pass a
   physiological state to descendants for about four generations, then
   lose it. Box 3 lists exactly this kind of route, a self-sustaining
   feedback loop or a metabolite, as epigenetic inheritance without
@@ -175,12 +175,12 @@ by-product of genome defence, not a channel for a parent's experience.
   together are a contrast, not a parallel: the same short, decaying
   persistence (Agouti diet: two generations; Kit: gone by F4) is what
   survives in mammals.
-- **Cultural persistence** (THEORY-889). The authors' last word, that human
-  culture is Lamarckian, is the route THEORY-889 documents for attitudes.
+- **Cultural persistence** ([THEORY-889](../theory.d/THEORY-889.md)). The authors' last word, that human
+  culture is Lamarckian, is the route [THEORY-889](../theory.d/THEORY-889.md) documents for attitudes.
 
 ## Bearing on the record
 
-- **The question (QUESTION-tmp8bttd).** On the germline route this review
+- **The question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** On the germline route this review
   is a strong negative for mammals in general and a weak one for humans in
   particular. It examines only nutritional human studies, and finds them
   intergenerational. It never addresses trauma in humans.
@@ -193,14 +193,14 @@ by-product of genome defence, not a channel for a parent's experience.
   should be split: a parent's exposed gametes (intergenerational, not
   excluded by this review) and inheritance through untouched generations
   (what reprogramming makes unlikely).
-- **The owner's thesis (CLAIM-tmpjylq8).** Indirect. If marks are reset
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Indirect. If marks are reset
   each generation, what reaches grandchildren who never met the trauma
   must travel by care, behaviour or story. That leaves more of
   "intergenerational trauma", past the first generation, to the social
   routes, and the identity route is one of them. The review does not
   choose among those routes, and it treats culture as transmitted
   teaching and habit, not as identity. No note on the claim is proposed.
-- **Proposed dated note on QUESTION-tmp8bttd** (below, section 3).
+- **Proposed dated note on [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (below, section 3).
 - **No THEORY filed.**
 - **No ML instruction.**
 
@@ -237,5 +237,5 @@ by-product of genome defence, not a channel for a parent's experience.
 - Does the F2/F3 rule hold for small RNA in sperm, whose fate after
   fertilization the review calls unclear?
 - Human trauma is not examined here. Do the human studies the question
-  cites (LIT-tmpmxksg, LIT-tmp4sa73) meet even the intergenerational
+  cites ([LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md), [LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md)) meet even the intergenerational
   standard, or only the loose one?
