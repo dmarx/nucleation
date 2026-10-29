@@ -86,7 +86,6 @@ summary: >-
 illustrated_by:
 - CASE-166
 ---
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-025 CLAIM-417 — Proposed; the argument this claim moved to and its conclusion, open -->
 # CLAIM-427: Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms
 

@@ -33,7 +33,6 @@ summary: >-
   temperature while the convergence theorem assumes a greedy limit. The
   approximation requires agents interchangeable within a neighbourhood.
 ---
-<!-- inactive-ok-file: NOTE-1148 — the reading this is filed from -->
 
 # THEORY-945: When each agent's Q-function is approximated as an average of pairwise terms and expanded about the mean action of its neighbours, the first-order term vanishes and the approximation error is a second-order remainder bounded by the curvature of the pairwise Q-function, leaving a two-body problem between an agent and its neighbours' average; with homogeneous agents, mean field Q-learning converges to the Nash Q-value under assumptions the authors call strong, and learned tasks of 500 and 1000 agents where independent and centralized-critic baselines failed
 

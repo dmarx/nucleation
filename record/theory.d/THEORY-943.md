@@ -31,7 +31,6 @@ summary: >-
   focal. The scheme replaces ground truth with the center's model of how
   honest signals correlate.
 ---
-<!-- inactive-ok-file: NOTE-1139 — the reading this is filed from -->
 
 # THEORY-943: When a center with no ground truth pays each rater a strictly proper scoring rule on the distribution of a reference rater's report implied by her own report, under a common prior and a known signal model in which raters' signals are stochastically relevant to one another, truthful reporting is a strict Nash equilibrium, but not the only one: equilibria in which every rater reports the same signal regardless of what she observed also exist
 

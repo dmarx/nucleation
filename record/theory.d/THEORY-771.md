@@ -61,7 +61,6 @@ summary: >-
 bears_on:
 - QUESTION-221
 ---
-<!-- inactive-ok-file: NOTE-1020 — new reading, cited for the re-derivations its promotion would rest on -->
 <!-- inactive-ok-file: LIT-1127 LIT-1294 — Unavailable; the works this result stands in for, nothing rests on them -->
 <!-- inactive-ok-file: THEORY-257 CLAIM-157 CLAIM-331 — Proposed; accounts and claims named for context, nothing here rests on their being settled -->
 

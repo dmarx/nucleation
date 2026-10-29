@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpek80j
 title: 'For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell''s order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-10'
@@ -40,6 +40,15 @@ history:
     re-performance to CLAIM-258. The deficiency and Wyner-Ziv steps,
     which rest on unread works, move to CLAIM-488, and LIT-778 and
     LIT-767 leave the grounds.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057, ADR-059). CLAIM-218, granted on
+    2026-10-10, was written in at version 4 without being named in its
+    history. The note of 2026-10-28 ('The measure') says the record's
+    D_Q is not the order this claim names and that the claim does not
+    say D_Q realizes it. The defeat condition's second clause uses the
+    Q-restricted deficiency, not D_Q. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-

@@ -43,7 +43,6 @@ summary: >-
   ([THEORY-996](THEORY-996.md)), which found misses behind saturated attention, as this
   predicts, and tested no residual-stream nodes.
 ---
-<!-- inactive-ok-file: THEORY-1000 — Proposed; AtP*'s claim of transfer, the neighbouring open account, cited as open -->
 # THEORY-1021: In transformer language models, attribution patching agrees well with activation patching for small patches of single heads and their queries, keys, values and attention patterns, for nodes late in a circuit relative to the metric, and for circuits that route information through attention, and agrees badly for large patches such as whole residual streams, for the first MLP layer and the early layers of deep circuits, where nonlinearities move out of saturation, and where an effect needs several features at once, as Nanda proposes
 
 ## Source

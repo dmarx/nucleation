@@ -70,7 +70,6 @@ complements:
 ---
 <!-- inactive-ok-file: THEORY-040 THEORY-142 QUESTION-071 CLAIM-162 CLAIM-362 CLAIM-358 — Proposed; the objection's grounds and the claims it bears on, open -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the set-aside claim whose manipulation defeater this repeats -->
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-030 — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-364: Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history

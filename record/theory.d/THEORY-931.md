@@ -30,7 +30,6 @@ summary: >-
   naive learners. Table 3's naive-learner tit-for-tat figure (20.8%) does
   not square with their return (−1.98), and the NOTE says so.
 ---
-<!-- inactive-ok-file: NOTE-1150 — the reading this is filed from -->
 
 # THEORY-931: A learner that ascends its own return after one anticipated naive gradient step of its opponent, differentiating through that step, reached tit-for-tat-like reciprocity in 81% of fifty exact-gradient runs of the memory-one iterated prisoner's dilemma, where pairs of naive gradient learners ended at the mutual-defection return, and settled at the mixed equilibrium of iterated matching pennies where naive learners did not converge; shown for two players, one-step shaping and access to the opponent's parameters
 

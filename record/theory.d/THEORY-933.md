@@ -29,7 +29,6 @@ summary: >-
   observability it is nearly empty; its content is whether members acting
   on local histories can each pick their part of the optimum.
 ---
-<!-- inactive-ok-file: NOTE-1141 — the reading this is filed from -->
 
 # THEORY-933: Individual-Global-Max, that the agents' individually greedy actions form a greedy joint action, is strictly weaker than additive or monotonic factorisation: every single-state matrix game with a unique optimum satisfies it, yet in 177 of 310 random three-by-three two-agent games value-decomposition and monotonic mixing failed to learn the optimal joint action that an IGM-only method found; a sufficient condition is that the sum of individual values, shifted by a state value, equals the joint value at the greedy profile and bounds it from above elsewhere
 

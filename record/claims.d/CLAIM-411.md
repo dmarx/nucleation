@@ -62,9 +62,7 @@ summary: >-
 complements:
 - CLAIM-439
 ---
-<!-- inactive-ok-file: TERM-072 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-412 THEORY-577 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1362 — Deferred; works registered unread, cited as such -->
 # CLAIM-411: Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight's apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential
 
 ## The objection

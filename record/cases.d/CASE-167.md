@@ -25,7 +25,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1100 NOTE-1241 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1562 LIT-1560 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
-<!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
 # CASE-167: The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine alga, whose division is coupled to the host's and which imports host-encoded proteins, reclassified as an early-stage organelle in 2024
 

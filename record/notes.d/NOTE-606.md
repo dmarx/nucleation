@@ -30,7 +30,6 @@ summary: >-
   cost and knowledge effects, scalar and embedded implicature, hyperbole,
   irony, metaphor and vague adjectives.
 ---
-<!-- inactive-ok-file: THEORY-155 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # NOTE-606: Pragmatic language interpretation as probabilistic inference
 

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppqir6
 title: 'A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,17 @@ history:
     dropped. What this claim adds is the carry-over to communicative
     realizations, which the body calls "the filer's step", so it is
     interpretive (ADR-043). The status stays Proposed.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The second bullet's ground moved from THEORY-002 to THEORY-004 and
+    THEORY-723 by the eleventh status review (ADR-057, ADR-058). The
+    bullet uses only what a kernel and a softmax distribution fix, which
+    those Active readings hold, and not THEORY-002's reading of the
+    Platonic hypothesis, which this claim never invokes. THEORY-002's
+    supports entry for this claim is removed. The old bullet: Convergence
+    of kernels fixes representations "only up to the symmetry group of
+    what is observed" (THEORY-002). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,15 +46,16 @@ rests_on:
 - CLAIM-269
 grounds:
 - THEORY-008
-- THEORY-002
+- THEORY-004
+- THEORY-723
 - THEORY-018
 - THEORY-019
 summary: >-
-  A partial answer to [QUESTION-031](../questions.d/QUESTION-031.md) for the linear case, from four THEORYs
+  A partial answer to [QUESTION-031](../questions.d/QUESTION-031.md) for the linear case, from THEORYs
   the record held without linking them to the line. What a regularized
   linear readout decodes is a function of the normalized kernel
   ([THEORY-008](../theory.d/THEORY-008.md)); kernels fix a representation only up to the symmetry of
-  what is observed ([THEORY-002](../theory.d/THEORY-002.md)); an inner product beyond that is a
+  what is observed (THEORY-004, THEORY-723); an inner product beyond that is a
   stipulation ([THEORY-018](../theory.d/THEORY-018.md)); and spectral degeneracy does not identify the
   symmetry ([THEORY-019](../theory.d/THEORY-019.md)). Proved results for learned representations;
   the carry-over to communicative realizations is the filer's.
@@ -71,9 +83,10 @@ answer:
   normalized kernel are indistinguishable to every such probe, whatever
   basis they are written in. CKA, CCA and GULP are averages of readout
   agreement.
-- **Kernels fix representations only up to symmetry.** Convergence of
-  kernels fixes representations "only up to the symmetry group of what is
-  observed" ([THEORY-002](../theory.d/THEORY-002.md)).
+- **Kernels fix representations only up to symmetry.** A centred kernel
+  fixes a representation up to a translation and an orthogonal map
+  ([THEORY-004](../theory.d/THEORY-004.md)), and a softmax model's output distribution fixes its final
+  layer only up to an invertible linear map ([THEORY-723](../theory.d/THEORY-723.md)).
 - **Anything further is stipulated.** Softmax training identifies a final
   layer only up to an invertible linear map, so "no inner product on it is
   intrinsic", and a chosen one is fixed by stipulation ([THEORY-018](../theory.d/THEORY-018.md)).

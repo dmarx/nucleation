@@ -21,7 +21,6 @@ used_by:
 - CLAIM-150
 - CLAIM-151
 ---
-<!-- inactive-ok-file: QUESTION-284 — Open; the question that asks the distinction without a domain -->
 
 # TERM-038: descriptive, causal and constitutive relations of a communicative act
 

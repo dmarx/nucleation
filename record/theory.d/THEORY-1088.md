@@ -21,7 +21,6 @@ summary: >-
   internal to the loop: minimal change and a conserved quantity, not
   evidence from outside it.
 ---
-<!-- inactive-ok-file: CLAIM-342 QUESTION-285 — Proposed or Open; the loop claim and the question this is a case for, cited as open -->
 
 # THEORY-1088: When the expression maps of a discourse sheaf diffuse to reduce disagreement, with opinions held fixed they converge to the nearest sheaf, in Frobenius distance, of which the opinions are a global section, so apparent consensus is reached by changing what is said ("learning to lie"); with opinions diffusing too the joint flow is gradient descent on ½‖δx‖², and conserved diagonal blocks of αδᵀδ − βxxᵀ keep the opinions from collapsing to zero; nothing in either flow checks an expression against the opinion it expresses
 

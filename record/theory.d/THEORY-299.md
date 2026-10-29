@@ -39,7 +39,6 @@ summary: >-
   extend, is the paper's own remark taken further by the record; it is
   what separates this use of sheaves from the contextuality line.
 ---
-<!-- inactive-ok-file: QUESTION-148 — Open; the bilinear question moved out of this account's promote_when, named as open -->
 <!-- inactive-ok-file: LIT-276 THEORY-024 — Rejected; named for contrast, not leaned on: LIT-276 for NOTE-249's finding that it has no connection to this paper, THEORY-024 as a neighbouring use of global sections -->
 
 # THEORY-299: Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf of vector spaces pulled back from the schema, each triple scored by a norm of the coboundary on its edge and, in the squared-Euclidean form, the whole graph by the sheaf Laplacian; since the zero cochain is always a global section, what they learn is a contrastive margin, not the existence of a section

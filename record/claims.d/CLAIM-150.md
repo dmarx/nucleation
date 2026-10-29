@@ -54,7 +54,6 @@ supports:
 <!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-472 — Proposed; the claims that name this guard, cited as open -->
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the two theses this disclaimer guards, both open -->
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-023 ARG-038 — Rejected; the arguments this claim's support verdicts moved to, which it undercuts -->
 <!-- inactive-ok-file: CLAIM-206 — Proposed; the claim that rests on this one, cited as open -->
 

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpuk7tx
 title: 'A loosely organized population can change what an outside institution does through its members'' separately motivated acts of making, selecting and passing things on, without forming a collective intention or judgment, when the organized pattern of those acts, and not only the acts of identifiable individuals, earns its place in explaining the change'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added by the eleventh status review (ADR-057):
+    CLAIM-154, on which this claim rests, is narrowed to candidates whose
+    model stays regular at the switch-off, conceding CLAIM-188. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -102,3 +110,9 @@ the kind of test and not yet its threshold.
   Drift inside an organization ([CLAIM-192](CLAIM-192.md)) and a crowd steering an avatar
   ([CASE-075](../cases.d/CASE-075.md)) are effects inside the population's own activity; this is an
   effect on an outside institution.
+
+## Note of 2026-10-29: the narrowed rule
+
+[CLAIM-154](CLAIM-154.md) now holds only where the candidate's model stays regular at its
+switch-off. Where it is singular the rule overcharges ([CLAIM-188](CLAIM-188.md)), so a
+candidate it rejects may still earn a name.

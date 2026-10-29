@@ -44,7 +44,6 @@ summary: >-
   The authors also speculate that a larger transmitted population weakens
   bottlenecks and could feed further splitting.
 ---
-<!-- inactive-ok-file: NOTE-1235 — filed with this account, not yet merged -->
 <!-- inactive-ok-file: QUESTION-277 CASE-177 THEORY-1049 LIT-1563 LIT-1586 LIT-1612 LIT-1602 — Open, Proposed or Unfetched; the question, case, account and unread works this is set beside, nothing here rests on them -->
 # THEORY-1106: On Campbell and colleagues' comparison of cicadas, hosts whose endosymbiont Hodgkinia has split into many interdependent lineages compensate by sending more Hodgkinia cells to each egg, up to about six times as many, with Sulcia numbers and the transmission route unchanged, so that every egg still receives every lineage; the authors take the raised titre as a host adaptation driven by the symbiont's fragmentation and a cost of it
 

@@ -29,7 +29,6 @@ summary: >-
   absolute size only the matching term remains. The limit is stated with
   its proof omitted.
 ---
-<!-- inactive-ok-file: NOTE-1149 THEORY-938 — Proposed or new; the source and its sibling, named -->
 
 # THEORY-934: Under Bush–Mosteller learning with negative payoffs, the continuous-time limit is a replicator term in benefits plus a probability-matching term, which alone drives choice probabilities to success probabilities
 

@@ -1,25 +1,10 @@
 ---
 number: 111
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpj7zc1
-promote_when: >-
-  Two kinds of result, one for each half. For the layerwise claim, the
-  same measurement outside image classification: transformers and
-  language models, linearly connected by spawning, by fine-tuning from a
-  shared pretrained model or by alignment. It is refuted by a pair that
-  is linearly connected at the output while some intermediate layer's
-  interpolated features point away from the interpolated features. For
-  the averaging claim, the measurement on the averages practice actually
-  uses: soups of many fine-tuned models and SWA iterates, with the
-  features of the averaged network compared with the average of the
-  members' features. It is refuted if the claim holds for pairs but
-  fails for many-model averages. An approximate version of Zhou et al.'s
-  Theorem 1, bounding the feature error by the size of the
-  weak-additivity and commutativity residuals, would also move it. More
-  pairwise image-classifier measurements would not.
-title: "Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features"
-version: 2
+title: 'In image classifiers, between two networks linearly connected by spawning from a shared checkpoint or by permutation alignment (MLPs, and VGG-16, ResNet-20 and ResNet-50 on CIFAR-10 and Tiny-ImageNet), nearly every layer''s features at three points on the line were proportional to the interpolation of the endpoints'' features, and pairs that were not linearly connected were far from it'
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -33,6 +18,22 @@ history:
     and keeps the empirical regularity and the averaging clause. Its
     promote_when already concerned only those and is unchanged. The claim
     is unchanged, and the status stays Proposed.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the eleventh status review (ADR-057;
+    ADR-047's evidence ruling, one study read in full for a title that
+    claims no more than it showed). Zhou et al. (NOTE-512) and Lubana et
+    al. (NOTE-538) were each read in full, and the formal results are
+    THEORY-732's. The title now names the networks and the measurement,
+    two endpoints at three interpolation points, and drops the averaging
+    clause, which no source measured. The old title: Along a low-loss
+    linear path between two networks, every layer's features are the
+    interpolation of the endpoints' features, so averaging weights within
+    a basin averages features. The promote_when asked for the measurement
+    outside image classification and on many-model averages, which the
+    narrowed title does not claim. It moves unchanged to
+    QUESTION-318, as THEORY-114's did to QUESTION-312.
 tags:
 - loss-landscapes
 - representation-learning
@@ -55,15 +56,18 @@ summary: >-
   linear connectivity between interpolating minima forces shared
   activation patterns, and with shared patterns the hidden features are
   linear along the path. Measured on pairs at three interpolation points,
-  image classification only. The step to many-model averages such as
-  soups and SWA is not measured.
+  image classification only. The regularity outside image
+  classification, and the step to many-model averages such as soups and
+  SWA, are QUESTION-318.
 supports:
 - CLAIM-187
 - CLAIM-263
+bears_on:
+- QUESTION-318
 ---
 <!-- inactive-ok-file: THEORY-116 — Proposed; the account this one extends, and a sibling named in Connections, nothing here rests on their open parts -->
 
-# THEORY-111: Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features
+# THEORY-111: In image classifiers, between two networks linearly connected by spawning from a shared checkpoint or by permutation alignment (MLPs, and VGG-16, ResNet-20 and ResNet-50 on CIFAR-10 and Tiny-ImageNet), nearly every layer's features at three points on the line were proportional to the interpolation of the endpoints' features, and pairs that were not linearly connected were far from it
 
 ## Source
 
@@ -125,7 +129,8 @@ the claim implies.
   two endpoints. Model soups ([ANTH-LIT-675](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-675.md)) average many fine-tuned models,
   and SWA ([ANTH-LIT-673](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-673.md)) averages iterates along one trajectory. Neither
   is measured. Extending the claim to them needs the conditions to hold
-  jointly for every member, which nothing here tests.
+  jointly for every member, which nothing here tests. That is
+  [QUESTION-318](../questions.d/QUESTION-318.md).
 - **It does not say why connected pairs satisfy the conditions.** The
   account describes pairs already found to be connected. Why spawning or
   matching produces shared activation patterns is left open.

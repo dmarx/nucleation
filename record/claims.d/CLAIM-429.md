@@ -1,10 +1,31 @@
 ---
 number: 429
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpm3bml
-title: 'Where interpretation decides the occasions for cooperation and cooperation''s outcomes revise interpretation, an intervention can change the loop''s state or its coupling: a favourable exception changes the state and leaves the rule that judges exceptions as it was, while a change in how far outcomes may revise the governing interpretation changes the coupling, and only the second changes how later evidence is taken'
-version: 1
+title: 'Where interpretation decides the occasions for cooperation and cooperation''s outcomes revise interpretation, an intervention can change the loop''s state or its coupling: a favourable exception changes the state and leaves the rule that judges exceptions as it was, while a change in how far outcomes may revise the governing interpretation changes the coupling, and where the coupling does not depend on the state, only the second changes how later evidence is taken'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the eleventh status review (ADR-057). The
+    body read CLAIM-330 as saying a durable change has to act on the
+    coupling. It does not: in its linearization a change of state alone
+    dies away only while the loop is stable, and above the threshold one
+    along the growing direction is amplified with the coupling unchanged;
+    CLAIM-330 holds nothing about the nonlinear system's attractors. The
+    title now restricts its last clause to a coupling that does not depend
+    on the state, where it holds by construction. Version 1's title read
+    'Where interpretation decides the occasions for cooperation and
+    cooperation's outcomes revise interpretation, an intervention can
+    change the loop's state or its coupling: a favourable exception
+    changes the state and leaves the rule that judges exceptions as it
+    was, while a change in how far outcomes may revise the governing
+    interpretation changes the coupling, and only the second changes how
+    later evidence is taken'. Premises CLAIM-297 and CLAIM-330 and ground
+    CASE-146 are Active, no objection is filed, and nothing in the record
+    meets the condition. Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,7 +63,7 @@ summary: >-
   [CLAIM-330](CLAIM-330.md)).
 ---
 
-# CLAIM-429: Where interpretation decides the occasions for cooperation and cooperation's outcomes revise interpretation, an intervention can change the loop's state or its coupling: a favourable exception changes the state and leaves the rule that judges exceptions as it was, while a change in how far outcomes may revise the governing interpretation changes the coupling, and only the second changes how later evidence is taken
+# CLAIM-429: Where interpretation decides the occasions for cooperation and cooperation's outcomes revise interpretation, an intervention can change the loop's state or its coupling: a favourable exception changes the state and leaves the rule that judges exceptions as it was, while a change in how far outcomes may revise the governing interpretation changes the coupling, and where the coupling does not depend on the state, only the second changes how later evidence is taken
 
 ## The claim
 
@@ -70,8 +91,14 @@ intervention can act on either.
 
 [CLAIM-330](CLAIM-330.md) says only the loop can destabilize the symmetric state, and that
 scoring independently of the interpretation (γ ≈ 0) removes the
-instability. Read the other way, it says where a durable change has to
-act: on the coupling, not only on where the system sits.
+instability. In that linearization a change of state alone dies away while
+βγ < (1 − α)(1 − δ), and there only a change of coupling lasts. Above the
+threshold, a change of state along the growing direction is amplified with
+the coupling unchanged. [CLAIM-330](CLAIM-330.md) holds nothing about the bounded system's
+attractors, where a large enough change of state could carry the loop to
+another one. So the claim does not say a durable change must act on the
+coupling. Whether the durable changes after contact needed one is what the
+defeat condition asks.
 
 ## What it does not say
 

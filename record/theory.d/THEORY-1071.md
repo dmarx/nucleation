@@ -19,7 +19,6 @@ summary: >-
   inconsistent with quantum mechanics; that is [THEORY-1091](THEORY-1091.md), a separate
   and weaker argument.
 ---
-<!-- inactive-ok-file: LIT-1635 — Deferred; Rovelli's paper, quoted as the authors quote it -->
 <!-- inactive-ok-file: THEORY-1091 — Proposed; the neighbour cited as open -->
 
 # THEORY-1071: Quantum mechanics does not entail agential realism: Bohmian mechanics reproduces its predictions with an ontology of individual particles on determinate trajectories, and relational quantum mechanics, the interpretation Barad names as closest, makes values relational while keeping the systems prior to their interactions

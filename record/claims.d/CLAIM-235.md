@@ -58,7 +58,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its separation of corpus from elicitation and its two routes to signalling, open -->
 <!-- inactive-ok-file: THEORY-168 — Proposed; cited for the Lipschitz bound, the representation-dependence of CbD verdicts, task-loss comparison and the signalling identity, not as settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that makes deficiency computable, cited as open -->
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-037 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-235: The line's proposed quantities have no finite-data estimators: plug-in signalling from one or a few occurrences per context is positive in expectation when the true marginals agree, so the contextual fraction is undefined on raw tables, and deficiency over text-valued renderings has no estimator

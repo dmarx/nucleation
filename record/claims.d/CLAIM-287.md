@@ -1,10 +1,10 @@
 ---
 number: 287
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpzkkx2
 title: 'What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -21,6 +21,18 @@ history:
     conclusion about what matters, which Lewis (THEORY-476) contests.
     Version 2's note said it was grounded on THEORY-447. The claim is
     unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057). Proposed to Active: it rests on no
+    claim, no objection is filed, and nothing in the record meets either
+    half of its condition. The second half needs only that identity is
+    one-one and that one archived organization can be reinstated twice;
+    CASE-116's arm C makes the archive concrete for one successor, and
+    THEORY-447 corroborates it. uses adds TERM-045, whose persisting sense
+    the summary names, and the body says the claim bears on QUESTION-043,
+    as its bears_on edge does (ADR-060), where it said it answers it in
+    part. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +57,7 @@ complements:
 - CLAIM-421
 uses:
 - TERM-084
+- TERM-045
 summary: >-
   A6 §7 and A10 §4.3. A6 separated activation continuity, organizational
   continuity and policy continuity, and put identity in the second: "A
@@ -100,8 +113,8 @@ and distributed continuity."
 The record's persistence claim is [CLAIM-161](CLAIM-161.md): a self persists when a
 coherence measure is conserved along its own trajectory. This claim
 qualifies it. Along a trajectory with a gap, what is conserved is the
-capacity to reinstate an organization, not any running quantity. It answers
-[QUESTION-043](../questions.d/QUESTION-043.md) in part, by saying what kind of thing the conserved measure
+capacity to reinstate an organization, not any running quantity. It bears on
+[QUESTION-043](../questions.d/QUESTION-043.md), by saying what kind of thing the conserved measure
 must be. [CLAIM-280](CLAIM-280.md) is the same distinction for collectives: the product
 persists, and so may the producer.
 

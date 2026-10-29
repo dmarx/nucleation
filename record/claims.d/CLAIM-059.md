@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmph3w8f
 title: 'Repeated reconstruction chains fall into different regimes under conditions assigned in advance, contracting toward conventions, accumulating neutrally or amplifying, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -14,6 +14,13 @@ history:
     1's condition read: 'Measured per-generation sensitivity of real
     reconstruction chains shows no difference between conditions that
     the theory assigns to different regimes.'
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    rests_on adds CLAIM-068 (eleventh status review, ADR-057): the title's
+    'contracting toward conventions' is CLAIM-068's attraction, which the
+    note of 2026-10-15 cites for it, and ARG-027 and CLAIM-234 say this
+    claim takes from it. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,6 +37,7 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-056
 - CLAIM-267
+- CLAIM-068
 summary: >-
   A50 §3, A52 §5.3 and the crystallized argument §19, recovered. The
   manuscript and C7 Appendix B keep the corrected bound and the remark
@@ -38,7 +46,7 @@ summary: >-
 objected_by:
 - CLAIM-208
 ---
-<!-- inactive-ok-file: CLAIM-049 CLAIM-056 CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-049 CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-059: Repeated reconstruction chains fall into different regimes under conditions assigned in advance, contracting toward conventions, accumulating neutrally or amplifying, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics
 
@@ -82,3 +90,14 @@ warrant is interpretive, not demonstrated. The title was changed,
 because version 2's "Repeated reconstruction has three regimes" read as
 the formal taxonomy, which is [CLAIM-267](CLAIM-267.md)'s. It now says the claim is
 about real chains and conditions fixed in advance.
+
+## Note of 2026-10-29: what holds it back
+
+Two things. The contracting regime in the title is [CLAIM-068](CLAIM-068.md)'s attraction
+toward conventions, which is Proposed and now a premise. And the record
+assigns no condition to any regime. The defeat condition meets [CLAIM-208](CLAIM-208.md)'s
+point, that the regime waits on a metric chosen afterwards, by fixing the
+metric in advance, but no metric is fixed and no condition is assigned, so
+the test it names has nothing yet to test. It moves when a metric and an
+assignment of conditions to regimes are filed, or when [CLAIM-068](CLAIM-068.md) is
+promoted.

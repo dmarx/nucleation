@@ -29,7 +29,6 @@ summary: >-
   fixed conditions, apples on a fixed respawn timer, and a mismatch
   between the text's and Figure 7's settings for batch and network size.
 ---
-<!-- inactive-ok-file: NOTE-1151 — the reading this is filed from -->
 
 # THEORY-935: In two two-player Markov games whose learned cooperative and defecting policies, played against each other, both give Prisoner's Dilemma payoffs, independent deep Q-learners responded oppositely to capacity: more hidden units raised aggression in a fruit-gathering game, where tagging a rival is the harder policy to implement, and lowered lone hunting in a wolfpack game, where coordination is; in the gathering game, aggression was learned where apples were scarce or a tagged rival stayed out long
 

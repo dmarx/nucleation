@@ -1,0 +1,244 @@
+---
+status: Read
+paper: LIT-tmpr8qf7
+title: 'Sarkar, Mukherjee and Sato — Attention as lattice gauge theory'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the arXiv PDF 2610.37656v1 (7 pp.), extracted with
+    `pdftotext -layout`: abstract, §§1–4, Table 1 and Figure 1 with its
+    caption, the 35 references, and Appendices A and B. Pages are the
+    preprint's. The released code was not run. I checked three of the
+    paper's numbers by computation (numpy; my script, not the authors'):
+    the fraction of corrupted triangles whose corruptions cancel at
+    p = 0.3, which is 0.0142, giving an AUC ceiling of 0.9929; the
+    commuting-score AUC cap for S4, ½(1 + 12/23) = 0.761; and that the
+    two-hop holonomy-weighted aggregate with polar projection is
+    gauge-covariant, with its scores invariant, for random O(3) frames.
+    The figure's curves did not survive extraction; its caption did.
+date: '2026-10-29'
+summary: >-
+  Under per-entity O(d) frame freedom, transports carry invariant
+  information only around cycles, a triangle's invariants are class
+  functions of its holonomy, and an equivariant edge update is Ψ(H)Tᵢⱼ
+  with Ψ conjugation-equivariant: a sound conditional theorem, standard
+  in lattice gauge theory and synchronization, whose "unique form" is a
+  family. The untrained S4 experiments show composition doing the work
+  and Wilson-loop routing adding 0.6–7.8 points; the 0.99 AUC is a
+  ceiling the data's construction sets, as the paper itself computes.
+---
+<!-- inactive-ok-file: QUESTION-130 QUESTION-282 QUESTION-283 CLAIM-471 CLAIM-342 — Open or Proposed; the entries this reading bears on, cited as open -->
+
+# NOTE-tmp8rf0b: Sarkar, Mukherjee and Sato — Attention as lattice gauge theory
+
+## Contribution
+
+It derives, from one symmetry assumption, the form an attention mechanism
+over relation operators must take. If each entity's frame can be changed
+independently and relations transform covariantly, relations interact only
+around cycles, and they interact through the holonomy. It reads three
+existing literatures as pieces of that form: commuting knowledge-graph
+embeddings as its abelian sector, AlphaFold's triangle update and the Edge
+Transformer as its unconstrained superset, and lattice gauge
+smearing as its lattice case. It then measures an untrained instance,
+"holonomy attention", on group synchronization with outliers. Its
+companion paper ([LIT-tmpbihhf](../literature.d/LIT-tmpbihhf.md), ref. [1]) supplies the node-level half.
+
+## Key insight
+
+Fix the gauge along a spanning tree and see what is left. Every tree edge
+becomes I, so whatever is invariant lives on the edges that close cycles,
+and on a triangle the only freedom left is conjugating its holonomy:
+"Setting gᵢ = I, gⱼ = Tᵢⱼ, gₖ = TᵢⱼTⱼₖ sends the triple to (I, I, H), and
+the only freedom left is the diagonal, H ↦ gHg⁻¹" (p. 2). The rest of
+the paper follows from that move.
+
+## Assumptions
+
+- **Per-entity frame freedom.** Each edge carries Tᵢⱼ ∈ O(d) with
+  Tⱼᵢ = Tᵢⱼ⁻¹, and a gauge transformation acts by Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹ with an
+  independent gᵢ ∈ O(d) at every entity (p. 2). The paper says "The
+  symmetry is the task's, not a network's: a fresh entity's frame carries
+  no information, so any predictor must be invariant to it" (p. 2). Its
+  companion paper calls the same premise "an inductive bias, not a claim
+  that fresh names logically imply a physical symmetry" ([LIT-tmpbihhf](../literature.d/LIT-tmpbihhf.md),
+  p. 2).
+- **Invertible, orthogonal relations.** Every theorem is for O(d). The
+  companion paper's CLUTRR control, where orthogonality costs 64.6 points
+  out of distribution, is not discussed here.
+- **The pure-gauge sector.** "No cycle, no interaction" holds for functions
+  of the transports alone. With entity vectors, xᵢxⱼᵀ "is an equivariant
+  edge term with no cycle" (p. 2).
+- **Given transports.** In the experiments the relations are elements of
+  S4 in its faithful permutation representation (d = 4), loaded "as a
+  library" (p. 3). Nothing is learned: "No parameters are learned"
+  (p. 3). Operators "generated from context rather than retrieved from a
+  library" are "the next step" (p. 4).
+- **A smaller symmetry in the implementation.** After each round the
+  update is snapped "to the nearest group element in Frobenius norm"
+  (p. 3). With the library fixed, that step is equivariant under the
+  permutation gauge but not under arbitrary O(4) frames. The continuous
+  step is the O(d)-equivariant one.
+
+## Key results
+
+- **No cycle, no interaction (p. 2).** On an acyclic edge set gauge fixing
+  sends every transport to I, so "Any function of the transports invariant
+  under O(d)^V ... is therefore constant", and an equivariant update of an
+  edge is ±Tᵢⱼ by Schur's lemma. "Two edges sharing a vertex but no closing
+  edge form a tree, so no 'global edge attention' respects the symmetry."
+- **Plaquette invariants (p. 2).** The orbits of a triangle are the
+  conjugacy classes of H, and "the continuous invariants are exactly the
+  class functions of H", generated by tr Hʳ, r ≤ d (Procesi, ref. [8]).
+  "The reflections are load-bearing": in SO(2), R(±θ) have one
+  characteristic polynomial and are not conjugate. For several cycles the
+  invariants are functions of (H₁, …, H_b) under simultaneous conjugation.
+- **Theorem 1 (pp. 3, 7).** "Every continuous equivariant update of Tᵢⱼ
+  from a cycle through it, with holonomy H based at i, is U = Ψ(H)Tᵢⱼ with
+  Ψ(gHg⁻¹) = gΨ(H)g⁻¹, and Ψ in the closure of {Σᵣ cᵣ(H)Hʳ}, cᵣ class
+  functions, intersected with O(d)." Ψ = H⁻¹ gives composition through the
+  third vertex, U = TᵢₖTₖⱼ; several third vertices with class-function
+  scores give U = Π(Σₖ αₖTᵢₖTₖⱼ), Π the polar projection, equivariant
+  "wherever the sum is invertible" (p. 3).
+- **The abelian sector (p. 3).** Commuting operators are simultaneously
+  diagonalizable, so RotatE, ComplEx and DistMult compose coordinate-wise;
+  there "edges couple only linearly, through the synchronization
+  Laplacian".
+- **A design rule (p. 3).** "one cycle through an edge has the same
+  holonomy whichever of its edges is wrong, so one loop detects but cannot
+  localize; two triangles do, via the square tr(HₖHₗ⁻¹) that avoids the
+  edge". Scoring an edge by a triangle containing it ("literal") costs
+  5–12 points (Table 1).
+- **Table 1 (p. 4)**, accuracy on unobserved S4 pairs, 1000 instances per
+  cell:
+
+  | protocol | p | single path | uniform | holonomy | literal | spectral | spectral+1 |
+  |---|---|---|---|---|---|---|---|
+  | sparse, deg. 5 | 0.2 | 0.625 | 0.872 | 0.886 | 0.753 | 0.897 | 0.912 |
+  | dense, deg. 8 | 0.2 | 0.645 | 0.982 | 0.988 | 0.935 | 0.987 | 0.990 |
+  | dense, deg. 8 | 0.3 | 0.488 | 0.912 | 0.937 | 0.820 | 0.933 | 0.949 |
+  | dense, deg. 8 | 0.45 | 0.309 | 0.623 | 0.700 | 0.559 | 0.678 | 0.753 |
+
+  Paired holonomy − uniform: +0.014, +0.006, +0.026, +0.078. Commuting
+  architectures are capped at |S4ᵃᵇ|/|S4| = 2/24 = 0.083.
+- **Corruption detection (p. 4).** tr H/d separates corrupted from clean
+  triangles at AUC 0.99, and the paper says why: "clean triangles score
+  exactly 1, one corrupted edge never closes a loop, so the only ties are
+  triangles with two or more cancelling corruptions (1.4% in closed form
+  at p = 0.3), and the AUC sits at its ceiling 0.993". A commuting score
+  sees only G/[G, G], capping its AUC at ½(1 + (|G| − |[G, G]|)/(|G| − 1)):
+  0.76 for S4 (measured 0.759), chance for A5.
+- **Clusters (p. 4).** On a two-cluster graph with random cross-cluster
+  relations, the same score separates within- from cross-cluster triangles
+  at AUC 0.98 without labels.
+- **Lensing (p. 7).** On twelve-plane weak lensing, the sign of the image
+  rotation is predicted at 0.92 by 2×2 matrix composition and at 0.51 by
+  additive or elementwise emulators, which reversal symmetry holds at ½.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Under per-entity O(d) frame freedom, transport-only invariants live on cycles and are class functions of holonomies | strong | §2 gauge-fixing argument; standard (Procesi; Gao et al., ref. [29]; Giles, ref. [31]) |
+| C2 | Every continuous equivariant edge update from one cycle is Ψ(H)Tᵢⱼ with Ψ conjugation-equivariant | strong | Theorem 1, proof in App. B; the form of Ψ by Procesi's polynomial classification and Stone–Weierstrass, sketched |
+| C3 | Edge attention by Wilson loops is "the unique form the symmetry permits" | weak as worded | C2 fixes a family; the particular scores, softmax, mean and polar projection are choices within it |
+| C4 | Composition through cycles is the capability on S4 synchronization | strong for this benchmark | Table 1: 26–45 points over a single path |
+| C5 | Wilson-loop routing improves on uniform averaging where clean paths become a minority | moderate | Table 1 paired gains, +0.6 to +7.8 points; spectral+1 is higher on every row |
+| C6 | The holonomy score is the invariant corruption statistic, at AUC 0.99 | strong but near-tautological | the AUC is the ceiling the clean-is-exactly-1 construction sets, as the paper computes |
+| C7 | Standard attention is the flat-connection limit, and AlphaFold's pair stack is learned flattening | weak | a reading of shape (App. A), and a prediction the paper proposes but does not test (p. 4) |
+
+## Method
+
+Holonomy attention (p. 3). For an absent edge (i, j), each mediator k
+gives a candidate Cₖ = TᵢₖTₖⱼ. Score each candidate by its mean agreement
+with the others, sₖ = mean over l ≠ k of tr(CₖCₗ⁻¹)/d, where
+CₖCₗ⁻¹ = TᵢₖTₖⱼTⱼₗTₗᵢ is the holonomy of a square that avoids (i, j).
+Set αₖ ∝ exp(βsₖ), β = 8, aggregate Π(Σₖ αₖCₖ), and after four rounds snap
+to the nearest library element. Observed edges are held fixed.
+
+## Concepts
+
+- **per-entity frame freedom** — independent O(d) changes of coordinates
+  at each entity, with relation transports covariant.
+- **holonomy, Wilson loop** — the product of transports around a closed
+  path, and its trace.
+- **pure-gauge sector** — functions of the transports alone, with no
+  entity vectors.
+- **abelian sector** — commuting transports, where composition is
+  coordinate-wise and edges couple only linearly.
+- **literal scoring** — scoring a candidate edge by a triangle that
+  contains it; self-confirming in the paper's sense.
+
+## Connections
+
+The construction is standard in two literatures, as the paper says.
+Lattice gauge theory has had plaquette-mediated, conjugation-equivariant
+updates since APE smearing (1987), with recent gauge-equivariant networks.
+Group synchronization uses cycle inconsistency as "the standard
+diagnostic" (refs. [11], [30]), and Gao, Brodzki and Mukherjee (ref.
+[29]) classify edge potentials by holonomy. Singer's eigenvector method
+([LIT-1655](../literature.d/LIT-1655.md), read in [NOTE-1224](NOTE-1224.md)) is the paper's own baseline and ties or
+beats it. The U(1) case is the twisted Laplacian of [THEORY-1082](../theory.d/THEORY-1082.md). The paper
+cites Bodnar et al.'s neural sheaf diffusion (ref. [21]) as gauge
+structure "with no interaction between edge maps".
+
+## Bearing on the record
+
+- **[QUESTION-130](../questions.d/QUESTION-130.md).** The paper is [QUESTION-130](../questions.d/QUESTION-130.md)'s construction (local frames,
+  T′ = g T g⁻¹, holonomy around a loop, conjugacy class as the invariant)
+  with the forced form of an equivariant update added ([THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md)).
+  It does not answer the question. [QUESTION-130](../questions.d/QUESTION-130.md)'s first objection is that
+  arbitrary transports make curvature vacuous, and here the transports
+  are supplied. It is supporting literature for the question's "gauge-
+  covariant comparison", which A19 already rated "mathematically
+  constructible".
+- **[QUESTION-282](../questions.d/QUESTION-282.md).** Another formalism whose correspondence structure is an
+  input. The paper names learning the operators as its next step.
+- **[THEORY-1082](../theory.d/THEORY-1082.md) and [CLAIM-471](../claims.d/CLAIM-471.md).** The non-abelian generalization of the
+  twisted Laplacian. For d > 1 it brings something U(1) lacks: a
+  non-flat connection can still keep a shared subspace on which every
+  loop is trivial ([CLAIM-tmp3lml8](../claims.d/CLAIM-tmp3lml8.md)).
+- **[CLAIM-342](../claims.d/CLAIM-342.md) and [THEORY-1088](../theory.d/THEORY-1088.md).** The design rule (score a candidate only
+  by loops that avoid it, since a loop through it is self-confirming) is
+  an instance of [CLAIM-342](../claims.d/CLAIM-342.md)'s demand for evidence that does not pass
+  through what it tests. It is a weak instance: several squares can share
+  a mistaken edge. Learning transports by minimizing holonomy alone is
+  exposed to [THEORY-1088](../theory.d/THEORY-1088.md)'s way of reaching consensus by changing the maps.
+- **[CASE-179](../cases.d/CASE-179.md).** Holonomy attention is a candidate revision apparatus for
+  [CASE-179](../cases.d/CASE-179.md)'s "revision by consistency alone" arm, and the experiment is an
+  instance of that arm's warning: the data are built flat, so consistency
+  and correctness coincide by construction.
+- **ML practice.** The paper proposes an architecture and a design rule
+  for it. That is the anthology's business, and the LIT carries
+  `anthology-candidate`.
+
+## Limitations
+
+- The experiments test the theory's sector, not attention. The task is
+  synchronization of given group elements, the representation is
+  supplied, and nothing is learned. Its own sentence: "Holonomy attention
+  is not a better synchronizer" (p. 3).
+- The AUC of 0.99 and the cluster AUC of 0.98 measure what the data were
+  built to contain. Clean triangles are exactly flat and cross-cluster
+  relations are random.
+- "Unique" holds at the level of Theorem 1's family. The weights, the
+  softmax, the mean and the projection are choices within it.
+- Standard attention as "the flat-connection limit" holds under a
+  representational reading. A standard head's W_QᵀW_K is not orthogonal
+  and is "covariant only under the global O(d)" (App. A).
+- The premise is asserted to be "the task's" here and called an inductive
+  bias in the companion paper. Neither paper tests it on a task where it
+  could fail, apart from the companion's CLUTRR control, where it does
+  fail.
+
+## Open questions
+
+- Does AlphaFold's pair representation lose triangle inconsistency with
+  depth and recycling? That is the paper's own prediction (p. 4), and it
+  is testable on released models.
+- Do operators generated from context, not drawn from a library, keep the
+  routing gain on a task with no group given in advance?
+- What replaces Wilson loops when the transports are not invertible, as
+  the companion paper's CLUTRR resets are not?

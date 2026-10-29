@@ -31,7 +31,6 @@ summary: >-
   experts are read by the authors as economy, and their recovery is not
   tested.
 ---
-<!-- inactive-ok-file: NOTE-1147 — the reading this is filed from -->
 
 # THEORY-937: When a mixture of experts is trained on the error of a single expert chosen stochastically by the gate, or on the negative log-likelihood of the mixture, an expert that fits a case better than the gate-weighted average gains responsibility for it; on a four-class vowel task, mixtures of 4 or 8 linear experts learned in about half the epochs of backpropagation networks of equal size, at equal accuracy, and divided the task by class pair, leaving all but 2 or 3 experts with mixing proportions effectively zero
 

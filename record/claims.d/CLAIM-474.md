@@ -71,9 +71,7 @@ summary: >-
   [QUESTION-282](../questions.d/QUESTION-282.md), [QUESTION-283](../questions.d/QUESTION-283.md), [QUESTION-285](../questions.d/QUESTION-285.md),
   [QUESTION-281](../questions.d/QUESTION-281.md) and [QUESTION-115](../questions.d/QUESTION-115.md).
 ---
-<!-- inactive-ok-file: TERM-088 TERM-093 TERM-090 TERM-092 — Proposed; the terms this claim is stated in, proposed the same evening -->
 <!-- inactive-ok-file: CLAIM-471 CLAIM-480 CLAIM-481 CLAIM-470 CLAIM-475 CLAIM-477 CLAIM-478 CLAIM-469 CLAIM-342 CLAIM-395 CASE-179 — Proposed or new; the claims this synthesis organizes, cited as open -->
-<!-- inactive-ok-file: QUESTION-282 QUESTION-283 QUESTION-285 QUESTION-281 QUESTION-115 QUESTION-063 THEORY-1074 THEORY-1055 — Open or Proposed; the open questions and readings the program names -->
 
 # CLAIM-474: From interconnection to individuation, five relationships are distinct achievements and none implies the next: interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which compatible, frustrated or differentiated organizations persist, individuation which persistent organizations have sufficiently robust identity and boundaries, organizational autonomy being the further question which of those also help maintain their own constitutive constraints, and inquiry which of them can measure and revise their own models and apparatuses under resource bounds; the research program is to find the conditions for each transition
 

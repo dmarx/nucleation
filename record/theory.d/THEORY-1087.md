@@ -21,7 +21,6 @@ summary: >-
   synchronization is a manifestation of cycle-level constraints, is not
   what this says.
 ---
-<!-- inactive-ok-file: QUESTION-281 CLAIM-481 QUESTION-147 — Open, Proposed or new; the entries this case bears on, cited as open -->
 
 # THEORY-1087: In the symmetric Sakaguchi–Kuramoto model on a triangle and a pentagon sharing one vertex, the lag α gives each ℓ-cycle a phase-independent path mismatch (ℓ − 2)α, and the remote-synchronized locked branch passes through an exact two-group state at α = π/3, where the pentagon's mismatch reaches π; but that branch has already lost transverse stability, in the pentagonal symmetry sector, at αc ≃ 1.0164, so the point of maximal cycle frustration marks the geometry of the phase relations, not the end of the synchronized pattern
 

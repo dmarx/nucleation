@@ -28,7 +28,6 @@ summary: >-
   moves the ratings of agents that beat or lose to it. Cardinal
   throughout.
 ---
-<!-- inactive-ok-file: NOTE-1155 — the reading this is filed from -->
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
 # THEORY-924: Elo ratings are the row means of a win-probability matrix's log-odds; they reproduce the matrix exactly when the log-odds have no cyclic component, and adding a copy of one agent shifts the ratings of the others

@@ -1,0 +1,305 @@
+---
+status: Read
+paper: 'LIT-tmpprsxm'
+title: 'Alvarez-Melis & Jaakkola — Gromov-Wasserstein word alignment'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the arXiv preprint 1809.00013v1 (31 August 2018),
+    10 pp. in the arXiv layout, fetched 2026-10-29. The EMNLP 2018
+    proceedings version (pp. 1881–1890) was not compared. Text extracted
+    with `pdftotext -layout` and, for the two-column reading order, with
+    plain `pdftotext`; page numbers are the arXiv copy's. I read the
+    abstract, §§1–6, footnotes 1–5, Algorithm 1, the captions of Figs.
+    1–4 and Tables 1–2, and the reference list. The figures' curves and
+    heatmaps did not survive extraction; their captions and the tables'
+    numbers did. I checked numerically (numpy, my own script, not the
+    authors' code) that the GW objective with cosine similarities is
+    unchanged when one space is rotated or its vectors rescaled, and
+    changed by a generic linear map; that entropic GW as in Algorithm 1
+    recovers a hidden permutation of a rotated random point cloud; and
+    that on a tree with three identical branches a coupling that swaps
+    branches costs exactly what the true one does.
+date: '2026-10-29'
+summary: >-
+  Unsupervised word translation is cast as a Gromov–Wasserstein problem
+  between the two languages' intra-language cosine-similarity matrices,
+  solved by entropic projected gradient (each step a Sinkhorn problem),
+  with no anchors. It matches adversarial-plus-refinement methods on
+  related languages trained on comparable corpora at a fraction of the
+  cost, and does markedly worse on English–Russian and English–Finnish.
+  The objective sees only within-space similarities, so it cannot
+  distinguish a correspondence from one composed with a symmetry of
+  either space; the paper does not say so.
+---
+<!-- inactive-ok-file: CLAIM-135 CLAIM-113 QUESTION-130 LIT-tmpjs7kp LIT-tmpbnbe3 THEORY-tmpox88b — Proposed, Open or Deferred; the entries this reading bears on, cited as open -->
+
+# NOTE-tmpgvlkv: Alvarez-Melis & Jaakkola — Gromov-Wasserstein word alignment
+
+## Contribution
+
+It replaces the multi-step pipelines for unsupervised bilingual lexicon
+induction (adversarial initialisation, Procrustes refinement, hubness
+corrections) with one optimisation: the Gromov–Wasserstein (GW) problem
+between the two vocabularies' within-language similarity matrices. The
+optimal coupling is itself read as the translation, "a probabilistic
+translation" (p. 4), with no nearest-neighbour step. On the Conneau et al.
+benchmark it matches the then state of the art on English to and from
+Spanish, French, German and Italian in 37 CPU-minutes per pair against 957
+(Table 1, p. 7). The method is Mémoli's GW distance with Peyré, Cuturi and
+Solomon's entropic solver; the contribution is the application and the
+claim that the result needs no supervision and little tuning.
+
+## Key insight
+
+Word embeddings are fixed only up to transformations that preserve their
+inner structure: the monolingual embeddings "are estimated in a relative
+manner, leaving, e.g., an overall rotation unspecified" (p. 3). Instead of
+estimating that rotation, compare what does not depend on it: GW "measures
+how distances between pairs of words are mapped across languages" (p. 1).
+The price is the dual of the gain. An objective built only from
+within-space relations is blind to every transformation that preserves
+them, and that includes the symmetries of the data. Whatever the two
+similarity structures cannot tell apart, the coupling cannot either.
+
+## Assumptions
+
+- **Two finite vocabularies** with embeddings X ∈ ℝ^{d×n}, Y ∈ ℝ^{d×m},
+  taken equal in size and dimension for simplicity (p. 2).
+- **Uniform weights** p, q, "so as to avoid providing our method with
+  additional information not available to others" (p. 5), though word
+  frequencies could be used.
+- **Cosine similarity within each space and squared loss between them**
+  (pp. 5–6, Algorithm 1). The cosine choice is empirical: it "consistently
+  leads to better results" (p. 5).
+- **The two spaces are close to isometric.** This is never stated as an
+  assumption. It is what the objective's minimum means, and §4.3 shows what
+  happens when it fails: on the Dinu et al. data the "wide discrepancy
+  between word distance across languages" gives "poor results for G-W"
+  (p. 7) until the similarity matrices are normalised to the same range.
+- **A frequency-ordered subset.** The GW problem is solved on the first
+  K = 20,000 words of each vocabulary (p. 6), and the off-the-shelf files
+  are sorted by frequency (p. 5). Choosing two frequency-matched subsets is
+  information about the correspondence; the companion paper says this
+  outright ([LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md), its footnote 7).
+
+## Key results
+
+### The objective (§3.1, pp. 3–4)
+
+- **Eq. (8):** GW(C, C′, p, q) = min_{Γ∈Π(p,q)} Σ_{ijkl} L(C_ik, C′_jl) Γ_ij Γ_kl,
+  with Π(p, q) the couplings with marginals p and q, and C, C′ the
+  within-space similarity (or cost) matrices.
+- It is non-convex, and its Monge form is "essentially an instance of the
+  well-known (and NP-hard) quadratic assignment problem (QAP)" (footnote 1,
+  p. 4).
+- **Solver (eq. 9, Algorithm 1):** projected gradient steps, each the
+  Sinkhorn solution of a linear OT problem with pseudo-cost
+  Ĉ_Γ = C_st − 2C_s Γ C_tᵀ, where C_st = C_s² p 1ᵀ + 1 qᵀ (C_t²)ᵀ, at
+  O(N₁²N₂ + N₁N₂²) per step for L = L2 (Peyré et al. 2016).
+- **Theorem 3.1** (Mémoli 2011, cited, not proved): with L = L2, GW^{1/2}
+  "is a distance on the space of metric measure spaces" (p. 4). The paper
+  leaves out the qualification that it is a distance between isomorphism
+  classes: two spaces at GW distance zero are isometric by a
+  measure-preserving map, and when such a map is not unique the distance
+  does not say which one.
+
+### What the objective is invariant to (my check, not the paper's)
+
+- The cost of every coupling depends on X only through C_s and on Y only
+  through C_t. With cosine similarity it is therefore unchanged by any
+  orthogonal map of either space and by any positive rescaling of
+  individual vectors; a generic invertible linear map changes it. Checked
+  numerically: |ΔE| ≤ 3 × 10⁻¹⁷ for Y ↦ QY, Y ↦ YS and Y ↦ QYS, and 0.07
+  for Y ↦ AY, over five random couplings (d = 10, n = 40).
+- If σ is a permutation of Y's points that preserves C_t and q, then Γ and
+  Γ composed with σ have the same cost. The minimisers come in orbits of
+  the two spaces' automorphism groups. On a tree with a root and three
+  identical two-leaf branches, the identity coupling and the branch-swapped
+  coupling both cost 1.3 × 10⁻¹⁵; from 20 random starts on a relabelled
+  copy, 7 runs ended at an automorphism of the tree and none at the true
+  labelling (my script; [THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)).
+- With no symmetry and no noise the optimum is the truth: entropic GW
+  recovered a hidden permutation of a randomly rotated cloud of 60 points in
+  ℝ¹⁰ at accuracy 1.00, with Gaussian noise up to 0.3 per coordinate.
+
+### Scaling up (§3.2, p. 5)
+
+- Solve GW on the first k words, then fit an orthogonal P to the coupling's
+  barycentric map, min_{P∈O} ‖XΓ* − PY‖ (eq. 10), solved by SVD, and map
+  the rest of the vocabulary with it. The two-step procedure "resembles
+  that of Conneau et al. (2018)" (p. 5), with GW in place of the
+  adversarial step.
+- Eqs. (2) and (10) write P ∈ O(n) where n is the vocabulary size; the
+  matrix is d × d. A notational slip.
+
+### Optimisation and tuning (§§3.2, 4.2, pp. 5–7)
+
+- One hyperparameter, the entropic λ. With the cost matrices normalised,
+  "we first try the same fixed value (λ = 5 × 10−5 ), and if the
+  regularization proves too small (by leading to floating point errors), we
+  instead use λ = 1 × 10−4" (p. 5). Model selection uses only the
+  unsupervised objective: "at no point we use train (let alone test)
+  supervision available with many datasets" (p. 5).
+- Fig. 2 (p. 6): the objective tracks translation accuracy during training;
+  the paper lists as properties that "the objective decreases
+  monotonically", that it follows the metric of interest, and that there is
+  no degradation from over-training (p. 7). This is shown on three runs.
+
+### Benchmarks (§4.3, Tables 1–2, pp. 7–8)
+
+- **Conneau et al. data (Table 1, P@1).** G-W with λ = 10⁻⁵: EN→ES 81.7,
+  ES→EN 80.4, EN→FR 81.3, FR→EN 78.9, EN→DE 71.9, DE→EN 72.8, EN→IT 78.9,
+  IT→EN 75.2, EN→RU 45.1, RU→EN 43.7, in 37 minutes. Conneau et al.
+  (adversarial + refinement + CSLS): 81.7, 83.3, 82.3, 82.1, 74.0, 72.2,
+  77.4, 76.1, 52.4, 61.4, in 957 minutes. Supervised Procrustes + CSLS on
+  5K pairs: 81.2, 82.3, 81.2, 82.2, 73.6, 71.9, 76.3, 75.5, 51.7, 63.7. So
+  GW is level on the Romance and Germanic pairs and 7 to 18 points behind
+  on Russian. The text promises Chinese (p. 6); the table has no Chinese
+  column.
+- The authors warn that this benchmark flatters every method: its
+  embeddings are "trained on very large and highly comparable—across
+  languages— corpora (Wikipedia)" (p. 7, following Artetxe et al.).
+- **Dinu et al. data (Table 2, P@1).** G-W + normalise: EN-IT 49.21,
+  EN-DE 46.5, EN-FI 18.3, EN-ES 37.60; Artetxe et al. self-learning: 48.53,
+  48.47, 33.50, 37.60. Without normalisation G-W reaches 6.8 on EN-FI and
+  12.5 on EN-ES. Finnish is the pair where the relational structure least
+  agrees, and the one where GW does worst; this is the pattern Søgaard et
+  al. report for the adversarial method ([LIT-tmpqoytq](../literature.d/LIT-tmpqoytq.md)).
+
+### Distances between languages (§4.4, Fig. 4, p. 8)
+
+- GW values on the 2,000 most frequent words of seven languages. Romance
+  languages are closest to each other, Chinese farthest from all, Russian
+  close to the Romance group, English "remarkably isolated" (p. 8). The
+  explanations offered are conjectures: "We conjecture that this could be
+  due to Russian’s rich morphology", and "other aspects of the data (such
+  as corpus size) might be underlying these observations" (p. 8).
+- The paper reads these as distances because of Theorem 3.1, "so that,
+  e.g., the triangle inequality holds among them" (p. 5). Two gaps: the
+  theorem is about exact GW between metric spaces, and the computed values
+  are entropic local optima of a non-convex problem between cosine
+  similarity matrices, which are not metrics. The triangle inequality is
+  not checked.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Fully unsupervised GW alignment of cosine-similarity matrices matches adversarial-plus-refinement methods on related languages with comparable corpora, at roughly 4% of their CPU time | moderate | Table 1, one benchmark, single runs, no variance reported |
+| C2 | It does markedly worse on English–Russian and English–Finnish | strong | Tables 1–2, and the authors' own §4.3 on uneven distance distributions |
+| C3 | The optimal coupling alone gives translations, without hubness corrections | moderate | Table 1 rows are the coupling's argmax; no ablation against nearest-neighbour retrieval is shown |
+| C4 | GW "makes no such assumption" of invariance to unitary transformations, unlike joint OT–Procrustes (p. 9) | weak, and misleading | GW with cosine similarity is invariant to every orthogonal map and to per-vector scaling; it builds in a larger invariance, not none (my check) |
+| C5 | The GW value is a distance between languages, so the triangle inequality holds | weak | rests on Theorem 3.1, which needs exact GW between metric spaces; the computed quantity is neither |
+| C6 | The objective decreases monotonically and tracks translation accuracy | moderate | Fig. 2, three runs |
+
+## Method
+
+1. Compute C_s = cos(X, X) and C_t = cos(Y, Y) on the first K words, and
+   normalise their range.
+2. Iterate: form Ĉ_Γ = C_st − 2C_s Γ C_tᵀ; run Sinkhorn on exp(−Ĉ_Γ/λ)
+   with marginals p, q; set Γ from the scalings.
+3. Translate by the coupling, or fit P = UVᵀ from the SVD of XΓYᵀ and map
+   the full vocabulary with it (Algorithm 1, p. 5).
+
+## Concepts
+
+- **Gromov–Wasserstein problem** — OT between two metric measure spaces in
+  which the cost of matching i to j and k to l is a discrepancy between
+  the within-space values C_ik and C′_jl (p. 3).
+- **Coupling as translation** — Γ*_ij "provides a likelihood that these two
+  words are translations of each other" (p. 4).
+- **Registration** — the paper's word for the unknown map that would put the
+  two spaces in one coordinate system; GW avoids estimating it.
+
+## Connections
+
+- Hashimoto, Alvarez-Melis and Jaakkola 2016, on word embeddings as metric
+  recovery, is the paper's reason to compare distances rather than
+  points (p. 1). Not held here.
+- Zhang et al. 2017b (OT jointly with Procrustes) and Rangarajan et al.
+  1997 (Softassign Procrustes) are the alternative it sets aside; the
+  authors' own generalisation of that alternative is [LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md), which
+  shows that one form of it is GW (its Lemma 4.3).
+- Conneau et al. 2018 (MUSE) is the baseline; Søgaard, Ruder and Vulić
+  ([LIT-tmpqoytq](../literature.d/LIT-tmpqoytq.md)) examine that baseline's failures.
+- Fused GW ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)) and co-optimal transport ([LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md)) are the
+  extensions [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md) plans to use.
+
+## Bearing on the record
+
+- **[CLAIM-046](../claims.d/CLAIM-046.md) and [CLAIM-113](../claims.d/CLAIM-113.md): a computational instance, with a correction.**
+  The method uses only relational observables, within-language similarity,
+  and no latent coordinate is taken as given (p. 3). That is [CLAIM-046](../claims.d/CLAIM-046.md)'s
+  stance made concrete. For [CLAIM-113](../claims.d/CLAIM-113.md) it shows plainly how an invariance
+  class and the invariants it keeps define each other. The class here is
+  not chosen in so many words. It follows from the choice of similarity:
+  with cosine it is the orthogonal group of each space together with
+  rescaling of each vector. The paper's statement that GW "makes no such
+  assumption" (p. 9) gets this backwards. GW assumes more invariance than
+  Procrustes, not less.
+- **[CLAIM-148](../claims.d/CLAIM-148.md): consistent, and a clean case of its order of operations.**
+  [CLAIM-148](../claims.d/CLAIM-148.md) says the rotation gauge of a factorization is not a symmetry
+  of the data, and that automorphisms of the data act on factors only once
+  the factors are identified. GW removes the gauge by computing a gauge
+  invariant first, the Gram or cosine matrix. What remains undetermined is
+  exactly the automorphism group of that matrix, and the paper has no
+  name for it.
+- **[CLAIM-135](../claims.d/CLAIM-135.md): reconstruction, not identification, and not constitution.**
+  The coupling reconstructs dictionary pairs well for related languages
+  (Table 1). It identifies them only up to symmetries of the similarity
+  structure, and the paper does not state what those are. Nothing in it
+  bears on whether a matched pair is the same communicative kind. Fig. 4's
+  "distance between languages" is relational resemblance under a chosen
+  similarity, as the exchange's A6 said, and the authors themselves allow
+  that corpus size may explain it (p. 8).
+- **[QUESTION-130](../questions.d/QUESTION-130.md) and [THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md): the kind of arbitrariness GW
+  removes.** GW treats as arbitrary one isometry of each whole space. For
+  a finite point cloud under Euclidean distances that is a single rigid
+  motion; under cosine similarity it is a single orthogonal map plus a
+  per-point positive scale. Its data are scalar relations C_ik, and a
+  scalar does not change when a node's frame changes. So the per-entity
+  frame freedom of [THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md), where the relation Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹ is
+  itself frame-dependent, has nothing to act on here. Equally, GW cannot
+  represent a connection or detect holonomy. It answers a registration
+  problem, not [QUESTION-130](../questions.d/QUESTION-130.md)'s transport problem.
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): the identification threat, made exact.** The case notes
+  that GW "can swap symmetric categories ... at equal cost". That is a
+  theorem, not a risk: any coupling composed with an automorphism of
+  either similarity structure has the same cost ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md), checked
+  on a symmetric tree). Two further points for the case's design. First,
+  anchors must break the automorphism group; anchors that are themselves
+  symmetric do not help. Second, frequency-matched subsets, which this
+  paper uses (p. 6), already carry correspondence information.
+- **[THEORY-tmpox88b](../theory.d/THEORY-tmpox88b.md)**: this paper's Table 2 is the GW half of that account.
+- **An instruction for ML practice is present**: normalise the cost
+  matrices, use cosine, and the two λ values (pp. 5, 7). That belongs to
+  the Anthology of the SOTA; the LIT carries the `anthology-candidate`
+  flag.
+
+## Limitations
+
+- **One benchmark of comparable corpora for the headline**, and the
+  authors say it is easy (p. 7). The harder benchmark (Table 2) shows GW
+  behind self-learning on Finnish by 15 points.
+- **No variance, no restarts reported.** The problem is non-convex
+  (footnote 1), and Table 1 gives single numbers.
+- **Theorem 3.1 is cited for a quantity it does not cover** (entropic,
+  local, cosine-similarity GW).
+- **The symmetry ambiguity is not discussed**, nor is the information
+  carried by frequency-matched subsets.
+- **Chinese is announced (p. 6) and not reported.**
+- **The figures' content did not survive extraction**; I used captions and
+  tables only.
+
+## Open questions
+
+- How large is the automorphism group, or the near-automorphism set, of a
+  real vocabulary's similarity matrix? A count of near-ties in the GW
+  objective would say how much of each pair's translation is fixed by
+  structure and how much by the subset and the initialisation.
+- Does the GW distance between languages survive the controls the authors
+  name, corpus size first? Equal-size, equal-domain corpora would say.
+- Under exact GW, would Fig. 4's values satisfy the triangle inequality?

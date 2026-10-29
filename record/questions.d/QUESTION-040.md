@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp0gx60
 title: 'When the reification rule prices a candidate found in the same data, among many directions the data only partly determine, what must its Occam term count, and how far does the search inflate the candidate''s d''?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -18,6 +18,15 @@ history:
     THEORY-318 narrowed and promoted (promotion audit, batch 044): its
     bullet in "What the record holds" now gives the narrowed claim, and
     the holdout clause is QUESTION-196. The question stays open.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057): the sentence on CLAIM-188 put the
+    singularity in the model left after removing the candidate, the
+    framing CLAIM-188's version 2 corrected. It read: shows that the
+    Gaussian term misprices candidates whose removal makes the model
+    singular. It now says the term overcharges candidates whose model is
+    singular where they are switched off. The question stays open.
 tags:
 - model-comparison
 - information-geometry
@@ -47,7 +56,7 @@ bearing:
 
 ## Why the record needs it
 
-[CLAIM-154](../claims.d/CLAIM-154.md) itself says the rule "prices a candidate; it does not find one". [CLAIM-188](../claims.d/CLAIM-188.md) shows that the Gaussian term misprices candidates whose removal makes the model singular. That leaves the regular but many-directional case open, and it also leaves the effect of search open. [CLAIM-152](../claims.d/CLAIM-152.md) makes the target an input. If the candidate partition was picked to fit that target, the verdict inherits a selection bias. An answer would turn [QUESTION-035](QUESTION-035.md)'s "with what margin" into a corrected threshold.
+[CLAIM-154](../claims.d/CLAIM-154.md) itself says the rule "prices a candidate; it does not find one". [CLAIM-188](../claims.d/CLAIM-188.md) shows that the Gaussian term overcharges candidates whose model is singular where they are switched off. That leaves the regular but many-directional case open, and it also leaves the effect of search open. [CLAIM-152](../claims.d/CLAIM-152.md) makes the target an input. If the candidate partition was picked to fit that target, the verdict inherits a selection bias. An answer would turn [QUESTION-035](QUESTION-035.md)'s "with what margin" into a corrected threshold.
 
 ## What the record holds
 

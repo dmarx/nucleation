@@ -37,7 +37,6 @@ summary: >-
   cited evidence was not analysed by the source or read here.
 ---
 <!-- inactive-ok-file: THEORY-1114 THEORY-1112 THEORY-126 — Proposed; neighbouring accounts of group self-perception and the "we", compared, not leaned on -->
-<!-- inactive-ok-file: LIT-1723 — Unavailable; the book whose claim this limits, named, not leaned on -->
 
 # THEORY-1115: A we-identity, being one of us, can arise through mutual individualization, in which members grasp one another as non-substitutable and complementary, without depersonalization, as in long friendships and romantic partnerships; so depersonalization is not necessary for a we-identity
 

@@ -35,7 +35,6 @@ summary: >-
   grammar was amended.
 ---
 <!-- inactive-ok-file: CLAIM-184 CLAIM-195 CLAIM-419 CLAIM-478 — Proposed; the explanations of the asymmetry, cited as open -->
-<!-- inactive-ok-file: CLAIM-181 — Proposed; the objection about the grammar this claim gives one more fact to, cited as open -->
 
 # CLAIM-479: In the record a typed relation is more constrained than either of its relata: a claim's content is open prose, while `rests_on` fixes the scheme at both ends, has `supports` written as its converse and says what retiring its target leaves, and none of that moves when either claim's content does; so a relation's rigidity is a fact about the grammar, not evidence that the dependency it records is sound
 

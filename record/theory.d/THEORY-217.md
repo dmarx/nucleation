@@ -48,7 +48,6 @@ bears_on:
 - QUESTION-087
 ---
 <!-- inactive-ok-file: LIT-536 — Unavailable; Moreno & Mossio's book, the source of the definitions criticized, cited as Barandiaran quotes it -->
-<!-- inactive-ok-file: CLAIM-277 — Proposed; open claims this account bears on, nothing here rests on them -->
 
 # THEORY-217: A trait malfunctions when its operation does not correlate positively with the normative field, the minimum change its organization's viability requires at each precarious state; malfunction needs no second order of regulatory norms, and regulatory traits can malfunction by the same standard
 

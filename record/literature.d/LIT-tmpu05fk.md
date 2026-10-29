@@ -1,0 +1,80 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 ([NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md)), from the arXiv v2; worth
+  reading as the clean statement of what a Gromov–Wasserstein comparison
+  of directed weighted networks can and cannot see: it is a pseudometric
+  on any bounded weights, zero exactly at weak isomorphism, and its cheap
+  invariants are lower bounds that can all vanish for networks apart.
+title: 'The Gromov–Wasserstein distance between networks and stable network invariants'
+version: 2
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed, not read, from A7 of the exchange "Paper assessment"
+    (2026-10-28 to 29). `published:` is arXiv v1 2018-08-13, ahead of
+    Information and Inference 8(4) (doi 10.1093/imaiai/iaz026, online
+    2019-11-26); the arXiv comment says the current version is a
+    substantial update (ADR-002). A7 dropped the title's opening "The".
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full from arXiv 1808.04337v2 (4 Sep 2019), 25 pp., in
+    NOTE-tmp72o0n: all of §§1–5, the proofs in the main text, and Appendix
+    A, which holds computational notes rather than proofs. THEORY-tmp7hiz9
+    and THEORY-tmptcy1h filed. Summary rewritten from the text. The
+    citation stands; the journal version was not read.
+tags:
+- network-science
+- mathematics
+date: '2026-10-29'
+published: '2018-08-13'
+arxiv: '1808.04337'
+first_author: 'Chowdhury'
+keywords:
+- 'network Gromov-Wasserstein distance'
+- 'weighted directed networks'
+- 'network invariants'
+- 'optimal transport'
+implementations:
+- 'https://github.com/samirchowdhury/GWnets'
+summary: >-
+  Chowdhury & Mémoli (2019). Extends the Gromov–Wasserstein distance to
+  measure networks: a Polish node set with a probability measure and any
+  bounded, possibly asymmetric, edge-weight function. Proves it is a
+  pseudometric whose zero set is weak isomorphism, so nodes with
+  identical in- and out-weights can be merged or split freely. Gives in-
+  and out-going versions of the first, second and third lower bounds and
+  proves each equals a transport problem on the real line, so the third
+  is computed in closed form. Adds sublevel size functions, stable in an
+  interleaving sense, which raise the known lower bound between the
+  circle and the 2-sphere to 0.17. Illustrates the third lower bound on
+  simulated block-model networks and World Bank migration networks.
+---
+<!-- inactive-ok-file: CLAIM-448 — Proposed; the claim this work is read for, cited as open -->
+
+# LIT-tmpu05fk: The Gromov–Wasserstein distance between networks and stable network invariants
+
+Chowdhury, S., & Mémoli, F. (2019). The Gromov–Wasserstein distance between networks and stable network invariants. *Information and Inference*, 8(4), 757–787.
+
+Read in full in [NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md).
+
+## Key takeaways
+
+- The distance is defined for any bounded weights; its metric properties
+  come from couplings, not from the networks ([THEORY-tmp7hiz9](../theory.d/THEORY-tmp7hiz9.md)).
+- Zero distance means weak isomorphism of the recorded weights and node
+  measures, nothing about what the record omits; missing weights must be
+  imputed first, and the node measure is the user's.
+- The cheap invariants are lower bounds only ([THEORY-tmptcy1h](../theory.d/THEORY-tmptcy1h.md)); networks
+  can agree on all of them and be apart.
+
+## Why this is here
+
+A7: influence, authority and obligation are directed, so their comparison needs a directed distance. Its sharper use is [CLAIM-448](../claims.d/CLAIM-448.md)'s: two recorded networks can align well while the organizations behind them differ, because a legibility regime decides what enters the record ([CASE-124](../cases.d/CASE-124.md)).
+
+The reading supports both uses. The paper supplies the directed distance,
+with in- and out-going invariants. For [CLAIM-448](../claims.d/CLAIM-448.md), Theorem 18 states
+exactly what the distance is blind to, and the paper's own experiments use
+a lower bound whose agreement is weaker evidence still ([NOTE-tmp72o0n](../notes.d/NOTE-tmp72o0n.md)).

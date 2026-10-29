@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-11'
@@ -46,6 +46,13 @@ history:
   date: '2026-10-20'
   note: >-
     The note of 2026-10-20 gains a fifth point, from the reading of Nadler et al. (NOTE-986): a data-driven gap finds the block well and its duration poorly. The criterion is unchanged.
+- version: 8
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added by the eleventh status review (ADR-057):
+    CLAIM-154, on which this claim rests, is narrowed to candidates whose
+    model stays regular at the switch-off, conceding CLAIM-188. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -270,3 +277,9 @@ survives if "persists" is read on the trajectory. In Toner and Tu's theory
 neighbourhoods that keep changing, so no fixed grouping of members persists
 while the order does. It is a case for [QUESTION-218](../questions.d/QUESTION-218.md), a mode found without a
 grouping.
+
+## Note of 2026-10-29: the narrowed rule
+
+[CLAIM-154](CLAIM-154.md) now holds only where the candidate's model stays regular at its
+switch-off. Where it is singular the rule overcharges ([CLAIM-188](CLAIM-188.md)), so a
+candidate it rejects may still earn a name.

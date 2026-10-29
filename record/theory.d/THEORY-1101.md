@@ -48,7 +48,6 @@ summary: >-
   other grounds.
 ---
 <!-- inactive-ok-file: NOTE-1242 THEORY-1104 THEORY-1105 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
-<!-- inactive-ok-file: QUESTION-277 LIT-1566 LIT-1595 — Open or Deferred; the question this bears on and unread works it is set beside, nothing here rests on them -->
 # THEORY-1101: Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that normalized stem length does not behave as a clock of acquisition time: alphaproteobacterial stems are longer than Asgard ones for the 70% of stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation genes presumed acquired together vary by more than two orders of magnitude, and information-processing genes have short stems; they suggest that adaptation after acquisition lengthens stems, so that relative timings drawn from stem lengths alone, including mitochondrion-late orderings and transfer waves, are not supported by the method
 
 ## Source
