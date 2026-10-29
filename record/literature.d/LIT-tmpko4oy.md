@@ -1,7 +1,13 @@
 ---
-status: Deferred
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpf8vbq), from the arXiv v2; worth
+  reading for the identity behind joint alignment, that a multi-marginal
+  objective is the sum of pairwise objectives at its marginals, so joint
+  fitting buys consistency at a measurable price; its experiments do not
+  test whether that consistency costs true local distinctions.
 title: 'Hierarchical Multi-Marginal Optimal Transport for Network Alignment'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -9,6 +15,14 @@ history:
     Filed, not read, from A6 of the exchange "Paper assessment"
     (2026-10-28 to 29). `published:` is arXiv v1 2023-10-06, ahead of
     AAAI 2024 (doi 10.1609/aaai.v38i15.29605, 2024-03-24) (ADR-002).
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full from arXiv 2310.04470v2 (10 Feb 2024), 15 pp. with
+    appendices A–E, in NOTE-tmpf8vbq. THEORY-tmp9mvg2 and THEORY-tmpz6ryi
+    filed. Summary rewritten from the text. The citation stands. Found: the
+    proof of convergence (Proposition 3) is invalid at its step C2, and
+    Definition 2's sums must be read over j < k.
 tags:
 - network-science
 - mathematics
@@ -20,22 +34,47 @@ keywords:
 - 'multi-network alignment'
 - 'multi-marginal optimal transport'
 - 'fused Gromov-Wasserstein barycenter'
-implementations: []
+implementations:
+- 'https://github.com/zhichenz98/HOT-AAAI24'
 summary: >-
-  Zeng et al. (2023). Aligns several networks jointly: they are
-  decomposed into aligned clusters by a fused Gromov–Wasserstein
-  barycenter, and a multi-marginal transport captures relations across
-  more than two networks at once.
+  Zeng et al. (2024). HOT aligns several networks with one multi-marginal
+  fused Gromov–Wasserstein coupling tensor. A fused GW barycenter first
+  co-clusters the networks, and nodes are then aligned jointly within
+  aligned clusters, with a cost from random-walk-with-restart scores
+  relative to anchor node sets and a KL proximal point solver. Under
+  square loss the joint objective at a tensor is the sum of the pairwise
+  objectives at its marginals, so it is never below the sum of pairwise
+  optima. On three-network benchmarks with 10% anchors, HOT beats 13
+  baselines in pairwise and whole-tuple hits and scales far better than
+  a dense tensor; the ground truth is consistent by construction, and no
+  ablation isolates joint fitting from the new cost and the clustering.
 ---
+<!-- inactive-ok-file: QUESTION-tmp6byb6 THEORY-tmpz6ryi — Open or Proposed; cited as open -->
 
 # LIT-tmpko4oy: Hierarchical Multi-Marginal Optimal Transport for Network Alignment
 
 Zeng, Z., Du, B., Zhang, S., Xia, Y., Liu, Z., & Tong, H. (2024). Hierarchical multi-marginal optimal transport for network alignment. *AAAI 2024*, 38(15), 16660–16668.
 
-Not read. The summary is drawn from the abstract and from the exchange's
-description, which the lookup of 2026-10-29 checked. A reading should check
-it first.
+Read in full in NOTE-tmpf8vbq.
+
+## Key takeaways
+
+- A joint coupling makes the pairwise alignments jointly realizable by
+  construction; for deterministic couplings that means they compose, for
+  soft ones it does not (THEORY-tmp9mvg2).
+- The joint optimum exceeds the sum of pairwise optima exactly when the
+  best pairwise alignments conflict; the paper names the gap and never
+  measures it.
+- Its accuracy gains (THEORY-tmpz6ryi) are on benchmarks whose truth is
+  transitive, and are not separated from its new cost and clustering.
 
 ## Why this is here
 
-A6's bridge back to holonomy: independently fitted pairwise alignments need not compose consistently, and a joint alignment imposes consistency by construction. Comparing the two on held-out data asks whether global consistency is a useful regularizer or a loss of local distinctions ([CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md), [QUESTION-tmp6byb6](../questions.d/QUESTION-tmp6byb6.md)).
+A6's bridge back to holonomy: independently fitted pairwise alignments need not compose consistently, and a joint alignment imposes consistency by construction. Comparing the two on held-out data asks whether global consistency is a useful regularizer or a loss of local distinctions (CLAIM-tmpgwud2, QUESTION-tmp6byb6).
+
+The reading qualifies this. "By construction" holds for joint
+realizability, and for composition only when couplings are deterministic.
+The paper does compare joint and pairwise methods on held-out node sets,
+but its ground truth is consistent by construction, so its benchmarks
+cannot show a loss of local distinctions; the comparison A6 wanted is not
+in it (NOTE-tmpf8vbq).
