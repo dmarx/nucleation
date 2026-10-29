@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpevciu
 title: 'Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -28,6 +28,15 @@ history:
     CASE-021 is a design not yet run. Version 2's relabelling read
     `warrant` as the kind of evidence that would settle the claim, which
     the owner rejected. Status unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    THEORY-166 added under corroborated_by (ADR-058) by the fourteenth
+    status review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings): question order changed the answers in the
+    Pew surveys, and a classical model with order events meets the same
+    regularity, independent evidence for both clauses from another
+    domain, which the claim does not rest on. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +55,8 @@ supersedes:
 uses:
 - TERM-024
 - TERM-026
+corroborated_by:
+- THEORY-166
 summary: >-
   A30's H1, "pragmatic noncommutativity", what the owner's U13 claim
   became. Manuscript §9: order-dependent framing "is central to
@@ -71,3 +82,12 @@ the reverse order."
 
 Nothing about nonclassicality ([CLAIM-041](CLAIM-041.md)). It is untested; [CASE-021](../cases.d/CASE-021.md) and the
 manuscript's Case II (alternating frames ([TERM-026](../terms.d/TERM-026.md)<!-- ref::uses: TERM-026 -->)) would test it. [CLAIM-117](CLAIM-117.md) rests on it.
+
+## Note of 2026-10-29: what holds it back
+
+The record holds no observation of framing-order effects on pragmatic
+judgements: CASE-021 and the manuscript's Case II, which would test the
+defeat condition, have not been run. The nearest held result,
+question-order effects in the Pew surveys (THEORY-166), concerns the order
+of survey questions, not of framing prompts, and does not show that
+framing operations in general fail to commute.

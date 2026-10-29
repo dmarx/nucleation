@@ -89,7 +89,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->
-<!-- inactive-ok-file: CLAIM-005 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-105: In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning
 
@@ -219,7 +219,7 @@ run.
 
 ## Note of 2026-10-29: what holds it back
 
-It rests on [CLAIM-038](CLAIM-038.md), which is Proposed. Its defeat condition counts
+Its defeat condition counts
 changes beyond sampling error, which needs a signalling estimator with bias
 correction and a stated sampling error, and [CLAIM-235](CLAIM-235.md) finds none in the
 line. [CASE-053](../cases.d/CASE-053.md) documents that no adequately powered CbD test on pragmatic

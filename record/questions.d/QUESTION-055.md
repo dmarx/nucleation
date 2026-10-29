@@ -3,8 +3,8 @@ number: 55
 status: Open
 formerly:
 - QUESTION-tmpgy8la
-title: 'If communicative categories form a non-Boolean lattice, what structure fixes the negation of a category: a presheaf over contexts, and if so over which base category, an orthocomplemented lattice, or sectors that no probe connects?'
-version: 3
+title: 'If communicative categories form a non-Boolean lattice, and the communicative object is a presheaf over contexts, over which base category is it one, and does some probe family split it into sectors that no probe connects?'
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -27,6 +27,19 @@ history:
     sectors that no probe connects, and does the context-indexed form of
     the communicative object settle which?' THEORY-037's entry in "What
     the record holds" no longer says its Heyting laws are unchecked.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Split again under ADR-049 by the fourteenth status review (ADR-057),
+    at the status review's ruling (the owner delegated these rulings).
+    Whether the communicative object is a presheaf over contexts is
+    QUESTION-tmpdq47o, Answered by CLAIM-038, which went Active the same
+    day. This question is narrowed to what is left, the base category
+    and the sectors, and stays Open. Version 3's title was 'If
+    communicative categories form a non-Boolean lattice, what structure
+    fixes the negation of a category: a presheaf over contexts, and if so
+    over which base category, an orthocomplemented lattice, or sectors
+    that no probe connects?'
 tags:
 - logic
 - quantum-foundations
@@ -38,8 +51,9 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-119](../claims.d/CLAIM-119.md), [CLAIM-038](../claims.d/CLAIM-038.md),
   [CLAIM-044](../claims.d/CLAIM-044.md), [QUESTION-025](QUESTION-025.md) and [QUESTION-031](QUESTION-031.md). Given a presheaf over
   contexts, the negation is the Heyting pseudo-complement, and that part
-  is [QUESTION-247](QUESTION-247.md), Answered. Which structure the communicative
-  object has is open. [THEORY-041](../theory.d/THEORY-041.md) and [THEORY-042](../theory.d/THEORY-042.md) bear on it; the body
+  is [QUESTION-247](QUESTION-247.md), Answered. That the communicative object is a
+  presheaf over contexts is QUESTION-tmpdq47o, Answered by CLAIM-038. Over
+  which base, and whether probes split it into sectors, is open. [THEORY-041](../theory.d/THEORY-041.md) and [THEORY-042](../theory.d/THEORY-042.md) bear on it; the body
   gives each one's limit.
 refined_by:
 - QUESTION-247
@@ -48,7 +62,7 @@ bearing:
 - THEORY-041
 ---
 
-# QUESTION-055: If communicative categories form a non-Boolean lattice, what structure fixes the negation of a category: a presheaf over contexts, and if so over which base category, an orthocomplemented lattice, or sectors that no probe connects?
+# QUESTION-055: If communicative categories form a non-Boolean lattice, and the communicative object is a presheaf over contexts, over which base category is it one, and does some probe family split it into sectors that no probe connects?
 
 ## The question
 
@@ -72,7 +86,10 @@ A derivation of the sub-object logic of the communicative object as [CLAIM-038](
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** [THEORY-516](../theory.d/THEORY-516.md) and [THEORY-037](../theory.d/THEORY-037.md) answer the
 conditional part: over a presheaf of contexts, the negation is the
 Heyting pseudo-complement the base fixes, not an orthocomplement. That is
-[QUESTION-247](QUESTION-247.md), Answered. This question keeps what they leave: whether
-the communicative object is such a presheaf ([CLAIM-038](../claims.d/CLAIM-038.md) is Proposed), which
-base category it has, and whether some probe family splits it into
-sectors ([THEORY-042](../theory.d/THEORY-042.md)).
+[QUESTION-247](QUESTION-247.md), Answered. This question keeps what they leave: which
+base category the communicative object has, and whether some probe family
+splits it into sectors ([THEORY-042](../theory.d/THEORY-042.md)).
+
+**Split, 2026-10-29 (ADR-049).** Whether the communicative object is such
+a presheaf is QUESTION-tmpdq47o, Answered by CLAIM-038, which went Active
+at the fourteenth status review.

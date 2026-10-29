@@ -135,3 +135,12 @@ measurement the record holds is Towards Monosemanticity's agreement of
 features across two seeds of one architecture ([NOTE-1191](../notes.d/NOTE-1191.md)), which
 compares features by their activations, not by the quotient this claim
 asks for. The claim is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+Step 2 is THEORY-116's stated direction, that a barrier surviving
+alignment marks a different mechanism, which no held source tests on deep
+networks trained on the same data: the evidence is co-occurrence in one
+synthetic-cue protocol and a one-layer proof of the converse. Step 4's
+"only when the objectives share structure" is THEORY-115's, whose breaking
+cases plot raw loss that the endpoint's forgetting largely explains.
