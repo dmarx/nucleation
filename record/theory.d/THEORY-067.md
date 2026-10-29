@@ -52,7 +52,6 @@ summary: >-
   self-governance.
 supports:
 - CLAIM-169
-- CLAIM-159
 - CLAIM-198
 corroborates:
 - CLAIM-344
@@ -216,3 +215,13 @@ failure. The précis concedes the mechanism is "hard to study directly by
 controlled experiment". [LIT-1389](../literature.d/LIT-1389.md) (Bénabou and Tirole), unfetched, models
 personal rules and would not meet the condition by itself. [CLAIM-344](../claims.d/CLAIM-344.md) now
 cites this reading as corroboration, not as a ground.
+
+## Note of 2026-10-29: the proposal split off
+
+What the précis proposes, as distinct from whether it is true, is now
+THEORY-tmpuy1kb, Active, so that CLAIM-159, which places this account in the
+aggregate or emergent cell by what it proposes, can stand on the proposal
+alone. CLAIM-169 and CLAIM-198 stay grounded here: CLAIM-169's defeat
+condition is this account's first refutation clause, and CLAIM-198 asserts
+that self-prediction creates the overlap. This entry keeps the question
+whether the proposal holds, and its `promote_when`.

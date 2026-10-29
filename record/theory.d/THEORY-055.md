@@ -51,7 +51,6 @@ presupposed_by:
 supports:
 - CLAIM-432
 - CLAIM-440
-- CLAIM-442
 answers:
 - QUESTION-044
 ---
