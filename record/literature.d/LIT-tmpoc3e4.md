@@ -6,7 +6,7 @@ status_note: >-
   by an author, their institution or the publisher. Oxford Academic and
   PhilArchive answered with Cloudflare challenges, and PhilArchive's
   record lists no file. No NOTE is filed. It stays Unavailable until a
-  copy is supplied (ADR-041).
+  copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Moral Problems of Population'
 version: 1
 history:

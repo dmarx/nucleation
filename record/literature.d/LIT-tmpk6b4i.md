@@ -5,7 +5,7 @@ status_note: >-
   reached. Unpaywall lists no open copy and a web search found none posted
   by an author, their institution or the publisher; the book's own site
   posts its endnotes and supplementary materials, not its chapters. No
-  NOTE is filed. It stays Unavailable until a copy is supplied (ADR-041).
+  NOTE is filed. It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'What We Owe the Future'
 version: 1
 history:

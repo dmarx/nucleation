@@ -8,7 +8,7 @@ status_note: >-
   presented draft material for the book, are open as audio at Oxford's
   Practical Ethics site (practicalethics.ox.ac.uk/node/2950046); they were
   not transcribed, so no work was read in its place. No NOTE is filed. It
-  stays Unavailable until a copy is supplied (ADR-041).
+  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Why Worry About Future Generations?'
 version: 1
 history:

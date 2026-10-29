@@ -8,7 +8,7 @@ status_note: >-
   journal has since opened the article could not be checked, and the Levin
   lab's publications page links only to the publisher. A copy on a course
   page was not used. No NOTE is filed. It stays Unavailable until a copy
-  is supplied (ADR-041).
+  is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'An automated training paradigm reveals long-term memory in planaria and its persistence through head regeneration'
 version: 1
 history:

@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md):
   the author offers a free chapter at theprecipice.com behind a newsletter
   sign-up, which this client did not complete, and Bloomsbury's chapter
   preview on Issuu answered HTTP 403. A human reader can likely open the

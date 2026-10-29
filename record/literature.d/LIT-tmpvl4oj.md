@@ -6,7 +6,7 @@ status_note: >-
   by an author, their institution or the publisher. One index marks it
   open access, but Oxford Academic answered with a Cloudflare challenge,
   so that could not be checked. No NOTE is filed. It stays Unavailable
-  until a copy is supplied (ADR-041).
+  until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Retention of Learning through Metamorphosis in the Grain Beetle (Tenebrio molitor)'
 version: 1
 history:
