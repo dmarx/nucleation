@@ -99,13 +99,13 @@ of a specified representation.
 **The group must be anchored.** A character is a function on a group, so
 comparing realizations needs one group identified on all of them. That
 identification is fixed only up to automorphism, and an automorphism can
-swap characters (CLAIM-249). The claim holds when the group is a symmetry
+swap characters ([CLAIM-249](CLAIM-249.md)). The claim holds when the group is a symmetry
 of the situation, such as a swap of participants, and each medium's action
-is induced from that one, which is CLAIM-011's anchoring. If the group acts
+is induced from that one, which is [CLAIM-011](CLAIM-011.md)'s anchoring. If the group acts
 faithfully on the situation, only the identity identification survives.
 Identified instead by a label of a medium, the mirror-printed round of
-CASE-057 reads as the other round. Within that condition the invariant is
-bounded as CLAIM-132 bounds a character: up to isomorphism, for kinds, and
+[CASE-057](../cases.d/CASE-057.md) reads as the other round. Within that condition the invariant is
+bounded as [CLAIM-132](CLAIM-132.md) bounds a character: up to isomorphism, for kinds, and
 complete only in the most favourable setting.
 
 It rests on the constitution claim ([CLAIM-151](CLAIM-151.md)). An invariant of the
@@ -189,7 +189,7 @@ The owner's position and its defeat condition are unchanged.
 
 ## Note of 2026-10-29: what holds it back
 
-It rests on CLAIM-151, which is Proposed. No communicative invariant has
-been built (TERM-041), and CASE-057 meets the condition of one act realized
+It rests on [CLAIM-151](CLAIM-151.md), which is Proposed. No communicative invariant has
+been built ([TERM-041](../terms.d/TERM-041.md)), and [CASE-057](../cases.d/CASE-057.md) meets the condition of one act realized
 in two media only by construction. As an interpretive owner thesis it also
 needs the owner's assent to the narrowed title.

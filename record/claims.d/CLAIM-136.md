@@ -193,10 +193,10 @@ whose relational properties are properties of real relata
 ## Note of 2026-10-29: what holds it back
 
 The owner has not chosen between the strict and the weak version, and the
-objections bite them differently. CLAIM-134 (Chakravartty's dilemma, through
-THEORY-034) and CLAIM-138 (the Newman objection) are live, Proposed and
-unanswered. CLAIM-132 is no longer filed as an objection here: it denies
+objections bite them differently. [CLAIM-134](CLAIM-134.md) (Chakravartty's dilemma, through
+[THEORY-034](../theory.d/THEORY-034.md)) and [CLAIM-138](CLAIM-138.md) (the Newman objection) are live, Proposed and
+unanswered. [CLAIM-132](CLAIM-132.md) is no longer filed as an objection here: it denies
 only that the character analogy supports this claim, which "Why character
-theory does not carry it" already says. THEORY-032 moves from the grounds
-to `corroborated_by` (ADR-058), since the Yoneda lemma "is no help either
+theory does not carry it" already says. [THEORY-032](../theory.d/THEORY-032.md) moves from the grounds
+to `corroborated_by` ([ADR-058](../decisions.d/ADR-058.md)), since the Yoneda lemma "is no help either
 way".
