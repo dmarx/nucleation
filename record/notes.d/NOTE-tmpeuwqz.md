@@ -118,18 +118,18 @@ which architecture selection built.
 
 ## Connections
 
-- **Unto Others (LIT-tmp1w1r9)**, unread. Stich quotes it at pp. 296–320,
+- **Unto Others ([LIT-tmp1w1r9](../literature.d/LIT-tmp1w1r9.md))**, unread. Stich quotes it at pp. 296–320,
   the psychological half; the evolutionary half on group selection is
   outside his scope.
-- **Batson's objection (CLAIM-tmpybc4k).** Stich does not discuss social
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Stich does not discuss social
   psychology. Sober and Wilson, he reports, cast the contest as altruism
   against hedonism as "the version of egoism that is most difficult to
   refute" (297).
-- **Hamilton's rule (THEORY-655).** C1 bears on how the record uses it.
+- **Hamilton's rule ([THEORY-655](../theory.d/THEORY-655.md)).** C1 bears on how the record uses it.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** Stich's terms show where the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Stich's terms show where the
   thesis stands. These are inferences.
   - The thesis is a form of egoism: every ultimate desire is
     self-directed. But it widens the self, not the motive. A parent's
@@ -142,7 +142,7 @@ which architecture selection built.
     child's good is instrumental to some good of the agent (classical
     egoism, open to Sober and Wilson's argument and to Batson), or that it
     is ultimate but its object counts as the agent's self (a redescription
-    that needs CLAIM-tmprudek's independent criterion).
+    that needs [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s independent criterion).
   - The evolutionary support is of another kind. The claim cites Hamilton's
     rule "as if the self's genetic interest extended to kin". By C1, kin
     selection says nothing about psychological motive. A desire for a

@@ -7,8 +7,8 @@ status_note: >-
   that answered HTTP 403, so whether it holds a file is unknown; UEA's
   repository and RePEc for the 2005 reprint in Teamwork offer no download.
   No NOTE is filed. It stays Unavailable until a copy is supplied
-  (ADR-041). Read in its place, and not a substitute for reading it:
-  Sugden 2015 (LIT-tmp6wcw6).
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a substitute for reading it:
+  Sugden 2015 ([LIT-tmp6wcw6](LIT-tmp6wcw6.md)).
 title: 'The Logic of Team Reasoning'
 version: 1
 history:
@@ -56,10 +56,10 @@ Team reasoning makes "what is good for us" a mode of practical reasoning distinc
 The paper cannot be read here, so the record holds Sugden's team
 reasoning at second hand:
 
-- **His later statement.** Sugden 2015 (LIT-tmp6wcw6, NOTE-tmph49t5)
+- **His later statement.** Sugden 2015 ([LIT-tmp6wcw6](LIT-tmp6wcw6.md), [NOTE-tmph49t5](../notes.d/NOTE-tmph49t5.md))
   restates team reasoning, criticizes Bacharach's version, and gives a
   Schema of Cooperative Team Reasoning aimed at members' common interests.
-- **A user of it.** Salice and Miyazono (NOTE-tmpaso81) take team
+- **A user of it.** Salice and Miyazono ([NOTE-tmpaso81](../notes.d/NOTE-tmpaso81.md)) take team
   reasoning, through Bacharach, as one part of group identification.
 
 Missing still: the 2003 paper's own schema and argument. The 2015 paper

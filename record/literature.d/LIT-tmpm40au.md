@@ -5,8 +5,8 @@ status_note: >-
   reached. The Internet Archive's copy (survivingdeath0000john) is for
   print-disabled readers only and is not lent, and no open edition was
   found. No NOTE is filed. It stays Unavailable until a copy is supplied
-  (ADR-041). Read in its place, and not a substitute for reading it:
-  Johnston 2023 (LIT-tmpx7gwv), in which Johnston withdraws the book's
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a substitute for reading it:
+  Johnston 2023 ([LIT-tmpx7gwv](LIT-tmpx7gwv.md)), in which Johnston withdraws the book's
   account of survival.
 title: 'Surviving Death'
 version: 1
@@ -57,8 +57,8 @@ A philosopher's version of the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAI
 
 The book cannot be read here, so the record holds it at second hand:
 
-- **Its author's retraction.** Johnston 2023 (LIT-tmpx7gwv,
-  NOTE-tmp3uqu5) restates the book's surrogate for survival, "living on in
+- **Its author's retraction.** Johnston 2023 ([LIT-tmpx7gwv](LIT-tmpx7gwv.md),
+  [NOTE-tmp3uqu5](../notes.d/NOTE-tmp3uqu5.md)) restates the book's surrogate for survival, "living on in
   the onward rush of humankind", which rested on the view that we are
   higher-order things whose deepest future-directed attitudes fix which
   embodiments are ours. It then gives that view up: we are essentially
@@ -66,4 +66,4 @@ The book cannot be read here, so the record holds it at second hand:
 
 Missing still: the book's ethics, how the good person comes to identify
 with humanity and so survives, which the record cites against the owner's
-thesis (CLAIM-tmpjylq8). The 2023 paper describes it only in a sentence.
+thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)). The 2023 paper describes it only in a sentence.

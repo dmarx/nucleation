@@ -126,15 +126,15 @@ per embodiment, restores what Johnston calls ethical singularity.
 
 ## Connections
 
-- **Surviving Death (LIT-tmpm40au)**, unread. Only the paragraph quoted
+- **Surviving Death ([LIT-tmpm40au](../literature.d/LIT-tmpm40au.md))**, unread. Only the paragraph quoted
   above and a few references (pp. 57, 65–68, ch. 4) describe the book. The
   book's ethics of the good person's survival is not restated.
-- **Parfit (THEORY-464)** is a main target: reductionism, and his "We are
+- **Parfit ([THEORY-464](../theory.d/THEORY-464.md))** is a main target: reductionism, and his "We are
   not human beings" (2012).
 
 ## Bearing on the record
 
-- **How the record cites the book.** CLAIM-tmpjylq8 says Johnston "takes
+- **How the record cites the book.** [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) says Johnston "takes
   the same premise to the opposite moral: the good person's self is as
   large as humanity". This paper confirms the premise as Johnston held it
   in 2010: what we are is fixed by our deepest future-directed attitudes,
@@ -143,7 +143,7 @@ per embodiment, restores what Johnston calls ethical singularity.
   holds. A dated note is added to the claim.
 - **A new objection to an attitude-fixed self.** Johnston rejects it
   because it multiplies bearers of moral status, not because it is
-  trivial (CLAIM-tmprudek). If the extent of my self is set by what I
+  trivial ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)). If the extent of my self is set by what I
   identify with, there are as many candidate selves as ways of drawing
   that line, each with its own interests. Whether the thesis's enlarged
   self inherits the problem is an open question, and the paper does not
