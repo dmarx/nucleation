@@ -324,3 +324,10 @@ same ([THEORY-1066](../theory.d/THEORY-1066.md)), with nothing obviously realizi
 said whether such a law counts as realizing a constraint, which its notes of
 2026-10-27 ask. It rests on [CLAIM-405](CLAIM-405.md) for "partly fixed", which the same review
 promoted.
+
+A second hold, independent of (b): by its note of 2026-10-27 the claim is a
+template, warranted domain by domain, and the record holds no domain where
+constraints are shown to constitute, not only characterize, identity. Its
+filed domain cases, [CLAIM-136](CLAIM-136.md) and [CLAIM-151](CLAIM-151.md), are Proposed. [CLAIM-480](CLAIM-480.md), the
+one held case, shows only the recursion: a constraint realized by an
+interior.

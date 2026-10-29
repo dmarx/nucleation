@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpjzq22
 title: 'A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Ground moved from THEORY-167 to THEORY-1164 by the twelfth status
+    review (ADR-057, ADR-058). The claim uses only what Propp proposes, that
+    wondertales share one composition and "differ in who performs the
+    functions and how", which the split holds Active; whether the proposal
+    is true stays THEORY-167's question. THEORY-167's supports entry for
+    this claim is removed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,7 +33,7 @@ rests_on:
 - CLAIM-077
 grounds:
 - CASE-038
-- THEORY-167
+- THEORY-1164
 - CASE-010
 complements:
 - CLAIM-034
@@ -106,3 +116,12 @@ separate question.
   remedy, "a small, independently validated set of tropes" and evaluation
   "on held-out trope families", would meet that objection if it were
   carried out.
+
+## Note of 2026-10-29: what holds it back
+
+The result its defeat condition names is missing. No study in the record
+compares relational measures against surface or embedding similarity as
+predictors of human judgements of trope identity on recasts. A155's test
+with held-out trope families, which A178 kept as Study B, has never been
+run. The other route is the owner's ruling that the characterization is held
+as a definition, with the test bearing only on its use.

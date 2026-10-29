@@ -1,10 +1,25 @@
 ---
 number: 85
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpsuzzj
 title: 'correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Adopted at the twelfth status review (ADR-057), on the owner's
+    ruling in the pull request, as a term of its own rather than a
+    note widening TERM-055: it carries TERM-055 from a resource to a
+    corrective objective, from an agent to an arrangement with no one
+    in charge, and from a cue to the description of the problem, and
+    six entries cite it. A paragraph, "Whose correctability", is
+    added: the title reads the arrangement as what is corrected and
+    the definition as what corrects, and G is now stated to hold both.
+    CLAIM-464 is dropped from used_by; its measure is a least cost,
+    which this term calls a separate question. The definition of the
+    chance is unchanged.
 tags:
 - society-and-governance
 - agency
@@ -21,10 +36,10 @@ summary: >-
   agent: search, authorization, coordination and execution compete for
   the same time. Named because the exchange used the object in four turns (A7 to A10)
   under "remedial reach", "effective remedial capacity", "effective
-  answerability" and "correctability frontier". Proposed.
+  answerability" and "correctability frontier". Adopted 2026-10-29.
 used_by:
 - CLAIM-462
-- CLAIM-464
+
 ---
 
 # TERM-085: correctability, of an institutional arrangement for a corrective objective: the chance that the arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a plan achieving the objective before the deadline and within its resources
@@ -59,6 +74,14 @@ for executing orders and clear escalation, maintained beforehand. And the
 supremum is the best available policy, not the one used; A10's three
 levels are oracle feasibility, bounded-optimal capability and realized
 organizational competence.
+
+**Whose correctability.** G is the arrangement through which correction is
+sought: the institutions that would find, authorize and carry out the plan,
+and the one whose act or state J would correct. The correctability of an
+arrangement is its capacity to correct a state of itself through its parts.
+When a claim speaks of one institution's being correctable by others
+([CLAIM-462](../claims.d/CLAIM-462.md)), G is the arrangement that holds both, and J a correction of the
+first.
 
 ## What it is not
 

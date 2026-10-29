@@ -1,28 +1,28 @@
 ---
 number: 912
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpfj7ek
-promote_when: >-
-  A second sample, ideally pre-registered and with a cost attached to
-  avoiding, comparing anxiety-disorder patients with healthy controls on
-  the same kind of avoidance task, and finding again that patients avoid
-  a safety cue more, avoid danger cues no more, keep a higher expectancy
-  of the aversive outcome after effective avoidance, and report more
-  relief at omissions, with rated aversiveness controlled or matched. It
-  is weakened if the differences disappear when aversiveness is matched,
-  for example by raising aversiveness in healthy participants as the
-  authors propose. The authors' mechanism (excess relief reinforcing
-  avoidance without action-safety learning) is not carried by this
-  THEORY, and a result about it neither promotes nor refutes this one.
 title: 'In a picture-based avoidance task, treatment-seeking patients with OCD or PTSD avoided a safety cue more than healthy controls and, after effective avoidance, still expected the aversive picture more; patients with panic disorder with agoraphobia or PTSD reported more relief when it was omitted; the groups did not differ in avoiding the danger cues'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1123). The title claims no
+    more than the source showed and is unchanged. The promote_when moves
+    unchanged to QUESTION-331, as THEORY-285's did to QUESTION-303.
+    CLAIM-446 now lists this reading under corroborated_by, not grounds
+    (ADR-058): the claim's argument does not rest on it.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
 date: '2026-10-24'
 source:
 - LIT-1490
+bears_on:
+- QUESTION-331
 summary: >-
   De Kleine et al. (2023), [LIT-1490](../literature.d/LIT-1490.md), read in full from the CC BY
   version of record in [NOTE-1123](../notes.d/NOTE-1123.md). 47 controls against 33 OCD, 40 PDA
@@ -31,10 +31,10 @@ summary: >-
   and patients rated the pictures as more aversive. It does not show the
   authors' account, that low confidence in avoidance makes omissions
   surprising and the relief reinforces avoidance.
-supports:
+corroborates:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-285 — Proposed; the claim and model this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and model this bears on, named, nothing here rests on them -->
 
 # THEORY-912: In a picture-based avoidance task, treatment-seeking patients with OCD or PTSD avoided a safety cue more than healthy controls and, after effective avoidance, still expected the aversive picture more; patients with panic disorder with agoraphobia or PTSD reported more relief when it was omitted; the groups did not differ in avoiding the danger cues
 

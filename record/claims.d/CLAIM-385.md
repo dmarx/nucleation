@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjqb3e
 title: 'If a symmetric operator on ℝⁿ commutes with an orthogonal representation of a compact group, each eigenspace is a sum of real irreducibles and each multiplicity a sum of multiples of their dimensions, so SO(2) and ℤ/n for n ≥ 3 force paired eigenvalues; conversely the spectrum fixes neither the group nor a basis inside an eigenspace'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -19,6 +19,13 @@ history:
     theorem, so the claim is filed Active, demonstrated. THEORY-019 keeps
     the reading of the sources and its promote_when, which asks for a held
     source, and stays Proposed.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    THEORY-019 promoted by the twelfth status review (ADR-057); the bullet
+    on what the sources state no longer calls it Proposed, and it leaves
+    this entry's inactive-ok acknowledgement, with THEORY-017, which is
+    Active. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,7 +47,7 @@ grounds:
 - LIT-346
 - LIT-362
 ---
-<!-- inactive-ok-file: THEORY-019 THEORY-017 THEORY-005 — Proposed; the account this was filed from, which keeps the reading of the sources, the sense of intrinsic named in what this does not say, and the precedent named in the history; none is leaned on -->
+<!-- inactive-ok-file: THEORY-005 — Proposed; the precedent named in the history, not leaned on -->
 
 # CLAIM-385: If a symmetric operator on ℝⁿ commutes with an orthogonal representation of a compact group, each eigenspace is a sum of real irreducibles and each multiplicity a sum of multiples of their dimensions, so SO(2) and ℤ/n for n ≥ 3 force paired eigenvalues; conversely the spectrum fixes neither the group nor a basis inside an eigenspace
 
@@ -119,8 +126,7 @@ rotation planes but not their frequencies.
   eigenspaces of an invariant kernel ([LIT-329](../literature.d/LIT-329.md)), and Kondor & Trivedi
   prove that intertwiners preserve isotypic components ([LIT-305](../literature.d/LIT-305.md));
   neither states (2)–(4). The reading of the sources, with the
-  real-scalar correction from [LIT-362](../literature.d/LIT-362.md), stays in [THEORY-019](../theory.d/THEORY-019.md), which
-  remains Proposed.
+  real-scalar correction from [LIT-362](../literature.d/LIT-362.md), stays in [THEORY-019](../theory.d/THEORY-019.md).
 - **Anything about noisy operators.** The statement is exact. Near-
   degeneracy and the thresholds a test on estimated operators would need
   are open.

@@ -19,7 +19,15 @@ promote_when: >-
   of the outputs against the human revisions was measured, so narrowing
   is not shown. More historical analogies cannot settle it.
 title: 'Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Supports entry for CLAIM-068 removed by the thirteenth status
+    review (ADR-057, ADR-058): that claim now lists this account under
+    corroborated_by, as weak support for its attraction toward
+    conventional regions, not as a ground. The account is unchanged.
 tags:
 - social-science
 - agency
@@ -37,8 +45,6 @@ summary: >-
 rivals:
 - THEORY-208
 - THEORY-616
-supports:
-- CLAIM-068
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
 <!-- inactive-ok-file: THEORY-226 — Proposed; named in promote_when as partial evidence, not leaned on -->
@@ -102,3 +108,12 @@ look for one.
 - **Repeated reconstruction.** The homogenization mechanism is a claim
   about contraction toward common material when transmission passes
   through a model fitted to the average. It is stated, not modelled.
+
+## Note of 2026-10-29: what holds it back
+
+No criterion that would make a large model an agent rather than a technology
+has been stated and applied. The account's distinctive prediction, that
+routing cultural production through such models narrows what is produced, is
+untested: [THEORY-226](THEORY-226.md) measures a shared direction of LLM revisions, not their
+dispersion against human revisions. The paper offers no evidence, so the
+reading holds only as a classification argued by analogy.

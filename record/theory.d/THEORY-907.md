@@ -1,22 +1,25 @@
 ---
 number: 907
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpapk2z
-promote_when: >-
-  For the foraging pattern: a replicated study with clinical as well as
-  sub-clinical anxiety, in which less leaving of depleting patches is
-  shown to come from anxiety rather than stress or effort cost, with the
-  environment's reward rate known. For the checking result: a replication
-  of the predator-foraging finding, in which lower checking with somatic
-  anxiety is shown, by modelling or manipulation, to come from aversion to
-  detecting the threat rather than from lower valuation of the
-  information. It is refuted if, with effort and stress controlled, anxiety
-  does not reduce foraging exploration, or if anxious people check as much
-  as others once the cost of detection is equated. Further correlational
-  studies with a single anxiety measure cannot settle the mechanism.
-title: "In foraging tasks, higher stress or anxiety goes consistently with less exploration, and in one task with a predator to check for, people higher in somatic anxiety checked less and did worse, a reduction associated with greater aversion to detecting the predator"
-version: 1
+title: 'As Chou, Wilson and Smith review them, in about six foraging studies, mostly sub-clinical, higher stress or anxiety went with less exploration, and in one task with a predator to check for (Trier et al. 2023), people higher in trait somatic anxiety checked less and did worse, a reduction the study''s further analyses associated with greater aversion to detecting the predator'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1127). Narrowed: attributed to
+    the review, whose primary studies were not read. The old title: In
+    foraging tasks, higher stress or anxiety goes consistently with less
+    exploration, and in one task with a predator to check for, people
+    higher in somatic anxiety checked less and did worse, a reduction
+    associated with greater aversion to detecting the predator. The
+    promote_when moves unchanged to QUESTION-330, as THEORY-285's
+    did to QUESTION-303. CLAIM-446 now lists this reading under
+    corroborated_by, not grounds (ADR-058): the claim's argument does
+    not rest on it.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
@@ -24,6 +27,8 @@ tags:
 date: '2026-10-24'
 source:
 - LIT-1483
+bears_on:
+- QUESTION-330
 summary: >-
   Chou, Wilson & Smith (preprint June 2024; NBR 2024), [LIT-1483](../literature.d/LIT-1483.md), read
   in full in [NOTE-1127](../notes.d/NOTE-1127.md). Foraging: Lenow et al. 2017, Bustamante et al.
@@ -31,12 +36,12 @@ summary: >-
   studies agreeing. Checking: Trier et al. 2023, a single study. Mostly
   sub-clinical; stress and anxiety are treated together; the mechanisms
   are the authors' readings.
-supports:
+corroborates:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-910 THEORY-917 — Proposed; the claim and readings this bears on, named -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named -->
 
-# THEORY-907: In foraging tasks, higher stress or anxiety goes consistently with less exploration, and in one task with a predator to check for, people higher in somatic anxiety checked less and did worse, a reduction associated with greater aversion to detecting the predator
+# THEORY-907: As Chou, Wilson and Smith review them, in about six foraging studies, mostly sub-clinical, higher stress or anxiety went with less exploration, and in one task with a predator to check for (Trier et al. 2023), people higher in trait somatic anxiety checked less and did worse, a reduction the study's further analyses associated with greater aversion to detecting the predator
 
 ## Source
 

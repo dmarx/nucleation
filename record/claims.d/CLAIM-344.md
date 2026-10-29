@@ -1,10 +1,10 @@
 ---
 number: 344
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp0wvwc
 title: 'Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -14,6 +14,15 @@ history:
     to Ainslie's and does not stand on it; it cites the reading's
     over-control prediction as evidence for the revision condition.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises
+    CLAIM-277, CLAIM-331 and CLAIM-099 and its ground THEORY-688 are
+    Active, no objection is filed, and nothing in the record meets its
+    defeated_if. THEORY-067 stays as corroboration (ADR-058). Status
+    Proposed to Active. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,7 +69,7 @@ complements:
 - CLAIM-443
 ---
 
-<!-- inactive-ok-file: CLAIM-159 CLAIM-277 CLAIM-331 CLAIM-349 CLAIM-359 THEORY-067 — Proposed; open claims and readings this one rests on or places itself against, cited as open -->
+<!-- inactive-ok-file: CLAIM-359 THEORY-067 — Proposed; an open claim this one cites and the reading that corroborates it, cited as open -->
 
 # CLAIM-344: Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve
 

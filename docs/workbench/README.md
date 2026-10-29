@@ -6,6 +6,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 22:36 — The thirteenth status review: eleven claims and ten readings promoted, two terms adopted, CLAIM-489 rejected on its own condition](2026-10.md#the-thirteenth-status-review-eleven-claims-and-ten-readings-promoted-two-terms-adopted-claim-489-rejected-on-its-own-condition)
+- [29 Oct 10:17 — The twelfth status review: four terms adopted, three formal readings proved, two splits, and ARG-022 rejected on its own condition](2026-10.md#the-twelfth-status-review-four-terms-adopted-three-formal-readings-proved-two-splits-and-arg-022-rejected-on-its-own-condition)
 - [29 Oct 09:54 — The eleventh status review: the unwritten concessions cleared, twelve promotions, and CLAIM-154 narrowed on a computed counterexample](2026-10.md#the-eleventh-status-review-the-unwritten-concessions-cleared-twelve-promotions-and-claim-154-narrowed-on-a-computed-counterexample)
 - [29 Oct 07:39 — The tenth status review: re-derivations checked, readings narrowed to what they measured, and two more proposal splits](2026-10.md#the-tenth-status-review-re-derivations-checked-readings-narrowed-to-what-they-measured-and-two-more-proposal-splits)
 - [29 Oct 07:17 — The ninth status review: eleven promotions, the Ainslie split, THEORY-481's correction checked numerically, and CLAIM-440 written up to its concessions](2026-10.md#the-ninth-status-review-eleven-promotions-the-ainslie-split-theory-481s-correction-checked-numerically-and-claim-440-written-up-to-its-concessions)
@@ -109,8 +111,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-100 entries across 1 book, newest first.
+102 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 100 | 2026-10-07 | 2026-10-29 |
+| [2026-10](2026-10.md) | 102 | 2026-10-07 | 2026-10-29 |

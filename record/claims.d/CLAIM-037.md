@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpaviuz
 title: 'Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,24 @@ history:
     LIT-843's causal-past route contests that "needs", so the warrant is
     interpretive. The defeat condition keeps its first disjunct. The title is
     unchanged, and the status stays Proposed.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    A dated note added by the twelfth status review (ADR-057): ARG-022,
+    the source argument concluding this claim from LIT-777, is Rejected,
+    and the note says what should replace that ground. The claim, its
+    grounds and its status are unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Grounds moved as the note of 2026-10-29 directed (thirteenth status
+    review, ADR-057): LIT-831, CbD 2.0, added; LIT-777 stays for cyclic
+    and consistently connected systems, and THEORY-722 and THEORY-168 are
+    cited in the body only, since they qualify the claim rather than
+    ground it. The summary no longer cites CLAIM-069, whose successor
+    ARG-022 is Rejected, and the Superseded CASE-008 is dropped from
+    illustrated_by, its successor CASE-035 being listed. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,6 +58,7 @@ grounds:
 - THEORY-012
 - LIT-016
 - LIT-777
+- LIT-831
 - LIT-842
 - LIT-844
 - THEORY-014
@@ -47,8 +66,8 @@ grounds:
 summary: >-
   The manuscript's §3 and §9. It separates three things: context
   dependence, stochastic noncommutativity, and contextuality as an
-  obstruction to a global section. [CLAIM-069](CLAIM-069.md) names the version of
-  CbD it should cite.
+  obstruction to a global section. Its note of 2026-10-29 names the
+  version it should cite: CbD 2.0 ([LIT-831](../literature.d/LIT-831.md)).
 complements:
 - CLAIM-041
 - CLAIM-044
@@ -57,7 +76,6 @@ complements:
 - CLAIM-143
 - CLAIM-310
 illustrated_by:
-- CASE-008
 - CASE-035
 - CASE-037
 - CASE-095
@@ -120,3 +138,25 @@ route, which folds signalling into the classical model instead. Per
 one with multimaximal couplings, for observables in more than two contexts.
 The thesis is interpretive until the record compares the two routes on a
 signalling data set, or concedes "needs" to "can handle".
+
+## Note of 2026-10-29: its source argument is Rejected
+
+[ARG-022](../arguments.d/ARG-022.md), which held that the 2016 Contextuality-by-Default paper ([LIT-777](../literature.d/LIT-777.md))
+grounds the criterion the manuscript's general observational covers need,
+is Rejected: [THEORY-168](../theory.d/THEORY-168.md)'s note of this date works a binary system with a
+content in four contexts on which the 2016 criterion and CbD 2.0 disagree.
+For contents in more than two contexts, the ground this claim's
+"needs Contextuality-by-Default" should cite is CbD 2.0, Dzhafarov and
+Kujala's multimaximal criterion ([LIT-831](../literature.d/LIT-831.md), read in [NOTE-643](../notes.d/NOTE-643.md)), with
+[THEORY-722](../theory.d/THEORY-722.md) and [THEORY-168](../theory.d/THEORY-168.md) for how the verdict depends on the
+representation. [LIT-777](../literature.d/LIT-777.md) still grounds it for cyclic and consistently
+connected systems, where the two versions agree. Moving the ground is left
+to the next pass on this claim.
+
+## Note of 2026-10-29: what holds it back
+
+"Needs Contextuality-by-Default" is contested by two sheaf routes the record
+holds that allow for signalling: [LIT-843](../literature.d/LIT-843.md)'s causal past and [LIT-844](../literature.d/LIT-844.md)'s
+signalling-corrected test. [LIT-844](../literature.d/LIT-844.md)'s data show the two verdicts diverging
+(0.148% against 71.1%) without showing which is right. It goes Active on a
+comparison of a sheaf route with CbD 2.0 on one signalling data set.

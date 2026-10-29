@@ -1,10 +1,22 @@
 ---
 number: 223
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpcbm69
 title: 'Whether a distinction survived is fixed by what the receivers can recover, and whether it can be shown to have survived is fixed by what the analyst''s probes can identify, so the manuscript''s thesis and the October fidelity clause, read so, answer different parts of one question'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted to Active at the twelfth status review, by the owner's
+    assent in its pull request (ADR-057). Its premise CLAIM-140 is
+    Active, nothing objects to it, and on the record's reading of A218
+    (CLAIM-140) A218 does not use "independently identifiable" to
+    exclude recovered distinctions, so its defeat condition is unmet;
+    CLAIM-204 and CLAIM-450 adopt its division of labour. CLAIM-211 is
+    revised to record this entry's objection (ADR-059). The claim is
+    unchanged; it was Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,7 +49,7 @@ supports:
 - CLAIM-204
 - CLAIM-450
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-074 — Proposed; open, and cited as the two theses this reading relates and the receiver-side claim, not as settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; the two theses this reading relates, read as worded, which is what it reads -->
 
 # CLAIM-223: Whether a distinction survived is fixed by what the receivers can recover, and whether it can be shown to have survived is fixed by what the analyst's probes can identify, so the manuscript's thesis and the October fidelity clause, read so, answer different parts of one question
 
@@ -109,3 +121,14 @@ as written.
 - It does not say the receiver-relative condition is settled. Which receivers
   is [QUESTION-075](../questions.d/QUESTION-075.md)'s, and [CLAIM-074](CLAIM-074.md) holds that fidelity differs across
   them.
+
+## Note of 2026-10-29: the relation, decided
+
+The two decisions "What it answers" left to the owner were made at the
+seventh status review: [CLAIM-139](CLAIM-139.md)'s version 2 lists [QUESTION-002](../questions.d/QUESTION-002.md) in
+`answers` and no longer names [CLAIM-115](CLAIM-115.md) in `complements`, since on the
+fidelity clause as worded they rival ([CLAIM-211](CLAIM-211.md)). Both theses were then
+superseded, [CLAIM-115](CLAIM-115.md) by [CLAIM-220](CLAIM-220.md) and [CLAIM-139](CLAIM-139.md) by [CLAIM-204](CLAIM-204.md), and
+[CLAIM-204](CLAIM-204.md)'s fourth clause states this reading. So the reading no longer
+rescues a relation between the old theses; it is what their successors
+say.

@@ -15,7 +15,15 @@ promote_when: >-
   transformations chosen to reproduce it cannot settle it, since it
   cannot fail.
 title: "In Lévi-Straussian analysis of myth the group of transformations is not given by the material: which variants count as transforms of which, and by what operation, is cut by the analyst from a continuum, unlike transformations that develop an initial form by a rule, and the computational encodings of the method confirm this by taking the analyst's table of oppositions as input"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The circularity point, that trope descriptions are written to fit
+    their examples, was cited to CLAIM-145; since 2026-10-28 it is
+    ARG-014 (ADR-061), so the citation now points there (thirteenth
+    status review, ADR-057). The account is unchanged.
 tags:
 - myth-and-folklore
 - social-science
@@ -34,7 +42,8 @@ summary: >-
   argument and a software paper's concession; no test of the claim exists
   in the record.
 ---
-<!-- inactive-ok-file: CLAIM-145 THEORY-167 — Proposed; the claim and the Propp account this one is set beside, cited as open -->
+<!-- inactive-ok-file: THEORY-167 — Proposed; the Propp account this one is set beside, cited as open -->
+<!-- inactive-ok-file: ARG-014 — Rejected; the verdict that labels written to fit their examples cannot validate the account -->
 <!-- inactive-ok-file: LIT-775 — Unavailable; Lévi-Strauss's Structural Anthropology, unread, named and not leaned on -->
 
 # THEORY-432: In Lévi-Straussian analysis of myth the group of transformations is not given by the material: which variants count as transforms of which, and by what operation, is cut by the analyst from a continuum, unlike transformations that develop an initial form by a rule, and the computational encodings of the method confirm this by taking the analyst's table of oppositions as input
@@ -114,7 +123,7 @@ so.
   Descola reads it and as computationally modelled, is prior art for
   structural transport. This account fixes what that prior art contains:
   an encoding of the analyst's transformations, not a procedure that
-  finds them. **[CLAIM-145](../claims.d/CLAIM-145.md)** draws the same conclusion for trope
+  finds them. **[ARG-014](../arguments.d/ARG-014.md)** draws the same conclusion for trope
   annotations.
 - Propp's morphology ([THEORY-167](THEORY-167.md)) is the syntagmatic contrast Dundes draws
   ([LIT-830](../literature.d/LIT-830.md)): an order of functions read off the text, against

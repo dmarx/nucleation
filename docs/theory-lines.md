@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-119 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+122 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -32,6 +32,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-071](../record/theory.d/THEORY-071.md) — Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency *(Proposed)*
   - [THEORY-1119](../record/theory.d/THEORY-1119.md) — Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency *(Active)*
+
+### From Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one
+
+- [THEORY-219](../record/theory.d/THEORY-219.md) — Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one *(Proposed)*
+  - [THEORY-1165](../record/theory.d/THEORY-1165.md) — Kahl proposes that agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, which is absent where revision is imposed from outside, escaped by rollback or chosen by a fixed higher-order rule; that allocating authority among a system's own components coordinates execution without authoring its governing frame; and that planning, autonomy, memory and coordination do not supply that standpoint *(Active)*
+
+### From Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity
+
+- [THEORY-628](../record/theory.d/THEORY-628.md) — Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity *(Proposed)*
+  - [THEORY-1166](../record/theory.d/THEORY-1166.md) — Di Paolo argues that autopoiesis as originally defined entails conservation and not active homeostasis, so it gives a system only an all-or-nothing norm, to go on or to die, which an observer and not the system can use; that a graded norm the system itself has needs adaptivity, a capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them; and that sense-making and agency need adaptivity *(Active)*
 
 ### From Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
 
@@ -276,6 +286,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## compositionality
 
+### From The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how
+
+- [THEORY-167](../record/theory.d/THEORY-167.md) — The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how *(Proposed)*
+  - [THEORY-1164](../record/theory.d/THEORY-1164.md) — Propp proposes, from his analysis of Afanasyev's tales 50–151, that the Russian wondertale is built from 31 character functions, each defined by its consequence for the action, occurring in one order and falling to seven roles, so that wondertales share one composition and differ in who performs the functions and how *(Active)*
+
 ### From In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair
 
 - [THEORY-117](../record/theory.d/THEORY-117.md) — In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair *(Active)*
@@ -324,7 +339,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree
 
 - [THEORY-722](../record/theory.d/THEORY-722.md) — In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree *(Active)*
-  - [THEORY-168](../record/theory.d/THEORY-168.md) — In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included *(Proposed)*
+  - [THEORY-168](../record/theory.d/THEORY-168.md) — In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included *(Active)*
 
 ### From Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned
 
@@ -369,6 +384,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-071](../record/theory.d/THEORY-071.md) — Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency *(Proposed)*
   - [THEORY-1119](../record/theory.d/THEORY-1119.md) — Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency *(Active)*
+
+### From Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity
+
+- [THEORY-628](../record/theory.d/THEORY-628.md) — Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity *(Proposed)*
+  - [THEORY-1166](../record/theory.d/THEORY-1166.md) — Di Paolo argues that autopoiesis as originally defined entails conservation and not active homeostasis, so it gives a system only an all-or-nothing norm, to go on or to die, which an observer and not the system can use; that a graded norm the system itself has needs adaptivity, a capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them; and that sense-making and agency need adaptivity *(Active)*
 
 ### From In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16
 
@@ -527,7 +547,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix
 
 - [THEORY-717](../record/theory.d/THEORY-717.md) — For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix *(Active)*
-  - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Proposed)*
+  - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Active)*
     - [THEORY-1096](../record/theory.d/THEORY-1096.md) — Blackwell's comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces *(Active)*
 
 ### From In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data
@@ -796,7 +816,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix
 
 - [THEORY-717](../record/theory.d/THEORY-717.md) — For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix *(Active)*
-  - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Proposed)*
+  - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Active)*
     - [THEORY-1096](../record/theory.d/THEORY-1096.md) — Blackwell's comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces *(Active)*
 
 ### From Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble
@@ -817,19 +837,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
-- [THEORY-019](../record/theory.d/THEORY-019.md) — Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet *(Proposed)*
+- [THEORY-019](../record/theory.d/THEORY-019.md) — Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet *(Active)*
   - [THEORY-084](../record/theory.d/THEORY-084.md) — Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks *(Proposed)*
 
 ### From For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix
 
 - [THEORY-717](../record/theory.d/THEORY-717.md) — For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix *(Active)*
-  - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Proposed)*
+  - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Active)*
     - [THEORY-1096](../record/theory.d/THEORY-1096.md) — Blackwell's comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces *(Active)*
 
 ### From In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree
 
 - [THEORY-722](../record/theory.d/THEORY-722.md) — In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree *(Active)*
-  - [THEORY-168](../record/theory.d/THEORY-168.md) — In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included *(Proposed)*
+  - [THEORY-168](../record/theory.d/THEORY-168.md) — In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included *(Active)*
 
 ### From Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned
 
@@ -947,6 +967,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-070](../record/theory.d/THEORY-070.md) — How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control *(Proposed)*
   - [THEORY-1110](../record/theory.d/THEORY-1110.md) — Shenhav, Botvinick and Cohen propose that control is allocated top-down by a dedicated specifying system: dACC computes the expected value of a control signal, its probability-weighted payoff less an intrinsic cost rising with intensity, and specifies the signal that lateral prefrontal and subcortical structures implement *(Active)*
 
+## myth-and-folklore
+
+### From The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how
+
+- [THEORY-167](../record/theory.d/THEORY-167.md) — The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how *(Proposed)*
+  - [THEORY-1164](../record/theory.d/THEORY-1164.md) — Propp proposes, from his analysis of Afanasyev's tales 50–151, that the Russian wondertale is built from 31 character functions, each defined by its consequence for the action, occurring in one order and falling to seven roles, so that wondertales share one composition and differ in who performs the functions and how *(Active)*
+
 ## natural-sciences
 
 ### From For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient
@@ -1053,6 +1080,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-071](../record/theory.d/THEORY-071.md) — Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency *(Proposed)*
   - [THEORY-1119](../record/theory.d/THEORY-1119.md) — Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency *(Active)*
+
+### From Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity
+
+- [THEORY-628](../record/theory.d/THEORY-628.md) — Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity *(Proposed)*
+  - [THEORY-1166](../record/theory.d/THEORY-1166.md) — Di Paolo argues that autopoiesis as originally defined entails conservation and not active homeostasis, so it gives a system only an all-or-nothing norm, to go on or to die, which an observer and not the system can use; that a graded norm the system itself has needs adaptivity, a capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them; and that sense-making and agency need adaptivity *(Active)*
 
 ### From In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure
 
@@ -1392,6 +1424,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is *(Proposed)*
 
+### From Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one
+
+- [THEORY-219](../record/theory.d/THEORY-219.md) — Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one *(Proposed)*
+  - [THEORY-1165](../record/theory.d/THEORY-1165.md) — Kahl proposes that agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, which is absent where revision is imposed from outside, escaped by rollback or chosen by a fixed higher-order rule; that allocating authority among a system's own components coordinates execution without authoring its governing frame; and that planning, autonomy, memory and coordination do not supply that standpoint *(Active)*
+
 ## social-ontology
 
 ### From On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter
@@ -1405,6 +1442,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-575](../record/theory.d/THEORY-575.md) — 'Social group' names two kinds of thing: organized social groups, such as teams, courts and families, are structured wholes whose people occupy the nodes of an internal social structure, while feature social groups, such as women, racial groups and classes, are social kinds, nodes in external social structures, and are not concrete wholes *(Proposed)*
 
 ## social-science
+
+### From The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how
+
+- [THEORY-167](../record/theory.d/THEORY-167.md) — The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how *(Proposed)*
+  - [THEORY-1164](../record/theory.d/THEORY-1164.md) — Propp proposes, from his analysis of Afanasyev's tales 50–151, that the Russian wondertale is built from 31 character functions, each defined by its consequence for the action, occurring in one order and falling to seven roles, so that wondertales share one composition and differ in who performs the functions and how *(Active)*
 
 ### From In ad hoc groups of students negotiating a bonus, a confederate's randomly assigned pleasant or unpleasant mood spread to the other members, by their self-reports and by blind coders, and the more pleasant mood a group caught, the more cooperative and the less conflicted coders rated it, a correlation with measured contagion rather than a manipulated effect; members' moods also converged without a confederate, and members did not credit their mood for how effective they judged themselves; the numbers are from the 2001 manuscript
 
@@ -1453,6 +1495,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-858](../record/theory.d/THEORY-858.md) — Insulating a regulator from future political revision fixes in place the interests of whoever designs the insulated regime: it relieves the underinvestment that electoral pressure on prices causes when the designers serve consumers, and entrenches capture, removing the electoral pressure that would correct it, when they serve the regulated industry *(Proposed)*
 
 ## society-and-governance
+
+### From Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one
+
+- [THEORY-219](../record/theory.d/THEORY-219.md) — Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one *(Proposed)*
+  - [THEORY-1165](../record/theory.d/THEORY-1165.md) — Kahl proposes that agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, which is absent where revision is imposed from outside, escaped by rollback or chosen by a fixed higher-order rule; that allocating authority among a system's own components coordinates execution without authoring its governing frame; and that planning, autonomy, memory and coordination do not supply that standpoint *(Active)*
 
 ### From On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter
 

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    A paragraph added stating the claim in TERM-085, which it used
+    without naming, after TERM-085 version 2 said whose correctability
+    it is (twelfth status review, ADR-057). The title, defeater and
+    status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,6 +82,11 @@ orders reaching an enforcer who will act on them, information reaching a
 reviewer, a foreign partner's cooperation being requirable. A9: "The
 institutions are formally continuous. The organization through which they
 exercised mutual constraint is not necessarily continuous."
+
+In [TERM-085](../terms.d/TERM-085.md)'s terms, the capacity to be corrected is the correctability, for
+corrections of the acting institution's acts, of the arrangement that holds
+both it and the institutions that would correct it. The claim is that this
+can fall while the institution's capacity for effective action holds.
 
 The cases show the pattern, not its frequency. At USIP ([CASE-176](../cases.d/CASE-176.md)) the
 executive's capacity to take control was effective, and the court's

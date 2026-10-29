@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpd1aee
 title: 'Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -16,6 +16,12 @@ history:
     are the same act. The judges are the criterion (CLAIM-217), not
     a probe, so version 2 excludes probes that elicit or are fitted to
     their verdicts. The claim and its body are unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    CLAIM-193 removed from supports by the thirteenth status review
+    (ADR-057): CLAIM-193 now rests on CLAIM-264 for the general content,
+    and lists this claim as a complement. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,7 +69,6 @@ supports:
 - CLAIM-133
 - CLAIM-139
 - CLAIM-204
-- CLAIM-193
 objected_by:
 - CLAIM-206
 ---

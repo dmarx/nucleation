@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpt860v
 title: 'Kovacs, Deutsch and Freitag''s metric bias in MBR decoding: translations a metric selects, that the metric and its neighbours rate better and human raters do not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CLAIM-149 moved from supports to illustrates by the thirteenth status
+    review (ADR-057, ADR-058): the case shows selection against a metric,
+    not training, so it illustrates that claim rather than grounding it,
+    as for CLAIM-266. The case is unchanged.
 standing: documented
 kind: reported-study
 tags:
@@ -14,8 +22,9 @@ tags:
 date: '2026-10-10'
 line: pragmatic-transport
 supports:
-- CLAIM-149
 - CLAIM-190
+illustrates:
+- CLAIM-149
 variant_of:
 - CASE-041
 summary: >-

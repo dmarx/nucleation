@@ -1,13 +1,10 @@
 ---
 number: 269
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqe024
-title: A regularized linear readout can tell apart only representations that
-  differ in normalized kernel, and kernels fix a representation only up to
-  the symmetry of what is observed, so any distinction beyond that is supplied
-  by the analyst, not by the readouts
-version: 3
+title: 'A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so no such readout supplies a distinction beyond that symmetry'
+version: 5
 history:
 - version: 1
   date: '2026-10-13'
@@ -39,6 +36,29 @@ history:
     supports entry for this claim is removed. The old bullet: Convergence
     of kernels fixes representations only up to the symmetry group of
     what is observed (THEORY-002). The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    rests_on CLAIM-385 added by the twelfth status review (ADR-057,
+    ADR-058). The fourth bullet, that degeneracy does not identify the
+    symmetry, is what this claim adds to CLAIM-379, and it is CLAIM-385's
+    item 4, the record's own demonstrated result. THEORY-019, the reading
+    the bullet also cites, was promoted the same day, so the blocker note
+    of this date is revised to say what is left. The claim is unchanged
+    and the status stays Proposed.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the thirteenth status review (ADR-057), which
+    settles the blocker of its note of this date. 'Not by the readouts'
+    follows from CLAIM-379; 'by the analyst' does not, since a basis-dependent
+    probe family also separates representations with the same
+    kernel (p13/claim269_readout.py). The analyst clause stays in
+    CLAIM-193, which is interpretive. The old title: 'A regularized linear
+    readout can tell apart only representations that differ in normalized
+    kernel, and kernels fix a representation only up to the symmetry of
+    what is observed, so any distinction beyond that is supplied by the
+    analyst, not by the readouts'.
 role: thesis
 warrant: demonstrated
 defeated_if: A regularized linear readout shown to separate two representations
@@ -66,12 +86,13 @@ summary: The general content of [CLAIM-193](CLAIM-193.md), filed alone under [AD
   the symmetry ([THEORY-019](../theory.d/THEORY-019.md)). These are proved results for learned representations.
 rests_on:
 - CLAIM-379
+- CLAIM-385
 supports:
 - CLAIM-193
 ---
-<!-- inactive-ok-file: CLAIM-142 CLAIM-193 THEORY-019 — Proposed; cited for what each holds or applies, open, not settled -->
+<!-- inactive-ok-file: CLAIM-142 CLAIM-193 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-269: A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts
+# CLAIM-269: A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so no such readout supplies a distinction beyond that symmetry
 
 ## The claim
 
@@ -95,7 +116,9 @@ known exactly:
 
 So a linear probe family separates exactly what the kernel separates.
 It collapses representations that differ only by a symmetry of the
-observed data, and a distinction drawn beyond that comes from the analyst.
+observed data. A distinction drawn beyond that comes from something other
+than the readouts, such as a basis-dependent probe or the analyst's choice
+of inner product ([THEORY-018](../theory.d/THEORY-018.md)).
 
 ## Where the record applies it
 
@@ -121,5 +144,8 @@ identify the symmetry of the observed data ([THEORY-019](../theory.d/THEORY-019.
 
 ## Note of 2026-10-29: what holds it back
 
-The fourth bullet rests on [THEORY-019](../theory.d/THEORY-019.md), whose Schur corollary over the
-reals no held source states and proves.
+No premise is now Proposed: [THEORY-019](../theory.d/THEORY-019.md) is Active since the twelfth status
+review, and the fourth bullet also rests on [CLAIM-385](CLAIM-385.md). What is left is a
+check of the claim's own last step, that a distinction beyond the kernel's
+symmetry "is supplied by the analyst", which may be interpretive rather
+than demonstrated.

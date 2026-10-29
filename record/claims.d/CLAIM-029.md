@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp98mw2
 title: 'A language model''s response to a context is functionally a parameterized pragmatic frame'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -14,6 +14,15 @@ history:
     reply narrows it). LIT-460 is kept, because that THEORY's thesis is
     about what an agent's "I" refers to, and the claim leans on the
     role-play framing, not on that thesis.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-490 moved from grounds to corroborated_by by the thirteenth
+    status review (ADR-057, ADR-058). Version 2 added it because 'the
+    claim leans on the role-play framing, not on that thesis'; the
+    body cites that framing as a prior statement of the idea, and
+    LIT-460, which states it, stays in grounds. THEORY-490's supports
+    entry for this claim is removed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,6 +38,7 @@ uses:
 - TERM-025
 grounds:
 - LIT-460
+corroborated_by:
 - THEORY-490
 summary: >-
   The owner at U17, offered as a motivating example "maybe even just for

@@ -1,10 +1,10 @@
 ---
 number: 406
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpoxld9
 title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -20,6 +20,23 @@ history:
     THEORY-854 moved from grounds to corroborated_by (ADR-058): cited as
     an instance of the loop, beside readings that are not grounds, not
     as a premise.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Twelfth status review (ADR-058). THEORY-317 removed from grounds:
+    the body cites it only under "Where it bears", and the case and
+    the prejudice condition the claim uses are THEORY-327's. The claim
+    is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises
+    CLAIM-277 and CLAIM-330 and its ground THEORY-327 are Active. No
+    objection is filed, and nothing in the record meets its defeated_if.
+    A bullet now says that it uses Fricker's account as THEORY-327 states
+    it, not its truth, which is QUESTION-322's. Status Proposed to
+    Active. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,7 +61,6 @@ rests_on:
 - CLAIM-330
 grounds:
 - THEORY-327
-- THEORY-317
 corroborated_by:
 - THEORY-854
 summary: >-
@@ -57,9 +73,9 @@ summary: >-
   sought". The sharp edge: the loop is the same whether what it entrenches
   was earned, and only a prejudice makes it an injustice.
 ---
-<!-- inactive-ok-file: THEORY-854 THEORY-864 — Proposed; readings of 2026-10-21 cited as the loop's empirical shape and as an assertion of it, and this claim is Proposed with them -->
+<!-- inactive-ok-file: THEORY-854 THEORY-864 — Proposed; readings of 2026-10-21 cited as the loop's empirical shape and as an assertion of it, corroboration and context, not grounds -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; Pohlhaus and Dotson, named as works A24 drew on that no lawful copy reached -->
-<!-- inactive-ok-file: CLAIM-277 CLAIM-276 THEORY-327 THEORY-317 THEORY-326 THEORY-145 THEORY-151 CLAIM-403 — Proposed; the claim and readings this one rests on or cites, and it is Proposed with them -->
+<!-- inactive-ok-file: CLAIM-276 THEORY-317 THEORY-326 THEORY-145 THEORY-151 CLAIM-403 — Proposed; claims and readings this one cites where it bears, nothing here rests on them -->
 
 # CLAIM-406: Structural, pre-emptive testimonial injustice has the form of the record's trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain
 
@@ -170,6 +186,10 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
   is unfair", and "not every inherited expert roster is unjust."
 - **That every self-reproducing authority is privilege.** That is
   [QUESTION-087](../questions.d/QUESTION-087.md), open.
+- **That Fricker's account of the wrong is right.** It uses structural,
+  pre-emptive testimonial injustice as [THEORY-327](../theory.d/THEORY-327.md) holds Fricker to state
+  it, prejudice condition included. Whether that account is right about
+  the wrong is [QUESTION-322](../questions.d/QUESTION-322.md)'s, and nothing here needs it.
 - **That the dynamics supply the normative criterion.** A24: "Feminist
   social epistemology provides normative and historical distinctions that
   the dynamical model alone lacks."

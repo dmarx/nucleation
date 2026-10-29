@@ -61,3 +61,11 @@ missed direct priming, so the test failed rather than the account.
   itself lets the same accessible knowledge produce contrast.
 - That all anchoring runs through accessibility. Insufficient adjustment
   and response effects are rival or additional pathways.
+
+## Note of 2026-10-29: what holds it back
+
+Its readings are held, but its second clause asserts what [THEORY-335](../theory.d/THEORY-335.md) says
+is not shown: that anchor-consistent knowledge made more accessible
+carries the shift. No design with a retrieval measure first shown
+sensitive to direct priming has found that accessibility difference, or
+tied it to the size of the shift ([QUESTION-323](../questions.d/QUESTION-323.md)).

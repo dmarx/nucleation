@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8z857
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-25'
@@ -31,6 +31,23 @@ history:
     games (THEORY-963) places in the easy class and Bartók et al.'s
     adversarial theorem did not cover. THEORY-963 is added to grounds.
     The claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    The thirteenth status review (ADR-057, ADR-058) moved THEORY-897,
+    THEORY-900, THEORY-907, THEORY-910 and THEORY-912 from grounds to
+    corroborated_by: the argument does not rest on them. THEORY-914 and
+    THEORY-915 leave grounds as rival accounts the test must exclude, and
+    THEORY-917 as a reading that narrows the evidence-acquisition clause;
+    the body cites all three. Three body citations are corrected: the
+    sentence that avoidance "can interfere with new learning by preventing
+    any violation in expectancy" is carried by neither THEORY-914 nor
+    THEORY-921 (which holds that fear reduction during exposure does not
+    predict follow-up fear), so both citations of it are removed and
+    NOTE-1137 stays; and protection from extinction is carried by
+    THEORY-901, not THEORY-900 or THEORY-920, whose citations there are
+    removed. THEORY-914 is now cited where the test names the
+    inhibitory-learning rival. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,18 +81,10 @@ complements:
 - CLAIM-277
 grounds:
 - THEORY-285
-- THEORY-914
 - THEORY-921
 - THEORY-901
 - THEORY-920
-- THEORY-900
 - THEORY-903
-- THEORY-912
-- THEORY-917
-- THEORY-907
-- THEORY-897
-- THEORY-910
-- THEORY-915
 - THEORY-962
 - THEORY-963
 - LIT-1498
@@ -86,6 +95,12 @@ grounds:
 - LIT-1491
 - LIT-1496
 - LIT-1500
+corroborated_by:
+- THEORY-897
+- THEORY-900
+- THEORY-907
+- THEORY-910
+- THEORY-912
 summary: >-
   The owner's, 2026-10-23, quoting "A governance prior can become
   self-protecting by reducing the access of the processes most likely to
@@ -203,12 +218,12 @@ future control: in Zorowitz, Momennejad and Daw the danger is represented
 correctly, and a pessimistic belief about later escape does the work.
 Each is a belief-maintained rival that holding threat probability fixed
 would not exclude. A third rival is memory. On Craske et al.'s
-inhibitory-learning account the fear association survives extinction and
+inhibitory-learning account ([THEORY-914](../theory.d/THEORY-914.md)) the fear association survives extinction and
 competes for retrieval, so persistence and return of fear need no
 governance variable; a governance account has to say what it adds.
 
 
-**What the readings of 2026-10-24 support and do not.** They support the identifiability step in its clinical form: avoidance "can interfere with new learning by preventing any violation in expectancy" (Craske et al., [NOTE-1137](../notes.d/NOTE-1137.md), [THEORY-914](../theory.d/THEORY-914.md), [THEORY-921](../theory.d/THEORY-921.md)), and avoidance protects threat expectancy from extinction ([NOTE-1134](../notes.d/NOTE-1134.md), [THEORY-901](../theory.d/THEORY-901.md), [THEORY-920](../theory.d/THEORY-920.md), [THEORY-900](../theory.d/THEORY-900.md)). They support the causal premise that protective behaviour does work on symptoms. In Goodson et al.'s meta-analysis, reducing safety behaviours lowered symptoms (d = 0.43; d = 0.31 after trim-and-fill for publication bias), increasing them raised symptoms (d = 0.65, five studies), and there is a dose-response. The samples are mostly young, non-clinical, and concerned with appearance or social anxiety ([NOTE-1128](../notes.d/NOTE-1128.md), [THEORY-903](../theory.d/THEORY-903.md)). De Kleine et al. ([NOTE-1123](../notes.d/NOTE-1123.md), [THEORY-912](../theory.d/THEORY-912.md)) found more avoidance of the safety cue and higher threat expectancy in OCD and PTSD, and more relief in panic and PTSD. Groups did not differ in avoiding the danger cues, relief was already higher before avoidance was available, and that relief reinforces avoidance is the authors' untested reading. Chou et al. ([NOTE-1127](../notes.d/NOTE-1127.md), [THEORY-917](../theory.d/THEORY-917.md), [THEORY-907](../theory.d/THEORY-907.md)) narrow the evidence-acquisition clause. Less exploration fits state or somatic anxiety and foraging tasks; trait or cognitive anxiety goes with more directed exploration. Brown et al. ([NOTE-1120](../notes.d/NOTE-1120.md), [THEORY-897](../theory.d/THEORY-897.md), [THEORY-910](../theory.d/THEORY-910.md)) and Zorowitz et al. ([NOTE-1136](../notes.d/NOTE-1136.md), [THEORY-915](../theory.d/THEORY-915.md)) supply the rivals named in the test. None of these studies measured authority as this claim defines it, so the claim's distinctive part is still untested. Gangemi et al., on inferring danger from one's own safety behaviour, was sought and is Unavailable ([LIT-1498](../literature.d/LIT-1498.md)).
+**What the readings of 2026-10-24 support and do not.** They support the identifiability step in its clinical form: avoidance "can interfere with new learning by preventing any violation in expectancy" (Craske et al., [NOTE-1137](../notes.d/NOTE-1137.md)), and avoidance protects threat expectancy from extinction ([NOTE-1134](../notes.d/NOTE-1134.md), [THEORY-901](../theory.d/THEORY-901.md)). They support the causal premise that protective behaviour does work on symptoms. In Goodson et al.'s meta-analysis, reducing safety behaviours lowered symptoms (d = 0.43; d = 0.31 after trim-and-fill for publication bias), increasing them raised symptoms (d = 0.65, five studies), and there is a dose-response. The samples are mostly young, non-clinical, and concerned with appearance or social anxiety ([NOTE-1128](../notes.d/NOTE-1128.md), [THEORY-903](../theory.d/THEORY-903.md)). De Kleine et al. ([NOTE-1123](../notes.d/NOTE-1123.md), [THEORY-912](../theory.d/THEORY-912.md)) found more avoidance of the safety cue and higher threat expectancy in OCD and PTSD, and more relief in panic and PTSD. Groups did not differ in avoiding the danger cues, relief was already higher before avoidance was available, and that relief reinforces avoidance is the authors' untested reading. Chou et al. ([NOTE-1127](../notes.d/NOTE-1127.md), [THEORY-917](../theory.d/THEORY-917.md), [THEORY-907](../theory.d/THEORY-907.md)) narrow the evidence-acquisition clause. Less exploration fits state or somatic anxiety and foraging tasks; trait or cognitive anxiety goes with more directed exploration. Brown et al. ([NOTE-1120](../notes.d/NOTE-1120.md), [THEORY-897](../theory.d/THEORY-897.md), [THEORY-910](../theory.d/THEORY-910.md)) and Zorowitz et al. ([NOTE-1136](../notes.d/NOTE-1136.md), [THEORY-915](../theory.d/THEORY-915.md)) supply the rivals named in the test. None of these studies measured authority as this claim defines it, so the claim's distinctive part is still untested. Gangemi et al., on inferring danger from one's own safety behaviour, was sought and is Unavailable ([LIT-1498](../literature.d/LIT-1498.md)).
 
 ## What it does not say
 
@@ -327,3 +342,14 @@ and the classes are [THEORY-964](../theory.d/THEORY-964.md), and for every finit
 
 It does not show that anxious avoidance has this loss structure. The
 claim is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+Its premise [CLAIM-443](CLAIM-443.md) is Proposed. No result in the record measures
+defensive authority apart from threat belief, the uncertainty estimate
+and the belief about one's own future control, so the belief-maintained
+rivals of [THEORY-910](../theory.d/THEORY-910.md) and [THEORY-915](../theory.d/THEORY-915.md) ([QUESTION-325](../questions.d/QUESTION-325.md)) and the memory
+account of [THEORY-914](../theory.d/THEORY-914.md) are not excluded, and nothing yet meets or fails
+its defeated_if. The readings promoted on 2026-10-29 hold its laboratory
+steps in healthy people ([THEORY-901](../theory.d/THEORY-901.md), [THEORY-920](../theory.d/THEORY-920.md)) and the causal work of
+safety behaviour ([THEORY-903](../theory.d/THEORY-903.md)); none measures authority.

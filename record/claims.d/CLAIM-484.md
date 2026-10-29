@@ -67,3 +67,12 @@ Nothing in the record shows a gap and conflict varying together. What
 would settle it is an episode, documented with how the actors evaluated
 the situation, where the claim, the grant and the marks of conflict are
 each recorded.
+
+## Note of 2026-10-29: what holds it back
+
+The identification needs an episode in which the precedence a motive
+claims, the authority it is granted and the marks of conflict
+(interruption, oscillation, a costly override) are each recorded, so that
+gap and conflict can be seen to vary together. The record holds none.
+[CASE-151](../cases.d/CASE-151.md) and [CASE-127](../cases.d/CASE-127.md) separate access from authority, and their notes say
+they do not show that a motive claimed precedence.

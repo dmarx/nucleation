@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmprfgwn
 title: 'Three standards for a communicative distinction come apart: statistical distinguishability of an interpreter''s response profiles, measured locally by the Fisher metric and never raised by a parameter-independent garbling; usability by a bounded receiver, which a transformation can raise; and pragmatic efficacy in the act; and where response models are singular, as Watanabe''s theory treats, a missing response can come from an absent attempt or an unresponsive receiver alike, and only intervention or later dynamics separate them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -18,6 +18,15 @@ history:
     Rests on CLAIM-220 in place of CLAIM-115, which it superseded.
     This claim needs only that survival is fixed by what receivers can
     recover, which CLAIM-220 keeps.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    No longer rests on CLAIM-220. Version 3 said this claim needs only
+    that survival is fixed by what receivers can recover; CLAIM-223,
+    on which it already rests, states that, and CLAIM-220's comparison
+    of predictors, which waits on CASE-055, is not used here. Version
+    3's rests_on read: CLAIM-199, CLAIM-223, CLAIM-220. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,7 +51,6 @@ uses:
 rests_on:
 - CLAIM-199
 - CLAIM-223
-- CLAIM-220
 complements:
 - CLAIM-336
 - CLAIM-407

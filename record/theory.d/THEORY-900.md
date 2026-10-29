@@ -1,27 +1,28 @@
 ---
 number: 900
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp4ahqw
-promote_when: >-
-  The version of record read and found to keep the verdict; and an
-  implemented model-based or latent-cause model of avoidance that
-  reproduces the phenomena the review rates A or B, including residual
-  avoidance after signalled outcome omission, compared on the same data
-  against the model-free two-factor implementations (Moutoussis et al.
-  2008; Maia 2010) and winning. It is refuted if a model-free or
-  associative model, without an inferential component, reproduces CS
-  termination being unnecessary, latent and US-based transfer and
-  spontaneous avoidance after Pavlovian learning. A further narrative
-  scoring of theories against phenomena cannot settle it.
 title: "A systematic review of 116 studies of avoidance learning in healthy humans finds the evidence contradicting two-factor and other associative theories and favouring expectancy and inference-based accounts, but also finding residual avoidance after the outcome is visibly removed, which a purely inferential account does not predict"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1134). The title claims no
+    more than the source showed and is unchanged. The promote_when moves
+    unchanged to QUESTION-328, as THEORY-285's did to QUESTION-303.
+    CLAIM-446 now lists this reading under corroborated_by, not grounds
+    (ADR-058): the claim's argument does not rest on it.
 tags:
 - learning-and-conditioning
 - cognition
 date: '2026-10-24'
 source:
 - LIT-1477
+bears_on:
+- QUESTION-328
 summary: >-
   Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-1477](../literature.d/LIT-1477.md), read in full
   in [NOTE-1134](../notes.d/NOTE-1134.md). A PRISMA review without meta-analysis, searched to
@@ -30,10 +31,10 @@ summary: >-
   rate for robustness; no model was fitted. They argue current paradigms
   are too simple to expose where inference gives way to Pavlovian
   control.
-supports:
+corroborates:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-910 — Proposed; the claim and reading this bears on, named -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and reading this bears on, named -->
 
 # THEORY-900: A systematic review of 116 studies of avoidance learning in healthy humans finds the evidence contradicting two-factor and other associative theories and favouring expectancy and inference-based accounts, but also finding residual avoidance after the outcome is visibly removed, which a purely inferential account does not predict
 

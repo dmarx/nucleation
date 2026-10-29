@@ -1,26 +1,34 @@
 ---
 number: 920
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpmfnl0
-promote_when: >-
-  The version of record read and found to report the same; and a study in
-  which avoidance of a never-punished stimulus is made available without a
-  signal that could itself indicate danger (a continuously available,
-  unsignalled response), showing that performing it, and then losing it,
-  raises threat expectancy for that stimulus, with the effect scaling with
-  how much the person avoided rather than with whether the option was
-  offered. It is refuted if, with signalling removed, offering and then
-  withdrawing avoidance leaves threat expectancy for a safe stimulus
-  unchanged. Studies that keep the signal cannot settle it.
-title: "In three laboratory studies of healthy humans, offering a costless avoidance response for a stimulus never paired with the aversive outcome led people to use it, and withdrawing the response then raised their expectancy of the outcome for that stimulus, though not their skin conductance or startle in the one study that measured them; signalling of the response is a confound"
-version: 1
+title: 'As Mancinelli and Bach''s systematic review reports it, rating it B, in three laboratory studies of healthy humans a signalled, costless avoidance response offered for a stimulus never paired with the aversive outcome was used, and withdrawing it raised expectancy of the outcome for that stimulus, though Xia et al. (2019) found no change in skin conductance or startle; every study signalled the response''s availability, which may itself have read as a danger cue'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1134). Narrowed: attributed to
+    the review; "in the one study that measured them" read more into the
+    review than it says, which reports only that Xia et al. found no
+    change. The old title: In three laboratory studies of healthy
+    humans, offering a costless avoidance response for a stimulus never
+    paired with the aversive outcome led people to use it, and
+    withdrawing the response then raised their expectancy of the outcome
+    for that stimulus, though not their skin conductance or startle in
+    the one study that measured them; signalling of the response is a
+    confound. The promote_when moves unchanged to QUESTION-327, as
+    THEORY-285's did to QUESTION-303. CLAIM-446 keeps it in grounds.
 tags:
 - learning-and-conditioning
 - psychopathology-and-treatment
 date: '2026-10-24'
 source:
 - LIT-1477
+bears_on:
+- QUESTION-327
 summary: >-
   Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-1477](../literature.d/LIT-1477.md), read in full
   in [NOTE-1134](../notes.d/NOTE-1134.md). Rated B ("AR execution can propagate to CS-", 3
@@ -31,10 +39,10 @@ summary: >-
 supports:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-901 — Proposed; the claim and companion reading this bears on, named -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and companion reading this bears on, named -->
 <!-- inactive-ok-file: LIT-1498 — Deferred; the work on danger inferred from safety behaviour, named for comparison -->
 
-# THEORY-920: In three laboratory studies of healthy humans, offering a costless avoidance response for a stimulus never paired with the aversive outcome led people to use it, and withdrawing the response then raised their expectancy of the outcome for that stimulus, though not their skin conductance or startle in the one study that measured them; signalling of the response is a confound
+# THEORY-920: As Mancinelli and Bach's systematic review reports it, rating it B, in three laboratory studies of healthy humans a signalled, costless avoidance response offered for a stimulus never paired with the aversive outcome was used, and withdrawing it raised expectancy of the outcome for that stimulus, though Xia et al. (2019) found no change in skin conductance or startle; every study signalled the response's availability, which may itself have read as a danger cue
 
 ## Source
 
@@ -70,8 +78,9 @@ was done about it.
   be understood by participants as a signal for US delivery" (p. 19), and
   every study used one. Signalling is "unusual in real-world or clinical
   avoidance settings" (p. 26).
-- **That the effect reaches fear responses.** In the one study that
-  measured skin conductance and startle, they did not change.
+- **That the effect reaches fear responses.** In Xia et al. (2019),
+  skin conductance and startle did not change; the review does not say
+  whether the other two studies measured them.
 - **Anything about anxiety disorders.** Healthy participants only.
 
 ## Connections

@@ -1,27 +1,36 @@
 ---
 number: 915
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpgos5n
-promote_when: >-
-  Data, not more simulation: in a sequential avoidance task with known
-  transition structure, people's choices are fit better by a model with a
-  pessimistic weight on their own future actions than by an optimal agent
-  with inflated threat values or altered transition beliefs, and that
-  weight relates to anxiety; or the model's own prediction confirmed, a
-  free-choice premium reduced or reversed in anxious people. It is refuted
-  if anxious avoidance in such tasks is explained as well by altered threat
-  values with an optimal policy, or if the bias appears where no future
-  avoidance is at stake. A qualitative match of new simulations to further
-  published effects cannot settle it.
-title: "In a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety"
-version: 1
+title: 'In Zorowitz, Momennejad and Daw''s simulations of a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1136). Narrowed to the paper's
+    simulations, read from text and captions; the code was not run and
+    no data were fitted. The old title: In a Markov decision process, an
+    agent that evaluates actions as if it will fail to avoid danger at
+    later steps, while in fact choosing optimally at each step, spreads
+    threat value to states far from the danger and avoids early and
+    widely, which reproduces qualitatively exaggerated threat appraisal,
+    fear generalization and several laboratory findings associated with
+    anxiety. The promote_when moves unchanged to QUESTION-325, as
+    THEORY-285's did to QUESTION-303. CLAIM-446 no longer lists this
+    reading in grounds, and its converse supports is removed (ADR-058):
+    it is a rival account that its test must exclude. The claim's body
+    still cites it.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
 date: '2026-10-24'
 source:
 - LIT-1496
+bears_on:
+- QUESTION-325
 summary: >-
   Zorowitz, Momennejad & Daw (2020; preprint 2019), [LIT-1496](../literature.d/LIT-1496.md), read in
   full from the CC BY version of record in [NOTE-1136](../notes.d/NOTE-1136.md). A
@@ -30,12 +39,10 @@ summary: >-
   future control; the danger is represented correctly. No data are fitted.
   That learned values outlast correction of the misbelief is argued in the
   paper, not simulated, and is not part of this title.
-supports:
-- CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-285 THEORY-910 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-915: In a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety
+# THEORY-915: In Zorowitz, Momennejad and Daw's simulations of a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety
 
 ## Source
 

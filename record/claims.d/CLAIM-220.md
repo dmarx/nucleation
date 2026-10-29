@@ -67,9 +67,9 @@ summary: >-
 illustrated_by:
 - CASE-055
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-082 CLAIM-074 — the thesis this supersedes, and the premises it keeps or drops, cited as they stand -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-082 — the thesis this supersedes, and the premises it keeps or drops, cited as they stand -->
 <!-- inactive-ok-file: CLAIM-202 CLAIM-242 — Proposed; the record's other replies of 2026-10-10, open, cited for the parts of the thesis they carry -->
-<!-- inactive-ok-file: CLAIM-244 — Proposed; an objection this entry answers, left open until the owner decides on the revised theses -->
+<!-- inactive-ok-file: CLAIM-244 — Proposed; an objection to CLAIM-115 this entry answers, cited as open -->
 
 # CLAIM-220: For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force
 
@@ -150,3 +150,12 @@ interlingual arm). It meets them as the restatement that superseded [CLAIM-115](
   data.
 - It does not say the result for one population carries to another. That is
   [CLAIM-074](CLAIM-074.md)'s question, and [QUESTION-075](../questions.d/QUESTION-075.md)'s.
+
+## Note of 2026-10-29: what holds it back
+
+The comparative clause is a prediction about [CASE-055](../cases.d/CASE-055.md), a study designed
+and not run: no result in the record sets human-rated stance, footing,
+alignment and uptake against propositional sameness, or proposition with
+force, as predictors of named receivers' choices of act and continuation.
+Its first clause, that survival is what the named receivers recover, is
+stated by [CLAIM-223](CLAIM-223.md), and nothing waits on this entry for it.

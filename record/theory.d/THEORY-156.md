@@ -1,16 +1,10 @@
 ---
 number: 156
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpl07kz
-promote_when: >-
-  A second, independent proof of the general (arbitrary outcome space) case
-  is read and checked, such as the treatment in Torgersen's book or Le
-  Cam's deficiency theory specialised to deficiency zero, or the 1953 proof
-  is checked together with the 1951 proofs of the two results it quotes.
-  Restatements in surveys do not count.
-title: 'For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation'
-version: 2
+title: 'For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation'
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -23,6 +17,22 @@ history:
     arbitrary-outcome case, does not bear on it. This THEORY extends it
     and keeps the general case. The promote_when and the claim are
     unchanged; the status stays Proposed.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted and narrowed by the twelfth status review (ADR-057; ADR-047's
+    ruling that a checked re-derivation meets a request for a proof). The
+    promote_when asked that "A second, independent proof of the general
+    (arbitrary outcome space) case is read and checked, such as the
+    treatment in Torgersen's book or Le Cam's deficiency theory specialised
+    to deficiency zero, or the 1953 proof is checked together with the
+    1951 proofs of the two results it quotes." The note of this date gives
+    one, checked numerically by the reviewing session. Its last step needs
+    a regular conditional distribution, so the title is narrowed to
+    standard Borel outcome spaces. The old title: 'For experiments on a
+    finite parameter set, being at least as informative for every decision
+    problem is the same as being able to simulate the other by a
+    randomisation'. Arbitrary spaces go to QUESTION-321.
 tags:
 - mathematical-statistics
 - information-theory
@@ -38,15 +48,19 @@ summary: >-
   The direction from simulation to informativeness is Blackwell (1951); the
   finite converse is Sherman and Stein (1951); the general converse is
   proved in 1953. It is a qualitative order and says nothing about how much
-  worse an incomparable experiment is.
+  worse an incomparable experiment is. The record re-derived the converse
+  for standard Borel outcome spaces (note of 2026-10-29); arbitrary spaces,
+  which the paper claims through a quoted 1951 result, are QUESTION-321.
 extends:
 - THEORY-717
 supports:
 - CLAIM-259
 - CLAIM-326
+bears_on:
+- QUESTION-321
 ---
 
-# THEORY-156: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
+# THEORY-156: For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
 ## Note of 2026-10-27: the easy direction split off
 
@@ -94,6 +108,9 @@ Corollary).
   ([LIT-778](../literature.d/LIT-778.md), not read).
 - **Not for infinitely many states**, and not for unbounded losses, as
   proved here.
+- **Not, as re-derived here, for outcome spaces that are not standard
+  Borel.** The 1953 paper claims them through Theorem 2, quoted from
+  Blackwell (1951), which the record has not read ([QUESTION-321](../questions.d/QUESTION-321.md)).
 - **Not "finitely many decision problems suffice".** The k-action
   comparisons ≻_k are weaker than ≻ in general (asserted from Stein's
   unpublished work); only for two states does k = 2 suffice.
@@ -117,3 +134,47 @@ finite, now rests on that THEORY alone. [CLAIM-237](../claims.d/CLAIM-237.md) an
 both, each with a note saying when the finite case suffices. The other ten
 use the definition or the order for unrestricted renderings, and they
 stay here.
+
+## Note of 2026-10-29: the general converse, re-derived
+
+The twelfth status review re-derived the converse for any α and a β whose
+outcome space is standard Borel, without the 1951 results the 1953 paper
+quotes. Write μ and ν for the standard measures of α and β, the laws of the
+posterior p under the uniform prior, on the simplex Δ.
+
+1. **Bayes risks give the convex order on max-affine functions.** For a
+   finite problem with losses L(a, i) and the uniform prior, the Bayes risk
+   is ∫ min_a ⟨L_a, p⟩ dμ(p). If α does at least as well as β in every such
+   problem, then ∫ φ dμ ≥ ∫ φ dν for every φ = max_j (⟨c_j, p⟩ + d_j).
+2. **A martingale coupling exists** (the content of Theorem 8). Discretize ν
+   by conditional expectation on a finite partition of Δ into cells of
+   diameter at most 1/k: ν_k = Σ_j w_j δ_{y_j}, with ν_k ≤cx ν by Jensen's
+   inequality and ν_k → ν. Then μ splits as Σ_j w_j μ_j with the barycentre
+   of μ_j equal to y_j. The splittings, densities f_j ≥ 0 summing to 1 in
+   L∞(μ), form a weak* compact convex set; their image under
+   f ↦ (∫ f_j dμ, ∫ p f_j dμ)_j is compact and convex in finite dimensions;
+   and a functional (c_j, d_j) separating the target from it would give
+   Σ_j w_j (⟨c_j, y_j⟩ + d_j) > ∫ max_j (⟨c_j, p⟩ + d_j) dμ
+   ≥ ∫ max_j (⟨c_j, p⟩ + d_j) dν_k ≥ Σ_j w_j (⟨c_j, y_j⟩ + d_j), a
+   contradiction. So there are couplings π_k of ν_k and μ with
+   ∫ g(y)(x − y) dπ_k = 0 for every continuous g. On the compact Δ × Δ a
+   subsequence converges, the condition passes to the limit, and the limit
+   π couples ν and μ with E[X | Y] = Y.
+3. **The coupling gives a garbling.** Under state i, α's posterior has law
+   n x_i μ(dx), and β's has law n y_i ν(dy). Let K be π's conditional law of
+   Y given X, and C(q, ·) the conditional law of β's outcome given its
+   posterior q, which exists as a kernel because β's outcome space is
+   standard Borel, and is the same under every state because the posterior
+   is sufficient. Then T(x, E) = ∫ K(p_α(x), dq) C(q, E) satisfies
+   ∫ T(x, E) m_i(dx) = n ∫ q_i C(q, E) ν(dq) = M_i(E), using
+   E[X_i | Y = q] = q_i.
+
+Step 3 is where standard Borel is used; arbitrary spaces are
+[QUESTION-321](../questions.d/QUESTION-321.md). The check (numpy, run by the reviewing session, on
+three-state Gaussian experiments on a 400-point grid, with β a Gaussian
+garbling of α): step 3's identities hold to 3 × 10⁻¹⁵, with T built from the
+coupling alone; step 2's splitting residual falls from 8.3 × 10⁻³ at 10³
+Frank–Wolfe iterations to 1.1 × 10⁻³ at 6.4 × 10⁴, while a pair not in
+convex order stays at 5.5 × 10⁻²; and the discretization error falls from
+0.208 at 4 cells to 0.008 at 120. The proof is the evidence; the numbers
+check its finite steps.
