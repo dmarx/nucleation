@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-116 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+117 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -17,6 +17,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+
+### From Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
+
+- [THEORY-067](../record/theory.d/THEORY-067.md) — Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one *(Proposed)*
+  - [THEORY-1117](../record/theory.d/THEORY-1117.md) — Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one *(Active)*
 
 ### From Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
 
@@ -98,6 +103,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-825](../record/theory.d/THEORY-825.md) — Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly *(Proposed)*
 
 ## behavioral-integration
+
+### From Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
+
+- [THEORY-067](../record/theory.d/THEORY-067.md) — Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one *(Proposed)*
+  - [THEORY-1117](../record/theory.d/THEORY-1117.md) — Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one *(Active)*
 
 ### From How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
 
@@ -429,6 +439,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## game-theory
 
+### From Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
+
+- [THEORY-067](../record/theory.d/THEORY-067.md) — Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one *(Proposed)*
+  - [THEORY-1117](../record/theory.d/THEORY-1117.md) — Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one *(Active)*
+
 ### From In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison
 
 - [THEORY-962](../record/theory.d/THEORY-962.md) — In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison *(Active)*
@@ -576,7 +591,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-740](../record/theory.d/THEORY-740.md) — A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data's spectrum *(Active)*
   - [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
-    - [THEORY-481](../record/theory.d/THEORY-481.md) — A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator; at finite context length the modes decouple exactly only when inputs are isotropic, and otherwise couple at order 1/N *(Proposed)*
+  - [THEORY-481](../record/theory.d/THEORY-481.md) — Under gradient flow averaged over tasks and data, a linear-attention layer trained on in-context regression learns as a two-layer linear network from an aligned start does: when tasks share the input covariance's eigenbasis and the weights start and stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to the estimator preconditioned by the inverse input covariance; at finite context length the modes decouple exactly only when inputs are isotropic and the modes start equal, and otherwise couple at order 1/N *(Active)*
 
 ### From In a deep linear network trained by gradient descent on whitened inputs from decoupled, balanced initial weights, depth slows learning through the initial end-to-end strength of each mode: counting iterations as learning time over the stable step size, from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
 
@@ -889,6 +904,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+
+### From Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
+
+- [THEORY-067](../record/theory.d/THEORY-067.md) — Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one *(Proposed)*
+  - [THEORY-1117](../record/theory.d/THEORY-1117.md) — Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one *(Active)*
 
 ### From How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
 
@@ -1237,7 +1257,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-740](../record/theory.d/THEORY-740.md) — A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data's spectrum *(Active)*
   - [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
-    - [THEORY-481](../record/theory.d/THEORY-481.md) — A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator; at finite context length the modes decouple exactly only when inputs are isotropic, and otherwise couple at order 1/N *(Proposed)*
+  - [THEORY-481](../record/theory.d/THEORY-481.md) — Under gradient flow averaged over tasks and data, a linear-attention layer trained on in-context regression learns as a two-layer linear network from an aligned start does: when tasks share the input covariance's eigenbasis and the weights start and stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to the estimator preconditioned by the inverse input covariance; at finite context length the modes decouple exactly only when inputs are isotropic and the modes start equal, and otherwise couple at order 1/N *(Active)*
 
 ### From On Monte Carlo samples of the 2D Ising model and of the 2D dimer model with added noise spins, a block coarse-graining trained to maximize mutual information with the system beyond a buffer recovered the variables renormalization already uses (Kadanoff block spins; the dimers' low-momentum electric fields, with no weight on the noise), and iterated on 128 × 128 Ising samples gave the flow away from the critical point, locating it to about 1% and giving ν ≈ 1.0 ± 0.15, while a restricted Boltzmann machine trained by contrastive divergence on the noisy dimer data coupled to the noise and to columnar patterns instead
 

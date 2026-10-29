@@ -219,7 +219,7 @@ cites this reading as corroboration, not as a ground.
 ## Note of 2026-10-29: the proposal split off
 
 What the précis proposes, as distinct from whether it is true, is now
-[THEORY-tmpuy1kb](THEORY-tmpuy1kb.md), Active, so that [CLAIM-159](../claims.d/CLAIM-159.md), which places this account in the
+[THEORY-1117](THEORY-1117.md), Active, so that [CLAIM-159](../claims.d/CLAIM-159.md), which places this account in the
 aggregate or emergent cell by what it proposes, can stand on the proposal
 alone. [CLAIM-169](../claims.d/CLAIM-169.md) and [CLAIM-198](../claims.d/CLAIM-198.md) stay grounded here: [CLAIM-169](../claims.d/CLAIM-169.md)'s defeat
 condition is this account's first refutation clause, and [CLAIM-198](../claims.d/CLAIM-198.md) asserts

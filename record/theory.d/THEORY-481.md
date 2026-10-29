@@ -48,7 +48,7 @@ history:
     only when inputs are isotropic, and otherwise couple at order 1/N.
     The promote_when asked for alignment from misaligned starts, which
     the title assumes and never claimed; it moves unchanged to
-    QUESTION-tmpuk5nc, as THEORY-285's moved to QUESTION-tmpxd26n.
+    QUESTION-305, as THEORY-285's moved to QUESTION-303.
 tags:
 - learning-theory
 - representation-learning
@@ -74,9 +74,9 @@ summary: >-
   the transfer to non-linear transformers is timing coincidences.
 bears_on:
 - QUESTION-039
-- QUESTION-tmpuk5nc
+- QUESTION-305
 ---
-<!-- inactive-ok-file: THEORY-186 — Proposed; the two-layer random-start claim, the analogue of QUESTION-tmpuk5nc, cited not leaned on -->
+<!-- inactive-ok-file: THEORY-186 — Proposed; the two-layer random-start claim, the analogue of QUESTION-305, cited not leaned on -->
 <!-- inactive-ok-file: CLAIM-118 THEORY-212 — Proposed; the claim that grounds on this paper and neighbouring accounts, named in Connections, not leaned on -->
 
 # THEORY-481: Under gradient flow averaged over tasks and data, a linear-attention layer trained on in-context regression learns as a two-layer linear network from an aligned start does: when tasks share the input covariance's eigenbasis and the weights start and stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to the estimator preconditioned by the inverse input covariance; at finite context length the modes decouple exactly only when inputs are isotropic and the modes start equal, and otherwise couple at order 1/N
@@ -185,7 +185,7 @@ the aligned weights the derivation assumes.
 
 - **Extends [THEORY-740](THEORY-740.md).** Whether random starts reach that solution is
   [THEORY-186](THEORY-186.md)'s open claim, and the same question for attention is
-  [QUESTION-tmpuk5nc](../questions.d/QUESTION-tmpuk5nc.md). Saxe et al.'s two-layer linear network learns the
+  [QUESTION-305](../questions.d/QUESTION-305.md). Saxe et al.'s two-layer linear network learns the
   singular modes of its input–output correlations one at a time, in order
   of strength, because the map is a product of layers. Here the product is
   of the two attention factors, and the order is set by the input

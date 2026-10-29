@@ -18,7 +18,7 @@ history:
   date: '2026-10-29'
   note: >-
     Ninth status review (ADR-057, ADR-058). THEORY-067 replaced in
-    grounds by THEORY-tmpuy1kb, the held reading of what Ainslie's
+    grounds by THEORY-1117, the held reading of what Ainslie's
     précis proposes: the claim places the account by what it proposes,
     interests with no governor above them, as it places the expected
     value of control by THEORY-1110, which the body now names too.
@@ -48,7 +48,7 @@ uses:
 - TERM-048
 grounds:
 - THEORY-1110
-- THEORY-tmpuy1kb
+- THEORY-1117
 complements:
 - CLAIM-027
 summary: >-
@@ -77,7 +77,7 @@ bears_on:
 Read through [TERM-051](../terms.d/TERM-051.md), with the person as parts (interests or
 regimes) and a higher level (resolve, control, the will):
 
-- **[THEORY-tmpuy1kb](../theory.d/THEORY-tmpuy1kb.md) (Ainslie).** "Interests ... are not options chosen by an
+- **[THEORY-1117](../theory.d/THEORY-1117.md) (Ainslie).** "Interests ... are not options chosen by an
   overarching ego", and the person is "just the resultant". That is the
   aggregate kind. If resolve, the recursive staking of future choices, is
   a property only the bargaining process has, it is the emergent kind,

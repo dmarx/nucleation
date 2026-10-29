@@ -1,5 +1,8 @@
 ---
+number: 304
 status: Answered
+formerly:
+- QUESTION-tmpihv9y
 title: 'Does acting as one require that an agent''s interests synchronize?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ summary: >-
   stays [QUESTION-078](QUESTION-078.md)'s.
 ---
 
-# QUESTION-tmpihv9y: Does acting as one require that an agent's interests synchronize?
+# QUESTION-304: Does acting as one require that an agent's interests synchronize?
 
 ## Why it was a question
 

@@ -1,5 +1,8 @@
 ---
+number: 1117
 status: Active
+formerly:
+- THEORY-tmpuy1kb
 title: 'Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one'
 version: 1
 tags:
@@ -23,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 
-# THEORY-tmpuy1kb: Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one
+# THEORY-1117: Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one
 
 ## Source
 

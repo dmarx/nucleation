@@ -22,7 +22,7 @@ history:
     filed; neither defeater is met (CLAIM-358 and TERM-061 compare
     accommodation with escalation, not with synchronization). The part
     of QUESTION-078 it settles is split off under ADR-049 as
-    QUESTION-tmpihv9y, which it answers; it bears on QUESTION-078. The
+    QUESTION-304, which it answers; it bears on QUESTION-078. The
     claim is unchanged.
 role: thesis
 warrant: interpretive
@@ -50,7 +50,7 @@ complements:
 uses:
 - TERM-050
 answers:
-- QUESTION-tmpihv9y
+- QUESTION-304
 bears_on:
 - QUESTION-078
 summary: >-

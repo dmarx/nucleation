@@ -10,7 +10,7 @@ history:
   date: '2026-10-29'
   note: >-
     Narrowed under ADR-049 at the ninth status review. Whether acting
-    as one requires synchronization is QUESTION-tmpihv9y, Answered by
+    as one requires synchronization is QUESTION-304, Answered by
     CLAIM-261. This question keeps the differentiated-coordination
     side and its test. Old title: If an agent is a population of
     interests, does acting as one require that the interests
