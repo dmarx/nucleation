@@ -89,11 +89,11 @@ client could not fetch (see the status note).
 ## Why this is here
 
 The owner asked on 2026-10-29 to "find those new candidate readings". The
-reading of Lemmer and Wagner's meta-analysis (LIT-tmpn3fwx, NOTE-tmpgbgvt)
+reading of Lemmer and Wagner's meta-analysis ([LIT-tmpn3fwx](LIT-tmpn3fwx.md), [NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md))
 named this work, and the curation entry of 22:38 listed it as possibly
-the nearest within-study test of CLAIM-430's second defeater, that
+the nearest within-study test of [CLAIM-430](../claims.d/CLAIM-430.md)'s second defeater, that
 information of equal favourable content, received without taking part,
-changes as much as taking part; QUESTION-262's first contrast is the
+changes as much as taking part; [QUESTION-262](../questions.d/QUESTION-262.md)'s first contrast is the
 same.
 
 From the abstract and the indexed method text, it is not that test. The
