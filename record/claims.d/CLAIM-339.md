@@ -65,7 +65,7 @@ account says the same of norms. Self-production gives a system only the
 norm "to go on or to die", and that distinction is available to an
 observer, not to the system. A graded norm the system itself has needs
 adaptivity, "to detect tendencies toward the boundary of its viability and
-to act so as to reverse them" (THEORY-tmpyxw6o). Ashby's ultrastability
+to act so as to reverse them" ([THEORY-tmpyxw6o](../theory.d/THEORY-tmpyxw6o.md)). Ashby's ultrastability
 needs a channel from the essential variables, which are coupled to the
 world ([THEORY-324](../theory.d/THEORY-324.md)).
 
@@ -101,7 +101,7 @@ weakness becomes the strength". Its anchor is not action but existence:
 needed there by stipulation, since "the only way that the agent can change
 hidden states is through action".
 
-What survives is narrower again. The enactive account (THEORY-tmpyxw6o)
+What survives is narrower again. The enactive account ([THEORY-tmpyxw6o](../theory.d/THEORY-tmpyxw6o.md))
 and Ashby's ultrastability ([THEORY-324](../theory.d/THEORY-324.md)) make action, or a channel through
 the essential variables, what grounds a system's norms. The free-energy
 formulation does not supply this counter's premise. On its own terms,

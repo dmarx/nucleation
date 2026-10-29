@@ -12,13 +12,13 @@ source:
 extends:
 - THEORY-219
 summary: >-
-  What the paper proposes, split from THEORY-219 by the twelfth status
-  review on THEORY-1110's pattern, so that a claim needing only the
-  proposal can stand on it. The paper was read in full (NOTE-723), so the
+  What the paper proposes, split from [THEORY-219](THEORY-219.md) by the twelfth status
+  review on [THEORY-1110](THEORY-1110.md)'s pattern, so that a claim needing only the
+  proposal can stand on it. The paper was read in full ([NOTE-723](../notes.d/NOTE-723.md)), so the
   reading of what it proposes is held. Whether the condition is right,
   which turns on a line between settling a frame and selecting under an
   antecedent rule that the paper does not draw precisely, and on a
-  positive case it does not give, stays THEORY-219's question, Proposed.
+  positive case it does not give, stays [THEORY-219](THEORY-219.md)'s question, Proposed.
 ---
 <!-- inactive-ok-file: THEORY-219 THEORY-071 — Proposed; the account this is split from, which holds the question whether the proposal is true, and a neighbouring account it is set apart from -->
 
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Kahl (2026), LIT-1033, read in full in NOTE-723: §3 (the presupposition
+Kahl (2026), [LIT-1033](../literature.d/LIT-1033.md), read in full in [NOTE-723](../notes.d/NOTE-723.md): §3 (the presupposition
 argument), §4 (continuity pressure), §5 (the test and its cases, with the
 group-agency reply in §5.3 and the borderline cases in §5.5).
 
@@ -59,7 +59,7 @@ authorship", and institutional systems because their standards are
 "authored elsewhere". Planning, autonomy, memory and coordination measure
 "what a system can do", not "what is at stake for the system in doing it".
 
-These are the distinction CLAIM-485 carries over to the self-governing
+These are the distinction [CLAIM-485](../claims.d/CLAIM-485.md) carries over to the self-governing
 sense.
 
 ## What this does not say
@@ -67,7 +67,7 @@ sense.
 It does not say the proposal is true. The paper argues from cases, gives
 no positive case, and does not make "settled under breakdown" precise:
 every revision has some prior structure, and how much antecedent ranking
-disqualifies one is not said. That test is THEORY-219's `promote_when`,
-and THEORY-219 stays Proposed until the record holds it. It is a necessary
+disqualifies one is not said. That test is [THEORY-219](THEORY-219.md)'s `promote_when`,
+and [THEORY-219](THEORY-219.md) stays Proposed until the record holds it. It is a necessary
 condition, not a theory of agency, and it is not minimal agency in
-THEORY-071's sense.
+[THEORY-071](THEORY-071.md)'s sense.

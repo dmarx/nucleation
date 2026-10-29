@@ -149,13 +149,13 @@ then be made explicit.
   self-production goes on. It gives no criterion for an authority
   structure, so it answers in part.
 - [CLAIM-288](../claims.d/CLAIM-288.md) grounds its demand that norms be set by the organisation itself
-  partly in this paper's argument, and CLAIM-339 cites it as the enactive
-  account of norms. Both cite it as stated, through THEORY-tmpyxw6o.
+  partly in this paper's argument, and [CLAIM-339](../claims.d/CLAIM-339.md) cites it as the enactive
+  account of norms. Both cite it as stated, through [THEORY-tmpyxw6o](THEORY-tmpyxw6o.md).
 
 ## Note of 2026-10-29: what holds it back
 
 No worked case sets a merely self-producing system beside an adaptive one
 with the viability set and state space stated formally. The paper argues
 from the bacterium and the cliff, which the promote_when rules out, and
-its rival THEORY-666, that self-production suffices for sense-making, is
+its rival [THEORY-666](THEORY-666.md), that self-production suffices for sense-making, is
 open.

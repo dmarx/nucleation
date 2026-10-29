@@ -8,10 +8,10 @@ tags:
 date: '2026-10-29'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-214, moved here when the
-  twelfth status review narrowed THEORY-214 to what Falmagne, Stephenson
-  and Levin measured on r/place and promoted it, as THEORY-216's moved to
-  QUESTION-169. Both of their test sets are r/place, and the social
+  The promotion condition formerly on [THEORY-214](../theory.d/THEORY-214.md), moved here when the
+  twelfth status review narrowed [THEORY-214](../theory.d/THEORY-214.md) to what Falmagne, Stephenson
+  and Levin measured on r/place and promoted it, as [THEORY-216](../theory.d/THEORY-216.md)'s moved to
+  [QUESTION-169](QUESTION-169.md). Both of their test sets are r/place, and the social
   readings of the precursors are the authors' conjecture from SHAP curves.
 ---
 
@@ -19,7 +19,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-214 shows, on the 2022 canvas and again on 2023, that the abrupt
+[THEORY-214](../theory.d/THEORY-214.md) shows, on the 2022 canvas and again on 2023, that the abrupt
 overthrow of a crowd-built image is predicted by many image-level series
 together far better than by any generic slowing-down indicator, that low
 past restoring of attacked pixels is among them, and that about a quarter
@@ -29,11 +29,11 @@ test sets are r/place. And the reading of the precursors as the defending
 community's conduct (accepted change, coordination, recruitment) is the
 authors' conjecture from SHAP curves, since no plan, template or forum was
 examined. Whether lasting images persist mainly by repair or by neglect is
-QUESTION-169's question, not this one.
+[QUESTION-169](QUESTION-169.md)'s question, not this one.
 
 ## What would answer it
 
-The condition THEORY-214 carried until 2026-10-29, unchanged. The account
+The condition [THEORY-214](../theory.d/THEORY-214.md) carried until 2026-10-29, unchanged. The account
 is promoted by a study of collectively maintained patterns in a second
 system, not r/place, with its own record of attacks and repairs, in which
 (a) a predictor using several pattern-specific time series again beats

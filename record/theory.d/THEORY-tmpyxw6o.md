@@ -12,13 +12,13 @@ source:
 extends:
 - THEORY-628
 summary: >-
-  What the paper argues, split from THEORY-628 by the twelfth status review
-  on THEORY-1110's pattern, so that claims needing only the argument can
-  stand on it. The paper was read in full (NOTE-719), so the reading of
+  What the paper argues, split from [THEORY-628](THEORY-628.md) by the twelfth status review
+  on [THEORY-1110](THEORY-1110.md)'s pattern, so that claims needing only the argument can
+  stand on it. The paper was read in full ([NOTE-719](../notes.d/NOTE-719.md)), so the reading of
   what it argues is held. Whether the argument is right stays
-  THEORY-628's question, Proposed. It turns on three things: a reading of
+  [THEORY-628](THEORY-628.md)'s question, Proposed. It turns on three things: a reading of
   autopoietic theory that Di Paolo grants later formulations may not
-  share (note 1), cases chosen to illustrate it, and its rival THEORY-666.
+  share (note 1), cases chosen to illustrate it, and its rival [THEORY-666](THEORY-666.md).
 ---
 <!-- inactive-ok-file: THEORY-628 THEORY-666 — Proposed; the account this is split from, which holds the question whether the argument is right, and its rival -->
 
@@ -27,8 +27,8 @@ summary: >-
 ## Source
 
 Ezequiel A. Di Paolo (2005), "Autopoiesis, Adaptivity, Teleology, Agency",
-*Phenomenology and the Cognitive Sciences* 4(4), 429–452, LIT-1017, read
-in full in NOTE-719.
+*Phenomenology and the Cognitive Sciences* 4(4), 429–452, [LIT-1017](../literature.d/LIT-1017.md), read
+in full in [NOTE-719](../notes.d/NOTE-719.md).
 
 ## The argument
 
@@ -61,15 +61,15 @@ Norms are then norms for the system, which it can use.
 actively regulating its exchanges with it for adaptive purposes that are
 meant to serve its continued viability". Agency comes in degrees.
 
-This is the norm-for-the-system CLAIM-288 cites and the enactive account
-of norms CLAIM-339 sets beside the free-energy principle.
+This is the norm-for-the-system [CLAIM-288](../claims.d/CLAIM-288.md) cites and the enactive account
+of norms [CLAIM-339](../claims.d/CLAIM-339.md) sets beside the free-energy principle.
 
 ## What this does not say
 
 It does not say the argument is right. Di Paolo argues from the bacterium
 and the cliff, chosen to illustrate it, and grants (note 1) that later
 formulations of autopoiesis may contain adaptivity. Weber and Varela
-(THEORY-666) hold that self-production suffices for sense-making. A worked
+([THEORY-666](THEORY-666.md)) hold that self-production suffices for sense-making. A worked
 case with the viability set and state space stated formally is
-THEORY-628's `promote_when`, and THEORY-628 stays Proposed until the
+[THEORY-628](THEORY-628.md)'s `promote_when`, and [THEORY-628](THEORY-628.md) stays Proposed until the
 record holds it.
