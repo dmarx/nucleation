@@ -135,9 +135,9 @@ without changing the concern behind it.
 
 ## Note of 2026-10-29: what holds it back
 
-It rests on CLAIM-437, Proposed, and grounds its two levels in
-THEORY-062's arbitration of model-based and model-free control and in
-incentive sensitization (THEORY-895), both Proposed. No reading the record
+It rests on [CLAIM-437](CLAIM-437.md), Proposed, and grounds its two levels in
+[THEORY-062](../theory.d/THEORY-062.md)'s arbitration of model-based and model-free control and in
+incentive sensitization ([THEORY-895](../theory.d/THEORY-895.md)), both Proposed. No reading the record
 holds dissociates cue-triggered from model-based wanting by a manipulation
 that leaves desirability and cue associations fixed, which its first two
 defeaters turn on.

@@ -208,6 +208,6 @@ among processes. The two complement each other, and both answer
 
 ## Note of 2026-10-29: what holds it back
 
-The record's answer to QUESTION-092 is offered, not held. CLAIM-485, which
+The record's answer to [QUESTION-092](../questions.d/QUESTION-092.md) is offered, not held. [CLAIM-485](CLAIM-485.md), which
 says what this claim's endogeneity contributes, is Proposed on a Proposed
-reading (THEORY-219), and this claim's narrowing adopts its distinction.
+reading ([THEORY-219](../theory.d/THEORY-219.md)), and this claim's narrowing adopts its distinction.

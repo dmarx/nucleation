@@ -118,9 +118,9 @@ assigns it.
   applied across a stated distribution of situations.
 - For single renderings, a different measure, stated as such.
 
-## Note of 2026-10-29: not an objection to CLAIM-126
+## Note of 2026-10-29: not an objection to [CLAIM-126](CLAIM-126.md)
 
-The eleventh status review (ADR-057) removed `objects_to: CLAIM-126`. The
+The eleventh status review ([ADR-057](../decisions.d/ADR-057.md)) removed `objects_to: CLAIM-126`. The
 paragraph "The record has met the measurement gap once" cites it for the limit it already states, and says that for
 stitching the label comes with the data set, so nothing here contests what
 it says.

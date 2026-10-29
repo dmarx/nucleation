@@ -8,17 +8,17 @@ tags:
 date: '2026-10-29'
 line: learned-structure
 summary: >-
-  The promotion condition formerly on THEORY-113, moved here when the
+  The promotion condition formerly on [THEORY-113](../theory.d/THEORY-113.md), moved here when the
   eleventh status review narrowed it to what Stoica et al. measured, with
-  their explanation given as theirs, and promoted it, as THEORY-114's
-  moved to QUESTION-312.
+  their explanation given as theirs, and promoted it, as [THEORY-114](../theory.d/THEORY-114.md)'s
+  moved to [QUESTION-312](QUESTION-312.md).
 ---
 
 # QUESTION-tmp32xm6: Is it the difference in task, and not depth and initialisation alone, that leaves features with no counterpart in the other model and makes merging fail: at matched width, do models trained from different initialisations on disjoint tasks lose cross-model feature correlation faster with depth than models trained on the same task, with merging failing at that depth?
 
 ## Why it is a question
 
-THEORY-113 holds that cross-model feature correlation fell with depth
+[THEORY-113](../theory.d/THEORY-113.md) holds that cross-model feature correlation fell with depth
 between ResNets trained on disjoint halves of a label set, and that
 merging only the early layers recovered most of the ensemble. Stoica et
 al. attribute the failure of full merging to features with no counterpart
@@ -28,7 +28,7 @@ task difference adds anything to depth is not shown.
 
 ## What would answer it
 
-THEORY-113's former promote_when, unchanged:
+[THEORY-113](../theory.d/THEORY-113.md)'s former promote_when, unchanged:
 
 A control the source does not run. Measure cross-model feature
 correlation layer by layer, and the accuracy of merging at each depth,

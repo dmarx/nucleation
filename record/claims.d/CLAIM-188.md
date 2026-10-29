@@ -110,7 +110,7 @@ from the threshold:
   off. There the parameters attached to it are not identified, because any
   value of them gives the same distribution once the coupling's strength is
   zero. When the reduced model is the truth, this is the case at the true
-  parameter. CASE-152's product model is such a family, and the note of
+  parameter. [CASE-152](../cases.d/CASE-152.md)'s product model is such a family, and the note of
   2026-10-29 checks the rule on it.
 
 The direction of the error follows from [THEORY-087](../theory.d/THEORY-087.md).
@@ -131,14 +131,14 @@ ratio" inherits that assumption.
 - It does not say the error always runs one way. λ < d/2 is the case
   [THEORY-087](../theory.d/THEORY-087.md) names. Other singular structures need their own λ.
 - It does not prove Watanabe's Theorem 2 in general. It rests on
-  THEORY-087, which holds the theorem as cited and checks its prediction
+  [THEORY-087](../theory.d/THEORY-087.md), which holds the theorem as cited and checks its prediction
   exactly in singular models of known λ, and on the threshold computation
   in the note of 2026-10-29, which covers one family. That a candidate
   the rule keeps is kept by the Bayes factor too is shown there, not in
   general.
 - d is the dimension of the model with the candidate, in the
   parametrization the prior is placed on. Singularity belongs to model
-  and prior together. The uniform prior on CASE-152's a and b induces on
+  and prior together. The uniform prior on [CASE-152](../cases.d/CASE-152.md)'s a and b induces on
   c = ab a density that diverges at zero; a Gaussian prior placed on c
   itself makes the model regular and the rule exact.
 - [CLAIM-154](CLAIM-154.md) is dual-filed from the mathematics-of-meaning record
@@ -168,7 +168,7 @@ that are random under that prior.
 
 ## Note of 2026-10-29: the check on a concrete family
 
-CASE-152's model, Y ~ N(ab, 1), with a uniform prior on [−1, 1]², against
+[CASE-152](../cases.d/CASE-152.md)'s model, Y ~ N(ab, 1), with a uniform prior on [−1, 1]², against
 a = 0, the model with no parameters. The data enter through
 ĉ ~ N(ab, 1/n). With z = √n ĉ, the exact keep threshold z*², found by
 quadrature, tracks log n − 2 log log n + 1.2. The regular two-parameter

@@ -194,10 +194,10 @@ claim is unchanged.
 
 ## Note of 2026-10-29: what holds it back
 
-It rests on CLAIM-440, which is held by CLAIM-441's unanswered flow case
-and by clause 3's open sign (CLAIM-468). Its grounds THEORY-893 and
-THEORY-895 hold the dissociation and sensitization, which its overlap
+It rests on [CLAIM-440](CLAIM-440.md), which is held by [CLAIM-441](CLAIM-441.md)'s unanswered flow case
+and by clause 3's open sign ([CLAIM-468](CLAIM-468.md)). Its grounds [THEORY-893](../theory.d/THEORY-893.md) and
+[THEORY-895](../theory.d/THEORY-895.md) hold the dissociation and sensitization, which its overlap
 clause and its reading of the relapsing addict use as facts, only through
 their authors' reviews. Its second defeater, pursuit and consummation
 individuated apart from the dissociations they explain, is unanswered:
-TERM-072 takes perspectives as given.
+[TERM-072](../terms.d/TERM-072.md) takes perspectives as given.

@@ -64,9 +64,9 @@ constraints.
 ## Note of 2026-10-29: what holds it back
 
 No chain the record holds has per-generation judgements of communicative
-configuration. CASE-032, the one chain with a shift of act, has three
+configuration. [CASE-032](../cases.d/CASE-032.md), the one chain with a shift of act, has three
 generations written in one context, and its per-generation numbers are not
 in the transcript. So whether the change comes at a marked generation, which
 is what makes it a phase change and what the defeat condition tests, has no
-observation either way. CLAIM-056 gives only that surface error can stay
+observation either way. [CLAIM-056](CLAIM-056.md) gives only that surface error can stay
 small while the act changes.

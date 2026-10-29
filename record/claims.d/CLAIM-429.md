@@ -94,7 +94,7 @@ scoring independently of the interpretation (γ ≈ 0) removes the
 instability. In that linearization a change of state alone dies away while
 βγ < (1 − α)(1 − δ), and there only a change of coupling lasts. Above the
 threshold, a change of state along the growing direction is amplified with
-the coupling unchanged. CLAIM-330 holds nothing about the bounded system's
+the coupling unchanged. [CLAIM-330](CLAIM-330.md) holds nothing about the bounded system's
 attractors, where a large enough change of state could carry the loop to
 another one. So the claim does not say a durable change must act on the
 coupling. Whether the durable changes after contact needed one is what the

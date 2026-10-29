@@ -8,16 +8,16 @@ tags:
 date: '2026-10-29'
 line: learned-structure
 summary: >-
-  The promotion condition formerly on THEORY-111, moved here when the
+  The promotion condition formerly on [THEORY-111](../theory.d/THEORY-111.md), moved here when the
   eleventh status review narrowed it to the pairs of image classifiers its
-  source measured and promoted it, as THEORY-114's moved to QUESTION-312.
+  source measured and promoted it, as [THEORY-114](../theory.d/THEORY-114.md)'s moved to [QUESTION-312](QUESTION-312.md).
 ---
 
 # QUESTION-tmpxygjx: Does layerwise linear feature connectivity hold outside image classification, in transformers and language models connected by spawning, shared pretraining or alignment, and does it carry from pairs to the many-model averages practice uses, model soups and SWA?
 
 ## Why it is a question
 
-THEORY-111 holds that, between two linearly connected image classifiers,
+[THEORY-111](../theory.d/THEORY-111.md) holds that, between two linearly connected image classifiers,
 nearly every layer's features at three points on the line were
 proportional to the interpolation of the endpoints' features. Every
 measurement is of a pair of endpoints, in image classification. Whether
@@ -26,7 +26,7 @@ models' weights averages their features, is not shown.
 
 ## What would answer it
 
-THEORY-111's former promote_when, unchanged:
+[THEORY-111](../theory.d/THEORY-111.md)'s former promote_when, unchanged:
 
 Two kinds of result, one for each half. For the layerwise claim, the
 same measurement outside image classification: transformers and

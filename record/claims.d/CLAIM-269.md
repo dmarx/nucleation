@@ -85,8 +85,8 @@ known exactly:
   in. CKA, CCA and GULP are averages of readout agreement.
 - **Kernels fix representations only up to symmetry.** A centred kernel
   fixes a representation up to a translation and an orthogonal map
-  (THEORY-004), and a softmax model's output distribution fixes its final
-  layer only up to an invertible linear map (THEORY-723).
+  ([THEORY-004](../theory.d/THEORY-004.md)), and a softmax model's output distribution fixes its final
+  layer only up to an invertible linear map ([THEORY-723](../theory.d/THEORY-723.md)).
 - **Anything further is stipulated.** Softmax training identifies a final
   layer only up to an invertible linear map, so no inner product on it is
   intrinsic ([THEORY-018](../theory.d/THEORY-018.md)).
@@ -121,5 +121,5 @@ identify the symmetry of the observed data ([THEORY-019](../theory.d/THEORY-019.
 
 ## Note of 2026-10-29: what holds it back
 
-The fourth bullet rests on THEORY-019, whose Schur corollary over the
+The fourth bullet rests on [THEORY-019](../theory.d/THEORY-019.md), whose Schur corollary over the
 reals no held source states and proves.

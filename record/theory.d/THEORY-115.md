@@ -175,7 +175,7 @@ ridge (Fig. 2, Fig. 9; CIFAR-100, 10 seeds).
 No held source measures the barrier above the endpoints' mean while shared
 structure is varied, with a same-objective control. Mirzadeh et al.'s
 breaking cases plot raw loss, which the continual endpoint's forgetting
-largely explains. FedAvg models of one objective from one start (LIT-666)
+largely explains. FedAvg models of one objective from one start ([LIT-666](../literature.d/LIT-666.md))
 show a barrier that grows with heterogeneity, so it is not shown that
 losing shared structure, rather than how the objective is optimised, is
 what breaks the connection.

@@ -386,11 +386,11 @@ stays open for both signs, as it says. The claim is unchanged.
 
 ## Note of 2026-10-29: filed with its concessions
 
-CLAIM-438 was conceded on 2026-10-23 at the owner's direction, and this
-claim already carries it: its title and TERM-076 read "goal-conduciveness
+[CLAIM-438](CLAIM-438.md) was conceded on 2026-10-23 at the owner's direction, and this
+claim already carries it: its title and [TERM-076](../terms.d/TERM-076.md) read "goal-conduciveness
 valence" where they read "hedonic", and "The objection it faces, and the
 reply" says the objection was conceded and the revision made, with
-CLAIM-433 as the reply. The claim is unchanged.
+[CLAIM-433](CLAIM-433.md) as the reply. The claim is unchanged.
 
 ## Note of 2026-10-29: what holds it back
 

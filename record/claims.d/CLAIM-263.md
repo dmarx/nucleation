@@ -118,7 +118,7 @@ permutation alignment.
   line's open question, and this claim is a way of testing for it.
 - It does not say a symmetry group is always known. For an architecture
   it is derived; elsewhere it must be chosen.
-- It rests on two Proposed readings, THEORY-115 and THEORY-116. Hence
+- It rests on two Proposed readings, [THEORY-115](../theory.d/THEORY-115.md) and [THEORY-116](../theory.d/THEORY-116.md). Hence
   Proposed.
 
 ## Note of 2026-10-27: universality, the hypothesis its test would probe

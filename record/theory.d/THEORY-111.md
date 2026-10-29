@@ -130,7 +130,7 @@ the claim implies.
   and SWA ([ANTH-LIT-673](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-673.md)) averages iterates along one trajectory. Neither
   is measured. Extending the claim to them needs the conditions to hold
   jointly for every member, which nothing here tests. That is
-  QUESTION-tmpxygjx.
+  [QUESTION-tmpxygjx](../questions.d/QUESTION-tmpxygjx.md).
 - **It does not say why connected pairs satisfy the conditions.** The
   account describes pairs already found to be connected. Why spawning or
   matching produces shared activation patterns is left open.

@@ -148,7 +148,7 @@ answered half reaches translation. The simulations, and Propositions 1 and 2 as 
 cases, are about kernels between empirical models, which map readers'
 judgements to readers' judgements. A translation is a channel on texts,
 T(v | u). For one source–target pair, a constant kernel meets their
-hypotheses at zero distortion (CLAIM-207). They bear on translation only
+hypotheses at zero distortion ([CLAIM-207](CLAIM-207.md)). They bear on translation only
 once one kernel family is fixed across utterances and derived from the text
 channel. No work read here does that, and it is not one of this claim's two
 parts.
@@ -249,10 +249,10 @@ independent proof of the corrected Theorem 44 and stays Proposed.
 
 ## Note of 2026-10-29: promoted
 
-The eleventh status review (ADR-057) promoted this claim on the owner's
-assent. Its premises CLAIM-121 and CLAIM-070 are Active, and so are its
-grounds. Its three objections are written in: CLAIM-237 and CLAIM-245 by
-version 2's restatement, and CLAIM-207 by version 3's scope sentence, which
+The eleventh status review ([ADR-057](../decisions.d/ADR-057.md)) promoted this claim on the owner's
+assent. Its premises [CLAIM-121](CLAIM-121.md) and [CLAIM-070](CLAIM-070.md) are Active, and so are its
+grounds. Its three objections are written in: [CLAIM-237](CLAIM-237.md) and [CLAIM-245](CLAIM-245.md) by
+version 2's restatement, and [CLAIM-207](CLAIM-207.md) by version 3's scope sentence, which
 says the answered half is about kernels between empirical models and not
 yet about translation. What the claim holds is that the literature read
 here leaves its two parts open, and nothing in the record settles either.

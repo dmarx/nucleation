@@ -9,10 +9,10 @@ tags:
 date: '2026-10-29'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-146, moved here when the
-  eleventh status review narrowed THEORY-146 to what Holman and Bruner's
-  model and figures show and promoted it, as THEORY-285's moved to
-  QUESTION-303. The model shows the mechanism can work; whether real
+  The promotion condition formerly on [THEORY-146](../theory.d/THEORY-146.md), moved here when the
+  eleventh status review narrowed [THEORY-146](../theory.d/THEORY-146.md) to what Holman and Bruner's
+  model and figures show and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to
+  [QUESTION-303](QUESTION-303.md). The model shows the mechanism can work; whether real
   fields work this way is this question.
 ---
 
@@ -20,7 +20,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-146 holds what Holman and Bruner's bandit model shows: honest
+[THEORY-146](../theory.d/THEORY-146.md) holds what Holman and Bruner's bandit model shows: honest
 Bayesian researchers who differ in method, whose influence and training of
 newcomers follow productivity, drift toward a worse treatment when
 industry funds those whose methods already favour it, though funding
@@ -28,7 +28,7 @@ changes no one's beliefs. The paper's evidence beyond the model is one
 historical case, the antiarrhythmic drug disaster, read from a secondary
 history. Whether real research fields reach industry-favourable consensus
 by this route, or mainly by funded researchers changing their methods or
-results, is open. It is one candidate answer to QUESTION-047's question of
+results, is open. It is one candidate answer to [QUESTION-047](QUESTION-047.md)'s question of
 which community-level mechanisms set what a community of sound inquirers
 comes to believe.
 

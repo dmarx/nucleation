@@ -219,8 +219,8 @@ run.
 
 ## Note of 2026-10-29: what holds it back
 
-It rests on CLAIM-038, which is Proposed. Its defeat condition counts
+It rests on [CLAIM-038](CLAIM-038.md), which is Proposed. Its defeat condition counts
 changes beyond sampling error, which needs a signalling estimator with bias
-correction and a stated sampling error, and CLAIM-235 finds none in the
-line. CASE-053 documents that no adequately powered CbD test on pragmatic
+correction and a stated sampling error, and [CLAIM-235](CLAIM-235.md) finds none in the
+line. [CASE-053](../cases.d/CASE-053.md) documents that no adequately powered CbD test on pragmatic
 judgements has been run.

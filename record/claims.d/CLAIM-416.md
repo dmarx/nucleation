@@ -130,7 +130,7 @@ themselves.
   evidence … We should not infer the second from the first."
 - **Not that the historical particulars are settled.** The 1931 rules
   dispute and the later matches rest on one secondary source, Penglase
-  (LIT-1391, read in full in NOTE-1092, which rates the rules episode
+  ([LIT-1391](../literature.d/LIT-1391.md), read in full in [NOTE-1092](../notes.d/NOTE-1092.md), which rates the rules episode
   "moderate: one well-documented episode (1931) and a general 'often'"),
   and on the replies' summaries. The sport studies A36 cited on judo and
   taekwondo rule changes were not identified and are not filed.

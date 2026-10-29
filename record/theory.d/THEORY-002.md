@@ -144,7 +144,7 @@ settle it.
 
 The step from Nielsen et al.'s final-layer results to the hypothesis's
 kernels, which are cosine kernels of pooled hidden states maximised over
-layer pairs and measured by mutual nearest neighbours (NOTE-286), is by
+layer pairs and measured by mutual nearest neighbours ([NOTE-286](../notes.d/NOTE-286.md)), is by
 analogy. No held result bounds a distributional distance by a Bures
 distance between those kernels, or measures whether high
 mutual-nearest-neighbour alignment comes with high Bures alignment.

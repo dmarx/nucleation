@@ -106,12 +106,12 @@ needs the model with the candidate to be regular where w = 0: its Fisher
 information non-singular there, so that no parameter attached to the
 candidate goes unidentified when the candidate is switched off, and a
 prior smooth and positive there. Outside the conjugate case the rule is
-then Laplace's approximation of the same Bayes factor (THEORY-087's
+then Laplace's approximation of the same Bayes factor ([THEORY-087](../theory.d/THEORY-087.md)'s
 regular expansion). Two candidates fail the condition: a coupling whose
 effect is a strength times a responsiveness, and a hidden unit behind an
-output weight (THEORY-082). There the penalty is
+output weight ([THEORY-082](../theory.d/THEORY-082.md)). There the penalty is
 λ log n − (m − 1) log log n, and the rule prunes near the threshold what
-the Bayes factor keeps (CLAIM-188, checked on CASE-152's model).
+the Bayes factor keeps ([CLAIM-188](CLAIM-188.md), checked on [CASE-152](../cases.d/CASE-152.md)'s model).
 
 ## Why this record holds it
 

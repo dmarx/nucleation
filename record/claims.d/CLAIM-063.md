@@ -132,22 +132,22 @@ that names an identified choice of Φ, so that the defects are fixed by the
 data. Until then, how far interpretive perspectives interfere is part of
 what a translation preserves only in an unidentified sense.
 
-## Note of 2026-10-29: CLAIM-253 written in
+## Note of 2026-10-29: [CLAIM-253](CLAIM-253.md) written in
 
-The identity is CLAIM-373's and holds on interpretive states. A study
+The identity is [CLAIM-373](CLAIM-373.md)'s and holds on interpretive states. A study
 observes responses. There the identity bounds the order effect only with
 the readout defect added,
 ‖O′[A′,B′]Φμ − K O[A,B]μ‖ ≤ ‖E_O[A,B]μ‖ + 2(‖E_A‖ + ‖E_B‖), and the data do
-not fix its defects. The bound identified from data is CLAIM-231's 2ε,
+not fix its defects. The bound identified from data is [CLAIM-231](CLAIM-231.md)'s 2ε,
 under one outcome correspondence fixed across items, and the defeat
 condition now tests the thesis on that footing. The note of 2026-10-28
-called CLAIM-253 live; it is now written in. The identification result its
+called [CLAIM-253](CLAIM-253.md) live; it is now written in. The identification result its
 second answer asks for, a minimal-realization theorem, is still open.
 
 ## Note of 2026-10-29: what holds it back
 
 No study has measured the order effects of different renderings of the
 same sources under one outcome correspondence fixed across items.
-CASE-065's two administrations change language and readership together,
+[CASE-065](../cases.d/CASE-065.md)'s two administrations change language and readership together,
 and report correlations rather than response distributions, so no ε can be
 computed from them.

@@ -147,11 +147,11 @@ general converse, which stays Proposed, is not used. Quotations of
 
 ## Note of 2026-10-29: promoted
 
-The eleventh status review (ADR-057) promoted this claim on the owner's
-assent. The note of 2026-10-19 said it stays Proposed while CLAIM-050 is,
-and CLAIM-050 has been Active since 2026-10-28; CLAIM-268, its other
-premise, is Active, and so is every ground. CLAIM-230 no longer objects to
+The eleventh status review ([ADR-057](../decisions.d/ADR-057.md)) promoted this claim on the owner's
+assent. The note of 2026-10-19 said it stays Proposed while [CLAIM-050](CLAIM-050.md) is,
+and [CLAIM-050](CLAIM-050.md) has been Active since 2026-10-28; [CLAIM-268](CLAIM-268.md), its other
+premise, is Active, and so is every ground. [CLAIM-230](CLAIM-230.md) no longer objects to
 it: that claim cites this one's certificate, for decisions about the label
 used to define the experiment, as a parallel, and says that for stitching
 the label comes with the data set. Nothing in the record meets the defeat
-condition, whose formal failures CLAIM-268 holds.
+condition, whose formal failures [CLAIM-268](CLAIM-268.md) holds.

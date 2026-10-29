@@ -119,11 +119,11 @@ private reason differs from the corporation's.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the eleventh status review. Read in full (NOTE-568), but
+Kept Proposed by the eleventh status review. Read in full ([NOTE-568](../notes.d/NOTE-568.md)), but
 the title states French's conclusion, which the paper reaches by licensed
-redescription with no test. The record's nearest case, CASE-151, does not
+redescription with no test. The record's nearest case, [CASE-151](../cases.d/CASE-151.md), does not
 meet the promote_when's first half. There conduct persisted through some
 5,300 firings and was traced to the sales model, but it broke the bank's
 own rules, so on French's criterion it was not a corporate intentional
-act. The classic objection, Velasquez's (LIT-1429, LIT-1432), is
+act. The classic objection, Velasquez's ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md)), is
 registered and unread, so it is unanswered.

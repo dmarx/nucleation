@@ -213,6 +213,6 @@ agent*".
 
 ## Note of 2026-10-29: the narrowed rule
 
-CLAIM-154 now holds only where the candidate's model stays regular at its
-switch-off. Where it is singular the rule overcharges (CLAIM-188), so a
+[CLAIM-154](CLAIM-154.md) now holds only where the candidate's model stays regular at its
+switch-off. Where it is singular the rule overcharges ([CLAIM-188](CLAIM-188.md)), so a
 candidate it rejects may still earn a name.

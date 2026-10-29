@@ -103,7 +103,7 @@ clause, read as hedonic, does not break it read as goal conduciveness.
 **What is conceded.** The account is not an account of pleasure.
 "Hedonic" in [CLAIM-440](CLAIM-440.md) and [TERM-076](../terms.d/TERM-076.md) now reads
 "goal-conduciveness": the owner made the revision on 2026-10-23, conceding
-[CLAIM-438](CLAIM-438.md), which is Proposed because its evidence is (ADR-059).
+[CLAIM-438](CLAIM-438.md), which is Proposed because its evidence is ([ADR-059](../decisions.d/ADR-059.md)).
 
 ## What it does not say
 
@@ -165,8 +165,8 @@ concerns.
 ## Note of 2026-10-29: what holds it back
 
 Its "so" clause asserts the wanting–liking dissociation, which its one
-Proposed ground, THEORY-893, holds only through Berridge and Kringelbach's
+Proposed ground, [THEORY-893](../theory.d/THEORY-893.md), holds only through Berridge and Kringelbach's
 review. Its third defeater is untested: whether the relapsing addict's
 goal-conduciveness appraisal, measured apart from choice, is positive at
-the moment of taking, which NOTE-1109 says the paper does not report; the
-record's only answer is CLAIM-437's relativized sign, which is Proposed.
+the moment of taking, which [NOTE-1109](../notes.d/NOTE-1109.md) says the paper does not report; the
+record's only answer is [CLAIM-437](CLAIM-437.md)'s relativized sign, which is Proposed.

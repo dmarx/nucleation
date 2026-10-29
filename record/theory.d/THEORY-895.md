@@ -153,11 +153,11 @@ reactions rising with pursuit.
 ## Note of 2026-10-29: what holds it back
 
 The record holds sensitization only as Berridge and Robinson's review
-reports it; NOTE-1109 read none of the primary studies. No primary study
+reports it; [NOTE-1109](../notes.d/NOTE-1109.md) read none of the primary studies. No primary study
 the record reads shows, in animals, a lasting rise in cue-triggered
 pursuit after intermittent exposure with taste reactivity flat and
 expression gated by context, or, in people, cue-triggered dopamine release
 measured by PET that tracks craving while hedonic ratings stay flat. A
-split into what the authors propose would free nothing: CLAIM-438,
-CLAIM-437 and CLAIM-447 use sensitization as a fact, and the last two rest
+split into what the authors propose would free nothing: [CLAIM-438](../claims.d/CLAIM-438.md),
+[CLAIM-437](../claims.d/CLAIM-437.md) and [CLAIM-447](../claims.d/CLAIM-447.md) use sensitization as a fact, and the last two rest
 on Proposed claims besides.

@@ -130,6 +130,6 @@ The owner conceded this objection on 2026-10-23, and [CLAIM-433](CLAIM-433.md) i
 
 Its evidence is the wanting–liking dissociation and the persistence of
 sensitized 'wanting', which the record holds only through Berridge and
-colleagues' reviews (THEORY-893, THEORY-895); no primary study the record
+colleagues' reviews ([THEORY-893](../theory.d/THEORY-893.md), [THEORY-895](../theory.d/THEORY-895.md)); no primary study the record
 reads raises incentive salience while taste reactivity stays flat. It has
 no premise claim and no objection, so those readings are all that hold it.

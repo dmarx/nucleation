@@ -186,7 +186,7 @@ sense.
   says most of the barrier between independently trained networks is
   permutation, not disagreement. [THEORY-112](THEORY-112.md), filed alongside this
   one, found the barrier left after weight matching falling with width;
-  whether it rises with depth is QUESTION-tmpskhuc. This account has to say what
+  whether it rises with depth is [QUESTION-tmpskhuc](../questions.d/QUESTION-tmpskhuc.md). This account has to say what
   that residual barrier is. Either narrow or deep same-data seeds rely on
   different attributes, which nothing here has tested, or their residual
   barrier is a counterexample to the stated direction. That is the test
@@ -204,7 +204,7 @@ sense.
 The stated direction, a barrier surviving alignment ⇒ a different
 mechanism, is tested nowhere on deep networks trained on the same data.
 The deep-network evidence is co-occurrence in one synthetic-cue
-fine-tuning protocol, LIT-669's proof (App. F.3) runs in the converse
+fine-tuning protocol, [LIT-669](../literature.d/LIT-669.md)'s proof (App. F.3) runs in the converse
 direction for one hidden layer, and the residual barriers that same-data
-seeds keep at 1× width (THEORY-112) have never been tested for shared
+seeds keep at 1× width ([THEORY-112](THEORY-112.md)) have never been tested for shared
 invariances.

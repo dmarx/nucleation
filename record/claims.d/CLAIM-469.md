@@ -114,8 +114,8 @@ Demonstrated for the first three functions, by construction: they are what
 luria's grammar and machinery do, and they were checked against its code and
 this record's configuration on 2026-10-29 (the history note names the
 checks). The fourth, that the distinctions are revised through the record's
-use, is the record's history. CLAIM-419 holds it (Active, empirical) with its
-five amendments, and CASE-178 measures how they arrive. This claim rests on
+use, is the record's history. [CLAIM-419](CLAIM-419.md) holds it (Active, empirical) with its
+five amendments, and [CASE-178](../cases.d/CASE-178.md) measures how they arrive. This claim rests on
 that and adds no history of its own. What it adds is that a revision changes
 what luria differentiates and enforces on its next run, because luria reads
 its grammar from the configuration the amendment edits. The owner's review:
@@ -137,6 +137,6 @@ its grammar from the configuration the amendment edits. The owner's review:
   the repository it lives in ([CLAIM-195](CLAIM-195.md)).
 - **That the grammar decides which kind a piece of content is.** It fixes
   the kinds and what follows from each. Whether a proposition about support
-  is filed as an ARG or a CLAIM (ADR-061), or a reading as grounds or as
-  corroboration (ADR-058), is the filer's judgement, guided by decisions no
+  is filed as an ARG or a CLAIM ([ADR-061](../decisions.d/ADR-061.md)), or a reading as grounds or as
+  corroboration ([ADR-058](../decisions.d/ADR-058.md)), is the filer's judgement, guided by decisions no
   tool reads.

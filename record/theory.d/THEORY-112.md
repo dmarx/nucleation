@@ -136,7 +136,7 @@ find barriers on their minimum-energy paths falling as networks get "wider
 and especially deeper" (Fig. 5). Garipov et al., [LIT-673](../literature.d/LIT-673.md), also find
 width easing curved connection (A.7). On straight lines after alignment
 the width half holds, and is in the title. The depth half is only
-suggested, and is QUESTION-tmpskhuc's:
+suggested, and is [QUESTION-tmpskhuc](../questions.d/QUESTION-tmpskhuc.md)'s:
 
 - *Width lowers it.* Git Re-Basin's barrier after weight matching falls with
   width for VGG-16 and ResNet-20 on CIFAR-10, to zero at large width; at 1×

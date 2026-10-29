@@ -93,11 +93,11 @@ about real chains and conditions fixed in advance.
 
 ## Note of 2026-10-29: what holds it back
 
-Two things. The contracting regime in the title is CLAIM-068's attraction
+Two things. The contracting regime in the title is [CLAIM-068](CLAIM-068.md)'s attraction
 toward conventions, which is Proposed and now a premise. And the record
-assigns no condition to any regime. The defeat condition meets CLAIM-208's
+assigns no condition to any regime. The defeat condition meets [CLAIM-208](CLAIM-208.md)'s
 point, that the regime waits on a metric chosen afterwards, by fixing the
 metric in advance, but no metric is fixed and no condition is assigned, so
 the test it names has nothing yet to test. It moves when a metric and an
-assignment of conditions to regimes are filed, or when CLAIM-068 is
+assignment of conditions to regimes are filed, or when [CLAIM-068](CLAIM-068.md) is
 promoted.

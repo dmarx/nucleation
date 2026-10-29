@@ -82,8 +82,8 @@ static pragmatic judgment."
 
 That intertwining under any correspondence counts. A Φ that collapses every
 state makes the intertwining vacuous, and a non-injective one makes it lossy
-(CLAIM-011, granted). So the correspondence is one that keeps independently
-measured distinctions apart, admissible in CLAIM-077's sense, and is
+([CLAIM-011](CLAIM-011.md), granted). So the correspondence is one that keeps independently
+measured distinctions apart, admissible in [CLAIM-077](CLAIM-077.md)'s sense, and is
 estimated on tasks other than those it is evaluated on.
 
 That noncommutativity ([TERM-024](../terms.d/TERM-024.md)) is quantum ([CLAIM-041](CLAIM-041.md)). The identity is algebra (checked in the
@@ -107,7 +107,7 @@ as part of what it states. Its title is unchanged.
 
 ## Note of 2026-10-29: what holds it back
 
-It rests on CLAIM-052, which is Proposed. No study has yet tested its defeat
+It rests on [CLAIM-052](CLAIM-052.md), which is Proposed. No study has yet tested its defeat
 condition: whether, among renderings matched on static judgement
 distributions, observed order effects add to the prediction of receivers'
 fidelity verdicts.

@@ -133,11 +133,11 @@ judgments, it can give itself those means, so the excuse expires.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the eleventh status review. Read in full (NOTE-569). The
+Kept Proposed by the eleventh status review. Read in full ([NOTE-569](../notes.d/NOTE-569.md)). The
 record holds no case of a corporation whose avowed judgment departs from
 every mechanical aggregation of its members' views and which acts on it,
 the promote_when's first half. The objection that a corporation is not an
-agent at all, Velasquez's (LIT-1429, LIT-1432), is registered and unread.
-CASE-151 bears on the second half, but only once and in the record's
+agent at all, Velasquez's ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md)), is registered and unread.
+[CASE-151](../cases.d/CASE-151.md) bears on the second half, but only once and in the record's
 reading. Firing members did not stop the conduct; after sanction the
 corporation abolished the sales goals and centralized risk.
