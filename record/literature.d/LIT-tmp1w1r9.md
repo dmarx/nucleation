@@ -5,7 +5,7 @@ status_note: >-
   reached. The Internet Archive's copy (untoothersevolut00sobe) is for
   print-disabled readers only and is not lent, and no open edition was
   found. No NOTE is filed. It stays Unavailable until a copy is supplied
-  (ADR-041).
+  ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Unto Others: The Evolution and Psychology of Unselfish Behavior'
 version: 1
 history:

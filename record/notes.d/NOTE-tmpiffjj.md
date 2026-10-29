@@ -119,28 +119,28 @@ percentage drops out (Model 16).
 
 ## Connections
 
-- **Berendt and Uhrich (THEORY-tmpk1fow)** take their definition of
+- **Berendt and Uhrich ([THEORY-tmpk1fow](../theory.d/THEORY-tmpk1fow.md))** take their definition of
   rivalry from this paper.
-- **Tyler and Cobbs (LIT-tmp1tphp)**, Unfetched, document one-sided fan
+- **Tyler and Cobbs ([LIT-tmp1tphp](../literature.d/LIT-tmp1tphp.md))**, Unfetched, document one-sided fan
   rivalries. Here, among teams, one-sidedness is rare and follows status.
-- **Intergroup bias.** It cites Tajfel et al. 1971 (LIT-tmp6t6ny) and
+- **Intergroup bias.** It cites Tajfel et al. 1971 ([LIT-tmp6t6ny](../literature.d/LIT-tmp6t6ny.md)) and
   Jetten et al. on similarity and threat. Rivalry rising with similarity
   fits the distinctiveness-threat line that self-categorization theory
-  (THEORY-tmpo85ke) folds in; the paper does not use the theory.
+  ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)) folds in; the paper does not use the theory.
 - **Observers.** Attendance rising with rivalry is read as rivalry
   "spreading to those indirectly involved" (p. 961), and how observers
   feel rivalry is listed as a future direction. The fans are not studied.
 
 ## Bearing on the record
 
-- **CASE-098 (a rivalry that outlives its carriers).** It supports the case
+- **[CASE-098](../cases.d/CASE-098.md) (a rivalry that outlives its carriers).** It supports the case
   by giving a mechanism. Rivalry is measurably a property of the pair, and
   it is driven by a history of contests most current players never played
   in. All-time records beat recent form. That is the inheritance the case
   describes, measured in the institution rather than the fans. It does not
   show who carries it: sportswriters' and players' current ratings are the
   only measure. A dated note is added to the case.
-- **QUESTION-tmpbudbb (is perceived reciprocity real?).** A partial answer
+- **[QUESTION-tmpbudbb](../questions.d/QUESTION-tmpbudbb.md) (is perceived reciprocity real?).** A partial answer
   at the level of teams. Measured from both sides, rivalry was largely
   returned (r = .85 net of team effects), and one-sided rivalry ran from
   lower to higher status. If fans' perceptions follow their teams', the

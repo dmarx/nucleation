@@ -5,7 +5,7 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; nothing on Rutgers or CUNY pages.
   No NOTE is filed. It stays Unavailable until a copy is supplied
-  (ADR-041).
+  ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'An Organizing Framework for Collective Identity: Articulation and Significance of Multidimensionality'
 version: 1
 history:

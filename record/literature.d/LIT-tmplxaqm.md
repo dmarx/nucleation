@@ -5,7 +5,7 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; nothing on Ohio State or
   Northwestern pages; only a Scribd copy, not used. No NOTE is filed. It
-  stays Unavailable until a copy is supplied (ADR-041).
+  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Who is this "We"? Levels of collective identity and self representations'
 version: 1
 history:

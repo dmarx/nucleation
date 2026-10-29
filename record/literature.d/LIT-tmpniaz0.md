@@ -5,7 +5,7 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; UQ eSpace's API refused the
   request (HTTP 403) and ANU Open Research had no match. No NOTE is filed.
-  It stays Unavailable until a copy is supplied (ADR-041).
+  It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Context-dependent variation in social stereotyping 1: The effects of intergroup relations as mediated by social change and frame of reference'
 version: 1
 history:

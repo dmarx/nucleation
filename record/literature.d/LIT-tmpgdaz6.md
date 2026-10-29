@@ -5,7 +5,7 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; Groningen's Pure has the record
   without a file. No NOTE is filed. It stays Unavailable until a copy is
-  supplied (ADR-041).
+  supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Deindividuation and antinormative behavior: A meta-analysis'
 version: 1
 history:

@@ -113,7 +113,7 @@ two-sided relation.
 
 ## Note of 2026-10-29: Kilduff, Elfenbein and Staw, read
 
-Kilduff et al. (LIT-tmpl8672) has been read (NOTE-tmpiffjj). Of the
+Kilduff et al. ([LIT-tmpl8672](../literature.d/LIT-tmpl8672.md)) has been read ([NOTE-tmpiffjj](../notes.d/NOTE-tmpiffjj.md)). Of the
 works the record holds, it comes closest to treating a rivalry as a unit.
 Sportswriters rated how much their team saw each conference opponent as
 a rival, with players' and coaches' ratings agreeing (r = .89). Across 71

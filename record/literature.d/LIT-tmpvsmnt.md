@@ -7,7 +7,7 @@ status_note: >-
   that answered HTTP 403, so whether it holds a file is unknown; UEA's
   repository and RePEc for the 2005 reprint in Teamwork offer no download.
   No NOTE is filed. It stays Unavailable until a copy is supplied
-  (ADR-041).
+  ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'The Logic of Team Reasoning'
 version: 1
 history:
