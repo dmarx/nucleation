@@ -26,7 +26,8 @@ summary: >-
   as the empirical objection to the owner's thesis; both papers are
   unread, so the record holds the disagreement, not its resolution.
 ---
-<!-- inactive-ok-file: CLAIM-tmpjylq8 QUESTION-tmprbq0b LIT-tmp7qbeb LIT-tmp1w1r9 LIT-tmpfxss5 — Proposed, Open or Deferred; the thesis objected to, its question, and the unread works on each side -->
+<!-- inactive-ok-file: CLAIM-tmpjylq8 QUESTION-tmprbq0b LIT-tmpfxss5 — Proposed, Open or Deferred; the thesis objected to, its question, and the unread works on each side -->
+<!-- inactive-ok-file: LIT-tmp7qbeb LIT-tmp1w1r9 until 2027-04-29 — Unavailable grounds, read at second hand (NOTE-tmpd1dh3, NOTE-tmpeuwqz); ask again whether the objection holds once they are read, or by this date -->
 
 # CLAIM-tmpybc4k: Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
 

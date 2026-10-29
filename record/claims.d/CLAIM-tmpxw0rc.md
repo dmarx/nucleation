@@ -37,7 +37,8 @@ summary: >-
   that A2's preference falsification and amplification do not need. It
   does not say that the private majority agrees.
 ---
-<!-- inactive-ok-file: QUESTION-119 THEORY-tmpo85ke LIT-tmpyt5b0 CLAIM-tmpitq0u — Open, Proposed or Deferred; the question answered, the reading and unread work it derives from, and its companion claim -->
+<!-- inactive-ok-file: QUESTION-119 THEORY-tmpo85ke CLAIM-tmpitq0u — Open, Proposed or Deferred; the question answered, the reading and unread work it derives from, and its companion claim -->
+<!-- inactive-ok-file: LIT-tmpyt5b0 until 2027-04-29 — an Unfetched ground; ask again whether the claim holds once Turner 2005 is read, or by this date -->
 
 # CLAIM-tmpxw0rc: When a fanbase is set against an outside party such as its club's owner, its more extreme members become more prototypical of it, so a vocal minority can fix the fanbase's public stance through a group process and not only through biased sampling of who speaks
 

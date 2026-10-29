@@ -26,7 +26,8 @@ summary: >-
   and predicts that motivation follows that criterion and not caring
   alone.
 ---
-<!-- inactive-ok-file: CLAIM-tmpjylq8 QUESTION-tmprbq0b LIT-tmp1w1r9 THEORY-tmpo85ke — Proposed, Open or Deferred; the thesis objected to, its question, an unread work and a reading named as an example -->
+<!-- inactive-ok-file: CLAIM-tmpjylq8 QUESTION-tmprbq0b THEORY-tmpo85ke — Proposed, Open or Deferred; the thesis objected to, its question, an unread work and a reading named as an example -->
+<!-- inactive-ok-file: LIT-tmp1w1r9 until 2027-04-29 — an Unavailable ground, read at second hand in Stich (NOTE-tmpeuwqz); ask again whether the objection holds once the book is read, or by this date -->
 
 # CLAIM-tmprudek: If the self is defined to include whatever an agent cares about, the claim that all motivation serves the self is true by definition and rules nothing out; the thesis has content only with a criterion of the self's extent that can come apart from what the agent cares about
 

@@ -41,7 +41,8 @@ summary: >-
   truth are its objections. It does not say people are self-centred, or
   that groups have no good of their own.
 ---
-<!-- inactive-ok-file: QUESTION-tmprbq0b CLAIM-tmpybc4k NOTE-tmpaso81 CLAIM-tmprudek THEORY-tmpo85ke THEORY-tmpsm03n THEORY-655 LIT-tmpfxss5 LIT-tmp7qbeb LIT-tmpgjlp7 LIT-tmp8zvjf LIT-tmp9rujh LIT-tmpvsmnt LIT-tmpki8fs LIT-tmpm40au LIT-tmply7z7 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
+<!-- inactive-ok-file: QUESTION-tmprbq0b CLAIM-tmpybc4k NOTE-tmpaso81 CLAIM-tmprudek THEORY-tmpo85ke THEORY-tmpsm03n THEORY-655 LIT-tmp7qbeb LIT-tmpgjlp7 LIT-tmp9rujh LIT-tmpvsmnt LIT-tmpki8fs LIT-tmpm40au LIT-tmply7z7 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmp8zvjf LIT-tmpfxss5 until 2027-04-29 — Unfetched or Unavailable grounds; Cialdini et al. is read at second hand (NOTE-tmpd1dh3, NOTE-tmpdrfdn), Markus and Kitayama not at all; ask again whether the thesis holds once they are read, or by this date -->
 
 # CLAIM-tmpjylq8: No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 
