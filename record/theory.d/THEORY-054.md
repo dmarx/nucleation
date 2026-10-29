@@ -66,7 +66,6 @@ presupposed_by:
 supports:
 - CLAIM-016
 - CLAIM-354
-- CLAIM-356
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-047 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
@@ -166,3 +165,12 @@ this one, autonomy is graded integration, and an endorsement that is not
 integrated is introjection. The two give opposite verdicts on resigned
 identification.
 
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the eighth status review. No reading separates integrated from
+identified regulation: the SDT sources say the forms are usually combined,
+and the self-concordance study (NOTE-448) pools identified and intrinsic
+reasons. Nor does the record hold a case in which a motive endorsed at a
+higher order behaves like a controlled one. THEORY-074's overlap index
+(NOTE-469) is a candidate measure of integration apart from endorsement,
+untested as one.

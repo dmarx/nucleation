@@ -18,7 +18,7 @@ promote_when: >-
   ACT outcome trials, more defusion studies, or AAQ correlations, none of
   which isolates this process.
 title: 'Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-03'
@@ -35,6 +35,12 @@ history:
     `extends: THEORY-050` re-filed as `presupposes: THEORY-050` (ADR-029).
     This is a claim about a therapy process that takes the inflexibility
     model as its premise; it does not refine that model.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Eighth status review: the Lindahl et al. caution now cites
+    THEORY-597, the full reading of that study filed 2026-10-16. The
+    reading is unchanged.
 tags:
 - psychopathology-and-treatment
 - self
@@ -54,9 +60,6 @@ summary: >-
   weak grounds. The conceptual account of the self is [THEORY-044](THEORY-044.md).
 presupposes:
 - THEORY-050
-supports:
-- CLAIM-156
-- CLAIM-349
 ---
 <!-- inactive-ok-file: LIT-543 — Unavailable, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this presupposes and the conceptual account of the self -->
@@ -135,7 +138,7 @@ is borrowed.
   exercises. In a sample selected for meditation-related difficulties, it
   catalogues distressing changes in the sense of self, among them loss of
   agency, loss of basic self and loosened self–other boundaries
-  ([NOTE-036](../notes.d/NOTE-036.md)). That sample is not a clinical ACT population, and the
+  ([NOTE-036](../notes.d/NOTE-036.md), now read in full as THEORY-597). That sample is not a clinical ACT population, and the
   exercises differ in dose and aim. It does show that the same direction of
   change can be distressing, so a dose or context condition may be part of
   any true version of this claim.
@@ -176,3 +179,14 @@ is borrowed.
   one of them. Nothing in the record tests that, and on [THEORY-053](THEORY-053.md)'s
   standard it would take a measure of Self-access in IFS, and of the self as
   context in ACT, that changes first and specifically.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the eighth status review. No study in the record gives
+self-as-context exercises apart from defusion and acceptance, or measures
+the self as context separately from them, so none shows its change
+preceding outcome; the one defusion study counts here only under RFT's
+deictic reading, which its authors call "no more than a heuristic". LIT-543,
+which might report this domain separately, is Unavailable, and the premise
+THEORY-050 is Proposed. CLAIM-156 and CLAIM-349 now cite this reading as
+corroboration, not as a ground.

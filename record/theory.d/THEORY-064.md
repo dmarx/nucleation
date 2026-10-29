@@ -47,7 +47,6 @@ summary: >-
   ontological stipulation. The précis adds no evidence; its case studies
   are in the book, unread.
 supports:
-- CLAIM-156
 - CLAIM-355
 ---
 <!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the unread book that could move this, not leaned on -->
@@ -162,3 +161,14 @@ are left to the book ([NOTE-460](../notes.d/NOTE-460.md), Limitations).
   transcended. [THEORY-029](THEORY-029.md)'s regress is of authority, not of representation:
   what makes a motive the agent's own. The shapes are alike and the
   questions differ; the précis does not touch ownership of motives.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the eighth status review. No reading in the record measures the
+attentional availability of self-model content together with reported
+selfhood, and none reports a wholly opaque self-model either way:
+THEORY-597's meditation reports of "loss of basic self" and THEORY-768's
+full-body illusion record changes in selfhood with no measure of opacity,
+as THEORY-768 says. Being No One (LIT-467), whose case studies the précis
+leaves out, is Unavailable. CLAIM-156 now cites this reading as
+corroboration; CLAIM-355 still grounds on it.

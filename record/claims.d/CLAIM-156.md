@@ -3,8 +3,24 @@ number: 156
 status: Proposed
 formerly:
 - CLAIM-tmp7lzto
-title: 'Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were'
-version: 1
+title: 'Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Eighth status review (ADR-057). THEORY-051 and THEORY-064 moved
+    from grounds to corroborated_by (ADR-058): the claim states its
+    mechanism in TERM-017's terms and sets these readings beside it,
+    needing neither one's thesis. LIT-906 left grounds; it reports
+    discounting lowered and is cited as the evidence against. The
+    quotation "not the content" is THEORY-044's and is now cited
+    there. Title was: Mindfulness integrates a population of interests
+    by changing which of them may act, not by changing what they
+    value: noticing an impulse as an impulse suspends the step from
+    its momentary dominance to its control of action, and leaves the
+    discount curves as they were. It now says what the defeat
+    condition tests, an effect not fully mediated by discounting.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -27,9 +43,6 @@ rests_on:
 - CLAIM-169
 - CLAIM-027
 grounds:
-- THEORY-051
-- THEORY-064
-- LIT-906
 - LIT-916
 uses:
 - TERM-050
@@ -37,6 +50,9 @@ uses:
 complements:
 - CLAIM-162
 - CLAIM-442
+corroborated_by:
+- THEORY-051
+- THEORY-064
 summary: >-
   The record's own conjecture, made in answer to the owner's prompt of
   2026-10-11. It places mindfulness among [CLAIM-027](CLAIM-027.md)'s conditions of
@@ -44,16 +60,14 @@ summary: >-
   individual-scale instance of that thesis. The one direct study read
   as summarised ([LIT-906](../literature.d/LIT-906.md)) points the other way, and the claim says
   so. It does not say mindfulness never changes valuation.
-supports:
-- CLAIM-349
 ---
 <!-- ref::uses-file: TERM-050 — stated in "intrapersonal synchronization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 CLAIM-162 CLAIM-169 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-591 — Unavailable; IFS, named as the contrast with ACT's self as context, not leaned on -->
 <!-- inactive-ok-file: LIT-906 LIT-916 — Unavailable, unread beyond abstract summaries; the direct evidence, cited as the weakest footing and as the fork the claim turns on -->
-<!-- inactive-ok-file: THEORY-051 THEORY-064 THEORY-067 — Proposed; the readings this conjecture sets its mechanism beside, with their weak standing stated -->
+<!-- inactive-ok-file: THEORY-044 THEORY-051 THEORY-064 THEORY-067 — Proposed; the readings this conjecture sets its mechanism beside, with their weak standing stated -->
 
-# CLAIM-156: Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were
+# CLAIM-156: Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves
 
 ## The claim
 
@@ -70,7 +84,8 @@ dominates:
   This claim says mindfulness does this.
 
 ACT describes the mindful stance as holding a thought or urge as a thought
-or urge, from a perspective that is "not the content" ([THEORY-051](../theory.d/THEORY-051.md)). On
+or urge, from a perspective that is "not the content" (THEORY-044), and makes
+that stance part of its working definition of mindfulness (THEORY-051). On
 Metzinger's reading ([THEORY-064](../theory.d/THEORY-064.md)), attending to a content as a construction
 makes it opaque, so it is no longer lived simply as oneself. Put in the
 will-organization line's terms, the urge stays the most valued option at
@@ -84,9 +99,9 @@ internal and reversible.
 
 ## What would tell the routes apart
 
-- **Discounting measured before and after.** On this claim it should be
-  unchanged, while response inhibition and choice under temptation
-  improve. Dixon et al. ([LIT-906](../literature.d/LIT-906.md), n = 23) report the opposite: a
+- **Discounting measured before and after.** On this claim choice under
+  temptation and response inhibition improve by more than any change in
+  discounting carries, and the improvement is not mediated by it. Dixon et al. ([LIT-906](../literature.d/LIT-906.md), n = 23) report the opposite: a
   5-minute exercise lowered measured discounting. Ge et al. ([LIT-916](../literature.d/LIT-916.md)),
   as summarised, report some impulsive behaviours reduced and discounting
   not improved. Both are unread. If Dixon et al. holds up, part of
@@ -102,3 +117,11 @@ internal and reversible.
   population at the moment of temptation.
 - **That decentering is a self.** IFS's Self ([LIT-591](../literature.d/LIT-591.md)) leads; ACT's self
   as context does not. This claim needs only the second.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the eighth status review. Its premise CLAIM-169 is Proposed until
+THEORY-067's bundling mechanism is tested. And no study the record has read
+measures discounting and choice under temptation before and after practice
+and asks whether discounting mediates the change: Dixon et al. (LIT-906) and
+Ge et al. (LIT-916) are known only as summaries, and point opposite ways.
