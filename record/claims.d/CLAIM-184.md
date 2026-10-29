@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmptw11r
 title: 'Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record''s remedy only if superseded anchors stop attracting new structure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The eighth status review (ADR-057). The objects_to edge to
+    CLAIM-185 is dropped: this claim does not deny CLAIM-185, it
+    states a cost that follows if CLAIM-185 is true ('If persistent
+    structures are what more complex structure grows on'), and the
+    objects_to blurb is 'the claim this one denies'. It bears on
+    QUESTION-109, which already names it as the cost against
+    CLAIM-182's benefit. The text is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -14,8 +25,6 @@ date: '2026-10-11'
 line: nucleating-argument
 works:
 - luria-nucleating-an-argument
-objects_to:
-- CLAIM-185
 grounds:
 - THEORY-136
 - THEORY-178
@@ -24,6 +33,8 @@ grounds:
 - LIT-920
 uses:
 - TERM-020
+bears_on:
+- QUESTION-109
 summary: >-
   The cost side of the owner's reframing ([CLAIM-185](CLAIM-185.md)), proposed by
   the assistant on 2026-10-11 and filed at the owner's request. If
@@ -95,3 +106,11 @@ after a temporary push. This counter has not shown a loop. A candidate
 would be that forcing moves into the grammar miscodes them, the miscodes
 produce correction entries, and those entries feed more filing. That is
 unshown.
+
+## Note of 2026-10-29: what holds it back
+
+The count under "What would answer it" has not been run: citations of each
+Superseded CLAIM and TERM made after its retirement, with those
+acknowledged as history set apart. Nor has the loop TERM-020 requires been
+shown (note of 2026-10-12), so the claim has not yet cleared its own bar for
+lock-in.

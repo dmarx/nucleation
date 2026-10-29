@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpmand1
 title: 'Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The eighth status review (ADR-057). CLAIM-405 moves from
+    complements to rests_on: the body says this claim 'needs' it for
+    its 'partly fixed'. The text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,10 +43,11 @@ grounds:
 complements:
 - CLAIM-136
 - CLAIM-151
-- CLAIM-405
 - CLAIM-195
 uses:
 - TERM-070
+rests_on:
+- CLAIM-405
 summary: >-
   The owner's, U8 of the exchange of 2026-10-27, "maybe
   relata:relations::realization:specifications/constraints?", after U6 had
@@ -307,3 +315,13 @@ This claim is in the last group. Its interpretive warrant stands.
   variables" (§V, p. 4). What holds a perspective moves from the system to a
   commutative subalgebra, and a whole system may hold none. The relata are
   still assumed.
+
+## Note of 2026-10-29: what holds it back
+
+Defeater (b) has a candidate the record holds and has not ruled on. A
+symmetry or conservation law individuates kinds (Wigner's classification,
+discussed in CLAIM-134), and Deutsch and Marletto's possibility facts do the
+same (THEORY-1066), with nothing obviously realizing them. The claim has not
+said whether such a law counts as realizing a constraint, which its notes of
+2026-10-27 ask. It also now rests on CLAIM-405 for "partly fixed", and
+CLAIM-405 is Proposed.

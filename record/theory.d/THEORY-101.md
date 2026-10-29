@@ -23,7 +23,16 @@ promote_when: >-
   is an adaptation, or that its subcortical structures are old, cannot
   settle it: the rival account agrees with both.
 title: 'Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The eighth status review (ADR-057, ADR-060). QUESTION-059 moves
+    from answers to bears_on: the title is the origin thesis, and the
+    identity of feeling with the currency, which is what would bear on
+    the question, is a sketch the origin claim does not need. Status
+    and title are unchanged.
 tags:
 - consciousness
 - emotion-and-affect
@@ -33,6 +42,8 @@ source:
 - LIT-105
 rivals:
 - THEORY-090
+bears_on:
+- QUESTION-059
 summary: >-
   Veit's pathological complexity thesis, as he restates and defends it in
   his reply to commentators (2025), [LIT-105](../literature.d/LIT-105.md): consciousness originated as
@@ -44,11 +55,8 @@ summary: >-
   The source is a reply piece; the thesis is argued in a book the record
   has not read, and the mechanism is a sketch. ALARM ([THEORY-090](THEORY-090.md))
   rivals it on what the first consciousness did.
-answers:
-- QUESTION-059
 supports:
 - CLAIM-435
-- CLAIM-436
 - CLAIM-440
 ---
 <!-- inactive-ok-file: THEORY-090 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->
@@ -181,3 +189,12 @@ goes through; a graded override has none, and in that form it does not.
 [CLAIM-435](../claims.d/CLAIM-435.md) recasts the rivalry as one question, whether the earliest
 trade-off curves are continuous, and if not, which form the override
 takes. The statement is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+The thesis is argued in Veit 2023, which the record has not read; the reply
+read in NOTE-187 presupposes it. Beyond the reading, the comparative result
+its promote_when names, motivational trade-offs appearing where and only
+where other marks of felt valence appear and among the earliest of them, is
+not in the record. LIT-1466 gives one species at one cost, which cannot
+show where trade-offs begin.

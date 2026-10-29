@@ -12,7 +12,6 @@ tags:
 date: '2026-10-12'
 line: 'organizational-affect'
 answered_by:
-- THEORY-101
 - THEORY-045
 - THEORY-090
 - THEORY-093

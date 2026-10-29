@@ -1,24 +1,31 @@
 ---
 number: 285
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpta57o
-promote_when: >-
-  Evidence from people, not from the model. Either of two kinds would
-  support it. First, the authors' own prediction confirmed: after cued
-  traumatic recall, people with PTSD attenuate peripheral evidence about
-  context more than focal evidence, against matched trauma-exposed
-  controls, with context-sampling measured directly (for example by eye
-  movements toward disambiguating periphery). Second, an intervention
-  contrast matched on exposure: restoring context sampling during the same
-  exposure produces lasting change that the same exposure without it does
-  not, while a precision-lowering drug reduces symptoms that return on
-  withdrawal. The account is refuted if people with persistent PTSD sample
-  disambiguating context as much as resilient controls and still keep the
-  harmful-context belief. More simulations with other parameters cannot
-  settle it, and nor can symptom improvement alone.
-title: 'In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior'
-version: 1
+title: 'In an illustrative active-inference simulation of post-traumatic context inference, run once per phenotype, a prior that one is in a harmful context, made overly precise by a run of harmful trials under the "vulnerable" learning and forgetting weights, makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision makes the attenuation policy less vigorous without correcting the prior, and the policy returns when precision is restored'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the eighth status review (ADR-057;
+    ADR-047's evidence ruling, one study read in full for a title that
+    claims no more than it showed). The model was read in full in
+    version 2 (NOTE-766), without the figures or the supplement;
+    version 3 could not be reached. The title now claims only what the
+    simulations showed: one run per phenotype under the vulnerable
+    weights, and a precision manipulation that makes the attenuation
+    policy less vigorous rather than removing symptoms. The old title:
+    In an active-inference model of post-traumatic context inference,
+    an overly precise prior that one is in a harmful context makes
+    exploratory sampling look uninformative, so the agent attenuates
+    the periphery, never receives the evidence that would correct the
+    prior, and the belief sustains itself; lowering precision removes
+    the symptoms without correcting the prior. The promote_when asked
+    for evidence from people, which the title never claimed, and moves
+    unchanged to QUESTION-tmpxd26n, as THEORY-178's did to
+    QUESTION-172.
 tags:
 - psychopathology-and-treatment
 - neuroscience
@@ -41,10 +48,11 @@ supports:
 - CLAIM-446
 bears_on:
 - QUESTION-045
+- QUESTION-tmpxd26n
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed; the loop account this model gives a mechanism for -->
 
-# THEORY-285: In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior
+# THEORY-285: In an illustrative active-inference simulation of post-traumatic context inference, run once per phenotype, a prior that one is in a harmful context, made overly precise by a run of harmful trials under the "vulnerable" learning and forgetting weights, makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision makes the attenuation policy less vigorous without correcting the prior, and the policy returns when precision is restored
 
 ## Source
 
