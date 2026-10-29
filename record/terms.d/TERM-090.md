@@ -84,7 +84,7 @@ Four entries filed this evening use the notion, under several names: "effective
 boundary relation", "boundary law", "external behaviour". It is the clearest
 place where the record's general frame, that constraints are realized by
 organization ([CLAIM-477](../claims.d/CLAIM-477.md)), has a demonstrated case. What would settle it:
-adoption if the claims cite it, as CLAIM-480 and CLAIM-474 now do. The object
-is Willems's external behaviour (LIT-1660, unread); the term is filed for the
+adoption if the claims cite it, as [CLAIM-480](../claims.d/CLAIM-480.md) and [CLAIM-474](../claims.d/CLAIM-474.md) now do. The object
+is Willems's external behaviour ([LIT-1660](../literature.d/LIT-1660.md), unread); the term is filed for the
 distinctions above, which that name does not carry, and would be rejected if a
 reading of Willems showed they are his.

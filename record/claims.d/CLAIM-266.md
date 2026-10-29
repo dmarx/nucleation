@@ -94,6 +94,6 @@ point.
 - That its generality rests on its cases. Its ground is the argument
   above: a family the system was optimized against scores it well whether
   or not it preserved what the family cannot see, so the score cannot tell
-  the two apart. CASE-041 shows the bias in image generation, by training;
-  CASE-071 shows it in translation, by selection against the metric, which
+  the two apart. [CASE-041](../cases.d/CASE-041.md) shows the bias in image generation, by training;
+  [CASE-071](../cases.d/CASE-071.md) shows it in translation, by selection against the metric, which
   the title's "training signal" does not literally cover.

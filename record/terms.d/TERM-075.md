@@ -74,7 +74,7 @@ others, or the person's model of such a characterization and of who holds it. A 
 4. **Appropriated attribution.** The attribution taken up by the person into
    how they characterize themselves, whether endorsed or flaunted. Senses 2
    and 3 are already the person's models, of how they are seen and by whom,
-   and are what CLAIM-415 calls the audience in a self-model; sense 4 is an
+   and are what [CLAIM-415](../claims.d/CLAIM-415.md) calls the audience in a self-model; sense 4 is an
    attribution that has become part of the self the person takes themselves
    to be. The couplet
    of [LIT-1394](../literature.d/LIT-1394.md) shows it: after "I am whatever you say I am", "If I
@@ -82,7 +82,7 @@ others, or the person's model of such a characterization and of who holds it. A 
    own. Only in this sense does an attributed self become content of
    [TERM-045](TERM-045.md)'s narrative and presented selves (senses 4 and 7). Senses 2
    and 3 can shape conduct, presentation included, without it: that is
-   "rejection does not free" (CASE-142).
+   "rejection does not free" ([CASE-142](../cases.d/CASE-142.md)).
 
 Senses 2 and 3 together are what A39 proposed to call "recursive social
 self-modeling": "The person is modeling themselves as an object of other

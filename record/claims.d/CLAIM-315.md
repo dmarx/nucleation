@@ -64,8 +64,8 @@ missed direct priming, so the test failed rather than the account.
 
 ## Note of 2026-10-29: what holds it back
 
-Its readings are held, but its second clause asserts what THEORY-335 says
+Its readings are held, but its second clause asserts what [THEORY-335](../theory.d/THEORY-335.md) says
 is not shown: that anchor-consistent knowledge made more accessible
 carries the shift. No design with a retrieval measure first shown
 sensitive to direct priming has found that accessibility difference, or
-tied it to the size of the shift (QUESTION-tmpwz0fb).
+tied it to the size of the shift ([QUESTION-tmpwz0fb](../questions.d/QUESTION-tmpwz0fb.md)).

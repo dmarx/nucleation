@@ -121,7 +121,7 @@ and keeps that use for a "related but distinct" wrong.
 - **Not a claim about the book.** It is held at the strength of two of
   her papers, one of which is a short retrospective.
   Whether the book states it so, and whether the account is right about
-  the wrong, is QUESTION-tmpmecwn.
+  the wrong, is [QUESTION-tmpmecwn](../questions.d/QUESTION-tmpmecwn.md).
 - **The virtue is not filed.** Reflexive critical openness and its
   historically contingent availability are in [NOTE-860](../notes.d/NOTE-860.md). No question
   in the record asks for them.

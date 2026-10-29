@@ -114,5 +114,5 @@ The title states as the account of fluency what the paper proposes by
 analogy: no generative model with felt and unfelt fluency as variables has
 been built, and none has predicted a new reversal that an experiment then
 found, as the promote_when asks. A split into what Brouillet and Friston
-propose would free neither CLAIM-337 (also grounded in THEORY-564 and
-THEORY-577) nor CLAIM-439 (resting on CLAIM-440), all Proposed.
+propose would free neither [CLAIM-337](../claims.d/CLAIM-337.md) (also grounded in [THEORY-564](THEORY-564.md) and
+[THEORY-577](THEORY-577.md)) nor [CLAIM-439](../claims.d/CLAIM-439.md) (resting on [CLAIM-440](../claims.d/CLAIM-440.md)), all Proposed.

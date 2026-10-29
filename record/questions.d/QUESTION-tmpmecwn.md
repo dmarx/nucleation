@@ -8,9 +8,9 @@ tags:
 date: '2026-10-29'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-327, moved here when the
+  The promotion condition formerly on [THEORY-327](../theory.d/THEORY-327.md), moved here when the
   twelfth status review narrowed it to Fricker's two papers read in full
-  and promoted it, as THEORY-285's moved to QUESTION-303.
+  and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-303](QUESTION-303.md).
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book this question asks about, read only through its précis -->
 
@@ -18,19 +18,19 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-327 holds Fricker's account of testimonial injustice as her 2003
-paper (LIT-1049) and her 2017 retrospective (LIT-1048) state it, both read
-in full. The book (LIT-1004), where the account is developed, has not been
+[THEORY-327](../theory.d/THEORY-327.md) holds Fricker's account of testimonial injustice as her 2003
+paper ([LIT-1049](../literature.d/LIT-1049.md)) and her 2017 retrospective ([LIT-1048](../literature.d/LIT-1048.md)) state it, both read
+in full. The book ([LIT-1004](../literature.d/LIT-1004.md)), where the account is developed, has not been
 read. Others use the term more widely, counting deliberate manipulation of
-credibility (NOTE-1049), so whether the account is right about the wrong
+credibility ([NOTE-1049](../notes.d/NOTE-1049.md)), so whether the account is right about the wrong
 is a further matter.
 
 ## What would answer it
 
-THEORY-327's former promote_when, unchanged:
+[THEORY-327](../theory.d/THEORY-327.md)'s former promote_when, unchanged:
 
 A first-hand reading of the book's chapters on testimonial injustice
-(LIT-1004, chs. 1–2, with ch. 6 on pre-emptive testimonial injustice)
+([LIT-1004](../literature.d/LIT-1004.md), chs. 1–2, with ch. 6 on pre-emptive testimonial injustice)
 that confirms both parts as Fricker's account. First, testimonial
 injustice requires a prejudiced misjudgement that is not deliberate.
 Second, a speaker whose word is never sought because of prejudice

@@ -87,7 +87,7 @@ families serves, an extension [TERM-065](TERM-065.md)'s note of 2026-10-27 decli
 
 ## Note of 2026-10-29: what holds it back
 
-CLAIM-475, the claim stated in this term, uses two of its sets: its title and
+[CLAIM-475](../claims.d/CLAIM-475.md), the claim stated in this term, uses two of its sets: its title and
 defeater (a) the askable, its §7 ("questions that can meaningfully be
 investigated") and defeater (b) ("formulate and pursue") the investigable.
-Adoption once CLAIM-475 says which set its defeater (b) tests.
+Adoption once [CLAIM-475](../claims.d/CLAIM-475.md) says which set its defeater (b) tests.

@@ -82,7 +82,7 @@ reviewer, a foreign partner's cooperation being requirable. A9: "The
 institutions are formally continuous. The organization through which they
 exercised mutual constraint is not necessarily continuous."
 
-In TERM-085's terms, the capacity to be corrected is the correctability, for
+In [TERM-085](../terms.d/TERM-085.md)'s terms, the capacity to be corrected is the correctability, for
 corrections of the acting institution's acts, of the arrangement that holds
 both it and the institutions that would correct it. The claim is that this
 can fall while the institution's capacity for effective action holds.
