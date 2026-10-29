@@ -28,7 +28,6 @@ summary: >-
   case for [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md): there routes agree because nothing travels,
   here because everything does, out of sight.
 ---
-<!-- inactive-ok-file: CLAIM-tmpgwud2 — new; the claim this account bears on, cited as open -->
 
 # THEORY-tmpocg1h: When one domain carries more information than the other, a translation trained only to make the round trip close cannot meet that requirement through a correspondence in the intermediate's visible code, so the round trip closes through a channel the intermediate's audience does not read; agreement of the round trip with its source therefore says nothing about whether the intermediate renders the source's content for that audience
 

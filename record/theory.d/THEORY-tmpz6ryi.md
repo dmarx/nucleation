@@ -27,7 +27,6 @@ summary: >-
   triples, and no ablation holds the cost and the clustering fixed while
   changing joint for pairwise fitting.
 ---
-<!-- inactive-ok-file: QUESTION-tmp6byb6 — Open; the question this result leaves open -->
 
 # THEORY-tmpz6ryi: Aligning three networks jointly, through one multi-marginal fused Gromov–Wasserstein coupling with an anchor-based random-walk cost and a cluster decomposition, finds held-out correspondences better than pairwise and existing multi-network methods, in both pairwise and whole-tuple hits, on benchmarks whose true correspondences are consistent across the three networks by construction; whether the joint coupling itself is the cause is not separated from the new cost and the clustering
 

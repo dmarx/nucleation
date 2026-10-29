@@ -26,7 +26,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1100 NOTE-1241 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1621 LIT-1557 LIT-1560 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
-<!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
 
 # CASE-174: Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids', its genome reduced to about a third of its coding capacity, and hundreds of host proteins imported into it, most encoded by the host's own genes rather than transferred from the symbiont
 

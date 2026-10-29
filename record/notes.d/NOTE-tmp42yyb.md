@@ -34,7 +34,6 @@ summary: >-
   function is modular. Its own example cost, eq. (12), is not concave, so
   the cost it defines is not submodular.
 ---
-<!-- inactive-ok-file: QUESTION-283 CASE-tmph0fxi CLAIM-480 — Open, Proposed or stipulated; the entries this reading bears on, cited as open -->
 
 # NOTE-tmp42yyb: Alvarez-Melis et al. — Structured optimal transport
 

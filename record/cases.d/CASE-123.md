@@ -35,7 +35,6 @@ summary: >-
   the formal model, not an established empirical account of any
   particular regulatory agency." No regulator, outlet or party is meant.
 ---
-<!-- inactive-ok-file: CLAIM-404 — Proposed; the claim this case illustrates, filed with it -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as a source the replies cited that no lawful copy reached -->
 
 # CASE-123: The regulator and two accounts: a formally independent regulator weighs two parties' accounts of a risk, one party comes to supply more of the evidence it reads and the experts it trusts, and the credibility that party gains decides whose evidence is read next; with variants for a one-time perturbation, a press as the evaluator, and an objective that gives one property no weight

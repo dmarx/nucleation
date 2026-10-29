@@ -69,7 +69,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline this objection led to, cited in the history -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-038 CLAIM-044 CLAIM-125 CLAIM-078 — Proposed; cited for the distinction from context dependence, as a non-citer of LIT-264, for the signalling counts and for the success criterion, not as settled -->
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-032 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-219: A change in the global compatibility of a fixed scenario is either a change in contextuality proper, which the behavioural data read show none of, or a change in overlap consistency, which is ordinary context dependence and moves by at most 2ε when each context moves by ε

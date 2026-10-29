@@ -21,7 +21,6 @@ answers:
 summary: >-
   Charvin, Catenacci Volpi and Polani (2023), [LIT-1258](../literature.d/LIT-1258.md), read in [NOTE-981](../notes.d/NOTE-981.md). These are the two finite cases in which nested information-bottleneck optima are guaranteed at every pair of budgets. Neither reaches the record's four-state source, whose Y is not a function of X and whose X has three effective states. [NOTE-981](../notes.d/NOTE-981.md) finds that source not refinable. So binary Y alone does not guarantee nesting. The function case is the degenerate one, where the bottleneck is just a noisy copy of Y.
 ---
-<!-- inactive-ok-file: THEORY-751 — Proposed; the rate–distortion analogue named for comparison, nothing here rests on it -->
 # THEORY-757: The information bottleneck is successively refinable between every pair of budgets when Y is a function of X, by nested erasures of Y, and when X and Y are both binary, where the optimum at each nonzero budget is unique up to merging and relabelling and its two decoder points are the ends of an interval of the source simplex that only widens as the budget grows
 
 ## Source

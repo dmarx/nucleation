@@ -24,8 +24,7 @@ summary: >-
   The oxymonad Monocercomonoides lacks all hallmark mitochondrial proteins; its mitochondrial iron–sulfur cluster pathway was replaced by a cytosolic SUF system taken from bacteria, and the loss was secondary ([LIT-1567](../literature.d/LIT-1567.md)). Its genome otherwise shows canonical eukaryotic complexity ([LIT-1574](../literature.d/LIT-1574.md)). Used as the negative control: loss of function dissolving an integrated compartment, not deepening dependence on it.
 ---
 <!-- inactive-ok-file: THEORY-1098 NOTE-1243 LIT-1567 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
-<!-- inactive-ok-file: LIT-1567 LIT-1574 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
-<!-- inactive-ok-file: QUESTION-277 — Open; the question the case is filed to test -->
+<!-- inactive-ok-file: LIT-1567 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 
 # CASE-168: Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle's essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity
 

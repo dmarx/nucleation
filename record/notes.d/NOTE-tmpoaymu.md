@@ -35,7 +35,6 @@ summary: >-
   with human annotators, partly by construction. It flags most injected
   critical errors and ranks fully detached hallucinations low.
 ---
-<!-- inactive-ok-file: CASE-tmph0fxi — new; the proposed study this reading bears on, cited as open -->
 
 # NOTE-tmplu4ga: Guerreiro et al. — xCOMET
 

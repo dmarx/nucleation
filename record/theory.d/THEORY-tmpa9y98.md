@@ -26,7 +26,6 @@ summary: >-
   different statistics (Pearson between heads, Kendall and F1 against
   humans).
 ---
-<!-- inactive-ok-file: CASE-tmph0fxi — new; the study this bears on, cited as open -->
 
 # THEORY-tmpa9y98: A translation metric that predicts a sentence score and token-level error spans from one shared encoder reaches segment-level agreement with expert MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best among open metrics and GPT-4 prompting at the time, while its score and its own spans agree with each other at Pearson 0.73 to 0.92, so the explanation it gives is far more coherent with its score than either is with the human judgement
 

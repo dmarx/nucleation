@@ -35,7 +35,6 @@ summary: >-
   networks.
 ---
 <!-- inactive-ok-file: THEORY-002 THEORY-008 — Proposed; cited for context, nothing here rests on them -->
-<!-- inactive-ok-file: QUESTION-140 — Open; the trained-network question moved out of this account's promote_when, named as open -->
 
 # THEORY-233: CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant
 

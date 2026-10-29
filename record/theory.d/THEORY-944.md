@@ -29,7 +29,6 @@ summary: >-
   It scores populations, not members, it is cardinal, and populations not
   nested by hull can still beat one another in a cycle.
 ---
-<!-- inactive-ok-file: NOTE-1143 — the reading this is filed from -->
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
 # THEORY-944: The value of the zero-sum game between two populations' evaluation matrices does not depend on which Nash equilibrium is used, is unchanged by adding agents that behave as mixtures of existing members, and is not positive for a population whose agents are all behavioural mixtures of the other's

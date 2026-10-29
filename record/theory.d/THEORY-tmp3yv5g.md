@@ -26,7 +26,6 @@ summary: >-
   Proposed: an empirical finding about one model, said by the authors to
   recur on other datasets, not shown.
 ---
-<!-- inactive-ok-file: CLAIM-342 — Proposed; the claim this finding bears on, cited as open -->
 
 # THEORY-tmp3yv5g: A CycleGAN trained to translate aerial photographs to maps and back satisfies its cycle-consistency loss by encoding details of the photograph in a low-amplitude, high-frequency signal in the generated map: the reconstruction recovers details the visible map lacks, is destroyed by noise of three 8-bit levels or by JPEG compression and survives low-frequency change, and the same sensitivity lets an imperceptible perturbation of almost any map make the reverse generator output any chosen photograph
 

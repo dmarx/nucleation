@@ -27,7 +27,6 @@ summary: >-
   trials, including faults in the restriction maps, which enter the
   discrepancies in the same way as faults in the data.
 ---
-<!-- inactive-ok-file: QUESTION-285 — Open; the question that cited the paper for recalibration, cited as open -->
 
 # THEORY-1092: Read over the sensor domains, the discrepancies between each observation and the restrictions of others can single out a faulty sensor where the consistency radius alone does not: in Robinson's simulated search, a 2° bearing bias was attributed to the right sensor, without prior knowledge of it, because every large discrepancy involved that sensor's domains, while the radius was lower than in the unbiased case
 

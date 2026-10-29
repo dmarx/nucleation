@@ -31,7 +31,6 @@ summary: >-
   optima are soft, and the path of optima through β has phase transitions
   that roughly follow Berlin and Kay's sequence.
 ---
-<!-- inactive-ok-file: THEORY-155 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # NOTE-631: Efficient compression in color naming
 

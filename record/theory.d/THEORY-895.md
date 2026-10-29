@@ -43,7 +43,6 @@ supports:
 - CLAIM-447
 ---
 <!-- inactive-ok-file: THEORY-893 CLAIM-433 CLAIM-440 CLAIM-439 TERM-076 — Proposed; the earlier reading and the claims and term this account bears on, cited as open -->
-<!-- inactive-ok-file: QUESTION-267 QUESTION-268 — Open; the questions it bears on, cited as open -->
 
 # THEORY-895: Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while 'liking' need not rise and may fall; sensitized 'wanting' can oppose the person's cognitive desire and can run without any reportable change in feeling
 

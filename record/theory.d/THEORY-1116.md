@@ -35,7 +35,6 @@ summary: >-
   cross-sectional associations.
 ---
 <!-- inactive-ok-file: THEORY-1114 — Proposed; the self-categorization account this is compared with -->
-<!-- inactive-ok-file: LIT-1408 — Deferred, unread; the contact theory behind the model, named, not leaned on -->
 
 # THEORY-1116: Football fans can identify with a superordinate community of fans across clubs and countries, a European fan community, alongside their club identity rather than in place of it; that identification goes with particularized trust in foreign fans and cross-border viewing, and is independent of attitudes to the sport's governing institutions
 

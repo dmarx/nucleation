@@ -19,7 +19,7 @@ summary: >-
   translation, and says nothing about translation beyond truth
   conditions.
 ---
-<!-- inactive-ok-file: QUESTION-130 CLAIM-469 — Open or Proposed; the entries this result bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-469 — Open or Proposed; the entries this result bears on, cited as open -->
 
 # THEORY-tmpkmtoo: A translation between two logics presented as institutions is correct, in the Satisfaction Condition's sense, when a translated sentence holds in a model exactly when the original holds in the model's translation; given the model translation this fixes the sentence translation up to semantic equivalence, and when every model of the target is reached it preserves and reflects entailment, so one logic's prover can decide the other's; but the condition alone admits collapsing translations and is relative to a model translation it does not supply
 

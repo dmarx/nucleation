@@ -51,7 +51,6 @@ summary: >-
   is a separation of time scales ([CLAIM-478](CLAIM-478.md)), and entrenches what it
   makes cheap.
 ---
-<!-- inactive-ok-file: TERM-092 — Proposed; the terms this claim is stated in, proposed the same evening -->
 <!-- inactive-ok-file: THEORY-1056 THEORY-1084 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-470 CLAIM-478 CLAIM-476 CLAIM-184 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1634 LIT-1643 LIT-1662 LIT-1655 LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->

@@ -42,8 +42,6 @@ summary: >-
   the evidence is unpublished.
 ---
 <!-- inactive-ok-file: THEORY-1114 THEORY-126 — Proposed; the account this rivals and a collective-intentionality account it is compared with -->
-<!-- inactive-ok-file: LIT-1723 — Unavailable; the book whose account this revises, named, not leaned on -->
-<!-- inactive-ok-file: CASE-104 QUESTION-119 — named as the case and question this bears on -->
 
 # THEORY-1112: Perceiving people as a group entity, rather than as members of a common category, requires detecting or inferring collective intentionality among them; similarity, and categorization into an equivalence class, yields interchangeable members but not a group
 

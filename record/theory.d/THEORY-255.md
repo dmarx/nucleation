@@ -50,7 +50,6 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-807 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-119 CLAIM-038 THEORY-013 — Proposed; the claims and account this bears on, named and not leaned on -->
-<!-- inactive-ok-file: LIT-316 — Unavailable; Busemeyer and Bruza, named as what would settle this, not leaned on -->
 
 # THEORY-255: In Aerts's subspace model of Hampton's membership data, and in any lattice whose membership weight is order-preserving, whatever its negation, taking concept conjunction and disjunction as meet and join cannot produce overextension or underextension, so a model of the guppy-type deviations must take conjunction as some operation other than the meet or drop the monotone weight, while the Kolmogorov-type deviations can be had from the meet of a non-Boolean subspace lattice
 

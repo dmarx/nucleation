@@ -98,7 +98,6 @@ grounds:
 <!-- inactive-ok-file: CLAIM-355 CLAIM-411 CLAIM-413 THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1346 LIT-1348 LIT-1351 LIT-1353 LIT-1354 LIT-1355 LIT-1359 — Deferred; works registered unread, cited as such -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-018 — Rejected; the argument this claim's support verdict moved to -->
 # CLAIM-412: Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization
 

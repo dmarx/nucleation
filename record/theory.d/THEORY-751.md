@@ -45,7 +45,6 @@ summary: >-
 bears_on:
 - QUESTION-220
 ---
-<!-- inactive-ok-file: THEORY-163 — Proposed; an open reading this bears on, nothing here rests on it -->
 # THEORY-751: For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error
 
 ## Source

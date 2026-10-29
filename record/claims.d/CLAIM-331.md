@@ -75,7 +75,6 @@ supports:
 - CLAIM-344
 - CLAIM-423
 ---
-<!-- inactive-ok-file: NOTE-1015 — new reading, cited for what it assumes -->
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->

@@ -39,7 +39,6 @@ bears_on:
 - QUESTION-222
 ---
 <!-- inactive-ok-file: THEORY-257 THEORY-818 — Proposed; the criterion whose conditioning set this matches, and the Lorenz 96 finding beside which the paper's examples sit, nothing here rests on their being settled -->
-<!-- inactive-ok-file: NOTE-1029 LIT-1307 — new reading, filed together -->
 
 # THEORY-819: For an invertible map with an invariant measure, projecting onto the closed span of the whole past of chosen functions of the resolved variables (a Wiener projection) turns the exact discrete Mori–Zwanzig equation into one with no memory term: the next resolved value is a causal linear filter of those past functions plus a residual orthogonal to all of them, so the memory is carried by the coarse variable's own history; a finite NARMAX form follows only by a rational approximation of the filter, uncontrolled in general but exact for a scalar coarse variable of a stable linear Gaussian VAR(1)
 

@@ -48,7 +48,6 @@ summary: >-
   and can be its object. It does not say that inquiry makes what it
   investigates.
 ---
-<!-- inactive-ok-file: THEORY-1084 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-419 CLAIM-475 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1645 LIT-1651 LIT-1652 LIT-1675 LIT-1641 LIT-1665 LIT-1637 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
 

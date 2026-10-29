@@ -16,7 +16,6 @@ summary: >-
   minority structure; a toy run showed seed-dependent redistribution, not
   erasure.
 ---
-<!-- inactive-ok-file: CLAIM-348 — Proposed; the claim this bears on, cited as open -->
 
 # THEORY-tmp0q3yi: With the couplings fixed, the square-loss Gromov–Wasserstein barycenter of several similarity matrices is their realigned average weighted by the barycenter weights, and the KL barycenter its weighted geometric average, so PSD and infinitely divisible inputs give barycenters of the same kind; but the barycenter's size, histogram and weights are chosen beforehand, the couplings are only stationary points of a non-convex problem, and the iteration's convergence at the step size used is not proved, so a structure carried by one input is shrunk by its weight at best and can be lost or redistributed by those choices
 

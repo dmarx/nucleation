@@ -20,7 +20,6 @@ summary: >-
   class labels, so they say what a sheaf can do, not that one can be
   found without the labels.
 ---
-<!-- inactive-ok-file: QUESTION-282 QUESTION-130 — Open; the questions this result bears on, cited as open -->
 
 # THEORY-tmpfzykx: In the time limit, sheaf diffusion on a graph projects node features onto the harmonic space of its sheaf Laplacian, and which labellings that space can linearly separate depends on the class of restriction maps: a weighted graph Laplacian cannot separate the sides of a balanced bipartite graph, signed one-dimensional maps separate any two classes and no one-dimensional sheaf separates three, while diagonal maps with d ≥ C and orthogonal bundles with C ≤ 2d (d = 2, 4 and, against the paper, 8) separate any labelling; every separating sheaf is built from the labels
 

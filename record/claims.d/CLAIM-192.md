@@ -51,7 +51,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as stages of the translation exchange's thesis sequence, not as standing -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; named as the question this claim sets aside -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-127 — Proposed; named in the note of 2026-10-19 as the general impossibility this claim does not use -->
 
 # CLAIM-192: A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions
 

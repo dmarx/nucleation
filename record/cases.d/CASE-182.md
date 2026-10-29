@@ -27,7 +27,6 @@ summary: >-
   recovers, after a median of 460 rounds. The scored control at β = 100
   entrenches no one. Code: scratch/formal/trust_loop.py.
 ---
-<!-- inactive-ok-file: CLAIM-277 — Proposed when this case was filed, and promoted on it -->
 
 # CASE-182: Two operators under one update rule, endorsement moving toward observed outcomes: scored every round, the more accurate one holds the lead durably whatever the start; scored only when it acts, under sharp selection, whichever gained influence early keeps it
 

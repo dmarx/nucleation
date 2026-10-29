@@ -32,7 +32,6 @@ summary: >-
   how it splits among several sinks, or invariance to duplicated
   strategies, which the reader found it lacks.
 ---
-<!-- inactive-ok-file: NOTE-1156 — the reading this is filed from -->
 <!-- inactive-ok-file: CLAIM-451 THEORY-896 — Proposed; named in prose, nothing here rests on them -->
 
 # THEORY-942: The α-Rank chain over pure strategy profiles, built from Fermi-imitation fixation probabilities in finite populations with rare mutation, has a unique stationary distribution at every finite ranking intensity; as the intensity grows without bound its transitions become those of Markov chains confined to the sink strongly connected components of the game's weakly-better-response graph, each of which lies inside a single chain component of the replicator flow

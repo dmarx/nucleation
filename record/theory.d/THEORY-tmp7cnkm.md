@@ -16,7 +16,6 @@ summary: >-
   about exact ties; with noisy data, symmetries become near-ties, and the
   theorem says nothing about how near.
 ---
-<!-- inactive-ok-file: CASE-055 CASE-tmph0fxi — stipulated; the designs whose anchors this bears on -->
 
 # THEORY-tmp7cnkm: Anchors entered as node features in fused Gromov–Wasserstein break a structural tie only when they move under it: with α strictly between 0 and 1, the zero-cost matchings of a structure with itself are exactly its automorphisms that fix every anchor, so a 6-cycle has 12 with no anchor, 2 with one anchor, 1 with two adjacent anchors and still 2 with two antipodal ones, and whether a set of anchors identifies the correspondence can be decided from the structure before any fit
 

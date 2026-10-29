@@ -36,7 +36,6 @@ summary: >-
   the compatibility cost when interventions are many; with few, a
   Hamming cost does better.
 ---
-<!-- inactive-ok-file: QUESTION-282 — Open; the question this reading bears on, cited as open -->
 
 # NOTE-tmpohrox: Felekis et al. — Causal optimal transport of abstractions
 

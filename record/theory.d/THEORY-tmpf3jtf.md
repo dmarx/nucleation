@@ -19,7 +19,7 @@ summary: >-
   family, and the antecedent is an inductive bias by the companion
   paper's own statement ([LIT-tmpbihhf](../literature.d/LIT-tmpbihhf.md)).
 ---
-<!-- inactive-ok-file: QUESTION-130 CLAIM-471 — Open or Proposed; the entries this result bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-471 — Open or Proposed; the entries this result bears on, cited as open -->
 
 # THEORY-tmpf3jtf: If every entity's O(d) frame may change independently and relation transports change as Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹, then functions of the transports alone carry no invariant information except around cycles, a triangle's invariants are exactly the class functions of its holonomy H = TᵢⱼTⱼₖTₖᵢ, and an equivariant update of an edge from one cycle through it is Ψ(H)Tᵢⱼ with Ψ conjugation-equivariant; the symmetry fixes a family of updates, not one mechanism, and says nothing about whether a task has the symmetry
 

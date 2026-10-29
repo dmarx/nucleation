@@ -18,7 +18,6 @@ summary: >-
   that signatures have colimits in a given logic, that the glued theory
   is consistent, or anything about proofs: closure is semantic.
 ---
-<!-- inactive-ok-file: CLAIM-469 — Proposed; the claim this result bears on, cited as open -->
 
 # THEORY-tmpseu33: In any logical system presented as an institution, theories can be glued wherever their vocabularies can: if the category of signatures has colimits, so does the category of theories, the glued theory being the semantic closure of the union of the parts' translated sentences; and because constraints requiring free or initial interpretation also obey the Satisfaction Condition, theories carrying them glue the same way
 

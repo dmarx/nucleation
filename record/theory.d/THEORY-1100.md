@@ -48,7 +48,6 @@ summary: >-
   and the endosymbiont's genes need not move. The origins are stated in
   summary, not counted, and the import mechanisms are unknown.
 ---
-<!-- inactive-ok-file: NOTE-1241 — the reading filed with this, not yet merged -->
 <!-- inactive-ok-file: QUESTION-277 CASE-174 CASE-167 THEORY-1049 THEORY-1107 — Open or Proposed; the question, cases, accounts and unread works set beside this, nothing here rests on them -->
 
 # THEORY-1100: On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria

@@ -51,7 +51,7 @@ bears_on:
 - QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-781 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
-<!-- inactive-ok-file: THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
+<!-- inactive-ok-file: THEORY-210 — Proposed or Open; the accounts and question this one bears on, open -->
 
 # THEORY-213: Every mirror symmetry of a network's per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss's Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons
 

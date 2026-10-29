@@ -51,7 +51,6 @@ illustrated_by:
 bears_on:
 - QUESTION-065
 ---
-<!-- inactive-ok-file: QUESTION-284 QUESTION-280 — the questions that press on this claim, Open -->
 <!-- inactive-ok-file: CLAIM-363 CLAIM-348 CLAIM-174 CLAIM-195 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
 
 # CLAIM-405: An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it

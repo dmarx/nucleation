@@ -26,7 +26,6 @@ summary: >-
   the paper's explanation of its accuracy, that the model learns the
   right geometry, is tested only on the synthetic case.
 ---
-<!-- inactive-ok-file: QUESTION-130 — Open; the question this result bears on, cited as open -->
 
 # THEORY-tmpe8kmr: A graph network that learns its sheaf restriction maps from node features at each layer reaches the top of the standard small heterophilic node-classification benchmarks and stays within about one point of the best on homophilic ones; on a synthetic balanced bipartite graph it learns the negative transport the theory prescribes, but whether the maps it learns on real graphs have the geometry the theory credits for its success has not been examined
 

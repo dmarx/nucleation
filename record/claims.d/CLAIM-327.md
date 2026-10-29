@@ -41,7 +41,6 @@ illustrated_by:
 ---
 <!-- inactive-ok-file: LIT-1122 — Deferred; unread -->
 
-<!-- inactive-ok-file: LIT-1122 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-327: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 
 ## The claim

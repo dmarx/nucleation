@@ -16,7 +16,6 @@ summary: >-
   real response matrices have exact symmetries; noisy ones give
   near-ties, which is the practical form of the threat.
 ---
-<!-- inactive-ok-file: CASE-tmph0fxi — stipulated; the design whose identification threat this states -->
 
 # THEORY-tmpvn82m: Co-optimal transport between two data matrices of equal shape with uniform weights vanishes exactly when one is the other with its rows and its columns separately permuted, and its objective is unchanged when a pair of optimal plans is composed with any joint relabelling of rows and columns that leaves a matrix unchanged; its sample and feature couplings are therefore identified at best up to that joint symmetry group, which can exchange a block of samples together with its block of features though neither exchange alone is a symmetry, and the paper proves no uniqueness beyond it
 

@@ -33,7 +33,6 @@ summary: >-
 bears_on:
 - QUESTION-217
 ---
-<!-- inactive-ok-file: THEORY-744 — Proposed; the companion account of the α-family limit, open -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-186 — Proposed; accounts this is contrasted with, nothing here rests on their being settled -->
 
 # THEORY-745: For the reversible walk p = k/d built from a symmetric non-negative kernel on a finite connected set, the t-step diffusion distance is exactly the Euclidean distance between the coordinates λ_l^t ψ_l, and keeping only the coordinates with |λ_l|^t > δ|λ₁|^t errs in D_t² by at most δ²|λ₁|^{2t}(1/π(x) + 1/π(y)), an absolute bound and not the relative accuracy δ that Coifman and Lafon state; the truncated maps are nested as t grows, so with δ fixed the steps t order a refinement chain by eigenvalue modulus, while untruncated they are all invertible images of one another

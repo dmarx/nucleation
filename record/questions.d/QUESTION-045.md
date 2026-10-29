@@ -34,7 +34,6 @@ bearing:
 - THEORY-050
 - THEORY-058
 ---
-<!-- inactive-ok-file: THEORY-285 — Proposed; a model-level reading listed with its limit, an answer in part -->
 
 # QUESTION-045: Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and does cutting the maintaining link, with the regime's content held fixed, produce lasting change?
 

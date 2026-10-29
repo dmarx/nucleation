@@ -31,7 +31,6 @@ summary: >-
   with Barlow Twins, SimCLR and VICReg show the same stepwise rank growth,
   which is an empirical finding, not a consequence of the theory.
 ---
-<!-- inactive-ok-file: QUESTION-052 — Proposed or Open; the theories that cite this paper and the question they answer -->
 
 # NOTE-741: Simon et al. — On the Stepwise Nature of Self-Supervised Learning
 

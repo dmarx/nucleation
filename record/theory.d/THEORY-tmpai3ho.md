@@ -17,7 +17,6 @@ summary: >-
   the paper states in two separate places. Nothing here makes the chosen
   class the right one for given data, and nothing in it is local.
 ---
-<!-- inactive-ok-file: QUESTION-130 — Open; the question whose distinction this result sharpens -->
 
 # THEORY-tmpai3ho: Optimal transport between two point sets related by one unknown global linear map from a Schatten ℓp ball reduces, when every admissible map preserves angles or the target is whitened, to choosing the coupling Γ that maximises the dual Schatten-q norm of the transported cross-covariance XΓYᵀ: the nuclear norm when the maps are orthogonal, and the Frobenius norm when they lie on a Frobenius sphere, which is exactly the Gromov–Wasserstein problem with cosine similarity and squared loss; in every case one transformation acts on the whole space
 

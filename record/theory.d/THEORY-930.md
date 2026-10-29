@@ -30,7 +30,6 @@ summary: >-
   league shows its training system's geometry, the authors say. A
   qualitative profile with a fitted skew-normal curve and no test.
 ---
-<!-- inactive-ok-file: NOTE-1146 — the reading this is filed from -->
 
 # THEORY-930: In empirical games built from about a thousand sampled search agents in eight small board games, and in the AlphaStar league, Nash cluster size peaks at intermediate transitive strength and narrows toward the strongest and the weakest strategies, while Blotto, the disc game, Kuhn poker and noisy Elo games do not show that profile
 

@@ -41,7 +41,6 @@ summary: >-
   not a neural signature of an experience with little content.
 ---
 <!-- inactive-ok-file: CLAIM-412 CLAIM-411 THEORY-866 — Proposed; the claims and the sibling account this one bears on, named and not leaned on -->
-<!-- inactive-ok-file: LIT-1351 — Active once merged; the sibling reading, named -->
 
 # THEORY-870: Experienced Transcendental Meditation practitioners report more pure awareness than matched counting controls, and multivariate EEG separates the meditation period from counting and from rest, but the reports are not shown to track any EEG feature
 

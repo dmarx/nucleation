@@ -46,7 +46,6 @@ summary: >-
   eukaryote. The order is inferred, not dated, and absence is limited by
   annotation.
 ---
-<!-- inactive-ok-file: NOTE-1243 — the reading filed with this, not yet merged -->
 <!-- inactive-ok-file: QUESTION-277 CASE-168 THEORY-1100 THEORY-1049 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
 
 # THEORY-1098: On Karnkowska and colleagues' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found

@@ -23,7 +23,7 @@ summary: >-
   anything about learned operators, language, or relations not given as
   group elements.
 ---
-<!-- inactive-ok-file: CASE-179 CLAIM-342 — Active study or Proposed; the entries this result bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-342 — Active study or Proposed; the entries this result bears on, cited as open -->
 
 # THEORY-tmpy1s8c: On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority, without beating spectral synchronization; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power
 

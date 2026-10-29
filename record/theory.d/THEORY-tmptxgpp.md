@@ -27,7 +27,6 @@ summary: >-
   predicate structure the theory takes as given, which its footnote 4
   concedes is a modelling choice. Proposed.
 ---
-<!-- inactive-ok-file: LIT-tmpprsxm — Deferred; the alignment method this is compared with, cited as unread -->
 
 # THEORY-tmptxgpp: People interpreting an analogy carry relations from base to target and drop the attributes of objects, and among the relations they prefer those bound into a system by higher-order relations, such as causal or mathematical constraints, over isolated ones (structure-mapping and its systematicity principle)
 
