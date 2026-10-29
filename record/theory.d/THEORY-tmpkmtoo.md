@@ -10,7 +10,7 @@ date: '2026-10-29'
 source:
 - LIT-1661
 summary: >-
-  Goguen and Burstall (1992), LIT-1661, read in NOTE-tmpyi64y from the
+  Goguen and Burstall (1992), [LIT-1661](../literature.d/LIT-1661.md), read in [NOTE-tmpyi64y](../notes.d/NOTE-tmpyi64y.md) from the
   published JACM article: Definition 32 (p. 125), Proposition 33 and
   Proposition 35 (p. 126), Theorem 39 (pp. 127–129). Active: proved, and
   checked on toy morphisms between propositional institutions. The
@@ -25,8 +25,8 @@ summary: >-
 
 ## Source
 
-Goguen and Burstall (1992), LIT-1661, §4.1, pp. 124–129 of the Journal of
-the ACM 39(1); read in NOTE-tmpyi64y.
+Goguen and Burstall (1992), [LIT-1661](../literature.d/LIT-1661.md), §4.1, pp. 124–129 of the Journal of
+the ACM 39(1); read in [NOTE-tmpyi64y](../notes.d/NOTE-tmpyi64y.md).
 
 ## What was actually shown
 

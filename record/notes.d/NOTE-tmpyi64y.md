@@ -369,7 +369,7 @@ the translated sentences.
   both sentences and models, which are functors on **Sign**. So the
   symmetry is between theories and model classes over a fixed notation,
   not between notation and what it describes.
-- **CLAIM-477: support for the "neither prior" half, and a limit.**
+- **[CLAIM-477](../claims.d/CLAIM-477.md): support for the "neither prior" half, and a limit.**
   Within an institution, a theory is fixed by its model class and a model
   class by its theory, up to closure (p. 104). That is the claim's
   "neither … prior without qualification" for specifications and
@@ -377,9 +377,9 @@ the translated sentences.
   claim's other half, that relata are partly individuated by the
   constraints on their relations: a model in an institution is an object
   of **Mod**(Σ) given in advance, and only its satisfaction behaviour is
-  constrained. What makes two isomorphic models two is CLAIM-136's
+  constrained. What makes two isomorphic models two is [CLAIM-136](../claims.d/CLAIM-136.md)'s
   question, and the paper does not ask it.
-- **CLAIM-476 and CLAIM-469: institution morphisms are a candidate form
+- **[CLAIM-476](../claims.d/CLAIM-476.md) and [CLAIM-469](../claims.d/CLAIM-469.md): institution morphisms are a candidate form
   for record migrations, with three cautions.** The exchange suggested
   institution theory for comparing migrations when the specification
   language changes. The paper supplies: renaming, enrichment and binding
@@ -401,8 +401,8 @@ the translated sentences.
   lint rules, which are closer to a consequence relation than to a model
   class. Fiadeiro and Sernadas's π-institutions [30] (p. 100), built on
   consequence, may fit better. Nothing in the paper says a record grammar
-  is an institution, and CLAIM-469 does not need it to.
-- **CLAIM-470: a formal case for the first two clauses, not for the
+  is an institution, and [CLAIM-469](../claims.d/CLAIM-469.md) does not need it to.
+- **[CLAIM-470](../claims.d/CLAIM-470.md): a formal case for the first two clauses, not for the
   last.** A specification text denotes a theory, and a theory denotes a
   model class (p. 98); constraints restrict the admissible models
   (§3). That is "a question fixes which differences would count as an
@@ -411,13 +411,13 @@ the translated sentences.
   change of signature or of institution, which the paper treats as a
   morphism between fixed structures. It says nothing about how a new
   signature is found.
-- **QUESTION-130 and CLAIM-tmpgwud2: satisfaction-preserving translation
+- **[QUESTION-130](../questions.d/QUESTION-130.md) and [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md): satisfaction-preserving translation
   is a standard of correctness distinct from structural resemblance and
   from route agreement.** Three points, the second and third my own
   constructions on the toy institution.
   1. Given the model translation β, Proposition 33(2) fixes the sentence
      translation up to semantic equivalence: α_Σ(e′) must hold in exactly
-     the models β sends into e′'s model class (p. 126). In QUESTION-130's
+     the models β sends into e′'s model class (p. 126). In [QUESTION-130](../questions.d/QUESTION-130.md)'s
      terms, the transport of sentences is fixed by an independently
      established relation, the correspondence of models; it is chosen
      only in that β is.
@@ -431,7 +431,7 @@ the translated sentences.
      every model to one fixed model m₀ and every sentence e′ to "true" or
      "false" according as m₀ ⊨ e′: the condition holds, and entailment
      differed from the source in 232 of 840 toy tests. What excludes it is
-     soundness, β surjective (Proposition 35). This is CLAIM-tmpgwud2's
+     soundness, β surjective (Proposition 35). This is [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md)'s
      point in another key: a constant rendering is coherent and loses
      everything. A morphism-level property, soundness, measures fidelity;
      equality of composite morphisms along two routes, which is all that
@@ -445,7 +445,7 @@ the translated sentences.
   give (a) the model translation, which must be supplied, and natural
   languages have no given category of models or functor between them;
   (b) anything beyond truth conditions, so force, register and
-  implicature, the promise–prediction difference of CLAIM-tmpgwud2, count
+  implicature, the promise–prediction difference of [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md), count
   only if they are written into sentences and models; (c) graded or
   partial correctness, since satisfaction is two-valued and the condition
   is an exact "iff" for every model and sentence, with no measure of loss;
