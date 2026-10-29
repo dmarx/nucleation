@@ -18,7 +18,15 @@ promote_when: >-
   twenty-questions illustration cannot settle it: they are described, not
   sampled.
 title: "What a chat agent's 'I' refers to is fixed by the context of use, not by the system: the agent role-plays characters that carry the self-conception the corpus and the conversation give them, and its uses of 'I' can pick out the model, present in many simultaneous instances, or the single conversation, none of them the self by nature"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Supports entry for CLAIM-029 removed by the thirteenth status
+    review (ADR-057, ADR-058): that claim now lists this account under
+    corroborated_by, citing its role-play framing as a prior
+    statement, with LIT-460 as its ground. The account is unchanged.
 tags:
 - self
 - individuation
@@ -36,8 +44,6 @@ summary: >-
   It does not say that there is "no-one at home" or that no candidate is a
   self, which the papers assert without a criterion, and its subject is a
   2024-vintage chat agent without tools or memory across conversations.
-supports:
-- CLAIM-029
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-476 THEORY-650 THEORY-691 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-173 CLAIM-029 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
@@ -144,3 +150,11 @@ behaves so is untested.
   framing stated above.
 - **[THEORY-173](THEORY-173.md)** treats large models as a cultural technology rather than
   agents and calls the simulator account compatible from the other side.
+
+## Note of 2026-10-29: what holds it back
+
+No sample of deployed conversations has been coded for the referent of 'I'.
+The two conceptions rest on Shanahan's two invented usages, and no
+regeneration study shows which self-conception a fine-tuned assistant
+enacts. Products with memory across conversations, which could restore one
+persisting referent, are outside both papers.

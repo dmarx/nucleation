@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwv313
 title: 'A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions'' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-11'
@@ -38,6 +38,15 @@ history:
     CLAIM-154, on which this claim rests, is narrowed to candidates whose
     model stays regular at the switch-off, conceding CLAIM-188. The
     claim is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    THEORY-092 moved from grounds to corroborated_by by the thirteenth
+    status review (ADR-057, ADR-058). The note of 2026-10-12 added it
+    as evidence that grounds test 3 'weakly', and its subject is
+    intelligence, not agency; the tests do not stand on it.
+    THEORY-092's supports entry for this claim is removed. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -73,6 +82,7 @@ grounds:
 - LIT-911
 - LIT-909
 - LIT-398
+corroborated_by:
 - THEORY-092
 summary: >-
   The assistant's admission test for the owner's thesis, filed at the

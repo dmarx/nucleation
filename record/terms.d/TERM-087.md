@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - TERM-tmp0est4
 title: 'cut, and which sense: a Cartesian cut, Pattee''s epistemic cut, or Barad''s agential cut, enacted by an apparatus'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Corrected by the thirteenth status review (ADR-057): LIT-1657 was
+    called unread, in the summary ('unread') and in the definition
+    ('LIT-1653 unavailable, LIT-1657 unread'); a reading was attempted
+    and no lawful text was reached, so it is Unavailable, as LIT-1653
+    is. The definition is unchanged.
 tags:
 - philosophy-of-science
 - metaphysics
@@ -18,7 +27,7 @@ summary: >-
   epistemic cut ([LIT-1190](../literature.d/LIT-1190.md), read in [NOTE-952](../notes.d/NOTE-952.md)) is the functional separation
   of symbolic description from the dynamics it measures or controls, and
   is epistemic, not ontological. Barad's agential cut ([LIT-1653](../literature.d/LIT-1653.md),
-  [LIT-1657](../literature.d/LIT-1657.md), unread) is a differentiation enacted within a phenomenon
+  [LIT-1657](../literature.d/LIT-1657.md), both unavailable) is a differentiation enacted within a phenomenon
   by an apparatus, through which boundaries and properties become
   determinate. Proposed: the record had no word for them, and they recur
   in [CLAIM-476](../claims.d/CLAIM-476.md).
@@ -64,7 +73,7 @@ which.
    known as a Heisenberg cut" (p. 367), and Faye and Jaksland note that a
    movable separation of object and apparatus is "a view that Heisenberg
    advocates in opposition to Bohr". Barad's texts are not read here
-   ([LIT-1653](../literature.d/LIT-1653.md) unavailable, [LIT-1657](../literature.d/LIT-1657.md) unread); the sense rests on the
+   ([LIT-1653](../literature.d/LIT-1653.md) and [LIT-1657](../literature.d/LIT-1657.md) both unavailable); the sense rests on the
    exchange's account and on the two readings' quotations of her.
 
 A9 §4 drew the contrast that makes the term worth having: "**Pattee's
@@ -101,3 +110,11 @@ corrects the third sense. Jaksland 2024 and Faye and Jaksland 2021, read on
 2026-10-27, corrected its relation to the Heisenberg cut and supplied
 Barad's definition of an apparatus at second hand; the text above is
 corrected in place, the TERM being unadopted.
+
+## Note of 2026-10-29: what holds it back
+
+The Cartesian and epistemic senses are settled and used consistently
+(CLAIM-476, TERM-089). The agential sense rests on the exchange's account of
+Barad and on Faye and Jaksland's quotations of her (NOTE-1220, NOTE-1230).
+No text of Barad's has been read, since LIT-1653 and LIT-1657 are both
+Unavailable, so that sense waits on a first-hand reading of either.

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpibrot
 title: 'TV Tropes: a community-curated catalogue of narrative tropes and their instances, such as the Gilligan Cut'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The circularity point, that trope descriptions are written to fit
+    their examples, was cited to CLAIM-145; since 2026-10-28 it is
+    ARG-014 (ADR-061), so the citation now points there (thirteenth
+    status review, ADR-057). The entry is unchanged otherwise.
 standing: documented
 kind: specimen
 tags:
@@ -29,7 +37,8 @@ supports:
 - CLAIM-147
 - CLAIM-222
 ---
-<!-- inactive-ok-file: CLAIM-147 CLAIM-145 CLAIM-034 CLAIM-002 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-147 CLAIM-034 CLAIM-002 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: ARG-014 — Rejected; the verdict that labels written to fit their examples cannot validate the account -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp this case's analysis repeats, not as settled -->
 
 # CASE-038: TV Tropes: a community-curated catalogue of narrative tropes and their instances, such as the Gilligan Cut
@@ -95,7 +104,7 @@ being objectively unique.**"
 
 The annotations are the community's. A trope's description was written to
 fit its examples, and examples are added that fit the description
-([CLAIM-145](../claims.d/CLAIM-145.md)). So agreement with the catalogue's labels measures
+(ARG-014). So agreement with the catalogue's labels measures
 editorial agreement, and the catalogue gives candidates for testing, not
 validation. That is [QUESTION-005](../questions.d/QUESTION-005.md) for this corpus. A155 calls the trope
 "a candidate communicative invariant", and nothing yet shows a stable core
