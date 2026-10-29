@@ -25,6 +25,10 @@ LIVE = {"Active", "Proposed"}
 # (luria.yaml's stale_days) the entry is listed as held, not as work (ADR-057).
 BLOCKER = re.compile(r"^## Note of (\d{4}-\d{2}-\d{2}): what holds it back", re.M)
 HELD_DAYS = 14
+# A target filed with a concession already in its text says so, naming the objections:
+# "## Note of 2026-10-29: filed with its concessions". A version bump would record a revision
+# that never happened, and no rule over dates can tell such a target from an overstated one.
+FILED_WITH = re.compile(r"^## Note of (\d{4}-\d{2}-\d{2}): filed with its concessions\n(.*?)(?=^## |\Z)", re.M | re.S)
 
 
 def as_list(x) -> list[str]:
@@ -84,8 +88,20 @@ class Record:
         return [t for f in NEEDS.get(scheme(code), []) for t in as_list(fm.get(f)) if t in self.docs]
 
     def live_objections(self, code: str) -> list[str]:
+        """Objections that still stand: Proposed ones, and held ones whose concession is unwritten.
+
+        A held objection answered by narrowing its target no longer stands against it (ADR-057).
+        """
         fm = self.docs[code]
-        return [t for f in ("objected_by", "countered_by") for t in as_list(fm.get(f)) if self.status(t) in LIVE]
+        return [t for f in ("objected_by", "countered_by") for t in as_list(fm.get(f))
+                if self.status(t) == "Proposed" or (self.status(t) == "Active" and not self.written(t, code))]
+
+    def written(self, objection: str, target: str) -> bool:
+        """Whether the target has been revised for the objection, or says it was filed with it."""
+        on = str(self.docs[objection].get("date", ""))
+        revised = [str(h.get("date", "")) for h in self.docs[target].get("history") or [] if isinstance(h, dict)]
+        filed = [d for d, text in FILED_WITH.findall(self.bodies.get(target, "")) if objection in text]
+        return any(d >= on for d in revised + filed)
 
     def held_since(self, code: str, today: date) -> date | None:
         """The date of the entry's latest blocker note, if it is recent enough to stand."""
@@ -136,23 +152,21 @@ class Record:
                 for c in as_list(fm.get("concludes")) if c in self.docs and self.status(c) != "Active"]
 
     def unwritten_concessions(self) -> list[tuple]:
-        """Active granted claims whose objection's target has no revision dated on or after the grant.
+        """Active objections whose target has not been revised for them.
 
-        ADR-059 records a conceded objection by revising its target; a target unchanged since the
-        concession still says what was conceded.
+        An Active objection is one the record holds true, whatever its role: granted, or a counter
+        that went Active when it was conceded. ADR-059 records a conceded objection by revising its
+        target; a target unchanged since the concession still says what was conceded.
         """
         out = []
         for g, fm in sorted(self.docs.items()):
-            if scheme(g) != "CLAIM" or self.status(g) != "Active" or fm.get("role") != "granted":
+            if scheme(g) != "CLAIM" or self.status(g) != "Active":
                 continue
-            granted_on = str(fm.get("date", ""))
             for t in as_list(fm.get("objects_to")):
-                if t not in self.docs or self.status(t) in RETIRED:
-                    continue
-                revised = [str(h.get("date", "")) for h in self.docs[t].get("history") or []
-                           if isinstance(h, dict)]
-                if not any(d >= granted_on for d in revised):
-                    out.append((g, t, granted_on, max(revised, default="never")))
+                if t in self.docs and self.status(t) not in RETIRED and not self.written(g, t):
+                    revised = [str(h.get("date", "")) for h in self.docs[t].get("history") or []
+                               if isinstance(h, dict)]
+                    out.append((g, t, str(fm.get("date", "")), max(revised, default="never")))
         return out
 
     def retired_premises(self) -> list[tuple]:
