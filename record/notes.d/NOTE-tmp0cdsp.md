@@ -107,14 +107,14 @@ own.
 
 ## Connections
 
-- **Tajfel et al. 1971 (LIT-tmp6t6ny)**, unread. This is not a
+- **Tajfel et al. 1971 ([LIT-tmp6t6ny](../literature.d/LIT-tmp6t6ny.md))**, unread. This is not a
   replication of that experiment; it uses the same overestimator
   induction. The finding that favouritism tracks identification is
-  consistent with Hornsey's report (NOTE-tmp3dav9) that SCT effects appear
+  consistent with Hornsey's report ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)) that SCT effects appear
   under high salience or identification.
-- **Rubin & Hewstone (LIT-tmpv3dgs)**, unread, and the self-esteem debate:
+- **Rubin & Hewstone ([LIT-tmpv3dgs](../literature.d/LIT-tmpv3dgs.md))**, unread, and the self-esteem debate:
   not addressed here.
-- **The owner's thesis (CLAIM-tmpjylq8).** About a third of choosers, with
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** About a third of choosers, with
   pay equalized and no one watching, used a randomizer or took the hard
   task. That is fair or altruistic choice in a minimal setting where no
   group was at stake in the choice. It is not evidence about motive, but
@@ -125,7 +125,7 @@ own.
 - **The minimal-group effect.** It is the record's only preregistered
   evidence on it, and it qualifies the 1971 claim that mere
   categorization suffices: here it sufficed only for those who identified.
-- **THEORY-tmpo85ke.** It fits the account's emphasis on identification
+- **[THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md).** It fits the account's emphasis on identification
   and salience.
 - **No THEORY filed.** It is a replication of a moral-hypocrisy effect,
   outside the record's current questions.

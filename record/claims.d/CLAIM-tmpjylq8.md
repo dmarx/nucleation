@@ -96,7 +96,7 @@ The record holds four kinds of support:
 
 ## Note of 2026-10-29: team reasoners and team benefactors
 
-Salice and Miyazono (NOTE-tmpaso81) distinguish two people who both act
+Salice and Miyazono ([NOTE-tmpaso81](../notes.d/NOTE-tmpaso81.md)) distinguish two people who both act
 for a group.
 
 - **The team benefactor** reasons in the first person singular about the
@@ -107,7 +107,7 @@ for a group.
 The thesis fits the team reasoner best. Their good is the we's, and if the
 we is their self, it is self-interest on a larger self. It fits the team
 benefactor least: they care about a group without counting themselves in
-it. Salice and Miyazono also offer what CLAIM-tmprudek asks for, a mark of
+it. Salice and Miyazono also offer what [CLAIM-tmprudek](CLAIM-tmprudek.md) asks for, a mark of
 self-extension apart from caring: the activated social self, triggered by
 group cues and not under direct rational control. A sharpened thesis would
 say that collectivist action by team reasoners is self-interest on an

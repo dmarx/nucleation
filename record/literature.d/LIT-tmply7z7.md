@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053: a
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md): a
   lawful free copy exists in the University of Copenhagen's repository (re
   searchprofiles.ku.dk/files/255842098/Second_person_engagement_self_alien
   ation_and_group_identification.pdf, published version, listed by

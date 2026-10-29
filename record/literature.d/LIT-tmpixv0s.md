@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp0cdsp) from the authors' accepted
+  read in full 2026-10-29 ([NOTE-tmp0cdsp](../notes.d/NOTE-tmp0cdsp.md)) from the authors' accepted
   manuscript on OSF; worth reading as the record's only preregistered
   evidence on minimal-group favouritism. Valdesolo and DeSteno's
   intergroup moral hypocrisy did not replicate; minimal-group favouritism
@@ -43,7 +43,7 @@ summary: >-
 
 Robertson, C. E., Akles, M. & Van Bavel, J. J. (2024). *Psychological Science*, 35(7), 798–813.
 
-Read in full in NOTE-tmp0cdsp, from the authors' accepted manuscript.
+Read in full in [NOTE-tmp0cdsp](../notes.d/NOTE-tmp0cdsp.md), from the authors' accepted manuscript.
 
 ## Why this is here
 

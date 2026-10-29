@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpaso81) from the authors' accepted
+  read in full 2026-10-29 ([NOTE-tmpaso81](../notes.d/NOTE-tmpaso81.md)) from the authors' accepted
   manuscript in University College Cork's repository (CORA); worth reading
   as the distinction between adopting a group's perspective and the
   self-transformation of identifying as a member, the second cast as a
   Pushmi-Pullyu representation that motivates directly, and for its team
   reasoner versus team benefactor, which sharpens the owner's thesis
-  (CLAIM-tmpjylq8). Conceptual.
+  ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)). Conceptual.
 title: 'Being one of us. Group identification, joint actions, and collective intentionality'
 version: 1
 history:
@@ -44,7 +44,7 @@ summary: >-
 
 Salice, A. & Miyazono, K. (2020). *Philosophical Psychology*, 33(1), 42–63.
 
-Read in full in NOTE-tmpaso81, from the authors' accepted manuscript.
+Read in full in [NOTE-tmpaso81](../notes.d/NOTE-tmpaso81.md), from the authors' accepted manuscript.
 
 ## Why this is here
 

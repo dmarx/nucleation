@@ -128,7 +128,7 @@ both what you are and what to do.
 
 ## Connections
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper bears on it at three
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper bears on it at three
   points. These are inferences; the paper does not discuss selflessness.
   - The team benefactor reasons from the first person singular about the
     group's good, which is the thesis's "self-interest on a group" read as
@@ -141,21 +141,21 @@ both what you are and what to do.
     welfare.
   - The paper supplies a criterion of self-extension independent of
     caring: the activated social self, triggered by cues. That is what
-    CLAIM-tmprudek says the thesis needs.
-- **Self-categorization theory (THEORY-tmpo85ke).** The working definition
+    [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) says the thesis needs.
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The working definition
   is Turner's (1982): group identification internalizes a categorization
   into the self-concept. The PPR account is a cognitive gloss on
   depersonalization, and Bacharach's group cues (common fate, competing
   group, we-language) are close to fit.
-- **Skorich (THEORY-tmpdftev).** Both make joint attention and shared
+- **Skorich ([THEORY-tmpdftev](../theory.d/THEORY-tmpdftev.md)).** Both make joint attention and shared
   mental states central to group self-perception, by different routes.
-- **Sugden (LIT-tmpvsmnt)** and List & Pettit (LIT-391) supply the team
+- **Sugden ([LIT-tmpvsmnt](../literature.d/LIT-tmpvsmnt.md))** and List & Pettit ([LIT-391](../literature.d/LIT-391.md)) supply the team
   reasoning and the discursive dilemma.
 
 ## Bearing on the record
 
 - **The owner's thesis.** The team-reasoner/team-benefactor distinction
-  gives CLAIM-tmpjylq8 a sharper form. The thesis is strongest for team
+  gives [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) a sharper form. The thesis is strongest for team
   reasoners whose social self is activated, and weakest for team
   benefactors, who care about a group they do not identify with as
   self-transformed members. A dated note is added to the claim.

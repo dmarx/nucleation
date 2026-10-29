@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053: a
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md): a
   lawful free copy exists in PubMed Central
   (pmc.ncbi.nlm.nih.gov/articles/PMC3319676; the publisher's version at
   jneurosci.org is CC BY-NC-SA). On 2026-10-29 the publisher PDF answered
