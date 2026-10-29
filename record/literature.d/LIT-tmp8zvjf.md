@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpd4jen) from the published APA scan
+  read in full 2026-10-29 ([NOTE-tmpd4jen](../notes.d/NOTE-tmpd4jen.md)) from the published APA scan
   posted by Markus on her own website (hazelmarkus.com/research); worth
   reading as the classic statement that cultures construe the self as more
-  or less inclusive of others. For the owner's thesis (CLAIM-tmpjylq8) it
+  or less inclusive of others. For the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)) it
   supports the premise, a self that includes others, and names the
   thesis's middle term, "an alternative to selfishness … besides
   selflessness" (p. 247). It does not support the step to self-interest:
@@ -50,7 +50,7 @@ summary: >-
 
 Markus, H. R. & Kitayama, S. (1991). *Psychological Review*, 98(2), 224–253.
 
-Read in full in NOTE-tmpd4jen, from the published APA scan posted by Markus on her own website (hazelmarkus.com/research).
+Read in full in [NOTE-tmpd4jen](../notes.d/NOTE-tmpd4jen.md), from the published APA scan posted by Markus on her own website (hazelmarkus.com/research).
 
 ## Why this is here
 

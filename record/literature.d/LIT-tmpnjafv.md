@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp8x2m0) from the publisher's PDF as
+  read in full 2026-10-29 ([NOTE-tmp8x2m0](../notes.d/NOTE-tmp8x2m0.md)) from the publisher's PDF as
   reprinted in The Philosophers' Annual vol. 37 (philosophersannual.org);
   worth reading as Parfit's final answer to his own non-identity problem,
   which puts obligations to future people on a person-affecting footing
@@ -43,7 +43,7 @@ summary: >-
 
 Parfit, D. (2017). *Philosophy & Public Affairs*, 45(2), 118–157.
 
-Read in full in NOTE-tmp8x2m0, from the publisher's PDF as reprinted in The Philosophers' Annual vol. 37 (philosophersannual.org).
+Read in full in [NOTE-tmp8x2m0](../notes.d/NOTE-tmp8x2m0.md), from the publisher's PDF as reprinted in The Philosophers' Annual vol. 37 (philosophersannual.org).
 
 ## Why this is here
 

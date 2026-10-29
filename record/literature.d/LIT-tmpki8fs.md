@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpwgpmb) from the journal's typeset text
+  read in full 2026-10-29 ([NOTE-tmpwgpmb](../notes.d/NOTE-tmpwgpmb.md)) from the journal's typeset text
   deposited in Duke University's repository DukeSpace
   (hdl.handle.net/10161/1993; Unpaywall labels it the submitted version,
   but it carries the journal's pagination and copyright line), fetched
@@ -53,7 +53,7 @@ summary: >-
 
 Akerlof, G. A. & Kranton, R. E. (2000). *Quarterly Journal of Economics*, 115(3), 715–753.
 
-Read in full in NOTE-tmpwgpmb, from the journal's typeset text deposited in Duke University's repository DukeSpace (hdl.handle.net/10161/1993; Unpaywall labels it the submitted version, but it carries the journal's pagination and copyright line), fetched through the repository's own API.
+Read in full in [NOTE-tmpwgpmb](../notes.d/NOTE-tmpwgpmb.md), from the journal's typeset text deposited in Duke University's repository DukeSpace (hdl.handle.net/10161/1993; Unpaywall labels it the submitted version, but it carries the journal's pagination and copyright line), fetched through the repository's own API.
 
 ## Why this is here
 

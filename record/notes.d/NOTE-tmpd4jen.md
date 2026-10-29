@@ -197,12 +197,12 @@ relationship to others" (p. 247).
 
 ## Connections
 
-- **Brewer's levels of the self (NOTE-tmphttin).** Brewer counts this
+- **Brewer's levels of the self ([NOTE-tmphttin](NOTE-tmphttin.md)).** Brewer counts this
   paper among the dichotomies her tripartite model replaces. What Markus
   and Kitayama describe is mostly her relational self: specific,
   non-interchangeable others, and an in-group of family and work group.
   It is her relational collectivism, not group-based collectivism.
-- **Self-categorization theory (THEORY-tmpo85ke).** Not engaged. The
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** Not engaged. The
   paper cites Tajfel (1984) once and lists "personal identity versus
   social identity" (after Cheek and Hogan) among related distinctions
   (pp. 246–247). Its interdependent self varies across situations, as a
@@ -210,19 +210,19 @@ relationship to others" (p. 247).
 - **Self-verification.** The paper predicts that interdependent selves
   verify "the more public qualities of the self" (p. 245) and are
   threatened by the disruption of relations. Swann et al.'s fused
-  participants (NOTE-tmp3g9n4) defended a self-concept by acting for a
+  participants ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)) defended a self-concept by acting for a
   group. That is the same pattern at the group level.
-- **Aron et al. (LIT-tmp9rujh) and Cialdini et al. (LIT-tmpfxss5).** The
+- **Aron et al. ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md)) and Cialdini et al. ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md)).** The
   overlapping circles of Figure 1 anticipate the inclusion-of-other-in-
   self picture. But the paper denies "merging", and its overlap is of
   self-representations with relationships, not of self with other.
-- **The record's use.** QUESTION-tmprbq0b and CLAIM-tmpjylq8 cite it for
-  "selves construed interdependently". The SEP entry (NOTE-tmpd1dh3) cites
+- **The record's use.** [QUESTION-tmprbq0b](../questions.d/QUESTION-tmprbq0b.md) and [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) cite it for
+  "selves construed interdependently". The SEP entry ([NOTE-tmpd1dh3](NOTE-tmpd1dh3.md)) cites
   it as evidence that self-concepts vary across cultures.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The claim holds this work as a
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The claim holds this work as a
   ground "until 2027-04-29", to be asked again once it is read. Read, it
   still grounds the thesis's premise and does not ground its conclusion.
   These are inferences; the paper is not about egoism.
@@ -239,8 +239,8 @@ relationship to others" (p. 247).
     resulting action possibly "genuine, other-oriented, altruistic",
     without "calculation of individual payoff" (p. 248). Their third
     option is a third kind of self, not self-interest on a larger one.
-    On Stich's division (NOTE-tmpeuwqz) they hold the redescription
-    reading. The thesis has content there only with CLAIM-tmprudek's
+    On Stich's division ([NOTE-tmpeuwqz](NOTE-tmpeuwqz.md)) they hold the redescription
+    reading. The thesis has content there only with [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s
     independent criterion.
   - Its self is not larger, but differently made. What the interdependent
     self includes is relations and roles, not others' welfare as such. It
@@ -253,16 +253,16 @@ relationship to others" (p. 247).
     goals become one's own, which is the thesis. In the other, meeting
     them is a condition of meeting one's own, under watched reciprocity.
     That is ordinary self-interest with no extended self, closer to
-    Sugden's cooperation for mutual benefit (NOTE-tmph49t5). The paper
+    Sugden's cooperation for mutual benefit ([NOTE-tmph49t5](NOTE-tmph49t5.md)). The paper
     does not say which is commoner.
   - **Verdict.** The thesis holds once this is read, with its ground
     narrowed. The paper supports "selves that include others" and the
     rejection of the selfish/selfless dichotomy. It is not evidence that
     collectivist action is self-interested. The authors would read it
     the other way.
-- **The triviality objection (CLAIM-tmprudek).** The paper offers two
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The paper offers two
   measures of construal that could serve as criteria. They are the
-  similarity asymmetry (a cognitive sign, like those in NOTE-tmpd7oz0)
+  similarity asymmetry (a cognitive sign, like those in [NOTE-tmpd7oz0](NOTE-tmpd7oz0.md))
   and Kitayama and Markus's eight interdependence items. The first gave
   only a nonsignificant reversal. The second asks about valuing favours
   and harmony, which is close to caring. Elsewhere culture stands in for
@@ -270,17 +270,17 @@ relationship to others" (p. 247).
   for others may not track culture at all: Triandis et al. (1988) found
   that collectivists did not report more of it (p. 248). So the paper
   does not supply a criterion that separates from caring.
-- **Batson's objection (CLAIM-tmpybc4k).** Indirectly. The authors'
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Indirectly. The authors'
   denial of merging, and their altruistic reading of other-focused
   emotions, put them closer to Batson than to Cialdini. The paper does
   not test empathy and merging against each other.
-- **Self-categorization and the "we" (THEORY-tmpo85ke, THEORY-tmpsm03n,
-  TERM-tmpko4rw).** The interdependent self is personalized and relational.
+- **Self-categorization and the "we" ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md), [THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md),
+  [TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** The interdependent self is personalized and relational.
   It keeps agency and particular others, as León's we-identity does, and
   does not depersonalize. It concerns relationships, not a group entity
   or a category.
-- **A dated note is proposed for CLAIM-tmpjylq8** (section 3). The
-  inactive-ok comment holding LIT-tmp8zvjf until 2027-04-29 can drop it
+- **A dated note is proposed for [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)** (section 3). The
+  inactive-ok comment holding [LIT-tmp8zvjf](../literature.d/LIT-tmp8zvjf.md) until 2027-04-29 can drop it
   once this NOTE is filed.
 - **No THEORY filed.** The construal distinction is cited where the
   thesis uses it; the later literature testing it is not held.
@@ -325,5 +325,5 @@ relationship to others" (p. 247).
   later literature that tests the construals, by scales, by priming and
   by meta-analysis, is not held in the record.
 - Would a measured interdependent construal predict helping when
-  empathic concern is held fixed? That would bear on CLAIM-tmpybc4k and
-  CLAIM-tmprudek at once.
+  empathic concern is held fixed? That would bear on [CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md) and
+  [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) at once.

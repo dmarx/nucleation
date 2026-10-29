@@ -174,28 +174,28 @@ what corruption works on.
 
 ## Connections
 
-- **Bostrom 2013 (NOTE-tmpyret1).** The pan-generational public good, and
+- **Bostrom 2013 ([NOTE-tmpyret1](NOTE-tmpyret1.md)).** The pan-generational public good, and
   his "deficit of motivation", have the same structure as the
   intergenerational storm. Gardiner adds why the deficit hides itself.
-- **Hurlstone et al. (NOTE-tmpebx4k).** The intergenerational game is a
+- **Hurlstone et al. ([NOTE-tmpebx4k](NOTE-tmpebx4k.md)).** The intergenerational game is a
   laboratory version of the Pure Intergenerational Problem: without a
   legacy frame, most groups let a benefit to later players fail. That
   paper does not cite Gardiner.
-- **Meyer, SEP (NOTE-tmps9poq).** Names Gardiner and sets him aside, as
+- **Meyer, SEP ([NOTE-tmps9poq](NOTE-tmps9poq.md)).** Names Gardiner and sets him aside, as
   describing a structural dynamic rather than what is owed. The paper
   agrees: it says it is not about the substance of a defensible regime
   but about "the process of making climate policy" (p. 398).
-- **Parfit (LIT-tmpnjafv).** The theoretical storm names "contingent
+- **Parfit ([LIT-tmpnjafv](../literature.d/LIT-tmpnjafv.md)).** The theoretical storm names "contingent
   persons" as one of theory's difficulties (p. 407) without discussing
   the non-identity problem.
-- **Scheffler (LIT-tmpl4qml), unread.** Not cited. Gardiner's account
+- **Scheffler ([LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md)), unread.** Not cited. Gardiner's account
   needs a moral motive that can be corrupted. Scheffler grounds concern for
   the future in what the living value. They meet at the question of what
   the living want for the future and why it fails to bind.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper bears on it in three
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper bears on it in three
   ways. These are inferences; Gardiner does not discuss the self.
   - The standard model assumes the thesis's shape and the paper denies it
     holds. A state that represents its citizens "in perpetuity" is a self
@@ -205,7 +205,7 @@ what corruption works on.
     generation" (p. 404). In the thesis's terms the self actually at work
     is generation-relative, and concern stops where it stops.
   - That is the thesis's prediction, not a counterexample to it. As with
-    Bostrom 2013 (NOTE-tmpyret1), concern reaches as far as the self's
+    Bostrom 2013 ([NOTE-tmpyret1](NOTE-tmpyret1.md)), concern reaches as far as the self's
     stake and is undersupplied beyond it. Gardiner's remedy, motivation
     that is "not generation-relative" (note 35), is what the thesis would
     have to say is either a larger self or not available.
@@ -216,8 +216,8 @@ what corruption works on.
     (pp. 408–409). The motive deceived is moral concern for future people,
     or a self-image as someone who has it. On the second reading the self
     served is again a self-concept kept true, the sense the fusion reading
-    (NOTE-tmp3g9n4) also needs.
-- **The triviality objection (CLAIM-tmprudek).** The paper offers a
+    ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)) also needs.
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The paper offers a
   structural limit on how far a self can extend in time. Agents scattered
   across generations "cannot actually become unified" and can only act "as
   if they were a single agent" (p. 404). If that is right, a self extended
@@ -225,8 +225,8 @@ what corruption works on.
   not as a unified agent. The criterion the objection asks for would then
   have to be psychological, such as felt continuity with future
   generations, not institutional.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note to CLAIM-tmpjylq8 is proposed**, as an addition to its
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) is proposed**, as an addition to its
   note "the thesis in time":
 
   > Gardiner's perfect moral storm (NOTE-xxxx) shows the thesis's shape
