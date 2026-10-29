@@ -27,7 +27,6 @@ summary: >-
   generated and transformed, to one mechanism, [CLAIM-430](../claims.d/CLAIM-430.md)'s invitation,
   and one distinction, [CLAIM-429](../claims.d/CLAIM-429.md)'s state against coupling.
 ---
-<!-- inactive-ok-file: LIT-1413 — Unavailable since 2026-10-29; cited in the body and the note of that date for the claim it is reported to make, nothing here rests on it -->
 
 # QUESTION-262: When cooperation across a relation's prevailing perspective changes how one party takes the other, does it change only the state of that party's interpretive organization or also its coupling, how far outcomes may revise the governing interpretation, and can taking part be told experimentally from receiving information of equal favourable content?
 

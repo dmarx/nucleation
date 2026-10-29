@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -22,6 +22,13 @@ history:
     of self is an illusion, as A26 restricted it; Clive Wearing; the
     commander handoff; and the extension to an imagined social audience,
     filed as CLAIM-415. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Revonsuo read (NOTE-tmpishg4); A27's five
+    bindings are not his, but his split of stimulus-related from
+    consciousness-related binding supports the claim's separation. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -292,3 +299,28 @@ in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-094](../terms.d/TERM-0
 control precedence. The claim uses the concept. It does not need the
 account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
 and which stays Proposed.
+
+## Note of 2026-10-29: Revonsuo's bindings, read
+
+Revonsuo 1999, LIT-1208, which A27 gave as the longer history of the
+distinction between functional and phenomenal binding, is now read
+(NOTE-tmpishg4). Two findings bear on "It does not solve phenomenal
+binding" above.
+
+- **A27's five bindings are not Revonsuo's.** His five kinds of
+  phenomenal binding are property, part, semantic-conceptual, location
+  and serial (or event) binding, each with a deficit that dissociates it.
+  None is "functional"; the word appears in the paper only of neuronal
+  groups. His serial binding is the nearest to A27's temporal. The
+  five-part scheme the claim quotes from A27 should not be attributed to
+  him.
+- **His split supports the claim's separation.** The paper's main cut is
+  between stimulus-related binding, neural processing that recovers a
+  stimulus's unity whether or not anything is conscious, and
+  consciousness-related binding, the construction of a phenomenally
+  unified percept. The two dissociate in both directions, so integration
+  of a response can be real while saying nothing about phenomenal unity.
+  Revonsuo does not claim the distinction as his own: he credits Smythies
+  (1994).
+
+The claim is unchanged.

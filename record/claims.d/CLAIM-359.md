@@ -230,3 +230,26 @@ cost to disagreement, appears in them only from the practitioners' side.
   challenge that was legitimate.
 
 The claim is unchanged and stays Proposed.
+
+## Note of 2026-10-29: Edmondson, read
+
+Edmondson 1999, LIT-1220, A41's empirical anchor for the cost side, is
+now read (NOTE-tmpd0qzq). The body's report of it is right: across 51
+work teams, a shared belief that the team is safe for interpersonal risk
+taking went with the team's learning behaviour, by members' and outside
+observers' ratings, and through it with performance as the team's
+internal customers judged it. Its limits bear on how the claim uses it.
+
+- **One company, cross-sectional.** All 51 teams are in one manufacturer,
+  not chosen to be representative, and no causal order is shown.
+- **No adversarial members.** The teams are cooperative. The paper says
+  nothing about compromised or adversarial members, or about safeguards
+  against them. Its nearest case to the claim's restriction of
+  disagreement is a product-development team whose members did not
+  question a goal "for fear of sanction by management".
+
+So it is evidence that protecting members' willingness to speak goes with
+learning. That a safeguard treating dissent as suspect would cut learning
+is the claim's inference from it, not something the paper tests, and it
+gives no evidence on what protecting dissent costs or how it fares under
+compromise. The claim is unchanged and stays Proposed.

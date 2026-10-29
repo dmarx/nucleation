@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpa0raf
 title: 'The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil''s frustration produces real misconduct, and the label looks justified in hindsight'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Merton read (NOTE-tmprvkcw); the essay
+    supports reading the mechanism as working through others' treatment.
+    The case is unchanged.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -27,7 +34,7 @@ variants:
 - CASE-142
 ---
 <!-- inactive-ok-file: TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-402 CLAIM-415 LIT-1398 — Proposed or Deferred; a claim the case illustrates and a work registered unread, cited as such -->
+<!-- inactive-ok-file: CLAIM-402 CLAIM-415 — Proposed or Deferred; claims the case illustrates, cited as such -->
 
 # CASE-141: The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight
 
@@ -68,3 +75,13 @@ treatment, which changes what counts as evidence and what the pupil faces.
 - Whether the pupil's later conduct changes the pupil's perspective or only
   their situation. The case is compatible with either; [CASE-142](CASE-142.md) is the
   variant in which the person's own organization changes, by resistance.
+
+## Note of 2026-10-29: Merton, read
+
+Merton 1948, LIT-1398, which "What it shows" calls registered unread, is
+now read (NOTE-tmprvkcw). The case is his mechanism, and the essay
+supports the case's reading of it as working through others' treatment
+rather than through the labelled person's belief. In his §II the Black
+worker becomes a strikebreaker because the unions exclude him, not
+because he comes to see himself as one: exclusion leaves strikebreaking
+as his only way into the work. The case is unchanged.

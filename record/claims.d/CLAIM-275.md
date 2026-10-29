@@ -109,3 +109,30 @@ emotional-action half if it were held, because an appraisal of pertinence
 comes first there; but that appraisal is not the interpretation the act
 makes available, and [THEORY-055](../theory.d/THEORY-055.md) is Proposed. [CASE-143](../cases.d/CASE-143.md) is an instance: the
 favour came before the liking.
+
+## Note of 2026-10-29: the contact literature, read
+
+Pettigrew's 1998 review, LIT-1408 (NOTE-tmpmwtvy), and Pettigrew and
+Tropp's meta-analyses of 2006, LIT-1413 (NOTE-tmplxoe7), and 2008,
+LIT-1405 (NOTE-tmpdp52y), are now read. Contact before revised attitude
+is the claim's order, and they bear on it in three ways.
+
+- **The review states the order.** Among contact's four processes:
+  "Behavior change is often the precursor of attitude change", with
+  dissonance as the mechanism. That is the shape of CASE-143. It is
+  argued, not tested.
+- **The 2006 meta-analysis cannot mostly order the two.** It is the
+  strongest support the record holds for contact changing attitudes, but
+  most of its samples are cross-sectional surveys of reported contact.
+  The ordered evidence is the 36 experimental samples (r = −.336) and the
+  samples with no choice of contact (−.280), and both give larger effects
+  than the rest. The authors' explanation, mere exposure and reduced
+  anxiety, is an encounter acting before any revised view, which fits
+  the claim; they argue it from other literatures and do not test it.
+- **The 2008 meta-analysis puts feeling before belief.** Reduced anxiety
+  and increased empathy carry more of the contact–prejudice association
+  than knowledge of the outgroup does. Its mediation is cross-sectional
+  and statistical, and the sequence it suggests, anxiety falling first,
+  is proposed, not shown.
+
+The claim is unchanged.

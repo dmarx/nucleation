@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmps7vk0
 title: 'The imagined owner'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -24,6 +24,12 @@ history:
     reasons for unchosen outcomes are indistinguishable from real
     ones, but ordinary reasons are not shown to be confabulated. The
     design is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 (Nisbett and Wilson) added: read
+    (NOTE-tmpvh2sy); supports the premise narrowly and is silent on
+    attributions of agency or control. The design is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -43,7 +49,6 @@ summary: >-
   it tests attribution of control, not phenomenal properties.
 ---
 <!-- inactive-ok-file: CLAIM-355 CLAIM-288 THEORY-646 QUESTION-061 CLAIM-413 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
-<!-- inactive-ok-file: LIT-1410 — Unfetched since 2026-10-29; Nisbett and Wilson, cited in the note of that date as not yet read, nothing here rests on it -->
 
 # CASE-114: The imagined owner
 
@@ -158,3 +163,21 @@ and the reports that did name the original choice show that some reports
 carry the real one. Nisbett and Wilson, [LIT-1410](../literature.d/LIT-1410.md), is Unfetched. The case's
 own limit stands: nothing here bears on whether representing a central
 controller changes error correction. The design is unchanged.
+
+## Note of 2026-10-29: Nisbett and Wilson, read
+
+Nisbett and Wilson, LIT-1410, which the note above calls Unfetched, is now
+read (NOTE-tmpvh2sy). It supports the case's premise, and narrowly. What
+diverges in it is a person's report of why they responded and what in
+fact caused the response: subjects miss effective stimuli and credit
+ineffective ones, and their reports match what observers given only a
+description predict (in Nisbett and Bellows, subject and observer reports
+correlated .77 to .99). The authors read this as reports drawn from a
+priori causal theories, not from access to the process. So a
+self-report of why one acted can be a construction from a theory. The
+paper is about the influence of stimuli on responses, not about
+attributions of agency or control, and never discusses who did
+something; it is silent on the design's thesis. The NOTE draws one
+prediction from its account: a system whose self-model is centralized
+should explain its errors as an observer holding the same model would,
+whatever its actual division of labour. The design is unchanged.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8lheg
 title: 'What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -20,6 +20,13 @@ history:
     left the choice open read: Whether TERM-072 should take this as a
     note or as further senses is the owner's decision, and its note of
     2026-10-22 (later) sets out the choice. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Pettigrew 1998 and Pettigrew and Tropp
+    2008 read; deprovincialization is the nearest contact process, its
+    evidence is thin, and the 2008 meta-analysis leaves it untested.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -222,3 +229,21 @@ realizations, not as further senses.
   and even incompatible schemas" (p. 17).
 - **Abbott.** Read only through a 2003 precursor ([NOTE-1077](../notes.d/NOTE-1077.md)): it is
   about jurisdictions and alliances, not perspectives.
+
+## Note of 2026-10-29: deprovincialization, read
+
+The contact works the exchange cited for a perspective revised by being
+made one of several are now read. Pettigrew's 1998 review, LIT-1408
+(NOTE-tmpmwtvy), names the nearest process. The fourth of its four
+processes of contact is ingroup reappraisal: optimal contact shows that
+"ingroup norms and customs turn out not to be the only ways to manage the
+social world", which "can reshape your view of your ingroup and lead to a
+less provincial view of outgroups in general ('deprovincialization')"
+(p. 72). The word occurs once. Its evidence is thin: one unpublished
+analysis relating outgroup friendship to less national pride, and one
+laboratory study. Pettigrew and Tropp's 2008 meta-analysis of mediators,
+LIT-1405 (NOTE-tmpdp52y), tests knowledge, anxiety and empathy with
+perspective taking, and lists "broadened views of the ingroup" only among
+the mediators not tested. Its perspective-taking leg, the nearest it
+comes, could not be separated from empathy, and nothing in it tests a
+change in how one's own view is held. The claim is unchanged.
