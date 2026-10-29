@@ -3,8 +3,19 @@ number: 211
 status: Active
 formerly:
 - CLAIM-tmp867uz
-title: 'The manuscript''s thesis and the October thesis give rival answers to what survives, which come apart in both directions on the cases of the receiver objection, yet the record links them by `complements` and scopes the October thesis to a question its fidelity clause does not stay inside'
-version: 1
+title: 'Read as worded, the manuscript''s thesis and the October thesis give rival answers to what survives, which come apart in both directions on the cases of the receiver objection, yet the record links them by `complements` and scopes the October thesis to a question its fidelity clause does not stay inside'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Revised at the twelfth status review to record CLAIM-223's
+    objection (ADR-059): on CLAIM-223's reading, with survival fixed
+    by the receivers and certification by the analyst's
+    identifiability, the two theses answer different parts of one
+    question, so the rivalry holds of their wording. Version 1's title
+    began "The manuscript's thesis and the October thesis give rival
+    answers to what survives". Status unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -30,9 +41,9 @@ summary: >-
 objected_by:
 - CLAIM-223
 ---
-<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; the two theses compared, both open -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded; the two theses compared, as worded -->
 
-# CLAIM-211: The manuscript's thesis and the October thesis give rival answers to what survives, which come apart in both directions on the cases of the receiver objection, yet the record links them by `complements` and scopes the October thesis to a question its fidelity clause does not stay inside
+# CLAIM-211: Read as worded, the manuscript's thesis and the October thesis give rival answers to what survives, which come apart in both directions on the cases of the receiver objection, yet the record links them by `complements` and scopes the October thesis to a question its fidelity clause does not stay inside
 
 ## The objection
 
@@ -81,3 +92,7 @@ and epistemic clauses compete with [CLAIM-115](CLAIM-115.md): only its fidelity 
 does. It does not say [CLAIM-139](CLAIM-139.md) must supersede [CLAIM-115](CLAIM-115.md); two rival
 theses can both stand Proposed. It says they should be related as rivals,
 and that [CLAIM-139](CLAIM-139.md) answers [QUESTION-002](../questions.d/QUESTION-002.md) whether or not it lists it.
+
+It does not say the theses rival on every reading. CLAIM-223 gives one,
+survival by recovery and certification by identifiability, on which they
+answer different parts of QUESTION-002.
