@@ -5,7 +5,7 @@ status_note: >-
   reached. Unpaywall lists no open copy and a web search found none posted
   by an author, their institution or the publisher; it is Elsevier
   subscription content, and OSF holds no preprint of it. No NOTE is filed.
-  It stays Unavailable until a copy is supplied (ADR-041).
+  It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Perceived responsibility towards future generations and environmental concern: Convergent evidence across multiple outcomes in a large, nationally representative sample'
 version: 1
 history:
