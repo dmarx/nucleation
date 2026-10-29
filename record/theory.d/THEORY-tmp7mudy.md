@@ -17,7 +17,7 @@ date: '2026-10-29'
 source:
 - LIT-tmpog7aw
 summary: >-
-  Singh et al. (2026), LIT-tmpog7aw, read in NOTE-tmpruw1i from the
+  Singh et al. (2026), [LIT-tmpog7aw](../literature.d/LIT-tmpog7aw.md), read in [NOTE-tmpruw1i](../notes.d/NOTE-tmpruw1i.md) from the
   Findings of EMNLP 2026 PDF. MCQ beat NLI in 20 of 20 model–language
   pairs (recomputed). 59.1% of wrong MCQ answers took the literal
   distractor, against 33.3% by chance, and 53.8% of Contradiction items
@@ -32,8 +32,8 @@ summary: >-
 ## Source
 
 Singh, Veera Balaji Kumar, Nanda, Madhusoodanan, Guo, Xu and Li (2026),
-LIT-tmpog7aw, §§3–5, Table 2 and Fig. 3, pp. 43029–43034 of the Findings of
-EMNLP 2026; read in NOTE-tmpruw1i.
+[LIT-tmpog7aw](../literature.d/LIT-tmpog7aw.md), §§3–5, Table 2 and Fig. 3, pp. 43029–43034 of the Findings of
+EMNLP 2026; read in [NOTE-tmpruw1i](../notes.d/NOTE-tmpruw1i.md).
 
 ## What was actually shown
 

@@ -17,7 +17,7 @@ date: '2026-10-29'
 source:
 - LIT-tmphdoda
 summary: >-
-  Ward and Marco (2024), LIT-tmphdoda, read in NOTE-tmpmkero from the
+  Ward and Marco (2024), [LIT-tmphdoda](../literature.d/LIT-tmphdoda.md), read in [NOTE-tmpmkero](../notes.d/NOTE-tmpmkero.md) from the
   LREC-COLING 2024 PDF. Over 693 seed/re-enactment pairs in three sessions,
   mean pairwise Pearson agreement was 0.45, 0.72 and 0.66 (Table 2), and
   0.80 in Session 2 when lexically different pairs were left out (p. 160).
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Ward and Marco (2024), LIT-tmphdoda, §§6–8, Tables 2–3, pp. 157–160 of the
-LREC-COLING 2024 proceedings; read in NOTE-tmpmkero.
+Ward and Marco (2024), [LIT-tmphdoda](../literature.d/LIT-tmphdoda.md), §§6–8, Tables 2–3, pp. 157–160 of the
+LREC-COLING 2024 proceedings; read in [NOTE-tmpmkero](../notes.d/NOTE-tmpmkero.md).
 
 ## What was actually shown
 

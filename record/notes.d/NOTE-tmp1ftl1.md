@@ -135,7 +135,7 @@ how the map is initialised.
   isometry, would be indifferent to it. Fig. 2 shows the distances do
   change. What the paper calls an "invariance" is a seed-dependent
   distortion. The tree's own symmetries remain a separate ambiguity that
-  no registration can resolve (THEORY-tmpa43ta).
+  no registration can resolve ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)).
 
 ### The method (§6, pp. 6–7)
 
@@ -207,18 +207,18 @@ retrieve nearest neighbours for P@k (pp. 6–7, Fig. 3).
 ## Connections
 
 - It extends Problem (8), joint transport and registration, from linear
-  maps (LIT-tmpbs68a, Zhang et al. 2017, Grave et al. 2019) to non-linear
+  maps ([LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md), Zhang et al. 2017, Grave et al. 2019) to non-linear
   maps on a Riemannian manifold. It reads ICP as the hard-assignment,
   rigid, Euclidean special case (p. 3).
-- It sets GW (LIT-tmpprsxm) aside without testing it, and Fused GW
-  (LIT-tmpjs7kp) because it "assumes node features and knowledge of the
+- It sets GW ([LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)) aside without testing it, and Fused GW
+  ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)) because it "assumes node features and knowledge of the
   full graph structure" (p. 3).
 - The embeddings come from Nickel and Kiela 2017 and 2018, Ganea et al.
   2018b and Sala et al. 2018 (Fig. 2). None is held here.
 
 ## Bearing on the record
 
-- **QUESTION-130: directed relations, the exchange's point checked.** The
+- **[QUESTION-130](../questions.d/QUESTION-130.md): directed relations, the exchange's point checked.** The
   "Why this is here" says hyperbolic distance is still symmetric, so the
   paper is a partial answer to carrying directed, hierarchical relations.
   The text bears that out and narrows it. The hierarchy's direction, "(u,
@@ -232,8 +232,8 @@ retrieve nearest neighbours for P@k (pp. 6–7, Fig. 3).
   obligation, the lesson is that matching points, however good the
   geometry, does not preserve the order on them unless the order is put
   into the cost or the map class.
-- **QUESTION-130 and THEORY-tmpf3jtf: a fourth kind of arbitrariness.**
-  The three-way distinction in LIT-tmpbs68a's "Why this is here" was a
+- **[QUESTION-130](../questions.d/QUESTION-130.md) and [THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md): a fourth kind of arbitrariness.**
+  The three-way distinction in [LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md)'s "Why this is here" was a
   global isometry (GW), one global map from a class (global-invariance
   OT), and a frame at each node (gauge). This paper meets something that
   fits none of them: a seed-dependent, non-isometric warp, absorbed by
@@ -241,20 +241,20 @@ retrieve nearest neighbours for P@k (pp. 6–7, Fig. 3).
   on every point. It is not a group action, so it has no frames, no
   connection and no holonomy. A fitted warp is a registration, not a
   transport.
-- **CLAIM-135: reconstruction, weakly.** Self-matching, where identity is
+- **[CLAIM-135](../claims.d/CLAIM-135.md): reconstruction, weakly.** Self-matching, where identity is
   "perfect and unambiguous", gives P@1 22.2 (Table 1a). Across languages
   only P@10 is reported. The paper reconstructs neighbourhoods more than
   it identifies items, and says nothing on constitution.
-- **CASE-tmph0fxi: the identification threat, in two forms.** First, real
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): the identification threat, in two forms.** First, real
   hierarchies have isomorphic sibling subtrees, and any method using only
-  structure is indifferent between their swaps (THEORY-tmpa43ta). Second,
+  structure is indifferent between their swaps ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)). Second,
   a flexible registration adds ambiguity of its own: the full model starts
   from a random permutation (CrossMap) and still reports success. The
   correspondence it settles on is therefore decided by the optimiser's
   path as much as by the data. The case's plan to score correspondences on
   held-out items, and to validate anchors independently, is the right
   control for both.
-- **THEORY-tmpd02kg**: filed from this reading.
+- **[THEORY-tmpd02kg](../theory.d/THEORY-tmpd02kg.md)**: filed from this reading.
 - **An instruction for ML practice is present** (pretraining schemes,
   Radam over RSGD, ε annealing). That belongs to the Anthology of the
   SOTA; the LIT carries the `anthology-candidate` flag.

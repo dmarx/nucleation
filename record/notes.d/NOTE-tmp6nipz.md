@@ -240,21 +240,21 @@ the second is a misprint (min, and the limit is xmax^{3/4}).
   object.
 - **Rumelhart and Abrahamson (1973)** and **Sternberg and Gardner (1983)**:
   the psychometric semantic space and the ideal-point account of analogy,
-  series and classification (Fig. 1, Table 1). Gentner (LIT-tmpfxrm8,
+  series and classification (Fig. 1, Table 1). Gentner ([LIT-tmpfxrm8](../literature.d/LIT-tmpfxrm8.md),
   p. 166) cites the same Rumelhart and Abrahamson model as unable to
   express higher-order relations.
 - **Tenenbaum et al. (2000)** (Isomap) and **Hinton and Roweis (2002)**
   (SNE): the manifold-learning side.
 - **Hashimoto, Sun and Jaakkola (2015a, b)**: the random-walk-to-distance
   results Appendix A relies on. The broader preprint arXiv 1509.05808 is
-  not this work (LIT-tmp6ic5n).
-- **Alvarez-Melis and Jaakkola (2018)**, LIT-tmpprsxm, by two of the same
+  not this work ([LIT-tmp6ic5n](../literature.d/LIT-tmp6ic5n.md)).
+- **Alvarez-Melis and Jaakkola (2018)**, [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md), by two of the same
   authors, aligns embedding spaces by Gromov–Wasserstein; this paper does
   not discuss alignment.
 
 ## Bearing on the record
 
-- **LIT-tmpprsxm: the exchange's "precursor" reading is right, and this
+- **[LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md): the exchange's "precursor" reading is right, and this
   paper supplies its reason.** If embeddings recover a metric, two
   embeddings of one semantic space agree only up to an isometry (Lemma 7's
   orthogonal map) and per-word normalizers. An alignment that uses only
@@ -263,29 +263,29 @@ the second is a misprint (min, and the limit is xmax^{3/4}).
   its model the isometry would be found by Procrustes as well; GW's
   advantage needs spaces whose metrics differ, which is outside this
   paper.
-- **CLAIM-046: support, and a fit with A6's caution.** What the
+- **[CLAIM-046](../claims.d/CLAIM-046.md): support, and a fit with A6's caution.** What the
   co-occurrence observables identify here is the metric; the coordinates
-  are fixed only up to isometry. That is CLAIM-046's point that different
+  are fixed only up to isometry. That is [CLAIM-046](../claims.d/CLAIM-046.md)'s point that different
   internal states can produce identical observations, in a worked case.
   A6's caution is borne out by the paper's own numbers. The link from
   co-occurrence to similarity judgment is a correlation of 0.75 after a
   tuned normalization (Fig. 2), and a metric built from people's responses
   (free association, Table 4) behaves differently from the corpus metric:
   better on semantic analogies, near zero on syntactic ones. That is the
-  kind of response-derived distance CLAIM-046 points to, though free
+  kind of response-derived distance [CLAIM-046](../claims.d/CLAIM-046.md) points to, though free
   association is a judgment of similarity, not a receiver's response to a
   communicative act.
-- **CLAIM-135: this paper reaches identification, under a model the
+- **[CLAIM-135](../claims.d/CLAIM-135.md): this paper reaches identification, under a model the
   authors disown as a model of language.** Reconstruction is shown on
   benchmarks; identification up to isometry is proved for the random-walk
   model (Lemma 7; Corollary 6); nothing addresses whether the semantic
   space is the right kind. Theorem 8 is weaker than identification: it
   bounds the objective, not the embedding.
-- **CLAIM-113 and THEORY-002: an instance of identification up to a
+- **[CLAIM-113](../claims.d/CLAIM-113.md) and [THEORY-002](../theory.d/THEORY-002.md): an instance of identification up to a
   symmetry group.** What is recovered is the class of embeddings under the
   isometries of the latent space, the invariants of that group being the
   distances.
-- **THEORY-183: a complement, through the logarithm.** THEORY-183 finds
+- **[THEORY-183](../theory.d/THEORY-183.md): a complement, through the logarithm.** [THEORY-183](../theory.d/THEORY-183.md) finds
   that a spectral embedding of co-occurrences that depend only on
   separation on a continuum yields Fourier modes, circles and ripples. This
   paper works with the logarithm of the co-occurrences, which under its
@@ -293,13 +293,13 @@ the second is a misprint (min, and the limit is xmax^{3/4}).
   recovers the coordinates. The two results agree once it is seen which
   matrix is factorized; the record should not read them as rival
   accounts of the same embedding.
-- **THEORY-tmptxgpp (Gentner): the parallelogram rule is single-relation
+- **[THEORY-tmptxgpp](../theory.d/THEORY-tmptxgpp.md) (Gentner): the parallelogram rule is single-relation
   analogy.** The ideal point B − A + C treats a relation as one
   displacement vector; nothing in this paper represents a relation among
   relations, so its analogy results test Gentner's first two rules at most.
-- **Should produce:** THEORY-tmp6quku (log co-occurrence under a metric
+- **Should produce:** [THEORY-tmp6quku](../theory.d/THEORY-tmp6quku.md) (log co-occurrence under a metric
   random walk recovers the metric, and only the metric; Active) and
-  THEORY-tmp259r0 (corpus co-occurrences fit a Euclidean semantic space;
+  [THEORY-tmp259r0](../theory.d/THEORY-tmp259r0.md) (corpus co-occurrences fit a Euclidean semantic space;
   Proposed).
 - **Machine-learning practice.** The metric-regression method and its
   benchmark comparison (§§5.2, 6) are method evaluation for embeddings;
@@ -324,7 +324,7 @@ the second is a misprint (min, and the limit is xmax^{3/4}).
   Table 4, and the two norm assumptions. The series ideal point uses
   1/n where the average step over n words is 1/(n − 1) (p. 284).
 - **Published date.** The paper's first page says "Published 7/2016";
-  Crossref gives December 2016 (print). See LIT-tmp6ic5n.
+  Crossref gives December 2016 (print). See [LIT-tmp6ic5n](../literature.d/LIT-tmp6ic5n.md).
 
 ## Open questions
 

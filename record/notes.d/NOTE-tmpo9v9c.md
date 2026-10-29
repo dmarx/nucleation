@@ -241,7 +241,7 @@ that it varies less", inherits the ambiguity.
 ## Connections
 
 - **Closure.** Nicholson ties Weiss's triplet to closure (§4, n. 18) and
-  cites Moreno and Mossio 2015 (LIT-536, Unfetched), Rosen 1991 (LIT-1669,
+  cites Moreno and Mossio 2015 ([LIT-536](../literature.d/LIT-536.md), Unfetched), Rosen 1991 ([LIT-1669](../literature.d/LIT-1669.md),
   Unavailable), Varela 1979 and Kauffman 2000, the last two not held. He
   places Weiss among the precursors of the "autonomy school" (§7).
 - **Developmental systems theory** (Oyama 1985; Griffiths and Gray 1994;
@@ -260,75 +260,75 @@ that it varies less", inherits the ambiguity.
 
 ## Bearing on the record
 
-- **TERM-070 and CLAIM-395: the triplet is a closure, and it is a
+- **[TERM-070](../terms.d/TERM-070.md) and [CLAIM-395](../claims.d/CLAIM-395.md): the triplet is a closure, and it is a
   closure of processes, not of constraints.** The exchange's description
-  in LIT-tmptd6hn is right that the triplet is the record's closure
+  in [LIT-tmptd6hn](../literature.d/LIT-tmptd6hn.md) is right that the triplet is the record's closure
   pattern, and needs two qualifications. First, Weiss's members are
   "processes" that supply "conditions required for the production" of the
-  others (§4), while Montévil and Mossio (LIT-582) separate constraints,
+  others (§4), while Montévil and Mossio ([LIT-582](../literature.d/LIT-582.md)) separate constraints,
   which are conserved at the time scale of the process they act on, from
-  the processes they constrain. The triplet becomes TERM-070's closure
+  the processes they constrain. The triplet becomes [TERM-070](../terms.d/TERM-070.md)'s closure
   only if each "condition" is read as a constraint in that sense; the
   paper does not say so, and n. 18 itself warns that the authors who
   write of closure "interpret" it "in slightly different ways". Second,
-  the triplet is stronger than TERM-070's Definition 4: each member
+  the triplet is stronger than [TERM-070](../terms.d/TERM-070.md)'s Definition 4: each member
   supplies conditions for both others, and "no two members … can exist or
   be maintained without the presence and contributions of the third". In
   Montévil and Mossio's terms that is a closed set with no closed proper
   subset, a strict closure, and more (every member depends on every other).
-  CLAIM-395's lemma that a closed set has at least two members is met with
+  [CLAIM-395](../claims.d/CLAIM-395.md)'s lemma that a closed set has at least two members is met with
   room to spare; its time-scale half has nothing to bite on, because
   Weiss gives no time scales.
-- **The "Why this is here" of LIT-tmptd6hn needs one correction.** It says
+- **The "Why this is here" of [LIT-tmptd6hn](../literature.d/LIT-tmptd6hn.md) needs one correction.** It says
   "Weiss's system is defined by the network of interactions generating
   each part". The definitions Nicholson quotes define a system by the
   invariance of the whole; the generation of parts is a further property,
   stated by Nicholson in §4 as the answer to how a system can "come into
   being". The pairwise point stands as the exchange gave it.
-- **CLAIM-480: an interior that becomes a constraint, in the reverse
-  direction.** CLAIM-480 eliminates an interior and finds a constraint on
+- **[CLAIM-480](../claims.d/CLAIM-480.md): an interior that becomes a constraint, in the reverse
+  direction.** [CLAIM-480](../claims.d/CLAIM-480.md) eliminates an interior and finds a constraint on
   the boundary. Weiss's "‘boundary conditions’ set by the dynamics of the
   system as a whole" (§6) and the genome as "boundary conditions" (§5) are
   the same relation seen from the whole's side: the whole's dynamics
-  constrain the parts. The triplet also illustrates CLAIM-480's last
+  constrain the parts. The triplet also illustrates [CLAIM-480](../claims.d/CLAIM-480.md)'s last
   clause informally. A three-way dependence ("no two members … can exist or be maintained
   without the presence and contributions of the third member")
   that no pair of members carries is a relation among three that the
   pairwise relations do not state. But the paper gives no formal model, so
   this is an illustration, not a further instance of the computation.
-- **CLAIM-477: prior art for the recursion half.** "those constraints are
+- **[CLAIM-477](../claims.d/CLAIM-477.md): prior art for the recursion half.** "those constraints are
   themselves realized and maintained by something" is Weiss's triplet and
   his bounds "set by the dynamics of the system as a whole" (§6). The
   paper is an older statement of it, at the level of argument. It supplies
   nothing for the specification–realization half.
-- **CLAIM-478: progressive consolidation is the same idea at an
+- **[CLAIM-478](../claims.d/CLAIM-478.md): progressive consolidation is the same idea at an
   evolutionary time scale.** The stream that "later becomes constrained by
   the channel it has created" (§6) is a realization at one scale working as
-  a constraint at another, which is CLAIM-478's thesis. Weiss's version is
+  a constraint at another, which is [CLAIM-478](../claims.d/CLAIM-478.md)'s thesis. Weiss's version is
   analogical and gives no mechanism.
-- **CLAIM-474: Weiss's definitions sit at the individuation step, and his
-  inequality is a candidate criterion of the kind QUESTION-115 and
-  CLAIM-157 seek.** Weiss's system is individuated by persistence of
+- **[CLAIM-474](../claims.d/CLAIM-474.md): Weiss's definitions sit at the individuation step, and his
+  inequality is a candidate criterion of the kind [QUESTION-115](../questions.d/QUESTION-115.md) and
+  [CLAIM-157](../claims.d/CLAIM-157.md) seek.** Weiss's system is individuated by persistence of
   configuration through turnover, and the variance inequality was meant as
   a way of "empirically identifying systems in nature" (§5). As checked
   above, it discriminates only for an extensive whole, where it detects
   compensating covariance among the parts. That makes it a statistic of the
-  same family as CLAIM-157's near-decomposability and QUESTION-115's
+  same family as [CLAIM-157](../claims.d/CLAIM-157.md)'s near-decomposability and [QUESTION-115](../questions.d/QUESTION-115.md)'s
   criteria, and a weaker one. Nothing in the paper separates the five
-  relationships of CLAIM-474; Nicholson's single "system" covers
+  relationships of [CLAIM-474](../claims.d/CLAIM-474.md); Nicholson's single "system" covers
   interconnection, dynamics and individuation at once.
-- **THEORY-072: neither supports nor undermines its demarcation.** The
+- **[THEORY-072](../theory.d/THEORY-072.md): neither supports nor undermines its demarcation.** The
   paper never discusses dissipative structures. Weiss's "whirl of fluid"
   appears only as a warning against naming a molecule its "spinner" (§4).
-- **THEORY-302: a parallel.** Turvey's coordinative structures, where a
+- **[THEORY-302](../theory.d/THEORY-302.md): a parallel.** Turvey's coordinative structures, where a
   higher level fixes an equivalence class of states and the parts keep
   their freedom, are Weiss's "many degrees of freedom" under "ordering
   restraints" (§5), stated for motor control. Neither cites the other.
-- **THEORY-465** holds that genes are reproducees with little
+- **[THEORY-465](../theory.d/THEORY-465.md)** holds that genes are reproducees with little
   reproductive autonomy; the §4 critique of "self-replicating" genes
   points the same way.
-- **Should produce:** THEORY-tmp1244l (the variance inequality, checked)
-  and THEORY-tmp2moei (macrodeterminacy without microdeterminacy, the one
+- **Should produce:** [THEORY-tmp1244l](../theory.d/THEORY-tmp1244l.md) (the variance inequality, checked)
+  and [THEORY-tmp2moei](../theory.d/THEORY-tmp2moei.md) (macrodeterminacy without microdeterminacy, the one
   evidenced critique, Proposed).
 - **No instruction for machine-learning practice.**
 

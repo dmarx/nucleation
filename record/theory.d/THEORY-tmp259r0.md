@@ -18,8 +18,8 @@ date: '2026-10-29'
 source:
 - LIT-tmp6ic5n
 summary: >-
-  Hashimoto, Alvarez-Melis and Jaakkola (2016), LIT-tmp6ic5n, §3, read
-  in NOTE-tmp6nipz. The correlation follows a normalization chosen to
+  Hashimoto, Alvarez-Melis and Jaakkola (2016), [LIT-tmp6ic5n](../literature.d/LIT-tmp6ic5n.md), §3, read
+  in [NOTE-tmp6nipz](../notes.d/NOTE-tmp6nipz.md). The correlation follows a normalization chosen to
   maximize it; the two nearest-neighbour statistics are necessary
   conditions, the corpora exceed the asymptotic centrality bound and pass
   only a non-asymptotic range, and the free-association data fail the
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Hashimoto, Alvarez-Melis and Jaakkola (2016), LIT-tmp6ic5n, §§2–3,
-pp. 274–276 (Fig. 2, Table 2); read in NOTE-tmp6nipz.
+Hashimoto, Alvarez-Melis and Jaakkola (2016), [LIT-tmp6ic5n](../literature.d/LIT-tmp6ic5n.md), §§2–3,
+pp. 274–276 (Fig. 2, Table 2); read in [NOTE-tmp6nipz](../notes.d/NOTE-tmp6nipz.md).
 
 ## What was actually shown
 
@@ -70,10 +70,10 @@ the text does not mention.
   tuned normalization leaves much of the variance unexplained, and the
   free-association metric of Table 4 behaves differently from the corpus
   metric (better on semantic analogies, near zero on syntactic ones;
-  NOTE-tmp6nipz).
+  [NOTE-tmp6nipz](../notes.d/NOTE-tmp6nipz.md)).
 - **That the space is the meaning of the words.** A metric that fits
   similarity ratings identifies a structure under that probe; whether it
-  is the right kind of structure is a further question (CLAIM-135).
+  is the right kind of structure is a further question ([CLAIM-135](../claims.d/CLAIM-135.md)).
 - **That the random-walk model of §4 is confirmed.** These statistics are
   about the data; the model is a separate tool the authors do not offer
   as a model of language (p. 277).

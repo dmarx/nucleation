@@ -16,7 +16,7 @@ date: '2026-10-29'
 source:
 - LIT-tmpog7aw
 summary: >-
-  Singh et al. (2026), LIT-tmpog7aw, read in NOTE-tmpruw1i. On 416 outputs
+  Singh et al. (2026), [LIT-tmpog7aw](../literature.d/LIT-tmpog7aw.md), read in [NOTE-tmpruw1i](../notes.d/NOTE-tmpruw1i.md). On 416 outputs
   (104 items × 4 models), wmt22 COMET correlates with 1–5 pragmatic-adequacy
   scores at Pearson 0.813, Spearman 0.860; XCOMET ρ 0.792, MetricX ρ 0.788
   (Table 3). Four hand-picked outputs scored 0.65–0.86 by COMET and 1–2 by
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Singh et al. (2026), LIT-tmpog7aw, §5.4, Table 3, Table 4 and App. A.2–A.3,
-pp. 43034–43040 of the Findings of EMNLP 2026; read in NOTE-tmpruw1i.
+Singh et al. (2026), [LIT-tmpog7aw](../literature.d/LIT-tmpog7aw.md), §5.4, Table 3, Table 4 and App. A.2–A.3,
+pp. 43034–43040 of the Findings of EMNLP 2026; read in [NOTE-tmpruw1i](../notes.d/NOTE-tmpruw1i.md).
 
 ## What was actually shown
 
@@ -67,5 +67,5 @@ unexplained.
   fact.
 - **That a fluent translation misses meaning the same model could infer.**
   The translation items are not the MCQ or NLI items.
-- **Anything about xCOMET as a fidelity criterion in general** (LIT-tmplu4ga).
+- **Anything about xCOMET as a fidelity criterion in general** ([LIT-tmplu4ga](../literature.d/LIT-tmplu4ga.md)).
   It concerns four Indic languages into English, against one reference each.

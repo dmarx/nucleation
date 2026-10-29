@@ -17,7 +17,7 @@ date: '2026-10-29'
 source:
 - LIT-tmp2g5v4
 summary: >-
-  Srinivasan and Choi (2022), LIT-tmp2g5v4, read in NOTE-tmpmy2mv. XLM-R
+  Srinivasan and Choi (2022), [LIT-tmp2g5v4](../literature.d/LIT-tmp2g5v4.md), read in [NOTE-tmpmy2mv](../notes.d/NOTE-tmpmy2mv.md). XLM-R
   fine-tuned on 1,926 English requests reaches 0.808 mean accuracy on the
   balanced top/bottom-quartile sets (250 per language), 0.801 on Google
   Translate input; GPT-3 zero-shot 0.706 (Table 3). Leave-one-out human
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Srinivasan and Choi (2022), LIT-tmp2g5v4, §3, Table 3 and Fig. 3,
-pp. 5726–5728 of the Findings of EMNLP 2022; read in NOTE-tmpmy2mv.
+Srinivasan and Choi (2022), [LIT-tmp2g5v4](../literature.d/LIT-tmp2g5v4.md), §3, Table 3 and Fig. 3,
+pp. 5726–5728 of the Findings of EMNLP 2022; read in [NOTE-tmpmy2mv](../notes.d/NOTE-tmpmy2mv.md).
 
 ## What was actually shown
 

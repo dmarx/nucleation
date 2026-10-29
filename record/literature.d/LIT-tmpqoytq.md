@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpi3f1e); worth reading as the first
+  read in full 2026-10-29 ([NOTE-tmpi3f1e](../notes.d/NOTE-tmpi3f1e.md)); worth reading as the first
   systematic test of when unsupervised dictionary induction fails, and
   for its finding that whether two embedding spaces align depends on
   the corpus domain and the embedding algorithm as much as on the
-  languages (THEORY-tmpox88b). The method tested is adversarial
+  languages ([THEORY-tmpox88b](../theory.d/THEORY-tmpox88b.md)). The method tested is adversarial
   (Conneau et al. 2018), not GW.
 title: 'On the Limitations of Unsupervised Bilingual Dictionary Induction'
 version: 2
@@ -59,8 +59,8 @@ summary: >-
 
 Søgaard, A., Ruder, S., & Vulić, I. (2018). On the limitations of unsupervised bilingual dictionary induction. *Proceedings of ACL 2018*, 778–788.
 
-Read in full in NOTE-tmpi3f1e.
+Read in full in [NOTE-tmpi3f1e](../notes.d/NOTE-tmpi3f1e.md).
 
 ## Why this is here
 
-A5's counterweight to [LIT-tmpprsxm](LIT-tmpprsxm.md): structural alignment recovers correspondence only where the two structures are alike, so a good fit is not established identity. It bears on [CLAIM-135](../claims.d/CLAIM-135.md) and on the identification threat in [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md). One correction to that description: the paper tests Conneau et al.'s adversarial method, not GW, so it is a counterweight to LIT-tmpprsxm by shared premise, not by direct test. It adds that the likeness of two structures depends on how they were built: two spaces of the same language pair trained by different algorithms do not align at all (THEORY-tmpox88b).
+A5's counterweight to [LIT-tmpprsxm](LIT-tmpprsxm.md): structural alignment recovers correspondence only where the two structures are alike, so a good fit is not established identity. It bears on [CLAIM-135](../claims.d/CLAIM-135.md) and on the identification threat in [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md). One correction to that description: the paper tests Conneau et al.'s adversarial method, not GW, so it is a counterweight to [LIT-tmpprsxm](LIT-tmpprsxm.md) by shared premise, not by direct test. It adds that the likeness of two structures depends on how they were built: two spaces of the same language pair trained by different algorithms do not align at all ([THEORY-tmpox88b](../theory.d/THEORY-tmpox88b.md)).

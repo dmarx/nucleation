@@ -10,9 +10,9 @@ source:
 - LIT-tmpprsxm
 - LIT-tmpbs68a
 summary: >-
-  Alvarez-Melis and Jaakkola (2018), LIT-tmpprsxm, use the GW objective
+  Alvarez-Melis and Jaakkola (2018), [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md), use the GW objective
   (their eq. 8) for word translation and do not state its ambiguity;
-  read in NOTE-tmpgvlkv. The invariance follows in two lines from the
+  read in [NOTE-tmpgvlkv](../notes.d/NOTE-tmpgvlkv.md). The invariance follows in two lines from the
   objective's form and was checked numerically, including a symmetric
   tree on which a branch-swapping coupling costs exactly what the true
   one does. Active: elementary and checked. It does not say how large
@@ -25,10 +25,10 @@ summary: >-
 
 ## Source
 
-Alvarez-Melis and Jaakkola (2018), LIT-tmpprsxm, §3.1, eq. (8) and
-Algorithm 1, pp. 3–5 of arXiv 1809.00013v1; read in NOTE-tmpgvlkv. The
+Alvarez-Melis and Jaakkola (2018), [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md), §3.1, eq. (8) and
+Algorithm 1, pp. 3–5 of arXiv 1809.00013v1; read in [NOTE-tmpgvlkv](../notes.d/NOTE-tmpgvlkv.md). The
 equivalence with a global-invariance OT problem is from Alvarez-Melis,
-Jegelka and Jaakkola (2019), LIT-tmpbs68a, Lemma 4.3 (NOTE-tmpdwqe2).
+Jegelka and Jaakkola (2019), [LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md), Lemma 4.3 ([NOTE-tmpdwqe2](../notes.d/NOTE-tmpdwqe2.md)).
 
 ## What was actually shown
 
@@ -76,9 +76,9 @@ could have broken the tie between members of an orbit. Neither happens.
   in the paper.
 - **That GW is worse than methods that estimate a registration.**
   Orthogonal Procrustes with OT has the same blind spot wherever the
-  symmetry is a rotation of the cloud (LIT-tmpbs68a). Only information
+  symmetry is a rotation of the cloud ([LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md)). Only information
   from outside the structure breaks it: anchors, frequency ranks, labels,
-  or a feature cost as in fused GW (LIT-tmpjs7kp).
+  or a feature cost as in fused GW ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)).
 - **That anchors solve the problem.** An anchor set breaks the tie only if
   no non-trivial symmetry fixes it. Anchors drawn from the symmetric part
   can leave it intact.
@@ -86,7 +86,7 @@ could have broken the tie between members of an orbit. Neither happens.
   a single transformation of each whole space. Its data are scalar
   relations, and those do not change under a change of frame at any node.
   It therefore cannot represent a connection between frames, or its
-  holonomy (contrast THEORY-tmpf3jtf).
+  holonomy (contrast [THEORY-tmpf3jtf](THEORY-tmpf3jtf.md)).
 - **That a GW minimum is a correspondence of kinds.** The cost measures
   relational resemblance under the similarity chosen. Whether matched
-  items are the same kind is a further question (CLAIM-135).
+  items are the same kind is a further question ([CLAIM-135](../claims.d/CLAIM-135.md)).

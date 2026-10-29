@@ -21,9 +21,9 @@ source:
 - LIT-tmpqoytq
 - LIT-tmpprsxm
 summary: >-
-  Søgaard, Ruder and Vulić (2018), LIT-tmpqoytq, read in NOTE-tmpi3f1e,
+  Søgaard, Ruder and Vulić (2018), [LIT-tmpqoytq](../literature.d/LIT-tmpqoytq.md), read in [NOTE-tmpi3f1e](../notes.d/NOTE-tmpi3f1e.md),
   with the GW results of Alvarez-Melis and Jaakkola (2018),
-  LIT-tmpprsxm, read in NOTE-tmpgvlkv. Proposed: the evidence is single
+  [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md), read in [NOTE-tmpgvlkv](../notes.d/NOTE-tmpgvlkv.md). Proposed: the evidence is single
   runs of one adversarial method, plus one GW table, and the authors
   themselves report that some seeds succeed where the method otherwise
   fails. What it does not support is a typological law about dependent
@@ -36,10 +36,10 @@ summary: >-
 
 ## Source
 
-Søgaard, Ruder and Vulić (2018), LIT-tmpqoytq, §§2 and 4, Tables 2–3 and
-Fig. 2, pp. 2–9 of arXiv 1805.03620v1; read in NOTE-tmpi3f1e. Alvarez-Melis
-and Jaakkola (2018), LIT-tmpprsxm, Tables 1–2, pp. 7–8 of arXiv
-1809.00013v1; read in NOTE-tmpgvlkv.
+Søgaard, Ruder and Vulić (2018), [LIT-tmpqoytq](../literature.d/LIT-tmpqoytq.md), §§2 and 4, Tables 2–3 and
+Fig. 2, pp. 2–9 of arXiv 1805.03620v1; read in [NOTE-tmpi3f1e](../notes.d/NOTE-tmpi3f1e.md). Alvarez-Melis
+and Jaakkola (2018), [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md), Tables 1–2, pp. 7–8 of arXiv
+1809.00013v1; read in [NOTE-tmpgvlkv](../notes.d/NOTE-tmpgvlkv.md).
 
 ## What was actually shown
 
@@ -62,7 +62,7 @@ is of normal monolingual quality (footnote 9).
 with the adversarial method on Romance and Germanic pairs. It reaches only
 18.3 on English–Finnish in Dinu et al.'s data, against 33.5 for
 self-learning, and 45.1 on English–Russian in Conneau et al.'s data
-(LIT-tmpprsxm, Tables 1–2).
+([LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md), Tables 1–2).
 
 **The diagnostic.** Δ, the summed squared difference of the top Laplacian
 eigenvalues of 10-node nearest-neighbour graphs, correlates with P@1 across
@@ -77,7 +77,7 @@ could have been unrelated to success. None of these happened.
 ## What this does not say
 
 - **That the failures are impossible alignments.** About 1 run in 10 on
-  Estonian, Finnish and Greek is "on par with Turkish" (LIT-tmpqoytq,
+  Estonian, Finnish and Greek is "on par with Turkish" ([LIT-tmpqoytq](../literature.d/LIT-tmpqoytq.md),
   footnote 5). Part of what is reported is the adversarial optimiser's
   instability. The GW evidence is a single table, not a test on the
   paper's settings.
@@ -90,8 +90,8 @@ could have been unrelated to success. None of these happened.
   points.
 - **That a good fit establishes that matched words mean the same.** The
   account is about when a fit exists. Where the fit is good it is
-  relational resemblance under the chosen similarity (CLAIM-135). Within
-  that fit, symmetric structure is left undetermined (THEORY-tmpa43ta).
+  relational resemblance under the chosen similarity ([CLAIM-135](../claims.d/CLAIM-135.md)). Within
+  that fit, symmetric structure is left undetermined ([THEORY-tmpa43ta](THEORY-tmpa43ta.md)).
 - **That isomorphism fails in the exact sense the paper tested.** Exact
   VF2 isomorphism of 10-node graphs fails almost always (p. 2). That is a
   different and much stronger property than the near-isometry the

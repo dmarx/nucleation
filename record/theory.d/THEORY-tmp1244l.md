@@ -9,7 +9,7 @@ date: '2026-10-29'
 source:
 - LIT-tmptd6hn
 summary: >-
-  Nicholson (2026), LIT-tmptd6hn, read in NOTE-tmpo9v9c, reports Weiss's
+  Nicholson (2026), [LIT-tmptd6hn](../literature.d/LIT-tmptd6hn.md), read in [NOTE-tmpo9v9c](../notes.d/NOTE-tmpo9v9c.md), reports Weiss's
   one formula, VS ≪ ∑ (va + … + vn), as a property "we would invariably
   find, if we studied any system", and as a way of identifying systems
   empirically. The variance of a sum settles what it can show. Active:
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Nicholson (2026), LIT-tmptd6hn, §5, reporting Weiss (1963, 1969a, 1971c,
-1973, 1977, 1978); read in NOTE-tmpo9v9c from the Europe PMC full text.
+Nicholson (2026), [LIT-tmptd6hn](../literature.d/LIT-tmptd6hn.md), §5, reporting Weiss (1963, 1969a, 1971c,
+1973, 1977, 1978); read in [NOTE-tmpo9v9c](../notes.d/NOTE-tmpo9v9c.md) from the Europe PMC full text.
 
 ## What was actually shown
 

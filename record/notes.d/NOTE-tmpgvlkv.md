@@ -83,7 +83,7 @@ similarity structures cannot tell apart, the coupling cannot either.
   K = 20,000 words of each vocabulary (p. 6), and the off-the-shelf files
   are sorted by frequency (p. 5). Choosing two frequency-matched subsets is
   information about the correspondence; the companion paper says this
-  outright (LIT-tmpbs68a, its footnote 7).
+  outright ([LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md), its footnote 7).
 
 ## Key results
 
@@ -120,7 +120,7 @@ similarity structures cannot tell apart, the coupling cannot either.
   identical two-leaf branches, the identity coupling and the branch-swapped
   coupling both cost 1.3 × 10⁻¹⁵; from 20 random starts on a relabelled
   copy, 7 runs ended at an automorphism of the tree and none at the true
-  labelling (my script; THEORY-tmpa43ta).
+  labelling (my script; [THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)).
 - With no symmetry and no noise the optimum is the truth: entropic GW
   recovered a hidden permutation of a randomly rotated cloud of 60 points in
   ℝ¹⁰ at accuracy 1.00, with Gaussian noise up to 0.3 per coordinate.
@@ -167,7 +167,7 @@ similarity structures cannot tell apart, the coupling cannot either.
   48.47, 33.50, 37.60. Without normalisation G-W reaches 6.8 on EN-FI and
   12.5 on EN-ES. Finnish is the pair where the relational structure least
   agrees, and the one where GW does worst; this is the pattern Søgaard et
-  al. report for the adversarial method (LIT-tmpqoytq).
+  al. report for the adversarial method ([LIT-tmpqoytq](../literature.d/LIT-tmpqoytq.md)).
 
 ### Distances between languages (§4.4, Fig. 4, p. 8)
 
@@ -221,33 +221,33 @@ similarity structures cannot tell apart, the coupling cannot either.
   points (p. 1). Not held here.
 - Zhang et al. 2017b (OT jointly with Procrustes) and Rangarajan et al.
   1997 (Softassign Procrustes) are the alternative it sets aside; the
-  authors' own generalisation of that alternative is LIT-tmpbs68a, which
+  authors' own generalisation of that alternative is [LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md), which
   shows that one form of it is GW (its Lemma 4.3).
 - Conneau et al. 2018 (MUSE) is the baseline; Søgaard, Ruder and Vulić
-  (LIT-tmpqoytq) examine that baseline's failures.
-- Fused GW (LIT-tmpjs7kp) and co-optimal transport (LIT-tmpbnbe3) are the
-  extensions CASE-tmph0fxi plans to use.
+  ([LIT-tmpqoytq](../literature.d/LIT-tmpqoytq.md)) examine that baseline's failures.
+- Fused GW ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)) and co-optimal transport ([LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md)) are the
+  extensions [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md) plans to use.
 
 ## Bearing on the record
 
-- **CLAIM-046 and CLAIM-113: a computational instance, with a correction.**
+- **[CLAIM-046](../claims.d/CLAIM-046.md) and [CLAIM-113](../claims.d/CLAIM-113.md): a computational instance, with a correction.**
   The method uses only relational observables, within-language similarity,
-  and no latent coordinate is taken as given (p. 3). That is CLAIM-046's
-  stance made concrete. For CLAIM-113 it shows plainly how an invariance
+  and no latent coordinate is taken as given (p. 3). That is [CLAIM-046](../claims.d/CLAIM-046.md)'s
+  stance made concrete. For [CLAIM-113](../claims.d/CLAIM-113.md) it shows plainly how an invariance
   class and the invariants it keeps define each other. The class here is
   not chosen in so many words. It follows from the choice of similarity:
   with cosine it is the orthogonal group of each space together with
   rescaling of each vector. The paper's statement that GW "makes no such
   assumption" (p. 9) gets this backwards. GW assumes more invariance than
   Procrustes, not less.
-- **CLAIM-148: consistent, and a clean case of its order of operations.**
-  CLAIM-148 says the rotation gauge of a factorization is not a symmetry
+- **[CLAIM-148](../claims.d/CLAIM-148.md): consistent, and a clean case of its order of operations.**
+  [CLAIM-148](../claims.d/CLAIM-148.md) says the rotation gauge of a factorization is not a symmetry
   of the data, and that automorphisms of the data act on factors only once
   the factors are identified. GW removes the gauge by computing a gauge
   invariant first, the Gram or cosine matrix. What remains undetermined is
   exactly the automorphism group of that matrix, and the paper has no
   name for it.
-- **CLAIM-135: reconstruction, not identification, and not constitution.**
+- **[CLAIM-135](../claims.d/CLAIM-135.md): reconstruction, not identification, and not constitution.**
   The coupling reconstructs dictionary pairs well for related languages
   (Table 1). It identifies them only up to symmetries of the similarity
   structure, and the paper does not state what those are. Nothing in it
@@ -255,25 +255,25 @@ similarity structures cannot tell apart, the coupling cannot either.
   "distance between languages" is relational resemblance under a chosen
   similarity, as the exchange's A6 said, and the authors themselves allow
   that corpus size may explain it (p. 8).
-- **QUESTION-130 and THEORY-tmpf3jtf: the kind of arbitrariness GW
+- **[QUESTION-130](../questions.d/QUESTION-130.md) and [THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md): the kind of arbitrariness GW
   removes.** GW treats as arbitrary one isometry of each whole space. For
   a finite point cloud under Euclidean distances that is a single rigid
   motion; under cosine similarity it is a single orthogonal map plus a
   per-point positive scale. Its data are scalar relations C_ik, and a
   scalar does not change when a node's frame changes. So the per-entity
-  frame freedom of THEORY-tmpf3jtf, where the relation Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹ is
+  frame freedom of [THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md), where the relation Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹ is
   itself frame-dependent, has nothing to act on here. Equally, GW cannot
   represent a connection or detect holonomy. It answers a registration
-  problem, not QUESTION-130's transport problem.
-- **CASE-tmph0fxi: the identification threat, made exact.** The case notes
+  problem, not [QUESTION-130](../questions.d/QUESTION-130.md)'s transport problem.
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): the identification threat, made exact.** The case notes
   that GW "can swap symmetric categories ... at equal cost". That is a
   theorem, not a risk: any coupling composed with an automorphism of
-  either similarity structure has the same cost (THEORY-tmpa43ta, checked
+  either similarity structure has the same cost ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md), checked
   on a symmetric tree). Two further points for the case's design. First,
   anchors must break the automorphism group; anchors that are themselves
   symmetric do not help. Second, frequency-matched subsets, which this
   paper uses (p. 6), already carry correspondence information.
-- **THEORY-tmpox88b**: this paper's Table 2 is the GW half of that account.
+- **[THEORY-tmpox88b](../theory.d/THEORY-tmpox88b.md)**: this paper's Table 2 is the GW half of that account.
 - **An instruction for ML practice is present**: normalise the cost
   matrices, use cosine, and the two λ values (pp. 5, 7). That belongs to
   the Anthology of the SOTA; the LIT carries the `anthology-candidate`

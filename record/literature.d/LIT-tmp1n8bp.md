@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpr9b03) from the LREC 2026 PDF; worth
+  read in full 2026-10-29 ([NOTE-tmpr9b03](../notes.d/NOTE-tmpr9b03.md)) from the LREC 2026 PDF; worth
   reading as the only multilingual corpus of the additions human
   translators make for a new audience, with each addition marked in the
   target, and for what it lacks: no reported annotator agreement.
@@ -55,16 +55,16 @@ summary: >-
 
 Osmelak, D., Dutta Chowdhury, K., Sentsova, U., España-Bonet, C., & van Genabith, J. (2026). PETra: A multilingual corpus of pragmatic explicitation in translation. *Proceedings of LREC 2026*, 8756–8766.
 
-Read in full in NOTE-tmpr9b03.
+Read in full in [NOTE-tmpr9b03](../notes.d/NOTE-tmpr9b03.md).
 
 ## Why this is here
 
 A5 put it first among the readings: a corpus of what translation adds, which is the target side of [CLAIM-257](../claims.d/CLAIM-257.md)'s change of cover, and a source of items for [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md). Its categories annotate additions; they are not a validated measure of footing or act.
 
-The reading bears this out with two qualifications for CASE-tmph0fxi: the labels would need re-annotation to meet its Stage 0, and the corpus gives one direct route per item, from English only. About half its labels mark replacements, not additions (NOTE-tmpr9b03).
+The reading bears this out with two qualifications for [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): the labels would need re-annotation to meet its Stage 0, and the corpus gives one direct route per item, from English only. About half its labels mark replacements, not additions ([NOTE-tmpr9b03](../notes.d/NOTE-tmpr9b03.md)).
 
 ## Key takeaways
 
 - The items are additions to background knowledge ("Tucson" → "Tucson (Arizona)"), not changes of act, stance or footing.
-- No agreement statistic, a single annotator implied, and most pairs found by a classifier: the labels are not a validated measure (NOTE-tmpr9b03).
+- No agreement statistic, a single annotator implied, and most pairs found by a classifier: the labels are not a validated measure ([NOTE-tmpr9b03](../notes.d/NOTE-tmpr9b03.md)).
 - One English → X route per item; no relay can be read off it.

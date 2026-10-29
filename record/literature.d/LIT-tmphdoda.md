@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpmkero) from the LREC-COLING 2024 PDF;
+  read in full 2026-10-29 ([NOTE-tmpmkero](../notes.d/NOTE-tmpmkero.md)) from the LREC-COLING 2024 PDF;
   worth reading as the first collection of human pragmatic-similarity
   ratings and for its account of what lowers agreement. The 0.45 the
   record cites is one session's single-judge figure; the others are 0.72
@@ -57,16 +57,16 @@ summary: >-
 
 Ward, N. G., & Marco, D. (2024). A collection of pragmatic-similarity judgments over spoken dialog utterances. *Proceedings of LREC-COLING 2024*, 154–163.
 
-Read in full in NOTE-tmpmkero.
+Read in full in [NOTE-tmpmkero](../notes.d/NOTE-tmpmkero.md).
 
 ## Why this is here
 
 A5's warning for [CASE-055](../cases.d/CASE-055.md)'s Stage 0, kept in [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): if judges agree on pragmatic similarity at 0.45, a model can look weak because the target is unstable, or strong because it reproduces one panel's habits.
 
-Correction from the reading: 0.45 is the first of three sessions and a single-judge figure (the others are 0.72 and 0.66), and a nine-judge mean at 0.45 is far more reliable. The warning holds in another form: the agreement for pairs that differ in words, as translations do, is lower and unreported (NOTE-tmpmkero).
+Correction from the reading: 0.45 is the first of three sessions and a single-judge figure (the others are 0.72 and 0.66), and a nine-judge mean at 0.45 is far more reliable. The warning holds in another form: the agreement for pairs that differ in words, as translations do, is lower and unreported ([NOTE-tmpmkero](../notes.d/NOTE-tmpmkero.md)).
 
 ## Key takeaways
 
-- 0.45 is Session 1 and one judge against another; a nine-judge mean at that level has an estimated reliability near 0.88 (NOTE-tmpmkero).
+- 0.45 is Session 1 and one judge against another; a nine-judge mean at that level has an estimated reliability near 0.88 ([NOTE-tmpmkero](../notes.d/NOTE-tmpmkero.md)).
 - Agreement is lowest for lexically different pairs, the kind every translation is, and the paper does not report it separately.
 - Within-language only; no test–retest.

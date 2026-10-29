@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpo9v9c) from the Europe PMC full text;
+  read in full 2026-10-29 ([NOTE-tmpo9v9c](../notes.d/NOTE-tmpo9v9c.md)) from the Europe PMC full text;
   worth reading as the clearest gathering of Weiss's system concept and
   of its triplet of mutually producing processes, an early statement of
   closure, and for its four critiques, of which only the one against
@@ -64,7 +64,7 @@ summary: >-
 Nicholson, D. J. (2026). The organism as a system: Insights from Paul
 Weiss. *Acta Biotheoretica*, 74(4), 34.
 
-Read in full in NOTE-tmpo9v9c.
+Read in full in [NOTE-tmpo9v9c](../notes.d/NOTE-tmpo9v9c.md).
 
 ## Why this is here
 
@@ -81,5 +81,5 @@ whole's persistence while its parts vary. The generation of each part by
 the network of interactions, and the triplet, are a further property that
 Nicholson states in §4 as the answer to how a system comes into being.
 Weiss's members are processes supplying conditions, not constraints in
-TERM-070's sense, and the triplet is stronger than closure: every member
-depends on both others (NOTE-tmpo9v9c).
+[TERM-070](../terms.d/TERM-070.md)'s sense, and the triplet is stronger than closure: every member
+depends on both others ([NOTE-tmpo9v9c](../notes.d/NOTE-tmpo9v9c.md)).

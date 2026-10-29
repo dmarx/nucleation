@@ -152,14 +152,14 @@ increase agreement scores" (p. 156).
   (p. 155). Not held.
 - **Pragst 2022**, the one earlier attempt at pragmatic similarity, text only
   and on artificial data (p. 155). Not held.
-- **TyDiP** (LIT-tmp2g5v4, read the same day) reports agreement for a
+- **TyDiP** ([LIT-tmp2g5v4](../literature.d/LIT-tmp2g5v4.md), read the same day) reports agreement for a
   narrower judgement, politeness, as pairwise Spearman: 0.46 in the target
   language. The two numbers are close but measure different things.
 
 ## Bearing on the record
 
-- **CASE-tmph0fxi: its "main threat" sentence misreads the 0.45.** The case
-  says "PragSim's judges agreed at a mean correlation of 0.45 (LIT-tmphdoda),
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): its "main threat" sentence misreads the 0.45.** The case
+  says "PragSim's judges agreed at a mean correlation of 0.45 ([LIT-tmphdoda](../literature.d/LIT-tmphdoda.md)),
   so Stage 0's reliability targets must be met before any transport readout
   is interpreted". The conclusion stands; the premise is narrower than it
   reads. (a) 0.45 is Session 1 only; the other sessions gave 0.72 and 0.66,
@@ -173,7 +173,7 @@ increase agreement scores" (p. 156).
   translation pair differs in its words, so the agreement that matters for
   the case is the one for the Lexically-Distinct and Context-Only pairs,
   which the paper says is lower and does not report.
-- **CASE-055, Stage 0: a protocol to borrow, and a reliability figure that
+- **[CASE-055](../cases.d/CASE-055.md), Stage 0: a protocol to borrow, and a reliability figure that
   is not the one Stage 0 asks for.** Stage 0 wants written definitions, a
   fixed format, agreement between judges and between two passes of one
   judge, and known-groups validation. The paper has a written instruction
@@ -182,23 +182,23 @@ increase agreement scores" (p. 156).
   conditions are a rough known-groups test, and it half passes: Voice above
   Synthesized as built, Words-Only above Context-Only and Words+Context
   against the design. The paper's open admission that judges weigh different
-  cues (p. 156) is the measurement problem CLAIM-227 names, made visible.
-- **CLAIM-202: a warning that the "static" baseline may not be static.** The
+  cues (p. 156) is the measurement problem [CLAIM-227](../claims.d/CLAIM-227.md) names, made visible.
+- **[CLAIM-202](../claims.d/CLAIM-202.md): a warning that the "static" baseline may not be static.** The
   claim asks whether context-indexed response adds to the static pragmatic
   profile. Ward and Marco's judges were told to "Maybe consider … Similarity
   in how a listener would likely respond" and "Similarity in the contexts
   where they would likely appear" (Fig. 1). A similarity metric trained on
   these ratings would fold expected uptake into the baseline. A comparison
-  under CLAIM-202's defeat condition would have to say which baseline it
+  under [CLAIM-202](../claims.d/CLAIM-202.md)'s defeat condition would have to say which baseline it
   beats.
-- **CLAIM-226: in-session calibration is the opposite of what the claim
+- **[CLAIM-226](../claims.d/CLAIM-226.md): in-session calibration is the opposite of what the claim
   asks.** The paper averages a socially connected panel that discussed its
   ratings, and treats disagreement as something to accept and average
   (p. 158). It does observe structured differences between judges (strict
   against generous, integer users, extremes; p. 159), which supports the
   claim's premise that judges differ in a structured way.
-- **CLAIM-257: no bearing.**
-- **Should produce THEORY-tmps7et3** (Proposed): single-judge agreement on
+- **[CLAIM-257](../claims.d/CLAIM-257.md): no bearing.**
+- **Should produce [THEORY-tmps7et3](../theory.d/THEORY-tmps7et3.md)** (Proposed): single-judge agreement on
   pragmatic similarity is moderate and depends on lexical overlap and
   experience, and a panel mean is far more reliable.
 - **Machine-learning practice: an anthology candidate.** §8.3 tells modelers
@@ -233,4 +233,4 @@ increase agreement scores" (p. 156).
 - How consistent is one judge across two passes on the same pairs?
 - Would cross-language pairs, a seed and a translated re-enactment rated by
   bilinguals, reach the same agreement? That is the measurement
-  CASE-tmph0fxi needs and nobody has collected.
+  [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md) needs and nobody has collected.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpruw1i) from the Findings of EMNLP 2026
+  read in full 2026-10-29 ([NOTE-tmpruw1i](../notes.d/NOTE-tmpruw1i.md)) from the Findings of EMNLP 2026
   PDF, with the released items counted; worth reading for its
   native-authored, culturally specific pragmatic items in four Indic
   languages and its evidence that LLM errors lean literal. Its translation
@@ -61,16 +61,16 @@ summary: >-
 
 Singh, U., Veera Balaji Kumar, P., Nanda, P., Madhusoodanan, A., Guo, G., Xu, W., & Li, J. J. (2026). VakyArth: Evaluating pragmatic competence in LLMs across Indic languages. *Findings of EMNLP 2026*, 43027–43041.
 
-Read in full in NOTE-tmpruw1i.
+Read in full in [NOTE-tmpruw1i](../notes.d/NOTE-tmpruw1i.md).
 
 ## Why this is here
 
 A5's reason: it sets translation tasks and pragmatic inference on related material, which is the separation [CLAIM-202](../claims.d/CLAIM-202.md) wants measured, and A5 reported its finding that fluent translations can miss pragmatic meaning. Its subject is model evaluation; [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md) would need its items read by human receivers.
 
-Correction from the reading: the material is related by phenomenon only. VakyArth's 204 translation items and 374 MCQ and NLI items are separate, so it cannot supply the item-level separation CLAIM-202 wants, and the finding A5 reported rests on four hand-picked examples (NOTE-tmpruw1i).
+Correction from the reading: the material is related by phenomenon only. VakyArth's 204 translation items and 374 MCQ and NLI items are separate, so it cannot supply the item-level separation [CLAIM-202](../claims.d/CLAIM-202.md) wants, and the finding A5 reported rests on four hand-picked examples ([NOTE-tmpruw1i](../notes.d/NOTE-tmpruw1i.md)).
 
 ## Key takeaways
 
-- Translation items and inference items are different utterances (1 of 204 overlaps), so no item-level dissociation can be read from it (NOTE-tmpruw1i).
+- Translation items and inference items are different utterances (1 of 204 overlaps), so no item-level dissociation can be read from it ([NOTE-tmpruw1i](../notes.d/NOTE-tmpruw1i.md)).
 - Every gold label and every human rating comes from one native speaker per language; cells hold 5–16 items.
 - Models' errors lean to the literal reading; MCQ beats NLI in 20 of 20 model–language pairs.

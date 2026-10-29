@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpbs68a
 summary: >-
-  Alvarez-Melis, Jegelka and Jaakkola (2019), LIT-tmpbs68a, Lemmas
-  4.1–4.3 with proofs in Appendix D; read in NOTE-tmpdwqe2. Each step was
+  Alvarez-Melis, Jegelka and Jaakkola (2019), [LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md), Lemmas
+  4.1–4.3 with proofs in Appendix D; read in [NOTE-tmpdwqe2](../notes.d/NOTE-tmpdwqe2.md). Each step was
   checked numerically. Active: proved, and checked. The conditions
   matter. The p = 2 link to GW holds for the original transport problem
   only when the target is whitened and all vectors have equal norm, which
@@ -23,9 +23,9 @@ summary: >-
 
 ## Source
 
-Alvarez-Melis, Jegelka and Jaakkola (2019), LIT-tmpbs68a, §4 and
+Alvarez-Melis, Jegelka and Jaakkola (2019), [LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md), §4 and
 Appendix D, pp. 4–6 and 11–12 of arXiv 1806.09277v2; read in
-NOTE-tmpdwqe2.
+[NOTE-tmpdwqe2](../notes.d/NOTE-tmpdwqe2.md).
 
 ## What was actually shown
 
@@ -74,12 +74,12 @@ needed more than unit norms. It does not.
   preprocessing.
 - **That the invariance class is right for given data.** F is "pre-specified"
   (p. 4) and chosen by the analyst. Where the spaces differ by a
-  non-linear warp, no p fits (LIT-tmpentcd).
+  non-linear warp, no p fits ([LIT-tmpentcd](../literature.d/LIT-tmpentcd.md)).
 - **Anything local.** One P acts on every point. There is no frame per
   node, no relation that transforms, no cycle, and so no holonomy. This is
   the global freedom of the three that the exchange's A6 kept apart, not
-  the per-entity freedom of THEORY-tmpf3jtf.
+  the per-entity freedom of [THEORY-tmpf3jtf](THEORY-tmpf3jtf.md).
 - **That the solution is unique.** The problem is not jointly concave, and
-  any symmetry of the data inside the class gives ties (THEORY-tmpa43ta).
+  any symmetry of the data inside the class gives ties ([THEORY-tmpa43ta](THEORY-tmpa43ta.md)).
 - **That annealing finds the global optimum.** The paper's robustness to
   initialisation is observed on its tasks, not proved.

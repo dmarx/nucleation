@@ -167,7 +167,7 @@ interpreting that of native language" (p. 5726).
 
 ## Bearing on the record
 
-- **CASE-055, Stage 0: TyDiP does have human-agreement figures, and they are
+- **[CASE-055](../cases.d/CASE-055.md), Stage 0: TyDiP does have human-agreement figures, and they are
   the record's best benchmark so far for a politeness rating.** Three
   answers to the question the case asks. (a) **Between judges:** 0.46 mean
   pairwise Spearman in the target language, ranging 0.33 (Tamil) to 0.60
@@ -179,14 +179,14 @@ interpreting that of native language" (p. 5726).
   they may be higher than an unscreened panel would give. A Stage 0 target
   set from them should be read as an upper estimate for crowd judges
   without that screen.
-- **CASE-055, its known-groups test: TyDiP's §5 is a weak precedent.** The
+- **[CASE-055](../cases.d/CASE-055.md), its known-groups test: TyDiP's §5 is a weak precedent.** The
   formal and informal rewrites of one sentence are a contrast in wording
-  that, by CASE-055's rule, should not count as a difference in footing.
+  that, by [CASE-055](../cases.d/CASE-055.md)'s rule, should not count as a difference in footing.
   TyDiP finds that a politeness classifier usually gives both the same label
   (76–81%) but tends to score the formal one higher (68–73%; Table 7). That
   is a classifier, not people. It warns that a wording-only contrast can
   move a politeness rating.
-- **CLAIM-226: direct support for modelling the receivers' population.**
+- **[CLAIM-226](../claims.d/CLAIM-226.md): direct support for modelling the receivers' population.**
   The same people agree less when rating requests in their second language
   than in their first (in eight of nine languages), and agree with the
   original English panel at only 0.21–0.29 on raw labels (Table 9). Who
@@ -195,17 +195,17 @@ interpreting that of native language" (p. 5726).
   annotators on different items for each language" (p. 5727), so
   cross-language differences in agreement or accuracy confound population
   with items.
-- **CASE-tmph0fxi: a source of anchor items and a reliability reference, not
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): a source of anchor items and a reliability reference, not
   of translations.** TyDiP has no human translations. Its items are
   naturally occurring requests whose politeness score is known from a native
-  panel, which is what the case's static-preservation readout and CASE-055's
+  panel, which is what the case's static-preservation readout and [CASE-055](../cases.d/CASE-055.md)'s
   measurement-invariance anchors need. Its languages overlap VakyArth's in
   Hindi and Tamil, and Tamil is the language with the lowest own-language
   agreement here.
-- **CLAIM-202 and CLAIM-257: no bearing.** Nothing here concerns later
+- **[CLAIM-202](../claims.d/CLAIM-202.md) and [CLAIM-257](../claims.d/CLAIM-257.md): no bearing.** Nothing here concerns later
   framings or additions.
-- **Should produce THEORY-tmpxtosk** (Proposed): native-language politeness
-  agreement and its drop in the second language. **And THEORY-tmpotaav**
+- **Should produce [THEORY-tmpxtosk](../theory.d/THEORY-tmpxtosk.md)** (Proposed): native-language politeness
+  agreement and its drop in the second language. **And [THEORY-tmpotaav](../theory.d/THEORY-tmpotaav.md)**
   (Proposed): zero-shot transfer of an English-trained politeness classifier
   and its gap to people.
 - **Machine-learning practice.** The paper evaluates models and proposes a

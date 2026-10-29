@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpz0kel) from a scan of the published
+  read in full 2026-10-29 ([NOTE-tmpz0kel](../notes.d/NOTE-tmpz0kel.md)) from a scan of the published
   article on the author's Northwestern lab pages; worth reading as the
   founding statement that analogy maps relations rather than attributes
   and that higher-order relations select which relations go across,
@@ -62,7 +62,7 @@ summary: >-
 
 Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science*, 7(2), 155–170.
 
-Read in full in NOTE-tmpz0kel.
+Read in full in [NOTE-tmpz0kel](../notes.d/NOTE-tmpz0kel.md).
 
 ## Why this is here
 

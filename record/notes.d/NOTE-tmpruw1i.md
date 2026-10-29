@@ -168,7 +168,7 @@ that a model translates fluently what it fails to interpret, or the reverse.
 - **Ma et al. 2025**, the survey whose taxonomy the five phenomena follow
   (p. 43029); **PUB**, **MultiPragEval** and the Korean benchmarks as the
   English and East Asian predecessors (p. 43028). None held.
-- **xCOMET** (LIT-tmplu4ga), which CASE-tmph0fxi names as a baseline: here it
+- **xCOMET** ([LIT-tmplu4ga](../literature.d/LIT-tmplu4ga.md)), which [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md) names as a baseline: here it
   correlates with the human pragmatic-adequacy scores at r = 0.80,
   ρ = 0.79 overall, below the older COMET, and weakest on Hindi (ρ = 0.54)
   (Table 3). Hindi is the language whose COMET Pearson r is highest (0.85).
@@ -178,7 +178,7 @@ that a model translates fluently what it fails to interpret, or the reverse.
 
 ## Bearing on the record
 
-- **CASE-tmph0fxi: its description of VakyArth is wrong on the point it
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): its description of VakyArth is wrong on the point it
   relies on.** The case says "VakyArth's items … pair translation with
   pragmatic inference on the same material". They do not. The 578 items are
   three disjoint sets per language and phenomenon, and only one of 204
@@ -190,7 +190,7 @@ that a model translates fluently what it fails to interpret, or the reverse.
   written for the translation items, or the translation items built from
   the inference items. There is one route per item (Indic → English), no
   relay, and translations are by models, not translators under a brief.
-- **CLAIM-202: no evidence either way, though the paper is cited as if it
+- **[CLAIM-202](../claims.d/CLAIM-202.md): no evidence either way, though the paper is cited as if it
   gave some.** The claim needs renderings matched on a static profile that
   differ in later behaviour, judged by receivers. VakyArth has no receivers
   except the item authors and one rater per language, and its "translation
@@ -200,12 +200,12 @@ that a model translates fluently what it fails to interpret, or the reverse.
   expected. The exchange's report (in the LIT's "Why this is here") that
   "fluent translations can miss pragmatic meaning" is supported only by the
   four hand-picked examples in App. A.3.
-- **CASE-055, Stage 0: no reliability figure to borrow.** The gold labels,
+- **[CASE-055](../cases.d/CASE-055.md), Stage 0: no reliability figure to borrow.** The gold labels,
   the item review and the translation ratings each rest on one native
   speaker per language. The paper reports no agreement between two people,
   and no human accuracy on MCQ or NLI. The human–COMET correlation of 0.81 is
   agreement between a metric and one rater, not a reliability.
-- **CLAIM-226: a clean instance of the objection.** The benchmark treats one
+- **[CLAIM-226](../claims.d/CLAIM-226.md): a clean instance of the objection.** The benchmark treats one
   native speaker's reading as the language's: "Any Hindi speaker resolves
   this by price ranking" (Fig. 1 caption, p. 43027); "In Punjabi culture, an
   elder commenting on a younger person's appearance ('you look thin') is a
@@ -213,10 +213,10 @@ that a model translates fluently what it fails to interpret, or the reverse.
   p. 43041). Whether Punjabi readers agree, and which ones, is not measured.
   The items would make good anchor candidates for measurement invariance
   only after a panel of each community has rated them.
-- **CLAIM-257: little bearing.** The translation task penalizes losing the
+- **[CLAIM-257](../claims.d/CLAIM-257.md): little bearing.** The translation task penalizes losing the
   source's point in English, not adding to it.
-- **Should produce THEORY-tmp7mudy** (Proposed): models' errors on these
-  items lean literal, and MCQ beats NLI. **And THEORY-tmp0k3ls**
+- **Should produce [THEORY-tmp7mudy](../theory.d/THEORY-tmp7mudy.md)** (Proposed): models' errors on these
+  items lean literal, and MCQ beats NLI. **And [THEORY-tmp0k3ls](../theory.d/THEORY-tmp0k3ls.md)**
   (Proposed): COMET agrees with one native rater per language at r = 0.81,
   with hand-picked inversions it misses.
 - **Machine-learning practice: an anthology candidate.** The paper's
