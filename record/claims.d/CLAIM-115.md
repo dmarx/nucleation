@@ -176,10 +176,10 @@ is an owner ruling open since 2026-10-10.
 
 ## Note of 2026-10-29: superseded
 
-Superseded by CLAIM-220, which the record had filed on 2026-10-10 as the
+Superseded by [CLAIM-220](CLAIM-220.md), which the record had filed on 2026-10-10 as the
 restatement it would put forward in this thesis's place. The paragraph above
 that keeps this entry as the manuscript's thesis "and is not superseded"
 records the position until then. This entry stays what the manuscript says;
-CLAIM-220 is what the record holds open in its place. The objections filed
+[CLAIM-220](CLAIM-220.md) is what the record holds open in its place. The objections filed
 against this entry stay pointed at it, as the record of what forced the
 restatement.

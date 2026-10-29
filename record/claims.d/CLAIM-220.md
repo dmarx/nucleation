@@ -78,7 +78,7 @@ illustrated_by:
 This is the record's reply of 2026-10-10 to six objections to the tests of
 the manuscript's thesis. It is a proposal: a restatement of [CLAIM-115](CLAIM-115.md) that
 the record would put forward in its place, Proposed until the study it names
-is run. It was adopted in CLAIM-115's place on 2026-10-29.
+is run. It was adopted in [CLAIM-115](CLAIM-115.md)'s place on 2026-10-29.
 
 [CLAIM-115](CLAIM-115.md) says what survives is "the set of communicative distinctions and
 relations a receiving system can still reconstruct and act upon, not the

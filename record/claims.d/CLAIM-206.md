@@ -132,7 +132,7 @@ objection stays open until the owner decides on it.
 
 ## Note of 2026-10-29: the owner decided
 
-CLAIM-204 superseded CLAIM-139 on the owner's delegated ruling of 2026-10-29,
+[CLAIM-204](CLAIM-204.md) superseded [CLAIM-139](CLAIM-139.md) on the owner's delegated ruling of 2026-10-29,
 so the thesis the record holds open no longer has the third disjunct this
 objection showed always met or undecidable. The objection stays pointed at
-CLAIM-139, where it holds, and its status stays its credence (ADR-059).
+[CLAIM-139](CLAIM-139.md), where it holds, and its status stays its credence ([ADR-059](../decisions.d/ADR-059.md)).

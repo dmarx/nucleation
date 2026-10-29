@@ -85,7 +85,7 @@ objected_by:
 
 This is the record's restatement of 2026-10-10 of the October thesis
 ([CLAIM-139](CLAIM-139.md)), in reply to seven of the audit's objections. It is a proposal,
-Proposed until the study it names is run. It was adopted in CLAIM-139's
+Proposed until the study it names is run. It was adopted in [CLAIM-139](CLAIM-139.md)'s
 place on 2026-10-29.
 
 It keeps [CLAIM-139](CLAIM-139.md)'s four clauses and changes two of them and the defeat

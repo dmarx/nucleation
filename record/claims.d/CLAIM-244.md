@@ -123,8 +123,8 @@ own conditions are unchanged.
 
 ## Note of 2026-10-29: the owner decided
 
-CLAIM-220 superseded CLAIM-115, and CLAIM-204 superseded CLAIM-139, on the
+[CLAIM-220](CLAIM-220.md) superseded [CLAIM-115](CLAIM-115.md), and [CLAIM-204](CLAIM-204.md) superseded [CLAIM-139](CLAIM-139.md), on the
 owner's delegated ruling of 2026-10-29. Both name the receivers and the
 tasks, and both now fix the weights before the data, so the conditions this
 objection faulted are no longer the ones the record holds open. It stays
-pointed at the two it was filed against, and QUESTION-075 stays Open.
+pointed at the two it was filed against, and [QUESTION-075](../questions.d/QUESTION-075.md) stays Open.

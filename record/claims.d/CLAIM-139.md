@@ -222,7 +222,7 @@ Active counter. Whether [CLAIM-204](CLAIM-204.md) supersedes it is an owner ruli
 
 ## Note of 2026-10-29: superseded
 
-Superseded by CLAIM-204, the restatement the record filed on 2026-10-10. The
-chain reads CLAIM-133, then this entry, then CLAIM-204. The objections filed
-against this entry stay pointed at it. CLAIM-216, that one conjunctive thesis
-is defeated whole, already objects to CLAIM-204 too, and still bites it.
+Superseded by [CLAIM-204](CLAIM-204.md), the restatement the record filed on 2026-10-10. The
+chain reads [CLAIM-133](CLAIM-133.md), then this entry, then [CLAIM-204](CLAIM-204.md). The objections filed
+against this entry stay pointed at it. [CLAIM-216](CLAIM-216.md), that one conjunctive thesis
+is defeated whole, already objects to [CLAIM-204](CLAIM-204.md) too, and still bites it.
