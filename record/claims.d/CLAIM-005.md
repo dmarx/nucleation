@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0wmy3
 title: 'Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector; the match constrains a translation only once one outcome correspondence is fixed across many items, and summed over source contexts alone it charges for loss and not for addition'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -21,12 +21,28 @@ history:
     not the similarity of one canonical meaning vector. The repaired
     measures stay CLAIM-228 and CLAIM-257, Proposed; this claim does
     not rest on them. The defeated_if is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Defeat condition restated at the seventh status review, after the
+    narrowing above. CLAIM-207: the distance is computed with one
+    outcome correspondence fixed across a class of items and scored on
+    held-out items, or a constant kernel passes it. CLAIM-238: a
+    margin and a power are fixed before the data. CLAIM-226: the
+    judges are a named population. Version 1's condition read:
+    Embedding or propositional similarity between source and rendering
+    predicts held-out human communicative-fidelity judgements as well
+    as the context-indexed distribution distance does. CASE-184,
+    CLAIM-233 and ARG-026 quote that version.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   Embedding or propositional similarity between source and rendering
-  predicts held-out human communicative-fidelity judgements as well as
-  the context-indexed distribution distance does.
+  predicts held-out communicative-fidelity judgements, by a named
+  population of judges, as well as the context-indexed distribution
+  distance does, computed with one outcome correspondence fixed across a
+  class of items and scored on held-out items, within an equivalence
+  margin and at a power fixed before the data.
 tags:
 - philosophy-of-language
 - probabilistic-modeling

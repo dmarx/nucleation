@@ -72,3 +72,16 @@ stance or proposition with force.
 
 Filed 2026-10-28 by the [ADR-061](../decisions.d/ADR-061.md) migration, as the premise [CLAIM-232](../claims.d/CLAIM-232.md)'s and
 [CLAIM-233](../claims.d/CLAIM-233.md)'s argument needed.
+
+## Note of 2026-10-29: the conditions as revised
+
+The quotations above are the conditions as stated when this case was filed.
+At the seventh status review CLAIM-115, CLAIM-139 and CLAIM-005 were revised
+for CLAIM-238: each test now fixes its observables, their weights, an
+equivalence margin and a power before the data, and CLAIM-005's distance is
+computed with one outcome correspondence fixed across a class of items and
+scored on held-out ones (CLAIM-207). That repairs the null with no margin.
+It does not repair what this case says it cannot show: the rival is still
+one no account the record names holds (CLAIM-233), and predictor and
+criterion still share a method (CLAIM-232). CASE-055 remains the repair for
+those.
