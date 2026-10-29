@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Merton read (NOTE-tmprvkcw); the essay
+    Note of 2026-10-29 added: Merton read (NOTE-1409); the essay
     supports reading the mechanism as working through others' treatment.
     The case is unchanged.
 standing: fictional
@@ -79,7 +79,7 @@ treatment, which changes what counts as evidence and what the pupil faces.
 ## Note of 2026-10-29: Merton, read
 
 Merton 1948, [LIT-1398](../literature.d/LIT-1398.md), which "What it shows" calls registered unread, is
-now read ([NOTE-tmprvkcw](../notes.d/NOTE-tmprvkcw.md)). The case is his mechanism, and the essay
+now read ([NOTE-1409](../notes.d/NOTE-1409.md)). The case is his mechanism, and the essay
 supports the case's reading of it as working through others' treatment
 rather than through the labelled person's belief. In his §II the Black
 worker becomes a strikebreaker because the unions exclude him, not

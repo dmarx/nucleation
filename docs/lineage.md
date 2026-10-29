@@ -2,7 +2,7 @@
 
 # Lines of work
 
-81 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+82 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -1178,6 +1178,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1527](../record/literature.d/LIT-1527.md) — Reaching a Consensus *(Active)*
   - [LIT-1134](../record/literature.d/LIT-1134.md) — Persuasion Bias, Social Influence, and Unidimensional Opinions *(Active)*
+
+### From Intergroup Contact Theory
+
+- [LIT-1408](../record/literature.d/LIT-1408.md) — Intergroup Contact Theory *(Active)*
+  - [LIT-1413](../record/literature.d/LIT-1413.md) — A Meta-Analytic Test of Intergroup Contact Theory *(Active)*
+    - [LIT-1405](../record/literature.d/LIT-1405.md) — How Does Intergroup Contact Reduce Prejudice? Meta-Analytic Tests of Three Mediators *(Active)*
+- alongside: [LIT-1420](../record/literature.d/LIT-1420.md) — The Contact Hypothesis Re-evaluated *(Active)*
 
 ### From Representation of a preference ordering by a numerical function
 

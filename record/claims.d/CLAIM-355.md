@@ -25,7 +25,7 @@ history:
 - version: 4
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Revonsuo read (NOTE-tmpishg4); A27's five
+    Note of 2026-10-29 added: Revonsuo read (NOTE-1406); A27's five
     bindings are not his, but his split of stimulus-related from
     consciousness-related binding supports the claim's separation. The
     claim is unchanged.
@@ -304,7 +304,7 @@ and which stays Proposed.
 
 Revonsuo 1999, [LIT-1208](../literature.d/LIT-1208.md), which A27 gave as the longer history of the
 distinction between functional and phenomenal binding, is now read
-([NOTE-tmpishg4](../notes.d/NOTE-tmpishg4.md)). Two findings bear on "It does not solve phenomenal
+([NOTE-1406](../notes.d/NOTE-1406.md)). Two findings bear on "It does not solve phenomenal
 binding" above.
 
 - **A27's five bindings are not Revonsuo's.** His five kinds of

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Merton read (NOTE-tmprvkcw); he names
+    Note of 2026-10-29 added: Merton read (NOTE-1409); he names
     both routes the case joins, the self-fulfilling prophecy and moral
     alchemy, and does not join them. The case is unchanged.
 standing: fictional
@@ -80,7 +80,7 @@ is the evidence.
 ## Note of 2026-10-29: Merton's two routes
 
 Merton 1948, [LIT-1398](../literature.d/LIT-1398.md), registered to check whether Merton already covers
-this route, is now read ([NOTE-tmprvkcw](../notes.d/NOTE-tmprvkcw.md)). In part he does. His §IV
+this route, is now read ([NOTE-1409](../notes.d/NOTE-1409.md)). In part he does. His §IV
 describes out-groups that reject the in-group's definition and answer
 it, by self-assertion or self-effacement, and the in-group takes both
 answers "with mingled derision and contempt". His §III's "moral alchemy"

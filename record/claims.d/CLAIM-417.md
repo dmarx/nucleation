@@ -234,7 +234,7 @@ realizations, not as further senses.
 
 The contact works the exchange cited for a perspective revised by being
 made one of several are now read. Pettigrew's 1998 review, [LIT-1408](../literature.d/LIT-1408.md)
-([NOTE-tmpmwtvy](../notes.d/NOTE-tmpmwtvy.md)), names the nearest process. The fourth of its four
+([NOTE-1408](../notes.d/NOTE-1408.md)), names the nearest process. The fourth of its four
 processes of contact is ingroup reappraisal: optimal contact shows that
 "ingroup norms and customs turn out not to be the only ways to manage the
 social world", which "can reshape your view of your ingroup and lead to a
@@ -242,7 +242,7 @@ less provincial view of outgroups in general ('deprovincialization')"
 (p. 72). The word occurs once. Its evidence is thin: one unpublished
 analysis relating outgroup friendship to less national pride, and one
 laboratory study. Pettigrew and Tropp's 2008 meta-analysis of mediators,
-[LIT-1405](../literature.d/LIT-1405.md) ([NOTE-tmpdp52y](../notes.d/NOTE-tmpdp52y.md)), tests knowledge, anxiety and empathy with
+[LIT-1405](../literature.d/LIT-1405.md) ([NOTE-1405](../notes.d/NOTE-1405.md)), tests knowledge, anxiety and empathy with
 perspective taking, and lists "broadened views of the ingroup" only among
 the mediators not tested. Its perspective-taking leg, the nearest it
 comes, could not be separated from empathy, and nothing in it tests a

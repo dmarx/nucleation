@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 12:02 — The copies the first deferred-LIT pass turned down: nine works read under ADR-064, one Unfetched](2026-10.md#the-copies-the-first-deferred-lit-pass-turned-down-nine-works-read-under-adr-064-one-unfetched)
 - [29 Oct 10:42 — The 99 Deferred LITs searched for lawful copies: 51 read in full, 3 skimmed, 14 Unfetched, 31 Unavailable](2026-10.md#the-99-deferred-lits-searched-for-lawful-copies-51-read-in-full-3-skimmed-14-unfetched-31-unavailable)
 - [29 Oct 09:16 — The works registered from the exchange "Paper assessment", Goguen and Burstall's Institutions from the owner's copy, and Nicholson on Paul Weiss: twenty-five read in full, thirty-nine THEORYs, and what the readings changed in the record's own entries](2026-10.md#the-works-registered-from-the-exchange-paper-assessment-goguen-and-burstalls-institutions-from-the-owners-copy-and-nicholson-on-paul-weiss-twenty-five-read-in-full-thirty-nine-theorys-and-what-the-readings-changed-in-the-records-own-entries)
 - [29 Oct 07:32 — The exchange "Paper assessment": Sarkar, Mukherjee and Sato's gauge-theoretic attention read in full, its companion skimmed, twenty-three recommended works registered unread with every identifier checked, and two claims, a question and a proposed study for the record's own argument](2026-10.md#the-exchange-paper-assessment-sarkar-mukherjee-and-satos-gauge-theoretic-attention-read-in-full-its-companion-skimmed-twenty-three-recommended-works-registered-unread-with-every-identifier-checked-and-two-claims-a-question-and-a-proposed-study-for-the-records-own-argument)
@@ -150,9 +151,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-188 entries across 2 books, newest first.
+189 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 141 | 2026-10-01 | 2026-10-29 |
+| [2026-10](2026-10.md) | 142 | 2026-10-01 | 2026-10-29 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

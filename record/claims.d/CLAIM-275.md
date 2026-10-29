@@ -112,9 +112,9 @@ favour came before the liking.
 
 ## Note of 2026-10-29: the contact literature, read
 
-Pettigrew's 1998 review, [LIT-1408](../literature.d/LIT-1408.md) ([NOTE-tmpmwtvy](../notes.d/NOTE-tmpmwtvy.md)), and Pettigrew and
-Tropp's meta-analyses of 2006, [LIT-1413](../literature.d/LIT-1413.md) ([NOTE-tmplxoe7](../notes.d/NOTE-tmplxoe7.md)), and 2008,
-[LIT-1405](../literature.d/LIT-1405.md) ([NOTE-tmpdp52y](../notes.d/NOTE-tmpdp52y.md)), are now read. Contact before revised attitude
+Pettigrew's 1998 review, [LIT-1408](../literature.d/LIT-1408.md) ([NOTE-1408](../notes.d/NOTE-1408.md)), and Pettigrew and
+Tropp's meta-analyses of 2006, [LIT-1413](../literature.d/LIT-1413.md) ([NOTE-1407](../notes.d/NOTE-1407.md)), and 2008,
+[LIT-1405](../literature.d/LIT-1405.md) ([NOTE-1405](../notes.d/NOTE-1405.md)), are now read. Contact before revised attitude
 is the claim's order, and they bear on it in three ways.
 
 - **The review states the order.** Among contact's four processes:

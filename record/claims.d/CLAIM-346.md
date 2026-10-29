@@ -173,7 +173,7 @@ it any guaranteed simultaneous action. The claim is unchanged.
 ## Note of 2026-10-29: Akkoyunlu, Ekanadham and Huber, read
 
 Akkoyunlu, Ekanadham and Huber, [LIT-1214](../literature.d/LIT-1214.md), which the note above calls
-Unfetched, is now read ([NOTE-tmpsfusn](../notes.d/NOTE-tmpsfusn.md)). They do state the problem. Their
+Unfetched, is now read ([NOTE-1410](../notes.d/NOTE-1410.md)). They do state the problem. Their
 Appendix tells it as two groups of gangsters and a messenger who may be
 mugged on any trip, with a goal that the plan is delivered and that "both
 parties know that they are in mutual agreement" that it was, and proves by

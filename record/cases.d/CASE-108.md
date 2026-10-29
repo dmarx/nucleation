@@ -20,7 +20,7 @@ history:
 - version: 4
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 (Edmondson) added: read (NOTE-tmpd0qzq); evidence
+    Note of 2026-10-29 (Edmondson) added: read (NOTE-1404); evidence
     for protecting honest dissent in cooperative teams, none on its cost
     or on compromised members. The design is unchanged.
 standing: stipulated
@@ -157,7 +157,7 @@ The design is unchanged.
 ## Note of 2026-10-29: Edmondson, read
 
 Edmondson 1999, [LIT-1220](../literature.d/LIT-1220.md), which [CLAIM-359](../claims.d/CLAIM-359.md) takes as A41's anchor for the
-cost side, is now read ([NOTE-tmpd0qzq](../notes.d/NOTE-tmpd0qzq.md)). The "honestly dissenting"
+cost side, is now read ([NOTE-1404](../notes.d/NOTE-1404.md)). The "honestly dissenting"
 specialists are the role its construct, team psychological safety,
 protects: in 51 work teams of one company, members' belief that speaking
 up will not be punished went with the team's asking, admitting and

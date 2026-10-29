@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Seeley et al. read (NOTE-tmpuj9lb);
+    Note of 2026-10-29 added: Seeley et al. read (NOTE-1411);
     supports decision without a controller by cross-inhibition, with
     two precisions. The design is unchanged.
 standing: stipulated
@@ -73,7 +73,7 @@ for collective decision.
 ## Note of 2026-10-29: the swarm's stop signals, read
 
 Seeley et al., [LIT-1406](../literature.d/LIT-1406.md), cited above under "Related evidence", is now
-read ([NOTE-tmpuj9lb](../notes.d/NOTE-tmpuj9lb.md)). It supports the citation: nest-site scouts end
+read ([NOTE-1411](../notes.d/NOTE-1411.md)). It supports the citation: nest-site scouts end
 rival scouts' dances with stop signals, and no arbiter settles the
 choice. Two precisions.
 
