@@ -85,8 +85,8 @@ reading.
 
 ## Note of 2026-10-29: what holds it back
 
-Its one named source, LIT-1079, is Unavailable and unread. Its case, the
+Its one named source, [LIT-1079](../literature.d/LIT-1079.md), is Unavailable and unread. Its case, the
 exchange's own drift from A2 to A14, is in the body and not filed as a CASE.
 A21 §7's study at matched budgets, which the defeated_if names, has not been
-run. CLAIM-292's concession is already in "What it does not say"; the
+run. [CLAIM-292](CLAIM-292.md)'s concession is already in "What it does not say"; the
 claim was filed with it.

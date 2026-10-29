@@ -97,7 +97,7 @@ It does not say propositional content is irrelevant, only that it is one
 observable among several. It does not say the observables are fixed once
 for every study: the manuscript makes their choice explicit rather than
 deciding it, and a study that tests the thesis fixes its own, with their
-weights, before its data, binding the thesis to that choice (CLAIM-238). The
+weights, before its data, binding the thesis to that choice ([CLAIM-238](CLAIM-238.md)). The
 margin and power are the record's, not §10's.
 Its defeat condition is empirical (Case I–III, §10), and none of those studies
 has been run.
@@ -159,7 +159,7 @@ necessary nor sufficient" now rests on both.
 
 ## Note of 2026-10-29: what holds it back
 
-Two premises are Proposed, CLAIM-082 and CLAIM-486, and CASE-055, the study
-its condition now presupposes, has not been run. CLAIM-243's conceded
-ambiguity is answered only by CLAIM-220, and whether CLAIM-220 supersedes it
+Two premises are Proposed, [CLAIM-082](CLAIM-082.md) and [CLAIM-486](CLAIM-486.md), and [CASE-055](../cases.d/CASE-055.md), the study
+its condition now presupposes, has not been run. [CLAIM-243](CLAIM-243.md)'s conceded
+ambiguity is answered only by [CLAIM-220](CLAIM-220.md), and whether [CLAIM-220](CLAIM-220.md) supersedes it
 is an owner ruling open since 2026-10-10.

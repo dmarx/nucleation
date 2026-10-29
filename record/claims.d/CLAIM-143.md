@@ -175,7 +175,7 @@ none validates its correspondences independently.
 
 ## Note of 2026-10-29: what the experiments test
 
-CLAIM-238 granted, and CLAIM-239 narrowed, that the second disjunct says
+[CLAIM-238](CLAIM-238.md) granted, and [CLAIM-239](CLAIM-239.md) narrowed, that the second disjunct says
 something cannot be done. No finite record of failed validations shows that
 no correspondence can be validated independently. An argument can, for
 instance a proof that every validation procedure takes a fidelity judgement
@@ -184,6 +184,6 @@ only argument can defeat this claim on the circularity horn named above.
 
 ## Note of 2026-10-29: what holds it back
 
-Its premise CLAIM-004 is Proposed. The first disjunct needs pragmatic data
+Its premise [CLAIM-004](CLAIM-004.md) is Proposed. The first disjunct needs pragmatic data
 with a correspondence validated independently, which no study has collected,
-and QUESTION-005, which the second disjunct turns on, is Open.
+and [QUESTION-005](../questions.d/QUESTION-005.md), which the second disjunct turns on, is Open.

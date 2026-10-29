@@ -94,9 +94,9 @@ coordination, rather than by superior predictive updating."
 
 ## Note of 2026-10-29: what holds it back
 
-The informational clauses are carried by CLAIM-294 and CLAIM-300, both
+The informational clauses are carried by [CLAIM-294](CLAIM-294.md) and [CLAIM-300](CLAIM-300.md), both
 Active. The computational clause has only A10's illustrative example. The
 defeated_if asks about net value after costs, which the title does not
 assert and no study has measured; the two should say the same thing before
-promotion. CLAIM-293's concession is already in the body ("Not that topology
+promotion. [CLAIM-293](CLAIM-293.md)'s concession is already in the body ("Not that topology
 is enough"); the claim was filed with it.

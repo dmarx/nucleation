@@ -189,20 +189,20 @@ the partial reading is the premise this entry rests on.
 
 ## Note of 2026-10-29: three concessions
 
-On the fidelity clause this thesis and CLAIM-115 give opposite verdicts on
-CLAIM-140's two cases, so they answer the same part of QUESTION-002 and
-compete (CLAIM-211). The clause takes the analyst's identifiability in place
-of the receiver, and nothing in the exchange argues the change (CLAIM-140).
+On the fidelity clause this thesis and [CLAIM-115](CLAIM-115.md) give opposite verdicts on
+[CLAIM-140](CLAIM-140.md)'s two cases, so they answer the same part of [QUESTION-002](../questions.d/QUESTION-002.md) and
+compete ([CLAIM-211](CLAIM-211.md)). The clause takes the analyst's identifiability in place
+of the receiver, and nothing in the exchange argues the change ([CLAIM-140](CLAIM-140.md)).
 The record's reading that keeps both, recovery for survival and
-identifiability for certification, is CLAIM-223's, and CLAIM-204 states the
+identifiability for certification, is [CLAIM-223](CLAIM-223.md)'s, and [CLAIM-204](CLAIM-204.md) states the
 thesis that way. Both are proposals. This entry keeps A218's words, and its
 defeat condition is now bound to a margin, a power and observables fixed
-before the data (CLAIM-238), with transfer tested between languages
-(CLAIM-222).
+before the data ([CLAIM-238](CLAIM-238.md)), with transfer tested between languages
+([CLAIM-222](CLAIM-222.md)).
 
 ## Note of 2026-10-29: what holds it back
 
-Four of its five premises are Proposed: CLAIM-151, CLAIM-142, CLAIM-135 and
-CLAIM-077. CASE-055 has not been run, and CLAIM-206 and CLAIM-216 have no
-Active counter. Whether CLAIM-204 supersedes it is an owner ruling open since
+Four of its five premises are Proposed: [CLAIM-151](CLAIM-151.md), [CLAIM-142](CLAIM-142.md), [CLAIM-135](CLAIM-135.md) and
+[CLAIM-077](CLAIM-077.md). [CASE-055](../cases.d/CASE-055.md) has not been run, and [CLAIM-206](CLAIM-206.md) and [CLAIM-216](CLAIM-216.md) have no
+Active counter. Whether [CLAIM-204](CLAIM-204.md) supersedes it is an owner ruling open since
 2026-10-10.

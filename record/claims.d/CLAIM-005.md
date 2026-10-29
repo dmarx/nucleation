@@ -109,7 +109,7 @@ text quoted above is unchanged.
 
 ## Note of 2026-10-29: narrowed
 
-The title now carries CLAIM-207 and CLAIM-256 instead of leaving them to the
+The title now carries [CLAIM-207](CLAIM-207.md) and [CLAIM-256](CLAIM-256.md) instead of leaving them to the
 note of 2026-10-10. For one pair the kernel can make the match perfect
 whatever the translation did, and what a rendering adds is in no term. The
 contrast with one canonical meaning vector stands.
@@ -117,8 +117,8 @@ contrast with one canonical meaning vector stands.
 ## Note of 2026-10-29: what holds it back
 
 The defeat condition has not been tested, and as stated it cannot
-discriminate. CLAIM-233 and CLAIM-238 (both Active, granted) show that every
+discriminate. [CLAIM-233](CLAIM-233.md) and [CLAIM-238](CLAIM-238.md) (both Active, granted) show that every
 rival the record names also predicts a pass and that its null has no margin.
-CLAIM-244 (Proposed, unanswered) objects that it takes a task-free holistic
-judgement as ground truth. Restating the condition against CASE-055 is the
-owner's ruling; CASE-184, CLAIM-233 and ARG-026 quote it as it stands.
+[CLAIM-244](CLAIM-244.md) (Proposed, unanswered) objects that it takes a task-free holistic
+judgement as ground truth. Restating the condition against [CASE-055](../cases.d/CASE-055.md) is the
+owner's ruling; [CASE-184](../cases.d/CASE-184.md), [CLAIM-233](CLAIM-233.md) and [ARG-026](../arguments.d/ARG-026.md) quote it as it stands.
