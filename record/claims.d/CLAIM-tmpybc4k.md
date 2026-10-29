@@ -18,13 +18,13 @@ grounds:
 - LIT-tmp7qbeb
 - LIT-tmp1w1r9
 summary: >-
-  The empathy–altruism hypothesis as Batson et al. (1997) defend it against
-  Cialdini et al. (1997): in four experiments, empathy predicted helping
-  with self–other merging controlled, and merging did not mediate it.
-  Sober and Wilson (1998) argue on independent grounds that psychological
-  egoism is not established. Filed as the empirical objection to the
-  owner's thesis; both papers are unread, so the record holds the
-  disagreement, not its resolution.
+  The empathy–altruism hypothesis as Batson et al. (1997) defend it
+  against Cialdini et al. (1997): in experiments (two, by the SEP's
+  account), empathy predicted helping with self–other merging controlled,
+  and merging did not mediate it. Sober and Wilson (1998) argue on
+  independent grounds that psychological egoism is not established. Filed
+  as the empirical objection to the owner's thesis; both papers are
+  unread, so the record holds the disagreement, not its resolution.
 ---
 <!-- inactive-ok-file: CLAIM-tmpjylq8 QUESTION-tmprbq0b LIT-tmp7qbeb LIT-tmp1w1r9 LIT-tmpfxss5 — Proposed, Open or Deferred; the thesis objected to, its question, and the unread works on each side -->
 
@@ -47,3 +47,17 @@ self for the motive to serve.
 - **Not that the 1997 exchange is settled.** Cialdini et al. measured
   oneness differently. Which measure captures the self's extent is the
   crux that [QUESTION-tmprbq0b](../questions.d/QUESTION-tmprbq0b.md) asks about.
+
+## Note of 2026-10-29: the SEP's report
+
+Doris, Stich, Walmsley and Schulz (NOTE-tmpd1dh3) report that Batson et al.
+found methodological problems in Cialdini et al. and, in "a pair of
+experiments" that avoided them, found empathy's role in helping "clearly
+evident". They give no numbers, and the paper is still unread; the summary
+above now leaves the count to the SEP. They argue that none of the four
+merging measures in the exchange (IOS, "we", perceived similarity, a
+trait-rating difference) tests for perceived numerical identity. On their
+view only that would make helping egoistic, so neither side measured what
+egoism needs. The owner's thesis claims less than identity, an extended
+self-identification, so the argument leaves it open. It does put the
+thesis to saying why such a self counts as the agent's own.

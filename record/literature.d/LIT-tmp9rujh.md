@@ -5,7 +5,9 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; nothing on the Aron lab's pages;
   perception.org has only a catalogue entry. No NOTE is filed. It stays
-  Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  Unavailable until a copy is supplied
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a
+  substitute for reading it: Branand, Mashek and Aron 2019 (LIT-tmp7d7go).
 title: 'Close relationships as including other in the self'
 version: 1
 history:
@@ -17,7 +19,8 @@ history:
     Crossref: JPSP 60(2), 241–253; February 1991 only, so `published:`
     is 1991-02-01 and means February 1991 (ADR-002). Set Unavailable the
     same day after a search for a lawful copy (ADR-041); the status note
-    says where.
+    says where. On the same day Branand, Mashek and Aron 2019
+    (LIT-tmp7d7go) was read in its place.
 tags:
 - altruism
 - self
@@ -45,3 +48,21 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 Self-expansion is the relational form of the owner's "larger self" ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)), and León ([NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md)) cites it for close-relationship we-ness.
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Branand, Mashek and Aron (NOTE-tmpd7oz0) give the paper's thesis: in a
+close relationship each partner experiences the other's "resources,
+perspectives, and identities" as to some extent their own, and the other's
+outcomes are shared (p. 1). They give one result: in a me/not-me
+reaction-time task (Study 3), judging whether a trait describes oneself is
+slowed to the extent that the partner differs on it (p. 2). The task was
+later used to validate the IOS scale. The SEP entry quotes, from "Aron et
+al. 1980: 242", that much cognition about a close other "is cognition in
+which the other is treated as self or confused with self". That is
+probably this paper's p. 242. Missing still: the resource-allocation
+studies, which the LIT summary reports from secondary knowledge, the
+perspective and memory studies, all designs and numbers, and whether the
+effects were separated from liking.

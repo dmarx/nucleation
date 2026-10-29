@@ -165,3 +165,45 @@ Death* each press the thesis to say more exactly what it claims.
   multiply bearers of moral status. Whether an enlarged self inherits that
   problem is open.
 
+## Note of 2026-10-29: the psychology, read in place of unavailable works
+
+Works read in place of the unavailable psychology papers bear on the
+thesis at five points.
+
+- **The thesis in a precise form** (Miyazono and Inarimori, NOTE-tmpdrfdn).
+  They read Cialdini's "merging" as group identification: empathizing with
+  someone makes her welfare a constituent of "our" welfare. Helping is then
+  altruistic at the individual level and egoistic at the group level. That
+  is this claim, stated exactly, and it leaves Batson's individual-level
+  altruism standing. On their reading empathy always brings identification
+  with it, so the claim gains content only if identification can be found
+  absent where empathy is present.
+- **Two routes into a group self** (Otten, NOTE-tmpoxt60). Projecting the
+  personal self onto a new group (self-anchoring) is a larger self. Taking
+  on the group's traits (self-stereotyping) is a changed one. Which
+  operates depends on how much is known about the group. When participants
+  could also pay themselves, they took the most for themselves and favoured
+  the in-group with the rest: the personal self comes first.
+- **Larger or switched** (Spears and Postmes, NOTE-tmpeg80o; Spears,
+  NOTE-tmpbdqc5). The crowd member is not selfless: anonymity brings "the
+  group in the self", and behaviour follows group norms more closely. But
+  anonymity amplifies whichever identity is salient, which is a switch of
+  self, not an enlargement. Identity fusion (NOTE-tmp3g9n4) stays the
+  record's case for "larger".
+- **Which larger self** (Brewer, NOTE-tmphttin). Close relationships and
+  groups both extend the self, in different ways: the relational self takes
+  in particular others, the collective self a group. Brewer separates
+  relational collectivism, obligation to specific persons, from group-based
+  collectivism. The thesis should say which it means, or that it means
+  both.
+- **Helping follows the helper's category** (Dovidio et al., NOTE-tmpg3nwd).
+  Recategorizing two groups as one removed in-group bias in helping: at a
+  stadium, White fans complied with a Black interviewer's request 59% of
+  the time when he wore their university's hat, against 36% when he did
+  not. Shared identity raised empathic concern, which carried part of the
+  effect. But White students helped a Black student who called himself a
+  Black Colgate student no more than one who called himself Black. If
+  helping follows an extended self, it is the helper's version of the
+  shared category.
+
+The same extension in time, legacy, is QUESTION-tmpruhu4.

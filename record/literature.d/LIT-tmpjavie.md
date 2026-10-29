@@ -5,7 +5,9 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; Groningen's Pure and UvA-DARE
   have records without files. No NOTE is filed. It stays Unavailable until
-  a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its
+  place, and not a substitute for reading it: Spears and Postmes 2015
+  (LIT-tmp9ktre).
 title: 'A Social Identity Model of Deindividuation Phenomena'
 version: 1
 history:
@@ -17,7 +19,8 @@ history:
     Crossref: ERSP 6(1), 161–198; print January 1995, so `published:` is
     1995-01-01 and means January 1995 (ADR-002). Set Unavailable the
     same day after a search for a lawful copy (ADR-041); the status note
-    says where.
+    says where. On the same day Spears and Postmes 2015 (LIT-tmp9ktre)
+    was read in its place.
 tags:
 - social-identity
 - social-ontology
@@ -46,3 +49,18 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 Recasts crowd "deindividuation" as identity shift (Hornsey, [NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md), p. 210). It bears on [CASE-104](../cases.d/CASE-104.md)'s chants and boycotts, and on the record's crowd and collective-action cases.
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Spears & Postmes 2015 (NOTE-tmpeg80o), by two of its three authors. It
+gives the model the 1995 paper named. Anonymity and immersion bring a
+switch from personal to group identity, not a loss of self. Its cognitive
+dimension ("anonymity of") raises group salience; its strategic dimension
+("anonymity to") frees in-group-normative behaviour from out-group
+sanction. It also gives the experiments on each side: Reicher 1984, Spears
+et al. 1990, and Reicher & Levine 1994a and b. Missing still: the 1995
+paper's own argument and its review of deindividuation research, how it
+first stated the two dimensions, and anything it says about crowds that
+the later CMC framing leaves out.

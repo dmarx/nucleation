@@ -5,7 +5,9 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; nothing on Smith's Indiana pages
   or the volume editor's lab site. No NOTE is filed. It stays Unavailable
-  until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in
+  its place, and not a substitute for reading it: Smith and Mackie 2016
+  (LIT-tmp4ia47).
 title: 'Social Identity and Social Emotions: Toward New Conceptualizations of Prejudice'
 version: 1
 history:
@@ -17,7 +19,8 @@ history:
     Crossref: book chapter, 1993, pp. 297–315, year only, so
     `published:` is 1993-01-01 (ADR-002). Set Unavailable the same day
     after a search for a lawful copy (ADR-041); the status note says
-    where.
+    where. On the same day Smith and Mackie 2016 (LIT-tmp4ia47) was read
+    in its place.
 tags:
 - social-identity
 - emotion-and-affect
@@ -45,3 +48,17 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md), p. 216) and von Scheve & Ismer ([NOTE-552](../notes.d/NOTE-552.md)) both trace group-based emotion to it. It joins [THEORY-126](../theory.d/THEORY-126.md)'s collective emotion to the self-categorization readings.
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Smith and Mackie 2016 (NOTE-tmpfj8cp) cite the 1993 chapter as the origin
+of group-based emotion and restate its core: with a social identity
+salient, the group is an aspect of the self, events are appraised for
+their implications for the group, and emotions such as anxiety, anger or
+hope follow on its behalf (p. 3). They add that such emotions give "a
+highly differentiated account" of intergroup behaviour (p. 5), the 1993
+chapter's motive. Missing still: the chapter's own argument, its case for
+treating prejudice as an emotion rather than an attitude, its mapping of
+appraisals to specific emotions and actions, and its examples.

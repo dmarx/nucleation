@@ -1,0 +1,49 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpbdqc5), in place of LIT-tmpez438 and
+  LIT-tmpgdaz6, which could not be reached; worth reading as the most
+  recent overview, by an author of the SIDE model, of how
+  self-categorization theory treats influence, norms and deindividuation,
+  and as the record's second-hand access to Postmes & Spears 1998.
+title: 'Social Influence and Group Identity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed and read the same day, in place of LIT-tmpez438 and LIT-tmpgdaz6
+    (Unavailable), from the search for open works reporting them.
+    Crossref: Annual Review of Psychology 72, 367–390; print 2021-01-04,
+    so `published:` is that date (ADR-002); a Review in Advance appeared
+    2020-09-15. Read from the publisher's PDF in the University of
+    Groningen repository (pure.rug.nl), posted under the Taverne provision
+    of Dutch copyright law.
+tags:
+- social-identity
+- social-science
+- motivation
+date: '2026-10-29'
+published: '2021-01-04'
+doi: '10.1146/annurev-psych-070620-111818'
+first_author: 'Spears'
+keywords:
+- 'referent informational influence'
+- 'self-categorization theory'
+- 'SIDE model'
+- 'deindividuation'
+implementations: []
+summary: >-
+  A review, by one of the SIDE model's authors, of the self-categorization account of social influence. Group influence is not only compliance for approval (normative influence). Because a group can be a level of the self, influence from in-group members can be true private acceptance ("referent informational influence"). Classic findings are reread this way: Asch and Sherif conformity, Milgram obedience, minority influence, emergency crowds, bystander helping, emotional contagion and riots. Influence is moderated by identification, prototypicality, intergroup threat and context. Isolation and visual anonymity strengthen group influence rather than weakening it, as the SIDE model predicts. Crowd members do not lose the self; they switch to a group identity.
+---
+<!-- inactive-ok-file: LIT-tmpez438 LIT-tmpgdaz6 — Unavailable; the works this is read in place of -->
+
+# LIT-tmpqpjcf: Social Influence and Group Identity
+
+Spears, R. (2021). *Annual Review of Psychology*, 72, 367–390.
+
+Read in full in NOTE-tmpbdqc5.
+
+## Why this is here
+
+Read in place of LIT-tmpez438 and LIT-tmpgdaz6, which could not be reached. NOTE-tmpbdqc5 says what it reports of them and what is still missing.

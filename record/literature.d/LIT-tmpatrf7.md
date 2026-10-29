@@ -6,7 +6,9 @@ status_note: >-
   none posted by an author or publisher; the Princeton prejudice-reduction
   database has a record only. A copy on SPARQ (Stanford), not the authors'
   site, was not used. No NOTE is filed. It stays Unavailable until a copy
-  is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its place,
+  and not a substitute for reading it: Dovidio, Gaertner et al. 2009
+  (LIT-tmpn1mff).
 title: 'Reducing intergroup bias: The benefits of recategorization'
 version: 1
 history:
@@ -18,7 +20,8 @@ history:
     Crossref: JPSP 57(2), 239–249; August 1989 only, so `published:` is
     1989-08-01 and means August 1989 (ADR-002). Set Unavailable the same
     day after a search for a lawful copy (ADR-041); the status note says
-    where.
+    where. On the same day Dovidio, Gaertner et al. 2009 (LIT-tmpn1mff)
+    was read in its place.
 tags:
 - social-identity
 date: '2026-10-29'
@@ -45,3 +48,15 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 Cited by Turner et al. 1994 ([NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md)) for the widening of self-categorization, and the experimental origin of the common in-group identity model behind Biel ([NOTE-tmpmyga8](../notes.d/NOTE-tmpmyga8.md)).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Dovidio et al. 2009 (NOTE-tmpg3nwd) report the experiment in one sentence
+(p. 194): against a two-group condition, decategorization reduced bias by
+making former in-group members less attractive, and recategorization by
+making former out-group members more attractive. They also say the 1997
+helping study used a procedure "similar to" its group manipulation.
+Missing still: the design, the manipulations, the samples, the bias
+measures and every number.

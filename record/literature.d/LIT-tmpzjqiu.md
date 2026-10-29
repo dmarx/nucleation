@@ -5,7 +5,8 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; nothing on Rutgers or CUNY pages.
   No NOTE is filed. It stays Unavailable until a copy is supplied
-  ([ADR-041](../decisions.d/ADR-041.md)).
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a
+  substitute for reading it: Leach et al. 2008 (LIT-tmpwmitu).
 title: 'An Organizing Framework for Collective Identity: Articulation and Significance of Multidimensionality'
 version: 1
 history:
@@ -17,7 +18,8 @@ history:
     Crossref: Psychological Bulletin 130(1), 80–114; January 2004 only,
     so `published:` is 2004-01-01 and means January 2004 (ADR-002). Set
     Unavailable the same day after a search for a lawful copy (ADR-041);
-    the status note says where.
+    the status note says where. On the same day Leach et al. 2008
+    (LIT-tmpwmitu) was read in its place.
 tags:
 - social-identity
 date: '2026-10-29'
@@ -44,3 +46,19 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 The framework of identification used by Reimer et al. ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)), Biel ([NOTE-tmpmyga8](../notes.d/NOTE-tmpmyga8.md)) and Čater et al. ([LIT-1138](LIT-1138.md)).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Leach et al. 2008 (NOTE-tmp8tnhr) cite the review for its case that
+unitary identification measures are inadequate (p. 144), for
+identification as perceiving oneself in terms of the membership (p. 146),
+and for satisfaction as positive evaluation and centrality as chronic
+salience and importance (p. 147). They build a narrower model in the
+review's spirit and show its components separate and predict differently.
+Missing still: the review's own framework, its elements (among them, as
+the LIT's summary lists them, social embeddedness, behavioural
+involvement, and content and meaning, which Leach et al. do not measure),
+its review of measures, and its argument that the elements need not
+covary.

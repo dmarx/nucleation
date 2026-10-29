@@ -5,7 +5,9 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; a second search with all five
   authors found abstracts only (scilit, bohrium). No NOTE is filed. It
-  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  stays Unavailable until a copy is supplied
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a
+  substitute for reading it: Dovidio, Gaertner et al. 2009 (LIT-tmpn1mff).
 title: 'The Common Ingroup Identity Model: Recategorization and the Reduction of Intergroup Bias'
 version: 1
 history:
@@ -17,7 +19,9 @@ history:
     Crossref: ERSP 4(1), 1–26; print January 1993, so `published:` is
     1993-01-01 and means January 1993 (ADR-002). Crossref's online date
     (2011) is the backfile. Set Unavailable the same day after a search
-    for a lawful copy (ADR-041); the status note says where.
+    for a lawful copy (ADR-041); the status note says where. On the same
+    day Dovidio, Gaertner et al. 2009 (LIT-tmpn1mff) was read in its
+    place.
 tags:
 - social-identity
 date: '2026-10-29'
@@ -44,3 +48,15 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 The model Biel ([NOTE-tmpmyga8](../notes.d/NOTE-tmpmyga8.md)) and Reimer et al. ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)) use, and behind Pettigrew's recategorization ([LIT-1408](LIT-1408.md)).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Dovidio et al. 2009 (NOTE-tmpg3nwd) restate the model the 1993 paper set
+out: four representations (one group, two subgroups within one group, two
+groups, separate individuals) with distinct consequences, and the dual
+identity as a second form of recategorization. They extend it to helping.
+They do not cite the 1993 paper. Missing still: its account of how the
+contact hypothesis's conditions work through recategorization, and its
+laboratory and field evidence.

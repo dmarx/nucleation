@@ -5,7 +5,9 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; UQ eSpace's API refused the
   request (HTTP 403) and ANU Open Research had no match. No NOTE is filed.
-  It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  It stays Unavailable until a copy is supplied
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a
+  substitute for reading it: Spears 2021 (LIT-tmpqpjcf).
 title: 'Perceiving people as group members: The role of fit in the salience of social categorizations'
 version: 1
 history:
@@ -17,7 +19,8 @@ history:
     Crossref: BJSP 30(2), 125–144; print June 1991, so `published:` is
     1991-06-01 and means June 1991 (ADR-002). Crossref's online date
     (2011) is the backfile. Set Unavailable the same day after a search
-    for a lawful copy (ADR-041); the status note says where.
+    for a lawful copy (ADR-041); the status note says where. On the same
+    day Spears 2021 (LIT-tmpqpjcf) was read in its place.
 tags:
 - social-identity
 - self
@@ -46,3 +49,17 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 The primary experiment behind [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)'s fit clause, reported in Turner et al. 1994 ([NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md)) and Reimer et al. ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)). That THEORY's promote_when asks for a primary study read in full; this is one.
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Spears 2021 (NOTE-tmpbdqc5). It does not cite the 1991 paper. It defines
+comparative fit (groups differ on the dimension) and normative fit (they
+differ in the stereotyped direction) in the same terms (p. 373). It also
+reports a study of the same form from another lab. In Lea et al. 2007,
+cross-cutting nationality and sex subgroups each bipolarized only on
+topics that fitted their own category. Missing still: the 1991 design (six
+arts and science students in a staged discussion), its measure of salience
+by attributions to academic field, its data, and whether comparative and
+normative fit had separable effects.
