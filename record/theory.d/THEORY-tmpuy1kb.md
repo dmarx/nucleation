@@ -14,12 +14,12 @@ extends:
 - THEORY-067
 summary: >-
   What Ainslie's précis of Breakdown of Will proposes, split from
-  THEORY-067 by the ninth status review (ADR-058's route, on THEORY-1110's
+  [THEORY-067](THEORY-067.md) by the ninth status review ([ADR-058](../decisions.d/ADR-058.md)'s route, on [THEORY-1110](THEORY-1110.md)'s
   pattern) so that a claim needing only the proposal can stand on it. The
-  précis was read in full (NOTE-443), so the reading of what it proposes
+  précis was read in full ([NOTE-443](../notes.d/NOTE-443.md)), so the reading of what it proposes
   is held. Whether the proposal is true, which turns on bundling by
   self-prediction, the credibility of precedents and the order of lapse
-  districts, stays THEORY-067's question, Proposed.
+  districts, stays [THEORY-067](THEORY-067.md)'s question, Proposed.
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 
@@ -27,11 +27,11 @@ summary: >-
 
 ## Source
 
-Ainslie (2005), *Précis of Breakdown of Will*, LIT-586, read in full in
-NOTE-443: all twelve sections, the notes and the references. The figures
+Ainslie (2005), *Précis of Breakdown of Will*, [LIT-586](../literature.d/LIT-586.md), read in full in
+[NOTE-443](../notes.d/NOTE-443.md): all twelve sections, the notes and the references. The figures
 and formulas did not survive extraction and are described from the prose.
-The book, LIT-583, and the BBS commentaries are unread. Schelling (LIT-602),
-THEORY-067's second source, is not part of this entry: he describes the
+The book, [LIT-583](../literature.d/LIT-583.md), and the BBS commentaries are unread. Schelling ([LIT-602](../literature.d/LIT-602.md)),
+[THEORY-067](THEORY-067.md)'s second source, is not part of this entry: he describes the
 phenomena and proposes no mechanism.
 
 ## The proposal
@@ -51,7 +51,7 @@ power." Against an organ of will the précis asks "What keeps this strength
 from being co-opted by the bad option?"
 
 So the proposal places the integration of choice over time in bargaining
-among interests, with no specifier above them. CLAIM-159 uses that
+among interests, with no specifier above them. [CLAIM-159](../claims.d/CLAIM-159.md) uses that
 placement: it puts this account in the aggregate or emergent cell of the
 drive profile.
 
@@ -60,7 +60,7 @@ drive profile.
 It does not say the proposal is true. The précis "is a theoretical
 synthesis". Its cited experiments impose bundling from outside, and it
 concedes the mechanism is "hard to study directly by controlled
-experiment". The tests are THEORY-067's `promote_when`, and THEORY-067 stays
+experiment". The tests are [THEORY-067](THEORY-067.md)'s `promote_when`, and [THEORY-067](THEORY-067.md) stays
 Proposed until the record holds them. Nor does this entry hold Schelling's
 description, or the predicted costs of will (legalism, lapse districts),
 which the précis fits to clinical observation.

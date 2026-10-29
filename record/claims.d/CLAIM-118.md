@@ -95,7 +95,7 @@ linear-attention layer on in-context regression exactly, when tasks and
 inputs share an eigenbasis. Training ends at a known fixed point: a
 predictor that applies a preconditioner, the inverse of the *training* input covariance (exactly so in the
 long-context limit; the paper's finite-context correction holds as stated
-only for isotropic inputs, THEORY-481), to each context's own empirical
+only for isotropic inputs, [THEORY-481](../theory.d/THEORY-481.md)), to each context's own empirical
 covariance (their Eq. 11). In the long-context limit each eigenmode of the training
 covariance is learned on its own slow, logistic timescale.
 
@@ -118,11 +118,11 @@ adaptation at test time.
 
 ## Note of 2026-10-29: what holds it back
 
-THEORY-169, Active, holds that for unnormalized causal linear attention
+[THEORY-169](../theory.d/THEORY-169.md), Active, holds that for unnormalized causal linear attention
 conditioning and per-sequence weight updates "differ in what state is kept,
 not in kind". So in those layers the title's "adaptation changes the
 decoder" names the same computation as conditioning. The section above
 answers this only for the trained interpreter against the context, and says
 so; nothing in the record answers it for adaptation at test time. The claim
 needs that answer, or a title that tells context from interpreter by what is
-carried across contexts rather than by mechanism, as CLAIM-074 now does.
+carried across contexts rather than by mechanism, as [CLAIM-074](CLAIM-074.md) now does.

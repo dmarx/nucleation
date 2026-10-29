@@ -86,8 +86,8 @@ bears_on:
 Mainali & Teixeira (2025), [LIT-859](../literature.d/LIT-859.md) (NeurReps workshop, arXiv v2), read in
 full in [NOTE-658](../notes.d/NOTE-658.md). [NOTE-658](../notes.d/NOTE-658.md) filed no THEORY because the result concerns
 training transformers and the staged learning is Saxe et al.'s pattern,
-which the record then did not hold as a source. The record now holds its exact solution as THEORY-740, which this account
-carries to attention; THEORY-186 holds the claim that random starts follow
+which the record then did not hold as a source. The record now holds its exact solution as [THEORY-740](THEORY-740.md), which this account
+carries to attention; [THEORY-186](THEORY-186.md) holds the claim that random starts follow
 it.
 
 ## What was actually shown
@@ -183,9 +183,9 @@ the aligned weights the derivation assumes.
 
 ## Connections
 
-- **Extends THEORY-740.** Whether random starts reach that solution is
-  THEORY-186's open claim, and the same question for attention is
-  QUESTION-tmpuk5nc. Saxe et al.'s two-layer linear network learns the
+- **Extends [THEORY-740](THEORY-740.md).** Whether random starts reach that solution is
+  [THEORY-186](THEORY-186.md)'s open claim, and the same question for attention is
+  [QUESTION-tmpuk5nc](../questions.d/QUESTION-tmpuk5nc.md). Saxe et al.'s two-layer linear network learns the
   singular modes of its input–output correlations one at a time, in order
   of strength, because the map is a product of layers. Here the product is
   of the two attention factors, and the order is set by the input

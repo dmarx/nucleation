@@ -77,8 +77,8 @@ current task and discarded after it is part of the contextual history.
 
 ## Note of 2026-10-29: what holds it back
 
-Its one premise, CLAIM-118, is Proposed, held by THEORY-169's identity of
-conditioning and per-sequence adaptation in linear attention. CLAIM-118
+Its one premise, [CLAIM-118](CLAIM-118.md), is Proposed, held by [THEORY-169](../theory.d/THEORY-169.md)'s identity of
+conditioning and per-sequence adaptation in linear attention. [CLAIM-118](CLAIM-118.md)
 still states the split by mechanism, which this claim's title no longer
 uses. Until both are stated the same way, this claim rests on a premise
 phrased for a distinction it has given up.

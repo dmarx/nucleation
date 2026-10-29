@@ -122,7 +122,7 @@ first loop, that the first loop's behaviour does not set ([THEORY-324](../theory
 
 - It does not say any amount of such evidence suffices. Where a loop pools
   an independent channel with one it selects, as the audience of Weatherall,
-  O'Connor and Bruner does (THEORY-845, THEORY-855), the independent channel
+  O'Connor and Bruner does ([THEORY-845](../theory.d/THEORY-845.md), [THEORY-855](../theory.d/THEORY-855.md)), the independent channel
   anchors it only as far as it outweighs the selected one.
 
 - It does not say an agent without action has independent evidence. The

@@ -140,7 +140,7 @@ signal** and **the organization's authority to evaluate it**."
   governance revision. The last is [CLAIM-025](CLAIM-025.md): the regime, the governing
   organization and the capacity to transform it fail separately. The
   pattern is "**bounded stabilization followed by evidence-responsive
-  correction**". The source framework is Linehan's DBT, registered unread as LIT-1221.
+  correction**". The source framework is Linehan's DBT, registered unread as [LIT-1221](../literature.d/LIT-1221.md).
 - **RO-DBT: control can be the disorder.** Lynch's RO-DBT, in A42's table,
   sets "Adaptive self-control versus excessive inhibition, rigidity, and
   restricted social signaling".
@@ -185,7 +185,7 @@ novelty": on their account organizational flexibility is not an aggregate
 of flexible individuals but "must be **retained and propagated through the
 organization's pattern of consequences and authority**". Their antecedent is
 Bond's organizational flexibility model, which A42 dated 2018 and which
-could not be identified uniquely. Guida et al. is registered, unread, as LIT-1218; Bond's model is not
+could not be identified uniquely. Guida et al. is registered, unread, as [LIT-1218](../literature.d/LIT-1218.md); Bond's model is not
 registered. The organizational
 transfer of ACT is theirs before it is the record's; what the record can
 add is the influence model of how flexibility propagates or entrenches.

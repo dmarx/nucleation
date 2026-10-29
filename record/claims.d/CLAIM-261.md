@@ -96,8 +96,8 @@ divided agent pays for its unity in effort, devices and lapses.
 - [CLAIM-198](CLAIM-198.md) says a self is divided over a choice only on an overlap.
   This claim says that a self divided on an overlap can still act as one
   there.
-- The objection that synchronization lacks a mechanism, once CLAIM-163, is
-  now in ARG-016. If
+- The objection that synchronization lacks a mechanism, once [CLAIM-163](CLAIM-163.md), is
+  now in [ARG-016](../arguments.d/ARG-016.md). If
   synchronization is not what acting as one consists in, the objection
   bears on the account of the good case and not on the account of
   integration as a whole.

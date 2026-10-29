@@ -77,12 +77,12 @@ bears_on:
 Read through [TERM-051](../terms.d/TERM-051.md), with the person as parts (interests or
 regimes) and a higher level (resolve, control, the will):
 
-- **THEORY-tmpuy1kb (Ainslie).** "Interests ... are not options chosen by an
+- **[THEORY-tmpuy1kb](../theory.d/THEORY-tmpuy1kb.md) (Ainslie).** "Interests ... are not options chosen by an
   overarching ego", and the person is "just the resultant". That is the
   aggregate kind. If resolve, the recursive staking of future choices, is
   a property only the bargaining process has, it is the emergent kind,
   with decoupling. The précis does not say which.
-- **THEORY-1110 (expected value of control).** A dedicated system computes
+- **[THEORY-1110](../theory.d/THEORY-1110.md) (expected value of control).** A dedicated system computes
   how much control to exert and specifies it to implementing structures.
   That is the top-down kind, with a designated driver.
 - **[CLAIM-027](CLAIM-027.md) and [TERM-023](../terms.d/TERM-023.md) (will-organization).** "The maintained

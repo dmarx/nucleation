@@ -176,9 +176,9 @@ also only the record of the contests admitted to it. Where a legibility
 regime selects which contests are admitted or recorded, an acyclic record,
 even a persistent potential, can be the product of that selection, so a
 coherent record is not by itself evidence that the perspectives are
-integrated (CLAIM-448). A potential is read as the organization's, and its
+integrated ([CLAIM-448](CLAIM-448.md)). A potential is read as the organization's, and its
 valence with it, only on a record shown to admit the contests that bear on
-it, as CLAIM-403's ladder of access, recognition, credibility and uptake
+it, as [CLAIM-403](CLAIM-403.md)'s ladder of access, recognition, credibility and uptake
 would require; otherwise it is the valence of the admitted negotiation.
 
 **What is not new here.** The dynamics of an ordering coming to prevail are Lewis's ([LIT-1455](../literature.d/LIT-1455.md),
@@ -224,23 +224,23 @@ sign.
    contested pairs in the record of wins, where perspectives rank a pair
    differently and one prevails. Where no pair is contested, no ranking
    wins anything, and every ordering is trivially the negotiation's
-   potential (CLAIM-434, part 8), so valence is not a consequence of
-   existence alone. TERM-076 makes this a condition of the definition, and
+   potential ([CLAIM-434](CLAIM-434.md), part 8), so valence is not a consequence of
+   existence alone. [TERM-076](../terms.d/TERM-076.md) makes this a condition of the definition, and
    valence is undefined there, not zero. A thermostat, one loop with one
    ranking, has no valence on this account. This is the analogue of
    Frijda's "In the absence of concern pertinence, there is no motive"
-   (THEORY-055), and it does the work of Veit's restriction to animals of
+   ([THEORY-055](../theory.d/THEORY-055.md)), and it does the work of Veit's restriction to animals of
    high pathological complexity, without a threshold. What the condition
-   needs is contest, not frustration (TERM-060): rankings can contest
+   needs is contest, not frustration ([TERM-060](../terms.d/TERM-060.md)): rankings can contest
    while every demand stays jointly satisfiable, the contest being over
    which satisfying outcome, and demands can be jointly infeasible, a
-   non-trivial compatibility complex (CLAIM-347), before any contest is
-   recorded (CLAIM-449). So valence is not a consequence of the record's
-   frustration line (CLAIM-347, CLAIM-368); the two are about different
-   relations. The absorbed writer (CASE-051), with nothing contested, has
+   non-trivial compatibility complex ([CLAIM-347](CLAIM-347.md)), before any contest is
+   recorded ([CLAIM-449](CLAIM-449.md)). So valence is not a consequence of the record's
+   frustration line ([CLAIM-347](CLAIM-347.md), [CLAIM-368](CLAIM-368.md)); the two are about different
+   relations. The absorbed writer ([CASE-051](../cases.d/CASE-051.md)), with nothing contested, has
    no goal-conduciveness valence while absorbed: the account leaves it
    undefined. Whether the writing is positive during the episode, and if
-   so at which level of valence, is CLAIM-441's case, and open.
+   so at which level of valence, is [CLAIM-441](CLAIM-441.md)'s case, and open.
 2. **Sign is progress against a reference course, and needs only the
    ordering.** Positive when the system runs ahead of where it was
    expected to be on the potential ranking, negative when behind, neutral
@@ -340,7 +340,7 @@ is of goal-conduciveness valence, not hedonic valence.
 
 - **That a coherent record shows an integrated organization.** A potential
   describes the relation of wins it is computed on, and what was not
-  admitted is not in it (CLAIM-448).
+  admitted is not in it ([CLAIM-448](CLAIM-448.md)).
 - **That the regime is felt.** The claim is functional. Veit identifies
   felt valence with the currency ([THEORY-101](../theory.d/THEORY-101.md)); adopting that identity for
   this regime is a further step the record has not taken, and the
@@ -386,10 +386,10 @@ stays open for both signs, as it says. The claim is unchanged.
 
 ## Note of 2026-10-29: what holds it back
 
-CLAIM-441's flow case is unanswered: on CLAIM-162's reading nothing in flow
+[CLAIM-441](CLAIM-441.md)'s flow case is unanswered: on [CLAIM-162](CLAIM-162.md)'s reading nothing in flow
 is contested, so consequence 1 leaves flow's valence undefined while flow is
 reported as positive, and which exit holds turns on the unread flow
-literature (LIT-914). Clause 3 is open for both signs by the claim's own
-account, which is CLAIM-468, and waits on Carver 2003 (LIT-1445). And the
-premise CLAIM-039 is held by THEORY-101's identification of valence with a
+literature ([LIT-914](../literature.d/LIT-914.md)). Clause 3 is open for both signs by the claim's own
+account, which is [CLAIM-468](CLAIM-468.md), and waits on Carver 2003 ([LIT-1445](../literature.d/LIT-1445.md)). And the
+premise [CLAIM-039](CLAIM-039.md) is held by [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a
 felt state, which no claim in the record answers.

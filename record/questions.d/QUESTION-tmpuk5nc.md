@@ -10,9 +10,9 @@ line: learned-structure
 refines:
 - QUESTION-039
 summary: >-
-  The promotion condition formerly on THEORY-481, moved here when the
+  The promotion condition formerly on [THEORY-481](../theory.d/THEORY-481.md), moved here when the
   ninth status review narrowed it to the aligned case it derives and
-  promoted it, as THEORY-285's moved to QUESTION-tmpxd26n. THEORY-186
+  promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-tmpxd26n](QUESTION-tmpxd26n.md). [THEORY-186](../theory.d/THEORY-186.md)
   holds the same open claim for two-layer linear networks.
 ---
 
@@ -20,8 +20,8 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-481's derivation assumes the weights are aligned with the input
-covariance's eigenbasis at initialisation and throughout (NOTE-658, the
+[THEORY-481](../theory.d/THEORY-481.md)'s derivation assumes the weights are aligned with the input
+covariance's eigenbasis at initialisation and throughout ([NOTE-658](../notes.d/NOTE-658.md), the
 paper's A.11.2), and its simulations start aligned. Whether training from a
 random start reaches that alignment, and so whether the staged learning
 holds in general, is not shown.

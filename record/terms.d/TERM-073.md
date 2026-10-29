@@ -65,8 +65,8 @@ Three parts, in both:
    do next. Significance is not "an association supplied by an outside
    observer" (A7). Whether the interpretation then acts, and whether the
    system itself allocates that, are further properties, its efficacy and
-   its allocation. CLAIM-414's constructions separate them under matched
-   trajectories, and TERM-072's organizational perspective conditions them.
+   its allocation. [CLAIM-414](../claims.d/CLAIM-414.md)'s constructions separate them under matched
+   trajectories, and [TERM-072](TERM-072.md)'s organizational perspective conditions them.
 
 In the record's operator model ([CLAIM-336](../claims.d/CLAIM-336.md)) A11 wrote it as
 j_{i,t} = J_i(s_{i,t}; x_t, q_t, w_t): a local interpretive

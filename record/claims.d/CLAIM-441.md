@@ -95,7 +95,7 @@ wrong about one of the clearest cases of positive engagement there is.
 4. **The condition is wrong.** Valence could be defined where nothing is
    contested, for instance as progress along the shared ordering against a
    reference course, with no conflict needed. That would give up
-   [CLAIM-440](CLAIM-440.md)'s first consequence, "no contest, no valence" (stated as frustration until 2026-10-29; CLAIM-449), and with
+   [CLAIM-440](CLAIM-440.md)'s first consequence, "no contest, no valence" (stated as frustration until 2026-10-29; [CLAIM-449](CLAIM-449.md)), and with
    it the account's restriction of valence to systems with conflicts.
 
 ## What it does not say

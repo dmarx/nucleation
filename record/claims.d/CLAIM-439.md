@@ -111,7 +111,7 @@ account", the limit [QUESTION-266](../questions.d/QUESTION-266.md) is meant to g
 **What it would answer.** [CLAIM-411](CLAIM-411.md) asks which further organizational
 properties make an interpretation experiential, under the owner's
 constitutive thesis ([CLAIM-412](CLAIM-412.md)). For affect, this is a candidate: the
-system's model of its own potential. It bears on QUESTION-059, whether a state meeting a functional
+system's model of its own potential. It bears on [QUESTION-059](../questions.d/QUESTION-059.md), whether a state meeting a functional
 characterization of affect must be felt, without answering it: in the
 sense of "felt" adopted here, attended and available, the answer would be
 no, since the state is felt when it is also modelled, and an organization

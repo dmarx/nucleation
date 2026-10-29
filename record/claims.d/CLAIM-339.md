@@ -115,7 +115,7 @@ action is one more way a loop selects its own evidence.
 
 ## Note of 2026-10-29: filed with its concessions
 
-CLAIM-342, Active since the ninth status review, objects to this counter.
+[CLAIM-342](CLAIM-342.md), Active since the ninth status review, objects to this counter.
 Its concession is in this counter's text as filed on 2026-10-16: the
 section "Conceded" narrows it from a self-confirming minimum without action
 to the loss of one route for unselected evidence.

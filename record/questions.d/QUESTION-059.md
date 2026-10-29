@@ -41,7 +41,7 @@ summary: >-
 ## What the record holds
 
 - [THEORY-101](../theory.d/THEORY-101.md) bears on the identity side: to feel bad is "to occupy a coordinated regulatory state", and function and phenomenality "are identical". Limit: a sketch, for hedonic valence in animals, not Frijda's action readiness.
-- CLAIM-439 offers a further mechanism, the system's model of its own potential, in an access sense of "felt". Limit: it declines the phenomenal sense this question asks about.
+- [CLAIM-439](../claims.d/CLAIM-439.md) offers a further mechanism, the system's model of its own potential, in an access sense of "felt". Limit: it declines the phenomenal sense this question asks about.
 - [THEORY-045](../theory.d/THEORY-045.md) names the mechanism side: felt affect is "the experience of the body's regulatory state". Limit: it does not say why the state is felt.
 - [THEORY-093](../theory.d/THEORY-093.md) names a candidate mechanism: feelings are "hybrid", because interoceptive pathways "let the body act directly on the neurons that map it". An organization has no such pathway. Limit: an interpretation of anatomy, read Skimmed.
 - [THEORY-090](../theory.d/THEORY-090.md) puts felt affect in a specific subcortical substrate, not in a role. Limit: no marker separates a felt alarm from an unfelt one.
