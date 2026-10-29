@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-115 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+116 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -97,6 +97,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-421](../record/theory.d/THEORY-421.md) — In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary *(Active)*
   - [THEORY-825](../record/theory.d/THEORY-825.md) — Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly *(Proposed)*
 
+## behavioral-integration
+
+### From How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
+
+- [THEORY-070](../record/theory.d/THEORY-070.md) — How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control *(Proposed)*
+  - [THEORY-1110](../record/theory.d/THEORY-1110.md) — Shenhav, Botvinick and Cohen propose that control is allocated top-down by a dedicated specifying system: dACC computes the expected value of a control signal, its probability-weighted payoff less an intrinsic cost rising with intensity, and specifies the signal that lateral prefrontal and subcortical structures implement *(Active)*
+
 ## causality
 
 ### From On Pythia language models from 410M to 12B parameters, in three single prompt pairs and two small prompt distributions, verifying attention or neuron nodes by activation patching in the order given by attribution patching, a first-order gradient estimate of each node's noising effect, found the nodes with the largest effects at about 2 to 50 times the cost of an oracle ordering, below unordered patching, subsampling and block search in every setting; its misses were concentrated in queries and keys behind saturated attention and in nodes whose direct and indirect effects nearly cancel
@@ -140,6 +147,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-824](../record/theory.d/THEORY-824.md) — Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020 *(Proposed)*
 
 ## cognition
+
+### From How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
+
+- [THEORY-070](../record/theory.d/THEORY-070.md) — How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control *(Proposed)*
+  - [THEORY-1110](../record/theory.d/THEORY-1110.md) — Shenhav, Botvinick and Cohen propose that control is allocated top-down by a dedicated specifying system: dACC computes the expected value of a control signal, its probability-weighted payoff less an intrinsic cost rising with intensity, and specifies the signal that lateral prefrontal and subcortical structures implement *(Active)*
 
 ### From In Claude 3.5 Haiku, writing the second line of a rhyming couplet whose first line ends "grab it", features for the candidate rhymes "rabbit" and "habit" are active on the newline token before the line, steering them changes the line's final word only when applied at that token, and suppressing "rabbit" turns the line towards "habit"; injecting a "rabbit" or "green" word feature at that point in 25 other poems ended the line with the injected word in 70% of cases, and such planned-word features were found in about half of the poems the authors examined
 
@@ -878,6 +890,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
 
+### From How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
+
+- [THEORY-070](../record/theory.d/THEORY-070.md) — How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control *(Proposed)*
+  - [THEORY-1110](../record/theory.d/THEORY-1110.md) — Shenhav, Botvinick and Cohen propose that control is allocated top-down by a dedicated specifying system: dACC computes the expected value of a control signal, its probability-weighted payoff less an intrinsic cost rising with intensity, and specifies the signal that lateral prefrontal and subcortical structures implement *(Active)*
+
 ## natural-sciences
 
 ### From For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient
@@ -938,6 +955,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
   - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
   - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
+
+### From How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
+
+- [THEORY-070](../record/theory.d/THEORY-070.md) — How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control *(Proposed)*
+  - [THEORY-1110](../record/theory.d/THEORY-1110.md) — Shenhav, Botvinick and Cohen propose that control is allocated top-down by a dedicated specifying system: dACC computes the expected value of a control signal, its probability-weighted payoff less an intrinsic cost rising with intensity, and specifies the signal that lateral prefrontal and subcortical structures implement *(Active)*
 
 ### From In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration
 

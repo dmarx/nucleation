@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-28'
   note: >-
-    THEORY-070 replaced in grounds by THEORY-tmp45v6v at the sixth
+    THEORY-070 replaced in grounds by THEORY-1110 at the sixth
     status review (ADR-058's route): the claim places the
     expected-value-of-control account in a cell by what it proposes, a
     dedicated specifier, and needs that the paper proposes it, not
@@ -33,7 +33,7 @@ uses:
 - TERM-048
 grounds:
 - THEORY-067
-- THEORY-tmp45v6v
+- THEORY-1110
 complements:
 - CLAIM-027
 summary: >-
@@ -109,7 +109,7 @@ emergent) is undecided: "The précis does not say which".
 
 ## Note of 2026-10-28: grounded in what the account proposes
 
-At the owner's direction, CLAIM-159 now grounds on [THEORY-tmp45v6v](../theory.d/THEORY-tmp45v6v.md), the
+At the owner's direction, CLAIM-159 now grounds on [THEORY-1110](../theory.d/THEORY-1110.md), the
 record's held reading of what Shenhav, Botvinick and Cohen propose, rather
 than on [THEORY-070](../theory.d/THEORY-070.md), which asks whether the proposal is true. Placing the
 account in the top-down cell needs only the proposal. The claim stays

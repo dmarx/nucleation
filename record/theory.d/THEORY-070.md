@@ -178,6 +178,6 @@ asserts one answer.
 ## Note of 2026-10-28: the proposal split off
 
 What the paper proposes, as distinct from whether it is true, is now
-[THEORY-tmp45v6v](THEORY-tmp45v6v.md), Active, so that [CLAIM-159](../claims.d/CLAIM-159.md), which places this account in
+[THEORY-1110](THEORY-1110.md), Active, so that [CLAIM-159](../claims.d/CLAIM-159.md), which places this account in
 the top-down cell, can stand on the proposal alone. This entry keeps the
 question whether the proposal holds, and its `promote_when`.

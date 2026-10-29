@@ -1,5 +1,8 @@
 ---
+number: 1110
 status: Active
+formerly:
+- THEORY-tmp45v6v
 title: 'Shenhav, Botvinick and Cohen propose that control is allocated top-down by a dedicated specifying system: dACC computes the expected value of a control signal, its probability-weighted payoff less an intrinsic cost rising with intensity, and specifies the signal that lateral prefrontal and subcortical structures implement'
 version: 1
 tags:
@@ -22,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-070 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 
-# THEORY-tmp45v6v: Shenhav, Botvinick and Cohen propose that control is allocated top-down by a dedicated specifying system: dACC computes the expected value of a control signal, its probability-weighted payoff less an intrinsic cost rising with intensity, and specifies the signal that lateral prefrontal and subcortical structures implement
+# THEORY-1110: Shenhav, Botvinick and Cohen propose that control is allocated top-down by a dedicated specifying system: dACC computes the expected value of a control signal, its probability-weighted payoff less an intrinsic cost rising with intensity, and specifies the signal that lateral prefrontal and subcortical structures implement
 
 ## Source
 

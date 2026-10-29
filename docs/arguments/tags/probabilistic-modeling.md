@@ -6,8 +6,8 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-1 of 39 ARG documents. Back to the [full index](../README.md).
+1 of 40 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [ARG-017](../../../record/arguments.d/ARG-017.md) | A constant kernel fits any one source–target pair, so one pair does not identify the procedure-level fidelity score | The derivation behind [CLAIM-228](../../../record/claims.d/CLAIM-228.md): for one source–target pair a constant kernel makes the per-item term zero, so one pair does not identify the procedure-level score. It holds for [CLAIM-228](../../../record/claims.d/CLAIM-228.md)'s version 2 title. As an inference to version 1's title, that observational fidelity "is not defined" for a single rendering, it failed, and [CLAIM-200](../../../record/claims.d/CLAIM-200.md) granted that. | Active |
+| [ARG-017](../../../record/arguments.d/ARG-017.md) v2 | A constant kernel fits any one source–target pair, so one pair does not identify the procedure-level fidelity score | The derivation behind [CLAIM-228](../../../record/claims.d/CLAIM-228.md): for one source–target pair a constant kernel makes the per-item term zero, so one pair does not identify the procedure-level score. It holds for [CLAIM-228](../../../record/claims.d/CLAIM-228.md)'s version 2 title. As an inference to version 1's title, that observational fidelity "is not defined" for a single rendering, it failed, and [CLAIM-200](../../../record/claims.d/CLAIM-200.md) granted that. | Proposed |

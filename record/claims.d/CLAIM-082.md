@@ -15,7 +15,7 @@ history:
     set it against reference. Version 1's title read: A sign's
     communicative significance is fixed by its contrasts within a
     system rather than by correspondence to a referent. That title is
-    kept as CLAIM-tmpgbiz1, Proposed; the use-level part is
+    kept as CLAIM-489, Proposed; the use-level part is
     CLAIM-242's and ARG-033's. LIT-775 leaves the grounds, and
     THEORY-175, THEORY-182 and THEORY-185, cited as working cases,
     move to corroborated_by (ADR-058).
@@ -49,9 +49,9 @@ illustrated_by:
 - CASE-019
 complements:
 - CLAIM-242
-- CLAIM-tmpgbiz1
+- CLAIM-489
 ---
-<!-- inactive-ok-file: CLAIM-tmpgbiz1 — Proposed; the first title, kept as its own entry -->
+<!-- inactive-ok-file: CLAIM-489 — Proposed; the first title, kept as its own entry -->
 <!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->
 
 # CLAIM-082: A term's value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system
@@ -156,5 +156,5 @@ properties of what the words refer to.
 
 The sixth status review narrowed this claim to what Saussure's value
 carries, recording [CLAIM-072](CLAIM-072.md)'s concession, which [ARG-034](../arguments.d/ARG-034.md) judged. The first
-title is [CLAIM-tmpgbiz1](CLAIM-tmpgbiz1.md). Kept Proposed: its reading of Saussure,
+title is [CLAIM-489](CLAIM-489.md). Kept Proposed: its reading of Saussure,
 [THEORY-159](../theory.d/THEORY-159.md), is Proposed, and nothing in the record meets `defeated_if`.
