@@ -1,0 +1,133 @@
+---
+status: Read
+paper: LIT-1142
+title: "The Oral History of 'I'm the Juggernaut, Bitch!'"
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the article on theringer.com (fetched 2026-10-29;
+    about 3,400 words including page furniture), a free web page. The
+    Polygon interview that supplies Kinberg's quote was not found, as at
+    filing.
+date: '2026-10-29'
+summary: >-
+  Journalism. Xavier Nazario and Randy Hayes redubbed a 1990s X-Men
+  episode in November 2005 and posted it on 14 February 2006. Within
+  months it had millions of views. A TV news segment, before the film's
+  release, reported the line "making it into the new X-Men movie". The
+  film says "I'm the Juggernaut, bitch!" Kinberg, via Polygon: "That was
+  a reshoot Ratner line." That Ratner was "likely a fan" of the video is
+  Siegel's inference, not testimony. The videos were later taken down
+  amid Viacom's takedowns, and the creators were never paid.
+---
+<!-- inactive-ok-file: QUESTION-119 — Open; named as the question this bears on -->
+<!-- inactive-ok-file: LIT-1121 LIT-1143 — Unavailable; Jenkins, named as the theory this case would be read against, not leaned on -->
+
+# NOTE-tmpckd0q: The Oral History of 'I'm the Juggernaut, Bitch!'
+
+## Contribution
+
+The only source the record has for the timeline of CASE-100, with first-
+hand accounts from the redub's two creators, the animated series' co-
+showrunners (Eric and Julia Lewald), and two other early web-video makers
+(Eric Fensler, Aaron Yonda). It also gives Rosecrans Baldwin's context
+and quotes Kinberg and Vinnie Jones at second hand.
+
+## Key insight
+
+The timeline is solid, and the causal link to the film is not. Everyone
+interviewed is on the creators' side of the story. The only production
+voice is a one-line quote from another outlet saying the line was added
+in reshoots by the director, which dates the addition but does not say
+why.
+
+## Assumptions
+
+- An oral history: edited and condensed interviews ("Interviews have been
+  edited and condensed"), with connecting narrative by Siegel. Memory, 18
+  years on.
+
+## Key results
+
+- **Making it.** November 2005, in Chicago's Humboldt Park: bored,
+  inspired by Fensler's G.I. Joe PSA redubs and the "Old School
+  Afternoon" mashup. Edited in Sony Vegas, from a downloaded copy of "The
+  Phoenix Saga" episode 3. Hayes improvised "Yeah, it's the Juggernaut,
+  bitch!" watching Juggernaut throw Xavier. Nazario voiced most other
+  characters.
+- **Posting it.** 14 February 2006, on YouTube, Dailymotion and (Nazario
+  thinks) Vimeo. "I think we hit in the millions."
+- **The film.** Nazario recalls a TV news segment "about how viral videos
+  and viral memes were affecting Hollywood. And it was Snakes on a Plane
+  and us … they just mentioned the Juggernaut video making it into the
+  new X-Men movie". He adds: "Word got around that the line was being
+  added." *X-Men: The Last Stand* (May 2006) has Juggernaut shout "Don't
+  you know who I am? I'm the Juggernaut, bitch!"
+  - Siegel: "Now-disgraced director Brett Ratner was likely a fan of
+    Nazario and Hayes's video."
+  - Kinberg (cowriter), to Polygon: "That was a reshoot Ratner line."
+  - Vinnie Jones, to Comic Book Movie: his character's storyline and
+    dialogue were cut; "they're writing stuff for you … it never fucking
+    happened".
+- **Afterward.** A June 2006 sequel. Killer Mike sampled Jones's line in
+  "The Juggernaut". Late 2006 takedowns followed Viacom's action against
+  YouTube; the duo's channel (Naztradamix) was removed after their Avatar
+  anime music videos. No revenue: "We had internet clout, but our lives
+  were still the same." A re-upload has 9 million views. They appeared at
+  ROFLCon (MIT, 2010) and conventions. Nazario now works as an airport
+  ramp agent, Hayes for a cleaning agency.
+- **Context.** Baldwin, Fensler and Yonda describe 2006 as a brief "Wild
+  West" before platforms commercialized: "There were basically no
+  restraints in 2006."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The redub was conceived in November 2005 and posted on 14 February 2006 | moderate: the creators' recollection, consistent with the record's earlier check | creators' accounts |
+| C2 | The line was added to the film in reshoots directed by Ratner | moderate: one sentence from the cowriter, second-hand via Polygon, original not found | Kinberg quote |
+| C3 | The line's addition was publicly connected to the video before the film's release | weak: one creator's memory of an unnamed news segment | Nazario |
+| C4 | The film's line was taken from the video | weak: Siegel's inference ("likely"), supported by timing and the identical phrase; no production testimony on why | narrative |
+
+## Concepts
+
+- **redub / fan dub**: replacing a work's dialogue with new dialogue over
+  the original images.
+
+## Connections
+
+- **Giulianotti (NOTE-tmp0bj7o).** Not about sport, but the creators fit
+  none of his spectator types cleanly. They are producers of a fan
+  artefact; his taxonomy has no slot for fans who make.
+- **Jenkins (LIT-1121, LIT-1143)**, Unavailable, is the theory of
+  participatory and spreadable media this case would be read against.
+
+## Bearing on the record
+
+- **CASE-100.** The case lists "production testimony on the decision" as
+  a strengthener. The article supplies the timing (a reshoot) and a
+  public expectation before release, but no testimony on why Ratner added
+  the line. So the case's caveat stands: circulation is not shown to have
+  caused the decision, though the phrase identity and the timing make
+  borrowing very likely. The case's date for release (14 February 2006)
+  and conception (November 2005) are confirmed. A note is added to the
+  case.
+- **QUESTION-119.** The story's agents are two creators, a mass audience
+  of viewers and quoters, a news segment, and one director. That is A7's
+  "passing coalition", and nothing in it is the X-Men fandom acting as
+  such.
+- **No ML instruction.**
+
+## Limitations
+
+- **Journalism.** Edited interviews, no sources for the view counts, and
+  the key production quote second-hand.
+- **One side of the story.** No one from the production was interviewed.
+
+## Open questions
+
+- What did the Polygon interview with Kinberg say in full, and does any
+  production account (Ratner's, an editor's, a reshoot call sheet) give
+  the reason for the line? That is the evidence CASE-100 still lacks.

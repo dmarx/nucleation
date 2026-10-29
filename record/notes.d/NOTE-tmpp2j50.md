@@ -1,0 +1,168 @@
+---
+status: Read
+paper: LIT-1147
+title: "Enemies with benefits: the dual role of rivalry in shaping sports fans' identity"
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the authors' accepted manuscript in the Hochschule
+    Hannover repository (serwiss.bib.hs-hannover.de, docId 2499, CC BY-NC-ND
+    4.0; 42 pages), including Tables 1–2 and the appendix of items and
+    loadings. Figures 1–2 are present only as captions. Page numbers are
+    the manuscript's.
+date: '2026-10-29'
+summary: >-
+  Stadium-intercept survey at eight Bundesliga clubs in December 2014 (N =
+  571 after 164 fans with no named archrival were dropped); SEM.
+  Perceived rivalry intensity lowers fans' sense of being respected by the
+  rival's fans (β = −.31). It raises perceived distinctiveness (.27),
+  cohesion (.20) and respect from other clubs' fans (.09). These positive
+  effects run indirectly, almost entirely through perceived *reciprocity*
+  of the rivalry (indirect .18–.20), and barely through disidentification
+  with the rival. For respect from other fans the direct path is negative
+  (−.08, ns). Cross-sectional, with a single-item predictor.
+---
+<!-- inactive-ok-file: LIT-1131 LIT-1125 — Unfetched or Unavailable; the other rivalry works filed for the same case, named, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpk1fow THEORY-tmpo85ke — Proposed; the account filed from this reading and the self-categorization account it bears on -->
+
+# NOTE-tmpp2j50: Enemies with benefits: the dual role of rivalry in shaping sports fans' identity
+
+## Contribution
+
+A single structural model that holds rivalry's identity-threatening and
+identity-enhancing sides together, where earlier work had studied the
+threat (blasting, schadenfreude, derogation). It introduces *perceived
+reciprocity* of the rivalry, whether "the own team serves as the 'rival
+for the rival'", as a mediator, and finds it carries nearly all of the
+positive effects.
+
+## Key insight
+
+A rival costs fans the respect of one out-group and buys them
+distinctiveness, cohesion and standing with everyone else. What makes the
+purchase pay is not hating the rival more but believing the rival hates
+you back. An unrequited rivalry, where the other side shrugs, is the one
+that does not help.
+
+## Assumptions
+
+- **Social identity theory** (Tajfel & Turner 1979): a salient out-group
+  is needed for a positive social identity. **Optimal distinctiveness**
+  (Pickett & Brewer 2001). **Disidentification** (Elsbach & Bhattacharya
+  2001). **Public collective self-esteem** (Luhtanen & Crocker 1992),
+  split here by reference group: the rival's fans (PCSE-R) versus other
+  clubs' fans (PCSE-NR).
+- **Rivalry is subjective**: "a subjective competitive relationship that
+  is independent of the objective characteristics of the situation"
+  (Kilduff et al. 2010; p. 14).
+- **The causal order is the model's**, not the data's. Rivalry intensity
+  → mediators → self-concept, with team identification as a control.
+
+## Key results
+
+- **Sample (pp. 13–15).**
+  - December 2014, 25 interviewers at home games of eight clubs. Four had
+    famous rivalries (Dortmund, Schalke, Cologne, Mönchengladbach) and
+    four did not (Paderborn, Hoffenheim, Freiburg, Wolfsburg).
+  - N = 748 intercepted (mean age 36.1, 78.6% male). 164 named no
+    archrival, 147 of them from the four no-famous-rivalry clubs, and
+    were dropped. 13 more were dropped for missing data, giving N = 571.
+- **Measures (pp. 15–16).**
+  - Rivalry intensity is one item on a 1–10 scale (M = 8.50, SD 1.82).
+  - Multi-item 7-point scales: identification (α .73), disidentification
+    (.85), reciprocity (.81, self-developed), distinctiveness (.85),
+    cohesion (.88), PCSE-R (M 2.27, α .82) and PCSE-NR (M 4.75, α .93).
+  - Identification's AVE is .44, below the .50 threshold.
+- **Fit.** Measurement model: χ²/df 2.46, RMSEA .051, CFI .96.
+  Structural model: χ²/df 3.30, RMSEA .063, CFI .93, TLI .91, which the
+  authors call "acceptable". A latent method factor took 9.6% of variance
+  and was retained.
+- **Effects (Table 2, standardized).**
+  - *Totals:* PCSE-R −.31\*\*\*; PCSE-NR .09\*; distinctiveness .27\*\*\*;
+    cohesion .20\*\*\*; disidentification .18\*\*\*; reciprocity .49\*\*\*.
+  - *Direct (all ns):* PCSE-NR −.08; distinctiveness .04; cohesion .01.
+  - *Indirect via reciprocity:* PCSE-NR .18\*\*\*; distinctiveness
+    .20\*\*\*; cohesion .18\*\*\*.
+  - *Indirect via disidentification:* .00 (ns); .03\*; .01 (ns).
+  - R² ranges .10–.31.
+  - Reciprocity's indirect effects exceed disidentification's for PCSE-NR
+    and cohesion (p < .01), not for distinctiveness.
+- **Alternative models** (e.g. disidentification as outcome) fit worse;
+  they are not reported in detail (p. 26).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Fans who perceive a more intense rivalry feel less respected by the rival's fans | moderate: a large effect in one cross-sectional sample; consistent with prior work | Table 2 |
+| C2 | Fans who perceive a more intense rivalry perceive their fan community as more distinct and cohesive, and as more respected by other clubs' fans | moderate for distinctiveness and cohesion; weak for respect from others (total .09, p = .033) | Table 2 |
+| C3 | These positive associations are carried by perceived reciprocity of the rivalry, not by disidentification | moderate as a statistical mediation in one model; causal order assumed; reciprocity is a self-developed scale | Table 2, pp. 19–20 |
+| C4 | Disidentification with the rival contributes little to fans' self-concept beyond reciprocity | weak: small indirect effects; the authors' explanation (ceiling from high identification) is speculative | pp. 22–23 |
+
+## Concepts
+
+- **perceived rivalry intensity**: one item, how intense the rivalry with
+  the named archrival is (1–10).
+- **perceived reciprocity of rivalry**: the extent to which fans perceive
+  the rivalry as mutual, the own team as "rival for the rival" (p. 12).
+- **disidentification**: cognitive separation of one's identity from an
+  organization's ("the archrival's failures are my successes").
+- **PCSE-R / PCSE-NR**: public collective self-esteem, how one believes
+  the rival's fans, or other clubs' fans, regard one's fan group.
+
+## Connections
+
+- **Hornsey 2008 (NOTE-tmp3dav9) and Reimer et al. (NOTE-tmp222eb).** The
+  paper is SIT-framed: positive distinctiveness and collective
+  self-esteem. Hornsey notes that self-esteem hypotheses became a contested
+  strand. Here "self-esteem" is *public* collective self-esteem, others'
+  perceived regard, not the personal self-esteem those hypotheses
+  measured.
+- **Self-categorization theory (THEORY-tmpo85ke).** The PCSE split
+  (respected by the rival, not; by others, yes) fits SCT's claim that the
+  meaning of an in-group depends on the comparison: the same fan group
+  evaluates itself differently against different out-groups. The paper
+  does not invoke SCT.
+- **Talarico & Moore (LIT-1125)** and **Qi et al. (LIT-1131)** were filed
+  for the same case and are not read.
+
+## Bearing on the record
+
+- **Source of THEORY-tmpk1fow** (Proposed): rivalry raises fans'
+  in-group distinctiveness and cohesion through perceived reciprocity.
+- **CASE-098.** The case says this paper is "evidence about identity, not
+  about the rivalry as a unit". Read, it says a little more. The benefit
+  to fans depends on *perceived mutuality*, a relational property, more
+  than on fans' own antagonism (disidentification). That is still
+  evidence about individual perception, not about the rivalry as a
+  collective unit. But it shows fans' identity is tied to how they think
+  the other side sees the relation, which is the two-sidedness the case's
+  "institutionalized rivalry" needs. A note is added to the case.
+- **The 164 excluded fans** (no archrival, mostly at clubs without famous
+  rivalries) are a finding the paper does not use: about 22% of
+  intercepted fans named no rival at all.
+- **No ML instruction.** The managerial advice (promote perceived
+  reciprocity, co-market rivalries) is sport marketing.
+
+## Limitations
+
+- **Cross-sectional and correlational**, as the authors say; mediation is
+  modelled, not identified.
+- **A single-item predictor** with a ceiling (mean 8.5 of 10).
+- **Selection**: fans with no rival are excluded, so rivalry intensity is
+  only varied among fans who have one.
+- **One league, one month, stadium attendees.**
+- **The reciprocity scale is new** and validated only here.
+- **Structural fit is borderline** (CFI .93, TLI .91).
+
+## Open questions
+
+- Does manipulating perceived reciprocity (for instance, exposure to the
+  rival's fans dismissing or acknowledging the rivalry) change
+  distinctiveness and cohesion? An experiment would test the mediation
+  causally.
+- Is reciprocity perceived accurately? Pairing surveys of both clubs'
+  fans would show whether perceived mutuality tracks actual mutuality,
+  which is the relational fact CASE-098 needs.
