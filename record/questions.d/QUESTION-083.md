@@ -187,7 +187,7 @@ and stays Open.
 
 ## Note of 2026-10-29: order of arrival in the potential case, a one-way core, and Chesson again
 
-- **Serván and Allesina**, LIT-tmp8en4t (NOTE-tmpwunhc). In symmetric
+- **Serván and Allesina**, [LIT-tmp8en4t](../literature.d/LIT-tmp8en4t.md) ([NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md)). In symmetric
   competitive Lotka–Volterra assembly with a positive definite interaction
   matrix, as a Gram matrix of independent feature vectors is, there is no
   entrenchment by order of arrival: every order of arrival ends in the
@@ -197,16 +197,16 @@ and stays Open.
   Cui and Mehta's monotone assembly, in the earlier note of this date, and
   sharpens it: in this class an early entrant can be displaced, but the
   community it is displaced into is fixed by the pool, not by history. The
-  invasion graph of any symmetric system is acyclic (THEORY-tmplmes0).
-- **Ito and Kaneko**, LIT-tmpwxstp (NOTE-tmp2xl62). A population of
+  invasion graph of any symmetric system is acyclic ([THEORY-tmplmes0](../theory.d/THEORY-tmplmes0.md)).
+- **Ito and Kaneko**, [LIT-tmpwxstp](../literature.d/LIT-tmpwxstp.md) ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)). A population of
   identical processes under one update rule, with no governance primitive,
   in which differentiated and durable influence forms. That is the part
-  QUESTION-295 (Answered) already holds. It shows nothing on niches or on
+  [QUESTION-295](QUESTION-295.md) (Answered) already holds. It shows nothing on niches or on
   mutual regulation: the periphery has almost no influence on the core (2
   of about 1,344 possible links), so the regulation is one-way, and
   nothing in the model is a competence that shows in rare contexts.
-- **Chesson.** His 1990 paper, LIT-tmpdoqmq, is Unfetched and his 1994
-  paper, LIT-tmpf923j, Unavailable, so the note of 2026-10-18's
+- **Chesson.** His 1990 paper, [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md), is Unfetched and his 1994
+  paper, [LIT-tmpf923j](../literature.d/LIT-tmpf923j.md), Unavailable, so the note of 2026-10-18's
   recommendation to read Chesson before a negative-frequency-dependence
   criterion gets stronger standing is still unmet.
 

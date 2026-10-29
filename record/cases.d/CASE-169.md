@@ -207,9 +207,9 @@ The case is unchanged.
 
 The judgment through which Human Rights Watch quotes most of the UK files,
 *R (Bancoult) v Secretary of State for Foreign and Commonwealth Affairs*
-[2000] EWHC 413 (Admin), LIT-tmpiq0o7, is registered and Unfetched: the
+[2000] EWHC 413 (Admin), [LIT-tmpiq0o7](../literature.d/LIT-tmpiq0o7.md), is registered and Unfetched: the
 BAILII copy is located and could not be fetched. Until it is read, "no
 permanent population" and the documents' own words stay at the report's
-remove from the court (NOTE-1365), and the quotations the report cites to
+remove from the court ([NOTE-1365](../notes.d/NOTE-1365.md)), and the quotations the report cites to
 §§10–11, 13, 14 and 16–18 of the judgment are unchecked. The case is
 unchanged.

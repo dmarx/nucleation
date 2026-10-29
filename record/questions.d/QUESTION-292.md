@@ -60,14 +60,14 @@ disorder meets the standard, and so is a protective lock-in, remains
 
 ## Note of 2026-10-29: a trial that looked for the link
 
-The RefraMED monograph, LIT-tmpqiicn (NOTE-tmpswlra), is a worked case of
+The RefraMED monograph, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md) ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), is a worked case of
 the answer's two legs. Its causal mechanism analyses were meant as the
-evidence THEORY-053 asks for, and they meet neither leg. On specificity,
+evidence [THEORY-053](../theory.d/THEORY-053.md) asks for, and they meet neither leg. On specificity,
 the mediators are sessions attended, alliance and DBT skills, of which
 alliance and exposure are common factors and not RO DBT's theorised
 process; the processes it names are reported only as differences between
 arms. On precedence, mediator and outcome are both at 7 months, and the
 planned analyses of temporal order are not reported. It does not count
 against the theory either: the processes moved, and whether the outcome
-moved through them was not estimated. THEORY-053 is noted the same day.
+moved through them was not estimated. [THEORY-053](../theory.d/THEORY-053.md) is noted the same day.
 The answer is unchanged.

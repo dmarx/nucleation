@@ -176,17 +176,17 @@ parameters. The question is unchanged.
 
 Two items of this date, context and not witnesses.
 
-- **Eberhardt and Lee**, LIT-tmpr2bnp (NOTE-tmp0q96y). Their example (17)
+- **Eberhardt and Lee**, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md) ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)). Their example (17)
   has a strongly lumpable partition, so the block label is closed and
-  Markov (THEORY-822) and the coarse-graining commutes with time
+  Markov ([THEORY-822](../theory.d/THEORY-822.md)) and the coarse-graining commutes with time
   evolution. Yet EI picks that partition at one step and the micro at two.
   Strong lumpability does not make the EI-optimal choice stable under a
   change of time step. That is a property of EI, not one of this
   question's five conditions.
-- **Pfante, Bertschinger, Olbrich, Ay and Jost 2014**, LIT-tmpodvz5, which
-  Rosas et al. (NOTE-1030) credit with the equivalence of informational
+- **Pfante, Bertschinger, Olbrich, Ay and Jost 2014**, [LIT-tmpodvz5](../literature.d/LIT-tmpodvz5.md), which
+  Rosas et al. ([NOTE-1030](../notes.d/NOTE-1030.md)) credit with the equivalence of informational
   closure and commutativity for Markov spatial coarse-grainings, is
   registered and Unavailable. The record still holds that result
-  second-hand, through THEORY-820 and THEORY-822.
+  second-hand, through [THEORY-820](../theory.d/THEORY-820.md) and [THEORY-822](../theory.d/THEORY-822.md).
 
 The question is unchanged and stays Open.

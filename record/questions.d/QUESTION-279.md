@@ -125,7 +125,7 @@ unchanged and stays Open.
 ## Note of 2026-10-29: the remand order, read
 
 The district court's order granting expedited discovery on remand, ECF No.
-79 of 15 April 2025, LIT-tmpw3c17, is read (NOTE-tmpdnf6p). It is this
+79 of 15 April 2025, [LIT-tmpw3c17](../literature.d/LIT-tmpw3c17.md), is read ([NOTE-tmpdnf6p](../notes.d/NOTE-tmpdnf6p.md)). It is this
 question's test case in part, with two corrections of emphasis. First, the
 government did not there say "we cannot". It said that the duty was
 narrower than the court's ("remove any domestic obstacles"), that the

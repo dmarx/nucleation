@@ -179,7 +179,7 @@ lumpability, which is the wrong notion for closure.
 
 ## Note of 2026-10-29: two strongly lumpable partitions in Eberhardt and Lee
 
-Eberhardt and Lee, LIT-tmpr2bnp, read in NOTE-tmp0q96y, give two strongly
+Eberhardt and Lee, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md), read in [NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md), give two strongly
 lumpable partitions without calling them that. In their (13), every one of
 states 1–7 sends all its mass into the block {1–7}. In their (17), both
 rows of {x₁, x₂} send 0.5 into each block. For (17) the reading computed
@@ -188,7 +188,7 @@ that A(T)² equals the {x₁, x₂} coarsening of T², the matrix [[0.75, 0.25],
 entry's lumpability guarantees. What their example shows failing is
 effective information's choice of partition, not the coarse-graining.
 
-Pfante et al. 2014, LIT-tmpodvz5, which Rosas et al. (NOTE-1030) credit
+Pfante et al. 2014, [LIT-tmpodvz5](../literature.d/LIT-tmpodvz5.md), which Rosas et al. ([NOTE-1030](../notes.d/NOTE-1030.md)) credit
 with the equivalence this entry generalizes for Markov spatial
 coarse-grainings, is registered and Unavailable, so the record still holds
 it second-hand. The entry is unchanged.

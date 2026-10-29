@@ -252,7 +252,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: the like-and-like predecessor, read, and the moving-weights companion, not reached
 
-- **Ito and Kaneko**, LIT-tmpwxstp (NOTE-tmp2xl62), the like-and-like
+- **Ito and Kaneko**, [LIT-tmpwxstp](../literature.d/LIT-tmpwxstp.md) ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)), the like-and-like
   reinforcement the earlier note of this date takes from Gross and
   Blasius, is now read. It is closer to this question's endorsement
   circuit than the review suggests. Each unit allocates a fixed budget of
@@ -268,12 +268,12 @@ The question is unchanged and stays Open.
   content that can be right or wrong, any evaluation of outcomes, and
   authority indexed by role or issue. The outcome to beat is concentration
   without regard to accuracy. That is also persuasion bias's outcome
-  (LIT-1134), and this model gets it with moving weights and hysteresis,
+  ([LIT-1134](../literature.d/LIT-1134.md)), and this model gets it with moving weights and hysteresis,
   which persuasion bias lacks.
-- **DeMarzo, Vayanos and Zwiebel 2001**, LIT-tmpapuas, the companion to
-  LIT-1134 in which whom an agent listens to is chosen by what listening
+- **DeMarzo, Vayanos and Zwiebel 2001**, [LIT-tmpapuas](../literature.d/LIT-tmpapuas.md), the companion to
+  [LIT-1134](../literature.d/LIT-1134.md) in which whom an agent listens to is chosen by what listening
   earns, is registered and Unavailable: no copy of the working paper was
-  found. As LIT-1134 describes it, it would be a predecessor with evolving
+  found. As [LIT-1134](../literature.d/LIT-1134.md) describes it, it would be a predecessor with evolving
   influence that already gives capture without fidelity. Whether listening
   there is scored against the interpretation it made dominant, or by
   trading profits that depend on what the asset pays, can only be read

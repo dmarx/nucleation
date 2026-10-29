@@ -66,7 +66,7 @@ coarse-grainings with no correction for the search.
 ## Note of 2026-10-29: the first half answered, by derivation
 
 The first half of this question is answered, and the answer is no.
-THEORY-tmphfpe7 (Active) shows that the test needs no system. With one
+[THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md) (Active) shows that the test needs no system. With one
 distribution over micro states at both levels, each macro intervention
 realized by that distribution within its block, the macro EI is I(f(X);
 f(Y)) ≤ I(X; Y), the micro EI, by data processing. A macro can at most
@@ -75,9 +75,9 @@ stationary one included. Hoel's positive causal emergence is the micro
 mechanism's gain from changing the distribution, less a non-negative loss.
 On Eberhardt and Lee's matrices (11), (13) and (14) the decomposition is
 0.456 = 0 + 0.456, 0.194 = −0.150 + 0.344 and 0.0001 = −0.074 + 0.074
-bits. Comolatti and Hoel, LIT-tmpzfaqi (NOTE-tmpcmbzs), concede the
-stationary case ("This was known"). Eberhardt and Lee, LIT-tmpr2bnp
-(NOTE-tmp0q96y), name the maximum-entropy distribution as the source of
+bits. Comolatti and Hoel, [LIT-tmpzfaqi](../literature.d/LIT-tmpzfaqi.md) ([NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md)), concede the
+stationary case ("This was known"). Eberhardt and Lee, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md)
+([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)), name the maximum-entropy distribution as the source of
 the artefact, but do not themselves compute EI under a common one.
 
 The second half, whether the EI-optimal level agrees with an independent
@@ -90,4 +90,4 @@ by this question's own terms cannot settle agreement in general.
 The bound is for EI. Measures that data processing does not bound,
 per-transition ones or ones normalized by log₂ n, can rise at a macro
 under a common distribution; they are not what this question asks about.
-THEORY-787 is noted the same day. The question stays Open.
+[THEORY-787](../theory.d/THEORY-787.md) is noted the same day. The question stays Open.
