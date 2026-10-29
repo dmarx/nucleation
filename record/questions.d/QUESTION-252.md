@@ -3,8 +3,8 @@ number: 252
 status: Open
 formerly:
 - QUESTION-tmp1nqby
-title: 'For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, which such configurations are impossible in which model classes, and which conditions turn out to be parameters of the others rather than conditions in their own right?'
-version: 3
+title: 'For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, and which such configurations are impossible in which model classes?'
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -17,6 +17,16 @@ history:
     A dated note added: pairwise separations on one exactly known kernel
     (CASE-164), not leave-one-out witnesses. The question is
     unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Narrowed by the thirteenth status review (ADR-049): its last clause,
+    which conditions are parameters of the others, is split off as
+    QUESTION-tmp3ugy5, Answered by CLAIM-401, which now bears on this
+    question (ADR-060) rather than answering it. The old title ended:
+    "..., which such configurations are impossible in which model classes,
+    and which conditions turn out to be parameters of the others rather
+    than conditions in their own right?". It stays Open.
 tags:
 - complex-systems
 - mathematics
@@ -33,16 +43,12 @@ summary: >-
   leave-one-out witness: [CLAIM-389](../claims.d/CLAIM-389.md) gives zero memory without independence
   in VAR(1), [CLAIM-304](../claims.d/CLAIM-304.md) retention without feasible recovery. A4 and A5 then
   found that some conditions are parameters rather than conditions
-  ([CLAIM-401](../claims.d/CLAIM-401.md)). The same form as [QUESTION-093](QUESTION-093.md) and [QUESTION-115](QUESTION-115.md), on a new
+  ([CLAIM-401](../claims.d/CLAIM-401.md)); that part is QUESTION-tmp3ugy5, Answered. The same form as [QUESTION-093](QUESTION-093.md) and [QUESTION-115](QUESTION-115.md), on a new
   list.
-answered_by:
-- CLAIM-401
 ---
 <!-- inactive-ok-file: CLAIM-353 CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
-<!-- inactive-ok-file: CLAIM-401 — Proposed; the claim and the regime filed from the same exchange, cited as the question's own partial answer and framing -->
-<!-- inactive-ok-file: CLAIM-348 — Proposed; the target-relativity of adequacy, cited for context, nothing here rests on it -->
 
-# QUESTION-252: For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, which such configurations are impossible in which model classes, and which conditions turn out to be parameters of the others rather than conditions in their own right?
+# QUESTION-252: For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, and which such configurations are impossible in which model classes?
 
 ## Why it is a question
 
@@ -110,7 +116,8 @@ Each item is pairwise. None is a leave-one-out witness.
   criteria for agency ("can it have the first without the others?"), and
   [QUESTION-115](QUESTION-115.md) of four individuation criteria ("where these criteria
   disagree"). Axiom-independence precedents: [CLAIM-343](../claims.d/CLAIM-343.md) and [CLAIM-353](../claims.d/CLAIM-353.md).
-- **Which conditions are parameters.** [CLAIM-401](../claims.d/CLAIM-401.md), after A4 and A5:
+- **Which conditions are parameters.** Split off as QUESTION-tmp3ugy5,
+  Answered. [CLAIM-401](../claims.d/CLAIM-401.md), after A4 and A5:
   P and A need a declared target, C restricts the operations, and M
   depends on the projection ([QUESTION-222](QUESTION-222.md), [THEORY-752](../theory.d/THEORY-752.md)). [CLAIM-152](../claims.d/CLAIM-152.md) and
   [CLAIM-348](../claims.d/CLAIM-348.md) give the target-relativity.

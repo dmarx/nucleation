@@ -1,10 +1,10 @@
 ---
 number: 284
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpspyay
 title: 'A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -50,6 +50,16 @@ history:
     from THEORY-219, and QUESTION-092 is Answered. This claim's own
     promotion is the next pass's question. The claim and its status are
     unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises
+    (CLAIM-025, THEORY-1119, TERM-045) are Active, and so is CLAIM-485,
+    whose distinction version 4 wrote in. No objection is filed against
+    it (CLAIM-288 undercuts ARG-015, the sufficiency-test route, not this
+    claim), and nothing in the record meets its defeated_if. Status
+    Proposed to Active. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -223,3 +233,10 @@ answers [QUESTION-092](../questions.d/QUESTION-092.md). Every premise of this cl
 objection to it is live. What remains is its own promotion: it is the
 record's central thesis about the self, and whether it is promoted is the
 next pass's question for the owner.
+
+## Note of 2026-10-29: promoted
+
+The thirteenth status review decided the question the note above left
+to this pass, at the status review's ruling (the owner delegated these
+rulings). Every premise is held, no objection is live, and the claim is
+Active.
