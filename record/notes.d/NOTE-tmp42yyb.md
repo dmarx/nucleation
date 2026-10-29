@@ -169,12 +169,12 @@ where (a) and (c) is meant (p. 23).
   **Lovász 1983** for the submodular geometry; **Juditsky and Nemirovski
   2011** for the saddle-point methods.
 - **Kusner et al. 2015** word mover's distance.
-- Cited by FGW (LIT-tmpjs7kp) as an approach that needs "a known and simple
+- Cited by FGW ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)) as an approach that needs "a known and simple
   structure such as class clusters" (p. 2 there).
 
 ## Bearing on the record
 
-- **QUESTION-283 (higher-order structure).** This is a case where the
+- **[QUESTION-283](../questions.d/QUESTION-283.md) (higher-order structure).** This is a case where the
   vocabulary of a transport problem is enriched from pairwise to set-wise.
   The cost of a coupling is no longer a sum over single assignments. A
   block's cost g(Σ C) depends on all its assignments together, and no
@@ -195,7 +195,7 @@ where (a) and (c) is meant (p. 23).
   values. The "Why this is here" sentence, "The test would be behavioural
   prediction, not expressiveness", is consistent with that: the paper shows
   only that grouped couplings help one prediction task each.
-- **CASE-tmph0fxi.** None directly. If the correspondence arm wanted
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md).** None directly. If the correspondence arm wanted
   utterances of one act to move together, a source-side group function
   would encode it, at the cost of making the measure asymmetric (Lemma 3.1
   above).
@@ -222,4 +222,4 @@ where (a) and (c) is meant (p. 23).
   rewarded?
 - Can the grouping itself be fitted, for example by choosing among
   candidate partitions by held-out prediction? That would turn SOT into a
-  test of QUESTION-283's "forced by the composite or by the class".
+  test of [QUESTION-283](../questions.d/QUESTION-283.md)'s "forced by the composite or by the class".

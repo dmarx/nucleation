@@ -8,8 +8,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpksoez
 summary: >-
-  Alvarez-Melis, Jaakkola and Jegelka (2018), LIT-tmpksoez, §3, read in
-  NOTE-tmp42yyb from arXiv v1. The convexity and game form are standard
+  Alvarez-Melis, Jaakkola and Jegelka (2018), [LIT-tmpksoez](../literature.d/LIT-tmpksoez.md), §3, read in
+  [NOTE-tmp42yyb](../notes.d/NOTE-tmp42yyb.md) from arXiv v1. The convexity and game form are standard
   submodular analysis; the failure of eq. (12) and the asymmetry were
   checked numerically. Active. It does not say structured couplings
   predict better; the experiments are single runs on 100 samples.
@@ -19,8 +19,8 @@ summary: >-
 
 ## Source
 
-Alvarez-Melis, Jaakkola and Jegelka (2018), LIT-tmpksoez, §§2.2–3.2, pp.
-4–7, and Appendix A, p. 18 of arXiv 1712.06199v1; read in NOTE-tmp42yyb.
+Alvarez-Melis, Jaakkola and Jegelka (2018), [LIT-tmpksoez](../literature.d/LIT-tmpksoez.md), §§2.2–3.2, pp.
+4–7, and Appendix A, p. 18 of arXiv 1712.06199v1; read in [NOTE-tmp42yyb](../notes.d/NOTE-tmp42yyb.md).
 
 ## What was actually shown
 

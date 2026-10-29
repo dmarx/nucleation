@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpbnbe3
 summary: >-
-  Redko, Vayer, Flamary and Courty (2020), LIT-tmpbnbe3, Proposition 1,
-  read in NOTE-tmpghx1t; the composition step is elementary and was
+  Redko, Vayer, Flamary and Courty (2020), [LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md), Proposition 1,
+  read in [NOTE-tmpghx1t](../notes.d/NOTE-tmpghx1t.md); the composition step is elementary and was
   checked by enumeration on small matrices, including a two-community
   block matrix with 32 tied optimal plan pairs. Active. It does not say
   real response matrices have exact symmetries; noisy ones give
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Redko, Vayer, Flamary and Courty (2020), LIT-tmpbnbe3, Proposition 1, p. 4,
-proof pp. 11–13 of arXiv 2002.03731v3; read in NOTE-tmpghx1t.
+Redko, Vayer, Flamary and Courty (2020), [LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md), Proposition 1, p. 4,
+proof pp. 11–13 of arXiv 2002.03731v3; read in [NOTE-tmpghx1t](../notes.d/NOTE-tmpghx1t.md).
 
 ## What was actually shown
 
@@ -71,7 +71,7 @@ cannot break.
   separate a configuration from its rotations and reflections. COOT on raw
   features can ("not invariant neither to feature rotations nor to the
   change of signs", pp. 5–6). Its ambiguity is the generally smaller
-  permutation-symmetry group of the matrix itself (compare THEORY-tmpa43ta).
+  permutation-symmetry group of the matrix itself (compare [THEORY-tmpa43ta](THEORY-tmpa43ta.md)).
 - **That the optimum can be found.** Exact COOT is NP-hard in general (p.
   4), and block coordinate descent reaches block-wise optima. In a check
   on a random 5 × 4 pair, 12% of 200 random starts reached the global value.
@@ -80,4 +80,4 @@ cannot break.
 - **That it holds for unequal sizes or non-uniform weights as stated.** The
   zero case is proved only for equal sizes and uniform weights. The
   paper's claim that COOT is otherwise "always strictly positive" (p. 13)
-  is false when rows or columns are duplicated (NOTE-tmpghx1t).
+  is false when rows or columns are duplicated ([NOTE-tmpghx1t](../notes.d/NOTE-tmpghx1t.md)).

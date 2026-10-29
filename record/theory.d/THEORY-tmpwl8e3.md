@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpjs7kp
 summary: >-
-  Vayer, Chapel, Flamary, Tavenard and Courty (2019), LIT-tmpjs7kp,
-  Theorems 3.1–3.2 with the supplement's proofs, read in NOTE-tmp6e5aw
+  Vayer, Chapel, Flamary, Tavenard and Courty (2019), [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md),
+  Theorems 3.1–3.2 with the supplement's proofs, read in [NOTE-tmp6e5aw](../notes.d/NOTE-tmp6e5aw.md)
   from arXiv v3. Proved; the lower bound and the concavity in α of the
   exact value were checked on enumerated permutations. Active. It says
   nothing about the uniqueness of the optimal coupling or about the
@@ -21,8 +21,8 @@ summary: >-
 
 ## Source
 
-Vayer, Chapel, Flamary, Tavenard and Courty (2019), LIT-tmpjs7kp, §3.1, pp.
-3–4, and §6.1, pp. 10–14 of arXiv 1805.09114v3; read in NOTE-tmp6e5aw.
+Vayer, Chapel, Flamary, Tavenard and Courty (2019), [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md), §3.1, pp.
+3–4, and §6.1, pp. 10–14 of arXiv 1805.09114v3; read in [NOTE-tmp6e5aw](../notes.d/NOTE-tmp6e5aw.md).
 
 ## What was actually shown
 
@@ -57,11 +57,11 @@ preserves features and structure at once.
 
 - **That the optimal coupling is unique.** Any bijection preserving
   weights, features and structure composes with an optimal plan at no cost
-  (THEORY-tmp7cnkm).
+  ([THEORY-tmp7cnkm](THEORY-tmp7cnkm.md)).
 - **That computed values are the FGW value.** The objective is non-convex
   and conditional gradient finds stationary points (p. 5).
 - **Anything about α = 0 or α = 1 as metrics on structured data.** At the
   ends FGW forgets the structure or the features, and the zero theorem is
   stated for interior α only.
 - **That the interior α is better for prediction.** The paper's
-  experiments do not show that (NOTE-tmp6e5aw).
+  experiments do not show that ([NOTE-tmp6e5aw](../notes.d/NOTE-tmp6e5aw.md)).

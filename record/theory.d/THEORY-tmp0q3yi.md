@@ -8,8 +8,8 @@ date: '2026-10-29'
 source:
 - LIT-tmp15puu
 summary: >-
-  Peyré, Cuturi and Solomon (2016), LIT-tmp15puu, Propositions 3–5 and
-  Remark 3, read in NOTE-tmppwiml from the PMLR PDF. The closed forms and
+  Peyré, Cuturi and Solomon (2016), [LIT-tmp15puu](../literature.d/LIT-tmp15puu.md), Propositions 3–5 and
+  Remark 3, read in [NOTE-tmppwiml](../notes.d/NOTE-tmppwiml.md) from the PMLR PDF. The closed forms and
   the cone preservation are proved and the PSD case was checked; the lack
   of guarantees is the authors' own statement. Active as a statement of
   what is and is not guaranteed. It does not say a barycenter erases
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Peyré, Cuturi and Solomon (2016), LIT-tmp15puu, §§2.3–3.1, pp. 2667–2669 of
-the ICML 2016 proceedings; read in NOTE-tmppwiml.
+Peyré, Cuturi and Solomon (2016), [LIT-tmp15puu](../literature.d/LIT-tmp15puu.md), §§2.3–3.1, pp. 2667–2669 of
+the ICML 2016 proceedings; read in [NOTE-tmppwiml](../notes.d/NOTE-tmppwiml.md).
 
 ## What was actually shown
 
