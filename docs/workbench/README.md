@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 09:54 — The eleventh status review: the unwritten concessions cleared, twelve promotions, and CLAIM-154 narrowed on a computed counterexample](2026-10.md#the-eleventh-status-review-the-unwritten-concessions-cleared-twelve-promotions-and-claim-154-narrowed-on-a-computed-counterexample)
 - [29 Oct 07:39 — The tenth status review: re-derivations checked, readings narrowed to what they measured, and two more proposal splits](2026-10.md#the-tenth-status-review-re-derivations-checked-readings-narrowed-to-what-they-measured-and-two-more-proposal-splits)
 - [29 Oct 07:17 — The ninth status review: eleven promotions, the Ainslie split, THEORY-481's correction checked numerically, and CLAIM-440 written up to its concessions](2026-10.md#the-ninth-status-review-eleven-promotions-the-ainslie-split-theory-481s-correction-checked-numerically-and-claim-440-written-up-to-its-concessions)
 - [29 Oct 06:24 — The eighth status review: the top of the reliance ranking, two TERMs adopted, three promotions, and CLAIM-349 moved onto CLAIM-027](2026-10.md#the-eighth-status-review-the-top-of-the-reliance-ranking-two-terms-adopted-three-promotions-and-claim-349-moved-onto-claim-027)
@@ -108,8 +109,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-99 entries across 1 book, newest first.
+100 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 99 | 2026-10-07 | 2026-10-29 |
+| [2026-10](2026-10.md) | 100 | 2026-10-07 | 2026-10-29 |

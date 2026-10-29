@@ -1,5 +1,8 @@
 ---
+number: 318
 status: Open
+formerly:
+- QUESTION-tmpxygjx
 title: 'Does layerwise linear feature connectivity hold outside image classification, in transformers and language models connected by spawning, shared pretraining or alignment, and does it carry from pairs to the many-model averages practice uses, model soups and SWA?'
 version: 1
 tags:
@@ -13,7 +16,7 @@ summary: >-
   source measured and promoted it, as [THEORY-114](../theory.d/THEORY-114.md)'s moved to [QUESTION-312](QUESTION-312.md).
 ---
 
-# QUESTION-tmpxygjx: Does layerwise linear feature connectivity hold outside image classification, in transformers and language models connected by spawning, shared pretraining or alignment, and does it carry from pairs to the many-model averages practice uses, model soups and SWA?
+# QUESTION-318: Does layerwise linear feature connectivity hold outside image classification, in transformers and language models connected by spawning, shared pretraining or alignment, and does it carry from pairs to the many-model averages practice uses, model soups and SWA?
 
 ## Why it is a question
 

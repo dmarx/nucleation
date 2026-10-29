@@ -1,5 +1,8 @@
 ---
+number: 316
 status: Open
+formerly:
+- QUESTION-tmp32xm6
 title: 'Is it the difference in task, and not depth and initialisation alone, that leaves features with no counterpart in the other model and makes merging fail: at matched width, do models trained from different initialisations on disjoint tasks lose cross-model feature correlation faster with depth than models trained on the same task, with merging failing at that depth?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   moved to [QUESTION-312](QUESTION-312.md).
 ---
 
-# QUESTION-tmp32xm6: Is it the difference in task, and not depth and initialisation alone, that leaves features with no counterpart in the other model and makes merging fail: at matched width, do models trained from different initialisations on disjoint tasks lose cross-model feature correlation faster with depth than models trained on the same task, with merging failing at that depth?
+# QUESTION-316: Is it the difference in task, and not depth and initialisation alone, that leaves features with no counterpart in the other model and makes merging fail: at matched width, do models trained from different initialisations on disjoint tasks lose cross-model feature correlation faster with depth than models trained on the same task, with merging failing at that depth?
 
 ## Why it is a question
 

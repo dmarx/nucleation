@@ -17,7 +17,7 @@ history:
     different tasks from different initialisations fails where their
     features have no counterpart in the other model, and such features
     grow more common with depth. The promote_when moves unchanged to
-    QUESTION-tmp32xm6, as THEORY-114's did to QUESTION-312.
+    QUESTION-316, as THEORY-114's did to QUESTION-312.
 tags:
 - loss-landscapes
 - representation-learning
@@ -36,12 +36,12 @@ summary: >-
   are wide enough to hold redundant features. With full merging on
   ImageNet-1k, ZipIt! is no better than permutation (8.6%). No same-task
   control separates the effect of task difference from that of depth;
-  that is QUESTION-tmp32xm6.
+  that is QUESTION-316.
 supports:
 - CLAIM-187
 - CLAIM-263
 bears_on:
-- QUESTION-tmp32xm6
+- QUESTION-316
 ---
 <!-- inactive-ok-file: THEORY-116 THEORY-107 — Proposed; accounts named in Connections, nothing here rests on them -->
 
@@ -95,7 +95,7 @@ Entezari et al. shrinks by (1 − 2Γ)^(1/(2d+4)) and is zero for Γ ≥ 0.5
   for Table 5. Kornblith et al.'s depth effect is a same-task finding, so
   correspondence may fall with depth whether or not the tasks differ. The
   title reports the fall and the authors' attribution, not that the task
-  difference adds to it; whether it does is [QUESTION-tmp32xm6](../questions.d/QUESTION-tmp32xm6.md).
+  difference adds to it; whether it does is [QUESTION-316](../questions.d/QUESTION-316.md).
 - **The full-merge numbers depend on a shared output space.** The CIFAR
   models are trained with a CLIP-style loss onto text embeddings of class
   names, so their outputs live in one space. With cross-entropy heads,

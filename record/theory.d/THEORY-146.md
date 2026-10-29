@@ -15,7 +15,7 @@ history:
     now says what the model and Figures 1–2 show. The old "only if" is
     dropped, since the paper compares two funder policies at one
     setting. The promote_when, evidence from real fields, asks for more
-    than the title claims and moves to QUESTION-tmp0b84k. The old title: Industry can bias a scientific community toward a worse treatment without corrupting any individual, by selectively funding researchers whose methods already favour its product, provided researchers differ in method and both influence and the training of newcomers follow productivity; an independent funder counteracts this only if it discounts industry-funded work, and one that funds on productivity alone makes it worse. The old promote_when: Evidence from real research fields rather than models. Studies that trace methods through funding and training lineages, showing that researchers' methods were the same before and after industry funding, that funded researchers trained more of the next generation, and that a field's share of industry-favourable methods grew by that route. Also comparisons of funders whose merit assessments do or do not count industry-funded work. The account is in trouble if industry-favourable consensus in such fields arises mainly through funded individuals changing their methods or results. More simulations of the same model family, and further case histories read through the model, cannot settle it.
+    than the title claims and moves to QUESTION-315. The old title: Industry can bias a scientific community toward a worse treatment without corrupting any individual, by selectively funding researchers whose methods already favour its product, provided researchers differ in method and both influence and the training of newcomers follow productivity; an independent funder counteracts this only if it discounts industry-funded work, and one that funds on productivity alone makes it worse. The old promote_when: Evidence from real research fields rather than models. Studies that trace methods through funding and training lineages, showing that researchers' methods were the same before and after industry funding, that funded researchers trained more of the next generation, and that a field's share of industry-favourable methods grew by that route. Also comparisons of funders whose merit assessments do or do not count industry-funded work. The account is in trouble if industry-favourable consensus in such fields arises mainly through funded individuals changing their methods or results. More simulations of the same model family, and further case histories read through the model, cannot settle it.
 tags:
 - philosophy-of-science
 - epistemology
@@ -30,13 +30,13 @@ summary: >-
   chance of converging on the better action, though no agent's beliefs
   respond to funding. A merit-based independent funder worsens it; one
   ignoring industry-funded trials counters it. Held as what the model
-  shows; whether real fields work this way is QUESTION-tmp0b84k.
+  shows; whether real fields work this way is QUESTION-315.
 supports:
 - CLAIM-276
 - CLAIM-404
 bears_on:
 - QUESTION-047
-- QUESTION-tmp0b84k
+- QUESTION-315
 ---
 <!-- inactive-ok-file: LIT-751 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-143 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->

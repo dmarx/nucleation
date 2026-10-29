@@ -33,7 +33,7 @@ history:
     a basin averages features. The promote_when asked for the measurement
     outside image classification and on many-model averages, which the
     narrowed title does not claim. It moves unchanged to
-    QUESTION-tmpxygjx, as THEORY-114's did to QUESTION-312.
+    QUESTION-318, as THEORY-114's did to QUESTION-312.
 tags:
 - loss-landscapes
 - representation-learning
@@ -58,12 +58,12 @@ summary: >-
   linear along the path. Measured on pairs at three interpolation points,
   image classification only. The regularity outside image
   classification, and the step to many-model averages such as soups and
-  SWA, are QUESTION-tmpxygjx.
+  SWA, are QUESTION-318.
 supports:
 - CLAIM-187
 - CLAIM-263
 bears_on:
-- QUESTION-tmpxygjx
+- QUESTION-318
 ---
 <!-- inactive-ok-file: THEORY-116 — Proposed; the account this one extends, and a sibling named in Connections, nothing here rests on their open parts -->
 
@@ -130,7 +130,7 @@ the claim implies.
   and SWA ([ANTH-LIT-673](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-673.md)) averages iterates along one trajectory. Neither
   is measured. Extending the claim to them needs the conditions to hold
   jointly for every member, which nothing here tests. That is
-  [QUESTION-tmpxygjx](../questions.d/QUESTION-tmpxygjx.md).
+  [QUESTION-318](../questions.d/QUESTION-318.md).
 - **It does not say why connected pairs satisfy the conditions.** The
   account describes pairs already found to be connected. Why spawning or
   matching produces shared activation patterns is left open.

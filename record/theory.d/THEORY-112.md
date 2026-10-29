@@ -23,7 +23,7 @@ history:
     transformers also an orthogonal map on the residual stream, without
     which a barrier remains; and the barrier left after alignment falls
     with width and rises with depth. The promote_when, with the depth
-    clause, moves to QUESTION-tmpskhuc, as THEORY-114's did to
+    clause, moves to QUESTION-317, as THEORY-114's did to
     QUESTION-312.
 tags:
 - loss-landscapes
@@ -50,14 +50,14 @@ summary: >-
   group. Lubana et al.'s barriers between models that compute differently
   are the boundary. Whether most of the barrier goes at standard width
   on ImageNet or a language corpus under data-free alignment, and whether
-  the barrier left rises with depth, is QUESTION-tmpskhuc.
+  the barrier left rises with depth, is QUESTION-317.
 extended_by:
 - THEORY-110
 supports:
 - CLAIM-187
 - CLAIM-263
 bears_on:
-- QUESTION-tmpskhuc
+- QUESTION-317
 ---
 <!-- inactive-ok-file: THEORY-109 THEORY-110 — Proposed; the account this extends and one filed with it, named in the body -->
 
@@ -136,7 +136,7 @@ find barriers on their minimum-energy paths falling as networks get "wider
 and especially deeper" (Fig. 5). Garipov et al., [LIT-673](../literature.d/LIT-673.md), also find
 width easing curved connection (A.7). On straight lines after alignment
 the width half holds, and is in the title. The depth half is only
-suggested, and is [QUESTION-tmpskhuc](../questions.d/QUESTION-tmpskhuc.md)'s:
+suggested, and is [QUESTION-317](../questions.d/QUESTION-317.md)'s:
 
 - *Width lowers it.* Git Re-Basin's barrier after weight matching falls with
   width for VGG-16 and ResNet-20 on CIFAR-10, to zero at large width; at 1×

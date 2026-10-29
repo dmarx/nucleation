@@ -1,5 +1,8 @@
 ---
+number: 317
 status: Open
+formerly:
+- QUESTION-tmpskhuc
 title: 'Does aligning independently trained networks over the architecture''s full symmetry group remove most of the linear barrier at standard width, on ImageNet or a language corpus, with an alignment computed without data; is the barrier that remains a difference in what the endpoints compute; and does it rise with depth?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   as [THEORY-114](../theory.d/THEORY-114.md)'s moved to [QUESTION-312](QUESTION-312.md).
 ---
 
-# QUESTION-tmpskhuc: Does aligning independently trained networks over the architecture's full symmetry group remove most of the linear barrier at standard width, on ImageNet or a language corpus, with an alignment computed without data; is the barrier that remains a difference in what the endpoints compute; and does it rise with depth?
+# QUESTION-317: Does aligning independently trained networks over the architecture's full symmetry group remove most of the linear barrier at standard width, on ImageNet or a language corpus, with an alignment computed without data; is the barrier that remains a difference in what the endpoints compute; and does it rise with depth?
 
 ## Why it is a question
 

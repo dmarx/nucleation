@@ -77,7 +77,7 @@
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
 - [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(Superseded)*
-  - [CLAIM-125](../record/claims.d/CLAIM-125.md) — Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data *(Proposed)*
+  - [CLAIM-125](../record/claims.d/CLAIM-125.md) — Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data *(Active)*
 
 ## From Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable
 

@@ -1,5 +1,8 @@
 ---
+number: 315
 status: Open
+formerly:
+- QUESTION-tmp0b84k
 title: 'Does industrial selection, industry funding of researchers whose methods already favour its product, produce industry-favourable consensus in real research fields through those researchers'' productivity and their training of newcomers, rather than through funded researchers changing their methods or results, and does an independent funder that discounts industry-funded work counteract it?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   fields work this way is this question.
 ---
 
-# QUESTION-tmp0b84k: Does industrial selection, industry funding of researchers whose methods already favour its product, produce industry-favourable consensus in real research fields through those researchers' productivity and their training of newcomers, rather than through funded researchers changing their methods or results, and does an independent funder that discounts industry-funded work counteract it?
+# QUESTION-315: Does industrial selection, industry funding of researchers whose methods already favour its product, produce industry-favourable consensus in real research fields through those researchers' productivity and their training of newcomers, rather than through funded researchers changing their methods or results, and does an independent funder that discounts industry-funded work counteract it?
 
 ## Why it is a question
 

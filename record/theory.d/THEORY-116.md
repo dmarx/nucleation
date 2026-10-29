@@ -28,7 +28,7 @@ history:
   note: >-
     Connections updated by the eleventh status review (ADR-057) after
     THEORY-112 was narrowed and promoted: it no longer says the barrier
-    left after alignment rises with depth, which is now QUESTION-tmpskhuc.
+    left after alignment rises with depth, which is now QUESTION-317.
     The old text: "says the barrier left after the full symmetry group is
     factored out falls with width and rises with depth". THEORY-111,
     also narrowed, no longer claims what weight averaging does inside a
@@ -186,7 +186,7 @@ sense.
   says most of the barrier between independently trained networks is
   permutation, not disagreement. [THEORY-112](THEORY-112.md), filed alongside this
   one, found the barrier left after weight matching falling with width;
-  whether it rises with depth is [QUESTION-tmpskhuc](../questions.d/QUESTION-tmpskhuc.md). This account has to say what
+  whether it rises with depth is [QUESTION-317](../questions.d/QUESTION-317.md). This account has to say what
   that residual barrier is. Either narrow or deep same-data seeds rely on
   different attributes, which nothing here has tested, or their residual
   barrier is a counterexample to the stated direction. That is the test
