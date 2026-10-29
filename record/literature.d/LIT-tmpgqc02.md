@@ -42,4 +42,4 @@ it first.
 
 ## Why this is here
 
-A5 set it beside LIT-tmpr8qf7: correspondence maps learned from data, general linear and not constrained to a group, which is where QUESTION-282 asks what fixes a correspondence. LIT-tmpr8qf7 cites it (ref. [21]) as gauge structure with no interaction between edge maps. Learned maps are no more meaningful than chosen ones until validated (QUESTION-130). `anthology-candidate`: an architecture paper.
+A5 set it beside [LIT-tmpr8qf7](LIT-tmpr8qf7.md): correspondence maps learned from data, general linear and not constrained to a group, which is where [QUESTION-282](../questions.d/QUESTION-282.md) asks what fixes a correspondence. [LIT-tmpr8qf7](LIT-tmpr8qf7.md) cites it (ref. [21]) as gauge structure with no interaction between edge maps. Learned maps are no more meaningful than chosen ones until validated ([QUESTION-130](../questions.d/QUESTION-130.md)). `anthology-candidate`: an architecture paper.

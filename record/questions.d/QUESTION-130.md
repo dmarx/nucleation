@@ -108,16 +108,16 @@ not imply nontrivial gauge curvature**." A nontrivial holonomy counts only
 if its transport was not chosen to produce it, and only if it predicts a
 discrepancy that is not an artefact of coordinates.
 
-Sarkar, Mukherjee and Sato (2026, LIT-tmpr8qf7) take this construction
+Sarkar, Mukherjee and Sato (2026, [LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md)) take this construction
 further for relation transports in O(d): under per-entity frame freedom,
 transports interact only around cycles, a loop's invariants are class
 functions of its holonomy, and an equivariant update has the form
-Ψ(H)Tᵢⱼ (THEORY-tmpf3jtf). That develops A19's "gauge-covariant
+Ψ(H)Tᵢⱼ ([THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md)). That develops A19's "gauge-covariant
 comparison". It does not touch this question's open part, because the
 transports are supplied, and its companion paper calls the frame freedom
-itself "a chosen inductive bias" (LIT-tmpbihhf). For d > 1 a connection
+itself "a chosen inductive bias" ([LIT-tmpbihhf](../literature.d/LIT-tmpbihhf.md)). For d > 1 a connection
 can be frustrated in some directions and compatible in others
-(CLAIM-tmp3lml8), so a nontrivial holonomy need not mean that no
+([CLAIM-tmp3lml8](../claims.d/CLAIM-tmp3lml8.md)), so a nontrivial holonomy need not mean that no
 commitment survives the loop.
 
 Prior work on gauge ideas in neuroscience exists (Sengupta et al. (2016),

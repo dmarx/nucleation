@@ -41,4 +41,4 @@ it first.
 
 ## Why this is here
 
-A5 called it "the most revealing conceptual warning": a round trip can be perfect while the intended correspondence is not learned, because the information travels in a channel the audience cannot see. It is the converse failure to CLAIM-tmpgwud2's collapse, where routes agree because nothing travels, and a learned instance of THEORY-1088's consensus by changed maps.
+A5 called it "the most revealing conceptual warning": a round trip can be perfect while the intended correspondence is not learned, because the information travels in a channel the audience cannot see. It is the converse failure to [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md)'s collapse, where routes agree because nothing travels, and a learned instance of [THEORY-1088](../theory.d/THEORY-1088.md)'s consensus by changed maps.

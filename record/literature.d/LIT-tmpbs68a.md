@@ -39,4 +39,4 @@ it first.
 
 ## Why this is here
 
-A6's foundational distinction for QUESTION-130: GW treats the registration of whole metric spaces as arbitrary, this treats one global transformation as arbitrary, and lattice gauge theory (LIT-tmpr8qf7) a separate frame at every node. Keeping the three apart stops an arbitrary orientation being read as path dependence.
+A6's foundational distinction for [QUESTION-130](../questions.d/QUESTION-130.md): GW treats the registration of whole metric spaces as arbitrary, this treats one global transformation as arbitrary, and lattice gauge theory ([LIT-tmpr8qf7](LIT-tmpr8qf7.md)) a separate frame at every node. Keeping the three apart stops an arbitrary orientation being read as path dependence.

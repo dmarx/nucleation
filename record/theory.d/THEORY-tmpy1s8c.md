@@ -15,8 +15,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpr8qf7
 summary: >-
-  Sarkar, Mukherjee and Sato (2026), LIT-tmpr8qf7, §3 and Table 1, read
-  in NOTE-tmp8rf0b. The accuracies are the paper's, on 1000 instances
+  Sarkar, Mukherjee and Sato (2026), [LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md), §3 and Table 1, read
+  in [NOTE-tmp8rf0b](../notes.d/NOTE-tmp8rf0b.md). The accuracies are the paper's, on 1000 instances
   per cell, and were not rerun. The AUC ceiling was recomputed here:
   1.42% of corrupted triangles at p = 0.3 have cancelling corruptions,
   so the ceiling is 0.9929. What the experiment does not show is
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Sarkar, Mukherjee and Sato (2026), LIT-tmpr8qf7, §3, Table 1 and Figure 1
-(pp. 3–4) of the arXiv preprint 2610.37656v1; read in NOTE-tmp8rf0b.
+Sarkar, Mukherjee and Sato (2026), [LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md), §3, Table 1 and Figure 1
+(pp. 3–4) of the arXiv preprint 2610.37656v1; read in [NOTE-tmp8rf0b](../notes.d/NOTE-tmp8rf0b.md).
 
 ## What was actually shown
 
@@ -80,5 +80,5 @@ ones random.
   corruptions cancel on data whose clean part is exactly flat.
 - **That loop-consistency is evidence of correctness in general.** Here
   the truth is flat by construction, so a consistent reconstruction is a
-  correct one. CASE-179's arm that revises correspondences "by consistency
+  correct one. [CASE-179](../cases.d/CASE-179.md)'s arm that revises correspondences "by consistency
   alone" is the setting where the two come apart.

@@ -40,4 +40,4 @@ it first.
 
 ## Why this is here
 
-A7: influence, authority and obligation are directed, so their comparison needs a directed distance. Its sharper use is CLAIM-448's: two recorded networks can align well while the organizations behind them differ, because a legibility regime decides what enters the record (CASE-124).
+A7: influence, authority and obligation are directed, so their comparison needs a directed distance. Its sharper use is [CLAIM-448](../claims.d/CLAIM-448.md)'s: two recorded networks can align well while the organizations behind them differ, because a legibility regime decides what enters the record ([CASE-124](../cases.d/CASE-124.md)).

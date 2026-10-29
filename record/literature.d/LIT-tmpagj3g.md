@@ -39,4 +39,4 @@ it first.
 
 ## Why this is here
 
-A7 joined three of the record's ideas through it: task-relative fidelity (CLAIM-259), legibility for a bounded receiver (CLAIM-455), and the difference between supporting prediction and supporting control. A rendering may keep what a task's control needs while losing most of the source. CLAIM-348's caution stands: optimizing for one task does not make it the task that matters.
+A7 joined three of the record's ideas through it: task-relative fidelity ([CLAIM-259](../claims.d/CLAIM-259.md)), legibility for a bounded receiver ([CLAIM-455](../claims.d/CLAIM-455.md)), and the difference between supporting prediction and supporting control. A rendering may keep what a task's control needs while losing most of the source. [CLAIM-348](../claims.d/CLAIM-348.md)'s caution stands: optimizing for one task does not make it the task that matters.

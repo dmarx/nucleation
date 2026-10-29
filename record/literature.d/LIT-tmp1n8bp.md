@@ -44,4 +44,4 @@ it first.
 
 ## Why this is here
 
-A5 put it first among the readings: a corpus of what translation adds, which is the target side of CLAIM-257's change of cover, and a source of items for CASE-tmph0fxi. Its categories annotate additions; they are not a validated measure of footing or act.
+A5 put it first among the readings: a corpus of what translation adds, which is the target side of [CLAIM-257](../claims.d/CLAIM-257.md)'s change of cover, and a source of items for [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md). Its categories annotate additions; they are not a validated measure of footing or act.

@@ -38,4 +38,4 @@ it first.
 
 ## Why this is here
 
-A6, as exploratory: it would matter if pragmatic force rests on a configuration of cues (speaker role, form of address, a later commitment) and not on each cue alone, which is the ternary-structure worry of QUESTION-283. The test would be behavioural prediction, not expressiveness.
+A6, as exploratory: it would matter if pragmatic force rests on a configuration of cues (speaker role, form of address, a later commitment) and not on each cue alone, which is the ternary-structure worry of [QUESTION-283](../questions.d/QUESTION-283.md). The test would be behavioural prediction, not expressiveness.

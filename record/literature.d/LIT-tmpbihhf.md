@@ -69,8 +69,8 @@ parallel transport: What per-entity frames force in attention. Preprint.
 
 ## Standing in the record
 
-It is the source of the premise that LIT-tmpr8qf7 calls "the task's", and
+It is the source of the premise that [LIT-tmpr8qf7](LIT-tmpr8qf7.md) calls "the task's", and
 its own CLUTRR control is the plainest evidence that the premise is
-task-relative. That bears on CLAIM-098 and CLAIM-035, which hold that
+task-relative. That bears on [CLAIM-098](../claims.d/CLAIM-098.md) and [CLAIM-035](../claims.d/CLAIM-035.md), which hold that
 translation is generally not a group action. Only the parts named in
-NOTE-tmp4j67k were read. `anthology-candidate`, as for its companion.
+[NOTE-tmp4j67k](../notes.d/NOTE-tmp4j67k.md) were read. `anthology-candidate`, as for its companion.

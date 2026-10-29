@@ -41,4 +41,4 @@ it first.
 
 ## Why this is here
 
-A6's highest-priority extension: with utterances as samples and pragmatic probes as features, it matches what two communities say and the questions through which they read it, so the correspondence of probes is fitted, not assumed. That is CLAIM-257's change of cover and TERM-092's frontier in fittable form. A6's warning is kept: utterances and probes can be swapped together at equal cost, so anchors must be independent. An arm of CASE-tmph0fxi.
+A6's highest-priority extension: with utterances as samples and pragmatic probes as features, it matches what two communities say and the questions through which they read it, so the correspondence of probes is fitted, not assumed. That is [CLAIM-257](../claims.d/CLAIM-257.md)'s change of cover and [TERM-092](../terms.d/TERM-092.md)'s frontier in fittable form. A6's warning is kept: utterances and probes can be swapped together at equal cost, so anchors must be independent. An arm of [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md).

@@ -96,22 +96,22 @@ entity "already speaks the same one" (p. 2).
 
 ## Connections
 
-It is ref. [1] of LIT-tmpr8qf7, which supplies the edge-level half and
+It is ref. [1] of [LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md), which supplies the edge-level half and
 re-describes this paper's premise as "the task's". The invariant theory is
 Weyl's and Villar et al.'s (App. A.1). The algebraic motivation for the
 CLUTRR result is Krohn–Rhodes.
 
 ## Bearing on the record
 
-- **CLAIM-098 and CLAIM-035.** The CLUTRR control is a measured case of the
+- **[CLAIM-098](../claims.d/CLAIM-098.md) and [CLAIM-035](../claims.d/CLAIM-035.md).** The CLUTRR control is a measured case of the
   claims' thesis that composition of relations need not be a group action.
   Imposing invertibility on a relational task with resets loses most of
   what unconstrained composition achieves. The authors decline to name
   the cause.
-- **LIT-tmpr8qf7.** Its "the symmetry is the task's" (p. 2) contradicts this
+- **[LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md).** Its "the symmetry is the task's" (p. 2) contradicts this
   paper's statement of the same premise, and this paper's own data show
   the premise's orthogonality is task-relative.
-- **QUESTION-130.** The anchored-identification remark is QUESTION-130's
+- **[QUESTION-130](../questions.d/QUESTION-130.md).** The anchored-identification remark is [QUESTION-130](../questions.d/QUESTION-130.md)'s
   condition in another form: a transport estimated from matched anchors is
   fixed only where the anchors reach, so apparent holonomy in unanchored
   directions is the estimator's.

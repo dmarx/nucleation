@@ -41,4 +41,4 @@ it first.
 
 ## Why this is here
 
-The centre of A6: correspondence recovered from the relations elements bear to one another, without a shared coordinate system. That is the structuralist reading of CLAIM-046 and CLAIM-113 in computational form. A6 also gave its limit, kept here: GW finds relational resemblance under a chosen metric, which is not communicative identity (CLAIM-135). Read with LIT-tmpqoytq.
+The centre of A6: correspondence recovered from the relations elements bear to one another, without a shared coordinate system. That is the structuralist reading of [CLAIM-046](../claims.d/CLAIM-046.md) and [CLAIM-113](../claims.d/CLAIM-113.md) in computational form. A6 also gave its limit, kept here: GW finds relational resemblance under a chosen metric, which is not communicative identity ([CLAIM-135](../claims.d/CLAIM-135.md)). Read with [LIT-tmpqoytq](LIT-tmpqoytq.md).

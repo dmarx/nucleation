@@ -40,4 +40,4 @@ it first.
 
 ## Why this is here
 
-Named by A5 and A6 as the tool for every transport arm of CASE-tmph0fxi: GW, fused and partial GW, and co-optimal transport (`ot.coot`). Registered as the paper that stands for the software.
+Named by A5 and A6 as the tool for every transport arm of [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): GW, fused and partial GW, and co-optimal transport (`ot.coot`). Registered as the paper that stands for the software.

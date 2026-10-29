@@ -45,4 +45,4 @@ it first.
 
 ## Why this is here
 
-A6's precursor to LIT-tmpprsxm: a coordinate system may be arbitrary while the relations it represents are not. A6's caution is kept: a co-occurrence geometry is not a geometry of pragmatic meaning, and the record's version would recover distances from receivers' responses (CLAIM-046).
+A6's precursor to [LIT-tmpprsxm](LIT-tmpprsxm.md): a coordinate system may be arbitrary while the relations it represents are not. A6's caution is kept: a co-occurrence geometry is not a geometry of pragmatic meaning, and the record's version would recover distances from receivers' responses ([CLAIM-046](../claims.d/CLAIM-046.md)).

@@ -41,4 +41,4 @@ it first.
 
 ## Why this is here
 
-A6 read GW alignment as a numerical form of structure-mapping's first principle, and used structure-mapping to say what GW leaves out: two systems can share pairwise distances and realize different kinds of relation, and higher-order relational systems are what analogy keeps. It bears on CLAIM-113 and CLAIM-135.
+A6 read GW alignment as a numerical form of structure-mapping's first principle, and used structure-mapping to say what GW leaves out: two systems can share pairwise distances and realize different kinds of relation, and higher-order relational systems are what analogy keeps. It bears on [CLAIM-113](../claims.d/CLAIM-113.md) and [CLAIM-135](../claims.d/CLAIM-135.md).

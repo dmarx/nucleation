@@ -39,4 +39,4 @@ it first.
 
 ## Why this is here
 
-A7's bridge between pragmatic transport and distributed agency: a correspondence that respects interventions, not only observations, so that systems matched on relational statistics but different under perturbation are told apart (CLAIM-414, CASE-179, THEORY-849). A good abstraction still does not settle constitution (CLAIM-150).
+A7's bridge between pragmatic transport and distributed agency: a correspondence that respects interventions, not only observations, so that systems matched on relational statistics but different under perturbation are told apart ([CLAIM-414](../claims.d/CLAIM-414.md), [CASE-179](../cases.d/CASE-179.md), [THEORY-849](../theory.d/THEORY-849.md)). A good abstraction still does not settle constitution ([CLAIM-150](../claims.d/CLAIM-150.md)).

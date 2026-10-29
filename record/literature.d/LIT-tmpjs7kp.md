@@ -40,4 +40,4 @@ it first.
 
 ## Why this is here
 
-A6 thought it "probably the most practical model for CASE-055": independently validated anchor matches break the symmetries pure GW cannot, and the weight between structure and anchors is a scientific parameter to vary, not a hyperparameter to tune. An arm of CASE-tmph0fxi.
+A6 thought it "probably the most practical model for [CASE-055](../cases.d/CASE-055.md)": independently validated anchor matches break the symmetries pure GW cannot, and the weight between structure and anchors is a scientific parameter to vary, not a hyperparameter to tune. An arm of [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md).

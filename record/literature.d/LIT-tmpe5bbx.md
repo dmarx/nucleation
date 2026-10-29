@@ -40,4 +40,4 @@ it first.
 
 ## Why this is here
 
-A7's highest-priority connection, to the inquiry frontier (TERM-092, CLAIM-475): establishing a correspondence is a budgeted choice of which question to ask. A7's distinction is kept: AvAtar chooses a query within a fixed vocabulary, while TERM-092 also asks how the vocabulary in which new questions become askable is extended.
+A7's highest-priority connection, to the inquiry frontier ([TERM-092](../terms.d/TERM-092.md), [CLAIM-475](../claims.d/CLAIM-475.md)): establishing a correspondence is a budgeted choice of which question to ask. A7's distinction is kept: AvAtar chooses a query within a fixed vocabulary, while [TERM-092](../terms.d/TERM-092.md) also asks how the vocabulary in which new questions become askable is extended.

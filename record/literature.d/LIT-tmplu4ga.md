@@ -38,4 +38,4 @@ it first.
 
 ## Why this is here
 
-A5 named it, with the COMET toolkit, as the strong baseline a pragmatic-transport account must beat, not as a criterion of fidelity; CASE-071 already shows a metric's preferences parting from human raters'. A baseline in CASE-tmph0fxi. `anthology-candidate`: an evaluation tool for ML practice.
+A5 named it, with the COMET toolkit, as the strong baseline a pragmatic-transport account must beat, not as a criterion of fidelity; [CASE-071](../cases.d/CASE-071.md) already shows a metric's preferences parting from human raters'. A baseline in [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md). `anthology-candidate`: an evaluation tool for ML practice.
