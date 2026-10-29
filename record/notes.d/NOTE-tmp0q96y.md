@@ -123,34 +123,34 @@ feature learning, avoids both failures.
 
 It criticizes Hoel 2017 ("When the map is better than the territory",
 not registered), the successor of Hoel, Albantakis and Tononi 2013
-(LIT-1038, THEORY-222). The commutativity demand is credited to
-Rubenstein et al. (LIT-1334) and Beckers and Halpern (LIT-1316), whose
+([LIT-1038](../literature.d/LIT-1038.md), [THEORY-222](../theory.d/THEORY-222.md)). The commutativity demand is credited to
+Rubenstein et al. ([LIT-1334](../literature.d/LIT-1334.md)) and Beckers and Halpern ([LIT-1316](../literature.d/LIT-1316.md)), whose
 consistency conditions are stronger; the alternative it recommends is
 Chalupka, Perona and Eberhardt's causal feature learning (not
 registered). It cites Rosas et al.'s "Reconciling emergences"
-(LIT-1244) and Aaronson's blog post for similar concerns, and Dewhurst
+([LIT-1244](../literature.d/LIT-1244.md)) and Aaronson's blog post for similar concerns, and Dewhurst
 2021 for the epistemic reading. The defenders' replies the record holds
-are CE 2.0 (LIT-1136, NOTE-1387), which answers the uniform-intervention
-criticism, and Zhang et al. (LIT-1129, NOTE-1399), which answers
+are CE 2.0 ([LIT-1136](../literature.d/LIT-1136.md), [NOTE-1387](NOTE-1387.md)), which answers the uniform-intervention
+criticism, and Zhang et al. ([LIT-1129](../literature.d/LIT-1129.md), [NOTE-1399](NOTE-1399.md)), which answers
 ambiguity and non-commutativity with a 3×3 example. Comolatti and Hoel
-2022 (LIT-tmpzfaqi) answers the same criticism by moving to other
+2022 ([LIT-tmpzfaqi](../literature.d/LIT-tmpzfaqi.md)) answers the same criticism by moving to other
 measures.
 
 ## Bearing on the record
 
-- **THEORY-787 and QUESTION-204.** The triage expected the published
+- **[THEORY-787](../theory.d/THEORY-787.md) and [QUESTION-204](../questions.d/QUESTION-204.md).** The triage expected the published
   case that the EI advantage is an artefact of the uniform choice. The
   paper argues that, and shows two consequences of the choice, but it
-  does not run the test QUESTION-204 asks for. Nowhere does it compute
+  does not run the test [QUESTION-204](../questions.d/QUESTION-204.md) asks for. Nowhere does it compute
   EI with one distribution over micro states at both levels. That test
   needs no example: under any single micro distribution, the macro EI is
   I(f(X); f(Y)) ≤ I(X; Y) by data processing, so the advantage cannot
-  survive (THEORY-tmphfpe7). The paper supplies the diagnosis and the
+  survive ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)). The paper supplies the diagnosis and the
   record's derivation supplies the proof. Together they meet
-  THEORY-787's "in trouble if" clause for EI.
-- **QUESTION-204, second half.** Example (14) is a small case of the
+  [THEORY-787](../theory.d/THEORY-787.md)'s "in trouble if" clause for EI.
+- **[QUESTION-204](../questions.d/QUESTION-204.md), second half.** Example (14) is a small case of the
   disagreement the question asks about. An interventionist test of
-  realization insensitivity (Yablo's proportionality, THEORY-133's) would
+  realization insensitivity (Yablo's proportionality, [THEORY-133](../theory.d/THEORY-133.md)'s) would
   keep x₁ and x₂ apart. Their effects on the macro effect variable still
   differ (0.8/0.2 against 0.9/0.1), and EI merges them. It is a
   hand-built 3×3 matrix, so by the question's own terms it cannot settle
@@ -165,17 +165,17 @@ measures.
   strongly lumpable partition of (17), since both rows send 0.5 into
   each block. A(T)² equals the {x₁, x₂} coarsening of T², the same
   matrix [[0.75, 0.25], [0.5, 0.5]]. So the coarse-graining commutes with
-  time evolution, as THEORY-822's lumpability guarantees, and only the
+  time evolution, as [THEORY-822](../theory.d/THEORY-822.md)'s lumpability guarantees, and only the
   EI argmax changes, from that partition at one step to the micro at two.
   The failure is in the selection criterion, not in the coarse-graining.
-- **QUESTION-115 (A21).** A21's condition, C_*(P_ℓ^{do(a)}) = P_L^{do(ā)}
+- **[QUESTION-115](../questions.d/QUESTION-115.md) (A21).** A21's condition, C_*(P_ℓ^{do(a)}) = P_L^{do(ā)}
   for a declared family of interventions, is this paper's commutativity
   and ambiguity demands in one line. The paper shows that EI's family,
   uniform averages over realizers, passes coarse-grainings that fail
   both. The same answer for EI as the ΦID note of 2026-10-20 gives for Ψ:
   the criterion picks a level the admissibility condition does not
   license.
-- **QUESTION-252.** One more pairwise separation: strong lumpability (D
+- **[QUESTION-252](../questions.d/QUESTION-252.md).** One more pairwise separation: strong lumpability (D
   and M hold for the block label) does not make the EI-optimal choice
   stable under a change of time step. That is a property of EI, not one
   of the question's five conditions, so it is context, not a witness.
@@ -202,7 +202,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 - Under the system's own stationary distribution used at both levels,
   does a partition ever tie with the micro on EI without being a
   sufficient statistic of the cause for the coarse effect? A tie is the
-  most a macro can get under a common distribution (THEORY-tmphfpe7).
+  most a macro can get under a common distribution ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)).
 - Does a fixed, system-given intervention family exist on which EI's
   level and a proportionality test can be compared on a system not built
   for it?

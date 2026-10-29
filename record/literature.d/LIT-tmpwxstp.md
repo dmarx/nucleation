@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmp2xl62) in full, from arXiv's v1; worth reading
+  read 2026-10-29 ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)) in full, from arXiv's v1; worth reading
   as the minimal model in which identical units, each normalizing the
   weights it gives to the others and strengthening weights to units in
   similar states, split into a persistent core of about 14 to 16 units
@@ -73,14 +73,14 @@ Ito, J. & Kaneko, K. (2002). Spontaneous structure formation in a network
 of chaotic units with variable connection strengths. *Physical Review
 Letters* 88(2), 028701. arXiv:cond-mat/0108408 (2001).
 
-Read in full on 2026-10-29 (NOTE-tmp2xl62).
+Read in full on 2026-10-29 ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)).
 
 ## Why this is here
 
 The triage of 2026-10-29 (curation entry of 20:59) filed it for
-QUESTION-117, whose note of 2026-10-29 names like-and-like reinforcement
+[QUESTION-117](../questions.d/QUESTION-117.md), whose note of 2026-10-29 names like-and-like reinforcement
 producing persistent leader and follower classes as a predecessor to
-beat, and for QUESTION-083, QUESTION-132 and NOTE-1394's open question on
+beat, and for [QUESTION-083](../questions.d/QUESTION-083.md), [QUESTION-132](../questions.d/QUESTION-132.md) and [NOTE-1394](../notes.d/NOTE-1394.md)'s open question on
 which adaptive-network rules give persistent role classes in a directed,
 weighted network. The record knew it only through Gross and Blasius's
-review (LIT-1139, NOTE-1394).
+review ([LIT-1139](LIT-1139.md), [NOTE-1394](../notes.d/NOTE-1394.md)).

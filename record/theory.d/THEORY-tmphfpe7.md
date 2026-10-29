@@ -27,14 +27,14 @@ source:
 - LIT-tmpr2bnp
 - LIT-1038
 summary: >-
-  The test QUESTION-204 asks for has an answer that needs no system: with
+  The test [QUESTION-204](../questions.d/QUESTION-204.md) asks for has an answer that needs no system: with
   one distribution over micro states at both levels, EI(macro) =
   I(f(X); f(Y)) ≤ I(X; Y) = EI(micro) by data processing. Hoel's causal
   emergence uses the uniform distribution at each level, which is a
   non-uniform micro distribution whenever blocks differ in size, so its
   positive values come from the micro chain scored under that other
-  distribution. Comolatti and Hoel (LIT-tmpzfaqi) concede the stationary
-  case; Eberhardt and Lee (LIT-tmpr2bnp) name the distribution as the
+  distribution. Comolatti and Hoel ([LIT-tmpzfaqi](../literature.d/LIT-tmpzfaqi.md)) concede the stationary
+  case; Eberhardt and Lee ([LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md)) name the distribution as the
   source of the artefact. It says nothing about measures that data
   processing does not bound, nor about whether EI's level agrees with an
   interventionist test.
@@ -50,14 +50,14 @@ bears_on:
 
 ## Source
 
-Comolatti and Hoel (arXiv 2022), LIT-tmpzfaqi, read in NOTE-tmpcmbzs:
+Comolatti and Hoel (arXiv 2022), [LIT-tmpzfaqi](../literature.d/LIT-tmpzfaqi.md), read in [NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md):
 "the only condition to not show causal emergence was the overall
 effective information when using the observational distribution. This
-was known [Hoel 2017]". Eberhardt and Lee (2022), LIT-tmpr2bnp, read in
-NOTE-tmp0q96y, trace EI's ambiguity and non-commutativity to the
+was known [Hoel 2017]". Eberhardt and Lee (2022), [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md), read in
+[NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md), trace EI's ambiguity and non-commutativity to the
 maximum-entropy distribution "extraneous to the system". EI and its
-macro interventions are Hoel, Albantakis and Tononi's (2013), LIT-1038,
-THEORY-222. The general bound and the decomposition below are the
+macro interventions are Hoel, Albantakis and Tononi's (2013), [LIT-1038](../literature.d/LIT-1038.md),
+[THEORY-222](THEORY-222.md). The general bound and the decomposition below are the
 record's.
 
 ## What was actually shown
@@ -108,16 +108,16 @@ search found none.
 - **Not that macro descriptions are useless or that coarse-graining
   never helps.** Measures not bounded by data processing, such as
   per-transition effect information and quantities normalized by log₂ n,
-  can rise at a macro under a common distribution (NOTE-tmpcmbzs). The
-  bound is about EI, which is the measure THEORY-787 rests on.
-- **Not the second half of QUESTION-204**, whether the level EI picks
+  can rise at a macro under a common distribution ([NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md)). The
+  bound is about EI, which is the measure [THEORY-787](THEORY-787.md) rests on.
+- **Not the second half of [QUESTION-204](../questions.d/QUESTION-204.md)**, whether the level EI picks
   agrees with an independent interventionist test. Eberhardt and Lee's
-  (14) is one hand-built case where it does not (NOTE-tmp0q96y).
+  (14) is one hand-built case where it does not ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)).
 - **Not Hoel 2013's temporal or spatio-temporal macros**, where the macro
   effect is several micro steps ahead and the micro comparison is with
   one step. The bound covers a coarse-graining of one transition, with
   any partitions of cause and effect. The four examples behind
-  THEORY-222's 0.40 to 2.92 bits were not recomputed.
+  [THEORY-222](THEORY-222.md)'s 0.40 to 2.92 bits were not recomputed.
 - **Not that the uniform distribution is wrong.** It says what the gain
   is a gain of. Whether an analyst's distribution should differ between
-  levels is the interpretive question THEORY-787 takes a side on.
+  levels is the interpretive question [THEORY-787](THEORY-787.md) takes a side on.

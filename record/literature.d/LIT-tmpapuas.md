@@ -51,7 +51,7 @@ keywords:
 implementations: []
 summary: >-
   DeMarzo, Vayanos & Zwiebel (2001), working paper, MIT and Stanford.
-  Described in their 2003 QJE paper (LIT-1134) as a model in which agents
+  Described in their 2003 QJE paper ([LIT-1134](LIT-1134.md)) as a model in which agents
   choose whom to listen to by the profits of trading on what they hear,
   and stable structures have everyone listening to the same experts, who
   need not be the best informed, so that influence can perpetuate itself
@@ -70,19 +70,19 @@ status note).
 
 ## Why this is here
 
-The triage of 2026-10-29 put it in the File tier for CLAIM-297 and
-QUESTION-117. The authors' persuasion-bias paper (LIT-1134, NOTE-1392)
+The triage of 2026-10-29 put it in the File tier for [CLAIM-297](../claims.d/CLAIM-297.md) and
+[QUESTION-117](../questions.d/QUESTION-117.md). The authors' persuasion-bias paper ([LIT-1134](LIT-1134.md), [NOTE-1392](../notes.d/NOTE-1392.md))
 holds listening weights fixed and shows that position alone can give an
 agent influence out of proportion to its accuracy. Its conclusion points
 to this companion, in which the weights move: whom an agent listens to
 is chosen by what listening earns. As the 2003 paper describes it, that
-is CLAIM-297's loop, authority updated by performance, ending in
+is [CLAIM-297](../claims.d/CLAIM-297.md)'s loop, authority updated by performance, ending in
 influence that perpetuates itself whatever its accuracy, and it would be
-a predecessor QUESTION-117 has to meet: an established model with
+a predecessor [QUESTION-117](../questions.d/QUESTION-117.md) has to meet: an established model with
 evolving influence that already gives capture without fidelity.
 
 Whether it states the loop is not settled by that description. In
-CLAIM-297 an operator's authority is scored against the interpretation
+[CLAIM-297](../claims.d/CLAIM-297.md) an operator's authority is scored against the interpretation
 it helped make dominant. In the companion, as described, listening is
 scored by trading profits, which depend on prices and on what the asset
 pays, so the score need not be self-referential. Which it is, and whether

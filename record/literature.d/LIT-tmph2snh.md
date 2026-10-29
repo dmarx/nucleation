@@ -10,7 +10,7 @@ status_note: >-
   2026-10-29). Searches for an author's upload (ResearchGate,
   academia.edu, the ACBS site) found only the related thesis of Gascoyne
   (2019) and the ACBS slides on the organisational flexibility measure,
-  which are not this work. A whole-book copy would not count (ADR-064).
+  which are not this work. A whole-book copy would not count ([ADR-064](../decisions.d/ADR-064.md)).
   The book's table of contents, from the Czech national library service
   obalkyknih.cz, confirms the chapter and its pages. It stays Unavailable
   until a copy is supplied.
@@ -66,7 +66,7 @@ summary: >-
   Bond (2018), chapter 11 (pp. 185–199) of Wilson & Hayes (eds.),
   Evolution and Contextual Behavioral Science, Context Press. The
   statement of Bond's organizational flexibility model, the ACT-derived
-  account that Guida, Minutola and Presti (LIT-1218) recast, with the
+  account that Guida, Minutola and Presti ([LIT-1218](LIT-1218.md)) recast, with the
   leader as the high-leverage route. Not read; the record knows it only
   through Guida et al.
 ---
@@ -84,14 +84,14 @@ status note).
 
 ## Why this is here
 
-The triage of 2026-10-29 put it in the File tier for CLAIM-349. A42 of the
+The triage of 2026-10-29 put it in the File tier for [CLAIM-349](../claims.d/CLAIM-349.md). A42 of the
 owner's exchange named Bond's organizational flexibility model and Guida,
 Minutola and Presti's "Propagation, not aggregation" as works to add
 "before claiming novelty" for an organizational reading of ACT. Guida et
-al. are read (LIT-1218, NOTE-1353); they identified this chapter as Bond's
+al. are read ([LIT-1218](LIT-1218.md), [NOTE-1353](../notes.d/NOTE-1353.md)); they identified this chapter as Bond's
 model and treat its leader route as a special case of their leverage
 condition. The record's verdict that the organizational transfer of ACT
-is not a prior statement of CLAIM-349's three-way split (access to a
+is not a prior statement of [CLAIM-349](../claims.d/CLAIM-349.md)'s three-way split (access to a
 signal, its authority over action, action on it) rests on Guida et al.
-alone. This chapter would test it at the source. CLAIM-349 does not
+alone. This chapter would test it at the source. [CLAIM-349](../claims.d/CLAIM-349.md) does not
 claim novelty against Bond, so nothing in it waits on the reading.
