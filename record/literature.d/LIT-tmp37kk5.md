@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpu4i35) from the author's penultimate
+  read in full 2026-10-29 ([NOTE-tmpu4i35](../notes.d/NOTE-tmpu4i35.md)) from the author's penultimate
   draft (GPI Working Paper No. 6-2023, July 2023) on the Global Priorities
   Institute's site; worth reading as a demonstration, inside the
   longtermist's own expected-value framework, that high existential risk
@@ -42,8 +42,8 @@ summary: >-
 
 Thorstad, D. (2023). *Philosophy & Public Affairs*, 51(4), 373–412.
 
-Read in full in NOTE-tmpu4i35, from the author's penultimate draft (GPI Working Paper No. 6-2023, July 2023) on the Global Priorities Institute's site.
+Read in full in [NOTE-tmpu4i35](../notes.d/NOTE-tmpu4i35.md), from the author's penultimate draft (GPI Working Paper No. 6-2023, July 2023) on the Global Priorities Institute's site.
 
 ## Why this is here
 
-A critic of longtermism from within its own expected-value framework. For QUESTION-tmpmx9ha.
+A critic of longtermism from within its own expected-value framework. For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).

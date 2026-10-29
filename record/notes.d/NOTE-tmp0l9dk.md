@@ -180,16 +180,16 @@ to a four-order-of-magnitude increase in EV(L)" (p. 25).
 
 ## Connections
 
-- **Greaves and MacAskill (LIT-tmp1we1q).** Tarsney's target is their
+- **Greaves and MacAskill ([LIT-tmp1we1q](../literature.d/LIT-tmp1we1q.md)).** Tarsney's target is their
   thesis: his statement of longtermism "closely resembles" their deontic
   strong longtermism (fn. 8), cited from the 2021 working paper. He grants
   them the normative frame and contests only the empirical inputs.
-- **Bostrom (LIT-tmph7mkx, LIT-tmpr74qy).** Tarsney names Bostrom's
+- **Bostrom ([LIT-tmph7mkx](../literature.d/LIT-tmph7mkx.md), [LIT-tmpr74qy](../literature.d/LIT-tmpr74qy.md)).** Tarsney names Bostrom's
   "naive back-of-the-envelope estimates" (p. 8) as what persistence
   worries cut down. Bostrom 2003 also supplies the Dyson-sphere value of
   10^25 lives per star. One of the four credence floors that rescue
   longtermism is credence in exactly that scenario.
-- **Thorstad (LIT-tmp37kk5).** Tarsney assumes a constant rate of
+- **Thorstad ([LIT-tmp37kk5](../literature.d/LIT-tmp37kk5.md)).** Tarsney assumes a constant rate of
   nullifying events and cites Thorstad's 2022 working paper as "a case
   against" the time of perils (fn. 22). Thorstad's 2023 paper works in
   per-century risk from the present, where Tarsney starts the clock 1000
@@ -197,22 +197,22 @@ to a four-order-of-magnitude increase in EV(L)" (p. 25).
   surviving to 3022, is where Thorstad's problem would land. If risk stays
   high for the next ten centuries, a cut in this century's risk changes
   survival to 3022 very little.
-- **Ord (LIT-tmp0ocqn)** is cited on existential risk and the time of
+- **Ord ([LIT-tmp0ocqn](../literature.d/LIT-tmp0ocqn.md))** is cited on existential risk and the time of
   perils, and for a model in the same spirit (Appendix E).
 - **Discounting.** Uncertainty about r makes the effective discount
   hyperbolic in the long run (fn. 37). That is a discount for risk, not for
-  time as such, and the record's QUESTION-tmpmx9ha cites Ramsey's refusal
+  time as such, and the record's [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) cites Ramsey's refusal
   to discount for time.
 
 ## Bearing on the record
 
-- **QUESTION-tmpmx9ha.** The paper bears on its first ground, the impersonal
+- **[QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).** The paper bears on its first ground, the impersonal
   good, and on the "can longtermism guide action" line the question already
   names. It does not refute longtermism; Tarsney concludes the challenge is
   "not fatal". What it shows is what longtermism's action-guidance rests
   on: an unknown long-run hazard rate, interstellar settlement, and, on
   some views, credences of order 10^-18.
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper says nothing about
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper says nothing about
   motivation. Its bearing is indirect, and these are inferences.
   - The question calls concern for far-future strangers the thesis's
     hardest case. That case is pressing only if such concern is owed and
@@ -229,14 +229,14 @@ to a four-order-of-magnitude increase in EV(L)" (p. 25).
   - It offers a rival explanation of why concern fades with time. Rational
     concern declines with the hazard that an effect is undone, with no
     reference to the self. A test of whether concern for the future tracks
-    felt continuity with it (Hershfield, LIT-tmp8yuyb; the test
-    QUESTION-tmpmx9ha and QUESTION-tmpruhu4 propose) must separate that
+    felt continuity with it (Hershfield, [LIT-tmp8yuyb](../literature.d/LIT-tmp8yuyb.md); the test
+    [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) and [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md) propose) must separate that
     from expected-hazard discounting.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed directly.
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed directly.
   The confound above is a point about how to run its test across
   generations.
-- **No dated note on CLAIM-tmpjylq8.** The paper does not touch motivation.
-  Its bearing goes into QUESTION-tmpmx9ha (section 3 below).
+- **No dated note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).** The paper does not touch motivation.
+  Its bearing goes into [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) (section 3 below).
 - **No THEORY filed.** The model is a contribution to a normative debate
   the record holds as a question, not an account of what is true.
 - **No ML instruction.**
@@ -274,7 +274,7 @@ to a four-order-of-magnitude increase in EV(L)" (p. 25).
 - How does the case change if r falls over time, as the time of perils
   hypothesis says? Tarsney's appendix lists time-dependence as the second
   most important simplification, and expects it to favour longtermism.
-  Thorstad's paper (LIT-tmp37kk5) asks how fast and how far it would have
+  Thorstad's paper ([LIT-tmp37kk5](../literature.d/LIT-tmp37kk5.md)) asks how fast and how far it would have
   to fall.
 - Does lay concern for the far future fall off with time the way an
   expected-hazard discount would, or the way felt self-continuity does?

@@ -174,25 +174,25 @@ which persistent state the world ends up in do not "wash out" (§4.1).
 
 ## Connections
 
-- **Bostrom 2003 and 2013 (LIT-tmph7mkx, LIT-tmpr74qy).** The
+- **Bostrom 2003 and 2013 ([LIT-tmph7mkx](../literature.d/LIT-tmph7mkx.md), [LIT-tmpr74qy](../literature.d/LIT-tmpr74qy.md)).** The
   extinction-risk arithmetic is Bostrom's (cited as 2013:18, p. 11). The
   paper extends it beyond total utilitarianism and adds non-extinction
   trajectory changes.
-- **Ramsey (LIT-tmpggdgs).** Named among the endorsers of zero pure time
+- **Ramsey ([LIT-tmpggdgs](../literature.d/LIT-tmpggdgs.md)).** Named among the endorsers of zero pure time
   preference (n. 21), the assumption the case needs.
 - **Person-affecting views and the non-identity problem (Narveson,
-  LIT-tmpoc3e4; LIT-tmpnjafv; Parfit, LIT-469).** The paper concedes the
+  [LIT-tmpoc3e4](../literature.d/LIT-tmpoc3e4.md); [LIT-tmpnjafv](../literature.d/LIT-tmpnjafv.md); Parfit, [LIT-469](../literature.d/LIT-469.md)).** The paper concedes the
   extinction case to them and rejects a non-identity restriction on
   obligation by the climate-change case.
-- **Tarsney (LIT-tmpklw8s) and Thorstad (LIT-tmp37kk5).** Tarsney is
+- **Tarsney ([LIT-tmpklw8s](../literature.d/LIT-tmpklw8s.md)) and Thorstad ([LIT-tmp37kk5](../literature.d/LIT-tmp37kk5.md)).** Tarsney is
   cited on washing-out (n. 22). Thorstad's challenge postdates this
   version.
-- **Scheffler (LIT-tmpbj0k1).** Not cited. The paper has no ground of
+- **Scheffler ([LIT-tmpbj0k1](../literature.d/LIT-tmpbj0k1.md)).** Not cited. The paper has no ground of
   obligation in what the living value.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper is the clearest case
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper is the clearest case
   in the record of an obligation grounded in an impersonal good. These
   are inferences; the authors say nothing about the self.
   - **The ground is the total good, not anyone's.** Value is total
@@ -215,12 +215,12 @@ which persistent state the world ends up in do not "wash out" (§4.1).
     judged not to discount enough (n. 21). A thesis that grounds concern
     in the self predicts some such discount. The paper does not dispute
     that people have one, only that they ought to.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed. But the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed. But the
   paper sharpens what a counterexample to the thesis must be: someone who
   acts on strong longtermism at a real cost, with no identification with
   humanity or its future. The paper says nothing about whether such
   people exist.
-- **Proposed dated note on CLAIM-tmpjylq8**: "Greaves and MacAskill (NOTE
+- **Proposed dated note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)**: "Greaves and MacAskill (NOTE
   of 2026-10-29) ground obligations to the far future in total welfare,
   undiscounted and owed to no one's self. They say nothing about why
   anyone would act on them; their agent is simply 'a rational altruistic

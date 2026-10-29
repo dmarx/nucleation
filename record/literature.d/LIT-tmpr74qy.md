@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpyret1) from the published version
+  read in full 2026-10-29 ([NOTE-tmpyret1](../notes.d/NOTE-tmpyret1.md)) from the published version
   posted on Bostrom's existential-risk site; worth reading as the standard
   definition and typology of existential risk, and for the record's
   purposes as the one longtermist source that discusses motivation: it
@@ -42,7 +42,7 @@ summary: >-
 
 Bostrom, N. (2013). *Global Policy*, 4(1), 15–31.
 
-Read in full in NOTE-tmpyret1, from the published version posted on Bostrom's existential-risk site.
+Read in full in [NOTE-tmpyret1](../notes.d/NOTE-tmpyret1.md), from the published version posted on Bostrom's existential-risk site.
 
 ## Why this is here
 

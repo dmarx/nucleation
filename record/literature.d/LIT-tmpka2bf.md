@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpaz0p7) from the authors' PsyArXiv
+  read in full 2026-10-29 ([NOTE-tmpaz0p7](../notes.d/NOTE-tmpaz0p7.md)) from the authors' PsyArXiv
   preprint (osf.io/wdbr8, OSF file of 2021-04-01); worth reading as the
   main experimental evidence on whether ordinary judgement is
   person-affecting or impersonal about merely possible people, and on how
@@ -42,7 +42,7 @@ summary: >-
 
 Caviola, L., Althaus, D., Mogensen, A. L. & Goodwin, G. P. (2022). *Cognition*, 218, 104941.
 
-Read in full in NOTE-tmpaz0p7, from the authors' PsyArXiv preprint (osf.io/wdbr8, OSF file of 2021-04-01).
+Read in full in [NOTE-tmpaz0p7](../notes.d/NOTE-tmpaz0p7.md), from the authors' PsyArXiv preprint (osf.io/wdbr8, OSF file of 2021-04-01).
 
 ## Why this is here
 

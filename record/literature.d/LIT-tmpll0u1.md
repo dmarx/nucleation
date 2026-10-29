@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmps9poq) from the SEP entry, substantive
+  read in full 2026-10-29 ([NOTE-tmps9poq](../notes.d/NOTE-tmps9poq.md)) from the SEP entry, substantive
   revision of 17 July 2026, with its notes; worth reading as the standard
   map of the person-affecting side of the obligations question, by an
   author who argues for a threshold, sufficientarian reading of it and
@@ -42,7 +42,7 @@ summary: >-
 
 Meyer, L. (2026). In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy*. First published 3 April 2003; substantive revision 17 July 2026.
 
-Read in full in NOTE-tmps9poq, from the SEP entry, substantive revision of 17 July 2026, with its notes.
+Read in full in [NOTE-tmps9poq](../notes.d/NOTE-tmps9poq.md), from the SEP entry, substantive revision of 17 July 2026, with its notes.
 
 ## Why this is here
 
