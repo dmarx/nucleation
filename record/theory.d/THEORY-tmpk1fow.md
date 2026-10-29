@@ -19,7 +19,7 @@ date: '2026-10-29'
 source:
 - LIT-1147
 summary: >-
-  Berendt & Uhrich (2016), LIT-1147: an SEM of 571 Bundesliga stadium
+  Berendt & Uhrich (2016), [LIT-1147](../literature.d/LIT-1147.md): an SEM of 571 Bundesliga stadium
   attendees. Rivalry intensity: public collective self-esteem relative to
   the rival's fans −.31. Perceived distinctiveness +.27, cohesion +.20, and
   regard from other clubs' fans +.09, with direct paths null and indirect
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-- Berendt & Uhrich (2016), LIT-1147, read in full in NOTE-tmpp2j50 from
+- Berendt & Uhrich (2016), [LIT-1147](../literature.d/LIT-1147.md), read in full in [NOTE-tmpp2j50](../notes.d/NOTE-tmpp2j50.md) from
   the authors' accepted manuscript.
 
 ## What the account says
@@ -69,9 +69,9 @@ all.
 
 ## Bearing
 
-- **CASE-098.** It ties fans' identity to a relational perception, the
+- **[CASE-098](../cases.d/CASE-098.md).** It ties fans' identity to a relational perception, the
   mutuality of the rivalry, which is the two-sidedness the case's
   institutionalized rivalry requires. Still individual-level evidence.
-- **THEORY-tmpo85ke.** That fans' regard for their group differs by which
+- **[THEORY-tmpo85ke](THEORY-tmpo85ke.md).** That fans' regard for their group differs by which
   out-group judges it is what SCT's context-dependence predicts; the
   study does not test SCT.

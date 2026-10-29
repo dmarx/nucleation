@@ -132,24 +132,24 @@ relation to place:
 
 ## Connections
 
-- **Biel (NOTE-tmpmyga8)** cites this paper for the varieties of fandom.
+- **Biel ([NOTE-tmpmyga8](NOTE-tmpmyga8.md))** cites this paper for the varieties of fandom.
   Its European fan identifiers, heavy viewers of foreign leagues,
   resemble followers and flâneurs more than supporters.
 - **Self-categorization theory.** "Nested identities" without fixed
   ranking anticipates SCT's levels and the common in-group model's dual
-  identity (NOTE-tmp222eb). Giulianotti's account is sociological and
+  identity ([NOTE-tmp222eb](NOTE-tmp222eb.md)). Giulianotti's account is sociological and
   motivational, not cognitive.
-- **CASE-105 (the Washington Senators).** Topophilia gives a reason a
+- **[CASE-105](../cases.d/CASE-105.md) (the Washington Senators).** Topophilia gives a reason a
   supporter's continuity follows the ground and the city rather than the
   franchise: the club's "ground is always 'home'". That is consistent
   with the case's point that franchise, city and supporters separate.
 
 ## Bearing on the record
 
-- **Source of THEORY-tmp800bi** (Proposed): the four-type taxonomy, and
+- **Source of [THEORY-tmp800bi](../theory.d/THEORY-tmp800bi.md)** (Proposed): the four-type taxonomy, and
   its historical trend claim, filed with a promote_when that asks for
   the trend to be measured.
-- **QUESTION-119 and CASE-104.** The taxonomy answers part of "who is
+- **[QUESTION-119](../questions.d/QUESTION-119.md) and [CASE-104](../cases.d/CASE-104.md).** The taxonomy answers part of "who is
   'the fanbase'?". Supporters, followers, fans and flâneurs relate to a
   club in different ways, and a public stance such as "the fans hate the
   owner" is likely voiced by the hot types, chiefly supporters. Flâneurs,

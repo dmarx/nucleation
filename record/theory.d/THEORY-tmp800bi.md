@@ -21,7 +21,7 @@ date: '2026-10-29'
 source:
 - LIT-1150
 summary: >-
-  Giulianotti (2002), LIT-1150, read from the author's pre-review text.
+  Giulianotti (2002), [LIT-1150](../literature.d/LIT-1150.md), read from the author's pre-review text.
   Four ideal types: supporters (traditional/hot: kin-like, topophilic,
   obligatory), followers (traditional/cool: nested, mediated
   allegiances), fans (consumer/hot: non-reciprocal intimacy,
@@ -37,7 +37,7 @@ summary: >-
 
 ## Source
 
-- Giulianotti (2002), LIT-1150, read in full in NOTE-tmp0bj7o from the
+- Giulianotti (2002), [LIT-1150](../literature.d/LIT-1150.md), read in full in [NOTE-tmp0bj7o](../notes.d/NOTE-tmp0bj7o.md) from the
   Author's Original Text in Loughborough's repository.
 
 ## What the account says
@@ -70,11 +70,11 @@ club flotation, the G14) rather than from data on spectators.
 
 ## Bearing
 
-- **QUESTION-119 and CASE-104.** If a fanbase is a mixture of these types,
+- **[QUESTION-119](../questions.d/QUESTION-119.md) and [CASE-104](../cases.d/CASE-104.md).** If a fanbase is a mixture of these types,
   a public stance credited to "the fans" is likely voiced by the hot types
   and silent among the cool. Composition by type is then one source of
   the gap between public stance and private aggregate, before any
   sampling bias.
-- **CASE-105.** The supporter's topophilic tie to the ground predicts
+- **[CASE-105](../cases.d/CASE-105.md).** The supporter's topophilic tie to the ground predicts
   that supporters' continuity follows place, not franchise, when a club
   relocates.

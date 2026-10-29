@@ -29,7 +29,7 @@ summary: >-
 
 ## Contribution
 
-The only source the record has for the timeline of CASE-100, with first-
+The only source the record has for the timeline of [CASE-100](../cases.d/CASE-100.md), with first-
 hand accounts from the redub's two creators, the animated series' co-
 showrunners (Eric and Julia Lewald), and two other early web-video makers
 (Eric Fensler, Aaron Yonda). It also gives Rosecrans Baldwin's context
@@ -98,15 +98,15 @@ why.
 
 ## Connections
 
-- **Giulianotti (NOTE-tmp0bj7o).** Not about sport, but the creators fit
+- **Giulianotti ([NOTE-tmp0bj7o](NOTE-tmp0bj7o.md)).** Not about sport, but the creators fit
   none of his spectator types cleanly. They are producers of a fan
   artefact; his taxonomy has no slot for fans who make.
-- **Jenkins (LIT-1121, LIT-1143)**, Unavailable, is the theory of
+- **Jenkins ([LIT-1121](../literature.d/LIT-1121.md), [LIT-1143](../literature.d/LIT-1143.md))**, Unavailable, is the theory of
   participatory and spreadable media this case would be read against.
 
 ## Bearing on the record
 
-- **CASE-100.** The case lists "production testimony on the decision" as
+- **[CASE-100](../cases.d/CASE-100.md).** The case lists "production testimony on the decision" as
   a strengthener. The article supplies the timing (a reshoot) and a
   public expectation before release, but no testimony on why Ratner added
   the line. So the case's caveat stands: circulation is not shown to have
@@ -114,7 +114,7 @@ why.
   borrowing very likely. The case's date for release (14 February 2006)
   and conception (November 2005) are confirmed. A note is added to the
   case.
-- **QUESTION-119.** The story's agents are two creators, a mass audience
+- **[QUESTION-119](../questions.d/QUESTION-119.md).** The story's agents are two creators, a mass audience
   of viewers and quoters, a news segment, and one director. That is A7's
   "passing coalition", and nothing in it is the X-Men fandom acting as
   such.
@@ -130,4 +130,4 @@ why.
 
 - What did the Polygon interview with Kinberg say in full, and does any
   production account (Ratner's, an editor's, a reshoot call sheet) give
-  the reason for the line? That is the evidence CASE-100 still lacks.
+  the reason for the line? That is the evidence [CASE-100](../cases.d/CASE-100.md) still lacks.

@@ -114,25 +114,25 @@ that does not help.
 
 ## Connections
 
-- **Hornsey 2008 (NOTE-tmp3dav9) and Reimer et al. (NOTE-tmp222eb).** The
+- **Hornsey 2008 ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)) and Reimer et al. ([NOTE-tmp222eb](NOTE-tmp222eb.md)).** The
   paper is SIT-framed: positive distinctiveness and collective
   self-esteem. Hornsey notes that self-esteem hypotheses became a contested
   strand. Here "self-esteem" is *public* collective self-esteem, others'
   perceived regard, not the personal self-esteem those hypotheses
   measured.
-- **Self-categorization theory (THEORY-tmpo85ke).** The PCSE split
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The PCSE split
   (respected by the rival, not; by others, yes) fits SCT's claim that the
   meaning of an in-group depends on the comparison: the same fan group
   evaluates itself differently against different out-groups. The paper
   does not invoke SCT.
-- **Talarico & Moore (LIT-1125)** and **Qi et al. (LIT-1131)** were filed
+- **Talarico & Moore ([LIT-1125](../literature.d/LIT-1125.md))** and **Qi et al. ([LIT-1131](../literature.d/LIT-1131.md))** were filed
   for the same case and are not read.
 
 ## Bearing on the record
 
-- **Source of THEORY-tmpk1fow** (Proposed): rivalry raises fans'
+- **Source of [THEORY-tmpk1fow](../theory.d/THEORY-tmpk1fow.md)** (Proposed): rivalry raises fans'
   in-group distinctiveness and cohesion through perceived reciprocity.
-- **CASE-098.** The case says this paper is "evidence about identity, not
+- **[CASE-098](../cases.d/CASE-098.md).** The case says this paper is "evidence about identity, not
   about the rivalry as a unit". Read, it says a little more. The benefit
   to fans depends on *perceived mutuality*, a relational property, more
   than on fans' own antagonism (disidentification). That is still
@@ -165,4 +165,4 @@ that does not help.
   causally.
 - Is reciprocity perceived accurately? Pairing surveys of both clubs'
   fans would show whether perceived mutuality tracks actual mutuality,
-  which is the relational fact CASE-098 needs.
+  which is the relational fact [CASE-098](../cases.d/CASE-098.md) needs.

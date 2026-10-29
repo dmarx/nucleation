@@ -20,7 +20,7 @@ date: '2026-10-29'
 source:
 - LIT-1133
 summary: >-
-  Biel (2026), LIT-1133: a four-country quota survey of 3,685 fans.
+  Biel (2026), [LIT-1133](../literature.d/LIT-1133.md): a four-country quota survey of 3,685 fans.
   Club, national and European fan-community identification average 6.1,
   5.6 and 5.3 of 10. The European item loads on its own factor in a
   two-factor solution. It goes with trust in a European fan from
@@ -37,7 +37,7 @@ summary: >-
 
 ## Source
 
-- Biel (2026), LIT-1133, read in full in NOTE-tmpmyga8 from the CC BY
+- Biel (2026), [LIT-1133](../literature.d/LIT-1133.md), read in full in [NOTE-tmpmyga8](../notes.d/NOTE-tmpmyga8.md) from the CC BY
   published article.
 
 ## What the account says
@@ -65,16 +65,16 @@ critique is null.
   identity model predicts it, but no contact was measured.
 - **Not that the European community is a group entity.** It is a
   self-categorization reported on one item; whether fans perceive a
-  European fan collective with shared intentions (THEORY-tmpdftev) is not
+  European fan collective with shared intentions ([THEORY-tmpdftev](THEORY-tmpdftev.md)) is not
   asked.
 - **Not about non-fans**, who were excluded.
 
 ## Bearing
 
-- **THEORY-tmpo85ke.** SCT predicts a superordinate category becomes
+- **[THEORY-tmpo85ke](THEORY-tmpo85ke.md).** SCT predicts a superordinate category becomes
   salient when the comparison frame widens. This study measures standing
   identification with no frame varied, so it is compatible with SCT but
   does not test it.
-- **CASE-104.** The governance null is the European-level form of the
+- **[CASE-104](../cases.d/CASE-104.md).** The governance null is the European-level form of the
   case's separation between fans' community and their judgment of those
   who run it.

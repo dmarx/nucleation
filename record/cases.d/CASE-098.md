@@ -75,14 +75,14 @@ transmission of the rivalry's history; does the antagonism persist?
 
 ## Note of 2026-10-29: Berendt and Uhrich, read
 
-LIT-1147 has now been read (NOTE-tmpp2j50). The sentence above calls it
+[LIT-1147](../literature.d/LIT-1147.md) has now been read ([NOTE-tmpp2j50](../notes.d/NOTE-tmpp2j50.md)). The sentence above calls it
 unread and judges it "evidence about identity, not about the rivalry as a
 unit". That still holds, with one addition. In the survey of 571
 Bundesliga supporters, rivalry's gains for fans (perceived
 distinctiveness, cohesion, regard from other clubs' fans) run through
 *perceived reciprocity*, the belief that the rival returns the
 antagonism. They do not run through fans' own disidentification from
-the rival (THEORY-tmpk1fow).
+the rival ([THEORY-tmpk1fow](../theory.d/THEORY-tmpk1fow.md)).
 
 So what individual fans take from a rivalry depends on how they believe
 the other side sees the relation. That is a perceived two-sidedness, the
@@ -94,6 +94,6 @@ clubs without a famous rivalry, named no archrival at all. Not every
 supporter carries a rivalry.
 
 A5's discriminating variation is untouched: the study does not interrupt
-transmission. Talarico and Moore (LIT-1125), on memory of a rivalry game,
-is now Unavailable. Qi, Giulianotti and Wiltshire (LIT-1131) is
+transmission. Talarico and Moore ([LIT-1125](../literature.d/LIT-1125.md)), on memory of a rivalry game,
+is now Unavailable. Qi, Giulianotti and Wiltshire ([LIT-1131](../literature.d/LIT-1131.md)) is
 Unfetched: a CC BY-NC copy exists at SAGE and this client was refused it.

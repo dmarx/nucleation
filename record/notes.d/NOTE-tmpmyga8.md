@@ -125,30 +125,30 @@ come apart.
 
 ## Connections
 
-- **Reimer et al. (NOTE-tmp222eb).** Their chapter's common in-group and
+- **Reimer et al. ([NOTE-tmp222eb](NOTE-tmp222eb.md)).** Their chapter's common in-group and
   dual identity models are the frame here. Their caution, that
   recategorization can subsume minorities and that in-group projection
   makes the majority's attributes the default, is not taken up. The
   finding that identification is lower among fans of the dominant German
   league is suggestive and unexplained.
-- **Self-categorization theory (THEORY-tmpo85ke).** SCT predicts the
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** SCT predicts the
   European level becomes salient when the comparison frame includes
   non-Europeans or non-fans. The survey measures standing identification
   with no frame manipulated, so it cannot test that.
-- **Giulianotti (NOTE-tmp0bj7o).** Cited (p. 3) for the varied modes of
+- **Giulianotti ([NOTE-tmp0bj7o](NOTE-tmp0bj7o.md)).** Cited (p. 3) for the varied modes of
   fandom. The heavy-foreign-viewing correlate fits Giulianotti's
   "followers" and "flâneurs" more than his "supporters"; the paper does
   not draw this.
-- **Pettigrew (LIT-1408)**, unread, is the contact theory behind CIIM.
+- **Pettigrew ([LIT-1408](../literature.d/LIT-1408.md))**, unread, is the contact theory behind CIIM.
 
 ## Bearing on the record
 
-- **Source of THEORY-tmpubn0r** (Proposed): identification with a
+- **Source of [THEORY-tmpubn0r](../theory.d/THEORY-tmpubn0r.md)** (Proposed): identification with a
   superordinate fan community, here European, coexists with club
   identification, goes with particularized trust and cross-border
   viewing, and is independent of attitudes to the governing
   institutions.
-- **CASE-104 and QUESTION-119.** The governance null bears on the case
+- **[CASE-104](../cases.d/CASE-104.md) and [QUESTION-119](../questions.d/QUESTION-119.md).** The governance null bears on the case
   (fans "hating" an owner) only obliquely. It suggests that judgment of a
   sport's institutions and identification with fellow fans are separate
   attitudes, which is A2's reason for not reading one off the other.
