@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmp3dw7j
 title: 'A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Notes of 2026-10-29 added: Berendt and Uhrich (LIT-1147) read, and
+    Kilduff, Elfenbein and Staw (LIT-tmpl8672) read, and what each adds to
+    the case. A note of the same day adds Botzung et al. (LIT-tmpggzbi),
+    read.
 standing: stipulated
 kind: specimen
 tags:
@@ -28,6 +36,7 @@ supports:
 ---
 
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 LIT-1147 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmpk1fow LIT-1125 LIT-1131 LIT-tmpggzbi LIT-tmpl8672 LIT-tmp1tphp QUESTION-tmpbudbb — Proposed, Unavailable or Unfetched; the account and works named in the note of 2026-10-29, cited as open, nothing here rests on them -->
 # CASE-098: A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters
 
 ## The case
@@ -65,3 +74,73 @@ ties rivalry to in-group distinctiveness and collective self-esteem, which
 is evidence about identity, not about the rivalry as a unit. A5's
 discriminating variation: hold the teams and stakes fixed and interrupt
 transmission of the rivalry's history; does the antagonism persist?
+
+## Note of 2026-10-29: Berendt and Uhrich, read
+
+[LIT-1147](../literature.d/LIT-1147.md) has now been read ([NOTE-tmpp2j50](../notes.d/NOTE-tmpp2j50.md)). The sentence above calls it
+unread and judges it "evidence about identity, not about the rivalry as a
+unit". That still holds, with one addition. In the survey of 571
+Bundesliga supporters, rivalry's gains for fans (perceived
+distinctiveness, cohesion, regard from other clubs' fans) run through
+*perceived reciprocity*, the belief that the rival returns the
+antagonism. They do not run through fans' own disidentification from
+the rival ([THEORY-tmpk1fow](../theory.d/THEORY-tmpk1fow.md)).
+
+So what individual fans take from a rivalry depends on how they believe
+the other side sees the relation. That is a perceived two-sidedness, the
+individual-level shadow of the institutionalized rivalry this case is
+about, and still not evidence that the rivalry is a unit.
+
+The paper also reports that 164 of 748 intercepted supporters, mostly at
+clubs without a famous rivalry, named no archrival at all. Not every
+supporter carries a rivalry.
+
+A5's discriminating variation is untouched: the study does not interrupt
+transmission. Talarico and Moore ([LIT-1125](../literature.d/LIT-1125.md)), on memory of a rivalry game,
+is now Unavailable. Qi, Giulianotti and Wiltshire ([LIT-1131](../literature.d/LIT-1131.md)) is
+Unfetched: a CC BY-NC copy exists at SAGE and this client was refused it.
+
+Also filed unread on 2026-10-29:
+
+- Botzung et al. 2010 ([LIT-tmpggzbi](../literature.d/LIT-tmpggzbi.md)), an open study of rival fans'
+  memories of one game, in place of Talarico and Moore;
+- Kilduff, Elfenbein and Staw ([LIT-tmpl8672](../literature.d/LIT-tmpl8672.md)), on rivalry as a
+  relationship rather than a matter of stakes;
+- Tyler and Cobbs ([LIT-tmp1tphp](../literature.d/LIT-tmp1tphp.md)), on rivalry as identity threat.
+
+[QUESTION-tmpbudbb](../questions.d/QUESTION-tmpbudbb.md) asks whether perceived reciprocity is accurate. That is
+the paired-survey design this case would need to treat the rivalry as a
+two-sided relation.
+
+## Note of 2026-10-29: Kilduff, Elfenbein and Staw, read
+
+Kilduff et al. ([LIT-tmpl8672](../literature.d/LIT-tmpl8672.md)) has been read ([NOTE-tmpiffjj](../notes.d/NOTE-tmpiffjj.md)). Of the
+works the record holds, it comes closest to treating a rivalry as a unit.
+Sportswriters rated how much their team saw each conference opponent as
+a rival, with players' and coaches' ratings agreeing (r = .89). Across 71
+NCAA basketball teams, half the variance in those ratings (50.4%) belonged
+to the particular pair, not to either team. The rivalry was largely
+returned from the other side (r = .85 net of team effects).
+
+It also bears on inheritance. Rivalry followed the all-time head-to-head
+record more than recent form, and the all-time record of even results
+outweighed similarity in status. Current players inherit a relation made
+by contests they never played in, which is the case's claim, measured in
+the team rather than the fans.
+
+It does not settle what the case leaves open. The ratings are current
+perceptions, so they show a relation that is reproduced, not who
+reproduces it. A5's variation, interrupting transmission, is still
+untried.
+
+## Note of 2026-10-29: Botzung et al., read
+
+Botzung et al. ([NOTE-tmpww70j](../notes.d/NOTE-tmpww70j.md)) is about memory of one game, not about
+transmission, but its design is the case in miniature. Twenty-three Duke
+and UNC fans learned a 2001 rivalry game none of them knew, from archive
+footage and among fellow fans. A day later their side set the valence of
+each remembered shot (88.9% of ratings), and they recalled their own
+side's successes more accurately and with more confidence. As an inference,
+a rivalry learned second-hand is stored as one record with opposite signs,
+each side's version tilted to its own successes. A5's discriminating
+variation, interrupting transmission, is still untried.

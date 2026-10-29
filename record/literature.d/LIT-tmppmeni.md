@@ -1,0 +1,63 @@
+---
+status: Unavailable
+status_note: >-
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. It is not in Leiden's
+  repository, and Haifa's search answered with a Cloudflare challenge. No
+  NOTE is filed. It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  Read in its place, and not a substitute for reading it: Fridman's 2011
+  Leiden thesis ([LIT-tmp5ys53](LIT-tmp5ys53.md)).
+title: 'Does intergenerational transmission of trauma skip a generation? No meta-analytic evidence for tertiary traumatization with third generation of Holocaust survivors'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed, not read, on the owner's word of 2026-10-29, on
+    intergenerational trauma and epigenetic transmission
+    (QUESTION-tmp8bttd). Crossref: Attachment & Human Development 10(2),
+    105–121; June 2008 only, so `published:` is 2008-06-01 and means
+    June 2008 (ADR-002). Set Unavailable the same day after a search for
+    a lawful copy (ADR-041); the status note says where. On the same day
+    Fridman's 2011 Leiden thesis (LIT-tmp5ys53) was read in its place.
+tags:
+- psychopathology-and-treatment
+date: '2026-10-29'
+published: '2008-06-01'
+doi: '10.1080/14616730802113661'
+first_author: 'Sagi-Schwartz'
+keywords:
+- 'Holocaust'
+- 'third generation'
+- 'tertiary traumatization'
+- 'meta-analysis'
+implementations: []
+summary: >-
+  Sagi-Schwartz, van IJzendoorn & Bakermans-Kranenburg (2008). A meta-analysis of studies of Holocaust survivors' grandchildren finds no evidence that trauma passes to the third generation.
+---
+
+# LIT-tmppmeni: Does intergenerational transmission of trauma skip a generation? No meta-analytic evidence for tertiary traumatization with third generation of Holocaust survivors
+
+Sagi-Schwartz, A., van IJzendoorn, M. H. & Bakermans-Kranenburg, M. J. (2008). *Attachment & Human Development*, 10(2), 105–121.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The third-generation counterpart of the 2003 meta-analysis ([LIT-tmpd29uc](LIT-tmpd29uc.md)). For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Fridman (2011) reports the third-generation meta-analysis in one sentence
+and a title. It pooled 13 non-clinical samples of survivors' grandchildren
+(N = 1,012) to test whether trauma skips the second generation, and found
+no evidence of transmission. It adds the first phase of its own sample, in
+which survivors' grandchildren, then infants, did not differ. It cites the
+paper as *Attachment and Human Development* 10, 1–17, not the 105–121
+Crossref gives. Missing still: the effect size and its interval, the
+outcomes and ages pooled, whether any clinical or convenience samples were
+analysed, the moderator tests, and the list of studies.

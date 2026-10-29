@@ -1,0 +1,238 @@
+---
+status: Read
+paper: LIT-tmp7d7go
+title: 'Pair-Bonding as Inclusion of Other in the Self: A Literature Review'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the publisher's PDF (5 pages and references),
+    Frontiers in Psychology, CC BY 4.0. Page numbers are the article's
+    printed page numbers. Read in place of Aron, Aron, Tudor and Nelson
+    1991 (LIT-tmp9rujh).
+date: '2026-10-29'
+summary: >-
+  A short review by Aron's group. In a close relationship each partner
+  experiences the other's resources, perspectives and identities as to
+  some extent their own (Aron et al. 1991). The single-item IOS circle
+  scale is the standard measure, validated as subjective closeness. It
+  goes with cognitive signs of inclusion: slower "me/not-me" judgements
+  on traits where the partner differs, more self–partner confusions in
+  memory, plural pronouns. Recent studies tie overlap to self-like
+  treatment of a partner. High-overlap people keep a positive view of a
+  partner shown inferior. Their sleep suffers more from a partner's pain.
+  Honour-endorsing men high in overlap are more aggressive toward a
+  partner's moral violation. The review adds a two-dimensional model of
+  relational self-change and a measure of perceived inclusion. No new
+  data.
+---
+<!-- inactive-ok-file: LIT-tmp9rujh LIT-tmpfxss5 LIT-tmp7qbeb CLAIM-tmpjylq8 CLAIM-tmprudek CLAIM-tmpybc4k THEORY-tmpsm03n — Unavailable or Proposed; the work this stands in for, the 1997 papers that use its scale, and the thesis, objections and account it bears on -->
+
+# NOTE-tmpd7oz0: Pair-Bonding as Inclusion of Other in the Self: A Literature Review
+
+## Contribution
+
+It updates Aron et al.'s 2013 handbook survey of research on inclusion of
+other in the self, for long-term romantic pairs. It sorts studies into
+measurement, predictors and outcomes, and adds two newer theoretical
+strands. Its thesis is that pair-bonding and IOS are two faces of one
+thing: the desire to include the other drives the bond, and "the pair
+bond itself is an enduring feature of having successfully included the
+other in the self" (p. 1).
+
+## Key insight
+
+On this model, including a partner in the self is a cognitive fact before
+it is a feeling. The partner's "resources, perspectives, and identities"
+are experienced "as to some extent one's own", so that "the cognitive
+construction of the other merges with the cognitive construction of the
+self, and that person's outcomes are shared" (p. 1, citing Aron et al.
+1991 and Mashek and Aron 2004). The evidence the review leans on is of
+that kind: people process a partner's traits, pain and comparisons as
+they process their own.
+
+## Assumptions
+
+- **Self-expansion motivation.** People are motivated to expand their
+  efficacy, and including a partner's resources does it (p. 1). This is
+  assumed, not tested here.
+- **The IOS scale measures inclusion.** It is called the most common and
+  "arguably, the most face-valid" measure (p. 2), but its validation is
+  as a measure of closeness.
+- **Pair-bonding and IOS are near-identical constructs** (p. 1). This
+  makes "IOS predicts pair-bonding" close to definitional.
+
+## Key results
+
+- **Measurement** (p. 2).
+  - The IOS scale (Aron et al. 1992): seven pairs of circles, each
+    overlapping more than the last; respondents pick the pair that best
+    portrays the relationship. The original validation "captured aspects
+    of both feeling close and behaving close, and correlated strongly with
+    more complex, multi-item measures of closeness and intimacy".
+  - It works across cultures and has a continuous web version (Le et al.
+    2007). The originating paper has "over 3,800 citations".
+  - Gächter et al. (2015) found it "a psychologically meaningful and
+    highly reliable measure of the subjective closeness of relationships".
+  - Other measures used to validate it include "the implicit me-not-me
+    task (Aron et al., 1991, Study 3)". Facebook-profile overlap
+    correlates with IOS and with commitment (Castañeda et al. 2015).
+- **Predictors** (p. 2).
+  - Escalating reciprocal self-disclosure with a stranger (Aron et al.
+    1997).
+  - Shared exciting activities in marriage at year 7 predicted
+    satisfaction at year 16, mediated by IOS change (Tsapelas et al.
+    2009).
+  - Induced positive affect (Waugh and Fredrickson 2006); humour (Treger
+    et al. 2013).
+  - A perspective-taking induction before conflict buffered the effect of
+    the partner's attachment avoidance on post-conflict overlap (Bernstein
+    et al. 2015).
+- **Outcomes, from the 2013 review** (pp. 2–3).
+  - Me/not-me: "one's ability to process information about the self on a
+    particular trait is slowed to the extent that the other is dissimilar
+    on that trait (Aron et al., 1991)".
+  - Self–close-other confusions in recalling trait adjectives exceed
+    self–non-close-other confusions (Mashek et al. 2003).
+  - More plural pronouns go with more inclusion (Agnew et al. 1998).
+  - Pain of self and close other processed alike, not a stranger's (Cheng
+    et al. 2010). A close other's success celebrated, not felt as threat
+    (Gardner et al. 2002).
+- **Outcomes, newer** (p. 3).
+  - Partners of high-overlap individuals report more support and
+    commitment, but only when those individuals are high in
+    self-determination (Weinstein et al. 2016).
+  - Couple identity fusion: a balanced blend of both selves goes with less
+    vigilance for threat and more constructive coping; an imbalanced one,
+    with less (Walsh and Neff 2018).
+  - Well-being is best when actual and ideal IOS match, whatever the level
+    (Frost and Forrester 2013).
+  - Reminded of a partner's inferiority, high-overlap people keep a
+    positive global view of the partner; low-overlap people do not (Thai
+    and Lockwood 2015).
+  - A spouse's sleep is worse after the patient's daily knee pain, more so
+    in high-IOS couples (Martire et al. 2013).
+  - Honour-endorsing men high in IOS with their wife or partner were the
+    most aggressive toward a hypothetical moral violation (Benavidez et
+    al. 2016).
+  - After a break-up, people keep attributes gained from the partner that
+    they worked to maintain. Attributes that conflict with prior beliefs
+    lower self-concept clarity (Slotter et al. 2014).
+- **Theory** (p. 4).
+  - The two-dimensional model of relational self-change (Mattingly et al.
+    2014; McIntyre et al. 2015). Gaining or losing content, positive or
+    negative, gives four processes: expansion, pruning, contraction and
+    adulteration. The improving ones go with love, satisfaction,
+    commitment and willingness to sacrifice. The degrading ones go with
+    infidelity, revenge and attention to alternatives.
+  - IOS-perceived (Tomlinson and Aron 2013): the IOS scale answered as if
+    one were the partner. Perceived partner satisfaction leads to
+    IOS-perceived, which leads to one's own IOS.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | In close relationships, partners treat each other's resources, perspectives and identities as partly their own | moderate as reported: rests on Aron et al. 1991 and the 2013 review, summarized in two sentences | p. 1 |
+| C2 | The IOS scale is a reliable, face-valid measure of subjective closeness | moderate to strong: validation studies cited, including an independent one (Gächter et al. 2015) | p. 2 |
+| C3 | Inclusion shows up in cognition: slowed self-judgements on traits where the partner differs, self–partner memory confusions | moderate as reported: two studies cited without numbers | pp. 2–3 |
+| C4 | Greater overlap goes with treating the partner's outcomes and standing as one's own, for good (support, positive regard) and ill (sleep loss, honour aggression) | weak to moderate: single correlational studies, reported without numbers | p. 3 |
+| C5 | Pair-bonding and IOS are complementary, nearly the same construct | weak: stated, and close to definitional | pp. 1, 4 |
+
+## Concepts
+
+- **inclusion of other in the self (IOS)**: treating a close other's
+  resources, perspectives and identities as partly one's own.
+- **IOS scale**: a single item of seven increasingly overlapping circle
+  pairs.
+- **me/not-me task**: reaction times for judging whether traits describe
+  oneself, slowed where self and partner differ.
+- **two-dimensional model of relational self-change**: self-expansion,
+  self-pruning, self-contraction and self-adulteration.
+- **IOS-perceived**: one's estimate of how far the partner includes oneself.
+- **couple identity fusion**: a balanced or imbalanced blend of both
+  partners' selves in the couple identity.
+
+## Connections
+
+- **Aron et al. 1991 ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md)).** The review gives the paper's
+  conclusion and its me/not-me result in one sentence each. The SEP entry,
+  read the same day, quotes a line attributed to "Aron et al. 1980: 242"
+  that is probably from it.
+- **Cialdini et al. and Batson et al. 1997 ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md), [LIT-tmp7qbeb](../literature.d/LIT-tmp7qbeb.md)).**
+  Both used the IOS scale as their overlap measure. The review does not
+  mention the altruism dispute.
+- **Identity fusion ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)).** Swann's fusion item was adapted
+  from this scale. Walsh and Neff carry fusion into couples and find
+  balance matters, not only the amount of overlap.
+- **León's personalized "we" ([THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)).** Walsh and Neff's result,
+  that a balanced couple identity beats one where either self dominates,
+  fits León's claim that the "we" is healthier the more differentiated
+  the "I". Weinstein et al.'s self-determination moderation points the
+  same way. An inference.
+
+## Bearing on the record
+
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** This is the record's best
+  material on the objection's demand, though it does not meet it. The
+  following are inferences; the review does not discuss motivation for
+  others' sake.
+  - The IOS scale itself is validated as closeness, "feeling close and
+    behaving close". As a criterion of the self's extent it is not
+    clearly apart from caring.
+  - The cognitive signs are another matter. Slower self-judgements on
+    traits where the partner differs, and self–partner memory confusions,
+    are effects on the processing of *one's own* self-concept. Caring
+    about someone does not obviously predict them. They are candidates
+    for a criterion of extension that can come apart from caring.
+  - Some outcomes separate inclusion from benevolence. Honour-endorsing
+    men high in inclusion are more aggressive toward a partner's moral
+    violation. Treating a partner's conduct as touching one's own honour
+    is what self-extension predicts, and what concern for her welfare does
+    not. The review reports this as one correlational study.
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Self-expansion is cited there
+  as an "inclusive self". The review confirms that the model claims
+  this: partners' "outcomes are shared" (p. 1). But the model's motive is
+  expanding *one's own* efficacy by acquiring the partner's resources. It
+  fits the thesis's "larger self", but as acquisition, not as concern
+  for the partner. An inference.
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note to [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) is proposed:**
+  > Note of 2026-10-29: what IOS measures. Branand, Mashek and Aron
+  > (NOTE-tmpd7oz0) report that the IOS scale is validated as a measure of
+  > subjective closeness, so as a criterion of the self's extent it is not
+  > clearly apart from caring. The self-expansion literature also has
+  > indirect signs of inclusion: slowed self-judgements on traits where a
+  > partner differs (Aron et al. 1991), self–partner memory confusions
+  > (Mashek et al. 2003). Those concern the processing of one's own
+  > self-concept, and caring alone does not predict them. A test of the
+  > thesis could use them in place of the circles.
+- **No THEORY filed.** **No ML instruction.**
+
+## Limitations
+
+- **A mini review by the model's originator's group.** It is selective,
+  gives no effect sizes, and does not discuss criticism of the model.
+- **Romantic pairs only.** Nothing on groups, strangers or helping.
+- **Most outcome studies are correlational and single.**
+- **Aron et al. 1991 is reported in two sentences.** Its resource
+  allocation, perspective and memory studies are not described.
+- **Typos and slips.**
+  - "valance" for "valence" (p. 4).
+  - The abstract credits the two-dimensional model to McIntyre et al.
+    2015; the text credits it to Mattingly et al. 2014.
+  - "self-degradation" (p. 4) for "self-adulteration", the term used
+    elsewhere.
+  - The model is called "relational self-change" in the text and
+    "relationship self-change" in the Mattingly et al. title.
+  - A missing space in "(Gächter et al., 2015).Offering" (p. 2).
+
+## Open questions
+
+- Do the cognitive signs of inclusion (me/not-me latency, self–other
+  confusions) predict helping a partner when closeness or empathic concern
+  is held fixed? That would test whether inclusion, not caring, carries
+  the motive.
+- Is inclusion with a group measured the same way and with the same
+  cognitive signs? The review is silent; the fusion literature claims so.

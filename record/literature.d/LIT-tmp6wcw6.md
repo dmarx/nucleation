@@ -1,0 +1,53 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 ([NOTE-tmph49t5](../notes.d/NOTE-tmph49t5.md)) from the published version, open
+  under CC BY-NC-ND at the Journal of Social Ontology; worth reading as
+  Sugden's own later statement of team reasoning, read in place of his 2003
+  paper ([LIT-tmpvsmnt](LIT-tmpvsmnt.md), Unavailable), and for its claim that team reasoning
+  cannot be reduced to self-interest or to social preferences by redefining
+  payoffs, which bears on the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).
+title: 'Team Reasoning and Intentional Cooperation for Mutual Benefit'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed and read the same day, in place of Sugden 2003 (LIT-tmpvsmnt),
+    which could not be reached. Crossref: Journal of Social Ontology 1(1),
+    143–166, dated 2015-01-01; the article itself carries ©2014. Read from
+    the journal's own download (journalofsocialontology.org), the copy
+    Unpaywall lists, under CC BY-NC-ND 3.0.
+tags:
+- altruism
+- game-theory
+- social-ontology
+date: '2026-10-29'
+published: '2015-01-01'
+doi: '10.1515/jso-2014-0006'
+first_author: 'Sugden'
+keywords:
+- 'team reasoning'
+- 'mutual benefit'
+- 'trust game'
+- 'social preferences'
+- 'collective intention'
+implementations: []
+summary: >-
+  Sugden (2015). Social preferences cannot represent trust: on Rabin-style intention-based preferences, the common-knowledge practice of trust in the Trust Game is not an equilibrium. Team reasoning can, but not Bacharach's version, which maximizes a team utility, trades members' interests off against each other and needs no assurance that others reason as a team. Sugden's Schema of Cooperative Team Reasoning aims at each member's benefit over a maximin benchmark, follows existing practices and binds only given reciprocal reason to believe the others endorse it. So a market exchange that serves each party's interest can still be intended as mutual benefit, neither self-interest nor sacrifice.
+---
+<!-- inactive-ok-file: LIT-tmpvsmnt CLAIM-tmpjylq8 — Unavailable or Proposed; the work this is read in place of, and the thesis it bears on -->
+
+# LIT-tmp6wcw6: Team Reasoning and Intentional Cooperation for Mutual Benefit
+
+Sugden, R. (2015). *Journal of Social Ontology*, 1(1), 143–166.
+
+Read in full in [NOTE-tmph49t5](../notes.d/NOTE-tmph49t5.md), from the published version.
+
+## Why this is here
+
+Read in place of Sugden's "The Logic of Team Reasoning" (2003,
+[LIT-tmpvsmnt](LIT-tmpvsmnt.md)), which could not be reached. It restates team reasoning in
+Sugden's own later form and revises Bacharach's. Its distinction between
+intending the common interests of members and the collective interest of a
+team bears directly on the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).

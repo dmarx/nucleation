@@ -1,0 +1,51 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 ([NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md)), in place of [LIT-tmpd29uc](LIT-tmpd29uc.md) and
+  [LIT-tmppmeni](LIT-tmppmeni.md), which could not be reached; worth reading as the record's
+  only account, at second hand and by their own authors' student, of the
+  2003 and 2008 meta-analyses ([LIT-tmpd29uc](LIT-tmpd29uc.md), [LIT-tmppmeni](LIT-tmppmeni.md), both
+  Unavailable), and as a primary two-generation study whose matched design
+  holds national identity constant and finds no family transmission.
+title: '"Surviving Early Childhood Trauma: Effects of the Holocaust on Survivors'' Psychological and Physiological Well-Being"'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed and read the same day, in place of LIT-tmpd29uc and LIT-tmppmeni
+    (Unavailable), from the search for open works reporting them. No DOI;
+    the URL is the Leiden repository's handle. `published:` is the defence
+    date on the title page, 2011-03-02 (ADR-002). Read from the Leiden
+    University repository (Open Access), by its own download paths;
+    chapters 2–4 are co-authored by the authors of both meta-analyses and
+    restate them.
+tags:
+- psychopathology-and-treatment
+- natural-sciences
+date: '2026-10-29'
+published: '2011-03-02'
+url: 'https://hdl.handle.net/1887/16555'
+first_author: 'Fridman'
+keywords:
+- 'Holocaust child survivors'
+- 'secondary traumatization'
+- 'diurnal cortisol'
+- 'Trier Social Stress Test'
+- 'ADRA2B'
+implementations: []
+summary: >-
+  A Leiden thesis of four empirical papers on one Israeli sample drawn from the population registry: female child survivors who lost both parents in the Holocaust, matched women who emigrated from Europe to Palestine with their parents before it, and the daughters of both. More than 60 years on, survivors reported more dissociation, less life satisfaction, more cognitive impairment and more stress from recent life events. They had higher diurnal cortisol and an anomalous response to a laboratory stressor, and in an exploratory analysis this held only for ADRA2B wildtype carriers. Their daughters did not differ from comparison daughters on any psychological, cognitive, health or cortisol measure. The one intergenerational signal: daughters of more dissociative survivors had lower diurnal cortisol (n = 17 against 10). The introduction and discussions restate the authors' two meta-analyses, which found no second- or third-generation traumatization in non-clinical, well-designed samples.
+---
+<!-- inactive-ok-file: LIT-tmpd29uc LIT-tmppmeni — Unavailable; the works this is read in place of -->
+
+# LIT-tmp5ys53: "Surviving Early Childhood Trauma: Effects of the Holocaust on Survivors' Psychological and Physiological Well-Being"
+
+Fridman, A. (2011). *Surviving Early Childhood Trauma: Effects of the Holocaust on Survivors' Psychological and Physiological Well-Being*. PhD thesis, Leiden University.
+
+Read in full in [NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md).
+
+## Why this is here
+
+Read in place of [LIT-tmpd29uc](LIT-tmpd29uc.md) and [LIT-tmppmeni](LIT-tmppmeni.md), which could not be reached. [NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md) says what it
+reports of them and what is still missing.

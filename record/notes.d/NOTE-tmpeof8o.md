@@ -1,0 +1,269 @@
+---
+status: Read
+paper: LIT-tmpk0wlg
+title: 'Parental olfactory experience influences behavior and neural structure in subsequent generations'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the HHMI author manuscript (NIHMS551020,
+    PMC3923835), fetched as JATS XML from NCBI PMC's OAI-PMH service.
+    Figure images and supplementary figures were not available; the
+    figure captions, which carry the Ns and statistics, were read. The
+    manuscript has no page numbers, so citations are by section. Not
+    compared with the published text. The later critique of the paper
+    was not read and is not assessed here.
+date: '2026-10-29'
+summary: >-
+  Male mice fear-conditioned to acetophenone or propanol before mating had
+  sons and grandsons, never exposed to either odour, who startled more to,
+  and detected at lower concentrations, the odour their grandfather or
+  father had learned, and not the other. Sons and grandsons of
+  acetophenone-trained males had more olfactory neurons carrying its
+  receptor (M71, gene Olfr151) and larger M71 glomeruli; the anatomy, not
+  tested behaviourally, held in IVF offspring carried by surrogates.
+  Mothers conditioned before mating gave the same results, which survived
+  cross-fostering. Olfr151 was less methylated in F0 and F1 sperm (n = 12
+  vs 10; 4 vs 4), not in the olfactory epithelium. The authors call it
+  inherited sensitivity to a salient cue, not inherited fear.
+---
+
+<!-- inactive-ok-file: LIT-tmpk0wlg QUESTION-tmp8bttd QUESTION-tmpws54x CLAIM-tmpjylq8 CLAIM-tmprudek THEORY-179 LIT-tmph5rq7 LIT-tmpjgbgk LIT-tmpmsnfq LIT-tmpaf6cr LIT-tmp0v56k — Deferred, Open or Proposed; the work read (Deferred until this NOTE is filed), the questions and thesis it bears on, a neighbouring account, and the unread reviews and critiques it is set against -->
+
+# NOTE-tmpeof8o: Parental olfactory experience influences behavior and neural structure in subsequent generations
+
+## Contribution
+
+A design that tags one specific parental experience and follows it into
+offspring conceived afterwards. Because each odour activates a known,
+separate receptor, the paper can ask whether offspring respond to *the*
+odour the parent learned, not merely whether they are more anxious. It
+finds a double dissociation in behaviour, a matching change in the
+anatomy of the nose and olfactory bulb, persistence to the second
+generation and after IVF, and a methylation difference at the receptor
+gene in sperm.
+
+## Key insight
+
+What passes is cue-specific and structural, and the authors decline to
+call it fear. Offspring of acetophenone-trained fathers had more
+acetophenone-responsive neurons and detected the odour at lower
+concentrations. The authors posit that the enlarged neural representation
+"may underlie" the sensitivity (Results, "F0 olfactory experience affects
+F1 neuroanatomy"). Startle to the odour is read "as an enhanced behavioral
+sensitivity to acetophenone, not necessarily an increase in fear"
+(Results, "Transgenerational olfactory sensitivity"). Their closing
+reading is that generations "inherit information about the salience of
+specific stimuli in ancestral environments" (Discussion).
+
+## Assumptions
+
+- **Odour-potentiated startle reads out sensitivity.** The test was built
+  for fear (fear-potentiated startle), and is used here for detection.
+  Valence would need an appetitive-conditioning arm, which was not run.
+- **Acetophenone and propanol engage separate receptors.** M71 neurons
+  respond to acetophenone; propanol does not activate them, and the two
+  odours' glomerular maps do not overlap (from an online atlas and prior
+  work). Olfr6 is taken as an unrelated control receptor.
+- **Shock is matched across arms.** F0-Prop males were shocked as F0-Ace
+  males were, so a general paternal stress effect should not produce an
+  odour-specific result. Many comparisons use F0-Prop, not home-cage
+  males, as the control for this reason.
+- **Lower CpG methylation means more transcription**, so hypomethylated
+  Olfr151 in sperm is taken as a candidate mark for more M71 neurons in
+  the next generation.
+- **The F2 is a full generation removed.** The authors grant that some
+  hold true transgenerational inheritance needs F3 (Skinner 2008), and
+  answer that F2 here are conceived from a father who was himself never
+  exposed (Discussion).
+
+## Key results
+
+- **Design.** F0: 2-month-old, sexually and odour-naive males, C57Bl/6J
+  or M71-LacZ (whose M71 neurons stain blue). Home cage, or three days of
+  odour (10 s, 10% acetophenone or propanol) co-terminating with a 0.25 s,
+  0.4 mA foot shock, five trials a day. No F0 male was excluded; all were
+  mated with naive females. All tested offspring were 2-month-old males.
+  Behaviour was double-blind and automated; anatomy used cohorts never
+  behaviourally tested, so they stayed odour-naive (Online Methods;
+  Results).
+- **F1 behaviour, startle** (Fig. 1).
+  - C57: F1-Ace (n = 16) startled more to acetophenone than F1-Home
+    (n = 13), t27 = 2.123, P = 0.043; no difference to propanol.
+  - M71-LacZ: F1-Home 11, F1-Ace 13, F1-Prop 9. To acetophenone,
+    F2,30 = 6.874, P = 0.003, F1-Ace above both others. To propanol,
+    F2,26 = 4.541, P = 0.020, F1-Prop above F1-Ace. A double dissociation.
+- **F1 behaviour, detection threshold** (Fig. 2; n = 16 per group).
+  F1-Ace avoided acetophenone at 0.03%, where F1-Prop did not; both did
+  at 0.06% (P = 0.005, Bonferroni). F1-Prop avoided propanol at 0.003%,
+  F1-Ace only at 0.006% (P = 0.0005).
+- **No general effects.** No difference in anxiety on the elevated plus
+  maze, nor in acquiring, consolidating or extinguishing auditory fear
+  (Supplementary Figs. 2–3, not seen).
+- **F1 anatomy** (Fig. 3). Dorsal M71 glomerular area, F2,91 = 15.53,
+  P < 0.0001 (F1-Home n = 38, F1-Ace 38, F1-Prop 18); medial,
+  F2,84 = 31.68, P < 0.0001. M71 neurons in the epithelium,
+  F2,13 = 18.80, P = 0.0001 (n = 6, 6, 4). F1-Ace exceeded both controls
+  each time. The unit of the glomerular n (animals, bulbs or glomeruli)
+  is not stated in this copy.
+- **F2** (Fig. 4a–h). F2-Ace (n = 12) startled more to acetophenone than
+  F2-Prop (n = 8), t18 = 2.664, P = 0.0158; F2-Prop more to propanol,
+  t17 = 2.302, P = 0.0343. Dorsal glomeruli, t13 = 5.926, P < 0.0001
+  (n = 8 vs 7); medial, t14 = 4.44, P = 0.0006 (n = 10 vs 6).
+- **IVF** (Fig. 4i–j). Sperm taken 10 days after conditioning, IVF done
+  blind in a separate facility, embryos carried by CD-1 surrogates. Larger
+  M71 glomeruli in F1-Ace-IVF: dorsal t37 = 4.083 (n = 16 vs 23), medial
+  t33 = 5.880 (n = 19 vs 16), both P < 0.001. **No behaviour was tested.**
+- **Maternal line and cross-fostering** (Fig. 5). Females were conditioned
+  before mating, never while pregnant, and pups were cross-fostered from
+  postnatal day 1.
+  - Offspring of acetophenone-trained mothers startled more to it than
+    F1-Home (n = 16 vs 13), t27 = 2.362, P = 0.0256.
+  - Fostered by home-cage mothers, they still exceeded home-cage pups
+    fostered by trained mothers: ANOVA F3,18 = 6.874, P = 0.0011, fostered
+    comparison P < 0.05.
+  - Anatomy, with propanol-trained mothers as controls, held after
+    fostering: dorsal F3,14 = 17.52, P < 0.0001; medial F3,15 = 5.933,
+    P < 0.01. Group sizes were 3 to 8.
+- **Methylation in sperm** (Fig. 6; bisulfite sequencing, done blind by
+  Active Motif).
+  - F0: Olfr151 less methylated in F0-Ace (n = 12) than F0-Prop (n = 10),
+    t16 = 2.344, P = 0.0323; one CpG at its 3′ end, P = 0.003
+    (Bonferroni). Olfr6 did not differ (P = 0.54).
+  - F1 sperm: Olfr151 less methylated in F1-Ace (n = 4) than F1-Prop
+    (n = 4), t14 = 2.763, P = 0.0153; two CpGs, P = 0.002.
+  - F1 and F2 olfactory epithelium: no difference (Supplementary Fig. 6).
+  - Sperm histone marks (acetyl-H3, H3K27me3) at the M71 locus: no
+    difference (Supplementary Fig. 7).
+- **Effect sizes** are not reported, nor are group means in the text.
+  From t and the group sizes, my approximations of Cohen's d: F1 startle
+  0.8; F2 startle 1.2; IVF dorsal glomeruli 1.3. These are computed here,
+  not the authors'.
+- **Mechanism, by the authors' account speculative.** Odorants might reach
+  the blood and activate odorant receptors expressed on sperm. With
+  13 days between the first conditioning day and breeding, the sperm used
+  were precursors during conditioning, but "we cannot and do not claim to
+  know what fraction" of sperm carry the information (Discussion).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Offspring conceived after a father's odour–shock conditioning are more behaviourally sensitive to that odour and not to another | moderate: a double dissociation across two odours and two strains, with groups of 9 to 16 and P values from .0005 to .043 | Figs. 1–2 |
+| C2 | The sensitivity is accompanied by more neurons and larger glomeruli for the conditioned odour's receptor | moderate to strong: large, consistent anatomical differences across F1, F2, IVF and fostered offspring, blind quantitation | Figs. 3–5 |
+| C3 | The effects persist to F2 and are carried by gametes rather than social transmission | moderate: F2 behaviour and anatomy; IVF anatomy only; cross-fostering only on the maternal line, with groups of 3 to 8 | Figs. 4–5 |
+| C4 | Hypomethylation of Olfr151 in sperm may be the inherited mark | weak: one modest difference (P = .03) in F0 and in four-versus-four F1, absent in the tissue where the receptor is expressed, with no causal test | Fig. 6, Supplementary Figs. 6–7 |
+| C5 | Generations inherit information about the salience of specific ancestral stimuli, which may bear on human phobia, anxiety and PTSD | weak: an interpretation and a translational suggestion, not tested | Discussion |
+
+## Concepts
+
+- **F0, F1, F2**: the conditioned generation, their offspring, and the
+  offspring of those offspring. Here every F1 and F2 tested was naive.
+- **transgenerational versus intergenerational**: the paper uses the
+  first for effects in generations never directly exposed, and notes the
+  argument that a parent's exposure may reach the F1 embryo and F2 germ
+  line directly, so that F3 is the strict test.
+- **odour-potentiated startle (OPS)**: startle to a noise burst with the
+  odour present, relative to startle alone.
+- **M71 / Olfr151**: an odorant receptor, and its gene, activated by
+  acetophenone. Each olfactory neuron expresses one receptor, and neurons
+  with the same receptor converge on a glomerulus in the bulb.
+- **CpG hypomethylation**: fewer methyl groups on cytosines followed by
+  guanine, usually associated with more transcription.
+
+## Connections
+
+- **The question it is filed for ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** It is the paper
+  behind the question's "germline" route. Its own controls are aimed at
+  separating that route from the social one, which in mice means maternal
+  care and the mother's exposure to a stressed mate.
+- **Reviews and critiques held but unread.** Bohacek and Mansuy
+  ([LIT-tmph5rq7](../literature.d/LIT-tmph5rq7.md)) review this kind of work; Heard and Martienssen
+  ([LIT-tmpjgbgk](../literature.d/LIT-tmpjgbgk.md)), Horsthemke ([LIT-tmpmsnfq](../literature.d/LIT-tmpmsnfq.md)) and Bird ([LIT-tmpaf6cr](../literature.d/LIT-tmpaf6cr.md)) argue
+  that germline reprogramming makes such transmission unlikely in
+  mammals. Heard and Martienssen's manuscript (PMC4020004) was searched
+  for this paper and does not cite it. None of these was read for this
+  NOTE, so the critique of Dias and Ressler is not assessed here.
+- **Memory through metamorphosis ([QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md)).** Blackiston et al.
+  ([LIT-tmp0v56k](../literature.d/LIT-tmp0v56k.md)) trained caterpillars to avoid an odour; this paper
+  trained fathers to fear one. The question links them. The link is
+  looser than it looks: the moth keeps an aversion, while these offspring
+  show greater sensitivity, which the authors decline to call aversion.
+- **Inherited non-genetic state ([THEORY-179](../theory.d/THEORY-179.md)).** A bacterial cell's
+  transient inherited state is the simplest relative: something about a
+  parent's condition, not its genes, sets the offspring's.
+
+## Bearing on the record
+
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The question's framing (the
+  biological routes need no self; what passes is a state, not an
+  identification) is borne out here, and more sharply than the framing
+  says. These are inferences; the paper is about mice and says nothing of
+  selves.
+  - What passes is not even a state of fear. It is a tuning of the nose,
+    more receptors for one odour, with a lower detection threshold. The
+    authors refuse to say it carries the parent's valence.
+  - Nothing in it requires the offspring to represent the parent, the
+    event or a group. The design's controls exist to *exclude* the social
+    route, and the cross-fostering result is that rearing by a trained
+    mother does not transfer the effect.
+  - So the paper bears on the identity route only negatively. If an
+    ancestor's injury becomes part of a descendant's self, it does so by
+    a route this kind of inheritance does not supply.
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed.
+- **[QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).** It should be cited as evidence for transmission
+  of a cue-specific *sensitivity*, not of trauma or fear. That narrows
+  what the germline route can carry on the best animal evidence the
+  record holds.
+- **[QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md).** It weakens the analogy the question draws. If the
+  reported offspring effect in swallowtails were real, this paper
+  suggests that what would pass is heightened sensitivity to the odour,
+  not the learned avoidance. That is an inference from one mouse paper.
+- **A dated note is proposed for [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (section 3). No
+  dated note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md): the paper does not touch the thesis
+  except by showing a route on which it is idle.
+- **No THEORY filed.** One lab's result, with a speculative mechanism and
+  an unread critique.
+- **No ML instruction.**
+
+## Limitations
+
+- **Small groups.** Behaviour 8 to 16 per group; cross-fostering 3 to 8;
+  F1 sperm methylation 4 per group.
+- **IVF tested anatomy only**, so the cleanest exclusion of social and
+  maternal routes for the father's line has no behavioural result.
+- **Cross-fostering was on the maternal line.** For the paternal line the
+  social route is excluded by F2 and IVF, not by fostering.
+- **The methylation statistics may not be per animal.** F0 has n = 12 and
+  10 but t16; F1 has n = 4 and 4 but t14. Those degrees of freedom fit
+  the number of CpG sites queried (nine in F0, eight in F1) times two
+  groups, minus two. If so, sites, not mice, were the unit. This is an
+  inference from the numbers; the text does not say.
+- **Methylation was absent where it would act.** No difference in F1 or F2
+  olfactory epithelium, and no histone difference in sperm. The authors
+  propose other marks, untested.
+- **Only males** were tested as offspring.
+- **No mechanism** for how an odour learned by the father reaches sperm.
+- **Supplementary figures not seen**, so the anxiety, auditory, MOE
+  methylation and ChIP nulls are taken from the text.
+- **Oddities and typos.**
+  - Fig. 1d reports F2,26 for groups of 11, 13 and 9 (33 mice, which gives
+    F2,30 as in Fig. 1c). Fig. 4b reports t17 for 8 and 12 mice.
+  - Fig. 5b's F3,18 = 6.874 repeats exactly Fig. 1c's F2,30 = 6.874.
+  - The Methods define the OPS score as the odour trial's startle
+    *subtracted from* the leader's, which would make potentiation
+    negative; the order of subtraction is probably reversed in the text.
+  - "epidydymis" for "epididymis" (twice, N-ChIP methods); "phophorylated"
+    for "phosphorylated"; "permit ... or repress ... to transcription".
+  - Reference 54 (SAMtools) gives *Bioinformatics* volume "52"; it is 25.
+
+## Open questions
+
+- Does the effect replicate in another laboratory, with per-animal
+  methylation statistics and behaviour in IVF offspring?
+- Does conditioning with an appetitive odour pass on the same
+  sensitivity? If so, what passes is salience without valence, as the
+  authors suspect.
+- Is the effect present in F3, a generation whose germ line was never
+  inside an exposed parent?

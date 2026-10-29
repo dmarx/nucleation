@@ -1,0 +1,49 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 ([NOTE-tmpaz0p7](../notes.d/NOTE-tmpaz0p7.md)) from the authors' PsyArXiv
+  preprint (osf.io/wdbr8, OSF file of 2021-04-01); worth reading as the
+  main experimental evidence on whether ordinary judgement is
+  person-affecting or impersonal about merely possible people, and on how
+  weak its totalism is at large numbers.
+title: 'Population ethical intuitions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    Crossref: Cognition 218, 104941; January 2022 only, so `published:`
+    is 2022-01-01 and means January 2022 (ADR-002). A preprint is on
+    PsyArXiv (doi:10.31234/osf.io/wdbr8). Set Active the same day: read
+    in full in NOTE-tmpaz0p7 from the authors' PsyArXiv preprint
+    (osf.io/wdbr8, OSF file of 2021-04-01), not compared with the
+    published text, where there is one. The filing summary is replaced
+    by the reading's.
+tags:
+- future-generations
+- moral-psychology
+date: '2026-10-29'
+published: '2022-01-01'
+doi: '10.1016/j.cognition.2021.104941'
+first_author: 'Caviola'
+keywords:
+- 'population ethics'
+- 'total view'
+- 'average view'
+- 'procreation asymmetry'
+implementations: []
+summary: >-
+  Caviola, Althaus, Mogensen & Goodwin (preprint 2021; Cognition 2022). Nine experiments (N = 5,776 as stated) on lay population axiology. For a fixed population to be better existing than not, people require more happiness than suffering: about 75% happy people, still about 61% when the two are stated to be exactly equally intense. Yet adding one extremely happy person to a world is judged as good as adding one extremely unhappy person is bad, so people reject neutrality and the procreation asymmetry. They prefer larger happy and smaller unhappy populations when averages are fixed, but the preference for more happy people fades and reverses at a billion. With totals fixed they prefer higher averages, and in conflicts averagism tends to win, even favouring adding near-maximally unhappy people who raise the average. Prompts to reflect move judgements toward totalism.
+---
+
+# LIT-tmpka2bf: Population ethical intuitions
+
+Caviola, L., Althaus, D., Mogensen, A. L. & Goodwin, G. P. (2022). *Cognition*, 218, 104941.
+
+Read in full in [NOTE-tmpaz0p7](../notes.d/NOTE-tmpaz0p7.md), from the authors' PsyArXiv preprint (osf.io/wdbr8, OSF file of 2021-04-01).
+
+## Why this is here
+
+Whether ordinary judgement about future people is person-affecting (Narveson, [LIT-tmpoc3e4](LIT-tmpoc3e4.md)) or impersonal (longtermism). For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).

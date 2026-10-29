@@ -1,0 +1,50 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 ([NOTE-tmpmsmxw](../notes.d/NOTE-tmpmsmxw.md)), in place of [LIT-tmpl4qml](LIT-tmpl4qml.md), which
+  could not be reached; worth reading as the exact statement of the
+  afterlife conjecture and of what Scheffler does and does not infer from
+  it: our dependence on future people, not altruism toward them. The third
+  essay, the commentaries and the replies are in the book only.
+title: 'The Afterlife (Tanner Lectures I and II)'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed and read the same day, in place of LIT-tmpl4qml (Unavailable),
+    from the search for open works reporting them. No DOI; the URL is the
+    lecture text served by tannerlectures.org. Neither Crossref nor the
+    site dates the text, so `published:` is the first day of delivery,
+    2012-03-13 (ADR-002). The lectures are the book's first two chapters
+    (pp. 14–82).
+tags:
+- future-generations
+- motivation
+- altruism
+date: '2026-10-29'
+published: '2012-03-13'
+url: 'https://tannerlectures.org/documents/the-afterlife/'
+first_author: 'Scheffler'
+keywords:
+- 'collective afterlife'
+- 'afterlife conjecture'
+- 'infertility scenario'
+- 'attitudinal dependency'
+- 'limits of individualism'
+implementations: []
+summary: >-
+  Scheffler's 2012 Tanner Lectures, the source of the first two chapters of *Death and the Afterlife*. By "the afterlife" he means that other people will live on after one's own death. Imagined reactions to a doomsday scenario (the earth destroyed thirty days after one's death) and to P. D. James's infertility scenario (no one dies early, but no one more is born) show that this matters to us in its own right and as a condition of other things mattering. Without it many projects, and perhaps even reading and eating well, would lose their point (the "afterlife conjecture"). So, in one respect, humanity's survival matters more to us than our own or our loved ones'. Scheffler reads this as dependence on future people, not as unsuspected altruism toward them, and as showing that individual valuing presupposes humanity as an ongoing historical project.
+---
+<!-- inactive-ok-file: LIT-tmpl4qml — Unavailable; the works this is read in place of -->
+
+# LIT-tmpuiaaa: The Afterlife (Tanner Lectures I and II)
+
+Scheffler, S. (2012). The Afterlife. The Tanner Lectures on Human Values, Lectures I and II, delivered at the University of California, Berkeley, 13–15 March 2012.
+
+Read in full in [NOTE-tmpmsmxw](../notes.d/NOTE-tmpmsmxw.md).
+
+## Why this is here
+
+Read in place of [LIT-tmpl4qml](LIT-tmpl4qml.md), which could not be reached. [NOTE-tmpmsmxw](../notes.d/NOTE-tmpmsmxw.md) says what it
+reports of it and what is still missing.

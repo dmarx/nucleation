@@ -14,10 +14,16 @@ promote_when: >-
   common at low measured r as at high. More natural-history cases that fit
   cannot settle it, since §7 explains contrary cases away one by one.
 title: "Social behaviour evolves as if each individual valued a neighbour's fitness against its own by their coefficient of relationship, and its discriminations evolve to make that coefficient determinate; so kin are favoured and strangers met with hostility, relatives fight less, and haplodiploid sisters, related by 3/4, are predisposed to worker altruism"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    `altruism` added beside the existing tags (ADR-062).
 tags:
 - natural-sciences
 - complex-systems
+- altruism
 date: '2026-10-16'
 source:
 - LIT-506

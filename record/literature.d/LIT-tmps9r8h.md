@@ -1,0 +1,48 @@
+---
+status: Active
+status_note: >-
+  skimmed 2026-10-29 ([NOTE-tmpf6vyn](../notes.d/NOTE-tmpf6vyn.md)), in place of [LIT-tmpgfqw1](LIT-tmpgfqw1.md), which
+  could not be reached; worth reading as the authors' own plain statement
+  of the planarian result and of how they read it, including the reminder
+  it needed; too thin to stand for the paper's data.
+title: 'Remembrance of Brains Past'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed and read the same day, in place of LIT-tmpgfqw1 (Unavailable),
+    from the search for open works reporting them. No DOI; the URL is the
+    post on the Company of Biologists' community site. `published:` is the
+    post date (ADR-002). Posted by Levin and signed by both authors. A
+    short post, read in full but marked Skimmed in its NOTE because it
+    gives no numbers or methods.
+tags:
+- neuroscience
+- individuation
+date: '2026-10-29'
+published: '2013-07-30'
+url: 'https://thenode.biologists.com/remembrance-of-brains-past/research/'
+first_author: 'Levin'
+keywords:
+- 'planaria'
+- 'head regeneration'
+- 'memory outside the brain'
+- 'automated training'
+- 'bioelectricity'
+implementations: []
+summary: >-
+  A blog post by the authors of Shomrat and Levin 2013 announcing its result. Planarians trained to a chamber with a rough, laser-etched floor later recognised it, measured by their readiness to eat a piece of liver there rather than explore as naive worms do, and did so again after their heads were cut off and regrown, provided they had "a brief refresher" first. The training used an automated device that gives individual reward and punishment to 12 worms at a time, around the clock, scored by computer, built to answer the doubts about McConnell's hand-run 1960s experiments. The authors conclude that memories "can be stored somewhere outside of the brain" and "imprinted on a naïve regenerated brain", and suggest non-neural cells linked by gap junctions as the store. No numbers, methods or controls are given.
+---
+<!-- inactive-ok-file: LIT-tmpgfqw1 — Unavailable; the works this is read in place of -->
+
+# LIT-tmps9r8h: Remembrance of Brains Past
+
+Levin, M. & Shomrat, T. (2013). Remembrance of brains past. *The Node* (Company of Biologists), 30 July 2013.
+
+Skimmed in [NOTE-tmpf6vyn](../notes.d/NOTE-tmpf6vyn.md).
+
+## Why this is here
+
+Read in place of [LIT-tmpgfqw1](LIT-tmpgfqw1.md), which could not be reached. [NOTE-tmpf6vyn](../notes.d/NOTE-tmpf6vyn.md) says what it
+reports of it and what is still missing.

@@ -1,0 +1,240 @@
+---
+status: Read
+paper: LIT-tmpaf6cr
+title: 'Transgenerational epigenetic inheritance: a critical perspective'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the publisher's PDF (6 pages, printed folios 01–06,
+    CC BY); the text extraction's column order was checked against the
+    page images. Page numbers are the printed folios.
+date: '2026-10-29'
+summary: >-
+  A Perspective. Transgenerational epigenetic inheritance needs the
+  environment to instruct the epigenome and the marks to reach the next
+  generation; in mammals both are weak. Marks follow transcription
+  factors; DNA methylation is stripped from gametes and early embryos; no
+  validated mechanism links environment to epigenome, and organisms
+  actively erase marks. The Agouti diet effect did not replicate, rodent
+  effects fade or fail to replicate, and the one robust paternal effect
+  seems not to go through sperm epigenetics. The Swedish famine study
+  ignored cultural transmission and failed to replicate in a larger
+  cohort; the Holocaust study had 32 people. The article does not separate
+  inter- from transgenerational effects.
+---
+<!-- inactive-ok-file: QUESTION-tmp8bttd CLAIM-tmpjylq8 THEORY-179 THEORY-889 LIT-tmpjgbgk LIT-tmpmsnfq LIT-tmpmxksg LIT-tmp4sa73 LIT-tmpkgr1s LIT-tmpk0wlg LIT-tmpd29uc LIT-tmppmeni LIT-tmpzfk28 — Open, Proposed or Deferred; the question, thesis and neighbouring theories this reading bears on, and unread works it is set beside -->
+
+# NOTE-xxxx: Transgenerational epigenetic inheritance: a critical perspective
+
+## Contribution
+
+A short critical essay, ten years after Heard and Martienssen, by a
+DNA-methylation biologist. It reviews the mammalian
+evidence since 2014, adds new negative results (the Agouti diet effect,
+transposon screens, Dppa2), and is the only one of the record's three
+sceptical readings to name the human trauma studies and say what is
+wrong with them.
+
+## Key insight
+
+Germline reprogramming is not a barrier the environment occasionally
+fails to cross. It is a function: "rather than eagerly harnessing
+environmental inputs from the life experiences of their ancestors via
+epigenetic mechanisms, organisms strive to prevent contamination of a new
+generation with the accumulated epigenetic baggage of the previous one"
+(p. 3). Where marks persist in mammals, it is when the eraser is broken
+(Dppa2 mutants) or a mutation keeps re-creating them (Takahashi et al.
+2023).
+
+## Assumptions
+
+- **A broad definition of epigenetics**: "the structural adaptation of
+  chromosomal regions so as to register, signal or perpetuate altered
+  activity states" (Bird 2007; p. 1). Heritability is not part of it.
+- **Inter- and transgenerational are not separated** (p. 1). The essay
+  also cites intragenerational effects. The distinction is left to
+  Fitz-James and Cavalli (2022) and Horsthemke (2018).
+- **Adaptation as a test.** A real inheritance system should be expected to
+  pass on useful responses; one that passes on only disease needs an
+  explanation (p. 4).
+
+## Key results
+
+- **Environment and epigenome** (p. 2). Toxins change DNA methylation, but
+  the change may be a consequence of a programmed stress response, in
+  which "transcription factors are the prime movers, with epigenetic marks
+  behaving as their clients". DNA-binding proteins block methylation, and
+  TET enzymes demethylate together with transcription factors.
+- **Twins** (p. 2). Monozygotic twins acquire de novo mutations as they
+  develop (Jonsson et al. 2021), so their differences are not evidence of
+  epigenetic causes. Development can also vary stochastically: Trim28
+  haploinsufficient mice are either obese or not, with "identical"
+  genotypes.
+- **Darwinian cases** (pp. 2–3). An RNA-based system gives C. elegans
+  offspring resistance to local pathogens; Bird compares colostrum in
+  humans. These are evolved responses. Fission yeast's toxin-induced
+  silencing is lost quickly once the toxin is removed. Histone-mark
+  inheritance in worms and yeast appears only in mutants that cannot
+  remove the marks. In mice, inheritance of epigenetic marks is seen only
+  when Dppa2 is mutated (Carlini et al. 2022).
+- **Mammals** (p. 3).
+  - Agouti: modest but convincing heritability of transposon methylation.
+    The early report that diet changes it heritably (Wolff et al. 1998)
+    failed to validate with larger samples; a screen for similar loci was
+    "largely negative".
+  - "There is as yet no validated mechanism by which the external
+    environment can directly communicate with the epigenome." Sperm RNA
+    "lacks robust experimental validation". DNA methylation is largely
+    stripped from gametes and early embryos.
+  - The one stable multigenerational methylation in mice (two CpG
+    islands, Takahashi et al. 2023) was triggered by a genetic deletion and
+    could not be reproduced by adding methylation without it.
+  - Effects in the progeny of protein-deprived male mice were
+    undetectable in the second generation. Endocrine-disruptor effects in
+    rats were not always replicated, in outbred animals where selection
+    of resistant germ cells cannot be ruled out.
+  - Robust evidence of an inter-generational paternal effect: sperm from
+    males whose microbiome was ablated led to smaller placentas and some
+    progeny deaths (Argaw-Denboba et al. 2024). But the authors found it
+    "highly unlikely" to be transmitted via the sperm epigenome; Bird
+    suggests the mother may withhold placental resources.
+- **Human claims** (pp. 3–4).
+  - *Överkalix.* Pembrey et al. 2006, "the Swedish famine", "has achieved
+    almost iconic status". It and studies like it "ignored the potential
+    effects of cultural transmission of behaviours within families". The
+    descendants of Leningrad siege survivors ate differently from
+    controls, including "excessive red meat consumption": "It is surely
+    conceivable that cultural influence in the home played a role here."
+    A larger cohort (Vågerö et al. 2018) failed to reproduce the paternal
+    grandfather effects on diabetes and heart disease. Such analyses risk
+    multiple testing.
+  - *Direction.* Most putative human cases transmit defects (obesity,
+    diabetes, impaired memory). An anticipatory "thrifty" adaptation would
+    backfire in long-lived mammals if the famine ends, which the Barker
+    hypothesis itself predicts for those starved in utero.
+  - *Holocaust.* Yehuda et al. 2016, reporting adverse consequences for
+    survivors' children, "made headline news, despite numerous technical
+    weakness (e.g., a sample of only 32 people, limited controls and
+    unclear methodology/interpretation)". FKBP5 is named only in the
+    reference's title.
+  - *The Dutch Hunger Winter* is not named; only the Barker hypothesis.
+- **Why the idea persists** (p. 4). "Cultural resistance to the
+  deterministic view" that human characteristics are hard-wired. Against
+  it, genome sequencing keeps finding genetic causes: hundreds of
+  mutations for intellectual disability; adults whose conditions were
+  attributed to birth trauma or life experience who carry known causal
+  mutations; polygenic risk scores.
+- **What would move him** (p. 5). No criteria are listed. He grants "some
+  evidence that severe environmental insults can impact the succeeding
+  generation", doubts it is adaptive, and calls the magnitude and
+  persistence of disease effects "inconclusive". He suggests acquired
+  immunity, and the large datasets from the SARS-CoV-2 pandemic, as places
+  to look. "Of course, the answer may be no."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Environmentally induced epigenetic changes are usually downstream of transcription-factor responses, not their cause | moderate: an argument from known mechanisms; no direct test cited | p. 2 |
+| C2 | Organisms actively prevent the transmission of epigenetic marks; persistence appears when the erasing machinery is mutated or a mutation re-creates the mark | moderate: worm, yeast and mouse mutant studies, and one mouse deletion case | pp. 2–3 |
+| C3 | No validated mechanism links the external environment to a heritable mammalian epigenome | strong as a statement of the literature's state; Bird is a party to it | p. 3 |
+| C4 | The Swedish (Överkalix) findings are unreliable: cultural transmission was ignored, a larger cohort did not replicate the key effect, and multiple testing is likely | moderate: three distinct objections, but the cultural one is argued from an analogy (Leningrad), and the replication's positive findings are not mentioned | pp. 3–4 |
+| C5 | The Holocaust FKBP5 study is too weak to support its public reception | moderate: sample size and controls named; no analysis of the paper | p. 4 |
+| C6 | The persistence of the idea owes much to cultural resistance to genetic determinism | weak: a sociological conjecture, offered as "a potential driver" | p. 4 |
+
+## Concepts
+
+- **TEI**, in Bird's usage: any transmission of an environmentally induced
+  epigenetic state to later generations, inter- or transgenerational.
+- **Darwinian TEI**: an evolved, selected mechanism that happens to use
+  epigenetic machinery (C. elegans antiviral RNA), as against a general
+  channel for experience.
+- **epigenetic baggage**: marks accumulated in a lifetime, which
+  reprogramming is there to clear.
+- **marks as clients**: epigenetic marks consolidate decisions made by
+  transcription factors rather than make them.
+
+## Connections
+
+- **Heard and Martienssen ([LIT-tmpjgbgk](../literature.d/LIT-tmpjgbgk.md))** is cited for directionless plant
+  epialleles. Heard reviewed this article, with Anne Ferguson-Smith; Bird
+  commented on Heard's 2014 manuscript. **Horsthemke ([LIT-tmpmsnfq](../literature.d/LIT-tmpmsnfq.md))** is
+  cited as "a recent critical review" and co-authored with Bird in 2023.
+  The three readings are one school, not three independent judgements.
+- **Pembrey et al. ([LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md))** and **Yehuda et al. ([LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md))**
+  are the two human studies Bird disputes. Both are in the record,
+  unread.
+- **Cultural transmission inside families** (the Leningrad example) is the
+  same route as the question's parenting route, and the record's
+  meta-analyses of Holocaust offspring ([LIT-tmpd29uc](../literature.d/LIT-tmpd29uc.md), [LIT-tmppmeni](../literature.d/LIT-tmppmeni.md)) bear
+  on whether it carries harm.
+- **Inherited state in bacteria** ([THEORY-179](../theory.d/THEORY-179.md)). Bird's fission-yeast case
+  is the closest analogue: an induced state that persists while the
+  stimulus lasts and dissipates soon after. [THEORY-179](../theory.d/THEORY-179.md)'s E. coli state
+  fades by about seven generations. Both are inherited physiology in
+  organisms without a sequestered germline, and both are short.
+
+## Bearing on the record
+
+- **The question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).**
+  - *Germline route.* Bird gives the record's first reasons against its
+    two named human germline cases. Överkalix: cultural confounding,
+    non-replication in a larger cohort, multiple testing. The Holocaust
+    study: 32 people, limited controls. Both are claims the question
+    currently states without rebuttal.
+  - *A correction to the essay's use (an inference).* Yehuda et al. 2016
+    concerns survivors' children. If, as the war's dates suggest, they
+    were conceived after the trauma, then by Heard and Martienssen's rule
+    they are F1 of an exposed parent, an intergenerational case. Bird files it under TEI because he does not
+    separate the two. The question should cite it as an
+    intergenerational claim.
+  - *Cultural transmission as the confound.* Bird's main objection to
+    Överkalix is that families pass on eating habits. What the sceptic
+    calls a confound is, for the question, one of the routes.
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Indirect, and an inference. The
+  weaker the germline route, the more of what is called
+  intergenerational trauma must be carried socially: by care, habit and
+  story. That raises the share left to the identity route without
+  showing that the identity route carries it; Bird's own example of
+  cultural transmission (diet) is habit, not identification. No note on
+  the claim is proposed.
+- **Proposed dated note on [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (below, section 3).
+- **No THEORY filed.**
+- **No ML instruction.**
+
+## Limitations
+
+- **The inter/transgenerational distinction is set aside**, so the human
+  examples mix F1 effects (Yehuda et al. 2016) with F2 ones (Överkalix).
+- **The replication is reported one-sidedly.** Bird cites Vågerö et al.
+  2018 only for failing to reproduce paternal-grandfather effects on
+  diabetes and heart disease. The title of that paper, in his reference
+  list, is "Paternal grandfather's access to food predicts all-cause and
+  cancer mortality in grandsons": it reports a paternal-grandfather
+  effect on other outcomes.
+- **"The Swedish famine"** describes Pembrey et al. 2006 loosely; the
+  record's LIT describes its exposure as grandparents' food supply in
+  mid-childhood, not famine as such. To check when [LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md) is read.
+- **The cultural objection is by analogy.** The Leningrad diet study is
+  about a different population; no cultural variable in the Swedish data
+  is examined.
+- **Opinion is mixed with evidence.** The sociological diagnosis (p. 4)
+  and the case-report evidence of misdiagnosed genetic disease (a single
+  case report, Langenfeld et al. 2021, for "a high proportion") are
+  rhetorical support.
+- **A blog post is cited for multiple testing**, by URL in the text, not in
+  the reference list.
+- **Typos.** "are reported be transmissible" (p. 3); "numerous technical
+  weakness" (p. 4); "indetectable" (p. 3).
+
+## Open questions
+
+- Does the Holocaust FKBP5 study survive the objections Bird names? The
+  record should read it ([LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md)) before weighting either.
+- Did Vågerö et al. 2018 replicate Överkalix or not? It seems to have
+  confirmed one male-line effect and failed on another.
+- If cultural transmission of behaviour explains family resemblance in
+  diet, does the same route explain resemblance in fear and grief, and is
+  it habit or identification?

@@ -1,0 +1,49 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 ([NOTE-tmpwgf72](../notes.d/NOTE-tmpwgf72.md)), in place of [LIT-tmp4sa73](LIT-tmp4sa73.md), which
+  could not be fetched here; worth reading as a brief, sympathetic account
+  of the Holocaust FKBP5 study and the few human studies beside it, by
+  authors not on that study (though Rutten has published with its second
+  author, Daskalakis; ref. 13).
+title: 'The Effects of Trauma, with or without PTSD, on the Transgenerational DNA Methylation Alterations in Human Offsprings'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed and read the same day, in place of LIT-tmp4sa73 (Unfetched),
+    from the search for open works reporting them. Crossref: Brain
+    Sciences 8(5), 83; online 2018-05-08, so `published:` is that date
+    (ADR-002). CC BY 4.0. Read from Europe PMC's full-text XML
+    (PMC5977074); the copy has no page numbers, so the NOTE cites by
+    section.
+tags:
+- psychopathology-and-treatment
+- natural-sciences
+date: '2026-10-29'
+published: '2018-05-08'
+doi: '10.3390/brainsci8050083'
+first_author: 'Youssef'
+keywords:
+- 'FKBP5'
+- 'DNA methylation'
+- 'PTSD'
+- 'Holocaust offspring'
+- 'prenatal stress'
+implementations: []
+summary: >-
+  Youssef et al. (2018). A short narrative review of human studies of parental trauma and offspring DNA methylation, PubMed to March 2018. It finds two studies of parents and children: Rwandan mothers pregnant during the genocide (25 exposed, 25 abroad), with higher NR3C1 methylation and lower cortisol in mothers and children; and Holocaust survivors (32) and offspring (22) against 8 controls and their 9 offspring, with higher FKBP5 intron 7 methylation in survivors and lower in their offspring. Three more concern stress in pregnancy (Congo, intimate partner violence) and NR3C1 methylation in newborns and adolescents. The authors call the evidence accumulating but preliminary: small samples, cross-sectional designs, unmeasured confounds, possible publication bias. They use "transgenerational" for any parent-to-child effect, in utero exposure included.
+---
+<!-- inactive-ok-file: LIT-tmp4sa73 — Unfetched; the works this is read in place of -->
+
+# LIT-tmpeu7te: The Effects of Trauma, with or without PTSD, on the Transgenerational DNA Methylation Alterations in Human Offsprings
+
+Youssef, N. A., Lockwood, L., Su, S., Hao, G. & Rutten, B. P. F. (2018). The effects of trauma, with or without PTSD, on the transgenerational DNA methylation alterations in human offsprings. *Brain Sciences*, 8(5), 83.
+
+Read in full in [NOTE-tmpwgf72](../notes.d/NOTE-tmpwgf72.md).
+
+## Why this is here
+
+Read in place of [LIT-tmp4sa73](LIT-tmp4sa73.md), which could not be fetched here. [NOTE-tmpwgf72](../notes.d/NOTE-tmpwgf72.md) says what it
+reports of it and what is still missing.

@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpj323r
 title: 'A fan redub of an X-Men cartoon, circulated online in 2006, put "I''m the Juggernaut, bitch!" into X-Men: The Last Stand three months later'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Siegel's oral history (LIT-1142) read; it
+    dates the line to reshoots but gives no production testimony on why it
+    was added.
 standing: documented
 kind: specimen
 tags:
@@ -71,3 +78,25 @@ spreaders were its members rather than a general internet audience, or
 that circulation was the cause of the reshoot decision. A7's
 strengtheners: production testimony on the decision, and evidence
 tracing the parody's circulation into the production.
+
+## Note of 2026-10-29: the oral history, read
+
+[LIT-1142](../literature.d/LIT-1142.md) has now been read ([NOTE-tmpckd0q](../notes.d/NOTE-tmpckd0q.md)). It confirms the case's dates:
+conceived in November 2005, posted on 14 February 2006. It adds two
+things:
+
+- Nazario recalls a television segment, before the film's release, that
+  reported the video "making it into the new X-Men movie": "Word got
+  around that the line was being added."
+- Kinberg's one line, via Polygon, says the line was added in reshoots
+  under Ratner.
+
+It does not supply the strengthener the case asks for. No one from the
+production says why the line was added. The article's "Ratner was likely
+a fan" is the writer's inference. The identical phrase and the timing
+make borrowing very likely, but the caveat above, that circulation is
+not shown to have caused the reshoot decision, stands.
+
+The agents the article names are two creators, a mass audience, a news
+segment and one director, not the X-Men fandom as such. That is
+consistent with A7 §4's "passing coalition".

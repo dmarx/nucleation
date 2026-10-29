@@ -1,0 +1,229 @@
+---
+status: Read
+paper: LIT-tmp4ooni
+title: 'Generativity as a Route to Active Ageing'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the Europe PMC text (PMC3420221), with references.
+    CC BY 3.0. The copy has no page numbers, so citations are by
+    section. Read in place of McAdams & de St. Aubin 1992 (LIT-tmptv1qs)
+    for its model of generativity.
+date: '2026-10-29'
+summary: >-
+  Two Heidelberg gerontologists read generativity, Erikson's "concern in
+  establishing and guiding the next generation", as the psychological form
+  of an ethical "joint responsibility" that lasts into very old age. They
+  follow McAdams: generativity is driven by cultural demand and an inner
+  desire, which is a need to be needed and a need for symbolic
+  immortality, "to invest resources and potentials into things that
+  outlive the self". It is not altruism, and its motives can be selfish or
+  altruistic. In 3,308 older adults in Mexico, Spain and Germany,
+  generativity predicted optimism and life satisfaction. An intervention
+  of intergenerational projects in Belarus, Russia and Ukraine raised
+  generativity scores in old and young. No statistics are given.
+---
+<!-- inactive-ok-file: LIT-tmptv1qs LIT-tmpcbh59 QUESTION-tmpruhu4 CLAIM-tmpjylq8 CLAIM-tmprudek CLAIM-tmpybc4k — Deferred, Open or Proposed; the work this stands in for, Lifton, and the question and claims it bears on -->
+
+# NOTE-tmp8kqrv: Generativity as a Route to Active Ageing
+
+## Contribution
+
+An argument, with summaries of the authors' own studies, that generativity
+is a concern of all adult ages and especially old age, not only Erikson's
+seventh crisis of midlife. The authors place it inside an ethics of
+ageing in which the old have rights to participate in public life and
+obligations to use them for others. The research on which the claims rest
+is reported elsewhere; here it is summarized without numbers.
+
+## Key insight
+
+Generativity is caring for the next generation that has the self in it.
+On the McAdams model the authors adopt, one of its two sources is an
+"inner desire" with two parts, a "need to be needed" and a need for
+"symbolic immortality, that is, to invest resources and potentials into
+things that outlive the self" (§2). The authors draw the consequence:
+"engagement for younger generations can reflect selfish as well as
+altruistic motives" (§2).
+
+## Assumptions
+
+- **Generativity operationalizes an ethical category.** The authors use
+  McAdams' construct as "an operationalization" of joint responsibility,
+  the willingness to engage for others and society (§2).
+- **Three spheres of responsibility** (§1), framed by the Latin *coram*,
+  "in front of": self-care, joint responsibility for others and society,
+  and an obligation "against God and creation", which is "joint
+  responsibility for following generations, with those not yet been born
+  included".
+- **Identity is narrative and social** (§2, §3). Adults make themselves
+  through a life story, and that story depends on social roles and
+  expectations, so social change reshapes identity in old age.
+- **Arendt's public sphere** as the setting of a good old age: access to
+  it, relationships and the chance to start something new (§2, §4).
+
+## Key results
+
+- **McAdams' model, restated** (§2).
+  - Two motivational sources: cultural demand (the age structure of
+    society, normative expectations) and inner desire (to be needed; for
+    symbolic immortality).
+  - These lead to conscious concern for the next generation and to
+    commitment to take responsibility for it.
+  - Concern and commitment become action through Erikson's "belief in
+    the species": to hope for the betterment of human life in later
+    generations "even in the face of strong evidence of human
+    destructiveness and deprivation" (quoted from McAdams and de St.
+    Aubin 1992).
+  - Adults construct a "generativity script" within their life story:
+    what they have done, and "what is worth to outlive the self".
+- **Generativity is not altruism** (§2). The authors take altruism as
+  "behavior that benefits a recipient at a cost to the actor" (de Waal),
+  empathy as sharing another's emotional state, and intergenerational
+  solidarity as social cohesion between generations. Generative
+  behaviour often costs the old, but its motives may be selfish or
+  altruistic, and it is not always wanted by the young.
+- **Mexico, Spain, Germany** (§2). 3,308 people aged 59 to 108: 1,506
+  from four Mexican regions, 1,200 from two Spanish regions, 602 from
+  Germany. In each of the 7 regions generativity was "a highly
+  significant predictor" of optimism and life satisfaction. Subjective
+  health, finances and family status explained much less. No gender
+  differences. Read as support for Veenhoven's distinction between a
+  life's "utility" (relevance for others) and its "appreciation"
+  (relevance for oneself), both predicting well-being.
+- **The Baltic states** (§2), ongoing. 360 people in three generations
+  (15–25, 45–55, 75–85), 5 women and 5 men per generation in each of the
+  four largest cities of Estonia, Latvia and Lithuania. Generativity
+  predicted life satisfaction after controlling for country, age, gender,
+  national identity and age stereotypes. Women scored higher, but only in
+  the youngest group, which the authors connect to McAdams and de St.
+  Aubin's finding that "having children is more intimately linked with a
+  man's generative concern than with a woman's" (their p. 1008).
+- **Dementia** (§2). In the authors' research on quality of life in
+  dementia, many participants showed generative concern: wanting to help
+  others understand the disease and the end of life.
+- **The intervention** (§3). Funded through the Foundation "Remembrance,
+  Responsibility and Future". In 2009, 40 intergenerational projects ran
+  in Belarus, Ukraine and Russia; 14 were evaluated over two years at four
+  time points, with interviews and scales.
+  - Loyola Generativity Scale scores rose "substantially" in all three
+    countries, for older and younger participants.
+  - Self-acceptance, purpose in life, meaningfulness, attitudes to one's
+    own ageing and "lonely dissatisfaction" all showed "highly
+    significant increases", as printed; for the last, an increase would
+    be a worsening, so the wording is probably loose. Older
+    participants' gains in generativity correlated with these measures.
+  - Ukrainians and Belarusians started higher than Russians; Ukraine
+    gained most; Russians at the end matched the others' start.
+  - Lower initial generativity predicted larger gains.
+  - Younger people rated the old as more generative than their own
+    generation.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Generativity, on McAdams' model, is motivated in part by a need for symbolic immortality, to invest in what outlives the self | restated, not tested here | §2 |
+| C2 | Generative engagement for the young can be selfish or altruistic in motive, and is distinct from altruism | conceptual assertion, not argued at length | §2 |
+| C3 | Generativity predicts optimism and life satisfaction in old age beyond health, money and family | weak as reported: cross-sectional, "highly significant" without statistics; details in other publications | §2 |
+| C4 | Generativity is a concern of old age and very old age, not only midlife | weak to moderate: samples up to 108 and people with dementia, described qualitatively | §2 |
+| C5 | Intergenerational dialogue projects raise generativity in old and young | weak: no control group is mentioned, and no numbers are given | §3 |
+
+## Concepts
+
+- **generativity**: Erikson's "concern in establishing and guiding the
+  next generation".
+- **inner desire**: in McAdams' model, the personal source of
+  generativity: a need to be needed and a need for symbolic immortality.
+- **cultural demand**: the social source: normative expectations and the
+  age structure of society.
+- **belief in the species**: hope for humanity's betterment in coming
+  generations, which turns concern and commitment into action.
+- **generativity script**: the part of a life story that says what one
+  has given and what of oneself should outlive one.
+- **joint responsibility (Mitverantwortung)**: the authors' ethical
+  category: willingness to engage for others and for society.
+
+## Connections
+
+- **McAdams and de St. Aubin 1992 ([LIT-tmptv1qs](../literature.d/LIT-tmptv1qs.md))**, the work this note
+  stands in for. The authors adopt its model and quote it twice. They
+  use its scale (the LGS) in their intervention but describe neither its
+  items nor its scoring.
+- **Lifton ([LIT-tmpcbh59](../literature.d/LIT-tmpcbh59.md))** is not cited. "Symbolic immortality"
+  arrives via McAdams.
+- **Sandoval-Obando et al. 2026**, read alongside, validates the LGS and
+  finds a "Generative Legacy" factor that separates from generative
+  action.
+
+## Bearing on the record
+
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** The paper confirms the
+  question's report of McAdams: symbolic immortality is one of the inner
+  desires behind care for the next generation. The bearing, as
+  inference:
+  - **On McAdams' model, legacy care has the thesis's shape.** One motive
+    is to invest in "things that outlive the self", which reads as
+    self-interest on a self extended in time. The other, the need to be
+    needed, is a present-tense self-interest.
+  - **But it is one source among several.** Cultural demand is a second
+    source, and concern and commitment are separate stages. The model
+    does not say care for the next generation reduces to the inner
+    desire. The authors say only that the motives "can" be selfish or
+    altruistic.
+  - **The test the question asks for is not run.** Nothing here measures
+    the symbolic-immortality motive apart from concern and asks which
+    predicts action. That is [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s test in time.
+- **Well-being as a return** (inference). Generativity predicting life
+  satisfaction fits the thesis's reading that acting for others serves
+  the actor. It fits equally a reading in which caring is valued for its
+  own sake and satisfaction follows. Cross-sectional data cannot choose.
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** The authors separate
+  generativity from empathy and altruism but do not test either against
+  the other. Not addressed.
+- **A dated note on [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)**, jointly with Sandoval-Obando et
+  al. Proposed text: "Two works read in place of McAdams and de St. Aubin
+  (1992) confirm its model: generativity has two personal motives, a need
+  to be needed and a need for symbolic immortality, 'to invest resources
+  and potentials into things that outlive the self' (Kruse and Schmitt,
+  NOTE-tmp8kqrv). On that model legacy care has the thesis's temporal shape,
+  but the model also gives a cultural source and treats concern as a
+  separate stage, and no study read measures the immortality motive
+  apart from concern. A Chilean validation of the scale finds a 'legacy'
+  factor separable from generative action (r = .45; Sandoval-Obando et
+  al., NOTE-YYYY), which is the kind of measure such a test would need."
+  No note is needed on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).
+- **No THEORY filed.**
+- **No ML instruction.**
+
+## Limitations
+
+- **No statistics.** "Highly significant" and "substantial" stand in for
+  test values, effect sizes and Ns for the intervention. The studies are
+  published elsewhere, partly in German and Spanish.
+- **No control group** is mentioned for the intervention, so the rise in
+  scores cannot be attributed to the projects.
+- **An essay as much as a report.** Policy argument (ageing workforces,
+  demographic change) takes much of the text.
+- **Typos.**
+  - "his psychoanalytically inspired biographies of Erikson [34] and
+    Mahatma Gandhi": Erikson wrote on Luther, as reference 34 shows.
+  - "Guadalayara" for Guadalajara; "Juste" among the partner
+    universities is unexplained.
+  - Decimal points as thousands separators ("3.308", "1.506",
+    "300.000").
+  - "coram public" for *coram publico*; "do not only failed to
+    contribute"; "giving raise to".
+  - In the references: "de SAE" for de St. Aubin (ref. 37), "Venhooven"
+    (47), "Bemtsen" for Berntsen (57), "Budkholdt" (52), pages "65–685"
+    (49), "Simmons GJ" for J. L. Simmons (35).
+
+## Open questions
+
+- Does the symbolic-immortality motive, measured on its own, predict
+  generative action when concern is held fixed?
+- Is generative action in the very old, such as people with dementia
+  explaining their illness, better described as legacy or as present
+  relationship? The paper's examples could support either.

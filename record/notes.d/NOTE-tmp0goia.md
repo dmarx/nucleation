@@ -1,0 +1,310 @@
+---
+status: Read
+paper: LIT-tmpxa0v0
+title: 'Cultural Trauma: Slavery and the Formation of African American Identity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Chapter 1 only, "Cultural trauma and collective memory" (pp. 1–22),
+    read in full from the publisher's free sample PDF at
+    assets.cambridge.org (title, imprint, contents and chapter 1). The
+    chapter's endnotes (pp. 223 ff.), its reference list and chapters
+    2–6 are not in the sample and are unread. Page numbers are the
+    book's. Read in place of Alexander et al. 2004 (LIT-tmp0szcy), which
+    the chapter cites as "Alexander et al. 2001", then forthcoming.
+date: '2026-10-29'
+summary: >-
+  The book's first chapter, read alone. Cultural trauma is a loss of
+  identity and meaning in a group, not an individual wound, and need not
+  be felt by everyone in it. Slavery became the trauma of African
+  Americans "in retrospect": in the 1880s, when Reconstruction failed and
+  white North and South reconciled around a memory of slavery as benign,
+  a generation never enslaved made its memory the "primal scene" of a
+  collective identity. Membership was set by "a common fate, not
+  necessarily a common experience", whether or not one's ancestors were
+  enslaved. Intellectuals and social movements carry the trauma; each
+  social generation reworks it; it became national memory only with the
+  civil rights movement. The chapter is a framework and a plan; the
+  evidence is in chapters 2–6.
+---
+<!-- inactive-ok-file: LIT-tmp0szcy QUESTION-tmp8bttd CLAIM-tmpjylq8 CLAIM-tmprudek CLAIM-tmpybc4k CLAIM-420 THEORY-889 TERM-tmpko4rw LIT-tmpftqpm LIT-tmpzfk28 — Deferred, Open, Proposed or Unavailable; the volume this stands in for, the question and thesis it bears on, and unread works it is compared with -->
+
+# NOTE-tmp0goia: Cultural Trauma: Slavery and the Formation of African American Identity
+
+## Contribution
+
+The chapter sets out the framework of a book that reads African American
+identity as the work of a cultural trauma. It separates cultural trauma
+from psychological trauma, joins it to theories of collective memory and
+of social generations, and names who carries it: intellectuals and social
+movements. Its case is slavery, taken "not as institution or even
+experience, but as collective memory" (p. 1). Only this chapter is read.
+
+## Key insight
+
+The trauma came after the event and was not tied to having lived it, or
+to descent from those who did. Slavery "was traumatic in retrospect"
+(p. 1), for a generation "for whom slavery was a thing of the past"
+(p. 2). It was set off by rejection: the end of Reconstruction and the
+fear that slavery would return. "In the trauma of rejection, slavery was
+remembered as its memory re-membered a group" (p. 16). And it took in
+everyone so placed: "Whether or not they directly experienced slavery or
+even had ancestors who did, blacks in the United States were identified
+with and came to identify themselves through the memory and
+representation of slavery" (p. 14). Slavery is traumatic "for those who
+share a common fate, not necessarily a common experience" (pp. 14–15).
+
+## Assumptions
+
+- **Collective memory in Halbwachs' sense.** Memory is always group
+  memory; individual identity "is said to be negotiated within this
+  collectively shared past" (p. 6). The group is made aware of itself by
+  reworking a shared memory.
+- **Memory is constrained, not invented.** The past "can only be
+  selectively exploited" (Schwartz, quoted p. 7), because some of it is
+  recorded. Collective memory is "similar to myth" (p. 7) and differs from
+  history by its rules of evidence.
+- **Generation is social, not biological.** A generation needs shared
+  events and "significant collective action" that articulates its
+  consciousness (p. 20). Decades are used as a convenience.
+- **No event is traumatic in itself.** Eyerman takes Igartua and Paez's
+  cycle but sets aside "their assumption that an event can be traumatic in
+  itself" (p. 12).
+
+## Key results
+
+The chapter reports no data of its own. Its claims, in order:
+
+- **Two kinds of trauma** (pp. 2–3). Psychological trauma is a wound and
+  great anguish in an individual. Cultural trauma is "a dramatic loss of
+  identity and meaning, a tear in the social fabric, affecting a group of
+  people that has achieved some degree of cohesion" (p. 2). It "need not
+  necessarily be felt by everyone in a community or experienced directly
+  by any or all" (p. 2). Its meaning "must be established and accepted",
+  which takes time, mediation and representation.
+- **The volume's vocabulary, as of 2001** (pp. 2–3, 6).
+  - Smelser's definition, quoted in full: "a memory accepted and publicly
+    given credence by a relevant membership group and evoking an event or
+    situation which is (a) laden with negative affect, (b) represented as
+    indelible, and (c) regarded as threatening a society's existence or
+    violating one or more of its fundamental cultural presuppositions"
+    (p. 2). Eyerman would add "or group's identity" (p. 3).
+  - Sztompka: speak of traumatic affects, not traumatic events (p. 3).
+  - Alexander: the "trauma process", a "meaning struggle" over "the nature
+    of the pain, the nature of the victim and the attribution of
+    responsibility", in which "carrier groups" articulate claims to a
+    wider public (p. 3).
+  - Giesen: collective memory as a "temporal map" of a nation (p. 6).
+- **Carrier groups** (pp. 3–4). Intellectuals are a role, not a class or a
+  type: mediators who articulate ideas "to and for others". Film
+  directors and singers count; social movements produce "movement
+  intellectuals".
+- **Several paths out of one trauma** (pp. 4, 19). "African American" was
+  one response among others: return to Africa, emigration to Kansas, the
+  North or Canada, and Du Bois's "double consciousness". Later, three
+  models of emancipation: full citizenship (the NAACP), cultural and
+  political nationalism, and emigration.
+- **The white memory it answered** (pp. 4–5, 15–18). By the mid-1880s the
+  Civil War had become the "civilized war". North and South reconciled
+  around slavery recast as "benign and civilizing", in fiction, song,
+  painting and minstrelsy, and around monuments to soldiers rather than
+  to emancipation. The black memory of slavery was a "counter-memory"
+  (p. 17), and the categorization it carried was "self-imposed", meant to
+  counter the dominant one (p. 17).
+- **Identity by memory, not descent** (pp. 3, 14–17). "It is the
+  collective memory of slavery that defines an individual as a 'race
+  member'" (p. 3). The direct identification "former slave" or "daughter
+  of slaves" was "functionalized and made generally available as a
+  collective and common memory to unite all blacks in the United States"
+  (pp. 16–17). Later generations "continue to be identified by it and to
+  identify themselves through it" (p. 15).
+- **Generational cycles** (pp. 11–12, 20). Pennebaker and Banasik: every
+  20 to 30 years people look back and reconstruct a traumatic past.
+  Igartua and Paez give four reasons: distance, resources in middle age,
+  the formative years 12 to 25, and the disappearance of those
+  responsible. Eyerman's own three generations: the turn of the century
+  (which articulates the trauma), the first migrations after the First
+  World War (which forms the progressive and the tragic or redemptive
+  narrative frames), and the years during and after the Second World War.
+- **From group memory to national memory** (pp. 15, 18). Moving a
+  traumatic memory into public memory "may take a generation", or longer,
+  or never happen. For slavery it took until the 1950s or 1960s: the civil
+  rights movement "reopened the sore and helped transform the cultural
+  trauma of a group into a national trauma" (p. 18). Fredrickson (2000),
+  quoted: descendants differ on whether the memory "should be suppressed
+  as unpleasant and dispiriting or commemorated in the ways that Jews
+  remember the Holocaust" (p. 18).
+- **Movements make the subject** (pp. 10, 21). Social movements weave
+  individual biographies into "a unified collective biography", "linking
+  individuals and collectives into a unified subject, with a common future
+  as well as a common past" (p. 21).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Cultural trauma is a loss of identity and meaning at the level of a group, distinct from individual psychological trauma, and need not be felt or experienced by all its members | definitional: stated, with Smelser's and Neal's definitions | pp. 2–3 |
+| C2 | Slavery became a cultural trauma in retrospect, for a post-emancipation generation, set off by the failure of Reconstruction | asserted here; the evidence is in chapters 2–6, unread | pp. 1–2, 16 |
+| C3 | Membership in the traumatized collective was fixed by shared fate, not by experience or descent from the enslaved | asserted, as a reading of how the identity was articulated | pp. 14–17 |
+| C4 | The black memory of slavery formed against, and as a counter-memory to, a white reconciliation memory of slavery as benign | moderate as history: rests on Berlin, Hale, Savage and Boime, quoted | pp. 4–5, 15–18 |
+| C5 | Each social generation reworks the collective memory, and movements are what turn diverse memories into a unified collective subject | asserted; a plan for the book | pp. 19–21 |
+| C6 | The cultural trauma of a group became a national trauma only with the civil rights movement | asserted, with Barton and Fredrickson | p. 18 |
+
+## Concepts
+
+- **cultural trauma**: a dramatic loss of identity and meaning, a tear in
+  the social fabric of a cohesive group, whose traumatic meaning must be
+  established and accepted through representation.
+- **trauma process**: Alexander's term, as Eyerman gives it: the meaning
+  struggle in which carrier groups define the pain, the victim and the
+  responsible party.
+- **carrier group**: those who articulate the trauma claim to a wider
+  public; here, intellectuals as a role, and social movements.
+- **primal scene**: the event a membership group takes as its origin, which
+  later generations must recollect without having lived it.
+- **counter-memory**: Foucault's term for a group memory formed against a
+  dominant public memory.
+- **generation** (social): an age group integrated by a collective memory
+  and by collective action, not by birth date alone.
+- **group memory and public memory**: a group's own memory, and the memory
+  officially acknowledged and commemorated; a trauma may move from one to
+  the other.
+
+## Connections
+
+- **Alexander et al. 2004 ([LIT-tmp0szcy](../literature.d/LIT-tmp0szcy.md))**, unread. The chapter cites the
+  volume as "Alexander et al. 2001", then forthcoming, and quotes
+  Smelser's definition and paraphrases Alexander, Sztompka and Giesen.
+  What it gives is the framework as the authors shared it in 2001, not
+  the published chapters. The LIT's summary names Eyerman's slavery case
+  as one of the volume's; this book is his long treatment of it.
+- **Slavery's attitudes in the white South ([THEORY-889](../theory.d/THEORY-889.md), from [LIT-1388](../literature.d/LIT-1388.md)).**
+  The two place the formative moment at the same point: after
+  Reconstruction, not before the war. Acharya, Blackwell and Sen find the
+  white attitude difference appearing after emancipation; Eyerman finds
+  the black identity forming then, against a white memory recast in the
+  same years. This is an inference from setting the two side by side.
+  Neither work cites the other, and Eyerman measures nothing.
+- **Three ways a past persists ([CLAIM-420](../claims.d/CLAIM-420.md)).** Cultural trauma is the
+  "story" route in its strongest form. The memory of slavery is retold by
+  each generation "according to its needs and means" (p. 15). It is not
+  a perspective handed down from the enslaved: the chapter says the
+  voices of direct experience "took second place" after emancipation and
+  faded as former slaves died (p. 16).
+- **A category made a group entity ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** Eyerman's black
+  Americans begin as a category ascribed by the dominant culture, which
+  "identified" them with slavery (p. 14). Movements make them "a unified
+  subject" (p. 21). That is the movement from category to entity the
+  term marks, done by narrative. The comparison is the record's, not the
+  author's.
+- **Chosen trauma ([LIT-tmpftqpm](../literature.d/LIT-tmpftqpm.md)) and Lehrner and Yehuda ([LIT-tmpzfk28](../literature.d/LIT-tmpzfk28.md))**,
+  both Unavailable. Volkan's term is psychoanalytic; Eyerman draws on
+  Caruth and LaCapra but keeps cultural trauma apart from the clinical
+  sense. Lehrner and Yehuda join the sociology to the biology; Eyerman
+  does not touch biology.
+
+## Bearing on the record
+
+- **The question's identity route ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** The chapter is the
+  route's clearest statement in the record. Three of its points bear on
+  how the question is put. These are inferences; the chapter does not
+  discuss intergenerational transmission in the clinical or biological
+  sense.
+  - *What passes is not distress.* Cultural trauma "need not necessarily
+    be felt by everyone" (p. 2). It is a change in what a group takes
+    itself to be. So the identity route may not carry "the effects of
+    trauma" in the question's clinical sense at all. It carries a
+    collective self-description that includes an injury.
+  - *It is not inheritance from ancestors.* Membership is by shared fate,
+    "whether or not" one's ancestors were enslaved (p. 14). The route is
+    not intergenerational in the family sense. It runs through a
+    category, and anyone placed in the category takes the past on.
+  - *The trigger was present.* The trauma was set off by rejection after
+    Reconstruction, a generation after the event. On this account, what
+    a later generation suffers in the present shapes which past injury it
+    takes up.
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)), run backward in time.** The
+  question reads a descendant's grief over an ancestral injury as
+  self-regarding on an extended self. The chapter supports the shape and
+  corrects the boundary.
+  - *The shape.* The injury is constituted as an injury to "us", and the
+    individual is defined as a "race member" by it (p. 3). If grief
+    follows, its object is a self that includes the past. That is the
+    thesis's extended self, stated by a sociologist without the
+    vocabulary of self-interest.
+  - *The boundary.* The extended self is the category, not the line of
+    descent. A grief over an injury to one's own ancestors, and a grief
+    over an injury to people of one's category whom one does not descend
+    from, are on this account the same grief. The thesis's word
+    "ancestral" should mean the group's past, not the family's.
+  - *What it does not show.* Nothing in the chapter measures any
+    individual's grief, or whether it tracks identification. Eyerman
+    describes how an identity was articulated, not what members feel.
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The chapter suggests a
+  criterion of the self's extent that is not set by caring: membership
+  ascribed by others and then avowed. Black Americans "were identified
+  with and came to identify themselves through" the memory of slavery
+  (p. 14). And members of the same category differ in caring, on
+  whether the memory should be commemorated or suppressed (Fredrickson,
+  p. 18). That is the kind of separation the objection asks for. It is an
+  inference from a historian's remark; nothing here measures either side.
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note should be added to [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)**, and a line to
+  [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md). Proposed text for the question:
+
+  > **Note of 2026-10-29: cultural trauma, read at its source.** Eyerman's
+  > first chapter (NOTE-tmp0goia) states the identity route plainly, and
+  > changes it in two ways. What passes is not distress: cultural trauma
+  > is a group's loss of identity and meaning, which "need not necessarily
+  > be felt by everyone". And it does not pass by descent: slavery became
+  > the trauma of black Americans "whether or not they directly experienced
+  > slavery or even had ancestors who did", set off a generation later by
+  > the failure of Reconstruction.
+
+  Proposed line for the thesis's note on time: "On the cultural-trauma
+  account (Eyerman, NOTE-tmp0goia), the self that an ancestral injury extends
+  to is the category one is placed in and avows, not one's line of
+  descent; so 'ancestral' grief, if self-regarding, is regard for a
+  category's past."
+- **No THEORY filed.** The chapter is a framework; its evidence is unread.
+- **No ML instruction.**
+
+## Limitations
+
+- **One chapter of six.** The historical argument, the evidence for C2 to
+  C6, is in chapters 2–6, unread. The endnotes, which the chapter uses for
+  qualifications (19 calls), are not in the sample.
+- **No method for showing that a trauma "took".** The chapter gives no
+  criterion for when a memory has been "accepted and publicly given
+  credence", or by how many. Acceptance is shown by examples.
+- **Individual experience is set aside by design.** Whether members felt
+  anything is outside the account, so it cannot be read as evidence about
+  individual grief or distress.
+- **The volume is cited before publication.** Quotations from Smelser and
+  paraphrases of Alexander, Sztompka and Giesen are to "Alexander et al.
+  2001"; the 2004 wording is not checked.
+- **Typos.**
+  - "a centry later" for "century" (p. 18).
+  - "may not necessary be publicly" for "necessarily" (p. 15).
+  - "possession territory" for "possession of territory" (p. 19).
+  - "a varying combinations" (p. 19).
+  - "collective soli-darity In this sense": a missing full stop (p. 14).
+  - "Savage 1984:128" beside "Savage 1994:127" for the same work (p. 17).
+  - "Briton Harmmon's Narrative" for Briton Hammon's, and "Harriet Jacob's"
+    for Harriet Jacobs's (p. 13).
+  - "Plesy v. Ferguson" for Plessy, inside a quotation from Barton (p. 9).
+
+## Open questions
+
+- Does a descendant's distress over slavery follow identification with the
+  category, apart from family stories and from knowledge of the history?
+  The chapter predicts that descent itself adds nothing; a survey that
+  compared black Americans with and without enslaved ancestors, at equal
+  identification, would test that.
+- If the trauma was set off by present rejection, does the injury taken
+  up track the present injury rather than the past one? The chapter
+  implies so; chapters 2–6 may show it.
+- Did the white reconciliation memory the chapter describes travel by the
+  same local routes as the attitudes in [THEORY-889](../theory.d/THEORY-889.md)? Neither work says.
