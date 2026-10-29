@@ -1,0 +1,504 @@
+---
+status: Read
+paper: 'LIT-1661'
+title: 'Goguen & Burstall — Institutions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from a copy of the published article supplied by the
+    owner: a scan of the Journal of the ACM 39(1), pp. 95–146 (52 pages),
+    with the journal's title page, running heads, page numbers 95–146,
+    the ACM copyright line "© 1992 ACM 0004-5411/92/0100-0095" and the
+    footer "Journal of the Association for Computing Machinery, Vol. 39,
+    No. 1, January 1992, pp. 95–146"; received March 1985, revised July
+    1989 and August 1990, accepted August 1990 (p. 146). It is the
+    published version, not a preprint or the 1984 "Introducing
+    institutions". The PDF carries an OCR text layer; I extracted it with
+    `pdftotext -layout`, and because the layer garbles formulas, the pages
+    carrying definitions, proofs and diagrams (pp. 95, 102, 104, 105, 108,
+    125–130) were rendered with `pdftoppm` and read as images. I read the
+    abstract, §1 (1.1–1.3), §2 (2.1–2.5.1), §3 (3.1–3.3), §4 (4.1–4.3),
+    §5, Appendix A1 and A2, the acknowledgements, the footnotes and the
+    107 references. Pages are the journal's. I checked the main results
+    on a toy institution of my own (propositional logic, signatures finite
+    sets of atoms, every function a signature morphism; numpy not needed,
+    plain Python): the Satisfaction Condition, the Galois properties, the
+    Closure Lemma and its properness, Theorem 11's colimit theory and its
+    universal property over 69 cones, and Proposition 35 with a sound and
+    an unsound morphism. The script is mine, not the authors'.
+date: '2026-10-29'
+summary: >-
+  An institution is a category of signatures with a sentence functor, a
+  contravariant model functor and a satisfaction relation per signature,
+  subject to one axiom, the Satisfaction Condition: a translated sentence
+  holds in a model exactly when the original holds in the model's reduct.
+  From that axiom alone theories and model classes form a Galois
+  connection, theories can be glued by colimits whenever signatures can
+  (Theorem 11), constraints that force standard or free interpretations
+  can be added as sentences without losing this, and an institution
+  morphism with surjective model translation lets a prover for one logic
+  decide entailment for another (Proposition 35). The Satisfaction
+  Condition is a criterion of correct translation relative to a given
+  model translation; it says nothing about where that model translation
+  comes from.
+---
+<!-- inactive-ok-file: CLAIM-469 CLAIM-470 CLAIM-476 CLAIM-477 QUESTION-130 — Proposed or Open; the entries this reading bears on, cited as open -->
+
+# NOTE-tmpyi64y: Goguen & Burstall — Institutions
+
+## Contribution
+
+It defines an institution: an abstract "logical system" given by
+signatures, sentences, models and satisfaction, held together by one
+axiom, the Satisfaction Condition. "The concept of *institution* is
+introduced to formalize the informal notion of 'logical system.' The major
+requirement is that there is a satisfaction relation between models and
+sentences that is consistent under change of notation" (abstract, p. 95).
+It then shows that the machinery a specification language needs (theories,
+theory morphisms, putting theories together by colimits, parameterized
+theories, constraints for abstract data types, translation between logics,
+use of one logic's prover for another) can be developed once, for every
+institution at the same time. What is true after it is that these results
+are logic-independent. They hold for equational, first-order, Horn-clause
+and conditional equational logic (Appendix A), and for any logic meeting
+the one axiom.
+
+## Key insight
+
+"Truth is invariant under change of notation" (p. 101). A change of
+vocabulary φ: Σ → Σ′ moves sentences forward and models backward: "It is
+also fundamental that sentences translate in the same direction as the
+change of notation, whereas models translate in the opposite direction"
+(p. 101). The Satisfaction Condition ties the two together:
+m′ ⊨_Σ′ Sen(φ)(e) iff Mod(φ)(m′) ⊨_Σ e (p. 102). Everything else, from
+the Galois connection to theorem-prover reuse, follows from that one
+square. The same square, raised one level, is the definition of a correct
+translation between two logics (Definition 32, p. 125). In both cases
+correctness is fixed by what holds in which models, not by the shape of
+the translated sentences.
+
+## Assumptions
+
+- **Definition 1 (pp. 101–102).** A category **Sign**; a functor
+  Sen: **Sign** → **Set**; a functor **Mod**: **Sign** → **Cat**^op; a
+  relation ⊨_Σ ⊆ |**Mod**(Σ)| × Sen(Σ) for each Σ; and the Satisfaction
+  Condition for every φ: Σ → Σ′, every m′ ∈ |**Mod**(Σ′)| and every
+  e ∈ Sen(Σ). The simpler version with Mod: **Sign** → **Set**^op was the
+  original one ([17]); the category version is kept so that "every liberal
+  institution [is] an institution, rather than just to determine one"
+  (p. 102).
+- **Satisfaction is two-valued and primitive.** It is a relation, not a
+  degree, and it is given, not derived. Mayoh's proposal that satisfaction
+  be "no longer just Boolean-valued" is reported (p. 99), not developed.
+- **Closure is semantic.** "Our definition of closure is based on
+  satisfaction rather than deduction" (p. 103). Proofs are left out:
+  "This paper dealt with sets of abstract sentences, using satisfaction
+  to define the closure of a set of sentences, but has said little about
+  proofs" (p. 132).
+- **Size.** Footnote 1 (p. 102): **Cat** must include large categories;
+  "nearly any foundation that has been proposed for category theory will
+  do". Footnote 11 (p. 118) sets aside the size of the closure of a
+  constraint theory.
+- **For the constraint results, liberality** (forgetful functors along
+  theory morphisms have left adjoints, Definition 15, p. 114) where free
+  extensions are needed, and **image factorization** (Definition 27,
+  p. 122) for generating constraints. First-order logic "is not liberal"
+  (p. 114).
+- **For translation between institutions,** an institution morphism with
+  the model translation surjective on objects (Definition 34, p. 126), and
+  for preservation of structure, a signature functor with a cocontinuous
+  left inverse (Definition 38, p. 127).
+
+## Key results
+
+### Theories and the Galois connection (§2.2–2.3, pp. 103–106)
+
+- **Definition 2 (p. 103).** For sentences E, E* is the class of models
+  satisfying all of E; for models M, M* is the set of sentences true in
+  all of M. The closure E• is E**; a theory is a presentation (Σ, E) with
+  E closed; E ⊨ e iff e ∈ E•.
+- **Proposition 3 (pp. 103–104).** The two * maps form a Galois
+  connection: E ⊆ E′ implies E′* ⊆ E*; M ⊆ M′ implies M′* ⊆ M*;
+  E ⊆ E**; M ⊆ M**; hence E* = E***, M* = M***, and "(7) There is a dual
+  (i.e., inclusion reversing) isomorphism between the closed collections
+  of sentences and the closed collections of models; this isomorphism
+  takes unions to intersections and intersections to unions" (p. 104),
+  with identities (8)–(12) such as (∪ₙE**ₙ)* = (∪ₙEₙ)* (11). Note that
+  this holds in each signature separately and needs no Satisfaction
+  Condition; it is the classical model-theory duality (p. 96).
+- **Proposition 4 (p. 104).** If Mod(φ) is surjective on objects,
+  φ(φE)* = E*.
+- **Definition 5 (pp. 104–105).** A theory morphism (Σ, E) → (Σ′, E′) is
+  a signature morphism φ with φ(e) ∈ E′ for each e ∈ E. Definition 6
+  (p. 105): it induces a forgetful functor φ*: T′* → T*, and the
+  Satisfaction Condition is exactly what makes it land in T*.
+- **The Satisfaction Condition in compact form (p. 105):**
+  φ⁻¹(E*) = φ(E)*.
+- **Lemma 7, Closure (p. 105):** φ(E•) ⊆ φ(E)•. "It is worth pointing
+  out that the inclusion φ(E•) ⊆ (φE)• can be proper. This means that
+  while E ⊨ e implies φE ⊨ φe, the converse, that φE ⊨ φe implies E ⊨ e,
+  does *not* hold" (p. 105). See Limitations for a slip in this gloss.
+- **Lemma 8, Presentation (p. 105):** φ: (Σ, E•) → (Σ′, E′•) is a theory
+  morphism iff φ(E) ⊆ E′•. Only the generators need checking.
+
+### Colimits of theories (§2.4, pp. 106–109)
+
+- The motivation: Clear's sum of theories and application of a
+  parameterized theory are colimits, the latter a pushout of the body B
+  and the actual A over the requirement R (p. 106). "It is a general
+  principle that a large widget can be described as the interconnection
+  of a system of small widgets using widget-morphisms to identify the
+  interfaces over which the interconnection is to be done; then the
+  result of the interconnection is given by the colimit of the diagram"
+  (p. 107).
+- **Theorem 11 (p. 108): the forgetful functor Sign: Th → Sign reflects
+  colimits.** "Perhaps surprisingly, it suffices for the category of
+  signatures to have colimits; the following, more general result is the
+  first really nontrivial result of this paper" (p. 108). Proof: take a
+  colimit α′ of the signatures and set E = (∪ₙ αₙ(Eₙ))•. Each αₙ is a
+  theory morphism; for another cone β with apex (Π, F), the unique
+  signature map φ satisfies φ(E) ⊆ (∪ₙ βₙ(Eₙ))• ⊆ F by the Closure Lemma,
+  so φ is a theory morphism (p. 108). Hence **Th** is finitely cocomplete
+  if **Sign** is, and the converse is "easy to see" (p. 108). First-order
+  theories are thereby cocomplete, which "might even be a new result,
+  especially since our notion of morphism is not quite the usual one in
+  logic" (p. 109). "Actually, the stronger result holds, that Sign creates
+  colimits" (p. 109) is asserted without proof.
+- My check: in the toy propositional institution, gluing ({a, b}, {a → b})
+  and ({a, c}, {a}) over ({a}, ∅) gives a colimit theory that contains b,
+  which neither part contains, and for all 69 cones into theories over a
+  three-atom signature the mediating signature map was a theory morphism.
+
+### The categorical formulation (§2.5, pp. 109–112)
+
+- **Definition 12 (p. 109):** an institution is a functor
+  𝒥: **Sign** → **Trel**, the category of "twisted relations", whose
+  morphisms (f, g) from R: A → B to R′: A′ → B′ satisfy f(a′) R b iff
+  a′ R′ g(b); footnote 4: "The reader may recognize the ghost of the
+  Satisfaction Condition here" (p. 109).
+- **Definition 13 (p. 110): an institution morphism** 𝒥 → 𝒥′ is a functor
+  Φ: **Sign** → **Sign**′ with a natural transformation η: Φ; 𝒥′ ⇒ 𝒥.
+  The authors add that it "might have been better to consider the above
+  as defining a morphism from 𝒥′ to 𝒥", and keep the direction "for
+  essentially historical reasons" (p. 110); footnote 5 says an earlier
+  draft had the transformation the other way, corrected by comparison
+  with Goguen's general systems theory (p. 110). §2.5.1 (pp. 110–112),
+  self-described as "somewhat sketchy", builds relation, comma and
+  diagram categories so that **INS** has the limits and colimits **Trel**
+  has.
+
+### Constraints (§3, pp. 112–124)
+
+- **Free extensions (Definition 15, p. 114).** A theory morphism
+  F: T → T′ is liberal iff every T-model has a free extension along F;
+  equivalently the forgetful functor has a left adjoint (p. 114).
+  Equational logic, Horn clause logic with equality and conditional
+  equations are liberal; first-order logic is not (p. 114).
+- **F-free and persistent (Definitions 16, 17, p. 115; Proposition 18,
+  pp. 115–116).** A T′-model is F-free when the counit at it is an
+  isomorphism; F$ is persistent when every unit is. In a liberal
+  institution, persistent implies extensive.
+- **Data constraints (Definition 19, p. 117).** A Σ-constraint is a pair
+  (F: T″ → T′, θ: Sign(T′) → Σ); a Σ-model A satisfies it iff θA
+  satisfies T′ and is F-free. Translation along φ is (F, θ; φ)
+  (Definition 20, p. 118), and **Lemma 21 (p. 118)** proves the
+  Satisfaction Condition for constraints by the functoriality of Mod.
+- **Proposition 23 (p. 119):** sentences plus constraints form an
+  institution 𝒞(𝒥). **Theorem 24 (p. 119):** if signatures are
+  [finitely] cocomplete, so are constraining theories. "Immediate from
+  Theorems 11 and 23." Footnote 12: 𝒞(𝒥) need not be liberal when 𝒥 is.
+- **The NP example (p. 120).** With equations 0 + n = n,
+  inc(m) + n = inc(m + n), 1 = inc(0), NP has models such as the
+  integers mod 10 and a two-element model in which + is not commutative;
+  adding the constraint (F_N, Sign(F_NP)) leaves only the natural numbers,
+  and m + n = n + m enters the closure as "a property of + provable by
+  induction". Adding 1 + n = n makes the theory inconsistent (pp.
+  120–121).
+- **Generalized constraints (Definition 25, p. 121; Proposition 26).**
+  Replace "counit is an isomorphism" with "counit lies in a class 𝒜";
+  surjective counits give generating constraints ("no junk"), injective
+  ones "no confusion" (p. 121). **Proposition 31 (p. 123):** under image
+  factorization, a liberal F and a T′ preserved under submodels, F-prime
+  iff F-generated. The authors thank Tarlecki for "pointing out some
+  errors in an earlier version of this proof" (p. 124).
+
+### Institution morphisms and translation (§4.1, pp. 124–129)
+
+- **Definition 32 (p. 125):** Φ: 𝒥 → 𝒥′ is a functor Φ: **Sign** →
+  **Sign**′, a natural α: Φ; Sen′ ⇒ Sen and a natural β: Mod ⇒ Φ^op Mod′,
+  "such that the following Satisfaction Condition holds
+  m ⊨_Σ α_Σ(e′) iff β_Σ(m) ⊨′_Φ(Σ) e′" for every Σ-model m and every
+  Φ(Σ)-sentence e′. Sentences go from 𝒥′ to 𝒥 and models from 𝒥 to 𝒥′.
+  The example is FOEQ → EQ: forget predicates in signatures and models,
+  read an equation as a first-order sentence with = as the identity
+  predicate (pp. 124–125).
+- **Proposition 33 (p. 126):** (β_Σ M)* = α_Σ⁻¹(M*) and
+  (α_Σ E′)* = β_Σ⁻¹(E′*). The second says the model class of a
+  translated sentence set is the preimage, under β, of the model class of
+  the original. Given β, it fixes α's output up to semantic equivalence.
+- **Definition 34 and Proposition 35 (p. 126):** Φ is sound iff each β_Σ
+  is surjective on objects; then for Φ(Σ) = Σ′, e′ ∈ E′• iff
+  α_Σ(e′) ∈ α_Σ(E′)•. So "a theorem prover for first-order logic with
+  equality can be used for equational theories" (p. 126). The result is
+  an equivalence: entailment is preserved and reflected.
+- **Definition 36, Proposition 37 (p. 127):** if Φ has a left inverse Ψ,
+  it induces a functor Ψ̄: Th_𝒥′ → Th_𝒥 sending (Σ′, E′) to
+  (Ψ(Σ′), (α_Ψ(Σ′)(E′))•). Functoriality "We omit" (p. 127).
+- **Theorem 39 (pp. 127–129):** if Φ is [finitely] cordial (Ψ is
+  [finitely] cocontinuous), Ψ̄ is [finitely] cocontinuous. "Theorem 39
+  implies that if a large theory in the target institution is expressed
+  as a colimit of smaller theories, then the corresponding theory in the
+  source institution can also be so expressed" (p. 129). The proof also
+  gives: Ψ̄ "preserves on theories whatever colimits Ψ preserves on
+  signatures" (p. 129).
+
+### Duplex and multiplex institutions (§4.2–4.3, pp. 129–131)
+
+- **Definition 40 (p. 129):** a Σ-duplex constraint is a constraint from
+  𝒥′ with θ: Sign(T′) → Φ(Σ); a Σ-model m of 𝒥 satisfies it iff
+  θ(β_Σ(m)) satisfies T′ and is F-free. **Lemma 42 (p. 130):** the
+  Satisfaction Condition, by naturality of β. **Theorems 44, 45
+  (p. 130):** 𝒟(Φ) is an institution (proof "similar … and is omitted"),
+  cocomplete if 𝒥's signatures are. So loose first-order specifications
+  can carry data constraints in liberal equational logic.
+- **Definition 46, Proposition 47 (pp. 130–131):** the simpler 𝒥⁺(Φ)
+  admits plain 𝒥′-theories as sentences. Multiplex institutions (§4.3,
+  p. 131) take morphisms from one base to several institutions; the
+  example defines STRING-OF-NAT by initiality in conditional equational
+  logic and even(n) inductively in Horn clause logic, then adds loose
+  first-order axioms.
+
+### Appendix A (pp. 132–141)
+
+- Many-sorted equational logic (Example 61, pp. 136–137), with explicit
+  variable declarations in equations, because without them "the expected
+  rules of deduction for many-sorted equational logic are unsound"
+  (p. 136). Its Satisfaction Condition (Proposition 60) is stated with
+  "We omit the proof", referring to [44] and [47].
+- First-order logic (Example 66), first-order logic with equality
+  (Example 67), Horn clause logic with equality (Example 68, Eqlog),
+  conditional equational logic (Example 69, OBJ), Horn clauses without
+  equality (Example 70, Prolog), pp. 137–141. First-order homomorphisms
+  preserve but need not reflect predicates, else "the term model" would
+  not be initial for Horn clauses (p. 137). The first-order Satisfaction
+  Condition is "omitted here" (p. 139).
+- Temporal and modal logic "can be treated in much the same way",
+  higher-order equational logic is "presumably an institution", and
+  order-sorted and continuous algebras are cited to [99] (p. 141). None
+  is worked out.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Theories and model classes over a fixed signature form a Galois connection, with a dual isomorphism between closed sentence sets and closed model classes | strong | Proposition 3, proved (pp. 103–104); standard; checked on the toy institution |
+| C2 | In any institution, if signatures have colimits so do theories: the colimit theory is the closure of the union of the translated component sentences | strong | Theorem 11, proved (p. 108); checked on a toy pushout over 69 cones |
+| C3 | Sign: Th → Sign creates, not only reflects, colimits | moderate | asserted (p. 109), not proved here |
+| C4 | Constraints requiring free or initial interpretation obey the Satisfaction Condition, so theories with constraints glue like ordinary theories | strong | Lemma 21, Proposition 23, Theorem 24, proved (pp. 118–119) |
+| C5 | A sound institution morphism (model translation surjective) preserves and reflects semantic entailment, so one logic's prover can be used on another's translated theories | strong | Proposition 35, proved (p. 126); checked on toy morphisms |
+| C6 | A cordial institution morphism carries colimit-structured theories to colimit-structured theories | strong | Theorem 39, proved (pp. 127–129) |
+| C7 | Duplex and multiplex institutions are institutions whose theories glue | moderate | Theorem 44's proof omitted as "similar"; Theorem 45 follows from it; §4.3 is a definition with an example |
+| C8 | Equational, first-order, Horn-clause and conditional equational logic are institutions | moderate | defined in Appendix A; the Satisfaction Condition proofs are omitted and referred to [44], [47] (pp. 136, 139) |
+| C9 | Institutions apply to the semantics of natural languages | weak | stated in the abstract (p. 95) and attributed to Mayoh (p. 99); nothing is developed |
+
+## Concepts
+
+- **Signature** — a vocabulary for sentences; a signature morphism is a
+  change of notation: renaming, enrichment or binding (p. 98).
+- **Satisfaction Condition** — m′ ⊨ φe iff φm′ ⊨ e (p. 102); for a
+  morphism of institutions, m ⊨ α(e′) iff β(m) ⊨′ e′ (p. 125).
+- **Presentation, theory, closure** — (Σ, E); E• = E**; a theory has
+  closed E (p. 103).
+- **Theory morphism** — a signature morphism carrying the source's
+  sentences into the target theory (pp. 104–105).
+- **Liberal** — every forgetful functor along a theory morphism has a left
+  adjoint (p. 114).
+- **Constraint** — a pair (F: T″ → T′, θ: Sign(T′) → Σ) that requires the
+  θ-reduct to be free over its F-part; "abstract induction principles"
+  (p. 131).
+- **Institution morphism** — (Φ, α, β) meeting the morphism Satisfaction
+  Condition; sentences backward, models forward (p. 125).
+- **Sound** — each β_Σ surjective on objects (p. 126). **Cordial** — Φ
+  has a cocontinuous left inverse (p. 127).
+- **Duplex / multiplex institution** — sentences of one institution plus
+  constraints or theories from others reached by morphisms (pp. 129–131).
+
+## Connections
+
+- **Clear** (Burstall and Goguen [15]–[18]) is the origin: institutions
+  "arose in our research on the specification language Clear … under the
+  rather general name of 'language' [17]" (p. 96), and the present paper
+  descends from "Introducing institutions" [44], delayed in publication
+  (p. 99; received March 1985).
+- **Tarski's semantic definition of truth** [102] and **Barwise's
+  "translation axiom"** [5]: the Satisfaction Condition "goes a step
+  beyond" the first and "generalizes" the second (p. 101). Barwise's
+  abstract model theory "is more concrete" and "focussed on classical
+  results of logic" (p. 96).
+- **Lawvere**: algebraic theories (p. 103), initial characterization of
+  the natural numbers (p. 113), free extensions (p. 114).
+- **The ADJ group** [54], [103]: initial algebra semantics, F-freeness,
+  persistence (pp. 113–115). **Reichel's** "initially restricting
+  algebraic theories" [84] are the nearest predecessor of data constraints
+  (p. 117).
+- **Later work it reports**: Sannella and Tarlecki's ASL and Extended ML
+  [87], [89]; Tarlecki on free models and Craig interpolation [97]–[99];
+  Fiadeiro and Sernadas's π-institutions [30], built on consequence
+  rather than satisfaction; Meseguer's general logics [78]; Mayoh's
+  many-valued satisfaction [76] (pp. 99–100). None is held in this record.
+- **Goguen's general systems theory** [35], [36]: the source of the
+  colimit principle (p. 107) and of the corrected direction of institution
+  morphisms (footnote 5, p. 110).
+
+## Bearing on the record
+
+- **The LIT's "Why this is here" is right in its correction and needs one
+  narrowing.** A9 offered institutions as the frame for the owner's
+  specification–realization analogy and said theory and realization "can
+  be mathematically related without either being ontologically prior",
+  and that satisfaction is not production. The paper bears both out. A
+  specification's "ultimate denotation" is "the collection of all models
+  that satisfy the sentences", and "Programmers construct such models
+  using programming languages" (p. 98): the models are built by someone
+  else and judged by satisfaction. The Galois connection (Proposition 3)
+  makes closed theories and closed model classes mutually determining,
+  with neither defined from the other. The narrowing: satisfaction is a
+  primitive relation in each institution, and signatures are prior to
+  both sentences and models, which are functors on **Sign**. So the
+  symmetry is between theories and model classes over a fixed notation,
+  not between notation and what it describes.
+- **CLAIM-477: support for the "neither prior" half, and a limit.**
+  Within an institution, a theory is fixed by its model class and a model
+  class by its theory, up to closure (p. 104). That is the claim's
+  "neither … prior without qualification" for specifications and
+  realizations, in a precise form. The paper gives nothing for the
+  claim's other half, that relata are partly individuated by the
+  constraints on their relations: a model in an institution is an object
+  of **Mod**(Σ) given in advance, and only its satisfaction behaviour is
+  constrained. What makes two isomorphic models two is CLAIM-136's
+  question, and the paper does not ask it.
+- **CLAIM-476 and CLAIM-469: institution morphisms are a candidate form
+  for record migrations, with three cautions.** The exchange suggested
+  institution theory for comparing migrations when the specification
+  language changes. The paper supplies: renaming, enrichment and binding
+  as signature morphisms that "raise no deep logical problems" (p. 98);
+  the Satisfaction Condition as the test that old entries mean the same
+  under the new vocabulary; and Theorem 39 for when a structured theory
+  stays structured after translation. The cautions. (1) Splitting a type
+  (one sort into two) is not a signature morphism from the old signature
+  to the new one in the paper's sense: it maps the old sort to one new
+  sort, or goes the other way, merging. Translating old entries into a
+  split vocabulary needs something the paper only mentions, derived
+  signature morphisms ("derivors", p. 105) or a change of logic. (2)
+  Changing the record's governing rules changes the institution, so it is
+  an institution morphism, and the paper's morphisms translate sentences
+  from the target back to the source (p. 125), so a migration from an old
+  grammar to a new one would be a morphism from the new to the old. The
+  authors say the direction is arbitrary and perhaps wrong (p. 110). (3)
+  An institution has a model functor; a record grammar has validators and
+  lint rules, which are closer to a consequence relation than to a model
+  class. Fiadeiro and Sernadas's π-institutions [30] (p. 100), built on
+  consequence, may fit better. Nothing in the paper says a record grammar
+  is an institution, and CLAIM-469 does not need it to.
+- **CLAIM-470: a formal case for the first two clauses, not for the
+  last.** A specification text denotes a theory, and a theory denotes a
+  model class (p. 98); constraints restrict the admissible models
+  (§3). That is "a question fixes which differences would count as an
+  answer" in a precise setting. The claim's distinguishing clause, that
+  "an inquiry can revise what an answer could be", corresponds to a
+  change of signature or of institution, which the paper treats as a
+  morphism between fixed structures. It says nothing about how a new
+  signature is found.
+- **QUESTION-130 and CLAIM-tmpgwud2: satisfaction-preserving translation
+  is a standard of correctness distinct from structural resemblance and
+  from route agreement.** Three points, the second and third my own
+  constructions on the toy institution.
+  1. Given the model translation β, Proposition 33(2) fixes the sentence
+     translation up to semantic equivalence: α_Σ(e′) must hold in exactly
+     the models β sends into e′'s model class (p. 126). In QUESTION-130's
+     terms, the transport of sentences is fixed by an independently
+     established relation, the correspondence of models; it is chosen
+     only in that β is.
+  2. Structural resemblance is neither necessary nor sufficient. On
+     propositional logic with identity on signatures, the
+     shape-preserving translation that renames nothing fails the
+     Satisfaction Condition if β complements valuations, and the
+     translation sending each atom p to ¬p satisfies it, and is sound;
+     the toy check found no entailment it fails to preserve or reflect.
+  3. The Satisfaction Condition alone does not exclude collapse. Send
+     every model to one fixed model m₀ and every sentence e′ to "true" or
+     "false" according as m₀ ⊨ e′: the condition holds, and entailment
+     differed from the source in 232 of 840 toy tests. What excludes it is
+     soundness, β surjective (Proposition 35). This is CLAIM-tmpgwud2's
+     point in another key: a constant rendering is coherent and loses
+     everything. A morphism-level property, soundness, measures fidelity;
+     equality of composite morphisms along two routes, which is all that
+     route agreement could test in **INS**, does not.
+- **What the Satisfaction Condition does and does not give a theory of
+  natural-language translation.** It gives a precise criterion: a
+  translation of sentences is correct, relative to a translation of
+  models, when a translated sentence holds in a model exactly when the
+  original holds in the model's translation; and a correct translation
+  with every model reached preserves and reflects entailment. It does not
+  give (a) the model translation, which must be supplied, and natural
+  languages have no given category of models or functor between them;
+  (b) anything beyond truth conditions, so force, register and
+  implicature, the promise–prediction difference of CLAIM-tmpgwud2, count
+  only if they are written into sentences and models; (c) graded or
+  partial correctness, since satisfaction is two-valued and the condition
+  is an exact "iff" for every model and sentence, with no measure of loss;
+  (d) a notion of translation between two whole languages that are not
+  related by a functor on signatures. The paper itself names natural
+  language as an application in its abstract (p. 95) and through Mayoh
+  (p. 99), and develops nothing.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **Proofs omitted where they are hardest.** The Satisfaction Condition
+  for equational logic (Proposition 60, p. 136) and for first-order logic
+  (p. 139), the functoriality in Proposition 37 (p. 127), Theorem 44
+  (p. 130) and Proposition 47 (p. 131) are omitted or "similar". The
+  authors note that "it can be nontrivial to establish the Satisfaction
+  Condition" (p. 102). "Sign creates colimits" (p. 109) is asserted.
+- **A slip in the gloss on the Closure Lemma (p. 105).** The paper says
+  that the inclusion φ(E•) ⊆ (φE)• being proper "means that" the converse
+  of E ⊨ e ⇒ φE ⊨ φe fails. The two are different. For the inclusion
+  {p} → {p, q} in propositional logic the inclusion is proper (q ∨ ¬q is
+  in (φE)• and not in φ(E•)) and yet the converse holds for every E and e
+  (its model reduct is surjective, so Proposition 4 applies). For the
+  non-injective p, q ↦ x the converse fails (φ(p ↔ q) is valid, p ↔ q is
+  not). The paper's second sentence is true in general; its "This means"
+  is not.
+- **Typographical errors in the formulas**, read from the scan: in the
+  naturality square for α after Definition 32 the lower right corner is
+  printed Sen′(Σ′) for Sen(Σ′) (p. 125); Proposition 35 states "a
+  Σ′-sentence E′ is in E′•" for e′, and its proof writes α_Σ(E) for
+  α_Σ(E′) (p. 126); Proposition 37's proof says "Ψ′(Σ′₁)-models"
+  (p. 127). None affects a result.
+- **Satisfaction only.** No proof theory, no completeness, no
+  computability; §5 names institutions with proofs as future work
+  (p. 132).
+- **Specification, not translation of languages, is the target.** The
+  paper's translations are between logics related by a functor on
+  signatures. Its natural-language remarks are one sentence each.
+- **Examples are classical logics.** Modal, temporal and higher-order
+  logics are left as "presumably" or "much the same way" (p. 141),
+  unshown.
+
+## Open questions
+
+- Is there a notion of morphism, later called a comorphism, in which
+  sentences and signatures go the same way, better suited to migrations
+  from an old record grammar to a new one? The authors' own doubt about
+  the direction (p. 110) points to it; the later literature is not held.
+- Can a record grammar be presented as an institution, or as a
+  π-institution [30], in a way that makes its migrations morphisms? A
+  worked case, one past migration of this record checked against the
+  Satisfaction Condition, would show whether the frame does work or only
+  supplies vocabulary.
+- For translation between natural languages, is there any construction of
+  the model translation β that is not itself a translation, so that the
+  Satisfaction Condition tests something rather than restating a choice?
