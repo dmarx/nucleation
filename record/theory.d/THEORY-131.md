@@ -13,7 +13,16 @@ promote_when: >-
   it. More appeals to how incorporation law treats corporations cannot
   settle either; French himself holds legal personhood irrelevant.
 title: 'A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members'' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The eleventh status review (ADR-057). Kept Proposed, with a dated
+    note saying what holds it back: no case meets the promote_when's
+    first half, CASE-151 included, and Velasquez's objection is
+    registered unread. Not split, since CLAIM-271 and CLAIM-432 use the
+    thesis and not only that French argues it. The claim is unchanged.
 tags:
 - social-ontology
 - personhood
@@ -107,3 +116,14 @@ private reason differs from the corporation's.
   what a corporation wills: its established policy. For the unwilling
   corporation that ground is a difficulty, since in his account a radical
   change of policy makes a new corporation.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the eleventh status review. Read in full (NOTE-568), but
+the title states French's conclusion, which the paper reaches by licensed
+redescription with no test. The record's nearest case, CASE-151, does not
+meet the promote_when's first half. There conduct persisted through some
+5,300 firings and was traced to the sales model, but it broke the bank's
+own rules, so on French's criterion it was not a corporate intentional
+act. The classic objection, Velasquez's (LIT-1429, LIT-1432), is
+registered and unread, so it is unanswered.

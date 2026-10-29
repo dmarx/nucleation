@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwv313
 title: 'A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions'' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-11'
@@ -31,6 +31,13 @@ history:
     governance-response profile (TERM-067) cannot stand in for test 3,
     and where authority is fixed from outside this claim's answer is the
     jurisdiction (TERM-047). The claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added by the eleventh status review (ADR-057):
+    CLAIM-154, on which this claim rests, is narrowed to candidates whose
+    model stays regular at the switch-off, conceding CLAIM-188. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -203,3 +210,9 @@ system alone is not that agent. A27 did not see this. It also proposed
 "epistemically adaptive self-governance" as a further property, and
 rightly not as a condition: it "should not silently redefine *willed
 agent*".
+
+## Note of 2026-10-29: the narrowed rule
+
+CLAIM-154 now holds only where the candidate's model stays regular at its
+switch-off. Where it is singular the rule overcharges (CLAIM-188), so a
+candidate it rejects may still earn a name.

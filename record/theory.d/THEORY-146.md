@@ -1,22 +1,21 @@
 ---
 number: 146
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpm45lu
-promote_when: >-
-  Evidence from real research fields rather than models. Studies that
-  trace methods through funding and training lineages, showing that
-  researchers' methods were the same before and after industry funding,
-  that funded researchers trained more of the next generation, and that a
-  field's share of industry-favourable methods grew by that route. Also
-  comparisons of funders whose merit assessments do or do not count
-  industry-funded work. The account is in trouble if industry-favourable
-  consensus in such fields arises mainly through funded individuals
-  changing their methods or results. More simulations of the same model
-  family, and further case histories read through the model, cannot
-  settle it.
-title: 'Industry can bias a scientific community toward a worse treatment without corrupting any individual, by selectively funding researchers whose methods already favour its product, provided researchers differ in method and both influence and the training of newcomers follow productivity; an independent funder counteracts this only if it discounts industry-funded work, and one that funds on productivity alone makes it worse'
-version: 1
+title: 'In Holman and Bruner''s bandit model of honest Bayesian researchers whose beliefs funding cannot touch, who differ in method and whose influence and training of newcomers follow productivity, industry funding of those whose methods already favour its drug lowers, in the runs their figures report, the share of the community on the better treatment, and has no effect without methodological diversity; at the one setting reported, an independent funder that counts industry-funded trials toward its merit threshold lowers that share further, and one that excludes them raises it'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the eleventh status review (ADR-057;
+    ADR-047's ruling: one study read in full suffices for a title that
+    claims no more than it showed). Read in full in NOTE-574. The title
+    now says what the model and Figures 1–2 show. The old "only if" is
+    dropped, since the paper compares two funder policies at one
+    setting. The promote_when, evidence from real fields, asks for more
+    than the title claims and moves to QUESTION-tmp0b84k. The old title: Industry can bias a scientific community toward a worse treatment without corrupting any individual, by selectively funding researchers whose methods already favour its product, provided researchers differ in method and both influence and the training of newcomers follow productivity; an independent funder counteracts this only if it discounts industry-funded work, and one that funds on productivity alone makes it worse. The old promote_when: Evidence from real research fields rather than models. Studies that trace methods through funding and training lineages, showing that researchers' methods were the same before and after industry funding, that funded researchers trained more of the next generation, and that a field's share of industry-favourable methods grew by that route. Also comparisons of funders whose merit assessments do or do not count industry-funded work. The account is in trouble if industry-favourable consensus in such fields arises mainly through funded individuals changing their methods or results. More simulations of the same model family, and further case histories read through the model, cannot settle it.
 tags:
 - philosophy-of-science
 - epistemology
@@ -30,20 +29,21 @@ summary: >-
   industry funding of agents whose methods favour the drug lowers the
   chance of converging on the better action, though no agent's beliefs
   respond to funding. A merit-based independent funder worsens it; one
-  ignoring industry-funded trials counters it. Proposed: one case and a
-  small simulation.
+  ignoring industry-funded trials counters it. Held as what the model
+  shows; whether real fields work this way is QUESTION-tmp0b84k.
 supports:
 - CLAIM-276
 - CLAIM-404
 bears_on:
 - QUESTION-047
+- QUESTION-tmp0b84k
 ---
 <!-- inactive-ok-file: LIT-751 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-143 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
-# THEORY-146: Industry can bias a scientific community toward a worse treatment without corrupting any individual, by selectively funding researchers whose methods already favour its product, provided researchers differ in method and both influence and the training of newcomers follow productivity; an independent funder counteracts this only if it discounts industry-funded work, and one that funds on productivity alone makes it worse
+# THEORY-146: In Holman and Bruner's bandit model of honest Bayesian researchers whose beliefs funding cannot touch, who differ in method and whose influence and training of newcomers follow productivity, industry funding of those whose methods already favour its drug lowers, in the runs their figures report, the share of the community on the better treatment, and has no effect without methodological diversity; at the one setting reported, an independent funder that counts industry-funded trials toward its merit threshold lowers that share further, and one that excludes them raises it
 
 ## Source
 

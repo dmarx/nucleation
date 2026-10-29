@@ -1,10 +1,10 @@
 ---
 number: 188
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpczjuu
-title: 'Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule''s Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular'
-version: 3
+title: 'Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2 and multiplicity m, the reification rule''s Gaussian Occam term overcharges keeping the candidate by (d/2 − λ) log n + (m − 1) log log n to leading order, so near the threshold the rule prunes candidates the Bayes factor keeps, and its derivation holds only where that model stays regular'
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -29,6 +29,21 @@ history:
     which THEORY-079 is about, and THEORY-082 supplies the premise that
     the candidates are the singular kind. THEORY-087, its other ground, was
     promoted by the same review. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the eleventh status review (ADR-057; ADR-047's ruling on
+    re-derivations). The status had waited on THEORY-087's singular half
+    or on the claim's own test. THEORY-087 was promoted by the tenth
+    review, and the test is run in the note of this date on CASE-152's
+    model: near the threshold the exact Bayes factor keeps candidates the
+    regular count prunes, at every n from 10² to 10¹². The scripts were
+    written by the reviewer and re-run by the reviewing session, and
+    reproduce the figures. CLAIM-154 is narrowed to write this in. The
+    title adds the log log n term and the multiplicity, and replaces
+    "exact only where that model stays regular", since even in regular
+    models the rule is exact only in the conjugate case. CASE-152 is
+    added under illustrated_by. The old title: Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule's Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular.
 role: counter
 warrant: demonstrated
 tags:
@@ -46,19 +61,23 @@ grounds:
 - THEORY-082
 corroborated_by:
 - THEORY-079
+illustrated_by:
+- CASE-152
 summary: >-
   A narrowing of [CLAIM-154](CLAIM-154.md), filed on 2026-10-11 from a synthesis review
   that found the record already held the readings that limit it.
   [CLAIM-154](CLAIM-154.md)'s rule prices a candidate with a Gaussian Occam factor, which
   is exact in the conjugate case it was re-checked in. The candidates it
   is meant for (blocks, sectors, couplings with hidden structure) are
-  plausibly singular, where [THEORY-087](../theory.d/THEORY-087.md) puts the penalty at λ log n, not
-  (d/2) log n, and [THEORY-079](../theory.d/THEORY-079.md) says the Laplace form errs by a term that
-  grows with log n. Both THEORYs are Proposed, so this is too.
+  often singular where they are switched off. There THEORY-087 puts the
+  penalty at λ log n − (m − 1) log log n, not (d/2) log n. On CASE-152's
+  product model the rule prunes, near the threshold, candidates the
+  exact Bayes factor keeps. CLAIM-154 is narrowed to models that stay
+  regular at the switch-off.
 ---
-<!-- inactive-ok-file: CLAIM-174 CLAIM-175 THEORY-079 THEORY-087 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: CLAIM-174 CLAIM-175 THEORY-079 — Proposed; open, and cited as open: under test, not settled -->
 
-# CLAIM-188: Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule's Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular
+# CLAIM-188: Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2 and multiplicity m, the reification rule's Gaussian Occam term overcharges keeping the candidate by (d/2 − λ) log n + (m − 1) log log n to leading order, so near the threshold the rule prunes candidates the Bayes factor keeps, and its derivation holds only where that model stays regular
 
 ## The claim
 
@@ -91,11 +110,10 @@ from the threshold:
   off. There the parameters attached to it are not identified, because any
   value of them gives the same distribution once the coupling's strength is
   zero. When the reduced model is the truth, this is the case at the true
-  parameter. The step from
-  "blocks and couplings" to "singular" is the filer's, and it should be
-  checked on a concrete family.
+  parameter. CASE-152's product model is such a family, and the note of
+  2026-10-29 checks the rule on it.
 
-The direction of the error follows from [THEORY-087](../theory.d/THEORY-087.md), as the filer reads it.
+The direction of the error follows from [THEORY-087](../theory.d/THEORY-087.md).
 Where λ < d/2, the true penalty is smaller than the Gaussian term, so the
 rule overcharges a candidate and prunes structure the exact Bayes factor
 would keep. Because the gap grows with log n, more data does not wash it
@@ -112,11 +130,17 @@ ratio" inherits that assumption.
   case is exact, and nothing here touches it.
 - It does not say the error always runs one way. λ < d/2 is the case
   [THEORY-087](../theory.d/THEORY-087.md) names. Other singular structures need their own λ.
-- It does not rest on read theorems. The singular half of [THEORY-087](../theory.d/THEORY-087.md) is a
-  theorem the record holds as cited, and [THEORY-079](../theory.d/THEORY-079.md) is the record's own
-  synthesis. A test would settle both: compare the rule with an exact or
-  WBIC-estimated Bayes factor on a two-block coupling model or
-  reduced-rank regression, near the threshold, as n grows.
+- It does not prove Watanabe's Theorem 2 in general. It rests on
+  THEORY-087, which holds the theorem as cited and checks its prediction
+  exactly in singular models of known λ, and on the threshold computation
+  in the note of 2026-10-29, which covers one family. That a candidate
+  the rule keeps is kept by the Bayes factor too is shown there, not in
+  general.
+- d is the dimension of the model with the candidate, in the
+  parametrization the prior is placed on. Singularity belongs to model
+  and prior together. The uniform prior on CASE-152's a and b induces on
+  c = ab a density that diverges at zero; a Gaussian prior placed on c
+  itself makes the model regular and the rule exact.
 - [CLAIM-154](CLAIM-154.md) is dual-filed from the mathematics-of-meaning record
   ([MOM-CLM-160](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-160.md)). The same limit would apply there. Filing it there is
   that record's business.
@@ -141,3 +165,32 @@ MDL can prefer the wrong model for large n, and the remedy (Safe Bayes,
 does not prove it. [THEORY-259](../theory.d/THEORY-259.md) ([LIT-225](../literature.d/LIT-225.md), [NOTE-801](../notes.d/NOTE-801.md)) adds that a
 modeller's prior gives the description-length penalty only for hypotheses
 that are random under that prior.
+
+## Note of 2026-10-29: the check on a concrete family
+
+CASE-152's model, Y ~ N(ab, 1), with a uniform prior on [−1, 1]², against
+a = 0, the model with no parameters. The data enter through
+ĉ ~ N(ab, 1/n). With z = √n ĉ, the exact keep threshold z*², found by
+quadrature, tracks log n − 2 log log n + 1.2. The regular two-parameter
+count keeps only when z² > 2 log n − 2 ln(π/2).
+
+| n | exact z*² | log n − 2 log log n | regular count's threshold |
+|---|---|---|---|
+| 10² | 2.75 | 1.55 | 8.31 |
+| 10³ | 4.34 | 3.04 | 12.91 |
+| 10⁴ | 6.08 | 4.77 | 17.52 |
+| 10⁶ | 9.84 | 8.56 | 26.73 |
+| 10⁸ | 13.83 | 12.59 | 35.94 |
+| 10¹⁰ | 17.95 | 16.75 | 45.15 |
+| 10¹² | 22.16 | 20.99 | 54.36 |
+
+Between the two thresholds the decisions are opposite while both log
+Bayes factors are modest. At n = 10⁴ and z² = 12 the exact ln BF is +2.85
+and the regular count's −2.76; at n = 10⁶ and z² = 16, +3.03 and −5.36; at
+n = 10⁸ and z² = 25, +5.55 and −5.47. Counting the candidate as one
+direction, with threshold log n plus a constant, still overcharges, by a
+gap in z² growing as 2 log log n (3.1, 4.6 and 5.5 at n = 10⁴, 10⁸ and
+10¹²). That meets the "What would answer it" test above against the rule,
+in a family where switching the candidate off makes the model singular.
+The scripts were written by the reviewer, re-run by the reviewing
+session, and are not in the record.

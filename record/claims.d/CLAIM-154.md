@@ -3,8 +3,8 @@ number: 154
 status: Active
 formerly:
 - CLAIM-154
-title: 'A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d''² exceeds the log prior-to-posterior variance ratio'
-version: 2
+title: 'A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d''² exceeds the log prior-to-posterior variance ratio, where the model with the candidate stays regular at the parameters that switch it off'
+version: 3
 history:
 - version: 1
   date: '2026-10-11'
@@ -23,14 +23,35 @@ history:
     misspecification) and NOTE-801 (THEORY-259, LIT-225: a
     modeller's prior gives the description-length penalty only for
     hypotheses random under it). The rule and its status are unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Narrowed by the eleventh status review (ADR-057, ADR-059) to concede
+    CLAIM-188, promoted. Where the model with the candidate is singular
+    at the parameters that switch it off, the Laplace posterior the
+    derivation needs does not exist; the free-energy penalty there is
+    λ log n − (m − 1) log log n, and the regular count overcharges it.
+    On CASE-152's product model the rule prunes, near the threshold,
+    candidates the exact Bayes factor keeps, which met the old
+    defeated_if. THEORY-087 is added to grounds for the regular
+    expansion that makes the rule Laplace-valid outside the conjugate
+    case. The conjugate case was re-checked: agreement to 5 × 10⁻¹⁴ in
+    five new settings; the reviewer's scripts were re-run by the
+    reviewing session and reproduce the figures. The old title: A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio. The old defeated_if: A model family in which the rule and the
+    Bayes factor disagree on the keep-or-prune decision near the
+    threshold, where the decision is close. Disagreement in magnitude far
+    from the threshold does not count: the rule is a criterion and not a
+    score, and MOM-CLM-160 already reports that failure.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  A model family in which the rule and the Bayes factor disagree on the
+  A model family, regular at the parameters that switch the candidate
+  off, in which the rule and the Bayes factor disagree on the
   keep-or-prune decision near the threshold, where the decision is
   close. Disagreement in magnitude far from the threshold does not count:
   the rule is a criterion and not a score, and MOM-CLM-160 already
-  reports that failure.
+  reports that failure. Nor does a family singular there: CLAIM-188
+  concedes that the rule overcharges such a candidate.
 tags:
 - model-comparison
 - complex-systems
@@ -51,6 +72,8 @@ summary: >-
   the data added about it. In this record it prices the boundary tests for
   a combined form: a near-decomposable block ([LIT-905](../literature.d/LIT-905.md)) earns a name
   when its gap beats its Occam factor. Re-checked here in the conjugate case.
+  Narrowed to candidates whose model stays regular where they are switched
+  off; where it is singular the rule overcharges (CLAIM-188).
 supports:
 - CLAIM-157
 - CLAIM-174
@@ -59,10 +82,11 @@ objected_by:
 - CLAIM-188
 grounds:
 - THEORY-081
+- THEORY-087
 ---
 <!-- inactive-ok-file: CLAIM-175 — Proposed; the owner's claim this threshold makes decidable, open -->
 
-# CLAIM-154: A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio
+# CLAIM-154: A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio, where the model with the candidate stays regular at the parameters that switch it off
 
 ## The claim
 
@@ -76,6 +100,18 @@ So the rule is: **keep (reify) w if and only if d'² > Occam**, that is
 δ/ε > τ with τ² = ln(s²/σ²). The threshold is not a taste parameter. It is
 the prior-to-posterior information gain about w. In the conjugate Gaussian
 case the rule is the Bayes factor exactly, not an approximation of it.
+
+**Where it holds.** The derivation needs a Laplace posterior for w. That
+needs the model with the candidate to be regular where w = 0: its Fisher
+information non-singular there, so that no parameter attached to the
+candidate goes unidentified when the candidate is switched off, and a
+prior smooth and positive there. Outside the conjugate case the rule is
+then Laplace's approximation of the same Bayes factor (THEORY-087's
+regular expansion). Two candidates fail the condition: a coupling whose
+effect is a strength times a responsiveness, and a hidden unit behind an
+output weight (THEORY-082). There the penalty is
+λ log n − (m − 1) log log n, and the rule prunes near the threshold what
+the Bayes factor keeps (CLAIM-188, checked on CASE-152's model).
 
 ## Why this record holds it
 
@@ -110,8 +146,8 @@ its own spectral sectors.
   is, Bayes and MDL can prefer the wrong model for large n, and the remedy
   (Safe Bayes, η < 1) changes the effective Occam cost ([LIT-238](../literature.d/LIT-238.md) §6.3,
   [NOTE-760](../notes.d/NOTE-760.md)). The review cites that result and does not prove it.
-  [CLAIM-188](CLAIM-188.md)'s singularity is one ground for caution; this is a second,
-  independent one.
+  [CLAIM-188](CLAIM-188.md)'s singularity is a limit now written into the title; this is a
+  separate caution.
 - **That the Occam term is a description length.** Under a modeller's
   prior, the evidence penalty matches the description-length penalty only
   for hypotheses that are random under that prior ([THEORY-259](../theory.d/THEORY-259.md),
