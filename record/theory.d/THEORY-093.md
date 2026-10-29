@@ -28,7 +28,15 @@ promote_when: >-
   plants; and more arguments from the definition of consciousness as
   ownership.
 title: "A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-060). QUESTION-059 moves from answers
+    to bears_on: this reading does not say whether a state meeting a
+    functional characterization of affect must be felt, and the
+    question's body gives its limit. The reading is unchanged.
 tags:
 - consciousness
 - emotion-and-affect
@@ -42,6 +50,8 @@ extends:
 - THEORY-045
 rivals:
 - THEORY-096
+bears_on:
+- QUESTION-059
 summary: >-
   Damasio & Damasio (2022), [LIT-628](../literature.d/LIT-628.md), an essay with no data, read
   only through a summarising fetch tool, so its wording is paraphrased
@@ -57,8 +67,6 @@ summary: >-
   unmyelinated-fibre proposal. Proposed: the identification is a
   definition, the mechanism an interpretation of anatomy, and the clinical
   evidence does not separate this account from its rivals.
-answers:
-- QUESTION-059
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed; the account this one extends, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, declared and explained in prose -->

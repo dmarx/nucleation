@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmp0eikz
 title: 'Flow tells against the potential account''s condition that valence is undefined where no pair is contested: on the record''s own account of flow nothing is overridden because an activity''s immediate reward and its longer-run value coincide, yet flow is reported as positive, so either flow''s positivity is intrinsic pleasantness and not goal-conduciveness valence, or flow keeps contested pairs its processes settle among themselves, or the positivity comes after the episode and not during it, or the condition is wrong'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CLAIM-440's first consequence was restated as "no contest, no
+    valence" at the ninth status review (CLAIM-449); the quotation
+    here now gives both. The claim is unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -88,7 +95,7 @@ wrong about one of the clearest cases of positive engagement there is.
 4. **The condition is wrong.** Valence could be defined where nothing is
    contested, for instance as progress along the shared ordering against a
    reference course, with no conflict needed. That would give up
-   [CLAIM-440](CLAIM-440.md)'s first consequence, "no frustration, no valence", and with
+   [CLAIM-440](CLAIM-440.md)'s first consequence, "no contest, no valence" (stated as frustration until 2026-10-29; CLAIM-449), and with
    it the account's restriction of valence to systems with conflicts.
 
 ## What it does not say

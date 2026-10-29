@@ -4,24 +4,26 @@ status: Deferred
 formerly:
 - QUESTION-tmplvh8e
 title: 'Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-060): its six answered_by edges
+    became bears_on, since none answers it as posed. CLAIM-439 is
+    added to the body's list.
 tags:
 - consciousness
 - emotion-and-affect
 - metaphysics
 date: '2026-10-12'
 line: 'organizational-affect'
-answered_by:
-- THEORY-045
-- THEORY-090
-- THEORY-093
-- THEORY-095
-- CLAIM-439
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and
   QUESTION-053. [THEORY-101](../theory.d/THEORY-101.md), [THEORY-045](../theory.d/THEORY-045.md), [THEORY-090](../theory.d/THEORY-090.md), [THEORY-093](../theory.d/THEORY-093.md) and [THEORY-095](../theory.d/THEORY-095.md)
-  answer it in part; the body gives each one's limit. Deferred with its
+  bear on it; none answers it as posed, and the body gives each one's
+  limit. Deferred with its
   line.
 ---
 <!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim this question bears on, with its line set aside -->
@@ -38,7 +40,8 @@ summary: >-
 
 ## What the record holds
 
-- [THEORY-101](../theory.d/THEORY-101.md) answers on the identity side: to feel bad is "to occupy a coordinated regulatory state", and function and phenomenality "are identical". Limit: a sketch, for hedonic valence in animals, not Frijda's action readiness.
+- [THEORY-101](../theory.d/THEORY-101.md) bears on the identity side: to feel bad is "to occupy a coordinated regulatory state", and function and phenomenality "are identical". Limit: a sketch, for hedonic valence in animals, not Frijda's action readiness.
+- CLAIM-439 offers a further mechanism, the system's model of its own potential, in an access sense of "felt". Limit: it declines the phenomenal sense this question asks about.
 - [THEORY-045](../theory.d/THEORY-045.md) names the mechanism side: felt affect is "the experience of the body's regulatory state". Limit: it does not say why the state is felt.
 - [THEORY-093](../theory.d/THEORY-093.md) names a candidate mechanism: feelings are "hybrid", because interoceptive pathways "let the body act directly on the neurons that map it". An organization has no such pathway. Limit: an interpretation of anatomy, read Skimmed.
 - [THEORY-090](../theory.d/THEORY-090.md) puts felt affect in a specific subcortical substrate, not in a role. Limit: no marker separates a felt alarm from an unfelt one.

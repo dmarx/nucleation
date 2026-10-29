@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmptd5us
 title: 'A regime of valence is felt, in the sense of attended and available to the system''s other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-060). QUESTION-059 moves from answers
+    to bears_on: the claim adopts the access sense of felt and
+    declines the phenomenal sense the question asks about. The body
+    sentence that said it answers the question in part now says so.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,7 +45,7 @@ grounds:
 - LIT-1468
 - LIT-1451
 - THEORY-873
-answers:
+bears_on:
 - QUESTION-059
 summary: >-
   Filed at the owner's direction, 2026-10-23, as a candidate for when the
@@ -102,10 +111,12 @@ account", the limit [QUESTION-266](../questions.d/QUESTION-266.md) is meant to g
 **What it would answer.** [CLAIM-411](CLAIM-411.md) asks which further organizational
 properties make an interpretation experiential, under the owner's
 constitutive thesis ([CLAIM-412](CLAIM-412.md)). For affect, this is a candidate: the
-system's model of its own potential. It answers [QUESTION-059](../questions.d/QUESTION-059.md), whether a
-state meeting a functional characterization of affect must be felt, in
-part: no; it is felt when it is also modelled, and an organization may or
-may not have such a model.
+system's model of its own potential. It bears on QUESTION-059, whether a state meeting a functional
+characterization of affect must be felt, without answering it: in the
+sense of "felt" adopted here, attended and available, the answer would be
+no, since the state is felt when it is also modelled, and an organization
+may or may not have such a model; but the question asks about feeling in a
+sense this claim declines (below).
 
 **For an organization.** The model is the organization's reporting, to
 those who govern it, of what wins its conflicts. On this reading Wells

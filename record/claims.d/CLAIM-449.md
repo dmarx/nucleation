@@ -1,10 +1,21 @@
 ---
 number: 449
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpf2p3p
-title: 'The potential account of valence''s first consequence, no frustration, no valence, runs together two relations: perspectives'' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, valenced with nothing contested, tests whichever is chosen'
-version: 1
+title: 'The potential account of valence''s first consequence, no frustration, no valence, runs together two relations: perspectives'' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, reported as positive with nothing contested, tests whichever is chosen'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted at the ninth status review (ADR-057), on the owner's
+    assent in the pull request. Its grounds CASE-051, CASE-109 and
+    CASE-119 are Active, nothing objects to it, and the record has
+    conceded it twice, in TERM-076 version 2 and CLAIM-440 version 4.
+    The title's "the absorbed writer, valenced with nothing contested"
+    now reads "reported as positive with nothing contested": that flow
+    is valenced is CLAIM-441's unchecked premise, not this claim's.
 role: counter
 warrant: interpretive
 tags:
@@ -37,7 +48,7 @@ summary: >-
   request to record the exchange.
 ---
 
-# CLAIM-449: The potential account of valence's first consequence, no frustration, no valence, runs together two relations: perspectives' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, valenced with nothing contested, tests whichever is chosen
+# CLAIM-449: The potential account of valence's first consequence, no frustration, no valence, runs together two relations: perspectives' contested rankings, which a record of winning moves registers, and demands that are jointly infeasible, which the compatibility complex registers; rankings can contest while every demand is satisfiable, and demands can be infeasible before any contest is recorded, so the consequence needs one of them named, and the absorbed writer, reported as positive with nothing contested, tests whichever is chosen
 
 ## The objection
 

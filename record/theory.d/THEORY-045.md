@@ -24,13 +24,20 @@ promote_when: >-
   papers read herpes-encephalitis survivors as support), or behaviour
   "consistent with" feeling in animals.
 title: "Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
   note: >-
     Minsky's dissent is now filed as THEORY-570 (LIT-432, NOTE-348)
     and named as a rival. The account is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-060). QUESTION-059 moves from answers
+    to bears_on: this reading does not say whether a state meeting a
+    functional characterization of affect must be felt, and the
+    question's body gives its limit. The reading is unchanged.
 tags:
 - emotion-and-affect
 - consciousness
@@ -39,6 +46,8 @@ date: '2026-10-03'
 source:
 - LIT-542
 - LIT-388
+bears_on:
+- QUESTION-059
 summary: >-
   Barrett (2017), [LIT-542](../literature.d/LIT-542.md), and Damasio & Carvalho (2013), [LIT-388](../literature.d/LIT-388.md), are two
   independent accounts that agree on a base layer. What is felt as affect
@@ -56,8 +65,6 @@ summary: >-
 extended_by:
 - THEORY-090
 - THEORY-093
-answers:
-- QUESTION-059
 rivals:
 - THEORY-570
 ---

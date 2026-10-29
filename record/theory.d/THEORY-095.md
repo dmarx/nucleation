@@ -26,7 +26,15 @@ promote_when: >-
   functionalism or physicalism about qualia, which this account leaves
   open by design.
 title: 'Phenomenal character is not fixed by long-arm functional role or by externally individuated representational content: on Inverted Earth it stays the same while both invert, so only internal accounts, short-arm functional or physical, remain open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-060). QUESTION-059 moves from answers
+    to bears_on: this reading does not say whether a state meeting a
+    functional characterization of affect must be felt, and the
+    question's body gives its limit. The reading is unchanged.
 tags:
 - consciousness
 - metaphysics
@@ -35,6 +43,8 @@ date: '2026-10-03'
 source:
 - LIT-634
 - LIT-635
+bears_on:
+- QUESTION-059
 summary: >-
   Block (1990), [LIT-634](../literature.d/LIT-634.md): on Inverted Earth colours and colour words
   are inverted, so a subject fitted with inverting lenses notices nothing.
@@ -49,8 +59,6 @@ summary: >-
   both rest on an externalist shift of content and on first-person
   sameness, and Block concedes that a short-arm functional theory of
   qualia would escape.
-answers:
-- QUESTION-059
 supports:
 - CLAIM-413
 ---
