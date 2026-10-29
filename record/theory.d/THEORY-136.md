@@ -4,13 +4,20 @@ status: Active
 formerly:
 - THEORY-tmp9v9w1
 title: 'A persistent or abrupt change is not evidence that a system has alternative stable states: field patterns such as jumps, multimodality and dual relationships also arise from a stepwise driver or a simple threshold, and only hysteresis, initial-state dependence or a lasting shift after a temporary disturbance, with slow return excluded, comes close to showing one'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-05'
   note: >-
     Declared `presupposes: THEORY-132` (ADR-029). The standard of evidence
     is built on Holling's basins of attraction; it was held in prose only.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-185 is removed: the fourteenth status
+    review (ADR-057, ADR-058) took this reading out of CLAIM-185's
+    grounds, which cite it as a test of a threshold, not as evidence for
+    the claim. The reading is unchanged.
 tags:
 - ecology
 - complex-systems
@@ -29,7 +36,6 @@ summary: >-
   produce alternative states. Active as a methodological standard.
 supports:
 - CLAIM-184
-- CLAIM-185
 ---
 <!-- inactive-ok-file: LIT-720 — Unavailable, unread; the 2001 Nature paper, named as what the 2003 review restates -->
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a case the evidential standard bears on -->

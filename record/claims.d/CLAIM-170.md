@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptd6s2
 title: 'The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -22,6 +22,19 @@ history:
     description, agency and legibility: A2 proposed as a paper that agency
     attribution needs a choice of boundary, variables and intervention
     class, which is this claim and TERM-044. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    LIT-398 (Dennett's "True Believers") dropped from grounds, at the
+    status review's ruling (the owner delegated these rulings; ADR-057,
+    ADR-058). The body never cites it, and on reading NOTE-353 nothing in
+    it descends from Dennett's intentional strategy: the relativity to a
+    level is the owner's, agents in general are identified by the agent
+    tests and adaptation, and willed agents by will-organization. Test
+    2's comparison, which does descend from it, is CLAIM-174's, and
+    LIT-398 stays there. LIT-398's supports entry for this claim is
+    removed. A note of 2026-10-29 says what holds the claim back. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,8 +59,6 @@ uses:
 - TERM-049
 - TERM-044
 - TERM-048
-grounds:
-- LIT-398
 summary: >-
   The owner's thesis of 2026-10-11, stated in the record's terms after
   discussion. It is a collaboration, so it is not a quotation: "the agents
@@ -128,3 +139,12 @@ requires a choice of system boundary, causal variables, and
 counterfactual intervention class", from [THEORY-527](../theory.d/THEORY-527.md) and [THEORY-801](../theory.d/THEORY-801.md). That is
 this claim and [TERM-044](../terms.d/TERM-044.md), which the exchange did not cite. The same
 exchange filed the organizational rival to [TERM-044](../terms.d/TERM-044.md) as [TERM-063](../terms.d/TERM-063.md).
+
+## Note of 2026-10-29: what holds it back
+
+CLAIM-168 is unanswered in the part that bears on this claim. CLAIM-174 turns
+the circle into a fixed-point condition, but it says itself that whether a
+fixed level and target can have several self-consistent factorizations is the
+objection's open part, and several that disagree on which regimes each
+will-organization governs is this claim's `defeated_if`. CLAIM-174 is also
+Proposed, so even that reply is not held.

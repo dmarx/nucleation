@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwv313
 title: 'A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions'' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-11'
@@ -47,6 +47,31 @@ history:
     intelligence, not agency; the tests do not stand on it.
     THEORY-092's supports entry for this claim is removed. The claim
     is unchanged.
+- version: 7
+  date: '2026-10-29'
+  note: >-
+    Concedes CLAIM-194 and CLAIM-393, at the status review's ruling (the
+    owner delegated these rulings; ADR-057, ADR-059). From CLAIM-194:
+    test 1 cannot tell a boundary the factor produces from one imposed on
+    it, and tests 2 and 3 do not in general either, so an agent in this
+    claim's sense (TERM-044) need not make its own boundary; minimal
+    agency in Barandiaran, Di Paolo and Rohde's sense (THEORY-1119, the
+    rival TERM-063) is a further condition the test does not claim. From
+    CLAIM-393: ordinary and legal attributions of agency to an artifact
+    are not independent marks where they turn on whether its mechanism is
+    known. The defeated_if gains both exclusions, and What it does not
+    say gains two bullets. The defeated_if was: "A factor that passes all
+    three tests at a level and target and is nonetheless, by independent
+    marks, not an agent there. Or a clear agent, such as a person at the
+    level of everyday action, that fails one of them. The thermostat with
+    its designers coming out an agent does not count: that is the
+    intended verdict." LIT-398 stays in grounds: on reading NOTE-353,
+    test 2's comparison descends from Dennett's intentional strategy,
+    which counts a system a believer by the predictive gain of the
+    intentional description over what is antecedently known, and
+    Orseau et al. call their test a formal counterpart of his stances
+    (NOTE-705); test 2 now cites it as its ancestor. The tests are
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,7 +79,11 @@ defeated_if: >-
   nonetheless, by independent marks, not an agent there. Or a clear agent,
   such as a person at the level of everyday action, that fails one of
   them. The thermostat with its designers coming out an agent does not
-  count: that is the intended verdict.
+  count: that is the intended verdict. Attributions of agency to an
+  artifact that turn on whether its mechanism is known are not
+  independent marks (CLAIM-393). Nor is a passer that does not make its
+  own boundary a counterexample: that is agency in a further sense this
+  test does not claim (CLAIM-194).
 tags:
 - agency
 - individuation
@@ -106,6 +135,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 — Proposed; the premise, the objection answered and the thesis made testable, open -->
+<!-- inactive-ok-file: TERM-063 — Proposed; the rival sense of agent this claim says it does not claim -->
 <!-- inactive-ok-file: THEORY-249 — Proposed; filed today, cited for the frame-dependence of test 3, not leaned on -->
 
 # CLAIM-174: A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
@@ -121,7 +151,10 @@ system. It is an **agent at that level** when:
    pursues goals predicts its behaviour better than a device model (an
    input-output mapping), by more than the Occam cost ([TERM-046](../terms.d/TERM-046.md)<!-- ref::uses: TERM-046 -->) of the richer model. This is Orseau et al.'s agent-versus-device
    comparison ([LIT-911](../literature.d/LIT-911.md)), priced in the record's terms
-   ([CLAIM-154](CLAIM-154.md)).
+   ([CLAIM-154](CLAIM-154.md)). Its ancestor is Dennett's intentional strategy
+   (LIT-398), which counts a system a believer when the intentional
+   description predicts it better than what is antecedently known, and
+   which Orseau et al. turn into a computation.
 3. **Its governance would adapt.** Under an intervention on how its actions
    affect the world, the factor's policy, or what governs its regimes,
    would change. This is Kenton et al.'s criterion ([LIT-909](../literature.d/LIT-909.md)): agents
@@ -195,6 +228,19 @@ That is the owner's thesis made testable ([CLAIM-170](CLAIM-170.md), [CLAIM-155]
   adaptation (Abel et al., [LIT-969](../literature.d/LIT-969.md), Claim 4; [THEORY-249](../theory.d/THEORY-249.md)): Kenton et
   al.'s intervention on how its actions affect the world is one choice of
   meaningful adaptation, not the only one.
+- **That an agent makes its own boundary.** Test 1 reads the boundary off
+  coupling, and a boundary kept from outside passes it as one the factor
+  produces does (CLAIM-194). Tests 2 and 3 do not exclude such a factor in
+  general: a policy can adapt inside a boundary someone else keeps. An
+  agent here is TERM-044's, at a level of description. Minimal agency in
+  Barandiaran, Di Paolo and Rohde's sense (THEORY-1119; the rival
+  TERM-063) adds individuality the system produces itself, and this test
+  does not claim it. Where the governor of an imposed boundary is found,
+  the jurisdiction reading puts it inside the agent (note of 2026-10-21).
+- **That what people or courts grant an artifact is an independent mark.**
+  Such grants turn on whether its mechanism is known (CLAIM-393). So they
+  meet the `defeated_if` only where knowing the mechanism makes a device
+  description shorter, which is test 2's own comparison.
 
 ## Note of 2026-10-12: evidence now linked
 
@@ -226,3 +272,9 @@ agent*".
 [CLAIM-154](CLAIM-154.md) now holds only where the candidate's model stays regular at its
 switch-off. Where it is singular the rule overcharges ([CLAIM-188](CLAIM-188.md)), so a
 candidate it rejects may still earn a name.
+
+## Note of 2026-10-29: what holds it back
+
+Its first condition is CLAIM-157, which is Proposed, and the necessary half
+of that criterion is unanswered (CLAIM-157's note of 2026-10-29). With
+CLAIM-194 and CLAIM-393 written in, nothing else on file holds it back.

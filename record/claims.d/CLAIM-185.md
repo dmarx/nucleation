@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpu984q
 title: 'The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -14,6 +14,17 @@ history:
     condition it adds: a retained part must be cut off by constancies from
     what is still changing. THEORY-307 and THEORY-324 cited. The
     claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-057, ADR-058). THEORY-136 leaves grounds: the note of 2026-10-12
+    added it "as a test", and it says what would show a threshold, not
+    that this claim holds; it stays cited in the body, and its supports
+    entry for this claim is removed. CLAIM-195 now complements this claim
+    instead of resting on it, so the supports entry for CLAIM-195 is
+    removed, and CLAIM-195 leaves the inactive-ok directive, since it is
+    Active. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,7 +46,6 @@ answers:
 rests_on:
 - CLAIM-177
 grounds:
-- THEORY-136
 - THEORY-134
 - LIT-919
 - LIT-920
@@ -49,12 +59,11 @@ summary: >-
   the generalization is stated, not tested.
 supports:
 - CLAIM-176
-- CLAIM-195
 complements:
 - CLAIM-303
+- CLAIM-195
 ---
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
-<!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-11'
@@ -53,6 +53,16 @@ history:
     CLAIM-154, on which this claim rests, is narrowed to candidates whose
     model stays regular at the switch-off, conceding CLAIM-188. The
     claim is unchanged.
+- version: 9
+  date: '2026-10-29'
+  note: >-
+    Concedes CLAIM-194, at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-059). The block test reads a
+    boundary off coupling strength, so it names a unit of description
+    and cannot tell a boundary the form produces from one imposed on it:
+    a cell's membrane and a beam joining two pendulums pass alike. What
+    it does not say gains that point, and a note of 2026-10-29 says what
+    holds the claim back. The criterion is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -190,6 +200,14 @@ test. The name is earned when the gap beats the cost of keeping it.
   some forms and misses others ([THEORY-254](../theory.d/THEORY-254.md), [LIT-955](../literature.d/LIT-955.md), [NOTE-814](../notes.d/NOTE-814.md)).
   The Occam factor here is set per block, which is the kind of per-region
   setting a global threshold lacks.
+- **That the form makes its own boundary.** The test reads the boundary off
+  how strongly the members interact, inside the block against across its
+  edge. A beam joining two pendulums clears it for the next swing, as a
+  cell's membrane does for the cell. So the test names a unit of
+  description, and it cannot tell a boundary the form produces from one
+  imposed on it (CLAIM-194). The individuality that minimal agency is said
+  to need (THEORY-1119) is a further condition. That matters where
+  CLAIM-174 takes this test as its first condition.
 
 ## Note of 2026-10-19: closure without a block, and flux
 
@@ -283,3 +301,14 @@ grouping.
 [CLAIM-154](CLAIM-154.md) now holds only where the candidate's model stays regular at its
 switch-off. Where it is singular the rule overcharges ([CLAIM-188](CLAIM-188.md)), so a
 candidate it rejects may still earn a name.
+
+## Note of 2026-10-29: what holds it back
+
+Its `defeated_if` makes clearing the threshold necessary for one system, not
+only sufficient, and that half is unanswered. CLAIM-388's closed mode has no
+block, Toner and Tu's flock (NOTE-1228) keeps its order while no grouping of
+members persists, and the notebook's coupling needs the time-lagged test
+QUESTION-116 asks for; whether any of these is one system is QUESTION-218,
+and a yes would meet the `defeated_if`. The duration clause also has no
+window or tolerance, and it holds only if "persists" is read on the
+trajectory (NOTE-1215).
