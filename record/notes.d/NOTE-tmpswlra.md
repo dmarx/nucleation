@@ -46,7 +46,7 @@ summary: >-
 ## Contribution
 
 It is the full account of the trial the record holds through its journal
-paper (LIT-1223, NOTE-1358): the same 250 participants, the same
+paper ([LIT-1223](../literature.d/LIT-1223.md), [NOTE-1358](NOTE-1358.md)): the same 250 participants, the same
 primary result and the same harms, with the health economics and the
 mechanism analysis that the journal paper leaves out. What it adds is a
 design. Within the RO DBT arm participants were randomised a second time,
@@ -166,7 +166,7 @@ elements, rather than additions with weak effects on the mediators.
 
 ## Method
 
-As NOTE-1358 describes for the journal paper: 15 : 8 adaptive
+As [NOTE-1358](NOTE-1358.md) describes for the journal paper: 15 : 8 adaptive
 randomisation by the Swansea Trials Unit stratified by onset age, baseline
 HRSD and cluster A or C personality disorder; masked assessors at 7, 12
 and 18 months; three-level mixed models fitted in R. The mechanism
@@ -188,21 +188,21 @@ instruments, with bias-corrected bootstrap intervals.
 
 ## Connections
 
-The journal paper, LIT-1223, is the short version, published seven months
+The journal paper, [LIT-1223](../literature.d/LIT-1223.md), is the short version, published seven months
 later; its efficacy numbers are this report's, its process-measure
 intervals are not, and it drops the mechanism chapter. The treatment is
 Lynch's, from his 2018 manual (Context Press, not registered); the
-record's DOI'd statement of it is LIT-1205. The design follows Emsley,
+record's DOI'd statement of it is [LIT-1205](../literature.d/LIT-1205.md). The design follows Emsley,
 Dunn and White's framework for mediation with randomised instruments in
 trials of complex interventions (reference 130, not registered). The
-standard it would have had to meet is THEORY-053's.
+standard it would have had to meet is [THEORY-053](../theory.d/THEORY-053.md)'s.
 
 ## Bearing on the record
 
-- **QUESTION-292 and THEORY-053.** The triage expected the
+- **[QUESTION-292](../questions.d/QUESTION-292.md) and [THEORY-053](../theory.d/THEORY-053.md).** The triage expected the
   report's causal mechanism analyses to be the kind of evidence
-  THEORY-053 asks for. They are the right kind in intent and fail it in
-  fact. THEORY-053 counts change in the theorised process that is
+  [THEORY-053](../theory.d/THEORY-053.md) asks for. They are the right kind in intent and fail it in
+  fact. [THEORY-053](../theory.d/THEORY-053.md) counts change in the theorised process that is
   specific to it and comes before the outcome. Here the mediators are
   sessions attended, alliance and DBT skills, of which alliance and
   exposure are common factors and not RO DBT's theorised process; the
@@ -212,12 +212,12 @@ standard it would have had to meet is THEORY-053's.
   not established; and the planned analyses of temporal order were not
   reported. The instrumented analysis, the part designed to handle
   confounding, failed on weak instruments. So the trial meets neither leg
-  of THEORY-053's standard. It is a worked example of the account's
+  of [THEORY-053](../theory.d/THEORY-053.md)'s standard. It is a worked example of the account's
   point that mechanism research has mostly failed on temporal precedence,
   and of Hofmann and Hayes's case of a model left untested. It does not
   disconfirm RO DBT's theory either: the processes did move, and whether
   the outcome moved through them was not estimated.
-- **QUESTION-045.** Its note of 2026-10-29 says the BJP paper gives
+- **[QUESTION-045](../questions.d/QUESTION-045.md).** Its note of 2026-10-29 says the BJP paper gives
   nothing on mechanism. The report gives an attempt and no result, so the
   note's conclusion stands, with a refinement: the mediators were
   analysed here, and the analysis did not identify them. Overcontrol was
@@ -225,25 +225,25 @@ standard it would have had to meet is THEORY-053's.
   personality-disorder diagnosis (78% had at least one Axis-II disorder),
   used as a stratifier, and its interaction with treatment is reported
   only as not significant. That is the nearest the trial comes to
-  QUESTION-045's question, and it is no evidence either way.
-- **LIT-1223 / NOTE-1358, the P = 0.004.** The BJP paper's "one-tailed
+  [QUESTION-045](../questions.d/QUESTION-045.md)'s question, and it is no evidence either way.
+- **[LIT-1223](../literature.d/LIT-1223.md) / [NOTE-1358](NOTE-1358.md), the P = 0.004.** The BJP paper's "one-tailed
   P = 0.004" for the eight serious adverse reactions is not in this
   report, which gives "p < 0.01". Neither reproduces. With eight
   reactions in eight different participants, all in the 162 RO DBT
   participants and none in the 88 controls, the one-tailed Fisher P is
-  C(162,8)/C(250,8) = 0.029, as NOTE-1358 found; with fewer than eight
+  C(162,8)/C(250,8) = 0.029, as [NOTE-1358](NOTE-1358.md) found; with fewer than eight
   participants affected it is larger. Neither document says how many
   participants had the eight reactions. The test is still under 0.05 on
   either count, so the conclusion that the imbalance is significant
   survives; the stated strength does not.
-- **NOTE-1358's "throughout" error.** NOTE-1358 calls the BJP abstract's
+- **[NOTE-1358](NOTE-1358.md)'s "throughout" error.** [NOTE-1358](NOTE-1358.md) calls the BJP abstract's
   "throughout" for the flexibility and coping gains an error against its
   Table 1. This report's Table 8 supports "throughout" (p = 0.010 and
   0.036 at 7 months) with the same differences and narrower intervals.
   So the conflict is between two analyses of the same data, not an
   abstract misreporting its own table; the BJP paper's analysis is the
   more conservative and is the one its abstract should have matched.
-- **CLAIM-349.** Its note of 2026-10-29 says the change that persisted
+- **[CLAIM-349](../claims.d/CLAIM-349.md).** Its note of 2026-10-29 says the change that persisted
   was on inflexibility and emotional coping while the change on
   depression did not. The report agrees, and on its own analysis those
   changes were significant from 7 months. It adds nothing that tests the
@@ -261,7 +261,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 - **Unequal co-treatment and unequal harm reporting**, as in the journal
   paper; the DMEC's reassurance predates the end of recruitment (April
   2015) and all 18-month follow-up.
-- **Developer and financial interest**, as NOTE-1358 records: the
+- **Developer and financial interest**, as [NOTE-1358](NOTE-1358.md) records: the
   developer leads the report and trained and supervised the therapists.
 - **Errors and slips found.**
   - SAEs "were reported for 25 individual participants in the RO DBT

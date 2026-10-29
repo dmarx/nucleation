@@ -74,10 +74,10 @@ fetched on 2026-10-29 (see the status note).
 
 ## Why this is here
 
-The triage of 2026-10-29 put it in the File tier for CLAIM-359 and
-CLAIM-349. Edmondson 1999 (LIT-1220, NOTE-1404) is read: across 51 teams
+The triage of 2026-10-29 put it in the File tier for [CLAIM-359](../claims.d/CLAIM-359.md) and
+[CLAIM-349](../claims.d/CLAIM-349.md). Edmondson 1999 ([LIT-1220](LIT-1220.md), [NOTE-1404](../notes.d/NOTE-1404.md)) is read: across 51 teams
 in one company, psychological safety went with learning behaviour, and
-it says nothing about controls or adversarial members. CLAIM-359's note
+it says nothing about controls or adversarial members. [CLAIM-359](../claims.d/CLAIM-359.md)'s note
 says the step from controls that treat dissent as suspect to less
 learning is the claim's own inference. This earlier paper is, by the
 triage's account and by later citations of it, where Edmondson found
@@ -86,4 +86,4 @@ climate made errors safe to report, so that a punitive climate shows up
 as fewer reported errors rather than fewer errors. That is unverified
 here. If the reading bears it out, it is the nearest observation the
 record can reach of control suppressing disclosure, the effect A42's
-translation in CLAIM-349 predicts ("less disclosure of near misses").
+translation in [CLAIM-349](../claims.d/CLAIM-349.md) predicts ("less disclosure of near misses").

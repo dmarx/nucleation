@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmp0q96y) in full, from the publisher's PDF as
+  read 2026-10-29 ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)) in full, from the publisher's PDF as
   deposited in Caltech's CaltechAUTHORS repository; worth reading as the
   published case that effective-information maximization, with a uniform
   intervention over macro states realized as a uniform average over their
@@ -81,13 +81,13 @@ Eberhardt, F. & Lee, L.-L. (2022). Causal emergence: when distortions in
 a map obscure the territory. *Philosophies* 7(2), 30.
 doi:10.3390/philosophies7020030
 
-Read in full on 2026-10-29 (NOTE-tmp0q96y).
+Read in full on 2026-10-29 ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)).
 
 ## Why this is here
 
 The triage of 2026-10-29 (curation entry of 20:59) filed it for
-QUESTION-204, for THEORY-787's "in trouble if" clause and for
-QUESTION-115's admissible macro-interventions (A21). The record held the
-causal-emergence defenders' replies to this paper (CE 2.0, NOTE-1387;
-Zhang et al., NOTE-1399) and not the paper. Read with Comolatti and Hoel
-2022 (LIT-tmpzfaqi), it bears on whether THEORY-787 can be promoted.
+[QUESTION-204](../questions.d/QUESTION-204.md), for [THEORY-787](../theory.d/THEORY-787.md)'s "in trouble if" clause and for
+[QUESTION-115](../questions.d/QUESTION-115.md)'s admissible macro-interventions (A21). The record held the
+causal-emergence defenders' replies to this paper (CE 2.0, [NOTE-1387](../notes.d/NOTE-1387.md);
+Zhang et al., [NOTE-1399](../notes.d/NOTE-1399.md)) and not the paper. Read with Comolatti and Hoel
+2022 ([LIT-tmpzfaqi](LIT-tmpzfaqi.md)), it bears on whether [THEORY-787](../theory.d/THEORY-787.md) can be promoted.

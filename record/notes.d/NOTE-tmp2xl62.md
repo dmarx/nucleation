@@ -112,16 +112,16 @@ rejoins, and one that joins never leaves.
 
 It belongs to Kaneko's globally coupled maps (Physica D 1990, 1991) and
 extends Ito and Kaneko's earlier neural-network model (Neural Networks
-2000). Gross and Blasius (LIT-1139, NOTE-1394) review it as their example
+2000). Gross and Blasius ([LIT-1139](../literature.d/LIT-1139.md), [NOTE-1394](NOTE-1394.md)) review it as their example
 of spontaneous "division of labour", and set it against Zhou and Kurths's
 opposite rule (strengthen links between different states), which
-homogenizes the network. Holme and Newman (LIT-1128) is a different
+homogenizes the network. Holme and Newman ([LIT-1128](../literature.d/LIT-1128.md)) is a different
 mechanism: rewiring toward agreement, with no weights and no influence
 asymmetry.
 
 ## Bearing on the record
 
-- **QUESTION-117.** The triage expected the like-and-like predecessor to
+- **[QUESTION-117](../questions.d/QUESTION-117.md).** The triage expected the like-and-like predecessor to
   beat. The reading confirms it and makes it sharper. The model is
   closer to the record's endorsement circuit than Gross and Blasius's
   summary suggests. Each unit allocates a fixed budget of attention
@@ -132,22 +132,22 @@ asymmetry.
   no role primitive, a persistent asymmetry of influence (a core of about
   15 attended by most, attending almost only to itself) with link
   turnover, and an ablation saying the coupling of state to allocation is
-  needed. So an answer to QUESTION-117 that offers persistent authority
+  needed. So an answer to [QUESTION-117](../questions.d/QUESTION-117.md) that offers persistent authority
   classes, or their need for the state–authority coupling, as new is
   matched by this model. What it cannot express is what the question's
   circuit adds: states with content that can be right or wrong, any
   evaluation of outcomes, and authority indexed by role or issue. The
   outcome to beat is "concentration without regard to accuracy". That is
-  also persuasion bias's (LIT-1134) outcome, and this model gets it with
+  also persuasion bias's ([LIT-1134](../literature.d/LIT-1134.md)) outcome, and this model gets it with
   moving weights and hysteresis, which persuasion bias lacks.
-- **QUESTION-083.** It is a population of identical processes, under one
+- **[QUESTION-083](../questions.d/QUESTION-083.md).** It is a population of identical processes, under one
   update rule with no governance primitive, in which differentiated and
-  durable influence forms. That is the part QUESTION-295 (Answered) already
+  durable influence forms. That is the part [QUESTION-295](../questions.d/QUESTION-295.md) (Answered) already
   holds. It shows nothing on niches or mutual regulation. The periphery
   has almost no influence on the core (2 of about 1,344 possible
   links), so the regulation is one-way, and nothing in the model is a
   competence that shows in rare contexts.
-- **QUESTION-132.** The split looks like the question's third outcome,
+- **[QUESTION-132](../questions.d/QUESTION-132.md).** The split looks like the question's third outcome,
   entrenched asymmetry, more than stabilizing coexistence: membership is
   absorbing and the core does not depend on the periphery. But the paper
   measures no recovery when rare, no perturbation and no removal of a
@@ -155,7 +155,7 @@ asymmetry.
   not evidence for one outcome. Which outcome it is could be tested
   cheaply by removing core units and seeing whether the periphery
   refills the core.
-- **NOTE-1394's open question.** One answer: Hebbian, similarity-based
+- **[NOTE-1394](NOTE-1394.md)'s open question.** One answer: Hebbian, similarity-based
   reinforcement with normalization of incoming weights produces
   persistent role classes in a directed, weighted network. The opposite
   rule (Zhou and Kurths) does not, per the review. Gross and Blasius's
@@ -163,7 +163,7 @@ asymmetry.
   turnover. It leaves out that the classes are defined by outgoing
   weight, that incoming weight is fixed at 1 by construction, and the
   coupling ablation.
-- **CLAIM-279 (roles are regimes, not kinds).** A small case for it:
+- **[CLAIM-279](../claims.d/CLAIM-279.md) (roles are regimes, not kinds).** A small case for it:
   the same units under the same rule end in two classes, set by the
   dynamics and not by anything built into the units. Here the regime does
   not dissolve once formed, which the claim's word "regime" may not

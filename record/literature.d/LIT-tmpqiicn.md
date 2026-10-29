@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmpswlra) in full, from the NIHR Journals
+  read 2026-10-29 ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)) in full, from the NIHR Journals
   Library's own PDF (open access); worth reading as the full report of
   the RefraMED trial and the only place its mechanism analysis is given:
   a trial that randomised RO DBT participants to three non-therapeutic
@@ -89,19 +89,19 @@ S. C., Shearer, J., Stanton, M., Swales, M., Watkins, A. & Russell, I. T.
 depression: the RefraMED RCT. *Efficacy and Mechanism Evaluation*, 5(7).
 NIHR Journals Library.
 
-Read in full on 2026-10-29 (NOTE-tmpswlra).
+Read in full on 2026-10-29 ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)).
 
 ## Why this is here
 
 The triage of 2026-10-29 put it in the File tier. The record holds the
-trial through its journal paper, LIT-1223, read in NOTE-1358, which
+trial through its journal paper, [LIT-1223](LIT-1223.md), read in [NOTE-1358](../notes.d/NOTE-1358.md), which
 found that the title's mechanisms are not analysed and that the paper
 refers to this report for adverse-event monitoring. Two entries wait on
-it. QUESTION-045 asks whether a disorder that outlasts its trigger is a
+it. [QUESTION-045](../questions.d/QUESTION-045.md) asks whether a disorder that outlasts its trigger is a
 protective lock-in, and its note of 2026-10-29 found nothing on
-mechanism in the BJP paper. QUESTION-292, answered by THEORY-053, says
+mechanism in the BJP paper. [QUESTION-292](../questions.d/QUESTION-292.md), answered by [THEORY-053](../theory.d/THEORY-053.md), says
 what would count: change in the theorised process that is specific to
 it and comes before the outcome. This report is where the trial's
 causal mechanism analysis is given, and where its adverse-event figures
-can be checked against the P = 0.004 that NOTE-1358 could not
+can be checked against the P = 0.004 that [NOTE-1358](../notes.d/NOTE-1358.md) could not
 reproduce.

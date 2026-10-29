@@ -31,7 +31,7 @@ summary: >-
   deterministic NOT gate, under three intervention distributions; the
   system-level EI under the stationary distribution shows none, as data
   processing requires. The model is hand-built for a deterministic macro,
-  so it is the kind of result THEORY-787's promote_when says cannot
+  so it is the kind of result [THEORY-787](../theory.d/THEORY-787.md)'s promote_when says cannot
   settle it.
 ---
 <!-- inactive-ok-file: THEORY-787 — Proposed; the causal thesis this reading bears on, cited as open -->
@@ -100,7 +100,7 @@ macroscale.
   distribution maps to the uniform macro one and the stationary micro
   distribution to the stationary macro one. So these are common
   distributions, and the system-level EI cannot exceed the micro's
-  (THEORY-tmphfpe7). Computed: micro EI 1.043, 1.783 and 3.326 bits at
+  ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)). Computed: micro EI 1.043, 1.783 and 3.326 bits at
   determinism 0.1, 0.5 and 0.9 with injective main effects, and exactly
   1.000 with fully degenerate ones, against the macro's 1 bit, under
   both distributions. In the 13/3 model the paper's uniform macro
@@ -132,35 +132,35 @@ macroscale.
 
 ## Connections
 
-It extends Hoel, Albantakis and Tononi 2013 (LIT-1038, THEORY-222) from
+It extends Hoel, Albantakis and Tononi 2013 ([LIT-1038](../literature.d/LIT-1038.md), [THEORY-222](../theory.d/THEORY-222.md)) from
 EI to other measures, and cites Hoel 2017 (not registered) as the source
 of the observational-distribution concession. It answers Aaronson's and
 Dewhurst's criticisms. It does not cite Eberhardt and Lee
-(LIT-tmpr2bnp), which appeared a month later. It cites Varley and Hoel
-(LIT-027) for synergistic information growing at macroscales, and Rosas
-et al. (LIT-1244) and Mediano et al. (LIT-025) as related approaches. The
+([LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md)), which appeared a month later. It cites Varley and Hoel
+([LIT-027](../literature.d/LIT-027.md)) for synergistic information growing at macroscales, and Rosas
+et al. ([LIT-1244](../literature.d/LIT-1244.md)) and Mediano et al. ([LIT-025](../literature.d/LIT-025.md)) as related approaches. The
 measures' catalogue follows Fitelson and Hitchcock (not registered). CE
-2.0 (LIT-1136, NOTE-1387) later builds on the same primitives.
+2.0 ([LIT-1136](../literature.d/LIT-1136.md), [NOTE-1387](NOTE-1387.md)) later builds on the same primitives.
 
 ## Bearing on the record
 
-- **THEORY-787's promote_when.** The triage expected that the paper would
+- **[THEORY-787](../theory.d/THEORY-787.md)'s promote_when.** The triage expected that the paper would
   either meet the promote_when or show itself to be more toy systems. It
   is the second. Its only system is a bipartite chain built so that its
   macro is a deterministic NOT gate "no matter the underlying noise".
   That is a hand-built toy with positive CE, which the promote_when says
   cannot settle it, and nothing in it is an independent interventionist
   test of which level the effects track.
-- **THEORY-787's "in trouble if" clause and QUESTION-204, first half.**
+- **[THEORY-787](../theory.d/THEORY-787.md)'s "in trouble if" clause and [QUESTION-204](../questions.d/QUESTION-204.md), first half.**
   The paper concedes the decisive case without naming it. Under the
   system's own stationary distribution, used at both levels, EI shows no
   emergence, "This was known". The record's derivation shows the
   concession is general: under any one distribution over micro states,
-  macro EI ≤ micro EI (THEORY-tmphfpe7). The paper's reply, that other
+  macro EI ≤ micro EI ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)). The paper's reply, that other
   measures and individual transitions still show emergence, changes the
   measure, not the distribution. Those measures are pointwise or
   normalized by log₂ n, and nothing bounds them by data processing. So
-  the reply is not evidence for EI's level, which is what THEORY-787
+  the reply is not evidence for EI's level, which is what [THEORY-787](../theory.d/THEORY-787.md)
   asserts.
 - **A sentence that cannot be right as written.** In the symmetric model,
   system-level EI cannot show emergence under the maximum-entropy
@@ -170,7 +170,7 @@ measures' catalogue follows Fitelson and Hitchcock (not registered). CE
   distribution while taking P(e | C) from the uniform one, or from the
   13/3 column, where the macro distribution is changed. The figure was
   not read for numbers, so which one it is stays unsettled.
-- **THEORY-222.** Nothing to change. The arithmetic it holds is the
+- **[THEORY-222](../theory.d/THEORY-222.md).** Nothing to change. The arithmetic it holds is the
   arithmetic this paper extends.
 
 No instruction for machine-learning practice; nothing for the anthology.

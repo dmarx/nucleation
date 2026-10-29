@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmpcmbzs) in full, from arXiv's v1; worth reading
+  read 2026-10-29 ([NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md)) in full, from arXiv's v1; worth reading
   as the defenders' survey that rewrites a dozen measures of causal
   strength (Eells, Suppes, Cheng, Lewis, Pearl's PN/PS/PNS, Galton,
   bit-flip, effect information, EI) as functions of sufficiency P(e | c)
@@ -18,7 +18,7 @@ status_note: >-
   prove" in the abstract covers rewritings of definitions, not a theorem
   that emergence must occur; and that the per-transition and normalized
   measures that do show emergence are not bounded by data processing.
-  It does not meet THEORY-787's promote_when.
+  It does not meet [THEORY-787](../theory.d/THEORY-787.md)'s promote_when.
 title: 'Causal emergence is widespread across measures of causation'
 version: 2
 history:
@@ -90,14 +90,14 @@ summary: >-
 Comolatti, R. & Hoel, E. (2022). Causal emergence is widespread across
 measures of causation. arXiv:2202.01854.
 
-Read in full on 2026-10-29 (NOTE-tmpcmbzs).
+Read in full on 2026-10-29 ([NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md)).
 
 ## Why this is here
 
 The triage of 2026-10-29 (curation entry of 20:59) filed it for
-QUESTION-204 and THEORY-787's promote_when, which is met by a result that
+[QUESTION-204](../questions.d/QUESTION-204.md) and [THEORY-787](../theory.d/THEORY-787.md)'s promote_when, which is met by a result that
 the macro advantage survives an intervention distribution other than the
 uniform one imposed separately at each level, on systems not built for
 it. This is the paper Hoel offers as that result. Read with Eberhardt and
-Lee 2022 (LIT-tmpr2bnp), it does not meet the promote_when
-(NOTE-tmpcmbzs, THEORY-tmphfpe7).
+Lee 2022 ([LIT-tmpr2bnp](LIT-tmpr2bnp.md)), it does not meet the promote_when
+([NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md), [THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)).
