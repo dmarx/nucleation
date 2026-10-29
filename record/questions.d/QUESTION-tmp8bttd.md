@@ -198,5 +198,33 @@ the question's labels and shift weight among the routes.
   direction is unknown.
 
 Still unread: Lehrner and Yehuda's paper joining the biology to cultural
-trauma ([LIT-tmpzfk28](../literature.d/LIT-tmpzfk28.md)), and Danieli's handbook ([LIT-tmp881f5](../literature.d/LIT-tmp881f5.md)), for which no
-work was read in place.
+trauma (LIT-tmpzfk28). Danieli's handbook (LIT-tmp881f5) is read at second
+hand in the next note.
+
+## Note of 2026-10-29: Danieli's framework, read at second hand
+
+Danieli, Norris and Engdahl (NOTE-tmptxas9), read in place of the handbook,
+test its framework on 422 adult children of survivors.
+
+- **The parenting route runs through the parent's style.** Wartime
+  internment reached the child only through the parent's victim style
+  (stuck in the loss, overprotective, volatile), with small indirect
+  effects (.05 to .06). The post-war family weighed more than the war.
+- **Silence is not the main channel.** Numb style, which includes the
+  family's "conspiracy of silence", had an effect only through mothers
+  and dropped out of the final model. With Fridman's thesis, that is two
+  works that do not put silence first.
+- **No comparison group.** The paper locates the route among survivors'
+  children without showing harm against Fridman's null (NOTE-tmpi101n).
+  The two results are compatible.
+- **The ancestor and the injury come apart.** Children who counted their
+  murdered grandparents as their own reported fewer impacts, and this
+  item had the largest total effect (.21). Meanwhile "obsession with the
+  Holocaust" is scored as part of the harm. Taking in the ancestor went
+  with less harm; taking in the injury is part of the harm. The question's
+  phrase "an ancestor's injury becomes part of the descendant's self" covers
+  both, and they should be kept apart.
+- **A group's story as buffer, again.** Settling in Israel went with
+  milder impacts (total effect −.16). Reading that as the nation's story
+  protecting the family is an inference, the third time the record has
+  met it (Costa et al., Fridman).
