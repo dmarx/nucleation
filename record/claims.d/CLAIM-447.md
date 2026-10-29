@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp9ry8f
 title: 'Model-based wanting is a pursuit process''s ranking of the futures it predicts under candidate interventions, P(S | do(a)) against P(S | do(a₀)), while cue-triggered wanting is learned salience that need not compute those futures; a process''s causal model, its wanting and its practical efficacy are separable, so learning to want differently, learning that a want will not pay, and learning not to act on it are three different changes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The eleventh status review (ADR-057, ADR-058) added a dated note
+    saying what holds it back. THEORY-893 moved from grounds to
+    corroborated_by: the sentence it is cited for, pursuit that persists
+    against the person's own prediction of the consequences, is
+    THEORY-895's result. The claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +40,7 @@ complements:
 grounds:
 - THEORY-062
 - THEORY-895
+corroborated_by:
 - THEORY-893
 summary: >-
   The owner's, 2026-10-23, asking what the record's account of wanting is:
@@ -122,3 +132,12 @@ without changing the concern behind it.
 - That the cached level descends from the model-based one.
 - How a pursuit process is individuated apart from the dissociations it is
   invoked to explain. That is still [TERM-072](../terms.d/TERM-072.md)'s open problem.
+
+## Note of 2026-10-29: what holds it back
+
+It rests on CLAIM-437, Proposed, and grounds its two levels in
+THEORY-062's arbitration of model-based and model-free control and in
+incentive sensitization (THEORY-895), both Proposed. No reading the record
+holds dissociates cue-triggered from model-based wanting by a manipulation
+that leaves desirability and cue associations fixed, which its first two
+defeaters turn on.

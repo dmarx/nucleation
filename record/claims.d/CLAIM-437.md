@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8ci5a
 title: '''Wanting'' and ''liking'' are saliences relative to different, overlapping processes, pursuit and consummation, each ranking states by their bearing on its own concerns; valence is then relative to a perspective, every perspective in the negotiation has its own, the system''s valence is that of the perspective whose ordering is the negotiation''s potential, and ambivalence is strong saliences of opposite sign with no potential absorbing them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -13,6 +13,11 @@ history:
     makes wanting and liking separate operational quantities in a
     stipulated synthetic model. It has no pursuit or consummatory process,
     so it neither meets nor defeats the claim. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The eleventh status review (ADR-057) added a dated note saying what
+    holds it back. The claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -186,3 +191,13 @@ no perspectives' valences, no prevailing ordering and no ambivalence. Its
 relations are stipulated and are not evidence about incentive
 sensitization ([THEORY-895](../theory.d/THEORY-895.md)). It neither meets nor defeats the claim. The
 claim is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+It rests on CLAIM-440, which is held by CLAIM-441's unanswered flow case
+and by clause 3's open sign (CLAIM-468). Its grounds THEORY-893 and
+THEORY-895 hold the dissociation and sensitization, which its overlap
+clause and its reading of the relapsing addict use as facts, only through
+their authors' reviews. Its second defeater, pursuit and consummation
+individuated apart from the dissociations they explain, is unanswered:
+TERM-072 takes perspectives as given.

@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp5lpdu
 title: 'The potential account of valence is an account of goal-conduciveness valence, not of intrinsic pleasantness: on the component process model''s separation of levels of valence, the ordering that prevails ranks states by need satisfaction and goal attainment, the potential''s strength tracks ''wanting'' and its sign tracks goal conduciveness, while ''liking'' is a separate appraisal with its own ordering; so the wanting–liking dissociation is two valence systems coming apart, as that separation predicts, and the objection that the account is not about pleasure is conceded rather than answered'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The eleventh status review (ADR-057, ADR-059). The body said CLAIM-438
+    "showed that the potential CLAIM-440 defines tracks 'wanting'" and "is
+    Active as a conceded objection"; CLAIM-438 has been Proposed since the
+    owner's ruling of 2026-10-27, and the concession is carried by
+    CLAIM-440's revision. The two sentences now say so, and a dated note
+    says what holds it back. The claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,7 +63,7 @@ summary: >-
 
 ## The claim
 
-[CLAIM-438](CLAIM-438.md) showed that the potential [CLAIM-440](CLAIM-440.md) defines tracks
+[CLAIM-438](CLAIM-438.md) objects that the potential [CLAIM-440](CLAIM-440.md) defines tracks
 'wanting', not 'liking' ([THEORY-893](../theory.d/THEORY-893.md)). The component process model
 already separates the two, and the separation places the record's account
 on one side of it.
@@ -92,8 +102,8 @@ clause, read as hedonic, does not break it read as goal conduciveness.
 
 **What is conceded.** The account is not an account of pleasure.
 "Hedonic" in [CLAIM-440](CLAIM-440.md) and [TERM-076](../terms.d/TERM-076.md) now reads
-"goal-conduciveness": the owner made the revision on 2026-10-23, and
-[CLAIM-438](CLAIM-438.md) is Active as a conceded objection.
+"goal-conduciveness": the owner made the revision on 2026-10-23, conceding
+[CLAIM-438](CLAIM-438.md), which is Proposed because its evidence is (ADR-059).
 
 ## What it does not say
 
@@ -152,3 +162,11 @@ prevailing one's. The asymmetry of the kind clause goes the same way:
 both saliences rank states by their bearing on their own process's
 concerns.
 
+## Note of 2026-10-29: what holds it back
+
+Its "so" clause asserts the wanting–liking dissociation, which its one
+Proposed ground, THEORY-893, holds only through Berridge and Kringelbach's
+review. Its third defeater is untested: whether the relapsing addict's
+goal-conduciveness appraisal, measured apart from choice, is positive at
+the moment of taking, which NOTE-1109 says the paper does not report; the
+record's only answer is CLAIM-437's relativized sign, which is Proposed.
