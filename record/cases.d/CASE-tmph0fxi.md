@@ -40,10 +40,17 @@ over unchanged.
 
 **Items.** Utterances whose pragmatic effect can be separated from their
 content: requests, promises against predictions, honorific and T/V
-choices, implicatures, and pragmatic explicitations of the kind PETra
-annotates ([LIT-tmp1n8bp](../literature.d/LIT-tmp1n8bp.md)). VakyArth's items ([LIT-tmpog7aw](../literature.d/LIT-tmpog7aw.md)) pair translation
-with pragmatic inference on the same material, for its four Indic
-languages.
+choices, implicatures, and pragmatic explicitations. Neither registered
+corpus supplies them ready-made.
+- PETra (LIT-tmp1n8bp) has one English→X route per item. Its additions supply
+  background knowledge and do not change act or footing. Three quarters of
+  its pairs were found by a classifier, and it reports no agreement between
+  annotators.
+- VakyArth's translation items and its inference items are different
+  material, with one overlap in its release (LIT-tmpog7aw).
+
+Items have to be written for this design, with PETra's categories as one
+source of candidates.
 
 **Routes.** For each source item in language A, a direct translation into
 C and a relay through B, by translators assigned independently and
@@ -53,19 +60,19 @@ working to stated briefs.
 
 | readout | what it measures |
 |---|---|
-| static preservation | proposition, act, stance, politeness, as [CASE-055](CASE-055.md) rates them |
-| dynamic preservation | response to a later framing or continuation ([CLAIM-202](../claims.d/CLAIM-202.md)) |
+| static preservation | proposition, act, stance, politeness, as CASE-055 rates them |
+| dynamic preservation | response to a later framing or continuation (CLAIM-202) |
 | path discrepancy | distance between the direct and relay routes' target response distributions |
-| task loss | [CLAIM-259](../claims.d/CLAIM-259.md)'s directed decision term on declared tasks, per route |
-| change of cover | target questions the source leaves open, asked of source readers too ([CLAIM-257](../claims.d/CLAIM-257.md)) |
+| task loss | CLAIM-259's directed decision term on declared tasks, per route |
+| change of cover | target questions the source leaves open, asked of source readers too (CLAIM-257) |
 
 **Correspondence arm.** Build each community's response matrix R(u, q):
 utterances by pragmatic probes, from its own readers. Fit
 correspondences on training items by: orthogonal Procrustes on embedded
 responses; unrestricted linear maps; stochastic kernels; Gromov–Wasserstein
-([LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)); fused GW with independently validated anchor items, varying
-the weight on structure ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)); and co-optimal transport, which
-matches utterances and probes jointly ([LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md)). Score each on held-out
+(LIT-tmpprsxm); fused GW with independently validated anchor items, varying
+the weight on structure (LIT-tmpjs7kp); and co-optimal transport, which
+matches utterances and probes jointly (LIT-tmpbnbe3). Score each on held-out
 items, translators and, where possible, situations. Fit each edge
 independently, so that the composed A→B→C map can disagree with the A→C
 map.
@@ -74,7 +81,7 @@ map.
 
 - **A degenerate translator** that renders every item as one generic
   expression. It should reach low path discrepancy and fail the task
-  readouts ([CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md)).
+  readouts (CLAIM-tmpgwud2).
 - **A shared-provenance pair**: two routes through the same intermediate
   translation or translator, to estimate how much agreement between routes
   shared provenance alone explains.
@@ -82,17 +89,21 @@ map.
   proposition kept, to test that the readouts see a change of effect and
   not only of wording.
 - **Baselines** a transport account must beat: static pragmatic
-  similarity, xCOMET ([LIT-tmplu4ga](../literature.d/LIT-tmplu4ga.md)), and a supervised predictor of act
-  labels. [CASE-071](CASE-071.md) shows why the metric is a baseline, not a criterion.
+  similarity, xCOMET (LIT-tmplu4ga), and a supervised predictor of act
+  labels. CASE-071 shows why the metric is a baseline, not a criterion.
 
 ## What would be measured, and the main threat
 
 The main test is incremental prediction of held-out receiver choices from
 path discrepancy, dynamic preservation and the fitted correspondences,
 over the static profile and the baselines. The main threat is
-measurement. PragSim's judges agreed at a mean correlation of 0.45
-([LIT-tmphdoda](../literature.d/LIT-tmphdoda.md)), so Stage 0's reliability targets must be met before any
-transport readout is interpreted. A second threat is identification. GW
+measurement. Single judges of pragmatic similarity agreed at a mean
+pairwise correlation of 0.45 in Ward and Marco's first session, within one
+language and with the judges conferring (LIT-tmphdoda). A nine-judge mean at
+that level would have a reliability near 0.88 by Spearman–Brown. Single
+politeness raters in TyDiP agreed at about 0.46 (LIT-tmp2g5v4). So the
+criterion must be a panel mean, and Stage 0's reliability targets must be
+met, across languages, before any transport readout is interpreted. A second threat is identification. GW
 and co-optimal transport can swap symmetric categories, or swap utterances
 and probes together, at equal cost, so the anchors must be validated
 independently of the fit.
