@@ -1,30 +1,28 @@
 ---
 number: 910
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpf8za8
-promote_when: >-
-  Two results. First, a simulation: an uncertainty-sensitive
-  temporal-difference agent in an aversive Markov decision process, with
-  noise misattributed to volatility or estimation uncertainty, shows
-  avoidance that persists because the avoided state's uncertainty is never
-  reduced, and stops when that uncertainty is reduced by forced sampling
-  with the threat estimate held fixed. Second, people: in an instrumental
-  avoidance task, measured uncertainty-learning parameters predict how much
-  people avoid, and a manipulation that lowers uncertainty about the
-  avoided option without changing its expected threat reduces avoidance.
-  It is refuted if avoidance in such tasks tracks the expected threat and
-  not the uncertainty, or if reducing uncertainty with threat fixed leaves
-  avoidance unchanged. Consistency with clinical observations about
-  exposure cannot settle it.
 title: "Brown, Price and Dombrovski propose, without a model run or data, that in aversive environments avoiding uncertain states keeps their uncertainty high and so perpetuates avoidance, that anxiety strengthens this loop by misreading noise as change, and that exposure works by reducing the uncertainty rather than an excess of learned threat"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1120). The title claims no
+    more than the source showed and is unchanged. The promote_when moves
+    unchanged to QUESTION-tmp8bdml, as THEORY-285's did to QUESTION-303.
+    CLAIM-446 now lists this reading under corroborated_by, not grounds
+    (ADR-058): the claim's argument does not rest on it.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
 date: '2026-10-24'
 source:
 - LIT-1479
+bears_on:
+- QUESTION-tmp8bdml
 summary: >-
   Brown, Price & Dombrovski (2023; preprint 2022), [LIT-1479](../literature.d/LIT-1479.md), read in
   full in [NOTE-1120](../notes.d/NOTE-1120.md). A framework stated in words and schematic
@@ -32,10 +30,10 @@ summary: >-
   It runs through an uncertainty estimate, a belief, with no authority or
   control variable. For fear-based disorders; by the authors' statement it
   does not explain exposure in GAD.
-supports:
+corroborates:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-285 THEORY-897 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
 # THEORY-910: Brown, Price and Dombrovski propose, without a model run or data, that in aversive environments avoiding uncertain states keeps their uncertainty high and so perpetuates avoidance, that anxiety strengthens this loop by misreading noise as change, and that exposure works by reducing the uncertainty rather than an excess of learned threat
 

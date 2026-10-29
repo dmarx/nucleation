@@ -1,28 +1,33 @@
 ---
 number: 901
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp541sg
-promote_when: >-
-  The version of record read and found to rate the same phenomena; and a
-  study, preferably in people with an anxiety disorder as well as healthy
-  controls, that varies how effective an available avoidance response is
-  and measures threat expectancy trial by trial, showing that more
-  effective avoidance both lasts longer and leaves threat expectancy less
-  corrected, with the difference carried by the number of unavoided
-  disconfirming trials. It is refuted if, with effectiveness varied and
-  response cost and signalling held fixed, persistence does not depend on
-  effectiveness, or if threat expectancy falls as fast with avoidance
-  available as without. Further healthy-volunteer studies with signalled,
-  instructed button responses cannot settle the clinical reading.
-title: "In laboratory avoidance learning in healthy humans, an avoidance response that remains available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it; the more effective and the cheaper the response, the slower it extinguishes"
-version: 1
+title: 'As Mancinelli and Bach''s systematic review of avoidance learning in healthy humans reports it, rating both A, an avoidance response left available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it (nine studies); and less effective or costlier responses extinguish faster (six studies, one exception)'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1134). Narrowed: the findings
+    are attributed to the review, whose primary studies were not read,
+    with its ratings and counts. The old title: In laboratory avoidance
+    learning in healthy humans, an avoidance response that remains
+    available during extinction persists, in some participants for
+    hundreds of unpunished trials, and keeps expectancy of the aversive
+    outcome higher than in people denied it; the more effective and the
+    cheaper the response, the slower it extinguishes. The promote_when
+    moves unchanged to QUESTION-tmpcs973, as THEORY-285's did to
+    QUESTION-303. CLAIM-446 keeps it in grounds.
 tags:
 - learning-and-conditioning
 - psychopathology-and-treatment
 date: '2026-10-24'
 source:
 - LIT-1477
+bears_on:
+- QUESTION-tmpcs973
 summary: >-
   Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-1477](../literature.d/LIT-1477.md), read in full
   from the PsyArXiv preprint in [NOTE-1134](../notes.d/NOTE-1134.md). Rated A ("protection from
@@ -34,9 +39,9 @@ summary: >-
 supports:
 - CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-285 THEORY-910 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-901: In laboratory avoidance learning in healthy humans, an avoidance response that remains available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it; the more effective and the cheaper the response, the slower it extinguishes
+# THEORY-901: As Mancinelli and Bach's systematic review of avoidance learning in healthy humans reports it, rating both A, an avoidance response left available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it (nine studies); and less effective or costlier responses extinguish faster (six studies, one exception)
 
 ## Source
 

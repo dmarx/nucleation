@@ -1,26 +1,26 @@
 ---
 number: 903
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7wa5n
-promote_when: >-
-  The version of record read and found to report the same estimates, and
-  either a later meta-analysis of standalone safety-behaviour manipulations
-  with more studies, or pre-registered trials in diagnosed samples with
-  active controls and masked rationale, finding a symptom reduction from
-  reducing safety behaviours that survives bias adjustment and a symptom
-  increase from instructed increases. It is weakened if bias-adjusted
-  estimates fall to zero as studies accumulate, or if the reduction effect
-  disappears when expectancy is controlled. Whether safety behaviours
-  maintain anxiety through belief or through some other route is not
-  carried by this THEORY.
 title: 'In a 2026 meta-analysis of standalone safety-behaviour manipulations outside exposure, mostly with young non-clinical or subclinical adults and mostly on appearance concerns and social anxiety, reducing safety behaviours lowered symptoms relative to control (d = 0.43, about 0.31 after adjustment for publication bias), and instructed increases raised them (d = 0.65, five studies)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the thirteenth status review (ADR-057; ADR-047's
+    evidence ruling, read in full in NOTE-1128). The title claims no
+    more than the source showed and is unchanged. The promote_when moves
+    unchanged to QUESTION-tmp9n226, as THEORY-285's did to QUESTION-303.
+    CLAIM-446 keeps it in grounds.
 tags:
 - psychopathology-and-treatment
 date: '2026-10-24'
 source:
 - LIT-1491
+bears_on:
+- QUESTION-tmp9n226
 summary: >-
   Goodson, Patel, Zech, Sala & Cougle (2026), [LIT-1491](../literature.d/LIT-1491.md), read in full
   from the PMC author manuscript in [NOTE-1128](../notes.d/NOTE-1128.md). 26 studies reviewed,

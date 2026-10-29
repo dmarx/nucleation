@@ -15,7 +15,14 @@ promote_when: >-
   association can be erased. Whether exposure therapy in patients works
   this way is a further claim and is not carried here.
 title: 'In fear conditioning, extinction does not erase the original threat association but adds a competing inhibitory one, which is why extinguished fear can return with time, a change of context, an unsignalled aversive event or renewed pairing'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CLAIM-446 no longer lists this reading in grounds, and its converse
+    supports is removed (ADR-058): it is a rival account of persistence
+    that its test must exclude. The claim's body still cites it.
 tags:
 - learning-and-conditioning
 - psychopathology-and-treatment
@@ -31,8 +38,6 @@ summary: >-
   promotion needs the primary literature. It does not show that exposure
   therapy in patients works by inhibitory learning alone. The authors
   allow that habituation also plays a part.
-supports:
-- CLAIM-446
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim this bears on, named, nothing here rests on it -->
 
@@ -80,3 +85,13 @@ gone under all four procedures, as an unlearning account predicts.
   does not name: an old expectancy that survives correction and competes
   for retrieval. A governance account of persistence must say what it
   adds to this one.
+
+## Note of 2026-10-29: what holds it back
+
+The source is a clinical translation that names the four return-of-fear
+procedures and cites their evidence without reporting it. Neither
+Bouton's reviews nor a later systematic review of spontaneous recovery,
+renewal, reinstatement and rapid reacquisition has been read, and the
+reconsolidation evidence that would weaken the account is, by the
+source's own description, open. CLAIM-446 cites this account only as a
+rival, so a split into what Craske et al. state would free nothing.
