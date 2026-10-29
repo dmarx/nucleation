@@ -21,8 +21,6 @@ summary: >-
   discarded after each task, so it is as transient as a context. It is two
   benchmarks and one model family, and which task property predicts the
   gain is open.
-supports:
-- CLAIM-118
 ---
 <!-- inactive-ok-file: CLAIM-118 — Proposed; the claim this finding bears on and the neighbouring account of attention as an inner learner, named, not leaned on -->
 
