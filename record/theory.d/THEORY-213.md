@@ -22,8 +22,8 @@ history:
     The wider claim this account dropped when it was narrowed, that strong
     SGD noise makes a mirror's subspace attracting even at a saddle,
     giving sparsity, low rank and identical neurons in SGD-trained
-    networks, as the paper argues, is filed as the Proposed THEORY-
-    tmp43jo4, which extends this one (ADR-047 v4, narrowing-loss sweep,
+    networks, as the paper argues, is filed as the Proposed
+    THEORY-781, which extends this one (ADR-047 v4, narrowing-loss sweep,
     batch 068). Status and title are unchanged.
 tags:
 - learning-theory

@@ -43,3 +43,20 @@ automatically formal sheaf contextuality ... The sheaf formalism lets us state
 the stronger compatibility question separately" ([CLAIM-071](CLAIM-071.md)). Nothing in A97 or
 later addresses changing covers, which was the part of [CLAIM-100](CLAIM-100.md) the owner quoted.
 Proposed: right about the tools, unshown for the question.
+
+## Note of 2026-10-29: filed with its concessions
+
+[CLAIM-071](CLAIM-071.md) is held against reading this counter as saying that conditional
+generation is the transport between scenarios, or that a generative failure
+shows sheaf contextuality, and "How it was answered" has quoted that limit
+since both were filed from A97 on 2026-10-08. The title keeps the owner's
+counter as made at U34, changing covers included, because a counter is put
+at full strength; the body says which part was not shown.
+
+## Note of 2026-10-29: what holds it back
+
+The changing-covers clause is unshown: no conditional-diffusion work the
+record has read maps between empirical models on different covers, and the
+cover-changing part of [CLAIM-100](CLAIM-100.md) that this counter answered is, for
+no-signalling models, settled from the sheaf side instead ([CLAIM-125](CLAIM-125.md)'s
+"What it does not say", [NOTE-650](../notes.d/NOTE-650.md)).

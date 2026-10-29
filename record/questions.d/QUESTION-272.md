@@ -16,8 +16,8 @@ history:
 - version: 2
   date: '2026-10-25'
   note: >-
-    From the reading of Lattimore and Szepesvári (LIT-1524, NOTE-
-    tmpkgxba). The pairwise-comparisons answer names THEORY-963, the
+    From the reading of Lattimore and Szepesvári (LIT-1524,
+    NOTE-1162). The pairwise-comparisons answer names THEORY-963, the
     classification for every finite game, beside THEORY-964, and adds
     that the probe set for a neighbouring pair is its whole neighbourhood,
     degenerate actions included, with the separating direction in the kernel

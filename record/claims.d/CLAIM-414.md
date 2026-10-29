@@ -26,8 +26,7 @@ history:
   date: '2026-10-26'
   note: >-
     A dated note added: the maintenance separation carried to a
-    32-member population under a different production law (CASE-
-    tmpfmdj6), and mechanisms identified from probes within a known
+    32-member population under a different production law (CASE-161), and mechanisms identified from probes within a known
     catalog (CASE-163). The claim is unchanged.
 role: thesis
 warrant: demonstrated

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6ap9y
 title: 'An organization''s access to a signal, the signal''s authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,16 @@ history:
     (representational, legibility-related, governance-related) is this
     claim's separation one step earlier; A24 carried it to contributors
     (CLAIM-403). The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Eighth status review (ADR-057). It rests on CLAIM-027, the
+    separation of a regime's accessibility from its precedence and
+    jurisdiction, in place of CLAIM-156, which is that separation's
+    instance in mindfulness and now corroborates it. THEORY-050 and
+    THEORY-051 moved from grounds to corroborated_by (ADR-058): the
+    claim cites ACT as an analogy from human treatment and says the
+    clinical evidence does not carry over. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,13 +45,14 @@ date: '2026-10-18'
 line:
 - will-organization
 rests_on:
-- CLAIM-156
 - CLAIM-025
-grounds:
-- THEORY-050
-- THEORY-051
+- CLAIM-027
 uses:
 - TERM-020
+corroborated_by:
+- CLAIM-156
+- THEORY-050
+- THEORY-051
 summary: >-
   The owner's idea, U42 of the exchange of 2026-10-17, on A41's line that
   an organization "could become extremely resistant to internal changes
@@ -68,7 +79,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
-<!-- inactive-ok-file: CLAIM-156 CLAIM-347 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
+<!-- inactive-ok-file: CLAIM-156 CLAIM-347 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
 
 # CLAIM-349: An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
@@ -96,7 +107,10 @@ signal** and **the organization's authority to evaluate it**."
   representational salience ⇏ practical authority, with ACT's defusion as
   a mechanism: "A
   thought may continue to occur while its capacity to govern behavior
-  changes." The record's readings are [THEORY-051](../theory.d/THEORY-051.md) (self as context and
+  changes." The general form, that which regime acts depends on maintained
+  relations such as accessibility and precedence and not on the regimes'
+  contents, is [CLAIM-027](CLAIM-027.md), and that is what this claim rests on; [CLAIM-156](CLAIM-156.md) is
+  its instance in mindfulness, cited as a parallel. The record's readings are [THEORY-051](../theory.d/THEORY-051.md) (self as context and
   defusion) and [THEORY-050](../theory.d/THEORY-050.md) (inflexibility: fusion supports experiential
   avoidance, which narrows behaviour). ACT's flexibility is not frequent
   change: "**sometimes persistence is the flexible response**". Kashdan and

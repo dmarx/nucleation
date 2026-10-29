@@ -188,3 +188,13 @@ does not: (ℤ/p)³ and the Heisenberg group mod p, for p odd, have isomorphic
 profiles through ℤ and are not isomorphic. Identifying objects does not
 need density either. [CLAIM-264](CLAIM-264.md), version 2, states the three cases
 apart, and is now Active. This claim's application is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+Its premises and grounds are held, and the part of [CLAIM-206](CLAIM-206.md) aimed at it,
+the defeat condition a one-probe family met, was written into version 2.
+What the objection still reaches is the realist half: "structurally
+identical" and "every pair of realizations that judges reliably distinguish"
+need a standard beyond any analyst's family, and the record's argument for
+one, competent uptake ([CLAIM-217](CLAIM-217.md)), is Proposed and rests on [CLAIM-151](CLAIM-151.md), which
+is held back too. [CLAIM-217](CLAIM-217.md) held is what would promote this claim.

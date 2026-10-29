@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw83rc
 title: 'Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -38,6 +38,15 @@ history:
     for social acts and that the general frame is CLAIM-477, of which
     this is a domain case. Title, defeater, status and warrant are
     unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    CASE-018 moves from grounds to illustrated_by at the eighth status
+    review (ADR-058). ARG-024 holds, Rejected, that the invented case
+    "shows a possibility" and is not evidence for this claim, and
+    version 2 already stopped asking a rival to predict it. Version
+    3's grounds were CASE-018, LIT-482 and CASE-069. Title, defeater,
+    status and warrant are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -59,7 +68,6 @@ rests_on:
 - CLAIM-004
 - CLAIM-061
 grounds:
-- CASE-018
 - LIT-482
 - CASE-069
 complements:
@@ -72,6 +80,8 @@ complements:
 uses:
 - TERM-038
 - TERM-040
+illustrated_by:
+- CASE-018
 summary: >-
   The assistant at A187 §3, after the owner's U52 question about ontic
   structural realism, restated at A191 §1, A203 §3, A214 §13 and A218 §2.
@@ -175,3 +185,14 @@ manuscript already takes that position "without saying so".
 The wording is not new. "Partly constituted" was the superseded [CLAIM-055](CLAIM-055.md)'s,
 about the transformations an utterance induces. Here it returns as a claim
 about the act's relations.
+
+## Note of 2026-10-29: what holds it back
+
+Its premise [CLAIM-004](CLAIM-004.md) lacks the criterion that tells reframing an act from
+changing it, and [CLAIM-221](CLAIM-221.md)'s residue is unanswered: whether standing that
+enters through the content of the speaker's intention, as in Strawson's
+orders, is a relation in this claim's sense, which decides whether the
+defeat condition's "intention held fixed" can be met for reproach at all.
+[CLAIM-224](CLAIM-224.md)'s residue, whether a target culture's norms define the same
+participant roles, is also open; [CASE-069](../cases.d/CASE-069.md) and [CASE-073](../cases.d/CASE-073.md) move the first
+dispute onto documented cases without settling it.

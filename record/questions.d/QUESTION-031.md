@@ -33,8 +33,7 @@ history:
 - version: 5
   date: '2026-10-26'
   note: >-
-    A dated note added: a nonlinear case with a known catalog (CASE-
-    tmpw6jjd), where one probe collapses two mechanisms and a pair
+    A dated note added: a nonlinear case with a known catalog (CASE-163), where one probe collapses two mechanisms and a pair
     separates them. Extended the same day with the lab's v2.4 and v2.5
     (dmarx/PerspectiveLab@f392084), in which probes change the
     organization and a misfit alarm depends on the probes chosen. The

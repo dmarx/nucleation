@@ -44,7 +44,6 @@ summary: >-
   matched present endorsement or applied to manipulation.
 supports:
 - CLAIM-016
-- CLAIM-356
 bears_on:
 - QUESTION-071
 ---

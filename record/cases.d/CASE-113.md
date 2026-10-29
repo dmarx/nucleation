@@ -11,8 +11,7 @@ history:
   note: >-
     A dated note added: T24 of the exchange "Experimental Infrastructure
     Review" re-derived this case without citing it, and added a third
-    arm, training exposure, to its crossed interventions (QUESTION-
-    tmpivbso). The case is unchanged.
+    arm, training exposure, to its crossed interventions (QUESTION-275). The case is unchanged.
 standing: stipulated
 kind: thought-experiment
 tags:

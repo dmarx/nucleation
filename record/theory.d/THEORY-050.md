@@ -46,8 +46,6 @@ summary: >-
   of disorder, not a rival to it.
 presupposed_by:
 - THEORY-051
-supports:
-- CLAIM-349
 bears_on:
 - QUESTION-045
 ---
@@ -170,3 +168,14 @@ situations (C6). Both are reasons for Proposed.
   having them. Gross's process model of regulation ([LIT-554](../literature.d/LIT-554.md)) intervenes
   elsewhere, on how an emotion is generated. This account does not take a
   side on emotion theory.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the eighth status review. The record holds none of the three
+results `promote_when` names: Macri and Rogge's meta-analysis ([LIT-543](../literature.d/LIT-543.md)) is
+Unavailable, no prospective study measures inflexibility across situations
+before first onset, and the component studies ([NOTE-431](../notes.d/NOTE-431.md), C4) move
+discomfort and believability in analogue samples, not symptoms of more than
+one disorder. The one two-wave panel uses the AAQ, the global self-report
+`promote_when` excludes. [CLAIM-349](../claims.d/CLAIM-349.md) now cites this reading as corroboration,
+not as a ground.

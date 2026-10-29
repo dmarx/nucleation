@@ -1,10 +1,10 @@
 ---
 number: 347
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp55mls
 title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-18'
@@ -19,6 +19,19 @@ history:
     operative thwarting, is left to QUESTION-131. At the reviews
     relayed by the owner on 2026-10-18. Status stays Proposed: the
     construction is well defined, its explanatory role is interpretive.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted at the eighth status review (ADR-057), on the owner's
+    assent in the pull request. Its premises CLAIM-368 and TERM-060
+    are Active, no objection is filed, and nothing meets the defeater.
+    THEORY-232 moved from grounds to corroborated_by (ADR-058): the
+    body cites Watson's total-frustration comparison as the measure
+    this claim refines, and his criterion of agency does no work here.
+    Version 2 said: "Status stays Proposed: the construction is well
+    defined, its explanatory role is interpretive." The interpretive
+    part is unchanged, and its relation to operative thwarting stays
+    QUESTION-131's.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,14 +54,14 @@ line:
 - will-organization
 rests_on:
 - CLAIM-368
-grounds:
-- THEORY-232
 complements:
 - CLAIM-128
 - CLAIM-153
 - CLAIM-365
 uses:
 - TERM-060
+corroborated_by:
+- THEORY-232
 summary: >-
   The owner's correction, U37 of the exchange of 2026-10-17: "We can do
   quite a lot with access to an ordering, even if it doesn't give us a
@@ -266,3 +279,10 @@ partial.
 - **That every revision of a demand is a failure.** Constitutive revision
   may be legitimate transformation (A38). It is simply not relief of the
   original demands.
+
+## Note of 2026-10-29: promoted
+
+Promoted on [CLAIM-368](CLAIM-368.md) and [TERM-060](../terms.d/TERM-060.md), both Active, with no objection filed.
+Watson's comparison ([THEORY-232](../theory.d/THEORY-232.md)) is the measure this claim refines, cited
+as corroboration, not as a ground. [CLAIM-449](CLAIM-449.md) objects to [CLAIM-440](CLAIM-440.md)'s use of
+the complex, not to this construction.

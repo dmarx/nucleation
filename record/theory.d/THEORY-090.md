@@ -52,7 +52,6 @@ answers:
 - QUESTION-059
 supports:
 - CLAIM-435
-- CLAIM-436
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed; the account this one extends, named in prose, and this account's subcortical clause leans on its sources rather than on its status -->
 <!-- inactive-ok-file: THEORY-101 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->

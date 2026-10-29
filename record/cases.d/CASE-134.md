@@ -16,8 +16,7 @@ history:
   note: >-
     A dated note added: a simulated run of this handoff with the team's
     records kept or erased, reported at T20 of the exchange
-    "Experimental Infrastructure Review" and not reproduced (CASE-
-    tmprl1px). The case is unchanged.
+    "Experimental Infrastructure Review" and not reproduced (CASE-166). The case is unchanged.
 standing: fictional
 kind: thought-experiment
 tags:

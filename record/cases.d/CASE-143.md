@@ -14,6 +14,8 @@ date: '2026-10-22'
 line: distributed-agency
 supports:
 - CLAIM-430
+illustrates:
+- CLAIM-275
 summary: >-
   The owner's U1 of the exchange of 2026-10-22, "Ben Franklin Effect
   Explained", read at U2 as a "perspectival invitation". Documented in

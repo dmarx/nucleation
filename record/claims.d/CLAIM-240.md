@@ -10,8 +10,8 @@ history:
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 added: the limit recorded in the note of
-    2026-10-10, access and not weighting, is filed as the objection CLAIM-
-    tmp4pmcv. The claim is unchanged.
+    2026-10-10, access and not weighting, is filed as the objection
+    CLAIM-458. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

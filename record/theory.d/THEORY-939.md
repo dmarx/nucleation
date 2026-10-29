@@ -24,8 +24,8 @@ date: '2026-10-24'
 source:
 - LIT-1506
 summary: >-
-  Wolpert & Tumer's NASA report ([LIT-1506](../literature.d/LIT-1506.md)), read in full in NOTE-
-  tmpo0w02 because their Advances in Complex Systems paper ([LIT-1515](../literature.d/LIT-1515.md))
+  Wolpert & Tumer's NASA report ([LIT-1506](../literature.d/LIT-1506.md)), read in full in
+  NOTE-1153 because their Advances in Complex Systems paper ([LIT-1515](../literature.d/LIT-1515.md))
   could not be reached. The characterisation is stated with its proof
   deferred; the "if" half and the WLU's factoredness were checked when
   filed. Factoredness is ordinal, member by member, and needs no scale

@@ -12,7 +12,6 @@ tags:
 date: '2026-10-12'
 line: 'organizational-affect'
 answered_by:
-- THEORY-101
 - THEORY-045
 - THEORY-090
 - THEORY-093
@@ -20,8 +19,8 @@ answered_by:
 - CLAIM-439
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
-  for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and QUESTION-
-  tmpc59zj. [THEORY-101](../theory.d/THEORY-101.md), [THEORY-045](../theory.d/THEORY-045.md), [THEORY-090](../theory.d/THEORY-090.md), [THEORY-093](../theory.d/THEORY-093.md) and [THEORY-095](../theory.d/THEORY-095.md)
+  for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and
+  QUESTION-053. [THEORY-101](../theory.d/THEORY-101.md), [THEORY-045](../theory.d/THEORY-045.md), [THEORY-090](../theory.d/THEORY-090.md), [THEORY-093](../theory.d/THEORY-093.md) and [THEORY-095](../theory.d/THEORY-095.md)
   answer it in part; the body gives each one's limit. Deferred with its
   line.
 ---

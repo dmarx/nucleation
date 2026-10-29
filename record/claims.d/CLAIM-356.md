@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpkb2i9
 title: 'An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Eighth status review (ADR-057). THEORY-047 and THEORY-054 moved
+    from grounds to corroborated_by (ADR-058): the claim cites
+    self-determination theory as the human precedent for external
+    provenance becoming internal regulation, and its directive already
+    said nothing rests on them. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,12 +38,13 @@ line:
 objects_to:
 - CLAIM-288
 grounds:
-- THEORY-047
-- THEORY-054
 - THEORY-616
 complements:
 - CLAIM-174
 - CLAIM-367
+corroborated_by:
+- THEORY-047
+- THEORY-054
 summary: >-
   The owner's, U35 of the exchange of 2026-10-17, against A34's guardrail
   that "Loss minimization does not automatically mean the model has its

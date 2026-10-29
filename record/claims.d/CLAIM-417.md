@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8lheg
 title: 'What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -12,6 +12,14 @@ history:
     Note of 2026-10-22 added after Swidler, Wacquant, Sewell and Abbott
     were read: two sources cited together disagree, and the defeater
     about established accounts is live. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    TERM-072 was adopted at the eighth status review with character
+    and lineage as relations among realizations. The sentence that
+    left the choice open read: Whether TERM-072 should take this as a
+    note or as further senses is the owner's decision, and its note of
+    2026-10-22 (later) sets out the choice. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -159,9 +167,8 @@ fixes as:
    which can misdescribe the other three ([CLAIM-355](CLAIM-355.md), [CLAIM-415](CLAIM-415.md)).
 
 A40: "Resemblance ≠ Historical descent ≠ Numerical organizational
-identity." Whether [TERM-072](../terms.d/TERM-072.md) should take this as a note or as further
-senses is the owner's decision, and its note of 2026-10-22 (later) sets
-out the choice.
+identity." [TERM-072](../terms.d/TERM-072.md), adopted on 2026-10-29, takes them as relations among
+realizations, not as further senses.
 
 ## What it does not say
 

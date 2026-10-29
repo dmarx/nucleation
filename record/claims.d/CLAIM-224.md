@@ -22,6 +22,9 @@ objects_to:
 - CLAIM-151
 uses:
 - TERM-040
+bears_on:
+- QUESTION-005
+- QUESTION-073
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (structure lens);
   no turn of the exchange raises it. A translation is addressed to a new

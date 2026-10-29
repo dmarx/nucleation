@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpuxcp6
 title: 'When an organization''s record of winning moves cycles, the failure is organizational nonintegrability, distinct from a perspective''s own preference instability and from switching of the governing regime; it becomes organizational tension only when realized as costly reversal against demands the organization maintains, and cognitive dissonance only when that tension is detected and appraised as aversive; learning can relieve it by accommodation, by entrenched precedence or by cheap periodic coordination, which observed coherence does not tell apart, and ambivalence and nonintegrability entail neither one another'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    One sentence added at the eighth status review saying that the
+    governance-instability row is a failure of TERM-078's persistence,
+    the use the uses edge records. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,7 +89,9 @@ be nonzero on an acyclic record ([CLAIM-434](CLAIM-434.md)).
 The Condorcet example has the second and neither of the others. A fixed
 cyclic rule need not oscillate if the sequence of choices that would
 traverse the cycle never arises; conversely, governance can oscillate
-while each moment's decisions admit an ordering.
+while each moment's decisions admit an ordering. That is a failure of
+persistence in [TERM-078](../terms.d/TERM-078.md)'s sense: each window has a potential, and they are
+different orderings.
 
 **From structure to tension to dissonance.** Cyclic structure ≠ realized
 cycling ≠ costly tension. A cycle becomes organizational tension when each

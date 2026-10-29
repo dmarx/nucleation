@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp85p0g
 title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while an exact threshold override does not, a threshold override with a discrimination threshold is a lexicographic semiorder whose choices can cycle and so is no ordering at all, and even where each instant has a currency, successive currencies need not share exchange rates'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The eighth status review (ADR-058). THEORY-101 and THEORY-090
+    leave grounds: the result is a demonstration and does not stand on
+    either reading; they are cited to say which trade-off form is
+    Veit's and which ALARM's, and the body's citation is the link. The
+    text is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -20,8 +29,6 @@ line:
 grounds:
 - LIT-1435
 - LIT-1454
-- THEORY-101
-- THEORY-090
 summary: >-
   The formal half of the owner's reframing of 2026-10-23, that a "common
   currency" is better read as a negotiation admitting an (at least
