@@ -1,10 +1,10 @@
 ---
 number: 199
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp0jq5k
 title: 'Blackwell''s order bounds what a rendering makes possible for any receiver, and a given receiver''s access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -18,6 +18,15 @@ history:
     information under log loss, and THEORY-846 (added to grounds)
     re-derives the example and states when the ceiling holds in its
     terms. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted to Active at the thirteenth status review, at the status
+    review's ruling (the owner delegated these rulings; ADR-057). Its
+    grounds are Active, nothing objects to it, its example and ceiling
+    were rechecked (p13/claim199_xor.py), and the record's case (CASE-062)
+    does not meet its defeat condition. The inactive-ok directive for
+    THEORY-156, Active since the twelfth review, is removed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,7 +70,6 @@ supports:
 - CLAIM-450
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-076 — Proposed; the manuscript's thesis and the blind-captioner design, cited as open -->
 
 # CLAIM-199: Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible

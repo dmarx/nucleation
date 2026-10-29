@@ -1,10 +1,23 @@
 ---
 number: 149
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpslubp
 title: 'A probe family that supplies a transformation''s training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted to Active at the thirteenth status review, at the status
+    review's ruling (the owner delegated these rulings; ADR-057). Its
+    premises are Active and nothing objects to it. CASE-071 moved from
+    grounds to illustrated_by (ADR-058), since it shows selection against
+    a metric, not training, as for CLAIM-266; the duplicate CASE-041
+    illustration was dropped, CASE-041 staying a ground. The last bullet
+    of "What it does not say", which read "The documented support is one
+    case, in image generation. Hence Proposed.", is replaced, and the
+    summary's "One case, in image generation, so Proposed." with it.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,7 +36,6 @@ rests_on:
 - CLAIM-266
 grounds:
 - CASE-041
-- CASE-071
 complements:
 - CLAIM-142
 summary: >-
@@ -32,10 +44,11 @@ summary: >-
   and closing maxim, and A203 §30 and A218 Study 6 keep it. It carries
   [CLAIM-011](CLAIM-011.md)'s remedy from correspondences to training objectives.
   Kynkäänniemi et al. ([CASE-041](../cases.d/CASE-041.md)) is a documented instance, which
-  the exchange did not know of. One case, in image generation, so
-  Proposed.
+  the exchange did not know of. The documented support is one training
+  case, in image generation, and one selection case, in translation
+  (CASE-071).
 illustrated_by:
-- CASE-041
+- CASE-071
 ---
 <!-- inactive-ok-file: CLAIM-266 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
@@ -84,7 +97,8 @@ measures the model's preferences.
   ([ANTH-NOTE-304](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/notes.d/NOTE-304.md)).
 - It does not settle [QUESTION-005](../questions.d/QUESTION-005.md). It names one way the
   operationalization can build its verdict into the measurement.
-- The documented support is one case, in image generation. Hence Proposed.
+- The documented support is one training case, in image generation
+  (CASE-041), and one selection case, in translation (CASE-071).
 
 ## Note of 2026-10-13: the general content is filed separately
 

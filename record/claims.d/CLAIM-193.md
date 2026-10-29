@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppqir6
 title: 'A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -29,20 +29,34 @@ history:
     supports entry for this claim is removed. The old bullet: Convergence
     of kernels fixes representations "only up to the symmetry group of
     what is observed" (THEORY-002). The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    rests_on CLAIM-142 replaced by CLAIM-264 by the thirteenth status
+    review (ADR-057), at the status review's ruling (the owner delegated
+    these rulings). The claim uses only the relativity of observational
+    equivalence, which is CLAIM-264's general content, not CLAIM-142's
+    realist half; CLAIM-142 is now a complement. The defeat condition is
+    restated to the claim's own step, since as worded any basis-dependent
+    or nonlinear probe family met it, and the claim puts those outside its
+    scope. The old condition: For communicative realizations, a probe
+    family is found whose separating power is not determined by a kernel
+    or similarity structure over the realizations, so that the linear-readout
+    result (CLAIM-269) does not carry across. The claim is
+    unchanged and the status stays Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  For communicative realizations, a probe family is found whose separating
-  power is not determined by a kernel or similarity structure over the
-  realizations, so that the linear-readout result (CLAIM-269) does not
-  carry across.
+  A linear probe family used on communicative realizations is found that
+  does not read them through one representation with a kernel, so that
+  CLAIM-269's result does not fix its separating power.
 tags:
 - representation-learning
 - mathematics
 date: '2026-10-12'
 line: pragmatic-transport
 rests_on:
-- CLAIM-142
+- CLAIM-264
 - CLAIM-269
 grounds:
 - THEORY-008
@@ -61,6 +75,7 @@ summary: >-
   the carry-over to communicative realizations is the filer's.
 complements:
 - CLAIM-209
+- CLAIM-142
 bears_on:
 - QUESTION-031
 ---
@@ -141,3 +156,12 @@ communicative realizations read through a probe family have a kernel that
 plays the same role. That step is argued, not proved, and whether human
 judges are a probe family at all is the open dispute between [CLAIM-142](CLAIM-142.md) and
 [CLAIM-206](CLAIM-206.md). So the warrant is interpretive.
+
+## Note of 2026-10-29: what holds it back
+
+Its premises are now Active (CLAIM-264, CLAIM-269), and its defeat condition
+was restated today to its own step: that a linear family used on
+communicative realizations reads them through one representation with a
+kernel. The restated test has not yet been weighed against the record's
+probe families on communicative realizations, so nothing yet says whether
+any of them meets it.

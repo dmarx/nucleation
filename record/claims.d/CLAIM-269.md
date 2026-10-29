@@ -1,13 +1,10 @@
 ---
 number: 269
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqe024
-title: A regularized linear readout can tell apart only representations that
-  differ in normalized kernel, and kernels fix a representation only up to
-  the symmetry of what is observed, so any distinction beyond that is supplied
-  by the analyst, not by the readouts
-version: 4
+title: 'A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so no such readout supplies a distinction beyond that symmetry'
+version: 5
 history:
 - version: 1
   date: '2026-10-13'
@@ -49,6 +46,19 @@ history:
     the bullet also cites, was promoted the same day, so the blocker note
     of this date is revised to say what is left. The claim is unchanged
     and the status stays Proposed.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the thirteenth status review (ADR-057), which
+    settles the blocker of its note of this date. 'Not by the readouts'
+    follows from CLAIM-379; 'by the analyst' does not, since a basis-dependent
+    probe family also separates representations with the same
+    kernel (p13/claim269_readout.py). The analyst clause stays in
+    CLAIM-193, which is interpretive. The old title: 'A regularized linear
+    readout can tell apart only representations that differ in normalized
+    kernel, and kernels fix a representation only up to the symmetry of
+    what is observed, so any distinction beyond that is supplied by the
+    analyst, not by the readouts'.
 role: thesis
 warrant: demonstrated
 defeated_if: A regularized linear readout shown to separate two representations
@@ -82,7 +92,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-193 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-269: A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts
+# CLAIM-269: A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so no such readout supplies a distinction beyond that symmetry
 
 ## The claim
 
@@ -106,7 +116,9 @@ known exactly:
 
 So a linear probe family separates exactly what the kernel separates.
 It collapses representations that differ only by a symmetry of the
-observed data, and a distinction drawn beyond that comes from the analyst.
+observed data. A distinction drawn beyond that comes from something other
+than the readouts, such as a basis-dependent probe or the analyst's choice
+of inner product (THEORY-018).
 
 ## Where the record applies it
 

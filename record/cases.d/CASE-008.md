@@ -4,7 +4,14 @@ status: Superseded
 formerly:
 - CASE-tmp8ayjc
 title: 'Solidarity, condemnation and humour judged in pairs: the probabilistic version'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CLAIM-037 removed from illustrates by the thirteenth status review
+    (ADR-057): the case is Superseded, and CLAIM-037 lists its successor
+    CASE-035 instead. The case is unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -14,8 +21,6 @@ date: '2026-10-08'
 line: pragmatic-transport
 superseded_by:
 - CASE-035
-illustrates:
-- CLAIM-037
 summary: >-
   A24: three judgements of Henley's poem, S (solidarity), M
   (condemnation), H (humour), elicited in pairwise contexts, asking

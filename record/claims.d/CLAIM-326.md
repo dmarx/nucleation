@@ -1,10 +1,10 @@
 ---
 number: 326
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpz6mng
-title: 'With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order over finitely many states, and has A86''s D_Q, with the identity on tasks, as its symmetrization'
-version: 4
+title: 'With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order, over finitely many states and a source whose outcome space is standard Borel, and has A86''s D_Q, with the identity on tasks, as its symmetrization'
+version: 5
 history:
 - version: 2
   date: '2026-10-19'
@@ -32,13 +32,32 @@ history:
     review (ADR-057) narrowed THEORY-156 to standard Borel outcome spaces
     and promoted it; every rendering a design produces lies in such a
     space, so the step is unchanged. The claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted and narrowed by the thirteenth status review (ADR-057;
+    ADR-047's ruling that a checked re-derivation meets a request for a
+    proof). Every premise is Active since THEORY-156's promotion, and
+    steps (a) to (d) and the worked case were rechecked
+    (p13/claim326_dplus.py). THEORY-156's step 3 needs the simulated
+    experiment's space standard Borel, and in step (b) that is the source,
+    not the rendering as version 4 said. The old title: 'With losses in
+    [0, 1] and a stated prior, the positive part of the Bayes-risk
+    increase on the same decision problem, D⁺_Q(U → V; π), is directed, is
+    zero from a garbling back to its source, vanishes for every finite
+    problem and prior exactly when the rendering is at least as
+    informative as the source in Blackwell's order over finitely many
+    states, and has A86's D_Q, with the identity on tasks, as its
+    symmetrization'. Arbitrary spaces stay QUESTION-321, on which this
+    claim now bears.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   An error in steps (a) to (d): a finite problem with losses in [0, 1] and a
   prior under which a garbling has lower Bayes risk than its source; two
-  experiments on finitely many states with D⁺(U → V; π) = 0 for every such
-  problem and prior where V is not at least as informative as U; or a pair
+  experiments on finitely many states, the source's outcome space standard
+  Borel, with D⁺(U → V; π) = 0 for every such problem and prior where V is
+  not at least as informative as U; or a pair
   for which D_Q, with the identity on tasks and the same prior, differs from
   max(D⁺(U → V), D⁺(V → U)).
 tags:
@@ -51,6 +70,8 @@ rests_on:
 grounds:
 - THEORY-156
 - THEORY-717
+bears_on:
+- QUESTION-321
 summary: >-
   Split from [CLAIM-259](CLAIM-259.md) under [ADR-043](../decisions.d/ADR-043.md): the properties of the restated decision
   term, which [CLAIM-259](CLAIM-259.md) called "elementary and checkable", stated on their own
@@ -68,7 +89,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-259 CLAIM-258 — Proposed; the proposal this was split from, the objection whose worked case it measures, and the directed-fidelity thesis, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named for the constants and not leaned on -->
 
-# CLAIM-326: With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order over finitely many states, and has A86's D_Q, with the identity on tasks, as its symmetrization
+# CLAIM-326: With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order, over finitely many states and a source whose outcome space is standard Borel, and has A86's D_Q, with the identity on tasks, as its symmetrization
 
 ## The claim
 
@@ -100,8 +121,9 @@ them. Rescaling a bounded loss to [0, 1], by L ↦ (L − m)/(M − m), rescales
 every Bayes risk by the same increasing affine map, so the inequality holds
 for every bounded loss. By the Bayes form of Blackwell's theorem for
 finitely many states ([THEORY-156](../theory.d/THEORY-156.md)), V is then at least as informative as U. The
-form the record holds is for standard Borel outcome spaces, which every
-rendering a design produces lies in.
+form the record holds needs the source's outcome space, the experiment
+simulated, to be standard Borel, as every text, image or coded response is;
+arbitrary spaces are QUESTION-321.
 
 **(c) It is directed.** With Z uniform on {0, 1}, U = Z, V a constant and
 q = "guess Z" with 0–1 loss, r(U) = 0 and r(V) = 1/2, so D⁺(U → V) = 1/2
