@@ -38,7 +38,7 @@ summary: >-
 
 ## Contribution
 
-It re-asks Pettigrew and Tropp's question (LIT-1413) of the only studies a
+It re-asks Pettigrew and Tropp's question ([LIT-1413](../literature.d/LIT-1413.md)) of the only studies a
 policy-maker can act on: those that randomly assign face-to-face contact
 and measure prejudice at least a day after it begins. There are 27, of
 which 8 were in the 2006 meta-analysis. Pooled, they say contact reduces
@@ -123,32 +123,32 @@ for the prejudice and population that motivated the hypothesis.
 
 ## Connections
 
-An update of Pettigrew and Tropp's 2006 meta-analysis (LIT-1413), with
+An update of Pettigrew and Tropp's 2006 meta-analysis ([LIT-1413](../literature.d/LIT-1413.md)), with
 which it agrees that contact "typically reduces prejudice" and disagrees
 on two things: the near-equality of effects across targets, and their
 claim that "the most rigorous studies tend to provide the largest
 effects". It draws studies from Lemmer and Wagner (2015) and from Paluck
 and Green's 2009 review of prejudice reduction. Its sample includes
 Broockman and Kalla's 2016 canvass, whose sequel is Kalla and Broockman
-(LIT-1407). Enos (2014), excluded as proximity without interaction, found
+([LIT-1407](../literature.d/LIT-1407.md)). Enos (2014), excluded as proximity without interaction, found
 prejudice increased.
 
 ## Bearing on the record
 
-- **QUESTION-262.** The question says "contact reduces prejudice and often
-  generalizes (LIT-1413)". On the randomized evidence with delayed
+- **[QUESTION-262](../questions.d/QUESTION-262.md).** The question says "contact reduces prejudice and often
+  generalizes ([LIT-1413](../literature.d/LIT-1413.md))". On the randomized evidence with delayed
   outcomes the first half is qualified: positive in direction, 0.25 for
   ethnic and related targets, near zero in the pre-registered field
   trials. The second half is untested here: the review's outcomes mostly
   concern the group met, and its pooling does not separate generalization
   to the group or to other groups. Nor does any included study isolate
   taking part from receiving information, the question's first contrast.
-- **CLAIM-430.** Its defeater, information of equal favourable content
+- **[CLAIM-430](../claims.d/CLAIM-430.md).** Its defeater, information of equal favourable content
   changing attitudes as much as taking part, has no test in this
   literature. Contact is compared with no contact.
-- **Pettigrew 1998 (LIT-1408).** The review does not cite the 1998
+- **Pettigrew 1998 ([LIT-1408](../literature.d/LIT-1408.md)).** The review does not cite the 1998
   review and does not use the word "deprovincialization", so it does not
-  bear on LIT-1408's flag.
+  bear on [LIT-1408](../literature.d/LIT-1408.md)'s flag.
 
 No instruction for machine-learning practice; nothing for the anthology.
 

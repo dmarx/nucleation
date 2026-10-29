@@ -145,7 +145,7 @@ detectable.
 The sequel to Broockman and Kalla (2016, Science), which it reinterprets:
 that study's scripts already exchanged narratives non-judgmentally, so its
 effect need not have run through analogic perspective-taking. Paluck, Green
-and Green's contact review (LIT-1420) includes the 2016 canvass among its
+and Green's contact review ([LIT-1420](../literature.d/LIT-1420.md)) includes the 2016 canvass among its
 27 randomized studies, as one of the three pre-registered ones whose
 pooled effect is near zero; this paper's own effects are of the same small
 order. It draws its theory from lab work on self-affirmation (Cohen,
@@ -153,7 +153,7 @@ Aronson and Steele) and on listening.
 
 ## Bearing on the record
 
-- **CASE-147.** The case's description is right on the reading and can be
+- **[CASE-147](../cases.d/CASE-147.md).** The case's description is right on the reading and can be
   made exact. "Arguments alone did not produce comparable effects": the
   Abbreviated arm's pooled effect is d = 0.02 (p = 0.27), and its
   difference from the full arm is 0.06 (p < 0.01). But the full arm was
@@ -163,14 +163,14 @@ Aronson and Steele) and on listening.
   prejudice effect alone being p < 0.08. The case's caveat, that "the arms
   also differ in warmth, attention and length", is borne out on length by
   the paper's own footnote 8.
-- **CLAIM-430 and QUESTION-262.** Experiment 2 weighs against the
+- **[CLAIM-430](../claims.d/CLAIM-430.md) and [QUESTION-262](../questions.d/QUESTION-262.md).** Experiment 2 weighs against the
   stronger reading of "taking part": a stranger's video narrative, with
   voters sharing their own stories in 12% of conversations, did as well as
   the arm in which both parties told stories. What the arms shared was the
   non-judgmental conversation about a narrative, not the voter's own
-  enactment. The paper is also silent on QUESTION-262's other contrasts:
+  enactment. The paper is also silent on [QUESTION-262](../questions.d/QUESTION-262.md)'s other contrasts:
   it measures no behaviour and no generalization to other groups.
-- **CLAIM-275.** Not tested. The paper does not ask whether conduct came
+- **[CLAIM-275](../claims.d/CLAIM-275.md).** Not tested. The paper does not ask whether conduct came
   before the revised view; its outcomes are attitudes reported in a later
   survey.
 
