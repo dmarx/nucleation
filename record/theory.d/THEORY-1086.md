@@ -29,7 +29,6 @@ summary: >-
   contingency half is argued (a counterfactual on Planck's constant); the
   no-approximation half is a candidate list, not a demonstration.
 ---
-<!-- inactive-ok-file: CLAIM-157 CLAIM-405 — Open or Proposed; neighbours cited as open -->
 
 # THEORY-1086: A fundamental metaphysics bears on the metaphysics of the lifeworld only through features that admit no approximation; without any, a relational world can approximate one of separable individuals, and the independence of social theorizing from fundamental metaphysics is then real but contingent, on the size of Planck's constant, not principled
 
