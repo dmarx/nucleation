@@ -198,12 +198,12 @@ the question's labels and shift weight among the routes.
   direction is unknown.
 
 Still unread: Lehrner and Yehuda's paper joining the biology to cultural
-trauma (LIT-tmpzfk28). Danieli's handbook (LIT-tmp881f5) is read at second
+trauma ([LIT-tmpzfk28](../literature.d/LIT-tmpzfk28.md)). Danieli's handbook ([LIT-tmp881f5](../literature.d/LIT-tmp881f5.md)) is read at second
 hand in the next note.
 
 ## Note of 2026-10-29: Danieli's framework, read at second hand
 
-Danieli, Norris and Engdahl (NOTE-tmptxas9), read in place of the handbook,
+Danieli, Norris and Engdahl ([NOTE-tmptxas9](../notes.d/NOTE-tmptxas9.md)), read in place of the handbook,
 test its framework on 422 adult children of survivors.
 
 - **The parenting route runs through the parent's style.** Wartime
@@ -215,7 +215,7 @@ test its framework on 422 adult children of survivors.
   and dropped out of the final model. With Fridman's thesis, that is two
   works that do not put silence first.
 - **No comparison group.** The paper locates the route among survivors'
-  children without showing harm against Fridman's null (NOTE-tmpi101n).
+  children without showing harm against Fridman's null ([NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md)).
   The two results are compatible.
 - **The ancestor and the injury come apart.** Children who counted their
   murdered grandparents as their own reported fewer impacts, and this

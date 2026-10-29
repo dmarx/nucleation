@@ -191,13 +191,13 @@ link: the child's sense that the murdered grandparents are not their own.
 
 ## Connections
 
-- **Fridman (NOTE-tmpi101n).** The two designs answer different
+- **Fridman ([NOTE-tmpi101n](NOTE-tmpi101n.md)).** The two designs answer different
   questions.
   - Fridman compares survivors' daughters with others and finds no
     difference. Danieli et al. have no comparison group, so they say
     nothing about whether survivors' children differ from others. They
     show which survivors' children report more. The authors do not cite
-    the meta-analyses Fridman restates (LIT-tmpd29uc, LIT-tmppmeni); they
+    the meta-analyses Fridman restates ([LIT-tmpd29uc](../literature.d/LIT-tmpd29uc.md), [LIT-tmppmeni](../literature.d/LIT-tmppmeni.md)); they
     cite Fridman et al. 2011 only on age cohort.
   - Fridman's sample is Israeli, and here Israel is protective (total
     −.16). This is an inference: the null may be partly an Israeli
@@ -208,29 +208,29 @@ link: the child's sense that the murdered grandparents are not their own.
     effect through mothers only (β = .15) and none through fathers. The
     stronger channel was the parent stuck in the loss.
 - **A group's story buffers, the third time.** Costa et al.'s "grateful
-  nation" (NOTE-tmp3firt), Fridman's state-building, and here Solomon's
+  nation" ([NOTE-tmp3firt](NOTE-tmp3firt.md)), Fridman's state-building, and here Solomon's
   remark, quoted by the authors, that in Israel the Holocaust was the
   "legacy of all" (p. 647). This is the first time the record has an
   association for it, but it is a country dichotomy, not a measure of
   meaning.
-- **Volkan (NOTE-tmp16of2).** His depositing of a trauma in children by
+- **Volkan ([NOTE-tmp16of2](NOTE-tmp16of2.md)).** His depositing of a trauma in children by
   parents is this paper's channel too: children absorbed the Holocaust
   through "osmosis" (p. 648). Fighter style includes keeping up Jewish
   group identity, and it had no effect on the child.
-- **Eyerman (NOTE-tmp0goia).** Cultural trauma passes by category. This
+- **Eyerman ([NOTE-tmp0goia](NOTE-tmp0goia.md)).** Cultural trauma passes by category. This
   sample is defined by descent and recruited through survivor
   organizations, so it cannot separate the category from the family.
-- **Hirst, Cyr and Merck (NOTE-tmpsbl9z).** There, knowing a parent's
+- **Hirst, Cyr and Merck ([NOTE-tmpsbl9z](NOTE-tmpsbl9z.md)).** There, knowing a parent's
   memory went with stronger identification. Here, half the broken-linkage
   measure is remembering the family's history only in fragments, and that
   goes with more impacts.
-- **The germline (Horsthemke, NOTE-tmpahh4j).** The authors propose
+- **The germline (Horsthemke, [NOTE-tmpahh4j](NOTE-tmpahh4j.md)).** The authors propose
   adding genotype and methylation data to the inventory (p. 648). That
   would join the routes in one sample, not separate them.
 
 ## Bearing on the record
 
-- **The intergenerational trauma question (QUESTION-tmp8bttd).** The
+- **The intergenerational trauma question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** The
   paper bears on three of its routes. What follows are inferences; the
   authors do not frame their results as routes.
   - **Parenting.** This is the clinical tradition's own quantitative test
@@ -264,20 +264,20 @@ link: the child's sense that the murdered grandparents are not their own.
     the trauma was the nation's, protected. On this sample, a shared
     group story did not carry harm to the child, and may have buffered
     it.
-- **The owner's thesis (CLAIM-tmpjylq8).** Indirectly. The outcome is
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Indirectly. The outcome is
   named for a child's drive to "heal their parents and themselves", and
   its subscales include reparative protectiveness. The clinicians score a
   child's care for a parent as part of the child's own condition. That
   fits a self extended to the family, Brewer's relational self
-  (NOTE-tmphttin), but the paper does not separate the child's caring from
+  ([NOTE-tmphttin](NOTE-tmphttin.md)), but the paper does not separate the child's caring from
   any extension of the self, and is not built to.
-- **The triviality objection (CLAIM-tmprudek).** The grandparents item
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The grandparents item
   asks whether the dead are counted "as my own", not how much one cares
   about them. It is a candidate criterion of the self's extent backward in
   time. But it is averaged with a memory item and never set against a
   measure of caring, so it shows nothing yet.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note is proposed for QUESTION-tmp8bttd**, not for the claim
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note is proposed for [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)**, not for the claim
   (section 4).
 - **No THEORY filed.**
 - **No ML instruction.**

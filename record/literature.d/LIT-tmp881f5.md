@@ -57,7 +57,7 @@ The clinical tradition that named the phenomenon, before the epigenetic turn. Fo
 
 The work cannot be read here, so the record holds it at second hand.
 
-Danieli, Norris and Engdahl 2016 (NOTE-tmptxas9) operationalize the
+Danieli, Norris and Engdahl 2016 ([NOTE-tmptxas9](../notes.d/NOTE-tmptxas9.md)) operationalize the
 handbook's framework, TCMI, which Danieli set out in its introduction (pp.
 1–17). The paper restates its core: identity as many spheres continuous in
 time, trauma as a rupture producing "fixity", the conspiracy of silence,

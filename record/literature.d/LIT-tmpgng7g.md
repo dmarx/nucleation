@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmptxas9), in place of LIT-tmp881f5, which
+  read in full 2026-10-29 ([NOTE-tmptxas9](../notes.d/NOTE-tmptxas9.md)), in place of [LIT-tmp881f5](LIT-tmp881f5.md), which
   could not be reached; worth reading as the clinical tradition's own
   quantitative test of the parenting route, and for its finding that
   descendants who count their murdered grandparents as their own fare
-  better, not worse; read in place of the 1998 handbook (LIT-tmp881f5).
+  better, not worse; read in place of the 1998 handbook ([LIT-tmp881f5](LIT-tmp881f5.md)).
 title: 'Multigenerational legacies of trauma: Modeling the what and how of transmission'
 version: 1
 history:
@@ -43,9 +43,9 @@ summary: >-
 
 Danieli, Y., Norris, F. H. & Engdahl, B. (2016). Multigenerational legacies of trauma: Modeling the what and how of transmission. *American Journal of Orthopsychiatry*, 86(6), 639–651.
 
-Read in full in NOTE-tmptxas9.
+Read in full in [NOTE-tmptxas9](../notes.d/NOTE-tmptxas9.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp881f5, which could not be reached. NOTE-tmptxas9 says what it
+Read in place of [LIT-tmp881f5](LIT-tmp881f5.md), which could not be reached. [NOTE-tmptxas9](../notes.d/NOTE-tmptxas9.md) says what it
 reports of it and what is still missing.
