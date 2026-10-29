@@ -90,7 +90,7 @@ the point: W = 0 and GW = 0, but FGW > 0 (p. 5).
 - **Barycenter (§3.2, p. 4; p. 5).** A Fréchet mean with fixed size N and
   weights, solved by block coordinate descent over the couplings, the
   structure C and the features A. For q = 2 the C step has the closed form
-  C ← (1/hhᵀ) Σ λ_k π_kᵀ C_k π_k from LIT-tmp15puu, and the A step is a
+  C ← (1/hhᵀ) Σ λ_k π_kᵀ C_k π_k from [LIT-tmp15puu](../literature.d/LIT-tmp15puu.md), and the A step is a
   weighted barycentric projection. "this problem is jointly convex w.r.t. C
   and A but not w.r.t. πk" (p. 4). No convergence result is given for the
   barycenter.
@@ -129,7 +129,7 @@ Algorithm 1 (p. 5): start from the product coupling; at each step compute
 the gradient G = (1 − α) M^q + 2α L(C₁, C₂)^q ⊗ π (eq. 7), solve an exact
 OT problem with cost G, and move toward it by the exact minimizer of the
 quadratic along the segment (Algorithm 2). For q = 2 the tensor product
-costs O(mn² + m²n) via LIT-tmp15puu's factorization (p. 4).
+costs O(mn² + m²n) via [LIT-tmp15puu](../literature.d/LIT-tmp15puu.md)'s factorization (p. 4).
 
 ## Concepts
 
@@ -142,21 +142,21 @@ costs O(mn² + m²n) via LIT-tmp15puu's factorization (p. 4).
 
 ## Connections
 
-- **GW** (Mémoli 2011; LIT-tmp15puu's entropic GW) and **W** are the two
+- **GW** (Mémoli 2011; [LIT-tmp15puu](../literature.d/LIT-tmp15puu.md)'s entropic GW) and **W** are the two
   ends. The metric proof rests on Mémoli's isomorphism result.
-- **Structured OT** (LIT-tmpksoez) and Courty et al.'s class-regularized OT
+- **Structured OT** ([LIT-tmpksoez](../literature.d/LIT-tmpksoez.md)) and Courty et al.'s class-regularized OT
   are named as approaches that "require a known and simple structure such
   as class clusters" (p. 2).
-- **COOT** (LIT-tmpbnbe3) later recovers this paper's conditional-gradient
+- **COOT** ([LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md)) later recovers this paper's conditional-gradient
   GW solver as a special case of its block coordinate descent.
 
 ## Bearing on the record
 
-- **CASE-055 and CASE-tmph0fxi: anchored FGW, and what anchors buy.** The
+- **[CASE-055](../cases.d/CASE-055.md) and [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): anchored FGW, and what anchors buy.** The
   zero theorem says exactly what FGW can identify. Its matchings are fixed
   only up to bijections that preserve features and structure. Anchors
   entered as node features therefore break exactly the structural
-  symmetries that move an anchor (THEORY-tmp7cnkm). On a 6-cycle I counted
+  symmetries that move an anchor ([THEORY-tmp7cnkm](../theory.d/THEORY-tmp7cnkm.md)). On a 6-cycle I counted
   the zero-cost matchings among 720 permutations. With no anchor there are
   12, the dihedral group. One anchor leaves 2, the identity and the
   reflection through the anchor. Two adjacent anchors leave 1. Two
@@ -178,10 +178,10 @@ costs O(mn² + m²n) via LIT-tmp15puu's factorization (p. 4).
   6-node graphs the optimal plan changed twice along α ∈ [0, 1]. The
   paper's computed values are local optima (p. 5), so concavity holds for
   the exact problem, not necessarily for what a solver returns.
-- **THEORY-tmpa43ta** (GW's symmetry ambiguity): FGW is the record's first
+- **[THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)** (GW's symmetry ambiguity): FGW is the record's first
   reading with a stated mechanism for breaking it. The mechanism works only
   as far as the features break the automorphisms.
-- **CLAIM-098:** FGW couplings, like GW's, are soft and need not be
+- **[CLAIM-098](../claims.d/CLAIM-098.md):** FGW couplings, like GW's, are soft and need not be
   invertible. Nothing in the paper bears on lossy versus invertible
   transports beyond that.
 - **Instruction for ML practice.** The classification results recommend a

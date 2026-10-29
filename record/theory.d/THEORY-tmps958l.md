@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpbnbe3
 summary: >-
-  Redko, Vayer, Flamary and Courty (2020), LIT-tmpbnbe3, Propositions 2–3,
-  read in NOTE-tmpghx1t from arXiv v3. Proved via Konno's theorem on
+  Redko, Vayer, Flamary and Courty (2020), [LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md), Propositions 2–3,
+  read in [NOTE-tmpghx1t](../notes.d/NOTE-tmpghx1t.md) from arXiv v3. Proved via Konno's theorem on
   concave quadratic programs and checked numerically, including strict
   inequality for non-Euclidean symmetric matrices. Active. It does not say
   COOT's two couplings coincide at every optimum, nor that either is
@@ -21,8 +21,8 @@ summary: >-
 
 ## Source
 
-Redko, Vayer, Flamary and Courty (2020), LIT-tmpbnbe3, §3 and §§C.1–C.3,
-pp. 5, 13–16 of arXiv 2002.03731v3; read in NOTE-tmpghx1t.
+Redko, Vayer, Flamary and Courty (2020), [LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md), §3 and §§C.1–C.3,
+pp. 5, 13–16 of arXiv 2002.03731v3; read in [NOTE-tmpghx1t](../notes.d/NOTE-tmpghx1t.md).
 
 ## What was actually shown
 
@@ -69,10 +69,10 @@ semi-definite Hessian.
   squared-distance matrix, all 8 optimal permutation pairs had π^s = π^v,
   because the zero diagonal penalizes mismatched pairs.
 - **That either plan is unique.** GW's plans are determined only up to the
-  symmetries of the two structures (THEORY-tmpa43ta), and the equality
+  symmetries of the two structures ([THEORY-tmpa43ta](THEORY-tmpa43ta.md)), and the equality
   carries those over.
 - **Anything about COOT on raw data matrices.** That is the general case
-  where COOT is not a GW problem at all (THEORY-tmpvn82m).
+  where COOT is not a GW problem at all ([THEORY-tmpvn82m](THEORY-tmpvn82m.md)).
 - **That COOT is easier.** Exact COOT is NP-hard in general (p. 4). The
   equality gives a simpler algorithm for one special case of GW, not a
   global solver.

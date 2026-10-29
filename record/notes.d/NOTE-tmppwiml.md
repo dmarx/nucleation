@@ -155,12 +155,12 @@ factor of 2. That rescales the effective ε by 2 and changes nothing else.
   square-loss case of the iteration.
 - **Agueh and Carlier 2011; Cuturi and Doucet 2014** for Wasserstein
   barycenters with a fixed ground metric.
-- Used later by **FGW** (LIT-tmpjs7kp) for the structure step of its
-  barycenter, and by **COOT** (LIT-tmpbnbe3) for the tensor factorization.
+- Used later by **FGW** ([LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md)) for the structure step of its
+  barycenter, and by **COOT** ([LIT-tmpbnbe3](../literature.d/LIT-tmpbnbe3.md)) for the tensor factorization.
 
 ## Bearing on the record
 
-- **CLAIM-348 (averaging away minority distinctions): the mechanism is
+- **[CLAIM-348](../claims.d/CLAIM-348.md) (averaging away minority distinctions): the mechanism is
   explicit, and the risk is real but not the one stated.** For square loss
   and fixed couplings the barycenter is Σ λ_s (realigned C_s), divided
   entry-wise by ppᵀ (Prop. 4). A distinction carried by one input enters
@@ -180,15 +180,15 @@ factor of 2. That rescales the effective ε by 2 and changes nothing else.
   found. The largest within-cluster distance in the barycenter had median
   2.20 and ranged from 2.20 to 5.24. So the minority's structure was not
   simply averaged down. It was redistributed, in ways that depended on the
-  initialization. For CLAIM-348 this is a case where the description (the
+  initialization. For [CLAIM-348](../claims.d/CLAIM-348.md) this is a case where the description (the
   barycenter) is fixed by choices of N, p, λ and ε that encode a target,
   with no criterion in the method for choosing them. A barycenter's failure
   to show a distinction is evidence about those choices as much as about
   the communities.
-- **CASE-tmph0fxi and the "emergent interlingua".** The "Why this is here"
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md) and the "emergent interlingua".** The "Why this is here"
   reading, "a reconstructed common structure, not the meaning common to all
   languages", agrees with the method. The barycenter is a Fréchet mean of
-  user-chosen size, defined only up to the symmetries of GW (THEORY-tmpa43ta),
+  user-chosen size, defined only up to the symmetries of GW ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)),
   and computed as one stationary point among several. It is usable as the
   "test of where common structure fails" only if the residuals GW_ε(C,
   C_s) per community are read, and those are what the method minimizes.
@@ -215,6 +215,6 @@ factor of 2. That rescales the effective ε by 2 and changes nothing else.
 
 - How does a GW barycenter's ability to represent a distinction depend on N
   and ε, for a distinction carried by an input of weight λ? A scaling
-  result would turn CLAIM-348's worry into a quantity.
+  result would turn [CLAIM-348](../claims.d/CLAIM-348.md)'s worry into a quantity.
 - Is the barycenter stable across initializations on realistic data, or are
   the stationary points as scattered as in the toy?

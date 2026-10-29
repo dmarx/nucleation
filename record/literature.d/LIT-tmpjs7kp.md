@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp6e5aw), from arXiv v3; worth reading for the metric and interpolation theorems of fused Gromov–Wasserstein, from which it follows that anchors as features break exactly the structural symmetries that move them.
+  read in full 2026-10-29 ([NOTE-tmp6e5aw](../notes.d/NOTE-tmp6e5aw.md)), from arXiv v3; worth reading for the metric and interpolation theorems of fused Gromov–Wasserstein, from which it follows that anchors as features break exactly the structural symmetries that move them.
 title: 'Optimal Transport for structured data with application on graphs'
 version: 2
 history:
@@ -42,4 +42,4 @@ Vayer, T., Chapel, L., Flamary, R., Tavenard, R., & Courty, N. (2019). Optimal t
 
 A6 thought it "probably the most practical model for [CASE-055](../cases.d/CASE-055.md)": independently validated anchor matches break the symmetries pure GW cannot, and the weight between structure and anchors is a scientific parameter to vary, not a hyperparameter to tune. An arm of [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md).
 
-The reading (NOTE-tmp6e5aw) confirms the first point with a condition: anchors break a symmetry only if it moves them, so anchors placed on an axis of symmetry leave the tie (THEORY-tmp7cnkm). The paper itself treats α as a cross-validated hyperparameter and proves only its endpoint limits; the exact FGW value is concave in α, which suits reading α as a parameter to vary.
+The reading ([NOTE-tmp6e5aw](../notes.d/NOTE-tmp6e5aw.md)) confirms the first point with a condition: anchors break a symmetry only if it moves them, so anchors placed on an axis of symmetry leave the tie ([THEORY-tmp7cnkm](../theory.d/THEORY-tmp7cnkm.md)). The paper itself treats α as a cross-validated hyperparameter and proves only its endpoint limits; the exact FGW value is concave in α, which suits reading α as a parameter to vary.

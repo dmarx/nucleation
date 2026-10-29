@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmppwiml), from the PMLR PDF; worth reading for the explicit form of a Gromov–Wasserstein barycenter, a weighted average of realigned inputs whose size, weights and regularization are chosen in advance, and for the authors' statement of what its algorithm does not guarantee.
+  read in full 2026-10-29 ([NOTE-tmppwiml](../notes.d/NOTE-tmppwiml.md)), from the PMLR PDF; worth reading for the explicit form of a Gromov–Wasserstein barycenter, a weighted average of realigned inputs whose size, weights and regularization are chosen in advance, and for the authors' statement of what its algorithm does not guarantee.
 title: 'Gromov-Wasserstein Averaging of Kernel and Distance Matrices'
 version: 2
 history:
@@ -40,4 +40,4 @@ Peyré, G., Cuturi, M., & Solomon, J. (2016). Gromov-Wasserstein averaging of ke
 
 A6's "emergent interlingua", held as high-risk: a barycenter of several communities' response structures is a reconstructed common structure, not the meaning common to all languages, and it can average away the distinctions that matter to minorities ([CLAIM-348](../claims.d/CLAIM-348.md)). Its use would be as a test of where common structure fails.
 
-The reading (NOTE-tmppwiml) locates the risk: with couplings fixed, one input's distinction enters the barycenter with that input's weight, shrunk rather than removed, but the size, weights and regularization fixed in advance, and seed-dependent stationary points, can remove or redistribute it (THEORY-tmp0q3yi).
+The reading ([NOTE-tmppwiml](../notes.d/NOTE-tmppwiml.md)) locates the risk: with couplings fixed, one input's distinction enters the barycenter with that input's weight, shrunk rather than removed, but the size, weights and regularization fixed in advance, and seed-dependent stationary points, can remove or redistribute it ([THEORY-tmp0q3yi](../theory.d/THEORY-tmp0q3yi.md)).

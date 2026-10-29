@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpghx1t), from arXiv v3; worth reading for the exact relation between co-optimal transport and Gromov–Wasserstein (a lower bound, equal for squared Euclidean distances) and for what its zero theorem implies: joint sample and feature plans are fixed only up to the matrix's joint row–column symmetries.
+  read in full 2026-10-29 ([NOTE-tmpghx1t](../notes.d/NOTE-tmpghx1t.md)), from arXiv v3; worth reading for the exact relation between co-optimal transport and Gromov–Wasserstein (a lower bound, equal for squared Euclidean distances) and for what its zero theorem implies: joint sample and feature plans are fixed only up to the matrix's joint row–column symmetries.
 title: 'CO-Optimal Transport'
 version: 2
 history:
@@ -43,4 +43,4 @@ Redko, I., Vayer, T., Flamary, R., & Courty, N. (2020). CO-optimal transport. *N
 
 A6's highest-priority extension: with utterances as samples and pragmatic probes as features, it matches what two communities say and the questions through which they read it, so the correspondence of probes is fitted, not assumed. That is [CLAIM-257](../claims.d/CLAIM-257.md)'s change of cover and [TERM-092](../terms.d/TERM-092.md)'s frontier in fittable form. A6's warning is kept: utterances and probes can be swapped together at equal cost, so anchors must be independent. An arm of [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md).
 
-The reading (NOTE-tmpghx1t) makes the warning exact. COOT never matches an utterance with a probe; the tie is a joint relabelling, within each side, of a block of utterances together with its block of probes (THEORY-tmpvn82m). Its fixed-marginal probe coupling also cannot leave a probe unmatched, so CLAIM-257's change of cover would be absorbed rather than reported unless an unbalanced variant is used.
+The reading ([NOTE-tmpghx1t](../notes.d/NOTE-tmpghx1t.md)) makes the warning exact. COOT never matches an utterance with a probe; the tie is a joint relabelling, within each side, of a block of utterances together with its block of probes ([THEORY-tmpvn82m](../theory.d/THEORY-tmpvn82m.md)). Its fixed-marginal probe coupling also cannot leave a probe unmatched, so [CLAIM-257](../claims.d/CLAIM-257.md)'s change of cover would be absorbed rather than reported unless an unbalanced variant is used.

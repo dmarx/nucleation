@@ -108,7 +108,7 @@ exactly what it cannot resolve.
   exact OT problems and "is guaranteed to decrease the loss after each update
   and so to converge within a finite number of iterations". In the
   squared-Euclidean case, setting π^s = π^v gives a DC algorithm that equals
-  the Frank–Wolfe GW solver of LIT-tmpjs7kp, whose line search is always 1
+  the Frank–Wolfe GW solver of [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md), whose line search is always 1
   (Algorithms 3–5).
 - **InvOT and election isomorphism (pp. 17–18).** Proposition 4: under
   cosine similarities and a whitened X′, InvOT, COOT and GW share optimal
@@ -141,7 +141,7 @@ an OT problem for π^v with cost L(X, X′) ⊗ π^s, and one for π^s with cost
 L(X, X′) ⊗ π^v. Each step is an exact OT problem (network simplex) or, in
 the entropic version (eq. 2, p. 3), a Sinkhorn problem. For L = |·|² the
 cost tensor product costs O((n + n′)dd′ + n′²n) by the factorization of
-LIT-tmp15puu (p. 4; §B.2, p. 13). The comments in Algorithm 1 are swapped:
+[LIT-tmp15puu](../literature.d/LIT-tmp15puu.md) (p. 4; §B.2, p. 13). The comments in Algorithm 1 are swapped:
 the step that computes π^v is labelled "OT problem on the samples" and the
 step that computes π^s "OT problem on the features" (p. 4).
 
@@ -158,9 +158,9 @@ step that computes π^s "OT problem on the features" (p. 4).
 
 - **Gromov–Wasserstein.** COOT contains GW as a lower bound and, for squared
   Euclidean inputs, as a special case (Prop. 3). The FGW solver of
-  LIT-tmpjs7kp is recovered as the symmetric BCD (pp. 15–16). The tensor
-  factorization is LIT-tmp15puu's Proposition 1.
-- **InvOT** (Alvarez-Melis, Jegelka and Jaakkola 2019, LIT-tmpbs68a): equal
+  [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md) is recovered as the symmetric BCD (pp. 15–16). The tensor
+  factorization is [LIT-tmp15puu](../literature.d/LIT-tmp15puu.md)'s Proposition 1.
+- **InvOT** (Alvarez-Melis, Jegelka and Jaakkola 2019, [LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md)): equal
   couplings under cosine similarity and whitening (Prop. 4, p. 17).
 - **Co-clustering by OT** (Laclau et al. 2017): the CCOT and CCOT-GW
   baselines (Table 3).
@@ -168,7 +168,7 @@ step that computes π^s "OT problem on the features" (p. 4).
 
 ## Bearing on the record
 
-- **CASE-tmph0fxi, the correspondence arm: whether COOT's joint plans are
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md), the correspondence arm: whether COOT's joint plans are
   identifiable.** No. The paper proves no uniqueness result for (π^s, π^v),
   and its Proposition 1 implies the limit. With R and R′ two utterance ×
   probe matrices of equal shape and uniform weights, every pair (σ1, σ2)
@@ -195,15 +195,15 @@ step that computes π^s "OT problem on the features" (p. 4).
   general (p. 4), and BCD finds block-wise optima: only 12% of my random
   starts reached the global value. And the entry-wise cost presupposes
   that the two communities' response scales are comparable, which is
-  CASE-055's measurement-invariance question.
+  [CASE-055](../cases.d/CASE-055.md)'s measurement-invariance question.
 - **What COOT does identify that GW does not.** Against GW on distances
-  (THEORY-tmpa43ta), COOT removes rotation and sign ambiguity ("contrary to
+  ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)), COOT removes rotation and sign ambiguity ("contrary to
   GW, COOT is not invariant neither to feature rotations nor to the change
   of signs", pp. 5–6). Its residual ambiguity is the joint
   permutation-symmetry group of the raw matrix. That group is usually
   smaller than the isometry group of the derived distance matrix
-  (THEORY-tmpvn82m).
-- **CLAIM-257 (change of cover).** COOT does fit a probe correspondence
+  ([THEORY-tmpvn82m](../theory.d/THEORY-tmpvn82m.md)).
+- **[CLAIM-257](../claims.d/CLAIM-257.md) (change of cover).** COOT does fit a probe correspondence
   rather than assume it, as the "Why this is here" says. But π^v is a
   coupling with fixed marginals v, v′. Every probe on each side must send
   and receive its full mass, so a question one side cannot decide cannot be
@@ -211,10 +211,10 @@ step that computes π^s "OT problem on the features" (p. 4).
   not reported separately as the claim asks. The paper's note that "this
   procedure can be easily adapted ... to include unbalanced OT problems"
   (p. 5) points to the needed variant, which it does not develop.
-- **CLAIM-098.** The CASE's outcome "anchored fused GW or co-optimal
+- **[CLAIM-098](../claims.d/CLAIM-098.md).** The CASE's outcome "anchored fused GW or co-optimal
   transport beating orthogonal maps" fits COOT's structure. COOT's maps are
   couplings, neither linear nor invertible in general (n ≠ n′).
-- **TERM-092.** The "Why this is here" calls COOT TERM-092's frontier "in
+- **[TERM-092](../terms.d/TERM-092.md).** The "Why this is here" calls COOT [TERM-092](../terms.d/TERM-092.md)'s frontier "in
   fittable form". Nothing in the paper bears on that reading, which is the
   exchange's.
 - **Instruction for ML practice.** The HDA and co-clustering results imply
@@ -249,5 +249,5 @@ step that computes π^s "OT problem on the features" (p. 4).
   permutation symmetry and a gap condition) is the COOT plan unique and
   stable under noise? A perturbation bound would answer it.
 - Does an unbalanced COOT leave unmatched exactly the probes that only one
-  side can decide? That would make it a measurement of CLAIM-257's change of
+  side can decide? That would make it a measurement of [CLAIM-257](../claims.d/CLAIM-257.md)'s change of
   cover.

@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpjs7kp
 summary: >-
-  Derived from Vayer et al. (2019), LIT-tmpjs7kp, Theorem 3.2's zero case,
-  read in NOTE-tmp6e5aw; the paper does not state it. Checked by
+  Derived from Vayer et al. (2019), [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md), Theorem 3.2's zero case,
+  read in [NOTE-tmp6e5aw](../notes.d/NOTE-tmp6e5aw.md); the paper does not state it. Checked by
   enumerating all 720 matchings of a 6-cycle with four anchor patterns.
   Active: an elementary consequence of a proved theorem, checked. It is
   about exact ties; with noisy data, symmetries become near-ties, and the
@@ -22,9 +22,9 @@ summary: >-
 
 ## Source
 
-Vayer, Chapel, Flamary, Tavenard and Courty (2019), LIT-tmpjs7kp, Theorem
+Vayer, Chapel, Flamary, Tavenard and Courty (2019), [LIT-tmpjs7kp](../literature.d/LIT-tmpjs7kp.md), Theorem
 3.2, p. 4, with Theorem 6.4, pp. 12–13 of arXiv 1805.09114v3; read in
-NOTE-tmp6e5aw. The consequence and the count are this record's.
+[NOTE-tmp6e5aw](../notes.d/NOTE-tmp6e5aw.md). The consequence and the count are this record's.
 
 ## What was actually shown
 

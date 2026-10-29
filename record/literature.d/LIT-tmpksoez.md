@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp42yyb), from arXiv v1; worth reading as a convex way to make a transport cost depend on sets of assignments rather than single ones, and for its limits: the structure is supplied, only submodular interactions are tractable, and its own threshold cost is not submodular.
+  read in full 2026-10-29 ([NOTE-tmp42yyb](../notes.d/NOTE-tmp42yyb.md)), from arXiv v1; worth reading as a convex way to make a transport cost depend on sets of assignments rather than single ones, and for its limits: the structure is supplied, only submodular interactions are tractable, and its own threshold cost is not submodular.
 title: 'Structured Optimal Transport'
 version: 2
 history:
@@ -40,4 +40,4 @@ Alvarez-Melis, D., Jaakkola, T. S., & Jegelka, S. (2018). Structured optimal tra
 
 A6, as exploratory: it would matter if pragmatic force rests on a configuration of cues (speaker role, form of address, a later commitment) and not on each cue alone, which is the ternary-structure worry of [QUESTION-283](../questions.d/QUESTION-283.md). The test would be behavioural prediction, not expressiveness.
 
-The reading (NOTE-tmp42yyb) narrows the fit: SOT encodes structure among assignments between two objects, from groups fixed in advance and only of the grouping (submodular) kind; it cannot learn a ternary relation among cue values. A configuration of cues could enter only as a pre-set grouping whose joint mapping is cheaper.
+The reading ([NOTE-tmp42yyb](../notes.d/NOTE-tmp42yyb.md)) narrows the fit: SOT encodes structure among assignments between two objects, from groups fixed in advance and only of the grouping (submodular) kind; it cannot learn a ternary relation among cue values. A configuration of cues could enter only as a pre-set grouping whose joint mapping is cheaper.
