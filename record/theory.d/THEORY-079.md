@@ -22,7 +22,7 @@ promote_when: >-
   share the approximation; and the Dirichlet reductions of LIT-615,
   which rest on a mean-field approximation, not on Laplace.
 title: 'Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-05'
@@ -30,6 +30,12 @@ history:
     `extends: THEORY-087` re-filed as `presupposes: THEORY-087` (ADR-029).
     This account takes the singular penalty as a premise for a claim about
     Bayesian model reduction; it does not refine the penalty.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    CLAIM-188 now cites this account under corroborated_by rather than
+    grounds (ADR-058), so the supports entry for it is removed. The
+    account and its status are unchanged.
 tags:
 - model-comparison
 - probabilistic-modeling
@@ -53,8 +59,6 @@ summary: >-
   test on reduced-rank regression would settle it.
 presupposes:
 - THEORY-087
-supports:
-- CLAIM-188
 ---
 <!-- inactive-ok-file: THEORY-087 — Proposed; this account presupposes its singular half and is no firmer than it -->
 

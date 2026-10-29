@@ -1,19 +1,10 @@
 ---
 number: 17
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpscxh5
-promote_when: >-
-  A check, in each placement of the table below, that
-  the invariance or dependence claimed was measured or proved in the
-  source, not inferred by the reader. At present LIT-273's covariance and
-  LIT-272's rotation sensitivity are the readers' numerical checks, not
-  the papers' claims. The kind of result that would refute this is a
-  Hilbert-space model in the record whose parts or features are recovered
-  from unitarily invariant data alone, with no operator, stipulated basis
-  or factorisation supplied.
 title: 'In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record''s Hilbert-space works differ in where they get it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-09-27'
@@ -45,6 +36,24 @@ history:
     table of where each work gets its basis, and the two inferences. The
     promote_when's met clause is removed, and it now names only the
     per-placement check. The claim is unchanged; the status stays Proposed.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review (ADR-057; ADR-047's ruling on
+    re-derivations); whether a re-derivation meets a promote_when that
+    asks for the source's own statement is put to the owner in the pull
+    request. The promote_when
+    asked that each placement be shown in its source: "A check, in each
+    placement of the table below, that the invariance or dependence
+    claimed was measured or proved in the source, not inferred by the
+    reader." For LIT-273 and LIT-272 the invariance and the dependence are
+    not stated in the papers. They are now proved in the note of this
+    date, checked numerically with a non-orthogonal positive control, and
+    the check's script was re-run by the reviewing session. The table
+    says which cells are the record's, and the van Rijsbergen cell is
+    marked as the reader's survey. The 'where from' column, which carries
+    the title's last clause, is quoted from each source. The title is
+    unchanged.
 tags:
 - mathematics
 - quantum-foundations
@@ -115,9 +124,9 @@ the vectors fixed exactly, phases included (§6). The paper calls this
 | Work | What it treats as intrinsic | Where the basis or factorisation comes from |
 |---|---|---|
 | Carroll, [LIT-123](../literature.d/LIT-123.md) | The spectrum {E_n}: "all the information in the Hamiltonian" (pp. 4–5). Changes of basis have "no physical importance whatsoever" (p. 4). | The dynamics. Among factorisations, the Hamiltonian's form picks out a local one (Cotler et al., unique when it exists) or a quasi-classical one (Carroll & Singh, numerical examples only) (pp. 7–9). |
-| Van Rijsbergen, [LIT-262](../literature.d/LIT-262.md) | Traces and inner products. Every quantity the book computes is invariant under a joint unitary change of basis ([NOTE-239](../notes.d/NOTE-239.md)). | The observable. Each observable's eigenbasis is "a particular perspective", and a change of basis "constitutes a change of point of view" (Prologue p. 6; ch. 1 p. 19). |
-| Coecke, Sadrzadeh & Clark, [LIT-273](../literature.d/LIT-273.md) | The ε/η composition. Orthogonal changes of the noun and sentence spaces carry the sentence vector covariantly (checked numerically in [NOTE-245](../notes.d/NOTE-245.md)). | Only the self-duality V* ≅ V, which the paper grounds in "a fixed base" (p. 13). The meaning computed does not depend on which base. |
-| Kartsaklis et al., [LIT-272](../literature.d/LIT-272.md) | Nothing basis-free beyond the functor's object map. | A stipulation. W is the space of the 2,000 most frequent context lemmas with that basis fixed, and the Frobenius copying map is the one this basis induces. The paper notes that W* ≅ W "is not natural" (§2). A sentence is a Hadamard product in this basis, and one random rotation moved a sentence–subject cosine from 0.008 to −0.53 ([NOTE-246](../notes.d/NOTE-246.md)). |
+| Van Rijsbergen, [LIT-262](../literature.d/LIT-262.md) | Traces and inner products. Every quantity [NOTE-239](../notes.d/NOTE-239.md) records the book computing is a trace or inner product, and so invariant under a joint unitary change of basis (the reader's survey, not the book's statement). | The observable. Each observable's eigenbasis is "a particular perspective", and a change of basis "constitutes a change of point of view" (Prologue p. 6; ch. 1 p. 19). |
+| Coecke, Sadrzadeh & Clark, [LIT-273](../literature.d/LIT-273.md) | The ε/η composition. Orthogonal changes of the noun and sentence spaces carry the sentence vector covariantly (checked numerically in [NOTE-245](../notes.d/NOTE-245.md)). The paper does not state this; proved in the note of 2026-10-29. | Only the self-duality V* ≅ V, which the paper grounds in "a fixed base" (p. 13). The meaning computed does not depend on which base. |
+| Kartsaklis et al., [LIT-272](../literature.d/LIT-272.md) | Nothing basis-free beyond the functor's object map. | A stipulation. W is the space of the 2,000 most frequent context lemmas with that basis fixed, and the Frobenius copying map is the one this basis induces. The paper notes that W* ≅ W "is not natural" (§2). A sentence is a Hadamard product in this basis, and one random rotation moved a sentence–subject cosine from 0.008 to −0.53 ([NOTE-246](../notes.d/NOTE-246.md)). That the Hadamard composition depends on the basis is proved in the note of 2026-10-29, not stated in the paper. |
 | [THEORY-004](THEORY-004.md) (representations) | The kernel (Gram matrix). A representation is fixed by it only up to an orthogonal transformation. | Nowhere. That is why the comparison measures (CKA, CCA, Procrustes) are the invariant ones ([THEORY-008](THEORY-008.md)). |
 
 So the same fork appears in physics, retrieval and compositional semantics.
@@ -206,3 +215,32 @@ each placement in the table, the invariance or dependence was measured or
 proved in the source rather than inferred by the reader. [LIT-273](../literature.d/LIT-273.md)'s
 covariance and [LIT-272](../literature.d/LIT-272.md)'s rotation sensitivity are at present the readers'
 numerical checks.
+
+## Note of 2026-10-29: the two placements proved
+
+Made by the tenth status review under ADR-047's ruling on re-derivations,
+for the two cells the promote_when named.
+
+**LIT-273's ε/η composition is orthogonally covariant.** A transitive
+sentence is s = (ε ⊗ 1_S ⊗ ε)(subj ⊗ ψ ⊗ obj), so in components
+s_j = Σ ψ_ijk subj_i obj_k, with ψ in N ⊗ S ⊗ N. Change the noun space by
+an orthogonal O_N and the sentence space by an orthogonal O_S, applied
+consistently: subj' = O_N subj, obj' = O_N obj and
+ψ' = (O_N ⊗ O_S ⊗ O_N)ψ. Then
+s'_j = Σ (O_N)_ia (O_S)_jb (O_N)_kc ψ_abc (O_N)_ia' subj_a' (O_N)_kc' obj_c'.
+Summing over i and k uses (O_Nᵀ O_N)_aa' = δ_aa' and likewise for c,
+which is ε's invariance under orthogonal maps, so s' = O_S s. Cosines
+between sentence vectors are therefore unchanged. Checked numerically on
+random tensors; with a non-orthogonal change of the noun space in place
+of O_N, as a positive control, the covariance fails.
+
+**LIT-272's Frobenius composition depends on the basis.** The copying
+map induced by a basis gives μ(e_i ⊗ e_j) = δ_ij e_i, so μ(x ⊗ y) is the
+elementwise product x ⊙ y in that basis. On ℝ², take x = (1, 0) and
+y = (1, 1)/√2. Then x ⊙ y = (1/√2, 0), and its cosine with x is 1. Rotate
+the basis by 45°: Ox = (1, 1)/√2 and Oy = (0, 1), so Ox ⊙ Oy = (0, 1/√2),
+whose cosine with Ox is 1/√2. A sentence–subject cosine moves under a
+change of basis, as NOTE-246 found in one random rotation.
+
+Neither paper states these. They are facts about the constructions the
+papers use, proved here, and the table now says so.

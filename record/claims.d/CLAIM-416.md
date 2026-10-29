@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6bxtr
 title: 'Competing perspectives compete over the tests that measure them as well as under them: success under an evaluative regime is evidence of competence relative to that regime, a fair test need not be neutral across competences, and a perspective that gains influence over the test can change what later success shows'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -12,6 +12,12 @@ history:
     Note of 2026-10-22 added after the readings: documented instances
     from Penglase, Rogers and Abbott, and Sewell's general mechanism.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-854 moved from grounds to corroborated_by (ADR-058): the claim
+    is the rankings mechanism's companion for contests, not an
+    application of it.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +39,7 @@ complements:
 - CLAIM-402
 grounds:
 - CASE-130
+corroborated_by:
 - THEORY-854
 summary: >-
   From the owner's case at U35 of the exchange of 2026-10-22, rival

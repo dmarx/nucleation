@@ -11,7 +11,14 @@ promote_when: >-
   or falls, replicated outside the originating laboratories. A review,
   however thorough, cannot settle it.
 title: 'Reward has separable components: ''liking'', its hedonic impact, measurable without report by orofacial taste reactivity in humans, apes, monkeys and rodents, and ''wanting'', its incentive salience; brain stimulation and sensitization can raise ''wanting'' without raising ''liking'', so motivation can grow while pleasure stays flat or falls, and ''liking'' reactions can occur without any subjective feeling of pleasure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The tenth status review (ADR-057) added a dated note saying what
+    holds it back: the dissociation is held only through a review, with no
+    primary study read. The claim and its status are unchanged.
 tags:
 - emotion-and-affect
 - motivation
@@ -88,3 +95,14 @@ from it. Dayan and Berridge on model-based and model-free Pavlovian
 learning ([LIT-584](../literature.d/LIT-584.md)) is the record's earlier reading from the same
 programme. For [QUESTION-266](../questions.d/QUESTION-266.md), taste reactivity is a layer-2 marker
 that does not depend on choice.
+
+## Note of 2026-10-29: what holds it back
+
+The record holds the wanting–liking dissociation only as Berridge and
+Kringelbach's review reports it; NOTE-1110 read none of the primary
+experiments. No primary study the record reads raises incentive salience
+by choice, effort or cue-triggered pursuit while taste reactivity stays
+flat, replicated outside the originating laboratories. The title's
+sensitization clause is the review's proposal ("Incentive-sensitization
+would produce addiction, by selectively magnifying cue-triggered
+'wanting'"), which THEORY-895 reads and holds to its own unmet promote_when.

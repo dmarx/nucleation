@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpe0iew
 title: 'An ordering serving as the negotiation''s potential, as the potential account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -15,6 +15,12 @@ history:
     evidence, the wanting/liking dissociation THEORY-893 reports, is
     Proposed pending replication outside the originating labs, so the
     record does not hold the counter itself any more firmly than that.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-895 added to grounds by the tenth status review (ADR-057):
+    the persistence and resumption of sensitized 'wanting' in the title
+    are that reading's, not THEORY-893's. The claim is unchanged.
 role: counter
 warrant: empirical
 tags:
@@ -28,6 +34,7 @@ objects_to:
 grounds:
 - THEORY-893
 - LIT-1468
+- THEORY-895
 summary: >-
   Raised by the reading of Berridge and Kringelbach ([NOTE-1110](../notes.d/NOTE-1110.md)) filed
   on 2026-10-23 for the potential account. Sensitized 'wanting'
