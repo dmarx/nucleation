@@ -92,3 +92,51 @@ identification.
   apart from their knowledge of the events and from family transmission.
   If it does, the injury is carried as part of a social self, and
   [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s test applies to the past as well as the future.
+
+## Note of 2026-10-29: the germline route, read
+
+Five works were read: the mouse study, the Civil War study and the three
+sceptical reviews. Together they narrow the germline route.
+
+- **What counts as inheritance** (Heard and Martienssen, [NOTE-tmp3dbkt](../notes.d/NOTE-tmp3dbkt.md)).
+  An effect is transgenerational only in a generation never exposed: the
+  grandchildren of a father exposed before conception, the
+  great-grandchildren of a pregnant mother. Survivors' children are an
+  intergenerational case. Two rounds of reprogramming make transmission
+  past them unlikely in mammals. What reaches grandchildren travels, on
+  present evidence, by the womb, by care, by habit or by story.
+- **What the best animal case carries** (Dias and Ressler, [NOTE-tmpeof8o](../notes.d/NOTE-tmpeof8o.md)).
+  Offspring were more sensitive to the odour their father was shocked
+  with, with more neurons for its receptor, through IVF and
+  cross-fostering. The authors call what passes "sensitivity", not fear.
+  The proposed sperm mark is modest, in groups as small as four. A tuning
+  of perception needs no representation of the ancestor.
+- **What the best human case carries** (Costa et al., [NOTE-tmp3firt](../notes.d/NOTE-tmp3firt.md)). Sons
+  of the worst-held prisoners of war had a higher older-age mortality
+  hazard (about 1.11); daughters did not. The authors favour an
+  epigenetic route only by elimination and have no data on parenting.
+  One untested line touches the identity route: return "to a grateful
+  nation" may have given captivity a meaning that protected sons. On that
+  reading a group's story buffers transmitted harm as well as carrying it.
+- **The human test cannot yet be run** (Horsthemke, [NOTE-tmpahh4j](../notes.d/NOTE-tmpahh4j.md)). A human
+  study can exclude genetic inheritance but not ecological or cultural
+  inheritance. The causal step "can hardly be done in humans". Adoptee and
+  paternal-only designs weaken the confounds without removing them. The
+  question's first test is, for now, the second answer it allows: no clean
+  separation is achievable.
+- **The named human cases are weak** (Bird, [NOTE-tmp9514e](../notes.d/NOTE-tmp9514e.md)). Överkalix ignored
+  cultural transmission within families and risks multiple testing; the
+  FKBP5 study rests on 32 people. Bird cites a larger Swedish cohort
+  (Vågerö et al. 2018) only for failing to replicate the
+  paternal-grandfather effects on diabetes and heart disease. That paper's
+  title reports such an effect on all-cause and cancer mortality, so his
+  account is one-sided.
+
+Two cautions about this consensus. The three sceptics are not
+independent. Heard reviewed Bird's article, Bird commented on Heard's
+manuscript, and Bird and Horsthemke have written together. They are one
+school, not three judgements.
+And their chief confound, families passing on habits, is itself one of
+the question's routes. The social routes, parenting and identity among
+them, gain share by default, not by evidence; nothing read yet chooses
+between them.
