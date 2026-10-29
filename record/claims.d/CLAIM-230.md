@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpflbi3
 title: 'Blackwell comparison needs the state each rendering is about, which natural texts do not supply, so a decision measure is fixed by whoever labels the state, and it orders translation procedures, not single renderings'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -13,6 +13,15 @@ history:
     property of a procedure over a class of items, and CLAIM-050 v2
     states its condition over procedures and a designed distribution
     of situations.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057). The edge objects_to CLAIM-126
+    was removed: the body cites CLAIM-126 for the limit its
+    certificate already states, decisions about the label used to
+    define the experiment, and says that for stitching the label comes
+    with the data set, so nothing here contests what CLAIM-126 says.
+    The title, the body's argument and the status are unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -25,7 +34,6 @@ grounds:
 - CASE-042
 objects_to:
 - CLAIM-050
-- CLAIM-126
 uses:
 - TERM-028
 summary: >-
@@ -40,7 +48,6 @@ summary: >-
   "one rendering is a garbling of another", is then not well typed. It
   does not say a design-based state is illegitimate.
 ---
-<!-- inactive-ok-file: CLAIM-126 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of task-loss comparison, not as settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that meets this objection, cited as open -->
 
@@ -110,3 +117,10 @@ assigns it.
 - [CLAIM-050](CLAIM-050.md)'s defeat condition restated over translation procedures,
   applied across a stated distribution of situations.
 - For single renderings, a different measure, stated as such.
+
+## Note of 2026-10-29: not an objection to CLAIM-126
+
+The eleventh status review (ADR-057) removed `objects_to: CLAIM-126`. The
+paragraph "The record has met the measurement gap once" cites it for the limit it already states, and says that for
+stitching the label comes with the data set, so nothing here contests what
+it says.

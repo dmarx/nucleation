@@ -1,10 +1,10 @@
 ---
 number: 126
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpkx2sz
 title: 'Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,15 @@ history:
     transport preserves decision-relevant information. That is
     interpretation, not derivation. The title and the status are
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted at the eleventh status review (ADR-057) on the owner's
+    assent. Both premises are Active, CLAIM-050 since 2026-10-28,
+    which the note of 2026-10-19 named as what held it back.
+    CLAIM-230's edge was removed, since it cites this claim's own
+    limit as a parallel. Nothing meets the defeat condition. The title
+    and the warrant are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,8 +57,6 @@ summary: >-
   decision-relevant half of [CLAIM-125](CLAIM-125.md), and qualified by the reading of
   Bansal, Nakkiran & Barak before it was filed: only reconstruction-fitted
   stitching certifies sufficiency, and only within the map class.
-objected_by:
-- CLAIM-230
 ---
 <!-- inactive-ok-file: CLAIM-125 THEORY-156 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -137,3 +144,14 @@ garbling never helps a decision-maker free to choose any rule. Both hold
 on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
 general converse, which stays Proposed, is not used. Quotations of
 [THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
+
+## Note of 2026-10-29: promoted
+
+The eleventh status review (ADR-057) promoted this claim on the owner's
+assent. The note of 2026-10-19 said it stays Proposed while CLAIM-050 is,
+and CLAIM-050 has been Active since 2026-10-28; CLAIM-268, its other
+premise, is Active, and so is every ground. CLAIM-230 no longer objects to
+it: that claim cites this one's certificate, for decisions about the label
+used to define the experiment, as a parallel, and says that for stitching
+the label comes with the data set. Nothing in the record meets the defeat
+condition, whose formal failures CLAIM-268 holds.

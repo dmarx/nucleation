@@ -3,8 +3,8 @@ number: 117
 status: Proposed
 formerly:
 - CLAIM-tmpx6akp
-title: 'Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations'
-version: 2
+title: 'Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations under a correspondence anchored to independently measured distinctions'
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -18,6 +18,18 @@ history:
     defects are not identified from data. Stated on observed responses
     (CLAIM-231). The manuscript's §9 identity quoted below is
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057, ADR-059). CLAIM-011, granted on
+    2026-10-08, is written in: intertwining with an uninformative
+    correspondence is vacuous or lossy, so the title now names an
+    anchored correspondence and 'What it does not say' gives the two
+    limits. The old title read: 'Pragmatic fidelity requires
+    preserving the dynamics of interpretation, not only final
+    judgements: a good transport approximately intertwines source and
+    target framing operations'. The defeat condition, on observed
+    responses since version 2, uses no Φ and is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,7 +66,7 @@ complements:
 - CLAIM-063
 ---
 
-# CLAIM-117: Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations
+# CLAIM-117: Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations under a correspondence anchored to independently measured distinctions
 
 ## The claim
 
@@ -67,6 +79,12 @@ preservation of the effects of future frames distinct from agreement on a single
 static pragmatic judgment."
 
 ## What it does not say
+
+That intertwining under any correspondence counts. A Φ that collapses every
+state makes the intertwining vacuous, and a non-injective one makes it lossy
+(CLAIM-011, granted). So the correspondence is one that keeps independently
+measured distinctions apart, admissible in CLAIM-077's sense, and is
+estimated on tasks other than those it is evaluated on.
 
 That noncommutativity ([TERM-024](../terms.d/TERM-024.md)) is quantum ([CLAIM-041](CLAIM-041.md)). The identity is algebra (checked in the
 workbench entry of 2026-10-09); the claim that the defects matter for fidelity
@@ -86,3 +104,10 @@ preserving the dynamics of interpretation and that a good transport
 approximately intertwines framing operations, and stays interpretive.
 The identity is quoted above as what the claim was developed into, not
 as part of what it states. Its title is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+It rests on CLAIM-052, which is Proposed. No study has yet tested its defeat
+condition: whether, among renderings matched on static judgement
+distributions, observed order effects add to the prediction of receivers'
+fidelity verdicts.

@@ -1,10 +1,10 @@
 ---
 number: 125
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpnyfix
 title: 'Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -19,6 +19,25 @@ history:
     family of decisions), and extends that characterization, or the
     classification of classical transports, to signalling data.' The
     title is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057, ADR-059). CLAIM-207, granted on
+    2026-10-10, is written in. The half of the bridge question that
+    simulations answer is answered for kernels between empirical
+    models, not for translation, which reaches them only once one
+    kernel family is fixed across utterances and derived from the text
+    channel. 'What it does not say' now says so. The title and the
+    defeat condition are unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted at the eleventh status review (ADR-057) on the owner's
+    assent. Both premises, CLAIM-121 and CLAIM-070, are Active, and so
+    is every ground. CLAIM-237 and CLAIM-245 were written in at
+    version 2 and CLAIM-207 at version 3, so no objection is live.
+    Nothing in the record meets the defeat condition. The title, the
+    defeat condition and the warrant are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -124,7 +143,15 @@ models and non-adaptive procedures it is settled. It does not say that
 diffusion or any other practice fails to transport meaning; [CLAIM-001](CLAIM-001.md)'s
 objection was to [CLAIM-100](CLAIM-100.md) and concerned covers, which this claim no longer
 holds open. Nor does it say the two open parts are hard. It says only that
-the literature read here does not settle them.
+the literature read here does not settle them. Nor does it say the
+answered half reaches translation. The simulations, and Propositions 1 and 2 as their special
+cases, are about kernels between empirical models, which map readers'
+judgements to readers' judgements. A translation is a channel on texts,
+T(v | u). For one source–target pair, a constant kernel meets their
+hypotheses at zero distortion (CLAIM-207). They bear on translation only
+once one kernel family is fixed across utterances and derived from the text
+channel. No work read here does that, and it is not one of this claim's two
+parts.
 
 ## Prior art
 
@@ -219,3 +246,13 @@ refereed venues and Active as [THEORY-720](../theory.d/THEORY-720.md). It does n
 characterization, that a map is such a simulation exactly when a
 non-contextual model of the hom scenario induces it. That half waits on an
 independent proof of the corrected Theorem 44 and stays Proposed.
+
+## Note of 2026-10-29: promoted
+
+The eleventh status review (ADR-057) promoted this claim on the owner's
+assent. Its premises CLAIM-121 and CLAIM-070 are Active, and so are its
+grounds. Its three objections are written in: CLAIM-237 and CLAIM-245 by
+version 2's restatement, and CLAIM-207 by version 3's scope sentence, which
+says the answered half is about kernels between empirical models and not
+yet about translation. What the claim holds is that the literature read
+here leaves its two parts open, and nothing in the record settles either.
