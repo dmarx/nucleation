@@ -1,18 +1,25 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmpbxw6b) from the publisher's PDF (CC
+  BY), without the supplementary materials; worth reading as the first
+  experiment on how far lay moral concern reaches past the living, and
+  what makes it reach further: salience of the future, its quality, and
+  less sympathy with the victims.
 title: 'The Psychology of Existential Risk: Moral Judgments about Human Extinction'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, extending the line
-    of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
     Crossref: Scientific Reports 9, 15100; online 2019-10-21, so
-    `published:` is that date (ADR-002). Open, CC BY.
+    `published:` is that date (ADR-002). Open, CC BY. Set Active the
+    same day: read in full in NOTE-tmpbxw6b from the publisher's PDF (CC
+    BY), without the supplementary materials, not compared with the
+    published text, where there is one. The filing summary is replaced
+    by the reading's.
 tags:
 - future-generations
 - moral-psychology
@@ -27,15 +34,14 @@ keywords:
 - 'Parfit'
 implementations: []
 summary: >-
-  Schubert, Caviola & Faber (2019). Tested Parfit's claim that a catastrophe killing everyone is far worse than one killing almost everyone. Most lay participants did not judge extinction uniquely bad; they did once prompted to consider the lost future, or told the future would be long and good, while their ordinary judgements focused on the immediate suffering.
+  Schubert, Caviola & Faber (2019). Five studies (N = 2,507 as stated) of Parfit's three outcomes: no catastrophe, 80% of humanity killed, 100% killed. Most laypeople judge extinction bad and say it must be prevented, but only 19–37% of those ranking the outcomes in the expected order judge the step from 80% to 100% worse than the step from none to 80%. More do when the victims are zebras, when the catastrophe sterilizes rather than kills, or when told to consider the long-term future (39–50%). A majority (67–77%) do only when told the surviving future would be long and utopian. People recruited as existential-risk mitigators do so unprompted (86%). The authors conclude that laypeople attend to immediate harm to fellow humans and neglect the long-term consequences.
 ---
 
 # LIT-tmpk72ci: The Psychology of Existential Risk: Moral Judgments about Human Extinction
 
 Schubert, S., Caviola, L. & Faber, N. S. (2019). *Scientific Reports*, 9, 15100.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmpbxw6b, from the publisher's PDF (CC BY), without the supplementary materials.
 
 ## Why this is here
 

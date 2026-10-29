@@ -1,0 +1,299 @@
+---
+status: Read
+paper: LIT-tmpka2bf
+title: 'Population ethical intuitions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the PsyArXiv preprint (osf.io/wdbr8; OSF file
+    dated 2021-04-01), a Word manuscript marked as not yet published,
+    with no page numbers; results are cited by study. Not compared with
+    the published version in Cognition (2022). Figures were read from
+    their captions only.
+date: '2026-10-29'
+summary: >-
+  Nine experiments with US online samples. People require more happiness
+  than suffering for a population to be better existing than not (about
+  75% happy; about 61% when the two are stated to be equally intense).
+  Yet they judge adding one extremely happy person as good as adding one
+  extremely unhappy person is bad: they reject the intuition of
+  neutrality and the procreation asymmetry. With averages fixed they
+  prefer larger happy and smaller unhappy populations, but the
+  preference for more happy people fades and, at a billion against ten
+  billion, reverses. With totals fixed they prefer higher averages. In
+  conflicts averagism tends to win, to the point of preferring to add
+  near-maximally unhappy people who raise the average. Prompts to
+  reflect move judgements toward totalism.
+---
+<!-- inactive-ok-file: QUESTION-tmpmx9ha CLAIM-tmpjylq8 CLAIM-tmprudek LIT-tmpoc3e4 LIT-tmpk72ci LIT-469 LIT-tmp0ocqn — Open, Proposed, Deferred or Unavailable; the question, thesis and objection this bears on, and unread works it is compared with -->
+
+# NOTE-tmpaz0p7: Population ethical intuitions
+
+## Contribution
+
+It is the first systematic set of experiments on lay population ethics.
+It asks three questions philosophers have argued over and finds that lay
+judgement fits no single theory. Do people weigh happiness and suffering
+alike? Do they count the average or the total? Do they count only
+people who exist, or also people who could?
+
+## Key insight
+
+Ordinary judgement counts merely possible people, but not in large
+numbers. People think a world is made better by adding a happy person
+who would not otherwise exist, and worse by adding an unhappy one, by
+equal amounts. That is against the view that morality is about "making
+people happy" and not "making happy people" (Narveson 1973: 80, as
+quoted). But the value of more happy people fades as their number grows,
+while the disvalue of more unhappy people grows. When average and total
+conflict, the average tends to win.
+
+## Assumptions
+
+- **Hedonic welfare only.** Lives are described by a happiness scale
+  from −100 to +100 with a neutral 0, "a life worth living" above it
+  (Studies 1b–3d). Non-hedonic goods, such as Van Gogh's achievements,
+  are set aside (Limitations).
+- **Axiological, not deontic, judgements.** Participants say which world
+  is better, or which they would prefer to come into existence, not
+  what anyone ought to do. The authors grant that the question forms
+  differ between studies (Limitations).
+- **Fixed-level homogeneous populations.** Everyone in a civilization
+  has the same level, and resource, crowding and environmental concerns
+  are stipulated away (Studies 3a–d).
+- **Attention and comprehension checks** drop many participants: 161 of
+  622 in Study 3c, 131 of 613 in Study 3d. The authors report that the
+  pattern holds without exclusions (Supplementary Materials, unread).
+
+## Key results
+
+- **Studies 1a–c: trading happiness against suffering.** "What
+  percentage of happy and unhappy people would there have to be for you
+  to think that this world is overall positive … better for the world
+  to exist rather than not exist?"
+  - *1a* (N = 474, pre-registered). Extreme happiness ("falling in
+    love") against extreme unhappiness ("being tortured"). Required
+    happiness: 75.62% for a population of 1,000, 74.98% for the share of
+    time within each life; no difference, t(468) = 0.41. The less
+    willing participants were to relive their worst day to relive their
+    best, the more happiness they required (r = −.11). Women required
+    more than men (78.4% vs 72.35%).
+  - *1b* (N = 356, pre-registered; 2 × 2 of mild or extreme happiness
+    and suffering). Above 50% in every cell. Extreme suffering
+    outweighed by mild happiness needed 81.97%, by extreme happiness
+    72.03%. Mild suffering needed 64.56% and 61.9%.
+  - *1c* (N = 278, pre-registered). The happiness and suffering were mild
+    and stated to be "exactly equally intense", and each person in the
+    world was said to weigh an hour of each as exactly neutral.
+    Required: 61.84% (population) and 60.37% (time within a life); the
+    modal answer was 51. 37.0% said 50% or 51% was enough.
+- **Studies 2a–b: adding one person.** 1–7 scale, 4 = equally good.
+  - *2a* (N = 157, within-subjects, not pre-registered). A world of one
+    million people at level 0. Adding one at +100: M = 5.06. Adding one
+    at −100: M = 3.08. Reverse-scored, the two did not differ
+    (t(156) = 1.23, p = .22), also with a weak preference for adding a
+    neutral person (M = 4.23) controlled.
+  - *2b* (N = 369, between-subjects, Prolific, not pre-registered). An
+    empty world or one of 10 billion neutral people. Empty: happy
+    M = 5.64, unhappy M = 2.38. Full: happy M = 4.74, unhappy M = 3.14.
+    No effect of valence (F(1, 365) = 0.24); adding mattered more to an
+    empty world (F(1, 365) = 54.16). Only seven participants chose "This
+    question doesn't make sense to me / I don't know".
+- **Study 3a: totals vary, averages fixed** (N = 789, pre-registered).
+  Pairs of civilizations lasting millions of years, all happy or all
+  unhappy, at ten-fold ratios (1,000 vs 10,000; 1M vs 10M; 1B vs 10B).
+  "Which would you prefer?"
+
+  | condition | 1,000 vs 10,000 | 1M vs 10M | 1B vs 10B |
+  |---|---|---|---|
+  | happy | 5.12 | 4.33 | 3.71 |
+  | unhappy | 3.04 | 2.56 | 2.32 |
+  | neutral | 4.65 | 3.98 | 3.48 |
+
+  (7 = strongly prefer the larger.) The preference for fewer unhappy
+  people (M = 5.36 reversed) was stronger than for more happy people
+  (M = 4.39), t(785) = 8.67. At a billion, participants preferred one
+  billion happy people to ten billion (t(401) = −2.90). Median ideal
+  population: 1.5 million happy; 100 unhappy.
+- **Study 3b: averages vary, totals fixed** (N = 825, pre-registered).
+  4,000 at ±60 against 6,000 at ±40, and the same at millions and
+  billions. People strongly preferred the better average: happy
+  M = 2.28, unhappy M = 2.34 (1 = the population with the better
+  average). Only 47% correctly said the totals were equal, but the
+  pattern held among those who did.
+- **Study 3c: average against total** (N = 461, pre-registered; 2
+  valence × 2 thinking style). Civilization A, 1,000 at ±100, against
+  100,000 at ±90, ±70 or ±50, or a million or a billion at ±50.
+  - Responses favoured the total for 100,000@90, were indifferent at
+    100,000@70, and favoured the average from 100,000@50 on. In the
+    happy condition they still favoured 1,000 at +100 over a billion at
+    +50 (t(212) = −5.56).
+  - Instructed intuition was more averagist than instructed reflection,
+    F(1, 457) = 7.42, ηp² = .02.
+- **Study 3d: mere addition** (N = 482, pre-registered). 1,000 at +100
+  (or −100) against the same plus 1,000 at ±10, ±50 or ±90.
+  - Averagist answers predominated. They were stronger for unhappy
+    populations (F(1, 478) = 21.89) and under intuition
+    (F(1, 478) = 7.99). In the unhappy condition, adding 1,000 people
+    at −90 to 1,000 at −100 was preferred (intuition M = 3.3, reflection
+    3.65, reverse-scored; 1 = averagist).
+  - Strict averagists (choosing 1) were 40%, 30% and 17% across the
+    ±10, ±50 and ±90 tasks; strict totalists 7%, 10% and 16%.
+  - Asked in the abstract, participants said adding happy people below
+    the average is good (M = 4.85) and adding unhappy people above it is
+    bad (M = 3.31): totalist. 27% (happy) and 35% (unhappy) answered
+    totalist in the abstract and averagist in the concrete.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Laypeople require more happiness than suffering for a population to be net positive, even at stated equal intensity | moderate: three pre-registered studies; the size of the asymmetry shrinks as intensity is equalized (75% to 61%) | Studies 1a–c |
+| C2 | Laypeople reject the intuition of neutrality: adding a happy person makes the world better | moderate: two studies, within and between subjects, neither pre-registered; one person added, at +100 | Studies 2a–b |
+| C3 | Laypeople's judgements of adding a happy or unhappy person are symmetrical, against the procreation asymmetry | moderate: same two studies; axiological only | Studies 2a–b |
+| C4 | Laypeople are sensitive to totals and to averages, and in conflict tend to favour averages | moderate to strong: four pre-registered studies with varied designs | Studies 3a–d |
+| C5 | The value of more happy people declines with population size, and reverses at a billion; the disvalue of more unhappy people does not | moderate: one study, comparative preferences | Study 3a |
+| C6 | Reflection moves judgements toward totalism | weak to moderate: an instruction manipulation, ηp² = .02 in both studies; in Study 3d the post hoc difference is significant only for happy populations | Studies 3c–d |
+| C7 | Averagist intuitions may come from substituting one life's distribution of experiences for a population's | weak: suggested by equal trade ratios across populations and lives; not tested | Studies 1a, 1c; General Discussion |
+
+## Concepts
+
+- **intuition of neutrality** (Broome): adding a life worth living is
+  morally neutral, all else equal.
+- **procreation asymmetry** (McMahan): adding an unhappy life is bad,
+  adding a happy one neutral.
+- **averagism / totalism**: a population is better as its average, or
+  its total, welfare is greater.
+- **asymmetric scope sensitivity**: preferences over the size of unhappy
+  populations stay steep as numbers grow while those over happy
+  populations flatten.
+- **axiological versus deontic judgement**: which outcome is better,
+  versus what one may or must do.
+- **attribute substitution** (Kahneman and Frederick): answering how
+  good a population is by answering how good its distribution would be
+  within one life, "such as themselves".
+
+## Connections
+
+- **Narveson (LIT-tmpoc3e4), unread.** The paper
+  quotes his slogan, "We are in favor of making people happy, but
+  neutral about making happy people" (1973: 80), as the source of the
+  intuition of neutrality. Lay judgement rejects it in Studies 2a–b. Two
+  qualifications, both the authors'. First, the test is axiological: it
+  asks which world is better. Narveson's view, as the record states it,
+  is about what utilitarian concern gives reason to do. Second, people
+  "may consider it morally forbidden to create a new unhappy person but
+  only morally supererogatory … to create a new happy person" (General
+  Discussion), an asymmetry the studies did not test. So the result
+  counts against neutrality about value, not yet against a
+  person-affecting view of obligation.
+- **Schubert et al. (LIT-tmpk72ci).** Cited here as
+  a reason the question matters: if creating happy people is good,
+  reducing extinction risk could be a priority. That paper's Study 1
+  found people at the midpoint on whether a happy person coming into
+  existence makes the world better (M = 4.45); this paper finds yes when
+  the person is at +100 and described concretely.
+- **Parfit (LIT-469).** Study 3c's dilemmas resemble
+  the Repugnant Conclusion. The authors infer that people would prefer a
+  small population at +100 to any population at +1. They did not test
+  it.
+- **Longtermism (LIT-tmp0ocqn and the works the
+  question cites).** The authors end on it: reflective totalism "implies
+  that future generations should be weighed much more heavily" (General
+  Discussion). Study 3a's fading at large numbers is the obstacle they
+  do not stress.
+
+## Bearing on the record
+
+- **What the living owe the far future (QUESTION-tmpmx9ha).**
+  The question cites this paper as finding that ordinary judgement
+  "counts adding happy people as good, against the person-affecting
+  view". That is right about one person at +100. It needs two
+  qualifications. The finding is axiological, so a person-affecting view
+  of obligation survives it. And concern for more happy people fades
+  with numbers and reverses at a billion, so lay axiology does not
+  deliver the astronomical value longtermism needs.
+- **The owner's thesis (CLAIM-tmpjylq8).** These are
+  inferences; the paper measures no self and no identification.
+  - *Impersonal, but thin.* Ordinary judgement values possible people
+    the way an impersonal view does. A world is better for containing a
+    happy stranger who would not otherwise exist. That is the ground of
+    obligation the thesis has least to say about. But its reach into
+    large numbers is weak, and it is reached for less when people
+    respond quickly.
+  - *A single self as the model of a population.* The trade ratio of
+    happiness to suffering was the same for a population as for one life
+    (Studies 1a, 1c). The less willing people were to relive their own
+    worst day for their best, the more happiness they required of a
+    population (r = −.11, small). The authors' explanation of
+    averagism is that people judge a population as if it were the
+    distribution of experiences in one life, "such as themselves". That
+    is not an extended self in the thesis's sense. It is a population
+    pictured as one subject, using the self as template. If it holds, it
+    gives the thesis a route into impersonal judgement it has not
+    considered: by projection, not identification.
+  - *Neither result shows concern tracking a self extended in time.*
+    No participant's descendants, legacy or continuity with the future
+    figure in any vignette.
+- **The triviality objection (CLAIM-tmprudek).** Not
+  addressed.
+- **A dated note should be added to CLAIM-tmpjylq8,
+  jointly with the Schubert et al. reading.** Proposed text: "Caviola
+  et al. (NOTE-tmpaz0p7) find that ordinary judgement counts merely possible
+  people impersonally: adding a happy person makes the world better, as
+  much as adding an unhappy one makes it worse. That valuation is thin
+  at large numbers and gives way to averages in conflict. Their account
+  of averagism is that people judge a population as if it were one life,
+  their own as template: projection of a single self, not extension of
+  one. Neither this nor Schubert et al. measures a self, and neither
+  gives evidence that concern for future people tracks one."
+- **No THEORY filed.**
+- **No ML instruction.**
+
+## Limitations
+
+- **The preprint, not the published paper.** Results may have changed
+  in review.
+- **Online US samples**, mostly MTurk through Positly; Study 2b on
+  Prolific.
+- **Studies 2a–b were not pre-registered**, and carry the paper's main
+  finding against neutrality.
+- **The scale is stipulated.** Whether participants read −100 and +100
+  as equally intense is uncertain, as the authors say; Study 1c's 37%
+  answering 50–51% suggests many did.
+- **Discrepancies.**
+  - The abstract's N = 5,776 does not match the studies: final samples
+    sum to 4,191, and recruitment to 4,776.
+  - Study 2b says Study 2a used a world of "10 million neutral people";
+    Study 2a says one million.
+  - Study 3a's median ideal happy population is 1.5 million in Results
+    and 1 million in Discussion.
+  - Study 3b's unhappy-condition effect is printed d = 2.34, the same as
+    its mean. From M = 2.34 and SD = 1.10 it is about 1.51.
+  - Study 2a's covariate test prints ηp² < .001 with F(1, 156) = 1.52,
+    which gives about .01.
+  - Study 3d's gender test prints t(571) with N = 482.
+  - Starmans and Bloom is cited as dissertation chapter 3 in the
+    introduction and chapter 5 in Study 1a.
+  - Cross-references: Study 3c cites "Figure 7" for Figure 8 and
+    "Studies 3a and 3c" for 3a and 3b; Study 3d cites "Figure 8" for
+    Figure 9. Study 3d's Discussion gives the existing average as "−90"
+    where it was −100.
+- **Typos**: "falling love" and "exampless" (Study 1a); "Net," for
+  "Next" (Study 2a); "more bad than than happiness" (General
+  Discussion heading); "observerved"; "Rozyman"; "MechanicalTurk".
+
+## Open questions
+
+- Is the rejection of neutrality also a rejection of person-affecting
+  obligation? Ask whether one must, or merely may, create the happy
+  person, as the authors propose.
+- Does the fading of concern for more happy people come from the numbers
+  (scope insensitivity) or from residual worry about crowding? A design
+  that varied numbers while holding vivid, uncrowded descriptions fixed
+  would separate them.
+- Does judging a population "as one life" vary with a measure of how far
+  the judge identifies with humanity or with future people? That would
+  bring this paper to CLAIM-tmprudek's test.
