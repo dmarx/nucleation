@@ -129,17 +129,17 @@ Numerically the equations are solved by black-box least squares.
 ## Connections
 
 It applies to a consumer–resource model the stability test Bunin used
-for random Lotka–Volterra communities (LIT-1234), and the SI identifies
+for random Lotka–Volterra communities ([LIT-1234](../literature.d/LIT-1234.md)), and the SI identifies
 its transition with that paper's multiple-attractor transition. The
 symmetric model's minimization principle is MacArthur's, cited through
 Marsland, Cui and Mehta's minimum environmental perturbation principle
-(the record's LIT-1230) and Chesson (1990). In the record, CLAIM-369
+(the record's [LIT-1230](../literature.d/LIT-1230.md)) and Chesson (1990). In the record, [CLAIM-369](../claims.d/CLAIM-369.md)
 proves the symmetric, resource-mediated case to be gradient flow on a
 convex objective; this paper is where that picture's assumption fails.
 
 ## Bearing on the record
 
-- **QUESTION-083 and the synthesis.** The LIT's reason for being here,
+- **[QUESTION-083](../questions.d/QUESTION-083.md) and the synthesis.** The LIT's reason for being here,
   that "with non-reciprocal interactions the dynamics need not minimize
   any objective", is what the paper argues, and the reading supports it
   with a sharper condition: loss of reciprocity alone does not produce
@@ -147,12 +147,12 @@ convex objective; this paper is where that picture's assumption fails.
   below the competitive exclusion bound tolerates more asymmetry before
   it goes unstable. So "the limit of reading distributed agency as
   optimization" is not a point but a boundary that depends on packing.
-- **CLAIM-369.** The claim's gradient-flow form needs A = UᵀU. This paper
+- **[CLAIM-369](../claims.d/CLAIM-369.md).** The claim's gradient-flow form needs A = UᵀU. This paper
   gives the case A = CEᵀ with C ≠ E and shows what fails, for a related
   consumer–resource model; it is the natural objection thread to the
   claim's scope, though not to the claim, which states its symmetric
   assumption.
-- **THEORY-tmpncu1p** is drawn from this reading.
+- **[THEORY-tmpncu1p](../theory.d/THEORY-tmpncu1p.md)** is drawn from this reading.
 
 No instruction for machine-learning practice.
 

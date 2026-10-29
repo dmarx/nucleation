@@ -137,35 +137,35 @@ losses (9). Once all are marked the gate is frozen for good.
 
 ## Connections
 
-The balancing loss is Switch Transformers' (LIT-1412), changed to
+The balancing loss is Switch Transformers' ([LIT-1412](../literature.d/LIT-1412.md)), changed to
 cumulative counts, and top-1 routing is cited to that paper. The
 single-expert baseline follows Lin, Ju, Liang and Shroff's earlier
 theory of forgetting in overparameterized linear models, and the MoE
 analysis builds on Chen et al.'s (2022) analysis of MoE for single-task
-classification; neither is registered here. Wang et al. (LIT-1414) solve
+classification; neither is registered here. Wang et al. ([LIT-1414](../literature.d/LIT-1414.md)) solve
 the same tension between balance and learning differently, by taking
 balancing out of the gradient instead of stopping it.
 
 ## Bearing on the record
 
-- **CASE-117.** The LIT says "its result that the gate must stop updating
-  for convergence is a condition CASE-117 should test". The reading
+- **[CASE-117](../cases.d/CASE-117.md).** The LIT says "its result that the gate must stop updating
+  for convergence is a condition [CASE-117](../cases.d/CASE-117.md) should test". The reading
   qualifies this. Termination is necessary here because of the paper's
   own gate objective: the cumulative load-balancing term keeps pulling
   every gate output together, and Proposition 2 shows that pull
   eventually wins. It is not shown to be necessary for MoE in continual
   learning in general, nor for a router without a balancing term in its
-  gradient. The condition CASE-117 can test is the narrower one: when
+  gradient. The condition [CASE-117](../cases.d/CASE-117.md) can test is the narrower one: when
   balance is imposed through the routing gradient, does specialization
   survive continued routing updates? The paper's answer in its model is
   no, unless updating stops.
-- **CASE-117, specialization.** The paper does prove specialization among
+- **[CASE-117](../cases.d/CASE-117.md), specialization.** The paper does prove specialization among
   identically initialized experts (all w₀ = 0, all θ₀ = 0), with
   symmetry broken by routing noise and the order of task arrivals. That
   matches the case's "operators differ only by initialization and
   experience", with the strong caveat that the tasks carry a signal that
   makes routing separable.
-- **QUESTION-083.** "Rare contexts" are not modelled: tasks arrive
+- **[QUESTION-083](../questions.d/QUESTION-083.md).** "Rare contexts" are not modelled: tasks arrive
   uniformly. Whether a specialist for a rare task survives termination
   is not addressed.
 
@@ -190,7 +190,7 @@ anthology-relevant; it carries the anthology-candidate flag.
 ## Open questions
 
 - Is termination needed with a balancing rule outside the gradient, such
-  as LIT-1414's bias, or with no balancing at all?
+  as [LIT-1414](../literature.d/LIT-1414.md)'s bias, or with no balancing at all?
 - What happens with non-uniform, drifting task frequencies, or new tasks
   arriving after termination? A frozen gate cannot route an unseen task
   to a fresh expert.

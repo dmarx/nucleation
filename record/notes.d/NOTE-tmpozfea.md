@@ -35,7 +35,7 @@ summary: >-
 
 ## Contribution
 
-It reworks Hoel's causal emergence (CE 1.0, LIT-1038) in three ways. The
+It reworks Hoel's causal emergence (CE 1.0, [LIT-1038](../literature.d/LIT-1038.md)) in three ways. The
 measure is no longer effective information but "causal primitives" (CP):
 a normalized determinism and a normalized degeneracy, the
 information-theoretic forms of sufficiency and necessity. A system is
@@ -91,7 +91,7 @@ form a profile rather than a single winner.
   shows no causal emergence at any step while ∆CP starts positive and
   falls to zero as the chain becomes a permutation.
 - **An SVD heuristic (S3).** Dropping σ₁ from Zhang et al.'s
-  dynamical-reversibility average (LIT-1129) gives γ*, which tracks CP
+  dynamical-reversibility average ([LIT-1129](../literature.d/LIT-1129.md)) gives γ*, which tracks CP
   under added noise and common causes; σ₂ − γ* estimates total CE, and
   singular values above the mean of the rest flag contributing
   "directionalities": one (0.61) for the top-heavy system, three (0.489,
@@ -129,30 +129,30 @@ replaces enumeration.
 
 ## Connections
 
-It is the successor of Hoel, Albantakis and Tononi 2013 (LIT-1038,
-THEORY-222), whose EI and effectiveness it reuses. It answers the
+It is the successor of Hoel, Albantakis and Tononi 2013 ([LIT-1038](../literature.d/LIT-1038.md),
+[THEORY-222](../theory.d/THEORY-222.md)), whose EI and effectiveness it reuses. It answers the
 criticism of CE 1.0's uniform-intervention assumption by Eberhardt and Lee
 (2022, cited as [25], not registered) and Aaronson. Jansma and Hoel's
-"Engineering emergence" (LIT-1123) extends it to all paths at once and, in
+"Engineering emergence" ([LIT-1123](../literature.d/LIT-1123.md)) extends it to all paths at once and, in
 doing so, drops the consistency filter this paper relies on. Its SVD
-heuristic adapts Zhang et al. (LIT-1129). It contrasts itself with Rosas et
-al.'s information decomposition (LIT-1244) and Barnett and Seth's
-dynamical independence (THEORY-257), on the ground that both rest on
+heuristic adapts Zhang et al. ([LIT-1129](../literature.d/LIT-1129.md)). It contrasts itself with Rosas et
+al.'s information decomposition ([LIT-1244](../literature.d/LIT-1244.md)) and Barnett and Seth's
+dynamical independence ([THEORY-257](../theory.d/THEORY-257.md)), on the ground that both rest on
 observational mutual information, and with Rosas et al.'s "software in
-the natural world" (LIT-1306), on the ground that consistency or closure
+the natural world" ([LIT-1306](../literature.d/LIT-1306.md)), on the ground that consistency or closure
 alone does not measure a contribution. Flack's coarse-graining as downward
 causation is cited for the thermostat example.
 
 ## Bearing on the record
 
-- **QUESTION-115.** The question lists effective information among its
+- **[QUESTION-115](../questions.d/QUESTION-115.md).** The question lists effective information among its
   criteria. CE 2.0 is the same family with the size factor removed and a
   per-scale credit added, and it reports a profile along a path, which is
   what A12 asked of the joint search. It does not search over boundaries
   of a system (which variables are in it), only over partitions of one
   chain's states, so it bears on the macrostate leg of the question and
   not on the boundary leg.
-- **THEORY-222.** Unaffected: CE 2.0 keeps uniform interventions at each
+- **[THEORY-222](../theory.d/THEORY-222.md).** Unaffected: CE 2.0 keeps uniform interventions at each
   scale and gives the same macroscale as CE 1.0 where the two overlap
   (§6.2). It adds a case CE 1.0 scores zero.
 - **The candidate it was filed as.** The paper fits A10's description
@@ -186,7 +186,7 @@ of deep networks is a remark, not a method.
 ## Open questions
 
 - What does the apportioning give when the path is not chosen, and are
-  the multi-path answers of LIT-1123 consistent with this paper's
+  the multi-path answers of [LIT-1123](../literature.d/LIT-1123.md) consistent with this paper's
   single-path ones on the same chains?
 - Does any ∆CP profile recover a known boundary, not just a known
   lumping, in a system whose variables are split between agent and

@@ -116,14 +116,14 @@ assembly without each species can be invaded by it.
 ## Connections
 
 It makes rigorous the "−i community" of Chesson (1994) and the
-recovery-from-rarity logic of Chesson's framework (LIT-1219); its
+recovery-from-rarity logic of Chesson's framework ([LIT-1219](../literature.d/LIT-1219.md)); its
 assembly graph is related to Serván and Allesina's (2021) but allows
 multi-species invasions. Rock–paper–scissors (May and Leonard 1975) is the
 cyclic case where signs fail. None of these three is registered.
 
 ## Bearing on the record
 
-- **QUESTION-132** defines a recovery exponent λ_i along the resident
+- **[QUESTION-132](../questions.d/QUESTION-132.md)** defines a recovery exponent λ_i along the resident
   regime and takes λ_i > 0 as the mark of stabilizing coexistence. That
   λ_i is exactly r_i(µ) here. The reading adds two conditions the
   question should carry. (a) Positive recovery at one resident regime is
@@ -132,15 +132,15 @@ cyclic case where signs fail. None of these three is registered.
   the invasion graph is acyclic. With cyclic replacement among operators,
   rock–paper–scissors among roles, all recovery exponents can be
   positive and coexistence still fail.
-- **QUESTION-083**: the −i communities are the "early entrants shape
+- **[QUESTION-083](../questions.d/QUESTION-083.md)**: the −i communities are the "early entrants shape
   which roles later ones can hold" structure the synthesis read into the
   paper (LIT, "Why this is here"). It is the right reading: −i
   communities are assembly end-points, and whether a role can be filled
   depends on the end-points reached without it.
-- **CLAIM-369**, a question for the coordinator rather than a finding:
+- **[CLAIM-369](../claims.d/CLAIM-369.md)**, a question for the coordinator rather than a finding:
   in the symmetric, gradient case the objective L decreases along every
   trajectory, which should rule out heteroclinic cycles and so cyclic
-  invasion graphs. If so, CLAIM-369's class always satisfies this paper's
+  invasion graphs. If so, [CLAIM-369](../claims.d/CLAIM-369.md)'s class always satisfies this paper's
   acyclicity hypothesis. The paper does not state this and the reading
   did not prove it.
 - No instruction for machine-learning practice; nothing for the

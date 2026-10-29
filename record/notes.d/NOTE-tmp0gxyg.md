@@ -110,13 +110,13 @@ There are no theorems. The paper's substantive statements:
 
 The information geometry is Amari's; the free-energy principle is
 Friston's (2010, not registered); the record holds other works on it, among them
-LIT-1181 and LIT-1262. A later preprint by the first and last
+[LIT-1181](../literature.d/LIT-1181.md) and [LIT-1262](../literature.d/LIT-1262.md). A later preprint by the first and last
 authors, "Approximate Bayesian inference as a gauge theory" (arXiv
 1705.06614, 2017), continues the programme; it is not registered.
 
 ## Bearing on the record
 
-- **QUESTION-130** asks whether evaluative transport between
+- **[QUESTION-130](../questions.d/QUESTION-130.md)** asks whether evaluative transport between
   contexts admits a connection "fixed by independently established
   relations rather than chosen". The LIT asked where this paper's
   connection comes from. Answer: from the Fisher metric. It is the
@@ -128,7 +128,7 @@ authors, "Approximate Bayesian inference as a gauge theory" (arXiv
   curvature belongs to the statistical family, whatever is evaluated. So
   the paper supplies a natural connection of the wrong kind for the
   question: non-arbitrary, nontrivially curved, and not about context.
-- **CLAIM-148**. The paper's gauge freedom is reparameterization of the
+- **[CLAIM-148](../claims.d/CLAIM-148.md)**. The paper's gauge freedom is reparameterization of the
   variational family: the natural gradient is "invariant under
   re-parameterisation", and the Riemann gradient "automatically
   guarantees gauge-invariance by breaking the symmetry within a model"
@@ -173,4 +173,4 @@ authors, "Approximate Bayesian inference as a gauge theory" (arXiv
   essay names none.
 - Is there a symmetry between generative models of equal evidence that a
   connection could transport across? That would be the non-representational
-  case CLAIM-148 leaves open.
+  case [CLAIM-148](../claims.d/CLAIM-148.md) leaves open.

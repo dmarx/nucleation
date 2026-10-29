@@ -32,7 +32,7 @@ source:
 - LIT-1404
 - LIT-1146
 summary: >-
-  Friedkin (2011/2012), LIT-1404, and Jia et al. (2015), LIT-1146, use
+  Friedkin (2011/2012), [LIT-1404](../literature.d/LIT-1404.md), and Jia et al. (2015), [LIT-1146](../literature.d/LIT-1146.md), use
   the same reflected-appraisal rule, the next self-weight set to the
   member's share of control over the last issue, and different
   single-issue steps. Friedkin's anchored step gives a single leader in
@@ -48,10 +48,10 @@ summary: >-
 ## Source
 
 Friedkin, N. E. (2011). A formal theory of reflected appraisals in the
-evolution of power. *Administrative Science Quarterly* 56(4), LIT-1404,
-read in NOTE-tmpegm16. Jia, P., MirTabatabaei, A., Friedkin, N. E. and
-Bullo, F. (2015), LIT-1146, read in NOTE-1135, whose result is
-THEORY-916.
+evolution of power. *Administrative Science Quarterly* 56(4), [LIT-1404](../literature.d/LIT-1404.md),
+read in [NOTE-tmpegm16](../notes.d/NOTE-tmpegm16.md). Jia, P., MirTabatabaei, A., Friedkin, N. E. and
+Bullo, F. (2015), [LIT-1146](../literature.d/LIT-1146.md), read in [NOTE-1135](../notes.d/NOTE-1135.md), whose result is
+[THEORY-916](THEORY-916.md).
 
 ## What was actually shown
 
@@ -59,7 +59,7 @@ Both models fix the relative interpersonal weights C and, after each
 issue, set member i's self-weight to their share of the total control
 over that issue's outcome. They differ in how one issue is settled.
 
-- **Friedkin–Johnsen, as LIT-1404 specifies it.** W = AC + I − A with A =
+- **Friedkin–Johnsen, as [LIT-1404](../literature.d/LIT-1404.md) specifies it.** W = AC + I − A with A =
   diag(1 − w); y(t+1) = AWy(t) + (I − A)y(1), so each member stays
   anchored on their initial position; control V = (I − AW)⁻¹(I − A); the
   next self-weight is the column mean of V. In Friedkin's simulations,
@@ -67,7 +67,7 @@ over that issue's outcome. They differ in how one issue is settled.
   25, the share that evolves to a single leader is 0.9996–1.0000 for
   complete networks and 0.9900–0.9987 for networks with random zeros;
   the rest end with two members holding all control.
-- **DeGroot, as LIT-1146 specifies it.** W = diag(x) + (I − diag(x))C;
+- **DeGroot, as [LIT-1146](../literature.d/LIT-1146.md) specifies it.** W = diag(x) + (I − diag(x))C;
   each issue goes to consensus, and control is W's dominant left
   eigenvector, which becomes the next x. Jia et al. prove convergence from
   every non-autocratic start to one equilibrium ordered by the
@@ -101,14 +101,14 @@ complete networks, where neither is a star.
   structured networks, where the bilateral or other end states are
   common; the re-run's sparse case had bilateral ends in 7% of runs,
   against under 1% in Friedkin's Type 2.
-- **Not that THEORY-916 is wrong.** Its result is for the DeGroot step,
+- **Not that [THEORY-916](THEORY-916.md) is wrong.** Its result is for the DeGroot step,
   and the re-run agrees with it in direction on complete networks. The
   centrality ordering was not checked.
 
 ## Connections
 
-CASE-092's note of 2026-10-23 asks that a coupled meaning–influence model
+[CASE-092](../cases.d/CASE-092.md)'s note of 2026-10-23 asks that a coupled meaning–influence model
 be compared with "DeGroot–Friedkin" reflected appraisal. On this account
 that is two baselines with opposite predictions, and the comparison
-should name the single-issue step. CLAIM-297's authority updated from
+should name the single-issue step. [CLAIM-297](../claims.d/CLAIM-297.md)'s authority updated from
 performance has the same shape as both rules.

@@ -127,13 +127,13 @@ It formalizes the autonomous-agents tradition (Ruiz-Mirazo and Moreno,
 Bickhard, Barandiaran et al., autopoiesis) and contrasts itself with
 teleosemantics (Millikan, Godfrey-Smith) and utility-based value of
 information. Its interventions are Blackwell-style garblings (Rauh et al.
-2017). It cites Krakauer et al.'s individuality (LIT-1137) as related
+2017). It cites Krakauer et al.'s individuality ([LIT-1137](../literature.d/LIT-1137.md)) as related
 fitness-relevant information, and Touchette and Lloyd for entropy as a
 control objective.
 
 ## Bearing on the record
 
-- **CLAIM-152.** The LIT records A10's caution that "the system's
+- **[CLAIM-152](../claims.d/CLAIM-152.md).** The LIT records A10's caution that "the system's
   continued existence must be defined first, or the test is circular".
   The paper agrees with the first half and does not escape the second.
   Viability is a function the analyst picks, and the boundary of the
@@ -141,12 +141,12 @@ control objective.
   timescale and the initial distribution by maximizing semantic
   information, which is measured against that viability. A boundary
   found that way is relative to the chosen viability function, an
-  instance of CLAIM-152 with viability as the target. The paper also
+  instance of [CLAIM-152](../claims.d/CLAIM-152.md) with viability as the target. The paper also
   concedes that negative entropy does not track identity ("both a
   rhinoceros and a human have low entropy"), so "keeping existing" here
   means staying concentrated, not staying the same system. Proposed dated
   note below.
-- **LIT-1149's own label.** The LIT says it is the likeliest source of
+- **[LIT-1149](../literature.d/LIT-1149.md)'s own label.** The LIT says it is the likeliest source of
   the owner's half-remembered "useful information". The reading neither
   confirms nor rules that out: the paper's name for what it measures is
   "semantic information", and it lists "meaningful", "relevant",

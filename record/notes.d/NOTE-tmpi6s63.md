@@ -143,14 +143,14 @@ Simultaneity, not communication, is what is missing.
 It credits the coordinated attack problem to Gray (1978) and calls the
 impossibility "a folk theorem of operating systems theory", citing
 Gallager (1979) and Yemini and Cohen (1979) for proofs. It does not cite
-Akkoyunlu, Ekanadham and Huber (1975), LIT-1214, which the record files
+Akkoyunlu, Ekanadham and Huber (1975), [LIT-1214](../literature.d/LIT-1214.md), which the record files
 as the standard first source of the same problem. The muddy children
 puzzle is taken from Barwise (1981). Aumann (1976) is cited for game
 theory's use of common knowledge, without development.
 
 ## Bearing on the record
 
-- **CLAIM-346, case 3 (epistemic coordination alone).** The claim's
+- **[CLAIM-346](../claims.d/CLAIM-346.md), case 3 (epistemic coordination alone).** The claim's
   argument ("remove the last delivered message ... repeat k times") is
   the informal induction of §4 and the formal one of Theorem 5. Two
   precisions from the reading. First, the claim's demand, "both act or

@@ -107,14 +107,14 @@ Reported from the literature reviewed:
 
 ## Connections
 
-It rests on Haken's synergetics (LIT-923, Unavailable here), HKB (LIT-588,
+It rests on Haken's synergetics ([LIT-923](../literature.d/LIT-923.md), Unavailable here), HKB ([LIT-588](../literature.d/LIT-588.md),
 Unavailable), Jirsa's SFM, Friston's DCM, and Bayesian model reduction
-(LIT-614). The record's own slaving-principle entry is Haken and
-Wunderlin's "Slaving principle revisited" (LIT-1671, Unavailable).
+([LIT-614](../literature.d/LIT-614.md)). The record's own slaving-principle entry is Haken and
+Wunderlin's "Slaving principle revisited" ([LIT-1671](../literature.d/LIT-1671.md), Unavailable).
 
 ## Bearing on the record
 
-- **CLAIM-331.** The LIT filed this as the likeliest candidate for A8's
+- **[CLAIM-331](../claims.d/CLAIM-331.md).** The LIT filed this as the likeliest candidate for A8's
   "2024" paper "on slow–fast decomposition, Haken's slaving principle and
   the Haken–Kelso–Bunz model", and noted that its treatment of the last
   two was unconfirmed. It is confirmed in substance: both appear, a

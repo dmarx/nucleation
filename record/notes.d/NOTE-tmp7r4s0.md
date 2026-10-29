@@ -37,7 +37,7 @@ summary: >-
 ## Contribution
 
 The book is the source of the Benjamin Franklin effect, and the record
-holds it for that one page (CASE-143). Read whole, it is a manual of
+holds it for that one page ([CASE-143](../cases.d/CASE-143.md)). Read whole, it is a manual of
 influence written as a life: a self-made printer explains to his son, and
 then to the public, the means by which he rose and carried his projects.
 What it gives the record beyond the anecdote is a run of first-hand,
@@ -151,35 +151,35 @@ The memoir reports; these are its instances, with where they fall.
 
 ## Connections
 
-Jecker and Landy (LIT-1419, Deferred) tested the anecdote's effect in the
+Jecker and Landy ([LIT-1419](../literature.d/LIT-1419.md), Deferred) tested the anecdote's effect in the
 laboratory; the memoir offers it only as a maxim confirmed once. The
 Junto's satellite clubs, ideas "arising in each of them", are a
 documented case of manufactured attributed plurality: the circulation
-the hyperstition interview (LIT-1396, NOTE-tmphc9i5) names, and what
-CLAIM-425 says should not stand in for grounds. Soros's two functions
-(LIT-1397, NOTE-tmp8x2ha) fit Franklin's printing exactly: his paper and
+the hyperstition interview ([LIT-1396](../literature.d/LIT-1396.md), [NOTE-tmphc9i5](NOTE-tmphc9i5.md)) names, and what
+[CLAIM-425](../claims.d/CLAIM-425.md) says should not stand in for grounds. Soros's two functions
+([LIT-1397](../literature.d/LIT-1397.md), [NOTE-tmp8x2ha](NOTE-tmp8x2ha.md)) fit Franklin's printing exactly: his paper and
 pamphlets were at once his report of opinion and his means of moving it.
 
 ## Bearing on the record
 
-- **CASE-143** tells the anecdote as the text does. One detail could be
+- **[CASE-143](../cases.d/CASE-143.md)** tells the anecdote as the text does. One detail could be
   sharpened: Franklin says the opposing member was "a gentleman of
   fortune and education, with talents that were likely to give him, in
   time, great influence in the House", and that his reason for winning
   him over was the profit of the clerkship. The case's standing as the
   anecdote's is right; the text gives no name for the member.
-- **CLAIM-275** (an intervention can come before the interpretation it
+- **[CLAIM-275](../claims.d/CLAIM-275.md)** (an intervention can come before the interpretation it
   makes available). The anecdote fits, but Franklin's own account of why
   it worked is the maxim, not an interpretation following an act, and
   the text says nothing about what the member came to think. Read
   closely, it supports the claim's shape and does not show its
   mechanism.
-- **CLAIM-425 and CLAIM-426.** The satellite clubs and the newspaper
+- **[CLAIM-425](../claims.d/CLAIM-425.md) and [CLAIM-426](../claims.d/CLAIM-426.md).** The satellite clubs and the newspaper
   pieces that "prepare the minds of the people" are first-hand cases in which a judgement's circulation was arranged
   so that it would bring about what it said. Franklin arranged the
   appearance of plurality ("as arising in each of them"), which is the
-  "attributed plurality" CLAIM-425 discounts and CLAIM-426 keeps as
-  evidence about the future. A proposed dated note for CLAIM-426 is in
+  "attributed plurality" [CLAIM-425](../claims.d/CLAIM-425.md) discounts and [CLAIM-426](../claims.d/CLAIM-426.md) keeps as
+  evidence about the future. A proposed dated note for [CLAIM-426](../claims.d/CLAIM-426.md) is in
   the coordinator's report.
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -208,5 +208,5 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 - Did the favour work on the member, as the maxim says, or on Franklin,
   whose request and note were themselves the first civil acts? The
-  memoir cannot separate them, and LIT-1419's experiment is the
+  memoir cannot separate them, and [LIT-1419](../literature.d/LIT-1419.md)'s experiment is the
   place that might.

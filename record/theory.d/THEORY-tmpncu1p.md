@@ -22,7 +22,7 @@ source:
 - LIT-1236
 - LIT-1234
 summary: >-
-  Blumenthal, Rocks and Mehta (2024), LIT-1236: in MacArthur's
+  Blumenthal, Rocks and Mehta (2024), [LIT-1236](../literature.d/LIT-1236.md): in MacArthur's
   consumer–resource model with benefits c and impacts e correlated by ρ,
   the replica-symmetric steady state is unstable when ρ < ρ*,
   ρ*² = S*/M* at the boundary. With ρ = 1 competitive exclusion keeps
@@ -36,9 +36,9 @@ summary: >-
 
 ## Source
 
-Blumenthal, Rocks and Mehta (2024), LIT-1236, read in NOTE-tmpbd8io; the
-stability test is the one Bunin (2017), LIT-1234, read in
-NOTE-tmpxeonz, uses for random Lotka–Volterra communities.
+Blumenthal, Rocks and Mehta (2024), [LIT-1236](../literature.d/LIT-1236.md), read in [NOTE-tmpbd8io](../notes.d/NOTE-tmpbd8io.md); the
+stability test is the one Bunin (2017), [LIT-1234](../literature.d/LIT-1234.md), read in
+[NOTE-tmpxeonz](../notes.d/NOTE-tmpxeonz.md), uses for random Lotka–Volterra communities.
 
 ## What was actually shown
 
@@ -84,14 +84,14 @@ towards zero with size.
 - **Not for structured interactions.** The interactions are random and
   unstructured, the resources self-replenishing, one consumer level.
 - **Not that symmetry guarantees a unique outcome in general.** In random
-  Lotka–Volterra communities (LIT-1234) a multiple-attractor phase exists
+  Lotka–Volterra communities ([LIT-1234](../literature.d/LIT-1234.md)) a multiple-attractor phase exists
   even for symmetric interactions; what keeps the symmetric
   consumer–resource model unique is that its interaction matrix is a
-  product, as in CLAIM-369.
+  product, as in [CLAIM-369](../claims.d/CLAIM-369.md).
 
 ## Bearing
 
-It sharpens the reading the synthesis gave LIT-1236 for QUESTION-083:
+It sharpens the reading the synthesis gave [LIT-1236](../literature.d/LIT-1236.md) for [QUESTION-083](../questions.d/QUESTION-083.md):
 the limit of reading a community of competing processes as one
 optimization is a boundary in reciprocity that depends on how many
 processes each shared resource must support, not a switch that any

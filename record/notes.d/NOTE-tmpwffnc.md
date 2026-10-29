@@ -79,7 +79,7 @@ As reported from the papers reviewed, not re-derived:
   susceptibles rewiring away from infected neighbours give discontinuous
   transitions, bistability and oscillation; a three-variable moment
   closure captures what one variable captures in the static model.
-  Holme and Newman's model (LIT-1128) has a continuous transition.
+  Holme and Newman's model ([LIT-1128](../literature.d/LIT-1128.md)) has a continuous transition.
 - **Inventory (Box 2).** "Activity disconnects" leads to
   self-organized percolation; "like-and-like" to heterogeneous topologies
   and distinct node classes; "differences attract" to homogeneous ones.
@@ -109,11 +109,11 @@ As reported from the papers reviewed, not re-derived:
 It surveys, among others, Christensen et al. 1998, Bornholdt and Rohlf
 2000, Ito and Kaneko 2002–03, Zhou and Kurths 2006, Pacheco et al. 2006,
 Holme and Ghoshal 2006, Gross et al. 2006 and Holme and Newman 2006
-(LIT-1128). None of these except Holme and Newman is registered here.
+([LIT-1128](../literature.d/LIT-1128.md)). None of these except Holme and Newman is registered here.
 
 ## Bearing on the record
 
-- **QUESTION-117.** A15 named it for "the general tools for the
+- **[QUESTION-117](../questions.d/QUESTION-117.md).** A15 named it for "the general tools for the
   endorsement canvas read as a directed weighted adaptive network". The
   review supplies vocabulary and a list of mechanisms, not tools: no
   model in it has authority or role, and the only weighted, directed
@@ -124,7 +124,7 @@ Holme and Ghoshal 2006, Gross et al. 2006 and Holme and Newman 2006
   approach, a few variables for state plus topology, is the kind of
   economical reduction the question's "as economically" invites. Proposed
   dated note below.
-- **LIT-1128.** The review's summary of Holme and Newman is wrong in a way
+- **[LIT-1128](../literature.d/LIT-1128.md).** The review's summary of Holme and Newman is wrong in a way
   that matters for anyone using it as a pointer (Limitations).
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -137,7 +137,7 @@ No instruction for machine-learning practice; nothing for the anthology.
   backwards: it says disagreeing neighbours convince each other with
   probability φ and rewire with 1 − φ, so that at φ = 0 "opinions never
   change" and at φ = 1 "no connections are rewired". In the paper φ is
-  the probability of rewiring (LIT-1128, Fig. 1 and §II). It also says
+  the probability of rewiring ([LIT-1128](../literature.d/LIT-1128.md), Fig. 1 and §II). It also says
   the final distribution of followers "approaches a power-law", which
   the paper finds only at the critical point. Its account of Bornholdt
   and Rohlf says that below K = 2 "all nodes change their state" and

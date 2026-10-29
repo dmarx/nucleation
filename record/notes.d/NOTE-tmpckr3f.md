@@ -122,11 +122,11 @@ It works in the Taylor–Frank neighbour-modulated fitness framework and
 Brown and Taylor's multi-trait method. The authors' review of division of
 labour in microbes (West & Cooper 2016) and Michod's volvocine models are
 its context; none is registered. The record's major-transitions readings
-(LIT-749) are the frame for C5.
+([LIT-749](../literature.d/LIT-749.md)) are the frame for C5.
 
 ## Bearing on the record
 
-- **CLAIM-279** quotes A46: specialization "may improve local
+- **[CLAIM-279](../claims.d/CLAIM-279.md)** quotes A46: specialization "may improve local
   coordination while simultaneously increasing the organization's
   vulnerability to the loss or capture of a specialist". The paper says
   neither. It has no notion of coordination, and no loss or capture of a
@@ -134,17 +134,17 @@ its context; none is registered. The record's major-transitions readings
   individuals are completely dependent upon the helping behaviour of
   others". A46's vulnerability point is a fair inference from
   dependence, not the paper's finding, and the claim's note should say so.
-- **CLAIM-279**'s thesis, that roles are regimes rather than kinds, gets
+- **[CLAIM-279](../claims.d/CLAIM-279.md)**'s thesis, that roles are regimes rather than kinds, gets
   partial support of a specific shape: phenotypes here are not given
   roles, they are two draws of one developmental lottery whose
   investments evolve. But the regimes do not stay intermediate; selection
   drives them to the extremes. A model of niche specialization among
   operators built on this logic would predict sharp, not graded, roles.
-- **QUESTION-083**: the model's division emerges with no group-level
+- **[QUESTION-083](../questions.d/QUESTION-083.md)**: the model's division emerges with no group-level
   selection and no coded roles, from individual-level (kin) selection on
   one shared rule. It is a positive instance for the question's first
   half, in a setting with relatedness and a single task.
-- **QUESTION-277** lists it as a sixth route to individuality. The
+- **[QUESTION-277](../questions.d/QUESTION-277.md)** lists it as a sixth route to individuality. The
   route is asserted in the conclusion ("a driver, not a consequence"),
   not shown: the model ends at dependence and has no higher-level unit.
 - No instruction for machine-learning practice; nothing for the

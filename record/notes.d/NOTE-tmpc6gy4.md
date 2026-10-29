@@ -113,29 +113,29 @@ into, and those compositions become attractors.
 
 ## Connections
 
-The neural side is Hopfield's associative memory (LIT-918), whose
+The neural side is Hopfield's associative memory ([LIT-918](../literature.d/LIT-918.md)), whose
 symmetric weights give a Lyapunov function, as symmetric ω does here.
 Watson and Szathmáry's "evolution can learn" programme, of which this is
 the ecological instance, is not registered. The symmetric Lotka–Volterra
-community is the setting of CLAIM-369.
+community is the setting of [CLAIM-369](../claims.d/CLAIM-369.md).
 
 ## Bearing on the record
 
-- **QUESTION-083** asks whether processes sharing one rule can come to
+- **[QUESTION-083](../questions.d/QUESTION-083.md)** asks whether processes sharing one rule can come to
   hold differentiated, mutually regulated organization with no
   governance role coded in. This paper is a positive instance in its own
   domain, but with a coded-in constraint: the normalising trade-off. The
   authors say the result depends on it (Appendix H), and it is imposed
   as a renormalisation step, not derived. The question's caveat, that a
   positive answer shows organization from fixed local objectives and not
-  self-constitution (CLAIM-288), applies here too.
-- **CLAIM-369**: the simulations keep ω symmetric, which gives the
+  self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)), applies here too.
+- **[CLAIM-369](../claims.d/CLAIM-369.md)**: the simulations keep ω symmetric, which gives the
   community a potential, and the paper relies on that ("the dynamics have
-  only fixed point equilibria"). It is CLAIM-369's class with the
+  only fixed point equilibria"). It is [CLAIM-369](../claims.d/CLAIM-369.md)'s class with the
   interaction matrix evolving slowly. Evolution here reshapes the
   objective the community descends, which the claim's fixed-U setting
   does not cover.
-- **QUESTION-132**: the long-run breakdown, one attractor outcompeting
+- **[QUESTION-132](../questions.d/QUESTION-132.md)**: the long-run breakdown, one attractor outcompeting
   the other, is an instance of the question's "entrenched asymmetry"
   outcome emerging from initially balanced memory.
 - No instruction for machine-learning practice; nothing for the

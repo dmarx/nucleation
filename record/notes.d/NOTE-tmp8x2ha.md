@@ -142,35 +142,35 @@ The essay argues and illustrates; it proves and tests nothing.
 
 ## Connections
 
-The loop is Merton's self-fulfilling prophecy (LIT-1398), which Soros
+The loop is Merton's self-fulfilling prophecy ([LIT-1398](../literature.d/LIT-1398.md)), which Soros
 cites through *Social Theory and Social Structure* (1949), generalized to
 run in both directions and to be mostly unintended. Land's hyperstition
-(LIT-1396, NOTE-tmphc9i5) is the same loop made a programme, where Soros
-makes it a limit. MacKenzie's performativity (LIT-1395) is the empirical
+([LIT-1396](../literature.d/LIT-1396.md), [NOTE-tmphc9i5](NOTE-tmphc9i5.md)) is the same loop made a programme, where Soros
+makes it a limit. MacKenzie's performativity ([LIT-1395](../literature.d/LIT-1395.md)) is the empirical
 study of one channel he names in passing: a theory of markets ("if
 investors believe that markets are efficient then that belief will
 change the way they invest") changes the markets. Espeland and Sauder
-(LIT-1330) is the same loop for rankings. His remark that behavioural
+([LIT-1330](../literature.d/LIT-1330.md)) is the same loop for rankings. His remark that behavioural
 economists study only "cognitive fallibility leading to the mispricing of
 assets" and not the mispricing's effect on fundamentals is the point
-CLAIM-426 turns on.
+[CLAIM-426](../claims.d/CLAIM-426.md) turns on.
 
 ## Bearing on the record
 
-- **CLAIM-426.** The LIT gives the reason the claim keeps visibility as
+- **[CLAIM-426](../claims.d/CLAIM-426.md).** The LIT gives the reason the claim keeps visibility as
   evidence about a future and not as a warrant; the essay bears that out.
   Soros's views "influence but do not determine" outcomes, his loops run
   both ways, and his example of a theory acting on markets is that it
   changes them "though not necessarily making them more efficient". Read
-  with CLAIM-426: circulation is evidence about what a judgement will
+  with [CLAIM-426](../claims.d/CLAIM-426.md): circulation is evidence about what a judgement will
   bring about, but not about which way. That supports the claim's
-  narrowing of CLAIM-425 and says its title should allow the loop to run
+  narrowing of [CLAIM-425](../claims.d/CLAIM-425.md) and says its title should allow the loop to run
   against the judgement as well as for it.
-- **LIT-1397's summary** put the uncertainty on the interference of the
+- **[LIT-1397](../literature.d/LIT-1397.md)'s summary** put the uncertainty on the interference of the
   two functions, "which he calls the human uncertainty principle". The
   essay's principle is fallibility and reflexivity together, and Soros
   says fallibility is the key source. The summary is corrected.
-- **TERM-075.** Soros names "self-reflexivity", a person changing their
+- **[TERM-075](../terms.d/TERM-075.md).** Soros names "self-reflexivity", a person changing their
   conduct after "asking herself who she is and what she stands for",
   as the exceptional case within one subjective aspect. It is the
   appropriated sense of the attributed self with no other person in it,
