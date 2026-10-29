@@ -1,0 +1,212 @@
+---
+status: Read
+paper: 'LIT-1220'
+title: 'Edmondson — Psychological safety and learning behavior in work teams'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from a JSTOR-printed PDF of the article
+    posted among MIT course readings
+    (https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf,
+    35 pages: JSTOR's cover sheet and ASQ 44(2), pp. 350–383, all
+    present), under the owner's ruling of 2026-10-29 that course-page
+    copies count. Text extracted with pdftotext, plain and layout. Read:
+    the abstract, the model and its eight hypotheses, the methods, the
+    results, the discussion, the footnotes, the appendix of survey items
+    and the reference list. Table 1 (qualitative excerpts) and Tables
+    3–8 were read from the extraction. Table 2 (alphas and
+    intercorrelations) came out too scrambled to read reliably, and
+    Table 9 (the seven follow-up teams), printed sideways, did not come
+    out at all; neither is used here except where the text repeats it.
+    Figure 1 was read from its labels. Checked: the response counts
+    (427 of 496, 135 of 150), and each t against its p in Tables 6 and 7
+    under a two-sided test (record script, 2026-10-29), which found one
+    mismatch (Limitations). Harvard's DASH copy, which is private, was
+    not seen.
+date: '2026-10-29'
+summary: >-
+  In 51 work teams at one office-furniture manufacturer, a team-level
+  belief that the team is safe for interpersonal risk taking
+  (psychological safety) predicted members' and outside observers'
+  ratings of the team's learning behavior; team efficacy added little
+  once safety was controlled. Learning behavior predicted observers'
+  ratings of performance and carried the association of safety with
+  performance, and safety carried the association of context support and
+  leader coaching with learning. All of it is cross-sectional.
+---
+<!-- inactive-ok-file: CLAIM-359 LIT-739 — Proposed or Unavailable; a claim cited as what this reading bears on and a work cited as registered, nothing here rests on their being settled or read -->
+
+# NOTE-tmpd0qzq: Edmondson — Psychological safety and learning behavior in work teams
+
+## Contribution
+
+It names team psychological safety as a group-level construct,
+"a shared belief that the team is safe for interpersonal risk taking",
+gives it a seven-item scale, and shows that it varies between teams of
+one company and that members of a team agree about it. It places the
+construct in a model in which team structures (context support, leader
+coaching) work on learning behavior through it, and learning behavior
+works on performance. It is the paper the later literature on
+psychological safety starts from.
+
+## Key insight
+
+Learning in a team is made of acts that put the actor's image at risk:
+asking for help, admitting an error, seeking feedback, questioning the
+goal. Whether people do them depends less on whether they think the team
+can succeed than on whether they think the team will not embarrass,
+reject or punish them for trying. That belief is held tacitly, is shared
+within a team and differs between teams in the same organization, so it
+is a property of the team and not only of its members.
+
+## Assumptions
+
+- **Group level.** A construct is treated as the team's when it is
+  meaningful at that level and members' answers converge (intraclass
+  correlation above zero, Kenny and LaVoie). Team means then make a data
+  set of N = 51.
+- **Mediation by Baron and Kenny's three steps**: the mediator predicts
+  the outcome, the predictor predicts the mediator, and the predictor's
+  effect drops or vanishes when both are entered. No test of the
+  indirect effect itself is reported.
+- **Performance is meeting the needs of the team's internal customers**,
+  rated by two or three managers who receive its work.
+- **The setting.** One company ("Office Design Incorporated", about
+  5,000 employees), teams listed by managers at the request of an
+  internal organization-development contact; not a representative
+  sample of its teams, by the author's own statement.
+
+## Key results
+
+- **Sample (Methods).** 53 teams listed: 34 functional, 9
+  self-managed, 5 product development, 3 project. 427 of 496 members in
+  51 teams returned the survey (86%); 135 of 150 observers returned
+  theirs (91%). Members' and observers' ratings of the same team agree
+  for learning (r = .60) and for performance (r = .36).
+- **Group-level agreement (Table 3).** ICCs .29 to .39 for the
+  group-level scales (psychological safety .39), against .03 and .04 for
+  internal motivation and job involvement, which are individual
+  constructs.
+- **H1, learning behavior → performance (Table 4).** Self-reported
+  learning predicts observer-rated performance, and of seven models it
+  accounts for the most variance; context support and coaching add
+  nothing to it.
+- **H2, safety → learning (Tables 5, 6).** B = .76, t = 9.16, R² = .63
+  for self-reported learning; B = .46, t = 5.26, R² = .33 for
+  observer-rated learning. Entered with efficacy, context support and
+  coaching, safety is the only significant predictor of either measure.
+- **H4 and H5, efficacy.** Efficacy alone predicts learning (B = .38,
+  R² = .26 self-reported; B = .45, R² = .23 observed). With safety
+  controlled it adds nothing to self-reported learning and remains
+  significant for observed learning: "mixed support" for H5.
+- **H3, learning mediates safety → performance.** Entered together,
+  safety drops to B = .25, p = .42 and learning stays B = .60, p < .05.
+- **H6 and H7, structures → safety → learning (Table 6).** Context
+  support (B = .56, t = 3.82) and coaching (B = .33, t = 1.89, p = .06)
+  predict safety (R² = .52). With safety entered, both lose significance
+  for observed learning (.09 and .12) while safety stays (.29, p = .02).
+- **H8, efficacy as mediator (Table 7): not supported.** Coaching does
+  not predict efficacy (B = .01, p = .95); context support does (B = .77).
+- **Individual-level GLM (Table 8, N = 427).** Team type does not
+  predict safety (p = .12) or learning (p = .10) once context support,
+  coaching and team membership are in; team tenure does not either.
+- **Follow-up cases.** In the seven high- and low-learning teams safety
+  goes with learning in all seven; coaching does in five. Context
+  support is not tied to the split: two of four high-learning teams had
+  inadequate support, and all three low-learning teams adequate support.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Team psychological safety is a shared, team-level belief that varies between teams in one organization | moderate | ICC .39 and F(50,427) = 6.98; Phase 1 interviews |
+| C2 | Psychological safety is associated with team learning behavior, by members' and observers' ratings | moderate | Tables 5, 6; one company, cross-sectional |
+| C3 | Learning behavior carries the association between safety and observer-rated performance | weak | Baron–Kenny steps at N = 51; no test of the indirect effect |
+| C4 | Safety carries the association of context support and coaching with learning | weak | Table 6; predictors and safety come from the same survey |
+| C5 | Team efficacy matters for learning less than safety does | moderate | Tables 5, 7; H5 mixed, H8 unsupported |
+| C6 | High-learning teams can work round poor design; low-learning teams get stuck in a self-sealing pattern | weak | seven cases, interpretive |
+
+## Method
+
+A multimethod field study in three phases: observation of eight teams
+and 17 interviews to build the survey items (Table 1); a member survey,
+an observer survey and structured interviews of 31 other managers by a
+researcher blind to the survey, to check the design measures; and
+follow-up observation and interviews of seven teams chosen from the
+survey's six highest and six lowest on learning behavior. Analysis is
+OLS on team means plus a GLM on individuals with team membership as a
+random effect.
+
+## Concepts
+
+- **Team psychological safety**: "a shared belief that the team is safe
+  for interpersonal risk taking"; not cohesiveness, which can suppress
+  disagreement, and more than interpersonal trust: a climate of trust and
+  mutual respect "in which people are comfortable being themselves".
+- **Learning behavior**: "an ongoing process of reflection and action,
+  characterized by asking questions, seeking feedback, experimenting,
+  reflecting on results, and discussing errors or unexpected outcomes of
+  actions"; a process, kept apart from learning outcomes.
+- **Team efficacy**: a shared belief that the team can do its work.
+
+## Connections
+
+The learning-as-process tradition it joins is Argyris and Schön's
+(1978) detection and correction of error and Dewey's inquiry; Argyris's
+later statement of double-loop learning is LIT-745 (and LIT-739). The
+structural side is Hackman's model of team effectiveness. Schein and
+Bennis (1965) are the source of "psychological safety" for individuals.
+Janis's groupthink is the foil for cohesiveness.
+
+## Bearing on the record
+
+- **CLAIM-359** cites it as complementary: robustness to compromise
+  depends on processes that protect dissent and audit. The paper
+  supports a narrower point: in one company's work teams, members'
+  belief that speaking up will not be punished goes with the team's
+  asking, admitting and questioning, and through that with its
+  performance as its customers judge it. It says nothing about
+  adversarial or compromised members; its teams are cooperative. Its
+  case of NPD 2, whose members did not question a goal "for fear of
+  sanction by management", is the nearest it comes to the claim's
+  restriction of disagreement.
+- **CASE-108**'s "honestly dissenting" specialists are the role this
+  paper's construct protects; the paper gives no evidence on what
+  protecting them costs.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Cross-sectional**, by the author's statement: no causal order is
+  shown, and the dynamic in which unpunished risk taking builds safety
+  is left out of the model.
+- **One company, 51 teams**, a sample the author calls small for
+  multivariate analysis; teams were not selected to be representative.
+- **Construct validity** is not settled: the qualitative data "did not
+  map onto it precisely", and safety could not be cleanly separated from
+  trust.
+- **Common source.** Safety, context support and coaching come from the
+  same survey, so the antecedent findings are, in the author's word,
+  tentative. Observers' learning and performance ratings lacked
+  discriminant validity and were not related to each other.
+- **Low alphas** for context support and team efficacy (Table 2,
+  stated in the text).
+- **Errors and slips.** The text gives the ICC of team learning behavior
+  as .33; Table 3 gives .27. Table 6 prints p = .21 for coaching at
+  t = .78 (observer-rated learning, step 3); a two-sided test gives about
+  .44, so the figure is a misprint or one-sided, and the conclusion
+  (not significant) stands either way. The text says all ICCs are
+  significant at p < .0001; Table 3 says < .001. The text writes
+  "regressing team learning … on team performance" for the regression of
+  performance on learning. "Six of the eight hypotheses" counts H6 as
+  supported, though coaching's own coefficient is p = .06.
+
+## Open questions
+
+- Does safety precede learning behavior, or do unpunished acts of
+  learning make the belief? A panel of teams would separate them.
+- Does the association hold for highly constrained tasks, where the
+  author expects learning behavior to matter little to performance?
