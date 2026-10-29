@@ -45,7 +45,6 @@ summary: >-
 <!-- inactive-ok-file: LIT-1726 LIT-1767 — Deferred; the primary studies, filed unread, named as what promotion needs -->
 <!-- inactive-ok-file: LIT-1723 — Unavailable; the 1987 book that first stated the account, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-406 THEORY-650 THEORY-691 — Proposed; neighbouring accounts of the self, compared, not leaned on -->
-<!-- inactive-ok-file: QUESTION-119 — Open; named as the question this bears on -->
 
 # THEORY-1114: Which self-category a person uses, what it means and who in it is most typical vary lawfully with the comparative frame of reference: a grouping of self with others becomes salient as the differences within it shrink relative to the differences between it and the rest of the frame (metacontrast) and as those differences match expectations about the category, and as it does, self-perception is depersonalized
 

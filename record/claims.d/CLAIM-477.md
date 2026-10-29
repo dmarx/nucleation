@@ -64,7 +64,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-478 CLAIM-137 LIT-1019 LIT-1632 LIT-1663 — claims the note connects (Proposed) and works unread here (Unavailable or Deferred) -->
 <!-- inactive-ok-file: THEORY-1086 — Proposed; Jaksland's conditional, cited as open -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 CLAIM-405 CLAIM-195 THEORY-034 — Proposed; the domain cases, neighbours and objection this frame sits beside, cited as open -->
-<!-- inactive-ok-file: LIT-1661 — Deferred; registered from the same exchange, unread, cited for what it is standardly cited for -->
 
 # CLAIM-477: Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
 

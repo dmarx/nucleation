@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpxpu3p
 title: 'Does transport of evaluative representations between contexts, with the evaluated situation held fixed, admit a connection fixed by independently established relations rather than chosen, and is its holonomy around a loop of contexts ever nontrivial?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    A paragraph added under "What would count as an answer" on
+    LIT-tmpr8qf7, which carries this question's construction to the forced
+    form of an equivariant update and does not answer it, since its
+    transports are given. The question is unchanged.
 tags:
 - mathematics
 - ethics
@@ -99,6 +107,18 @@ but trivial holonomy. That would prove that **perspectival plurality does
 not imply nontrivial gauge curvature**." A nontrivial holonomy counts only
 if its transport was not chosen to produce it, and only if it predicts a
 discrepancy that is not an artefact of coordinates.
+
+Sarkar, Mukherjee and Sato (2026, [LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md)) take this construction
+further for relation transports in O(d): under per-entity frame freedom,
+transports interact only around cycles, a loop's invariants are class
+functions of its holonomy, and an equivariant update has the form
+Ψ(H)Tᵢⱼ ([THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md)). That develops A19's "gauge-covariant
+comparison". It does not touch this question's open part, because the
+transports are supplied, and its companion paper calls the frame freedom
+itself "a chosen inductive bias" ([LIT-tmpbihhf](../literature.d/LIT-tmpbihhf.md)). For d > 1 a connection
+can be frustrated in some directions and compatible in others
+([CLAIM-tmp3lml8](../claims.d/CLAIM-tmp3lml8.md)), so a nontrivial holonomy need not mean that no
+commitment survives the loop.
 
 Prior work on gauge ideas in neuroscience exists (Sengupta et al. (2016),
 named by A19); A19: "These are relevant predecessors, but they do not

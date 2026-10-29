@@ -73,7 +73,6 @@ summary: >-
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, cited beside this claim, not as premises -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-012 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 
 # CLAIM-130: Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s): only a do(S) intervenes on the relations that would constitute an act, and in a vignette or rating study every manipulation is a do(I)

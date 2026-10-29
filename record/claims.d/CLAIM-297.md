@@ -143,7 +143,6 @@ claim's "Not that concentration is error" leaves open. The record's lock-in,
 [TERM-020](../terms.d/TERM-020.md), is the regime the self-confirming kind would keep in place. U33
 later made frustration, not distress, the primitive ([CLAIM-368](CLAIM-368.md)).
 
-<!-- inactive-ok-file: CLAIM-368 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
 
 ## Note of 2026-10-26: two running realizations, without retrieval
 

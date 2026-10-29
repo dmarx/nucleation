@@ -30,7 +30,6 @@ summary: >-
   components use it: in Flack the aggregate constrains only through the
   components' tuning to it.
 ---
-<!-- inactive-ok-file: CLAIM-478 CLAIM-331 — Proposed; neighbours cited as open -->
 
 # THEORY-1073: An aggregate variable much slower than the behaviour producing it becomes an environment the components tune to whether or not it summarizes the underlying regularities well, which helps coordination; if it summarizes them poorly the system likely fails in the end, later the larger the separation
 

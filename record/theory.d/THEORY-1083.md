@@ -22,8 +22,6 @@ summary: >-
   ([THEORY-1071](THEORY-1071.md)). It does say that a use of her concepts outside
   physics by structural comparison is a use she disowns.
 ---
-<!-- inactive-ok-file: LIT-1657 — Deferred; Barad's text, quoted as Jaksland quotes it -->
-<!-- inactive-ok-file: CLAIM-476 CLAIM-477 — Proposed; neighbours cited as open -->
 
 # THEORY-1083: Barad holds agential realism to be naturalized metaphysics justified by quantum mechanics and applied once, to the one reality, with its scope extended to the lifeworld; she rejects both reading it as an analogy and reading it as a template that quantum mechanics and other domains each instantiate
 

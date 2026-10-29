@@ -54,7 +54,6 @@ summary: >-
   composition is shown; the scenario is read off it.
 ---
 <!-- inactive-ok-file: NOTE-1242 THEORY-1101 THEORY-1105 THEORY-1109 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
-<!-- inactive-ok-file: QUESTION-277 LIT-1566 LIT-1595 — Open or Deferred; the question this bears on and unread works it is set beside, nothing here rests on them -->
 # THEORY-1104: In Tobiasson, Luo, Wolf and Koonin's constrained-tree survey of widespread eukaryotic protein families, Asgard archaea are the largest single prokaryotic source, with about half the likelihood weight in the best-resolved families and the lead in nearly every functional system, while Alphaproteobacteria contribute a small, coherent set centred on the mitochondrion and other bacteria about a third of families, scattered across functions with no pathway from one donor; the authors read this as one Asgard host lineage, one endosymbiont and piecemeal gene transfer rather than further symbioses, a reading the gene ancestries alone cannot establish
 
 ## Source

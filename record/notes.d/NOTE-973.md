@@ -34,7 +34,6 @@ summary: >-
   t-model on the Taylor–Green vortex, and puts the subgrid drain at the
   cutoff, as DNS does.
 ---
-<!-- inactive-ok-file: THEORY-747 — Proposed; the empirical account filed from this reading -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 CLAIM-331 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1245 LIT-1253 LIT-1251 LIT-1239 LIT-1252 — Deferred; works registered unread, cited as open -->
 # NOTE-973: Parish and Duraisamy — Non-Markovian closure for LES via Mori–Zwanzig

@@ -41,7 +41,6 @@ summary: >-
   demonstrations and from the Assistant token, where semantic search
   fails. The model's objective is named in its training data.
 ---
-<!-- inactive-ok-file: CLAIM-454 — Proposed; the record's own claim on what circuit-level tools add, cited as open -->
 # THEORY-1027: In audits of language models for hidden objectives, sparse-autoencoder features add to what black-box attacks and semantic search over the training data can find, surfacing knowledge the model does not disclose even where the data that taught it is not semantically similar to the context in which it is applied, as Marks, Treutlein et al. suggest
 
 ## Source

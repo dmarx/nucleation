@@ -29,7 +29,6 @@ summary: >-
   not depend on the spinning-top hypothesis. The order is weak, since
   clusters can tie, and cardinal, since RPP uses payoff magnitudes.
 ---
-<!-- inactive-ok-file: NOTE-1146 — the reading this is filed from -->
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
 # THEORY-940: In a finite symmetric zero-sum game, successive Nash clusters are weakly ordered by relative population performance, and a strategy that beats every member of a population containing a whole cluster lies in a strictly earlier cluster

@@ -38,7 +38,6 @@ summary: >-
   quantity is tied to the energy balance, and none is transferred.
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-331 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1252 — Unavailable; cited as open, nothing here rests on it -->
 # NOTE-970: Granero-Belinchón, Roux and Garnier — Scaling of information in turbulence
 
 ## Contribution

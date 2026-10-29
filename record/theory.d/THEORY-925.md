@@ -28,7 +28,6 @@ summary: >-
   not acted", and its values are a learned critic's, trained on occasions
   when each alternative was taken; it presupposes those occasions.
 ---
-<!-- inactive-ok-file: NOTE-1152 — the reading this is filed from -->
 
 # THEORY-925: In a cooperative stochastic game with decentralised actors and a centralised critic, a baseline for each agent that averages the critic's value over that agent's own alternative actions under its own policy, the other agents' actions held fixed, leaves the expected policy gradient unchanged, so each agent can be credited with the advantage of its actual action over that counterfactual average without a default action or an extra simulation; the counterfactual values come from the learned critic, not from the environment
 

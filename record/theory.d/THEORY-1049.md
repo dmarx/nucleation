@@ -49,7 +49,6 @@ summary: >-
   they no longer encode. The host's role is inferred, not shown: the
   mechanisms are, in the paper's word, mysteries.
 ---
-<!-- inactive-ok-file: NOTE-1241 NOTE-1236 — readings of 2026-10-27, filed in the same contribution and cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: QUESTION-277 CASE-173 CASE-171 CASE-174 LIT-1559 LIT-1560 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
 # THEORY-1049: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
 

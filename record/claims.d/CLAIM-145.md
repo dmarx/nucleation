@@ -43,7 +43,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-147 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp the objection rests on, whose promote_when carries the circularity warning -->
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-014 — Rejected; the argument this claim's circularity half moved to -->
 
 # CLAIM-145: Trope analysis of the kind A155 proposes is Propp's and Lévi-Strauss's transformational analysis, whom the manuscript should cite as precursors

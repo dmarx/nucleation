@@ -28,7 +28,6 @@ summary: >-
   non-stationary environments. Hybrids that compare qualities are faster.
   Simulation-scoped, not a theorem.
 ---
-<!-- inactive-ok-file: NOTE-1132 THEORY-899 — the reading and its companion THEORY -->
 
 # THEORY-905: In simulations of the two imitation protocols, populations small enough to be finite often settle on a suboptimal option because pure imitation can remove a type entirely, and once settled the protocols give no way to re-explore when the environment changes; variants in which members compare quality estimates converge faster than blind weighted voting, at the cost of more communication and comparison
 

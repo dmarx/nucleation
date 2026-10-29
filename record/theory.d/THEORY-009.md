@@ -94,7 +94,6 @@ extends:
 bears_on:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: QUESTION-141 — Open; the asymmetric-objective question this reading was narrowed away from, named as open -->
 
 # THEORY-009: In the positive-pair spectral self-supervised papers, self-adjointness comes from the symmetry of the positive-pair distribution, not from the Riesz representation theorem; elsewhere in the family it comes from a symmetrized loss, a precondition on the kernel, or composing the conditional-expectation operator with its adjoint
 

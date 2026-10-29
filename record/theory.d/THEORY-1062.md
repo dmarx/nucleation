@@ -20,7 +20,6 @@ summary: >-
   an example. It does not say that people reach agreement this way, or
   that an agreement in expression shows anything about what is held.
 ---
-<!-- inactive-ok-file: CLAIM-471 — Proposed; the gluing claim this is a formal case of, cited as open -->
 
 # THEORY-1062: On a discourse sheaf, where each agent expresses a private opinion through a linear map into each edge's space of topics, sheaf-Laplacian opinion diffusion converges to the orthogonal projection of the initial opinions onto the global sections, which are agreement in what each pair expresses and not in what they hold; stable polarized or incomparable private opinions are therefore possible, and when the sheaf has no nonzero global section the only limit is all opinions zero
 

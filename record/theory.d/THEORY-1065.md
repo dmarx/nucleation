@@ -19,7 +19,6 @@ summary: >-
   invariant for the whole admissible class, not stable, and not invariant
   for one model family; the paper studies "existence, not stability".
 ---
-<!-- inactive-ok-file: QUESTION-063 — Open; the drive-or-coupling question this account bears on, cited as open -->
 
 # THEORY-1065: In a coupled cell network, a pattern of synchrony is invariant under every dynamics the network's architecture admits if and only if its partition of the cells is balanced, each cell of a class receiving, through each kind of arrow, the same number of inputs from each class; symmetry is one way to get balance and not the only one, so robust synchrony occurs in networks with no symmetry and among cells with no coupling between them, and the invariance says nothing about whether the pattern attracts
 

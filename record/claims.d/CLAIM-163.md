@@ -39,7 +39,6 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-162 — Proposed; the claim this objection targets, open -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading that sets the standard the analogy is held to -->
-<!-- inactive-ok-file: ADR-061 — Proposed; the decision under whose migration this entry was filed or revised -->
 <!-- inactive-ok-file: ARG-016 CLAIM-169 CLAIM-198 THEORY-070 — Proposed; the argument this claim moved to, its premises and the reply that still names this claim, open -->
 
 # CLAIM-163: "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"

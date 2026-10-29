@@ -43,7 +43,6 @@ refined_by:
 bearing:
 - THEORY-751
 ---
-<!-- inactive-ok-file: THEORY-163 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-220: Given that information-bottleneck optima at two budgets need not be nested, what condition on P(X, Y), beyond Y a function of X or X and Y both binary, guarantees that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and how much is lost by forcing nesting when it fails?
 
 ## Why it is a question

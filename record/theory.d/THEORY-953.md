@@ -45,7 +45,6 @@ summary: >-
   partial by the paper's own account, and averaging over subjects makes
   the target an ideal observer, which the paper leaves as an open puzzle.
 ---
-<!-- inactive-ok-file: QUESTION-255 — Open; the evidence-for-experience line this bears on -->
 <!-- inactive-ok-file: THEORY-868 THEORY-880 CLAIM-138 — Proposed; the structuralist accounts and the claim this one is set beside, nothing here rests on their being settled -->
 # THEORY-953: On Isaac's structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; the convergence observed is coarse, with discrepancies that often exceed each method's own uncertainty, and the models average over subjects, so what they converge on is a standard observer
 

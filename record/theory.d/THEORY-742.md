@@ -41,7 +41,6 @@ summary: >-
   RG eigenvalue above d/2 do, and away from the Gaussian fixed point even
   the drift loses information.
 ---
-<!-- inactive-ok-file: THEORY-202 — Proposed; accounts this one is set beside, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-777 — Proposed; the numerics behind Eq. 21, cited for what they are -->
 # THEORY-742: For a Boltzmann distribution linear in its couplings, observed through any coarse-graining map, the Fisher information the coarse data lose about the bare couplings is the expected conditional covariance of the energy operators given the coarse state; when the renormalized Hamiltonian stays in the family, the parameter map is linear and the additive constant of the step is analytic, that loss is the constant's Hessian, so the singular part of the metric passes unchanged to the coarse data. In the hopping model of diffusion at its Gaussian fixed point, keeping every n-th position of a trajectory of fixed duration multiplies the metric by n^(1−μ) in the μ-th Hermite coordinate: the drift's information is kept exactly, the variance's falls as 1/n, and higher shape parameters' faster
 

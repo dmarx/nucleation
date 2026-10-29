@@ -30,7 +30,6 @@ summary: >-
   no variance. The mechanism is the authors' explanation, not a tested
   result. The fix penalizes unequal use regardless of competence.
 ---
-<!-- inactive-ok-file: NOTE-1145 — the reading this is filed from -->
 
 # THEORY-927: In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate came to give large weights to the same few experts, which the authors attribute to self-reinforcement, favoured experts being trained more and so selected more; in one 256-expert language model, the squared coefficient of variation of expert importance or load as an auxiliary loss reduced the peak-to-mean load from 17.8 to at most 1.47 and test perplexity from 39.8 to 35.6–35.7
 

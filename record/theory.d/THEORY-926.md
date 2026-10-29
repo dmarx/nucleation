@@ -29,7 +29,6 @@ summary: >-
   states it for patterns with draws too, which also needs a draw to stay
   attainable. The strategies are weak by construction.
 ---
-<!-- inactive-ok-file: NOTE-1146 — the reading this is filed from -->
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
 # THEORY-926: In a game where each player can transmit n bits before a win or a loss becomes unattainable, every antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some set of pure strategies

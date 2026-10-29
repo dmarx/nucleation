@@ -45,7 +45,6 @@ summary: >-
   not show that any real network is hyperbolic, or that hierarchy causes
   heterogeneity.
 ---
-<!-- inactive-ok-file: QUESTION-025 — Proposed or Open; cited for the contrast with additive models -->
 
 # THEORY-188: In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model
 

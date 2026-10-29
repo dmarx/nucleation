@@ -67,9 +67,6 @@ summary: >-
   physically operative correspondence structure, rather than revealing or
   redescribing it.
 ---
-<!-- inactive-ok-file: TERM-093 — Proposed; the terms this claim is stated in, proposed the same evening -->
-<!-- inactive-ok-file: QUESTION-282 THEORY-1090 THEORY-1088 — Open or new; the open question this restatement names and the readings it rests on -->
-<!-- inactive-ok-file: CLAIM-480 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-143 CLAIM-473 CLAIM-481 CLAIM-480 CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1659 LIT-1646 LIT-1658 LIT-1668 LIT-1639 LIT-1674 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 

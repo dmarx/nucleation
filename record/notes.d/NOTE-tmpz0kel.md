@@ -1,0 +1,303 @@
+---
+status: Read
+paper: 'LIT-tmpfxrm8'
+title: 'Gentner — Structure-mapping'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from a scan of the published article
+    (Cognitive Science 7, 155–170, 1983) posted on the author's lab pages
+    at Northwestern University
+    (groups.psych.northwestern.edu/gentner/papers/Gentner83.2b.pdf; a
+    2003 OmniPage scan, nine sheets, two journal pages to a sheet). The
+    Wiley PDF that Unpaywall lists for the older DOI answered curl with a
+    Cloudflare challenge, and a DTIC report copy (ADA122891) that
+    OpenAlex lists returned 403. The scan's OCR layer is poor, so I read
+    rendered images of every page; quotations were transcribed from the
+    images and checked against them a second time. Read: the abstract,
+    every section (Preliminary Assumptions; Structure-Mapping:
+    Interpretation Rules for Analogy; Kinds of Domain Comparisons, with
+    Metaphor; Higher-Order Predicates and Systematicity; Empirical
+    Support; Related Research; The Analogical Shift Conjecture; Summary),
+    Figure 1, Table 1, all eleven footnotes and the references. Page
+    numbers are the journal's. A fold in the scan covers the corner of
+    p. 169 (references), without loss of text. No computation applies.
+date: '2026-10-29'
+summary: >-
+  Gentner proposes that an analogy maps the relations of a base domain
+  onto a target and drops the objects' attributes, and that which
+  relations go across is decided by systematicity: a relation belonging
+  to a system tied together by higher-order relations is more likely to be
+  imported than an isolated one. The rules look only at the form of the
+  representation (arity and order of predicates), which lets literal
+  similarity, analogy, abstraction and mere appearance be told apart by
+  what kinds of predicate overlap. The framework is argued from examples;
+  the empirical support is one study summarized in a paragraph.
+---
+<!-- inactive-ok-file: CLAIM-113 CLAIM-135 LIT-tmpprsxm LIT-tmpqoytq — Proposed or Deferred; the entries this reading bears on, cited as open -->
+
+# NOTE-tmpz0kel: Gentner — Structure-mapping
+
+## Contribution
+
+A theory of how the meaning of an analogy is derived from the meanings of
+its parts. It replaces feature-overlap accounts of similarity, which it
+grants for literal comparisons, with a typed account: predicates are
+sorted by arity (attribute or relation) and by order (first-order, or
+higher-order taking propositions as arguments), and each kind of
+comparison is defined by which kind of predicate is shared. Its one
+selection principle, systematicity, says which relations are carried over.
+"The central idea is that an analogy is an assertion that a relational
+structure that normally applies in one domain can be applied in another
+domain" (p. 156).
+
+## Key insight
+
+What an analogy keeps is relational structure, and the relations it keeps
+are the ones held together by higher-order relations. In "The atom is like
+the solar system", MORE MASSIVE THAN (sun, planet) goes across and HOTTER
+THAN (sun, planet) does not, though both are binary relations between the
+same objects. "Only MORE MASSIVE THAN participates in the central-force
+system of predicates" (p. 164): the relations DISTANCE, ATTRACTIVE FORCE,
+REVOLVES AROUND and MORE MASSIVE THAN are bound by the equations of
+central-force motion, so that "changing one of these relations affects the
+others" (p. 163), and HOTTER THAN is bound by nothing.
+
+## Assumptions
+
+- **Domains are "systems of objects, object-attributes and relations
+  between objects"** (p. 156), represented "as propositional networks of
+  nodes and predicates" (p. 157).
+- **Two syntactic distinctions.** "Attributes are predicates taking one
+  argument, and relations are predicates taking two or more arguments"
+  (p. 157). First-order predicates take objects; second- and higher-order
+  ones take propositions, as in CAUSE [COLLIDE (x,y), STRIKE (y,z)]
+  (p. 157). "in general an nth order relation has at least one (n-1)th
+  order argument" (n. 7, p. 162).
+- **The representation is psychological, and chosen.** "These
+  representations, including the distinctions between different kinds of
+  predicates, are intended to reflect the way people construe a situation,
+  rather than what is logically possible" (p. 157). Footnote 4 makes the
+  dependence explicit: "Logically, a relation R(a,b,c) can perfectly well
+  be represented as Q(x), where Q(x) is true just in case R(a,b,c) is true.
+  Psychologically, the representation must be chosen to model the way
+  people think about the domain." Footnote 3 adds that many attributes are
+  implicit relations: LARGE (x) means "X is large for its class", and only
+  relations that apply within the domain are "psychologically stored and
+  processed as true relations".
+- **Identical predicates.** "The assumption that predicates are brought
+  across as identical matches is crucial to the clarity of this
+  discussion" (n. 6, p. 158); similarity of predicates is to be restated
+  as identity of component predicates.
+- **One-to-one object maps** in most explanatory analogies (n. 5, p. 158),
+  with exceptions allowed.
+- **Object correspondences are fixed first, in the exposition.** Footnote
+  10 (p. 164) weakens this: the object correspondences "are decided before
+  the relational mappings are finished", and in complex analogies relation
+  matching may decide them.
+
+## Key results
+
+### The mapping rules (p. 158)
+
+With object correspondences M: bᵢ → tᵢ,
+
+1. "Discard attributes of objects": A(bᵢ) ↛ A(tᵢ).
+2. "Try to preserve relations between objects": R(bᵢ, bⱼ) → R(tᵢ, tⱼ).
+3. "(The Systematicity Principle) To decide which relations are preserved,
+   choose systems of relations": R′(R₁(bᵢ, bⱼ), R₂(bₖ, bₗ)) →
+   R′(R₁(tᵢ, tⱼ), R₂(tₖ, tₗ)).
+
+"Notice that this discussion has been purely structural; the distinctions
+invoked rely only on the syntax of the knowledge representation, not on the
+content" (p. 158).
+
+### Kinds of comparison (pp. 159–161, Table 1)
+
+| kind | attributes mapped | relations mapped | example (Table 1) |
+|---|---|---|---|
+| literal similarity | many | many | "The K5 solar system is like our solar system" |
+| analogy | few | many | "The atom is like our solar system" |
+| abstraction | few, and few in the base too | many | "The atom is a central force system" |
+| anomaly | few | few | "Coffee is like the solar system" |
+
+Mere-appearance matches, with attributes shared and relations not ("A
+sunflower looks like the sun"), are set aside: "their explanatory power is
+sharply limited" (p. 161). "the contrast between analogy and literal
+similarity is a continuum, not a dichotomy" (p. 161), and so is the one
+between analogy and general law, as the base's objects become "more
+abstract and variable-like" (p. 161). Most metaphors are analogies; some
+are attribute matches ("She's a giraffe"), and some mix the two, with less
+regular mapping rules (p. 162).
+
+### Systematicity (pp. 162–165)
+
+- **Statement:** "A predicate that belongs to a mappable system of mutually
+  interconnecting relationships is more likely to be imported into the
+  target than is an isolated predicate" (p. 163).
+- **The Rutherford case** (p. 163): relations (1)–(4) of the solar system
+  and (5)–(8) of the atom are tied by F = Gmₛmₚ/R² = mₚaₚ = mₛaₛ and the
+  Coulomb counterpart, which "embody higher-order relations that connect
+  the lower-order relations (1) through (4) into a mutually constraining
+  structure" (p. 164).
+- **Heat and water** (pp. 164–165): of a static description (a lidded
+  vessel) and a causal one (puncture the vessel and water flows out), the
+  causal one should be mapped. Systematicity achieves this without
+  appeal to content, because "Dynamic causal information … will usually
+  be represented in a more deeply embedded structure than simple stative
+  information" (p. 165): "It is a purely syntactic mechanism that
+  guarantees that the set of candidate mappings will be as interesting—in
+  the sense that a mutually interconnected system of predicates is
+  interesting—as the knowledge base allows" (p. 165).
+- **Plausibility is a separate matter.** "our ultimate acceptance of the
+  analogy will depend on whether its candidate set of predicates is
+  plausible; but this is a separate matter" (n. 11, p. 165).
+
+### Empirical support (pp. 165–166)
+
+One set of studies, summarized in a paragraph and described more fully in
+Gentner 1980b (a conference paper): subjects wrote interpretations of
+comparisons such as "A cigarette is like a time bomb", and naive judges
+rated each assertion as attributional or relational. "Relational
+information predominates over attributional information in analogy
+interpretations, but not in object descriptions generated by the same
+subjects" (pp. 165–166), and "subjects rated as most apt those analogies
+for which they wrote the greatest amount of relational information"
+(p. 166). No numbers are given. Developmental and science-learning studies
+are cited (p. 166).
+
+### The analogical shift conjecture (pp. 167–168)
+
+"An informal observation is that the earliest comparisons are chiefly
+literal-similarity matches, followed by analogies, followed by general
+laws" (p. 167), from one subject reasoning about water in a constricted
+pipe. The proposed reason: literal matches are accessible and
+uninformative, analogies the reverse.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | In analogy, relations between objects are mapped from base to target and object attributes are not | moderate | worked examples (battery–reservoir, 3:6::2:4, Rutherford); one study summarized without numbers (pp. 165–166) |
+| C2 | Which relations are mapped is decided by systematicity: a relation in a system governed by higher-order relations is more likely to be imported than an isolated one | weak to moderate | the Rutherford and heat–water examples (pp. 163–165); no direct test reported |
+| C3 | The interpretation rules depend only on the syntax of the representation (arity and order), not on content | strong, as a property of the theory | by construction (pp. 158, 165); but the syntax is chosen to fit psychology (n. 4), so the content-independence is relative to that choice |
+| C4 | Literal similarity, analogy, abstraction and anomaly are distinguished by how many attributes and how many relations are shared, and the contrasts are continua | moderate | definitional (Table 1, p. 161) |
+| C5 | Learners' spontaneous comparisons move from literal similarity to analogy to general law | weak | "An informal observation" of one subject (p. 167) |
+
+## Concepts
+
+- **Base / target** — the domain that "serves as a source of knowledge"
+  and the domain "being explicated" (p. 157).
+- **Attribute** — a one-place predicate. **Relation** — a predicate of two
+  or more places (p. 157).
+- **Order** — set by the arguments: first-order relations take objects; "A
+  second-order relation has at least one first-order relation among its
+  arguments" (n. 7, p. 162).
+- **Systematicity** — membership in "a mappable system of mutually
+  interconnecting relationships" governed by higher-order relations
+  (p. 163).
+- **Mere appearance match** — attributes shared, relations not (p. 161).
+- **Abstraction** — a comparison whose base is "an abstract relational
+  structure", with no nonmapped predicates (pp. 159–160).
+
+## Connections
+
+- **Tversky (1977)**, the contrast model, is the foil: good for literal
+  similarity, wrong for analogy (pp. 155–156).
+- **Rumelhart and Abrahamson (1973)**, multidimensional-space models of
+  analogy, are among those said to deal well with attributes and to be
+  "extremely limited in their ability to express relations between
+  objects, and especially higher-order relations" (p. 166). The same paper
+  is [LIT-tmp6ic5n](../literature.d/LIT-tmp6ic5n.md)'s precursor for the parallelogram rule.
+- **Winston (1980, 1981)** matches only predicates in causal chains,
+  "somewhat more restrictive than the structure-mapping principle that
+  participation in any higher-order chain results in preferential mapping"
+  (pp. 166–167). Gick and Holyoak are cited for schema induction.
+- **Forbus and Gentner (1983)** and the later Structure-Mapping Engine are
+  the computational descendants; Chalmers, French and Hofstadter's
+  critique of SME's hand-built representations ([LIT-414](../literature.d/LIT-414.md), read in
+  [NOTE-359](NOTE-359.md)) is aimed at the dependence that footnote 4 here concedes.
+
+## Bearing on the record
+
+- **[LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md) (Gromov–Wasserstein alignment): A6's reading holds for the
+  first two rules, and the paper shows exactly what GW leaves out.** GW
+  matches two spaces through the pairwise distances within each, with no
+  shared coordinates. That is rules 1 and 2 for one relation: object
+  attributes (coordinates) are discarded and a binary relation is
+  preserved. Three differences follow from the text. (a) Structure-mapping
+  carries relations of many types, each kept as an "identical match" of
+  predicate (n. 6); GW carries one relation, a distance, and preserves its
+  values approximately. A distance matrix cannot say whether two objects
+  stand in ATTRACTS or in REVOLVES AROUND, so A6's point that "two systems
+  can share pairwise distances and realize different kinds of relation" is
+  right in Gentner's own terms. (b) GW has no higher-order relations, so
+  it has no counterpart of systematicity, the principle that decides
+  which relations an analogy keeps. (c) Structure-mapping lets most
+  relations fail to map and still counts the analogy good (HOTTER THAN is
+  dropped), while GW's objective charges every pair's mismatch. The
+  exchange's description in [LIT-tmpfxrm8](../literature.d/LIT-tmpfxrm8.md) is accurate. One qualification:
+  the paper states systematicity as a likelihood ("more likely to be
+  imported", p. 163), while the abstract and summary say the relations
+  mapped "are determined by" or "are those that are dominated by"
+  higher-order relations (pp. 155, 168).
+- **[CLAIM-113](../claims.d/CLAIM-113.md): a case of transformation and invariant.** An analogy is a
+  map between domains that preserves relational structure and discards
+  attributes; the kinds of comparison in Table 1 are classes of map
+  sorted by what they preserve. That fits [CLAIM-113](../claims.d/CLAIM-113.md)'s distinction between
+  exact preservation and structures that are changed. What the paper adds
+  is a selection principle: of the relations a map could preserve, those
+  bound by higher-order relations are the ones that matter. [CLAIM-113](../claims.d/CLAIM-113.md) has
+  nothing corresponding.
+- **[CLAIM-135](../claims.d/CLAIM-135.md): structure-mapping lives inside a chosen representation.**
+  Footnote 4 concedes that any relation can be recoded as an attribute and
+  that the choice is made "to model the way people think about the domain".
+  So the theory's rules recover relational correspondence relative to a
+  representation fixed in advance, and they do not themselves say which
+  representation is right. That is [CLAIM-135](../claims.d/CLAIM-135.md)'s gap between identifying
+  structure under stated assumptions and establishing that the structure
+  is the right kind. The paper also says acceptance of an analogy depends
+  on plausibility, "a separate matter" (n. 11).
+- **Should produce:** [THEORY-tmptxgpp](../theory.d/THEORY-tmptxgpp.md) (relations, not attributes, are
+  mapped, and systematicity selects among them; Proposed).
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **Thin evidence, by the author's own placement.** The Empirical Support
+  section is one paragraph on one set of studies with no statistics, plus
+  citations (pp. 165–166). The paper is a framework, and it says so.
+- **The representation is supplied.** The theory takes the predicate
+  structure of each domain as given, and footnote 4 says that structure is
+  a modelling choice. Whether a predicate is an attribute or a relation,
+  and of which order, is decided before the rules apply.
+- **Systematicity is stated two ways**: as a likelihood (p. 163) and as
+  determination (abstract, p. 155; summary, p. 168). The examples show
+  preference, not determination.
+- **Identity of predicates** is assumed for clarity (n. 6), and graded
+  similarity of relations is left to a restatement as identity of
+  components that is not carried out.
+- **Small errors.** Table 1's literal-similarity example is "The K5 solar
+  system", where the text's Example 1 is "The X12 star system"
+  (pp. 159, 161). The atom's equation calls "−1 … the electromagnetic
+  constant" (p. 163); the sign marks attraction, and the constant is not
+  −1 in any common system of units. Neither affects the argument.
+- **No processing model.** The order of processing "is clearly variable"
+  (n. 10, p. 164), and the paper gives no algorithm.
+
+## Open questions
+
+- Does membership in a higher-order system raise the chance that a
+  predicate is mapped, with content held fixed? A test needs base
+  representations elicited independently of the analogy, then varies
+  connectedness. Clement and Gentner's later "Systematicity as a selection
+  constraint in analogical mapping" (Cognitive Science, 1991) is reported
+  to run such a test; it is not held here.
+- Can systematicity be given a numerical form that a GW-type alignment
+  could use, for example by aligning typed relations and relations among
+  relations (fused or hypergraph variants of GW)?
+- How does the theory decide the attribute/relation split when footnote 4
+  allows either? An account of representation-building is needed, which
+  is the critique of [LIT-414](../literature.d/LIT-414.md).
