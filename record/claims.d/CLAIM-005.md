@@ -3,8 +3,24 @@ number: 5
 status: Proposed
 formerly:
 - CLAIM-tmp0wmy3
-title: 'Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector'
-version: 1
+title: 'Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector; the match constrains a translation only once one outcome correspondence is fixed across many items, and summed over source contexts alone it charges for loss and not for addition'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed at the seventh status review (ADR-057, ADR-059) to record
+    two granted objections. CLAIM-207: for one source–target pair a
+    constant kernel makes L_obs zero and satisfies naturality, so the
+    match constrains a translation only once one kernel family is
+    fixed across many items. CLAIM-256: L_obs and D_obs sum over
+    source contexts only, so a target context outside the image of τ
+    appears in no term. Version 1's title read: Pragmatic fidelity is
+    the match between distributions of context-indexed communicative
+    judgements across a correspondence of source and target contexts,
+    not the similarity of one canonical meaning vector. The repaired
+    measures stay CLAIM-228 and CLAIM-257, Proposed; this claim does
+    not rest on them. The defeated_if is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,7 +56,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-202 CLAIM-228 CLAIM-257 — Proposed; the distinctive test and the two restatements of this measure, cited as open -->
 
-# CLAIM-005: Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector
+# CLAIM-005: Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector; the match constrains a translation only once one outcome correspondence is fixed across many items, and summed over source contexts alone it charges for loss and not for addition
 
 ## The claim
 
@@ -90,3 +106,19 @@ others ([CLAIM-228](CLAIM-228.md)), and over both covers, with the target's new
 questions asked of the source too ([CLAIM-257](CLAIM-257.md)). Its distinctive test
 against a static pragmatic profile is [CLAIM-202](CLAIM-202.md). The manuscript's
 text quoted above is unchanged.
+
+## Note of 2026-10-29: narrowed
+
+The title now carries CLAIM-207 and CLAIM-256 instead of leaving them to the
+note of 2026-10-10. For one pair the kernel can make the match perfect
+whatever the translation did, and what a rendering adds is in no term. The
+contrast with one canonical meaning vector stands.
+
+## Note of 2026-10-29: what holds it back
+
+The defeat condition has not been tested, and as stated it cannot
+discriminate. CLAIM-233 and CLAIM-238 (both Active, granted) show that every
+rival the record names also predicts a pass and that its null has no margin.
+CLAIM-244 (Proposed, unanswered) objects that it takes a task-free holistic
+judgement as ground truth. Restating the condition against CASE-055 is the
+owner's ruling; CASE-184, CLAIM-233 and ARG-026 quote it as it stands.

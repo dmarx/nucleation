@@ -91,3 +91,12 @@ coordination, rather than by superior predictive updating."
   establishes an option value for retained information. It does not imply
   retaining everything is worth its cost." That is [CLAIM-303](CLAIM-303.md) and [QUESTION-098](../questions.d/QUESTION-098.md).
 - Not that a record that keeps justifications is correct ([CLAIM-299](CLAIM-299.md)).
+
+## Note of 2026-10-29: what holds it back
+
+The informational clauses are carried by CLAIM-294 and CLAIM-300, both
+Active. The computational clause has only A10's illustrative example. The
+defeated_if asks about net value after costs, which the title does not
+assert and no study has measured; the two should say the same thing before
+promotion. CLAIM-293's concession is already in the body ("Not that topology
+is enough"); the claim was filed with it.
