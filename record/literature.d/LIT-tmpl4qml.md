@@ -1,8 +1,15 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. Open Library lists the
+  book for print-disabled readers only. Scheffler's 2012 Tanner Lectures,
+  the book's first two chapters, are open at tannerlectures.org. No NOTE
+  is filed. It stays Unavailable until a copy is supplied (ADR-041). Read
+  in its place, and not a substitute for reading it: Scheffler's 2012
+  Tanner Lectures (LIT-tmpuiaaa) and Cottingham's NDPR review
+  (LIT-tmpw9j51).
 title: 'Death and the Afterlife'
 version: 1
 history:
@@ -12,9 +19,12 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, as the angle of
     legacy that Johnston's Surviving Death opened (QUESTION-tmpruhu4).
     Crossref: Oxford University Press, print 2013-11-14, so `published:`
-    is that date (ADR-002); the Oxford Scholarship Online edition is dated
-    2014. Open Library lists the print edition for print-disabled readers
-    only.
+    is that date (ADR-002); the Oxford Scholarship Online edition is
+    dated 2014. Open Library lists the print edition for print-disabled
+    readers only. Set Unavailable the same day after a search for a
+    lawful copy (ADR-041); the status note says where. On the same day
+    Scheffler's 2012 Tanner Lectures (LIT-tmpuiaaa) and Cottingham's
+    NDPR review (LIT-tmpw9j51) were read in its place.
 tags:
 - ethics
 - altruism
@@ -45,3 +55,31 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 The strongest case the record holds against the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)) in the dimension of time: concern for people after one's death, with no benefit to oneself, which the thesis would have to count as self-interest on a self extended past death. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+The 2012 Tanner Lectures (NOTE-tmpmsmxw) are the source of the book's
+first two chapters, "The Afterlife (Part I)" and "(Part II)" (pp. 14–82
+per Crossref), read here in the text the Tanner site serves. They give the
+doomsday and infertility scenarios, the afterlife conjecture, the three
+dependency theses, the limits of egoism and of individualism, and
+Scheffler's own reading of all this as dependence on future people, not
+altruism toward them. The LIT summary says future people's existence "does
+nothing for us"; the lectures say it keeps our valuing secure. Missing
+still: the book's text as revised, the third essay ("Fear, Death, and
+Confidence", pp. 83–110), the volume's introduction (pp. 2–12), the
+commentaries of Wolf, Frankfurt, Shiffrin and Kolodny, and the replies.
+Cottingham's review (NOTE-tmpsnlxv) reports a little of each.
+
+Cottingham's review (NOTE-tmpsnlxv) adds what the Tanner text lacks. It
+gives the third lecture's thesis: a life must be temporally bounded, so
+personal immortality is no remedy, yet confidence in our values needs
+others to live on (book pp. 100–109). It gives Frankfurt's Darwinian doubt
+that the concern is altruistic (p. 138), and Wolf's case that facing
+extinction we could and should go on valuing (pp. 127–128). Missing still:
+the book's own text, Shiffrin's and Kolodny's commentaries, Scheffler's
+replies, and the argument of the third lecture beyond its conclusions. The
+review's "more altruistic construal" should not be taken over: the
+lectures deny that the result is altruism.

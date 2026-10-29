@@ -1,8 +1,13 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher; Scholars@Duke and the
+  co-authors' Duke pages list it without a file. No NOTE is filed. It
+  stays Unavailable until a copy is supplied (ADR-041). Read in its place,
+  and not a substitute for reading it: Hurlstone et al. 2020
+  (LIT-tmpwj5at).
 title: 'It''s Only a Matter of Time: Death, Legacies, and Intergenerational Decisions'
 version: 1
 history:
@@ -11,8 +16,11 @@ history:
   note: >-
     Filed, not read, on the owner's word of 2026-10-29, as the angle of
     legacy that Johnston's Surviving Death opened (QUESTION-tmpruhu4).
-    Crossref: Psychological Science 23(7), 704–709; online 2012-06-12, so
-    `published:` is that date (ADR-002).
+    Crossref: Psychological Science 23(7), 704–709; online 2012-06-12,
+    so `published:` is that date (ADR-002). Set Unavailable the same day
+    after a search for a lawful copy (ADR-041); the status note says
+    where. On the same day Hurlstone et al. 2020 (LIT-tmpwj5at) was read
+    in its place.
 tags:
 - altruism
 - motivation
@@ -41,3 +49,28 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 Experimental evidence that legacy motivation drives beneficence toward people one will never meet. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Hurlstone et al. (2020) give almost nothing of Wade-Benzoni et al. 2012
+directly. They list it among laboratory studies of intergenerational
+allocation, and attribute to "Wade-Benzoni, 2002" the finding that
+implicit death primes reduce discounting of benefits to future others,
+which appears to be the 2012 result miscited (p. 2). What they give is a
+conceptual extension: a mortality-salience message, one of three, raised
+cooperation for future generations in a group game. The APS news release
+of 26 June 2012 supplies the 2012 design. In a first experiment,
+participants entered a $1,000 lottery, read a newspaper story about an
+airplane passenger's death in a freak accident or a neutral story, and
+could pledge part of any winnings to a charity serving the needy now or in
+the future; the death group gave more to the future charity. In a second,
+participants as an energy company's vice-president split a new energy
+supply between their company today and another organization now, another
+group in the future, or their own organization in the future;
+mortality-primed participants gave more to future recipients, and this
+related to their felt connection (affinity) with the recipient. Missing
+still: sample sizes, statistics, the exact prime and any delay, how the
+own-organization-in-the-future condition came out, the form of the
+affinity analysis, and whether legacy motivation itself was measured.

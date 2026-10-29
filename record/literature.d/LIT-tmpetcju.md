@@ -1,8 +1,14 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. A PDF on the Wharton
+  marketing department's site was not used, since none of the authors is
+  there; the authors' own deposits at Columbia Academic Commons hold the
+  study materials and data, not the article. Only press coverage reports
+  its results, so no work was read in its place. No NOTE is filed. It
+  stays Unavailable until a copy is supplied (ADR-041).
 title: 'How Will I Be Remembered? Conserving the Environment for the Sake of One''s Legacy'
 version: 1
 history:
@@ -11,8 +17,10 @@ history:
   note: >-
     Filed, not read, on the owner's word of 2026-10-29, as the angle of
     legacy that Johnston's Surviving Death opened (QUESTION-tmpruhu4).
-    Crossref: Psychological Science 26(2), 231–236; online 2015-01-05, so
-    `published:` is that date (ADR-002).
+    Crossref: Psychological Science 26(2), 231–236; online 2015-01-05,
+    so `published:` is that date (ADR-002). Set Unavailable the same day
+    after a search for a lawful copy (ADR-041); the status note says
+    where.
 tags:
 - altruism
 - motivation
