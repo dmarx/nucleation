@@ -101,5 +101,5 @@ the signal, against manuscript §5.
 
 ## Note of 2026-10-29: promoted
 
-CLAIM-118 is now stated the same way and is Active, so the premise the note
+[CLAIM-118](CLAIM-118.md) is now stated the same way and is Active, so the premise the note
 above waited on is held.

@@ -183,6 +183,6 @@ which the owner left to the reviewing session's judgement: it is part of the
 signal. Where the manuscript (§5) says test-time training "modifies the
 decoder itself", that is a fact about where the update sits, and this claim
 tells the two sources apart by what is carried into later contexts, not by
-where a change sits. THEORY-169's identity of conditioning and per-sequence
+where a change sits. [THEORY-169](../theory.d/THEORY-169.md)'s identity of conditioning and per-sequence
 weight updates is then a fact about the signal side and does not tell
 against the claim.

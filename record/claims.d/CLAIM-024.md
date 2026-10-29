@@ -108,10 +108,10 @@ control and metacontrol mechanisms alone and then with a will-organization
 over them. Planning theory and institutional theory have not been set beside
 the account at all.
 
-## Note of 2026-10-29: which fronts CLAIM-159 answers
+## Note of 2026-10-29: which fronts [CLAIM-159](CLAIM-159.md) answers
 
-Executive control, through the expected value of control (THEORY-1110), and
-one account of resolve (THEORY-1117). Control theory, regulation of a
-variable against a reference, is not set beside the account by CLAIM-159,
+Executive control, through the expected value of control ([THEORY-1110](../theory.d/THEORY-1110.md)), and
+one account of resolve ([THEORY-1117](../theory.d/THEORY-1117.md)). Control theory, regulation of a
+variable against a reference, is not set beside the account by [CLAIM-159](CLAIM-159.md),
 and stays with planning and institutional theory among the fronts not yet
 compared.
