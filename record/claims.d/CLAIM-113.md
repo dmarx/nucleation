@@ -83,13 +83,13 @@ transformation, not only relation, constitutive of structure.
 
 ## Note of 2026-10-29: promoted
 
-It rests on CLAIM-040's first half, that symmetry is invariance under
-transformation: the owner pressed it at U37 against CLAIM-015, A105
-conceded it, and this claim is CLAIM-015's revision on that concession. It
-does not use CLAIM-040's Noether half, which holds only in CLAIM-093's
-limited form. Promoted on CLAIM-040 and TERM-004, both Active, with no
-objection filed. The Aut(F) direction it lacked is CLAIM-148's. The
-semigroup setting of CLAIM-098 does not touch it: the invariants of a class
+It rests on [CLAIM-040](CLAIM-040.md)'s first half, that symmetry is invariance under
+transformation: the owner pressed it at U37 against [CLAIM-015](CLAIM-015.md), A105
+conceded it, and this claim is [CLAIM-015](CLAIM-015.md)'s revision on that concession. It
+does not use [CLAIM-040](CLAIM-040.md)'s Noether half, which holds only in [CLAIM-093](CLAIM-093.md)'s
+limited form. Promoted on [CLAIM-040](CLAIM-040.md) and [TERM-004](../terms.d/TERM-004.md), both Active, with no
+objection filed. The Aut(F) direction it lacked is [CLAIM-148](CLAIM-148.md)'s. The
+semigroup setting of [CLAIM-098](CLAIM-098.md) does not touch it: the invariants of a class
 of transformations are defined whether or not the class is a group. Its
 defeat condition is a universal over transformation classes, which by
-CLAIM-239 an argument can meet; none in the record does.
+[CLAIM-239](CLAIM-239.md) an argument can meet; none in the record does.

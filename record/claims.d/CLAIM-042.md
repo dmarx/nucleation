@@ -76,9 +76,9 @@ such regions."
 ## What it does not say
 
 That the observables always share one state space, so that the object is
-always an intersection: A78 generalized it to local sections (CLAIM-038),
+always an intersection: A78 generalized it to local sections ([CLAIM-038](CLAIM-038.md)),
 and the manuscript keeps both. Nor anything about levels of organization
-of systems: the levels here are TERM-009's, at which communicative
+of systems: the levels here are [TERM-009](../terms.d/TERM-009.md)'s, at which communicative
 observables exist. Nor that similarity is
 overlap: A75 rejected μ(X_u ∩ X_v)/μ(X_u ∪ X_v) in the same reply because
 "source and target regions may inhabit different observational spaces", which
@@ -92,8 +92,8 @@ changed by this.
 
 ## Note of 2026-10-29: narrowed and promoted
 
-Promoted on TERM-009 and TERM-042, both Active, with no objection filed;
-its one objects_to target, CLAIM-008, is Superseded by it. Nothing the
+Promoted on [TERM-009](../terms.d/TERM-009.md) and [TERM-042](../terms.d/TERM-042.md), both Active, with no objection filed;
+its one objects_to target, [CLAIM-008](CLAIM-008.md), is Superseded by it. Nothing the
 record holds meets defeated_if: no reading shows a communicative category
-fixed by one level's observables (NOTE-680 calls its own bearing weak).
+fixed by one level's observables ([NOTE-680](../notes.d/NOTE-680.md) calls its own bearing weak).
 The title was narrowed in the same revision, as the history says.

@@ -151,14 +151,14 @@ subjectivity.**" Nothing here changes.
 
 ## Note of 2026-10-29: promoted
 
-Promoted on CLAIM-152, THEORY-820 and CASE-110, all Active, with no
+Promoted on [CLAIM-152](CLAIM-152.md), [THEORY-820](../theory.d/THEORY-820.md) and [CASE-110](../cases.d/CASE-110.md), all Active, with no
 objection filed. The questions of 2026-10-27 press beside it, not against
-it: whether probing helps make the unit (QUESTION-284) and whether a unit
-the criterion passes is approximately independent (QUESTION-280) are about
+it: whether probing helps make the unit ([QUESTION-284](../questions.d/QUESTION-284.md)) and whether a unit
+the criterion passes is approximately independent ([QUESTION-280](../questions.d/QUESTION-280.md)) are about
 what a verdict is a verdict of, and neither offers a fixed criterion whose
 verdict the system leaves unsettled, which is what defeated_if asks for.
-CLAIM-174's test and dancing couple are instances; part 2 holds on
-CLAIM-152's failed sufficiency and THEORY-820's failed closure without
-them. CLAIM-387 is a demonstrated case of part 3: for one target, the
+[CLAIM-174](CLAIM-174.md)'s test and dancing couple are instances; part 2 holds on
+[CLAIM-152](CLAIM-152.md)'s failed sufficiency and [THEORY-820](../theory.d/THEORY-820.md)'s failed closure without
+them. [CLAIM-387](CLAIM-387.md) is a demonstrated case of part 3: for one target, the
 optimal partitions at two budgets are {0,1,2 | 3} and {0,1 | 2,3}, neither
 refining the other.
