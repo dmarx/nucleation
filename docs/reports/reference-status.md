@@ -7713,7 +7713,7 @@ Not every difference between translations is a difference of frame: some change 
 
 1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
 
-- [`record/decisions.d/ADR-057.md:250`](../../record/decisions.d/ADR-057.md)
+- [`record/decisions.d/ADR-057.md:267`](../../record/decisions.d/ADR-057.md)
 
 ### [CLAIM-013](../../record/claims.d/CLAIM-013.md) — Proposed
 
@@ -7737,7 +7737,7 @@ Levels organize observables, not objects: a communicative object is identified b
 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/decisions.d/ADR-057.md:250`](../../record/decisions.d/ADR-057.md)
+- [`record/decisions.d/ADR-057.md:267`](../../record/decisions.d/ADR-057.md)
 
 ### [CLAIM-064](../../record/claims.d/CLAIM-064.md) — Proposed
 
@@ -7745,7 +7745,7 @@ A translation reconstructs not only what is said but the situation of its saying
 
 1 citation in 1 file awaits a look.
 
-- [`record/decisions.d/ADR-057.md:250`](../../record/decisions.d/ADR-057.md)
+- [`record/decisions.d/ADR-057.md:267`](../../record/decisions.d/ADR-057.md)
 
 ### [CLAIM-081](../../record/claims.d/CLAIM-081.md) — Proposed
 
@@ -9788,7 +9788,7 @@ A reference the reader cannot follow: the code names no document in this record.
 
 ### DP-015 — resolves to nothing (1 unmarked site)
 
-- [`record/decisions.d/ADR-057.md:192`](../../record/decisions.d/ADR-057.md)
+- [`record/decisions.d/ADR-057.md:209`](../../record/decisions.d/ADR-057.md)
 
 ## Temporary codes this record does not mint
 
