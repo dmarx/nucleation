@@ -98,16 +98,16 @@ regenerated brain" (paragraph 7).
 
 ## Connections
 
-- **Shomrat and Levin 2013 (LIT-tmpgfqw1)**, unread; this post is its
+- **Shomrat and Levin 2013 ([LIT-tmpgfqw1](../literature.d/LIT-tmpgfqw1.md))**, unread; this post is its
   announcement. See section 3.
-- **Blackiston, Shomrat and Levin 2015 (LIT-tmpaazd0)** restate the same
+- **Blackiston, Shomrat and Levin 2015 ([LIT-tmpaazd0](../literature.d/LIT-tmpaazd0.md))** restate the same
   result in one sentence and expand the hypothesis.
-- **Blackiston, Silva Casey and Weiss 2008 (LIT-tmp0v56k)** is cited as
+- **Blackiston, Silva Casey and Weiss 2008 ([LIT-tmp0v56k](../literature.d/LIT-tmp0v56k.md))** is cited as
   showing memory survives insect metamorphosis.
 
 ## Bearing on the record
 
-- **QUESTION-tmpws54x.** The post confirms the question's account of the
+- **[QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md).** The post confirms the question's account of the
   planarian result, the reminder included. It adds the authors' answer to
   "what carries it across": something outside the head, perhaps a
   bioelectric network of the body's cells. The authors say they do not
@@ -117,9 +117,9 @@ regenerated brain" (paragraph 7).
   control that would separate them.
 - **Identity.** No discussion. If the authors are right, psychological
   continuity in a planarian does not run through the brain, which the
-  philosophers' brain cases (LIT-469; THEORY-464) take as its bearer. That
+  philosophers' brain cases ([LIT-469](../literature.d/LIT-469.md); [THEORY-464](../theory.d/THEORY-464.md)) take as its bearer. That
   is an inference from a hypothesis.
-- **The owner's thesis (CLAIM-tmpjylq8).** No bearing. No dated note.
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** No bearing. No dated note.
 - **No THEORY filed.** **No ML instruction.**
 
 ## Limitations

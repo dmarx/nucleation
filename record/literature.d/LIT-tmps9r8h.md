@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-10-29 (NOTE-tmpf6vyn), in place of LIT-tmpgfqw1, which
+  skimmed 2026-10-29 ([NOTE-tmpf6vyn](../notes.d/NOTE-tmpf6vyn.md)), in place of [LIT-tmpgfqw1](LIT-tmpgfqw1.md), which
   could not be reached; worth reading as the authors' own plain statement
   of the planarian result and of how they read it, including the reminder
   it needed; too thin to stand for the paper's data.
@@ -40,9 +40,9 @@ summary: >-
 
 Levin, M. & Shomrat, T. (2013). Remembrance of brains past. *The Node* (Company of Biologists), 30 July 2013.
 
-Skimmed in NOTE-tmpf6vyn.
+Skimmed in [NOTE-tmpf6vyn](../notes.d/NOTE-tmpf6vyn.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpgfqw1, which could not be reached. NOTE-tmpf6vyn says what it
+Read in place of [LIT-tmpgfqw1](LIT-tmpgfqw1.md), which could not be reached. [NOTE-tmpf6vyn](../notes.d/NOTE-tmpf6vyn.md) says what it
 reports of it and what is still missing.

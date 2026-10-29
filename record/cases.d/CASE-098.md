@@ -135,7 +135,7 @@ untried.
 
 ## Note of 2026-10-29: Botzung et al., read
 
-Botzung et al. (NOTE-tmpww70j) is about memory of one game, not about
+Botzung et al. ([NOTE-tmpww70j](../notes.d/NOTE-tmpww70j.md)) is about memory of one game, not about
 transmission, but its design is the case in miniature. Twenty-three Duke
 and UNC fans learned a 2001 rivalry game none of them knew, from archive
 footage and among fellow fans. A day later their side set the valence of

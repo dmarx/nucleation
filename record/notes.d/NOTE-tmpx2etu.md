@@ -144,23 +144,23 @@ element" (p. 13).
 
 ## Connections
 
-- **Zaval, Markowitz and Weber 2015 (LIT-tmpetcju)**, unread. The source of
+- **Zaval, Markowitz and Weber 2015 ([LIT-tmpetcju](../literature.d/LIT-tmpetcju.md))**, unread. The source of
   the induction, the Legacy Motivation Scale, the intentions scale and the
   donation measure. See section 3.
-- **Wade-Benzoni (NOTE-tmpcn33u)** never measures legacy concern and
+- **Wade-Benzoni ([NOTE-tmpcn33u](NOTE-tmpcn33u.md))** never measures legacy concern and
   generosity in one study. This one does, but with a mixed scale.
-- **Hurlstone et al. (NOTE-tmpebx4k)** bundle identification with
+- **Hurlstone et al. ([NOTE-tmpebx4k](NOTE-tmpebx4k.md))** bundle identification with
   generations, a moral appeal and one's death. The legacy task here
   bundles being remembered, one's own impact and examples of the very
   behaviours then measured.
-- **Hershfield (NOTE-tmp70rn1).** The future-self circles come from his
+- **Hershfield ([NOTE-tmp70rn1](NOTE-tmp70rn1.md)).** The future-self circles come from his
   group. Legacy framing did not move them in general.
-- **Many Labs 4 (NOTE-tmpzgbo9).** Legacy framing did not raise death
+- **Many Labs 4 ([NOTE-tmpzgbo9](NOTE-tmpzgbo9.md)).** Legacy framing did not raise death
   thoughts, so it gives terror management no foothold here.
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** Its "evidence from the
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** Its "evidence from the
   legacy experiments" asks whether legacy priming acts through the wish to
   be remembered. This study cannot say. These are inferences from the
   printed items and results.
@@ -180,15 +180,15 @@ element" (p. 13).
   - No condition varies whether anyone will know what one did, which is
     the question's test between the thesis's or Pitcher's reading and
     Scheffler's.
-- **The triviality objection (CLAIM-tmprudek).** Legacy motive, as
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Legacy motive, as
   measured, is not a criterion that can come apart from caring: caring
   about future generations is inside the scale. The one measure of a self
   extended in time, future self-continuity, did not move with legacy
   framing except among older adults, and was not tested as a mediator.
-- **The owner's thesis (CLAIM-tmpjylq8).** Neutral. The study shows that
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Neutral. The study shows that
   thinking about what outlasts one raises concern for the future; it
   does not say whose good is served. No dated note on the claim; a dated
-  note on QUESTION-tmpruhu4 is proposed (section 4).
+  note on [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md) is proposed (section 4).
 - **No THEORY filed.**
 - **No ML instruction.**
 
@@ -231,7 +231,7 @@ element" (p. 13).
 - Does legacy framing work through being remembered? A study that scores
   the two remembering items apart from the two caring items, and adds an
   anonymous condition in which one's actions will never be known, would
-  answer QUESTION-tmpruhu4's test.
+  answer [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)'s test.
 - Does the legacy task extend the self in time? Future self-continuity
   rose only among older adults; a measure of continuity with one's legacy
   or with future generations, not with one's own self in five years, has

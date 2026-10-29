@@ -56,7 +56,7 @@ Shows legacy motivation as a measurable and manipulable cause of concern for a f
 
 The work cannot be read here, so the record holds it at second hand.
 
-Wickersham et al. 2020 (NOTE-tmpx2etu), with Zaval as second author, uses
+Wickersham et al. 2020 ([NOTE-tmpx2etu](../notes.d/NOTE-tmpx2etu.md)), with Zaval as second author, uses
 the 2015 paper's materials and calls its own result a replication. It
 gives, in print, the eight Legacy Motivation Scale items, the six
 intentions items, the Trees for the Future donation wording and a legacy

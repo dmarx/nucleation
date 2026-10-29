@@ -182,7 +182,7 @@ self-esteem" (p. 22).
 
 ## Connections
 
-- **Hornsey 2008 (NOTE-tmp3dav9) and Reimer et al. (NOTE-tmp222eb).** The
+- **Hornsey 2008 ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)) and Reimer et al. ([NOTE-tmp222eb](NOTE-tmp222eb.md)).** The
   LIT was filed to settle their disagreement. Hornsey's reading is right
   on the facts: more support for "bias raises self-esteem" than for "low
   self-esteem causes bias", and criticism for measuring personal
@@ -192,31 +192,31 @@ self-esteem" (p. 22).
   empirical support" is not what the review found: even for corollary 1
   the count is 18 to 13, and the review's own conclusion is negative. Both
   readings call it a meta-analysis; it is a qualitative vote count
-  (fn. 7). NOTE-tmp222eb's reconciliation, that the two agree on
+  (fn. 7). [NOTE-tmp222eb](NOTE-tmp222eb.md)'s reconciliation, that the two agree on
   corollary 1 and differ in tone, is fair, but its C2 should stay weak.
-- **Self-categorization theory (THEORY-tmpo85ke).** The review confirms
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The review confirms
   the THEORY's statement that the self-esteem strand is social identity
   theory's and not part of self-categorization theory: the latter
   "ignore[s]" the hypothesis (p. 25).
-- **The minimal group paradigm (NOTE-tmpoxt60).** The review restates its
+- **The minimal group paradigm ([NOTE-tmpoxt60](NOTE-tmpoxt60.md)).** The review restates its
   design: participants are "not given the opportunity to award points to
   themselves", which is meant to remove self-interest (p. 3). Otten's
   finding that participants given that chance pay themselves most is the
   natural complement.
-- **Identity fusion (NOTE-tmp3g9n4).** High personal with low social
+- **Identity fusion ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)).** High personal with low social
   self-esteem gives the most discrimination (Long et al. 1994; Platow et
   al. 1997). The gloss is that low social self-esteem is "a threat to
   positive personal identity" and a motive to improve the social one
   (p. 24). That parallels fusion's finding that a challenge to the
   personal self is answered through the group. The link is the record's,
   not the authors'.
-- **Leach et al. (NOTE-tmp8tnhr).** Their split of identification into
+- **Leach et al. ([NOTE-tmp8tnhr](NOTE-tmp8tnhr.md)).** Their split of identification into
   self-definition and self-investment answers, ten years on, the review's
   call to separate identification from social self-esteem.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The self-esteem hypothesis is
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The self-esteem hypothesis is
   social identity theory's own version of the thesis: group-serving bias
   is pursued for the esteem of a social self, "as ingroup members, rather
   than as individuals". The review is the best evidence the record holds
@@ -225,7 +225,7 @@ self-esteem" (p. 22).
     tends to raise self-esteem; a need for self-esteem does not, in
     general, drive it. A gain to the self that follows group-serving
     action without motivating it does not show the action aimed at that
-    self's good. In Stich's terms (NOTE-tmpeuwqz) it is a side effect, not
+    self's good. In Stich's terms ([NOTE-tmpeuwqz](NOTE-tmpeuwqz.md)) it is a side effect, not
     an ultimate or instrumental aim.
   - **The motive was mostly tested at the wrong level.** Only two studies
     measured esteem for the group itself, and both support the motive. So
@@ -237,7 +237,7 @@ self-esteem" (p. 22).
     to matter as a threat to a personal self that already includes it.
     That fits "larger self" (the group added to a kept personal self)
     better than "changed self".
-- **The triviality objection (CLAIM-tmprudek).** The review states, for
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The review states, for
   measures, the objection's demand. Identification scales contain esteem
   items and esteem scales contain identification items, though the theory
   predicts opposite effects for them. It proposes measuring
@@ -245,15 +245,15 @@ self-esteem" (p. 22).
   also warns that bias ratings can be esteem ratings (p. 23), so "the
   self's good" and "the group-serving act" can be one measurement. A
   thesis that cites this literature needs the two kept apart.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed: no helping, no
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed: no helping, no
   empathy.
-- **Proposed corrections to two readings.** On NOTE-tmp3dav9, C4's
+- **Proposed corrections to two readings.** On [NOTE-tmp3dav9](NOTE-tmp3dav9.md), C4's
   strength should say "one cited qualitative review (a vote count)", not
-  "meta-analysis". On NOTE-tmp222eb, the open question that names this
+  "meta-analysis". On [NOTE-tmp222eb](NOTE-tmp222eb.md), the open question that names this
   review is answered: the review supports Hornsey's description, not
   "extensive empirical support". These are proposed dated notes, not
   edits.
-- **Dated note.** Proposed on CLAIM-tmpjylq8 (Section 3 of the draft).
+- **Dated note.** Proposed on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) (Section 3 of the draft).
 - **No THEORY filed.** The hypothesis is social identity theory's and
   contested, and the record files only self-categorization theory's core.
 - **No ML instruction.**

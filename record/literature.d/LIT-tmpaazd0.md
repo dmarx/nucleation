@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp6fm86) from Europe PMC's full-text XML
+  read in full 2026-10-29 ([NOTE-tmp6fm86](../notes.d/NOTE-tmp6fm86.md)) from Europe PMC's full-text XML
   (PMC4802789, CC BY-NC), cited by section; worth reading as the Levin
   lab's map of the cases and its hypothesis that memory can live outside
   the brain; a programme, not evidence, which restates its own planarian
@@ -42,7 +42,7 @@ summary: >-
 
 Blackiston, D. J., Shomrat, T. & Levin, M. (2015). *Communicative & Integrative Biology*, 8(5), e1073424.
 
-Read in full in NOTE-tmp6fm86, from Europe PMC's full-text XML (PMC4802789, CC BY-NC), cited by section.
+Read in full in [NOTE-tmp6fm86](../notes.d/NOTE-tmp6fm86.md), from Europe PMC's full-text XML (PMC4802789, CC BY-NC), cited by section.
 
 ## Why this is here
 

@@ -172,33 +172,33 @@ for instance by cutting risk or locking in better values (pp. 26–29).
 
 ## Connections
 
-- **The Precipice (LIT-tmp0ocqn)**, unread. See section 3.
-- **Bostrom 2003 (NOTE-tmpwwa8k).** Bostrom compared the cost of delay
+- **The Precipice ([LIT-tmp0ocqn](../literature.d/LIT-tmp0ocqn.md))**, unread. See section 3.
+- **Bostrom 2003 ([NOTE-tmpwwa8k](NOTE-tmpwwa8k.md)).** Bostrom compared the cost of delay
   with existential risk reduction and found a percentage point of risk
   worth over 10 million years of delay. Ord's framework generalises that
   comparison and says Bostrom's case was a temporary advancement (fn.
   11). It adds what Bostrom's does not: if the end time moves with
   progress, advancing it is a loss.
-- **Greaves and MacAskill (NOTE-tmpozxwf)** call a zero pure rate of time
+- **Greaves and MacAskill ([NOTE-tmpozxwf](NOTE-tmpozxwf.md))** call a zero pure rate of time
   preference "near-essential". Ord adopts it with the same lineage
-  (Pigou, Ramsey, Harrod; Ramsey is LIT-tmpggdgs) and adds the empirical
+  (Pigou, Ramsey, Harrod; Ramsey is [LIT-tmpggdgs](../literature.d/LIT-tmpggdgs.md)) and adds the empirical
   claim that people do not discount benefits to others.
-- **Tarsney (NOTE-tmp0l9dk) and Thorstad (NOTE-tmpu4i35).** Ord sets
+- **Tarsney ([NOTE-tmp0l9dk](NOTE-tmp0l9dk.md)) and Thorstad ([NOTE-tmpu4i35](NOTE-tmpu4i35.md)).** Ord sets
   risk aside by evaluating outcomes ex post and putting all risk at t = 0.
   Their objections live exactly where he leaves the framework for later:
   a hazard that persists after this century. Inference: once risk after
   t = 0 is added, the τ in (γ_p − 1)v̄τ becomes an expected duration, and
   Thorstad's point is that this expectation may be short.
-- **Hershfield (NOTE-tmp70rn1).** Ord notes that apparent pure time
+- **Hershfield ([NOTE-tmp70rn1](NOTE-tmp70rn1.md)).** Ord notes that apparent pure time
   preference for oneself is hard to tell apart from weakness of will
   (p. 9). Hershfield ties it to felt discontinuity with one's future
   self. See Bearing on the record.
-- **MacAskill (LIT-tmpk6b4i)**, unavailable, is cited on value lock-in
+- **MacAskill ([LIT-tmpk6b4i](../literature.d/LIT-tmpk6b4i.md))**, unavailable, is cited on value lock-in
   (2022: 78–9).
 
 ## Bearing on the record
 
-- **QUESTION-tmpmx9ha.** It sharpens the impersonal ground without
+- **[QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).** It sharpens the impersonal ground without
   defending it. Ord's argument needs an evaluative premise, value summed
   over time with no pure time preference, and no claim about anyone's
   self. Two results matter for the question.
@@ -208,31 +208,31 @@ for instance by cutting risk or locking in better values (pp. 26–29).
   - Besides survival, the only other route to the whole future is to
     change what will be valued before it locks in (p. 23). Inference: this
     makes the present generation's values a long-run lever, which brings
-    the legacy question (QUESTION-tmpruhu4) into the normative one. To
+    the legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)) into the normative one. To
     shape the future's values is to leave a legacy of the living's
     values, whatever the impersonal justification.
-- **The owner's thesis (CLAIM-tmpjylq8).** Ord says nothing about
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Ord says nothing about
   motivation; his agent is an "altruist" (p. 20). Two points bear on it.
   Both are inferences.
   - **Concern for others' futures is not discounted, on Ord's report.**
     People "don't have" pure time preference "regarding benefits to other
     people, such as one's children or future generations"; they are
     "roughly indifferent to the timing" (Frederick 2003, p. 9). Hershfield
-    (NOTE-tmp70rn1) finds people discount their own future more the less
+    ([NOTE-tmp70rn1](NOTE-tmp70rn1.md)) finds people discount their own future more the less
     continuous they feel with it. If concern for future generations were
     concern for a self extended through time, it should fade with
     distance the same way, since felt continuity with people further off
     must be weaker. Indifference to timing does not fit that. It fits
     concern for future people as interchangeable members of a category
     ("humanity", "future generations"), not as parts of a self continuous
-    over time (TERM-tmpko4rw). The thesis can absorb this only with a
+    over time ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)). The thesis can absorb this only with a
     category-level self whose extent is not graded by time. That is the
-    self-categorization reading (THEORY-tmpo85ke), and CLAIM-tmprudek
+    self-categorization reading ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)), and [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)
     asks what fixes its extent apart from caring.
   - **Caveats.** The result is reported in one sentence, from one
     study, and Frederick 2003 is not in the chapter's bibliography. It is
     about judgements of when benefits should come, not felt concern or
-    action. And Schubert et al. (NOTE-tmpbxw6b) find that lay judgement
+    action. And Schubert et al. ([NOTE-tmpbxw6b](NOTE-tmpbxw6b.md)) find that lay judgement
     reaches the far future only when prompted. Timing-neutral judgement
     and weak unprompted concern can both be true.
   - **"Humanity" as one life.** The framework treats humanity as one
@@ -240,8 +240,8 @@ for instance by cutting risk or locking in better values (pp. 26–29).
     an individual's at eighty or ninety (p. 10). The analogy is
     rhetorical; the value summed is impersonal. It is not evidence that
     anyone identifies with humanity.
-- **A dated note is proposed for QUESTION-tmpmx9ha (section 4), not for
-  CLAIM-tmpjylq8.** The discounting point bears on the thesis's test, but
+- **A dated note is proposed for [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) (section 4), not for
+  [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).** The discounting point bears on the thesis's test, but
   it rests on a secondhand report the record should read first (see Open
   questions).
 - **No THEORY filed.** A valuation framework, not an account of what is

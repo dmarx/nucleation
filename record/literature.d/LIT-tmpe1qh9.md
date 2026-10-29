@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpxpkld), in place of LIT-tmp0ocqn, which
+  read in full 2026-10-29 ([NOTE-tmpxpkld](../notes.d/NOTE-tmpxpkld.md)), in place of [LIT-tmp0ocqn](LIT-tmp0ocqn.md), which
   could not be fetched here; worth reading as the author's own update of
   The Precipice's risk estimates, and as the only open text that restates
   the book's four headline numbers and its notion of existential security;
@@ -40,9 +40,9 @@ summary: >-
 
 Ord, T. (2024). The Precipice Revisited. Talk at EA Global: Bay Area, 4 February 2024; posted on tobyord.com, 12 July 2024.
 
-Read in full in NOTE-tmpxpkld.
+Read in full in [NOTE-tmpxpkld](../notes.d/NOTE-tmpxpkld.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp0ocqn, which could not be fetched here. NOTE-tmpxpkld says what it
+Read in place of [LIT-tmp0ocqn](LIT-tmp0ocqn.md), which could not be fetched here. [NOTE-tmpxpkld](../notes.d/NOTE-tmpxpkld.md) says what it
 reports of it and what is still missing.

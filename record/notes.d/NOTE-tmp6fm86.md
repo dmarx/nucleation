@@ -169,25 +169,25 @@ What the perspective reports, by section. None of it is new data.
 
 ## Connections
 
-- **Blackiston, Silva Casey and Weiss 2008 (LIT-tmp0v56k).** Restated in
+- **Blackiston, Silva Casey and Weiss 2008 ([LIT-tmp0v56k](../literature.d/LIT-tmp0v56k.md)).** Restated in
   one sentence with Tully et al. Neither the third-instar result nor the
   pupal washing is mentioned. The 2008 paper had α′/β′ neurons keeping
   intact projections; this perspective has them partly pruned, citing the
   same two *Drosophila* papers.
-- **Shomrat and Levin 2013 (LIT-tmpgfqw1)**, unread. Restated in one
+- **Shomrat and Levin 2013 ([LIT-tmpgfqw1](../literature.d/LIT-tmpgfqw1.md))**, unread. Restated in one
   sentence: place learning of a surface etch pattern, kept across head
   regeneration. Its reference entry reads "planarians" and "J Exp Biol
   2013; 216: 3799–810"; Crossref has "planaria" and no volume or pages.
-- **Alloway (LIT-tmpvl4oj)** is cited, as "1971", among the *Tenebrio*
+- **Alloway ([LIT-tmpvl4oj](../literature.d/LIT-tmpvl4oj.md))** is cited, as "1971", among the *Tenebrio*
   maze studies.
-- **Dias and Ressler (NOTE-tmpeof8o)** is cited as modern work on the
+- **Dias and Ressler ([NOTE-tmpeof8o](NOTE-tmpeof8o.md))** is cited as modern work on the
   transgenerational transfer of "environmentally-imprinted information",
   in the passage on McConnell's RNA results, which bears on
-  QUESTION-tmp8bttd.
+  [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).
 
 ## Bearing on the record
 
-- **QUESTION-tmpws54x, what carries it across.** The perspective lists the
+- **[QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md), what carries it across.** The perspective lists the
   candidates the question asks about and settles none. These are
   inferences from its survey.
   - For insects it calls the mechanism "unsolved" and the mushroom-body
@@ -200,22 +200,22 @@ What the perspective reports, by section. None of it is new data.
     α′/β′ neurons are only partly kept, "the mushroom bodies are partly
     preserved", as the question has it, is right, but the surviving
     connection is less secure than the 2008 paper made it.
-- **QUESTION-tmpws54x, whether the animal after is the one that learned.**
+- **[QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md), whether the animal after is the one that learned.**
   The perspective does not discuss identity. But it frames the medical
   stake in terms of it: brain repair must not distort "the decades of
   memory content and personality of the patient". Two inferences.
-  - Planarian fission is Parfit's fission case (LIT-469; THEORY-464) made
+  - Planarian fission is Parfit's fission case ([LIT-469](../literature.d/LIT-469.md); [THEORY-464](../theory.d/THEORY-464.md)) made
     literal. McConnell's report, as given here, is that both halves kept
     or regained the training. If that holds, both successors are
-    psychologically connected to the trained worm. THEORY-464's line that
+    psychologically connected to the trained worm. [THEORY-464](../theory.d/THEORY-464.md)'s line that
     the relation that matters comes apart from identity then has a
     natural case.
   - If memory can be stored outside the brain, the brain is not the sole
     bearer of psychological continuity. The philosophers' brain-transplant
     cases assume it is. This is the authors' hypothesis, not a finding.
-- **The owner's thesis (CLAIM-tmpjylq8).** No direct bearing. No dated
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** No direct bearing. No dated
   note is proposed for it.
-- **A dated note is proposed for QUESTION-tmpws54x** (section 3).
+- **A dated note is proposed for [QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md)** (section 3).
 - **No THEORY filed.** The work is a programme; its claims are hypotheses.
 - **No ML instruction.** The engineering stakes (biobots, unconventional
   computing) are not instructions for ML practice.

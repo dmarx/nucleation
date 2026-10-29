@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpo2a6r), in place of LIT-tmpk6b4i, which
+  read in full 2026-10-29 ([NOTE-tmpo2a6r](../notes.d/NOTE-tmpo2a6r.md)), in place of [LIT-tmpk6b4i](LIT-tmpk6b4i.md), which
   could not be reached; worth reading as the formal statement of how *What
   We Owe the Future* values an act's effect on the long-run future, read
   in place of the book; it gives the book's accounting, not its argument
@@ -41,9 +41,9 @@ summary: >-
 
 MacAskill, W., Thomas, T. & Vallinder, A. (2022). The Significance, Persistence, Contingency Framework. Version 1.1. GPI Technical Report; supplementary material to *What We Owe the Future*.
 
-Read in full in NOTE-tmpo2a6r.
+Read in full in [NOTE-tmpo2a6r](../notes.d/NOTE-tmpo2a6r.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpk6b4i, which could not be reached. NOTE-tmpo2a6r says what it
+Read in place of [LIT-tmpk6b4i](LIT-tmpk6b4i.md), which could not be reached. [NOTE-tmpo2a6r](../notes.d/NOTE-tmpo2a6r.md) says what it
 reports of it and what is still missing.

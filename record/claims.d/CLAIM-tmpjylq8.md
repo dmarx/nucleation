@@ -262,7 +262,7 @@ self-image, and none of them shows a self enlarged to take in the group's
 good.
 
 - **Markus and Kitayama ground the premise, not the conclusion**
-  (NOTE-tmpd4jen). For interdependent selves, "others are included
+  ([NOTE-tmpd4jen](../notes.d/NOTE-tmpd4jen.md)). For interdependent selves, "others are included
   *within* the boundaries of the self" (p. 245), and the authors name the
   thesis's middle position, "an alternative to selfishness … besides
   selflessness" (p. 247). But this "does not result in a merging of self
@@ -274,19 +274,19 @@ good.
   - others' goals met as the price of watched reciprocity, which needs no
     extended self.
 - **Akerlof and Kranton make it true only in the trivial sense**
-  (NOTE-tmpwgpmb). Identity-driven sacrifice maximizes a utility that
+  ([NOTE-tmpwgpmb](../notes.d/NOTE-tmpwgpmb.md)). Identity-driven sacrifice maximizes a utility that
   includes identity. The identity is a self-image, kept by following one's
   categories' prescriptions. No group's welfare enters anyone's utility,
   and a fellow member's deviance is a loss one may relieve by harming
   them. Their criterion of the self's extent, category assignment partly
-  fixed by others, could come apart from caring (CLAIM-tmprudek). But its
+  fixed by others, could come apart from caring ([CLAIM-tmprudek](CLAIM-tmprudek.md)). But its
   weights are free parameters read off the behaviour they explain.
-- **Zahavi: a "we" is "not an enlarged I"** (NOTE-tmphi7ls, p. 10). It keeps
+- **Zahavi: a "we" is "not an enlarged I"** ([NOTE-tmphi7ls](../notes.d/NOTE-tmphi7ls.md), p. 10). It keeps
   the plurality it unites. Identification changes how one apprehends
   oneself, as one of us seen through another's eyes: a changed self more
   than a larger one. His account covers only the face-to-face "we".
 - **The self-esteem hypothesis: benefit without motive** (Rubin and
-  Hewstone, NOTE-tmpdzv60). This is social identity theory's own version
+  Hewstone, [NOTE-tmpdzv60](../notes.d/NOTE-tmpdzv60.md)). This is social identity theory's own version
   of the thesis. Favouring the group tends to raise self-esteem (18
   experiments for, 13 against), but a need for self-esteem rarely drives
   it (7 for, 28 against). A benefit that follows group-serving action
@@ -296,5 +296,5 @@ good.
 
 The thesis survives these readings only as the claim that the self served
 is a self-concept. That is the third sense of "self-interest" the note on
-Scheffler named. On that reading, CLAIM-tmprudek's demand for a criterion
+Scheffler named. On that reading, [CLAIM-tmprudek](CLAIM-tmprudek.md)'s demand for a criterion
 apart from caring is still unmet.

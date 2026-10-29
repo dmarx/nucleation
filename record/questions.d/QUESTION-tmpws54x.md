@@ -85,7 +85,7 @@ Shomrat and Levin is read through the authors' own short post on it;
 Alloway is Unavailable.
 
 - **The moth keeps a memory through part of its brain** (Blackiston,
-  Silva Casey and Weiss, NOTE-tmp11g34).
+  Silva Casey and Weiss, [NOTE-tmp11g34](../notes.d/NOTE-tmp11g34.md)).
   - 77% of moths trained as fifth-instar caterpillars still avoided the
     odour, and 12 of the 15 tracked individually kept their larval choice.
   - Washing or scenting the pupae changed nothing, so residue on the
@@ -95,12 +95,12 @@ Alloway is Unavailable.
     keep and metamorphosis replaces. The authors suggest late-forming
     mushroom-body neurons, by analogy with *Drosophila*, untested.
 - **What carries it is still open** (Blackiston, Shomrat and Levin,
-  NOTE-tmp6fm86). The perspective calls the insect mechanism unsolved, and
+  [NOTE-tmp6fm86](../notes.d/NOTE-tmp6fm86.md)). The perspective calls the insect mechanism unsolved, and
   describes the mushroom-body lobe the 2008 paper relied on as only partly
   kept. Its proposal for planaria, memory stored outside the brain and
   written back into the new head, is a hypothesis, not a finding.
 - **The planarian result is weaker than filed** (Levin and Shomrat's post,
-  NOTE-tmpf6vyn). Worms recognised the training chamber after their heads
+  [NOTE-tmpf6vyn](../notes.d/NOTE-tmpf6vyn.md)). Worms recognised the training chamber after their heads
   regrew only after "a brief refresher". Neither source reports whether
   the refresher alone gives untrained worms the same result. Until it
   does, the case shows that something outlasts the head, not yet that a
@@ -108,7 +108,7 @@ Alloway is Unavailable.
 - **What it shows about identity.** The moth keeps a thin,
   timing-dependent psychological connection to the caterpillar while
   plainly being the same organism. That is a partial connection under
-  biological identity (THEORY-464), not continuity through a wholly
+  biological identity ([THEORY-464](../theory.d/THEORY-464.md)), not continuity through a wholly
   rebuilt body. The perspective recalls McConnell's report that both halves
   of a cut worm kept the training. If that held, planarian fission would be
   Parfit's fission case realised: two successors, each psychologically

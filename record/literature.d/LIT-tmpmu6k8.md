@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpxt8qz), in place of LIT-tmpoc3e4, which
+  read in full 2026-10-29 ([NOTE-tmpxt8qz](../notes.d/NOTE-tmpxt8qz.md)), in place of [LIT-tmpoc3e4](LIT-tmpoc3e4.md), which
   could not be reached; worth reading as the founder of the
   person-affecting slogan restating it late: creating happy people is good
   but owed to no one, and only harm to actual people can bind; read in
-  place of the 1973 paper (LIT-tmpoc3e4), which it summarizes in one
+  place of the 1973 paper ([LIT-tmpoc3e4](LIT-tmpoc3e4.md)), which it summarizes in one
   sentence. Its second half is a polemic on resources and climate, not
   argument.
 title: 'Population and Having Children Now'
@@ -41,9 +41,9 @@ summary: >-
 
 Narveson, J. (2017). Population and having children now. *Journal of Practical Ethics*, 5(2), 49–61.
 
-Read in full in NOTE-tmpxt8qz.
+Read in full in [NOTE-tmpxt8qz](../notes.d/NOTE-tmpxt8qz.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpoc3e4, which could not be reached. NOTE-tmpxt8qz says what it
+Read in place of [LIT-tmpoc3e4](LIT-tmpoc3e4.md), which could not be reached. [NOTE-tmpxt8qz](../notes.d/NOTE-tmpxt8qz.md) says what it
 reports of it and what is still missing.

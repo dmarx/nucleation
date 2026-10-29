@@ -161,12 +161,12 @@ was always lower than feared.
 
 ## Connections
 
-- **The Precipice (LIT-tmp0ocqn)**, unread. See section 3. The talk
+- **The Precipice ([LIT-tmp0ocqn](../literature.d/LIT-tmp0ocqn.md))**, unread. See section 3. The talk
   quotes one passage of the book (on great-power war "this century"),
   and reports the four risk estimates, the focus on the
   Yudkowsky–Bostrom agent scenario, the reasoning behind the nuclear
   estimate, and the notion of existential security.
-- **Thorstad (NOTE-tmpu4i35)** reports other numbers from the book: one
+- **Thorstad ([NOTE-tmpu4i35](NOTE-tmpu4i35.md))** reports other numbers from the book: one
   in six overall this century and one in 10,000 from natural risks. The
   talk does not restate them. It gives no new total, so whether the one
   in six still stands is left to inference from "none of them have moved
@@ -174,26 +174,26 @@ was always lower than feared.
 - **Ord's chapter (NOTE-tmpxpkld-ordtraj)**, the companion reading: the
   framework in which reducing near-term existential risk multiplies the
   whole future's value.
-- **Bostrom 2013 (NOTE-tmpyret1)** found a "deficit of motivation" for
+- **Bostrom 2013 ([NOTE-tmpyret1](NOTE-tmpyret1.md))** found a "deficit of motivation" for
   existential safety. The talk's Covid observations (no panic stage,
   biodefence spending weak, indifference to the lab-leak question) are
   anecdotal evidence of the same deficit after a warning shot.
 
 ## Bearing on the record
 
-- **QUESTION-tmpmx9ha.** Little directly. The talk is about how large the
+- **[QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).** Little directly. The talk is about how large the
   risks are, not what is owed or why. It confirms the empirical premise
   of the impersonal ground as Ord holds it: risk this century is high,
   and he sees no reason to lower it. Its programme for existential
   security runs through norms, treaties and institutions, "establishing
   the moral seriousness of existential risk", not through anyone's
   concern for future people as such.
-- **The owner's thesis (CLAIM-tmpjylq8).** These are inferences; Ord says
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are inferences; Ord says
   nothing about selves or motivation.
   - Ord's Covid observation bears on a humanity-wide self. A visible
     common threat produced humanity-level unity "at first", then the
     response split along national and political lines within months.
-    Self-categorization theory (THEORY-tmpo85ke) would predict that an
+    Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)) would predict that an
     outside threat makes the most inclusive category salient, and that
     salience is fixed by context and does not last when the context
     changes. If so, "humanity" is available as a self only while
@@ -205,12 +205,12 @@ was always lower than feared.
   - Ord's line that the AI problem is "no longer getting them enough
     information about ethics, but about making them care" is about
     machines. It is not evidence about people, and is noted only because
-    it is the same distinction CLAIM-tmprudek turns on: knowing what is
+    it is the same distinction [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) turns on: knowing what is
     good is not caring about it.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed.
-- **No dated note on CLAIM-tmpjylq8.** The one point (unity against a
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed.
+- **No dated note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).** The one point (unity against a
   common threat is brief) is one case, observed and not measured. It
-  belongs as a line in the dated note on QUESTION-tmpmx9ha (section 4).
+  belongs as a line in the dated note on [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) (section 4).
 - **No THEORY filed.**
 - **No ML instruction.** The AI section describes the field; it gives no
   instruction for machine-learning practice.

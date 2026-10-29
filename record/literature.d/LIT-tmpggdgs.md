@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpgtdq6) from the published article,
+  read in full 2026-10-29 ([NOTE-tmpgtdq6](../notes.d/NOTE-tmpgtdq6.md)) from the published article,
   public domain in the US, from the Internet Archive's scan of the issue
   (sim_economic-journal_1928-12_38_152); worth reading as the source of
   the zero-discount view and of the optimal-saving rule, knowing that the
@@ -44,7 +44,7 @@ summary: >-
 
 Ramsey, F. P. (1928). *The Economic Journal*, 38(152), 543–559.
 
-Read in full in NOTE-tmpgtdq6, from the published article, public domain in the US, from the Internet Archive's scan of the issue (sim_economic-journal_1928-12_38_152).
+Read in full in [NOTE-tmpgtdq6](../notes.d/NOTE-tmpgtdq6.md), from the published article, public domain in the US, from the Internet Archive's scan of the issue (sim_economic-journal_1928-12_38_152).
 
 ## Why this is here
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpbrh86), in place of LIT-tmp0ocqn, which
+  read in full 2026-10-29 ([NOTE-tmpbrh86](../notes.d/NOTE-tmpbrh86.md)), in place of [LIT-tmp0ocqn](LIT-tmp0ocqn.md), which
   could not be fetched here; worth reading as Ord's own formal statement
   of why reducing existential risk dominates other ways of shaping the
   future, and of the evaluative assumptions (time-separable value, no pure
@@ -41,9 +41,9 @@ summary: >-
 
 Ord, T. (2025). Shaping humanity's longterm trajectory. In *Essays on Longtermism* (pp. 211–237). Oxford University Press.
 
-Read in full in NOTE-tmpbrh86.
+Read in full in [NOTE-tmpbrh86](../notes.d/NOTE-tmpbrh86.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp0ocqn, which could not be fetched here. NOTE-tmpbrh86 says what it
+Read in place of [LIT-tmp0ocqn](LIT-tmp0ocqn.md), which could not be fetched here. [NOTE-tmpbrh86](../notes.d/NOTE-tmpbrh86.md) says what it
 reports of it and what is still missing.

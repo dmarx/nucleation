@@ -131,26 +131,26 @@ negatively-valent plays").
 
 ## Connections
 
-- **The rivalry case (CASE-098).** The work was filed for "the memory side"
+- **The rivalry case ([CASE-098](../cases.d/CASE-098.md)).** The work was filed for "the memory side"
   of how a rivalry is handed on. It studies memory of one game, a day
   after learning it, not transmission.
-- **Talarico and Moore (LIT-1125)**, unread. By its LIT summary, fans of the
+- **Talarico and Moore ([LIT-1125](../literature.d/LIT-1125.md))**, unread. By its LIT summary, fans of the
   winning side of a Lafayette–Lehigh game later recalled it more
   accurately and vividly. Botzung's within-fan positivity bias runs the
   same way; the two cannot be compared further unread.
 - **Kensinger and Schacter (2006)**, cited, not held: memory for a Red
   Sox–Yankees game in opposing fans, with overconfidence for positive
   memories.
-- **Kilduff, Elfenbein and Staw (NOTE-tmpiffjj).** They measure rivalry in
+- **Kilduff, Elfenbein and Staw ([NOTE-tmpiffjj](NOTE-tmpiffjj.md)).** They measure rivalry in
   the teams and find it a property of the pair; Botzung measures it in
   the fans and finds the same events stored with opposite signs.
-- **Berendt and Uhrich (THEORY-tmpk1fow).** They tie rivalry to fans'
+- **Berendt and Uhrich ([THEORY-tmpk1fow](../theory.d/THEORY-tmpk1fow.md)).** They tie rivalry to fans'
   identity benefits; Botzung shows identity reaching into memory, but
   measures no identity variation.
 
 ## Bearing on the record
 
-- **The rivalry case (CASE-098).** Three points. They are inferences; the
+- **The rivalry case ([CASE-098](../cases.d/CASE-098.md)).** Three points. They are inferences; the
   paper does not discuss rivalry as a relation or its transmission.
   - Its situation is the case's, by accident. Participants learned a
     rivalry game played years before, which none of them knew, from
@@ -168,14 +168,14 @@ negatively-valent plays").
     versions of the same record.
   - It does not touch A5's discriminating variation: nothing interrupts
     transmission, and memory is tested after one day.
-  - A dated note is proposed for CASE-098 (section 3).
-- **The owner's thesis (CLAIM-tmpjylq8).** Weakly. A team's success is
+  - A dated note is proposed for [CASE-098](../cases.d/CASE-098.md) (section 3).
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Weakly. A team's success is
   stored as the fan's own good event, and the authors call the fans
   "highly personally involved with the game despite experiencing it
   vicariously". That fits a self that takes in the team. But fan
   identification was a screening threshold and was not varied, so the
   paper cannot show that valence follows the extent of the self rather
-  than caring about the team (CLAIM-tmprudek). No dated note on the claim.
+  than caring about the team ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)). No dated note on the claim.
 - **No THEORY filed.** One small sample and one game.
 - **No ML instruction.**
 
@@ -220,4 +220,4 @@ negatively-valent plays").
   rivalry gives both sides one map of what mattered.
 - Does the positivity bias survive retelling? A design in which fans who
   learned the game pass it on to new fans, tested weeks later, would bear
-  on CASE-098's transmission directly.
+  on [CASE-098](../cases.d/CASE-098.md)'s transmission directly.

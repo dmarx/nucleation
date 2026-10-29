@@ -134,27 +134,27 @@ and its components reorganized into a butterfly or moth" (p. 5).
 
 ## Connections
 
-- **Alloway 1972 (LIT-tmpvl4oj)**, unread. Cited (ref. 36) among a
+- **Alloway 1972 ([LIT-tmpvl4oj](../literature.d/LIT-tmpvl4oj.md))**, unread. Cited (ref. 36) among a
   century of studies of larval experience and adult behaviour in beetles,
   moths and butterflies. The paper claims to be the first conclusive
   demonstration in Lepidoptera, not the first in insects. It counts
   *Drosophila* (Tully et al. 1994) and a weevil among controlled earlier
   cases (p. 4).
-- **Blackiston, Shomrat and Levin 2015 (LIT-tmpaazd0)** restate the result
+- **Blackiston, Shomrat and Levin 2015 ([LIT-tmpaazd0](../literature.d/LIT-tmpaazd0.md))** restate the result
   in one sentence and give a different account of α′/β′ remodelling, as
   "partial pruning" rather than intact projections. Blackiston moved to
   Levin's lab.
-- **Shomrat and Levin 2013 (LIT-tmpgfqw1)**, the planarian counterpart.
+- **Shomrat and Levin 2013 ([LIT-tmpgfqw1](../literature.d/LIT-tmpgfqw1.md))**, the planarian counterpart.
   There the claim is that memory lives outside the brain; here the
   evidence points to neurons that survive inside it.
-- **Dias and Ressler (NOTE-tmpeof8o)** also used an odour paired with
+- **Dias and Ressler ([NOTE-tmpeof8o](NOTE-tmpeof8o.md))** also used an odour paired with
   shock. They carried a sensitivity across generations, through sperm.
   This paper carries a learned aversion across one life's metamorphosis,
   and does not test offspring.
 
 ## Bearing on the record
 
-- **QUESTION-tmpws54x, what carries it across.** The paper excludes one
+- **[QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md), what carries it across.** The paper excludes one
   answer and points to another. These are inferences beyond the authors'
   claims.
   - Residue on the pupa is excluded. Washing and scenting were each tested
@@ -168,25 +168,25 @@ and its components reorganized into a butterfly or moth" (p. 5).
   - So on this evidence the carrier is a surviving part of the nervous
     system, not a body-wide store. That is the opposite of the planarian
     reading the question also holds.
-- **QUESTION-tmpws54x, whether the moth is the one that learned.** The
+- **[QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md), whether the moth is the one that learned.** The
   moth is the same organism as the caterpillar on any biological view.
   The paper adds a thin psychological connection: one learned aversion,
   held by about three quarters of a group and kept by 12 of 15 tracked
   individuals.
-  - That fits THEORY-464's line that the relation that matters comes apart
+  - That fits [THEORY-464](../theory.d/THEORY-464.md)'s line that the relation that matters comes apart
     from numerical identity. Here identity holds and connectedness is
     partial and depends on when the learning happened. A third-instar
     caterpillar is connected to its moth less than a fifth-instar one,
     though both are the same animal.
-  - It does not make the Parfitian case (LIT-469) of full psychological
+  - It does not make the Parfitian case ([LIT-469](../literature.d/LIT-469.md)) of full psychological
     continuity through a wholly rebuilt body. The body is not wholly
     rebuilt; the carrier, if the authors are right, is the part that is
     not.
 - **The offspring claim** in the question, from the unpublished Kobe
   repetition, is not tested here at all.
-- **The owner's thesis (CLAIM-tmpjylq8).** No direct bearing. No dated
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** No direct bearing. No dated
   note is proposed for it.
-- **A dated note is proposed for QUESTION-tmpws54x** (section 3).
+- **A dated note is proposed for [QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md)** (section 3).
 - **No THEORY filed.** One study; the claim waits on the mechanism.
 - **No ML instruction.**
 

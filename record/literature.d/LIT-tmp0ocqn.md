@@ -59,7 +59,7 @@ The fullest estimate of existential risk, and an argument that obligations to th
 
 The work cannot be read here, so the record holds it at second hand.
 
-**Ord 2024, "The Precipice Revisited" (NOTE-tmpxpkld).** The author's talk
+**Ord 2024, "The Precipice Revisited" ([NOTE-tmpxpkld](../notes.d/NOTE-tmpxpkld.md)).** The author's talk
 about five years on. It restates the book's per-century estimates for its
 four largest risks (climate and nuclear 1 in 1,000, pandemics 1 in 30,
 unaligned AI 1 in 10), quotes the book on great-power war, and reports
@@ -67,13 +67,13 @@ that the book's AI chapter followed the Yudkowsky–Bostrom agent scenario,
 that its nuclear estimate stayed low because no known pathway leads from
 current arsenals to extinction, and that it proposed "existential
 security". It does not restate the one-in-six total (Thorstad,
-NOTE-tmpu4i35, reports it) and judges that no estimate has moved at its
+[NOTE-tmpu4i35](../notes.d/NOTE-tmpu4i35.md), reports it) and judges that no estimate has moved at its
 rounding. The LIT summary's numbers fit. Missing still: the book's moral
 case, its reasons "from the future, from what we owe the past, and from
 the present", which this talk does not touch; the natural-risk estimates;
 the derivation of any number; and the book's policy proposals.
 
-**Ord, "Shaping humanity's longterm trajectory" (NOTE-tmpbrh86).** Ord's
+**Ord, "Shaping humanity's longterm trajectory" ([NOTE-tmpbrh86](../notes.d/NOTE-tmpbrh86.md)).** Ord's
 chapter of 2023 (published 2025) is not about the book's estimates; it
 formalises the book's priority. It gives the book's definition of
 existential risk ("irrevocably destroying humanity's longterm potential,

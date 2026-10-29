@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpdzv60) from the authors' final version
+  read in full 2026-10-29 ([NOTE-tmpdzv60](../notes.d/NOTE-tmpdzv60.md)) from the authors' final version
   self-archived in the University of Newcastle (Australia) repository
   (figshare 28979180); worth reading as the review that both sides of the
   record's self-esteem disagreement cite, and as the evidence on whether
@@ -41,7 +41,7 @@ summary: >-
 
 Rubin, M. & Hewstone, M. (1998). *Personality and Social Psychology Review*, 2(1), 40–62.
 
-Read in full in NOTE-tmpdzv60, from the authors' final version self-archived in the University of Newcastle (Australia) repository (figshare 28979180).
+Read in full in [NOTE-tmpdzv60](../notes.d/NOTE-tmpdzv60.md), from the authors' final version self-archived in the University of Newcastle (Australia) repository (figshare 28979180).
 
 ## Why this is here
 

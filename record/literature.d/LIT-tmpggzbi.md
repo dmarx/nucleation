@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpww70j) from the NIH author manuscript
+  read in full 2026-10-29 ([NOTE-tmpww70j](../notes.d/NOTE-tmpww70j.md)) from the NIH author manuscript
   (NIHMS176990, PMC3319676) from the PMC Cloud open-data service, cited by
   section; worth reading as the one study the record holds in which a
   fan's allegiance alone decides whether the same remembered play is good
@@ -46,7 +46,7 @@ summary: >-
 
 Botzung, A., Rubin, D. C., Miles, A., Cabeza, R. & LaBar, K. S. (2010). *The Journal of Neuroscience*, 30(6), 2130–2137.
 
-Read in full in NOTE-tmpww70j, from the NIH author manuscript (NIHMS176990, PMC3319676) from the PMC Cloud open-data service, cited by section.
+Read in full in [NOTE-tmpww70j](../notes.d/NOTE-tmpww70j.md), from the NIH author manuscript (NIHMS176990, PMC3319676) from the PMC Cloud open-data service, cited by section.
 
 ## Why this is here
 

@@ -151,38 +151,38 @@ gives reasons that may be praised but not enforced.
 
 ## Connections
 
-- **Narveson 1973 (LIT-tmpoc3e4), unread.** Named as continuing
+- **Narveson 1973 ([LIT-tmpoc3e4](../literature.d/LIT-tmpoc3e4.md)), unread.** Named as continuing
   the 1967 theme and listed with its reprint in Bayles (1976). Not
   restated. The 2017 paper suggests the earlier papers were read as
   denying that happy lives are a reason to create them, and says that was
   perhaps a misreading.
-- **Caviola et al. (NOTE-tmpaz0p7).** They test the 1973 slogan and
+- **Caviola et al. ([NOTE-tmpaz0p7](NOTE-tmpaz0p7.md)).** They test the 1973 slogan and
   find lay judgement counts adding a happy person as good. Their note
   observes that this counts against neutrality about value, not against
   a person-affecting view of obligation. Narveson 2017 holds exactly the
   second without the first.
-- **Meyer, SEP (NOTE-tmps9poq).** Meyer traces the procreation asymmetry
+- **Meyer, SEP ([NOTE-tmps9poq](NOTE-tmps9poq.md)).** Meyer traces the procreation asymmetry
   to Narveson 1967 and 1973 and keeps its half that gives no reason to
   create the happy. Narveson 2017 now gives such a reason, though not a
   duty. On the other half he allows exceptions, "when foreseeably a baby
   would be born with some horrible disease" (p. 52), "the case is
   different", but he does not say why.
-- **Parfit (LIT-tmpnjafv), unread.** Named as the occasion for
+- **Parfit ([LIT-tmpnjafv](../literature.d/LIT-tmpnjafv.md)), unread.** Named as the occasion for
   returning to the subject (p. 49), and his repugnant conclusion is used
   as a scene (p. 56), but the non-identity problem is not engaged.
-- **Gardiner (LIT-tmp12vk2), unread.** Narveson grants the structure
+- **Gardiner ([LIT-tmp12vk2](../literature.d/LIT-tmp12vk2.md)), unread.** Narveson grants the structure
   Gardiner calls a storm: the present will not bargain with the future,
   and "each person does his or her best to promote her interests, letting
   the chips fall where they may—and rightly so" (p. 60). He reads it as
   permission, not as a problem.
-- **Scheffler (NOTE-tmpmsmxw).** Both put the value of future lives in
+- **Scheffler ([NOTE-tmpmsmxw](NOTE-tmpmsmxw.md)).** Both put the value of future lives in
   the living's attitudes. Scheffler finds a deep dependence on humanity
   going on; Narveson finds parents' and the benevolent's liking, and
   benefit to others.
 
 ## Bearing on the record
 
-- **QUESTION-tmpmx9ha.** These are inferences; Narveson does not frame his
+- **[QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).** These are inferences; Narveson does not frame his
   view by the question's grounds.
   - The person-affecting ground, in its founder's late version, does not
     deny that future good lives matter. It denies they are owed. What is
@@ -194,18 +194,18 @@ gives reasons that may be praised but not enforced.
     third, "what the living value", with a harm constraint added.
   - He has no answer, and wants none, for the far future: a world without
     those people wrongs no one.
-- **The owner's thesis (CLAIM-tmpjylq8).** Narveson says that "our values
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Narveson says that "our values
   are what move us" (p. 56) and that interest in future generations'
   welfare "evaporates" against a person's wish for a child (p. 60). That
   fits the thesis's prediction that concern stops where the self's stake
-  stops. But it is the trivial reading CLAIM-tmprudek warns of: every
+  stops. But it is the trivial reading [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) warns of: every
   motive is the agent's own value, which does not make it self-interested.
   His list of reasons to have children includes one that is extension of
   the self in the thesis's sense, continuing "our particular DNA type"
   (p. 55), beside others that are not. He gives no evidence on motive.
   No dated note on the claim; the point belongs to the question (section
   4).
-- **The triviality objection (CLAIM-tmprudek).** An example of the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** An example of the
   objection's target, not a test of it.
 - **No THEORY filed.**
 - **No ML instruction.**

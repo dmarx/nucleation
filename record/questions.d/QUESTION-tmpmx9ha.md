@@ -129,7 +129,7 @@ Gardiner, Parfit and Ramsey were read themselves. Ord, MacAskill, Narveson
 and Syropoulos and Markowitz were read through other works, and Scheffler
 2018 is still unread. They add six points.
 
-- **Why what is owed goes unpaid** (Gardiner, NOTE-tmp27ib6). Between
+- **Why what is owed goes unpaid** (Gardiner, [NOTE-tmp27ib6](../notes.d/NOTE-tmp27ib6.md)). Between
   generations the usual remedies for a commons problem are unavailable,
   because the generations "do not coexist". Each generation can seem to
   act while exploiting its temporal position, without admitting it "to
@@ -137,7 +137,7 @@ and Syropoulos and Markowitz were read through other works, and Scheffler
   far the self's stake reaches, and how far a concern that reaches
   further is deceived.
 - **The good of future people, without anyone in particular** (Parfit,
-  NOTE-tmp8x2m0). Parfit's last paper retracts his 1984 appeal to an
+  [NOTE-tmp8x2m0](../notes.d/NOTE-tmp8x2m0.md)). Parfit's last paper retracts his 1984 appeal to an
   impersonal principle, calling it "a bad mistake". He grounds the
   comparison in a wide person-affecting principle, on which being caused
   to exist with a good life counts as a benefit. What is owed is owed to
@@ -145,21 +145,21 @@ and Syropoulos and Markowitz were read through other works, and Scheffler
   present people, and warns that if every generation does so "we and our
   successors might together wreck the Earth".
 - **The zero-discount view began as a collective self's prudence**
-  (Ramsey, NOTE-tmpgtdq6). Ramsey refuses to discount in one clause, as
+  (Ramsey, [NOTE-tmpgtdq6](../notes.d/NOTE-tmpgtdq6.md)). Ramsey refuses to discount in one clause, as
   "ethically indefensible" and the product of "the weakness of the
   imagination". He gives no argument, and his planner is one community
   that "goes on for ever", saving in the first person plural. That is the
   thesis's shape, though as a model of what ought to be, not of motive.
   Weakness of imagination is a psychological claim the question can test.
 - **The person-affecting ground, in its founder's late form** (Narveson
-  2017, NOTE-tmpxt8qz, read in place of the 1973 paper). Happy future lives
+  2017, [NOTE-tmpxt8qz](../notes.d/NOTE-tmpxt8qz.md), read in place of the 1973 paper). Happy future lives
   are good and a reason to create them, but no one is owed them. Why they
   matter is said only through the living's likings and interests, so this
   ground collapses into what the living value. That is where lay judgement
-  also puts it (NOTE-tmpaz0p7).
+  also puts it ([NOTE-tmpaz0p7](../notes.d/NOTE-tmpaz0p7.md)).
 - **The impersonal ground's accounting** (MacAskill, Thomas and Vallinder,
-  NOTE-tmpo2a6r, read in place of MacAskill's book; Ord, NOTE-tmpxpkld and
-  NOTE-tmpbrh86, read in place of Ord's). Value is significance times
+  [NOTE-tmpo2a6r](../notes.d/NOTE-tmpo2a6r.md), read in place of MacAskill's book; Ord, [NOTE-tmpxpkld](../notes.d/NOTE-tmpxpkld.md) and
+  [NOTE-tmpbrh86](../notes.d/NOTE-tmpbrh86.md), read in place of Ord's). Value is significance times
   persistence times contingency, and nothing about anyone's self enters.
   Ord's estimates are unchanged since the book. He reports that against
   Covid humanity united "at first", then split within months, and his
@@ -167,11 +167,11 @@ and Syropoulos and Markowitz were read through other works, and Scheffler
   cites, Ord says people discount benefits to future generations no more
   by timing than benefits to their children. If that holds, concern for
   future people does not fade with distance as concern for one's own
-  future does (Hershfield, NOTE-tmp70rn1), which fits concern for a
+  future does (Hershfield, [NOTE-tmp70rn1](../notes.d/NOTE-tmp70rn1.md)), which fits concern for a
   category, not for a self extended in time. The record should read that
   study (Frederick 2003) before relying on it.
 - **A fourth ground: reciprocity** (MacAskill's notes; Syropoulos et al.,
-  NOTE-tmpin04p). MacAskill's notes ground some obligation in paying
+  [NOTE-tmpin04p](../notes.d/NOTE-tmpin04p.md)). MacAskill's notes ground some obligation in paying
   forward what past generations gave. Syropoulos et al. found that
   reflecting on past generations' sacrifices raised felt responsibility to
   future generations about as much as a legacy prompt did. A letter to one

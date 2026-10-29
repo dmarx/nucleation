@@ -165,24 +165,24 @@ event, compared to the relevant counterfactual" (pp. 1–2).
 
 ## Connections
 
-- **What We Owe the Future (LIT-tmpk6b4i)**, unread. §2 explains "the
+- **What We Owe the Future ([LIT-tmpk6b4i](../literature.d/LIT-tmpk6b4i.md))**, unread. §2 explains "the
   framework as it appears in" the book (p. 2), so this is the book's own
   accounting device. The notes show it organising chapter 2 and Appendix
   3. It is not the book's argument that future people count, nor its
   population ethics.
-- **Greaves and MacAskill (NOTE-tmpozxwf).** The same expected-value
+- **Greaves and MacAskill ([NOTE-tmpozxwf](NOTE-tmpozxwf.md)).** The same expected-value
   framing, with a benefit ratio in place of a factorisation. The book's
   notes place the book short of strong longtermism: a critique by
   Mogensen "only applies to versions of longtermism on which our
   obligation to help future people trumps all other self- and
   other-regarding reasons for action, which is not the view I'm
   defending in this book" (1.50).
-- **Tarsney (NOTE-tmp0l9dk) and Thorstad (NOTE-tmpu4i35).** In SPC terms,
+- **Tarsney ([NOTE-tmp0l9dk](NOTE-tmp0l9dk.md)) and Thorstad ([NOTE-tmpu4i35](NOTE-tmpu4i35.md)).** In SPC terms,
   and as an inference, their challenges fall on contingency and
   persistence: Tarsney's decay of predictable influence lowers how much
   of a far-future feature depends on a present act, and Thorstad's high
   background risk shortens expected persistence.
-- **Bostrom (NOTE-tmpwwa8k, NOTE-tmpyret1).** The alternative
+- **Bostrom ([NOTE-tmpwwa8k](NOTE-tmpwwa8k.md), [NOTE-tmpyret1](NOTE-tmpyret1.md)).** The alternative
   framework's Prob term is where reducing existential risk enters.
   MacAskill's notes give his own credences: end of civilisation this
   century 0.1 to 1 percent, misaligned AI takeover about 3 percent,
@@ -197,12 +197,12 @@ event, compared to the relevant counterfactual" (pp. 1–2).
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** These are inferences; the note
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are inferences; the note
   does not discuss motive.
   - The framework values states of the world, not anyone's good as
     theirs. Nothing in it is indexed to the agent except contingency,
     which attributes value to the agent's choice. So the book's ground,
-    as formalised here, is the impersonal good. As QUESTION-tmpmx9ha
+    as formalised here, is the impersonal good. As [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md)
     already says, the thesis bears on such a ground only as a question of
     who is moved by it.
   - Contingency has the shape of a difference-making motive: what matters
@@ -216,9 +216,9 @@ event, compared to the relevant counterfactual" (pp. 1–2).
     reciprocity. "We benefit enormously from the actions of people in the
     past … Perhaps, then, this gives us reasons to 'pay it forward'"
     (1.5). Syropoulos et al.'s sacrifice condition is a test of it.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note is proposed for QUESTION-tmpmx9ha**, not for the claim.
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed.
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note is proposed for [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md)**, not for the claim.
 - **No THEORY filed.**
 - **No ML instruction.**
 

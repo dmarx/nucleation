@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp11g34) from the publisher's PDF (PLoS
+  read in full 2026-10-29 ([NOTE-tmp11g34](../notes.d/NOTE-tmp11g34.md)) from the publisher's PDF (PLoS
   ONE, CC BY), checked against Europe PMC's XML (PMC2248710); worth
   reading as the clean modern demonstration that a single conditioned
   aversion survives insect metamorphosis, with contamination controls and
@@ -45,7 +45,7 @@ summary: >-
 
 Blackiston, D. J., Silva Casey, E. & Weiss, M. R. (2008). *PLoS ONE*, 3(3), e1736.
 
-Read in full in NOTE-tmp11g34, from the publisher's PDF (PLoS ONE, CC BY), checked against Europe PMC's XML (PMC2248710).
+Read in full in [NOTE-tmp11g34](../notes.d/NOTE-tmp11g34.md), from the publisher's PDF (PLoS ONE, CC BY), checked against Europe PMC's XML (PMC2248710).
 
 ## Why this is here
 

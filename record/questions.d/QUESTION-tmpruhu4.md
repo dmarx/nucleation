@@ -142,8 +142,8 @@ nothing for us.
 
 ## Note of 2026-10-29: Zaval's legacy measures, read at second hand
 
-Wickersham et al. (NOTE-tmpx2etu), read in place of Zaval et al.
-(LIT-tmpetcju), reuse its legacy writing task and Legacy Motivation Scale
+Wickersham et al. ([NOTE-tmpx2etu](../notes.d/NOTE-tmpx2etu.md)), read in place of Zaval et al.
+([LIT-tmpetcju](../literature.d/LIT-tmpetcju.md)), reuse its legacy writing task and Legacy Motivation Scale
 with 988 adults.
 
 - **The effect replicates.** The task raised pro-environmental intentions

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpin04p), in place of LIT-tmpi3189, which
+  read in full 2026-10-29 ([NOTE-tmpin04p](../notes.d/NOTE-tmpin04p.md)), in place of [LIT-tmpi3189](LIT-tmpi3189.md), which
   could not be reached; worth reading as the largest study of felt
   responsibility to future generations, its spread and its political
   neutrality, and as the record's only experiment comparing legacy,
@@ -43,9 +43,9 @@ summary: >-
 
 Syropoulos, S., Kraft-Todd, G., Mah, A., Markowitz, E. M. & Young, L. (2023). Responsibility to future generations: a moral reframing strategy for combatting climate change. OSF Preprints.
 
-Read in full in NOTE-tmpin04p.
+Read in full in [NOTE-tmpin04p](../notes.d/NOTE-tmpin04p.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpi3189, which could not be reached. NOTE-tmpin04p says what it
+Read in place of [LIT-tmpi3189](LIT-tmpi3189.md), which could not be reached. [NOTE-tmpin04p](../notes.d/NOTE-tmpin04p.md) says what it
 reports of it and what is still missing.

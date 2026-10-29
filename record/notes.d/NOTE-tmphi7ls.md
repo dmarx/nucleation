@@ -178,7 +178,7 @@ integration of the involved subjects never amounts to fusion" (p. 10).
 
 ## Connections
 
-- **León (NOTE-tmpuba7m; THEORY-tmpsm03n).** León criticizes this paper
+- **León ([NOTE-tmpuba7m](NOTE-tmpuba7m.md); [THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)).** León criticizes this paper
   for taking the "we" to require "social uniformity" and for pairing
   depersonalization with self-alienation. The reading confirms both: the
   phrase is Zahavi's gloss on Turner, and he calls the similarity
@@ -188,28 +188,28 @@ integration of the involved subjects never amounts to fusion" (p. 10).
   León uses. Zahavi also flags that intimacy groups and social categories
   may need different analyses (p. 16). So the disagreement is narrower
   than León presents it. That is an inference.
-- **Turner et al. 1994 (NOTE-tmpf9mzh).** León's fn. 11 notes that Turner
+- **Turner et al. 1994 ([NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)).** León's fn. 11 notes that Turner
   et al. have the perceiver appraise self "in relation to others, not from
   the perspective of others". Zahavi's self-alienation is exactly
   appraisal from the perspective of others. So the parallel he draws to
-  self-categorization theory (THEORY-tmpo85ke) is looser than "obvious":
+  self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)) is looser than "obvious":
   the two accounts reach downplayed difference by different routes.
-- **Salice and Miyazono (NOTE-tmpaso81).** Their team reasoner has
+- **Salice and Miyazono ([NOTE-tmpaso81](NOTE-tmpaso81.md)).** Their team reasoner has
   undergone self-transformation. Zahavi's self-alienation is a
   phenomenological account of one such transformation, of the
   self-apprehension rather than of the reasoning.
-- **Group entity versus category (TERM-tmpko4rw).** Zahavi adds a third
+- **Group entity versus category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** Zahavi adds a third
   line: belonging to a category by birth or by others' classification
   versus a "we" "experienced from within" (p. 12). He also separates
   standing in a social relation from being part of a we (p. 14).
-- **Batson (CLAIM-tmpybc4k).** The phenomenologists' empathy preserves
+- **Batson ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** The phenomenologists' empathy preserves
   the self–other difference and does not lead to fusion (p. 1). That is a
   conceptual cousin of Batson's empathy without merging. Zahavi does not
   discuss helping or motivation.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The thesis's "What it does not
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The thesis's "What it does not
   say" places Zahavi among those who ask whether a "we" is a self at all.
   His answer is no, in one sense. These are inferences; the paper says
   nothing about selflessness, interest or motivation.
@@ -223,7 +223,7 @@ integration of the involved subjects never amounts to fusion" (p. 10).
     see herself as others see her, as one self among others. That is a
     "transformation or modulation" of self-experience (p. 11), closer to
     the claim's own worry that depersonalization is a change of self than
-    to "larger self". Identity fusion (NOTE-tmp3g9n4) stays the record's
+    to "larger self". Identity fusion ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)) stays the record's
     case for "larger".
   - **Even the personal self is socially made.** If personhood is
     constituted through "communicative intertwinement" (p. 10), the
@@ -231,21 +231,21 @@ integration of the involved subjects never amounts to fusion" (p. 10).
     contrast between an unsocial and a social self. That weakens any
     version of the thesis that treats the personal self as the baseline
     that then extends.
-- **The triviality objection (CLAIM-tmprudek).** Zahavi offers a
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Zahavi offers a
   criterion of group identification that is not caring: taking over the
   other's perspective on oneself in second-person engagement. But he calls
   it formal and not sufficient, and particular identifications need
   "shared norms, values, emotions, goals" (p. 11), which brings caring
   back. It is not measurable as stated. It does not supply the
   independent criterion the objection asks for.
-- **Batson's objection (CLAIM-tmpybc4k).** Conceptual support only: the
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Conceptual support only: the
   phenomenological tradition takes empathy to keep self and other
   distinct. It is not evidence about helping.
-- **QUESTION-tmprbq0b.** It names this paper for how one comes to see
+- **[QUESTION-tmprbq0b](../questions.d/QUESTION-tmprbq0b.md).** It names this paper for how one comes to see
   oneself as one of us. The answer read here is: through being addressed
   and taking over the addresser's view of oneself, for the face-to-face
   case only.
-- **Dated note.** Proposed on CLAIM-tmpjylq8 (Section 3 of the draft).
+- **Dated note.** Proposed on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) (Section 3 of the draft).
   No THEORY is filed: the account is exegetical and conceptual, and the
   record already files León's rival.
 - **No ML instruction.**
@@ -262,7 +262,7 @@ integration of the involved subjects never amounts to fusion" (p. 10).
   self-alienation.
 - **The self-categorization comparison is thin.** It rests on Turner 1981
   and on Abrams and Hogg, and does not engage the 1987 or 1994 statements
-  (cf. NOTE-tmpf9mzh).
+  (cf. [NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)).
 - **Accepted manuscript.** Not compared with the published text; wording
   and page breaks may differ.
 - **Typos and reference slips** (manuscript pages).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpx2etu), in place of LIT-tmpetcju, which
+  read in full 2026-10-29 ([NOTE-tmpx2etu](../notes.d/NOTE-tmpx2etu.md)), in place of [LIT-tmpetcju](LIT-tmpetcju.md), which
   could not be reached; worth reading as the one open use of Zaval et
   al.'s legacy induction and Legacy Motivation Scale, with the scale's
   items in print; it shows the scale bundles the wish to be remembered
@@ -40,9 +40,9 @@ summary: >-
 
 Wickersham, R. H., Zaval, L., Pachana, N. A. & Smyer, M. A. (2020). The impact of place and legacy framing on climate action: a lifespan approach. *PLOS ONE*, 15(2), e0228963.
 
-Read in full in NOTE-tmpx2etu.
+Read in full in [NOTE-tmpx2etu](../notes.d/NOTE-tmpx2etu.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpetcju, which could not be reached. NOTE-tmpx2etu says what it
+Read in place of [LIT-tmpetcju](LIT-tmpetcju.md), which could not be reached. [NOTE-tmpx2etu](../notes.d/NOTE-tmpx2etu.md) says what it
 reports of it and what is still missing.

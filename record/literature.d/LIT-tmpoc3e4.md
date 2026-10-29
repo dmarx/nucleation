@@ -54,7 +54,7 @@ The person-affecting rival to longtermism's impersonal view: obligations are to 
 
 The work cannot be read here, so the record holds it at second hand.
 
-Narveson 2017 (NOTE-tmpxt8qz) is the author's own late return to the
+Narveson 2017 ([NOTE-tmpxt8qz](../notes.d/NOTE-tmpxt8qz.md)) is the author's own late return to the
 subject. It states the 1967 point, that utilitarianism commits one to
 "making people happy" but not to "making happy people", and says
 "something like that" ran through the 1973 paper and the 1978 one. It

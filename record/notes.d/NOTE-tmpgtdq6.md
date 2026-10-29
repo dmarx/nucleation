@@ -176,33 +176,33 @@ Bliss by 1/z of a year, at a cost of that fraction of a year's shortfall
 
 ## Connections
 
-- **Greaves and MacAskill (NOTE-tmpozxwf).** They name Ramsey among those
+- **Greaves and MacAskill ([NOTE-tmpozxwf](NOTE-tmpozxwf.md)).** They name Ramsey among those
   who endorse a zero rate of pure time preference, the assumption their
   case calls "near-essential". That is right of p. 543. It leaves out that
   Ramsey gives no argument there, and that he models discounting in the
   rest of the paper.
-- **Meyer, SEP (NOTE-tmps9poq).** Its description, optimal savings without
+- **Meyer, SEP ([NOTE-tmps9poq](NOTE-tmps9poq.md)).** Its description, optimal savings without
   distributional concerns and no pure time discounting, matches p. 543.
-- **Thorstad (NOTE-tmpu4i35) and Tarsney (NOTE-tmp0l9dk).** Both discount the
+- **Thorstad ([NOTE-tmpu4i35](NOTE-tmpu4i35.md)) and Tarsney ([NOTE-tmp0l9dk](NOTE-tmp0l9dk.md)).** Both discount the
   future for risk, not for time. Ramsey draws the same line in 1928: he
   rejects discounting for time, assumes no misfortunes, and names wars and
   earthquakes as "the most serious factor neglected", which a low interest
   rate cannot capture (pp. 544, 549).
-- **Gardiner (LIT-tmp12vk2), unread.** The intergenerational storm is
+- **Gardiner ([LIT-tmp12vk2](../literature.d/LIT-tmp12vk2.md)), unread.** The intergenerational storm is
   assumed away on p. 544: no chance "of our savings being selfishly
   consumed by a subsequent generation".
-- **Hershfield (NOTE-tmp70rn1).** Ramsey's diagnosis of discounting, "the
+- **Hershfield ([NOTE-tmp70rn1](NOTE-tmp70rn1.md)).** Ramsey's diagnosis of discounting, "the
   weakness of the imagination", is a psychological claim. Hershfield's
   finding, that people who feel less connected to their future self, or
   see it less vividly, discount more, is a modern version for one life.
-- **Narveson (LIT-tmpoc3e4), unread.** Population is fixed by assumption.
+- **Narveson ([LIT-tmpoc3e4](../literature.d/LIT-tmpoc3e4.md)), unread.** Population is fixed by assumption.
   Ramsey's one remark on it, that growth is a reason to save more (p. 549),
   counts more future people as more to provide for, but says nothing about
   whether to create them.
 
 ## Bearing on the record
 
-- **QUESTION-tmpmx9ha.** The question files Ramsey under the impersonal
+- **[QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).** The question files Ramsey under the impersonal
   ground. Read, he fits it less neatly. These are inferences.
   - His unit is not future strangers but one community that "goes on for
     ever" with the same motives, and he writes its saving in the first
@@ -217,12 +217,12 @@ Bliss by 1/z of a year, at a cost of that fraction of a year's shortfall
     failure of imagination. That is a claim the question's psychological
     side can test. The record's lay-judgement result, that most people
     judge extinction uniquely bad only when the lost future is made
-    salient (Schubert et al., NOTE-tmpbxw6b), fits it.
+    salient (Schubert et al., [NOTE-tmpbxw6b](NOTE-tmpbxw6b.md)), fits it.
   - When he describes how people do save (§III), they discount "for
     himself or his heirs" (p. 556) and are "not so interested in their
     heirs as in themselves" (p. 557). Concern falls off with distance from
     the self.
-- **The owner's thesis (CLAIM-tmpjylq8).** The founding statement of the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The founding statement of the
   zero-discount view is written in the thesis's shape: a collective self
   extended through time, saving for itself. This is a modelling choice,
   not a claim about motive, and Ramsey offers it as what ought to be, not
@@ -240,7 +240,7 @@ Bliss by 1/z of a year, at a cost of that fraction of a year's shortfall
   > imagination". Both fit the thesis's reading of concern as scaled by
   > the self's reach, but neither is evidence about motive.
 
-- **The triviality objection (CLAIM-tmprudek).** Not addressed. Ramsey's
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed. Ramsey's
   "same system of preferences" is a criterion of a community's identity
   over time, but it is a sameness of what is cared about, so it is not
   the independent criterion the objection asks for.

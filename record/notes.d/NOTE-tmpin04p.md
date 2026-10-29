@@ -161,27 +161,27 @@ mechanisms, despite their high correlation" (p. 32).
 
 ## Connections
 
-- **Syropoulos and Markowitz 2021 (LIT-tmpi3189)**, unread. Cited only as
+- **Syropoulos and Markowitz 2021 ([LIT-tmpi3189](../literature.d/LIT-tmpi3189.md))**, unread. Cited only as
   "preliminary work" finding concern for future generations "weakly or
   not at all related to political identity or partisanship" (p. 3).
-- **Legacy and the climate game (Hurlstone et al., NOTE-tmpebx4k).**
+- **Legacy and the climate game (Hurlstone et al., [NOTE-tmpebx4k](NOTE-tmpebx4k.md)).**
   Hurlstone's messages combined death awareness, future generations'
   powerlessness and paying forward a past generation's sacrifice. Study 4
   separates legacy from sacrifice and finds both raise RFG about equally
   (b = .27 and .29).
-- **Zaval et al. (LIT-tmpetcju)**, unread. Study 4 replicates its legacy
+- **Zaval et al. ([LIT-tmpetcju](../literature.d/LIT-tmpetcju.md))**, unread. Study 4 replicates its legacy
   effect on intentions but not on policy support or donations (p. 33).
-- **What We Owe the Future (LIT-tmpk6b4i)** and the SPC framework (filed
+- **What We Owe the Future ([LIT-tmpk6b4i](../literature.d/LIT-tmpk6b4i.md))** and the SPC framework (filed
   with this reading). The book's excerpt was one intervention. The book's
   notes (1.5) name the reciprocity ground the sacrifice condition tests.
-- **Lay valuation of the far future (Schubert et al., NOTE-tmpbxw6b;
-  Caviola et al., NOTE-tmpaz0p7).** Those studies found far-future
+- **Lay valuation of the far future (Schubert et al., [NOTE-tmpbxw6b](NOTE-tmpbxw6b.md);
+  Caviola et al., [NOTE-tmpaz0p7](NOTE-tmpaz0p7.md)).** Those studies found far-future
   concern appears when prompted. Here a prompt as short as a 1-minute
   video raised RFG, but "future generations" is never dated beyond 2050.
 
 ## Bearing on the record
 
-- **The triviality objection (CLAIM-tmprudek).** The paper does not
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The paper does not
   supply a criterion of the self's extent that comes apart from caring.
   These are inferences from what it measures.
   - No measure of self-extension appears: no overlap with future people,
@@ -199,7 +199,7 @@ mechanisms, despite their high correlation" (p. 32).
     descendants (p. 6), is the thesis's own reading, and the paper's
     limitations grant it cannot say whether people think of descendants
     or "future people more broadly" (p. 43).
-- **The owner's thesis (CLAIM-tmpjylq8).** Study 4 compares routes to the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Study 4 compares routes to the
   same felt responsibility. Read as inferences:
   - The weakest route was the impersonal one. The longtermist excerpt
     raised RFG least (d = .14) and did not raise donations. The
@@ -215,7 +215,7 @@ mechanisms, despite their high correlation" (p. 32).
     stronger when the future is made particular and personal, but it
     also gives a non-self route of similar size. The effects are small,
     measured minutes later, and on self-report.
-- **QUESTION-tmpmx9ha.** A dated note is proposed (section 4). It updates
+- **[QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).** A dated note is proposed (section 4). It updates
   the question's "What predicts it" bullet, which cites the 2021 paper.
 - **No THEORY filed.**
 - **No ML instruction.**
@@ -263,7 +263,7 @@ mechanisms, despite their high correlation" (p. 32).
 - Does felt responsibility to future generations vary with a measured
   extension of the self, apart from caring? A study adding overlap with
   one's descendants, or identification with all humanity, and a separate
-  caring measure, would test CLAIM-tmprudek across generations. A later
+  caring measure, would test [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) across generations. A later
   preprint by Syropoulos, Law and Young, "Caring for Present and Future
   Generations Alike" (PsyArXiv, 2023, 10.31234/osf.io/hzwrt), not held,
   reports by its abstract that identification with all of humanity may

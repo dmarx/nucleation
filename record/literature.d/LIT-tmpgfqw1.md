@@ -57,14 +57,14 @@ Memory persisting through the loss and regrowth of the brain itself, the regener
 
 The work cannot be read here, so the record holds it at second hand.
 
-Levin's post on The Node (NOTE-tmpf6vyn), signed by both authors,
+Levin's post on The Node ([NOTE-tmpf6vyn](../notes.d/NOTE-tmpf6vyn.md)), signed by both authors,
 announces Shomrat and Levin 2013. It gives the design in outline: an
 automated device training 12 worms at a time around the clock; a chamber
 with a laser-etched floor; familiarity measured by readiness to eat liver
 there rather than explore; recognition after complete head removal and
 regeneration, given "a brief refresher". It gives the authors' reading,
 memory stored outside the brain and imprinted on the new one. The 2015
-perspective (LIT-tmpaazd0) restates less: only that the device's "initial
+perspective ([LIT-tmpaazd0](LIT-tmpaazd0.md)) restates less: only that the device's "initial
 study confirmed the ability of worms to recognize a surface etch pattern
 in a place learning task, and the persistence of this information across
 head regeneration", plus the device's round-the-clock training and

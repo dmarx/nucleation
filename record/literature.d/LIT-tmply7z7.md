@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmphi7ls) from the peer-reviewed accepted
+  read in full 2026-10-29 ([NOTE-tmphi7ls](../notes.d/NOTE-tmphi7ls.md)) from the peer-reviewed accepted
   manuscript in the University of Copenhagen's repository (curis.ku.dk);
   worth reading as the phenomenologist's case that coming to see oneself
   as one of us is a change in how one apprehends oneself, through
@@ -45,7 +45,7 @@ summary: >-
 
 Zahavi, D. (2019). *Topoi*, 38(1), 251–260.
 
-Read in full in NOTE-tmphi7ls, from the peer-reviewed accepted manuscript in the University of Copenhagen's repository (curis.ku.dk).
+Read in full in [NOTE-tmphi7ls](../notes.d/NOTE-tmphi7ls.md), from the peer-reviewed accepted manuscript in the University of Copenhagen's repository (curis.ku.dk).
 
 ## Why this is here
 
