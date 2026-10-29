@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-46 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+45 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -222,11 +222,6 @@
   - [CLAIM-181](../record/claims.d/CLAIM-181.md) — The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost *(counter, Proposed)* — also objects to CLAIM-178
     - [CLAIM-419](../record/claims.d/CLAIM-419.md) — The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown *(counter, Proposed)*
 - [CLAIM-178](../record/claims.d/CLAIM-178.md) — A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately *(thesis, Proposed)*
-
-## From The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
-
-- [CLAIM-185](../record/claims.d/CLAIM-185.md) — The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors *(thesis, Proposed)*
-  - [CLAIM-184](../record/claims.d/CLAIM-184.md) — Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure *(counter, Proposed)*
 
 ## From Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
 

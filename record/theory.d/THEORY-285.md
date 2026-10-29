@@ -24,7 +24,7 @@ history:
     prior, and the belief sustains itself; lowering precision removes
     the symptoms without correcting the prior. The promote_when asked
     for evidence from people, which the title never claimed, and moves
-    unchanged to QUESTION-tmpxd26n, as THEORY-178's did to
+    unchanged to QUESTION-303, as THEORY-178's did to
     QUESTION-172.
 tags:
 - psychopathology-and-treatment
@@ -48,7 +48,7 @@ supports:
 - CLAIM-446
 bears_on:
 - QUESTION-045
-- QUESTION-tmpxd26n
+- QUESTION-303
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed; the loop account this model gives a mechanism for -->
 

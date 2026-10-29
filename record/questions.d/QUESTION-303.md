@@ -1,5 +1,8 @@
 ---
+number: 303
 status: Open
+formerly:
+- QUESTION-tmpxd26n
 title: 'After cued traumatic recall, do people with persistent PTSD sample disambiguating peripheral context less than matched trauma-exposed controls, and does restoring that sampling during the same exposure produce lasting change that the exposure alone does not?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   the prediction; whether people bear it out is this question.
 ---
 
-# QUESTION-tmpxd26n: After cued traumatic recall, do people with persistent PTSD sample disambiguating peripheral context less than matched trauma-exposed controls, and does restoring that sampling during the same exposure produce lasting change that the exposure alone does not?
+# QUESTION-303: After cued traumatic recall, do people with persistent PTSD sample disambiguating peripheral context less than matched trauma-exposed controls, and does restoring that sampling during the same exposure produce lasting change that the exposure alone does not?
 
 ## Why it is a question
 

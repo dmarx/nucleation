@@ -3,7 +3,7 @@
 - Eighth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29, 06:24).
 - **Adopted:** [TERM-078](record/terms.d/TERM-078.md) and [TERM-072](record/terms.d/TERM-072.md). **Promoted:** [CLAIM-347](record/claims.d/CLAIM-347.md), [CLAIM-275](record/claims.d/CLAIM-275.md)
   (narrowed) and [THEORY-285](record/theory.d/THEORY-285.md) (narrowed; its promotion condition is now
-  [QUESTION-tmpxd26n](record/questions.d/QUESTION-tmpxd26n.md)).
+  [QUESTION-303](record/questions.d/QUESTION-303.md)).
 - **[CLAIM-349](record/claims.d/CLAIM-349.md)** rests on [CLAIM-027](record/claims.d/CLAIM-027.md) and [CLAIM-025](record/claims.d/CLAIM-025.md), with [CLAIM-156](record/claims.d/CLAIM-156.md) and the ACT
   readings as corroboration. **[CLAIM-156](record/claims.d/CLAIM-156.md)** is narrowed to what its defeat
   condition tests. **[TERM-076](record/terms.d/TERM-076.md)** says contest, not frustration ([CLAIM-449](record/claims.d/CLAIM-449.md)).

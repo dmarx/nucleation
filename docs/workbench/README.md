@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 06:24 — The eighth status review: the top of the reliance ranking, two TERMs adopted, three promotions, and CLAIM-349 moved onto CLAIM-027](2026-10.md#the-eighth-status-review-the-top-of-the-reliance-ranking-two-terms-adopted-three-promotions-and-claim-349-moved-onto-claim-027)
 - [29 Oct 05:52 — The seventh status review: the unwritten concessions written into their targets](2026-10.md#the-seventh-status-review-the-unwritten-concessions-written-into-their-targets)
 - [28 Oct 17:59 — The sixth status review: an argument the migration left Active, one promotion, two concessions written in, and readings that wait on results](2026-10.md#the-sixth-status-review-an-argument-the-migration-left-active-one-promotion-two-concessions-written-in-and-readings-that-wait-on-results)
 - [28 Oct 05:19 — What accepting ADR-061 would change: of 65 claims classified as about support or a source, 30 move on a close reading, into 28 new ARGs](2026-10.md#what-accepting-adr-061-would-change-of-65-claims-classified-as-about-support-or-a-source-30-move-on-a-close-reading-into-28-new-args)
@@ -105,8 +106,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-96 entries across 1 book, newest first.
+97 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 96 | 2026-10-07 | 2026-10-29 |
+| [2026-10](2026-10.md) | 97 | 2026-10-07 | 2026-10-29 |
