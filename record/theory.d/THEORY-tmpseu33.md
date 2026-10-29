@@ -9,7 +9,7 @@ date: '2026-10-29'
 source:
 - LIT-1661
 summary: >-
-  Goguen and Burstall (1992), LIT-1661, read in NOTE-tmpyi64y from the
+  Goguen and Burstall (1992), [LIT-1661](../literature.d/LIT-1661.md), read in [NOTE-tmpyi64y](../notes.d/NOTE-tmpyi64y.md) from the
   published JACM article. Theorem 11 (p. 108) proves that the forgetful
   functor from theories to signatures reflects colimits, using only the
   Satisfaction Condition and the Closure Lemma; Proposition 23 and
@@ -24,8 +24,8 @@ summary: >-
 
 ## Source
 
-Goguen and Burstall (1992), LIT-1661, §2.2–2.4 and §3.2, pp. 103–109 and
-116–121 of the Journal of the ACM 39(1); read in NOTE-tmpyi64y.
+Goguen and Burstall (1992), [LIT-1661](../literature.d/LIT-1661.md), §2.2–2.4 and §3.2, pp. 103–109 and
+116–121 of the Journal of the ACM 39(1); read in [NOTE-tmpyi64y](../notes.d/NOTE-tmpyi64y.md).
 
 ## What was actually shown
 
