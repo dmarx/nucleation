@@ -4,14 +4,36 @@ status: Proposed
 formerly:
 - CLAIM-tmpww3q0
 title: 'What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Revised at the seventh status review to record CLAIM-238's
+    concession (ADR-059): the condition was a null with no margin,
+    over observables the thesis could re-choose after a failure.
+    Version 1's condition read: "Human judgements of communicative
+    fidelity on translations, retellings or cross-modal renderings are
+    predicted as well by propositional or embedding similarity as by
+    measured preservation of pragmatic observables (stance, footing,
+    alignment, expected uptake)." It now fixes a margin, a power, the
+    observables and their weights before the data, and takes the
+    conceded repairs of CLAIM-222 (an interlingual arm decides) and
+    CLAIM-226 (the judges are a named population). complements no
+    longer names CLAIM-139, its rival on the fidelity clause
+    (CLAIM-211). Title unchanged; CLAIM-243's conceded ambiguity is
+    answered only by CLAIM-220. Status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   Human judgements of communicative fidelity on translations, retellings
-  or cross-modal renderings are predicted as well by propositional or
-  embedding similarity as by measured preservation of pragmatic
-  observables (stance, footing, alignment, expected uptake).
+  or cross-modal renderings, by a named population of judges, are
+  predicted as well by propositional or embedding similarity as by
+  measured preservation of pragmatic observables (stance, footing,
+  alignment, expected uptake), within an equivalence margin and at a
+  power fixed in advance, the observables and their weights fixed before
+  the data; or this holds in an interlingual arm, whatever the
+  intralingual arms show.
 tags:
 - philosophy-of-language
 - linguistics
@@ -42,7 +64,6 @@ supports:
 complements:
 - CLAIM-129
 - CLAIM-133
-- CLAIM-139
 - CLAIM-220
 - CLAIM-223
 objected_by:
@@ -73,8 +94,11 @@ the proposition is neither necessary nor sufficient.
 ## What it does not say
 
 It does not say propositional content is irrelevant, only that it is one
-observable among several. It does not say the observables are fixed in
-advance: the manuscript makes their choice explicit rather than deciding it.
+observable among several. It does not say the observables are fixed once
+for every study: the manuscript makes their choice explicit rather than
+deciding it, and a study that tests the thesis fixes its own, with their
+weights, before its data, binding the thesis to that choice (CLAIM-238). The
+margin and power are the record's, not §10's.
 Its defeat condition is empirical (Case I–III, §10), and none of those studies
 has been run.
 
@@ -132,3 +156,10 @@ The status is unchanged.
 The status review of this date narrowed [CLAIM-061](CLAIM-061.md) to sufficiency and
 filed its necessity half as [CLAIM-486](CLAIM-486.md). This claim's "neither
 necessary nor sufficient" now rests on both.
+
+## Note of 2026-10-29: what holds it back
+
+Two premises are Proposed, CLAIM-082 and CLAIM-486, and CASE-055, the study
+its condition now presupposes, has not been run. CLAIM-243's conceded
+ambiguity is answered only by CLAIM-220, and whether CLAIM-220 supersedes it
+is an owner ruling open since 2026-10-10.
