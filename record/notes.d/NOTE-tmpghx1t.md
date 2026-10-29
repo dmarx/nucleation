@@ -228,7 +228,7 @@ step that computes π^s "OT problem on the features" (p. 4).
 - **Proposition 1's remark on unequal sizes is false.** "If n ≠ n′, d ≠ d′
   the COOT cost is always strictly positive as there exists a strictly
   positive element outside the diagonal" (p. 13; also p. 4). Duplicated rows
-  give zero. X = [[1, 2], [1, 2]] with uniform w and X′ = [[1, 2]] has the
+  give zero. X = (1 2; 1 2) with uniform w and X′ = (1 2) has the
   admissible plan π^s = (½, ½)ᵀ, π^v = I/2 with cost 0, which I computed.
   COOT is therefore a distance only up to such replications, not between
   datasets in general.

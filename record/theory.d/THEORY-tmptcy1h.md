@@ -66,8 +66,8 @@ not induced by a coupling of the spaces. Lemma 28 rules it out.
 ## What this does not say
 
 - **That a small bound means close networks.** Every bound is one-sided.
-  Take uniform 3-node networks ωX = [[0,1,2],[2,0,1],[1,2,0]] and
-  ωY = [[0,1,2],[1,2,0],[2,0,1]]. Every row and column of each is a
+  Take uniform 3-node networks ωX = (0 1 2; 2 0 1; 1 2 0) and
+  ωY = (0 1 2; 1 2 0; 2 0 1). Every row and column of each is a
   permutation of {0, 1, 2}, so every weight profile has the same
   distribution and TLB, FLB, SLB and the size bound vanish in both
   directions. But ωX has zero diagonal and ωY has diagonal (0, 2, 1); the

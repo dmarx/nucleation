@@ -230,8 +230,8 @@ difficult to obtain" without measures (Remark 19, p. 9).
 - **A caution for any use of these invariants as evidence of alignment.**
   The lower bounds are one-sided. A small R-TLB does not show two networks
   are close. Two 3-node networks with uniform measure, ωX the cyclic shift
-  [[0,1,2],[2,0,1],[1,2,0]] and ωY the symmetric Latin square
-  [[0,1,2],[1,2,0],[2,0,1]], have every row and column a permutation of
+  (0 1 2; 2 0 1; 1 2 0) and ωY the symmetric Latin square
+  (0 1 2; 1 2 0; 2 0 1), have every row and column a permutation of
   {0, 1, 2}, so TLB, FLB, SLB and the size bound are all zero in both
   directions. Yet the diagonal terms alone give disp² ≥ (0 + 4 + 1)/27 for
   p = 2, so dN,2 ≥ 0.215 (my construction and computation, not the
