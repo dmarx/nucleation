@@ -1,19 +1,26 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmpu4i35) from the author's penultimate
+  draft (GPI Working Paper No. 6-2023, July 2023) on the Global Priorities
+  Institute's site; worth reading as a demonstration, inside the
+  longtermist's own expected-value framework, that high existential risk
+  lowers the value of reducing it unless risk soon falls and stays low.
 title: 'High Risk, Low Reward: A Challenge to the Astronomical Value of Existential Risk Mitigation'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, extending the line
-    of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
     Crossref: Philosophy & Public Affairs 51(4), 373–412; online
-    2023-08-22, so `published:` is that date (ADR-002). Unpaywall lists it
-    as open, CC BY.
+    2023-08-22, so `published:` is that date (ADR-002). Unpaywall lists
+    it as open, CC BY. Set Active the same day: read in full in
+    NOTE-tmpu4i35 from the author's penultimate draft (GPI Working Paper
+    No. 6-2023, July 2023) on the Global Priorities Institute's site,
+    not compared with the published text. The filing summary is replaced
+    by the reading's.
 tags:
 - future-generations
 - ethics
@@ -28,15 +35,14 @@ keywords:
 - 'expected value'
 implementations: []
 summary: >-
-  Thorstad (2023). Argues that pessimism about existential risk, often taken to strengthen the case for mitigating it, weakens it: if risk stays high, the expected future that mitigation protects is short. The astronomical value claims hold only on a "time of perils" hypothesis, that risk will soon fall sharply and stay low, which he argues is not well supported.
+  Thorstad (2023). Argues, inside expected-value reasoning and with no special ethical premises, that pessimism about existential risk weakens the case for mitigating it. On Ord's simple model, cutting this century's risk by a fraction is worth that fraction of one century, whatever the risk; with absolute cuts, value growth or cuts in every century, higher risk makes mitigation worth less. Astronomical value returns only on a "time of perils" hypothesis in which risk falls soon and stays very low, and he argues that appeals to growing wisdom, an existential risk Kuznets curve and space settlement do not support it. Mitigation may still be valuable, "but perhaps not astronomically so".
 ---
 
 # LIT-tmp37kk5: High Risk, Low Reward: A Challenge to the Astronomical Value of Existential Risk Mitigation
 
 Thorstad, D. (2023). *Philosophy & Public Affairs*, 51(4), 373–412.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmpu4i35, from the author's penultimate draft (GPI Working Paper No. 6-2023, July 2023) on the Global Priorities Institute's site.
 
 ## Why this is here
 

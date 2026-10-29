@@ -1,0 +1,298 @@
+---
+status: Read
+paper: LIT-tmp37kk5
+title: 'High Risk, Low Reward: A Challenge to the Astronomical Value of Existential Risk Mitigation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the Global Priorities Institute working paper (GPI
+    Working Paper No. 6-2023, July 2023; 52 pages with proofs, an appendix
+    of further models and references), a penultimate draft marked
+    forthcoming in Philosophy & Public Affairs, on GPI's own site. The
+    published version is CC BY, but Wiley refused the download, so it was
+    not compared. The copy has no printed page numbers, so citations are
+    by section. Blind-review redactions ("[removed]") remain in it.
+date: '2026-10-29'
+summary: >-
+  On Ord's simple model, with constant per-century risk r and constant
+  value v per century, cutting this century's risk by a fraction f is
+  worth fv, whatever r is: halving 20% risk is worth the same as halving
+  2%. Absolute cuts are worth fv/r, linear and quadratic value growth give
+  fv/r and fv(2 - r)/r^2, and cutting risk in every century gives
+  (f/(1 - f))(v/r). In each, higher risk lowers the value of mitigation. At
+  20% risk a 10% cut is worth 0.5v to 4.5v. Astronomical value returns only
+  if risk falls soon and stays very low (a time of perils of two centuries
+  and 0.01% afterwards gives 160v). Thorstad finds the arguments for that
+  hypothesis (wisdom, an existential risk Kuznets curve, space settlement)
+  weak.
+---
+<!-- inactive-ok-file: QUESTION-tmpmx9ha CLAIM-tmpjylq8 CLAIM-tmprudek LIT-tmp1we1q LIT-tmph7mkx LIT-tmpr74qy LIT-tmpklw8s LIT-tmp0ocqn LIT-tmpk6b4i LIT-tmpl4qml LIT-tmp12vk2 — Open, Proposed or Deferred; the question, thesis and objection this reading bears on, and the works it argues with or beside -->
+
+# NOTE-tmpu4i35: High Risk, Low Reward: A Challenge to the Astronomical Value of Existential Risk Mitigation
+
+## Contribution
+
+It separates two claims that are usually defended together. The
+astronomical value thesis says the best options for reducing existential
+risk today have astronomical value. Existential risk pessimism says the risk
+this century is high, about 20%. Thorstad shows with simple models that
+the second undercuts the first, and that reconciling them needs a specific
+empirical hypothesis he finds poorly supported. He uses no premises a
+totalist expected-utility theorist would reject.
+
+## Key insight
+
+If risk stays high, the future that a rescue saves is short. Reducing risk
+this century only buys more time in a world that is still dangerous, so
+the more dangerous the world, the less a rescue is worth. Thorstad's
+illustration (§3.4): a 20% daily chance of death over a weekend, after
+which you will probably live long, makes it worth investing in surviving
+the weekend. A 20% daily chance every day for a year does not. You are
+unlikely to survive whatever you do, and you should make the year a good
+one.
+
+## Assumptions
+
+- **Standard expected utility, read consequentially**, compatible with
+  totalism (§1). The paper avoids the decision-theoretic and
+  population-ethical objections others have pressed.
+- **The Simple Model** (§2), from Ord: a constant value v per century, a
+  constant per-century risk r, and every existential catastrophe is
+  extinction, after which no value is realized.
+- **Pessimism is set at 20% this century**, after Ord's one in six, Rees's
+  50% chance of collapse by 2100 and the 2008 Oxford conference's median
+  19% chance of extinction (§1).
+- **The intervention acts on this century's risk only**, except in §3.3.
+
+## Key results
+
+- **The Simple Model** (§2). The world is worth v(1 − r)/r: four centuries
+  at r = 20%, nearly a thousand at 0.1%. An action X that cuts this
+  century's risk by the fraction f is worth exactly fv. So:
+  - pessimism is irrelevant: "Halving existential risk from 20% to 10% has
+    the same value as halving it from 2% to 1%";
+  - the value is capped at one century, v. Cutting risk by one trillionth
+    is worth one trillionth of a century, which lifting a few people out of
+    poverty may beat.
+- **Four modifications** (§3).
+  - **Absolute reduction** (§3.1), from r to r − f: worth fv/r. Higher risk
+    now lowers value: a cut is a hundred times more valuable at 0.2% than
+    at 20%.
+  - **Value growth** (§3.2). Linear growth gives fv/r; quadratic, in which
+    the Nth century is worth N² times this one, gives fv(2 − r)/r². A 10%
+    relative cut (Table 1):
+
+    | | r = 0.2 | 0.02 | 0.002 | 0.0002 |
+    |---|---|---|---|---|
+    | linear | 0.5v | 5v | 50v | 500v |
+    | quadratic | 4.5v | 495v | 49,950v | 5 × 10^6 v |
+
+    Under quadratic growth, 20% risk devalues mitigation by a factor of
+    almost 10,000 against 0.2%.
+  - **Cutting risk in every century** (§3.3): worth (f/(1 − f))(v/r),
+    unbounded in f. But at r = 20%, a 10% cut in every century is worth
+    five-ninths of a century, and a 90% cut 45 centuries. Cutting risk to
+    zero for N centuries is worth only N centuries.
+  - **The time of perils** (§3.4). Risk r for N centuries, then a lower
+    post-peril risk r_l. The world is a probability-weighted average of a
+    perilous and a safe world, with Pr(SAFE) = (1 − r)^N. A cut f in this
+    century is worth fv[1 − (1 − r)^N] + fr(1 − r)^(N−1) V_SAFE. The first
+    term is at most v; the second, the "crucial factor", decays
+    exponentially in N and needs r_l small. With r = 20% and f = 10%
+    (Table 2):
+
+    | | N = 2 | 5 | 10 | 20 | 50 |
+    |---|---|---|---|---|---|
+    | r_l = 0.01 | 1.6v | 0.9v | 0.4v | 0.1v | 0.1v |
+    | r_l = 0.001 | 16.0v | 8.3v | 2.8v | 0.4v | 0.1v |
+    | r_l = 0.0001 | 160.0v | 82v | 26.9v | 3.0v | 0.1v |
+
+    So the time of perils grounds astronomical value only if the perilous
+    period is short and post-peril risk very low.
+- **The gap** (§3.5). Pessimists think risk is high because of new
+  technology. Future technology will be stronger, which by the same reasoning
+  suggests higher risk, not lower.
+- **Three arguments for a time of perils, found wanting.**
+  - **Wisdom** (§4). Sagan, Ord and Bostrom say little about how wisdom
+    would grow, or why it would cut risk sharply and soon. Of Ord's
+    civilizational virtues:
+    - **Unity.** It makes humanity act for humanity as a whole, not each
+      nation for itself. But several nations already hold at least 5% of
+      the world's people and two over 15%, so unifying them could raise
+      the importance of risk reduction at most twentyfold.
+    - **Patience.** It is limited by voters: "one might reasonably expect
+      constituents to reject any system of government that acted with
+      substantially more patience than the average voter".
+  - **An existential risk Kuznets curve** (§5). Aschenbrenner's growth
+    model, with risk δ_t = δ C_t^ε H_t^(−β) (C consumption, H safety),
+    shows optimal allocation shifting to safety and driving risk toward
+    zero. Thorstad's doubts:
+    - pessimists think technology, not consumption, drives the main
+      risks (AI, bioterrorism), and technology enters the model as an
+      input to both sectors;
+    - more labour cannot buy safety from some risks, and safety research
+      can add risk (asteroid deflection);
+    - allocation is not optimal, since safety is a global public good.
+  - **Settling the stars** (§6). It protects against natural risk, which
+    Ord puts at one in 10,000 this century, against one in six overall
+    (climate change, one in 1000). It does little soon against AI or
+    engineered pandemics, and protection between star systems is
+    millennia away.
+- **Implications** (§7).
+  - **Demandingness** (§7.1). Pessimism returns the objection to its
+    original form, sacrifice for present people, not for future ones.
+  - **Longtermism** (§7.2). Without a time of perils, pessimism may leave
+    mitigation insufficient to ground Greaves and MacAskill's axiological
+    strong longtermism in many decisions, removing "a popular argument"
+    for it.
+  - **Discounting** (§7.3). High risk discounts the future through
+    uncertainty alone, so critics of longtermism need not appeal to pure
+    time preference.
+  - **Mitigation** (§7.4). It may still be valuable, and some efforts may
+    be justified "only by their benefits for agents alive today". But
+    "pessimism is a hindrance rather than a support".
+- **Appendix B.** Cubic growth gives f(r² − 6r + 6)/r³: at r = 0.2, 0.02,
+  0.002 and 0.0002, a 10% cut is worth 60.5v, 73,505v, 7.5 × 10^7 v and
+  7.5 × 10^10 v. Exponential growth diverges when growth outstrips risk;
+  when it does not, it behaves like the quadratic case.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | On the Simple Model, the value of cutting this century's risk by a fraction is independent of the level of risk and capped at one century's value | strong: proved | §2, Appendix A |
+| C2 | Across absolute reduction, value growth up to cubic, and reduction in all centuries, higher existential risk lowers the value of mitigating it | strong within the models: proved | §3, Appendices A–B |
+| C3 | Pessimism and the astronomical value thesis can be held together only on a time of perils with a short perilous period and very low post-peril risk | moderate: shown for this family of models; other models are not ruled out | §3.4–3.5 |
+| C4 | The arguments for such a time of perils (wisdom, a Kuznets curve, space settlement) do not establish it | moderate: critical discussion; AI-based arguments are expressly not addressed | §§4–6, fn. 7 |
+| C5 | Existential risk pessimism weakens a popular argument for axiological strong longtermism and can replace pure time preference in discounting | moderate: follows from C2–C4 | §7.2–7.3 |
+
+## Concepts
+
+- **astronomical value thesis**: the best available options for reducing
+  existential risk today have astronomical value.
+- **existential risk pessimism**: risk this century is very high, about
+  20%.
+- **existential risk** (Bostrom 2013, p. 15, as quoted): "the premature
+  extinction of Earth-originating intelligent life or the permanent and
+  drastic destruction of its potential for desirable future development".
+- **time of perils hypothesis**: risk stays high for several centuries,
+  then drops to a low level if humanity survives (after Sagan).
+- **crucial factor**: fr(1 − r)^(N−1) V_SAFE, the part of a risk cut's
+  value that comes from raising the chance of reaching safety.
+- **relative versus absolute risk reduction**: from r to (1 − f)r, versus
+  from r to r − f.
+
+## Connections
+
+- **Greaves and MacAskill (LIT-tmp1we1q).** Thorstad quotes their
+  axiological strong longtermism from the 2021 working paper and argues
+  that pessimism removes the existential-risk route to it. He leaves the
+  other routes open.
+- **Bostrom (LIT-tmph7mkx, LIT-tmpr74qy).** Bostrom 2013 supplies the
+  definition of existential risk and is cited, with Ord, for mitigation
+  being astronomically more valuable than tackling poverty or global
+  health. Thorstad's models test that comparison. Bostrom 2003 is cited
+  for a species "extinguished in its infancy".
+- **Tarsney (LIT-tmpklw8s).** Each supplies what the other assumes away.
+  - Tarsney holds the far-future hazard constant from 1000 years out and
+    takes as given the change in the chance of getting there. Thorstad
+    shows that, if risk stays high, that change is small.
+  - Thorstad uses point estimates. Tarsney shows that small credences in
+    low far-future risk restore astronomical expected value. Inference:
+    a small credence in a short time of perils with very low post-peril
+    risk would likely do the same here, at the cost of Tarsney's
+    fanaticism worry. Thorstad raises fanaticism only for infinite value
+    (fn. 4).
+  - Appendix B cites Tarsney 2022 for cubic growth with delayed onset.
+- **Ord (LIT-tmp0ocqn)** supplies the Simple Model, the one-in-six
+  estimate and the civilizational virtues. MacAskill (LIT-tmpk6b4i) is
+  cited for longtermism's public reach.
+- **Scheffler and Kolodny (LIT-tmpl4qml)** are cited for the loss of all
+  nations, cultures and families as part of what extinction would mean.
+  That is the ground of QUESTION-tmpmx9ha that rests on what the living
+  value; the paper does not take it up.
+- **Gardiner.** The paper cites his 2004 survey of climate ethics against
+  pure time preference, not the "perfect moral storm" paper the record
+  holds (LIT-tmp12vk2).
+
+## Bearing on the record
+
+- **QUESTION-tmpmx9ha.** It bears on the impersonal ground and on the
+  "can longtermism guide action" line. Within the impersonal view, it
+  shows that the expected size of the future does not pass to the value of
+  present mitigation unless risk falls soon and stays low. Thorstad
+  concludes that mitigation may be valuable "but perhaps not astronomically
+  so", and some of it is justified by benefits to people alive now.
+- **The owner's thesis (CLAIM-tmpjylq8).** The paper is about value, not
+  motivation. Its bearing is indirect, and these are inferences.
+  - If pessimists are right about the risk, the impersonal case for
+    putting the far future first is weaker. More of what consequentialism
+    demands goes to present people (§7.1), and some mitigation is
+    justified by what it does for people alive today (§7.4). Concern for
+    present people, and for one's own and one's children's survival, is
+    concern that an extended self can hold. So the hardest case for the
+    thesis, concern for far-future strangers that is owed and acted on,
+    carries less normative weight.
+  - In passing, §4 states the thesis's shape and measures it. Unity makes
+    humanity act "with a view to the interests of humanity as a whole,
+    instead of each nation pursuing its own interest", and the gain is
+    bounded by how far the constituency grows (at most twentyfold). That
+    is self-interest on a larger self, nation to humanity, treated as a
+    real mechanism with a size.
+  - The patience remark makes the motivational point directly. Governments
+    will not be more patient than their voters. If voters' patience is
+    bounded by what their selves include, that bound limits far-future
+    action whatever the axiology says. Thorstad offers this as a
+    plausible expectation, without evidence.
+- **The triviality objection (CLAIM-tmprudek).** Not addressed. As with
+  Tarsney, §7.3 supplies a confound for its test across generations:
+  concern may fade with time through rational discounting for risk,
+  without any shrinking of the self.
+- **No dated note on CLAIM-tmpjylq8.** The unity passage is a line, not an
+  argument, and the paper's bearing goes through QUESTION-tmpmx9ha (section
+  3 below).
+- **No THEORY filed.**
+- **No ML instruction.**
+
+## Limitations
+
+- **Simple models.** Constant value per century, a step change in risk,
+  and extinction as the only catastrophe. Non-extinction catastrophes are
+  set aside (fn. 2).
+- **Point estimates only.** No uncertainty over r, N or r_l is modelled,
+  which is where Tarsney finds longtermism's strength.
+- **The strongest argument for a time of perils is left aside**: that
+  advanced AI might end it (fn. 7).
+- **The critiques of the three arguments are qualitative.** No model of
+  wisdom or space settlement is given.
+- **Not compared with the published version**, and cited by section only.
+- **Typos and slips.**
+  - "lived Greaves and MacAskill 2021)" lacks its opening parenthesis (§1).
+  - The value of action X in §3.4 is written "V[W]".
+  - §3.4 says that a two-century perilous period with "a low 0.1% level of
+    post-peril risk" makes X worth 160 centuries. Table 2 gives 160.0v for
+    r_l = 0.0001 (0.01%) and 16.0v for 0.1%, and the formula agrees with
+    the table.
+  - "rather by slowing consumption" for "rather than by" (§5).
+  - In Appendix A, the first line of the absolute-reduction proof repeats
+    the relative factor (1 − (1 − f)r) where (1 − (r − f)) is meant; the
+    next line is right.
+  - Appendix B calls w = 0.2 "20% annual value growth", though a is growth
+    per century; it also names "Adamcewski" as a source of linear-growth
+    models, a name absent from the references.
+  - "[removed]" stands for redacted citations seven times: §1, §2,
+    §7.2 (four times) and §7.4.
+
+## Open questions
+
+- With credences over N and r_l instead of point values, how much
+  credence in a short time of perils and low post-peril risk restores
+  astronomical value? That would join this paper to Tarsney's
+  (LIT-tmpklw8s).
+- Is lay concern for future generations sensitive to perceived risk the
+  way these models say rational concern should be? If people who expect
+  catastrophe care less about the far future, that fits the model. If they
+  care more, something other than expected value moves them, perhaps the
+  self.
