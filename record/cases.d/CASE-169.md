@@ -158,9 +158,9 @@ edge cases invented to distinguish definitions").
 ## Note of 2026-10-29: the advisory opinion and Human Rights Watch, read
 
 Two of the case's four sources are now read, so "every source is
-registered unread" no longer holds. The ICJ's advisory opinion, LIT-1589,
-is read in NOTE-tmp87q7f, and the Human Rights Watch report, LIT-1593, in
-NOTE-tmpask7i. Jeffery's two works, LIT-1620 and LIT-1598, are
+registered unread" no longer holds. The ICJ's advisory opinion, [LIT-1589](../literature.d/LIT-1589.md),
+is read in [NOTE-tmp87q7f](../notes.d/NOTE-tmp87q7f.md), and the Human Rights Watch report, [LIT-1593](../literature.d/LIT-1593.md), in
+[NOTE-tmpask7i](../notes.d/NOTE-tmpask7i.md). Jeffery's two works, [LIT-1620](../literature.d/LIT-1620.md) and [LIT-1598](../literature.d/LIT-1598.md), are
 Unavailable.
 
 - **The advisory opinion.** The case's sentence that the Court "treated
@@ -170,7 +170,7 @@ Unavailable.
   declines the one about the displaced. Return gets one sentence (para.
   181), addressed to the General Assembly, and no operative point. A
   settlement between states that met every operative point would leave
-  CLAIM-361's return claim untouched. The "people" in the opinion is the
+  [CLAIM-361](../claims.d/CLAIM-361.md)'s return claim untouched. The "people" in the opinion is the
   people of the colony of Mauritius; the Chagossians appear as "Mauritian
   nationals, including those of Chagossian origin" (para. 181), so whose
   self-determination is at stake is fixed by the territorial frame.

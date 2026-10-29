@@ -205,12 +205,12 @@ persuasion bias are still not among the rivals.
 
 ## Note of 2026-10-29: three of the predecessors, read
 
-Holme and Newman (LIT-1128), Gross and Blasius (LIT-1139) and DeMarzo,
-Vayanos and Zwiebel (LIT-1134) are now read, so the summary's "registered
+Holme and Newman ([LIT-1128](../literature.d/LIT-1128.md)), Gross and Blasius ([LIT-1139](../literature.d/LIT-1139.md)) and DeMarzo,
+Vayanos and Zwiebel ([LIT-1134](../literature.d/LIT-1134.md)) are now read, so the summary's "registered
 unread" and the note of 2026-10-21's "still unread" no longer hold for
 them. Each sets a different floor.
 
-- **Holme and Newman** (NOTE-tmpnzvd7). It has no influence weights, no
+- **Holme and Newman** ([NOTE-tmpnzvd7](../notes.d/NOTE-tmpnzvd7.md)). It has no influence weights, no
   authority, no evidence and no turnover: opinions are labels, every tie
   is equal, and the dynamics is absorbing. What it reproduces
   economically is fragmentation into like-minded camps against one
@@ -218,7 +218,7 @@ them. Each sets a different floor.
   being influenced by them, with a critical point between. It cannot
   express an outcome that depends on who has authority over whom. An
   answer here that rests on fragmentation alone would be matched by it.
-- **Gross and Blasius** (NOTE-tmpwffnc). The review supplies vocabulary
+- **Gross and Blasius** ([NOTE-tmpwffnc](../notes.d/NOTE-tmpwffnc.md)). The review supplies vocabulary
   and a list of mechanisms, not tools: no model in it has authority or
   role, and its only weighted, directed cases are coupled oscillators.
   Two items bear. Like-and-like reinforcement producing persistent leader
@@ -227,7 +227,7 @@ them. Each sets a different floor.
   state plus topology, is the kind of economical reduction "as
   economically" invites. Its summary of Holme and Newman is wrong, so it
   should not be used as a pointer to that model.
-- **DeMarzo, Vayanos and Zwiebel** (NOTE-tmpsm8b9). The fixed-weight model
+- **DeMarzo, Vayanos and Zwiebel** ([NOTE-tmpsm8b9](../notes.d/NOTE-tmpsm8b9.md)). The fixed-weight model
   already gives one of A15's suite, capture without fidelity: by its
   Theorem 2 an unbalanced network's consensus departs from the
   precision-weighted optimum with no change in anyone's accuracy. Its
@@ -236,7 +236,7 @@ them. Each sets a different floor.
   listening matrix. Whatever the coupled model claims beyond
   position-weighted consensus has to come from moving weights.
 
-Guida, Minutola and Presti, LIT-1218 (NOTE-tmp2mtd7), demand that an
+Guida, Minutola and Presti, [LIT-1218](../literature.d/LIT-1218.md) ([NOTE-tmp2mtd7](../notes.d/NOTE-tmp2mtd7.md)), demand that an
 agent's leverage be measured independently of how far its output
 spreads. That is the circularity guard an answer here needs.
 

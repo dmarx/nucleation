@@ -85,7 +85,7 @@ favourably. A1 added that its direct replication record is limited.
 
 ## Note of 2026-10-29: the Autobiography, read
 
-The Autobiography, LIT-1402, is now read in full (NOTE-tmp7r4s0). The case
+The Autobiography, [LIT-1402](../literature.d/LIT-1402.md), is now read in full ([NOTE-tmp7r4s0](../notes.d/NOTE-tmp7r4s0.md)). The case
 tells the anecdote as the text does, and its standing as the anecdote's
 is right. Two details can be added. Franklin describes the member as "a
 gentleman of fortune and education, with talents that were likely to give
@@ -93,7 +93,7 @@ him, in time, great influence in the House", and gives the profit of the
 clerkship as his reason for winning him over. The text gives no name for
 the member.
 
-On CLAIM-275: Franklin's own account of why it worked is the maxim,
+On [CLAIM-275](../claims.d/CLAIM-275.md): Franklin's own account of why it worked is the maxim,
 not an interpretation that followed the act, and the text says nothing
 about what the member came to think. So the anecdote fits the claim's
 shape and does not show its mechanism, as "What it does not show" already

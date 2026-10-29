@@ -182,7 +182,7 @@ specialization") is [QUESTION-100](QUESTION-100.md)'s and [QUESTION-087](QUESTIO
 ## Note of 2026-10-29: invasion graphs, the mean-field flow, and three more readings
 
 Hofbauer and Schreiber's invasion graphs, which "What would answer it"
-names, are LIT-1233, now read (NOTE-tmphiq73). This question's λ_i is
+names, are [LIT-1233](../literature.d/LIT-1233.md), now read ([NOTE-tmphiq73](../notes.d/NOTE-tmphiq73.md)). This question's λ_i is
 exactly their r_i(µ), and the reading adds two conditions the question
 should carry.
 
@@ -193,7 +193,7 @@ should carry.
   replacement among operators, rock–paper–scissors among roles, every
   recovery exponent can be positive and coexistence still fail.
 
-Chizat and Bach, LIT-1232 (NOTE-tmpbs06i), give the question a hard
+Chizat and Bach, [LIT-1232](../literature.d/LIT-1232.md) ([NOTE-tmpbs06i](../notes.d/NOTE-tmpbs06i.md)), give the question a hard
 precondition in their model. Gradient flow transports mass and never
 creates it, so recovery from rarity is available only where some mass
 already sits. Units that start identical, at a single point rather than
@@ -203,19 +203,19 @@ fails with 15 particles and succeeds with 30.
 
 Three more readings bear.
 
-- Marsland, Cui and Mehta, LIT-1230 (NOTE-tmp1i8u8): under symmetric
+- Marsland, Cui and Mehta, [LIT-1230](../literature.d/LIT-1230.md) ([NOTE-tmp1i8u8](../notes.d/NOTE-tmp1i8u8.md)): under symmetric
   resource competition, differentiated specialists that each recover from
   rarity are exactly the binding constraints, and assembly cannot undo an
   invasion except by killing species. Revision of authority in an
   analogue built on that class needs an external removal or an
   asymmetry.
-- Power et al., LIT-1235 (NOTE-tmpc6gy4): the long-run breakdown, one
+- Power et al., [LIT-1235](../literature.d/LIT-1235.md) ([NOTE-tmpc6gy4](../notes.d/NOTE-tmpc6gy4.md)): the long-run breakdown, one
   attractor outcompeting the other, is an instance of the third outcome,
   entrenched asymmetry, emerging from initially balanced memory.
-- Letten, Ke and Fukami, LIT-1237 (NOTE-tmph7u5a), locate Chesson's
+- Letten, Ke and Fukami, [LIT-1237](../literature.d/LIT-1237.md) ([NOTE-tmph7u5a](../notes.d/NOTE-tmph7u5a.md)), locate Chesson's
   stabilizing mechanism in impacts: an operator that limits itself more
   than others through what it does to a shared resource. Divergent
   requirements alone mostly equalize.
 
-Chesson, LIT-1219, which the summary and the first outcome cite as
+Chesson, [LIT-1219](../literature.d/LIT-1219.md), which the summary and the first outcome cite as
 unread, is now Unavailable. The question is unchanged and stays Open.

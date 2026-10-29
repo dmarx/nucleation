@@ -80,14 +80,14 @@ account of recovery dynamics.
 
 Two works read on this date bear on the question.
 
-- Mehta, Cui, Wang and Marsland, LIT-1231 (NOTE-tmpwkbtk): in random
+- Mehta, Cui, Wang and Marsland, [LIT-1231](../literature.d/LIT-1231.md) ([NOTE-tmpwkbtk](../notes.d/NOTE-tmpwkbtk.md)): in random
   quadratic programming the variance σ_c of the constraint vectors sets
   how many components survive, and more differentiated constraints
   coexist more. That is a large-system instance of the suggestion above,
   with the supply K and the costs m entering through the growth rates, as
-  CASE-118 found for two components.
-- Chizat and Bach, LIT-1232 (NOTE-tmpbs06i), supply no spectral
+  [CASE-118](../cases.d/CASE-118.md) found for two components.
+- Chizat and Bach, [LIT-1232](../literature.d/LIT-1232.md) ([NOTE-tmpbs06i](../notes.d/NOTE-tmpbs06i.md)), supply no spectral
   condition. Their coexistence notion is first-order, the sign of F′, not
-  the growth-rate comparison CASE-118 uses.
+  the growth-rate comparison [CASE-118](../cases.d/CASE-118.md) uses.
 
 The question is unchanged and stays Open.

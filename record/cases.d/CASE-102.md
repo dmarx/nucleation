@@ -85,14 +85,14 @@ over different lags ([CLAIM-331](../claims.d/CLAIM-331.md)).
 ## Note of 2026-10-29: functional information measures the rarity, not the mechanism
 
 A10 named Hazen, Griffin, Carothers and Szostak's functional
-information, LIT-1148, for this case's repeated production of good
+information, [LIT-1148](../literature.d/LIT-1148.md), for this case's repeated production of good
 teams, and read it as function-relative and silent on whether successive teams are one
-individual. The work is now read (NOTE-tmpyxqnm), and both points hold.
+individual. The work is now read ([NOTE-tmpyxqnm](../notes.d/NOTE-tmpyxqnm.md)), and both points hold.
 It adds a third. The measure is taken over all configurations under a
 uniform weighting, explicitly not over what a selective process
 produces. So it can say how rare a good roster is among all rosters, but
 not why one program keeps drawing from the rare region. That is the
 mechanism this case asks about, and functional information leaves it
 untouched. A slow variable the members read, such as a program's
-standing (CLAIM-327), is the kind of thing that would. The case is
+standing ([CLAIM-327](../claims.d/CLAIM-327.md)), is the kind of thing that would. The case is
 unchanged.

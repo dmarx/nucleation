@@ -132,15 +132,15 @@ holding them, and their release when the United States sought it.
 
 ## Note of 2026-10-29: the order and the comparator, read
 
-The Supreme Court's order in *Noem v. Abrego Garcia*, LIT-1606, is now read
-(NOTE-tmpgunf9). The case's account of it is right. Two particulars can be
+The Supreme Court's order in *Noem v. Abrego Garcia*, [LIT-1606](../literature.d/LIT-1606.md), is now read
+([NOTE-tmpgunf9](../notes.d/NOTE-tmpgunf9.md)). The case's account of it is right. Two particulars can be
 added. The Court itself separated facilitating release from effectuating
 return, and left the second open. And it asked the government to "share
 what it can concerning the steps it has taken and the prospect of further
 steps": a court asking for the evidence behind a claim of inability
-before accepting it, which is QUESTION-279's move.
+before accepting it, which is [QUESTION-279](../questions.d/QUESTION-279.md)'s move.
 
-*El-Masri*, LIT-1619, is read too (NOTE-tmps22mh), and it marks what is
+*El-Masri*, [LIT-1619](../literature.d/LIT-1619.md), is read too ([NOTE-tmps22mh](../notes.d/NOTE-tmps22mh.md)), and it marks what is
 new here. Three differences.
 
 - **Where the routes of responsibility start.** In *El-Masri* they run from

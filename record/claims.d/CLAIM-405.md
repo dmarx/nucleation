@@ -165,10 +165,10 @@ refining the other.
 
 ## Note of 2026-10-29: a court's criterion, fixed in advance
 
-CASE-175 illustrates this claim with three boundaries for one detention
+[CASE-175](../cases.d/CASE-175.md) illustrates this claim with three boundaries for one detention
 arrangement: who held the prisoners, who selected and sent them, and who
-could bring about their release. *El-Masri*, LIT-1619, read in
-NOTE-tmps22mh, separates custody, control and responsibility in much the
+could bring about their release. *El-Masri*, [LIT-1619](../literature.d/LIT-1619.md), read in
+[NOTE-tmps22mh](../notes.d/NOTE-tmps22mh.md), separates custody, control and responsibility in much the
 same way, and on a criterion stated in advance: responsibility follows
 the State's having "assumed control over an individual" (§ 233) and its
 facilitation, wherever the custody then lay. Under that criterion the

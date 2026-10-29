@@ -167,7 +167,7 @@ Reported over 12 runs, not held. The claim is unchanged.
 
 ## Note of 2026-10-29: Cooper and West and Letten et al., read
 
-Cooper and West, LIT-1225, is now read (NOTE-tmpckr3f). The sentence the
+Cooper and West, [LIT-1225](../literature.d/LIT-1225.md), is now read ([NOTE-tmpckr3f](../notes.d/NOTE-tmpckr3f.md)). The sentence the
 note of 2026-10-18 gives "as A46 reads them", that specialization "may
 improve local coordination while simultaneously increasing the
 organization's vulnerability to the loss or capture of a specialist", is
@@ -184,7 +184,7 @@ intermediate; selection drives them to the extremes. A model of niche
 specialization among operators built on this logic would predict sharp
 roles, not graded ones.
 
-Letten, Ke and Fukami, LIT-1237 (NOTE-tmph7u5a), locate a stabilizing
+Letten, Ke and Fukami, [LIT-1237](../literature.d/LIT-1237.md) ([NOTE-tmph7u5a](../notes.d/NOTE-tmph7u5a.md)), locate a stabilizing
 mechanism in Chesson's sense in impacts: an operator that limits itself
 more than others through what it does to a shared resource. Divergent
 requirements alone mostly equalize. So niche specialization among

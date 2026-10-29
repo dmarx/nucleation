@@ -120,15 +120,15 @@ well as "ordinary action" (A9).
 
 ## Note of 2026-10-29: Cover, read, holds part of it
 
-Of the four works "What it does not say" lists as unread, Cover, LIT-1601,
-is now read (NOTE-tmpns25g); Pettit, LIT-1614, Hillebrecht, LIT-1607, and
-Rosenberg, LIT-1615, are Unavailable. Cover holds a version of this claim
+Of the four works "What it does not say" lists as unread, Cover, [LIT-1601](../literature.d/LIT-1601.md),
+is now read ([NOTE-tmpns25g](../notes.d/NOTE-tmpns25g.md)); Pettit, [LIT-1614](../literature.d/LIT-1614.md), Hillebrecht, [LIT-1607](../literature.d/LIT-1607.md), and
+Rosenberg, [LIT-1615](../literature.d/LIT-1615.md), are Unavailable. Cover holds a version of this claim
 for courts. A court's capacity to correct by judgment depends on the role
 structure that carries judicial words into deeds through others, which is
 a different relation from the one that makes the judgment right. So the
 doubt that the claim is new is partly borne out. Cover does not treat the
 correction of one institution by others, which is this claim's subject.
-His account fits CASE-176, one of the claim's grounds, closely: the
+His account fits [CASE-176](../cases.d/CASE-176.md), one of the claim's grounds, closely: the
 police and the security contractor acted on the executive's papers, and a
 court's word could become a deed only if they would act on its. The claim
 is unchanged and stays Proposed.

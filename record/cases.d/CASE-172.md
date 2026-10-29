@@ -128,7 +128,7 @@ exchange's:
 A8 offered three works for this case. Two are now read and one is read in
 its introduction.
 
-- **Jasanoff, "Technologies of humility"**, LIT-1594 (NOTE-tmp4y156),
+- **Jasanoff, "Technologies of humility"**, [LIT-1594](../literature.d/LIT-1594.md) ([NOTE-tmp4y156](../notes.d/NOTE-tmp4y156.md)),
   offered for the breadth of harms that are hard to quantify in advance.
   That fits, with one adjustment: she writes about assessing a technology
   before it is adopted, not about counting the harm of a policy after it.
@@ -140,7 +140,7 @@ its introduction.
   does not restore: the cohort and the local research tradition. She gives
   no method for measuring either, so she supports "What it shows" and not
   any size of loss.
-- **Fiss, "The forms of justice"**, LIT-1600 (NOTE-tmpafym3). The formula
+- **Fiss, "The forms of justice"**, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-tmpafym3](../notes.d/NOTE-tmpafym3.md)). The formula
   "Reversal ≠ Repair ≠ Structural reform" is A8's, not Fiss's, but the
   distinction is in the paper: the dispute-resolution remedy corrects or
   prevents "a discrete event", while the structural remedy removes "a
@@ -148,10 +148,10 @@ its introduction.
   does not discuss restoring an earlier state; his structural suit
   presumes the existing arrangement is what threatens the value, which is
   this case's point that some relations should be dismantled.
-- **Herd and Moynihan, *Administrative Burden***, LIT-1609, of which only
-  the introduction is read (NOTE-tmpkbyme). It says burdens can restrict
+- **Herd and Moynihan, *Administrative Burden***, [LIT-1609](../literature.d/LIT-1609.md), of which only
+  the introduction is read ([NOTE-tmpkbyme](../notes.d/NOTE-tmpkbyme.md)). It says burdens can restrict
   access to a benefit or a right with no change to formal eligibility, so
-  that what is lost is the practical ability to use it. That is TERM-055's
+  that what is lost is the practical ability to use it. That is [TERM-055](../terms.d/TERM-055.md)'s
   operational availability carried from a resource to a right. Whether
   the chapters give a measure of that loss is not known; take-up is the
   introduction's only one.

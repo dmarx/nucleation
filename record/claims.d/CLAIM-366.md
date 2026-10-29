@@ -175,8 +175,8 @@ and the chart-invariant test is 0 ∉ conv{g_i}. The claim is unchanged.
 
 ## Note of 2026-10-29: a published source for the constructive half
 
-Désidéri's note on the multiple-gradient descent algorithm, LIT-1212, is
-now read (NOTE-tmpyrrxm). Its Lemma 2.1 and Theorem 2.2 are exactly the
+Désidéri's note on the multiple-gradient descent algorithm, [LIT-1212](../literature.d/LIT-1212.md), is
+now read ([NOTE-tmpyrrxm](../notes.d/NOTE-tmpyrrxm.md)). Its Lemma 2.1 and Theorem 2.2 are exactly the
 constructive half of A33's criterion as proved above: if 0 ∉ conv{g_i},
 the minimum-norm point of the hull gives a common strict descent
 direction. The converse, that zero in the hull excludes common strict

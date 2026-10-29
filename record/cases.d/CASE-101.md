@@ -92,9 +92,9 @@ transplantation, is the extension A4 proposed.
 
 ## Note of 2026-10-29: Krakauer et al. read, and the split into S and E
 
-LIT-1137 is now read (NOTE-tmpypk9d), so "unread" above no longer holds.
+[LIT-1137](../literature.d/LIT-1137.md) is now read ([NOTE-tmpypk9d](../notes.d/NOTE-tmpypk9d.md)), so "unread" above no longer holds.
 The reading confirms that arm A, common input, is where A* fails, as
-Bourrat argued and THEORY-424 holds. It adds a condition on the design.
+Bourrat argued and [THEORY-424](../theory.d/THEORY-424.md) holds. It adds a condition on the design.
 A conditions on the environment, so it scores the common-input arm near
 zero only if the common input is among the environment's variables. All
 three of Krakauer et al.'s measures are relative to the split between

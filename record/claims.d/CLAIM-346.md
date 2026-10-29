@@ -151,7 +151,7 @@ standard witness, not its proof. The record holds Arrow only through Sen
 
 ## Note of 2026-10-29: Halpern and Moses, read
 
-Halpern and Moses, LIT-1213, is now read (NOTE-tmpi6s63). Construction 3's
+Halpern and Moses, [LIT-1213](../literature.d/LIT-1213.md), is now read ([NOTE-tmpi6s63](../notes.d/NOTE-tmpi6s63.md)). Construction 3's
 argument is their informal induction of §4 and the formal one of Theorem
 5. Two precisions.
 
@@ -162,9 +162,9 @@ argument is their informal induction of §4 and the formal one of Theorem
   be Proposition 10 with Theorem 9.
 - **The attribution.** The paper credits the problem to Gray (1978) and
   cites Gallager (1979) and Yemini and Cohen (1979) for proofs. It does not
-  cite Akkoyunlu, Ekanadham and Huber (1975), LIT-1214, which the record
+  cite Akkoyunlu, Ekanadham and Huber (1975), [LIT-1214](../literature.d/LIT-1214.md), which the record
   files as the standard first source. The 1975 attribution above rests on
-  later usage, not on this paper. LIT-1214 is Unfetched, so it has not
+  later usage, not on this paper. [LIT-1214](../literature.d/LIT-1214.md) is Unfetched, so it has not
   been checked.
 
 Their Theorem 8 strengthens the obstruction: unreliable channels are not

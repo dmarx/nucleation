@@ -321,8 +321,8 @@ associations". The readings change that.
 
 ## Note of 2026-10-29: Cooper and West, read
 
-Cooper and West, LIT-1225, which "Why it is a question" lists as unread
-and as a sixth route, is now read (NOTE-tmpckr3f). The route is asserted
+Cooper and West, [LIT-1225](../literature.d/LIT-1225.md), which "Why it is a question" lists as unread
+and as a sixth route, is now read ([NOTE-tmpckr3f](../notes.d/NOTE-tmpckr3f.md)). The route is asserted
 in the paper's conclusion ("a driver, not a consequence"), not shown. The
 model ends at dependence, some individuals "completely dependent upon the
 helping behaviour of others", and has no higher-level unit. The question is unchanged.

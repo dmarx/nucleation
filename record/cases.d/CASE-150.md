@@ -71,7 +71,7 @@ NBER working paper in 2020.)
 
 ## Note of 2026-10-29: the outcomes checked
 
-LIT-1416 is now read (NOTE-tmpz95lz), in the NBER revision of March 2023,
+[LIT-1416](../literature.d/LIT-1416.md) is now read ([NOTE-tmpz95lz](../notes.d/NOTE-tmpz95lz.md)), in the NBER revision of March 2023,
 so "unread" no longer holds, and the flag on the outcome measures can be
 lifted. The outcomes are UN voting (S-, π- and κ-scores and ideal-point
 distance) and strategic rivalries (any, positional, spatial,

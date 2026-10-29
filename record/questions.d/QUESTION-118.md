@@ -182,18 +182,18 @@ Of the three candidate materials "What would count as an answer" lists as
 unread, two are now read and the third is Unavailable, so "all unread" no
 longer holds.
 
-- **Feldman and Pentland**, LIT-1124 (NOTE-tmpofse5), offer one candidate
+- **Feldman and Pentland**, [LIT-1124](../literature.d/LIT-1124.md) ([NOTE-tmpofse5](../notes.d/NOTE-tmpofse5.md)), offer one candidate
   for what must stay causally continuous: the ostensive aspect of a
   routine, as maintained by ongoing performance and by those with power to
   say which performances count. They do not discuss total turnover of
   performers, so they do not test whether a routine survives when every
   participant changes.
-- **Marquis and Tilcsik**, LIT-1144 (NOTE-tmpegckt), offer layered
+- **Marquis and Tilcsik**, [LIT-1144](../literature.d/LIT-1144.md) ([NOTE-tmpegckt](../notes.d/NOTE-tmpegckt.md)), offer layered
   imprints: a later sensitive period adds strata without removing earlier
   ones, so what stays continuous through change would be the older
   strata. The review does not test it, and every case it discusses fixes
   the bearer's identity by its legal or institutional existence.
-- **Cloutier and Ravasi**, LIT-1141, is Unavailable.
+- **Cloutier and Ravasi**, [LIT-1141](../literature.d/LIT-1141.md), is Unavailable.
 
 Neither reading separates continuation from independent reconstitution.
 The question is unchanged and stays Open.

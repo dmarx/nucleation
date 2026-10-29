@@ -173,7 +173,7 @@ exchange's:
 
 The two works A8 brought to this case are now read.
 
-- **Cover, "Violence and the word"**, LIT-1601 (NOTE-tmpns25g), which A8
+- **Cover, "Violence and the word"**, [LIT-1601](../literature.d/LIT-1601.md) ([NOTE-tmpns25g](../notes.d/NOTE-tmpns25g.md)), which A8
   called the single most relevant reading. It fits closely. That
   enforcement settled who held the building before any court settled who
   held the authority is Cover's warden choosing which paper to obey: the
@@ -185,7 +185,7 @@ The two works A8 brought to this case are now read.
   the case does not: the judge's remaining power is to withhold
   justification (n. 48), which a refusal to grant an order does not
   exercise.
-- **Fiss, "The forms of justice"**, LIT-1600 (NOTE-tmpafym3). A8's
+- **Fiss, "The forms of justice"**, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-tmpafym3](../notes.d/NOTE-tmpafym3.md)). A8's
   "Reversal ≠ Repair ≠ Structural reform" is A8's formula, not Fiss's, but
   the distinction is in the paper: the dispute-resolution remedy corrects
   or prevents "a discrete event", while the structural remedy removes "a

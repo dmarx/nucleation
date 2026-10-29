@@ -68,7 +68,7 @@ produce comparable effects in their immigration-policy experiment."
 
 ## Note of 2026-10-29: the paper, read
 
-LIT-1407 is now read (NOTE-tmpwypf3), so "unread" and "unchecked against
+[LIT-1407](../literature.d/LIT-1407.md) is now read ([NOTE-tmpwypf3](../notes.d/NOTE-tmpwypf3.md)), so "unread" and "unchecked against
 the paper" no longer hold. The description is right, and can be made
 exact.
 

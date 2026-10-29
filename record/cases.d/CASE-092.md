@@ -114,9 +114,9 @@ larger design.
 
 ## Note of 2026-10-29: two reflected-appraisal baselines, not one
 
-Friedkin's reflected-appraisal theory, LIT-1404, which the note of
-2026-10-23 calls registered unread, is now read (NOTE-tmpegm16), and the
-DeGroot–Friedkin analysis, LIT-1146, was read on 2026-10-24 (NOTE-1135).
+Friedkin's reflected-appraisal theory, [LIT-1404](../literature.d/LIT-1404.md), which the note of
+2026-10-23 calls registered unread, is now read ([NOTE-tmpegm16](../notes.d/NOTE-tmpegm16.md)), and the
+DeGroot–Friedkin analysis, [LIT-1146](../literature.d/LIT-1146.md), was read on 2026-10-24 ([NOTE-1135](../notes.d/NOTE-1135.md)).
 So "unread" no longer holds for either. The note treats them as one
 baseline. They are two, with different predictions.
 
@@ -128,9 +128,9 @@ baseline. They are two, with different predictions.
   power spread on random complete networks of sizes 5 and 10: median
   largest self-weight 0.29 and 0.13, never above 0.40.
 
-The comparison is filed as THEORY-tmpbnint, Proposed. A comparison of
+The comparison is filed as [THEORY-tmpbnint](../theory.d/THEORY-tmpbnint.md), Proposed. A comparison of
 this model with "DeGroot–Friedkin" should say which single-issue step it
 is compared with. Friedkin's paper is also a worked case of
-CLAIM-297's shape, authority on the next round set by success on the
+[CLAIM-297](../claims.d/CLAIM-297.md)'s shape, authority on the next round set by success on the
 last, in which that update concentrates authority. The design is
 unchanged.

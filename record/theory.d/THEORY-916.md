@@ -92,7 +92,7 @@ consensus; then x(s+1) = w(x(s)), the dominant left eigenvector of W.
 
 ## Note of 2026-10-29: the same rule under the Friedkin–Johnsen step
 
-Friedkin's reflected-appraisal theory, LIT-1404, read in NOTE-tmpegm16,
+Friedkin's reflected-appraisal theory, [LIT-1404](../literature.d/LIT-1404.md), read in [NOTE-tmpegm16](../notes.d/NOTE-tmpegm16.md),
 uses the same appraisal rule with a different single-issue step:
 Friedkin–Johnsen anchoring on initial positions instead of DeGroot
 consensus. Its model differs, so it is not a counter-example to this
@@ -101,4 +101,4 @@ printed on 300 random complete networks each of sizes 5, 10 and 20, every
 one ended with one self-weight above 0.99; the DeGroot–Friedkin update on
 100 random complete networks of sizes 5 and 10 gave a median largest
 self-weight of 0.29 and 0.13, never above 0.40. The comparison is
-THEORY-tmpbnint, Proposed. This account is unchanged and stays Proposed.
+[THEORY-tmpbnint](THEORY-tmpbnint.md), Proposed. This account is unchanged and stays Proposed.

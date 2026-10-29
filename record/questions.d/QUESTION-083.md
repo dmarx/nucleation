@@ -135,43 +135,43 @@ Eight works the synthesis of 2026-10-18 brought to this question are now
 read. Two are positive instances with a qualification, and the rest limit
 what an answer can borrow.
 
-- **Positive, in a narrow setting.** Cooper and West, LIT-1225
-  (NOTE-tmpckr3f): division of labour emerges with no group-level
+- **Positive, in a narrow setting.** Cooper and West, [LIT-1225](../literature.d/LIT-1225.md)
+  ([NOTE-tmpckr3f](../notes.d/NOTE-tmpckr3f.md)): division of labour emerges with no group-level
   selection and no coded roles, from kin selection on one shared rule,
-  with relatedness and a single task. Power et al., LIT-1235
-  (NOTE-tmpc6gy4): differentiated organization emerges, but with a
+  with relatedness and a single task. Power et al., [LIT-1235](../literature.d/LIT-1235.md)
+  ([NOTE-tmpc6gy4](../notes.d/NOTE-tmpc6gy4.md)): differentiated organization emerges, but with a
   coded-in constraint, the normalizing trade-off, which the authors say
   the result depends on (Appendix H) and which is imposed, not derived.
-  CLAIM-288's caveat, that this is organization from fixed local objectives
+  [CLAIM-288](../claims.d/CLAIM-288.md)'s caveat, that this is organization from fixed local objectives
   and not self-constitution, applies to both.
-- **History dependence, shown less than read.** Bunin, LIT-1234
-  (NOTE-tmpxeonz), derives where the unique outcome ends. That the
+- **History dependence, shown less than read.** Bunin, [LIT-1234](../literature.d/LIT-1234.md)
+  ([NOTE-tmpxeonz](../notes.d/NOTE-tmpxeonz.md)), derives where the unique outcome ends. That the
   alternative outcomes then depend on order of arrival is shown by
   simulation only, and "entrenchment of whatever gained influence early"
   is the synthesis's reading of that phase, which the paper does not test.
-- **Assembly end-points.** Hofbauer and Schreiber, LIT-1233
-  (NOTE-tmphiq73): the −i communities are assembly end-points, so whether
+- **Assembly end-points.** Hofbauer and Schreiber, [LIT-1233](../literature.d/LIT-1233.md)
+  ([NOTE-tmphiq73](../notes.d/NOTE-tmphiq73.md)): the −i communities are assembly end-points, so whether
   a role can be filled depends on the end-points reached without it, as
   the synthesis read them.
 - **Revision needs removal or asymmetry.** Marsland, Cui and Mehta,
-  LIT-1230 (NOTE-tmp1i8u8): under symmetric resource competition assembly
+  [LIT-1230](../literature.d/LIT-1230.md) ([NOTE-tmp1i8u8](../notes.d/NOTE-tmp1i8u8.md)): under symmetric resource competition assembly
   is monotone, and no assembly sequence can undo an invasion except by
   killing species.
-- **Where optimization ends.** Blumenthal, Rocks and Mehta, LIT-1236
-  (NOTE-tmpbd8io): loss of reciprocity produces chaos only when the
+- **Where optimization ends.** Blumenthal, Rocks and Mehta, [LIT-1236](../literature.d/LIT-1236.md)
+  ([NOTE-tmpbd8io](../notes.d/NOTE-tmpbd8io.md)): loss of reciprocity produces chaos only when the
   correlation ρ falls below √(S*/M*), so the limit of reading such a
   population as an optimizer is a boundary that depends on packing, not a
   point.
 - **The bridge to Chesson is two by two.** Letten, Ke and Fukami,
-  LIT-1237 (NOTE-tmph7u5a), translate Chesson's terms into resource
+  [LIT-1237](../literature.d/LIT-1237.md) ([NOTE-tmph7u5a](../notes.d/NOTE-tmph7u5a.md)), translate Chesson's terms into resource
   impacts for two species and two resources at a stable equilibrium.
   For many operators, Chesson's pairwise ρ does not by itself say whether
   the community coexists.
-- **Rare contexts are not modelled.** Li et al., LIT-1411
-  (NOTE-tmphutxm), prove specialization among identically initialized
+- **Rare contexts are not modelled.** Li et al., [LIT-1411](../literature.d/LIT-1411.md)
+  ([NOTE-tmphutxm](../notes.d/NOTE-tmphutxm.md)), prove specialization among identically initialized
   experts, but their tasks arrive uniformly, so whether a specialist for a
   rare context survives is not addressed.
 
-Chesson, LIT-1219, is now Unavailable, so the note of 2026-10-18's
+Chesson, [LIT-1219](../literature.d/LIT-1219.md), is now Unavailable, so the note of 2026-10-18's
 recommendation to read it first stays unmet. The question is unchanged
 and stays Open.

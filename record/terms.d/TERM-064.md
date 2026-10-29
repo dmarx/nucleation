@@ -227,12 +227,12 @@ the term takes the task-loss form above or stays qualitative.
 
 ## Note of 2026-10-29: legible, taken up, and not executed
 
-Cover's "Violence and the word", LIT-1601, read in NOTE-tmpns25g, adds the
+Cover's "Violence and the word", [LIT-1601](../literature.d/LIT-1601.md), read in [NOTE-tmpns25g](../notes.d/NOTE-tmpns25g.md), adds the
 step after legibility and uptake. The record's accounts are about whether
 a distinction or a contribution reaches an institution and is taken up by
 it. Cover asks whether the institution's judgment then becomes an act on
 bodies, through others who must be willing to act on it. A judgment can
-be legible and taken up and still not be executed. In CASE-176 the
+be legible and taken up and still not be executed. In [CASE-176](../cases.d/CASE-176.md) the
 legibility of a claim to an enforcer stood in for its validity; Cover's
 warden, choosing which paper to obey, is the same relation seen from the
 enforcer's side. The term is unchanged.

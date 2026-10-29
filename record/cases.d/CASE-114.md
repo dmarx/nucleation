@@ -147,14 +147,14 @@ distributed one changes error correction or self-governance.
 
 ## Note of 2026-10-29: choice blindness, read
 
-Johansson, Hall, Sikström and Olsson, LIT-1417, which the note of
-2026-10-23 calls registered unread, is now read (NOTE-tmpxiuw0). A5's
+Johansson, Hall, Sikström and Olsson, [LIT-1417](../literature.d/LIT-1417.md), which the note of
+2026-10-23 calls registered unread, is now read ([NOTE-tmpxiuw0](../notes.d/NOTE-tmpxiuw0.md)). A5's
 "reported authorship and actual causal history can diverge" is right for
 it, and narrowly. What it shows is that a reason can be produced for an
 outcome one did not choose and be indistinguishable on eight measures from
 a reason for one's real choice. It does not show that ordinary reasons are
 confabulated: the authors raise that "radical reading" and leave it open,
 and the reports that did name the original choice show that some reports
-carry the real one. Nisbett and Wilson, LIT-1410, is Unfetched. The case's
+carry the real one. Nisbett and Wilson, [LIT-1410](../literature.d/LIT-1410.md), is Unfetched. The case's
 own limit stands: nothing here bears on whether representing a central
 controller changes error correction. The design is unchanged.

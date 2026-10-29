@@ -83,13 +83,13 @@ display to memory. Realized deployment can therefore fall below α, as in
 
 ## Note of 2026-10-29: carried from a resource to a right
 
-Herd and Moynihan's *Administrative Burden*, LIT-1609, read in its
-introduction only (NOTE-tmpkbyme), uses this term's sense for a right.
+Herd and Moynihan's *Administrative Burden*, [LIT-1609](../literature.d/LIT-1609.md), read in its
+introduction only ([NOTE-tmpkbyme](../notes.d/NOTE-tmpkbyme.md)), uses this term's sense for a right.
 Burdens can restrict access to a benefit or a right with no change to
 formal eligibility, so that what is lost is the practical ability to use
 it: the right is present and known, and not deployable before the
 deadline. That is the separation of deployability from presence and from
-knowing it is present, applied to rights, as A8 proposed for CASE-172.
+knowing it is present, applied to rights, as A8 proposed for [CASE-172](../cases.d/CASE-172.md).
 Whether the book's chapters give a measure of that loss is not known from
 this reading; take-up is the introduction's only one. The term is
 unchanged.
