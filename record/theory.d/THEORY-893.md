@@ -11,7 +11,7 @@ promote_when: >-
   or falls, replicated outside the originating laboratories. A review,
   however thorough, cannot settle it.
 title: 'Reward has separable components: ''liking'', its hedonic impact, measurable without report by orofacial taste reactivity in humans, apes, monkeys and rodents, and ''wanting'', its incentive salience; brain stimulation and sensitization can raise ''wanting'' without raising ''liking'', so motivation can grow while pleasure stays flat or falls, and ''liking'' reactions can occur without any subjective feeling of pleasure'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,15 @@ history:
     The tenth status review (ADR-057) added a dated note saying what
     holds it back: the dissociation is held only through a review, with no
     primary study read. The claim and its status are unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The eleventh status review (ADR-057, ADR-058, ADR-060). CLAIM-447
+    moved from supports to corroborates: the sentence it cites this
+    reading for, pursuit against the person's own prediction, is
+    THEORY-895's result, and CLAIM-447 now lists this reading under
+    corroborated_by. QUESTION-266 added to bears_on, as the Connections
+    already said. The claim and its status are unchanged.
 tags:
 - emotion-and-affect
 - motivation
@@ -39,7 +48,10 @@ supports:
 - CLAIM-438
 - CLAIM-433
 - CLAIM-437
+corroborates:
 - CLAIM-447
+bears_on:
+- QUESTION-266
 ---
 <!-- inactive-ok-file: CLAIM-440 CLAIM-438 — Proposed; the account this reading bears on and the objection filed from it, cited as open -->
 

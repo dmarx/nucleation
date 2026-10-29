@@ -1,10 +1,10 @@
 ---
 number: 81
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpn361s
 title: 'Retaining information about the ancestor and drifting in the population''s distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,19 @@ history:
     no observation under it. Under ADR-043 that is interpretive, and a
     warrant is not inherited along rests_on. Status, statement and defeat
     condition are unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057). Proposed to Active: its premises
+    CLAIM-056, promoted by the tenth review, and CLAIM-270 are Active, no
+    objection is filed against it, and nothing in the record meets its
+    condition. It is a possibility thesis. CLAIM-270's two-state
+    constructions separate the two profiles for Markov chains in general,
+    and CLAIM-056 reads serial reconstruction as a composition of such
+    steps, so its condition, that the profiles always move together,
+    cannot be met while that reading holds. A chain in which retellers see
+    earlier generations is CLAIM-056's defeater, not this claim's. The
+    statement is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,7 +55,7 @@ summary: >-
 illustrated_by:
 - CASE-017
 ---
-<!-- inactive-ok-file: CLAIM-056 CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-081: Retaining information about the ancestor and drifting in the population's distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation
 

@@ -18,8 +18,27 @@ promote_when: >-
   sensitization-like cue reactivity produced by a non-drug reinforcement
   schedule in a prospective design, not cross-sectional cue reactivity in
   people already diagnosed.
-title: 'Incentive sensitization: repeated drug exposure can make the mesolimbic ''wanting'' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while ''liking'' need not rise and may fall; sensitized ''wanting'' can oppose the person''s cognitive desire and can run without any reportable change in feeling'
-version: 1
+title: 'Incentive sensitization: repeated drug exposure can make the mesolimbic ''wanting'' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while ''liking'' need not rise and may fall; sensitized ''wanting'' can oppose the person''s cognitive desire, and incentive salience can run without any reportable change in feeling'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The eleventh status review (ADR-057) added a dated note saying what
+    holds it back: sensitization is held only through its authors' review,
+    and the claims grounded in it use the result, not the proposal, so a
+    split would free nothing. The title's last clause now follows the
+    review's attribution: it says of incentive salience in general, on
+    subliminal-cue studies it cites, not of sensitized 'wanting', that it
+    can run without reportable feeling. The old title: Incentive
+    sensitization: repeated drug exposure can make the mesolimbic
+    'wanting' system lastingly hyper-reactive to drug cues and contexts,
+    so that cue-triggered incentive salience grows, persists for years and
+    even increases during abstinence, while 'liking' need not rise and may
+    fall; sensitized 'wanting' can oppose the person's cognitive desire
+    and can run without any reportable change in feeling. QUESTION-267 and
+    QUESTION-268 added to bears_on (ADR-060), as the Connections already
+    said. The status is unchanged.
 tags:
 - motivation
 - psychopathology-and-treatment
@@ -41,11 +60,14 @@ summary: >-
 supports:
 - CLAIM-437
 - CLAIM-447
+bears_on:
+- QUESTION-267
+- QUESTION-268
 ---
 <!-- inactive-ok-file: THEORY-893 CLAIM-433 CLAIM-440 CLAIM-439 TERM-076 — Proposed; the earlier reading and the claims and term this account bears on, cited as open -->
 <!-- inactive-ok-file: QUESTION-267 QUESTION-268 — Open; the questions it bears on, cited as open -->
 
-# THEORY-895: Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while 'liking' need not rise and may fall; sensitized 'wanting' can oppose the person's cognitive desire and can run without any reportable change in feeling
+# THEORY-895: Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while 'liking' need not rise and may fall; sensitized 'wanting' can oppose the person's cognitive desire, and incentive salience can run without any reportable change in feeling
 
 ## Source
 
@@ -127,3 +149,15 @@ reactions rising with pursuit.
   outside the gating context will understate this kind of potential.
 - **Flayelle et al. ([LIT-1465](../literature.d/LIT-1465.md))** use it as one of their two
   model-free routes by which design features promote uncontrolled use.
+
+## Note of 2026-10-29: what holds it back
+
+The record holds sensitization only as Berridge and Robinson's review
+reports it; [NOTE-1109](../notes.d/NOTE-1109.md) read none of the primary studies. No primary study
+the record reads shows, in animals, a lasting rise in cue-triggered
+pursuit after intermittent exposure with taste reactivity flat and
+expression gated by context, or, in people, cue-triggered dopamine release
+measured by PET that tracks craving while hedonic ratings stay flat. A
+split into what the authors propose would free nothing: [CLAIM-438](../claims.d/CLAIM-438.md),
+[CLAIM-437](../claims.d/CLAIM-437.md) and [CLAIM-447](../claims.d/CLAIM-447.md) use sensitization as a fact, and the last two rest
+on Proposed claims besides.

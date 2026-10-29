@@ -20,7 +20,7 @@ promote_when: >-
   has not decided that a Bures-type quantity on those coordinates counts;
   and the identity is the reader's, not a proved statement of the source.
 title: 'Convergence of representations, in the Platonic hypothesis''s sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-05'
@@ -71,6 +71,15 @@ history:
     the Platonic-hypothesis reading, which NOTE-738 calls the record's
     inference. The promote_when bears on that reading and is unchanged, and
     the status stays Proposed.
+- version: 7
+  date: '2026-10-29'
+  note: >-
+    `supports: CLAIM-193, CLAIM-269` removed by the eleventh status review
+    (ADR-057, ADR-058). Both claims used this account only for what a
+    kernel and a softmax distribution fix, which THEORY-004 and THEORY-723
+    hold, Active, and now ground on those instead; neither invokes the
+    Platonic-hypothesis reading that is this account's own step. The claim
+    is unchanged, and the status stays Proposed.
 tags:
 - representation-learning
 - philosophy-of-science
@@ -88,9 +97,6 @@ presupposes:
 - THEORY-004
 extends:
 - THEORY-723
-supports:
-- CLAIM-193
-- CLAIM-269
 ---
 
 # THEORY-002: Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
@@ -133,3 +139,12 @@ THEORY Proposed is its own step: that convergence in the Platonic
 hypothesis's sense is convergence of kernels, reaching the hypothesis's
 pooled hidden-state kernels by analogy. The promote_when says what would
 settle it.
+
+## Note of 2026-10-29: what holds it back
+
+The step from Nielsen et al.'s final-layer results to the hypothesis's
+kernels, which are cosine kernels of pooled hidden states maximised over
+layer pairs and measured by mutual nearest neighbours ([NOTE-286](../notes.d/NOTE-286.md)), is by
+analogy. No held result bounds a distributional distance by a Bures
+distance between those kernels, or measures whether high
+mutual-nearest-neighbour alignment comes with high Bures alignment.

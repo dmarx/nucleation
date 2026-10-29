@@ -1,24 +1,23 @@
 ---
 number: 113
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpm7dzo
-promote_when: >-
-  A control the source does not run. Measure cross-model feature
-  correlation layer by layer, and the accuracy of merging at each depth,
-  for pairs trained from different initialisations on the same task and
-  on disjoint tasks, at matched width. The account is supported if the
-  disjoint-task pairs lose correspondence faster with depth, and merging
-  fails at the depth where they do. It is refuted if same-task pairs show
-  the same depth profile and the same merge failure, since then depth and
-  initialisation, not task difference, are what remove the counterpart.
-  It is also refuted if a merge that matches features one to one, after a
-  better alignment than permutation, closes the gap to the ensemble
-  without within-model merges or unmerged late layers. Further results in
-  which partial zipping beats full merging would not settle it, because
-  they are expected on either reading.
-title: 'Merging models trained on different tasks from different initialisations fails where their features have no counterpart in the other model, and such features grow more common with depth'
-version: 1
+title: 'Merging ResNets trained from different initialisations on disjoint halves of a label set by permuting one onto the other and averaging fell far short of the ensemble; their cross-model feature correlation fell with depth, merging only the early layers recovered most of the ensemble''s accuracy, and merging features within each model as well as across both helped at 4× width and above; Stoica et al. attribute the failure to features with no counterpart in the other model'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the eleventh status review (ADR-057;
+    ADR-047's evidence ruling). Stoica et al. was read in full (NOTE-523).
+    The title now reports what was measured and gives the no-counterpart
+    explanation as the authors', since no same-task control separates
+    task difference from depth. The old title: Merging models trained on
+    different tasks from different initialisations fails where their
+    features have no counterpart in the other model, and such features
+    grow more common with depth. The promote_when moves unchanged to
+    QUESTION-tmp32xm6, as THEORY-114's did to QUESTION-312.
 tags:
 - loss-landscapes
 - representation-learning
@@ -36,14 +35,17 @@ summary: >-
   features within one model as well as across both helps once the models
   are wide enough to hold redundant features. With full merging on
   ImageNet-1k, ZipIt! is no better than permutation (8.6%). No same-task
-  control separates the effect of task difference from that of depth.
+  control separates the effect of task difference from that of depth;
+  that is QUESTION-tmp32xm6.
 supports:
 - CLAIM-187
 - CLAIM-263
+bears_on:
+- QUESTION-tmp32xm6
 ---
-<!-- inactive-ok-file: THEORY-116 THEORY-107 THEORY-112 — Proposed; accounts named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-116 THEORY-107 — Proposed; accounts named in Connections, nothing here rests on them -->
 
-# THEORY-113: Merging models trained on different tasks from different initialisations fails where their features have no counterpart in the other model, and such features grow more common with depth
+# THEORY-113: Merging ResNets trained from different initialisations on disjoint halves of a label set by permuting one onto the other and averaging fell far short of the ensemble; their cross-model feature correlation fell with depth, merging only the early layers recovered most of the ensemble's accuracy, and merging features within each model as well as across both helped at 4× width and above; Stoica et al. attribute the failure to features with no counterpart in the other model
 
 ## Source
 
@@ -92,8 +94,8 @@ Entezari et al. shrinks by (1 − 2Γ)^(1/(2d+4)) and is zero for Γ ≥ 0.5
 - **It does not separate task from depth.** There is no same-task control
   for Table 5. Kornblith et al.'s depth effect is a same-task finding, so
   correspondence may fall with depth whether or not the tasks differ. The
-  account claims the task difference adds to it, and that is what
-  `promote_when` asks to be shown.
+  title reports the fall and the authors' attribution, not that the task
+  difference adds to it; whether it does is [QUESTION-tmp32xm6](../questions.d/QUESTION-tmp32xm6.md).
 - **The full-merge numbers depend on a shared output space.** The CIFAR
   models are trained with a CLIP-style loss onto text embeddings of class
   names, so their outputs live in one space. With cross-entropy heads,
@@ -123,8 +125,8 @@ Entezari et al. shrinks by (1 − 2Γ)^(1/(2d+4)) and is zero for Γ ≥ 0.5
   are such a case by construction. Their surviving barrier, and the
   failure of a one-to-one matching to remove it, are what that account
   predicts. This account adds where in depth the difference sits.
-- **[THEORY-112](THEORY-112.md)**, filed alongside this one, says the barrier left
-  after the full symmetry group is factored out falls with width. Here
+- **[THEORY-112](THEORY-112.md)**, filed alongside this one, found the barrier left
+  after weight matching falling with width. Here
   width helps a different way: by giving each model redundant features to
   merge with themselves, not by making a one-to-one matching exist.
 - **Practice across the boundary.** The anthology's [ANTH-SOTA-217](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/practices.d/SOTA-217.md) (align

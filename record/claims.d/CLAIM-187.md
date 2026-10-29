@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmp82c4f
 title: 'Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    THEORY-111, THEORY-112 and THEORY-113 were narrowed to what their
+    sources measured and promoted by the eleventh status review (ADR-057).
+    Steps 1, 3 and 4 now say what those readings hold. Old step 1 quoted
+    THEORY-112's former title, "without which a barrier remains"; old step
+    3 read "Along a low-loss path every layer's features interpolate the
+    endpoints'"; old step 4 began: Merging fails "where their features have no
+    counterpart in the other model". The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,16 +61,18 @@ results the record holds are a worked protocol for exactly that, measured:
 1. **Quotient the full group.** Once the architecture's symmetries are
    factored out, most of the linear barrier between independently trained
    solutions disappears. The group must be the full one: for transformers
-   it includes an orthogonal map on the residual stream, "without which a
-   barrier remains" ([THEORY-112](../theory.d/THEORY-112.md)).
+   it includes an orthogonal map on the residual stream, since
+   permutations alone leave a barrier ([THEORY-112](../theory.d/THEORY-112.md)).
 2. **Read the residue.** A barrier that survives the removal of
    symmetries "marks a difference in the input attributes the two models
    rely on: they compute by different mechanisms" ([THEORY-116](../theory.d/THEORY-116.md)).
-3. **Inside a basin, structure interpolates.** Along a low-loss path every
-   layer's features interpolate the endpoints' ([THEORY-111](../theory.d/THEORY-111.md)), so
+3. **Inside a basin, structure interpolates.** In the image classifiers
+   measured, along a low-loss linear path nearly every layer's features
+   were proportional to the interpolation of the endpoints'
+   ([THEORY-111](../theory.d/THEORY-111.md)), so
    connectedness after alignment is sameness of feature structure.
-4. **Know when the test cannot run.** Merging fails "where their features
-   have no counterpart in the other model" ([THEORY-113](../theory.d/THEORY-113.md)), and connectivity
+4. **Know when the test cannot run.** Merging fails, Stoica et al. argue,
+   where features have no counterpart in the other model ([THEORY-113](../theory.d/THEORY-113.md)), and connectivity
    holds only when the objectives share structure ([THEORY-115](../theory.d/THEORY-115.md)).
 
 Read across, two communicative realizations would count as the same kind

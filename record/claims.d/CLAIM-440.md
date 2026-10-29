@@ -384,6 +384,14 @@ Carver is reported to make positive affect lower a goal's priority, is
 filed as [CLAIM-468](CLAIM-468.md), a counter, Proposed, beside [CLAIM-438](CLAIM-438.md). The clause
 stays open for both signs, as it says. The claim is unchanged.
 
+## Note of 2026-10-29: filed with its concessions
+
+[CLAIM-438](CLAIM-438.md) was conceded on 2026-10-23 at the owner's direction, and this
+claim already carries it: its title and [TERM-076](../terms.d/TERM-076.md) read "goal-conduciveness
+valence" where they read "hedonic", and "The objection it faces, and the
+reply" says the objection was conceded and the revision made, with
+[CLAIM-433](CLAIM-433.md) as the reply. The claim is unchanged.
+
 ## Note of 2026-10-29: what holds it back
 
 [CLAIM-441](CLAIM-441.md)'s flow case is unanswered: on [CLAIM-162](CLAIM-162.md)'s reading nothing in flow

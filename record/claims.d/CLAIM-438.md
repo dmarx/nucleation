@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpe0iew
 title: 'An ordering serving as the negotiation''s potential, as the potential account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -21,6 +21,11 @@ history:
     THEORY-895 added to grounds by the tenth status review (ADR-057):
     the persistence and resumption of sensitized 'wanting' in the title
     are that reading's, not THEORY-893's. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    The eleventh status review (ADR-057) added a dated note saying what
+    holds it back. The claim and its status are unchanged.
 role: counter
 warrant: empirical
 tags:
@@ -120,3 +125,11 @@ conceded counter.
 ## Note of 2026-10-27: conceded, and Proposed
 
 The owner conceded this objection on 2026-10-23, and [CLAIM-433](CLAIM-433.md) is the revision it produced. On 2026-10-27 the owner ruled that a concession is not credence: the counter is Proposed, because its evidence ([THEORY-893](../theory.d/THEORY-893.md)) is Proposed. The concession is carried by the target's revision, not by this entry's status. [ADR-059](../decisions.d/ADR-059.md) makes that the general rule.
+
+## Note of 2026-10-29: what holds it back
+
+Its evidence is the wanting–liking dissociation and the persistence of
+sensitized 'wanting', which the record holds only through Berridge and
+colleagues' reviews ([THEORY-893](../theory.d/THEORY-893.md), [THEORY-895](../theory.d/THEORY-895.md)); no primary study the record
+reads raises incentive salience while taste reactivity stays flat. It has
+no premise claim and no objection, so those readings are all that hold it.

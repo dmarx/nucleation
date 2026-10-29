@@ -3,8 +3,21 @@ number: 114
 status: Proposed
 formerly:
 - CLAIM-tmpwsbib
-title: 'Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error does not show'
-version: 1
+title: 'Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error in surface content does not show'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Title clarified by the eleventh status review (ADR-057): 'per-step
+    error' meant the surface discrepancy CLAIM-056 bounds, as in CASE-032,
+    whose two chains are both near zero in lexical similarity. Per-step
+    judgements of the configuration are what would show the change, as the
+    defeat condition says. Version 1's title read 'Drift along a
+    reconstruction chain can be marked by a pragmatic phase change, the
+    first generation at which a different communicative configuration
+    dominates, which per-step error does not show'. The status is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,9 +38,8 @@ summary: >-
   Dropped when the latents were demoted at U28, without critique.
 ---
 <!-- inactive-ok-file: CLAIM-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-114: Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error does not show
+# CLAIM-114: Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error in surface content does not show
 
 ## The claim
 
@@ -48,3 +60,13 @@ manuscript's §8 bounds cumulative error by per-step error ([CLAIM-056](CLAIM-05
 the trajectories of invariants "need not coincide", but it has neither the pair
 of distances nor the transition. [CLAIM-031](CLAIM-031.md) is the same point made about
 constraints.
+
+## Note of 2026-10-29: what holds it back
+
+No chain the record holds has per-generation judgements of communicative
+configuration. [CASE-032](../cases.d/CASE-032.md), the one chain with a shift of act, has three
+generations written in one context, and its per-generation numbers are not
+in the transcript. So whether the change comes at a marked generation, which
+is what makes it a phase change and what the defeat condition tests, has no
+observation either way. [CLAIM-056](CLAIM-056.md) gives only that surface error can stay
+small while the act changes.

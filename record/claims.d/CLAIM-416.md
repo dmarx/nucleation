@@ -1,10 +1,10 @@
 ---
 number: 416
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6bxtr
 title: 'Competing perspectives compete over the tests that measure them as well as under them: success under an evaluative regime is evidence of competence relative to that regime, a fair test need not be neutral across competences, and a perspective that gains influence over the test can change what later success shows'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -18,6 +18,15 @@ history:
     THEORY-854 moved from grounds to corroborated_by (ADR-058): the claim
     is the rankings mechanism's companion for contests, not an
     application of it.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057). Proposed to Active: it rests on no
+    claim, its ground CASE-130 is Active and documented from Penglase read
+    in full (NOTE-1092), no objection is filed, and nothing in the record
+    meets its condition. THEORY-854 corroborates it and is not needed. The
+    body's 'Penglase (LIT-1391, unread)' is corrected: it was read in full
+    on 2026-10-22. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -120,7 +129,9 @@ themselves.
   order to entrench particular competitors*. That requires separate
   evidence … We should not infer the second from the first."
 - **Not that the historical particulars are settled.** The 1931 rules
-  dispute and the later matches rest on Penglase ([LIT-1391](../literature.d/LIT-1391.md), unread)
+  dispute and the later matches rest on one secondary source, Penglase
+  ([LIT-1391](../literature.d/LIT-1391.md), read in full in [NOTE-1092](../notes.d/NOTE-1092.md), which rates the rules episode
+  "moderate: one well-documented episode (1931) and a general 'often'"),
   and on the replies' summaries. The sport studies A36 cited on judo and
   taekwondo rule changes were not identified and are not filed.
 

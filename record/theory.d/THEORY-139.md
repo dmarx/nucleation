@@ -12,7 +12,7 @@ promote_when: >-
   changes corporate conduct in the way a regulative practice should. A
   philosophical consensus for or against would not settle either.
 title: 'A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members'' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-05'
@@ -27,6 +27,15 @@ history:
     (LIT-730, read in NOTE-582), now stated as THEORY-536, for the
     book's verdict on group responsibility and the three things it adds
     that this account does not yet say.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    The eleventh status review (ADR-057). Kept Proposed, with a dated
+    note saying what holds it back: no case meets the promote_when's
+    first half, and Velasquez's objection is registered unread; CASE-151
+    bears on the second half once. Not split, since CLAIM-271 and
+    CLAIM-432 use the thesis and not only that Pettit argues it. The
+    claim is unchanged.
 tags:
 - social-ontology
 - agency
@@ -121,3 +130,14 @@ judgments, it can give itself those means, so the excuse expires.
 - **The owner's essay.** It gives §7.1 a non-regressive ground for
   corporate endorsement, authorised avowal plus corrective procedure, and
   gives §8 an argued source for corporate normative competence.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the eleventh status review. Read in full ([NOTE-569](../notes.d/NOTE-569.md)). The
+record holds no case of a corporation whose avowed judgment departs from
+every mechanical aggregation of its members' views and which acts on it,
+the promote_when's first half. The objection that a corporation is not an
+agent at all, Velasquez's ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md)), is registered and unread.
+[CASE-151](../cases.d/CASE-151.md) bears on the second half, but only once and in the record's
+reading. Firing members did not stop the conduct; after sanction the
+corporation abolished the sales goals and centralized risk.

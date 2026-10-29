@@ -3,8 +3,8 @@ number: 63
 status: Proposed
 formerly:
 - CLAIM-tmphq3fu
-title: 'A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves'
-version: 2
+title: 'A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves; on observed responses that degree is the order effect, which the intertwining defects bound only with a readout defect added and which the data identify only through observational distortion'
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,12 +19,33 @@ history:
     is empirical with no observation under it, so by ADR-043's rule the
     warrant is interpretive. The title and the defeat condition are
     unchanged, and the status stays Proposed.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057, ADR-059). CLAIM-253, Active since
+    2026-10-10, is conceded and written in. The intertwining defects
+    are defined on interpretive states and are not identified from
+    judgement data. The identity reaches observed order effects only
+    with a readout defect E_O = O′Φ − KO. The title now says that, on
+    observed responses, the interference is the order effect. The
+    defeat condition is restated on observed order effects under one
+    outcome correspondence fixed across items, as the notes of
+    2026-10-10 and 2026-10-19 said it was to be read. The old title
+    read: 'A transport that approximately intertwines each framing
+    operation approximately preserves their commutator, so the degree
+    to which interpretive perspectives interfere can itself be part of
+    what a translation preserves'. The old condition read: 'Renderings
+    whose framing operations are each well intertwined nevertheless
+    differ from the source in measured order effects by more than the
+    intertwining defects allow.' The status stays Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Renderings whose framing operations are each well intertwined
-  nevertheless differ from the source in measured order effects by more
-  than the intertwining defects allow.
+  Under one outcome correspondence fixed across a class of items, the
+  observed order effects of different renderings of the same sources
+  do not differ from one another beyond sampling error, or differ only
+  with the target study's response format, so that how far the
+  framings interfere is not something a rendering keeps or loses.
 tags:
 - mathematics
 - philosophy-of-language
@@ -50,7 +71,7 @@ complements:
 ---
 <!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body applies the term without naming it -->
 
-# CLAIM-063: A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves
+# CLAIM-063: A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves; on observed responses that degree is the order effect, which the intertwining defects bound only with a readout defect added and which the data identify only through observational distortion
 
 ## The claim
 
@@ -110,3 +131,23 @@ observed order effects by the intertwining defects together with it, and
 that names an identified choice of Φ, so that the defects are fixed by the
 data. Until then, how far interpretive perspectives interfere is part of
 what a translation preserves only in an unidentified sense.
+
+## Note of 2026-10-29: [CLAIM-253](CLAIM-253.md) written in
+
+The identity is [CLAIM-373](CLAIM-373.md)'s and holds on interpretive states. A study
+observes responses. There the identity bounds the order effect only with
+the readout defect added,
+‖O′[A′,B′]Φμ − K O[A,B]μ‖ ≤ ‖E_O[A,B]μ‖ + 2(‖E_A‖ + ‖E_B‖), and the data do
+not fix its defects. The bound identified from data is [CLAIM-231](CLAIM-231.md)'s 2ε,
+under one outcome correspondence fixed across items, and the defeat
+condition now tests the thesis on that footing. The note of 2026-10-28
+called [CLAIM-253](CLAIM-253.md) live; it is now written in. The identification result its
+second answer asks for, a minimal-realization theorem, is still open.
+
+## Note of 2026-10-29: what holds it back
+
+No study has measured the order effects of different renderings of the
+same sources under one outcome correspondence fixed across items.
+[CASE-065](../cases.d/CASE-065.md)'s two administrations change language and readership together,
+and report correlations rather than response distributions, so no ε can be
+computed from them.

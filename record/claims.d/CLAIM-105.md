@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpukbg3
 title: 'In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -36,6 +36,18 @@ history:
     global structure of meaning: reconstruction can keep most local
     judgements and change their global compatibility'. Status and
     warrant unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Eleventh status review (ADR-057, ADR-059). CLAIM-235, an Active
+    counter to this claim since 2026-10-10, was written into version 2's
+    defeat condition without being named there. The contextual
+    fraction is defined only without signalling, and raw tables
+    signal, so the condition tests contextuality in the
+    Contextuality-by-Default sense, with signalling accounted for and
+    changes counted beyond sampling error. 'What the reading of the
+    contextual fraction implies' gives the undefinedness. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -204,3 +216,11 @@ It now states the thesis this entry keeps, about documented chains. The
 manuscript's wording quoted above is unchanged. The warrant stays
 interpretive: [CASE-053](../cases.d/CASE-053.md) documents that the adequate test has not been
 run.
+
+## Note of 2026-10-29: what holds it back
+
+It rests on [CLAIM-038](CLAIM-038.md), which is Proposed. Its defeat condition counts
+changes beyond sampling error, which needs a signalling estimator with bias
+correction and a stated sampling error, and [CLAIM-235](CLAIM-235.md) finds none in the
+line. [CASE-053](../cases.d/CASE-053.md) documents that no adequately powered CbD test on pragmatic
+judgements has been run.
