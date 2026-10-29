@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp3g9n4) from the published version on
+  read in full 2026-10-29 ([NOTE-tmp3g9n4](../notes.d/NOTE-tmp3g9n4.md)) from the published version on
   the site of co-author Gómez's IDENFUSION group at UNED; worth reading as
   the record's closest empirical work to the owner's thesis
-  (CLAIM-tmpjylq8): a measured self–group overlap in which the personal
+  ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)): a measured self–group overlap in which the personal
   self is kept, not depersonalized, and in which a challenge to the
   personal self raises willingness to fight and die for the group.
   Self-reported intentions, Spanish students only.
@@ -45,7 +45,7 @@ summary: >-
 
 Swann, W. B., Jr., Gómez, Á., Seyle, D. C., Morales, J. F. & Huici, C. (2009). *Journal of Personality and Social Psychology*, 96(5), 995–1011.
 
-Read in full in NOTE-tmp3g9n4, from the published version.
+Read in full in [NOTE-tmp3g9n4](../notes.d/NOTE-tmp3g9n4.md), from the published version.
 
 ## Why this is here
 

@@ -6,7 +6,7 @@ status_note: >-
   none posted by an author or publisher; the Princeton prejudice-reduction
   database has a record only. A copy on SPARQ (Stanford), not the authors'
   site, was not used. No NOTE is filed. It stays Unavailable until a copy
-  is supplied (ADR-041).
+  is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Reducing intergroup bias: The benefits of recategorization'
 version: 1
 history:

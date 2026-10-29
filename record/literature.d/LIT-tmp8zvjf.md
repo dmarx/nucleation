@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md):
   Markus posted the published version on her Stanford page
   (web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf),
   which now answers HTTP 404. The Wayback Machine holds it

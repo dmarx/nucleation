@@ -48,7 +48,7 @@ that the relation matters.
 
 ## Partial evidence, 2026-10-29
 
-Kilduff et al. (NOTE-tmpiffjj) measured rivalry from both sides for 389
+Kilduff et al. ([NOTE-tmpiffjj](../notes.d/NOTE-tmpiffjj.md)) measured rivalry from both sides for 389
 pairs of NCAA basketball teams, from student sportswriters validated
 against players and coaches. Rivalry was largely reciprocated: r = .64
 raw, .85 with each team's general tendencies removed. Where it was one

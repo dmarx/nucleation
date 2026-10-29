@@ -5,7 +5,7 @@ status_note: >-
   reached. The Austin and Worchel volume has no Internet Archive copy,
   Open Library marks it no_ebook, and a copy on an unrelated
   organization's library site was not used. No NOTE is filed. It stays
-  Unavailable until a copy is supplied (ADR-041).
+  Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'An integrative theory of intergroup conflict'
 version: 1
 history:

@@ -5,7 +5,7 @@ status_note: >-
   reached. OpenAlex lists no open copy and an exact-title web search found
   none posted by an author or publisher; the Sussex Henri Tajfel project
   page lists it without a file. No NOTE is filed. It stays Unavailable
-  until a copy is supplied (ADR-041).
+  until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Social categorization and intergroup behaviour'
 version: 1
 history:

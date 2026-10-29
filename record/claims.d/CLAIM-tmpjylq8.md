@@ -115,7 +115,7 @@ extended self, and leave the team benefactor's concern as the open case.
 
 ## Note of 2026-10-29: identity fusion, read
 
-Swann et al. (NOTE-tmp3g9n4) has been read. It supports the thesis in two
+Swann et al. ([NOTE-tmp3g9n4](../notes.d/NOTE-tmp3g9n4.md)) has been read. It supports the thesis in two
 ways and qualifies it in one.
 
 - **A larger self, not a changed one.** Fused people keep a salient
@@ -131,7 +131,7 @@ ways and qualifies it in one.
   thesis recruits fusion, "self-interest" has to cover keeping a
   self-concept true, not only furthering one's welfare.
 
-For CLAIM-tmprudek, fusion is measured by perceived overlap, is specific
+For [CLAIM-tmprudek](CLAIM-tmprudek.md), fusion is measured by perceived overlap, is specific
 to one group and is separable from identification. But the paper never
 measures caring separately, and its gloss on the fused is that they "care
 as much about the outcomes of the group as their own". So it supplies a

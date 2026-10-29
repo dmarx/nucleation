@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpiffjj) from the published version on
+  read in full 2026-10-29 ([NOTE-tmpiffjj](../notes.d/NOTE-tmpiffjj.md)) from the published version on
   first author Kilduff's NYU Stern pages; worth reading as evidence that
   rivalry belongs to the pair of competitors (half its variance) and to
   their history of even contests, and that it is mostly reciprocated,
-  which bears on CASE-098 and QUESTION-tmpbudbb.
+  which bears on [CASE-098](../cases.d/CASE-098.md) and [QUESTION-tmpbudbb](../questions.d/QUESTION-tmpbudbb.md).
 title: 'The Psychology of Rivalry: A Relationally Dependent Analysis of Competition'
 version: 1
 history:
@@ -38,7 +38,7 @@ summary: >-
 
 Kilduff, G. J., Elfenbein, H. A. & Staw, B. M. (2010). *Academy of Management Journal*, 53(5), 943–969.
 
-Read in full in NOTE-tmpiffjj, from the published version.
+Read in full in [NOTE-tmpiffjj](../notes.d/NOTE-tmpiffjj.md), from the published version.
 
 ## Why this is here
 

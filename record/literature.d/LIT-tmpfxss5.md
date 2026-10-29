@@ -6,7 +6,7 @@ status_note: >-
   none posted by an author or publisher; Arizona State's Pure has a record
   only and PubMed lists no PMC copy. A course-page copy at Wisconsin was
   not used. No NOTE is filed. It stays Unavailable until a copy is
-  supplied (ADR-041).
+  supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Reinterpreting the empathy–altruism relationship: When one into one equals oneness'
 version: 1
 history:

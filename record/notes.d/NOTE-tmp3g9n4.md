@@ -129,16 +129,16 @@ their own outcomes" (p. 996).
 
 ## Connections
 
-- **Self-categorization theory (THEORY-tmpo85ke).** The paper is aimed at
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The paper is aimed at
   functional antagonism (Turner et al. 1987: raising the salience of one
   level lowers the other) and at depersonalization. The fused claim they
   would do more than other members, which is not interchangeability. The
   authors cite Simon, Spears, Deaux, Postmes and Jetten as earlier doubts.
   They also note (p. 1008) that the theory holds social identity can drive
   behaviour "not in the individual's self-interest".
-- **León's personalized "we" (THEORY-tmpsm03n).** A second route to the
+- **León's personalized "we" ([THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)).** A second route to the
   same conclusion: a we-identity that does not dissolve the individual.
-- **Aron et al. (LIT-tmp9rujh) and Cialdini et al. (LIT-tmpfxss5).** The
+- **Aron et al. ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md)) and Cialdini et al. ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md)).** The
   measure descends from Aron's overlap circles. Cialdini's "oneness" is
   measured with them too.
 - **Hogg's uncertainty account** is the rival the authors set themselves
@@ -146,7 +146,7 @@ their own outcomes" (p. 996).
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** This is the closest empirical
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** This is the closest empirical
   work the record holds to it, and it bears on it in three ways. These
   are inferences; the paper does not discuss selflessness.
   - It supports "larger self" against "changed self". The claim's "What it
@@ -163,14 +163,14 @@ their own outcomes" (p. 996).
     true. A thesis that recruits this paper says that the self being
     served is a self-concept to be kept true, not a welfare to be
     maximized.
-- **The triviality objection (CLAIM-tmprudek).** Fusion is a criterion of
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Fusion is a criterion of
   the self's extent measured by perceived overlap, not by what one cares
   about. It is group-specific and not reducible to identification. But
   the paper never measures caring separately, and its own gloss defines
   the fused by how much they care. So it offers the kind of criterion the
   objection asks for without showing that the criterion and caring come
   apart. A dated note is added to the claim.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed: fusion is with a
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed: fusion is with a
   group, and nothing here concerns empathic helping of individuals.
 - **No THEORY filed.** Fusion is recorded in the thesis and its
   objections; the later fusion literature is not held.
@@ -206,4 +206,4 @@ their own outcomes" (p. 996).
 - Can fusion and caring be pulled apart? A study that measured concern for
   the group's welfare alongside overlap, and asked which predicts sacrifice
   when the other is held fixed, would settle what this paper contributes
-  to CLAIM-tmprudek.
+  to [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md).
