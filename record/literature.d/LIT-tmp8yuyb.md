@@ -1,8 +1,13 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  the author's accepted manuscript is open in Europe PMC
+  (europepmc.org/articles/PMC3764505; also PubMed Central, PMC3764505), as
+  Unpaywall lists. On 2026-10-29 Europe PMC's REST service returned no
+  full text for it (HTTP 500), and its PDF rendering answered with a
+  Cloudflare challenge (HTTP 403). A human reader can likely open it. No
+  NOTE is filed. It stays Unfetched until it is read, not on merit.
 title: 'Future self-continuity: how conceptions of the future self transform intertemporal choice'
 version: 1
 history:
@@ -12,8 +17,9 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, as the angle of
     legacy that Johnston's Surviving Death opened (QUESTION-tmpruhu4).
     Crossref: Annals of the NYAS 1235(1), 30–43; online 2011-10-24, so
-    `published:` is that date (ADR-002). An accepted manuscript is open in
-    Europe PMC (PMC3764505).
+    `published:` is that date (ADR-002). An accepted manuscript is open
+    in Europe PMC (PMC3764505). Set Unfetched the same day under ADR-053
+    after the fetch was refused; the status note gives the address.
 tags:
 - self
 - motivation
