@@ -57,7 +57,7 @@ The empirical form of the owner's thesis that no action is selfless, only aimed 
 
 The work cannot be read here, so the record holds it at second hand.
 
-The SEP entry (NOTE-tmpd1dh3, §5.3) quotes the paper's oneness index (p.
+The SEP entry ([NOTE-tmpd1dh3](../notes.d/NOTE-tmpd1dh3.md), §5.3) quotes the paper's oneness index (p.
 484): the IOS scale of seven increasingly overlapping circle pairs,
 combined with a 7-point item on how far one would use "we" to describe the
 relationship. It reports the paper's claim, from three studies, that
@@ -67,7 +67,7 @@ test measure". Missing still: the designs, the relationship manipulations,
 the regression results, and the paper's own case that oneness is not
 caring under another name.
 
-Miyazono and Inarimori (NOTE-tmpdrfdn, pp. 3–4) report one of the paper's
+Miyazono and Inarimori ([NOTE-tmpdrfdn](../notes.d/NOTE-tmpdrfdn.md), pp. 3–4) report one of the paper's
 studies. Students imagined a near-stranger, an acquaintance, a good friend
 or their closest family member facing eviction, and chose among seven
 levels of help. They rated oneness, on a seven-point item and the IOS

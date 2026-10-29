@@ -212,28 +212,28 @@ literature, much of it the author's own.
 
 ## Connections
 
-- **Turner et al. 1994 (NOTE-tmpf9mzh).** The 1994 paper gives influence
+- **Turner et al. 1994 ([NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)).** The 1994 paper gives influence
   one paragraph: "private category change" (p. 461). This review is the
   full development of that paragraph, with the evidence named. It adds the
   three realms, the norms-and-morality section and the online work.
-- **Hornsey 2008 (NOTE-tmp3dav9).** Hornsey gives SIDE and Postmes &
+- **Hornsey 2008 ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)).** Hornsey gives SIDE and Postmes &
   Spears 1998 one sentence each. This review gives the 1998 meta-analysis
   a paragraph and SIDE a section, and adds the emergency, helping and
   contagion findings that Hornsey does not mention.
-- **Skorich (NOTE-tmplcvy8, THEORY-tmpdftev).** Two points bear on it.
+- **Skorich ([NOTE-tmplcvy8](NOTE-tmplcvy8.md), [THEORY-tmpdftev](../theory.d/THEORY-tmpdftev.md)).** Two points bear on it.
   The polarization account posits an implicit out-group at the other end
   of the scale (p. 379). And anonymity is reported to increase perceiving
   the group or dyad "as an entity" (p. 383).
 - **Spears & Postmes 2015 (read alongside).** The review points there for
   "a more complete review" of SIDE (p. 382). The two overlap on SIDE; this
   one covers far more of influence.
-- **Identity fusion (NOTE-tmp3g9n4).** The review does not mention
+- **Identity fusion ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)).** The review does not mention
   fusion. Its remark that internalized group identities become
   "self-perceived as personal" (p. 377) describes something close to it.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The review bears on it in four
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The review bears on it in four
   ways. These are inferences; Spears does not discuss selflessness.
   - It applies the thesis's form to belief. Being influenced by the group
     is "partly self-influence" (p. 373). The thesis says that acting for
@@ -258,17 +258,17 @@ literature, much of it the author's own.
     one. Either way the crowd member is not selfless, so the thesis's
     denial of selflessness holds while its word "larger" is not
     supported.
-- **Batson's objection (CLAIM-tmpybc4k).** Levine's bystanders help
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Levine's bystanders help
   "primarily" when they share an identity with the victim (p. 375). Drury's
   emergency survivors sacrifice under a shared identity. Both fit the
   thesis. "Primarily" also leaves helping without shared identity, which
   is where Batson's case lives. Neither study is read here.
-- **The triviality objection (CLAIM-tmprudek).** The field's test for an
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The field's test for an
   identity process is moderation by identification (p. 380).
   Identification scales include caring about the group, so this test does
   not give the independent criterion the objection asks for. The salience
   manipulations reported in Spears & Postmes 2015 come closer.
-- **Self-categorization theory (THEORY-tmpo85ke).**
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).**
   - Lea et al. (2007) fits the promote_when's shape. It holds the people
     fixed, varies the topic, and measures which category carries
     influence. But it comes from the author's group and is reported
@@ -279,18 +279,18 @@ literature, much of it the author's own.
     theory can always posit a contrast category at the other end of a
     scale, removing the visible out-group does not remove comparison. The
     test needs a design that rules out an implicit contrast as well.
-- **Group entity versus category (TERM-tmpko4rw).** Anonymity is reported
+- **Group entity versus category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** Anonymity is reported
   to make people see the group or dyad as an entity (p. 383). On the
   term's reading, accentuating likeness yields interchangeability, not
   unity. If the report holds, depersonalization can yield perceived unity.
   This comes at second hand, and "entity" may have been measured as
   entitativity, which the term sets aside.
-- **CASE-104 and QUESTION-119.** Prototypical members carry more
+- **[CASE-104](../cases.d/CASE-104.md) and [QUESTION-119](../questions.d/QUESTION-119.md).** Prototypical members carry more
   influence, and anonymity strengthens local norms. Together they suggest
   that an online fanbase's norm can be set by its most prototypical
   voices without any procedure. That is a derivation, not a finding about
   fans.
-- **A dated note is added to CLAIM-tmpjylq8.** Proposed text, to be
+- **A dated note is added to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).** Proposed text, to be
   combined with the note proposed from Spears & Postmes 2015:
 
   > Spears (2021) says the self-categorization account treats group
@@ -337,7 +337,7 @@ literature, much of it the author's own.
 ## Open questions
 
 - Is there motivated action in the "realm of the other", with no self
-  in play? If so, it is the case CLAIM-tmpybc4k needs. If the realm covers
+  in play? If so, it is the case [CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md) needs. If the realm covers
   only information processing, the thesis is untouched.
 - Does referent informational influence survive preregistered tests? A
   replication of Abrams et al. 1990 or of the in-group Asch effect would

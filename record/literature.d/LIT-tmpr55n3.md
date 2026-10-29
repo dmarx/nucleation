@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpwzzpw), in place of LIT-tmp5zxl1, which
+  read in full 2026-10-29 ([NOTE-tmpwzzpw](../notes.d/NOTE-tmpwzzpw.md)), in place of [LIT-tmp5zxl1](LIT-tmp5zxl1.md), which
   could not be reached; worth reading as a current statement of social
   identity theory by two of its principal researchers, read in place of
-  Tajfel & Turner 1979 (LIT-tmp5zxl1, Unavailable). It is the record's
+  Tajfel & Turner 1979 ([LIT-tmp5zxl1](LIT-tmp5zxl1.md), Unavailable). It is the record's
   clearest source that the theory builds caring into the definition of
   social identity while measuring it as a separate component. Uncritical,
   with no effect sizes.
@@ -43,8 +43,8 @@ summary: >-
 
 Scheepers, D. & Ellemers, N. (2019). In K. Sassenberg & M. L. W. Vliek (Eds.), *Social Psychology in Action: Evidence-Based Interventions from Theory to Practice* (pp. 129–143). Cham: Springer.
 
-Read in full in NOTE-tmpwzzpw.
+Read in full in [NOTE-tmpwzzpw](../notes.d/NOTE-tmpwzzpw.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp5zxl1, which could not be reached. NOTE-tmpwzzpw says what it reports of it and what is still missing.
+Read in place of [LIT-tmp5zxl1](LIT-tmp5zxl1.md), which could not be reached. [NOTE-tmpwzzpw](../notes.d/NOTE-tmpwzzpw.md) says what it reports of it and what is still missing.

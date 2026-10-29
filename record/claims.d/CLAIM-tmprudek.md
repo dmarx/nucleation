@@ -65,7 +65,7 @@ Works read in place of unavailable papers test the candidate criteria this
 objection lists.
 
 - **Self-definition and self-investment come apart** (Leach et al.,
-  NOTE-tmp8tnhr). Identification splits into self-definition (seeing
+  [NOTE-tmp8tnhr](../notes.d/NOTE-tmp8tnhr.md)). Identification splits into self-definition (seeing
   oneself as like the average member) and self-investment (satisfaction,
   solidarity, centrality). They correlate .61 to .77, but faced with their
   group's misdeeds, self-definition predicted guilt and investment
@@ -74,22 +74,22 @@ objection lists.
 - **The overlap circles are weaker than supposed.** In Leach et al. the
   self–group circles correlated more with satisfaction and solidarity than
   with self-stereotyping, against the authors' prediction. Branand, Mashek
-  and Aron (NOTE-tmpd7oz0) report that the IOS scale is validated as
+  and Aron ([NOTE-tmpd7oz0](../notes.d/NOTE-tmpd7oz0.md)) report that the IOS scale is validated as
   subjective closeness. Their cognitive signs of inclusion are better
   candidates, because caring alone does not predict them: slower
   self-judgements where a partner differs, and self–partner confusions in
   memory.
-- **Implicitly, partly separable** (Pinter and Greenwald, NOTE-tmpyj4e9). An
+- **Implicitly, partly separable** (Pinter and Greenwald, [NOTE-tmpyj4e9](../notes.d/NOTE-tmpyj4e9.md)). An
   IAT of self–group association and one of liking correlated .48 to .66,
   and their explicit versions .71.
-- **Salience moves without caring** (Smith and Mackie, NOTE-tmpfj8cp;
-  Spears and Postmes, NOTE-tmpeg80o). Emotions and influence shift with
+- **Salience moves without caring** (Smith and Mackie, [NOTE-tmpfj8cp](../notes.d/NOTE-tmpfj8cp.md);
+  Spears and Postmes, [NOTE-tmpeg80o](../notes.d/NOTE-tmpeg80o.md)). Emotions and influence shift with
   whichever category is made salient by instruction or context. That fixes
   the self's level independently of what one values. But the highly
   identified reappraise their group's misdeeds to avoid guilt, so caring
   feeds back.
 - **Inside social identity theory** (Scheepers and Ellemers,
-  NOTE-tmpwzzpw). Tajfel defined social identity to include "the value or
+  [NOTE-tmpwzzpw](../notes.d/NOTE-tmpwzzpw.md)). Tajfel defined social identity to include "the value or
   emotional significance attached to that membership", so the theory's
   social self already contains caring, though its measures separate the
   two. The chapter reports, without a source, that where they are

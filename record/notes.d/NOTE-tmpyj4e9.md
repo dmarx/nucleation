@@ -150,10 +150,10 @@ group" (p. 95).
 
 ## Connections
 
-- **Tajfel et al. 1971 (LIT-tmp6t6ny)**, Unavailable. The paper describes
+- **Tajfel et al. 1971 ([LIT-tmp6t6ny](../literature.d/LIT-tmp6t6ny.md))**, Unavailable. The paper describes
   the classic procedure only generically (dots or paintings, false
   feedback, allocation to others) and states no result of the original.
-- **Robertson et al. (NOTE-tmp0cdsp).** Robertson's preregistered
+- **Robertson et al. ([NOTE-tmp0cdsp](NOTE-tmp0cdsp.md)).** Robertson's preregistered
   replication (n = 590) found minimal-group favouritism in moral judgment
   only as it rose with identification; the main contrast was p = .07.
   Pinter and Greenwald point the same way on a different outcome.
@@ -165,21 +165,21 @@ group" (p. 95).
   Neither study
   shows that favouritism follows from identification; both show it varies
   with it.
-- **Aron et al. (LIT-tmp9rujh)** and the fusion item (NOTE-tmp3g9n4)
+- **Aron et al. ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md))** and the fusion item ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md))
   measure the self–group link by drawn overlap. The identification IAT
   measures it by association with self words. The record holds no study
   comparing them.
 - **Otten (2016)** summarizes this paper accurately (see the first draft).
   She gives the authors' reading of memorization as a self-concept link,
   and calls it the same factor the self-anchoring work names.
-- **Self-categorization theory (THEORY-tmpo85ke).** The memorization
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The memorization
   effect does not come from categorization: nobody was put in a group. If
   it is a self–group link, it was made by familiarity, not by metacontrast
   or fit.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** These are inferences; the paper
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are inferences; the paper
   does not discuss selflessness.
   - The self–group link can be made without being told one belongs.
     Forty-five seconds of studying five names tied a group to "me" and
@@ -192,7 +192,7 @@ group" (p. 95).
     serving an extended self. Here the participant was also told they
     could receive money from both groups, so a reciprocity motive was not
     excluded.
-- **The triviality objection (CLAIM-tmprudek).** The paper measures the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The paper measures the
   self's extent and liking separately, which is what the objection asks
   for. The identification IAT (group with "self") and the attitude IAT
   (group with "pleasant") correlated .66 in Experiment 1 and .48 in
@@ -201,8 +201,8 @@ group" (p. 95).
   of report, the self's extent and caring nearly coincide. At the implicit
   level they come apart somewhat. Neither predicted allocation much
   better than the other.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note should be added to CLAIM-tmprudek.** Proposed text:
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note should be added to [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md).** Proposed text:
 
   > Note of 2026-10-29: an implicit measure of the self's extent. Pinter
   > and Greenwald (2011) measured self–group association (an IAT pairing

@@ -180,7 +180,7 @@ and egoistic toward "us".
 
 ## Connections
 
-- **Salice and Miyazono (NOTE-tmpaso81).** Miyazono's earlier paper
+- **Salice and Miyazono ([NOTE-tmpaso81](NOTE-tmpaso81.md)).** Miyazono's earlier paper
   supplies the account of identification. Its PPR, "you are a member of
   us; act as such", is what makes this reading non-doxastic (p. 5). The
   link has a cost. That paper separated *self-transformation* (being one
@@ -189,24 +189,24 @@ and egoistic toward "us".
   that we"). This paper's Reynie identifies with Elaine but acts for her,
   not with her. That looks most like a self-transformed team benefactor,
   a combination the earlier paper did not name. An inference.
-- **Self-categorization theory (THEORY-tmpo85ke).** The authors place
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The authors place
   themselves in Batson's fourth version, Turner's interchangeable
   exemplars (note 6), and cite Turner 1982 for identification. But they
   stay neutral on what grounds groups, and their mechanism is similarity
   plus affective mirroring, not metacontrast.
-- **Group entity versus category (TERM-tmpko4rw).** The "group" of
+- **Group entity versus category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** The "group" of
   Reynie and Elaine, and the Kandinsky-lovers, are categories formed by a
   shared property. The authors also allow groups grounded in shared
   activity (p. 5). Their argument does not need the distinction, but a
   test of it would.
-- **Cialdini et al. 1997 (LIT-tmpfxss5).** The paper is a defence of its
+- **Cialdini et al. 1997 ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md)).** The paper is a defence of its
   conclusion and reports one of its studies (pp. 3–4).
 - **The SEP entry** (read the same day) reports May's objection and the
   numerical-identity argument this paper answers.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** This is the closest statement
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** This is the closest statement
   of the thesis in the literature the record holds, for the case of
   empathy. It bears on the claim at three points. These are inferences
   unless marked.
@@ -220,12 +220,12 @@ and egoistic toward "us".
     altruism without an extended self that it also serves". Batson's
     empathy–altruism hypothesis, read at the individual level, is then
     compatible with the thesis (the authors say as much, note 3, p. 3).
-  - It moves the dispute with CLAIM-tmpybc4k. If empathy *constitutively*
+  - It moves the dispute with [CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md). If empathy *constitutively*
     involves identification, no experiment can find empathy with
     identification absent, and Batson's controls for merging would have
     to be failed measures of identification. That rescues the thesis only
     by making it unfalsifiable for empathic helping.
-- **The triviality objection (CLAIM-tmprudek).** The paper meets the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The paper meets the
   objection's demand in one direction and fails it in the other.
   - Identification can occur without empathy (minimal groups, p. 5), so
     the criterion is not caring under another name.
@@ -238,7 +238,7 @@ and egoistic toward "us".
 - **What happened when Batson controlled for merging.** Not reported: the
   authors say Batson et al. "conducted experiments that cast doubt on
   SMH" and declare the empirical issues out of scope (p. 4).
-- **A dated note to CLAIM-tmpjylq8 is proposed:**
+- **A dated note to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) is proposed:**
   > Note of 2026-10-29: altruistic for her, egoistic for us. Miyazono and
   > Inarimori (NOTE-tmpdrfdn) read Cialdini's "merging" as group
   > identification. In empathizing with someone, one comes to count her

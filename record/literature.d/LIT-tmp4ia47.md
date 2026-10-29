@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpfj8cp), in place of LIT-tmpe3hcb, which
+  read in full 2026-10-29 ([NOTE-tmpfj8cp](../notes.d/NOTE-tmpfj8cp.md)), in place of [LIT-tmpe3hcb](LIT-tmpe3hcb.md), which
   could not be reached; worth reading as the founders' compact statement
   that an identified-with group is appraised as part of the self, with
   self-categorization and identification kept apart.
@@ -41,8 +41,8 @@ summary: >-
 
 Smith, E. R. & Mackie, D. M. (2016). *Current Opinion in Psychology*, 11, 15–19.
 
-Read in full in NOTE-tmpfj8cp.
+Read in full in [NOTE-tmpfj8cp](../notes.d/NOTE-tmpfj8cp.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpe3hcb, which could not be reached. NOTE-tmpfj8cp says what it reports of it and what is still missing.
+Read in place of [LIT-tmpe3hcb](LIT-tmpe3hcb.md), which could not be reached. [NOTE-tmpfj8cp](../notes.d/NOTE-tmpfj8cp.md) says what it reports of it and what is still missing.

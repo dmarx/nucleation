@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpoxt60), in place of LIT-tmp6t6ny, which
+  read in full 2026-10-29 ([NOTE-tmpoxt60](../notes.d/NOTE-tmpoxt60.md)), in place of [LIT-tmp6t6ny](LIT-tmp6t6ny.md), which
   could not be reached; worth reading as the record's only account, at
-  second hand, of what Tajfel et al. 1971 (LIT-tmp6t6ny, Unavailable)
+  second hand, of what Tajfel et al. 1971 ([LIT-tmp6t6ny](LIT-tmp6t6ny.md), Unavailable)
   designed and found, and as a map of the critiques. Two of them bear on
   the owner's thesis: favouritism may come from projecting the personal
   self onto the group, and personal gain comes first when it is on offer.
@@ -44,8 +44,8 @@ summary: >-
 
 Otten, S. (2016). *Current Opinion in Psychology*, 11, 85–89.
 
-Read in full in NOTE-tmpoxt60.
+Read in full in [NOTE-tmpoxt60](../notes.d/NOTE-tmpoxt60.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp6t6ny, which could not be reached. NOTE-tmpoxt60 says what it reports of it and what is still missing.
+Read in place of [LIT-tmp6t6ny](LIT-tmp6t6ny.md), which could not be reached. [NOTE-tmpoxt60](../notes.d/NOTE-tmpoxt60.md) says what it reports of it and what is still missing.

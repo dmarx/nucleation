@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpd7oz0), in place of LIT-tmp9rujh, which
+  read in full 2026-10-29 ([NOTE-tmpd7oz0](../notes.d/NOTE-tmpd7oz0.md)), in place of [LIT-tmp9rujh](LIT-tmp9rujh.md), which
   could not be reached; worth reading as a current map of what the IOS
   scale is used for and validated against. Its account of Aron et al. 1991
   is two sentences.
@@ -37,8 +37,8 @@ summary: >-
 
 Branand, B., Mashek, D. & Aron, A. (2019). *Frontiers in Psychology*, 10, 2399.
 
-Read in full in NOTE-tmpd7oz0.
+Read in full in [NOTE-tmpd7oz0](../notes.d/NOTE-tmpd7oz0.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp9rujh, which could not be reached. NOTE-tmpd7oz0 says what it reports of it and what is still missing.
+Read in place of [LIT-tmp9rujh](LIT-tmp9rujh.md), which could not be reached. [NOTE-tmpd7oz0](../notes.d/NOTE-tmpd7oz0.md) says what it reports of it and what is still missing.

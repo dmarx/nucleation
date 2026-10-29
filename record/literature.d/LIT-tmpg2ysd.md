@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpd1dh3), in place of LIT-tmp7qbeb and
-  LIT-tmpfxss5, which could not be reached; worth reading as the shortest
+  read in full 2026-10-29 ([NOTE-tmpd1dh3](../notes.d/NOTE-tmpd1dh3.md)), in place of [LIT-tmp7qbeb](LIT-tmp7qbeb.md) and
+  [LIT-tmpfxss5](LIT-tmpfxss5.md), which could not be reached; worth reading as the shortest
   neutral account of the 1997 merging exchange the record holds: it quotes
   both papers' measures, and it argues that a merging criterion must be
   one of numerical identity to matter for egoism. It does not report the
@@ -43,8 +43,8 @@ summary: >-
 
 Doris, J., Stich, S., Walmsley, L. & Schulz, A. (2025). In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy*. First published 6 January 2020; substantive revision 31 March 2025.
 
-Read in full in NOTE-tmpd1dh3.
+Read in full in [NOTE-tmpd1dh3](../notes.d/NOTE-tmpd1dh3.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp7qbeb and LIT-tmpfxss5, which could not be reached. NOTE-tmpd1dh3 says what it reports of them and what is still missing.
+Read in place of [LIT-tmp7qbeb](LIT-tmp7qbeb.md) and [LIT-tmpfxss5](LIT-tmpfxss5.md), which could not be reached. [NOTE-tmpd1dh3](../notes.d/NOTE-tmpd1dh3.md) says what it reports of them and what is still missing.

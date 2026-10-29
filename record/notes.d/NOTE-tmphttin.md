@@ -137,28 +137,28 @@ Humans need both, "belonging with and belonging to" (p. 24).
 
 ## Connections
 
-- **Brewer and Gardner 1996 (LIT-tmplxaqm)**, unread. The chapter's
+- **Brewer and Gardner 1996 ([LIT-tmplxaqm](../literature.d/LIT-tmplxaqm.md))**, unread. The chapter's
   framework. It is restated, not re-evidenced.
-- **León's personalized "we" (THEORY-tmpsm03n).** Brewer gives the same
+- **León's personalized "we" ([THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)).** Brewer gives the same
   line from psychology. The relational self is a we whose members are not
   interchangeable, kept apart from the depersonalized collective self.
-  León cites Brewer and Gardner for it (NOTE-tmpuba7m).
-- **Self-categorization theory (THEORY-tmpo85ke).** Brewer accepts its
+  León cites Brewer and Gardner for it ([NOTE-tmpuba7m](NOTE-tmpuba7m.md)).
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** Brewer accepts its
   account of the collective self but says it relegates relationships to
   "personal" identity (p. 2). On her model a close relationship is a
   social identity too.
-- **Aron et al. (LIT-tmp9rujh) and Cialdini et al. (LIT-tmpfxss5)**:
+- **Aron et al. ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md)) and Cialdini et al. ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md))**:
   their self–other inclusion is the relational self's kind of extension.
-- **Markus and Kitayama (LIT-tmp8zvjf)** are among the dichotomies the
+- **Markus and Kitayama ([LIT-tmp8zvjf](../literature.d/LIT-tmp8zvjf.md))** are among the dichotomies the
   tripartite model replaces.
-- **The group entity versus a category (TERM-tmpko4rw).** Brewer's line
+- **The group entity versus a category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** Brewer's line
   falls between personalized and depersonalized bonds, not between a
   whole and a set of like members. Families and teams fall on the
   relational side.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** These are inferences; Brewer
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are inferences; Brewer
   does not discuss selflessness.
   - Brewer states the thesis's premise in her own words: social
     identification is the self "extended to include others as integral to
@@ -176,17 +176,17 @@ Humans need both, "belonging with and belonging to" (p. 24).
     collective over self-interest", women to "sacrifice self-interest for
     the sake of a relationship" (p. 9). Self-interest there means the
     personal self's.
-- **Batson's objection (CLAIM-tmpybc4k).** Empathic helping of a
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Empathic helping of a
   particular person is the relational self's territory. If the thesis
   needs an extended self there, it is the relational self, and the
   oneness measures (Aron's circles) are its measures. Brewer adds nothing
   on empathy.
-- **The triviality objection (CLAIM-tmprudek).** Brewer's criteria for
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Brewer's criteria for
   the self's level are self-descriptions (the Twenty Statements Test) and
   importance ratings (the RIC scale asks what "is most important in
   life", p. 9). The first is a criterion apart from caring; the second is
   caring. The chapter does not test whether they come apart.
-- **A dated note should be added to CLAIM-tmpjylq8.** Proposed text:
+- **A dated note should be added to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).** Proposed text:
   "Brewer (NOTE-tmphttin) calls both close relationships and group
   memberships ways the individual self is 'extended to include others',
   but they are different extensions: the relational self takes in

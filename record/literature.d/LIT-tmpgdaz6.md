@@ -53,7 +53,7 @@ The meta-analytic support Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md))
 
 The work cannot be read here, so the record holds it at second hand.
 
-Spears 2021 (NOTE-tmpbdqc5). It gives the meta-analysis's conclusion in
+Spears 2021 ([NOTE-tmpbdqc5](../notes.d/NOTE-tmpbdqc5.md)). It gives the meta-analysis's conclusion in
 one paragraph (p. 375). Group immersion and anonymity enhanced
 depersonalization and conformity to local group norms, not antinormative
 behaviour, once local norms are kept apart from general societal ones.
@@ -61,7 +61,7 @@ Missing still: the number of studies (the LIT's "60" is not confirmed
 here), effect sizes, the moderators tested, how "antinormative" was coded,
 and whether self-awareness itself was meta-analysed.
 
-Spears & Postmes 2015 (NOTE-tmpeg80o). It gives the conclusion in one
+Spears & Postmes 2015 ([NOTE-tmpeg80o](../notes.d/NOTE-tmpeg80o.md)). It gives the conclusion in one
 sentence: anonymity in the group "actually enhances conformity to local or
 specific group norms, rather than increasing antinormative or antisocial
 behavior" (p. 29). Beside it, it cites later CMC studies in which

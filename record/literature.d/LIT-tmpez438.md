@@ -54,7 +54,7 @@ The primary experiment behind [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)'
 
 The work cannot be read here, so the record holds it at second hand.
 
-Spears 2021 (NOTE-tmpbdqc5). It does not cite the 1991 paper. It defines
+Spears 2021 ([NOTE-tmpbdqc5](../notes.d/NOTE-tmpbdqc5.md)). It does not cite the 1991 paper. It defines
 comparative fit (groups differ on the dimension) and normative fit (they
 differ in the stereotyped direction) in the same terms (p. 373). It also
 reports a study of the same form from another lab. In Lea et al. 2007,

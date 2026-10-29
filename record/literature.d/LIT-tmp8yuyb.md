@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md):
   the author's accepted manuscript is open in Europe PMC
   (europepmc.org/articles/PMC3764505; also PubMed Central, PMC3764505), as
   Unpaywall lists. On 2026-10-29 Europe PMC's REST service returned no
@@ -48,4 +48,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The extent of the self over time, measured the way the record's readings measure its extent over people. If concern for one's future self tracks felt overlap, prudence itself has the thesis's shape (CLAIM-tmpjylq8). For QUESTION-tmpruhu4 and Parfit (THEORY-464).
+The extent of the self over time, measured the way the record's readings measure its extent over people. If concern for one's future self tracks felt overlap, prudence itself has the thesis's shape ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)). For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md) and Parfit ([THEORY-464](../theory.d/THEORY-464.md)).

@@ -162,28 +162,28 @@ outgroup" (p. 86).
 
 ## Connections
 
-- **Tajfel et al. 1971 (LIT-tmp6t6ny)**, Unavailable. This review gives
+- **Tajfel et al. 1971 ([LIT-tmp6t6ny](../literature.d/LIT-tmp6t6ny.md))**, Unavailable. This review gives
   its design and the gist of its result, not its experiments or numbers.
-- **Robertson et al. (NOTE-tmp0cdsp).** Their preregistered online study
+- **Robertson et al. ([NOTE-tmp0cdsp](NOTE-tmp0cdsp.md)).** Their preregistered online study
   found minimal-group favouritism only as it rose with identification.
   That fits Otten's emphasis on the self–group link as the driver (C4).
   It is not the same claim: Robertson measured identification, not
   projection.
-- **Hornsey 2008 (NOTE-tmp3dav9)** names the same critiques at the same
+- **Hornsey 2008 ([NOTE-tmp3dav9](NOTE-tmp3dav9.md))** names the same critiques at the same
   level of detail: demand, similarity and Rabbie's interdependence.
   Otten adds positive–negative asymmetry and self-anchoring, which Hornsey
   does not.
-- **Self-categorization theory (THEORY-tmpo85ke).** Van Veelen's
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** Van Veelen's
   self-stereotyping is the theory's depersonalization seen from the
   individual. Self-anchoring runs the other way. Otten treats the two as
   complementary pathways chosen by how much is known about the group.
-- **Self-esteem (LIT-tmpv3dgs, unread).** Falk et al.'s cultural result,
+- **Self-esteem ([LIT-tmpv3dgs](../literature.d/LIT-tmpv3dgs.md), unread).** Falk et al.'s cultural result,
   partly explained by self-esteem, is one more piece of the contested
   self-esteem strand.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper bears on it at
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper bears on it at
   three points. These are inferences; Otten does not discuss selflessness.
   - The minimal group is the textbook case of acting for a group with no
     personal gain. Its standard explanation, a positive self-concept from
@@ -200,13 +200,13 @@ outgroup" (p. 86).
     group is favoured with what is left. The extended self then has an
     order inside it, with the personal self at the front. The thesis says
     nothing yet about that order.
-- **The triviality objection (CLAIM-tmprudek).** Projection of one's own
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Projection of one's own
   traits is a criterion of the self's extent that is not a report of
   caring. Otten reports it predicts identification and bias. It is
   measured by trait overlap between self and group, the same kind of
   measure as Aron's circles.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note should be added to CLAIM-tmpjylq8**, perhaps together
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note should be added to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)**, perhaps together
   with Pinter and Greenwald's (see the second draft). Proposed text:
 
   > Note of 2026-10-29: the minimal group, read at second hand. Otten
@@ -253,4 +253,4 @@ outgroup" (p. 86).
   later? Only the original, or a reanalysis of it, can answer.
 - Does self-anchoring predict sacrifice for the group when caring about
   the group is held fixed? That would test it as the criterion
-  CLAIM-tmprudek asks for.
+  [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) asks for.

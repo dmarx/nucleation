@@ -53,7 +53,7 @@ Cited by Turner et al. 1994 ([NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md)) for t
 
 The work cannot be read here, so the record holds it at second hand.
 
-Dovidio et al. 2009 (NOTE-tmpg3nwd) report the experiment in one sentence
+Dovidio et al. 2009 ([NOTE-tmpg3nwd](../notes.d/NOTE-tmpg3nwd.md)) report the experiment in one sentence
 (p. 194): against a two-group condition, decategorization reduced bias by
 making former in-group members less attractive, and recategorization by
 making former out-group members more attractive. They also say the 1997

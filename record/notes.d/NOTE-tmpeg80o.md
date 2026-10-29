@@ -226,20 +226,20 @@ statistics.
 
 ## Connections
 
-- **Reicher, Spears & Postmes 1995 (LIT-tmpjavie)**, unread. Cited as a
+- **Reicher, Spears & Postmes 1995 ([LIT-tmpjavie](../literature.d/LIT-tmpjavie.md))**, unread. Cited as a
   founding statement of the model and of its strategic dimension (pp. 23,
   31). The chapter gives the model's content and the experiments that
   preceded and followed it, but not the 1995 paper's own argument.
-- **Postmes & Spears 1998 (LIT-tmpgdaz6)**, unread. Given one sentence
+- **Postmes & Spears 1998 ([LIT-tmpgdaz6](../literature.d/LIT-tmpgdaz6.md))**, unread. Given one sentence
   (p. 29).
-- **Turner et al. 1994 (NOTE-tmpf9mzh) and Hornsey 2008 (NOTE-tmp3dav9).**
+- **Turner et al. 1994 ([NOTE-tmpf9mzh](NOTE-tmpf9mzh.md)) and Hornsey 2008 ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)).**
   Turner et al. define depersonalization as a shift in self-perception
-  (p. 455), which NOTE-tmpf9mzh glosses as "not a loss of self", but they
+  (p. 455), which [NOTE-tmpf9mzh](NOTE-tmpf9mzh.md) glosses as "not a loss of self", but they
   do not discuss crowds. Hornsey gives SIDE one sentence (p. 210). This
   chapter supplies the model's structure, the strategic dimension (absent
   from both), and the evidence that anonymity does not reduce
   self-awareness.
-- **Skorich (NOTE-tmplcvy8, THEORY-tmpdftev).** Skorich separates
+- **Skorich ([NOTE-tmplcvy8](NOTE-tmplcvy8.md), [THEORY-tmpdftev](../theory.d/THEORY-tmpdftev.md)).** Skorich separates
   category effects, such as out-group homogeneity, from group-entity
   effects, such as crowd behaviour, and holds that accentuating likeness
   gives interchangeability, not unity. SIDE reports that depersonalized
@@ -247,13 +247,13 @@ statistics.
   relies on an implicit out-group (p. 25).
 - **Spears 2021 (read alongside).** It covers SIDE more briefly and
   influence more widely, and cites this chapter as the fuller review.
-- **León (THEORY-tmpsm03n).** SIDE's anonymous groups are the opposite of
+- **León ([THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)).** SIDE's anonymous groups are the opposite of
   León's close dyads. Their members' individuating features are hidden,
   and that is what makes the "we" salient.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** This chapter answers the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** This chapter answers the
   question the thesis needs answered about crowds. Is the crowd member
   selfless, or acting on a larger self? These are inferences; the authors
   do not discuss selflessness.
@@ -268,7 +268,7 @@ statistics.
     away from the group under personal salience. That is a choice of one
     self over another, not an enlargement. It confirms the thesis's own
     caveat that depersonalization is "a change of self, not plainly a
-    larger one". Fusion (NOTE-tmp3g9n4) remains the record's case for
+    larger one". Fusion ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)) remains the record's case for
     "larger".
   - **Strategic action on a group self.** Unaccountable students did what
     their group's norm allowed and staff would punish, and nothing the
@@ -277,7 +277,7 @@ statistics.
     calculation of what one can get away with is kept, but it serves the
     salient self's norms. That fits "self-interest on a larger
     self-identity" well, provided the larger self is the salient one.
-- **The triviality objection (CLAIM-tmprudek).** SIDE experiments fix the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** SIDE experiments fix the
   self's level by instruction, not by what participants care about, and
   that level predicts the direction of influence (p. 28). That is the kind
   of independent criterion the objection asks for. Chan's donors are a
@@ -287,18 +287,18 @@ statistics.
   measured attachment. But caring was not measured separately, the
   outcomes are attitudes and one field donation study, and all of it is at
   second hand.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed. Nothing here
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed. Nothing here
   concerns empathic concern for an individual.
-- **Self-categorization theory (THEORY-tmpo85ke).** The implicit
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The implicit
   out-group in the polarization account (p. 25) bears on the THEORY's
   proposed test against Skorich, as noted from Spears 2021. Lea et al.
   2007 is a candidate primary study, from the authors' own lab.
-- **CASE-104 and QUESTION-119.** The strategic dimension gives a reading
+- **[CASE-104](../cases.d/CASE-104.md) and [QUESTION-119](../questions.d/QUESTION-119.md).** The strategic dimension gives a reading
   of fan crowds. Chants and boycott calls, made anonymously or among many
   other fans, express in-group norms that the club or police would
   sanction, so they show the norm, not each fan's view. Stated as a
   derivation, not a finding about fans.
-- **A dated note is added to CLAIM-tmpjylq8.** Proposed text:
+- **A dated note is added to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).** Proposed text:
 
   > Note of 2026-10-29: the crowd member is not selfless. Spears and
   > Postmes (2015), read in place of Reicher et al. 1995 and Postmes &
@@ -309,7 +309,7 @@ statistics.
   > crowds. Its word "larger" does not: anonymity amplifies whichever
   > identity is salient, which is a switch of self. Experimental salience
   > manipulations, which fix the self's level apart from caring, are the
-  > kind of criterion CLAIM-tmprudek asks for.
+  > kind of criterion [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) asks for.
 
 - **No THEORY filed.** SIDE would be a THEORY in its own right. Its
   founding statement and every primary study are unread.
@@ -354,4 +354,4 @@ statistics.
   "addition". That bears on whether SIDE's self is changed or larger.
 - Does salience predict sacrifice, not only attitude change, when
   identification and caring are held fixed? Chan's design, with a measure
-  of concern for the group's welfare added, would answer CLAIM-tmprudek.
+  of concern for the group's welfare added, would answer [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md).

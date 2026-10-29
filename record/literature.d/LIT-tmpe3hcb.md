@@ -53,7 +53,7 @@ Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md), p. 216) and von Scheve & 
 
 The work cannot be read here, so the record holds it at second hand.
 
-Smith and Mackie 2016 (NOTE-tmpfj8cp) cite the 1993 chapter as the origin
+Smith and Mackie 2016 ([NOTE-tmpfj8cp](../notes.d/NOTE-tmpfj8cp.md)) cite the 1993 chapter as the origin
 of group-based emotion and restate its core: with a social identity
 salient, the group is an aspect of the self, events are appraised for
 their implications for the group, and emotions such as anxiety, anger or

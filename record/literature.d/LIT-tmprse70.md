@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmphttin), in place of LIT-tmplxaqm, which
+  read in full 2026-10-29 ([NOTE-tmphttin](../notes.d/NOTE-tmphttin.md)), in place of [LIT-tmplxaqm](LIT-tmplxaqm.md), which
   could not be reached; worth reading as the tripartite self's author
   restating it in her own words, with the claim that both relationships
   and groups extend the self, in two different ways.
@@ -42,8 +42,8 @@ summary: >-
 
 Brewer, M. B. (2007). Draft chapter for the Sydney Symposium of Social Psychology 2007. Apparently published as "Social identity and close relationships" in J. P. Forgas & J. Fitness (Eds.), *Social Relationships* (pp. 179–196), Psychology Press, 2008, doi:10.4324/9780203888124-18.
 
-Read in full in NOTE-tmphttin.
+Read in full in [NOTE-tmphttin](../notes.d/NOTE-tmphttin.md).
 
 ## Why this is here
 
-Read in place of LIT-tmplxaqm, which could not be reached. NOTE-tmphttin says what it reports of it and what is still missing.
+Read in place of [LIT-tmplxaqm](LIT-tmplxaqm.md), which could not be reached. [NOTE-tmphttin](../notes.d/NOTE-tmphttin.md) says what it reports of it and what is still missing.

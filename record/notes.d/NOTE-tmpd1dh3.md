@@ -161,20 +161,20 @@ the helping.
 
 ## Connections
 
-- **Batson et al. 1997 (LIT-tmp7qbeb) and Cialdini et al. 1997
-  (LIT-tmpfxss5)**, both Unavailable. §5.3 quotes each paper's measures
+- **Batson et al. 1997 ([LIT-tmp7qbeb](../literature.d/LIT-tmp7qbeb.md)) and Cialdini et al. 1997
+  ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md))**, both Unavailable. §5.3 quotes each paper's measures
   with page numbers. That is the record's only first-hand text from
   either.
-- **Aron et al. 1991 (LIT-tmp9rujh).** §5.3 quotes "Much of our cognition
+- **Aron et al. 1991 ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md)).** §5.3 quotes "Much of our cognition
   about the other in a close relationship is cognition in which the other
   is treated as self or confused with self—the underlying reason being a
   self-other merging", attributed to "Aron et al. 1980: 242". The
   bibliography has no 1980 Aron entry, and the 1991 paper runs pp.
-  241–253. So the quotation is probably from LIT-tmp9rujh, p. 242. This is
+  241–253. So the quotation is probably from [LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md), p. 242. This is
   an inference.
-- **Sober and Wilson (LIT-tmp1w1r9)** supply the standard account and the
+- **Sober and Wilson ([LIT-tmp1w1r9](../literature.d/LIT-tmp1w1r9.md))** supply the standard account and the
   biological/psychological distinction (§§2–3).
-- **Markus and Kitayama (LIT-tmp8zvjf)** open §5.3 as evidence that
+- **Markus and Kitayama ([LIT-tmp8zvjf](../literature.d/LIT-tmp8zvjf.md))** open §5.3 as evidence that
   self-concepts vary across cultures.
 - **Stich, Doris and Roedder 2010**, the handbook chapter this entry
   borrows from, is cited for the detailed methodological critique of
@@ -185,15 +185,15 @@ the helping.
 
 ## Bearing on the record
 
-- **Batson's objection (CLAIM-tmpybc4k).** The entry is the record's
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** The entry is the record's
   first independent report of how the 1997 exchange came out. It sides
   with Batson. But it gives the result in one sentence, with no design or
   numbers, so it does not let the record check the claim. One
-  discrepancy needs checking: LIT-tmp7qbeb's summary and CLAIM-tmpybc4k
+  discrepancy needs checking: [LIT-tmp7qbeb](../literature.d/LIT-tmp7qbeb.md)'s summary and [CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)
   say "four experiments", and the entry says Batson et al. "conducted a
   pair of experiments". The claim's wording should not repeat "four" until
   the paper is read.
-- **The owner's thesis (CLAIM-tmpjylq8).** §5.3 bears on it at two
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** §5.3 bears on it at two
   points. These are inferences; the entry does not discuss the thesis.
   - It rules out the strongest version of the thesis. If "a self that
     includes the other" means that one takes oneself to *be* the other,
@@ -206,7 +206,7 @@ the helping.
     the entry does not refute it. It does show that the thesis must say
     why an extended self-concept counts as "self" for the purpose of
     interest, since Sophia's case gets its force from identity.
-- **The triviality objection (CLAIM-tmprudek).** The entry supplies one
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The entry supplies one
   criterion of the self's extent that plainly comes apart from caring,
   numerical identity. It is too strong for the thesis to use. It calls the
   IOS scale and the "we" item, the criteria the thesis and its objection
@@ -215,10 +215,10 @@ the helping.
 - **What happened when Batson controlled for merging.** From this entry:
   three merging measures, including Cialdini's IOS scale; correction of
   unnamed methodological problems; empathy's role "clearly evident".
-  Nothing more. The question stays open until LIT-tmp7qbeb is read or a
+  Nothing more. The question stays open until [LIT-tmp7qbeb](../literature.d/LIT-tmp7qbeb.md) is read or a
   fuller secondary account is found. Miyazono and Inarimori point to
   Batson 2018, chapter 10, for the methodological problems.
-- **A dated note to CLAIM-tmpybc4k is proposed:**
+- **A dated note to [CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md) is proposed:**
   > Note of 2026-10-29: the SEP's report. Doris, Stich, Walmsley and
   > Schulz (NOTE-tmpd1dh3) report that Batson et al. found methodological
   > problems in Cialdini et al. and, in "a pair of experiments" that

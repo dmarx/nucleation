@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'A theory of generativity and its assessment through self-report, behavioral acts, and narrative themes in autobiography'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The standard measure of legacy motivation in personality psychology, by the author of the narrative-identity work the record holds (LIT-595). Its "inner desire" names symbolic immortality as a motive for care. For QUESTION-tmpruhu4.
+The standard measure of legacy motivation in personality psychology, by the author of the narrative-identity work the record holds ([LIT-595](LIT-595.md)). Its "inner desire" names symbolic immortality as a motive for care. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).

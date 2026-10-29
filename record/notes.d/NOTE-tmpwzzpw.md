@@ -148,7 +148,7 @@ certainty and the need for self-esteem" and the search for meaning
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | Social identity is the part of the self-concept that derives from group membership together with its value and emotional significance | definitional; quoted from Tajfel 1978 | p. 3 |
-| C2 | People are motivated to achieve a positive social identity, which they pursue by favourable comparison with out-groups, and which serves needs for certainty, self-esteem and meaning | weak as stated here: asserted, no evidence given; the self-esteem strand is contested elsewhere in the record (NOTE-tmp3dav9) | pp. 6–8 |
+| C2 | People are motivated to achieve a positive social identity, which they pursue by favourable comparison with out-groups, and which serves needs for certainty, self-esteem and meaning | weak as stated here: asserted, no evidence given; the self-esteem strand is contested elsewhere in the record ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)) | pp. 6–8 |
 | C3 | Members of low-status groups choose individual mobility, collective action or social creativity according to permeability, legitimacy and stability | moderate as a summary of the theory; no study is described | pp. 10–12 |
 | C4 | In organizations, identification and emotional involvement motivate effort more than instrumental interdependence does | weak to moderate: cited studies summarized, no effect sizes | pp. 19–21 |
 | C5 | Inducing a common in-group identity that includes an out-group raises helping of its members | moderate: one two-study paper summarized; intentions and offers, not acts | pp. 23–25 |
@@ -171,10 +171,10 @@ certainty and the need for self-esteem" and the search for meaning
 
 ## Connections
 
-- **Tajfel & Turner 1979 (LIT-tmp5zxl1)**, Unavailable. The chapter cites
+- **Tajfel & Turner 1979 ([LIT-tmp5zxl1](../literature.d/LIT-tmp5zxl1.md))**, Unavailable. The chapter cites
   it for the categorization–comparison process, the context example and
   the socio-structural variables. It does not quote it.
-- **Hornsey 2008 (NOTE-tmp3dav9).** What this adds:
+- **Hornsey 2008 ([NOTE-tmp3dav9](NOTE-tmp3dav9.md)).** What this adds:
   - the needs a positive social identity is said to serve, stated
     outright;
   - identification as multicomponent, and Box 7's report that commitment
@@ -189,25 +189,25 @@ certainty and the need for self-esteem" and the search for meaning
   two dead ends (identification and bias; the self-esteem hypothesis).
   Where Hornsey reports the self-esteem strand as contested, this chapter
   states the need for self-esteem without qualification.
-- **Reimer et al. 2020 (NOTE-tmp222eb)** already gives multicomponent
+- **Reimer et al. 2020 ([NOTE-tmp222eb](NOTE-tmp222eb.md))** already gives multicomponent
   identification (Ashmore et al.'s seven components) and the
   common-in-group and dual-identity models. This chapter's additions over
   it are Box 7, the "selfish concerns" passage and the applied studies.
-- **The common in-group identity model (LIT-tmpagj5r)**, Unavailable.
+- **The common in-group identity model ([LIT-tmpagj5r](../literature.d/LIT-tmpagj5r.md))**, Unavailable.
   This chapter gives the model in a paragraph and one test of it.
-- **The minimal group (LIT-tmp6t6ny; Otten and Pinter and Greenwald,
+- **The minimal group ([LIT-tmp6t6ny](../literature.d/LIT-tmp6t6ny.md); Otten and Pinter and Greenwald,
   drafted alongside).** The chapter cites Tajfel 1970, the *Scientific
   American* account, for the result.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** These are inferences; the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are inferences; the
   authors do not discuss selflessness.
   - SIT has the thesis's shape. A group becomes part of the self, and
     acting for the group serves that self's need for a positive identity.
     The chapter states the needs in the individual's terms: certainty,
     self-esteem, meaning.
-  - That is the instrumental reading that Stich (NOTE-tmpeuwqz) marks as
+  - That is the instrumental reading that Stich ([NOTE-tmpeuwqz](NOTE-tmpeuwqz.md)) marks as
     classical egoism, open to Batson's and Sober and Wilson's objections.
     If the thesis takes SIT's motive as its mechanism, it takes on the
     contested self-esteem strand as well.
@@ -220,7 +220,7 @@ certainty and the need for self-esteem" and the search for meaning
     to include the out-group member and help for them rises. But the
     chapter reports only that the common identity mediated willingness
     for contact, not helping. And the outcome is intention, not action.
-- **The triviality objection (CLAIM-tmprudek).** The chapter shows the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The chapter shows the
   objection's problem inside SIT itself.
   - Tajfel's definition puts "the value or emotional significance attached
     to that membership" into social identity. On that definition, a
@@ -233,12 +233,12 @@ certainty and the need for self-esteem" and the search for meaning
     separates the parts, commitment predicts behaviour and
     self-categorization less so. If that holds, motivation follows the
     caring component and not the self's extent. The thesis would fail the
-    test CLAIM-tmprudek sets, unless it counts commitment as part of the
+    test [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) sets, unless it counts commitment as part of the
     self, which is the definitional move the objection warns against.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed directly. The
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed directly. The
   Vezzali result concerns helping an individual of another group, but
   measures no empathy.
-- **A dated note should be added to CLAIM-tmprudek.** Proposed text:
+- **A dated note should be added to [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md).** Proposed text:
 
   > Note of 2026-10-29: the objection inside social identity theory.
   > Tajfel's definition of social identity, as Scheepers and Ellemers
@@ -251,7 +251,7 @@ certainty and the need for self-esteem" and the search for meaning
   > predicts behaviour better; if that is right, motivation follows caring
   > rather than the self's extent.
 - **No THEORY filed.** A textbook restatement with no new evidence;
-  LIT-tmp5zxl1 stays the theory's unread source.
+  [LIT-tmp5zxl1](../literature.d/LIT-tmp5zxl1.md) stays the theory's unread source.
 - **No ML instruction.**
 
 ## Limitations
@@ -287,7 +287,7 @@ certainty and the need for self-esteem" and the search for meaning
 
 - Does self-categorization, measured apart from commitment, predict
   costly action for a group when commitment is held fixed? That is the
-  test CLAIM-tmprudek asks for, and Box 7 says the answer is no. The
+  test [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) asks for, and Box 7 says the answer is no. The
   record holds none of the management studies behind it.
 - Did the common in-group identity mediate the helping offers, not only
   willingness for contact? Vezzali et al. 2015 would say.

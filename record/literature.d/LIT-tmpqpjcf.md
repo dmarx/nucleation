@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpbdqc5), in place of LIT-tmpez438 and
-  LIT-tmpgdaz6, which could not be reached; worth reading as the most
+  read in full 2026-10-29 ([NOTE-tmpbdqc5](../notes.d/NOTE-tmpbdqc5.md)), in place of [LIT-tmpez438](LIT-tmpez438.md) and
+  [LIT-tmpgdaz6](LIT-tmpgdaz6.md), which could not be reached; worth reading as the most
   recent overview, by an author of the SIDE model, of how
   self-categorization theory treats influence, norms and deindividuation,
   and as the record's second-hand access to Postmes & Spears 1998.
@@ -42,8 +42,8 @@ summary: >-
 
 Spears, R. (2021). *Annual Review of Psychology*, 72, 367–390.
 
-Read in full in NOTE-tmpbdqc5.
+Read in full in [NOTE-tmpbdqc5](../notes.d/NOTE-tmpbdqc5.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpez438 and LIT-tmpgdaz6, which could not be reached. NOTE-tmpbdqc5 says what it reports of them and what is still missing.
+Read in place of [LIT-tmpez438](LIT-tmpez438.md) and [LIT-tmpgdaz6](LIT-tmpgdaz6.md), which could not be reached. [NOTE-tmpbdqc5](../notes.d/NOTE-tmpbdqc5.md) says what it reports of them and what is still missing.

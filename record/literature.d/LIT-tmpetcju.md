@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'How Will I Be Remembered? Conserving the Environment for the Sake of One''s Legacy'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Shows legacy motivation as a measurable and manipulable cause of concern for a future one will not see. For QUESTION-tmpruhu4.
+Shows legacy motivation as a measurable and manipulable cause of concern for a future one will not see. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).

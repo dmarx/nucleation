@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpg3nwd), in place of LIT-tmpatrf7 and
-  LIT-tmpagj5r, which could not be reached; worth reading as the model's
+  read in full 2026-10-29 ([NOTE-tmpg3nwd](../notes.d/NOTE-tmpg3nwd.md)), in place of [LIT-tmpatrf7](LIT-tmpatrf7.md) and
+  [LIT-tmpagj5r](LIT-tmpagj5r.md), which could not be reached; worth reading as the model's
   authors' own account of how an enlarged "we" extends helping across
   group lines, with the qualification that the "we" which helps is the
   helper's version of it.
@@ -43,8 +43,8 @@ summary: >-
 
 Dovidio, J. F., Gaertner, S. L., Shnabel, N., Saguy, T. & Johnson, J. (2009). In S. Stürmer & M. Snyder (Eds.), *The Psychology of Prosocial Behavior* (pp. 191–207). Chichester: Wiley-Blackwell.
 
-Read in full in NOTE-tmpg3nwd.
+Read in full in [NOTE-tmpg3nwd](../notes.d/NOTE-tmpg3nwd.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpatrf7 and LIT-tmpagj5r, which could not be reached. NOTE-tmpg3nwd says what it reports of them and what is still missing.
+Read in place of [LIT-tmpatrf7](LIT-tmpatrf7.md) and [LIT-tmpagj5r](LIT-tmpagj5r.md), which could not be reached. [NOTE-tmpg3nwd](../notes.d/NOTE-tmpg3nwd.md) says what it reports of them and what is still missing.

@@ -159,21 +159,21 @@ highly as satisfaction does (p. 162).
 
 ## Connections
 
-- **Ashmore et al. 2004 (LIT-tmpzjqiu)**, unread. Cited as the review
+- **Ashmore et al. 2004 ([LIT-tmpzjqiu](../literature.d/LIT-tmpzjqiu.md))**, unread. Cited as the review
   showing unitary identification measures inadequate, and for
   satisfaction and centrality. Leach et al. do not map their components
   onto its elements.
-- **Self-categorization theory (THEORY-tmpo85ke).** Self-stereotyping is
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** Self-stereotyping is
   its depersonalization, measured as a trait-like perception rather than
   a salience effect. The paper puts centrality, which the theory treats
   as part of identification, on the investment side.
-- **Brewer and Gardner 1996 (LIT-tmplxaqm).** Their relational self is
+- **Brewer and Gardner 1996 ([LIT-tmplxaqm](../literature.d/LIT-tmplxaqm.md)).** Their relational self is
   said to resemble solidarity (p. 147).
-- **Smith 1993 (LIT-tmpe3hcb) and Smith and Mackie 2016** (read in this
+- **Smith 1993 ([LIT-tmpe3hcb](../literature.d/LIT-tmpe3hcb.md)) and Smith and Mackie 2016** (read in this
   batch, NOTE-tmp8tnhr). Group-based emotion presumes identification;
   Leach et al. say it is self-definition that guilt needs, and
   investment that undercuts it.
-- **The group entity versus a category (TERM-tmpko4rw).** The authors
+- **The group entity versus a category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** The authors
   suggest identification with categorical "common identity" groups rests
   more on self-definition, and with "common bond" groups more on
   self-investment (p. 163). Their homogeneity component makes a group a
@@ -182,7 +182,7 @@ highly as satisfaction does (p. 162).
 
 ## Bearing on the record
 
-- **The triviality objection (CLAIM-tmprudek).** This paper answers part
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** This paper answers part
   of the question the objection asks. These are inferences; the authors
   do not discuss egoism.
   - Identification does split into a self-extent dimension and a caring
@@ -200,7 +200,7 @@ highly as satisfaction does (p. 162).
     myself", the plainest self-extent wording, is centrality, which loads
     with caring. Situational salience by fit, the objection's other
     example, is not measured.
-- **The owner's thesis (CLAIM-tmpjylq8).**
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).**
   - If the larger self is fixed by self-definition, its signature is
     sharing the group's guilt, not defending its image. An extended self
     in this sense takes the group's misdeeds as partly one's own. That is
@@ -208,11 +208,11 @@ highly as satisfaction does (p. 162).
   - If it is fixed by investment, it defends the group's image. Then
     self-interest on a larger self looks like protecting a valued
     identity, which fits the reading the fusion note gave (a self-concept
-    to be kept, CLAIM-tmpjylq8's note on fusion).
+    to be kept, [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)'s note on fusion).
   - No study measures helping or sacrifice, so which dimension carries
     prosocial action is open. Solidarity predicted wanting Muslims to
     integrate, an in-group-directed wish.
-- **A dated note should be added to CLAIM-tmprudek.** Proposed text:
+- **A dated note should be added to [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md).** Proposed text:
   "Leach et al. (NOTE-tmp8tnhr) split identification into group-level
   self-definition (seeing oneself as like the average member) and
   self-investment (satisfaction, solidarity, centrality). The two

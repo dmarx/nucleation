@@ -156,17 +156,17 @@ they process their own.
 
 ## Connections
 
-- **Aron et al. 1991 (LIT-tmp9rujh).** The review gives the paper's
+- **Aron et al. 1991 ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md)).** The review gives the paper's
   conclusion and its me/not-me result in one sentence each. The SEP entry,
   read the same day, quotes a line attributed to "Aron et al. 1980: 242"
   that is probably from it.
-- **Cialdini et al. and Batson et al. 1997 (LIT-tmpfxss5, LIT-tmp7qbeb).**
+- **Cialdini et al. and Batson et al. 1997 ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md), [LIT-tmp7qbeb](../literature.d/LIT-tmp7qbeb.md)).**
   Both used the IOS scale as their overlap measure. The review does not
   mention the altruism dispute.
-- **Identity fusion (NOTE-tmp3g9n4).** Swann's fusion item was adapted
+- **Identity fusion ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)).** Swann's fusion item was adapted
   from this scale. Walsh and Neff carry fusion into couples and find
   balance matters, not only the amount of overlap.
-- **León's personalized "we" (THEORY-tmpsm03n).** Walsh and Neff's result,
+- **León's personalized "we" ([THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)).** Walsh and Neff's result,
   that a balanced couple identity beats one where either self dominates,
   fits León's claim that the "we" is healthier the more differentiated
   the "I". Weinstein et al.'s self-determination moderation points the
@@ -174,7 +174,7 @@ they process their own.
 
 ## Bearing on the record
 
-- **The triviality objection (CLAIM-tmprudek).** This is the record's best
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** This is the record's best
   material on the objection's demand, though it does not meet it. The
   following are inferences; the review does not discuss motivation for
   others' sake.
@@ -191,14 +191,14 @@ they process their own.
     violation. Treating a partner's conduct as touching one's own honour
     is what self-extension predicts, and what concern for her welfare does
     not. The review reports this as one correlational study.
-- **The owner's thesis (CLAIM-tmpjylq8).** Self-expansion is cited there
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Self-expansion is cited there
   as an "inclusive self". The review confirms that the model claims
   this: partners' "outcomes are shared" (p. 1). But the model's motive is
   expanding *one's own* efficacy by acquiring the partner's resources. It
   fits the thesis's "larger self", but as acquisition, not as concern
   for the partner. An inference.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note to CLAIM-tmprudek is proposed:**
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note to [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) is proposed:**
   > Note of 2026-10-29: what IOS measures. Branand, Mashek and Aron
   > (NOTE-tmpd7oz0) report that the IOS scale is validated as a measure of
   > subjective closeness, so as a criterion of the self's extent it is not
