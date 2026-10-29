@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Close relationships as including other in the self'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Self-expansion is the relational form of the owner's "larger self" (CLAIM-tmpjylq8), and León (NOTE-tmpuba7m) cites it for close-relationship we-ness.
+Self-expansion is the relational form of the owner's "larger self" ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)), and León ([NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md)) cites it for close-relationship we-ness.

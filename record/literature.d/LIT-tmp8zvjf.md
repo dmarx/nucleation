@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Culture and the self: Implications for cognition, emotion, and motivation'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The cultural-psychology form of the owner's observation that collectivist attitudes reflect a self that includes others (CLAIM-tmpjylq8).
+The cultural-psychology form of the owner's observation that collectivist attitudes reflect a self that includes others ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).

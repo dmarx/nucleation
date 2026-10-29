@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Explaining the nature of power: a three-process theory'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Hornsey (NOTE-tmp3dav9, p. 211) cites it. It bears on CASE-104: who can speak for "the fans" against an owner, if influence follows prototypicality rather than position.
+Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md), p. 211) cites it. It bears on [CASE-104](../cases.d/CASE-104.md): who can speak for "the fans" against an owner, if influence follows prototypicality rather than position.

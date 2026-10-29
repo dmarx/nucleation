@@ -26,7 +26,7 @@ grounds:
 complements:
 - CLAIM-tmpxw0rc
 summary: >-
-  From Giulianotti's taxonomy (THEORY-tmp800bi): supporters are hot and
+  From Giulianotti's taxonomy ([THEORY-tmp800bi](../theory.d/THEORY-tmp800bi.md)): supporters are hot and
   bound to the club as community, while flâneurs are cool consumers who
   switch clubs. The expressions that make up "the fans hate the owner"
   come from the hot types, and the cool ones take no part. So the stance
@@ -40,10 +40,10 @@ summary: >-
 
 ## The claim
 
-A2's account of CASE-104 explains a minority-held public stance by
+A2's account of [CASE-104](../cases.d/CASE-104.md) explains a minority-held public stance by
 preference falsification, unequal participation and amplification. This
 claim adds a prior cause: who the fanbase *is*. Giulianotti's spectators
-(THEORY-tmp800bi) differ in how central the club is to them and on what
+([THEORY-tmp800bi](../theory.d/THEORY-tmp800bi.md)) differ in how central the club is to them and on what
 basis. Supporters, and fans in their thicker forms, produce the visible
 expressions of a stance. Followers and flâneurs mostly do not. The stance
 "the fans" are credited with is therefore the hot types' stance, whatever
@@ -54,4 +54,4 @@ their share of the whole.
 - **Not that supporters are a minority.** Their share is unmeasured.
 - **Not that the stance is not the fanbase's.** If the fanbase as
   organized speaks through its committed members, the credit may be due;
-  that is QUESTION-119's question.
+  that is [QUESTION-119](../questions.d/QUESTION-119.md)'s question.

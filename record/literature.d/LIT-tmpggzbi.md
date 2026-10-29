@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Mental Hoop Diaries: Emotional Memories of a College Basketball Game in Rival Fans'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-An open study of rival fans' memories of the same game, filed in place of Talarico & Moore (LIT-1125), which is Unavailable. For the memory side of CASE-098's transmission.
+An open study of rival fans' memories of the same game, filed in place of Talarico & Moore ([LIT-1125](LIT-1125.md)), which is Unavailable. For the memory side of [CASE-098](../cases.d/CASE-098.md)'s transmission.

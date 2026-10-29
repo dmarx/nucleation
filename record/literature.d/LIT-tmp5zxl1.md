@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'An integrative theory of intergroup conflict'
 version: 1
 history:
@@ -43,4 +43,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The theory Hornsey (NOTE-tmp3dav9) separates from self-categorization theory, and the frame of Berendt & Uhrich (NOTE-tmpp2j50) and Čater et al. (LIT-1138). The record holds nothing else by Tajfel.
+The theory Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md)) separates from self-categorization theory, and the frame of Berendt & Uhrich ([NOTE-tmpp2j50](../notes.d/NOTE-tmpp2j50.md)) and Čater et al. ([LIT-1138](LIT-1138.md)). The record holds nothing else by Tajfel.

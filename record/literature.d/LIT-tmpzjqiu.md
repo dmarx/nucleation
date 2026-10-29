@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'An Organizing Framework for Collective Identity: Articulation and Significance of Multidimensionality'
 version: 1
 history:
@@ -38,4 +38,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The framework of identification used by Reimer et al. (NOTE-tmp222eb), Biel (NOTE-tmpmyga8) and Čater et al. (LIT-1138).
+The framework of identification used by Reimer et al. ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)), Biel ([NOTE-tmpmyga8](../notes.d/NOTE-tmpmyga8.md)) and Čater et al. ([LIT-1138](LIT-1138.md)).

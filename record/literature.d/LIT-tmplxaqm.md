@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Who is this "We"? Levels of collective identity and self representations'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-León (NOTE-tmpuba7m, fn. 14, 25) cites it for the relational self, the level between self-categorization theory's personal and social identity, where close-relationship we-ness lives.
+León ([NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md), fn. 14, 25) cites it for the relational self, the level between self-categorization theory's personal and social identity, where close-relationship we-ness lives.

@@ -43,19 +43,19 @@ summary: >-
 
 ## The claim
 
-QUESTION-119 asks when a stance credited to a diffuse population is the
+[QUESTION-119](../questions.d/QUESTION-119.md) asks when a stance credited to a diffuse population is the
 population's, and when it is a biased sample of what some members said.
-This claim offers a third possibility for CASE-104: a minority stance that
+This claim offers a third possibility for [CASE-104](../cases.d/CASE-104.md): a minority stance that
 becomes the group's through how the group perceives itself.
 
 Self-categorization theory holds that a category's prototype is set by
 metacontrast with the salient out-group. As a group becomes more extreme
 in an intergroup context, its more extreme members gain prototypicality
-over moderates (Turner et al. 1994, p. 458; THEORY-tmpo85ke). A dispute
-with an owner is such a context. Turner (2005, LIT-tmpyt5b0, unread)
+over moderates (Turner et al. 1994, p. 458; [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)). A dispute
+with an owner is such a context. Turner (2005, [LIT-tmpyt5b0](../literature.d/LIT-tmpyt5b0.md), unread)
 argues that influence follows prototypicality. The fans most hostile to
 the owner would then be taken, by fans themselves, as speaking for the
-fans, and their stance would set the norm (A2's third reading in CASE-104)
+fans, and their stance would set the norm (A2's third reading in [CASE-104](../cases.d/CASE-104.md))
 without any procedure.
 
 ## What it does not say

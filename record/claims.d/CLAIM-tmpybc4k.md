@@ -34,10 +34,10 @@ summary: >-
 
 Batson's empathy–altruism hypothesis: feeling empathic concern for a
 person in need evokes a motive whose ultimate goal is that person's
-welfare, not one's own. Against Cialdini et al. (LIT-tmpfxss5), Batson et
-al. (LIT-tmp7qbeb) report that the empathy–helping link holds with
+welfare, not one's own. Against Cialdini et al. ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md)), Batson et
+al. ([LIT-tmp7qbeb](../literature.d/LIT-tmp7qbeb.md)) report that the empathy–helping link holds with
 perceived self–other merging controlled. If so, the owner's thesis
-(CLAIM-tmpjylq8) fails for at least some helping: there is no extended
+([CLAIM-tmpjylq8](CLAIM-tmpjylq8.md)) fails for at least some helping: there is no extended
 self for the motive to serve.
 
 ## What it does not say
@@ -46,4 +46,4 @@ self for the motive to serve.
   enough to defeat a universal thesis.
 - **Not that the 1997 exchange is settled.** Cialdini et al. measured
   oneness differently. Which measure captures the self's extent is the
-  crux that QUESTION-tmprbq0b asks about.
+  crux that [QUESTION-tmprbq0b](../questions.d/QUESTION-tmprbq0b.md) asks about.

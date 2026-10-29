@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Preregistered Replication and Extension of “Moral Hypocrisy: Social Groups and the Flexibility of Virtue”'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The nearest preregistered test found of minimal-group favouritism, asked for after Hornsey (NOTE-tmp3dav9) and Reimer et al. (NOTE-tmp222eb) leaned on 1970s studies. It is not a direct replication of Tajfel et al. 1971 (LIT-tmp6t6ny); a search on 2026-10-29 found none at scale.
+The nearest preregistered test found of minimal-group favouritism, asked for after Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md)) and Reimer et al. ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)) leaned on 1970s studies. It is not a direct replication of Tajfel et al. 1971 ([LIT-tmp6t6ny](LIT-tmp6t6ny.md)); a search on 2026-10-29 found none at scale.

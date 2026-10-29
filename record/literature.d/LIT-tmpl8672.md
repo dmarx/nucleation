@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'The Psychology of Rivalry: A Relationally Dependent Analysis of Competition'
 version: 1
 history:
@@ -38,4 +38,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Berendt & Uhrich (NOTE-tmpp2j50) take their definition of rivalry from it. A rivalry that depends on the relationship, not the stakes, is CASE-098's subject.
+Berendt & Uhrich ([NOTE-tmpp2j50](../notes.d/NOTE-tmpp2j50.md)) take their definition of rivalry from it. A rivalry that depends on the relationship, not the stakes, is [CASE-098](../cases.d/CASE-098.md)'s subject.

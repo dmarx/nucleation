@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Social Identity and Social Emotions: Toward New Conceptualizations of Prejudice'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Hornsey (NOTE-tmp3dav9, p. 216) and von Scheve & Ismer (NOTE-552) both trace group-based emotion to it. It joins THEORY-126's collective emotion to the self-categorization readings.
+Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md), p. 216) and von Scheve & Ismer ([NOTE-552](../notes.d/NOTE-552.md)) both trace group-based emotion to it. It joins [THEORY-126](../theory.d/THEORY-126.md)'s collective emotion to the self-categorization readings.

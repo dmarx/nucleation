@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'The Common Ingroup Identity Model: Recategorization and the Reduction of Intergroup Bias'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The model Biel (NOTE-tmpmyga8) and Reimer et al. (NOTE-tmp222eb) use, and behind Pettigrew's recategorization (LIT-1408).
+The model Biel ([NOTE-tmpmyga8](../notes.d/NOTE-tmpmyga8.md)) and Reimer et al. ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)) use, and behind Pettigrew's recategorization ([LIT-1408](LIT-1408.md)).

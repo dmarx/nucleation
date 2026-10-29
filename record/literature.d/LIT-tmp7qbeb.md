@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Is empathy-induced helping due to self–other merging?'
 version: 1
 history:
@@ -38,4 +38,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The counter-evidence to Cialdini et al. (LIT-tmpfxss5) and so to the owner's thesis (CLAIM-tmpjylq8); ground of the counter CLAIM-tmpybc4k.
+The counter-evidence to Cialdini et al. ([LIT-tmpfxss5](LIT-tmpfxss5.md)) and so to the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)); ground of the counter [CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md).

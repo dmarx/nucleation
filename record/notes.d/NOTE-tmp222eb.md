@@ -181,4 +181,4 @@ different things.
 - Does the self-esteem hypothesis survive in its bias-raises-esteem form
   in a preregistered test? The disagreement with Hornsey would be settled
   by reading Rubin & Hewstone (1998), filed unread on 2026-10-29 as
-  LIT-tmpv3dgs, and any later replication.
+  [LIT-tmpv3dgs](../literature.d/LIT-tmpv3dgs.md), and any later replication.

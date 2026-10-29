@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Unto Others: The Evolution and Psychology of Unselfish Behavior'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The standard philosophical treatment of whether unselfish motivation exists, and of the line between evolutionary and psychological altruism, the owner's thesis (CLAIM-tmpjylq8) has to cross. Hamilton (THEORY-655) is the kin-selection side.
+The standard philosophical treatment of whether unselfish motivation exists, and of the line between evolutionary and psychological altruism, the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)) has to cross. Hamilton ([THEORY-655](../theory.d/THEORY-655.md)) is the kin-selection side.

@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Rival conceptions of rivalry: why some competitions mean more than others'
 version: 1
 history:
@@ -37,4 +37,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The conception of rivalry as identity threat that Berendt & Uhrich (NOTE-tmpp2j50) amend. For CASE-098.
+The conception of rivalry as identity threat that Berendt & Uhrich ([NOTE-tmpp2j50](../notes.d/NOTE-tmpp2j50.md)) amend. For [CASE-098](../cases.d/CASE-098.md).

@@ -147,7 +147,7 @@ relation to place:
 - **Parasocial relationships.** The "fan" type's "non-reciprocal
   relations of intimacy with distant others" (Thompson) is the
   parasocial relationship that Archer's ethics of parasocial
-  relationships (LIT-172) treats. Added 2026-10-29.
+  relationships ([LIT-172](../literature.d/LIT-172.md)) treats. Added 2026-10-29.
 
 ## Bearing on the record
 

@@ -93,7 +93,7 @@ pp. 208–211).
 Nothing in the record shows it at first hand. Both sources report results
 from the theory's originating group without presenting data. Two of the
 primary studies were filed unread on 2026-10-29: Oakes, Turner & Haslam
-1991 (LIT-tmpez438) and Haslam et al. 1992 (LIT-tmpniaz0). The reported
+1991 ([LIT-tmpez438](../literature.d/LIT-tmpez438.md)) and Haslam et al. 1992 ([LIT-tmpniaz0](../literature.d/LIT-tmpniaz0.md)). The reported
 results are:
 
 - arts and science identities most salient under both comparative and

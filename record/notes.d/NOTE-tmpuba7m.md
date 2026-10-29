@@ -171,11 +171,11 @@ either way, a theory of one way is not a theory of the "we".
 
 - **Filed 2026-10-29, unread.** The works this paper turns on are now
   held: Zahavi's account of group identification by self-alienation
-  (LIT-tmply7z7); Salice and Miyazono on group identification and
-  collective intentionality (LIT-tmp217ac); Aron et al. on including the
-  other in the self (LIT-tmp9rujh); and Brewer and Gardner's relational
-  self (LIT-tmplxaqm). The owner's thesis that there is no selfless
-  action (CLAIM-tmpjylq8) draws on the same question from the other side.
+  ([LIT-tmply7z7](../literature.d/LIT-tmply7z7.md)); Salice and Miyazono on group identification and
+  collective intentionality ([LIT-tmp217ac](../literature.d/LIT-tmp217ac.md)); Aron et al. on including the
+  other in the self ([LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md)); and Brewer and Gardner's relational
+  self ([LIT-tmplxaqm](../literature.d/LIT-tmplxaqm.md)). The owner's thesis that there is no selfless
+  action ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)) draws on the same question from the other side.
 
 ## Bearing on the record
 

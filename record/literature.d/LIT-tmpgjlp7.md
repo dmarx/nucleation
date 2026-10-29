@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Identity fusion: The interplay of personal and social identities in extreme group behavior'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-It contradicts self-categorization theory's functional antagonism (NOTE-tmp3dav9) and is the strongest empirical form of the owner's thesis that group sacrifice is self-interest on an enlarged self (CLAIM-tmpjylq8).
+It contradicts self-categorization theory's functional antagonism ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md)) and is the strongest empirical form of the owner's thesis that group sacrifice is self-interest on an enlarged self ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).

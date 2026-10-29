@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Reinterpreting the empathy–altruism relationship: When one into one equals oneness'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The empirical form of the owner's thesis that no action is selfless, only aimed at a larger self (CLAIM-tmpjylq8). Its rival is Batson et al. (LIT-tmp7qbeb), in the same issue.
+The empirical form of the owner's thesis that no action is selfless, only aimed at a larger self ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)). Its rival is Batson et al. ([LIT-tmp7qbeb](LIT-tmp7qbeb.md)), in the same issue.

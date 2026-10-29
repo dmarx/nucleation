@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Reducing intergroup bias: The benefits of recategorization'
 version: 1
 history:
@@ -38,4 +38,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Cited by Turner et al. 1994 (NOTE-tmpf9mzh) for the widening of self-categorization, and the experimental origin of the common in-group identity model behind Biel (NOTE-tmpmyga8).
+Cited by Turner et al. 1994 ([NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md)) for the widening of self-categorization, and the experimental origin of the common in-group identity model behind Biel ([NOTE-tmpmyga8](../notes.d/NOTE-tmpmyga8.md)).

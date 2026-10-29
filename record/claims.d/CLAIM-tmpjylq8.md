@@ -54,18 +54,18 @@ self each identifies with, not whether each pursues their self's good.
 
 The record holds four kinds of support:
 
-- **Self-categorization theory** (THEORY-tmpo85ke). Social identity is a
+- **Self-categorization theory** ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)). Social identity is a
   self-categorization at a more inclusive level, as much a self as
   personal identity (Turner et al. 1994). Group-serving action is then
   action on that self's behalf.
-- **Oneness and fusion.** Cialdini et al. (LIT-tmpfxss5) found helping
+- **Oneness and fusion.** Cialdini et al. ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md)) found helping
   tracked perceived self–other oneness, not empathy. Identity fusion
-  (Swann et al., LIT-tmpgjlp7) predicts self-sacrifice for the group from
+  (Swann et al., [LIT-tmpgjlp7](../literature.d/LIT-tmpgjlp7.md)) predicts self-sacrifice for the group from
   felt oneness of personal and group self.
-- **Inclusive selves.** Self-expansion (Aron et al., LIT-tmp9rujh) and
-  interdependent self-construal (Markus and Kitayama, LIT-tmp8zvjf) give
+- **Inclusive selves.** Self-expansion (Aron et al., [LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md)) and
+  interdependent self-construal (Markus and Kitayama, [LIT-tmp8zvjf](../literature.d/LIT-tmp8zvjf.md)) give
   selves that include others.
-- **Evolution.** Hamilton's rule (THEORY-655) values others' fitness by
+- **Evolution.** Hamilton's rule ([THEORY-655](../theory.d/THEORY-655.md)) values others' fitness by
   relatedness, as if the self's genetic interest extended to kin.
 
 ## What it does not say
@@ -78,18 +78,18 @@ The record holds four kinds of support:
   of the self, but its depersonalization says the personal self
   *recedes* when the social one is salient. That is a change of self, not
   plainly a larger one. Identity fusion and León's personalized "we"
-  (THEORY-tmpsm03n) fit "larger" better.
+  ([THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)) fit "larger" better.
 - **Its sharpest objections are two.** The empirical one: Batson et al.
-  find empathic helping without self–other merging (CLAIM-tmpybc4k). The
-  conceptual one: the thesis may be true by definition (CLAIM-tmprudek).
+  find empathic helping without self–other merging ([CLAIM-tmpybc4k](CLAIM-tmpybc4k.md)). The
+  conceptual one: the thesis may be true by definition ([CLAIM-tmprudek](CLAIM-tmprudek.md)).
 - **Two neighbouring views draw the line elsewhere.** Team reasoning
-  (Sugden, LIT-tmpvsmnt) treats "what is good for us" as a third mode,
-  neither self-interest nor altruism. Akerlof and Kranton (LIT-tmpki8fs)
+  (Sugden, [LIT-tmpvsmnt](../literature.d/LIT-tmpvsmnt.md)) treats "what is good for us" as a third mode,
+  neither self-interest nor altruism. Akerlof and Kranton ([LIT-tmpki8fs](../literature.d/LIT-tmpki8fs.md))
   put identity in the utility function, which makes the thesis true of an
   economist's agent by construction.
 - **Where the owner's question sits.** It is in both territories.
   Self-categorization theory supplies the mechanism of a larger self;
-  the phenomenology of the "we" (Zahavi, LIT-tmply7z7; León) asks whether
+  the phenomenology of the "we" (Zahavi, [LIT-tmply7z7](../literature.d/LIT-tmply7z7.md); León) asks whether
   a "we" is a self at all, and León argues that intimate "we"s are built
-  by individualization. Johnston (LIT-tmpm40au) takes the same premise to
+  by individualization. Johnston ([LIT-tmpm40au](../literature.d/LIT-tmpm40au.md)) takes the same premise to
   the opposite moral: the good person's self is as large as humanity.

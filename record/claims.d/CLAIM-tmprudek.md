@@ -18,7 +18,7 @@ grounds:
 - LIT-tmp1w1r9
 summary: >-
   The classic objection to psychological egoism (Butler; Sober and Wilson,
-  LIT-tmp1w1r9), turned on the owner's thesis. "Every motive is my
+  [LIT-tmp1w1r9](../literature.d/LIT-tmp1w1r9.md)), turned on the owner's thesis. "Every motive is my
   motive" is trivially true and does not make every motive self-interested.
   "My self includes whatever I care about" makes the thesis unfalsifiable.
   It is answered if the thesis names an independent criterion of the
@@ -35,7 +35,7 @@ summary: >-
 Psychological egoism has long been charged with equivocation. Read one
 way, that every motive is the agent's own, it is trivially true. Read the
 other way, that every motive aims at the agent's own good, it needs
-argument. The owner's thesis (CLAIM-tmpjylq8) faces the same risk at a
+argument. The owner's thesis ([CLAIM-tmpjylq8](CLAIM-tmpjylq8.md)) faces the same risk at a
 new joint, the extent of the self. If the self is whatever the agent
 identifies with, and identifying with something means caring about it,
 then "all action serves an extended self" says only "all action serves
@@ -56,4 +56,4 @@ criterion. Candidates:
   testable.
 - **Not that every criterion of the self is circular.** Self-categorization
   theory's salience by fit, for instance, is fixed by the comparative
-  context, not by what the agent values (THEORY-tmpo85ke).
+  context, not by what the agent values ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).

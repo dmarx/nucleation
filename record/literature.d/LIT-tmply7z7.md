@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Second-Person Engagement, Self-Alienation, and Group-Identification'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The phenomenological account León (NOTE-tmpuba7m) criticizes, and the "we" phenomenology the owner's thesis (CLAIM-tmpjylq8) may sit nearer to than social identity research does.
+The phenomenological account León ([NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md)) criticizes, and the "we" phenomenology the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)) may sit nearer to than social identity research does.

@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'A Social Identity Model of Deindividuation Phenomena'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Recasts crowd "deindividuation" as identity shift (Hornsey, NOTE-tmp3dav9, p. 210). It bears on CASE-104's chants and boycotts, and on the record's crowd and collective-action cases.
+Recasts crowd "deindividuation" as identity shift (Hornsey, [NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md), p. 210). It bears on [CASE-104](../cases.d/CASE-104.md)'s chants and boycotts, and on the record's crowd and collective-action cases.

@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Perceiving people as group members: The role of fit in the salience of social categorizations'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The primary experiment behind THEORY-tmpo85ke's fit clause, reported in Turner et al. 1994 (NOTE-tmpf9mzh) and Reimer et al. (NOTE-tmp222eb). That THEORY's promote_when asks for a primary study read in full; this is one.
+The primary experiment behind [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)'s fit clause, reported in Turner et al. 1994 ([NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md)) and Reimer et al. ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)). That THEORY's promote_when asks for a primary study read in full; this is one.

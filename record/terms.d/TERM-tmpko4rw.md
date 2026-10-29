@@ -27,25 +27,25 @@ summary: >-
 - **A group entity** is a collection taken as one bounded whole, by the
   arrangement of relations among its members rather than their likeness.
   Families and orchestras are the paradigm cases. Skorich
-  (THEORY-tmpdftev) holds that perceiving people as a group entity
+  ([THEORY-tmpdftev](../theory.d/THEORY-tmpdftev.md)) holds that perceiving people as a group entity
   requires cues that they share mental states.
 
-The distinction is Skorich's (NOTE-tmplcvy8): accentuating the likeness
+The distinction is Skorich's ([NOTE-tmplcvy8](../notes.d/NOTE-tmplcvy8.md)): accentuating the likeness
 of a category's members makes them interchangeable, not one. León's
-close-relationship "we" (THEORY-tmpsm03n) is a group entity whose members
+close-relationship "we" ([THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)) is a group entity whose members
 are the opposite of interchangeable.
 
-It would let the record say precisely what CASE-104 and CASE-100 keep
+It would let the record say precisely what [CASE-104](../cases.d/CASE-104.md) and [CASE-100](../cases.d/CASE-100.md) keep
 needing. "The fans" (people who support the club) is a category. A
 fanbase seen to share an intention, such as a boycott or a supporters'
 trust, is a group entity, and only that is a candidate holder of a stance
-(CLAIM-tmpitq0u, CLAIM-tmpxw0rc).
+([CLAIM-tmpitq0u](../claims.d/CLAIM-tmpitq0u.md), [CLAIM-tmpxw0rc](../claims.d/CLAIM-tmpxw0rc.md)).
 
 ## What it is not
 
 - **Not a group agent** in social ontology's sense. A group entity is
   perceived as one; whether it acts as one is a further question
-  (QUESTION-119).
+  ([QUESTION-119](../questions.d/QUESTION-119.md)).
 - **Not entitativity as a degree.** Campbell's (1958) graded "entitativity"
   measures how much a collection looks like a unit. This term marks a
   difference in kind between a set and a whole.

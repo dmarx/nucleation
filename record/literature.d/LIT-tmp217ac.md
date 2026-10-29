@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Being one of us. Group identification, joint actions, and collective intentionality'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A bridge León (NOTE-tmpuba7m) relies on, between social identity research and the philosophy of collective intentionality the record holds (Gilbert, LIT-492; Tuomela).
+A bridge León ([NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md)) relies on, between social identity research and the philosophy of collective intentionality the record holds (Gilbert, [LIT-492](LIT-492.md); Tuomela).

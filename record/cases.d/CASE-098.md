@@ -100,12 +100,12 @@ Unfetched: a CC BY-NC copy exists at SAGE and this client was refused it.
 
 Also filed unread on 2026-10-29:
 
-- Botzung et al. 2010 (LIT-tmpggzbi), an open study of rival fans'
+- Botzung et al. 2010 ([LIT-tmpggzbi](../literature.d/LIT-tmpggzbi.md)), an open study of rival fans'
   memories of one game, in place of Talarico and Moore;
-- Kilduff, Elfenbein and Staw (LIT-tmpl8672), on rivalry as a
+- Kilduff, Elfenbein and Staw ([LIT-tmpl8672](../literature.d/LIT-tmpl8672.md)), on rivalry as a
   relationship rather than a matter of stakes;
-- Tyler and Cobbs (LIT-tmp1tphp), on rivalry as identity threat.
+- Tyler and Cobbs ([LIT-tmp1tphp](../literature.d/LIT-tmp1tphp.md)), on rivalry as identity threat.
 
-QUESTION-tmpbudbb asks whether perceived reciprocity is accurate. That is
+[QUESTION-tmpbudbb](../questions.d/QUESTION-tmpbudbb.md) asks whether perceived reciprocity is accurate. That is
 the paired-survey design this case would need to treat the rivalry as a
 two-sided relation.

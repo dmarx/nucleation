@@ -24,49 +24,49 @@ summary: >-
 
 ## Why it is a question
 
-The owner's position is CLAIM-tmpjylq8: there is no selflessness.
+The owner's position is [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md): there is no selflessness.
 People with collectivist attitudes have a larger self-identity, and
 collectivism is a self-interest that respects the good of a group
 identity. Three bodies of work make the position more than a slogan.
 
 - **Inclusive selves.** Self-categorization theory treats social identity
   as a self-categorization at a more inclusive level, no less a self than
-  personal identity (THEORY-tmpo85ke, from Turner et al. 1994). Related
+  personal identity ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md), from Turner et al. 1994). Related
   accounts:
   - self-expansion treats close others as included in the self (Aron et
-    al., LIT-tmp9rujh);
+    al., [LIT-tmp9rujh](../literature.d/LIT-tmp9rujh.md));
   - identity fusion treats the personal and group self as merged
-    (Swann et al., LIT-tmpgjlp7);
+    (Swann et al., [LIT-tmpgjlp7](../literature.d/LIT-tmpgjlp7.md));
   - cultural psychology finds selves construed interdependently (Markus
-    and Kitayama, LIT-tmp8zvjf).
-- **Helping traced to oneness.** Cialdini et al. (LIT-tmpfxss5) found that
+    and Kitayama, [LIT-tmp8zvjf](../literature.d/LIT-tmp8zvjf.md)).
+- **Helping traced to oneness.** Cialdini et al. ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md)) found that
   helping tracked perceived self–other "oneness", not empathy.
-- **Evolution.** Hamilton's rule (THEORY-655) has organisms valuing a
+- **Evolution.** Hamilton's rule ([THEORY-655](../theory.d/THEORY-655.md)) has organisms valuing a
   relative's fitness by relatedness: an evolutionary analogue of a self
   that extends to kin.
 
 Two things keep it open:
 
-- **Empirical.** Batson et al. (LIT-tmp7qbeb) report that empathy-induced
-  helping survives control for self–other merging (CLAIM-tmpybc4k).
+- **Empirical.** Batson et al. ([LIT-tmp7qbeb](../literature.d/LIT-tmp7qbeb.md)) report that empathy-induced
+  helping survives control for self–other merging ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).
 - **Conceptual.** If "self" means whatever one cares about, the thesis
-  cannot be false (CLAIM-tmprudek).
+  cannot be false ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).
 
 Two further positions cut across the dichotomy:
 
-- **Team reasoning** (Sugden, LIT-tmpvsmnt) makes "what is good for us" a
+- **Team reasoning** (Sugden, [LIT-tmpvsmnt](../literature.d/LIT-tmpvsmnt.md)) makes "what is good for us" a
   mode of reasoning that is neither self-interest nor altruism.
-- **Johnston** (LIT-tmpm40au) runs the thesis in reverse: if the self is
+- **Johnston** ([LIT-tmpm40au](../literature.d/LIT-tmpm40au.md)) runs the thesis in reverse: if the self is
   as large as what one identifies with, the good person's self is
   humanity.
 
 The question also touches the phenomenology of the "we" the owner
 mentioned:
 
-- Zahavi (LIT-tmply7z7) on how one comes to see oneself as one of us;
-- León (THEORY-tmpsm03n) on a "we" built by individualization, not
+- Zahavi ([LIT-tmply7z7](../literature.d/LIT-tmply7z7.md)) on how one comes to see oneself as one of us;
+- León ([THEORY-tmpsm03n](../theory.d/THEORY-tmpsm03n.md)) on a "we" built by individualization, not
   depersonalization;
-- Parfit's question of what matters in survival (THEORY-464).
+- Parfit's question of what matters in survival ([THEORY-464](../theory.d/THEORY-464.md)).
 
 ## What would count as an answer
 

@@ -8,9 +8,9 @@ tags:
 date: '2026-10-29'
 line: distributed-agency
 summary: >-
-  Berendt and Uhrich (THEORY-tmpk1fow) find that rivalry's gains for fans
+  Berendt and Uhrich ([THEORY-tmpk1fow](../theory.d/THEORY-tmpk1fow.md)) find that rivalry's gains for fans
   run through *perceived* reciprocity, but they surveyed one side of each
-  rivalry. CASE-098 needs the relation itself, a rivalry both sides carry.
+  rivalry. [CASE-098](../cases.d/CASE-098.md) needs the relation itself, a rivalry both sides carry.
   The study that would answer it pairs surveys of both clubs' fans, and
   compares each side's perceived reciprocity with the other side's
   reported rivalry intensity.
@@ -23,11 +23,11 @@ summary: >-
 
 In Berendt and Uhrich's survey of 571 Bundesliga supporters, the benefits
 of a rivalry flow through the belief that the rival returns the
-antagonism (THEORY-tmpk1fow). Tyler and Cobbs (LIT-tmp1tphp) document
+antagonism ([THEORY-tmpk1fow](../theory.d/THEORY-tmpk1fow.md)). Tyler and Cobbs ([LIT-tmp1tphp](../literature.d/LIT-tmp1tphp.md)) document
 one-sided rivalries, where A's fans name B but B's do not name A. So the
 belief can be false.
 
-CASE-098 is about the rivalry as a relation that outlives its carriers.
+[CASE-098](../cases.d/CASE-098.md) is about the rivalry as a relation that outlives its carriers.
 If identity benefits track the perception, the rivalry's persistence can
 be carried by each side's beliefs about the other. If they track the
 fact, the relation itself does work.
@@ -43,5 +43,5 @@ mutual. The measures:
 
 The answer is whether one side's outcomes depend on the other side's
 *actual* intensity once its own perceived reciprocity is held fixed.
-Kilduff et al.'s relational account of rivalry (LIT-tmpl8672) predicts
+Kilduff et al.'s relational account of rivalry ([LIT-tmpl8672](../literature.d/LIT-tmpl8672.md)) predicts
 that the relation matters.

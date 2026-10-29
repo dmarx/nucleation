@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Deindividuation and antinormative behavior: A meta-analysis'
 version: 1
 history:
@@ -38,4 +38,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The meta-analytic support Hornsey (NOTE-tmp3dav9) cites for the SIDE model (LIT-tmpjavie).
+The meta-analytic support Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md)) cites for the SIDE model ([LIT-tmpjavie](LIT-tmpjavie.md)).

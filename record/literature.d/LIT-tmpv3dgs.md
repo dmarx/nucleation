@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Social Identity Theory''s Self-Esteem Hypothesis: A Review and Some Suggestions for Clarification'
 version: 1
 history:
@@ -37,4 +37,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Hornsey (NOTE-tmp3dav9) calls the self-esteem hypothesis a dead end; Reimer et al. (NOTE-tmp222eb) call it well supported; both cite this review. Reading it settles which is right.
+Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md)) calls the self-esteem hypothesis a dead end; Reimer et al. ([NOTE-tmp222eb](../notes.d/NOTE-tmp222eb.md)) call it well supported; both cite this review. Reading it settles which is right.

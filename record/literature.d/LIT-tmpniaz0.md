@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Context-dependent variation in social stereotyping 1: The effects of intergroup relations as mediated by social change and frame of reference'
 version: 1
 history:
@@ -38,4 +38,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The study Turner et al. 1994 (NOTE-tmpf9mzh) and Hornsey (NOTE-tmp3dav9) cite for content varying with the frame. Primary evidence for THEORY-tmpo85ke.
+The study Turner et al. 1994 ([NOTE-tmpf9mzh](../notes.d/NOTE-tmpf9mzh.md)) and Hornsey ([NOTE-tmp3dav9](../notes.d/NOTE-tmp3dav9.md)) cite for content varying with the frame. Primary evidence for [THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md).
