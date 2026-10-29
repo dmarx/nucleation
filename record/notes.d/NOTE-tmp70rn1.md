@@ -1,0 +1,254 @@
+---
+status: Read
+paper: LIT-tmp8yuyb
+title: 'Future self-continuity: how conceptions of the future self transform intertemporal choice'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the NIH author manuscript (accepted version,
+    NIHMS504498, PMC3764505), fetched as JATS XML from NCBI PMC's OAI-PMH
+    service; figure images not available, captions read. The manuscript
+    has no page numbers, so citations are by section. Not compared with
+    the published text.
+date: '2026-10-29'
+summary: >-
+  A review, mostly of the author's own work. Following Parfit, people who
+  feel less connected to their future self treat it like a stranger and
+  save less for it. Similarity to one's self in ten years, chosen as
+  overlapping circles adapted from Aron's scale, predicted patient choices
+  and assets; a future self represented neurally like another person
+  predicted steeper discounting (r = .47); seeing one's age-progressed face
+  raised saving; respect for the elderly tracked and raised saving.
+  Directly reported liking and caring for the future self did not predict
+  choice, but were near ceiling. The future self may extend, at life's
+  end, to one's offspring.
+---
+
+<!-- inactive-ok-file: LIT-tmp8yuyb LIT-tmp9rujh CLAIM-tmpjylq8 CLAIM-tmprudek CLAIM-tmpybc4k THEORY-464 QUESTION-tmpruhu4 — Unfetched, Unavailable, Proposed or Open; the work read (Unfetched until this NOTE is filed), the works it builds on or meets, and the thesis, objections, account and questions it bears on -->
+
+# NOTE-tmp70rn1: Future self-continuity: how conceptions of the future self transform intertemporal choice
+
+## Contribution
+
+A review that reframes undersaving. Earlier accounts looked at how people
+value present and future rewards. This one looks at how people see the
+self who will receive the future reward. It draws Parfit's view of
+personal identity as degrees of psychological connectedness into a
+behavioural model, proposes three components of felt continuity with the
+future self (similarity, vividness, positivity), and reviews studies,
+mostly the author's, that measure or manipulate each and find more patient
+choices.
+
+## Key insight
+
+Prudence is a kind of other-regard whose object may or may not feel like
+oneself. "If people tend to consider the future self as a stranger ... then
+they may rationally have no more reason to save their money for their
+future selves than to give that money to a stranger" (Theoretical
+underpinnings). The model's prediction is graded: "the degree to which an
+individual feels disconnected from his or her future self should correlate
+with the degree to which that individual discounts future rewards" (ibid.).
+
+## Assumptions
+
+- **Parfit's reductionism, psychologically read.** The self is "a
+  collection of distinct identities that overlap with each other over
+  time", connected by degrees (Theoretical underpinnings). What matters is
+  not whether a person changes "but how much a given individual feels he or
+  she will be the same person over time".
+- **Helping follows similarity.** Since people help similar others more
+  (Eisenberg and Miller; a microfinance field study), one "donates" to a
+  future self by saving (The composition of continuity).
+- **Discounting tasks measure concern for the future self.** The outcome
+  in most studies is the number of larger-later rewards chosen on Kirby
+  and Maraković's questionnaire, or hypothetical retirement allocation.
+
+## Key results
+
+- **The measure** (Similarity, Measuring the relationship). Participants
+  choose, from pairs of Euler circles ranging from no overlap to almost
+  complete overlap, the pair that "best represents how similar they feel
+  to their selves in ten years time". It is "based on existing measure of
+  self-other similarity", citing Aron, Aron and Smollan 1992. It had
+  "strong test-retest reliability" and correlated with a "me/not me" task
+  matching present and future self-descriptions. No figures are given.
+- **Similarity predicts patience and assets** (same section; Ersner-
+  Hershfield, Garton et al. 2009). In undergraduates, with hypothetical
+  and incentive-compatible choices, more similarity went with more
+  larger-later choices. In working adults aged 18–86 in the San Francisco
+  Bay Area, it went with more accumulated assets, controlling for age and
+  education. No coefficients are reported.
+- **Manipulated similarity** (same section). Bartels and Urminsky: a
+  passage saying identity is stable over time raised overlap with the
+  future self and patience; similarity carried unique variance with
+  uncertainty about the future, affective appraisal of outcomes and present
+  bias controlled. Bartels and Rips found comparable or stronger results
+  with similarity defined as likes, values, ideals and interests.
+- **The future self as another person, neurally** (Neurobiological
+  basis; Ersner-Hershfield, Wimmer and Knutson 2009). In fMRI, judging
+  trait words for one's current self activated rostral anterior cingulate
+  and medial prefrontal cortex more than for one's future self, which
+  resembled judging another person. The larger a participant's current-
+  versus-future difference in rACC, the steeper their discounting a week
+  later: r = 0.47, P < 0.05 (Figure 2 caption).
+- **Vividness** (Vividness of the future self).
+  - Undergraduates who saw an age-progressed avatar of themselves in a
+    virtual mirror allocated more to a hypothetical retirement account than
+    those who saw their current-age avatar.
+  - Seeing one's own aged avatar, against another participant's aged
+    avatar, after a delay, produced more patient choices: "relevance
+    matters".
+  - On a web slider, a future-self face (happier as more was saved) raised
+    allocation over a current-self face; neutral faces did too, in working
+    adults.
+- **Positivity** (Positivity of the future self; Hershfield and Galinsky,
+  unpublished in 2011).
+  - Earlier, directly asking "how much they liked and cared for their
+    future selves" gave a null: "Neither construct, however, mapped
+    robustly onto intertemporal choice." Both answers were positively
+    skewed with little variance.
+  - Instead: national attitudes toward the elderly across 26 countries
+    tracked gross national saving, with controls; taking an elderly man's
+    perspective, recalling respecting an elderly person, and a word search
+    pairing "elderly" with "esteemed" each raised larger-later choices
+    against controls.
+- **Open questions the author raises** (Remaining questions).
+  - Similarity to and liking of the future self showed "a significant
+    correlation, albeit a relatively weak one".
+  - With age, the future self "may not be confined to just the self, but
+    may also include one's children and grandchildren. In this way, the
+    future self may continue existing after one has died in the form of
+    one's offspring" (Changes in future self-continuity with age).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Felt similarity to one's future self predicts patient intertemporal choice and accumulated savings | moderate: correlational lab and field studies and one manipulation by others; no effect sizes given here | Similarity |
+| C2 | The future self is represented neurally more like another person than like the current self, and more so in steep discounters | weak to moderate: one fMRI study, r = .47 at P < .05 in a region of interest | Neurobiological basis |
+| C3 | Making the future self vivid raises saving | moderate: four experiments, hypothetical allocations | Vividness |
+| C4 | Respect for older people, as a proxy for positivity toward the future self, raises saving | weak to moderate: a 26-country correlation and three experiments, unpublished when reviewed | Positivity |
+| C5 | Directly reported liking and caring for the future self do not predict choice | weak: a null from measures near ceiling | Positivity |
+| C6 | Future self-continuity is one construct with three components | conjecture: the author's model, with untested links (Figure 4) | Remaining questions |
+
+## Concepts
+
+- **future self-continuity**: how connected a person feels to the self
+  they will be; graded, not all-or-none.
+- **future self-similarity**: felt likeness to one's self in ten years,
+  measured with overlapping circles.
+- **vividness**: how easily and realistically the future self is pictured.
+- **positivity**: whether the future self is viewed favourably.
+- **temporal discounting**: caring less about outcomes the later they come.
+- **planner and doer**: the economist's dual-self model, set aside in
+  favour of Parfit's overlapping selves.
+
+## Connections
+
+- **Parfit (THEORY-464).** Hershfield takes Parfit's connectedness as the
+  thing felt. He also says "what matters, for long-term planning, however,
+  is that one person has but one identity, and it is with this link that
+  the assets of the present and future selves are tied together"
+  (Theoretical underpinnings). So he keeps numerical identity as what ties
+  the assets and puts felt connectedness in charge of motivation. That is
+  THEORY-464's point, that prudential concern follows a relation that
+  comes apart from identity, found as a fact about behaviour.
+- **Aron's inclusion of other in the self (LIT-tmp9rujh; NOTE-tmpd7oz0).**
+  The circles are Aron's, relabelled from closeness to similarity.
+  Branand, Mashek and Aron report the IOS as validated for closeness; here
+  the adaptation is validated against overlap of self-descriptions.
+- **Social discounting.** The model cites Jones and Rachlin's finding that
+  people discount rewards to others by social distance as they discount by
+  delay. Self and other, now and later, sit on one scale.
+- **Wade-Benzoni et al. 2010 (NOTE-tmp70rn1, read the same day).** They hold
+  that "one cannot create a legacy ... by affecting merely one's own future
+  self". Hershfield's closing suggestion runs the other way: at life's end
+  the future self may continue in one's offspring.
+- **Tarsney (NOTE-tmp0l9dk).** That note asks that any test of concern
+  tracking felt continuity separate it from discounting for the risk that
+  one's effects are undone. Bartels and Urminsky's control for uncertainty
+  about the future does this within a lifetime.
+
+## Bearing on the record
+
+- **The triviality objection (CLAIM-tmprudek).** Has future-self
+  continuity been separated from caring about one's future self? Partly,
+  and only at second hand. These are inferences from the review's reports.
+  - **For separation.** In Ersner-Hershfield et al. 2009 the circles
+    predicted patient choice and directly asked liking and caring did not.
+    Bartels and Urminsky found similarity predicted choice with uncertainty,
+    affective appraisal and present bias controlled. The neural index, which
+    asks nothing about caring, predicted discounting. And the circles are
+    validated against overlap of self-descriptions, a cognitive criterion,
+    not against closeness.
+  - **Against.** The caring null comes from answers "positively skewed"
+    with little variance, so it shows a ceiling, not irrelevance. Similarity
+    and liking were correlated. Positivity, the component nearest caring,
+    is itself proposed as part of continuity and, through respect for the
+    elderly, raised saving. No study reported here pits a well-varied
+    caring measure against the circles.
+  - So this is the record's best case yet of a measure of the self's extent
+    predicting concern-like behaviour where reported caring did not. But it
+    is a case within one person over time, and the separation is not
+    established.
+- **The owner's thesis (CLAIM-tmpjylq8).** The review states the thesis's
+  mirror image. The thesis says concern for others is self-interest on a
+  larger self. Hershfield says concern for one's own future is
+  other-regard toward a self that may feel like a stranger. Both put self
+  and other on one scale of overlap. If that scale is real, "no action is
+  selfless" and "no prudence is purely self-interested" are the same claim
+  read from opposite ends, and the thesis's content lies in the scale and
+  its criterion, not in the word "self". That is an inference.
+- **Batson's objection (CLAIM-tmpybc4k).** Indirect. Hershfield borrows the
+  similarity–helping link from the empathy literature to explain saving.
+  It does not test empathy without overlap.
+- **The legacy question (QUESTION-tmpruhu4).** The question cites this
+  review for prudence having the thesis's shape. That holds. The review adds
+  an untested suggestion that the future self extends past death into
+  one's offspring, the bridge from prudence to legacy that the question
+  needs.
+- **A dated note on CLAIM-tmprudek is proposed:**
+
+  > Hershfield (NOTE-tmp70rn1) reviews the strongest case the record holds of
+  > a measured extent of the self predicting concern-like behaviour where
+  > reported caring did not. Felt similarity to one's self in ten years,
+  > chosen as overlapping circles and validated against overlap of
+  > self-descriptions, predicted patience and savings; asking how much
+  > people liked and cared for their future selves did not. But the caring
+  > answers were near ceiling, similarity and liking correlated, and the
+  > case is within one person over time. The separation the objection asks
+  > for is suggested here, not established.
+
+- **No THEORY filed.**
+- **No ML instruction.**
+
+## Limitations
+
+- **A review without numbers.** Apart from r = .47 in a figure caption,
+  no effect sizes, sample sizes or test statistics are given. The studies
+  were not read.
+- **Mostly the author's own work**, several studies "in press" or
+  unpublished in 2011.
+- **Saving, not sacrifice.** Outcomes are hypothetical allocations and
+  questionnaire choices between smaller-sooner and larger-later sums.
+- **Read from the accepted manuscript**, without page numbers or figure
+  images, and not compared with the published text.
+- **Errors and typos.**
+  - Figure 2's caption says "Figure adapted from Ref. 72"; ref. 72 is
+    Mitchell et al.; the study is ref. 73.
+  - "based on existing measure" (missing "an").
+  - "Maracovic" and "Marakovic" for Maraković's name in the text.
+  - In the references: "Social Secruity and Heal Care", "acros time",
+    "chumpto champ", "identifcation", "Communicaton", "comparions",
+    "favortism".
+
+## Open questions
+
+- With caring measured so that it varies (for instance, about a future
+  self described as worse off), do the circles still predict patience
+  when caring is held fixed? That is CLAIM-tmprudek's test, run where it is
+  easiest.
+- Does felt continuity with one's children predict saving or sacrifice for
+  them, as the review suggests? That would carry the measure across death.

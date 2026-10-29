@@ -1,13 +1,14 @@
 ---
-status: Unfetched
+status: Active
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md):
-  the author's accepted manuscript is open in Europe PMC
-  (europepmc.org/articles/PMC3764505; also PubMed Central, PMC3764505), as
-  Unpaywall lists. On 2026-10-29 Europe PMC's REST service returned no
-  full text for it (HTTP 500), and its PDF rendering answered with a
-  Cloudflare challenge (HTTP 403). A human reader can likely open it. No
-  NOTE is filed. It stays Unfetched until it is read, not on merit.
+  read in full 2026-10-29 (NOTE-tmp70rn1) from the NIH author manuscript
+  (PMC3764505), served by NCBI's PMC OAI-PMH service after Europe PMC
+  refused this client; worth reading as the short statement of the future
+  self-continuity programme, and as the record's clearest case of a
+  measured extent of the self predicting concern-like behaviour where
+  directly reported caring did not. Read it knowing that the review gives
+  almost no statistics, that the caring null comes from a ceiling, and
+  that the circles are framed as similarity.
 title: 'Future self-continuity: how conceptions of the future self transform intertemporal choice'
 version: 1
 history:
@@ -19,7 +20,12 @@ history:
     Crossref: Annals of the NYAS 1235(1), 30–43; online 2011-10-24, so
     `published:` is that date (ADR-002). An accepted manuscript is open
     in Europe PMC (PMC3764505). Set Unfetched the same day under ADR-053
-    after the fetch was refused; the status note gives the address.
+    after the fetch was refused; the status note gives the address. Set
+    Active the same day: read in full in NOTE-tmp70rn1 from the NIH
+    author manuscript (PMC3764505), served by NCBI's PMC OAI-PMH service
+    after Europe PMC refused this client, not compared with the
+    published text, where there is one. The filing summary is replaced
+    by the reading's.
 tags:
 - self
 - motivation
@@ -37,15 +43,14 @@ keywords:
 - 'Parfit'
 implementations: []
 summary: >-
-  Hershfield (2011). A review: people who feel less connected to their future self, measured with overlapping circles adapted from Aron et al.'s inclusion-of-other-in-self scale, treat it more like another person and discount the future more steeply; making the future self vivid, as with age-progressed images of oneself, increases saving.
+  Hershfield (2011). A review, mostly of the author's own studies, of "future self-continuity": following Parfit, people who feel their future self is less connected to them treat it more like a stranger and save less for it. Three components are proposed. Similarity, measured by choosing overlapping circles (adapted from Aron et al.'s inclusion-of-other-in-self scale) for one's self in ten years, predicted patient choices and accumulated assets, controlling for age; neural activity for the future self that looked more like activity for another person predicted steeper discounting (r = .47). Vividness: seeing an age-progressed image of oneself raised hypothetical retirement saving. Positivity: respect for the elderly tracked national saving rates and, when induced, raised patient choices. Asking directly how much people liked and cared for their future selves did not predict choice, though those answers were near ceiling.
 ---
 
 # LIT-tmp8yuyb: Future self-continuity: how conceptions of the future self transform intertemporal choice
 
 Hershfield, H. E. (2011). *Annals of the New York Academy of Sciences*, 1235(1), 30–43.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmp70rn1, from the NIH author manuscript (PMC3764505), served by NCBI's PMC OAI-PMH service after Europe PMC refused this client.
 
 ## Why this is here
 
