@@ -46,6 +46,6 @@ Not read yet. The summary is drawn from the abstract.
 The owner's request. Weiss's system is defined by the network of
 interactions generating each part. His simplest example is a triplet of
 processes, each supplying conditions for the other two, which cannot be
-assembled pairwise. That is the closure of constraints of TERM-070 and
-CLAIM-395, and it bears on CLAIM-477 and CLAIM-480's interiors that become
+assembled pairwise. That is the closure of constraints of [TERM-070](../terms.d/TERM-070.md) and
+[CLAIM-395](../claims.d/CLAIM-395.md), and it bears on [CLAIM-477](../claims.d/CLAIM-477.md) and [CLAIM-480](../claims.d/CLAIM-480.md)'s interiors that become
 constraints.
