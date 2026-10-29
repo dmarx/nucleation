@@ -26,7 +26,7 @@ promote_when: >-
   (reasons-responsiveness, hierarchical desires), not a named historical
   one.
 title: 'A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record''s readings is shown to escape'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-03'
@@ -54,6 +54,15 @@ history:
     filed as alternatives to LIT-1006. A dated note in promote_when
     records that neither clause is met. A dated paragraph in Connections
     records what they bear on. The claim and status are unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    The tenth status review. The first clause of promote_when is met by
+    readings already in the record (NOTE-545, NOTE-264), and the second
+    is not; a dated note says so. The argument's first half, as its
+    sources make it, is split off as THEORY-tmpk6bx2, Active, on
+    THEORY-1110's pattern, and CLAIM-364, which uses only that half, now
+    grounds on it. The claim and status are unchanged.
 tags:
 - agency
 - ethics
@@ -77,7 +86,6 @@ summary: >-
   choice is wrong.
 supports:
 - CLAIM-016
-- CLAIM-364
 bears_on:
 - QUESTION-071
 ---
@@ -189,3 +197,15 @@ The first half of the claim follows from the form of a snapshot condition, and a
     or reflect the agent's present luck". That is an argument against a
     named historical condition, not the one-sentence circularity worry,
     but it is reported, not read.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the tenth status review. The first clause of promote_when
+is met: Frankfurt 1971 is read first-hand ([LIT-692](../literature.d/LIT-692.md), [NOTE-545](../notes.d/NOTE-545.md)), and its
+note 10 accepts the designed addict as fully responsible; the 2004 lectures
+([NOTE-264](../notes.d/NOTE-264.md), p. 172) count "not the story of how we came to be". The second
+is not: no first-hand reading of Pereboom's four-case argument or Mele's
+zygote argument shows a manipulation meeting a named historical condition,
+and the record holds both only through surveys ([NOTE-270](../notes.d/NOTE-270.md), [NOTE-856](../notes.d/NOTE-856.md),
+[NOTE-862](../notes.d/NOTE-862.md); [THEORY-328](THEORY-328.md)). The argument's first half is now [THEORY-tmpk6bx2](THEORY-tmpk6bx2.md),
+Active.

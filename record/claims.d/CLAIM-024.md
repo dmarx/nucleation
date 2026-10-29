@@ -3,8 +3,8 @@ number: 24
 status: Proposed
 formerly:
 - CLAIM-tmp7j8hl
-title: 'Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names'
-version: 2
+title: 'Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie''s interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it'
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -14,6 +14,29 @@ history:
     decides which regime becomes effective, not that the account is new,
     and its mechanism half is granted by CLAIM-021. The title is
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057, ADR-059). CLAIM-159, Active since
+    the ninth review and filed against this claim, is conceded: set
+    beside the expected value of control (THEORY-1110) and Ainslie's
+    interests (THEORY-1117), will-organization is a claim about what
+    governs how the driver changes, where they are claims about who
+    drives, so on those two it is not a relabelling of what they
+    study. What is left of the objection there is that the mechanisms
+    may answer that question without the account (QUESTION-056).
+    Planning theory and institutional theory are untouched. The old
+    title: Nothing here is new: planning theory, control theory,
+    executive control and institutional theory already study every
+    mechanism the account names
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    On the owner's delegated ruling of 2026-10-29: CLAIM-159 answers
+    executive control, through the expected value of control, and one
+    account of resolve, Ainslie's; it does not answer control theory's
+    regulation, which is a different front. The title, which names the
+    two accounts and not the fronts, is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -25,15 +48,18 @@ objects_to:
 - CLAIM-487
 summary: >-
   "The most important objection" (Section 7.1), re-derived three times in
-  the exchange with different criteria each time. Proposed: the paper
-  concedes the mechanisms ([CLAIM-021](CLAIM-021.md)) and stakes everything on an
-  explanatory gain not yet shown.
+  the exchange with different criteria each time. The paper concedes the
+  mechanisms ([CLAIM-021](CLAIM-021.md)), and beside the expected value of control and
+  Ainslie the record concedes a difference of question (CLAIM-159). The
+  objection still presses that the mechanisms may answer that question
+  without the account, and planning and institutional theory are not
+  compared.
 complements:
 - CLAIM-278
 ---
-<!-- inactive-ok-file: CLAIM-159 CLAIM-487 — Proposed; the partial reply, and the gain claim this objects to, open -->
+<!-- inactive-ok-file: CLAIM-487 — Proposed; the gain claim this objects to, open -->
 
-# CLAIM-024: Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names
+# CLAIM-024: Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie's interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it
 
 ## The claim
 
@@ -65,3 +91,27 @@ carried by [CLAIM-027](CLAIM-027.md)'s standing without being one of its words. 
 is now [CLAIM-487](CLAIM-487.md), and this objection is to it. Its first half, that
 the mechanisms are not new, the paper grants ([CLAIM-021](CLAIM-021.md)), which is why
 [CLAIM-021](CLAIM-021.md) no longer files as an objection to this one.
+
+## Note of 2026-10-29: [CLAIM-159](CLAIM-159.md) conceded
+
+[CLAIM-159](CLAIM-159.md), now Active, places the expected value of control in the top-down
+cell and Ainslie's interests in the aggregate or emergent cell, and
+will-organization as what governs how the drive profile changes. That is a
+difference of question, and the title now grants it. It is not yet a gain:
+whether control and metacontrol mechanisms answer the new question without a
+will-organization over them is [QUESTION-056](../questions.d/QUESTION-056.md)'s test, unrun.
+
+## Note of 2026-10-29: what holds it back
+
+[QUESTION-056](../questions.d/QUESTION-056.md)'s comparison is not made: no case has been modelled with
+control and metacontrol mechanisms alone and then with a will-organization
+over them. Planning theory and institutional theory have not been set beside
+the account at all.
+
+## Note of 2026-10-29: which fronts [CLAIM-159](CLAIM-159.md) answers
+
+Executive control, through the expected value of control ([THEORY-1110](../theory.d/THEORY-1110.md)), and
+one account of resolve ([THEORY-1117](../theory.d/THEORY-1117.md)). Control theory, regulation of a
+variable against a reference, is not set beside the account by [CLAIM-159](CLAIM-159.md),
+and stays with planning and institutional theory among the fronts not yet
+compared.

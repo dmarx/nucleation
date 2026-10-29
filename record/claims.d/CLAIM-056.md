@@ -1,10 +1,10 @@
 ---
 number: 56
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpghha4
-title: 'Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift'
-version: 2
+title: 'Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives'
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,12 +18,34 @@ history:
     behave so, and its defeat condition is empirical with no observation
     under it, which ADR-043 counts as interpretive. The status stays
     Proposed.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057). CLAIM-031
+    and CLAIM-208 are written in (ADR-059): the recursion is a bound, not
+    a prediction, and it measures departure from a reference transport,
+    not whether the act survives. The defeat condition now names the
+    design CLAIM-208 asks for, as CLAIM-059's already does. Version 2's
+    title read 'Local transport errors propagate through later
+    reconstructions according to the dynamics of those reconstructions,
+    so the same local error can be damped, accumulated or amplified, and
+    local similarity can coexist with large global drift'; its condition
+    read 'In serial reconstruction chains, end-to-end drift is not
+    predicted by per-step discrepancies combined with the measured
+    sensitivity of later steps.' Premises CLAIM-106 and CLAIM-267 are
+    Active, and nothing in the record meets the condition. Proposed to
+    Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  In serial reconstruction chains, end-to-end drift is not predicted by
-  per-step discrepancies combined with the measured sensitivity of later
-  steps.
+  A serial reconstruction chain whose per-step kernels are estimated from
+  several independent retellers on held-out and perturbed inputs, in a
+  metric fixed before the data, and whose end-to-end departure from the
+  reference transport, on chains not used in the estimation, exceeds the
+  bound computed from those estimates by more than their estimation
+  error. Such a chain would show that its steps are not a composition of
+  per-step transports, as when a reteller sees earlier generations. A
+  chain that stays below the bound, however far, does not defeat it.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -50,7 +72,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-056: Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift
+# CLAIM-056: Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives
 
 ## The claim
 
@@ -75,6 +97,13 @@ that all communicative changes are errors."
 That drift is random: A50 went on to attraction ([CLAIM-068](CLAIM-068.md)). Nor that it holds
 for directed, non-metric distortion ([QUESTION-017](../questions.d/QUESTION-017.md)).
 
+- That a small error means the act survived, or a large one that it did
+  not. A chain reorganizes constraints, and one changed constraint can
+  change the act while the scalar error stays small ([CLAIM-031](CLAIM-031.md)).
+- That the bound predicts drift. It is an upper bound. Its constants
+  belong to the retellers' kernels, which a chain with one retelling per
+  node cannot estimate ([CLAIM-208](CLAIM-208.md)).
+
 ## Note of 2026-10-13: the general content is filed separately
 
 Under [ADR-040](../decisions.d/ADR-040.md), the error recursion and its three regimes is filed on its own as [CLAIM-267](CLAIM-267.md), in the
@@ -92,3 +121,12 @@ end-to-end drift in real chains follows the per-step discrepancies and the
 later steps' sensitivity is what the defeat condition tests, and no such
 measurement is held. So the warrant is interpretive. [CLAIM-031](CLAIM-031.md) and [CLAIM-208](CLAIM-208.md)
 object to it and are unanswered.
+
+## Note of 2026-10-29: the concessions written in
+
+The note of 2026-10-19 left [CLAIM-031](CLAIM-031.md) and [CLAIM-208](CLAIM-208.md) unanswered. Both are
+conceded here, by the title and the defeat condition, not answered. What
+the claim adds to [CLAIM-267](CLAIM-267.md) is that a serial reconstruction chain is a
+composition of transports measured against a reference transport
+([CLAIM-106](CLAIM-106.md)). The new condition tests exactly that. Promoted by the tenth
+status review on the owner's ruling.

@@ -16,7 +16,7 @@ promote_when: >-
   reports for the reputation survey among the top 50, would reject it for
   that field.
 title: 'A public ranking can raise its own validity through the reactions it provokes: where a unit''s published rank affects the inputs to its next rank, as when applicants choose by rank and their choices feed the selectivity score, or raters who know little but the last rank fill the reputation survey, rank differences that began as measurement noise can become real differences that the ranking then correctly reports'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -27,6 +27,14 @@ history:
     (2006) and Stake (2006), which the record does not hold, and footnote
     14 reports a contrary finding. The general statement is the record's
     wording of the paper's argument.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The tenth status review (ADR-057) added a dated note saying what
+    holds it back, an identified estimate of rank's effect net of quality.
+    CLAIM-402, CLAIM-406 and CLAIM-416 now cite this reading under
+    corroborated_by rather than grounds (ADR-058), so the supports list is
+    removed. The claim and its status are unchanged.
 tags:
 - social-science
 - society-and-governance
@@ -41,10 +49,6 @@ summary: >-
   ranking's own inputs. The paper does not measure either channel. Nor
   does it show that the starting differences were noise rather than
   quality, beyond citing Sauder and Lancaster.
-supports:
-- CLAIM-402
-- CLAIM-406
-- CLAIM-416
 ---
 <!-- inactive-ok-file: CLAIM-402 CLAIM-342 — Proposed; the claims this account would instance, cited as open -->
 
@@ -97,3 +101,12 @@ The channels named, with the evidence the paper gives:
   (the evidence for a category must not pass through the category's use)
   is what this channel would violate. Showing that it does so in a given
   case needs the identification that promote_when asks for.
+
+## Note of 2026-10-29: what holds it back
+
+No study the record reads estimates the effect of a unit's published rank
+on the inputs to its next rank net of its quality. Both channels are cited
+from Sauder and Lancaster (2006) and Stake (2006), which the record does
+not hold, and footnote 14 cites Schmalbeck's (2001) null among the top 50.
+Until such an estimate is read, that differences which began as noise
+became real is the paper's argument from interviews.

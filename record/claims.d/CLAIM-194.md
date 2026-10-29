@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmprrjrd
 title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,14 @@ history:
     THEORY-071's interactional asymmetry; neither a coupling nor a closure
     criterion tells a produced boundary from an imposed one. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Grounds move from THEORY-071 to THEORY-tmpy6639, what Barandiaran,
+    Di Paolo and Rohde propose, split by the tenth status review on
+    THEORY-1110's pattern: the claim uses the conditions as stated, not
+    their truth. The body cites the split where it cites the proposal. The
+    claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -30,7 +38,7 @@ grounds:
 - THEORY-073
 - THEORY-066
 - THEORY-072
-- THEORY-071
+- THEORY-tmpy6639
 summary: >-
   A counter to the block criterion and to the agency test's first
   condition, found by two separate reviews of the unlinked THEORYs in the
@@ -38,13 +46,12 @@ summary: >-
   states. Its point is different: with the target fixed, a
   near-decomposability gap is a statistic of coupling, and coupling is the
   same whether the system made the boundary or something else did.
-  [THEORY-072](../theory.d/THEORY-072.md) and [THEORY-071](../theory.d/THEORY-071.md) place the line at production and
+  [THEORY-072](../theory.d/THEORY-072.md) and THEORY-tmpy6639 place the line at production and
   self-distinction instead. Proposed: no case has been measured.
 complements:
 - CLAIM-367
 - CLAIM-414
 ---
-<!-- inactive-ok-file: THEORY-071 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-194: A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs
 
@@ -71,12 +78,12 @@ The record holds two accounts that put the line there:
 - [THEORY-072](../theory.d/THEORY-072.md): an organism differs from a candle flame by "several distinct
   constraints that produce one another at different time scales". That is
   production, not coupling strength.
-- [THEORY-071](../theory.d/THEORY-071.md): minimal agency needs individuality in which "the system
+- [THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md): minimal agency needs individuality in which "the system
   distinguishes itself from its environment, and an observer does not do it
   for the system".
 
 So the block test can find a system in the sense of a unit of description,
-but the individuality [THEORY-071](../theory.d/THEORY-071.md) requires is a further condition. When
+but the individuality [THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md) requires is a further condition. When
 [CLAIM-174](CLAIM-174.md) uses the block test as its first condition, it admits jointly
 coupled forms whose boundary is maintained from outside.
 
@@ -106,7 +113,7 @@ exclude externally maintained blocks, so the first condition need not.
 A9 §3 of the exchange of 2026-10-20 separated predictive closure from
 organizational closure and proposed that "A living or agentive boundary
 may be distinguished by its regulation of exchange, rather than by the
-absence of exchange". That is [THEORY-071](../theory.d/THEORY-071.md)'s interactional asymmetry, which
+absence of exchange". That is [THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md)'s interactional asymmetry, which
 A9 does not cite. A8 §1 adds the informational side of this claim's point:
 since agents are coupled to their environments, exact closure "cannot
 straightforwardly serve as a necessary condition for agency", and since

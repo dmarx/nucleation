@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpeftzb
 title: 'Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category''s own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,12 @@ history:
     THEORY-839) and Espeland and Sauder (THEORY-862,
     THEORY-854) are now read; grounds gain THEORY-839,
     THEORY-862 and THEORY-854. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-854 moved from grounds to corroborated_by (ADR-058): cited as
+    a documented instance of the loop, not a premise; THEORY-862 holds
+    what was reported.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,6 +43,7 @@ grounds:
 - CASE-103
 - THEORY-839
 - THEORY-862
+corroborated_by:
 - THEORY-854
 summary: >-
   A27 §1 of the exchange of 2026-10-20, on the owner's U27 ("are we perhaps

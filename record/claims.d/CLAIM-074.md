@@ -1,10 +1,10 @@
 ---
 number: 74
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpk2ltq
 title: 'Fidelity is relative to the interpreter''s learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,23 @@ history:
     fixed interpreter, across interpreters and across states of
     adaptation are different quantities. CLAIM-244 and CLAIM-258 no
     longer rest on it.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057). The body said the claim 'needs
+    stating in terms of where the change happens', which contradicts
+    the title; it now says what the change carries. The blocker note
+    is updated: CLAIM-118 is restated the same way and is held only by
+    the owner's ruling on test-time training. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review. Its one premise, CLAIM-118,
+    went Active the same day on the owner's delegated ruling that
+    discarded test-time training is part of the contextual history,
+    which is how this claim's title already states the split; no
+    objection is filed and nothing in the record meets its defeat
+    condition. Status Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -71,14 +88,18 @@ Persistence and the locus of change come apart. Akyürek et al.'s
 test-time update ([LIT-796](../literature.d/LIT-796.md)) and Sun et al.'s inner weights
 ([LIT-801](../literature.d/LIT-801.md)) both change parameters, and both discard the change after
 the task or the sequence. So "transient means context, persistent means
-adaptation" does not hold as a dichotomy, and the claim needs stating in terms of where the change happens. The
+adaptation" does not hold as a dichotomy, and the claim needs stating in terms of what the change carries, not of where it sits. The
 title now says so (2026-10-29). A parameter change computed from the
 current task and discarded after it is part of the contextual history.
 
 ## Note of 2026-10-29: what holds it back
 
-Its one premise, [CLAIM-118](CLAIM-118.md), is Proposed, held by [THEORY-169](../theory.d/THEORY-169.md)'s identity of
-conditioning and per-sequence adaptation in linear attention. [CLAIM-118](CLAIM-118.md)
-still states the split by mechanism, which this claim's title no longer
-uses. Until both are stated the same way, this claim rests on a premise
-phrased for a distinction it has given up.
+Its one premise, [CLAIM-118](CLAIM-118.md), is Proposed. [CLAIM-118](CLAIM-118.md) is now stated the same
+way as this claim, by what each history carries, and is held only by the
+owner's ruling that test-time training whose update is discarded is part of
+the signal, against manuscript §5.
+
+## Note of 2026-10-29: promoted
+
+[CLAIM-118](CLAIM-118.md) is now stated the same way and is Active, so the premise the note
+above waited on is held.

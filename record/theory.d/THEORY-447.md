@@ -19,7 +19,15 @@ promote_when: >-
   fact that the survey literature treats the fission argument as
   standard.
 title: "Granted that a person survives a brain transplant and that half a brain would do, each product of a division stands in all that matters in ordinary survival, so what matters is not identity, which is one-one and all-or-nothing, but psychological relations that can branch and come in degrees"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The tenth status review. CLAIM-287 now cites this reading as
+    corroboration, not grounds (ADR-058), since it needs only that
+    identity is one-one; a dated note says what holds this one back. The
+    claim and status are unchanged.
 tags:
 - personhood
 - individuation
@@ -41,8 +49,6 @@ summary: >-
   is left "(whatever that is)".
 presupposed_by:
 - THEORY-464
-supports:
-- CLAIM-287
 ---
 <!-- inactive-ok-file: THEORY-464 THEORY-476 THEORY-531 THEORY-546 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 CLAIM-287 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
@@ -153,8 +159,16 @@ argument uses.
 - **The record's own claim.** [CLAIM-287](../claims.d/CLAIM-287.md) holds that organizational continuity
   "can branch and merge, so it is not an identity relation". That is this
   account's inference made for selves that persist through inactivity, and
-  the claim grounds on it.
+  this reading corroborates it.
 - **AI consciousness.** [THEORY-023](THEORY-023.md) draws on Birch's Challenge One, which
   argues from Parfit's later Relation R that a chatbot character has no
   persisting bearer. This paper is where the relations and their branching
   are first set out.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the tenth status review. [NOTE-378](../notes.d/NOTE-378.md) read the paper in full.
+Its first premise, survival of a brain transplant, is assumed, and fn. 5
+concedes that dissenters need a multiple case the paper does not give.
+Lewis's reply ([THEORY-476](THEORY-476.md)), which grants both premises of the inference and
+denies the conclusion, is unanswered in the record.

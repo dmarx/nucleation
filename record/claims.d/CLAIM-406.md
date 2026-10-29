@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpoxld9
 title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,12 @@ history:
     shape of the loop (THEORY-854, added to grounds), Kay et al.'s
     loop through credibility given to a system; Pohlhaus and Dotson were
     sought and are Unavailable. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-854 moved from grounds to corroborated_by (ADR-058): cited as
+    an instance of the loop, beside readings that are not grounds, not
+    as a premise.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +45,7 @@ rests_on:
 grounds:
 - THEORY-327
 - THEORY-317
+corroborated_by:
 - THEORY-854
 summary: >-
   The owner's, U24 of the exchange of 2026-10-20, on A23's closing thesis:

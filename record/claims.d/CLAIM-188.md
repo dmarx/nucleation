@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpczjuu
 title: 'Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule''s Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -21,6 +21,14 @@ history:
     removing blocks is corrected to match. The status stays Proposed until
     THEORY-087's singular half is held as a proof or the claim's own test is
     run.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-079 moved from grounds to corroborated_by (ADR-058): the
+    claim's title is about CLAIM-154's rule, not Bayesian model reduction,
+    which THEORY-079 is about, and THEORY-082 supplies the premise that
+    the candidates are the singular kind. THEORY-087, its other ground, was
+    promoted by the same review. The claim is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -34,9 +42,10 @@ objects_to:
 - CLAIM-154
 grounds:
 - THEORY-087
-- THEORY-079
 - THEORY-031
 - THEORY-082
+corroborated_by:
+- THEORY-079
 summary: >-
   A narrowing of [CLAIM-154](CLAIM-154.md), filed on 2026-10-11 from a synthesis review
   that found the record already held the readings that limit it.

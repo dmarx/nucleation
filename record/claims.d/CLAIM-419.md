@@ -1,10 +1,26 @@
 ---
 number: 419
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpbgq5o
-title: 'The record''s grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown'
-version: 1
+title: 'The record''s grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057; ADR-047's evidence rulings). Status
+    Proposed to Active: its ground CASE-131 is Active, no objection is
+    filed against it, and the five decisions it cites (ADR-042,
+    ADR-043, ADR-044, ADR-046, ADR-049) each amended the grammar for a
+    move it could not hold. 'repeatedly' added so the title claims no
+    more than those amendments show, beside ADR-032's recorded refusal
+    to amend. Its concession is written into CLAIM-181. The old title:
+    The record's grammar is fixed at any moment but amendable by
+    decision, and in practice a move that fit no scheme or relation
+    has been treated as a defect of the grammar and answered by
+    amending it, so a move the grammar cannot hold is not only forced
+    or lost; whether every such move is caught is not shown
 role: counter
 warrant: empirical
 tags:
@@ -30,9 +46,9 @@ summary: >-
   prose.
 ---
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim that rests on this one, cited as open -->
-<!-- inactive-ok-file: CLAIM-181 CLAIM-190 CLAIM-195 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-181 CLAIM-190 CLAIM-195 — Proposed or Superseded; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
+# CLAIM-419: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
 
 ## The claim
 

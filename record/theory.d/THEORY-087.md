@@ -1,31 +1,10 @@
 ---
 number: 87
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpzelk0
-promote_when: >-
-  A held proof of the singular half, and of the regular half beyond the
-  linear-Gaussian models where it is exact (THEORY-718). In general
-  the regular half is a Gaussian approximation in MacKay and a cited
-  asymptotic in Grünwald & Roos and Watanabe; a reading of a proof of the
-  regular expansion F = nL_n(ŵ) + (d/2) log n + O_p(1), such as Schwarz
-  (1978) or a Laplace or Bernstein–von Mises argument with its
-  conditions, would meet that part. The singular half rests on Watanabe's free-energy asymptotics
-  (Theorem 2 of LIT-616), which that paper states and cites but does
-  not prove, and on its §7.1 remark that λ < d/2 when the prior is positive
-  on the optimal set, which is also stated with a citation. A reading of
-  the proofs, in Watanabe's book (LIT-354) or in the earlier papers it
-  cites (Watanabe 2001a, 2010b), would promote this. So would a direct
-  check that does not go through WBIC: in a singular model whose RLCT is
-  known, such as the reduced-rank regression of LIT-616 §6, a free
-  energy computed by integration over all temperatures, or exactly for a
-  small model, should grow with log n at slope λ and not at slope d/2.
-  The account is refuted by such a model whose free energy grows at any
-  slope other than λ. WBIC's own estimates of λ cannot settle it, since
-  they are derived from the same theory. Further agreement between BIC
-  and the evidence in regular models cannot settle it either.
-title: 'The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set'
-version: 2
+title: 'The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature'
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -43,6 +22,27 @@ history:
     "the regular half is derived in the sources". That overstated it, and
     it now asks for a held proof of the regular expansion as well. The
     claim is unchanged; the status stays Proposed.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review (ADR-057; ADR-047's ruling on
+    re-derivations). The promote_when is met by the routes it named. The
+    regular expansion is met by a Laplace argument with its conditions,
+    re-derived step by step in the note of this date. The singular half
+    is met by the direct check it named: an exact free energy, by
+    quadrature, in singular models whose RLCT is known, CASE-152's
+    (λ = ½, m = 2) and a degenerate point (λ = 1/6), with regular
+    controls at slope d/2. The check's scripts were re-run by the
+    reviewing session and reproduce the figures. Watanabe's §7.1 remark is
+    re-derived from Eq. 18 and narrowed: read against Eq. 14, it fails
+    for an optimal set of finitely many non-degenerate points, where
+    λ = d/2, as the same check confirms. Theorem 2 in general is still
+    held as cited; what is now held is its prediction, checked where it
+    can be computed exactly. The old title: The Bayesian complexity
+    penalty grows as (d/2) log n in a regular model, where the curvature
+    at the optimum sets the Occam factor, and as λ log n in a singular
+    one, where λ is the real log canonical threshold and falls below d/2
+    when the prior is positive on the optimal set.
 tags:
 - model-comparison
 - information-geometry
@@ -63,8 +63,10 @@ summary: >-
   (d/2) log n. Watanabe's WBIC paper, [LIT-616](../literature.d/LIT-616.md), recovers that case
   (Lemma 3, Theorem 5) and states what replaces it when the Fisher
   information is degenerate at the optimum: λ log n − (m − 1) log log n,
-  with λ the RLCT (Theorem 2). The regular half is derived. The singular
-  half is a theorem the record holds only as cited, so this is Proposed.
+  with λ the RLCT (Theorem 2). The regular half is re-derived by
+  Laplace's method with its conditions. The singular half is Watanabe's
+  cited theorem, checked by exact free energies in two singular models of
+  known λ.
   The volume reading of λ is in Watanabe's book, which is unread.
 extends:
 - THEORY-718
@@ -79,7 +81,7 @@ supports:
 <!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as where the singular theorems are proved, nothing here rests on reading it -->
 <!-- inactive-ok-file: THEORY-079 THEORY-080 — Proposed; an account that presupposes this one and one that extends it, named in Connections -->
 
-# THEORY-087: The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set
+# THEORY-087: The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature
 
 ## Source
 
@@ -147,11 +149,12 @@ estimates came out at 14.69, 15.74 and 16.53.
 
 ## What this does not say
 
-- **It does not say that the singular half has been checked here.**
-  Theorem 2 is quoted from Watanabe's book ([LIT-354](../literature.d/LIT-354.md)) and earlier papers,
-  and the §7.1 remark is given with a citation. The record has read
+- **It does not prove Theorem 2 in general.** The theorem is cited from
+  Watanabe's book ([LIT-354](../literature.d/LIT-354.md)) and earlier papers, and the record has read
   neither proof. Table 3 agrees with the theory, but its estimates come
-  from WBIC, which is built on the same theory.
+  from WBIC, which is built on the same theory. The note of 2026-10-29
+  checks the theorem's prediction exactly in two singular models, and
+  re-derives the inequality λ < d/2 and where it fails.
 - **It does not give λ a volume reading.** MacKay's Occam factor is
   literally a volume ratio. The statement that λ is the exponent at which
   the prior volume of {w : K(w) < ε} shrinks with ε is in Watanabe's book
@@ -196,3 +199,89 @@ a Gaussian approximation. Grünwald & Roos cite the (k/2) log n expansion
 into a penalty is his Theorem 2, which is cited. The body's "The regular
 half is derived" holds in this sense: derived exactly for one model class,
 and by approximation otherwise.
+
+## Note of 2026-10-29: the re-derivation and the check
+
+Made by the tenth status review under [ADR-047](../decisions.d/ADR-047.md)'s ruling on re-derivations.
+
+**The regular half, by Laplace's method.** Write the free energy as
+F = −log Z_n with Z_n = ∫ φ(w) exp(−n L_n(w)) dw. The conditions:
+
+1. w0 is the unique minimiser of L in the interior of a compact W, and it
+   is well separated: inf over |w − w0| > δ of L(w) − L(w0) is positive
+   for every δ > 0.
+2. L_n converges to L uniformly, so the minimiser ŵ of L_n converges to
+   w0; the Hessian of L_n converges uniformly near w0, and J(w0) is
+   positive definite.
+3. φ is continuous and φ(w0) > 0.
+
+The steps:
+
+- Outside a ball |w − ŵ| < δ, n L_n(w) − n L_n(ŵ) exceeds nε for some
+  ε > 0, so that region contributes a factor e^(−nε) relative to the
+  rest, which vanishes against any power of n.
+- Inside it, n L_n(w) = n L_n(ŵ) + (n/2)(w − ŵ)ᵀH_n(w − ŵ) + n·o(|w − ŵ|²),
+  with H_n → J(w0).
+- Substituting u = √n (w − ŵ), dw = n^(−d/2) du, the integral becomes
+  φ(ŵ) e^(−n L_n(ŵ)) n^(−d/2) ∫ exp(−uᵀH_n u/2) du (1 + o_p(1)), and the
+  Gaussian integral is (2π)^(d/2) det H_n^(−1/2).
+- So F = n L_n(ŵ) + (d/2) log n − (d/2) log 2π + ½ log det J(w0)
+  − log φ(w0) + o_p(1). Since n L_n(ŵ) − n L_n(w0) = O_p(1), the same
+  holds with w0 in place of ŵ, up to O_p(1).
+
+That is the regular expansion the promote_when asked for, with its
+conditions.
+
+**λ < d/2, re-derived from Eq. 18.** Let ζ(z) = ∫ K(w)^z φ(w) dw. In
+each chart of Theorem 1, ζ is a sum of integrals ∫ u^(2kz) b(u) |u^h| du,
+and each coordinate integral ∫ u_j^(2k_j z + h_j) du_j converges exactly
+when 2k_j z + h_j > −1. So ζ converges for real z > −λ, with λ as Eq. 18
+defines it, and has its largest pole at −λ (b > 0, so nothing cancels).
+
+- *A volume bound bounds λ.* Let V(t) = ∫ over {K < t} of φ. If
+  V(t) ≥ c t^α for small t, then for s > 0, by the layer-cake formula,
+  ∫ over {K < t0} of K^(−s) φ ≥ ∫ from t0^(−s) to ∞ of V(y^(−1/s)) dy
+  ≥ c ∫ y^(−α/s) dy, which diverges when s ≥ α. So ζ diverges at
+  z = −α, and λ ≤ α.
+- *An optimal set that is infinite.* It is a real analytic set, so it
+  has a stratum of dimension r ≥ 1. At a smooth point p of that stratum,
+  K ≥ 0 vanishes on the stratum, so K and its gradient vanish there, and
+  K ≤ C·dist(w, stratum)² near p. The set {K < ε} contains a tube of
+  radius √(ε/C) around a piece of the stratum, and φ is bounded below
+  near p, so V(ε) ≥ c ε^((d−r)/2). Hence λ ≤ (d − r)/2 < d/2.
+- *An isolated point with a degenerate Hessian.* Let v be a null
+  direction of J(p) and write w = p + t v + x⊥. Then
+  K(w) = ½ x⊥ᵀ J x⊥ + O(|w − p|³) ≤ C (|x⊥|² + |t|³) for small w − p.
+  So {K < ε} contains {|x⊥|² < ε/2C, |t|³ < ε/2C}, of volume
+  c ε^((d−1)/2 + 1/3). Hence λ ≤ d/2 − 1/6 < d/2.
+- *Finitely many points, each with J positive definite.* Lemma 3 gives
+  λ = d/2 at each, and λ is the minimum over them, so λ = d/2. Eq. 14
+  calls this case singular, since the optimal set is not a single point,
+  so Watanabe's §7.1 remark read literally fails here. The title is
+  narrowed to say so.
+
+This uses a lower bound on the volume of {K < ε}, which is not the
+volume reading of λ that the bullet above says the record does not hold.
+
+**The singular half, checked directly.** The promote_when named this
+check: an exact free energy in a singular model of known λ, growing with
+log n at slope λ and not d/2. Models y = c(w) x + N(0, 1) with Σ x_i² = n
+and a uniform prior on [−1, 1]^d have a free energy that depends on the
+data only through ĉ ~ N(c0, 1/n). F − n L_n(w0) was computed by
+quadrature over the prior, averaged over ĉ by Gauss–Hermite, for n from
+10² to 10¹² (10⁸ for the one-dimensional models).
+
+| Model | d/2 | Theory | Measured slope of F against log n |
+|---|---|---|---|
+| c = a (control) | ½ | ½ | 0.5000 |
+| c = a₁x₁ + a₂x₂ (control) | 1 | 1 | 1.0000 |
+| c = sin(3a), truth sin 0.9 (nonlinear regular) | ½ | ½ | 0.5000 |
+| c = ab, truth 0 ([CASE-152](../cases.d/CASE-152.md): λ = ½, m = 2) | 1 | ½ | 0.463 at n = 10¹²; slope + 1/log n → 0.5008 |
+| c = a³, truth 0 (λ = 1/6) | ½ | 1/6 | 0.1667 |
+| c = a², truth 0.25 (two non-degenerate optima) | ½ | ½ | 0.5000 |
+
+For [CASE-152](../cases.d/CASE-152.md)'s model, a fit of λ log n − β log log n + const gives
+λ = 0.497 and β = 0.92, against λ = ½ and m − 1 = 1. The slope there is
+λ, not d/2, and the Gaussian (d/2) log n overcharges it by about
+½ log n + log log n. The scripts were written by the reviewer, re-run by
+the reviewing session, and are not in the record.

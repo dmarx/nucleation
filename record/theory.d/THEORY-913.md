@@ -1,20 +1,28 @@
 ---
 number: 913
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpfp8dy
-promote_when: >-
-  Two things. The 2006 chapter's sources pooled again with correction for
-  publication bias, or a preregistered replication, showing the planned
-  response faster, unaffected by load and running under subliminal cueing
-  against goal-intention controls; and the processes tested as mediators
-  of goal attainment, not only shown alongside it, for immediacy,
-  efficiency and lack of intent as well as cue accessibility. It is refuted
-  if corrected or replicated estimates of the then-component effects fall
-  to zero, or if plan effects survive with these processes blocked. More
-  tests of goal attainment alone cannot settle it.
-title: "In small meta-analytic pools, responses specified in if-then plans ran more immediately (d = .77, k = 7), held up under a concurrent cognitive load (d = .85, k = 7) and ran without conscious intent (d = .72, k = 3), and the planned cues became more accessible (d = .80, k = 6); the authors read this as control of the response handed in advance to the cue"
-version: 1
+title: 'In small fixed-effect meta-analytic pools without correction for publication bias, responses specified in if-then plans ran more immediately (d = .77, k = 7), held up under a concurrent cognitive load (d = .85, k = 7) and ran without conscious intent (d = .72, k = 3) compared with responses under a goal intention alone, and the planned cues were detected, attended to and remembered better (d = .80, k = 6); the authors read this as control of the response handed in advance to the cue'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057;
+    ADR-047's evidence ruling, read in full in NOTE-1124). The title
+    now says the pools are fixed-effect and uncorrected, names the
+    comparison, and gives the if-component as the composite it is
+    (detection, discrimination, accessibility, attention, memory)
+    rather than accessibility alone. The old title: In small
+    meta-analytic pools, responses specified in if-then plans ran
+    more immediately (d = .77, k = 7), held up under a concurrent
+    cognitive load (d = .85, k = 7) and ran without conscious intent
+    (d = .72, k = 3), and the planned cues became more accessible (d
+    = .80, k = 6); the authors read this as control of the response
+    handed in advance to the cue. The promote_when moves unchanged
+    to QUESTION-tmpcfxdl. CLAIM-443 now lists this reading under
+    corroborated_by, not grounds (ADR-058).
 tags:
 - motivation
 - behavioral-integration
@@ -30,12 +38,12 @@ summary: >-
   each from one to seven tests, fixed-effect, without a bias correction.
   Only cue accessibility and cue–response link strength had been tested as
   mediators. The authors' gloss is "instant habits".
-supports:
-- CLAIM-443
+bears_on:
+- QUESTION-tmpcfxdl
 ---
-<!-- inactive-ok-file: CLAIM-358 CLAIM-443 QUESTION-095 THEORY-904 THEORY-918 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-358 CLAIM-443 QUESTION-095 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-913: In small meta-analytic pools, responses specified in if-then plans ran more immediately (d = .77, k = 7), held up under a concurrent cognitive load (d = .85, k = 7) and ran without conscious intent (d = .72, k = 3), and the planned cues became more accessible (d = .80, k = 6); the authors read this as control of the response handed in advance to the cue
+# THEORY-913: In small fixed-effect meta-analytic pools without correction for publication bias, responses specified in if-then plans ran more immediately (d = .77, k = 7), held up under a concurrent cognitive load (d = .85, k = 7) and ran without conscious intent (d = .72, k = 3) compared with responses under a goal intention alone, and the planned cues were detected, attended to and remembered better (d = .80, k = 6); the authors read this as control of the response handed in advance to the cue
 
 ## Source
 

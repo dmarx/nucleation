@@ -1,10 +1,10 @@
 ---
 number: 135
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp59oav
 title: 'Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -14,6 +14,15 @@ history:
     members (hLDA, the author–topic model, the mixed membership
     stochastic blockmodel), read on 2026-10-26, and none reaches the
     second achievement with a result. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review (ADR-057). Its grounds and terms
+    are Active, no objection is filed, and nothing in the record meets
+    its defeated_if. The readings of 2026-10-26 found three more models
+    stopping at the first achievement. CASE-042 is removed from
+    illustrated_by, since it is in grounds, which ADR-032 makes
+    evidence. Proposed to Active; the claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,7 +55,6 @@ summary: >-
   or that the second step is open.
 illustrated_by:
 - CASE-040
-- CASE-042
 supports:
 - CLAIM-139
 - CLAIM-206

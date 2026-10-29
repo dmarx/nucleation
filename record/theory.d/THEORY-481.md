@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpaeic7
 title: "Under gradient flow averaged over tasks and data, a linear-attention layer trained on in-context regression learns as a two-layer linear network from an aligned start does: when tasks share the input covariance's eigenbasis and the weights start and stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to the estimator preconditioned by the inverse input covariance; at finite context length the modes decouple exactly only when inputs are isotropic and the modes start equal, and otherwise couple at order 1/N"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -49,6 +49,13 @@ history:
     The promote_when asked for alignment from misaligned starts, which
     the title assumes and never claimed; it moves unchanged to
     QUESTION-305, as THEORY-285's moved to QUESTION-303.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057, ADR-058). The Connections line and a
+    directive said CLAIM-118 grounds on this paper; since the ninth
+    review this reading corroborates it, and both now say so. The
+    account is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -77,7 +84,7 @@ bears_on:
 - QUESTION-305
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the two-layer random-start claim, the analogue of QUESTION-305, cited not leaned on -->
-<!-- inactive-ok-file: CLAIM-118 THEORY-212 — Proposed; the claim that grounds on this paper and neighbouring accounts, named in Connections, not leaned on -->
+<!-- inactive-ok-file: CLAIM-118 THEORY-212 — Proposed; the claim this reading corroborates and neighbouring accounts, named in Connections, not leaned on -->
 
 # THEORY-481: Under gradient flow averaged over tasks and data, a linear-attention layer trained on in-context regression learns as a two-layer linear network from an aligned start does: when tasks share the input covariance's eigenbasis and the weights start and stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to the estimator preconditioned by the inverse input covariance; at finite context length the modes decouple exactly only when inputs are isotropic and the modes start equal, and otherwise couple at order 1/N
 
@@ -201,4 +208,4 @@ the aligned weights the derivation assumes.
 - **[QUESTION-039](../questions.d/QUESTION-039.md).** Another mechanism that sets when a structure is
   acquired: here, the input spectrum through the attention product.
   [THEORY-229](THEORY-229.md) is the self-supervised instance of the same pattern.
-- **[CLAIM-118](../claims.d/CLAIM-118.md)** grounds on this paper.
+- **[CLAIM-118](../claims.d/CLAIM-118.md)** is corroborated by this reading.

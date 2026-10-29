@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp6phbn
 title: 'Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    THEORY-218 moved from grounds to corroborated_by by the tenth status
+    review (ADR-058): the Mona Lisa's recruitment by its canvas tag is
+    cited as a second route of the feedback the claim describes, not as
+    its evidence. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -26,6 +34,7 @@ answers:
 grounds:
 - CASE-079
 - THEORY-216
+corroborated_by:
 - THEORY-218
 uses:
 - TERM-054
@@ -41,7 +50,7 @@ summary: >-
   corruption is high early and low late. This is a feedback from pattern to
   flow, and it answers [QUESTION-085](../questions.d/QUESTION-085.md) in part. Untested on the logs.
 ---
-<!-- inactive-ok-file: QUESTION-085 THEORY-218 CLAIM-273 CLAIM-277 THEORY-072 — Proposed; claims and readings cited as open -->
+<!-- inactive-ok-file: QUESTION-085 CLAIM-273 CLAIM-277 THEORY-072 — Proposed; claims and readings cited as open -->
 
 # CLAIM-274: Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself
 

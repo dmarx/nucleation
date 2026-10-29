@@ -49,7 +49,6 @@ summary: >-
   the generalization is stated, not tested.
 supports:
 - CLAIM-176
-- CLAIM-182
 - CLAIM-195
 complements:
 - CLAIM-303

@@ -1,10 +1,10 @@
 ---
 number: 77
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmplxhnv
 title: 'A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,16 @@ history:
     on how a proposal is read is interpretive. The one mechanical
     consequence, that the condition excludes constant transports, is now
     stated in the body. The status stays Proposed. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review (ADR-057). CLAIM-011 is Active.
+    CLAIM-238's point about the defeat condition was written in at
+    version 2, as narrowed by CLAIM-239. No argument in the record shows
+    that the distinctions cannot be fixed independently of the
+    transports compared. bears_on QUESTION-005 added, since the defeat
+    condition turns on it (ADR-060). Proposed to Active; the claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +43,8 @@ rests_on:
 - CLAIM-011
 uses:
 - TERM-008
+bears_on:
+- QUESTION-005
 summary: >-
   A49's answer to the collapse objection, recovered: d_O(s_1, s_2) > δ
   implies d_O(Φ(s_1), Φ(s_2)) > δ′. The owner's U19 strategy at work:

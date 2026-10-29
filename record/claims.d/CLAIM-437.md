@@ -35,7 +35,6 @@ rests_on:
 complements:
 - CLAIM-433
 - CLAIM-438
-- CLAIM-442
 grounds:
 - THEORY-893
 - THEORY-895

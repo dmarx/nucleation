@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpqgtmh
 title: 'A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CASE-018 moved from grounds to illustrated_by, as ARG-013 (Rejected)
+    rules that the invented case does not carry this claim (ADR-032,
+    ADR-061). The claim is unchanged; status stays Proposed, with a
+    blocker note from the tenth status review (ADR-057).
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -17,8 +25,9 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 grounds:
-- CASE-018
 - CASE-066
+illustrated_by:
+- CASE-018
 complements:
 - CLAIM-061
 uses:
@@ -80,3 +89,11 @@ compensation into English was found. It also says nothing about proportion,
 and "our children" may carry a different relation, not the same one. The
 case's last section sketches a reader test from its four versions, usable
 as items in [CASE-055](../cases.d/CASE-055.md).
+
+## Note of 2026-10-29: what holds it back
+
+No reader evidence that a compensating rendering keeps stance and force
+better than one that keeps the wording. [CASE-018](../cases.d/CASE-018.md) is invented ([ARG-013](../arguments.d/ARG-013.md),
+Rejected), and [CASE-066](../cases.d/CASE-066.md)'s judgements are the translators' and Tolstoy's.
+The reader test [CASE-066](../cases.d/CASE-066.md) sketches, Russian readers as the reference
+against four English versions, would meet or defeat the claim.
