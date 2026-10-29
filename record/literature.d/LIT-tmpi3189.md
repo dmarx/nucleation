@@ -1,18 +1,23 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher; it is Elsevier
+  subscription content, and OSF holds no preprint of it. No NOTE is filed.
+  It stays Unavailable until a copy is supplied (ADR-041).
 title: 'Perceived responsibility towards future generations and environmental concern: Convergent evidence across multiple outcomes in a large, nationally representative sample'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, extending the line
-    of legacy to obligations toward the future (QUESTION-tmpmx9ha).
-    Crossref: Journal of Environmental Psychology 76, 101651; August 2021
-    only, so `published:` is 2021-08-01 and means August 2021 (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    Crossref: Journal of Environmental Psychology 76, 101651; August
+    2021 only, so `published:` is 2021-08-01 and means August 2021
+    (ADR-002). Set Unavailable the same day after a search for a lawful
+    copy (ADR-041); the status note says where.
 tags:
 - future-generations
 - motivation

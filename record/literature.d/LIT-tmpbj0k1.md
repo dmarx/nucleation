@@ -1,18 +1,25 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher, and NYU's repository
+  lists it without a file. Scheffler's 2015 Uehiro Lectures, which
+  presented draft material for the book, are open as audio at Oxford's
+  Practical Ethics site (practicalethics.ox.ac.uk/node/2950046); they were
+  not transcribed, so no work was read in its place. No NOTE is filed. It
+  stays Unavailable until a copy is supplied (ADR-041).
 title: 'Why Worry About Future Generations?'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, extending the line
-    of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
     Crossref: Oxford University Press, print 2018-04-19, so `published:`
-    is that date (ADR-002).
+    is that date (ADR-002). Set Unavailable the same day after a search
+    for a lawful copy (ADR-041); the status note says where.
 tags:
 - future-generations
 - ethics

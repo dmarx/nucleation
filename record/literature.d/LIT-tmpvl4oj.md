@@ -1,8 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. One index marks it
+  open access, but Oxford Academic answered with a Cloudflare challenge,
+  so that could not be checked. No NOTE is filed. It stays Unavailable
+  until a copy is supplied (ADR-041).
 title: 'Retention of Learning through Metamorphosis in the Grain Beetle (Tenebrio molitor)'
 version: 1
 history:
@@ -13,7 +17,9 @@ history:
     persists through metamorphosis and regeneration (QUESTION-tmpws54x).
     Crossref: American Zoologist 12(3), 471–477; online and print August
     1972, so `published:` is 1972-08-01 (ADR-002). The title's species
-    name is as Crossref gives it, without italics.
+    name is as Crossref gives it, without italics. Set Unavailable the
+    same day after a search for a lawful copy (ADR-041); the status note
+    says where.
 tags:
 - neuroscience
 - individuation

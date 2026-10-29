@@ -1,8 +1,14 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher; it is not in PMC. The
+  publisher's pages answered with a Cloudflare challenge, so whether the
+  journal has since opened the article could not be checked, and the Levin
+  lab's publications page links only to the publisher. A copy on a course
+  page was not used. No NOTE is filed. It stays Unavailable until a copy
+  is supplied (ADR-041).
 title: 'An automated training paradigm reveals long-term memory in planaria and its persistence through head regeneration'
 version: 1
 history:
@@ -12,8 +18,9 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, on memory that
     persists through metamorphosis and regeneration (QUESTION-tmpws54x).
     Crossref: Journal of Experimental Biology; 2013, year only, with no
-    volume or pages in its record, so `published:` is 2013-01-01 and means
-    2013 (ADR-002).
+    volume or pages in its record, so `published:` is 2013-01-01 and
+    means 2013 (ADR-002). Set Unavailable the same day after a search
+    for a lawful copy (ADR-041); the status note says where.
 tags:
 - neuroscience
 - individuation

@@ -1,19 +1,24 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  the author offers a free chapter at theprecipice.com behind a newsletter
+  sign-up, which this client did not complete, and Bloomsbury's chapter
+  preview on Issuu answered HTTP 403. A human reader can likely open the
+  free chapter. No NOTE is filed. It stays Unfetched until it is read, not
+  on merit.
 title: 'The Precipice: Existential Risk and the Future of Humanity'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, extending the line
-    of legacy to obligations toward the future (QUESTION-tmpmx9ha). No DOI
-    and no LCCN found; the URL is the Open Library work record (Hachette,
-    ISBN 9780316484893; Bloomsbury). `published:` is 2020, year only
-    (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    No DOI and no LCCN found; the URL is the Open Library work record
+    (Hachette, ISBN 9780316484893; Bloomsbury). `published:` is 2020,
+    year only (ADR-002). Set Unfetched the same day under ADR-053 after
+    a fetch was refused; the status note gives the address.
 tags:
 - future-generations
 - ethics

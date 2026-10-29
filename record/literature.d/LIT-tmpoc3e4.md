@@ -1,18 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. Oxford Academic and
+  PhilArchive answered with Cloudflare challenges, and PhilArchive's
+  record lists no file. No NOTE is filed. It stays Unavailable until a
+  copy is supplied (ADR-041).
 title: 'Moral Problems of Population'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, extending the line
-    of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
     Crossref: The Monist 57(1), 62–86; 1973 only, so `published:` is
-    1973-01-01 and means 1973 (ADR-002).
+    1973-01-01 and means 1973 (ADR-002). Set Unavailable the same day
+    after a search for a lawful copy (ADR-041); the status note says
+    where.
 tags:
 - future-generations
 - ethics

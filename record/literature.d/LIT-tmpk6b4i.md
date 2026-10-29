@@ -1,19 +1,24 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher; the book's own site
+  posts its endnotes and supplementary materials, not its chapters. No
+  NOTE is filed. It stays Unavailable until a copy is supplied (ADR-041).
 title: 'What We Owe the Future'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, extending the line
-    of legacy to obligations toward the future (QUESTION-tmpmx9ha). No DOI
-    and no LCCN found; the URL is the Open Library work record (Basic
-    Books, ISBN 9781541604032; Oneworld, ISBN 0861542509). `published:` is
-    2022, year only (ADR-002).
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    No DOI and no LCCN found; the URL is the Open Library work record
+    (Basic Books, ISBN 9781541604032; Oneworld, ISBN 0861542509).
+    `published:` is 2022, year only (ADR-002). Set Unavailable the same
+    day after a search for a lawful copy (ADR-041); the status note says
+    where.
 tags:
 - future-generations
 - ethics
