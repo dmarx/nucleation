@@ -1,8 +1,9 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmp9514e) from the publisher's PDF (CC
+  BY); worth reading as the most recent sceptical statement, and the only
+  one of the three to name and dispute the human trauma claims.
 title: 'Transgenerational epigenetic inheritance: a critical perspective'
 version: 1
 history:
@@ -13,7 +14,10 @@ history:
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: Frontiers in Epigenetics and
     Epigenomics 2, 1434253; online 2024-08-30, so `published:` is that
-    date (ADR-002). Open, CC BY.
+    date (ADR-002). Open, CC BY. Set Active the same day: read in full
+    in NOTE-tmp9514e from the publisher's PDF (CC BY), not compared with
+    the published text, where there is one. The filing summary is
+    replaced by the reading's.
 tags:
 - natural-sciences
 date: '2026-10-29'
@@ -27,15 +31,14 @@ keywords:
 - 'mammals'
 implementations: []
 summary: >-
-  Bird (2024). A leading DNA-methylation biologist argues that claims of transgenerational epigenetic inheritance in mammals meet the barrier of germline reprogramming and lack a demonstrated mechanism, and that the evidence offered is weak.
+  Bird (2024). A Perspective by a DNA-methylation biologist. Transgenerational epigenetic inheritance rests on two assumptions: that the environment instructs the epigenome, and that acquired marks reach the germline and affect offspring. Both are weak in mammals. Marks usually follow transcription factors rather than lead; DNA methylation is largely stripped from gametes and early embryos; no validated mechanism links environment to epigenome. Organisms work to erase marks (mice inherit them when Dppa2 is mutated). The Agouti diet effect did not replicate. The rodent effects are short-lived or unreplicated, and the one robust paternal effect (microbiome ablation) seems not to go through the sperm epigenome. The human claims are weak: the Swedish (Överkalix) study ignored cultural transmission, failed to replicate in a larger cohort, and risks multiple testing; the Holocaust FKBP5 study had 32 people. Human genetics keeps explaining conditions once put down to environment. The article does not separate inter- from transgenerational effects.
 ---
 
 # LIT-tmpaf6cr: Transgenerational epigenetic inheritance: a critical perspective
 
 Bird, A. (2024). *Frontiers in Epigenetics and Epigenomics*, 2, 1434253.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmp9514e, from the publisher's PDF (CC BY).
 
 ## Why this is here
 

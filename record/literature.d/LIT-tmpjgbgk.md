@@ -1,8 +1,11 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmp3dbkt) from the authors' accepted
+  manuscript (PMC4020004), served by NCBI's PMC OAI-PMH service; worth
+  reading as the standard map of epigenetic inheritance across plants,
+  worms and mammals, and as the source of the F2/F3 rule the human trauma
+  claims are measured against.
 title: 'Transgenerational Epigenetic Inheritance: Myths and Mechanisms'
 version: 1
 history:
@@ -12,8 +15,12 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, on
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: Cell 157(1), 95–109; March 2014 only,
-    so `published:` is 2014-03-01 and means March 2014 (ADR-002). Open at
-    the publisher and in PMC (PMC4020004).
+    so `published:` is 2014-03-01 and means March 2014 (ADR-002). Open
+    at the publisher and in PMC (PMC4020004). Set Active the same day:
+    read in full in NOTE-tmp3dbkt from the authors' accepted manuscript
+    (PMC4020004), served by NCBI's PMC OAI-PMH service, not compared
+    with the published text, where there is one. The filing summary is
+    replaced by the reading's.
 tags:
 - natural-sciences
 date: '2026-10-29'
@@ -27,15 +34,14 @@ keywords:
 - 'small RNAs'
 implementations: []
 summary: >-
-  Heard & Martienssen (2014). A review. Transgenerational epigenetic inheritance is well established in plants and nematodes, through DNA methylation and small RNAs, but in mammals most marks are erased by germline reprogramming. Many reported mammalian and human cases can be explained by genetic, in utero, cultural or microbial routes. It separates intergenerational effects, where the fetus or its germ cells were themselves exposed, from transgenerational ones.
+  Heard & Martienssen (2014). A review of the mechanisms of epigenetic inheritance (small RNA, RNA-directed DNA methylation, paramutation, histone modification) and of germline reprogramming. Transgenerational inheritance is well documented in plants and nematodes, mostly at transposons and transgenes, and is rarely induced by the environment and more rarely adaptive. In mammals two rounds of reprogramming, in the germline and in the early embryo, erase most marks; the few bona fide epialleles (Agouti viable yellow, Axin fused) sit at retrotransposons. Effects of an exposed pregnant female count as transgenerational only from F3, of an exposed male only from F2. Human evidence, mostly nutritional (the Dutch famine, the thrifty phenotype), is intergenerational and confounded, so "so far there is little support"; human culture is the inheritance that is Lamarckian.
 ---
 
 # LIT-tmpjgbgk: Transgenerational Epigenetic Inheritance: Myths and Mechanisms
 
 Heard, E. & Martienssen, R. A. (2014). *Cell*, 157(1), 95–109.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmp3dbkt, from the authors' accepted manuscript (PMC4020004), served by NCBI's PMC OAI-PMH service.
 
 ## Why this is here
 
