@@ -126,15 +126,15 @@ earlier work on Hungary.
 
 ## Bearing on the record
 
-- **CLAIM-464.** The claim is stated so as not to choose between itself and
+- **[CLAIM-464](../claims.d/CLAIM-464.md).** The claim is stated so as not to choose between itself and
   Scheppele's strategic explanation, and the reading supports keeping them
   apart, for a reason the claim does not give: the two mechanisms differ in
-  what they change. CLAIM-464 changes the facts on the ground so that a
+  what they change. [CLAIM-464](../claims.d/CLAIM-464.md) changes the facts on the ground so that a
   correction costs more "while the standards that govern that outcome stay
   the same". Scheppele's autocrats change the standards and the correctors:
   they amend constitutions "to make what was once unconstitutional into
   something constitutional", disable constitutional courts first, and
-  pack the courts that would review them. One of her tactics is CLAIM-464's
+  pack the courts that would review them. One of her tactics is [CLAIM-464](../claims.d/CLAIM-464.md)'s
   mechanism, though: enlarging a court and its jurisdiction at once so that
   a flood of minor cases needs the new judges (Hungary, Turkey) raises the
   cost of review without any change of standard. Her intent claim is

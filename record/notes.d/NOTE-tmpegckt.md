@@ -138,7 +138,7 @@ A review's results are its distinctions and its framework.
 
 ## Connections
 
-Feldman and Pentland (LIT-1124, NOTE-tmpofse5) put the opposite stress
+Feldman and Pentland ([LIT-1124](../literature.d/LIT-1124.md), [NOTE-tmpofse5](NOTE-tmpofse5.md)) put the opposite stress
 on routines, which they treat as changing through every performance;
 this review lists routines among the building blocks that carry
 imprints. The two can be squared only if performance keeps re-enacting
@@ -147,7 +147,7 @@ comes from Cooper, Hinings, Greenwood and Brown (1996).
 
 ## Bearing on the record
 
-- **CLAIM-329.** The review gives the claim's distinction between
+- **[CLAIM-329](../claims.d/CLAIM-329.md).** The review gives the claim's distinction between
   transmission and resemblance a vocabulary the organizational
   literature already uses, at the level of features rather than of
   identity. Secondhand imprinting is causal transmission of a
@@ -162,7 +162,7 @@ comes from Cooper, Hinings, Greenwood and Brown (1996).
   features persist. So it supports the claim's half that transmission
   and resemblance differ, and says nothing on its half about which
   transmission makes the same collective.
-- **QUESTION-118.** The layered-imprint picture, in which a later
+- **[QUESTION-118](../questions.d/QUESTION-118.md).** The layered-imprint picture, in which a later
   sensitive period adds strata without removing earlier ones, is one
   candidate answer to what stays continuous through change: the older
   strata. The review does not test it.

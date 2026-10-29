@@ -100,18 +100,18 @@ together, because the same people are the threat and the mission.
 
 ## Connections
 
-The mappings tie it to SP 800-53 Rev. 5 (LIT-1206, NOTE-tmpgdnkh). Its
+The mappings tie it to SP 800-53 Rev. 5 ([LIT-1206](../literature.d/LIT-1206.md), [NOTE-tmpgdnkh](NOTE-tmpgdnkh.md)). Its
 positive-deterrence argument extends Straub's 1998 deterrence model and
 rests on Eisenberger's perceived-organizational-support scale and social
 exchange theory.
 
 ## Bearing on the record
 
-- **CLAIM-359 and CASE-108.** A41 named this research as the source of
+- **[CLAIM-359](../claims.d/CLAIM-359.md) and [CASE-108](../cases.d/CASE-108.md).** A41 named this research as the source of
   documented cases. Two things in the part read bear on the claim. The
   guide's own separation-of-duties case is a failure by collusion: four
   insiders split the steps the separation was meant to keep apart. That
-  is CASE-108's "role-limited governance" failure, "coordination cost or
+  is [CASE-108](../cases.d/CASE-108.md)'s "role-limited governance" failure, "coordination cost or
   collusion", observed. And Best Practice 21 states a version of the
   claim's trade-off from the practitioners' side: the CyLab survey it
   cites found concern that negative controls infringe rights, inhibit

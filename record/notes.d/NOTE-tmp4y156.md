@@ -115,27 +115,27 @@ It builds on Jasanoff's *The Fifth Branch* (1990) on regulatory science,
 on Gibbons et al. (1994) and Nowotny, Scott and Gibbons (2001) on Mode 2
 and socially robust knowledge, on Funtowicz and Ravetz on post-normal
 science, and on Beck and Perrow. Longino's account of the critical
-organization of a scientific community (THEORY-151), beside which this is
+organization of a scientific community ([THEORY-151](../theory.d/THEORY-151.md)), beside which this is
 filed, is about how a community's knowledge is made objective; Jasanoff's
 is about how a polity should decide under the uncertainty that knowledge
 leaves.
 
 ## Bearing on the record
 
-- **CASE-172.** The case uses the paper for the breadth of harms that are
+- **[CASE-172](../cases.d/CASE-172.md).** The case uses the paper for the breadth of harms that are
   hard to quantify in advance. That fits, with one adjustment. Jasanoff
   writes about assessing a technology before it is adopted, not about
   counting the harm of a policy after it. Her first limit is directly the
   case's "success described at one level": a saving reported by a
   predictive, accounting frame overstates what falls within its field of
-  vision and leaves out what falls outside, which is CLAIM-348's point that
+  vision and leaves out what falls outside, which is [CLAIM-348](../claims.d/CLAIM-348.md)'s point that
   the description adequate to one target does not settle another. Her
   vulnerability point, that "history, place, and social connectedness"
   fall out of population-level indicators, names what the case says a
   reinstated grant does not restore: the cohort and the local research
   tradition. She gives no method for measuring either, so she supports the
   case's "what it shows" and not any size of loss.
-- **THEORY-151.** Not a rival: Longino is about the social conditions of
+- **[THEORY-151](../theory.d/THEORY-151.md).** Not a rival: Longino is about the social conditions of
   objectivity inside a community; Jasanoff is about governance between
   experts and publics. Her claim that regulatory science's credibility
   rests on accountability rather than peer quality is a point where the

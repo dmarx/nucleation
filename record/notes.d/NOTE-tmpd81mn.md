@@ -130,12 +130,12 @@ being inside.
 It descends, by its own history (§1.1), from DISA's "black core" and the
 Jericho Forum's de-perimeterization (2004), named "zero trust" by John
 Kindervag at Forrester. It builds on SP 800-53's least privilege and
-separation of duties (LIT-1206, NOTE-tmpgdnkh) and on SP 800-63's identity
+separation of duties ([LIT-1206](../literature.d/LIT-1206.md), [NOTE-tmpgdnkh](NOTE-tmpgdnkh.md)) and on SP 800-63's identity
 assurance levels.
 
 ## Bearing on the record
 
-- **CLAIM-359.** A41 cited zero trust as governance that does not assume
+- **[CLAIM-359](../claims.d/CLAIM-359.md).** A41 cited zero trust as governance that does not assume
   any constituent is sound. The document bears that out for subjects
   and devices and then shows where the assumption stops: the policy
   engine and administrator are trusted absolutely, and the document's
@@ -153,7 +153,7 @@ assurance levels.
   names AI agents with weaker authentication as a route by which an
   attacker can borrow privilege, an instance of authority capture
   through a constituent.
-- **CASE-108.** The case's "reliability-weighted influence" arm, with its
+- **[CASE-108](../cases.d/CASE-108.md).** The case's "reliability-weighted influence" arm, with its
   failure "self-reinforcing capture or unfair suppression", is close to
   a score-based contextual trust algorithm, whose confidence rises with
   a history of normal behaviour. The document does not consider that

@@ -133,31 +133,31 @@ and the wrong to the displaced are separated by the opinion itself.
 
 ## Connections
 
-Human Rights Watch's report of 2023 (LIT-1593, NOTE-tmpask7i) relies on
+Human Rights Watch's report of 2023 ([LIT-1593](../literature.d/LIT-1593.md), [NOTE-tmpask7i](NOTE-tmpask7i.md)) relies on
 this opinion for most of its history and takes the human-rights question
 the Court left open as its own subject. The opinion cites the Chagos
 Marine Protected Area arbitration of 2015, which found the United
 Kingdom's undertaking to return the islands legally binding (para. 50),
 and the English Bancoult cases (paras. 121–130). It applies the Court's
 Western Sahara (1975) and Namibia (1971) opinions. The May 2025 treaty
-that CASE-169 records postdates it.
+that [CASE-169](../cases.d/CASE-169.md) records postdates it.
 
 ## Bearing on the record
 
-- **CASE-169 and CLAIM-348.** The case's sentence that the Court "treated
+- **[CASE-169](../cases.d/CASE-169.md) and [CLAIM-348](../claims.d/CLAIM-348.md).** The case's sentence that the Court "treated
   resettlement as a human-rights question within its completion" is
   accurate, and the opinion is a direct instance of the case's point that
   a settlement adequate to one target need not settle another. The Court
   answers the question about the territory and declines the question about
   the displaced: return gets one sentence, addressed to another body, and
   no operative point. A settlement between states that satisfied every
-  operative point of this opinion would leave CLAIM-361's return claim
+  operative point of this opinion would leave [CLAIM-361](../claims.d/CLAIM-361.md)'s return claim
   untouched.
-- **The "no permanent population" particular in CASE-169.** The opinion
+- **The "no permanent population" particular in [CASE-169](../cases.d/CASE-169.md).** The opinion
   records the line only in passing (para. 111, "virtually no permanent
   inhabitants", the Foreign Office's advice of November 1965). The
-  documented history is Human Rights Watch's (NOTE-tmpask7i).
-- **CLAIM-418.** The "people" in this opinion is the people of the colony
+  documented history is Human Rights Watch's ([NOTE-tmpask7i](NOTE-tmpask7i.md)).
+- **[CLAIM-418](../claims.d/CLAIM-418.md).** The "people" in this opinion is the people of the colony
   of Mauritius. The Chagossians appear as "Mauritian nationals, including
   those of Chagossian origin" (para. 181). Whose self-determination is at
   stake is itself fixed by the territorial frame, which bears on the

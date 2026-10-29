@@ -137,15 +137,15 @@ The results are conceptual.
 
 It builds on Albert and Whetten's definition, Dutton and Dukerich's Port
 Authority study and Gagliardi's "change to remain what they have always
-been". Cloutier and Ravasi's identity trajectories (LIT-1141, not
+been". Cloutier and Ravasi's identity trajectories ([LIT-1141](../literature.d/LIT-1141.md), not
 reached) is a later longitudinal study of the continuity the paper asks
-researchers to study. Feldman and Pentland (LIT-1124, NOTE-tmpofse5) make
+researchers to study. Feldman and Pentland ([LIT-1124](../literature.d/LIT-1124.md), [NOTE-tmpofse5](NOTE-tmpofse5.md)) make
 a parallel move for routines: the ostensive aspect persists as a gloss
 while performances change what it means, as identity labels do here.
 
 ## Bearing on the record
 
-- **CASE-103.** The case's split of a fanbase's reputation into members'
+- **[CASE-103](../cases.d/CASE-103.md).** The case's split of a fanbase's reputation into members'
   behaviour (P1), others' belief (P2) and the belief's effect on the
   fanbase (P3) is close to the paper's split between identity, reputation
   and construed external image, and the paper's process model is A5's
@@ -157,7 +157,7 @@ while performances change what it means, as identity labels do here.
   It does not study a case where the reputation is wrong, and it does
   not consider the case's selection path, a reputation that attracts or
   repels members.
-- **CLAIM-329.** The paper's continuity of labels with changing meanings
+- **[CLAIM-329](../claims.d/CLAIM-329.md).** The paper's continuity of labels with changing meanings
   is a challenge to any persistence criterion that requires identity
   content to stay fixed, as A6 expected. It does not supply the claim's
   causal-transmission criterion: its continuity is members' interpretive
