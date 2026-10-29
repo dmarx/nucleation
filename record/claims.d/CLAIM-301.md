@@ -85,14 +85,14 @@ reading.
 
 ## Note of 2026-10-29: filed with its concessions
 
-CLAIM-292 is granted against reading this claim as saying adaptive retrieval
+[CLAIM-292](CLAIM-292.md) is granted against reading this claim as saying adaptive retrieval
 is biased, and "What it does not say" has said so since the claim was filed.
 The title's pathology is turning a provisional interpretation into a premise,
-which is where CLAIM-292 puts it too.
+which is where [CLAIM-292](CLAIM-292.md) puts it too.
 
 ## Note of 2026-10-29: what holds it back
 
-Its one named source, LIT-1079, is Unavailable and unread. Its case, the
+Its one named source, [LIT-1079](../literature.d/LIT-1079.md), is Unavailable and unread. Its case, the
 exchange's own drift from A2 to A14, is in the body and not filed as a CASE.
 A21 §7's study at matched budgets, which the defeated_if names, has not been
 run.

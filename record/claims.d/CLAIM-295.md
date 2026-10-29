@@ -107,14 +107,14 @@ coordination, rather than by superior predictive updating."
 
 ## Note of 2026-10-29: filed with its concessions
 
-CLAIM-293 is granted against reading this claim as saying a graph of
+[CLAIM-293](CLAIM-293.md) is granted against reading this claim as saying a graph of
 justifications is enough, and the body has said "Not that topology is
 enough" since the claim was filed. The title says what a kept record can
 add, not how to revise with it.
 
 ## Note of 2026-10-29: what holds it back
 
-The informational clauses are carried by CLAIM-294 and CLAIM-300, both
+The informational clauses are carried by [CLAIM-294](CLAIM-294.md) and [CLAIM-300](CLAIM-300.md), both
 Active. The computational clause has only A10's illustrative example, and a
 state built for the tasks could carry the same dependency index, which is
 exactly what the defeat condition asks to be shown or ruled out.
