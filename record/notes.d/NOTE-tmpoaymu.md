@@ -195,7 +195,7 @@ subwords grouped into spans, each taking its most severe tag (p. 983).
   (Wan et al. 2022b) (pp. 980–983).
 - The test protocols are WMT's (Freitag et al. 2022, 2023); significance by
   Deutsch et al.'s Perm-Both test (p. 985).
-- **CASE-071** (Kovacs, Deutsch and Freitag, in the record) is the case
+- **[CASE-071](../cases.d/CASE-071.md)** (Kovacs, Deutsch and Freitag, in the record) is the case
   where translations a neural metric selects are rated better by that
   metric and its neighbours and not by human raters. xCOMET is one such
   neighbour; the paper does not test it as a selection criterion, though
@@ -203,15 +203,15 @@ subwords grouped into spans, each taking its most severe tag (p. 983).
 
 ## Bearing on the record
 
-- **CASE-071: consistent; xCOMET does not escape the case's mechanism and
+- **[CASE-071](../cases.d/CASE-071.md): consistent; xCOMET does not escape the case's mechanism and
   is not tested against it.** All of xCOMET's evidence is correlation with
-  human MQM on held-out segments it did not choose. CASE-071's failure
+  human MQM on held-out segments it did not choose. [CASE-071](../cases.d/CASE-071.md)'s failure
   arises when the metric does the choosing. A metric at τ ≈ 0.43 leaves
   most of the ordering of segment pairs to disagree with experts in some
   part, and nothing here bounds how selection exploits that. The record
   should cite xCOMET as a strong scorer of given translations, not as a
   fidelity criterion for translations optimised against it.
-- **CASE-tmph0fxi: a usable baseline, with two qualifications.** The study
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): a usable baseline, with two qualifications.** The study
   needs a task-independent quality score per route. xCOMET gives one in
   all three modes, and its source-only mode can score a relay hop where no
   reference exists in the pivot language. But its source-only mode is the
@@ -220,16 +220,16 @@ subwords grouped into spans, each taking its most severe tag (p. 983).
   sentence (about 35%, p. 987), so span counts are a coarse readout. Its
   hallucination detection is good enough to serve as one of the study's
   negative controls (Table 8).
-- **CLAIM-tmpgwud2: an instance of coherence mistaken for confirmation.**
+- **[CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md): an instance of coherence mistaken for confirmation.**
   The paper presents the agreement of its score with its own spans
   (Pearson up to 0.92, partly built in by eq. 7) as support for the spans'
   value. That is agreement between two routes through one encoder.
   Against the human annotation the spans reach F1 0.28. The record's
   distinction between path agreement and fidelity applies: the
   explanation is coherent with the score far more than either is correct.
-  THEORY-tmpa9y98 states this.
-- **Two THEORYs**: THEORY-tmpa9y98 (agreement with experts against
-  agreement between heads) and THEORY-tmpt1otv (synthetic-error and
+  [THEORY-tmpa9y98](../theory.d/THEORY-tmpa9y98.md) states this.
+- **Two THEORYs**: [THEORY-tmpa9y98](../theory.d/THEORY-tmpa9y98.md) (agreement with experts against
+  agreement between heads) and [THEORY-tmpt1otv](../theory.d/THEORY-tmpt1otv.md) (synthetic-error and
   hallucination robustness). Both Proposed.
 - **Instruction for ML practice: yes, belongs to the anthology.** xCOMET is
   a released evaluation tool, and the paper advises on its use ("under
@@ -257,7 +257,7 @@ subwords grouped into spans, each taking its most severe tag (p. 983).
 
 ## Open questions
 
-- Does xCOMET, used to select among candidate translations, show CASE-071's
+- Does xCOMET, used to select among candidate translations, show [CASE-071](../cases.d/CASE-071.md)'s
   metric bias? An MBR or reranking experiment with human MQM on the picks
   would settle it.
 - How well do xCOMET's spans agree with human spans on the kind of errors

@@ -20,12 +20,12 @@ date: '2026-10-29'
 source:
 - LIT-tmp36f4u
 summary: >-
-  Chu, Zhmoginov and Sandler (2017), LIT-tmp36f4u, §2 and §5, read in
-  NOTE-tmpty1lx. The authors argue it from the many photographs a single
-  map stands for, and support it with THEORY-tmp3yv5g's evidence on one
+  Chu, Zhmoginov and Sandler (2017), [LIT-tmp36f4u](../literature.d/LIT-tmp36f4u.md), §2 and §5, read in
+  [NOTE-tmpty1lx](../notes.d/NOTE-tmpty1lx.md). The authors argue it from the many photographs a single
+  map stands for, and support it with [THEORY-tmp3yv5g](THEORY-tmp3yv5g.md)'s evidence on one
   model; they propose, and do not run, the test of adding capacity to the
   smaller domain. Proposed. It is the converse of the record's collapse
-  case for CLAIM-tmpgwud2: there routes agree because nothing travels,
+  case for [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md): there routes agree because nothing travels,
   here because everything does, out of sight.
 ---
 <!-- inactive-ok-file: CLAIM-tmpgwud2 — new; the claim this account bears on, cited as open -->
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Chu, Zhmoginov and Sandler (2017), LIT-tmp36f4u, §2 (p. 2) and §5
-(pp. 4–5) of arXiv 1712.02950v2; read in NOTE-tmpty1lx.
+Chu, Zhmoginov and Sandler (2017), [LIT-tmp36f4u](../literature.d/LIT-tmp36f4u.md), §2 (p. 2) and §5
+(pp. 4–5) of arXiv 1712.02950v2; read in [NOTE-tmpty1lx](../notes.d/NOTE-tmpty1lx.md).
 
 ## What was actually shown
 
@@ -51,7 +51,7 @@ between them. We demonstrated that CycleGAN sidesteps this asymmetry by
 hiding information about the input photograph in a low-amplitude,
 high-frequency signal added to the output image" (pp. 4–5).
 
-**The evidence** is THEORY-tmp3yv5g's: on one model, the reconstruction
+**The evidence** is [THEORY-tmp3yv5g](THEORY-tmp3yv5g.md)'s: on one model, the reconstruction
 uses information the visible map lacks, carried at high frequency and low
 amplitude.
 
@@ -75,7 +75,7 @@ model does.
 - **That round-trip agreement is worthless.** It measures whether the
   composition is invertible. What it does not measure is whether the
   intermediate is a rendering for its reader. In the record's terms it is
-  a coherence criterion (CLAIM-tmpgwud2), and this case shows it can be
+  a coherence criterion ([CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md)), and this case shows it can be
   maximal while the intermediate, read as intended, loses the content.
 - **Anything about translation between languages directly.** The case is
   images. The analogy to relay translation, where a pivot language

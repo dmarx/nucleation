@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpdrddx
 summary: >-
-  Felekis, Zennaro, Branchini and Damoulas (CLeaR 2024), LIT-tmpdrddx,
-  eqs. (6), (9), (10), (12) and Appendices A–B, read in NOTE-tmpohrox from
+  Felekis, Zennaro, Branchini and Damoulas (CLeaR 2024), [LIT-tmpdrddx](../literature.d/LIT-tmpdrddx.md),
+  eqs. (6), (9), (10), (12) and Appendices A–B, read in [NOTE-tmpohrox](../notes.d/NOTE-tmpohrox.md) from
   the arXiv preprint v1. A derivation from the paper's own equations,
   which state the term as a divergence between column (or row) sums of
   two plans; Theorem 1's proof writes it the same way. Active as
@@ -24,9 +24,9 @@ summary: >-
 
 ## Source
 
-Felekis et al. (2024), LIT-tmpdrddx, §4 (pp. 5–8), §6 (Fig. 2 and Table 1,
+Felekis et al. (2024), [LIT-tmpdrddx](../literature.d/LIT-tmpdrddx.md), §4 (pp. 5–8), §6 (Fig. 2 and Table 1,
 p. 10) and Appendices A–B (pp. 14–16) of arXiv 2312.08107v1; read in
-NOTE-tmpohrox.
+[NOTE-tmpohrox](../notes.d/NOTE-tmpohrox.md).
 
 ## What was actually shown
 
@@ -72,11 +72,11 @@ eq. (12) keeps the plans in U(π).
 
 - **That COTA's results are wrong.** The errors reported are what the
   method produced. They are explained by the ω-cost and the entropy
-  weight, not by the causal term (THEORY-tmpd2jd5).
+  weight, not by the causal term ([THEORY-tmpd2jd5](THEORY-tmpd2jd5.md)).
 - **That the released code solves eq. (12).** Read without running, it
   puts every chain into one problem and gives a plan marginal constraints
   only the first time its intervention appears; later appearances are new
-  variables without them, coupled by the δ term (NOTE-tmpohrox). There the
+  variables without them, coupled by the δ term ([NOTE-tmpohrox](../notes.d/NOTE-tmpohrox.md)). There the
   term can act. That variant is not described in the paper.
 - **Anything about Approximate COTA** (Appendix F), whose element-wise term
   does depend on the plans' entries.

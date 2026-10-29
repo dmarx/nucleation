@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpty1lx) from arXiv v2; worth reading as
+  read in full 2026-10-29 ([NOTE-tmpty1lx](../notes.d/NOTE-tmpty1lx.md)) from arXiv v2; worth reading as
   the plainest demonstration that a perfect round trip can rest on a
   channel the intermediate's reader never sees, so that round-trip
   agreement certifies invertibility, not content. One model, mostly
@@ -61,7 +61,7 @@ Chu, C., Zhmoginov, A., & Sandler, M. (2017). CycleGAN, a master of steganograph
 
 A5 called it "the most revealing conceptual warning": a round trip can be perfect while the intended correspondence is not learned, because the information travels in a channel the audience cannot see. It is the converse failure to [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md)'s collapse, where routes agree because nothing travels, and a learned instance of [THEORY-1088](../theory.d/THEORY-1088.md)'s consensus by changed maps.
 
-The reading (NOTE-tmpty1lx) bears the description out. One addition: the
+The reading ([NOTE-tmpty1lx](../notes.d/NOTE-tmpty1lx.md)) bears the description out. One addition: the
 loop is not wholly unchecked, since discriminators score the map; but they
 score whether it looks like a map, not whether it says what the photograph
 shows.

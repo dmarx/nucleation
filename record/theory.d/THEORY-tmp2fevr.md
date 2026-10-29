@@ -9,11 +9,11 @@ date: '2026-10-29'
 source:
 - LIT-tmpagj3g
 summary: >-
-  Simoes, Dastani and van Ommen (UAI 2025), LIT-tmpagj3g, Proposition 20
-  with its proof (pp. 14–15), read in NOTE-tmpuxoku from the arXiv
+  Simoes, Dastani and van Ommen (UAI 2025), [LIT-tmpagj3g](../literature.d/LIT-tmpagj3g.md), Proposition 20
+  with its proof (pp. 14–15), read in [NOTE-tmpuxoku](../notes.d/NOTE-tmpuxoku.md) from the arXiv
   preprint v5. Active: the proof is a strict-concavity argument, checked
   here on the paper's Genetic Mutations SCM. It is the interventional
-  counterpart of THEORY-743, and unlike the bottleneck there it reaches
+  counterpart of [THEORY-743](THEORY-743.md), and unlike the bottleneck there it reaches
   the partition exactly, because γ = 1 drops the compression term. It
   holds for the paper's stipulated intervention on T and a fixed
   protocol; it says nothing about intermediate γ.
@@ -23,9 +23,9 @@ summary: >-
 
 ## Source
 
-Simoes, Dastani and van Ommen (2025), LIT-tmpagj3g, Definitions 4, 5, 13
+Simoes, Dastani and van Ommen (2025), [LIT-tmpagj3g](../literature.d/LIT-tmpagj3g.md), Definitions 4, 5, 13
 and 19 and Proposition 20 (pp. 4, 12, 14–15) of arXiv 2410.00535v5; read in
-NOTE-tmpuxoku.
+[NOTE-tmpuxoku](../notes.d/NOTE-tmpuxoku.md).
 
 ## What was actually shown
 
@@ -61,14 +61,14 @@ than any partition; concavity rules it out.
 
 - **Anything about γ < 1.** The compression trade-off has no ground truth
   in the paper, and nothing says the optima for different γ nest
-  (THEORY-743 leaves the same open for the IB).
+  ([THEORY-743](THEORY-743.md) leaves the same open for the IB).
 - **That the intervention on T is a physical one.** It is defined from the
   encoder and the protocol; the authors defend it as a consistent
   stipulation for "an artificial, conceptual abstraction of X" (p. 15).
 - **That the partition is protocol-free.** The partition itself is fixed
   by p(y | do(x)), but which encoders are optimal at γ < 1, and how much
   Ic a coarsening loses, depend on p*.
-- **That the optimiser finds it.** That is THEORY-tmppip5e's empirical
+- **That the optimiser finds it.** That is [THEORY-tmppip5e](THEORY-tmppip5e.md)'s empirical
   question.
 - **Anything for continuous variables**; the argument uses exact discrete
   entropies.

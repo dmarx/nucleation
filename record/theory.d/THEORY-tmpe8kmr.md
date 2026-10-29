@@ -18,8 +18,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpgqc02
 summary: >-
-  Bodnar et al. (NeurIPS 2022), LIT-tmpgqc02, §§5–6 and Appendix F, read
-  in NOTE-tmpani5h. The results are empirical: Table 1 on nine datasets
+  Bodnar et al. (NeurIPS 2022), [LIT-tmpgqc02](../literature.d/LIT-tmpgqc02.md), §§5–6 and Appendix F, read
+  in [NOTE-tmpani5h](../notes.d/NOTE-tmpani5h.md). The results are empirical: Table 1 on nine datasets
   of 183 to 18,717 nodes with ten fixed splits, baselines copied from
   earlier papers, spreads of one to nine points; and one synthetic
   bipartite experiment in which the learned maps are inspected. Proposed:
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Bodnar et al. (2022), LIT-tmpgqc02, §5 (pp. 7–8), §6 (pp. 8–9) and
-Appendix F (pp. 27–29) of arXiv 2202.04579v4; read in NOTE-tmpani5h.
+Bodnar et al. (2022), [LIT-tmpgqc02](../literature.d/LIT-tmpgqc02.md), §5 (pp. 7–8), §6 (pp. 8–9) and
+Appendix F (pp. 27–29) of arXiv 2202.04579v4; read in [NOTE-tmpani5h](../notes.d/NOTE-tmpani5h.md).
 
 ## What was actually shown
 
@@ -77,6 +77,6 @@ specific baselines on the benchmarks.
 - **That learning recovers a ground truth.** In the synthetic case the
   target sheaf is known because the labels define it. On real data there
   is no such sheaf to compare with, so "learns the geometry" has no test
-  here (QUESTION-130).
+  here ([QUESTION-130](../questions.d/QUESTION-130.md)).
 - **Anything about larger graphs or other tasks.** Only node
   classification on these nine sets is reported.

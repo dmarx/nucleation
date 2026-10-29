@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpuxoku) from arXiv v5; worth reading as
+  read in full 2026-10-29 ([NOTE-tmpuxoku](../notes.d/NOTE-tmpuxoku.md)) from arXiv v5; worth reading as
   an exact, small-scale statement of the difference between compressing
   for prediction and compressing for control: at full control the
   optimum is the partition of X by p(y | do(x)), which the ordinary
@@ -57,6 +57,6 @@ Simoes, F. N. F. Q., Dastani, M., & van Ommen, T. (2025). The causal information
 
 A7 joined three of the record's ideas through it: task-relative fidelity ([CLAIM-259](../claims.d/CLAIM-259.md)), legibility for a bounded receiver ([CLAIM-455](../claims.d/CLAIM-455.md)), and the difference between supporting prediction and supporting control. A rendering may keep what a task's control needs while losing most of the source. [CLAIM-348](../claims.d/CLAIM-348.md)'s caution stands: optimizing for one task does not make it the task that matters.
 
-The reading (NOTE-tmpuxoku) bears this out, with one addition: control
+The reading ([NOTE-tmpuxoku](../notes.d/NOTE-tmpuxoku.md)) bears this out, with one addition: control
 here is relative to a chosen intervention protocol as well as to the
 target, and the intervention on T is a stipulation, not a mechanism.

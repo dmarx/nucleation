@@ -19,8 +19,8 @@ date: '2026-10-29'
 source:
 - LIT-tmp36f4u
 summary: >-
-  Chu, Zhmoginov and Sandler (2017), LIT-tmp36f4u, §§2–4, read in
-  NOTE-tmpty1lx. One trained model on one dataset. The noise curve
+  Chu, Zhmoginov and Sandler (2017), [LIT-tmp36f4u](../literature.d/LIT-tmp36f4u.md), §§2–4, read in
+  [NOTE-tmpty1lx](../notes.d/NOTE-tmpty1lx.md). One trained model on one dataset. The noise curve
   (Fig. 3, 50 photographs) is the only quantitative result; the hidden
   details, the composing edits and the attack are shown by examples.
   Proposed: an empirical finding about one model, said by the authors to
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Chu, Zhmoginov and Sandler (2017), LIT-tmp36f4u, §§2–4 (pp. 1–4) of arXiv
-1712.02950v2; read in NOTE-tmpty1lx.
+Chu, Zhmoginov and Sandler (2017), [LIT-tmp36f4u](../literature.d/LIT-tmp36f4u.md), §§2–4 (pp. 1–4) of arXiv
+1712.02950v2; read in [NOTE-tmpty1lx](../notes.d/NOTE-tmpty1lx.md).
 
 ## What was actually shown
 
@@ -71,7 +71,7 @@ were in the visible layout.
 - **How much information the hidden channel carries.** No estimate is
   given; "hides" is shown by example.
 - **Why it happens.** The unequal-complexity explanation is argued
-  (THEORY-tmpocg1h), not tested.
+  ([THEORY-tmpocg1h](THEORY-tmpocg1h.md)), not tested.
 - **That the discriminator failed.** Fx passes as a map: the discriminator
   scores realism, which the hidden signal does not disturb.
 - **That every cycle-consistent model hides information.** A model whose
