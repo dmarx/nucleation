@@ -24,7 +24,7 @@ promote_when: >-
   emotion and regulation tasks, since the account allows one state of
   readiness to be built differently from another.
 title: "Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-03'
@@ -34,6 +34,12 @@ history:
     support the clause about no regulator above, and the expected value of
     control (THEORY-070) is the conditional challenge, decided by the
     test promote_when already names.
+- version: 3
+  date: '2026-10-28'
+  note: >-
+    Kept Proposed by the sixth status review; its supports on
+    CLAIM-358 and CLAIM-440 became corroborates (ADR-058). The account
+    is unchanged.
 tags:
 - emotion-and-affect
 - agency
@@ -43,6 +49,9 @@ date: '2026-10-03'
 source:
 - LIT-540
 - LIT-542
+corroborates:
+- CLAIM-358
+- CLAIM-440
 summary: >-
   Frijda, Ridderinkhof & Rietveld (2014), [LIT-540](../literature.d/LIT-540.md), deny "the exclusivity of
   emotion regulation processes". Appraising the consequences of an
@@ -56,9 +65,6 @@ summary: >-
   emotion is agree on this. Gross (1998), [LIT-554](../literature.d/LIT-554.md), poses the question and
   keeps the distinction. Proposed: argued from examples and from
   architecture, untested.
-supports:
-- CLAIM-358
-- CLAIM-440
 rivals:
 - THEORY-680
 bears_on:
@@ -209,3 +215,15 @@ control networks that deliberate regulation recruits.
   does the work generally would.
 - **It does not say which state wins.** Neither source predicts that, and
   it is the account's largest gap.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed. Both sources argue it and neither tests it ([NOTE-433](../notes.d/NOTE-433.md) C5,
+[NOTE-434](../notes.d/NOTE-434.md) C8). The record holds no result that `promote_when` names: no
+dissociation of regulation from generation, no measured regulation without
+a competing concern, and no evidence that reappraisal works through a
+second, competing readiness or that effortless regulation spares the
+control networks. [THEORY-878](THEORY-878.md)'s regions selective for reappraisal are a
+difference in network activation, which `promote_when` says cannot settle
+it, and [THEORY-871](THEORY-871.md) fits either account. Gross and Barrett (2011) remains
+unfiled.

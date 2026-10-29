@@ -32,6 +32,8 @@ date: '2026-10-03'
 source:
 - LIT-580
 - LIT-584
+corroborates:
+- CLAIM-358
 summary: >-
   Daw, Niv & Dayan ([LIT-580](../literature.d/LIT-580.md)) cast habitual and goal-directed
   instrumental control as model-free caching and model-based search, and
@@ -44,7 +46,6 @@ summary: >-
   The instrumental half is qualitative simulation; the Pavlovian half of
   the arbitration is a suggestion. Proposed.
 supports:
-- CLAIM-358
 - CLAIM-447
 bears_on:
 - QUESTION-015

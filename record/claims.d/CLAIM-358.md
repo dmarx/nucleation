@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpmr1t8
 title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    At the sixth status review (ADR-058): THEORY-056, THEORY-062 and
+    THEORY-149 moved from grounds to corroborated_by, since the
+    conditional title takes a stable local accommodation as its
+    antecedent and the body cites them as the routes it may take;
+    CASE-109, a stipulated case, moved to illustrated_by. THEORY-070
+    stays a ground. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,16 +43,18 @@ rests_on:
 - CLAIM-261
 grounds:
 - THEORY-070
-- THEORY-056
-- THEORY-062
-- THEORY-149
-- CASE-109
 complements:
 - CLAIM-162
 - CLAIM-362
 - CLAIM-451
 uses:
 - TERM-061
+corroborated_by:
+- THEORY-056
+- THEORY-062
+- THEORY-149
+illustrated_by:
+- CASE-109
 summary: >-
   The owner's, U45 of the exchange of 2026-10-17: "processes which can
   navigate disagreement amongst themselves require fewer resources from
@@ -61,7 +73,8 @@ supports:
 bears_on:
 - QUESTION-054
 ---
-<!-- inactive-ok-file: CLAIM-261 CLAIM-162 CLAIM-163 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
+<!-- inactive-ok-file: CLAIM-261 CLAIM-162 ARG-016 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
+<!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 
 # CLAIM-358: Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent's processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free
 
@@ -197,3 +210,12 @@ arbitration can be encoded into what an organization automatically
 notices and treats as relevant, its legibility ([CASE-156](../cases.d/CASE-156.md)), and that
 can be adaptive compilation or the cheapness of no longer considering
 inconvenient alternatives.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. Its premise [CLAIM-261](CLAIM-261.md) and its
+ground [THEORY-070](../theory.d/THEORY-070.md) are Proposed, and no measure of amortized supervisory
+cost over recurring conflicts, escalating against accommodating, is in the
+record. A45's cost terms "would need operational definitions". The
+objection once filed as [CLAIM-163](CLAIM-163.md) is now [ARG-016](../arguments.d/ARG-016.md), which holds that
+"synchronization" names no mechanism.

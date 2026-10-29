@@ -33,6 +33,8 @@ tags:
 date: '2026-10-03'
 source:
 - LIT-585
+bears_on:
+- QUESTION-054
 summary: >-
   Shenhav, Botvinick & Cohen ([LIT-585](../literature.d/LIT-585.md)) unify dACC's many reported
   functions as one: deciding whether, where and how much control to
@@ -46,7 +48,6 @@ summary: >-
   regulation.
 supports:
 - CLAIM-162
-- CLAIM-159
 - CLAIM-358
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-029 — Proposed; THEORY-056 is the account this one is weighed against, THEORY-029 is named to say this one does not bear on it -->
@@ -162,3 +163,21 @@ this account describes.
 - **Norman and Shallice** ([LIT-600](../literature.d/LIT-600.md), unread). The supervisory override
   of habitual responses that EVC formalises descends from that tradition;
   the paper as retrieved does not cite them.
+
+## Note of 2026-10-28: what holds it back
+
+Kept Proposed by the sixth status review. [NOTE-446](../notes.d/NOTE-446.md) read the paper in full,
+and it "reports no new data". Neither promotion result is in the record: no
+fit of the EVC computation in which control intensity tracks payoff and
+cost better than a model without the cost term, and no dACC/lateral-PFC
+dissociation of specifying from implementing beyond the cingulotomy
+half-result. [THEORY-878](THEORY-878.md)'s selective regions are co-activation, not that
+dissociation. It now bears on [QUESTION-054](../questions.d/QUESTION-054.md), whose summary already said it
+asserts one answer.
+
+## Note of 2026-10-28: the proposal split off
+
+What the paper proposes, as distinct from whether it is true, is now
+[THEORY-tmp45v6v](THEORY-tmp45v6v.md), Active, so that [CLAIM-159](../claims.d/CLAIM-159.md), which places this account in
+the top-down cell, can stand on the proposal alone. This entry keeps the
+question whether the proposal holds, and its `promote_when`.

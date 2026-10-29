@@ -16,6 +16,8 @@ line: will-organization
 variant_of:
 - CASE-013
 - CASE-051
+illustrates:
+- CLAIM-358
 summary: >-
   The owner's case, U45 of the exchange of 2026-10-17, worked by A45 as
   Person A ("repeated escalation") and Person B ("local coordination") on
@@ -26,7 +28,6 @@ summary: >-
   used for [CLAIM-358](../claims.d/CLAIM-358.md). Stipulated, so it shows what the claim
   distinguishes, not that people differ this way.
 supports:
-- CLAIM-358
 - CLAIM-449
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-261 THEORY-070 CLAIM-358 CLAIM-362 CLAIM-364 — Proposed; the claims and reading the case is set beside, open -->

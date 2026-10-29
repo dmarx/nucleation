@@ -3,8 +3,22 @@ number: 82
 status: Proposed
 formerly:
 - CLAIM-tmpnt2nd
-title: 'A sign''s communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent'
-version: 1
+title: 'A term''s value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system'
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Narrowed at the sixth status review to record CLAIM-072's
+    concession (ADR-059), which ARG-034 judged: Saussure says value,
+    as distinct from signification, is fixed by contrast, and does not
+    set it against reference. Version 1's title read: A sign's
+    communicative significance is fixed by its contrasts within a
+    system rather than by correspondence to a referent. That title is
+    kept as CLAIM-tmpgbiz1, Proposed; the use-level part is
+    CLAIM-242's and ARG-033's. LIT-775 leaves the grounds, and
+    THEORY-175, THEORY-182 and THEORY-185, cited as working cases,
+    move to corroborated_by (ADR-058).
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -21,7 +35,7 @@ works:
 - what-survives-translation
 grounds:
 - THEORY-159
-- LIT-775
+corroborated_by:
 - THEORY-175
 - THEORY-182
 - THEORY-185
@@ -35,10 +49,12 @@ illustrated_by:
 - CASE-019
 complements:
 - CLAIM-242
+- CLAIM-tmpgbiz1
 ---
+<!-- inactive-ok-file: CLAIM-tmpgbiz1 — Proposed; the first title, kept as its own entry -->
 <!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->
 
-# CLAIM-082: A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent
+# CLAIM-082: A term's value, as distinct from its signification, is fixed by its contrasts with the coexisting terms of its system
 
 ## The claim
 
@@ -135,3 +151,10 @@ also survives deleting every word pair that differs only in it, so each
 word's relations to the rest of the vocabulary carry it. The same
 qualification holds: the contrasts are posited in advance, and many are
 properties of what the words refer to.
+
+## Note of 2026-10-28: narrowed; what holds it back
+
+The sixth status review narrowed this claim to what Saussure's value
+carries, recording [CLAIM-072](CLAIM-072.md)'s concession, which [ARG-034](../arguments.d/ARG-034.md) judged. The first
+title is [CLAIM-tmpgbiz1](CLAIM-tmpgbiz1.md). Kept Proposed: its reading of Saussure,
+[THEORY-159](../theory.d/THEORY-159.md), is Proposed, and nothing in the record meets `defeated_if`.

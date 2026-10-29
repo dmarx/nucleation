@@ -31,6 +31,8 @@ tags:
 date: '2026-10-09'
 source:
 - LIT-849
+corroborates:
+- CLAIM-082
 summary: >-
   Moschella et al. (2022; ICLR 2023), [LIT-849](../literature.d/LIT-849.md), as read in [NOTE-652](../notes.d/NOTE-652.md). The
   invariance is by construction; its class (the maps preserving each
@@ -44,7 +46,6 @@ summary: >-
   the transfer needs no paired data: the anchors are paired data.
 supports:
 - CLAIM-126
-- CLAIM-082
 extended_by:
 - THEORY-798
 ---

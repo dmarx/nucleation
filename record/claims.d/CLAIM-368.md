@@ -1,10 +1,10 @@
 ---
 number: 368
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpyk3it
 title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-18'
@@ -21,6 +21,16 @@ history:
     NOTE-1163: a felt, individual case of managing a frustrated demand
     by altering the field in which it is presented. An analogy, not
     evidence. The claim is unchanged.
+- version: 4
+  date: '2026-10-28'
+  note: >-
+    Promoted at the sixth status review (ADR-057). Its premises
+    CLAIM-283, CLAIM-027 and TERM-060 are Active, no objection is
+    filed, and nothing meets the defeater. THEORY-232, THEORY-052 and
+    THEORY-217 moved from grounds to corroborated_by (ADR-058): the
+    claim cites them as parallels, not premises. It bears on
+    QUESTION-131, which it leaves open. Promotion does not reopen the
+    Deferred organizational-affect line (CLAIM-039).
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,10 +53,6 @@ line:
 rests_on:
 - CLAIM-283
 - CLAIM-027
-grounds:
-- THEORY-232
-- THEORY-052
-- THEORY-217
 complements:
 - CLAIM-153
 - CLAIM-346
@@ -54,6 +60,12 @@ complements:
 - CLAIM-451
 uses:
 - TERM-060
+corroborated_by:
+- THEORY-232
+- THEORY-052
+- THEORY-217
+bears_on:
+- QUESTION-131
 summary: >-
   The owner's, U33 of the exchange of 2026-10-17: "maybe we should focus
   less on distress and more on frustration". A33 granted it: "Frustration
@@ -189,3 +201,13 @@ it is an analogy, not evidence. Its organizational counterpart would be an
 act of governance that removes a demand's occasion rather than the demand;
 whether that differs from a change in the admissible set is not taken up
 here. The comparison is the record's.
+
+## Note of 2026-10-28: promoted
+
+The sixth status review promoted this claim ([ADR-057](../decisions.d/ADR-057.md)). What it stands on is
+[CLAIM-283](CLAIM-283.md)'s first half, which is Active, with [CLAIM-027](CLAIM-027.md) and [TERM-060](../terms.d/TERM-060.md).
+Watson ([THEORY-232](../theory.d/THEORY-232.md)), self-determination theory ([THEORY-052](../theory.d/THEORY-052.md)) and Barandiaran
+([THEORY-217](../theory.d/THEORY-217.md)) are cited in one paragraph, "The record's readings already do
+it this way", as parallels; their contested theses do no work here, so they
+corroborate it and are not its grounds ([ADR-058](../decisions.d/ADR-058.md)). [CLAIM-347](CLAIM-347.md) and [CLAIM-357](CLAIM-357.md),
+cited in the body, rest on this claim; they are not its premises.

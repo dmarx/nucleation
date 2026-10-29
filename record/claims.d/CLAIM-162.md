@@ -3,8 +3,21 @@ number: 162
 status: Proposed
 formerly:
 - CLAIM-tmpf301t
-title: 'Flow is intrapersonal synchronization: when an activity''s immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless'
-version: 1
+title: 'In flow an activity''s immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless'
+version: 2
+history:
+- version: 2
+  date: '2026-10-28'
+  note: >-
+    Narrowed at the sixth status review to concede ARG-016 (ADR-059):
+    synchronization here means non-crossing valuations, with no
+    dynamical mechanism claimed, which TERM-050 already says. Version
+    1's title read: Flow is intrapersonal synchronization: when an
+    activity's immediate reward and its longer-run value coincide, no
+    interest has to be overridden, and that is why focused action in
+    flow is reported as effortless. The dropped reading,
+    synchronization in a dynamical sense, is what ARG-016 holds does
+    not carry; it needs no entry of its own.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,11 +59,12 @@ illustrated_by:
 supports:
 - CLAIM-441
 ---
-<!-- inactive-ok-file: CLAIM-169 CLAIM-163 — Proposed; the premise and the open objection, cited as open -->
+<!-- inactive-ok-file: CLAIM-169 ARG-016 — Proposed; the premise and the open objection, cited as open -->
+<!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 <!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Unavailable, unread; the flow literature, cited without a reading and named as the weakest footing -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 — Proposed; the readings this conjecture is set against, with their untested standing stated -->
 
-# CLAIM-162: Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless
+# CLAIM-162: In flow an activity's immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless
 
 ## The claim
 
@@ -100,3 +114,12 @@ commitment, and one where nothing has to.
   a supervisor with nothing to arbitrate may idle. That is not argued here.
 - **That "synchronization" names a dynamical mechanism.** See the
   objection [CLAIM-163](CLAIM-163.md).
+
+## Note of 2026-10-28: narrowed; what holds it back
+
+The sixth status review narrowed the title to concede [ARG-016](../arguments.d/ARG-016.md), which holds
+that "synchronization" carries the word and not the mechanism. Kept
+Proposed: its premise [CLAIM-169](CLAIM-169.md) and its ground [THEORY-070](../theory.d/THEORY-070.md) are Proposed, and
+[LIT-914](../literature.d/LIT-914.md) and [LIT-910](../literature.d/LIT-910.md) are unread. No choice probe or reversal measure inside a
+flow episode is in the record. The objection cited above as [CLAIM-163](CLAIM-163.md) is
+now [ARG-016](../arguments.d/ARG-016.md).
