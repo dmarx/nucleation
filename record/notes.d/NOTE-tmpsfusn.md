@@ -139,7 +139,7 @@ acknowledgement protocol (the Appendix).
 ## Connections
 
 The Appendix is the coordinated attack problem, though not by that name
-and not as generals. Halpern and Moses (LIT-1213, NOTE-1381) state it
+and not as generals. Halpern and Moses ([LIT-1213](../literature.d/LIT-1213.md), [NOTE-1381](NOTE-1381.md)) state it
 as attacking generals, credit it to Gray (1978), cite Gallager (1979) and
 Yemini and Cohen (1979) for proofs, and do not cite this paper. Their
 formal version is about guaranteed coordinated action; this paper's is
@@ -152,7 +152,7 @@ same in both.
 
 ## Bearing on the record
 
-- **CLAIM-346, construction 3 and the note of 2026-10-29.** Akkoyunlu et
+- **[CLAIM-346](../claims.d/CLAIM-346.md), construction 3 and the note of 2026-10-29.** Akkoyunlu et
   al. do state the problem. The Appendix gives two parties, a lossy
   messenger, a goal that requires both to know they agree the message got
   through, and a proof that no finite exchange reaches it, even when no

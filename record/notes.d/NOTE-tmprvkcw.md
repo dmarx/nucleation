@@ -149,22 +149,22 @@ Freud and Sumner before him, and Myrdal's *An American Dilemma* is the
 essay's main empirical ground for race. MacIver's *The More Perfect
 Union* (1948) gives examples of both types of prophecy, and Merton's own
 "The Unanticipated Consequences of Purposive Social Action" (1936) is
-cited for the general statement. Soros's reflexivity (LIT-1397,
-NOTE-1362) generalizes the loop to run both ways, giving the
+cited for the general statement. Soros's reflexivity ([LIT-1397](../literature.d/LIT-1397.md),
+[NOTE-1362](NOTE-1362.md)) generalizes the loop to run both ways, giving the
 self-defeating direction the equal place that Merton's footnote sets
-aside. Espeland and Sauder (LIT-1330) count it among the mechanisms of
-reactivity to rankings. Land's hyperstition (LIT-1396) is the loop made a
+aside. Espeland and Sauder ([LIT-1330](../literature.d/LIT-1330.md)) count it among the mechanisms of
+reactivity to rankings. Land's hyperstition ([LIT-1396](../literature.d/LIT-1396.md)) is the loop made a
 programme.
 
 ## Bearing on the record
 
-- **CASE-141, the label that confirms itself.** The case is Merton's
+- **[CASE-141](../cases.d/CASE-141.md), the label that confirms itself.** The case is Merton's
   mechanism, and the essay supports reading it as working through others'
   treatment rather than through the labelled person's belief. In §II the
   Black worker becomes a strikebreaker because the unions exclude him,
   not because he comes to see himself as one. The CASE's "registered
   unread" can now read "read" (NOTE-tmprvkcw).
-- **CASE-142, the label confirmed by resistance.** The LIT registered the
+- **[CASE-142](../cases.d/CASE-142.md), the label confirmed by resistance.** The LIT registered the
   essay to check whether Merton already covers this route. In part he
   does. §IV describes out-groups that reject the in-group's definition
   and answer it, by self-assertion or self-effacement. The in-group
@@ -173,18 +173,18 @@ programme.
   the CASE's "the rejection is what confirms it", at the scale of
   groups. But it is moral alchemy, not the self-fulfilling prophecy. The
   conduct that confirms the judgement is not produced by the judgement;
-  it is renamed. In CASE-142 the anger is produced by the accusation,
+  it is renamed. In [CASE-142](../cases.d/CASE-142.md) the anger is produced by the accusation,
   so the CASE combines the two routes: the accusation provokes the
   conduct, and the conduct is read as proof whatever it is. Merton names
   both routes and does not join them.
-- **LIT-1396 (hyperstition).** The LIT contrasts the two: "Merton's
+- **[LIT-1396](../literature.d/LIT-1396.md) (hyperstition).** The LIT contrasts the two: "Merton's
   prophecy begins as a false definition of a present situation; a
   hyperstition is typically a fiction or a forecast". The definition does
   speak of a "false definition of the situation", but two of Merton's own
   three opening examples are forecasts: the student "convinced that he is
   destined to fail", and war believed "inevitable". The contrast holds
   for the definition and for the bank, not for the essay's examples.
-- **TERM-075, CLAIM-402, CLAIM-426.** They cite the essay as the source
+- **[TERM-075](../terms.d/TERM-075.md), [CLAIM-402](../claims.d/CLAIM-402.md), [CLAIM-426](../claims.d/CLAIM-426.md).** They cite the essay as the source
   of the self-fulfilling prophecy. It is, and it adds the suicidal
   prophecy (footnote 1) as its named and untreated counterpart.
 
@@ -215,5 +215,5 @@ No instruction for machine-learning practice; nothing for the anthology.
 - When does a public definition fulfil itself and when does it defeat
   itself? The essay names both and treats one.
 - Can the self-fulfilling route and the moral-alchemy route be told
-  apart in a case like CASE-142, where the accusation both provokes the
+  apart in a case like [CASE-142](../cases.d/CASE-142.md), where the accusation both provokes the
   answer and fixes how it is read?

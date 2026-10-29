@@ -127,7 +127,7 @@ hallucinatory, in conscious humans, isolate the second.
 
 The cut is Smythies's BP1/BP2, which Revonsuo credits and quotes. Metzinger's
 "phenomenal Holon" (1995) is his source for global unity; the record
-holds Metzinger's self-model account (THEORY-063), which keeps the
+holds Metzinger's self-model account ([THEORY-063](../theory.d/THEORY-063.md)), which keeps the
 unity of experience apart from the self-model. The property, part and
 location kinds are Treisman's (1996). Engel, Fries, König, Brecht and
 Singer's paper in the same issue is the synchrony thesis he tests.
@@ -143,7 +143,7 @@ Singer's paper in the same issue is the synchrony thesis he tests.
   groups. And Revonsuo does not claim the distinction as his: he credits
   Smythies (1994). Whether the issue introduction also draws it was not
   checked; that copy could not be fetched.
-- **CLAIM-355, "It does not solve phenomenal binding".** The claim quotes
+- **[CLAIM-355](../claims.d/CLAIM-355.md), "It does not solve phenomenal binding".** The claim quotes
   A27's five bindings, of which "functional and temporal" are "the middle
   two". Revonsuo's five are a different list: property, part,
   semantic-conceptual, location and serial binding, all phenomenal. His

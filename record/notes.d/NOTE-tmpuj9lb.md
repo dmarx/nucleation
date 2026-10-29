@@ -133,17 +133,17 @@ Seeley and Visscher's (2004); the monograph is *Honeybee Democracy*
 
 ## Bearing on the record
 
-- **CASE-145, "Related evidence".** The case cites the paper for
+- **[CASE-145](../cases.d/CASE-145.md), "Related evidence".** The case cites the paper for
   collective decisions "with no central controller by cross-inhibition of
   recruitment". The paper supports that, with two precisions: the
   inhibition is aimed at rivals only while the swarm is choosing, and is
   general once it has chosen; and that it is what breaks deadlock is a
   model result, holding only above a critical rate of signalling.
-- **CLAIM-418 and CASE-108.** The LIT's "Why this is here"
+- **[CLAIM-418](../claims.d/CLAIM-418.md) and [CASE-108](../cases.d/CASE-108.md).** The LIT's "Why this is here"
   says the exchange cited it for these. Neither entry now cites it. The
   paper gives a case of a choice settled by mutual inhibition between
   advocates and not by an arbiter. It says nothing about adversarial or
-  compromised members, which CASE-108 is about.
+  compromised members, which [CASE-108](../cases.d/CASE-108.md) is about.
 
 No instruction for machine-learning practice; nothing for the anthology.
 

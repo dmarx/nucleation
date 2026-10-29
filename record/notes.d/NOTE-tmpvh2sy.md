@@ -206,13 +206,13 @@ Abelson's work on causal schemata; and on Tversky and Kahneman's
 representativeness and availability heuristics, which it applies to
 causal reports. It reads the dissonance and attribution literature
 against itself, through what those papers did not publish. Johansson,
-Hall, Sikström and Olsson (LIT-1417, NOTE-1398) carry the question from
+Hall, Sikström and Olsson ([LIT-1417](../literature.d/LIT-1417.md), [NOTE-1398](NOTE-1398.md)) carry the question from
 group-level comparisons to single reports shown false of the person who
 gave them.
 
 ## Bearing on the record
 
-- **CASE-114, the imagined owner.** The case's note of 2026-10-23 quotes
+- **[CASE-114](../cases.d/CASE-114.md), the imagined owner.** The case's note of 2026-10-23 quotes
   A5 that this paper shows "reported authorship and actual causal history
   can diverge". It does, in a specific form: reports of why one responded
   diverge from what caused the response, and match what observers would
@@ -225,7 +225,7 @@ gave them.
   case: a system whose self-model is centralized should explain its
   errors as an observer holding the same model would, whatever its actual
   division of labour.
-- **NOTE-1398 (choice blindness).** NOTE-1398 says the gap between what
+- **[NOTE-1398](NOTE-1398.md) (choice blindness).** [NOTE-1398](NOTE-1398.md) says the gap between what
   people do and the reasons they give was shown before only in
   group-level patterns, citing this paper. That is right for the
   evidence, since every comparison here is of condition means. The
