@@ -147,18 +147,18 @@ more.
 ## Connections
 
 It enters the trade-and-conflict literature (Polachek 1980; Mansfield 1995;
-Barbieri 2002, the book after LIT-1422's article; Martin, Mayer and
+Barbieri 2002, the book after [LIT-1422](../literature.d/LIT-1422.md)'s article; Martin, Mayer and
 Thoenig 2008) by changing the outcome from war to softer alignment, which
 it argues is where most political influence lies (Nye 1990). Its second
 instrument is Feyrer's air-travel design; by its abstract, the later NBER
-paper of Feng and others on militarized conflict (LIT-1415) uses
+paper of Feng and others on militarized conflict ([LIT-1415](../literature.d/LIT-1415.md)) uses
 air-against-maritime transport technology in the same way. Its measures of alignment
 come from Signorino and Ritter, Bailey, Strezhnev and Voeten, Thompson and
 Colaresi, and the Correlates of War alliances.
 
 ## Bearing on the record
 
-- **CASE-150.** The flag on the case can be lifted: the outcomes include
+- **[CASE-150](../cases.d/CASE-150.md).** The flag on the case can be lifted: the outcomes include
   UN voting (S-, π- and κ-scores and ideal-point distance) and strategic
   rivalries (any, positional, spatial, ideological), and also formal
   alliances, which the case does not mention. The case's description is
@@ -169,13 +169,13 @@ Colaresi, and the Correlates of War alliances.
   it knew: the paper's own model is the strategic explanation the case
   sets against changed interpretive organization, since alignment there
   is an action chosen for its payoff, with preferences held fixed.
-- **CLAIM-428.** The reading supports the claim's first half, that
+- **[CLAIM-428](../claims.d/CLAIM-428.md).** The reading supports the claim's first half, that
   material interdependence couples outcomes, with a measure that can be
   negative: 30 percent of pairs are enemies. That a pair's dependence is
   organized as opportunity or as threat is, in the paper, decided by the
   sign of U, not by perspective; the paper offers nothing on the
   perspective that organizes the coupling.
-- **CLAIM-404.** Not more than the case already says: alignment of
+- **[CLAIM-404](../claims.d/CLAIM-404.md).** Not more than the case already says: alignment of
   states through what their incomes depend on is influence through
   payoffs, not through evidence or criteria.
 

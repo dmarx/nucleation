@@ -143,8 +143,8 @@ There are no empirical results. The propositions (§4):
 ## Connections
 
 Its individual-scale premise is ACT's psychological flexibility (Hayes et
-al. 2006), for which the record holds Kashdan and Rottenberg (LIT-553) and
-THEORY-050. Its organizational antecedent is Bond (2018), a chapter in
+al. 2006), for which the record holds Kashdan and Rottenberg ([LIT-553](../literature.d/LIT-553.md)) and
+[THEORY-050](../theory.d/THEORY-050.md). Its organizational antecedent is Bond (2018), a chapter in
 Wilson, Hayes and Biglan (eds.), *Evolution and Contextual Behavioral
 Science*, pp. 131–148, which the record has not registered. Its collective
 level is the Prosocial framework and Ostrom's principles. Its account of
@@ -154,10 +154,10 @@ directed graph of who sets whose consequences.
 
 ## Bearing on the record
 
-- **CLAIM-349.** The claim's note says Bond's model "could not be
+- **[CLAIM-349](../claims.d/CLAIM-349.md).** The claim's note says Bond's model "could not be
   identified uniquely". The paper identifies it: Bond, F. W. (2018),
   "Organizational flexibility: creating a mindful and purpose-driven
-  organization". The paper agrees with CLAIM-349 that flexibility is
+  organization". The paper agrees with [CLAIM-349](../claims.d/CLAIM-349.md) that flexibility is
   context-sensitive and that more control is not more flexibility, and
   its compliance-versus-value test is close to the claim's RO-DBT
   translation (less disclosure under tighter control). It does not
@@ -166,11 +166,11 @@ directed graph of who sets whose consequences.
   prior transfer of ACT to the organization, as the claim already says,
   but not a prior statement of the claim's three-way split.
 - **The influence model.** P4's leverage is close to what the record's
-  influence canvas (CLAIM-297, CLAIM-282) computes: who weights whose
+  influence canvas ([CLAIM-297](../claims.d/CLAIM-297.md), [CLAIM-282](../claims.d/CLAIM-282.md)) computes: who weights whose
   output. The paper offers no dynamics for it. A reduction of P4 to a
   weighted influence network would be the record's contribution, and the
   paper's demand that leverage be measured independently of spread is
-  the same circularity guard QUESTION-117 needs.
+  the same circularity guard [QUESTION-117](../questions.d/QUESTION-117.md) needs.
 
 No instruction for machine-learning practice; nothing for the anthology.
 

@@ -42,7 +42,7 @@ summary: >-
 It gives a method that gets between a person's choice and the outcome
 they are shown, one person and one trial at a time. Before it, the gap
 between what people do and the reasons they give was shown only in
-group-level response patterns (Nisbett and Wilson, LIT-1410, its
+group-level response patterns (Nisbett and Wilson, [LIT-1410](../literature.d/LIT-1410.md), its
 reference 12). Here a report can be shown false of the person who gave it:
 a reason that names a feature only the face they rejected has is about
 that face, not about their choice.
@@ -130,7 +130,7 @@ explanations of the ones they did.
 
 ## Connections
 
-It extends Nisbett and Wilson (LIT-1410) from group-level dissociations
+It extends Nisbett and Wilson ([LIT-1410](../literature.d/LIT-1410.md)) from group-level dissociations
 to single reports, and change blindness (Rensink 2002, Simons and Levin)
 from perception to choice. Its SOM cites a then unpublished study by
 Tärning, Hall, Johansson, Sikström and Olsson in which feedback from
@@ -139,7 +139,7 @@ as choice-induced preference change.
 
 ## Bearing on the record
 
-- **CASE-114, note of 2026-10-23.** The note says, after A5, that this
+- **[CASE-114](../cases.d/CASE-114.md), note of 2026-10-23.** The note says, after A5, that this
   work and Nisbett and Wilson "already demonstrate that reported
   authorship and actual causal history can diverge". On this reading
   that is right for this work, and narrowly: what is shown is that a

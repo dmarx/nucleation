@@ -44,7 +44,7 @@ summary: >-
 
 ## Contribution
 
-It gives the DeGroot averaging model (LIT-1527) a behavioural reading:
+It gives the DeGroot averaging model ([LIT-1527](../literature.d/LIT-1527.md)) a behavioural reading:
 agents update as Bayesians would on new information but fail to discount
 repetition, so the averaging is a bias with a name and a benchmark. From
 it come two results: influence that depends on network position apart
@@ -134,13 +134,13 @@ eigenvector, the same vector on every issue.
 
 ## Connections
 
-The dynamics are DeGroot's (1974, LIT-1527) and French's and Harary's
+The dynamics are DeGroot's (1974, [LIT-1527](../literature.d/LIT-1527.md)) and French's and Harary's
 social power; the paper's addition is the reading as a bias against a
 rational benchmark, the balance test, and the second-eigenvector results.
-Golub and Jackson's naïve learning (LIT-999, THEORY-321) takes this model
+Golub and Jackson's naïve learning ([LIT-999](../literature.d/LIT-999.md), [THEORY-321](../theory.d/THEORY-321.md)) takes this model
 to large networks and asks when the bias washes out. Jia, MirTabatabaei,
-Friedkin and Bullo's reflected appraisal (LIT-1146) and Friedkin's social
-power (LIT-1482) let the weights move across issues, which this paper
+Friedkin and Bullo's reflected appraisal ([LIT-1146](../literature.d/LIT-1146.md)) and Friedkin's social
+power ([LIT-1482](../literature.d/LIT-1482.md)) let the weights move across issues, which this paper
 holds fixed. The conclusion points to a companion paper, DeMarzo,
 Vayanos and Zwiebel (2001), "Social Networks and Financial Markets", in
 which agents choose whom to listen to by trading profits and stable
@@ -151,7 +151,7 @@ registered.
 
 ## Bearing on the record
 
-- **QUESTION-117.** The question lists this as a candidate predecessor
+- **[QUESTION-117](../questions.d/QUESTION-117.md).** The question lists this as a candidate predecessor
   and quotes A15: "Endorsement-mediated reinforcement could sometimes
   amount to repeated counting of correlated evidence." On this reading the
   fixed-weight model already gives one of A15's suite, capture without
@@ -160,11 +160,11 @@ registered.
   does not give the others. Its weights never move, so it has no
   hysteresis and no feedback from outcome to authority; operator
   turnover would only change T. Those need either reflected appraisal
-  (LIT-1146) or the companion paper's endogenous listening, which this
-  paper describes but does not contain. So for QUESTION-117 the paper sets
+  ([LIT-1146](../literature.d/LIT-1146.md)) or the companion paper's endogenous listening, which this
+  paper describes but does not contain. So for [QUESTION-117](../questions.d/QUESTION-117.md) the paper sets
   the floor: whatever the coupled meaning–authority model claims beyond
   position-weighted consensus has to come from moving weights.
-- **CLAIM-297.** The claim is that authority updated against the
+- **[CLAIM-297](../claims.d/CLAIM-297.md).** The claim is that authority updated against the
   interpretation it helped make dominant can amplify an initial
   advantage without gain in fidelity. This paper shows that even
   without that loop, fixed listening weights give an agent influence out
@@ -199,7 +199,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 ## Open questions
 
-- Does the coupled meaning–authority model (CLAIM-297) reduce, for some
+- Does the coupled meaning–authority model ([CLAIM-297](../claims.d/CLAIM-297.md)) reduce, for some
   parameters, to the companion paper's endogenous-listening model?
 - Does Theorem 4's unidimensionality survive weights that move with
   agreement, as in reflected appraisal?
