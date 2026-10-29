@@ -1,10 +1,16 @@
 ---
-status: Proposed
+status: Active
 complements:
 - TERM-093
 - TERM-034
 title: 'coherence, of a family of descriptions, transports or judgements: their agreement with one another under a stated correspondence structure (on overlaps, around cycles, between routes), distinct from fidelity to a source, from integration by dynamics, and from knowledge of the world'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Adopted by the owner on 2026-10-29 ("adopt the coherence TERM").
+    Proposed → Active; the definition is unchanged.
 tags:
 - epistemology
 - mathematics
@@ -16,10 +22,10 @@ summary: >-
   a coherent record as the product of a legibility regime ([CLAIM-448](../claims.d/CLAIM-448.md)), and
   agreement between translation routes as coherence, not fidelity
   ([CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md)). It is a relation among the members of a family, read
-  through the maps that say what counts as agreeing ([TERM-093](TERM-093.md)). Proposed
+  through the maps that say what counts as agreeing ([TERM-093](TERM-093.md)). Filed
   on the owner's question of 2026-10-29 whether the record had TERMs for
   fidelity and coherence: fidelity has several, coherence none, though
-  the word is in some 145 entries.
+  the word is in some 145 entries. Adopted the same day.
 ---
 <!-- inactive-ok-file: CLAIM-448 CLAIM-474 TERM-093 — Proposed; the entries whose usage this term records -->
 
@@ -57,9 +63,9 @@ correspondence structure, so a claim of coherence should name the maps
   of correctness only where the truth is known to be coherent, as in a
   synchronization benchmark built flat ([THEORY-tmpy1s8c](../theory.d/THEORY-tmpy1s8c.md)).
 
-## What would settle it
+## Adopted
 
-Adoption by the owner, after which claims that use "coherent" or
-"consistent" in this sense can name it in `uses`. A rival would be a
-narrower term that restricts coherence to gluing. That would leave
-agreement between routes and around loops without a word.
+Adopted by the owner on 2026-10-29. Claims that use "coherent" or
+"consistent" in this sense may name it in `uses`. A narrower rival that
+restricted coherence to gluing would leave agreement between routes and
+around loops without a word.
