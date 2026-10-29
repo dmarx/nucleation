@@ -125,14 +125,14 @@ meaning in communities; here state law's meaning is bound to its
 violence. It argues against Dworkin's *Law's Empire* (1986), whose
 Hercules is "Hyporcules" because no American judge decides alone, and
 against James Boyd White. It draws on Scarry's *The Body in Pain*,
-Milgram and Hart. Fiss's "The Forms of Justice" (LIT-1600, NOTE-tmpafym3),
+Milgram and Hart. Fiss's "The Forms of Justice" ([LIT-1600](../literature.d/LIT-1600.md), [NOTE-tmpafym3](NOTE-tmpafym3.md)),
 by Cover's colleague and co-author, treats the same dependence from the
 remedial side: the structural judge's success depends on actors outside
 the court.
 
 ## Bearing on the record
 
-- **CASE-176.** The paper fits the USIP case closely. The case's point
+- **[CASE-176](../cases.d/CASE-176.md).** The paper fits the USIP case closely. The case's point
   that enforcement settled who held the building before any court settled
   who held the authority is Cover's warden choosing which paper to obey:
   the police and the security contractor acted on the executive's papers,
@@ -143,7 +143,7 @@ the court.
   the case does not name: the judge's remaining power is to withhold
   justification (n. 48), which a refusal to grant an order does not
   exercise.
-- **CLAIM-462.** The claim says an arrangement's capacity for effective
+- **[CLAIM-462](../claims.d/CLAIM-462.md).** The claim says an arrangement's capacity for effective
   action and its capacity to be corrected are maintained by different
   relations. Cover holds a version of this for courts: the capacity to
   correct by judgment depends on the role structure that carries judicial
@@ -151,12 +151,12 @@ the court.
   the judgment right. So the claim's "that it is new" doubt is partly
   borne out; Cover does not, though, treat correction of one institution
   by others, which is the claim's subject.
-- **TERM-064 and CLAIM-403.** The record's accounts of legibility and
+- **[TERM-064](../terms.d/TERM-064.md) and [CLAIM-403](../claims.d/CLAIM-403.md).** The record's accounts of legibility and
   uptake are about whether a distinction or contribution reaches and is
   taken up by an institution. Cover adds the step after uptake: whether
   the institution's judgment becomes an act on bodies through others. A
   judgment can be legible and taken up and still not be executed.
-- **CLAIM-464.** Cover's Tiede is the inverse case: a court that could not
+- **[CLAIM-464](../claims.d/CLAIM-464.md).** Cover's Tiede is the inverse case: a court that could not
   rely on independent enforcement changed its sentence, so the conditions
   of enforcement changed what the court would order while the governing
   law stayed fixed.

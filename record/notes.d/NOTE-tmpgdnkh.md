@@ -95,14 +95,14 @@ From the parts read.
 
 ## Connections
 
-SP 800-207 (LIT-1226, NOTE-tmpd81mn) builds its least-privilege,
-per-request access on these controls. The CERT guide (LIT-1216,
-NOTE-tmp3wx9h) maps each of its best practices to controls here; its
+SP 800-207 ([LIT-1226](../literature.d/LIT-1226.md), [NOTE-tmpd81mn](NOTE-tmpd81mn.md)) builds its least-privilege,
+per-request access on these controls. The CERT guide ([LIT-1216](../literature.d/LIT-1216.md),
+[NOTE-tmp3wx9h](NOTE-tmp3wx9h.md)) maps each of its best practices to controls here; its
 separation-of-duties practice maps to AC-5 and AC-6.
 
 ## Bearing on the record
 
-- **CLAIM-359.** The controls A41 read as will-organization relations
+- **[CLAIM-359](../claims.d/CLAIM-359.md).** The controls A41 read as will-organization relations
   are here in their own words, and they confirm one half of the claim
   and leave the other open. They locate robustness in how authority is
   allocated and audited: who may act, who may audit, who may change the

@@ -146,17 +146,17 @@ replies are annexed.
 
 ## Connections
 
-It relies on the ICJ's advisory opinion (LIT-1589, NOTE-tmp87q7f) for the
+It relies on the ICJ's advisory opinion ([LIT-1589](../literature.d/LIT-1589.md), [NOTE-tmp87q7f](NOTE-tmp87q7f.md)) for the
 history and the decolonization holding, on the English Bancoult judgments
 for most of its archival quotations, and on David Vine's *Island of
 Shame* (2011) and Philippe Sands's *The Last Colony* (2022). It does not
-cite Laura Jeffery's ethnography (LIT-1598). Its legal frame for denied
+cite Laura Jeffery's ethnography ([LIT-1598](../literature.d/LIT-1598.md)). Its legal frame for denied
 return comes from the ICC's 2018 Bangladesh/Myanmar decision and Tomer
 Levinger's article of 2021.
 
 ## Bearing on the record
 
-- **CASE-169, the "no permanent population" particular.** The case keeps
+- **[CASE-169](../cases.d/CASE-169.md), the "no permanent population" particular.** The case keeps
   as the exchange's that British officials represented the islands as
   having no permanent population while knowing otherwise. This report
   documents it, with the documents' own words, as quoted in UK
@@ -165,18 +165,18 @@ Levinger's article of 2021.
   it has no permanent population, which is true only because of the
   removal (p. 74). That is the case's "classification that changes its
   referent" in the documents' own terms ("Maintaining the fiction").
-- **CASE-169 and CLAIM-418, divergent judgments.** The report confirms,
+- **[CASE-169](../cases.d/CASE-169.md) and [CLAIM-418](../claims.d/CLAIM-418.md), divergent judgments.** The report confirms,
   from its own interviews, that Chagossians disagree about which State
   should hold the islands while agreeing that they should have the right
   to return; most do not oppose the base (p. 6). That is a shared claim
   with divergent political judgments, as the case says, though on a
   sample drawn through representative groups.
-- **CASE-169, restoration.** The report asks for restitution "at a
+- **[CASE-169](../cases.d/CASE-169.md), restoration.** The report asks for restitution "at a
   minimum standard equivalent to how they would live today had they not
   been expelled", not for return to plantation life (p. 11), which fits
   the case's line that what restitution owes is not settled by the
   structural description.
-- **CLAIM-361.** The report's demand that any UK–Mauritius agreement
+- **[CLAIM-361](../claims.d/CLAIM-361.md).** The report's demand that any UK–Mauritius agreement
   "center" Chagossians and guarantee return is the claim's point that a
   settlement that drops the return claim has not satisfied it.
 

@@ -132,17 +132,17 @@ bends toward what can be achieved.
 Fiss answers Chayes's "The Role of the Judge in Public Law Litigation"
 (1976) and Fuller's "The Forms and Limits of Adjudication" (1978), and
 Horowitz's *The Courts and Social Policy* (1977). Robert Cover, his
-colleague, is thanked; Cover's "Violence and the Word" (LIT-1601,
-NOTE-tmpns25g) takes the other side of the same remedial problem, that the
+colleague, is thanked; Cover's "Violence and the Word" ([LIT-1601](../literature.d/LIT-1601.md),
+[NOTE-tmpns25g](NOTE-tmpns25g.md)) takes the other side of the same remedial problem, that the
 judge's word becomes deed only through others in roles. The line "he will
 tailor the right to fit the remedy" is the thesis Levinson later names
-remedial equilibration (LIT-1592, unread here). Sabel and Simon's
-experimentalist account (LIT-1587, unread here) is the later development of
+remedial equilibration ([LIT-1592](../literature.d/LIT-1592.md), unread here). Sabel and Simon's
+experimentalist account ([LIT-1587](../literature.d/LIT-1587.md), unread here) is the later development of
 Fiss's revisable, cycle-by-cycle remedy.
 
 ## Bearing on the record
 
-- **CASE-176 and CASE-172, "Reversal ≠ Repair ≠ Structural reform".** The
+- **[CASE-176](../cases.d/CASE-176.md) and [CASE-172](../cases.d/CASE-172.md), "Reversal ≠ Repair ≠ Structural reform".** The
   record says A8 used Fiss for this. The formula is A8's, not Fiss's, but
   the distinction is in the paper: the dispute-resolution remedy corrects
   or prevents "a discrete event", while the structural remedy removes "a
@@ -150,16 +150,16 @@ Fiss's revisable, cycle-by-cycle remedy.
   Fiss does not discuss restoring an earlier state; his structural suit
   presumes the existing arrangement is what threatens the value, which is
   the record's point that restoration can be the wrong target.
-- **CLAIM-457.** Fiss's disappearance of the wrongdoer is a precedent for
+- **[CLAIM-457](../claims.d/CLAIM-457.md).** Fiss's disappearance of the wrongdoer is a precedent for
   the claim's edge: in a structural suit "the costs and burdens of
   reformation are placed on the organization, not because it has 'done
   wrong' … but because reform is needed". Corrective duty is assigned to
   an addressee without a finding of individual fault.
-- **CLAIM-464 and QUESTION-278.** Fiss's remedy depends on forces outside
+- **[CLAIM-464](../claims.d/CLAIM-464.md) and [QUESTION-278](../questions.d/QUESTION-278.md).** Fiss's remedy depends on forces outside
   the court that can withdraw (white flight) or withhold (unions,
   legislatures). That is a court's version of the question's correction
   across institutions none of which governs the rest, and a mechanism
-  beside CLAIM-464's by which the cost of a corrective outcome rises while
+  beside [CLAIM-464](../claims.d/CLAIM-464.md)'s by which the cost of a corrective outcome rises while
   the governing standard stays fixed; Fiss adds that the standard itself
   then bends.
 

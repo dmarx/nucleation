@@ -125,7 +125,7 @@ The paper's results are conceptual.
 
 The paper sets itself against Nelson and Winter's routines-as-genes and
 against Hannan and Freeman's structural inertia, and inside Giddens's
-duality of structure. Marquis and Tilcsik (LIT-1144, NOTE-tmpegckt)
+duality of structure. Marquis and Tilcsik ([LIT-1144](../literature.d/LIT-1144.md), [NOTE-tmpegckt](NOTE-tmpegckt.md))
 review imprinting, the opposite emphasis: features fixed in a brief
 sensitive period that persist. They list routines among the "building
 blocks" that can be imprinted, which this paper would expect to drift
@@ -133,7 +133,7 @@ through performance unless performance keeps re-enacting the imprint.
 
 ## Bearing on the record
 
-- **CLAIM-329.** A6's question for this paper was whether it separates
+- **[CLAIM-329](../claims.d/CLAIM-329.md).** A6's question for this paper was whether it separates
   "the continuity of a *particular organization* from reproduction of an
   *organizational kind*". It does not. Its whole analysis is of one
   routine in one organization, and its persistence story is
@@ -147,7 +147,7 @@ through performance unless performance keeps re-enacting the imprint.
   (p. 114), and leaves the matter as empirical. So the literature A6
   hoped would already hold the claim's distinction does not hold it
   here; the claim's distinction remains the record's own.
-- **QUESTION-118.** The paper offers one candidate for "what must stay
+- **[QUESTION-118](../questions.d/QUESTION-118.md).** The paper offers one candidate for "what must stay
   causally continuous": the ostensive aspect as maintained by ongoing
   performance and by those with power to say which performances count.
   It does not discuss total turnover of performers, so it does not test

@@ -161,13 +161,13 @@ requests.
 It descends from Viewstamped Replication and Paxos, which use views and a
 primary for benign faults (§8), and from Lamport, Shostak and Pease's
 Byzantine generals. It is the distributed-systems ancestor of the
-Byzantine-robust learning the anthology holds (ANTH-LIT-257,
-ANTH-LIT-344), where the aggregator plays the replicated state machine's
+Byzantine-robust learning the anthology holds ([ANTH-LIT-257](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-257.md),
+[ANTH-LIT-344](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-344.md)), where the aggregator plays the replicated state machine's
 part and the bound on faulty participants plays f's.
 
 ## Bearing on the record
 
-- **CLAIM-359.** A41's limit on it is right and the paper states it
+- **[CLAIM-359](../claims.d/CLAIM-359.md).** A41's limit on it is right and the paper states it
   itself: correct behaviour is "follow the algorithm in Section 4", and
   the protocol guarantees that operations are applied consistently, not
   that they are good; a faulty client "can write garbage data to some
@@ -182,7 +182,7 @@ part and the bound on faulty participants plays f's.
   can make correct replicas look slow "until they are tagged as faulty"
   wins (§1, §8). That is the claim's point that safeguards against
   capture can themselves be captured, made in 1999 for replicas.
-- **CASE-108.** The case's "role-limited governance" arm, whose failure
+- **[CASE-108](../cases.d/CASE-108.md).** The case's "role-limited governance" arm, whose failure
   A41 lists as "collusion", has a quantitative counterpart here: the
   quorum design tolerates collusion of up to f members of 3f + 1 and
   nothing beyond. The case could report its results against such a
