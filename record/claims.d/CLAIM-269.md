@@ -132,8 +132,8 @@ identify the symmetry of the observed data ([THEORY-019](../theory.d/THEORY-019.
 
 ## Note of 2026-10-29: what holds it back
 
-No premise is now Proposed: THEORY-019 is Active since the twelfth status
-review, and the fourth bullet also rests on CLAIM-385. What is left is a
+No premise is now Proposed: [THEORY-019](../theory.d/THEORY-019.md) is Active since the twelfth status
+review, and the fourth bullet also rests on [CLAIM-385](CLAIM-385.md). What is left is a
 check of the claim's own last step, that a distinction beyond the kernel's
 symmetry "is supplied by the analyst", which may be interpretive rather
 than demonstrated.

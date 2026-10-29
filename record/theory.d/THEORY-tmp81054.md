@@ -12,12 +12,12 @@ source:
 extends:
 - THEORY-167
 summary: >-
-  What Propp's Morphology proposes, split from THEORY-167 by the twelfth
-  status review (ADR-058's route, on THEORY-1110's pattern) so that claims
+  What Propp's Morphology proposes, split from [THEORY-167](THEORY-167.md) by the twelfth
+  status review ([ADR-058](../decisions.d/ADR-058.md)'s route, on [THEORY-1110](THEORY-1110.md)'s pattern) so that claims
   needing only the proposal can stand on it. The book was read in full in
-  Russian (NOTE-615, with appendices II–III in a second text), so the
+  Russian ([NOTE-615](../notes.d/NOTE-615.md), with appendices II–III in a second text), so the
   reading of what it proposes is held. Whether the proposal is true of the
-  class, which an independent coding would test, stays THEORY-167's
+  class, which an independent coding would test, stays [THEORY-167](THEORY-167.md)'s
   question, Proposed. The order is shown on 45 schemes Propp selected,
   partly for keeping it.
 ---
@@ -28,7 +28,7 @@ summary: >-
 ## Source
 
 Vladimir Propp (1928), *Морфология сказки* [Morphology of the Folktale],
-LIT-828, read in NOTE-615 from the 1928 Russian text, chapters I–IX in
+[LIT-828](../literature.d/LIT-828.md), read in [NOTE-615](../notes.d/NOTE-615.md) from the 1928 Russian text, chapters I–IX in
 full, with appendices II and III read in a second Russian text (the 1969
 edition) on 2026-10-20.
 
@@ -49,12 +49,12 @@ on this sequence.
 The material is Afanasyev's tales 50–151, analysed by Propp alone. The
 order is shown on 45 printed schemes: of fifty tabulated tales, he set aside
 No. 94 as of another kind and Nos. 123, 127, 139 and 159 because "the
-canonical sequence is also not strictly kept" (NOTE-615, note of
+canonical sequence is also not strictly kept" ([NOTE-615](../notes.d/NOTE-615.md), note of
 2026-10-20).
 
 ## What this does not say
 
-- **That the proposal is true.** That is THEORY-167's question, which waits
+- **That the proposal is true.** That is [THEORY-167](THEORY-167.md)'s question, which waits
   on a coding by other analysts with agreement measured.
 - **That it was tested for reliability.** The book reports no second coder,
   and functions are assigned by consequence, which leaves the analyst

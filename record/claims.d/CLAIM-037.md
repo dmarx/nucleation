@@ -130,14 +130,14 @@ signalling data set, or concedes "needs" to "can handle".
 
 ## Note of 2026-10-29: its source argument is Rejected
 
-ARG-022, which held that the 2016 Contextuality-by-Default paper (LIT-777)
+[ARG-022](../arguments.d/ARG-022.md), which held that the 2016 Contextuality-by-Default paper ([LIT-777](../literature.d/LIT-777.md))
 grounds the criterion the manuscript's general observational covers need,
-is Rejected: THEORY-168's note of this date works a binary system with a
+is Rejected: [THEORY-168](../theory.d/THEORY-168.md)'s note of this date works a binary system with a
 content in four contexts on which the 2016 criterion and CbD 2.0 disagree.
 For contents in more than two contexts, the ground this claim's
 "needs Contextuality-by-Default" should cite is CbD 2.0, Dzhafarov and
-Kujala's multimaximal criterion (LIT-831, read in NOTE-643), with
-THEORY-722 and THEORY-168 for how the verdict depends on the
-representation. LIT-777 still grounds it for cyclic and consistently
+Kujala's multimaximal criterion ([LIT-831](../literature.d/LIT-831.md), read in [NOTE-643](../notes.d/NOTE-643.md)), with
+[THEORY-722](../theory.d/THEORY-722.md) and [THEORY-168](../theory.d/THEORY-168.md) for how the verdict depends on the
+representation. [LIT-777](../literature.d/LIT-777.md) still grounds it for cyclic and consistently
 connected systems, where the two versions agree. Moving the ground is left
 to the next pass on this claim.

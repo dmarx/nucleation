@@ -87,7 +87,7 @@ freedom", Shklovsky's "accidental sequence of motifs") expected. Counts
 are given for the two exclusive pairs (41 and 33 of 100 tales, together
 three times). The appendices give the schemes per tale; the record's
 reading did not check them, because the OCR garbles them.
-A second Russian text, read for its appendices on 2026-10-20 (NOTE-615),
+A second Russian text, read for its appendices on 2026-10-20 ([NOTE-615](../notes.d/NOTE-615.md)),
 narrows the sample behind the order claim: schemes were tabulated for fifty
 tales, and five were set aside, No. 94 as of another kind and Nos. 123, 127,
 139 and 159 because "the canonical sequence is also not strictly kept". The
@@ -138,4 +138,4 @@ No coding of wondertales by analysts other than Propp, with agreement
 between coders measured, is held. And the corpus does not yet carry the
 title's fixed order: it is shown on 45 schemes chosen after setting aside
 tales whose order was not strictly kept, and those schemes are unchecked.
-What Propp proposes is held Active in THEORY-tmp81054.
+What Propp proposes is held Active in [THEORY-tmp81054](THEORY-tmp81054.md).

@@ -110,7 +110,7 @@ Corollary).
   proved here.
 - **Not, as re-derived here, for outcome spaces that are not standard
   Borel.** The 1953 paper claims them through Theorem 2, quoted from
-  Blackwell (1951), which the record has not read (QUESTION-tmpeep5e).
+  Blackwell (1951), which the record has not read ([QUESTION-tmpeep5e](../questions.d/QUESTION-tmpeep5e.md)).
 - **Not "finitely many decision problems suffice".** The k-action
   comparisons ≻_k are weaker than ≻ in general (asserted from Stein's
   unpublished work); only for two states does k = 2 suffice.
@@ -170,7 +170,7 @@ posterior p under the uniform prior, on the simplex Δ.
    E[X_i | Y = q] = q_i.
 
 Step 3 is where standard Borel is used; arbitrary spaces are
-QUESTION-tmpeep5e. The check (numpy, run by the reviewing session, on
+[QUESTION-tmpeep5e](../questions.d/QUESTION-tmpeep5e.md). The check (numpy, run by the reviewing session, on
 three-state Gaussian experiments on a 400-point grid, with β a Gaussian
 garbling of α): step 3's identities hold to 3 × 10⁻¹⁵, with T built from the
 coupling alone; step 2's splitting residual falls from 8.3 × 10⁻³ at 10³

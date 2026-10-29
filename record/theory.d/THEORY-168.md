@@ -175,4 +175,4 @@ is noncontextual under 1.0. Under CbD 2.0 the pair (V₂, V₃) must be
 maximally coupled, with Pr[V₂ ≠ V₃] = 0.2, so the system is contextual; and
 the subsystem without V₁ and V₄ is contextual under 1.0 as well. With binary
 variables a connection of three has a unique maximal coupling, the staircase
-of LIT-831's Theorem 1, so 1.0 and 2.0 first disagree at four contexts.
+of [LIT-831](../literature.d/LIT-831.md)'s Theorem 1, so 1.0 and 2.0 first disagree at four contexts.
