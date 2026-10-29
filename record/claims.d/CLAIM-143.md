@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmpe2csg
 title: 'Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Revised at the seventh status review to record CLAIM-238's
+    concession as CLAIM-239 narrowed it (ADR-059): the second disjunct
+    is a modal universal that no study meets, only an argument.
+    Version 1's second disjunct read: "Or no correspondence can be
+    validated independently of the fidelity it is used to measure
+    (QUESTION-005 answered negatively)." Title and first disjunct
+    unchanged. Status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -12,9 +23,10 @@ defeated_if: >-
   to, every disagreement between source and target judgements that a
   validated correspondence removes would also have been flagged as
   distortion by direct comparison, so fixing the correspondence first
-  changes no verdict. Or no correspondence can be validated
-  independently of the fidelity it is used to measure (QUESTION-005
-  answered negatively).
+  changes no verdict. Or an argument shows that no correspondence can be
+  validated independently of the fidelity it is used to measure
+  (QUESTION-005 answered negatively); a record of failed validations
+  does not meet this disjunct, and no study the programme runs tests it.
 tags:
 - contextuality
 - translation
@@ -160,3 +172,18 @@ none validates its correspondences independently.
 - **Robinson** ([NOTE-1221](../notes.d/NOTE-1221.md)) trusts his maps. In his Case 2 a sensor's 2°
   bias cannot be told apart from an error in that station's coordinates
   inside the maps. He calls it a sensor fault because the map is trusted.
+
+## Note of 2026-10-29: what the experiments test
+
+[CLAIM-238](CLAIM-238.md) granted, and [CLAIM-239](CLAIM-239.md) narrowed, that the second disjunct says
+something cannot be done. No finite record of failed validations shows that
+no correspondence can be validated independently. An argument can, for
+instance a proof that every validation procedure takes a fidelity judgement
+as an input. So the programme's studies test only the first disjunct, and
+only argument can defeat this claim on the circularity horn named above.
+
+## Note of 2026-10-29: what holds it back
+
+Its premise [CLAIM-004](CLAIM-004.md) is Proposed. The first disjunct needs pragmatic data
+with a correspondence validated independently, which no study has collected,
+and [QUESTION-005](../questions.d/QUESTION-005.md), which the second disjunct turns on, is Open.

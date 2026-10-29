@@ -1,17 +1,54 @@
 ---
 number: 115
-status: Proposed
+status: Superseded
+superseded_by:
+- CLAIM-220
 formerly:
 - CLAIM-tmpww3q0
 title: 'What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Revised at the seventh status review to record CLAIM-238's
+    concession (ADR-059): the condition was a null with no margin,
+    over observables the thesis could re-choose after a failure.
+    Version 1's condition read: "Human judgements of communicative
+    fidelity on translations, retellings or cross-modal renderings are
+    predicted as well by propositional or embedding similarity as by
+    measured preservation of pragmatic observables (stance, footing,
+    alignment, expected uptake)." It now fixes a margin, a power, the
+    observables and their weights before the data, and takes the
+    conceded repairs of CLAIM-222 (an interlingual arm decides) and
+    CLAIM-226 (the judges are a named population). complements no
+    longer names CLAIM-139, its rival on the fidelity clause
+    (CLAIM-211). Title unchanged; CLAIM-243's conceded ambiguity is
+    answered only by CLAIM-220. Status unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Superseded by CLAIM-220 by the owner's delegated ruling of
+    2026-10-29, open since 2026-10-10. CLAIM-220 is the record's
+    restatement of this thesis, indexed to named receivers and stated
+    tasks, tested against a proposition with its force, on a
+    behavioural criterion and with an interlingual arm that decides;
+    it answers CLAIM-243, which only a new title could. It drops the
+    rest on CLAIM-082 deliberately. CLAIM-078 and CLAIM-450 now rest
+    on CLAIM-220, and ARG-019 and ARG-040 conclude it; ARG-033, whose
+    inference is this claim's rest on CLAIM-082, still concludes this
+    one. The text below is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   Human judgements of communicative fidelity on translations, retellings
-  or cross-modal renderings are predicted as well by propositional or
-  embedding similarity as by measured preservation of pragmatic
-  observables (stance, footing, alignment, expected uptake).
+  or cross-modal renderings, by a named population of judges, are
+  predicted as well by propositional or embedding similarity as by
+  measured preservation of pragmatic observables (stance, footing,
+  alignment, expected uptake), within an equivalence margin and at a
+  power fixed in advance, the observables and their weights fixed before
+  the data; or this holds in an interlingual arm, whatever the
+  intralingual arms show.
 tags:
 - philosophy-of-language
 - linguistics
@@ -36,14 +73,8 @@ summary: >-
   be normative and contestable (§11).
 illustrated_by:
 - CASE-031
-supports:
-- CLAIM-078
-- CLAIM-450
 complements:
-- CLAIM-129
 - CLAIM-133
-- CLAIM-139
-- CLAIM-220
 - CLAIM-223
 objected_by:
 - CLAIM-222
@@ -73,8 +104,11 @@ the proposition is neither necessary nor sufficient.
 ## What it does not say
 
 It does not say propositional content is irrelevant, only that it is one
-observable among several. It does not say the observables are fixed in
-advance: the manuscript makes their choice explicit rather than deciding it.
+observable among several. It does not say the observables are fixed once
+for every study: the manuscript makes their choice explicit rather than
+deciding it, and a study that tests the thesis fixes its own, with their
+weights, before its data, binding the thesis to that choice ([CLAIM-238](CLAIM-238.md)). The
+margin and power are the record's, not §10's.
 Its defeat condition is empirical (Case I–III, §10), and none of those studies
 has been run.
 
@@ -132,3 +166,20 @@ The status is unchanged.
 The status review of this date narrowed [CLAIM-061](CLAIM-061.md) to sufficiency and
 filed its necessity half as [CLAIM-486](CLAIM-486.md). This claim's "neither
 necessary nor sufficient" now rests on both.
+
+## Note of 2026-10-29: what holds it back
+
+Two premises are Proposed, [CLAIM-082](CLAIM-082.md) and [CLAIM-486](CLAIM-486.md), and [CASE-055](../cases.d/CASE-055.md), the study
+its condition now presupposes, has not been run. [CLAIM-243](CLAIM-243.md)'s conceded
+ambiguity is answered only by [CLAIM-220](CLAIM-220.md), and whether [CLAIM-220](CLAIM-220.md) supersedes it
+is an owner ruling open since 2026-10-10.
+
+## Note of 2026-10-29: superseded
+
+Superseded by [CLAIM-220](CLAIM-220.md), which the record had filed on 2026-10-10 as the
+restatement it would put forward in this thesis's place. The paragraph above
+that keeps this entry as the manuscript's thesis "and is not superseded"
+records the position until then. This entry stays what the manuscript says;
+[CLAIM-220](CLAIM-220.md) is what the record holds open in its place. The objections filed
+against this entry stay pointed at it, as the record of what forced the
+restatement.

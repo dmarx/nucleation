@@ -1,20 +1,58 @@
 ---
 number: 139
-status: Proposed
+status: Superseded
+superseded_by:
+- CLAIM-204
 formerly:
 - CLAIM-tmpb0jfe
 title: 'A communicative kind''s identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Revised at the seventh status review to record four concessions
+    (ADR-059). CLAIM-238: the comparative disjuncts were nulls with no
+    margin, over observables the thesis could re-choose. Version 1's
+    condition began "Human judgements of shared communicative kind
+    across translations, recastings and media are predicted as well by
+    topic-factor, embedding or surface similarity as by independently
+    measured relational profiles", and its second disjunct read "fail
+    to transfer across languages or media while topic factors
+    transfer". Each study now fixes its observables, weights, margin
+    and power before its data, and, conceding CLAIM-222, transfer is
+    narrowed to languages. CLAIM-211: the fidelity clause answers
+    QUESTION-002 and on it rivals CLAIM-115, so QUESTION-002 joins
+    answers and complements no longer names CLAIM-115. CLAIM-140: the
+    clause takes the analyst's identifiability for the receiver
+    without argument. The title, A218's wording, is unchanged;
+    CLAIM-204 is the restatement that keeps both. Status unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Superseded by CLAIM-204 by the owner's delegated ruling of
+    2026-10-29, open since 2026-10-10. CLAIM-204 keeps the four
+    clauses, takes CLAIM-217's standard into the first and CLAIM-223's
+    reading into the fourth, so the receiver is back and the analyst
+    certifies the identifiable part (CLAIM-140, CLAIM-211), and
+    replaces the third defeat disjunct that CLAIM-206 showed always
+    met or undecidable. CLAIM-215 now complements CLAIM-204. ARG-029,
+    whose verdict is that the exchange stepped from class to kind
+    without an argument, still concludes this claim. The text below is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
+  Any of three findings, each in a study whose observables, their
+  weights, an equivalence margin and a power are fixed before its data.
   Human judgements of shared communicative kind across translations,
-  recastings and media are predicted as well by topic-factor, embedding or
-  surface similarity as by independently measured relational profiles
-  (pragmatic, interactional, intervention-response); or the relational
-  signatures that do predict them fail to transfer across languages or
-  media while topic factors transfer; or no relational structure beyond
-  the observed response profiles is needed to explain those judgements.
+  recastings and media are predicted, within that margin, as well by
+  topic-factor, embedding or surface similarity as by independently
+  measured relational profiles (pragmatic, interactional,
+  intervention-response); or the relational signatures that do predict
+  them fail to transfer from one language to another while topic factors
+  transfer; or no relational structure beyond the observed response
+  profiles is needed to explain those judgements.
 tags:
 - philosophy-of-language
 - metaphysics
@@ -25,6 +63,7 @@ supersedes:
 - CLAIM-133
 answers:
 - QUESTION-029
+- QUESTION-002
 rests_on:
 - CLAIM-151
 - CLAIM-142
@@ -32,10 +71,7 @@ rests_on:
 - CLAIM-050
 - CLAIM-077
 complements:
-- CLAIM-115
-- CLAIM-204
 - CLAIM-223
-- CLAIM-215
 uses:
 - TERM-040
 - TERM-043
@@ -47,8 +83,9 @@ summary: >-
   Unlike [CLAIM-017](CLAIM-017.md) → [CLAIM-115](CLAIM-115.md), the change of question was announced
   (A203 X); the change of criterion was not. A218 replaces the receiver
   with the analyst's identifiability ([CLAIM-140](CLAIM-140.md)). Filed scoped to
-  communicative kinds. No draft carries it, so it complements the
-  manuscript's thesis rather than superseding it.
+  communicative kinds. No draft carries it, so it does not supersede the
+  manuscript's thesis; on the fidelity clause it is that thesis's rival
+  (CLAIM-211).
 objected_by:
 - CLAIM-140
 - CLAIM-206
@@ -162,3 +199,30 @@ exchange argues the general version.
 It keeps "partly". A214 wavers between "partly constituted" (§14) and
 "relationally constituted" without qualification (its thesis paragraph). Only
 the partial reading is the premise this entry rests on.
+
+## Note of 2026-10-29: three concessions
+
+On the fidelity clause this thesis and [CLAIM-115](CLAIM-115.md) give opposite verdicts on
+[CLAIM-140](CLAIM-140.md)'s two cases, so they answer the same part of [QUESTION-002](../questions.d/QUESTION-002.md) and
+compete ([CLAIM-211](CLAIM-211.md)). The clause takes the analyst's identifiability in place
+of the receiver, and nothing in the exchange argues the change ([CLAIM-140](CLAIM-140.md)).
+The record's reading that keeps both, recovery for survival and
+identifiability for certification, is [CLAIM-223](CLAIM-223.md)'s, and [CLAIM-204](CLAIM-204.md) states the
+thesis that way. Both are proposals. This entry keeps A218's words, and its
+defeat condition is now bound to a margin, a power and observables fixed
+before the data ([CLAIM-238](CLAIM-238.md)), with transfer tested between languages
+([CLAIM-222](CLAIM-222.md)).
+
+## Note of 2026-10-29: what holds it back
+
+Four of its five premises are Proposed: [CLAIM-151](CLAIM-151.md), [CLAIM-142](CLAIM-142.md), [CLAIM-135](CLAIM-135.md) and
+[CLAIM-077](CLAIM-077.md). [CASE-055](../cases.d/CASE-055.md) has not been run, and [CLAIM-206](CLAIM-206.md) and [CLAIM-216](CLAIM-216.md) have no
+Active counter. Whether [CLAIM-204](CLAIM-204.md) supersedes it is an owner ruling open since
+2026-10-10.
+
+## Note of 2026-10-29: superseded
+
+Superseded by [CLAIM-204](CLAIM-204.md), the restatement the record filed on 2026-10-10. The
+chain reads [CLAIM-133](CLAIM-133.md), then this entry, then [CLAIM-204](CLAIM-204.md). The objections filed
+against this entry stay pointed at it. [CLAIM-216](CLAIM-216.md), that one conjunctive thesis
+is defeated whole, already objects to [CLAIM-204](CLAIM-204.md) too, and still bites it.

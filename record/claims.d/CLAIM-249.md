@@ -20,6 +20,8 @@ objects_to:
 - CLAIM-137
 uses:
 - TERM-041
+complements:
+- CLAIM-138
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (formal lens); no
   turn of the exchange raises it. To say a visual realization has the

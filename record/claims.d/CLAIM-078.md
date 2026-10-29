@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmplxqew
 title: 'The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -15,6 +15,15 @@ history:
     departs from the composition bounds', could not be met. The first
     disjunct, A110's comparison with text similarity, is unchanged;
     CLAIM-202 carries the stronger rival.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Rests on CLAIM-220 in place of CLAIM-115, which it superseded, as
+    it moved from CLAIM-017 to CLAIM-115 before. Its comparator, text
+    similarity, is weaker than CLAIM-220's, a proposition with its
+    force: ARG-026 rejected the text-similarity test, and CLAIM-202
+    and CLAIM-220 replaced it. Meeting this criterion does not meet
+    CLAIM-220's.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,7 +39,7 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
-- CLAIM-115
+- CLAIM-220
 summary: >-
   A110 §X's success criterion and its closing statement of what remains
   to be shown, recovered. The manuscript keeps half (Case I: incremental

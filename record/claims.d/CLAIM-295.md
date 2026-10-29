@@ -7,16 +7,29 @@ title: 'A record of an inquiry''s justifications adds nothing for decisions its
   current state already suffices for: what it can add is a wider family of decisions
   for which what is kept suffices, and decisions a bounded agent can make that it
   otherwise could not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The defeat condition is brought to say what the title says
+    (seventh status review). Version 1's condition began with A10's:
+    across well-specified families of source-reappraisal,
+    model-revision and audit tasks, representations that keep source
+    and inferential history give no positive net decision value over
+    current-state representations built for the same tasks, once
+    storage, upkeep and computation are counted. That tests whether
+    keeping the history is worth its cost, which the title does not
+    assert and "What it does not say" disclaims; it is QUESTION-098's.
+    The second disjunct, on computational value, is kept. Title and
+    status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A10's condition: across well-specified families of source-reappraisal, model-revision
-  and audit tasks, representations that keep source and inferential history give
-  no positive net decision value over current-state representations built for the
-  same tasks, once storage, upkeep and computation are counted. Or a demonstration
-  that the computational value is always recoverable at equal cost from a sufficient
-  state.
+  A demonstration that the computational value is always recoverable at equal
+  cost from a state sufficient for the same tasks, so that a kept history lets
+  a bounded agent make no decision that a state built for those tasks could
+  not. The informational clauses stand or fall with CLAIM-294 and CLAIM-300.
 tags:
 - epistemology
 - design-rationale
@@ -91,3 +104,17 @@ coordination, rather than by superior predictive updating."
   establishes an option value for retained information. It does not imply
   retaining everything is worth its cost." That is [CLAIM-303](CLAIM-303.md) and [QUESTION-098](../questions.d/QUESTION-098.md).
 - Not that a record that keeps justifications is correct ([CLAIM-299](CLAIM-299.md)).
+
+## Note of 2026-10-29: filed with its concessions
+
+[CLAIM-293](CLAIM-293.md) is granted against reading this claim as saying a graph of
+justifications is enough, and the body has said "Not that topology is
+enough" since the claim was filed. The title says what a kept record can
+add, not how to revise with it.
+
+## Note of 2026-10-29: what holds it back
+
+The informational clauses are carried by [CLAIM-294](CLAIM-294.md) and [CLAIM-300](CLAIM-300.md), both
+Active. The computational clause has only A10's illustrative example, and a
+state built for the tasks could carry the same dependency index, which is
+exactly what the defeat condition asks to be shown or ruled out.

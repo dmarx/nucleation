@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmprfgwn
 title: 'Three standards for a communicative distinction come apart: statistical distinguishability of an interpreter''s response profiles, measured locally by the Fisher metric and never raised by a parameter-independent garbling; usability by a bounded receiver, which a transformation can raise; and pragmatic efficacy in the act; and where response models are singular, as Watanabe''s theory treats, a missing response can come from an absent attempt or an unresponsive receiver alike, and only intervention or later dynamics separate them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
@@ -12,6 +12,12 @@ history:
     A dated note added: the garbling inequality applied to authority shares
     (CASE-159), and information design set against efficacy. The claim
     is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Rests on CLAIM-220 in place of CLAIM-115, which it superseded.
+    This claim needs only that survival is fixed by what receivers can
+    recover, which CLAIM-220 keeps.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,8 +41,8 @@ uses:
 - TERM-064
 rests_on:
 - CLAIM-199
-- CLAIM-115
 - CLAIM-223
+- CLAIM-220
 complements:
 - CLAIM-336
 - CLAIM-407
