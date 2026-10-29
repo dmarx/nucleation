@@ -43,7 +43,7 @@ summary: >-
   future it is helping to make. The claim narrows [CLAIM-425](CLAIM-425.md), it does
   not reverse it: visibility still does not show what was the case.
 ---
-<!-- inactive-ok-file: CLAIM-402 CLAIM-425 LIT-1394 LIT-1398 TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-402 CLAIM-425 LIT-1394 TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1395 until 2027-01-29 — Unavailable since 2026-10-29 (no lawful copy of MacKenzie found); a ground cited from its standard reception, unread, so whether this claim still holds is asked again by then -->
 
 # CLAIM-426: Where a judgement's circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement's authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become

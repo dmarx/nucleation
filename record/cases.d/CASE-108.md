@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp4nzjz
 title: 'Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
@@ -17,6 +17,12 @@ history:
     Note of 2026-10-29 added: Castro and Liskov, zero trust and the
     SEI guide read; the role-limited arm can report against PBFT's
     collusion bound. The design is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 (Edmondson) added: read (NOTE-tmpd0qzq); evidence
+    for protecting honest dissent in cooperative teams, none on its cost
+    or on compromised members. The design is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -147,3 +153,15 @@ Three of the works behind A41's design are now read, two of them in part.
   role-limited arm's failure, observed.
 
 The design is unchanged.
+
+## Note of 2026-10-29: Edmondson, read
+
+Edmondson 1999, [LIT-1220](../literature.d/LIT-1220.md), which [CLAIM-359](../claims.d/CLAIM-359.md) takes as A41's anchor for the
+cost side, is now read ([NOTE-tmpd0qzq](../notes.d/NOTE-tmpd0qzq.md)). The "honestly dissenting"
+specialists are the role its construct, team psychological safety,
+protects: in 51 work teams of one company, members' belief that speaking
+up will not be punished went with the team's asking, admitting and
+questioning. The evidence is cross-sectional, and its teams are
+cooperative, with no adversarial or compromised members. It bears on why
+the honest-dissent arm matters, not on what protecting it costs, which
+is what this design scores. The design is unchanged.
