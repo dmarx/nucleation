@@ -207,8 +207,8 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: predictive sufficiency without the causal reading
 
-Causal feature learning, LIT-tmplfiq6 (NOTE-tmpiw2bv) and LIT-tmpmefe6
-(NOTE-tmpbrnim), context and not a witness. It separates two sufficiency
+Causal feature learning, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)) and [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
+([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)), context and not a witness. It separates two sufficiency
 conditions for a declared target: the observational partition, sufficient
 for predicting it, and the causal partition, sufficient for it under
 intervention. Its coarsening theorem says that, outside a set of measure

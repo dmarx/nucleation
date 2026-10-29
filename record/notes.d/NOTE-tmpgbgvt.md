@@ -235,7 +235,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 Limitations says the reference list gives Cernat (2011) and Ertmer et al.
 (2011) the same journal, volume and pages, Internet and Higher Education
 14, 251–261, and that one of them is wrong. It is Cernat's. Checked
-against Crossref and PubMed (LIT-tmph031e's history), Cernat's article is
+against Crossref and PubMed ([LIT-tmph031e](../literature.d/LIT-tmph031e.md)'s history), Cernat's article is
 in The Journal of Social Psychology 151(6), 737–753,
 doi:10.1080/00224545.2010.522622, and Crossref gives Internet and Higher
 Education 14, 251–261 to Ertmer, Newby, Yu et al.,
@@ -244,8 +244,8 @@ al.'s venue. The typeset article's list was not checked, so whether the
 error survives there is not known.
 
 Open questions names a within-study comparison of extended contact with
-cooperative contact as the test CLAIM-430's defeater asks for. Cernat, the
-candidate this reading named, is registered as LIT-tmph031e, Unfetched. It
+cooperative contact as the test [CLAIM-430](../claims.d/CLAIM-430.md)'s defeater asks for. Cernat, the
+candidate this reading named, is registered as [LIT-tmph031e](../literature.d/LIT-tmph031e.md), Unfetched. It
 is unread, and from its abstract it is not that test: all three arms read
 a story and none takes part; it compares a Roma exemplar's friendship with
 a member of the reader's own group against one with a member of another

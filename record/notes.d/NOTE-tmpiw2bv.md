@@ -127,42 +127,42 @@ clustering J would split the true classes in half.
 ## Connections
 
 It generalizes Chalupka, Perona and Eberhardt 2015 (UAI, not
-registered). Its overview is LIT-tmpmefe6 (NOTE-tmpbrnim). Its cause
+registered). Its overview is [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md) ([NOTE-tmpbrnim](NOTE-tmpbrnim.md)). Its cause
 partition is the optimum of the causal information bottleneck
-(LIT-1802, THEORY-1125). It credits computational mechanics (LIT-1126)
-and Shalizi. Eberhardt and Lee (LIT-tmpr2bnp) recommend it against
-Hoel's effective information (LIT-1038), which it dismisses in one
+([LIT-1802](../literature.d/LIT-1802.md), [THEORY-1125](../theory.d/THEORY-1125.md)). It credits computational mechanics ([LIT-1126](../literature.d/LIT-1126.md))
+and Shalizi. Eberhardt and Lee ([LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md)) recommend it against
+Hoel's effective information ([LIT-1038](../literature.d/LIT-1038.md)), which it dismisses in one
 sentence. The effect-side coarsening it defines is the one Hoel's
 coarse-grainings of a transition matrix also make.
 
 ## Bearing on the record
 
-- **QUESTION-204, second half.** This is the paper that supplies the
+- **[QUESTION-204](../questions.d/QUESTION-204.md), second half.** This is the paper that supplies the
   test the question names, for cause and effect together. It is
   independent of EI-type choices by design: the authors decline to put
   any distribution on interventions, and the partition is defined from
-  point manipulations alone. THEORY-tmpyfcov, filed from this reading,
+  point manipulations alone. [THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md), filed from this reading,
   shows that EI under one common full-support distribution ties the micro
   exactly at this partition (with effects grouped by normalized
   likelihood) and its refinements, whatever the distribution. On which
-  coarse-grainings lose nothing, the causal criterion of THEORY-tmphfpe7's
+  coarse-grainings lose nothing, the causal criterion of [THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)'s
   set-up and the interventionist test agree. Hoel's uniform-per-level EI
   does not: on Eberhardt and Lee's (13) and (14) it merges causes with
   different rows, and on their note 6 it keeps identical rows apart. The
   paper computes nothing on Hoel's systems; that comparison is the
   record's.
-- **THEORY-787.** The verdict CFL gives on a transition matrix is a
+- **[THEORY-787](../theory.d/THEORY-787.md).** The verdict CFL gives on a transition matrix is a
   partition, not a level where causation is stronger: the micro
   description "contains no more causal information", but it loses none
   either. Where micro rows are exactly equal, as in Hoel's (11), CFL and
   EI pick the same macro; elsewhere CFL keeps the micro. So CFL can
   confirm that a macro is proportionate, never that it beats the micro.
-  Hoel 2013's own examples (THEORY-222) were not recomputed.
-- **QUESTION-115.** Its row and column clustering finds a cause and an
+  Hoel 2013's own examples ([THEORY-222](../theory.d/THEORY-222.md)) were not recomputed.
+- **[QUESTION-115](../questions.d/QUESTION-115.md).** Its row and column clustering finds a cause and an
   effect with different partitions. On systems where EI's single
   partition and CFL's pair differ, which level each criterion picks can
   be read off at once (note 6).
-- **QUESTION-252.** The sufficient-description theorem is a predictive
+- **[QUESTION-252](../questions.d/QUESTION-252.md).** The sufficient-description theorem is a predictive
   sufficiency condition for a declared target under intervention, and
   the coarsening theorem relates it to observational sufficiency:
   generically the interventional condition holds wherever the

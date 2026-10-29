@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmpbrnim) in full, from the publisher's PDF as
+  read 2026-10-29 ([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)) in full, from the publisher's PDF as
   posted on Frederick Eberhardt's Caltech publications page
   (https://www.its.caltech.edu/~fehardt/papers/CEP2017.pdf); worth
   reading as the plainest statement of causal feature learning: a macro
@@ -15,7 +15,7 @@ status_note: >-
   discrete macrovariables and an acyclic micro system; that the effect
   classes are defined by equal likelihoods while the merging step
   normalizes them; that two of its displayed equations carry slips
-  (NOTE-tmpbrnim); and that it gives no measure of how much causal
+  ([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)); and that it gives no measure of how much causal
   information a coarsening keeps.
 title: 'Causal feature learning: an overview'
 version: 2
@@ -93,17 +93,17 @@ Chalupka, K., Eberhardt, F. & Perona, P. (2017). Causal feature learning:
 an overview. *Behaviormetrika*, 44(1), 137–164.
 doi:10.1007/s41237-016-0008-2
 
-Read in full on 2026-10-29 (NOTE-tmpbrnim). One account was drawn from it
-and from NOTE-tmpiw2bv: THEORY-tmpyfcov.
+Read in full on 2026-10-29 ([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)). One account was drawn from it
+and from [NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md): [THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md).
 
 ## Why this is here
 
-Eberhardt and Lee (LIT-tmpr2bnp, NOTE-tmp0q96y) recommend causal feature
+Eberhardt and Lee ([LIT-tmpr2bnp](LIT-tmpr2bnp.md), [NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)) recommend causal feature
 learning as the account of macro variables that avoids the failures of
-effective information they document. QUESTION-204's first half is
-answered (THEORY-tmphfpe7); its second half asks whether a coarse-graining
+effective information they document. [QUESTION-204](../questions.d/QUESTION-204.md)'s first half is
+answered ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)); its second half asks whether a coarse-graining
 chosen by a causal criterion agrees with an independent interventionist
 test of which level the effects track. CFL's causal partition is such a
 test: it merges micro states only when their interventional effects are
 the same. This is the framework's overview; the two-sided theorem it
-restates is from LIT-tmplfiq6.
+restates is from [LIT-tmplfiq6](LIT-tmplfiq6.md).

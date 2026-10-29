@@ -178,8 +178,8 @@ Neither meets the defeater. The claim is unchanged and stays Proposed.
 
 ## Note of 2026-10-29: Cernat 2011, from its abstract, not the test
 
-Cernat 2011, LIT-tmph031e, was registered because the reading of Lemmer
-and Wagner (NOTE-tmpgbgvt) named it as possibly the nearest within-study
+Cernat 2011, [LIT-tmph031e](../literature.d/LIT-tmph031e.md), was registered because the reading of Lemmer
+and Wagner ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)) named it as possibly the nearest within-study
 test of this claim's second defeater. It is Unfetched and unread. What
 follows rests on its abstract and on the method text a search engine
 indexes, not on the article.

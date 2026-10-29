@@ -29,13 +29,13 @@ source:
 - LIT-tmpmefe6
 - LIT-tmpr2bnp
 summary: >-
-  Causal feature learning (LIT-tmplfiq6, LIT-tmpmefe6) defines macro causes as
+  Causal feature learning ([LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md), [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)) defines macro causes as
   classes of micro states with the same interventional effect, with no
   distribution over interventions. Under one full-support distribution
   w at both levels, the loss of effective information from a
   coarse-graining (f, g) is I(X; Y | g(Y)) + I(X; g(Y) | f(X)), and both
   terms vanish exactly when f merges only equal rows and g only
-  proportional columns, for every w. So the ties that THEORY-tmphfpe7
+  proportional columns, for every w. So the ties that [THEORY-tmphfpe7](THEORY-tmphfpe7.md)
   allows are the causal-feature-learning partitions and their
   refinements: on which coarse-graining loses nothing, EI under a
   common distribution and the interventionist test agree, and the
@@ -54,18 +54,18 @@ bears_on:
 
 ## Source
 
-Chalupka, Perona and Eberhardt (2015; AISTATS 2016), LIT-tmplfiq6, read
-in NOTE-tmpiw2bv: Definition 2, the fundamental causal partition, i₁ ~
+Chalupka, Perona and Eberhardt (2015; AISTATS 2016), [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md), read
+in [NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md): Definition 2, the fundamental causal partition, i₁ ~
 i₂ ⇔ P(j | man(i₁)) = P(j | man(i₂)) for all j, and j₁ ~ j₂ ⇔ P(j₁ |
 man(i)) = P(j₂ | man(i)) for all i; "unless we assume a distribution
 P(man(I)) over the interventions, we cannot apply the notion of a
 sufficient statistic to manipulations in the I space. Following Pearl's
 approach, we refrain from specifying intervention distributions" (§2.2).
-Their overview, LIT-tmpmefe6, read in NOTE-tmpbrnim, §3.3: merging effect
+Their overview, [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md), read in [NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md), §3.3: merging effect
 clusters after "Normalizing the likelihood vectors such that they sum to
 1". Effective information under a common distribution is
-THEORY-tmphfpe7's, from Eberhardt and Lee, LIT-tmpr2bnp, and Hoel et al.,
-LIT-1038. The equivalence below is the record's.
+[THEORY-tmphfpe7](THEORY-tmphfpe7.md)'s, from Eberhardt and Lee, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md), and Hoel et al.,
+[LIT-1038](../literature.d/LIT-1038.md). The equivalence below is the record's.
 
 ## What was actually shown
 
@@ -73,7 +73,7 @@ LIT-1038. The equivalence below is the record's.
 state set at two times). T(y | x) = P(Y = y | do(X = x)). An intervention
 distribution w over X with w(x) > 0 for every x, fixed in advance.
 EI_w = I(X; Y) with X ~ w, Y ~ T(· | X). A coarse-graining is a pair of
-partitions, f of X and g of Y. As in THEORY-tmphfpe7, the macro cause is
+partitions, f of X and g of Y. As in [THEORY-tmphfpe7](THEORY-tmphfpe7.md), the macro cause is
 given its image law under w and each do(f(X) = u) is realized by w within
 the block, so the macro EI is I(f(X); g(Y)) under the same w.
 
@@ -81,7 +81,7 @@ the block, so the macro EI is I(f(X); g(Y)) under the same w.
 
 I(X; Y) − I(f(X); g(Y)) = I(X; Y | g(Y)) + I(X; g(Y) | f(X)).
 
-Both terms are non-negative, which is THEORY-tmphfpe7's bound again.
+Both terms are non-negative, which is [THEORY-tmphfpe7](THEORY-tmphfpe7.md)'s bound again.
 
 **Effect side.** I(X; Y | g(Y)) = 0 iff X is independent of Y given
 g(Y), i.e. w(x)T(y | x)/P(y) is the same for every y in a block. With w
@@ -102,13 +102,13 @@ proportional columns, whatever full-support w is used.
 Chalupka et al.'s fundamental cause. The coarsest g is the partition of Y
 by normalized columns. It equals their fundamental effect (equal columns)
 unless two effect states have proportional, unequal columns, in which
-case it is coarser and still loses nothing (NOTE-tmpiw2bv records the
+case it is coarser and still loses nothing ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md) records the
 example rows (0.2, 0.4, 0.4) and (0.1, 0.2, 0.7), whose first two
 effects merge with zero loss under every w checked). Every merge of two
 causes with different effects, an ambiguous manipulation in Spirtes and
 Scheines's sense, loses information under every full-support w.
 
-**On Eberhardt and Lee's matrices** (computed, NOTE-tmp0q96y). (11): rows
+**On Eberhardt and Lee's matrices** (computed, [NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)). (11): rows
 1–7 are identical, so the causal partition is {1–7}, {8}, the same as
 EI's choice. (13): all eight rows differ, so the causal partition is the
 micro, and EI's {1–7}, {8} is a lossy merge. (14) and its variant: all
@@ -128,7 +128,7 @@ identities exclude it.
 - **Not that the macro is where causation is.** The micro always ties.
   The causal partition is the coarsest description that loses nothing,
   a proportionality notion in Yablo's sense, not a level with more
-  causation. THEORY-787's claim that the macro is causally privileged
+  causation. [THEORY-787](THEORY-787.md)'s claim that the macro is causally privileged
   gets no support from it.
 - **Not a ranking of lossy coarse-grainings.** Whether a loss is zero
   does not depend on w; its size, w-weighted divergence among the merged
@@ -146,4 +146,4 @@ identities exclude it.
   partition from observational data needs Chalupka et al.'s coarsening
   theorem, a genericity result.
 - The cause side alone, for a different information measure (causal
-  information gain under a protocol), is THEORY-1125's.
+  information gain under a protocol), is [THEORY-1125](THEORY-1125.md)'s.

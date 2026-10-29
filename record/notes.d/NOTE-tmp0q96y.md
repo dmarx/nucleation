@@ -219,9 +219,9 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 Connections calls the alternative this paper recommends, Chalupka, Perona
 and Eberhardt's causal feature learning, not registered. That is out of
-date. It is registered and read: the AISTATS 2016 paper, LIT-tmplfiq6
-(NOTE-tmpiw2bv), and the overview, LIT-tmpmefe6 (NOTE-tmpbrnim). The
-record's THEORY-tmpyfcov, filed from those readings, takes the step this
+date. It is registered and read: the AISTATS 2016 paper, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md)
+([NOTE-tmpiw2bv](NOTE-tmpiw2bv.md)), and the overview, [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md) ([NOTE-tmpbrnim](NOTE-tmpbrnim.md)). The
+record's [THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md), filed from those readings, takes the step this
 paper leaves undone. Under one full-support distribution at both levels, a
 coarse-graining keeps all of the micro EI iff it merges only causes with
 identical rows and only effects with proportional columns, which are

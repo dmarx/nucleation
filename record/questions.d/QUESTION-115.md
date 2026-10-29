@@ -251,15 +251,15 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: causal feature learning, a further macrostate criterion
 
-Causal feature learning, LIT-tmplfiq6 (NOTE-tmpiw2bv) and LIT-tmpmefe6
-(NOTE-tmpbrnim), is a further candidate for the macrostate leg, and it
+Causal feature learning, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)) and [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
+([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)), is a further candidate for the macrostate leg, and it
 parts from effective information on one system. It partitions causes by
 P(Y | do(x)) and effects by their columns, two partitions where Hoel's EI
 coarsens cause and effect by one. On Eberhardt and Lee's (14), EI picks
 {x₁, x₂}, {x₃} and causal feature learning the micro. On their note 6,
 causal feature learning merges x₂ and x₃, whose rows are identical, and
 EI's shared partition cannot. Under one distribution at both levels the
-two agree on which coarse-grainings lose nothing (THEORY-tmpyfcov), so the
+two agree on which coarse-grainings lose nothing ([THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md)), so the
 disagreement belongs to the uniform distribution at each level, as the
 earlier note of this date found for EI's macro advantage.
 

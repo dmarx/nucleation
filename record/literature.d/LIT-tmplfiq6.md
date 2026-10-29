@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmpiw2bv) in full, from arXiv 1512.07942v1 with
+  read 2026-10-29 ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)) in full, from arXiv 1512.07942v1 with
   its supplementary material; worth reading as the source of the
   two-sided form of causal feature learning that the overview
-  (LIT-tmpmefe6) restates: the fundamental cause and effect are the
+  ([LIT-tmpmefe6](LIT-tmpmefe6.md)) restates: the fundamental cause and effect are the
   partitions of micro causes by P(J | man(i)) and of micro effects by
   P(j | man(·)), learned jointly; the fundamental causal coarsening
   theorem says both generically coarsen the observational partitions;
@@ -13,7 +13,7 @@ status_note: >-
   simulated neural population, built with the macro structure it
   recovers; that its claim that the effect partition is the minimal
   sufficient partition is wrong where two effect states have
-  proportional but unequal columns (NOTE-tmpiw2bv); and that it compares
+  proportional but unequal columns ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)); and that it compares
   itself with Hoel et al. 2013 in one sentence and computes nothing on
   their systems.
 title: 'Multi-Level Cause-Effect Systems'
@@ -94,17 +94,17 @@ systems. In *Proceedings of the 19th International Conference on
 Artificial Intelligence and Statistics (AISTATS 2016)*, PMLR 51, 361–369.
 arXiv:1512.07942
 
-Read in full on 2026-10-29 (NOTE-tmpiw2bv). One account was drawn from it
-and from NOTE-tmpbrnim: THEORY-tmpyfcov.
+Read in full on 2026-10-29 ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)). One account was drawn from it
+and from [NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md): [THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md).
 
 ## Why this is here
 
-Eberhardt and Lee (LIT-tmpr2bnp, NOTE-tmp0q96y) recommend causal feature
-learning as the alternative to effective information. QUESTION-204's
+Eberhardt and Lee ([LIT-tmpr2bnp](LIT-tmpr2bnp.md), [NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)) recommend causal feature
+learning as the alternative to effective information. [QUESTION-204](../questions.d/QUESTION-204.md)'s
 second half asks whether a coarse-graining chosen by a causal criterion
 agrees with an independent interventionist test of which level the
 effects track. This is the paper that defines the test for cause and
 effect together, which is the form Hoel's coarse-grainings of a
 transition matrix need, and that says it assumes no intervention
 distribution. Its partition of causes by P(y | do(x)) is the optimum of
-the causal information bottleneck (LIT-1802, THEORY-1125).
+the causal information bottleneck ([LIT-1802](LIT-1802.md), [THEORY-1125](../theory.d/THEORY-1125.md)).

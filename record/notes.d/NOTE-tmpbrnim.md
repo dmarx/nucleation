@@ -126,46 +126,46 @@ causal partition, so experiments are needed only to merge its cells.
 
 ## Connections
 
-It builds on computational mechanics (Shalizi and Crutchfield, LIT-1126),
+It builds on computational mechanics (Shalizi and Crutchfield, [LIT-1126](../literature.d/LIT-1126.md)),
 whose causal states group histories by equal conditional futures; CFL
 replaces conditioning with manipulation. Its macro cause of a single
 cause variable is the optimum of the causal information bottleneck at
-full weight on control (LIT-1802, THEORY-1125). Eberhardt and Lee
-(LIT-tmpr2bnp, NOTE-tmp0q96y) recommend it against effective information
-(LIT-1038). The two-sided theorem and the sufficiency results are in
-LIT-tmplfiq6 (NOTE-tmpiw2bv). Rubenstein et al. (LIT-1334) and Beckers
-and Halpern (LIT-1316) cite it as learned macro variables.
+full weight on control ([LIT-1802](../literature.d/LIT-1802.md), [THEORY-1125](../theory.d/THEORY-1125.md)). Eberhardt and Lee
+([LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md), [NOTE-tmp0q96y](NOTE-tmp0q96y.md)) recommend it against effective information
+([LIT-1038](../literature.d/LIT-1038.md)). The two-sided theorem and the sufficiency results are in
+[LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](NOTE-tmpiw2bv.md)). Rubenstein et al. ([LIT-1334](../literature.d/LIT-1334.md)) and Beckers
+and Halpern ([LIT-1316](../literature.d/LIT-1316.md)) cite it as learned macro variables.
 
 ## Bearing on the record
 
-- **QUESTION-204, second half.** The question asks for an independent
+- **[QUESTION-204](../questions.d/QUESTION-204.md), second half.** The question asks for an independent
   interventionist test of which level the effects track, "such as
   realization insensitivity under changes of realizer". CFL's causal
   partition is that test, stated exactly: two micro states share a macro
   state iff manipulating to either has the same effect. It is
   independent of EI-type choices: it uses only point manipulations, so
   no distribution over interventions, uniform or otherwise, enters. The
-  record's derivation (THEORY-tmpyfcov) shows that the coarse-grainings
+  record's derivation ([THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md)) shows that the coarse-grainings
   at which EI under one common distribution ties the micro are exactly
   CFL's partitions and their refinements, for every such distribution.
   So the causal criterion and the test agree on which coarse-grainings
   lose nothing. Hoel's EI, scored uniformly at each level, does not agree
-  (NOTE-tmp0q96y's (13), (14) and note 6). The overview itself computes
+  ([NOTE-tmp0q96y](NOTE-tmp0q96y.md)'s (13), (14) and note 6). The overview itself computes
   nothing on Hoel's systems.
-- **THEORY-787.** CFL delivers a verdict on a system, but not the verdict
-  THEORY-787 wants. On a transition matrix its causal partition is the
+- **[THEORY-787](../theory.d/THEORY-787.md).** CFL delivers a verdict on a system, but not the verdict
+  [THEORY-787](../theory.d/THEORY-787.md) wants. On a transition matrix its causal partition is the
   coarsest description with unambiguous manipulations; the micro
   description is never worse, only finer. It supports "the macro is the
   proportionate level" where micro rows are exactly equal, as in Hoel's
   (11), and gives the micro on the others. It does not support "causation
   emerges at the macro". It also needs exact equality: §§3.3 and 4.3
   merge by a distance threshold and concede fuzzy edges.
-- **QUESTION-115.** For the macrostate criterion, CFL is a further
+- **[QUESTION-115](../questions.d/QUESTION-115.md).** For the macrostate criterion, CFL is a further
   candidate that disagrees with EI on one system: on Eberhardt and Lee's
   (14) EI picks {x₁, x₂}, {x₃} and CFL the micro. It also lets cause and
   effect be partitioned differently, which EI's shared partition does
   not.
-- **QUESTION-252.** CFL separates two sufficiency conditions:
+- **[QUESTION-252](../questions.d/QUESTION-252.md).** CFL separates two sufficiency conditions:
   observational (the observational partition) and interventional (the
   causal partition). The coarsening theorem says the interventional one
   generically holds wherever the observational one does, and the toy's
@@ -186,7 +186,7 @@ and Halpern (LIT-1316) cite it as learned macro variables.
 - Lemma 8 writes P(T | …) for P(J | …) twice; a notational slip.
 - The theorem conditions on fixed causal and confounding partitions;
   the 2016 paper conditions on fixed observational partitions
-  (NOTE-tmpiw2bv). The acknowledgements thank a reviewer "for pointing
+  ([NOTE-tmpiw2bv](NOTE-tmpiw2bv.md)). The acknowledgements thank a reviewer "for pointing
   out an error in our original theorem" without saying what it was.
 - The theorem is about measure, and §2.3 concedes that equal parameters
   carry the same measure as coincidental cancellation; the argument
@@ -197,7 +197,7 @@ and Halpern (LIT-1316) cite it as learned macro variables.
 ## Open questions
 
 - Is there a graded version of the causal partition that does not bring
-  back an intervention distribution? THEORY-tmpyfcov says the amount of
+  back an intervention distribution? [THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md) says the amount of
   loss depends on one.
 - What does the causal partition of a whole transition matrix look like
   when cause and effect must share one partition, as in Hoel's set-up?

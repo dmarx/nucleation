@@ -136,7 +136,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: Cernat 2011, from its abstract
 
-Cernat 2011, LIT-tmph031e, was registered as a candidate for this
+Cernat 2011, [LIT-tmph031e](../literature.d/LIT-tmph031e.md), was registered as a candidate for this
 question's third part. It is Unfetched and unread, and this note rests on
 its abstract and the method text a search engine indexes. All three arms
 read, and none takes part, so it cannot tell taking part from receiving

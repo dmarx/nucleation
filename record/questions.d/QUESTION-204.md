@@ -107,8 +107,8 @@ The earlier note of this date left the second half open. It now has the
 independent interventionist test it asks for, and part of an answer.
 
 The test is causal feature learning: Chalupka, Perona and Eberhardt,
-LIT-tmplfiq6 (NOTE-tmpiw2bv), and their overview, LIT-tmpmefe6
-(NOTE-tmpbrnim). Its causal partition puts two micro causes in one macro
+[LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)), and their overview, [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
+([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)). Its causal partition puts two micro causes in one macro
 state iff manipulating to either has the same effect, P(Y | do(x₁)) =
 P(Y | do(x₂)), and partitions effects likewise. That is realization
 insensitivity under changes of realizer, stated exactly, and it is
@@ -116,7 +116,7 @@ independent of EI-type choices: the authors put no distribution on
 interventions, and the partition is defined from point manipulations
 alone.
 
-The partial answer is THEORY-tmpyfcov (Active). Under one full-support
+The partial answer is [THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md) (Active). Under one full-support
 distribution over micro causes at both levels, a coarse-graining keeps all
 of the micro EI iff it merges only causes with identical rows P(Y | do(x))
 and only effects with proportional columns, whatever the distribution. So
@@ -135,13 +135,13 @@ Two limits keep the question Open.
   their note 6, EI keeps apart x₂ and x₃, whose rows are identical,
   because it coarsens cause and effect by one partition. These are
   hand-built matrices, which by this question's terms cannot settle
-  agreement in general, and Hoel 2013's own examples (THEORY-222) were not
+  agreement in general, and Hoel 2013's own examples ([THEORY-222](../theory.d/THEORY-222.md)) were not
   recomputed.
 - Under a common distribution the micro always ties, so the EI-optimal
   level is at best the coarsest tie. That is the causal partition: the
   proportionate description, not one with more causation. And the
   agreement needs exact equality of rows. With estimated rows only the
   micro ties, and causal feature learning merges by a distance threshold,
-  a choice THEORY-tmpyfcov does not make.
+  a choice [THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md) does not make.
 
 The question is unchanged and stays Open.

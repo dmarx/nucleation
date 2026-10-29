@@ -149,8 +149,8 @@ The promote_when asks, beside a common distribution, that the EI-optimal
 coarse-graining agree "with an independent interventionist test of which
 level the effects track (realization insensitivity under changes of
 realizer)". Causal feature learning is that test: Chalupka, Perona and
-Eberhardt, LIT-tmplfiq6 (NOTE-tmpiw2bv), and their overview, LIT-tmpmefe6
-(NOTE-tmpbrnim). Two micro causes share a macro state iff manipulating to
+Eberhardt, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)), and their overview, [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
+([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)). Two micro causes share a macro state iff manipulating to
 either has the same effect, and no distribution over interventions enters.
 
 Its verdict bears on this account in two ways.
@@ -162,20 +162,20 @@ Its verdict bears on this account in two ways.
   can confirm that a macro is proportionate, where micro rows are exactly
   equal, as in Eberhardt and Lee's (11), Hoel's example, and never that
   causation emerges at the macro or that the macro beats the micro.
-  THEORY-tmpyfcov (Active) makes the link to EI exact: under one
+  [THEORY-tmpyfcov](THEORY-tmpyfcov.md) (Active) makes the link to EI exact: under one
   full-support distribution at both levels, the coarse-grainings that keep
   all of the micro EI are exactly the causal partitions and their
-  refinements, whatever the distribution. The ties THEORY-tmphfpe7 allows
+  refinements, whatever the distribution. The ties [THEORY-tmphfpe7](THEORY-tmphfpe7.md) allows
   are these, and nothing exceeds them.
 - **It disagrees with the EI this account rests on.** Hoel's EI, uniform
   at each level, merges causes with different rows on Eberhardt and Lee's
   (13) and (14), and on their note 6 it keeps identical rows apart. On
   those matrices the agreement the promote_when asks for fails. They are
   hand-built, which by the promote_when's terms cannot settle it, and Hoel
-  2013's own examples (THEORY-222) were not recomputed.
+  2013's own examples ([THEORY-222](THEORY-222.md)) were not recomputed.
 
 The test also needs exact equality. With estimated rows, causal feature
-learning merges by a distance threshold, a choice THEORY-tmpyfcov does not
+learning merges by a distance threshold, a choice [THEORY-tmpyfcov](THEORY-tmpyfcov.md) does not
 make.
 
 Nothing here moves the account toward promotion. The status and the title
