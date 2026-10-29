@@ -216,9 +216,9 @@ among processes. The two complement each other, and both answer
 
 ## Note of 2026-10-29: what holds it back
 
-CLAIM-485, which says what this claim's endogeneity contributes and whose
+[CLAIM-485](CLAIM-485.md), which says what this claim's endogeneity contributes and whose
 distinction this claim's narrowing adopts, is Active since the twelfth
-status review, grounded on what Kahl proposes (THEORY-tmp9nzdb), and it
+status review, grounded on what Kahl proposes ([THEORY-tmp9nzdb](../theory.d/THEORY-tmp9nzdb.md)), and it
 answers [QUESTION-092](../questions.d/QUESTION-092.md). Every premise of this claim is held and no
 objection to it is live. What remains is its own promotion: it is the
 record's central thesis about the self, and whether it is promoted is the

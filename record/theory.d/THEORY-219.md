@@ -186,4 +186,4 @@ on, between settling a revised frame and selecting among revisions an
 antecedent criterion already ranks, is not drawn precisely. The record
 holds no system shown to settle a revision not ranked in advance, together
 with an independent reason to hold it responsible. What Kahl proposes, as
-he states it, is held in THEORY-tmp9nzdb.
+he states it, is held in [THEORY-tmp9nzdb](THEORY-tmp9nzdb.md).

@@ -173,7 +173,7 @@ here.
 ## Note of 2026-10-29: what holds it back
 
 No study that varies only the comparative frame has been read. Oakes,
-Turner & Haslam 1991 (LIT-1726) and Haslam et al. 1992 (LIT-1767) are
+Turner & Haslam 1991 ([LIT-1726](../literature.d/LIT-1726.md)) and Haslam et al. 1992 ([LIT-1767](../literature.d/LIT-1767.md)) are
 filed unread, and every result the record holds reaches it through the
 theory's authors without data. The promote_when also asks for a result
 from outside the originating group, or a preregistered replication there,

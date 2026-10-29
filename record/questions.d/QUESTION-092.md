@@ -70,8 +70,8 @@ which the two systems are matched. [THEORY-219](../theory.d/THEORY-219.md) now b
 
 ## Note of 2026-10-29: answered
 
-CLAIM-485 went Active at the twelfth status review, grounded on what Kahl
-proposes (THEORY-tmp9nzdb) rather than on the truth of his account, which
-stays THEORY-219's question. Its answer is the one the note above gives,
+[CLAIM-485](../claims.d/CLAIM-485.md) went Active at the twelfth status review, grounded on what Kahl
+proposes ([THEORY-tmp9nzdb](../theory.d/THEORY-tmp9nzdb.md)) rather than on the truth of his account, which
+stays [THEORY-219](../theory.d/THEORY-219.md)'s question. Its answer is the one the note above gives,
 and the question is now Answered. Whether that answer completes an account
-of the self is CLAIM-284's question, which stays open.
+of the self is [CLAIM-284](../claims.d/CLAIM-284.md)'s question, which stays open.

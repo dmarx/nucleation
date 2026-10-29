@@ -71,7 +71,7 @@ behaviourally equivalent one whose allocation an external scheduler sets.
 "Self-governing" is [TERM-045](../terms.d/TERM-045.md)'s sense 5: governing oneself by one's own
 standards.
 
-THEORY-tmp9nzdb (Kahl 2026, [LIT-1033](../literature.d/LIT-1033.md), read in [NOTE-723](../notes.d/NOTE-723.md)) answers a neighbouring question, about agency
+[THEORY-tmp9nzdb](../theory.d/THEORY-tmp9nzdb.md) (Kahl 2026, [LIT-1033](../literature.d/LIT-1033.md), read in [NOTE-723](../notes.d/NOTE-723.md)) answers a neighbouring question, about agency
 in the sense that bears on responsibility. Allocation does not count:
 "voting rules, ranking functions, confidence thresholds" coordinate
 execution and "do not generate authorship of the governing frame". What
@@ -111,7 +111,7 @@ the other side.
 - **That revision is enough for a self.** [CLAIM-284](CLAIM-284.md) also asks for
   historical continuity and self-maintenance. This claim locates only what
   endogeneity contributes to sense 5.
-- **That THEORY-tmp9nzdb's responsibility-agency is sense 5.** The bridge is
+- **That [THEORY-tmp9nzdb](../theory.d/THEORY-tmp9nzdb.md)'s responsibility-agency is sense 5.** The bridge is
   that both turn on revision of standards, not that the two senses are
-  one. Whether Kahl's condition is right is THEORY-219's question; this
+  one. Whether Kahl's condition is right is [THEORY-219](../theory.d/THEORY-219.md)'s question; this
   claim does not need it.
