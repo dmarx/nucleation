@@ -1,0 +1,144 @@
+---
+status: Read
+paper: 'LIT-1148'
+title: 'Hazen, Griffin, Carothers and Szostak — Functional information and the emergence of biocomplexity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from the publisher's version in PubMed
+    Central (https://pmc.ncbi.nlm.nih.gov/articles/PMC1876432/, HTML).
+    The PNAS PDF and PMC's PDF returned a bot check; Europe PMC holds no
+    full-text XML for it. The nine displayed equations are images in the
+    PMC page and were read from those images. Read: the abstract, all
+    sections (Systems and their functions, Quantifying complexity, letter
+    sequences, Avida, islands of function, RNA polymers, higher-dimensional
+    systems, conclusions, methods), the captions of Figures 1–4 and the
+    reference list. Figures were read from captions and text only; no
+    number was taken from a chart. The letter-sequence value of eq. (6)
+    was recomputed: it is 37 bits, not 36. Carothers et al. (2004) and
+    Szostak (2003), which the aptamer section and the definition rest on,
+    were not read.
+date: '2026-10-29'
+summary: >-
+  Defines functional information I(E_x) = −log2 F(E_x), F the fraction of
+  all configurations that reach at least degree E_x of a stated function,
+  and illustrates it on letter strings, random Avida genomes and GTP
+  aptamers. Its one empirical observation is that I against E_x is stepped
+  in Avida, which it attributes to distinct classes ("islands") of
+  solutions. The measure is relative to a function and to a uniform
+  measure on configurations, and says nothing about history or identity.
+---
+<!-- inactive-ok-file: CLAIM-327 — Proposed; named only for the contrast with a history-dependent variable, nothing here rests on it -->
+
+# NOTE-tmpyxqnm: Hazen, Griffin, Carothers and Szostak — Functional information and the emergence of biocomplexity
+
+## Contribution
+
+It takes Szostak's (2003) "functional information", proposed for RNA
+aptamers, and offers it as a general complexity measure for any system of
+many agents with a quantifiable function. It applies it to three cases and
+reports, for Avida, reproducible steps in the curve of information against
+degree of function.
+
+## Key insight
+
+Complexity is measured not in the configuration but in the configuration
+space relative to a task: how rare, among all configurations, is doing
+this well? A highly structured object can carry zero functional
+information for a function it does not perform, and an undefined one for a
+function nobody can perform.
+
+## Assumptions
+
+- A finite (or countable) space of N configurations, each with a
+  measurable degree of function E_x for one stated function x.
+- Uniform weighting: "we assign equal probability to all possible
+  sequences"; unequal weights are said to be "a straightforward
+  extension" of Shannon's treatment, not given.
+- The distribution of function must be "derived from the statistical
+  properties of the system as a whole [as opposed ... to ... populations
+  evolving in a fitness landscape]".
+
+## Key results
+
+- **Definition.** I(E_x) = −log2[F(E_x)] = −log2[M(E_x)/N], M the number
+  of configurations with degree ≥ E_x. I(E_max) = log2 N for a single
+  best configuration; I(E_min) = 0.
+- **Letters.** For about 1,000 ten-letter strings that summon a fire
+  engine, I ≈ −log2(1000/26¹⁰), given as "≈ 36 bits"; the maximum for n
+  letters is log2 26ⁿ ≈ 4.7n bits.
+- **Avida.** Random 100–500-instruction genomes from 26 instructions are
+  functional with P ≈ 10⁻³ at ~10² lines; none of four or fewer
+  instructions is. For 10⁷ random 300-line genomes the NAND curve is
+  continuous for E between 2 and 48 with reproducible gaps at 48/49 and
+  58/59; first addition gaps at 19, 39, 59 and 69 executions for genome
+  lengths 100, 200, 300 and 500.
+- **Control.** Counting 1s in random 100-digit strings gives a smooth,
+  unstepped curve (Figure 4).
+- **Aptamers (from Carothers et al.).** 11 classes of GTP aptamers; a
+  10-fold gain in binding costs about 10 bits, a ~1,000-fold drop in
+  abundance; a "suggestion" of steps, from data "too few to draw
+  definitive conclusions".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Functional information is defined only relative to a specified function and degree | strong | definition |
+| C2 | In Avida the I–E curve has reproducible steps | moderate | repeated random samples (Figs. 1–2); repetitions not counted |
+| C3 | The steps come from distinct classes of solutions with different maxima | weak | a schematic model (Fig. 3) and one example of two unrelated subtraction genes |
+| C4 | The measure can be applied to physical systems such as sand ripples | weak | proposed, not done |
+
+## Concepts
+
+- **Degree of function E_x**: any quantitative measure of how well a
+  configuration performs function x; units arbitrary.
+- **Functional information I(E_x)**: −log2 of the fraction of all
+  configurations with degree at least E_x.
+- **Islands of function**: distinct classes of configurations solving the
+  same task, each with its own maximum.
+
+## Connections
+
+The definition is Szostak (2003, *Nature* 423:689) and Carothers et al.
+(2004); neither is registered. It is a surprisal over configuration
+space, so it shares the form of a self-information measure but fixes the
+measure (uniform) and the event (function ≥ E_x) by hand.
+
+## Bearing on the record
+
+- **CASE-102**, the college program that keeps producing good teams.
+  The LIT records A10's reading: "function-relative, and silent
+  on whether successive teams are one individual." The reading confirms
+  both. It adds a third point the case should note: the measure is taken
+  over all configurations under a uniform weighting, explicitly not over
+  what a selective process produces. So it can say how rare a good roster
+  is among all rosters, but not why one program keeps drawing from the
+  rare region. That is the mechanism the case asks about, and functional
+  information leaves it untouched. A slow, member-read variable such as a
+  program's standing (CLAIM-327) is the kind of thing that would.
+- No instruction for machine-learning practice; nothing for the
+  anthology.
+
+## Limitations
+
+- **An arithmetic slip.** −log2(1000/26¹⁰) = 10·log2 26 − log2 1000 ≈
+  47.0 − 10.0 = 37.0 bits, not "≈ 36 bits".
+- **A wording slip.** The abstract says functional information
+  "represents the probability" that a configuration achieves the
+  function; it is minus the log of that probability.
+- **Eq. (9)** writes the denominator as a sum "∑_{1−n_opt}(4ⁿ)", a
+  garbled index, for the count of all strings up to the optimal length.
+- **Unequal weights** are declared a straightforward extension and not
+  given; for any real system (an evolved population, a sand bed) the
+  uniform measure is the strong assumption.
+- **No count of repetitions** for the "robust" Avida gaps.
+- The higher-dimensional and origin-of-life sections are proposals.
+
+## Open questions
+
+- Under which weighting over configurations does the measure track what
+  selection or assembly actually produces, and does the stepped structure
+  survive it?
