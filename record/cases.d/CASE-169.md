@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpelq9w
 title: 'The Chagossians, 1965 to now: a people expelled from the Chagos Archipelago between 1967 and 1973 for the Diego Garcia base, dispersed to Mauritius, the Seychelles and Britain, whose practices, kinship and political organization continued or arose in exile while sovereignty over the islands was settled between states'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the ICJ advisory opinion and the Human
+    Rights Watch report read (NOTE-tmp87q7f, NOTE-tmpask7i);
+    Jeffery's works Unavailable. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -36,6 +43,7 @@ summary: >-
   persisting agent, or which practices survived; the sources are
   registered unread.
 ---
+<!-- inactive-ok-file: LIT-1598 LIT-1620 — Unavailable since 2026-10-29; Jeffery's works, sources of particulars kept as the exchange's, cited in the note of that date as not reached -->
 
 # CASE-169: The Chagossians, 1965 to now: a people expelled from the Chagos Archipelago between 1967 and 1973 for the Diego Garcia base, dispersed to Mauritius, the Seychelles and Britain, whose practices, kinship and political organization continued or arose in exile while sovereignty over the islands was settled between states
 
@@ -146,3 +154,44 @@ edge cases invented to distinguish definitions").
   University of Edinburgh's archive "CHAGOS: Cultural Heritage Across
   Generations" (archive.sps.ed.ac.uk/chagos), which A3 named, is the
   natural place to check them.
+
+## Note of 2026-10-29: the advisory opinion and Human Rights Watch, read
+
+Two of the case's four sources are now read, so "every source is
+registered unread" no longer holds. The ICJ's advisory opinion, [LIT-1589](../literature.d/LIT-1589.md),
+is read in [NOTE-tmp87q7f](../notes.d/NOTE-tmp87q7f.md), and the Human Rights Watch report, [LIT-1593](../literature.d/LIT-1593.md), in
+[NOTE-tmpask7i](../notes.d/NOTE-tmpask7i.md). Jeffery's two works, [LIT-1620](../literature.d/LIT-1620.md) and [LIT-1598](../literature.d/LIT-1598.md), are
+Unavailable.
+
+- **The advisory opinion.** The case's sentence that the Court "treated
+  resettlement as a human-rights question within its completion" is
+  accurate. The opinion is a direct instance of a settlement adequate to
+  one target: the Court answers the question about the territory and
+  declines the one about the displaced. Return gets one sentence (para.
+  181), addressed to the General Assembly, and no operative point. A
+  settlement between states that met every operative point would leave
+  [CLAIM-361](../claims.d/CLAIM-361.md)'s return claim untouched. The "people" in the opinion is the
+  people of the colony of Mauritius; the Chagossians appear as "Mauritian
+  nationals, including those of Chagossian origin" (para. 181), so whose
+  self-determination is at stake is fixed by the territorial frame.
+- **"No permanent population."** The opinion records the line only in
+  passing (para. 111, "virtually no permanent inhabitants"). Human Rights
+  Watch documents it, in the documents' own words as quoted in UK
+  judgments, so this particular is no longer only the exchange's. The
+  report also shows the classification still doing work: the UK argues
+  that human-rights treaties do not apply to the territory because it has
+  no permanent population, which is true only because of the removal (p.
+  74). That is "classification that changes its referent" in the
+  documents' own terms.
+- **Divergent judgments.** From its own interviews, the report confirms
+  that Chagossians disagree about which State should hold the islands
+  while agreeing that they should have the right to return, and that most
+  do not oppose the base (p. 6), on a sample drawn through representative
+  groups.
+- **Restoration.** The report asks for restitution "at a minimum standard
+  equivalent to how they would live today had they not been expelled",
+  not for return to plantation life (p. 11), which fits the case's line
+  that what restitution owes is not settled by the structural
+  description.
+
+The case is unchanged.

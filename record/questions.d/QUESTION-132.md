@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp0885h
 title: 'Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -12,6 +12,12 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A19 §5 asked this question's
     alternative of institutions. The question is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the readings of Hofbauer and
+    Schreiber, Chizat and Bach, Marsland et al., Power et al. and
+    Letten et al. The question is unchanged.
 tags:
 - complex-systems
 - ecology
@@ -33,7 +39,8 @@ summary: >-
   coexistence and exclusion. Heterogeneous embeddings, unequal routing
   weights or persistent expert identities do not answer it.
 ---
-<!-- inactive-ok-file: CLAIM-277 CLAIM-362 LIT-1219 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-277 CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; Chesson's stabilizing mechanisms, cited as the source of the first outcome's name, not reached, nothing here rests on it -->
 
 # QUESTION-132: Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?
 
@@ -171,3 +178,44 @@ symmetry-breaking dynamics themselves". This is this question's
 alternative, asked of institutions ([CLAIM-408](../claims.d/CLAIM-408.md)). A20's close ("may
 also reflect genuine learning, merited expertise, and beneficial
 specialization") is [QUESTION-100](QUESTION-100.md)'s and [QUESTION-087](QUESTION-087.md)'s.
+
+## Note of 2026-10-29: invasion graphs, the mean-field flow, and three more readings
+
+Hofbauer and Schreiber's invasion graphs, which "What would answer it"
+names, are [LIT-1233](../literature.d/LIT-1233.md), now read ([NOTE-tmphiq73](../notes.d/NOTE-tmphiq73.md)). This question's λ_i is
+exactly their r_i(µ), and the reading adds two conditions the question
+should carry.
+
+- Positive recovery at one resident regime is not enough. It must be
+  positive at every −i community, which may be a much smaller community
+  than all the others.
+- Signs decide only if the invasion graph is acyclic. With cyclic
+  replacement among operators, rock–paper–scissors among roles, every
+  recovery exponent can be positive and coexistence still fail.
+
+Chizat and Bach, [LIT-1232](../literature.d/LIT-1232.md) ([NOTE-tmpbs06i](../notes.d/NOTE-tmpbs06i.md)), give the question a hard
+precondition in their model. Gradient flow transports mass and never
+creates it, so recovery from rarity is available only where some mass
+already sits. Units that start identical, at a single point rather than
+spread over a separating set, cannot differentiate under gradient flow
+alone. Their experiments show the cost: initialized on {1} × Θ, the flow
+fails with 15 particles and succeeds with 30.
+
+Three more readings bear.
+
+- Marsland, Cui and Mehta, [LIT-1230](../literature.d/LIT-1230.md) ([NOTE-tmp1i8u8](../notes.d/NOTE-tmp1i8u8.md)): under symmetric
+  resource competition, differentiated specialists that each recover from
+  rarity are exactly the binding constraints, and assembly cannot undo an
+  invasion except by killing species. Revision of authority in an
+  analogue built on that class needs an external removal or an
+  asymmetry.
+- Power et al., [LIT-1235](../literature.d/LIT-1235.md) ([NOTE-tmpc6gy4](../notes.d/NOTE-tmpc6gy4.md)): the long-run breakdown, one
+  attractor outcompeting the other, is an instance of the third outcome,
+  entrenched asymmetry, emerging from initially balanced memory.
+- Letten, Ke and Fukami, [LIT-1237](../literature.d/LIT-1237.md) ([NOTE-tmph7u5a](../notes.d/NOTE-tmph7u5a.md)), locate Chesson's
+  stabilizing mechanism in impacts: an operator that limits itself more
+  than others through what it does to a shared resource. Divergent
+  requirements alone mostly equalize.
+
+Chesson, [LIT-1219](../literature.d/LIT-1219.md), which the summary and the first outcome cite as
+unread, is now Unavailable. The question is unchanged and stays Open.

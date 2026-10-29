@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3qyzh
 title: 'Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal'
-version: 5
+version: 6
 history:
 - version: 1
   date: '2026-10-11'
@@ -38,6 +38,12 @@ history:
     relativity of effective structure" as a new organizing idea; it is this
     claim with CLAIM-300 and CLAIM-348 carried to effective descriptions,
     and was not filed as a claim. The claim is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the readings of Shalizi and
+    Crutchfield (NOTE-tmpe4nxg) and Kolchinsky and Wolpert
+    (NOTE-tmpcwd0c). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -200,3 +206,25 @@ not of one kind ([CLAIM-401](CLAIM-401.md)), the leave-one-out that would test t
 effective-description regime). A paper built on it would be a `works`
 question for the owner. A8 and A9 carried the same structure to
 individuation, filed as [CLAIM-405](CLAIM-405.md), which rests on this claim.
+
+## Note of 2026-10-29: two instances, one with the target fixed and one with it chosen
+
+Two readings of 2026-10-29 give instances.
+
+- **Computational mechanics.** Shalizi and Crutchfield, [LIT-1126](../literature.d/LIT-1126.md)
+  ([NOTE-tmpe4nxg](../notes.d/NOTE-tmpe4nxg.md)), make the target explicit: the causal states are a
+  minimal sufficient statistic for the semi-infinite future of the same
+  observable. They are an instance of this claim with the target fixed by
+  construction rather than chosen.
+- **Semantic information.** Kolchinsky and Wolpert, [LIT-1149](../literature.d/LIT-1149.md)
+  ([NOTE-tmpcwd0c](../notes.d/NOTE-tmpcwd0c.md)), take viability as the target. It is a function the
+  analyst picks, and the system's boundary is an input to it. Their §VI
+  then proposes to choose the boundary, the timescale and the initial
+  distribution by maximizing semantic information, which is measured
+  against that viability. A boundary found that way is relative to the
+  chosen viability function. The paper also concedes that negative
+  entropy does not track identity ("both a rhinoceros and a human have
+  low entropy"), so "keeping existing" there means staying concentrated,
+  not staying the same system.
+
+The claim is unchanged.

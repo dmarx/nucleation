@@ -1,0 +1,220 @@
+---
+status: Read
+paper: 'LIT-1217'
+title: 'Castro and Liskov — Practical Byzantine fault tolerance'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from the copy MIT's distributed-systems
+    course (6.824) hosts at
+    https://pdos.csail.mit.edu/6.824/papers/castro-practicalbft.pdf, 14
+    pages, headed "Appears in the Proceedings of the Third Symposium on
+    Operating Systems Design and Implementation, New Orleans, USA,
+    February 1999"; text extracted with pdftotext. USENIX's own legacy
+    page for the paper
+    (usenix.org/legacy/events/osdi99/full_papers/castro/castro_html/castro.html)
+    gives "Pp. 173–186 of the Proceedings", which matches the 14 pages;
+    the authors' own PDF at pmg.csail.mit.edu returned 403 and a reset.
+    Read: the abstract, §§1–9, Figures 1–2 by caption, Tables 1–3 and
+    the 37 references. Extraction dropped most mathematical symbols;
+    the bounds were read from the surrounding prose and the standard
+    form (n = 3f + 1, quorums of 2f + 1). The percentages in Tables 1–3
+    and the phase sums were recomputed from the table values and agree.
+    The technical memos the paper defers to for the full proof [4] and
+    for the MAC-only variant [5] were not read; the journal version
+    (ACM TOCS 2002) is a different paper and was not read.
+date: '2026-10-29'
+summary: >-
+  A state-machine replication protocol that keeps safety with at most
+  ⌊(n − 1)/3⌋ arbitrarily faulty replicas and no timing assumption,
+  needing weak synchrony only for liveness; a three-phase commit within
+  views and a view change that carries prepared requests forward. With
+  MACs in place of signatures, a replicated NFS ran the Andrew benchmark
+  3% slower than Digital Unix's NFS on four replicas, with view changes
+  not yet implemented in the measured library.
+---
+<!-- inactive-ok-file: CLAIM-359 — Proposed; the claim this reading bears on, cited as open -->
+
+# NOTE-tmp4lpyh: Castro and Liskov — Practical Byzantine fault tolerance
+
+## Contribution
+
+The first state-machine replication protocol that stays correct when up to
+f of 3f + 1 replicas behave arbitrarily and the network gives no bounds on
+delay, and that is fast enough to use. Earlier practical systems (Rampart,
+SecureRing) needed synchrony for safety and excluded suspected replicas
+from the group; earlier asynchronous algorithms were feasibility results.
+The paper shows that a replicated file service built on the protocol
+costs a few percent over an unreplicated one on one benchmark.
+
+## Key insight
+
+Agree on order, not on membership. A primary proposes a sequence number;
+two rounds of all-to-all messages make any two quorums of 2f + 1 overlap
+in at least one correct replica, so no two correct replicas can prepare
+different requests at the same view and number. A faulty primary is
+replaced by rotating to the next one, not by voting anyone out, so an
+attacker who slows correct replicas cannot get them excluded. Timing is
+needed only to keep the system moving, never to keep it right.
+
+## Assumptions
+
+- **Network.** Asynchronous: messages may be lost, delayed, duplicated or
+  reordered (§2).
+- **Faults.** Byzantine: a faulty node may do anything, and a strong
+  adversary may coordinate faulty nodes and delay correct ones, but not
+  indefinitely (§2).
+- **Independent failures.** The paper says this needs work in practice:
+  "each node should run different implementations of the service code
+  and operating system and should have a different root password and a
+  different administrator", or N-version programming (§2).
+- **Cryptography.** Signatures cannot be forged, digests are collision
+  resistant (§2).
+- **Determinism.** Replicas are deterministic and start in the same state;
+  non-determinism (NFS timestamps) is resolved by the primary under the
+  protocol (§4.6).
+- **Bound.** At most ⌊(n − 1)/3⌋ replicas faulty; n = 3f + 1 is used
+  because more replicas add cost without resilience (§4).
+- **Liveness only.** Delay(t) must not grow faster than t indefinitely
+  (§3); without some synchrony, FLP rules out a live consensus.
+
+"Non-faulty" means following the algorithm of §4 with an unforged
+signature. The service's specification is taken as given: a faulty client
+can still "write garbage data to some shared file" (§3), and access
+control limits it.
+
+## Key results
+
+- **Safety (§3, §4.5.1).** Linearizability, modified for faulty clients,
+  regardless of how many clients are faulty, with at most f faulty
+  replicas. The invariant: if prepared(m, v, n, i) holds at a correct
+  replica, prepared(m′, v, n, j) is false for m′ ≠ m at every correct j,
+  because two sets of 2f + 1 in 3f + 1 meet in f + 1 replicas, one of
+  them correct. Proof sketched; details in [4].
+- **Optimal resilience (§3).** 3f + 1 is the minimum for asynchronous
+  safety and liveness with f faulty (cited to Bracha and Toueg): a
+  replica must proceed after n − f replies, of which f may be faulty, so
+  n − 2f > f.
+- **Liveness (§4.5.2).** View changes after timeouts that double;
+  joining a view change once f + 1 others have; and a faulty replica
+  can force a view change only as primary, and "the primary cannot be
+  faulty for more than f consecutive views".
+- **Optimizations (§5).** Digest replies, tentative execution (five
+  message delays to four), one-round-trip read-only requests, and MAC
+  "authenticators" in place of signatures except for view changes. A
+  1024-bit RSA signature took 43 ms on a 200 MHz Pentium Pro against
+  10.3 μs for a MAC of a 64-byte message.
+- **Micro-benchmark (Table 1, four replicas, f = 1).** A null read-write
+  operation: 3.35 ms replicated against 0.82 ms unreplicated (309%);
+  read-only 1.62 ms (98%). The computation and communication overheads
+  the text gives, 1.06 + 1.47 ms, sum to the 2.53 ms difference.
+- **Andrew benchmark (Tables 2–3, mean of 10 runs).** BFS 64.48 s against
+  BFS-nr (no replication) 51.07 s, +26%; against Digital Unix NFS-std
+  62.52 s, +3%; with lookup made read-only, 61.07 s, 2% faster than
+  NFS-std. The per-phase times sum to the totals in all three columns.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Safety holds with at most f of 3f + 1 replicas faulty and no synchrony | strong, proof deferred | §4.5.1 sketch; full proof in [4] |
+| C2 | 3f + 1 replicas is the minimum for asynchronous safety and liveness | strong | §3, cited result |
+| C3 | Liveness holds under the weak synchrony assumption | moderate | §4.5.2 informal argument |
+| C4 | A Byzantine-tolerant NFS can run within a few percent of a commercial NFS | moderate | one benchmark, one configuration, f = 1, no faults, view changes unimplemented |
+| C5 | The protocol is more than an order of magnitude faster than Rampart | weak | §7.2 estimate from Rampart's published number, scaled by SPECint92 |
+
+## Method
+
+Replicas move through views; in view v the primary is replica v mod |R|.
+A client sends its request to the primary and accepts a result once f + 1
+replicas return the same one. Normal case: PRE-PREPARE (primary assigns n),
+PREPARE (each backup multicasts; prepared once a replica logs the
+pre-prepare and 2f matching prepares), COMMIT (multicast once prepared;
+committed-local once 2f + 1 matching commits are logged); execute in
+sequence order. Every K requests (100 in the text, 128 in the experiments)
+replicas exchange CHECKPOINT messages; 2f + 1 matching ones make a stable
+checkpoint, garbage-collect the log and move the low and high water marks.
+A view change sends the last stable checkpoint and, for each request
+prepared since, its pre-prepare and 2f prepares; the new primary, with 2f
+view-change messages from others, re-issues pre-prepares for every number
+between the checkpoint and the highest prepared, filling gaps with null
+requests.
+
+## Concepts
+
+- **Byzantine fault**: arbitrary behaviour, including lying and
+  colluding, by a node that has not followed the algorithm.
+- **View**: a numbered configuration with one primary and the rest
+  backups.
+- **prepared / committed-local**: the two certificates above; the first
+  orders requests within a view, the second across views.
+- **Authenticator**: a vector of MACs, one per receiving replica, used in
+  place of a signature; it cannot prove authenticity to a third party,
+  which is why view changes keep signatures.
+- **Stable checkpoint**: a state whose digest 2f + 1 replicas have
+  signed.
+
+## Connections
+
+It descends from Viewstamped Replication and Paxos, which use views and a
+primary for benign faults (§8), and from Lamport, Shostak and Pease's
+Byzantine generals. It is the distributed-systems ancestor of the
+Byzantine-robust learning the anthology holds ([ANTH-LIT-257](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-257.md),
+[ANTH-LIT-344](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-344.md)), where the aggregator plays the replicated state machine's
+part and the bound on faulty participants plays f's.
+
+## Bearing on the record
+
+- **[CLAIM-359](../claims.d/CLAIM-359.md).** A41's limit on it is right and the paper states it
+  itself: correct behaviour is "follow the algorithm in Section 4", and
+  the protocol guarantees that operations are applied consistently, not
+  that they are good; a faulty client "can write garbage data to some
+  shared file" and is checked only by access control (§3). So a
+  Byzantine protocol answers who may act and in what order, against a
+  bounded number of liars, and leaves open what the organization should
+  want. The paper also supplies two governance points the claim can use.
+  The fault bound is meaningless unless failures are independent, and
+  independence has to be built ("a different administrator" per
+  replica). And the design refuses to exclude suspected members, because
+  exclusion on suspicion is itself an attack surface: an attacker who
+  can make correct replicas look slow "until they are tagged as faulty"
+  wins (§1, §8). That is the claim's point that safeguards against
+  capture can themselves be captured, made in 1999 for replicas.
+- **[CASE-108](../cases.d/CASE-108.md).** The case's "role-limited governance" arm, whose failure
+  A41 lists as "collusion", has a quantitative counterpart here: the
+  quorum design tolerates collusion of up to f members of 3f + 1 and
+  nothing beyond. The case could report its results against such a
+  bound. Its "compromised evaluators" variant corresponds to a faulty
+  primary, which this protocol survives because the primary's proposals
+  are checked by everyone and the role rotates.
+- No instruction for machine-learning practice; nothing for the
+  anthology beyond the cross-reference above.
+
+## Limitations
+
+- **What was measured.** Normal-case operation only, four replicas
+  (f = 1), one client, an isolated 10 Mbit/s network, no faults. "The
+  replication library does not implement view changes or retransmissions
+  at present" (§6.1); the paper argues this does not affect the numbers.
+- **Recovery.** Faulty replicas are never repaired; over a long life more
+  than f may fail. The paper notes the omission ("We omit discussion of
+  how nodes recover from faults", §4); the TOCS version adds proactive
+  recovery.
+- **No privacy.** A faulty replica may leak state (§3).
+- **The Rampart comparison** is an estimate scaled by a CPU benchmark
+  ratio, not a measurement.
+- **Errors and slips.** Reference [2], Bracha and Toueg, "Asynchronous
+  Consensus and Broadcast Protocols", Journal of the ACM 32(4), is dated
+  1995 in the list; volume 32 is 1985. The checkpoint interval is 100 in
+  the example of §4.3 and 128 in the experiments (§7.1); not an error,
+  but the reader should not mix them.
+
+## Open questions
+
+- What does the protocol cost under faults and view changes, which the
+  measured library did not implement?
+- What corresponds, for an organization, to the independence the bound
+  needs: how different must two members be before their failures count
+  as independent?

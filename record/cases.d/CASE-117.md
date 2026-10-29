@@ -4,13 +4,20 @@ status: Active
 formerly:
 - CASE-tmprbebk
 title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-23'
   note: >-
     Note of 2026-10-23 added: mixture-of-experts results that already
     show specialization and routing effects. The proposal is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the three mixture-of-experts works
+    read; auxiliary-loss-free balancing is load-based, not
+    contribution-based, and the termination condition holds for a
+    balancing term in the gradient. The design is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -175,3 +182,44 @@ endogenous recovery differs from externally imposed balancing; and whether
 the organization can revise its routing standards in response to failures
 those standards helped cause." [CLAIM-369](../claims.d/CLAIM-369.md)'s coexistence result (with
 [CASE-118](CASE-118.md)'s growth-rate condition) is the record's own formal piece.
+
+## Note of 2026-10-29: the three mixture-of-experts works, read
+
+The three works the note of 2026-10-23 calls registered unread are now
+read, so that no longer holds. Each narrows what it shows.
+
+- **Switch Transformers**, [LIT-1412](../literature.d/LIT-1412.md) ([NOTE-tmpa69pz](../notes.d/NOTE-tmpa69pz.md)). The load-balancing
+  term is there (eq. 4), but it is imposed on the router's dispatch
+  fractions and mean probabilities, not on what experts learn, and the
+  paper never measures specialization or diversity among experts. It is
+  the standard case of imposed balance of load, and says nothing about
+  emergent diversity, which it did not study. Two small data for this
+  study: sampling the router is worse than argmax and jitter slightly
+  better (Appendix C), which bears on the exploration regimes; and
+  rerouting overflow tokens to a second-choice expert did not help
+  (Appendix B), which bears on practical exclusion.
+- **Auxiliary-loss-free load balancing**, [LIT-1414](../literature.d/LIT-1414.md) ([NOTE-tmppnncw](../notes.d/NOTE-tmppnncw.md)). The
+  exchange cited it as a contribution-based control of influence. It is
+  not one. The bias responds to load, the count of tokens an expert was
+  selected for, and to nothing about how much its output helped. In this
+  study's terms it is a usage-based quota on access, a regime of imposed
+  balance that, unlike an auxiliary loss, does not enter the gradient. It
+  does bring an excluded expert back: an expert receiving few tokens has
+  its bias raised until it is selected. It does not measure whether
+  experts specialize.
+- **Mixture-of-experts in continual learning**, [LIT-1411](../literature.d/LIT-1411.md) ([NOTE-tmphutxm](../notes.d/NOTE-tmphutxm.md)).
+  It proves specialization among identically initialized experts, with
+  symmetry broken by routing noise and the order of task arrivals, which
+  matches this study's operators that differ only by initialization and
+  experience, with the caveat that its tasks carry a signal that makes
+  routing separable. Its result that the gate must stop updating for
+  convergence follows from its own gate objective, whose cumulative
+  load-balancing term keeps pulling every gate output together. It is not
+  shown to hold for a router without a balancing term in its gradient.
+  The condition this study can test is the narrower one: when balance is
+  imposed through the routing gradient, does specialization survive
+  continued routing updates? In the paper's model it does not, unless
+  updating stops. Its tasks arrive uniformly, so rare contexts are not
+  modelled.
+
+The design is unchanged.

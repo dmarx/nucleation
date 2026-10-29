@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpuia0a
 title: 'Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -14,6 +14,11 @@ history:
     separate caveat for Adam; the two are one fact, since a constant
     preconditioner is gradient descent in another chart (checked). The
     claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the reading of Désidéri's MGDA
+    note (NOTE-tmpyrrxm). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -167,3 +172,20 @@ P = G⁻¹. Adam's P depends on the gradients and moves in time, so the
 identity holds only step by step. The reply's measure also needs this
 claim's other half: a negative product does not exclude common descent,
 and the chart-invariant test is 0 ∉ conv{g_i}. The claim is unchanged.
+
+## Note of 2026-10-29: a published source for the constructive half
+
+Désidéri's note on the multiple-gradient descent algorithm, [LIT-1212](../literature.d/LIT-1212.md), is
+now read ([NOTE-tmpyrrxm](../notes.d/NOTE-tmpyrrxm.md)). Its Lemma 2.1 and Theorem 2.2 are exactly the
+constructive half of A33's criterion as proved above: if 0 ∉ conv{g_i},
+the minimum-norm point of the hull gives a common strict descent
+direction. The converse, that zero in the hull excludes common strict
+descent, is not stated there; its Lemma 1.2 proves only that
+Pareto-optimality implies stationarity. The one-line proof of the
+converse above stands and needs no source.
+
+Its Remark 3 bears on this claim's line between invariant and
+non-invariant objects. Whether a common direction exists is unchanged by
+positive rescaling of the gradients, while the direction of the
+minimum-norm combination is not, and the author leaves the choice of
+scaling open. The claim is unchanged.

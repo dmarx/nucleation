@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpxpu3p
 title: 'Does transport of evaluative representations between contexts, with the evaluated situation held fixed, admit a connection fixed by independently established relations rather than chosen, and is its holonomy around a loop of contexts ever nontrivial?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,12 @@ history:
     LIT-1820, which carries this question's construction to the forced
     form of an equivariant update and does not answer it, since its
     transports are given. The question is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the reading of Sengupta et al.
+    (NOTE-tmp0gxyg): its connection is fixed by the Fisher metric
+    and not about context. The question is unchanged.
 tags:
 - mathematics
 - ethics
@@ -124,3 +130,19 @@ Prior work on gauge ideas in neuroscience exists (Sengupta et al. (2016),
 named by A19); A19: "These are relevant predecessors, but they do not
 establish a gauge theory of normativity." The relational normative realism
 this would formalize is [TERM-059](../terms.d/TERM-059.md).
+
+## Note of 2026-10-29: a natural connection of the wrong kind
+
+Sengupta, Tozzi, Cooray, Douglas and Friston's neuronal gauge theory,
+[LIT-1215](../literature.d/LIT-1215.md), the nearest published gauge-theoretic treatment of a
+self-organizing system, which A19 cited at U19, is now read
+([NOTE-tmp0gxyg](../notes.d/NOTE-tmp0gxyg.md)). A19 asked where its connection comes from. It comes from
+the Fisher metric: it is the Levi-Civita connection of the belief
+manifold, so it is fixed and not chosen, and its holonomy is the
+manifold's curvature (−1/2 for the univariate normal, checked in the
+reading). But what it transports is a descent direction between tangent
+spaces of one agent's belief manifold, not an evaluation between contexts
+with the situation held fixed. The curvature belongs to the statistical
+family, whatever is evaluated. So the paper supplies a connection that is
+non-arbitrary and nontrivially curved, and not about context. It is not
+an answer. The question is unchanged and stays Open.

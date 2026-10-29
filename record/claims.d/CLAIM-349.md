@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6ap9y
 title: 'An organization''s access to a signal, the signal''s authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -40,6 +40,12 @@ history:
     them the transfer of ACT. The body's "Neither is held yet" and
     "not held in the record" now name the works registered since. The
     claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the readings of Guida et al.
+    (NOTE-tmp2mtd7), which identifies Bond 2018, and RefraMED
+    (NOTE-tmp5ify5). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -247,3 +253,37 @@ until deployment costs little. Not every skill works by changing
 authority. The learned-prior account of how practice reorganizes
 recruitment is [CLAIM-443](CLAIM-443.md); these are functional interpretations, and
 the record holds no reading of Linehan.
+
+## Note of 2026-10-29: Guida et al. and RefraMED, read, and Bond identified
+
+Two works "Where it stands" and "What it does not say" rest on are now
+read.
+
+- **Guida, Minutola and Presti**, [LIT-1218](../literature.d/LIT-1218.md) ([NOTE-tmp2mtd7](../notes.d/NOTE-tmp2mtd7.md)), registered
+  unread above, no longer is. They identify Bond's model, which "Where it
+  stands" says could not be identified uniquely: Bond, F. W. (2018),
+  "Organizational flexibility: creating a mindful and purpose-driven
+  organization". It is still not registered. The paper agrees with this
+  claim that flexibility is context-sensitive and that more control is
+  not more flexibility, and its test of compliance against values is close
+  to A42's RO-DBT translation, less disclosure under tighter control. It
+  does not separate access to a signal from the signal's authority over
+  action: its unit is a repertoire and the consequences it meets, not a
+  signal. So it is a prior transfer of ACT to the organization, as "Where
+  it stands" already grants, and not a prior statement of this claim's
+  three-way split.
+- **RefraMED** (Lynch et al. 2020), [LIT-1223](../literature.d/LIT-1223.md) ([NOTE-tmp5ify5](../notes.d/NOTE-tmp5ify5.md)), confirms
+  A42's two cautions: the evidence is promising but not definitive, and
+  the longer-term findings are less conclusive. The depression difference
+  is large at 7 months (P = 0.023) and not significant at the 12-month
+  primary end-point (P = 0.290). Two points bear more closely. The trial
+  selected on refractory depression with undercontrolled presentations
+  excluded and did not measure overcontrol, so it is no evidence that the
+  treatment's effect runs through overcontrol. And what persisted was the
+  change on inflexibility and emotional approach coping, significant at 12
+  and 18 months, while the change on depression did not. Those are the two
+  properties this claim makes the mark of adaptive regulation. That fits
+  the claim's caution that the clinical evidence does not carry over, and
+  it does not test the claim, which is about organizations.
+
+The claim is unchanged.

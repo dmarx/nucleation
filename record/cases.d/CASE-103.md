@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpothd4
 title: 'A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Gioia, Schultz and Corley read; their
+    identity–image model is the insider-identification path, without
+    the selection path. The case is unchanged.
 standing: stipulated
 kind: specimen
 tags:
@@ -25,7 +32,6 @@ supports:
 - CLAIM-402
 ---
 
-<!-- inactive-ok-file: LIT-1135 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-103: A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it
 
 ## The case
@@ -61,3 +67,17 @@ Schultz and Corley's identity–image feedback ([LIT-1135](../literature.d/LIT-1
 organizational-studies form. A4's discriminating variation: compare
 judgments of audiences who know the reputation with those who do not,
 against the same observed behaviour.
+
+## Note of 2026-10-29: Gioia, Schultz and Corley, read
+
+[LIT-1135](../literature.d/LIT-1135.md), which "What it can show" cites as unread, is now read
+([NOTE-tmppq751](../notes.d/NOTE-tmppq751.md)), so that no longer holds. A2's split is close to the
+paper's split between identity, reputation and construed external image,
+and the paper's process model is A5's insider-identification path:
+members compare who they think they are with who they think outsiders
+think they are, and change one or the other. The paper also makes
+reputation the slow variable ("relatively stable, long-term"), against an
+identity that can shift quickly, which fits a reputation that outlasts
+the behaviour that earned it. It does not study a reputation that is
+wrong, and it does not consider A5's selection path, a reputation that
+attracts or repels members. The case is unchanged.

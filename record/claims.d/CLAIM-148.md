@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpro4wi
 title: 'A matrix factorization is identified only up to an invertible change of latent coordinates, which weight decay narrows to rotations and nonnegativity to rescalings and permutations plus a data-dependent remainder; such a gauge is not a symmetry of the relational system, and automorphisms of the data act on the factors only when the factorization is identifiable'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -29,6 +29,12 @@ history:
     extended the same day with three works read for the exchange, whose
     models carry the gauge beyond the permutations they name. The claim
     is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the reading of Sengupta et al.
+    (NOTE-tmp0gxyg): its gauge freedom is reparameterization. The
+    claim is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -247,3 +253,17 @@ further than they say.
   the features of one category are never separated.
 
 The claim is unchanged.
+
+## Note of 2026-10-29: the neuronal gauge theory's freedom is the representational kind
+
+Sengupta, Tozzi, Cooray, Douglas and Friston, [LIT-1215](../literature.d/LIT-1215.md), read in
+[NOTE-tmp0gxyg](../notes.d/NOTE-tmp0gxyg.md), was filed to check whether its gauge freedom is more than
+the kind this claim holds. It is not. Its gauge freedom is
+reparameterization of the variational family: the natural gradient is
+"invariant under re-parameterisation", and the Riemann gradient
+"automatically guarantees gauge-invariance by breaking the symmetry
+within a model" (Fig. 1 caption). That is a change of coordinates on the
+same distributions, the representational kind this claim separates from
+a symmetry of what is modelled. The one symmetry that might be more,
+between models with equal evidence, is proposed in the paper's
+conclusions and not constructed. The claim is unchanged.

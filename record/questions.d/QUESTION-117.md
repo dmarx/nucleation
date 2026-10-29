@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpamn8i
 title: 'Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -29,6 +29,12 @@ history:
     be made. Extended the same day with the lab's v2.3 matched
     comparator (dmarx/PerspectiveLab@e9efcf4). The question is
     unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the readings of Holme and Newman,
+    Gross and Blasius, DeMarzo, Vayanos and Zwiebel, and Guida et
+    al. The question is unchanged.
 tags:
 - complex-systems
 - network-science
@@ -48,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1318 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
-<!-- inactive-ok-file: LIT-1128 LIT-1134 LIT-1139 LIT-1146 THEORY-143 THEORY-146 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-143 THEORY-146 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 # QUESTION-117: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
 
@@ -196,3 +202,42 @@ against 0.004514 over 24 seeds. An 8-coefficient generic polynomial
 leads in one familiar regime, within seed noise. The structural basis is not priced in
 description length, and DeGroot–Friedkin, adaptive networks and
 persuasion bias are still not among the rivals.
+
+## Note of 2026-10-29: three of the predecessors, read
+
+Holme and Newman ([LIT-1128](../literature.d/LIT-1128.md)), Gross and Blasius ([LIT-1139](../literature.d/LIT-1139.md)) and DeMarzo,
+Vayanos and Zwiebel ([LIT-1134](../literature.d/LIT-1134.md)) are now read, so the summary's "registered
+unread" and the note of 2026-10-21's "still unread" no longer hold for
+them. Each sets a different floor.
+
+- **Holme and Newman** ([NOTE-tmpnzvd7](../notes.d/NOTE-tmpnzvd7.md)). It has no influence weights, no
+  authority, no evidence and no turnover: opinions are labels, every tie
+  is equal, and the dynamics is absorbing. What it reproduces
+  economically is fragmentation into like-minded camps against one
+  dominant camp, controlled by the ratio of selecting one's contacts to
+  being influenced by them, with a critical point between. It cannot
+  express an outcome that depends on who has authority over whom. An
+  answer here that rests on fragmentation alone would be matched by it.
+- **Gross and Blasius** ([NOTE-tmpwffnc](../notes.d/NOTE-tmpwffnc.md)). The review supplies vocabulary
+  and a list of mechanisms, not tools: no model in it has authority or
+  role, and its only weighted, directed cases are coupled oscillators.
+  Two items bear. Like-and-like reinforcement producing persistent leader
+  and follower classes is a predecessor to beat if endorsement
+  concentration is offered as new. Moment closure, a few variables for
+  state plus topology, is the kind of economical reduction "as
+  economically" invites. Its summary of Holme and Newman is wrong, so it
+  should not be used as a pointer to that model.
+- **DeMarzo, Vayanos and Zwiebel** ([NOTE-tmpsm8b9](../notes.d/NOTE-tmpsm8b9.md)). The fixed-weight model
+  already gives one of A15's suite, capture without fidelity: by its
+  Theorem 2 an unbalanced network's consensus departs from the
+  precision-weighted optimum with no change in anyone's accuracy. Its
+  weights never move, so it has no hysteresis and no feedback from
+  outcome to authority, and operator turnover would only change the
+  listening matrix. Whatever the coupled model claims beyond
+  position-weighted consensus has to come from moving weights.
+
+Guida, Minutola and Presti, [LIT-1218](../literature.d/LIT-1218.md) ([NOTE-tmp2mtd7](../notes.d/NOTE-tmp2mtd7.md)), demand that an
+agent's leverage be measured independently of how far its output
+spreads. That is the circularity guard an answer here needs.
+
+The question is unchanged and stays Open.

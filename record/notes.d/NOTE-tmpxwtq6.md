@@ -1,0 +1,183 @@
+---
+status: Read
+paper: 'LIT-1129'
+title: 'Zhang et al. — Dynamical reversibility and causal emergence based on SVD'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from arXiv's own copy, v6 of 11 March 2025
+    (https://arxiv.org/pdf/2402.15054, 55 pages with the supplement), text
+    extracted with pdftotext. Read: the abstract, §§1–4, the figure
+    captions, the 51 references and Supplements A–F with their proofs.
+    Figures were read from captions and text only; no number was taken
+    from a chart. Checked by record script (2026-10-29): the singular
+    values (1.063, 0.805, 0.351), EI (0.664) and ∆Γ (0.194) of the 3×3
+    example in B.3; EI = 0.811 and Γ = 2 for the 4×4 example of Fig. 1(c);
+    the stated Γ, γ and ∆Γ of Figs. 3 and 4 against one another
+    (∆Γ = Γ(1/r − 1/N)); the proofs of Lemma 7, Theorem 1 and
+    Proposition 4; and Proposition 5, which is false (see Limitations).
+    The published version (npj Complexity 2, 3, 2025) was not compared.
+date: '2026-10-29'
+summary: >-
+  Measures how close a Markov transition matrix is to a permutation by
+  Γ_α = Σσᵢ^α of its singular values, shows log Γ_α − log N ≤ EI ≤
+  (2/α) log Γ_α, and defines causal emergence without a coarse-graining as
+  the rise in the average singular value when those at or below a
+  threshold ε are dropped. With ε = 0 it is a rank test; with ε > 0 it
+  depends on ε, and any matrix with unequal singular values shows it for
+  some ε. Its SVD-plus-k-means coarse-graining matches EI maximization on
+  Hoel's Boolean networks, but its claim that the lumping commutes with
+  the dynamics for any grouping (Proposition 5) is false.
+---
+<!-- inactive-ok-file: THEORY-257 — Proposed; named as related work the paper cites, nothing here rests on it -->
+
+# NOTE-tmpxwtq6: Zhang et al. — Dynamical reversibility and causal emergence based on SVD
+
+## Contribution
+
+It ties Hoel's effective information to a spectral quantity and uses the
+spectrum to define causal emergence without naming a coarse-graining. A
+TPM is "dynamically reversible" if it is invertible with a stochastic
+inverse, which holds exactly for permutation matrices; Γ_α, the Schatten
+α-quasi-norm to the power α, measures how near a TPM is to one. Emergence
+is then the gain in Γ per retained dimension when small singular values
+are cut. A coarse-graining by SVD projection and k-means is offered for
+comparison with EI maximization.
+
+## Key insight
+
+EI is high when rows of the TPM are distinct one-hot vectors, and so is
+Σσᵢ: both peak, at N and log N, exactly at permutations. Near-zero
+singular values mark redundant "information pathways" (rows that are
+nearly linear combinations of others). Discarding them raises the average
+singular value, and that rise is a coarse-graining-free stand-in for what
+a good coarse-graining would gain in EI.
+
+## Assumptions
+
+- **A known discrete Markov chain**, TPM P, N states; EI with uniform
+  interventions as in Hoel et al. 2013.
+- **α ∈ (0, 2)** in Definition 2; α = 1 (the nuclear norm) in all
+  experiments. Proposition 3 is stated for α ∈ (0, 1) and proved for
+  (0, 2).
+- **A threshold ε** for vague emergence, chosen "according to the
+  relatively clear cut-offs in the spectrum".
+- **Irreducible, recurrent P** with a stationary distribution, for the
+  coarse-graining method of §4.
+
+## Key results
+
+- **Proposition 1.** P is dynamically reversible iff it is a permutation
+  matrix. Lemma 3: dynamical reversibility implies time reversibility.
+- **Proposition 2 and Lemma 9.** Γ_α ≤ N with equality iff P is a
+  permutation; Γ_α ≥ 1 with equality iff every row is uniform. Lemma 11:
+  Γ_α ≥ ‖P‖_F^α.
+- **Theorem 1.** log Γ_α − log N ≤ EI ≤ (2/α) log Γ_α. The tighter
+  EI ≤ log Γ_α is seen numerically and left unproved; EI ∼ log Γ_α is
+  conjectured from simulated matrices.
+- **Definitions 3–4.** Clear CE: rank r < N, degree ∆Γ_α = Γ_α(1/r −
+  1/N). Vague CE at ε: ∆Γ_α(ε) = Σ_{i≤r_ε} σᵢ^α / r_ε − Σ_i σᵢ^α / N,
+  with r_ε = max{i : σᵢ > ε}. Proposition 4: 0 ≤ ∆Γ_α(ε) ≤ N − 1.
+- **Examples.** Hoel's 4-state Boolean network: 4 non-zero singular
+  values, ∆Γ = 0.75; with Gaussian noise (std 0.03), ε = 0.2 gives
+  ∆Γ = 0.69. A 6-node network (64 states): 8 non-zero values, ∆Γ = 2.23,
+  Γ = 20.39, γ = 0.32, reduced to γ = 1.0. A 100-node, 5-block SBM:
+  ε = 0.3, r_ε = 5, ∆Γ = 0.56. Local TPMs of elementary CA rule 40 show
+  clear CE at some cells.
+- **Coarse-graining (§4).** Project rows on the top r_ε right singular
+  vectors, cluster by k-means into r groups, lump by stationary flow
+  (Klein and Hoel's method). On Hoel's examples it gives the same or a
+  higher-EI macro chain (E.1).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Γ_α is maximal exactly at permutation matrices | strong | Proposition 2, proof checked |
+| C2 | EI is bounded above and below by affine functions of log Γ_α | strong | Theorem 1, proof checked |
+| C3 | EI ∼ log Γ_α | weak | simulated softened permutations, softened degenerate and random TPMs |
+| C4 | CE can be quantified independently of any coarse-graining | moderate for ε = 0; weak for ε > 0 | Definitions 3–4; the ε > 0 measure moves the choice into ε |
+| C5 | The SVD and EI-maximization frameworks are equivalent | weak | agreement on Hoel's Boolean networks; cosine similarities for SBMs and CA |
+| C6 | The SVD lumping commutes with the dynamics for any grouping | false | Proposition 5; counter-example below |
+
+## Method
+
+SVD of P; choose ε; P̃ = P V_{N×r}; k-means on the rows of P̃ into r
+groups (Φ); stationary flow F = diag(μ)P, F′ = ΦᵀFΦ, P′ the row-normalized
+F′.
+
+## Concepts
+
+- **Dynamical reversibility**: invertibility of P with a stochastic
+  inverse; not the usual time reversibility of a stationary chain.
+- **Approximate dynamical reversibility Γ_α**, and its per-state average
+  γ_α = Γ_α/N.
+- **Information pathway**: a row of the TPM, read as a channel.
+- **Clear and vague causal emergence**: rank-deficiency, and
+  near-rank-deficiency at a stated ε.
+
+## Connections
+
+It builds on Hoel et al. 2013 ([LIT-1038](../literature.d/LIT-1038.md), [THEORY-222](../theory.d/THEORY-222.md)) and Hoel 2017. It
+answers Eberhardt and Lee's criticisms of EI maximization (ambiguity and
+non-commutativity, cited [11], not registered) with the 3×3 example of
+B.3. It names Rosas et al.'s information decomposition ([LIT-1244](../literature.d/LIT-1244.md)) and
+Barnett and Seth's dynamical independence ([THEORY-257](../theory.d/THEORY-257.md)) as alternatives
+tied to the data distribution. Hoel's CE 2.0 ([LIT-1136](../literature.d/LIT-1136.md), S3) adapts it by
+dropping σ₁, and Jansma and Hoel ([LIT-1123](../literature.d/LIT-1123.md)) cite it as needing to be
+"expanded" to CE 2.0. Thibeault et al.'s low-rank hypothesis is cited as
+related.
+
+## Bearing on the record
+
+- **[CLAIM-164](../claims.d/CLAIM-164.md).** The LIT says the paper's singular-value form is close to
+  the claim's gaps. It is, and the reading sharpens how. The paper's
+  coarse-graining keeps the span of the top r_ε singular vectors and only
+  then clusters, so its object is the subspace, as [CLAIM-164](../claims.d/CLAIM-164.md) says it
+  must be. But its definitions do not require a gap: Definition 4 gives
+  vague emergence for any ε at or above σ_N and below σ₁, so every TPM
+  whose singular values are not all equal shows it at some ε, and the
+  degree varies with ε. The paper picks ε at "relatively clear cut-offs";
+  that is [CLAIM-164](../claims.d/CLAIM-164.md)'s criterion, used informally and not stated. Proposed
+  dated note for [CLAIM-164](../claims.d/CLAIM-164.md) below.
+- **[QUESTION-115](../questions.d/QUESTION-115.md).** The LIT filed it as the 2024 candidate "on searching
+  for coarse-grainings rather than assuming them". It is the reverse: it
+  avoids the search by reading the spectrum, and recovers a partition
+  afterwards by k-means. It is a criterion for whether a state space is
+  compressible, not for which variables form a system.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Proposition 5 is false.** It claims P·Φ = Φ·P′ "for arbitrary
+  clustering projection Φ", and the proof uses (Φᵀ)⁻¹, which does not
+  exist: Φ is N × r. Two states lumped together must have equal block
+  sums of their rows for any P′ to satisfy it. A record check on the
+  B.3 matrix, made irreducible by setting its third row to (0.1, 0.1,
+  0.8), with grouping {1,2},{3}, gives P·Φ rows (0.9, 0.1) and (0.8, 0.2)
+  for the two lumped states, which no Φ·P′ can reproduce. The paper's own
+  B.3 shows the same non-commutativity for the EI-optimal grouping. The
+  stationary-flow lumping preserves the stationary distribution, not the
+  dynamics.
+- **Proposition 1's proof** writes an invertible P as UΛU⁻¹ with U
+  orthonormal, which assumes P is diagonalizable by a unitary. The result
+  itself is a standard one; the argument has a gap.
+- **Vague emergence is ε-relative**, so "independent of coarse-graining"
+  holds for clear emergence only.
+- **State spaces, not variables.** The authors list this, and the
+  difficulty of estimating TPMs from data, as weak points (§3).
+- **Slips.** Proposition 3's α range differs from its proof's; the proof
+  of Theorem 1 cites Lemma 9 for Lemma 11; Lemma 6 lists the singular
+  values as √n₁, √n_r, …, √n_r; Fig. 4's caption assigns "α = 0, β = 1"
+  to two different groups of micro-states; one lemma is cited as
+  "Lemma ??". Code is available only on request.
+
+## Open questions
+
+- Is there a principled ε, for instance the widest gap in the spectrum,
+  that makes vague emergence a property of P alone?
+- With a lumping that does commute (exact lumpability), how do ∆Γ and the
+  EI gain compare?

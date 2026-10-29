@@ -85,3 +85,21 @@ unwilling, or willing and not compellable by any court.
   complex and noted the difference: "A coalition sufficient for an outcome
   is not the same kind of object as a subset of mutually compatible
   demands."
+
+## Note of 2026-10-29: the order presupposes it, and Fiss on corrective duty
+
+Two readings of this date bear on the claim's edges, not on its logic.
+
+- **The order in *Abrego Garcia***, [LIT-1606](../literature.d/LIT-1606.md) ([NOTE-tmpgunf9](../notes.d/NOTE-tmpgunf9.md)), behind
+  [CASE-175](../cases.d/CASE-175.md), says nothing about joint ability. It presupposes that the
+  United States can take steps toward a release that El Salvador would
+  carry out.
+- **Fiss**, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-tmpafym3](../notes.d/NOTE-tmpafym3.md)), is a precedent for the separate
+  normative mapping "What it does not say" asks for. In his structural
+  suit the wrongdoer disappears: "the costs and burdens of reformation are
+  placed on the organization, not because it has 'done wrong' … but
+  because reform is needed". Corrective duty is assigned to an addressee
+  without a finding of individual fault. It is one way joint ability could
+  be mapped to duty; it is not part of this claim.
+
+The claim is unchanged.

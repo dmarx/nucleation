@@ -1,0 +1,161 @@
+---
+status: Read
+paper: 'LIT-1231'
+title: 'Mehta, Cui, Wang and Marsland — Constrained optimization as ecological dynamics'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from arXiv 1809.04221v1 (12 September 2018,
+    https://arxiv.org/pdf/1809.04221, 12 pages including the appendix),
+    text extracted with pdftotext; it is the only arXiv version. The
+    Physical Review E version (2019) is not open and was not compared, so
+    corrections made in review are not reflected here. Read: the main
+    text, Figures 1–3 captions, the appendix (the Lagrangian dual, the
+    reduction to Lotka–Volterra, the extra comparison figure, the full
+    cavity derivation) and the references. Figures were read from
+    captions and text; no number was taken from a chart. The dual and the
+    reduction were checked by hand; the cavity self-consistency equations
+    were followed but not solved.
+date: '2026-10-29'
+summary: >-
+  Any minimization of f(R) over R ≥ 0 under constraints g_i(R) ≤ 0 has the
+  KKT points of a consumer–resource dynamics as its steady states:
+  variables are resources, each constraint is a species whose abundance is
+  its Lagrange multiplier, and binding constraints are the surviving
+  species. For quadratic programs the dynamics is MacArthur's model, and
+  the Lagrangian dual is a generalized Lotka–Volterra system. A cavity
+  solution then gives the statistics of random quadratic programs, in
+  agreement with numerics at M = 100.
+---
+
+# NOTE-tmpwkbtk: Mehta, Cui, Wang and Marsland — Constrained optimization as ecological dynamics
+
+## Contribution
+
+A dictionary from inequality-constrained optimization to ecology, stated
+as a dynamical system whose steady states satisfy the KKT conditions, and
+its use to import a statistical-physics solution of random ecosystems
+into random quadratic programming. It is the optimization-side companion
+of [LIT-1230](../literature.d/LIT-1230.md).
+
+## Key insight
+
+A Lagrange multiplier is a population. It grows when its constraint is
+violated and dies when the constraint is slack, so the multipliers that
+survive mark the binding constraints, and "competitive exclusion" among
+species is the geometric fact that only the most stringent of similar
+constraints binds.
+
+## Assumptions
+
+- Optimization (1): minimize f(R) over R ≥ 0 with g_i(R) ≤ 0, i = 1, …, S.
+- Dynamics (2): dλ_i/dt = λ_i g_i(R); dR_α/dt = [−∂_α f(R) − Σ_j λ_j
+  ∂_α g_j(R)] R_α, on λ, R ≥ 0. Steady states satisfy the KKT conditions
+  and positivity; which local optimum is reached is not addressed.
+- QP in the form (3): minimize ‖R − K‖² subject to Σ_α c_iα R_α ≤ m_i and
+  R ≥ 0.
+- RQP: K_α, m_i Gaussian; c_iα Gaussian with mean μ_c/M and variance
+  σ_c²/M; M/S fixed as M, S → ∞; replica symmetry.
+
+## Key results
+
+- **The dual model.** With f the QP objective, (2) is MacArthur's
+  consumer–resource model, dλ_i/dt = λ_i(Σ_α c_iα R_α − m_i), dR_α/dt =
+  R_α(K_α − R_α) − Σ_j λ_j c_jα R_α.
+- **Lagrangian dual = Lotka–Volterra.** Maximizing Σ_i λ_i[κ_i − ½ Σ_j
+  α_ij λ_j] over λ ≥ 0, with κ_i = Σ_α K_α c_iα − m_i and α_ij = Σ_α c_iα
+  c_jα, both summed over resources with R*_α ≠ 0; its optima are the steady
+  states of dλ_i/dt = λ_i(κ_i − Σ_j α_ij λ_j), which is also the
+  fast-resource limit of the MCRM, using R*_α = max[0, K_α − Σ_j c_jα λ_j].
+- **Random QP.** Cavity equations (46), (55), (59)–(67) give the
+  surviving fractions, moments and susceptibilities; f(R_min)/M, M*/M and
+  S*/S agree with CVXOPT optima averaged over 50 problems at M = 100, and
+  with the integrated MCRM (Fig. 3).
+- **Behaviour.** As S/M grows, f(R_min)/M rises from 0 and plateaus; the
+  fraction of active constraints falls; larger σ_c gives more active
+  constraints. The authors read the plateau as species packing and the
+  fall as limiting similarity.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Steady states of (2) satisfy the KKT conditions of (1) | strong | direct check |
+| C2 | QP's Lagrangian dual is a generalized Lotka–Volterra system with α = CCᵀ over surviving resources | strong | appendix derivation, checked |
+| C3 | The cavity solution describes random QP in the large-M limit | moderate | replica-symmetric derivation; numerics at M = 100 |
+| C4 | Similar constraints exclude one another as similar species do | moderate | interpretation of C3's numerics |
+
+## Method
+
+1. Introduce a multiplier λ_i per inequality and treat it as a species
+   with growth rate g_i(R).
+2. Let each variable R_α follow the negative gradient of the Lagrangian,
+   multiplied by R_α to keep it nonnegative.
+3. For random instances, add one species and one resource to a system of
+   size (S, M), expand to first order in the perturbation, and close the
+   equations by treating the sums as Gaussian (cavity method).
+
+## Concepts
+
+- **Active constraint**: g_i(R_min) = 0, λ_i > 0; a surviving species.
+- **K_eff**: K_α − Σ_j λ_j c_jα, the effective capacity a resource sees
+  after consumption.
+- **Species packing**: the plateau in the number of active constraints a
+  random program supports as constraints are added.
+
+## Connections
+
+The cavity solution is Advani, Bunin and Mehta (2018); the MCRM is
+MacArthur (1970); neither is registered. [LIT-1230](../literature.d/LIT-1230.md) generalizes the
+symmetric case to all niche models and gives the objective its
+environmental reading. The multiplier-as-population form is the same KKT
+structure as Chizat and Bach's optimality condition for measures
+([LIT-1232](../literature.d/LIT-1232.md)).
+
+## Bearing on the record
+
+- **[CLAIM-369](../claims.d/CLAIM-369.md)** cites this paper and [LIT-1230](../literature.d/LIT-1230.md) for "the general duality".
+  The reading confirms the citation and fixes its direction. Here the
+  species are multipliers of constraints in resource space, and the
+  Lotka–Volterra form with α_ij = Σ c_iα c_jα and κ_i = Σ K_α c_iα − m_i is
+  the dual. That is [CLAIM-369](../claims.d/CLAIM-369.md)'s A = UᵀU and r = Uᵀb − c, with U = Cᵀ, b = K
+  and c = m. The claim's objective is therefore a dual objective. Both
+  sums run only over resources that survive, which is the same boundary
+  noted in the reading of [LIT-1230](../literature.d/LIT-1230.md).
+- **[QUESTION-135](../questions.d/QUESTION-135.md)** asks when spectral differentiation among features
+  matches coexistence. In random QP, the variance σ_c of the constraint
+  vectors sets how many survive. More differentiated constraints
+  coexist more, a large-system instance of the question's suggestion,
+  with the supply K and the costs m entering through κ, as [CASE-118](../cases.d/CASE-118.md)
+  found for two components.
+- No instruction for machine-learning practice; nothing for the
+  anthology.
+
+## Limitations
+
+- **Errors in this version.**
+  - Main text: "κ_i = Σ_α K_α (c_iα − m_i)". The appendix's eq. (11),
+    Σ_α K_α c_iα − m_i, is right; the main-text form subtracts m_i once
+    per resource.
+  - KKT list: complementary slackness written "λ_i(g_i(R_min) − m_i) =
+    0", with a stray m_i, and "for all i = 1, …, M" where S is meant.
+  - Appendix eq. (13): "dR_α/dt = R_α[(K_α − R_α) − Σ_j λ_j c_jα]R_α", an
+    extra factor R_α.
+  - Eq. (24): "λ = M/S" where γ is meant.
+  - "By going to the eigenbasis of Q, we can always rewrite the QP
+    problem as minimizing a square distance": rescaling by Q^{1/2}
+    changes R ≥ 0 into a general polyhedral constraint, and fails for
+    singular Q, so the form (3) is a special case, not a reduction.
+  - (3) has ‖R − K‖² where the dynamics and appendix use ½‖R − K‖²; a
+    scale only.
+- Steady states, not convergence: the paper does not show that (2)
+  reaches the optimum from any start, though for convex QP the
+  MacArthur Lyapunov function does.
+- Replica symmetry is assumed, not checked.
+
+## Open questions
+
+- Which nonconvex programs map to ecologies with alternative stable
+  states, and does assembly order then pick the local optimum?

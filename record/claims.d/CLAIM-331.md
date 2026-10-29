@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-16'
@@ -46,6 +46,12 @@ history:
     outlast ...': 'because' made slowness what makes them levels,
     which the title denies and CASE-116's arm A refutes. The claim is
     otherwise unchanged. Status Proposed to Active.
+- version: 9
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the readings of Flack 2012
+    (NOTE-tmp0pm1e) and Medrano, Friston and Zeidman
+    (NOTE-tmpnajxu). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -239,3 +245,25 @@ off the compositional criterion. "Characteristically" has behind it a
 mechanism for gapped nearly decomposable systems and two stipulated
 specimens ([CASE-102](../cases.d/CASE-102.md) and [CASE-098](../cases.d/CASE-098.md) are stipulated), not a survey; A4's
 question of scope stays open in that sense.
+
+## Note of 2026-10-29: Flack 2012 and Medrano et al., read
+
+Two works read on this date bear on the facet. Neither is a test of it.
+
+- **Flack 2012**, [LIT-1122](../literature.d/LIT-1122.md) ([NOTE-tmp0pm1e](../notes.d/NOTE-tmp0pm1e.md)), supports the mark and adds a
+  condition this claim does not state: a slow variable founds a level
+  only when the components can detect and use it (§5a). That is
+  [CLAIM-327](CLAIM-327.md)'s question again, which the claim already defers to. The paper
+  also states the converse limit: a slow variable must not change too
+  slowly, or it stops tracking fighting ability.
+- **Medrano, Friston and Zeidman**, [LIT-1145](../literature.d/LIT-1145.md) ([NOTE-tmpnajxu](../notes.d/NOTE-tmpnajxu.md)), is the
+  likeliest candidate for A8's "2024" paper. It treats Haken's slaving
+  principle and the Haken–Kelso–Bunz model a paragraph each, as
+  motivation, with no mathematics. Its higher levels are slower by
+  construction ("each level of the hierarchy accounts for a different
+  temporal scale"), so, as the note of 2026-10-20 said of slow feature
+  analysis, they are not evidence that levels are slower. What it adds
+  is a test for when a slower level earns its place: the free-energy
+  comparison of models with and without it.
+
+The claim is unchanged.

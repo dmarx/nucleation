@@ -161,3 +161,18 @@ verdict the system leaves unsettled, which is what defeated_if asks for.
 them. [CLAIM-387](CLAIM-387.md) is a demonstrated case of part 3: for one target, the
 optimal partitions at two budgets are {0,1,2 | 3} and {0,1 | 2,3}, neither
 refining the other.
+
+## Note of 2026-10-29: a court's criterion, fixed in advance
+
+[CASE-175](../cases.d/CASE-175.md) illustrates this claim with three boundaries for one detention
+arrangement: who held the prisoners, who selected and sent them, and who
+could bring about their release. *El-Masri*, [LIT-1619](../literature.d/LIT-1619.md), read in
+[NOTE-tmps22mh](../notes.d/NOTE-tmps22mh.md), separates custody, control and responsibility in much the
+same way, and on a criterion stated in advance: responsibility follows
+the State's having "assumed control over an individual" (§ 233) and its
+facilitation, wherever the custody then lay. Under that criterion the
+sending State is responsible for the detention abroad (Article 5) and for
+the exposure to risk (Article 3), not for the receiving state's acts
+(§ 212). It is a worked case of this claim's point: once the criterion is
+fixed, the verdict is settled, and the boundary it draws need not be the
+geographical one. The claim is unchanged.

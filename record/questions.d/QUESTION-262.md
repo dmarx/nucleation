@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmp29kxz
 title: 'When cooperation across a relation''s prevailing perspective changes how one party takes the other, does it change only the state of that party''s interpretive organization or also its coupling, how far outcomes may revise the governing interpretation, and can taking part be told experimentally from receiving information of equal favourable content?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Paluck, Green and Green and Kalla and
+    Broockman read; neither isolates taking part from receiving
+    information. The question is unchanged.
 tags:
 - social-science
 - complex-systems
@@ -20,6 +27,7 @@ summary: >-
   generated and transformed, to one mechanism, [CLAIM-430](../claims.d/CLAIM-430.md)'s invitation,
   and one distinction, [CLAIM-429](../claims.d/CLAIM-429.md)'s state against coupling.
 ---
+<!-- inactive-ok-file: LIT-1413 — Unavailable since 2026-10-29; cited in the body and the note of that date for the claim it is reported to make, nothing here rests on it -->
 
 # QUESTION-262: When cooperation across a relation's prevailing perspective changes how one party takes the other, does it change only the state of that party's interpretive organization or also its coupling, how far outcomes may revise the governing interpretation, and can taking part be told experimentally from receiving information of equal favourable content?
 
@@ -59,3 +67,24 @@ cooperation, since framing operations need not commute ([CLAIM-052](../claims.d/
 
 An answer at the level of states, if every effect is reproduced by a
 changed starting point with fixed coupling, would defeat [CLAIM-429](../claims.d/CLAIM-429.md).
+
+## Note of 2026-10-29: the contact review and the field experiments, read
+
+Two works this question leans on are now read, and neither supplies its
+contrasts.
+
+- **Paluck, Green and Green**, [LIT-1420](../literature.d/LIT-1420.md) ([NOTE-tmpsnvbw](../notes.d/NOTE-tmpsnvbw.md)). On randomized
+  evidence with delayed outcomes, "contact reduces prejudice" holds in
+  direction and is qualified in size: 0.25 for ethnic and related targets,
+  near zero in the pre-registered field trials. "Often generalizes"
+  ([LIT-1413](../literature.d/LIT-1413.md), Unavailable) is untested there: the review's outcomes mostly
+  concern the group met, and its pooling does not separate generalization
+  to the group from generalization to other groups. No included study
+  isolates taking part from receiving information.
+- **Kalla and Broockman**, [LIT-1407](../literature.d/LIT-1407.md) ([NOTE-tmpwypf3](../notes.d/NOTE-tmpwypf3.md)), behind [CASE-147](../cases.d/CASE-147.md). In
+  Experiment 2 a stranger's video narrative did as well as both parties
+  telling stories, so the contrast between information and cooperation is
+  not the one its arms draw. It measures no behaviour and no
+  generalization to other groups.
+
+The question is unchanged and stays Open.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-164
 title: 'What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-11'
@@ -32,6 +32,11 @@ history:
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added, from the reading of Nadler et al. (NOTE-986). The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the reading of Zhang et al.
+    (NOTE-tmpxwtq6). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -126,3 +131,15 @@ holds needs a further step, which the gap does not supply.
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-078](../theory.d/THEORY-078.md) and [THEORY-084](../theory.d/THEORY-084.md) from `grounds` to `corroborated_by`. As the note of 2026-10-19 says, "This claim does not need them: its core is Davis–Kahan."
+
+## Note of 2026-10-29: Zhang et al. keep the subspace but do not require the gap
+
+Zhang et al.'s SVD account of causal emergence, [LIT-1129](../literature.d/LIT-1129.md), is now read
+([NOTE-tmpxwtq6](../notes.d/NOTE-tmpxwtq6.md)). Its coarse-graining keeps the span of the top r_ε
+singular vectors and only then clusters, so its object is the subspace,
+as this claim says it must be. But its definitions do not require a gap.
+Its Definition 4 gives vague emergence for any ε at or above σ_N and below
+σ₁, so every transition matrix whose singular values are not all equal
+shows it at some ε, and the degree varies with ε. The paper picks ε at
+"relatively clear cut-offs". That is this claim's criterion, used
+informally and not stated. The claim is unchanged.

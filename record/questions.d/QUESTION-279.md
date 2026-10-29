@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpivy6b
 title: 'What would certify that no remedy is available to an institutional arrangement, rather than that its present procedures failed to find, authorize or carry one out before the deadline?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the Abrego Garcia order and El-Masri
+    read; each court declines to take a party's account of itself on
+    its say-so. The question is unchanged.
 tags:
 - society-and-governance
 - epistemology
@@ -86,3 +93,24 @@ plans and escalation paths, unstructured search, or complementary
 information without a channel), alike in routine operation and parting
 under an urgent correction; A10: "The project should not take the
 divergence alone as evidence for its ontology."
+
+## Note of 2026-10-29: two courts' answers to a party's account of itself
+
+Two readings of this date give partial answers, of one shape.
+
+- **The Supreme Court in *Abrego Garcia***, [LIT-1606](../literature.d/LIT-1606.md) ([NOTE-tmpgunf9](../notes.d/NOTE-tmpgunf9.md)), did
+  not accept the government's position as settling what could be done. It
+  left in place the requirement to facilitate release and asked the
+  government to "share what it can concerning the steps it has taken and
+  the prospect of further steps": a court asking for the evidence behind a
+  claim of inability before accepting it.
+- **The Grand Chamber in *El-Masri***, [LIT-1619](../literature.d/LIT-1619.md) ([NOTE-tmps22mh](../notes.d/NOTE-tmps22mh.md)), has a
+  burden-shifting rule (§§ 152–153, 165–167): where events lie within a
+  State's exclusive knowledge, it must give "a satisfactory and convincing
+  explanation", and a bare denial against concordant evidence fails. It
+  is a rule for facts, not for claims of inability, but it is the same
+  shape: the account of the party whose conduct is challenged is not
+  accepted on its say-so where it alone holds the evidence.
+
+Neither says what would certify that no remedy exists. The question is
+unchanged and stays Open.

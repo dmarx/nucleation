@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmptjtlr
 title: 'Economic alignment and political alignment: Kleinman, Liu and Redding find, using China''s integration into the world economy and falling air-transport costs as sources of variation, that countries whose welfare becomes more dependent on each other''s productivity become more politically aligned'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Kleinman, Liu and Redding read
+    (NOTE-tmpz95lz); UN voting and rivalries confirmed as outcomes,
+    with alliances, and the paper's own model is the strategic
+    explanation. The case is unchanged.
 standing: documented
 kind: reported-study
 tags:
@@ -60,3 +68,22 @@ NBER working paper in 2020.)
   apart.
 - That alignment makes for peace. UN voting and rivalry are proxies, and
   interdependence can also be organized as leverage.
+
+## Note of 2026-10-29: the outcomes checked
+
+[LIT-1416](../literature.d/LIT-1416.md) is now read ([NOTE-tmpz95lz](../notes.d/NOTE-tmpz95lz.md)), in the NBER revision of March 2023,
+so "unread" no longer holds, and the flag on the outcome measures can be
+lifted. The outcomes are UN voting (S-, π- and κ-scores and ideal-point
+distance) and strategic rivalries (any, positional, spatial,
+ideological), as A6 said, and also formal alliances, which the case does
+not mention. Three things the reading adds.
+
+- **The effect is small** in the panel: 0.094 SD per SD of exposure.
+- **Ideological rivalry**, the rivalry nearest to a change of view, is the
+  one outcome the instrument does not move.
+- **"What it does not show" is sharper than it knew.** The paper's own
+  model is the strategic explanation the case sets against changed
+  interpretive organization: alignment there is an action chosen for its
+  payoff, with preferences held fixed.
+
+The case is otherwise unchanged.
