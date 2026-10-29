@@ -178,25 +178,25 @@ versa) is no longer acceptable" (Extending epidemiology).
 
 ## Connections
 
-- **Pembrey et al. 2006 (LIT-tmpmxksg)**, the original. This paper gives
+- **Pembrey et al. 2006 ([LIT-tmpmxksg](../literature.d/LIT-tmpmxksg.md))**, the original. This paper gives
   its findings, its cohorts and its rate ratios, by two of its authors.
-- **Bird (NOTE-tmp9514e)** disputes Överkalix for ignoring cultural
+- **Bird ([NOTE-tmp9514e](NOTE-tmp9514e.md))** disputes Överkalix for ignoring cultural
   transmission, for non-replication (Vågerö et al. 2018) and for multiple
   testing. This paper answers the first and third in advance; the second
   postdates it. Denny Vågerö is a member of the Network that wrote it.
-- **Heard and Martienssen (NOTE-tmp3dbkt)** and **Horsthemke
-  (NOTE-tmpahh4j)** use the strict rule: F2 after an exposed male. The
+- **Heard and Martienssen ([NOTE-tmp3dbkt](NOTE-tmp3dbkt.md))** and **Horsthemke
+  ([NOTE-tmpahh4j](NOTE-tmpahh4j.md))** use the strict rule: F2 after an exposed male. The
   Överkalix grandchildren are F2 of grandparents exposed in childhood, so
   they meet that rule. Horsthemke cites Kaati et al. 2007, the fourth row
   of Table 1.
-- **Dias and Ressler (NOTE-tmpeof8o)** is cited as a plausible mechanism;
+- **Dias and Ressler ([NOTE-tmpeof8o](NOTE-tmpeof8o.md))** is cited as a plausible mechanism;
   Gapp et al. 2014, which Horsthemke also cites, as the sperm-RNA case.
-- **The Dutch Hunger Winter (LIT-tmpkgr1s)** appears only for its
+- **The Dutch Hunger Winter ([LIT-tmpkgr1s](../literature.d/LIT-tmpkgr1s.md))** appears only for its
   grandchildren's birth weight and adiposity.
 
 ## Bearing on the record
 
-- **The question (QUESTION-tmp8bttd), germline route.** Three things.
+- **The question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)), germline route.** Three things.
   - *Överkalix is not a trauma case.* The exposure was year-to-year food
     supply in a grandparent's childhood. Higher grandchild mortality went
     with good supply (1.67), lower with poor (0.65). Bird's "the Swedish
@@ -223,10 +223,10 @@ versa) is no longer acceptable" (Extending epidemiology).
   nothing in the pattern looks like remembering. If the pattern holds, it
   is the strongest human sign that something other than culture passes.
   It holds on about 100 people per cohort.
-- **The owner's thesis (CLAIM-tmpjylq8).** Not touched. What would pass
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Not touched. What would pass
   here is physiology, not identification with an ancestor. No note on the
   claim is proposed.
-- **Proposed dated note on QUESTION-tmp8bttd** (below, section 4).
+- **Proposed dated note on [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (below, section 4).
 - **No THEORY filed.**
 - **No ML instruction.**
 

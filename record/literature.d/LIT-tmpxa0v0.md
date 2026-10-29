@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp0goia), in place of LIT-tmp0szcy, which
+  read in full 2026-10-29 ([NOTE-tmp0goia](../notes.d/NOTE-tmp0goia.md)), in place of [LIT-tmp0szcy](LIT-tmp0szcy.md), which
   could not be reached; worth reading as the chapter that states the
   cultural trauma framework for slavery, and says plainly that the injured
   collective self is fixed by shared fate, not by descent or experience.
@@ -40,9 +40,9 @@ summary: >-
 
 Eyerman, R. (2001). *Cultural Trauma: Slavery and the Formation of African American Identity*. Cambridge: Cambridge University Press. Chapter 1, "Cultural trauma and collective memory", pp. 1–22.
 
-Read in full in NOTE-tmp0goia.
+Read in full in [NOTE-tmp0goia](../notes.d/NOTE-tmp0goia.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp0szcy, which could not be reached. NOTE-tmp0goia says what it
+Read in place of [LIT-tmp0szcy](LIT-tmp0szcy.md), which could not be reached. [NOTE-tmp0goia](../notes.d/NOTE-tmp0goia.md) says what it
 reports of it and what is still missing.

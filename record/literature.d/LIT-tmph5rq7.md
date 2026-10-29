@@ -6,8 +6,8 @@ status_note: >-
   by an author, their institution or the publisher. The ETH Research
   Collection and the Zurich repository (ZORA) list it without a file, as
   they do Mansuy's other reviews of 2013–2017. No NOTE is filed. It stays
-  Unavailable until a copy is supplied (ADR-041). Read in its place, and
-  not a substitute for reading it: Jawaid and Mansuy 2019 (LIT-tmpro9qi).
+  Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and
+  not a substitute for reading it: Jawaid and Mansuy 2019 ([LIT-tmpro9qi](LIT-tmpro9qi.md)).
 title: 'Molecular insights into transgenerational non-genetic inheritance of acquired behaviours'
 version: 1
 history:
@@ -53,7 +53,7 @@ The proponents' review of the mechanisms. For [QUESTION-tmp8bttd](../questions.d
 
 The work cannot be read here, so the record holds it at second hand.
 
-Jawaid and Mansuy 2019 (LIT-tmpro9qi, NOTE-xxxx), by the same senior
+Jawaid and Mansuy 2019 ([LIT-tmpro9qi](LIT-tmpro9qi.md), NOTE-xxxx), by the same senior
 author four years later. It cites this review (its ref. 3) as the account
 of germline-dependent transmission, of the tests by artificial
 insemination, IVF and sperm-RNA injection, and of the MSUS mouse model. It

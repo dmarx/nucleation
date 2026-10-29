@@ -7,9 +7,9 @@ status_note: >-
   California Press sells it as an ebook, and no chapter is open at Project
   MUSE, Luminos or eScholarship. An aggregator copy at CORE was not used,
   since its source repository could not be traced. No NOTE is filed. It
-  stays Unavailable until a copy is supplied (ADR-041). Read in its place,
+  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its place,
   and not a substitute for reading it: Eyerman 2001, chapter 1
-  (LIT-tmpxa0v0) and Hirst, Cyr and Merck 2020 (LIT-tmpx5sab).
+  ([LIT-tmpxa0v0](LIT-tmpxa0v0.md)) and Hirst, Cyr and Merck 2020 ([LIT-tmpx5sab](LIT-tmpx5sab.md)).
 title: 'Cultural Trauma and Collective Identity'
 version: 1
 history:

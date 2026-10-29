@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpsbl9z), in place of LIT-tmp0szcy, which
+  read in full 2026-10-29 ([NOTE-tmpsbl9z](../notes.d/NOTE-tmpsbl9z.md)), in place of [LIT-tmp0szcy](LIT-tmp0szcy.md), which
   could not be reached; worth reading as the one work in the record that
   ties knowing a parent's memory of a public trauma to the child's
   identification with the group.
@@ -40,9 +40,9 @@ summary: >-
 
 Hirst, W., Cyr, T. G. & Merck, C. (2020). Witnessing and cultural trauma: the role of flashbulb memories in the trauma process. *Social Research*, 87(3), 591–613.
 
-Read in full in NOTE-tmpsbl9z.
+Read in full in [NOTE-tmpsbl9z](../notes.d/NOTE-tmpsbl9z.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp0szcy, which could not be reached. NOTE-tmpsbl9z says what it
+Read in place of [LIT-tmp0szcy](LIT-tmp0szcy.md), which could not be reached. [NOTE-tmpsbl9z](../notes.d/NOTE-tmpsbl9z.md) says what it
 reports of it and what is still missing.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpykp1b), in place of LIT-tmpmxksg, which
+  read in full 2026-10-29 ([NOTE-tmpykp1b](../notes.d/NOTE-tmpykp1b.md)), in place of [LIT-tmpmxksg](LIT-tmpmxksg.md), which
   could not be fetched here; worth reading as the Överkalix authors' own
   later account of their findings and of how they answer the charges of
   multiple testing and cultural confounding.
@@ -40,9 +40,9 @@ summary: >-
 
 Pembrey, M., Saffery, R., Bygren, L. O. & Network in Epigenetic Epidemiology (2014). Human transgenerational responses to early-life experience: potential impact on development, health and biomedical research. *Journal of Medical Genetics*, 51(9), 563–572.
 
-Read in full in NOTE-tmpykp1b.
+Read in full in [NOTE-tmpykp1b](../notes.d/NOTE-tmpykp1b.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpmxksg, which could not be fetched here. NOTE-tmpykp1b says what it
+Read in place of [LIT-tmpmxksg](LIT-tmpmxksg.md), which could not be fetched here. [NOTE-tmpykp1b](../notes.d/NOTE-tmpykp1b.md) says what it
 reports of it and what is still missing.

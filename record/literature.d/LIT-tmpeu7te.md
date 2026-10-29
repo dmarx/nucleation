@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpwgf72), in place of LIT-tmp4sa73, which
+  read in full 2026-10-29 ([NOTE-tmpwgf72](../notes.d/NOTE-tmpwgf72.md)), in place of [LIT-tmp4sa73](LIT-tmp4sa73.md), which
   could not be fetched here; worth reading as a brief, sympathetic account
   of the Holocaust FKBP5 study and the few human studies beside it, by
   authors not on that study (though Rutten has published with its second
@@ -41,9 +41,9 @@ summary: >-
 
 Youssef, N. A., Lockwood, L., Su, S., Hao, G. & Rutten, B. P. F. (2018). The effects of trauma, with or without PTSD, on the transgenerational DNA methylation alterations in human offsprings. *Brain Sciences*, 8(5), 83.
 
-Read in full in NOTE-tmpwgf72.
+Read in full in [NOTE-tmpwgf72](../notes.d/NOTE-tmpwgf72.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp4sa73, which could not be fetched here. NOTE-tmpwgf72 says what it
+Read in place of [LIT-tmp4sa73](LIT-tmp4sa73.md), which could not be fetched here. [NOTE-tmpwgf72](../notes.d/NOTE-tmpwgf72.md) says what it
 reports of it and what is still missing.

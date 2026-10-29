@@ -128,28 +128,28 @@ the child is a response to the parent's state, not a copy of it.
 
 ## Connections
 
-- **Yehuda et al. 2016 (LIT-tmp4sa73)**, the original. This review gives
+- **Yehuda et al. 2016 ([LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md))**, the original. This review gives
   its sample, tissue, gene region, direction of effects and one named
   confound. Its title says "intergenerational"; the review's says
   "transgenerational".
-- **Bird (NOTE-tmp9514e)** calls the study "a sample of only 32 people".
+- **Bird ([NOTE-tmp9514e](NOTE-tmp9514e.md))** calls the study "a sample of only 32 people".
   By this review's figures, 32 is the number of survivors; the study had
   71 people in all, 31 of them offspring.
-- **Heard and Martienssen (NOTE-tmp3dbkt).** By their rule, every study
+- **Heard and Martienssen ([NOTE-tmp3dbkt](NOTE-tmp3dbkt.md)).** By their rule, every study
   here is intergenerational. The Rwandan, Congolese and partner-violence
   children were exposed in utero. Survivors' children, if conceived after
   the war, are F1 of exposed parents.
-- **Horsthemke (NOTE-tmpahh4j)** asks that genetic effects be excluded by
+- **Horsthemke ([NOTE-tmpahh4j](NOTE-tmpahh4j.md))** asks that genetic effects be excluded by
   haplotype. Nothing here says whether FKBP5 genotype was considered.
-- **The Dutch Hunger Winter (LIT-tmpkgr1s).** The review raises the
+- **The Dutch Hunger Winter ([LIT-tmpkgr1s](../literature.d/LIT-tmpkgr1s.md)).** The review raises the
   survivors' starvation as a confound; the record's womb route already
   links famine to methylation.
-- **Yehuda and Lehrner (LIT-tmpcigq1)** is the clinical side of the same
+- **Yehuda and Lehrner ([LIT-tmpcigq1](../literature.d/LIT-tmpcigq1.md))** is the clinical side of the same
   group; not cited here.
 
 ## Bearing on the record
 
-- **The question (QUESTION-tmp8bttd).** Four points.
+- **The question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** Four points.
   - *Where it sits.* The record files Yehuda et al. under the germline
     route. On this account it is an intergenerational, parent-to-child
     study in blood. Nothing in it reaches a gamete, and nothing excludes
@@ -169,10 +169,10 @@ the child is a response to the parent's state, not a copy of it.
     confound is starvation. Neither measured care, silence, or
     identification with the group's history. The question's social
     routes are unexamined here, not excluded.
-- **The owner's thesis (CLAIM-tmpjylq8).** Not touched. What these studies
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Not touched. What these studies
   measure is a physiological state in blood, not any identification with
   an ancestor. No note on the claim is proposed.
-- **Proposed dated note on QUESTION-tmp8bttd** (below, section 4).
+- **Proposed dated note on [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (below, section 4).
 - **No THEORY filed.**
 - **No ML instruction.**
 

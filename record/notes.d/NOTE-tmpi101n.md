@@ -206,7 +206,7 @@ for a more balanced life of generations to come" (p. 40; Proposition 8).
 
 ## Connections
 
-- **The two meta-analyses (LIT-tmpd29uc, LIT-tmppmeni).** The thesis's
+- **The two meta-analyses ([LIT-tmpd29uc](../literature.d/LIT-tmpd29uc.md), [LIT-tmppmeni](../literature.d/LIT-tmppmeni.md)).** The thesis's
   promotors are their three authors, and the restatements are theirs at
   one remove. It gives sample sizes and conclusions but no effect size
   for either.
@@ -215,25 +215,25 @@ for a more balanced life of generations to come" (p. 40; Proposition 8).
   cortisol in Israeli survivors and explains the gap by chronic stress
   in post-war Israel (p. 59). Its exploratory offspring result runs the
   same way as Yehuda's: lower cortisol in children of more symptomatic
-  parents (p. 102). Yehuda et al.'s FKBP5 paper (LIT-tmp4sa73) and
-  Yehuda and Lehrner (LIT-tmpcigq1) postdate the thesis.
-- **Danieli's handbook (LIT-tmp881f5)** is cited for the clinical
+  parents (p. 102). Yehuda et al.'s FKBP5 paper ([LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md)) and
+  Yehuda and Lehrner ([LIT-tmpcigq1](../literature.d/LIT-tmpcigq1.md)) postdate the thesis.
+- **Danieli's handbook ([LIT-tmp881f5](../literature.d/LIT-tmp881f5.md))** is cited for the clinical
   tradition (Felsen 1998, on daughters' greater vulnerability, p. 27).
   The thesis does not discuss the "conspiracy of silence".
-- **Heard and Martienssen (NOTE-tmp3dbkt).** The daughters were born in
+- **Heard and Martienssen ([NOTE-tmp3dbkt](NOTE-tmp3dbkt.md)).** The daughters were born in
   Israel after the war to mothers traumatized as children. This is an
   intergenerational case in their sense, and every route is open for it.
   The thesis tests none apart from the others.
-- **Costa et al. (NOTE-tmp3firt).** Their untested line, that a return
+- **Costa et al. ([NOTE-tmp3firt](NOTE-tmp3firt.md)).** Their untested line, that a return
   "to a grateful nation" protected sons, has a counterpart here: the
   meaning and pride of building Israel, offered for survivors (p. 104).
-- **Horsthemke (NOTE-tmpahh4j).** The thesis is an example of his point.
+- **Horsthemke ([NOTE-tmpahh4j](NOTE-tmpahh4j.md)).** The thesis is an example of his point.
   Its one offspring signal is explained by parenting with no means of
   excluding other routes.
 
 ## Bearing on the record
 
-- **The intergenerational trauma question (QUESTION-tmp8bttd).** The
+- **The intergenerational trauma question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** The
   thesis bears on three of its four routes. These are inferences; the
   thesis does not frame its findings by route.
   - **Parenting.** This is the route the authors favour, and the
@@ -245,7 +245,7 @@ for a more balanced life of generations to come" (p. 40; Proposition 8).
     shared family circumstance as well as transmission.
   - **Germline and womb.** Not tested. The daughters were conceived
     years after the war, so on Heard and Martienssen's rule
-    (NOTE-tmp3dbkt) anything they carry is intergenerational, and the
+    ([NOTE-tmp3dbkt](NOTE-tmp3dbkt.md)) anything they carry is intergenerational, and the
     design cannot tell a germline mark from care.
   - **Narrative and identity.** The thesis does not measure identity,
     but its design matters for that route. The comparison mothers were
@@ -262,23 +262,23 @@ for a more balanced life of generations to come" (p. 40; Proposition 8).
     "historians" rather than "victims" (p. 37), and building the new
     state may have given meaning that protected them (p. 104). This is
     the second time the record has met this idea, after Costa et al.'s
-    "grateful nation" (NOTE-tmp3firt). Neither work tests it.
+    "grateful nation" ([NOTE-tmp3firt](NOTE-tmp3firt.md)). Neither work tests it.
   - **Silence protects, on this account.** Proposition 8 says that
     "lack of resolution and setting aside the trauma on the part of
     survivors may protect the offspring". The clinical tradition the
-    question cites (Danieli, LIT-tmp881f5) treats silence as the means
+    question cites (Danieli, [LIT-tmp881f5](../literature.d/LIT-tmp881f5.md)) treats silence as the means
     of transmission. Read with the identity route, the inference is
     this: in a family, what an ancestor's injury passes on may depend on
     whether it is told, and here the untold injury was not visibly
     passed on.
-- **The owner's thesis (CLAIM-tmpjylq8).** Only indirectly, through the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Only indirectly, through the
   question's identity route. If a descendant carries an ancestral injury
   as part of an extended self, these data put that self in the group,
   not the family: being a survivor's daughter added nothing measurable.
   That is an inference from a null, and the thesis measures no self.
-- **The triviality objection (CLAIM-tmprudek) and Batson's objection
-  (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note should be added to QUESTION-tmp8bttd.** Proposed text:
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)) and Batson's objection
+  ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note should be added to [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).** Proposed text:
 
   > Note of 2026-10-29: the parenting route, read through Fridman
   > (2011). The two meta-analyses are still unread, but their authors'

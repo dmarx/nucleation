@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpm0kx1), in place of LIT-tmph5rq7, which
+  read in full 2026-10-29 ([NOTE-tmpm0kx1](../notes.d/NOTE-tmpm0kx1.md)), in place of [LIT-tmph5rq7](LIT-tmph5rq7.md), which
   could not be reached; worth reading as the proponents' short statement
   of the rodent case for germline transmission of behaviour, read in place
-  of Bohacek and Mansuy 2015 (LIT-tmph5rq7), and for what it does not
+  of Bohacek and Mansuy 2015 ([LIT-tmph5rq7](LIT-tmph5rq7.md)), and for what it does not
   answer.
 title: 'Inter- and transgenerational inheritance of behavioral phenotypes'
 version: 1
@@ -42,9 +42,9 @@ summary: >-
 
 Jawaid, A. & Mansuy, I. M. (2019). Inter- and transgenerational inheritance of behavioral phenotypes. *Current Opinion in Behavioral Sciences*, 25, 96–101.
 
-Read in full in NOTE-tmpm0kx1.
+Read in full in [NOTE-tmpm0kx1](../notes.d/NOTE-tmpm0kx1.md).
 
 ## Why this is here
 
-Read in place of LIT-tmph5rq7, which could not be reached. NOTE-tmpm0kx1 says what it
+Read in place of [LIT-tmph5rq7](LIT-tmph5rq7.md), which could not be reached. [NOTE-tmpm0kx1](../notes.d/NOTE-tmpm0kx1.md) says what it
 reports of it and what is still missing.

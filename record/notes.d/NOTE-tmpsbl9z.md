@@ -156,7 +156,7 @@ The paper reports no new study. It argues from the following.
 
 ## Connections
 
-- **Alexander et al. 2004 (LIT-tmp0szcy)**, unread. The paper quotes
+- **Alexander et al. 2004 ([LIT-tmp0szcy](../literature.d/LIT-tmp0szcy.md))**, unread. The paper quotes
   Alexander's theory chapter at pp. 1, 10, 12 and 21, and paraphrases his
   Holocaust chapter on Anne Frank's diary and the series *Holocaust*. Its
   reference list swaps the two: it lists the Holocaust chapter (pp.
@@ -170,13 +170,13 @@ The paper reports no new study. It argues from the following.
   distance, and the transmission they study runs within living memory,
   from parent to child. Assmann's line between communicative and cultural
   memory marks where one account ends and the other begins.
-- **Fans' memory of a rivalry game (LIT-1125)**, Unavailable. Talarico's
+- **Fans' memory of a rivalry game ([LIT-1125](../literature.d/LIT-1125.md))**, Unavailable. Talarico's
   study of the 2008 Lafayette–Lehigh game is the same programme applied to
   a sporting community: membership shaping memory of a shared event.
 
 ## Bearing on the record
 
-- **The question's identity route (QUESTION-tmp8bttd).** The question asks
+- **The question's identity route ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** The question asks
   whether descendants' distress over an ancestral trauma follows their
   identification with the group, measured apart from knowledge and from
   family transmission. Meyler et al. are the nearest the record holds to
@@ -191,7 +191,7 @@ The paper reports no new study. It argues from the following.
   - *It is within living memory.* The authors decline to equate it with
     the transmission of a parent's own trauma (p. 607), and it is far from
     an ancestral injury a century or more old.
-- **The owner's thesis (CLAIM-tmpjylq8), run backward in time.** The
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)), run backward in time.** The
   paper gives a mechanism for the first step of the extended self into
   the past. A child who knows where a parent was on 9/11 is "there," by
   extension (p. 608), and holding such memories is "an essential marker
@@ -200,14 +200,14 @@ The paper reports no new study. It argues from the following.
   moment it never lived: by taking on another member's place in it, and
   by that, membership. That is an inference. The paper measures no grief,
   and its "extension" is the authors' metaphor.
-- **The triviality objection (CLAIM-tmprudek).** Having a flashbulb memory
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Having a flashbulb memory
   is a cognitive mark of membership, not a report of caring, so it is a
   candidate criterion of the self's extent. But it is not cleanly
   separate. Such memories form for events appraised as important and
   consequential (Tinti et al., cited for Catholics' memories rising with
   involvement), so caring helps produce the mark.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note should be added to QUESTION-tmp8bttd.** Proposed text:
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note should be added to [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).** Proposed text:
 
   > **Note of 2026-10-29: memory passed to children.** Hirst, Cyr and
   > Merck (NOTE-tmpsbl9z) report a study of children nine or younger at
@@ -218,7 +218,7 @@ The paper reports no new study. It argues from the following.
   > distress; the channel is the family; and the direction of the link is
   > unknown.
 
-  No separate note on CLAIM-tmpjylq8 is needed; the question's note
+  No separate note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) is needed; the question's note
   carries the bearing.
 - **No THEORY filed.**
 - **No ML instruction.**

@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpi101n), in place of LIT-tmpd29uc and
-  LIT-tmppmeni, which could not be reached; worth reading as the record's
+  read in full 2026-10-29 ([NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md)), in place of [LIT-tmpd29uc](LIT-tmpd29uc.md) and
+  [LIT-tmppmeni](LIT-tmppmeni.md), which could not be reached; worth reading as the record's
   only account, at second hand and by their own authors' student, of the
-  2003 and 2008 meta-analyses (LIT-tmpd29uc, LIT-tmppmeni, both
+  2003 and 2008 meta-analyses ([LIT-tmpd29uc](LIT-tmpd29uc.md), [LIT-tmppmeni](LIT-tmppmeni.md), both
   Unavailable), and as a primary two-generation study whose matched design
   holds national identity constant and finds no family transmission.
 title: '"Surviving Early Childhood Trauma: Effects of the Holocaust on Survivors'' Psychological and Physiological Well-Being"'
@@ -43,9 +43,9 @@ summary: >-
 
 Fridman, A. (2011). *Surviving Early Childhood Trauma: Effects of the Holocaust on Survivors' Psychological and Physiological Well-Being*. PhD thesis, Leiden University.
 
-Read in full in NOTE-tmpi101n.
+Read in full in [NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpd29uc and LIT-tmppmeni, which could not be reached. NOTE-tmpi101n says what it
+Read in place of [LIT-tmpd29uc](LIT-tmpd29uc.md) and [LIT-tmppmeni](LIT-tmppmeni.md), which could not be reached. [NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md) says what it
 reports of them and what is still missing.

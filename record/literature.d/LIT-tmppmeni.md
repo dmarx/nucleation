@@ -5,9 +5,9 @@ status_note: >-
   reached. Unpaywall lists no open copy and a web search found none posted
   by an author, their institution or the publisher. It is not in Leiden's
   repository, and Haifa's search answered with a Cloudflare challenge. No
-  NOTE is filed. It stays Unavailable until a copy is supplied (ADR-041).
+  NOTE is filed. It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
   Read in its place, and not a substitute for reading it: Fridman's 2011
-  Leiden thesis (LIT-tmp5ys53).
+  Leiden thesis ([LIT-tmp5ys53](LIT-tmp5ys53.md)).
 title: 'Does intergenerational transmission of trauma skip a generation? No meta-analytic evidence for tertiary traumatization with third generation of Holocaust survivors'
 version: 1
 history:

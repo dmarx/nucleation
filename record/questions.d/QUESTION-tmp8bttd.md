@@ -147,29 +147,29 @@ Seven works were read in place of the closed ones. They correct two of
 the question's labels and shift weight among the routes.
 
 - **Two labels are wrong.** Överkalix is a male-line nutritional case,
-  not a germline trauma case (Pembrey, Saffery and Bygren, NOTE-tmpykp1b).
+  not a germline trauma case (Pembrey, Saffery and Bygren, [NOTE-tmpykp1b](../notes.d/NOTE-tmpykp1b.md)).
   - The exposure was a grandparent's food supply in mid-childhood, and
     good supply, not poor, went with higher grandchild mortality.
   - The authors leave the mechanism open, grant that culture matters and
     that replication is needed, and measured no family culture.
 
   The FKBP5 study is intergenerational, not a germline test (Youssef et
-  al., NOTE-tmpwgf72). It had 32 survivors and 22 offspring against 8 and 9
+  al., [NOTE-tmpwgf72](../notes.d/NOTE-tmpwgf72.md)). It had 32 survivors and 22 offspring against 8 and 9
   controls. Methylation was higher in survivors and lower in offspring:
   the child does not carry the parent's mark.
 - **The proponents concede the disputed steps** (Jawaid and Mansuy,
-  NOTE-tmpm0kx1). In mice, sperm RNA from traumatized fathers reproduces
+  [NOTE-tmpm0kx1](../notes.d/NOTE-tmpm0kx1.md)). In mice, sperm RNA from traumatized fathers reproduces
   their symptoms in offspring. The authors say it is "not clear" how
   effects pass beyond the first generation, and that germline dependence
   "is not established in humans". Both sides now agree on the
   intergenerational effect in mice and on the gaps.
-- **The womb route is real and narrow** (Heijmans et al., NOTE-tmp0q5ig).
+- **The womb route is real and narrow** (Heijmans et al., [NOTE-tmp0q5ig](../notes.d/NOTE-tmp0q5ig.md)).
   Conception during the Hunger Winter went with slightly lower IGF2
   methylation six decades later (0.488 against 0.515); exposure late in
   pregnancy did not. It is one gene, in blood, with no outcome measured,
   from famine, not psychological trauma.
 - **The parenting route finds nothing in the general population**
-  (Fridman, NOTE-tmpi101n). The meta-analyses' authors, through their
+  (Fridman, [NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md)). The meta-analyses' authors, through their
   student, restate:
   - no second-generation traumatization in non-clinical, well-designed
     samples (32 samples, 4,418 offspring);
@@ -180,7 +180,7 @@ the question's labels and shift weight among the routes.
   national memory, so the design tests family routes with the identity
   route held fixed.
 - **The identity route passes by category, not descent** (Eyerman,
-  NOTE-tmp0goia; Volkan, NOTE-tmp16of2).
+  [NOTE-tmp0goia](../notes.d/NOTE-tmp0goia.md); Volkan, [NOTE-tmp16of2](../notes.d/NOTE-tmp16of2.md)).
   - Cultural trauma is a group's loss of identity and meaning, which
     "need not necessarily be felt by everyone". Slavery became the trauma
     of black Americans whether or not their ancestors were enslaved.
@@ -189,14 +189,14 @@ the question's labels and shift weight among the routes.
     children, so his identity route does not separate from parenting.
 - **A group's story buffers as well as carries.** Fridman's survivors
   found protection in building a state. Costa et al.'s "grateful nation"
-  (NOTE-tmp3firt) is the same suggestion.
+  ([NOTE-tmp3firt](../notes.d/NOTE-tmp3firt.md)) is the same suggestion.
 - **The nearest thing to the identity test** (Hirst, Cyr and Merck,
-  NOTE-tmpsbl9z). Of children nine or younger at 9/11, 89% could report a
+  [NOTE-tmpsbl9z](../notes.d/NOTE-tmpsbl9z.md)). Of children nine or younger at 9/11, 89% could report a
   parent's memory of where they were, and stronger identification as
   American went with knowing it better. It falls short of the test: it
   measures knowledge, not distress, the channel is the family, and the
   direction is unknown.
 
 Still unread: Lehrner and Yehuda's paper joining the biology to cultural
-trauma (LIT-tmpzfk28), and Danieli's handbook (LIT-tmp881f5), for which no
+trauma ([LIT-tmpzfk28](../literature.d/LIT-tmpzfk28.md)), and Danieli's handbook ([LIT-tmp881f5](../literature.d/LIT-tmp881f5.md)), for which no
 work was read in place.

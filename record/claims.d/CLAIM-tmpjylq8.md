@@ -233,22 +233,22 @@ The readings on legacy and on obligations to the future ([QUESTION-tmpruhu4](../
 
 ## Note of 2026-10-29: the thesis backward in time
 
-The intergenerational-trauma readings (QUESTION-tmp8bttd) test the thesis's
+The intergenerational-trauma readings ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)) test the thesis's
 reading that a descendant's grief over an ancestral injury is
 self-regarding. They support its shape and move its boundary.
 
 - **The self an ancestral injury extends to is a category, not a line of
-  descent** (Eyerman, NOTE-tmp0goia). Slavery became the trauma of black
+  descent** (Eyerman, [NOTE-tmp0goia](../notes.d/NOTE-tmp0goia.md)). Slavery became the trauma of black
   Americans "whether or not they directly experienced slavery or even had
   ancestors who did" (p. 14). "Ancestral" grief, if self-regarding, is
   regard for a category's past.
 - **What joins the self is an image, felt as grievance** (Volkan,
-  NOTE-tmp16of2). A chosen trauma is a shared image of an ancient injury,
+  [NOTE-tmp16of2](../notes.d/NOTE-tmp16of2.md)). A chosen trauma is a shared image of an ancient injury,
   "real, fantasized or even mythologized", called up when the group's
   present identity is threatened. That fits a self-regarding reading
   well. Grief for particular, recent dead is the case Volkan keeps apart,
   and the thesis's open one.
-- **Family transmission is not where the effect is** (Fridman, NOTE-tmpi101n).
+- **Family transmission is not where the effect is** (Fridman, [NOTE-tmpi101n](../notes.d/NOTE-tmpi101n.md)).
   Survivors' daughters did not differ from daughters of families who
   shared the same national memory. If an ancestral injury is carried as
   part of a self, it is carried by the group, not handed down in the

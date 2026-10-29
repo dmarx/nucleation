@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp16of2), in place of LIT-tmpftqpm, which
+  read in full 2026-10-29 ([NOTE-tmp16of2](../notes.d/NOTE-tmp16of2.md)), in place of [LIT-tmpftqpm](LIT-tmpftqpm.md), which
   could not be reached; worth reading as Volkan's late, short restatement
   of chosen trauma, its trigger in threatened identity and its distinction
   from the mourning of recent trauma, read in place of his 2001 paper; the
@@ -45,9 +45,9 @@ summary: >-
 
 Volkan, V. D. (2021). Trauma, prejudice, large-group identity and psychoanalysis. *The American Journal of Psychoanalysis*, 81(2), 137–154.
 
-Read in full in NOTE-tmp16of2.
+Read in full in [NOTE-tmp16of2](../notes.d/NOTE-tmp16of2.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpftqpm, which could not be reached. NOTE-tmp16of2 says what it
+Read in place of [LIT-tmpftqpm](LIT-tmpftqpm.md), which could not be reached. [NOTE-tmp16of2](../notes.d/NOTE-tmp16of2.md) says what it
 reports of it and what is still missing.

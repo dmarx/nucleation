@@ -174,32 +174,32 @@ The chapter reports no data of its own. Its claims, in order:
 
 ## Connections
 
-- **Alexander et al. 2004 (LIT-tmp0szcy)**, unread. The chapter cites the
+- **Alexander et al. 2004 ([LIT-tmp0szcy](../literature.d/LIT-tmp0szcy.md))**, unread. The chapter cites the
   volume as "Alexander et al. 2001", then forthcoming, and quotes
   Smelser's definition and paraphrases Alexander, Sztompka and Giesen.
   What it gives is the framework as the authors shared it in 2001, not
   the published chapters. The LIT's summary names Eyerman's slavery case
   as one of the volume's; this book is his long treatment of it.
-- **Slavery's attitudes in the white South (THEORY-889, from LIT-1388).**
+- **Slavery's attitudes in the white South ([THEORY-889](../theory.d/THEORY-889.md), from [LIT-1388](../literature.d/LIT-1388.md)).**
   The two place the formative moment at the same point: after
   Reconstruction, not before the war. Acharya, Blackwell and Sen find the
   white attitude difference appearing after emancipation; Eyerman finds
   the black identity forming then, against a white memory recast in the
   same years. This is an inference from setting the two side by side.
   Neither work cites the other, and Eyerman measures nothing.
-- **Three ways a past persists (CLAIM-420).** Cultural trauma is the
+- **Three ways a past persists ([CLAIM-420](../claims.d/CLAIM-420.md)).** Cultural trauma is the
   "story" route in its strongest form. The memory of slavery is retold by
   each generation "according to its needs and means" (p. 15). It is not
   a perspective handed down from the enslaved: the chapter says the
   voices of direct experience "took second place" after emancipation and
   faded as former slaves died (p. 16).
-- **A category made a group entity (TERM-tmpko4rw).** Eyerman's black
+- **A category made a group entity ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** Eyerman's black
   Americans begin as a category ascribed by the dominant culture, which
   "identified" them with slavery (p. 14). Movements make them "a unified
   subject" (p. 21). That is the movement from category to entity the
   term marks, done by narrative. The comparison is the record's, not the
   author's.
-- **Chosen trauma (LIT-tmpftqpm) and Lehrner and Yehuda (LIT-tmpzfk28)**,
+- **Chosen trauma ([LIT-tmpftqpm](../literature.d/LIT-tmpftqpm.md)) and Lehrner and Yehuda ([LIT-tmpzfk28](../literature.d/LIT-tmpzfk28.md))**,
   both Unavailable. Volkan's term is psychoanalytic; Eyerman draws on
   Caruth and LaCapra but keeps cultural trauma apart from the clinical
   sense. Lehrner and Yehuda join the sociology to the biology; Eyerman
@@ -207,7 +207,7 @@ The chapter reports no data of its own. Its claims, in order:
 
 ## Bearing on the record
 
-- **The question's identity route (QUESTION-tmp8bttd).** The chapter is the
+- **The question's identity route ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** The chapter is the
   route's clearest statement in the record. Three of its points bear on
   how the question is put. These are inferences; the chapter does not
   discuss intergenerational transmission in the clinical or biological
@@ -225,7 +225,7 @@ The chapter reports no data of its own. Its claims, in order:
     Reconstruction, a generation after the event. On this account, what
     a later generation suffers in the present shapes which past injury it
     takes up.
-- **The owner's thesis (CLAIM-tmpjylq8), run backward in time.** The
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)), run backward in time.** The
   question reads a descendant's grief over an ancestral injury as
   self-regarding on an extended self. The chapter supports the shape and
   corrects the boundary.
@@ -242,7 +242,7 @@ The chapter reports no data of its own. Its claims, in order:
   - *What it does not show.* Nothing in the chapter measures any
     individual's grief, or whether it tracks identification. Eyerman
     describes how an identity was articulated, not what members feel.
-- **The triviality objection (CLAIM-tmprudek).** The chapter suggests a
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The chapter suggests a
   criterion of the self's extent that is not set by caring: membership
   ascribed by others and then avowed. Black Americans "were identified
   with and came to identify themselves through" the memory of slavery
@@ -250,9 +250,9 @@ The chapter reports no data of its own. Its claims, in order:
   whether the memory should be commemorated or suppressed (Fredrickson,
   p. 18). That is the kind of separation the objection asks for. It is an
   inference from a historian's remark; nothing here measures either side.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note should be added to QUESTION-tmp8bttd**, and a line to
-  CLAIM-tmpjylq8. Proposed text for the question:
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note should be added to [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)**, and a line to
+  [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md). Proposed text for the question:
 
   > **Note of 2026-10-29: cultural trauma, read at its source.** Eyerman's
   > first chapter (NOTE-tmp0goia) states the identity route plainly, and
@@ -307,4 +307,4 @@ The chapter reports no data of its own. Its claims, in order:
   up track the present injury rather than the past one? The chapter
   implies so; chapters 2–6 may show it.
 - Did the white reconciliation memory the chapter describes travel by the
-  same local routes as the attitudes in THEORY-889? Neither work says.
+  same local routes as the attitudes in [THEORY-889](../theory.d/THEORY-889.md)? Neither work says.

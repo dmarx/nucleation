@@ -184,35 +184,35 @@ These are reported observations and definitions, not measured results.
 
 ## Connections
 
-- **Volkan 2001 (LIT-tmpftqpm)**, unread. This paper is a later and
+- **Volkan 2001 ([LIT-tmpftqpm](../literature.d/LIT-tmpftqpm.md))**, unread. This paper is a later and
   shorter statement of the same concepts. It cites neither the 2001
   paper nor Group Analysis; its own sources for chosen trauma and time
   collapse are *Bloodlines* (1997) and later books.
-- **The narrative and identity route of QUESTION-tmp8bttd.** Volkan is
+- **The narrative and identity route of [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).** Volkan is
   that route's named source. The paper also shows the route is not
   separate from parenting: the identity is deposited by parents and
   grandparents, and Volkan's evidence for transmission comes from
   survivor-offspring clinical studies.
-- **Cultural trauma (Alexander et al., LIT-tmp0szcy)**, unread. Volkan's
+- **Cultural trauma (Alexander et al., [LIT-tmp0szcy](../literature.d/LIT-tmp0szcy.md))**, unread. Volkan's
   chosen trauma is selected and charged through a leader and rituals, as
   with Lazar's bones; that is close to the sociologists' carrier groups,
   but Volkan describes it in psychic terms, not as a claim made in public.
-- **Self-categorization theory (THEORY-tmpo85ke).** "Subsume their
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** "Subsume their
   personal identities behind their large-group identities" sounds like
   depersonalization, and the trigger, a threat from an out-group in a
   dialogue, is an intergroup comparison. Volkan does not cite the social
   identity tradition.
-- **Group entity versus category (TERM-tmpko4rw).** Volkan's large group
+- **Group entity versus category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** Volkan's large group
   is by definition people who do not interact, which is a category. Yet
   he treats it as one whole with a shared canvas, a leader and its own
   mourning, which is a group entity. He does not draw the line.
-- **CASE-098.** A rivalry new fans inherit before they know why it
+- **[CASE-098](../cases.d/CASE-098.md).** A rivalry new fans inherit before they know why it
   matters has the same shape as a chosen trauma: a subgroup version, which
   Volkan says can be changed where the core identity cannot.
 
 ## Bearing on the record
 
-- **The intergenerational trauma question (QUESTION-tmp8bttd).** These
+- **The intergenerational trauma question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** These
   are inferences; Volkan does not ask the question in these terms.
   - **On the identity route, what becomes part of the descendant's self is
     an image, not the ancestors' injury as it was.** A chosen trauma may
@@ -231,8 +231,8 @@ These are reported observations and definitions, not measured results.
     undigested trauma, the Holocaust, is recent, carried by living stories
     and objects, and mourned. The question's identity route covers the
     first clearly. The second is closer to the parenting route.
-- **The owner's thesis, run backward (CLAIM-tmpjylq8).** The thesis, as
-  QUESTION-tmp8bttd puts it, says a descendant's grief over an ancestral
+- **The owner's thesis, run backward ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The thesis, as
+  [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md) puts it, says a descendant's grief over an ancestral
   injury is self-regarding: the injured self includes the ancestors.
   Volkan supports a narrower form of this and complicates the rest. These
   are inferences.
@@ -243,7 +243,7 @@ These are reported observations and definitions, not measured results.
     self-regarding on a self that includes the group's past.
   - **But it is not grief.** Volkan's chosen trauma has stopped being
     mourned; what is felt is grievance and entitlement, and its use is to
-    mark and defend identity. As in identity fusion (NOTE-tmp3g9n4), the
+    mark and defend identity. As in identity fusion ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)), the
     self being served is a self-concept to be kept intact, not a welfare.
   - **Grief proper belongs to the undigested case.** For the Holocaust,
     descendants hold pictures, belongings and stories of particular
@@ -255,15 +255,15 @@ These are reported observations and definitions, not measured results.
     receding, a change of self in the thesis's own terms ("What it does
     not say"). The tent's two layers fit "larger" better: both are worn at
     once. Volkan uses both images and does not reconcile them.
-- **The triviality objection (CLAIM-tmprudek).** Volkan offers a mark of
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Volkan offers a mark of
   the extended self apart from caring: the identity is fixed in childhood,
   unchangeable in its core after adolescence, and carried by symbols
   (the Palestinian's stone, kilts, saunas). And his trigger is a threat
   to identity, not a reminder of the ancestors' suffering. If that held,
   it would be a criterion that comes apart from caring about the
   ancestors. But nothing is measured; the claim is clinical impression.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note should be added to QUESTION-tmp8bttd** (proposed text in
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note should be added to [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (proposed text in
   section 3). The thesis's note of "the thesis in time" need not change;
   a cross-reference from the question's note is enough.
 - **No THEORY filed.** Chosen trauma is recorded in the question; the
@@ -302,7 +302,7 @@ These are reported observations and definitions, not measured results.
 - Does a threat to large-group identity, made in a controlled way, raise
   the salience of an ancestral trauma, and does the effect follow
   identification rather than knowledge of the events? That would put
-  Volkan's central observation to the test QUESTION-tmp8bttd asks for.
+  Volkan's central observation to the test [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md) asks for.
 - Do descendants feel a mythologized injury as strongly as a documented
   one? If so, what the self extends to is the group's story, not its
   history.

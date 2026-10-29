@@ -6,8 +6,8 @@ status_note: >-
   by an author, their institution or the publisher. Volkan's site is a
   parked domain, and the University of Virginia's archive lists the paper
   by title only. No NOTE is filed. It stays Unavailable until a copy is
-  supplied (ADR-041). Read in its place, and not a substitute for reading
-  it: Volkan 2021 (LIT-tmp1xbj6).
+  supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a substitute for reading
+  it: Volkan 2021 ([LIT-tmp1xbj6](LIT-tmp1xbj6.md)).
 title: 'Transgenerational Transmissions and Chosen Traumas: An Aspect of Large-Group Identity'
 version: 1
 history:
@@ -53,7 +53,7 @@ Trauma inherited as identity: descendants carry as their own an injury done to t
 
 The work cannot be read here, so the record holds it at second hand.
 
-Volkan's 2021 lecture (NOTE-tmp16of2, section on chosen traumas) gives his
+Volkan's 2021 lecture ([NOTE-tmp16of2](../notes.d/NOTE-tmp16of2.md), section on chosen traumas) gives his
 definition of a chosen trauma: the shared image of an ancestral injury at
 another group's hands, real or mythologized, which changes function as it
 is transmitted and becomes a marker of large-group identity. It gives the

@@ -184,17 +184,17 @@ are further passed on beyond the first generation" (p. 99).
 
 ## Connections
 
-- **Bohacek and Mansuy 2015 (LIT-tmph5rq7)**, unread and Unavailable. Same
+- **Bohacek and Mansuy 2015 ([LIT-tmph5rq7](../literature.d/LIT-tmph5rq7.md))**, unread and Unavailable. Same
   senior author, four years earlier. This review cites it as the review of
   germline-dependent transmission and of the assisted-reproduction tests
   (ref. 3), and as a source for the MSUS row of Table 1.
-- **Dias and Ressler (LIT-tmpk0wlg, NOTE-tmpeof8o).** Reported faithfully in
+- **Dias and Ressler ([LIT-tmpk0wlg](../literature.d/LIT-tmpk0wlg.md), [NOTE-tmpeof8o](NOTE-tmpeof8o.md)).** Reported faithfully in
   the text, as "sensitivity", not fear. Table 1's cell for it adds "CpG
   hypomethylation in the Olfr151 gene in sperm and olfactory cortex". The
   record's reading found the sperm result, no difference in F1 or F2
   olfactory epithelium, and no reported cortical test.
-- **The three sceptics (LIT-tmpjgbgk, LIT-tmpmsnfq, LIT-tmpaf6cr;
-  NOTE-tmp3dbkt, NOTE-tmpahh4j, NOTE-tmp9514e).** None is cited. Germline
+- **The three sceptics ([LIT-tmpjgbgk](../literature.d/LIT-tmpjgbgk.md), [LIT-tmpmsnfq](../literature.d/LIT-tmpmsnfq.md), [LIT-tmpaf6cr](../literature.d/LIT-tmpaf6cr.md);
+  [NOTE-tmp3dbkt](NOTE-tmp3dbkt.md), [NOTE-tmpahh4j](NOTE-tmpahh4j.md), [NOTE-tmp9514e](NOTE-tmp9514e.md)).** None is cited. Germline
   reprogramming, which is their main argument, is not mentioned. Weismann
   appears only in the title of ref. 5. The two sides use the same
   evidence differently:
@@ -205,19 +205,19 @@ are further passed on beyond the first generation" (p. 99).
     comparison subjects.
   - Heard and Martienssen's F2/F3 rule is absent. Without it, "three
     generations" cannot be checked against the rule (see Limitations).
-- **Yehuda et al. (LIT-tmp4sa73).** The FKBP5 study, the review's lead
+- **Yehuda et al. ([LIT-tmp4sa73](../literature.d/LIT-tmp4sa73.md)).** The FKBP5 study, the review's lead
   human case, cited with its numbers.
-- **The Holocaust meta-analyses (LIT-tmpd29uc, LIT-tmppmeni).** Not cited.
+- **The Holocaust meta-analyses ([LIT-tmpd29uc](../literature.d/LIT-tmpd29uc.md), [LIT-tmppmeni](../literature.d/LIT-tmppmeni.md)).** Not cited.
   The review's "offspring and grand-offspring" claim is the claim those
   meta-analyses test in non-clinical samples and find no general support
   for.
-- **Costa et al. (LIT-tmp6n699, NOTE-tmp3firt).** Not cited. It is the
+- **Costa et al. ([LIT-tmp6n699](../literature.d/LIT-tmp6n699.md), [NOTE-tmp3firt](NOTE-tmp3firt.md)).** Not cited. It is the
   record's read human case on the paternal line (sons of prisoners of
   war), and its untested "grateful nation" line is used below.
 
 ## Bearing on the record
 
-- **The question (QUESTION-tmp8bttd), germline route.** The record now has
+- **The question ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)), germline route.** The record now has
   the proponents' case from the proponents. These are inferences from the
   text, not the authors' claims.
   - *On mice the case is real but bounded.* Sperm RNA carries something
@@ -251,11 +251,11 @@ are further passed on beyond the first generation" (p. 99).
   stress response feeds the germline, then a group's narrative could set
   even the biological route. Costa et al.'s "grateful nation" reading is
   the record's only hint of this, and it is untested.
-- **The owner's thesis (CLAIM-tmpjylq8).** Indirect at most. Nothing
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Indirect at most. Nothing
   transmitted here involves a self, an ancestor represented, or a group.
-  The triviality objection (CLAIM-tmprudek) is not addressed. No note on
+  The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)) is not addressed. No note on
   the claim is proposed.
-- **Proposed dated note on QUESTION-tmp8bttd** (below, section 3).
+- **Proposed dated note on [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (below, section 3).
 - **No THEORY filed.**
 - **No ML instruction.**
 
