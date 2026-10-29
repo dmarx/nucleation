@@ -6,7 +6,7 @@ status_note: >-
   by an author, their institution or the publisher. The ETH Research
   Collection and the Zurich repository (ZORA) list it without a file, as
   they do Mansuy's other reviews of 2013–2017. No NOTE is filed. It stays
-  Unavailable until a copy is supplied (ADR-041).
+  Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Molecular insights into transgenerational non-genetic inheritance of acquired behaviours'
 version: 1
 history:

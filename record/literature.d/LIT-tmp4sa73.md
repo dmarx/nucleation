@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md):
   the publisher's copy is free to read at biologicalpsychiatryjournal.com
   (doi:10.1016/j.biopsych.2015.08.005), listed by Unpaywall as bronze; it
   is not in PMC and has no author manuscript. On 2026-10-29 the publisher

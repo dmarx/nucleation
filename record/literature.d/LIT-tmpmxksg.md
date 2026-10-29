@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md):
   Nature marks the article free to read (nature.com/articles/5201538), but
   on 2026-10-29 the page served no body text and the PDF link redirected
   through Nature's sign-in back to the article page; it is not in PMC, and

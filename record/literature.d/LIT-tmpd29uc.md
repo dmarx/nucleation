@@ -8,7 +8,7 @@ status_note: >-
   the authors' Dutch restatements; Haifa's research system lists it
   without a file, and Erasmus's repository answered with a Cloudflare
   challenge. No NOTE is filed. It stays Unavailable until a copy is
-  supplied (ADR-041).
+  supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Are children of Holocaust survivors less well-adapted? A meta-analytic investigation of secondary traumatization'
 version: 1
 history:

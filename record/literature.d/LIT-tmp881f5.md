@@ -8,7 +8,7 @@ status_note: >-
   tests the handbook's framework is posted as the APA publisher PDF on a
   University of Minnesota page under APA's personal-use notice; it was not
   read, pending the owner's word on that route. No NOTE is filed. It stays
-  Unavailable until a copy is supplied (ADR-041).
+  Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'International Handbook of Multigenerational Legacies of Trauma'
 version: 1
 history:

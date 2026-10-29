@@ -10,7 +10,7 @@ status_note: >-
   PDF by a Cloudflare challenge, the PMC page by a reCAPTCHA, Europe PMC
   with HTTP 500, and NCBI's E-utilities because the publisher does not
   allow full-text XML. So no work was read in its place. No NOTE is filed.
-  It stays Unavailable until a copy is supplied (ADR-041).
+  It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Cultural trauma and epigenetic inheritance'
 version: 1
 history:

@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under ADR-053: a
+  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md): a
   lawful free copy is in PMC (PMC6127768), and the publisher's PDF is open
   at Wiley. On 2026-10-29 the PMC page answered with a reCAPTCHA, Europe
   PMC with HTTP 500, NCBI's E-utilities refused because the publisher does

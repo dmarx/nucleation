@@ -142,22 +142,22 @@ system being laid down early, and leave the choice to future work
 
 ## Connections
 
-- **The question it is filed for (QUESTION-tmp8bttd).** It is the paper
+- **The question it is filed for ([QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)).** It is the paper
   behind the question's "womb" route.
-- **Horsthemke (NOTE-tmpahh4j)** classifies the Dutch Hunger Winter
+- **Horsthemke ([NOTE-tmpahh4j](NOTE-tmpahh4j.md))** classifies the Dutch Hunger Winter
   results as fetal programming, "a direct consequence of the exposure in
   utero". This paper fits that reading and does not claim otherwise: it
   studies only the exposed generation.
-- **Heard and Martienssen (NOTE-tmp3dbkt)** draw the line this paper
+- **Heard and Martienssen ([NOTE-tmp3dbkt](NOTE-tmp3dbkt.md))** draw the line this paper
   sits on the near side of: an effect counts as transgenerational only in
   a generation never exposed.
-- **Costa et al. (NOTE-tmp3firt)** cite this paper; their finding that a
+- **Costa et al. ([NOTE-tmp3firt](NOTE-tmp3firt.md))** cite this paper; their finding that a
   mother's late-gestation nutrition decides whether a father's hardship
   shows in sons puts the womb inside the paternal story. Here
   late-gestation famine left no IGF2 mark, which suggests, as an
   inference only, that if the Civil War effect runs through the womb it
   is not through this kind of mark.
-- **Dias and Ressler (NOTE-tmpeof8o).** The mouse case concerns a mark in
+- **Dias and Ressler ([NOTE-tmpeof8o](NOTE-tmpeof8o.md)).** The mouse case concerns a mark in
   a parent's germ cells; this one concerns a mark in the exposed person's
   own blood. The two are often cited together and show different things.
 - **The thesis it is reprinted in** extends the measurement to fifteen
@@ -166,7 +166,7 @@ system being laid down early, and leave the choice to future work
 
 ## Bearing on the record
 
-- **QUESTION-tmp8bttd.** This is the womb route at its strongest, and it
+- **[QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).** This is the womb route at its strongest, and it
   is narrower than the question's one sentence on it. These are
   inferences from the paper.
   - **It is real but small.** A 5.2% difference at one gene, in blood,
@@ -189,13 +189,13 @@ system being laid down early, and leave the choice to future work
   - **On the identity route it is silent.** What passes is a methylation
     level in a growth gene. Nothing in it needs the exposed person to know
     of the famine, or to represent a mother or a nation.
-- **The owner's thesis (CLAIM-tmpjylq8).** Idle, as on the other
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Idle, as on the other
   biological routes. The paper shows a channel by which a past event
   reaches a later person with no self-identification involved. That is
   the question's "state, not an identification" again.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed.
-- **A dated note is proposed for QUESTION-tmp8bttd** (section 3). No dated
-  note on CLAIM-tmpjylq8.
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed.
+- **A dated note is proposed for [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md)** (section 3). No dated
+  note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).
 - **No THEORY filed.** One locus, one cohort; the follow-up loci in the
   thesis are unread.
 - **No ML instruction.**

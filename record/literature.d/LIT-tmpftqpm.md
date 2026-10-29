@@ -6,7 +6,7 @@ status_note: >-
   by an author, their institution or the publisher. Volkan's site is a
   parked domain, and the University of Virginia's archive lists the paper
   by title only. No NOTE is filed. It stays Unavailable until a copy is
-  supplied (ADR-041).
+  supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'Transgenerational Transmissions and Chosen Traumas: An Aspect of Large-Group Identity'
 version: 1
 history:
