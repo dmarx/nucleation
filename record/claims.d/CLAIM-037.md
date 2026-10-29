@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpaviuz
 title: 'Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,13 @@ history:
     LIT-843's causal-past route contests that "needs", so the warrant is
     interpretive. The defeat condition keeps its first disjunct. The title is
     unchanged, and the status stays Proposed.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    A dated note added by the twelfth status review (ADR-057): ARG-022,
+    the source argument concluding this claim from LIT-777, is Rejected,
+    and the note says what should replace that ground. The claim, its
+    grounds and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -120,3 +127,17 @@ route, which folds signalling into the classical model instead. Per
 one with multimaximal couplings, for observables in more than two contexts.
 The thesis is interpretive until the record compares the two routes on a
 signalling data set, or concedes "needs" to "can handle".
+
+## Note of 2026-10-29: its source argument is Rejected
+
+ARG-022, which held that the 2016 Contextuality-by-Default paper (LIT-777)
+grounds the criterion the manuscript's general observational covers need,
+is Rejected: THEORY-168's note of this date works a binary system with a
+content in four contexts on which the 2016 criterion and CbD 2.0 disagree.
+For contents in more than two contexts, the ground this claim's
+"needs Contextuality-by-Default" should cite is CbD 2.0, Dzhafarov and
+Kujala's multimaximal criterion (LIT-831, read in NOTE-643), with
+THEORY-722 and THEORY-168 for how the verdict depends on the
+representation. LIT-777 still grounds it for cyclic and consistently
+connected systems, where the two versions agree. Moving the ground is left
+to the next pass on this claim.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpgp40l
 title: 'Trope analysis of the kind A155 proposes is Propp''s and Lévi-Strauss''s transformational analysis, whom the manuscript should cite as precursors'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -18,6 +18,15 @@ history:
     Lévi-Strauss's, and trope annotations are written to fit their
     examples, so agreement with TV Tropes labels cannot by itself validate
     a structural account'. The body is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Ground moved from THEORY-167 to THEORY-tmp81054 by the twelfth status
+    review (ADR-057, ADR-058). The claim uses only what Propp proposes, that
+    wondertales share one composition and "differ in who performs the
+    functions and how", which the split holds Active; whether the proposal
+    is true stays THEORY-167's question. THEORY-167's supports entry for
+    this claim is removed. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -28,7 +37,7 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-019
 grounds:
-- THEORY-167
+- THEORY-tmp81054
 - LIT-830
 - LIT-804
 - LIT-807

@@ -13,7 +13,7 @@ promote_when: >-
   later narratology, cannot settle it, since the scheme was built to fit
   such tales.
 title: 'The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -23,6 +23,16 @@ history:
     functions as the Russian read here, with different signs, and the
     Lévi-Strauss account (THEORY-432) that sets this morphology
     beside it as the syntagmatic contrast.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    By the twelfth status review (ADR-057, ADR-058). The sample behind the
+    order claim, read in NOTE-615's note of 2026-10-20, is added to What
+    was actually shown. What Propp proposes is split off as
+    THEORY-tmp81054, Active, on THEORY-1110's pattern; CLAIM-145 and
+    CLAIM-147, which use only the proposal, now ground there, and their
+    supports entries here are removed. A blocker note is added. The title,
+    the promote_when and the status are unchanged.
 tags:
 - myth-and-folklore
 - social-science
@@ -39,9 +49,6 @@ summary: >-
   It does not say all folktales, or all narratives, share the structure,
   and the claims of a single source tale and of mythic origin are
   conjectures the book does not support.
-supports:
-- CLAIM-145
-- CLAIM-147
 ---
 <!-- inactive-ok-file: NOTE-642 THEORY-432 — Skimmed and Proposed; the English translation's skim and the Lévi-Strauss account, named in Connections, not leaned on -->
 
@@ -80,6 +87,13 @@ freedom", Shklovsky's "accidental sequence of motifs") expected. Counts
 are given for the two exclusive pairs (41 and 33 of 100 tales, together
 three times). The appendices give the schemes per tale; the record's
 reading did not check them, because the OCR garbles them.
+A second Russian text, read for its appendices on 2026-10-20 (NOTE-615),
+narrows the sample behind the order claim: schemes were tabulated for fifty
+tales, and five were set aside, No. 94 as of another kind and Nos. 123, 127,
+139 and 159 because "the canonical sequence is also not strictly kept". The
+order is shown on 45 printed schemes, chosen partly for keeping it, and
+Propp says the printed material is half his working material. The schemes
+are on a fold-out insert that neither text reproduces.
 
 ## What this does not say
 
@@ -117,3 +131,11 @@ reading did not check them, because the OCR garbles them.
   English edition's introduction, sets this morphology as the syntagmatic
   analysis, an order of functions read off the text, against Lévi-Strauss's
   paradigmatic regrouping.
+
+## Note of 2026-10-29: what holds it back
+
+No coding of wondertales by analysts other than Propp, with agreement
+between coders measured, is held. And the corpus does not yet carry the
+title's fixed order: it is shown on 45 schemes chosen after setting aside
+tales whose order was not strictly kept, and those schemes are unchecked.
+What Propp proposes is held Active in THEORY-tmp81054.
