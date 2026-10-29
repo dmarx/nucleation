@@ -31,7 +31,16 @@ ENTRIES = {
     "claims.d/CLAIM-007.md": {"status": "Active", "role": "granted", "date": "2026-10-10",
                               "objects_to": ["CLAIM-008"]},
     "claims.d/CLAIM-008.md": {"status": "Active", "role": "thesis", "version": 2,
-                              "history": [{"version": 2, "date": "2026-10-12"}], "objected_by": ["CLAIM-007"]},
+                              "history": [{"version": 2, "date": "2026-10-12", "note": "Narrowed for CLAIM-007."}],
+                              "objected_by": ["CLAIM-007", "CLAIM-011"]},
+    # a Proposed objection the target was narrowed for, and one revised past for something else
+    "claims.d/CLAIM-011.md": {"status": "Proposed", "role": "counter", "date": "2026-10-10",
+                              "objects_to": ["CLAIM-008"]},
+    "claims.d/CLAIM-012.md": {"status": "Active", "role": "granted", "date": "2026-10-10",
+                              "objects_to": ["CLAIM-013"]},
+    "claims.d/CLAIM-013.md": {"status": "Proposed", "role": "thesis", "version": 2,
+                              "history": [{"version": 2, "date": "2026-10-19", "note": "Warrant corrected."}],
+                              "objected_by": ["CLAIM-012"]},
     # an Active counter is held true whatever its role, so it is a concession too (ADR-059)
     "claims.d/CLAIM-009.md": {"status": "Active", "role": "counter", "date": "2026-10-10",
                               "objects_to": ["CLAIM-010"]},
@@ -84,8 +93,8 @@ def test_answered_questions_need_an_active_answer(tmp_path):
 
 
 def test_unblocked_means_premises_active_and_no_live_objection(tmp_path):
-    # CLAIM-002 uses a retired TERM, CLAIM-003 has a live objection; the counter has neither
-    assert record(tmp_path).unblocked() == ["CLAIM-005"]
+    # CLAIM-002 uses a retired TERM, CLAIM-003 has a live objection; the counters have neither
+    assert record(tmp_path).unblocked() == ["CLAIM-005", "CLAIM-011"]
 
 
 def test_successors_are_followed_to_a_live_entry(tmp_path):
@@ -95,7 +104,14 @@ def test_successors_are_followed_to_a_live_entry(tmp_path):
 def test_unwritten_concessions_find_a_target_not_revised_since(tmp_path):
     # ADR-059: a conceded objection is recorded by revising its target
     assert record(tmp_path).unwritten_concessions() == [("CLAIM-006", "CLAIM-003", "2026-10-10", "never"),
-                                                        ("CLAIM-009", "CLAIM-010", "2026-10-10", "never")]
+                                                        ("CLAIM-009", "CLAIM-010", "2026-10-10", "never"),
+                                                        ("CLAIM-012", "CLAIM-013", "2026-10-10", "2026-10-19")]
+
+
+def test_a_revision_counts_only_if_it_names_the_objection(tmp_path):
+    # CLAIM-013 was revised after CLAIM-012 for something else: that does not write the concession in
+    r = record(tmp_path)
+    assert not r.written("CLAIM-012", "CLAIM-013") and r.written("CLAIM-007", "CLAIM-008")
 
 
 def test_a_target_filed_with_its_concession_says_so(tmp_path):
@@ -110,7 +126,10 @@ def test_a_target_filed_with_its_concession_says_so(tmp_path):
 def test_a_written_concession_is_no_longer_a_live_objection(tmp_path):
     # ADR-057: narrowing the target answers the objection; an unwritten one still stands
     r = record(tmp_path)
-    assert r.live_objections("CLAIM-008") == [] and r.live_objections("CLAIM-010") == ["CLAIM-009"]
+    assert r.live_objections("CLAIM-008") == ["CLAIM-011"] and r.live_objections("CLAIM-010") == ["CLAIM-009"]
+    # a Proposed objection the target was narrowed for no longer stands either
+    r.docs["CLAIM-008"]["history"].append({"version": 3, "date": "2026-10-20", "note": "CLAIM-011 written in."})
+    assert r.live_objections("CLAIM-008") == []
 
 
 def test_a_recent_blocker_note_holds_an_entry_out_of_the_work(tmp_path):

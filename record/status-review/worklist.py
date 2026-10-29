@@ -88,18 +88,23 @@ class Record:
         return [t for f in NEEDS.get(scheme(code), []) for t in as_list(fm.get(f)) if t in self.docs]
 
     def live_objections(self, code: str) -> list[str]:
-        """Objections that still stand: Proposed ones, and held ones whose concession is unwritten.
+        """Objections that still stand: Proposed or Active ones whose concession is not written in.
 
-        A held objection answered by narrowing its target no longer stands against it (ADR-057).
+        An objection answered by narrowing its target no longer stands against it (ADR-057).
         """
         fm = self.docs[code]
         return [t for f in ("objected_by", "countered_by") for t in as_list(fm.get(f))
-                if self.status(t) == "Proposed" or (self.status(t) == "Active" and not self.written(t, code))]
+                if self.status(t) in LIVE and not self.written(t, code)]
 
     def written(self, objection: str, target: str) -> bool:
-        """Whether the target has been revised for the objection, or says it was filed with it."""
+        """Whether the target has been revised for the objection, or says it was filed with it.
+
+        Either record must name the objection: a revision made for something else, after the
+        objection was filed, does not write it in.
+        """
         on = str(self.docs[objection].get("date", ""))
-        revised = [str(h.get("date", "")) for h in self.docs[target].get("history") or [] if isinstance(h, dict)]
+        revised = [str(h.get("date", "")) for h in self.docs[target].get("history") or []
+                   if isinstance(h, dict) and objection in str(h.get("note", ""))]
         filed = [d for d, text in FILED_WITH.findall(self.bodies.get(target, "")) if objection in text]
         return any(d >= on for d in revised + filed)
 
