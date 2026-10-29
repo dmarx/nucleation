@@ -24,6 +24,7 @@ tags:
 - self
 - motivation
 - personhood
+- future-generations
 date: '2026-10-29'
 published: '2011-10-24'
 doi: '10.1111/j.1749-6632.2011.06201.x'

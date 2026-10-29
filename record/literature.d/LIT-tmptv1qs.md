@@ -17,6 +17,7 @@ tags:
 - motivation
 - narrative-unity
 - altruism
+- future-generations
 date: '2026-10-29'
 published: '1992-06-01'
 doi: '10.1037/0022-3514.62.6.1003'

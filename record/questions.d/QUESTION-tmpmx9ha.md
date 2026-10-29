@@ -1,0 +1,80 @@
+---
+status: Open
+title: "What, if anything, do the living owe people who will live in the far future, and does that obligation rest on the good of those people, on an impersonal good, or on what the living themselves value?"
+version: 1
+tags:
+- future-generations
+- ethics
+- altruism
+date: '2026-10-29'
+line: distributed-agency
+summary: >-
+  The owner's extension of 2026-10-29 of the legacy line
+  (QUESTION-tmpruhu4) to obligations toward the future, "e.g.
+  longtermism". Longtermism holds that the far future's size makes its
+  welfare dominate present choices, on an impersonal view. Person-affecting
+  views owe nothing to merely possible people, and the non-identity
+  problem makes even harms to actual future people hard to state.
+  Scheffler grounds concern for the future in what the living value. Lay
+  judgement reaches the far future only when prompted. Which ground holds
+  decides whether the owner's thesis has a counterexample here.
+---
+<!-- inactive-ok-file: QUESTION-tmpruhu4 CLAIM-tmpjylq8 CLAIM-tmprudek LIT-469 LIT-tmpl4qml LIT-tmpcpdlk LIT-tmpetcju LIT-tmp1we1q LIT-tmph7mkx LIT-tmpr74qy LIT-tmpnjafv LIT-tmpoc3e4 LIT-tmp12vk2 LIT-tmpggdgs LIT-tmpbj0k1 LIT-tmpll0u1 LIT-tmpklw8s LIT-tmp37kk5 LIT-tmpk72ci LIT-tmpka2bf LIT-tmpi3189 LIT-tmpk6b4i LIT-tmp0ocqn — Open, Proposed, Deferred or Unavailable; the questions, thesis and works the question is organised around, cited as open -->
+
+# QUESTION-tmpmx9ha: What, if anything, do the living owe people who will live in the far future, and does that obligation rest on the good of those people, on an impersonal good, or on what the living themselves value?
+
+## Why it is a question
+
+The legacy question (QUESTION-tmpruhu4) asks why people care about what
+comes after them. This one asks what they owe it. The two meet in the
+owner's thesis (CLAIM-tmpjylq8): if concern for far-future people is owed
+and acted on, and those people can never be part of anyone's extended self,
+the thesis has its hardest case.
+
+Three grounds of obligation compete.
+
+- **An impersonal good.** Longtermism (Greaves and MacAskill, LIT-tmp1we1q;
+  MacAskill, LIT-tmpk6b4i) holds that the expected size of the future makes
+  its welfare dominate the most important present choices. Bostrom
+  (LIT-tmph7mkx, LIT-tmpr74qy) and Ord (LIT-tmp0ocqn) make reducing
+  existential risk the priority. Ramsey (LIT-tmpggdgs) refused to discount
+  the future merely for being later. On these views what is owed is owed
+  to the good, not to anyone's self. The thesis has nothing to say about
+  them as views; it bears only on whether anyone is moved by them.
+- **The good of future people.** Person-affecting views (Narveson,
+  LIT-tmpoc3e4) owe nothing to merely possible people. The non-identity
+  problem (Parfit, LIT-tmpnjafv; LIT-469) makes even harms to actual future
+  people hard to state, because different choices bring different people
+  into existence. The SEP survey (Meyer, LIT-tmpll0u1) maps the positions.
+- **What the living value.** Scheffler (LIT-tmpbj0k1; LIT-tmpl4qml) grounds
+  concern for future generations partly in our own valuing, attachments
+  and stake in the human story going on. That is the ground nearest the
+  thesis: the future matters because of what it means to us.
+
+Two further lines keep it open.
+
+- **Whether longtermism can guide action.** Tarsney (LIT-tmpklw8s) on how
+  fast our predictable influence decays, and Thorstad (LIT-tmp37kk5) on
+  whether high existential risk lowers the value of reducing it.
+- **Gardiner's storm** (LIT-tmp12vk2). Each generation gains from deferring
+  costs to the next, which cannot retaliate. Self-interest across
+  generations points one way and obligation the other. That is the
+  thesis's question in its sharpest practical form.
+
+## What would count as an answer
+
+- **On the normative question:** an argument that one ground is correct, or
+  that they combine, and what follows for discounting, for population size
+  and for existential risk.
+- **On the psychology** (the thesis's part):
+  - **How far concern reaches.** Lay judgement does not treat extinction as
+    uniquely bad unless the lost future is made salient (Schubert et al.,
+    LIT-tmpk72ci). It counts adding happy people as good, against the
+    person-affecting view (Caviola et al., LIT-tmpka2bf).
+  - **What predicts it.** Felt responsibility to future generations
+    predicts pro-environmental concern (Syropoulos and Markowitz,
+    LIT-tmpi3189), as legacy motivation does (Wade-Benzoni, LIT-tmpcpdlk;
+    Zaval et al., LIT-tmpetcju).
+  - **The thesis's test.** Whether such concern varies with a measured
+    continuity between the self and the future, apart from caring. That is
+    CLAIM-tmprudek's test applied across generations.

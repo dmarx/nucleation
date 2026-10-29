@@ -16,6 +16,7 @@ history:
 tags:
 - altruism
 - motivation
+- future-generations
 date: '2026-10-29'
 published: '2012-06-12'
 doi: '10.1177/0956797612443967'

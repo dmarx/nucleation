@@ -19,6 +19,7 @@ tags:
 - ethics
 - altruism
 - personhood
+- future-generations
 date: '2026-10-29'
 published: '2013-11-14'
 doi: '10.1093/acprof:oso/9780199982509.001.0001'

@@ -6,6 +6,7 @@ tags:
 - altruism
 - self
 - motivation
+- future-generations
 date: '2026-10-29'
 line: distributed-agency
 summary: >-
@@ -19,7 +20,7 @@ summary: >-
   interests that outlast death (Pitcher), and care for a future that does
   nothing for us (Scheffler).
 ---
-<!-- inactive-ok-file: CLAIM-tmpjylq8 CLAIM-tmprudek CLAIM-420 THEORY-464 LIT-tmpm40au LIT-tmpl4qml LIT-tmphj5mc LIT-tmpcbh59 LIT-tmp2s109 LIT-tmpd9qw4 LIT-tmptv1qs LIT-tmpcpdlk LIT-tmpm5do0 LIT-tmpetcju LIT-tmp8yuyb — Proposed, Deferred or Unavailable; the thesis, claims and works the question is organised around, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpjylq8 CLAIM-tmprudek CLAIM-420 THEORY-464 LIT-tmpm40au LIT-tmpl4qml LIT-tmphj5mc LIT-tmpcbh59 LIT-tmp2s109 LIT-tmpd9qw4 LIT-tmptv1qs LIT-tmpcpdlk LIT-tmpm5do0 LIT-tmpetcju LIT-tmp8yuyb QUESTION-tmpmx9ha — Proposed, Deferred or Unavailable; the thesis, claims and works the question is organised around, cited as open -->
 
 # QUESTION-tmpruhu4: Is acting for one's legacy, for how one is remembered or for people who will live after one's death, self-interest on a self extended in time, as collectivism on the owner's thesis is self-interest on a self extended across people?
 
@@ -76,3 +77,11 @@ Four bodies of work bear on it.
   beneficence only through the wish to be remembered, the thesis's
   reading, or Pitcher's, gains. If it raises beneficence also where no one
   will know, Scheffler's gains.
+
+## The wider question
+
+What the living owe the future, as distinct from why they care about their
+own legacy, is QUESTION-tmpmx9ha: longtermism, person-affecting views, the
+non-identity problem and Scheffler's grounding of concern in what the
+living value.
+
