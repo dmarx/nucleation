@@ -207,8 +207,8 @@ persisting and being correct (note of 2026-10-11).
 ## Note of 2026-10-29: what holds it back
 
 The first defeater has not been checked against the one record that could
-check it. CASE-183's inbound references per code, which would tell an
+check it. [CASE-183](../cases.d/CASE-183.md)'s inbound references per code, which would tell an
 anchor from a structure that only persists, have not been computed.
-ARG-028's open question, whether measures counted in the record's own
-grammar can show anchoring at all, is unanswered. CLAIM-184 is no longer
+[ARG-028](../arguments.d/ARG-028.md)'s open question, whether measures counted in the record's own
+grammar can show anchoring at all, is unanswered. [CLAIM-184](CLAIM-184.md) is no longer
 filed as an objection: it states a cost of this claim, not a denial.

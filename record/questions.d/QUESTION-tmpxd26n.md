@@ -10,9 +10,9 @@ line: will-organization
 refines:
 - QUESTION-045
 summary: >-
-  The promotion condition formerly on THEORY-285, moved here when the
-  eighth status review narrowed THEORY-285 to what its simulations showed
-  and promoted it, as THEORY-178's moved to QUESTION-172. The model makes
+  The promotion condition formerly on [THEORY-285](../theory.d/THEORY-285.md), moved here when the
+  eighth status review narrowed [THEORY-285](../theory.d/THEORY-285.md) to what its simulations showed
+  and promoted it, as [THEORY-178](../theory.d/THEORY-178.md)'s moved to [QUESTION-172](QUESTION-172.md). The model makes
   the prediction; whether people bear it out is this question.
 ---
 
@@ -20,14 +20,14 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-285 shows, in illustrative simulation, how an overly precise prior
+[THEORY-285](../theory.d/THEORY-285.md) shows, in illustrative simulation, how an overly precise prior
 that one is in a harmful context can keep itself up by making exploratory
 sampling look uninformative. The paper fits no data. Whether people with
-persistent PTSD do this is open, and it is what QUESTION-045's lock-in
+persistent PTSD do this is open, and it is what [QUESTION-045](QUESTION-045.md)'s lock-in
 reading of disorder would need at the individual scale.
 
 One reading in the record leans against the sampling account in people,
-on a different task. In De Kleine et al. (THEORY-912), patients with OCD or
+on a different task. In De Kleine et al. ([THEORY-912](../theory.d/THEORY-912.md)), patients with OCD or
 PTSD "sampled as often as controls and drew less from the outcomes". That
 task is avoiding a safety cue, not sampling context, so it does not answer
 this question.

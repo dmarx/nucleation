@@ -167,8 +167,8 @@ are left to the book ([NOTE-460](../notes.d/NOTE-460.md), Limitations).
 Kept Proposed by the eighth status review. No reading in the record measures the
 attentional availability of self-model content together with reported
 selfhood, and none reports a wholly opaque self-model either way:
-THEORY-597's meditation reports of "loss of basic self" and THEORY-768's
+[THEORY-597](THEORY-597.md)'s meditation reports of "loss of basic self" and [THEORY-768](THEORY-768.md)'s
 full-body illusion record changes in selfhood with no measure of opacity,
-as THEORY-768 says. Being No One (LIT-467), whose case studies the précis
-leaves out, is Unavailable. CLAIM-156 now cites this reading as
-corroboration; CLAIM-355 still grounds on it.
+as [THEORY-768](THEORY-768.md) says. Being No One ([LIT-467](../literature.d/LIT-467.md)), whose case studies the précis
+leaves out, is Unavailable. [CLAIM-156](../claims.d/CLAIM-156.md) now cites this reading as
+corroboration; [CLAIM-355](../claims.d/CLAIM-355.md) still grounds on it.

@@ -204,7 +204,7 @@ has been shown to be in an emotional state.
 
 ## Note of 2026-10-29: what holds it back
 
-Read in full (NOTE-553). The paper argues a possibility and withdraws its
+Read in full ([NOTE-553](../notes.d/NOTE-553.md)). The paper argues a possibility and withdraws its
 one worked case, the USS Palau, as detection without fear. Its replacement,
 the McCain–Palin campaign, waits on anthropological data the paper says it
 lacks. The record holds no group-level study of the kind `promote_when`

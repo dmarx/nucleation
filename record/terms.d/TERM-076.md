@@ -98,10 +98,10 @@ to a collective relation R_t on X_t.
   empty relation of wins, so every ordering is trivially its potential.
   Valence is *undefined* there, not zero or neutral: the term applies only
   over a non-empty set of contested pairs on which ≿_v and some rival
-  ordering disagree. It is the thesis's first consequence (CLAIM-440), now a
+  ordering disagree. It is the thesis's first consequence ([CLAIM-440](../claims.d/CLAIM-440.md)), now a
   condition of the definition, stated for contest: what it needs is
   contested pairs in the record of wins, not demands that are jointly
-  infeasible (TERM-060). The two come apart both ways (CLAIM-449).
+  infeasible ([TERM-060](TERM-060.md)). The two come apart both ways ([CLAIM-449](../claims.d/CLAIM-449.md)).
 - **The kind.** ≿_v ranks the system's own states by their bearing on
   its maintenance: its essential variables in Ashby's sense ([THEORY-324](../theory.d/THEORY-324.md)),
   the graded norm of Di Paolo's adaptivity ([THEORY-628](../theory.d/THEORY-628.md)), what [THEORY-045](../theory.d/THEORY-045.md)
@@ -244,7 +244,7 @@ record is scored on held-out contests (above).
   demands that no admissible transformation meets jointly. Valence on
   this term presupposes contest, not frustration: rankings can contest
   while every demand is satisfiable, and demands can be jointly
-  infeasible before any contest is recorded (CLAIM-449). Where no pair is
+  infeasible before any contest is recorded ([CLAIM-449](../claims.d/CLAIM-449.md)). Where no pair is
   contested, no ranking has anything to prevail over, and the nonvacuity
   condition leaves valence undefined whether or not the demands are
   frustrated.
@@ -268,10 +268,10 @@ record is scored on held-out contests (above).
 
 ## Note of 2026-10-29: what holds it back
 
-CLAIM-441's flow case is unanswered. On CLAIM-162's reading of flow nothing
+[CLAIM-441](../claims.d/CLAIM-441.md)'s flow case is unanswered. On [CLAIM-162](../claims.d/CLAIM-162.md)'s reading of flow nothing
 is contested, so this definition leaves flow's valence undefined while flow
-is reported as positive. Which of CLAIM-441's four exits holds turns on
+is reported as positive. Which of [CLAIM-441](../claims.d/CLAIM-441.md)'s four exits holds turns on
 whether flow is positive during the episode, and the flow literature
-(LIT-914) is unread. Its fourth exit would change this definition's
-nonvacuity condition. CLAIM-440's consequence 1 still says frustration and
+([LIT-914](../literature.d/LIT-914.md)) is unread. Its fourth exit would change this definition's
+nonvacuity condition. [CLAIM-440](../claims.d/CLAIM-440.md)'s consequence 1 still says frustration and
 wants the same correction when its cluster is reviewed.

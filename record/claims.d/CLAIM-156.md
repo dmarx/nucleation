@@ -84,8 +84,8 @@ dominates:
   This claim says mindfulness does this.
 
 ACT describes the mindful stance as holding a thought or urge as a thought
-or urge, from a perspective that is "not the content" (THEORY-044), and makes
-that stance part of its working definition of mindfulness (THEORY-051). On
+or urge, from a perspective that is "not the content" ([THEORY-044](../theory.d/THEORY-044.md)), and makes
+that stance part of its working definition of mindfulness ([THEORY-051](../theory.d/THEORY-051.md)). On
 Metzinger's reading ([THEORY-064](../theory.d/THEORY-064.md)), attending to a content as a construction
 makes it opaque, so it is no longer lived simply as oneself. Put in the
 will-organization line's terms, the urge stays the most valued option at
@@ -120,8 +120,8 @@ internal and reversible.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the eighth status review. Its premise CLAIM-169 is Proposed until
-THEORY-067's bundling mechanism is tested. And no study the record has read
+Kept Proposed by the eighth status review. Its premise [CLAIM-169](CLAIM-169.md) is Proposed until
+[THEORY-067](../theory.d/THEORY-067.md)'s bundling mechanism is tested. And no study the record has read
 measures discounting and choice under temptation before and after practice
-and asks whether discounting mediates the change: Dixon et al. (LIT-906) and
-Ge et al. (LIT-916) are known only as summaries, and point opposite ways.
+and asks whether discounting mediates the change: Dixon et al. ([LIT-906](../literature.d/LIT-906.md)) and
+Ge et al. ([LIT-916](../literature.d/LIT-916.md)) are known only as summaries, and point opposite ways.

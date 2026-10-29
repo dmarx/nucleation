@@ -188,11 +188,11 @@ about the act's relations.
 
 ## Note of 2026-10-29: what holds it back
 
-Its premise CLAIM-004 lacks the criterion that tells reframing an act from
-changing it, and CLAIM-221's residue is unanswered: whether standing that
+Its premise [CLAIM-004](CLAIM-004.md) lacks the criterion that tells reframing an act from
+changing it, and [CLAIM-221](CLAIM-221.md)'s residue is unanswered: whether standing that
 enters through the content of the speaker's intention, as in Strawson's
 orders, is a relation in this claim's sense, which decides whether the
 defeat condition's "intention held fixed" can be met for reproach at all.
-CLAIM-224's residue, whether a target culture's norms define the same
-participant roles, is also open; CASE-069 and CASE-073 move the first
+[CLAIM-224](CLAIM-224.md)'s residue, whether a target culture's norms define the same
+participant roles, is also open; [CASE-069](../cases.d/CASE-069.md) and [CASE-073](../cases.d/CASE-073.md) move the first
 dispute onto documented cases without settling it.

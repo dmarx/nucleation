@@ -41,10 +41,10 @@ corroborated_by:
 summary: >-
   The owner's move at U19–U20: an organization can be "angry" or "blind"
   as a system is "happy" in a stable orbit, mapped through Frijda's action
-  readiness (TERM-094). Set aside from the will paper on 2026-10-04 and
-  reopened by the owner on 2026-10-23; CLAIM-432 and CLAIM-440 rest on it.
-  Huebner (THEORY-125) argues the same possibility independently. The
-  objection to answer first is THEORY-101's identity of valence with a
+  readiness ([TERM-094](../terms.d/TERM-094.md)). Set aside from the will paper on 2026-10-04 and
+  reopened by the owner on 2026-10-23; [CLAIM-432](CLAIM-432.md) and [CLAIM-440](CLAIM-440.md) rest on it.
+  Huebner ([THEORY-125](../theory.d/THEORY-125.md)) argues the same possibility independently. The
+  objection to answer first is [THEORY-101](../theory.d/THEORY-101.md)'s identity of valence with a
   felt state.
 supports:
 - CLAIM-432
@@ -139,9 +139,9 @@ and which stays Proposed.
 
 ## Note of 2026-10-29: what holds it back
 
-THEORY-101's identification of hedonic valence with a felt regulatory state
+[THEORY-101](../theory.d/THEORY-101.md)'s identification of hedonic valence with a felt regulatory state
 is still unanswered, as the notes of 2026-10-12 and 2026-10-23 say. The
 record holds no claim showing either that action readiness with control
-precedence (TERM-094) can be had without hedonic valence, or that Veit's
-identity, argued for animal valence and rated a sketch in THEORY-101, does
+precedence ([TERM-094](../terms.d/TERM-094.md)) can be had without hedonic valence, or that Veit's
+identity, argued for animal valence and rated a sketch in [THEORY-101](../theory.d/THEORY-101.md), does
 not extend to it. A claim that settles either would answer it.

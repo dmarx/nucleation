@@ -320,8 +320,8 @@ This claim is in the last group. Its interpretive warrant stands.
 
 Defeater (b) has a candidate the record holds and has not ruled on. A
 symmetry or conservation law individuates kinds (Wigner's classification,
-discussed in CLAIM-134), and Deutsch and Marletto's possibility facts do the
-same (THEORY-1066), with nothing obviously realizing them. The claim has not
+discussed in [CLAIM-134](CLAIM-134.md)), and Deutsch and Marletto's possibility facts do the
+same ([THEORY-1066](../theory.d/THEORY-1066.md)), with nothing obviously realizing them. The claim has not
 said whether such a law counts as realizing a constraint, which its notes of
-2026-10-27 ask. It also now rests on CLAIM-405 for "partly fixed", and
-CLAIM-405 is Proposed.
+2026-10-27 ask. It also now rests on [CLAIM-405](CLAIM-405.md) for "partly fixed", and
+[CLAIM-405](CLAIM-405.md) is Proposed.

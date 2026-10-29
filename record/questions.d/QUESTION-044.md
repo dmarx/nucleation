@@ -38,12 +38,12 @@ summary: >-
 
 ## Why the record needs it
 
-CLAIM-039 states its characterization in Frijda's concept, action readiness with control precedence (TERM-094). If [THEORY-057](../theory.d/THEORY-057.md) is right about emotion categories in general, [CLAIM-039](../claims.d/CLAIM-039.md) inherits a perceiver-relativity it does not state. "The firm is angry" would then be true by a community's concept, as weeds are weeds. [QUESTION-049](QUESTION-049.md) raises the same tracking-or-shaping split for corporate knowledge and intention. This raises it for affect, where the record already holds the two sides.
+[CLAIM-039](../claims.d/CLAIM-039.md) states its characterization in Frijda's concept, action readiness with control precedence ([TERM-094](../terms.d/TERM-094.md)). If [THEORY-057](../theory.d/THEORY-057.md) is right about emotion categories in general, [CLAIM-039](../claims.d/CLAIM-039.md) inherits a perceiver-relativity it does not state. "The firm is angry" would then be true by a community's concept, as weeds are weeds. [QUESTION-049](QUESTION-049.md) raises the same tracking-or-shaping split for corporate knowledge and intention. This raises it for affect, where the record already holds the two sides.
 
 ## What the record holds
 
 - [THEORY-057](../theory.d/THEORY-057.md): emotion categories are "populations of variable instances grouped by the perceiver's concepts". The two accounts differ on "whose function does the grouping". Limit: one theoretical paper, with no test of appraisal predictions.
-- [THEORY-055](../theory.d/THEORY-055.md): an appraisal "elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness". That puts the grouping in the agent. Limit: argued, not tested. CLAIM-039 uses its concept (TERM-094), not this account.
+- [THEORY-055](../theory.d/THEORY-055.md): an appraisal "elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness". That puts the grouping in the agent. Limit: argued, not tested. [CLAIM-039](../claims.d/CLAIM-039.md) uses its concept ([TERM-094](../terms.d/TERM-094.md)), not this account.
 
 ## What would answer it
 

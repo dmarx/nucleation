@@ -90,7 +90,7 @@ The Condorcet example has the second and neither of the others. A fixed
 cyclic rule need not oscillate if the sequence of choices that would
 traverse the cycle never arises; conversely, governance can oscillate
 while each moment's decisions admit an ordering. That is a failure of
-persistence in TERM-078's sense: each window has a potential, and they are
+persistence in [TERM-078](../terms.d/TERM-078.md)'s sense: each window has a potential, and they are
 different orderings.
 
 **From structure to tension to dissonance.** Cyclic structure ≠ realized

@@ -167,7 +167,7 @@ fixes as:
    which can misdescribe the other three ([CLAIM-355](CLAIM-355.md), [CLAIM-415](CLAIM-415.md)).
 
 A40: "Resemblance ≠ Historical descent ≠ Numerical organizational
-identity." TERM-072, adopted on 2026-10-29, takes them as relations among
+identity." [TERM-072](../terms.d/TERM-072.md), adopted on 2026-10-29, takes them as relations among
 realizations, not as further senses.
 
 ## What it does not say

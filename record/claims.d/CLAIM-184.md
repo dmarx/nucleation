@@ -111,6 +111,6 @@ unshown.
 
 The count under "What would answer it" has not been run: citations of each
 Superseded CLAIM and TERM made after its retirement, with those
-acknowledged as history set apart. Nor has the loop TERM-020 requires been
+acknowledged as history set apart. Nor has the loop [TERM-020](../terms.d/TERM-020.md) requires been
 shown (note of 2026-10-12), so the claim has not yet cleared its own bar for
 lock-in.

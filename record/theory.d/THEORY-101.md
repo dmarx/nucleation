@@ -193,8 +193,8 @@ takes. The statement is unchanged.
 ## Note of 2026-10-29: what holds it back
 
 The thesis is argued in Veit 2023, which the record has not read; the reply
-read in NOTE-187 presupposes it. Beyond the reading, the comparative result
+read in [NOTE-187](../notes.d/NOTE-187.md) presupposes it. Beyond the reading, the comparative result
 its promote_when names, motivational trade-offs appearing where and only
 where other marks of felt valence appear and among the earliest of them, is
-not in the record. LIT-1466 gives one species at one cost, which cannot
+not in the record. [LIT-1466](../literature.d/LIT-1466.md) gives one species at one cost, which cannot
 show where trade-offs begin.

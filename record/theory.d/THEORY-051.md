@@ -138,7 +138,7 @@ is borrowed.
   exercises. In a sample selected for meditation-related difficulties, it
   catalogues distressing changes in the sense of self, among them loss of
   agency, loss of basic self and loosened self–other boundaries
-  ([NOTE-036](../notes.d/NOTE-036.md), now read in full as THEORY-597). That sample is not a clinical ACT population, and the
+  ([NOTE-036](../notes.d/NOTE-036.md), now read in full as [THEORY-597](THEORY-597.md)). That sample is not a clinical ACT population, and the
   exercises differ in dose and aim. It does show that the same direction of
   change can be distressing, so a dose or context condition may be part of
   any true version of this claim.
@@ -186,7 +186,7 @@ Kept Proposed by the eighth status review. No study in the record gives
 self-as-context exercises apart from defusion and acceptance, or measures
 the self as context separately from them, so none shows its change
 preceding outcome; the one defusion study counts here only under RFT's
-deictic reading, which its authors call "no more than a heuristic". LIT-543,
+deictic reading, which its authors call "no more than a heuristic". [LIT-543](../literature.d/LIT-543.md),
 which might report this domain separately, is Unavailable, and the premise
-THEORY-050 is Proposed. CLAIM-156 and CLAIM-349 now cite this reading as
+[THEORY-050](THEORY-050.md) is Proposed. [CLAIM-156](../claims.d/CLAIM-156.md) and [CLAIM-349](../claims.d/CLAIM-349.md) now cite this reading as
 corroboration, not as a ground.

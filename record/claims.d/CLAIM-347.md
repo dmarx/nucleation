@@ -282,7 +282,7 @@ partial.
 
 ## Note of 2026-10-29: promoted
 
-Promoted on CLAIM-368 and TERM-060, both Active, with no objection filed.
-Watson's comparison (THEORY-232) is the measure this claim refines, cited
-as corroboration, not as a ground. CLAIM-449 objects to CLAIM-440's use of
+Promoted on [CLAIM-368](CLAIM-368.md) and [TERM-060](../terms.d/TERM-060.md), both Active, with no objection filed.
+Watson's comparison ([THEORY-232](../theory.d/THEORY-232.md)) is the measure this claim refines, cited
+as corroboration, not as a ground. [CLAIM-449](CLAIM-449.md) objects to [CLAIM-440](CLAIM-440.md)'s use of
 the complex, not to this construction.

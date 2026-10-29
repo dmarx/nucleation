@@ -103,9 +103,9 @@ and which stays Proposed.
 ## Note of 2026-10-29: promoted
 
 The claim stands on A4 §6, the owner's assent at U5 and A3's re-noising, and
-it uses TERM-094 (Active). It has no objection, and nothing the record holds
-meets `defeated_if`. THEORY-055's elicitation thesis would bear on its
+it uses [TERM-094](../terms.d/TERM-094.md) (Active). It has no objection, and nothing the record holds
+meets `defeated_if`. [THEORY-055](../theory.d/THEORY-055.md)'s elicitation thesis would bear on its
 emotional-action half if it were held, because an appraisal of pertinence
 comes first there; but that appraisal is not the interpretation the act
-makes available, and THEORY-055 is Proposed. CASE-143 is an instance: the
+makes available, and [THEORY-055](../theory.d/THEORY-055.md) is Proposed. [CASE-143](../cases.d/CASE-143.md) is an instance: the
 favour came before the liking.

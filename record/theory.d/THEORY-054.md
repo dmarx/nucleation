@@ -169,8 +169,8 @@ identification.
 
 Kept Proposed by the eighth status review. No reading separates integrated from
 identified regulation: the SDT sources say the forms are usually combined,
-and the self-concordance study (NOTE-448) pools identified and intrinsic
+and the self-concordance study ([NOTE-448](../notes.d/NOTE-448.md)) pools identified and intrinsic
 reasons. Nor does the record hold a case in which a motive endorsed at a
-higher order behaves like a controlled one. THEORY-074's overlap index
-(NOTE-469) is a candidate measure of integration apart from endorsement,
+higher order behaves like a controlled one. [THEORY-074](THEORY-074.md)'s overlap index
+([NOTE-469](../notes.d/NOTE-469.md)) is a candidate measure of integration apart from endorsement,
 untested as one.

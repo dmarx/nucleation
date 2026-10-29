@@ -182,11 +182,11 @@ well as substance.
 
 ## Note of 2026-10-29: what holds it back
 
-The paper argues both theses and tests neither (NOTE-433). The record holds
+The paper argues both theses and tests neither ([NOTE-433](../notes.d/NOTE-433.md)). The record holds
 none of the results `promote_when` names: no mode of action readiness shown
 common to a category's instances across varied contexts and absent from
 other categories', and no case in which changing only an event's pertinence
 to a concern switches the emotion on or off or changes which one it is. The
-fuller statements, LIT-546 and LIT-550, are Unavailable. The rival,
-THEORY-057, is not what holds it back: an account with rivals goes Active
-when its `promote_when` is met, as THEORY-121 did.
+fuller statements, [LIT-546](../literature.d/LIT-546.md) and [LIT-550](../literature.d/LIT-550.md), are Unavailable. The rival,
+[THEORY-057](THEORY-057.md), is not what holds it back: an account with rivals goes Active
+when its `promote_when` is met, as [THEORY-121](THEORY-121.md) did.

@@ -109,7 +109,7 @@ signal** and **the organization's authority to evaluate it**."
   thought may continue to occur while its capacity to govern behavior
   changes." The general form, that which regime acts depends on maintained
   relations such as accessibility and precedence and not on the regimes'
-  contents, is CLAIM-027, and that is what this claim rests on; CLAIM-156 is
+  contents, is [CLAIM-027](CLAIM-027.md), and that is what this claim rests on; [CLAIM-156](CLAIM-156.md) is
   its instance in mindfulness, cited as a parallel. The record's readings are [THEORY-051](../theory.d/THEORY-051.md) (self as context and
   defusion) and [THEORY-050](../theory.d/THEORY-050.md) (inflexibility: fusion supports experiential
   avoidance, which narrows behaviour). ACT's flexibility is not frequent
