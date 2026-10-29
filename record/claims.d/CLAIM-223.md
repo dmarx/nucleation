@@ -125,10 +125,10 @@ as written.
 ## Note of 2026-10-29: the relation, decided
 
 The two decisions "What it answers" left to the owner were made at the
-seventh status review: CLAIM-139's version 2 lists QUESTION-002 in
-`answers` and no longer names CLAIM-115 in `complements`, since on the
-fidelity clause as worded they rival (CLAIM-211). Both theses were then
-superseded, CLAIM-115 by CLAIM-220 and CLAIM-139 by CLAIM-204, and
-CLAIM-204's fourth clause states this reading. So the reading no longer
+seventh status review: [CLAIM-139](CLAIM-139.md)'s version 2 lists [QUESTION-002](../questions.d/QUESTION-002.md) in
+`answers` and no longer names [CLAIM-115](CLAIM-115.md) in `complements`, since on the
+fidelity clause as worded they rival ([CLAIM-211](CLAIM-211.md)). Both theses were then
+superseded, [CLAIM-115](CLAIM-115.md) by [CLAIM-220](CLAIM-220.md) and [CLAIM-139](CLAIM-139.md) by [CLAIM-204](CLAIM-204.md), and
+[CLAIM-204](CLAIM-204.md)'s fourth clause states this reading. So the reading no longer
 rescues a relation between the old theses; it is what their successors
 say.

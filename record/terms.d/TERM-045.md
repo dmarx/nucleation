@@ -184,4 +184,4 @@ sense here, because they are not selves the person has. They become part of
 the self the person takes themselves to be only when appropriated
 ([TERM-075](TERM-075.md), sense 4), and can then become content of sense 4, the
 narrative self, and sense 7, the presented self; unappropriated, they can
-still shape what the person does (CASE-142).
+still shape what the person does ([CASE-142](../cases.d/CASE-142.md)).

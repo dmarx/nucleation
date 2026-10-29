@@ -153,9 +153,9 @@ interlingual arm). It meets them as the restatement that superseded [CLAIM-115](
 
 ## Note of 2026-10-29: what holds it back
 
-The comparative clause is a prediction about CASE-055, a study designed
+The comparative clause is a prediction about [CASE-055](../cases.d/CASE-055.md), a study designed
 and not run: no result in the record sets human-rated stance, footing,
 alignment and uptake against propositional sameness, or proposition with
 force, as predictors of named receivers' choices of act and continuation.
 Its first clause, that survival is what the named receivers recover, is
-stated by CLAIM-223, and nothing waits on this entry for it.
+stated by [CLAIM-223](CLAIM-223.md), and nothing waits on this entry for it.

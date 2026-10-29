@@ -122,9 +122,9 @@ comparisons is not examined.
 ## Note of 2026-10-29: what holds it back
 
 The intersection and ranges-of-weights devices the title gives Sen are
-attributed to him only by the IEP entry (LIT-284), without a citation; the
-Sen text read (LIT-289) says "conventions of relative importance", not
+attributed to him only by the IEP entry ([LIT-284](../literature.d/LIT-284.md)), without a citation; the
+Sen text read ([LIT-289](../literature.d/LIT-289.md)) says "conventions of relative importance", not
 public reasoning. It waits on a first-hand reading of a Sen text that
 states the devices, and on the applied case its promote_when names; a
-narrowing to the IEP's reading would free neither CLAIM-352 nor CLAIM-354,
-whose other readings (THEORY-025, THEORY-054) are Proposed.
+narrowing to the IEP's reading would free neither [CLAIM-352](../claims.d/CLAIM-352.md) nor [CLAIM-354](../claims.d/CLAIM-354.md),
+whose other readings ([THEORY-025](THEORY-025.md), [THEORY-054](THEORY-054.md)) are Proposed.

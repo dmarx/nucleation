@@ -143,5 +143,5 @@ support from the method "is not a strong part of the evidence base".
   activation.
 - [CLAIM-298](../claims.d/CLAIM-298.md) (whose psychological form is now [CLAIM-315](../claims.d/CLAIM-315.md)) cites this account as the psychological form of its thesis and
   restates its defeat condition on the same terms as this account's former
-  promote_when, now QUESTION-tmpwz0fb: a measure first shown sensitive to
+  promote_when, now [QUESTION-tmpwz0fb](../questions.d/QUESTION-tmpwz0fb.md): a measure first shown sensitive to
   direct priming.

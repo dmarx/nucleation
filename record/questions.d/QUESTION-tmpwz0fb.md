@@ -10,9 +10,9 @@ line: pragmatic-transport
 refines:
 - QUESTION-109
 summary: >-
-  The promotion condition formerly on THEORY-335, moved here when the
+  The promotion condition formerly on [THEORY-335](../theory.d/THEORY-335.md), moved here when the
   twelfth status review promoted it on a title that claims only the
-  moderations and the failed test, as THEORY-285's moved to QUESTION-303.
+  moderations and the failed test, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-303](QUESTION-303.md).
   Whether the accessibility step is real is this question.
 ---
 
@@ -20,15 +20,15 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-335 holds that the selective-accessibility account fits the
+[THEORY-335](../theory.d/THEORY-335.md) holds that the selective-accessibility account fits the
 moderations Strack and Mussweiler found, and that its one direct test,
 repeated five times by Harris et al., found nothing with tasks that also
 missed direct picture priming. So the accessibility step is inferred, not
-measured. CLAIM-315 asserts it, and CLAIM-298 rests on CLAIM-315.
+measured. [CLAIM-315](../claims.d/CLAIM-315.md) asserts it, and [CLAIM-298](../claims.d/CLAIM-298.md) rests on [CLAIM-315](../claims.d/CLAIM-315.md).
 
 ## What would answer it
 
-THEORY-335's former promote_when, unchanged:
+[THEORY-335](../theory.d/THEORY-335.md)'s former promote_when, unchanged:
 
 A design whose measure of accessibility is first shown sensitive, by
 detecting direct priming of the same knowledge in the same setting, used

@@ -80,7 +80,7 @@ sought: the institutions that would find, authorize and carry out the plan,
 and the one whose act or state J would correct. The correctability of an
 arrangement is its capacity to correct a state of itself through its parts.
 When a claim speaks of one institution's being correctable by others
-(CLAIM-462), G is the arrangement that holds both, and J a correction of the
+([CLAIM-462](../claims.d/CLAIM-462.md)), G is the arrangement that holds both, and J a correction of the
 first.
 
 ## What it is not

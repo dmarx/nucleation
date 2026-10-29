@@ -93,6 +93,6 @@ does. It does not say [CLAIM-139](CLAIM-139.md) must supersede [CLAIM-115](CLAIM
 theses can both stand Proposed. It says they should be related as rivals,
 and that [CLAIM-139](CLAIM-139.md) answers [QUESTION-002](../questions.d/QUESTION-002.md) whether or not it lists it.
 
-It does not say the theses rival on every reading. CLAIM-223 gives one,
+It does not say the theses rival on every reading. [CLAIM-223](CLAIM-223.md) gives one,
 survival by recovery and certification by identifiability, on which they
-answer different parts of QUESTION-002.
+answer different parts of [QUESTION-002](../questions.d/QUESTION-002.md).
