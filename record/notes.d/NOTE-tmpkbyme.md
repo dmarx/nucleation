@@ -100,15 +100,15 @@ As the introduction reports them, from the literature, not shown there:
 The introduction cites the take-up literature and the field experiments
 on FAFSA help and college information packets (p. 7) without discussing
 them. Its pairing of political will with administrative capacity is the
-pair Hillebrecht's review (LIT-1607) is said to use for compliance with
+pair Hillebrecht's review ([LIT-1607](../literature.d/LIT-1607.md)) is said to use for compliance with
 court rulings; that work was not reachable.
 
 ## Bearing on the record
 
-- **CASE-172 and TERM-055.** The exchange's use of the book holds on the
+- **[CASE-172](../cases.d/CASE-172.md) and [TERM-055](../terms.d/TERM-055.md).** The exchange's use of the book holds on the
   introduction: it says burdens can restrict access to a benefit or a
   right with no change to formal eligibility, so that what is lost is
-  the practical ability to use it. That is TERM-055's operational
+  the practical ability to use it. That is [TERM-055](../terms.d/TERM-055.md)'s operational
   availability carried from a resource to a right: present, known, and
   not deployable before the deadline. Whether the chapters give a measure
   of that loss (take-up is the introduction's only one) is not known

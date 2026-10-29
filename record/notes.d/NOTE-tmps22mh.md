@@ -181,7 +181,7 @@ privilege.
 
 ## Bearing on the record
 
-- **CASE-175.** The exchange offered the judgment as the comparator "for
+- **[CASE-175](../cases.d/CASE-175.md).** The exchange offered the judgment as the comparator "for
   what is new here and what is the old problem of rendition". On the
   reading, three differences stand out. First, the routes of
   responsibility here run from the sending State's own acts on its own
@@ -197,12 +197,12 @@ privilege.
   location. CECOT's question, which government could or had to undo the
   transfer while the person was still held, does not arise in El-Masri.
   That is the new part.
-- **CLAIM-405.** The judgment separates custody, control and
+- **[CLAIM-405](../claims.d/CLAIM-405.md).** The judgment separates custody, control and
   responsibility much as the claim's CECOT illustration does, and on a
   criterion stated in advance: responsibility follows the State's having
   "assumed control over an individual" (§ 233) and its facilitation,
   wherever the custody then lay.
-- **QUESTION-279.** The burden-shifting rule (§§ 152–153, 165–167) is one
+- **[QUESTION-279](../questions.d/QUESTION-279.md).** The burden-shifting rule (§§ 152–153, 165–167) is one
   court's answer to when an institution's account of itself is accepted:
   where events lie within its exclusive knowledge, it must give "a
   satisfactory and convincing explanation", and a bare denial against
