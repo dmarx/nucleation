@@ -5,7 +5,7 @@ status_note: >-
   could not fetch it, so it is not read and no NOTE is filed. BAILII
   publishes the judgment free at
   https://www.bailii.org/ew/cases/EWHC/Admin/2000/413.html, the address
-  Human Rights Watch cites (LIT-1593); on 2026-10-29 it returned a
+  Human Rights Watch cites ([LIT-1593](LIT-1593.md)); on 2026-10-29 it returned a
   proof-of-work bot check (Anubis, "Making sure you're not a bot!") to
   curl and HTTP 403 to WebFetch, so the failure is on access, not
   availability. The National Archives' Find Case Law has no copy (404 at
@@ -75,7 +75,7 @@ summary: >-
   government" of a territory does not extend to exiling its population
   (by the Court of Appeal's account of it in 2007, §§6 and 57). Its
   recital of the 1960s files is the source of most of the archival
-  quotations in LIT-1593. Not read.
+  quotations in [LIT-1593](LIT-1593.md). Not read.
 ---
 <!-- inactive-ok-file: CLAIM-115 — Superseded; named as the claim CASE-169's particular extends, as the triage gave it -->
 
@@ -90,11 +90,11 @@ Not read: the BAILII copy could not be fetched (Unfetched, 2026-10-29).
 
 ## Why this is here
 
-The triage of 2026-10-29 put it in the File tier for CASE-169 and
-CLAIM-115. CASE-169's "classification that changes its referent", the
+The triage of 2026-10-29 put it in the File tier for [CASE-169](../cases.d/CASE-169.md) and
+[CLAIM-115](../claims.d/CLAIM-115.md). [CASE-169](../cases.d/CASE-169.md)'s "classification that changes its referent", the
 islands described as having no permanent population and then made to
 have none, is documented in the record only by Human Rights Watch
-(LIT-1593, NOTE-1365), which quotes the UK files "as quoted in UK
+([LIT-1593](LIT-1593.md), [NOTE-1365](../notes.d/NOTE-1365.md)), which quotes the UK files "as quoted in UK
 judgments", most of them through this one. Reading it would put those
 quotations at first remove from the court, if not from the files. The
 triage called it borderline, since the report already documents the

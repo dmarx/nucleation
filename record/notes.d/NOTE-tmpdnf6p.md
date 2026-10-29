@@ -133,19 +133,19 @@ party that holds the information.
 
 ## Connections
 
-It applies the Supreme Court's order (LIT-1606, NOTE-1376) and quotes
+It applies the Supreme Court's order ([LIT-1606](../literature.d/LIT-1606.md), [NOTE-1376](NOTE-1376.md)) and quotes
 Judge Wilkinson's concurring opinion in the Fourth Circuit (7 April
 2025), that the order may fairly be read as "requiring that the government
 facilitate Abrego Garcia's release, rather than demand it". The
 custody question in footnote 3 is the one *J.G.G.* later took up for the
-Venezuelans (CASE-175's constructive-custody particular, kept there as
-the exchange's). *El-Masri* (LIT-1619, NOTE-1391) shifts the burden of
+Venezuelans ([CASE-175](../cases.d/CASE-175.md)'s constructive-custody particular, kept there as
+the exchange's). *El-Masri* ([LIT-1619](../literature.d/LIT-1619.md), [NOTE-1391](NOTE-1391.md)) shifts the burden of
 explanation onto a State for facts within its exclusive knowledge; this
 order does the same in procedural form, for what a party has done.
 
 ## Bearing on the record
 
-- **QUESTION-279.** The triage expected the remand to be the question's
+- **[QUESTION-279](../questions.d/QUESTION-279.md).** The triage expected the remand to be the question's
   test case, a court demanding sworn declarations and ordering discovery
   into a claimed inability. The order does that, with two corrections of
   emphasis. First, the government did not here say "we cannot"; it said
@@ -154,7 +154,7 @@ order does the same in procedural form, for what a party has done.
   Kozak, that the custody was El Salvador's. The inability is implied by
   that last premise, not asserted. Second, the court's move is not to
   test a certificate of inability but to refuse to proceed without an
-  account. What it requires, in QUESTION-279's terms:
+  account. What it requires, in [QUESTION-279](../questions.d/QUESTION-279.md)'s terms:
   - a **report of the search**, sworn by someone with personal knowledge
     (A10's first statement, "we have not found…", required to be made
     and made by the right person);
@@ -175,7 +175,7 @@ order does the same in procedural form, for what a party has done.
   candidate for what plays the sorted index's part: a record of what the
   arrangement has done before. It does not say what would certify that
   no remedy exists; that question never arose.
-- **CLAIM-457.** What "facilitate" required of one member of a two-state
+- **[CLAIM-457](../claims.d/CLAIM-457.md).** What "facilitate" required of one member of a two-state
   arrangement is its own share: steps "available to them" toward a
   release that El Salvador would carry out, by the means its practice
   shows (requests, embassies, travel documents, transport). The court
@@ -183,16 +183,16 @@ order does the same in procedural form, for what a party has done.
   be ordered to do A's part of a plan that needs B, without anyone
   ordering the outcome. The order presupposes, and does not decide, that
   the coalition can realize the outcome.
-- **CASE-175.** Two particulars the case can take as documented: the
+- **[CASE-175](../cases.d/CASE-175.md).** Two particulars the case can take as documented: the
   amended order of 10 April and the finding of 11 April that the
   government "made no meaningful effort to comply" with the order to
   declare its steps; and, from footnote 3, the conflict between a
   declaration that El Salvador held him on its own sovereign authority
   and the arrangement under which the United States paid for the
   detention pending its own decision. The second bears on the case's
-  custody-and-control line (CLAIM-405). The $6 million is the court's
+  custody-and-control line ([CLAIM-405](../claims.d/CLAIM-405.md)). The $6 million is the court's
   quotation of a press report.
-- **NOTE-1376, open question.** On remand, "effectuate" was dropped
+- **[NOTE-1376](NOTE-1376.md), open question.** On remand, "effectuate" was dropped
   within hours (ECF 51), and "facilitate" was read as above. Whether
   that reading survived is not settled by this order; the later
   proceedings were not read.
@@ -210,7 +210,7 @@ No instruction for machine-learning practice; nothing for the anthology.
   required disclosure that ECF 51 and ECF 61 set out; ECF 54 was not
   read, so whether this is a slip for 51 is not known.
 - **What followed is outside it**: every later filing, and the return
-  of 6 June 2025 that CASE-175 records.
+  of 6 June 2025 that [CASE-175](../cases.d/CASE-175.md) records.
 
 ## Open questions
 

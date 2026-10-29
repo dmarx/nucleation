@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmpdnf6p) in full, from CourtListener's RECAP copy
+  read 2026-10-29 ([NOTE-tmpdnf6p](../notes.d/NOTE-tmpdnf6p.md)) in full, from CourtListener's RECAP copy
   of the filed order
   (https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.79.0.pdf);
   worth reading as the district court's first reasoned answer, on remand
@@ -63,7 +63,7 @@ implementations: []
 extends:
 - LIT-1606
 summary: >-
-  D. Md. (Xinis, J.), 15 April 2025. On remand from LIT-1606, the court
+  D. Md. (Xinis, J.), 15 April 2025. On remand from [LIT-1606](LIT-1606.md), the court
   had directed the government to "take all available steps to facilitate"
   Abrego Garcia's return and to declare, from personal knowledge, where
   he was, what it had done and what it would do. Finding that it had
@@ -81,17 +81,17 @@ United States District Court for the District of Maryland (2025).
 *Abrego Garcia v. Noem*, Civil Action No. 8:25-cv-00951-PX, ECF No. 79,
 Order Granting Expedited Discovery (15 April 2025) (Xinis, J.).
 
-Read in full on 2026-10-29 (NOTE-tmpdnf6p).
+Read in full on 2026-10-29 ([NOTE-tmpdnf6p](../notes.d/NOTE-tmpdnf6p.md)).
 
 ## Why this is here
 
 The triage of 2026-10-29 put the remand in the File tier for
-QUESTION-279, which asks what would license an institution's "we cannot"
-and whether a court must accept it; for CLAIM-457, on what "facilitate"
-asks of one member of a two-state arrangement; and for CASE-175. The
-Supreme Court's order (LIT-1606, NOTE-1376) asked the government to
+[QUESTION-279](../questions.d/QUESTION-279.md), which asks what would license an institution's "we cannot"
+and whether a court must accept it; for [CLAIM-457](../claims.d/CLAIM-457.md), on what "facilitate"
+asks of one member of a two-state arrangement; and for [CASE-175](../cases.d/CASE-175.md). The
+Supreme Court's order ([LIT-1606](LIT-1606.md), [NOTE-1376](../notes.d/NOTE-1376.md)) asked the government to
 "share what it can concerning the steps it has taken and the prospect of
-further steps", and NOTE-1376 left open what the remand made of it. The
+further steps", and [NOTE-1376](../notes.d/NOTE-1376.md) left open what the remand made of it. The
 owner asked for one ruling, not the docket. This is the order in which
 the district court gives its reasons for not taking the government's
 account on its say-so, and in which the inquiry into the claimed

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmpgbgvt) in full, from the authors' accepted
+  read 2026-10-29 ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)) in full, from the authors' accepted
   manuscript ("In press: European Journal of Social Psychology") posted
   on bildung-diversity.ch
   (https://bildung-diversity.ch/fileadmin/dokumente/Can_We_Really_Reduce_Ethnic_Prejudice_Outside_the_Lab.pdf);
@@ -82,18 +82,18 @@ outside the lab? A meta-analysis of direct and indirect contact
 interventions. *European Journal of Social Psychology*, 45(2), 152–168.
 doi:10.1002/ejsp.2079
 
-Read in full on 2026-10-29 (NOTE-tmpgbgvt), from the authors' accepted
+Read in full on 2026-10-29 ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)), from the authors' accepted
 manuscript.
 
 ## Why this is here
 
-The triage of 2026-10-29 put it in the File tier for CLAIM-430 and
-QUESTION-262. CLAIM-430's second defeater is that information of equal
+The triage of 2026-10-29 put it in the File tier for [CLAIM-430](../claims.d/CLAIM-430.md) and
+[QUESTION-262](../questions.d/QUESTION-262.md). [CLAIM-430](../claims.d/CLAIM-430.md)'s second defeater is that information of equal
 favourable content, received without taking part, changes as much and as
 durably as cooperative enactment; its note of 2026-10-29 says that
 defeater "has no test in the randomized contact literature, which
-compares contact with no contact". QUESTION-262's first contrast is the
+compares contact with no contact". [QUESTION-262](../questions.d/QUESTION-262.md)'s first contrast is the
 same, information against cooperation. This meta-analysis estimates
 indirect contact programmes separately from direct ones, and the triage
 named it as the nearest existing evidence. Paluck, Green and Green
-(LIT-1420) draw some of their studies from it.
+([LIT-1420](LIT-1420.md)) draw some of their studies from it.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmpf5rji) in full, from the published version
+  read 2026-10-29 ([NOTE-tmpf5rji](../notes.d/NOTE-tmpf5rji.md)) in full, from the published version
   deposited by the WZB on EconStor
   (https://www.econstor.eu/bitstream/10419/194860/1/f-21548-full-text-Scacco-et_al-Contact-v3.pdf);
   worth reading as a randomized field test of intergroup contact in a
@@ -80,18 +80,18 @@ and discrimination? Evidence from a field experiment in Nigeria.
 *American Political Science Review*, 112(3), 654–677.
 doi:10.1017/S0003055418000151
 
-Read in full on 2026-10-29 (NOTE-tmpf5rji).
+Read in full on 2026-10-29 ([NOTE-tmpf5rji](../notes.d/NOTE-tmpf5rji.md)).
 
 ## Why this is here
 
 The triage of 2026-10-29 put it in the File tier for three entries.
-QUESTION-262 asks for its contrasts to be measured "by conduct and not
+[QUESTION-262](../questions.d/QUESTION-262.md) asks for its contrasts to be measured "by conduct and not
 only self-report", toward unfamiliar members of the other group. This
 trial measured attitudes and incentivized behaviour separately, and set
-apart play with classmates from play with strangers. CLAIM-430 says
+apart play with classmates from play with strangers. [CLAIM-430](../claims.d/CLAIM-430.md) says
 taking part can come before the reinterpretation it later seems to
-express, and CLAIM-275 is that order in general; a change in conduct
+express, and [CLAIM-275](../claims.d/CLAIM-275.md) is that order in general; a change in conduct
 with no change in stated attitude is the pattern the order predicts. It
 is also one of the three pre-registered studies whose pooled effect of
-0.016 is behind the "near zero" in QUESTION-262's note (LIT-1420,
-NOTE-1393).
+0.016 is behind the "near zero" in [QUESTION-262](../questions.d/QUESTION-262.md)'s note ([LIT-1420](LIT-1420.md),
+[NOTE-1393](../notes.d/NOTE-1393.md)).

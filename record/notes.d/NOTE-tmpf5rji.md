@@ -145,10 +145,10 @@ in-group.
 ## Connections
 
 The authors place themselves against Pettigrew and Tropp's optimism
-(LIT-1413) and use its mean r = −0.21 for their power analysis; they cite
-the 2008 mediator meta-analysis (LIT-1405) for knowledge, anxiety and
+([LIT-1413](../literature.d/LIT-1413.md)) and use its mean r = −0.21 for their power analysis; they cite
+the 2008 mediator meta-analysis ([LIT-1405](../literature.d/LIT-1405.md)) for knowledge, anxiety and
 empathy, and find none of the three moved. Paluck, Green and Green
-(LIT-1420, NOTE-1393) include this study among their three
+([LIT-1420](../literature.d/LIT-1420.md), [NOTE-1393](NOTE-1393.md)) include this study among their three
 pre-registered trials, pooled at 0.016; this reading shows that their
 near-zero is the prejudice null, while the trial's own headline is a
 behavioural effect. The authors' precedent for behaviour changing
@@ -157,7 +157,7 @@ Bem's self-perception and Fazio on behaviour preceding attitude.
 
 ## Bearing on the record
 
-- **QUESTION-262.** It meets the question's measurement demand, conduct
+- **[QUESTION-262](../questions.d/QUESTION-262.md).** It meets the question's measurement demand, conduct
   scored by evidence that does not pass through the interpretation under
   test (incentivized, private, sealed games), and its stranger rounds
   are the "unfamiliar group members" the question names. It does not
@@ -171,7 +171,7 @@ Bem's self-perception and Fazio on behaviour preceding attitude.
   discrimination. A note on the question should say that its "near zero"
   for pre-registered trials is, for this study, a null on attitudes
   beside a positive result on behaviour.
-- **CLAIM-430.** The pattern, conduct moved and stated view did not, is
+- **[CLAIM-430](../claims.d/CLAIM-430.md).** The pattern, conduct moved and stated view did not, is
   what part 2 of the claim, taking part before the reinterpretation,
   would show at the moment of measurement. It is not evidence that the
   reinterpretation follows: there is one endline, no later attitude
@@ -182,10 +182,10 @@ Bem's self-perception and Fazio on behaviour preceding attitude.
   were spared a reinforced old one. The trial does not touch the claim's
   second defeater, since it has no information arm. The anonymous-favour
   defeater is not tested either.
-- **CLAIM-275.** One more instance of conduct changing without a prior
+- **[CLAIM-275](../claims.d/CLAIM-275.md).** One more instance of conduct changing without a prior
   change of interpretation, in a randomized design. It does not show the
   act making the interpretation available.
-- **CLAIM-403.** The trial measured no change in whose testimony moves
+- **[CLAIM-403](../claims.d/CLAIM-403.md).** The trial measured no change in whose testimony moves
   judgement; its outcomes are stereotype ratings and allocations.
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -226,5 +226,5 @@ No instruction for machine-learning practice; nothing for the anthology.
   self-perception reading predicts? A second endline would say.
 - Would an arm that received the course's cross-group content without
   the shared work, for instance watching mixed pairs work, change
-  conduct as much? That is QUESTION-262's first contrast and CLAIM-430's
+  conduct as much? That is [QUESTION-262](../questions.d/QUESTION-262.md)'s first contrast and [CLAIM-430](../claims.d/CLAIM-430.md)'s
   second defeater, and this design does not draw it.
