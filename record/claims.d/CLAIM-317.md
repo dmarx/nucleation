@@ -82,3 +82,13 @@ distinct contexts are how people "properly locate their performances".
   ethnography of US teenagers in 2004–2008, documented with interviews and
   examples, and the Carmichael case is Meyrowitz's, which the record has not
   read.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the fourteenth status review. Its grounds are THEORY-406,
+Proposed, and boyd's ethnography read in part. No study in the record
+compares conflict while the audiences are kept apart with conflict when
+they meet, and CASE-064 is one documented collapse with nothing to compare
+it against. The first half of the title, that differing presentations do
+no harm while the audiences are apart, has no evidence beyond boyd's
+interviews.
