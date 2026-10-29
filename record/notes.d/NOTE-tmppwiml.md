@@ -1,0 +1,220 @@
+---
+status: Read
+paper: 'LIT-tmp15puu'
+title: 'Peyré et al. — Gromov–Wasserstein averaging'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the PMLR PDF (proceedings.mlr.press/v48/peyre16.pdf,
+    ICML 2016, pp. 2664–2672, 9 pp.), fetched 2026-10-29; there is no
+    arXiv copy and no supplement. Extracted with `pdftotext -layout`;
+    page numbers are the proceedings'. I read the abstract, §§1–5,
+    Propositions 1–5 with their proofs, Remarks 1–3, Algorithm 1, the
+    captions of Figs. 1–4, the in-text figures on regularization and
+    clustering, Table 1, and the reference list. The figures' images did
+    not survive extraction. I checked numerically (numpy and POT 0.9.7
+    in a scratch environment; my own script, not the authors' code):
+    Proposition 1's factorization against the brute-force tensor;
+    Proposition 4's PSD preservation over 200 random trials; the KL-to-L2
+    expansion for large bandwidths; and, in a toy with three two-cluster
+    inputs and one input with a split cluster, whether the barycenter
+    keeps the minority's split and how much it depends on the seed.
+date: '2026-10-29'
+summary: >-
+  Defines an entropic Gromov–Wasserstein discrepancy between similarity
+  matrices of any size and loss, and their barycenter as a Fréchet mean of
+  user-chosen size and weights. It is computed by alternating Sinkhorn-
+  based coupling updates with a closed-form matrix update that, for
+  square loss, averages the couplings' realignments of the inputs with
+  the barycenter weights. The algorithm is proved to keep PSD and
+  infinitely divisible kernels in their classes; its convergence at the
+  step size used is observed, not proved, and only stationary points are
+  sought.
+---
+<!-- inactive-ok-file: CLAIM-348 CASE-tmph0fxi THEORY-tmpa43ta — Proposed, new or stipulated; the entries this reading bears on, cited as open -->
+
+# NOTE-tmppwiml: Peyré et al. — Gromov–Wasserstein averaging
+
+## Contribution
+
+It extends Mémoli's Gromov–Wasserstein (GW) distance to arbitrary
+similarity matrices and losses, adds entropic regularization, and gives a
+simple iteration in which each step is a Sinkhorn problem. It defines the
+barycenter of unregistered similarity matrices of different sizes as a
+Fréchet mean under this discrepancy. It solves for it by block coordinate
+relaxation with a closed-form update of the barycenter matrix, and shows
+that the update stays inside the cones of PSD and infinitely divisible
+kernels. Applications: shape barycenters and interpolation, k-means on
+point clouds, and nearest-neighbour regression of molecular energies.
+
+## Key insight
+
+Once the couplings are fixed, a GW barycenter is an ordinary average. Each
+coupling T_s acts as a fuzzy permutation that realigns input C_s to the
+barycenter's rows and columns. The barycenter is then the
+barycenter-weighted average of these realigned matrices: arithmetic for
+square loss, geometric for KL (eqs. 14–15, p. 2668). All the difficulty
+is in the couplings, which are non-convex to find. All the averaging is
+linear in the weights λ_s.
+
+## Assumptions
+
+- **Inputs (p. 2666):** measured similarity matrices (C, p) with C ∈ ℝ^{N×N}
+  not required to be distances, positive or metric.
+- **Loss decomposition (eq. 5, p. 2667):** L(a, b) = f₁(a) + f₂(b) −
+  h₁(a)h₂(b), which square loss and KL satisfy. Proposition 3 also needs
+  f₁′/h₁′ invertible.
+- **Fixed barycenter support (p. 2668):** "the base histograms (ps)s and the
+  histogram p associated to the barycenter are known and fixed. Note in
+  particular that the size (N, N) of the targeted barycenter matrix should
+  be fixed by the user."
+- **Entropic regularization ε > 0** throughout the barycenter.
+
+## Key results
+
+- **Proposition 1 (p. 2667).** Under (5), L(C, C̄) ⊗ T = c_{C,C̄} −
+  h₁(C) T h₂(C̄)ᵀ with c_{C,C̄} = f₁(C) p 1ᵀ + 1 qᵀ f₂(C̄)ᵀ, so the tensor
+  product costs O(N₁²N₂ + N₂²N₁). I checked it against the brute-force
+  tensor (difference 5 × 10⁻¹⁵).
+- **Proposition 2 (p. 2667).** Projected gradient in the KL geometry with
+  step τ = 1/ε reduces to T ← 𝒯(L(C, C̄) ⊗ T, p, q), one Sinkhorn solve per
+  step. For square loss this is softassign.
+- **Remark 3, convergence (p. 2667).** Iterations (8) converge for τ <
+  τ_max by Boţ et al. "Unfortunately, in general, one does not have
+  τmax > 1/ε, so that the step size τ = 1/ε advocated by Proposition 2 is
+  not covered by the theory. However, we found that using τ = 1/ε always
+  leads to a converging sequence of T". The softassign convergence proof
+  covers function values only, and only for a convex objective, "which is
+  not the case for arbitrary matrices".
+- **Barycenter problem (eqs. 10–11, p. 2668).** min_C Σ λ_s GW_ε(C, C_s, p,
+  p_s). "if L is convex with respect to its first variable, this problem is
+  convex with respect to C but not with respect to (Ts )s". Solved by
+  block coordinate relaxation (Algorithm 1, p. 2669), with three nested
+  loops.
+- **Proposition 3 (p. 2668).** The C step has the closed form
+  C = (f₁′/h₁′)⁻¹(Σ λ_s T_sᵀ h₂(C_s) T_s / ppᵀ). The proof shows only the
+  first-order condition. It is the global minimizer when L is convex in its
+  first argument, as for square loss and KL.
+- **Proposition 4 (p. 2668).** For square loss, C ← (1/ppᵀ) Σ λ_s T_sᵀ C_s
+  T_s, so PSD inputs give PSD iterates. Checked: over 200 random trials
+  with inputs of sizes 3, 7 and 4 the smallest eigenvalue stayed positive.
+- **Proposition 5 (pp. 2668–2669).** For KL, C ← exp((1/ppᵀ) Σ λ_s T_sᵀ
+  log(C_s) T_s), so infinitely divisible inputs give infinitely divisible
+  iterates. For Gaussian kernels e^{−D²/σ²}, KL ≈ ‖D² − D̄²‖²/(2σ⁴) at large
+  σ (p. 2669). Checked: the ratio is 0.98 at σ = 10 and 0.998 at σ = 30.
+- **Experiments (pp. 2669–2671).** MNIST point-cloud barycenters from random
+  initialization (Fig. 1). Shape barycenters (Fig. 2), smoothed as ε grows.
+  k-means with k = 5 on 250 digits, where "All the “1” digits are clustered
+  correctly" and 2 and 4 mix (p. 2670). Shape interpolation with L2 against
+  KL and Euclidean against geodesic distances (Figs. 3–4). On qm7, GW
+  3-nearest-neighbour regression gives MAE 10.83 against 71.54 for k-NN on
+  padded matrices and 3.07 for the best kernel method (Table 1, p. 2671).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | For losses of form (5), the GW tensor product factorizes and costs O(N₁²N₂ + N₂²N₁) | strong | Prop. 1, proof p. 2667; checked |
+| C2 | With couplings fixed and square loss, the optimal barycenter is the λ-weighted average of the realigned inputs divided by ppᵀ | strong | Props. 3–4; convex in C |
+| C3 | The algorithm preserves PSD (square loss) and infinitely divisible (KL) kernels | strong | Props. 4–5, short proofs; PSD case checked |
+| C4 | The coupling iteration at τ = 1/ε converges | weak | observed only; "not covered by the theory" (Remark 3) |
+| C5 | The barycenter algorithm reaches a stationary point | weak | stated (p. 2666); no proof, and it rests on C4 |
+| C6 | GW alone gives acceptable molecular energy prediction with a simple nearest-neighbour regressor | moderate | Table 1; MAE 10.83, 3.5 times the best method's |
+
+## Method
+
+Algorithm 1 (p. 2669): initialize C. Repeat: for each input s, iterate T_s ←
+Sinkhorn of the cost f₁(C) + f₂(C_s)ᵀ − h₁(C) T_s h₂(C_s)ᵀ. Then set C by
+eq. (13). The paper's transposes do not fit its own convention. T_s ∈
+C_{p,p_s} ⊂ ℝ^{N×N_s} (p. 2668), so the realigned matrix must be T_s C_s
+T_sᵀ, not T_sᵀ C_s T_s as in eqs. (13)–(15). The proof of Proposition 5
+uses T_s as if it were N_s × N. The proof of Proposition 1 ends with
+h₁(C̄) where h₂(C̄) is meant (p. 2667). Remark 2's decomposition f₁(a) =
+a², f₂(b) = b², h₁(a) = a, h₂(b) = 2b is that of |a − b|². The L2 loss
+was defined as ½|a − b|² (p. 2666), so the decomposition is off by a
+factor of 2. That rescales the effective ε by 2 and changes nothing else.
+
+## Concepts
+
+- **Measured similarity matrix** — a pair (C, p), a matrix of pairwise
+  relations with a histogram on its rows (p. 2666).
+- **GW discrepancy** — min over couplings of Σ L(C_{i,k}, C̄_{j,l}) T_{i,j}
+  T_{k,l} (eq. 4), and its entropic version GW_ε (eq. 7).
+- **GW barycenter** — a Fréchet mean of size N fixed in advance (eq. 10).
+- **Realigned matrix** — T_s C_s T_sᵀ in the corrected convention, the
+  input pulled back to the barycenter's index set (p. 2668).
+
+## Connections
+
+- **Mémoli 2011** for GW between metric-measure spaces, and **Solomon et
+  al. 2016** for entropic GW matching. The coupling step generalizes the
+  latter (p. 2665).
+- **Rangarajan et al. 1999; Gold and Rangarajan 1996** (softassign): the
+  square-loss case of the iteration.
+- **Agueh and Carlier 2011; Cuturi and Doucet 2014** for Wasserstein
+  barycenters with a fixed ground metric.
+- Used later by **FGW** (LIT-tmpjs7kp) for the structure step of its
+  barycenter, and by **COOT** (LIT-tmpbnbe3) for the tensor factorization.
+
+## Bearing on the record
+
+- **CLAIM-348 (averaging away minority distinctions): the mechanism is
+  explicit, and the risk is real but not the one stated.** For square loss
+  and fixed couplings the barycenter is Σ λ_s (realigned C_s), divided
+  entry-wise by ppᵀ (Prop. 4). A distinction carried by one input enters
+  with that input's weight λ_s. If the couplings align it with nothing in
+  the others, it is shrunk in proportion to λ_s, not removed. Three things
+  can remove it outright, and all are choices made before the data speak:
+  the barycenter size N and histogram p are "fixed by the user" (p. 2668),
+  so a barycenter with too few points cannot hold a split; the entropic ε
+  smooths the barycenter as it grows (p. 2670); and the couplings are only
+  stationary points of a non-convex problem. In my toy example there were
+  three inputs with two tight clusters of 4 points and one input whose
+  second cluster was split into two pairs 3.26 apart. Within-cluster
+  distances in the majority inputs were 0.14. With 8 barycenter points and
+  λ = ¼ each, the fixed-alignment average would put the split at 0.92. The
+  optimized barycenters, over 20 seeds, reached 9 distinct objective values
+  from 2.16 to 3.76. The aligned average scored 3.05, worse than the best
+  found. The largest within-cluster distance in the barycenter had median
+  2.20 and ranged from 2.20 to 5.24. So the minority's structure was not
+  simply averaged down. It was redistributed, in ways that depended on the
+  initialization. For CLAIM-348 this is a case where the description (the
+  barycenter) is fixed by choices of N, p, λ and ε that encode a target,
+  with no criterion in the method for choosing them. A barycenter's failure
+  to show a distinction is evidence about those choices as much as about
+  the communities.
+- **CASE-tmph0fxi and the "emergent interlingua".** The "Why this is here"
+  reading, "a reconstructed common structure, not the meaning common to all
+  languages", agrees with the method. The barycenter is a Fréchet mean of
+  user-chosen size, defined only up to the symmetries of GW (THEORY-tmpa43ta),
+  and computed as one stationary point among several. It is usable as the
+  "test of where common structure fails" only if the residuals GW_ε(C,
+  C_s) per community are read, and those are what the method minimizes.
+- **No instruction for ML practice** beyond method choice; the clustering
+  and regression results are the Anthology's concern if anywhere.
+
+## Limitations
+
+- **No convergence proof at the step size used**, by the authors' own
+  statement (Remark 3), and none for the outer loop.
+- **No uniqueness.** The barycenter is defined up to a permutation of its
+  N points, and the couplings up to the inputs' symmetries. Different
+  initializations give different stationary points (my toy run).
+- **The barycenter's size and weights are inputs**, not outputs (p. 2668).
+- **Notational errors** in the transposes of eqs. (13)–(15), in the proof
+  of Proposition 1, and in Remark 2's factor of 2 (pp. 2667–2668).
+- **Small experiments, mostly qualitative.** The k-means and shape results
+  are figures. The qm7 result is one regressor with ε "tuned heuristically
+  on a subset of 500 points" (p. 2671). The claim that it "contradicts" an
+  earlier observation that k-NN fails rests on an MAE three and a half
+  times the best method's.
+
+## Open questions
+
+- How does a GW barycenter's ability to represent a distinction depend on N
+  and ε, for a distinction carried by an input of weight λ? A scaling
+  result would turn CLAIM-348's worry into a quantity.
+- Is the barycenter stable across initializations on realistic data, or are
+  the stationary points as scattered as in the toy?

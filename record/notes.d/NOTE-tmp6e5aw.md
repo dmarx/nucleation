@@ -1,0 +1,214 @@
+---
+status: Read
+paper: 'LIT-tmpjs7kp'
+title: 'Vayer et al. — Fused Gromov–Wasserstein'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the arXiv preprint 1805.09114v3 (13 May 2019), the
+    current version, which carries the ICML 2019 (PMLR 97) footer and
+    binds in the supplementary material, 16 pp., fetched 2026-10-29. v1
+    (23 May 2018) was titled "Optimal Transport for structured data"; v2
+    is of 31 January 2019. Neither was read, so what changed between
+    versions is unknown. Extracted with `pdftotext -layout`; page numbers
+    are the PDF's. I read the abstract, §§1–5, Algorithms 1–2, the
+    supplementary §6.1 (Lemma 6.1, Theorems 6.2–6.6 and their proofs) and
+    §6.2, the captions of Figs. 1–5 and Tables 1–8, and the reference
+    list. The figures did not survive extraction. I checked numerically
+    (numpy, my own script, by enumerating permutations on 6-node graphs)
+    how many zero-cost matchings a 6-cycle has with no anchor, one
+    anchor, two adjacent and two antipodal anchors as node features, at
+    α = 0, 0.5 and 1. I also checked that the permutation-restricted FGW
+    value is concave in α and respects Lemma 6.1's lower bound.
+date: '2026-10-29'
+summary: >-
+  FGW compares two attributed graphs with one coupling whose cost mixes,
+  with weight α, a Wasserstein term on node features and a
+  Gromov–Wasserstein term on structure. For α in (0, 1), q = 1 and
+  distance-matrix structures it is a metric that vanishes exactly when a
+  bijection preserves weights, features and structure. As α tends to 0 or
+  1 it tends to W or GW. On benchmark graph classification it is
+  competitive with graph kernels, but the supplement shows Wasserstein on
+  features alone matching or beating it on several datasets.
+---
+<!-- inactive-ok-file: CASE-055 CASE-tmph0fxi CLAIM-098 THEORY-tmpa43ta — Proposed, new or stipulated; the entries this reading bears on, cited as open -->
+
+# NOTE-tmp6e5aw: Vayer et al. — Fused Gromov–Wasserstein
+
+## Contribution
+
+It represents an attributed graph as a probability measure on the product
+of a feature space and a structure space. It defines the Fused
+Gromov–Wasserstein distance between two such measures, a single
+transport problem that pays both for moving features and for distorting
+pairwise structure. It proves interpolation to W and GW at the ends of
+the trade-off α and metric properties in between, gives a conditional-
+gradient solver and a block coordinate barycenter, and applies them to
+graph classification and graph k-means.
+
+## Key insight
+
+One coupling must satisfy two kinds of evidence at once. Features alone
+match nodes by what they are and ignore where they sit; structure alone
+matches nodes by where they sit and cannot tell apart nodes that a
+symmetry of the graph exchanges. FGW makes a matching pay for both, so a
+feature that one node carries can break a structural tie, and structure
+can break a tie among nodes with the same feature. Fig. 3's trees make
+the point: W = 0 and GW = 0, but FGW > 0 (p. 5).
+
+## Assumptions
+
+- **Structured data (§2, pp. 2–3):** a graph with node features a_i in a
+  metric space (Ω_f, d), a symmetric structure matrix C (shortest path,
+  adjacency, harmonic distance), and node weights h ∈ Σ_n with strictly
+  positive entries (Σ_n is defined with ℝ*₊, p. 2). "Without loss of
+  generality we suppose (xi , ai ) ≠ (xj , aj ) for i ≠ j" (p. 3).
+- **The problem (eq. 1, p. 3):** FGW_{q,α}(µ, ν) = min_{π ∈ Π(h,g)}
+  Σ_{i,j,k,l} [(1 − α) d(a_i, b_j)^q + α |C₁(i,k) − C₂(j,l)|^q] π_{i,j} π_{k,l}.
+  The definition of Π(h, g) has its marginal indices swapped, "Σ_i π_{i,j}
+  = h_j, Σ_j π_{i,j} = g_i" (p. 3, repeated p. 10), a typo.
+- **For the metric theorem (pp. 4, 12):** C₁, C₂ distance matrices, α ∈
+  ]0, 1[, and d a metric. The proof also assumes n ≥ m without loss of
+  generality.
+
+## Key results
+
+- **Theorem 3.1, interpolation (pp. 3–4; Theorem 6.2, proof pp. 11–12).**
+  lim_{α→0} FGW_{q,α}(µ, ν) = W_q(µ_A, ν_B)^q and lim_{α→1} FGW_{q,α}(µ, ν)
+  = GW_q(µ_X, ν_Y)^q. The proof uses the bounds of Lemma 6.1 and eqs.
+  (15)–(18): (1 − α) W_q^q + α GW_q^q ≤ FGW_{q,α} ≤ (1 − α) W_q^q +
+  α J_q(π^W), and the mirror bound with π^GW.
+- **Theorem 3.2, metric (p. 4; Theorems 6.3–6.6, pp. 12–14).** "F GW
+  defines a metric for q = 1 and a semi-metric for q > 1." It "is nul iff
+  n = m and there exists a bijection σ : {1, .., n} → {1, .., n}" with
+  h_i = g_σ(i), a_i = b_σ(i) and C₁(i, k) = C₂(σ(i), σ(k)) (eqs. 2–4). For
+  q > 1 "the triangle inequality is relaxed by a factor 2^{q−1}". The zero
+  case is proved by passing to a GW problem on Ĉ = ½C + ½d(a, a) and
+  invoking Mémoli's result that GW vanishes only at an isomorphism.
+- **Barycenter (§3.2, p. 4; p. 5).** A Fréchet mean with fixed size N and
+  weights, solved by block coordinate descent over the couplings, the
+  structure C and the features A. For q = 2 the C step has the closed form
+  C ← (1/hhᵀ) Σ λ_k π_kᵀ C_k π_k from LIT-tmp15puu, and the A step is a
+  weighted barycentric projection. "this problem is jointly convex w.r.t. C
+  and A but not w.r.t. πk" (p. 4). No convergence result is given for the
+  barycenter.
+- **Solver (§3.3, p. 5).** Conditional gradient with an exact line search
+  for the quadratic. The objective has "a quadratic but provably non convex
+  term", and "conditional gradient is known to converge to a local
+  stationary point (Lacoste-Julien, 2016)".
+- **Experiments (§4, pp. 5–8; §6.2, p. 15–16).** Vector-attributed graphs:
+  FGW best on 4 of 6 datasets (Table 1). Discrete labels: FGW with WL
+  features best on MUTAG, NCI1 and PTC-MR (Table 2). Unlabelled social
+  graphs: GW beats two kernels (Table 3). The supplement compares FGW with
+  W and GW alone (Tables 6, 8). W on WL features scores 87.78 on MUTAG
+  against FGW's 86.42 at H = 2 (FGW at H = 4 is best, 88.42), ties FGW on
+  NCI1 (86.42) at H = 4, and wins PTC-MR (66.28 against 65.31). On vector attributes W wins BZR, ENZYMES and
+  PROTEIN and GW wins COX2, all within error bars. The authors summarize
+  that FGW scores "are usually greater or equal" and that where not, "the
+  difference is not statistically significant" (p. 15).
+- **Clustering (§4.3, pp. 7–8).** On 40 synthetic SBM graphs in 4 groups,
+  FGW k-means with 30-node barycenters "recovers perfectly the known groups"
+  (p. 8).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | FGW_{q,α} tends to W_q^q as α → 0 and to GW_q^q as α → 1, and lies above the α-mixture of the two | strong | Theorem 6.2, Lemma 6.1, proofs pp. 11–12; bound and concavity checked on permutations |
+| C2 | For q = 1, α ∈ ]0, 1[ and distance-matrix structures, FGW is a metric on structured data up to weight-, feature- and structure-preserving bijections; for q > 1 a 2^{q−1}-relaxed semi-metric | strong | Theorems 6.3–6.6, pp. 12–14 |
+| C3 | The conditional-gradient solver reaches a local stationary point | moderate | cited result, p. 5; no global guarantee |
+| C4 | FGW outperforms graph kernels and graph CNNs on graph classification | moderate | Tables 1–3; nested CV on shared folds, but W alone matches or beats FGW on several datasets (Tables 6, 8) |
+| C5 | Both features and structure are needed, since validation chose α inside ]0, 1[ | weak | Tables 4–5; selection by grid can favour the interior with no gain over the ends, and Tables 6, 8 show none on several datasets |
+| C6 | FGW barycenters recover community structure and label distributions of their clusters | weak | one synthetic dataset, Fig. 5 |
+
+## Method
+
+Algorithm 1 (p. 5): start from the product coupling; at each step compute
+the gradient G = (1 − α) M^q + 2α L(C₁, C₂)^q ⊗ π (eq. 7), solve an exact
+OT problem with cost G, and move toward it by the exact minimizer of the
+quadratic along the segment (Algorithm 2). For q = 2 the tensor product
+costs O(mn² + m²n) via LIT-tmp15puu's factorization (p. 4).
+
+## Concepts
+
+- **Structured data** — the measure µ = Σ h_i δ_{(x_i, a_i)} on structure ×
+  feature space, "entirely described by a fully supported probability
+  measure" (Fig. 1 caption, p. 3).
+- **Trade-off α** — the weight on structure, chosen in the experiments "via
+  a logspace search in [0, 0.5] and symmetrically [0.5, 1] (15 values are
+  drawn)" (p. 6).
+
+## Connections
+
+- **GW** (Mémoli 2011; LIT-tmp15puu's entropic GW) and **W** are the two
+  ends. The metric proof rests on Mémoli's isomorphism result.
+- **Structured OT** (LIT-tmpksoez) and Courty et al.'s class-regularized OT
+  are named as approaches that "require a known and simple structure such
+  as class clusters" (p. 2).
+- **COOT** (LIT-tmpbnbe3) later recovers this paper's conditional-gradient
+  GW solver as a special case of its block coordinate descent.
+
+## Bearing on the record
+
+- **CASE-055 and CASE-tmph0fxi: anchored FGW, and what anchors buy.** The
+  zero theorem says exactly what FGW can identify. Its matchings are fixed
+  only up to bijections that preserve features and structure. Anchors
+  entered as node features therefore break exactly the structural
+  symmetries that move an anchor (THEORY-tmp7cnkm). On a 6-cycle I counted
+  the zero-cost matchings among 720 permutations. With no anchor there are
+  12, the dihedral group. One anchor leaves 2, the identity and the
+  reflection through the anchor. Two adjacent anchors leave 1. Two
+  antipodal anchors still leave 2, because the reflection through both
+  survives. Features alone (α = 0) leave 120, 24 and 24. So anchors
+  identify the correspondence only if no symmetry of the structure fixes
+  all of them, and that condition can be checked before a fit. This bears
+  on A6's claim that "independently validated anchor matches break the
+  symmetries pure GW cannot" (LIT "Why this is here"): true for anchors in
+  general position, false for anchors placed on a symmetry axis.
+- **"The weight between structure and anchors is a scientific parameter to
+  vary, not a hyperparameter to tune."** The paper treats α as a
+  hyperparameter, cross-validated for accuracy (p. 6). What it proves about
+  α is only the endpoint limits and the lower bound of Lemma 6.1. One more
+  property follows at once and supports varying α as a readout. The exact
+  FGW value is a minimum over π of functions affine in α, so it is concave
+  in α. The optimal plan changes only at finitely many breakpoints when
+  the minimum is over vertices. In my permutation check on two random
+  6-node graphs the optimal plan changed twice along α ∈ [0, 1]. The
+  paper's computed values are local optima (p. 5), so concavity holds for
+  the exact problem, not necessarily for what a solver returns.
+- **THEORY-tmpa43ta** (GW's symmetry ambiguity): FGW is the record's first
+  reading with a stated mechanism for breaking it. The mechanism works only
+  as far as the features break the automorphisms.
+- **CLAIM-098:** FGW couplings, like GW's, are soft and need not be
+  invertible. Nothing in the paper bears on lossy versus invertible
+  transports beyond that.
+- **Instruction for ML practice.** The classification results recommend a
+  method for graph learning; that belongs to the Anthology of the SOTA
+  (`anthology-candidate` on the LIT).
+
+## Limitations
+
+- **No uniqueness or stability result for the optimal coupling**, and only
+  local optimality for the solver.
+- **The classification headline is weaker than the main text says.** The
+  abstract's "outperforms both graph kernels and deep graph convolutional
+  networks" holds against those baselines, but the supplement's W-only and
+  GW-only columns match or beat FGW's best score on 6 of the 9
+  attributed datasets, within error bars (Tables 6, 8).
+- **The barycenter has no convergence or uniqueness guarantee**, and its
+  size N is fixed by the user (p. 4).
+- **Small typos:** the swapped marginals in Π(h, g) (pp. 3, 10); the proof
+  of Theorem 6.4 uses n both as an exponent and as a node count (p. 12);
+  §3.3 refers to "Equation 11", which is in the supplement (p. 5).
+- **v3 only.** Differences from v1 and v2 are unknown.
+
+## Open questions
+
+- For a given structure, which sets of anchors leave no residual symmetry,
+  and how few suffice? This is the stabilizer question for the
+  automorphism group, and it can be answered for each design before data
+  are collected.
+- With noisy anchors, how does the plan depend on α? A stability analysis
+  of the breakpoints would say whether α can be read scientifically.
