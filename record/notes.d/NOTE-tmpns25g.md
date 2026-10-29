@@ -1,0 +1,181 @@
+---
+status: Read
+paper: LIT-1601
+title: 'Cover — Violence and the word'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from Yale Law School's repository, openYLS,
+    Yale Law Journal collection (item 8ade3d14-218b-4fb5-913c-1ec2c2ded2f0,
+    file 84_95YaleLJ1601_1985_1986_.pdf, 95 Yale L.J. 1601–1629), text
+    extracted with pdftotext from the scan's text layer. Read: Parts I–III
+    and the conclusion, pp. 1601–1629, with the 62 notes. The openYLS host
+    dropped most connections on 2026-10-29 and the file came on a retry.
+    A first search hit on openYLS was a different work (Robert Post's
+    "Who's Afraid of Jurispathic Courts?", 17 Yale J.L. & Human. 9), which
+    was set aside. Nothing in the paper calls for a numerical check.
+date: '2026-10-29'
+summary: >-
+  Cover argues that legal interpretation "takes place in a field of pain
+  and death": a judge's interpretation is a practical act whose meaning is
+  bound to deeds that others, in roles, carry out on bodies. Because the
+  judge cannot act alone, legal meaning depends on a social organization of
+  violence — secondary rules that tell wardens which paper to obey, and
+  plural courts so that no single mind's interpretation becomes a deed —
+  and the perpetrator and victim of that violence cannot share its meaning.
+---
+<!-- inactive-ok-file: CLAIM-462 CLAIM-403 CLAIM-464 — Proposed; claims this reading bears on, cited as open -->
+
+# NOTE-tmpns25g: Cover — Violence and the word
+
+## Contribution
+
+Against the interpretive turn in legal theory (Dworkin, White), and
+against his own *Nomos and Narrative*, Cover argues that legal
+interpretation cannot be understood as the making of shared meaning,
+because it is the authorization of violence that others carry out. The
+paper moves the object of jurisprudence from the judge's mind to the
+organization that links the judge's word to the jailer's deed.
+
+## Key insight
+
+"The judicial word is a mandate for the deeds of others." Between
+understanding and action there is a gap that, for an individual, is a
+matter of will, and for law, "primarily a problem in social organization".
+Law closes it by role structures and secondary rules that make officials
+act on judicial words almost automatically, overriding the inhibitions
+against inflicting pain (Milgram's "agentic state"). The judge must
+therefore interpret with an eye to whether the deed will follow: legal
+interpretation is "bonded" to the deeds it implies and to "the ecology of
+jurisdictional roles (the conditions of effective domination)".
+
+## Assumptions
+
+- **Most people are inhibited from inflicting pain**, and social cues,
+  above all institutional authority, can override the inhibition (Milgram,
+  with Lorenz and Anna Freud's "delegation" as alternatives).
+- **Violence is most direct in criminal law**, which Cover uses throughout;
+  he says the argument extends to property law, where the violent base is
+  usually not "immediately at issue" (n. 16).
+- **The paper is about American judges.** Its account of plural courts and
+  appellate review is of the US system.
+
+## Key results
+
+- **Three features of legal interpretation** (Part II): it is a practical
+  activity; it is designed to generate credible threats and actual deeds
+  of violence; and it must do so effectively, attending to "the conditions
+  of effective domination". Where those are absent, "either our
+  understanding of the law will be adjusted … or there will be a crisis of
+  credibility."
+- **United States v. Tiede** (Part III.A). Judge Herbert Stern, sitting in
+  the US Court for Berlin in 1979, sentenced a hijacker to time served
+  because the US government recognized no constitutional limits there:
+  "who will stand between you and him? What judge?" Cover: "the meaning of
+  her words may change when the roles of these others change." A judge
+  who cannot change the deeds of official violence "may always withhold
+  the justification for this violence" (n. 48).
+- **The death sentence** (Part III.B). The stay of execution, "literally
+  nothing" as exegesis, is constitutional interpretation, because it shows
+  the warden's violence linked to the judge's word. "If the warden should
+  cease paying relatively automatic heed to the pieces of paper which flow
+  in from the judges … the judges would lose their capacity to do
+  violence."
+- **No judge acts alone.** Appellate review and plural courts mean "the
+  application of legal understanding in our domain of pain and death will
+  always require the active or passive acquiescence of other judicial
+  minds"; this is "intrinsic to whatever achievement is possible in the
+  domesticating of violence".
+- **Two limits on common meaning** (conclusion): a practical one, that
+  shared responsibility makes coherent meaning unlikely (Arrow); and a
+  necessary one, that perpetrator and victim of organized violence have
+  "achingly disparate" experiences of it.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A judicial interpretation has legal effect only through the cooperation of others in roles | strong | argument; Tiede; the structure of sentencing and execution |
+| C2 | Legal interpretation adjusts to the conditions of effective enforcement | moderate | argument; Tiede; examples (Weimar, mafia trials) in n. 42 |
+| C3 | Institutions override individual inhibitions against violence by authority cues | moderate | Milgram, cited; no new evidence |
+| C4 | The separation of interpretation from execution, joined by rigid hierarchy, ensures no single mind's interpretation becomes a deed | moderate | US secondary rules (appeal as of right, three-judge panels, habeas) |
+| C5 | Perpetrator and victim cannot share the meaning of legal violence | interpretive | Scarry; the defendant's perspective in sentencing |
+
+## Concepts
+
+- **Bonded interpretation**: interpretation bound to the deeds it implies
+  and to the jurisdictional roles that make them effective.
+- **Secondary rules** (after Hart), here those that "organize social
+  cooperation in the violent deeds of the law", which Cover says are
+  "clearer and more hierarchical than those that organize the ideational
+  content of the law" (n. 26).
+- **Conditions of effective domination**: the social preconditions under
+  which an authorized act of violence can be carried out without
+  reprisal, resistance or revenge.
+- **Jurispathic**: Cover's earlier term for state courts that kill
+  competing legal traditions; here he sets it aside for the office's
+  "homicidal potential".
+
+## Connections
+
+It revises Cover's own "Nomos and Narrative" (1983), which located legal
+meaning in communities; here state law's meaning is bound to its
+violence. It argues against Dworkin's *Law's Empire* (1986), whose
+Hercules is "Hyporcules" because no American judge decides alone, and
+against James Boyd White. It draws on Scarry's *The Body in Pain*,
+Milgram and Hart. Fiss's "The Forms of Justice" (LIT-1600, NOTE-tmpafym3),
+by Cover's colleague and co-author, treats the same dependence from the
+remedial side: the structural judge's success depends on actors outside
+the court.
+
+## Bearing on the record
+
+- **CASE-176.** The paper fits the USIP case closely. The case's point
+  that enforcement settled who held the building before any court settled
+  who held the authority is Cover's warden choosing which paper to obey:
+  the police and the security contractor acted on the executive's papers,
+  and a court's word could become a deed only if they would act on its.
+  The judge's reported worry that an order to exclude the new occupants
+  could provoke an "armed battle" is Cover's "conditions of effective
+  domination" entering the interpretation itself. Cover also offers what
+  the case does not name: the judge's remaining power is to withhold
+  justification (n. 48), which a refusal to grant an order does not
+  exercise.
+- **CLAIM-462.** The claim says an arrangement's capacity for effective
+  action and its capacity to be corrected are maintained by different
+  relations. Cover holds a version of this for courts: the capacity to
+  correct by judgment depends on the role structure that carries judicial
+  words into deeds, which is a different relation from the one that makes
+  the judgment right. So the claim's "that it is new" doubt is partly
+  borne out; Cover does not, though, treat correction of one institution
+  by others, which is the claim's subject.
+- **TERM-064 and CLAIM-403.** The record's accounts of legibility and
+  uptake are about whether a distinction or contribution reaches and is
+  taken up by an institution. Cover adds the step after uptake: whether
+  the institution's judgment becomes an act on bodies through others. A
+  judgment can be legible and taken up and still not be executed.
+- **CLAIM-464.** Cover's Tiede is the inverse case: a court that could not
+  rely on independent enforcement changed its sentence, so the conditions
+  of enforcement changed what the court would order while the governing
+  law stayed fixed.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Criminal law throughout**, by design; the extension to civil and
+  public law is asserted in a note.
+- **The psychology** is Milgram's and is taken at face value.
+- **US-specific** in its account of secondary rules and plural courts.
+- **No account of what happens when the roles divide** between rival
+  authorities, which is the USIP situation; Tiede is a case of absent
+  independence, not of contested command.
+- **Errors and slips.** None found.
+
+## Open questions
+
+- When enforcers face two authorities' papers, what decides which they
+  obey? Cover says the rules are "highly arbitrary, hierarchical
+  principles" but gives no account of their failure.
