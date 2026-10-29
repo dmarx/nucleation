@@ -1,8 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmp0q5ig) from the paper as reprinted in
+  chapter 3 of Tobi's 2013 Leiden thesis (hdl.handle.net/1887/22065, Open
+  Access); worth reading as the first human report of a prenatal exposure
+  associated with a methylation difference decades later, and as the
+  record's clearest case of the womb route: a mark from the person's own
+  exposure, at the very start of gestation, with no claim about the next
+  generation.
 title: 'Persistent epigenetic differences associated with prenatal exposure to famine in humans'
 version: 1
 history:
@@ -12,8 +17,12 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, on
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: PNAS 105(44), 17046–17049; online and
-    print 2008-11-04, so `published:` is that date (ADR-002). Open in PMC
-    (PMC2579375).
+    print 2008-11-04, so `published:` is that date (ADR-002). Open in
+    PMC (PMC2579375). Set Active the same day: read in full in
+    NOTE-tmp0q5ig from the paper as reprinted in chapter 3 of Tobi's
+    2013 Leiden thesis (hdl.handle.net/1887/22065, Open Access), not
+    compared with the published text, where there is one. The filing
+    summary is replaced by the reading's.
 tags:
 - natural-sciences
 date: '2026-10-29'
@@ -27,15 +36,14 @@ keywords:
 - 'DNA methylation'
 implementations: []
 summary: >-
-  Heijmans et al. (2008). People prenatally exposed to the Dutch Hunger Winter of 1944–45 had, six decades later, less methylation of the imprinted IGF2 gene than their same-sex siblings: an early-life exposure leaves a lasting epigenetic mark. The exposure is the person's own, in utero, so this is an intergenerational effect, not inheritance across untouched generations.
+  Heijmans et al. (2008). Sixty people conceived during the Dutch Hunger Winter of 1944–45 had, about six decades later, less methylation in blood at the imprinted IGF2 gene's differentially methylated region than their unexposed same-sex siblings (0.488 vs 0.515, −5.2%, P = 5.9 × 10⁻⁵). Sixty-two people exposed only late in gestation, who were born lighter, showed no difference, and the timing interaction was significant. The authors read this as the first human evidence that a transient early-gestation exposure can be recorded as a lasting epigenetic change. The exposure is the person's own, in or around conception, so this is an intergenerational effect, not inheritance across untouched generations.
 ---
 
 # LIT-tmpkgr1s: Persistent epigenetic differences associated with prenatal exposure to famine in humans
 
 Heijmans, B. T., Tobi, E. W., Stein, A. D., Putter, H., Blauw, G. J., Susser, E. S., Slagboom, P. E. & Lumey, L. H. (2008). *Proceedings of the National Academy of Sciences*, 105(44), 17046–17049.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmp0q5ig, from the paper as reprinted in chapter 3 of Tobi's 2013 Leiden thesis (hdl.handle.net/1887/22065, Open Access).
 
 ## Why this is here
 
