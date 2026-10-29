@@ -227,16 +227,16 @@ uncited: slowness is a mark of a level, not its definition.
 
 ## Note of 2026-10-29: promoted
 
-Grounded in THEORY-661, CASE-102, CASE-098 and CASE-116, all Active, and in
-Simon (LIT-905, read); it rests on no claim, and no objection is filed. The
+Grounded in [THEORY-661](../theory.d/THEORY-661.md), [CASE-102](../cases.d/CASE-102.md), [CASE-098](../cases.d/CASE-098.md) and [CASE-116](../cases.d/CASE-116.md), all Active, and in
+Simon ([LIT-905](../literature.d/LIT-905.md), read); it rests on no claim, and no objection is filed. The
 readings since 2026-10-21 are consistent with it and none is a test: in
-NOTE-984, NOTE-985 and NOTE-1228 slowness and coarseness are one spectral
-fact, and Flack (NOTE-1216) builds slowness into the definition, which the
+[NOTE-984](../notes.d/NOTE-984.md), [NOTE-985](../notes.d/NOTE-985.md) and [NOTE-1228](../notes.d/NOTE-1228.md) slowness and coarseness are one spectral
+fact, and Flack ([NOTE-1216](../notes.d/NOTE-1216.md)) builds slowness into the definition, which the
 note of 2026-10-20 already sets aside. Neither disjunct of defeated_if is
 met: no cascade has been shown to have higher-level variables as fast as
-their constituents (the note of 2026-10-19), and NOTE-977's flat landscape,
+their constituents (the note of 2026-10-19), and [NOTE-977](../notes.d/NOTE-977.md)'s flat landscape,
 where weak coupling comes without slowness, shows the timescale is not read
 off the compositional criterion. "Characteristically" has behind it a
 mechanism for gapped nearly decomposable systems and two stipulated
-specimens (CASE-102 and CASE-098 are stipulated), not a survey; A4's
+specimens ([CASE-102](../cases.d/CASE-102.md) and [CASE-098](../cases.d/CASE-098.md) are stipulated), not a survey; A4's
 question of scope stays open in that sense.
