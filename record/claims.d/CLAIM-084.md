@@ -74,15 +74,15 @@ pragmatic retention was asserted, not measured.
 
 ## Note of 2026-10-29: revised
 
-CLAIM-227 is granted. No design in the record gives judges a definition of
+[CLAIM-227](CLAIM-227.md) is granted. No design in the record gives judges a definition of
 footing, a response format beyond the analyst's categories, a reliability
 target, or a validation against a contrast fixed in advance, and the
-analyst's own labels of CASE-012's refrains changed between A38 and A39.
+analyst's own labels of [CASE-012](../cases.d/CASE-012.md)'s refrains changed between A38 and A39.
 Until such a measure exists, the outcome this claim recommends is not yet a
 measurement, and a test of its defeat condition would test the categories as
-much as the claim. QUESTION-076 asks whether one can be had.
+much as the claim. [QUESTION-076](../questions.d/QUESTION-076.md) asks whether one can be had.
 
 ## Note of 2026-10-29: what holds it back
 
-It has had no evidence of its own since ARG-039 was Rejected, and no
+It has had no evidence of its own since [ARG-039](../arguments.d/ARG-039.md) was Rejected, and no
 validated footing measure exists to test the defeat condition.

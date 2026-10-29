@@ -80,7 +80,7 @@ consequence or social uptake this claim asks for.
 The manuscript's §10 calls GenEval and T2I-CompBench object-centred. That
 holds of GenEval and of T2I-CompBench's attribute and spatial categories. It
 does not hold of its non-spatial category, whose rubric asks only whether
-"actions, events and relationships" are portrayed (THEORY-522) and whose
+"actions, events and relationships" are portrayed ([THEORY-522](../theory.d/THEORY-522.md)) and whose
 human scores sit at 0.95–0.99, nor of Fu et al.'s agentic relations. The gap
 the claim names is narrower, and it is still open.
 

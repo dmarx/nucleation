@@ -1,14 +1,14 @@
 ### Changed
 
-- Seventh status review (ADR-057; workbench entry of 2026-10-29): the
+- Seventh status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29): the
   concessions the worklist found unwritten are written into their targets
-  (ADR-059).
-- **Narrowed:** CLAIM-137 (an anchored symmetry group, CLAIM-249), CLAIM-013
-  (CLAIM-097), CLAIM-005 (CLAIM-207, CLAIM-256) and CLAIM-084 (a reliable
-  footing measure first, CLAIM-227).
-- **Defeat conditions given margins:** CLAIM-139, CLAIM-115 and CLAIM-143
-  (CLAIM-238), titles unchanged. CLAIM-139 and CLAIM-115 no longer complement
-  each other (CLAIM-211), and CLAIM-139 answers QUESTION-002.
-- CLAIM-132 no longer objects to CLAIM-136.
-- **Blockers recorded:** CLAIM-136, CLAIM-137, CLAIM-139, CLAIM-115,
-  CLAIM-143, CLAIM-013, CLAIM-005, CLAIM-084, CLAIM-301 and CLAIM-295.
+  ([ADR-059](record/decisions.d/ADR-059.md)).
+- **Narrowed:** [CLAIM-137](record/claims.d/CLAIM-137.md) (an anchored symmetry group, [CLAIM-249](record/claims.d/CLAIM-249.md)), [CLAIM-013](record/claims.d/CLAIM-013.md)
+  ([CLAIM-097](record/claims.d/CLAIM-097.md)), [CLAIM-005](record/claims.d/CLAIM-005.md) ([CLAIM-207](record/claims.d/CLAIM-207.md), [CLAIM-256](record/claims.d/CLAIM-256.md)) and [CLAIM-084](record/claims.d/CLAIM-084.md) (a reliable
+  footing measure first, [CLAIM-227](record/claims.d/CLAIM-227.md)).
+- **Defeat conditions given margins:** [CLAIM-139](record/claims.d/CLAIM-139.md), [CLAIM-115](record/claims.d/CLAIM-115.md) and [CLAIM-143](record/claims.d/CLAIM-143.md)
+  ([CLAIM-238](record/claims.d/CLAIM-238.md)), titles unchanged. [CLAIM-139](record/claims.d/CLAIM-139.md) and [CLAIM-115](record/claims.d/CLAIM-115.md) no longer complement
+  each other ([CLAIM-211](record/claims.d/CLAIM-211.md)), and [CLAIM-139](record/claims.d/CLAIM-139.md) answers [QUESTION-002](record/questions.d/QUESTION-002.md).
+- [CLAIM-132](record/claims.d/CLAIM-132.md) no longer objects to [CLAIM-136](record/claims.d/CLAIM-136.md).
+- **Blockers recorded:** [CLAIM-136](record/claims.d/CLAIM-136.md), [CLAIM-137](record/claims.d/CLAIM-137.md), [CLAIM-139](record/claims.d/CLAIM-139.md), [CLAIM-115](record/claims.d/CLAIM-115.md),
+  [CLAIM-143](record/claims.d/CLAIM-143.md), [CLAIM-013](record/claims.d/CLAIM-013.md), [CLAIM-005](record/claims.d/CLAIM-005.md), [CLAIM-084](record/claims.d/CLAIM-084.md), [CLAIM-301](record/claims.d/CLAIM-301.md) and [CLAIM-295](record/claims.d/CLAIM-295.md).
