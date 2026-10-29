@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmp4sei8
 title: "Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The connection to CLAIM-118 is restated after the tenth status
+    review restated that claim by what each history carries: a
+    discarded update is part of the signal, so this paper no longer
+    measures context against interpreter. The reading is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -86,7 +94,8 @@ did not, on most tasks.
   input–label mapping. The update's advantage is largest where the mapping
   is what the task needs.
 - **[CLAIM-118](../claims.d/CLAIM-118.md)** holds that context and interpreter are separate sources of
-  interpretive change. This is the measured case at the level of the whole
-  model.
+  interpretive change, told apart by what each carries. The update here is
+  discarded after the task, so on that criterion this paper shows two uses
+  of one context differing, not context against interpreter.
 - **The anthology** holds the paper as [ANTH-LIT-379](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-379.md) with a practice built
   on it; the method is practice and belongs there.

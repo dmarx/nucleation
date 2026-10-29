@@ -1,10 +1,10 @@
 ---
 number: 118
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpxrgp3
 title: 'Context and interpreter are separate sources of interpretive change, told apart by what each carries and not by mechanism: what the current context supplies, whether held in activations or in weights updated on it and discarded after, is the signal; what earlier contexts have left in the interpreter and it carries into new ones is the interpreter; and improving the signal differs from improving the interpreter'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -47,6 +47,19 @@ history:
     adaptation of the interpreter are behaviourally indistinguishable:
     equally persistent, equally transferable, and predicted by the
     same model.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review on the owner's delegated
+    ruling of 2026-10-29: test-time training whose update is discarded
+    after the task is part of what the context supplies, the signal,
+    as CLAIM-074 already states it and A44 §3B's caution about the
+    term allows; the manuscript's §5 sentence that test-time training
+    modifies the decoder is read as a remark about mechanism, which
+    this claim no longer uses. It has no premise and no objection,
+    nothing in the record meets its defeat condition, and THEORY-481
+    (Active) corroborates it. The blocker note above is answered by
+    this ruling. Status Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -162,3 +175,14 @@ test-time training "modifies the decoder itself", and the restatement
 departs from that sentence, though A44 §3B says "TTT terminology needs
 care". No premise or objection is on file, and nothing in the record meets
 its defeat condition.
+
+## Note of 2026-10-29: promoted
+
+The blocker above was the owner's ruling on discarded test-time training,
+which the owner left to the reviewing session's judgement: it is part of the
+signal. Where the manuscript (§5) says test-time training "modifies the
+decoder itself", that is a fact about where the update sits, and this claim
+tells the two sources apart by what is carried into later contexts, not by
+where a change sits. THEORY-169's identity of conditioning and per-sequence
+weight updates is then a fact about the signal side and does not tell
+against the claim.

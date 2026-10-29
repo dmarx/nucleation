@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7j8hl
 title: 'Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie''s interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -29,6 +29,14 @@ history:
     title: Nothing here is new: planning theory, control theory,
     executive control and institutional theory already study every
     mechanism the account names
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    On the owner's delegated ruling of 2026-10-29: CLAIM-159 answers
+    executive control, through the expected value of control, and one
+    account of resolve, Ainslie's; it does not answer control theory's
+    regulation, which is a different front. The title, which names the
+    two accounts and not the fronts, is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -99,3 +107,11 @@ will-organization over them is [QUESTION-056](../questions.d/QUESTION-056.md)'s 
 control and metacontrol mechanisms alone and then with a will-organization
 over them. Planning theory and institutional theory have not been set beside
 the account at all.
+
+## Note of 2026-10-29: which fronts CLAIM-159 answers
+
+Executive control, through the expected value of control (THEORY-1110), and
+one account of resolve (THEORY-1117). Control theory, regulation of a
+variable against a reference, is not set beside the account by CLAIM-159,
+and stays with planning and institutional theory among the fronts not yet
+compared.

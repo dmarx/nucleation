@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpscxh5
 title: 'In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record''s Hilbert-space works differ in where they get it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-09-27'
@@ -54,6 +54,12 @@ history:
     marked as the reader's survey. The 'where from' column, which carries
     the title's last clause, is quoted from each source. The title is
     unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    The owner ruled in the pull request that a re-derivation meets a
+    promote_when that asks for the source's own statement, so the
+    promotion above stands on the owner's ruling as well as ADR-047's.
 tags:
 - mathematics
 - quantum-foundations

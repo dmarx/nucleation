@@ -1,10 +1,10 @@
 ---
 number: 74
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpk2ltq
 title: 'Fidelity is relative to the interpreter''s learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,15 @@ history:
     the title; it now says what the change carries. The blocker note
     is updated: CLAIM-118 is restated the same way and is held only by
     the owner's ruling on test-time training. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review. Its one premise, CLAIM-118,
+    went Active the same day on the owner's delegated ruling that
+    discarded test-time training is part of the contextual history,
+    which is how this claim's title already states the split; no
+    objection is filed and nothing in the record meets its defeat
+    condition. Status Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -89,3 +98,8 @@ Its one premise, [CLAIM-118](CLAIM-118.md), is Proposed. [CLAIM-118](CLAIM-118.m
 way as this claim, by what each history carries, and is held only by the
 owner's ruling that test-time training whose update is discarded is part of
 the signal, against manuscript §5.
+
+## Note of 2026-10-29: promoted
+
+CLAIM-118 is now stated the same way and is Active, so the premise the note
+above waited on is held.
