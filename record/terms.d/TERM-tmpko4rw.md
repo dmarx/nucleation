@@ -51,3 +51,14 @@ trust, is a group entity, and only that is a candidate holder of a stance
   difference in kind between a set and a whole.
 - **Proposed, not adopted.** It is a candidate until a CLAIM is stated in
   it and the owner adopts it.
+
+## Note of 2026-10-29: a category made an entity
+
+Castano et al. (NOTE-tmpmr9wg) report that a reminder of death made Italian
+students see "Italians", a category of members, as more of an entity:
+entitativity rose from 4.77 to 5.40 (N = 48). The authors read it as an
+"attempt to reify the ingroup", so that it can outlast the self. If it
+holds, the line this term draws is one that perceivers move under threat.
+It is one small study, of an effect that Many Labs 4 failed to replicate
+in another paradigm (NOTE-tmpzgbo9).
+

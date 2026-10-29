@@ -78,3 +78,47 @@ Two further lines keep it open.
   - **The thesis's test.** Whether such concern varies with a measured
     continuity between the self and the future, apart from caring. That is
     [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s test applied across generations.
+
+## Note of 2026-10-29: eight works read
+
+Eight works were read, three from the authors' working papers. They narrow
+the question in four ways.
+
+- **What the impersonal ground needs** (Greaves and MacAskill,
+  NOTE-tmpozxwf). Expected value taken down to small probabilities, and a
+  zero pure rate of time preference, which they call "near-essential".
+  Against person-affecting views their case falls back on shaping
+  artificial intelligence, where a large future population exists either
+  way. They say nothing of motivation: their agent is "a rational
+  altruistic actor".
+- **Whether it can guide action** (Tarsney, NOTE-tmp0l9dk; Thorstad,
+  NOTE-tmpu4i35). Neither defeats longtermism, but both shift weight to
+  the near term.
+  - Tarsney calls the epistemic challenge "not fatal". At cautious
+    estimates the longtermist option wins only on a very stable far
+    future, and the robust win rests on very small probabilities.
+  - Thorstad shows that high existential risk lowers the value of reducing
+    it unless risk soon falls and stays low. Mitigation "may yet be
+    valuable, but perhaps not astronomically so".
+- **The living's own stake is a fourth ground** (Bostrom 2003,
+  NOTE-tmpwwa8k; Bostrom 2013, NOTE-tmpyret1). On Bostrom's
+  person-affecting reading, avoiding catastrophe matters because people
+  now alive might share the long future: literal self-interest. In 2013
+  he finds "a deficit of motivation", because the living capture only
+  their own share of existential safety, and grants that "Unrestricted
+  altruism is not so common".
+- **The grounds divide the labour** (Meyer, SEP, NOTE-tmps9poq). A weak
+  person-affecting view states harms to actual future people. By its own
+  account it gives no reason to prefer a good future to none, and fills
+  that gap with Scheffler's grounding in what the living value.
+- **Lay concern reaches the far future through a picture of it as good**
+  (Schubert et al., NOTE-tmpbxw6b; Caviola et al., NOTE-tmpaz0p7).
+  - Unprompted, a minority judge extinction uniquely bad. A reminder of
+    the lost future brings this to about half; only a long, utopian
+    future makes a majority (67–77%).
+  - People count merely possible happy people as making a world better,
+    but the preference fades with numbers: one billion were preferred to
+    ten billion.
+  - That is a thin, impersonal valuation, not an extended self. Caviola
+    et al.'s account of averagism has people judge a population as one
+    life "such as themselves": the self as a template, not enlarged.

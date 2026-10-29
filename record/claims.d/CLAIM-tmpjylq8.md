@@ -208,3 +208,25 @@ thesis at five points.
   shared category.
 
 The same extension in time, legacy, is [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).
+
+## Note of 2026-10-29: the thesis in time
+
+The readings on legacy and on obligations to the future (QUESTION-tmpruhu4,
+QUESTION-tmpmx9ha) bear on the thesis in four ways.
+
+- **Its shape holds for prudence** (Hershfield, NOTE-tmp70rn1). Felt
+  overlap with one's future self predicts patience, so prudence is regard
+  scaled by overlap. The thesis and its mirror, "no prudence is purely
+  self-interested", are claims about one scale.
+- **Scheffler is not the counterexample he was filed as** (NOTE-tmpmsmxw).
+  He reads our concern for humanity's survival as dependence, not
+  altruism. The self served would be one's standing as a valuer, a third
+  sense of "self-interest" the thesis would have to adopt explicitly.
+- **Where the far future is concerned, the evidence points elsewhere**
+  (Schubert et al., NOTE-tmpbxw6b; Caviola et al., NOTE-tmpaz0p7). Lay
+  concern reaches the far future through a picture of it as good, an
+  impersonal valuation that no measured self carries. That is the hardest
+  case the record now holds, and it is thin.
+- **Bostrom grants the thesis its prediction** (NOTE-tmpyret1). Concern
+  for existential safety is undersupplied because people capture only
+  their own share of it: concern reaches as far as the self's stake.

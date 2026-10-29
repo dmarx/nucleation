@@ -95,3 +95,15 @@ objection lists.
   two. The chapter reports, without a source, that where they are
   separated, commitment predicts behaviour better. If so, motivation
   follows caring rather than the self's extent.
+
+## Note of 2026-10-29: the criterion in time
+
+- **Future-self overlap predicted where caring did not** (Hershfield,
+  NOTE-tmp70rn1). Similarity to one's self in ten years, on overlapping
+  circles, predicted patient choice, and directly reported liking and
+  caring did not. But the caring reports were near ceiling, so the
+  separation is suggested, not shown.
+- **The objection reappears in the theory of welfare** (Luper, SEP,
+  NOTE-tmpl7p19). If posthumous harm is the thwarting of desires, and any
+  satisfied desire counts as one's good, legacy-seeking is self-interest
+  by definition. The same triviality, one level down.

@@ -19,7 +19,7 @@ summary: >-
   repetition of the moth study with swallowtails, reported in 2026, is
   unpublished and not filed.
 ---
-<!-- inactive-ok-file: LIT-tmp0v56k LIT-tmpvl4oj LIT-tmpgfqw1 LIT-tmpaazd0 QUESTION-tmp8bttd QUESTION-tmpruhu4 THEORY-464 THEORY-179 LIT-469 LIT-tmpk0wlg LIT-tmp8yuyb CASE-098 — Deferred, Open, Proposed or Unavailable; the works, questions, accounts and case the question is organised around, cited as open -->
+<!-- inactive-ok-file: LIT-tmp0v56k LIT-tmpvl4oj LIT-tmpgfqw1 LIT-tmpaazd0 QUESTION-tmp8bttd QUESTION-tmpruhu4 THEORY-464 THEORY-179 LIT-469 LIT-tmpk0wlg — Deferred, Open, Proposed or Unavailable; the works, questions, accounts and case the question is organised around, cited as open -->
 
 # QUESTION-tmpws54x: When a memory survives the rebuilding of the nervous system that formed it, as through insect metamorphosis or planarian head regeneration, what carries it across, and what does that show about whether the animal after is the one that learned?
 

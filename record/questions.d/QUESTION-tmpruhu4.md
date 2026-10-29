@@ -17,8 +17,8 @@ summary: >-
   way it measures the social one (overlap circles for the future self),
   and finds legacy motivation drives concern for future generations.
   Philosophy offers three readings of that concern: an extended self,
-  interests that outlast death (Pitcher), and care for a future that does
-  nothing for us (Scheffler).
+  interests that outlast death (Pitcher), and dependence on a future we
+  will not see (Scheffler).
 ---
 <!-- inactive-ok-file: CLAIM-tmpjylq8 CLAIM-tmprudek CLAIM-420 THEORY-464 LIT-tmpm40au LIT-tmpl4qml LIT-tmphj5mc LIT-tmpcbh59 LIT-tmp2s109 LIT-tmpd9qw4 LIT-tmptv1qs LIT-tmpcpdlk LIT-tmpm5do0 LIT-tmpetcju LIT-tmp8yuyb QUESTION-tmpmx9ha — Proposed, Deferred or Unavailable; the thesis, claims and works the question is organised around, cited as open -->
 
@@ -59,10 +59,12 @@ Four bodies of work bear on it.
     person can be harmed by what happens after their death. So acting for
     one's legacy can be self-interested in the ordinary sense, with no
     extended self.
-  - **Care for a future that does nothing for us.** On Scheffler
-    ([LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md)) much of what we value depends on humanity going on
-    after we die, though its going on does nothing for us. That is the
-    hardest case for the thesis in time.
+  - **Dependence on a future we will not see.** On Scheffler
+    (LIT-tmpl4qml) much of what we value depends on our confidence that
+    humanity will go on after we die. He reads this as dependence on
+    future people, not altruism toward them: their going on keeps our
+    valuing secure (NOTE-tmpmsmxw). It was filed as the hardest case for
+    the thesis in time, and the reading makes it less hard.
 
 ## What would count as an answer
 
@@ -85,3 +87,55 @@ own legacy, is [QUESTION-tmpmx9ha](QUESTION-tmpmx9ha.md): longtermism, person-af
 non-identity problem and Scheffler's grounding of concern in what the
 living value.
 
+## Note of 2026-10-29: the legacy works, read
+
+The originals are Unavailable. Works read in their place, and the two read
+themselves, change the question in five ways.
+
+- **Scheffler is less hard a case than filed** (NOTE-tmpmsmxw;
+  NOTE-tmpsnlxv). The Tanner Lectures claim that our valuing depends on
+  confidence that others will live after us. Scheffler says the surprise
+  shows "less that we have been blinded to our own altruism than ... that
+  we have overestimated our independence and self-sufficiency". He
+  explains even his preference to die sooner so that humanity survives by
+  the limits of individualism, not of egoism. For the thesis, the self
+  served would be one's standing as a valuer: a third sense of
+  "self-interest", after welfare and after a self-concept kept true. The
+  triviality objection applies to it.
+- **Pitcher's reading depends on the theory of welfare** (Luper, SEP,
+  NOTE-tmpl7p19). Posthumous harm is the thwarting of desires held while
+  alive, so legacy-seeking is self-interest with no extended self only on
+  a desire-based theory of welfare. If any satisfied desire counts as
+  one's good, it is self-interest by definition.
+- **Terror management is weaker support** (Many Labs 4, NOTE-tmpzgbo9;
+  Chen et al., NOTE-tmpc43sa). Seventeen labs (N = 1,550) found no
+  mortality-salience effect: g = 0.07, 95% CI [−0.03, 0.17]. Corrected for
+  publication bias, the meta-analytic effect falls from about r = .35 to
+  about .18, or to nothing. Castano et al. (NOTE-tmpmr9wg) state the join
+  of the social and temporal self as a conjecture: a lasting group lets
+  the self "project themselves in space and time, beyond their personal
+  death". Their one experiment (N = 48) builds on that contested effect
+  and measures no self.
+- **Legacy motivation is real but not yet separated from caring.**
+  - Generativity includes a need for symbolic immortality (Kruse and
+    Schmitt, NOTE-tmp8kqrv). A recent validation separates a three-item
+    "Legacy" factor from generative action (Sandoval-Obando et al.,
+    NOTE-tmp8amb2), but its items are not printed.
+  - Wade-Benzoni's experiments (NOTE-tmpcn33u) never measure legacy
+    concern and generosity in the same study. Two of their p-values do
+    not match their statistics.
+  - Hurlstone et al.'s legacy messages (NOTE-tmpebx4k) bundle
+    identification with generations, a moral appeal and one's own death,
+    so they cannot tell the thesis's reading from Pitcher's.
+  - Symbolic immortality, as Sturesteps measured it (skimmed,
+    NOTE-tmpwnl8h), is consolation that goes with accepting death as
+    final, not a motive to act for the future.
+- **The self over time is measured as the thesis needs** (Hershfield,
+  NOTE-tmp70rn1). Felt similarity to one's future self predicts patience
+  where directly reported caring did not, but that caring was near
+  ceiling. Hershfield guesses that the future self may continue in one's
+  offspring, which is the untested bridge from prudence to legacy.
+
+The question's third philosophical reading is reworded to match Scheffler:
+dependence on a future we will not see, not care for a future that does
+nothing for us.

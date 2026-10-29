@@ -24,7 +24,10 @@ history:
     readers only. Set Unavailable the same day after a search for a
     lawful copy (ADR-041); the status note says where. On the same day
     Scheffler's 2012 Tanner Lectures (LIT-tmpuiaaa) and Cottingham's
-    NDPR review (LIT-tmpw9j51) were read in its place.
+    NDPR review (LIT-tmpw9j51) were read in its place. The filing
+    summary's "whose existence does nothing for us" is removed: the
+    Tanner Lectures read in its place say their existence keeps our
+    valuing secure.
 tags:
 - ethics
 - altruism
@@ -42,7 +45,7 @@ keywords:
 - 'immortality'
 implementations: []
 summary: >-
-  Scheffler (2013), his 2012 Tanner Lectures with replies. The afterlife conjecture: much of what we value depends on our confidence that humanity will go on after our deaths (a "collective afterlife"), as the doomsday and infertility scenarios show, so we care about people who will live after us, whom we will never know and whose existence does nothing for us. He also argues that personal immortality would drain value of its point.
+  Scheffler (2013), his 2012 Tanner Lectures with replies. The afterlife conjecture: much of what we value depends on our confidence that humanity will go on after our deaths (a "collective afterlife"), as the doomsday and infertility scenarios show, so we care about people who will live after us, whom we will never know. He also argues that personal immortality would drain value of its point.
 ---
 
 # LIT-tmpl4qml: Death and the Afterlife
