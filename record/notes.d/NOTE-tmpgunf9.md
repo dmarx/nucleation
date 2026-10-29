@@ -117,15 +117,15 @@ names and does not answer.
 
 The statement cites *Trump v. J.G.G.* (decided three days before, with
 Justice Sotomayor dissenting), the Alien Enemies Act case that
-CASE-175 sets beside this one. The comparator the exchange proposed for
+[CASE-175](../cases.d/CASE-175.md) sets beside this one. The comparator the exchange proposed for
 responsibility across a transfer between states is *El-Masri*
-(LIT-1619), where a European court held the sending state responsible
+([LIT-1619](../literature.d/LIT-1619.md)), where a European court held the sending state responsible
 for exposing a man to the receiving state's custody; this order is about
 remedy, not responsibility, and says nothing on that question.
 
 ## Bearing on the record
 
-- **CASE-175.** The case's account of the order is right: the Court
+- **[CASE-175](../cases.d/CASE-175.md).** The case's account of the order is right: the Court
   "left in place the requirement that the government 'facilitate' his
   release", the government having acknowledged the removal was illegal.
   Two particulars the case could add. The Court itself separated
@@ -133,13 +133,13 @@ remedy, not responsibility, and says nothing on that question.
   open; and it asked the government to "share what it can concerning the
   steps it has taken and the prospect of further steps", which is a
   court asking for the evidence behind a claim of inability before
-  accepting it, the move QUESTION-279 asks about.
-- **CLAIM-464.** The statement names jurisdictional displacement as an
+  accepting it, the move [QUESTION-279](../questions.d/QUESTION-279.md) asks about.
+- **[CLAIM-464](../claims.d/CLAIM-464.md).** The statement names jurisdictional displacement as an
   argument the government made: that removal across the border ends a
   court's power, so that acting "before a court can intervene" escapes
   consequence. Three justices rejected it as law. The order does not
   reach the mechanism; it shows the argument was made and how it fared.
-- **CLAIM-457.** Nothing in the order speaks to joint ability. It
+- **[CLAIM-457](../claims.d/CLAIM-457.md).** Nothing in the order speaks to joint ability. It
   presupposes that the United States can take steps toward a release
   that El Salvador would carry out.
 

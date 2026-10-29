@@ -161,17 +161,17 @@ attended on average 22.9 of 29 individual sessions and 19.9 of 27 classes.
 The treatment is Lynch's, from his 2018 manual (reference 9, not
 registered), with standard DBT skills lessons from Linehan's 1993 skills
 manual (reference 17, not registered); the record's DOI'd statements of the
-two are LIT-1205 and LIT-1221. Two earlier pilots by Lynch with older
+two are [LIT-1205](../literature.d/LIT-1205.md) and [LIT-1221](../literature.d/LIT-1221.md). Two earlier pilots by Lynch with older
 depressed adults (2003, 2007) used an earlier form of the treatment and
 gave the effect sizes (0.85, 0.71) the power calculation assumed. The
 systematic review that places this trial among the RO DBT evidence is
-LIT-1224. Its measure of inflexibility, the AAQ-II, is the acceptance and
+[LIT-1224](../literature.d/LIT-1224.md). Its measure of inflexibility, the AAQ-II, is the acceptance and
 commitment therapy measure, so the trial's process gain is stated in ACT's
 terms.
 
 ## Bearing on the record
 
-- **CLAIM-349.** The claim cites A42 for RO DBT's evidence being "promising
+- **[CLAIM-349](../claims.d/CLAIM-349.md).** The claim cites A42 for RO DBT's evidence being "promising
   but not definitive" and RefraMED's longer-term findings being "less
   conclusive". The reading confirms both. Two things in it bear on the
   claim more specifically. First, the trial selected on refractory
@@ -179,7 +179,7 @@ terms.
   measure overcontrol, so it is no evidence that overcontrol is common in
   refractory depression or that the treatment's effect runs through it.
   Second, the change that persisted was on flexibility and emotional
-  expression, the two properties CLAIM-349 makes the mark of adaptive
+  expression, the two properties [CLAIM-349](../claims.d/CLAIM-349.md) makes the mark of adaptive
   regulation, while the change on depression did not. That is consistent
   with the claim's own caution, in "What it does not say", that
   flexibility is not the whole of the outcome, and it does not test the
@@ -187,7 +187,7 @@ terms.
   the trial as "a caution on reading overcontrol as the whole of the
   problem"; that is the record's reading, not the paper's, which
   concludes the opposite way, that RO DBT's targets are the right ones.
-- **QUESTION-045** asks whether protective lock-in is the same mechanism
+- **[QUESTION-045](../questions.d/QUESTION-045.md)** asks whether protective lock-in is the same mechanism
   at the individual scale. The trial gives nothing on mechanism: the
   mediators were collected and no mediation is reported.
 
