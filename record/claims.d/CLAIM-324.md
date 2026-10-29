@@ -1,10 +1,21 @@
 ---
 number: 324
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpwkbsy
 title: 'In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument''s items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057; ADR-047's evidence rulings). Status
+    Proposed to Active: the title claims no more than the workbench
+    reconstructions of the exchange (2026/10/09/025539,
+    2026/10/10/040457) record, the unargued change of thesis, the 24
+    items dropped with none on request, and A203's unexplained
+    omissions, and nothing in the record meets its defeat condition.
+    The summary's 'so Proposed' is removed. The claim is unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -25,9 +36,9 @@ summary: >-
   Split from [CLAIM-178](CLAIM-178.md) under [ADR-043](../decisions.d/ADR-043.md): the documented case on which that
   claim's normative conclusion rests, scoped to the one exchange it comes
   from. The evidence is the workbench reconstructions of that exchange
-  (2026/10/09/025539, 2026/10/10/040457). One exchange, read by the
-  record's own readers, so Proposed; it says nothing about drafts in
-  general.
+  (2026/10/09/025539, 2026/10/10/040457). One exchange, reconstructed
+  turn by turn by the record's own readers; it says nothing about drafts
+  in general.
 supports:
 - CLAIM-178
 bears_on:

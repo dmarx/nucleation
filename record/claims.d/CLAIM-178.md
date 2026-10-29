@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp5o4dd
 title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057). CLAIM-181's limit written into
+    'What it does not say': the record shows what a draft dropped only
+    of what its grammar held. The title says such losses become
+    visible only against a record, not that all do, so it is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -87,6 +96,11 @@ a claim that is still Proposed and that the work no longer includes.
   the draft is checked against.
 - It does not say that every change of thesis made in a draft is wrong. It
   says the change should be visible.
+- It does not say the record makes every dropped commitment visible. A
+  move that fits none of the record's schemes or relations was never
+  filed, so dropping it from a draft leaves no trace against the record
+  either (CLAIM-181). The record shows what was dropped only of what it
+  held.
 
 ## Note of 2026-10-11: why drafts lose material silently
 
@@ -109,3 +123,11 @@ keeps the rest and stays interpretive: the general form, that a draft
 written straight from an exchange behaves this way, generalizes from
 one case, and the remedy is a proposal. Its title already states the
 general form, so it was kept.
+
+## Note of 2026-10-29: what holds it back
+
+It generalizes from one exchange (CLAIM-324) to any draft written straight
+from an exchange, and the comparison its defeat condition names has not been
+made: no draft written against the record has been checked, beside one
+written straight from an exchange, for dropped commitments and unannounced
+changes of thesis.

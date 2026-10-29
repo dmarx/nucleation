@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpdj0qe
 title: 'Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057). CLAIM-185 moves from rests_on to
+    complements: this claim refines it, persistence being necessary
+    but not enough, and needs only the notion of an anchor, which
+    QUESTION-038 states, not CLAIM-185's thesis. The claim is
+    unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -23,7 +32,6 @@ works:
 answers:
 - QUESTION-038
 rests_on:
-- CLAIM-185
 - CLAIM-177
 summary: >-
   An answer to [QUESTION-038](../questions.d/QUESTION-038.md), proposed by the assistant on 2026-10-11
@@ -37,6 +45,7 @@ supports:
 - CLAIM-191
 complements:
 - CLAIM-303
+- CLAIM-185
 ---
 <!-- inactive-ok-file: CLAIM-004 CLAIM-178 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis, whose change is the point -->
@@ -78,3 +87,12 @@ that gives a thing an address. Persistence is necessary but not enough.
 - The comparison is not controlled. Re-derivation inside a live exchange
   and citation after reconstruction happened at different times, for
   different reasons.
+
+## Note of 2026-10-29: what holds it back
+
+The comparison is not separated from who was reading. The re-derivations
+happened inside live exchanges with collaborators who kept no memory, and
+the citations came after reconstruction, from readers with the record open.
+No case counts re-derivation of the same stored content before and after its
+parts got addresses, which CASE-183's inbound references per code could
+begin to supply.
