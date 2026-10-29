@@ -20,8 +20,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpentcd
 summary: >-
-  Alvarez-Melis, Mroueh and Jaakkola (2020), LIT-tmpentcd, §§5–7, Figs.
-  1–2, Tables 1–2; read in NOTE-tmp1ftl1. Proposed: single runs, one
+  Alvarez-Melis, Mroueh and Jaakkola (2020), [LIT-tmpentcd](../literature.d/LIT-tmpentcd.md), §§5–7, Figs.
+  1–2, Tables 1–2; read in [NOTE-tmp1ftl1](../notes.d/NOTE-tmp1ftl1.md). Proposed: single runs, one
   embedding method for the matching experiments, and GW, the obvious
   isometry-free baseline, is not run. It does not say why seeds disagree
   (the paper conjectures negative sampling), nor that the matching
@@ -32,9 +32,9 @@ summary: >-
 
 ## Source
 
-Alvarez-Melis, Mroueh and Jaakkola (2020), LIT-tmpentcd, §§5–7 and
+Alvarez-Melis, Mroueh and Jaakkola (2020), [LIT-tmpentcd](../literature.d/LIT-tmpentcd.md), §§5–7 and
 Appendices A–D, pp. 5–8 and 12–13 of arXiv 1911.02536v2; read in
-NOTE-tmp1ftl1.
+[NOTE-tmp1ftl1](../notes.d/NOTE-tmp1ftl1.md).
 
 ## What was actually shown
 
@@ -82,4 +82,4 @@ happened.
   the objective.
 - **That the tree's own symmetries are resolved.** Swapping isomorphic
   subtrees is an isometry of the tree, and no structure-only method can
-  choose between the swaps (THEORY-tmpa43ta).
+  choose between the swaps ([THEORY-tmpa43ta](THEORY-tmpa43ta.md)).

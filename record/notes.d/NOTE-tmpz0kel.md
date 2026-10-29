@@ -210,19 +210,19 @@ uninformative, analogies the reverse.
   analogy, are among those said to deal well with attributes and to be
   "extremely limited in their ability to express relations between
   objects, and especially higher-order relations" (p. 166). The same paper
-  is LIT-tmp6ic5n's precursor for the parallelogram rule.
+  is [LIT-tmp6ic5n](../literature.d/LIT-tmp6ic5n.md)'s precursor for the parallelogram rule.
 - **Winston (1980, 1981)** matches only predicates in causal chains,
   "somewhat more restrictive than the structure-mapping principle that
   participation in any higher-order chain results in preferential mapping"
   (pp. 166–167). Gick and Holyoak are cited for schema induction.
 - **Forbus and Gentner (1983)** and the later Structure-Mapping Engine are
   the computational descendants; Chalmers, French and Hofstadter's
-  critique of SME's hand-built representations (LIT-414, read in
-  NOTE-359) is aimed at the dependence that footnote 4 here concedes.
+  critique of SME's hand-built representations ([LIT-414](../literature.d/LIT-414.md), read in
+  [NOTE-359](NOTE-359.md)) is aimed at the dependence that footnote 4 here concedes.
 
 ## Bearing on the record
 
-- **LIT-tmpprsxm (Gromov–Wasserstein alignment): A6's reading holds for the
+- **[LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md) (Gromov–Wasserstein alignment): A6's reading holds for the
   first two rules, and the paper shows exactly what GW leaves out.** GW
   matches two spaces through the pairwise distances within each, with no
   shared coordinates. That is rules 1 and 2 for one relation: object
@@ -238,29 +238,29 @@ uninformative, analogies the reverse.
   which relations an analogy keeps. (c) Structure-mapping lets most
   relations fail to map and still counts the analogy good (HOTTER THAN is
   dropped), while GW's objective charges every pair's mismatch. The
-  exchange's description in LIT-tmpfxrm8 is accurate. One qualification:
+  exchange's description in [LIT-tmpfxrm8](../literature.d/LIT-tmpfxrm8.md) is accurate. One qualification:
   the paper states systematicity as a likelihood ("more likely to be
   imported", p. 163), while the abstract and summary say the relations
   mapped "are determined by" or "are those that are dominated by"
   higher-order relations (pp. 155, 168).
-- **CLAIM-113: a case of transformation and invariant.** An analogy is a
+- **[CLAIM-113](../claims.d/CLAIM-113.md): a case of transformation and invariant.** An analogy is a
   map between domains that preserves relational structure and discards
   attributes; the kinds of comparison in Table 1 are classes of map
-  sorted by what they preserve. That fits CLAIM-113's distinction between
+  sorted by what they preserve. That fits [CLAIM-113](../claims.d/CLAIM-113.md)'s distinction between
   exact preservation and structures that are changed. What the paper adds
   is a selection principle: of the relations a map could preserve, those
-  bound by higher-order relations are the ones that matter. CLAIM-113 has
+  bound by higher-order relations are the ones that matter. [CLAIM-113](../claims.d/CLAIM-113.md) has
   nothing corresponding.
-- **CLAIM-135: structure-mapping lives inside a chosen representation.**
+- **[CLAIM-135](../claims.d/CLAIM-135.md): structure-mapping lives inside a chosen representation.**
   Footnote 4 concedes that any relation can be recoded as an attribute and
   that the choice is made "to model the way people think about the domain".
   So the theory's rules recover relational correspondence relative to a
   representation fixed in advance, and they do not themselves say which
-  representation is right. That is CLAIM-135's gap between identifying
+  representation is right. That is [CLAIM-135](../claims.d/CLAIM-135.md)'s gap between identifying
   structure under stated assumptions and establishing that the structure
   is the right kind. The paper also says acceptance of an analogy depends
   on plausibility, "a separate matter" (n. 11).
-- **Should produce:** THEORY-tmptxgpp (relations, not attributes, are
+- **Should produce:** [THEORY-tmptxgpp](../theory.d/THEORY-tmptxgpp.md) (relations, not attributes, are
   mapped, and systematicity selects among them; Proposed).
 - **No instruction for machine-learning practice.**
 
@@ -300,4 +300,4 @@ uninformative, analogies the reverse.
   relations (fused or hypergraph variants of GW)?
 - How does the theory decide the attribute/relation split when footnote 4
   allows either? An account of representation-building is needed, which
-  is the critique of LIT-414.
+  is the critique of [LIT-414](../literature.d/LIT-414.md).

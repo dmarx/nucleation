@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp6nipz) from the ACL Anthology PDF;
+  read in full 2026-10-29 ([NOTE-tmp6nipz](../notes.d/NOTE-tmp6nipz.md)) from the ACL Anthology PDF;
   worth reading for the proof that, under a metric random walk, log
   co-occurrence over long windows converges to squared latent distance
   whatever the one-step link, so embeddings identify a metric and
@@ -67,7 +67,7 @@ summary: >-
 
 Hashimoto, T. B., Alvarez-Melis, D., & Jaakkola, T. S. (2016). Word embeddings as metric recovery in semantic spaces. *TACL*, 4, 273–286.
 
-Read in full in NOTE-tmp6nipz.
+Read in full in [NOTE-tmp6nipz](../notes.d/NOTE-tmp6nipz.md).
 
 ## Why this is here
 

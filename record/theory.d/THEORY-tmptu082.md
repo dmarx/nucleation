@@ -17,7 +17,7 @@ date: '2026-10-29'
 source:
 - LIT-tmp1n8bp
 summary: >-
-  Osmelak et al. (2026), LIT-tmp1n8bp, read in NOTE-tmpr9b03 from the LREC
+  Osmelak et al. (2026), [LIT-tmp1n8bp](../literature.d/LIT-tmp1n8bp.md), read in [NOTE-tmpr9b03](../notes.d/NOTE-tmpr9b03.md) from the LREC
   2026 PDF. Of 3,754 type instances in Table 2, 1,722 are system transfers
   (mostly measurement conversion) and 992 entity changes; the mix varies by
   language. It is a count over a pool selected by a filter that requires a
@@ -31,8 +31,8 @@ summary: >-
 ## Source
 
 Osmelak, Dutta Chowdhury, Sentsova, España-Bonet and van Genabith (2026),
-LIT-tmp1n8bp, §§3–6 and Table 2, pp. 8758–8764 of the LREC 2026
-proceedings; read in NOTE-tmpr9b03.
+[LIT-tmp1n8bp](../literature.d/LIT-tmp1n8bp.md), §§3–6 and Table 2, pp. 8758–8764 of the LREC 2026
+proceedings; read in [NOTE-tmpr9b03](../notes.d/NOTE-tmpr9b03.md).
 
 ## What was actually shown
 

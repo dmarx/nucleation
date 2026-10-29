@@ -17,7 +17,7 @@ date: '2026-10-29'
 source:
 - LIT-tmp2g5v4
 summary: >-
-  Srinivasan and Choi (2022), LIT-tmp2g5v4, read in NOTE-tmpmy2mv from the
+  Srinivasan and Choi (2022), [LIT-tmp2g5v4](../literature.d/LIT-tmp2g5v4.md), read in [NOTE-tmpmy2mv](../notes.d/NOTE-tmpmy2mv.md) from the
   Findings of EMNLP 2022 PDF. Three Prolific annotators per item rated
   Wikipedia requests −3 to +3; mean pairwise Spearman within 20-item tasks
   was 0.46 on the 15 target-language items and 0.36 on the 5 English items
@@ -30,9 +30,9 @@ summary: >-
 
 ## Source
 
-Srinivasan and Choi (2022), LIT-tmp2g5v4, §2.1–2.3, Table 2, Table 9 and
+Srinivasan and Choi (2022), [LIT-tmp2g5v4](../literature.d/LIT-tmp2g5v4.md), §2.1–2.3, Table 2, Table 9 and
 Appendix C, pp. 5724–5726 and 5734 of the Findings of EMNLP 2022; read in
-NOTE-tmpmy2mv.
+[NOTE-tmpmy2mv](../notes.d/NOTE-tmpmy2mv.md).
 
 ## What was actually shown
 

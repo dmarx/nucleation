@@ -66,7 +66,7 @@ embedding pipelines were.
 - **One method.** Every experiment is on Conneau et al. (2018), the MUSE
   code (§3.2, p. 4). The authors say their "results should extend to
   Barone (2016) and Zhang et al. (2017), which rely on very similar
-  methodology" (footnote 1, p. 1). GW (LIT-tmpprsxm) is a different
+  methodology" (footnote 1, p. 1). GW ([LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)) is a different
   method and is not tested.
 - **fastText skip-gram embeddings** on Polyglot Wikipedia by default:
   window 2, 15 negatives, character n-grams 3–6, 300 dimensions, words
@@ -207,10 +207,10 @@ embedding pipelines were.
 ## Connections
 
 - The method tested is Conneau et al. 2018 (MUSE). The GW method of
-  LIT-tmpprsxm, published three months later, compares with that method;
+  [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md), published three months later, compares with that method;
   its Table 2 shows the same weak pair (Finnish).
 - The structural premise it attacks is shared by the GW and
-  global-invariance OT methods (LIT-tmpprsxm, LIT-tmpbs68a). All of them
+  global-invariance OT methods ([LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md), [LIT-tmpbs68a](../literature.d/LIT-tmpbs68a.md)). All of them
   find the best fit of one structure to another, so all of them depend on
   the two structures being alike.
 - Later work on graph-matching and isometry measures for embedding spaces
@@ -218,7 +218,7 @@ embedding pipelines were.
 
 ## Bearing on the record
 
-- **CLAIM-135: support for the gap between reconstruction and
+- **[CLAIM-135](../claims.d/CLAIM-135.md): support for the gap between reconstruction and
   identification, with a sharper cause.** A good fit is not established
   identity. More than that, whether a fit exists depends on factors that
   have nothing to do with meaning: the corpus domain, and skip-gram
@@ -226,7 +226,7 @@ embedding pipelines were.
   different algorithms fail to align at all. So structural resemblance
   between two embeddings partly measures how alike the pipelines were. It
   is not a pure fact about the languages, still less about kinds.
-- **CASE-tmph0fxi: two design points.** First, the case's correspondence
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): two design points.** First, the case's correspondence
   arm compares response matrices from different communities. The
   readers, probes and scoring pipeline should be the same in each
   community, or any failure to align is uninterpretable; this paper's
@@ -234,9 +234,9 @@ embedding pipelines were.
   Second, a diagnostic of structural similarity that is to be read before
   fitting must not use the gold correspondence, as this paper's Δ does
   (Table 2 caption).
-- **THEORY-tmpox88b**: filed from this reading together with
-  LIT-tmpprsxm's Table 2.
-- **CLAIM-046**: neutral. The paper is about whether two observation
+- **[THEORY-tmpox88b](../theory.d/THEORY-tmpox88b.md)**: filed from this reading together with
+  [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)'s Table 2.
+- **[CLAIM-046](../claims.d/CLAIM-046.md)**: neutral. The paper is about whether two observation
   structures coincide, not about latent states.
 - **An instruction for ML practice is present**: "it might often be better
   to rely on available weak supervision" (p. 6). That belongs to the
@@ -264,7 +264,7 @@ embedding pipelines were.
 ## Open questions
 
 - Does GW, which has no adversarial step, fail on the same pairs, domains
-  and algorithm mismatches? LIT-tmpprsxm's Table 2 suggests yes for
+  and algorithm mismatches? [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)'s Table 2 suggests yes for
   Finnish (18.3 vs 33.5 for self-learning). A run of GW on this paper's
   settings would say.
 - Does a structural dissimilarity computed without gold translations,

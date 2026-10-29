@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpgvlkv); worth reading as the cleanest
+  read in full 2026-10-29 ([NOTE-tmpgvlkv](../notes.d/NOTE-tmpgvlkv.md)); worth reading as the cleanest
   statement of correspondence recovered from within-space relations
   alone, and for what that costs: the objective cannot tell a
   correspondence from one composed with a symmetry of either space
-  (THEORY-tmpa43ta), which the paper does not say.
+  ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)), which the paper does not say.
 title: 'Gromov-Wasserstein Alignment of Word Embedding Spaces'
 version: 2
 history:
@@ -57,8 +57,8 @@ summary: >-
 
 Alvarez-Melis, D., & Jaakkola, T. S. (2018). Gromov-Wasserstein alignment of word embedding spaces. *Proceedings of EMNLP 2018*, 1881–1890.
 
-Read in full in NOTE-tmpgvlkv.
+Read in full in [NOTE-tmpgvlkv](../notes.d/NOTE-tmpgvlkv.md).
 
 ## Why this is here
 
-The centre of A6: correspondence recovered from the relations elements bear to one another, without a shared coordinate system. That is the structuralist reading of [CLAIM-046](../claims.d/CLAIM-046.md) and [CLAIM-113](../claims.d/CLAIM-113.md) in computational form. A6 also gave its limit, kept here: GW finds relational resemblance under a chosen metric, which is not communicative identity ([CLAIM-135](../claims.d/CLAIM-135.md)). Read with [LIT-tmpqoytq](LIT-tmpqoytq.md). The reading bears A6's limit out and sharpens it: the relational resemblance is resemblance up to the symmetries of the similarity structure, so on symmetric data even a perfect fit leaves the correspondence open (THEORY-tmpa43ta). Against the paper's own claim (p. 9), GW does not dispense with an invariance assumption; under cosine similarity it builds in invariance to every rotation and rescaling of either space.
+The centre of A6: correspondence recovered from the relations elements bear to one another, without a shared coordinate system. That is the structuralist reading of [CLAIM-046](../claims.d/CLAIM-046.md) and [CLAIM-113](../claims.d/CLAIM-113.md) in computational form. A6 also gave its limit, kept here: GW finds relational resemblance under a chosen metric, which is not communicative identity ([CLAIM-135](../claims.d/CLAIM-135.md)). Read with [LIT-tmpqoytq](LIT-tmpqoytq.md). The reading bears A6's limit out and sharpens it: the relational resemblance is resemblance up to the symmetries of the similarity structure, so on symmetric data even a perfect fit leaves the correspondence open ([THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)). Against the paper's own claim (p. 9), GW does not dispense with an invariance assumption; under cosine similarity it builds in invariance to every rotation and rescaling of either space.

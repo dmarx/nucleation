@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp1ftl1); worth reading as a case where
+  read in full 2026-10-29 ([NOTE-tmp1ftl1](../notes.d/NOTE-tmp1ftl1.md)); worth reading as a case where
   the arbitrariness between two learned representations is not a group
   action at all: embeddings of one hierarchy from different seeds differ
   non-isometrically, and only a non-linear registration recovers part of
-  the correspondence (THEORY-tmpd02kg). Its matching uses a symmetric
+  the correspondence ([THEORY-tmpd02kg](../theory.d/THEORY-tmpd02kg.md)). Its matching uses a symmetric
   distance and does not preserve the hierarchy's direction.
 title: 'Unsupervised Hierarchy Matching with Optimal Transport over Hyperbolic Spaces'
 version: 2
@@ -55,8 +55,8 @@ summary: >-
 
 Alvarez-Melis, D., Mroueh, Y., & Jaakkola, T. S. (2020). Unsupervised hierarchy matching with optimal transport over hyperbolic spaces. *AISTATS 2020*, PMLR 108, 1606–1617.
 
-Read in full in NOTE-tmp1ftl1.
+Read in full in [NOTE-tmp1ftl1](../notes.d/NOTE-tmp1ftl1.md).
 
 ## Why this is here
 
-A6's point: entailment, authority and obligation are directed and hierarchical, and symmetric distances do not carry them; the geometry should fit the relations to be preserved. Hyperbolic distance is still symmetric, so it is a partial answer. It bears on normative transport ([QUESTION-130](../questions.d/QUESTION-130.md)). The reading bears this out and narrows it. The hierarchy's direction enters only through the embedding; the transport cost is the symmetric hyperbolic distance, and the registration is free to break ancestry, so nothing preserves the order on matched items. The paper also does not fit the three-way distinction of LIT-tmpbs68a: what it registers is a seed-dependent, non-isometric warp, absorbed by one non-linear map of the whole space, which has no frames and no holonomy.
+A6's point: entailment, authority and obligation are directed and hierarchical, and symmetric distances do not carry them; the geometry should fit the relations to be preserved. Hyperbolic distance is still symmetric, so it is a partial answer. It bears on normative transport ([QUESTION-130](../questions.d/QUESTION-130.md)). The reading bears this out and narrows it. The hierarchy's direction enters only through the embedding; the transport cost is the symmetric hyperbolic distance, and the registration is free to break ancestry, so nothing preserves the order on matched items. The paper also does not fit the three-way distinction of [LIT-tmpbs68a](LIT-tmpbs68a.md): what it registers is a seed-dependent, non-isometric warp, absorbed by one non-linear map of the whole space, which has no frames and no holonomy.

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpdwqe2); worth reading for the exact
+  read in full 2026-10-29 ([NOTE-tmpdwqe2](../notes.d/NOTE-tmpdwqe2.md)); worth reading for the exact
   statement of what a global-invariance alignment treats as arbitrary,
   one transformation from a stated class acting on the whole space, and
   for Lemma 4.3, which shows that for one class this is the same
-  problem as Gromov–Wasserstein (THEORY-tmpai3ho).
+  problem as Gromov–Wasserstein ([THEORY-tmpai3ho](../theory.d/THEORY-tmpai3ho.md)).
 title: 'Towards Optimal Transport with Global Invariances'
 version: 2
 history:
@@ -55,8 +55,8 @@ summary: >-
 
 Alvarez-Melis, D., Jegelka, S., & Jaakkola, T. S. (2019). Towards optimal transport with global invariances. *AISTATS 2019*, PMLR 89, 1870–1879.
 
-Read in full in NOTE-tmpdwqe2.
+Read in full in [NOTE-tmpdwqe2](../notes.d/NOTE-tmpdwqe2.md).
 
 ## Why this is here
 
-A6's foundational distinction for [QUESTION-130](../questions.d/QUESTION-130.md): GW treats the registration of whole metric spaces as arbitrary, this treats one global transformation as arbitrary, and lattice gauge theory ([LIT-tmpr8qf7](LIT-tmpr8qf7.md)) a separate frame at every node. Keeping the three apart stops an arbitrary orientation being read as path dependence. The reading confirms the middle term: the paper assumes "an unknown function f in a pre-specified class F which characterizes the global correspondence between spaces" (p. 4), one map for every point. It also shows that the first two terms meet: for maps on a Frobenius sphere, with whitened target vectors of equal norm, this problem is GW with cosine similarity (Lemma 4.3; THEORY-tmpai3ho). Neither has a frame per node, so neither can carry holonomy.
+A6's foundational distinction for [QUESTION-130](../questions.d/QUESTION-130.md): GW treats the registration of whole metric spaces as arbitrary, this treats one global transformation as arbitrary, and lattice gauge theory ([LIT-tmpr8qf7](LIT-tmpr8qf7.md)) a separate frame at every node. Keeping the three apart stops an arbitrary orientation being read as path dependence. The reading confirms the middle term: the paper assumes "an unknown function f in a pre-specified class F which characterizes the global correspondence between spaces" (p. 4), one map for every point. It also shows that the first two terms meet: for maps on a Frobenius sphere, with whitened target vectors of equal norm, this problem is GW with cosine similarity (Lemma 4.3; [THEORY-tmpai3ho](../theory.d/THEORY-tmpai3ho.md)). Neither has a frame per node, so neither can carry holonomy.

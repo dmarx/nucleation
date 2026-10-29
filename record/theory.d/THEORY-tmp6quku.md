@@ -9,8 +9,8 @@ date: '2026-10-29'
 source:
 - LIT-tmp6ic5n
 summary: >-
-  Hashimoto, Alvarez-Melis and Jaakkola (2016), LIT-tmp6ic5n, Lemma 1 and
-  Corollary 6, read in NOTE-tmp6nipz. Proved from the convergence of
+  Hashimoto, Alvarez-Melis and Jaakkola (2016), [LIT-tmp6ic5n](../literature.d/LIT-tmp6ic5n.md), Lemma 1 and
+  Corollary 6, read in [NOTE-tmp6nipz](../notes.d/NOTE-tmp6nipz.md). Proved from the convergence of
   graph random walks to a diffusion and Varadhan's small-time formula,
   with an open conjecture needed for directed graphs; checked numerically
   on an unweighted ε-ball walk. Active as a theorem about the toy model.
@@ -23,9 +23,9 @@ summary: >-
 
 ## Source
 
-Hashimoto, Alvarez-Melis and Jaakkola (2016), LIT-tmp6ic5n, §4.1 (Lemma 1,
+Hashimoto, Alvarez-Melis and Jaakkola (2016), [LIT-tmp6ic5n](../literature.d/LIT-tmp6ic5n.md), §4.1 (Lemma 1,
 p. 277), Appendix A (Corollary 6 and proof, pp. 282–283) and Appendix B
-(Lemma 7, p. 283); read in NOTE-tmp6nipz.
+(Lemma 7, p. 283); read in [NOTE-tmp6nipz](../notes.d/NOTE-tmp6nipz.md).
 
 ## What was actually shown
 
@@ -90,4 +90,4 @@ simulation shows the box kernel's flat profile replaced by a quadratic one.
   constant σ, as in Lemma 1's statement.
 - **That a spectral embedding of the co-occurrences themselves recovers the
   metric.** The result concerns their logarithm; factorizing the kernel
-  matrix instead gives its eigenfunctions (THEORY-183).
+  matrix instead gives its eigenfunctions ([THEORY-183](THEORY-183.md)).

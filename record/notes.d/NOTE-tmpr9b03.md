@@ -168,15 +168,15 @@ catalogue of additions to content, not of changes to act, stance or footing.
 - **Han, Boyd-Graber and Carpuat 2023** (WikiExpl) and **Lou and Niehues
   2023**: automatic explicitation and audience-specific explanations, cited
   as generation work (pp. 8757–8758). Not held.
-- **The sibling resources in this batch**: VakyArth (LIT-tmpog7aw), TyDiP
-  (LIT-tmp2g5v4) and Ward and Marco's similarity judgments (LIT-tmphdoda),
-  all read the same day for CASE-tmph0fxi. PETra is the only one of the four
+- **The sibling resources in this batch**: VakyArth ([LIT-tmpog7aw](../literature.d/LIT-tmpog7aw.md)), TyDiP
+  ([LIT-tmp2g5v4](../literature.d/LIT-tmp2g5v4.md)) and Ward and Marco's similarity judgments ([LIT-tmphdoda](../literature.d/LIT-tmphdoda.md)),
+  all read the same day for [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md). PETra is the only one of the four
   built from translations people actually made.
 
 ## Bearing on the record
 
-- **CLAIM-257 (change of cover): a natural source of the stimuli it needs,
-  and nothing more yet.** CLAIM-257 asks that a target's new question be put
+- **[CLAIM-257](../claims.d/CLAIM-257.md) (change of cover): a natural source of the stimuli it needs,
+  and nothing more yet.** [CLAIM-257](../claims.d/CLAIM-257.md) asks that a target's new question be put
   to source readers too, so that an addition costs. PETra's add-style items
   (1,958 of the release's labels; the other 1,902 are replacements, R,
   which change rather than add) are naturally occurring cases of a target
@@ -187,12 +187,12 @@ catalogue of additions to content, not of changes to act, stance or footing.
   added, which is what a study would need to ask source readers the added
   question. The corpus carries no receiver judgements, so it says nothing
   about whether such additions change what readers take the utterance to
-  do, which is CLAIM-257's defeat condition. Most items add referential
-  knowledge, so they test CLAIM-257 on its easiest ground: an addition that
+  do, which is [CLAIM-257](../claims.d/CLAIM-257.md)'s defeat condition. Most items add referential
+  knowledge, so they test [CLAIM-257](../claims.d/CLAIM-257.md) on its easiest ground: an addition that
   every source reader would affirm ("Tucson" is in Arizona). Items where
   source readers would disagree or not know are the informative ones, and
   PETra does not mark them.
-- **CASE-tmph0fxi: usable as a pool of candidate items, not as labelled
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): usable as a pool of candidate items, not as labelled
   items.** Three limits. (a) **Reliability.** No inter-annotator agreement is
   given anywhere; footnote 5 speaks of "the annotator"; most pairs were
   found by a classifier, with "manual spot checks" for the large-scale
@@ -206,16 +206,16 @@ catalogue of additions to content, not of changes to act, stance or footing.
   be read off. (c) **Kind.** The items are additions to propositional
   background, not requests, promises or honorific choices. The case's list
   of items is right to name them as one kind among several.
-- **CASE-055: no bearing on Stage 0 beyond the lack of a reliability
+- **[CASE-055](../cases.d/CASE-055.md): no bearing on Stage 0 beyond the lack of a reliability
   figure.** PETra measures no stance or footing.
-- **CLAIM-202: none directly.** Nothing here concerns response to later
+- **[CLAIM-202](../claims.d/CLAIM-202.md): none directly.** Nothing here concerns response to later
   framings.
-- **CLAIM-226: a minor instance.** Whether "Ivy League" → "universities of
+- **[CLAIM-226](../claims.d/CLAIM-226.md): a minor instance.** Whether "Ivy League" → "universities of
   excellence" is an explicitation is decided for the target audience by one
   annotator. The paper's own caution is that results are "diagnostic
   indicators rather than exhaustive measures of cross-cultural
   representation" (p. 8764).
-- **Should produce THEORY-tmptu082** (Proposed): the distribution of
+- **Should produce [THEORY-tmptu082](../theory.d/THEORY-tmptu082.md)** (Proposed): the distribution of
   explicitation types, with what it does not establish.
 - **Machine-learning practice.** The active-learning recipe (query
   strategies, 100-sample cycles) is a method, but the paper states it as its

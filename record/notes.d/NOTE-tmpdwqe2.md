@@ -50,7 +50,7 @@ the special case of orthogonal P. Under either of two conditions the map
 can be eliminated in closed form, leaving a problem in Γ alone. For p = 2
 that problem is exactly the Gromov–Wasserstein problem with cosine
 similarity and squared loss (Lemma 4.3), which ties the authors' own GW
-method (LIT-tmpprsxm) to the registration methods it set aside.
+method ([LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)) to the registration methods it set aside.
 
 ## Key insight
 
@@ -142,7 +142,7 @@ for example, reflection or rotation" (p. 1).
 - Footnote 7 (p. 13): "the order of the word embeddings leaks
   important—albeit noisy—correspondence information", on which methods
   presented as fully unsupervised rely without saying so. This applies to the authors' own two-stage
-  scheme, and to LIT-tmpprsxm's first-K subset.
+  scheme, and to [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)'s first-K subset.
 
 ### Experiments (§5, Figs. 2–4, Table 1, pp. 7–8)
 
@@ -158,7 +158,7 @@ for example, reflection or rotation" (p. 1).
 - **Word translation (Table 1, p. 8, P@1 with CSLS):** ℓ∞-InvarOT: EN→ES
   81.3, ES→EN 81.8, EN→FR 82.9, FR→EN 81.6, EN→DE 73.8, DE→EN 71.1,
   EN→IT 77.7, IT→EN 77.7, EN→RU 41.7, RU→EN 55.4, in 70 minutes.
-  Gromov–Wasserstein (from LIT-tmpprsxm): 81.7, 80.4, 81.3, 78.9, 71.9,
+  Gromov–Wasserstein (from [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)): 81.7, 80.4, 81.3, 78.9, 71.9,
   72.8, 78.9, 75.2, 45.1, 43.7, in 37 minutes. Self-learning + CSLS
   (Artetxe et al.): 82.3, 84.7, 82.3, 83.6, 75.1, 74.3, 79.2, 79.8, 48.9,
   65.9, in 476 minutes. ℓ∞-InvarOT is compared, as the caption says, with
@@ -167,7 +167,7 @@ for example, reflection or rotation" (p. 1).
   on 9 of 10, all but EN→FR.
 - **A discrepancy between the two papers.** Table 1 here gives Adv + CSLS
   + Refine (Conneau et al.) 44.0 and 59.1 for EN→RU and RU→EN.
-  LIT-tmpprsxm's Table 1 gives the same method 52.4 and 61.4. The other
+  [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)'s Table 1 gives the same method 52.4 and 61.4. The other
   eight directions agree. I did not check which matches Conneau et al.
 - **Fig. 4 (p. 8):** one run, EN→IT, 5K words: the objective and the
   accuracy are "strongly correlated" (p. 8).
@@ -207,49 +207,49 @@ SVD; repeat (i) pairwise costs between X and PY, (ii) Sinkhorn for Γ,
   et al. 2017b and Grave et al. 2018 (Wasserstein Procrustes) (§2,
   p. 2). Grave et al.'s convex initialisation is a hybrid of the p = 2 and
   p = ∞ cases (footnote 1).
-- Its p = 2 case is LIT-tmpprsxm's GW alignment (Lemma 4.3).
-- LIT-tmpentcd extends the registration class past linear maps, to
+- Its p = 2 case is [LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)'s GW alignment (Lemma 4.3).
+- [LIT-tmpentcd](../literature.d/LIT-tmpentcd.md) extends the registration class past linear maps, to
   hyperbolic neural networks, because the arbitrariness there is not a
   global isometry.
 
 ## Bearing on the record
 
-- **QUESTION-130 and THEORY-tmpf3jtf: the middle term of the three-way
+- **[QUESTION-130](../questions.d/QUESTION-130.md) and [THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md): the middle term of the three-way
   distinction, confirmed in the text.** The "Why this is here" sets three
   kinds of arbitrariness apart. This paper treats as arbitrary one global
   transformation of a whole space, drawn from a stated class: "we assume
   there exists an unknown function f in a pre-specified class F which
   characterizes the global correspondence between spaces" (p. 4). The
-  same P acts on every point. GW (LIT-tmpprsxm) instead removes a single
+  same P acts on every point. GW ([LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)) instead removes a single
   isometry of each space by never comparing across spaces, and Lemma 4.3
   shows the two coincide for one class. Neither has a frame per node. In
-  THEORY-tmpf3jtf each entity's frame changes independently and the
+  [THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md) each entity's frame changes independently and the
   relations transform as Tᵢⱼ ↦ gᵢTᵢⱼgⱼ⁻¹, so invariant information lives on
   cycles. Here the freedom is a single element of a group, applied to all
   points at once. It has no cycles to carry anything, and a fitted P
   gives no holonomy. Reading a fitted orientation as path dependence
   therefore confuses the global freedom here with the local one there.
   The distinction holds as the exchange drew it.
-- **CLAIM-148: a worked instance of identification up to a stated
-  group.** CLAIM-148 says a factorization is identified up to invertible
+- **[CLAIM-148](../claims.d/CLAIM-148.md): a worked instance of identification up to a stated
+  group.** [CLAIM-148](../claims.d/CLAIM-148.md) says a factorization is identified up to invertible
   maps, and that penalties narrow the gauge, weight decay to rotations.
   Here the analyst states the gauge as F_p and estimates it jointly with
   the correspondence. Lemma 4.2 shows how the choice of p fixes the
   solution's spectrum. The class is chosen. Nothing in the paper tests
   whether the data's ambiguity is that class (p. 4: "Naturally, the choice
   of F should be informed by the application domain").
-- **CLAIM-113: consistent.** The invariance class F_p and the objective's
+- **[CLAIM-113](../claims.d/CLAIM-113.md): consistent.** The invariance class F_p and the objective's
   invariants define each other exactly. (13) and (14) are unitarily
   invariant norms of XΓYᵀ, so they are unchanged by an orthogonal map of
   either space.
-- **CASE-tmph0fxi: the same identification threat applies.** If Y has a
+- **[CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): the same identification threat applies.** If Y has a
   symmetry realised by an orthogonal map, QY = Y with a permutation of
   its columns, then P and PQ give the same cost with permuted couplings.
-  The global-invariance method inherits THEORY-tmpa43ta's ambiguity for
+  The global-invariance method inherits [THEORY-tmpa43ta](../theory.d/THEORY-tmpa43ta.md)'s ambiguity for
   every symmetry inside its class. Footnote 7 is a second point for the
   case: correspondence information can enter through the order or
   selection of items, and has to be controlled for.
-- **CLAIM-135**: it supports the reconstruction step only. The paper's
+- **[CLAIM-135](../claims.d/CLAIM-135.md)**: it supports the reconstruction step only. The paper's
   accuracy is measured against dictionaries and says nothing about
   constitution.
 - **An instruction for ML practice is present** (the annealing schedule,
@@ -265,7 +265,7 @@ SVD; repeat (i) pairwise costs between X and PY, (ii) Sinkhorn for Γ,
   two separate places and real embeddings do not meet without
   preprocessing.
 - **The invariance class is assumed**, not inferred. If the spaces differ
-  by a non-linear warp, as LIT-tmpentcd finds for hyperbolic embeddings,
+  by a non-linear warp, as [LIT-tmpentcd](../literature.d/LIT-tmpentcd.md) finds for hyperbolic embeddings,
   no p helps.
 - **Table 1's EN–RU entries for Conneau et al. disagree** with the
   companion paper's.

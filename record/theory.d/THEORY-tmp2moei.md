@@ -18,7 +18,7 @@ date: '2026-10-29'
 source:
 - LIT-tmptd6hn
 summary: >-
-  Nicholson (2026), LIT-tmptd6hn, read in NOTE-tmpo9v9c. Weiss's
+  Nicholson (2026), [LIT-tmptd6hn](../literature.d/LIT-tmptd6hn.md), read in [NOTE-tmpo9v9c](../notes.d/NOTE-tmpo9v9c.md). Weiss's
   "determinacy in the gross despite demonstrable indeterminacy in the
   small", shown as a redrawn schematic (Fig. 5) and supported by citations
   to work on stochastic gene expression and cell-fate decisions. This is
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Nicholson (2026), LIT-tmptd6hn, §5 and nn. 30–31, reporting Weiss 1969a,
-1970a, 1973 and 1974; read in NOTE-tmpo9v9c.
+Nicholson (2026), [LIT-tmptd6hn](../literature.d/LIT-tmptd6hn.md), §5 and nn. 30–31, reporting Weiss 1969a,
+1970a, 1973 and 1974; read in [NOTE-tmpo9v9c](../notes.d/NOTE-tmpo9v9c.md).
 
 ## What was actually shown
 
@@ -82,5 +82,5 @@ test is reported in the paper.
   conclusion is against microdeterminacy, not against regulation by
   genes.
 - **That Weiss's variance inequality has been measured here.** The link
-  §5 draws to it is by analogy (THEORY-tmp1244l on what that inequality
+  §5 draws to it is by analogy ([THEORY-tmp1244l](THEORY-tmp1244l.md) on what that inequality
   can show).

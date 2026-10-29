@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpmy2mv) from the Findings of EMNLP 2022
+  read in full 2026-10-29 ([NOTE-tmpmy2mv](../notes.d/NOTE-tmpmy2mv.md)) from the Findings of EMNLP 2022
   PDF; worth reading as a nine-language politeness dataset with
   human-agreement figures (pairwise Spearman 0.46 own-language, 0.36
   English), a reference for a reliability target, with the caveat that its
@@ -54,16 +54,16 @@ summary: >-
 
 Srinivasan, A., & Choi, E. (2022). TyDiP: A dataset for politeness classification in nine typologically diverse languages. *Findings of EMNLP 2022*, 5723–5738.
 
-Read in full in NOTE-tmpmy2mv.
+Read in full in [NOTE-tmpmy2mv](../notes.d/NOTE-tmpmy2mv.md).
 
 ## Why this is here
 
 A5 offered it as a measurement resource for [CASE-055](../cases.d/CASE-055.md)'s Stage 0, not as a definition of fidelity: politeness labels across languages, with their reliability limits.
 
-The reading bears this out: TyDiP does report human agreement, which makes it a reference for a Stage 0 reliability target, but its annotators were screened for agreeing with a model and no judge rated twice (NOTE-tmpmy2mv).
+The reading bears this out: TyDiP does report human agreement, which makes it a reference for a Stage 0 reliability target, but its annotators were screened for agreeing with a model and no judge rated twice ([NOTE-tmpmy2mv](../notes.d/NOTE-tmpmy2mv.md)).
 
 ## Key takeaways
 
-- Human agreement is reported: 0.33–0.60 by language, pairwise Spearman over 15-item tasks; no test–retest (NOTE-tmpmy2mv).
+- Human agreement is reported: 0.33–0.60 by language, pairwise Spearman over 15-item tasks; no test–retest ([NOTE-tmpmy2mv](../notes.d/NOTE-tmpmy2mv.md)).
 - The same people agree less in their second language, in eight of nine languages.
 - Annotators were kept for agreeing with a classifier, so its agreement and human-accuracy figures are upper estimates.

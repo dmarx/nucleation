@@ -18,7 +18,7 @@ date: '2026-10-29'
 source:
 - LIT-tmpfxrm8
 summary: >-
-  Gentner (1983), LIT-tmpfxrm8, read in NOTE-tmpz0kel. Argued from worked
+  Gentner (1983), [LIT-tmpfxrm8](../literature.d/LIT-tmpfxrm8.md), read in [NOTE-tmpz0kel](../notes.d/NOTE-tmpz0kel.md). Argued from worked
   examples (the Rutherford analogy, heat and water) with one study,
   summarized without statistics, showing relational content dominating
   interpretations of analogies but not descriptions of objects. The
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Gentner (1983), LIT-tmpfxrm8, pp. 156–168; read in NOTE-tmpz0kel from a
+Gentner (1983), [LIT-tmpfxrm8](../literature.d/LIT-tmpfxrm8.md), pp. 156–168; read in [NOTE-tmpz0kel](../notes.d/NOTE-tmpz0kel.md) from a
 scan of the published article.
 
 ## What was actually shown
@@ -83,8 +83,8 @@ false: no experiment varies a predicate's place in a higher-order system.
   p. 165).
 - **That matching one relation's values is structure-mapping.** An
   alignment of two spaces by a single distance relation, as in
-  Gromov–Wasserstein matching (LIT-tmpprsxm), meets the first two rules
+  Gromov–Wasserstein matching ([LIT-tmpprsxm](../literature.d/LIT-tmpprsxm.md)), meets the first two rules
   for that one relation and has no higher-order relations, so it has no
-  analogue of the systematicity principle (NOTE-tmpz0kel).
+  analogue of the systematicity principle ([NOTE-tmpz0kel](../notes.d/NOTE-tmpz0kel.md)).
 - **A processing model.** The order of processing "is clearly variable"
   (n. 10, p. 164), and no algorithm is given here.
