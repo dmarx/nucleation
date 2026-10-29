@@ -150,19 +150,19 @@ the long-term consequences" (p. 1).
 
 ## Connections
 
-- **Parfit (LIT-469).** The task is his, slightly
+- **Parfit ([LIT-469](../literature.d/LIT-469.md)).** The task is his, slightly
   changed. His prediction that most people would find the first
   difference greater is confirmed.
-- **Bostrom (LIT-tmpr74qy).** Cited for the
+- **Bostrom ([LIT-tmpr74qy](../literature.d/LIT-tmpr74qy.md)).** Cited for the
   claim that the future could hold "at least 10^16 human lives of normal
   duration" and be much better than the present (p. 2). The utopia
   condition puts something like his picture into the vignette.
-- **Caviola et al. (LIT-tmpka2bf).** By two of the
+- **Caviola et al. ([LIT-tmpka2bf](../literature.d/LIT-tmpka2bf.md)).** By two of the
   same authors. Study 1 asks the same question their population studies
   ask, whether a new happy person makes the world better, and finds the
   midpoint. Their later studies find that people say yes when asked
   about one person.
-- **Scheffler's afterlife conjecture (LIT-tmpl4qml),
+- **Scheffler's afterlife conjecture ([LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md)),
   unread.** The sterilization condition is close to his infertility
   scenario: no one dies, and no one comes after. As the record states
   the conjecture, much of what we value depends on confidence that
@@ -175,18 +175,18 @@ the long-term consequences" (p. 1).
   spell out that universal sterility means no one ever lives again.
 - **Not the legacy literature.** Nothing here concerns the participant's
   own descendants, reputation or continuity with the future
-  (Wade-Benzoni, LIT-tmpcpdlk; Hershfield,
-  LIT-tmp8yuyb).
+  (Wade-Benzoni, [LIT-tmpcpdlk](../literature.d/LIT-tmpcpdlk.md); Hershfield,
+  [LIT-tmp8yuyb](../literature.d/LIT-tmp8yuyb.md)).
 
 ## Bearing on the record
 
-- **What the living owe the far future (QUESTION-tmpmx9ha).**
+- **What the living owe the far future ([QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md)).**
   The question cites this paper for "lay judgement does not treat
   extinction as uniquely bad unless the lost future is made salient".
   That needs a correction. Salience alone brings it to about half (50%
   UK, 39% US). A majority judge it so only when told the future would be
   long and utopian.
-- **The owner's thesis (CLAIM-tmpjylq8).** These are
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are
   inferences; the paper measures no self, identification or felt
   continuity.
   - *Nothing suggests concern for far-future people tracks an extended
@@ -203,11 +203,11 @@ the long-term consequences" (p. 1).
     so, a felt bond with the victims, which is what the thesis would
     count as extended self, crowds out concern for the lost future
     rather than carrying it.
-- **The triviality objection (CLAIM-tmprudek).** Not
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not
   addressed. The test the record wants, whether concern for the future
   follows a measured self–future continuity apart from caring, is not in
   this paper.
-- **A dated note should be added to CLAIM-tmpjylq8.**
+- **A dated note should be added to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).**
   Proposed text: "Schubert et al. (NOTE-tmpbxw6b) find that laypeople locate
   the badness of extinction in its victims, fellow humans now alive, and
   reach the lost future only when it is pointed out, and most when it is
@@ -255,4 +255,4 @@ the long-term consequences" (p. 1).
   condition would test the thesis's reading against the impersonal one.
 - Does the sterilization condition, spelled out as "no one will ever
   live again", produce the weight on continuation that Scheffler's
-  conjecture predicts? Read Scheffler first (LIT-tmpl4qml).
+  conjecture predicts? Read Scheffler first ([LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md)).

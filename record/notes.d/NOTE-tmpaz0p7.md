@@ -177,7 +177,7 @@ conflict, the average tends to win.
 
 ## Connections
 
-- **Narveson (LIT-tmpoc3e4), unread.** The paper
+- **Narveson ([LIT-tmpoc3e4](../literature.d/LIT-tmpoc3e4.md)), unread.** The paper
   quotes his slogan, "We are in favor of making people happy, but
   neutral about making happy people" (1973: 80), as the source of the
   intuition of neutrality. Lay judgement rejects it in Studies 2a–b. Two
@@ -189,17 +189,17 @@ conflict, the average tends to win.
   Discussion), an asymmetry the studies did not test. So the result
   counts against neutrality about value, not yet against a
   person-affecting view of obligation.
-- **Schubert et al. (LIT-tmpk72ci).** Cited here as
+- **Schubert et al. ([LIT-tmpk72ci](../literature.d/LIT-tmpk72ci.md)).** Cited here as
   a reason the question matters: if creating happy people is good,
   reducing extinction risk could be a priority. That paper's Study 1
   found people at the midpoint on whether a happy person coming into
   existence makes the world better (M = 4.45); this paper finds yes when
   the person is at +100 and described concretely.
-- **Parfit (LIT-469).** Study 3c's dilemmas resemble
+- **Parfit ([LIT-469](../literature.d/LIT-469.md)).** Study 3c's dilemmas resemble
   the Repugnant Conclusion. The authors infer that people would prefer a
   small population at +100 to any population at +1. They did not test
   it.
-- **Longtermism (LIT-tmp0ocqn and the works the
+- **Longtermism ([LIT-tmp0ocqn](../literature.d/LIT-tmp0ocqn.md) and the works the
   question cites).** The authors end on it: reflective totalism "implies
   that future generations should be weighed much more heavily" (General
   Discussion). Study 3a's fading at large numbers is the obstacle they
@@ -207,7 +207,7 @@ conflict, the average tends to win.
 
 ## Bearing on the record
 
-- **What the living owe the far future (QUESTION-tmpmx9ha).**
+- **What the living owe the far future ([QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md)).**
   The question cites this paper as finding that ordinary judgement
   "counts adding happy people as good, against the person-affecting
   view". That is right about one person at +100. It needs two
@@ -215,7 +215,7 @@ conflict, the average tends to win.
   of obligation survives it. And concern for more happy people fades
   with numbers and reverses at a billion, so lay axiology does not
   deliver the astronomical value longtermism needs.
-- **The owner's thesis (CLAIM-tmpjylq8).** These are
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are
   inferences; the paper measures no self and no identification.
   - *Impersonal, but thin.* Ordinary judgement values possible people
     the way an impersonal view does. A world is better for containing a
@@ -237,9 +237,9 @@ conflict, the average tends to win.
   - *Neither result shows concern tracking a self extended in time.*
     No participant's descendants, legacy or continuity with the future
     figure in any vignette.
-- **The triviality objection (CLAIM-tmprudek).** Not
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not
   addressed.
-- **A dated note should be added to CLAIM-tmpjylq8,
+- **A dated note should be added to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md),
   jointly with the Schubert et al. reading.** Proposed text: "Caviola
   et al. (NOTE-tmpaz0p7) find that ordinary judgement counts merely possible
   people impersonally: adding a happy person makes the world better, as
@@ -296,4 +296,4 @@ conflict, the average tends to win.
   would separate them.
 - Does judging a population "as one life" vary with a measure of how far
   the judge identifies with humanity or with future people? That would
-  bring this paper to CLAIM-tmprudek's test.
+  bring this paper to [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s test.

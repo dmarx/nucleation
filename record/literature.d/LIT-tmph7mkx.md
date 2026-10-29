@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpwwa8k) from the text on Bostrom's own
+  read in full 2026-10-29 ([NOTE-tmpwwa8k](../notes.d/NOTE-tmpwwa8k.md)) from the text on Bostrom's own
   site; worth reading as the original form of the argument from the size
   of the possible future, and for its statement of how a person-affecting
   view changes it: toward the interests of people now alive.
@@ -40,7 +40,7 @@ summary: >-
 
 Bostrom, N. (2003). *Utilitas*, 15(3), 308–314.
 
-Read in full in NOTE-tmpwwa8k, from the text on Bostrom's own site.
+Read in full in [NOTE-tmpwwa8k](../notes.d/NOTE-tmpwwa8k.md), from the text on Bostrom's own site.
 
 ## Why this is here
 

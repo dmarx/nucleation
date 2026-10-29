@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpbxw6b) from the publisher's PDF (CC
+  read in full 2026-10-29 ([NOTE-tmpbxw6b](../notes.d/NOTE-tmpbxw6b.md)) from the publisher's PDF (CC
   BY), without the supplementary materials; worth reading as the first
   experiment on how far lay moral concern reaches past the living, and
   what makes it reach further: salience of the future, its quality, and
@@ -41,7 +41,7 @@ summary: >-
 
 Schubert, S., Caviola, L. & Faber, N. S. (2019). *Scientific Reports*, 9, 15100.
 
-Read in full in NOTE-tmpbxw6b, from the publisher's PDF (CC BY), without the supplementary materials.
+Read in full in [NOTE-tmpbxw6b](../notes.d/NOTE-tmpbxw6b.md), from the publisher's PDF (CC BY), without the supplementary materials.
 
 ## Why this is here
 

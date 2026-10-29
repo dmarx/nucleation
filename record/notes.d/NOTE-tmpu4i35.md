@@ -186,16 +186,16 @@ one.
 
 ## Connections
 
-- **Greaves and MacAskill (LIT-tmp1we1q).** Thorstad quotes their
+- **Greaves and MacAskill ([LIT-tmp1we1q](../literature.d/LIT-tmp1we1q.md)).** Thorstad quotes their
   axiological strong longtermism from the 2021 working paper and argues
   that pessimism removes the existential-risk route to it. He leaves the
   other routes open.
-- **Bostrom (LIT-tmph7mkx, LIT-tmpr74qy).** Bostrom 2013 supplies the
+- **Bostrom ([LIT-tmph7mkx](../literature.d/LIT-tmph7mkx.md), [LIT-tmpr74qy](../literature.d/LIT-tmpr74qy.md)).** Bostrom 2013 supplies the
   definition of existential risk and is cited, with Ord, for mitigation
   being astronomically more valuable than tackling poverty or global
   health. Thorstad's models test that comparison. Bostrom 2003 is cited
   for a species "extinguished in its infancy".
-- **Tarsney (LIT-tmpklw8s).** Each supplies what the other assumes away.
+- **Tarsney ([LIT-tmpklw8s](../literature.d/LIT-tmpklw8s.md)).** Each supplies what the other assumes away.
   - Tarsney holds the far-future hazard constant from 1000 years out and
     takes as given the change in the chance of getting there. Thorstad
     shows that, if risk stays high, that change is small.
@@ -206,26 +206,26 @@ one.
     fanaticism worry. Thorstad raises fanaticism only for infinite value
     (fn. 4).
   - Appendix B cites Tarsney 2022 for cubic growth with delayed onset.
-- **Ord (LIT-tmp0ocqn)** supplies the Simple Model, the one-in-six
-  estimate and the civilizational virtues. MacAskill (LIT-tmpk6b4i) is
+- **Ord ([LIT-tmp0ocqn](../literature.d/LIT-tmp0ocqn.md))** supplies the Simple Model, the one-in-six
+  estimate and the civilizational virtues. MacAskill ([LIT-tmpk6b4i](../literature.d/LIT-tmpk6b4i.md)) is
   cited for longtermism's public reach.
-- **Scheffler and Kolodny (LIT-tmpl4qml)** are cited for the loss of all
+- **Scheffler and Kolodny ([LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md))** are cited for the loss of all
   nations, cultures and families as part of what extinction would mean.
-  That is the ground of QUESTION-tmpmx9ha that rests on what the living
+  That is the ground of [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) that rests on what the living
   value; the paper does not take it up.
 - **Gardiner.** The paper cites his 2004 survey of climate ethics against
   pure time preference, not the "perfect moral storm" paper the record
-  holds (LIT-tmp12vk2).
+  holds ([LIT-tmp12vk2](../literature.d/LIT-tmp12vk2.md)).
 
 ## Bearing on the record
 
-- **QUESTION-tmpmx9ha.** It bears on the impersonal ground and on the
+- **[QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).** It bears on the impersonal ground and on the
   "can longtermism guide action" line. Within the impersonal view, it
   shows that the expected size of the future does not pass to the value of
   present mitigation unless risk falls soon and stays low. Thorstad
   concludes that mitigation may be valuable "but perhaps not astronomically
   so", and some of it is justified by benefits to people alive now.
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper is about value, not
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper is about value, not
   motivation. Its bearing is indirect, and these are inferences.
   - If pessimists are right about the risk, the impersonal case for
     putting the far future first is weaker. More of what consequentialism
@@ -246,12 +246,12 @@ one.
     bounded by what their selves include, that bound limits far-future
     action whatever the axiology says. Thorstad offers this as a
     plausible expectation, without evidence.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed. As with
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed. As with
   Tarsney, §7.3 supplies a confound for its test across generations:
   concern may fade with time through rational discounting for risk,
   without any shrinking of the self.
-- **No dated note on CLAIM-tmpjylq8.** The unity passage is a line, not an
-  argument, and the paper's bearing goes through QUESTION-tmpmx9ha (section
+- **No dated note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).** The unity passage is a line, not an
+  argument, and the paper's bearing goes through [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) (section
   3 below).
 - **No THEORY filed.**
 - **No ML instruction.**
@@ -290,7 +290,7 @@ one.
 - With credences over N and r_l instead of point values, how much
   credence in a short time of perils and low post-peril risk restores
   astronomical value? That would join this paper to Tarsney's
-  (LIT-tmpklw8s).
+  ([LIT-tmpklw8s](../literature.d/LIT-tmpklw8s.md)).
 - Is lay concern for future generations sensitive to perceived risk the
   way these models say rational concern should be? If people who expect
   catastrophe care less about the far future, that fits the model. If they

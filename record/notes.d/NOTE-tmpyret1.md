@@ -160,23 +160,23 @@ between the history so far and all the history to come.
 
 ## Connections
 
-- **Bostrom 2003 (LIT-tmph7mkx).** The arithmetic is restated with new
+- **Bostrom 2003 ([LIT-tmph7mkx](../literature.d/LIT-tmph7mkx.md)).** The arithmetic is restated with new
   figures, and the 2003 claim that a delay of millions of years is "brief"
   is repeated (p. 22).
-- **Greaves and MacAskill (LIT-tmp1we1q)** cite p. 18 for the value of tiny
+- **Greaves and MacAskill ([LIT-tmp1we1q](../literature.d/LIT-tmp1we1q.md))** cite p. 18 for the value of tiny
   reductions in extinction risk.
-- **Parfit (LIT-469)** is quoted for the 99%/100% comparison (pp. 17–18).
-- **Scheffler (LIT-tmpbj0k1, LIT-tmpl4qml).** Adams' shared project and
+- **Parfit ([LIT-469](../literature.d/LIT-469.md))** is quoted for the 99%/100% comparison (pp. 17–18).
+- **Scheffler ([LIT-tmpbj0k1](../literature.d/LIT-tmpbj0k1.md), [LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md)).** Adams' shared project and
   the "chain of generations" are a ground in what the living value, the
-  kind QUESTION-tmpmx9ha assigns to Scheffler.
-- **Schubert et al. (LIT-tmpk72ci).** Bostrom predicts scope-insensitive
+  kind [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) assigns to Scheffler.
+- **Schubert et al. ([LIT-tmpk72ci](../literature.d/LIT-tmpk72ci.md)).** Bostrom predicts scope-insensitive
   lay judgement of extinction; that study tests it.
-- **Gardiner (LIT-tmp12vk2).** The pan-generational public good is the
+- **Gardiner ([LIT-tmp12vk2](../literature.d/LIT-tmp12vk2.md)).** The pan-generational public good is the
   same structure as Gardiner's intergenerational storm.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** This is the longtermist text
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** This is the longtermist text
   that says most about motivation, and what it says fits the thesis.
   These are inferences; Bostrom does not discuss the self.
   - **The impersonal ground is named as such.** Maxipok is for "an
@@ -199,10 +199,10 @@ between the history so far and all the history to come.
   - **Note 37 is a test the thesis needs.** If concern for catastrophe
     would be the same with a guarantee against extinction, then those
     movements' concern is for people now alive, not for the far future.
-- **The triviality objection (CLAIM-tmprudek).** The "failing link in the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The "failing link in the
   chain of generations" (p. 23) suggests a criterion of extent apart from
   caring: felt membership in a lineage. It is a phrase, not a measure.
-- **Proposed dated note on CLAIM-tmpjylq8**: "Bostrom (2013; NOTE of
+- **Proposed dated note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)**: "Bostrom (2013; NOTE of
   2026-10-29) grounds existential-risk priority in 'an impersonal concern
   for humankind as a whole' and grants that 'unrestricted altruism is not
   so common'. He explains its undersupply by the fact that people now
@@ -241,7 +241,7 @@ between the history so far and all the history to come.
 
 - Does concern about catastrophe track the loss of the far future or the
   deaths of people now alive? Note 37's guarantee is an experiment:
-  Schubert et al. (LIT-tmpk72ci) may run a version of it.
+  Schubert et al. ([LIT-tmpk72ci](../literature.d/LIT-tmpk72ci.md)) may run a version of it.
 - Is Adams' "loyalty" to the human project measurable as identification
   with humanity over time, and does it predict support for risk reduction
   apart from impersonal concern?

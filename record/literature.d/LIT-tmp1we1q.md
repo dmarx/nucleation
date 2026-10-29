@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpozxwf) from the authors' working paper
+  read in full 2026-10-29 ([NOTE-tmpozxwf](../notes.d/NOTE-tmpozxwf.md)) from the authors' working paper
   (GPI Working Paper No. 5-2021, June 2021) on the Global Priorities
   Institute's site, an earlier version of the 2025 chapter; worth reading
   as the precise statement of strong longtermism and of exactly which
@@ -46,7 +46,7 @@ summary: >-
 
 Greaves, H. & MacAskill, W. (2025). In J. Barrett, H. Greaves & D. Thorstad (Eds.), *Essays on Longtermism* (pp. 17–49). Oxford: Oxford University Press.
 
-Read in full in NOTE-tmpozxwf, from the authors' working paper (GPI Working Paper No. 5-2021, June 2021) on the Global Priorities Institute's site, an earlier version of the 2025 chapter.
+Read in full in [NOTE-tmpozxwf](../notes.d/NOTE-tmpozxwf.md), from the authors' working paper (GPI Working Paper No. 5-2021, June 2021) on the Global Priorities Institute's site, an earlier version of the 2025 chapter.
 
 ## Why this is here
 

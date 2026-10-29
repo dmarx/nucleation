@@ -215,41 +215,41 @@ future with no people" (§4.6).
 
 ## Connections
 
-- **Narveson (LIT-tmpoc3e4), unread.** Named as
+- **Narveson ([LIT-tmpoc3e4](../literature.d/LIT-tmpoc3e4.md)), unread.** Named as
   the start of the debate on whether a person-affecting view can account
   for the procreation asymmetry (§2.2). Meyer's weak person-affecting
   view keeps Narveson's half of it: no reason to create the happy.
-- **Parfit (LIT-469; LIT-tmpnjafv), both
+- **Parfit ([LIT-469](../literature.d/LIT-469.md); [LIT-tmpnjafv](../literature.d/LIT-tmpnjafv.md)), both
   unread.** The genetic identity view, same and different people
   choices, the two medical programs and the No-Difference View come
   from *Reasons and Persons*. The 2017 paper is listed among works
   holding that intergenerational ethics must be impersonal or mixed
   (§1).
-- **Scheffler (LIT-tmpl4qml; LIT-tmpbj0k1),
+- **Scheffler ([LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md); [LIT-tmpbj0k1](../literature.d/LIT-tmpbj0k1.md)),
   unread.** *Death and the Afterlife* is cited for indirect reciprocity
   (§1), the possibility of extinction (§1) and concerns rights cannot
   capture (§4.6, pp. 60–63, 72–73, 80–81). The afterlife conjecture is
   given through McKinnon and Scheffler 2025. *Why Worry About Future
   Generations?* is in the bibliography but not cited in the text.
-- **Pitcher (LIT-tmphj5mc), not cited.** §1's point
+- **Pitcher ([LIT-tmphj5mc](../literature.d/LIT-tmphj5mc.md)), not cited.** §1's point
   that present or past people can be set back by posthumous states of
-  affairs is the reading QUESTION-tmpruhu4 attributes to Pitcher.
-- **Gardiner (LIT-tmp12vk2)** is named and set
+  affairs is the reading [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md) attributes to Pitcher.
+- **Gardiner ([LIT-tmp12vk2](../literature.d/LIT-tmp12vk2.md))** is named and set
   aside, as a structural dynamic rather than an account of what is owed
   (§1).
-- **Ramsey (LIT-tmpggdgs)**: optimal savings
+- **Ramsey ([LIT-tmpggdgs](../literature.d/LIT-tmpggdgs.md))**: optimal savings
   without distributional concerns; rejects pure time discounting
   (§4.5).
-- **Longtermism (LIT-tmp1we1q) is absent.** The
+- **Longtermism ([LIT-tmp1we1q](../literature.d/LIT-tmp1we1q.md)) is absent.** The
   entry cites none of Greaves, MacAskill, Bostrom or Ord. Its
   impersonal side appears only as views it reports and does not adopt.
 - **No empirical work on motivation.** The psychology the question
-  cites (Schubert et al., LIT-tmpk72ci; Caviola et al., LIT-tmpka2bf) is
+  cites (Schubert et al., [LIT-tmpk72ci](../literature.d/LIT-tmpk72ci.md); Caviola et al., [LIT-tmpka2bf](../literature.d/LIT-tmpka2bf.md)) is
   not cited.
 
 ## Bearing on the record
 
-- **What the living owe the far future (QUESTION-tmpmx9ha).**
+- **What the living owe the far future ([QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md)).**
   The entry fills in the question's second ground, the good of future
   people, and shows it is not as empty as the question's summary says.
   - A weak person-affecting view can state harms to actual future
@@ -263,7 +263,7 @@ future with no people" (§4.6).
   - So, on the person-affecting side, concern for the far future's
     existence rests on what the living and the dead value, not on future
     people's claims. That is the entry's structure, not an inference.
-- **The owner's thesis (CLAIM-tmpjylq8).** These are
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are
   inferences; the entry does not discuss the self.
   - *Neither an extended self nor an impersonal valuation is the
     entry's ground, but the gap it leaves is where the thesis would sit.*
@@ -283,9 +283,9 @@ future with no people" (§4.6).
     *Political Liberalism* he replaced it with mutual disinterest plus a
     consistency condition. A theory of justice that once rested on
     extended concern now avoids relying on it.
-- **A dated note to CLAIM-tmpjylq8 is not needed.** The
+- **A dated note to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) is not needed.** The
   entry bears on the thesis only through Scheffler, who is unread. The
-  note belongs on QUESTION-tmpmx9ha (section 3 below).
+  note belongs on [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md) (section 3 below).
 - **No THEORY filed.**
 - **No ML instruction.**
 
@@ -322,5 +322,5 @@ future with no people" (§4.6).
   own text, unread, would say which he means.
 - Is the obligation not to destroy what future-oriented projects depend
   on owed to the dead in a sense that would make it a legacy interest
-  (QUESTION-tmpruhu4)? The entry says it is owed to past people without
+  ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md))? The entry says it is owed to past people without
   saying how they can be wronged.

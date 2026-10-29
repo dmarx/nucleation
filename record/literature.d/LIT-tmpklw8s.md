@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp0l9dk) from the author's working paper
+  read in full 2026-10-29 ([NOTE-tmp0l9dk](../notes.d/NOTE-tmp0l9dk.md)) from the author's working paper
   (GPI Working Paper No. 3-2022, version 4, April 2022) on the Global
   Priorities Institute's site; worth reading as the most careful
   quantitative statement of the epistemic objection to longtermism, and as
@@ -44,8 +44,8 @@ summary: >-
 
 Tarsney, C. (2023). *Synthese*, 201(6), 195.
 
-Read in full in NOTE-tmp0l9dk, from the author's working paper (GPI Working Paper No. 3-2022, version 4, April 2022) on the Global Priorities Institute's site.
+Read in full in [NOTE-tmp0l9dk](../notes.d/NOTE-tmp0l9dk.md), from the author's working paper (GPI Working Paper No. 3-2022, version 4, April 2022) on the Global Priorities Institute's site.
 
 ## Why this is here
 
-The strongest internal challenge to longtermism, and a test of whether concern for the far future can be action-guiding. For QUESTION-tmpmx9ha.
+The strongest internal challenge to longtermism, and a test of whether concern for the far future can be action-guiding. For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).

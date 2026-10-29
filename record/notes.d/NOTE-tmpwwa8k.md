@@ -122,21 +122,21 @@ on when colonization takes place" (§III ¶3).
 
 ## Connections
 
-- **Bostrom 2013 (LIT-tmpr74qy)** restates the argument with other
+- **Bostrom 2013 ([LIT-tmpr74qy](../literature.d/LIT-tmpr74qy.md))** restates the argument with other
   figures (10^16 lives on Earth alone) and defines existential risk
   formally.
-- **Greaves and MacAskill (LIT-tmp1we1q)** cite this paper as precedent
+- **Greaves and MacAskill ([LIT-tmp1we1q](../literature.d/LIT-tmp1we1q.md))** cite this paper as precedent
   and generalize it beyond total utilitarianism.
-- **Narveson (LIT-tmpoc3e4) and the non-identity problem
-  (LIT-tmpnjafv).** Section IV and note 14 are a person-affecting
+- **Narveson ([LIT-tmpoc3e4](../literature.d/LIT-tmpoc3e4.md)) and the non-identity problem
+  ([LIT-tmpnjafv](../literature.d/LIT-tmpnjafv.md)).** Section IV and note 14 are a person-affecting
   treatment: they owe nothing to merely possible people, and non-identity
   removes most future people from view.
-- **Thorstad (LIT-tmp37kk5)** questions the astronomical value of risk
+- **Thorstad ([LIT-tmp37kk5](../literature.d/LIT-tmp37kk5.md))** questions the astronomical value of risk
   reduction this paper first asserted.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** These are inferences; Bostrom
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are inferences; Bostrom
   does not discuss motivation or the self.
   - **Two grounds, side by side.** On the total view the obligation is to
     an impersonal sum of value, owed to no one. On the person-affecting
@@ -148,13 +148,13 @@ on when colonization takes place" (§III ¶3).
     people now alive, might live billions of subjective years in it.
     That is concern for the future as one's own future, with no larger
     self needed. It is a third reading beside the thesis's extended self
-    and the impersonal good, closest to Pitcher's on QUESTION-tmpruhu4.
+    and the impersonal good, closest to Pitcher's on [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).
   - **Nothing on motivation.** The paper says what "standard utilitarians
     ought to" do (abstract) and gives no thought to why anyone is moved.
 - **Discounting.** The conclusion needs no time-discounting but survives
   "some degree" of it (§II ¶4), a weaker dependence than Greaves and
   MacAskill concede.
-- **Proposed dated note on CLAIM-tmpjylq8**: "Bostrom's Astronomical Waste
+- **Proposed dated note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)**: "Bostrom's Astronomical Waste
   (NOTE of 2026-10-29) gives two grounds for concern with the far future
   and shows they diverge. On the total view the far future is owed to an
   impersonal sum, and its advice is safety alone. On a person-affecting
@@ -181,4 +181,4 @@ on when colonization takes place" (§III ¶3).
 
 - Do people who care about existential risk do so for the person-affecting
   reason (their own or their contemporaries' long future) or for the total
-  one? Schubert et al. (LIT-tmpk72ci), when read, may bear on it.
+  one? Schubert et al. ([LIT-tmpk72ci](../literature.d/LIT-tmpk72ci.md)), when read, may bear on it.
