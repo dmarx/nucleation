@@ -24,7 +24,7 @@ history:
     change and whose sign it can set: experimental support for
     three-factor learning rules on behavioural time scales. The
     promote_when asked for evidence in behaving animals, which the
-    title does not claim, and moves unchanged to QUESTION-tmpq6owc.
+    title does not claim, and moves unchanged to QUESTION-311.
     CLAIM-443 now lists this reading under corroborated_by, not
     grounds (ADR-058).
 tags:
@@ -41,7 +41,7 @@ summary: >-
   minute-scale CA1 result may be consolidation. The reviewers grant that
   other mechanisms could bridge the same gap.
 bears_on:
-- QUESTION-tmpq6owc
+- QUESTION-311
 ---
 <!-- inactive-ok-file: CLAIM-443 — Proposed; the claim this bears on, named, nothing here rests on it -->
 

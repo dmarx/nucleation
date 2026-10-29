@@ -1,5 +1,8 @@
 ---
+number: 314
 status: Open
+formerly:
+- QUESTION-tmpzbq0p
 title: 'Is the response an implementation intention specifies gated by the goal intention it serves, so that with the goal deactivated or weak the cue alone does not produce it, and does the gate survive the plan''s being acted on many times?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   survives repetition, is this question.
 ---
 
-# QUESTION-tmpzbq0p: Is the response an implementation intention specifies gated by the goal intention it serves, so that with the goal deactivated or weak the cue alone does not produce it, and does the gate survive the plan's being acted on many times?
+# QUESTION-314: Is the response an implementation intention specifies gated by the goal intention it serves, so that with the goal deactivated or weak the cue alone does not produce it, and does the gate survive the plan's being acted on many times?
 
 ## Why it is a question
 

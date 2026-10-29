@@ -1,5 +1,8 @@
 ---
+number: 313
 status: Open
+formerly:
+- QUESTION-tmpumzkc
 title: 'When a habit is modelled as a prior over policies that grows by counting, do the counts fitted to an animal''s or a person''s own choice history predict when behaviour becomes insensitive to devaluation, and when it still switches at once?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   bear it out is this question.
 ---
 
-# QUESTION-tmpumzkc: When a habit is modelled as a prior over policies that grows by counting, do the counts fitted to an animal's or a person's own choice history predict when behaviour becomes insensitive to devaluation, and when it still switches at once?
+# QUESTION-313: When a habit is modelled as a prior over policies that grows by counting, do the counts fitted to an animal's or a person's own choice history predict when behaviour becomes insensitive to devaluation, and when it still switches at once?
 
 ## Why it is a question
 

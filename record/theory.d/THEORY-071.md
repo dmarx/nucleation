@@ -33,7 +33,7 @@ history:
 - version: 3
   date: '2026-10-29'
   note: >-
-    What the paper proposes is split off as THEORY-tmpy6639, Active, by
+    What the paper proposes is split off as THEORY-1119, Active, by
     the tenth status review on THEORY-1110's pattern. CLAIM-194, CLAIM-284
     and CLAIM-288 use the conditions as stated, not their truth, and now
     ground on it. This entry keeps the question whether the definition is
@@ -219,5 +219,5 @@ depend on how the modeller splits parameters from variables, applied to
 explicit models (a protocell, an evolved controller, a homeostat) and
 matching Table 1 without being tuned to it. The authors call that criterion
 incomplete. The disagreement with [THEORY-583](THEORY-583.md) over the homeostat is
-unresolved. What the paper proposes is now [THEORY-tmpy6639](THEORY-tmpy6639.md), Active, and
+unresolved. What the paper proposes is now [THEORY-1119](THEORY-1119.md), Active, and
 the claims that need only the proposal ground on it.

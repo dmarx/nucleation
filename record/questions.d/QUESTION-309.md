@@ -1,5 +1,8 @@
 ---
+number: 309
 status: Open
+formerly:
+- QUESTION-tmpdyrwc
 title: 'Within one design, do contingent if-then plans outperform schedule plans for the same goal, sample and outcome, does recording the plan weaken it, and does rehearsal work through the accessibility of the cue or the strength of the cue–response link?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   differences is this question.
 ---
 
-# QUESTION-tmpdyrwc: Within one design, do contingent if-then plans outperform schedule plans for the same goal, sample and outcome, does recording the plan weaken it, and does rehearsal work through the accessibility of the cue or the strength of the cue–response link?
+# QUESTION-309: Within one design, do contingent if-then plans outperform schedule plans for the same goal, sample and outcome, does recording the plan weaken it, and does rehearsal work through the accessibility of the cue or the strength of the cue–response link?
 
 ## Why it is a question
 

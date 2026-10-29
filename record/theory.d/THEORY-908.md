@@ -22,7 +22,7 @@ history:
     keeping a copy to revisit lowered it (.31 against .44), and
     adding how or for how long to a time-and-place cue roughly
     halved it. The promote_when moves unchanged to
-    QUESTION-tmpdyrwc. CLAIM-443 now lists this reading under
+    QUESTION-309. CLAIM-443 now lists this reading under
     corroborated_by, not grounds (ADR-058).
 tags:
 - motivation
@@ -39,7 +39,7 @@ summary: >-
   authors read the recording and elaboration costs as deliberation
   undermining automaticity. Between-test and uncorrected for bias.
 bears_on:
-- QUESTION-tmpdyrwc
+- QUESTION-309
 ---
 <!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 

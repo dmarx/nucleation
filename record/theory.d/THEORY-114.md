@@ -20,7 +20,7 @@ history:
     independently trained networks become linearly connected after
     alignment only gradually. The promote_when asked for evidence outside
     image classification and beyond MLPs, which the narrowed title does
-    not claim. It moves unchanged to QUESTION-tmpqgo1h, as THEORY-285's
+    not claim. It moves unchanged to QUESTION-312, as THEORY-285's
     did to QUESTION-303.
 tags:
 - loss-landscapes
@@ -47,7 +47,7 @@ presupposed_by:
 - THEORY-115
 bears_on:
 - QUESTION-069
-- QUESTION-tmpqgo1h
+- QUESTION-312
 ---
 <!-- inactive-ok-file: LIT-370 — Proposed; named as a re-measurement of the shared-state onset, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-109 THEORY-112 — Proposed; the account this extends, and the symmetry account filed with it, named in the body -->

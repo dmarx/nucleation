@@ -1,5 +1,8 @@
 ---
+number: 311
 status: Open
+formerly:
+- QUESTION-tmpq6owc
 title: 'Do synaptic eligibility traces on the scale of seconds carry learning from delayed outcomes in behaving animals, so that interfering with the trace between action and outcome abolishes learning from the delayed outcome but not from immediate ones?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   is this question.
 ---
 
-# QUESTION-tmpq6owc: Do synaptic eligibility traces on the scale of seconds carry learning from delayed outcomes in behaving animals, so that interfering with the trace between action and outcome abolishes learning from the delayed outcome but not from immediate ones?
+# QUESTION-311: Do synaptic eligibility traces on the scale of seconds carry learning from delayed outcomes in behaving animals, so that interfering with the trace between action and outcome abolishes learning from the delayed outcome but not from immediate ones?
 
 ## Why it is a question
 

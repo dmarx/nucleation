@@ -1,5 +1,8 @@
 ---
+number: 307
 status: Open
+formerly:
+- QUESTION-tmp6rtwx
 title: 'In dialectical behaviour therapy, do skills-homework completion and phone coaching predict falling urges and less frequent target behaviour once baseline functioning and motivation are controlled and patients with missing diary data are kept, and does skill use between sessions mediate the change?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   them, is this question.
 ---
 
-# QUESTION-tmp6rtwx: In dialectical behaviour therapy, do skills-homework completion and phone coaching predict falling urges and less frequent target behaviour once baseline functioning and motivation are controlled and patients with missing diary data are kept, and does skill use between sessions mediate the change?
+# QUESTION-307: In dialectical behaviour therapy, do skills-homework completion and phone coaching predict falling urges and less frequent target behaviour once baseline functioning and motivation are controlled and patients with missing diary data are kept, and does skill use between sessions mediate the change?
 
 ## Why it is a question
 

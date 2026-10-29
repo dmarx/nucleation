@@ -26,7 +26,7 @@ history:
 - version: 4
   date: '2026-10-29'
   note: >-
-    Grounds move from THEORY-071 to THEORY-tmpy6639, what Barandiaran,
+    Grounds move from THEORY-071 to THEORY-1119, what Barandiaran,
     Di Paolo and Rohde propose, split by the tenth status review on
     THEORY-1110's pattern: the claim uses the conditions as stated, not
     their truth. The body cites the split where it cites the proposal. The
@@ -34,7 +34,7 @@ history:
 role: counter
 warrant: interpretive
 grounds:
-- THEORY-tmpy6639
+- THEORY-1119
 - LIT-1017
 - THEORY-219
 - THEORY-220
@@ -84,7 +84,7 @@ discounted policy evaluation, and constrained endogenous endorsement."
 In the model the exchange built, each operator is rewarded for something
 the modeller wrote down. In A2 §6 it is J_i = E[Q_i(a*, c)] − λ_i Cost(E_i).
 In A6 §1 it is discounted reward r_i. Barandiaran, Di Paolo and Rohde
-([THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md), read in [NOTE-458](../notes.d/NOTE-458.md)) derive that "Systems optimizing an externally
+([THEORY-1119](../theory.d/THEORY-1119.md), read in [NOTE-458](../notes.d/NOTE-458.md)) derive that "Systems optimizing an externally
 fixed function are not models of agency" (C5), because normativity must be
 "Regulation against a condition that can be failed, with the condition set
 by the system's organization." Di Paolo (2005, [LIT-1017](../literature.d/LIT-1017.md)) makes the same

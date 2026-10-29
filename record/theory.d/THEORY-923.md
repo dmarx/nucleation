@@ -19,7 +19,7 @@ history:
     reinforces itself, after the reward is devalued, while an agent
     devalued before acquisition switches at once. The promote_when
     asked for an empirical test the title never claimed, and moves
-    unchanged to QUESTION-tmpumzkc, as THEORY-285's did to
+    unchanged to QUESTION-313, as THEORY-285's did to
     QUESTION-303. CLAIM-443 now lists this reading under
     corroborated_by, not grounds (ADR-058).
 tags:
@@ -38,7 +38,7 @@ summary: >-
   mapping failing when what is appropriate changes; it does not show
   amortization, and its reaction times are simulation run times.
 bears_on:
-- QUESTION-tmpumzkc
+- QUESTION-313
 ---
 <!-- inactive-ok-file: CLAIM-443 THEORY-062 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 

@@ -60,7 +60,7 @@ history:
     The tenth status review. The first clause of promote_when is met by
     readings already in the record (NOTE-545, NOTE-264), and the second
     is not; a dated note says so. The argument's first half, as its
-    sources make it, is split off as THEORY-tmpk6bx2, Active, on
+    sources make it, is split off as THEORY-1118, Active, on
     THEORY-1110's pattern, and CLAIM-364, which uses only that half, now
     grounds on it. The claim and status are unchanged.
 tags:
@@ -207,5 +207,5 @@ note 10 accepts the designed addict as fully responsible; the 2004 lectures
 is not: no first-hand reading of Pereboom's four-case argument or Mele's
 zygote argument shows a manipulation meeting a named historical condition,
 and the record holds both only through surveys ([NOTE-270](../notes.d/NOTE-270.md), [NOTE-856](../notes.d/NOTE-856.md),
-[NOTE-862](../notes.d/NOTE-862.md); [THEORY-328](THEORY-328.md)). The argument's first half is now [THEORY-tmpk6bx2](THEORY-tmpk6bx2.md),
+[NOTE-862](../notes.d/NOTE-862.md); [THEORY-328](THEORY-328.md)). The argument's first half is now [THEORY-1118](THEORY-1118.md),
 Active.

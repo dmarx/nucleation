@@ -1,5 +1,8 @@
 ---
+number: 310
 status: Open
+formerly:
+- QUESTION-tmpjs7gh
 title: 'Does the effect of forming implementation intentions stay reliably above zero, and of the same small order, once tests published after September 2019 are added or preregistered multi-site replications are run with correction for publication bias, and does it hold outside the lab and online?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   evidence is this question.
 ---
 
-# QUESTION-tmpjs7gh: Does the effect of forming implementation intentions stay reliably above zero, and of the same small order, once tests published after September 2019 are added or preregistered multi-site replications are run with correction for publication bias, and does it hold outside the lab and online?
+# QUESTION-310: Does the effect of forming implementation intentions stay reliably above zero, and of the same small order, once tests published after September 2019 are added or preregistered multi-site replications are run with correction for publication bias, and does it hold outside the lab and online?
 
 ## Why it is a question
 

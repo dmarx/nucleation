@@ -1,5 +1,8 @@
 ---
+number: 308
 status: Open
+formerly:
+- QUESTION-tmpcfxdl
 title: 'Do the process effects of implementation intentions, the immediacy, efficiency under load and running without conscious intent of the planned response and the better detection of its cue, survive correction for publication bias or preregistered replication, and do they mediate goal attainment rather than merely accompany it?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   whether they carry the effect on goal attainment, is this question.
 ---
 
-# QUESTION-tmpcfxdl: Do the process effects of implementation intentions, the immediacy, efficiency under load and running without conscious intent of the planned response and the better detection of its cue, survive correction for publication bias or preregistered replication, and do they mediate goal attainment rather than merely accompany it?
+# QUESTION-308: Do the process effects of implementation intentions, the immediacy, efficiency under load and running without conscious intent of the planned response and the better detection of its cue, survive correction for publication bias or preregistered replication, and do they mediate goal attainment rather than merely accompany it?
 
 ## Why it is a question
 

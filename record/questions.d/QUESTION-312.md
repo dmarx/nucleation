@@ -1,5 +1,8 @@
 ---
+number: 312
 status: Open
+formerly:
+- QUESTION-tmpqgo1h
 title: 'Does linear mode connectivity emerge during training rather than at initialization outside image classification and beyond MLPs: in a language model or transformer, for copies spawned from a shared state and for independent runs aligned under the architecture''s symmetry group, and for standard-width convnets or ResNets after alignment?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   moved to [QUESTION-303](QUESTION-303.md).
 ---
 
-# QUESTION-tmpqgo1h: Does linear mode connectivity emerge during training rather than at initialization outside image classification and beyond MLPs: in a language model or transformer, for copies spawned from a shared state and for independent runs aligned under the architecture's symmetry group, and for standard-width convnets or ResNets after alignment?
+# QUESTION-312: Does linear mode connectivity emerge during training rather than at initialization outside image classification and beyond MLPs: in a language model or transformer, for copies spawned from a shared state and for independent runs aligned under the architecture's symmetry group, and for standard-width convnets or ResNets after alignment?
 
 ## Why it is a question
 

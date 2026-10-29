@@ -16,7 +16,7 @@ history:
 - version: 3
   date: '2026-10-29'
   note: >-
-    Grounds move from THEORY-071 to THEORY-tmpy6639, what Barandiaran,
+    Grounds move from THEORY-071 to THEORY-1119, what Barandiaran,
     Di Paolo and Rohde propose, split by the tenth status review on
     THEORY-1110's pattern: the claim uses the conditions as stated, not
     their truth. The body cites the split where it cites the proposal. The
@@ -47,7 +47,7 @@ line:
 rests_on:
 - CLAIM-025
 grounds:
-- THEORY-tmpy6639
+- THEORY-1119
 uses:
 - TERM-045
 summary: >-
@@ -101,7 +101,7 @@ regimes and transforming the governing organization can each persist or fail
 on their own. "Participates in governing the conditions of its own ...
 transformation" requires the third, so the claim needs the three to be
 separable. It is grounded in Barandiaran, Di Paolo and Rohde's conditions
-([THEORY-tmpy6639](../theory.d/THEORY-tmpy6639.md)), which A11 recommended registering ("I would make this a
+([THEORY-1119](../theory.d/THEORY-1119.md)), which A11 recommended registering ("I would make this a
 foundational comparison and check whether it already has a Nucleation
 literature record"). The record holds it as [LIT-566](../literature.d/LIT-566.md), read in full on
 2026-10-03 ([NOTE-458](../notes.d/NOTE-458.md)).

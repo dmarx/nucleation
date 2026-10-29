@@ -1,5 +1,8 @@
 ---
+number: 1119
 status: Active
+formerly:
+- THEORY-tmpy6639
 title: 'Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system''s own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency'
 version: 1
 tags:
@@ -23,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-071 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 
-# THEORY-tmpy6639: Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency
+# THEORY-1119: Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency
 
 ## Source
 

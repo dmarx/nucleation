@@ -21,7 +21,7 @@ history:
     (d = .72, k = 3), and the planned cues became more accessible (d
     = .80, k = 6); the authors read this as control of the response
     handed in advance to the cue. The promote_when moves unchanged
-    to QUESTION-tmpcfxdl. CLAIM-443 now lists this reading under
+    to QUESTION-308. CLAIM-443 now lists this reading under
     corroborated_by, not grounds (ADR-058).
 tags:
 - motivation
@@ -39,7 +39,7 @@ summary: >-
   Only cue accessibility and cue–response link strength had been tested as
   mediators. The authors' gloss is "instant habits".
 bears_on:
-- QUESTION-tmpcfxdl
+- QUESTION-308
 ---
 <!-- inactive-ok-file: CLAIM-358 CLAIM-443 QUESTION-095 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 

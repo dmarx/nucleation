@@ -13,7 +13,7 @@ history:
     ruling, read in full in NOTE-1121); the title claims only
     correlations in the selected sample, and is unchanged. The
     promote_when, a replication with intention-to-treat handling and
-    a component design, moves unchanged to QUESTION-tmp6rtwx, as
+    a component design, moves unchanged to QUESTION-307, as
     THEORY-285's did to QUESTION-303. CLAIM-443 now lists this
     reading under corroborated_by, not grounds (ADR-058).
 tags:
@@ -31,7 +31,7 @@ summary: >-
   significantly with more coaching (p = .096). No correction for multiple
   comparisons, selected sample, no measure of skill use.
 bears_on:
-- QUESTION-tmp6rtwx
+- QUESTION-307
 ---
 <!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 

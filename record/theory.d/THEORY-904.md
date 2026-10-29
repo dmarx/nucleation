@@ -22,7 +22,7 @@ history:
     studies in 2006, matched in 2024 by large plan effects under
     high motivation (d = .79, k = 8) and none for physical activity
     when intentions were weak. The promote_when, a crossed test of
-    plan against goal, moves unchanged to QUESTION-tmpzbq0p, as
+    plan against goal, moves unchanged to QUESTION-314, as
     THEORY-285's did to QUESTION-303. CLAIM-443 now lists this
     reading under corroborated_by, not grounds (ADR-058).
 tags:
@@ -42,7 +42,7 @@ summary: >-
   pattern across tests. Neither tests what happens when the planned
   response becomes the wrong one.
 bears_on:
-- QUESTION-tmpzbq0p
+- QUESTION-314
 ---
 <!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 

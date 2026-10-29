@@ -1,5 +1,8 @@
 ---
+number: 306
 status: Open
+formerly:
+- QUESTION-tmp07sug
 title: 'Across many artworks of one crowd-built canvas, do placements follow revisions of each artwork''s design made or approved by a small identifiable set of accounts, rather than the designs recording what placers had already done, and does the coordination record assign to other groups placements that a behaviour-only method gives to one?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   a canvas, and with how small a core, is this question.
 ---
 
-# QUESTION-tmp07sug: Across many artworks of one crowd-built canvas, do placements follow revisions of each artwork's design made or approved by a small identifiable set of accounts, rather than the designs recording what placers had already done, and does the coordination record assign to other groups placements that a behaviour-only method gives to one?
+# QUESTION-306: Across many artworks of one crowd-built canvas, do placements follow revisions of each artwork's design made or approved by a small identifiable set of accounts, rather than the designs recording what placers had already done, and does the coordination record assign to other groups placements that a behaviour-only method gives to one?
 
 ## Why it is a question
 

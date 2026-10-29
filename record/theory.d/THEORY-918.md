@@ -21,7 +21,7 @@ history:
     judgement, but publication bias was substantial: the pooled d =
     .36 falls to a model-averaged d = .15 under robust Bayesian
     meta-analysis, with large heterogeneity. The promote_when moves
-    unchanged to QUESTION-tmpjs7gh. CLAIM-443 now lists this reading
+    unchanged to QUESTION-310. CLAIM-443 now lists this reading
     under corroborated_by, not grounds (ADR-058).
 tags:
 - motivation
@@ -38,7 +38,7 @@ summary: >-
   affect .66, social judgement .52, all uncorrected. It replaces the 2006
   figure of d = .65 from 94 tests, which had no bias correction.
 bears_on:
-- QUESTION-tmpjs7gh
+- QUESTION-310
 ---
 <!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 

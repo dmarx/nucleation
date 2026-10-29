@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-117 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+119 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -13,15 +13,25 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-026](../record/theory.d/THEORY-026.md) — For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient *(Active)*
   - [THEORY-817](../record/theory.d/THEORY-817.md) — Once an agent's actions affect the percepts it receives, maximal prediction of those percepts is generally not what thermodynamic efficiency requires: in percept-action loops with feedback, maximally predictive agents generally extract less work than the most efficient agent *(Proposed)*
 
+### From A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
+
+- [THEORY-040](../record/theory.d/THEORY-040.md) — A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape *(Proposed)*
+  - [THEORY-1118](../record/theory.d/THEORY-1118.md) — McKenna and Coates argue, with Dryden and with Buss and Westlund, that a condition on free agency stated only in the agent's present psychological structure is met by an agent whose structure a manipulator installed, so a mesh account must count that agent free or add a historical condition; Frankfurt, read first-hand, takes the first option *(Active)*
+
 ### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
-  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is *(Proposed)*
 
 ### From Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
 
 - [THEORY-067](../record/theory.d/THEORY-067.md) — Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one *(Proposed)*
   - [THEORY-1117](../record/theory.d/THEORY-1117.md) — Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one *(Active)*
+
+### From Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency
+
+- [THEORY-071](../record/theory.d/THEORY-071.md) — Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency *(Proposed)*
+  - [THEORY-1119](../record/theory.d/THEORY-1119.md) — Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency *(Active)*
 
 ### From Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
 
@@ -43,7 +53,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n
 
 - [THEORY-718](../record/theory.d/THEORY-718.md) — In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n *(Active)*
-  - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
+  - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature *(Active)*
     - [THEORY-080](../record/theory.d/THEORY-080.md) — In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies *(Proposed)*
 
 ### From In Papyan, Han and Donoho's runs of VGG, ResNet and DenseNet trained with cross-entropy on seven balanced datasets without augmentation, training past zero error shrinks last-layer within-class variability against between-class variability, and moves the centred class means and the classifier toward a common simplex equiangular tight frame and the decision toward nearest class mean, nearly to completion on the four easier datasets and only partly on ImageNet
@@ -63,7 +73,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-109](../record/theory.d/THEORY-109.md) — The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum *(Proposed)*
     - [THEORY-112](../record/theory.d/THEORY-112.md) — Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth *(Proposed)*
       - [THEORY-110](../record/theory.d/THEORY-110.md) — A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex *(Proposed)* — also carries further THEORY-109, THEORY-741
-    - [THEORY-114](../record/theory.d/THEORY-114.md) — Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually *(Proposed)*
+    - [THEORY-114](../record/theory.d/THEORY-114.md) — In image classification, linear mode connectivity appeared during training and not at initialization: copies of ResNet-20 and VGG-16 on CIFAR-10 and of ResNet-50 and Inception-v3 on ImageNet, trained from a shared state, became stable to SGD noise in test error only after 1.5–20% of training (LeNet on MNIST was stable from the start), and between independently initialized MLPs on MNIST and CIFAR-10 the barrier after weight-matching alignment was high at initialization and fell gradually through training *(Active)*
     - [THEORY-557](../record/theory.d/THEORY-557.md) — Low-loss paths between independently trained solutions are found outside supervised image classifiers: graph neural networks trained from different seeds on one graph are joined by quadratic Bezier curves where the straight line has a barrier, and one pair each of diffusion and contrastive models by chains of low-loss checkpoints *(Proposed)*
 - [THEORY-741](../record/theory.d/THEORY-741.md) — A two-layer ReLU student of width at least kM, fitting an orthonormal teacher of M neurons on the sphere, has for any k global minima a global minimum joined to each by a two-piece linear path of minima; and in a deep linear network of depth L and width above 1 + r(L − 1), any r global minima in general position share a global minimum linearly connected to each *(Active)*
 
@@ -355,6 +365,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## embodied-cognition
 
+### From Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency
+
+- [THEORY-071](../record/theory.d/THEORY-071.md) — Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency *(Proposed)*
+  - [THEORY-1119](../record/theory.d/THEORY-1119.md) — Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency *(Active)*
+
 ### From In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16
 
 - [THEORY-360](../record/theory.d/THEORY-360.md) — In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16 *(Active)*
@@ -427,6 +442,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## free-will
 
+### From A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
+
+- [THEORY-040](../record/theory.d/THEORY-040.md) — A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape *(Proposed)*
+  - [THEORY-1118](../record/theory.d/THEORY-1118.md) — McKenna and Coates argue, with Dryden and with Buss and Westlund, that a condition on free agency stated only in the agent's present psychological structure is met by an agent whose structure a manipulator installed, so a mesh account must count that agent free or add a historical condition; Frankfurt, read first-hand, takes the first option *(Active)*
+
 ### From Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
 
 - [THEORY-122](../record/theory.d/THEORY-122.md) — Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply *(Proposed)*
@@ -456,6 +476,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
   - [THEORY-073](../record/theory.d/THEORY-073.md) — In Friston's 2013 formulation and the applications the record holds, a Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is traced (the coupling graph, the internal set and the time at which steady state is assumed), and a blanket read from a fixed graph is the same whether the system produced the boundary or it was imposed *(Active)*
     - [THEORY-1097](../record/theory.d/THEORY-1097.md) — A Markov blanket, in any formulation including sparse coupling at nonequilibrium steady state and time-varying blanket states, does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+
+### From Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency
+
+- [THEORY-071](../record/theory.d/THEORY-071.md) — Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency *(Proposed)*
+  - [THEORY-1119](../record/theory.d/THEORY-1119.md) — Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency *(Active)*
 
 ### From A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can
 
@@ -736,7 +761,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-109](../record/theory.d/THEORY-109.md) — The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum *(Proposed)*
     - [THEORY-112](../record/theory.d/THEORY-112.md) — Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth *(Proposed)*
       - [THEORY-110](../record/theory.d/THEORY-110.md) — A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex *(Proposed)* — also carries further THEORY-109, THEORY-741
-    - [THEORY-114](../record/theory.d/THEORY-114.md) — Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually *(Proposed)*
+    - [THEORY-114](../record/theory.d/THEORY-114.md) — In image classification, linear mode connectivity appeared during training and not at initialization: copies of ResNet-20 and VGG-16 on CIFAR-10 and of ResNet-50 and Inception-v3 on ImageNet, trained from a shared state, became stable to SGD noise in test error only after 1.5–20% of training (LeNet on MNIST was stable from the start), and between independently initialized MLPs on MNIST and CIFAR-10 the barrier after weight-matching alignment was high at initialization and fell gradually through training *(Active)*
     - [THEORY-557](../record/theory.d/THEORY-557.md) — Low-loss paths between independently trained solutions are found outside supervised image classifiers: graph neural networks trained from different seeds on one graph are joined by quadratic Bezier curves where the straight line has a barrier, and one pair each of diffusion and contrastive models by chains of low-loss checkpoints *(Proposed)*
 - [THEORY-741](../record/theory.d/THEORY-741.md) — A two-layer ReLU student of width at least kM, fitting an orthonormal teacher of M neurons on the sphere, has for any k global minima a global minimum joined to each by a two-piece linear path of minima; and in a deep linear network of depth L and width above 1 + r(L − 1), any r global minima in general position share a global minimum linearly connected to each *(Active)*
 
@@ -785,7 +810,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Active)*
   - [THEORY-008](../record/theory.d/THEORY-008.md) — On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement *(Active)*
-  - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)* — also carries further THEORY-721
+  - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Active)* — also carries further THEORY-721
     - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*
       - [THEORY-234](../record/theory.d/THEORY-234.md) — Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none when it lies in those subspaces, and can fail to be shared otherwise *(Active)*
 - [THEORY-721](../record/theory.d/THEORY-721.md) — On a complex Hilbert space no orthonormal basis or tensor factorisation of given dimensions is distinguished by the space alone, and orthonormal bases correspond exactly to commutative special †-Frobenius algebras; over the reals that correspondence fails *(Active)*
@@ -883,12 +908,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-729](../record/theory.d/THEORY-729.md) — An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms *(Active)*
   - [THEORY-604](../record/theory.d/THEORY-604.md) — Most mathematical dualities are adjunctions between one category and the opposite of another, which become dual equivalences on their fixed points; what makes them dualities rather than equivalences is the reversal of arrows, so many of the 'dualities' physicists name are, in the mathematician's sense, equivalences or symmetries *(Proposed)*
 
+## metaphysics
+
+### From A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
+
+- [THEORY-040](../record/theory.d/THEORY-040.md) — A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape *(Proposed)*
+  - [THEORY-1118](../record/theory.d/THEORY-1118.md) — McKenna and Coates argue, with Dryden and with Buss and Westlund, that a condition on free agency stated only in the agent's present psychological structure is met by an agent whose structure a manipulator installed, so a mesh account must count that agent free or add a historical condition; Frankfurt, read first-hand, takes the first option *(Active)*
+
 ## model-comparison
 
 ### From In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n
 
 - [THEORY-718](../record/theory.d/THEORY-718.md) — In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n *(Active)*
-  - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
+  - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature *(Active)*
     - [THEORY-080](../record/theory.d/THEORY-080.md) — In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies *(Proposed)*
 
 ## moral-psychology
@@ -903,7 +935,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
-  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is *(Proposed)*
 
 ### From Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
 
@@ -1016,6 +1048,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-377](../record/theory.d/THEORY-377.md) — In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries tolerated imprecision, it cost less; that it converges to the best width is argued, not proved *(Active)*
 
 ## philosophy-of-biology
+
+### From Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency
+
+- [THEORY-071](../record/theory.d/THEORY-071.md) — Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency *(Proposed)*
+  - [THEORY-1119](../record/theory.d/THEORY-1119.md) — Barandiaran, Di Paolo and Rohde propose that minimal agency requires individuality, interactional asymmetry and normativity set by the system's own organisation, each necessary and together, they say, sufficient; that individuality without the other two is not agency; and that a system optimizing an externally fixed function is not a model of agency *(Active)*
 
 ### From In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure
 
@@ -1345,10 +1382,15 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## self-governance
 
+### From A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
+
+- [THEORY-040](../record/theory.d/THEORY-040.md) — A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape *(Proposed)*
+  - [THEORY-1118](../record/theory.d/THEORY-1118.md) — McKenna and Coates argue, with Dryden and with Buss and Westlund, that a condition on free agency stated only in the agent's present psychological structure is met by an agent whose structure a manipulator installed, so a mesh account must count that agent free or add a historical condition; Frankfurt, read first-hand, takes the first option *(Active)*
+
 ### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
-  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is *(Proposed)*
 
 ## social-ontology
 
