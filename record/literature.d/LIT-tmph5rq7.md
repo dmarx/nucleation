@@ -1,8 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. The ETH Research
+  Collection and the Zurich repository (ZORA) list it without a file, as
+  they do Mansuy's other reviews of 2013–2017. No NOTE is filed. It stays
+  Unavailable until a copy is supplied (ADR-041).
 title: 'Molecular insights into transgenerational non-genetic inheritance of acquired behaviours'
 version: 1
 history:
@@ -13,6 +17,8 @@ history:
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: Nature Reviews Genetics 16(11),
     641–652; online 2015-09-29, so `published:` is that date (ADR-002).
+    Set Unavailable the same day after a search for a lawful copy
+    (ADR-041); the status note says where.
 tags:
 - natural-sciences
 - neuroscience

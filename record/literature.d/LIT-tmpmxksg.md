@@ -1,8 +1,13 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29, not read; set Unfetched the same day under ADR-053:
+  Nature marks the article free to read (nature.com/articles/5201538), but
+  on 2026-10-29 the page served no body text and the PDF link redirected
+  through Nature's sign-in back to the article page; it is not in PMC, and
+  Unpaywall's submitted version is the abstract page. A human reader can
+  likely open it. No NOTE is filed. It stays Unfetched until it is read,
+  not on merit.
 title: 'Sex-specific, male-line transgenerational responses in humans'
 version: 1
 history:
@@ -11,8 +16,10 @@ history:
   note: >-
     Filed, not read, on the owner's word of 2026-10-29, on
     intergenerational trauma and epigenetic transmission
-    (QUESTION-tmp8bttd). Crossref: EJHG 14(2), 159–166; online 2005-12-14,
-    so `published:` is that date (ADR-002).
+    (QUESTION-tmp8bttd). Crossref: EJHG 14(2), 159–166; online
+    2005-12-14, so `published:` is that date (ADR-002). Set Unfetched
+    the same day under ADR-053 after a fetch was refused; the status
+    note gives the address.
 tags:
 - natural-sciences
 date: '2026-10-29'

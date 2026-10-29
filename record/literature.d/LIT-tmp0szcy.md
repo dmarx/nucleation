@@ -1,8 +1,13 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. University of
+  California Press sells it as an ebook, and no chapter is open at Project
+  MUSE, Luminos or eScholarship. An aggregator copy at CORE was not used,
+  since its source repository could not be traced. No NOTE is filed. It
+  stays Unavailable until a copy is supplied (ADR-041).
 title: 'Cultural Trauma and Collective Identity'
 version: 1
 history:
@@ -12,7 +17,9 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, on
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: University of California Press, print
-    2004-03-22, so `published:` is that date (ADR-002).
+    2004-03-22, so `published:` is that date (ADR-002). Set Unavailable
+    the same day after a search for a lawful copy (ADR-041); the status
+    note says where.
 tags:
 - social-identity
 - social-science

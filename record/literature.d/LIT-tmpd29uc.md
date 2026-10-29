@@ -1,8 +1,14 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. Leiden's repository
+  marks its record (hdl.handle.net/1887/2352) Closed Access, as it does
+  the authors' Dutch restatements; Haifa's research system lists it
+  without a file, and Erasmus's repository answered with a Cloudflare
+  challenge. No NOTE is filed. It stays Unavailable until a copy is
+  supplied (ADR-041).
 title: 'Are children of Holocaust survivors less well-adapted? A meta-analytic investigation of secondary traumatization'
 version: 1
 history:
@@ -13,7 +19,9 @@ history:
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: Journal of Traumatic Stress 16(5),
     459–469; print October 2003, so `published:` is 2003-10-01 and means
-    October 2003 (ADR-002). Crossref's online date (2005) is the backfile.
+    October 2003 (ADR-002). Crossref's online date (2005) is the
+    backfile. Set Unavailable the same day after a search for a lawful
+    copy (ADR-041); the status note says where.
 tags:
 - psychopathology-and-treatment
 date: '2026-10-29'

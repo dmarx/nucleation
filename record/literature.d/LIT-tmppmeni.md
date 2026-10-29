@@ -1,8 +1,11 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. It is not in Leiden's
+  repository, and Haifa's search answered with a Cloudflare challenge. No
+  NOTE is filed. It stays Unavailable until a copy is supplied (ADR-041).
 title: 'Does intergenerational transmission of trauma skip a generation? No meta-analytic evidence for tertiary traumatization with third generation of Holocaust survivors'
 version: 1
 history:
@@ -12,8 +15,9 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, on
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: Attachment & Human Development 10(2),
-    105–121; June 2008 only, so `published:` is 2008-06-01 and means June
-    2008 (ADR-002).
+    105–121; June 2008 only, so `published:` is 2008-06-01 and means
+    June 2008 (ADR-002). Set Unavailable the same day after a search for
+    a lawful copy (ADR-041); the status note says where.
 tags:
 - psychopathology-and-treatment
 date: '2026-10-29'

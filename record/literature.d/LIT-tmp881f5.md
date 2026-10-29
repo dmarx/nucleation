@@ -1,8 +1,14 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher; it is Springer
+  subscription content. A 2016 article by Danieli, Norris and Engdahl that
+  tests the handbook's framework is posted as the APA publisher PDF on a
+  University of Minnesota page under APA's personal-use notice; it was not
+  read, pending the owner's word on that route. No NOTE is filed. It stays
+  Unavailable until a copy is supplied (ADR-041).
 title: 'International Handbook of Multigenerational Legacies of Trauma'
 version: 1
 history:
@@ -12,7 +18,9 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, on
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: Springer (Plenum) book, 1998, year
-    only, so `published:` is 1998-01-01 (ADR-002).
+    only, so `published:` is 1998-01-01 (ADR-002). Set Unavailable the
+    same day after a search for a lawful copy (ADR-041); the status note
+    says where.
 tags:
 - psychopathology-and-treatment
 - social-identity

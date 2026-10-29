@@ -1,8 +1,13 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29, not read; set Unfetched the same day under ADR-053: a
+  lawful free copy is in PMC (PMC6127768), and the publisher's PDF is open
+  at Wiley. On 2026-10-29 the PMC page answered with a reCAPTCHA, Europe
+  PMC with HTTP 500, NCBI's E-utilities refused because the publisher does
+  not allow full-text XML, and Wiley with a Cloudflare challenge. A human
+  reader can likely open it. No NOTE is filed. It stays Unfetched until it
+  is read, not on merit.
 title: 'Intergenerational transmission of trauma effects: putative role of epigenetic mechanisms'
 version: 1
 history:
@@ -11,9 +16,10 @@ history:
   note: >-
     Filed, not read, on the owner's word of 2026-10-29, on
     intergenerational trauma and epigenetic transmission
-    (QUESTION-tmp8bttd). Crossref: World Psychiatry 17(3), 243–257; online
-    2018-09-07, so `published:` is that date (ADR-002). Open in PMC
-    (PMC6127768).
+    (QUESTION-tmp8bttd). Crossref: World Psychiatry 17(3), 243–257;
+    online 2018-09-07, so `published:` is that date (ADR-002). Open in
+    PMC (PMC6127768). Set Unfetched the same day under ADR-053 after a
+    fetch was refused; the status note gives the address.
 tags:
 - psychopathology-and-treatment
 - natural-sciences

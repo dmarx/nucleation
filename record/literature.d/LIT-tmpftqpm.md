@@ -1,8 +1,12 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29; reading attempted the same day, no lawful copy
+  reached. Unpaywall lists no open copy and a web search found none posted
+  by an author, their institution or the publisher. Volkan's site is a
+  parked domain, and the University of Virginia's archive lists the paper
+  by title only. No NOTE is filed. It stays Unavailable until a copy is
+  supplied (ADR-041).
 title: 'Transgenerational Transmissions and Chosen Traumas: An Aspect of Large-Group Identity'
 version: 1
 history:
@@ -12,7 +16,9 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, on
     intergenerational trauma and epigenetic transmission
     (QUESTION-tmp8bttd). Crossref: Group Analysis 34(1), 79–97; online
-    2001-03-01, so `published:` is that date (ADR-002).
+    2001-03-01, so `published:` is that date (ADR-002). Set Unavailable
+    the same day after a search for a lawful copy (ADR-041); the status
+    note says where.
 tags:
 - social-identity
 - psychopathology-and-treatment
