@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpyeik3
 title: 'Blackwell''s order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-057). CLAIM-074 leaves rests_on: it
+    is one side remark ("The readers differ as well"); the objection's
+    two features rest on CLAIM-091, THEORY-1096 and the garbling
+    argument. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -15,7 +23,6 @@ date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
 - CLAIM-091
-- CLAIM-074
 - CLAIM-323
 grounds:
 - THEORY-1096

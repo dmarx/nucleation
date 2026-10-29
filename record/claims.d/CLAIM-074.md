@@ -3,8 +3,22 @@ number: 74
 status: Proposed
 formerly:
 - CLAIM-tmpk2ltq
-title: 'Fidelity is relative to the interpreter''s learning history: a frame given in context is transient while an adaptation to it persists, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities'
-version: 1
+title: 'Fidelity is relative to the interpreter''s learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed by the ninth status review to the correction its own body
+    made: LIT-796's test-time update and LIT-801's inner weights
+    change parameters and discard them, so the two histories are told
+    apart by what they carry (A44's 'contextual' and 'adaptational'
+    history), not by transience. The old title: Fidelity is relative
+    to the interpreter's learning history: a frame given in context is
+    transient while an adaptation to it persists, so fidelity under a
+    fixed interpreter, across interpreters and across states of
+    adaptation are different quantities. CLAIM-244 and CLAIM-258 no
+    longer rest on it.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,12 +38,10 @@ summary: >-
   consequence for fidelity. Apparently dropped by inadvertence.
 supports:
 - CLAIM-049
-- CLAIM-244
-- CLAIM-258
 ---
 <!-- inactive-ok-file: CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-074: Fidelity is relative to the interpreter's learning history: a frame given in context is transient while an adaptation to it persists, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities
+# CLAIM-074: Fidelity is relative to the interpreter's learning history: what the current context supplies and what earlier experience has left in the interpreter are separate histories, told apart by what they carry and not by whether the change sits in activations or in weights, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities
 
 ## The claim
 
@@ -59,5 +71,14 @@ Persistence and the locus of change come apart. Akyürek et al.'s
 test-time update ([LIT-796](../literature.d/LIT-796.md)) and Sun et al.'s inner weights
 ([LIT-801](../literature.d/LIT-801.md)) both change parameters, and both discard the change after
 the task or the sequence. So "transient means context, persistent means
-adaptation" does not hold as a dichotomy, and the claim needs stating in
-terms of where the change happens.
+adaptation" does not hold as a dichotomy, and the claim needs stating in terms of where the change happens. The
+title now says so (2026-10-29). A parameter change computed from the
+current task and discarded after it is part of the contextual history.
+
+## Note of 2026-10-29: what holds it back
+
+Its one premise, [CLAIM-118](CLAIM-118.md), is Proposed, held by [THEORY-169](../theory.d/THEORY-169.md)'s identity of
+conditioning and per-sequence adaptation in linear attention. [CLAIM-118](CLAIM-118.md)
+still states the split by mechanism, which this claim's title no longer
+uses. Until both are stated the same way, this claim rests on a premise
+phrased for a distinction it has given up.

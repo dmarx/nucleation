@@ -3,8 +3,20 @@ number: 78
 status: Open
 formerly:
 - QUESTION-tmpakyaw
-title: 'If an agent is a population of interests, does acting as one require that the interests synchronize, or can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination?'
-version: 1
+title: 'If an agent''s interests need not synchronize to act as one, can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination, and what collective variable would show it?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed under ADR-049 at the ninth status review. Whether acting
+    as one requires synchronization is QUESTION-tmpihv9y, Answered by
+    CLAIM-261. This question keeps the differentiated-coordination
+    side and its test. Old title: If an agent is a population of
+    interests, does acting as one require that the interests
+    synchronize, or can differentiated interests keep distinct roles,
+    boundaries and pathways of influence within a stable or metastable
+    pattern of coordination?
 tags:
 - behavioral-integration
 - agency
@@ -18,14 +30,12 @@ summary: >-
   the owner on 2026-10-12: whether integration of an agent's interests is
   synchronization or coordination of differentiated parts. It refines
   [QUESTION-034](QUESTION-034.md) and bears on [CLAIM-162](../claims.d/CLAIM-162.md) and [CLAIM-163](../claims.d/CLAIM-163.md). Filed as advice.
-answered_by:
-- CLAIM-261
 refined_by:
 - QUESTION-077
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-163 THEORY-088 — Proposed; the claims and reading this question is set beside, open -->
 
-# QUESTION-078: If an agent is a population of interests, does acting as one require that the interests synchronize, or can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination?
+# QUESTION-078: If an agent's interests need not synchronize to act as one, can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination, and what collective variable would show it?
 
 ## The question
 

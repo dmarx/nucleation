@@ -1,10 +1,10 @@
 ---
 number: 436
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp85p0g
 title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while an exact threshold override does not, a threshold override with a discrimination threshold is a lexicographic semiorder whose choices can cycle and so is no ordering at all, and even where each instant has a currency, successive currencies need not share exchange rates'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -14,11 +14,25 @@ history:
     either reading; they are cited to say which trade-off form is
     Veit's and which ALARM's, and the body's citation is the link. The
     text is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-057; ADR-047's ruling that a checked
+    re-derivation meets a request for a proof). Parts 1, 2, 3, 3b and
+    4 re-derived step by step and found correct. Part 3a said "and the
+    ordering is discontinuous at c*", which fails when f takes its
+    least value all along c = c*; it now says when, with an example,
+    checked again by hand. The defeat condition covered only the
+    finite construction and the lexicographic argument; it was: "An
+    error in the finite construction or in the lexicographic argument
+    below, or a misstatement of Debreu's theorem's hypotheses." Status
+    Proposed to Active.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  An error in the finite construction or in the lexicographic argument
-  below, or a misstatement of Debreu's theorem's hypotheses.
+  An error in the finite construction, in the lexicographic argument, or in
+  the constructions of parts 3a and 3b below, or a misstatement of the
+  hypotheses of Eilenberg's or Debreu's theorem.
 tags:
 - mathematics
 - emotion-and-affect
@@ -90,8 +104,11 @@ with c, r ∈ [0, 1], a continuous trade-off f(c, r) with values in [0, 1]
 for costs at or below a threshold c*, and above it a ranking by cost
 alone, resource ignored. Then u(c, r) = f(c, r) for c ≤ c* and
 u(c, r) = −c for c > c* represents it: every option above the threshold
-is worse than every option below, and the ordering is discontinuous at
-c*. What has no representation is a *graded* override, in which the
+is worse than every option below. The ordering is discontinuous at c*
+unless f takes its least value at every point of the line c = c*; with
+f(c, r) = (1 + r − c)/2 and c* < 1, for instance, the lower contour set of
+(0, 0) contains every option above the threshold but not (c*, 1), which
+they approach. What has no representation is a *graded* override, in which the
 overriding dimension decides at every level across a continuum and
 another dimension still breaks its ties. Above the threshold, a ranking
 by cost with resource breaking ties at equal cost is the order of

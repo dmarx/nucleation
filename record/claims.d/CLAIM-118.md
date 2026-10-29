@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxrgp3
 title: 'Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -15,6 +15,17 @@ history:
     the case for at the level of the whole model, and THEORY-481
     (LIT-859, the outer training that produces the in-context learner).
     The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Relations corrected by the ninth status review (ADR-057, ADR-058).
+    THEORY-481 and THEORY-439 move from grounds to corroborated_by:
+    both were added in version 2 as evidence with the claim unchanged,
+    and the body cites them as a solved case and a measured case that
+    do not settle it. THEORY-169 leaves grounds: the body cites it as
+    evidence against, and its citation there is the link. LIT-859
+    leaves grounds, since THEORY-481 reads it. The Eq. 11 sentence now
+    carries THEORY-481's correction. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,11 +40,9 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
-grounds:
-- LIT-859
-- THEORY-169
-- THEORY-439
+corroborated_by:
 - THEORY-481
+- THEORY-439
 summary: >-
   A43's first point about the U17 proposal, developed at A44–A45 into
   three sources of change (evidence, transient computation, parameters).
@@ -84,9 +93,10 @@ The evidence is mixed:
 Mainali and Teixeira ([LIT-859](../literature.d/LIT-859.md), read in [NOTE-658](../notes.d/NOTE-658.md)) solve the training of one
 linear-attention layer on in-context regression exactly, when tasks and
 inputs share an eigenbasis. Training ends at a known fixed point: a
-predictor that applies a preconditioner, the inverse of the *training*
-input covariance corrected for context length, to each context's own
-empirical covariance (their Eq. 11). Each eigenmode of the training
+predictor that applies a preconditioner, the inverse of the *training* input covariance (exactly so in the
+long-context limit; the paper's finite-context correction holds as stated
+only for isotropic inputs, [THEORY-481](../theory.d/THEORY-481.md)), to each context's own empirical
+covariance (their Eq. 11). In the long-context limit each eigenmode of the training
 covariance is learned on its own slow, logistic timescale.
 
 That bears on the "against" item above. [THEORY-169](../theory.d/THEORY-169.md) makes conditioning one
@@ -105,3 +115,14 @@ and the paper's evidence for non-linear transformers rests on timing
 coincidences ([NOTE-658](../notes.d/NOTE-658.md)). And the separation it shows is between the
 context and the trained interpreter, not between conditioning and later
 adaptation at test time.
+
+## Note of 2026-10-29: what holds it back
+
+[THEORY-169](../theory.d/THEORY-169.md), Active, holds that for unnormalized causal linear attention
+conditioning and per-sequence weight updates "differ in what state is kept,
+not in kind". So in those layers the title's "adaptation changes the
+decoder" names the same computation as conditioning. The section above
+answers this only for the trained interpreter against the context, and says
+so; nothing in the record answers it for adaptation at test time. The claim
+needs that answer, or a title that tells context from interpreter by what is
+carried across contexts rather than by mechanism, as [CLAIM-074](CLAIM-074.md) now does.

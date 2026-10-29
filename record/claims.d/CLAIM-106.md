@@ -45,7 +45,6 @@ supports:
 - CLAIM-056
 - CLAIM-101
 - CLAIM-128
-- CLAIM-244
 - CLAIM-246
 objected_by:
 - CLAIM-218

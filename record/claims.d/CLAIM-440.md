@@ -3,8 +3,8 @@ number: 440
 status: Proposed
 formerly:
 - CLAIM-tmpz8lli
-title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation''s decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course'
-version: 3
+title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation''s decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course'
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -19,12 +19,32 @@ history:
     status review (ADR-058): it is cited as an existing description of
     the claim's first part, and the claim does not stand on it. The
     claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-057, ADR-059). CLAIM-449 conceded and
+    written in: the title, consequence 1 and the first defeater named
+    frustration where TERM-076's nonvacuity condition, corrected on
+    the same ground in the eighth review, names contest. They had said
+    "so valence presupposes frustration"; "No frustration, no valence.
+    Potential needs something to prevail over. Where the perspectives
+    never conflict, the compatibility complex of CLAIM-347 has no
+    minimal non-faces and no ranking wins anything"; "It makes valence
+    a consequence of the record's frustration line (CLAIM-347,
+    CLAIM-368), not an addition to it"; and "a system whose
+    perspectives never conflict (a trivial compatibility complex)".
+    Consequence 1 now names contest and says what the account assigns
+    the absorbed writer. CLAIM-448 conceded and written in: part 3
+    reads a potential as the organization's only on a record shown to
+    admit the contests that bear on it. CLAIM-468 added to
+    objected_by, its missing converse; TERM-094 added to uses, as on
+    CLAIM-039. Status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   Valenced states, identified by marks independent of this account, in a
-  system whose perspectives never conflict (a trivial compatibility
-  complex); or valence whose sign dissociates from progress against a
+  system with no contested pair in its record of wins, whatever its
+  compatibility complex; or valence whose sign dissociates from progress against a
   reference course along the ordering that wins the system's conflicts; or
   intensity that does not track control precedence, as it would not
   if positive affect lowers a goal's priority (LIT-1445, unread); or ambivalent and
@@ -43,6 +63,7 @@ uses:
 - TERM-077
 - TERM-078
 - TERM-060
+- TERM-094
 rests_on:
 - CLAIM-347
 - CLAIM-283
@@ -85,6 +106,7 @@ objected_by:
 - CLAIM-448
 - CLAIM-449
 - CLAIM-441
+- CLAIM-468
 ---
 <!-- inactive-ok-file: CLAIM-437 — Proposed; the owner's relativizing claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-433 — Proposed; the reply filed with this batch, cited as open -->
@@ -93,7 +115,7 @@ objected_by:
 <!-- inactive-ok-file: LIT-1441 LIT-1453 LIT-1456 LIT-1445 — Unavailable or Deferred, unread; the papers that state the accounts read here through later work by the same authors, and the one to read next -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-347 CLAIM-355 CLAIM-368 THEORY-055 THEORY-056 THEORY-101 TERM-076 — Proposed; the claims, readings and term this claim rests on or is stated in, cited as open; it is Proposed with them -->
 
-# CLAIM-440: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
+# CLAIM-440: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
 
 ## The claim
 
@@ -149,7 +171,15 @@ parts 1 and 3). The Hodge decomposition measures something else, the
 cardinal inconsistency of margins, and its gradient can reverse what the
 wins settle (part 4). A record of wins fixes a class of orderings that
 fit it, not one (part 7), so that the potential is of this kind is
-established by intervention, not read off.
+established by intervention, not read off. The record of wins is
+also only the record of the contests admitted to it. Where a legibility
+regime selects which contests are admitted or recorded, an acyclic record,
+even a persistent potential, can be the product of that selection, so a
+coherent record is not by itself evidence that the perspectives are
+integrated ([CLAIM-448](CLAIM-448.md)). A potential is read as the organization's, and its
+valence with it, only on a record shown to admit the contests that bear on
+it, as [CLAIM-403](CLAIM-403.md)'s ladder of access, recognition, credibility and uptake
+would require; otherwise it is the valence of the admitted negotiation.
 
 **What is not new here.** The dynamics of an ordering coming to prevail are Lewis's ([LIT-1455](../literature.d/LIT-1455.md),
 [NOTE-1119](../notes.d/NOTE-1119.md)): an emotional interpretation must "take over" the system,
@@ -190,19 +220,27 @@ sign.
 
 ## What follows
 
-1. **No frustration, no valence.** Potential needs something to prevail over.
-   Where the perspectives never conflict, the compatibility complex of
-   [CLAIM-347](CLAIM-347.md) has no minimal non-faces and no ranking wins anything. A
-   thermostat, one loop with one ranking, has no valence on this account.
-   This is the analogue of Frijda's "In the absence of concern
-   pertinence, there is no motive" ([THEORY-055](../theory.d/THEORY-055.md)), and it does the work of
-   Veit's restriction to animals of high pathological complexity, without
-   a threshold. It makes valence a consequence of the record's frustration
-   line ([CLAIM-347](CLAIM-347.md), [CLAIM-368](CLAIM-368.md)), not an addition to it. It is not
-   a consequence of existence alone, since a negotiation with no
-   conflicts trivially has every ordering as its potential
-   ([CLAIM-434](CLAIM-434.md), part 8); [TERM-076](../terms.d/TERM-076.md) makes it a condition of the
-   definition, and valence is undefined there, not zero.
+1. **No contest, no valence.** Potential needs something to prevail over:
+   contested pairs in the record of wins, where perspectives rank a pair
+   differently and one prevails. Where no pair is contested, no ranking
+   wins anything, and every ordering is trivially the negotiation's
+   potential ([CLAIM-434](CLAIM-434.md), part 8), so valence is not a consequence of
+   existence alone. [TERM-076](../terms.d/TERM-076.md) makes this a condition of the definition, and
+   valence is undefined there, not zero. A thermostat, one loop with one
+   ranking, has no valence on this account. This is the analogue of
+   Frijda's "In the absence of concern pertinence, there is no motive"
+   ([THEORY-055](../theory.d/THEORY-055.md)), and it does the work of Veit's restriction to animals of
+   high pathological complexity, without a threshold. What the condition
+   needs is contest, not frustration ([TERM-060](../terms.d/TERM-060.md)): rankings can contest
+   while every demand stays jointly satisfiable, the contest being over
+   which satisfying outcome, and demands can be jointly infeasible, a
+   non-trivial compatibility complex ([CLAIM-347](CLAIM-347.md)), before any contest is
+   recorded ([CLAIM-449](CLAIM-449.md)). So valence is not a consequence of the record's
+   frustration line ([CLAIM-347](CLAIM-347.md), [CLAIM-368](CLAIM-368.md)); the two are about different
+   relations. The absorbed writer ([CASE-051](../cases.d/CASE-051.md)), with nothing contested, has
+   no goal-conduciveness valence while absorbed: the account leaves it
+   undefined. Whether the writing is positive during the episode, and if
+   so at which level of valence, is [CLAIM-441](CLAIM-441.md)'s case, and open.
 2. **Sign is progress against a reference course, and needs only the
    ordering.** Positive when the system runs ahead of where it was
    expected to be on the potential ranking, negative when behind, neutral
@@ -300,6 +338,9 @@ is of goal-conduciveness valence, not hedonic valence.
 
 ## What it does not say
 
+- **That a coherent record shows an integrated organization.** A potential
+  describes the relation of wins it is computed on, and what was not
+  admitted is not in it ([CLAIM-448](CLAIM-448.md)).
 - **That the regime is felt.** The claim is functional. Veit identifies
   felt valence with the currency ([THEORY-101](../theory.d/THEORY-101.md)); adopting that identity for
   this regime is a further step the record has not taken, and the
@@ -342,3 +383,13 @@ negative valence a fall in the precision of the preference ordering and
 Carver is reported to make positive affect lower a goal's priority, is
 filed as [CLAIM-468](CLAIM-468.md), a counter, Proposed, beside [CLAIM-438](CLAIM-438.md). The clause
 stays open for both signs, as it says. The claim is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+[CLAIM-441](CLAIM-441.md)'s flow case is unanswered: on [CLAIM-162](CLAIM-162.md)'s reading nothing in flow
+is contested, so consequence 1 leaves flow's valence undefined while flow is
+reported as positive, and which exit holds turns on the unread flow
+literature ([LIT-914](../literature.d/LIT-914.md)). Clause 3 is open for both signs by the claim's own
+account, which is [CLAIM-468](CLAIM-468.md), and waits on Carver 2003 ([LIT-1445](../literature.d/LIT-1445.md)). And the
+premise [CLAIM-039](CLAIM-039.md) is held by [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a
+felt state, which no claim in the record answers.

@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp0jfuz
 title: 'Frijda''s emotion and the potential account''s system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective''s valence is read on its claims, and the system''s valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system''s valence and leaves the perspectives'' emotions and valences as they were'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Ninth status review (ADR-057, ADR-058). THEORY-055 left grounds
+    and TERM-094 joined uses: the claim needs Frijda's concept of
+    action readiness claiming control precedence, not the account's
+    thesis that appraisal of concern pertinence elicits emotion. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,8 +40,7 @@ complements:
 uses:
 - TERM-076
 - TERM-017
-grounds:
-- THEORY-055
+- TERM-094
 summary: >-
   The assistant's, from a comparison of the record's will and affect
   lines made at the owner's request on 2026-10-23 and filed at the

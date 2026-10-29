@@ -23,7 +23,15 @@ promote_when: >-
   from the advantages of felt over unfelt pain cannot settle it, because
   they assume that the pain is felt.
 title: 'A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-060). QUESTION-059 moves from answers
+    to bears_on: this reading does not say whether a state meeting a
+    functional characterization of affect must be felt, and the
+    question's body gives its limit. The reading is unchanged.
 tags:
 - consciousness
 - emotion-and-affect
@@ -36,6 +44,8 @@ extends:
 - THEORY-045
 rivals:
 - THEORY-101
+bears_on:
+- QUESTION-059
 summary: >-
   Newen & Montemayor's ALARM theory (2025), [LIT-626](../literature.d/LIT-626.md): basic arousal,
   a sensitivity to pain, pleasure and other basic affect without focused
@@ -48,8 +58,6 @@ summary: >-
   needed. Both papers argue from cited evidence and offer no new data,
   and neither has a marker that tells a felt alarm from an unfelt one.
   The function clause rests on ALARM alone, and Veit's account rivals it.
-answers:
-- QUESTION-059
 supports:
 - CLAIM-435
 ---

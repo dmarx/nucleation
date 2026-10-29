@@ -1,10 +1,10 @@
 ---
 number: 159
-status: Proposed
+status: Active
 formerly:
 - CLAIM-159
 title: 'The record''s rival accounts of will are claims about drive profiles in different cells: Ainslie''s interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -14,6 +14,21 @@ history:
     expected-value-of-control account in a cell by what it proposes, a
     dedicated specifier, and needs that the paper proposes it, not
     that it is true. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Ninth status review (ADR-057, ADR-058). THEORY-067 replaced in
+    grounds by THEORY-tmpuy1kb, the held reading of what Ainslie's
+    précis proposes: the claim places the account by what it proposes,
+    interests with no governor above them, as it places the expected
+    value of control by THEORY-1110, which the body now names too.
+    Status Proposed to Active, on the owner's assent in the pull
+    request: every premise is held, no objection stands against it,
+    and nothing in the record meets its defeat condition. The note of
+    2026-10-28 held it on a comparison of predicted drive profiles,
+    which is the defeat condition's test and not a premise, and on the
+    précis not choosing between aggregate and emergent, which the
+    title's disjunction states. The title is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,8 +47,8 @@ uses:
 - TERM-023
 - TERM-048
 grounds:
-- THEORY-067
 - THEORY-1110
+- THEORY-tmpuy1kb
 complements:
 - CLAIM-027
 summary: >-
@@ -62,12 +77,12 @@ bears_on:
 Read through [TERM-051](../terms.d/TERM-051.md), with the person as parts (interests or
 regimes) and a higher level (resolve, control, the will):
 
-- **[THEORY-067](../theory.d/THEORY-067.md) (Ainslie).** "Interests ... are not options chosen by an
+- **[THEORY-tmpuy1kb](../theory.d/THEORY-tmpuy1kb.md) (Ainslie).** "Interests ... are not options chosen by an
   overarching ego", and the person is "just the resultant". That is the
   aggregate kind. If resolve, the recursive staking of future choices, is
   a property only the bargaining process has, it is the emergent kind,
   with decoupling. The précis does not say which.
-- **[THEORY-070](../theory.d/THEORY-070.md) (expected value of control).** A dedicated system computes
+- **[THEORY-1110](../theory.d/THEORY-1110.md) (expected value of control).** A dedicated system computes
   how much control to exert and specifies it to implementing structures.
   That is the top-down kind, with a designated driver.
 - **[CLAIM-027](CLAIM-027.md) and [TERM-023](../terms.d/TERM-023.md) (will-organization).** "The maintained
