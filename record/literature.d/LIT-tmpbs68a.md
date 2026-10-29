@@ -1,7 +1,13 @@
 ---
-status: Deferred
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpdwqe2); worth reading for the exact
+  statement of what a global-invariance alignment treats as arbitrary,
+  one transformation from a stated class acting on the whole space, and
+  for Lemma 4.3, which shows that for one class this is the same
+  problem as Gromov–Wasserstein (THEORY-tmpai3ho).
 title: 'Towards Optimal Transport with Global Invariances'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -9,9 +15,19 @@ history:
     Filed, not read, from A6 of the exchange "Paper assessment"
     (2026-10-28 to 29). `published:` is arXiv v1 2018-06-25 (AISTATS
     2019, PMLR 89) (ADR-002).
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full from the arXiv preprint 1806.09277v2 (26 February
+    2019, the AISTATS camera-ready text with supplement), 13 pp., in
+    NOTE-tmpdwqe2; status Deferred → Active. The citation stands. The
+    summary is rewritten from the text. Tagged anthology-candidate
+    (ADR-005): it carries instructions for ML practice (an annealing
+    schedule, a two-stage scheme for large vocabularies).
 tags:
 - mathematics
 - representation-learning
+- anthology-candidate
 date: '2026-10-29'
 published: '2018-06-25'
 arxiv: '1806.09277'
@@ -23,20 +39,24 @@ keywords:
 - 'word embeddings'
 implementations: []
 summary: >-
-  Alvarez-Melis, Jegelka & Jaakkola (2018). Optimal transport in the
-  presence of a latent global transformation, posed as a joint
-  optimization over couplings and over transformations from a chosen
-  class of invariances, such as rotations of embeddings.
+  Alvarez-Melis, Jegelka & Jaakkola (2019). Optimal transport between
+  two point sets whose spaces differ by one unknown global linear map,
+  drawn from a Schatten ℓp ball, posed as a joint optimisation over the
+  coupling and the map. When the maps preserve angles or the target is
+  whitened, the map can be eliminated in closed form: orthogonal maps
+  leave the nuclear norm of the transported cross-covariance XΓYᵀ to
+  maximise, and Frobenius-sphere maps its Frobenius norm, which is
+  exactly Gromov–Wasserstein with cosine similarity. Alternating SVD and
+  annealed Sinkhorn steps solve it without adversarial initialisation;
+  on word translation it is level with GW and behind self-learning.
 ---
 
 # LIT-tmpbs68a: Towards Optimal Transport with Global Invariances
 
 Alvarez-Melis, D., Jegelka, S., & Jaakkola, T. S. (2019). Towards optimal transport with global invariances. *AISTATS 2019*, PMLR 89, 1870–1879.
 
-Not read. The summary is drawn from the abstract and from the exchange's
-description, which the lookup of 2026-10-29 checked. A reading should check
-it first.
+Read in full in NOTE-tmpdwqe2.
 
 ## Why this is here
 
-A6's foundational distinction for [QUESTION-130](../questions.d/QUESTION-130.md): GW treats the registration of whole metric spaces as arbitrary, this treats one global transformation as arbitrary, and lattice gauge theory ([LIT-tmpr8qf7](LIT-tmpr8qf7.md)) a separate frame at every node. Keeping the three apart stops an arbitrary orientation being read as path dependence.
+A6's foundational distinction for [QUESTION-130](../questions.d/QUESTION-130.md): GW treats the registration of whole metric spaces as arbitrary, this treats one global transformation as arbitrary, and lattice gauge theory ([LIT-tmpr8qf7](LIT-tmpr8qf7.md)) a separate frame at every node. Keeping the three apart stops an arbitrary orientation being read as path dependence. The reading confirms the middle term: the paper assumes "an unknown function f in a pre-specified class F which characterizes the global correspondence between spaces" (p. 4), one map for every point. It also shows that the first two terms meet: for maps on a Frobenius sphere, with whitened target vectors of equal norm, this problem is GW with cosine similarity (Lemma 4.3; THEORY-tmpai3ho). Neither has a frame per node, so neither can carry holonomy.

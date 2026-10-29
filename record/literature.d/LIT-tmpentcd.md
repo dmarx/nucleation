@@ -1,7 +1,14 @@
 ---
-status: Deferred
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmp1ftl1); worth reading as a case where
+  the arbitrariness between two learned representations is not a group
+  action at all: embeddings of one hierarchy from different seeds differ
+  non-isometrically, and only a non-linear registration recovers part of
+  the correspondence (THEORY-tmpd02kg). Its matching uses a symmetric
+  distance and does not preserve the hierarchy's direction.
 title: 'Unsupervised Hierarchy Matching with Optimal Transport over Hyperbolic Spaces'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -9,9 +16,18 @@ history:
     Filed, not read, from A6 of the exchange "Paper assessment"
     (2026-10-28 to 29). `published:` is arXiv v1 2019-11-06 (AISTATS
     2020, PMLR 108) (ADR-002).
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full from the arXiv preprint 1911.02536v2 (8 May 2020), 14
+    pp. with appendices, in NOTE-tmp1ftl1; status Deferred → Active.
+    The citation stands. The summary is rewritten from the text. Tagged
+    anthology-candidate (ADR-005): it carries instructions for ML
+    practice (pretraining schemes, optimiser and annealing choices).
 tags:
 - mathematics
 - representation-learning
+- anthology-candidate
 date: '2026-10-29'
 published: '2019-11-06'
 arxiv: '1911.02536'
@@ -23,20 +39,24 @@ keywords:
 - 'ontology matching'
 implementations: []
 summary: >-
-  Alvarez-Melis, Mroueh & Jaakkola (2019). Infers correspondences
-  between two hierarchies, such as ontologies, from vector
-  representations alone, by optimal transport over hyperbolic spaces,
-  after showing the limits of Euclidean alignment there.
+  Alvarez-Melis, Mroueh & Jaakkola (2020). Matches two hierarchies, such
+  as WordNets in two languages or two ontologies, from their Poincaré
+  embeddings alone. Embeddings of one hierarchy from different seeds
+  place branches differently and change pairwise distances, so
+  Euclidean aligners and hyperbolic OT with an orthogonal map fail (P@10
+  at most 11%). Registering one space with a hyperbolic neural network
+  trained through a Sinkhorn divergence reaches P@10 of 38–60% across
+  languages, but P@1 of only 22% when a hierarchy is matched to a second
+  embedding of itself, and fails without a pretraining step. GW is
+  dismissed, not tested.
 ---
 
 # LIT-tmpentcd: Unsupervised Hierarchy Matching with Optimal Transport over Hyperbolic Spaces
 
 Alvarez-Melis, D., Mroueh, Y., & Jaakkola, T. S. (2020). Unsupervised hierarchy matching with optimal transport over hyperbolic spaces. *AISTATS 2020*, PMLR 108, 1606–1617.
 
-Not read. The summary is drawn from the abstract and from the exchange's
-description, which the lookup of 2026-10-29 checked. A reading should check
-it first.
+Read in full in NOTE-tmp1ftl1.
 
 ## Why this is here
 
-A6's point: entailment, authority and obligation are directed and hierarchical, and symmetric distances do not carry them; the geometry should fit the relations to be preserved. Hyperbolic distance is still symmetric, so it is a partial answer. It bears on normative transport ([QUESTION-130](../questions.d/QUESTION-130.md)).
+A6's point: entailment, authority and obligation are directed and hierarchical, and symmetric distances do not carry them; the geometry should fit the relations to be preserved. Hyperbolic distance is still symmetric, so it is a partial answer. It bears on normative transport ([QUESTION-130](../questions.d/QUESTION-130.md)). The reading bears this out and narrows it. The hierarchy's direction enters only through the embedding; the transport cost is the symmetric hyperbolic distance, and the registration is free to break ancestry, so nothing preserves the order on matched items. The paper also does not fit the three-way distinction of LIT-tmpbs68a: what it registers is a seed-dependent, non-isometric warp, absorbed by one non-linear map of the whole space, which has no frames and no holonomy.
