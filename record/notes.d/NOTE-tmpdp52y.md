@@ -66,7 +66,7 @@ and knowledge can do their work.
 - **Random effects**, inverse-variance weights, Pearson r; then a
   repeat on homogeneous subsets formed by dropping outliers until Q is
   non-significant.
-- **The file** is the 515 studies of the 2006 meta-analysis (LIT-1413)
+- **The file** is the 515 studies of the 2006 meta-analysis ([LIT-1413](../literature.d/LIT-1413.md))
   plus studies through June 2005 that measured a mediator; same
   inclusion rules, with the added requirement that the mediator's
   relations be reported.
@@ -133,28 +133,28 @@ homogeneous subsets obtained with DSTAT by removing extreme outliers.
 ## Connections
 
 The mediators are three of the processes in Pettigrew's 1998 review
-(LIT-1408): learning about the outgroup, and the "affective ties" under
+([LIT-1408](../literature.d/LIT-1408.md)): learning about the outgroup, and the "affective ties" under
 which that review put both anxiety and empathy. Ingroup reappraisal,
 the review's fourth process, appears here only in the list of mediators
 not tested ("broadened views of the ingroup"). The file of studies is
-the 2006 meta-analysis's (LIT-1413). The empathy line is Batson's: the
+the 2006 meta-analysis's ([LIT-1413](../literature.d/LIT-1413.md)). The empathy line is Batson's: the
 1997 study it cites, on empathy for a stigmatized member improving
 attitudes to the group, is not registered; the record holds other
-Batson work (LIT-1700, LIT-1728, LIT-1783).
+Batson work ([LIT-1700](../literature.d/LIT-1700.md), [LIT-1728](../literature.d/LIT-1728.md), [LIT-1783](../literature.d/LIT-1783.md)).
 
 ## Bearing on the record
 
-- **CLAIM-275**: the paper supports contact acting on feeling before
+- **[CLAIM-275](../claims.d/CLAIM-275.md)**: the paper supports contact acting on feeling before
   belief: anxiety reduction and empathy carry more of the association
   than knowledge does. But its mediation is cross-sectional and
   statistical, and the sequence it suggests (anxiety first) is
   proposed, not shown.
-- **CLAIM-417** (perspectives revised by being made one of several):
+- **[CLAIM-417](../claims.d/CLAIM-417.md)** (perspectives revised by being made one of several):
   the perspective-taking leg is the nearest the paper comes, and it
   could not separate perspective taking from empathy. Nothing here tests
   a change in how one's own view is held; that is the 1998 review's
   ingroup reappraisal, which this paper does not test.
-- **LIT-1405's own "why this is here"** is right that knowledge mediates,
+- **[LIT-1405](../literature.d/LIT-1405.md)'s own "why this is here"** is right that knowledge mediates,
   only less strongly. The paper's words are "the mediational value of
   increased knowledge appears less strong", and in the text "simply
   knowing more about the outgroup typically does not have a major

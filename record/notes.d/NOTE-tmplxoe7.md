@@ -145,17 +145,17 @@ stops it working.
 - **Structured program**: a contact situation the researchers designed
   to approximate Allport's optimal conditions; the paper's global test of
   them.
-- **Facilitating, not essential**: Pettigrew's 1998 distinction (LIT-1408),
+- **Facilitating, not essential**: Pettigrew's 1998 distinction ([LIT-1408](../literature.d/LIT-1408.md)),
   here given meta-analytic form.
 
 ## Connections
 
-It tests the reformulation in Pettigrew's 1998 review (LIT-1408): the
+It tests the reformulation in Pettigrew's 1998 review ([LIT-1408](../literature.d/LIT-1408.md)): the
 causal sequence, the facilitating-not-essential distinction and the three
 kinds of generalization are that review's problems, and friendship as a
 contact measure (−.246 over 154 tests) its "friendship potential". Its
 file of 515 studies is the base the authors' 2008 meta-analysis of
-mediators extends (LIT-1405). Paluck, Green and Green (LIT-1420) re-run
+mediators extends ([LIT-1405](../literature.d/LIT-1405.md)). Paluck, Green and Green ([LIT-1420](../literature.d/LIT-1420.md)) re-run
 the question on the 27 randomized studies with delayed outcomes; their
 finding that ethnic and racial targets show weaker effects matches this
 paper's own Table 8, where the experimental advantage disappears for
@@ -163,7 +163,7 @@ racial and ethnic samples.
 
 ## Bearing on the record
 
-- **CLAIM-275** (an intervention can come before the interpretation it
+- **[CLAIM-275](../claims.d/CLAIM-275.md)** (an intervention can come before the interpretation it
   makes available). The meta-analysis is the strongest support the
   record holds for contact changing attitudes, but most of its samples
   are cross-sectional surveys of reported contact, which cannot order the
@@ -171,10 +171,10 @@ racial and ethnic samples.
   no-choice samples; both give larger effects. The authors' own
   mechanism, mere exposure and anxiety reduction, is an encounter acting
   before any revised view, which fits the claim.
-- **CLAIM-297** and **CLAIM-330**: nothing here bears on performance-
+- **[CLAIM-297](../claims.d/CLAIM-297.md)** and **[CLAIM-330](../claims.d/CLAIM-330.md)**: nothing here bears on performance-
   weighted authority or on the linearized model; the coupling the
   exchange drew is an analogy the paper neither makes nor tests.
-- **LIT-1413's own "why this is here"** said the exchange's three
+- **[LIT-1413](../literature.d/LIT-1413.md)'s own "why this is here"** said the exchange's three
   figures agree with the abstract. They agree with the paper. What the
   exchange omitted, and the abstract softens, is the Vevea–Hedges result
   and the absence of a rigor gradient for racial and ethnic targets.
@@ -205,7 +205,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 ## Open questions
 
 - What do the randomized, delayed-outcome studies give for adults'
-  racial and ethnic prejudice? Paluck, Green and Green (LIT-1420) found
+  racial and ethnic prejudice? Paluck, Green and Green ([LIT-1420](../literature.d/LIT-1420.md)) found
   none had been run.
 - Which negative factors stop contact from reducing prejudice? The
   authors name the question and do not answer it.

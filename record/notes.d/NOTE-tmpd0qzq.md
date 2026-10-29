@@ -155,14 +155,14 @@ random effect.
 
 The learning-as-process tradition it joins is Argyris and Schön's
 (1978) detection and correction of error and Dewey's inquiry; Argyris's
-later statement of double-loop learning is LIT-745 (and LIT-739). The
+later statement of double-loop learning is [LIT-745](../literature.d/LIT-745.md) (and [LIT-739](../literature.d/LIT-739.md)). The
 structural side is Hackman's model of team effectiveness. Schein and
 Bennis (1965) are the source of "psychological safety" for individuals.
 Janis's groupthink is the foil for cohesiveness.
 
 ## Bearing on the record
 
-- **CLAIM-359** cites it as complementary: robustness to compromise
+- **[CLAIM-359](../claims.d/CLAIM-359.md)** cites it as complementary: robustness to compromise
   depends on processes that protect dissent and audit. The paper
   supports a narrower point: in one company's work teams, members'
   belief that speaking up will not be punished goes with the team's
@@ -172,7 +172,7 @@ Janis's groupthink is the foil for cohesiveness.
   case of NPD 2, whose members did not question a goal "for fear of
   sanction by management", is the nearest it comes to the claim's
   restriction of disagreement.
-- **CASE-108**'s "honestly dissenting" specialists are the role this
+- **[CASE-108](../cases.d/CASE-108.md)**'s "honestly dissenting" specialists are the role this
   paper's construct protects; the paper gives no evidence on what
   protecting them costs.
 
