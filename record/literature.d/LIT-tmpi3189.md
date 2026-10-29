@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Perceived responsibility towards future generations and environmental concern: Convergent evidence across multiple outcomes in a large, nationally representative sample'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A measure of felt obligation to the future, beside legacy motivation (Zaval et al., LIT-tmpetcju), from the same research group. For QUESTION-tmpmx9ha.
+A measure of felt obligation to the future, beside legacy motivation (Zaval et al., [LIT-tmpetcju](LIT-tmpetcju.md)), from the same research group. For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).

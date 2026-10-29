@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'The Psychology of Existential Risk: Moral Judgments about Human Extinction'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Evidence on how far ordinary concern reaches into the future, and what makes it reach further. It bears on Scheffler's collective afterlife (LIT-tmpl4qml) and on the owner's thesis (CLAIM-tmpjylq8). For QUESTION-tmpmx9ha.
+Evidence on how far ordinary concern reaches into the future, and what makes it reach further. It bears on Scheffler's collective afterlife ([LIT-tmpl4qml](LIT-tmpl4qml.md)) and on the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)). For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).

@@ -10,7 +10,7 @@ date: '2026-10-29'
 line: distributed-agency
 summary: >-
   The owner's extension of 2026-10-29 of the legacy line
-  (QUESTION-tmpruhu4) to obligations toward the future, "e.g.
+  ([QUESTION-tmpruhu4](QUESTION-tmpruhu4.md)) to obligations toward the future, "e.g.
   longtermism". Longtermism holds that the far future's size makes its
   welfare dominate present choices, on an impersonal view. Person-affecting
   views owe nothing to merely possible people, and the non-identity
@@ -25,38 +25,38 @@ summary: >-
 
 ## Why it is a question
 
-The legacy question (QUESTION-tmpruhu4) asks why people care about what
+The legacy question ([QUESTION-tmpruhu4](QUESTION-tmpruhu4.md)) asks why people care about what
 comes after them. This one asks what they owe it. The two meet in the
-owner's thesis (CLAIM-tmpjylq8): if concern for far-future people is owed
+owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)): if concern for far-future people is owed
 and acted on, and those people can never be part of anyone's extended self,
 the thesis has its hardest case.
 
 Three grounds of obligation compete.
 
-- **An impersonal good.** Longtermism (Greaves and MacAskill, LIT-tmp1we1q;
-  MacAskill, LIT-tmpk6b4i) holds that the expected size of the future makes
+- **An impersonal good.** Longtermism (Greaves and MacAskill, [LIT-tmp1we1q](../literature.d/LIT-tmp1we1q.md);
+  MacAskill, [LIT-tmpk6b4i](../literature.d/LIT-tmpk6b4i.md)) holds that the expected size of the future makes
   its welfare dominate the most important present choices. Bostrom
-  (LIT-tmph7mkx, LIT-tmpr74qy) and Ord (LIT-tmp0ocqn) make reducing
-  existential risk the priority. Ramsey (LIT-tmpggdgs) refused to discount
+  ([LIT-tmph7mkx](../literature.d/LIT-tmph7mkx.md), [LIT-tmpr74qy](../literature.d/LIT-tmpr74qy.md)) and Ord ([LIT-tmp0ocqn](../literature.d/LIT-tmp0ocqn.md)) make reducing
+  existential risk the priority. Ramsey ([LIT-tmpggdgs](../literature.d/LIT-tmpggdgs.md)) refused to discount
   the future merely for being later. On these views what is owed is owed
   to the good, not to anyone's self. The thesis has nothing to say about
   them as views; it bears only on whether anyone is moved by them.
 - **The good of future people.** Person-affecting views (Narveson,
-  LIT-tmpoc3e4) owe nothing to merely possible people. The non-identity
-  problem (Parfit, LIT-tmpnjafv; LIT-469) makes even harms to actual future
+  [LIT-tmpoc3e4](../literature.d/LIT-tmpoc3e4.md)) owe nothing to merely possible people. The non-identity
+  problem (Parfit, [LIT-tmpnjafv](../literature.d/LIT-tmpnjafv.md); [LIT-469](../literature.d/LIT-469.md)) makes even harms to actual future
   people hard to state, because different choices bring different people
-  into existence. The SEP survey (Meyer, LIT-tmpll0u1) maps the positions.
-- **What the living value.** Scheffler (LIT-tmpbj0k1; LIT-tmpl4qml) grounds
+  into existence. The SEP survey (Meyer, [LIT-tmpll0u1](../literature.d/LIT-tmpll0u1.md)) maps the positions.
+- **What the living value.** Scheffler ([LIT-tmpbj0k1](../literature.d/LIT-tmpbj0k1.md); [LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md)) grounds
   concern for future generations partly in our own valuing, attachments
   and stake in the human story going on. That is the ground nearest the
   thesis: the future matters because of what it means to us.
 
 Two further lines keep it open.
 
-- **Whether longtermism can guide action.** Tarsney (LIT-tmpklw8s) on how
-  fast our predictable influence decays, and Thorstad (LIT-tmp37kk5) on
+- **Whether longtermism can guide action.** Tarsney ([LIT-tmpklw8s](../literature.d/LIT-tmpklw8s.md)) on how
+  fast our predictable influence decays, and Thorstad ([LIT-tmp37kk5](../literature.d/LIT-tmp37kk5.md)) on
   whether high existential risk lowers the value of reducing it.
-- **Gardiner's storm** (LIT-tmp12vk2). Each generation gains from deferring
+- **Gardiner's storm** ([LIT-tmp12vk2](../literature.d/LIT-tmp12vk2.md)). Each generation gains from deferring
   costs to the next, which cannot retaliate. Self-interest across
   generations points one way and obligation the other. That is the
   thesis's question in its sharpest practical form.
@@ -69,12 +69,12 @@ Two further lines keep it open.
 - **On the psychology** (the thesis's part):
   - **How far concern reaches.** Lay judgement does not treat extinction as
     uniquely bad unless the lost future is made salient (Schubert et al.,
-    LIT-tmpk72ci). It counts adding happy people as good, against the
-    person-affecting view (Caviola et al., LIT-tmpka2bf).
+    [LIT-tmpk72ci](../literature.d/LIT-tmpk72ci.md)). It counts adding happy people as good, against the
+    person-affecting view (Caviola et al., [LIT-tmpka2bf](../literature.d/LIT-tmpka2bf.md)).
   - **What predicts it.** Felt responsibility to future generations
     predicts pro-environmental concern (Syropoulos and Markowitz,
-    LIT-tmpi3189), as legacy motivation does (Wade-Benzoni, LIT-tmpcpdlk;
-    Zaval et al., LIT-tmpetcju).
+    [LIT-tmpi3189](../literature.d/LIT-tmpi3189.md)), as legacy motivation does (Wade-Benzoni, [LIT-tmpcpdlk](../literature.d/LIT-tmpcpdlk.md);
+    Zaval et al., [LIT-tmpetcju](../literature.d/LIT-tmpetcju.md)).
   - **The thesis's test.** Whether such concern varies with a measured
     continuity between the self and the future, apart from caring. That is
-    CLAIM-tmprudek's test applied across generations.
+    [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s test applied across generations.

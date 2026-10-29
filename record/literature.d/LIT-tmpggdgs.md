@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'A Mathematical Theory of Saving'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The classic refusal to count the future for less merely because it is later, which longtermism inherits. For QUESTION-tmpmx9ha.
+The classic refusal to count the future for less merely because it is later, which longtermism inherits. For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).
