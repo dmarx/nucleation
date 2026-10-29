@@ -1,0 +1,196 @@
+---
+status: Read
+paper: LIT-1214
+title: 'Akkoyunlu, Ekanadham and Huber — Some constraints and tradeoffs in the design of network communications'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from a scan of the SOSP '75 pages posted
+    on the TU Wien Distributed Systems Group's course-materials page for
+    Advanced Distributed Systems
+    (https://dsg.tuwien.ac.at/linksites/teaching/courses/AdvancedDistributedSystems/download/1975_Akkoyunlu,%20Ekanadham,%20Huber_Some%20constraints%20and%20tradeoffs%20in%20the%20design%20of%20network%20communications.pdf,
+    8 pages), read under the owner's ruling of 2026-10-29 that course-page
+    copies count. Checked that it is the work: title, the three authors
+    (SUNY Stony Brook), the NSF grant footnote, and printed page numbers
+    67–74 matching Crossref. The scan's OCR was read with pdftotext and
+    checked against the layout text where it garbled. Read: the abstract,
+    §§1–5, the Appendix and the 15 references. Figures 1–9 are box
+    diagrams of processes and IPCMs, read from the text only. The
+    Appendix's proof was checked by hand. Its reference [1], Akkoyunlu's
+    working paper "On the Limitations of Acknowledgement Messages" (March
+    1975), which it cites for "a more formal proof", was not looked for.
+date: '2026-10-29'
+summary: >-
+  A design paper on interprocess communication in networks of sequential
+  processes: complete status of a transaction is impossible in an
+  arbitrary distributed facility and, with time-outs, even in a reliable
+  one, and the insertion property forces the system to withhold status.
+  Its Appendix states, as a story of gangsters and a messenger who may be
+  mugged, that no finite exchange over a lossy channel brings two parties
+  to know they agree a message got through, with a shortest-sequence
+  proof. That is the coordinated attack problem in substance, three years
+  before Gray (1978), framed as mutual knowledge of delivery.
+---
+
+# NOTE-tmpsfusn: Akkoyunlu, Ekanadham and Huber — Some constraints and tradeoffs in the design of network communications
+
+## Contribution
+
+The paper sets out the features an interprocess communication mechanism
+(IPCM) for a network might have (ports, status returns, time-outs, the
+insertion property, partial transfers, well-known ports) and shows which
+of them cannot be had together. Its general results are four "Facts" about
+status, stated with sketches, and an Appendix that proves no user protocol
+can make up for status the system does not give. The Appendix is the
+part later cited: an early statement, with a proof, that acknowledgements
+over a lossy channel never terminate in mutual certainty.
+
+## Key insight
+
+A party that sends the last message of any exchange cannot tell whether
+it arrived, so if the goal includes that party's knowing the goal was
+reached, the last message is always one too few. The authors apply this
+at two levels: between two IPCMs exchanging status (§3.1, "an infinite
+exchange of messages"), and between two users trying to build their own
+acknowledgement protocol (the Appendix).
+
+## Assumptions
+
+- **Sequential processes, no system buffering** (§1). A process sleeps
+  on an IPC primitive; messages move only by rendezvous at a port.
+- **Distributed facility** (§2.2): no single agent knows the complete
+  state of a transaction; components exchange state over links that can
+  fail.
+- **Crash of a centralized IPCM is ignored** (§2.1), since then "there
+  will be no further interest in the resulting state of the system".
+- **The Appendix's model**: two groups, a plan to be delivered, one
+  messenger who may be lost on any trip. The desired state is (1) the
+  plan is delivered and (2) "both parties know that they are in mutual
+  agreement that (1) occurred". No bound on delay or rate of loss is
+  given; any single message may be lost.
+
+## Key results
+
+- **Fact 0.** A perfectly reliable distributed system can be made to
+  behave as a centralized one.
+- **Fact 1** (stated "without proof"). A distributed IPCM can simulate a
+  centralized one if the network stays connected, both ends of a failed
+  link know of the failure, and the mean time between failures is long
+  against the mean transaction time. An informal justification is given
+  (one copy of each undelivered message held, routing that eventually
+  tries every path).
+- **Fact 2.** In an arbitrary distributed facility complete status, a
+  status that tells both parties the outcome and that they agree on it,
+  is impossible. Two cases: a network partition, and an undetected link
+  failure, where confirming status needs acknowledgement "etc.", "an
+  infinite exchange of messages". "A more formal proof of this result is
+  given in [1]."
+- **Fact 3.** With time-outs, complete status is impossible even if the
+  system is absolutely reliable: a sender whose request times out after
+  an intermediate component took the data cannot be told the outcome.
+- **Fact 4.** With time-outs, the insertion property (an intermediate
+  process invisible to both ends) can hold only if the IPCM withholds
+  status it knows: an ambiguous status must cover both an await-status
+  time-out and a transmission error, and RECEIVE must always delay status
+  to the sender.
+- **Partial transfers and well-known ports** (§4). Partial transfers, time-outs and
+  the strict insertion property conflict; the authors propose a weak
+  insertion property that tolerates a process's learning its partner's
+  buffer size. Partial transfers to well-known ports are a separate
+  problem (ARPANET bans them); for a server with many ports they propose
+  per-connection buffer processes, which needs dynamic process creation.
+- **Appendix, "User Implemented Protocols".** "No amount of user protocol
+  can solve the problem in a manner to dissipate the anxiety of both
+  parties as to the outcome of a transaction." Fact: the messenger
+  sequence "cannot terminate successfully". Proof: take the shortest
+  sequence of length n reaching the desired state; its last message
+  matters, since if it is lost the state is not reached; so its sender
+  must receive acknowledgement, and the sequence has length at least
+  n + 1, a contradiction. "The sequence is infinite even when none of the
+  messages are actually lost." Sequence numbers do not help: "only
+  sequential events can be controlled but simultaneity cannot be achieved
+  by this means."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Complete status is impossible in an arbitrary distributed facility | moderate | Fact 2, two examples; formal proof deferred to [1] |
+| C2 | With time-outs, complete status is impossible even in a reliable system | strong for its example | Fact 3, one construction |
+| C3 | With time-outs, the insertion property needs the IPCM to withhold known status | moderate | Fact 4, argued by cases |
+| C4 | No finite message sequence over a lossy channel reaches delivery plus mutual knowledge of agreement on it | strong, informal | Appendix, shortest-sequence proof (checked) |
+| C5 | Time-outs, weak insertion, partial transfers, buffer processes and well-known ports can be combined in a working IPCM | weak | §5, from the authors' Stony Brook System; no evaluation |
+
+## Concepts
+
+- **IPCM**: interprocess communication mechanism, the system's message
+  facility.
+- **Complete status**: a status telling both parties the final outcome
+  of a transaction, so that they also know they agree on it.
+- **Insertion property** (strict and weak): an intermediate process can
+  be placed between two processes without either detecting it; the weak
+  form allows the buffer size to show.
+- **Delayed status**: RECEIVE & DELAY STATUS with SEND STATUS, by which an
+  intermediate process returns status to the sender only when it learns
+  the outcome downstream.
+
+## Connections
+
+The Appendix is the coordinated attack problem, though not by that name
+and not as generals. Halpern and Moses (LIT-1213, NOTE-1381) state it
+as attacking generals, credit it to Gray (1978), cite Gallager (1979) and
+Yemini and Cohen (1979) for proofs, and do not cite this paper. Their
+formal version is about guaranteed coordinated action; this paper's is
+about reaching a state of mutual knowledge of delivery, with action only
+as motive ("act with complete reliance on each other"). Halpern and Moses
+show that coordinated action needs common knowledge, which is what this
+paper's "know that they are in mutual agreement", iterated by the
+messenger, reaches for. The proof idea, removing the last message, is the
+same in both.
+
+## Bearing on the record
+
+- **CLAIM-346, construction 3 and the note of 2026-10-29.** Akkoyunlu et
+  al. do state the problem. The Appendix gives two parties, a lossy
+  messenger, a goal that requires both to know they agree the message got
+  through, and a proof that no finite exchange reaches it, even when no
+  message is lost. So the body's citation of Akkoyunlu et al. (1975) for
+  the coordinated attack result is right as to priority over Gray (1978).
+  Two precisions. Their goal is mutual knowledge of delivery, not
+  coordinated action, so the step from it to "no protocol guarantees that
+  both act or neither does" is Halpern and Moses's, not theirs. And the
+  result sits in an appendix of a systems design paper, defended to
+  support Fact 2, with a fuller proof deferred to an unpublished working
+  paper of Akkoyunlu's.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Facts are stated with sketches.** Fact 1 is "without proof"; Fact 2's
+  formal proof is in a working paper; Facts 3 and 4 are each one
+  construction.
+- **The Appendix's proof has a gap as written.** "The sender of the n'th
+  message must receive acknowledgment" is asserted. What licenses it is
+  that the sender's state is the same whether or not the n-th message
+  arrives, and the desired state includes the sender's knowing it holds;
+  the paper does not say so. The conclusion stands.
+- **The desired state is not pinned down.** "Both parties know that they
+  are in mutual agreement" is read most naturally as common knowledge,
+  but the paper does not distinguish finite levels of mutual knowledge
+  from the limit.
+- **No evaluation.** The closing list of compatible features rests on
+  the authors' design of the Stony Brook System.
+- **Slips.** The scan's author line reads "Hubert", the dagger of the
+  footnote giving Huber's Texas A&M address run into the name. The
+  ARPANET reference is OCR-garbled in this copy; the reading is the
+  layout's.
+
+## Open questions
+
+- Does Akkoyunlu's working paper of March 1975 ([1]) give the result for
+  coordinated action, or only for acknowledgement?
+- Gray (1978) is the attribution the literature uses; is he aware of this
+  paper?
