@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpghha4
 title: 'Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -35,6 +35,13 @@ history:
     sensitivity of later steps.' Premises CLAIM-106 and CLAIM-267 are
     Active, and nothing in the record meets the condition. Proposed to
     Active.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Its supports entry for CLAIM-068 is removed: the fourteenth status
+    review, at the status review's ruling (the owner delegated these
+    rulings; ADR-057), dropped this claim from CLAIM-068's rests_on,
+    whose body never uses it. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,7 +69,6 @@ summary: >-
   kernels in total variation, contraction coefficients do not exceed
   one.
 supports:
-- CLAIM-068
 - CLAIM-081
 - CLAIM-114
 - CLAIM-059

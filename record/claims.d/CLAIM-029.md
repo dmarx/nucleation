@@ -121,3 +121,16 @@ as it stands; restating it is the owner's call. A3's prompt-equivalence
 claim, equivalence over decision consequences, is [CLAIM-050](CLAIM-050.md) applied to
 prompts and is not filed. Its question about activation steering is
 [QUESTION-106](../questions.d/QUESTION-106.md).
+
+## Note of 2026-10-29: what holds it back
+
+Its defeat condition is met as written by an Active reading. On Lu et
+al.'s results (THEORY-683), reordering a fixed set of examples moves
+accuracy between near chance and near the state of the art, and the good
+orders do not transfer across model sizes. That is a prompt effect failing
+invariance to surface form and failing transfer. The note of 2026-10-15
+holds that this defeats a stronger hypothesis than the claim. The one
+finding that separates the two, Kirsanov et al.'s stable class
+representations (THEORY-251), is Proposed and did not vary order. Until
+the defeat condition is restated at the level the claim means and that
+separation is held, the claim is not promoted.
