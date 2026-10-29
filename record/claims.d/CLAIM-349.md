@@ -44,8 +44,8 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the readings of Guida et al.
-    (NOTE-tmp2mtd7), which identifies Bond 2018, and RefraMED
-    (NOTE-tmp5ify5). The claim is unchanged.
+    (NOTE-1353), which identifies Bond 2018, and RefraMED
+    (NOTE-1358). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -259,7 +259,7 @@ the record holds no reading of Linehan.
 Two works "Where it stands" and "What it does not say" rest on are now
 read.
 
-- **Guida, Minutola and Presti**, [LIT-1218](../literature.d/LIT-1218.md) ([NOTE-tmp2mtd7](../notes.d/NOTE-tmp2mtd7.md)), registered
+- **Guida, Minutola and Presti**, [LIT-1218](../literature.d/LIT-1218.md) ([NOTE-1353](../notes.d/NOTE-1353.md)), registered
   unread above, no longer is. They identify Bond's model, which "Where it
   stands" says could not be identified uniquely: Bond, F. W. (2018),
   "Organizational flexibility: creating a mindful and purpose-driven
@@ -272,7 +272,7 @@ read.
   signal. So it is a prior transfer of ACT to the organization, as "Where
   it stands" already grants, and not a prior statement of this claim's
   three-way split.
-- **RefraMED** (Lynch et al. 2020), [LIT-1223](../literature.d/LIT-1223.md) ([NOTE-tmp5ify5](../notes.d/NOTE-tmp5ify5.md)), confirms
+- **RefraMED** (Lynch et al. 2020), [LIT-1223](../literature.d/LIT-1223.md) ([NOTE-1358](../notes.d/NOTE-1358.md)), confirms
   A42's two cautions: the evidence is promising but not definitive, and
   the longer-term findings are less conclusive. The depression difference
   is large at 7 months (P = 0.023) and not significant at the 12-month

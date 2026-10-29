@@ -101,7 +101,7 @@ concludes, so it carries `formal-apparatus` as a second line ([ADR-040](../decis
 ## Note of 2026-10-29: evidence-based subjective logic, an instance with a ceiling
 
 Škorić, de Hoogh and Zannone's evidence-based subjective logic, [LIT-1130](../literature.d/LIT-1130.md),
-is now read ([NOTE-tmp33iar](../notes.d/NOTE-tmp33iar.md)). Its fixed point is a damped recursive
+is now read ([NOTE-1354](../notes.d/NOTE-1354.md)). Its fixed point is a damped recursive
 delegation with self-rating forbidden (A_xx = U), the design this claim is
 about, in an evidence algebra. The paper's loop case shows the claim's
 point. User 1's trust in user 2, R_12, depends on user 3's opinion of 2

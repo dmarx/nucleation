@@ -10,7 +10,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: the Abrego Garcia order and El-Masri
-    read (NOTE-tmpgunf9, NOTE-tmps22mh); El-Masri does not raise
+    read (NOTE-1376, NOTE-1391); El-Masri does not raise
     which government could undo a transfer while the person was
     held. The case is unchanged.
 standing: documented
@@ -133,14 +133,14 @@ holding them, and their release when the United States sought it.
 ## Note of 2026-10-29: the order and the comparator, read
 
 The Supreme Court's order in *Noem v. Abrego Garcia*, [LIT-1606](../literature.d/LIT-1606.md), is now read
-([NOTE-tmpgunf9](../notes.d/NOTE-tmpgunf9.md)). The case's account of it is right. Two particulars can be
+([NOTE-1376](../notes.d/NOTE-1376.md)). The case's account of it is right. Two particulars can be
 added. The Court itself separated facilitating release from effectuating
 return, and left the second open. And it asked the government to "share
 what it can concerning the steps it has taken and the prospect of further
 steps": a court asking for the evidence behind a claim of inability
 before accepting it, which is [QUESTION-279](../questions.d/QUESTION-279.md)'s move.
 
-*El-Masri*, [LIT-1619](../literature.d/LIT-1619.md), is read too ([NOTE-tmps22mh](../notes.d/NOTE-tmps22mh.md)), and it marks what is
+*El-Masri*, [LIT-1619](../literature.d/LIT-1619.md), is read too ([NOTE-1391](../notes.d/NOTE-1391.md)), and it marks what is
 new here. Three differences.
 
 - **Where the routes of responsibility start.** In *El-Masri* they run from

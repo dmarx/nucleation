@@ -10,8 +10,8 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: Jasanoff and Fiss read, and Herd and
-    Moynihan's introduction (NOTE-tmp4y156, NOTE-tmpafym3,
-    NOTE-tmpkbyme). The case is unchanged.
+    Moynihan's introduction (NOTE-1357, NOTE-1364,
+    NOTE-1382). The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -128,7 +128,7 @@ exchange's:
 A8 offered three works for this case. Two are now read and one is read in
 its introduction.
 
-- **Jasanoff, "Technologies of humility"**, [LIT-1594](../literature.d/LIT-1594.md) ([NOTE-tmp4y156](../notes.d/NOTE-tmp4y156.md)),
+- **Jasanoff, "Technologies of humility"**, [LIT-1594](../literature.d/LIT-1594.md) ([NOTE-1357](../notes.d/NOTE-1357.md)),
   offered for the breadth of harms that are hard to quantify in advance.
   That fits, with one adjustment: she writes about assessing a technology
   before it is adopted, not about counting the harm of a policy after it.
@@ -140,7 +140,7 @@ its introduction.
   does not restore: the cohort and the local research tradition. She gives
   no method for measuring either, so she supports "What it shows" and not
   any size of loss.
-- **Fiss, "The forms of justice"**, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-tmpafym3](../notes.d/NOTE-tmpafym3.md)). The formula
+- **Fiss, "The forms of justice"**, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-1364](../notes.d/NOTE-1364.md)). The formula
   "Reversal ≠ Repair ≠ Structural reform" is A8's, not Fiss's, but the
   distinction is in the paper: the dispute-resolution remedy corrects or
   prevents "a discrete event", while the structural remedy removes "a
@@ -149,7 +149,7 @@ its introduction.
   presumes the existing arrangement is what threatens the value, which is
   this case's point that some relations should be dismantled.
 - **Herd and Moynihan, *Administrative Burden***, [LIT-1609](../literature.d/LIT-1609.md), of which only
-  the introduction is read ([NOTE-tmpkbyme](../notes.d/NOTE-tmpkbyme.md)). It says burdens can restrict
+  the introduction is read ([NOTE-1382](../notes.d/NOTE-1382.md)). It says burdens can restrict
   access to a benefit or a right with no change to formal eligibility, so
   that what is lost is the practical ability to use it. That is [TERM-055](../terms.d/TERM-055.md)'s
   operational availability carried from a resource to a right. Whether

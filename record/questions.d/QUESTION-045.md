@@ -17,7 +17,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: the RefraMED trial read
-    (NOTE-tmp5ify5); it reports no mediation analysis. The question
+    (NOTE-1358); it reports no mediation analysis. The question
     is unchanged.
 tags:
 - psychopathology-and-treatment
@@ -118,7 +118,7 @@ the content held fixed.
 ## Note of 2026-10-29: RefraMED, read, gives nothing on mechanism
 
 The randomized trial the note of 2026-10-18 names, Lynch et al. 2020,
-[LIT-1223](../literature.d/LIT-1223.md), is now read ([NOTE-tmp5ify5](../notes.d/NOTE-tmp5ify5.md)), so that note's "Neither is held
+[LIT-1223](../literature.d/LIT-1223.md), is now read ([NOTE-1358](../notes.d/NOTE-1358.md)), so that note's "Neither is held
 yet" no longer holds for it. It gives nothing on whether
 overcontrol is a protective lock-in. Its title promises mechanisms, and
 the mediators were measured, but no mediation analysis is reported, only

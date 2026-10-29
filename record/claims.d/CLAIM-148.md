@@ -33,7 +33,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the reading of Sengupta et al.
-    (NOTE-tmp0gxyg): its gauge freedom is reparameterization. The
+    (NOTE-1350): its gauge freedom is reparameterization. The
     claim is unchanged.
 role: granted
 warrant: demonstrated
@@ -257,7 +257,7 @@ The claim is unchanged.
 ## Note of 2026-10-29: the neuronal gauge theory's freedom is the representational kind
 
 Sengupta, Tozzi, Cooray, Douglas and Friston, [LIT-1215](../literature.d/LIT-1215.md), read in
-[NOTE-tmp0gxyg](../notes.d/NOTE-tmp0gxyg.md), was filed to check whether its gauge freedom is more than
+[NOTE-1350](../notes.d/NOTE-1350.md), was filed to check whether its gauge freedom is more than
 the kind this claim holds. It is not. Its gauge freedom is
 reparameterization of the variational family: the natural gradient is
 "invariant under re-parameterisation", and the Riemann gradient

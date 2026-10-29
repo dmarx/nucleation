@@ -29,7 +29,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the reading of Cover
-    (NOTE-tmpns25g): a judgment can be legible and taken up and
+    (NOTE-1384): a judgment can be legible and taken up and
     still not be executed. The term is unchanged.
 tags:
 - epistemology
@@ -227,7 +227,7 @@ the term takes the task-loss form above or stays qualitative.
 
 ## Note of 2026-10-29: legible, taken up, and not executed
 
-Cover's "Violence and the word", [LIT-1601](../literature.d/LIT-1601.md), read in [NOTE-tmpns25g](../notes.d/NOTE-tmpns25g.md), adds the
+Cover's "Violence and the word", [LIT-1601](../literature.d/LIT-1601.md), read in [NOTE-1384](../notes.d/NOTE-1384.md), adds the
 step after legibility and uptake. The record's accounts are about whether
 a distinction or a contribution reaches an institution and is taken up by
 it. Cover asks whether the institution's judgment then becomes an act on

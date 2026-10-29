@@ -125,14 +125,14 @@ corrected.
 Four works this claim names or neighbours are now read.
 
 - **The third mechanism, argued.** The Supreme Court's order in *Noem v.
-  Abrego Garcia*, [LIT-1606](../literature.d/LIT-1606.md) ([NOTE-tmpgunf9](../notes.d/NOTE-tmpgunf9.md)), behind [CASE-175](../cases.d/CASE-175.md), names
+  Abrego Garcia*, [LIT-1606](../literature.d/LIT-1606.md) ([NOTE-1376](../notes.d/NOTE-1376.md)), behind [CASE-175](../cases.d/CASE-175.md), names
   jurisdictional displacement as an argument the government made: that
   removal across the border ends a court's power, so that acting "before a
   court can intervene" escapes consequence. Three justices rejected it as
   law. The order does not reach the mechanism; it shows the argument was
   made and how it fared.
 - **The strategic rival changes the standards.** Scheppele, [LIT-1604](../literature.d/LIT-1604.md)
-  ([NOTE-tmpqodqk](../notes.d/NOTE-tmpqodqk.md)), supports keeping the two explanations apart, for a
+  ([NOTE-1390](../notes.d/NOTE-1390.md)), supports keeping the two explanations apart, for a
   reason "What it does not say" does not give: they differ in what they
   change. This claim keeps the governing standards fixed. Scheppele's
   autocrats change the standards and the correctors: they amend
@@ -147,13 +147,13 @@ Four works this claim names or neighbours are now read.
   hollowed out before the leader arrives, is a non-strategic process
   inside her strategic account, so the two explanations are less
   exclusive than the claim's edge treats them.
-- **Forces outside the court.** Fiss, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-tmpafym3](../notes.d/NOTE-tmpafym3.md)): a
+- **Forces outside the court.** Fiss, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-1364](../notes.d/NOTE-1364.md)): a
   structural remedy depends on forces outside the court that can withdraw
   (white flight) or withhold (unions, legislatures). That is a mechanism
   beside this claim's by which the cost of a corrective outcome rises
   while the governing standard stays fixed, and Fiss adds that the
   standard itself then bends.
-- **The inverse case.** Cover, [LIT-1601](../literature.d/LIT-1601.md) ([NOTE-tmpns25g](../notes.d/NOTE-tmpns25g.md)): in *Tiede*, a
+- **The inverse case.** Cover, [LIT-1601](../literature.d/LIT-1601.md) ([NOTE-1384](../notes.d/NOTE-1384.md)): in *Tiede*, a
   court that could not rely on independent enforcement changed its
   sentence, so the conditions of enforcement changed what the court would
   order while the governing law stayed fixed.

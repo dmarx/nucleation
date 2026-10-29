@@ -134,7 +134,7 @@ to, stays unread.
 
 ## Note of 2026-10-29: Flack 2012 and computational mechanics, read
 
-Flack 2012, [LIT-1122](../literature.d/LIT-1122.md), is now read ([NOTE-tmp0pm1e](../notes.d/NOTE-tmp0pm1e.md)), so the summary's
+Flack 2012, [LIT-1122](../literature.d/LIT-1122.md), is now read ([NOTE-1351](../notes.d/NOTE-1351.md)), so the summary's
 "unread" and the last sentence of the note of 2026-10-27 no longer hold.
 Its words match A9's "appear": that the animals read and condition on the
 slow variable is what "the data suggest", argued from earlier studies,
@@ -149,7 +149,7 @@ stages:
 
 So the paper this claim quotes is evidence for the first stage only.
 
-Shalizi and Crutchfield, [LIT-1126](../literature.d/LIT-1126.md) ([NOTE-tmpe4nxg](../notes.d/NOTE-tmpe4nxg.md)), bear on A10's offer of
+Shalizi and Crutchfield, [LIT-1126](../literature.d/LIT-1126.md) ([NOTE-1372](../notes.d/NOTE-1372.md)), bear on A10's offer of
 causal states as "the minimal history a collective must keep to predict
 its future". The reading adds two limits to the slow state that offer
 names. The theorems need the observed process fixed in advance and

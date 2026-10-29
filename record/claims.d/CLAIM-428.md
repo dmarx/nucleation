@@ -101,7 +101,7 @@ realized across institutions, and not a collective agent ([CLAIM-418](CLAIM-418.
 ## Note of 2026-10-29: Kleinman, Liu and Redding, read
 
 The work behind this claim's one ground, [CASE-150](../cases.d/CASE-150.md), is now read: [LIT-1416](../literature.d/LIT-1416.md)
-([NOTE-tmpz95lz](../notes.d/NOTE-tmpz95lz.md)). It supports the first half of the title, that material
+([NOTE-1403](../notes.d/NOTE-1403.md)). It supports the first half of the title, that material
 interdependence couples outcomes, with a measure that can be negative:
 30 percent of pairs are enemies. Whether a pair's dependence is organized
 as opportunity or as threat is decided in the paper by the sign of the

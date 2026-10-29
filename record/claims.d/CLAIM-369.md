@@ -169,13 +169,13 @@ Seven works read on this date bear on this claim. None finds an error in
 the derivation.
 
 - **The duality, and its direction.** Mehta, Cui, Wang and Marsland,
-  [LIT-1231](../literature.d/LIT-1231.md) ([NOTE-tmpwkbtk](../notes.d/NOTE-tmpwkbtk.md)), confirm the summary's citation. There the
+  [LIT-1231](../literature.d/LIT-1231.md) ([NOTE-1395](../notes.d/NOTE-1395.md)), confirm the summary's citation. There the
   species are multipliers of constraints in resource space, and the
   Lotka–Volterra form with α_ij = Σ c_iα c_jα and κ_i = Σ K_α c_iα − m_i is
   the dual. That is this claim's A = UᵀU and r = Uᵀb − c, with U = Cᵀ,
   b = K and c = m, so the claim's objective is a dual objective.
 - **A third boundary: the reduction from resources.** Marsland, Cui and
-  Mehta, [LIT-1230](../literature.d/LIT-1230.md) ([NOTE-tmp1i8u8](../notes.d/NOTE-tmp1i8u8.md)): read as the fast-resource reduction of
+  Mehta, [LIT-1230](../literature.d/LIT-1230.md) ([NOTE-1352](../notes.d/NOTE-1352.md)): read as the fast-resource reduction of
   a consumer–resource model, A = UᵀU and r = Uᵀb − c hold only while
   every resource stays positive. Once a resource is driven extinct its row
   drops out, and the effective objective is MacArthur's piecewise Q. The
@@ -183,33 +183,33 @@ the derivation.
   this belongs beside the two boundaries above. The same reading gives the
   objective a physical meaning: the perturbation the active components
   impose on the supply.
-- **The continuum case.** Chizat and Bach, [LIT-1232](../literature.d/LIT-1232.md) ([NOTE-tmpbs06i](../notes.d/NOTE-tmpbs06i.md)): this
+- **The continuum case.** Chizat and Bach, [LIT-1232](../literature.d/LIT-1232.md) ([NOTE-1367](../notes.d/NOTE-1367.md)): this
   claim's invasion fitness, −∂_i L, is their −F′(µ)(u_i) restricted to a
   finite dictionary, and its KKT points are their Proposition 3.1's
   minimizers on a fixed support. With positions free, the absent
   components form a continuum, and gradient flow transports mass without
   creating it, so a population reaches the global optimum only if a seed
   of every possible component is present from the start.
-- **A slowly evolving U.** Power et al., [LIT-1235](../literature.d/LIT-1235.md) ([NOTE-tmpc6gy4](../notes.d/NOTE-tmpc6gy4.md)), keep
+- **A slowly evolving U.** Power et al., [LIT-1235](../literature.d/LIT-1235.md) ([NOTE-1368](../notes.d/NOTE-1368.md)), keep
   the interaction matrix symmetric and rely on the potential that gives.
   Evolution there reshapes the objective the community descends, which
   the claim's fixed-U setting does not cover.
-- **Symmetry is not uniqueness.** Bunin, [LIT-1234](../literature.d/LIT-1234.md) ([NOTE-tmpxeonz](../notes.d/NOTE-tmpxeonz.md)): for
+- **Symmetry is not uniqueness.** Bunin, [LIT-1234](../literature.d/LIT-1234.md) ([NOTE-1397](../notes.d/NOTE-1397.md)): for
   symmetric interactions the random Lotka–Volterra model has MacArthur's
   Lyapunov function, and its phase of multiple attractors still exists.
   So symmetry and an optimization principle do not by themselves give a
   unique outcome. That is consistent with this claim, whose A = UᵀU is
   positive semidefinite, so that L is convex.
 - **The asymmetric case.** Blumenthal, Rocks and Mehta, [LIT-1236](../literature.d/LIT-1236.md)
-  ([NOTE-tmpbd8io](../notes.d/NOTE-tmpbd8io.md), [THEORY-tmpncu1p](../theory.d/THEORY-tmpncu1p.md)), give A = CEᵀ with C ≠ E and show what
+  ([NOTE-1366](../notes.d/NOTE-1366.md), [THEORY-1162](../theory.d/THEORY-1162.md)), give A = CEᵀ with C ≠ E and show what
   fails for a related consumer–resource model. It is the natural objection
   thread to the claim's scope, not to the claim, which states its
   symmetric assumption. "What it does not say" cites this paper as
   [THEORY-634](../theory.d/THEORY-634.md), whose source is [LIT-036](../literature.d/LIT-036.md), a different paper on
   non-reciprocal catalytic cycles; the reading of Blumenthal et al. is
-  [THEORY-tmpncu1p](../theory.d/THEORY-tmpncu1p.md).
+  [THEORY-1162](../theory.d/THEORY-1162.md).
 - **An open question, not a finding.** Hofbauer and Schreiber, [LIT-1233](../literature.d/LIT-1233.md)
-  ([NOTE-tmphiq73](../notes.d/NOTE-tmphiq73.md)), decide permanence by signs only when the invasion
+  ([NOTE-1379](../notes.d/NOTE-1379.md)), decide permanence by signs only when the invasion
   graph is acyclic. In this claim's class L decreases along every
   trajectory, which should rule out heteroclinic cycles and so cyclic
   invasion graphs. The paper does not state this and the reading did not

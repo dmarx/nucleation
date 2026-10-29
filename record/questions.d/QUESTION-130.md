@@ -17,7 +17,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the reading of Sengupta et al.
-    (NOTE-tmp0gxyg): its connection is fixed by the Fisher metric
+    (NOTE-1350): its connection is fixed by the Fisher metric
     and not about context. The question is unchanged.
 tags:
 - mathematics
@@ -136,7 +136,7 @@ this would formalize is [TERM-059](../terms.d/TERM-059.md).
 Sengupta, Tozzi, Cooray, Douglas and Friston's neuronal gauge theory,
 [LIT-1215](../literature.d/LIT-1215.md), the nearest published gauge-theoretic treatment of a
 self-organizing system, which A19 cited at U19, is now read
-([NOTE-tmp0gxyg](../notes.d/NOTE-tmp0gxyg.md)). A19 asked where its connection comes from. It comes from
+([NOTE-1350](../notes.d/NOTE-1350.md)). A19 asked where its connection comes from. It comes from
 the Fisher metric: it is the Levi-Civita connection of the belief
 manifold, so it is fixed and not chosen, and its holonomy is the
 manifold's curvature (−1/2 for the univariate normal, checked in the

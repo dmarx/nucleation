@@ -42,8 +42,8 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the readings of Shalizi and
-    Crutchfield (NOTE-tmpe4nxg) and Kolchinsky and Wolpert
-    (NOTE-tmpcwd0c). The claim is unchanged.
+    Crutchfield (NOTE-1372) and Kolchinsky and Wolpert
+    (NOTE-1370). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -212,12 +212,12 @@ individuation, filed as [CLAIM-405](CLAIM-405.md), which rests on this claim.
 Two readings of 2026-10-29 give instances.
 
 - **Computational mechanics.** Shalizi and Crutchfield, [LIT-1126](../literature.d/LIT-1126.md)
-  ([NOTE-tmpe4nxg](../notes.d/NOTE-tmpe4nxg.md)), make the target explicit: the causal states are a
+  ([NOTE-1372](../notes.d/NOTE-1372.md)), make the target explicit: the causal states are a
   minimal sufficient statistic for the semi-infinite future of the same
   observable. They are an instance of this claim with the target fixed by
   construction rather than chosen.
 - **Semantic information.** Kolchinsky and Wolpert, [LIT-1149](../literature.d/LIT-1149.md)
-  ([NOTE-tmpcwd0c](../notes.d/NOTE-tmpcwd0c.md)), take viability as the target. It is a function the
+  ([NOTE-1370](../notes.d/NOTE-1370.md)), take viability as the target. It is a function the
   analyst picks, and the system's boundary is an input to it. Their §VI
   then proposes to choose the boundary, the timescale and the initial
   distribution by maximizing semantic information, which is measured

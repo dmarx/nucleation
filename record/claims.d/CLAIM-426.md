@@ -102,7 +102,7 @@ true.
 Two of this claim's grounds are now read, and both bear it out with one
 correction to the body.
 
-- **Land**, [LIT-1396](../literature.d/LIT-1396.md) ([NOTE-tmphc9i5](../notes.d/NOTE-tmphc9i5.md)). The definition is as quoted. But
+- **Land**, [LIT-1396](../literature.d/LIT-1396.md) ([NOTE-1378](../notes.d/NOTE-1378.md)). The definition is as quoted. But
   "What it does not say" gives the term's addition as the case where the
   idea is "never false of the present", and the interview does not say
   that. Its Jerusalem example and its last sentence say the reverse: under
@@ -112,7 +112,7 @@ correction to the body.
   it supports the premise, that some judgements' circulation helps make
   them true, and gives nothing for telling such judgements apart from
   others, which is the part of this claim that bears weight.
-- **Soros**, [LIT-1397](../literature.d/LIT-1397.md) ([NOTE-tmp8x2ha](../notes.d/NOTE-tmp8x2ha.md)). His views "influence but do not
+- **Soros**, [LIT-1397](../literature.d/LIT-1397.md) ([NOTE-1362](../notes.d/NOTE-1362.md)). His views "influence but do not
   determine" outcomes, his loops run both ways, and his example of a
   theory acting on markets changes them "though not necessarily making
   them more efficient". So circulation is evidence about what a judgement
@@ -121,7 +121,7 @@ correction to the body.
   will bring about" should be read to allow the loop to run against the
   judgement as well as for it.
 
-Franklin's autobiography, [LIT-1402](../literature.d/LIT-1402.md) ([NOTE-tmp7r4s0](../notes.d/NOTE-tmp7r4s0.md)), adds first-hand cases.
+Franklin's autobiography, [LIT-1402](../literature.d/LIT-1402.md) ([NOTE-1360](../notes.d/NOTE-1360.md)), adds first-hand cases.
 The Junto's satellite clubs and the newspaper pieces that "prepare the
 minds of the people" are circulation arranged so that a judgement would
 bring about what it said. Franklin arranged the appearance of plurality:

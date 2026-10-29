@@ -10,7 +10,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: Kalla and Broockman read
-    (NOTE-tmpwypf3); the contrast with arguments is made exact, and
+    (NOTE-1396); the contrast with arguments is made exact, and
     Experiment 2 weighs against reading the narrative arm as taking
     part. The case is unchanged.
 standing: documented
@@ -68,7 +68,7 @@ produce comparable effects in their immigration-policy experiment."
 
 ## Note of 2026-10-29: the paper, read
 
-[LIT-1407](../literature.d/LIT-1407.md) is now read ([NOTE-tmpwypf3](../notes.d/NOTE-tmpwypf3.md)), so "unread" and "unchecked against
+[LIT-1407](../literature.d/LIT-1407.md) is now read ([NOTE-1396](../notes.d/NOTE-1396.md)), so "unread" and "unchecked against
 the paper" no longer hold. The description is right, and can be made
 exact.
 

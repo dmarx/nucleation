@@ -38,7 +38,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the reading of DeMarzo, Vayanos
-    and Zwiebel (NOTE-tmpsm8b9): fixed weights are a second route,
+    and Zwiebel (NOTE-1392): fixed weights are a second route,
     and their unregistered 2001 companion paper states the loop. The
     claim is unchanged.
 role: thesis
@@ -177,7 +177,7 @@ claim is unchanged.
 
 ## Note of 2026-10-29: persuasion bias, read, is a second route, and its companion paper is the loop
 
-DeMarzo, Vayanos and Zwiebel, [LIT-1134](../literature.d/LIT-1134.md), is now read ([NOTE-tmpsm8b9](../notes.d/NOTE-tmpsm8b9.md)). It
+DeMarzo, Vayanos and Zwiebel, [LIT-1134](../literature.d/LIT-1134.md), is now read ([NOTE-1392](../notes.d/NOTE-1392.md)). It
 shows that even without this claim's loop, fixed listening weights give
 an agent influence out of proportion to its accuracy: by its Theorem 2 an
 unbalanced network's consensus departs from the precision-weighted

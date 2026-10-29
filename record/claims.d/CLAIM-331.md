@@ -50,8 +50,8 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the readings of Flack 2012
-    (NOTE-tmp0pm1e) and Medrano, Friston and Zeidman
-    (NOTE-tmpnajxu). The claim is unchanged.
+    (NOTE-1351) and Medrano, Friston and Zeidman
+    (NOTE-1383). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -250,13 +250,13 @@ question of scope stays open in that sense.
 
 Two works read on this date bear on the facet. Neither is a test of it.
 
-- **Flack 2012**, [LIT-1122](../literature.d/LIT-1122.md) ([NOTE-tmp0pm1e](../notes.d/NOTE-tmp0pm1e.md)), supports the mark and adds a
+- **Flack 2012**, [LIT-1122](../literature.d/LIT-1122.md) ([NOTE-1351](../notes.d/NOTE-1351.md)), supports the mark and adds a
   condition this claim does not state: a slow variable founds a level
   only when the components can detect and use it (§5a). That is
   [CLAIM-327](CLAIM-327.md)'s question again, which the claim already defers to. The paper
   also states the converse limit: a slow variable must not change too
   slowly, or it stops tracking fighting ability.
-- **Medrano, Friston and Zeidman**, [LIT-1145](../literature.d/LIT-1145.md) ([NOTE-tmpnajxu](../notes.d/NOTE-tmpnajxu.md)), is the
+- **Medrano, Friston and Zeidman**, [LIT-1145](../literature.d/LIT-1145.md) ([NOTE-1383](../notes.d/NOTE-1383.md)), is the
   likeliest candidate for A8's "2024" paper. It treats Haken's slaving
   principle and the Haken–Kelso–Bunz model a paragraph each, as
   motivation, with no mathematics. Its higher levels are slower by

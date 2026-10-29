@@ -23,7 +23,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the reading of Cover
-    (NOTE-tmpns25g): execution is a step after uptake. The claim is
+    (NOTE-1384): execution is a step after uptake. The claim is
     unchanged.
 role: thesis
 warrant: interpretive
@@ -199,7 +199,7 @@ the team's. The claim is unchanged.
 
 ## Note of 2026-10-29: a step after uptake
 
-Cover's "Violence and the word", [LIT-1601](../literature.d/LIT-1601.md), read in [NOTE-tmpns25g](../notes.d/NOTE-tmpns25g.md), adds a
+Cover's "Violence and the word", [LIT-1601](../literature.d/LIT-1601.md), read in [NOTE-1384](../notes.d/NOTE-1384.md), adds a
 step after this claim's last rungs. Uptake here is a contribution's
 influence on an institution's judgements, and governance participation
 its contributor's part in revising the standards of uptake. Cover asks

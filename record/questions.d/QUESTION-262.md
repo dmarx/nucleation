@@ -73,7 +73,7 @@ changed starting point with fixed coupling, would defeat [CLAIM-429](../claims.d
 Two works this question leans on are now read, and neither supplies its
 contrasts.
 
-- **Paluck, Green and Green**, [LIT-1420](../literature.d/LIT-1420.md) ([NOTE-tmpsnvbw](../notes.d/NOTE-tmpsnvbw.md)). On randomized
+- **Paluck, Green and Green**, [LIT-1420](../literature.d/LIT-1420.md) ([NOTE-1393](../notes.d/NOTE-1393.md)). On randomized
   evidence with delayed outcomes, "contact reduces prejudice" holds in
   direction and is qualified in size: 0.25 for ethnic and related targets,
   near zero in the pre-registered field trials. "Often generalizes"
@@ -81,7 +81,7 @@ contrasts.
   concern the group met, and its pooling does not separate generalization
   to the group from generalization to other groups. No included study
   isolates taking part from receiving information.
-- **Kalla and Broockman**, [LIT-1407](../literature.d/LIT-1407.md) ([NOTE-tmpwypf3](../notes.d/NOTE-tmpwypf3.md)), behind [CASE-147](../cases.d/CASE-147.md). In
+- **Kalla and Broockman**, [LIT-1407](../literature.d/LIT-1407.md) ([NOTE-1396](../notes.d/NOTE-1396.md)), behind [CASE-147](../cases.d/CASE-147.md). In
   Experiment 2 a stranger's video narrative did as well as both parties
   telling stories, so the contrast between information and cooperation is
   not the one its arms draw. It measures no behaviour and no

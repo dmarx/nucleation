@@ -23,7 +23,7 @@ history:
 - version: 5
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Cooper and West read (NOTE-tmpckr3f);
+    Note of 2026-10-29 added: Cooper and West read (NOTE-1369);
     their route ends at dependence and has no higher-level unit. The
     question is unchanged.
 tags:
@@ -322,7 +322,7 @@ associations". The readings change that.
 ## Note of 2026-10-29: Cooper and West, read
 
 Cooper and West, [LIT-1225](../literature.d/LIT-1225.md), which "Why it is a question" lists as unread
-and as a sixth route, is now read ([NOTE-tmpckr3f](../notes.d/NOTE-tmpckr3f.md)). The route is asserted
+and as a sixth route, is now read ([NOTE-1369](../notes.d/NOTE-1369.md)). The route is asserted
 in the paper's conclusion ("a driver, not a consequence"), not shown. The
 model ends at dependence, some individuals "completely dependent upon the
 helping behaviour of others", and has no higher-level unit. The question is unchanged.

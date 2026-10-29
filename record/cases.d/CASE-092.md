@@ -16,8 +16,8 @@ history:
 - version: 3
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Friedkin read (NOTE-tmpegm16,
-    THEORY-tmpbnint); reflected appraisal concentrates power under
+    Note of 2026-10-29 added: Friedkin read (NOTE-1374,
+    THEORY-1161); reflected appraisal concentrates power under
     the Friedkin–Johnsen step and not under DeGroot's. The design is
     unchanged.
 standing: stipulated
@@ -38,7 +38,7 @@ variants:
 
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-281 CLAIM-288 CLAIM-297 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmpbnint — Proposed; the comparison of the two single-issue steps, cited in the note of 2026-10-29 as open -->
+<!-- inactive-ok-file: THEORY-1161 — Proposed; the comparison of the two single-issue steps, cited in the note of 2026-10-29 as open -->
 
 # CASE-092: A minimal coupled meaning–influence model: two hypotheses, two retrieval specialists, a fixed balanced corpus, queries set by the dominant interpretation and endorsement updated from apparent retrieval success
 
@@ -115,7 +115,7 @@ larger design.
 ## Note of 2026-10-29: two reflected-appraisal baselines, not one
 
 Friedkin's reflected-appraisal theory, [LIT-1404](../literature.d/LIT-1404.md), which the note of
-2026-10-23 calls registered unread, is now read ([NOTE-tmpegm16](../notes.d/NOTE-tmpegm16.md)), and the
+2026-10-23 calls registered unread, is now read ([NOTE-1374](../notes.d/NOTE-1374.md)), and the
 DeGroot–Friedkin analysis, [LIT-1146](../literature.d/LIT-1146.md), was read on 2026-10-24 ([NOTE-1135](../notes.d/NOTE-1135.md)).
 So "unread" no longer holds for either. The note treats them as one
 baseline. They are two, with different predictions.
@@ -128,7 +128,7 @@ baseline. They are two, with different predictions.
   power spread on random complete networks of sizes 5 and 10: median
   largest self-weight 0.29 and 0.13, never above 0.40.
 
-The comparison is filed as [THEORY-tmpbnint](../theory.d/THEORY-tmpbnint.md), Proposed. A comparison of
+The comparison is filed as [THEORY-1161](../theory.d/THEORY-1161.md), Proposed. A comparison of
 this model with "DeGroot–Friedkin" should say which single-issue step it
 is compared with. Friedkin's paper is also a worked case of
 [CLAIM-297](../claims.d/CLAIM-297.md)'s shape, authority on the next round set by success on the

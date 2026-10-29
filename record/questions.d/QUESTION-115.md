@@ -34,7 +34,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the readings of Krakauer et al.
-    2020 (NOTE-tmpypk9d, THEORY-tmpx3lyj), Jansma and Hoel, CE 2.0,
+    2020 (NOTE-1400, THEORY-1163), Jansma and Hoel, CE 2.0,
     Zhang et al. and Shalizi and Crutchfield. The question is
     unchanged.
 tags:
@@ -183,30 +183,30 @@ either.
 
 ## Note of 2026-10-29: Krakauer et al. and the three search candidates, read
 
-[LIT-1137](../literature.d/LIT-1137.md) is now read ([NOTE-tmpypk9d](../notes.d/NOTE-tmpypk9d.md)), so the body's "unread" no longer
+[LIT-1137](../literature.d/LIT-1137.md) is now read ([NOTE-1400](../notes.d/NOTE-1400.md)), so the body's "unread" no longer
 holds. A11's report is confirmed for the 2020 article: A* and A cannot
 decrease as variables move from the environment into the candidate, and
 the article says a boundary needs a size cost. The 2014 preprint makes the
 same monotonicity claim but offers a stopping rule instead of a size cost.
-The check is [THEORY-tmpx3lyj](../theory.d/THEORY-tmpx3lyj.md).
+The check is [THEORY-1163](../theory.d/THEORY-1163.md).
 
 The works filed as A10's paper "on searching for coarse-grainings rather
 than assuming them" are read too, and each fits only in part.
 
-- Jansma and Hoel, [LIT-1123](../literature.d/LIT-1123.md) ([NOTE-tmp5u8jy](../notes.d/NOTE-tmp5u8jy.md)), does search: it scores
+- Jansma and Hoel, [LIT-1123](../literature.d/LIT-1123.md) ([NOTE-1359](../notes.d/NOTE-1359.md)), does search: it scores
   every partition and reports a set of scales. It prices nothing, with
   no Occam term, and its profile is across scales under one criterion,
   not across criteria.
-- Hoel's CE 2.0, [LIT-1136](../literature.d/LIT-1136.md) ([NOTE-tmpozfea](../notes.d/NOTE-tmpozfea.md)), searches along one path chosen
+- Hoel's CE 2.0, [LIT-1136](../literature.d/LIT-1136.md) ([NOTE-1387](../notes.d/NOTE-1387.md)), searches along one path chosen
   by maximum gain, and calls the full search future work.
-- Zhang et al., [LIT-1129](../literature.d/LIT-1129.md) ([NOTE-tmpxwtq6](../notes.d/NOTE-tmpxwtq6.md)), avoids the search: it reads the
+- Zhang et al., [LIT-1129](../literature.d/LIT-1129.md) ([NOTE-1399](../notes.d/NOTE-1399.md)), avoids the search: it reads the
   singular-value spectrum and recovers a partition afterwards by k-means.
 
 All three search partitions of one system's states, not which variables
 are in the system. They bear on the macrostate leg of this question and
 not on the boundary leg.
 
-Shalizi and Crutchfield, [LIT-1126](../literature.d/LIT-1126.md) ([NOTE-tmpe4nxg](../notes.d/NOTE-tmpe4nxg.md)), adds one distinction:
+Shalizi and Crutchfield, [LIT-1126](../literature.d/LIT-1126.md) ([NOTE-1372](../notes.d/NOTE-1372.md)), adds one distinction:
 E ≤ Cµ separates what can be measured from sequences from the memory
 needed to produce them, as this question separates retention measured on
 observables from a system's state.

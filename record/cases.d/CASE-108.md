@@ -129,19 +129,19 @@ at once.
 
 Three of the works behind A41's design are now read, two of them in part.
 
-- **Castro and Liskov**, [LIT-1217](../literature.d/LIT-1217.md) ([NOTE-tmp4lpyh](../notes.d/NOTE-tmp4lpyh.md)). The role-limited arm's
+- **Castro and Liskov**, [LIT-1217](../literature.d/LIT-1217.md) ([NOTE-1356](../notes.d/NOTE-1356.md)). The role-limited arm's
   failure, "coordination cost or collusion", has a quantitative
   counterpart there: the quorum design tolerates collusion of up to f
   members of 3f + 1 and nothing beyond. The study could report its results
   against such a bound. The variant that compromises the evaluators
   corresponds to a faulty primary, which that protocol survives because
   the primary's proposals are checked by everyone and the role rotates.
-- **Zero trust**, [LIT-1226](../literature.d/LIT-1226.md) ([NOTE-tmpd81mn](../notes.d/NOTE-tmpd81mn.md)). The reliability-weighted arm,
+- **Zero trust**, [LIT-1226](../literature.d/LIT-1226.md) ([NOTE-1371](../notes.d/NOTE-1371.md)). The reliability-weighted arm,
   with its failure "self-reinforcing capture or unfair suppression", is
   close to a score-based contextual trust algorithm, whose confidence
   rises with a history of normal behaviour. The document does not
   consider that such a score can be farmed.
-- **The SEI insider-threat guide**, [LIT-1216](../literature.d/LIT-1216.md), skimmed ([NOTE-tmp3wx9h](../notes.d/NOTE-tmp3wx9h.md)). Its
+- **The SEI insider-threat guide**, [LIT-1216](../literature.d/LIT-1216.md), skimmed ([NOTE-1355](../notes.d/NOTE-1355.md)). Its
   own separation-of-duties case is a failure by collusion, four insiders
   splitting the steps the separation was meant to keep apart: the
   role-limited arm's failure, observed.

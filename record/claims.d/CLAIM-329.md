@@ -241,7 +241,7 @@ unchanged.
 ## Note of 2026-10-29: the organizational literature A6 hoped for, read
 
 Feldman and Pentland, [LIT-1124](../literature.d/LIT-1124.md), which "The claim" cites as unread, is now
-read ([NOTE-tmpofse5](../notes.d/NOTE-tmpofse5.md)), so that no longer holds. A6's first question for it
+read ([NOTE-1386](../notes.d/NOTE-1386.md)), so that no longer holds. A6's first question for it
 was whether it separates the continuity of a particular organization from
 the reproduction of an organizational kind. It does not. Its analysis is
 of one routine in one organization, and its persistence story is
@@ -255,7 +255,7 @@ organizations (p. 114), and leaves the matter as empirical.
 Two more works read on this date give the claim vocabulary, not its
 criterion.
 
-- **Marquis and Tilcsik**, [LIT-1144](../literature.d/LIT-1144.md) ([NOTE-tmpegckt](../notes.d/NOTE-tmpegckt.md)). Secondhand
+- **Marquis and Tilcsik**, [LIT-1144](../literature.d/LIT-1144.md) ([NOTE-1373](../notes.d/NOTE-1373.md)). Secondhand
   imprinting is causal transmission of a characteristic by emulation; a
   cohort effect is shared resemblance from shared conditions; and the
   review insists the two differ (pp. 206–207, 228–229). It gives a case of
@@ -266,7 +266,7 @@ criterion.
   supports the half of this claim that transmission and resemblance
   differ, and says nothing on which transmission makes the same
   collective.
-- **Gioia, Schultz and Corley**, [LIT-1135](../literature.d/LIT-1135.md) ([NOTE-tmppq751](../notes.d/NOTE-tmppq751.md)). Their
+- **Gioia, Schultz and Corley**, [LIT-1135](../literature.d/LIT-1135.md) ([NOTE-1389](../notes.d/NOTE-1389.md)). Their
   continuity of labels with changing meanings challenges any persistence
   criterion that requires identity content to stay fixed, as A6 expected.
   It does not supply causal transmission: their continuity is members'

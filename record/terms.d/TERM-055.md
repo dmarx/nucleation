@@ -84,7 +84,7 @@ display to memory. Realized deployment can therefore fall below α, as in
 ## Note of 2026-10-29: carried from a resource to a right
 
 Herd and Moynihan's *Administrative Burden*, [LIT-1609](../literature.d/LIT-1609.md), read in its
-introduction only ([NOTE-tmpkbyme](../notes.d/NOTE-tmpkbyme.md)), uses this term's sense for a right.
+introduction only ([NOTE-1382](../notes.d/NOTE-1382.md)), uses this term's sense for a right.
 Burdens can restrict access to a benefit or a right with no change to
 formal eligibility, so that what is lost is the practical ability to use
 it: the right is present and known, and not deployable before the

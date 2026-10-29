@@ -10,7 +10,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: the ICJ advisory opinion and the Human
-    Rights Watch report read (NOTE-tmp87q7f, NOTE-tmpask7i);
+    Rights Watch report read (NOTE-1361, NOTE-1365);
     Jeffery's works Unavailable. The case is unchanged.
 standing: documented
 kind: specimen
@@ -159,8 +159,8 @@ edge cases invented to distinguish definitions").
 
 Two of the case's four sources are now read, so "every source is
 registered unread" no longer holds. The ICJ's advisory opinion, [LIT-1589](../literature.d/LIT-1589.md),
-is read in [NOTE-tmp87q7f](../notes.d/NOTE-tmp87q7f.md), and the Human Rights Watch report, [LIT-1593](../literature.d/LIT-1593.md), in
-[NOTE-tmpask7i](../notes.d/NOTE-tmpask7i.md). Jeffery's two works, [LIT-1620](../literature.d/LIT-1620.md) and [LIT-1598](../literature.d/LIT-1598.md), are
+is read in [NOTE-1361](../notes.d/NOTE-1361.md), and the Human Rights Watch report, [LIT-1593](../literature.d/LIT-1593.md), in
+[NOTE-1365](../notes.d/NOTE-1365.md). Jeffery's two works, [LIT-1620](../literature.d/LIT-1620.md) and [LIT-1598](../literature.d/LIT-1598.md), are
 Unavailable.
 
 - **The advisory opinion.** The case's sentence that the Court "treated

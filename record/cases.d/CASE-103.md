@@ -71,7 +71,7 @@ against the same observed behaviour.
 ## Note of 2026-10-29: Gioia, Schultz and Corley, read
 
 [LIT-1135](../literature.d/LIT-1135.md), which "What it can show" cites as unread, is now read
-([NOTE-tmppq751](../notes.d/NOTE-tmppq751.md)), so that no longer holds. A2's split is close to the
+([NOTE-1389](../notes.d/NOTE-1389.md)), so that no longer holds. A2's split is close to the
 paper's split between identity, reputation and construed external image,
 and the paper's process model is A5's insider-identification path:
 members compare who they think they are with who they think outsiders

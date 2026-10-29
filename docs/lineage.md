@@ -2,7 +2,7 @@
 
 # Lines of work
 
-79 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+81 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -239,6 +239,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
       - [LIT-048](../record/literature.d/LIT-048.md) — Transfer Entropy as a Log-likelihood Ratio *(Active)*
   - [LIT-1170](../record/literature.d/LIT-1170.md) — Measuring Autonomy and Emergence via Granger Causality *(Active)*
 
+### From Quantifying causal emergence shows that macro can beat micro
+
+- [LIT-1038](../record/literature.d/LIT-1038.md) — Quantifying causal emergence shows that macro can beat micro *(Active)*
+  - [LIT-1129](../record/literature.d/LIT-1129.md) — Dynamical Reversibility and A New Theory of Causal Emergence based on SVD *(Active)*
+  - [LIT-1136](../record/literature.d/LIT-1136.md) — Causal Emergence 2.0: Quantifying emergent complexity *(Active)*
+    - [LIT-1123](../record/literature.d/LIT-1123.md) — Engineering Emergence *(Active)*
+
 ### From Attribution Patching: Activation Patching At Industrial Scale
 
 - [LIT-1581](../record/literature.d/LIT-1581.md) — Attribution Patching: Activation Patching At Industrial Scale *(Active)*
@@ -336,6 +343,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
       - [LIT-640](../record/literature.d/LIT-640.md) — Perceptual consciousness overflows cognitive access *(Active)*
 
 ## complex-systems
+
+### From Quantifying causal emergence shows that macro can beat micro
+
+- [LIT-1038](../record/literature.d/LIT-1038.md) — Quantifying causal emergence shows that macro can beat micro *(Active)*
+  - [LIT-1129](../record/literature.d/LIT-1129.md) — Dynamical Reversibility and A New Theory of Causal Emergence based on SVD *(Active)*
+  - [LIT-1136](../record/literature.d/LIT-1136.md) — Causal Emergence 2.0: Quantifying emergent complexity *(Active)*
+    - [LIT-1123](../record/literature.d/LIT-1123.md) — Engineering Emergence *(Active)*
 
 ### From The dynamic architecture of emotion: Evidence for the component process model
 
@@ -845,6 +859,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## network-science
 
+### From Reaching a Consensus
+
+- [LIT-1527](../record/literature.d/LIT-1527.md) — Reaching a Consensus *(Active)*
+  - [LIT-1134](../record/literature.d/LIT-1134.md) — Persuasion Bias, Social Influence, and Unidimensional Opinions *(Active)*
+
 ### From The Communication Structure of Epistemic Communities
 
 - [LIT-724](../record/literature.d/LIT-724.md) — The Communication Structure of Epistemic Communities *(Active)*
@@ -1154,6 +1173,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
 
 ## social-science
+
+### From Reaching a Consensus
+
+- [LIT-1527](../record/literature.d/LIT-1527.md) — Reaching a Consensus *(Active)*
+  - [LIT-1134](../record/literature.d/LIT-1134.md) — Persuasion Bias, Social Influence, and Unidimensional Opinions *(Active)*
 
 ### From Representation of a preference ordering by a numerical function
 

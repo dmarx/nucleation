@@ -190,7 +190,7 @@ Two of the works behind A41's reading are now read in full and two in
 part. They bear out the first half of the claim, and the second half, the
 cost to disagreement, appears in them only from the practitioners' side.
 
-- **Castro and Liskov**, [LIT-1217](../literature.d/LIT-1217.md) ([NOTE-tmp4lpyh](../notes.d/NOTE-tmp4lpyh.md)). The paper states the
+- **Castro and Liskov**, [LIT-1217](../literature.d/LIT-1217.md) ([NOTE-1356](../notes.d/NOTE-1356.md)). The paper states the
   limit A41 gave it: correct behaviour is "follow the algorithm in
   Section 4", and the protocol guarantees that operations are applied
   consistently, not that they are good; a faulty client "can write garbage
@@ -203,7 +203,7 @@ cost to disagreement, appears in them only from the practitioners' side.
   are tagged as faulty" wins (§1, §8). That is this claim's point that
   safeguards against capture can themselves be captured, made in 1999 for
   replicas.
-- **Zero trust**, [LIT-1226](../literature.d/LIT-1226.md) ([NOTE-tmpd81mn](../notes.d/NOTE-tmpd81mn.md)). It assumes no subject or
+- **Zero trust**, [LIT-1226](../literature.d/LIT-1226.md) ([NOTE-1371](../notes.d/NOTE-1371.md)). It assumes no subject or
   device is sound, and then trusts the policy engine and administrator
   absolutely; its only answer to their subversion is that they "must be
   properly configured and monitored, and any configuration changes must be
@@ -213,14 +213,14 @@ cost to disagreement, appears in them only from the practitioners' side.
   but legitimate act as suspect, and its remedy is a tuning phase and
   lenient reporting-only operation (§§3.3.1, 7.3.6): the claim's cost to
   disagreement in operational form.
-- **SP 800-53**, [LIT-1206](../literature.d/LIT-1206.md), skimmed ([NOTE-tmpgdnkh](../notes.d/NOTE-tmpgdnkh.md)), about a tenth read.
+- **SP 800-53**, [LIT-1206](../literature.d/LIT-1206.md), skimmed ([NOTE-1375](../notes.d/NOTE-1375.md)), about a tenth read.
   Its controls locate robustness in who may act, audit and change the
   configuration, and require that the auditor not be the access
   administrator. They name collusion as what they do not stop, with
   rotation, a further allocation process, as the remedy. The parts read
   state no cost to disagreement or self-revision; the only costs they
   mention are availability and privacy.
-- **The SEI insider-threat guide**, [LIT-1216](../literature.d/LIT-1216.md), skimmed ([NOTE-tmp3wx9h](../notes.d/NOTE-tmp3wx9h.md)). Its
+- **The SEI insider-threat guide**, [LIT-1216](../literature.d/LIT-1216.md), skimmed ([NOTE-1355](../notes.d/NOTE-1355.md)). Its
   separation-of-duties case is a failure by collusion: four insiders split
   the steps the separation was meant to keep apart. Its Best Practice 21
   reports concern that negative controls infringe rights, inhibit

@@ -119,7 +119,7 @@ contrast between taking part and being told.
 Two works bear on this claim's second defeater, that information of equal
 favourable content does as much as taking part.
 
-- **Kalla and Broockman**, [LIT-1407](../literature.d/LIT-1407.md) ([NOTE-tmpwypf3](../notes.d/NOTE-tmpwypf3.md)), behind [CASE-147](../cases.d/CASE-147.md), the
+- **Kalla and Broockman**, [LIT-1407](../literature.d/LIT-1407.md) ([NOTE-1396](../notes.d/NOTE-1396.md)), behind [CASE-147](../cases.d/CASE-147.md), the
   nearest contrast "between taking part and being told". Experiment 2
   weighs against the stronger reading of taking part: a stranger's video
   narrative, with voters sharing their own stories in 12% of
@@ -128,7 +128,7 @@ favourable content does as much as taking part.
   narrative, not the voter's own enactment. The paper does not ask whether
   conduct came before the revised view; its outcomes are attitudes
   reported in a later survey.
-- **Paluck, Green and Green**, [LIT-1420](../literature.d/LIT-1420.md) ([NOTE-tmpsnvbw](../notes.d/NOTE-tmpsnvbw.md)). The defeater has
+- **Paluck, Green and Green**, [LIT-1420](../literature.d/LIT-1420.md) ([NOTE-1393](../notes.d/NOTE-1393.md)). The defeater has
   no test in the randomized contact literature, which compares contact
   with no contact.
 

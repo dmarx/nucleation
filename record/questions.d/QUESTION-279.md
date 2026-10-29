@@ -98,13 +98,13 @@ divergence alone as evidence for its ontology."
 
 Two readings of this date give partial answers, of one shape.
 
-- **The Supreme Court in *Abrego Garcia***, [LIT-1606](../literature.d/LIT-1606.md) ([NOTE-tmpgunf9](../notes.d/NOTE-tmpgunf9.md)), did
+- **The Supreme Court in *Abrego Garcia***, [LIT-1606](../literature.d/LIT-1606.md) ([NOTE-1376](../notes.d/NOTE-1376.md)), did
   not accept the government's position as settling what could be done. It
   left in place the requirement to facilitate release and asked the
   government to "share what it can concerning the steps it has taken and
   the prospect of further steps": a court asking for the evidence behind a
   claim of inability before accepting it.
-- **The Grand Chamber in *El-Masri***, [LIT-1619](../literature.d/LIT-1619.md) ([NOTE-tmps22mh](../notes.d/NOTE-tmps22mh.md)), has a
+- **The Grand Chamber in *El-Masri***, [LIT-1619](../literature.d/LIT-1619.md) ([NOTE-1391](../notes.d/NOTE-1391.md)), has a
   burden-shifting rule (§§ 152–153, 165–167): where events lie within a
   State's exclusive knowledge, it must give "a satisfactory and convincing
   explanation", and a bare denial against concordant evidence fails. It

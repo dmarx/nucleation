@@ -90,11 +90,11 @@ unwilling, or willing and not compellable by any court.
 
 Two readings of this date bear on the claim's edges, not on its logic.
 
-- **The order in *Abrego Garcia***, [LIT-1606](../literature.d/LIT-1606.md) ([NOTE-tmpgunf9](../notes.d/NOTE-tmpgunf9.md)), behind
+- **The order in *Abrego Garcia***, [LIT-1606](../literature.d/LIT-1606.md) ([NOTE-1376](../notes.d/NOTE-1376.md)), behind
   [CASE-175](../cases.d/CASE-175.md), says nothing about joint ability. It presupposes that the
   United States can take steps toward a release that El Salvador would
   carry out.
-- **Fiss**, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-tmpafym3](../notes.d/NOTE-tmpafym3.md)), is a precedent for the separate
+- **Fiss**, [LIT-1600](../literature.d/LIT-1600.md) ([NOTE-1364](../notes.d/NOTE-1364.md)), is a precedent for the separate
   normative mapping "What it does not say" asks for. In his structural
   suit the wrongdoer disappears: "the costs and burdens of reformation are
   placed on the organization, not because it has 'done wrong' … but

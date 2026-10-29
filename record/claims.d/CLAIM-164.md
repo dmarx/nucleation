@@ -36,7 +36,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the reading of Zhang et al.
-    (NOTE-tmpxwtq6). The claim is unchanged.
+    (NOTE-1399). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -135,7 +135,7 @@ The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](
 ## Note of 2026-10-29: Zhang et al. keep the subspace but do not require the gap
 
 Zhang et al.'s SVD account of causal emergence, [LIT-1129](../literature.d/LIT-1129.md), is now read
-([NOTE-tmpxwtq6](../notes.d/NOTE-tmpxwtq6.md)). Its coarse-graining keeps the span of the top r_ε
+([NOTE-1399](../notes.d/NOTE-1399.md)). Its coarse-graining keeps the span of the top r_ε
 singular vectors and only then clusters, so its object is the subspace,
 as this claim says it must be. But its definitions do not require a gap.
 Its Definition 4 gives vague emergence for any ε at or above σ_N and below

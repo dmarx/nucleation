@@ -87,7 +87,7 @@ over different lags ([CLAIM-331](../claims.d/CLAIM-331.md)).
 A10 named Hazen, Griffin, Carothers and Szostak's functional
 information, [LIT-1148](../literature.d/LIT-1148.md), for this case's repeated production of good
 teams, and read it as function-relative and silent on whether successive teams are one
-individual. The work is now read ([NOTE-tmpyxqnm](../notes.d/NOTE-tmpyxqnm.md)), and both points hold.
+individual. The work is now read ([NOTE-1402](../notes.d/NOTE-1402.md)), and both points hold.
 It adds a third. The measure is taken over all configurations under a
 uniform weighting, explicitly not over what a selective process
 produces. So it can say how rare a good roster is among all rosters, but

@@ -151,7 +151,7 @@ standard witness, not its proof. The record holds Arrow only through Sen
 
 ## Note of 2026-10-29: Halpern and Moses, read
 
-Halpern and Moses, [LIT-1213](../literature.d/LIT-1213.md), is now read ([NOTE-tmpi6s63](../notes.d/NOTE-tmpi6s63.md)). Construction 3's
+Halpern and Moses, [LIT-1213](../literature.d/LIT-1213.md), is now read ([NOTE-1381](../notes.d/NOTE-1381.md)). Construction 3's
 argument is their informal induction of §4 and the formal one of Theorem
 5. Two precisions.
 

@@ -188,7 +188,7 @@ those standards helped cause." [CLAIM-369](../claims.d/CLAIM-369.md)'s coexisten
 The three works the note of 2026-10-23 calls registered unread are now
 read, so that no longer holds. Each narrows what it shows.
 
-- **Switch Transformers**, [LIT-1412](../literature.d/LIT-1412.md) ([NOTE-tmpa69pz](../notes.d/NOTE-tmpa69pz.md)). The load-balancing
+- **Switch Transformers**, [LIT-1412](../literature.d/LIT-1412.md) ([NOTE-1363](../notes.d/NOTE-1363.md)). The load-balancing
   term is there (eq. 4), but it is imposed on the router's dispatch
   fractions and mean probabilities, not on what experts learn, and the
   paper never measures specialization or diversity among experts. It is
@@ -198,7 +198,7 @@ read, so that no longer holds. Each narrows what it shows.
   better (Appendix C), which bears on the exploration regimes; and
   rerouting overflow tokens to a second-choice expert did not help
   (Appendix B), which bears on practical exclusion.
-- **Auxiliary-loss-free load balancing**, [LIT-1414](../literature.d/LIT-1414.md) ([NOTE-tmppnncw](../notes.d/NOTE-tmppnncw.md)). The
+- **Auxiliary-loss-free load balancing**, [LIT-1414](../literature.d/LIT-1414.md) ([NOTE-1388](../notes.d/NOTE-1388.md)). The
   exchange cited it as a contribution-based control of influence. It is
   not one. The bias responds to load, the count of tokens an expert was
   selected for, and to nothing about how much its output helped. In this
@@ -207,7 +207,7 @@ read, so that no longer holds. Each narrows what it shows.
   does bring an excluded expert back: an expert receiving few tokens has
   its bias raised until it is selected. It does not measure whether
   experts specialize.
-- **Mixture-of-experts in continual learning**, [LIT-1411](../literature.d/LIT-1411.md) ([NOTE-tmphutxm](../notes.d/NOTE-tmphutxm.md)).
+- **Mixture-of-experts in continual learning**, [LIT-1411](../literature.d/LIT-1411.md) ([NOTE-1380](../notes.d/NOTE-1380.md)).
   It proves specialization among identically initialized experts, with
   symmetry broken by routing noise and the order of task arrivals, which
   matches this study's operators that differ only by initialization and

@@ -10,7 +10,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: Kleinman, Liu and Redding read
-    (NOTE-tmpz95lz); UN voting and rivalries confirmed as outcomes,
+    (NOTE-1403); UN voting and rivalries confirmed as outcomes,
     with alliances, and the paper's own model is the strategic
     explanation. The case is unchanged.
 standing: documented
@@ -71,7 +71,7 @@ NBER working paper in 2020.)
 
 ## Note of 2026-10-29: the outcomes checked
 
-[LIT-1416](../literature.d/LIT-1416.md) is now read ([NOTE-tmpz95lz](../notes.d/NOTE-tmpz95lz.md)), in the NBER revision of March 2023,
+[LIT-1416](../literature.d/LIT-1416.md) is now read ([NOTE-1403](../notes.d/NOTE-1403.md)), in the NBER revision of March 2023,
 so "unread" no longer holds, and the flag on the outcome measures can be
 lifted. The outcomes are UN voting (S-, π- and κ-scores and ideal-point
 distance) and strategic rivalries (any, positional, spatial,
