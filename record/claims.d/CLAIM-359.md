@@ -56,6 +56,7 @@ illustrated_by:
 
 <!-- inactive-ok-file: CLAIM-276 CLAIM-277 CLAIM-281 CLAIM-347 THEORY-135 THEORY-141 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
 <!-- inactive-ok-file: LIT-1206 LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the parts read, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-tmp36bz2 — Unfetched since 2026-10-29; Edmondson 1996, cited in the note of that date as not read, nothing here rests on it -->
 
 # CLAIM-359: A self-governing organization's robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones
 
@@ -253,3 +254,16 @@ learning. That a safeguard treating dissent as suspect would cut learning
 is the claim's inference from it, not something the paper tests, and it
 gives no evidence on what protecting dissent costs or how it fares under
 compromise. The claim is unchanged and stays Proposed.
+
+## Note of 2026-10-29: Edmondson 1996, located and not fetched
+
+Edmondson's 1996 paper on the detection and correction of drug errors,
+LIT-tmp36bz2, is registered and Unfetched: an author's upload is located
+and could not be fetched. By the triage's account and later citations of
+it, it is where she found that the units with more recorded drug errors
+were the ones whose climate made errors safe to report, so that a punitive
+climate shows up as fewer reported errors rather than fewer errors. That
+is unverified here. If the reading bears it out, it is the nearest
+observation the record can reach of a control suppressing disclosure,
+which bears on the step the note on Edmondson 1999 calls the claim's own
+inference. The claim stays Proposed.

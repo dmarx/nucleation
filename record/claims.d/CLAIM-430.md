@@ -133,3 +133,44 @@ favourable content does as much as taking part.
   with no contact.
 
 Neither meets the defeater. The claim is unchanged and stays Proposed.
+
+## Note of 2026-10-29: a between-study comparison, and conduct without a changed view
+
+Two more works bear on the second defeater, and one changes what the
+earlier note of this date says.
+
+- **Lemmer and Wagner**, LIT-tmpn3fwx (NOTE-tmpgbgvt). The earlier note's
+  "The defeater has no test in the randomized contact literature" is no
+  longer true as a statement of what the record holds. This meta-analysis
+  estimates programmes with no taking part, eight extended-contact
+  comparisons in which participants read or watch cross-group friendships,
+  beside programmes in which they take part, and the first are no less
+  effective (0.42 against 0.31 for meetings and 0.25 for cooperative
+  learning). If anything, that weighs toward the defeater. It is weaker
+  than a test on each of the defeater's terms. Nothing matches favourable
+  content across arms: the comparison is between different studies of
+  different programmes, populations and measures, and the subtype
+  moderator is not significant. The outcomes are immediate posttests of
+  self-reported attitudes, so nothing shows the change "as large" on
+  conduct. The delayed analyses are not broken down by type, so nothing
+  shows it "as durable". And "indirect" pools extended contact with
+  virtual contact, interaction by computer, which is taking part at a
+  distance and is the subtype that did not work in the stronger designs.
+  So the sentence should read: no within-study test; between studies,
+  observed friendships do about as well as taking part, on immediate
+  self-reports.
+- **Scacco and Warren**, LIT-tmpi9wm8 (NOTE-tmpf5rji). In a randomized
+  field experiment, conduct moved and stated prejudice did not: mixed
+  classes discriminated less in incentivized games than single-religion
+  classes. That is what part 2 of the claim, taking part before the
+  reinterpretation, would show at the moment of measurement. It is not
+  evidence that the reinterpretation follows: there is one endline, no
+  later attitude measure, and the authors give that order only as one of
+  four readings. Their first reading cuts against the claim's mechanism.
+  If the contrast is mostly in-group bonding in the single-religion
+  classes, the mixed classes were not given a new way of relating; they
+  were spared a reinforced old one. The trial has no information arm, so
+  it does not touch the second defeater, and the anonymous-favour defeater
+  is not tested either.
+
+Neither meets the defeater. The claim is unchanged and stays Proposed.

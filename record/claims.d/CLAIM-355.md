@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -29,6 +29,13 @@ history:
     bindings are not his, but his split of stimulus-related from
     consciousness-related binding supports the claim's separation. The
     claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Revonsuo and Newman's introduction of
+    1999 registered, Unfetched (LIT-tmpn09mk); A27's scheme is not
+    to be credited to either 1999 paper until it is read. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -94,6 +101,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; the organizational-affect line, set aside by the owner, cited as the line this claim would rest on, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 CLAIM-288 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
+<!-- inactive-ok-file: LIT-tmpn09mk — Unfetched since 2026-10-29; Revonsuo and Newman 1999, cited in the note of that date as not read, nothing here rests on it -->
 
 # CLAIM-355: In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real
 
@@ -324,3 +332,13 @@ binding" above.
   (1994).
 
 The claim is unchanged.
+
+## Note of 2026-10-29: Revonsuo and Newman's introduction, located and not fetched
+
+The other 1999 paper A27's attribution could rest on, Revonsuo and
+Newman's introduction to the same issue of *Consciousness and Cognition*,
+is registered as LIT-tmpn09mk and Unfetched: a copy is located and could
+not be fetched. Whether it uses the words "functional" and "phenomenal",
+or gives A27's five-part list, is what a reading would settle. Until then
+the scheme this claim quotes from A27 is not to be credited to either 1999
+paper. The claim is unchanged.

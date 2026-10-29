@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp1nqby
 title: 'For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, which such configurations are impossible in which model classes, and which conditions turn out to be parameters of the others rather than conditions in their own right?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -17,6 +17,12 @@ history:
     A dated note added: pairwise separations on one exactly known kernel
     (CASE-164), not leave-one-out witnesses. The question is
     unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Eberhardt and Lee read
+    (NOTE-tmp0q96y), context and not a witness; Pfante et al. 2014
+    registered, Unavailable. The question is unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -41,6 +47,7 @@ answered_by:
 <!-- inactive-ok-file: CLAIM-353 CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
 <!-- inactive-ok-file: CLAIM-401 — Proposed; the claim and the regime filed from the same exchange, cited as the question's own partial answer and framing -->
 <!-- inactive-ok-file: CLAIM-348 — Proposed; the target-relativity of adequacy, cited for context, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-tmpodvz5 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
 
 # QUESTION-252: For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, which such configurations are impossible in which model classes, and which conditions turn out to be parameters of the others rather than conditions in their own right?
 
@@ -164,3 +171,22 @@ experiments/predictive_closure/) does not by itself show a positive
 infinite-history defect. In [CASE-163](../cases.d/CASE-163.md), what a probe budget identifies
 is a further budget-relative verdict, of a mechanism's class and
 parameters. The question is unchanged.
+
+## Note of 2026-10-29: lumpability does not fix the level effective information picks
+
+Two items of this date, context and not witnesses.
+
+- **Eberhardt and Lee**, LIT-tmpr2bnp (NOTE-tmp0q96y). Their example (17)
+  has a strongly lumpable partition, so the block label is closed and
+  Markov (THEORY-822) and the coarse-graining commutes with time
+  evolution. Yet EI picks that partition at one step and the micro at two.
+  Strong lumpability does not make the EI-optimal choice stable under a
+  change of time step. That is a property of EI, not one of this
+  question's five conditions.
+- **Pfante, Bertschinger, Olbrich, Ay and Jost 2014**, LIT-tmpodvz5, which
+  Rosas et al. (NOTE-1030) credit with the equivalence of informational
+  closure and commutativity for Markov spatial coarse-grainings, is
+  registered and Unavailable. The record still holds that result
+  second-hand, through THEORY-820 and THEORY-822.
+
+The question is unchanged and stays Open.

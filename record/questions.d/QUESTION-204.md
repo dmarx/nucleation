@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmp3zal3
 title: "Does a macro description's effective-information advantage survive when the same intervention distribution over micro states is used at both levels, and does the EI-optimal level agree with an independent interventionist test of which level the effects track?"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the first half is answered, no, by
+    THEORY-tmphfpe7: under one distribution over micro states at
+    both levels, macro EI cannot exceed micro EI, by data
+    processing. The second half is open, and the question stays
+    Open.
 tags:
 - causality
 - information-theory
@@ -23,6 +32,7 @@ summary: >-
 answered_by:
 - THEORY-787
 ---
+<!-- inactive-ok-file: THEORY-787 — Proposed; the causal thesis this question was filed to test, cited in the note of 2026-10-29 as open -->
 
 # QUESTION-204: Does a macro description's effective-information advantage survive when the same intervention distribution over micro states is used at both levels, and does the EI-optimal level agree with an independent interventionist test of which level the effects track?
 
@@ -52,3 +62,32 @@ What cannot settle it: more hand-built toy systems with positive causal
 emergence, which show only that the arithmetic works; or applications
 that estimate a transition matrix and report the best of many
 coarse-grainings with no correction for the search.
+
+## Note of 2026-10-29: the first half answered, by derivation
+
+The first half of this question is answered, and the answer is no.
+THEORY-tmphfpe7 (Active) shows that the test needs no system. With one
+distribution over micro states at both levels, each macro intervention
+realized by that distribution within its block, the macro EI is I(f(X);
+f(Y)) ≤ I(X; Y), the micro EI, by data processing. A macro can at most
+tie, on any system and under any distribution fixed in advance, the
+stationary one included. Hoel's positive causal emergence is the micro
+mechanism's gain from changing the distribution, less a non-negative loss.
+On Eberhardt and Lee's matrices (11), (13) and (14) the decomposition is
+0.456 = 0 + 0.456, 0.194 = −0.150 + 0.344 and 0.0001 = −0.074 + 0.074
+bits. Comolatti and Hoel, LIT-tmpzfaqi (NOTE-tmpcmbzs), concede the
+stationary case ("This was known"). Eberhardt and Lee, LIT-tmpr2bnp
+(NOTE-tmp0q96y), name the maximum-entropy distribution as the source of
+the artefact, but do not themselves compute EI under a common one.
+
+The second half, whether the EI-optimal level agrees with an independent
+interventionist test, is open. Eberhardt and Lee's (14) is one small case
+where the two part. A test of realization insensitivity would keep x₁ and
+x₂ apart, since their effects on the macro effect variable differ (0.8/0.2
+against 0.9/0.1), and EI merges them. It is a hand-built 3×3 matrix, which
+by this question's own terms cannot settle agreement in general.
+
+The bound is for EI. Measures that data processing does not bound,
+per-transition ones or ones normalized by log₂ n, can rise at a macro
+under a common distribution; they are not what this question asks about.
+THEORY-787 is noted the same day. The question stays Open.

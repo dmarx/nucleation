@@ -7,7 +7,7 @@ title: When an operator's authority is updated by how well it performs on the in
   it helped make dominant, the coupled meaning and influence of an organization
   can amplify an initial interpretive advantage without any gain in fidelity to
   independent evidence
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-26'
@@ -41,6 +41,12 @@ history:
     and Zwiebel (NOTE-1392): fixed weights are a second route,
     and their unregistered 2001 companion paper states the loop. The
     claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: DeMarzo, Vayanos and Zwiebel 2001,
+    which the earlier note calls not registered, is registered and
+    Unavailable (LIT-tmpapuas). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -84,6 +90,7 @@ bears_on:
 - QUESTION-100
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-280 CLAIM-281 CLAIM-285 CLAIM-288 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmpapuas — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
 
 # CLAIM-297: When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
 
@@ -193,3 +200,18 @@ self-perpetuating independently of accuracy". That is the closest
 published statement of this claim's loop the record has met. It is not
 registered, and it should be read before the loop is called new. The
 claim is unchanged.
+
+## Note of 2026-10-29: the companion paper, registered and not reached
+
+DeMarzo, Vayanos and Zwiebel 2001, "Social Networks and Financial
+Markets", which the earlier note of this date calls not registered and
+says should be read before the loop is called new, is now registered as
+LIT-tmpapuas. It is Unavailable: no copy of the working paper was found.
+So that condition stays unmet. The description in LIT-1134 leaves one
+difference open. In this claim an operator's authority is scored against
+the interpretation it helped make dominant. In the companion, as
+described, listening is scored by trading profits, which depend on prices
+and on what the asset pays, so the score need not be self-referential.
+Whether it is, and whether the stable structures are reached from a small
+initial advantage, can only be read from the paper. The claim is
+unchanged.

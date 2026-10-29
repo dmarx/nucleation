@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp29kxz
 title: 'When cooperation across a relation''s prevailing perspective changes how one party takes the other, does it change only the state of that party''s interpretive organization or also its coupling, how far outcomes may revise the governing interpretation, and can taking part be told experimentally from receiving information of equal favourable content?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,13 @@ history:
     Note of 2026-10-29 added: Paluck, Green and Green and Kalla and
     Broockman read; neither isolates taking part from receiving
     information. The question is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Scacco and Warren (NOTE-tmpf5rji) and
+    Lemmer and Wagner (NOTE-tmpgbgvt) read; a behavioural outcome
+    without the information contrast, and a between-study comparison
+    of observing against taking part. The question is unchanged.
 tags:
 - social-science
 - complex-systems
@@ -85,5 +92,36 @@ contrasts.
   telling stories, so the contrast between information and cooperation is
   not the one its arms draw. It measures no behaviour and no
   generalization to other groups.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-10-29: a behavioural outcome, and a meta-analysis without one
+
+- **Scacco and Warren**, LIT-tmpi9wm8 (NOTE-tmpf5rji). It meets the
+  measurement demand: conduct scored by incentivized, private, sealed
+  games, which do not pass through the interpretation under test, and its
+  stranger rounds are the "unfamiliar group members" the question names.
+  It does not draw the first contrast: there is no arm with favourable
+  information and none without taking part, since the course arms differ
+  in whom one took part with, not in whether one took part. Its result for
+  "local against general" is split: the effect toward strangers holds for
+  Christians and not overall. And it adds a contrast the question lacks,
+  same-group against cross-group taking part, since same-group cooperation
+  itself moved conduct, toward more discrimination. The earlier note's
+  "near zero in the pre-registered field trials" is, for this study, which
+  Paluck et al. count among their three pre-registered trials, a null on
+  attitudes beside a positive result on behaviour; its registration is
+  dated seven months after the endline, though before the researchers had
+  the outcome data.
+- **Lemmer and Wagner**, LIT-tmpn3fwx (NOTE-tmpgbgvt). No help on the
+  measurement demand: no behavioural outcome could be included. On "local
+  against general", the outcomes reach the whole target outgroup and
+  unspecified ethnic outgroups, but no comparison measured a specific
+  outgroup not involved, so generalization to the category is supported
+  and generalization beyond it untested, as NOTE-1393 found for its
+  sample. On the question's third part, between studies, programmes in
+  which participants only read or watch cross-group friendships did no
+  worse than those in which they took part, on immediate self-reports;
+  there is no comparison within a study.
 
 The question is unchanged and stays Open.

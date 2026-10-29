@@ -140,3 +140,24 @@ why the account is Active.
   statement. Hofmann and Hayes use its 1969 form, which adds "and how does
   it come about?"; Salkovskis et al. use the 1967 form without it
   ([NOTE-428](../notes.d/NOTE-428.md)). This account is what that clause demands of an answer.
+
+## Note of 2026-10-29: RefraMED's mechanism analyses, a worked case
+
+The RefraMED trial's NIHR monograph, LIT-tmpqiicn (NOTE-tmpswlra), reports
+causal mediation analyses that were meant as the evidence this account
+asks for, and they meet neither leg of it.
+
+- **Not specific.** The mediators are sessions attended, therapeutic
+  alliance and DBT skills. Alliance and exposure are common factors, not
+  RO DBT's theorised process. The processes RO DBT names, flexibility and
+  emotional expression, are reported only as outcomes compared between
+  arms and are never entered as mediators.
+- **No precedence.** Mediator and outcome are both measured at 7 months,
+  and the planned analyses of temporal order are not reported.
+- **Confounding not handled.** The instrumented analysis, the part
+  designed for it, failed on weak instruments.
+
+It is a worked example of this account's point that mechanism research has
+mostly failed on temporal precedence, and of Hofmann and Hayes's case of a
+model left untested. It does not disconfirm RO DBT's theory: the processes
+did move, and whether the outcome moved through them was not estimated.

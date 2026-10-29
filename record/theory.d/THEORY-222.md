@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpuumxo
 title: 'With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -28,6 +28,12 @@ history:
     Note of 2026-10-20 added: the wider claim this entry's narrowing
     dropped is now filed as THEORY-787, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: THEORY-tmphfpe7 extends this entry and
+    says what its gain is a gain of. The arithmetic, the title and
+    the status are unchanged.
 tags:
 - causality
 - complex-systems
@@ -56,6 +62,7 @@ extended_by:
 <!-- inactive-ok-file: THEORY-787 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: THEORY-497 — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; compared, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-204 — Open; the question whose first half the note of 2026-10-29 reports answered, cited as open -->
 
 # THEORY-222: With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level
 
@@ -171,3 +178,19 @@ The promotion audit narrowed this entry to what was shown. Under
 [ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, that causation itself, not only effective information, can be most effective at a macro scale, is now filed as
 [THEORY-787](THEORY-787.md), Proposed, which extends this entry and takes it as
 evidence. This entry's title and status are unchanged.
+
+## Note of 2026-10-29: what the gain is a gain of
+
+THEORY-tmphfpe7 (Active), filed from the readings of Comolatti and Hoel
+(LIT-tmpzfaqi, NOTE-tmpcmbzs) and Eberhardt and Lee (LIT-tmpr2bnp,
+NOTE-tmp0q96y), extends this entry. Nothing here changes: the arithmetic
+holds, and the title already names the measure and the intervention
+distribution. What the extension adds is what the advantage is. Uniform
+interventions at each level amount to one distribution over micro states,
+uniform over blocks and then within each block, which is not the micro
+uniform whenever blocks differ in size. Under any one distribution at both
+levels, macro EI cannot exceed micro EI. So a positive CE equals the micro
+mechanism's gain from that distribution over the uniform, less a
+non-negative loss. That answers the first half of QUESTION-204. The four
+examples behind this entry's 0.40 to 2.92 bits were not recomputed, and
+LIT-1038's temporal and spatio-temporal macros are outside the bound.

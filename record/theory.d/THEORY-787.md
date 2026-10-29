@@ -59,6 +59,7 @@ extends:
 answers:
 - QUESTION-204
 ---
+<!-- inactive-ok-file: QUESTION-204 — Open; the question whose first half the note of 2026-10-29 reports answered, cited as open -->
 
 
 # THEORY-787: A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
@@ -101,3 +102,43 @@ system's own or another fixed intervention distribution, on systems not
 built for it, and agrees with an independent interventionist test.
 Rejected if the macro advantage disappears whenever the same intervention
 distribution over micro states is used at both levels.
+
+## Note of 2026-10-29: the "in trouble if" clause is met for effective information
+
+The promote_when says this account is in trouble if the macro advantage
+disappears whenever the same intervention distribution over micro states
+is used at both levels. For effective information that condition is now
+met, and by proof, not by example. THEORY-tmphfpe7 (Active): with one
+distribution over micro states at both levels, each macro intervention
+realized by that distribution within its block, the macro EI is I(f(X);
+f(Y)), which data processing bounds by I(X; Y), the micro EI. A macro can
+at most tie. By the same derivation, the positive causal emergence of
+LIT-1038 is the micro mechanism's gain from changing the distribution,
+from the uniform one to the one Hoel's macro interventions induce, less a
+non-negative loss.
+
+Two readings of this date bear the same way.
+
+- **Comolatti and Hoel**, LIT-tmpzfaqi (NOTE-tmpcmbzs), concede the
+  decisive case: under the system's own stationary distribution, used at
+  both levels, EI shows no emergence, "This was known". Their reply, that
+  other measures and individual transitions still show emergence, changes
+  the measure, not the distribution. Those measures are pointwise or
+  normalized by log₂ n, and data processing does not bound them. So the
+  reply is not evidence for EI's level, which is what this account
+  asserts. Their only system is a bipartite chain built so that its macro
+  is a deterministic NOT gate, a hand-built toy of the kind the
+  promote_when says cannot settle it.
+- **Eberhardt and Lee**, LIT-tmpr2bnp (NOTE-tmp0q96y), trace EI's
+  ambiguity and non-commutativity to the maximum-entropy distribution,
+  "extraneous to the system". They do not compute EI under a common
+  distribution; the record's derivation supplies that step.
+
+The bound covers a coarse-graining of one transition. It does not reach
+LIT-1038's temporal and spatio-temporal macros, and it says nothing about
+measures that data processing does not bound (THEORY-tmphfpe7, "What this
+does not say").
+
+A move to Rejected, or a narrowing of this account to measures that data
+processing does not bound, is proposed and left to the owner. The status
+and the title are unchanged.

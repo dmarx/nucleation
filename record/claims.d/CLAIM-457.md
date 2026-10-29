@@ -103,3 +103,15 @@ Two readings of this date bear on the claim's edges, not on its logic.
   be mapped to duty; it is not part of this claim.
 
 The claim is unchanged.
+
+## Note of 2026-10-29: the remand order reads "facilitate" as one member's share
+
+The district court's order on remand, LIT-tmpw3c17 (NOTE-tmpdnf6p), says
+what "facilitate" required of one member of a two-state arrangement: its
+own share, the steps "available to them" toward a release that El Salvador
+would carry out, by the means its past practice shows (requests,
+embassies, travel documents, transport). It orders nothing of El Salvador.
+That is this claim's construction: A can be ordered to do A's part of a
+plan that needs B, without anyone ordering the outcome. Like the Supreme
+Court's order, it presupposes and does not decide that the two together
+can realize the outcome. The claim is unchanged.
