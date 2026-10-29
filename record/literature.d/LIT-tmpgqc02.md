@@ -1,7 +1,14 @@
 ---
-status: Deferred
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpani5h) from arXiv v4; worth reading for
+  the cleanest statement of what a sheaf's restriction maps decide about
+  diffusion: which labellings its harmonic space can separate, class by
+  class of maps, with proofs. The separating sheaves are all built from
+  the labels, and the orthogonal construction works at d = 8, which the
+  paper denies.
 title: 'Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -9,6 +16,15 @@ history:
     Filed, not read, from A5 of the exchange "Paper assessment"
     (2026-10-28 to 29). `published:` is arXiv v1 2022-02-09 (NeurIPS
     2022) (ADR-002).
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full from arXiv 2202.04579v4 (6 January 2023), 29 pp., all
+    sections and Appendices A–F (NOTE-tmpani5h). Status Deferred → Active;
+    summary rewritten from the text. The citation stands. The reading
+    found one error of substance (Proposition 13's dimension restriction)
+    and three small ones (the constant in Proposition 5, a typo in eq. 8,
+    a typo in Table 4); they are in the NOTE.
 tags:
 - network-science
 - mathematics
@@ -26,20 +42,30 @@ keywords:
 - 'sheaf diffusion'
 implementations: []
 summary: >-
-  Bodnar et al. (2022). Uses cellular sheaf theory to link a graph's
-  geometry with how graph neural networks behave under heterophily and
-  oversmoothing, and learns the sheaf's restriction maps from data,
-  giving diffusion models that do well on heterophilic graphs.
+  Bodnar et al. (2022). In the time limit, diffusion with a sheaf
+  Laplacian projects node features onto its harmonic space, and the
+  class of restriction maps decides which labellings that space can
+  linearly separate. Weighted graph Laplacians cannot separate the sides
+  of a balanced bipartite graph; signed one-dimensional maps separate any
+  two classes and no one-dimensional sheaf separates three; diagonal maps
+  with d ≥ C stalks and orthogonal bundles with C ≤ 2d separate any
+  number. Sheaf convolutions with non-symmetric maps can raise the
+  Dirichlet energy that graph convolutions must lower. A model that
+  learns the maps from node features at each layer is competitive on
+  small heterophilic benchmarks. The separating sheaves are built from
+  the labels, and the learned ones are inspected only on synthetic data.
 ---
 
 # LIT-tmpgqc02: Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs
 
 Bodnar, C., Di Giovanni, F., Chamberlain, B. P., Liò, P., & Bronstein, M. M. (2022). Neural sheaf diffusion: A topological perspective on heterophily and oversmoothing in GNNs. *NeurIPS 2022*.
 
-Not read. The summary is drawn from the abstract and from the exchange's
-description, which the lookup of 2026-10-29 checked. A reading should check
-it first.
-
 ## Why this is here
 
 A5 set it beside [LIT-tmpr8qf7](LIT-tmpr8qf7.md): correspondence maps learned from data, general linear and not constrained to a group, which is where [QUESTION-282](../questions.d/QUESTION-282.md) asks what fixes a correspondence. [LIT-tmpr8qf7](LIT-tmpr8qf7.md) cites it (ref. [21]) as gauge structure with no interaction between edge maps. Learned maps are no more meaningful than chosen ones until validated ([QUESTION-130](../questions.d/QUESTION-130.md)). `anthology-candidate`: an architecture paper.
+
+The reading (NOTE-tmpani5h) bears this out and sharpens it: the maps are
+functions of each edge's own endpoint features, so nothing ties them
+around a cycle, and what fixes them is the classification loss. The
+theory's separating sheaves are defined from the class labels, so the
+paper's "right sheaf" is fixed by the task, not found.

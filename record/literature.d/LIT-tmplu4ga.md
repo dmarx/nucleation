@@ -1,7 +1,13 @@
 ---
-status: Deferred
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpoaymu) from the TACL version of record,
+  with the arXiv v1 preprint compared; worth reading as the reference
+  description of a strong open MT metric and its limits: segment-level
+  Kendall τ near 0.43 against expert MQM, span F1 near 0.28, and score
+  and spans that agree with each other far better than with the experts.
 title: 'xCOMET: Transparent Machine Translation Evaluation through Fine-grained Error Detection'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -9,6 +15,17 @@ history:
     Filed, not read, from A5 of the exchange "Paper assessment"
     (2026-10-28 to 29). `published:` is arXiv v1 2023-10-16, ahead of
     TACL 12 (online 2024-09-04, doi 10.1162/tacl_a_00683) (ADR-002).
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full from the TACL version of record (12:979–995, CC BY, ACL
+    Anthology 2024.tacl-1.54), 17 pp., and the arXiv preprint 2310.10482v1
+    (the only arXiv version), 19 pp., compared (NOTE-tmpoaymu). Status
+    Deferred → Active; summary rewritten from the text. The citation
+    stands; Crossref gives pages 979–995 and the online date 2024-09-04.
+    The journal version adds the WMT23 results and the ablations and
+    corrects the preprint in places; one table's summary row is
+    inconsistent in both (NOTE-tmpoaymu).
 tags:
 - translation
 - anthology-candidate
@@ -23,19 +40,27 @@ keywords:
 - 'COMET'
 implementations: []
 summary: >-
-  Guerreiro et al. (2023). An open learned metric for machine
-  translation that combines sentence-level scores with error-span
-  detection.
+  Guerreiro et al. (2023; TACL 2024). xCOMET, an open learned metric for
+  machine translation, predicts from one XLM-R encoder a sentence-level
+  score and a severity tag for each token, with or without a reference or
+  source, and folds an MQM score computed from its own error spans into
+  its final score. On WMT22 expert MQM it reaches segment-level Kendall τ
+  of 0.42–0.43 and span F1 of 0.27–0.28, at or above the open metrics
+  and GPT-4 prompting of its time, and it would have won the WMT23
+  metrics task. Its spans and its score agree at Pearson 0.73–0.92, far
+  above either's agreement with experts. Trained with synthetic
+  hallucinations, it flags most injected critical errors and ranks fully
+  detached hallucinations low.
 ---
 
 # LIT-tmplu4ga: xCOMET: Transparent Machine Translation Evaluation through Fine-grained Error Detection
 
 Guerreiro, N. M., Rei, R., van Stigt, D., Coheur, L., Colombo, P., & Martins, A. F. T. (2024). xCOMET: Transparent machine translation evaluation through fine-grained error detection. *TACL*, 12, 979–995.
 
-Not read. The summary is drawn from the abstract and from the exchange's
-description, which the lookup of 2026-10-29 checked. A reading should check
-it first.
-
 ## Why this is here
 
 A5 named it, with the COMET toolkit, as the strong baseline a pragmatic-transport account must beat, not as a criterion of fidelity; [CASE-071](../cases.d/CASE-071.md) already shows a metric's preferences parting from human raters'. A baseline in [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md). `anthology-candidate`: an evaluation tool for ML practice.
+
+The reading (NOTE-tmpoaymu) bears out the exchange's placing. The paper
+tests xCOMET only as a scorer of given translations; it is not tested as a
+selection criterion, which is where CASE-071's bias arises.

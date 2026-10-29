@@ -1,7 +1,13 @@
 ---
-status: Deferred
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpty1lx) from arXiv v2; worth reading as
+  the plainest demonstration that a perfect round trip can rest on a
+  channel the intermediate's reader never sees, so that round-trip
+  agreement certifies invertibility, not content. One model, mostly
+  shown by example.
 title: 'CycleGAN, a Master of Steganography'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -9,9 +15,20 @@ history:
     Filed, not read, from A5 of the exchange "Paper assessment"
     (2026-10-28 to 29). `published:` is arXiv v1 2017-12-08 (NIPS 2017
     Workshop on Machine Deception) (ADR-002).
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full from arXiv 1712.02950v2 (16 December 2017), 6 pp.
+    (NOTE-tmpty1lx). Status Deferred → Active; summary rewritten from the
+    text. `anthology-candidate` added: the paper says the cycle loss
+    "should be modified" in serious applications and warns about losses
+    built from compositions of networks, both instructions for ML
+    practice. The workshop is named in the arXiv comment; the PDF
+    carries only the NIPS 2017 footer. The citation otherwise stands.
 tags:
 - representation-learning
 - information-theory
+- anthology-candidate
 date: '2026-10-29'
 published: '2017-12-08'
 arxiv: '1712.02950'
@@ -24,21 +41,27 @@ keywords:
 - 'image translation'
 implementations: []
 summary: >-
-  Chu, Zhmoginov & Sandler (2017). CycleGAN learns to hide information
-  about a source image in the images it generates, in a nearly
-  imperceptible high-frequency signal, so that the reverse map can
-  reconstruct the input; the cycle-consistency loss is what makes it so
-  vulnerable to adversarial attack.
+  Chu, Zhmoginov & Sandler (2017). A CycleGAN trained between aerial
+  photographs and maps reconstructs details of a photograph that its
+  generated map does not show, because it hides them in a low-amplitude,
+  high-frequency signal: noise of three 8-bit levels or JPEG compression
+  destroys the reconstruction, low-frequency change does not. The same
+  sensitivity lets an imperceptible perturbation of almost any map make
+  the reverse generator produce any chosen photograph. The authors trace
+  it to the cycle-consistency loss between domains of unequal
+  complexity, by argument; the evidence is one model, mostly shown by
+  example.
 ---
 
 # LIT-tmp36f4u: CycleGAN, a Master of Steganography
 
 Chu, C., Zhmoginov, A., & Sandler, M. (2017). CycleGAN, a master of steganography. NIPS 2017 Workshop on Machine Deception.
 
-Not read. The summary is drawn from the abstract and from the exchange's
-description, which the lookup of 2026-10-29 checked. A reading should check
-it first.
-
 ## Why this is here
 
 A5 called it "the most revealing conceptual warning": a round trip can be perfect while the intended correspondence is not learned, because the information travels in a channel the audience cannot see. It is the converse failure to [CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md)'s collapse, where routes agree because nothing travels, and a learned instance of [THEORY-1088](../theory.d/THEORY-1088.md)'s consensus by changed maps.
+
+The reading (NOTE-tmpty1lx) bears the description out. One addition: the
+loop is not wholly unchecked, since discriminators score the map; but they
+score whether it looks like a map, not whether it says what the photograph
+shows.

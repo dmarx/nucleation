@@ -1,0 +1,217 @@
+---
+status: Read
+paper: 'LIT-tmp36f4u'
+title: 'Chu, Zhmoginov and Sandler — CycleGAN as steganographer'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the arXiv preprint 1712.02950v2 (16 December 2017;
+    v1 8 December 2017), 6 pp., whose arXiv comment names the NIPS 2017
+    workshop on Machine Deception; the PDF itself carries only the NIPS
+    2017 conference footer. Extracted with `pdftotext -layout`, which lost
+    ε and the primes on x′ and x″; restored from context. I read the
+    abstract, §§1–5, the acknowledgement, the eleven references, and every
+    figure caption (Figs. 1–5); the images themselves did not survive
+    extraction and were not inspected. Pages are the preprint's. v1 was
+    not read. No computation was run: the paper reports no numbers beyond
+    those in Fig. 3, and its claims are about a trained model not
+    released with it.
+date: '2026-10-29'
+summary: >-
+  A CycleGAN trained to translate aerial photographs to maps and back
+  reconstructs details of the photograph, such as the pattern of dots on a
+  roof, that are absent from the visible map, because it encodes them in a
+  low-amplitude, high-frequency signal in the map. Noise of three 8-bit
+  levels, or JPEG compression, destroys the reconstruction; low-frequency
+  changes do not. Any target photograph can be produced from almost any
+  map by an imperceptible perturbation found by gradient descent, and the
+  perturbation needed shrinks as training proceeds. The cycle-consistency
+  loss is met by a channel the map's human reader cannot see.
+---
+<!-- inactive-ok-file: CLAIM-342 — Proposed; the claim this reading bears on, cited as open -->
+
+# NOTE-tmpty1lx: Chu, Zhmoginov and Sandler — CycleGAN as steganographer
+
+## Contribution
+
+A short empirical paper about one trained model. It shows that CycleGAN's
+cycle-consistency requirement, GFx ≈ x for photograph x, map generator F
+and photograph generator G, is met by hiding information about x in the
+generated map Fx, in a form a person looking at the map does not see. It
+characterises the hidden signal by its sensitivity to noise (§3), shows
+that the same sensitivity makes G easy to drive to any output (§4), and
+argues that cycle consistency between domains of unequal complexity
+invites exactly this (§5).
+
+## Key insight
+
+A round trip can be perfect while the intermediate does not carry the
+source's content in the code its audience reads. "Even though the cyclic
+consistency loss is intended to force the network into encoding
+information about a source image semantically into the generated image,
+the model in practice learns to 'cheat' by encoding information
+imperceptibly, adversarially" (p. 5). The reason offered is structural:
+"it is impossible for a CycleGAN model to learn a perfect one-to-one
+correspondence between aerial photographs and maps, when a single map can
+correspond to a vast number of aerial photos" (p. 2).
+
+## Assumptions
+
+- **One model, one dataset.** A CycleGAN trained for 500 epochs on about
+  1,000 aerial photographs and 1,000 maps (p. 1). The authors say they see
+  the phenomenon "when CycleGAN is trained on datasets other than maps"
+  (p. 2) and show none.
+- **The two conditions** CycleGAN is trained to meet: Fx ∼ p(y) and
+  Gy ∼ p(x), enforced by discriminators, and GFx = x and FGy = y, enforced
+  by the loss ‖GFx − x‖ + ‖FGy − y‖ (p. 1).
+- **The noise model** for §3: Gaussian noise of standard deviation ε and
+  spatial correlation σ, averaged over 50 aerial photographs (pp. 2–3).
+
+## Key results
+
+- **Hidden information (§2, p. 2; Figs. 1, 2).** For an unseen photograph,
+  GFx is nearly identical to x, including details absent from Fx: "the
+  pattern of black dots on the white roof in x is perfectly reconstructed,
+  even though in the map, that area appears solidly gray" (p. 2).
+  Adaptive histogram equalization shows "an extra, high-frequency signal"
+  in the generated map that a training map lacks (p. 2).
+- **Sensitivity to noise (§3, p. 3; Fig. 3).** With
+  V = E‖G(Fx + z) − GFx‖₁, V "attains nearly its maximum value as soon as
+  ε ≥ 3/256 ≈ 0.01, which corresponds to only 3 levels when the image is
+  quantized by 8-bit integers", and "simply encoding the generated map Fx
+  with lossy JPEG compression destroyed the reconstruction" (p. 3). V
+  falls to its minimum once the noise's spatial correlation σ ≥ 2, so the
+  information "is fairly robust to low-frequency content – including what
+  we perceive as the map itself" (p. 3).
+- **Edits compose (§3, p. 3; Fig. 4).** Two edits of x (a tree added in two
+  places) give map differences Δ′, Δ″, and G(Fx + Δ′ + Δ″) contains both
+  trees with no artifacts, consistent with G acting linearly on such small
+  perturbations (eq. 2); the change Δ′ "is not localized around the added
+  tree but extends far beyond this region" (p. 3, footnote 1). Added to an
+  unrelated map, Δ′ does not reliably produce a tree (p. 4).
+- **Any output from any map (§4, p. 4; Fig. 5).** Solving
+  y* = argmin_y ‖Gy − x*‖ from a starting map y₀ by gradient descent, "the
+  addition of a low-amplitude signal to virtually any initial map y₀ is
+  sufficient to produce a given aerial image, and the specially crafted
+  map y* is visually indistinguishable from the original map y₀" (p. 4).
+- **Training as a cooperative attack (§4, p. 4).** The cycle loss
+  argmin_{F,G} ‖GFx − x‖ has the form of the attack objective, so training
+  is read as F generating adversarial maps for G while "G may actually be
+  seen as cooperating in this attack by learning to become increasingly
+  susceptible to attacks". The evidence: "the magnitude of the difference
+  y* − y₀ necessary to generate a convincing adversarial example by
+  Equation 3 decreases as the CycleGAN model trains" (p. 4). No values are
+  given.
+- **Contrast (§5, p. 5).** The same attack on VAEs "requires noticeable
+  changes to the input image" (Tabacof et al., Kos et al.).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | CycleGAN on maps reconstructs photograph details absent from the visible map | moderate | Figs. 1–2, one model; said to hold on other datasets, not shown |
+| C2 | The hidden information is in a low-amplitude, high-frequency signal: 3/256 noise or JPEG destroys reconstruction, low-frequency noise does not | moderate | Fig. 3, 50 photographs, one model |
+| C3 | An imperceptible perturbation of almost any map makes G output any chosen photograph | moderate | Fig. 5 and text; examples, no rate of success |
+| C4 | The perturbation needed shrinks during training, so G cooperates with F | weak | stated, no numbers |
+| C5 | Unequal entropy of the domains makes a one-to-one semantic correspondence impossible and causes the hiding | weak | informal argument (pp. 2, 4–5); not tested, e.g. by equalising entropy |
+| C6 | Training CycleGAN is "nearly certain" to produce adversarial maps, since gradient descent can find them | weak | analogy from §4's attack (p. 4) |
+
+## Method
+
+The trained model is probed four ways: visual comparison of x, Fx and GFx
+with local contrast enhancement; the noise-sensitivity curve V(ε, σ);
+composition of edit-induced perturbations; and a gradient-descent attack
+on G from a fixed starting map.
+
+## Concepts
+
+- **Cycle consistency** — GFx = x and FGy = y, enforced by an L1 loss on
+  the round trip (p. 1).
+- **Hidden information / encoding** — information about x in Fx that the
+  round trip uses and the visible map does not show (p. 2).
+- **Steganography (title)** — the paper's word for hiding a message in a
+  cover image without visible change; it cites steganographic GANs (refs.
+  Shi et al., Volkhonskiy et al.).
+- **Adversarial example** — an input perturbed imperceptibly to force a
+  chosen output (p. 4, Szegedy et al.).
+
+## Connections
+
+- **Zhu et al. 2017** (CycleGAN) is the model probed; Szegedy et al. 2013
+  and Goodfellow et al. 2014b on adversarial examples; Tabacof et al. and
+  Kos et al. on attacks on generative models; Dziugaite et al. on JPEG and
+  adversarial images (references, p. 5).
+- **THEORY-562** in the record is the same shape in another field: in
+  REST2 simulations, short round trips between temperature rungs show that
+  replicas mix along the ladder, not that conformations are sampled. A
+  round-trip criterion certifies the round trip.
+
+## Bearing on the record
+
+- **CLAIM-tmpgwud2: the converse case, from outside the record.** The claim
+  says route agreement measures coherence, not fidelity, and gives the
+  collapse construction, where every source maps to one output and routes
+  agree because nothing travels. CycleGAN is the opposite failure: the
+  round trip agrees because everything travels, in a channel the
+  intermediate's reader does not read. Agreement of x with GFx is
+  near-perfect while the map, read as a map, is a lossy rendering. It
+  supports the claim's independence thesis with an empirical case: round-
+  trip agreement and fidelity of the intermediate for its audience come
+  apart in both directions. It also adds what the collapse case does not:
+  agreement can be bought by the composition exploiting a channel, not
+  only by discarding content.
+- **THEORY-1088: a learned instance of agreement by changing the maps, with
+  a check that does not reach content.** In Hansen and Ghrist's discourse
+  sheaf the expression maps move until the opinions are a global section.
+  Here F and G co-adapt until the round trip closes, and the paper reads G
+  as "cooperating" with F (p. 4). Unlike THEORY-1088's flow, there is an
+  outside check, the discriminators, but it scores whether Fx looks like a
+  map, not whether it says what x shows. The loop closes on its own terms.
+- **CLAIM-342: an instance where the evidence passes through the loop.**
+  The cycle loss is scored by the composition it trains. The only
+  independent evidence (the discriminator) scores a property the
+  interpretation does not depend on. That is CLAIM-342's condition for
+  self-confirmation, met with no action at all. The paper's proposed
+  defence (§5) is to add a visible fourth channel to the map so the
+  information "need not be hidden in the image but may instead be stored
+  in this fourth channel": a legitimate side channel, not an independent
+  check.
+- **Two THEORYs**: THEORY-tmp3yv5g for the hidden high-frequency channel
+  and its adversarial consequence (Proposed), THEORY-tmpocg1h for the
+  general point that round-trip agreement under unequal complexity does
+  not certify content in the intended code (Proposed).
+- **Instruction for ML practice: yes, belongs to the anthology.** "In
+  serious applications, the cyclic consistency loss should be modified to
+  prevent such attacks" (p. 5) and "caution is necessary when designing
+  loss functions that involve compositions of neural networks" (p. 5). The
+  LIT now carries `anthology-candidate`.
+
+## Limitations
+
+- **One trained model, qualitative evidence.** Only Fig. 3 is quantitative;
+  §§2, 4 rest on examples. No count of how often the attack succeeds, and
+  no numbers for the claim that the needed perturbation shrinks.
+- **The entropy argument is not tested.** The authors propose, as future
+  work, adding a hidden variable to raise one domain's entropy (p. 5); no
+  such experiment is reported, so the cause is argued, not shown.
+- **"Nearly certain"** (p. 4) that training produces adversarial maps is an
+  inference from the existence of the attack.
+- **No release.** The trained model and the photographs are not released
+  with the paper, so nothing here could be re-run.
+- **Workshop paper**, six pages; the authors call their reading of the
+  training dynamics a "view" (p. 4).
+
+## Open questions
+
+- Does the hidden channel vanish when the intermediate domain is given as
+  much capacity as the source, as §5 proposes? A model trained with the
+  fourth channel and probed with §3's noise curve would say.
+- How much of the photograph's information is in the high-frequency
+  component, measured rather than seen? A mutual-information estimate
+  between x and the high-pass part of Fx would quantify "hides".
+- Does any learned translation whose round trip is enforced, between
+  languages for instance, show the same thing? A translation-and-back loss
+  with a constrained-capacity intermediate is the analogue the record's
+  pragmatic-transport line would need.
