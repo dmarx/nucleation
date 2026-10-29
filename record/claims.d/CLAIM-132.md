@@ -16,7 +16,6 @@ line:
 - formal-apparatus
 objects_to:
 - CLAIM-137
-- CLAIM-136
 grounds:
 - LIT-893
 - THEORY-032

@@ -21,12 +21,13 @@ line: 'pragmatic-transport'
 grounds:
 - LIT-045
 - LIT-154
-- THEORY-032
 - LIT-895
 complements:
 - CLAIM-137
 uses:
 - TERM-040
+corroborated_by:
+- THEORY-032
 summary: >-
   The owner's U54 position, its second part: "Individuated objects exist,
   but only in so far as they are differentiated by their relata." Filed
@@ -36,7 +37,6 @@ summary: >-
   plurality without differentiation (A194 §5, A198 §3, A203 §2). The owner
   has not chosen between the two versions.
 objected_by:
-- CLAIM-132
 - CLAIM-134
 - CLAIM-138
 illustrated_by:
@@ -189,3 +189,14 @@ with objects emergent, and is not this claim's. The non-eliminative
 precedent in the same neighbourhood is Bohr on Faye and Jaksland's reading,
 whose relational properties are properties of real relata
 ([THEORY-1076](../theory.d/THEORY-1076.md)).
+
+## Note of 2026-10-29: what holds it back
+
+The owner has not chosen between the strict and the weak version, and the
+objections bite them differently. CLAIM-134 (Chakravartty's dilemma, through
+THEORY-034) and CLAIM-138 (the Newman objection) are live, Proposed and
+unanswered. CLAIM-132 is no longer filed as an objection here: it denies
+only that the character analogy supports this claim, which "Why character
+theory does not carry it" already says. THEORY-032 moves from the grounds
+to `corroborated_by` (ADR-058), since the Yoneda lemma "is no help either
+way".

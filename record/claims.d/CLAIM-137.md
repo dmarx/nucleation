@@ -3,8 +3,25 @@ number: 137
 status: Proposed
 formerly:
 - CLAIM-tmpaedgb
-title: 'A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, so that invariant has classificatory priority over any particular realization'
-version: 1
+title: 'A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed at the seventh status review to record CLAIM-249's
+    concession (ADR-059): comparing characters across realizations
+    needs one group identified on all of them, fixed only up to
+    automorphism, and an automorphism can swap characters. The note of
+    2026-10-10 answered it by anchoring the group on the situation;
+    the title now states that condition. CLAIM-132's bounds (up to
+    isomorphism, kinds and not tokens, complete only in characteristic
+    zero) were already in version 1's title and body and are
+    unchanged. Version 1's title read: A communicative kind is
+    identified by an invariant that does not depend on any one
+    realization, as a group character identifies a representation up
+    to isomorphism, so that invariant has classificatory priority over
+    any particular realization.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -13,7 +30,10 @@ defeated_if: >-
   relational invariant tried and are still reliably judged different
   acts. Or judges reliably privilege one realization, an original, so
   that agreement with it rather than with a shared invariant fixes the
-  kind.
+  kind. Or no symmetry group of the situation can be identified across the
+  realizations except by labels of a medium, so that which invariant a
+  realization has depends on a correspondence the analyst chooses
+  (CLAIM-249).
 tags:
 - metaphysics
 - individuation
@@ -41,7 +61,9 @@ summary: >-
   [QUESTION-021](../questions.d/QUESTION-021.md) that takes neither horn.
   The assistant kept "more essential" in the sense of classificatory
   priority (A194 §1, A198 §I). A218 weakens it further, without argument,
-  to "may be better guides to its kind".
+  to "may be better guides to its kind". Since version 2 it says the
+  realizations must share a symmetry group anchored on the situation
+  (CLAIM-249).
 objected_by:
 - CLAIM-132
 - CLAIM-246
@@ -52,7 +74,7 @@ illustrated_by:
 <!-- inactive-ok-file: CLAIM-151 CLAIM-136 — Proposed; the constitution claim this rests on and the individuation claim beside it, both open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; cited as the manuscript's thesis, which this does not replace -->
 
-# CLAIM-137: A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, so that invariant has classificatory priority over any particular realization
+# CLAIM-137: A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization
 
 ## The claim
 
@@ -73,6 +95,18 @@ shared across its realizations." The kind is a communicative kind
 ([TERM-040](../terms.d/TERM-040.md)), and the invariant is a character-like structural signature
 ([TERM-041](../terms.d/TERM-041.md)), a character in the strict sense only when it is the trace
 of a specified representation.
+
+**The group must be anchored.** A character is a function on a group, so
+comparing realizations needs one group identified on all of them. That
+identification is fixed only up to automorphism, and an automorphism can
+swap characters (CLAIM-249). The claim holds when the group is a symmetry
+of the situation, such as a swap of participants, and each medium's action
+is induced from that one, which is CLAIM-011's anchoring. If the group acts
+faithfully on the situation, only the identity identification survives.
+Identified instead by a label of a medium, the mirror-printed round of
+CASE-057 reads as the other round. Within that condition the invariant is
+bounded as CLAIM-132 bounds a character: up to isomorphism, for kinds, and
+complete only in the most favourable setting.
 
 It rests on the constitution claim ([CLAIM-151](CLAIM-151.md)). An invariant of the
 act's relations can fix the kind only if those relations are part of what the
@@ -152,3 +186,10 @@ automorphism can permute the characters: for the cyclic group of order 3
 with χ₁(g^k) = ω^k and χ₂(g^k) = ω^(2k), the automorphism g ↦ g² gives
 χ₁(g^(2k)) = ω^(2k) = χ₂(g^k), so it swaps the two nontrivial characters.
 The owner's position and its defeat condition are unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+It rests on CLAIM-151, which is Proposed. No communicative invariant has
+been built (TERM-041), and CASE-057 meets the condition of one act realized
+in two media only by construction. As an interpretive owner thesis it also
+needs the owner's assent to the narrowed title.
