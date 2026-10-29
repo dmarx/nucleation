@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'The stability of memories during brain remodeling: A perspective'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The authors' synthesis of both lines. For QUESTION-tmpws54x.
+The authors' synthesis of both lines. For [QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md).

@@ -31,9 +31,9 @@ him as butterflies. The experiment is real, but its order is the other way
 round from the recollection.
 
 - **The publication came first.** Blackiston, Silva Casey and Weiss
-  (LIT-tmp0v56k), in 2008, trained tobacco hornworm caterpillars to avoid an
+  ([LIT-tmp0v56k](../literature.d/LIT-tmp0v56k.md)), in 2008, trained tobacco hornworm caterpillars to avoid an
   odour. Those trained in the last larval stage still avoided it as moths.
-  Alloway (LIT-tmpvl4oj) had reported the same in beetles in 1972.
+  Alloway ([LIT-tmpvl4oj](../literature.d/LIT-tmpvl4oj.md)) had reported the same in beetles in 1972.
 - **The child's work followed it.** A 2026 report describes Jo Nagai, a
   schoolboy in Kobe, repeating the design with swallowtails and lavender
   oil, advised by Martha Weiss, and claiming the aversion passed to the
@@ -44,28 +44,28 @@ round from the recollection.
 
 Planarians make the case sharper. A worm whose head is cut off regrows a
 brain and, after a reminder, keeps a learned familiarity with its
-surroundings (Shomrat and Levin, LIT-tmpgfqw1). The authors' perspective
-(Blackiston, Shomrat and Levin, LIT-tmpaazd0) collects such cases.
+surroundings (Shomrat and Levin, [LIT-tmpgfqw1](../literature.d/LIT-tmpgfqw1.md)). The authors' perspective
+(Blackiston, Shomrat and Levin, [LIT-tmpaazd0](../literature.d/LIT-tmpaazd0.md)) collects such cases.
 
 ## Why it matters to the record
 
 - **Persistence through the replacement of parts.** Philosophers'
-  thought experiments about personal identity (Parfit, LIT-469 and
-  THEORY-464) ask whether psychological continuity can survive a wholly
+  thought experiments about personal identity (Parfit, [LIT-469](../literature.d/LIT-469.md) and
+  [THEORY-464](../theory.d/THEORY-464.md)) ask whether psychological continuity can survive a wholly
   rebuilt body. Metamorphosis is a natural case: the moth is continuous
   with the caterpillar in body, and partly in memory, through a
-  reorganization of most of its nervous system. CASE-098 is the
+  reorganization of most of its nervous system. [CASE-098](../cases.d/CASE-098.md) is the
   social analogue, a rivalry that outlives every player who carried it.
 - **Where the record's inheritance questions meet.** If a learned
   aversion passes through metamorphosis, the moth inherits its own past.
   If, as reported but unpublished, it passes to offspring, the case joins
-  the epigenetic question (QUESTION-tmp8bttd; Dias and Ressler,
-  LIT-tmpk0wlg). Bacterial cells already inherit a transient state from
-  their mothers (THEORY-179).
-- **The self over time.** Hershfield (LIT-tmp8yuyb) measures how continuous
+  the epigenetic question ([QUESTION-tmp8bttd](QUESTION-tmp8bttd.md); Dias and Ressler,
+  [LIT-tmpk0wlg](../literature.d/LIT-tmpk0wlg.md)). Bacterial cells already inherit a transient state from
+  their mothers ([THEORY-179](../theory.d/THEORY-179.md)).
+- **The self over time.** Hershfield ([LIT-tmp8yuyb](../literature.d/LIT-tmp8yuyb.md)) measures how continuous
   people feel with their future selves. The moth is a body continuous with
   a past self it cannot have experienced as its own, the legacy question
-  (QUESTION-tmpruhu4) turned inside out.
+  ([QUESTION-tmpruhu4](QUESTION-tmpruhu4.md)) turned inside out.
 
 ## What would count as an answer
 

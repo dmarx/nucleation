@@ -85,14 +85,14 @@ Eight works were read, three from the authors' working papers. They narrow
 the question in four ways.
 
 - **What the impersonal ground needs** (Greaves and MacAskill,
-  NOTE-tmpozxwf). Expected value taken down to small probabilities, and a
+  [NOTE-tmpozxwf](../notes.d/NOTE-tmpozxwf.md)). Expected value taken down to small probabilities, and a
   zero pure rate of time preference, which they call "near-essential".
   Against person-affecting views their case falls back on shaping
   artificial intelligence, where a large future population exists either
   way. They say nothing of motivation: their agent is "a rational
   altruistic actor".
-- **Whether it can guide action** (Tarsney, NOTE-tmp0l9dk; Thorstad,
-  NOTE-tmpu4i35). Neither defeats longtermism, but both shift weight to
+- **Whether it can guide action** (Tarsney, [NOTE-tmp0l9dk](../notes.d/NOTE-tmp0l9dk.md); Thorstad,
+  [NOTE-tmpu4i35](../notes.d/NOTE-tmpu4i35.md)). Neither defeats longtermism, but both shift weight to
   the near term.
   - Tarsney calls the epistemic challenge "not fatal". At cautious
     estimates the longtermist option wins only on a very stable far
@@ -101,18 +101,18 @@ the question in four ways.
     it unless risk soon falls and stays low. Mitigation "may yet be
     valuable, but perhaps not astronomically so".
 - **The living's own stake is a fourth ground** (Bostrom 2003,
-  NOTE-tmpwwa8k; Bostrom 2013, NOTE-tmpyret1). On Bostrom's
+  [NOTE-tmpwwa8k](../notes.d/NOTE-tmpwwa8k.md); Bostrom 2013, [NOTE-tmpyret1](../notes.d/NOTE-tmpyret1.md)). On Bostrom's
   person-affecting reading, avoiding catastrophe matters because people
   now alive might share the long future: literal self-interest. In 2013
   he finds "a deficit of motivation", because the living capture only
   their own share of existential safety, and grants that "Unrestricted
   altruism is not so common".
-- **The grounds divide the labour** (Meyer, SEP, NOTE-tmps9poq). A weak
+- **The grounds divide the labour** (Meyer, SEP, [NOTE-tmps9poq](../notes.d/NOTE-tmps9poq.md)). A weak
   person-affecting view states harms to actual future people. By its own
   account it gives no reason to prefer a good future to none, and fills
   that gap with Scheffler's grounding in what the living value.
 - **Lay concern reaches the far future through a picture of it as good**
-  (Schubert et al., NOTE-tmpbxw6b; Caviola et al., NOTE-tmpaz0p7).
+  (Schubert et al., [NOTE-tmpbxw6b](../notes.d/NOTE-tmpbxw6b.md); Caviola et al., [NOTE-tmpaz0p7](../notes.d/NOTE-tmpaz0p7.md)).
   - Unprompted, a minority judge extinction uniquely bad. A reminder of
     the lost future brings this to about half; only a long, utopian
     future makes a majority (67–77%).

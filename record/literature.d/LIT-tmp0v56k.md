@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Retention of Memory through Metamorphosis: Can a Moth Remember What It Learned As a Caterpillar?'
 version: 1
 history:
@@ -42,4 +42,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The study that showed a learned association surviving metamorphosis, the radical rebuilding of the body and nervous system that stored it. For QUESTION-tmpws54x.
+The study that showed a learned association surviving metamorphosis, the radical rebuilding of the body and nervous system that stored it. For [QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md).
