@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp27ib6) from the publisher's PDF,
+  read in full 2026-10-29 ([NOTE-tmp27ib6](../notes.d/NOTE-tmp27ib6.md)) from the publisher's PDF,
   republished with White Horse Press's permission on the Rachel Carson
   Center's Environment & Society Portal
   (environmentandsociety.org/node/5976); worth reading as the short
@@ -47,7 +47,7 @@ summary: >-
 
 Gardiner, S. M. (2006). *Environmental Values*, 15(3), 397–413.
 
-Read in full in NOTE-tmp27ib6, from the publisher's PDF, republished with White Horse Press's permission on the Rachel Carson Center's Environment & Society Portal (environmentandsociety.org/node/5976).
+Read in full in [NOTE-tmp27ib6](../notes.d/NOTE-tmp27ib6.md), from the publisher's PDF, republished with White Horse Press's permission on the Rachel Carson Center's Environment & Society Portal (environmentandsociety.org/node/5976).
 
 ## Why this is here
 

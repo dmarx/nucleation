@@ -197,38 +197,38 @@ to whoever is in it, not between two states of one person.
 
 ## Connections
 
-- **Reasons and Persons (LIT-469), Unavailable.** The paper revises its
+- **Reasons and Persons ([LIT-469](../literature.d/LIT-469.md)), Unavailable.** The paper revises its
   Part IV: the No Difference View (p. 366), the impersonal principle Q
   (p. 360) and the wide principles rejected at pp. 396–401, as Parfit
   cites them. It shows what Parfit kept and what he gave up, not what the
   book argued.
-- **Meyer, SEP (NOTE-tmps9poq).** Lists this paper among works holding
+- **Meyer, SEP ([NOTE-tmps9poq](NOTE-tmps9poq.md)).** Lists this paper among works holding
   that intergenerational ethics must be impersonal or mixed. That fits
   the 1984 Parfit better than this paper, which argues for a
   person-affecting principle. Whether the Wide Principle counts as
   impersonal depends on the definition: it is about people, but not about
   particular people. Meyer's threshold notion of harm is a different
   route around the same problem, which Parfit does not discuss.
-- **Narveson (LIT-tmpoc3e4), Unavailable.** Quoted once, for "make people
+- **Narveson ([LIT-tmpoc3e4](../literature.d/LIT-tmpoc3e4.md)), Unavailable.** Quoted once, for "make people
   happy" (p. 135), and rejected.
-- **Gardiner (LIT-tmp12vk2).** Parfit's cheaper energy policy and his
+- **Gardiner ([LIT-tmp12vk2](../literature.d/LIT-tmp12vk2.md)).** Parfit's cheaper energy policy and his
   closing warning, each generation favouring itself until the Earth is
   wrecked, are Gardiner's intergenerational storm from the other side.
   Gardiner explains why it happens; Parfit says each step may be
   permissible.
-- **Caviola et al. (NOTE-tmpaz0p7).** Lay judgement counts adding happy
+- **Caviola et al. ([NOTE-tmpaz0p7](NOTE-tmpaz0p7.md)).** Lay judgement counts adding happy
   people as good, which is the Wide Principle's existential benefit. With
   totals fixed it prefers higher averages, and the value of more happy
   people fades as numbers grow, close to the Dual Principle's weighting of
   benefits to each over benefits to all.
-- **Personal identity and ethics (THEORY-464).** Here identity does
+- **Personal identity and ethics ([THEORY-464](../theory.d/THEORY-464.md)).** Here identity does
   matter, in the non-identity sense: which person exists. Parfit's
   solution makes the answer not matter morally, by ranking outcomes
   without reference to who is in them.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper bears on it at two
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper bears on it at two
   points. These are inferences; Parfit does not discuss motivation or the
   self, apart from noting that the No Complainants Claim has
   psychological force.
@@ -240,7 +240,7 @@ to whoever is in it, not between two states of one person.
     individuals exist is what the choice decides. If the thesis reaches
     them, the self extends to a role or category ("my child", "our
     descendants", "humanity"), not to persons. That matches what Eyerman
-    showed backward in time (NOTE-tmp0goia): the self an ancestral
+    showed backward in time ([NOTE-tmp0goia](NOTE-tmp0goia.md)): the self an ancestral
     injury extends to is a category, not a line of descent.
   - Parfit permits what the thesis predicts. Favouring actual and present
     people over greater benefits to future people, "like" saving our own
@@ -249,23 +249,23 @@ to whoever is in it, not between two states of one person.
     and Parfit treats it as an agent-relative permission, not as an
     error. His warning that every generation doing so could wreck the
     Earth is the cost the thesis's shape would carry across time.
-- **The triviality objection (CLAIM-tmprudek).** Not addressed directly.
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Not addressed directly.
   The non-identity problem does set a limit on criteria: any criterion of
   a self extended into the far future must pick out a category, since no
   particular far-future person can be picked out in advance.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **The group entity versus a category (TERM-tmpko4rw).** If the thesis's
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **The group entity versus a category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** If the thesis's
   future self is "our descendants", it is a category of members whose
   membership our choices fix, not a group entity. The term would let the
   record say so.
-- **A dated note to CLAIM-tmpjylq8 is proposed**, as an addition to its
+- **A dated note to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) is proposed**, as an addition to its
   note "the thesis in time":
 
   > Parfit's last paper (NOTE-xxxx) grounds obligations to far-future
   > people in benefits to whoever will exist, since our choices decide who
   > that is. A self extended to them can then extend only to a category,
   > such as "our descendants", not to persons, as with the ancestral
-  > category Eyerman describes backward in time (NOTE-tmp0goia). Parfit
+  > category Eyerman describes backward in time ([NOTE-tmp0goia](NOTE-tmp0goia.md)). Parfit
   > also allows that we may rightly favour present people, as we favour
   > our own children over strangers, though it makes things go worse.
   > That is the thesis's shape treated as a permission, with its cost
