@@ -1,0 +1,329 @@
+---
+status: Read
+paper: LIT-tmp8zvjf
+title: 'Culture and the self: Implications for cognition, emotion, and motivation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the published version (30 pages, pp. 224–253, with
+    figures, tables and references), an APA scan posted by Markus on her
+    own site (hazelmarkus.com/research, linking her Google Drive). The
+    OCR was checked against the page images at every quoted passage and
+    table. Page numbers are the journal's.
+date: '2026-10-29'
+summary: >-
+  A theoretical review. Cultures construe the self as independent, bounded
+  and defined by inner attributes (most clearly American), or as
+  interdependent, defined by relationships with specific others in specific
+  contexts (Japanese and other Asian, also African, Latin American, Hindu,
+  southern European). For the interdependent self "others are included
+  within the boundaries of the self", without "a merging of self and
+  other". This is predicted to shape cognition (more knowledge of others,
+  contextual self-description), emotion (other-focused over ego-focused
+  emotions) and motivation (achievement for others, modesty over
+  self-enhancement). The authors name "a self defined in relationship to
+  others" as an alternative to both selfishness and selflessness.
+---
+
+<!-- inactive-ok-file: CLAIM-tmpjylq8 CLAIM-tmprudek CLAIM-tmpybc4k QUESTION-tmprbq0b THEORY-tmpo85ke THEORY-tmpsm03n TERM-tmpko4rw LIT-tmpfxss5 LIT-tmp9rujh LIT-tmp7qbeb — Unfetched, Unavailable, Proposed or Open; the work read (Unfetched until this NOTE is filed), unread works on merging and inclusion, and the thesis, objections, question, accounts and term it bears on -->
+
+# NOTE-tmpd4jen: Culture and the self: Implications for cognition, emotion, and motivation
+
+## Contribution
+
+It gives psychology a second model of the self beside the one it had
+assumed was universal. The paper draws on anthropology and cross-cultural
+psychology to define an interdependent construal of the self against the
+independent one. It argues that whenever cognition, emotion or motivation
+involves the self, the process will differ with the construal. It then
+reviews evidence for each of the three. Its claim is that the construals
+are "even more powerful than previously imagined" (abstract). They are
+offered as a way to reconcile findings that fail to replicate across
+cultures.
+
+## Key insight
+
+The difference between the two selves lies in "the role that is assigned
+to the other in self-definition" (p. 245). Others matter to both. For the
+independent self they are standards for comparison and sources of
+reflected appraisal. For the interdependent self "others are included
+*within* the boundaries of the self because relations with others in
+specific contexts are the defining features of the self" (pp. 245–246).
+The authors spell out what follows. The individual is, in Lebra's word,
+"a fraction" that becomes whole in its proper place in a social unit
+(p. 246). Fitting in is rewarding in itself. Self-esteem rests on
+restraint and adjustment, not on standing out. The authors present this
+as a third option: "there is an alternative to selfishness (which implies
+the exclusion of others) besides selflessness (which is to imply the
+exclusion of the self or self-sacrifice): There is a self defined in
+relationship to others" (p. 247).
+
+## Assumptions
+
+- **The self as a schema.** Construals are "among the most general and
+  overarching schemata of the individual's self-system" (p. 230), after
+  Markus and Wurf (1987). They organize processing, affect regulation and
+  motivation.
+- **Culture as the carrier of construal.** National or ethnic background
+  stands in for the construal in almost every study reviewed. The
+  authors grant that individuals vary within a culture and that "not all
+  people who are part of an independent culture will thus characterize
+  themselves as independent" (p. 230, note 3).
+- **Some of the self is universal.** A physical or ecological self, and
+  some sense of a private inner self, are assumed everywhere (p. 225,
+  after Hallowell, Neisser).
+- **The contrast is drawn from ethnography.** The definition of the
+  interdependent self rests on Japanese theorists (Lebra, Hamaguchi,
+  Doi, Kondo) and anthropological accounts, not on a measure.
+
+## Key results
+
+- **The two construals** (pp. 226–229, Figure 1, Table 1).
+  - Figure 1 draws each self as a circle with smaller circles for mother,
+    father, sibling, friend and co-worker. The independent self overlaps
+    them a little; its salient elements (Xs) lie outside the overlaps. The
+    interdependent self overlaps them more, and its salient elements lie
+    in the overlaps: "the self-in-relation to specific others in
+    particular contexts" (p. 227).
+  - Table 1: independent selves are separate from context, bounded and
+    stable. Their tasks are to be unique, express themselves and "promote
+    own goals". Interdependent selves are connected, flexible and
+    variable. Their tasks are to belong, occupy their proper place and
+    "promote others' goals".
+  - Not merging. An interdependent view "does not result in a merging of
+    self and other" and does not mean people lack agency; control is
+    turned inward, on the desires that could disturb harmony (p. 228).
+- **What happens to others' goals** (p. 229). Relationships become "ends
+  in and of themselves". Then two cases. "In some cases, the goals of
+  others may become so focal in consciousness that the goals of others
+  may be experienced as personal goals." In others, one's own goals stay
+  distinct, and meeting another's is "a necessary requirement" for
+  meeting one's own; people "actively work to fulfill the others' goals
+  while passively monitoring the reciprocal contributions". Cooperation
+  is "exercised only when there is a reasonable assurance of the
+  'good-intentions' of others". Attention to others is "highly
+  selective", mostly for in-group members of common fate. The in-group's
+  boundary "may tend to be narrower" for interdependent selves (citing
+  Triandis 1989).
+- **Cognition** (pp. 231–235).
+  - Similarity judgements (Kitayama et al. 1990, unpublished): Americans
+    judged self less similar to other than other to self, the usual
+    finding. Indian students showed a reversal that was not significant
+    (Figure 2).
+  - Person description: 46% of American descriptions were context-free
+    against 20% of Indian ones (Shweder and Bourne 1984). In explaining a
+    motorcycle accident, Americans gave 36% dispositional and 17%
+    contextual attributions; Indians 15% and 32% (J. G. Miller 1984).
+  - Self-description (Cousins 1989): on the Twenty Statements Test
+    Japanese students gave fewer trait descriptions than Americans. Told
+    a context ("me at home"), they gave more, and Americans hedged
+    (Figure 3).
+  - Counterfactuals: 97% of Americans and 55% of Taiwanese and 65% of
+    Hong Kong respondents gave the "theoretical" answer to one of Bloom's
+    items. The authors read it as pragmatics, not inability.
+- **Emotion** (pp. 235–239).
+  - Ego-focused emotions (anger, frustration, pride) have the individual's
+    attributes as referent; other-focused ones (sympathy, communion,
+    shame) have another person.
+  - Japanese infants resumed moving toward a toy 48 s after a mother's
+    angry voice, American infants 18 s (Miyake et al. 1986). Japanese
+    respondents reported anger mostly with strangers, Americans with close
+    others (Matsumoto et al. 1988).
+  - Kitayama and Markus (1990, unpublished): a multidimensional scaling of
+    20 Japanese emotion terms found, besides activation and pleasantness,
+    a third dimension of interpersonal engagement. A frequency study of 15
+    emotions in five types confirmed the structure (Tables 2 and 3). Ego-
+    focused positive and negative correlated .70. Other-focused positive
+    correlated with ego-focused at −.05 and −.18. Experiencing ego-focused
+    emotions increased with eight independent-construal items. All three
+    other-focused types increased with eight interdependent-construal
+    items ("Are you the kind of person who never forgets a favor provided
+    by others?"). No sample size is given.
+- **Motivation** (pp. 239–245).
+  - Achievement can be "socially oriented", aimed at meeting family's and
+    others' expectations (Yang; Bond 1986). About 80% of Japanese prefer a
+    fatherlike manager (Hayashi 1988).
+  - Dissonance: 44% of Japanese and 2% of Americans rated as best a father
+    who privately opposed a daughter's marriage but publicly approved it
+    (Iwao 1988, via Triandis).
+  - Self-enhancement: American students put on average 30% of peers above
+    themselves; Japanese about 50% (Markus and Kitayama, in press).
+    Takata (1987) found a self-effacing bias in Japanese social
+    comparison. Japanese children blamed lack of effort for poor
+    performance (5.6 of 10 points, against 1.98 for Americans; Hess et
+    al. 1986).
+  - Self-esteem, self-affirmation and self-verification are predicted to
+    run through public roles and relationships. "Other enhancement could
+    be more instrumental to self-enhancement" in reciprocal relationships
+    (p. 242). A threat to such a self is "a disruption of, or a
+    disconnection from" the relations it is part of (p. 246).
+- **On altruism** (p. 248). Collectivists said visiting a friend in
+  hospital would be enjoyable even in private; individualists said so only
+  in public (Bontempo, Lobel and Triandis 1989, unpublished). The authors
+  suggest that other-focused emotions "can motivate genuine,
+  other-oriented, altruistic behaviors, without any conscious, or even
+  unconscious, calculation of individual payoff".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Cultures differ systematically in construing the self as independent or interdependent | moderate as description: convergent ethnography and cross-national contrasts; construal itself is rarely measured | pp. 224–229, all sections |
+| C2 | For the interdependent self, others (relations with specific others in context) are included within the self's boundaries, without merging | conceptual; the paper's definition, not a finding | pp. 227–228, 245–246 |
+| C3 | Interdependent selves hold more, and more contextual, knowledge of others and of themselves | weak to moderate: one nonsignificant reversal, description and attribution studies mostly from India | pp. 231–234 |
+| C4 | Ego-focused emotions are expressed and perhaps felt less, other-focused ones more, by interdependent selves | moderate in Japan: one unpublished scaling and frequency study with an individual-level construal measure; cross-national contrasts otherwise | pp. 235–239 |
+| C5 | Achievement and self-related motives take an other-directed form; self-enhancement may be largely Western | moderate for the modesty findings in Japan; the rest is proposed | pp. 239–245 |
+| C6 | There is a third option between selfishness and selflessness, a self defined in relationship to others | conceptual, from feminist theory and the review | p. 247 |
+| C7 | Other-focused emotions may motivate altruism without calculation of individual payoff | speculative: one unpublished study, offered as a possibility | p. 248 |
+
+## Concepts
+
+- **independent construal of the self**: the self as bounded, unique and
+  organized by its inner attributes, which it seeks to express.
+- **interdependent construal of the self**: the self as part of
+  encompassing relationships, defined by relations with specific others
+  in particular contexts; "the self-in-relation-to-other" is focal.
+- **ego-focused emotions**: emotions whose primary referent is one's own
+  attributes (anger, frustration, pride).
+- **other-focused emotions**: emotions whose primary referent is another
+  person (sympathy, communion, shame, amae, oime).
+- **socially oriented achievement motivation**: striving to meet the
+  expectations of significant others, which may lapse once the goal is
+  met (after Yang).
+- **secondary control**: accommodating oneself to existing realities
+  rather than changing them (after Weisz et al. 1984).
+
+## Connections
+
+- **Brewer's levels of the self (NOTE-tmphttin).** Brewer counts this
+  paper among the dichotomies her tripartite model replaces. What Markus
+  and Kitayama describe is mostly her relational self: specific,
+  non-interchangeable others, and an in-group of family and work group.
+  It is her relational collectivism, not group-based collectivism.
+- **Self-categorization theory (THEORY-tmpo85ke).** Not engaged. The
+  paper cites Tajfel (1984) once and lists "personal identity versus
+  social identity" (after Cheek and Hogan) among related distinctions
+  (pp. 246–247). Its interdependent self varies across situations, as a
+  self-category does, but by relationship, not by comparative context.
+- **Self-verification.** The paper predicts that interdependent selves
+  verify "the more public qualities of the self" (p. 245) and are
+  threatened by the disruption of relations. Swann et al.'s fused
+  participants (NOTE-tmp3g9n4) defended a self-concept by acting for a
+  group. That is the same pattern at the group level.
+- **Aron et al. (LIT-tmp9rujh) and Cialdini et al. (LIT-tmpfxss5).** The
+  overlapping circles of Figure 1 anticipate the inclusion-of-other-in-
+  self picture. But the paper denies "merging", and its overlap is of
+  self-representations with relationships, not of self with other.
+- **The record's use.** QUESTION-tmprbq0b and CLAIM-tmpjylq8 cite it for
+  "selves construed interdependently". The SEP entry (NOTE-tmpd1dh3) cites
+  it as evidence that self-concepts vary across cultures.
+
+## Bearing on the record
+
+- **The owner's thesis (CLAIM-tmpjylq8).** The claim holds this work as a
+  ground "until 2027-04-29", to be asked again once it is read. Read, it
+  still grounds the thesis's premise and does not ground its conclusion.
+  These are inferences; the paper is not about egoism.
+  - It supports the premise in the authors' own words. Others are
+    "included within the boundaries of the self" (p. 245), and some
+    people experience others' goals "as personal goals" (p. 229). The
+    record's other sources on inclusive selves are unavailable or read at
+    second hand, so this is its most direct statement.
+  - It names the thesis's middle position. "There is an alternative to
+    selfishness … besides selflessness" (p. 247) is the owner's denial
+    that the choice is between those two. The authors reach it from the
+    same picture of a self defined by others.
+  - It does not take the step to self-interest. The authors call the
+    resulting action possibly "genuine, other-oriented, altruistic",
+    without "calculation of individual payoff" (p. 248). Their third
+    option is a third kind of self, not self-interest on a larger one.
+    On Stich's division (NOTE-tmpeuwqz) they hold the redescription
+    reading. The thesis has content there only with CLAIM-tmprudek's
+    independent criterion.
+  - Its self is not larger, but differently made. What the interdependent
+    self includes is relations and roles, not others' welfare as such. It
+    is "a fraction" made whole in a unit, not a self grown to contain the
+    unit. Its in-group may be narrower than an independent self's.
+    "Collectivism is self-interest on a larger self-identity" fits this
+    picture badly where "larger" means size. It fits better where it
+    means a self that has others among its parts.
+  - It splits collectivist motive in two (p. 229). In one case others'
+    goals become one's own, which is the thesis. In the other, meeting
+    them is a condition of meeting one's own, under watched reciprocity.
+    That is ordinary self-interest with no extended self, closer to
+    Sugden's cooperation for mutual benefit (NOTE-tmph49t5). The paper
+    does not say which is commoner.
+  - **Verdict.** The thesis holds once this is read, with its ground
+    narrowed. The paper supports "selves that include others" and the
+    rejection of the selfish/selfless dichotomy. It is not evidence that
+    collectivist action is self-interested. The authors would read it
+    the other way.
+- **The triviality objection (CLAIM-tmprudek).** The paper offers two
+  measures of construal that could serve as criteria. They are the
+  similarity asymmetry (a cognitive sign, like those in NOTE-tmpd7oz0)
+  and Kitayama and Markus's eight interdependence items. The first gave
+  only a nonsignificant reversal. The second asks about valuing favours
+  and harmony, which is close to caring. Elsewhere culture stands in for
+  construal. The authors also warn that introspective reports of concern
+  for others may not track culture at all: Triandis et al. (1988) found
+  that collectivists did not report more of it (p. 248). So the paper
+  does not supply a criterion that separates from caring.
+- **Batson's objection (CLAIM-tmpybc4k).** Indirectly. The authors'
+  denial of merging, and their altruistic reading of other-focused
+  emotions, put them closer to Batson than to Cialdini. The paper does
+  not test empathy and merging against each other.
+- **Self-categorization and the "we" (THEORY-tmpo85ke, THEORY-tmpsm03n,
+  TERM-tmpko4rw).** The interdependent self is personalized and relational.
+  It keeps agency and particular others, as León's we-identity does, and
+  does not depersonalize. It concerns relationships, not a group entity
+  or a category.
+- **A dated note is proposed for CLAIM-tmpjylq8** (section 3). The
+  inactive-ok comment holding LIT-tmp8zvjf until 2027-04-29 can drop it
+  once this NOTE is filed.
+- **No THEORY filed.** The construal distinction is cited where the
+  thesis uses it; the later literature testing it is not held.
+- **No ML instruction.**
+
+## Limitations
+
+- **A review, with thin primary evidence.** Several central studies are
+  unpublished or in press: Kitayama et al. 1990, Kitayama and Markus
+  1990, Markus and Kitayama in press, Bontempo et al. 1989. Others are
+  cited at second hand (Iwao via Triandis; Bloom via Moser). No sample
+  sizes or test statistics are given for the authors' own studies.
+- **Culture as proxy.** Construal is inferred from nationality in almost
+  every study. Japanese, Chinese and Indian samples stand in for
+  "interdependent" interchangeably. Only the Kitayama and Markus emotion
+  study measures construal in individuals.
+- **The independent self is American.** The authors grant it may be most
+  characteristic of "White, middle-class men with a Western European
+  ethnic background" (p. 225).
+- **Self-report and translation.** The authors themselves doubt
+  introspective reports and translated scales across cultures (p. 248).
+- **Typos and slips.**
+  - "The most significant differences between these two construals is"
+    (p. 245).
+  - "conformity to particular others with whom the other is
+    interdependent", for "the self" (p. 247).
+  - Succorance is glossed as the need "to seek aid, projection, or
+    sympathy", for "protection" (p. 240).
+  - The block quotation introduced as Kiefer (1976) is credited to "R. J.
+    Smith, 1985, p. 28" (p. 240).
+  - "the level of various motives are" (p. 240).
+  - "Ukta Eskimos" for Briggs's Utku (p. 236); "Reisman" for Riesman
+    (p. 246).
+
+## Open questions
+
+- Is the interdependent self's concern for others' goals mostly the
+  first kind (goals taken as one's own) or the second (reciprocity under
+  monitoring)? The thesis needs the first, and only the first is an
+  extended self.
+- Does the cultural difference survive individual-level measurement? The
+  later literature that tests the construals, by scales, by priming and
+  by meta-analysis, is not held in the record.
+- Would a measured interdependent construal predict helping when
+  empathic concern is held fixed? That would bear on CLAIM-tmpybc4k and
+  CLAIM-tmprudek at once.

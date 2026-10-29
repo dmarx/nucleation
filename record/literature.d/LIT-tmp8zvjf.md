@@ -1,14 +1,17 @@
 ---
-status: Unfetched
+status: Active
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md):
-  Markus posted the published version on her Stanford page
-  (web.stanford.edu/~hazelm/publications/1991%20Markus%20Kitayama%20Culture%20and%20the%20self.pdf),
-  which now answers HTTP 404. The Wayback Machine holds it
-  (web.archive.org/web/20240718114512/ followed by that address). On
-  2026-10-29 the snapshot answered HTTP 403. A human reader can likely
-  open it. No NOTE is filed. It stays Unfetched until it is read, not on
-  merit.
+  read in full 2026-10-29 (NOTE-tmpd4jen) from the published APA scan
+  posted by Markus on her own website (hazelmarkus.com/research); worth
+  reading as the classic statement that cultures construe the self as more
+  or less inclusive of others. For the owner's thesis (CLAIM-tmpjylq8) it
+  supports the premise, a self that includes others, and names the
+  thesis's middle term, "an alternative to selfishness … besides
+  selflessness" (p. 247). It does not support the step to self-interest:
+  the authors deny merging and allow "genuine, other-oriented, altruistic"
+  motives. The evidence is mostly cross-national contrasts, often
+  second-hand or unpublished, with culture standing in for an unmeasured
+  construal.
 title: 'Culture and the self: Implications for cognition, emotion, and motivation'
 version: 1
 history:
@@ -20,7 +23,11 @@ history:
     Crossref: Psychological Review 98(2), 224–253; April 1991 only, so
     `published:` is 1991-04-01 and means April 1991 (ADR-002). Set
     Unfetched the same day under ADR-053 after a fetch was refused; the
-    status note gives the address.
+    status note gives the address. Set Active the same day: read in full
+    in NOTE-tmpd4jen from the published APA scan posted by Markus on her
+    own website (hazelmarkus.com/research), not compared with the
+    published text, where there is one. The filing summary is replaced
+    by the reading's.
 tags:
 - self
 - altruism
@@ -36,15 +43,14 @@ keywords:
 - 'collectivism'
 implementations: []
 summary: >-
-  Markus & Kitayama (1991). Cultures differ in self-construal: an independent self, bounded and defined by internal attributes (common in the West), and an interdependent self, defined by relationships and roles (common in East Asia), with consequences for cognition, emotion and motivation.
+  Markus & Kitayama (1991). A theoretical review. Cultures differ in how they construe the self. The independent construal, most clearly American and western European, is a bounded self defined by internal attributes. The interdependent construal, found in Japan and other Asian cultures but also in African, Latin American, Hindu and southern European ones, is a self defined by relationships with specific others in specific contexts: "others are included within the boundaries of the self" (p. 245), though it "does not result in a merging of self and other" (p. 228). The authors predict, and review evidence, that interdependent selves know more about others and describe themselves by context. They expect them to feel and express "other-focused" emotions (shame, sympathy, amae) more and "ego-focused" ones (anger, pride) less. They expect them to pursue achievement for others and to show modesty, not self-enhancement. They name a third option between selfishness and selflessness: "a self defined in relationship to others" (p. 247).
 ---
 
 # LIT-tmp8zvjf: Culture and the self: Implications for cognition, emotion, and motivation
 
 Markus, H. R. & Kitayama, S. (1991). *Psychological Review*, 98(2), 224–253.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmpd4jen, from the published APA scan posted by Markus on her own website (hazelmarkus.com/research).
 
 ## Why this is here
 

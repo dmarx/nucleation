@@ -1,19 +1,30 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmp27ib6) from the publisher's PDF,
+  republished with White Horse Press's permission on the Rachel Carson
+  Center's Environment & Society Portal
+  (environmentandsociety.org/node/5976); worth reading as the short
+  statement of why concern for future generations fails in practice: a
+  self-interest that is generation-relative, and a moral motive that can
+  be corrupted without being given up.
 title: 'A Perfect Moral Storm: Climate Change, Intergenerational Ethics and the Problem of Moral Corruption'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, extending the line
-    of legacy to obligations toward the future (QUESTION-tmpmx9ha).
+    Filed, not read, on the owner's word of 2026-10-29, extending the
+    line of legacy to obligations toward the future (QUESTION-tmpmx9ha).
     Crossref: Environmental Values 15(3), 397–413; online 2006-08-01, so
     `published:` is that date (ADR-002). A second DOI
-    (10.1177/096327190601500313) is the journal's 2023 move to SAGE.
+    (10.1177/096327190601500313) is the journal's 2023 move to SAGE. Set
+    Active the same day: read in full in NOTE-tmp27ib6 from the
+    publisher's PDF, republished with White Horse Press's permission on
+    the Rachel Carson Center's Environment & Society Portal
+    (environmentandsociety.org/node/5976), not compared with the
+    published text, where there is one. The filing summary is replaced
+    by the reading's.
 tags:
 - future-generations
 - ethics
@@ -29,15 +40,14 @@ keywords:
 - 'tragedy of the commons'
 implementations: []
 summary: >-
-  Gardiner (2006). Climate change is a "perfect moral storm" in which a global, an intergenerational and a theoretical storm converge. In the intergenerational storm each generation gains from emissions while the costs fall on later generations who cannot retaliate, which invites moral corruption: buck-passing, self-deception and convenient theories.
+  Gardiner (2006). Climate change is a "perfect moral storm": three problems that threaten ethical action converge in it. The global storm is the familiar reading, a tragedy of the commons between states with no effective global governance, worsened by uncertainty about national impacts, a status quo bias and skewed vulnerabilities. The intergenerational storm is worse. Carbon dioxide's long life makes climate change resilient, backloaded and deferred, so the benefits of emitting fall to the present and the costs to later generations. That is a Pure Intergenerational Problem, in which every generation rationally overpollutes and the usual remedies are unavailable, because the generations do not coexist. The theoretical storm is that our theories handle uncertainty, intergenerational equity and contingent persons badly. Together they invite moral corruption: by selective attention, each generation can seem to act while exploiting its position in time, and need not admit it, even to itself. Even the prominence of the global model may be such a convenience, since it assumes states represent their citizens "in perpetuity".
 ---
 
 # LIT-tmp12vk2: A Perfect Moral Storm: Climate Change, Intergenerational Ethics and the Problem of Moral Corruption
 
 Gardiner, S. M. (2006). *Environmental Values*, 15(3), 397–413.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmp27ib6, from the publisher's PDF, republished with White Horse Press's permission on the Rachel Carson Center's Environment & Society Portal (environmentandsociety.org/node/5976).
 
 ## Why this is here
 
