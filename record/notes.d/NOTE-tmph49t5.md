@@ -139,20 +139,20 @@ that transcends her private interests" (pp. 163–164).
 
 ## Connections
 
-- **Sugden 2003 (LIT-tmpvsmnt)**, unread. This paper revises Sugden's own
+- **Sugden 2003 ([LIT-tmpvsmnt](../literature.d/LIT-tmpvsmnt.md))**, unread. This paper revises Sugden's own
   1991 and 1993 papers and develops ideas from 2011, and the 2003 paper
   sits between them. It does not restate the 2003 schema, so it shows what
   Sugden kept and changed, not what the 2003 paper said.
-- **Salice and Miyazono (NOTE-tmpaso81)** take team reasoning, via
+- **Salice and Miyazono ([NOTE-tmpaso81](NOTE-tmpaso81.md))** take team reasoning, via
   Bacharach, as one of the two parts of group identification.
-- **The group entity versus a category of members (TERM-tmpko4rw).**
+- **The group entity versus a category of members ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).**
   Sugden's distinction between collective and common interests is the same
   line drawn for interests. The collective interest belongs to the team as
   one entity; the common interests belong to the members severally.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper bears on it at three
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper bears on it at three
   points. These are inferences; Sugden does not discuss the extent of the
   self.
   - The thesis is closest to Bacharach. To identify with a group is to
@@ -169,11 +169,11 @@ that transcends her private interests" (pp. 163–164).
     conceptual necessity, that an individuals' pro-social motivations can
     always be represented as payoffs to her as an individual" (p. 145).
     Doing it by enlarging the individual is the same move.
-- **The triviality objection (CLAIM-tmprudek).** Sugden makes the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Sugden makes the
   objection's point about social preferences: "it is always possible to
   assume that the relevant player has a preference for behaving in exactly
   that way" (p. 148). He asks for non-trivial specifications, as
-  CLAIM-tmprudek does for the self.
+  [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) does for the self.
 - **A dated note is added to the claim.**
 - **No THEORY filed.**
 - **No ML instruction.**

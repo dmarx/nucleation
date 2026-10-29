@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp3uqu5) from the published version, open
+  read in full 2026-10-29 ([NOTE-tmp3uqu5](../notes.d/NOTE-tmp3uqu5.md)) from the published version, open
   under CC BY-NC-ND at TheoLogica; worth reading as Johnston's own
-  retraction of the account of survival in Surviving Death (LIT-tmpm40au,
+  retraction of the account of survival in Surviving Death ([LIT-tmpm40au](LIT-tmpm40au.md),
   Unavailable), read in its place. It now holds that we are essentially
   embodied wills, which drops the self-making view on which the earlier
   "onward rush of humankind" rested. The paper's own subject is the
@@ -43,11 +43,11 @@ summary: >-
 
 Johnston, M. (2023). *TheoLogica*, 8(2), 261–314.
 
-Read in full in NOTE-tmp3uqu5, from the published version.
+Read in full in [NOTE-tmp3uqu5](../notes.d/NOTE-tmp3uqu5.md), from the published version.
 
 ## Why this is here
 
-Read in place of Johnston's *Surviving Death* (LIT-tmpm40au), which could
+Read in place of Johnston's *Surviving Death* ([LIT-tmpm40au](LIT-tmpm40au.md)), which could
 not be reached. It states the book's surrogate for survival in a paragraph
 and then withdraws the account of the self it rested on. That matters for
-how the record cites the book against the owner's thesis (CLAIM-tmpjylq8).
+how the record cites the book against the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).

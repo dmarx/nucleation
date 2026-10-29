@@ -5,8 +5,8 @@ status_note: >-
   reached. The Internet Archive's copy (untoothersevolut00sobe) is for
   print-disabled readers only and is not lent, and no open edition was
   found. No NOTE is filed. It stays Unavailable until a copy is supplied
-  (ADR-041). Read in its place, and not a substitute for reading it: Stich
-  2006 (LIT-tmpgnooi).
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a substitute for reading it: Stich
+  2006 ([LIT-tmpgnooi](LIT-tmpgnooi.md)).
 title: 'Unto Others: The Evolution and Psychology of Unselfish Behavior'
 version: 1
 history:
@@ -55,7 +55,7 @@ The standard philosophical treatment of whether unselfish motivation exists, and
 The book cannot be read here, so the record holds its argument at second
 hand:
 
-- **A close critique.** Stich 2006 (LIT-tmpgnooi, NOTE-tmpeuwqz) sets
+- **A close critique.** Stich 2006 ([LIT-tmpgnooi](LIT-tmpgnooi.md), [NOTE-tmpeuwqz](../notes.d/NOTE-tmpeuwqz.md)) sets
   out the book's evolutionary argument for psychological altruism from
   parental care (pp. 296–320), quoting it at length, and argues that it
   leaves egoism open.

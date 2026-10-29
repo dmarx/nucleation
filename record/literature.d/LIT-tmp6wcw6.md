@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmph49t5) from the published version, open
+  read in full 2026-10-29 ([NOTE-tmph49t5](../notes.d/NOTE-tmph49t5.md)) from the published version, open
   under CC BY-NC-ND at the Journal of Social Ontology; worth reading as
   Sugden's own later statement of team reasoning, read in place of his 2003
-  paper (LIT-tmpvsmnt, Unavailable), and for its claim that team reasoning
+  paper ([LIT-tmpvsmnt](LIT-tmpvsmnt.md), Unavailable), and for its claim that team reasoning
   cannot be reduced to self-interest or to social preferences by redefining
-  payoffs, which bears on the owner's thesis (CLAIM-tmpjylq8).
+  payoffs, which bears on the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).
 title: 'Team Reasoning and Intentional Cooperation for Mutual Benefit'
 version: 1
 history:
@@ -42,12 +42,12 @@ summary: >-
 
 Sugden, R. (2015). *Journal of Social Ontology*, 1(1), 143–166.
 
-Read in full in NOTE-tmph49t5, from the published version.
+Read in full in [NOTE-tmph49t5](../notes.d/NOTE-tmph49t5.md), from the published version.
 
 ## Why this is here
 
 Read in place of Sugden's "The Logic of Team Reasoning" (2003,
-LIT-tmpvsmnt), which could not be reached. It restates team reasoning in
+[LIT-tmpvsmnt](LIT-tmpvsmnt.md)), which could not be reached. It restates team reasoning in
 Sugden's own later form and revises Bacharach's. Its distinction between
 intending the common interests of members and the collective interest of a
-team bears directly on the owner's thesis (CLAIM-tmpjylq8).
+team bears directly on the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).

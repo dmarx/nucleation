@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpeuwqz) from the published version on
+  read in full 2026-10-29 ([NOTE-tmpeuwqz](../notes.d/NOTE-tmpeuwqz.md)) from the published version on
   Stich's own site; worth reading as a close restatement and critique of
   Sober and Wilson's evolutionary argument for psychological altruism, read
-  in place of Unto Others (LIT-tmp1w1r9, Unavailable), and for its
+  in place of Unto Others ([LIT-tmp1w1r9](LIT-tmp1w1r9.md), Unavailable), and for its
   definitions of egoism, altruism and ultimate desire, which the owner's
-  thesis (CLAIM-tmpjylq8) has to meet.
+  thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)) has to meet.
 title: "Evolution, altruism and cognitive architecture: a critique of Sober and Wilson's argument for psychological altruism"
 version: 1
 history:
@@ -42,12 +42,12 @@ summary: >-
 
 Stich, S. (2007). *Biology & Philosophy*, 22(2), 267–281.
 
-Read in full in NOTE-tmpeuwqz, from the published version.
+Read in full in [NOTE-tmpeuwqz](../notes.d/NOTE-tmpeuwqz.md), from the published version.
 
 ## Why this is here
 
-Read in place of Sober and Wilson's *Unto Others* (LIT-tmp1w1r9), which
+Read in place of Sober and Wilson's *Unto Others* ([LIT-tmp1w1r9](LIT-tmp1w1r9.md)), which
 could not be reached. It quotes the book's psychological half (pp. 296–320)
 at length, and its definitions of egoism, altruism and ultimate desire are
-the terms in which the owner's thesis (CLAIM-tmpjylq8) is a version of
+the terms in which the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)) is a version of
 egoism.
