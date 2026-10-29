@@ -1,0 +1,109 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-29 (NOTE-tmpbrnim) in full, from the publisher's PDF as
+  posted on Frederick Eberhardt's Caltech publications page
+  (https://www.its.caltech.edu/~fehardt/papers/CEP2017.pdf); worth
+  reading as the plainest statement of causal feature learning: a macro
+  cause is a class of micro states with the same P(effect | man(state)),
+  a macro intervention is any micro manipulation into the class, and the
+  causal coarsening theorem says that, except on a measure-zero set,
+  the causal partition is a coarsening of the observational one, so one
+  experiment per observational class finds it. Read it knowing that its
+  example is a one-dimensional toy with four hue bands; that the
+  theorem is a genericity result, not a test, and holds only for
+  discrete macrovariables and an acyclic micro system; that the effect
+  classes are defined by equal likelihoods while the merging step
+  normalizes them; that two of its displayed equations carry slips
+  (NOTE-tmpbrnim); and that it gives no measure of how much causal
+  information a coarsening keeps.
+title: 'Causal feature learning: an overview'
+version: 2
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Registered on 2026-10-29 at the owner's request ('find those new
+    candidate readings'), named by NOTE-tmp0q96y as Eberhardt & Lee's
+    recommended alternative, for QUESTION-204's second half: whether a
+    coarse-graining chosen by a causal criterion agrees with an
+    independent interventionist test of which level the effects track.
+    Causal feature learning builds its macro variables from P(effect |
+    manipulation) alone, which is such a test. Not held before: no LIT
+    named Chalupka; NOTE-1347, NOTE-1037, NOTE-1045 and THEORY-1125 cite
+    the framework through other readings. Citation checked against
+    Crossref (10.1007/s41237-016-0008-2) and the PDF's own front page:
+    Krzysztof Chalupka, Frederick Eberhardt and Pietro Perona, "Causal
+    feature learning: an overview", Behaviormetrika 44(1), 137–164
+    (2017), invited paper; received 29 August 2016, accepted 29 November
+    2016, published online 26 December 2016. It has no arXiv deposit.
+    `published:` is 2016-12-26, Crossref's earliest full date
+    (published-online), which the article also carries (ADR-002).
+    OpenAlex calls it closed and CaltechAUTHORS holds metadata only; the
+    copy read is the author's posting of the publisher's PDF, which
+    counts under ADR-064.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full (NOTE-tmpbrnim): §§1–5 with the mathematical appendix,
+    figure captions and references. Status Deferred → Active. The
+    summary is written from the reading. THEORY-tmpyfcov was filed from
+    this reading and NOTE-tmpiw2bv.
+tags:
+- causality
+- complex-systems
+- probabilistic-modeling
+- anthology-candidate
+date: '2026-10-29'
+published: '2016-12-26'
+doi: '10.1007/s41237-016-0008-2'
+first_author: 'Chalupka'
+keywords:
+- 'causal feature learning'
+- 'causal macrovariables'
+- 'observational partition'
+- 'causal partition'
+- 'causal coarsening theorem'
+- 'ambiguous manipulation'
+- 'microvariable manipulation'
+implementations: []
+extends:
+- LIT-tmplfiq6
+summary: >-
+  Chalupka, Eberhardt & Perona (2016; Behaviormetrika 2017). A review of
+  causal feature learning (CFL). Macro variables are partitions of a
+  micro state space. The observational partition groups micro causes h
+  with equal p(e | h); the causal partition groups those with equal
+  p(e | man(h)), where man() sets the micro state without touching a
+  confounder; effect states are grouped the same way by their columns.
+  A macro intervention do(C = c) is a manipulation to any micro state in
+  the class, which is unambiguous because all of them have the same
+  effect. The causal coarsening theorem: among distributions with given
+  causal and confounding partitions, the causal partition fails to
+  coarsen the observational one only on a Lebesgue-null set, so the
+  observational partition is learned from data and one experiment per
+  observational class merges it into the causal one. A toy with
+  confounded hue and skin conductance shows the steps; open problems are
+  continuous macrovariables, cycles and learning without experiments.
+---
+
+# LIT-tmpmefe6: Causal feature learning: an overview
+
+Chalupka, K., Eberhardt, F. & Perona, P. (2017). Causal feature learning:
+an overview. *Behaviormetrika*, 44(1), 137–164.
+doi:10.1007/s41237-016-0008-2
+
+Read in full on 2026-10-29 (NOTE-tmpbrnim). One account was drawn from it
+and from NOTE-tmpiw2bv: THEORY-tmpyfcov.
+
+## Why this is here
+
+Eberhardt and Lee (LIT-tmpr2bnp, NOTE-tmp0q96y) recommend causal feature
+learning as the account of macro variables that avoids the failures of
+effective information they document. QUESTION-204's first half is
+answered (THEORY-tmphfpe7); its second half asks whether a coarse-graining
+chosen by a causal criterion agrees with an independent interventionist
+test of which level the effects track. CFL's causal partition is such a
+test: it merges micro states only when their interventional effects are
+the same. This is the framework's overview; the two-sided theorem it
+restates is from LIT-tmplfiq6.
