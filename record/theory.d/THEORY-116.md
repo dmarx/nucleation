@@ -21,7 +21,20 @@ promote_when: >-
   together cannot settle it. They are the evidence already held, and they
   test the two directions jointly.
 title: 'A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Connections updated by the eleventh status review (ADR-057) after
+    THEORY-112 was narrowed and promoted: it no longer says the barrier
+    left after alignment rises with depth, which is now QUESTION-tmpskhuc.
+    The old text: "says the barrier left after the full symmetry group is
+    factored out falls with width and rises with depth". THEORY-111,
+    also narrowed, no longer claims what weight averaging does inside a
+    basin, so its entry here ends at the networks it measured; the old
+    text: "and to what weight averaging does inside a basin". The
+    claim is unchanged, and the status stays Proposed.
 tags:
 - loss-landscapes
 - representation-learning
@@ -50,8 +63,6 @@ supports:
 - CLAIM-187
 - CLAIM-263
 ---
-<!-- inactive-ok-file: THEORY-111 THEORY-112 — Proposed; accounts this one is read beside, named in Connections, nothing here rests on them -->
-
 # THEORY-116: A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 
 ## Source
@@ -174,16 +185,26 @@ sense.
 - **The barriers left after alignment.** The anthology's [ANTH-THEORY-010](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-010.md)
   says most of the barrier between independently trained networks is
   permutation, not disagreement. [THEORY-112](THEORY-112.md), filed alongside this
-  one, says the barrier left after the full symmetry group is factored
-  out falls with width and rises with depth. This account has to say what
+  one, found the barrier left after weight matching falling with width;
+  whether it rises with depth is QUESTION-tmpskhuc. This account has to say what
   that residual barrier is. Either narrow or deep same-data seeds rely on
   different attributes, which nothing here has tested, or their residual
   barrier is a counterexample to the stated direction. That is the test
   `promote_when` asks for.
 - **[THEORY-111](THEORY-111.md)** carries the converse direction further: from
-  activation patterns in one hidden layer to every layer's features, and
-  to what weight averaging does inside a basin.
+  activation patterns in one hidden layer to every layer's features, in
+  the image classifiers it measured.
 - **Practice across the boundary.** The anthology's [ANTH-SOTA-217](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/practices.d/SOTA-217.md) (align
   permutations before averaging) assumes that what remains after alignment
   is benign. On this account it is benign only when the two models share
   a mechanism.
+
+## Note of 2026-10-29: what holds it back
+
+The stated direction, a barrier surviving alignment ⇒ a different
+mechanism, is tested nowhere on deep networks trained on the same data.
+The deep-network evidence is co-occurrence in one synthetic-cue
+fine-tuning protocol, LIT-669's proof (App. F.3) runs in the converse
+direction for one hidden layer, and the residual barriers that same-data
+seeds keep at 1× width (THEORY-112) have never been tested for shared
+invariances.

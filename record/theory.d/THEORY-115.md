@@ -61,7 +61,6 @@ supports:
 - CLAIM-263
 ---
 <!-- inactive-ok-file: LIT-676 — Proposed; Li et al. on GNNs, named as a limit on scope, not leaned on -->
-<!-- inactive-ok-file: THEORY-114 — Proposed; an account that carries this one further, and the account of the stable start this one presupposes and is no firmer than -->
 
 # THEORY-115: Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed
 
@@ -170,3 +169,13 @@ ridge (Fig. 2, Fig. 9; CIFAR-100, 10 seeds).
   pretrained model, from a line between two runs to a region spanned by
   many, with the shared structure graded by dataset, task family and
   general language classification.
+
+## Note of 2026-10-29: what holds it back
+
+No held source measures the barrier above the endpoints' mean while shared
+structure is varied, with a same-objective control. Mirzadeh et al.'s
+breaking cases plot raw loss, which the continual endpoint's forgetting
+largely explains. FedAvg models of one objective from one start (LIT-666)
+show a barrier that grows with heterogeneity, so it is not shown that
+losing shared structure, rather than how the objective is optimised, is
+what breaks the connection.

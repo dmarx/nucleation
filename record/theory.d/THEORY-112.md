@@ -1,26 +1,30 @@
 ---
 number: 112
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpkd2ju
-promote_when: >-
-  The residual barrier after full-group alignment accounted for at a scale
-  the sources do not reach. The zero barriers so far are for MNIST MLPs, a
-  32×-wide ResNet-20 on CIFAR-10, and small ViTs and GPT-2s whose alignment
-  was learned against the loss at the midpoint. ImageNet ResNet-50 keeps a
-  third of its barrier, and BookCorpus keeps 0.42. What would promote:
-  independently trained models at standard width, on ImageNet or a language
-  corpus, brought to near-zero held-out barrier by a data-free alignment
-  over the architecture's full symmetry group. Or the residual barrier shown
-  to track a difference in what the endpoints compute, as LIT-669's
-  barriers do, so that "most" is the part that is symmetry and the rest is
-  identified. What would refute it: same-data, same-procedure solutions
-  whose barrier stays near the unaligned value under every alignment the
-  full group allows, learned ones included, when the endpoints are shown to
-  rely on the same input attributes. A third or fourth permutation-finding
-  algorithm on vision models at moderate scale cannot settle it.
-title: 'Once the architecture''s symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth'
-version: 1
+title: 'Aligning independently trained solutions over the architecture''s symmetries removed the linear barrier between them for MNIST MLPs and 32×-wide ResNet-20s on CIFAR-10, two-thirds of it for an ImageNet ResNet-50, and not all of it for VGG-16 or ResNet-20 at 1× width, the barrier after weight matching falling with width; for 6- to 8-layer ViTs and GPT-2s, permutations alone removed 63–90% of it, and adding an orthogonal map on the residual stream, learned against the loss at the path''s midpoint, took it to zero or near zero except on BookCorpus (0.42)'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the eleventh status review (ADR-057;
+    ADR-047's evidence ruling). Its five sources were each read in full
+    (NOTE-537, NOTE-532, NOTE-543, NOTE-540, NOTE-528). The title now says
+    what alignment removed in each network measured. It drops "most" as a
+    general claim, since Git Re-Basin gives no fraction at 1× width, and
+    it drops the depth clause, which on straight lines after alignment
+    rests on Entezari et al.'s Fig. 7 and on a sufficient width from
+    Ferbach et al., not on a measurement. The old title: Once the
+    architecture's symmetries are factored out, most of the linear barrier
+    between independently trained solutions disappears; the group that
+    matters is the full one, permutations for MLPs and CNNs but for
+    transformers also an orthogonal map on the residual stream, without
+    which a barrier remains; and the barrier left after alignment falls
+    with width and rises with depth. The promote_when, with the depth
+    clause, moves to QUESTION-tmpskhuc, as THEORY-114's did to
+    QUESTION-312.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -44,16 +48,20 @@ summary: >-
   the residual stream added; permutations alone left 0.29–1.60. Bo Zhao et
   al. (2025), [LIT-655](../literature.d/LIT-655.md), place permutations inside the full symmetry
   group. Lubana et al.'s barriers between models that compute differently
-  are the boundary.
+  are the boundary. Whether most of the barrier goes at standard width
+  on ImageNet or a language corpus under data-free alignment, and whether
+  the barrier left rises with depth, is QUESTION-tmpskhuc.
 extended_by:
 - THEORY-110
 supports:
 - CLAIM-187
 - CLAIM-263
+bears_on:
+- QUESTION-tmpskhuc
 ---
-<!-- inactive-ok-file: THEORY-109 THEORY-114 THEORY-110 — Proposed; the account this extends and the two filed with it, named in the body -->
+<!-- inactive-ok-file: THEORY-109 THEORY-110 — Proposed; the account this extends and one filed with it, named in the body -->
 
-# THEORY-112: Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth
+# THEORY-112: Aligning independently trained solutions over the architecture's symmetries removed the linear barrier between them for MNIST MLPs and 32×-wide ResNet-20s on CIFAR-10, two-thirds of it for an ImageNet ResNet-50, and not all of it for VGG-16 or ResNet-20 at 1× width, the barrier after weight matching falling with width; for 6- to 8-layer ViTs and GPT-2s, permutations alone removed 63–90% of it, and adding an orthogonal map on the residual stream, learned against the loss at the path's midpoint, took it to zero or near zero except on BookCorpus (0.42)
 
 ## Source
 
@@ -127,7 +135,8 @@ raises them", it is false for curved paths. Draxler et al., [LIT-653](../literat
 find barriers on their minimum-energy paths falling as networks get "wider
 and especially deeper" (Fig. 5). Garipov et al., [LIT-673](../literature.d/LIT-673.md), also find
 width easing curved connection (A.7). On straight lines after alignment
-the clause holds:
+the width half holds, and is in the title. The depth half is only
+suggested, and is QUESTION-tmpskhuc's:
 
 - *Width lowers it.* Git Re-Basin's barrier after weight matching falls with
   width for VGG-16 and ResNet-20 on CIFAR-10, to zero at large width; at 1×
@@ -160,7 +169,9 @@ the clause holds:
   ReLU network they prove that linear connectivity forces shared activation
   patterns. Their endpoints are trained on different data, so they are not
   the same-data seeds this account is about. But they show that a barrier
-  surviving alignment can be real, which is why the claim says "most".
+  surviving alignment can be real, which is why the title says what
+  alignment removed in each network measured, and not that a residual
+  barrier is symmetry.
 - **Solutions training reaches.** Git Re-Basin constructs two perfect
   solutions of a two-hidden-layer, two-unit network that no permutation
   connects (Appendix A.6). Bo Zhao et al. use rescaling to construct minima
@@ -182,7 +193,8 @@ the clause holds:
   transformers the orthogonal map is needed to reach zero. For thin
   convnets nothing found reaches zero.
 - **It does not say a barrier is always symmetry.** Lubana et al.'s barriers
-  are mechanism. The claim is about same-data solutions, and only "most".
+  are mechanism. The claim is about same-data solutions, and only what
+  alignment removed where it was measured.
 - **It does not say alignment works at initialization.** That is
   [THEORY-114](THEORY-114.md): at practical widths the aligned barrier is high at the
   start of training and falls during it.

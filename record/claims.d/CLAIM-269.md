@@ -7,7 +7,7 @@ title: A regularized linear readout can tell apart only representations that
   differ in normalized kernel, and kernels fix a representation only up to
   the symmetry of what is observed, so any distinction beyond that is supplied
   by the analyst, not by the readouts
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-13'
@@ -28,6 +28,17 @@ history:
     converging kernels fix a representation only up to the symmetry of
     what is observed (THEORY-002), and that degeneracy does not identify
     the symmetry (THEORY-019). It stays Proposed until they are settled.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The second bullet's ground moved from THEORY-002 to THEORY-004 and
+    THEORY-723 by the eleventh status review (ADR-057, ADR-058). The
+    bullet uses only what a kernel and a softmax distribution fix, which
+    those Active readings hold, and not THEORY-002's reading of the
+    Platonic hypothesis, which this claim never invokes. THEORY-002's
+    supports entry for this claim is removed. The old bullet: Convergence
+    of kernels fixes representations only up to the symmetry group of
+    what is observed (THEORY-002). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: A regularized linear readout shown to separate two representations
@@ -42,14 +53,15 @@ line:
 - formal-apparatus
 grounds:
 - THEORY-008
-- THEORY-002
+- THEORY-004
+- THEORY-723
 - THEORY-018
 - THEORY-019
 summary: The general content of [CLAIM-193](CLAIM-193.md), filed alone under [ADR-040](../decisions.d/ADR-040.md) so that
   the linear result does not rest on [CLAIM-142](CLAIM-142.md), whose realist reading is about
   communicative identity. What a regularized linear readout decodes is a function
   of the normalized kernel ([THEORY-008](../theory.d/THEORY-008.md)). Kernels fix a representation only
-  up to the symmetry of what is observed ([THEORY-002](../theory.d/THEORY-002.md)). An inner product beyond
+  up to the symmetry of what is observed (THEORY-004, THEORY-723). An inner product beyond
   that is a stipulation ([THEORY-018](../theory.d/THEORY-018.md)). And spectral degeneracy does not identify
   the symmetry ([THEORY-019](../theory.d/THEORY-019.md)). These are proved results for learned representations.
 rests_on:
@@ -57,7 +69,7 @@ rests_on:
 supports:
 - CLAIM-193
 ---
-<!-- inactive-ok-file: CLAIM-142 CLAIM-193 THEORY-002 THEORY-019 — Proposed; cited for what each holds or applies, open, not settled -->
+<!-- inactive-ok-file: CLAIM-142 CLAIM-193 THEORY-019 — Proposed; cited for what each holds or applies, open, not settled -->
 
 # CLAIM-269: A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts
 
@@ -71,9 +83,10 @@ known exactly:
   ([THEORY-008](../theory.d/THEORY-008.md)). Two representations with the same normalized kernel are
   indistinguishable to every such readout, whatever basis they are written
   in. CKA, CCA and GULP are averages of readout agreement.
-- **Kernels fix representations only up to symmetry.** Convergence of
-  kernels fixes representations only up to the symmetry group of what is
-  observed ([THEORY-002](../theory.d/THEORY-002.md)).
+- **Kernels fix representations only up to symmetry.** A centred kernel
+  fixes a representation up to a translation and an orthogonal map
+  (THEORY-004), and a softmax model's output distribution fixes its final
+  layer only up to an invertible linear map (THEORY-723).
 - **Anything further is stipulated.** Softmax training identifies a final
   layer only up to an invertible linear map, so no inner product on it is
   intrinsic ([THEORY-018](../theory.d/THEORY-018.md)).
@@ -103,7 +116,10 @@ now [CLAIM-379](CLAIM-379.md), filed Active with its derivation. For ridge b > 0
 kernel K_X and the Gram matrix determine each other, so readouts collapse
 exactly the orthogonal orbit of a centred representation; the CCA member
 collapses the invertible-linear orbit. What this claim adds, and why it
-stays Proposed, is the second and fourth bullets: that convergence of
-kernels fixes representations only up to the symmetry group of the observed
-data ([THEORY-002](../theory.d/THEORY-002.md)), and that spectral degeneracy does not identify that
-symmetry ([THEORY-019](../theory.d/THEORY-019.md)).
+stays Proposed, is the fourth bullet: that spectral degeneracy does not
+identify the symmetry of the observed data ([THEORY-019](../theory.d/THEORY-019.md)).
+
+## Note of 2026-10-29: what holds it back
+
+The fourth bullet rests on THEORY-019, whose Schur corollary over the
+reals no held source states and proves.
