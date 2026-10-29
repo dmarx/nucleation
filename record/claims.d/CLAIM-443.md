@@ -1,10 +1,10 @@
 ---
 number: 443
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp0qupq
 title: 'A learned prior over which processes govern, P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)), its bias b_H trained by reward-modulated Hebbian updates to the relations by which one process recruits or endorses another, is a candidate mechanism for durable authority and for amortized governance; but persistence is not amortization, which is shown only when earlier work replaces later computation, communication or recruitment, and a prior over authority differs from a prior over actions only when what is appropriate changes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -16,6 +16,27 @@ history:
     "What the readings of 2026-10-24 add", as evidence or as narrowings;
     the claim's argument does not stand on any of them. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Relations corrected and promoted by the fourteenth status review
+    (ADR-057, ADR-058), at the status review's ruling (the owner
+    delegated these rulings). CLAIM-358 moves from rests_on to
+    complements: the claim takes from it only the reuse inequality,
+    which is cost accounting that holds whatever the costs (checked at
+    this review), and the learned prior it describes is what CLAIM-358's
+    note of 2026-10-23 calls a learned endorsement, which saves
+    negotiation over authority, not the local accommodation, which saves
+    escalation, that CLAIM-358 claims. LIT-1492 leaves grounds: it is
+    Unavailable and the record holds no reading of it. LIT-1476,
+    LIT-1488, LIT-1494 and LIT-1497 leave grounds for version 2's
+    reason: filed after the claim, they enter only in "What the readings
+    of 2026-10-24 add", and the readings filed from them already
+    corroborate it. Its premise CLAIM-277 is Active, no objection is
+    filed, and nothing meets its defeated_if. Version 2's sentence read:
+    "CLAIM-358's cost argument says when it pays." The inequality now
+    says its maintenance and error terms are totals over the N
+    encounters. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,18 +57,12 @@ line:
 - distributed-agency
 rests_on:
 - CLAIM-277
-- CLAIM-358
 complements:
 - CLAIM-349
 - CLAIM-344
 - CLAIM-364
 - CLAIM-444
-grounds:
-- LIT-1492
-- LIT-1476
-- LIT-1488
-- LIT-1494
-- LIT-1497
+- CLAIM-358
 corroborated_by:
 - THEORY-913
 - THEORY-904
@@ -101,8 +116,8 @@ co-activation gated by an outcome signal, with forgetting. This is a
 schematic three-factor rule, not a claim about any neural implementation.
 In a familiar context the prior already puts a process in a position to
 govern, so the case for it need not be rebuilt. [CLAIM-277](CLAIM-277.md)'s durable
-authority from repeated endorsement becomes this prior; [CLAIM-358](CLAIM-358.md)'s cost
-argument says when it pays.
+authority from repeated endorsement becomes this prior; [CLAIM-358](CLAIM-358.md)'s note
+of 2026-10-23 gives the accounting for when it pays.
 
 **Worked example (DBT).** An avoidance process A, a relationship process
 B and a pause-and-assess procedure R. At first B has influence only if R is
@@ -118,7 +133,8 @@ allocation wins while every process still does all the same costly
 evaluation and negotiation. Amortization is shown only when earlier work
 replaces later computation, communication or supervisory recruitment. In
 [CLAIM-358](CLAIM-358.md)'s terms, reuse pays under a declared cost measure and comparable
-outcomes when N(c_d − c_π) > F + C_maintenance + C_error, and the
+outcomes when N(c_d − c_π) > F + C_maintenance + C_error, with
+C_maintenance and C_error totalled over the N encounters, and the
 inequality has to be measured, not inferred from stable behaviour.
 
 **A prior over authority is not a prior over actions.** "When distressed,
@@ -159,3 +175,11 @@ higher-level deliberation are disrupted selectively.
   dynamics.
 - That a learned governance arrangement that is cheap and stable is
   appropriate ([QUESTION-087](../questions.d/QUESTION-087.md)).
+
+## Note of 2026-10-29: promoted
+
+The fourteenth status review promoted the claim, at the status review's
+ruling (the owner delegated these rulings), after moving CLAIM-358 to
+complements and the LITs out of grounds. Its test, a change of the
+appropriate action after training a cached and a recruited arm, is still
+unrun; Friston et al.'s devaluation run is the cached arm alone.

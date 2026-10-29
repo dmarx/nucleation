@@ -76,3 +76,13 @@ with authority attached. The worked case is [CASE-080](../cases.d/CASE-080.md).
   different constraints".
 - It does not say the order of an endorsement settles anything. [THEORY-029](../theory.d/THEORY-029.md)'s
   regress stands.
+
+## Note of 2026-10-29: what holds it back
+
+Its title asserts that role indexing keeps disagreement working "instead
+of sorting into factions", and that rests on A2's argument alone: the
+comparison it names, role-indexed against scalar endorsement in a
+population model (CASE-092), has not been run. The first clause holds by
+construction: a process can back another as a critic without backing its
+policy (CASE-080), and evidence-based subjective logic already keeps
+referral and functional trust apart (NOTE-1354).

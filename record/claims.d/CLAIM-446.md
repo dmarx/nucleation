@@ -368,3 +368,11 @@ account of [THEORY-914](../theory.d/THEORY-914.md) are not excluded, and nothing
 its defeated_if. The readings promoted on 2026-10-29 hold its laboratory
 steps in healthy people ([THEORY-901](../theory.d/THEORY-901.md), [THEORY-920](../theory.d/THEORY-920.md)) and the causal work of
 safety behaviour ([THEORY-903](../theory.d/THEORY-903.md)); none measures authority.
+
+## Note of 2026-10-29: CLAIM-443 promoted
+
+The fourteenth status review promoted CLAIM-443, so the premise the note
+above names as Proposed is now Active. The claim stays held by the rest
+of that note: no result measures defensive authority apart from threat
+belief, the uncertainty estimate and the belief about one's own future
+control, so the rivals it names are not excluded.
