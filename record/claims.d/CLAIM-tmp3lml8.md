@@ -24,7 +24,7 @@ complements:
 - CLAIM-471
 summary: >-
   From A2 and A3 of the exchange "Paper assessment" (2026-10-29), which
-  drew it out of LIT-tmpr8qf7's O(d) setting against THEORY-1082's U(1)
+  drew it out of [LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md)'s O(d) setting against [THEORY-1082](../theory.d/THEORY-1082.md)'s U(1)
   one. The proof and the example are the record's, checked numerically.
   It is the zeroth cohomology of the connection sheaf, so standard, and
   it says nothing about which organizations have such transports.
@@ -46,11 +46,11 @@ The fundamental cycles generate every loop at b. So restriction to b is an
 isomorphism from global sections onto ⋂_C Fix(H_C), the vectors fixed by
 the whole holonomy group. With energy E(x) = ½Σ‖xᵢ − Tᵢⱼxⱼ‖² = ½⟨x, L_T x⟩
 and L_T positive semidefinite, the sections are exactly ker L_T. This is
-THEORY-1082's spanning-tree step, which there needed |xᵢ| constant and
+[THEORY-1082](../theory.d/THEORY-1082.md)'s spanning-tree step, which there needed |xᵢ| constant and
 here needs nothing beyond the O(d) relations.
 
 **All or nothing for d = 1.** A phase e^{iθ} acting on ℂ fixes either
-everything (θ ≡ 0) or nothing. So in THEORY-1082's setting a single
+everything (θ ≡ 0) or nothing. So in [THEORY-1082](../theory.d/THEORY-1082.md)'s setting a single
 nontrivial loop removes every nonzero section.
 
 **Graded for d > 1.** Let every transport on a graph with a triangle
@@ -66,18 +66,18 @@ see which.
 
 **Non-commutativity is not holonomy.** For any A, B ∈ O(d) with AB ≠ BA,
 the triangle T₁₂ = A, T₂₃ = B, T₃₁ = (AB)⁻¹ has holonomy I. Order-
-sensitive relations can compose flat. CLAIM-373's bound on carrying
-commutators and LIT-tmpr8qf7's holonomy measure different things.
+sensitive relations can compose flat. [CLAIM-373](CLAIM-373.md)'s bound on carrying
+commutators and [LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md)'s holonomy measure different things.
 
 ## What it does not say
 
 - **That an organization's parts have O(d) transports among them.** Whether
-  any measured relations behave as such is the question QUESTION-130 asks
-  of evaluative contexts and QUESTION-tmp6byb6 of organizations.
+  any measured relations behave as such is the question [QUESTION-130](../questions.d/QUESTION-130.md) asks
+  of evaluative contexts and [QUESTION-tmp6byb6](../questions.d/QUESTION-tmp6byb6.md) of organizations.
 - **That a fixed subspace is a shared commitment.** It is a set of
   directions every loop leaves alone. Reading it as common ground or a
   shared value needs the directions to be validated as meaning that.
 - **Anything new in mathematics.** It is H⁰ of the connection sheaf, which
-  is the setting of THEORY-1090's Hansen and Ghrist. It is filed because
-  the record's own result is the U(1) case, and CASE-179's higher-
+  is the setting of [THEORY-1090](../theory.d/THEORY-1090.md)'s Hansen and Ghrist. It is filed because
+  the record's own result is the U(1) case, and [CASE-179](../cases.d/CASE-179.md)'s higher-
   dimensional stalks need the general one.

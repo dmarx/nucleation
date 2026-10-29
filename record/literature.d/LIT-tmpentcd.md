@@ -39,4 +39,4 @@ it first.
 
 ## Why this is here
 
-A6's point: entailment, authority and obligation are directed and hierarchical, and symmetric distances do not carry them; the geometry should fit the relations to be preserved. Hyperbolic distance is still symmetric, so it is a partial answer. It bears on normative transport (QUESTION-130).
+A6's point: entailment, authority and obligation are directed and hierarchical, and symmetric distances do not carry them; the geometry should fit the relations to be preserved. Hyperbolic distance is still symmetric, so it is a partial answer. It bears on normative transport ([QUESTION-130](../questions.d/QUESTION-130.md)).

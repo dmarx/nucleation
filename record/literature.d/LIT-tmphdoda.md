@@ -40,4 +40,4 @@ it first.
 
 ## Why this is here
 
-A5's warning for CASE-055's Stage 0, kept in CASE-tmph0fxi: if judges agree on pragmatic similarity at 0.45, a model can look weak because the target is unstable, or strong because it reproduces one panel's habits.
+A5's warning for [CASE-055](../cases.d/CASE-055.md)'s Stage 0, kept in [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md): if judges agree on pragmatic similarity at 0.45, a model can look weak because the target is unstable, or strong because it reproduces one panel's habits.

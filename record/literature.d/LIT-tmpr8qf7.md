@@ -61,28 +61,28 @@ NeurIPS 2026. [ARXIV-2610.37656](https://arxiv.org/abs/2610.37656)
 - Under per-entity O(d) frame freedom, fixing the gauge along a spanning
   tree shows that the transports carry no invariant information except
   around cycles; a triangle's invariants are the class functions of its
-  holonomy H = TᵢⱼTⱼₖTₖᵢ (THEORY-tmpf3jtf).
+  holonomy H = TᵢⱼTⱼₖTₖᵢ ([THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md)).
 - An equivariant update of an edge from one cycle through it is
   Ψ(H)Tᵢⱼ with Ψ(gHg⁻¹) = gΨ(H)g⁻¹. Ψ is a family, not one function, so
   "the unique form the symmetry permits" fixes a design space, not a
   mechanism.
 - One loop through a corrupted edge detects the corruption but cannot
   say which of its edges is wrong; scoring a candidate by squares that
-  avoid it can (THEORY-tmpy1s8c).
+  avoid it can ([THEORY-tmpy1s8c](../theory.d/THEORY-tmpy1s8c.md)).
 - On the S4 benchmark, composition through cycles is the capability and
   holonomy routing a small refinement; Singer's spectral method ties or
   edges it, as the paper says.
 
 ## Standing in the record
 
-The construction is the one QUESTION-130 wrote down on 2026-10-18 for
+The construction is the one [QUESTION-130](../questions.d/QUESTION-130.md) wrote down on 2026-10-18 for
 evaluative transport: local frames, covariant transports, holonomy around
 a loop, conjugacy class as the invariant. The paper adds the forced form
 of an equivariant update. It does not touch the question's open part: its
-transports are given, as they are in every formalism QUESTION-282 found.
+transports are given, as they are in every formalism [QUESTION-282](../questions.d/QUESTION-282.md) found.
 
 The paper's premise is weaker than its framing. Its companion paper
-(LIT-tmpbihhf) calls per-entity frame freedom "an inductive bias, not a
+([LIT-tmpbihhf](LIT-tmpbihhf.md)) calls per-entity frame freedom "an inductive bias, not a
 claim that fresh names logically imply a physical symmetry" (p. 2); this
 paper calls it "the task's, not a network's" (p. 2). The companion's own
 CLUTRR result shows orthogonal transports costing 64.6 points out of
@@ -91,4 +91,4 @@ premise holds is a property of the task.
 
 `anthology-candidate`: an architecture paper in machine learning, which
 the anthology may want as well. It is filed here for its mathematics and
-for what it bears on in QUESTION-130 and CASE-179.
+for what it bears on in [QUESTION-130](../questions.d/QUESTION-130.md) and [CASE-179](../cases.d/CASE-179.md).

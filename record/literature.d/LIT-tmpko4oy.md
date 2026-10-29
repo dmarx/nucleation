@@ -38,4 +38,4 @@ it first.
 
 ## Why this is here
 
-A6's bridge back to holonomy: independently fitted pairwise alignments need not compose consistently, and a joint alignment imposes consistency by construction. Comparing the two on held-out data asks whether global consistency is a useful regularizer or a loss of local distinctions (CLAIM-tmpgwud2, QUESTION-tmp6byb6).
+A6's bridge back to holonomy: independently fitted pairwise alignments need not compose consistently, and a joint alignment imposes consistency by construction. Comparing the two on held-out data asks whether global consistency is a useful regularizer or a loss of local distinctions ([CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md), [QUESTION-tmp6byb6](../questions.d/QUESTION-tmp6byb6.md)).

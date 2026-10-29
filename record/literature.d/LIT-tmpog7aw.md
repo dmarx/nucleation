@@ -42,4 +42,4 @@ it first.
 
 ## Why this is here
 
-A5's reason: it sets translation tasks and pragmatic inference on related material, which is the separation CLAIM-202 wants measured, and A5 reported its finding that fluent translations can miss pragmatic meaning. Its subject is model evaluation; CASE-tmph0fxi would need its items read by human receivers.
+A5's reason: it sets translation tasks and pragmatic inference on related material, which is the separation [CLAIM-202](../claims.d/CLAIM-202.md) wants measured, and A5 reported its finding that fluent translations can miss pragmatic meaning. Its subject is model evaluation; [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md) would need its items read by human receivers.

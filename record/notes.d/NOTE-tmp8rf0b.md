@@ -44,7 +44,7 @@ embeddings as its abelian sector, AlphaFold's triangle update and the Edge
 Transformer as its unconstrained superset, and lattice gauge
 smearing as its lattice case. It then measures an untrained instance,
 "holonomy attention", on group synchronization with outliers. Its
-companion paper (LIT-tmpbihhf, ref. [1]) supplies the node-level half.
+companion paper ([LIT-tmpbihhf](../literature.d/LIT-tmpbihhf.md), ref. [1]) supplies the node-level half.
 
 ## Key insight
 
@@ -63,7 +63,7 @@ the paper follows from that move.
   symmetry is the task's, not a network's: a fresh entity's frame carries
   no information, so any predictor must be invariant to it" (p. 2). Its
   companion paper calls the same premise "an inductive bias, not a claim
-  that fresh names logically imply a physical symmetry" (LIT-tmpbihhf,
+  that fresh names logically imply a physical symmetry" ([LIT-tmpbihhf](../literature.d/LIT-tmpbihhf.md),
   p. 2).
 - **Invertible, orthogonal relations.** Every theorem is for O(d). The
   companion paper's CLUTRR control, where orthogonality costs 64.6 points
@@ -179,35 +179,35 @@ updates since APE smearing (1987), with recent gauge-equivariant networks.
 Group synchronization uses cycle inconsistency as "the standard
 diagnostic" (refs. [11], [30]), and Gao, Brodzki and Mukherjee (ref.
 [29]) classify edge potentials by holonomy. Singer's eigenvector method
-(LIT-1655, read in NOTE-1224) is the paper's own baseline and ties or
-beats it. The U(1) case is the twisted Laplacian of THEORY-1082. The paper
+([LIT-1655](../literature.d/LIT-1655.md), read in [NOTE-1224](NOTE-1224.md)) is the paper's own baseline and ties or
+beats it. The U(1) case is the twisted Laplacian of [THEORY-1082](../theory.d/THEORY-1082.md). The paper
 cites Bodnar et al.'s neural sheaf diffusion (ref. [21]) as gauge
 structure "with no interaction between edge maps".
 
 ## Bearing on the record
 
-- **QUESTION-130.** The paper is QUESTION-130's construction (local frames,
+- **[QUESTION-130](../questions.d/QUESTION-130.md).** The paper is [QUESTION-130](../questions.d/QUESTION-130.md)'s construction (local frames,
   T′ = g T g⁻¹, holonomy around a loop, conjugacy class as the invariant)
-  with the forced form of an equivariant update added (THEORY-tmpf3jtf).
-  It does not answer the question. QUESTION-130's first objection is that
+  with the forced form of an equivariant update added ([THEORY-tmpf3jtf](../theory.d/THEORY-tmpf3jtf.md)).
+  It does not answer the question. [QUESTION-130](../questions.d/QUESTION-130.md)'s first objection is that
   arbitrary transports make curvature vacuous, and here the transports
   are supplied. It is supporting literature for the question's "gauge-
   covariant comparison", which A19 already rated "mathematically
   constructible".
-- **QUESTION-282.** Another formalism whose correspondence structure is an
+- **[QUESTION-282](../questions.d/QUESTION-282.md).** Another formalism whose correspondence structure is an
   input. The paper names learning the operators as its next step.
-- **THEORY-1082 and CLAIM-471.** The non-abelian generalization of the
+- **[THEORY-1082](../theory.d/THEORY-1082.md) and [CLAIM-471](../claims.d/CLAIM-471.md).** The non-abelian generalization of the
   twisted Laplacian. For d > 1 it brings something U(1) lacks: a
   non-flat connection can still keep a shared subspace on which every
-  loop is trivial (CLAIM-tmp3lml8).
-- **CLAIM-342 and THEORY-1088.** The design rule (score a candidate only
+  loop is trivial ([CLAIM-tmp3lml8](../claims.d/CLAIM-tmp3lml8.md)).
+- **[CLAIM-342](../claims.d/CLAIM-342.md) and [THEORY-1088](../theory.d/THEORY-1088.md).** The design rule (score a candidate only
   by loops that avoid it, since a loop through it is self-confirming) is
-  an instance of CLAIM-342's demand for evidence that does not pass
+  an instance of [CLAIM-342](../claims.d/CLAIM-342.md)'s demand for evidence that does not pass
   through what it tests. It is a weak instance: several squares can share
   a mistaken edge. Learning transports by minimizing holonomy alone is
-  exposed to THEORY-1088's way of reaching consensus by changing the maps.
-- **CASE-179.** Holonomy attention is a candidate revision apparatus for
-  CASE-179's "revision by consistency alone" arm, and the experiment is an
+  exposed to [THEORY-1088](../theory.d/THEORY-1088.md)'s way of reaching consensus by changing the maps.
+- **[CASE-179](../cases.d/CASE-179.md).** Holonomy attention is a candidate revision apparatus for
+  [CASE-179](../cases.d/CASE-179.md)'s "revision by consistency alone" arm, and the experiment is an
   instance of that arm's warning: the data are built flat, so consistency
   and correctness coincide by construction.
 - **ML practice.** The paper proposes an architecture and a design rule

@@ -39,4 +39,4 @@ it first.
 
 ## Why this is here
 
-A6's "emergent interlingua", held as high-risk: a barycenter of several communities' response structures is a reconstructed common structure, not the meaning common to all languages, and it can average away the distinctions that matter to minorities (CLAIM-348). Its use would be as a test of where common structure fails.
+A6's "emergent interlingua", held as high-risk: a barycenter of several communities' response structures is a reconstructed common structure, not the meaning common to all languages, and it can average away the distinctions that matter to minorities ([CLAIM-348](../claims.d/CLAIM-348.md)). Its use would be as a test of where common structure fails.

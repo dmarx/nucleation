@@ -40,4 +40,4 @@ it first.
 
 ## Why this is here
 
-A5 offered it as a measurement resource for CASE-055's Stage 0, not as a definition of fidelity: politeness labels across languages, with their reliability limits.
+A5 offered it as a measurement resource for [CASE-055](../cases.d/CASE-055.md)'s Stage 0, not as a definition of fidelity: politeness labels across languages, with their reliability limits.

@@ -41,4 +41,4 @@ it first.
 
 ## Why this is here
 
-A5's counterweight to LIT-tmpprsxm: structural alignment recovers correspondence only where the two structures are alike, so a good fit is not established identity. It bears on CLAIM-135 and on the identification threat in CASE-tmph0fxi.
+A5's counterweight to [LIT-tmpprsxm](LIT-tmpprsxm.md): structural alignment recovers correspondence only where the two structures are alike, so a good fit is not established identity. It bears on [CLAIM-135](../claims.d/CLAIM-135.md) and on the identification threat in [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md).
