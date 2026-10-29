@@ -123,13 +123,13 @@ constraints that bind, at abundances equal to their Lagrange multipliers.
 
 Gatto (1982, 1990) saw the rescaling freedom and used the KKT conditions
 for MacArthur's model; this paper generalizes his. The companion
-LIT-1231 runs the same duality from the optimization side, for
+[LIT-1231](../literature.d/LIT-1231.md) runs the same duality from the optimization side, for
 quadratic programming. Chizat and Bach's optimality condition for
-measures (LIT-1232) is the continuum form of the same KKT structure.
+measures ([LIT-1232](../literature.d/LIT-1232.md)) is the continuum form of the same KKT structure.
 
 ## Bearing on the record
 
-- **CLAIM-369** is the population-space side of this paper's result. Its
+- **[CLAIM-369](../claims.d/CLAIM-369.md)** is the population-space side of this paper's result. Its
   objective ½‖b − Un‖² + cᵀn is MacArthur's Q with resources eliminated,
   and its KKT points are the uninvadable equilibria. Two things this
   reading adds. First, read as the fast-resource reduction of a
@@ -141,7 +141,7 @@ measures (LIT-1232) is the continuum form of the same KKT structure.
   third boundary belongs beside its two: the reduction from resources. Second, the dual (environment-space)
   reading gives the claim's objective a physical meaning: the
   perturbation the active components impose on the supply.
-- **QUESTION-083**, **QUESTION-132**: in this class, assembly is
+- **[QUESTION-083](../questions.d/QUESTION-083.md)**, **[QUESTION-132](../questions.d/QUESTION-132.md)**: in this class, assembly is
   monotone in d. Differentiated specialists that each recover from rarity
   are exactly the binding constraints, and no assembly sequence can undo
   an invasion except by killing species. That is a structural limit on

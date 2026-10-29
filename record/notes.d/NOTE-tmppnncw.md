@@ -115,20 +115,20 @@ mean)/mean.
 
 ## Connections
 
-Its baseline is the auxiliary loss of Switch Transformers (LIT-1412) and
+Its baseline is the auxiliary loss of Switch Transformers ([LIT-1412](../literature.d/LIT-1412.md)) and
 GShard; its exclusion of Expert Choice (Zhou et al. 2022) is argued here,
-not borrowed. Routing collapse is from Shazeer et al. (LIT-1507). The
+not borrowed. Routing collapse is from Shazeer et al. ([LIT-1507](../literature.d/LIT-1507.md)). The
 same group's DeepSeekMoE supplies the architecture.
 
 ## Bearing on the record
 
-- **CASE-117.** The LIT records that the exchange cited this as "a
-  contribution-based control of influence, one of the regimes CASE-117
+- **[CASE-117](../cases.d/CASE-117.md).** The LIT records that the exchange cited this as "a
+  contribution-based control of influence, one of the regimes [CASE-117](../cases.d/CASE-117.md)
   compares". The reading does not support "contribution-based". The bias
   responds to load, the count of tokens an expert was selected for, and
   to nothing about how much the expert's output helped; it lowers the
   access of busy experts and raises that of idle ones regardless of
-  quality. In CASE-117's terms it is a usage-based quota on access, a
+  quality. In [CASE-117](../cases.d/CASE-117.md)'s terms it is a usage-based quota on access, a
   regime of imposed balance that, unlike an auxiliary loss, does not
   enter the gradient. It does have the property the case cares about,
   that an excluded expert is brought back: an expert receiving few tokens

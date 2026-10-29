@@ -126,11 +126,11 @@ note sets it against an evolutionary method only through Fig. 2's test
 case from the NSGA-II paper and a companion report comparing MGDA with
 PAES. The multi-task learning papers that build on MGDA are not cited and
 post-date it. Its Lemma 2.1 and Theorem 2.2 are the record's convex-hull
-test of common descent, which CLAIM-366 proves independently.
+test of common descent, which [CLAIM-366](../claims.d/CLAIM-366.md) proves independently.
 
 ## Bearing on the record
 
-- **CLAIM-366.** The claim's "A33's criterion" (0 ∉ conv{g_i} iff a
+- **[CLAIM-366](../claims.d/CLAIM-366.md).** The claim's "A33's criterion" (0 ∉ conv{g_i} iff a
   common strict first-order descent direction exists) has this note as a
   published source for the constructive half: Lemma 2.1 and Theorem 2.2
   are exactly the claim's minimum-norm argument. The converse (zero in
@@ -141,7 +141,7 @@ test of common descent, which CLAIM-366 proves independently.
   non-invariant objects: the existence of a common direction is
   unchanged by positive rescaling of the gradients, while ω's direction
   is not, and the author leaves the choice of scaling open.
-- **CLAIM-365.** The residual there is a budgeted, worst-case variant;
+- **[CLAIM-365](../claims.d/CLAIM-365.md).** The residual there is a budgeted, worst-case variant;
   MGDA is its unbudgeted, Euclidean, zero-target case (ε_i = 0), where the
   dual over the simplex reduces to the minimum-norm problem. The note
   does not treat budgets or declared improvements.

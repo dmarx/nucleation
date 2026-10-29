@@ -120,29 +120,29 @@ F′.
 
 ## Connections
 
-It builds on Hoel et al. 2013 (LIT-1038, THEORY-222) and Hoel 2017. It
+It builds on Hoel et al. 2013 ([LIT-1038](../literature.d/LIT-1038.md), [THEORY-222](../theory.d/THEORY-222.md)) and Hoel 2017. It
 answers Eberhardt and Lee's criticisms of EI maximization (ambiguity and
 non-commutativity, cited [11], not registered) with the 3×3 example of
-B.3. It names Rosas et al.'s information decomposition (LIT-1244) and
-Barnett and Seth's dynamical independence (THEORY-257) as alternatives
-tied to the data distribution. Hoel's CE 2.0 (LIT-1136, S3) adapts it by
-dropping σ₁, and Jansma and Hoel (LIT-1123) cite it as needing to be
+B.3. It names Rosas et al.'s information decomposition ([LIT-1244](../literature.d/LIT-1244.md)) and
+Barnett and Seth's dynamical independence ([THEORY-257](../theory.d/THEORY-257.md)) as alternatives
+tied to the data distribution. Hoel's CE 2.0 ([LIT-1136](../literature.d/LIT-1136.md), S3) adapts it by
+dropping σ₁, and Jansma and Hoel ([LIT-1123](../literature.d/LIT-1123.md)) cite it as needing to be
 "expanded" to CE 2.0. Thibeault et al.'s low-rank hypothesis is cited as
 related.
 
 ## Bearing on the record
 
-- **CLAIM-164.** The LIT says the paper's singular-value form is close to
+- **[CLAIM-164](../claims.d/CLAIM-164.md).** The LIT says the paper's singular-value form is close to
   the claim's gaps. It is, and the reading sharpens how. The paper's
   coarse-graining keeps the span of the top r_ε singular vectors and only
-  then clusters, so its object is the subspace, as CLAIM-164 says it
+  then clusters, so its object is the subspace, as [CLAIM-164](../claims.d/CLAIM-164.md) says it
   must be. But its definitions do not require a gap: Definition 4 gives
   vague emergence for any ε at or above σ_N and below σ₁, so every TPM
   whose singular values are not all equal shows it at some ε, and the
   degree varies with ε. The paper picks ε at "relatively clear cut-offs";
-  that is CLAIM-164's criterion, used informally and not stated. Proposed
-  dated note for CLAIM-164 below.
-- **QUESTION-115.** The LIT filed it as the 2024 candidate "on searching
+  that is [CLAIM-164](../claims.d/CLAIM-164.md)'s criterion, used informally and not stated. Proposed
+  dated note for [CLAIM-164](../claims.d/CLAIM-164.md) below.
+- **[QUESTION-115](../questions.d/QUESTION-115.md).** The LIT filed it as the 2024 candidate "on searching
   for coarse-grainings rather than assuming them". It is the reverse: it
   avoids the search by reading the spectrum, and recovers a partition
   afterwards by k-means. It is a criterion for whether a state space is

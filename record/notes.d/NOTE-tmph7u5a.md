@@ -133,7 +133,7 @@ their impacts differ, because any drop in resources hurts both equally.
 
 It builds on Chesson (1990), who first computed niche overlap and fitness
 difference from MacArthur's consumer–resource model, and on Kleinhesselink
-and Adler (2015) for Tilman's model. Chesson's 2000 review (LIT-1219, not
+and Adler (2015) for Tilman's model. Chesson's 2000 review ([LIT-1219](../literature.d/LIT-1219.md), not
 reachable) is the source of the stabilizing/equalizing vocabulary. The
 paper never invokes an optimization principle; Marsland, Cui and Mehta's
 minimum-environmental-perturbation account, which the synthesis set
@@ -141,7 +141,7 @@ beside it, is later and not cited.
 
 ## Bearing on the record
 
-- **QUESTION-083 and the synthesis.** The LIT says the synthesis took this
+- **[QUESTION-083](../questions.d/QUESTION-083.md) and the synthesis.** The LIT says the synthesis took this
   paper as the bridge between Chesson's terms and the resource-impact
   vocabulary. The reading supports the bridge, with limits the synthesis
   did not state: the translation is for two species and two resources,
@@ -149,7 +149,7 @@ beside it, is later and not cited.
   its generalizations are drawn from worked cases. For many operators
   sharing resources, Chesson's pairwise ρ does not by itself say whether
   a community of more than two coexists.
-- **QUESTION-132 and CLAIM-279.** If the record wants a stabilizing
+- **[QUESTION-132](../questions.d/QUESTION-132.md) and [CLAIM-279](../claims.d/CLAIM-279.md).** If the record wants a stabilizing
   mechanism in Chesson's sense, this paper locates it in impacts: an
   operator that limits itself more than others through what it does to a
   shared resource. Divergent requirements alone mostly equalize. That

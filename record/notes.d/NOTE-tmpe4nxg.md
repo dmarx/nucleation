@@ -124,11 +124,11 @@ MDL and context algorithm, from which it differs on random sources; Nerode
 equivalence for finite automata; Wiener–Kolmogorov prediction; Salmon's
 statistical-relevance basis, of which causal states are an instance;
 Ashby for the control theorem. In the record, Rosas et al.'s "software in
-the natural world" (LIT-1306) builds its causal closure on ε-machines.
+the natural world" ([LIT-1306](../literature.d/LIT-1306.md)) builds its causal closure on ε-machines.
 
 ## Bearing on the record
 
-- **CLAIM-327.** A10 offered causal states as "the minimal history a
+- **[CLAIM-327](../claims.d/CLAIM-327.md).** A10 offered causal states as "the minimal history a
   collective must keep to predict its future", a candidate for the slow
   state that survives turnover, and the LIT records A10's own caution
   that they are not thereby the boundaries of a social individual. The
@@ -140,11 +140,11 @@ the natural world" (LIT-1306) builds its causal closure on ε-machines.
   Remark 2): for a finite horizon a coarser and simpler state can be as
   predictive, so "the" slow state depends on the horizon of prediction.
   Proposed dated note below.
-- **CLAIM-152.** The causal states are a minimal sufficient statistic,
+- **[CLAIM-152](../claims.d/CLAIM-152.md).** The causal states are a minimal sufficient statistic,
   and the paper's target is explicit: the semi-infinite future of the
   same observable. They are an instance of the claim, with the target
   fixed by construction rather than chosen.
-- **QUESTION-115.** E ≤ Cµ separates what is measurable from sequences
+- **[QUESTION-115](../questions.d/QUESTION-115.md).** E ≤ Cµ separates what is measurable from sequences
   (E) from the memory needed to produce them (Cµ), the same distinction
   the question draws between retention measured on observables and a
   system's state.

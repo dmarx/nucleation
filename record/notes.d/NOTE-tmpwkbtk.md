@@ -38,7 +38,7 @@ A dictionary from inequality-constrained optimization to ecology, stated
 as a dynamical system whose steady states satisfy the KKT conditions, and
 its use to import a statistical-physics solution of random ecosystems
 into random quadratic programming. It is the optimization-side companion
-of LIT-1230.
+of [LIT-1230](../literature.d/LIT-1230.md).
 
 ## Key insight
 
@@ -108,27 +108,27 @@ constraints binds.
 ## Connections
 
 The cavity solution is Advani, Bunin and Mehta (2018); the MCRM is
-MacArthur (1970); neither is registered. LIT-1230 generalizes the
+MacArthur (1970); neither is registered. [LIT-1230](../literature.d/LIT-1230.md) generalizes the
 symmetric case to all niche models and gives the objective its
 environmental reading. The multiplier-as-population form is the same KKT
 structure as Chizat and Bach's optimality condition for measures
-(LIT-1232).
+([LIT-1232](../literature.d/LIT-1232.md)).
 
 ## Bearing on the record
 
-- **CLAIM-369** cites this paper and LIT-1230 for "the general duality".
+- **[CLAIM-369](../claims.d/CLAIM-369.md)** cites this paper and [LIT-1230](../literature.d/LIT-1230.md) for "the general duality".
   The reading confirms the citation and fixes its direction. Here the
   species are multipliers of constraints in resource space, and the
   Lotka–Volterra form with α_ij = Σ c_iα c_jα and κ_i = Σ K_α c_iα − m_i is
-  the dual. That is CLAIM-369's A = UᵀU and r = Uᵀb − c, with U = Cᵀ, b = K
+  the dual. That is [CLAIM-369](../claims.d/CLAIM-369.md)'s A = UᵀU and r = Uᵀb − c, with U = Cᵀ, b = K
   and c = m. The claim's objective is therefore a dual objective. Both
   sums run only over resources that survive, which is the same boundary
-  noted in the reading of LIT-1230.
-- **QUESTION-135** asks when spectral differentiation among features
+  noted in the reading of [LIT-1230](../literature.d/LIT-1230.md).
+- **[QUESTION-135](../questions.d/QUESTION-135.md)** asks when spectral differentiation among features
   matches coexistence. In random QP, the variance σ_c of the constraint
   vectors sets how many survive. More differentiated constraints
   coexist more, a large-system instance of the question's suggestion,
-  with the supply K and the costs m entering through κ, as CASE-118
+  with the supply K and the costs m entering through κ, as [CASE-118](../cases.d/CASE-118.md)
   found for two components.
 - No instruction for machine-learning practice; nothing for the
   anthology.

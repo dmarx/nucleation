@@ -109,7 +109,7 @@ measure (uniform) and the event (function ≥ E_x) by hand.
 
 ## Bearing on the record
 
-- **CASE-102**, the college program that keeps producing good teams.
+- **[CASE-102](../cases.d/CASE-102.md)**, the college program that keeps producing good teams.
   The LIT records A10's reading: "function-relative, and silent
   on whether successive teams are one individual." The reading confirms
   both. It adds a third point the case should note: the measure is taken
@@ -118,7 +118,7 @@ measure (uniform) and the event (function ≥ E_x) by hand.
   is among all rosters, but not why one program keeps drawing from the
   rare region. That is the mechanism the case asks about, and functional
   information leaves it untouched. A slow, member-read variable such as a
-  program's standing (CLAIM-327) is the kind of thing that would.
+  program's standing ([CLAIM-327](../claims.d/CLAIM-327.md)) is the kind of thing that would.
 - No instruction for machine-learning practice; nothing for the
   anthology.
 

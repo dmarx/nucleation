@@ -30,7 +30,7 @@ summary: >-
   simulated random networks, over 98% evolve to one leader whose
   uninfluenced preference settles every issue through intermediaries. A
   re-run reproduces this, and shows that the DeGroot–Friedkin version
-  of LIT-1146 does not concentrate power on the same networks.
+  of [LIT-1146](../literature.d/LIT-1146.md) does not concentrate power on the same networks.
 ---
 <!-- inactive-ok-file: TERM-075 THEORY-916 THEORY-tmpbnint — Proposed; the term and the accounts this reading bears on or produced, cited as open -->
 
@@ -79,7 +79,7 @@ Note on (2) and (9) together: since W already holds I − A on its
 diagonal, AW gives the self-weight a second role, so a member's own
 initial position enters both through the anchorage and through their own
 diagonal weight. This is the specification the paper states; it is not
-the DeGroot step that LIT-1146 analyses.
+the DeGroot step that [LIT-1146](../literature.d/LIT-1146.md) analyses.
 
 ## Key results
 
@@ -138,7 +138,7 @@ observed movement, so that the experiment can be scored.
 ## Connections
 
 The DeGroot–Friedkin model of Jia, MirTabatabaei, Friedkin and Bullo
-(LIT-1146, NOTE-1135, THEORY-916) is the same reflected-appraisal rule on
+([LIT-1146](../literature.d/LIT-1146.md), [NOTE-1135](NOTE-1135.md), [THEORY-916](../theory.d/THEORY-916.md)) is the same reflected-appraisal rule on
 a different single-issue step: DeGroot averaging to consensus, so that
 control is the dominant left eigenvector of W, with no anchorage on
 initial positions. Its result is not this one. Under it, self-weights go
@@ -147,7 +147,7 @@ eigenvector centrality, autocratic exactly for a star. The re-run below
 puts the two side by side. The paper cites French (1956), Harary (1959)
 and DeGroot (1974) as the single-issue tradition, Michels and Mayhew and
 Levinger for oligarchy, and Cooley (*Human Nature and the Social Order*,
-LIT-1379), Mead and Gecas and Schwalbe for reflected appraisal.
+[LIT-1379](../literature.d/LIT-1379.md)), Mead and Gecas and Schwalbe for reflected appraisal.
 
 ## Bearing on the record
 
@@ -163,26 +163,26 @@ LIT-1379), Mead and Gecas and Schwalbe for reflected appraisal.
   self-weight of 0.29 and 0.13, and never above 0.40, where this
   paper's update gave 1.0. **The concentration depends on the
   single-issue model.** With Friedkin–Johnsen anchorage, as here, power
-  concentrates almost always; with DeGroot consensus, as in LIT-1146, it
-  does not. Filed as THEORY-tmpbnint (Proposed).
-- **CASE-092's note of 2026-10-23** says, from the abstract, that
+  concentrates almost always; with DeGroot consensus, as in [LIT-1146](../literature.d/LIT-1146.md), it
+  does not. Filed as [THEORY-tmpbnint](../theory.d/THEORY-tmpbnint.md) (Proposed).
+- **[CASE-092](../cases.d/CASE-092.md)'s note of 2026-10-23** says, from the abstract, that
   reflected appraisal "generates transitions of the influence network
-  toward concentrated power" and treats LIT-1404 and LIT-1146 as one
+  toward concentrated power" and treats [LIT-1404](../literature.d/LIT-1404.md) and [LIT-1146](../literature.d/LIT-1146.md) as one
   baseline. The reading says they are two baselines with different
   predictions, and that a coupled meaning–influence model compared with
   "DeGroot–Friedkin" should say which single-issue step it is compared
   with. A proposed dated note is in the coordinator's report.
-- **THEORY-916** states the DeGroot–Friedkin result. This paper is not a
+- **[THEORY-916](../theory.d/THEORY-916.md)** states the DeGroot–Friedkin result. This paper is not a
   counter-example to it, since its model differs, but a reader of
-  THEORY-916 should know that the same rule gives autocracy under the
+  [THEORY-916](../theory.d/THEORY-916.md) should know that the same rule gives autocracy under the
   Friedkin–Johnsen step.
-- **TERM-075 (attributed self).** Friedkin's formalization is of the
+- **[TERM-075](../terms.d/TERM-075.md) (attributed self).** Friedkin's formalization is of the
   sense in which a person takes up what others take them to be: the
   self-weight is set by "appraisals of others" of one's control,
   "assumed accurate". It formalizes the held and appropriated senses
   only when the imagined and held appraisals agree, and the paper
   assumes they do.
-- **CLAIM-297** (an operator's authority updated by how well it performs
+- **[CLAIM-297](../claims.d/CLAIM-297.md)** (an operator's authority updated by how well it performs
   on the interpretation) has the same shape: authority on the next round
   set by success on the last. This paper is a worked case in which that
   update concentrates authority.

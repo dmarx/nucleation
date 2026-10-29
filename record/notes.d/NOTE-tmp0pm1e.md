@@ -120,13 +120,13 @@ It builds on Flack & Krakauer (2006) on encoding power in signalling
 networks, Flack, de Waal & Krakauer (2005) on policing cost, and Flack et
 al. (2006) on the policing knockout, none of which the record holds. The
 slow-variable notion is Flack & Krakauer (2011, *Chaos*). The record's
-nearly decomposable systems (LIT-905) give a structural reason for slow
+nearly decomposable systems ([LIT-905](../literature.d/LIT-905.md)) give a structural reason for slow
 aggregates; this paper gives an informational one: slowness is useful to
 the members, not only a consequence of weak coupling.
 
 ## Bearing on the record
 
-- **CLAIM-327** takes its member-accessible slow variable from this
+- **[CLAIM-327](../claims.d/CLAIM-327.md)** takes its member-accessible slow variable from this
   paper, as A9 read it: "The animals themselves appear to use information
   encoded in these more stable relationships". The paper's own words
   match A9's "appear": that the animals read and condition on the
@@ -136,7 +136,7 @@ the members, not only a consequence of weak coupling.
   (member accessibility) is asserted, not shown. Stage 3 (regeneration)
   is the paper's §4 argument that fighting lowers after signals and so
   consolidates the relation; no measurement supports it here.
-- **CLAIM-331** (slowness a mark, not a definition, of a level). The
+- **[CLAIM-331](../claims.d/CLAIM-331.md)** (slowness a mark, not a definition, of a level). The
   paper supports the mark and adds a condition the claim does not state:
   a slow variable founds a level only when the components can detect and
   use it (§5a). It also states the converse limit, that a slow variable

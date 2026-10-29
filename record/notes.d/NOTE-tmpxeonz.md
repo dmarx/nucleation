@@ -137,14 +137,14 @@ transition is of the same kind as theirs. Rieger (ref. 5) treated the
 Lotka–Volterra case under assumptions that hide the MA phase. The
 companion arXiv paper (Bunin 2016, 1607.04734) uses the same model for
 the structure of assembled interaction networks. Blumenthal, Rocks and
-Mehta (LIT-1236) apply the same cavity stability test to a
+Mehta ([LIT-1236](../literature.d/LIT-1236.md)) apply the same cavity stability test to a
 consumer–resource model with non-reciprocal interactions and identify
-its transition with this paper's MA transition. CLAIM-369 is the
+its transition with this paper's MA transition. [CLAIM-369](../claims.d/CLAIM-369.md) is the
 symmetric case of a related model, where dynamics are gradient flow.
 
 ## Bearing on the record
 
-- **QUESTION-083.** The LIT files this as the phase in which outcomes
+- **[QUESTION-083](../questions.d/QUESTION-083.md).** The LIT files this as the phase in which outcomes
   depend on history. The reading supports that, with a qualification:
   what is derived is where the unique outcome ends; that the alternative
   outcomes then depend on order of arrival is shown by simulation only,
@@ -152,14 +152,14 @@ symmetric case of a related model, where dynamics are gradient flow.
   whatever gained influence early" (the synthesis's reading) is a
   reading of the MA phase that the paper does not test: it does not
   study which of several attractors early arrivals select.
-- **CLAIM-369.** For γ = 1 (symmetric interactions) this model has
+- **[CLAIM-369](../claims.d/CLAIM-369.md).** For γ = 1 (symmetric interactions) this model has
   MacArthur's Lyapunov function V = Σ K_i N_i − ½ Σ α_ij N_i N_j (a
   standard fact for positive r_i/K_i, checked here, not stated in the
   paper), and the MA phase
   still exists (σ_c = 1/√2). So
   symmetry and an optimization principle do not by themselves give a
   unique outcome; multiplicity of minima does the work. This is
-  consistent with CLAIM-369, which concerns the A = UᵀU case, positive
+  consistent with [CLAIM-369](../claims.d/CLAIM-369.md), which concerns the A = UᵀU case, positive
   semidefinite and so convex.
 
 No instruction for machine-learning practice.

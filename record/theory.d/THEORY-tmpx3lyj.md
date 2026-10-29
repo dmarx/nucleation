@@ -21,13 +21,13 @@ date: '2026-10-29'
 source:
 - LIT-1137
 summary: >-
-  Krakauer, Bertschinger, Olbrich, Flack and Ay (2020), LIT-1137, read in
-  NOTE-tmpypk9d. Mutual information cannot fall when either argument is
+  Krakauer, Bertschinger, Olbrich, Flack and Ay (2020), [LIT-1137](../literature.d/LIT-1137.md), read in
+  [NOTE-tmpypk9d](../notes.d/NOTE-tmpypk9d.md). Mutual information cannot fall when either argument is
   enlarged, and A′ ≥ A follows by the chain rule with the remaining
   environment as condition. It is a fact about the measures, not about
   any system. It does not say how to price size, and nC, the third
   measure, can move either way. It is the formal content of A11's
-  remark recorded in QUESTION-115.
+  remark recorded in [QUESTION-115](../questions.d/QUESTION-115.md).
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; named as an untested candidate for the size cost, nothing here rests on it -->
 
@@ -36,8 +36,8 @@ summary: >-
 ## Source
 
 Krakauer, D., Bertschinger, N., Olbrich, E., Flack, J. C. & Ay, N. (2020),
-LIT-1137, §"Individuality measures in an illustrative example", read in
-NOTE-tmpypk9d. The 2014 preprint states the monotonicity too but offers a
+[LIT-1137](../literature.d/LIT-1137.md), §"Individuality measures in an illustrative example", read in
+[NOTE-tmpypk9d](../notes.d/NOTE-tmpypk9d.md). The 2014 preprint states the monotonicity too but offers a
 stopping rule instead of a size cost.
 
 ## What was actually shown
@@ -74,12 +74,12 @@ the variables moved out of the condition enter the arguments.
 
 - It does not say the measures are useless. Compared across candidates of
   equal size, or normalized (Bourrat's C1 divides by an entropy,
-  NOTE-027), they can still rank.
+  [NOTE-027](../notes.d/NOTE-027.md)), they can still rank.
 - It does not supply the size cost, or say what form it should take. The
-  record's priced individuation (CLAIM-154, CLAIM-157) is one candidate,
+  record's priced individuation ([CLAIM-154](../claims.d/CLAIM-154.md), [CLAIM-157](../claims.d/CLAIM-157.md)) is one candidate,
   untested against these measures.
 - It does not say nC finds boundaries. nC can fall as the candidate grows,
   but it also reaches zero for the whole world, so minimizing it has the
   same end point.
 - It says nothing about whether the measures track propagation rather
-  than association; that is THEORY-424.
+  than association; that is [THEORY-424](THEORY-424.md).

@@ -128,8 +128,8 @@ these is registered here.
 
 ## Bearing on the record
 
-- **CLAIM-282.** EBSL's fixed point is a damped recursive delegation with
-  self-rating forbidden (A_xx = U), the design CLAIM-282 is about, in an
+- **[CLAIM-282](../claims.d/CLAIM-282.md).** EBSL's fixed point is a damped recursive delegation with
+  self-rating forbidden (A_xx = U), the design [CLAIM-282](../claims.d/CLAIM-282.md) is about, in an
   evidence algebra. The paper's loop case shows the claim's point: R_12,
   user 1's trust in user 2, depends on user 3's opinion of 2 weighted by
   1's trust in 3, which depends on R_12 itself, and a near-certain A_32
@@ -137,9 +137,9 @@ these is registered here.
   ceiling: no user's evidence about j can exceed the evidence about j
   that others hold directly, so recycling cannot create evidence, only
   re-weight it. It does not make i's standing independent of i's own
-  opinions, which CLAIM-282 says only one-hop allocation does. Proposed
+  opinions, which [CLAIM-282](../claims.d/CLAIM-282.md) says only one-hop allocation does. Proposed
   dated note below.
-- **CLAIM-281.** SL and EBSL already index trust by role in two values,
+- **[CLAIM-281](../claims.d/CLAIM-281.md).** SL and EBSL already index trust by role in two values,
   referral and functional, and per proposition; F_iP is computed per P.
   That is a working predecessor of role-indexed endorsement with two
   roles. A15's caution holds: the algebra transports evidence, it does

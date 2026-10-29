@@ -120,20 +120,20 @@ technology".
 ## Connections
 
 Land gives the term as "the experimental (techno-)science of
-self-fulfilling prophecies", so Merton's paper (LIT-1398, Unavailable)
+self-fulfilling prophecies", so Merton's paper ([LIT-1398](../literature.d/LIT-1398.md), Unavailable)
 is its acknowledged ancestor in substance, though the interview never
-names Merton. Soros's reflexivity (LIT-1397, NOTE-tmp8x2ha) states the
+names Merton. Soros's reflexivity ([LIT-1397](../literature.d/LIT-1397.md), [NOTE-tmp8x2ha](NOTE-tmp8x2ha.md)) states the
 same loop as a two-way feedback between "the participants' views and the
 actual course of events", with its negative direction given equal place,
 and as a limit on social science rather than a programme. MacKenzie's
-performativity (LIT-1395, Unavailable) is the empirical treatment for
+performativity ([LIT-1395](../literature.d/LIT-1395.md), Unavailable) is the empirical treatment for
 markets. Land's "confidence acts as an effective tonic, and inversely"
 is the one place the interview admits a loop that can run against the
 idea.
 
 ## Bearing on the record
 
-- **LIT-1396's own body says the wrong thing about Merton.** It says
+- **[LIT-1396](../literature.d/LIT-1396.md)'s own body says the wrong thing about Merton.** It says
   Merton's prophecy "begins as a false definition of a present
   situation", whereas a hyperstition "is typically a fiction or a
   forecast, never false in that sense, only not yet true". The interview
@@ -143,14 +143,14 @@ idea.
   should be withdrawn or kept as the record's, not Land's. The second
   difference the LIT draws, that the mechanism is circulation, the
   interview supports: "by their very existence as ideas".
-- **CLAIM-426** cites Land's definition, and the definition is as
+- **[CLAIM-426](../claims.d/CLAIM-426.md)** cites Land's definition, and the definition is as
   quoted. The interview gives no condition under which the loop runs, so
   it supports the claim's premise, that some judgements' circulation
   helps make them true, but gives nothing for telling such judgements
-  apart from others. That is the part of CLAIM-426 that bears weight.
-- **CLAIM-425's rule** (authority from grounds, not visibility) and the
+  apart from others. That is the part of [CLAIM-426](../claims.d/CLAIM-426.md) that bears weight.
+- **[CLAIM-425](../claims.d/CLAIM-425.md)'s rule** (authority from grounds, not visibility) and the
   "inversely" of R3 together say a judgement's visibility can make what
-  it says less likely too, which CLAIM-426's title allows for only as
+  it says less likely too, which [CLAIM-426](../claims.d/CLAIM-426.md)'s title allows for only as
   "what it will bring about".
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -170,4 +170,4 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 - Under what conditions does an idea's circulation make it more likely,
   and under what conditions less? Land leaves this open, and it is what
-  CLAIM-426 would need.
+  [CLAIM-426](../claims.d/CLAIM-426.md) would need.

@@ -101,12 +101,12 @@ It combines voter-type opinion dynamics on static networks (Sood and
 Redner, Castellano et al., Sznajd) with homophilous network formation
 (McPherson et al., Newman's assortative mixing). Castellano, Marsili and
 Vespignani's Axelrod-model transition is cited as a different mechanism.
-Gross and Blasius's review (LIT-1139) summarizes the paper, with φ
+Gross and Blasius's review ([LIT-1139](../literature.d/LIT-1139.md)) summarizes the paper, with φ
 inverted (see that NOTE).
 
 ## Bearing on the record
 
-- **QUESTION-117.** A15 named it as a baseline for the coupled
+- **[QUESTION-117](../questions.d/QUESTION-117.md).** A15 named it as a baseline for the coupled
   meaning–influence model. The reading says what kind of baseline. It has
   no influence weights, no authority, no evidence and no turnover:
   opinions are labels, every tie is equal, and the dynamics is absorbing,
@@ -115,8 +115,8 @@ inverted (see that NOTE).
   like-minded camps against one dominant camp, controlled by the ratio of
   selecting one's contacts to being influenced by them, with a critical
   point between. What it cannot express is any outcome that depends on
-  who has authority over whom, which is the circuit QUESTION-117 asks
-  about (CLAIM-297, CASE-092). An answer to the question that rests on
+  who has authority over whom, which is the circuit [QUESTION-117](../questions.d/QUESTION-117.md) asks
+  about ([CLAIM-297](../claims.d/CLAIM-297.md), [CASE-092](../cases.d/CASE-092.md)). An answer to the question that rests on
   fragmentation alone would be matched by this model. Proposed dated
   note below.
 

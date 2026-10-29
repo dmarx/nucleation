@@ -115,9 +115,9 @@ however small, is always there.
 Independent mean-field work of the same year (Mei, Montanari and Nguyen;
 Rotskoff and Vanden-Eijnden; Sirignano and Spiliopoulos) studies the
 same limit for quadratic loss with quantitative SGD rates; none is
-registered here. The anthology holds this work as ANTH-LIT-298.
+registered here. The anthology holds this work as [ANTH-LIT-298](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-298.md).
 Proposition 3.1 is the measure-valued form of the KKT structure in
-LIT-1231 and LIT-1230, with the first variation in the role of
+[LIT-1231](../literature.d/LIT-1231.md) and [LIT-1230](../literature.d/LIT-1230.md), with the first variation in the role of
 negative invasion fitness.
 
 ## Bearing on the record
@@ -132,14 +132,14 @@ negative invasion fitness.
   flow transports mass and never creates it, so the condition can be
   enforced only if every direction is kept occupied. That is what the
   separating initialization does.
-- **CLAIM-369** is the finite, symmetric case the LIT names, and the
+- **[CLAIM-369](../claims.d/CLAIM-369.md)** is the finite, symmetric case the LIT names, and the
   correspondence is exact. Its invasion fitness of an absent component,
   −∂_i L, is −F′(µ)(u_i) restricted to a finite dictionary, and its KKT
   points are Proposition 3.1's minimizers on a fixed support. What this
   paper adds is that, with positions free, the "absent components" form
   a continuum, and a population can reach the global optimum only if a
   seed of every possible component is present from the start.
-- **QUESTION-132** asks when initially equivalent operators differentiate
+- **[QUESTION-132](../questions.d/QUESTION-132.md)** asks when initially equivalent operators differentiate
   into specialists that each recover when rare. In this model the answer
   has a hard precondition: recovery from rarity is available only where
   some mass already sits. Units that start identical (a single point, not
@@ -147,12 +147,12 @@ negative invasion fitness.
   paper's experiments show the cost: initialized on {1} × Θ, the flow fails
   with 15 particles and succeeds with 30, where an initialization on
   {0} × Θ succeeds with more than 7 (D.5).
-- **QUESTION-135**: the paper supplies no spectral condition. Its
+- **[QUESTION-135](../questions.d/QUESTION-135.md)**: the paper supplies no spectral condition. Its
   coexistence notion is first-order (the sign of F′), not the
-  growth-rate comparison CASE-118 uses.
+  growth-rate comparison [CASE-118](../cases.d/CASE-118.md) uses.
 - The one instruction for practice it carries, initialize units at
   near-zero weight spread over parameter space, belongs to the anthology,
-  which holds the work as ANTH-LIT-298.
+  which holds the work as [ANTH-LIT-298](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-298.md).
 
 ## Limitations
 

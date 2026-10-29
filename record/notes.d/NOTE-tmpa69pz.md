@@ -129,16 +129,16 @@ differentiable) and P_i the mean router probability for i
 
 ## Connections
 
-It simplifies Shazeer et al.'s sparsely-gated MoE (LIT-1507), which had
+It simplifies Shazeer et al.'s sparsely-gated MoE ([LIT-1507](../literature.d/LIT-1507.md)), which had
 conjectured that k > 1 was needed for router gradients, and follows
 GShard's simplified auxiliary loss and overflow handling. Wang et al.
-(LIT-1414) replace its auxiliary loss with a bias controller and use its
-loss as their baseline; Li et al. (LIT-1411) borrow the loss's form for a
+([LIT-1414](../literature.d/LIT-1414.md)) replace its auxiliary loss with a bias controller and use its
+loss as their baseline; Li et al. ([LIT-1411](../literature.d/LIT-1411.md)) borrow the loss's form for a
 gating network in continual learning.
 
 ## Bearing on the record
 
-- **CASE-117.** The LIT says the exchange cited it as "the standard case
+- **[CASE-117](../cases.d/CASE-117.md).** The LIT says the exchange cited it as "the standard case
   of routing among experts with an explicit load-balancing term, the
   imposed alternative to diversity that emerges". The reading confirms
   that the term is in the paper (eq. 4), with a sharper description: the
@@ -148,7 +148,7 @@ gating network in continual learning.
   of imposed balance of load, and evidence about emergent diversity only
   in the negative sense that it was not studied. Appendix C's finding
   that sampling the router is worse than argmax, and jitter slightly
-  better, bears on CASE-117's exploration regimes. Appendix B's result,
+  better, bears on [CASE-117](../cases.d/CASE-117.md)'s exploration regimes. Appendix B's result,
   that rerouting overflow tokens to a second-choice expert did not help
   and that "if this association is changed ... performance could be
   degraded", is a small datum for the case's question of practical

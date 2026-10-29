@@ -36,7 +36,7 @@ summary: >-
 
 ## Contribution
 
-CE 2.0 (LIT-1136) credited causal contribution along one chosen path of
+CE 2.0 ([LIT-1136](../literature.d/LIT-1136.md)) credited causal contribution along one chosen path of
 coarse-grainings. This paper removes the choice: every partition of the
 state space is scored against every finer partition, so a scale counts
 only if it beats all scales below it on any path. The surviving
@@ -126,19 +126,19 @@ The authors say it runs in subexponential time; no bound is given.
 
 ## Connections
 
-It extends CE 2.0 (LIT-1136) and through it Hoel, Albantakis and Tononi
-2013 (LIT-1038). It cites Zhang et al.'s dynamical reversibility
-(LIT-1129) as an alternative to CE 1.0 that "will likely need to be
-expanded", Mediano et al.'s information-decomposition review (LIT-025),
-Rosas et al.'s "software in the natural world" (LIT-1306) and Barnett and
-Seth's dynamical independence (THEORY-257) as other approaches to
+It extends CE 2.0 ([LIT-1136](../literature.d/LIT-1136.md)) and through it Hoel, Albantakis and Tononi
+2013 ([LIT-1038](../literature.d/LIT-1038.md)). It cites Zhang et al.'s dynamical reversibility
+([LIT-1129](../literature.d/LIT-1129.md)) as an alternative to CE 1.0 that "will likely need to be
+expanded", Mediano et al.'s information-decomposition review ([LIT-025](../literature.d/LIT-025.md)),
+Rosas et al.'s "software in the natural world" ([LIT-1306](../literature.d/LIT-1306.md)) and Barnett and
+Seth's dynamical independence ([THEORY-257](../theory.d/THEORY-257.md)) as other approaches to
 macroscales, and Jansma's Möbius-inversion mereology and Forré and
 Jansma's Shapley values as possible apportioning schemes that would
 conserve total CP (neither registered).
 
 ## Bearing on the record
 
-- **QUESTION-115.** This is the candidate the record filed for A10's
+- **[QUESTION-115](../questions.d/QUESTION-115.md).** This is the candidate the record filed for A10's
   "2024/2025" paper "on searching for coarse-grainings rather than
   assuming them". It does search: every partition is scored, and the
   output is a set of scales rather than one. Read against the question,

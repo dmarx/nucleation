@@ -104,7 +104,7 @@ a colony that persists only through interaction with its surroundings.
 |---|---|---|---|
 | C1 | A* + nC = A + I(S_{n+1}; E_n) | strong | chain rule, checked |
 | C2 | Informational closure implies sufficiency of the present state | strong | appendix, checked |
-| C3 | A* and A are non-decreasing in the system's extent | strong | expansions, checked (THEORY-tmpx3lyj) |
+| C3 | A* and A are non-decreasing in the system's extent | strong | expansions, checked ([THEORY-tmpx3lyj](../theory.d/THEORY-tmpx3lyj.md)) |
 | C4 | Boundaries need a size cost the measures do not contain | strong | follows from C3; stated in 2020 |
 | C5 | A*, A and nC are three distinct forms of individuality | weak | interpretation; one two-unit example |
 | C6 | Maximizing A* identifies "complex organisms in their environments" | weak | asserted; at odds with C3 unless the candidates have fixed size |
@@ -138,30 +138,30 @@ lists authors Krakauer, Bertschinger, Olbrich, Ay, Flack. The 2020 article
 reorders authors (Flack before Ay), renames the readings, adds the PID
 terms, the two-unit example, the size-cost sentence, and links to the
 free-energy principle and to Biehl et al.'s agent detection. Both cite
-Flack's slow-variable work (LIT-1122) for coarse-graining as the route to
-new levels. Bourrat's critique (LIT-005, NOTE-027) is of the 2020 measures.
-Kolchinsky and Wolpert (LIT-1149) cite the 2014 preprint.
+Flack's slow-variable work ([LIT-1122](../literature.d/LIT-1122.md)) for coarse-graining as the route to
+new levels. Bourrat's critique ([LIT-005](../literature.d/LIT-005.md), [NOTE-027](NOTE-027.md)) is of the 2020 measures.
+Kolchinsky and Wolpert ([LIT-1149](../literature.d/LIT-1149.md)) cite the 2014 preprint.
 
 ## Bearing on the record
 
-- **QUESTION-115.** The LIT asked a reading to check A11's claim that A*
+- **[QUESTION-115](../questions.d/QUESTION-115.md).** The LIT asked a reading to check A11's claim that A*
   and A do not decrease as the candidate is enlarged, and the size cost
   the paper says is needed. Both are confirmed, in the 2020 version only:
   the 2014 preprint makes the monotonicity claim but offers a stopping
-  rule instead of a size cost. The check is filed as THEORY-tmpx3lyj.
+  rule instead of a size cost. The check is filed as [THEORY-tmpx3lyj](../theory.d/THEORY-tmpx3lyj.md).
   The question's summary, which reports A11's reading, can be marked as
   read and confirmed. Proposed dated note below.
-- **CASE-101.** The case's arm A (common input) is where A* fails, as
-  Bourrat argued and THEORY-424 holds. The reading adds that A, which
+- **[CASE-101](../cases.d/CASE-101.md).** The case's arm A (common input) is where A* fails, as
+  Bourrat argued and [THEORY-424](../theory.d/THEORY-424.md) holds. The reading adds that A, which
   conditions on the environment, scores the common-input arm near zero
   only if the common input is in E; the case should state which variables
   it puts in E for each arm, since all three measures are relative to
   that split.
-- **LIT-005, NOTE-027.** Bourrat's A* and A are the 2020 article's. His
+- **[LIT-005](../literature.d/LIT-005.md), [NOTE-027](NOTE-027.md).** Bourrat's A* and A are the 2020 article's. His
   objection to nC as a measure of individuality is the article's own
   gloss: nC "quantifies the degree of environmental determinism", and the
   article does not offer it as individuality except by its heading.
-- **THEORY-424.** Consistent: the measures are observational mutual
+- **[THEORY-424](../theory.d/THEORY-424.md).** Consistent: the measures are observational mutual
   informations, and the article nowhere intervenes.
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -187,7 +187,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 ## Open questions
 
-- With a size cost, what boundary do A*, A and nC pick in CASE-101's three
+- With a size cost, what boundary do A*, A and nC pick in [CASE-101](../cases.d/CASE-101.md)'s three
   arms, and do they disagree as A12 expected?
 - Which PID makes the 2020 decomposition non-negative and well defined
   for these processes, and do the conclusions depend on it?
