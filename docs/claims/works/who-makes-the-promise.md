@@ -6,7 +6,7 @@
 
 **Who Makes the Promise When Governments Change?** — the owner's essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning Applications" (A33), later folded into organization-of-perspective: the state as a changing ecology of political authority. Legal continuity makes an international commitment the state's, but its durability depends on processes on different timescales that reproduce, contest and transform the authority through which it is enacted; the Paris Agreement as the case.
 
-1 of 494 CLAIM documents. Back to the [full index](../README.md).
+1 of 496 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,7 +6,7 @@
 
 **Altruism and self-interest** — whether and how action can aim at another's good rather than one's own — psychological egoism and its rivals, the empathy–altruism debate and self–other merging, inclusion of others in the self and identity fusion, team reasoning and group-directed preferences, identity in the utility function, the evolution of unselfish behaviour (kin, reciprocal and group selection), and the extent of the self as it bears on what counts as self-interest (ADR-062).
 
-0 of 184 CASE documents. Back to the [full index](../README.md).
+0 of 185 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
