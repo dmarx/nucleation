@@ -132,21 +132,21 @@ groups together.
 
 ## Connections
 
-It takes Pettigrew and Tropp's 2006 meta-analysis (LIT-1413) from
+It takes Pettigrew and Tropp's 2006 meta-analysis ([LIT-1413](../literature.d/LIT-1413.md)) from
 mostly correlational contact to field programmes and borrows its
 categories of generalization. It cites the 2008 mediator meta-analysis
-(LIT-1405) for anxiety and empathy and says the intervention literature
-is too thin to test mediators. Paluck, Green and Green (LIT-1420,
-NOTE-1393) draw studies from it and are stricter: randomized designs
+([LIT-1405](../literature.d/LIT-1405.md)) for anxiety and empathy and says the intervention literature
+is too thin to test mediators. Paluck, Green and Green ([LIT-1420](../literature.d/LIT-1420.md),
+[NOTE-1393](NOTE-1393.md)) draw studies from it and are stricter: randomized designs
 only, outcomes at least a day later. Its extended-contact arm rests on
 Wright et al. 1997, the triage's fallback if this paper had not
-separated the arms. Scacco and Warren (LIT-tmpi9wm8) is the kind of
+separated the arms. Scacco and Warren ([LIT-tmpi9wm8](../literature.d/LIT-tmpi9wm8.md)) is the kind of
 behavioural study it found none of: cooperative learning with no peace
 content, measured by games.
 
 ## Bearing on the record
 
-- **CLAIM-430, second defeater.** The triage expected this paper to
+- **[CLAIM-430](../claims.d/CLAIM-430.md), second defeater.** The triage expected this paper to
   supply the nearest test and to correct the claim's note that the
   defeater "has no test in the randomized contact literature". It
   supplies something nearer than the note allowed, and weaker than a
@@ -171,15 +171,15 @@ content, measured by games.
   The note's "no test" should become: no within-study test; between
   studies, observed friendships do about as well as taking part, on
   immediate self-reports.
-- **QUESTION-262.** On the measurement demand, it is no help: "Due to a
+- **[QUESTION-262](../questions.d/QUESTION-262.md).** On the measurement demand, it is no help: "Due to a
   lack of appropriate research", no behavioural outcome could be
   included, and the authors' sixth direction for research is behaviour.
   On "local against general", its outcomes reach the whole target
   outgroup and unspecified ethnic outgroups, but no comparison measured
   a specific outgroup not involved, so the question's generalization to
   other members of the category is supported and generalization beyond
-  it is untested, as NOTE-1393 found for its sample.
-- **CLAIM-275.** Nothing: no included study orders conduct and
+  it is untested, as [NOTE-1393](NOTE-1393.md) found for its sample.
+- **[CLAIM-275](../claims.d/CLAIM-275.md).** Nothing: no included study orders conduct and
   interpretation.
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -218,5 +218,5 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 - Does extended contact's advantage survive a within-study comparison
   with cooperative contact on matched content, on behaviour, after a
-  delay? That is the test CLAIM-430's defeater asks for.
+  delay? That is the test [CLAIM-430](../claims.d/CLAIM-430.md)'s defeater asks for.
 - Is the virtual null about the medium or about the studies (k = 8)?
