@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpg0hhr
 title: 'self, and which sense'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-11'
@@ -34,6 +34,15 @@ history:
     Note of 2026-10-22 added: TERM-075 (Proposed) separates the
     selves others attribute to a person from the seven senses here, all
     of which the person holds or gives. The definition is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    The note of 2026-10-22's "enter the person's own self-model only
+    when appropriated" used self-model in the narrow sense, where
+    CLAIM-415's includes the person's model of how they are seen;
+    reworded with TERM-075's version 2 (twelfth status review,
+    ADR-057), and TERM-075 is no longer marked Proposed there, since
+    it was adopted the same day. The definition is unchanged.
 tags:
 - self
 date: '2026-10-11'
@@ -170,8 +179,9 @@ All seven senses here are held or given by the person; sense 7, the
 presented self, is the self a person gives to others. [CLAIM-415](../claims.d/CLAIM-415.md) needed
 the other direction: what others take a person to be, what the person
 takes them to take them to be, and who the person takes "them" to be.
-Those are filed apart, as [TERM-075](TERM-075.md) (Proposed), and not as an eighth
-sense here, because they are not selves the person has. They enter the
-person's own self-model only when appropriated ([TERM-075](TERM-075.md), sense 4),
-and can then shape sense 4, the narrative self, and sense 7, the
-presented self.
+Those are filed apart, as [TERM-075](TERM-075.md), and not as an eighth
+sense here, because they are not selves the person has. They become part of
+the self the person takes themselves to be only when appropriated
+([TERM-075](TERM-075.md), sense 4), and can then become content of sense 4, the
+narrative self, and sense 7, the presented self; unappropriated, they can
+still shape what the person does (CASE-142).

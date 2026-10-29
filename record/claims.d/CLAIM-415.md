@@ -43,6 +43,8 @@ line:
 - distributed-agency
 complements:
 - CLAIM-355
+uses:
+- TERM-075
 grounds:
 - LIT-939
 - LIT-1370

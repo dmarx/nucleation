@@ -1,10 +1,29 @@
 ---
 number: 75
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpo92fy
 title: 'attributed self, and which sense: held, imagined, imagined audience or appropriated'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Adopted at the twelfth status review (ADR-057), on the owner's
+    ruling in the pull request, after two corrections. The definition
+    said an attributed self "is a characterization of a person that
+    originates with others", which senses 2 and 3, the person's own
+    models, are not; it now adds "or the person's model of such a
+    characterization and of who holds it". Sense 4 said "Only in this
+    sense can an attributed self shape TERM-045's narrative and
+    presented selves", against the term's own "2 and 3 shaping conduct
+    without 4" and CASE-142; it now says only sense 4 becomes their
+    content. Sense 4's "part of their own self-model" is now "how they
+    characterize themselves", since CLAIM-415's self-model includes
+    senses 2 and 3. The senses are unchanged. CASE-141 and CASE-142
+    each need two senses apart, so the term is not idle. Whether an
+    audience known to be imaginary, such as posterity, is sense 3 or a
+    fifth stays open in the body.
 tags:
 - self
 - social-science
@@ -21,7 +40,7 @@ summary: >-
   apart, and the claim depends on their doing so. Filed 2026-10-22 at the
   owner's request, gathering two phrases from the exchange of that day
   ("socially operative identity" and "recursive social self-modeling")
-  that were first left unfiled. Adoption is the owner's decision.
+  that were first left unfiled. Adopted 2026-10-29.
 used_by:
 - CLAIM-425
 - CLAIM-426
@@ -34,7 +53,7 @@ used_by:
 ## Definition
 
 An attributed self is a characterization of a person that originates with
-others. A claim using it should say which of these it means.
+others, or the person's model of such a characterization and of who holds it. A claim using it should say which of these it means.
 
 1. **Held attribution.** What others actually take the person to be, and
    act on. A39 called it "socially operative identity", which "can
@@ -52,12 +71,18 @@ others. A claim using it should say which of these it means.
    view. It can diverge from the actual holders of sense 1 in number, in
    unity and in standing. This is [CLAIM-415](../claims.d/CLAIM-415.md)'s false unity, and
    [CASE-140](../cases.d/CASE-140.md) varies it alone.
-4. **Appropriated attribution.** The attribution taken up by the person as
-   part of their own self-model, whether endorsed or flaunted. The couplet
+4. **Appropriated attribution.** The attribution taken up by the person into
+   how they characterize themselves, whether endorsed or flaunted. Senses 2
+   and 3 are already the person's models, of how they are seen and by whom,
+   and are what CLAIM-415 calls the audience in a self-model; sense 4 is an
+   attribution that has become part of the self the person takes themselves
+   to be. The couplet
    of [LIT-1394](../literature.d/LIT-1394.md) shows it: after "I am whatever you say I am", "If I
    wasn't then why would I say I am" claims the label as the speaker's
-   own. Only in this sense can an attributed self shape [TERM-045](TERM-045.md)'s
-   narrative and presented selves (senses 4 and 7).
+   own. Only in this sense does an attributed self become content of
+   [TERM-045](TERM-045.md)'s narrative and presented selves (senses 4 and 7). Senses 2
+   and 3 can shape conduct, presentation included, without it: that is
+   "rejection does not free" (CASE-142).
 
 Senses 2 and 3 together are what A39 proposed to call "recursive social
 self-modeling": "The person is modeling themselves as an object of other
@@ -101,7 +126,7 @@ Each step of [CLAIM-415](../claims.d/CLAIM-415.md) and its cases runs between tw
 
 ## What would settle it
 
-Adoption is the owner's decision. The term would be shown idle, under
+Adopted on 2026-10-29. The term would be shown idle, under
 [CLAIM-278](../claims.d/CLAIM-278.md)'s objection to a vocabulary that describes everything and
 explains nothing, if no case needed two of its senses to come apart. It
 would be shown wanting if a case needed a fifth. The candidate is a
