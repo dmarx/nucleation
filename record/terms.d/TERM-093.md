@@ -71,3 +71,12 @@ when interaction changes the operative structure, and it needs the term to ask
 it. What would settle it: adoption if claims cite it to say which sense they
 mean; rejection if "gluing" and "compatibility" carry the distinction without
 it.
+
+## Note of 2026-10-29: what holds it back
+
+The "formed" sense is defined by what interconnection does to admissible
+joint behaviour. That is a constraint on states, which this term sets
+apart from a correspondence structure, and CLAIM-471 reads its example,
+Baez and Fong's port condition, as background rather than formed. Until
+the row says what forming a correspondence structure is, or QUESTION-282
+finds an instance, the three ways of holding it are not settled.
