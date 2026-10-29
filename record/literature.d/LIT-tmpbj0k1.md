@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Why Worry About Future Generations?'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Scheffler's sequel to Death and the Afterlife (LIT-tmpl4qml): reasons for future concern grounded in what the living value, the position closest to the owner's thesis among the ethics of the future. For QUESTION-tmpmx9ha.
+Scheffler's sequel to Death and the Afterlife ([LIT-tmpl4qml](LIT-tmpl4qml.md)): reasons for future concern grounded in what the living value, the position closest to the owner's thesis among the ethics of the future. For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).

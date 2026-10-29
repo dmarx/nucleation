@@ -81,7 +81,7 @@ Four bodies of work bear on it.
 ## The wider question
 
 What the living owe the future, as distinct from why they care about their
-own legacy, is QUESTION-tmpmx9ha: longtermism, person-affecting views, the
+own legacy, is [QUESTION-tmpmx9ha](QUESTION-tmpmx9ha.md): longtermism, person-affecting views, the
 non-identity problem and Scheffler's grounding of concern in what the
 living value.
 

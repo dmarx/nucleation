@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Future People, the Non-Identity Problem, and Person-Affecting Principles'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The problem any account of obligations to particular future people must meet, from the author of Reasons and Persons (LIT-469), whose Part IV first set it out. For QUESTION-tmpmx9ha.
+The problem any account of obligations to particular future people must meet, from the author of Reasons and Persons ([LIT-469](LIT-469.md)), whose Part IV first set it out. For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).
