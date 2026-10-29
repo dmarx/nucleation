@@ -15,7 +15,19 @@ promote_when: >-
   cases (the bacterium, the cliff) cannot settle it, since they were chosen
   to illustrate it.
 title: "Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that distinction is available to an observer, not to the system; a graded norm the system itself has, by which viable states are better or worse for it, needs adaptivity, a further capacity to detect tendencies toward the boundary of its viability and to act so as to reverse them, and sense-making and agency need adaptivity"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    What Di Paolo argues is split off as THEORY-tmpyxw6o, Active, by the
+    twelfth status review on THEORY-1110's pattern (ADR-057, ADR-058).
+    CLAIM-288 and CLAIM-339 cite the norm-for-the-system and the
+    adaptivity condition as he states them, not their truth, and now
+    ground on it; the last Connections bullet says so. This entry keeps
+    the question whether the account is right, with its rival THEORY-666
+    and its promote_when. A dated note says what holds it back. The title
+    is unchanged.
 tags:
 - philosophy-of-biology
 - agency
@@ -35,9 +47,6 @@ summary: >-
   pathology becomes failure of adaptivity while autopoiesis continues.
   There is no formal model, and the viability set is defined in one
   sentence. Proposed.
-supports:
-- CLAIM-288
-- CLAIM-339
 bears_on:
 - QUESTION-087
 ---
@@ -140,4 +149,13 @@ then be made explicit.
   self-production goes on. It gives no criterion for an authority
   structure, so it answers in part.
 - [CLAIM-288](../claims.d/CLAIM-288.md) grounds its demand that norms be set by the organisation itself
-  partly in this paper.
+  partly in this paper's argument, and CLAIM-339 cites it as the enactive
+  account of norms. Both cite it as stated, through THEORY-tmpyxw6o.
+
+## Note of 2026-10-29: what holds it back
+
+No worked case sets a merely self-producing system beside an adaptive one
+with the viability set and state space stated formally. The paper argues
+from the bacterium and the cliff, which the promote_when rules out, and
+its rival THEORY-666, that self-production suffices for sense-making, is
+open.

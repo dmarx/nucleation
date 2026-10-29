@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp4zg6p
 title: 'A maintained r/place artwork is a dissipative structure in Prigogine''s structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-13'
@@ -30,6 +30,16 @@ history:
     under continual overwriting" became an existence clause, so the first
     bullet below now cites that form, with the population question in
     QUESTION-169. The claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    THEORY-214 was narrowed and promoted by the twelfth status review
+    (ADR-057). Its "persist as an equilibrium of attack and repair" became
+    the measured precursors, so the second bullet below now cites that
+    form: overthrow follows attack outrunning restoration or low past
+    restoring, and persistence by a balance of the two is presupposed by
+    the measure, not shown. CLAIM-280, now Active, and THEORY-214 leave
+    the inactive-ok comment. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -72,7 +82,7 @@ summary: >-
   template, not from an instability (Adams et al.). No thermodynamic
   quantity is defined.
 ---
-<!-- inactive-ok-file: CLAIM-274 THEORY-214 THEORY-224 CLAIM-280 CLAIM-163 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-274 THEORY-224 CLAIM-163 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-913 — Unavailable; no copy could be obtained, cited as the precedent still to read and marked unread in the text -->
 
 # CLAIM-273: A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability
@@ -93,8 +103,10 @@ the outside ([NOTE-424](../notes.d/NOTE-424.md), C6). The r/place readings meet 
   were held by coalitions that kept placing under sustained overwriting
   ([THEORY-216](../theory.d/THEORY-216.md)). Whether lasting artworks typically persist that way is
   open ([QUESTION-169](../questions.d/QUESTION-169.md)).
-- Compositions persist as a balance of attack and repair, and are
-  overthrown when attack outruns defence or defence lapses ([THEORY-214](../theory.d/THEORY-214.md)).
+- Compositions are overthrown from stable periods when attack outruns
+  restoration or past restoring was low ([THEORY-214](../theory.d/THEORY-214.md)). That they
+  persist as a balance of the two is presupposed by the measure, not
+  shown, and some last through neglect.
 - The pattern is a property of the flow, not of the pixels, which turn
   over. That is [CLAIM-280](CLAIM-280.md)'s persistent product and persistent producer,
   and it is how a convection roll relates to its fluid.

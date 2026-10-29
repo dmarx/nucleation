@@ -21,7 +21,21 @@ promote_when: >-
   are independent; how "agent" is used in engineering; or cases chosen
   because they already fail.
 title: 'Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    What Kahl proposes is split off as THEORY-tmp9nzdb, Active, by the
+    twelfth status review on THEORY-1110's pattern (ADR-057, ADR-058).
+    CLAIM-485 uses the distinction as Kahl draws it, not its truth about
+    responsibility, and now grounds on the split. CLAIM-288's body cites
+    this account nowhere, and the Connections bullet below calls it
+    support "from a different direction", so that edge becomes
+    corroboration (ADR-058) and the Connections bullet says so. This
+    entry keeps the question whether the account is right, and its
+    promote_when. A dated note says what holds it back. The title is
+    unchanged.
 tags:
 - agency
 - self-governance
@@ -39,9 +53,6 @@ summary: >-
   necessary condition for attributive agency only, argued from cases and
   never measured; the line between settling a frame and selecting under an
   antecedent rule is not made precise.
-supports:
-- CLAIM-485
-- CLAIM-288
 bears_on:
 - QUESTION-092
 ---
@@ -131,7 +142,8 @@ whether the rule was designed.
   question's "stronger sense", located in revision of standards rather
   than in allocation of authority.
 - **[CLAIM-288](../claims.d/CLAIM-288.md) (fixed objectives cannot show self-constitution).**
-  Supported from a different direction. Kahl's argument is about
+  Corroborates it from a different direction; the claim does not
+  stand on it. Kahl's argument is about
   responsibility, not self-constitution, and cites no enactive work.
   It reaches the same verdict on systems whose objectives are fixed from
   outside, and on self-modification bounded by "an antecedent
@@ -166,3 +178,12 @@ At the owner's ruling on the fourth status review, this account bears on
 responsibility, and the question fixes [TERM-045](../terms.d/TERM-045.md)'s sense 5, self-governing.
 The bridge between the two is the record's own claim, filed the same day,
 which answers the question and is grounded in this account.
+
+## Note of 2026-10-29: what holds it back
+
+No positive case. The paper gives none, and the line every verdict turns
+on, between settling a revised frame and selecting among revisions an
+antecedent criterion already ranks, is not drawn precisely. The record
+holds no system shown to settle a revision not ranked in advance, together
+with an independent reason to hold it responsible. What Kahl proposes, as
+he states it, is held in THEORY-tmp9nzdb.

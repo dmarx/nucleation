@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpzn7l2
 title: 'In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller''s, not set by the organization itself'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -31,15 +31,27 @@ history:
     THEORY-1110's pattern: the claim uses the conditions as stated, not
     their truth. The body cites the split where it cites the proposal. The
     claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    THEORY-219 and THEORY-220 move from grounds to corroborated_by
+    (ADR-058): the body cites neither. THEORY-220's Connections call it
+    "a second route to the claim's premise", one the premise would
+    survive losing, and THEORY-219's call it support "from a different
+    direction". Grounds move from THEORY-628 to THEORY-tmpyxw6o, what
+    Di Paolo argues, split by the twelfth status review on THEORY-1110's
+    pattern: the claim cites him for norms that are norms for the system,
+    as he states it. The claim is unchanged.
 role: counter
 warrant: interpretive
 grounds:
 - THEORY-1119
 - LIT-1017
+- THEORY-221
+- THEORY-tmpyxw6o
+corroborated_by:
 - THEORY-219
 - THEORY-220
-- THEORY-221
-- THEORY-628
 tags:
 - self-governance
 - agency
@@ -65,7 +77,7 @@ complements:
 objected_by:
 - CLAIM-356
 ---
-<!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, the reading this claim cites him for, open like the claim -->
+<!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, named in the history as the reading the grounds moved from -->
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument this claim undercuts, split from it under ADR-061 -->
 

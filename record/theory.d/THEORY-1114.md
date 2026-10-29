@@ -19,7 +19,17 @@ promote_when: >-
   cannot settle it, and neither can correlations between identification
   and bias, which the theory does not predict.
 title: "Which self-category a person uses, what it means and who in it is most typical vary lawfully with the comparative frame of reference: a grouping of self with others becomes salient as the differences within it shrink relative to the differences between it and the rest of the frame (metacontrast) and as those differences match expectations about the category, and as it does, self-perception is depersonalized"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Twelfth status review (ADR-057). Kept Proposed, with a dated note
+    saying what holds it back. `rivals` now names THEORY-1112, which
+    already names this entry and which the Bearing section calls a rival.
+    No split: CLAIM-493 needs the prototype shift to be real, not only
+    reported by the theory's authors, and CLAIM-491 has other Proposed
+    grounds and open objections. The account is unchanged.
 tags:
 - social-identity
 - social-science
@@ -28,6 +38,8 @@ date: '2026-10-28'
 source:
 - LIT-1794
 - LIT-1742
+rivals:
+- THEORY-1112
 summary: >-
   Self-categorization theory as restated by Turner, Oakes, Haslam and
   McGarty (1994), [LIT-1794](../literature.d/LIT-1794.md), and reviewed by Hornsey (2008),
@@ -157,3 +169,12 @@ here.
 - **Scope limit: [THEORY-1115](THEORY-1115.md)** (León). The we-identities of close
   relationships arise by mutual individualization, not depersonalization,
   so the depersonalization clause here is not the only route to a "we".
+
+## Note of 2026-10-29: what holds it back
+
+No study that varies only the comparative frame has been read. Oakes,
+Turner & Haslam 1991 (LIT-1726) and Haslam et al. 1992 (LIT-1767) are
+filed unread, and every result the record holds reaches it through the
+theory's authors without data. The promote_when also asks for a result
+from outside the originating group, or a preregistered replication there,
+and none is filed.
