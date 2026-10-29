@@ -55,6 +55,12 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
 - **Never hand-write a link target.** Write the bare code; the pull
   request's CI repair spells the target.
 - **Retire by status, never by deletion.**
+- **Never send an email address to an outside service**
+  ([ADR-008](record/decisions.d/ADR-008.md)), the owner's or anyone's: not
+  in a query parameter (Unpaywall's `email=`, Crossref's `mailto=`), a
+  header or a request body. Leave the field out, else use
+  `noreply@anthropic.com`, else do without the service. A brief written
+  for another agent must say so.
 
 ## Working
 
