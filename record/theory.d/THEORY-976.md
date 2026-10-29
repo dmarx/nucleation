@@ -19,8 +19,7 @@ history:
   date: '2026-10-27'
   note: >-
     A dated note added: Marks et al., the source of the model organism
-    this entry measures, was registered and read on 2026-10-27 (LIT-
-    tmpx8s6k); it confirms the design and train/test split as this
+    this entry measures, was registered and read on 2026-10-27 (LIT-1584); it confirms the design and train/test split as this
     entry describes them, replicates the Assistant-token finding with
     another dictionary, and gives the base model's rate on the held-
     out behaviours. Title and status unchanged.

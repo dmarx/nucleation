@@ -11,8 +11,7 @@ promote_when: >-
   better than a model in which ownership is all-or-none or follows
   synchrony alone. Expectations must be measured in each condition or
   matched across them, with trait suggestibility as a covariate, since
-  graded manipulations can produce graded expectations (THEORY-
-  tmpfufvf). Proprioceptive drift is to be modelled as a separate
+  graded manipulations can produce graded expectations (THEORY-766). Proprioceptive drift is to be modelled as a separate
   output, not as a second measure of ownership. A second, independent
   result should show the real hand losing ownership as the other object
   gains it, on a measure other than skin temperature or histamine, which

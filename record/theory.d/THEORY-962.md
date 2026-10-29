@@ -18,11 +18,11 @@ history:
 - version: 2
   date: '2026-10-25'
   note: >-
-    From the reading of Lattimore and Szepesvári (LIT-1524, NOTE-
-    tmpkgxba). The Source notes that Bartók et al.'s Theorem 4 takes this
+    From the reading of Lattimore and Szepesvári (LIT-1524,
+    NOTE-1162). The Source notes that Bartók et al.'s Theorem 4 takes this
     step with D = {i, j} where it needs D = N⁺_{i,j} (THEORY-961), so
-    the lemma as stated, for general D, is the corrected form. THEORY-
-    tmpyulw1 is added beside THEORY-964. The account is unchanged.
+    the lemma as stated, for general D, is the corrected form.
+    THEORY-963 is added beside THEORY-964. The account is unchanged.
 tags:
 - learning-theory
 - game-theory
