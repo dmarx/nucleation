@@ -142,9 +142,9 @@ exchange filed the organizational rival to [TERM-044](../terms.d/TERM-044.md) as
 
 ## Note of 2026-10-29: what holds it back
 
-CLAIM-168 is unanswered in the part that bears on this claim. CLAIM-174 turns
+[CLAIM-168](CLAIM-168.md) is unanswered in the part that bears on this claim. [CLAIM-174](CLAIM-174.md) turns
 the circle into a fixed-point condition, but it says itself that whether a
 fixed level and target can have several self-consistent factorizations is the
 objection's open part, and several that disagree on which regimes each
-will-organization governs is this claim's `defeated_if`. CLAIM-174 is also
+will-organization governs is this claim's `defeated_if`. [CLAIM-174](CLAIM-174.md) is also
 Proposed, so even that reply is not held.

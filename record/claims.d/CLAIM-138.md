@@ -179,9 +179,9 @@ did not draw it.
 
 Whether the remedy concedes anything turns on whether independently
 specified relations that are concrete, determinate or modal count as
-non-structural input. Esfeld and Lam (NOTE-695) accept the remedy and deny
-the cost, and the ontic reading in NOTE-038's C4 escapes Newman by refusing
+non-structural input. Esfeld and Lam ([NOTE-695](../notes.d/NOTE-695.md)) accept the remedy and deny
+the cost, and the ontic reading in [NOTE-038](../notes.d/NOTE-038.md)'s C4 escapes Newman by refusing
 extensional relations; this claim records that dispute and does not answer
-it. Promoting it would also require writing the concession into CLAIM-136,
+it. Promoting it would also require writing the concession into [CLAIM-136](CLAIM-136.md),
 whose revision waits on the owner's choice between its strict and weak
 versions.

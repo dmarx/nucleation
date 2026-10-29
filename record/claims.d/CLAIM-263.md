@@ -138,9 +138,9 @@ asks for. The claim is unchanged.
 
 ## Note of 2026-10-29: what holds it back
 
-Step 2 is THEORY-116's stated direction, that a barrier surviving
+Step 2 is [THEORY-116](../theory.d/THEORY-116.md)'s stated direction, that a barrier surviving
 alignment marks a different mechanism, which no held source tests on deep
 networks trained on the same data: the evidence is co-occurrence in one
 synthetic-cue protocol and a one-layer proof of the converse. Step 4's
-"only when the objectives share structure" is THEORY-115's, whose breaking
+"only when the objectives share structure" is [THEORY-115](../theory.d/THEORY-115.md)'s, whose breaking
 cases plot raw loss that the endpoint's forgetting largely explains.

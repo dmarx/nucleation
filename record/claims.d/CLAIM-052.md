@@ -86,8 +86,8 @@ manuscript's Case II (alternating frames ([TERM-026](../terms.d/TERM-026.md)<!--
 ## Note of 2026-10-29: what holds it back
 
 The record holds no observation of framing-order effects on pragmatic
-judgements: CASE-021 and the manuscript's Case II, which would test the
+judgements: [CASE-021](../cases.d/CASE-021.md) and the manuscript's Case II, which would test the
 defeat condition, have not been run. The nearest held result,
-question-order effects in the Pew surveys (THEORY-166), concerns the order
+question-order effects in the Pew surveys ([THEORY-166](../theory.d/THEORY-166.md)), concerns the order
 of survey questions, not of framing prompts, and does not show that
 framing operations in general fail to commute.

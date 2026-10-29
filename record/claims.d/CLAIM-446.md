@@ -151,7 +151,7 @@ urgently the defensive process claims precedence), defensive authority g
 They dissociate: low belief with strong alarm; strong alarm with a valued
 action carried through; little felt anxiety with automatic avoidance. A
 related dissociation is reported for exposure: how far fear falls during
-a session does not predict fear at follow-up (Craske et al., THEORY-921).
+a session does not predict fear at follow-up (Craske et al., [THEORY-921](../theory.d/THEORY-921.md)).
 This continues [CLAIM-283](CLAIM-283.md) (claimed precedence against granted authority) and
 [CLAIM-349](CLAIM-349.md) (access, authority, action).
 
@@ -369,9 +369,9 @@ its defeated_if. The readings promoted on 2026-10-29 hold its laboratory
 steps in healthy people ([THEORY-901](../theory.d/THEORY-901.md), [THEORY-920](../theory.d/THEORY-920.md)) and the causal work of
 safety behaviour ([THEORY-903](../theory.d/THEORY-903.md)); none measures authority.
 
-## Note of 2026-10-29: CLAIM-443 promoted
+## Note of 2026-10-29: [CLAIM-443](CLAIM-443.md) promoted
 
-The fourteenth status review promoted CLAIM-443, so the premise the note
+The fourteenth status review promoted [CLAIM-443](CLAIM-443.md), so the premise the note
 above names as Proposed is now Active. The claim stays held by the rest
 of that note: no result measures defensive authority apart from threat
 belief, the uncertainty estimate and the belief about one's own future

@@ -152,7 +152,7 @@ system. It is an **agent at that level** when:
    input-output mapping), by more than the Occam cost ([TERM-046](../terms.d/TERM-046.md)<!-- ref::uses: TERM-046 -->) of the richer model. This is Orseau et al.'s agent-versus-device
    comparison ([LIT-911](../literature.d/LIT-911.md)), priced in the record's terms
    ([CLAIM-154](CLAIM-154.md)). Its ancestor is Dennett's intentional strategy
-   (LIT-398), which counts a system a believer when the intentional
+   ([LIT-398](../literature.d/LIT-398.md)), which counts a system a believer when the intentional
    description predicts it better than what is antecedently known, and
    which Orseau et al. turn into a computation.
 3. **Its governance would adapt.** Under an intervention on how its actions
@@ -230,15 +230,15 @@ That is the owner's thesis made testable ([CLAIM-170](CLAIM-170.md), [CLAIM-155]
   meaningful adaptation, not the only one.
 - **That an agent makes its own boundary.** Test 1 reads the boundary off
   coupling, and a boundary kept from outside passes it as one the factor
-  produces does (CLAIM-194). Tests 2 and 3 do not exclude such a factor in
+  produces does ([CLAIM-194](CLAIM-194.md)). Tests 2 and 3 do not exclude such a factor in
   general: a policy can adapt inside a boundary someone else keeps. An
-  agent here is TERM-044's, at a level of description. Minimal agency in
-  Barandiaran, Di Paolo and Rohde's sense (THEORY-1119; the rival
-  TERM-063) adds individuality the system produces itself, and this test
+  agent here is [TERM-044](../terms.d/TERM-044.md)'s, at a level of description. Minimal agency in
+  Barandiaran, Di Paolo and Rohde's sense ([THEORY-1119](../theory.d/THEORY-1119.md); the rival
+  [TERM-063](../terms.d/TERM-063.md)) adds individuality the system produces itself, and this test
   does not claim it. Where the governor of an imposed boundary is found,
   the jurisdiction reading puts it inside the agent (note of 2026-10-21).
 - **That what people or courts grant an artifact is an independent mark.**
-  Such grants turn on whether its mechanism is known (CLAIM-393). So they
+  Such grants turn on whether its mechanism is known ([CLAIM-393](CLAIM-393.md)). So they
   meet the `defeated_if` only where knowing the mechanism makes a device
   description shorter, which is test 2's own comparison.
 
@@ -275,6 +275,6 @@ candidate it rejects may still earn a name.
 
 ## Note of 2026-10-29: what holds it back
 
-Its first condition is CLAIM-157, which is Proposed, and the necessary half
-of that criterion is unanswered (CLAIM-157's note of 2026-10-29). With
-CLAIM-194 and CLAIM-393 written in, nothing else on file holds it back.
+Its first condition is [CLAIM-157](CLAIM-157.md), which is Proposed, and the necessary half
+of that criterion is unanswered ([CLAIM-157](CLAIM-157.md)'s note of 2026-10-29). With
+[CLAIM-194](CLAIM-194.md) and [CLAIM-393](CLAIM-393.md) written in, nothing else on file holds it back.

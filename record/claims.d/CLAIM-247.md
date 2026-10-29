@@ -100,7 +100,7 @@ rival. [CLAIM-139](CLAIM-139.md) quotes A214 §13: "A traditional ontology
 of intrinsically individuated objects plus relational properties might
 reproduce the same statistical predictions."
 
-Both stances stand. CLAIM-038 has been Active since 2026-10-29, [CLAIM-046](CLAIM-046.md) has been
+Both stances stand. [CLAIM-038](CLAIM-038.md) has been Active since 2026-10-29, [CLAIM-046](CLAIM-046.md) has been
 Active since 2026-10-27, [CLAIM-112](CLAIM-112.md) is Active, [CLAIM-139](CLAIM-139.md) is Proposed, and [TERM-014](../terms.d/TERM-014.md), [TERM-042](../terms.d/TERM-042.md) and
 [TERM-040](../terms.d/TERM-040.md) are all Active. No claim says which bearer the line now holds, and
 [CLAIM-115](CLAIM-115.md), the manuscript's thesis, uses no TERM for it.

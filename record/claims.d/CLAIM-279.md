@@ -208,9 +208,9 @@ The claim is unchanged and stays Proposed.
 ## Note of 2026-10-29: promoted
 
 The fourteenth status review promoted the claim, at the status review's
-ruling (the owner delegated these rulings). Its ground CASE-079 is
+ruling (the owner delegated these rulings). Its ground [CASE-079](../cases.d/CASE-079.md) is
 Active, no objection is filed, and nothing meets its defeated_if.
-THEORY-214's attack-or-innovation ambiguity on r/place is this claim's
+[THEORY-214](../theory.d/THEORY-214.md)'s attack-or-innovation ambiguity on r/place is this claim's
 relativity, observed, and now corroborates it. The niche-emergence test
-it disclaims (QUESTION-083) is still unrun; the claim does not depend on
+it disclaims ([QUESTION-083](../questions.d/QUESTION-083.md)) is still unrun; the claim does not depend on
 it.

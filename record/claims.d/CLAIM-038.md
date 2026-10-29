@@ -134,11 +134,11 @@ global interpretation.
 - **Compatibility.** In Wang et al. ([LIT-842](../literature.d/LIT-842.md)) the language data
   are signalling, so they are not compatible families. Version 1's
   compatibility premise would have needed Contextuality-by-Default, or a
-  sheaf corrected for signalling. Version 2, in TERM-042's terms, does not
+  sheaf corrected for signalling. Version 2, in [TERM-042](../terms.d/TERM-042.md)'s terms, does not
   ask the data to agree on overlaps, so signalling data are communicative
   objects too. Which criterion of global extension then separates
   contextuality from direct context effects, as the defeat condition
-  requires, is CLAIM-037's question.
+  requires, is [CLAIM-037](CLAIM-037.md)'s question.
 - **More non-gluing.** Abramsky, Barbosa and Searle ([LIT-843](../literature.d/LIT-843.md)) give a second,
   independent instance of the non-gluing noted above, from incomparable
   causal pasts (Example 7.2). They also give an example of a gluing that is

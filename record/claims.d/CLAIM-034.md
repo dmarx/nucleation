@@ -62,9 +62,9 @@ explanatory criterion" versus "fidelity as an optimized translation objective".
 
 Its formal half has no measure to state: the record holds no one-way
 (simulation) distance for observational profiles, only the symmetric
-bisimulation metric (THEORY-247), so the "relevant possibilities" an
+bisimulation metric ([THEORY-247](../theory.d/THEORY-247.md)), so the "relevant possibilities" an
 adaptive rendering must reproduce are not defined. Its defeat condition,
 how readers judge deliberately adaptive renderings, has not been observed.
-The legal readings (NOTE-1019, NOTE-1021, NOTE-1024) sort renderings by
-these goals but, as NOTE-1019 says, ask who may make a rendering, not how
+The legal readings ([NOTE-1019](../notes.d/NOTE-1019.md), [NOTE-1021](../notes.d/NOTE-1021.md), [NOTE-1024](../notes.d/NOTE-1024.md)) sort renderings by
+these goals but, as [NOTE-1019](../notes.d/NOTE-1019.md) says, ask who may make a rendering, not how
 to judge one.

@@ -97,7 +97,7 @@ those rules are meant to maintain." From Challenger and Columbia
 organization changes its rules." And from NASA's lessons-learned
 system: "A correction is recorded ⇏ The corrected capacity is
 maintained." GAO's finding is narrower than A25 put it: NASA counted how
-often lessons were accessed, not how often they were applied (LIT-1378,
+often lessons were accessed, not how often they were applied ([LIT-1378](../literature.d/LIT-1378.md),
 p. 21), so a recorded lesson is not shown to be an applied one. It sorted the outcomes into no
 correction, ephemeral correction and maintained correction.
 

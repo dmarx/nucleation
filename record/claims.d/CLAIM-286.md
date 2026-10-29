@@ -93,15 +93,15 @@ concentration of authority and cross-regional transport. It bears on
 - It does not say the mappings are established. A7 §14: "Computational
   similarity to a phenomenon is insufficient evidence that the same
   mechanism explains the human case."
-- It is under A7 §14's objection, which A7 granted, filed as CLAIM-278
-  and now ARG-036, which finds the lab's evidence does not yet support it.
+- It is under A7 §14's objection, which A7 granted, filed as [CLAIM-278](CLAIM-278.md)
+  and now [ARG-036](../arguments.d/ARG-036.md), which finds the lab's evidence does not yet support it.
 
 ## Note of 2026-10-29: what holds it back
 
 No prediction in the record follows from the shared organizational
 variables and not from phenomenon-specific or central-executive models
 with flexibility penalized, which is this claim's defeated_if and
-QUESTION-088's test. The one argument concluding it, ARG-036, fails its
+[QUESTION-088](../questions.d/QUESTION-088.md)'s test. The one argument concluding it, [ARG-036](../arguments.d/ARG-036.md), fails its
 own critical question (the lab's matched comparators find the
-organizational vocabulary adds no constraint), and CLAIM-467 undercuts
+organizational vocabulary adds no constraint), and [CLAIM-467](CLAIM-467.md) undercuts
 it.

@@ -96,10 +96,10 @@ post-Challenger reforms might have held. The Board found neither.
 - **Not one unchanged mechanism.** The Board finds that Challenger's
   institutional causes were not fixed and that related failure mechanisms
   recurred, not that one cause sat unaltered between the accidents
-  (CASE-138).
+  ([CASE-138](../cases.d/CASE-138.md)).
 - **Not a general theory.** It is two cases in one agency; the general
   account is Vaughan's, and the record has not read it. Whether it is
-  one is QUESTION-tmpsuo85.
+  one is [QUESTION-tmpsuo85](../questions.d/QUESTION-tmpsuo85.md).
 
 ## Connections
 

@@ -205,9 +205,9 @@ test. The name is earned when the gap beats the cost of keeping it.
   edge. A beam joining two pendulums clears it for the next swing, as a
   cell's membrane does for the cell. So the test names a unit of
   description, and it cannot tell a boundary the form produces from one
-  imposed on it (CLAIM-194). The individuality that minimal agency is said
-  to need (THEORY-1119) is a further condition. That matters where
-  CLAIM-174 takes this test as its first condition.
+  imposed on it ([CLAIM-194](CLAIM-194.md)). The individuality that minimal agency is said
+  to need ([THEORY-1119](../theory.d/THEORY-1119.md)) is a further condition. That matters where
+  [CLAIM-174](CLAIM-174.md) takes this test as its first condition.
 
 ## Note of 2026-10-19: closure without a block, and flux
 
@@ -305,10 +305,10 @@ candidate it rejects may still earn a name.
 ## Note of 2026-10-29: what holds it back
 
 Its `defeated_if` makes clearing the threshold necessary for one system, not
-only sufficient, and that half is unanswered. CLAIM-388's closed mode has no
-block, Toner and Tu's flock (NOTE-1228) keeps its order while no grouping of
+only sufficient, and that half is unanswered. [CLAIM-388](CLAIM-388.md)'s closed mode has no
+block, Toner and Tu's flock ([NOTE-1228](../notes.d/NOTE-1228.md)) keeps its order while no grouping of
 members persists, and the notebook's coupling needs the time-lagged test
-QUESTION-116 asks for; whether any of these is one system is QUESTION-218,
+[QUESTION-116](../questions.d/QUESTION-116.md) asks for; whether any of these is one system is [QUESTION-218](../questions.d/QUESTION-218.md),
 and a yes would meet the `defeated_if`. The duration clause also has no
 window or tolerance, and it holds only if "persists" is read on the
-trajectory (NOTE-1215).
+trajectory ([NOTE-1215](../notes.d/NOTE-1215.md)).

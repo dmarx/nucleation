@@ -228,10 +228,10 @@ objection once filed as [CLAIM-163](CLAIM-163.md) is now [ARG-016](../arguments.
 
 ## Note of 2026-10-29: what holds it back
 
-The note of 2026-10-28 is out of date in one respect: CLAIM-261 is
-Active. The claim is held by its ground THEORY-070, kept Proposed
+The note of 2026-10-28 is out of date in one respect: [CLAIM-261](CLAIM-261.md) is
+Active. The claim is held by its ground [THEORY-070](../theory.d/THEORY-070.md), kept Proposed
 because no fit in the record shows control intensity falling with its
-cost (THEORY-070's promote_when (1)); that intrinsic cost is what gives
+cost ([THEORY-070](../theory.d/THEORY-070.md)'s promote_when (1)); that intrinsic cost is what gives
 escalation the price this claim says a learned accommodation saves. The
 reuse inequality of the note of 2026-10-23 is accounting, exact when
 C_maintenance and C_error are totals over the N encounters (checked at

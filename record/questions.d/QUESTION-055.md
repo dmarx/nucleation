@@ -90,6 +90,6 @@ Heyting pseudo-complement the base fixes, not an orthocomplement. That is
 base category the communicative object has, and whether some probe family
 splits it into sectors ([THEORY-042](../theory.d/THEORY-042.md)).
 
-**Split, 2026-10-29 (ADR-049).** Whether the communicative object is such
-a presheaf is QUESTION-tmpdq47o, Answered by CLAIM-038, which went Active
+**Split, 2026-10-29 ([ADR-049](../decisions.d/ADR-049.md)).** Whether the communicative object is such
+a presheaf is [QUESTION-tmpdq47o](QUESTION-tmpdq47o.md), Answered by [CLAIM-038](../claims.d/CLAIM-038.md), which went Active
 at the fourteenth status review.

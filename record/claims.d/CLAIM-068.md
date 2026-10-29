@@ -153,10 +153,10 @@ no study under it".
 
 ## Note of 2026-10-29: what holds it back
 
-Its premise CLAIM-090 is Proposed: no chain in the record ends on a prior
-measured on its own transmitters before transmission (QUESTION-137). Its
+Its premise [CLAIM-090](CLAIM-090.md) is Proposed: no chain in the record ends on a prior
+measured on its own transmitters before transmission ([QUESTION-137](../questions.d/QUESTION-137.md)). Its
 defeat condition asks for chains started from different stances, and no
-such study is held. ARG-027, which argued that the iterated-learning
-readings show stance stabilization, is Rejected. CASE-068's diffusion
+such study is held. [ARG-027](../arguments.d/ARG-027.md), which argued that the iterated-learning
+readings show stance stabilization, is Rejected. [CASE-068](../cases.d/CASE-068.md)'s diffusion
 chains show an evaluative signal kept and amplified, not chains from
 different stances converging.

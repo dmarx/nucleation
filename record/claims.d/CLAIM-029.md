@@ -125,12 +125,12 @@ prompts and is not filed. Its question about activation steering is
 ## Note of 2026-10-29: what holds it back
 
 Its defeat condition is met as written by an Active reading. On Lu et
-al.'s results (THEORY-683), reordering a fixed set of examples moves
+al.'s results ([THEORY-683](../theory.d/THEORY-683.md)), reordering a fixed set of examples moves
 accuracy between near chance and near the state of the art, and the good
 orders do not transfer across model sizes. That is a prompt effect failing
 invariance to surface form and failing transfer. The note of 2026-10-15
 holds that this defeats a stronger hypothesis than the claim. The one
 finding that separates the two, Kirsanov et al.'s stable class
-representations (THEORY-251), is Proposed and did not vary order. Until
+representations ([THEORY-251](../theory.d/THEORY-251.md)), is Proposed and did not vary order. Until
 the defeat condition is restated at the level the claim means and that
 separation is held, the claim is not promoted.

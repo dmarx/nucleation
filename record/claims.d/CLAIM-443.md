@@ -179,7 +179,7 @@ higher-level deliberation are disrupted selectively.
 ## Note of 2026-10-29: promoted
 
 The fourteenth status review promoted the claim, at the status review's
-ruling (the owner delegated these rulings), after moving CLAIM-358 to
+ruling (the owner delegated these rulings), after moving [CLAIM-358](CLAIM-358.md) to
 complements and the LITs out of grounds. Its test, a change of the
 appropriate action after training a cached and a recruited arm, is still
 unrun; Friston et al.'s devaluation run is the cached arm alone.

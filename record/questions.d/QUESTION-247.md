@@ -47,7 +47,7 @@ of [QUESTION-055](QUESTION-055.md) that its question "does the context-indexed f
 communicative object settle which?" asks, split off on 2026-10-21
 ([ADR-049](../decisions.d/ADR-049.md)). It is conditional: [CLAIM-038](../claims.d/CLAIM-038.md), which makes the communicative
 object a presheaf over contexts, is Active since 2026-10-29, and that
-part is QUESTION-tmpdq47o, Answered.
+part is [QUESTION-tmpdq47o](QUESTION-tmpdq47o.md), Answered.
 
 - **The general case.** [THEORY-516](../theory.d/THEORY-516.md) (Active), from Butterfield and Isham
   ([LIT-381](../literature.d/LIT-381.md), [LIT-389](../literature.d/LIT-389.md)). For any presheaf of propositions over a small
@@ -76,5 +76,5 @@ are "among the most natural" valuations, not forced. So this answer
 gives the negation once a base is chosen. It does not say whether the
 communicative object is a presheaf, which base it has, or whether some
 probe family splits it into sectors that no probe connects ([THEORY-042](../theory.d/THEORY-042.md)).
-The first is QUESTION-tmpdq47o, Answered by CLAIM-038 on 2026-10-29.
+The first is [QUESTION-tmpdq47o](QUESTION-tmpdq47o.md), Answered by [CLAIM-038](../claims.d/CLAIM-038.md) on 2026-10-29.
 The other two stay with the parent.

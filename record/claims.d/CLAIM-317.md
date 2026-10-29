@@ -85,10 +85,10 @@ distinct contexts are how people "properly locate their performances".
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the fourteenth status review. Its grounds are THEORY-406,
+Kept Proposed by the fourteenth status review. Its grounds are [THEORY-406](../theory.d/THEORY-406.md),
 Proposed, and boyd's ethnography read in part. No study in the record
 compares conflict while the audiences are kept apart with conflict when
-they meet, and CASE-064 is one documented collapse with nothing to compare
+they meet, and [CASE-064](../cases.d/CASE-064.md) is one documented collapse with nothing to compare
 it against. The first half of the title, that differing presentations do
 no harm while the audiences are apart, has no evidence beyond boyd's
 interviews.

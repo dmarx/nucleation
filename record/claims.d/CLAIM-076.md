@@ -59,6 +59,6 @@ implies, kept without its argument. The improving direction is [CLAIM-087](CLAIM
 ## Note of 2026-10-29: what holds it back
 
 No cross-modal chain has been run against a text-only chain of the same
-length (CASE-009 is a design), so the defeat condition is untested.
-Tushnet's legal cases (NOTE-1016) show describers adding to images, not
+length ([CASE-009](../cases.d/CASE-009.md) is a design), so the defeat condition is untested.
+Tushnet's legal cases ([NOTE-1016](../notes.d/NOTE-1016.md)) show describers adding to images, not
 that cross-modal chains add more relations than text-only ones.

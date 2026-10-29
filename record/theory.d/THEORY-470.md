@@ -133,10 +133,10 @@ reading is Proposed and rests on a talk.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the fourteenth status review. Read in full (NOTE-041),
+Kept Proposed by the fourteenth status review. Read in full ([NOTE-041](../notes.d/NOTE-041.md)),
 but the title states Doctorow's causal thesis, which the talk argues from
 examples chosen after the fact. Its promote_when, a comparison across
 platforms or periods that differ in the four constraints, is unmet in the
-record. Not split into what Doctorow argues, since CLAIM-410, the one
+record. Not split into what Doctorow argues, since [CLAIM-410](../claims.d/CLAIM-410.md), the one
 claim that cited it, uses it as an instance and now lists it as
 corroboration.

@@ -145,10 +145,10 @@ does not use it. The note of 2026-10-18 above records that A21 cited
 
 Kept Proposed by the fourteenth status review. Step 3 uses French's and
 Pettit's thesis that a collective can hold reasons of its own, made by its
-procedure, and both readings, THEORY-131 and THEORY-139, are Proposed. The
+procedure, and both readings, [THEORY-131](../theory.d/THEORY-131.md) and [THEORY-139](../theory.d/THEORY-139.md), are Proposed. The
 record holds no case of a corporation acting on a policy-made or avowed
 judgment that departs from its members' aggregated views, and Velasquez's
-objection that a corporation is not an agent (LIT-1429, LIT-1432) is
-unread. Steps 1 and 2, CLAIM-030 and THEORY-725, carry only the comparison
+objection that a corporation is not an agent ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md)) is
+unread. Steps 1 and 2, [CLAIM-030](CLAIM-030.md) and [THEORY-725](../theory.d/THEORY-725.md), carry only the comparison
 of members' conclusions with members' reasons aggregated premise by
 premise.
