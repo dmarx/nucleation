@@ -5,7 +5,10 @@ status_note: >-
   reached. Unpaywall lists no open copy and a web search found none posted
   by an author, their institution or the publisher; the book's own site
   posts its endnotes and supplementary materials, not its chapters. No
-  NOTE is filed. It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  NOTE is filed. It stays Unavailable until a copy is supplied
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a
+  substitute for reading it: MacAskill, Thomas and Vallinder's SPC
+  framework (LIT-tmpui6bx).
 title: 'What We Owe the Future'
 version: 1
 history:
@@ -18,7 +21,8 @@ history:
     (Basic Books, ISBN 9781541604032; Oneworld, ISBN 0861542509).
     `published:` is 2022, year only (ADR-002). Set Unavailable the same
     day after a search for a lawful copy (ADR-041); the status note says
-    where.
+    where. On the same day MacAskill, Thomas and Vallinder's SPC
+    framework (LIT-tmpui6bx) was read in its place.
 tags:
 - future-generations
 - ethics
@@ -47,3 +51,22 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 The public statement of longtermism, which the critics of the movement answer. For [QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Read in place of the book: MacAskill, Thomas and Vallinder, *The
+Significance, Persistence, Contingency Framework* (version 1.1, August
+2022), with the book's full online endnotes. Together they give the book's
+accounting device for its chapter 2 and Appendix 3, and the notes give its
+sources, MacAskill's credences (2.22), and two remarks on motive:
+reciprocity as a reason to "pay it forward" (1.5), and a longtermism that
+does not override "all other self- and other-regarding reasons" (1.50).
+The notes also suggest the LIT summary needs one change: MacAskill
+recommends, under moral uncertainty, "something close to a critical level
+view" (9.78; 8.33), so the book defends adding lives that are good enough,
+above a critical level, rather than any good lives. Missing still: the
+chapters themselves, including the argument that future people count, the
+case for lock-in, the treatment of extinction, collapse and stagnation,
+and the population-ethics chapter.

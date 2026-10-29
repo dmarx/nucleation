@@ -6,9 +6,10 @@ status_note: >-
   by an author, their institution or the publisher. A PDF on the Wharton
   marketing department's site was not used, since none of the authors is
   there; the authors' own deposits at Columbia Academic Commons hold the
-  study materials and data, not the article. Only press coverage reports
-  its results, so no work was read in its place. No NOTE is filed. It
-  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
+  study materials and data, not the article. No
+  NOTE is filed. It stays Unavailable until a copy is supplied
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a
+  substitute for reading it: Wickersham et al. 2020 (LIT-tmpkbyp5).
 title: 'How Will I Be Remembered? Conserving the Environment for the Sake of One''s Legacy'
 version: 1
 history:
@@ -20,7 +21,8 @@ history:
     Crossref: Psychological Science 26(2), 231–236; online 2015-01-05,
     so `published:` is that date (ADR-002). Set Unavailable the same day
     after a search for a lawful copy (ADR-041); the status note says
-    where.
+    where. On the same day Wickersham et al. 2020 (LIT-tmpkbyp5) was
+    read in its place.
 tags:
 - altruism
 - motivation
@@ -49,3 +51,19 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 Shows legacy motivation as a measurable and manipulable cause of concern for a future one will not see. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Wickersham et al. 2020 (NOTE-tmpx2etu), with Zaval as second author, uses
+the 2015 paper's materials and calls its own result a replication. It
+gives, in print, the eight Legacy Motivation Scale items, the six
+intentions items, the Trees for the Future donation wording and a legacy
+writing prompt "adapted from" the original. It reports of the original
+only that generative and legacy concerns "are strongly correlated with
+pro-environmental action" and that reflecting on one's legacy "can promote
+pro-environmental engagement" (p. 2), which agrees with the LIT's summary.
+Missing still: the original's samples, its correlational study, its
+numbers and effect sizes, whether it tested mediation, and how far its
+prompt and scale differ from the adapted ones here.

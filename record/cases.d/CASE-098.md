@@ -11,7 +11,8 @@ history:
   note: >-
     Notes of 2026-10-29 added: Berendt and Uhrich (LIT-1147) read, and
     Kilduff, Elfenbein and Staw (LIT-tmpl8672) read, and what each adds to
-    the case.
+    the case. A note of the same day adds Botzung et al. (LIT-tmpggzbi),
+    read.
 standing: stipulated
 kind: specimen
 tags:
@@ -131,3 +132,15 @@ It does not settle what the case leaves open. The ratings are current
 perceptions, so they show a relation that is reproduced, not who
 reproduces it. A5's variation, interrupting transmission, is still
 untried.
+
+## Note of 2026-10-29: Botzung et al., read
+
+Botzung et al. (NOTE-tmpww70j) is about memory of one game, not about
+transmission, but its design is the case in miniature. Twenty-three Duke
+and UNC fans learned a 2001 rivalry game none of them knew, from archive
+footage and among fellow fans. A day later their side set the valence of
+each remembered shot (88.9% of ratings), and they recalled their own
+side's successes more accurately and with more confidence. As an inference,
+a rivalry learned second-hand is stored as one record with opposite signs,
+each side's version tilted to its own successes. A5's discriminating
+variation, interrupting transmission, is still untried.

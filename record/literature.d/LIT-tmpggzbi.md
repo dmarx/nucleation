@@ -1,27 +1,28 @@
 ---
-status: Unfetched
+status: Active
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md): a
-  lawful free copy exists in PubMed Central
-  (pmc.ncbi.nlm.nih.gov/articles/PMC3319676; the publisher's version at
-  jneurosci.org is CC BY-NC-SA). On 2026-10-29 the publisher PDF answered
-  HTTP 403, the PMC PDF and Duke's DukeSpace copy
-  (hdl.handle.net/10161/10074) answered with bot challenges, and the
-  Europe PMC and NCBI full-text services return metadata only. A page
-  fetcher reached the PMC page but would only summarize it, which is not a
-  reading. A human reader can likely open it. No NOTE is filed. It stays
-  Unfetched until it is read, not on merit.
+  read in full 2026-10-29 (NOTE-tmpww70j) from the NIH author manuscript
+  (NIHMS176990, PMC3319676) from the PMC Cloud open-data service, cited by
+  section; worth reading as the one study the record holds in which a
+  fan's allegiance alone decides whether the same remembered play is good
+  or bad, and in which fans remember their own side's successes better; it
+  says nothing about how a rivalry's history is handed on.
 title: 'Mental Hoop Diaries: Emotional Memories of a College Basketball Game in Rival Fans'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Crossref: J
-    Neurosci 30(6), 2130–2137; 2010-02-10. Open access in PubMed Central
-    (PMC3319676). Set Unfetched the same day under ADR-053 after a fetch
-    was refused; the status note gives the address.
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works.
+    Crossref: J Neurosci 30(6), 2130–2137; 2010-02-10. Open access in
+    PubMed Central (PMC3319676). Set Unfetched the same day under
+    ADR-053 after a fetch was refused; the status note gives the
+    address. Set Active the same day: read in full in NOTE-tmpww70j from
+    the NIH author manuscript (NIHMS176990, PMC3319676) from the PMC
+    Cloud open-data service, cited by section, not compared with the
+    published text, where there is one. The filing summary is replaced
+    by the reading's.
 tags:
 - social-identity
 - neuroscience
@@ -38,15 +39,14 @@ keywords:
 - 'sports fans'
 implementations: []
 summary: >-
-  Botzung et al. (2010). Duke and UNC fans recalled plays from a game between their teams under fMRI; plays favourable to one's own team were recalled with more detail and engaged amygdala, striatum and memory regions more than unfavourable ones.
+  Botzung et al. (2010). Twenty-three male Duke and UNC fans watched an archived 2001 Duke–UNC game three times in the lab, then under fMRI recalled whether each of 64 shots went in. The same shot was positive for one side and negative for the other, so valence was set by allegiance with the stimulus held fixed. Shots good for one's own team were recalled more accurately and confidently and rated more intense. Emotional intensity, not valence, modulated amygdala, hippocampus, striatum and cortical midline regions; positive shots added dorsal fronto-parietal and sensorimotor activity. Fan groups did not differ in accuracy or intensity.
 ---
 
 # LIT-tmpggzbi: Mental Hoop Diaries: Emotional Memories of a College Basketball Game in Rival Fans
 
 Botzung, A., Rubin, D. C., Miles, A., Cabeza, R. & LaBar, K. S. (2010). *The Journal of Neuroscience*, 30(6), 2130–2137.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmpww70j, from the NIH author manuscript (NIHMS176990, PMC3319676) from the PMC Cloud open-data service, cited by section.
 
 ## Why this is here
 

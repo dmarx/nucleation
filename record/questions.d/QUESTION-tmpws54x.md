@@ -77,3 +77,39 @@ surroundings (Shomrat and Levin, [LIT-tmpgfqw1](../literature.d/LIT-tmpgfqw1.md)
   total remodelling makes the later animal the same individual in any
   sense beyond bodily continuity, or shows only that information can be
   stored outside the tissue that formed it.
+
+## Note of 2026-10-29: the works read
+
+The moth study and the authors' perspective were read themselves.
+Shomrat and Levin is read through the authors' own short post on it;
+Alloway is Unavailable.
+
+- **The moth keeps a memory through part of its brain** (Blackiston,
+  Silva Casey and Weiss, NOTE-tmp11g34).
+  - 77% of moths trained as fifth-instar caterpillars still avoided the
+    odour, and 12 of the 15 tracked individually kept their larval choice.
+  - Washing or scenting the pupae changed nothing, so residue on the
+    pupal case does not carry it.
+  - Aversions learned at the third instar survived two larval molts but
+    not metamorphosis. That places the carrier in something the molts
+    keep and metamorphosis replaces. The authors suggest late-forming
+    mushroom-body neurons, by analogy with *Drosophila*, untested.
+- **What carries it is still open** (Blackiston, Shomrat and Levin,
+  NOTE-tmp6fm86). The perspective calls the insect mechanism unsolved, and
+  describes the mushroom-body lobe the 2008 paper relied on as only partly
+  kept. Its proposal for planaria, memory stored outside the brain and
+  written back into the new head, is a hypothesis, not a finding.
+- **The planarian result is weaker than filed** (Levin and Shomrat's post,
+  NOTE-tmpf6vyn). Worms recognised the training chamber after their heads
+  regrew only after "a brief refresher". Neither source reports whether
+  the refresher alone gives untrained worms the same result. Until it
+  does, the case shows that something outlasts the head, not yet that a
+  memory does.
+- **What it shows about identity.** The moth keeps a thin,
+  timing-dependent psychological connection to the caterpillar while
+  plainly being the same organism. That is a partial connection under
+  biological identity (THEORY-464), not continuity through a wholly
+  rebuilt body. The perspective recalls McConnell's report that both halves
+  of a cut worm kept the training. If that held, planarian fission would be
+  Parfit's fission case realised: two successors, each psychologically
+  connected to one learner.

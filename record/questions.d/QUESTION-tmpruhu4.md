@@ -139,3 +139,22 @@ themselves, change the question in five ways.
 The question's third philosophical reading is reworded to match Scheffler:
 dependence on a future we will not see, not care for a future that does
 nothing for us.
+
+## Note of 2026-10-29: Zaval's legacy measures, read at second hand
+
+Wickersham et al. (NOTE-tmpx2etu), read in place of Zaval et al.
+(LIT-tmpetcju), reuse its legacy writing task and Legacy Motivation Scale
+with 988 adults.
+
+- **The effect replicates.** The task raised pro-environmental intentions
+  and hypothetical donations at every age, and the scale partly mediated
+  it.
+- **The scale does not isolate the wish to be remembered.** Of its eight
+  items, two are about being remembered, four about self-regard, and two
+  about responsibility and connection to future generations. Only the
+  total is analysed.
+- **A parallel route.** The task also raised love of nature, which
+  carried more of the donation effect than legacy motivation did (0.138
+  against 0.097, in the supplement's two-mediator model).
+- **The question's test is still untried.** No condition varies whether
+  anyone will know what one did.

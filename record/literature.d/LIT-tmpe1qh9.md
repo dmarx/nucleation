@@ -1,0 +1,48 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpxpkld), in place of LIT-tmp0ocqn, which
+  could not be fetched here; worth reading as the author's own update of
+  The Precipice's risk estimates, and as the only open text that restates
+  the book's four headline numbers and its notion of existential security;
+  it does not carry the book's moral argument.
+title: 'The Precipice Revisited'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed and read the same day, in place of LIT-tmp0ocqn (Unfetched),
+    from the search for open works reporting them. No DOI; the URL is the
+    author's own post. `published:` is the post's date (ADR-002); the talk
+    was given 2024-02-04. The page has no page numbers, so the NOTE cites
+    its section headings.
+tags:
+- future-generations
+- society-and-governance
+date: '2026-10-29'
+published: '2024-07-12'
+url: 'https://www.tobyord.com/writing/the-precipice-revisited'
+first_author: 'Ord'
+keywords:
+- 'existential risk'
+- 'risk landscape'
+- 'nuclear arms control'
+- 'pandemics'
+- 'AI risk'
+implementations: []
+summary: >-
+  Ord (2024), a talk revisiting the four largest risks of The Precipice about five years after its text was fixed. Existential risk from climate change is down: emissions now track between the two lower RCP pathways, not RCP 8.5, and the IPCC has narrowed the likely climate sensitivity from 1.5–4.5°C to 2.5–4°C. Nuclear risk is up: the invasion of Ukraine, the coming expiry of New START with a likely new arms race, and the halving of funding for the field when the MacArthur Foundation, about 45% of it, withdrew. Pandemic and AI risk are mixed. Covid showed weak institutions and a unity against a common threat that lasted months, but vaccines came within a year; language models replaced game-playing agents as the frontier, which weakens the classic threat model, while racing between the largest companies and new government attention pull opposite ways. The book's per-century estimates (climate and nuclear 1 in 1,000, pandemics 1 in 30, unaligned AI 1 in 10) have not moved at their rounding. The world is starting to build existential security.
+---
+<!-- inactive-ok-file: LIT-tmp0ocqn — Unfetched; the works this is read in place of -->
+
+# LIT-tmpe1qh9: The Precipice Revisited
+
+Ord, T. (2024). The Precipice Revisited. Talk at EA Global: Bay Area, 4 February 2024; posted on tobyord.com, 12 July 2024.
+
+Read in full in NOTE-tmpxpkld.
+
+## Why this is here
+
+Read in place of LIT-tmp0ocqn, which could not be fetched here. NOTE-tmpxpkld says what it
+reports of it and what is still missing.

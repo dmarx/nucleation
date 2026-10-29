@@ -1,24 +1,27 @@
 ---
-status: Unfetched
+status: Active
 status_note: >-
-  filed 2026-10-29, not read; set Unfetched the same day under [ADR-053](../decisions.d/ADR-053.md): a
-  lawful free copy exists in the University of Copenhagen's repository (re
-  searchprofiles.ku.dk/files/255842098/Second_person_engagement_self_alien
-  ation_and_group_identification.pdf, published version, listed by
-  Unpaywall). On 2026-10-29 the file answered HTTP 403. A human reader can
-  likely open it. No NOTE is filed. It stays Unfetched until it is read,
-  not on merit.
+  read in full 2026-10-29 (NOTE-tmphi7ls) from the peer-reviewed accepted
+  manuscript in the University of Copenhagen's repository (curis.ku.dk);
+  worth reading as the phenomenologist's case that coming to see oneself
+  as one of us is a change in how one apprehends oneself, through
+  another's eyes, and that the resulting "we" is a plurality, not an
+  enlarged I.
 title: 'Second-Person Engagement, Self-Alienation, and Group-Identification'
 version: 1
 history:
 - version: 1
   date: '2026-10-29'
   note: >-
-    Filed, not read, on the owner's word of 2026-10-29, from the readings
-    of self-categorization theory and the fandom works. Crossref: Topoi
-    38(1), 251–260; online 2016-11-25, so `published:` is that date
-    (ADR-002). Set Unfetched the same day under ADR-053 after a fetch was
-    refused; the status note gives the address.
+    Filed, not read, on the owner's word of 2026-10-29, from the
+    readings of self-categorization theory and the fandom works.
+    Crossref: Topoi 38(1), 251–260; online 2016-11-25, so `published:`
+    is that date (ADR-002). Set Unfetched the same day under ADR-053
+    after a fetch was refused; the status note gives the address. Set
+    Active the same day: read in full in NOTE-tmphi7ls from the
+    peer-reviewed accepted manuscript in the University of Copenhagen's
+    repository (curis.ku.dk), not compared with the published text,
+    where there is one. The filing summary is replaced by the reading's.
 tags:
 - phenomenology
 - social-ontology
@@ -35,15 +38,14 @@ keywords:
 - 'Husserl'
 implementations: []
 summary: >-
-  Zahavi (2016/2019). Group identification requires a self-alienating, second-person-mediated self-apprehension: by taking over others' perspective on oneself, one comes to see oneself as one of us; he links this to self-categorization theory's depersonalization.
+  Zahavi (2016/2019) reconstructs and defends Husserl's empathy-based account of the "we" against Heidegger and Hans Bernhard Schmid. Truly social acts need a second-person relation: an I–Thou relation of reciprocal, communicative address, in which I am aware of the other and of myself as addressed by them. Taking over the other's perspective on oneself, a self-apprehension Husserl calls "self-alienation", lets the difference between self and other stay present but be "somewhat downplayed", and that is a formal condition of coming to see oneself as "one of us". A we is "not an enlarged I": it preserves plurality and is not fusion. Zahavi likens the condition to self-categorization theory's self-stereotyping, while noting that Husserl attends far more to the interpersonal encounter beneath it. Against Schmid he argues that the sense of "us" can be analysed, that not every social relation is a we, and that children's self-awareness precedes their in-group bias. He concedes that an account built on the dyadic face-to-face "we" does not cover anonymous, institutional "we"s.
 ---
 
 # LIT-tmply7z7: Second-Person Engagement, Self-Alienation, and Group-Identification
 
 Zahavi, D. (2019). *Topoi*, 38(1), 251–260.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmphi7ls, from the peer-reviewed accepted manuscript in the University of Copenhagen's repository (curis.ku.dk).
 
 ## Why this is here
 

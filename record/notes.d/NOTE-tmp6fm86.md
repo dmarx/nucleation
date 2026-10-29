@@ -1,0 +1,256 @@
+---
+status: Read
+paper: LIT-tmpaazd0
+title: 'The stability of memories during brain remodeling: A perspective'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full, with its 196 references, from the published text as
+    Europe PMC full-text XML (PMC4802789), CC BY-NC 3.0; not compared with
+    the publisher's PDF. The copy has no page numbers, so citations are by
+    section. The one figure was not seen; its caption was read.
+date: '2026-10-29'
+summary: >-
+  A perspective, typed an addendum, with no new data. Learned behaviour
+  is reported to survive brain remodelling in metamorphosing insects
+  (odour-shock aversions in Drosophila and Manduca), regenerating planaria
+  (McConnell's 1960s savings and the authors' 2013 place learning) and
+  hibernating squirrels and marmots (hippocampal dendrites pruned in
+  torpor, operant memory kept after six months). The authors argue that
+  synaptic plasticity alone cannot explain lasting memory, posit a
+  non-synaptic "blueprint", and propose that a planarian's memory may be
+  stored outside the brain and imprinted on the new one, perhaps through
+  neoblasts or bioelectric networks. The insect mechanism is called
+  unknown; the planarian one untested.
+---
+<!-- inactive-ok-file: QUESTION-tmpws54x QUESTION-tmp8bttd LIT-tmpgfqw1 LIT-tmpvl4oj THEORY-464 LIT-469 CLAIM-tmpjylq8 — Open, Deferred, Proposed or Unavailable; the questions this reading bears on, works it reports, and the accounts it bears on -->
+
+# NOTE-tmp6fm86: The stability of memories during brain remodeling: A perspective
+
+## Contribution
+
+It puts three animal systems side by side as cases of memory surviving
+the remodelling of the brain, and asks what they imply for where memory
+is kept. It argues the standard answer, synaptic connectivity, is
+incomplete. It proposes that other cellular mechanisms, possibly outside
+the nervous system, back memory up, and it lays out a research programme
+for the authors' lab.
+
+## Key insight
+
+If a memory outlasts the cells and connections that formed it, the memory
+was not only in them. The authors' version: "there is a 'blueprint' of
+the memories that may be kept safely in place by a mechanism other than
+the synaptic connections themselves" (What mechanisms underlie memory?).
+For planaria they go further: "it is possible that memory can be stored
+outside the brain and imprinted on the nascent brain during regeneration"
+(Memory in aneural systems).
+
+## Assumptions
+
+- **The behavioural reports measure memory.** Each case is taken largely
+  at face value. The planarian line's history is told as controversy, but
+  the claims are kept.
+- **Memory of shape and memory of experience may share machinery.** The
+  programme rests on the lab's view that bioelectric networks among
+  non-neural cells store pattern information during regeneration, and
+  might store learned information too.
+- **Survival through remodelling is a test case for the engram.** If
+  specific memories stay as cells are replaced and moved, that constrains
+  how mental content is physically represented (Introduction).
+
+## Key results
+
+What the perspective reports, by section. None of it is new data.
+
+- **Why it matters** (Introduction). Three stakes: the engram question;
+  stem-cell therapies for the brain, which must not distort "the decades
+  of memory content and personality of the patient"; and engineering
+  "biobots" and computing media robust to cell turnover.
+- **Insects** (Memories survive CNS rearrangements and remodeling in
+  insects).
+  - Hopkins' host-selection principle and its rival, the chemical legacy
+    hypothesis. Chemical legacy is real: contaminated *Drosophila* pupae
+    and parasitic wasps removed from their aphid hosts show it.
+  - Controlled cases: a weevil and a wasp keep larval preferences and are
+    unmoved by contaminating the pupal case. Most convincing, in the
+    authors' words, are odour-shock aversions in *Drosophila* (Tully et
+    al. 1994) and *Manduca* (Blackiston et al. 2008), unaffected by odour
+    or shock alone.
+  - Mushroom bodies remodel: γ neurons prune completely, and "the α'/β'
+    neurons demonstrating partial pruning before establishing adult
+    specific projections". A synaptic memory in some of these neurons
+    has "only indirect evidence".
+  - The best support: *Tenebrio* larvae trained in mazes learn faster as
+    adults, and RNA enriched in larval mushroom bodies persists into the
+    adult (Punzo and Malatesta 1988).
+  - Untested alternatives: "Non-neural memory, chemoreceptor tuning, and
+    gene silencing". The question "remains unsolved".
+- **Planaria** (Memories persist during brain regeneration in planaria).
+  - McConnell's worms, conditioned with light and shock and cut in two:
+    head fragments kept the training, and tail fragments, which regrew a
+    brain, needed fewer trials to relearn ("savings").
+  - Naive worms fed on trained worms, or injected with their RNA, showed
+    savings; RNase abolished it. A Russian group (Cherkashin and Sheiman)
+    found retention in both halves 14 days after cutting.
+  - Controls for pseudoconditioning and sensitization were run, and the
+    field was then "mired in controversy" and abandoned.
+  - The authors' device gives "24*7" individual training with objective
+    scoring. With it, "our initial study confirmed the ability of worms to
+    recognize a surface etch pattern in a place learning task, and the
+    persistence of this information across head regeneration" (Shomrat and
+    Levin 2013).
+  - Candidate stores: neoblasts (stem cells) altered epigenetically by
+    learning, or non-coding RNAs.
+- **Mammals** (Memory and brain repair in mammals).
+  - Hibernating ground squirrels: body temperature near 0 °C; dendrites
+    pruned, hippocampus included; branching restored within hours of
+    arousal.
+  - Kin recognition after nine months turned out to be self-referent
+    phenotype matching, not memory. Housemates were discriminated after
+    hibernation, while maze and operant recall was weak (European ground
+    squirrels).
+  - "Perhaps most convincingly", two operant tasks were "unimpaired
+    following 6 months of hibernation". The cited study is of Alpine
+    marmots (Clemens et al. 2009).
+  - Tau phosphorylation rises in torpor and falls on arousal, a candidate
+    for stabilizing connections.
+- **Against synapses alone** (What mechanisms underlie memory?). LTP, LTD
+  and STDP are "inherently unstable"; reconsolidation and the reported need
+  for continual PKMζ activity argue against a hard-wired store; and memory
+  traces have been reported after erasing the related synaptic
+  connectivity (Chen et al. 2014, *Aplysia*).
+- **Memory without a brain** (Memory in aneural systems). Frog eggs
+  injected with orange or citral give animals preferring food with those
+  substances (Hepper and Waldman 1992). Embryos exposed to an odour with
+  an alarm chemical give larvae that flee the odour alone (Mathis et al.
+  2008). Neural-like computation and memory are reported in sperm, amoebae,
+  yeast, plants, the immune system, bone and heart.
+- **The bioelectric hypothesis** (Why the Mind is in the Brain (or is
+  it?)). Ion channels, neurotransmitters and electrical synapses work
+  throughout the body and drive patterning. The authors propose that
+  somatic and cognitive memory are coupled through bioelectric signalling,
+  and that this can now be tested.
+- **Programme** (Outlook). Five lines: modelling neural networks under
+  topological change; wider surveys of memory through remodelling;
+  molecular study of how neural networks exchange information with other
+  tissues; testing whether regeneration specifically preserves encoded
+  information; and new assays, such as regional brain transplants and
+  learning in non-neural cell networks.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Memories can survive drastic rearrangement and rebuilding of the CNS in insects, planaria and mammals | moderate as a survey: the authors call the data "convincing"; each system rests on a few studies, and the planarian line has a contested history | Outlook, and the three systems' sections |
+| C2 | How memory survives metamorphosis is unknown; persistence in mushroom-body neurons has only indirect support | strong as a statement of the evidence's state | insects section |
+| C3 | Synaptic plasticity alone does not explain lifelong memory; some other mechanism keeps a "blueprint" | interpretive: argued from instability, reconsolidation, PKMζ and one Aplysia study | What mechanisms underlie memory? |
+| C4 | In planaria, memory may be stored outside the brain and imprinted on the regenerating brain | hypothesis: stated as possible | Memory in aneural systems; planaria section |
+| C5 | Somatic (bioelectric) and cognitive memory systems are coupled | hypothesis, proposed as testable | Why the Mind is in the Brain |
+
+## Concepts
+
+- **engram**: the physical trace of a memory.
+- **savings**: faster relearning by a trained animal, or one given
+  material from trained animals, than by a naive one.
+- **chemical legacy**: an adult's response shaped by larval-environment
+  odours met at eclosion.
+- **synaptic plasticity hypothesis**: memory is stored as changes in
+  synaptic connections and the resulting network activity.
+- **blueprint**: the authors' word for a memory store kept by a mechanism
+  other than synaptic connections.
+- **neoblasts**: planarian adult stem cells, the source of the regenerated
+  brain.
+- **bioelectric signalling**: communication among non-neural cells through
+  resting potentials and gap junctions, which the lab holds directs
+  patterning.
+
+## Connections
+
+- **Blackiston, Silva Casey and Weiss 2008 (LIT-tmp0v56k).** Restated in
+  one sentence with Tully et al. Neither the third-instar result nor the
+  pupal washing is mentioned. The 2008 paper had α′/β′ neurons keeping
+  intact projections; this perspective has them partly pruned, citing the
+  same two *Drosophila* papers.
+- **Shomrat and Levin 2013 (LIT-tmpgfqw1)**, unread. Restated in one
+  sentence: place learning of a surface etch pattern, kept across head
+  regeneration. Its reference entry reads "planarians" and "J Exp Biol
+  2013; 216: 3799–810"; Crossref has "planaria" and no volume or pages.
+- **Alloway (LIT-tmpvl4oj)** is cited, as "1971", among the *Tenebrio*
+  maze studies.
+- **Dias and Ressler (NOTE-tmpeof8o)** is cited as modern work on the
+  transgenerational transfer of "environmentally-imprinted information",
+  in the passage on McConnell's RNA results, which bears on
+  QUESTION-tmp8bttd.
+
+## Bearing on the record
+
+- **QUESTION-tmpws54x, what carries it across.** The perspective lists the
+  candidates the question asks about and settles none. These are
+  inferences from its survey.
+  - For insects it calls the mechanism "unsolved" and the mushroom-body
+    account indirect. It names non-neural memory, chemoreceptor tuning
+    and gene silencing as untested.
+  - For planaria it offers two non-brain stores: neoblasts and non-coding
+    RNA, and a bioelectric network of non-neural cells. Its own result
+    shows only that something survives; where, it does not say.
+  - Its account of the mushroom bodies differs from the 2008 paper's. If
+    α′/β′ neurons are only partly kept, "the mushroom bodies are partly
+    preserved", as the question has it, is right, but the surviving
+    connection is less secure than the 2008 paper made it.
+- **QUESTION-tmpws54x, whether the animal after is the one that learned.**
+  The perspective does not discuss identity. But it frames the medical
+  stake in terms of it: brain repair must not distort "the decades of
+  memory content and personality of the patient". Two inferences.
+  - Planarian fission is Parfit's fission case (LIT-469; THEORY-464) made
+    literal. McConnell's report, as given here, is that both halves kept
+    or regained the training. If that holds, both successors are
+    psychologically connected to the trained worm. THEORY-464's line that
+    the relation that matters comes apart from identity then has a
+    natural case.
+  - If memory can be stored outside the brain, the brain is not the sole
+    bearer of psychological continuity. The philosophers' brain-transplant
+    cases assume it is. This is the authors' hypothesis, not a finding.
+- **The owner's thesis (CLAIM-tmpjylq8).** No direct bearing. No dated
+  note is proposed for it.
+- **A dated note is proposed for QUESTION-tmpws54x** (section 3).
+- **No THEORY filed.** The work is a programme; its claims are hypotheses.
+- **No ML instruction.** The engineering stakes (biobots, unconventional
+  computing) are not instructions for ML practice.
+
+## Limitations
+
+- **No new data, and an interested survey.** The planarian evidence is
+  the authors' own result and a 1960s literature they hope to revive.
+  Replication failures in that literature are mentioned, not weighed.
+- **Its own planarian result is one sentence.** It gives no numbers, nor
+  the reminder session the 2013 result needed.
+- **Some cases are loosely placed.** Cowley and Griesel's transgenerational
+  malnutrition in rats is offered in the memory-transfer story, though it
+  is not memory transfer. The "ground squirrel" result called clearest is,
+  by its reference, in Alpine marmots.
+- **Citation and wording errors.**
+  - Adipose antioxidant levels in ground squirrels are cited to ref. 26,
+    which is a paper on human glial chimeric mice.
+  - *Drosophila* pupae "contaminated with methanol": the cited study
+    (Barron and Corbet 1999), as the 2008 paper reports it, used menthol.
+  - Alloway's paper is listed as 1971; it is 1972.
+  - "polyphogous"; "neutrally-derived" for neurally derived; "paring" for
+    pairing; "following regenerating?"; "tail fragments without brain
+    cannot be the conditioned"; "rats and mice create, the field";
+    "(counter McCulloch) than the CNS"; "persistence though brain
+    remodeling"; "for larvae to adult"; "a crucial significant component";
+    mismatched quotation marks around "Hopkins' host-selection principle".
+
+## Open questions
+
+- Which tissue in a headless planarian fragment holds the memory? The
+  programme's first question, unanswered here.
+- Do both halves of a cut, trained planarian keep the memory under modern,
+  automated scoring? That is the fission case, and McConnell's report of
+  it is sixty years old.
+- Does ablating the persisting mushroom-body neurons abolish
+  trans-metamorphic memory? The perspective calls the evidence indirect;
+  the 2008 paper proposed the test.

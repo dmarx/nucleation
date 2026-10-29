@@ -1,8 +1,12 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmp11g34) from the publisher's PDF (PLoS
+  ONE, CC BY), checked against Europe PMC's XML (PMC2248710); worth
+  reading as the clean modern demonstration that a single conditioned
+  aversion survives insect metamorphosis, with contamination controls and
+  a timing dissociation that points to surviving neurons as the carrier;
+  one odour, one lab and adult groups of 15 to 31.
 title: 'Retention of Memory through Metamorphosis: Can a Moth Remember What It Learned As a Caterpillar?'
 version: 1
 history:
@@ -11,10 +15,14 @@ history:
   note: >-
     Filed, not read, on the owner's word of 2026-10-29, on memory that
     persists through metamorphosis and regeneration (QUESTION-tmpws54x).
-    Crossref: PLoS ONE 3(3), e1736; online 2008-03-05, so `published:` is
-    that date (ADR-002). Open, CC BY. A 2026 report says a Kobe schoolboy,
-    Jo Nagai, repeated the design with swallowtails, advised by Weiss;
-    that work is unpublished as of 2026-10-29 and is not filed.
+    Crossref: PLoS ONE 3(3), e1736; online 2008-03-05, so `published:`
+    is that date (ADR-002). Open, CC BY. A 2026 report says a Kobe
+    schoolboy, Jo Nagai, repeated the design with swallowtails, advised
+    by Weiss; that work is unpublished as of 2026-10-29 and is not
+    filed. Set Active the same day: read in full in NOTE-tmp11g34 from
+    the publisher's PDF (PLoS ONE, CC BY), checked against Europe PMC's
+    XML (PMC2248710), not compared with the published text, where there
+    is one. The filing summary is replaced by the reading's.
 tags:
 - neuroscience
 - individuation
@@ -30,15 +38,14 @@ keywords:
 - 'mushroom bodies'
 implementations: []
 summary: >-
-  Blackiston, Silva Casey & Weiss (2008). Tobacco hornworm caterpillars trained to associate an odour with mild shock avoided it as larvae and, when trained in the last larval stage, still avoided it as adult moths, though not when trained earlier. The authors argue that an associative memory can survive the reorganization of the nervous system in metamorphosis, and test against the alternative that odour residue carried over in the body.
+  Blackiston, Silva Casey & Weiss (2008). Tobacco hornworm caterpillars (*Manduca sexta*) trained by pairing ethyl acetate with mild shock avoided the odour (78% of 41 fifth instars). Moths that had been trained as fifth instars still avoided it, four to five weeks and a metamorphosis later (77% of 27), and 80% of the tracked moths made the choice they had made as larvae. Odour alone, shock alone and backward pairing had no effect. Caterpillars trained at third instar kept the aversion through two larval molts but lost it as moths. Washing the pupae of trained larvae did not remove the adult aversion, and putting the odour on naive pupae did not create one, so chemical residue on the pupal case does not explain it. The authors suggest, by analogy with *Drosophila*, that the memory survives in mushroom-body neurons that form late in larval life and keep their projections through metamorphosis; they did not examine the brain.
 ---
 
 # LIT-tmp0v56k: Retention of Memory through Metamorphosis: Can a Moth Remember What It Learned As a Caterpillar?
 
 Blackiston, D. J., Silva Casey, E. & Weiss, M. R. (2008). *PLoS ONE*, 3(3), e1736.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmp11g34, from the publisher's PDF (PLoS ONE, CC BY), checked against Europe PMC's XML (PMC2248710).
 
 ## Why this is here
 

@@ -1,8 +1,11 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmp6fm86) from Europe PMC's full-text XML
+  (PMC4802789, CC BY-NC), cited by section; worth reading as the Levin
+  lab's map of the cases and its hypothesis that memory can live outside
+  the brain; a programme, not evidence, which restates its own planarian
+  result in one sentence.
 title: 'The stability of memories during brain remodeling: A perspective'
 version: 1
 history:
@@ -13,6 +16,10 @@ history:
     persists through metamorphosis and regeneration (QUESTION-tmpws54x).
     Crossref: Communicative & Integrative Biology 8(5), e1073424; online
     2015-08-27, so `published:` is that date (ADR-002). Open, CC BY-NC.
+    Set Active the same day: read in full in NOTE-tmp6fm86 from Europe
+    PMC's full-text XML (PMC4802789, CC BY-NC), cited by section, not
+    compared with the published text, where there is one. The filing
+    summary is replaced by the reading's.
 tags:
 - neuroscience
 - individuation
@@ -28,15 +35,14 @@ keywords:
 - 'hibernation'
 implementations: []
 summary: >-
-  Blackiston, Shomrat & Levin (2015). A perspective reviewing cases in which memories survive drastic remodelling of the brain, insect metamorphosis, planarian regeneration and other cases, and asking what they imply for where and how memories are stored.
+  Blackiston, Shomrat & Levin (2015). A perspective gathering three animal systems in which learned behaviour is reported to survive drastic remodelling of the brain: metamorphosing insects, where odour-shock aversions learned by fly and moth larvae persist in adults; planaria, where McConnell's 1960s work and the authors' automated replication report memory surviving head regeneration; and hibernating ground squirrels and marmots, whose hippocampal dendrites are pruned in torpor and regrow on arousal. The authors argue that synaptic plasticity alone cannot explain lifelong memory, propose a "blueprint" kept by another mechanism, and suggest that in planaria memory may be stored outside the brain, possibly in neoblasts or in non-neural bioelectric networks, and imprinted on the regenerating brain. They set out a research programme to test it. No new data.
 ---
 
 # LIT-tmpaazd0: The stability of memories during brain remodeling: A perspective
 
 Blackiston, D. J., Shomrat, T. & Levin, M. (2015). *Communicative & Integrative Biology*, 8(5), e1073424.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmp6fm86, from Europe PMC's full-text XML (PMC4802789, CC BY-NC), cited by section.
 
 ## Why this is here
 

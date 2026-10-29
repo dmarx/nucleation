@@ -253,3 +253,48 @@ self-regarding. They support its shape and move its boundary.
   shared the same national memory. If an ancestral injury is carried as
   part of a self, it is carried by the group, not handed down in the
   family.
+
+## Note of 2026-10-29: the remaining sources on the self, read
+
+Four works the thesis was filed against have now been read. They agree on
+one point: what group membership changes is the self's content or
+self-image, and none of them shows a self enlarged to take in the group's
+good.
+
+- **Markus and Kitayama ground the premise, not the conclusion**
+  (NOTE-tmpd4jen). For interdependent selves, "others are included
+  *within* the boundaries of the self" (p. 245), and the authors name the
+  thesis's middle position, "an alternative to selfishness … besides
+  selflessness" (p. 247). But this "does not result in a merging of self
+  and other" (p. 228). The interdependent self is made of relations and
+  roles, and its in-group may be narrower, not larger. The authors read
+  the resulting action as possibly "genuine, other-oriented, altruistic"
+  (p. 248). They also split collectivist motive in two (p. 229):
+  - others' goals taken as one's own, which is the thesis;
+  - others' goals met as the price of watched reciprocity, which needs no
+    extended self.
+- **Akerlof and Kranton make it true only in the trivial sense**
+  (NOTE-tmpwgpmb). Identity-driven sacrifice maximizes a utility that
+  includes identity. The identity is a self-image, kept by following one's
+  categories' prescriptions. No group's welfare enters anyone's utility,
+  and a fellow member's deviance is a loss one may relieve by harming
+  them. Their criterion of the self's extent, category assignment partly
+  fixed by others, could come apart from caring (CLAIM-tmprudek). But its
+  weights are free parameters read off the behaviour they explain.
+- **Zahavi: a "we" is "not an enlarged I"** (NOTE-tmphi7ls, p. 10). It keeps
+  the plurality it unites. Identification changes how one apprehends
+  oneself, as one of us seen through another's eyes: a changed self more
+  than a larger one. His account covers only the face-to-face "we".
+- **The self-esteem hypothesis: benefit without motive** (Rubin and
+  Hewstone, NOTE-tmpdzv60). This is social identity theory's own version
+  of the thesis. Favouring the group tends to raise self-esteem (18
+  experiments for, 13 against), but a need for self-esteem rarely drives
+  it (7 for, 28 against). A benefit that follows group-serving action
+  without motivating it does not show the action aimed at the self's good.
+  The group-level motive was nearly untested; the two studies that
+  measured it both support it.
+
+The thesis survives these readings only as the claim that the self served
+is a self-concept. That is the third sense of "self-interest" the note on
+Scheffler named. On that reading, CLAIM-tmprudek's demand for a criterion
+apart from caring is still unmet.
