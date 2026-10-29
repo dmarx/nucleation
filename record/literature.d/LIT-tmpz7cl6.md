@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpl7p19), in place of LIT-tmphj5mc, which
+  read in full 2026-10-29 ([NOTE-tmpl7p19](../notes.d/NOTE-tmpl7p19.md)), in place of [LIT-tmphj5mc](LIT-tmphj5mc.md), which
   could not be reached; worth reading as a map of the death-harm debate
   with its premises made explicit. It gives Pitcher's account of
   posthumous harm in a paragraph, without his ante-mortem person.
@@ -38,9 +38,9 @@ summary: >-
 
 Luper, S. (2026). Death. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy*. First published 22 May 2002; substantive revision 28 July 2026.
 
-Read in full in NOTE-tmpl7p19.
+Read in full in [NOTE-tmpl7p19](../notes.d/NOTE-tmpl7p19.md).
 
 ## Why this is here
 
-Read in place of LIT-tmphj5mc, which could not be reached. NOTE-tmpl7p19 says what it
+Read in place of [LIT-tmphj5mc](LIT-tmphj5mc.md), which could not be reached. [NOTE-tmpl7p19](../notes.d/NOTE-tmpl7p19.md) says what it
 reports of it and what is still missing.

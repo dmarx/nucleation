@@ -5,9 +5,9 @@ status_note: >-
   reached. Unpaywall lists no open copy and a web search found none posted
   by an author, their institution or the publisher; the 1984 article is
   closed at JSTOR and the 1993 reprint at De Gruyter. No NOTE is filed. It
-  stays Unavailable until a copy is supplied (ADR-041). Read in its place,
+  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its place,
   and not a substitute for reading it: Luper's SEP entry on death
-  (LIT-tmpz7cl6).
+  ([LIT-tmpz7cl6](LIT-tmpz7cl6.md)).
 title: 'The Misfortunes of the Dead'
 version: 1
 history:
@@ -55,7 +55,7 @@ The classic case for interests that reach past one's death. If one can have inte
 
 The work cannot be read here, so the record holds it at second hand.
 
-Luper's SEP entry (NOTE-tmpl7p19) gives Pitcher's position in two places.
+Luper's SEP entry ([NOTE-tmpl7p19](../notes.d/NOTE-tmpl7p19.md)) gives Pitcher's position in two places.
 In §4.2 it credits him with priorism: a desire you have now can be
 thwarted by a death months away, so the death may make you worse off now.
 In §6.2 it gives his account of posthumous harm: posthumous events harm us

@@ -175,9 +175,9 @@ raises the concern and they look for what they have (p. 127).
 
 ## Connections
 
-- **Lifton 1979 (LIT-tmpcbh59)**, unread. Cited for four points only.
-- **Generativity (LIT-tmptv1qs)** and **terror management theory
-  (LIT-tmp2s109)** use the same concept; the thesis cites neither, and
+- **Lifton 1979 ([LIT-tmpcbh59](../literature.d/LIT-tmpcbh59.md))**, unread. Cited for four points only.
+- **Generativity ([LIT-tmptv1qs](../literature.d/LIT-tmptv1qs.md))** and **terror management theory
+  ([LIT-tmp2s109](../literature.d/LIT-tmp2s109.md))** use the same concept; the thesis cites neither, and
   predates most of the latter.
 - **Scheffler (NOTE-tmpwnl8h-scheffler).** His non-believers go on valuing
   without a personal afterlife; here the secular modes are accepted by
@@ -187,7 +187,7 @@ raises the concern and they look for what they have (p. 127).
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** Symbolic immortality is the
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** Symbolic immortality is the
   thesis's reading of legacy in psychological form: one lives on through
   children or works. Three results bear on it. These are inferences.
   - *It is not felt as survival.* Those who accept the biological,
@@ -202,17 +202,17 @@ raises the concern and they look for what they have (p. 127).
   - *Only one mode is a self-extension by definition.* Experiential
     transcendence is defined as an expansion of the self; it is tied to
     religion and is about the present, not legacy.
-- **The owner's thesis (CLAIM-tmpjylq8).** Nothing here tests whether
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Nothing here tests whether
   concern for children or the future follows a felt continuity of self;
   no overlap or identification measure was used. The survey measures
   consolation under imagined dying. It neither supports nor threatens the
   thesis.
-- **The triviality objection (CLAIM-tmprudek).** The availability and
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The availability and
   acceptance split is a model for the test the objection asks for, at a
   distance: whether one *has* children is independent of how one feels
   about them. A study that added a self–child or self–future continuity
   measure could ask which predicts acting for one's legacy.
-- **A short dated note on QUESTION-tmpruhu4** is proposed below. **No note
+- **A short dated note on [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)** is proposed below. **No note
   to the claim. No THEORY filed. No ML instruction.**
 
 ## Limitations

@@ -8,7 +8,7 @@ status_note: >-
   there; the authors' own deposits at Columbia Academic Commons hold the
   study materials and data, not the article. Only press coverage reports
   its results, so no work was read in its place. No NOTE is filed. It
-  stays Unavailable until a copy is supplied (ADR-041).
+  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)).
 title: 'How Will I Be Remembered? Conserving the Environment for the Sake of One''s Legacy'
 version: 1
 history:

@@ -141,7 +141,7 @@ long-term best interests of the collective" (p. 9).
 
 ## Connections
 
-- **Wade-Benzoni et al. 2012 (LIT-tmpm5do0)**, unread. Cited once by name
+- **Wade-Benzoni et al. 2012 ([LIT-tmpm5do0](../literature.d/LIT-tmpm5do0.md))**, unread. Cited once by name
   among laboratory studies of intergenerational allocation (p. 2). The
   claim that "implicitly priming them with thoughts of death" mitigates
   discounting is attributed to "Wade-Benzoni, 2002" (p. 2), which is the
@@ -152,22 +152,22 @@ long-term best interests of the collective" (p. 9).
   individual action on climate change" (p. 2). That overstates it: the 2010
   paper manipulated benefits versus burdens, not legacy, and its climate
   studies measured attitudes, not action.
-- **Zaval et al. 2015 (LIT-tmpetcju)**, unread. Cited with the 2010 paper
+- **Zaval et al. 2015 ([LIT-tmpetcju](../literature.d/LIT-tmpetcju.md))**, unread. Cited with the 2010 paper
   for individual climate action.
-- **Gardiner's perfect moral storm (LIT-tmp12vk2)**, unread. The game is a
+- **Gardiner's perfect moral storm ([LIT-tmp12vk2](../literature.d/LIT-tmp12vk2.md))**, unread. The game is a
   laboratory model of the storm's intergenerational strand: each
   generation gains by deferring costs to one that cannot retaliate. This
   is the record's inference; the paper does not cite Gardiner.
-- **Terror management (LIT-tmp2s109).** The mortality salience message
+- **Terror management ([LIT-tmp2s109](../literature.d/LIT-tmp2s109.md)).** The mortality salience message
   draws on it, but here death awareness is meant to trigger legacy
   building, not worldview defence.
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** These are inferences.
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** These are inferences.
   - The authors take a side among the question's readings without testing
     it. Their legacy is a reputation kept after death, which is Pitcher's
-    reading (LIT-tmphj5mc), interests that outlast one, as much as the
+    reading ([LIT-tmphj5mc](../literature.d/LIT-tmphj5mc.md)), interests that outlast one, as much as the
     thesis's extended self. Either way they call it self-interest.
   - The induction cannot separate the readings. It bundles three routes.
     One, "We Are One With Future Generations", with its caption "We are
@@ -183,26 +183,26 @@ long-term best interests of the collective" (p. 9).
     describes no record of who paid for the trees. If the motive worked, it worked through a "we" that is
     remembered, not through any individual's name. That is where the
     question's temporal and social extensions of the self meet, and it is
-    the same meeting Castano et al. (LIT-tmpd9qw4) propose.
-  - QUESTION-tmpruhu4 asks whether legacy priming raises beneficence where
+    the same meeting Castano et al. ([LIT-tmpd9qw4](../literature.d/LIT-tmpd9qw4.md)) propose.
+  - [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md) asks whether legacy priming raises beneficence where
     no one will know. Here no future person would know who gave, but the
     messages told players they would be remembered as a generation. So the
     study does not answer it.
-- **What the living owe the future (QUESTION-tmpmx9ha).** The game makes
+- **What the living owe the future ([QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md)).** The game makes
   Gardiner's storm concrete. Without a legacy frame, 8 of 10 groups let a
   benefit to future people fail rather than give up $20 each. The
   remedy that worked appeals to what the living value about themselves,
-  which is the nearest ground to Scheffler's (LIT-tmpl4qml), not to the
+  which is the nearest ground to Scheffler's ([LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md)), not to the
   good of future people as such. That is an inference from the message
   content.
-- **The owner's thesis (CLAIM-tmpjylq8).** The authors' interpretation is
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The authors' interpretation is
   the thesis in time: cooperation with the future as self-interest on a
   self projected past death. But nothing measures the self, so the paper
   is evidence that legacy messages work, not that they work through an
   extended self.
-- **The triviality objection (CLAIM-tmprudek)** and **Batson's objection
-  (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note on QUESTION-tmpruhu4 is proposed.** Text:
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md))** and **Batson's objection
+  ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note on [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md) is proposed.** Text:
 
   > Hurlstone et al. (NOTE-tmpebx4k), read in place of Wade-Benzoni et al.
   > 2012, move legacy to group cooperation. In a climate threshold game,

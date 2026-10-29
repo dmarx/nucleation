@@ -148,11 +148,11 @@ altruistic motives" (§2).
 
 ## Connections
 
-- **McAdams and de St. Aubin 1992 (LIT-tmptv1qs)**, the work this note
+- **McAdams and de St. Aubin 1992 ([LIT-tmptv1qs](../literature.d/LIT-tmptv1qs.md))**, the work this note
   stands in for. The authors adopt its model and quote it twice. They
   use its scale (the LGS) in their intervention but describe neither its
   items nor its scoring.
-- **Lifton (LIT-tmpcbh59)** is not cited. "Symbolic immortality"
+- **Lifton ([LIT-tmpcbh59](../literature.d/LIT-tmpcbh59.md))** is not cited. "Symbolic immortality"
   arrives via McAdams.
 - **Sandoval-Obando et al. 2026**, read alongside, validates the LGS and
   finds a "Generative Legacy" factor that separates from generative
@@ -160,7 +160,7 @@ altruistic motives" (§2).
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** The paper confirms the
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** The paper confirms the
   question's report of McAdams: symbolic immortality is one of the inner
   desires behind care for the next generation. The bearing, as
   inference:
@@ -175,15 +175,15 @@ altruistic motives" (§2).
     altruistic.
   - **The test the question asks for is not run.** Nothing here measures
     the symbolic-immortality motive apart from concern and asks which
-    predicts action. That is CLAIM-tmprudek's test in time.
+    predicts action. That is [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s test in time.
 - **Well-being as a return** (inference). Generativity predicting life
   satisfaction fits the thesis's reading that acting for others serves
   the actor. It fits equally a reading in which caring is valued for its
   own sake and satisfaction follows. Cross-sectional data cannot choose.
-- **Batson's objection (CLAIM-tmpybc4k).** The authors separate
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** The authors separate
   generativity from empathy and altruism but do not test either against
   the other. Not addressed.
-- **A dated note on QUESTION-tmpruhu4**, jointly with Sandoval-Obando et
+- **A dated note on [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)**, jointly with Sandoval-Obando et
   al. Proposed text: "Two works read in place of McAdams and de St. Aubin
   (1992) confirm its model: generativity has two personal motives, a need
   to be needed and a need for symbolic immortality, 'to invest resources
@@ -194,7 +194,7 @@ altruistic motives" (§2).
   apart from concern. A Chilean validation of the scale finds a 'legacy'
   factor separable from generative action (r = .45; Sandoval-Obando et
   al., NOTE-YYYY), which is the kind of measure such a test would need."
-  No note is needed on CLAIM-tmpjylq8.
+  No note is needed on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).
 - **No THEORY filed.**
 - **No ML instruction.**
 

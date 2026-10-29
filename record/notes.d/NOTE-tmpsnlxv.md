@@ -118,11 +118,11 @@ unsettling" (book p. 109).
   2 and 5 of the Tanner text, which fits Crossref's placing of the two
   lectures at pp. 14–82.
 - **Williams on the Makropulos case**, which the third lecture accepts.
-- **Parfit (THEORY-464)**, from whom Cottingham distinguishes Scheffler.
+- **Parfit ([THEORY-464](../theory.d/THEORY-464.md))**, from whom Cottingham distinguishes Scheffler.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** Two points, both inferences.
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Two points, both inferences.
   - Cottingham reads the book as "a more altruistic construal" and says
     Scheffler finds us "far less selfish than is often supposed". The
     Tanner text says the opposite about altruism: the result is
@@ -133,7 +133,7 @@ unsettling" (book p. 109).
     evolution rather than from the self; Wolf's is the opposite: that the
     value of our projects does not depend on the collective afterlife at
     all, which would remove the case altogether.
-- **The legacy question (QUESTION-tmpruhu4).** The third lecture's pairing
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** The third lecture's pairing
   is relevant: we need our own death for our values and others' lives
   after it for our confidence in them. Legacy, on this picture, is not a
   substitute for survival.

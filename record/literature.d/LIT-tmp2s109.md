@@ -4,9 +4,9 @@ status_note: >-
   filed 2026-10-29; reading attempted the same day, no lawful copy
   reached. Unpaywall lists no open copy and a web search found none posted
   by an author, their institution or the publisher. No NOTE is filed. It
-  stays Unavailable until a copy is supplied (ADR-041). Read in its place,
+  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its place,
   and not a substitute for reading it: Many Labs 4 (Klein et al. 2022)
-  (LIT-tmpzqqju) and Chen et al. 2025 (LIT-tmpg3ver).
+  ([LIT-tmpzqqju](LIT-tmpzqqju.md)) and Chen et al. 2025 ([LIT-tmpg3ver](LIT-tmpg3ver.md)).
 title: 'Two Decades of Terror Management Theory: A Meta-Analysis of Mortality Salience Research'
 version: 1
 history:
@@ -52,7 +52,7 @@ The quantitative summary of terror management theory, on which a self that seeks
 
 The work cannot be read here, so the record holds it at second hand.
 
-Many Labs 4 (NOTE-tmpzgbo9) takes one figure from Burke et al.: 79.8% of
+Many Labs 4 ([NOTE-tmpzgbo9](../notes.d/NOTE-tmpzgbo9.md)) takes one figure from Burke et al.: 79.8% of
 the mortality-salience studies it covered used the
 writing-about-one's-death induction. It cites the meta-analysis as a
 source on TMT and intergroup conflict, and then tests the field's
@@ -62,7 +62,7 @@ moderator analyses (delay, type of control, type of defense) and any test
 for publication bias. Chen et al. 2025 supplies the first two (r = .35
 over 277 studies) and re-runs the analysis with bias corrections.
 
-Chen et al. (NOTE-tmpc43sa) give Burke et al.'s design and headline: a
+Chen et al. ([NOTE-tmpc43sa](../notes.d/NOTE-tmpc43sa.md)) give Burke et al.'s design and headline: a
 random-effects meta-analysis of 277 mortality-salience studies, with no
 bias correction, finding an average r = .35, and a later re-analysis (Yen
 and Cheng 2013) attributing much variance to experimenter effects. They

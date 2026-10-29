@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpzgbo9), in place of LIT-tmp2s109, which
+  read in full 2026-10-29 ([NOTE-tmpzgbo9](../notes.d/NOTE-tmpzgbo9.md)), in place of [LIT-tmp2s109](LIT-tmp2s109.md), which
   could not be reached; worth reading as the best-powered direct test of
   terror management theory's worldview-defense prediction, and as the
   fullest record of how its original authors think the effect must be
@@ -42,9 +42,9 @@ summary: >-
 
 Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., Hilgard, J., ... Ratliff, K. A. (2022). *Collabra: Psychology*, 8(1), 35271.
 
-Read in full in NOTE-tmpzgbo9.
+Read in full in [NOTE-tmpzgbo9](../notes.d/NOTE-tmpzgbo9.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp2s109, which could not be reached. NOTE-tmpzgbo9 says what it
+Read in place of [LIT-tmp2s109](LIT-tmp2s109.md), which could not be reached. [NOTE-tmpzgbo9](../notes.d/NOTE-tmpzgbo9.md) says what it
 reports of it and what is still missing.

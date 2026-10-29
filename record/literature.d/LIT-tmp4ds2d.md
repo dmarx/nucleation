@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-10-29 (NOTE-tmpwnl8h), in place of LIT-tmpcbh59, which
+  skimmed 2026-10-29 ([NOTE-tmpwnl8h](../notes.d/NOTE-tmpwnl8h.md)), in place of [LIT-tmpcbh59](LIT-tmpcbh59.md), which
   could not be reached; worth reading as a review of how Rank's and
   Lifton's modes were measured by 1991, and as one survey showing that the
   secular modes go with accepting death as final. It is a modest test that
@@ -43,9 +43,9 @@ summary: >-
 
 Sturesteps, V. A. (1992). *The Concept and Psychological Consequences of Symbolic Immortality*. Master's thesis, Department of Psychology, Australian National University.
 
-Skimmed in NOTE-tmpwnl8h.
+Skimmed in [NOTE-tmpwnl8h](../notes.d/NOTE-tmpwnl8h.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpcbh59, which could not be reached. NOTE-tmpwnl8h says what it
+Read in place of [LIT-tmpcbh59](LIT-tmpcbh59.md), which could not be reached. [NOTE-tmpwnl8h](../notes.d/NOTE-tmpwnl8h.md) says what it
 reports of it and what is still missing.

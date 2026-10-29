@@ -6,8 +6,8 @@ status_note: >-
   by an author, their institution or the publisher. The Internet Archive
   holds it only as a lending item; Lifton's own 1973 restatement is
   closed. No NOTE is filed. It stays Unavailable until a copy is supplied
-  (ADR-041). Read in its place, and not a substitute for reading it:
-  Sturesteps 1992 (LIT-tmp4ds2d).
+  ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and not a substitute for reading it:
+  Sturesteps 1992 ([LIT-tmp4ds2d](LIT-tmp4ds2d.md)).
 title: 'The Broken Connection: On Death and the Continuity of Life'
 version: 1
 history:
@@ -55,7 +55,7 @@ The source of the notion of symbolic immortality that terror management theory a
 
 The work cannot be read here, so the record holds it at second hand.
 
-Sturesteps's thesis (NOTE-tmpwnl8h) gives the five modes and how they were
+Sturesteps's thesis ([NOTE-tmpwnl8h](../notes.d/NOTE-tmpwnl8h.md)) gives the five modes and how they were
 measured by 1991. It reports four points from the book: that the struggle
 for a sense of immortality is a prime human aim, "immortality hunger" (pp.
 17, 284); psychic numbing (pp. 144–145); and Lifton's claim that the

@@ -5,9 +5,9 @@ status_note: >-
   reached. Unpaywall lists no open copy and a web search found none posted
   by an author, their institution or the publisher; Scholars@Duke and the
   co-authors' Duke pages list it without a file. No NOTE is filed. It
-  stays Unavailable until a copy is supplied (ADR-041). Read in its place,
+  stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its place,
   and not a substitute for reading it: Hurlstone et al. 2020
-  (LIT-tmpwj5at).
+  ([LIT-tmpwj5at](LIT-tmpwj5at.md)).
 title: 'It''s Only a Matter of Time: Death, Legacies, and Intergenerational Decisions'
 version: 1
 history:

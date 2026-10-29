@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpebx4k), in place of LIT-tmpm5do0, which
+  read in full 2026-10-29 ([NOTE-tmpebx4k](../notes.d/NOTE-tmpebx4k.md)), in place of [LIT-tmpm5do0](LIT-tmpm5do0.md), which
   could not be reached; worth reading as a conceptual extension of the
   2012 mortality-and-legacy result to group cooperation, and as the
-  record's nearest substitute for Wade-Benzoni et al. 2012 (LIT-tmpm5do0).
+  record's nearest substitute for Wade-Benzoni et al. 2012 ([LIT-tmpm5do0](LIT-tmpm5do0.md)).
   Read it knowing that its legacy induction bundles three mechanisms, one
   of them identification with past and future generations, so it cannot
   say which did the work.
@@ -44,9 +44,9 @@ summary: >-
 
 Hurlstone, M. J., Price, A., Wang, S., Leviston, Z. & Walker, I. (2020). *Global Environmental Change*, 60, 102008.
 
-Read in full in NOTE-tmpebx4k.
+Read in full in [NOTE-tmpebx4k](../notes.d/NOTE-tmpebx4k.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpm5do0, which could not be reached. NOTE-tmpebx4k says what it
+Read in place of [LIT-tmpm5do0](LIT-tmpm5do0.md), which could not be reached. [NOTE-tmpebx4k](../notes.d/NOTE-tmpebx4k.md) says what it
 reports of it and what is still missing.
