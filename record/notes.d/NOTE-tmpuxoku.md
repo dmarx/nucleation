@@ -179,12 +179,12 @@ of the optimizer" at γ = 1 (p. 17).
   IB for the same goal and are limited to unconfounded cases (p. 8).
 - **Causal abstraction of models** (Rubenstein et al.; Beckers and Halpern;
   Beckers, Eberhardt and Halpern), and its learning by Zennaro et al.,
-  Xia and Bareinboim and Felekis et al. (LIT-tmpdrddx): "In contrast, our
+  Xia and Bareinboim and Felekis et al. ([LIT-tmpdrddx](../literature.d/LIT-tmpdrddx.md)): "In contrast, our
   method does not learn an abstraction of an SCM, but a an abstraction of a
   (set of) variable(s) X which is causally relevant" (p. 8).
 - **Simoes et al. 2023, 2024** define causal entropy and causal
   information gain (p. 3).
-- In the record, **THEORY-743** is the observational counterpart: every IB
+- In the record, **[THEORY-743](../theory.d/THEORY-743.md)** is the observational counterpart: every IB
   optimum is a stochastic coarsening of the minimal sufficient partition
   by p(y | x), reached as β → ∞ and in general not at finite β.
   Proposition 20 is the same statement with p(y | do(x)) for p(y | x), at
@@ -192,37 +192,37 @@ of the optimizer" at γ = 1 (p. 17).
 
 ## Bearing on the record
 
-- **CLAIM-152 and CLAIM-348: support, in a formal setting.** An OCVA is
+- **[CLAIM-152](../claims.d/CLAIM-152.md) and [CLAIM-348](../claims.d/CLAIM-348.md): support, in a formal setting.** An OCVA is
   defined relative to a target Y and to a level D of control; change Y and
   a different partition is optimal. The paper's own example shows the
   record's point that adequacy is fixed by the target: the optimal
   abstraction of four mutation sites for body mass ignores X₄ entirely
-  (p. 7). CLAIM-348's caution holds unchanged: the paper chooses Y and
+  (p. 7). [CLAIM-348](../claims.d/CLAIM-348.md)'s caution holds unchanged: the paper chooses Y and
   never argues that body mass is the outcome that matters. It adds a second
   relativity the record should note, to the intervention protocol: Ic is
   computed under a uniform distribution over interventions on X (p. 12),
   and a different protocol weights the classes differently.
-- **CLAIM-259 and the record's Blackwell material: a single-task, single-
-  protocol relative of the decision term, not an instance.** CLAIM-259's
+- **[CLAIM-259](../claims.d/CLAIM-259.md) and the record's Blackwell material: a single-task, single-
+  protocol relative of the decision term, not an instance.** [CLAIM-259](../claims.d/CLAIM-259.md)'s
   D⁺ is a supremum of risk increases over a family of decision problems
   and priors, vanishing exactly at Blackwell dominance. The CIB scores one
   target by one entropy-based quantity under one protocol. Proposition 20's
   proof is the concavity step that also underlies the easy direction of
-  Blackwell's theorem (THEORY-1096): averaging the interventional laws over
+  Blackwell's theorem ([THEORY-1096](../theory.d/THEORY-1096.md)): averaging the interventional laws over
   a cell cannot lower the expected entropy. So a coarsening of X never
   gains causal information over X (the inequality in the proof), which is
-  CLAIM-409's refinement monotonicity for a fixed target, with
+  [CLAIM-409](../claims.d/CLAIM-409.md)'s refinement monotonicity for a fixed target, with
   "interventional" in place of "predictive" sufficiency.
-- **CLAIM-455: compatible, and orthogonal.** CLAIM-455 is about a bounded
+- **[CLAIM-455](../claims.d/CLAIM-455.md): compatible, and orthogonal.** [CLAIM-455](../claims.d/CLAIM-455.md) is about a bounded
   receiver for whom a garbling can raise legibility. The CIB has no bounded
   receiver: Ic is computed from exact distributions. The two would meet
   if T were scored by what a bounded agent can do with it.
-- **CLAIM-409: consistent, as above**, and the paper's check (c), causal
+- **[CLAIM-409](../claims.d/CLAIM-409.md): consistent, as above**, and the paper's check (c), causal
   information gain non-decreasing in γ, is the optimiser-level counterpart.
-- **CLAIM-399 and THEORY-849: a different object.** The CIB abstracts a
+- **[CLAIM-399](../claims.d/CLAIM-399.md) and [THEORY-849](../theory.d/THEORY-849.md): a different object.** The CIB abstracts a
   variable for a target, not a model, and its intervention on T is defined
   by fiat, so the question of whether high-level noise carries what the
-  coarse state drops does not arise in CLAIM-399's form. The stipulated
+  coarse state drops does not arise in [CLAIM-399](../claims.d/CLAIM-399.md)'s form. The stipulated
   decoder means do(T = t) is a randomised intervention on X; nothing makes
   it the mechanism of any physical T (p. 15).
 - **The difference between supporting prediction and supporting control**,
@@ -230,8 +230,8 @@ of the optimizer" at γ = 1 (p. 17).
   Genetic Mutations SCM the observational partition has ten classes and
   the causal one four (my computation), and the IB's γ = 1 abstraction is
   not the causal one (Appendix F.2).
-- **Two THEORYs**: THEORY-tmp2fevr (Proposition 20, Active) and
-  THEORY-tmppip5e (IB against CIB under confounding in the toy SCMs,
+- **Two THEORYs**: [THEORY-tmp2fevr](../theory.d/THEORY-tmp2fevr.md) (Proposition 20, Active) and
+  [THEORY-tmppip5e](../theory.d/THEORY-tmppip5e.md) (IB against CIB under confounding in the toy SCMs,
   Proposed).
 - **No instruction for ML practice**; not an anthology candidate.
 
@@ -261,7 +261,7 @@ of the optimizer" at γ = 1 (p. 17).
   with a non-uniform p*, or with the observational p(x) as protocol,
   would show whether the γ < 1 abstractions are stable.
 - Does the CIB hierarchy over γ nest, each coarser abstraction a
-  coarsening of the finer? THEORY-743 leaves the same question open for
+  coarsening of the finer? [THEORY-743](../theory.d/THEORY-743.md) leaves the same question open for
   the IB.
 - For continuous X, does a variational version keep Proposition 20? The
   authors propose variational autoencoders (p. 8); the concavity argument

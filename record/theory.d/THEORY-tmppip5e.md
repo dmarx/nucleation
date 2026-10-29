@@ -17,8 +17,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpagj3g
 summary: >-
-  Simoes, Dastani and van Ommen (UAI 2025), LIT-tmpagj3g, §8 and
-  Appendices E–F, read in NOTE-tmpuxoku. Three SCMs with 7, 4 and 16
+  Simoes, Dastani and van Ommen (UAI 2025), [LIT-tmpagj3g](../literature.d/LIT-tmpagj3g.md), §8 and
+  Appendices E–F, read in [NOTE-tmpuxoku](../notes.d/NOTE-tmpuxoku.md). Three SCMs with 7, 4 and 16
   values of X; ensembles of 4 to 12 optimisers; a penalty against unused
   values of T was needed at full control. The difference between the
   partitions follows from the definitions; what the experiments add is
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Simoes, Dastani and van Ommen (2025), LIT-tmpagj3g, §8 (pp. 5–7) and
-Appendices E–F (pp. 16–20) of arXiv 2410.00535v5; read in NOTE-tmpuxoku.
+Simoes, Dastani and van Ommen (2025), [LIT-tmpagj3g](../literature.d/LIT-tmpagj3g.md), §8 (pp. 5–7) and
+Appendices E–F (pp. 16–20) of arXiv 2410.00535v5; read in [NOTE-tmpuxoku](../notes.d/NOTE-tmpuxoku.md).
 
 ## What was actually shown
 
@@ -54,7 +54,7 @@ On Genetic Mutations it does not separate X₃'s protective effect and is not
 invariant in X₄, which has no effect on Y (Table 2, p. 20).
 
 **My check.** On the Genetic Mutations SCM the observational partition has
-ten classes and the causal one four (NOTE-tmpuxoku).
+ten classes and the causal one four ([NOTE-tmpuxoku](../notes.d/NOTE-tmpuxoku.md)).
 
 **What could have failed.** The local search could have stuck in poor
 optima, as the authors report it did before they added a penalty against

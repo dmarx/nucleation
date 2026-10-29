@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpani5h) from arXiv v4; worth reading for
+  read in full 2026-10-29 ([NOTE-tmpani5h](../notes.d/NOTE-tmpani5h.md)) from arXiv v4; worth reading for
   the cleanest statement of what a sheaf's restriction maps decide about
   diffusion: which labellings its harmonic space can separate, class by
   class of maps, with proofs. The separating sheaves are all built from
@@ -64,7 +64,7 @@ Bodnar, C., Di Giovanni, F., Chamberlain, B. P., Liò, P., & Bronstein, M. M. (2
 
 A5 set it beside [LIT-tmpr8qf7](LIT-tmpr8qf7.md): correspondence maps learned from data, general linear and not constrained to a group, which is where [QUESTION-282](../questions.d/QUESTION-282.md) asks what fixes a correspondence. [LIT-tmpr8qf7](LIT-tmpr8qf7.md) cites it (ref. [21]) as gauge structure with no interaction between edge maps. Learned maps are no more meaningful than chosen ones until validated ([QUESTION-130](../questions.d/QUESTION-130.md)). `anthology-candidate`: an architecture paper.
 
-The reading (NOTE-tmpani5h) bears this out and sharpens it: the maps are
+The reading ([NOTE-tmpani5h](../notes.d/NOTE-tmpani5h.md)) bears this out and sharpens it: the maps are
 functions of each edge's own endpoint features, so nothing ties them
 around a cycle, and what fixes them is the classification loss. The
 theory's separating sheaves are defined from the class labels, so the

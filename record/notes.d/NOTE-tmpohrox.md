@@ -220,21 +220,21 @@ intervention pair out (p. 9).
 
 ## Connections
 
-- **Rubenstein et al. 2017** (exact transformations; the record's LIT-1334)
-  supplies the definition; **Beckers and Halpern 2019** (LIT-1316, read in
-  NOTE-1032) and **Beckers, Eberhardt and Halpern 2020** are cited for the
+- **Rubenstein et al. 2017** (exact transformations; the record's [LIT-1334](../literature.d/LIT-1334.md))
+  supplies the definition; **Beckers and Halpern 2019** ([LIT-1316](../literature.d/LIT-1316.md), read in
+  [NOTE-1032](NOTE-1032.md)) and **Beckers, Eberhardt and Halpern 2020** are cited for the
   general theory and for approximation (pp. 1–3).
 - **Zennaro et al. 2023** learns α-abstractions in Rischel's framework but
   needs fully specified SCMs; COTA is compared with it (Appendix D,
   pp. 17–19).
-- **LIT-tmpagj3g** (Simoes, Dastani and van Ommen) cites COTA among
+- **[LIT-tmpagj3g](../literature.d/LIT-tmpagj3g.md)** (Simoes, Dastani and van Ommen) cites COTA among
   efforts to learn high-level models, as distinct from its own abstraction
   of a variable for a target.
 
 ## Bearing on the record
 
-- **THEORY-849: COTA's notion is the weakest of those the theory ranks.**
-  THEORY-849 holds that, for deterministic models with countable
+- **[THEORY-849](../theory.d/THEORY-849.md): COTA's notion is the weakest of those the theory ranks.**
+  [THEORY-849](../theory.d/THEORY-849.md) holds that, for deterministic models with countable
   interventions, matching coarse-grained interventional laws for every
   distribution on contexts is a context-by-context commuting condition,
   that "exactness for one distribution is strictly weaker, since a
@@ -242,29 +242,29 @@ intervention pair out (p. 9).
   strong abstraction are stronger still. COTA adopts the one-distribution
   notion (Definition 4), relaxes it to an average divergence over a finite
   I (Definition 5), and makes τ stochastic (a Markov kernel, p. 4). It
-  does not match THEORY-849's reading of causal abstraction; it is below
+  does not match [THEORY-849](../theory.d/THEORY-849.md)'s reading of causal abstraction; it is below
   its lowest rung. Whatever an exact transformation can be fooled by, a
   learned stochastic approximation of one can be fooled by too.
-- **CLAIM-399: applies with more force.** The claim is that exact
+- **[CLAIM-399](../claims.d/CLAIM-399.md): applies with more force.** The claim is that exact
   transformation, τ-abstraction and zero approximate distance all accept a
   coarse-graining whose coarse state drops a governing bit, "because each
   lets high-level noise carry what the coarse state drops". A stochastic τ
   is exactly a licence for that: the kernel's randomness can supply what
   the base state does not determine.
-- **CLAIM-414 and CASE-179: partly supports A7's description, with the
+- **[CLAIM-414](../claims.d/CLAIM-414.md) and [CASE-179](../cases.d/CASE-179.md): partly supports A7's description, with the
   limit stated.** COTA does fit every paired interventional distribution,
   not only the observational one, so two systems that agree observationally
   and differ under an intervention in I give different fits; the
-  leave-one-pair-out error is the right shape of test for CLAIM-414's
+  leave-one-pair-out error is the right shape of test for [CLAIM-414](../claims.d/CLAIM-414.md)'s
   point that a specified intervention exposes what observation conceals.
   But COTA does not tell systems apart, it assumes the abstraction relation
   and learns a map; it needs both models sampled under every intervention
   and the intervention correspondence ω given; and the part meant to carry
   causal structure between interventions, the do-calculus term, is inert
-  as written. For CASE-179 it is a method that takes the correspondence
+  as written. For [CASE-179](../cases.d/CASE-179.md) it is a method that takes the correspondence
   between interventions as input, which is the structure that study wants
   to manipulate and recover.
-- **CLAIM-150: consistent.** A good abstraction here is a distributional
+- **[CLAIM-150](../claims.d/CLAIM-150.md): consistent.** A good abstraction here is a distributional
   match, and not even a unique one: the authors call for "guarantees of
   existence and uniqueness of the estimated maps" (p. 11). It says nothing
   about constitution.
@@ -272,8 +272,8 @@ intervention pair out (p. 9).
   interventions, not only observations") is right about the data and the
   cost and wrong about the do-calculus constraints doing that work.** The
   LIT's summary is corrected.
-- **Two THEORYs**: THEORY-tmp1lvzk (the do-calculus term is constant on the
-  feasible set; Active, derived) and THEORY-tmpd2jd5 (the ω-cost's
+- **Two THEORYs**: [THEORY-tmp1lvzk](../theory.d/THEORY-tmp1lvzk.md) (the do-calculus term is constant on the
+  feasible set; Active, derived) and [THEORY-tmpd2jd5](../theory.d/THEORY-tmpd2jd5.md) (the ω-cost's
   dependence on the intervention set; Proposed).
 - **No instruction for ML practice** beyond a method; not an anthology
   candidate on that ground.
@@ -299,7 +299,7 @@ intervention pair out (p. 9).
   paper needs.
 - Can ω be learned as well as τ, and with what data? That would make the
   correspondence between interventions an output, which is what the
-  record's QUESTION-282 asks about.
-- How does a stochastic τ learned this way fare against CLAIM-399's
+  record's [QUESTION-282](../questions.d/QUESTION-282.md) asks about.
+- How does a stochastic τ learned this way fare against [CLAIM-399](../claims.d/CLAIM-399.md)'s
   hidden-bit construction? A worked case would show whether the learned
   kernel uses its randomness to carry the dropped bit.

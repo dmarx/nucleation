@@ -115,7 +115,7 @@ labels.
   needs that adjustment. It does not change the result's form.
 - **Lemma 6:** dim H⁰ ≤ d, with equality exactly when transport is
   path-independent. This is the O(d) form of the record's U(1) criterion
-  (THEORY-1082), counted by dimension.
+  ([THEORY-1082](../theory.d/THEORY-1082.md)), counted by dimension.
 
 ### The separation hierarchy (§3.2, pp. 5–6; Appendix B, pp. 16–21)
 
@@ -198,7 +198,7 @@ labels.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | Sheaf diffusion converges to the orthogonal projection onto ker Δ_F | strong | Lemma 21, cited from Hansen and Ghrist (record: THEORY-1070) |
+| C1 | Sheaf diffusion converges to the orthogonal projection onto ker Δ_F | strong | Lemma 21, cited from Hansen and Ghrist (record: [THEORY-1070](../theory.d/THEORY-1070.md)) |
 | C2 | For an O(d) bundle on a connected graph, dim H⁰ ≤ d with equality iff transport is path-independent; λ₀ is bounded above by path-dependence (Prop. 3) and below by cycle non-fixedness (Prop. 5) | strong | proofs pp. 15–16; Prop. 3 checked numerically; Prop. 5's constant needs 2 diam + 1 |
 | C3 | Weighted graph Laplacians (symmetric d = 1 sheaves) cannot separate the two sides of a balanced bipartite graph in the diffusion limit | strong | Prop. 9, counting proof p. 17; checked on one graph |
 | C4 | Signed d = 1 maps separate any two classes; no d = 1 sheaf separates three or more | strong | Props. 10, 11, pp. 17–18; Prop. 10 checked |
@@ -229,9 +229,9 @@ labels.
 
 - **Hansen and Ghrist** (refs. [34], [35]): the sheaf Laplacian, the
   convergence lemma and the opinion-dynamics reading (pp. 2, 16). The
-  record holds them as LIT-1659 (THEORY-1070, THEORY-1090) and LIT-1646
-  (THEORY-1062, THEORY-1088). Hansen and Gebhart's sheaf neural networks
-  (ref. [32]) used a hand-built d = 1 sheaf (p. 8); NOTE-016 records that
+  record holds them as [LIT-1659](../literature.d/LIT-1659.md) ([THEORY-1070](../theory.d/THEORY-1070.md), [THEORY-1090](../theory.d/THEORY-1090.md)) and [LIT-1646](../literature.d/LIT-1646.md)
+  ([THEORY-1062](../theory.d/THEORY-1062.md), [THEORY-1088](../theory.d/THEORY-1088.md)). Hansen and Gebhart's sheaf neural networks
+  (ref. [32]) used a hand-built d = 1 sheaf (p. 8); [NOTE-016](NOTE-016.md) records that
   neither paper descends from the contextuality literature.
 - **Singer and Wu** (ref. [63]) for the connection Laplacian and **Bandeira,
   Singer and Spielman** (ref. [2]) for another Cheeger-type bound (p. 4).
@@ -239,7 +239,7 @@ labels.
 - **Yan et al.** (ref. [72]) is the only other work the authors know that
   links heterophily and oversmoothing theoretically; both find "the
   benefits of negatively signed edges" (p. 10).
-- **LIT-tmpr8qf7** (Sarkar, Mukherjee and Sato, read in NOTE-tmp8rf0b)
+- **[LIT-tmpr8qf7](../literature.d/LIT-tmpr8qf7.md)** (Sarkar, Mukherjee and Sato, read in [NOTE-tmp8rf0b](NOTE-tmp8rf0b.md))
   cites this paper (its ref. [21]) as gauge structure with no interaction
   between edge maps. That is accurate: each map is a function of its own
   edge's endpoint features (p. 8), and nothing ties maps around a cycle.
@@ -248,8 +248,8 @@ labels.
 
 ## Bearing on the record
 
-- **QUESTION-282 and TERM-093: a correspondence structure that is adapted,
-  and adapted to a task.** In TERM-093's three ways of holding a
+- **[QUESTION-282](../questions.d/QUESTION-282.md) and [TERM-093](../terms.d/TERM-093.md): a correspondence structure that is adapted,
+  and adapted to a task.** In [TERM-093](../terms.d/TERM-093.md)'s three ways of holding a
   correspondence structure, NSD's sheaf is adapted by an apparatus: the
   maps are recomputed at every layer from the current features ("the
   model to use the latest available features to manipulate the underlying
@@ -258,13 +258,13 @@ labels.
   in §3.2 is defined from the labels (Proposition 10's sign by class,
   Lemma 27's rotation by class, pp. 17–20), and "the ground truth sheaf"
   (p. 7) means the sheaf that solves the task. So for this model the
-  answer to QUESTION-282's "what fixes the correspondence" is the target,
+  answer to [QUESTION-282](../questions.d/QUESTION-282.md)'s "what fixes the correspondence" is the target,
   and the paper gives no criterion by which a learned map could be
   discovered rather than imposed. It is also a case where the operative
   correspondence changes while the system runs (the maps change layer by
-  layer), which QUESTION-282 asks for, but the change is driven by an
+  layer), which [QUESTION-282](../questions.d/QUESTION-282.md) asks for, but the change is driven by an
   external objective, not by the interaction among nodes.
-- **QUESTION-130: learned is not established.** The question asks for a
+- **[QUESTION-130](../questions.d/QUESTION-130.md): learned is not established.** The question asks for a
   transport "fixed by independently established relations rather than
   chosen". NSD's transports are chosen by gradient descent for accuracy.
   Proposition 18 says the learner can express any sheaf; nothing says the
@@ -273,24 +273,24 @@ labels.
   (Fig. 5) are the maps compared with what theory predicts. It confirms the
   record's caution: a learned map is no more meaningful than a chosen one
   until it is validated against something it was not trained on.
-- **THEORY-1088: the opposite design choice, with the same lack of an
+- **[THEORY-1088](../theory.d/THEORY-1088.md): the opposite design choice, with the same lack of an
   external check.** In Hansen and Ghrist's §9 the maps diffuse to reduce
   disagreement, and agreement is reached by changing what is said. Here
   the maps are trained to increase disagreement across classes, so the
   harmonic space separates them. In both the restriction maps are free
   parameters fitted to an objective internal to the system or to its
   trainer, and in neither is a map checked against an independent account
-  of what the edge should relate. THEORY-1088's caution transfers: the
+  of what the edge should relate. [THEORY-1088](../theory.d/THEORY-1088.md)'s caution transfers: the
   agreement the model's geometry encodes is whatever its objective
   rewards.
-- **THEORY-1090 and THEORY-1082: consistent.** Lemma 6 is the O(d) form of
-  THEORY-1082's zero-mode criterion, with dimension: dim H⁰ = d iff all
+- **[THEORY-1090](../theory.d/THEORY-1090.md) and [THEORY-1082](../theory.d/THEORY-1082.md): consistent.** Lemma 6 is the O(d) form of
+  [THEORY-1082](../theory.d/THEORY-1082.md)'s zero-mode criterion, with dimension: dim H⁰ = d iff all
   cycle transports are the identity. Proposition 11's ceiling (dim H⁰ ≤ 1
-  for d = 1) is a static fact about sections of the same kind THEORY-1090
+  for d = 1) is a static fact about sections of the same kind [THEORY-1090](../theory.d/THEORY-1090.md)
   holds.
 - **A new THEORY** for the separation hierarchy and its label-built sheaves
-  (THEORY-tmpfzykx), with the d = 8 correction, and one Proposed for the
-  empirical claim about learned sheaves (THEORY-tmpe8kmr).
+  ([THEORY-tmpfzykx](../theory.d/THEORY-tmpfzykx.md)), with the d = 8 correction, and one Proposed for the
+  empirical claim about learned sheaves ([THEORY-tmpe8kmr](../theory.d/THEORY-tmpe8kmr.md)).
 - **Instruction for ML practice: yes, belongs to the anthology.** The paper
   proposes an architecture and reports which variant to prefer ("The O(d)
   bundle diffusion model performs best overall", p. 9), with

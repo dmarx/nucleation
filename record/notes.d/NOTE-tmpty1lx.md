@@ -143,14 +143,14 @@ on G from a fixed starting map.
   and Goodfellow et al. 2014b on adversarial examples; Tabacof et al. and
   Kos et al. on attacks on generative models; Dziugaite et al. on JPEG and
   adversarial images (references, p. 5).
-- **THEORY-562** in the record is the same shape in another field: in
+- **[THEORY-562](../theory.d/THEORY-562.md)** in the record is the same shape in another field: in
   REST2 simulations, short round trips between temperature rungs show that
   replicas mix along the ladder, not that conformations are sampled. A
   round-trip criterion certifies the round trip.
 
 ## Bearing on the record
 
-- **CLAIM-tmpgwud2: the converse case, from outside the record.** The claim
+- **[CLAIM-tmpgwud2](../claims.d/CLAIM-tmpgwud2.md): the converse case, from outside the record.** The claim
   says route agreement measures coherence, not fidelity, and gives the
   collapse construction, where every source maps to one output and routes
   agree because nothing travels. CycleGAN is the opposite failure: the
@@ -162,24 +162,24 @@ on G from a fixed starting map.
   apart in both directions. It also adds what the collapse case does not:
   agreement can be bought by the composition exploiting a channel, not
   only by discarding content.
-- **THEORY-1088: a learned instance of agreement by changing the maps, with
+- **[THEORY-1088](../theory.d/THEORY-1088.md): a learned instance of agreement by changing the maps, with
   a check that does not reach content.** In Hansen and Ghrist's discourse
   sheaf the expression maps move until the opinions are a global section.
   Here F and G co-adapt until the round trip closes, and the paper reads G
-  as "cooperating" with F (p. 4). Unlike THEORY-1088's flow, there is an
+  as "cooperating" with F (p. 4). Unlike [THEORY-1088](../theory.d/THEORY-1088.md)'s flow, there is an
   outside check, the discriminators, but it scores whether Fx looks like a
   map, not whether it says what x shows. The loop closes on its own terms.
-- **CLAIM-342: an instance where the evidence passes through the loop.**
+- **[CLAIM-342](../claims.d/CLAIM-342.md): an instance where the evidence passes through the loop.**
   The cycle loss is scored by the composition it trains. The only
   independent evidence (the discriminator) scores a property the
-  interpretation does not depend on. That is CLAIM-342's condition for
+  interpretation does not depend on. That is [CLAIM-342](../claims.d/CLAIM-342.md)'s condition for
   self-confirmation, met with no action at all. The paper's proposed
   defence (§5) is to add a visible fourth channel to the map so the
   information "need not be hidden in the image but may instead be stored
   in this fourth channel": a legitimate side channel, not an independent
   check.
-- **Two THEORYs**: THEORY-tmp3yv5g for the hidden high-frequency channel
-  and its adversarial consequence (Proposed), THEORY-tmpocg1h for the
+- **Two THEORYs**: [THEORY-tmp3yv5g](../theory.d/THEORY-tmp3yv5g.md) for the hidden high-frequency channel
+  and its adversarial consequence (Proposed), [THEORY-tmpocg1h](../theory.d/THEORY-tmpocg1h.md) for the
   general point that round-trip agreement under unequal complexity does
   not certify content in the intended code (Proposed).
 - **Instruction for ML practice: yes, belongs to the anthology.** "In

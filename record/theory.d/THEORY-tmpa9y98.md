@@ -17,7 +17,7 @@ source:
 - LIT-tmplu4ga
 summary: >-
   Guerreiro, Rei, van Stigt, Coheur, Colombo and Martins (TACL 2024),
-  LIT-tmplu4ga, Tables 2, 4 and 5, read in NOTE-tmpoaymu. The numbers are
+  [LIT-tmplu4ga](../literature.d/LIT-tmplu4ga.md), Tables 2, 4 and 5, read in [NOTE-tmpoaymu](../notes.d/NOTE-tmpoaymu.md). The numbers are
   the paper's, on WMT22 News MQM (zh-en, en-de, en-ru). The paper reads
   the heads' agreement as support for the spans as explanation; the
   record reads it as coherence. The top of the agreement, 0.90–0.92, is
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Guerreiro et al. (2024), LIT-tmplu4ga, §6 and Tables 2a, 4 and 5 (pp.
-985–987) of TACL 12; read in NOTE-tmpoaymu.
+Guerreiro et al. (2024), [LIT-tmplu4ga](../literature.d/LIT-tmplu4ga.md), §6 and Tables 2a, 4 and 5 (pp.
+985–987) of TACL 12; read in [NOTE-tmpoaymu](../notes.d/NOTE-tmpoaymu.md).
 
 ## What was actually shown
 
@@ -70,6 +70,6 @@ disagreed while each tracked humans.
   hypothesis; no experiment isolates it.
 - **Anything about use as a selection criterion.** Agreement on given
   translations does not bound the bias a metric shows when it picks the
-  translations it scores (CASE-071).
+  translations it scores ([CASE-071](../cases.d/CASE-071.md)).
 - **For other domains.** One news test set, three pairs, all with English
   on one side.

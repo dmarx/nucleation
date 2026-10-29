@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpoaymu) from the TACL version of record,
+  read in full 2026-10-29 ([NOTE-tmpoaymu](../notes.d/NOTE-tmpoaymu.md)) from the TACL version of record,
   with the arXiv v1 preprint compared; worth reading as the reference
   description of a strong open MT metric and its limits: segment-level
   Kendall τ near 0.43 against expert MQM, span F1 near 0.28, and score
@@ -61,6 +61,6 @@ Guerreiro, N. M., Rei, R., van Stigt, D., Coheur, L., Colombo, P., & Martins, A.
 
 A5 named it, with the COMET toolkit, as the strong baseline a pragmatic-transport account must beat, not as a criterion of fidelity; [CASE-071](../cases.d/CASE-071.md) already shows a metric's preferences parting from human raters'. A baseline in [CASE-tmph0fxi](../cases.d/CASE-tmph0fxi.md). `anthology-candidate`: an evaluation tool for ML practice.
 
-The reading (NOTE-tmpoaymu) bears out the exchange's placing. The paper
+The reading ([NOTE-tmpoaymu](../notes.d/NOTE-tmpoaymu.md)) bears out the exchange's placing. The paper
 tests xCOMET only as a scorer of given translations; it is not tested as a
-selection criterion, which is where CASE-071's bias arises.
+selection criterion, which is where [CASE-071](../cases.d/CASE-071.md)'s bias arises.

@@ -11,7 +11,7 @@ source:
 - LIT-tmpgqc02
 summary: >-
   Bodnar, Di Giovanni, Chamberlain, Liò and Bronstein (NeurIPS 2022),
-  LIT-tmpgqc02, §3.2 and Appendix B, read in NOTE-tmpani5h from the
+  [LIT-tmpgqc02](../literature.d/LIT-tmpgqc02.md), §3.2 and Appendix B, read in [NOTE-tmpani5h](../notes.d/NOTE-tmpani5h.md) from the
   arXiv preprint v4. Active as mathematics: each separation result has a
   proof, and Propositions 9, 10 and 13 were checked numerically. The
   paper says the orthogonal construction exists only at d = 2 and 4; it
@@ -26,15 +26,15 @@ summary: >-
 
 ## Source
 
-Bodnar et al. (2022), LIT-tmpgqc02, §3 (pp. 3–6) and Appendices A–B
-(pp. 15–21) of arXiv 2202.04579v4; read in NOTE-tmpani5h.
+Bodnar et al. (2022), [LIT-tmpgqc02](../literature.d/LIT-tmpgqc02.md), §3 (pp. 3–6) and Appendices A–B
+(pp. 15–21) of arXiv 2202.04579v4; read in [NOTE-tmpani5h](../notes.d/NOTE-tmpani5h.md).
 
 ## What was actually shown
 
 **The setting.** A connected graph with stalks ℝᵈ, the normalised sheaf
 Laplacian Δ_F, and diffusion Ẋ = −Δ_F X. In the limit the features are the
 orthogonal projection of the initial features onto ker Δ_F (Lemma 21,
-p. 16, from Hansen and Ghrist; THEORY-1070). A class of sheaves has
+p. 16, from Hansen and Ghrist; [THEORY-1070](THEORY-1070.md)). A class of sheaves has
 "linear separation power" over a family of graphs if for every labelled
 graph in it some sheaf of the class makes the limit linearly separable for
 almost every initial condition (Definition 7, p. 5).
@@ -42,7 +42,7 @@ almost every initial condition (Definition 7, p. 5).
 **The harmonic space of an orthogonal bundle.** For O(d) restriction maps,
 dim H⁰ ≤ d, with equality exactly when transport along paths is
 path-independent (Lemma 6, p. 4). This is the O(d) counterpart of
-THEORY-1082's U(1) zero-mode criterion.
+[THEORY-1082](THEORY-1082.md)'s U(1) zero-mode criterion.
 
 **The hierarchy.**
 
@@ -97,8 +97,8 @@ space; Lemma 6 rules it out on a connected graph with invertible maps.
   recovering such a sheaf from features, is not addressed, and Prop. 18
   (an MLP can express any sheaf) does not address it either.
 - **That the geometry found is the system's.** "The right sheaf" is the one
-  that solves the task. In QUESTION-282's terms the correspondence is
-  fixed by the target, not discovered; in QUESTION-130's, it is chosen.
+  that solves the task. In [QUESTION-282](../questions.d/QUESTION-282.md)'s terms the correspondence is
+  fixed by the target, not discovered; in [QUESTION-130](../questions.d/QUESTION-130.md)'s, it is chosen.
 - **Anything at finite depth.** The results are for the projection; the
   paper's remark that exponential convergence makes them "relevant" to
   finite layers (p. 4) gives no rate.

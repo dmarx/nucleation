@@ -15,8 +15,8 @@ date: '2026-10-29'
 source:
 - LIT-tmpdrddx
 summary: >-
-  Felekis et al. (CLeaR 2024), LIT-tmpdrddx, §§4.2 and 6 and Appendices C
-  and E, read in NOTE-tmpohrox. Two synthetic models (STC, LUCAS) and one
+  Felekis et al. (CLeaR 2024), [LIT-tmpdrddx](../literature.d/LIT-tmpdrddx.md), §§4.2 and 6 and Appendices C
+  and E, read in [NOTE-tmpohrox](../notes.d/NOTE-tmpohrox.md). Two synthetic models (STC, LUCAS) and one
   real two-lab dataset (EBM), all discrete, evaluated by leaving one
   intervention pair out. The ω-cost wins on STC with parent-free
   interventions and on LUCAS, loses on STC with two interventions on tar
@@ -28,9 +28,9 @@ summary: >-
 
 ## Source
 
-Felekis et al. (2024), LIT-tmpdrddx, §4.2 (pp. 6–7), §6 (pp. 8–10) and
+Felekis et al. (2024), [LIT-tmpdrddx](../literature.d/LIT-tmpdrddx.md), §4.2 (pp. 6–7), §6 (pp. 8–10) and
 Appendices C and E (pp. 17, 19–23) of arXiv 2312.08107v1; read in
-NOTE-tmpohrox.
+[NOTE-tmpohrox](../notes.d/NOTE-tmpohrox.md).
 
 ## What was actually shown
 
@@ -63,7 +63,7 @@ of the size of I.
 ## What this does not say
 
 - **That the gain comes from causal constraints between plans.** The
-  do-calculus term is constant on the feasible set (THEORY-tmp1lvzk); the
+  do-calculus term is constant on the feasible set ([THEORY-tmp1lvzk](THEORY-tmp1lvzk.md)); the
   cost is what differs between the compared settings, and the cost acts
   the same way in the baselines with no causal term.
 - **How rich is rich enough.** Four cases, with sizes not varied
@@ -72,4 +72,4 @@ of the size of I.
   small and discrete.
 - **That the learned maps are causal abstractions in a strong sense.**
   The target is an approximate one-distribution exact transformation, with
-  a stochastic τ (THEORY-849, CLAIM-399).
+  a stochastic τ ([THEORY-849](THEORY-849.md), [CLAIM-399](../claims.d/CLAIM-399.md)).

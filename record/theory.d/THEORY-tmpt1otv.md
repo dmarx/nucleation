@@ -15,8 +15,8 @@ date: '2026-10-29'
 source:
 - LIT-tmplu4ga
 summary: >-
-  Guerreiro et al. (TACL 2024), LIT-tmplu4ga, §7 (Tables 6 and 8, Fig. 4),
-  read in NOTE-tmpoaymu. Localized errors are SMAUG perturbations of
+  Guerreiro et al. (TACL 2024), [LIT-tmplu4ga](../literature.d/LIT-tmplu4ga.md), §7 (Tables 6 and 8, Fig. 4),
+  read in [NOTE-tmpoaymu](../notes.d/NOTE-tmpoaymu.md). Localized errors are SMAUG perturbations of
   English references; hallucinations are one de-en benchmark of real
   system outputs. The training data includes synthetic detached and
   oscillatory hallucinations and DEMETR perturbations. The localized-error
@@ -28,8 +28,8 @@ summary: >-
 
 ## Source
 
-Guerreiro et al. (2024), LIT-tmplu4ga, §7 (pp. 987–989) of TACL 12; read in
-NOTE-tmpoaymu.
+Guerreiro et al. (2024), [LIT-tmplu4ga](../literature.d/LIT-tmplu4ga.md), §7 (pp. 987–989) of TACL 12; read in
+[NOTE-tmpoaymu](../notes.d/NOTE-tmpoaymu.md).
 
 ## What was actually shown
 
@@ -63,7 +63,7 @@ earlier COMET metrics (p. 988); xCOMET could have kept them.
 - **That bigger is better here.** XXL is worse than XL on oscillatory
   hallucinations, 0.844 against 0.922 with the reference (Table 8).
 - **The overall localized-error rate.** The table's "All" row does not
-  agree with the count-weighted mean of its rows (NOTE-tmpoaymu); the
+  agree with the count-weighted mean of its rows ([NOTE-tmpoaymu](../notes.d/NOTE-tmpoaymu.md)); the
   per-type figures are the ones to use.
 - **That severity is well calibrated.** Within a sentence with several
   predicted spans, severities differ only about 35% of the time (p. 987).

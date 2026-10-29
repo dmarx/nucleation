@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpohrox) from arXiv v1; worth reading as
+  read in full 2026-10-29 ([NOTE-tmpohrox](../notes.d/NOTE-tmpohrox.md)) from arXiv v1; worth reading as
   the first method to learn a causal abstraction map from paired
   interventional samples without the structural equations, and for what
   it shows unintentionally: its do-calculus term is constant on the
@@ -60,12 +60,12 @@ Felekis, Y., Zennaro, F. M., Branchini, N., & Damoulas, T. (2024). Causal optima
 
 A7's bridge between pragmatic transport and distributed agency: a correspondence that respects interventions, not only observations, so that systems matched on relational statistics but different under perturbation are told apart ([CLAIM-414](../claims.d/CLAIM-414.md), [CASE-179](../cases.d/CASE-179.md), [THEORY-849](../theory.d/THEORY-849.md)). A good abstraction still does not settle constitution ([CLAIM-150](../claims.d/CLAIM-150.md)).
 
-The reading (NOTE-tmpohrox) corrects this in part. COTA does fit every
+The reading ([NOTE-tmpohrox](../notes.d/NOTE-tmpohrox.md)) corrects this in part. COTA does fit every
 paired interventional distribution, not only the observational one, so a
 held-out intervention can expose a bad map. But it assumes the two models
 are related and learns a map; it does not tell systems apart. Its target
 notion is Rubenstein et al.'s one-distribution exact transformation,
-relaxed and made stochastic, which is weaker than THEORY-849's reading of
-causal abstraction and open to CLAIM-399's objection. And its do-calculus
+relaxed and made stochastic, which is weaker than [THEORY-849](../theory.d/THEORY-849.md)'s reading of
+causal abstraction and open to [CLAIM-399](../claims.d/CLAIM-399.md)'s objection. And its do-calculus
 term, the part said to carry the causal structure, is inert as written
-(THEORY-tmp1lvzk).
+([THEORY-tmp1lvzk](../theory.d/THEORY-tmp1lvzk.md)).
