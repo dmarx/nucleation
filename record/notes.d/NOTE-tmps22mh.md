@@ -1,0 +1,232 @@
+---
+status: Read
+paper: LIT-1619
+title: 'ECtHR Grand Chamber — El-Masri v. the former Yugoslav Republic of Macedonia'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from the Court's own HUDOC copy of the
+    judgment (https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-115621,
+    93 pages, English), text extracted with pdftotext. Read: the
+    procedure (§§ 1–14), the facts (§§ 15–77), the relevant domestic and
+    international law and public materials (§§ 78–129), the law
+    (§§ 130–273), the operative part, and both joint concurring opinions.
+    The third-party submissions (§§ 175–179, 227–228) were read more
+    quickly than the Court's assessment. The four-page Information Note
+    the LIT's URL points to was downloaded and not read; the judgment
+    supersedes it. Quotations were checked against the extracted text.
+    No later execution-of-judgment material was read.
+date: '2026-10-29'
+summary: >-
+  A unanimous Grand Chamber held the respondent State responsible for
+  inhuman and degrading treatment in 23 days' incommunicado hotel
+  detention, for torture by a CIA team at Skopje Airport carried out with
+  its agents' acquiescence and help, for handing him to the US despite a
+  real risk of further ill-treatment it knew or ought to have known of,
+  for his whole captivity in Afghanistan under Article 5, and for failing
+  to investigate; the burden of proof shifted to the State once he was
+  shown to have entered its control.
+---
+
+# NOTE-tmps22mh: ECtHR Grand Chamber — El-Masri v. the former Yugoslav Republic of Macedonia
+
+## Contribution
+
+The Grand Chamber's judgment on a CIA rendition, standardly cited as the
+Court's first on that programme (the judgment does not say so). It holds a state that handed a man to another
+state's agents responsible on three different routes: for what foreign
+agents did on its territory with its acquiescence, for exposing him to a
+real risk of ill-treatment abroad, and, under Article 5, for the whole of
+the detention abroad that its own acts made possible. It also says that an inadequate investigation impairs a "right to the
+truth" (§ 191), which two
+concurring opinions dispute from opposite sides.
+
+## Key insight
+
+Responsibility follows control, not location. Once the State's police
+took the applicant off the bus at Tabanovce, the burden was on the State
+to account for what happened to him (§§ 153, 166, 233: "Having assumed
+control over an individual, the authorities have a duty to account for
+his or her whereabouts"). Its failure to do so, against a mass of
+indirect evidence and one former minister's admission, made the
+applicant's account proved "beyond reasonable doubt" (§ 167). The
+receiving state's own responsibility is expressly not adjudicated (§ 212).
+
+## Assumptions
+
+- **Standard and burden of proof** (§§ 151–153). "Beyond reasonable
+  doubt", but by free evaluation of evidence, including "sufficiently
+  strong, clear and concordant inferences or ... unrebutted presumptions
+  of fact"; where events lie within the authorities' exclusive
+  knowledge, the burden may shift to them. Applied in disappearance cases
+  where a person "entered a place under their control and has not been
+  seen since".
+- **Removal (Soering line)** (§§ 212–214). Liability is the sending
+  State's, "by reason of its having taken action which has as a direct
+  consequence the exposure of an individual to proscribed ill-treatment";
+  risk is judged on what was known or ought to have been known at the
+  time, with later material admissible to confirm it.
+- **Acquiescence** (§ 206, citing Ilaşcu). A State is responsible "for
+  acts performed by foreign officials on its territory with the
+  acquiescence or connivance of its authorities".
+- **Continuing violation** (§ 240, citing Ilaşcu § 321 and ILC Articles
+  14–15 at § 97). A series of wrongful acts extends the breach "over the
+  entire period starting with the first of the acts".
+
+## Key results
+
+The Court held unanimously (operative part, points 1–13):
+
+- **Six-month rule** (§§ 130–148). Objection dismissed. A criminal
+  complaint was a remedy he had to try; his four-and-a-half-year wait
+  for corroborating material was reasonable given the concealment noted
+  by the Marty reports (§ 142); time ran from when he learned of the
+  rejection, which the prosecutor had not notified within the eight days
+  the law required (§ 147).
+- **Facts** (§§ 154–167). Prima facie evidence for his account: flight
+  logs of N313P (Palma–Skopje–Baghdad–Kabul, 23–24 January 2004) and
+  N982RK (Kabul–Albania, 28 May 2004), hair-isotope analysis, the
+  earthquake record, his prison sketches, the Skopje Airport letter that
+  N313P landed empty and left with one passenger (§ 159), the J.G.S.
+  expert report, and the sworn statement of H.K., Minister of the
+  Interior at the time, "the only direct evidence" (§ 161), treated as a
+  form of admission (§ 163). The Government offered no satisfactory
+  explanation, so the burden shifted and was not met (§§ 165–167).
+- **Article 3, procedural** (§§ 182–194). The prosecutor relied solely on
+  the Ministry whose agents were suspected, interviewed neither the
+  applicant nor the hotel staff, and did not follow up the aircraft
+  (§§ 187–189). Violation. The Government conceded ineffectiveness
+  (§ 174, § 190).
+- **Article 3, hotel** (§§ 200–204). Twenty-three days' incommunicado
+  detention under guard, interrogation in a language he barely spoke, a
+  gun to his head: inhuman and degrading treatment, without physical
+  force (§ 202).
+- **Article 3, airport** (§§ 205–211). Beating, forcible stripping,
+  a suppository forced on him, nappy, shackles, hooding and sensory
+  deprivation, "used in combination and with premeditation": torture
+  (§ 211). The State is "directly responsible ... since its agents
+  actively facilitated the treatment and then failed to take any
+  measures ... to prevent it".
+- **Article 3, removal** (§§ 215–222). No extradition or other legal
+  procedure, no warrant (§ 216); the authorities knew the destination
+  (permission to take off for Kabul, § 217); public reports before
+  January 2004 established a real risk (§ 218); no assurances were sought
+  (§ 219). He was subjected to "extraordinary rendition", defined after
+  Babar Ahmad as an "extrajudicial transfer of persons from one
+  jurisdiction or State to another, for the purposes of detention and
+  interrogation outside the normal legal system, where there was a real
+  risk of torture or cruel, inhuman or degrading treatment" (§ 221).
+- **Article 5** (§§ 229–243). The hotel detention was unacknowledged and
+  "a particularly grave violation" (§ 237). For Afghanistan, removing a
+  person to a real risk of a flagrant breach of Article 5 violates it
+  (§ 239, citing Othman); the authorities "actively facilitated his
+  subsequent detention in Afghanistan by handing him over to the CIA",
+  so responsibility is engaged for 23 January to 28 May 2004. The whole
+  was an "enforced disappearance", and the State is responsible "during
+  the entire period of his captivity" (§ 241). Procedural violation too.
+- **Article 8** violated (§ 249); **Article 13** violated with Articles 3,
+  5 and 8, including because the decision to hand him over was never
+  reviewed for risk by any authority (§ 260); **Article 10** complaint
+  rejected as overlapping Article 3 (§ 264).
+- **Just satisfaction**: EUR 60,000 non-pecuniary damage (§ 270), against
+  EUR 300,000 claimed. The applicant's request that the Court order an
+  effective investigation is not granted in the operative part.
+- **Concurring opinions.** Judges Tulkens, Spielmann, Sicilianos and
+  Keller would have placed the right to the truth under Article 13 and
+  found the judgment's treatment of it "somewhat timid". Judges Casadevall
+  and López Guerra think § 191 unnecessary: the right to a serious
+  investigation already is the right to the truth, and it belongs to the
+  victim, "and not the general public".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The applicant was detained, ill-treated and handed to the CIA as he described | strong, on the Court's standard | §§ 156–167; indirect evidence plus a former minister's admission; the Government's account rejected |
+| C2 | A State is responsible for torture by foreign agents on its territory with its agents' acquiescence and help | strong | § 206, § 211, on Ilaşcu |
+| C3 | Handing a person to another state's custody despite a known real risk engages the sending State's Article 3 responsibility, without deciding the receiving state's | strong | §§ 212–220, the Soering line |
+| C4 | The sending State is responsible under Article 5 for the whole detention abroad that it actively facilitated | strong, for this posture | §§ 239–241 |
+| C5 | An inadequate investigation in such a case impairs a right to the truth held also by the public | moderate | § 191–192; disputed in both concurrences |
+
+## Concepts
+
+- **Extraordinary rendition** (§ 221): defined above; the Venice
+  Commission's narrower usage at § 102 is "when there is little or no
+  doubt that the obtaining of custody over a person is not in accordance
+  with the existing legal procedures applying in the State where the
+  person was situated".
+- **Enforced disappearance** (§ 240, from the 2006 Convention at § 95):
+  deprivation of liberty by or with the acquiescence of the State,
+  followed by refusal to acknowledge it or concealment of the person's
+  fate, placing him outside the protection of the law.
+- **Acquiescence or connivance** (§ 206): the standard for attributing to
+  a State acts of foreign officials on its territory.
+- **Right to the truth** (§ 191): the right of the victim, other victims
+  and "the general public, who had the right to know what had happened".
+
+## Connections
+
+The judgment rests on the Soering line for removal (Soering, Saadi, Cruz
+Varas, Mamatkulov), on Ilaşcu for acts of foreign officials and
+continuing violation, on Kurt and the Turkish and Chechen disappearance
+cases for the burden of proof, and on Babar Ahmad for the definition of
+extraordinary rendition. It quotes the UN committees' findings against
+Sweden in Agiza and Alzery (§§ 108–110), where Sweden had sought and
+obtained assurances, and records the Arar settlement (§ 129). Outside this
+reading, the Court's later rendition judgments against Poland (Al
+Nashiri; Husayn (Abu Zubaydah), 2014) follow it; neither is registered. The US litigation (§§ 62–63) failed on the state secrets
+privilege.
+
+## Bearing on the record
+
+- **CASE-175.** The exchange offered the judgment as the comparator "for
+  what is new here and what is the old problem of rendition". On the
+  reading, three differences stand out. First, the routes of
+  responsibility here run from the sending State's own acts on its own
+  territory: its agents held him, acquiesced in the CIA team's torture,
+  and authorised the flight to Kabul. Second, Article 3 responsibility
+  for the treatment abroad is for exposing him to the risk, and the Court
+  says expressly that it does not adjudicate the receiving state's
+  responsibility (§ 212); only under Article 5 is the sending State held
+  responsible for the detention abroad itself, as part of a continuing
+  enforced disappearance it facilitated (§§ 239–241). Third, the remedy
+  is compensation and a finding: the applicant was by then free, and the
+  Court did not order the State to do anything about the person's
+  location. CECOT's question, which government could or had to undo the
+  transfer while the person was still held, does not arise in El-Masri.
+  That is the new part.
+- **CLAIM-405.** The judgment separates custody, control and
+  responsibility much as the claim's CECOT illustration does, and on a
+  criterion stated in advance: responsibility follows the State's having
+  "assumed control over an individual" (§ 233) and its facilitation,
+  wherever the custody then lay.
+- **QUESTION-279.** The burden-shifting rule (§§ 152–153, 165–167) is one
+  court's answer to when an institution's account of itself is accepted:
+  where events lie within its exclusive knowledge, it must give "a
+  satisfactory and convincing explanation", and a bare denial against
+  concordant evidence fails. It is a rule for facts, not for claims of
+  inability, but it is the same shape.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **The facts are found against a non-cooperating State**, by inference
+  and a shifted burden, with no oral evidence; the Court did not test
+  H.K.'s statement (§ 162).
+- **The receiving state is not before the Court.** Nothing in it decides
+  what the United States owed.
+- **Errors and slips.** None found. The figures checked (dates of the
+  flights, 23 days in the hotel, the EUR 60,000 award against
+  EUR 300,000 claimed) agree across the facts, the law and the operative
+  part.
+
+## Open questions
+
+- Did the respondent State conduct the investigation the judgment found
+  lacking? The Committee of Ministers' execution file would say, and is
+  not registered.
+- How do the later Polish and Lithuanian rendition judgments treat a
+  State that hosted a detention site rather than handing a person over?
