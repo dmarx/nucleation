@@ -8,9 +8,9 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion condition formerly on THEORY-900, moved here when the
-  thirteenth status review promoted THEORY-900, whose title claims only
-  the systematic review's verdict, as THEORY-285's moved to QUESTION-303.
+  The promotion condition formerly on [THEORY-900](../theory.d/THEORY-900.md), moved here when the
+  thirteenth status review promoted [THEORY-900](../theory.d/THEORY-900.md), whose title claims only
+  the systematic review's verdict, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-303](QUESTION-303.md).
   Whether a fitted inferential model wins is this question.
 ---
 
@@ -18,13 +18,13 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-900 holds Mancinelli and Bach's scoring of five theories against
+[THEORY-900](../theory.d/THEORY-900.md) holds Mancinelli and Bach's scoring of five theories against
 the phenomena they rate. No model was fitted, and by their account no
 computational counterpart of expectancy theory exists for avoidance.
 
 ## What would answer it
 
-THEORY-900's former promote_when, unchanged:
+[THEORY-900](../theory.d/THEORY-900.md)'s former promote_when, unchanged:
 
 The version of record read and found to keep the verdict; and an
 implemented model-based or latent-cause model of avoidance that

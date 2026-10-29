@@ -123,7 +123,7 @@ for every bounded loss. By the Bayes form of Blackwell's theorem for
 finitely many states ([THEORY-156](../theory.d/THEORY-156.md)), V is then at least as informative as U. The
 form the record holds needs the source's outcome space, the experiment
 simulated, to be standard Borel, as every text, image or coded response is;
-arbitrary spaces are QUESTION-321.
+arbitrary spaces are [QUESTION-321](../questions.d/QUESTION-321.md).
 
 **(c) It is directed.** With Z uniform on {0, 1}, U = Z, V a constant and
 q = "guess Z" with 0–1 loss, r(U) = 0 and r(V) = 1/2, so D⁺(U → V) = 1/2

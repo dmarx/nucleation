@@ -7,9 +7,9 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion condition formerly on THEORY-903, moved here when the
-  thirteenth status review promoted THEORY-903, whose title claims only
-  the meta-analytic estimates, as THEORY-285's moved to QUESTION-303.
+  The promotion condition formerly on [THEORY-903](../theory.d/THEORY-903.md), moved here when the
+  thirteenth status review promoted [THEORY-903](../theory.d/THEORY-903.md), whose title claims only
+  the meta-analytic estimates, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-303](QUESTION-303.md).
   Whether the effects survive bias, expectancy and diagnosed samples is
   this question.
 ---
@@ -18,7 +18,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-903 holds Goodson et al.'s estimates, mostly from young
+[THEORY-903](../theory.d/THEORY-903.md) holds Goodson et al.'s estimates, mostly from young
 non-clinical or subclinical samples concerned with appearance or social
 anxiety. Egger's test was significant for the reduction effect, the
 increase studies could not be tested for bias, and every treatment trial
@@ -26,7 +26,7 @@ gave a rationale.
 
 ## What would answer it
 
-THEORY-903's former promote_when, unchanged:
+[THEORY-903](../theory.d/THEORY-903.md)'s former promote_when, unchanged:
 
 The version of record read and found to report the same estimates, and
 either a later meta-analysis of standalone safety-behaviour

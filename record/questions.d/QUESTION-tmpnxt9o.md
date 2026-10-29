@@ -8,10 +8,10 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion condition formerly on THEORY-912, moved here when the
-  thirteenth status review promoted THEORY-912, whose title claims only
-  what one cross-sectional study measured (ADR-047's one-study ruling), as
-  THEORY-285's moved to QUESTION-303. Whether the pattern replicates is
+  The promotion condition formerly on [THEORY-912](../theory.d/THEORY-912.md), moved here when the
+  thirteenth status review promoted [THEORY-912](../theory.d/THEORY-912.md), whose title claims only
+  what one cross-sectional study measured ([ADR-047](../decisions.d/ADR-047.md)'s one-study ruling), as
+  [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-303](QUESTION-303.md). Whether the pattern replicates is
   this question.
 ---
 
@@ -19,14 +19,14 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-912 holds De Kleine et al.'s single cross-sectional study, in
+[THEORY-912](../theory.d/THEORY-912.md) holds De Kleine et al.'s single cross-sectional study, in
 which avoiding cost nothing and patients rated the pictures as more
 aversive. A replication with matched aversiveness and a cost would say
 whether the differences belong to learning or to appraisal.
 
 ## What would answer it
 
-THEORY-912's former promote_when, unchanged:
+[THEORY-912](../theory.d/THEORY-912.md)'s former promote_when, unchanged:
 
 A second sample, ideally pre-registered and with a cost attached to
 avoiding, comparing anxiety-disorder patients with healthy controls on

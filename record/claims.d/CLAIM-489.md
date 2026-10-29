@@ -69,11 +69,11 @@ has not read. The reading it once leaned on, Saussure's, does not carry it.
 ## Note of 2026-10-29: rejected on its own condition
 
 Its defeat condition is met by a reading the record holds. In Bergen,
-Goodman and Levy's Experiment 1 (THEORY-172, Active; NOTE-613), a novel
+Goodman and Levy's Experiment 1 ([THEORY-172](../theory.d/THEORY-172.md), Active; [NOTE-613](../notes.d/NOTE-613.md)), a novel
 symbol is read as the unnamed object only through its contrast with an
 alternative tied to the other object by resemblance: "the contrast works
 only because one alternative is iconically tied to an object." Contrast did
 its work through the correspondence the title says it replaces. What
-survives is CLAIM-082's narrowed claim about value, and CLAIM-242's
+survives is [CLAIM-082](CLAIM-082.md)'s narrowed claim about value, and [CLAIM-242](CLAIM-242.md)'s
 use-level counterpart, which sets contrast beside reference rather than
 against it.

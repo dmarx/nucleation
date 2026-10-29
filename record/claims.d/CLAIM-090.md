@@ -79,9 +79,9 @@ earlier studies rather than measured on these learners.
 
 The claim's general form, that transmission is filtered by the transmitters'
 inductive biases, waits on a chain whose endpoint matches a prior measured
-on its own transmitters before transmission (QUESTION-137). THEORY-489's
+on its own transmitters before transmission ([QUESTION-137](../questions.d/QUESTION-137.md)). [THEORY-489](../theory.d/THEORY-489.md)'s
 chains converge on a bias taken from earlier studies and do not tell
-sampling learners from MAP learners. CASE-068's priors were measured after
+sampling learners from MAP learners. [CASE-068](../cases.d/CASE-068.md)'s priors were measured after
 the experiment (Moussaïd), or predict less than the received message
-(Jagiello and Hills). ARG-035, from the two readings the manuscript cites,
+(Jagiello and Hills). [ARG-035](../arguments.d/ARG-035.md), from the two readings the manuscript cites,
 is Proposed because it holds only for sampling learners.

@@ -8,10 +8,10 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion conditions formerly on THEORY-901 and THEORY-920, moved
+  The promotion conditions formerly on [THEORY-901](../theory.d/THEORY-901.md) and [THEORY-920](../theory.d/THEORY-920.md), moved
   here together when the thirteenth status review narrowed both to what
-  Mancinelli and Bach's review reports and promoted them, as THEORY-285's
-  moved to QUESTION-303. Both ask what avoidance does to threat
+  Mancinelli and Bach's review reports and promoted them, as [THEORY-285](../theory.d/THEORY-285.md)'s
+  moved to [QUESTION-303](QUESTION-303.md). Both ask what avoidance does to threat
   expectancy, outside the signalled, healthy-volunteer paradigms the
   review covers.
 ---
@@ -20,7 +20,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-901 and THEORY-920 hold what the review reports in healthy
+[THEORY-901](../theory.d/THEORY-901.md) and [THEORY-920](../theory.d/THEORY-920.md) hold what the review reports in healthy
 volunteers, with signalled, instructed responses. The authors' mechanism
 for protection from extinction is marked "putatively", and every study
 of avoidance spreading to the safe stimulus signalled the response's
@@ -30,7 +30,7 @@ availability.
 
 The former promote_when of each, unchanged.
 
-**THEORY-901.** The version of record read and found to rate the same
+**[THEORY-901](../theory.d/THEORY-901.md).** The version of record read and found to rate the same
 phenomena; and a study, preferably in people with an anxiety disorder as
 well as healthy controls, that varies how effective an available
 avoidance response is and measures threat expectancy trial by trial,
@@ -43,7 +43,7 @@ falls as fast with avoidance available as without. Further
 healthy-volunteer studies with signalled, instructed button responses
 cannot settle the clinical reading.
 
-**THEORY-920.** The version of record read and found to report the same;
+**[THEORY-920](../theory.d/THEORY-920.md).** The version of record read and found to report the same;
 and a study in which avoidance of a never-punished stimulus is made
 available without a signal that could itself indicate danger (a
 continuously available, unsignalled response), showing that performing

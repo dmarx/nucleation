@@ -80,12 +80,12 @@ summary: >-
 
 ## The claim
 
-Two halves. Since 2026-10-28 the claim is the first; the second is ARG-014,
+Two halves. Since 2026-10-28 the claim is the first; the second is [ARG-014](../arguments.d/ARG-014.md),
 Rejected, and is kept below as the text that moved.
 
 **Prior art.** Propp found that in the wondertales he analysed "the constant
 elements are 31 functions of characters", and that the tales "differ in who
-performs the functions and how" (THEORY-1164, from [LIT-828](../literature.d/LIT-828.md); [LIT-830](../literature.d/LIT-830.md) is the
+performs the functions and how" ([THEORY-1164](../theory.d/THEORY-1164.md), from [LIT-828](../literature.d/LIT-828.md); [LIT-830](../literature.d/LIT-830.md) is the
 English translation). That is A155's "recasting": the same relational
 pattern with different characters or setting. Propp also names inversions
 and swaps. [CLAIM-019](CLAIM-019.md) holds Lévi-Strauss's transformational analysis, "as it

@@ -118,7 +118,7 @@ So a linear probe family separates exactly what the kernel separates.
 It collapses representations that differ only by a symmetry of the
 observed data. A distinction drawn beyond that comes from something other
 than the readouts, such as a basis-dependent probe or the analyst's choice
-of inner product (THEORY-018).
+of inner product ([THEORY-018](../theory.d/THEORY-018.md)).
 
 ## Where the record applies it
 

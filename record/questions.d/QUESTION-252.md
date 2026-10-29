@@ -116,7 +116,7 @@ Each item is pairwise. None is a leave-one-out witness.
   criteria for agency ("can it have the first without the others?"), and
   [QUESTION-115](QUESTION-115.md) of four individuation criteria ("where these criteria
   disagree"). Axiom-independence precedents: [CLAIM-343](../claims.d/CLAIM-343.md) and [CLAIM-353](../claims.d/CLAIM-353.md).
-- **Which conditions are parameters.** Split off as QUESTION-tmp3ugy5,
+- **Which conditions are parameters.** Split off as [QUESTION-tmp3ugy5](QUESTION-tmp3ugy5.md),
   Answered. [CLAIM-401](../claims.d/CLAIM-401.md), after A4 and A5:
   P and A need a declared target, C restricts the operations, and M
   depends on the projection ([QUESTION-222](QUESTION-222.md), [THEORY-752](../theory.d/THEORY-752.md)). [CLAIM-152](../claims.d/CLAIM-152.md) and

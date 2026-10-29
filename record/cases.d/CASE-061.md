@@ -175,7 +175,7 @@ What they offer: hundreds of naturally occurring lines with identical
 wording and a named pair of audiences. What they lack: any record of either
 audience's uptake. Each split is asserted by an editor who belongs to the
 knowing audience, few entries cite anything, and descriptions are written to
-fit examples (ARG-014). They are candidates, not evidence. For
+fit examples ([ARG-014](../arguments.d/ARG-014.md)). They are candidates, not evidence. For
 [CASE-055](CASE-055.md) they could supply items for an arm with no rendering: lines
 drawn by a stated sampling rule, the hearer's membership in the knowing
 audience varied as a situation, and the act labelled by raters who did not

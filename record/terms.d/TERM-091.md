@@ -79,7 +79,7 @@ mathematical analogue of the sort of event we keep encountering in Luria: the
 existing relation scheme cannot express what the composed organization
 requires." Stating that analogy needs a name for what the scheme can express.
 [CLAIM-419](../claims.d/CLAIM-419.md) and [CLAIM-469](../claims.d/CLAIM-469.md) describe the record's amendments as revising the
-grammar, and this term says what the revision enlarges. Adopted 2026-10-29: CLAIM-480 and TERM-090 state the demonstrated part of
-QUESTION-283's answer in it, and "grammar" and "scheme" name only its third
-dimension, for a luria record. It would be revised if QUESTION-283's answer
+grammar, and this term says what the revision enlarges. Adopted 2026-10-29: [CLAIM-480](../claims.d/CLAIM-480.md) and [TERM-090](TERM-090.md) state the demonstrated part of
+[QUESTION-283](../questions.d/QUESTION-283.md)'s answer in it, and "grammar" and "scheme" name only its third
+dimension, for a luria record. It would be revised if [QUESTION-283](../questions.d/QUESTION-283.md)'s answer
 needed a dimension these three do not give.

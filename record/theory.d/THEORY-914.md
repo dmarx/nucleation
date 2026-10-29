@@ -93,5 +93,5 @@ procedures and cites their evidence without reporting it. Neither
 Bouton's reviews nor a later systematic review of spontaneous recovery,
 renewal, reinstatement and rapid reacquisition has been read, and the
 reconsolidation evidence that would weaken the account is, by the
-source's own description, open. CLAIM-446 cites this account only as a
+source's own description, open. [CLAIM-446](../claims.d/CLAIM-446.md) cites this account only as a
 rival, so a split into what Craske et al. state would free nothing.

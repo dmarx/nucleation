@@ -123,7 +123,7 @@ so.
   Descola reads it and as computationally modelled, is prior art for
   structural transport. This account fixes what that prior art contains:
   an encoding of the analyst's transformations, not a procedure that
-  finds them. **ARG-014** draws the same conclusion for trope
+  finds them. **[ARG-014](../arguments.d/ARG-014.md)** draws the same conclusion for trope
   annotations.
 - Propp's morphology ([THEORY-167](THEORY-167.md)) is the syntagmatic contrast Dundes draws
   ([LIT-830](../literature.d/LIT-830.md)): an order of functions read off the text, against

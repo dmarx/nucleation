@@ -62,11 +62,11 @@ It is held in one of three ways ([CLAIM-471](../claims.d/CLAIM-471.md)):
 | **adapted** | an apparatus revises its own rules of comparison | discourse sheaves, [NOTE-1222](../notes.d/NOTE-1222.md) |
 
 Forming sets which maps hold where. The joint behaviour they admit is their
-kernel, a constraint on states, and that is what CLAIM-471's physical
+kernel, a constraint on states, and that is what [CLAIM-471](../claims.d/CLAIM-471.md)'s physical
 constraint formation names; the term keeps the two apart as map and kernel.
 Whether interaction among systems already connected ever changes the maps
 themselves, rather than which fixed kind of map holds on which edge, is
-QUESTION-282.
+[QUESTION-282](../questions.d/QUESTION-282.md).
 
 ## The distinctions it draws
 

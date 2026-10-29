@@ -64,8 +64,8 @@ steps are checked against them.
 
 ## Note of 2026-10-29: what holds it back
 
-Both steps rest on works the record has not read: Torgersen (LIT-778) for
-deficiency as the approximate Blackwell order, and Wyner and Ziv (LIT-767)
+Both steps rest on works the record has not read: Torgersen ([LIT-778](../literature.d/LIT-778.md)) for
+deficiency as the approximate Blackwell order, and Wyner and Ziv ([LIT-767](../literature.d/LIT-767.md))
 for decoder-only side information. It goes Active on readings of them, or on
 a checked re-derivation of Le Cam's randomization criterion for finite
 experiments, which would hold the first step.

@@ -187,9 +187,9 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
 - **That every self-reproducing authority is privilege.** That is
   [QUESTION-087](../questions.d/QUESTION-087.md), open.
 - **That Fricker's account of the wrong is right.** It uses structural,
-  pre-emptive testimonial injustice as THEORY-327 holds Fricker to state
+  pre-emptive testimonial injustice as [THEORY-327](../theory.d/THEORY-327.md) holds Fricker to state
   it, prejudice condition included. Whether that account is right about
-  the wrong is QUESTION-322's, and nothing here needs it.
+  the wrong is [QUESTION-322](../questions.d/QUESTION-322.md)'s, and nothing here needs it.
 - **That the dynamics supply the normative criterion.** A24: "Feminist
   social epistemology provides normative and historical distinctions that
   the dynamical model alone lacks."

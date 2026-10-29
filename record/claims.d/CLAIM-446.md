@@ -218,7 +218,7 @@ future control: in Zorowitz, Momennejad and Daw the danger is represented
 correctly, and a pessimistic belief about later escape does the work.
 Each is a belief-maintained rival that holding threat probability fixed
 would not exclude. A third rival is memory. On Craske et al.'s
-inhibitory-learning account (THEORY-914) the fear association survives extinction and
+inhibitory-learning account ([THEORY-914](../theory.d/THEORY-914.md)) the fear association survives extinction and
 competes for retrieval, so persistence and return of fear need no
 governance variable; a governance account has to say what it adds.
 
@@ -345,11 +345,11 @@ claim is unchanged.
 
 ## Note of 2026-10-29: what holds it back
 
-Its premise CLAIM-443 is Proposed. No result in the record measures
+Its premise [CLAIM-443](CLAIM-443.md) is Proposed. No result in the record measures
 defensive authority apart from threat belief, the uncertainty estimate
 and the belief about one's own future control, so the belief-maintained
-rivals of THEORY-910 and THEORY-915 (QUESTION-tmp8bdml) and the memory
-account of THEORY-914 are not excluded, and nothing yet meets or fails
+rivals of [THEORY-910](../theory.d/THEORY-910.md) and [THEORY-915](../theory.d/THEORY-915.md) ([QUESTION-tmp8bdml](../questions.d/QUESTION-tmp8bdml.md)) and the memory
+account of [THEORY-914](../theory.d/THEORY-914.md) are not excluded, and nothing yet meets or fails
 its defeated_if. The readings promoted on 2026-10-29 hold its laboratory
-steps in healthy people (THEORY-901, THEORY-920) and the causal work of
-safety behaviour (THEORY-903); none measures authority.
+steps in healthy people ([THEORY-901](../theory.d/THEORY-901.md), [THEORY-920](../theory.d/THEORY-920.md)) and the causal work of
+safety behaviour ([THEORY-903](../theory.d/THEORY-903.md)); none measures authority.

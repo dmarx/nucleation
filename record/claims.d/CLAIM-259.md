@@ -111,7 +111,7 @@ M its least and greatest values, rescales every Bayes risk by the same
 increasing affine map, so the inequality holds for every bounded loss. By
 the Bayes form of Blackwell's theorem for finitely many states ([THEORY-156](../theory.d/THEORY-156.md)),
 V is then at least as informative as U. The form the record holds needs
-the source's outcome space to be standard Borel (CLAIM-326). So D⁺(U → V; ·) vanishes for every
+the source's outcome space to be standard Borel ([CLAIM-326](CLAIM-326.md)). So D⁺(U → V; ·) vanishes for every
 problem and prior exactly when the rendering loses nothing the source
 offered. A rendering that is a strict garbling has D⁺(U → V) > 0 for some
 problem and prior, and D⁺(V → U) = 0 for all.

@@ -67,7 +67,7 @@ summary: >-
   The manuscript's §3 and §9. It separates three things: context
   dependence, stochastic noncommutativity, and contextuality as an
   obstruction to a global section. Its note of 2026-10-29 names the
-  version it should cite: CbD 2.0 (LIT-831).
+  version it should cite: CbD 2.0 ([LIT-831](../literature.d/LIT-831.md)).
 complements:
 - CLAIM-041
 - CLAIM-044
@@ -156,7 +156,7 @@ to the next pass on this claim.
 ## Note of 2026-10-29: what holds it back
 
 "Needs Contextuality-by-Default" is contested by two sheaf routes the record
-holds that allow for signalling: LIT-843's causal past and LIT-844's
-signalling-corrected test. LIT-844's data show the two verdicts diverging
+holds that allow for signalling: [LIT-843](../literature.d/LIT-843.md)'s causal past and [LIT-844](../literature.d/LIT-844.md)'s
+signalling-corrected test. [LIT-844](../literature.d/LIT-844.md)'s data show the two verdicts diverging
 (0.148% against 71.1%) without showing which is right. It goes Active on a
 comparison of a sheaf route with CbD 2.0 on one signalling data set.

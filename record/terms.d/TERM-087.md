@@ -114,7 +114,7 @@ corrected in place, the TERM being unadopted.
 ## Note of 2026-10-29: what holds it back
 
 The Cartesian and epistemic senses are settled and used consistently
-(CLAIM-476, TERM-089). The agential sense rests on the exchange's account of
-Barad and on Faye and Jaksland's quotations of her (NOTE-1220, NOTE-1230).
-No text of Barad's has been read, since LIT-1653 and LIT-1657 are both
+([CLAIM-476](../claims.d/CLAIM-476.md), [TERM-089](TERM-089.md)). The agential sense rests on the exchange's account of
+Barad and on Faye and Jaksland's quotations of her ([NOTE-1220](../notes.d/NOTE-1220.md), [NOTE-1230](../notes.d/NOTE-1230.md)).
+No text of Barad's has been read, since [LIT-1653](../literature.d/LIT-1653.md) and [LIT-1657](../literature.d/LIT-1657.md) are both
 Unavailable, so that sense waits on a first-hand reading of either.

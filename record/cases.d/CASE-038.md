@@ -104,7 +104,7 @@ being objectively unique.**"
 
 The annotations are the community's. A trope's description was written to
 fit its examples, and examples are added that fit the description
-(ARG-014). So agreement with the catalogue's labels measures
+([ARG-014](../arguments.d/ARG-014.md)). So agreement with the catalogue's labels measures
 editorial agreement, and the catalogue gives candidates for testing, not
 validation. That is [QUESTION-005](../questions.d/QUESTION-005.md) for this corpus. A155 calls the trope
 "a candidate communicative invariant", and nothing yet shows a stable core

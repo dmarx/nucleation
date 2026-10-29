@@ -100,14 +100,14 @@ scoping decision for the paper. It is no longer the only answer.
 
 ## Note of 2026-10-29: what holds it back
 
-CLAIM-485, Active since the twelfth status review, holds that allocating
+[CLAIM-485](CLAIM-485.md), Active since the twelfth status review, holds that allocating
 authority among one's own processes by standards one cannot revise makes a
-system no more self-governing, in TERM-045's sense 5, than an external
+system no more self-governing, in [TERM-045](../terms.d/TERM-045.md)'s sense 5, than an external
 scheduler would. This claim's case for "closer to a self, in the
 self-governing sense" is that a will-organization supplies "standards that
 decide among its own regimes", which is that allocation. Until the claim is
 narrowed to willed agents whose will-organization can revise those
-standards (TERM-023's transformation dimension), or argues against
-CLAIM-485, the comparison in sense 5 is unsupported. TERM-048's "What it is
+standards ([TERM-023](../terms.d/TERM-023.md)'s transformation dimension), or argues against
+[CLAIM-485](CLAIM-485.md), the comparison in sense 5 is unsupported. [TERM-048](../terms.d/TERM-048.md)'s "What it is
 not", which gives a willed agent "something like the self-governance
 unity", carries the same tension.

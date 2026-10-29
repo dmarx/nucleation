@@ -301,5 +301,5 @@ Defeater (b) is pressed by the claim's own readings and unanswered. Of the
 measured correspondences the record holds, Singer's are validated only by
 cycle consistency under a noise model and Robinson's are trusted, so no held
 case checks a correspondence that measurement establishes against evidence
-it does not itself produce (CLAIM-143). Such a case, or narrowing
+it does not itself produce ([CLAIM-143](CLAIM-143.md)). Such a case, or narrowing
 "establish" to "estimate", would answer it.

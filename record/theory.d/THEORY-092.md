@@ -225,7 +225,7 @@ intelligence.
 
 The record states no processing condition that separates Block's machine
 from intelligent systems without excluding humans, Martians or learning
-machines, and it holds no behaviourist reply to the machine. LIT-440 and
-LIT-398 are read in full (NOTE-350, NOTE-353) and neither takes up the
+machines, and it holds no behaviourist reply to the machine. [LIT-440](../literature.d/LIT-440.md) and
+[LIT-398](../literature.d/LIT-398.md) are read in full ([NOTE-350](../notes.d/NOTE-350.md), [NOTE-353](../notes.d/NOTE-353.md)) and neither takes up the
 lookup machine, so the reply the promote_when asks for has to come from
 another work.

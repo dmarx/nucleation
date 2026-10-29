@@ -98,7 +98,7 @@ measures the model's preferences.
 - It does not settle [QUESTION-005](../questions.d/QUESTION-005.md). It names one way the
   operationalization can build its verdict into the measurement.
 - The documented support is one training case, in image generation
-  (CASE-041), and one selection case, in translation (CASE-071).
+  ([CASE-041](../cases.d/CASE-041.md)), and one selection case, in translation ([CASE-071](../cases.d/CASE-071.md)).
 
 ## Note of 2026-10-13: the general content is filed separately
 

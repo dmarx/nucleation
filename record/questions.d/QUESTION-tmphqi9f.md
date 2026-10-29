@@ -9,10 +9,10 @@ tags:
 date: '2026-10-29'
 line: will-organization
 summary: >-
-  The promotion conditions formerly on THEORY-907 and THEORY-917, moved
+  The promotion conditions formerly on [THEORY-907](../theory.d/THEORY-907.md) and [THEORY-917](../theory.d/THEORY-917.md), moved
   here together when the thirteenth status review narrowed both to Chou,
-  Wilson and Smith's review and promoted them, as THEORY-285's moved to
-  QUESTION-303. Both ask whether the review's patterns hold with facets,
+  Wilson and Smith's review and promoted them, as [THEORY-285](../theory.d/THEORY-285.md)'s moved to
+  [QUESTION-303](QUESTION-303.md). Both ask whether the review's patterns hold with facets,
   tasks and confounds separated.
 ---
 
@@ -20,7 +20,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-907 and THEORY-917 hold what the review reports, mostly from
+[THEORY-907](../theory.d/THEORY-907.md) and [THEORY-917](../theory.d/THEORY-917.md) hold what the review reports, mostly from
 sub-clinical samples, single tasks and single anxiety measures, with
 stress and anxiety treated together and none of the main findings
 replicated.
@@ -29,7 +29,7 @@ replicated.
 
 The former promote_when of each, unchanged.
 
-**THEORY-907.** For the foraging pattern: a replicated study with
+**[THEORY-907](../theory.d/THEORY-907.md).** For the foraging pattern: a replicated study with
 clinical as well as sub-clinical anxiety, in which less leaving of
 depleting patches is shown to come from anxiety rather than stress or
 effort cost, with the environment's reward rate known. For the checking
@@ -42,7 +42,7 @@ people check as much as others once the cost of detection is equated.
 Further correlational studies with a single anxiety measure cannot
 settle the mechanism.
 
-**THEORY-917.** A study in which the same participants do more than one
+**[THEORY-917](../theory.d/THEORY-917.md).** A study in which the same participants do more than one
 exploration task (a Horizon Task and a restless or two-armed bandit at
 least), with state, trait, somatic and cognitive anxiety measured by the
 same instruments, and preferably including clinical anxiety, showing

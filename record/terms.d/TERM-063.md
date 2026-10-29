@@ -97,10 +97,10 @@ an agent and which autonomy it needs.
 
 ## Note of 2026-10-29: what holds it back
 
-It rivals TERM-044, which is Active, and the test that would choose between
+It rivals [TERM-044](TERM-044.md), which is Active, and the test that would choose between
 them has not been run. No measure of closure, of normativity, or of
 interactional asymmetry independent of how the modeller splits parameters
 from variables has been applied to a protocell model, an evolved robot
-controller and a homeostat (THEORY-071's promote_when). The other route is
+controller and a homeostat ([THEORY-071](../theory.d/THEORY-071.md)'s promote_when). The other route is
 the owner's ruling that the two are complementary dimensions, which would
 also retitle this term away from the unqualified "agent".

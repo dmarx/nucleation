@@ -74,5 +74,5 @@ The identification needs an episode in which the precedence a motive
 claims, the authority it is granted and the marks of conflict
 (interruption, oscillation, a costly override) are each recorded, so that
 gap and conflict can be seen to vary together. The record holds none.
-CASE-151 and CASE-127 separate access from authority, and their notes say
+[CASE-151](../cases.d/CASE-151.md) and [CASE-127](../cases.d/CASE-127.md) separate access from authority, and their notes say
 they do not show that a motive claimed precedence.

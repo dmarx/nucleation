@@ -114,6 +114,6 @@ look for one.
 No criterion that would make a large model an agent rather than a technology
 has been stated and applied. The account's distinctive prediction, that
 routing cultural production through such models narrows what is produced, is
-untested: THEORY-226 measures a shared direction of LLM revisions, not their
+untested: [THEORY-226](THEORY-226.md) measures a shared direction of LLM revisions, not their
 dispersion against human revisions. The paper offers no evidence, so the
 reading holds only as a classification argued by analogy.

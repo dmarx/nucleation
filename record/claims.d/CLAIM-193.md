@@ -159,7 +159,7 @@ judges are a probe family at all is the open dispute between [CLAIM-142](CLAIM-1
 
 ## Note of 2026-10-29: what holds it back
 
-Its premises are now Active (CLAIM-264, CLAIM-269), and its defeat condition
+Its premises are now Active ([CLAIM-264](CLAIM-264.md), [CLAIM-269](CLAIM-269.md)), and its defeat condition
 was restated today to its own step: that a linear family used on
 communicative realizations reads them through one representation with a
 kernel. The restated test has not yet been weighed against the record's
