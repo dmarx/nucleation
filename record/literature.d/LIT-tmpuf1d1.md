@@ -74,13 +74,13 @@ Not read. No lawful copy was reached on 2026-10-29 (status note).
 
 ## Why this is here
 
-CLAIM-327 separates three stages of a slow collective variable: an
+[CLAIM-327](../claims.d/CLAIM-327.md) separates three stages of a slow collective variable: an
 observer finds it, members read and use it, and their use regenerates
-it. Its note of 2026-10-29 found that Flack 2012 (LIT-1122, NOTE-1351)
+it. Its note of 2026-10-29 found that Flack 2012 ([LIT-1122](LIT-1122.md), [NOTE-1351](../notes.d/NOTE-1351.md))
 shows only the first and asserts the second from earlier studies. This
 is the earliest of them: the study that builds the power measure from
 the signalling network and relates it to how others solicit and accept
 intervention. Whether stage 2 has evidence, members conditioning on the
 consensus rather than on the signals themselves, turns on its
-methods. CLAIM-331, on levels as slower variables, cites the same line
+methods. [CLAIM-331](../claims.d/CLAIM-331.md), on levels as slower variables, cites the same line
 of work.

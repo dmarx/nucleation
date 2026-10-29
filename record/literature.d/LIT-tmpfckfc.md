@@ -72,11 +72,11 @@ Not read. No lawful copy was reached on 2026-10-29 (status note).
 
 ## Why this is here
 
-CLAIM-327 says a slow collective variable is part of a collective's
+[CLAIM-327](../claims.d/CLAIM-327.md) says a slow collective variable is part of a collective's
 dynamics when members read it, act on it and so regenerate it. Its tests
 include "causal uptake under intervention", and its defeated_if names
 interventions on members' access to the variable that leave their
-behaviour unchanged. Flack 2012 (LIT-1122, NOTE-1351) rests part of its
+behaviour unchanged. Flack 2012 ([LIT-1122](LIT-1122.md), [NOTE-1351](../notes.d/NOTE-1351.md)) rests part of its
 argument on this paper's knockout of policing. It is the one
 intervention in the literature the claim draws on. What a reading must
 settle is what was intervened on: removing the policers removes an

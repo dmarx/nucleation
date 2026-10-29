@@ -163,21 +163,21 @@ Hang-Kwang and Pimm (1993) and Capitán, Cuesta and Bascompte (2009); the
 cycling example is Schreiber and Rittenhouse (2004). The Lyapunov
 function is MacArthur's (1970), and the consumer–resource ordering is
 Marsland, Cui and Mehta's minimum environmental perturbation principle
-(LIT-1230, NOTE-1352). The chapter's graph differs from Hofbauer and
-Schreiber's invasion graph (LIT-1233, NOTE-1379), which it does not cite.
+([LIT-1230](../literature.d/LIT-1230.md), [NOTE-1352](NOTE-1352.md)). The chapter's graph differs from Hofbauer and
+Schreiber's invasion graph ([LIT-1233](../literature.d/LIT-1233.md), [NOTE-1379](NOTE-1379.md)), which it does not cite.
 There, an edge S → T needs every species in T but not S to invade S and
 every species lost to be unable to invade T. Here an edge is one invasion
-followed by the dynamics. Bunin (LIT-1234, NOTE-1397) gives the
+followed by the dynamics. Bunin ([LIT-1234](../literature.d/LIT-1234.md), [NOTE-1397](NOTE-1397.md)) gives the
 multiple-attractor phase of random symmetric Lotka–Volterra models in
 which the chapter's indefinite case lives.
 
 ## Bearing on the record
 
-- **CLAIM-369, the note of 2026-10-29's open point.** The triage asked
+- **[CLAIM-369](../claims.d/CLAIM-369.md), the note of 2026-10-29's open point.** The triage asked
   whether this paper shows that the symmetric case gives an acyclic
   invasion graph and order-independent assembly. **It shows the first
   for its own assembly graph, and the second only when the interaction
-  matrix is positive definite.** For CLAIM-369's class, A = UᵀU and
+  matrix is positive definite.** For [CLAIM-369](../claims.d/CLAIM-369.md)'s class, A = UᵀU and
   r = Uᵀb − c, the claim's objective is the chapter's V up to sign and
   a constant. With v = w = 1, L(n) = ½‖b‖² − (rᵀn − ½nᵀAn), and at any
   equilibrium nᵀAn = rᵀn, so L(n*) = ½‖b‖² − ½V(n*). Each successful
@@ -186,16 +186,16 @@ which the chapter's indefinite case lives.
   or singular. When it is positive definite, the chapter gives one
   end-point, reached in any order of arrival, and every feasible
   sub-community assembled without extinctions. When it is singular,
-  which CLAIM-369 allows ("With A singular there may be several"), the
+  which [CLAIM-369](../claims.d/CLAIM-369.md) allows ("With A singular there may be several"), the
   chapter's genericity assumption fails and it says nothing. The
   chapter's indefinite case, with acyclicity but priority effects,
   cannot arise from a Gram matrix. Two further limits on the transfer:
-  the chapter needs positive entries in B, which is CLAIM-369's sign
+  the chapter needs positive entries in B, which is [CLAIM-369](../claims.d/CLAIM-369.md)'s sign
   condition for the ecological reading, and its pool admits only
   species with r_i > 0.
 - **Hofbauer and Schreiber's graph, closed here by derivation.** The
   chapter's "the existence of V implies that G is acyclic" is asserted.
-  It holds, and it holds for the invasion graph of LIT-1233 too. At
+  It holds, and it holds for the invasion graph of [LIT-1233](../literature.d/LIT-1233.md) too. At
   equilibria x_S and x_T of any symmetric system, V(x_S) = rᵀx_S and
   V(x_T) = rᵀx_T, and writing f_k(S) = r_k − (Ax_S)_k for a species' growth
   when rare at x_S,
@@ -210,11 +210,11 @@ which the chapter's indefinite case lives.
   (2026-10-29) on 300 random systems of three to six species, Gram,
   signed-indefinite and positive-entry symmetric matrices: 3,274
   feasible equilibria, 14,266 invasion-graph edges, V increased along
-  every one and the identity held to 10⁻⁹. So CLAIM-369's class always
-  meets LIT-1233's acyclicity hypothesis, and signs of invasion growth
-  rates decide robust permanence there. Filed as THEORY-tmplmes0
-  (Active); a dated note on CLAIM-369 is proposed.
-- **QUESTION-083, entrenchment by order of arrival.** In the potential
+  every one and the identity held to 10⁻⁹. So [CLAIM-369](../claims.d/CLAIM-369.md)'s class always
+  meets [LIT-1233](../literature.d/LIT-1233.md)'s acyclicity hypothesis, and signs of invasion growth
+  rates decide robust permanence there. Filed as [THEORY-tmplmes0](../theory.d/THEORY-tmplmes0.md)
+  (Active); a dated note on [CLAIM-369](../claims.d/CLAIM-369.md) is proposed.
+- **[QUESTION-083](../questions.d/QUESTION-083.md), entrenchment by order of arrival.** In the potential
   case with a positive definite Gram matrix, there is none: every order
   of arrival ends in the same community, and no invasion sequence
   returns to an earlier one. Order-dependence needs a non-positive-
@@ -223,7 +223,7 @@ which the chapter's indefinite case lives.
   question's note of 2026-10-29) and sharpens it: in this class an early
   entrant can be displaced, but the community it is displaced into is
   fixed by the pool, not by history.
-- **QUESTION-132, "judged by invasion graphs".** In the potential case
+- **[QUESTION-132](../questions.d/QUESTION-132.md), "judged by invasion graphs".** In the potential case
   the invasion graph is always acyclic (above), so the question's second
   added condition, that signs decide only if the graph is acyclic, is
   met automatically there; cycles among roles need asymmetry or a

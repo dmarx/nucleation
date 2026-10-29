@@ -73,12 +73,12 @@ Not read. No lawful copy was reached on 2026-10-29 (status note).
 
 ## Why this is here
 
-QUESTION-132 asks when differentiated operators each recover when rare,
+[QUESTION-132](../questions.d/QUESTION-132.md) asks when differentiated operators each recover when rare,
 and names its first outcome, stabilizing coexistence, for Chesson
-without having read him. Hofbauer and Schreiber (LIT-1233, NOTE-1379)
+without having read him. Hofbauer and Schreiber ([LIT-1233](LIT-1233.md), [NOTE-1379](../notes.d/NOTE-1379.md))
 say they make rigorous this paper's "−i community", the community a
 species must invade for its recovery-when-rare to count. So this paper
 is where the record's multispecies recovery criterion comes from, and it
-stands in for Chesson's review of 2000 (LIT-1219), which is Unavailable.
-QUESTION-083's note of 2026-10-18 asks for Chesson to be read before any
+stands in for Chesson's review of 2000 ([LIT-1219](LIT-1219.md)), which is Unavailable.
+[QUESTION-083](../questions.d/QUESTION-083.md)'s note of 2026-10-18 asks for Chesson to be read before any
 negative-frequency-dependence criterion there gets stronger standing.

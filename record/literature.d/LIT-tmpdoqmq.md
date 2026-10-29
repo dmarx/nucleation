@@ -68,21 +68,21 @@ be fetched on 2026-10-29 (status note).
 
 ## Why this is here
 
-The triage of 2026-10-29 filed it for four entries. QUESTION-083's note
+The triage of 2026-10-29 filed it for four entries. [QUESTION-083](../questions.d/QUESTION-083.md)'s note
 of 2026-10-18 recommends reading Chesson before any
 negative-frequency-dependence criterion there is given stronger
-standing, and Chesson's review (LIT-1219) is Unavailable. QUESTION-132's
-first outcome, stabilizing coexistence, is named for Chesson. CLAIM-279's
-note brings in his stabilizing and equalizing mechanisms. CASE-118 calls
+standing, and Chesson's review ([LIT-1219](LIT-1219.md)) is Unavailable. [QUESTION-132](../questions.d/QUESTION-132.md)'s
+first outcome, stabilizing coexistence, is named for Chesson. [CLAIM-279](../claims.d/CLAIM-279.md)'s
+note brings in his stabilizing and equalizing mechanisms. [CASE-118](../cases.d/CASE-118.md) calls
 ρ, the inner product of two unit feature vectors, the components'
 overlap, and finds an invasion growth of 1 − ρ. This paper defines niche
-overlap for MacArthur's model, which is CLAIM-369's model class, so it
-is the primary source against which CASE-118's ρ should be checked.
+overlap for MacArthur's model, which is [CLAIM-369](../claims.d/CLAIM-369.md)'s model class, so it
+is the primary source against which [CASE-118](../cases.d/CASE-118.md)'s ρ should be checked.
 
-What the record can already say, from Letten, Ke and Fukami (LIT-1237,
-NOTE-1377), who follow this paper: in Lotka–Volterra form Chesson's
-niche overlap is ρ = √(α₁₂α₂₁/α₁₁α₂₂). For CASE-118's matrix
+What the record can already say, from Letten, Ke and Fukami ([LIT-1237](LIT-1237.md),
+[NOTE-1377](../notes.d/NOTE-1377.md)), who follow this paper: in Lotka–Volterra form Chesson's
+niche overlap is ρ = √(α₁₂α₂₁/α₁₁α₂₂). For [CASE-118](../cases.d/CASE-118.md)'s matrix
 [[1, ρ], [ρ, 1]] that is ρ itself, so 1 − ρ is Chesson's niche
 difference, not his overlap. Whether this paper's overlap for MacArthur's
-model is the cosine of the components' feature vectors, as CASE-118
+model is the cosine of the components' feature vectors, as [CASE-118](../cases.d/CASE-118.md)
 assumes, is what a reading would settle.

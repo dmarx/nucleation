@@ -24,9 +24,9 @@ source:
 - LIT-tmp8en4t
 - LIT-1233
 summary: >-
-  Re-derived from Serván and Allesina (2021), LIT-tmp8en4t, read in
-  NOTE-tmpwunhc, and applied to Hofbauer and Schreiber's invasion graph
-  (LIT-1233). At an equilibrium V = 2rᵀx − xᵀAx equals rᵀx, and for two
+  Re-derived from Serván and Allesina (2021), [LIT-tmp8en4t](../literature.d/LIT-tmp8en4t.md), read in
+  [NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md), and applied to Hofbauer and Schreiber's invasion graph
+  ([LIT-1233](../literature.d/LIT-1233.md)). At an equilibrium V = 2rᵀx − xᵀAx equals rᵀx, and for two
   equilibria the difference is a sum of invasion growth rates weighted by
   abundances, which an edge of the invasion graph makes positive. It
   needs symmetry and one equilibrium per vertex, not positive
@@ -39,9 +39,9 @@ summary: >-
 
 ## Source
 
-Serván and Allesina (2021), LIT-tmp8en4t, read in NOTE-tmpwunhc, for the
+Serván and Allesina (2021), [LIT-tmp8en4t](../literature.d/LIT-tmp8en4t.md), read in [NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md), for the
 assembly-graph result and MacArthur's Lyapunov function; Hofbauer and
-Schreiber (2022), LIT-1233, read in NOTE-1379, for the invasion graph.
+Schreiber (2022), [LIT-1233](../literature.d/LIT-1233.md), read in [NOTE-1379](../notes.d/NOTE-1379.md), for the invasion graph.
 
 ## What was actually shown
 
@@ -71,7 +71,7 @@ equilibrium of 300 random symmetric systems and every invasion-graph
 edge between them, and compared rᵀx across each edge and against the
 identity of step 3. No edge violated it.
 
-When A = UᵀU and r = Uᵀb − c (CLAIM-369), V(x*) = ‖b‖² − 2L(x*), so the
+When A = UᵀU and r = Uᵀb − c ([CLAIM-369](../claims.d/CLAIM-369.md)), V(x*) = ‖b‖² − 2L(x*), so the
 claim's objective L falls along every invasion-graph edge.
 
 ## What this does not say

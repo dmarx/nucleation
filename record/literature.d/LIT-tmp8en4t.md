@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-29 (NOTE-tmpwunhc) in full, from its first author's
+  read 2026-10-29 ([NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md)) in full, from its first author's
   dissertation in the University of Chicago's repository (chapter 3,
   appendix included); worth reading as the result that, for symmetric
   competitive Lotka–Volterra communities, MacArthur's Lyapunov function
@@ -86,17 +86,17 @@ Serván, C. A. & Allesina, S. (2021). Tractable models of ecological
 assembly. *Ecology Letters* 24(5), 1029–1037. doi:10.1111/ele.13702.
 Preprint bioRxiv 2020.09.02.279943 (3 September 2020).
 
-Read in full on 2026-10-29 (NOTE-tmpwunhc), in the first author's
-dissertation version. One account was drawn from it: THEORY-tmplmes0.
+Read in full on 2026-10-29 ([NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md)), in the first author's
+dissertation version. One account was drawn from it: [THEORY-tmplmes0](../theory.d/THEORY-tmplmes0.md).
 
 ## Why this is here
 
-The triage of 2026-10-29 put it in the File tier for CLAIM-369. That
+The triage of 2026-10-29 put it in the File tier for [CLAIM-369](../claims.d/CLAIM-369.md). That
 claim's note of 2026-10-29 said that in its symmetric class the
 objective L decreases along every trajectory, "which should rule out
 heteroclinic cycles and so cyclic invasion graphs", and that neither
-Hofbauer and Schreiber (LIT-1233) nor the reading proved it. This paper
+Hofbauer and Schreiber ([LIT-1233](LIT-1233.md)) nor the reading proved it. This paper
 builds the assembly graph for symmetric competitive Lotka–Volterra
-communities. It also bears on QUESTION-083's entrenchment by order of
-arrival and on QUESTION-132's requirement that coexistence be judged by
+communities. It also bears on [QUESTION-083](../questions.d/QUESTION-083.md)'s entrenchment by order of
+arrival and on [QUESTION-132](../questions.d/QUESTION-132.md)'s requirement that coexistence be judged by
 invasion graphs, in the potential case.
