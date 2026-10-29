@@ -299,23 +299,23 @@ The claim is unchanged.
 ## Note of 2026-10-29: Bond registered, Edmondson 1996 located, and the monograph
 
 - **Bond.** The earlier note of this date says Bond's chapter "is still
-  not registered". That no longer holds: it is LIT-tmph2snh, Unavailable,
+  not registered". That no longer holds: it is [LIT-tmph2snh](../literature.d/LIT-tmph2snh.md), Unavailable,
   since no lawful copy was reached. Checked against the book's table of
   contents, it is chapter 11, pp. 185–199, of D. S. Wilson and S. C. Hayes
   (eds.), *Evolution and Contextual Behavioral Science* (Context Press,
   2018); Anthony Biglan wrote the foreword and is not an editor. The
-  correction is recorded on LIT-1218. The verdict that Guida et al. are
+  correction is recorded on [LIT-1218](../literature.d/LIT-1218.md). The verdict that Guida et al. are
   not a prior statement of this claim's three-way split still rests on
   Guida et al. alone. The claim does not claim novelty against Bond, so
   nothing in it waits on the reading.
-- **Edmondson 1996**, LIT-tmp36bz2, is registered and Unfetched: an
+- **Edmondson 1996**, [LIT-tmp36bz2](../literature.d/LIT-tmp36bz2.md), is registered and Unfetched: an
   author's upload is located and could not be fetched. By later citations
   of it, it is where Edmondson found that the units with more recorded
   drug errors were those whose climate made errors safe to report. If the
   reading bears that out, it is the nearest observation the record can
   reach of control suppressing disclosure, the effect A42's translation
   predicts ("Less disclosure of near misses"). It is unverified here.
-- **The RefraMED monograph**, LIT-tmpqiicn (NOTE-tmpswlra), agrees with
+- **The RefraMED monograph**, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md) ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), agrees with
   the earlier note that the change that persisted was on inflexibility and
   emotional coping while the change on depression did not. On its own
   analysis those changes were significant from 7 months, where the BJP

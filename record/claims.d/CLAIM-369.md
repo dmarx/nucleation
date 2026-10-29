@@ -221,14 +221,14 @@ The claim is unchanged.
 
 The open point the earlier note of this date leaves, whether this claim's
 class rules out cyclic invasion graphs, is closed by derivation.
-THEORY-tmplmes0 (Active), from Serván and Allesina, LIT-tmp8en4t
-(NOTE-tmpwunhc): for any symmetric interaction matrix, the difference in
+[THEORY-tmplmes0](../theory.d/THEORY-tmplmes0.md) (Active), from Serván and Allesina, [LIT-tmp8en4t](../literature.d/LIT-tmp8en4t.md)
+([NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md)): for any symmetric interaction matrix, the difference in
 rᵀx between two equilibria is a sum of invasion growth rates weighted by
 abundances, which an edge of Hofbauer and Schreiber's invasion graph
-(LIT-1233) makes positive. So rᵀx rises along every edge and the graph has
+([LIT-1233](../literature.d/LIT-1233.md)) makes positive. So rᵀx rises along every edge and the graph has
 no cycles. Only symmetry and an equilibrium for each vertex are needed. In
 this claim's class V(x*) = ‖b‖² − 2L(x*), so L falls along every edge, the
-class always meets LIT-1233's acyclicity hypothesis, and the signs of
+class always meets [LIT-1233](../literature.d/LIT-1233.md)'s acyclicity hypothesis, and the signs of
 invasion growth rates decide robust permanence there.
 
 On order of arrival, the chapter gives one end-point, reached in any order

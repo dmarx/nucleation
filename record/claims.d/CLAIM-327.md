@@ -168,12 +168,12 @@ Two of the earlier studies Flack 2012 argues the second stage from are now
 registered, and both are Unavailable: no lawful copy was reached.
 
 - **Flack and Krakauer 2006**, "Encoding power in communication networks",
-  LIT-tmpuf1d1, which builds the power measure from the signalling network
+  [LIT-tmpuf1d1](../literature.d/LIT-tmpuf1d1.md), which builds the power measure from the signalling network
   and relates it to how others solicit and accept intervention. Whether it
   shows members conditioning on the consensus rather than on the signals
   themselves turns on its methods.
 - **Flack, Girvan, de Waal and Krakauer 2006**, "Policing stabilizes
-  construction of social niches in primates", LIT-tmpfckfc, the knockout
+  construction of social niches in primates", [LIT-tmpfckfc](../literature.d/LIT-tmpfckfc.md), the knockout
   of policing that Flack 2012 rests part of its argument on, and the one
   intervention in the literature this claim draws on.
 

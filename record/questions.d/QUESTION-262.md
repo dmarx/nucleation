@@ -97,7 +97,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: a behavioural outcome, and a meta-analysis without one
 
-- **Scacco and Warren**, LIT-tmpi9wm8 (NOTE-tmpf5rji). It meets the
+- **Scacco and Warren**, [LIT-tmpi9wm8](../literature.d/LIT-tmpi9wm8.md) ([NOTE-tmpf5rji](../notes.d/NOTE-tmpf5rji.md)). It meets the
   measurement demand: conduct scored by incentivized, private, sealed
   games, which do not pass through the interpretation under test, and its
   stranger rounds are the "unfamiliar group members" the question names.
@@ -113,12 +113,12 @@ The question is unchanged and stays Open.
   attitudes beside a positive result on behaviour; its registration is
   dated seven months after the endline, though before the researchers had
   the outcome data.
-- **Lemmer and Wagner**, LIT-tmpn3fwx (NOTE-tmpgbgvt). No help on the
+- **Lemmer and Wagner**, [LIT-tmpn3fwx](../literature.d/LIT-tmpn3fwx.md) ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)). No help on the
   measurement demand: no behavioural outcome could be included. On "local
   against general", the outcomes reach the whole target outgroup and
   unspecified ethnic outgroups, but no comparison measured a specific
   outgroup not involved, so generalization to the category is supported
-  and generalization beyond it untested, as NOTE-1393 found for its
+  and generalization beyond it untested, as [NOTE-1393](../notes.d/NOTE-1393.md) found for its
   sample. On the question's third part, between studies, programmes in
   which participants only read or watch cross-group friendships did no
   worse than those in which they took part, on immediate self-reports;

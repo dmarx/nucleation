@@ -225,7 +225,7 @@ The question is unchanged and stays Open.
 A21's condition, in the note of 2026-10-18, C_*(P_ℓ^{do(a)}) = P_L^{do(ā)}
 for a declared family of interventions, puts Eberhardt and Lee's demands
 of commutativity and unambiguous manipulation in one line. Their paper,
-LIT-tmpr2bnp, is now read (NOTE-tmp0q96y). It shows that EI's family,
+[LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md), is now read ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)). It shows that EI's family,
 uniform averages over realizers, passes coarse-grainings that fail both.
 In their (14), EI merges two states whose effects on the macro effect
 variable differ (0.8/0.2 against 0.9/0.1). In their (17), the partition is
@@ -236,7 +236,7 @@ the criterion alone does not license the level it picks.
 
 On where effective information parts from the other criteria: under one
 distribution over micro states at both levels, EI cannot favour a macro at
-all (THEORY-tmphfpe7). Its macro advantage is a property of the
+all ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)). Its macro advantage is a property of the
 distribution chosen at each level.
 
 The question is unchanged and stays Open.

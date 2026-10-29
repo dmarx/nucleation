@@ -181,9 +181,9 @@ evidence. This entry's title and status are unchanged.
 
 ## Note of 2026-10-29: what the gain is a gain of
 
-THEORY-tmphfpe7 (Active), filed from the readings of Comolatti and Hoel
-(LIT-tmpzfaqi, NOTE-tmpcmbzs) and Eberhardt and Lee (LIT-tmpr2bnp,
-NOTE-tmp0q96y), extends this entry. Nothing here changes: the arithmetic
+[THEORY-tmphfpe7](THEORY-tmphfpe7.md) (Active), filed from the readings of Comolatti and Hoel
+([LIT-tmpzfaqi](../literature.d/LIT-tmpzfaqi.md), [NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md)) and Eberhardt and Lee ([LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md),
+[NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)), extends this entry. Nothing here changes: the arithmetic
 holds, and the title already names the measure and the intervention
 distribution. What the extension adds is what the advantage is. Uniform
 interventions at each level amount to one distribution over micro states,
@@ -191,6 +191,6 @@ uniform over blocks and then within each block, which is not the micro
 uniform whenever blocks differ in size. Under any one distribution at both
 levels, macro EI cannot exceed micro EI. So a positive CE equals the micro
 mechanism's gain from that distribution over the uniform, less a
-non-negative loss. That answers the first half of QUESTION-204. The four
+non-negative loss. That answers the first half of [QUESTION-204](../questions.d/QUESTION-204.md). The four
 examples behind this entry's 0.40 to 2.92 bits were not recomputed, and
-LIT-1038's temporal and spatio-temporal macros are outside the bound.
+[LIT-1038](../literature.d/LIT-1038.md)'s temporal and spatio-temporal macros are outside the bound.

@@ -139,7 +139,7 @@ Neither meets the defeater. The claim is unchanged and stays Proposed.
 Two more works bear on the second defeater, and one changes what the
 earlier note of this date says.
 
-- **Lemmer and Wagner**, LIT-tmpn3fwx (NOTE-tmpgbgvt). The earlier note's
+- **Lemmer and Wagner**, [LIT-tmpn3fwx](../literature.d/LIT-tmpn3fwx.md) ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)). The earlier note's
   "The defeater has no test in the randomized contact literature" is no
   longer true as a statement of what the record holds. This meta-analysis
   estimates programmes with no taking part, eight extended-contact
@@ -159,7 +159,7 @@ earlier note of this date says.
   So the sentence should read: no within-study test; between studies,
   observed friendships do about as well as taking part, on immediate
   self-reports.
-- **Scacco and Warren**, LIT-tmpi9wm8 (NOTE-tmpf5rji). In a randomized
+- **Scacco and Warren**, [LIT-tmpi9wm8](../literature.d/LIT-tmpi9wm8.md) ([NOTE-tmpf5rji](../notes.d/NOTE-tmpf5rji.md)). In a randomized
   field experiment, conduct moved and stated prejudice did not: mixed
   classes discriminated less in incentivized games than single-religion
   classes. That is what part 2 of the claim, taking part before the

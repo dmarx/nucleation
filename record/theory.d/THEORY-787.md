@@ -108,18 +108,18 @@ distribution over micro states is used at both levels.
 The promote_when says this account is in trouble if the macro advantage
 disappears whenever the same intervention distribution over micro states
 is used at both levels. For effective information that condition is now
-met, and by proof, not by example. THEORY-tmphfpe7 (Active): with one
+met, and by proof, not by example. [THEORY-tmphfpe7](THEORY-tmphfpe7.md) (Active): with one
 distribution over micro states at both levels, each macro intervention
 realized by that distribution within its block, the macro EI is I(f(X);
 f(Y)), which data processing bounds by I(X; Y), the micro EI. A macro can
 at most tie. By the same derivation, the positive causal emergence of
-LIT-1038 is the micro mechanism's gain from changing the distribution,
+[LIT-1038](../literature.d/LIT-1038.md) is the micro mechanism's gain from changing the distribution,
 from the uniform one to the one Hoel's macro interventions induce, less a
 non-negative loss.
 
 Two readings of this date bear the same way.
 
-- **Comolatti and Hoel**, LIT-tmpzfaqi (NOTE-tmpcmbzs), concede the
+- **Comolatti and Hoel**, [LIT-tmpzfaqi](../literature.d/LIT-tmpzfaqi.md) ([NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md)), concede the
   decisive case: under the system's own stationary distribution, used at
   both levels, EI shows no emergence, "This was known". Their reply, that
   other measures and individual transitions still show emergence, changes
@@ -129,14 +129,14 @@ Two readings of this date bear the same way.
   asserts. Their only system is a bipartite chain built so that its macro
   is a deterministic NOT gate, a hand-built toy of the kind the
   promote_when says cannot settle it.
-- **Eberhardt and Lee**, LIT-tmpr2bnp (NOTE-tmp0q96y), trace EI's
+- **Eberhardt and Lee**, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md) ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)), trace EI's
   ambiguity and non-commutativity to the maximum-entropy distribution,
   "extraneous to the system". They do not compute EI under a common
   distribution; the record's derivation supplies that step.
 
 The bound covers a coarse-graining of one transition. It does not reach
-LIT-1038's temporal and spatio-temporal macros, and it says nothing about
-measures that data processing does not bound (THEORY-tmphfpe7, "What this
+[LIT-1038](../literature.d/LIT-1038.md)'s temporal and spatio-temporal macros, and it says nothing about
+measures that data processing does not bound ([THEORY-tmphfpe7](THEORY-tmphfpe7.md), "What this
 does not say").
 
 A move to Rejected, or a narrowing of this account to measures that data

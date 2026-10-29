@@ -85,10 +85,10 @@ specialists can persist without any higher-level governance.
 
 ## Note of 2026-10-29: ρ in Chesson's terms
 
-Chesson's 1990 paper on MacArthur's consumer–resource model, LIT-tmpdoqmq,
+Chesson's 1990 paper on MacArthur's consumer–resource model, [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md),
 is registered and Unfetched, so this case's ρ cannot yet be checked
 against his definition at its source. What the record can say comes from
-Letten, Ke and Fukami, LIT-1237 (NOTE-1377), who follow that paper. In
+Letten, Ke and Fukami, [LIT-1237](../literature.d/LIT-1237.md) ([NOTE-1377](../notes.d/NOTE-1377.md)), who follow that paper. In
 Lotka–Volterra form, Chesson's niche overlap is √(α₁₂α₂₁/α₁₁α₂₂) and his
 fitness ratio is f₂/f₁ = √(α₁₁α₁₂/α₂₂α₂₁), with mutual invasibility ρ <
 f₂/f₁ < 1/ρ.
@@ -100,5 +100,5 @@ Chesson's, and the invasion growth 1 − ρ is his niche difference, not his
 overlap. The coexistence bound |δ| < (1 − ρ)/(1 + ρ) is his ρ < f₂/f₁ <
 1/ρ, rewritten (checked by hand, 2026-10-29). Whether Chesson's overlap
 for MacArthur's model is the cosine of the components' feature vectors, as
-the case assumes, is what a reading of LIT-tmpdoqmq would settle. The
+the case assumes, is what a reading of [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md) would settle. The
 construction is unchanged.

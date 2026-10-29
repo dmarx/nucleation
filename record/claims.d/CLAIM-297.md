@@ -206,8 +206,8 @@ claim is unchanged.
 DeMarzo, Vayanos and Zwiebel 2001, "Social Networks and Financial
 Markets", which the earlier note of this date calls not registered and
 says should be read before the loop is called new, is now registered as
-LIT-tmpapuas. It is Unavailable: no copy of the working paper was found.
-So that condition stays unmet. The description in LIT-1134 leaves one
+[LIT-tmpapuas](../literature.d/LIT-tmpapuas.md). It is Unavailable: no copy of the working paper was found.
+So that condition stays unmet. The description in [LIT-1134](../literature.d/LIT-1134.md) leaves one
 difference open. In this claim an operator's authority is scored against
 the interpretation it helped make dominant. In the companion, as
 described, listening is scored by trading profits, which depend on prices

@@ -258,7 +258,7 @@ compromise. The claim is unchanged and stays Proposed.
 ## Note of 2026-10-29: Edmondson 1996, located and not fetched
 
 Edmondson's 1996 paper on the detection and correction of drug errors,
-LIT-tmp36bz2, is registered and Unfetched: an author's upload is located
+[LIT-tmp36bz2](../literature.d/LIT-tmp36bz2.md), is registered and Unfetched: an author's upload is located
 and could not be fetched. By the triage's account and later citations of
 it, it is where she found that the units with more recorded drug errors
 were the ones whose climate made errors safe to report, so that a punitive

@@ -230,15 +230,15 @@ unread, is now Unavailable. The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: acyclic in the potential case, a candidate case, and Chesson registered
 
-- **The potential case.** THEORY-tmplmes0 (Active), from Serván and
-  Allesina, LIT-tmp8en4t (NOTE-tmpwunhc): with a symmetric interaction
+- **The potential case.** [THEORY-tmplmes0](../theory.d/THEORY-tmplmes0.md) (Active), from Serván and
+  Allesina, [LIT-tmp8en4t](../literature.d/LIT-tmp8en4t.md) ([NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md)): with a symmetric interaction
   matrix, rᵀx strictly increases along every edge of Hofbauer and
   Schreiber's invasion graph, so the graph has no cycles. In that class
   the second condition the earlier note of this date adds, that signs
   decide only if the invasion graph is acyclic, is met automatically.
   Cycles among roles need asymmetry, or a resource that can be excluded
   (the chapter's §3.5.4).
-- **Ito and Kaneko**, LIT-tmpwxstp (NOTE-tmp2xl62). Identical chaotic
+- **Ito and Kaneko**, [LIT-tmpwxstp](../literature.d/LIT-tmpwxstp.md) ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)). Identical chaotic
   units with similarity-reinforced, normalized attention split into a core
   and a periphery. That looks like the third outcome, entrenched
   asymmetry, more than stabilizing coexistence: membership in the core is
@@ -248,9 +248,9 @@ unread, is now Unavailable. The question is unchanged and stays Open.
   it is a candidate case for this question's classification, not evidence
   for one outcome. Removing core units and seeing whether the periphery
   refills the core would decide it cheaply.
-- **Chesson.** His 1994 paper, LIT-tmpf923j, whose "−i community" Hofbauer
+- **Chesson.** His 1994 paper, [LIT-tmpf923j](../literature.d/LIT-tmpf923j.md), whose "−i community" Hofbauer
   and Schreiber make rigorous, is registered and Unavailable. His 1990
-  paper on MacArthur's consumer–resource model, LIT-tmpdoqmq, is
+  paper on MacArthur's consumer–resource model, [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md), is
   registered and Unfetched: the author's reprint is located and could not
   be fetched. The first outcome's name still rests on no reading of
   Chesson.

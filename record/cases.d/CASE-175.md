@@ -169,7 +169,7 @@ the transfer while the person was still held, does not arise in
 ## Note of 2026-10-29: the remand orders, read
 
 The district court's order of 15 April 2025 granting expedited discovery,
-LIT-tmpw3c17, is read (NOTE-tmpdnf6p), with the two orders it recites.
+[LIT-tmpw3c17](../literature.d/LIT-tmpw3c17.md), is read ([NOTE-tmpdnf6p](../notes.d/NOTE-tmpdnf6p.md)), with the two orders it recites.
 Particulars the case can take as documented:
 
 - **The amended order of 10 April** (ECF No. 51), made hours after the
@@ -190,6 +190,6 @@ Particulars the case can take as documented:
   checked here, that the United States paid six million dollars to house
   the detainees "pending the United States' decision on their long-term
   disposition". That bears on the case's line on custody and control
-  (CLAIM-405).
+  ([CLAIM-405](../claims.d/CLAIM-405.md)).
 
 The case is unchanged.

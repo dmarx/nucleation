@@ -337,7 +337,7 @@ The claim is unchanged.
 
 The other 1999 paper A27's attribution could rest on, Revonsuo and
 Newman's introduction to the same issue of *Consciousness and Cognition*,
-is registered as LIT-tmpn09mk and Unfetched: a copy is located and could
+is registered as [LIT-tmpn09mk](../literature.d/LIT-tmpn09mk.md) and Unfetched: a copy is located and could
 not be fetched. Whether it uses the words "functional" and "phenomenal",
 or gives A27's five-part list, is what a reading would settle. Until then
 the scheme this claim quotes from A27 is not to be credited to either 1999

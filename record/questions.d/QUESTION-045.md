@@ -135,8 +135,8 @@ overcontrol. The question is unchanged.
 ## Note of 2026-10-29: the trial's monograph, read
 
 The earlier note of this date says the BJP paper gives nothing on
-mechanism. The trial's NIHR monograph, LIT-tmpqiicn, now read
-(NOTE-tmpswlra), gives an attempt and no result, so that note's conclusion
+mechanism. The trial's NIHR monograph, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md), now read
+([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), gives an attempt and no result, so that note's conclusion
 stands with a refinement: the mediators were analysed, and the analysis
 did not identify them. They were sessions attended, alliance and DBT
 skills, not the flexibility and emotional expression RO DBT names;
