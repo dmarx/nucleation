@@ -1,22 +1,10 @@
 ---
 number: 19
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp1jea9
-promote_when: >-
-  A held source that states and proves the Schur corollary over the reals,
-  with the three real types. On an isotypic component made of m copies of a
-  real irreducible of real dimension d, the commutant is M_m(𝔽), with 𝔽 = ℝ,
-  ℂ or ℍ. A symmetric commuting operator is then a Hermitian matrix over 𝔽,
-  so each of its eigenvalues has a real multiplicity that is a multiple of d.
-  A representation-theory text such as Serre would do it. The record holds none,
-  and the pieces now come from LIT-329 §3, LIT-305 Lemma 6 and readers'
-  numerical checks. More numerical examples cannot settle it. The account would
-  be refuted by an operator commuting with ρ(G) that has an eigenspace that is
-  not G-invariant. Its converse half would be refuted by a procedure that
-  recovers a unique group from one operator's eigenvalue multiplicities.
 title: 'Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-05'
@@ -36,6 +24,24 @@ history:
     batches 042 and 052). This account keeps the reading of the sources and
     its promote_when, which asks for a held source stating the real Schur
     corollary. Status stays Proposed. Title unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the twelfth status review (ADR-057; ADR-047's ruling on
+    re-derivations, and the owner's ruling of the tenth pass that a
+    re-derivation meets a promote_when asking for a source's own
+    statement). The promote_when asked for "A held source that states and
+    proves the Schur corollary over the reals, with the three real types
+    ... The record holds none, and the pieces now come from LIT-329 §3,
+    LIT-305 Lemma 6 and readers' numerical checks. More numerical examples
+    cannot settle it." The reviewing session read its ask for a held text
+    as an ask for a checked proof, which is what it was missing; the clause
+    on numerical examples rules out examples, not a proof. The note of this
+    date gives the proof, and the reviewing session checked it numerically
+    for one group of each real type, with non-commuting controls, and
+    recomputed the cube's levels under B₃ and S₃. The promote_when's two
+    refutation conditions are CLAIM-385's defeat condition. Title
+    unchanged.
 tags:
 - mathematics
 - representation-learning
@@ -65,7 +71,6 @@ supports:
 - CLAIM-193
 - CLAIM-269
 ---
-<!-- inactive-ok-file: THEORY-017 — Proposed; the sense of intrinsic this account presupposes, and this account is no firmer than it -->
 
 # THEORY-019: Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
@@ -143,9 +148,10 @@ Presupposes [THEORY-017](THEORY-017.md)'s sense of intrinsic: the multiplet is i
 [LIT-322](../literature.d/LIT-322.md)'s weekday circles are real ℤ/7 irreducibles ([NOTE-273](../notes.d/NOTE-273.md)). A degeneracy
 test would see them as pairs only.
 Wedderburn's structure theorem ([THEORY-652](THEORY-652.md)) gives the algebra-side half
-of the real Schur corollary the `promote_when` asks for: each simple real
+of the real Schur corollary: each simple real
 block is a full matrix algebra over a real division algebra. It does not give
-the step from a representation's commutant to such a block. Pontryagin
+the step from a representation's commutant to such a block; the note of
+2026-10-29 gives it. Pontryagin
 duality ([THEORY-645](THEORY-645.md)) is the abelian case, where the irreducibles over ℂ
 are characters.
 
@@ -158,3 +164,34 @@ them together, so they are the record's own result. They are filed as
 [CLAIM-385](../claims.d/CLAIM-385.md), demonstrated, with the proof. This account keeps what the
 sources say and do not say, the readers' real-scalar correction, and the
 promote_when, which a held representation-theory text would meet.
+
+## Note of 2026-10-29: the real Schur corollary, proved
+
+The twelfth status review proved the corollary the promote_when asked a
+held source for, and checked it numerically.
+
+Let V be a real irreducible of G of dimension d, with a G-invariant inner
+product, and let 𝔽 = End_G(V). By Schur's lemma every nonzero element of 𝔽
+is invertible, so 𝔽 is a finite-dimensional real division algebra, and by
+Frobenius's theorem it is ℝ, ℂ or ℍ. On an isotypic component W ≅ V^m an
+intertwiner is an m × m array of intertwiners V → V, so End_G(W) = M_m(𝔽).
+Transposition maps 𝔽 to itself, because ρ is orthogonal. A symmetric s in 𝔽
+has a real eigenvalue λ, and s − λI is in 𝔽 and singular, so it is zero: the
+symmetric elements of 𝔽 are the real scalars, and transposition is 𝔽's
+conjugation. A symmetric operator commuting with ρ is therefore, on W, a
+Hermitian matrix over 𝔽. Each of its eigenspaces in W is G-invariant, so it
+is a sum of copies of V and has real dimension a multiple of d; generically
+there are m eigenvalues, each of multiplicity exactly d.
+
+The check (numpy, run by the reviewing session): for S₃ on three copies of
+its 2-dimensional representation (ℝ type), ℤ/5 on three copies of a rotation
+plane (ℂ type) and the quaternion group on two copies of ℍ (ℍ type), the
+commutant has dimension 9, 18 and 16, which is m² dim 𝔽, and the symmetric
+commutant 6, 9 and 6, the dimension of the Hermitian m × m matrices over 𝔽.
+A group-averaged random symmetric matrix has multiplicities (2, 2, 2),
+(2, 2, 2) and (4, 4), with G-invariant eigenspaces. As controls, a random
+symmetric matrix, and an SO(2)-averaged one perturbed by 10⁻³ in a
+non-commuting direction, have simple spectra. The 3-cube's Laplacian, with
+spectrum 0, 2, 2, 2, 4, 4, 4, 6, commutes with the hyperoctahedral group B₃,
+under which each level has a one-dimensional commutant, and with S₃, under
+which levels 1 and 2 have a two-dimensional one: one spectrum, two groups.

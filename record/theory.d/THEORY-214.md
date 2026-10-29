@@ -1,23 +1,30 @@
 ---
 number: 214
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp07t7w
-promote_when: >-
-  The account is promoted by a study of collectively maintained patterns in
-  a second system, not r/place, with its own record of attacks and repairs,
-  in which (a) a predictor using several pattern-specific time series again
-  beats every generic indicator on held-out patterns, (b) the precursors it
-  uses include the defenders' own conduct (repair, recruitment, accepted
-  change), and (c) a sizeable share of overthrows remain unpredictable. It
-  is weakened if a single generic indicator, properly defined for images,
-  matches the combined predictor, or if the r/place precursors turn out to
-  be artefacts of the Atlas or of the stable-period filter. What cannot
-  settle it: higher accuracy on r/place alone, which says nothing about
-  collective organization; or SHAP readings of the same model, which are
-  the conjecture being tested.
-title: 'Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders'' own conduct, rather than by one generic warning signal, while many overthrows give no warning'
-version: 1
+title: 'On the 2022 r/place canvas, the abrupt overthrow of a crowd-built image from a stable period is predicted up to hours ahead, on held-out images and on the 2023 edition, by a combination of many image-level series far better than by any generic slowing-down indicator; the series the predictor relies on include low past restoring of attacked pixels as well as attack outrunning restoration, and about a quarter of overthrows give no warning at the 20-minute range'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the twelfth status review (ADR-057, ADR-047's
+    evidence ruling, on THEORY-285's precedent). The one study was read in
+    full in NOTE-731 (main text and SI sections 1, 2 and 6; SI 3 to 5
+    skimmed), and the title now claims no more than it measured. Version
+    1's title read: "Crowd-maintained r/place images persist as an
+    equilibrium of attack and repair, and their abrupt overthrow is
+    preceded by several distinct precursors, including the defenders' own
+    conduct, rather than by one generic warning signal, while many
+    overthrows give no warning". "Persist as an equilibrium of attack and
+    repair" is dropped: the state variable presupposes it, and some
+    compositions last through neglect, which is QUESTION-169's question.
+    "The defenders' own conduct" becomes the measured restoring series,
+    since the social readings of the precursors are the authors'
+    conjecture from SHAP curves. The promote_when, a second system and the
+    social reading of the precursors, moves unchanged to
+    QUESTION-tmp619m4.
 tags:
 - complex-systems
 - social-science
@@ -39,9 +46,9 @@ supports:
 - CLAIM-280
 - CLAIM-273
 ---
-<!-- inactive-ok-file: CLAIM-280 CLAIM-279 CLAIM-163 THEORY-069 THEORY-058 — Proposed; open claims and accounts, cited as what this bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-279 CLAIM-163 THEORY-069 THEORY-058 — Proposed; open claims and accounts, cited as what this bears on, nothing here rests on their being settled -->
 
-# THEORY-214: Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning
+# THEORY-214: On the 2022 r/place canvas, the abrupt overthrow of a crowd-built image from a stable period is predicted up to hours ahead, on held-out images and on the 2023 edition, by a combination of many image-level series far better than by any generic slowing-down indicator; the series the predictor relies on include low past restoring of attacked pixels as well as attack outrunning restoration, and about a quarter of overthrows give no warning at the 20-minute range
 
 ## Source
 

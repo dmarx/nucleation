@@ -1,10 +1,20 @@
 ---
 number: 92
-status: Open
+status: Answered
 formerly:
 - QUESTION-tmpt97t5
 title: 'Is endogenous governance part of what makes a system self-governing: can an organization that allocates authority among its own processes be self-governing in a stronger sense than a behaviourally equivalent one whose allocation an external scheduler sets?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Answered at the twelfth status review (ADR-057, ADR-060): CLAIM-485,
+    promoted the same day, answers the question as posed. Endogenous
+    allocation of authority alone gives no stronger sense of
+    self-governance than an external scheduler; endogenous revision of
+    the governing standards when they break down does. CLAIM-284, which
+    also answers it, stays Proposed, and THEORY-219 bears on it.
 tags:
 - self-governance
 - self
@@ -57,3 +67,11 @@ adds nothing in sense 5. Endogenous revision of the governing standards
 adds the stronger sense, and the difference shows outside the regime in
 which the two systems are matched. [THEORY-219](../theory.d/THEORY-219.md) now bears on this question.
 [CLAIM-284](../claims.d/CLAIM-284.md) and the bridge both answer it, and the bridge narrows [CLAIM-284](../claims.d/CLAIM-284.md).
+
+## Note of 2026-10-29: answered
+
+[CLAIM-485](../claims.d/CLAIM-485.md) went Active at the twelfth status review, grounded on what Kahl
+proposes ([THEORY-tmp9nzdb](../theory.d/THEORY-tmp9nzdb.md)) rather than on the truth of his account, which
+stays [THEORY-219](../theory.d/THEORY-219.md)'s question. Its answer is the one the note above gives,
+and the question is now Answered. Whether that answer completes an account
+of the self is [CLAIM-284](../claims.d/CLAIM-284.md)'s question, which stays open.

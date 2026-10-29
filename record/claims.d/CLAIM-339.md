@@ -1,10 +1,23 @@
 ---
 number: 339
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpki5gp
 title: 'A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle''s reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Grounds move from THEORY-628 to THEORY-tmpyxw6o, what Di Paolo
+    argues, split by the twelfth status review on THEORY-1110's pattern
+    (ADR-058): the counter cites the enactive account for what it says,
+    not for its truth, and its free-energy half stands on Friston et al.
+    (NOTE-960). The body cites the split where it cited THEORY-628.
+    Promoted by the same review (ADR-057), at the owner's ruling: every
+    ground is now Active, and its one objection, CLAIM-342, is written
+    in (the note of 2026-10-29, "filed with its concessions"). The claim
+    is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -20,7 +33,7 @@ grounds:
 - THEORY-285
 - LIT-1199
 - CASE-107
-- THEORY-628
+- THEORY-tmpyxw6o
 - THEORY-324
 uses:
 - TERM-020
@@ -38,6 +51,7 @@ summary: >-
 objected_by:
 - CLAIM-342
 ---
+<!-- inactive-ok-file: THEORY-628 — Proposed; named in the history as the reading the grounds moved from -->
 
 # CLAIM-339: A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle's reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too
 
@@ -51,7 +65,7 @@ account says the same of norms. Self-production gives a system only the
 norm "to go on or to die", and that distinction is available to an
 observer, not to the system. A graded norm the system itself has needs
 adaptivity, "to detect tendencies toward the boundary of its viability and
-to act so as to reverse them" ([THEORY-628](../theory.d/THEORY-628.md)). Ashby's ultrastability
+to act so as to reverse them" ([THEORY-tmpyxw6o](../theory.d/THEORY-tmpyxw6o.md)). Ashby's ultrastability
 needs a channel from the essential variables, which are coupled to the
 world ([THEORY-324](../theory.d/THEORY-324.md)).
 
@@ -87,7 +101,7 @@ weakness becomes the strength". Its anchor is not action but existence:
 needed there by stipulation, since "the only way that the agent can change
 hidden states is through action".
 
-What survives is narrower again. The enactive account ([THEORY-628](../theory.d/THEORY-628.md))
+What survives is narrower again. The enactive account ([THEORY-tmpyxw6o](../theory.d/THEORY-tmpyxw6o.md))
 and Ashby's ultrastability ([THEORY-324](../theory.d/THEORY-324.md)) make action, or a channel through
 the essential variables, what grounds a system's norms. The free-energy
 formulation does not supply this counter's premise. On its own terms,

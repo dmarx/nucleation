@@ -1,13 +1,13 @@
 ---
 number: 266
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpbcck8
 title: 'A family of probes that supplies an optimized system''s training signal
   cannot also certify what the system preserves: optimization pushes toward
   whatever the probes reward, including what they cannot see, so preservation
   must be shown under probes not used to train it'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-13'
@@ -15,6 +15,17 @@ history:
     with the group B splits"). The assistant restated the general content
     without the premises about translation that CLAIM-149 rests on; CLAIM-149
     now rests on this claim.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted to Active at the twelfth status review, by the owner's
+    assent in its pull request (ADR-057). Nothing objects to it, its
+    one ground CASE-041 is Active, and no finding meets its defeat
+    condition. CASE-071 is added to illustrated_by: the same bias
+    produced by selection against a metric. The last bullet of "What
+    it does not say", which read "The documented support is one case,
+    in image generation. Hence Proposed.", is replaced. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: Across systems optimized against a probe family, evaluation in
@@ -37,11 +48,14 @@ summary: 'The general content of [CLAIM-149](CLAIM-149.md), filed alone under [A
   of what was preserved. [CASE-041](../cases.d/CASE-041.md) is a documented instance: a Projected FastGAN
   trained against ImageNet features matches StyleGAN2''s FID, also computed
   in ImageNet features, while doing worse in CLIP space and with human judges.'
+illustrated_by:
+- CASE-071
 supports:
 - CLAIM-149
 - CLAIM-190
 ---
-<!-- inactive-ok-file: CLAIM-149 CLAIM-190 — Proposed; cited for what each holds or applies, open, not settled -->
+<!-- inactive-ok-file: CLAIM-149 — Proposed; the application to translation, open -->
+<!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 
 # CLAIM-266: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
 
@@ -77,5 +91,9 @@ point.
   it did not.
 - It does not say held-out probes are neutral. They have their own
   training data.
-- The documented support is one case, in image generation. Hence
-  Proposed.
+- That its generality rests on its cases. Its ground is the argument
+  above: a family the system was optimized against scores it well whether
+  or not it preserved what the family cannot see, so the score cannot tell
+  the two apart. [CASE-041](../cases.d/CASE-041.md) shows the bias in image generation, by training;
+  [CASE-071](../cases.d/CASE-071.md) shows it in translation, by selection against the metric, which
+  the title's "training signal" does not literally cover.

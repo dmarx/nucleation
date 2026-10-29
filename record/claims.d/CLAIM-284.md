@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpspyay
 title: 'A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -42,6 +42,14 @@ history:
     criteria with no endogenous allocation of authority among their
     processes, showing that governance of that kind is not part of what
     makes them selves." The title and status are unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Blocker note updated at the twelfth status review (ADR-057): CLAIM-485
+    is now Active, grounded on THEORY-tmp9nzdb, what Kahl proposes, split
+    from THEORY-219, and QUESTION-092 is Answered. This claim's own
+    promotion is the next pass's question. The claim and its status are
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -208,6 +216,10 @@ among processes. The two complement each other, and both answer
 
 ## Note of 2026-10-29: what holds it back
 
-The record's answer to [QUESTION-092](../questions.d/QUESTION-092.md) is offered, not held. [CLAIM-485](CLAIM-485.md), which
-says what this claim's endogeneity contributes, is Proposed on a Proposed
-reading ([THEORY-219](../theory.d/THEORY-219.md)), and this claim's narrowing adopts its distinction.
+[CLAIM-485](CLAIM-485.md), which says what this claim's endogeneity contributes and whose
+distinction this claim's narrowing adopts, is Active since the twelfth
+status review, grounded on what Kahl proposes ([THEORY-tmp9nzdb](../theory.d/THEORY-tmp9nzdb.md)), and it
+answers [QUESTION-092](../questions.d/QUESTION-092.md). Every premise of this claim is held and no
+objection to it is live. What remains is its own promotion: it is the
+record's central thesis about the self, and whether it is promoted is the
+next pass's question for the owner.

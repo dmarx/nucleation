@@ -1,10 +1,24 @@
 ---
 number: 280
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpjhd7t
 title: 'A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the twelfth status review (ADR-057), at the owner's
+    ruling. Its last Proposed ground, THEORY-214, was narrowed to what
+    Falmagne, Stephenson and Levin measured and promoted the same day, so
+    every ground is Active (CASE-079, CASE-006, THEORY-214, THEORY-216),
+    and no objection is filed. Nothing in the record meets the
+    defeated_if: THEORY-214 finds that some compositions are safe through
+    neglect, not that the long-lived ones mostly were, and that
+    population question is QUESTION-169. The claim is an existence claim,
+    which THEORY-216's Active existence clause carries. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

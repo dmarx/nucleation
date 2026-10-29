@@ -16,7 +16,7 @@ promote_when: >-
   no one, would count against it. More secondary summaries of Fricker
   cannot settle it.
 title: "Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -28,6 +28,13 @@ history:
     (THEORY-326) rather than a correction, because the book itself is
     still unread. Its promote_when names this as the refuting case, so
     this account most likely holds only for Fricker's systematic case.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The twelfth status review (ADR-058) removed THEORY-317 from
+    CLAIM-406's grounds, which cites it only under "Where it bears", so
+    CLAIM-406 is removed from this reading's supports list. The account
+    and its status are unchanged.
 tags:
 - epistemology
 - ethics
@@ -44,8 +51,6 @@ summary: >-
   epistemic dysfunctions. It does not say that every gap in shared
   concepts is an injustice: on the précis's terms the gap must be owed to
   the relative powerlessness of a social group the subject belongs to.
-supports:
-- CLAIM-406
 bears_on:
 - QUESTION-072
 ---

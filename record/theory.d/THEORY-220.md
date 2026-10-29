@@ -22,7 +22,17 @@ promote_when: >-
   that etiological theories handle the swamp lion differently, which
   concern a rival account and not this one's adequacy.
 title: 'A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CLAIM-288's edge becomes corroboration at the twelfth status review
+    (ADR-057, ADR-058), as this entry's own Connections already said: the
+    account is a second route to that claim's premise, which would stand
+    without it. The Connections bullet now says "Corroborated, not
+    grounded". A dated note says what holds it back. The status is
+    unchanged.
 tags:
 - philosophy-of-biology
 - cognition
@@ -44,7 +54,6 @@ summary: >-
   with no model, whose account of having a function (and so of
   malfunction) is deferred to another paper.
 supports:
-- CLAIM-288
 - CLAIM-363
 bears_on:
 - QUESTION-087
@@ -112,7 +121,7 @@ detect, impossible.
 ## Connections
 
 - **[CLAIM-288](../claims.d/CLAIM-288.md) (modeller-fixed objectives cannot show
-  self-constitution).** Supported. On this account a function is relative
+  self-constitution).** Corroborated, not grounded. On this account a function is relative
   to the system whose far-from-equilibrium persistence it serves, and a
   function that exists only in an ascription or explanation is not a
   natural function at all. A reward the modeller writes is not any
@@ -177,3 +186,13 @@ step A16 takes from self-maintenance to "endogenous conditions of success
 and failure": persistence against cessation is an all-or-nothing norm
 "available to an observer, not to the system", and a graded norm needs
 adaptivity. Δ_p measures the all-or-nothing norm. The status is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+No model defines contribution to self-maintenance from the dynamics in a
+way that tells functions from mere causal contributions to persistence.
+The one the record holds, A16's Δ_p (the note of 2026-10-18 above), scores
+every component whose removal shortens persistence as positive, and it
+was applied to none of the flame, the protocell or the controller. Having
+a function, which malfunction needs, is deferred by the source to
+Christensen & Bickhard (2002), which the record does not hold.

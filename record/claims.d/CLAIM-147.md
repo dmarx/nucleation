@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpjzq22
 title: 'A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Ground moved from THEORY-167 to THEORY-tmp81054 by the twelfth status
+    review (ADR-057, ADR-058). The claim uses only what Propp proposes, that
+    wondertales share one composition and "differ in who performs the
+    functions and how", which the split holds Active; whether the proposal
+    is true stays THEORY-167's question. THEORY-167's supports entry for
+    this claim is removed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,7 +33,7 @@ rests_on:
 - CLAIM-077
 grounds:
 - CASE-038
-- THEORY-167
+- THEORY-tmp81054
 - CASE-010
 complements:
 - CLAIM-034

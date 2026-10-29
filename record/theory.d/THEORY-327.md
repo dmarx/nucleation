@@ -1,24 +1,29 @@
 ---
 number: 327
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpa9fyk
-promote_when: >-
-  A first-hand reading of the book's chapters on testimonial injustice
-  (LIT-1004, chs. 1–2, with ch. 6 on pre-emptive testimonial injustice)
-  that confirms both parts as Fricker's account. First, testimonial
-  injustice requires a prejudiced misjudgement that is not deliberate.
-  Second, a speaker whose word is never sought because of prejudice
-  suffers it pre-emptively, without anyone hearing her. It is refuted, as a
-  statement of her account, if the book counts deliberate discrediting
-  as testimonial injustice, or confines it to exchanges in which the
-  speaker actually speaks. It is refuted as an account of the wrong by a
-  case that is plainly a wrong to a speaker as a knower, of the
-  testimonial kind, and fails both conditions: a deliberate, non-prejudiced
-  discrediting that is no different in its wrong from the ingenuous one.
-  More secondary summaries cannot settle it.
-title: "Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault"
-version: 1
+title: "Fricker, in her 2003 paper and her 2017 retrospective, holds that testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, and that deliberate manipulation of credibility is a related but distinct wrong; and she accepts Anderson's structural form, which is pre-emptive: a speaker's word is never sought because of a structural prejudice, such as an un-refreshed list, that is no one's fault"
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the twelfth status review (ADR-057;
+    ADR-047's evidence ruling, a source read in full for a title that
+    claims no more than it showed). Both of Fricker's papers were read
+    in full (NOTE-860, NOTE-853). The title now attributes the account
+    to them rather than stating it of testimonial injustice as such,
+    a term others use more widely (NOTE-1049). The old title:
+    Testimonial injustice is an ingenuous misjudgement of a speaker's
+    credibility caused by prejudice, not a deliberate manipulation of
+    it, and it can be structural and pre-emptive, when a speaker's word
+    is never sought because of a structural prejudice that is no one's
+    fault. The promote_when asked for the book (LIT-1004) and for a
+    counter-case to the account as an account of the wrong, which the
+    narrowed title does not claim. It moves unchanged to
+    QUESTION-tmpmecwn, as THEORY-285's did to QUESTION-303. Bears on
+    QUESTION-072 added, which the body already said (ADR-060).
 tags:
 - epistemology
 - ethics
@@ -42,11 +47,14 @@ summary: >-
 supports:
 - CLAIM-403
 - CLAIM-406
+bears_on:
+- QUESTION-072
+- QUESTION-tmpmecwn
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
 <!-- inactive-ok-file: THEORY-317 THEORY-326 — Proposed; the précis-based account this one refines on the testimonial side, and the hermeneutical account filed with it -->
 
-# THEORY-327: Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault
+# THEORY-327: Fricker, in her 2003 paper and her 2017 retrospective, holds that testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, and that deliberate manipulation of credibility is a related but distinct wrong; and she accepts Anderson's structural form, which is pre-emptive: a speaker's word is never sought because of a structural prejudice, such as an un-refreshed list, that is no one's fault
 
 ## Source
 
@@ -112,6 +120,8 @@ and keeps that use for a "related but distinct" wrong.
   but never uses the book's term, if the book uses it.
 - **Not a claim about the book.** It is held at the strength of two of
   her papers, one of which is a short retrospective.
+  Whether the book states it so, and whether the account is right about
+  the wrong, is [QUESTION-tmpmecwn](../questions.d/QUESTION-tmpmecwn.md).
 - **The virtue is not filed.** Reflexive critical openness and its
   historically contingent availability are in [NOTE-860](../notes.d/NOTE-860.md). No question
   in the record asks for them.

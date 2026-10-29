@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpz6mng
 title: 'With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order over finitely many states, and has A86''s D_Q, with the identity on tasks, as its symmetrization'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -25,6 +25,13 @@ history:
     rests on it and keeps the unrestricted statement, whose step (b)
     needs the general converse (THEORY-156, Proposed). The claim is
     unchanged, and the status stays Proposed.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Step (b) says the scope of the theorem it applies. The twelfth status
+    review (ADR-057) narrowed THEORY-156 to standard Borel outcome spaces
+    and promoted it; every rendering a design produces lies in such a
+    space, so the step is unchanged. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -58,7 +65,6 @@ summary: >-
 supports:
 - CLAIM-259
 ---
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's theorem step (b) uses, not as settled -->
 <!-- inactive-ok-file: CLAIM-259 CLAIM-258 — Proposed; the proposal this was split from, the objection whose worked case it measures, and the directed-fidelity thesis, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named for the constants and not leaned on -->
 
@@ -93,7 +99,9 @@ losses in [0, 1] and every prior π, then r_q,π(V) ≤ r_q,π(U) for all of
 them. Rescaling a bounded loss to [0, 1], by L ↦ (L − m)/(M − m), rescales
 every Bayes risk by the same increasing affine map, so the inequality holds
 for every bounded loss. By the Bayes form of Blackwell's theorem for
-finitely many states ([THEORY-156](../theory.d/THEORY-156.md)), V is then at least as informative as U.
+finitely many states ([THEORY-156](../theory.d/THEORY-156.md)), V is then at least as informative as U. The
+form the record holds is for standard Borel outcome spaces, which every
+rendering a design produces lies in.
 
 **(c) It is directed.** With Z uniform on {0, 1}, U = Z, V a constant and
 q = "guess Z" with 0–1 loss, r(U) = 0 and r(V) = 1/2, so D⁺(U → V) = 1/2

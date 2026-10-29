@@ -1,10 +1,24 @@
 ---
 number: 485
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpwlrc2
 title: 'In the self-governing sense, what endogenous governance adds over a behaviourally equivalent system with an external scheduler is not that it allocates authority among its own processes but that it can revise its own governing standards when they break down'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Grounds move from THEORY-219 to THEORY-tmp9nzdb, what Kahl proposes,
+    split by the twelfth status review on THEORY-1110's pattern
+    (ADR-058): the claim uses the distinction between allocating
+    authority and revising the governing frame as Kahl draws it, and does
+    not take his responsibility-agency to be sense 5. The body cites the
+    split where it cites the proposal. Promoted by the same review
+    (ADR-057), at the owner's ruling: its premises (CLAIM-025, TERM-045,
+    THEORY-tmp9nzdb) are all Active, no objection is filed, and nothing in
+    the record meets its defeated_if. It answers QUESTION-092 as posed,
+    which is now Answered. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,7 +39,7 @@ line:
 rests_on:
 - CLAIM-025
 grounds:
-- THEORY-219
+- THEORY-tmp9nzdb
 uses:
 - TERM-045
 answers:
@@ -33,7 +47,7 @@ answers:
 complements:
 - CLAIM-284
 summary: >-
-  The bridge the owner asked for on 2026-10-28, between [THEORY-219](../theory.d/THEORY-219.md), which
+  The bridge the owner asked for on 2026-10-28, between Kahl's proposal (THEORY-tmp9nzdb), which
   is about agency in the sense that bears on responsibility, and
   [QUESTION-092](../questions.d/QUESTION-092.md), which fixes [TERM-045](../terms.d/TERM-045.md)'s sense 5, self-governing. It is the
   record's answer to the question. Internal allocation of authority, the
@@ -45,7 +59,7 @@ summary: >-
   transformation. Two systems matched within a regime differ under it,
   and they diverge in behaviour once that regime breaks down.
 ---
-<!-- inactive-ok-file: THEORY-219 THEORY-071 CLAIM-284 CLAIM-288 — Proposed; the account this claim bridges from, the criterion it is tested against, the thesis it narrows and the objection about how it could be shown -->
+<!-- inactive-ok-file: THEORY-219 THEORY-071 CLAIM-284 CLAIM-288 — Proposed; the account the reading this claim bridges from is split from, the criterion it is tested against, the thesis it narrows and the objection about how it could be shown -->
 
 # CLAIM-485: In the self-governing sense, what endogenous governance adds over a behaviourally equivalent system with an external scheduler is not that it allocates authority among its own processes but that it can revise its own governing standards when they break down
 
@@ -57,7 +71,7 @@ behaviourally equivalent one whose allocation an external scheduler sets.
 "Self-governing" is [TERM-045](../terms.d/TERM-045.md)'s sense 5: governing oneself by one's own
 standards.
 
-[THEORY-219](../theory.d/THEORY-219.md) (Kahl 2026, [LIT-1033](../literature.d/LIT-1033.md), read in [NOTE-723](../notes.d/NOTE-723.md)) answers a neighbouring question, about agency
+[THEORY-tmp9nzdb](../theory.d/THEORY-tmp9nzdb.md) (Kahl 2026, [LIT-1033](../literature.d/LIT-1033.md), read in [NOTE-723](../notes.d/NOTE-723.md)) answers a neighbouring question, about agency
 in the sense that bears on responsibility. Allocation does not count:
 "voting rules, ranking functions, confidence thresholds" coordinate
 execution and "do not generate authorship of the governing frame". What
@@ -97,6 +111,7 @@ the other side.
 - **That revision is enough for a self.** [CLAIM-284](CLAIM-284.md) also asks for
   historical continuity and self-maintenance. This claim locates only what
   endogeneity contributes to sense 5.
-- **That [THEORY-219](../theory.d/THEORY-219.md)'s responsibility-agency is sense 5.** The bridge is
+- **That [THEORY-tmp9nzdb](../theory.d/THEORY-tmp9nzdb.md)'s responsibility-agency is sense 5.** The bridge is
   that both turn on revision of standards, not that the two senses are
-  one.
+  one. Whether Kahl's condition is right is [THEORY-219](../theory.d/THEORY-219.md)'s question; this
+  claim does not need it.
