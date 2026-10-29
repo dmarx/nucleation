@@ -53,7 +53,7 @@ Self-expansion is the relational form of the owner's "larger self" ([CLAIM-tmpjy
 
 The work cannot be read here, so the record holds it at second hand.
 
-Branand, Mashek and Aron (NOTE-tmpd7oz0) give the paper's thesis: in a
+Branand, Mashek and Aron ([NOTE-tmpd7oz0](../notes.d/NOTE-tmpd7oz0.md)) give the paper's thesis: in a
 close relationship each partner experiences the other's "resources,
 perspectives, and identities" as to some extent their own, and the other's
 outcomes are shared (p. 1). They give one result: in a me/not-me

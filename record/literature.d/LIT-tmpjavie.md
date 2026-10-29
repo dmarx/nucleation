@@ -54,7 +54,7 @@ Recasts crowd "deindividuation" as identity shift (Hornsey, [NOTE-tmp3dav9](../n
 
 The work cannot be read here, so the record holds it at second hand.
 
-Spears & Postmes 2015 (NOTE-tmpeg80o), by two of its three authors. It
+Spears & Postmes 2015 ([NOTE-tmpeg80o](../notes.d/NOTE-tmpeg80o.md)), by two of its three authors. It
 gives the model the 1995 paper named. Anonymity and immersion bring a
 switch from personal to group identity, not a loss of self. Its cognitive
 dimension ("anonymity of") raises group salience; its strategic dimension

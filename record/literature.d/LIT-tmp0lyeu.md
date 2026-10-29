@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpyj4e9), in place of LIT-tmp6t6ny, which
+  read in full 2026-10-29 ([NOTE-tmpyj4e9](../notes.d/NOTE-tmpyj4e9.md)), in place of [LIT-tmp6t6ny](LIT-tmp6t6ny.md), which
   could not be reached; worth reading as a direct test of how little it
   takes to make a minimal group. Merely studying a group's names ties it
   to "self" on an implicit measure, and imagined or random assignment
   yields the same explicit favouritism as the classic procedure. Read in
-  place of Tajfel et al. 1971 (LIT-tmp6t6ny, Unavailable); small samples,
+  place of Tajfel et al. 1971 ([LIT-tmp6t6ny](LIT-tmp6t6ny.md), Unavailable); small samples,
   one college.
 title: 'A comparison of minimal group induction procedures'
 version: 1
@@ -42,8 +42,8 @@ summary: >-
 
 Pinter, B. & Greenwald, A. G. (2011). *Group Processes & Intergroup Relations*, 14(1), 81–98.
 
-Read in full in NOTE-tmpyj4e9.
+Read in full in [NOTE-tmpyj4e9](../notes.d/NOTE-tmpyj4e9.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp6t6ny, which could not be reached. NOTE-tmpyj4e9 says what it reports of it and what is still missing.
+Read in place of [LIT-tmp6t6ny](LIT-tmp6t6ny.md), which could not be reached. [NOTE-tmpyj4e9](../notes.d/NOTE-tmpyj4e9.md) says what it reports of it and what is still missing.

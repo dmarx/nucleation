@@ -54,7 +54,7 @@ The counter-evidence to Cialdini et al. ([LIT-tmpfxss5](LIT-tmpfxss5.md)) and so
 
 The work cannot be read here, so the record holds it at second hand.
 
-The SEP entry (NOTE-tmpd1dh3, §5.3) gives the paper's three merging
+The SEP entry ([NOTE-tmpd1dh3](../notes.d/NOTE-tmpd1dh3.md), §5.3) gives the paper's three merging
 measures in its own words: Cialdini's IOS scale, a 1–9
 perceived-similarity item (p. 500), and the mean absolute difference
 between self- and target-ratings on personal attributes (p. 498). It

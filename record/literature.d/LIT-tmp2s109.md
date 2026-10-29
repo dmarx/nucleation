@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Two Decades of Terror Management Theory: A Meta-Analysis of Mortality Salience Research'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The quantitative summary of terror management theory, on which a self that seeks continuity beyond death through a worldview and a group is the standard account of legacy striving. Its replicability is contested, which a reading should check. For QUESTION-tmpruhu4.
+The quantitative summary of terror management theory, on which a self that seeks continuity beyond death through a worldview and a group is the standard account of legacy striving. Its replicability is contested, which a reading should check. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).

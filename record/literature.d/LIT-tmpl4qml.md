@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Death and the Afterlife'
 version: 1
 history:
@@ -44,4 +44,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The strongest case the record holds against the owner's thesis (CLAIM-tmpjylq8) in the dimension of time: concern for people after one's death, with no benefit to oneself, which the thesis would have to count as self-interest on a self extended past death. For QUESTION-tmpruhu4.
+The strongest case the record holds against the owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)) in the dimension of time: concern for people after one's death, with no benefit to oneself, which the thesis would have to count as self-interest on a self extended past death. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).

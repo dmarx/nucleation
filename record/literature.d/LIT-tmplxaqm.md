@@ -53,7 +53,7 @@ León ([NOTE-tmpuba7m](../notes.d/NOTE-tmpuba7m.md), fn. 14, 25) cites it for th
 
 The work cannot be read here, so the record holds it at second hand.
 
-Brewer 2007 (NOTE-tmphttin), by the paper's first author, restates its
+Brewer 2007 ([NOTE-tmphttin](../notes.d/NOTE-tmphttin.md)), by the paper's first author, restates its
 framework (pp. 2–3, 14): three levels of self-representation, individual,
 relational and collective, as "three separate systems with different
 identity properties, locus of agency, and motivational concerns"; the

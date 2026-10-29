@@ -153,24 +153,24 @@ identified himself in a way compatible with an assimilation ideology"
 
 ## Connections
 
-- **Gaertner et al. 1989 (LIT-tmpatrf7) and Gaertner et al. 1993
-  (LIT-tmpagj5r)**, both unread. The chapter gives one sentence of the
+- **Gaertner et al. 1989 ([LIT-tmpatrf7](../literature.d/LIT-tmpatrf7.md)) and Gaertner et al. 1993
+  ([LIT-tmpagj5r](../literature.d/LIT-tmpagj5r.md))**, both unread. The chapter gives one sentence of the
   first and none of the second. It restates the model, the four
   representations and the two routes of the 1989 study.
-- **Self-categorization theory (THEORY-tmpo85ke).** The model draws on
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The model draws on
   it. Recategorization is a change in the level of self-categorization,
   induced by the experimenter. The chapter does not use metacontrast or
   measure depersonalization.
-- **Biel (NOTE-tmpmyga8)** studies European common in-group identity
+- **Biel ([NOTE-tmpmyga8](NOTE-tmpmyga8.md))** studies European common in-group identity
   among football fans by survey. Nier et al.'s stadium study is the
   model's experimental case with fans.
-- **Cialdini et al. (LIT-tmpfxss5) and Batson et al. (LIT-tmp7qbeb).** The
+- **Cialdini et al. ([LIT-tmpfxss5](../literature.d/LIT-tmpfxss5.md)) and Batson et al. ([LIT-tmp7qbeb](../literature.d/LIT-tmp7qbeb.md)).** The
   chapter measures empathic concern with Batson's items and finds a shared
   identity raises it.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The chapter bears on it in
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The chapter bears on it in
   three ways. These are inferences; the authors do not discuss
   selflessness.
   - It supports the thesis's prediction that helping follows the "we".
@@ -188,23 +188,23 @@ identified himself in a way compatible with an assimilation ideology"
   - It shows a shared identity working through empathy. In the second
     study the common identity raised empathic concern and empathy carried
     part of the effect on helping.
-- **Batson's objection (CLAIM-tmpybc4k).** The mediation runs from
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** The mediation runs from
   identity to empathy to helping. That is the reverse of Batson's design,
   which holds merging fixed and finds empathy still predicts helping. The
   inference: identity and empathy are not independent routes. A shared
   identity raises empathy, so controlling for merging may remove part of
   empathy's effect. The residual direct effect of condition (β = .35)
   shows identity also acts by another route.
-- **The triviality objection (CLAIM-tmprudek).** Recategorization is a
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Recategorization is a
   manipulation of the self's extent that does not go through caring: the
   experimenter changes the category, and helping follows. That is the
   shape of answer the objection asks for. But no study here measures
   self-categorization; the manipulation is assumed to work, and caring
   (empathy) is downstream of it.
-- **The group entity versus a category (TERM-tmpko4rw).** The model's
+- **The group entity versus a category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** The model's
   common identities are categories (a university, a city, "Americans"),
   not group entities.
-- **A dated note should be added to CLAIM-tmpjylq8.** Proposed text:
+- **A dated note should be added to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).** Proposed text:
   "Dovidio et al. (NOTE-tmpg3nwd) review experiments in which recategorizing
   two groups as one removed in-group bias in helping, in the laboratory
   and at a football stadium. The shared identity raised empathic concern,

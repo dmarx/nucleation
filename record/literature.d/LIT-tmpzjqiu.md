@@ -51,7 +51,7 @@ The framework of identification used by Reimer et al. ([NOTE-tmp222eb](../notes.
 
 The work cannot be read here, so the record holds it at second hand.
 
-Leach et al. 2008 (NOTE-tmp8tnhr) cite the review for its case that
+Leach et al. 2008 ([NOTE-tmp8tnhr](../notes.d/NOTE-tmp8tnhr.md)) cite the review for its case that
 unitary identification measures are inadequate (p. 144), for
 identification as perceiving oneself in terms of the membership (p. 146),
 and for satisfaction as positive evaluation and centrality as chronic

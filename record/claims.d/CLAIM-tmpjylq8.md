@@ -171,7 +171,7 @@ Death* each press the thesis to say more exactly what it claims.
 Works read in place of the unavailable psychology papers bear on the
 thesis at five points.
 
-- **The thesis in a precise form** (Miyazono and Inarimori, NOTE-tmpdrfdn).
+- **The thesis in a precise form** (Miyazono and Inarimori, [NOTE-tmpdrfdn](../notes.d/NOTE-tmpdrfdn.md)).
   They read Cialdini's "merging" as group identification: empathizing with
   someone makes her welfare a constituent of "our" welfare. Helping is then
   altruistic at the individual level and egoistic at the group level. That
@@ -179,25 +179,25 @@ thesis at five points.
   altruism standing. On their reading empathy always brings identification
   with it, so the claim gains content only if identification can be found
   absent where empathy is present.
-- **Two routes into a group self** (Otten, NOTE-tmpoxt60). Projecting the
+- **Two routes into a group self** (Otten, [NOTE-tmpoxt60](../notes.d/NOTE-tmpoxt60.md)). Projecting the
   personal self onto a new group (self-anchoring) is a larger self. Taking
   on the group's traits (self-stereotyping) is a changed one. Which
   operates depends on how much is known about the group. When participants
   could also pay themselves, they took the most for themselves and favoured
   the in-group with the rest: the personal self comes first.
-- **Larger or switched** (Spears and Postmes, NOTE-tmpeg80o; Spears,
-  NOTE-tmpbdqc5). The crowd member is not selfless: anonymity brings "the
+- **Larger or switched** (Spears and Postmes, [NOTE-tmpeg80o](../notes.d/NOTE-tmpeg80o.md); Spears,
+  [NOTE-tmpbdqc5](../notes.d/NOTE-tmpbdqc5.md)). The crowd member is not selfless: anonymity brings "the
   group in the self", and behaviour follows group norms more closely. But
   anonymity amplifies whichever identity is salient, which is a switch of
-  self, not an enlargement. Identity fusion (NOTE-tmp3g9n4) stays the
+  self, not an enlargement. Identity fusion ([NOTE-tmp3g9n4](../notes.d/NOTE-tmp3g9n4.md)) stays the
   record's case for "larger".
-- **Which larger self** (Brewer, NOTE-tmphttin). Close relationships and
+- **Which larger self** (Brewer, [NOTE-tmphttin](../notes.d/NOTE-tmphttin.md)). Close relationships and
   groups both extend the self, in different ways: the relational self takes
   in particular others, the collective self a group. Brewer separates
   relational collectivism, obligation to specific persons, from group-based
   collectivism. The thesis should say which it means, or that it means
   both.
-- **Helping follows the helper's category** (Dovidio et al., NOTE-tmpg3nwd).
+- **Helping follows the helper's category** (Dovidio et al., [NOTE-tmpg3nwd](../notes.d/NOTE-tmpg3nwd.md)).
   Recategorizing two groups as one removed in-group bias in helping: at a
   stadium, White fans complied with a Black interviewer's request 59% of
   the time when he wore their university's hat, against 36% when he did
@@ -207,4 +207,4 @@ thesis at five points.
   helping follows an extended self, it is the helper's version of the
   shared category.
 
-The same extension in time, legacy, is QUESTION-tmpruhu4.
+The same extension in time, legacy, is [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).

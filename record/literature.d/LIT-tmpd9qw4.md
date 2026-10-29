@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'I Belong, therefore, I Exist: Ingroup Identification, Ingroup Entitativity, and Ingroup Bias'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Joins the legacy angle to the social one: death reminders enlarge the self into a group seen as lasting. For QUESTION-tmpruhu4 and TERM-tmpko4rw (a group entity versus a category).
+Joins the legacy angle to the social one: death reminders enlarge the self into a group seen as lasting. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md) and [TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md) (a group entity versus a category).

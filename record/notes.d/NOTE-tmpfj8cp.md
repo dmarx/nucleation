@@ -129,25 +129,25 @@ fortunes are then appraised as one's own, and emotions follow.
 
 ## Connections
 
-- **Smith 1993 (LIT-tmpe3hcb)**, unread. Cited as reference 3 for the
+- **Smith 1993 ([LIT-tmpe3hcb](../literature.d/LIT-tmpe3hcb.md))**, unread. Cited as reference 3 for the
   founding idea: group-based appraisal producing anxiety, anger or hope
   for the group, and differentiated reactions to out-groups.
-- **Self-categorization theory (THEORY-tmpo85ke).** The theory's
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The theory's
   mechanism; salience shifts the emotion with the membership.
-- **Collective emotion (THEORY-126).** Von Scheve and Ismer make
+- **Collective emotion ([THEORY-126](../theory.d/THEORY-126.md)).** Von Scheve and Ismer make
   convergence the definition. Smith and Mackie make it a frequent
   consequence: "this sharing is not part of the definition" (p. 4).
 - **Leach et al. 2008** (read in this batch, NOTE-tmpfj8cp) is cited for
   multidimensional identification; **Brewer and Gardner 1996
-  (LIT-tmplxaqm)** and **Ashmore et al. 2004 (LIT-tmpzjqiu)** stand behind
+  ([LIT-tmplxaqm](../literature.d/LIT-tmplxaqm.md))** and **Ashmore et al. 2004 ([LIT-tmpzjqiu](../literature.d/LIT-tmpzjqiu.md))** stand behind
   the group-versus-members and component distinctions.
-- **The group entity versus a category (TERM-tmpko4rw).** The contrast
+- **The group entity versus a category ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** The contrast
   between ties to the group as a whole and ties to its members is near
   it, though Smith and Mackie draw it within one group.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** These are inferences; the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are inferences; the
   paper does not discuss selflessness.
   - The theory's core is the thesis's mechanism stated for emotion. The
     group is "an aspect of the self", and so its fortunes are appraised as
@@ -157,15 +157,15 @@ fortunes are then appraised as one's own, and emotions follow.
     fixes whose fortunes are appraised; identification, how much they
     matter. Both are needed for the emotion. The thesis's "larger self" is
     the first; caring about it is the second.
-- **The triviality objection (CLAIM-tmprudek).** The paper offers the
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The paper offers the
   separation the objection asks for: salient self-categorization as the
   self's extent, identification as caring, with distinct effects. The
   salience result is the useful one: the same person feels different
   emotions as the frame changes, with no change in what they care about.
   But the highly identified reappraise to avoid negative group emotions,
   so caring shapes the appraisal too, and the two are not independent.
-- **A dated note could be added to CLAIM-tmprudek** (or to
-  CLAIM-tmpjylq8). Proposed text: "Intergroup emotions theory, as Smith
+- **A dated note could be added to [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)** (or to
+  [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)). Proposed text: "Intergroup emotions theory, as Smith
   and Mackie (NOTE-tmpfj8cp) restate it, keeps self-categorization and
   identification apart: categorization makes the group 'an aspect of the
   self' and sets which events are appraised for it; identification, the

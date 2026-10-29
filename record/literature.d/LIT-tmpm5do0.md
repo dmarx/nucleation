@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'It''s Only a Matter of Time: Death, Legacies, and Intergenerational Decisions'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Experimental evidence that legacy motivation drives beneficence toward people one will never meet. For QUESTION-tmpruhu4.
+Experimental evidence that legacy motivation drives beneficence toward people one will never meet. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).

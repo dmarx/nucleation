@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpdrfdn), in place of LIT-tmpfxss5 and
-  LIT-tmp7qbeb, which could not be reached; worth reading as the only work
+  read in full 2026-10-29 ([NOTE-tmpdrfdn](../notes.d/NOTE-tmpdrfdn.md)), in place of [LIT-tmpfxss5](LIT-tmpfxss5.md) and
+  [LIT-tmp7qbeb](LIT-tmp7qbeb.md), which could not be reached; worth reading as the only work
   in the record that states the owner's thesis for empathic helping in a
   precise form: concern for another's welfare is non-instrumental, and
   that welfare is constitutive of the helper's first-person plural
@@ -42,8 +42,8 @@ summary: >-
 
 Miyazono, K. & Inarimori, K. (2021). *Frontiers in Psychology*, 12, 749315.
 
-Read in full in NOTE-tmpdrfdn.
+Read in full in [NOTE-tmpdrfdn](../notes.d/NOTE-tmpdrfdn.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpfxss5 and LIT-tmp7qbeb, which could not be reached. NOTE-tmpdrfdn says what it reports of them and what is still missing.
+Read in place of [LIT-tmpfxss5](LIT-tmpfxss5.md) and [LIT-tmp7qbeb](LIT-tmp7qbeb.md), which could not be reached. [NOTE-tmpdrfdn](../notes.d/NOTE-tmpdrfdn.md) says what it reports of them and what is still missing.

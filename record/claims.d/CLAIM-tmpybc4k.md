@@ -51,7 +51,7 @@ self for the motive to serve.
 
 ## Note of 2026-10-29: the SEP's report
 
-Doris, Stich, Walmsley and Schulz (NOTE-tmpd1dh3) report that Batson et al.
+Doris, Stich, Walmsley and Schulz ([NOTE-tmpd1dh3](../notes.d/NOTE-tmpd1dh3.md)) report that Batson et al.
 found methodological problems in Cialdini et al. and, in "a pair of
 experiments" that avoided them, found empathy's role in helping "clearly
 evident". They give no numbers, and the paper is still unread; the summary

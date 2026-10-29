@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'The Broken Connection: On Death and the Continuity of Life'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The source of the notion of symbolic immortality that terror management theory and the legacy research use. Its biological and creative modes are legacy as a self extended in time. For QUESTION-tmpruhu4.
+The source of the notion of symbolic immortality that terror management theory and the legacy research use. Its biological and creative modes are legacy as a self extended in time. For [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md).

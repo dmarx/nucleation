@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpeg80o), in place of LIT-tmpjavie and
-  LIT-tmpgdaz6, which could not be reached; worth reading as the SIDE
+  read in full 2026-10-29 ([NOTE-tmpeg80o](../notes.d/NOTE-tmpeg80o.md)), in place of [LIT-tmpjavie](LIT-tmpjavie.md) and
+  [LIT-tmpgdaz6](LIT-tmpgdaz6.md), which could not be reached; worth reading as the SIDE
   model's own authors' statement of its cognitive and strategic dimensions
   and their evidence, and as the record's second-hand access to Reicher,
   Spears & Postmes 1995 and Postmes & Spears 1998.
@@ -42,8 +42,8 @@ summary: >-
 
 Spears, R. & Postmes, T. (2015). In S. S. Sundar (Ed.), *The Handbook of the Psychology of Communication Technology* (pp. 23–46). Chichester: Wiley-Blackwell.
 
-Read in full in NOTE-tmpeg80o.
+Read in full in [NOTE-tmpeg80o](../notes.d/NOTE-tmpeg80o.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpjavie and LIT-tmpgdaz6, which could not be reached. NOTE-tmpeg80o says what it reports of them and what is still missing.
+Read in place of [LIT-tmpjavie](LIT-tmpjavie.md) and [LIT-tmpgdaz6](LIT-tmpgdaz6.md), which could not be reached. [NOTE-tmpeg80o](../notes.d/NOTE-tmpeg80o.md) says what it reports of them and what is still missing.

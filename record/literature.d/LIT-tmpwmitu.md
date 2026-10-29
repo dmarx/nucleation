@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp8tnhr), in place of LIT-tmpzjqiu, which
+  read in full 2026-10-29 ([NOTE-tmp8tnhr](../notes.d/NOTE-tmp8tnhr.md)), in place of [LIT-tmpzjqiu](LIT-tmpzjqiu.md), which
   could not be reached; worth reading as the direct test of whether
   identification splits into a self-definition and a caring dimension: it
   does, and they can work against each other.
@@ -39,8 +39,8 @@ summary: >-
 
 Leach, C. W., van Zomeren, M., Zebel, S., Vliek, M. L. W., Pennekamp, S. F., Doosje, B., Ouwerkerk, J. W. & Spears, R. (2008). *Journal of Personality and Social Psychology*, 95(1), 144–165.
 
-Read in full in NOTE-tmp8tnhr.
+Read in full in [NOTE-tmp8tnhr](../notes.d/NOTE-tmp8tnhr.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpzjqiu, which could not be reached. NOTE-tmp8tnhr says what it reports of it and what is still missing.
+Read in place of [LIT-tmpzjqiu](LIT-tmpzjqiu.md), which could not be reached. [NOTE-tmp8tnhr](../notes.d/NOTE-tmp8tnhr.md) says what it reports of it and what is still missing.

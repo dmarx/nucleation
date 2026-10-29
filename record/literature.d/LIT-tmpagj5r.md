@@ -53,7 +53,7 @@ The model Biel ([NOTE-tmpmyga8](../notes.d/NOTE-tmpmyga8.md)) and Reimer et al. 
 
 The work cannot be read here, so the record holds it at second hand.
 
-Dovidio et al. 2009 (NOTE-tmpg3nwd) restate the model the 1993 paper set
+Dovidio et al. 2009 ([NOTE-tmpg3nwd](../notes.d/NOTE-tmpg3nwd.md)) restate the model the 1993 paper set
 out: four representations (one group, two subgroups within one group, two
 groups, separate individuals) with distinct consequences, and the dual
 identity as a second form of recategorization. They extend it to helping.
