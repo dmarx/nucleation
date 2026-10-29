@@ -1,0 +1,94 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmp8rf0b), after the owner brought it to
+  the exchange "Paper assessment" asking whether it is "on to something or
+  if this is AI slop nonsense". Worth keeping for its conditional
+  theorem, which is sound and is QUESTION-130's construction carried
+  further, and for its measured caution about its own experiments. Its
+  framing outruns both.
+title: 'Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Filed and read the same day, from the exchange "Paper assessment"
+    (shared at https://chatgpt.com/share/6ae2f25a-7404-83ea-82ef-2dba18fd7410).
+    arXiv API: 2610.37656, v1 submitted 2026-10-27, which is `published:`
+    (ADR-002); cs.LG, with cs.AI and physics.comp-ph; 7 pp.; comment
+    "Accepted at the 9th Workshop on Machine Learning and the Physical
+    Sciences (ML4PS 2026), co-located with NeurIPS 2026". Read from the
+    arXiv PDF v1, extracted with `pdftotext -layout`.
+tags:
+- compositionality
+- mathematics
+- network-science
+- representation-learning
+- anthology-candidate
+date: '2026-10-29'
+published: '2026-10-27'
+arxiv: '2610.37656'
+first_author: 'Sarkar'
+keywords:
+- 'lattice gauge theory'
+- 'Wilson loops'
+- 'holonomy'
+- 'per-entity frame freedom'
+- 'edge attention'
+- 'group synchronization'
+implementations: []
+summary: >-
+  Sarkar, Mukherjee & Sato (2026), [ARXIV-2610.37656](https://arxiv.org/abs/2610.37656). If every
+  entity's coordinate frame may be rotated independently, so that relation
+  transports Tᵢⱼ ∈ O(d) change as gᵢTᵢⱼgⱼ⁻¹, then relations with no cycle
+  between them cannot interact (in the pure-gauge sector), a triangle's
+  only invariants are class functions of its holonomy, and an equivariant
+  edge update has the form Ψ(H)Tᵢⱼ with Ψ conjugation-equivariant. An
+  untrained instance on S4 synchronization with outliers gains 26–45
+  points over a single path by composition, and 0.6–7.8 more by Wilson-loop
+  routing; it does not beat spectral synchronization.
+---
+
+# LIT-tmpr8qf7: Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops
+
+Sarkar, A., Mukherjee, A., & Sato, M. (2026). Attention as lattice gauge
+theory: Relations interact only through Wilson loops. ML4PS 2026 workshop,
+NeurIPS 2026. [ARXIV-2610.37656](https://arxiv.org/abs/2610.37656)
+
+## Key takeaways
+
+- Under per-entity O(d) frame freedom, fixing the gauge along a spanning
+  tree shows that the transports carry no invariant information except
+  around cycles; a triangle's invariants are the class functions of its
+  holonomy H = TᵢⱼTⱼₖTₖᵢ (THEORY-tmpf3jtf).
+- An equivariant update of an edge from one cycle through it is
+  Ψ(H)Tᵢⱼ with Ψ(gHg⁻¹) = gΨ(H)g⁻¹. Ψ is a family, not one function, so
+  "the unique form the symmetry permits" fixes a design space, not a
+  mechanism.
+- One loop through a corrupted edge detects the corruption but cannot
+  say which of its edges is wrong; scoring a candidate by squares that
+  avoid it can (THEORY-tmpy1s8c).
+- On the S4 benchmark, composition through cycles is the capability and
+  holonomy routing a small refinement; Singer's spectral method ties or
+  edges it, as the paper says.
+
+## Standing in the record
+
+The construction is the one QUESTION-130 wrote down on 2026-10-18 for
+evaluative transport: local frames, covariant transports, holonomy around
+a loop, conjugacy class as the invariant. The paper adds the forced form
+of an equivariant update. It does not touch the question's open part: its
+transports are given, as they are in every formalism QUESTION-282 found.
+
+The paper's premise is weaker than its framing. Its companion paper
+(LIT-tmpbihhf) calls per-entity frame freedom "an inductive bias, not a
+claim that fresh names logically imply a physical symmetry" (p. 2); this
+paper calls it "the task's, not a network's" (p. 2). The companion's own
+CLUTRR result shows orthogonal transports costing 64.6 points out of
+distribution, where its StepGame result shows them helping, so whether the
+premise holds is a property of the task.
+
+`anthology-candidate`: an architecture paper in machine learning, which
+the anthology may want as well. It is filed here for its mathematics and
+for what it bears on in QUESTION-130 and CASE-179.
