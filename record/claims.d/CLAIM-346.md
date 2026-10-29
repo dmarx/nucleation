@@ -42,6 +42,7 @@ summary: >-
   acceptance conditions; that no remedy for one removes another is A36's
   further reading, argued in the body and not part of the claim.
 ---
+<!-- inactive-ok-file: LIT-1214 — Unfetched since 2026-10-29; Akkoyunlu et al., cited in the note of 2026-10-29 as the attribution not checked, nothing here rests on it -->
 
 # CLAIM-346: Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent
 
@@ -147,3 +148,25 @@ standard witness, not its proof. The record holds Arrow only through Sen
 - **That the operators are agents with rights.** A36: "Network modules
   aren't automatically moral agents, and their optimization preferences
   are not equivalent to individual rights."
+
+## Note of 2026-10-29: Halpern and Moses, read
+
+Halpern and Moses, LIT-1213, is now read (NOTE-tmpi6s63). Construction 3's
+argument is their informal induction of §4 and the formal one of Theorem
+5. Two precisions.
+
+- **The right result.** The construction demands "both act or neither
+  does", with no simultaneity. That is their Proposition 10's eventual
+  case, with Theorem 9, not Corollary 6's simultaneous one. Both hold over
+  a lossy channel, so the construction is covered, but the citation should
+  be Proposition 10 with Theorem 9.
+- **The attribution.** The paper credits the problem to Gray (1978) and
+  cites Gallager (1979) and Yemini and Cohen (1979) for proofs. It does not
+  cite Akkoyunlu, Ekanadham and Huber (1975), LIT-1214, which the record
+  files as the standard first source. The 1975 attribution above rests on
+  later usage, not on this paper. LIT-1214 is Unfetched, so it has not
+  been checked.
+
+Their Theorem 8 strengthens the obstruction: unreliable channels are not
+needed, since any uncertainty in timing blocks common knowledge and with
+it any guaranteed simultaneous action. The claim is unchanged.

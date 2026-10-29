@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmpw9b04
 title: 'When does spectral differentiation among learned features correspond to stabilizing coexistence among the processes that implement them, and what besides the feature geometry decides it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the readings of Mehta et al. and
+    Chizat and Bach. The question is unchanged.
 tags:
 - representation-learning
 - ecology
@@ -69,3 +75,19 @@ model in which they come apart in either direction would be informative.
 
 Heterogeneous embeddings, or a well-conditioned Gram matrix, with no
 account of recovery dynamics.
+
+## Note of 2026-10-29: a large-system instance, and a model with no spectral condition
+
+Two works read on this date bear on the question.
+
+- Mehta, Cui, Wang and Marsland, LIT-1231 (NOTE-tmpwkbtk): in random
+  quadratic programming the variance σ_c of the constraint vectors sets
+  how many components survive, and more differentiated constraints
+  coexist more. That is a large-system instance of the suggestion above,
+  with the supply K and the costs m entering through the growth rates, as
+  CASE-118 found for two components.
+- Chizat and Bach, LIT-1232 (NOTE-tmpbs06i), supply no spectral
+  condition. Their coexistence notion is first-order, the sign of F′, not
+  the growth-rate comparison CASE-118 uses.
+
+The question is unchanged and stays Open.

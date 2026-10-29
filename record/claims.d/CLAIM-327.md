@@ -39,9 +39,6 @@ summary: >-
 illustrated_by:
 - CASE-098
 ---
-<!-- inactive-ok-file: LIT-1122 — Deferred; unread -->
-
-<!-- inactive-ok-file: LIT-1122 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-327: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 
 ## The claim
@@ -134,3 +131,32 @@ information (§1). So the three stages are the exchange's synthesis of 2026-10-1
 with regeneration where Flack has convergence. The claim's content may still
 be right; it is not Flack's. Flack 2012 ([LIT-1122](../literature.d/LIT-1122.md)), which this paper defers
 to, stays unread.
+
+## Note of 2026-10-29: Flack 2012 and computational mechanics, read
+
+Flack 2012, LIT-1122, is now read (NOTE-tmp0pm1e), so the summary's
+"unread" and the last sentence of the note of 2026-10-27 no longer hold.
+Its words match A9's "appear": that the animals read and condition on the
+slow variable is what "the data suggest", argued from earlier studies,
+and for relative power not yet worked out. Against the claim's three
+stages:
+
+1. Statistical regularity is shown, for the signal network.
+2. Member accessibility is asserted, not shown.
+3. Regeneration is the paper's §4 argument that fighting lowers after
+   signals and so consolidates the relation. No measurement in the paper
+   supports it.
+
+So the paper this claim quotes is evidence for the first stage only.
+
+Shalizi and Crutchfield, LIT-1126 (NOTE-tmpe4nxg), bear on A10's offer of
+causal states as "the minimal history a collective must keep to predict
+its future". The reading adds two limits to the slow state that offer
+names. The theorems need the observed process fixed in advance and
+stationary, and the authors call relaxing stationarity "unclear", which a
+collective under turnover may need. And the causal states are minimal
+only for the whole future: for a finite horizon a coarser state can
+predict as well, so "the" slow state depends on the horizon of
+prediction.
+
+The claim stays Proposed.

@@ -55,6 +55,7 @@ illustrated_by:
 ---
 
 <!-- inactive-ok-file: CLAIM-276 CLAIM-277 CLAIM-281 CLAIM-347 THEORY-135 THEORY-141 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
+<!-- inactive-ok-file: LIT-1206 LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the parts read, nothing here rests on them -->
 
 # CLAIM-359: A self-governing organization's robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones
 
@@ -182,3 +183,50 @@ The case is [CASE-108](../cases.d/CASE-108.md), A41's proposed study.
   legitimate. A41's proposed claim ends: "without assuming that
   organizational stability establishes the legitimacy of its current
   commitments" ([CLAIM-060](CLAIM-060.md)).
+
+## Note of 2026-10-29: the security works A41 named, read
+
+Two of the works behind A41's reading are now read in full and two in
+part. They bear out the first half of the claim, and the second half, the
+cost to disagreement, appears in them only from the practitioners' side.
+
+- **Castro and Liskov**, LIT-1217 (NOTE-tmp4lpyh). The paper states the
+  limit A41 gave it: correct behaviour is "follow the algorithm in
+  Section 4", and the protocol guarantees that operations are applied
+  consistently, not that they are good; a faulty client "can write garbage
+  data to some shared file" and is checked only by access control (§3).
+  It adds two points this claim can use. The fault bound means nothing
+  unless failures are independent, and independence has to be built ("a
+  different administrator" per replica). And the design refuses to exclude
+  suspected members, because exclusion on suspicion is itself an attack
+  surface: an attacker who can make correct replicas look slow "until they
+  are tagged as faulty" wins (§1, §8). That is this claim's point that
+  safeguards against capture can themselves be captured, made in 1999 for
+  replicas.
+- **Zero trust**, LIT-1226 (NOTE-tmpd81mn). It assumes no subject or
+  device is sound, and then trusts the policy engine and administrator
+  absolutely; its only answer to their subversion is that they "must be
+  properly configured and monitored, and any configuration changes must be
+  logged and subject to audit" (§5.1). Zero trust relocates trust to the
+  process that allocates authority and makes that process the target,
+  which is step 2 above. Its contextual trust algorithms treat an unusual
+  but legitimate act as suspect, and its remedy is a tuning phase and
+  lenient reporting-only operation (§§3.3.1, 7.3.6): the claim's cost to
+  disagreement in operational form.
+- **SP 800-53**, LIT-1206, skimmed (NOTE-tmpgdnkh), about a tenth read.
+  Its controls locate robustness in who may act, audit and change the
+  configuration, and require that the auditor not be the access
+  administrator. They name collusion as what they do not stop, with
+  rotation, a further allocation process, as the remedy. The parts read
+  state no cost to disagreement or self-revision; the only costs they
+  mention are availability and privacy.
+- **The SEI insider-threat guide**, LIT-1216, skimmed (NOTE-tmp3wx9h). Its
+  separation-of-duties case is a failure by collusion: four insiders split
+  the steps the separation was meant to keep apart. Its Best Practice 21
+  reports concern that negative controls infringe rights, inhibit
+  productivity, undermine trust and lose good staff, a version of the
+  trade-off from the practitioners' side. It never treats dissent as a
+  value to protect, and a repository of convicted cases cannot contain a
+  challenge that was legitimate.
+
+The claim is unchanged and stays Proposed.

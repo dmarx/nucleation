@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -32,6 +32,13 @@ history:
     training-dynamics works read for the exchange judge persistence by
     resemblance (a shared dictionary index, the same tokens affected,
     node and edge overlap). The claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the readings of Feldman and
+    Pentland, Marquis and Tilcsik, and Gioia, Schultz and Corley;
+    none separates a particular organization's continuity from
+    reproduction of its kind. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,7 +89,6 @@ illustrated_by:
 <!-- inactive-ok-file: CLAIM-287 CLAIM-417 CLAIM-420 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
-<!-- inactive-ok-file: LIT-1124 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-329: A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it
 
 ## The claim
@@ -231,3 +237,41 @@ The induction-heads paper ([NOTE-1173](../notes.d/NOTE-1173.md)) draws [TERM-071
 constant in-context learning score "doesn't necessarily mean that the
 underlying mechanisms of in-context learning are constant". The claim is
 unchanged.
+
+## Note of 2026-10-29: the organizational literature A6 hoped for, read
+
+Feldman and Pentland, LIT-1124, which "The claim" cites as unread, is now
+read (NOTE-tmpofse5), so that no longer holds. A6's first question for it
+was whether it separates the continuity of a particular organization from
+the reproduction of an organizational kind. It does not. Its analysis is
+of one routine in one organization, and its persistence story is
+maintenance: an ostensive aspect survives only while it is performed, and
+fades when it is not. That is a form of this claim's historical
+persistence, carried by the chain of performances and not by similarity
+to a type. Its one move toward the question is negative: it doubts that
+routines can serve as unchanging genealogical carriers between
+organizations (p. 114), and leaves the matter as empirical.
+
+Two more works read on this date give the claim vocabulary, not its
+criterion.
+
+- **Marquis and Tilcsik**, LIT-1144 (NOTE-tmpegckt). Secondhand
+  imprinting is causal transmission of a characteristic by emulation; a
+  cohort effect is shared resemblance from shared conditions; and the
+  review insists the two differ (pp. 206–207, 228–229). It gives a case of
+  a feature persisting across total turnover in one position: Burton and
+  Beckman's position imprint constrains the third and fourth successors.
+  But every case it discusses fixes the bearer's identity by its legal or
+  institutional existence and asks only which features persist. It
+  supports the half of this claim that transmission and resemblance
+  differ, and says nothing on which transmission makes the same
+  collective.
+- **Gioia, Schultz and Corley**, LIT-1135 (NOTE-tmppq751). Their
+  continuity of labels with changing meanings challenges any persistence
+  criterion that requires identity content to stay fixed, as A6 expected.
+  It does not supply causal transmission: their continuity is members'
+  interpretive work and outsiders' demand for recognizable partners, and
+  their examples, the Marlins' gutted roster among them, are posed as
+  puzzles, not answered.
+
+So the distinction remains the record's own. The claim stays Proposed.

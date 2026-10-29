@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpzwgk0
 title: 'When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host''s regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -20,6 +20,12 @@ history:
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (batch 2) added: what ten more readings say of the routes, the dimensions and the eukaryogenesis framing. The "Why it is a question" section's account of the transfer-and-import route, and of the eukaryogenesis disagreement, is corrected there. The question is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Cooper and West read (NOTE-tmpckr3f);
+    their route ends at dependence and has no higher-level unit. The
+    question is unchanged.
 tags:
 - individuation
 - philosophy-of-biology
@@ -44,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1100 THEORY-1107 THEORY-1098 THEORY-1103 THEORY-1106 THEORY-1099 THEORY-1102 THEORY-1108 THEORY-1104 THEORY-1101 THEORY-1105 THEORY-1109 NOTE-1241 NOTE-1243 NOTE-1236 NOTE-1235 NOTE-1234 NOTE-1240 NOTE-1238 NOTE-1242 NOTE-1237 NOTE-1239 LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: THEORY-1048 THEORY-1049 THEORY-1050 THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (readings) -->
 
-<!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 LIT-1225 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-141 THEORY-418 THEORY-443 LIT-188 — Proposed; accounts the question would test, cited as open -->
 <!-- inactive-ok-file: LIT-1588 LIT-1590 LIT-1611 LIT-1616 LIT-1585 LIT-1608 LIT-1603 LIT-1617 LIT-1605 LIT-1597 LIT-1591 LIT-1595 CASE-173 CASE-171 CASE-177 CASE-174 CASE-167 CASE-168 — Deferred works and Proposed cases of the second pass, cited in the note of 2026-10-27 (later), nothing here rests on them -->
 
@@ -312,3 +318,11 @@ associations". The readings change that.
   does not support the hydrogen hypothesis ([LIT-1597](../literature.d/LIT-1597.md), unread), and the
   previous note's grouping of the two under "syntrophy" needs that
   caveat.
+
+## Note of 2026-10-29: Cooper and West, read
+
+Cooper and West, LIT-1225, which "Why it is a question" lists as unread
+and as a sixth route, is now read (NOTE-tmpckr3f). The route is asserted
+in the paper's conclusion ("a driver, not a consequence"), not shown. The
+model ends at dependence, some individuals "completely dependent upon the
+helping behaviour of others", and has no higher-level unit. The question is unchanged.

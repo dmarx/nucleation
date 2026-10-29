@@ -7,7 +7,7 @@ title: When an operator's authority is updated by how well it performs on the in
   it helped make dominant, the coupled meaning and influence of an organization
   can amplify an initial interpretive advantage without any gain in fidelity to
   independent evidence
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-26'
@@ -34,6 +34,13 @@ history:
     (CASE-092) is analysed. If the influence field adds nothing to
     ordinary adaptive retrieval, CLAIM-278 stands against it." is
     updated. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the reading of DeMarzo, Vayanos
+    and Zwiebel (NOTE-tmpsm8b9): fixed weights are a second route,
+    and their unregistered 2001 companion paper states the loop. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -167,4 +174,23 @@ defeater names. Neither model has a meaning state or retrieval, and
 neither is set against a single adaptive-retrieval process of matched
 capacity. The selection effect in the same population, a reversal of the
 sign of the admitted evidence, is [CASE-156](../cases.d/CASE-156.md)'s and is not new here. The
+claim is unchanged.
+
+## Note of 2026-10-29: persuasion bias, read, is a second route, and its companion paper is the loop
+
+DeMarzo, Vayanos and Zwiebel, LIT-1134, is now read (NOTE-tmpsm8b9). It
+shows that even without this claim's loop, fixed listening weights give
+an agent influence out of proportion to its accuracy: by its Theorem 2 an
+unbalanced network's consensus departs from the precision-weighted
+optimum with no change in anyone's accuracy. So this claim's loop is an
+addition to that route, not the only route to influence without fidelity.
+
+The paper's conclusion points to a companion, DeMarzo, Vayanos and
+Zwiebel (2001), "Social Networks and Financial Markets", in which agents
+choose whom to listen to by trading profits, and stable structures have
+everyone listening to the same experts, who "need not be the ones with
+the best information, and consequently, influence can be
+self-perpetuating independently of accuracy". That is the closest
+published statement of this claim's loop the record has met. It is not
+registered, and it should be read before the loop is called new. The
 claim is unchanged.

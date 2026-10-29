@@ -4,13 +4,19 @@ status: Active
 formerly:
 - CASE-tmpl1tu6
 title: 'Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-23'
   note: >-
     Note of 2026-10-23 added: the transmission arm has a classic
     laboratory precedent, not reached. The proposal is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Krakauer et al. read; the study should
+    state which variables it puts in the environment for each arm.
+    The proposal is otherwise unchanged.
 standing: fictional
 kind: proposed-study
 tags:
@@ -30,7 +36,6 @@ supports:
 - CLAIM-454
 ---
 
-<!-- inactive-ok-file: LIT-1137 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-101: Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members
 
 ## The case
@@ -84,3 +89,14 @@ all who set it. A5: CASE-101's contribution "should concern
 *discriminating mechanisms of persistence*, not demonstrating
 intergenerational transmission itself." [CASE-148](CASE-148.md), perspective
 transplantation, is the extension A4 proposed.
+
+## Note of 2026-10-29: Krakauer et al. read, and the split into S and E
+
+LIT-1137 is now read (NOTE-tmpypk9d), so "unread" above no longer holds.
+The reading confirms that arm A, common input, is where A* fails, as
+Bourrat argued and THEORY-424 holds. It adds a condition on the design.
+A conditions on the environment, so it scores the common-input arm near
+zero only if the common input is among the environment's variables. All
+three of Krakauer et al.'s measures are relative to the split between
+system and environment, so the study should state which variables it
+puts in E for each arm. The proposal is otherwise unchanged.

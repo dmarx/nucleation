@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpgfyls
 title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -18,6 +18,13 @@ history:
     review (ADR-058): the claim never cites it, and the Mona Lisa's
     negotiated vandalism is an instance of its relativity, not a premise
     of it. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the readings of Cooper and West
+    (NOTE-tmpckr3f), whose paper does not contain the sentence
+    attributed to it, and Letten et al. (NOTE-tmph7u5a). The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -157,3 +164,32 @@ After smooth and textured regions swapped at mid-training, operators
 frozen before the swap did worse than no edit at all (mean squared error
 0.0390 against 0.0359), so an operator's regime changed with the frame.
 Reported over 12 runs, not held. The claim is unchanged.
+
+## Note of 2026-10-29: Cooper and West and Letten et al., read
+
+Cooper and West, LIT-1225, is now read (NOTE-tmpckr3f). The sentence the
+note of 2026-10-18 gives "as A46 reads them", that specialization "may
+improve local coordination while simultaneously increasing the
+organization's vulnerability to the loss or capture of a specialist", is
+not in the paper. The paper has no notion of coordination, and no loss or
+capture of a specialist is modelled or discussed. What it shows is
+dependence: "some individuals are completely dependent upon the helping
+behaviour of others". A46's vulnerability point is a fair inference from
+that dependence, not the paper's finding.
+
+The paper gives the thesis partial support of a particular shape. Its
+phenotypes are not given roles: they are two draws of one developmental
+lottery whose investments evolve. But the regimes do not stay
+intermediate; selection drives them to the extremes. A model of niche
+specialization among operators built on this logic would predict sharp
+roles, not graded ones.
+
+Letten, Ke and Fukami, LIT-1237 (NOTE-tmph7u5a), locate a stabilizing
+mechanism in Chesson's sense in impacts: an operator that limits itself
+more than others through what it does to a shared resource. Divergent
+requirements alone mostly equalize. So niche specialization among
+operators is not stabilizing just because the operators differ in what
+they need. The translation is for two species and two resources at a
+stable equilibrium.
+
+The claim is unchanged and stays Proposed.

@@ -7,7 +7,7 @@ complements:
 - TERM-055
 - TERM-034
 title: 'legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer''s rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -25,6 +25,12 @@ history:
     The regime is no longer identified with Π_{o,B}: it also governs what
     is observed and recorded and the categories that organize it (owner's
     second review of 2026-10-21). Adopted: status Proposed → Active.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the reading of Cover
+    (NOTE-tmpns25g): a judgment can be legible and taken up and
+    still not be executed. The term is unchanged.
 tags:
 - epistemology
 - information-theory
@@ -218,3 +224,15 @@ stated in this term.
 
 Settled by the owner's adoption, and by a choice A22 left open: whether
 the term takes the task-loss form above or stays qualitative.
+
+## Note of 2026-10-29: legible, taken up, and not executed
+
+Cover's "Violence and the word", LIT-1601, read in NOTE-tmpns25g, adds the
+step after legibility and uptake. The record's accounts are about whether
+a distinction or a contribution reaches an institution and is taken up by
+it. Cover asks whether the institution's judgment then becomes an act on
+bodies, through others who must be willing to act on it. A judgment can
+be legible and taken up and still not be executed. In CASE-176 the
+legibility of a claim to an enforcer stood in for its validity; Cover's
+warden, choosing which paper to obey, is the same relation seen from the
+enforcer's side. The term is unchanged.

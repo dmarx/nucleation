@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpa5fgc
 title: 'Conversation against argument: in Kalla and Broockman''s field experiments, canvassers who exchanged personal narratives nonjudgmentally reduced exclusionary attitudes durably, while arguments alone did not produce comparable effects'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Kalla and Broockman read
+    (NOTE-tmpwypf3); the contrast with arguments is made exact, and
+    Experiment 2 weighs against reading the narrative arm as taking
+    part. The case is unchanged.
 standing: documented
 kind: reported-study
 tags:
@@ -57,3 +65,28 @@ produce comparable effects in their immigration-policy experiment."
   exclusionary attitudes "for at least four months (d = 0.08)", and the
   replications on transphobia gave d = 0.08 and 0.04. Only Experiment 1
   had an argument-only arm.
+
+## Note of 2026-10-29: the paper, read
+
+LIT-1407 is now read (NOTE-tmpwypf3), so "unread" and "unchecked against
+the paper" no longer hold. The description is right, and can be made
+exact.
+
+- **"Arguments alone did not produce comparable effects."** The
+  abbreviated arm's pooled effect is d = 0.02 (p = 0.27), and its
+  difference from the full arm is 0.06 (p < 0.01). But the arms' difference
+  is not significant at the one-month wave or, for prejudice, at three to
+  six months.
+- **"Persistent."** A pooled effect over waves ending at about four and a
+  half months, the last wave's prejudice effect alone being p < 0.08.
+- **Length.** The caveat that the arms "also differ in warmth, attention
+  and length" is borne out on length by the paper's own footnote 8: the
+  full arm was twice as long.
+
+One finding weighs against reading the narrative arm as taking part. In
+Experiment 2 a stranger's video narrative, with voters sharing their own
+stories in 12% of conversations, did as well as the arm in which both
+parties told stories. What the arms shared was a non-judgmental
+conversation about a narrative, not the voter's own enactment. The paper
+measures no behaviour and no generalization to other groups. The case is
+unchanged.

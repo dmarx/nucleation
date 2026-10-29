@@ -162,3 +162,57 @@ whose resource-use vectors are nonnegative.
   coexistence or exclusion depending on r ([CASE-118](../cases.d/CASE-118.md)).
 - **That a population of coexisting specialists governs itself.**
   Coexistence is not endogenous regulation ([CLAIM-288](CLAIM-288.md)).
+
+## Note of 2026-10-29: the cited duality and its neighbours, read
+
+Seven works read on this date bear on this claim. None finds an error in
+the derivation.
+
+- **The duality, and its direction.** Mehta, Cui, Wang and Marsland,
+  LIT-1231 (NOTE-tmpwkbtk), confirm the summary's citation. There the
+  species are multipliers of constraints in resource space, and the
+  Lotka–Volterra form with α_ij = Σ c_iα c_jα and κ_i = Σ K_α c_iα − m_i is
+  the dual. That is this claim's A = UᵀU and r = Uᵀb − c, with U = Cᵀ,
+  b = K and c = m, so the claim's objective is a dual objective.
+- **A third boundary: the reduction from resources.** Marsland, Cui and
+  Mehta, LIT-1230 (NOTE-tmp1i8u8): read as the fast-resource reduction of
+  a consumer–resource model, A = UᵀU and r = Uᵀb − c hold only while
+  every resource stays positive. Once a resource is driven extinct its row
+  drops out, and the effective objective is MacArthur's piecewise Q. The
+  claim states the Lotka–Volterra form directly, so it is not wrong, but
+  this belongs beside the two boundaries above. The same reading gives the
+  objective a physical meaning: the perturbation the active components
+  impose on the supply.
+- **The continuum case.** Chizat and Bach, LIT-1232 (NOTE-tmpbs06i): this
+  claim's invasion fitness, −∂_i L, is their −F′(µ)(u_i) restricted to a
+  finite dictionary, and its KKT points are their Proposition 3.1's
+  minimizers on a fixed support. With positions free, the absent
+  components form a continuum, and gradient flow transports mass without
+  creating it, so a population reaches the global optimum only if a seed
+  of every possible component is present from the start.
+- **A slowly evolving U.** Power et al., LIT-1235 (NOTE-tmpc6gy4), keep
+  the interaction matrix symmetric and rely on the potential that gives.
+  Evolution there reshapes the objective the community descends, which
+  the claim's fixed-U setting does not cover.
+- **Symmetry is not uniqueness.** Bunin, LIT-1234 (NOTE-tmpxeonz): for
+  symmetric interactions the random Lotka–Volterra model has MacArthur's
+  Lyapunov function, and its phase of multiple attractors still exists.
+  So symmetry and an optimization principle do not by themselves give a
+  unique outcome. That is consistent with this claim, whose A = UᵀU is
+  positive semidefinite, so that L is convex.
+- **The asymmetric case.** Blumenthal, Rocks and Mehta, LIT-1236
+  (NOTE-tmpbd8io, THEORY-tmpncu1p), give A = CEᵀ with C ≠ E and show what
+  fails for a related consumer–resource model. It is the natural objection
+  thread to the claim's scope, not to the claim, which states its
+  symmetric assumption. "What it does not say" cites this paper as
+  THEORY-634, whose source is LIT-036, a different paper on
+  non-reciprocal catalytic cycles; the reading of Blumenthal et al. is
+  THEORY-tmpncu1p.
+- **An open question, not a finding.** Hofbauer and Schreiber, LIT-1233
+  (NOTE-tmphiq73), decide permanence by signs only when the invasion
+  graph is acyclic. In this claim's class L decreases along every
+  trajectory, which should rule out heteroclinic cycles and so cyclic
+  invasion graphs. The paper does not state this and the reading did not
+  prove it.
+
+The claim is unchanged.

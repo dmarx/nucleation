@@ -35,6 +35,7 @@ supports:
 - CLAIM-448
 ---
 <!-- inactive-ok-file: CLAIM-448 THEORY-902 THEORY-321 LIT-1482 — Proposed or Deferred; the claim, accounts and companion work this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpbnint — Proposed; the Friedkin–Johnsen comparison, cited in the note of 2026-10-29 as open -->
 
 # THEORY-916: In the DeGroot–Friedkin model, where a group reaches DeGroot consensus on each issue and each member's self-weight on the next issue equals their control over the last, with fixed relative interpersonal weights, self-weights converge from every non-autocratic start to one equilibrium ordered by the eigenvector centralities of those weights: power accumulates above a centrality threshold, is autocratic exactly when the network is a star and democratic exactly when it is doubly stochastic, and members whom no path of influence reaches end with none
 
@@ -88,3 +89,16 @@ consensus; then x(s+1) = w(x(s)), the dominant left eigenvector of W.
   Under reflected appraisal the most central member's weight grows, which
   is the condition [THEORY-321](THEORY-321.md) says defeats the wisdom of crowds. That
   combination is the record's, not the paper's.
+
+## Note of 2026-10-29: the same rule under the Friedkin–Johnsen step
+
+Friedkin's reflected-appraisal theory, LIT-1404, read in NOTE-tmpegm16,
+uses the same appraisal rule with a different single-issue step:
+Friedkin–Johnsen anchoring on initial positions instead of DeGroot
+consensus. Its model differs, so it is not a counter-example to this
+account. But the same rule gives autocracy under that step. Re-run as
+printed on 300 random complete networks each of sizes 5, 10 and 20, every
+one ended with one self-weight above 0.99; the DeGroot–Friedkin update on
+100 random complete networks of sizes 5 and 10 gave a median largest
+self-weight of 0.29 and 0.13, never above 0.40. The comparison is
+THEORY-tmpbnint, Proposed. This account is unchanged and stays Proposed.

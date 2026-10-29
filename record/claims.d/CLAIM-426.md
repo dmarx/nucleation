@@ -43,7 +43,7 @@ summary: >-
   future it is helping to make. The claim narrows [CLAIM-425](CLAIM-425.md), it does
   not reverse it: visibility still does not show what was the case.
 ---
-<!-- inactive-ok-file: CLAIM-402 CLAIM-425 LIT-1394 LIT-1396 LIT-1397 LIT-1398 TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-402 CLAIM-425 LIT-1394 LIT-1398 TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1395 until 2027-01-29 — Unavailable since 2026-10-29 (no lawful copy of MacKenzie found); a ground cited from its standard reception, unread, so whether this claim still holds is asked again by then -->
 
 # CLAIM-426: Where a judgement's circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement's authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become
@@ -96,3 +96,37 @@ true.
   case, and makes no judgement on the programme.
 - **Not a term.** "Hyperstition" turns up here for the first time, and the
   record gives a thing a code the second time.
+
+## Note of 2026-10-29: Land and Soros read, and Franklin's arranged plurality
+
+Two of this claim's grounds are now read, and both bear it out with one
+correction to the body.
+
+- **Land**, LIT-1396 (NOTE-tmphc9i5). The definition is as quoted. But
+  "What it does not say" gives the term's addition as the case where the
+  idea is "never false of the present", and the interview does not say
+  that. Its Jerusalem example and its last sentence say the reverse: under
+  favourable circumstances hyperstition can "transmute lies into truths".
+  That distinction is the record's, not Land's. Nor does the interview use
+  "theory-fiction". It gives no condition under which the loop runs, so
+  it supports the premise, that some judgements' circulation helps make
+  them true, and gives nothing for telling such judgements apart from
+  others, which is the part of this claim that bears weight.
+- **Soros**, LIT-1397 (NOTE-tmp8x2ha). His views "influence but do not
+  determine" outcomes, his loops run both ways, and his example of a
+  theory acting on markets changes them "though not necessarily making
+  them more efficient". So circulation is evidence about what a judgement
+  will bring about, but not about which way. That supports the narrowing
+  of CLAIM-425 and the body's "in either direction"; the title's "what it
+  will bring about" should be read to allow the loop to run against the
+  judgement as well as for it.
+
+Franklin's autobiography, LIT-1402 (NOTE-tmp7r4s0), adds first-hand cases.
+The Junto's satellite clubs and the newspaper pieces that "prepare the
+minds of the people" are circulation arranged so that a judgement would
+bring about what it said. Franklin arranged the appearance of plurality:
+the watch reform was "communicated to the other clubs, but as arising in
+each of them". That is the attributed plurality CLAIM-425 discounts and this claim keeps
+as evidence about the future.
+
+The title and status are unchanged.

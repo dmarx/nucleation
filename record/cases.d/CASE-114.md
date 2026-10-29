@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmps7vk0
 title: 'The imagined owner'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -17,6 +17,13 @@ history:
   note: >-
     Note of 2026-10-23 added: two classic results on reported
     authorship. The proposal is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Johansson et al. read (NOTE-tmpxiuw0);
+    reasons for unchosen outcomes are indistinguishable from real
+    ones, but ordinary reasons are not shown to be confabulated. The
+    design is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -36,6 +43,7 @@ summary: >-
   it tests attribution of control, not phenomenal properties.
 ---
 <!-- inactive-ok-file: CLAIM-355 CLAIM-288 THEORY-646 QUESTION-061 CLAIM-413 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
+<!-- inactive-ok-file: LIT-1410 — Unfetched since 2026-10-29; Nisbett and Wilson, cited in the note of that date as not yet read, nothing here rests on it -->
 
 # CASE-114: The imagined owner
 
@@ -136,3 +144,17 @@ they "already demonstrate that **reported authorship and actual causal
 history can diverge**." What they do not show is this design's thesis,
 that representing a centralized controller rather than an accurately
 distributed one changes error correction or self-governance.
+
+## Note of 2026-10-29: choice blindness, read
+
+Johansson, Hall, Sikström and Olsson, LIT-1417, which the note of
+2026-10-23 calls registered unread, is now read (NOTE-tmpxiuw0). A5's
+"reported authorship and actual causal history can diverge" is right for
+it, and narrowly. What it shows is that a reason can be produced for an
+outcome one did not choose and be indistinguishable on eight measures from
+a reason for one's real choice. It does not show that ordinary reasons are
+confabulated: the authors raise that "radical reading" and leave it open,
+and the reports that did name the original choice show that some reports
+carry the real one. Nisbett and Wilson, LIT-1410, is Unfetched. The case's
+own limit stands: nothing here bears on whether representing a central
+controller changes error correction. The design is unchanged.

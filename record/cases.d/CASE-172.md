@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpn75cv
 title: 'Federal science and education in the United States, 2025–2026: grants cancelled, frozen and in part reinstated, staff departures, advisory committees ended and research programs suspended, so that funding, organization and scientific capacity could be restored, or not, separately'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Jasanoff and Fiss read, and Herd and
+    Moynihan's introduction (NOTE-tmp4y156, NOTE-tmpafym3,
+    NOTE-tmpkbyme). The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -28,6 +35,7 @@ summary: >-
   without output falling. Not shown: the size of any loss. Every figure is
   the exchange's, from reports this filing has not read.
 ---
+<!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
 
 # CASE-172: Federal science and education in the United States, 2025–2026: grants cancelled, frozen and in part reinstated, staff departures, advisory committees ended and research programs suspended, so that funding, organization and scientific capacity could be restored, or not, separately
 
@@ -114,3 +122,38 @@ exchange's:
   documented; the figures above are the exchange's and unread here. A4
   advised filing with "a clearly dated evidence window" and legal
   reversals kept apart from functional recovery, which this case does.
+
+## Note of 2026-10-29: three of A8's works, read
+
+A8 offered three works for this case. Two are now read and one is read in
+its introduction.
+
+- **Jasanoff, "Technologies of humility"**, LIT-1594 (NOTE-tmp4y156),
+  offered for the breadth of harms that are hard to quantify in advance.
+  That fits, with one adjustment: she writes about assessing a technology
+  before it is adopted, not about counting the harm of a policy after it.
+  Her first limit is this case's "success described at one level": a
+  saving reported by a predictive, accounting frame overstates what falls
+  within its field of vision and leaves out what falls outside. Her
+  vulnerability point, that "history, place, and social connectedness"
+  fall out of population-level indicators, names what a reinstated grant
+  does not restore: the cohort and the local research tradition. She gives
+  no method for measuring either, so she supports "What it shows" and not
+  any size of loss.
+- **Fiss, "The forms of justice"**, LIT-1600 (NOTE-tmpafym3). The formula
+  "Reversal ≠ Repair ≠ Structural reform" is A8's, not Fiss's, but the
+  distinction is in the paper: the dispute-resolution remedy corrects or
+  prevents "a discrete event", while the structural remedy removes "a
+  condition" by reorganizing an ongoing institution over many cycles. Fiss
+  does not discuss restoring an earlier state; his structural suit
+  presumes the existing arrangement is what threatens the value, which is
+  this case's point that some relations should be dismantled.
+- **Herd and Moynihan, *Administrative Burden***, LIT-1609, of which only
+  the introduction is read (NOTE-tmpkbyme). It says burdens can restrict
+  access to a benefit or a right with no change to formal eligibility, so
+  that what is lost is the practical ability to use it. That is TERM-055's
+  operational availability carried from a resource to a right. Whether
+  the chapters give a measure of that loss is not known; take-up is the
+  introduction's only one.
+
+The case is unchanged.

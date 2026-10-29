@@ -97,3 +97,19 @@ concludes, so it carries `formal-apparatus` as a second line ([ADR-040](../decis
 - It does not say the slower social route is a defect. A5 and the owner
   hold that durable trust is how authority should arise ([CLAIM-277](CLAIM-277.md)).
   The same route is also how authority is captured.
+
+## Note of 2026-10-29: evidence-based subjective logic, an instance with a ceiling
+
+Škorić, de Hoogh and Zannone's evidence-based subjective logic, LIT-1130,
+is now read (NOTE-tmp33iar). Its fixed point is a damped recursive
+delegation with self-rating forbidden (A_xx = U), the design this claim is
+about, in an evidence algebra. The paper's loop case shows the claim's
+point. User 1's trust in user 2, R_12, depends on user 3's opinion of 2
+weighted by 1's trust in 3, which depends on R_12 itself, and a
+near-certain A_32 can make R_12 near-certain whatever A_12 says.
+
+What it adds is a ceiling: no user's evidence about j can exceed the
+evidence about j that others hold directly, so recycling cannot create
+evidence, only re-weight it. It does not make an operator's standing
+independent of its own opinions, which this claim says only one-hop
+allocation does. The claim is unchanged.

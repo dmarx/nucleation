@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp4hwnm
 title: 'Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and does cutting the maintaining link, with the regime''s content held fixed, produce lasting change?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -13,6 +13,12 @@ history:
     evidence would show that the maintaining link keeps a disorder in
     place is QUESTION-292, Answered by THEORY-053. This question
     keeps whether any disorder is such a lock-in, and the experiment.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the RefraMED trial read
+    (NOTE-tmp5ify5); it reports no mediation analysis. The question
+    is unchanged.
 tags:
 - psychopathology-and-treatment
 - complex-systems
@@ -109,3 +115,14 @@ not a treatment's efficacy, but change in the link that is specific and
 comes before the outcome. This question keeps what is still open: whether
 any disorder is such a lock-in, and an experiment that cuts the link with
 the content held fixed.
+
+## Note of 2026-10-29: RefraMED, read, gives nothing on mechanism
+
+The randomized trial the note of 2026-10-18 names, Lynch et al. 2020,
+LIT-1223, is now read (NOTE-tmp5ify5), so that note's "Neither is held
+yet" no longer holds for it. It gives nothing on whether
+overcontrol is a protective lock-in. Its title promises mechanisms, and
+the mediators were measured, but no mediation analysis is reported, only
+contrasts between arms. It selected on refractory depression with
+undercontrolled presentations excluded, and it did not measure
+overcontrol. The question is unchanged.

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmprc3on
 title: 'CECOT, 2025: people removed from the United States into Salvadoran custody despite court orders, the US saying it could not bring them back and El Salvador''s president that he could not send them, until coordinated transfers out showed the two governments together could'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the Abrego Garcia order and El-Masri
+    read (NOTE-tmpgunf9, NOTE-tmps22mh); El-Masri does not raise
+    which government could undo a transfer while the person was
+    held. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -121,3 +129,33 @@ holding them, and their release when the United States sought it.
   proceedings and the custody ruling are the exchange's. *El-Masri v. the
   former Yugoslav Republic of Macedonia* ([LIT-1619](../literature.d/LIT-1619.md)) is the comparator A8
   proposed, for what is new here and what is the old problem of rendition.
+
+## Note of 2026-10-29: the order and the comparator, read
+
+The Supreme Court's order in *Noem v. Abrego Garcia*, LIT-1606, is now read
+(NOTE-tmpgunf9). The case's account of it is right. Two particulars can be
+added. The Court itself separated facilitating release from effectuating
+return, and left the second open. And it asked the government to "share
+what it can concerning the steps it has taken and the prospect of further
+steps": a court asking for the evidence behind a claim of inability
+before accepting it, which is QUESTION-279's move.
+
+*El-Masri*, LIT-1619, is read too (NOTE-tmps22mh), and it marks what is
+new here. Three differences.
+
+- **Where the routes of responsibility start.** In *El-Masri* they run from
+  the sending State's own acts on its own territory: its agents held him,
+  acquiesced in the CIA team's torture and authorized the flight to
+  Kabul.
+- **What the State is responsible for abroad.** Under Article 3 it is
+  responsible for exposing him to the risk, and the Court says expressly
+  that it does not adjudicate the receiving state's responsibility
+  (§ 212). Only under Article 5 is the sending State responsible for the
+  detention abroad itself, as part of a continuing enforced disappearance
+  it facilitated (§§ 239–241).
+- **The remedy.** Compensation and a finding: the applicant was by then
+  free, and the Court ordered nothing about where he was.
+
+So the question this case raises, which government could or had to undo
+the transfer while the person was still held, does not arise in
+*El-Masri*. That is the new part. The case is unchanged.

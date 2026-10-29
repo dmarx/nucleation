@@ -4,13 +4,19 @@ status: Active
 formerly:
 - CASE-tmp4nzjz
 title: 'Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-23'
   note: >-
     Note of 2026-10-23 added: external analogues for the honest-dissent
     arm, from abstracts. The proposal is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Castro and Liskov, zero trust and the
+    SEI guide read; the role-limited arm can report against PBFT's
+    collusion bound. The design is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -34,6 +40,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-288 CLAIM-342 CLAIM-359 — Proposed; the claims this proposed study would test or is bounded by, cited as open -->
+<!-- inactive-ok-file: LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the part read, nothing here rests on it -->
 
 # CASE-108: Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators
 
@@ -117,3 +124,26 @@ federated-learning methods under heterogeneous data, which was not
 identified with confidence and is not filed. [CASE-144](CASE-144.md) proposes the
 evaluator-compromise test in a form that bears on this case and [CASE-092](CASE-092.md)
 at once.
+
+## Note of 2026-10-29: a bound for collusion, and a score that can be farmed
+
+Three of the works behind A41's design are now read, two of them in part.
+
+- **Castro and Liskov**, LIT-1217 (NOTE-tmp4lpyh). The role-limited arm's
+  failure, "coordination cost or collusion", has a quantitative
+  counterpart there: the quorum design tolerates collusion of up to f
+  members of 3f + 1 and nothing beyond. The study could report its results
+  against such a bound. The variant that compromises the evaluators
+  corresponds to a faulty primary, which that protocol survives because
+  the primary's proposals are checked by everyone and the role rotates.
+- **Zero trust**, LIT-1226 (NOTE-tmpd81mn). The reliability-weighted arm,
+  with its failure "self-reinforcing capture or unfair suppression", is
+  close to a score-based contextual trust algorithm, whose confidence
+  rises with a history of normal behaviour. The document does not
+  consider that such a score can be farmed.
+- **The SEI insider-threat guide**, LIT-1216, skimmed (NOTE-tmp3wx9h). Its
+  own separation-of-duties case is a failure by collusion, four insiders
+  splitting the steps the separation was meant to keep apart: the
+  role-limited arm's failure, observed.
+
+The design is unchanged.

@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmps5qp3
 title: 'The United States Institute of Peace, 2025–2026: its board removed and its building entered by DOGE staff with police assistance before any court ruled, nearly all staff dismissed, a district court''s judgment that the takeover was unlawful stayed on appeal, and the institution renamed while its legal identity continued'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Cover and Fiss read (NOTE-tmpns25g,
+    NOTE-tmpafym3); Cover's account of judicial words becoming deeds
+    through others fits the case closely. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -161,3 +168,30 @@ exchange's:
   record. A6 also proposed the comparison that would test the mechanism:
   disputes in which police declined to enforce a contested leadership claim
   until a court ruled, against those in which they acted at once.
+
+## Note of 2026-10-29: Cover and Fiss, read
+
+The two works A8 brought to this case are now read.
+
+- **Cover, "Violence and the word"**, LIT-1601 (NOTE-tmpns25g), which A8
+  called the single most relevant reading. It fits closely. That
+  enforcement settled who held the building before any court settled who
+  held the authority is Cover's warden choosing which paper to obey: the
+  police and the security contractor acted on the executive's papers, and
+  a court's word could become a deed only if they would act on its. The
+  judge's reported worry that an order to exclude the new occupants could
+  provoke an "armed battle" is Cover's "conditions of effective
+  domination" entering the interpretation itself. Cover also names what
+  the case does not: the judge's remaining power is to withhold
+  justification (n. 48), which a refusal to grant an order does not
+  exercise.
+- **Fiss, "The forms of justice"**, LIT-1600 (NOTE-tmpafym3). A8's
+  "Reversal ≠ Repair ≠ Structural reform" is A8's formula, not Fiss's, but
+  the distinction is in the paper: the dispute-resolution remedy corrects
+  or prevents "a discrete event", while the structural remedy removes "a
+  condition" by reorganizing an ongoing institution over many cycles. A
+  court that restored the board would reverse; it would not repair the
+  programs and partner relations the case lists as lost. Fiss does not
+  discuss restoring an earlier state.
+
+The case is unchanged.

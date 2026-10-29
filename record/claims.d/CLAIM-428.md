@@ -97,3 +97,18 @@ realized across institutions, and not a collective agent ([CLAIM-418](CLAIM-418.
   element is a loop in which cooperation changes the conditions for
   further cooperation; A6: "cooperation may produce its own future
   reasons for cooperating."
+
+## Note of 2026-10-29: Kleinman, Liu and Redding, read
+
+The work behind this claim's one ground, CASE-150, is now read: LIT-1416
+(NOTE-tmpz95lz). It supports the first half of the title, that material
+interdependence couples outcomes, with a measure that can be negative:
+30 percent of pairs are enemies. Whether a pair's dependence is organized
+as opportunity or as threat is decided in the paper by the sign of the
+real-income exposure, not by perspective, and the paper offers nothing on the
+perspective that organizes it. Its own model is the strategic
+explanation: alignment is an action chosen for its payoff, with
+preferences held fixed. And ideological rivalry, the outcome nearest to a
+change of view, is the one the instrument does not move. So the paper is
+evidence for the material level and silent on the perspectival one, which
+is what the claim is about. The claim is unchanged and stays Proposed.

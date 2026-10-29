@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmp0b3lc
 title: 'Franklin''s borrowed book: Benjamin Franklin, opposed by a new member of the Pennsylvania Assembly when he stood again as its clerk, asked to borrow a rare book from him rather than courting him, returned it with thanks, and found the man civil and later a friend'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the Autobiography read
+    (NOTE-tmp7r4s0); the member is described but not named. The case
+    is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -75,3 +82,19 @@ favourably. A1 added that its direct replication record is limited.
   A1 called limited.
 - Which mechanism worked. The account records the outcome, not the rival's
   reasons, and Franklin wrote it as a lesson.
+
+## Note of 2026-10-29: the Autobiography, read
+
+The Autobiography, LIT-1402, is now read in full (NOTE-tmp7r4s0). The case
+tells the anecdote as the text does, and its standing as the anecdote's
+is right. Two details can be added. Franklin describes the member as "a
+gentleman of fortune and education, with talents that were likely to give
+him, in time, great influence in the House", and gives the profit of the
+clerkship as his reason for winning him over. The text gives no name for
+the member.
+
+On CLAIM-275: Franklin's own account of why it worked is the maxim,
+not an interpretation that followed the act, and the text says nothing
+about what the member came to think. So the anecdote fits the claim's
+shape and does not show its mechanism, as "What it does not show" already
+says. The case is unchanged.

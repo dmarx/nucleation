@@ -28,6 +28,7 @@ complements:
 ---
 <!-- inactive-ok-file: LIT-1065 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
 
 # TERM-055: operational availability, of a resource for an action: the chance that an agent–environment system, given the cue it actually has, deploys the resource for the task before the deadline
 
@@ -80,3 +81,15 @@ extra access cost was enough to shift them from perfect information on a
 display to memory. Realized deployment can therefore fall below α, as in
 [CASE-085](../cases.d/CASE-085.md), where recall was tried before search.
 
+## Note of 2026-10-29: carried from a resource to a right
+
+Herd and Moynihan's *Administrative Burden*, LIT-1609, read in its
+introduction only (NOTE-tmpkbyme), uses this term's sense for a right.
+Burdens can restrict access to a benefit or a right with no change to
+formal eligibility, so that what is lost is the practical ability to use
+it: the right is present and known, and not deployable before the
+deadline. That is the separation of deployability from presence and from
+knowing it is present, applied to rights, as A8 proposed for CASE-172.
+Whether the book's chapters give a measure of that loss is not known from
+this reading; take-up is the introduction's only one. The term is
+unchanged.

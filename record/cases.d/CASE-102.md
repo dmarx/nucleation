@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpljl7c
 title: 'A college program stays good, or bad, at a sport for decades while its whole roster turns over every four or five years'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Hazen et al.'s functional information,
+    read, measures how rare a good roster is, not why a program
+    keeps producing one. The case is unchanged.
 standing: stipulated
 kind: specimen
 tags:
@@ -74,3 +81,18 @@ resources and recruiting are modelled explicitly, the program may add
 nothing. A11 §4 added a horizon profile: different variables (roster,
 recruiting, alumni, reputation) may keep their predictive information
 over different lags ([CLAIM-331](../claims.d/CLAIM-331.md)).
+
+## Note of 2026-10-29: functional information measures the rarity, not the mechanism
+
+A10 named Hazen, Griffin, Carothers and Szostak's functional
+information, LIT-1148, for this case's repeated production of good
+teams, and read it as function-relative and silent on whether successive teams are one
+individual. The work is now read (NOTE-tmpyxqnm), and both points hold.
+It adds a third. The measure is taken over all configurations under a
+uniform weighting, explicitly not over what a selective process
+produces. So it can say how rare a good roster is among all rosters, but
+not why one program keeps drawing from the rare region. That is the
+mechanism this case asks about, and functional information leaves it
+untouched. A slow variable the members read, such as a program's
+standing (CLAIM-327), is the kind of thing that would. The case is
+unchanged.

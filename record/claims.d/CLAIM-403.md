@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj163u
 title: 'A contribution''s admission to an organization''s inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor''s part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,12 @@ history:
     Infrastructure Review", where a team's rung is produced by its
     members, member-level and team-level influence do not add; checked
     on a linear construction (1.1 against 0.7). The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added, from the reading of Cover
+    (NOTE-tmpns25g): execution is a step after uptake. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -190,3 +196,14 @@ a pathway no member has (T19: an incident team "might jointly possess the
 authority to deploy a mitigation even though no one member has both the
 necessary knowledge and authorization"), and that pathway counts once, as
 the team's. The claim is unchanged.
+
+## Note of 2026-10-29: a step after uptake
+
+Cover's "Violence and the word", LIT-1601, read in NOTE-tmpns25g, adds a
+step after this claim's last rungs. Uptake here is a contribution's
+influence on an institution's judgements, and governance participation
+its contributor's part in revising the standards of uptake. Cover asks
+whether the institution's judgment then becomes an act, through others
+who must be willing to carry it into deeds. A judgment can be taken up
+and still not be executed, and the ladder above does not name that
+step. The claim is unchanged.
