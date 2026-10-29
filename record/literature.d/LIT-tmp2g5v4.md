@@ -1,7 +1,13 @@
 ---
-status: Deferred
+status: Active
+status_note: >-
+  read in full 2026-10-29 (NOTE-tmpmy2mv) from the Findings of EMNLP 2022
+  PDF; worth reading as a nine-language politeness dataset with
+  human-agreement figures (pairwise Spearman 0.46 own-language, 0.36
+  English), a reference for a reliability target, with the caveat that its
+  annotators were screened against a classifier.
 title: 'TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -10,6 +16,14 @@ history:
     (2026-10-28 to 29). `published:` is arXiv v1 2022-11-29 (Findings of
     EMNLP 2022; the ACL record gives doi 10.18653/v1/2022.findings-
     emnlp.420) (ADR-002). A5 gave no full title.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Read in full from the Findings of EMNLP 2022 PDF (ACL Anthology
+    2022.findings-emnlp.420). Two textual slips found: own-language
+    agreement is higher in eight of nine languages, not all nine
+    (Tamil), and GPT-3's target input wins in six of nine, not seven.
+    The summary is rewritten from the text. Status Deferred to Active.
 tags:
 - pragmatics
 - linguistics
@@ -24,20 +38,32 @@ keywords:
 - 'formality'
 implementations: []
 summary: >-
-  Srinivasan & Choi (2022). Three-way politeness annotations for 500
-  examples in each of nine typologically diverse languages, 4.5K in all;
-  multilingual models transfer zero-shot fairly robustly but fall well
-  short of estimated human accuracy.
+  Srinivasan & Choi (2022). Graded politeness ratings (−3 to +3), three
+  Prolific annotators per item, for 500 Wikipedia talk-page requests in
+  each of Hindi, Korean, Spanish, Tamil, French, Vietnamese, Russian,
+  Afrikaans and Hungarian. Mean pairwise Spearman agreement is 0.46 on
+  own-language items and 0.36 on English items rated by the same
+  bilinguals. On the balanced top-and-bottom-quartile sets, an XLM-R
+  trained on English requests reaches 0.81 zero-shot accuracy, about 10
+  points below leave-one-out human accuracy (around 90%) in six languages.
+  Annotators were screened for agreement with that classifier. Politeness
+  and formality are shown not to be interchangeable.
 ---
 
 # LIT-tmp2g5v4: TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages
 
 Srinivasan, A., & Choi, E. (2022). TyDiP: A dataset for politeness classification in nine typologically diverse languages. *Findings of EMNLP 2022*, 5723–5738.
 
-Not read. The summary is drawn from the abstract and from the exchange's
-description, which the lookup of 2026-10-29 checked. A reading should check
-it first.
+Read in full in NOTE-tmpmy2mv.
 
 ## Why this is here
 
 A5 offered it as a measurement resource for [CASE-055](../cases.d/CASE-055.md)'s Stage 0, not as a definition of fidelity: politeness labels across languages, with their reliability limits.
+
+The reading bears this out: TyDiP does report human agreement, which makes it a reference for a Stage 0 reliability target, but its annotators were screened for agreeing with a model and no judge rated twice (NOTE-tmpmy2mv).
+
+## Key takeaways
+
+- Human agreement is reported: 0.33–0.60 by language, pairwise Spearman over 15-item tasks; no test–retest (NOTE-tmpmy2mv).
+- The same people agree less in their second language, in eight of nine languages.
+- Annotators were kept for agreeing with a classifier, so its agreement and human-accuracy figures are upper estimates.

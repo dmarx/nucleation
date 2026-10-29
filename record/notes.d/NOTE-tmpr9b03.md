@@ -1,0 +1,257 @@
+---
+status: Read
+paper: 'LIT-tmp1n8bp'
+title: 'Osmelak et al. — PETra'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the published LREC 2026 PDF (ACL Anthology
+    2026.lrec-1.689, pp. 8756–8766), fetched 2026-10-29. The arXiv copy
+    2511.02721v2 (dated 1 April 2026) was also fetched; a word-level diff
+    of the two extractions found no difference except the arXiv stamp and
+    the proceedings footers. Text extracted with `pdftotext -layout`. I
+    read the abstract, §§1–7, the limitations, the acknowledgements, the
+    references, Tables 1–3 and the captions of Figures 1–2. Figure 2's
+    curves did not survive extraction; its numbers are quoted from the
+    text. Pages are the proceedings'. Checks: I summed Table 2's rows and
+    columns (my script), and downloaded the released corpus from the
+    authors' Hugging Face page (Doosme/PETra, revision of 2026-04-05) and
+    counted its rows by language and source, and its type labels. The
+    annotation guidelines PDF in that release was not read.
+date: '2026-10-29'
+summary: >-
+  PETra is a corpus of about 3,000 English-source sentence pairs from
+  TED-Multi and Europarl, in twelve target languages, in which a
+  translation adds or replaces material to make culture-bound knowledge
+  explicit: unit conversions, entity descriptions and specifications,
+  translator glosses. Candidates come from null alignments filtered to
+  pairs with a named entity, and a BERT classifier trained by active
+  learning on German and Spanish finds the rest. Measurement conversion is
+  the largest category. No inter-annotator agreement is reported, the text
+  points to a single annotator, and three quarters of the pairs were found
+  by the classifier, so the labels are not a validated measure.
+---
+<!-- inactive-ok-file: CLAIM-257 CLAIM-202 THEORY-tmptu082 — Proposed; the record's claims this reading bears on and the theories it produces, cited as open -->
+
+# NOTE-tmpr9b03: Osmelak et al. — PETra
+
+## Contribution
+
+A released corpus of pragmatic explicitations in human translation, in the
+translation-studies sense: "fragments of translated text that make implicit
+cultural or background knowledge explicit to the reader" (§3, p. 8758). It
+holds 2,982 sentence pairs by Table 2's counts (2,989 rows in the release),
+English source and twelve targets, each addition bracketed in the target and
+labelled with one of 19 subtypes in four families (Table 1, p. 8760) and a
+style, replace or add (p. 8761). It also gives a pipeline that finds such
+pairs: null-alignment extraction, then a multilingual BERT classifier trained
+by active learning. Before it there was no multilingual, labelled corpus of
+this phenomenon; Han et al.'s WikiExpl (2023) is described as a set of
+generated explicative additions, not a validated corpus (p. 8757).
+
+## Key insight
+
+What a translation adds for its new audience can be found mechanically, as
+target tokens with no source alignment near a named entity, and it is mostly
+mundane: "1 mile" → "1.6km", "Tucson" → "Tucson (Arizona)", "Myanmar" →
+"Myanmar ( former Birma )" (pp. 8758–8761). The paper's framing example is
+"Angela Merkel, former German Chancellor": "This added phrase does not alter
+the literal meaning but enriches the translation by making implicit, tacit
+knowledge in the source explicit in the target" (p. 8756). The resource is a
+catalogue of additions to content, not of changes to act, stance or footing.
+
+## Assumptions
+
+- **English source, existing human translations.** Every pair is English →
+  X, taken from TED-Multi subtitles and Europarl (§4.1, p. 8759). Nothing is
+  known of the translators' briefs. There is one route per item.
+- **A candidate needs a named entity and an unaligned content word.** The
+  extraction keeps "sentence pairs containing both a named entity (PERSON,
+  NORP, FAC, ORG, GPE, LOC, PRODUCT, EVENT, WORK_OF_ART, LAW, or LANGUAGE)
+  and an unaligned content word (NOUN, PRON, or PROPN) in the target text"
+  (p. 8760). Additions with no entity nearby, or with no unaligned noun, are
+  outside the net. The authors say the methods "may overlook more implicit
+  pragmatic or cultural adaptations" (Limitations, p. 8764).
+- **Exclusions by rule.** Pure translations ("Germany" → "Deutschland"),
+  acronym changes where both forms are equally familiar, simplifications and
+  idiomatic rephrasing are excluded (pp. 8758–8759), so the category
+  boundaries are the authors' judgement of what counts as cultural.
+- **Binary detection, multi-type annotation.** The classifier is
+  "bert-base-multilingual-cased for binary classification" (p. 8762),
+  though §2 says the authors "adapt a multi-label active learning
+  framework" (p. 8758). Types and styles are assigned by hand.
+
+## Key results
+
+- **Corpus size.** The abstract says "3,000 sentence pairs" (p. 8756); the
+  text, "Approximately 3,000 instances were manually labeled across the full
+  dataset" (p. 8761). Table 2 (p. 8761) gives, per target language, pairs by
+  source (P = found by the final classifier, E = null-alignment extraction,
+  T = active-learning training) and type instances. I summed it: P 2,250,
+  E 507, T 225, so 2,982 pairs; three quarters were found by the classifier.
+  The release has 2,989 rows (POOL 2,257, EXTR 507, TRAIN 225); the only
+  difference is the Europarl German pool, 59 rows against Table 2's 52.
+- **Type counts.** Table 2's totals are ENT 992, SYS 1,722, LING 744,
+  ADD 296, Σ 3,754 type instances. The ADD column as printed sums to 307
+  and Σ to 3,765, so the printed ADD and Σ totals are 11 short; the other
+  three columns and every row sum correctly. The largest single subtype in
+  the release is MEAS_CONV, 1,093 of about 3,880 labels.
+- **Language coverage is uneven.** German (TED) has 801 pairs and 1,072
+  type instances; Greek has 72 pairs, Arabic 65. Persian, Hebrew, Thai and
+  Arabic have no extracted or training pairs at all, only classifier finds
+  (Table 2). Europarl appears for German only in Table 2, though footnote 4
+  lists Europarl rates "on DE, ES, IT, PT, FR" (p. 8761).
+- **Rates.** "Of all candidate sentence pairs, 6% (2.6% for TED, 42% for
+  Europarl) were extracted by EXTR. 3% of the sentence pairs (2.5% for TED,
+  7.7% for Europarl) were classified as containing cultural explicitation by
+  CLF" (p. 8761). These are rates within the filtered candidate set, not
+  within the corpora.
+- **Classifier.** Seed 100 (one third positive), fixed test 300 (§5.1,
+  p. 8762); 13 cycles, 100 then 50 queries each, then 1,000 more annotated
+  German and Spanish pairs (L14). "Active learning improves performance by
+  roughly 7–8 percentage points" (p. 8763). In-language at L13: "German
+  reaching 0.88 accuracy and 0.57 F1, and Spanish 0.81 accuracy and 0.59
+  F1" (p. 8763). Transfer at L14: Portuguese and Dutch "0.82–0.83 in
+  accuracy and 0.80–0.82 in F1"; Greek "accuracy peaking at 0.74 and F1 at
+  0.76" (p. 8763). Each transfer test set is 100 null-alignment pairs, and
+  "These datasets only contain very clear cases of explicitations, while the
+  German and Spanish test sets contain also more subtle cases, due to the
+  proficiency of the annotator" (footnote 5, p. 8763). Results are averaged
+  over five seeds (Fig. 2 caption).
+- **The abstract's headline mixes two settings.** "up to 0.88 accuracy and
+  0.82 F1 for the best transfer languages" (p. 8756) joins German's
+  in-language accuracy at L13 (F1 0.57) with the best transfer F1 at L14 on
+  easier test sets.
+- **Typological patterns, descriptive only.** MEAS-DIM is "particularly
+  common in Germanic languages"; "European languages usually convert
+  customary units to metric ones, while Semitic languages often keep the
+  original measurement systems"; "German translations tend to assume more
+  cultural background knowledge, using fewer explicitation strategies
+  overall" (p. 8764). No test, rate or count backs these sentences, and the
+  last sits oddly with German having the most pairs and instances in
+  Table 2, which reflects annotation effort as much as translation.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A labelled corpus of about 3,000 EN→X pairs with bracketed explicitations in 12 target languages exists and is released | strong | Table 2; release checked (2,989 rows) |
+| C2 | Entity and system-level (measurement, institution) explicitations are the most frequent types | moderate | Table 2 counts; but the extraction requires a named entity and most pairs were classifier-found, so the ordering is partly built in |
+| C3 | Active learning raises the detector's accuracy by 7–8 points | moderate | Fig. 2a, five seeds, one fixed 300-item test set per language |
+| C4 | A German–Spanish classifier transfers to Portuguese, Dutch, Italian, French (best F1 0.80–0.82), less to Greek | weak | 100-item test sets of "very clear cases" (fn. 5) |
+| C5 | Explicitation strategies differ systematically by language family | weak | qualitative statements, p. 8764; no rates normalized by candidates |
+| C6 | "pragmatic explicitation is a consistent and measurable phenomenon across languages" (p. 8763) | weak | no agreement statistic; one annotator implied (fn. 5) |
+
+## Concepts
+
+- **Pragmatic (cultural) explicitation** — an addition or replacement in a
+  translation that supplies background the target audience is assumed to
+  lack (§3). Klaudy's sense, set against obligatory or structural
+  explicitation (p. 8757). Not pragmatics in the sense of act, force or
+  footing.
+- **Null alignment** — a target token that eflomal and SimAlign leave
+  unaligned, read as an addition (p. 8760).
+- **Style** — R, the source term is replaced ("1 mile" → "1.6km"), or A,
+  material is added beside it ("1 mile (1.6km)") (p. 8761).
+- **CLEAR and DEIX** — the two subtypes nearest discourse pragmatics:
+  replacing a pronoun by its referent, and resolving "here" to "in the US".
+  CLEAR covers information "known to the source audience, for example due to
+  visual input, or prior discourse input" (p. 8761). 93 and 27 labels in
+  the release.
+
+## Connections
+
+- **Klaudy 1993, Blum-Kulka 1986**: the explicitation typology and the
+  explicitation hypothesis the corpus operationalizes (p. 8757). Not held.
+- **Han, Boyd-Graber and Carpuat 2023** (WikiExpl) and **Lou and Niehues
+  2023**: automatic explicitation and audience-specific explanations, cited
+  as generation work (pp. 8757–8758). Not held.
+- **The sibling resources in this batch**: VakyArth (LIT-tmpog7aw), TyDiP
+  (LIT-tmp2g5v4) and Ward and Marco's similarity judgments (LIT-tmphdoda),
+  all read the same day for CASE-tmph0fxi. PETra is the only one of the four
+  built from translations people actually made.
+
+## Bearing on the record
+
+- **CLAIM-257 (change of cover): a natural source of the stimuli it needs,
+  and nothing more yet.** CLAIM-257 asks that a target's new question be put
+  to source readers too, so that an addition costs. PETra's add-style items
+  (1,958 of the release's labels; the other 1,902 are replacements, R,
+  which change rather than add) are naturally occurring cases of a target
+  saying something the source did
+  not: the Dutch target glosses Yellowstone as a national park in the US
+  known for its geysers, and the Spanish one places Monterey in California
+  and adds that it hosted the conference (Table 3, p. 8762). Each comes with its source and a bracket marking what was
+  added, which is what a study would need to ask source readers the added
+  question. The corpus carries no receiver judgements, so it says nothing
+  about whether such additions change what readers take the utterance to
+  do, which is CLAIM-257's defeat condition. Most items add referential
+  knowledge, so they test CLAIM-257 on its easiest ground: an addition that
+  every source reader would affirm ("Tucson" is in Arizona). Items where
+  source readers would disagree or not know are the informative ones, and
+  PETra does not mark them.
+- **CASE-tmph0fxi: usable as a pool of candidate items, not as labelled
+  items.** Three limits. (a) **Reliability.** No inter-annotator agreement is
+  given anywhere; footnote 5 speaks of "the annotator"; most pairs were
+  found by a classifier, with "manual spot checks" for the large-scale
+  annotation (p. 8763), while the text also says about 3,000 instances were
+  "manually labeled" (p. 8761), so how many corpus labels a human assigned
+  is unclear. The case's Stage 0 rule (targets fixed in advance, two passes,
+  judges' agreement) cannot be met from PETra's labels; items would have to
+  be re-annotated. (b) **Routes.** Every pair is a single English → X
+  translation. TED-Multi is multi-parallel, so an English sentence may have
+  several targets, but no X → Y translation is given, so no relay route can
+  be read off. (c) **Kind.** The items are additions to propositional
+  background, not requests, promises or honorific choices. The case's list
+  of items is right to name them as one kind among several.
+- **CASE-055: no bearing on Stage 0 beyond the lack of a reliability
+  figure.** PETra measures no stance or footing.
+- **CLAIM-202: none directly.** Nothing here concerns response to later
+  framings.
+- **CLAIM-226: a minor instance.** Whether "Ivy League" → "universities of
+  excellence" is an explicitation is decided for the target audience by one
+  annotator. The paper's own caution is that results are "diagnostic
+  indicators rather than exhaustive measures of cross-cultural
+  representation" (p. 8764).
+- **Should produce THEORY-tmptu082** (Proposed): the distribution of
+  explicitation types, with what it does not establish.
+- **Machine-learning practice.** The active-learning recipe (query
+  strategies, 100-sample cycles) is a method, but the paper states it as its
+  procedure, not as a recommendation, and its main product is a corpus. Not
+  flagged for the anthology.
+- **Correction to the LIT's description.** The summary's "2,900 sentence
+  pairs" is 3,000 in both the arXiv v2 and the LREC abstract; Table 2
+  sums to 2,982 and the release has 2,989. The twelve "language pairs" are
+  all English → X.
+
+## Limitations
+
+- **No reliability statistic.** No kappa, no agreement, no second
+  annotator is reported for detection, type or style.
+- **The sample is defined by the extractor.** Additions without a named
+  entity and an unaligned noun are missed, so category proportions and
+  language differences are not base rates of explicitation in translation.
+- **Classifier-found majority.** 2,250 of 2,982 pairs come from the final
+  classifier (Table 2). Whatever the classifier misses, the corpus misses.
+- **Evaluation sets are small and differ in difficulty.** 300 items for
+  German and Spanish, 100 "very clear" items for six transfer languages, and
+  none for Persian, Hebrew, Thai or Arabic, which are in the corpus anyway.
+- **Arithmetic slip.** Table 2's ADD and Σ totals are 11 below the column
+  sums.
+- **Domain.** The authors: the corpus "remains biased toward high-resource
+  languages and formal domains such as TED talks and parliamentary
+  proceedings" and the patterns "may not generalize to low-resource, oral,
+  or literary contexts" (p. 8764).
+
+## Open questions
+
+- How reliable are the type labels? A second annotator on a random sample of
+  the release, with kappa per family, would say.
+- Do target readers of an add-style item read the utterance differently
+  from target readers of the same item with the bracket removed? That is the
+  receiver study the corpus makes possible and does not run.
+- What is the rate of explicitation per sentence when candidates are not
+  filtered by named entity? A random sample of TED-Multi pairs, annotated
+  blind to the extractor, would give it.
