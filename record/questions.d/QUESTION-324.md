@@ -1,5 +1,8 @@
 ---
+number: 324
 status: Answered
+formerly:
+- QUESTION-tmp3ugy5
 title: 'Are the conditions an effective description is asked to meet (predictive sufficiency, dynamical independence, memory closure, approximation fidelity, tractability) of one logical kind, or are some of them parameters of the regime under which the others are assessed rather than conditions in their own right?'
 version: 1
 tags:
@@ -23,7 +26,7 @@ summary: >-
   which model classes, stays [QUESTION-252](QUESTION-252.md)'s.
 ---
 
-# QUESTION-tmp3ugy5: Are the conditions an effective description is asked to meet (predictive sufficiency, dynamical independence, memory closure, approximation fidelity, tractability) of one logical kind, or are some of them parameters of the regime under which the others are assessed rather than conditions in their own right?
+# QUESTION-324: Are the conditions an effective description is asked to meet (predictive sufficiency, dynamical independence, memory closure, approximation fidelity, tractability) of one logical kind, or are some of them parameters of the regime under which the others are assessed rather than conditions in their own right?
 
 ## Why it was a question
 

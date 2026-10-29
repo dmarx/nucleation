@@ -239,7 +239,7 @@
 
 ## From A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists
 
-- [CLAIM-284](../record/claims.d/CLAIM-284.md) — A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists *(thesis, Proposed)*
+- [CLAIM-284](../record/claims.d/CLAIM-284.md) — A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists *(thesis, Active)*
   - [CLAIM-288](../record/claims.d/CLAIM-288.md) — In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller's, not set by the organization itself *(counter, Proposed)* — through [ARG-015](../record/arguments.d/ARG-015.md)
     - [CLAIM-356](../record/claims.d/CLAIM-356.md) — An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization *(thesis, Proposed)*
 

@@ -12,7 +12,7 @@ history:
     Promoted by the thirteenth status review (ADR-057; ADR-047's
     evidence ruling, read in full in NOTE-1128). The title claims no
     more than the source showed and is unchanged. The promote_when moves
-    unchanged to QUESTION-tmp9n226, as THEORY-285's did to QUESTION-303.
+    unchanged to QUESTION-326, as THEORY-285's did to QUESTION-303.
     CLAIM-446 keeps it in grounds.
 tags:
 - psychopathology-and-treatment
@@ -20,7 +20,7 @@ date: '2026-10-24'
 source:
 - LIT-1491
 bears_on:
-- QUESTION-tmp9n226
+- QUESTION-326
 summary: >-
   Goodson, Patel, Zech, Sala & Cougle (2026), [LIT-1491](../literature.d/LIT-1491.md), read in full
   from the PMC author manuscript in [NOTE-1128](../notes.d/NOTE-1128.md). 26 studies reviewed,

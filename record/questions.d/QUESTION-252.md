@@ -22,7 +22,7 @@ history:
   note: >-
     Narrowed by the thirteenth status review (ADR-049): its last clause,
     which conditions are parameters of the others, is split off as
-    QUESTION-tmp3ugy5, Answered by CLAIM-401, which now bears on this
+    QUESTION-324, Answered by CLAIM-401, which now bears on this
     question (ADR-060) rather than answering it. The old title ended:
     "..., which such configurations are impossible in which model classes,
     and which conditions turn out to be parameters of the others rather
@@ -43,7 +43,7 @@ summary: >-
   leave-one-out witness: [CLAIM-389](../claims.d/CLAIM-389.md) gives zero memory without independence
   in VAR(1), [CLAIM-304](../claims.d/CLAIM-304.md) retention without feasible recovery. A4 and A5 then
   found that some conditions are parameters rather than conditions
-  ([CLAIM-401](../claims.d/CLAIM-401.md)); that part is QUESTION-tmp3ugy5, Answered. The same form as [QUESTION-093](QUESTION-093.md) and [QUESTION-115](QUESTION-115.md), on a new
+  ([CLAIM-401](../claims.d/CLAIM-401.md)); that part is QUESTION-324, Answered. The same form as [QUESTION-093](QUESTION-093.md) and [QUESTION-115](QUESTION-115.md), on a new
   list.
 ---
 <!-- inactive-ok-file: CLAIM-353 CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
@@ -116,7 +116,7 @@ Each item is pairwise. None is a leave-one-out witness.
   criteria for agency ("can it have the first without the others?"), and
   [QUESTION-115](QUESTION-115.md) of four individuation criteria ("where these criteria
   disagree"). Axiom-independence precedents: [CLAIM-343](../claims.d/CLAIM-343.md) and [CLAIM-353](../claims.d/CLAIM-353.md).
-- **Which conditions are parameters.** Split off as [QUESTION-tmp3ugy5](QUESTION-tmp3ugy5.md),
+- **Which conditions are parameters.** Split off as [QUESTION-324](QUESTION-324.md),
   Answered. [CLAIM-401](../claims.d/CLAIM-401.md), after A4 and A5:
   P and A need a declared target, C restricts the operations, and M
   depends on the projection ([QUESTION-222](QUESTION-222.md), [THEORY-752](../theory.d/THEORY-752.md)). [CLAIM-152](../claims.d/CLAIM-152.md) and

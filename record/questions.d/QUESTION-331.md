@@ -1,5 +1,8 @@
 ---
+number: 331
 status: Open
+formerly:
+- QUESTION-tmpnxt9o
 title: 'In a second, preferably pre-registered sample with a cost attached to avoiding, do anxiety-disorder patients again avoid a safety cue more than controls but danger cues no more, keep a higher threat expectancy after effective avoidance, and report more relief at omissions, with rated aversiveness matched or controlled?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   this question.
 ---
 
-# QUESTION-tmpnxt9o: In a second, preferably pre-registered sample with a cost attached to avoiding, do anxiety-disorder patients again avoid a safety cue more than controls but danger cues no more, keep a higher threat expectancy after effective avoidance, and report more relief at omissions, with rated aversiveness matched or controlled?
+# QUESTION-331: In a second, preferably pre-registered sample with a cost attached to avoiding, do anxiety-disorder patients again avoid a safety cue more than controls but danger cues no more, keep a higher threat expectancy after effective avoidance, and report more relief at omissions, with rated aversiveness matched or controlled?
 
 ## Why it is a question
 

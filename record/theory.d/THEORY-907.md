@@ -16,7 +16,7 @@ history:
     exploration, and in one task with a predator to check for, people
     higher in somatic anxiety checked less and did worse, a reduction
     associated with greater aversion to detecting the predator. The
-    promote_when moves unchanged to QUESTION-tmphqi9f, as THEORY-285's
+    promote_when moves unchanged to QUESTION-330, as THEORY-285's
     did to QUESTION-303. CLAIM-446 now lists this reading under
     corroborated_by, not grounds (ADR-058): the claim's argument does
     not rest on it.
@@ -28,7 +28,7 @@ date: '2026-10-24'
 source:
 - LIT-1483
 bears_on:
-- QUESTION-tmphqi9f
+- QUESTION-330
 summary: >-
   Chou, Wilson & Smith (preprint June 2024; NBR 2024), [LIT-1483](../literature.d/LIT-1483.md), read
   in full in [NOTE-1127](../notes.d/NOTE-1127.md). Foraging: Lenow et al. 2017, Bustamante et al.

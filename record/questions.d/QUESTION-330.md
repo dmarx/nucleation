@@ -1,5 +1,8 @@
 ---
+number: 330
 status: Open
+formerly:
+- QUESTION-tmphqi9f
 title: 'How does anxiety change exploration across tasks and facets: does it reduce foraging exploration once stress and effort cost are controlled, does somatic anxiety reduce checking for threat through aversion to detecting it rather than a lower value placed on the information, and, in the same participants across more than one bandit task, does directed exploration rise with trait or cognitive anxiety and fall with state or somatic anxiety?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   tasks and confounds separated.
 ---
 
-# QUESTION-tmphqi9f: How does anxiety change exploration across tasks and facets: does it reduce foraging exploration once stress and effort cost are controlled, does somatic anxiety reduce checking for threat through aversion to detecting it rather than a lower value placed on the information, and, in the same participants across more than one bandit task, does directed exploration rise with trait or cognitive anxiety and fall with state or somatic anxiety?
+# QUESTION-330: How does anxiety change exploration across tasks and facets: does it reduce foraging exploration once stress and effort cost are controlled, does somatic anxiety reduce checking for threat through aversion to detecting it rather than a lower value placed on the information, and, in the same participants across more than one bandit task, does directed exploration rise with trait or cognitive anxiety and fall with state or somatic anxiety?
 
 ## Why it is a question
 

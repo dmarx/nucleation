@@ -1,5 +1,8 @@
 ---
+number: 326
 status: Open
+formerly:
+- QUESTION-tmp9n226
 title: 'Does reducing safety behaviours lower symptoms, and instructed increases raise them, in diagnosed anxiety disorders, in pre-registered trials with active controls and masked rationale or a larger meta-analysis, once publication bias and expectancy are accounted for?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   this question.
 ---
 
-# QUESTION-tmp9n226: Does reducing safety behaviours lower symptoms, and instructed increases raise them, in diagnosed anxiety disorders, in pre-registered trials with active controls and masked rationale or a larger meta-analysis, once publication bias and expectancy are accounted for?
+# QUESTION-326: Does reducing safety behaviours lower symptoms, and instructed increases raise them, in diagnosed anxiety disorders, in pre-registered trials with active controls and masked rationale or a larger meta-analysis, once publication bias and expectancy are accounted for?
 
 ## Why it is a question
 

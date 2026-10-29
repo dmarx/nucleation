@@ -1,5 +1,8 @@
 ---
+number: 325
 status: Open
+formerly:
+- QUESTION-tmp8bdml
 title: 'Is persistent avoidance in anxiety maintained by an inflated uncertainty estimate about the avoided states, as Brown, Price and Dombrovski propose, or by a pessimistic evaluation of one''s own future avoidance, as Zorowitz, Momennejad and Daw propose, rather than by an inflated threat value?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   rivals [CLAIM-446](../claims.d/CLAIM-446.md)'s test must hold fixed.
 ---
 
-# QUESTION-tmp8bdml: Is persistent avoidance in anxiety maintained by an inflated uncertainty estimate about the avoided states, as Brown, Price and Dombrovski propose, or by a pessimistic evaluation of one's own future avoidance, as Zorowitz, Momennejad and Daw propose, rather than by an inflated threat value?
+# QUESTION-325: Is persistent avoidance in anxiety maintained by an inflated uncertainty estimate about the avoided states, as Brown, Price and Dombrovski propose, or by a pessimistic evaluation of one's own future avoidance, as Zorowitz, Momennejad and Daw propose, rather than by an inflated threat value?
 
 ## Why it is a question
 

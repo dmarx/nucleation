@@ -348,7 +348,7 @@ claim is unchanged.
 Its premise [CLAIM-443](CLAIM-443.md) is Proposed. No result in the record measures
 defensive authority apart from threat belief, the uncertainty estimate
 and the belief about one's own future control, so the belief-maintained
-rivals of [THEORY-910](../theory.d/THEORY-910.md) and [THEORY-915](../theory.d/THEORY-915.md) ([QUESTION-tmp8bdml](../questions.d/QUESTION-tmp8bdml.md)) and the memory
+rivals of [THEORY-910](../theory.d/THEORY-910.md) and [THEORY-915](../theory.d/THEORY-915.md) ([QUESTION-325](../questions.d/QUESTION-325.md)) and the memory
 account of [THEORY-914](../theory.d/THEORY-914.md) are not excluded, and nothing yet meets or fails
 its defeated_if. The readings promoted on 2026-10-29 hold its laboratory
 steps in healthy people ([THEORY-901](../theory.d/THEORY-901.md), [THEORY-920](../theory.d/THEORY-920.md)) and the causal work of

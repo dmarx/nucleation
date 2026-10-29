@@ -18,7 +18,7 @@ history:
     samples and not yet replicated, directed exploration tends to rise
     with trait or cognitive anxiety and to fall with state or somatic
     anxiety, and random exploration shows no relation to anxiety. The
-    promote_when moves unchanged to QUESTION-tmphqi9f, as THEORY-285's
+    promote_when moves unchanged to QUESTION-330, as THEORY-285's
     did to QUESTION-303. CLAIM-446 no longer lists this reading in
     grounds, and its converse supports is removed (ADR-058): it is a
     reading that narrows its evidence-acquisition clause rather than
@@ -31,7 +31,7 @@ date: '2026-10-24'
 source:
 - LIT-1483
 bears_on:
-- QUESTION-tmphqi9f
+- QUESTION-330
 summary: >-
   Chou, Wilson & Smith (preprint June 2024; NBR 2024), [LIT-1483](../literature.d/LIT-1483.md), read
   in full from the PsyArXiv preprint in [NOTE-1127](../notes.d/NOTE-1127.md). A narrative review;

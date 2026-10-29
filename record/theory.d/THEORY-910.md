@@ -12,7 +12,7 @@ history:
     Promoted by the thirteenth status review (ADR-057; ADR-047's
     evidence ruling, read in full in NOTE-1120). The title claims no
     more than the source showed and is unchanged. The promote_when moves
-    unchanged to QUESTION-tmp8bdml, as THEORY-285's did to QUESTION-303.
+    unchanged to QUESTION-325, as THEORY-285's did to QUESTION-303.
     CLAIM-446 now lists this reading under corroborated_by, not grounds
     (ADR-058): the claim's argument does not rest on it.
 tags:
@@ -22,7 +22,7 @@ date: '2026-10-24'
 source:
 - LIT-1479
 bears_on:
-- QUESTION-tmp8bdml
+- QUESTION-325
 summary: >-
   Brown, Price & Dombrovski (2023; preprint 2022), [LIT-1479](../literature.d/LIT-1479.md), read in
   full in [NOTE-1120](../notes.d/NOTE-1120.md). A framework stated in words and schematic

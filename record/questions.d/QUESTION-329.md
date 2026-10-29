@@ -1,5 +1,8 @@
 ---
+number: 329
 status: Open
+formerly:
+- QUESTION-tmpgv8c7
 title: 'In people with fear-based anxiety disorders against controls, does a systematic search with meta-analysis, or a large preregistered study, find that what differs is the adjustment of learning rate to the kind of uncertainty, noise against volatility, mainly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation do not?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   synthesis is this question.
 ---
 
-# QUESTION-tmpgv8c7: In people with fear-based anxiety disorders against controls, does a systematic search with meta-analysis, or a large preregistered study, find that what differs is the adjustment of learning rate to the kind of uncertainty, noise against volatility, mainly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation do not?
+# QUESTION-329: In people with fear-based anxiety disorders against controls, does a systematic search with meta-analysis, or a large preregistered study, find that what differs is the adjustment of learning rate to the kind of uncertainty, noise against volatility, mainly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation do not?
 
 ## Why it is a question
 

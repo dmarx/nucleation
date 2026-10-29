@@ -18,7 +18,7 @@ history:
     hundreds of unpunished trials, and keeps expectancy of the aversive
     outcome higher than in people denied it; the more effective and the
     cheaper the response, the slower it extinguishes. The promote_when
-    moves unchanged to QUESTION-tmpcs973, as THEORY-285's did to
+    moves unchanged to QUESTION-327, as THEORY-285's did to
     QUESTION-303. CLAIM-446 keeps it in grounds.
 tags:
 - learning-and-conditioning
@@ -27,7 +27,7 @@ date: '2026-10-24'
 source:
 - LIT-1477
 bears_on:
-- QUESTION-tmpcs973
+- QUESTION-327
 summary: >-
   Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-1477](../literature.d/LIT-1477.md), read in full
   from the PsyArXiv preprint in [NOTE-1134](../notes.d/NOTE-1134.md). Rated A ("protection from

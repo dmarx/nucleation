@@ -12,7 +12,7 @@ history:
     Promoted by the thirteenth status review (ADR-057; ADR-047's
     evidence ruling, read in full in NOTE-1123). The title claims no
     more than the source showed and is unchanged. The promote_when moves
-    unchanged to QUESTION-tmpnxt9o, as THEORY-285's did to QUESTION-303.
+    unchanged to QUESTION-331, as THEORY-285's did to QUESTION-303.
     CLAIM-446 now lists this reading under corroborated_by, not grounds
     (ADR-058): the claim's argument does not rest on it.
 tags:
@@ -22,7 +22,7 @@ date: '2026-10-24'
 source:
 - LIT-1490
 bears_on:
-- QUESTION-tmpnxt9o
+- QUESTION-331
 summary: >-
   De Kleine et al. (2023), [LIT-1490](../literature.d/LIT-1490.md), read in full from the CC BY
   version of record in [NOTE-1123](../notes.d/NOTE-1123.md). 47 controls against 33 OCD, 40 PDA

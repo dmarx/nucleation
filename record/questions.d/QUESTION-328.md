@@ -1,5 +1,8 @@
 ---
+number: 328
 status: Open
+formerly:
+- QUESTION-tmpe4ypw
 title: 'Does an implemented model-based or latent-cause model of human avoidance, compared on the same data with the model-free two-factor implementations, reproduce the phenomena Mancinelli and Bach rate A or B, including residual avoidance after signalled outcome omission, and does a model without an inferential component fail them?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   Whether a fitted inferential model wins is this question.
 ---
 
-# QUESTION-tmpe4ypw: Does an implemented model-based or latent-cause model of human avoidance, compared on the same data with the model-free two-factor implementations, reproduce the phenomena Mancinelli and Bach rate A or B, including residual avoidance after signalled outcome omission, and does a model without an inferential component fail them?
+# QUESTION-328: Does an implemented model-based or latent-cause model of human avoidance, compared on the same data with the model-free two-factor implementations, reproduce the phenomena Mancinelli and Bach rate A or B, including residual avoidance after signalled outcome omission, and does a model without an inferential component fail them?
 
 ## Why it is a question
 

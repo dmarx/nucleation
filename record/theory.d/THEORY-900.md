@@ -12,7 +12,7 @@ history:
     Promoted by the thirteenth status review (ADR-057; ADR-047's
     evidence ruling, read in full in NOTE-1134). The title claims no
     more than the source showed and is unchanged. The promote_when moves
-    unchanged to QUESTION-tmpe4ypw, as THEORY-285's did to QUESTION-303.
+    unchanged to QUESTION-328, as THEORY-285's did to QUESTION-303.
     CLAIM-446 now lists this reading under corroborated_by, not grounds
     (ADR-058): the claim's argument does not rest on it.
 tags:
@@ -22,7 +22,7 @@ date: '2026-10-24'
 source:
 - LIT-1477
 bears_on:
-- QUESTION-tmpe4ypw
+- QUESTION-328
 summary: >-
   Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-1477](../literature.d/LIT-1477.md), read in full
   in [NOTE-1134](../notes.d/NOTE-1134.md). A PRISMA review without meta-analysis, searched to

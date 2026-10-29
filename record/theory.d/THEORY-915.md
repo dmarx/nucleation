@@ -18,7 +18,7 @@ history:
     threat value to states far from the danger and avoids early and
     widely, which reproduces qualitatively exaggerated threat appraisal,
     fear generalization and several laboratory findings associated with
-    anxiety. The promote_when moves unchanged to QUESTION-tmp8bdml, as
+    anxiety. The promote_when moves unchanged to QUESTION-325, as
     THEORY-285's did to QUESTION-303. CLAIM-446 no longer lists this
     reading in grounds, and its converse supports is removed (ADR-058):
     it is a rival account that its test must exclude. The claim's body
@@ -30,7 +30,7 @@ date: '2026-10-24'
 source:
 - LIT-1496
 bears_on:
-- QUESTION-tmp8bdml
+- QUESTION-325
 summary: >-
   Zorowitz, Momennejad & Daw (2020; preprint 2019), [LIT-1496](../literature.d/LIT-1496.md), read in
   full from the CC BY version of record in [NOTE-1136](../notes.d/NOTE-1136.md). A

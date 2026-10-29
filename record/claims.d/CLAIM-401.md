@@ -21,7 +21,7 @@ history:
     (CLAIM-152, CLAIM-348, CLAIM-397, CLAIM-304, THEORY-752) are Active,
     no objection is filed, and nothing in the record meets its
     defeated_if. Its answer to QUESTION-252's last clause is split off
-    under ADR-049 as QUESTION-tmp3ugy5, which it now answers, and it bears
+    under ADR-049 as QUESTION-324, which it now answers, and it bears
     on QUESTION-252's remainder (ADR-060): the leave-one-out cells are
     facts once the regime is fixed. Status Proposed to Active. The claim
     is unchanged.
@@ -43,7 +43,7 @@ line:
 - distributed-agency
 - formal-apparatus
 answers:
-- QUESTION-tmp3ugy5
+- QUESTION-324
 bears_on:
 - QUESTION-252
 rests_on:

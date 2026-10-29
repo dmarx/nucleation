@@ -17,7 +17,7 @@ history:
     anxiety goes with altered adjustment of learning rate to
     uncertainty, mostly for aversive outcomes, while overall learning
     rate, choice consistency and outcome valuation show little relation
-    to it. The promote_when moves unchanged to QUESTION-tmpgv8c7, as
+    to it. The promote_when moves unchanged to QUESTION-329, as
     THEORY-285's did to QUESTION-303. CLAIM-446 now lists this reading
     under corroborated_by, not grounds (ADR-058): the claim's argument
     does not rest on it.
@@ -28,7 +28,7 @@ date: '2026-10-24'
 source:
 - LIT-1479
 bears_on:
-- QUESTION-tmpgv8c7
+- QUESTION-329
 summary: >-
   Brown, Price & Dombrovski (2023; preprint 2022), [LIT-1479](../literature.d/LIT-1479.md), read in
   full from the NIH author manuscript in [NOTE-1120](../notes.d/NOTE-1120.md). Their Table 2 and

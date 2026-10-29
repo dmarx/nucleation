@@ -1,5 +1,8 @@
 ---
+number: 327
 status: Open
+formerly:
+- QUESTION-tmpcs973
 title: 'Does available avoidance leave threat expectancy uncorrected in proportion to how few unavoided disconfirming trials it allows, in people with anxiety disorders as in healthy controls, and does performing and then losing an unsignalled avoidance response raise threat expectancy for a stimulus never paired with harm, scaling with how much the person avoided?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   review covers.
 ---
 
-# QUESTION-tmpcs973: Does available avoidance leave threat expectancy uncorrected in proportion to how few unavoided disconfirming trials it allows, in people with anxiety disorders as in healthy controls, and does performing and then losing an unsignalled avoidance response raise threat expectancy for a stimulus never paired with harm, scaling with how much the person avoided?
+# QUESTION-327: Does available avoidance leave threat expectancy uncorrected in proportion to how few unavoided disconfirming trials it allows, in people with anxiety disorders as in healthy controls, and does performing and then losing an unsignalled avoidance response raise threat expectancy for a stimulus never paired with harm, scaling with how much the person avoided?
 
 ## Why it is a question
 
