@@ -10,6 +10,7 @@ fetched origin/main:
     python3 record/status-review/worklist.py --show CLAIM-027   # one cluster
 """
 import re
+from datetime import date, timedelta
 from pathlib import Path
 
 import fire
@@ -20,6 +21,10 @@ SCHEMES = ["claims", "theory", "terms", "questions", "cases", "arguments"]
 NEEDS = {"CLAIM": ["rests_on", "grounds", "uses"], "THEORY": ["presupposes"], "ARG": ["rests_on", "grounds"]}
 RETIRED = {"Superseded", "Rejected"}
 LIVE = {"Active", "Proposed"}
+# A dated blocker note: "## Note of 2026-10-28: what holds it back". Within HELD_DAYS
+# (luria.yaml's stale_days) the entry is listed as held, not as work (ADR-057).
+BLOCKER = re.compile(r"^## Note of (\d{4}-\d{2}-\d{2}): what holds it back", re.M)
+HELD_DAYS = 14
 
 
 def as_list(x) -> list[str]:
@@ -31,8 +36,9 @@ def scheme(code: str) -> str:
 
 
 class Record:
-    def __init__(self, docs: dict[str, dict]):
+    def __init__(self, docs: dict[str, dict], bodies: dict[str, str] | None = None):
         self.docs = docs
+        self.bodies = bodies or {}
         self.needed_by: dict[str, set[str]] = {}
         for code, fm in docs.items():
             for field in NEEDS.get(scheme(code), []):
@@ -42,10 +48,11 @@ class Record:
 
     @classmethod
     def load(cls, root: Path) -> "Record":
-        docs = {}
+        docs, bodies = {}, {}
         for d in SCHEMES:
             for p in (root / f"{d}.d").glob("*-*.md"):
-                m = re.match(r"---\n(.*?)\n---\n", p.read_text(), re.S)
+                text = p.read_text()
+                m = re.match(r"---\n(.*?)\n---\n", text, re.S)
                 if m:
                     try:
                         fm = yaml.safe_load(m.group(1))
@@ -53,7 +60,8 @@ class Record:
                         raise SystemExit(f"{p}: frontmatter does not parse: {e}")
                     if isinstance(fm, dict):
                         docs[p.stem] = fm
-        return cls(docs)
+                        bodies[p.stem] = text[m.end():]
+        return cls(docs, bodies)
 
     def status(self, code: str) -> str | None:
         s = self.docs.get(code, {}).get("status")
@@ -79,11 +87,23 @@ class Record:
         fm = self.docs[code]
         return [t for f in ("objected_by", "countered_by") for t in as_list(fm.get(f)) if self.status(t) in LIVE]
 
-    def load_bearing(self) -> list[dict]:
-        """Proposed CLAIMs, THEORYs and TERMs that something needs, most-needed first."""
+    def held_since(self, code: str, today: date) -> date | None:
+        """The date of the entry's latest blocker note, if it is recent enough to stand."""
+        dates = [date.fromisoformat(d) for d in BLOCKER.findall(self.bodies.get(code, ""))]
+        latest = max(dates, default=None)
+        return latest if latest and today - latest <= timedelta(days=HELD_DAYS) else None
+
+    def load_bearing(self, today: date | None = None, held: bool = False) -> list[dict]:
+        """Proposed CLAIMs, THEORYs and TERMs that something needs, most-needed first.
+
+        An entry with a recent blocker note is left out, or with `held=True` is all that is listed.
+        """
+        today = today or date.today()
         rows = []
         for code in self.docs:
             if scheme(code) not in ("CLAIM", "THEORY", "TERM") or self.status(code) != "Proposed":
+                continue
+            if bool(self.held_since(code, today)) != held:
                 continue
             reach = self.dependents(code)
             if reach:
@@ -114,6 +134,26 @@ class Record:
                 and all(scheme(t) == "LIT" or self.status(t) == "Active" for t in self.premises(a))
                 and not any(self.status(u) == "Active" for u in as_list(fm.get("undercut_by")))
                 for c in as_list(fm.get("concludes")) if c in self.docs and self.status(c) != "Active"]
+
+    def unwritten_concessions(self) -> list[tuple]:
+        """Active granted claims whose objection's target has no revision dated on or after the grant.
+
+        ADR-059 records a conceded objection by revising its target; a target unchanged since the
+        concession still says what was conceded.
+        """
+        out = []
+        for g, fm in sorted(self.docs.items()):
+            if scheme(g) != "CLAIM" or self.status(g) != "Active" or fm.get("role") != "granted":
+                continue
+            granted_on = str(fm.get("date", ""))
+            for t in as_list(fm.get("objects_to")):
+                if t not in self.docs or self.status(t) in RETIRED:
+                    continue
+                revised = [str(h.get("date", "")) for h in self.docs[t].get("history") or []
+                           if isinstance(h, dict)]
+                if not any(d >= granted_on for d in revised):
+                    out.append((g, t, granted_on, max(revised, default="never")))
+        return out
 
     def retired_premises(self) -> list[tuple]:
         """Live entries that need something retired, with its named successor."""
@@ -169,12 +209,20 @@ def main(root: str = "record", top: int = 30, show: str | None = None):
     for x in r.load_bearing()[:top]:
         print(f"- {x['reach']:3d}/{x['direct']:<2d} {short(r, x['code'])}  "
               f"open premises: {x['open_premises'] or '-'}; live objections: {x['live_objections'] or '-'}")
+    held = r.load_bearing(held=True)
+    print(f"\n## Held, with a blocker note under {HELD_DAYS} days old ({len(held)})\n")
+    for x in held:
+        print(f"- {x['reach']:3d}/{x['direct']:<2d} {short(r, x['code'])}  "
+              f"held since {r.held_since(x['code'], date.today())}")
     print("\n## Credence inversions: Active CLAIMs resting on what is not held\n")
     for row in r.inversions():
         print("- {} {} {} [{}]".format(*row))
     print("\n## Sound arguments whose conclusion is not held\n")
     for row in r.sound_unheld():
         print("- {} concludes {} [{}]".format(*row))
+    print("\n## Concessions not written into their targets\n")
+    for row in r.unwritten_concessions():
+        print("- {} concedes against {} on {}; target last revised {}".format(*row))
     print("\n## Premises that are retired\n")
     for row in r.retired_premises():
         print("- {} {} {} [{}] -> {}".format(*row))

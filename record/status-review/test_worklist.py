@@ -1,5 +1,6 @@
 # record/status-review/test_worklist.py
 """Fires each worklist section against a small record built to contain one case of it (DP-4)."""
+from datetime import date
 from pathlib import Path
 
 from worklist import Record
@@ -24,6 +25,13 @@ ENTRIES = {
     "arguments.d/ARG-002.md": {"status": "Active", "rests_on": ["CLAIM-001"], "concludes": ["CLAIM-003"]},
     "arguments.d/ARG-003.md": {"status": "Active", "rests_on": ["CLAIM-001"], "concludes": ["CLAIM-005"],
                                "undercut_by": ["CLAIM-001"]},
+    # two concessions: CLAIM-006's target was never revised, CLAIM-007's was revised after it
+    "claims.d/CLAIM-006.md": {"status": "Active", "role": "granted", "date": "2026-10-10",
+                              "objects_to": ["CLAIM-003"]},
+    "claims.d/CLAIM-007.md": {"status": "Active", "role": "granted", "date": "2026-10-10",
+                              "objects_to": ["CLAIM-008"]},
+    "claims.d/CLAIM-008.md": {"status": "Active", "role": "thesis", "version": 2,
+                              "history": [{"version": 2, "date": "2026-10-12"}]},
 }
 
 
@@ -76,3 +84,18 @@ def test_unblocked_means_premises_active_and_no_live_objection(tmp_path):
 
 def test_successors_are_followed_to_a_live_entry(tmp_path):
     assert record(tmp_path).live_successors("TERM-003") == ["TERM-002"]
+
+
+def test_unwritten_concessions_find_a_target_not_revised_since(tmp_path):
+    # ADR-059: a conceded objection is recorded by revising its target
+    assert record(tmp_path).unwritten_concessions() == [("CLAIM-006", "CLAIM-003", "2026-10-10", "never")]
+
+
+def test_a_recent_blocker_note_holds_an_entry_out_of_the_work(tmp_path):
+    r = record(tmp_path)
+    r.bodies["CLAIM-003"] = "\n## Note of 2026-10-20: what holds it back\n\nA missing result.\n"
+    work = [x["code"] for x in r.load_bearing(today=date(2026, 10, 28))]
+    held = [x["code"] for x in r.load_bearing(today=date(2026, 10, 28), held=True)]
+    assert "CLAIM-003" not in work and held == ["CLAIM-003"]
+    # after HELD_DAYS the note is stale and the entry is work again
+    assert "CLAIM-003" in [x["code"] for x in r.load_bearing(today=date(2026, 11, 10))]

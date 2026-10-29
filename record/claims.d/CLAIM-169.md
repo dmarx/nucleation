@@ -90,7 +90,7 @@ routes the prompt names.
   account individuates interests, and it inherits the account's untested
   standing.
 
-## Note of 2026-10-28: status review
+## Note of 2026-10-28: what holds it back
 
 Kept Proposed. This is the record's reading of how [THEORY-067](../theory.d/THEORY-067.md) individuates
 interests, and its one ground, [THEORY-067](../theory.d/THEORY-067.md), is Proposed: its mechanism,
