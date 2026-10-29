@@ -1,10 +1,17 @@
 ---
 number: 113
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpwnnx4
 title: 'Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted at the ninth status review (ADR-057). A note says what it
+    takes from CLAIM-040, its one premise, which the body had not
+    cited. The claim is unchanged. Status Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -73,3 +80,16 @@ the manuscript.
 Piaget, *Structuralism*, p. 11 ([LIT-837](../literature.d/LIT-837.md), skimmed): "all known
 structures … are … systems of transformation". The book makes
 transformation, not only relation, constitutive of structure.
+
+## Note of 2026-10-29: promoted
+
+It rests on CLAIM-040's first half, that symmetry is invariance under
+transformation: the owner pressed it at U37 against CLAIM-015, A105
+conceded it, and this claim is CLAIM-015's revision on that concession. It
+does not use CLAIM-040's Noether half, which holds only in CLAIM-093's
+limited form. Promoted on CLAIM-040 and TERM-004, both Active, with no
+objection filed. The Aut(F) direction it lacked is CLAIM-148's. The
+semigroup setting of CLAIM-098 does not touch it: the invariants of a class
+of transformations are defined whether or not the class is a group. Its
+defeat condition is a universal over transformation classes, which by
+CLAIM-239 an argument can meet; none in the record does.

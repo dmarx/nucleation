@@ -1,10 +1,10 @@
 ---
 number: 331
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-16'
@@ -37,6 +37,15 @@ history:
     description, agency and legibility: A16's caution not to mistake
     second-order for slower is this claim's sharp edge, uncited. The claim
     is unchanged.
+- version: 8
+  date: '2026-10-29'
+  note: >-
+    Promoted at the ninth status review (ADR-057). In 'The claim',
+    'are levels because their variables outlast the rosters and
+    supporters that carry them' now reads 'are levels whose variables
+    outlast ...': 'because' made slowness what makes them levels,
+    which the title denies and CASE-116's arm A refutes. The claim is
+    otherwise unchanged. Status Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -106,7 +115,7 @@ and weak coupling between them give fast within-block relaxation and
 slow aggregate dynamics, which is what [CLAIM-157](CLAIM-157.md)'s block test uses.
 What this claim adds is that the timescale is part of what a level is,
 not only a consequence of how it was found: the program in
-[CASE-102](../cases.d/CASE-102.md) and the rivalry in [CASE-098](../cases.d/CASE-098.md) are levels because their
+[CASE-102](../cases.d/CASE-102.md) and the rivalry in [CASE-098](../cases.d/CASE-098.md) are levels whose
 variables outlast the rosters and supporters that carry them.
 
 ## What it does not say
@@ -215,3 +224,19 @@ names. Neither defeats it.
 A16 of the exchange of 2026-10-20 cautioned that "it is important not to
 mistake *second-order* for *slower*". That is this claim's sharp edge,
 uncited: slowness is a mark of a level, not its definition.
+
+## Note of 2026-10-29: promoted
+
+Grounded in THEORY-661, CASE-102, CASE-098 and CASE-116, all Active, and in
+Simon (LIT-905, read); it rests on no claim, and no objection is filed. The
+readings since 2026-10-21 are consistent with it and none is a test: in
+NOTE-984, NOTE-985 and NOTE-1228 slowness and coarseness are one spectral
+fact, and Flack (NOTE-1216) builds slowness into the definition, which the
+note of 2026-10-20 already sets aside. Neither disjunct of defeated_if is
+met: no cascade has been shown to have higher-level variables as fast as
+their constituents (the note of 2026-10-19), and NOTE-977's flat landscape,
+where weak coupling comes without slowness, shows the timescale is not read
+off the compositional criterion. "Characteristically" has behind it a
+mechanism for gapped nearly decomposable systems and two stipulated
+specimens (CASE-102 and CASE-098 are stipulated), not a survey; A4's
+question of scope stays open in that sense.

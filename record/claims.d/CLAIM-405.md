@@ -1,10 +1,22 @@
 ---
 number: 405
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpoxkub
 title: 'An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted at the ninth status review (ADR-057). It rests on
+    CLAIM-152 and is grounded in THEORY-820 and CASE-110, all Active,
+    and no objection is filed. CLAIM-387, where optimal
+    information-bottleneck partitions at two budgets cross, is added
+    as corroboration; the claim does not rest on it (ADR-058). The
+    summary's 'It answers QUESTION-065 in part' now reads 'It bears on
+    QUESTION-065 without answering it' (ADR-060), as its bears_on edge
+    already said. Status Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,6 +44,8 @@ complements:
 grounds:
 - THEORY-820
 - CASE-110
+corroborated_by:
+- CLAIM-387
 summary: >-
   The individuation counterpart of the owner's normative thesis [CLAIM-363](CLAIM-363.md)
   ("once they are fixed, the judgment can be false"), as A8 and A9 of the
@@ -43,7 +57,7 @@ summary: >-
   criteria are specified", and "A system may exhibit several objectively
   grounded forms of unity that need not share the same boundary."
   [CLAIM-152](CLAIM-152.md) gives the relativity; this claim adds that relativity is not
-  arbitrariness. It answers [QUESTION-065](../questions.d/QUESTION-065.md) in part. It does not say which
+  arbitrariness. It bears on QUESTION-065 without answering it. It does not say which
   criterion is right.
 illustrated_by:
 - CASE-175
@@ -134,3 +148,17 @@ a unit the criterion passes is approximately independent or only
 approximately separable for its target, [QUESTION-280](../questions.d/QUESTION-280.md). A10 §2 restated
 the claim's point as "**Relativity to conditions does not entail
 subjectivity.**" Nothing here changes.
+
+## Note of 2026-10-29: promoted
+
+Promoted on CLAIM-152, THEORY-820 and CASE-110, all Active, with no
+objection filed. The questions of 2026-10-27 press beside it, not against
+it: whether probing helps make the unit (QUESTION-284) and whether a unit
+the criterion passes is approximately independent (QUESTION-280) are about
+what a verdict is a verdict of, and neither offers a fixed criterion whose
+verdict the system leaves unsettled, which is what defeated_if asks for.
+CLAIM-174's test and dancing couple are instances; part 2 holds on
+CLAIM-152's failed sufficiency and THEORY-820's failed closure without
+them. CLAIM-387 is a demonstrated case of part 3: for one target, the
+optimal partitions at two budgets are {0,1,2 | 3} and {0,1 | 2,3}, neither
+refining the other.
