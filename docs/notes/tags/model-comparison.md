@@ -4,7 +4,7 @@
 
 **model-comparison**.
 
-12 of 1243 NOTE documents. Back to the [full index](../README.md).
+12 of 1322 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

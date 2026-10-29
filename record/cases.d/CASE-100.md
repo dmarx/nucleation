@@ -81,7 +81,7 @@ tracing the parody's circulation into the production.
 
 ## Note of 2026-10-29: the oral history, read
 
-[LIT-1142](../literature.d/LIT-1142.md) has now been read ([NOTE-tmpckd0q](../notes.d/NOTE-tmpckd0q.md)). It confirms the case's dates:
+[LIT-1142](../literature.d/LIT-1142.md) has now been read ([NOTE-1272](../notes.d/NOTE-1272.md)). It confirms the case's dates:
 conceived in November 2005, posted on 14 February 2006. It adds two
 things:
 

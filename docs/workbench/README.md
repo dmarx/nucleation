@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 05:52 — The seventh status review: the unwritten concessions written into their targets](2026-10.md#the-seventh-status-review-the-unwritten-concessions-written-into-their-targets)
 - [28 Oct 17:59 — The sixth status review: an argument the migration left Active, one promotion, two concessions written in, and readings that wait on results](2026-10.md#the-sixth-status-review-an-argument-the-migration-left-active-one-promotion-two-concessions-written-in-and-readings-that-wait-on-results)
 - [28 Oct 05:19 — What accepting ADR-061 would change: of 65 claims classified as about support or a source, 30 move on a close reading, into 28 new ARGs](2026-10.md#what-accepting-adr-061-would-change-of-65-claims-classified-as-about-support-or-a-source-30-move-on-a-close-reading-into-28-new-args)
 - [28 Oct 03:11 — The fifth status review: four concessions written into their targets, five promotions, CLAIM-130 freed from a premise it did not need, and two readings that wait on a missing result or a missing book](2026-10.md#the-fifth-status-review-four-concessions-written-into-their-targets-five-promotions-claim-130-freed-from-a-premise-it-did-not-need-and-two-readings-that-wait-on-a-missing-result-or-a-missing-book)
@@ -104,8 +105,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-95 entries across 1 book, newest first.
+96 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 95 | 2026-10-07 | 2026-10-28 |
+| [2026-10](2026-10.md) | 96 | 2026-10-07 | 2026-10-29 |

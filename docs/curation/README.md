@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 02:25 — Legacy, obligations to the future and intergenerational trauma: forty-two works registered, the open works read in place of unavailable ones, and the future-generations topic](2026-10.md#legacy-obligations-to-the-future-and-intergenerational-trauma-forty-two-works-registered-the-open-works-read-in-place-of-unavailable-ones-and-the-future-generations-topic)
+- [29 Oct 01:24 — Twenty-eight works registered unread from the self-categorization and fandom readings, and from the owner's thesis that there is no selfless action; two topics added](2026-10.md#twenty-eight-works-registered-unread-from-the-self-categorization-and-fandom-readings-and-from-the-owners-thesis-that-there-is-no-selfless-action-two-topics-added)
 - [27 Oct 17:42 — The twenty-one works registered from U15–U23 of the exchange "Field Existence Question": thirteen read in full, three Unfetched behind bot challenges, five Unavailable; the papers fill the record's correspondence and evidence rows, and the half of CLAIM-471 that says interaction makes a correspondence still rests on argument](2026-10.md#the-twenty-one-works-registered-from-u15u23-of-the-exchange-field-existence-question-thirteen-read-in-full-three-unfetched-behind-bot-challenges-five-unavailable-the-papers-fill-the-records-correspondence-and-evidence-rows-and-the-half-of-claim-471-that-says-interaction-makes-a-correspondence-still-rests-on-argument)
 - [27 Oct 17:19 — Twenty-one works registered unread from U15–U23 of the exchange "Field Existence Question": inquiry and its bounds, relative and redundant facts, sheaves and synchronization, and compositional systems theory; every identifier checked, three recent sources real](2026-10.md#twenty-one-works-registered-unread-from-u15u23-of-the-exchange-field-existence-question-inquiry-and-its-bounds-relative-and-redundant-facts-sheaves-and-synchronization-and-compositional-systems-theory-every-identifier-checked-three-recent-sources-real)
 - [27 Oct 14:25 — The remaining twenty-three works from the exchange "Field Existence Question" looked for: five read in full (Rovelli, Deutsch and Marletto, Flack, Ashwin et al., Toner and Tu), three Unfetched behind Cloudflare challenges, fifteen Unavailable; Flack's criteria are not CLAIM-327's third stage](2026-10.md#the-remaining-twenty-three-works-from-the-exchange-field-existence-question-looked-for-five-read-in-full-rovelli-deutsch-and-marletto-flack-ashwin-et-al-toner-and-tu-three-unfetched-behind-cloudflare-challenges-fifteen-unavailable-flacks-criteria-are-not-claim-327s-third-stage)
@@ -145,9 +147,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-183 entries across 2 books, newest first.
+185 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 136 | 2026-10-01 | 2026-10-27 |
+| [2026-10](2026-10.md) | 138 | 2026-10-01 | 2026-10-29 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

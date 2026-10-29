@@ -6,8 +6,9 @@
 
 **Moral psychology** — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
-1 of 296 QUESTION documents. Back to the [full index](../README.md).
+2 of 302 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-265](../../../record/questions.d/QUESTION-265.md) | Is "psychopathic" a category error when said of a corporation, or can the construct, its affective features included, be assigned to a corporation functionally, and if so, what in a corporation would remorse, or its absence, be? | The owner's question of 2026-10-23: how the record stands on "corporate psychopathy", "qua treating the corporation as a sociopathic entity". Bakan's thesis ([LIT-1430](../../../record/literature.d/LIT-1430.md)) is that the corporation is "created by law to function much like a psychopathic personality". The record holds the readings the thesis needs on agency and responsibility (French, Pettit) and on group emotion (Huebner, List), but nothing on the clinical construct and no claim joining them. The question asks which reading of the thesis survives. | Open |
+| [QUESTION-300](../../../record/questions.d/QUESTION-300.md) | Is any motivation aimed at another's good and at the good of no self, however far a self can extend to include others and groups? | The owner's question, from the discussion that first raised self-categorization theory (2026-10-28 and 29). If selves can be more or less inclusive, as self-categorization theory, self-expansion and identity fusion all say, is apparently selfless action just self-interest on an enlarged self? An answer needs a criterion of the self's extent that is independent of what the agent cares about, and evidence on whether other-directed motivation survives once that extent is controlled. | Open |

@@ -6,8 +6,9 @@
 
 **Personhood** — what a person is and what makes one persist — personal identity over time, psychological continuity and what matters in survival, persons as bearers of reasons, rights and responsibility. Not the self, which is self (group: philosophy; ADR-024).
 
-1 of 296 QUESTION documents. Back to the [full index](../README.md).
+2 of 302 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-043](../../../record/questions.d/QUESTION-043.md) | For a person, what coherence measure is conserved along the trajectory when the person persists as the same self, and is a life story, whose content is known to change, a candidate for it? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-161](../../../record/claims.d/CLAIM-161.md) and [CLAIM-152](../../../record/claims.d/CLAIM-152.md). [THEORY-060](../../../record/theory.d/THEORY-060.md) answers it in part; the body gives each one's limit. | Open |
+| [QUESTION-302](../../../record/questions.d/QUESTION-302.md) | When a memory survives the rebuilding of the nervous system that formed it, as through insect metamorphosis or planarian head regeneration, what carries it across, and what does that show about whether the animal after is the one that learned? | The owner's angle of 2026-10-29, after the legacy and inheritance questions. Caterpillars trained to avoid an odour avoid it as moths (Blackiston, Silva Casey and Weiss 2008), though metamorphosis rebuilds much of the nervous system. Planarians regrow a brain and, with a reminder, keep a learned familiarity (Shomrat and Levin 2013). If a memory outlasts the tissue that stored it, psychological continuity across radical bodily change is not a philosopher's fiction. A child's repetition of the moth study with swallowtails, reported in 2026, is unpublished and not filed. | Open |
