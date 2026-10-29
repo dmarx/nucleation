@@ -1,0 +1,175 @@
+---
+status: Read
+paper: 'LIT-1212'
+title: 'Désidéri — Multiple-gradient descent algorithm (MGDA)'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from the Comptes Rendus Mathématique's own
+    open copy of the 2012 note
+    (https://comptes-rendus.academie-sciences.fr/mathematique/item/10.1016/j.crma.2012.03.014.pdf,
+    6 pages, pp. 313–318), text extracted with pdftotext. Read: the
+    abstract and résumé, the abridged French version, §§1–2 with the
+    proofs of Lemma 1.2, the uniqueness argument, Lemma 2.1 and Theorems
+    2.2 and 2.3, Remarks 1–4, the captions of Figs. 1–2 and the five
+    references. Fig. 2's Fonseca test case was read from its caption; no
+    number was taken from a chart. The proofs were followed line by line;
+    the Gram–Schmidt claim of Remark 4 (ω = Σu_i/n with ‖ω‖² = 1/n for an
+    orthonormal family) was checked by hand. The INRIA report RR-6953
+    (HAL inria-00389811, v3 deposited 5 November 2012) that the note
+    defers to for Theorem 2.3's coercivity assumption was downloaded and
+    its title page checked, not read.
+date: '2026-10-29'
+summary: >-
+  Defines Pareto-stationarity (some convex combination of the criteria's
+  gradients is zero), proves it necessary for Pareto-optimality, and shows
+  that when it fails the minimum-norm element ω of the gradients' convex
+  hull gives a direction −ω along which every criterion decreases, with
+  (u, ω) ≥ ‖ω‖² for every u in the hull. Steepest descent along −ω, the
+  MGDA, has a subsequence converging to a Pareto-stationary point when the
+  criteria are positive and coercive. The direction depends on how the
+  gradients are scaled; the author calls the right scaling open.
+---
+
+# NOTE-tmpyrrxm: Désidéri — Multiple-gradient descent algorithm (MGDA)
+
+## Contribution
+
+A six-page note that turns the question "is there a direction that
+improves every criterion at once?" into a convex projection. It names
+Pareto-stationarity, proves that a Pareto-optimal point has it, and gives
+a constructive common descent direction when it fails: minus the
+minimum-norm point of the convex hull of the gradients. Iterating along
+that direction generalizes steepest descent to several criteria, and the
+note proves a subsequence of the iterates reaches a Pareto-stationary
+point.
+
+## Key insight
+
+The minimum-norm point of a convex set makes a non-negative angle with
+every point of the set. Applied to the hull of the gradients, its
+negative is a descent direction for all criteria together, and it is
+zero exactly when zero is in the hull. So the test for common first-order
+improvement and the construction of the direction are the same quadratic
+program over the simplex.
+
+## Assumptions
+
+- n smooth criteria J_i ∈ C¹(Ω) of a design vector Y ∈ Ω ⊂ ℝᴺ, with
+  n ≤ N, and Y⁰ the centre of an open ball in Ω (unconstrained, local).
+- Gradients may be rescaled by positive factors S_i, u_i = ∇J_i(Y⁰)/S_i;
+  existence of a common descent direction is unchanged by this, the
+  direction ω is not (Remark 3).
+- For Theorem 2.3 only: the criteria are strictly positive and infinite
+  at infinity, so the iterates stay bounded. The note says this can be
+  assumed "without loss of generality" and refers to the report.
+- Step size h: the largest h > 0 for which every J_i(Y⁰ − tω) is
+  monotone decreasing on [0, h]. No line-search rule or bound on h is
+  given.
+
+## Key results
+
+- **Definition 1.1 (Pareto-stationarity).** Y⁰ is Pareto-stationary iff
+  Σα_i u_i = 0 for some α ≥ 0 with Σα_i = 1.
+- **Lemma 1.2.** Pareto-optimal ⇒ Pareto-stationary. Proved by cases on
+  the rank r of {u_i}: r = 0 and r = 1 directly; 2 ≤ r ≤ n − 1 by
+  showing the coefficients of a linear dependence must share a sign;
+  r = n excluded through the Lagrangian of minimizing one criterion with
+  the others held below their values.
+- **Uniqueness and Lemma 2.1.** The hull U has a unique minimum-norm
+  element ω, and (u, ω) ≥ ‖ω‖² for every u ∈ U.
+- **Theorem 2.2.** Either ω = 0 and Y⁰ is Pareto-stationary, or ω ≠ 0
+  and −ω is a common descent direction. If ω lies in the relative
+  interior (all α_i > 0), every (u_i, ω) equals ‖ω‖², so the first
+  variations are equal.
+- **Theorem 2.3.** If the MGDA iteration is infinite, a subsequence
+  converges to a Pareto-stationary point.
+- **Remark 4.** If the gradients are linearly independent, Gram–Schmidt
+  orthonormalization gives a family whose hull's minimum-norm element is
+  their mean, with (u_i, ω) = 1/n; −ω is then a descent direction for the
+  original criteria provided every adjusted scale S′_i = S_i + Σ_{k<i}
+  μ_{i,k} is positive, since (∇J_i, ω′) = S′_i/n.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Pareto-optimality implies Pareto-stationarity for smooth unconstrained criteria | strong | Lemma 1.2, proof by rank cases |
+| C2 | If zero is not in the gradients' hull, minus its minimum-norm element decreases every criterion to first order | strong | Lemma 2.1 and Theorem 2.2; elementary convexity |
+| C3 | MGDA iterates have a subsequence converging to a Pareto-stationary point | moderate | Theorem 2.3; the closing step is a sketch (see Limitations) |
+| C4 | Unnormalized gradients bias ω towards the criteria with small gradients | weak | Remark 3 and the two-criterion picture of Fig. 1; no analysis |
+
+## Method
+
+Each MGDA step: (i) form u_i = ∇J_i/S_i and find the minimum-norm ω in
+their convex hull (Remark 2 parametrizes the simplex by α_i = σ_i² with
+σ on the unit sphere in spherical coordinates, reducing the search to
+[0, 1]ⁿ⁻¹; stop if ω is zero or small); (ii) choose the largest step h
+for which every criterion decreases monotonically along −ω; (iii) move to
+Y⁰ − hω. Because every criterion falls at every step the author calls it
+a cooperative-optimization method.
+
+## Concepts
+
+- **Pareto-stationarity**: zero in the convex hull of the (scaled)
+  gradients; a first-order necessary condition for Pareto-optimality.
+- **ω**: the minimum-norm element of that hull.
+- **Cooperative optimization**: descent in which no criterion is allowed
+  to rise.
+
+## Connections
+
+It is the "steepest descent" end of multiobjective optimization; the
+note sets it against an evolutionary method only through Fig. 2's test
+case from the NSGA-II paper and a companion report comparing MGDA with
+PAES. The multi-task learning papers that build on MGDA are not cited and
+post-date it. Its Lemma 2.1 and Theorem 2.2 are the record's convex-hull
+test of common descent, which CLAIM-366 proves independently.
+
+## Bearing on the record
+
+- **CLAIM-366.** The claim's "A33's criterion" (0 ∉ conv{g_i} iff a
+  common strict first-order descent direction exists) has this note as a
+  published source for the constructive half: Lemma 2.1 and Theorem 2.2
+  are exactly the claim's minimum-norm argument. The converse (zero in
+  the hull excludes common strict descent) is not stated in the note;
+  Lemma 1.2 proves only that Pareto-optimality implies stationarity. The
+  claim's own one-line proof of the converse stands and needs no source.
+  Remark 3 bears on the claim's distinction between invariant and
+  non-invariant objects: the existence of a common direction is
+  unchanged by positive rescaling of the gradients, while ω's direction
+  is not, and the author leaves the choice of scaling open.
+- **CLAIM-365.** The residual there is a budgeted, worst-case variant;
+  MGDA is its unbudgeted, Euclidean, zero-target case (ε_i = 0), where the
+  dual over the simplex reduces to the minimum-norm problem. The note
+  does not treat budgets or declared improvements.
+
+It carries no instruction for machine-learning practice; the anthology's
+interest is as the optimizer its multi-task papers cite.
+
+## Limitations
+
+- **Local and first-order.** Nothing about the size of the decrease, rates,
+  or second-order conditions; constraints only by projecting gradients
+  onto a tangent space (Remark 1), not analysed.
+- **Theorem 2.3's proof is a sketch.** It bounds the iterates by
+  coercivity and then says a non-stationary limit point could be improved
+  "of a finite amount" by one more step. That needs ω(Y) and the step size
+  to stay bounded away from zero near the limit point, which requires a
+  continuity argument the note does not give. The claim is standard and
+  plausibly true; the note's argument does not complete it.
+- **Errors and slips.** In Lemma 1.2's case 2 ≤ r ≤ n − 1 the text says
+  "for some ω ∈ V" where the argument needs ω ∈ V⊥ (V⊥ is the set just
+  introduced). The step rule picks "the largest" h without saying it is
+  finite. The abridged French version and the English text agree
+  otherwise.
+- **One illustration.** Fig. 2 reproduces a single two-criterion test
+  case from a companion report; no comparison is made in the note itself.
+
+## Open questions
+
+- Which gradient scaling S_i makes the MGDA direction balanced rather than
+  dominated by nearly converged criteria? The author lists four candidates
+  in (10) and says the question is open.
