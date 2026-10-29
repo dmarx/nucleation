@@ -23,6 +23,9 @@ works:
 - what-survives-translation
 bears_on:
 - QUESTION-130
+uses:
+- TERM-tmpfomje
+- TERM-034
 complements:
 - CLAIM-259
 - CLAIM-050
