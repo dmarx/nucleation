@@ -160,3 +160,14 @@ appraisals survive as products of categorization.
   question. The record's account of that criterion ([THEORY-036](THEORY-036.md)) finds
   that it admits almost every non-random pattern, so it would admit
   these categories without deciding anything between the rivals.
+
+## Note of 2026-10-29: what holds it back
+
+The paper reports no experiment. Its conclusion rests on Table 1's claim
+that no grain shows a consistent signature, which it cites from
+meta-analyses the record has not read; degeneracy alone does not carry it.
+The record holds neither result `promote_when` names: no manipulation of
+concept availability with affect and situation held fixed, and no variable
+shown common to one category's instances and absent from others' at a
+coarser grain. The reply that could test it, Adolphs's companion piece, is
+not filed.

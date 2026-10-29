@@ -1,10 +1,18 @@
 ---
 number: 44
-status: Deferred
+status: Open
 formerly:
 - QUESTION-tmp33wpu
 title: 'When an organization is said to be angry or afraid, is the emotion fixed by a mode of action readiness the organization has, or by the attributor''s emotion concept grouping variable states?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Deferred to Open at the eighth status review: the owner reopened
+    its line on 2026-10-23 (CLAIM-039). The body's statements that
+    CLAIM-039 rests on THEORY-055 are corrected to TERM-094, the
+    2026-10-27 move.
 tags:
 - emotion-and-affect
 - cognition
@@ -15,11 +23,12 @@ answered_by:
 - THEORY-055
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
-  for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and QUESTION-
-  tmpc59zj. [THEORY-057](../theory.d/THEORY-057.md) and [THEORY-055](../theory.d/THEORY-055.md) answer it in part; the body gives
-  each one's limit. Deferred with its line.
+  for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and
+  QUESTION-053. [THEORY-057](../theory.d/THEORY-057.md) and [THEORY-055](../theory.d/THEORY-055.md) answer it in part; the body gives
+  each one's limit. Deferred with its line on filing; Open since the owner
+  reopened the line on 2026-10-23.
 ---
-<!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim this question bears on, with its line set aside -->
+<!-- inactive-ok-file: CLAIM-039 — Proposed; the organizational-affect claim this question bears on, its line reopened on 2026-10-23 -->
 
 # QUESTION-044: When an organization is said to be angry or afraid, is the emotion fixed by a mode of action readiness the organization has, or by the attributor's emotion concept grouping variable states?
 
@@ -29,12 +38,12 @@ summary: >-
 
 ## Why the record needs it
 
-[CLAIM-039](../claims.d/CLAIM-039.md) rests on [THEORY-055](../theory.d/THEORY-055.md) for its characterization. If [THEORY-057](../theory.d/THEORY-057.md) is right about emotion categories in general, [CLAIM-039](../claims.d/CLAIM-039.md) inherits a perceiver-relativity it does not state. "The firm is angry" would then be true by a community's concept, as weeds are weeds. [QUESTION-049](QUESTION-049.md) raises the same tracking-or-shaping split for corporate knowledge and intention. This raises it for affect, where the record already holds the two sides.
+CLAIM-039 states its characterization in Frijda's concept, action readiness with control precedence (TERM-094). If [THEORY-057](../theory.d/THEORY-057.md) is right about emotion categories in general, [CLAIM-039](../claims.d/CLAIM-039.md) inherits a perceiver-relativity it does not state. "The firm is angry" would then be true by a community's concept, as weeds are weeds. [QUESTION-049](QUESTION-049.md) raises the same tracking-or-shaping split for corporate knowledge and intention. This raises it for affect, where the record already holds the two sides.
 
 ## What the record holds
 
 - [THEORY-057](../theory.d/THEORY-057.md): emotion categories are "populations of variable instances grouped by the perceiver's concepts". The two accounts differ on "whose function does the grouping". Limit: one theoretical paper, with no test of appraisal predictions.
-- [THEORY-055](../theory.d/THEORY-055.md): an appraisal "elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness". That puts the grouping in the agent. Limit: argued, not tested. It already grounds [CLAIM-039](../claims.d/CLAIM-039.md).
+- [THEORY-055](../theory.d/THEORY-055.md): an appraisal "elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness". That puts the grouping in the agent. Limit: argued, not tested. CLAIM-039 uses its concept (TERM-094), not this account.
 
 ## What would answer it
 

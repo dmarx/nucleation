@@ -179,3 +179,14 @@ well as substance.
 - **Lazarus's version is not held.** Concern pertinence here is Frijda's
   term. Whether Lazarus's relational themes are the same account is not
   something the record can say until [LIT-550](../literature.d/LIT-550.md) is read.
+
+## Note of 2026-10-29: what holds it back
+
+The paper argues both theses and tests neither (NOTE-433). The record holds
+none of the results `promote_when` names: no mode of action readiness shown
+common to a category's instances across varied contexts and absent from
+other categories', and no case in which changing only an event's pertinence
+to a concern switches the emotion on or off or changes which one it is. The
+fuller statements, LIT-546 and LIT-550, are Unavailable. The rival,
+THEORY-057, is not what holds it back: an account with rivals goes Active
+when its `promote_when` is met, as THEORY-121 did.

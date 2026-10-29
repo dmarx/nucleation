@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpbo7rd
 title: 'Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-23'
@@ -15,6 +15,17 @@ history:
     framework equips us to do is to assign affect to corporation-like
     things". The claim's notes had left reopening the line to the owner.
     Used the same day as a premise of CLAIM-432.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The eighth status review (ADR-057, ADR-058). THEORY-125 moved from
+    grounds to corroborated_by: linked on 2026-10-12, eight days after
+    filing, and named by A64 as prior art for the same conjecture, so
+    independent support and not footing. Summary restated because the
+    line was reopened on 2026-10-23; it was: The owner's move at
+    U19–U20: an organization can be "angry" or "blind" as a system is
+    "happy" in a stable orbit, mapped through Frijda. The line the
+    will paper grew out of; set aside from it. Status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,12 +36,16 @@ tags:
 - social-ontology
 date: '2026-10-04'
 line: organizational-affect
+corroborated_by:
+- THEORY-125
 summary: >-
   The owner's move at U19–U20: an organization can be "angry" or "blind"
-  as a system is "happy" in a stable orbit, mapped through Frijda. The
-  line the will paper grew out of; set aside from it.
-grounds:
-- THEORY-125
+  as a system is "happy" in a stable orbit, mapped through Frijda's action
+  readiness (TERM-094). Set aside from the will paper on 2026-10-04 and
+  reopened by the owner on 2026-10-23; CLAIM-432 and CLAIM-440 rest on it.
+  Huebner (THEORY-125) argues the same possibility independently. The
+  objection to answer first is THEORY-101's identity of valence with a
+  felt state.
 supports:
 - CLAIM-432
 - CLAIM-440
@@ -121,3 +136,12 @@ in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-094](../terms.d/TERM-0
 control precedence. The claim uses the concept. It does not need the
 account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
 and which stays Proposed.
+
+## Note of 2026-10-29: what holds it back
+
+THEORY-101's identification of hedonic valence with a felt regulatory state
+is still unanswered, as the notes of 2026-10-12 and 2026-10-23 say. The
+record holds no claim showing either that action readiness with control
+precedence (TERM-094) can be had without hedonic valence, or that Veit's
+identity, argued for animal valence and rated a sketch in THEORY-101, does
+not extend to it. A claim that settles either would answer it.

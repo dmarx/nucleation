@@ -1,10 +1,23 @@
 ---
 number: 275
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpbkp1k
-title: 'An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others'
-version: 1
+title: 'An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence can co-evolve, and none of them is upstream of the others in every case'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted at the eighth status review (ADR-057), with the title
+    narrowed to A4's "can co-evolve", the sentence the owner answered
+    "yes, exactly". It was: An intervention can come before the
+    interpretation it makes available, so in an organization of
+    processes meaning, policy and influence co-evolve and none of them
+    is simply upstream of the others. THEORY-057 left the grounds: the
+    claim cites it and THEORY-055 only for the two orders the record's
+    accounts give, and decides between neither (ADR-058). Status
+    Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,8 +35,6 @@ works:
 - self-as-recursive-ecology
 line:
 - distributed-agency
-grounds:
-- THEORY-057
 complements:
 - CLAIM-255
 summary: >-
@@ -44,7 +55,7 @@ uses:
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-057 CLAIM-255 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-275: An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others
+# CLAIM-275: An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence can co-evolve, and none of them is upstream of the others in every case
 
 ## The claim
 
@@ -88,3 +99,13 @@ in [THEORY-055](../theory.d/THEORY-055.md) to using [TERM-094](../terms.d/TERM-0
 control precedence. The claim uses the concept. It does not need the
 account's thesis about what elicits an emotion, which [THEORY-057](../theory.d/THEORY-057.md) contests
 and which stays Proposed.
+
+## Note of 2026-10-29: promoted
+
+The claim stands on A4 §6, the owner's assent at U5 and A3's re-noising, and
+it uses TERM-094 (Active). It has no objection, and nothing the record holds
+meets `defeated_if`. THEORY-055's elicitation thesis would bear on its
+emotional-action half if it were held, because an appraisal of pertinence
+comes first there; but that appraisal is not the interpretation the act
+makes available, and THEORY-055 is Proposed. CASE-143 is an instance: the
+favour came before the liking.
