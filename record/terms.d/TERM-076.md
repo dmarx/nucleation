@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - TERM-tmp8gbrt
 title: 'goal-conduciveness valence, organizational: a regime in which the negotiation among a system''s perspectives has, approximately, a potential, an ordering of the system''s own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation''s decisions follow it rather than any rival ordering'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The nonvacuity condition's gloss and the "Not frustration" bullet
+    named frustration where the condition uses contest, the
+    equivocation CLAIM-449 finds in CLAIM-440. They had said 'This is
+    the thesis's "no frustration, no valence" ... now a condition of
+    the definition' and 'Valence on this term presupposes it'. They
+    now name contest. The condition is unchanged (eighth status
+    review).
 tags:
 - emotion-and-affect
 - motivation
@@ -87,8 +98,10 @@ to a collective relation R_t on X_t.
   empty relation of wins, so every ordering is trivially its potential.
   Valence is *undefined* there, not zero or neutral: the term applies only
   over a non-empty set of contested pairs on which ≿_v and some rival
-  ordering disagree. This is the thesis's "no frustration, no valence"
-  ([CLAIM-440](../claims.d/CLAIM-440.md), consequence 1), now a condition of the definition.
+  ordering disagree. It is the thesis's first consequence (CLAIM-440), now a
+  condition of the definition, stated for contest: what it needs is
+  contested pairs in the record of wins, not demands that are jointly
+  infeasible (TERM-060). The two come apart both ways (CLAIM-449).
 - **The kind.** ≿_v ranks the system's own states by their bearing on
   its maintenance: its essential variables in Ashby's sense ([THEORY-324](../theory.d/THEORY-324.md)),
   the graded norm of Di Paolo's adaptivity ([THEORY-628](../theory.d/THEORY-628.md)), what [THEORY-045](../theory.d/THEORY-045.md)
@@ -229,9 +242,12 @@ record is scored on held-out contests (above).
   Veit's thesis ([THEORY-101](../theory.d/THEORY-101.md)), not this term's.
 - **Not frustration** ([TERM-060](TERM-060.md)). Frustration is a relation among
   demands that no admissible transformation meets jointly. Valence on
-  this term presupposes it: where the perspectives never conflict, no
-  ranking has anything to prevail over, and the nonvacuity condition
-  leaves valence undefined.
+  this term presupposes contest, not frustration: rankings can contest
+  while every demand is satisfiable, and demands can be jointly
+  infeasible before any contest is recorded (CLAIM-449). Where no pair is
+  contested, no ranking has anything to prevail over, and the nonvacuity
+  condition leaves valence undefined whether or not the demands are
+  frustrated.
 - **Not any potential goal.** A ranking of world states, however
   potential, is not valence until it ranks the system's own states by
   their bearing on its maintenance. Whether a firm's potential metric is a
@@ -249,3 +265,13 @@ record is scored on held-out contests (above).
   the potential ranking is continuous it has a numerical representation;
   where it is a graded lexicographic override it has none
   ([CLAIM-436](../claims.d/CLAIM-436.md)).
+
+## Note of 2026-10-29: what holds it back
+
+CLAIM-441's flow case is unanswered. On CLAIM-162's reading of flow nothing
+is contested, so this definition leaves flow's valence undefined while flow
+is reported as positive. Which of CLAIM-441's four exits holds turns on
+whether flow is positive during the episode, and the flow literature
+(LIT-914) is unread. Its fourth exit would change this definition's
+nonvacuity condition. CLAIM-440's consequence 1 still says frustration and
+wants the same correction when its cluster is reviewed.

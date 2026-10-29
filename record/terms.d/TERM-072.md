@@ -1,6 +1,6 @@
 ---
 number: 72
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpe36gg
 complements:
@@ -8,7 +8,7 @@ complements:
 - TERM-074
 - TERM-082
 title: 'perspective, and which sense: organizational, represented or phenomenal'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -44,6 +44,18 @@ history:
     leaves identity, boundaries, persistence and self-maintenance open.
     The definition and status are unchanged; the usage rule is ADR-050,
     Proposed.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Adopted at the eighth status review (ADR-057), on the owner's
+    ruling in the pull request. The definition is unchanged since
+    version 2. Of the two ways the note of 2026-10-22 (later) set out,
+    the first is taken: character and lineage are relations among
+    realizations, not senses, as the vocabulary note and CLAIM-417
+    already write them. The candidate restatement of sense 1 stays a
+    note. A8's test, whether sense 1 can be told from coordinated
+    feedback in general, remains the term's defeater and is open as
+    QUESTION-276.
 tags:
 - consciousness
 - self
@@ -59,7 +71,8 @@ summary: >-
   view. The constitutive thesis is that some organizational perspectives
   are phenomenal ones, so its claims must say which sense they use.
   Self-maintaining organizational perspective is a narrower subclass, not
-  the definition. Proposed: whether to adopt it is the owner's call.
+  the definition. Adopted 2026-10-29, with character and lineage read as
+  relations among realizations.
 used_by:
 - CLAIM-412
 - CLAIM-417

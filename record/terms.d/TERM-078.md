@@ -1,10 +1,10 @@
 ---
 number: 78
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpuilar
 title: 'persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-24'
@@ -16,6 +16,15 @@ history:
     Resumption is now a separate condition, read off the record or derived
     from reachability, strict progress or recurrence. The definition is
     otherwise unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Adopted at the eighth status review (ADR-057), on the owner's
+    ruling in the pull request. The definition is unchanged since
+    version 2: three reviews of PR #327 revised it, no later entry
+    objects to it, and CLAIM-440, CLAIM-448, CLAIM-451, QUESTION-266
+    and QUESTION-268 use it in this sense. How a persistent potential
+    is read off a record is QUESTION-268, which stays open.
 tags:
 - emotion-and-affect
 - game-theory

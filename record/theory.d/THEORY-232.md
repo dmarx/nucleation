@@ -38,7 +38,6 @@ summary: >-
   parts. That bottom-up learning produces such organization is reported
   from earlier models, not shown here.
 supports:
-- CLAIM-347
 - CLAIM-361
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this bears on, on a set-aside line -->
