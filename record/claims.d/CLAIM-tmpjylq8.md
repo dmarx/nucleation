@@ -143,23 +143,23 @@ caring. The outcomes are self-reported willingness, not acts.
 Three works read in place of Sugden 2003, *Unto Others* and *Surviving
 Death* each press the thesis to say more exactly what it claims.
 
-- **A third shape of cooperation** (Sugden 2015, NOTE-tmph49t5). Bacharach's
+- **A third shape of cooperation** (Sugden 2015, [NOTE-tmph49t5](../notes.d/NOTE-tmph49t5.md)). Bacharach's
   team reasoner pursues the team's collective good, which can outweigh a
   member's. That is close to self-interest on a larger self. Sugden's
   cooperative team reasoner intends each member's benefit, her own
   included, with no larger self in play. It is neither the thesis's larger
   self nor sacrifice. Sugden also rejects building pro-social motives into
   an individual's payoffs, which is what enlarging the individual does.
-- **Two readings of the thesis** (Stich 2006, NOTE-tmpeuwqz). In the
+- **Two readings of the thesis** (Stich 2006, [NOTE-tmpeuwqz](../notes.d/NOTE-tmpeuwqz.md)). In the
   egoism debate's terms the thesis must choose. Either the desire for a
   child's or a group's good is instrumental to some good of the agent,
   which is classical egoism and meets Sober and Wilson and Batson. Or it is
   an ultimate desire whose object counts as part of the self. That is a
   redescription of what Sober and Wilson call altruism, and has content
-  only with CLAIM-tmprudek's independent criterion. Stich also shows that
+  only with [CLAIM-tmprudek](CLAIM-tmprudek.md)'s independent criterion. Stich also shows that
   kin selection is silent about motive, so Hamilton's rule supports the
   thesis only by analogy.
-- **Johnston has changed his mind** (Johnston 2023, NOTE-tmp3uqu5). The
+- **Johnston has changed his mind** (Johnston 2023, [NOTE-tmp3uqu5](../notes.d/NOTE-tmp3uqu5.md)). The
   premise cited above, that the self's extent is fixed by one's deepest
   attitudes, is one he now rejects. His reason is that such selves
   multiply bearers of moral status. Whether an enlarged self inherits that
