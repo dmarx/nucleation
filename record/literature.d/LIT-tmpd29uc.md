@@ -8,7 +8,8 @@ status_note: >-
   the authors' Dutch restatements; Haifa's research system lists it
   without a file, and Erasmus's repository answered with a Cloudflare
   challenge. No NOTE is filed. It stays Unavailable until a copy is
-  supplied (ADR-041).
+  supplied (ADR-041). Read in its place, and not a substitute for reading
+  it: Fridman's 2011 Leiden thesis (LIT-tmp5ys53).
 title: 'Are children of Holocaust survivors less well-adapted? A meta-analytic investigation of secondary traumatization'
 version: 1
 history:
@@ -21,7 +22,8 @@ history:
     459–469; print October 2003, so `published:` is 2003-10-01 and means
     October 2003 (ADR-002). Crossref's online date (2005) is the
     backfile. Set Unavailable the same day after a search for a lawful
-    copy (ADR-041); the status note says where.
+    copy (ADR-041); the status note says where. On the same day
+    Fridman's 2011 Leiden thesis (LIT-tmp5ys53) was read in its place.
 tags:
 - psychopathology-and-treatment
 date: '2026-10-29'
@@ -48,3 +50,19 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 The strongest evidence against a general transmission of trauma to the second generation. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Fridman (2011), a thesis supervised by the meta-analysis's three authors,
+restates it several times. It reports 32 samples with 4,418 children of
+survivors, and no evidence of secondary traumatization in studies with
+non-select recruitment and non-clinical samples. It reports that
+transmission appeared in clinical samples, under severe stressors such as
+combat or cancer, and in weaker designs on convenience samples. It gives
+the paper's explanations: a stress-diathesis model, social support in
+Israel, and basic trust formed before the war. Missing still: any effect
+size, the outcome domains, the moderator tests that separate clinical from
+non-clinical and select from non-select samples, the list of studies, and
+any test of publication bias.

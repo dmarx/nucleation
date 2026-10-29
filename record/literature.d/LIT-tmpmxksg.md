@@ -7,7 +7,8 @@ status_note: >-
   through Nature's sign-in back to the article page; it is not in PMC, and
   Unpaywall's submitted version is the abstract page. A human reader can
   likely open it. No NOTE is filed. It stays Unfetched until it is read,
-  not on merit.
+  not on merit. Read in its place, and not a substitute for reading it:
+  Pembrey, Saffery and Bygren 2014 (LIT-tmp916v0).
 title: 'Sex-specific, male-line transgenerational responses in humans'
 version: 1
 history:
@@ -19,7 +20,8 @@ history:
     (QUESTION-tmp8bttd). Crossref: EJHG 14(2), 159–166; online
     2005-12-14, so `published:` is that date (ADR-002). Set Unfetched
     the same day under ADR-053 after a fetch was refused; the status
-    note gives the address.
+    note gives the address. On the same day Pembrey, Saffery and Bygren
+    2014 (LIT-tmp916v0) was read in its place.
 tags:
 - natural-sciences
 date: '2026-10-29'
@@ -47,3 +49,21 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 The classic human epidemiological case for transgenerational effects. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+**For LIT-tmpmxksg (Pembrey et al. 2006, "Sex-specific, male-line
+transgenerational responses in humans").** Pembrey, Saffery and Bygren
+2014 (NOTE-xxxx), by two of the original's authors, restate its result: in
+Överkalix cohorts born 1895, 1905 and 1920 (n = 107, 99, 111), the
+paternal grandfather's mid-childhood food supply was linked to grandsons'
+mortality (rate ratios 1.67 good, 0.65 poor) and the paternal
+grandmother's to granddaughters' (2.13, 0.72). It also gives the ALSPAC
+result reported there: sons of fathers who began smoking before 11 had
+higher BMI at 9. It shows that the exposure was food supply, not famine,
+and that good supply was the harmful one. Missing still: the original's
+methods, food-supply classification, confidence intervals and p-values,
+the ALSPAC sample and model, its discussion of mechanism, and the 2006
+exchange with Senn on multiple testing.

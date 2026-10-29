@@ -7,7 +7,8 @@ status_note: >-
   is not in PMC and has no author manuscript. On 2026-10-29 the publisher
   answered with a Cloudflare challenge (HTTP 403). A human reader can
   likely open it. No NOTE is filed. It stays Unfetched until it is read,
-  not on merit.
+  not on merit. Read in its place, and not a substitute for reading it:
+  Youssef et al. 2018 (LIT-tmpeu7te).
 title: 'Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation'
 version: 1
 history:
@@ -20,7 +21,8 @@ history:
     September 2016 only, so `published:` is 2016-09-01 and means
     September 2016 (ADR-002). Open at the publisher. Set Unfetched the
     same day under ADR-053 after a fetch was refused; the status note
-    gives the address.
+    gives the address. On the same day Youssef et al. 2018
+    (LIT-tmpeu7te) was read in its place.
 tags:
 - natural-sciences
 - psychopathology-and-treatment
@@ -49,3 +51,20 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 The study behind most popular claims that trauma is inherited epigenetically. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+**For LIT-tmp4sa73 (Yehuda et al. 2016, "Holocaust Exposure Induced
+Intergenerational Effects on FKBP5 Methylation").** Youssef et al. 2018
+(NOTE-xxxx) give the study's design and main result: 32 Holocaust
+survivors and 22 of their offspring against 8 controls and 9 control
+offspring, with blood FKBP5 intron 7 methylation significantly higher in
+survivors and significantly lower in their offspring, read as biological
+accommodation. They name its limits as sample size and the survivors'
+starvation. The LIT's "a site" should read "intron 7". Missing still: who
+the controls were (the LIT's "Jewish families living outside Europe" is
+not confirmed), the CpG sites and statistics, the sex of the exposed
+parent, timing of conception, genotype, cortisol results, and the
+offspring's own trauma and psychopathology.

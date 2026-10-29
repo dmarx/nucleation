@@ -1,0 +1,307 @@
+---
+status: Read
+paper: LIT-tmpro9qi
+title: 'Inter- and transgenerational inheritance of behavioral phenotypes'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full from the publisher's typeset version (six pages, two
+    tables, 50 references) posted on ZORA, the University of Zurich
+    repository; ZORA labels it "Published Version". Page numbers are the
+    journal's. Table 1 was read from the PDF's layout, since the plain
+    text extraction scrambles it. Read in place of Bohacek and Mansuy
+    2015 (LIT-tmph5rq7), which shares its senior author.
+date: '2026-10-29'
+summary: >-
+  A review from Mansuy's laboratory. In rodents, parental trauma, stress,
+  drugs of abuse and in-utero insults pass behavioural phenotypes to
+  offspring, in the MSUS model "up to the third or even the fourth
+  generation"; paternal environmental enrichment passes benefits and can
+  prevent trauma's transmission. IVF and sperm-RNA injection show germline
+  dependence, and non-coding RNAs are the best candidate carriers. Human
+  descendants of genocide survivors show more psychopathology; the
+  review's own table calls these intergenerational. How a stimulus reaches
+  the germline, and how effects pass beyond the first generation, "remains
+  unknown". Germline reprogramming is not mentioned.
+---
+<!-- inactive-ok-file: QUESTION-tmp8bttd CLAIM-tmpjylq8 CLAIM-tmprudek LIT-tmph5rq7 LIT-tmp4sa73 LIT-tmpd29uc LIT-tmppmeni — Open, Proposed, Unavailable or Unfetched; the question and thesis this reading bears on, the work it stands in for, and unread works it is set beside -->
+
+# NOTE-xxxx: Inter- and transgenerational inheritance of behavioral phenotypes
+
+## Contribution
+
+A six-page survey of the evidence that what parents live through reaches
+their offspring through the germline and changes their behaviour. It
+covers rodent models of trauma, stress, drugs and in-utero insults; the
+newer finding that good environments are transmitted too; human studies of
+genocide and war; and the candidate carriers, chiefly sperm RNA. It is the
+proponents' side, written by the laboratory behind the most-cited mouse
+trauma model (MSUS). It states its open problems plainly, and it does not
+engage the sceptics.
+
+## Key insight
+
+The authors' strongest evidence is causal and specific to RNA. Injecting
+RNA from the sperm of males traumatized as pups into fertilized control
+oocytes "recapitulated trauma-induced behavioral and metabolic symptoms in
+the resulting progeny" (p. 99). The same move works for enrichment: sperm
+RNA from enriched males reproduced enhanced plasticity and memory, and
+blocking miR-212/132 prevented it. So in mice something in sperm RNA can
+carry a parent's experience to a child. What the review cannot say is how
+the experience gets into the sperm, or how it gets past the child: "it is
+not clear how the phenotypes associated with transgenerational inheritance
+are further passed on beyond the first generation" (p. 99).
+
+## Assumptions
+
+- **"True biological inheritance" means the germline** (p. 96). Rearing,
+  maternal factors and body fluids passed at birth or in milk can also
+  transmit phenotypes; the review sets them aside by definition.
+- **A loose definition of the generations** (p. 96). "Transmission from a
+  directly exposed parent to the offspring is typically called
+  intergenerational ..., while transmission across several generations is
+  called transgenerational." Nothing says which generations were exposed
+  as germ cells or fetuses.
+- **Stimuli are "purely emotional/psychological" and begin in the brain**
+  (p. 99). The problem is then a bridge from brain to germ cell.
+
+## Key results
+
+- **Definitions and the germline test** (pp. 96–97).
+  - The definition above. A "hallmark" of epigenetic inheritance is a
+    specific signature in the exposed animal's germline, "generally
+    accompanied by similar changes in somatic cells" of parent and
+    offspring.
+  - Germline dependence has been shown by artificial insemination, IVF,
+    and transfer of sperm RNA into fertilized control oocytes.
+- **Negative traits in rodents** (p. 97; Table 1, p. 98).
+  - MSUS (unpredictable maternal separation combined with unpredictable
+    maternal stress, applied to pups): depressive-like symptoms,
+    risk-taking and antisocial behaviour "up to the third or even the
+    fourth generation"; impaired object-recognition memory and synaptic
+    plasticity; altered serotonergic circuits; metabolic changes in brain
+    and blood. Transmission "through both fathers ... and mothers".
+  - Chronic social instability in adults: anxiety and social deficits
+    "across three generations".
+  - Odour fear conditioning in adult males (Dias and Ressler): "sensitivity
+    to the same odor" in offspring and grand-offspring.
+  - Drugs: offspring of cocaine-addicted males have memory and plasticity
+    deficits, rescued by D-serine in the hippocampus; four weeks of
+    alcohol in female rats before conception exaggerate offspring stress
+    hormone responses; paternal ethanol vapour lowers offspring ethanol
+    preference.
+  - In-utero exposure, which the review says excludes "any social factors
+    after birth": valproic acid causes autism-like behaviour "across three
+    generations"; immune activation causes despair, altered sociability
+    and fear "across several generations".
+  - Table 1 gives eight rodent studies with the number of generations
+    affected: 3 for MSUS, social instability, odour conditioning and
+    preconception corticosterone; 2 for the rest.
+- **Positive traits in rodents** (pp. 98–99).
+  - Two weeks of enrichment from postnatal day 15 in males improves
+    offspring long-term potentiation and memory; four weeks before
+    conception gives offspring resistance to depression and a lower
+    cortisol response to acute stress.
+  - Enrichment corrects inherited deficits in a Ras-GRF knockout and
+    co-morbid anxiety in a genetic epilepsy model.
+  - Enrichment of MSUS fathers "shortly after chronic trauma" reverses
+    their altered coping and "preserves their progeny from being
+    affected", with correction of DNA methylation at the glucocorticoid
+    receptor gene in fathers' sperm and offspring hippocampus (Gapp et al.
+    2016).
+  - The same trauma can pass on advantages: MSUS offspring show more
+    behavioural flexibility and better goal-directed behaviour. The
+    authors suggest this "may have important evolutionary implications"
+    (p. 99).
+- **Humans** (p. 97; Table 2, p. 98).
+  - Increased psychopathology "in the offspring and grand-offspring of
+    holocaust survivors", with FKBP5 methylation as "a possible epigenetic
+    signature".
+  - Genocide in Cambodia and Rwanda: hyper-arousal, anxiety and depression
+    in descendants. Bosnian war veterans with PTSD: neurodevelopmental
+    delays and emotional deficits in offspring. Finnish wartime evacuees:
+    daughters' psychiatric hospitalization.
+  - Sperm of men with adverse childhood experiences shows miRNA changes
+    like those in stressed mice and their offspring. The annotation gives
+    n = 28 men, with miR-449 and miR-34 inversely correlated with ACE
+    scores (ref. 32).
+  - The authors' verdict: germline dependence "is not established in
+    humans but initial results indicate that it is likely the case"; the
+    evidence is "concrete in both rodents ... and humans".
+  - Table 2's own title: studies "of intergenerational ... inheritance ...
+    in humans".
+  - The FKBP5 annotation (ref. 27): Holocaust survivors n = 32, their
+    offspring n = 22, comparison parents n = 8 and offspring n = 8.
+    Methylation was higher in survivors and lower in their offspring.
+- **Mechanisms** (p. 99).
+  - Carriers from brain to germline: circulating hormones, cytokines,
+    circulating DNA or RNA. Maturing sperm acquire ncRNAs and proteins
+    from epididymosomes, which "could bridge the brain to the germ-line".
+  - Of DNA methylation, histone modifications and ncRNAs, "ncRNAs are the
+    best described candidates today".
+  - Causal tests: sperm RNA from MSUS males (Gapp et al. 2014); nine
+    miRNAs altered by adult stress reproduce the effect on corticosterone
+    (Rodgers et al. 2015); sperm RNA from enriched males, blocked by
+    miR-212/132 inhibitors (Benito et al. 2018). The annotation to ref. 44
+    adds sperm tRNA fragments from high-fat-diet males causing metabolic
+    disorder (Chen et al. 2016).
+- **Open problems** (p. 99): the link from stimulus to germ-cell signature
+  "remains unknown"; how effects pass beyond the first generation is
+  unclear; more direct causal proof and "reversal" studies are needed;
+  mechanisms may differ by stimulus, timing, severity, sex and time of
+  analysis; human body fluids (blood, saliva, sperm, milk) should be
+  assessed against "direct or ancestral exposures".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | In rodents, parental trauma, stress, drugs and in-utero insults pass behavioural phenotypes to offspring, in some models for three or four generations | moderate as a summary of many studies; no effect sizes, no replication record, and the generation counts' convention is unstated | p. 97; Table 1 |
+| C2 | In rodents the transmission depends on the germline, and sperm RNA can carry it | moderate: IVF and a handful of injection experiments, three of them on behaviour or stress hormones | pp. 96–97, 99 |
+| C3 | Positive parental experience (enrichment) is transmitted too, and paternal enrichment can prevent the transmission of trauma's effects | weak to moderate: a few studies; the prevention result is one study from the authors' laboratory | pp. 98–99 |
+| C4 | Human descendants of genocide and war show similar effects, and a germline route is likely | weak: by the review's own table these are intergenerational; nothing in them separates the germline from rearing; the one sperm study (n = 28) has no offspring | p. 97; Table 2 |
+| C5 | Non-coding RNAs are the best candidate carriers; circulating factors and epididymosomes may link brain to sperm | weak as to the bridge (a hypothesis, "remains unknown"); moderate as to ncRNA in sperm | p. 99 |
+| C6 | Traits transmitted after trauma can be advantageous, with possible evolutionary implications | weak: two findings in one model, and a cited review | p. 99 |
+
+## Concepts
+
+- **intergenerational epigenetic inheritance** (the review's sense):
+  transmission from a directly exposed parent to the offspring.
+- **transgenerational epigenetic inheritance (TEI)** (the review's sense):
+  transmission across several generations. Looser than Heard and
+  Martienssen's, which requires a generation never exposed.
+- **MSUS**: unpredictable maternal separation combined with unpredictable
+  maternal stress, an early postnatal model of chronic trauma in mice.
+- **environmental enrichment (EE)**: housing with more space, objects and
+  social or physical stimulation, used as a positive parental exposure.
+- **epididymosomes**: extracellular vesicles in the epididymis that pass
+  ncRNAs and proteins to maturing sperm.
+- **reversal study**: correcting an inherited epigenetic change, by the
+  environment or by molecular means, to test whether it causes the
+  phenotype.
+
+## Connections
+
+- **Bohacek and Mansuy 2015 (LIT-tmph5rq7)**, unread and Unavailable. Same
+  senior author, four years earlier. This review cites it as the review of
+  germline-dependent transmission and of the assisted-reproduction tests
+  (ref. 3), and as a source for the MSUS row of Table 1.
+- **Dias and Ressler (LIT-tmpk0wlg, NOTE-tmpeof8o).** Reported faithfully in
+  the text, as "sensitivity", not fear. Table 1's cell for it adds "CpG
+  hypomethylation in the Olfr151 gene in sperm and olfactory cortex". The
+  record's reading found the sperm result, no difference in F1 or F2
+  olfactory epithelium, and no reported cortical test.
+- **The three sceptics (LIT-tmpjgbgk, LIT-tmpmsnfq, LIT-tmpaf6cr;
+  NOTE-tmp3dbkt, NOTE-tmpahh4j, NOTE-tmp9514e).** None is cited. Germline
+  reprogramming, which is their main argument, is not mentioned. Weismann
+  appears only in the title of ref. 5. The two sides use the same
+  evidence differently:
+  - Horsthemke lists Gapp et al.'s sperm-RNA injection as technically
+    sound but unconfirmed; here it is the "pioneering" causal link.
+  - Bird says the FKBP5 study rests on "a sample of only 32 people". This
+    review's annotation gives 32 survivors, 22 offspring and 16
+    comparison subjects.
+  - Heard and Martienssen's F2/F3 rule is absent. Without it, "three
+    generations" cannot be checked against the rule (see Limitations).
+- **Yehuda et al. (LIT-tmp4sa73).** The FKBP5 study, the review's lead
+  human case, cited with its numbers.
+- **The Holocaust meta-analyses (LIT-tmpd29uc, LIT-tmppmeni).** Not cited.
+  The review's "offspring and grand-offspring" claim is the claim those
+  meta-analyses test in non-clinical samples and find no general support
+  for.
+- **Costa et al. (LIT-tmp6n699, NOTE-tmp3firt).** Not cited. It is the
+  record's read human case on the paternal line (sons of prisoners of
+  war), and its untested "grateful nation" line is used below.
+
+## Bearing on the record
+
+- **The question (QUESTION-tmp8bttd), germline route.** The record now has
+  the proponents' case from the proponents. These are inferences from the
+  text, not the authors' claims.
+  - *On mice the case is real but bounded.* Sperm RNA carries something
+    from father to child, and the authors call the next step, beyond the
+    first generation, unclear. That is the step reprogramming is said to
+    block. The two sides agree on more than their tone suggests: the
+    intergenerational effect is supported, the transgenerational
+    mechanism is not.
+  - *On humans the review concedes the sceptics' point in its own table.*
+    Table 2 calls every human study intergenerational. Its text says the
+    germline route "is not established in humans". Of the four tabled
+    studies, the titles of two (refs. 28 and 29) name parental styles and
+    family violence, which are the question's parenting route. A
+    proponents' table of human epigenetic inheritance thus includes studies
+    framed by their own authors around rearing. (From the titles; those
+    studies are not read.)
+  - *The best design is still not available in humans.* The review's
+    suggested next step is to measure marks in body fluids against
+    "direct or ancestral exposures". That is correlational and does not
+    meet Horsthemke's causal step. The question's first test is still
+    unanswered from either side.
+  - *Enrichment adds something new to the question.* If paternal
+    enrichment after trauma prevents its transmission in mice, then what
+    passes depends on the father's environment after the event, not only
+    on the event. That is a mouse result from one study.
+- **The identity route.** The review says nothing about it. On its account
+  what reaches the germline is a bodily state: hormones, cytokines,
+  circulating RNA. There is no place in it for what an event means to the
+  person or the group. One possibility (an inference, untested) joins the
+  routes: if an event's meaning changes the stress response, and the
+  stress response feeds the germline, then a group's narrative could set
+  even the biological route. Costa et al.'s "grateful nation" reading is
+  the record's only hint of this, and it is untested.
+- **The owner's thesis (CLAIM-tmpjylq8).** Indirect at most. Nothing
+  transmitted here involves a self, an ancestor represented, or a group.
+  The triviality objection (CLAIM-tmprudek) is not addressed. No note on
+  the claim is proposed.
+- **Proposed dated note on QUESTION-tmp8bttd** (below, section 3).
+- **No THEORY filed.**
+- **No ML instruction.**
+
+## Limitations
+
+- **Not the 2015 review.** Bohacek and Mansuy's Nature Reviews Genetics
+  article is unread, and this six-page piece cannot stand for its detail.
+- **No engagement with critics.** Germline reprogramming, replication,
+  confounding and the F2/F3 rule are not discussed. "Conflict of interest
+  statement: Nothing declared" (p. 100). The authors review a model, MSUS,
+  that is their laboratory's own. Mansuy is a named author of three of its
+  nine references (12, 15, 16); the others' author lists are truncated.
+  The proponents here are one school, as the sceptics are.
+- **The generation counts are ambiguous.** Dias and Ressler tested sons and
+  grandsons, yet Table 1 lists three generations affected. So the counts
+  seem to include the exposed generation. If so, "three generations" after
+  an in-utero exposure (valproic acid) would reach only the exposed
+  mother's grandchildren, an intergenerational case by Heard and
+  Martienssen's rule. The review does not say how it counts. This is an
+  inference from one row.
+- **"Excluding any social factors after birth"** (p. 97) holds for the
+  exposure, not for rearing by exposed mothers or affected offspring.
+- **The human claims outrun their citations.** "Offspring and
+  grand-offspring of holocaust survivors" cites refs. 24–26. All three
+  titles concern offspring only; none names grandchildren. Table 1's
+  Dias and Ressler cell names "olfactory cortex", which the paper, as read
+  by the record, does not report.
+- **No effect sizes or sample sizes** in the text, except in three
+  reference annotations.
+- **Typos.**
+  - "inter- of transgnerational" (p. 97).
+  - "intergenerational oepigenetic inheritance" (Table 2 title, p. 98).
+  - "Increase psychiatric hospitalizations" (Table 2).
+  - "brain-derived neurotropic factor" for neurotrophic (p. 97).
+  - "adversive" for aversive (ref. 36 annotation, p. 101).
+  - "the geneFKBP5" (ref. 27 annotation, p. 100).
+  - "both genders" for both sexes (p. 99).
+  - Ref. 4 is dated 2018 and marked "(in press)".
+
+## Open questions
+
+- Does the MSUS effect in the third and fourth generations survive the
+  F2/F3 rule, counted from the exposed pups' germ cells?
+- Has the sperm-RNA injection result been reproduced outside the
+  laboratories that reported it?
+- Do the men in the ACE sperm study (n = 28) pass anything to their
+  children? The study has no offspring.
+- In humans, does a father's later environment, as enrichment does in
+  mice, change what reaches his children?

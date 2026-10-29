@@ -6,7 +6,8 @@ status_note: >-
   by an author, their institution or the publisher. Volkan's site is a
   parked domain, and the University of Virginia's archive lists the paper
   by title only. No NOTE is filed. It stays Unavailable until a copy is
-  supplied (ADR-041).
+  supplied (ADR-041). Read in its place, and not a substitute for reading
+  it: Volkan 2021 (LIT-tmp1xbj6).
 title: 'Transgenerational Transmissions and Chosen Traumas: An Aspect of Large-Group Identity'
 version: 1
 history:
@@ -18,7 +19,8 @@ history:
     (QUESTION-tmp8bttd). Crossref: Group Analysis 34(1), 79–97; online
     2001-03-01, so `published:` is that date (ADR-002). Set Unavailable
     the same day after a search for a lawful copy (ADR-041); the status
-    note says where.
+    note says where. On the same day Volkan 2021 (LIT-tmp1xbj6) was read
+    in its place.
 tags:
 - social-identity
 - psychopathology-and-treatment
@@ -46,3 +48,20 @@ standardly cited for. A reading should check it first.
 ## Why this is here
 
 Trauma inherited as identity: descendants carry as their own an injury done to their ancestors, the past-facing counterpart of the owner's thesis. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).
+
+## Read in its place
+
+The work cannot be read here, so the record holds it at second hand.
+
+Volkan's 2021 lecture (NOTE-tmp16of2, section on chosen traumas) gives his
+definition of a chosen trauma: the shared image of an ancestral injury at
+another group's hands, real or mythologized, which changes function as it
+is transmitted and becomes a marker of large-group identity. It gives the
+Kosovo 1389 example the LIT summary names, with Milošević's time collapse
+and Lazar's bones, and the link to entitlement ideology, dehumanization
+and purification. It gives transmission only in outline, as parents
+depositing images and ego tasks in children. The LIT's summary agrees with
+it. Missing still: the 2001 text itself, which the lecture does not cite;
+its account of how transmission works across several generations; its case
+material and sources; and whether in 2001 Volkan already separated chosen
+trauma from the undigested trauma of recent events.
