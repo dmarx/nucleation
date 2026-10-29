@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Retention of Learning through Metamorphosis in the Grain Beetle (Tenebrio molitor)'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The earlier line of work on learning that survives metamorphosis, which Blackiston et al. (LIT-tmp0v56k) build on. For QUESTION-tmpws54x.
+The earlier line of work on learning that survives metamorphosis, which Blackiston et al. ([LIT-tmp0v56k](LIT-tmp0v56k.md)) build on. For [QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md).

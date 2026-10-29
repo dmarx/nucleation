@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'An automated training paradigm reveals long-term memory in planaria and its persistence through head regeneration'
 version: 1
 history:
@@ -40,4 +40,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Memory persisting through the loss and regrowth of the brain itself, the regeneration counterpart of metamorphosis. For QUESTION-tmpws54x.
+Memory persisting through the loss and regrowth of the brain itself, the regeneration counterpart of metamorphosis. For [QUESTION-tmpws54x](../questions.d/QUESTION-tmpws54x.md).
