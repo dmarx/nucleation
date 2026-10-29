@@ -1,0 +1,47 @@
+---
+number: 308
+status: Open
+formerly:
+- QUESTION-tmpcfxdl
+title: 'Do the process effects of implementation intentions, the immediacy, efficiency under load and running without conscious intent of the planned response and the better detection of its cue, survive correction for publication bias or preregistered replication, and do they mediate goal attainment rather than merely accompany it?'
+version: 1
+tags:
+- motivation
+- cognition
+- behavioral-integration
+date: '2026-10-29'
+line: will-organization
+refines:
+- QUESTION-095
+summary: >-
+  The promotion condition formerly on [THEORY-913](../theory.d/THEORY-913.md), moved here when the
+  tenth status review narrowed [THEORY-913](../theory.d/THEORY-913.md) to what the 2006 meta-analysis's
+  small, uncorrected pools showed, and promoted it, as [THEORY-285](../theory.d/THEORY-285.md)'s moved
+  to [QUESTION-303](QUESTION-303.md). Whether the effects are as large as reported, and
+  whether they carry the effect on goal attainment, is this question.
+---
+
+# QUESTION-308: Do the process effects of implementation intentions, the immediacy, efficiency under load and running without conscious intent of the planned response and the better detection of its cue, survive correction for publication bias or preregistered replication, and do they mediate goal attainment rather than merely accompany it?
+
+## Why it is a question
+
+[THEORY-913](../theory.d/THEORY-913.md) holds the 2006 component-process estimates: large effects from
+one to seven tests each, pooled with fixed effects and no correction for
+publication bias, which the 2024 review found substantial overall
+([THEORY-918](../theory.d/THEORY-918.md)). Only cue accessibility and the strength of the cue–response
+link were tested as mediators, in two studies. If the savings of later
+effort hold, implementation intentions are the plainest case the record
+holds of a decision cached and reused at lower cost, which is what
+[QUESTION-095](QUESTION-095.md) asks about.
+
+## What would answer it
+
+The 2006 chapter's sources pooled again with correction for publication
+bias, or a preregistered replication, showing the planned response faster,
+unaffected by load and running under subliminal cueing against
+goal-intention controls; and the processes tested as mediators of goal
+attainment, not only shown alongside it, for immediacy, efficiency and lack
+of intent as well as cue accessibility. Refuted if corrected or replicated
+estimates of the then-component effects fall to zero, or if plan effects
+survive with these processes blocked. More tests of goal attainment alone
+cannot settle it.

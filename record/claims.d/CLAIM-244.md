@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpqfgjl
 title: 'The defeat tests take one holistic, task-free judgement of fidelity as ground truth, though the line''s own theses say fidelity is task-relative, interpreter-relative and not a single ranking'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The ninth status review (ADR-057), on CLAIM-226's precedent of
+    2026-10-27: CLAIM-128, CLAIM-074 and CLAIM-106 leave rests_on. The
+    claim cites them as the line's own commitments, which its
+    objection turns against the defeat tests, not as premises it
+    asserts, and its body does not say which horn is right. The claim
+    is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -12,10 +22,6 @@ tags:
 - psychometrics
 date: '2026-10-10'
 line: pragmatic-transport
-rests_on:
-- CLAIM-128
-- CLAIM-074
-- CLAIM-106
 objects_to:
 - CLAIM-115
 - CLAIM-139

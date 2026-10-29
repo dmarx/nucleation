@@ -17,7 +17,6 @@ summary: >-
   manuscript takes the second horn in practice ([CLAIM-115](../claims.d/CLAIM-115.md)) but
   never argues against the first.
 answered_by:
-- CLAIM-002
 - CLAIM-111
 - CLAIM-137
 - CLAIM-151

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpspyay
 title: 'A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,14 @@ history:
     Applications": every reply from A31 on read this claim as a special
     case, and A37's reflexive governance of a perspective is filed as
     CLAIM-424, which complements it. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Grounds move from THEORY-071 to THEORY-1119, what Barandiaran,
+    Di Paolo and Rohde propose, split by the tenth status review on
+    THEORY-1110's pattern: the claim uses the conditions as stated, not
+    their truth. The body cites the split where it cites the proposal. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,7 +47,7 @@ line:
 rests_on:
 - CLAIM-025
 grounds:
-- THEORY-071
+- THEORY-1119
 uses:
 - TERM-045
 summary: >-
@@ -62,7 +70,7 @@ supports:
 - CLAIM-361
 ---
 <!-- inactive-ok-file: CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-165 CLAIM-194 CLAIM-288 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-165 CLAIM-194 CLAIM-288 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-284: A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists
 
@@ -93,7 +101,7 @@ regimes and transforming the governing organization can each persist or fail
 on their own. "Participates in governing the conditions of its own ...
 transformation" requires the third, so the claim needs the three to be
 separable. It is grounded in Barandiaran, Di Paolo and Rohde's conditions
-([THEORY-071](../theory.d/THEORY-071.md)), which A11 recommended registering ("I would make this a
+([THEORY-1119](../theory.d/THEORY-1119.md)), which A11 recommended registering ("I would make this a
 foundational comparison and check whether it already has a Nucleation
 literature record"). The record holds it as [LIT-566](../literature.d/LIT-566.md), read in full on
 2026-10-03 ([NOTE-458](../notes.d/NOTE-458.md)).

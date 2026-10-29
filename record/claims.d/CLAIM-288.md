@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpzn7l2
 title: 'In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller''s, not set by the organization itself'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -23,10 +23,18 @@ history:
     modeller fixed cannot show self-constitution, because the norms
     the organization appears to maintain are then the modeller's,
     not set by the organization itself".
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Grounds move from THEORY-071 to THEORY-1119, what Barandiaran,
+    Di Paolo and Rohde propose, split by the tenth status review on
+    THEORY-1110's pattern: the claim uses the conditions as stated, not
+    their truth. The body cites the split where it cites the proposal. The
+    claim is unchanged.
 role: counter
 warrant: interpretive
 grounds:
-- THEORY-071
+- THEORY-1119
 - LIT-1017
 - THEORY-219
 - THEORY-220
@@ -58,7 +66,7 @@ objected_by:
 - CLAIM-356
 ---
 <!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, the reading this claim cites him for, open like the claim -->
-<!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument this claim undercuts, split from it under ADR-061 -->
 
 # CLAIM-288: In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller's, not set by the organization itself
@@ -76,7 +84,7 @@ discounted policy evaluation, and constrained endogenous endorsement."
 In the model the exchange built, each operator is rewarded for something
 the modeller wrote down. In A2 §6 it is J_i = E[Q_i(a*, c)] − λ_i Cost(E_i).
 In A6 §1 it is discounted reward r_i. Barandiaran, Di Paolo and Rohde
-([THEORY-071](../theory.d/THEORY-071.md), read in [NOTE-458](../notes.d/NOTE-458.md)) derive that "Systems optimizing an externally
+([THEORY-1119](../theory.d/THEORY-1119.md), read in [NOTE-458](../notes.d/NOTE-458.md)) derive that "Systems optimizing an externally
 fixed function are not models of agency" (C5), because normativity must be
 "Regulation against a condition that can be failed, with the condition set
 by the system's organization." Di Paolo (2005, [LIT-1017](../literature.d/LIT-1017.md)) makes the same

@@ -12,7 +12,7 @@
 ## From The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones
 
 - [CLAIM-008](../record/claims.d/CLAIM-008.md) — The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones *(Superseded)*
-  - [CLAIM-042](../record/claims.d/CLAIM-042.md) — Levels organize observables, not objects: a communicative object is identified by the intersection of constraint regions picked out by observables at several levels *(Proposed)*
+  - [CLAIM-042](../record/claims.d/CLAIM-042.md) — The levels at which communicative observables exist organize observables, not objects: a communicative object is identified jointly by constraints from observables at several levels, which, where those observables share one state space, is the intersection of the regions they pick out *(Active)*
 
 ## From In translation the pragmatic frame does not merely select a description of meaning but participates in determining which meaning becomes actual
 
@@ -27,7 +27,7 @@
 ## From Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant
 
 - [CLAIM-015](../record/claims.d/CLAIM-015.md) — Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant *(Superseded)*
-  - [CLAIM-113](../record/claims.d/CLAIM-113.md) — Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant *(Proposed)*
+  - [CLAIM-113](../record/claims.d/CLAIM-113.md) — Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant *(Active)*
 
 ## From The pragmatic identity of an utterance is partly constituted by the context-dependent transformations it induces, so pragmatic fidelity is an approximate structure-preserving correspondence between source and target dynamics
 

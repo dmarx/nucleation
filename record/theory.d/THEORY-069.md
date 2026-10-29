@@ -23,7 +23,13 @@ promote_when: >-
   and which shows reach, not that the bimanual transition is what the
   model says.
 title: 'Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The tenth status review adds a dated note on what holds it back. The
+    claim and status are unchanged.
 tags:
 - behavioral-integration
 - complex-systems
@@ -145,3 +151,15 @@ read.
   for relative coordination between people, the second as a system already
   explained by its own collective variable, which a Markov-blanket
   partition does not improve on.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the tenth status review. [NOTE-467](../notes.d/NOTE-467.md) read Kelso's
+retrospective in full, but it reports the bimanual data rather than showing
+them: critical fluctuations and slowing are its C2, "not shown in this
+paper", and hysteresis is derived by the record from Eq. (1), not reported.
+The 1985 paper ([LIT-588](../literature.d/LIT-588.md)) is Unavailable, Schöner, Haken and Kelso (1986) is
+not filed, and no independent replication is read. A split on
+[THEORY-1110](THEORY-1110.md)'s pattern would free nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md), and
+[CLAIM-172](../claims.d/CLAIM-172.md) grounds on [THEORY-265](THEORY-265.md) and is objected to by [CLAIM-165](../claims.d/CLAIM-165.md), all
+Proposed.

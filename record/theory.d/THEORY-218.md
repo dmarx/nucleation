@@ -1,23 +1,28 @@
 ---
 number: 218
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbrxww
-promote_when: >-
-  Promoted by a study across many artworks of one crowd-built canvas that
-  pairs the placement log with time-stamped coordination records (forum or
-  chat decisions, template or overlay revisions) and shows that (a) changes
-  in an artwork's placements follow revisions of its design, with a lag, far
-  more often than the reverse, (b) those revisions are made or approved by a
-  small, identifiable set of accounts, and (c) at least some placement
-  patterns that a behaviour-only method assigns to one group belong, by the
-  coordination record, to others. Refuted if designs mostly follow what
-  placers have already done, so that the forum records rather than directs,
-  or if decision-making is spread across the forum with no core. What cannot
-  settle it: more excerpts from single artworks, or centrality scores that
-  participants never saw, unless they are tied to what was placed.
-title: 'The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated'
-version: 1
+title: 'In one case study of the 2017 r/place Mona Lisa, what was added to or removed from the image was, once its forum opened, decided off the canvas, in a forum of 161 accounts negotiating through linked design images, where a few central members admitted or refused additions, and the forum''s changes then appeared in a region where about 77,000 accounts placed tiles, most of whom never posted; how many placers followed the designs is not measured, and the authors argue that the placement record alone cannot show who directed the image or who cooperated'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057; ADR-047's
+    evidence ruling, one study read in full for a title that claims no
+    more than it showed). NOTE-733 read the paper in full. The title now
+    names the one artwork, and says that whether placers followed the
+    designs was not measured, as the paper says. The old title: The
+    content of a crowd-built r/place artwork is decided off the canvas,
+    in negotiation through shared design images, where a few central
+    members admit or refuse additions, and carried out by placers who
+    mostly never join the discussion, so the placement record shows the
+    outcome of coordination but not who directed it or who cooperated.
+    The promote_when asked for a study across many artworks, which the
+    title never claimed, and moves unchanged to QUESTION-306, as
+    THEORY-285's did to QUESTION-303. CLAIM-274 and CLAIM-279 now cite
+    this reading as corroboration, not grounds (ADR-058).
 tags:
 - social-science
 - society-and-governance
@@ -37,14 +42,13 @@ summary: >-
   their "instruction" is Reddit's rules, not planners' orders.
 supports:
 - CLAIM-272
-- CLAIM-279
-- CLAIM-274
 bears_on:
 - QUESTION-084
+- QUESTION-306
 ---
 <!-- inactive-ok-file: CLAIM-272 CLAIM-279 CLAIM-280 THEORY-224 — Proposed; open claims and sister readings, cited as what this bears on, nothing here rests on their being settled -->
 
-# THEORY-218: The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated
+# THEORY-218: In one case study of the 2017 r/place Mona Lisa, what was added to or removed from the image was, once its forum opened, decided off the canvas, in a forum of 161 accounts negotiating through linked design images, where a few central members admitted or refused additions, and the forum's changes then appeared in a region where about 77,000 accounts placed tiles, most of whom never posted; how many placers followed the designs is not measured, and the authors argue that the placement record alone cannot show who directed the image or who cooperated
 
 ## Source
 
@@ -106,11 +110,11 @@ and snapshots it led.
   one case. How much influence it carried is not measured. Wu & Silva
   ([THEORY-216](THEORY-216.md), [NOTE-724](../notes.d/NOTE-724.md)) add a second source of inequality that
   needs no plan: unequal use of the cap.
-- **[CLAIM-279](../claims.d/CLAIM-279.md) (supports).** Whether an addition is damage or part of
+- **[CLAIM-279](../claims.d/CLAIM-279.md) (corroborates).** Whether an addition is damage or part of
   the image was decided by negotiation, relative to a design that itself
   changed. The Swiss flag was an intrusion on the first design and part of
   the second.
-- **[QUESTION-084](../questions.d/QUESTION-084.md) (answers, in part).** It argues for the question's
+- **[QUESTION-084](../questions.d/QUESTION-084.md) (bears on).** It argues for the question's
   second horn, that a record of coordination is needed, and shows what
   such a record reveals: gatekeeping, diplomacy, and an affiliation the
   placements would misread. It does not show that no behavioural method

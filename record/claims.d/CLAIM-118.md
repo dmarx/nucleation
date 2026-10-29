@@ -1,10 +1,10 @@
 ---
 number: 118
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpxrgp3
-title: 'Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter'
-version: 2
+title: 'Context and interpreter are separate sources of interpretive change, told apart by what each carries and not by mechanism: what the current context supplies, whether held in activations or in weights updated on it and discarded after, is the signal; what earlier contexts have left in the interpreter and it carries into new ones is the interpreter; and improving the signal differs from improving the interpreter'
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -15,13 +15,59 @@ history:
     the case for at the level of the whole model, and THEORY-481
     (LIT-859, the outer training that produces the in-context learner).
     The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Relations corrected by the ninth status review (ADR-057, ADR-058).
+    THEORY-481 and THEORY-439 move from grounds to corroborated_by:
+    both were added in version 2 as evidence with the claim unchanged,
+    and the body cites them as a solved case and a measured case that
+    do not settle it. THEORY-169 leaves grounds: the body cites it as
+    evidence against, and its citation there is the link. LIT-859
+    leaves grounds, since THEORY-481 reads it. The Eq. 11 sentence now
+    carries THEORY-481's correction. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057). Restated by what each history
+    carries, as CLAIM-074 now is (A44's 'contextual' and
+    'adaptational' history): a per-sequence or per-task weight update
+    that is discarded is part of what the context supplies.
+    THEORY-169's identity of conditioning and per-sequence weight
+    updates then falls inside the signal and is no longer evidence
+    against. THEORY-439 leaves corroborated_by: its test-time update
+    is discarded after the task, so it shows two uses of one context
+    differ, not context against interpreter; the body still cites it.
+    The blocker note of this date is replaced. The old title: Context
+    and interpreter are separate sources of interpretive change:
+    in-context conditioning changes the effective decoding context,
+    adaptation changes the decoder, and improving the signal differs
+    from improving the interpreter. The old defeated_if: Changes of
+    interpretation produced by in-context conditioning and by
+    adaptation of the interpreter are behaviourally indistinguishable:
+    equally persistent, equally transferable, and predicted by the
+    same model.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted by the tenth status review on the owner's delegated
+    ruling of 2026-10-29: test-time training whose update is discarded
+    after the task is part of what the context supplies, the signal,
+    as CLAIM-074 already states it and A44 §3B's caution about the
+    term allows; the manuscript's §5 sentence that test-time training
+    modifies the decoder is read as a remark about mechanism, which
+    this claim no longer uses. It has no premise and no objection,
+    nothing in the record meets its defeat condition, and THEORY-481
+    (Active) corroborates it. The blocker note above is answered by
+    this ruling. Status Proposed to Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Changes of interpretation produced by in-context conditioning and by
-  adaptation of the interpreter are behaviourally indistinguishable:
-  equally persistent, equally transferable, and predicted by the same
-  model.
+  What an interpreter's history has left in it can always be matched by
+  context alone: for every adapted interpreter there is a fixed preamble
+  that, supplied to the unadapted one, reproduces its interpretations of
+  every later context, so that the carried change and the supplied one
+  are one source, predicted by one model.
 tags:
 - philosophy-of-language
 - representation-learning
@@ -29,10 +75,7 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
-grounds:
-- LIT-859
-- THEORY-169
-- THEORY-439
+corroborated_by:
 - THEORY-481
 summary: >-
   A43's first point about the U17 proposal, developed at A44–A45 into
@@ -41,10 +84,9 @@ summary: >-
 supports:
 - CLAIM-074
 ---
-<!-- inactive-ok-file: THEORY-481 — Proposed; the outer training of the in-context learner, cited as evidence on one side, not as settled -->
 <!-- inactive-ok-file: CLAIM-074 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-118: Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter
+# CLAIM-118: Context and interpreter are separate sources of interpretive change, told apart by what each carries and not by mechanism: what the current context supplies, whether held in activations or in weights updated on it and discarded after, is the signal; what earlier contexts have left in the interpreter and it carries into new ones is the interpreter; and improving the signal differs from improving the interpreter
 
 ## The claim
 
@@ -68,25 +110,30 @@ fidelity ([CLAIM-074](CLAIM-074.md)) is not in the manuscript.
 
 ## What the in-context-learning readings say
 
-The evidence is mixed:
+Read by what each change carries:
 
-- **Against, at the level of the layer.** In linear attention, conditioning
-  on a context is one gradient step of an inner learner (Sun et al.,
-  [LIT-801](../literature.d/LIT-801.md); von Oswald et al., [LIT-792](../literature.d/LIT-792.md); [THEORY-169](../theory.d/THEORY-169.md)). So in
-  that class of system, context and interpreter are the same computation.
-- **For, at the level of the whole model.** Akyürek et al. ([LIT-796](../literature.d/LIT-796.md))
-  hold the demonstrations fixed and also update the weights on them, and
-  that beats conditioning alone (BIG-Bench Hard 50.5% to 57.8%). The two
-  are behaviourally distinguishable.
+- **Per-sequence learning is the signal.** In unnormalized causal linear
+  attention, conditioning on a context is one gradient step of an inner
+  learner (Sun et al., [LIT-801](../literature.d/LIT-801.md); von Oswald et al., [LIT-792](../literature.d/LIT-792.md); [THEORY-169](../theory.d/THEORY-169.md)),
+  and the learned state is discarded with the sequence. The identity is
+  between two descriptions of what the current context supplies. Nothing
+  in it is carried into the next sequence, so it does not merge context
+  and interpreter.
+- **Two uses of one context differ.** Akyürek et al. ([LIT-796](../literature.d/LIT-796.md),
+  [THEORY-439](../theory.d/THEORY-439.md)) update the weights on the demonstrations, discard the update
+  after the task, and beat conditioning alone (BIG-Bench Hard 50.5% to
+  57.8%). Both are uses of the current context, so this shows that how a
+  signal is used matters, not that the interpreter changed.
 
 ## An exactly solved case of the separation
 
 Mainali and Teixeira ([LIT-859](../literature.d/LIT-859.md), read in [NOTE-658](../notes.d/NOTE-658.md)) solve the training of one
 linear-attention layer on in-context regression exactly, when tasks and
 inputs share an eigenbasis. Training ends at a known fixed point: a
-predictor that applies a preconditioner, the inverse of the *training*
-input covariance corrected for context length, to each context's own
-empirical covariance (their Eq. 11). Each eigenmode of the training
+predictor that applies a preconditioner, the inverse of the *training* input covariance (exactly so in the
+long-context limit; the paper's finite-context correction holds as stated
+only for isotropic inputs, [THEORY-481](../theory.d/THEORY-481.md)), to each context's own empirical
+covariance (their Eq. 11). In the long-context limit each eigenmode of the training
 covariance is learned on its own slow, logistic timescale.
 
 That bears on the "against" item above. [THEORY-169](../theory.d/THEORY-169.md) makes conditioning one
@@ -102,6 +149,40 @@ is. That is the claim's separation, at the level of the layer.
 It does not settle the claim. The case is one linear layer, with an
 assumption (weights staying in the shared eigenbasis) that is not derived,
 and the paper's evidence for non-linear transformers rests on timing
-coincidences ([NOTE-658](../notes.d/NOTE-658.md)). And the separation it shows is between the
-context and the trained interpreter, not between conditioning and later
-adaptation at test time.
+coincidences ([NOTE-658](../notes.d/NOTE-658.md)). And the interpreter it shows is the one
+training left, not one adapted after training and kept.
+
+## Note of 2026-10-29: restated by what each history carries
+
+The title told context from interpreter by mechanism, and [THEORY-169](../theory.d/THEORY-169.md) holds
+that in unnormalized causal linear attention conditioning and per-sequence
+weight updates "differ in what state is kept, not in kind". The claim is now
+stated by what each change carries, as [CLAIM-074](CLAIM-074.md) is (A44's "contextual" and
+"adaptational" history): a weight update computed from the current context
+and discarded after it is part of what the context supplies. [THEORY-169](../theory.d/THEORY-169.md)'s
+identity then falls inside the signal, and its own scope says the same ("Not
+about persistent change"). [THEORY-439](../theory.d/THEORY-439.md) leaves corroborated_by: its test-time
+update is discarded after the task, so it shows that two uses of one context
+differ, not that the interpreter changed. [THEORY-481](../theory.d/THEORY-481.md) stays: the outer
+weights carry a preconditioner fitted to the training distribution across
+contexts, and each context supplies only its own covariance.
+
+## Note of 2026-10-29: what holds it back
+
+Its promotion waits on the owner's ruling that test-time training whose
+update is discarded after the task is part of the signal. Manuscript §5 says
+test-time training "modifies the decoder itself", and the restatement
+departs from that sentence, though A44 §3B says "TTT terminology needs
+care". No premise or objection is on file, and nothing in the record meets
+its defeat condition.
+
+## Note of 2026-10-29: promoted
+
+The blocker above was the owner's ruling on discarded test-time training,
+which the owner left to the reviewing session's judgement: it is part of the
+signal. Where the manuscript (§5) says test-time training "modifies the
+decoder itself", that is a fact about where the update sits, and this claim
+tells the two sources apart by what is carried into later contexts, not by
+where a change sits. [THEORY-169](../theory.d/THEORY-169.md)'s identity of conditioning and per-sequence
+weight updates is then a fact about the signal side and does not tell
+against the claim.

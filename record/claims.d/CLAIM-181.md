@@ -3,8 +3,20 @@ number: 181
 status: Proposed
 formerly:
 - CLAIM-tmpas8q0
-title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost'
-version: 1
+title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057, ADR-059). CLAIM-419, promoted, is
+    conceded: a misfit that is noticed has been answered by amending
+    the grammar, so a move that fits nothing is forced or lost only
+    until the misfit is noticed. The old title: The record fixes the
+    grammar an argument is expressed in, though not its shape: its
+    closed vocabulary of schemes, roles and relations formalizes
+    early, and a move that fits no CLAIM, TERM, ARG or declared
+    relation is either forced into one or lost
 role: counter
 warrant: interpretive
 tags:
@@ -41,7 +53,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-756 — Unavailable; cited for the argument ADR-030 summarises it for, not for a reading here -->
 
-# CLAIM-181: The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost
+# CLAIM-181: The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
 
 ## The claim
 
@@ -139,3 +151,22 @@ crystal-growth works are registered and unavailable ([LIT-924](../literature.d/L
 The analogy's physics was stated from memory and has not been checked against
 that reading. Picked up while filing the exchange of 2026-10-27, whose A14 set
 nucleation beside instability ([QUESTION-281](../questions.d/QUESTION-281.md)).
+
+## Note of 2026-10-29: [CLAIM-419](CLAIM-419.md) conceded
+
+[CLAIM-419](CLAIM-419.md) answers this counter from the record's own decisions: [ADR-042](../decisions.d/ADR-042.md),
+[ADR-043](../decisions.d/ADR-043.md), [ADR-044](../decisions.d/ADR-044.md), [ADR-046](../decisions.d/ADR-046.md) and [ADR-049](../decisions.d/ADR-049.md) each met a move the grammar could not
+hold, and each amended the grammar. A misfit that is noticed is a third
+outcome beside forcing and loss, and the title now says so. What is left is
+the misfit nobody notices. [CASE-131](../cases.d/CASE-131.md) shows its shape before it was caught:
+the link fixer wrote a `rests_on` nobody asserted, and only a reader saw it.
+[ADR-032](../decisions.d/ADR-032.md)'s literature roles are the case where the misfit was noticed and the
+grammar was not amended, and they stay in prose.
+
+## Note of 2026-10-29: what holds it back
+
+Its own test is unmet. No move that mattered in an exchange is shown that
+the record still cannot hold, or holds only by distorting it: [CASE-131](../cases.d/CASE-131.md)'s
+distortion was caught and the grammar amended, and [ADR-032](../decisions.d/ADR-032.md)'s literature
+roles were declined by decision, not lost. Shipman and Marshall ([LIT-756](../literature.d/LIT-756.md)),
+whose finding it turns on the record, are unread.

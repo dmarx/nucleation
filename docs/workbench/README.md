@@ -6,6 +6,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 07:39 — The tenth status review: re-derivations checked, readings narrowed to what they measured, and two more proposal splits](2026-10.md#the-tenth-status-review-re-derivations-checked-readings-narrowed-to-what-they-measured-and-two-more-proposal-splits)
+- [29 Oct 07:17 — The ninth status review: eleven promotions, the Ainslie split, THEORY-481's correction checked numerically, and CLAIM-440 written up to its concessions](2026-10.md#the-ninth-status-review-eleven-promotions-the-ainslie-split-theory-481s-correction-checked-numerically-and-claim-440-written-up-to-its-concessions)
 - [29 Oct 06:24 — The eighth status review: the top of the reliance ranking, two TERMs adopted, three promotions, and CLAIM-349 moved onto CLAIM-027](2026-10.md#the-eighth-status-review-the-top-of-the-reliance-ranking-two-terms-adopted-three-promotions-and-claim-349-moved-onto-claim-027)
 - [29 Oct 05:52 — The seventh status review: the unwritten concessions written into their targets](2026-10.md#the-seventh-status-review-the-unwritten-concessions-written-into-their-targets)
 - [28 Oct 17:59 — The sixth status review: an argument the migration left Active, one promotion, two concessions written in, and readings that wait on results](2026-10.md#the-sixth-status-review-an-argument-the-migration-left-active-one-promotion-two-concessions-written-in-and-readings-that-wait-on-results)
@@ -106,8 +108,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-97 entries across 1 book, newest first.
+99 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 97 | 2026-10-07 | 2026-10-29 |
+| [2026-10](2026-10.md) | 99 | 2026-10-07 | 2026-10-29 |

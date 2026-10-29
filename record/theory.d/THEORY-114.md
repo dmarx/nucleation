@@ -1,25 +1,27 @@
 ---
 number: 114
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpn2rg2
-promote_when: >-
-  The onset measured outside image classification, and the aligned half
-  measured on more than MLPs. Frankle et al.'s onset covers six vision
-  networks, and Git Re-Basin's aligned onset covers MLPs on MNIST and
-  CIFAR-10 only. What would promote: in a language model or a transformer,
-  the barrier tracked against training time, with seeds, both between copies
-  spawned from a shared state and between independently initialized runs
-  aligned under the architecture's symmetry group, with each high at step 0
-  and falling to near zero later. Or the aligned onset reproduced for
-  standard-width convnets or ResNets. What would refute it: independently
-  initialized networks of practical width that are linearly connected after
-  alignment at step 0, under an alignment computed from the initial weights
-  alone. Or copies spawned at initialization of a standard deep network that
-  end up linearly connected. More vision networks with the same onset curve
-  cannot settle it.
-title: 'Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually'
-version: 1
+title: 'In image classification, linear mode connectivity appeared during training and not at initialization: copies of ResNet-20 and VGG-16 on CIFAR-10 and of ResNet-50 and Inception-v3 on ImageNet, trained from a shared state, became stable to SGD noise in test error only after 1.5–20% of training (LeNet on MNIST was stable from the start), and between independently initialized MLPs on MNIST and CIFAR-10 the barrier after weight-matching alignment was high at initialization and fell gradually through training'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057; ADR-047's
+    evidence ruling, one study read in full for a title that claims no
+    more than it showed). Frankle et al. (NOTE-514) and Git Re-Basin
+    (NOTE-532) were each read in full, one for each half. The title now
+    names the networks measured, and the exception at initialization,
+    LeNet. The old title: Linear mode connectivity emerges during
+    training, not at initialization: copies trained from a shared state
+    become stable to SGD noise after 1.5–20% of training, and
+    independently trained networks become linearly connected after
+    alignment only gradually. The promote_when asked for evidence outside
+    image classification and beyond MLPs, which the narrowed title does
+    not claim. It moves unchanged to QUESTION-312, as THEORY-285's
+    did to QUESTION-303.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -45,11 +47,12 @@ presupposed_by:
 - THEORY-115
 bears_on:
 - QUESTION-069
+- QUESTION-312
 ---
 <!-- inactive-ok-file: LIT-370 — Proposed; named as a re-measurement of the shared-state onset, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-109 THEORY-112 — Proposed; the account this extends, and the symmetry account filed with it, named in the body -->
 
-# THEORY-114: Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually
+# THEORY-114: In image classification, linear mode connectivity appeared during training and not at initialization: copies of ResNet-20 and VGG-16 on CIFAR-10 and of ResNet-50 and Inception-v3 on ImageNet, trained from a shared state, became stable to SGD noise in test error only after 1.5–20% of training (LeNet on MNIST was stable from the start), and between independently initialized MLPs on MNIST and CIFAR-10 the barrier after weight-matching alignment was high at initialization and fell gradually through training
 
 ## Source
 

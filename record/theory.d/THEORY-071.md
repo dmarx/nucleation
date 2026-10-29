@@ -22,7 +22,7 @@ promote_when: >-
   which is a different and thinner notion; or the bare assertion that
   some designed system is, or is not, an agent.
 title: 'Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -30,6 +30,14 @@ history:
     Levin's account is now filed as THEORY-583 and set as a rival:
     it makes any homeostat an agent, which this account denies. The Levin
     bullet in Connections names it.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    What the paper proposes is split off as THEORY-1119, Active, by
+    the tenth status review on THEORY-1110's pattern. CLAIM-194, CLAIM-284
+    and CLAIM-288 use the conditions as stated, not their truth, and now
+    ground on it. This entry keeps the question whether the definition is
+    right, and its promote_when. A dated note says what holds it back.
 tags:
 - agency
 - individuation
@@ -57,10 +65,6 @@ summary: >-
 rivals:
 - THEORY-208
 - THEORY-583
-supports:
-- CLAIM-194
-- CLAIM-284
-- CLAIM-288
 bears_on:
 - QUESTION-032
 ---
@@ -205,3 +209,15 @@ constraints on the system."
 - **Biological Autonomy ([LIT-536](../literature.d/LIT-536.md))** has a chapter on agency (chapter 4).
   It is unread, and the paper's autonomy is wider than that book's
   metabolic one.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the tenth status review. [NOTE-458](../notes.d/NOTE-458.md) read the paper in full,
+and it argues from cases. The test its promote_when names is not in the
+record: the three conditions, with an asymmetry criterion that does not
+depend on how the modeller splits parameters from variables, applied to
+explicit models (a protocell, an evolved controller, a homeostat) and
+matching Table 1 without being tuned to it. The authors call that criterion
+incomplete. The disagreement with [THEORY-583](THEORY-583.md) over the homeostat is
+unresolved. What the paper proposes is now [THEORY-1119](THEORY-1119.md), Active, and
+the claims that need only the proposal ground on it.

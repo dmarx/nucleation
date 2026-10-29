@@ -1,21 +1,27 @@
 ---
 number: 923
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpydeuq
-promote_when: >-
-  An empirical test, not another simulation: animals or people whose
-  choices are fitted by this scheme, with the habit's prior and transitions
-  estimated from their own history, showing that the amount of prior
-  practice that the fitted counts imply predicts insensitivity to
-  devaluation, and that the same fits predict immediate switching when
-  devaluation comes before that point. It is refuted, as an account of
-  habit, if devaluation sensitivity is lost under training regimes where
-  the fitted policy counts stay low, or kept where they are high. A
-  simulation in another task cannot settle it; the authors themselves say
-  the scheme makes probably no new behavioural predictions.
-title: "In a simulated active inference agent, a habit learned by counting the agent's own state transitions and policy choices emerges from goal-directed behaviour, and once acquired it persists, and reinforces itself, after the reward is devalued, while an agent devalued before acquisition switches at once"
-version: 1
+title: 'In one simulated T-maze task with hand-set parameters, run once per condition, an active inference agent''s habit, learned by counting its own state transitions and policy choices, emerged from goal-directed behaviour, and once acquired it persisted, and reinforced itself, after the reward was devalued, while an agent devalued before acquisition switched at once'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057;
+    ADR-047's evidence ruling, read in full in NOTE-1138, the
+    figures from their captions). The title now claims only what the
+    one task, run once per condition, showed. The old title: In a
+    simulated active inference agent, a habit learned by counting
+    the agent's own state transitions and policy choices emerges
+    from goal-directed behaviour, and once acquired it persists, and
+    reinforces itself, after the reward is devalued, while an agent
+    devalued before acquisition switches at once. The promote_when
+    asked for an empirical test the title never claimed, and moves
+    unchanged to QUESTION-313, as THEORY-285's did to
+    QUESTION-303. CLAIM-443 now lists this reading under
+    corroborated_by, not grounds (ADR-058).
 tags:
 - learning-and-conditioning
 - probabilistic-modeling
@@ -31,12 +37,12 @@ summary: >-
   count, not by reward. It shows persistence under devaluation, a cached
   mapping failing when what is appropriate changes; it does not show
   amortization, and its reaction times are simulation run times.
-supports:
-- CLAIM-443
+bears_on:
+- QUESTION-313
 ---
 <!-- inactive-ok-file: CLAIM-443 THEORY-062 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 
-# THEORY-923: In a simulated active inference agent, a habit learned by counting the agent's own state transitions and policy choices emerges from goal-directed behaviour, and once acquired it persists, and reinforces itself, after the reward is devalued, while an agent devalued before acquisition switches at once
+# THEORY-923: In one simulated T-maze task with hand-set parameters, run once per condition, an active inference agent's habit, learned by counting its own state transitions and policy choices, emerged from goal-directed behaviour, and once acquired it persisted, and reinforced itself, after the reward was devalued, while an agent devalued before acquisition switched at once
 
 ## Source
 

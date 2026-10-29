@@ -1,10 +1,24 @@
 ---
 number: 42
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpc6h7z
-title: 'Levels organize observables, not objects: a communicative object is identified by the intersection of constraint regions picked out by observables at several levels'
-version: 1
+title: 'The levels at which communicative observables exist organize observables, not objects: a communicative object is identified jointly by constraints from observables at several levels, which, where those observables share one state space, is the intersection of the regions they pick out'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted at the ninth status review (ADR-057). It
+    was: Levels organize observables, not objects: a communicative
+    object is identified by the intersection of constraint regions
+    picked out by observables at several levels. The title made the
+    object an intersection while 'What it does not say' denied that
+    the intersection lives in one shared space, which an intersection
+    needs; CLAIM-038 (A78) states the general case, so the
+    intersection is now named as the shared-space case. 'Levels' is
+    scoped to TERM-009's. defeated_if is unchanged. Status Proposed to
+    Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,11 +50,11 @@ supports:
 - CLAIM-119
 ---
 <!-- ref::uses-file: TERM-009 — stated in "levels, as levels at which observables exist"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- ref::uses-file: TERM-042 — TERM-042's context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case this claim states (the manuscript keeps it as that special case, §2); until 2026-10-27 it used TERM-022, now Superseded -->
+<!-- ref::uses-file: TERM-042 — TERM-042's context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case the title names last (the manuscript keeps it as that special case, §2); until 2026-10-27 it used TERM-022, now Superseded -->
 <!-- inactive-ok-file: CLAIM-008 TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-042: Levels organize observables, not objects: a communicative object is identified by the intersection of constraint regions picked out by observables at several levels
+# CLAIM-042: The levels at which communicative observables exist organize observables, not objects: a communicative object is identified jointly by constraints from observables at several levels, which, where those observables share one state space, is the intersection of the regions they pick out
 
 ## The claim
 
@@ -61,8 +75,11 @@ such regions."
 
 ## What it does not say
 
-That the intersection lives in one shared space: A78 generalized it to local
-sections ([CLAIM-038](CLAIM-038.md)), and the manuscript keeps both. Nor that similarity is
+That the observables always share one state space, so that the object is
+always an intersection: A78 generalized it to local sections ([CLAIM-038](CLAIM-038.md)),
+and the manuscript keeps both. Nor anything about levels of organization
+of systems: the levels here are [TERM-009](../terms.d/TERM-009.md)'s, at which communicative
+observables exist. Nor that similarity is
 overlap: A75 rejected μ(X_u ∩ X_v)/μ(X_u ∪ X_v) in the same reply because
 "source and target regions may inhabit different observational spaces", which
 needs a correspondence of observables (the manuscript's τ, §6).
@@ -70,5 +87,13 @@ needs a correspondence of observables (the manuscript's τ, §6).
 ## Note of 2026-10-27: stated in the live term
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-022](../terms.d/TERM-022.md),
-which is Superseded. It now uses [TERM-042](../terms.d/TERM-042.md): [TERM-042](../terms.d/TERM-042.md)'s context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case this claim states (the manuscript keeps it as that special case, §2). The claim's status is not
+which is Superseded. It now uses [TERM-042](../terms.d/TERM-042.md): [TERM-042](../terms.d/TERM-042.md)'s context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case the title names last (the manuscript keeps it as that special case, §2). The claim's status is not
 changed by this.
+
+## Note of 2026-10-29: narrowed and promoted
+
+Promoted on [TERM-009](../terms.d/TERM-009.md) and [TERM-042](../terms.d/TERM-042.md), both Active, with no objection filed;
+its one objects_to target, [CLAIM-008](CLAIM-008.md), is Superseded by it. Nothing the
+record holds meets defeated_if: no reading shows a communicative category
+fixed by one level's observables ([NOTE-680](../notes.d/NOTE-680.md) calls its own bearing weak).
+The title was narrowed in the same revision, as the history says.

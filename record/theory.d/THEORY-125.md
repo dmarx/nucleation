@@ -49,9 +49,7 @@ summary: >-
   offered as "intuitively plausible" pending anthropological data.
   Proposed.
 supports:
-- CLAIM-039
 - CLAIM-355
-- CLAIM-432
 bears_on:
 - QUESTION-053
 ---

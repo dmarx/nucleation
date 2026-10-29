@@ -1,13 +1,13 @@
 ---
 number: 297
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp9muwf
 title: When an operator's authority is updated by how well it performs on the interpretation
   it helped make dominant, the coupled meaning and influence of an organization
   can amplify an initial interpretive advantage without any gain in fidelity to
   independent evidence
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -15,6 +15,25 @@ history:
     A dated note added: two running realizations of the circuit without
     retrieval (CASE-162), and why they are not the analysis the
     defeater names. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Ninth status review (ADR-057). Promoted, on the owner's assent in
+    the pull request, which takes a stipulated linearization as
+    showing "can" (CLAIM-330's caveat: the signs and the size of γ are
+    assumptions about an unbuilt model). Both premises are Active,
+    CLAIM-275 since the eighth review, and no objection is filed. The
+    first defeater is contradicted in the linearization: CLAIM-330
+    shows a rule scoring operators against the dominant
+    interpretation, with βγ > (1 − α)(1 − δ), destabilizing CASE-092's
+    symmetric state, and CASE-092's hypotheses have comparable
+    evidence, so the lean that grows is set by framing and gains no
+    fidelity. The second defeater, a matched fixed-weight
+    adaptive-retrieval process, is the ablation CASE-092 names, not
+    yet run. The summary's "An existence hypothesis until a model
+    (CASE-092) is analysed. If the influence field adds nothing to
+    ordinary adaptive retrieval, CLAIM-278 stands against it." is
+    updated. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,7 +41,8 @@ defeated_if: >-
   rule that scores operators against the current dominant interpretation, small
   framing asymmetries decay. Or one showing the coupled model's trajectories are
   reproduced by a single adaptive-retrieval process of matched capacity with fixed
-  operator weights, so that the influence field forbids nothing more (CLAIM-278).
+  operator weights, so that the influence field forbids nothing more (CLAIM-278's
+  objection, now ARG-036).
 tags:
 - self-governance
 - complex-systems
@@ -41,9 +61,11 @@ complements:
 summary: >-
   A22's narrow claim and A23 VIII.E's central hypothesis, from the owner's U22:
   connect retrieval-mediated anchoring to the record's distributed agent as dual
-  meaning and influence canvases ([CLAIM-285](CLAIM-285.md), [TERM-053](../terms.d/TERM-053.md)). An existence hypothesis
-  until a model ([CASE-092](../cases.d/CASE-092.md)) is analysed. If the influence field adds nothing
-  to ordinary adaptive retrieval, [CLAIM-278](CLAIM-278.md) stands against it.
+  meaning and influence canvases ([CLAIM-285](CLAIM-285.md), [TERM-053](../terms.d/TERM-053.md)). Its existence is shown in the linearization of a model of
+  the kind in CASE-092 (CLAIM-330); the nonlinear model is unanalysed
+  (QUESTION-100). If the influence field adds nothing to ordinary adaptive
+  retrieval, the objection once filed as CLAIM-278, now ARG-036, stands
+  against it.
 supports:
 - CLAIM-341
 - CLAIM-336

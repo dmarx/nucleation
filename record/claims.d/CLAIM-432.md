@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpi98gg
 title: 'A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda''s sense, so psychopathy''s affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation''s concerns; that profile, threat without remorse, is the construct''s, and it is changed by redesigning the corporation''s concerns, not its members'' characters'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-23'
@@ -16,6 +16,13 @@ history:
     tollens; the defeater now says so. The statement is unchanged. A
     dated note relates the claim to the reading of valence as
     ordering-potential (CLAIM-440).
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Ninth status review (ADR-058). THEORY-125 moved from grounds to
+    corroborated_by: the body does not cite it, and Huebner argues the
+    same possibility of an unfelt group emotion independently, as for
+    CLAIM-039. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,11 +63,12 @@ grounds:
 - THEORY-055
 - THEORY-131
 - THEORY-139
-- THEORY-125
 - THEORY-892
 - CASE-151
 - LIT-1430
 - LIT-1426
+corroborated_by:
+- THEORY-125
 summary: >-
   The record's reading of Bakan's "institutional psychopath", filed at the
   owner's request on 2026-10-23 and revised the same day when the owner

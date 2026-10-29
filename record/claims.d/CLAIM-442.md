@@ -4,7 +4,26 @@ status: Proposed
 formerly:
 - CLAIM-tmp0jfuz
 title: 'Frijda''s emotion and the potential account''s system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective''s valence is read on its claims, and the system''s valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system''s valence and leaves the perspectives'' emotions and valences as they were'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Ninth status review (ADR-057, ADR-058). THEORY-055 left grounds
+    and TERM-094 joined uses: the claim needs Frijda's concept of
+    action readiness claiming control precedence, not the account's
+    thesis that appraisal of concern pertinence elicits emotion. The
+    claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Tenth status review (ADR-057). CLAIM-437 moves from complements to
+    rests_on: the title's third leg, that a perspective's valence is
+    read on its claims, is CLAIM-437's relativity of valence.
+    CLAIM-440 stays a complement: the grant side is the potential
+    account's definition, which TERM-076 in uses carries, and the
+    claim reads valence on that account without asserting it. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,15 +43,14 @@ line:
 - will-organization
 rests_on:
 - CLAIM-283
-complements:
 - CLAIM-437
+complements:
 - CLAIM-440
 - CLAIM-156
 uses:
 - TERM-076
 - TERM-017
-grounds:
-- THEORY-055
+- TERM-094
 summary: >-
   The assistant's, from a comparison of the record's will and affect
   lines made at the owner's request on 2026-10-23 and filed at the
@@ -106,3 +124,11 @@ valence is the pattern of grants over time, of a particular kind.
 - That either side is felt. That is [CLAIM-439](CLAIM-439.md)'s question.
 - That the gap is always measurable. A perspective that never wins may
   leave little trace of its claim in conduct.
+
+## Note of 2026-10-29: what holds it back
+
+Its premise [CLAIM-437](CLAIM-437.md), which makes valence relative to a perspective, is
+Proposed, and so is [TERM-076](../terms.d/TERM-076.md), the account's valence it reads on the grant
+side. Its sharp edge, that suspending a motive's hold on action leaves the
+motive's emotion as it was, rests on "the report usually given" of mindful
+attention, which no reading in the record measures.

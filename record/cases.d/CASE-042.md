@@ -22,7 +22,6 @@ line: 'pragmatic-transport'
 illustrates:
 - CLAIM-148
 - CLAIM-146
-- CLAIM-135
 summary: >-
   Proposed as a laboratory by the owner at U57 and conceded as prior art
   after the owner's U58. Collaborative filtering recovers a user–item

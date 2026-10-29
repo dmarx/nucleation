@@ -1,21 +1,30 @@
 ---
 number: 904
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8y1fr
-promote_when: >-
-  A test that crosses plan against no plan with the goal intention
-  activated against deactivated, or strong against weak, measured or
-  manipulated before the cue arrives, in samples large enough for a null
-  in the weak or deactivated cells, and finds the plan effect present only
-  with the goal; preferably repeated after the plan has been acted on many
-  times, since repetition is where a cue-triggered response could come
-  loose from its goal. It is refuted if planned responses run as strongly
-  with the goal deactivated, or if after repetition they fire regardless.
-  Between-test comparisons of motivation in a meta-analysis cannot settle
-  it.
-title: "Implementation intentions affect performance only when the goal intention they serve is strong and activated, so the cue-triggered response is gated by the goal and does not fire on the cue alone: a narrative conclusion from a handful of studies in 2006, matched in 2024 by large plan effects under high motivation (d = .79, k = 8) and none for physical activity when intentions were weak"
-version: 1
+title: 'Gollwitzer and Sheeran (2006) conclude, narratively from a handful of studies that measured or manipulated the goal intention, that implementation intentions affect performance only when the goal intention they serve is strong and activated, so the planned response is not elicited mechanically by its cue; in 2024, across eight tests, plan effects were larger with strong, activated or self-concordant goal intentions than with weak, unactivated or self-discordant ones (d = .79 for the difference), and in 31 physical-activity tests split at the median of intention, planning helped with strong intentions (d = .31) and had no effect with weak ones (d ≈ 0)'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the tenth status review (ADR-057;
+    ADR-047's evidence ruling, sources read in full in NOTE-1124 and
+    NOTE-1131, for a title that claims no more than they showed).
+    The old title stated the gate as a finding and read the 2024
+    moderator as a plan effect; d = .79 is the difference between
+    strong and weak goal intentions (LIT-1488, pp. 173, 177). The
+    old title: Implementation intentions affect performance only
+    when the goal intention they serve is strong and activated, so
+    the cue-triggered response is gated by the goal and does not
+    fire on the cue alone: a narrative conclusion from a handful of
+    studies in 2006, matched in 2024 by large plan effects under
+    high motivation (d = .79, k = 8) and none for physical activity
+    when intentions were weak. The promote_when, a crossed test of
+    plan against goal, moves unchanged to QUESTION-314, as
+    THEORY-285's did to QUESTION-303. CLAIM-443 now lists this
+    reading under corroborated_by, not grounds (ADR-058).
 tags:
 - motivation
 - behavioral-integration
@@ -32,12 +41,12 @@ summary: >-
   Gollwitzer (2024), [LIT-1488](../literature.d/LIT-1488.md), read in [NOTE-1131](../notes.d/NOTE-1131.md), find the
   pattern across tests. Neither tests what happens when the planned
   response becomes the wrong one.
-supports:
-- CLAIM-443
+bears_on:
+- QUESTION-314
 ---
-<!-- inactive-ok-file: CLAIM-349 CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-904: Implementation intentions affect performance only when the goal intention they serve is strong and activated, so the cue-triggered response is gated by the goal and does not fire on the cue alone: a narrative conclusion from a handful of studies in 2006, matched in 2024 by large plan effects under high motivation (d = .79, k = 8) and none for physical activity when intentions were weak
+# THEORY-904: Gollwitzer and Sheeran (2006) conclude, narratively from a handful of studies that measured or manipulated the goal intention, that implementation intentions affect performance only when the goal intention they serve is strong and activated, so the planned response is not elicited mechanically by its cue; in 2024, across eight tests, plan effects were larger with strong, activated or self-concordant goal intentions than with weak, unactivated or self-discordant ones (d = .79 for the difference), and in 31 physical-activity tests split at the median of intention, planning helped with strong intentions (d = .31) and had no effect with weak ones (d ≈ 0)
 
 ## Source
 
@@ -76,6 +85,9 @@ cue-to-action link with no gate would do.
   may fire without the goal. Not tested here.
 - **That the evidence is pooled.** The 2006 conclusion is narrative; the
   2024 moderator is between tests, k = 8.
+- **That the gate is all-or-none.** The 2024 figure is a difference
+  between tests (d = .79, k = 8), not a null in the weak cells; only the
+  physical-activity split found an effect near zero.
 
 ## Connections
 

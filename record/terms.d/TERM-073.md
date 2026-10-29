@@ -1,19 +1,27 @@
 ---
 number: 73
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpgqmop
 complements:
 - TERM-026
 - TERM-072
 title: 'interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
   note: >-
     Note of 2026-10-22 added, from the readings of that day: which uses in
     the read works are this sense. The definition is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Part 3 now keeps significance apart from efficacy, as TERM-072
+    sense 1 and CLAIM-414 already do; the old text was 'The
+    distinction changes what the system expects, attends to, regulates
+    or can do next.' Adopted by the ninth status review, on the
+    owner's ruling in the pull request.
 tags:
 - cognition
 - consciousness
@@ -27,7 +35,7 @@ summary: >-
   can change the state later interpretations act on, as [TERM-026](TERM-026.md)'s frame
   does. It is defined without experience, so unconscious perception, a
   classifier or a regulator interprets in this sense. That is the cost
-  [CLAIM-411](../claims.d/CLAIM-411.md) names. Proposed: whether to adopt it is the owner's call.
+  [CLAIM-411](../claims.d/CLAIM-411.md) names. Adopted 2026-10-29, with significance kept apart from efficacy.
 used_by:
 - CLAIM-412
 - CLAIM-414
@@ -51,9 +59,14 @@ Three parts, in both:
 2. **A context.** The distinction's significance depends on other states
    and constraints. A raised heart rate can take part in several
    interpretations (A7).
-3. **A consequence.** The distinction changes what the system expects,
-   attends to, regulates or can do next. Significance is not "an
-   association supplied by an outside observer" (A7).
+3. **A consequence.** The distinction has significance within the
+   system's organization of possible consequences (A11): given the system's
+   state, it bears on what the system expects, attends to, regulates or can
+   do next. Significance is not "an association supplied by an outside
+   observer" (A7). Whether the interpretation then acts, and whether the
+   system itself allocates that, are further properties, its efficacy and
+   its allocation. [CLAIM-414](../claims.d/CLAIM-414.md)'s constructions separate them under matched
+   trajectories, and [TERM-072](TERM-072.md)'s organizational perspective conditions them.
 
 In the record's operator model ([CLAIM-336](../claims.d/CLAIM-336.md)) A11 wrote it as
 j_{i,t} = J_i(s_{i,t}; x_t, q_t, w_t): a local interpretive
