@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp0q5ig) from the paper as reprinted in
+  read in full 2026-10-29 ([NOTE-tmp0q5ig](../notes.d/NOTE-tmp0q5ig.md)) from the paper as reprinted in
   chapter 3 of Tobi's 2013 Leiden thesis (hdl.handle.net/1887/22065, Open
   Access); worth reading as the first human report of a prenatal exposure
   associated with a methylation difference decades later, and as the
@@ -43,7 +43,7 @@ summary: >-
 
 Heijmans, B. T., Tobi, E. W., Stein, A. D., Putter, H., Blauw, G. J., Susser, E. S., Slagboom, P. E. & Lumey, L. H. (2008). *Proceedings of the National Academy of Sciences*, 105(44), 17046–17049.
 
-Read in full in NOTE-tmp0q5ig, from the paper as reprinted in chapter 3 of Tobi's 2013 Leiden thesis (hdl.handle.net/1887/22065, Open Access).
+Read in full in [NOTE-tmp0q5ig](../notes.d/NOTE-tmp0q5ig.md), from the paper as reprinted in chapter 3 of Tobi's 2013 Leiden thesis (hdl.handle.net/1887/22065, Open Access).
 
 ## Why this is here
 
