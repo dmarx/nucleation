@@ -134,7 +134,7 @@ related to symbolic permanence and societal contribution" (p. 8).
 
 ## Connections
 
-- **McAdams and de St. Aubin 1992 (LIT-tmptv1qs)**, the work this note
+- **McAdams and de St. Aubin 1992 ([LIT-tmptv1qs](../literature.d/LIT-tmptv1qs.md))**, the work this note
   stands in for. The paper gives the scale's format and cites the 1992
   abstract: the LGS "showed strong positive associations with reports of
   actual generative acts" (p. 4, quoting p. 1003). It does not report the
@@ -147,7 +147,7 @@ related to symbolic permanence and societal contribution" (p. 8).
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** Its first answer
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** Its first answer
   criterion is a test that separates the readings: measure felt
   continuity with one's legacy, and ask whether concern follows that
   measure or caring alone. As inference:
@@ -163,16 +163,16 @@ related to symbolic permanence and societal contribution" (p. 8).
     Legacy measures a self extended in time ("my work will live on") or
     a concern for the future that is not about oneself. That difference
     is the one between the thesis's reading and Scheffler's.
-- **The triviality objection (CLAIM-tmprudek).** A legacy factor
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** A legacy factor
   separable from action is a criterion of the temporal self's extent
   that might come apart from caring. It is a candidate only: one sample,
   exploratory, items unseen.
-- **The owner's thesis (CLAIM-tmpjylq8).** Nothing changes yet. The
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Nothing changes yet. The
   thesis would predict that generative action rises with the legacy
   motive; the data are compatible with that and with its reverse.
-- **A dated note on QUESTION-tmpruhu4**, jointly with Kruse and Schmitt:
+- **A dated note on [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)**, jointly with Kruse and Schmitt:
   the proposed text is in the Kruse draft. No note is needed on
-  CLAIM-tmpjylq8.
+  [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).
 - **No THEORY filed.**
 - **No ML instruction.**
 

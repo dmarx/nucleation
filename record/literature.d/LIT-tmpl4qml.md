@@ -6,10 +6,10 @@ status_note: >-
   by an author, their institution or the publisher. Open Library lists the
   book for print-disabled readers only. Scheffler's 2012 Tanner Lectures,
   the book's first two chapters, are open at tannerlectures.org. No NOTE
-  is filed. It stays Unavailable until a copy is supplied (ADR-041). Read
+  is filed. It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read
   in its place, and not a substitute for reading it: Scheffler's 2012
-  Tanner Lectures (LIT-tmpuiaaa) and Cottingham's NDPR review
-  (LIT-tmpw9j51).
+  Tanner Lectures ([LIT-tmpuiaaa](LIT-tmpuiaaa.md)) and Cottingham's NDPR review
+  ([LIT-tmpw9j51](LIT-tmpw9j51.md)).
 title: 'Death and the Afterlife'
 version: 1
 history:
@@ -60,7 +60,7 @@ The strongest case the record holds against the owner's thesis ([CLAIM-tmpjylq8]
 
 The work cannot be read here, so the record holds it at second hand.
 
-The 2012 Tanner Lectures (NOTE-tmpmsmxw) are the source of the book's
+The 2012 Tanner Lectures ([NOTE-tmpmsmxw](../notes.d/NOTE-tmpmsmxw.md)) are the source of the book's
 first two chapters, "The Afterlife (Part I)" and "(Part II)" (pp. 14–82
 per Crossref), read here in the text the Tanner site serves. They give the
 doomsday and infertility scenarios, the afterlife conjecture, the three
@@ -71,9 +71,9 @@ nothing for us"; the lectures say it keeps our valuing secure. Missing
 still: the book's text as revised, the third essay ("Fear, Death, and
 Confidence", pp. 83–110), the volume's introduction (pp. 2–12), the
 commentaries of Wolf, Frankfurt, Shiffrin and Kolodny, and the replies.
-Cottingham's review (NOTE-tmpsnlxv) reports a little of each.
+Cottingham's review ([NOTE-tmpsnlxv](../notes.d/NOTE-tmpsnlxv.md)) reports a little of each.
 
-Cottingham's review (NOTE-tmpsnlxv) adds what the Tanner text lacks. It
+Cottingham's review ([NOTE-tmpsnlxv](../notes.d/NOTE-tmpsnlxv.md)) adds what the Tanner text lacks. It
 gives the third lecture's thesis: a life must be temporally bounded, so
 personal immortality is no remedy, yet confidence in our values needs
 others to live on (book pp. 100–109). It gives Frankfurt's Darwinian doubt

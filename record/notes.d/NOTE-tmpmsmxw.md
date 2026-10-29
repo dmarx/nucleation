@@ -248,29 +248,29 @@ II, part 6).
 
 ## Connections
 
-- **The book this stands in for (LIT-tmpl4qml).** Its third essay, the
+- **The book this stands in for ([LIT-tmpl4qml](../literature.d/LIT-tmpl4qml.md)).** Its third essay, the
   four commentaries and the replies are not here. Cottingham's review
   (NOTE-tmpmsmxw-cottingham) reports some of them.
-- **Its sequel (LIT-tmpbj0k1),** unread. Lecture II, part 6 already
+- **Its sequel ([LIT-tmpbj0k1](../literature.d/LIT-tmpbj0k1.md)),** unread. Lecture II, part 6 already
   sketches its thesis: reasons concerning future generations that come
   from what matters to us, not only from obligations to them.
-- **Johnston (LIT-tmpm40au; NOTE-tmp3uqu5).** Scheffler cites *Surviving
+- **Johnston ([LIT-tmpm40au](../literature.d/LIT-tmpm40au.md); [NOTE-tmp3uqu5](NOTE-tmp3uqu5.md)).** Scheffler cites *Surviving
   Death* as the view he is not taking: that some of us survive our deaths.
   His collective afterlife needs no survival in any sense.
-- **Parfit (THEORY-464).** Cited as arguing that understanding personal
+- **Parfit ([THEORY-464](../theory.d/THEORY-464.md)).** Cited as arguing that understanding personal
   identity might make others' survival matter more. Scheffler says it
   already matters more, on any view of identity.
-- **Schubert et al. (NOTE-tmpbxw6b).** That NOTE asked whether ordinary
+- **Schubert et al. ([NOTE-tmpbxw6b](NOTE-tmpbxw6b.md)).** That NOTE asked whether ordinary
   judgement gives humanity's continuation the weight the conjecture
   predicts. The conjecture is about something else: whether one's
   present projects would lose their point, not how bad an outcome is.
-- **Intergenerational justice (NOTE-tmps9poq)** reports a later reading
+- **Intergenerational justice ([NOTE-tmps9poq](NOTE-tmps9poq.md))** reports a later reading
   of the conjecture as grounding a duty to present people not to destroy
   what their future-oriented projects depend on.
 
 ## Bearing on the record
 
-- **The owner's thesis (CLAIM-tmpjylq8).** The record filed Scheffler as
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The record filed Scheffler as
   the hardest case for the thesis in time. Read, he is a mixed case. These
   are inferences; Scheffler does not discuss the self's extent.
   - *Against the thesis.* He finds a concern for future people that is
@@ -286,10 +286,10 @@ II, part 6).
     which the living value, not for the good of future persons. He never
     claims we care about their welfare.
   - *The thesis can claim him only by redefining the self served.* Here
-    it is neither welfare nor, as in the fusion paper (NOTE-tmp3g9n4), a
+    it is neither welfare nor, as in the fusion paper ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)), a
     self-concept kept true, but one's standing as a valuer: the
     "coherence and integrity of our selves and our values over time".
-    That is a third sense of "self-interest", and CLAIM-tmprudek applies
+    That is a third sense of "self-interest", and [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md) applies
     to it with force.
   - *His own pair of terms fits the thesis better than "egoism".* He
     separates the limits of egoism (how strong self-interested motives
@@ -303,21 +303,21 @@ II, part 6).
     world in which one "retains a social identity". That is the thesis's
     extended self in time, and Scheffler presents it as one strand, not
     the whole.
-- **The triviality objection (CLAIM-tmprudek).** The attitudinal
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The attitudinal
   dependency thesis is a test that can come apart from caring.
   Scheffler's exceptions show it: we care about relief from pain and about
   friends without that care depending on humanity's future. A criterion
   of the self's extent in time could be built on it: what one's present
   valuing depends on. That is an inference, and the lectures test it only
   by imagined reactions.
-- **The legacy question (QUESTION-tmpruhu4).** Of the question's three
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** Of the question's three
   readings, Scheffler's is not "care for a future that does nothing for
   us" as the question puts it. He says the future does a great deal for
   us: it keeps our valuing secure. The question's summary should say so.
-- **Obligations to the future (QUESTION-tmpmx9ha).** He grounds reasons,
+- **Obligations to the future ([QUESTION-tmpmx9ha](../questions.d/QUESTION-tmpmx9ha.md)).** He grounds reasons,
   not obligations, in what the living value, and says that framing makes
   our power over future people an opportunity rather than a burden.
-- **A dated note should be added to CLAIM-tmpjylq8**, and the question's
+- **A dated note should be added to [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)**, and the question's
   wording revised. Proposed text below.
 - **No THEORY filed. No ML instruction.**
 

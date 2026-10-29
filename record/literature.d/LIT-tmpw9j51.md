@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpsnlxv), in place of LIT-tmpl4qml, which
+  read in full 2026-10-29 ([NOTE-tmpsnlxv](../notes.d/NOTE-tmpsnlxv.md)), in place of [LIT-tmpl4qml](LIT-tmpl4qml.md), which
   could not be reached; worth reading as the only account the record holds
   of the book's third lecture and of Wolf's and Frankfurt's commentaries;
   read its "more altruistic construal" against Scheffler's own denial of
@@ -39,9 +39,9 @@ summary: >-
 
 Cottingham, J. (2014). Review of S. Scheffler, *Death and the Afterlife*. *Notre Dame Philosophical Reviews*, 2014.05.02.
 
-Read in full in NOTE-tmpsnlxv.
+Read in full in [NOTE-tmpsnlxv](../notes.d/NOTE-tmpsnlxv.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpl4qml, which could not be reached. NOTE-tmpsnlxv says what it
+Read in place of [LIT-tmpl4qml](LIT-tmpl4qml.md), which could not be reached. [NOTE-tmpsnlxv](../notes.d/NOTE-tmpsnlxv.md) says what it
 reports of it and what is still missing.

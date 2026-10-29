@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp8kqrv), in place of LIT-tmptv1qs, which
+  read in full 2026-10-29 ([NOTE-tmp8kqrv](../notes.d/NOTE-tmp8kqrv.md)), in place of [LIT-tmptv1qs](LIT-tmptv1qs.md), which
   could not be reached; worth reading as a compact restatement of McAdams'
   model of generativity, with symbolic immortality as one of its motives,
   and for its claim that generativity serves the well-being of the old.
@@ -39,9 +39,9 @@ summary: >-
 
 Kruse, A. & Schmitt, E. (2012). *Current Gerontology and Geriatrics Research*, 2012, 647650.
 
-Read in full in NOTE-tmp8kqrv.
+Read in full in [NOTE-tmp8kqrv](../notes.d/NOTE-tmp8kqrv.md).
 
 ## Why this is here
 
-Read in place of LIT-tmptv1qs, which could not be reached. NOTE-tmp8kqrv says what it
+Read in place of [LIT-tmptv1qs](LIT-tmptv1qs.md), which could not be reached. [NOTE-tmp8kqrv](../notes.d/NOTE-tmp8kqrv.md) says what it
 reports of it and what is still missing.

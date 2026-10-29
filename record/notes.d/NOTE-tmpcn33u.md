@@ -41,7 +41,7 @@ are distinctive because they join a time delay to a self–other trade-off,
 and that this combination is what lets a decision bear on one's legacy.
 Three studies measure attitudes and three measure allocations. For the
 record it is also the only available account of Wade-Benzoni 2006
-(LIT-tmpcpdlk), which it cites three times.
+([LIT-tmpcpdlk](../literature.d/LIT-tmpcpdlk.md)), which it cites three times.
 
 ## Key insight
 
@@ -162,18 +162,18 @@ extend the self into the future" (p. 26).
 
 ## Connections
 
-- **Wade-Benzoni 2006 (LIT-tmpcpdlk)**, unread. Cited for legacy as
+- **Wade-Benzoni 2006 ([LIT-tmpcpdlk](../literature.d/LIT-tmpcpdlk.md))**, unread. Cited for legacy as
   symbolic immortality (p. 7), for the claim that a legacy cannot be left
   to one's own future self (p. 12), and among the sources of the list of
   intergenerational features (p. 19). See "Read in its place".
-- **Wade-Benzoni et al. 2012 (LIT-tmpm5do0)**, unread. The next step:
+- **Wade-Benzoni et al. 2012 ([LIT-tmpm5do0](../literature.d/LIT-tmpm5do0.md))**, unread. The next step:
   mortality reminders instead of valence.
-- **McAdams and de St. Aubin 1992 (LIT-tmptv1qs)**, unread. The source of
+- **McAdams and de St. Aubin 1992 ([LIT-tmptv1qs](../literature.d/LIT-tmptv1qs.md))**, unread. The source of
   the modified generativity scale. The items kept are those on living on
   and being remembered.
-- **Lifton (LIT-tmpcbh59) and terror management.** Becker's *Denial of
+- **Lifton ([LIT-tmpcbh59](../literature.d/LIT-tmpcbh59.md)) and terror management.** Becker's *Denial of
   Death* is cited for the wish to extend the self beyond death (p. 12).
-- **Common in-group identity (NOTE-tmpg3nwd).** The authors recommend
+- **Common in-group identity ([NOTE-tmpg3nwd](NOTE-tmpg3nwd.md)).** The authors recommend
   making managers identify with their successors and cite Gaertner et al.
   1989, the same programme.
 - **Hernandez, Chen and Wade-Benzoni 2006**, not held. Cited for the claim
@@ -183,7 +183,7 @@ extend the self into the future" (p. 26).
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** These are inferences; the
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** These are inferences; the
   paper does not discuss egoism.
   - The authors take the thesis's reading as their premise. Legacy is the
     wish "to extend the self beyond mortal life" (p. 12) and "to extend the
@@ -193,7 +193,7 @@ extend the self into the future" (p. 26).
   - What extends is the self, not the self's circle. The generativity items
     are about oneself being remembered and living on. Future people figure
     as the medium of that survival, not as part of the self. That is the
-    temporal extension in QUESTION-tmpruhu4, symbolic immortality, rather
+    temporal extension in [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md), symbolic immortality, rather
     than a social extension to include those who come after.
   - Experiment 6 cuts against an extended-self reading of the generosity.
     Putting the self into the trade-off raised self-favouring with benefits
@@ -201,16 +201,16 @@ extend the self into the future" (p. 26).
     people keep more, not give more. The generosity with burdens is as well
     explained by a moral brake on imposing harm on the powerless, which the
     authors themselves invoke (p. 12), as by legacy.
-- **The owner's thesis (CLAIM-tmpjylq8).** The paper's framing is the
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The paper's framing is the
   thesis in time: acting for future generations as acting for a self that
   outlives the body. Its data do not separate that reading from plain
   self-interest restrained by ethics.
-- **The triviality objection (CLAIM-tmprudek).** "Affinity for future
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** "Affinity for future
   generations" rose with the burden framing (5.62 vs 5.0), alongside
   responsibility and ethical concern. One item, moving with every measure of
   caring, cannot show that affinity comes apart from caring.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **A dated note on QUESTION-tmpruhu4 is proposed.** No note on CLAIM-tmpjylq8 itself: the paper names the
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **A dated note on [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md) is proposed.** No note on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md) itself: the paper names the
   thesis's reading but gives it no test. Proposed text:
 
   > Wade-Benzoni, Sondak and Galinsky (NOTE-tmpcn33u), read in place of

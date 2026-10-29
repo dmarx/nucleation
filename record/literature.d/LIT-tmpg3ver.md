@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpc43sa), in place of LIT-tmp2s109, which
+  read in full 2026-10-29 ([NOTE-tmpc43sa](../notes.d/NOTE-tmpc43sa.md)), in place of [LIT-tmp2s109](LIT-tmp2s109.md), which
   could not be reached; worth reading as the current quantitative verdict
   on the mortality-salience hypothesis, and as the only source the record
   holds for Burke et al.'s figures.
@@ -39,9 +39,9 @@ summary: >-
 
 Chen, L., Benjamin, R., Guo, Y., Lai, A. & Heine, S. J. (2025). *Journal of Personality and Social Psychology*, 129(1), 20–41.
 
-Read in full in NOTE-tmpc43sa.
+Read in full in [NOTE-tmpc43sa](../notes.d/NOTE-tmpc43sa.md).
 
 ## Why this is here
 
-Read in place of LIT-tmp2s109, which could not be reached. NOTE-tmpc43sa says what it
+Read in place of [LIT-tmp2s109](LIT-tmp2s109.md), which could not be reached. [NOTE-tmpc43sa](../notes.d/NOTE-tmpc43sa.md) says what it
 reports of it and what is still missing.

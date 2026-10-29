@@ -170,7 +170,7 @@ finding of TMT."
 
 ## Connections
 
-- **Burke, Martens and Faucher 2010 (LIT-tmp2s109)**, the meta-analysis
+- **Burke, Martens and Faucher 2010 ([LIT-tmp2s109](../literature.d/LIT-tmp2s109.md))**, the meta-analysis
   this note stands in for. The paper uses it twice: for the 79.8% share
   of TMT studies using this manipulation, and as a source on TMT and
   intergroup conflict. It gives none of its effect sizes. Chen et al.
@@ -184,13 +184,13 @@ finding of TMT."
   which this version corrects, and one-tailed tests, which it declines.
 - **Two other preregistered failures** are named: Sætrevik and Sjåstad
   (2019 preprint) and Schindler, Reinhardt and Reinhard (2021).
-- **Castano et al. (LIT-tmpd9qw4)** reminded participants of their
+- **Castano et al. ([LIT-tmpd9qw4](../literature.d/LIT-tmpd9qw4.md))** reminded participants of their
   death and measured in-group identification. It is not tested here; it
   depends on the same family of manipulations.
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** Its "Death and the group"
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** Its "Death and the group"
   strand rests on TMT: death reminders make people cling to a worldview
   and a group that outlast them, which is symbolic immortality through a
   self extended in time and across people. These are inferences; the
@@ -202,23 +202,23 @@ finding of TMT."
   - The test is of national worldview defense, the group half of the
     strand. It does not test symbolic immortality directly, nor legacy
     motivation, generativity or beneficence toward future generations.
-    The legacy experiments (LIT-tmpcpdlk, LIT-tmpm5do0, LIT-tmpetcju)
-    are unread. Wade-Benzoni et al. (LIT-tmpm5do0), whose title names
+    The legacy experiments ([LIT-tmpcpdlk](../literature.d/LIT-tmpcpdlk.md), [LIT-tmpm5do0](../literature.d/LIT-tmpm5do0.md), [LIT-tmpetcju](../literature.d/LIT-tmpetcju.md))
+    are unread. Wade-Benzoni et al. ([LIT-tmpm5do0](../literature.d/LIT-tmpm5do0.md)), whose title names
     death, may rest on a death prime; if so, this failure is a reason to
     check its effect sizes when it is read.
   - It does not refute TMT. The authors grant that one failure "does
     not overturn all of that prior work". It removes the assumption that
     the core effect is robust; Chen et al. 2025 says what remains.
-- **The owner's thesis (CLAIM-tmpjylq8).** The thesis does not rest on
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The thesis does not rest on
   TMT, so nothing in it changes. TMT offered a mechanism for enlarging
   the self under threat; that mechanism now lacks a dependable
   demonstration.
-- **The triviality objection (CLAIM-tmprudek).** Worldview defense is
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Worldview defense is
   measured by evaluative preference for a pro-group author. That is a
   measure of caring about the group's standing, not of the self's extent.
   Even a successful replication would not supply the independent
   criterion the objection asks for (an inference).
-- **A dated note should be added to QUESTION-tmpruhu4**, jointly with
+- **A dated note should be added to [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)**, jointly with
   Chen et al. 2025. Proposed text: "Many Labs 4 (NOTE-tmpzgbo9) found no
   effect of writing about one's death on preference for a pro-US over an
   anti-US essay author: g = 0.07 (95% CI −0.03 to 0.17) across 17 labs
@@ -228,7 +228,7 @@ finding of TMT."
   .35 of Burke et al., with very wide heterogeneity and low power. The
   'death and the group' strand of this question therefore rests on a
   small, contested effect whose flagship paradigm does not replicate."
-  No note is needed on CLAIM-tmpjylq8.
+  No note is needed on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).
 - **No THEORY filed.**
 - **No ML instruction.**
 

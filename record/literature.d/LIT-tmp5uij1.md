@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmp8amb2), in place of LIT-tmptv1qs, which
+  read in full 2026-10-29 ([NOTE-tmp8amb2](../notes.d/NOTE-tmp8amb2.md)), in place of [LIT-tmptv1qs](LIT-tmptv1qs.md), which
   could not be reached; worth reading as evidence that legacy motivation
   can be measured apart from generative action within McAdams' scale, with
   the caution that the analysis is exploratory and two items vanish
@@ -40,9 +40,9 @@ summary: >-
 
 Sandoval-Obando, E., Vega-Muñoz, A., Véliz-Campos, M., Castellanos-Alvarenga, L., Riquelme-Brevis, H. & Castillo, D. (2026). *Frontiers in Psychology*.
 
-Read in full in NOTE-tmp8amb2.
+Read in full in [NOTE-tmp8amb2](../notes.d/NOTE-tmp8amb2.md).
 
 ## Why this is here
 
-Read in place of LIT-tmptv1qs, which could not be reached. NOTE-tmp8amb2 says what it
+Read in place of [LIT-tmptv1qs](LIT-tmptv1qs.md), which could not be reached. [NOTE-tmp8amb2](../notes.d/NOTE-tmp8amb2.md) says what it
 reports of it and what is still missing.

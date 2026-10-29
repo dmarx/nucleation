@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpmsmxw), in place of LIT-tmpl4qml, which
+  read in full 2026-10-29 ([NOTE-tmpmsmxw](../notes.d/NOTE-tmpmsmxw.md)), in place of [LIT-tmpl4qml](LIT-tmpl4qml.md), which
   could not be reached; worth reading as the exact statement of the
   afterlife conjecture and of what Scheffler does and does not infer from
   it: our dependence on future people, not altruism toward them. The third
@@ -42,9 +42,9 @@ summary: >-
 
 Scheffler, S. (2012). The Afterlife. The Tanner Lectures on Human Values, Lectures I and II, delivered at the University of California, Berkeley, 13–15 March 2012.
 
-Read in full in NOTE-tmpmsmxw.
+Read in full in [NOTE-tmpmsmxw](../notes.d/NOTE-tmpmsmxw.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpl4qml, which could not be reached. NOTE-tmpmsmxw says what it
+Read in place of [LIT-tmpl4qml](LIT-tmpl4qml.md), which could not be reached. [NOTE-tmpmsmxw](../notes.d/NOTE-tmpmsmxw.md) says what it
 reports of it and what is still missing.

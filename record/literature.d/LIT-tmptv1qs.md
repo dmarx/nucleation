@@ -6,9 +6,9 @@ status_note: >-
   by an author, their institution or the publisher; a summary on a Notre
   Dame page was unreachable, Northwestern's Foley Center pages return 404,
   and copies on Scribd and a commercial site were not used. No NOTE is
-  filed. It stays Unavailable until a copy is supplied (ADR-041). Read in
+  filed. It stays Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in
   its place, and not a substitute for reading it: Kruse and Schmitt 2012
-  (LIT-tmp4ooni) and Sandoval-Obando et al. 2026 (LIT-tmp5uij1).
+  ([LIT-tmp4ooni](LIT-tmp4ooni.md)) and Sandoval-Obando et al. 2026 ([LIT-tmp5uij1](LIT-tmp5uij1.md)).
 title: 'A theory of generativity and its assessment through self-report, behavioral acts, and narrative themes in autobiography'
 version: 1
 history:
@@ -57,7 +57,7 @@ The standard measure of legacy motivation in personality psychology, by the auth
 
 The work cannot be read here, so the record holds it at second hand.
 
-Kruse and Schmitt (NOTE-tmp8kqrv) restate the 1992 model in full: cultural
+Kruse and Schmitt ([NOTE-tmp8kqrv](../notes.d/NOTE-tmp8kqrv.md)) restate the 1992 model in full: cultural
 demand and inner desire (a need to be needed, and a need for symbolic
 immortality, investing in "things that outlive the self") lead to concern
 and commitment, which become action through "belief in the species", and
@@ -69,7 +69,7 @@ behavioural-acts checklist, the narrative coding of autobiographies, the
 samples and every statistic. Sandoval-Obando et al. 2026 supplies the
 scale's format.
 
-Sandoval-Obando et al. (NOTE-tmp8amb2) give the LGS's format: 20 items,
+Sandoval-Obando et al. ([NOTE-tmp8amb2](../notes.d/NOTE-tmp8amb2.md)) give the LGS's format: 20 items,
 answered on a 4-point scale from "never applies to me" to "very often
 applies to me", covering concern for future generations, productivity,
 community involvement and personal impact. They attribute to the 1992

@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-29 (NOTE-tmpcn33u), in place of LIT-tmpcpdlk, which
+  read in full 2026-10-29 ([NOTE-tmpcn33u](../notes.d/NOTE-tmpcn33u.md)), in place of [LIT-tmpcpdlk](LIT-tmpcpdlk.md), which
   could not be reached; worth reading as the legacy programme's fullest
   experimental statement before the 2012 mortality studies, and as the
-  record's only second-hand source for Wade-Benzoni 2006 (LIT-tmpcpdlk).
+  record's only second-hand source for Wade-Benzoni 2006 ([LIT-tmpcpdlk](LIT-tmpcpdlk.md)).
   Read it knowing that legacy concern and generosity are never measured in
   the same study, and that the generosity effects sit in one cell: people
   keep more benefits for themselves when the other person will receive
@@ -44,9 +44,9 @@ summary: >-
 
 Wade-Benzoni, K. A., Sondak, H. & Galinsky, A. D. (2010). *Business Ethics Quarterly*, 20(1), 7–34.
 
-Read in full in NOTE-tmpcn33u.
+Read in full in [NOTE-tmpcn33u](../notes.d/NOTE-tmpcn33u.md).
 
 ## Why this is here
 
-Read in place of LIT-tmpcpdlk, which could not be reached. NOTE-tmpcn33u says what it
+Read in place of [LIT-tmpcpdlk](LIT-tmpcpdlk.md), which could not be reached. [NOTE-tmpcn33u](../notes.d/NOTE-tmpcn33u.md) says what it
 reports of it and what is still missing.

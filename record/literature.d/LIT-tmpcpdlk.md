@@ -5,9 +5,9 @@ status_note: >-
   reached. Unpaywall lists no open copy and a web search found none posted
   by an author, their institution or the publisher; Scholars@Duke and
   Duke's faculty pages list it without a file. No NOTE is filed. It stays
-  Unavailable until a copy is supplied (ADR-041). Read in its place, and
+  Unavailable until a copy is supplied ([ADR-041](../decisions.d/ADR-041.md)). Read in its place, and
   not a substitute for reading it: Wade-Benzoni, Sondak and Galinsky 2010
-  (LIT-tmpcu9br).
+  ([LIT-tmpcu9br](LIT-tmpcu9br.md)).
 title: 'Legacies, Immortality, and the Future: The Psychology of Intergenerational Altruism'
 version: 1
 history:

@@ -160,20 +160,20 @@ need have not experiential upshot" (§3.1).
 
 ## Connections
 
-- **Pitcher 1984 (LIT-tmphj5mc),** unread. The entry gives his priorism
+- **Pitcher 1984 ([LIT-tmphj5mc](../literature.d/LIT-tmphj5mc.md)),** unread. The entry gives his priorism
   and his account of posthumous harm, two paragraphs in all.
 - **Scheffler (NOTE-tmpl7p19-scheffler).** Scheffler's "nonexperientialist"
   dimension of valuing is the entry's rejection of intrinsic hedonism,
   argued from reactions rather than from welfare. The entry does not cite
   him. Scheffler's people do not thanatize: their projects reach past
   their deaths.
-- **Parfit (THEORY-464).** Cited for the bias toward the future, for
+- **Parfit ([THEORY-464](../theory.d/THEORY-464.md)).** Cited for the bias toward the future, for
   persons as psychologically continuous, and for desires not conditional
   on their own persistence.
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** The question's second
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** The question's second
   reading is Pitcher's: acting for one's legacy can be self-interested in
   the ordinary sense, with no extended self. The entry confirms the
   mechanism. A desire about one's reputation or one's child after one's
@@ -187,7 +187,7 @@ need have not experiential upshot" (§3.1).
     fulfilment of any suitably conditioned desire is part of my good,
     then whatever I act for is my good, and legacy is self-interested by
     definition. The entry says the conditions on such desires are
-    "controversial" and sets them aside (§3.1). That is CLAIM-tmprudek's
+    "controversial" and sets them aside (§3.1). That is [CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)'s
     worry moved from the self's extent to the theory of welfare.
   - *It does not reach Scheffler's case.* Pitcher's examples are desires
     about oneself (reputation) or one's own (one's child). Scheffler's
@@ -195,12 +195,12 @@ need have not experiential upshot" (§3.1).
     desire that humanity go on is thwarted by extinction on the same
     logic, but calling its frustration a harm to me is the triviality
     worry again.
-- **The owner's thesis (CLAIM-tmpjylq8).** Pitcher offers the thesis an
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** Pitcher offers the thesis an
   alternative it does not need: legacy as self-interest of an ordinary,
   unextended person whose desires reach past death. The thesis and
   Pitcher can both be true, but either makes the other unnecessary for
   legacy.
-- **A dated note should be added to QUESTION-tmpruhu4, not to the
+- **A dated note should be added to [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md), not to the
   claim.** Proposed text below.
 - **No THEORY filed. No ML instruction.**
 

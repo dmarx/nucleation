@@ -178,7 +178,7 @@ rendering many individual effects to be likely spurious."
 
 ## Connections
 
-- **Burke, Martens and Faucher 2010 (LIT-tmp2s109)**, the work this note
+- **Burke, Martens and Faucher 2010 ([LIT-tmp2s109](../literature.d/LIT-tmp2s109.md))**, the work this note
   stands in for. The review takes its search and selection rules, its
   pooled r = .35 over 277 studies, and its subgroup ideas (with
   Pyszczynski et al. 2015). It reproduces the uncorrected result and then
@@ -187,15 +187,15 @@ rendering many individual effects to be likely spurious."
   figures for it (21 labs, 2,220 participants, g = 0.03) do not match the
   accepted version the record read (2,281 collected, 1,550 analysed,
   g = 0.07). They may come from the first preprint.
-- **Lifton (LIT-tmpcbh59)** is not cited. The review traces symbolic
+- **Lifton ([LIT-tmpcbh59](../literature.d/LIT-tmpcbh59.md))** is not cited. The review traces symbolic
   immortality to Becker (1973).
-- **Castano et al. (LIT-tmpd9qw4)** is not named. Its outcomes,
+- **Castano et al. ([LIT-tmpd9qw4](../literature.d/LIT-tmpd9qw4.md))** is not named. Its outcomes,
   in-group identification and bias, are among the many worldview-defense
   measures the review pools.
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** The question cites
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** The question cites
   Burke et al. as the evidence for TMT, whose account is the record's
   route from death to an enlarged self: people defend the worldview and
   group that will outlast them, for symbolic immortality. What this
@@ -214,16 +214,16 @@ rendering many individual effects to be likely spurious."
     search for symbolic immortality. That reading belongs to the theory.
     Even a robust effect would support the extended-self interpretation
     only as the theory's gloss.
-- **The owner's thesis (CLAIM-tmpjylq8).** The thesis does not depend on
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** The thesis does not depend on
   TMT. TMT is a candidate mechanism for enlarging the self under threat,
   across a group and past death. It is now a weak one to cite: a small,
   highly variable effect whose core paradigm failed in Many Labs 4.
-- **The triviality objection (CLAIM-tmprudek).** The MS literature's
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** The MS literature's
   outcome measures, worldview defense in many forms, record evaluative
   attachment to one's group and its standards. Those are measures of
   caring, not of the self's extent apart from caring. The review offers
   no criterion of the kind the objection asks for (an inference).
-- **A dated note should be added to QUESTION-tmpruhu4**, jointly with
+- **A dated note should be added to [QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)**, jointly with
   Many Labs 4. The proposed text is in the Many Labs 4 draft; the part
   this review supplies: "Chen et al. (NOTE-tmpc43sa) reproduce Burke et al.'s
   uncorrected effect (r = .37 over 635 effects, against .35 over 277) and
@@ -231,8 +231,8 @@ rendering many individual effects to be likely spurious."
   give about r = .18, PET-PEESE no effect, and z-curve an expected
   discovery rate of 8%. Some mortality-salience effects are real, but
   the average is about half the published one and most studies could not
-  detect it." No note is needed on CLAIM-tmpjylq8.
-- **LIT-tmp2s109's summary should be checked.** "A moderate effect" is
+  detect it." No note is needed on [CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md).
+- **[LIT-tmp2s109](../literature.d/LIT-tmp2s109.md)'s summary should be checked.** "A moderate effect" is
   right for Burke et al. (r = .35). The record now holds a source for the
   figure but not for its moderators, such as delay.
 - **No THEORY filed.**
