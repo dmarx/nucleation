@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Persistent epigenetic differences associated with prenatal exposure to famine in humans'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The best human evidence that adversity leaves lasting epigenetic marks, and the case that shows the distinction between exposure in utero and inheritance. For QUESTION-tmp8bttd.
+The best human evidence that adversity leaves lasting epigenetic marks, and the case that shows the distinction between exposure in utero and inheritance. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).

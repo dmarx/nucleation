@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The study behind most popular claims that trauma is inherited epigenetically. For QUESTION-tmp8bttd.
+The study behind most popular claims that trauma is inherited epigenetically. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).

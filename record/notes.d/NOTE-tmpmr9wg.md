@@ -155,42 +155,42 @@ should raise both identification and perceived entitativity.
 
 ## Connections
 
-- **Terror management, measured** (Burke et al., LIT-tmp2s109, unread).
+- **Terror management, measured** (Burke et al., [LIT-tmp2s109](../literature.d/LIT-tmp2s109.md), unread).
   The meta-analysis reports moderate mortality-salience effects across
   paradigms. The Many Labs 4 replication of the classic mortality-salience
   effect on worldview defence, which failed, may bear on how much weight
   this study can carry; another reader is drafting that note, and the
   record has no code for it yet.
-- **Lifton's symbolic immortality (LIT-tmpcbh59)**, unread. The paper does
+- **Lifton's symbolic immortality ([LIT-tmpcbh59](../literature.d/LIT-tmpcbh59.md))**, unread. The paper does
   not cite Lifton, but its "transcendence" through the group, and its
   quotation of Anthony Smith on nationalism's "promise of collective and
   terrestrial immortality" (p. 140), are the same idea.
-- **A group entity versus a category of members (TERM-tmpko4rw).**
+- **A group entity versus a category of members ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).**
   Italians, a nationality, is the term's own example of a category. The
   paper measures entitativity as a degree, which the term sets aside as
   different from its difference in kind. Its scale mixes likeness
   ("many characteristics in common", a category's mark) with common fate
   and "real existence as a group", closer to an entity's.
-- **Skorich's group-entity account (THEORY-tmpdftev).** That account says
+- **Skorich's group-entity account ([THEORY-tmpdftev](../theory.d/THEORY-tmpdftev.md)).** That account says
   perceiving a group entity needs cues of shared mental states. Here a
   death reminder, not a cue about the group, moved perceived
   entitativity: the perceiver's need moved it.
-- **Identity fusion (NOTE-tmp3g9n4).** Swann et al. explain self-sacrifice
+- **Identity fusion ([NOTE-tmp3g9n4](NOTE-tmp3g9n4.md)).** Swann et al. explain self-sacrifice
   for the group by self-verification. Castano et al. explain it, more
   speculatively, by transcendence through an extended self. Both make
   sacrifice serve the self as a self-concept, not as a welfare.
-- **Self-categorization theory (THEORY-tmpo85ke).** The authors write
+- **Self-categorization theory ([THEORY-tmpo85ke](../theory.d/THEORY-tmpo85ke.md)).** The authors write
   within social identity theory and do not use depersonalization; their
   closing hypothesis is a shift "from personal to social identities"
   (p. 141).
 
 ## Bearing on the record
 
-- **The legacy question (QUESTION-tmpruhu4).** This is the study the
+- **The legacy question ([QUESTION-tmpruhu4](../questions.d/QUESTION-tmpruhu4.md)).** This is the study the
   question cites for where the temporal and social extensions of the self
   meet. Read, it supports that meeting as the authors' proposal, not as a
   finding: see the thesis below.
-- **The owner's thesis (CLAIM-tmpjylq8).** These are inferences.
+- **The owner's thesis ([CLAIM-tmpjylq8](../claims.d/CLAIM-tmpjylq8.md)).** These are inferences.
   - The paper states the thesis's join of social and temporal extension in
     so many words: "the social extension of the self implemented by group
     belonging" offers transcendence of one's death (p. 141). On it, dying
@@ -204,14 +204,14 @@ should raise both identification and perceived entitativity.
     Only the first is the thesis.
   - Nothing measures the self's extent. Identification is six verbal items;
     no overlap measure, no fusion item.
-- **The triviality objection (CLAIM-tmprudek).** Entitativity is a property
+- **The triviality objection ([CLAIM-tmprudek](../claims.d/CLAIM-tmprudek.md)).** Entitativity is a property
   of the group as perceived, and it separates from identification (r =
   .59). But the two mediate only through what they share, and there is no
   measure of caring about Italians apart from rating them. So the paper
   does not show a criterion of the self's extent coming apart from
   valuing the group.
-- **Batson's objection (CLAIM-tmpybc4k).** Not addressed.
-- **The term (TERM-tmpko4rw).** A dated note is proposed:
+- **Batson's objection ([CLAIM-tmpybc4k](../claims.d/CLAIM-tmpybc4k.md)).** Not addressed.
+- **The term ([TERM-tmpko4rw](../terms.d/TERM-tmpko4rw.md)).** A dated note is proposed:
 
   > Castano et al. (NOTE-tmpmr9wg) found that a reminder of one's own death
   > raised the perceived entitativity of Italians, a category in this

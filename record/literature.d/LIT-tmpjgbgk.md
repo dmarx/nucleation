@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Transgenerational Epigenetic Inheritance: Myths and Mechanisms'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The standard map of what is and is not shown about epigenetic inheritance, against which the human trauma claims are measured. For QUESTION-tmp8bttd.
+The standard map of what is and is not shown about epigenetic inheritance, against which the human trauma claims are measured. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).

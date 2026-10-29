@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Molecular insights into transgenerational non-genetic inheritance of acquired behaviours'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The proponents' review of the mechanisms. For QUESTION-tmp8bttd.
+The proponents' review of the mechanisms. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).

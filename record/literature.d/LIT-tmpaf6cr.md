@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Transgenerational epigenetic inheritance: a critical perspective'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A recent statement of the sceptical position, ten years after Heard and Martienssen (LIT-tmpjgbgk). For QUESTION-tmp8bttd.
+A recent statement of the sceptical position, ten years after Heard and Martienssen ([LIT-tmpjgbgk](LIT-tmpjgbgk.md)). For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).

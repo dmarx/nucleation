@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Transgenerational Transmissions and Chosen Traumas: An Aspect of Large-Group Identity'
 version: 1
 history:
@@ -39,4 +39,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Trauma inherited as identity: descendants carry as their own an injury done to their ancestors, the past-facing counterpart of the owner's thesis. For QUESTION-tmp8bttd.
+Trauma inherited as identity: descendants carry as their own an injury done to their ancestors, the past-facing counterpart of the owner's thesis. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).

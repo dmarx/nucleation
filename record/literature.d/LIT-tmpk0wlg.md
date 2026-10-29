@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable (ADR-041). No NOTE is filed.
+  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
 title: 'Parental olfactory experience influences behavior and neural structure in subsequent generations'
 version: 1
 history:
@@ -41,4 +41,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The most cited animal evidence that a learned fear can pass through the germline. For QUESTION-tmp8bttd.
+The most cited animal evidence that a learned fear can pass through the germline. For [QUESTION-tmp8bttd](../questions.d/QUESTION-tmp8bttd.md).
