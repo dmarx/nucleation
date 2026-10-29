@@ -1,10 +1,10 @@
 ---
 number: 349
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6ap9y
 title: 'An organization''s access to a signal, the signal''s authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -24,6 +24,22 @@ history:
     THEORY-051 moved from grounds to corroborated_by (ADR-058): the
     claim cites ACT as an analogy from human treatment and says the
     clinical evidence does not carry over. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Ninth status review (ADR-057). Promoted, on the owner's assent in
+    the pull request. Both premises, CLAIM-025 and CLAIM-027, are
+    Active, no objection is filed, and nothing in the record meets
+    either defeater. The second was checked: QUESTION-045, the
+    individual-scale side, is Open, and no comparison in the record
+    shows the organizational form predicting nothing more; A42's
+    disclosure, challenge and visibility effects, which run through
+    members other than the regulator, are what such a comparison would
+    have to match. Novelty against Guida, Minutola and Presti
+    (LIT-1218) and Bond is not part of the claim, which already gives
+    them the transfer of ACT. The body's "Neither is held yet" and
+    "not held in the record" now name the works registered since. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -79,7 +95,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
-<!-- inactive-ok-file: CLAIM-156 CLAIM-347 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-156 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
 
 # CLAIM-349: An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
@@ -124,8 +140,7 @@ signal** and **the organization's authority to evaluate it**."
   governance revision. The last is [CLAIM-025](CLAIM-025.md): the regime, the governing
   organization and the capacity to transform it fail separately. The
   pattern is "**bounded stabilization followed by evidence-responsive
-  correction**". The source framework is Linehan's DBT, not held in the
-  record.
+  correction**". The source framework is Linehan's DBT, registered unread as LIT-1221.
 - **RO-DBT: control can be the disorder.** Lynch's RO-DBT, in A42's table,
   sets "Adaptive self-control versus excessive inhibition, rigidity, and
   restricted social signaling".
@@ -170,7 +185,8 @@ novelty": on their account organizational flexibility is not an aggregate
 of flexible individuals but "must be **retained and propagated through the
 organization's pattern of consequences and authority**". Their antecedent is
 Bond's organizational flexibility model, which A42 dated 2018 and which
-could not be identified uniquely. Neither is held yet. The organizational
+could not be identified uniquely. Guida et al. is registered, unread, as LIT-1218; Bond's model is not
+registered. The organizational
 transfer of ACT is theirs before it is the record's; what the record can
 add is the influence model of how flexibility propagates or entrenches.
 

@@ -1,10 +1,10 @@
 ---
 number: 342
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpt568z
 title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,16 @@ history:
     and A26 built a performative toy with two stable self-confirming
     classifications (CLAIM-402, CLAIM-404). Extended the same day from the readings of Weatherall, O'Connor and Bruner and of Espeland and Sauder. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Ninth status review (ADR-057). Promoted, on the owner's assent in
+    the pull request. Its premises CLAIM-330 and CLAIM-141 and its
+    readings THEORY-285 and THEORY-324 are Active; no objection is
+    filed (CASE-108's compromised evaluator is scoring that passes
+    through the tested interpretation, which the claim covers);
+    nothing meets either defeater. One bullet added to "What it does
+    not say", from THEORY-845. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -109,6 +119,11 @@ second channel, from the essential variables to the parameters of the
 first loop, that the first loop's behaviour does not set ([THEORY-324](../theory.d/THEORY-324.md)).
 
 ## What it does not say
+
+- It does not say any amount of such evidence suffices. Where a loop pools
+  an independent channel with one it selects, as the audience of Weatherall,
+  O'Connor and Bruner does (THEORY-845, THEORY-855), the independent channel
+  anchors it only as far as it outweighs the selected one.
 
 - It does not say an agent without action has independent evidence. The
   locked-in case asks whether one does ([CASE-107](../cases.d/CASE-107.md)). Damasio's

@@ -1,10 +1,10 @@
 ---
 number: 261
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp5vc3p
 title: "Synchronization of an agent's interests is desirable, but not necessary for acting as one: internal conflict shows a human agent acting while its interests stay divided"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-12'
@@ -12,6 +12,18 @@ history:
     The owner's answer to QUESTION-078, given on 2026-10-12 in reply
     to the questions filed from the interlocutor's reading of LIT-638.
     The assistant wrote it up and chose the edges.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Ninth status review (ADR-057). Promoted, on the owner's assent in
+    the pull request; it is the owner's position of 2026-10-12. Its
+    one premise, TERM-050, is Active and already says an agent whose
+    regimes are overridden acts as one unsynchronized; no objection is
+    filed; neither defeater is met (CLAIM-358 and TERM-061 compare
+    accommodation with escalation, not with synchronization). The part
+    of QUESTION-078 it settles is split off under ADR-049 as
+    QUESTION-tmpihv9y, which it answers; it bears on QUESTION-078. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,8 +40,6 @@ tags:
 - motivation
 date: '2026-10-12'
 line: will-organization
-answers:
-- QUESTION-078
 illustrated_by:
 - CASE-013
 - CASE-051
@@ -39,6 +49,10 @@ complements:
 - CLAIM-198
 uses:
 - TERM-050
+answers:
+- QUESTION-tmpihv9y
+bears_on:
+- QUESTION-078
 summary: >-
   The owner's answer to [QUESTION-078](../questions.d/QUESTION-078.md). A human agent who acts against
   a standing temptation acts as one agent while its interests stay
@@ -82,7 +96,8 @@ divided agent pays for its unity in effort, devices and lapses.
 - [CLAIM-198](CLAIM-198.md) says a self is divided over a choice only on an overlap.
   This claim says that a self divided on an overlap can still act as one
   there.
-- [CLAIM-163](CLAIM-163.md) objects that synchronization lacks a mechanism. If
+- The objection that synchronization lacks a mechanism, once CLAIM-163, is
+  now in ARG-016. If
   synchronization is not what acting as one consists in, the objection
   bears on the account of the good case and not on the account of
   integration as a whole.
