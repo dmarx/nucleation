@@ -1,0 +1,156 @@
+---
+status: Read
+paper: 'LIT-1139'
+title: 'Gross and Blasius — Adaptive coevolutionary networks'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from arXiv's own copy, v2 of 22 January
+    2008 (https://arxiv.org/pdf/0709.1858, 13 pages), text extracted with
+    pdftotext. Read: §§I–VII, Boxes 1–2, the captions of Figures 1–6 and
+    the 74 references. Figures were read from captions only. Checked: the
+    review's account of Holme and Newman against that paper (LIT-1128,
+    read the same day), which it misstates, and its account of Bornholdt
+    and Rohlf for internal consistency, which fails in one sentence. The
+    journal version (J. R. Soc. Interface 5, 2008), free at PubMed Central
+    (PMC2405905), was not fetched: Europe PMC's full-text service
+    returned a server error on 2026-10-29, so the arXiv v2 is the copy
+    read.
+date: '2026-10-29'
+summary: >-
+  Reviews models, mostly 1998–2007, in which a network's topology and
+  its nodes' states change each other, and names four recurrent outcomes:
+  robust self-organization toward critical states (Bornholdt and Rohlf's
+  threshold networks reach K = 2), spontaneous "division of labour" into
+  classes of nodes (Ito and Kaneko), complex topologies from local rules,
+  and new system-level dynamics such as bistability and oscillation in an
+  adaptive SIS epidemic. A sketch, not a theory: the mechanisms are
+  argued from examples, and its summary of Holme and Newman inverts the
+  model's parameter.
+---
+
+# NOTE-tmpwffnc: Gross and Blasius — Adaptive coevolutionary networks
+
+## Contribution
+
+It names a class, adaptive or coevolutionary networks, and argues that
+studies from Boolean networks, coupled maps, games and epidemics share
+four "hallmarks" that need a feedback loop between state and topology.
+It offers a first inventory of rules and their outcomes (Box 2) and a
+conjectured common mechanism: dynamics on the network make global
+topological information locally available, and local rewiring acts on
+it.
+
+## Key insight
+
+In a static network the topology shapes the dynamics; in an adaptive one
+the dynamics can also read out a global property of the topology, such as
+whether connectivity is above a percolation point, at each node. Local
+rewiring that reacts to that reading drives the topology to the point
+where the dynamics is critical, robustly and without tuning.
+
+## Assumptions
+
+None formal: it is a review. Its framing assumes a separation between
+state ("dynamics") and topology ("evolution"), defined in Box 1, and
+distinguishes systems with separated timescales from those where the two
+change at the same rate (§VI).
+
+## Key results
+
+As reported from the papers reviewed, not re-derived:
+
+- **Criticality (§III).** Christensen et al.'s Bak–Sneppen variant drives
+  the mean degree of the largest cluster to 2. Bornholdt and Rohlf's
+  threshold network, where frozen nodes gain links and active nodes lose
+  them, reaches K = 2 + 12.4 N^(−0.47), so K_c = 2 for large N.
+- **Division of labour (§IV).** Ito and Kaneko's coupled logistic maps,
+  with weights strengthened between similar states, split into
+  high- and low-out-degree classes that persist while individual links
+  turn over; Zhou and Kurths's opposite rule (strengthen links between
+  different states) homogenizes the network and aids synchronization.
+- **Games (§V).** Adaptive prisoner's dilemmas raise cooperation
+  ("topological punishment"); Pacheco et al. show that with fast rewiring
+  the game maps onto a coordination game. Holme and Ghoshal's agents
+  seeking centrality at low degree form a transient "VIP" class.
+- **Epidemics and opinions (§VI).** In Gross et al.'s adaptive SIS model,
+  susceptibles rewiring away from infected neighbours give discontinuous
+  transitions, bistability and oscillation; a three-variable moment
+  closure captures what one variable captures in the static model.
+  Holme and Newman's model (LIT-1128) has a continuous transition.
+- **Inventory (Box 2).** "Activity disconnects" leads to
+  self-organized percolation; "like-and-like" to heterogeneous topologies
+  and distinct node classes; "differences attract" to homogeneous ones.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Adaptive networks recurrently self-organize to critical states by local rules | moderate | several models (§III), each simulated |
+| C2 | Like-with-like reinforcement yields heterogeneous topologies and classes of nodes | weak | a handful of models; "quite universally" is the authors' impression |
+| C3 | Dynamics on a network can make global topological information locally accessible | moderate | Bornholdt–Rohlf argument and a toy model (end of §III) |
+| C4 | The four hallmarks have one underlying mechanism | weak | conjecture (§VII) |
+| C5 | In a timescale-separated system the fast dynamics must have a discontinuous transition for the adaptive interplay to persist | weak | asserted as a "mathematical insight", not shown |
+
+## Concepts
+
+- **Adaptive (coevolutionary) network**: one whose topology evolves as a
+  function of node states, which evolve on that topology.
+- **Dynamics / evolution**: in this paper, change of state and change of
+  topology respectively (Box 1).
+- **Division of labour**: emergence of topologically and functionally
+  distinct node classes from a homogeneous start; "de-mixing" when nodes
+  keep their class.
+
+## Connections
+
+It surveys, among others, Christensen et al. 1998, Bornholdt and Rohlf
+2000, Ito and Kaneko 2002–03, Zhou and Kurths 2006, Pacheco et al. 2006,
+Holme and Ghoshal 2006, Gross et al. 2006 and Holme and Newman 2006
+(LIT-1128). None of these except Holme and Newman is registered here.
+
+## Bearing on the record
+
+- **QUESTION-117.** A15 named it for "the general tools for the
+  endorsement canvas read as a directed weighted adaptive network". The
+  review supplies vocabulary and a list of mechanisms, not tools: no
+  model in it has authority or role, and the only weighted, directed
+  cases (Ito and Kaneko, Zhou and Kurths) are coupled oscillators. Two
+  items bear directly. Like-and-like reinforcement producing persistent
+  leader and follower classes is a predecessor the question should beat
+  if endorsement concentration is offered as new. And the moment-closure
+  approach, a few variables for state plus topology, is the kind of
+  economical reduction the question's "as economically" invites. Proposed
+  dated note below.
+- **LIT-1128.** The review's summary of Holme and Newman is wrong in a way
+  that matters for anyone using it as a pointer (Limitations).
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Reported, not checked.** Results are taken from the cited papers;
+  the review adds no analysis.
+- **Errors.** Its account of Holme and Newman (§VI) has the parameter
+  backwards: it says disagreeing neighbours convince each other with
+  probability φ and rewire with 1 − φ, so that at φ = 0 "opinions never
+  change" and at φ = 1 "no connections are rewired". In the paper φ is
+  the probability of rewiring (LIT-1128, Fig. 1 and §II). It also says
+  the final distribution of followers "approaches a power-law", which
+  the paper finds only at the critical point. Its account of Bornholdt
+  and Rohlf says that below K = 2 "all nodes change their state" and
+  above it "almost no node changes", the reverse of the next sentence's
+  rule (links are added when K < 2, which requires frozen nodes there).
+  The bibliography dates Holme and Newman 2007 (it is 2006) and gives
+  Holme and Ghoshal's article number as 908701 (098701); "Christiansen"
+  and "Christensen" alternate.
+- **Exponent sign.** Zhou and Kurths's V(k) ∼ k^(−θ) with θ = −0.48 is a
+  weight growing with degree; the double negative is as printed.
+
+## Open questions
+
+- Is C5 true, and what would a proof need?
+- Which adaptive-network rules produce persistent role classes in a
+  directed, weighted network, as an endorsement network is?

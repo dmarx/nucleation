@@ -1,0 +1,170 @@
+---
+status: Read
+paper: 'LIT-1130'
+title: 'Škorić, de Hoogh and Zannone — Evidence-based subjective logic'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Read in full on 2026-10-29 from arXiv's own copy, v2 of 24 February
+    2015 (https://arxiv.org/pdf/1402.3319, 33 pages), text extracted with
+    pdftotext; v2 is posted after submission and before the journal
+    version of August 2015. Read: §§1–9, Tables 1–4, the captions of
+    Figures 1–6, the appendix proof of Lemma 10 and the 45 references.
+    Figures 4–6 (Tribler matrices) were read from captions and text only.
+    Checked by record script (2026-10-29): Example 5's two opinions
+    (0.314, 0.341, 0.345) and (0.227, 0.324, 0.449); Table 1's opinions
+    and ratings from its evidence; C3's EBSL-⊙ evidence of 781.25 from the
+    network of Figure 2 with θ = 20,000; the bound θ ≥ p_max(1 + √5)/2.
+    The version of record (Int. J. Inf. Secur. 15(4):381–402, 2016,
+    CC BY) at link.springer.com and its TU/e repository copy returned
+    bot pages to curl on 2026-10-29 and were not compared.
+date: '2026-10-29'
+summary: >-
+  Subjective logic's discounting x ⊗ y multiplies opinions and does not
+  distribute over its evidence-adding consensus ⊕, so trust networks must
+  be put in a canonical form, often by discarding edges, to avoid
+  double-counting. EBSL replaces it with x ⊡ y = g(x)·y, a scalar
+  multiple of y's evidence, which distributes over ⊕; the recursive,
+  PageRank-like fixed point R = A ⊕ (offdiag R ⊡ A) then handles loops
+  without discarding anything, and on Tribler data it converges in 9–47
+  iterations. There is no ground truth; robustness to self-promotion,
+  slander and Sybil attacks is left for future work.
+---
+<!-- inactive-ok-file: CLAIM-281 — Proposed; the claim this reading bears on, cited as open -->
+
+# NOTE-tmp33iar: Škorić, de Hoogh and Zannone — Evidence-based subjective logic
+
+## Contribution
+
+It finds the reason subjective logic (Jøsang's SL) cannot be used as a
+flow-based reputation metric on arbitrary graphs and fixes it. SL's
+consensus adds evidence, but its discounting multiplies belief masses,
+so the two do not cooperate: x ⊗ (y ⊕ z) ≠ (x ⊗ y) ⊕ (x ⊗ z). The paper
+defines a scalar multiplication of evidence, builds discounting from it,
+proves the right distribution law and the absence of double-counting for
+transported evidence, and runs an EigenTrust-style fixed point on a
+BitTorrent dataset.
+
+## Key insight
+
+Trust in a recommender should scale the evidence the recommender passes
+on, not reshape it. If discounting is "keep a fraction g(x) of y's
+evidence", then sending the same evidence along several paths sums
+fractions of one body of evidence, and the referral links serve only as
+weights, so nothing is counted twice.
+
+## Assumptions
+
+- **Opinions as evidence.** x = (p, n, c)/(p + n + c) for positive and
+  negative evidence p, n; Theorem 1 derives this map from four
+  requirements, leaving c > 0 free (c = 2 in SL).
+- **No dogmatic opinions.** u > 0 throughout (the space Ω′), so evidence
+  is finite.
+- **A weighting function g : Ω′ → [0, 1]**, unspecified in general;
+  g(x) = x_b, √x_b, or p(x)/θ in the experiments.
+- **Referral and functional trust are separate**: A holds referral
+  opinions, T functional ones, A_xx = U to stop self-rating; all opinions
+  are published.
+
+## Key results
+
+- **SL's failures (§3–4).** Examples 2–3: with n(x) = 0 and much evidence
+  in y, p(x ⊗ y) ≈ p(x)/4, so none of y's evidence survives. Example 5:
+  (x ⊗ y) ⊕ (x ⊗ z) = (0.314, 0.341, 0.345) but x ⊗ (y ⊕ z) =
+  (0.227, 0.324, 0.449). The network of Figure 2 has no canonical form
+  unless an edge is dropped; a loop has none.
+- **Scalar multiplication (Def. 11, Lemmas 2–4).** α·x =
+  (αx_b, αx_d, x_u)/(α(x_b + x_d) + x_u) multiplies evidence by α and
+  distributes over ⊕.
+- **EBSL discounting (Def. 12, Theorem 2, Lemmas 5–6).** x ⊡ y = g(x)·y:
+  p(x ⊡ y) = g(x)p(y), discounting never lowers uncertainty,
+  x ⊡ (y ⊕ z) = (x ⊡ y) ⊕ (x ⊡ z), chains commute; not associative.
+  Theorem 3: no g makes ⊡ equal ⊗.
+- **Fully linear variant (Def. 13, Lemmas 8–10).** g(x) = p(x)/θ is
+  associative and left-distributive, but ignores negative evidence and
+  needs θ above every positive evidence in the network; Lemma 10 says
+  linear g must be a combination of p and n.
+- **Fixed point (§6).** R = A ⊕ (offdiag R ⊡ A), F_iP = T_iP ⊕
+  ⊕_j R_ij ⊡ T_jP. Evidence about j in R can never exceed the evidence
+  about j in A, so the iteration cannot run to full belief. In a loop
+  R_12 = A_12 ⊕ (R_12 ⊡ A_23) ⊡ A_32; with A_32 near full belief, R_12
+  goes to full belief "even if user 1 has little trust in user 2".
+- **Experiments (§7).** On Figure 2's network SL's naïve recursion counts
+  evidence twice, its canonical form discards it, EBSL with g = x_b or
+  √x_b keeps the evidence ratio and the amount; ⊙ loses most of it.
+  Tribler (10,364 nodes in 200 clusters): convergence in 47 (√x_b), 24
+  (x_b) and 9 (⊙) iterations, and the naïve SL recursion is still at
+  10⁻⁸ after 1000.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | SL's ⊗ does not distribute over ⊕ and so double-counts in non-canonical networks | strong | Example 5, checked; Eqs. (8)–(9) |
+| C2 | EBSL's ⊡ distributes over ⊕ and transports evidence without double-counting | strong | Lemma 5, Lemma 11 |
+| C3 | The EBSL fixed point handles arbitrary networks, loops included, without discarding information | moderate | the evidence bound of §6.2; convergence observed, not proved |
+| C4 | EBSL gives "more accurate" reputations | weak | no ground truth; the authors say numerics cannot prove which is right |
+| C5 | EBSL with suitable g is preferable to ⊗ and ⊙ | moderate | evidence propagation on synthetic and Tribler data |
+
+## Concepts
+
+- **Opinion**: (belief, disbelief, uncertainty), summing to 1.
+- **Consensus ⊕**: addition of evidence.
+- **Referral trust / functional trust**: trust in a party's
+  recommendations / in its performing a function.
+- **Canonical form**: a network expression in which each edge occurs
+  once.
+- **Double counting**: ⊕ applied to opinions with shared evidence.
+
+## Connections
+
+It builds on Jøsang's SL (2001) and his canonical-form network analysis,
+and on the authors' flow-based reputation metric (Simone, Škorić and
+Zannone 2012), itself in the line of EigenTrust and PageRank. Cerutti et
+al.'s geometric discounting operators are compared and rejected. None of
+these is registered here.
+
+## Bearing on the record
+
+- **CLAIM-282.** EBSL's fixed point is a damped recursive delegation with
+  self-rating forbidden (A_xx = U), the design CLAIM-282 is about, in an
+  evidence algebra. The paper's loop case shows the claim's point: R_12,
+  user 1's trust in user 2, depends on user 3's opinion of 2 weighted by
+  1's trust in 3, which depends on R_12 itself, and a near-certain A_32
+  can make R_12 near-certain whatever A_12 says. What EBSL adds is a
+  ceiling: no user's evidence about j can exceed the evidence about j
+  that others hold directly, so recycling cannot create evidence, only
+  re-weight it. It does not make i's standing independent of i's own
+  opinions, which CLAIM-282 says only one-hop allocation does. Proposed
+  dated note below.
+- **CLAIM-281.** SL and EBSL already index trust by role in two values,
+  referral and functional, and per proposition; F_iP is computed per P.
+  That is a working predecessor of role-indexed endorsement with two
+  roles. A15's caution holds: the algebra transports evidence, it does
+  not stop a well-trusted referrer's evidence from dominating.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **No ground truth** and no attack model: "Experiments for assessing the
+  robustness … against attacks like slandering, self-promotion and Sybil
+  attacks … are left for future work."
+- **Convergence is observed, not proved**; oscillation is possible for
+  tuned A and damped by adding A each step.
+- **Choice of g** is left open, and the results depend on it.
+- **Slips.** §8 says A ⊡ B = B for g(A) > 0, but B, full belief, is
+  excluded from Ω′; it holds as a limit (Corollary 1). Table 1 gives
+  (5, 5) as uncertainty 0.166 where 2/12 rounds to 0.167. Lemma 10's
+  Riesz–Fréchet argument needs g bounded (continuous) as well as
+  additive, and Ω* with u = 0 allowed contains dogmatic points, so the
+  Hilbert-space structure is assumed rather than shown.
+
+## Open questions
+
+- Under EBSL, how much can a coalition raise a member's R by endorsing
+  each other, given the evidence ceiling?
+- Does a g that uses negative evidence keep left-distributivity in any
+  bounded form?
