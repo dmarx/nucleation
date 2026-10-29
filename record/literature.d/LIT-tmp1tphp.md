@@ -1,8 +1,12 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29, not read; set Unfetched the same day under ADR-053: a
+  lawful free copy exists on SSRN
+  (papers.ssrn.com/sol3/papers.cfm?abstract_id=2530260, submitted version,
+  listed by Unpaywall). On 2026-10-29 SSRN answered HTTP 403 (a bot
+  challenge). A human reader can likely open it. No NOTE is filed. It
+  stays Unfetched until it is read, not on merit.
 title: 'Rival conceptions of rivalry: why some competitions mean more than others'
 version: 1
 history:
@@ -11,7 +15,9 @@ history:
   note: >-
     Filed, not read, on the owner's word of 2026-10-29, from the readings
     of self-categorization theory and the fandom works. Crossref: European
-    Sport Management Quarterly 15(2), 227–248; online 2015-02-23.
+    Sport Management Quarterly 15(2), 227–248; online 2015-02-23. Set
+    Unfetched the same day under ADR-053 after a fetch was refused; the
+    status note gives the address.
 tags:
 - social-identity
 date: '2026-10-29'

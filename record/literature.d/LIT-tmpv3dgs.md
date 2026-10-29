@@ -1,8 +1,12 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29, not read; set Unfetched the same day under ADR-053: a
+  lawful free copy exists in Durham University's repository
+  (durham-repository.worktribe.com/output/1192087, submitted version, CC
+  BY, listed by Unpaywall). On 2026-10-29 the page answered HTTP 403. A
+  human reader can likely open it. No NOTE is filed. It stays Unfetched
+  until it is read, not on merit.
 title: 'Social Identity Theory''s Self-Esteem Hypothesis: A Review and Some Suggestions for Clarification'
 version: 1
 history:
@@ -11,7 +15,8 @@ history:
   note: >-
     Filed, not read, on the owner's word of 2026-10-29, from the readings
     of self-categorization theory and the fandom works. Crossref: PSPR
-    2(1), 40–62; online 1998-02-01.
+    2(1), 40–62; online 1998-02-01. Set Unfetched the same day under
+    ADR-053 after a fetch was refused; the status note gives the address.
 tags:
 - social-identity
 date: '2026-10-29'

@@ -41,7 +41,7 @@ summary: >-
   truth are its objections. It does not say people are self-centred, or
   that groups have no good of their own.
 ---
-<!-- inactive-ok-file: QUESTION-tmprbq0b CLAIM-tmpybc4k CLAIM-tmprudek THEORY-tmpo85ke THEORY-tmpsm03n THEORY-655 LIT-tmpfxss5 LIT-tmp7qbeb LIT-tmpgjlp7 LIT-tmp8zvjf LIT-tmp9rujh LIT-tmpvsmnt LIT-tmpki8fs LIT-tmpm40au LIT-tmply7z7 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
+<!-- inactive-ok-file: QUESTION-tmprbq0b CLAIM-tmpybc4k NOTE-tmpaso81 CLAIM-tmprudek THEORY-tmpo85ke THEORY-tmpsm03n THEORY-655 LIT-tmpfxss5 LIT-tmp7qbeb LIT-tmpgjlp7 LIT-tmp8zvjf LIT-tmp9rujh LIT-tmpvsmnt LIT-tmpki8fs LIT-tmpm40au LIT-tmply7z7 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
 
 # CLAIM-tmpjylq8: No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 
@@ -93,3 +93,23 @@ The record holds four kinds of support:
   a "we" is a self at all, and León argues that intimate "we"s are built
   by individualization. Johnston ([LIT-tmpm40au](../literature.d/LIT-tmpm40au.md)) takes the same premise to
   the opposite moral: the good person's self is as large as humanity.
+
+## Note of 2026-10-29: team reasoners and team benefactors
+
+Salice and Miyazono (NOTE-tmpaso81) distinguish two people who both act
+for a group.
+
+- **The team benefactor** reasons in the first person singular about the
+  group's good: "I intend that we J".
+- **The team reasoner** has undergone self-transformation and intends as
+  part of the group: "We intend to J".
+
+The thesis fits the team reasoner best. Their good is the we's, and if the
+we is their self, it is self-interest on a larger self. It fits the team
+benefactor least: they care about a group without counting themselves in
+it. Salice and Miyazono also offer what CLAIM-tmprudek asks for, a mark of
+self-extension apart from caring: the activated social self, triggered by
+group cues and not under direct rational control. A sharpened thesis would
+say that collectivist action by team reasoners is self-interest on an
+extended self, and leave the team benefactor's concern as the open case.
+

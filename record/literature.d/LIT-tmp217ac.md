@@ -1,8 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  read in full 2026-10-29 (NOTE-tmpaso81) from the authors' accepted
+  manuscript in University College Cork's repository (CORA); worth reading
+  as the distinction between adopting a group's perspective and the
+  self-transformation of identifying as a member, the second cast as a
+  Pushmi-Pullyu representation that motivates directly, and for its team
+  reasoner versus team benefactor, which sharpens the owner's thesis
+  (CLAIM-tmpjylq8). Conceptual.
 title: 'Being one of us. Group identification, joint actions, and collective intentionality'
 version: 1
 history:
@@ -12,7 +17,12 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, from the readings
     of self-categorization theory and the fandom works. Crossref:
     Philosophical Psychology 33(1), 42–63; online 2019-10-28, so
-    `published:` is that date (ADR-002).
+    `published:` is that date (ADR-002). Set Active the same day: read in
+    full in NOTE-tmpaso81 from the accepted manuscript at cora.ucc.ie
+    (hdl.handle.net/10468/9283), the green copy Unpaywall lists. The
+    filing summary, drawn before reading, said the paper makes group
+    identification what enables we-intentions; it argues instead that
+    identification has two separable parts, and the summary is corrected.
 tags:
 - social-ontology
 - social-identity
@@ -27,15 +37,14 @@ keywords:
 - 'self-categorization'
 implementations: []
 summary: >-
-  Salice & Miyazono (2019/2020). Draws on social identity research to argue that group identification, a self-representation as a group member, is what lets individuals form we-intentions and act jointly, connecting self-categorization to collective intentionality.
+  Salice & Miyazono (2019/2020). Group identification, as the shared-agency literature uses it, conflates adopting the group's perspective (team reasoning) with self-transformation (understanding oneself as a member). The two dissociate: the discursive dilemma shows perspective without identification, and toddlers' joint action shows identification before perspective-taking appears. Self-transformation is a Pushmi-Pullyu representation, describing and motivating at once ("you are a member of us; act as such"), and is not under direct rational control.
 ---
 
 # LIT-tmp217ac: Being one of us. Group identification, joint actions, and collective intentionality
 
 Salice, A. & Miyazono, K. (2020). *Philosophical Psychology*, 33(1), 42–63.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmpaso81, from the authors' accepted manuscript.
 
 ## Why this is here
 

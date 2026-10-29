@@ -1,8 +1,12 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-10-29, not read. No copy was sought, so it is Deferred, not
-  Unavailable ([ADR-041](../decisions.d/ADR-041.md)). No NOTE is filed.
+  filed 2026-10-29, not read; set Unfetched the same day under ADR-053: a
+  lawful free copy exists in Duke University's repository
+  (hdl.handle.net/10161/1993, submitted version, listed by Unpaywall). On
+  2026-10-29 DukeSpace answered with a bot challenge (Anubis) that needs a
+  browser. A human reader can likely open it. No NOTE is filed. It stays
+  Unfetched until it is read, not on merit.
 title: 'Economics and Identity'
 version: 1
 history:
@@ -12,7 +16,8 @@ history:
     Filed, not read, on the owner's word of 2026-10-29, from the readings
     of self-categorization theory and the fandom works. Crossref: QJE
     115(3), 715–753; August 2000 only, so `published:` is 2000-08-01 and
-    means August 2000 (ADR-002).
+    means August 2000 (ADR-002). Set Unfetched the same day under ADR-053
+    after a fetch was refused; the status note gives the address.
 tags:
 - altruism
 - social-identity
