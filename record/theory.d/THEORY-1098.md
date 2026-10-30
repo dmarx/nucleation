@@ -59,7 +59,7 @@ summary: >-
   annotation.
 ---
 <!-- inactive-ok-file: THEORY-1223 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
-<!-- inactive-ok-file: QUESTION-277 CASE-168 THEORY-1100 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 CASE-168 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
 
 # THEORY-1098: On Karnkowska and colleagues' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found
 

@@ -1,23 +1,10 @@
 ---
 number: 1100
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp74xnn
-promote_when: >-
-  For each of the two systems with import at scale (the Paulinella
-  chromatophore and the nitroplast), a census of imported proteins that
-  traces each one's gene to the host's own lineage, to a third-party
-  bacterium, or to the endosymbiont, by phylogenies of the nuclear genes,
-  together with evidence that the imported proteins replace functions lost
-  from the endosymbiont genome (a gene absent from it, and the imported
-  protein needed for the function, by knock-down or complementation).
-  More proteomic lists of enriched proteins cannot settle it, since
-  enrichment shows targeting, not replacement. It is refuted if a full
-  census finds most replacing proteins encoded by genes transferred from
-  the endosymbiont, or if no EGT in Braarudosphaera proves to be a
-  failure of detection.
-title: 'On Sørensen and colleagues'' review, a bacterial endosymbiont becomes genetically integrated, the authors'' mark of an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host''s own or come from other bacteria'
-version: 1
+title: 'On Sørensen and colleagues'' review, a bacterial endosymbiont becomes genetically integrated, the authors'' mark of an organelle, when nuclear genes whose products are imported into it functionally replace essential genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, many of which fill gaps left by lost genes, the imported proteins come mostly from the host''s own genes or from other bacteria, and in the nitroplast no gene transfer from the endosymbiont has been found'
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -28,13 +15,50 @@ history:
     read here. The origin of the imported proteins is summarized ("mostly
     from the host itself"), not counted, and the absence of EGT in the
     nitroplast is a negative result. Hence Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-third status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065), as its siblings
+    were by the twenty-second. The title reports what Sørensen and
+    colleagues' review says; NOTE-1241 read it in full, and nothing in the
+    record contradicts the report (CASE-174 was revised to it). What the
+    condition asked beyond the title, that the authors be right, moves to
+    THEORY-tmpgkhdn, Proposed, which extends this entry and keeps the
+    condition word for word (ADR-065 §3). Narrowed first (ADR-047 kind 3,
+    note below): the review says the imported proteins come "mostly from
+    the host itself", and that some "add novel functionality", so the
+    title no longer says the replacing genes are mostly the host's; it
+    keeps the review's hedge that no EGT "has been found" in the
+    nitroplast; and it gives the authors' definition, essential genes
+    functionally replaced by nuclear genes. The old title: "On Sørensen
+    and colleagues' review, a bacterial endosymbiont becomes genetically
+    integrated, the authors' mark of an organelle, when host proteins
+    imported into it replace genes it has lost, and this does not require
+    gene transfer from the endosymbiont: in the Paulinella chromatophore
+    and the nitroplast, the two systems with hundreds of imported
+    proteins, the replacing genes are mostly the host's own or come from
+    other bacteria". The answers edge on QUESTION-277 is moved to bears_on
+    (ADR-060): the reading is evidence on the question, not an answer to
+    it as posed. The old promote_when: "For each of the two systems with
+    import at scale (the Paulinella chromatophore and the nitroplast), a
+    census of imported proteins that traces each one's gene to the host's
+    own lineage, to a third-party bacterium, or to the endosymbiont, by
+    phylogenies of the nuclear genes, together with evidence that the
+    imported proteins replace functions lost from the endosymbiont genome
+    (a gene absent from it, and the imported protein needed for the
+    function, by knock-down or complementation). More proteomic lists of
+    enriched proteins cannot settle it, since enrichment shows targeting,
+    not replacement. It is refuted if a full census finds most replacing
+    proteins encoded by genes transferred from the endosymbiont, or if no
+    EGT in Braarudosphaera proves to be a failure of detection."
 tags:
 - endosymbiosis
 - natural-sciences
 date: '2026-10-27'
 source:
 - LIT-1560
-answers:
+bears_on:
 - QUESTION-277
 summary: >-
   Sørensen, Stiller, Kröninger & Nowack (2025), [LIT-1560](../literature.d/LIT-1560.md), read in
@@ -48,9 +72,10 @@ summary: >-
   and the endosymbiont's genes need not move. The origins are stated in
   summary, not counted, and the import mechanisms are unknown.
 ---
+<!-- inactive-ok-file: THEORY-tmpgkhdn — Proposed; filed beside this reading by the twenty-third status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 CASE-174 CASE-167 — Open or Proposed; the question, cases, accounts and unread works set beside this, nothing here rests on them -->
 
-# THEORY-1100: On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria
+# THEORY-1100: On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when nuclear genes whose products are imported into it functionally replace essential genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, many of which fill gaps left by lost genes, the imported proteins come mostly from the host's own genes or from other bacteria, and in the nitroplast no gene transfer from the endosymbiont has been found
 
 ## Source
 
@@ -113,3 +138,18 @@ picture of mitochondria and plastids, and UCYN-A could have shown EGT.
 - **[THEORY-1049](THEORY-1049.md).** McCutcheon et al. presume host supply in the smallest
   insect symbionts with no mechanism. This account gives the mechanism
   where it is shown, but only for two protist systems above 1 Mb.
+
+## Note of 2026-10-30: promoted, narrowed, and the wider thesis filed beside it
+
+The twenty-third status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md), as the
+twenty-second promoted its siblings: it reports what Sørensen and
+colleagues' review says, and [NOTE-1241](../notes.d/NOTE-1241.md) read the review in full. Two
+clauses of the old title went past the review, and the title now follows
+it ([ADR-047](../decisions.d/ADR-047.md) kind 3). The old title said the replacing genes are mostly the
+host's own; the review says that of the imported proteins, some of which
+"add novel functionality". And it lost the review's hedge for the
+nitroplast, where "Evidence for EGT has not been found". The title now
+also gives the authors' definition: essential genes functionally replaced
+by nuclear genes. Whether genetic integration needs no gene transfer, and
+whether the replacing genes are mostly the host's, is [THEORY-tmpgkhdn](THEORY-tmpgkhdn.md)'s
+question, Proposed, which keeps this entry's old promote_when.

@@ -220,3 +220,12 @@ anchor from a structure that only persists, have not been computed.
 [ARG-028](../arguments.d/ARG-028.md)'s open question, whether measures counted in the record's own
 grammar can show anchoring at all, is unanswered. [CLAIM-184](CLAIM-184.md) is no longer
 filed as an objection: it states a cost of this claim, not a denial.
+
+## Note of 2026-10-30: what holds it back
+
+Rechecked after [CLAIM-184](CLAIM-184.md)'s version 3 (2026-10-30), which drops the
+unread [LIT-917](../literature.d/LIT-917.md) from its grounds and leaves its text and its relation to
+this claim unchanged. The first defeater is still unchecked: [CASE-183](../cases.d/CASE-183.md)'s
+inbound references per code have not been computed, and [ARG-028](../arguments.d/ARG-028.md)'s
+question, whether the record's own grammar can show anchoring, is still
+open.

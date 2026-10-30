@@ -103,3 +103,10 @@ Nothing was tested. The account is argued in two steps.
   early influence) are instances of the same feedback in an organization.
 - **[CLAIM-423](../claims.d/CLAIM-423.md).** The horizon half of that claim has its nearest source
   here; the authority half does not.
+
+## Note of 2026-10-30: what holds it back
+
+No comparison in the record measures how often and how cheaply matched
+political and market arrangements are reversed. Pierson argues the
+contrast, with one illustration chosen after the event, and this reading
+has only his 1997 working paper ([NOTE-1076](../notes.d/NOTE-1076.md)).

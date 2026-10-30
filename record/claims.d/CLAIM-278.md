@@ -59,7 +59,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-286 CLAIM-024 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-036 — Proposed; the argument this claim moved to -->
-<!-- inactive-ok-file: CLAIM-467 — Proposed; the claim that now undercuts the argument this one moved to, open -->
 
 # CLAIM-278: An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids
 

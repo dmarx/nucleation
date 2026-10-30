@@ -285,3 +285,14 @@ def test_a_blocker_note_is_stale_when_a_work_or_entry_it_names_has_moved_since(t
     r.docs["NOTE-003"]["date"] = "2026-10-19"
     r.docs["THEORY-009"]["history"] = []
     assert r.stale_blockers() == []
+
+
+def test_a_blocker_note_naming_a_temporary_code_is_watched_too(tmp_path):
+    # an entry filed the same day still carries its temporary code until main concretizes it
+    r = record(tmp_path)
+    r.docs["NOTE-tmpab12c"] = {"status": "Skimmed", "paper": "LIT-001", "date": "2026-10-20",
+                               "history": [{"version": 2, "date": "2026-10-26", "note": "Read further."}]}
+    r.bodies["CLAIM-015"] = ("\n## Note of 2026-10-20: what holds it back\n\n"
+                             "NOTE-tmpab12c reads only the abstract.\n")
+    r = Record(r.docs, r.bodies)
+    assert r.stale_blockers() == [("CLAIM-015", "2026-10-20", ["NOTE-tmpab12c"])]

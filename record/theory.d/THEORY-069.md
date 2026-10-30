@@ -23,7 +23,7 @@ promote_when: >-
   and which shows reach, not that the bimanual transition is what the
   model says.
 title: 'Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -45,6 +45,20 @@ history:
     1986 stochastic analysis are unread and the data are held as their
     author reports them" is replaced. The title and status are
     unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-058, ADR-065). What CLAIM-172 uses of this account, the model with
+    its order parameter and the critical fluctuations read first-hand, is
+    split off as THEORY-tmp1drab, Active, on THEORY-1110's pattern; this
+    entry keeps the general account and its condition. CLAIM-172 now
+    grounds on the split and lists this entry under corroborated_by, so
+    CLAIM-172 moves from supports to corroborates. The note of 2026-10-30
+    said a split would free nothing because CLAIM-172 grounded on
+    THEORY-265, Proposed; CLAIM-172 had moved THEORY-265 to
+    corroborated_by on 2026-10-29, and THEORY-265 is Active. The title and
+    status are unchanged.
 tags:
 - behavioral-integration
 - complex-systems
@@ -67,9 +81,9 @@ summary: >-
 supports:
 - CLAIM-110
 - CLAIM-163
-- CLAIM-172
 corroborates:
 - CLAIM-045
+- CLAIM-172
 ---
 <!-- inactive-ok-file: LIT-578 — Unavailable; Dynamic Patterns, the unread book, not leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-056 — Proposed; the record's account of disorder as an alternative stable state, and its account of control without a regulator, named for their bearing -->
@@ -192,6 +206,7 @@ of relaxation time before the switch, predicted in [LIT-1851](../literature.d/LI
 Scholz, Kelso and Schöner 1987 (Physics Letters A 123:390), which is not
 filed; and hysteresis, which HKB 1985 reports from Kelso's earlier
 experiments without data. The switch's direction and the critical
-fluctuations are now read first-hand ([LIT-1851](../literature.d/LIT-1851.md)). A split would still
-free nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md), and [CLAIM-172](../claims.d/CLAIM-172.md) grounds on
-[THEORY-265](THEORY-265.md) and is objected to by [CLAIM-165](../claims.d/CLAIM-165.md), all Proposed.
+fluctuations are now read first-hand ([LIT-1851](../literature.d/LIT-1851.md)). What [CLAIM-172](../claims.d/CLAIM-172.md)
+needs of it, the model and the fluctuations, is split off as [THEORY-tmp1drab](THEORY-tmp1drab.md),
+Active. A further split frees nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md),
+Proposed.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmphywi5
 title: 'In Bernabeu, Manzano-Morales, Marcet-Houben and Gabaldón''s reconstruction of the last eukaryotic common ancestor''s proteome, two bacterial phyla besides the mitochondrial ancestor, Myxococcota and Planctomycetota, each account for a share of the proteome comparable to that of Alphaproteobacteria and Asgard archaea under thresholds calibrated on those accepted partners, and stem-length distributions order the acquisitions as waves, Asgard first, then Planctomycetota, then the mitochondrial ancestor and Myxococcota together; the authors read this as serial associations with several partners, while conceding that their data cannot say whether any donor was a symbiont'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-27'
@@ -44,6 +44,12 @@ history:
     thresholds, cannot settle it. It is in trouble if the extra donors
     vanish under the stricter filter, or if an independent clock puts
     their genes after the mitochondrion's."
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    LIT-1595 is read (NOTE-1240), so the Connections entry that called it
+    unread now names the reading. Picked up by the twenty-third status
+    review (LU-DP-011).
 tags:
 - endosymbiosis
 - natural-sciences
@@ -150,7 +156,7 @@ in dispute.
   carbon metabolism, Planctomycetota–Verrucomicrobiota and Myxococcota–
   Desulfobacterota both appear as sisters, as this account would expect.
   But that paper finds "no additional dominant source of gene donations".
-- **[LIT-1595](../literature.d/LIT-1595.md) (Pittis & Gabaldón 2016, unread).** This is that programme's
+- **[LIT-1595](../literature.d/LIT-1595.md) (Pittis & Gabaldón 2016, read in [NOTE-1240](../notes.d/NOTE-1240.md)).** This is that programme's
   continuation, now with named donors.
 - **[QUESTION-277](../questions.d/QUESTION-277.md).** This is the "distributed" side of the record's live
   disagreement. The distribution shown is of gene donors, so it bears on G.

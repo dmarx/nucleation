@@ -1,10 +1,24 @@
 ---
 number: 448
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpd6q2w
 title: 'An ordinal potential describes only the winning-move relation it is computed on; where an organization''s legibility regime selects which contests are admitted or recorded, an acyclic record, even a persistent potential, can be the product of selective contestation, so observed coherence is not evidence that the organization''s perspectives are integrated, and an intervention that improves its self-governance may at first increase the disagreement observed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-third status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). THEORY-916 moves
+    from grounds to corroborated_by (ADR-058): the body cites the
+    DeGroot–Friedkin model as the baseline, "a special case", and the
+    argument runs through TERM-077, TERM-078, TERM-064, CASE-124,
+    THEORY-902 and LIT-1482, all Active. `LIT-Jia-2015-1146`, a code that
+    names no document, leaves grounds; Jia et al. is LIT-1146, read
+    through THEORY-916. Its objection to CLAIM-440 is written into that
+    claim. No objection is on file against it, and it has no defeat
+    condition to meet. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -29,10 +43,10 @@ complements:
 - CLAIM-444
 grounds:
 - CASE-124
-- THEORY-916
 - THEORY-902
-- LIT-Jia-2015-1146
 - LIT-1482
+corroborated_by:
+- THEORY-916
 summary: >-
   From the exchange of 2026-10-24 (workbench entry of 2026-10-24, U19–U21),
   after the owner pointed to [CASE-124](../cases.d/CASE-124.md) ("i think we already have a three

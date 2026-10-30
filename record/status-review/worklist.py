@@ -314,7 +314,7 @@ class Record:
             if self.status(c) != "Proposed" or not (d := self.blocker_date(c)):
                 continue
             note = self.bodies[c][self.bodies[c].rfind(f"## Note of {d}: what holds it back"):]
-            named = sorted({t for t in re.findall(r"\b[A-Z]+-\d+\b", note) if t in self.docs and t != c})
+            named = sorted({t for t in re.findall(r"\b[A-Z]+-(?:\d+|tmp[a-z0-9]+)\b", note) if t in self.docs and t != c})
             changed = [t for t in named if self.moved_since(t, d)]
             if changed:
                 out.append((c, d, changed))

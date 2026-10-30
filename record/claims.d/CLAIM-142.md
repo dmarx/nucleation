@@ -203,3 +203,11 @@ identical" and "every pair of realizations that judges reliably distinguish"
 need a standard beyond any analyst's family, and the record's argument for
 one, competent uptake ([CLAIM-217](CLAIM-217.md)), is Proposed and rests on [CLAIM-151](CLAIM-151.md), which
 is held back too. [CLAIM-217](CLAIM-217.md) held is what would promote this claim.
+
+## Note of 2026-10-30: what holds it back
+
+Rechecked after [CLAIM-151](CLAIM-151.md)'s version 5 (2026-10-30), which only drops
+[CLAIM-004](CLAIM-004.md) from its rests_on; [CLAIM-151](CLAIM-151.md) is still Proposed. So [CLAIM-217](CLAIM-217.md),
+the competent-uptake standard that the realist half of this claim needs
+against [CLAIM-206](CLAIM-206.md), still rests on a premise not held, and [CLAIM-217](CLAIM-217.md) held
+is still what would promote this claim.

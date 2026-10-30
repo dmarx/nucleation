@@ -105,3 +105,11 @@ with flexibility penalized, which is this claim's defeated_if and
 own critical question (the lab's matched comparators find the
 organizational vocabulary adds no constraint), and [CLAIM-467](CLAIM-467.md) undercuts
 it.
+
+## Note of 2026-10-30: what holds it back
+
+Rechecked after [CLAIM-467](CLAIM-467.md) went Active (2026-10-30). That firms the undercut
+of [ARG-036](../arguments.d/ARG-036.md), the one argument concluding this claim, and does not supply what
+the claim waits on: a prediction that follows from the shared organizational
+variables and not from phenomenon-specific or central-executive models with
+flexibility penalized (its defeated_if; [QUESTION-088](../questions.d/QUESTION-088.md)'s test).

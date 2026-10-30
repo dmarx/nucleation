@@ -1,10 +1,10 @@
 ---
 number: 172
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmptsdgt
 title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-11'
@@ -73,6 +73,22 @@ history:
     model as a case of the criterion by a different mechanism, one the
     claim would survive losing. THEORY-265 is promoted by the same
     review. The claim is unchanged.
+- version: 10
+  date: '2026-10-30'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057, ADR-058, ADR-065). Its one unheld premise was
+    THEORY-069, held Proposed for its relaxation-time and hysteresis data.
+    The criterion uses only what Haken, Kelso and Bunz 1985 and Kelso,
+    Scholz and Schöner 1986 show, both now read in full: relative phase as
+    the pair's own variable, with two attractors, a switch and critical
+    fluctuations. THEORY-tmp1drab, split from THEORY-069 on THEORY-1110's
+    pattern, states that and replaces it in grounds; THEORY-069 moves to
+    corroborated_by. CLAIM-165 was written in at version 4, and nothing in
+    the record meets the defeated_if. QUESTION-009 moves from answers to
+    bears_on (ADR-060): the claim gives a sufficient mark of a combined
+    form and leaves open whether that form is an agent. The blocker note
+    of 2026-10-29 is removed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -89,10 +105,10 @@ tags:
 - complex-systems
 date: '2026-10-11'
 line: distributed-agency
-answers:
+bears_on:
 - QUESTION-009
 grounds:
-- THEORY-069
+- THEORY-tmp1drab
 - LIT-097
 - THEORY-582
 - LIT-439
@@ -117,10 +133,11 @@ complements:
 - CLAIM-157
 corroborated_by:
 - THEORY-265
+- THEORY-069
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
-<!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading the criterion is drawn from, with its unread originals -->
+<!-- inactive-ok-file: THEORY-069 — Proposed; the general HKB account, corroborating only: its relaxation-time and hysteresis data are unread -->
 
 # CLAIM-172: Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
 
@@ -134,7 +151,8 @@ Aizawa ([LIT-455](../literature.d/LIT-455.md)) name the step a fallacy, and thei
 nerve and the muscle: coupled, and not part of each other.
 
 Coordination dynamics offers a different kind of criterion. In HKB
-([THEORY-069](../theory.d/THEORY-069.md)), two effectors coupled strongly enough stop being described
+([THEORY-tmp1drab](../theory.d/THEORY-tmp1drab.md), the model and its reported fluctuations, read first-hand;
+the general account is [THEORY-069](../theory.d/THEORY-069.md)), two effectors coupled strongly enough stop being described
 well by their separate states. The pair has a collective variable, relative
 phase, with its own attractors, its own critical fluctuations and its own
 switch. Kelso extends this to person–person and person–machine coordination
@@ -192,10 +210,3 @@ mechanism.
   ([THEORY-275](../theory.d/THEORY-275.md), [LIT-947](../literature.d/LIT-947.md), [NOTE-788](../notes.d/NOTE-788.md)). The criterion "each side's
   timing shifts with the other's" therefore needs an intervention on one
   member ([QUESTION-063](../questions.d/QUESTION-063.md)), not observed flow, to tell peers from a hierarchy.
-
-## Note of 2026-10-29: what holds it back
-
-Its one premise not held is [THEORY-069](../theory.d/THEORY-069.md), the HKB reading its criterion is
-drawn from, which is Proposed because the bimanual data are reported
-rather than shown and no original or replication is read. [CLAIM-165](CLAIM-165.md)'s
-objection is written in (version 4).

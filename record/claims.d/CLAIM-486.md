@@ -81,3 +81,13 @@ its defeat condition states: the handshake keeps the coarser proposition
 "greet one another warmly". No case in the record changes the proposition at
 every grain a defender could choose, with independent evidence that the act
 was kept.
+
+## Note of 2026-10-30: what holds it back
+
+No case in the record changes the proposition at every grain a defender
+could choose, with independent evidence that the act was kept. [CASE-056](../cases.d/CASE-056.md), the
+one documented case, still meets the reply its defeat condition states: the
+handshake keeps "greet one another warmly". [CASE-056](../cases.d/CASE-056.md) was revised on
+2026-10-30 when Nida's passages were read first-hand in the Reader reprint.
+That confirms the quotations and, as its own note says, adds no reader
+evidence, so its condition (c) still rests on divided expert verdicts.

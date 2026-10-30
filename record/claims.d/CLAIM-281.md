@@ -94,3 +94,12 @@ population model ([CASE-092](../cases.d/CASE-092.md)), has not been run. The fir
 construction: a process can back another as a critic without backing its
 policy ([CASE-080](../cases.d/CASE-080.md)), and evidence-based subjective logic already keeps
 referral and functional trust apart ([NOTE-1354](../notes.d/NOTE-1354.md)).
+
+## Note of 2026-10-30: what holds it back
+
+Rechecked after [NOTE-1354](../notes.d/NOTE-1354.md)'s version 2 (2026-10-30), which corrects only
+its paraphrase of [CLAIM-282](CLAIM-282.md); what it says of this claim, that subjective
+logic already keeps referral and functional trust apart, is unchanged.
+The clause on factions still rests on A2's argument alone, since the
+population comparison [CASE-092](../cases.d/CASE-092.md) names, role-indexed against scalar
+endorsement, has not been run.

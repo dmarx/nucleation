@@ -4,7 +4,7 @@ status: Deferred
 formerly:
 - QUESTION-tmp9w0qe
 title: 'When does a pattern of coordination constitute an additional agent?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -19,6 +19,14 @@ history:
   note: >-
     The note of 2026-10-14 now names the account filed from Watson's
     essay, THEORY-232.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    CLAIM-172 moves from answered_by to bearing at the status review's
+    ruling (the owner delegated these rulings; ADR-060), as it goes
+    Active: it gives a sufficient mark of a combined form and leaves open
+    whether that form is an agent, so it bears on the question without
+    answering it. The status stays Deferred.
 tags:
 - agency
 - social-ontology
@@ -29,13 +37,14 @@ summary: >-
   sets it aside by supposing its agent ([CLAIM-080](../claims.d/CLAIM-080.md)), which is what
   made the paper writable.
 answered_by:
-- CLAIM-172
 - CLAIM-170
 - THEORY-065
 - THEORY-131
 - THEORY-536
 - THEORY-583
 - THEORY-520
+bearing:
+- CLAIM-172
 refined_by:
 - QUESTION-035
 - QUESTION-033

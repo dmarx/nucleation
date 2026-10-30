@@ -12,8 +12,23 @@ promote_when: >-
   are used for long periods, without mandate, although the members who
   carry their work get nothing from them. What cannot settle it: more
   cases chosen to illustrate it, which is the evidence it has now.
-title: 'Groupware that requires extra work from members who do not perceive a direct benefit from it is resisted or goes unused, and the applications that succeed in groups give each user who does the work a benefit of their own'
-version: 1
+title: 'Groupware that requires extra work from members who do not perceive a direct benefit from it, where that work is not made part of their job, is resisted or goes unused, and the applications that succeed in groups without a mandate give each user who does the work a benefit of their own'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twenty-third status review, at the status review's ruling (the
+    owner delegated these rulings; ADR-047 kind 3). The title stated
+    without exception what Grudin limits twice (NOTE-835): the problem is
+    "much less likely" where "doing the additional work becomes someone's
+    explicit job", and his one success with non-beneficiaries doing the
+    work, a voice-messaging system, came after management removed the
+    alternative. The promote_when already held mandate apart; the title
+    now does too. The old title: "Groupware that requires extra work from
+    members who do not perceive a direct benefit from it is resisted or
+    goes unused, and the applications that succeed in groups give each
+    user who does the work a benefit of their own". It stays Proposed.
 tags:
 - design-rationale
 - social-science
@@ -31,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-179 CLAIM-176 — Proposed; the claims this account bears on, open -->
 <!-- inactive-ok-file: LIT-759 — Unavailable; Grudin 1988, the earlier statement, not read here -->
 
-# THEORY-311: Groupware that requires extra work from members who do not perceive a direct benefit from it is resisted or goes unused, and the applications that succeed in groups give each user who does the work a benefit of their own
+# THEORY-311: Groupware that requires extra work from members who do not perceive a direct benefit from it, where that work is not made part of their job, is resisted or goes unused, and the applications that succeed in groups without a mandate give each user who does the work a benefit of their own
 
 ## Source
 
@@ -104,3 +119,10 @@ forced critical mass, not as a counterexample.
 - **[CLAIM-176](../claims.d/CLAIM-176.md).** Grudin's advice to add group features to an application
   already in use (p. 100) agrees with capture inside work already being
   done. It says nothing about when to capture.
+
+## Note of 2026-10-30: what holds it back
+
+No study in the record measures, member by member, the extra work asked
+and the benefit received across groupware applications, with mandate and
+critical mass held apart. Grudin's evidence is cases chosen to
+illustrate, with no base rate of failures ([NOTE-835](../notes.d/NOTE-835.md)).

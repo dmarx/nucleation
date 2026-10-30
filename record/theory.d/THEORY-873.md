@@ -18,7 +18,14 @@ promote_when: >-
   that physics allows. Further arguments that we are certain we feel
   cannot settle it, since the account predicts that certainty.
 title: 'Claims to be conscious are produced by an automatic internal model, and since such models are schematic, the intangible, what-it-is-like essence people report is that model''s caricature of a real process, proposed to be attention, or the deep selective processing of information that attention, the global workspace and integration share; a theory that explains how neurons produce a feeling without explaining how the feeling comes to be encoded for report (Arrow B) does not explain the reports'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    CLAIM-439 moves from supports to corroborates (ADR-058), with the
+    claim's own revision by the twenty-third status review. The account
+    is unchanged.
 tags:
 - consciousness
 - cognition
@@ -35,7 +42,7 @@ summary: >-
   "small" illusionism keeps the modelled process real and denies the
   reported phenomenal essence, so it is the strong illusionism of
   [THEORY-633](THEORY-633.md) with a named target, not the weak kind.
-supports:
+corroborates:
 - CLAIM-439
 ---
 <!-- inactive-ok-file: THEORY-633 THEORY-577 THEORY-064 CLAIM-355 CLAIM-412 CLAIM-411 TERM-072 — Proposed; claims, terms and readings cited as open, nothing here rests on them -->
@@ -123,3 +130,10 @@ reports that they mostly do not.
 - **[CLAIM-411](../claims.d/CLAIM-411.md).** A candidate for the further condition, being
   modelled by the attention schema. That condition is represented, not
   organizational, and the paper states it only through report.
+
+## Note of 2026-10-30: what holds it back
+
+No manipulation of the attention schema with attention held fixed, or of
+attention with the model held, is in the record. The identification of the
+modelled process with attention rests on covariation with report cited
+from others, and the paper reports no such manipulation ([NOTE-1071](../notes.d/NOTE-1071.md)).

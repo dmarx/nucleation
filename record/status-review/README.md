@@ -31,7 +31,11 @@ work. Then take work in this order:
    holds back: that note already says what the wait is.
 3. **Blocker notes something they name has moved since.** An entry the note
    names was revised, or a work it names got a reading, after the note was
-   written. The wait may be over, so look before the timer runs out.
+   written. The wait may be over, so look before the timer runs out. When
+   it is not, leave a new dated note that restates the wait and names the
+   move that was checked, after the old one; replace the old note only
+   where it is now wrong. The new note is the record that the look
+   happened, and it takes the entry off this list.
 4. **Proposed readings no source of which is read in full.** These need
    reading, not review. Leave them out of clusters.
 5. **Live claims that need a work no NOTE reads.** An unread work takes no

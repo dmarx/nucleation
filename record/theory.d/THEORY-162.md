@@ -116,3 +116,13 @@ Meaning* (2024), its chapters on anaphora and modality, or else Elbourne
 
 [CLAIM-061](../claims.d/CLAIM-061.md) now cites this reading as corroboration, not as a ground, since
 applying it to translation "is a further step these sources do not take".
+
+## Note of 2026-10-30: what holds it back
+
+`promote_when` still asks for a developed static rival, read and checked
+against the marble and spouse, "might"-order, and declaration and assertion
+contrasts, and none is held. Mandelkern's *Bounded Meaning* (2024) and
+Elbourne (2005) are unfiled and have no open copy, so this waits on a copy
+from the owner. [CLAIM-061](../claims.d/CLAIM-061.md)'s revision of 2026-10-30 removed two unread works
+([LIT-785](../literature.d/LIT-785.md), [LIT-780](../literature.d/LIT-780.md)) from its grounds and kept this reading under
+corroborated_by; it does not bear on the rival.

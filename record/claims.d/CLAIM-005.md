@@ -130,11 +130,16 @@ note of 2026-10-10. For one pair the kernel can make the match perfect
 whatever the translation did, and what a rendering adds is in no term. The
 contrast with one canonical meaning vector stands.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-The defeat condition has not been tested, and as stated it cannot
-discriminate. [CLAIM-233](CLAIM-233.md) and [CLAIM-238](CLAIM-238.md) (both Active, granted) show that every
-rival the record names also predicts a pass and that its null has no margin.
-[CLAIM-244](CLAIM-244.md) (Proposed, unanswered) objects that it takes a task-free holistic
-judgement as ground truth. Restating the condition against [CASE-055](../cases.d/CASE-055.md) is the
-owner's ruling; [CASE-184](../cases.d/CASE-184.md), [CLAIM-233](CLAIM-233.md) and [ARG-026](../arguments.d/ARG-026.md) quote it as it stands.
+The defeat condition still cannot tell this claim from its rivals. Version
+3 fixed a margin and a power before the data ([CLAIM-238](CLAIM-238.md)), a named
+population of judges ([CLAIM-226](CLAIM-226.md)) and one outcome correspondence across
+items ([CLAIM-207](CLAIM-207.md)), but it still sets the distance only against embedding or
+propositional similarity. Two rivals the record holds, Nida's dynamic
+equivalence and a proposition with its illocutionary force, also predict a
+pass ([CLAIM-233](CLAIM-233.md), narrowed on 2026-10-30), and so does Gutt's interpretive
+resemblance ([CLAIM-501](CLAIM-501.md), Active). [CLAIM-244](CLAIM-244.md) (Proposed, unanswered) objects
+that the condition takes a task-free holistic judgement as ground truth.
+Restating it is put to the owner, with the other defeat conditions queued
+for restatement.

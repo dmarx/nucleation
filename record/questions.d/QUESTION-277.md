@@ -47,7 +47,7 @@ summary: >-
   which of them a theory of individuality must require. All the works cited
   are filed unread.
 ---
-<!-- inactive-ok-file: THEORY-1100 NOTE-1241 NOTE-1243 NOTE-1236 NOTE-1235 NOTE-1234 NOTE-1240 NOTE-1238 NOTE-1242 NOTE-1237 NOTE-1239 LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: NOTE-1241 NOTE-1243 NOTE-1236 NOTE-1235 NOTE-1234 NOTE-1240 NOTE-1238 NOTE-1242 NOTE-1237 NOTE-1239 LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: THEORY-1048 THEORY-1050 THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (readings) -->
 
 <!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
