@@ -36,7 +36,7 @@ history:
     narrows the characterisation to non-adaptive procedures. The adaptive
     analogue, which LIT-845 section 6.2 asserts without proof, is a clause
     the source asserts (ADR-047, kind 1), so it is filed as
-    THEORY-tmph50qc, Proposed, which extends this entry.
+    THEORY-1170, Proposed, which extends this entry.
 tags:
 - contextuality
 - mathematics
@@ -138,7 +138,7 @@ Bell shows that whether they do is itself a contextuality question.
   one (note of 2026-10-29).
 - **Not the adaptive characterisation.** Theorem 40 fails to transfer to
   adaptive procedures because its key lemma fails (§6.2); the adaptive
-  form of Theorem 44 is asserted without proof. It is [THEORY-tmph50qc](THEORY-tmph50qc.md),
+  form of Theorem 44 is asserted without proof. It is [THEORY-1170](THEORY-1170.md),
   Proposed.
 - **Not a statement about language or translation.** The use made of it
   for the manuscript's transport problem ([CLAIM-100](../claims.d/CLAIM-100.md)) is the readers', in

@@ -27,7 +27,7 @@ history:
     said. The old title: In groups that build a new communication system,
     larger groups make it more systematic, and the greater variety of
     input they face drives the effect. The wide form, which the paper
-    asserts, is kept as THEORY-tmpjlg7h, Proposed, which extends this
+    asserts, is kept as THEORY-1171, Proposed, which extends this
     entry and inherits the promote_when (ADR-047, kind 1).
 tags:
 - linguistics

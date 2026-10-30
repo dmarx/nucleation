@@ -1,5 +1,8 @@
 ---
+number: 336
 status: Open
+formerly:
+- QUESTION-tmp4xx0a
 title: 'Do the founding texts of non-eliminative ontic structural realism (Ladyman 1998, French and Ladyman 2003, Every Thing Must Go) keep relata while denying them every intrinsic identity-fixing feature, and so fall within Chakravartty''s dilemma?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-301 LIT-342 — Unavailable; the founding texts this asks about -->
 
-# QUESTION-tmp4xx0a: Do the founding texts of non-eliminative ontic structural realism (Ladyman 1998, French and Ladyman 2003, Every Thing Must Go) keep relata while denying them every intrinsic identity-fixing feature, and so fall within Chakravartty's dilemma?
+# QUESTION-336: Do the founding texts of non-eliminative ontic structural realism (Ladyman 1998, French and Ladyman 2003, Every Thing Must Go) keep relata while denying them every intrinsic identity-fixing feature, and so fall within Chakravartty's dilemma?
 
 ## Why it is a question
 

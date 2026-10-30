@@ -1,5 +1,8 @@
 ---
+number: 1171
 status: Proposed
+formerly:
+- THEORY-tmpjlg7h
 title: 'In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect'
 version: 1
 tags:
@@ -32,7 +35,7 @@ summary: >-
   variability causes it, is open.
 ---
 
-# THEORY-tmpjlg7h: In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect
+# THEORY-1171: In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect
 
 ## Source
 

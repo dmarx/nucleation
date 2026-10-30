@@ -32,7 +32,7 @@ history:
     promote_when asked for the founding texts (LIT-342, French and Ladyman
     2003, LIT-301) to be read and placed, which the title does not claim.
     Nobody has placed them, so the dropped clause is open scope (ADR-047,
-    kind 4), and the promote_when moves unchanged to QUESTION-tmp4xx0a.
+    kind 4), and the promote_when moves unchanged to QUESTION-336.
     CLAIM-134 keeps this reading under grounds.
 tags:
 - metaphysics
@@ -56,11 +56,11 @@ summary: >-
   [NOTE-095](../notes.d/NOTE-095.md), [NOTE-099](../notes.d/NOTE-099.md), [NOTE-189](../notes.d/NOTE-189.md) and [NOTE-142](../notes.d/NOTE-142.md). The account does not say the
   dilemma is sound, and it does not say eliminative OSR survives; the
   chapter itself leaves eliminative OSR untouched. Whether the founding
-  texts are of the target kind is QUESTION-tmp4xx0a.
+  texts are of the target kind is QUESTION-336.
 supports:
 - CLAIM-134
 bears_on:
-- QUESTION-tmp4xx0a
+- QUESTION-336
 ---
 <!-- inactive-ok-file: LIT-301 LIT-342 — Unavailable; founding texts named in promote_when and as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-453 THEORY-038 — Proposed; the second position of the target kind, placed in the table and named, and the eliminative-horn account, named; nothing here rests on their being settled -->
@@ -117,7 +117,7 @@ relations.
   a regress. Whether it answers the dilemma is open ([NOTE-099](../notes.d/NOTE-099.md)).
 - That Every Thing Must Go is outside the dilemma's reach. Chakravartty
   quotes it for objects "purged of their intrinsic natures", and it is
-  unread ([LIT-301](../literature.d/LIT-301.md), Deferred). That is [QUESTION-tmp4xx0a](../questions.d/QUESTION-tmp4xx0a.md).
+  unread ([LIT-301](../literature.d/LIT-301.md), Deferred). That is [QUESTION-336](../questions.d/QUESTION-336.md).
 - That the category-theoretic or graph-theoretic routes rescue the target
   position. Yoneda fixes identity only up to isomorphism among presupposed
   objects ([THEORY-032](THEORY-032.md)). Leitgeb & Ladyman ([LIT-154](../literature.d/LIT-154.md)) defend primitive structural

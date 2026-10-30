@@ -1,5 +1,8 @@
 ---
+number: 1170
 status: Proposed
+formerly:
+- THEORY-tmph50qc
 promote_when: >-
   A proof of the adaptive analogue, read or re-derived and checked;
   refuted by a map some non-contextual adaptive hom model induces and no
@@ -25,7 +28,7 @@ summary: >-
   procedures. Proposed until a proof is read or re-derived.
 ---
 
-# THEORY-tmph50qc: A convex map between two scenarios' model sets is induced by a classical adaptive procedure exactly when some non-contextual model of the corresponding adaptive hom scenario induces it
+# THEORY-1170: A convex map between two scenarios' model sets is induced by a classical adaptive procedure exactly when some non-contextual model of the corresponding adaptive hom scenario induces it
 
 ## Source
 
