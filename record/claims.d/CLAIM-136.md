@@ -200,3 +200,11 @@ only that the character analogy supports this claim, which "Why character
 theory does not carry it" already says. [THEORY-032](../theory.d/THEORY-032.md) moves from the grounds
 to `corroborated_by` ([ADR-058](../decisions.d/ADR-058.md)), since the Yoneda lemma "is no help either
 way".
+
+## Note of 2026-10-30: what holds it back
+
+Rechecked after CLAIM-132's version 2 (2026-10-30), which swaps the unread
+LIT-893 for LIT-329 in its grounds and adds a derivation; its bearing here
+is unchanged. The wait is the same: the owner has not chosen between the
+strict and the weak version, and CLAIM-134 (Chakravartty's dilemma) and
+CLAIM-138 (the Newman objection) are still live, Proposed and unanswered.

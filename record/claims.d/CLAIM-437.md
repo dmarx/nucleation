@@ -201,3 +201,12 @@ clause and its reading of the relapsing addict use as facts, only through
 their authors' reviews. Its second defeater, pursuit and consummation
 individuated apart from the dissociations they explain, is unanswered:
 [TERM-072](../terms.d/TERM-072.md) takes perspectives as given.
+
+## Note of 2026-10-30: what holds it back
+
+Rechecked after CLAIM-441's version 3 and CLAIM-468's version 3 (both
+2026-10-30), which add read grounds to both and a defeated_if to CLAIM-468.
+Both are still Proposed objections to CLAIM-440. CLAIM-440, this claim's
+premise, stays Proposed on them and on CLAIM-039, as its own note of
+2026-10-30 says. THEORY-893 and THEORY-895 are still Proposed, and TERM-072
+still takes perspectives as given, so the second defeater is unanswered.
