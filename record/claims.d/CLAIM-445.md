@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp28sti
 title: 'A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -23,6 +23,17 @@ history:
     used. The body keeps every citation; its list of works not read read
     'Sought and Unavailable', and now says which are Unfetched. The
     claim is otherwise unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twenty-third status review (ADR-058), at the status review's
+    ruling (the owner delegated these rulings). THEORY-919 and THEORY-906
+    move from grounds to corroborated_by: the body cites Juhász as the
+    capability-building contrast case and the IDI summary as illustration
+    whose exploitation account is not this claim's mechanism, and the
+    claim does not rest on either. The body's "THEORY-885 reads his 2000
+    paper" now adds that it reads it through the 1997 working-paper
+    precursor, as THEORY-885 says. The claim is otherwise unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,14 +63,15 @@ complements:
 - CLAIM-402
 grounds:
 - THEORY-885
-- THEORY-919
 - THEORY-911
-- THEORY-906
 - THEORY-898
 - LIT-1473
 - LIT-1478
 - LIT-1487
 - LIT-1489
+corroborated_by:
+- THEORY-919
+- THEORY-906
 summary: >-
   The owner's, 2026-10-23, on the account of governance-maintained anxiety
   ([CLAIM-446](CLAIM-446.md)): "this seems like it would also be supported political
@@ -146,7 +158,7 @@ oversight, changes of jurisdiction and exogenous changes of threat
 separate them.
 
 
-Read on 2026-10-24: Juhász ([NOTE-1122](../notes.d/NOTE-1122.md)); Bjørnskov, Voigt and Khesali ([NOTE-1125](../notes.d/NOTE-1125.md), [THEORY-911](../theory.d/THEORY-911.md)), whose 115 cases are "suspected to be unlawful" from news and NGO coding, unlawful emergencies lasting on average 321 days against 115, and whose untested hypothesis, executives prolonging an emergency to postpone review of their own conduct, is this claim's mechanism stated for emergencies, with no data on measures outliving the emergency; the IDI summary ([NOTE-1129](../notes.d/NOTE-1129.md), [THEORY-906](../theory.d/THEORY-906.md)), with no stated sources or method and cases chosen because they autocratized, which reads the channels as deliberate exploitation, where this claim needs no bad faith; and Ku and Finch ([NOTE-1133](../notes.d/NOTE-1133.md), [THEORY-898](../theory.d/THEORY-898.md)). Sought and not read: Unavailable, Buzan, Wæver and de Wilde ([LIT-1499](../literature.d/LIT-1499.md)), Pierson 1993 ([LIT-1493](../literature.d/LIT-1493.md); [THEORY-885](../theory.d/THEORY-885.md) reads his 2000 paper) and Jervis ([LIT-1475](../literature.d/LIT-1475.md)); Unfetched, the publisher's free copy refused to this client, Scheuerman ([LIT-1495](../literature.d/LIT-1495.md)), Tilly ([LIT-1481](../literature.d/LIT-1481.md)) and Rooney's emergency-powers dataset ([LIT-1485](../literature.d/LIT-1485.md)).
+Read on 2026-10-24: Juhász ([NOTE-1122](../notes.d/NOTE-1122.md)); Bjørnskov, Voigt and Khesali ([NOTE-1125](../notes.d/NOTE-1125.md), [THEORY-911](../theory.d/THEORY-911.md)), whose 115 cases are "suspected to be unlawful" from news and NGO coding, unlawful emergencies lasting on average 321 days against 115, and whose untested hypothesis, executives prolonging an emergency to postpone review of their own conduct, is this claim's mechanism stated for emergencies, with no data on measures outliving the emergency; the IDI summary ([NOTE-1129](../notes.d/NOTE-1129.md), [THEORY-906](../theory.d/THEORY-906.md)), with no stated sources or method and cases chosen because they autocratized, which reads the channels as deliberate exploitation, where this claim needs no bad faith; and Ku and Finch ([NOTE-1133](../notes.d/NOTE-1133.md), [THEORY-898](../theory.d/THEORY-898.md)). Sought and not read: Unavailable, Buzan, Wæver and de Wilde ([LIT-1499](../literature.d/LIT-1499.md)), Pierson 1993 ([LIT-1493](../literature.d/LIT-1493.md); [THEORY-885](../theory.d/THEORY-885.md) reads his 2000 paper through its 1997 working-paper precursor) and Jervis ([LIT-1475](../literature.d/LIT-1475.md)); Unfetched, the publisher's free copy refused to this client, Scheuerman ([LIT-1495](../literature.d/LIT-1495.md)), Tilly ([LIT-1481](../literature.d/LIT-1481.md)) and Rooney's emergency-powers dataset ([LIT-1485](../literature.d/LIT-1485.md)).
 
 ## What it does not say
 

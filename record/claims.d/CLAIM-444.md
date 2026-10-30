@@ -52,7 +52,7 @@ illustrated_by:
 - CASE-157
 - CASE-159
 ---
-<!-- inactive-ok-file: CASE-155 CLAIM-443 CLAIM-448 — Proposed or new, filed in this pull request -->
+<!-- inactive-ok-file: CASE-155 CLAIM-443 — Proposed or new, filed in this pull request -->
 <!-- inactive-ok-file: CLAIM-369 THEORY-894 THEORY-896 CLAIM-451 — cited as the tools the reduction brings in -->
 
 # CLAIM-444: A replicator dynamic on the distribution of authority among an organization's processes is the special case of the meaning–authority–legibility model in which the organization's interpretation is the authority-weighted mixture of its processes' and evidence reaches scoring without a maintained regime of its own; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply, and the record's separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority

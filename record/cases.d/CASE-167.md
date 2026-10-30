@@ -23,7 +23,7 @@ reported_in:
 summary: >-
   Candidatus Atelocyanobacterium thalassa (UCYN-A), a metabolically streamlined nitrogen-fixing cyanobacterium known as an endosymbiont of a marine alga, is integrated into the alga's cell architecture and organellar division and imports proteins encoded by the algal genome. Coale et al. call it an early-stage organelle, the nitroplast ([LIT-1562](../literature.d/LIT-1562.md)). Used as the case where the line between endosymbiont and organelle is drawn by stated criteria.
 ---
-<!-- inactive-ok-file: THEORY-1100 NOTE-1241 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: NOTE-1241 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1562 LIT-1560 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 
 # CASE-167: The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine alga, whose division is coupled to the host's and which imports host-encoded proteins, reclassified as an early-stage organelle in 2024

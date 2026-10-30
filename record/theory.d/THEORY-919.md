@@ -16,7 +16,14 @@ promote_when: >-
   persistence. Whether protection maintained itself politically is a
   separate question this THEORY does not carry.
 title: 'Departments of the French Empire more shielded from British trade by the Napoleonic blockade added more mechanized cotton-spinning capacity during it and kept a larger industry through 1887, with more productive spinning firms in 1840 and higher industrial value added per capita in 1860 but not detectably from 1896'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    CLAIM-445 moves from supports to corroborates (ADR-058), with the
+    claim's own revision by the twenty-third status review. The account
+    is unchanged.
 tags:
 - social-science
 - society-and-governance
@@ -30,7 +37,7 @@ summary: >-
   first stages are weak (Kleibergen-Paap F 3–8). The protection was a war
   blockade, followed by post-war tariffs, so this is persistence of a
   protected industry's location, not evidence about how protection ends.
-supports:
+corroborates:
 - CLAIM-445
 ---
 <!-- inactive-ok-file: CLAIM-445 THEORY-885 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
@@ -92,3 +99,12 @@ returned. It did not; the southern departments shrank instead.
   tariffs is not studied.
 - **[THEORY-885](THEORY-885.md).** A historical case of increasing returns locking in an
   early, accidental advantage.
+
+## Note of 2026-10-30: what holds it back
+
+The long-run persistence rests on first stages the author concedes are
+weak (Kleibergen-Paap F 3–8), and the 2015 draft read is probably the
+version first submitted, so the AER tables may differ (NOTE-1122). The
+record has no stronger first stage, no weak-instrument-robust test and
+no reading of the version of record. If the title is narrowed, it should
+keep the weak-instrument hedge it now leaves out.

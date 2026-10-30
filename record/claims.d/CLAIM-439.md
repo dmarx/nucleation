@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptd5us
 title: 'A regime of valence is felt, in the sense of attended and available to the system''s other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -14,6 +14,16 @@ history:
     declines the phenomenal sense the question asks about. The body
     sentence that said it answers the question in part now says so.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twenty-third status review (ADR-058), at the status review's
+    ruling (the owner delegated these rulings). THEORY-882 leaves
+    grounds: the body cites the beautiful-loop account as a rival the
+    claim must take a side against, which takes no edge. THEORY-873 moves
+    from grounds to corroborated_by: the claim "fits" Graziano's account
+    and does not rest on it. The claim and its status are unchanged; it
+    still waits on CLAIM-440 and THEORY-662.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,10 +50,10 @@ complements:
 - CLAIM-355
 grounds:
 - THEORY-662
-- THEORY-882
 - LIT-1452
 - LIT-1468
 - LIT-1451
+corroborated_by:
 - THEORY-873
 bears_on:
 - QUESTION-059

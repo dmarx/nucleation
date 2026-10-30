@@ -1,10 +1,10 @@
 ---
 number: 467
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpocjxw
 title: 'Under full-information, independent audits, a learned allocation of influence among specialists is no better than a contextual router trained on the same audits, which is a mixture of experts whose experts earn responsibility by fitting better; whatever governance adds over routing has to be shown where evaluation fails, and the record has not yet found such a regime'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -14,6 +14,21 @@ history:
     restricted models to CLAIM-286, and this claim, a claim about
     the subject matter, defeats it for one model class. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-third status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). THEORY-937 moves
+    from grounds to corroborated_by (ADR-058): the body cites it, through
+    CASE-158's prediction, as the router's prior art, and CASE-158 itself
+    says nothing there rests on it; the argument runs through CASE-158 and
+    CASE-162, both Active. QUESTION-271 moves from answers to bears_on
+    (ADR-060): the claim bounds governance by routing under full
+    information and says the regimes the question asks about are untested
+    or lost, so it does not answer the question as posed. No objection is
+    on file, and nothing held meets the defeat condition: CASE-162's run
+    with the router's audit delay matched still had the router ahead, and
+    CASE-166 reports a tie. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,11 +43,12 @@ tags:
 date: '2026-10-27'
 line:
 - distributed-agency
-answers:
+bears_on:
 - QUESTION-271
 grounds:
 - CASE-158
 - CASE-162
+corroborated_by:
 - THEORY-937
 undercuts:
 - ARG-036

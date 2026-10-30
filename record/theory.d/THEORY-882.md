@@ -20,7 +20,14 @@ promote_when: >-
   Redescriptions of meditative, psychedelic or sleep states, and the
   resemblances to other theories in Table 2, cannot settle it.
 title: "Consciousness in an inferring system requires three things: a unified generative model of its world; entry to that model by a precision-weighted competition that coherent inferences win; and epistemic depth, the recursive sharing of the model back through the hierarchy, carried by a hyper-model that predicts and sets precision at every level; awareness then varies with epistemic depth, not with the richness of contents, and a first-person perspective, a self-model and agency are not required"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    CLAIM-439 leaves supports (ADR-058), with the claim's own revision by
+    the twenty-third status review: it cites this account as a rival on
+    sufficiency, which takes no edge. The account is unchanged.
 tags:
 - consciousness
 - probabilistic-modeling
@@ -36,8 +43,6 @@ summary: >-
   in a footnote. The formal part (Table 1) is a hierarchy with layer-wise
   precision hyper-parameters, from which none of the properties the text
   gives epistemic depth is derived.
-supports:
-- CLAIM-439
 bears_on:
 - QUESTION-254
 ---
@@ -124,3 +129,10 @@ Nothing was tested. The paper argues by construction and redescription.
 - **[THEORY-883](THEORY-883.md)** (Whyte et al.) is the access criterion this paper
   calls complementary. **[THEORY-876](THEORY-876.md)** (IWMT) shares the coherent world
   model and differs on embodiment, which this paper does not require.
+
+## Note of 2026-10-30: what holds it back
+
+No simulation in the record shows a property of the hyper-model that a
+hierarchical Gaussian filter lacks, and no measure of global precision
+control taken apart from reports of awareness is in the record. The paper
+has neither (NOTE-1063).

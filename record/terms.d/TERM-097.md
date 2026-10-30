@@ -30,7 +30,7 @@ summary: >-
   fidelity and coherence: fidelity has several, coherence none, though
   the word is in some 145 entries. Adopted the same day.
 ---
-<!-- inactive-ok-file: CLAIM-448 CLAIM-474 TERM-093 — Proposed; the entries whose usage this term records -->
+<!-- inactive-ok-file: CLAIM-474 TERM-093 — Proposed; the entries whose usage this term records -->
 
 # TERM-097: coherence, of a family of descriptions, transports or judgements: their agreement with one another under a stated correspondence structure (on overlaps, around cycles, between routes), distinct from fidelity to a source, from integration by dynamics, and from knowledge of the world
 
