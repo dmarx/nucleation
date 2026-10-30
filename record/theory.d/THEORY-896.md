@@ -1,17 +1,10 @@
 ---
 number: 896
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpj4ciq
-promote_when: >-
-  Monderer and Shapley (1996), LIT-1462, read first-hand: the lemma's
-  wording, number and page confirmed (reported as Lemma 2.5), together
-  with the paper's definitions of the finite improvement property and of
-  generalized ordinal potential, and agreement with the proof given here.
-  The mathematics is checked below. What waits is the attribution and the
-  exact statement.
 title: 'A finite game in strategic form has the finite improvement property, every path of strict unilateral improvements being finite, exactly when it has a generalized ordinal potential, a real function on strategy profiles that rises with every strict unilateral improvement; so in a finite game an ordering along which every improving move climbs exists exactly when there is no improvement cycle, and every sequence of improving moves ends at a pure equilibrium'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -27,6 +20,19 @@ history:
     now settled by that counterexample; only what the paper says remains
     unread. The directive on LIT-1462 now gives its status, Unfetched. The
     title and status are unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-065 §5. A second checker (the twenty-fourth
+    status review) followed the proof of the equivalence and its corollary
+    and checked them by script with controls. The steps are in the note of
+    2026-10-30. The title states the mathematics and attributes nothing.
+    The condition asked only for the attribution's lemma number, page and
+    wording, so it moves to QUESTION-tmpeay6p (ADR-065 §3). The note of
+    2026-10-30 headed "what holds it back" is removed, since nothing now
+    holds the entry back; its content is in that question. The old
+    promote_when: Monderer and Shapley (1996), LIT-1462, read first-hand: the lemma's wording, number and page confirmed (reported as Lemma 2.5), together with the paper's definitions of the finite improvement property and of generalized ordinal potential, and agreement with the proof given here. The mathematics is checked below. What waits is the attribution and the exact statement.
 tags:
 - game-theory
 - mathematics
@@ -159,10 +165,44 @@ the FIP ([NOTE-1116](../notes.d/NOTE-1116.md)).
   aggregates rankings of one shared choice ([NOTE-1116](../notes.d/NOTE-1116.md), "Where it
   does not fit").
 
-## Note of 2026-10-30: what holds it back
+## Note of 2026-10-30: the re-derivation, checked
 
-Its promote_when asks for Monderer and Shapley ([LIT-1462](../literature.d/LIT-1462.md)) read first-hand,
-for the lemma's number, page and wording, and that is still unmet: Apt
-([LIT-1866](../literature.d/LIT-1866.md)) credits "Monderer and Shapley '96" with no lemma or page. The
-mathematics is proved here and Apt states the same equivalence for the same
-class; only the attribution's exact form waits.
+The second check at the status review (ADR-065 §5) followed each step
+under "What was actually shown".
+
+1. **If.** If P rises strictly at every strict unilateral improvement, then
+no profile repeats on an improvement path. There are finitely many
+profiles, so every path has at most |X| − 1 steps.
+
+2. **Only if.** If the improvement graph had a directed cycle, going round
+it forever would be an infinite improvement path. So the FIP makes the
+graph acyclic. On a finite acyclic graph, P(x), the length of the longest
+path ending at x, is finite. Any path into x extends by a step x → y, so
+P(y) ≥ P(x) + 1.
+
+3. **No improvement cycle is the same as the FIP.** In a finite game, an
+infinite improvement path repeats some profile and so contains a cycle.
+The converse is step 2's first sentence.
+
+4. **Dynamics.** A better-response sequence is an improvement path, so it
+stops within |X| − 1 steps. It stops only where no player can strictly
+improve, which is a pure Nash equilibrium.
+
+5. **Generalized, not ordinal.** In Apt's slide-13 game the improvement
+graph is (T, L) → (B, L) → (B, R) → (T, R). An ordinal potential would
+need P(T, L) = P(T, R), since player 2 is indifferent there, and also
+P(T, L) < P(T, R) along the chain.
+
+A script (numpy, in the session's scratchpad, s896_fip.py) checked these
+steps on 3,000 random games with 2 or 3 players, 2 or 3 strategies each,
+and integer payoffs from 0 to 3, so that ties occur. Of these, 1,938 were
+acyclic, and in every one the longest-path P was a generalized ordinal
+potential. In each, 50 random better-response runs (96,900 in all) all
+stopped within |X| − 1 steps at a profile the script confirmed, from the
+payoffs, to be a pure equilibrium. In the 1,062 cyclic games the
+construction refused the graph, and none of 2,000 random real functions
+per game was a potential. For Apt's game the script found the improvement
+graph acyclic and the ordinal constraints contradictory. It had two
+controls. The utilitarian sum of payoffs, which ought not to be a
+potential in general, failed in 1,606 acyclic games. And matching
+pennies' improvement cycle was refused.
