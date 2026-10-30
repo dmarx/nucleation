@@ -59,6 +59,7 @@ extends:
 answers:
 - QUESTION-204
 ---
+<!-- inactive-ok-file: QUESTION-204 — Open; the question whose first half the note of 2026-10-29 reports answered, cited as open -->
 
 
 # THEORY-787: A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
@@ -101,3 +102,82 @@ system's own or another fixed intervention distribution, on systems not
 built for it, and agrees with an independent interventionist test.
 Rejected if the macro advantage disappears whenever the same intervention
 distribution over micro states is used at both levels.
+
+## Note of 2026-10-29: the "in trouble if" clause is met for effective information
+
+The promote_when says this account is in trouble if the macro advantage
+disappears whenever the same intervention distribution over micro states
+is used at both levels. For effective information that condition is now
+met, and by proof, not by example. [THEORY-tmphfpe7](THEORY-tmphfpe7.md) (Active): with one
+distribution over micro states at both levels, each macro intervention
+realized by that distribution within its block, the macro EI is I(f(X);
+f(Y)), which data processing bounds by I(X; Y), the micro EI. A macro can
+at most tie. By the same derivation, the positive causal emergence of
+[LIT-1038](../literature.d/LIT-1038.md) is the micro mechanism's gain from changing the distribution,
+from the uniform one to the one Hoel's macro interventions induce, less a
+non-negative loss.
+
+Two readings of this date bear the same way.
+
+- **Comolatti and Hoel**, [LIT-tmpzfaqi](../literature.d/LIT-tmpzfaqi.md) ([NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md)), concede the
+  decisive case: under the system's own stationary distribution, used at
+  both levels, EI shows no emergence, "This was known". Their reply, that
+  other measures and individual transitions still show emergence, changes
+  the measure, not the distribution. Those measures are pointwise or
+  normalized by log₂ n, and data processing does not bound them. So the
+  reply is not evidence for EI's level, which is what this account
+  asserts. Their only system is a bipartite chain built so that its macro
+  is a deterministic NOT gate, a hand-built toy of the kind the
+  promote_when says cannot settle it.
+- **Eberhardt and Lee**, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md) ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)), trace EI's
+  ambiguity and non-commutativity to the maximum-entropy distribution,
+  "extraneous to the system". They do not compute EI under a common
+  distribution; the record's derivation supplies that step.
+
+The bound covers a coarse-graining of one transition. It does not reach
+[LIT-1038](../literature.d/LIT-1038.md)'s temporal and spatio-temporal macros, and it says nothing about
+measures that data processing does not bound ([THEORY-tmphfpe7](THEORY-tmphfpe7.md), "What this
+does not say").
+
+A move to Rejected, or a narrowing of this account to measures that data
+processing does not bound, is proposed and left to the owner. The status
+and the title are unchanged.
+
+## Note of 2026-10-29: the independent interventionist test, and what it can show
+
+The promote_when asks, beside a common distribution, that the EI-optimal
+coarse-graining agree "with an independent interventionist test of which
+level the effects track (realization insensitivity under changes of
+realizer)". Causal feature learning is that test: Chalupka, Perona and
+Eberhardt, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)), and their overview, [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
+([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)). Two micro causes share a macro state iff manipulating to
+either has the same effect, and no distribution over interventions enters.
+
+Its verdict bears on this account in two ways.
+
+- **It cannot confirm the account.** On a transition matrix the causal
+  partition is the coarsest description whose manipulations are
+  unambiguous. The micro description is never worse, only finer: it
+  "contains no more causal information", and it loses none. So the test
+  can confirm that a macro is proportionate, where micro rows are exactly
+  equal, as in Eberhardt and Lee's (11), Hoel's example, and never that
+  causation emerges at the macro or that the macro beats the micro.
+  [THEORY-tmpyfcov](THEORY-tmpyfcov.md) (Active) makes the link to EI exact: under one
+  full-support distribution at both levels, the coarse-grainings that keep
+  all of the micro EI are exactly the causal partitions and their
+  refinements, whatever the distribution. The ties [THEORY-tmphfpe7](THEORY-tmphfpe7.md) allows
+  are these, and nothing exceeds them.
+- **It disagrees with the EI this account rests on.** Hoel's EI, uniform
+  at each level, merges causes with different rows on Eberhardt and Lee's
+  (13) and (14), and on their note 6 it keeps identical rows apart. On
+  those matrices the agreement the promote_when asks for fails. They are
+  hand-built, which by the promote_when's terms cannot settle it, and Hoel
+  2013's own examples ([THEORY-222](THEORY-222.md)) were not recomputed.
+
+The test also needs exact equality. With estimated rows, causal feature
+learning merges by a distance threshold, a choice [THEORY-tmpyfcov](THEORY-tmpyfcov.md) does not
+make.
+
+Nothing here moves the account toward promotion. The status and the title
+are unchanged. The move to Rejected, or the narrowing, that the earlier
+note of this date proposed is still the owner's call.

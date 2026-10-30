@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpivy6b
 title: 'What would certify that no remedy is available to an institutional arrangement, rather than that its present procedures failed to find, authorize or carry one out before the deadline?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,13 @@ history:
     Note of 2026-10-29 added: the Abrego Garcia order and El-Masri
     read; each court declines to take a party's account of itself on
     its say-so. The question is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the district court's remand order read
+    (LIT-tmpw3c17, NOTE-tmpdnf6p); it refuses to proceed without an
+    account and measures the account against the party's own past
+    practice. The question is unchanged.
 tags:
 - society-and-governance
 - epistemology
@@ -113,4 +120,34 @@ Two readings of this date give partial answers, of one shape.
   accepted on its say-so where it alone holds the evidence.
 
 Neither says what would certify that no remedy exists. The question is
+unchanged and stays Open.
+
+## Note of 2026-10-29: the remand order, read
+
+The district court's order granting expedited discovery on remand, ECF No.
+79 of 15 April 2025, [LIT-tmpw3c17](../literature.d/LIT-tmpw3c17.md), is read ([NOTE-tmpdnf6p](../notes.d/NOTE-tmpdnf6p.md)). It is this
+question's test case in part, with two corrections of emphasis. First, the
+government did not there say "we cannot". It said that the duty was
+narrower than the court's ("remove any domestic obstacles"), that the
+questions touched foreign affairs, and, through a State Department
+declaration, that the custody was El Salvador's. The inability is implied
+by that last premise, not asserted. Second, the court does not test a
+certificate of inability; it refuses to proceed without an account. What
+it requires:
+
+- a **report of the search**, sworn by someone with personal knowledge;
+- a **benchmark**, the government's own logged practice of facilitated
+  returns, which shows from the party's own records that the space of
+  steps is not empty in kind;
+- an **inquiry into the arrangement** behind the claimed limit, the terms
+  on which CECOT held deportees and who authorizes the detention, because
+  whether a remedy is available depends on who controls the custody;
+- a **legal justification** for whatever cannot be disclosed.
+
+It is a partial answer of the shape the earlier note of this date found: a
+party's account of itself is not accepted where it alone holds the
+evidence. It adds that the account is measured against the party's own
+past capability, a candidate for what plays the sorted index's part: a
+record of what the arrangement has done before. It does not say what would
+certify that no remedy exists; that question never arose. The question is
 unchanged and stays Open.

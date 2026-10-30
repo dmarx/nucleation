@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp1bt6j
 title: 'Beyond what retention, dynamical independence and Ψ are known to track, can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?'
-version: 5
+version: 7
 history:
 - version: 2
   date: '2026-10-20'
@@ -37,6 +37,21 @@ history:
     2020 (NOTE-1400, THEORY-1163), Jansma and Hoel, CE 2.0,
     Zhang et al. and Shalizi and Crutchfield. The question is
     unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Eberhardt and Lee read
+    (NOTE-tmp0q96y); EI's family of interventions passes
+    coarse-grainings that fail A21's admissibility condition. The
+    question is unchanged.
+- version: 7
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: causal feature learning read
+    (NOTE-tmpiw2bv, NOTE-tmpbrnim), a further macrostate
+    criterion; it parts from EI on Eberhardt and Lee's (14) and
+    note 6, and agrees with EI under a common distribution
+    (THEORY-tmpyfcov). The question is unchanged.
 tags:
 - individuation
 - information-theory
@@ -210,5 +225,47 @@ Shalizi and Crutchfield, [LIT-1126](../literature.d/LIT-1126.md) ([NOTE-1372](..
 E ≤ Cµ separates what can be measured from sequences from the memory
 needed to produce them, as this question separates retention measured on
 observables from a system's state.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-10-29: effective information against A21's admissibility condition
+
+A21's condition, in the note of 2026-10-18, C_*(P_ℓ^{do(a)}) = P_L^{do(ā)}
+for a declared family of interventions, puts Eberhardt and Lee's demands
+of commutativity and unambiguous manipulation in one line. Their paper,
+[LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md), is now read ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)). It shows that EI's family,
+uniform averages over realizers, passes coarse-grainings that fail both.
+In their (14), EI merges two states whose effects on the macro effect
+variable differ (0.8/0.2 against 0.9/0.1). In their (17), the partition is
+strongly lumpable, so the coarse-graining does commute with time
+evolution, and the EI-optimal choice still changes with the time step. It
+is the same shape of answer the note of 2026-10-20 gave for ΦID emergence:
+the criterion alone does not license the level it picks.
+
+On where effective information parts from the other criteria: under one
+distribution over micro states at both levels, EI cannot favour a macro at
+all ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)). Its macro advantage is a property of the
+distribution chosen at each level.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-10-29: causal feature learning, a further macrostate criterion
+
+Causal feature learning, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)) and [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
+([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)), is a further candidate for the macrostate leg, and it
+parts from effective information on one system. It partitions causes by
+P(Y | do(x)) and effects by their columns, two partitions where Hoel's EI
+coarsens cause and effect by one. On Eberhardt and Lee's (14), EI picks
+{x₁, x₂}, {x₃} and causal feature learning the micro. On their note 6,
+causal feature learning merges x₂ and x₃, whose rows are identical, and
+EI's shared partition cannot. Under one distribution at both levels the
+two agree on which coarse-grainings lose nothing ([THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md)), so the
+disagreement belongs to the uniform distribution at each level, as the
+earlier note of this date found for EI's macro advantage.
+
+Like the other macrostate candidates, it partitions one system's states,
+not which variables are in the system. It has no Occam term: it takes the
+coarsest partition that loses nothing and offers no trade of loss against
+size.
 
 The question is unchanged and stays Open.

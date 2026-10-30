@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmprc3on
 title: 'CECOT, 2025: people removed from the United States into Salvadoran custody despite court orders, the US saying it could not bring them back and El Salvador''s president that he could not send them, until coordinated transfers out showed the two governments together could'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,12 @@ history:
     read (NOTE-1376, NOTE-1391); El-Masri does not raise
     which government could undo a transfer while the person was
     held. The case is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the district court's remand orders
+    read (LIT-tmpw3c17, NOTE-tmpdnf6p), with the finding of 11 April
+    and the custody conflict of footnote 3. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -159,3 +165,31 @@ new here. Three differences.
 So the question this case raises, which government could or had to undo
 the transfer while the person was still held, does not arise in
 *El-Masri*. That is the new part. The case is unchanged.
+
+## Note of 2026-10-29: the remand orders, read
+
+The district court's order of 15 April 2025 granting expedited discovery,
+[LIT-tmpw3c17](../literature.d/LIT-tmpw3c17.md), is read ([NOTE-tmpdnf6p](../notes.d/NOTE-tmpdnf6p.md)), with the two orders it recites.
+Particulars the case can take as documented:
+
+- **The amended order of 10 April** (ECF No. 51), made hours after the
+  Supreme Court's, dropped "effectuate" and required a declaration from
+  someone with personal knowledge on Abrego Garcia's location and custody,
+  the steps taken and the steps to come. On 11 April (ECF No. 61) the
+  court found that the government had "made no meaningful effort to
+  comply".
+- **The order of 15 April** reads "facilitate" as taking the steps
+  available toward his release from Salvadoran custody, measures that
+  against the government's own past practice of facilitated returns, finds
+  that no step had been shown, and opens discovery that includes who
+  authorizes the detention. It does not decide whether return was
+  possible.
+- **The custody conflict** (footnote 3). A State Department declaration
+  that he was held "pursuant to the sovereign, domestic authority of El
+  Salvador" is set against a press report, quoted by the court and not
+  checked here, that the United States paid six million dollars to house
+  the detainees "pending the United States' decision on their long-term
+  disposition". That bears on the case's line on custody and control
+  ([CLAIM-405](../claims.d/CLAIM-405.md)).
+
+The case is unchanged.

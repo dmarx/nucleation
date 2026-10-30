@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpamn8i
 title: 'Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -35,6 +35,13 @@ history:
     Note of 2026-10-29 added, from the readings of Holme and Newman,
     Gross and Blasius, DeMarzo, Vayanos and Zwiebel, and Guida et
     al. The question is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Ito and Kaneko read (NOTE-tmp2xl62), a
+    like-and-like predecessor that gives persistent influence
+    classes from identical units; DeMarzo, Vayanos and Zwiebel 2001
+    registered, Unavailable. The question is unchanged.
 tags:
 - complex-systems
 - network-science
@@ -56,6 +63,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-143 THEORY-146 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmpapuas — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
 # QUESTION-117: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
 
 ## Why it is a question
@@ -239,5 +247,36 @@ them. Each sets a different floor.
 Guida, Minutola and Presti, [LIT-1218](../literature.d/LIT-1218.md) ([NOTE-1353](../notes.d/NOTE-1353.md)), demand that an
 agent's leverage be measured independently of how far its output
 spreads. That is the circularity guard an answer here needs.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-10-29: the like-and-like predecessor, read, and the moving-weights companion, not reached
+
+- **Ito and Kaneko**, [LIT-tmpwxstp](../literature.d/LIT-tmpwxstp.md) ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)), the like-and-like
+  reinforcement the earlier note of this date takes from Gross and
+  Blasius, is now read. It is closer to this question's endorsement
+  circuit than the review suggests. Each unit allocates a fixed budget of
+  attention (its incoming weights sum to 1), moves attention toward those
+  whose state resembles its own, and is driven by those it attends to.
+  From identical units with no role primitive, it gives a persistent
+  asymmetry of influence, a core of about 15 attended by most and
+  attending almost only to itself, with links turning over, and an
+  ablation shows that the coupling of state to allocation is needed. So an
+  answer that offers persistent authority classes, or their need for the
+  coupling of state and authority, as new is matched by this model. What
+  it cannot express is what the question's circuit adds: states with
+  content that can be right or wrong, any evaluation of outcomes, and
+  authority indexed by role or issue. The outcome to beat is concentration
+  without regard to accuracy. That is also persuasion bias's outcome
+  ([LIT-1134](../literature.d/LIT-1134.md)), and this model gets it with moving weights and hysteresis,
+  which persuasion bias lacks.
+- **DeMarzo, Vayanos and Zwiebel 2001**, [LIT-tmpapuas](../literature.d/LIT-tmpapuas.md), the companion to
+  [LIT-1134](../literature.d/LIT-1134.md) in which whom an agent listens to is chosen by what listening
+  earns, is registered and Unavailable: no copy of the working paper was
+  found. As [LIT-1134](../literature.d/LIT-1134.md) describes it, it would be a predecessor with evolving
+  influence that already gives capture without fidelity. Whether listening
+  there is scored against the interpretation it made dominant, or by
+  trading profits that depend on what the asset pays, can only be read
+  from the paper.
 
 The question is unchanged and stays Open.

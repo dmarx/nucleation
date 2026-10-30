@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6ap9y
 title: 'An organization''s access to a signal, the signal''s authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -46,6 +46,13 @@ history:
     Note of 2026-10-29 added, from the readings of Guida et al.
     (NOTE-1353), which identifies Bond 2018, and RefraMED
     (NOTE-1358). The claim is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Bond 2018 registered, Unavailable
+    (LIT-tmph2snh), with its citation corrected; Edmondson 1996
+    registered, Unfetched; the RefraMED monograph read
+    (NOTE-tmpswlra). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -102,6 +109,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-156 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-tmph2snh LIT-tmp36bz2 — Unavailable and Unfetched since 2026-10-29; Bond 2018 and Edmondson 1996, cited in the note of that date as not read, nothing here rests on them -->
 
 # CLAIM-349: An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
@@ -285,5 +293,33 @@ read.
   properties this claim makes the mark of adaptive regulation. That fits
   the claim's caution that the clinical evidence does not carry over, and
   it does not test the claim, which is about organizations.
+
+The claim is unchanged.
+
+## Note of 2026-10-29: Bond registered, Edmondson 1996 located, and the monograph
+
+- **Bond.** The earlier note of this date says Bond's chapter "is still
+  not registered". That no longer holds: it is [LIT-tmph2snh](../literature.d/LIT-tmph2snh.md), Unavailable,
+  since no lawful copy was reached. Checked against the book's table of
+  contents, it is chapter 11, pp. 185–199, of D. S. Wilson and S. C. Hayes
+  (eds.), *Evolution and Contextual Behavioral Science* (Context Press,
+  2018); Anthony Biglan wrote the foreword and is not an editor. The
+  correction is recorded on [LIT-1218](../literature.d/LIT-1218.md). The verdict that Guida et al. are
+  not a prior statement of this claim's three-way split still rests on
+  Guida et al. alone. The claim does not claim novelty against Bond, so
+  nothing in it waits on the reading.
+- **Edmondson 1996**, [LIT-tmp36bz2](../literature.d/LIT-tmp36bz2.md), is registered and Unfetched: an
+  author's upload is located and could not be fetched. By later citations
+  of it, it is where Edmondson found that the units with more recorded
+  drug errors were those whose climate made errors safe to report. If the
+  reading bears that out, it is the nearest observation the record can
+  reach of control suppressing disclosure, the effect A42's translation
+  predicts ("Less disclosure of near misses"). It is unverified here.
+- **The RefraMED monograph**, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md) ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), agrees with
+  the earlier note that the change that persisted was on inflexibility and
+  emotional coping while the change on depression did not. On its own
+  analysis those changes were significant from 7 months, where the BJP
+  paper's analysis has them significant at 12 and 18 months only. It adds
+  nothing that tests the claim, which is about organizations.
 
 The claim is unchanged.

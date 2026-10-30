@@ -1,0 +1,89 @@
+---
+status: Unfetched
+status_note: >-
+  registered 2026-10-29, not read. A lawful free copy is located at an
+  exact address: an author upload on Edmondson's ResearchGate profile,
+  https://www.researchgate.net/profile/Amy_Edmondson/publication/250959492_Learning_from_Mistakes_Is_Easier_Said_Than_Done_Group_and_Organizational_Influences_on_the_Detection_and_Correction_of_Human_Error/links/00b49535113800fcce000000.pdf,
+  of the kind the owner's ruling of 2026-10-29 counts. On 2026-10-29 it
+  returned 403 to curl and to WebFetch, so the failure is on access, not
+  availability. The search listing labels that file with the DOI of the
+  journal's 2004 reprint of the article (10.1177/0021886304263849, JABS
+  40(1), 66–90), so it may be the reprint rather than the 1996 printing;
+  the text is the same article. OpenAlex reports both printings closed
+  with no repository copy, and SAGE's pages are paid. A browser fetch of
+  the ResearchGate file is the cheapest way to read it. It stays
+  Unfetched until a copy is supplied.
+title: 'Learning from Mistakes is Easier Said Than Done: Group and Organizational Influences on the Detection and Correction of Human Error'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Registered on 2026-10-29 from the triage of the day (curation entry
+    of 20:59), File tier, for CLAIM-359 and CLAIM-349: CLAIM-359's note
+    of 2026-10-29 says that controls which treat dissent as suspect cut
+    learning is the claim's inference and not something Edmondson 1999
+    (LIT-1220) tests, and this paper is her own earlier finding that
+    hospital units with punitive climates report fewer drug errors, the
+    nearest observation in the record's reach of control suppressing
+    disclosure (CLAIM-349's "less disclosure of near misses"). Citation
+    checked against Crossref (DOI 10.1177/0021886396321001): Amy C.
+    Edmondson, "Learning from Mistakes is Easier Said Than Done: Group
+    and Organizational Influences on the Detection and Correction of
+    Human Error", The Journal of Applied Behavioral Science 32(1), 5–28,
+    March 1996. Crossref gives published-online 1996-03-01, which is the
+    `published:` date. The journal reprinted it in 2004 (40(1), 66–90,
+    doi:10.1177/0021886304263849); that is the same article and is not
+    filed separately. Filed Unfetched under ADR-053 (see the status
+    note). Not read, so no NOTE; the summary is from the abstract as
+    indexed and the triage's account, not from the text.
+tags:
+- social-science
+- society-and-governance
+date: '2026-10-29'
+published: '1996-03-01'
+doi: '10.1177/0021886396321001'
+first_author: 'Edmondson'
+keywords:
+- 'human error'
+- 'medication errors'
+- 'organizational learning'
+- 'error detection'
+- 'work groups'
+- 'hospitals'
+implementations: []
+summary: >-
+  Edmondson (1996), Journal of Applied Behavioral Science 32(1), 5–28. A
+  study of drug-administration errors in patient-care groups in two
+  hospitals, reported to show that groups differ systematically not only
+  in how often errors occur but in how likely they are to be detected and
+  learned from, with unit climate and leadership bearing on whether
+  errors are reported. Not read; from the abstract as indexed.
+---
+<!-- inactive-ok-file: CLAIM-359 — Proposed; the claim this work was filed for, cited as open -->
+
+# LIT-tmp36bz2: Learning from Mistakes is Easier Said Than Done: Group and Organizational Influences on the Detection and Correction of Human Error
+
+Edmondson, A. C. (1996). Learning from mistakes is easier said than
+done: group and organizational influences on the detection and
+correction of human error. *The Journal of Applied Behavioral Science*,
+32(1), 5–28. Reprinted 2004, 40(1), 66–90.
+
+Not read. An author upload is located on ResearchGate and could not be
+fetched on 2026-10-29 (see the status note).
+
+## Why this is here
+
+The triage of 2026-10-29 put it in the File tier for [CLAIM-359](../claims.d/CLAIM-359.md) and
+[CLAIM-349](../claims.d/CLAIM-349.md). Edmondson 1999 ([LIT-1220](LIT-1220.md), [NOTE-1404](../notes.d/NOTE-1404.md)) is read: across 51 teams
+in one company, psychological safety went with learning behaviour, and
+it says nothing about controls or adversarial members. [CLAIM-359](../claims.d/CLAIM-359.md)'s note
+says the step from controls that treat dissent as suspect to less
+learning is the claim's own inference. This earlier paper is, by the
+triage's account and by later citations of it, where Edmondson found
+that the units with more recorded drug errors were the ones whose
+climate made errors safe to report, so that a punitive climate shows up
+as fewer reported errors rather than fewer errors. That is unverified
+here. If the reading bears it out, it is the nearest observation the
+record can reach of control suppressing disclosure, the effect A42's
+translation in [CLAIM-349](../claims.d/CLAIM-349.md) predicts ("less disclosure of near misses").

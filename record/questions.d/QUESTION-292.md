@@ -4,7 +4,14 @@ status: Answered
 formerly:
 - QUESTION-tmpubad0
 title: 'What evidence would show that a maintaining link, and not a regime''s content, keeps a disorder in place: does the efficacy of a treatment that targets the link count, or only change in the link that is specific and comes before the outcome?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the RefraMED monograph (NOTE-tmpswlra)
+    as a worked case of THEORY-053's standard, met on neither leg.
+    The answer is unchanged.
 tags:
 - psychopathology-and-treatment
 - complex-systems
@@ -50,3 +57,17 @@ evidence bears on such a theory.
 Mediation evidence of this kind is necessary, not sufficient. Whether any
 disorder meets the standard, and so is a protective lock-in, remains
 [QUESTION-045](QUESTION-045.md)'s.
+
+## Note of 2026-10-29: a trial that looked for the link
+
+The RefraMED monograph, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md) ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), is a worked case of
+the answer's two legs. Its causal mechanism analyses were meant as the
+evidence [THEORY-053](../theory.d/THEORY-053.md) asks for, and they meet neither leg. On specificity,
+the mediators are sessions attended, alliance and DBT skills, of which
+alliance and exposure are common factors and not RO DBT's theorised
+process; the processes it names are reported only as differences between
+arms. On precedence, mediator and outcome are both at 7 months, and the
+planned analyses of temporal order are not reported. It does not count
+against the theory either: the processes moved, and whether the outcome
+moved through them was not estimated. [THEORY-053](../theory.d/THEORY-053.md) is noted the same day.
+The answer is unchanged.

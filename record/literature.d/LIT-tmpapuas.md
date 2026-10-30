@@ -1,0 +1,90 @@
+---
+status: Unavailable
+status_note: >-
+  registered 2026-10-29, not read. A lawful full text was sought on
+  2026-10-29 and not reached. The paper is an unpublished working paper
+  of 2001 (MIT and Stanford, as the QJE paper's references give it); it
+  has no DOI, and Crossref, OpenAlex and SSRN hold no record of it under
+  this title. Vayanos's research page at LSE
+  (https://personal.lse.ac.uk/vayanos/research.html) lists "Financial
+  Markets and Social Networks", with DeMarzo and Zwiebel, among his
+  working papers with no link and no file; the authors' Stanford pages
+  and RePEc list no copy. Web searches found only citations. It stays
+  Unavailable until a copy is supplied.
+title: 'Social Networks and Financial Markets'
+version: 1
+history:
+- version: 1
+  date: '2026-10-29'
+  note: >-
+    Registered on 2026-10-29 from the triage of the day (curation entry
+    of 20:59), File tier, for CLAIM-297 and QUESTION-117: CLAIM-297's note
+    of 2026-10-29 calls it "the closest published statement of this
+    claim's loop" and says it should be read before the loop is called
+    new, and it may meet QUESTION-117's call for an established model
+    that already gives the coupled outcome. Citation as the conclusion of
+    DeMarzo, Vayanos and Zwiebel 2003 (LIT-1134, NOTE-1392) gives it:
+    Peter M. DeMarzo, Dimitri Vayanos and Jeffrey Zwiebel, "Social
+    Networks and Financial Markets", working paper, Massachusetts
+    Institute of Technology and Stanford University, 2001. No Crossref
+    or OpenAlex record exists to check it against; Vayanos's research
+    page lists the project, with the same co-authors, as "Financial
+    Markets and Social Networks", unlinked, which may be the same work
+    under a later title. `published:` is 2001-01-01, the year being all
+    any source gives. The source is Vayanos's research page, the only
+    first-party listing found. Filed Unavailable under ADR-041 (see the
+    status note). Not read, so no NOTE; the summary is the 2003 paper's
+    one-sentence description, second-hand.
+tags:
+- social-science
+- network-science
+date: '2026-10-29'
+published: '2001-01-01'
+url: 'https://personal.lse.ac.uk/vayanos/research.html'
+first_author: 'DeMarzo'
+keywords:
+- 'social networks'
+- 'financial markets'
+- 'endogenous listening'
+- 'persuasion bias'
+- 'social influence'
+implementations: []
+summary: >-
+  DeMarzo, Vayanos & Zwiebel (2001), working paper, MIT and Stanford.
+  Described in their 2003 QJE paper ([LIT-1134](LIT-1134.md)) as a model in which agents
+  choose whom to listen to by the profits of trading on what they hear,
+  and stable structures have everyone listening to the same experts, who
+  need not be the best informed, so that influence can perpetuate itself
+  apart from accuracy. Not read; that description is all the record has.
+---
+<!-- inactive-ok-file: QUESTION-117 — Open; the question this work may answer, cited as open -->
+
+# LIT-tmpapuas: Social Networks and Financial Markets
+
+DeMarzo, P. M., Vayanos, D. & Zwiebel, J. (2001). Social networks and
+financial markets. Working paper, Massachusetts Institute of Technology
+and Stanford University.
+
+Not read. No copy of the working paper was found on 2026-10-29 (see the
+status note).
+
+## Why this is here
+
+The triage of 2026-10-29 put it in the File tier for [CLAIM-297](../claims.d/CLAIM-297.md) and
+[QUESTION-117](../questions.d/QUESTION-117.md). The authors' persuasion-bias paper ([LIT-1134](LIT-1134.md), [NOTE-1392](../notes.d/NOTE-1392.md))
+holds listening weights fixed and shows that position alone can give an
+agent influence out of proportion to its accuracy. Its conclusion points
+to this companion, in which the weights move: whom an agent listens to
+is chosen by what listening earns. As the 2003 paper describes it, that
+is [CLAIM-297](../claims.d/CLAIM-297.md)'s loop, authority updated by performance, ending in
+influence that perpetuates itself whatever its accuracy, and it would be
+a predecessor [QUESTION-117](../questions.d/QUESTION-117.md) has to meet: an established model with
+evolving influence that already gives capture without fidelity.
+
+Whether it states the loop is not settled by that description. In
+[CLAIM-297](../claims.d/CLAIM-297.md) an operator's authority is scored against the interpretation
+it helped make dominant. In the companion, as described, listening is
+scored by trading profits, which depend on prices and on what the asset
+pays, so the score need not be self-referential. Which it is, and whether
+the stable structures are reached from a small initial advantage, can
+only be read from the paper.

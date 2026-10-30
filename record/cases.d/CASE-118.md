@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmptwfjg
 title: 'Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: in Chesson's terms, by Letten et al.'s
+    translation (NOTE-1377), ρ is the niche overlap, 1 − ρ the niche
+    difference, and the coexistence bound is ρ < f₂/f₁ < 1/ρ;
+    Chesson 1990 registered, Unfetched. The construction is
+    unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -26,6 +35,7 @@ summary: >-
   and exclusion under another.
 ---
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmpdoqmq — Unfetched since 2026-10-29; Chesson 1990, cited in the note of that date as not read, nothing here rests on it -->
 
 # CASE-118: Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence
 
@@ -72,3 +82,23 @@ It separates three things an experiment on [QUESTION-083](../questions.d/QUESTIO
 A feature can be geometrically distinct without being useful. A specialist
 can be useful without enough influence to survive. And differentiated
 specialists can persist without any higher-level governance.
+
+## Note of 2026-10-29: ρ in Chesson's terms
+
+Chesson's 1990 paper on MacArthur's consumer–resource model, [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md),
+is registered and Unfetched, so this case's ρ cannot yet be checked
+against his definition at its source. What the record can say comes from
+Letten, Ke and Fukami, [LIT-1237](../literature.d/LIT-1237.md) ([NOTE-1377](../notes.d/NOTE-1377.md)), who follow that paper. In
+Lotka–Volterra form, Chesson's niche overlap is √(α₁₂α₂₁/α₁₁α₂₂) and his
+fitness ratio is f₂/f₁ = √(α₁₁α₁₂/α₂₂α₂₁), with mutual invasibility ρ <
+f₂/f₁ < 1/ρ.
+
+Writing this case's system as ṅ_i = r_i n_i(1 − Σ_j (A_ij/r_i) n_j) gives
+α_ij = A_ij/r_i. Then the niche overlap is ρ itself, and the fitness ratio
+is r₂/r₁ = (1 − δ)/(1 + δ). So the case's word "overlap" for ρ is
+Chesson's, and the invasion growth 1 − ρ is his niche difference, not his
+overlap. The coexistence bound |δ| < (1 − ρ)/(1 + ρ) is his ρ < f₂/f₁ <
+1/ρ, rewritten (checked by hand, 2026-10-29). Whether Chesson's overlap
+for MacArthur's model is the cosine of the components' feature vectors, as
+the case assumes, is what a reading of [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md) would settle. The
+construction is unchanged.

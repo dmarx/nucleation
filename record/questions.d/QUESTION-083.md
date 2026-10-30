@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp2y4xi
 title: 'Beyond stable, differentiated authority, which one update rule can produce, can processes that share it come to hold mutually regulated authority with specialized niches, without any governance role being coded in, when some competences show only in rare contexts?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -19,6 +19,14 @@ history:
     Power et al., Bunin, Hofbauer and Schreiber, Marsland et al.,
     Blumenthal et al., Letten et al. and Li et al. The question is
     unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: Serván and Allesina read
+    (NOTE-tmpwunhc), no order-of-arrival entrenchment in the
+    positive definite potential case; Ito and Kaneko read
+    (NOTE-tmp2xl62), influence without mutual regulation; Chesson
+    1990 Unfetched and 1994 Unavailable. The question is unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -40,6 +48,7 @@ bearing:
 ---
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-288 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; cited as the reading the synthesis recommended, not reached, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-tmpdoqmq LIT-tmpf923j — Unfetched and Unavailable since 2026-10-29; Chesson 1990 and 1994, cited in the note of that date as not read, nothing here rests on them -->
 
 # QUESTION-083: Beyond stable, differentiated authority, which one update rule can produce, can processes that share it come to hold mutually regulated authority with specialized niches, without any governance role being coded in, when some competences show only in rare contexts?
 
@@ -175,3 +184,30 @@ what an answer can borrow.
 Chesson, [LIT-1219](../literature.d/LIT-1219.md), is now Unavailable, so the note of 2026-10-18's
 recommendation to read it first stays unmet. The question is unchanged
 and stays Open.
+
+## Note of 2026-10-29: order of arrival in the potential case, a one-way core, and Chesson again
+
+- **Serván and Allesina**, [LIT-tmp8en4t](../literature.d/LIT-tmp8en4t.md) ([NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md)). In symmetric
+  competitive Lotka–Volterra assembly with a positive definite interaction
+  matrix, as a Gram matrix of independent feature vectors is, there is no
+  entrenchment by order of arrival: every order of arrival ends in the
+  same community, and no invasion sequence returns to an earlier one.
+  Order-dependence needs a symmetric matrix that is not positive definite,
+  which a Gram matrix cannot be, or asymmetry. That agrees with Marsland,
+  Cui and Mehta's monotone assembly, in the earlier note of this date, and
+  sharpens it: in this class an early entrant can be displaced, but the
+  community it is displaced into is fixed by the pool, not by history. The
+  invasion graph of any symmetric system is acyclic ([THEORY-tmplmes0](../theory.d/THEORY-tmplmes0.md)).
+- **Ito and Kaneko**, [LIT-tmpwxstp](../literature.d/LIT-tmpwxstp.md) ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)). A population of
+  identical processes under one update rule, with no governance primitive,
+  in which differentiated and durable influence forms. That is the part
+  [QUESTION-295](QUESTION-295.md) (Answered) already holds. It shows nothing on niches or on
+  mutual regulation: the periphery has almost no influence on the core (2
+  of about 1,344 possible links), so the regulation is one-way, and
+  nothing in the model is a competence that shows in rare contexts.
+- **Chesson.** His 1990 paper, [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md), is Unfetched and his 1994
+  paper, [LIT-tmpf923j](../literature.d/LIT-tmpf923j.md), Unavailable, so the note of 2026-10-18's
+  recommendation to read Chesson before a negative-frequency-dependence
+  criterion gets stronger standing is still unmet.
+
+The question is unchanged and stays Open.

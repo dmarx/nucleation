@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp4hwnm
 title: 'Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and does cutting the maintaining link, with the regime''s content held fixed, produce lasting change?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -19,6 +19,12 @@ history:
     Note of 2026-10-29 added: the RefraMED trial read
     (NOTE-1358); it reports no mediation analysis. The question
     is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Note of 2026-10-29 added: the RefraMED monograph read
+    (NOTE-tmpswlra); mediators analysed and not identified, and
+    overcontrol not measured. The question is unchanged.
 tags:
 - psychopathology-and-treatment
 - complex-systems
@@ -125,3 +131,20 @@ the mediators were measured, but no mediation analysis is reported, only
 contrasts between arms. It selected on refractory depression with
 undercontrolled presentations excluded, and it did not measure
 overcontrol. The question is unchanged.
+
+## Note of 2026-10-29: the trial's monograph, read
+
+The earlier note of this date says the BJP paper gives nothing on
+mechanism. The trial's NIHR monograph, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md), now read
+([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), gives an attempt and no result, so that note's conclusion
+stands with a refinement: the mediators were analysed, and the analysis
+did not identify them. They were sessions attended, alliance and DBT
+skills, not the flexibility and emotional expression RO DBT names;
+mediator and outcome were both at 7 months; and the instrumented analysis
+failed on weak instruments.
+
+Overcontrol was not measured as such. The trial's proxy is a cluster A or
+C personality-disorder diagnosis (78% had at least one Axis-II disorder),
+used as a stratifier, and its interaction with treatment is reported only
+as not significant. That is the nearest the trial comes to this question,
+and it is no evidence either way. The question is unchanged.

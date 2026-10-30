@@ -39,6 +39,7 @@ summary: >-
 illustrated_by:
 - CASE-098
 ---
+<!-- inactive-ok-file: LIT-tmpuf1d1 LIT-tmpfckfc — Unavailable since 2026-10-29; the two Flack 2006 papers, cited in the note of that date as not reached, nothing here rests on them -->
 # CLAIM-327: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 
 ## The claim
@@ -158,5 +159,29 @@ collective under turnover may need. And the causal states are minimal
 only for the whole future: for a finite horizon a coarser state can
 predict as well, so "the" slow state depends on the horizon of
 prediction.
+
+The claim stays Proposed.
+
+## Note of 2026-10-29: the two Flack 2006 papers, not reached
+
+Two of the earlier studies Flack 2012 argues the second stage from are now
+registered, and both are Unavailable: no lawful copy was reached.
+
+- **Flack and Krakauer 2006**, "Encoding power in communication networks",
+  [LIT-tmpuf1d1](../literature.d/LIT-tmpuf1d1.md), which builds the power measure from the signalling network
+  and relates it to how others solicit and accept intervention. Whether it
+  shows members conditioning on the consensus rather than on the signals
+  themselves turns on its methods.
+- **Flack, Girvan, de Waal and Krakauer 2006**, "Policing stabilizes
+  construction of social niches in primates", [LIT-tmpfckfc](../literature.d/LIT-tmpfckfc.md), the knockout
+  of policing that Flack 2012 rests part of its argument on, and the one
+  intervention in the literature this claim draws on.
+
+So the second stage still has no evidence the record has read. One thing
+can be said from the descriptions alone. The knockout removed the
+policers, an input to the power structure, not members' access to a slow
+variable. Even a clean result would bear on the third stage, regeneration,
+more directly than on the second, and it is not the intervention the
+defeated_if names.
 
 The claim stays Proposed.

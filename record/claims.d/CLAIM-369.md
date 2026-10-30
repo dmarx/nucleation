@@ -216,3 +216,29 @@ the derivation.
   prove it.
 
 The claim is unchanged.
+
+## Note of 2026-10-29: the invasion graph is acyclic, and when assembly has one end-point
+
+The open point the earlier note of this date leaves, whether this claim's
+class rules out cyclic invasion graphs, is closed by derivation.
+[THEORY-tmplmes0](../theory.d/THEORY-tmplmes0.md) (Active), from Serván and Allesina, [LIT-tmp8en4t](../literature.d/LIT-tmp8en4t.md)
+([NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md)): for any symmetric interaction matrix, the difference in
+rᵀx between two equilibria is a sum of invasion growth rates weighted by
+abundances, which an edge of Hofbauer and Schreiber's invasion graph
+([LIT-1233](../literature.d/LIT-1233.md)) makes positive. So rᵀx rises along every edge and the graph has
+no cycles. Only symmetry and an equilibrium for each vertex are needed. In
+this claim's class V(x*) = ‖b‖² − 2L(x*), so L falls along every edge, the
+class always meets [LIT-1233](../literature.d/LIT-1233.md)'s acyclicity hypothesis, and the signs of
+invasion growth rates decide robust permanence there.
+
+On order of arrival, the chapter gives one end-point, reached in any order
+of arrival, when the matrix is positive definite, which for A = UᵀU means
+U of full column rank. When A is singular, which the claim allows ("With A
+singular there may be several"), the chapter's genericity assumption fails
+and it says nothing. Its indefinite case, acyclic but with priority
+effects, cannot arise from a Gram matrix. Two further limits on the
+transfer: the chapter needs positive entries in its matrix, which is this
+claim's sign condition for the ecological reading, and its pool admits
+only species with r_i > 0.
+
+The claim is unchanged.

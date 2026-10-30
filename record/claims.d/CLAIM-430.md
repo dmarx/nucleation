@@ -49,6 +49,7 @@ summary: >-
 bears_on:
 - QUESTION-259
 ---
+<!-- inactive-ok-file: LIT-tmph031e — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
 
 # CLAIM-430: An interaction can make available a way of relating that its participants' operative perspectives did not hold, by giving each a role to enact in it, so that taking part can come before, and help produce, the reinterpretation it later seems to express; whether the change stays with the partner, generalizes to a category, or is reproduced beyond the encounter are further questions
 
@@ -133,3 +134,70 @@ favourable content does as much as taking part.
   with no contact.
 
 Neither meets the defeater. The claim is unchanged and stays Proposed.
+
+## Note of 2026-10-29: a between-study comparison, and conduct without a changed view
+
+Two more works bear on the second defeater, and one changes what the
+earlier note of this date says.
+
+- **Lemmer and Wagner**, [LIT-tmpn3fwx](../literature.d/LIT-tmpn3fwx.md) ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)). The earlier note's
+  "The defeater has no test in the randomized contact literature" is no
+  longer true as a statement of what the record holds. This meta-analysis
+  estimates programmes with no taking part, eight extended-contact
+  comparisons in which participants read or watch cross-group friendships,
+  beside programmes in which they take part, and the first are no less
+  effective (0.42 against 0.31 for meetings and 0.25 for cooperative
+  learning). If anything, that weighs toward the defeater. It is weaker
+  than a test on each of the defeater's terms. Nothing matches favourable
+  content across arms: the comparison is between different studies of
+  different programmes, populations and measures, and the subtype
+  moderator is not significant. The outcomes are immediate posttests of
+  self-reported attitudes, so nothing shows the change "as large" on
+  conduct. The delayed analyses are not broken down by type, so nothing
+  shows it "as durable". And "indirect" pools extended contact with
+  virtual contact, interaction by computer, which is taking part at a
+  distance and is the subtype that did not work in the stronger designs.
+  So the sentence should read: no within-study test; between studies,
+  observed friendships do about as well as taking part, on immediate
+  self-reports.
+- **Scacco and Warren**, [LIT-tmpi9wm8](../literature.d/LIT-tmpi9wm8.md) ([NOTE-tmpf5rji](../notes.d/NOTE-tmpf5rji.md)). In a randomized
+  field experiment, conduct moved and stated prejudice did not: mixed
+  classes discriminated less in incentivized games than single-religion
+  classes. That is what part 2 of the claim, taking part before the
+  reinterpretation, would show at the moment of measurement. It is not
+  evidence that the reinterpretation follows: there is one endline, no
+  later attitude measure, and the authors give that order only as one of
+  four readings. Their first reading cuts against the claim's mechanism.
+  If the contrast is mostly in-group bonding in the single-religion
+  classes, the mixed classes were not given a new way of relating; they
+  were spared a reinforced old one. The trial has no information arm, so
+  it does not touch the second defeater, and the anonymous-favour defeater
+  is not tested either.
+
+Neither meets the defeater. The claim is unchanged and stays Proposed.
+
+## Note of 2026-10-29: Cernat 2011, from its abstract, not the test
+
+Cernat 2011, [LIT-tmph031e](../literature.d/LIT-tmph031e.md), was registered because the reading of Lemmer
+and Wagner ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)) named it as possibly the nearest within-study
+test of this claim's second defeater. It is Unfetched and unread. What
+follows rests on its abstract and on the method text a search engine
+indexes, not on the article.
+
+It is not that test. The "interaction" in its title is between two
+characters in a story, not between the participant and anyone. All three
+arms read: a story of a close friendship between a Roma and a Romanian,
+one of the participants' own group; the same story with a Bulgarian, of
+another outgroup, in the Romanian's place; or the control's text. No arm
+takes part, so the contrast is between kinds of information, not between
+information and taking part. Per the abstract, the outgroup–outgroup story
+was enough to improve attitudes toward Roma and to lower intergroup
+anxiety, and the ingroup–outgroup story had stronger and broader effects,
+through group emotions rather than anxiety or norms. That says which
+favourable content works best, not whether favourable content does as much
+as enactment. The measures the abstract names are attitudes, anxiety,
+norms and emotions; none is conduct.
+
+The amended sentence of the earlier note stands: the defeater has no
+within-study test. Neither defeater is met. The claim is unchanged and
+stays Proposed.
