@@ -38,7 +38,7 @@ summary: >-
   38(5):443–458. Unread, and no abstract was available, so nothing is said
   here of its content beyond its title: contrast effects in forming and
   changing stereotypes, and the role of comparative context. Expected to
-  supply, for THEORY-1114, evidence on whether a group's stereotype shifts
+  supply, for [THEORY-1114](../theory.d/THEORY-1114.md), evidence on whether a group's stereotype shifts
   with the comparative frame, from authors outside the self-categorization
   group.
 ---
@@ -55,7 +55,7 @@ title.
 
 ## Why this is here
 
-THEORY-1114 holds that the content of a category varies with the
+[THEORY-1114](../theory.d/THEORY-1114.md) holds that the content of a category varies with the
 comparative frame of reference, and its promote_when counts a result only
 if it "comes from outside the theory's originating group". This paper, by
 the title, studies how the comparative context shapes the formation and

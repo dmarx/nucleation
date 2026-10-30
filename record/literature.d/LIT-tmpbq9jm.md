@@ -43,8 +43,8 @@ summary: >-
   comparative fit and depersonalization, report that fit drove ingroup
   bias and other outcomes through depersonalization, and only when the
   category was highly accessible. Expected to supply field evidence for
-  THEORY-1114's metacontrast-to-depersonalization chain, and, through
-  its football fans, a case for CLAIM-493.
+  [THEORY-1114](../theory.d/THEORY-1114.md)'s metacontrast-to-depersonalization chain, and, through
+  its football fans, a case for [CLAIM-493](../claims.d/CLAIM-493.md).
 ---
 <!-- inactive-ok-file: THEORY-1114 CLAIM-493 — Proposed; the account and the claim this work is filed for, not leaned on -->
 
@@ -77,12 +77,12 @@ record and has not been checked against the paper.
 
 ## Why this is here
 
-THEORY-1114 claims that metacontrast fixes which self-category is salient
+[THEORY-1114](../theory.d/THEORY-1114.md) claims that metacontrast fixes which self-category is salient
 and that salience depersonalizes self-perception. The abstract reports a
 measured fit-to-depersonalization path in the field. A reading should
 check whether the frame was varied or only measured, and whether the
-author stands outside the theory's originating group, as THEORY-1114's
-promote_when requires. CLAIM-493 concerns fanbases set against an outside
+author stands outside the theory's originating group, as [THEORY-1114](../theory.d/THEORY-1114.md)'s
+promote_when requires. [CLAIM-493](../claims.d/CLAIM-493.md) concerns fanbases set against an outside
 party. The first study's football fans make it the nearest field sample
 the record has for that claim. Whether it measures which members become
 more prototypical is not said in the abstract.
