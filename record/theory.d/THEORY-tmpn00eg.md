@@ -19,19 +19,19 @@ extends:
 - THEORY-906
 summary: >-
   The wider thesis Dagan and Benvenisty assert ("the study demonstrates a
-  clear link", para. 12), filed beside THEORY-906 by the twenty-third
-  status review (ADR-065 §3; ADR-047 kind 1). THEORY-906, Active, holds
+  clear link", para. 12), filed beside [THEORY-906](THEORY-906.md) by the twenty-third
+  status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-906](THEORY-906.md), Active, holds
   what their summary reports of five cases chosen because they
   autocratized; whether the link holds is this entry's question, and its
-  promote_when is THEORY-906's old condition, word for word.
+  promote_when is [THEORY-906](THEORY-906.md)'s old condition, word for word.
 ---
 
 # THEORY-tmpn00eg: Formal emergency powers, extraordinary powers functionally equivalent to them and emergency rhetoric are linked to the accelerated erosion or dismantling of democracy and to the consolidation of autocratic rule, though the convergence is not inevitable
 
 ## Source
 
-Dagan & Benvenisty (2026), LIT-1487, the Israel Democracy Institute's web
-summary, read in full in NOTE-1129. Its conclusion: "the study
+Dagan & Benvenisty (2026), [LIT-1487](../literature.d/LIT-1487.md), the Israel Democracy Institute's web
+summary, read in full in [NOTE-1129](../notes.d/NOTE-1129.md). Its conclusion: "the study
 demonstrates a clear link between states of emergency and the accelerated
 erosion or dismantling of democracy, as well as the consolidation of
 autocratic rule in countries undergoing regime transformation" (para. 12).
@@ -39,10 +39,10 @@ And its hedge: "This convergence is not inevitable" (para. 5).
 
 ## Where the evidence stands
 
-What the summary shows, and what it does not, is THEORY-906, Active, which
+What the summary shows, and what it does not, is [THEORY-906](THEORY-906.md), Active, which
 this entry extends: that entry is the reading, this one the thesis. The
 five cases were chosen because democracy eroded, no comparison cases are
 studied, and no country account is sourced, so the summary cannot show a
-link. The `promote_when` above is THEORY-906's condition before the
+link. The `promote_when` above is [THEORY-906](THEORY-906.md)'s condition before the
 twenty-third status review promoted it, carried here unchanged, because
 it asks what would make the thesis true and not what the summary says.

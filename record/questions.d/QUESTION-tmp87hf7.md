@@ -8,9 +8,9 @@ tags:
 date: '2026-10-30'
 line: distributed-agency
 summary: >-
-  The second half of THEORY-916's promotion condition, moved here when
+  The second half of [THEORY-916](../theory.d/THEORY-916.md)'s promotion condition, moved here when
   the twenty-third status review narrowed that condition to the proofs
-  the title asserts (ADR-065; ADR-047 kind 4). The model proves where
+  the title asserts ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 4). The model proves where
   reflected appraisal goes; whether groups bear it out is this question,
   and the authors say its assessment "has just begun".
 ---
@@ -20,18 +20,18 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-916 holds the DeGroot–Friedkin theorems of Jia, MirTabatabaei,
+[THEORY-916](../theory.d/THEORY-916.md) holds the DeGroot–Friedkin theorems of Jia, MirTabatabaei,
 Friedkin and Bullo: with DeGroot consensus on each issue, reflected
 appraisal between issues and fixed relative weights, power comes to order
 as eigenvector centrality and accumulates above a threshold. Those are
 theorems about the model. The authors say "an assessment of the validity
-of the model has just begun" (p. 386; NOTE-1135).
+of the model has just begun" (p. 386; [NOTE-1135](../notes.d/NOTE-1135.md)).
 
 The one test in the record, Friedkin, Jia and Bullo's laboratory study
-(THEORY-902), used anchored dynamics and a network that changed from issue
+([THEORY-902](../theory.d/THEORY-902.md)), used anchored dynamics and a network that changed from issue
 to issue. It supported the individual step and did not reach the
 predicted end state. Under the Friedkin–Johnsen step the same appraisal
-rule goes to autocracy instead (THEORY-1161), so which single-issue step
+rule goes to autocracy instead ([THEORY-1161](../theory.d/THEORY-1161.md)), so which single-issue step
 real groups follow matters to the answer.
 
 ## What would answer it

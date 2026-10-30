@@ -119,9 +119,9 @@ propose would free neither [CLAIM-337](../claims.d/CLAIM-337.md) (also grounded 
 
 ## Note of 2026-10-30: what holds it back
 
-Rechecked after CLAIM-439's version 3 (2026-10-30), which repaired its edges
-to THEORY-873 and THEORY-882 and still rests on CLAIM-440, Proposed. The wait
+Rechecked after [CLAIM-439](../claims.d/CLAIM-439.md)'s version 3 (2026-10-30), which repaired its edges
+to [THEORY-873](THEORY-873.md) and [THEORY-882](THEORY-882.md) and still rests on [CLAIM-440](../claims.d/CLAIM-440.md), Proposed. The wait
 is unchanged: no generative model with felt and unfelt fluency as variables
 has been built, and none has predicted a new reversal that an experiment then
 found. A split into what Brouillet and Friston propose would still free
-neither CLAIM-337 nor CLAIM-439.
+neither [CLAIM-337](../claims.d/CLAIM-337.md) nor [CLAIM-439](../claims.d/CLAIM-439.md).

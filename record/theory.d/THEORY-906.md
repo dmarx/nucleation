@@ -83,9 +83,9 @@ chosen because democracy eroded.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-third status review promoted this reading under ADR-065: its
+The twenty-third status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): its
 title reports what the authors' summary says of five cases chosen on the
-outcome, with the summary's own limits in it, and NOTE-1129 read the
+outcome, with the summary's own limits in it, and [NOTE-1129](../notes.d/NOTE-1129.md) read the
 summary in full. Whether emergencies are linked to democratic erosion, as
-the authors conclude, is THEORY-tmpn00eg's question, Proposed, which
+the authors conclude, is [THEORY-tmpn00eg](THEORY-tmpn00eg.md)'s question, Proposed, which
 keeps this entry's old promote_when.

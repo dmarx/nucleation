@@ -135,4 +135,4 @@ Nothing was tested. The paper argues by construction and redescription.
 No simulation in the record shows a property of the hyper-model that a
 hierarchical Gaussian filter lacks, and no measure of global precision
 control taken apart from reports of awareness is in the record. The paper
-has neither (NOTE-1063).
+has neither ([NOTE-1063](../notes.d/NOTE-1063.md)).

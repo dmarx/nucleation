@@ -136,4 +136,4 @@ reports that they mostly do not.
 No manipulation of the attention schema with attention held fixed, or of
 attention with the model held, is in the record. The identification of the
 modelled process with attention rests on covariation with report cited
-from others, and the paper reports no such manipulation (NOTE-1071).
+from others, and the paper reports no such manipulation ([NOTE-1071](../notes.d/NOTE-1071.md)).

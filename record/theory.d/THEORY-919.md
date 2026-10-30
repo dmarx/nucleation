@@ -104,7 +104,7 @@ returned. It did not; the southern departments shrank instead.
 
 The long-run persistence rests on first stages the author concedes are
 weak (Kleibergen-Paap F 3–8), and the 2015 draft read is probably the
-version first submitted, so the AER tables may differ (NOTE-1122). The
+version first submitted, so the AER tables may differ ([NOTE-1122](../notes.d/NOTE-1122.md)). The
 record has no stronger first stage, no weak-instrument-robust test and
 no reading of the version of record. If the title is narrowed, it should
 keep the weak-instrument hedge it now leaves out.

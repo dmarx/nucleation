@@ -125,4 +125,4 @@ forced critical mass, not as a counterexample.
 No study in the record measures, member by member, the extra work asked
 and the benefit received across groupware applications, with mandate and
 critical mass held apart. Grudin's evidence is cases chosen to
-illustrate, with no base rate of failures (NOTE-835).
+illustrate, with no base rate of failures ([NOTE-835](../notes.d/NOTE-835.md)).

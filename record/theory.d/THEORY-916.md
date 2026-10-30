@@ -141,7 +141,7 @@ self-weight of 0.29 and 0.13, never above 0.40. The comparison is
 ## Note of 2026-10-30: what holds it back
 
 The proofs of Lemmas 3.1–3.2, Theorem 4.1, Proposition 4.2 and Section 5
-were skimmed, not checked step by step (NOTE-1135), and the record holds
+were skimmed, not checked step by step ([NOTE-1135](../notes.d/NOTE-1135.md)), and the record holds
 no published independent proof. The title asserts the theorems, so it
-waits on that check (ADR-065 §5). Whether groups behave as the model does
-is QUESTION-tmp87hf7.
+waits on that check ([ADR-065](../decisions.d/ADR-065.md) §5). Whether groups behave as the model does
+is [QUESTION-tmp87hf7](../questions.d/QUESTION-tmp87hf7.md).

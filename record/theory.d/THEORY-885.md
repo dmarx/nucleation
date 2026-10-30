@@ -109,4 +109,4 @@ Nothing was tested. The account is argued in two steps.
 No comparison in the record measures how often and how cheaply matched
 political and market arrangements are reversed. Pierson argues the
 contrast, with one illustration chosen after the event, and this reading
-has only his 1997 working paper (NOTE-1076).
+has only his 1997 working paper ([NOTE-1076](../notes.d/NOTE-1076.md)).

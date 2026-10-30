@@ -99,7 +99,7 @@ some (note below).
 
 ## Note of 2026-10-30: the derivation, checked, and the title narrowed
 
-Checked by the twenty-third status review as a second checker (ADR-065
+Checked by the twenty-third status review as a second checker ([ADR-065](../decisions.d/ADR-065.md)
 §5). Write p = softmax(x) for the gate's proportions and x for its
 logits, e_i = ‖d − o_i‖, L_i = exp(−½e_i²), S = Σ_j p_j L_j and
 h_i = p_i L_i / S, and use ∂p_j/∂x_i = p_j(δ_ij − p_i).
@@ -130,8 +130,8 @@ h_i = p_i L_i / S, and use ∂p_j/∂x_i = p_j(δ_ij − p_i).
    and 171 with eight, and the best-fitting expert's proportion fell in 6
    to 16% of draws with three or more. So the old title's "gains
    responsibility" was a mis-statement for the mixing proportion. It
-   holds for the gate's logit, and the title now says so (ADR-047 kind 3).
-6. **NOTE-1147's ordering.** With equal p_i, |∂E/∂o_i| is proportional to
+   holds for the gate's logit, and the title now says so ([ADR-047](../decisions.d/ADR-047.md) kind 3).
+6. **[NOTE-1147](../notes.d/NOTE-1147.md)'s ordering.** With equal p_i, |∂E/∂o_i| is proportional to
    e_i under Eq. 1.4 and to e_i exp(−e_i²/2) under Eq. 1.5. The second
    falls with e_i for e_i > 1, so the best expert takes the smallest step
    under Eq. 1.4 and the largest under Eq. 1.5; below 1 the ordering
@@ -150,6 +150,6 @@ person re-ran moe_check.py and moe_check_p.py on 2026-10-30 and got the
 same counts.
 
 The backpropagation networks had "roughly equal parameter counts"
-(NOTE-1147), so "of equal size" became "of roughly equal parameter count"
-(ADR-047 kind 3). The replication the condition asked for is
-QUESTION-tmpxiomw.
+([NOTE-1147](../notes.d/NOTE-1147.md)), so "of equal size" became "of roughly equal parameter count"
+([ADR-047](../decisions.d/ADR-047.md) kind 3). The replication the condition asked for is
+[QUESTION-tmpxiomw](../questions.d/QUESTION-tmpxiomw.md).

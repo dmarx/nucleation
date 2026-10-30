@@ -141,15 +141,15 @@ picture of mitochondria and plastids, and UCYN-A could have shown EGT.
 
 ## Note of 2026-10-30: promoted, narrowed, and the wider thesis filed beside it
 
-The twenty-third status review promoted this reading under ADR-065, as the
+The twenty-third status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md), as the
 twenty-second promoted its siblings: it reports what Sørensen and
-colleagues' review says, and NOTE-1241 read the review in full. Two
+colleagues' review says, and [NOTE-1241](../notes.d/NOTE-1241.md) read the review in full. Two
 clauses of the old title went past the review, and the title now follows
-it (ADR-047 kind 3). The old title said the replacing genes are mostly the
+it ([ADR-047](../decisions.d/ADR-047.md) kind 3). The old title said the replacing genes are mostly the
 host's own; the review says that of the imported proteins, some of which
 "add novel functionality". And it lost the review's hedge for the
 nitroplast, where "Evidence for EGT has not been found". The title now
 also gives the authors' definition: essential genes functionally replaced
 by nuclear genes. Whether genetic integration needs no gene transfer, and
-whether the replacing genes are mostly the host's, is THEORY-tmpgkhdn's
+whether the replacing genes are mostly the host's, is [THEORY-tmpgkhdn](THEORY-tmpgkhdn.md)'s
 question, Proposed, which keeps this entry's old promote_when.
