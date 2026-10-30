@@ -24,7 +24,7 @@ history:
   note: >-
     Sixteenth status review (ADR-057, ADR-058), at the status review's
     ruling (the owner delegated these rulings): what Clark and Chalmers
-    argue is split off as THEORY-tmplyryk, Active, on THEORY-1110's
+    argue is split off as THEORY-1194, Active, on THEORY-1110's
     pattern, and CLAIM-175, which argues on the thesis's own terms, now
     grounds on it. The supports edge to CLAIM-175 is removed, and the
     Connections entry for CLAIM-175 points to the split. The account and
@@ -162,7 +162,7 @@ than denied.
   (near-decomposability, mutual entrainment).
 - **[CLAIM-175](../claims.d/CLAIM-175.md)** argues that a dancing couple is a combined cognitive form
   "on the extended-mind thesis's own terms". It relies on the statement of those
-  terms, which is [THEORY-tmplyryk](THEORY-tmplyryk.md).
+  terms, which is [THEORY-1194](THEORY-1194.md).
 - **The critics.** Adams and Aizawa ([LIT-438](../literature.d/LIT-438.md), [LIT-455](../literature.d/LIT-455.md)) argue that coupling
   is not constitution and that cognition needs non-derived content. Rupert
   ([LIT-422](../literature.d/LIT-422.md)) argues that the functional differences Clark sets "below the
@@ -182,7 +182,7 @@ than denied.
 ## Note of 2026-10-29: the proposal split off
 
 What Clark and Chalmers argue, as distinct from whether it is true, is now
-[THEORY-tmplyryk](THEORY-tmplyryk.md), Active, so that [CLAIM-175](../claims.d/CLAIM-175.md), which argues on the thesis's
+[THEORY-1194](THEORY-1194.md), Active, so that [CLAIM-175](../claims.d/CLAIM-175.md), which argues on the thesis's
 own terms, can stand on the statement alone. This entry keeps the question
 whether the conditional holds, and its promote_when.
 

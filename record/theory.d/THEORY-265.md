@@ -25,7 +25,7 @@ history:
     single unit, and synchrony matched to the modules is needed: global
     synchrony does not. The promote_when asks for a replication outside
     the clean game, which is open scope nobody asserts (kind 4), and
-    moves unchanged to QUESTION-tmpf4yf4. Its supports entry for
+    moves unchanged to QUESTION-337. Its supports entry for
     CLAIM-172 becomes corroborates (ADR-058).
 tags:
 - agency
@@ -176,7 +176,7 @@ same.
   The slowest phase rate tried, 10⁻⁵, did not synchronise modules within
   30,000 steps. Overlapping modules, frustrated constraints and
   entrainment through the units' outputs were not run; they are
-  [QUESTION-tmpf4yf4](../questions.d/QUESTION-tmpf4yf4.md).
+  [QUESTION-337](../questions.d/QUESTION-337.md).
 
 The re-run is the record's own, from a transcription whose figures were
 read from their captions only.

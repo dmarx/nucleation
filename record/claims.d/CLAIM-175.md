@@ -17,7 +17,7 @@ history:
   date: '2026-10-29'
   note: >-
     Sixteenth status review (ADR-057). Grounds move from THEORY-579 to
-    THEORY-tmplyryk, what Clark and Chalmers argue, split on
+    THEORY-1194, what Clark and Chalmers argue, split on
     THEORY-1110's pattern (ADR-058): the claim argues on the extended-
     mind thesis's own terms and needs their statement, not their truth.
     Promoted at the status review's ruling (the owner delegated these
@@ -45,7 +45,7 @@ objects_to:
 - CLAIM-165
 grounds:
 - LIT-097
-- THEORY-tmplyryk
+- THEORY-1194
 - LIT-571
 - CASE-046
 uses:

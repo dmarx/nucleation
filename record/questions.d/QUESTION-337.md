@@ -1,5 +1,8 @@
 ---
+number: 337
 status: Open
+formerly:
+- QUESTION-tmpf4yf4
 title: "Does payoff-driven phase synchronisation still form along the strong couplings, and still turn those groups into units that switch as one, when modules overlap or constraints are frustrated, or when entrainment runs through the units' outputs rather than a payoff gradient on phase?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   and it is this question.
 ---
 
-# QUESTION-tmpf4yf4: Does payoff-driven phase synchronisation still form along the strong couplings, and still turn those groups into units that switch as one, when modules overlap or constraints are frustrated, or when entrainment runs through the units' outputs rather than a payoff gradient on phase?
+# QUESTION-337: Does payoff-driven phase synchronisation still form along the strong couplings, and still turn those groups into units that switch as one, when modules overlap or constraints are frustrated, or when entrainment runs through the units' outputs rather than a payoff gradient on phase?
 
 ## Why it is a question
 
