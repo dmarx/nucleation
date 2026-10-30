@@ -4,13 +4,25 @@ status: Proposed
 formerly:
 - CLAIM-tmpdfqoo
 title: 'Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
   note: >-
     CLAIM-255 leaves complements; it now rests on this claim (status
     review, ADR-057). The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    At the twenty-fourth status review, at the status review's ruling
+    (the owner delegated these rulings). THEORY-444, Grice's analysis of
+    speaker meaning read in full in NOTE-735, joins corroborated_by
+    (ADR-058): it fixes what an utterer means by the utterer's intention
+    toward an audience, and this claim does not rest on it. The defeat
+    condition's "CLAIM-115 already makes that receiver-relative" now
+    names CLAIM-220, which superseded it, and the directive that called
+    CLAIM-074 and CLAIM-115 Proposed is corrected. The claim is
+    unchanged, and CLAIM-171 is not conceded.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -20,7 +32,8 @@ defeated_if: >-
   intended meanings that cannot be recovered even in principle from the
   write and its context of production, so that "fixed" does no work.
   Disagreement among readers does not count: it is a fact about
-  recoverability, and CLAIM-115 already makes that receiver-relative.
+  recoverability, and CLAIM-220, which superseded CLAIM-115, already
+  makes that receiver-relative.
 tags:
 - pragmatics
 - philosophy-of-language
@@ -47,11 +60,13 @@ illustrated_by:
 - CASE-048
 objected_by:
 - CLAIM-171
+corroborated_by:
+- THEORY-444
 bears_on:
 - QUESTION-029
 ---
 <!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
-<!-- inactive-ok-file: CLAIM-074 CLAIM-115 CLAIM-151 — Proposed; the line's receiver-side claims this one is placed beside, open -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-151 — Superseded (by CLAIM-220) or Proposed; the line's receiver-side claims this one was placed beside, cited as they stood -->
 <!-- inactive-ok-file: CLAIM-171 — Proposed; the open objection to this claim -->
 <!-- inactive-ok-file: CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
@@ -130,3 +145,16 @@ The owner's ruling on the fourth status review settles the note of
 and does not answer it. Read that way, it does not conflict with [CLAIM-204](CLAIM-204.md),
 and the two complement each other: intending to perform an act against the
 act performed and taken up, the interlocutor's distinction of 2026-10-12.
+
+## Note of 2026-10-30: what holds it back
+
+CLAIM-171 is unanswered. Its argument as stated runs from how intended
+meaning is accessed to what constitutes it, which this claim already
+separates; what remains is the thesis that a projected receiver has no
+identity apart from readings, and neither side of it is held: Grice's
+analysis (THEORY-444), on which what an utterer means is fixed by the
+utterer's intention toward an audience and read by public criteria, is
+Proposed, and the reception-side readings (QUESTION-073) are unread.
+Holding THEORY-444 in a form that covers an absent, projected receiver,
+or an argument that something other than a reading fixes that receiver,
+would answer it.

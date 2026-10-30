@@ -1,10 +1,10 @@
 ---
 number: 471
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpdjt64
-title: 'Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations'' physical generation nor their adequacy follows from gluing alone'
-version: 4
+title: 'Physical interconnection can generate effective constraints on joint behaviour; measurement can estimate correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations'' physical generation nor their adequacy follows from gluing alone'
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -38,6 +38,31 @@ history:
     reads the same projection in Baez and Fong (LIT-1644, NOTE-1223); it
     is now a premise. The body keeps the citation. The text is
     unchanged.
+- version: 5
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted at the twenty-fourth status review (ADR-057),
+    at the status review's ruling (the owner delegated these rulings).
+    "establish" becomes "estimate" in the title and in defeater (b), the
+    way out the notes of 2026-10-29 and 2026-10-30 named: no held case
+    checks a measured correspondence against evidence the measurement did
+    not produce, and an estimate needs none. The stronger form is the
+    record's own and is not shown false, so it is filed as CLAIM-tmp665pn,
+    Proposed, with the old defeater (b) (ADR-047, kind 2). Version 4's
+    title read: 'Physical interconnection can generate effective
+    constraints on joint behaviour; measurement can establish
+    correspondences among local descriptions; and adaptive apparatuses
+    can revise those correspondences; gluing expresses compatibility
+    under specified relations, but neither the relations' physical
+    generation nor their adequacy follows from gluing alone'. Version 4's
+    defeater (b) read: "(b) Correspondence discovery: that the
+    correspondences measurement establishes cannot be checked against
+    anything but their own consistency, so that "establish" is too
+    strong." CLAIM-480, LIT-1659, LIT-016, THEORY-299 and TERM-093 are
+    Active, no objection is filed, and nothing meets (a), (b) as narrowed
+    or (c): Singer's angles are identifiable from the offsets up to one
+    global phase on a connected graph (NOTE-1224), and THEORY-1088 is one
+    constructed model, not every apparatus.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,9 +71,13 @@ defeated_if: >-
   admissible beyond what the parts' own laws and a fixed background
   already settle, so that the effective constraints composition yields
   (CLAIM-480) are only redescriptions. (b) Correspondence discovery:
-  that the correspondences measurement establishes cannot be checked
-  against anything but their own consistency, so that "establish" is too
-  strong. (c) Correspondence adaptation: that every apparatus that revises
+  that measurement records carry no information about which
+  correspondence holds beyond what the estimator's own assumptions put
+  in, so that no measured correspondence is identifiable from its
+  records even up to a stated symmetry, and "estimate" is too strong.
+  That a held estimate is checked only against its own consistency
+  (NOTE-1224) does not meet this: an estimate need not be validated to
+  be one. (c) Correspondence adaptation: that every apparatus that revises
   its correspondences does so only by reducing disagreement, so that
   adaptation never tracks anything beyond the apparatus (the
   learning-to-lie case, THEORY-1088, made general). Not defeated by
@@ -80,7 +109,7 @@ summary: >-
   authors call the result "learning to lie". So the claim separates three
   mechanisms. Physical interconnection changes what joint behaviour is
   admissible, and only it bears on the strong thesis that interaction
-  generates constraints. Measurement reveals correspondences that already
+  generates constraints. Measurement estimates correspondences that already
   held. Adaptation revises an apparatus's own rules of comparison. The
   open question is [QUESTION-282](../questions.d/QUESTION-282.md): when interaction changes the
   physically operative correspondence structure, rather than revealing or
@@ -89,7 +118,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1659 LIT-1646 LIT-1658 LIT-1668 LIT-1639 LIT-1674 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 
-# CLAIM-471: Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone
+# CLAIM-471: Physical interconnection can generate effective constraints on joint behaviour; measurement can estimate correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone
 
 ## The claim
 
@@ -146,7 +175,7 @@ law of the junction. Whether interaction ever changes the operative
 correspondence structure itself is open ([QUESTION-282](../questions.d/QUESTION-282.md)).
 
 **Correspondence discovery is the commonest case and supports less.** It
-establishes which correspondence holds. Its adequacy rests on evidence that the
+estimates which correspondence holds. Its adequacy rests on evidence that the
 correspondence does not itself produce ([CLAIM-143](CLAIM-143.md)), and the readings found that
 rarely available: Singer validates only through cycle consistency under a
 noise model, and Robinson trusts his maps.

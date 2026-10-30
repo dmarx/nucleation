@@ -1,23 +1,10 @@
 ---
 number: 871
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpak7ax
-promote_when: >-
-  A replication, with Bayes-factor evidence for the null, in an independent
-  sample or with another reappraisal strategy (distancing as well as
-  reinterpretation), showing that reported negative affect falls while the
-  amygdala, PAG and hypothalamus responses to the same stimuli do not; and
-  the version of record (Nature Neuroscience 2024) read and found to report
-  the same. It is refuted if measures sensitive to fast, small or patterned
-  change (high-field or multivariate analysis within those regions, or
-  intracranial recording) show reappraisal changing their response, or if
-  amygdala reduction under reinterpretation replicates with evidence of the
-  same strength. Whether the unchanged subcortical response is part of the
-  experience is a separate question that this THEORY does not carry, and a
-  result about it neither promotes nor refutes this one.
-title: "Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal"
-version: 2
+title: 'In two midlife community samples (n = 182 and 176), instructed reappraisal of aversive pictures, mostly by reinterpretation, lowered reported negative affect, while the BOLD responses of the amygdala, periaqueductal gray, hypothalamus and the other subcortical regions that responded to the pictures showed evidence of no change (Bayes factors below 1/10); the emotion-responsive regions it reduced were all cortical, mainly higher visual and parietal'
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -28,6 +15,45 @@ history:
     grounds to its corroborated_by (ADR-058), since that claim cites the
     result as fitting it and does not stand on it. The account is
     unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the
+    status review's ruling (the owner delegated these rulings; ADR-065;
+    ADR-047, "What one study counts for"). The old title generalised past
+    the study to instructed reappraisal at large, as its condition read
+    it ("in an independent sample or with another reappraisal
+    strategy"). It now reports what Bo et al. measured, with their hedges
+    kept: two midlife samples, one instructed strategy, mostly
+    reinterpretation, BOLD, a Bayes-factor null, and the reduced set taken
+    among emotion-responsive regions. NOTE-1061 read the bioRxiv version 2
+    preprint in full, and nothing in the record contradicts the report.
+    The demand for the version of record is dropped (ADR-065 §4): no
+    discrepancy is named, and NOTE-1061 records the copy read and that
+    the published abstract matches the preprint's. The wider thesis,
+    which the authors assert ("subcortical affective processes are less
+    modifiable by reappraisal than previously thought", p. 20), moves with
+    the old title to THEORY-tmpm533l, Proposed, which extends this entry
+    and keeps the old condition without its version-of-record clause
+    (ADR-065 §3 and §4; ADR-047 kind 1). The old title: "Instructed
+    reappraisal lowers reported negative affect to aversive pictures
+    while the responses of the amygdala, periaqueductal gray,
+    hypothalamus and other subcortical regions to the same pictures show
+    evidence of no change; the regions it reduces are cortical, mainly
+    higher visual and parietal". The old promote_when: "A replication,
+    with Bayes-factor evidence for the null, in an independent sample or
+    with another reappraisal strategy (distancing as well as
+    reinterpretation), showing that reported negative affect falls while
+    the amygdala, PAG and hypothalamus responses to the same stimuli do
+    not; and the version of record (Nature Neuroscience 2024) read and
+    found to report the same. It is refuted if measures sensitive to
+    fast, small or patterned change (high-field or multivariate analysis
+    within those regions, or intracranial recording) show reappraisal
+    changing their response, or if amygdala reduction under
+    reinterpretation replicates with evidence of the same strength.
+    Whether the unchanged subcortical response is part of the experience
+    is a separate question that this THEORY does not carry, and a result
+    about it neither promotes nor refutes this one."
 tags:
 - emotion-and-affect
 - neuroscience
@@ -48,7 +74,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-412 THEORY-056 THEORY-680 THEORY-057 THEORY-878 — Proposed; the claim and accounts this bears on, named, nothing here rests on them -->
 
-# THEORY-871: Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal
+# THEORY-871: In two midlife community samples (n = 182 and 176), instructed reappraisal of aversive pictures, mostly by reinterpretation, lowered reported negative affect, while the BOLD responses of the amygdala, periaqueductal gray, hypothalamus and the other subcortical regions that responded to the pictures showed evidence of no change (Bayes factors below 1/10); the emotion-responsive regions it reduced were all cortical, mainly higher visual and parietal
 
 ## Source
 
