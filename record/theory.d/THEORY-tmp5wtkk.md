@@ -23,11 +23,11 @@ extends:
 bears_on:
 - QUESTION-277
 summary: >-
-  The wider thesis Imachi et al. assert, filed beside THEORY-1108 by the
-  twenty-second status review (ADR-065 §3; ADR-047 kind 1). THEORY-1108,
+  The wider thesis Imachi et al. assert, filed beside [THEORY-1108](THEORY-1108.md) by the
+  twenty-second status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1108](THEORY-1108.md),
   Active, holds what Imachi and colleagues' cultivation shows and what
   they infer from it; whether the thesis holds is this entry's question, and
-  its promote_when is THEORY-1108's old condition, word for word.
+  its promote_when is [THEORY-1108](THEORY-1108.md)'s old condition, word for word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
@@ -35,8 +35,8 @@ summary: >-
 
 ## Source
 
-Imachi et al. (2020), LIT-1591, read in full in NOTE-1238. The authors infer an ancestor that "depended on metabolic partners, although we do not reject the possibility of other additional lifestyles".
+Imachi et al. (2020), [LIT-1591](../literature.d/LIT-1591.md), read in full in [NOTE-1238](../notes.d/NOTE-1238.md). The authors infer an ancestor that "depended on metabolic partners, although we do not reject the possibility of other additional lifestyles".
 
 ## Where the evidence stands
 
-What the paper shows, and what it does not, is THEORY-1108, Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is THEORY-1108's condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.
+What the paper shows, and what it does not, is [THEORY-1108](THEORY-1108.md), Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is [THEORY-1108](THEORY-1108.md)'s condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.

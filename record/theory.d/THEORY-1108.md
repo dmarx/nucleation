@@ -133,4 +133,4 @@ from genomes expected. It did not.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Imachi and colleagues' cultivation shows and what they infer from it, and NOTE-1238 read the paper in full. Whether the Asgard ancestor depended on metabolic partners is THEORY-tmp5wtkk's question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Imachi and colleagues' cultivation shows and what they infer from it, and [NOTE-1238](../notes.d/NOTE-1238.md) read the paper in full. Whether the Asgard ancestor depended on metabolic partners is [THEORY-tmp5wtkk](THEORY-tmp5wtkk.md)'s question, Proposed, which keeps this entry's old promote_when.

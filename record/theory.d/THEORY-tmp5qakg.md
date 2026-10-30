@@ -21,11 +21,11 @@ source:
 extends:
 - THEORY-930
 summary: >-
-  Czarnecki et al.'s hypothesis (LIT-1504, read in NOTE-1146), filed
-  beside THEORY-930 when the status review of 2026-10-30 narrowed and
-  promoted that entry under ADR-065 (ADR-047 kind 1). The paper's body
+  Czarnecki et al.'s hypothesis ([LIT-1504](../literature.d/LIT-1504.md), read in [NOTE-1146](../notes.d/NOTE-1146.md)), filed
+  beside [THEORY-930](THEORY-930.md) when the status review of 2026-10-30 narrowed and
+  promoted that entry under [ADR-065](../decisions.d/ADR-065.md) ([ADR-047](../decisions.d/ADR-047.md) kind 1). The paper's body
   says it does not prove that real games have this geometry; its evidence
-  is THEORY-930's sampled profiles, whose shape the sampler and the
+  is [THEORY-930](THEORY-930.md)'s sampled profiles, whose shape the sampler and the
   maximum-entropy equilibrium help set.
 ---
 
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Czarnecki, Gidel, Tracey, Tuyls, Omidshafiei, Balduzzi & Jaderberg (2020),
-LIT-1504, read in full in NOTE-1146 from arXiv:2004.09468v2.
+[LIT-1504](../literature.d/LIT-1504.md), read in full in [NOTE-1146](../notes.d/NOTE-1146.md) from arXiv:2004.09468v2.
 
 ## The thesis
 
@@ -46,7 +46,7 @@ prove that real world games follow the Games of Skill geometry" (p. 6).
 
 ## What the evidence is
 
-THEORY-930: about a thousand sampled search agents in each of eight small
+[THEORY-930](THEORY-930.md): about a thousand sampled search agents in each of eight small
 OpenSpiel board games, and the AlphaStar league, with clusters taken from
 maximum-entropy Nash and a skew-normal curve fitted by eye. The authors say
 their sampler "does not guarantee uniform sampling of strategies" (p. 9),
@@ -56,7 +56,7 @@ that the AlphaStar profile reflects "AlphaStar induced game geometry"
 
 ## What this does not say
 
-- **Anything from the theorems.** Theorem 1 (THEORY-926) shows long cycles
+- **Anything from the theorems.** Theorem 1 ([THEORY-926](THEORY-926.md)) shows long cycles
   among strategies that can signal, not narrowing at the top.
 - **That every game has the shape.** Blotto, Kuhn poker and the noisy Elo
   games do not.

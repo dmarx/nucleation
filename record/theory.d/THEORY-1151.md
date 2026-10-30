@@ -91,6 +91,6 @@ earlier COMET metrics (p. 988); xCOMET could have kept them.
 
 ## Note of 2026-10-30: promoted
 
-Promoted as a report of what the paper measured (ADR-065). Whether its
+Promoted as a report of what the paper measured ([ADR-065](../decisions.d/ADR-065.md)). Whether its
 robustness holds on real errors in pairs and kinds its training did not
-synthesise is QUESTION-tmprfta8.
+synthesise is [QUESTION-tmprfta8](../questions.d/QUESTION-tmprfta8.md).

@@ -28,9 +28,9 @@ promote_when: >-
   data cannot settle it, since they share the task, the variables and the
   animals.
 summary: >-
-  The wide form of Posani et al. (2026), LIT-708, kept here when the status
-  review of 2026-10-30 narrowed THEORY-124 to what their analysis of the IBL
-  Brainwide Map measured and promoted it (ADR-065; ADR-047, kind 1). The
+  The wide form of Posani et al. (2026), [LIT-708](../literature.d/LIT-708.md), kept here when the status
+  review of 2026-10-30 narrowed [THEORY-124](THEORY-124.md) to what their analysis of the IBL
+  Brainwide Map measured and promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). The
   paper asserts that cortical representations are rarely categorical and
   highly separable. One task, overtrained mice, eight variables and a
   lenient separability criterion.
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-LIT-708, read in full in NOTE-549. What the source measured is THEORY-124, which this entry extends.
+[LIT-708](../literature.d/LIT-708.md), read in full in [NOTE-549](../notes.d/NOTE-549.md). What the source measured is [THEORY-124](THEORY-124.md), which this entry extends.
 
 ## The claim
 
@@ -51,4 +51,4 @@ read this as cortex prioritizing diversity over categorical structure.
 
 ## What would settle it
 
-The promote_when, carried word for word from THEORY-124 when that entry was narrowed. More readings of the same source cannot settle it.
+The promote_when, carried word for word from [THEORY-124](THEORY-124.md) when that entry was narrowed. More readings of the same source cannot settle it.

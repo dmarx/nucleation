@@ -23,9 +23,9 @@ extends:
 - THEORY-1159
 summary: >-
   Zeng et al.'s (2024) attribution of HOT's gains to joint alignment
-  (NOTE-1334's C6, asserted without an ablation), kept here when the
-  twenty-second status review narrowed and promoted THEORY-1159 (ADR-065;
-  ADR-047 kind 1). No ablation in the record holds the RWR cost and the
+  ([NOTE-1334](../notes.d/NOTE-1334.md)'s C6, asserted without an ablation), kept here when the
+  twenty-second status review narrowed and promoted [THEORY-1159](THEORY-1159.md) ([ADR-065](../decisions.d/ADR-065.md);
+  [ADR-047](../decisions.d/ADR-047.md) kind 1). No ablation in the record holds the RWR cost and the
   clustering fixed, and every benchmark's truth is consistent by
   construction.
 ---
@@ -36,9 +36,9 @@ summary: >-
 
 ## Source
 
-Zeng et al. (2024), LIT-1814, §5 (pp. 5–7) of arXiv 2310.04470v2; read in
-full in NOTE-1334. What the experiments showed is THEORY-1159, which this
-entry extends; the identity behind joint fitting is THEORY-1132.
+Zeng et al. (2024), [LIT-1814](../literature.d/LIT-1814.md), §5 (pp. 5–7) of arXiv 2310.04470v2; read in
+full in [NOTE-1334](../notes.d/NOTE-1334.md). What the experiments showed is [THEORY-1159](THEORY-1159.md), which this
+entry extends; the identity behind joint fitting is [THEORY-1132](THEORY-1132.md).
 
 ## The thesis
 
@@ -55,4 +55,4 @@ ablation holds the first two fixed while changing the third, and on
 attributed DBLP the plain version does nearly as well, which the paper
 credits to the cost (p. 13). Every benchmark's truth is a consistent set of
 triples, so the comparison cannot show whether consistency costs true
-local distinctions where the truth is not transitive (QUESTION-319).
+local distinctions where the truth is not transitive ([QUESTION-319](../questions.d/QUESTION-319.md)).

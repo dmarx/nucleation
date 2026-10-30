@@ -7,9 +7,9 @@ tags:
 date: '2026-10-30'
 line: pragmatic-transport
 summary: >-
-  The promotion condition formerly on THEORY-1151, moved here when the
+  The promotion condition formerly on [THEORY-1151](../theory.d/THEORY-1151.md), moved here when the
   twenty-second status review promoted that reading of xCOMET's §7
-  (ADR-065). The paper measured detection on synthetic perturbations and
+  ([ADR-065](../decisions.d/ADR-065.md)). The paper measured detection on synthetic perturbations and
   one benchmark; whether its robustness generalises past what its training
   synthesised is this question.
 ---
@@ -18,7 +18,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1151 holds what Guerreiro et al. (2024), LIT-1816, measured: xCOMET
+[THEORY-1151](../theory.d/THEORY-1151.md) holds what Guerreiro et al. (2024), [LIT-1816](../literature.d/LIT-1816.md), measured: xCOMET
 flags most injected localized errors and ranks fully detached
 hallucinations low. But its training data included synthetic detached and
 oscillatory hallucinations and DEMETR's diagnostic perturbations, the

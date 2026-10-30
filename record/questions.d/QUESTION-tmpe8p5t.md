@@ -9,8 +9,8 @@ tags:
 date: '2026-10-30'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-818, moved here when the
-  status review of 2026-10-30 promoted it under ADR-065. Chorin and Lu
+  The promotion condition formerly on [THEORY-818](../theory.d/THEORY-818.md), moved here when the
+  status review of 2026-10-30 promoted it under [ADR-065](../decisions.d/ADR-065.md). Chorin and Lu
   chose the closure's orders by trial and error against statistics they
   then report; whether the result survives a selection rule fixed in
   advance and an independent rerun is this question.
@@ -20,7 +20,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-818 reports what Chorin and Lu (LIT-1304, read in NOTE-1028)
+[THEORY-818](../theory.d/THEORY-818.md) reports what Chorin and Lu ([LIT-1304](../literature.d/LIT-1304.md), read in [NOTE-1028](../notes.d/NOTE-1028.md))
 measured: on Lorenz 96 with no gap of time scales, a NARMAX closure with
 one or two lags reproduces x₁'s statistics and doubles the forecast lead
 time at δ = 0.05. Its model structure was chosen "by trial and error"

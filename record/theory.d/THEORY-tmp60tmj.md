@@ -28,10 +28,10 @@ bears_on:
 - QUESTION-277
 summary: >-
   The wider thesis Tobiasson, Luo, Wolf & Koonin assert, filed beside
-  THEORY-1101 by the twenty-second status review (ADR-065 §3; ADR-047 kind
-  1). THEORY-1101, Active, holds what Tobiasson and colleagues find and
+  [THEORY-1101](THEORY-1101.md) by the twenty-second status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind
+  1). [THEORY-1101](THEORY-1101.md), Active, holds what Tobiasson and colleagues find and
   conclude; whether the thesis holds is this entry's question, and its
-  promote_when is THEORY-1101's old condition, word for word.
+  promote_when is [THEORY-1101](THEORY-1101.md)'s old condition, word for word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
@@ -39,8 +39,8 @@ summary: >-
 
 ## Source
 
-Tobiasson, Luo, Wolf & Koonin (2026), LIT-1558, read in full in NOTE-1242. The authors conclude that "even normalized stem lengths are determined primarily by factors other than the gene acquisition time", and suggest post-acquisition adaptation as one such factor.
+Tobiasson, Luo, Wolf & Koonin (2026), [LIT-1558](../literature.d/LIT-1558.md), read in full in [NOTE-1242](../notes.d/NOTE-1242.md). The authors conclude that "even normalized stem lengths are determined primarily by factors other than the gene acquisition time", and suggest post-acquisition adaptation as one such factor.
 
 ## Where the evidence stands
 
-What the paper shows, and what it does not, is THEORY-1101, Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is THEORY-1101's condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.
+What the paper shows, and what it does not, is [THEORY-1101](THEORY-1101.md), Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is [THEORY-1101](THEORY-1101.md)'s condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.

@@ -26,11 +26,11 @@ extends:
 bears_on:
 - QUESTION-277
 summary: >-
-  The wider thesis Pittis & Gabaldón assert, filed beside THEORY-1102 by
-  the twenty-second status review (ADR-065 §3; ADR-047 kind 1).
-  THEORY-1102, Active, holds what Pittis and Gabaldón's analysis finds and
+  The wider thesis Pittis & Gabaldón assert, filed beside [THEORY-1102](THEORY-1102.md) by
+  the twenty-second status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1).
+  [THEORY-1102](THEORY-1102.md), Active, holds what Pittis and Gabaldón's analysis finds and
   how the authors read it; whether the thesis holds is this entry's question,
-  and its promote_when is THEORY-1102's old condition, word for word.
+  and its promote_when is [THEORY-1102](THEORY-1102.md)'s old condition, word for word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
@@ -38,8 +38,8 @@ summary: >-
 
 ## Source
 
-Pittis & Gabaldón (2016), LIT-1595, read in full in NOTE-1240. The paper's title states it: "Late acquisition of mitochondria by a host with chimaeric prokaryotic ancestry".
+Pittis & Gabaldón (2016), [LIT-1595](../literature.d/LIT-1595.md), read in full in [NOTE-1240](../notes.d/NOTE-1240.md). The paper's title states it: "Late acquisition of mitochondria by a host with chimaeric prokaryotic ancestry".
 
 ## Where the evidence stands
 
-What the paper shows, and what it does not, is THEORY-1102, Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is THEORY-1102's condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.
+What the paper shows, and what it does not, is [THEORY-1102](THEORY-1102.md), Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is [THEORY-1102](THEORY-1102.md)'s condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.

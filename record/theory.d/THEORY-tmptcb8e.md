@@ -32,17 +32,17 @@ promote_when: >-
   balancing losses produce competent specialists, rather than equally used
   ones, is a separate question.
 summary: >-
-  The authors' explanation in Shazeer et al. (2017), LIT-1507, p. 5, stated
+  The authors' explanation in Shazeer et al. (2017), [LIT-1507](../literature.d/LIT-1507.md), p. 5, stated
   and not tested. Kept here when the twenty-second status review promoted
-  THEORY-927 as the report (ADR-065; ADR-047, kind 1).
+  [THEORY-927](THEORY-927.md) as the report ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1).
 ---
 
 # THEORY-tmptcb8e: In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate's concentration on a few experts arises by self-reinforcement: favoured experts are trained more rapidly and so are selected still more
 
 ## Source
 
-Shazeer et al. (2017), LIT-1507, section 4 (p. 5); read in full in NOTE-1145
-from arXiv v1. What the paper observed and measured is THEORY-927, which
+Shazeer et al. (2017), [LIT-1507](../literature.d/LIT-1507.md), section 4 (p. 5); read in full in [NOTE-1145](../notes.d/NOTE-1145.md)
+from arXiv v1. What the paper observed and measured is [THEORY-927](THEORY-927.md), which
 this entry extends.
 
 ## Why it is Proposed

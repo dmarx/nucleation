@@ -138,4 +138,4 @@ change in the host's transmission. Neither was found.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Campbell and colleagues measured and how they read it, and NOTE-1235 read the paper in full. Whether cicada hosts compensate for Hodgkinia's splitting in general is THEORY-tmppc8wy's question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Campbell and colleagues measured and how they read it, and [NOTE-1235](../notes.d/NOTE-1235.md) read the paper in full. Whether cicada hosts compensate for Hodgkinia's splitting in general is [THEORY-tmppc8wy](THEORY-tmppc8wy.md)'s question, Proposed, which keeps this entry's old promote_when.

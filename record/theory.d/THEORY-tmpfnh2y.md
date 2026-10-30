@@ -24,9 +24,9 @@ promote_when: >-
   to the same two time points; and demonstrations of bistable switches,
   which are a different mechanism.
 summary: >-
-  The wide form of Bhattacharyya et al. (2023), LIT-853, kept here when the
-  status review of 2026-10-30 narrowed THEORY-179 to what the assays
-  measured and promoted it (ADR-065; ADR-047, kind 1). The paper asserts a
+  The wide form of Bhattacharyya et al. (2023), [LIT-853](../literature.d/LIT-853.md), kept here when the
+  status review of 2026-10-30 narrowed [THEORY-179](THEORY-179.md) to what the assays
+  measured and promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). The paper asserts a
   heritable iron memory. Iron was read only through a plasmid promoter
   reporter, inheritance rests on few founders and four sampled generations,
   and the delay model is fitted to two time points.
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-LIT-853, read in full in NOTE-657. What the source measured is THEORY-179, which this entry extends.
+[LIT-853](../literature.d/LIT-853.md), read in full in [NOTE-657](../notes.d/NOTE-657.md). What the source measured is [THEORY-179](THEORY-179.md), which this entry extends.
 
 ## The claim
 
@@ -47,4 +47,4 @@ switch.
 
 ## What would settle it
 
-The promote_when, carried word for word from THEORY-179 when that entry was narrowed. More readings of the same source cannot settle it.
+The promote_when, carried word for word from [THEORY-179](THEORY-179.md) when that entry was narrowed. More readings of the same source cannot settle it.

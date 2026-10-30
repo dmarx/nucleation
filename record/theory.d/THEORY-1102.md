@@ -153,4 +153,4 @@ narrow.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Pittis and Gabaldón's analysis finds and how the authors read it, and NOTE-1240 read the paper in full. Whether the mitochondrion was acquired late by an already chimaeric host is THEORY-tmpcrrbq's question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now CLAIM-tmppxk4w, Proposed.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Pittis and Gabaldón's analysis finds and how the authors read it, and [NOTE-1240](../notes.d/NOTE-1240.md) read the paper in full. Whether the mitochondrion was acquired late by an already chimaeric host is [THEORY-tmpcrrbq](THEORY-tmpcrrbq.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-tmppxk4w](../claims.d/CLAIM-tmppxk4w.md), Proposed.

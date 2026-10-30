@@ -24,9 +24,9 @@ promote_when: >-
   that solves a problem once someone has formalized it does not count, since
   that is the preparation the claim is about.
 summary: >-
-  The thesis Simon (1973), LIT-1634, proposes, kept here when the
-  twenty-second status review promoted THEORY-1084 as a report of the
-  proposal (ADR-065; ADR-047, kind 1). The paper describes the architecture,
+  The thesis Simon (1973), [LIT-1634](../literature.d/LIT-1634.md), proposes, kept here when the
+  twenty-second status review promoted [THEORY-1084](THEORY-1084.md) as a report of the
+  proposal ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). The paper describes the architecture,
   matches it to an architect, to battleship design and to a chess program,
   and argues from the seriality of the solver; nothing is built or tested,
   and Simon states the last part as what his analysis "suggests".
@@ -36,8 +36,8 @@ summary: >-
 
 ## Source
 
-Simon (1973), LIT-1634, §§3–5 (pp. 187–200); read in NOTE-1232. What the
-paper argues is THEORY-1084, which this entry extends.
+Simon (1973), [LIT-1634](../literature.d/LIT-1634.md), §§3–5 (pp. 187–200); read in [NOTE-1232](../notes.d/NOTE-1232.md). What the
+paper argues is [THEORY-1084](THEORY-1084.md), which this entry extends.
 
 ## Why it is Proposed
 

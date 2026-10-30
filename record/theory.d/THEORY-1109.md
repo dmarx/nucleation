@@ -162,4 +162,4 @@ and compartments. In the main they are not.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Santana-Molina and colleagues find and how they read it, and NOTE-1239 read the paper in full. Whether eukaryotes began in a syntrophic partnership is THEORY-tmpcoo9s's question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now CLAIM-tmp1vxtu, Proposed.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Santana-Molina and colleagues find and how they read it, and [NOTE-1239](../notes.d/NOTE-1239.md) read the paper in full. Whether eukaryotes began in a syntrophic partnership is [THEORY-tmpcoo9s](THEORY-tmpcoo9s.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-tmp1vxtu](../claims.d/CLAIM-tmp1vxtu.md), Proposed.

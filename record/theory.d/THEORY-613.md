@@ -93,8 +93,8 @@ MFQ-1 .30.
 
 The title's three national networks rest on a dimension count the accepted
 manuscript gives inconsistently (16 and four samples for 19 nations, three
-named; NOTE-398), and the version of record, which may correct it, is
+named; [NOTE-398](../notes.d/NOTE-398.md)), and the version of record, which may correct it, is
 unread. The title also says "nearly uncorrelated in WEIRD nations" where the
 paper reports only that Equality and Proportionality are more nearly
 orthogonal in WEIRDer nations (mean r = .21), so it would need narrowing to
-a report of the 19 online samples before ADR-065 could promote it.
+a report of the 19 online samples before [ADR-065](../decisions.d/ADR-065.md) could promote it.

@@ -97,4 +97,4 @@ The title states held-out likelihoods that the paper estimated only by the
 harmonic-mean estimator, which can overestimate and have infinite variance,
 with no interval given. A re-estimate with a controlled estimator is the
 missing result. Narrowing to what the paper reports would free nothing, so
-it is not narrowed (ADR-065 §7).
+it is not narrowed ([ADR-065](../decisions.d/ADR-065.md) §7).

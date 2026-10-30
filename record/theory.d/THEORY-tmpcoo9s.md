@@ -28,10 +28,10 @@ bears_on:
 - QUESTION-277
 summary: >-
   The wider thesis Santana-Molina, Williams, Snel & Spang assert, filed
-  beside THEORY-1109 by the twenty-second status review (ADR-065 §3;
-  ADR-047 kind 1). THEORY-1109, Active, holds what Santana-Molina and
+  beside [THEORY-1109](THEORY-1109.md) by the twenty-second status review ([ADR-065](../decisions.d/ADR-065.md) §3;
+  [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1109](THEORY-1109.md), Active, holds what Santana-Molina and
   colleagues find and how they read it; whether the thesis holds is this
-  entry's question, and its promote_when is THEORY-1109's old condition,
+  entry's question, and its promote_when is [THEORY-1109](THEORY-1109.md)'s old condition,
   word for word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
@@ -40,8 +40,8 @@ summary: >-
 
 ## Source
 
-Santana-Molina, Williams, Snel & Spang (2025), LIT-1564, read in full in NOTE-1239. The authors: "our results support the view of syntrophic interactions between host and endosymbiont".
+Santana-Molina, Williams, Snel & Spang (2025), [LIT-1564](../literature.d/LIT-1564.md), read in full in [NOTE-1239](../notes.d/NOTE-1239.md). The authors: "our results support the view of syntrophic interactions between host and endosymbiont".
 
 ## Where the evidence stands
 
-What the paper shows, and what it does not, is THEORY-1109, Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is THEORY-1109's condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.
+What the paper shows, and what it does not, is [THEORY-1109](THEORY-1109.md), Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is [THEORY-1109](THEORY-1109.md)'s condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.

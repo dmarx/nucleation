@@ -8,8 +8,8 @@ tags:
 date: '2026-10-30'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-383, moved here when the
-  status review of 2026-10-30 promoted it under ADR-065. Labrinidis and
+  The promotion condition formerly on [THEORY-383](../theory.d/THEORY-383.md), moved here when the
+  status review of 2026-10-30 promoted it under [ADR-065](../decisions.d/ADR-065.md). Labrinidis and
   Roussopoulos measured one testbed with cheap indexed selections; their
   cost model's Eq. 9 was never evaluated against measurement.
 ---
@@ -18,7 +18,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-383 reports one testbed (LIT-1118, read in NOTE-908): on Apache
+[THEORY-383](../theory.d/THEORY-383.md) reports one testbed ([LIT-1118](../literature.d/LIT-1118.md), read in [NOTE-908](../notes.d/NOTE-908.md)): on Apache
 and Informix with cheap indexed selections, a query result stored in the
 DBMS and refreshed on every update lost to recomputation at five or more
 updates per second, which the authors explain by reading the stored result

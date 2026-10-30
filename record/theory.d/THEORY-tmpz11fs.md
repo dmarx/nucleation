@@ -27,9 +27,9 @@ promote_when: >-
   the flexible ones. More readouts from the lens, or more case studies from
   one model family, cannot settle it.
 summary: >-
-  The wide form of Gurnee, Sofroniew et al. (2026), LIT-1347, kept here when
-  the status review of 2026-10-30 narrowed THEORY-865 to what their
-  experiments measured and promoted it (ADR-065; ADR-047, kind 1). The paper
+  The wide form of Gurnee, Sofroniew et al. (2026), [LIT-1347](../literature.d/LIT-1347.md), kept here when
+  the status review of 2026-10-30 narrowed [THEORY-865](THEORY-865.md) to what their
+  experiments measured and promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). The paper
   asserts that verbalizable representations form a global workspace in
   language models. Its tests are on four models of one family, by their
   makers, with a selectivity split partly defined by the result; no
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-LIT-1347, read in full in NOTE-1069. What the source measured is THEORY-865, which this entry extends.
+[LIT-1347](../literature.d/LIT-1347.md), read in full in [NOTE-1069](../notes.d/NOTE-1069.md). What the source measured is [THEORY-865](THEORY-865.md), which this entry extends.
 
 ## The claim
 
@@ -52,4 +52,4 @@ without them.
 
 ## What would settle it
 
-The promote_when, carried word for word from THEORY-865 when that entry was narrowed. More readings of the same source cannot settle it.
+The promote_when, carried word for word from [THEORY-865](THEORY-865.md) when that entry was narrowed. More readings of the same source cannot settle it.

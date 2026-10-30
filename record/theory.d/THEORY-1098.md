@@ -142,4 +142,4 @@ exilis*, making it the single trigger.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Karnkowska and colleagues' genome analysis finds and infers, and NOTE-1243 read the paper in full. Whether Monocercomonoides lost its mitochondrion in this way is THEORY-tmpvjwpy's question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Karnkowska and colleagues' genome analysis finds and infers, and [NOTE-1243](../notes.d/NOTE-1243.md) read the paper in full. Whether Monocercomonoides lost its mitochondrion in this way is [THEORY-tmpvjwpy](THEORY-tmpvjwpy.md)'s question, Proposed, which keeps this entry's old promote_when.

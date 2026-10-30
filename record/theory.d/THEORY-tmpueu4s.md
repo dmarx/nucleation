@@ -23,9 +23,9 @@ source:
 extends:
 - THEORY-329
 summary: >-
-  Chuai and Zhao's (2020) thesis, LIT-379, kept here when the
-  twenty-second status review narrowed THEORY-329 to the association their
-  corpus measured and promoted it (ADR-065; ADR-047 kind 1). The design is
+  Chuai and Zhao's (2020) thesis, [LIT-379](../literature.d/LIT-379.md), kept here when the
+  twenty-second status review narrowed [THEORY-329](THEORY-329.md) to the association their
+  corpus measured and promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). The design is
   observational, and the fake set is selected for having spread.
 ---
 
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Chuai & Zhao (2020), LIT-379 (arXiv 2004.10399v3), read in full in
-NOTE-852. What their corpus showed is THEORY-329, which this entry
+Chuai & Zhao (2020), [LIT-379](../literature.d/LIT-379.md) (arXiv 2004.10399v3), read in full in
+[NOTE-852](../notes.d/NOTE-852.md). What their corpus showed is [THEORY-329](THEORY-329.md), which this entry
 extends.
 
 ## The thesis

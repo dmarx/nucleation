@@ -100,7 +100,7 @@ disagreed while each tracked humans.
 
 ## Note of 2026-10-30: narrowed and promoted
 
-Promoted as a report of what the paper measured (ADR-065). The record's
+Promoted as a report of what the paper measured ([ADR-065](../decisions.d/ADR-065.md)). The record's
 reading, that the spans are more coherent with the score than either is
-with expert judgement, is CLAIM-tmp2um57, Proposed, grounded in this
+with expert judgement, is [CLAIM-tmp2um57](../claims.d/CLAIM-tmp2um57.md), Proposed, grounded in this
 entry; its body states the conversion of τ to a Pearson scale.

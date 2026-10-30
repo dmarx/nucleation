@@ -93,10 +93,10 @@ uncorrected pooled d cannot answer it.
 
 ## Note of 2026-10-30: what holds it back
 
-Its title is the wide form THEORY-918 was narrowed from; narrowed to the
-meta-analysis's own finding it would be THEORY-918, already Active. What it
+Its title is the wide form [THEORY-918](THEORY-918.md) was narrowed from; narrowed to the
+meta-analysis's own finding it would be [THEORY-918](THEORY-918.md), already Active. What it
 adds, that the effect is reliable in each of the four outcome domains, rests
 on per-domain estimates the review did not correct for publication bias, and
 within behaviour vaccination and voting did not differ from zero. It waits
 on a bias-corrected estimate per domain, or the updated or registered set
-its promote_when names (QUESTION-310).
+its promote_when names ([QUESTION-310](../questions.d/QUESTION-310.md)).

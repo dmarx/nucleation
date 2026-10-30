@@ -17,9 +17,9 @@ grounds:
 - THEORY-1134
 summary: >-
   The record's reading of Guerreiro et al.'s Table 5, split from
-  THEORY-1134 when the twenty-second status review narrowed it to the
-  measurements and promoted it (ADR-065; ADR-047 kind 2). An instance of
-  CLAIM-496's distinction between coherence and fidelity. The statistics
+  [THEORY-1134](../theory.d/THEORY-1134.md) when the twenty-second status review narrowed it to the
+  measurements and promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 2). An instance of
+  [CLAIM-496](CLAIM-496.md)'s distinction between coherence and fidelity. The statistics
   compared differ (Pearson between heads; Kendall and F1 against humans),
   and converted to one scale the gap is smaller than it looks.
 ---
@@ -28,14 +28,14 @@ summary: >-
 
 ## The claim
 
-xCOMET (LIT-1816, read in NOTE-1341) gives a sentence score and error spans
+xCOMET ([LIT-1816](../literature.d/LIT-1816.md), read in [NOTE-1341](../notes.d/NOTE-1341.md)) gives a sentence score and error spans
 from one shared encoder. The MQM score computed from its own spans
 correlates with its regression scores at Pearson 0.73 to 0.82 per pair,
 and at 0.90 to 0.92 with its final score, which includes the span score
-with weight 2/9 by construction (THEORY-1134). Against expert MQM its
+with weight 2/9 by construction ([THEORY-1134](../theory.d/THEORY-1134.md)). Against expert MQM its
 segment-level Kendall τ is 0.39 to 0.47 and its span F1 0.24 to 0.32. The
 paper presents the heads' agreement as support for the spans as an
-explanation of the score. The record reads it as CLAIM-496 reads agreement
+explanation of the score. The record reads it as [CLAIM-496](CLAIM-496.md) reads agreement
 between routes: two outputs of one encoder agreeing is coherence, and its
 size says nothing about how often either is right.
 
@@ -64,6 +64,6 @@ humans alone do not settle it, since the claim is about the gap.
 ## What it does not say
 
 - **That the spans are wrong or useless.** They match human spans better
-  than GPT-4 prompting did (THEORY-1134).
+  than GPT-4 prompting did ([THEORY-1134](../theory.d/THEORY-1134.md)).
 - **That the shared encoder is the mechanism.** That is the authors'
   hypothesis; no experiment isolates it.

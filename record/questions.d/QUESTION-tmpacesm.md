@@ -8,8 +8,8 @@ tags:
 date: '2026-10-30'
 line: pragmatic-transport
 summary: >-
-  The promotion condition formerly on THEORY-1153, moved here when the
-  status review of 2026-10-30 promoted it under ADR-065. PETra's counts
+  The promotion condition formerly on [THEORY-1153](../theory.d/THEORY-1153.md), moved here when the
+  status review of 2026-10-30 promoted it under [ADR-065](../decisions.d/ADR-065.md). PETra's counts
   are within a filtered, mostly classifier-found pool labelled by one
   annotator; this asks for the base rate.
 ---
@@ -18,7 +18,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1153 reports the PETra corpus (LIT-1798, read in NOTE-1344): among
+[THEORY-1153](../theory.d/THEORY-1153.md) reports the PETra corpus ([LIT-1798](../literature.d/LIT-1798.md), read in [NOTE-1344](../notes.d/NOTE-1344.md)): among
 additions a named-entity and null-alignment filter and a classifier
 trained on its finds turned up, system transfers, chiefly unit
 conversions, and entity changes are most of the labels. The filter

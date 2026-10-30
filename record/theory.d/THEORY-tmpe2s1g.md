@@ -21,9 +21,9 @@ promote_when: >-
   the full-scale invasion of Ukraine changed the view. More quotations from
   the authors already cited cannot settle it.
 summary: >-
-  The wide form of Clark (2020), LIT-023, kept here when the status review
-  of 2026-10-30 narrowed THEORY-488 to what Clark's synthesis reports and
-  promoted it (ADR-065; ADR-047, kind 1). Clark asserts that the definition
+  The wide form of Clark (2020), [LIT-023](../literature.d/LIT-023.md), kept here when the status review
+  of 2026-10-30 narrowed [THEORY-488](THEORY-488.md) to what Clark's synthesis reports and
+  promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). Clark asserts that the definition
   is the Russian military's own and institutional. His sources were chosen
   by no stated rule, a handful of authors carry much of the weight, and the
   report predates the 2022 invasion.
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-LIT-023, read in full in NOTE-012. What the source measured is THEORY-488, which this entry extends.
+[LIT-023](../literature.d/LIT-023.md), read in full in [NOTE-012](../notes.d/NOTE-012.md). What the source measured is [THEORY-488](THEORY-488.md), which this entry extends.
 
 ## The claim
 
@@ -44,4 +44,4 @@ information campaign.
 
 ## What would settle it
 
-The promote_when, carried word for word from THEORY-488 when that entry was narrowed. More readings of the same source cannot settle it.
+The promote_when, carried word for word from [THEORY-488](THEORY-488.md) when that entry was narrowed. More readings of the same source cannot settle it.

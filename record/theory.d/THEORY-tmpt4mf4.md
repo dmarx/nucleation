@@ -19,20 +19,20 @@ promote_when: >-
   across the episodes showing them constant. A further fit of the same model
   to the same episodes does not settle it.
 summary: >-
-  The finding of Szeidl and Szucs (2021), LIT-1315, without the condition on
+  The finding of Szeidl and Szucs (2021), [LIT-1315](../literature.d/LIT-1315.md), without the condition on
   their identifying assumptions, which the authors call "arguably strong"
   for print and weaker for online. Kept here when the twenty-second status
-  review promoted THEORY-852 as the conditional estimate (ADR-065 §3 and §7;
-  ADR-047, kind 1).
+  review promoted [THEORY-852](THEORY-852.md) as the conditional estimate ([ADR-065](../decisions.d/ADR-065.md) §3 and §7;
+  [ADR-047](../decisions.d/ADR-047.md), kind 1).
 ---
 
 # THEORY-tmpt4mf4: Both owner ideology and favor exchange drove the Hungarian portal Origo's reduced coverage of corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new owner's ideology alone by 63% after 2016, and the two together by 74%, so they are substitutes; and a ban on targeted government advertising would have raised it by 41–79%
 
 ## Source
 
-Szeidl and Szucs (2021), LIT-1315, Section 4.4, Tables IV and V; read in
-NOTE-1039. The estimates conditional on the model and its identifying
-assumptions are THEORY-852, which this entry extends.
+Szeidl and Szucs (2021), [LIT-1315](../literature.d/LIT-1315.md), Section 4.4, Tables IV and V; read in
+[NOTE-1039](../notes.d/NOTE-1039.md). The estimates conditional on the model and its identifying
+assumptions are [THEORY-852](THEORY-852.md), which this entry extends.
 
 ## Why it is Proposed
 

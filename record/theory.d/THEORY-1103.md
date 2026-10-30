@@ -124,4 +124,4 @@ sequence shows.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Shigenobu and colleagues' genome shows and what they infer from it, and NOTE-1236 read the paper in full. Whether Buchnera's metabolism interlocks with its host's as inferred is THEORY-tmptlzgt's question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Shigenobu and colleagues' genome shows and what they infer from it, and [NOTE-1236](../notes.d/NOTE-1236.md) read the paper in full. Whether Buchnera's metabolism interlocks with its host's as inferred is [THEORY-tmptlzgt](THEORY-tmptlzgt.md)'s question, Proposed, which keeps this entry's old promote_when.
