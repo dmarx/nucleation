@@ -47,7 +47,11 @@ class Record:
         self.docs = docs
         self.bodies = bodies or {}
         self.needed_by: dict[str, set[str]] = {}
+        # objections read from the objector's side too: not every `objects_to` has its converse
+        self.objectors: dict[str, set[str]] = {}
         for code, fm in docs.items():
+            for target in as_list(fm.get("objects_to")):
+                self.objectors.setdefault(target, set()).add(code)
             for field in NEEDS.get(scheme(code), []):
                 for target in as_list(fm.get(field)):
                     if target in docs:
@@ -96,8 +100,28 @@ class Record:
         An objection answered by narrowing its target no longer stands against it (ADR-057).
         """
         fm = self.docs[code]
-        return [t for f in ("objected_by", "countered_by") for t in as_list(fm.get(f))
-                if self.status(t) in LIVE and not self.written(t, code)]
+        named = [t for f in ("objected_by", "countered_by") for t in as_list(fm.get(f))]
+        named += sorted(self.objectors.get(code, set()) - set(named))
+        return [t for t in dict.fromkeys(named) if self.status(t) in LIVE and not self.written(t, code)]
+
+    def sound(self, arg: str) -> bool:
+        """An ARG whose inference is Active and every premise held."""
+        return self.status(arg) == "Active" and all(
+            scheme(t) == "LIT" or self.status(t) == "Active" for t in self.premises(arg))
+
+    def open_premises(self, code: str) -> set[str]:
+        """What the record does not hold that the entry needs.
+
+        A claim with no premise of its own needs one of the ARGs that conclude it to be sound;
+        if none is, it waits on what those ARGs wait on.
+        """
+        own = {t for t in self.premises(code) if scheme(t) != "LIT" and self.status(t) != "Active"}
+        if self.premises(code):
+            return own
+        args = [a for a, fm in self.docs.items() if scheme(a) == "ARG" and code in as_list(fm.get("concludes"))]
+        if not args or any(self.sound(a) for a in args):
+            return own
+        return {t for a in args for t in self.premises(a) + [a] if scheme(t) != "LIT" and self.status(t) != "Active"}
 
     def written(self, objection: str, target: str) -> bool:
         """Whether the target has been revised for the objection, or says it was filed with it.
@@ -137,8 +161,7 @@ class Record:
             if reach:
                 rows.append({"code": code, "reach": len(reach), "direct": len(self.needed_by[code]),
                              "warrant": self.docs[code].get("warrant"),
-                             "open_premises": [t for t in self.premises(code)
-                                               if scheme(t) != "LIT" and self.status(t) != "Active"],
+                             "open_premises": sorted(self.open_premises(code)),
                              "live_objections": self.live_objections(code)})
         return sorted(rows, key=lambda r: (-r["reach"], -r["direct"], r["code"]))
 
@@ -168,8 +191,7 @@ class Record:
         An ARG with a held undercutter is left out: the undercutter already says what it does not carry.
         """
         return [(a, c, self.status(c))
-                for a, fm in sorted(self.docs.items()) if scheme(a) == "ARG" and self.status(a) == "Active"
-                and all(scheme(t) == "LIT" or self.status(t) == "Active" for t in self.premises(a))
+                for a, fm in sorted(self.docs.items()) if scheme(a) == "ARG" and self.sound(a)
                 and not any(self.status(u) == "Active" for u in as_list(fm.get("undercut_by")))
                 for c in as_list(fm.get("concludes")) if c in self.docs and self.status(c) != "Active"]
 
@@ -238,7 +260,7 @@ class Record:
         for c in sorted(self.docs):
             if scheme(c) != "CLAIM" or self.status(c) != "Proposed" or self.live_objections(c):
                 continue
-            open_ = sorted({t for t in self.premises(c) if scheme(t) != "LIT" and self.status(t) != "Active"})
+            open_ = sorted(self.open_premises(c))
             if len(open_) == 1:
                 held_back.setdefault(open_[0], []).append(c)
         return sorted(held_back.items(), key=lambda kv: (-len(kv[1]), kv[0]))
@@ -275,8 +297,7 @@ class Record:
     def unblocked(self) -> list[str]:
         """Proposed CLAIMs whose premises are all Active and that no live objection stands against."""
         return [c for c in sorted(self.docs) if scheme(c) == "CLAIM" and self.status(c) == "Proposed"
-                and all(scheme(t) == "LIT" or self.status(t) == "Active" for t in self.premises(c))
-                and not self.live_objections(c)]
+                and not self.open_premises(c) and not self.live_objections(c)]
 
 
 def short(r: Record, code: str, n: int = 90) -> str:
