@@ -33,9 +33,9 @@ promote_when: >-
 bears_on:
 - QUESTION-317
 summary: >-
-  The wide form THEORY-112 held before the eleventh status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-112, Active, is its
+  The wide form [THEORY-112](THEORY-112.md) held before the eleventh status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-112](THEORY-112.md), Active, is its
   evidence. The old title's last words, that the barrier left after
   alignment rises with depth, were the record's composition, not a
   source's, and are a Proposed claim of their own.
@@ -46,26 +46,26 @@ summary: >-
 
 ## Source
 
-- Entezari, Sedghi, Saukh & Neyshabur (2022), LIT-652, read in NOTE-537.
-- Ainsworth, Hayase & Srinivasa (2023), Git Re-Basin, LIT-661, read in
-  NOTE-532.
-- Ferbach, Goujaud, Gidel & Dieuleveut (2024), LIT-680, read in NOTE-543.
-- Theus, Cabodi, Anagnostidis, Orvieto, Singh & Boeva (2025), LIT-664,
-  read in NOTE-540.
-- Bo Zhao, Dehmamy, Walters & Yu (2025), LIT-655, read in NOTE-528.
+- Entezari, Sedghi, Saukh & Neyshabur (2022), [LIT-652](../literature.d/LIT-652.md), read in [NOTE-537](../notes.d/NOTE-537.md).
+- Ainsworth, Hayase & Srinivasa (2023), Git Re-Basin, [LIT-661](../literature.d/LIT-661.md), read in
+  [NOTE-532](../notes.d/NOTE-532.md).
+- Ferbach, Goujaud, Gidel & Dieuleveut (2024), [LIT-680](../literature.d/LIT-680.md), read in [NOTE-543](../notes.d/NOTE-543.md).
+- Theus, Cabodi, Anagnostidis, Orvieto, Singh & Boeva (2025), [LIT-664](../literature.d/LIT-664.md),
+  read in [NOTE-540](../notes.d/NOTE-540.md).
+- Bo Zhao, Dehmamy, Walters & Yu (2025), [LIT-655](../literature.d/LIT-655.md), read in [NOTE-528](../notes.d/NOTE-528.md).
 
 What alignment removed in each network these sources measured is
-THEORY-112, which this entry extends.
+[THEORY-112](THEORY-112.md), which this entry extends.
 
 ## The claim
 
 Entezari et al. conjecture that for wide enough networks most SGD solutions
 can each be permuted so that the straight line between any two has about
 zero barrier: one basin, seen through different labellings of the hidden
-units (Conjecture 1; NOTE-537, C1). Git Re-Basin holds that wide enough
+units (Conjecture 1; [NOTE-537](../notes.d/NOTE-537.md), C1). Git Re-Basin holds that wide enough
 networks trained independently can be permuted into zero-barrier
 connectivity, and that permutation alone does not connect thin ones
-(NOTE-532, C1–C2). Ferbach et al. prove the conjecture for wide networks
+([NOTE-532](../notes.d/NOTE-532.md), C1–C2). Ferbach et al. prove the conjecture for wide networks
 with independent neurons, with a width requirement that is a bound on
 width. Bo Zhao et al. place permutations inside the architecture's full
 symmetry group, and Theus et al. carry the group to transformers: feed-
@@ -80,7 +80,7 @@ transformers whose alignment was learned against the midpoint loss.
 
 ## What would settle it
 
-The promote_when, which is QUESTION-317: standard-width models on ImageNet
+The promote_when, which is [QUESTION-317](../questions.d/QUESTION-317.md): standard-width models on ImageNet
 or a language corpus brought to near-zero held-out barrier by a data-free
 alignment over the full group, or the residual barrier shown to be a
 difference in what the endpoints compute. Another permutation-finding

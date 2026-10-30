@@ -24,9 +24,9 @@ promote_when: >-
 bears_on:
 - QUESTION-313
 summary: >-
-  The wide form THEORY-923 held before the tenth status review narrowed it,
-  kept as a Proposed reading by the ADR-047 kind-1 sweep of 2026-10-30: the
-  source asserts it, and THEORY-923, Active, is its evidence.
+  The wide form [THEORY-923](THEORY-923.md) held before the tenth status review narrowed it,
+  kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of 2026-10-30: the
+  source asserts it, and [THEORY-923](THEORY-923.md), Active, is its evidence.
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
@@ -35,8 +35,8 @@ summary: >-
 ## Source
 
 Friston, FitzGerald, Rigoli, Schwartenbeck, O'Doherty & Pezzulo (2016),
-LIT-1476, read in full in NOTE-1138. What its one simulated T-maze task,
-with hand-set parameters and run once per condition, showed is THEORY-923,
+[LIT-1476](../literature.d/LIT-1476.md), read in full in [NOTE-1138](../notes.d/NOTE-1138.md). What its one simulated T-maze task,
+with hand-set parameters and run once per condition, showed is [THEORY-923](THEORY-923.md),
 which this entry extends.
 
 ## The claim
@@ -46,7 +46,7 @@ task. In active inference a habit is one more policy, a state-to-state
 mapping whose transitions and prior grow by counting what the agent does.
 The paper asserts that such a habit forms from the agent's observation of
 its own goal-directed behaviour, and that once acquired it persists after
-devaluation, while before acquisition behaviour switches at once (NOTE-1138,
+devaluation, while before acquisition behaviour switches at once ([NOTE-1138](../notes.d/NOTE-1138.md),
 C1–C2). It goes further and says that, to the extent one accepts the
 variational formulation, model-free learning cannot be learned apart from
 model-based behaviour (C7). The authors also concede that at the level of
@@ -54,7 +54,7 @@ behavioural predictions the scheme probably offers nothing new (p. 876).
 
 ## What would settle it
 
-The promote_when, which is QUESTION-313: choices of animals or people
+The promote_when, which is [QUESTION-313](../questions.d/QUESTION-313.md): choices of animals or people
 fitted by this scheme, with the counts estimated from their own history,
 predicting when behaviour becomes insensitive to devaluation and when it
 still switches at once. A simulation in another task cannot settle it.

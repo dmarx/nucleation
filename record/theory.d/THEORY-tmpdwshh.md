@@ -27,9 +27,9 @@ extends:
 bears_on:
 - QUESTION-330
 summary: >-
-  The wide form THEORY-907 held before the thirteenth status review
-  narrowed it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-907, Active, is its
+  The wide form [THEORY-907](THEORY-907.md) held before the thirteenth status review
+  narrowed it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-907](THEORY-907.md), Active, is its
   evidence.
 ---
 
@@ -37,10 +37,10 @@ summary: >-
 
 ## Source
 
-Chou, Wilson & Smith (preprint June 2024; NBR 2024), LIT-1483, read in
-full from the PsyArXiv preprint in NOTE-1127. The primary studies were not
+Chou, Wilson & Smith (preprint June 2024; NBR 2024), [LIT-1483](../literature.d/LIT-1483.md), read in
+full from the PsyArXiv preprint in [NOTE-1127](../notes.d/NOTE-1127.md). The primary studies were not
 read. What the review reports of about six foraging studies and of Trier
-et al. (2023) is THEORY-907, which this entry extends.
+et al. (2023) is [THEORY-907](THEORY-907.md), which this entry extends.
 
 ## The claim
 
@@ -50,7 +50,7 @@ expectations" (p. 28). Its studies agree in direction: acute and chronic
 stress kept foragers in depleting patches too long, generalized anxiety
 went with less exploration when leaving cost effort and with less
 adjustment to volatility, and anxious people in human open-field and plus-
-maze studies kept to the walls and the closed arms. NOTE-1127 records this
+maze studies kept to the walls and the closed arms. [NOTE-1127](../notes.d/NOTE-1127.md) records this
 as claim C3, moderate.
 
 In a foraging task with a predator, people higher in trait somatic anxiety
@@ -64,8 +64,8 @@ sub-clinical studies that treat stress and anxiety together.
 
 ## What would settle it
 
-The promote_when, carried from THEORY-907 unchanged: a replicated study,
+The promote_when, carried from [THEORY-907](THEORY-907.md) unchanged: a replicated study,
 clinical as well as sub-clinical, that separates anxiety from stress and
 effort cost in foraging, and a replication of the checking result that
 shows, by modelling or manipulation, that the reduction comes from
-aversion to detection. QUESTION-330 asks the same.
+aversion to detection. [QUESTION-330](../questions.d/QUESTION-330.md) asks the same.

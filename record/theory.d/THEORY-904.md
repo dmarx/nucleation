@@ -108,8 +108,8 @@ The old title's evidence clause, "matched in 2024 by large plan effects
 under high motivation (d = .79, k = 8)", was a mis-statement. Table 2's
 d = .79 is the difference between plan effects with strong, activated or
 self-concordant goal intentions and with weak ones, over eight tests
-(LIT-1488, pp. 173, 177), not a plan effect under high motivation; NOTE-1131's
+([LIT-1488](../literature.d/LIT-1488.md), pp. 173, 177), not a plan effect under high motivation; [NOTE-1131](../notes.d/NOTE-1131.md)'s
 note of 2026-10-29 records the same correction. The clause is not kept as a
-proposal (ADR-047, kind 3). The old title's general clause, the gate itself,
+proposal ([ADR-047](../decisions.d/ADR-047.md), kind 3). The old title's general clause, the gate itself,
 which Gollwitzer and Sheeran assert, is kept as the Proposed reading
-THEORY-tmp85kj5.
+[THEORY-tmp85kj5](THEORY-tmp85kj5.md).

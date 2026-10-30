@@ -23,10 +23,10 @@ promote_when: >-
   persistent network activity or short-term plasticity. Further slice
   experiments with the same protocols cannot settle it.
 summary: >-
-  The wide form THEORY-909 held before the tenth status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-909, Active, is its
-  evidence. Gerstner, Lehmann, Liakoni, Corneil & Brea (2018), LIT-1494,
+  The wide form [THEORY-909](THEORY-909.md) held before the tenth status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-909](THEORY-909.md), Active, is its
+  evidence. Gerstner, Lehmann, Liakoni, Corneil & Brea (2018), [LIT-1494](../literature.d/LIT-1494.md),
   read five experimental papers as a decaying eligibility trace whose
   conversion, and direction, a third factor sets, and as support for
   three-factor rules on behavioural time scales; the evidence is mostly
@@ -39,10 +39,10 @@ summary: >-
 
 ## Source
 
-Gerstner, Lehmann, Liakoni, Corneil & Brea (2018), LIT-1494, read in full
-in NOTE-1130: a review of Yagishita et al. (2014), He et al. (2015),
+Gerstner, Lehmann, Liakoni, Corneil & Brea (2018), [LIT-1494](../literature.d/LIT-1494.md), read in full
+in [NOTE-1130](../notes.d/NOTE-1130.md): a review of Yagishita et al. (2014), He et al. (2015),
 Brzosko et al. (2015, 2017) and Bittner et al. (2017). The delay windows
-those papers measured are THEORY-909, which this entry extends.
+those papers measured are [THEORY-909](THEORY-909.md), which this entry extends.
 
 ## The claim
 
@@ -59,7 +59,7 @@ converted by serotonin; in CA1 a plateau potential within about 2 s
 potentiates the input. Windows of seconds are what learning from delayed
 outcomes in behaviour needs.
 
-What THEORY-909 holds is the measured windows, attributed to the
+What [THEORY-909](THEORY-909.md) holds is the measured windows, attributed to the
 reviewers' reading. In cortex the direction of change followed the pairing
 order as well as the modulator, so the two are not separated, and the one
 reversal of a single protocol's sign, by dopamine in CA1, took about a
@@ -70,7 +70,7 @@ mechanisms" (p. 12).
 
 ## What would settle it
 
-The promote_when, which QUESTION-311 also asks: the seconds-scale trace
+The promote_when, which [QUESTION-311](../questions.d/QUESTION-311.md) also asks: the seconds-scale trace
 shown in behaving animals, with interference in the trace's mechanism
 between action and delayed outcome abolishing learning from that outcome
 but not from immediate ones, and independent replication of the time

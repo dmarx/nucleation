@@ -22,10 +22,10 @@ promote_when: >-
   the lab and for in-person delivery. A larger uncorrected pooled d cannot
   answer it.
 summary: >-
-  The wide form THEORY-918 held before the tenth status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-918, Active, is its
-  evidence. Sheeran, Listrom & Gollwitzer (2024), LIT-1488, find a robust
+  The wide form [THEORY-918](THEORY-918.md) held before the tenth status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-918](THEORY-918.md), Active, is its
+  evidence. Sheeran, Listrom & Gollwitzer (2024), [LIT-1488](../literature.d/LIT-1488.md), find a robust
   overall effect after correction for publication bias and report
   benefits in all four outcome domains; only the overall estimate was
   corrected, and within behaviour vaccination and voting did not differ
@@ -37,8 +37,8 @@ summary: >-
 
 ## Source
 
-Sheeran, Listrom & Gollwitzer (2024), LIT-1488, read in full in NOTE-1131.
-What the meta-analysis measured is THEORY-918, which this entry extends.
+Sheeran, Listrom & Gollwitzer (2024), [LIT-1488](../literature.d/LIT-1488.md), read in full in [NOTE-1131](../notes.d/NOTE-1131.md).
+What the meta-analysis measured is [THEORY-918](THEORY-918.md), which this entry extends.
 
 ## The claim
 
@@ -51,7 +51,7 @@ that planning helps across four kinds of outcome, behaviour (d = .27),
 cognitive performance (.47), affect regulation (.66) and social judgement
 (.52), and presents this scope as a finding of the review.
 
-What THEORY-918 holds is narrower on one point. The correction was applied
+What [THEORY-918](THEORY-918.md) holds is narrower on one point. The correction was applied
 to the overall estimate only; the four outcome estimates are uncorrected,
 and within behaviour vaccination and voting did not differ reliably from
 zero. So "reliably", for each domain, is the authors' conclusion carried
@@ -59,7 +59,7 @@ past what their corrected analysis tested.
 
 ## What would settle it
 
-The promote_when, which QUESTION-310 also asks: an updated or
+The promote_when, which [QUESTION-310](../questions.d/QUESTION-310.md) also asks: an updated or
 preregistered set of tests estimated with correction for publication bias
 and still reliably above zero, of the same small order. A corrected
 estimate per outcome domain would settle the four-domain clause. A larger

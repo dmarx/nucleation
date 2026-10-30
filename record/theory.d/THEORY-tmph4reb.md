@@ -28,10 +28,10 @@ promote_when: >-
   scores that participants never saw, unless they are tied to what was
   placed.
 summary: >-
-  The wide form THEORY-218 held before the tenth status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-218, Active, is its
-  evidence. Litherland & Mørch (2021), LIT-1037, give a framework in
+  The wide form [THEORY-218](THEORY-218.md) held before the tenth status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-218](THEORY-218.md), Active, is its
+  evidence. Litherland & Mørch (2021), [LIT-1037](../literature.d/LIT-1037.md), give a framework in
   which the image on the canvas carries out a design decided in the
   forum, and argue that placement data cannot show cooperation, conflict
   or affiliation; they studied one artwork, and call the link from forum
@@ -43,8 +43,8 @@ summary: >-
 
 ## Source
 
-Litherland & Mørch (2021), LIT-1037, read in full in NOTE-733. What the
-case study showed for the 2017 Mona Lisa is THEORY-218, which this entry
+Litherland & Mørch (2021), [LIT-1037](../literature.d/LIT-1037.md), read in full in [NOTE-733](../notes.d/NOTE-733.md). What the
+case study showed for the 2017 Mona Lisa is [THEORY-218](THEORY-218.md), which this entry
 extends.
 
 ## The claim
@@ -65,11 +65,11 @@ negotiated composites elsewhere on the canvas (Fig. 4).
 The evidence is one artwork. About 77,000 accounts placed tiles in its
 region and the forum had 161, most placers never posted, and how many
 followed the designs was not measured: "the causal relationship between
-WAD or power and user action remains unclear". THEORY-218 holds that case.
+WAD or power and user action remains unclear". [THEORY-218](THEORY-218.md) holds that case.
 
 ## What would settle it
 
-The promote_when, which QUESTION-306 also asks: a study across many
+The promote_when, which [QUESTION-306](../questions.d/QUESTION-306.md) also asks: a study across many
 artworks of one canvas, pairing the placement log with time-stamped
 coordination records, showing design revisions leading placements, a small
 identifiable core making or approving them, and placements a behaviour-only

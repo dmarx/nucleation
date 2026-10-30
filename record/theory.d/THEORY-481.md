@@ -223,7 +223,7 @@ integration of the corrected flow showed that exact decoupling, and Eq.
 the q flow is not the p flow with p and q exchanged. The second and third
 left out conditions the derivation always had. These were the record's own
 imprecisions, introduced by its version-2 correction of the source, not
-claims of Mainali & Teixeira, so they are kind 3 under ADR-047 and get
+claims of Mainali & Teixeira, so they are kind 3 under [ADR-047](../decisions.d/ADR-047.md) and get
 this note only. Whether misaligned starts come into alignment is open
 scope that neither the paper nor the record asserts (kind 4), and stays
-QUESTION-305.
+[QUESTION-305](../questions.d/QUESTION-305.md).

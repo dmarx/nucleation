@@ -25,9 +25,9 @@ promote_when: >-
 bears_on:
 - QUESTION-318
 summary: >-
-  The wide form THEORY-111 held before the eleventh status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-111, Active, is its
+  The wide form [THEORY-111](THEORY-111.md) held before the eleventh status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-111](THEORY-111.md), Active, is its
   evidence. The old title's averaging clause was the record's own step and
   is a Proposed claim of its own; the promote_when here is the layerwise
   half of the old one.
@@ -38,9 +38,9 @@ summary: >-
 
 ## Source
 
-Zhou, Yang, Yang, Yan & Hu (2023), LIT-674, read in NOTE-512; and Lubana,
-Bigelow, Dick, Krueger & Tanaka (2022), LIT-669, read in NOTE-538, for
-Lemma 2. What the pairs of image classifiers measured showed is THEORY-111,
+Zhou, Yang, Yang, Yan & Hu (2023), [LIT-674](../literature.d/LIT-674.md), read in [NOTE-512](../notes.d/NOTE-512.md); and Lubana,
+Bigelow, Dick, Krueger & Tanaka (2022), [LIT-669](../literature.d/LIT-669.md), read in [NOTE-538](../notes.d/NOTE-538.md), for
+Lemma 2. What the pairs of image classifiers measured showed is [THEORY-111](THEORY-111.md),
 which this entry extends.
 
 ## The claim
@@ -51,7 +51,7 @@ features of the network on the straight line between them are the
 interpolation of the endpoints' features. They state it as a general
 regularity, that whenever two networks are linearly mode connected, by
 spawning or by permutation, they satisfy it in nearly all layers
-(NOTE-512, C1). Their definition allows a scale factor, and their Theorem 1
+([NOTE-512](../notes.d/NOTE-512.md), C1). Their definition allows a scale factor, and their Theorem 1
 gives it exactly, with scale 1, under two conditions, weak additivity of
 ReLU and a commutativity of weights with features. Lubana et al.'s Lemma 2
 derives the first of those for a one-hidden-layer network, where the claim
@@ -63,7 +63,7 @@ same holds for any two networks joined by a low-loss line.
 
 ## What would settle it
 
-The promote_when, which is the layerwise half of QUESTION-318: the same
+The promote_when, which is the layerwise half of [QUESTION-318](../questions.d/QUESTION-318.md): the same
 measurement in transformers and language models connected by spawning,
 shared pretraining or alignment, or an approximate version of Theorem 1.
 More pairwise image-classifier measurements cannot settle it.

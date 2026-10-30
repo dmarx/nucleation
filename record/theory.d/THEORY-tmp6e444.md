@@ -23,10 +23,10 @@ promote_when: >-
   recording cost disappears once outcome type is held fixed. More
   between-test moderator analyses cannot answer it.
 summary: >-
-  The wide form THEORY-908 held before the tenth status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-908, Active, is its
-  evidence. Sheeran, Listrom & Gollwitzer (2024), LIT-1488, conclude
+  The wide form [THEORY-908](THEORY-908.md) held before the tenth status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-908](THEORY-908.md), Active, is its
+  evidence. Sheeran, Listrom & Gollwitzer (2024), [LIT-1488](../literature.d/LIT-1488.md), conclude
   that the if-then format leads to superior impact, that rehearsal helps
   and that revisiting a kept copy makes plans less effective; their
   evidence is between-test moderator contrasts, uncorrected for bias.
@@ -37,8 +37,8 @@ summary: >-
 
 ## Source
 
-Sheeran, Listrom & Gollwitzer (2024), LIT-1488, read in full in NOTE-1131.
-The between-test differences the review measured are THEORY-908, which
+Sheeran, Listrom & Gollwitzer (2024), [LIT-1488](../literature.d/LIT-1488.md), read in full in [NOTE-1131](../notes.d/NOTE-1131.md).
+The between-test differences the review measured are [THEORY-908](THEORY-908.md), which
 this entry extends.
 
 ## The claim
@@ -54,7 +54,7 @@ those plans were less effective" (p. 180), which they read, with the
 smaller effect of plans that add how or for how long, as deliberation
 undermining automaticity.
 
-What THEORY-908 holds is the contrasts themselves: contingent .43 against
+What [THEORY-908](THEORY-908.md) holds is the contrasts themselves: contingent .43 against
 schedule .29, rehearsed .45 against .33, recorded .31 against .44, time
 and place .46 against .24 with how or how long added. They come from
 different studies, outcomes and settings, no within-study comparison is
@@ -63,7 +63,7 @@ deliberation account was not measured.
 
 ## What would settle it
 
-The promote_when, which QUESTION-309 also asks: random assignment of
+The promote_when, which [QUESTION-309](../questions.d/QUESTION-309.md) also asks: random assignment of
 format and of recording within one design for the same goal, sample and
 outcome, and a test of what rehearsal works through. More between-test
 moderator analyses cannot answer it.

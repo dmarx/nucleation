@@ -148,13 +148,13 @@ support from the method "is not a strong part of the evidence base".
 
 ## Note of 2026-10-30: the dropped clause
 
-The ADR-047 kind-1 sweep sorted what the twelfth status review dropped
+The [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep sorted what the twelfth status review dropped
 from this entry's title. The review changed no scope. It attributed the
 moderations to Strack and Mussweiler and the repeated test to Harris et
 al., and it corrected one clause: version 1 called the test "the
 lexical-decision test" and its measure "a task that also missed direct
 priming". That was imprecise. Harris et al. used lexical decision in four
 of the five experiments and continuous identification in the fifth, and
-it was direct picture priming that both tasks missed (NOTE-876). It is a
+it was direct picture priming that both tasks missed ([NOTE-876](../notes.d/NOTE-876.md)). It is a
 mis-statement, not a wider claim, so it gets this note and no Proposed
-entry. Whether the accessibility step is real is QUESTION-323.
+entry. Whether the accessibility step is real is [QUESTION-323](../questions.d/QUESTION-323.md).

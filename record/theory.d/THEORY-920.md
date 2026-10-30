@@ -99,7 +99,7 @@ was done about it.
 
 The old title said the withdrawal of avoidance raised expectancy "though
 not their skin conductance or startle in the one study that measured
-them". That clause is not kept as a Proposed reading (ADR-047, kind 3).
+them". That clause is not kept as a Proposed reading ([ADR-047](../decisions.d/ADR-047.md), kind 3).
 It was imprecise: the review reports only that "CR (SCR and FPS) were not
 affected (Xia et al., 2019)" (pp. 19–20) and does not say whether the
 other two studies measured them, so "the one study that measured them"

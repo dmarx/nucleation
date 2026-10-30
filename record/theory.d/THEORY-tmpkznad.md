@@ -26,10 +26,10 @@ extends:
 bears_on:
 - QUESTION-320
 summary: >-
-  The wide form THEORY-214 held before the twelfth status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of 2026-10-30:
-  the source asserts it, and THEORY-214, Active, is its evidence.
-  Falmagne, Stephenson and Levin (2026), LIT-1025, frame a defended image
+  The wide form [THEORY-214](THEORY-214.md) held before the twelfth status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of 2026-10-30:
+  the source asserts it, and [THEORY-214](THEORY-214.md), Active, is its evidence.
+  Falmagne, Stephenson and Levin (2026), [LIT-1025](../literature.d/LIT-1025.md), frame a defended image
   as an equilibrium of attack and repair and read several of the
   precursors of its overthrow as the defending community's conduct. The
   framing is presupposed by their state variable, and the social reading
@@ -40,9 +40,9 @@ summary: >-
 
 ## Source
 
-Falmagne, Stephenson and Levin (2026), *PNAS* 123(1), LIT-1025, read in
-NOTE-731: the main text in full, and SI sections 1, 2 and 6 (3 to 5
-skimmed). What the study measured is THEORY-214, which this entry extends.
+Falmagne, Stephenson and Levin (2026), *PNAS* 123(1), [LIT-1025](../literature.d/LIT-1025.md), read in
+[NOTE-731](../notes.d/NOTE-731.md): the main text in full, and SI sections 1, 2 and 6 (3 to 5
+skimmed). What the study measured is [THEORY-214](THEORY-214.md), which this entry extends.
 
 ## The claim
 
@@ -57,11 +57,11 @@ keeps adopting changes ("innovation"), acts in a coordinated way, keeps a
 complex image and keeps defending is less likely to be overrun. Their toy
 model has defenders recruited by damage, who desert near total loss.
 
-Two parts of this go past what THEORY-214 holds. The equilibrium is
+Two parts of this go past what [THEORY-214](THEORY-214.md) holds. The equilibrium is
 built into the state variable, which measures departure from the image
 that has held over the last three hours, so it is assumed rather than
 found; and very low past activity also makes a composition safer, so
-some images last through neglect, which is QUESTION-169's question. The
+some images last through neglect, which is [QUESTION-169](../questions.d/QUESTION-169.md)'s question. The
 reading of the precursors as conduct comes from SHAP curves over
 placements, with "a degree of conjecture" in the authors' words. No plan,
 template or forum was examined.
@@ -69,7 +69,7 @@ template or forum was examined.
 ## What would settle it
 
 The promote_when, carried over unchanged, which is also the "What would
-answer it" of QUESTION-320: a second collectively maintained system, not
+answer it" of [QUESTION-320](../questions.d/QUESTION-320.md): a second collectively maintained system, not
 r/place, with its own record of attacks and repairs, in which a
 combination of pattern-specific series again beats every generic
 indicator, the precursors include the defenders' own conduct, and a

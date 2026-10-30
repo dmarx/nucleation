@@ -28,9 +28,9 @@ promote_when: >-
 bears_on:
 - QUESTION-316
 summary: >-
-  The wide form THEORY-113 held before the eleventh status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-113, Active, is its
+  The wide form [THEORY-113](THEORY-113.md) held before the eleventh status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-113](THEORY-113.md), Active, is its
   evidence.
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
@@ -39,9 +39,9 @@ summary: >-
 
 ## Source
 
-Stoica, Bolya, Bjorner, Ramesh, Hearn & Hoffman (2023), ZipIt!, LIT-665,
-read in NOTE-523. What its ResNets on disjoint halves of a label set
-showed is THEORY-113, which this entry extends.
+Stoica, Bolya, Bjorner, Ramesh, Hearn & Hoffman (2023), ZipIt!, [LIT-665](../literature.d/LIT-665.md),
+read in [NOTE-523](../notes.d/NOTE-523.md). What its ResNets on disjoint halves of a label set
+showed is [THEORY-113](THEORY-113.md), which this entry extends.
 
 ## The claim
 
@@ -49,7 +49,7 @@ Stoica et al. explain why permute-then-average fails for models trained on
 different tasks. Permutation maps each feature of one model to exactly one
 of the other, which assumes every feature has a counterpart. Models trained
 on different tasks need not learn the same features, so the permuted
-average lands outside both task basins (§3; NOTE-523, C1). Such unmatched
+average lands outside both task basins (§3; [NOTE-523](../notes.d/NOTE-523.md), C1). Such unmatched
 features grow more common with depth: cross-model feature correlation falls
 from early to late layers, which is why the late layers should stay
 separate (C5). Merging a feature with a redundant one in its own model
@@ -61,7 +61,7 @@ come from the task difference at all.
 
 ## What would settle it
 
-The promote_when, which is QUESTION-316: the depth profile of
+The promote_when, which is [QUESTION-316](../questions.d/QUESTION-316.md): the depth profile of
 correspondence and of merge accuracy at matched width for same-task and
 disjoint-task pairs, and a one-to-one merge after a better alignment than
 permutation. Further results in which partial zipping beats full merging

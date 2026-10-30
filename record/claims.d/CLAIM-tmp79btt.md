@@ -19,8 +19,8 @@ grounds:
 bears_on:
 - QUESTION-317
 summary: >-
-  The depth clause of THEORY-112's old title, kept as a Proposed claim by
-  the ADR-047 sweep of 2026-10-30 (kind 2) when the eleventh status
+  The depth clause of [THEORY-112](../theory.d/THEORY-112.md)'s old title, kept as a Proposed claim by
+  the [ADR-047](../decisions.d/ADR-047.md) sweep of 2026-10-30 (kind 2) when the eleventh status
   review's narrowing had dropped it. No source measures or states it for
   barriers after alignment: it is the record's composition of Entezari et
   al.'s unaligned depth curves with Ferbach et al.'s compounding width
@@ -34,11 +34,11 @@ summary: >-
 
 At fixed width, deeper networks keep more of their straight-line barrier
 after alignment. The record put this together from two sources that
-THEORY-112 reads. Entezari et al. (LIT-652) find the unaligned barrier
+[THEORY-112](../theory.d/THEORY-112.md) reads. Entezari et al. ([LIT-652](../literature.d/LIT-652.md)) find the unaligned barrier
 rising quickly with depth for MLPs and shallow CNNs, and saturating high
 for VGG and ResNet, and they blame depth rather than width. Their search
 found zero-barrier permutations only for MNIST MLPs of depth 1, 2 and 4.
-Ferbach et al. (LIT-680) bound the width layer ℓ needs for alignment to
+Ferbach et al. ([LIT-680](../literature.d/LIT-680.md)) bound the width layer ℓ needs for alignment to
 work by a quantity exponential in the width of the layer before, so the
 requirement compounds with depth, and their lower bound shows the rate is
 tight for independent neurons.
@@ -49,5 +49,5 @@ Neither source measures the barrier after alignment against depth. Entezari
 et al.'s curves are before alignment, and Ferbach et al.'s width is
 sufficient, not necessary, and falls if weights concentrate near a
 low-dimensional subspace. Nor does it hold for curved paths: Draxler et
-al. (LIT-653) find barriers on minimum-energy paths falling as networks get
+al. ([LIT-653](../literature.d/LIT-653.md)) find barriers on minimum-energy paths falling as networks get
 deeper.

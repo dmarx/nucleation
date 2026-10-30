@@ -24,10 +24,10 @@ extends:
 bears_on:
 - QUESTION-325
 summary: >-
-  The wide form THEORY-915 held before the thirteenth status review
-  narrowed it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-915, Active, is its
-  evidence. Zorowitz, Momennejad and Daw (2020), LIT-1496, state it of
+  The wide form [THEORY-915](THEORY-915.md) held before the thirteenth status review
+  narrowed it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-915](THEORY-915.md), Active, is its
+  evidence. Zorowitz, Momennejad and Daw (2020), [LIT-1496](../literature.d/LIT-1496.md), state it of
   Markov decision processes in general and show it in the environments
   they simulate. The inherited promote_when asks for data in people, which
   the paper leaves to future work.
@@ -38,8 +38,8 @@ summary: >-
 ## Source
 
 Zorowitz, Momennejad and Daw (2020), *Computational Psychiatry* 4: 1–17,
-LIT-1496, read in full in NOTE-1136. What its simulations showed is
-THEORY-915, which this entry extends.
+[LIT-1496](../literature.d/LIT-1496.md), read in full in [NOTE-1136](../notes.d/NOTE-1136.md). What its simulations showed is
+[THEORY-915](THEORY-915.md), which this entry extends.
 
 ## The claim
 
@@ -56,14 +56,14 @@ appraisal, fear generalization and several laboratory findings in
 anxious people, in which the misbelief concerns one's own future control
 and the danger is represented correctly.
 
-THEORY-915 holds what the simulations showed, in a gridworld, the balloon
+[THEORY-915](THEORY-915.md) holds what the simulations showed, in a gridworld, the balloon
 analogue risk task, a sleeping-predator task and a two-branch task. The
 general statement, and the match to anxiety, are the paper's.
 
 ## What would settle it
 
-The promote_when, carried over unchanged, which is also the THEORY-915
-part of QUESTION-325's "What would answer it": people's choices in a
+The promote_when, carried over unchanged, which is also the [THEORY-915](THEORY-915.md)
+part of [QUESTION-325](../questions.d/QUESTION-325.md)'s "What would answer it": people's choices in a
 sequential avoidance task fit better by a pessimistic weight on their own
 future actions than by inflated threat values or altered transition
 beliefs, with the weight related to anxiety, or a free-choice premium

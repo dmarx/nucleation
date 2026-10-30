@@ -25,9 +25,9 @@ extends:
 bears_on:
 - QUESTION-329
 summary: >-
-  The wide form THEORY-897 held before the thirteenth status review
-  narrowed it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-897, Active, is its
+  The wide form [THEORY-897](THEORY-897.md) held before the thirteenth status review
+  narrowed it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-897](THEORY-897.md), Active, is its
   evidence.
 ---
 
@@ -35,10 +35,10 @@ summary: >-
 
 ## Source
 
-Brown, Price & Dombrovski (2023; preprint 2022), LIT-1479, read in full
-from the NIH author manuscript in NOTE-1120. The record read their Table 2
+Brown, Price & Dombrovski (2023; preprint 2022), [LIT-1479](../literature.d/LIT-1479.md), read in full
+from the NIH author manuscript in [NOTE-1120](../notes.d/NOTE-1120.md). The record read their Table 2
 and the synthesis drawn from it, not the seven studies. The authors'
-reading of those studies is THEORY-897, which this entry extends.
+reading of those studies is [THEORY-897](THEORY-897.md), which this entry extends.
 
 ## The claim
 
@@ -48,7 +48,7 @@ parameters for how learning adjusts to uncertainty (associability,
 volatility adjustment, latent-state formation), and mostly for losses,
 while "other parameters measuring overall learning rate, choice
 consistency, and outcome valuation show little relationship with anxiety".
-NOTE-1120 records this as their claim C2, moderate to weak: the studies
+[NOTE-1120](../notes.d/NOTE-1120.md) records this as their claim C2, moderate to weak: the studies
 were chosen without a systematic search and the directions are mixed.
 
 This entry states that pattern as a property of the studies, which the
@@ -57,8 +57,8 @@ further reading, that anxiety is a failure to tell noise from change.
 
 ## What would settle it
 
-The promote_when, carried from THEORY-897 unchanged: a systematic search
+The promote_when, carried from [THEORY-897](THEORY-897.md) unchanged: a systematic search
 with a meta-analysis, or a large preregistered study, in people with fear-
-based anxiety disorders against controls. QUESTION-329 asks the same. More
+based anxiety disorders against controls. [QUESTION-329](../questions.d/QUESTION-329.md) asks the same. More
 single studies chosen from the authors' knowledge of the literature cannot
 settle it.

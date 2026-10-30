@@ -114,8 +114,8 @@ The old title said an independent funder counteracts industrial selection
 "only if it discounts industry-funded work". That was imprecise. Holman and
 Bruner compare two funder policies at one parameter setting (Figure 2) and
 assert that a merit-based funder worsens the bias and one that discounts
-industry-funded work counteracts it (NOTE-574, C4). They assert no
+industry-funded work counteracts it ([NOTE-574](../notes.d/NOTE-574.md), C4). They assert no
 necessity, and no other policy is tested. The "only if" is not kept as a
-proposal (ADR-047, kind 3). The rest of the old title, which the paper
-asserts, is kept as the Proposed reading THEORY-tmp5c7t8, with the funder
+proposal ([ADR-047](../decisions.d/ADR-047.md), kind 3). The rest of the old title, which the paper
+asserts, is kept as the Proposed reading [THEORY-tmp5c7t8](THEORY-tmp5c7t8.md), with the funder
 clause restated without the "only if".

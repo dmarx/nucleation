@@ -111,9 +111,9 @@ if-component pools detection, discrimination, accessibility, attention and
 memory for the planned cue, three of the five measures from one test
 each, so the d = .80 is not an estimate of accessibility. That is the
 record's mis-statement of the table, not a wider claim the source makes,
-so it is kind 3 under ADR-047 and gets this note only. The review's other
+so it is kind 3 under [ADR-047](../decisions.d/ADR-047.md) and gets this note only. The review's other
 changes, naming the fixed-effect pooling, the missing bias correction and
 the goal-intention comparison, make explicit what the old title left
 implicit and drop nothing. Whether the process effects survive correction
 and mediate goal attainment was not claimed by either title and stays
-QUESTION-308 (kind 4).
+[QUESTION-308](../questions.d/QUESTION-308.md) (kind 4).

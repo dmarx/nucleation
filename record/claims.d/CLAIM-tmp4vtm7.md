@@ -21,8 +21,8 @@ grounds:
 bears_on:
 - QUESTION-318
 summary: >-
-  The averaging clause of THEORY-111's old title, kept as a Proposed claim
-  by the ADR-047 sweep of 2026-10-30 (kind 2) when the eleventh status
+  The averaging clause of [THEORY-111](../theory.d/THEORY-111.md)'s old title, kept as a Proposed claim
+  by the [ADR-047](../decisions.d/ADR-047.md) sweep of 2026-10-30 (kind 2) when the eleventh status
   review's narrowing had dropped it. No source measured or asserts it: it
   is the record's step from pairs to many-model averages, and its defeater
   is the averaging half of the old promote_when.
@@ -33,7 +33,7 @@ summary: >-
 
 ## The claim
 
-THEORY-111 holds that between two linearly connected image classifiers
+[THEORY-111](../theory.d/THEORY-111.md) holds that between two linearly connected image classifiers
 nearly every layer's features at points on the line are proportional to
 the interpolation of the endpoints' features. The record's step is to read
 that as a statement about weight averaging in general: if the interior of
@@ -41,12 +41,12 @@ a basin is linear in features as well as in loss, then the network whose
 weights are an average of several members of the basin computes, layer by
 layer, the average of their features. Weight averaging would then be
 feature averaging, which is what model soups and stochastic weight
-averaging do in practice. NOTE-512 proposed it in this form; Zhou et al.
+averaging do in practice. [NOTE-512](../notes.d/NOTE-512.md) proposed it in this form; Zhou et al.
 do not state it.
 
 ## What it does not say
 
-It is not measured. Every measurement behind THEORY-111 is an
+It is not measured. Every measurement behind [THEORY-111](../theory.d/THEORY-111.md) is an
 interpolation between two endpoints. A many-model average needs the
 conditions of Zhou et al.'s Theorem 1 to hold jointly for every member,
 and nothing in the record tests that. Nor does it say why averaging

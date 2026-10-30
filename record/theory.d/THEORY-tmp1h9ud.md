@@ -30,9 +30,9 @@ promote_when: >-
 bears_on:
 - QUESTION-312
 summary: >-
-  The wide form THEORY-114 held before the tenth status review narrowed it,
-  kept as a Proposed reading by the ADR-047 kind-1 sweep of 2026-10-30: the
-  source asserts it, and THEORY-114, Active, is its evidence.
+  The wide form [THEORY-114](THEORY-114.md) held before the tenth status review narrowed it,
+  kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of 2026-10-30: the
+  source asserts it, and [THEORY-114](THEORY-114.md), Active, is its evidence.
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
@@ -40,11 +40,11 @@ summary: >-
 
 ## Source
 
-Frankle, Dziugaite, Roy & Carbin (2020), LIT-654, read in NOTE-514; and
-Ainsworth, Hayase & Srinivasa (2023), Git Re-Basin, LIT-661, read in
-NOTE-532. Ferbach et al. (2024), LIT-680, read in NOTE-543, reconciles the
+Frankle, Dziugaite, Roy & Carbin (2020), [LIT-654](../literature.d/LIT-654.md), read in [NOTE-514](../notes.d/NOTE-514.md); and
+Ainsworth, Hayase & Srinivasa (2023), Git Re-Basin, [LIT-661](../literature.d/LIT-661.md), read in
+[NOTE-532](../notes.d/NOTE-532.md). Ferbach et al. (2024), [LIT-680](../literature.d/LIT-680.md), read in [NOTE-543](../notes.d/NOTE-543.md), reconciles the
 aligned half with connectivity at initialization in principle. What the
-networks measured showed is THEORY-114, which this entry extends.
+networks measured showed is [THEORY-114](THEORY-114.md), which this entry extends.
 
 ## The claim
 
@@ -52,11 +52,11 @@ Both papers state the result as a general property of training, not of the
 networks they ran. Frankle et al. conclude that standard networks become
 stable to SGD noise early in training, after which copies end in one
 linearly connected minimum, and that, except in small settings, networks
-are unstable at initialization (NOTE-514, C1–C2). LeNet on MNIST is their
+are unstable at initialization ([NOTE-514](../notes.d/NOTE-514.md), C1–C2). LeNet on MNIST is their
 small setting: it is stable from the start. Git Re-Basin concludes that
 linear mode connectivity modulo permutation "is an emergent property of
 training, and we were unable to uncover it early in training" (§5.2;
-NOTE-532, C3). Ferbach et al.'s width bound explains why the two agree with
+[NOTE-532](../notes.d/NOTE-532.md), C3). Ferbach et al.'s width bound explains why the two agree with
 Entezari et al.'s theorem of connectivity at initialization: that needs
 widths far past any trained in practice.
 
@@ -67,7 +67,7 @@ architectures and tasks as well.
 
 ## What would settle it
 
-The promote_when, which is QUESTION-312: the onset tracked against training
+The promote_when, which is [QUESTION-312](../questions.d/QUESTION-312.md): the onset tracked against training
 time, with seeds, in a language model or transformer, for both halves, or
 the aligned onset reproduced for standard-width convnets or ResNets.
 Connectivity at step 0 under an alignment computed from the initial weights

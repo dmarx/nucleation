@@ -24,12 +24,12 @@ extends:
 bears_on:
 - QUESTION-327
 summary: >-
-  The wide form THEORY-920 held before the thirteenth status review
-  narrowed it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-920, Active, is its
+  The wide form [THEORY-920](THEORY-920.md) held before the thirteenth status review
+  narrowed it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-920](THEORY-920.md), Active, is its
   evidence. The old title's clause "though not their skin conductance or
   startle in the one study that measured them" is not kept: it read more
-  into the review than it says, and THEORY-920's note of 2026-10-30 says
+  into the review than it says, and [THEORY-920](THEORY-920.md)'s note of 2026-10-30 says
   why.
 ---
 
@@ -37,10 +37,10 @@ summary: >-
 
 ## Source
 
-Mancinelli & Bach (preprint 2025; NBR 2026), LIT-1477, read in full from
-the PsyArXiv preprint in NOTE-1134. The three primary studies (Cameron et
+Mancinelli & Bach (preprint 2025; NBR 2026), [LIT-1477](../literature.d/LIT-1477.md), read in full from
+the PsyArXiv preprint in [NOTE-1134](../notes.d/NOTE-1134.md). The three primary studies (Cameron et
 al. 2022; Engelhard et al. 2015; Xia et al. 2019) were not read. What the
-review reports of them is THEORY-920, which this entry extends.
+review reports of them is [THEORY-920](THEORY-920.md), which this entry extends.
 
 ## The claim
 
@@ -48,7 +48,7 @@ The review states, rated B, that "signalling the availability of a
 costless AR for a previously and currently never punished CS (i.e., the
 CS-) has been observed to elicit this AR, and to increase threat
 expectation once this AR option is removed" (pp. 19–20): avoidance
-execution "can propagate to CS-". NOTE-1134 records it as claim C4,
+execution "can propagate to CS-". [NOTE-1134](../notes.d/NOTE-1134.md) records it as claim C4,
 moderate, confounded by signalling. The authors themselves raise the
 confound: the signal that avoidance is available "might be understood by
 participants as a signal for US delivery" (p. 19).
@@ -60,8 +60,8 @@ avoided.
 
 ## What would settle it
 
-The promote_when, carried from THEORY-920 unchanged: a study with a
+The promote_when, carried from [THEORY-920](THEORY-920.md) unchanged: a study with a
 continuously available, unsignalled avoidance response, showing that
 performing and then losing it raises threat expectancy for a safe stimulus
-in proportion to how much the person avoided. QUESTION-327 asks the same.
+in proportion to how much the person avoided. [QUESTION-327](../questions.d/QUESTION-327.md) asks the same.
 Studies that keep the signal cannot settle it.

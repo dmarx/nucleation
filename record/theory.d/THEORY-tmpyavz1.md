@@ -21,9 +21,9 @@ extends:
 bears_on:
 - QUESTION-333
 summary: >-
-  The wide form THEORY-921 held before the fourteenth status review
-  narrowed it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-921, Active, is its
+  The wide form [THEORY-921](THEORY-921.md) held before the fourteenth status review
+  narrowed it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-921](THEORY-921.md), Active, is its
   evidence.
 ---
 
@@ -31,10 +31,10 @@ summary: >-
 
 ## Source
 
-Craske, Treanor, Conway, Zbozinek & Vervliet (2014), LIT-1500, read in
-full from the PMC author manuscript in NOTE-1137. The paper reports no
+Craske, Treanor, Conway, Zbozinek & Vervliet (2014), [LIT-1500](../literature.d/LIT-1500.md), read in
+full from the PMC author manuscript in [NOTE-1137](../notes.d/NOTE-1137.md). The paper reports no
 data of its own, and the six studies it cites were not read. What it
-reports is THEORY-921, which this entry extends.
+reports is [THEORY-921](THEORY-921.md), which this entry extends.
 
 ## The claim
 
@@ -44,7 +44,7 @@ fear expressed at the follow-up extinction retest in either animals or
 human laboratory samples", and "the amount by which fear reduces by the
 end of an exposure trial or series of exposure trials is not predictive of
 the fear level expressed at follow-up assessment in fearful human
-samples". NOTE-1137 records it as claim C2, moderate: several cited
+samples". [NOTE-1137](../notes.d/NOTE-1137.md) records it as claim C2, moderate: several cited
 studies, analog samples. It is the basis of the authors' case against
 habituation-based exposure.
 
@@ -54,8 +54,8 @@ those samples are mostly analog.
 
 ## What would settle it
 
-The promote_when, carried from THEORY-921 unchanged: a reading of the six
+The promote_when, carried from [THEORY-921](THEORY-921.md) unchanged: a reading of the six
 cited studies or of a later meta-analysis that finds the same. It is
 refuted by a well-powered clinical sample in which fear reduction during
-exposure predicts outcome once initial fear is controlled. QUESTION-333
+exposure predicts outcome once initial fear is controlled. [QUESTION-333](../questions.d/QUESTION-333.md)
 asks the same.

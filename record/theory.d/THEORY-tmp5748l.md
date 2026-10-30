@@ -29,9 +29,9 @@ extends:
 bears_on:
 - QUESTION-322
 summary: >-
-  The wide form THEORY-327 held before the twelfth status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of 2026-10-30:
-  the source asserts it, and THEORY-327, Active, is its evidence. Fricker
+  The wide form [THEORY-327](THEORY-327.md) held before the twelfth status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of 2026-10-30:
+  the source asserts it, and [THEORY-327](THEORY-327.md), Active, is its evidence. Fricker
   states the account as what testimonial injustice is, not only as her
   usage; the record holds it as hers, in two papers read in full. Whether
   the book states it so, and whether it is right about the wrong, is open.
@@ -42,9 +42,9 @@ summary: >-
 
 ## Source
 
-Fricker (2003), LIT-1049, read in full in NOTE-860, and Fricker (2017),
-LIT-1048, read in full in NOTE-853. That these two papers hold the
-account is THEORY-327, which this entry extends. The book, LIT-1004, where
+Fricker (2003), [LIT-1049](../literature.d/LIT-1049.md), read in full in [NOTE-860](../notes.d/NOTE-860.md), and Fricker (2017),
+[LIT-1048](../literature.d/LIT-1048.md), read in full in [NOTE-853](../notes.d/NOTE-853.md). That these two papers hold the
+account is [THEORY-327](THEORY-327.md), which this entry extends. The book, [LIT-1004](../literature.d/LIT-1004.md), where
 the account is developed, has not been read.
 
 ## The claim
@@ -64,13 +64,13 @@ never sought, "(through no one's fault, let us add)", that is testimonial
 injustice before anyone hears them.
 
 Others use the term more widely and count deliberate manipulation of
-credibility (NOTE-1049). This entry is the thesis that Fricker's narrower
+credibility ([NOTE-1049](../notes.d/NOTE-1049.md)). This entry is the thesis that Fricker's narrower
 account marks out the wrong correctly.
 
 ## What would settle it
 
 The promote_when, carried over unchanged, which is also the "What would
-answer it" of QUESTION-322: a first-hand reading of the book's chapters on
+answer it" of [QUESTION-322](../questions.d/QUESTION-322.md): a first-hand reading of the book's chapters on
 testimonial injustice that confirms both parts as her account, with no
 case that is plainly a testimonial wrong to a speaker as a knower while
 deliberate and non-prejudiced. More secondary summaries cannot settle it.

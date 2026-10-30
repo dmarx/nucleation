@@ -28,10 +28,10 @@ promote_when: >-
   belief. More simulations with other parameters cannot settle it, and nor
   can symptom improvement alone.
 summary: >-
-  The wide form THEORY-285 held before the eighth status review narrowed
-  it, kept as a Proposed reading by the ADR-047 kind-1 sweep of
-  2026-10-30: the source asserts it, and THEORY-285, Active, is its
-  evidence. Linson et al. (2025), LIT-983, recast post-traumatic stress
+  The wide form [THEORY-285](THEORY-285.md) held before the eighth status review narrowed
+  it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
+  2026-10-30: the source asserts it, and [THEORY-285](THEORY-285.md), Active, is its
+  evidence. Linson et al. (2025), [LIT-983](../literature.d/LIT-983.md), recast post-traumatic stress
   as lost context disambiguation and offer the loop as its mechanism;
   their simulations show it once per phenotype, with unreported
   parameters, and fit no patient data.
@@ -42,10 +42,10 @@ summary: >-
 
 ## Source
 
-Linson, Anderson, Markham, Friston & Moutoussis (2025), bioRxiv, LIT-983,
-version 2, read in NOTE-766 (Results, Discussion and Online Methods; not
+Linson, Anderson, Markham, Friston & Moutoussis (2025), bioRxiv, [LIT-983](../literature.d/LIT-983.md),
+version 2, read in [NOTE-766](../notes.d/NOTE-766.md) (Results, Discussion and Online Methods; not
 the figures or the supplement). What the simulations showed is
-THEORY-285, which this entry extends.
+[THEORY-285](THEORY-285.md), which this entry extends.
 
 ## The claim
 
@@ -65,14 +65,14 @@ does, a contrast the authors say "closely matches" the EMDR–fluoxetine
 trial. They state predictions for people: after cued traumatic recall,
 peripheral sensing is attenuated more than focal sensing.
 
-What THEORY-285 holds is narrower: one illustrative run per phenotype,
+What [THEORY-285](THEORY-285.md) holds is narrower: one illustrative run per phenotype,
 under learning and forgetting weights the paper does not report, and a
 drug arm that makes the attenuation policy less vigorous rather than
 removing it. The match to the trial is asserted by citation, not fitted.
 
 ## What would settle it
 
-The promote_when, which QUESTION-303 also asks: the authors' prediction
+The promote_when, which [QUESTION-303](../questions.d/QUESTION-303.md) also asks: the authors' prediction
 confirmed in people with context sampling measured directly, or an
 exposure-matched contrast in which restoring sampling produces lasting
 change and a precision-lowering drug does not. More simulations cannot
