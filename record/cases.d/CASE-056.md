@@ -242,7 +242,7 @@ Every URL below was retrieved on 2026-10-10.
 
 The three passages this case quotes from Marlowe's transcription appear
 word for word in the Reader reprint of "Principles of Correspondence"
-(LIT-tmpmg03b, NOTE-tmpth9wo), at pp. 129–130: the gloss alternative, the
+([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md), [NOTE-tmpth9wo](../notes.d/NOTE-tmpth9wo.md)), at pp. 129–130: the gloss alternative, the
 principle, and the verdict, with Nida's "all around". The reprint dates the
 Rieu–Phillips principle 1954, as the Unverified paragraph says. The reprint is
 abridged and its cuts are unmarked, so book page 160 is not checked against

@@ -166,13 +166,13 @@ are left to the book ([NOTE-460](../notes.d/NOTE-460.md), Limitations).
 
 No reading in the record measures the attentional availability of
 self-model content together with reported selfhood, or reports a wholly
-opaque self-model either way. Metzinger 2013 (LIT-tmptcw4n,
-NOTE-tmpelzjc), read in full, narrows the test to the minimal case,
+opaque self-model either way. Metzinger 2013 ([LIT-tmptcw4n](../literature.d/LIT-tmptcw4n.md),
+[NOTE-tmpelzjc](../notes.d/NOTE-tmpelzjc.md)), read in full, narrows the test to the minimal case,
 "transparent spatiotemporal self-location is necessary and sufficient"
 for minimal selfhood. It names phenomenally opaque self-location in
 fully lucid bodiless dreams as the decisive case, and reports none. It
 also reads some meditative reports as identification with "phenomenality
-per se", not loss of self, so THEORY-597's "loss of basic self" cannot
+per se", not loss of self, so [THEORY-597](THEORY-597.md)'s "loss of basic self" cannot
 count as selfhood falling with opacity without a measure of opacity.
-Being No One (LIT-467) is Unavailable. CLAIM-156 cites this reading as
-corroboration, and CLAIM-355 still grounds on it.
+Being No One ([LIT-467](../literature.d/LIT-467.md)) is Unavailable. [CLAIM-156](../claims.d/CLAIM-156.md) cites this reading as
+corroboration, and [CLAIM-355](../claims.d/CLAIM-355.md) still grounds on it.

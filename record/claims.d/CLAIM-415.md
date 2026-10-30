@@ -209,7 +209,7 @@ was written to keep apart.
   tracked the comfort students attributed to the average student, more
   steeply with fear of negative evaluation. Exposing pluralistic
   ignorance left attributed comfort unchanged and removed that moderation
-  (NOTE-tmpjgs12, C3–C4). That is conduct, not expression, but its
+  ([NOTE-tmpjgs12](../notes.d/NOTE-tmpjgs12.md), C3–C4). That is conduct, not expression, but its
   mechanism is compliance under fear of censure, not a change in how the
   person organizes their activity. It rests on one interaction at
   p = .05, with no untreated control (fn. 13).
@@ -230,11 +230,11 @@ was written to keep apart.
 
 ## Note of 2026-10-30: what holds it back
 
-The first clause now has one read field result (LIT-tmpg0s3y). Its
+The first clause now has one read field result ([LIT-tmpg0s3y](../literature.d/LIT-tmpg0s3y.md)). Its
 mechanism is compliance under fear of censure, so the claim must still
 say which side of its defeat condition such conduct falls on, and the
 result rests on one interaction at p = .05 with no untreated control.
 The third clause, that resisting a judgement makes it consequential, has
 no read result: it rests on Cooley's statement and the constructed
-CASE-142. The one cited case of private change, Prentice and Miller's men
-(LIT-1370), is unread, and the authors' 1998 cohort did not reproduce it.
+[CASE-142](../cases.d/CASE-142.md). The one cited case of private change, Prentice and Miller's men
+([LIT-1370](../literature.d/LIT-1370.md)), is unread, and the authors' 1998 cohort did not reproduce it.

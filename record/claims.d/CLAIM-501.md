@@ -55,7 +55,7 @@ summary: >-
 
 [CLAIM-233](CLAIM-233.md)'s version 2 named Gutt's interpretive resemblance among the rival
 accounts that predict a pass on the central defeat test ([CASE-184](../cases.d/CASE-184.md)). The record
-reads the account in Gutt's 1989 thesis (LIT-tmp1eyaz, NOTE-tmpfykfi). Two
+reads the account in Gutt's 1989 thesis ([LIT-tmp1eyaz](../literature.d/LIT-tmp1eyaz.md), [NOTE-tmpfykfi](../notes.d/NOTE-tmpfykfi.md)). Two
 utterances interpretively resemble each other "to the degree that the sets
 of assumptions which each conveys in its own cognitive environment overlap,
 that is, ... the degree to which they share their explicatures and/or

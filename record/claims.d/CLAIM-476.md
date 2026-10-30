@@ -194,7 +194,7 @@ inquiry reconstitutes."
   shape leaves no decision behind. An apparatus that constitutes objects
   can constitute the wrong ones.
 - **Not Barad's own reading.** Barad's book and article are unread here
-  (LIT-1653, LIT-1657). Her 2012 essay (LIT-tmpqga3b, read in NOTE-tmpynmwh)
+  ([LIT-1653](../literature.d/LIT-1653.md), [LIT-1657](../literature.d/LIT-1657.md)). Her 2012 essay ([LIT-tmpqga3b](../literature.d/LIT-tmpqga3b.md), read in [NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md))
   states the agential cut in the sense this claim uses, "a “local”
   resolution within the phenomenon of the inherent ontological
   indeterminacy" (p. 32), but uses "apparatus" only of the two-slit set-up,
@@ -345,8 +345,8 @@ reading supports nothing beyond it.
 ## Note of 2026-10-30: what holds it back
 
 Its first defeater is unanswered: no consequence of "constituted" has been
-shown that does not follow from CLAIM-469's operational facts,
-QUESTION-284 is Open, and the two-apparatus experiment is unbuilt. Barad's
+shown that does not follow from [CLAIM-469](CLAIM-469.md)'s operational facts,
+[QUESTION-284](../questions.d/QUESTION-284.md) is Open, and the two-apparatus experiment is unbuilt. Barad's
 2012 essay, now read, supplies the cut but no account of the apparatus, so
-the constitutive sense the title names rests on TERM-087's second-hand
-clause, which waits on a reading of LIT-1657.
+the constitutive sense the title names rests on [TERM-087](../terms.d/TERM-087.md)'s second-hand
+clause, which waits on a reading of [LIT-1657](../literature.d/LIT-1657.md).

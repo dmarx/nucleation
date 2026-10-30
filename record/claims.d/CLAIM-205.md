@@ -90,14 +90,14 @@ second, and undercuts that argument. The text above is unchanged.
 
 ## Note of 2026-10-30: the accounts read, and narrowed
 
-Nord (LIT-tmplzcgc) translates for "a particular target audience from
+Nord ([LIT-tmplzcgc](../literature.d/LIT-tmplzcgc.md)) translates for "a particular target audience from
 among various possible audiences" (p. 17), and the brief decides between
-instrumental and documentary translation (pp. 26–27). Nida (LIT-tmpmg03b)
+instrumental and documentary translation (pp. 26–27). Nida ([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md))
 makes the translation depend on the message, the purposes and an audience
 that varies in decoding ability and interest (pp. 127–128), and calls the
-rules "probabilistic" (p. 134). Gutt's thesis (LIT-tmp1eyaz) makes
+rules "probabilistic" (p. 134). Gutt's thesis ([LIT-tmp1eyaz](../literature.d/LIT-tmp1eyaz.md)) makes
 faithfulness "determined for each occasion by the principle of relevance
 and the cognitive environment mutually shared" (p. 63). None fixes a
 profile of the rendering as read once. None proposes an
 operationalization, so the old title's second clause moves to
-CLAIM-tmpnw3vv.
+[CLAIM-tmpnw3vv](CLAIM-tmpnw3vv.md).

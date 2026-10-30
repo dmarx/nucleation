@@ -81,9 +81,9 @@ thesis to saying why such a self counts as the agent's own.
 
 ## Note of 2026-10-30: what holds it back
 
-Its evidence, Batson et al. 1997 (LIT-1700), is Unavailable and known
-only from the SEP's report (NOTE-1274), which gives no numbers. The paper
-it answers, Cialdini et al. (LIT-1728), is now read (NOTE-tmpps63a) and
+Its evidence, Batson et al. 1997 ([LIT-1700](../literature.d/LIT-1700.md)), is Unavailable and known
+only from the SEP's report ([NOTE-1274](../notes.d/NOTE-1274.md)), which gives no numbers. The paper
+it answers, Cialdini et al. ([LIT-1728](../literature.d/LIT-1728.md)), is now read ([NOTE-tmpps63a](../notes.d/NOTE-tmpps63a.md)) and
 cuts against it: with oneness controlled, empathic concern predicted no
 willingness to help in any of twelve relationship conditions, near
 strangers included. That weighs against the objection without defeating

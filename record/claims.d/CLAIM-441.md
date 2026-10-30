@@ -117,7 +117,7 @@ wrong about one of the clearest cases of positive engagement there is.
 
 ## Note of 2026-10-30: the flow literature, read through a review
 
-Abuhamdeh's review (LIT-tmp97y6c, NOTE-tmp8y6gc) gives the report this
+Abuhamdeh's review ([LIT-tmp97y6c](../literature.d/LIT-tmp97y6c.md), [NOTE-tmp8y6gc](../notes.d/NOTE-tmp8y6gc.md)) gives the report this
 objection rests on and the dispute exit 3 names. On Csikszentmihalyi's
 conception flow is enjoyable by definition (the 1975 preface, quoted).
 Against it, Seligman holds that "it is the absence of emotion, of any kind
@@ -128,16 +128,16 @@ say, 'That really was fun'". Abuhamdeh answers both by definition and from
 appraisal theory, with no data on the episode. So exit 3 is attributed,
 not shown, and the first clause of the defeated_if is not met. Two things
 bear on the other exits. Absorption without enjoyment is task involvement,
-"not inherently enjoyable", so the absorbed writer (CASE-051) is no
+"not inherently enjoyable", so the absorbed writer ([CASE-051](../cases.d/CASE-051.md)) is no
 anomaly. And Csikszentmihalyi, as Abuhamdeh reads him, separates pleasure,
 the satisfaction of biological needs, from enjoyment, which can run
 against them; that puts flow's positivity off the maintenance ordering
-TERM-076 names, which is half of exit 1, but does not show that it is
-intrinsic pleasantness. LIT-914 stays unread.
+[TERM-076](../terms.d/TERM-076.md) names, which is half of exit 1, but does not show that it is
+intrinsic pleasantness. [LIT-914](../literature.d/LIT-914.md) stays unread.
 
 ## Note of 2026-10-30: what holds it back
 
-Its premise CLAIM-162 is Proposed. And none of its exits is shown: whether
+Its premise [CLAIM-162](CLAIM-162.md) is Proposed. And none of its exits is shown: whether
 flow is positive during the episode, rather than in retrospect, needs
 in-episode reports, and Abuhamdeh's review names no such study; whether
 flow's enjoyment is intrinsic pleasantness rather than goal-conduciveness

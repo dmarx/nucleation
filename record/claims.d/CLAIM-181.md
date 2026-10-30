@@ -185,7 +185,7 @@ grammar was not amended, and they stay in prose.
 ## Note of 2026-10-30: what Shipman and Marshall say
 
 They are now read, in the authors' web version of about 1993–94
-(NOTE-tmps2gbq). The attribution holds: users resist making structure
+([NOTE-tmps2gbq](../notes.d/NOTE-tmps2gbq.md)). The attribution holds: users resist making structure
 explicit, and are often right to. The first paragraph above goes beyond
 the text in one clause, "the structure that results belongs to the system
 and not to them". The paper says formalisms "structure the activity in
@@ -197,13 +197,13 @@ representation is", the claim's lost case, and "what one person thinks is
 an argument may be an issue to someone else" (§2.2), a move forced into one
 category where it fits two. The paper studies formalisms imposed on users,
 not a vocabulary its users amend, and its remedy, formalization "as people
-reconceptualize their tasks", is what CLAIM-419 says this record does.
+reconceptualize their tasks", is what [CLAIM-419](CLAIM-419.md) says this record does.
 
 ## Note of 2026-10-30: what holds it back
 
 Its own test is unmet, and no reading can meet it: a move that mattered in
 an exchange and that the record still cannot hold, or holds only by
-distorting it. CASE-131's distortion was caught and the grammar amended,
-and ADR-032's literature roles were left in prose by decision, which
+distorting it. [CASE-131](../cases.d/CASE-131.md)'s distortion was caught and the grammar amended,
+and [ADR-032](../decisions.d/ADR-032.md)'s literature roles were left in prose by decision, which
 Shipman and Marshall would call informality kept until formalizing pays,
 not loss.

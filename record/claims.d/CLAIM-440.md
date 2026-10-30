@@ -394,15 +394,15 @@ reply" says the objection was conceded and the revision made, with
 
 ## Note of 2026-10-30: what holds it back
 
-Three things. CLAIM-441's flow case is unanswered: Abuhamdeh's review
-(LIT-tmp97y6c, NOTE-tmp8y6gc) shows the flow literature divided on whether
+Three things. [CLAIM-441](CLAIM-441.md)'s flow case is unanswered: Abuhamdeh's review
+([LIT-tmp97y6c](../literature.d/LIT-tmp97y6c.md), [NOTE-tmp8y6gc](../notes.d/NOTE-tmp8y6gc.md)) shows the flow literature divided on whether
 flow is positive during the episode, and settles it by definition, not
-data. The third defeater is now met in part: Orehek et al. (LIT-tmpa32bu)
+data. The third defeater is now met in part: Orehek et al. ([LIT-tmpa32bu](../literature.d/LIT-tmpa32bu.md))
 find that positive affect lowers a goal's priority when competing goals are
 salient, which is the contested case where this claim defines valence;
 whether that is intensity failing to track control precedence turns on
 whether a focal goal's priority is the potential ordering's hold, which
-clause 3 has not argued (CLAIM-468). If it cannot be argued, clause 3 is
-narrowed to negative valence or dropped. And the premise CLAIM-039 is held
-by THEORY-101's identification of valence with a felt state, which no
+clause 3 has not argued ([CLAIM-468](CLAIM-468.md)). If it cannot be argued, clause 3 is
+narrowed to negative valence or dropped. And the premise [CLAIM-039](CLAIM-039.md) is held
+by [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a felt state, which no
 claim in the record answers.

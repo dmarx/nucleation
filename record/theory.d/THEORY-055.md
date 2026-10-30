@@ -182,7 +182,7 @@ well as substance.
 ## Note of 2026-10-30: what holds it back
 
 The record holds none of the results promote_when names. Kuppens et al.
-(LIT-tmptort0, NOTE-tmp0e1ym), read in full, find no appraisal and no
+([LIT-tmptort0](../literature.d/LIT-tmptort0.md), [NOTE-tmp0e1ym](../notes.d/NOTE-tmp0e1ym.md)), read in full, find no appraisal and no
 action tendency singly necessary or sufficient for anger in recalled
 episodes. That weighs against the claim that emotions differ by mode:
 the nearest item to Frijda's hostility, wanting to express opposition,
@@ -190,5 +190,5 @@ was only marginally associated with anger. But the study varies which
 episodes are recalled, not an event's pertinence. Every variable is the
 same person's report. Every situation was unpleasant, so concern
 pertinence may have held throughout. The rival predicts the same result,
-and promote_when sets this kind of evidence aside. LIT-546 and LIT-550
+and promote_when sets this kind of evidence aside. [LIT-546](../literature.d/LIT-546.md) and [LIT-550](../literature.d/LIT-550.md)
 remain Unavailable.

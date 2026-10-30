@@ -169,7 +169,7 @@ Frijda's, makes the same kind of prediction about category instances.
 
 ## Bearing on the record
 
-- **THEORY-055: it weighs only on the claim that emotions differ by mode,
+- **[THEORY-055](../theory.d/THEORY-055.md): it weighs only on the claim that emotions differ by mode,
   in a kind of evidence its `promote_when` says cannot settle it.** The
   `promote_when` sets aside "correlations between people's appraisal
   reports and their emotion labels, since the rival reads appraisals as

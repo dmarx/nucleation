@@ -69,7 +69,7 @@ support viable activity."
 disease." The audit's verdict on Canguilhem: an "illuminating philosophical
 analogue, not a co-foundation". It cites Canguilhem ([LIT-817](../literature.d/LIT-817.md)), which
 is Unavailable and takes no edge; the reading of him it needs is Giroux's and
-Vissio's, who quote the book (LIT-tmphwtnd, LIT-tmpwml4z). Nor does it say
+Vissio's, who quote the book ([LIT-tmphwtnd](../literature.d/LIT-tmphwtnd.md), [LIT-tmpwml4z](../literature.d/LIT-tmpwml4z.md)). Nor does it say
 Canguilhem would draw the correspondence: he refuses normativity, and so
 health, to a society, which "is not an individual, because it is not an
 organism endowed with a purpose and a totality that are obtained by a

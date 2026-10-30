@@ -158,13 +158,13 @@ failed for corporations and ledger money.
 
 ## Note of 2026-10-30: what holds it back
 
-Its promote_when is still unmet. Searle's 1990 paper (LIT-490) is still
-unread, but Zaibert (LIT-tmpw3w3r, read in NOTE-tmpb8btj) quotes it page
+Its promote_when is still unmet. Searle's 1990 paper ([LIT-490](../literature.d/LIT-490.md)) is still
+unread, but Zaibert ([LIT-tmpw3w3r](../literature.d/LIT-tmpw3w3r.md), read in [NOTE-tmpb8btj](../notes.d/NOTE-tmpb8btj.md)) quotes it page
 by page, and on his quotations it gives no irreducibility argument: Searle
 offers irreducibility as an intuition his arguments "suggest" (CIA 401),
 says "I have not demonstrated that no such analysis could ever succeed"
 (CIA 406), and rejects Tuomela and Miller by one counterexample (CIA 404).
-So the first deferred argument is unlikely to come from LIT-490 either;
+So the first deferred argument is unlikely to come from [LIT-490](../literature.d/LIT-490.md) either;
 the second, that a status's deontology exceeds what a regulative rule in
-equilibrium gives (THEORY-414), is still missing, and the record holds no
+equilibrium gives ([THEORY-414](THEORY-414.md)), is still missing, and the record holds no
 institution the analysis cannot state.
