@@ -149,11 +149,11 @@ no new prediction checked against data ([NOTE-426](../notes.d/NOTE-426.md)).
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-423 and NOTE-426 read
+Kept Proposed by the sixteenth status review. [NOTE-423](../notes.d/NOTE-423.md) and [NOTE-426](../notes.d/NOTE-426.md) read
 both sources in full, but neither result the promote_when asks for is in
 the record. Dewar's derivation needs a mean-field step and an unargued
 assumption on path counts, and does not reach the far-from-equilibrium
-regime (THEORY-676, Active). No system has had its degrees of freedom
+regime ([THEORY-676](THEORY-676.md), Active). No system has had its degrees of freedom
 fixed before its steady state was predicted and found. A split into what
-Kleidon proposes would free nothing: THEORY-517, which presupposes it,
+Kleidon proposes would free nothing: [THEORY-517](THEORY-517.md), which presupposes it,
 also asks for a planetary test that does not assume MEP.

@@ -134,7 +134,7 @@ windows, is [CLAIM-316](CLAIM-316.md)'s.
 
 ## Note of 2026-10-29: what holds it back
 
-Its ground THEORY-560 is Proposed, and its own body says it stays Proposed
+Its ground [THEORY-560](../theory.d/THEORY-560.md) is Proposed, and its own body says it stays Proposed
 because everyday drive in a person is not shown. No study in the record
 shows a change in a person's own microbiome, rather than an added strain
 or a delivered metabolite, originating a change in human hunger or affect,

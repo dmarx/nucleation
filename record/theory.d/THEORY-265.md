@@ -126,7 +126,7 @@ any collective benefit was available (Fig. 5B).
   handle, built with the boundary given.
 - **[CLAIM-172](../claims.d/CLAIM-172.md).** Corroborates it in the within-module case and sharpens it:
   relative to this target, common timing as such made no unit (the global
-  control); timing matched to the strong couplings did. CLAIM-172's defeat
+  control); timing matched to the strong couplings did. [CLAIM-172](../claims.d/CLAIM-172.md)'s defeat
   condition, which any complete micro simulation like this one met as
   first written, was reworded on 2026-10-14 to ask for descriptive economy
   (its version 6).
@@ -144,7 +144,7 @@ any collective benefit was available (Fig. 5B).
 
 ## Note of 2026-10-29: re-run by the status review
 
-The sixteenth status review re-implemented the model from NOTE-773's
+The sixteenth status review re-implemented the model from [NOTE-773](../notes.d/NOTE-773.md)'s
 equations (v2 Eqs. 3–5: N = 300, k = 10, c_ij = 1 within and 0.01 across,
 c_ii = 0, I(x) = clip(100x, ±1), noise uniform ±0.01, ω = 0.01,
 ν = 3·10⁻⁵). It learned phases for 30,000 steps, then ran 50 tests of
@@ -176,7 +176,7 @@ same.
   The slowest phase rate tried, 10⁻⁵, did not synchronise modules within
   30,000 steps. Overlapping modules, frustrated constraints and
   entrainment through the units' outputs were not run; they are
-  QUESTION-tmpf4yf4.
+  [QUESTION-tmpf4yf4](../questions.d/QUESTION-tmpf4yf4.md).
 
 The re-run is the record's own, from a transcription whose figures were
 read from their captions only.

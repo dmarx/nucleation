@@ -102,11 +102,11 @@ they did not.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-703 read the review in
+Kept Proposed by the sixteenth status review. [NOTE-703](../notes.d/NOTE-703.md) read the review in
 full, but it is a narrative review without a search method, by a
 probiotics manufacturer's staff, and its human half rests on one meta-
 analysis of healthy volunteers and trials it selected. No independent
 systematic review of placebo-controlled psychobiotic trials, separating
 healthy from depressed participants and subjective from objective
 outcomes, is in the record. Narrowing to the rodent half would free
-nothing: CLAIM-166 uses both halves.
+nothing: [CLAIM-166](../claims.d/CLAIM-166.md) uses both halves.

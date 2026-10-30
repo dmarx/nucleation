@@ -9,8 +9,8 @@ tags:
 date: '2026-10-29'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-265, moved here when the
-  sixteenth status review promoted it on ADR-047's ruling on one study.
+  The promotion condition formerly on [THEORY-265](../theory.d/THEORY-265.md), moved here when the
+  sixteenth status review promoted it on [ADR-047](../decisions.d/ADR-047.md)'s ruling on one study.
   The model was run on one clean game; whether the mechanism survives
   overlap, frustration or output coupling is open scope nobody asserts,
   and it is this question.
@@ -20,7 +20,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-265 holds Tissot et al.'s result (LIT-989, read in NOTE-773) in
+[THEORY-265](../theory.d/THEORY-265.md) holds Tissot et al.'s result ([LIT-989](../literature.d/LIT-989.md), read in [NOTE-773](../notes.d/NOTE-773.md)) in
 the setting they ran: one game of thirty clean, non-overlapping,
 consistent modules of ten, couplings 1 within and 0.01 across, one
 parameter setting. The authors expect natural interactions to be graded
@@ -28,7 +28,7 @@ and frustrated, and they do not claim the mechanism survives that. The
 phase rule is a gradient on cycle-averaged payoff, "loosely analogous" to
 Kuramoto entrainment, and no run couples units through their outputs.
 
-The sixteenth status review's re-run (THEORY-265, note of 2026-10-29)
+The sixteenth status review's re-run ([THEORY-265](../theory.d/THEORY-265.md), note of 2026-10-29)
 covers part of the scope. With within-module couplings graded, the result
 held at across-coupling 0.01. At across-coupling 0.1 or more, random
 phases already reach the optimum, so there is no lock-in for timing to
@@ -37,7 +37,7 @@ not run.
 
 ## What would answer it
 
-THEORY-265's former promote_when, unchanged:
+[THEORY-265](../theory.d/THEORY-265.md)'s former promote_when, unchanged:
 
 A replication outside the authors' clean game: modules that overlap,
 couplings of graded strength, or frustrated constraints, together with a

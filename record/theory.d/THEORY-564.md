@@ -122,11 +122,11 @@ learned.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-485 read the paper in
+Kept Proposed by the sixteenth status review. [NOTE-485](../notes.d/NOTE-485.md) read the paper in
 full, but the first clause, that a bounded generative model can learn its
 own structure with no further machinery, generalises past one toy domain
 of eight concepts and six binary features under one symmetry-breaking
 initialisation. No larger runs compared with a non-parametric learner are
 in the record. Narrowing it to the toy runs would make it promotable on
-one study, but would free nothing while CLAIM-337's other grounds,
-THEORY-662 and THEORY-577, are Proposed.
+one study, but would free nothing while [CLAIM-337](../claims.d/CLAIM-337.md)'s other grounds,
+[THEORY-662](THEORY-662.md) and [THEORY-577](THEORY-577.md), are Proposed.

@@ -157,12 +157,12 @@ closure rather than instances of organizational closure itself".
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-727 read the paper in
+Kept Proposed by the sixteenth status review. [NOTE-727](../notes.d/NOTE-727.md) read the paper in
 full, but no closure criterion has been applied to the four systems the
 promote_when names (a feedback controller, an autocatalytic set with
 supplied catalysts, a protocell that makes its own catalysts and membrane,
 a software system that revises its own objectives) with verdicts that hold
 when the boundary is drawn at another level. The irreducibility rests on a
 halting argument the authors call provisional and make conditional on
-halting computability. Nothing rests on it: CLAIM-288 takes it as
+halting computability. Nothing rests on it: [CLAIM-288](../claims.d/CLAIM-288.md) takes it as
 corroboration.

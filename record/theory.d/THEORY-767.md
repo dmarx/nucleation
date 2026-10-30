@@ -155,5 +155,5 @@ second-hand report, and neither Suzuki et al. (2013) nor Tsakiris et al.
 (2011) is held. No condition locks the cue to a non-bodily rhythm at heart
 rate, expectations were not measured or matched, and the
 sensitivity–susceptibility relation has not been tested with trait
-suggestibility as a covariate. Nothing live rests on it: ARG-018 is
+suggestibility as a covariate. Nothing live rests on it: [ARG-018](../arguments.d/ARG-018.md) is
 Rejected.

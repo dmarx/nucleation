@@ -195,7 +195,7 @@ mechanism.
 
 ## Note of 2026-10-29: what holds it back
 
-Its one premise not held is THEORY-069, the HKB reading its criterion is
+Its one premise not held is [THEORY-069](../theory.d/THEORY-069.md), the HKB reading its criterion is
 drawn from, which is Proposed because the bimanual data are reported
-rather than shown and no original or replication is read. CLAIM-165's
+rather than shown and no original or replication is read. [CLAIM-165](CLAIM-165.md)'s
 objection is written in (version 4).
