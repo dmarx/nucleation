@@ -30,7 +30,7 @@ history:
     settle it: comparisons of MI estimates, since the account is about true
     MI, which the estimators do not measure." Its demand for generality
     beyond MNIST, CIFAR-10 and the linear probe asks for more than the title
-    claims, and moves to QUESTION-tmphn7l4.
+    claims, and moves to QUESTION-357.
 tags:
 - representation-learning
 - information-theory

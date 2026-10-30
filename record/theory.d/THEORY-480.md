@@ -32,7 +32,7 @@ history:
     that took the data gained nothing, or if the privacy treatment left
     too little of it to use. The court's reasoning, the appellate history
     and the decree's terms cannot settle it, since they say what the court
-    expected, not what happened." It moves unchanged to QUESTION-tmp5fmg2 (ADR-065 §3).
+    expected, not what happened." It moves unchanged to QUESTION-352 (ADR-065 §3).
 tags:
 - society-and-governance
 - information-retrieval
@@ -40,7 +40,7 @@ date: '2026-10-16'
 source:
 - LIT-006
 bears_on:
-- QUESTION-tmp5fmg2
+- QUESTION-352
 summary: >-
   Mehta (2025), [LIT-006](../literature.d/LIT-006.md), the remedies opinion, read in full in [NOTE-004](../notes.d/NOTE-004.md).
   The court finds that exclusive distribution produced a scale advantage
@@ -102,7 +102,7 @@ fruit at all. It did neither.
   to the Technical Committee and the final judgment ([NOTE-004](../notes.d/NOTE-004.md),
   Limitations). Both privacy experts agreed raw logs can re-identify users,
   and the EU Digital Markets Act precedent excluded 99% of queries after
-  filtering (op. pp. 161–164). Whether it does is [QUESTION-tmp5fmg2](../questions.d/QUESTION-tmp5fmg2.md).
+  filtering (op. pp. 161–164). Whether it does is [QUESTION-352](../questions.d/QUESTION-352.md).
 - **That search data is a moat for LLMs.** The court found plaintiffs "did
   not establish that Google's scale advantage in Search translates into a
   quality advantage in GenAI search-assisted responses" (op. p. 156), and

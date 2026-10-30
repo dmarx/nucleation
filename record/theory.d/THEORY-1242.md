@@ -1,5 +1,8 @@
 ---
+number: 1242
 status: Proposed
+formerly:
+- THEORY-tmpqpx0q
 promote_when: >-
   A primary study, read by the record, that computes ideal-observer
   performance for one visual task at successive stages of the visual system
@@ -29,7 +32,7 @@ summary: >-
   Banks, Geisler and Bennett 1987) is read.
 ---
 
-# THEORY-tmpqpx0q: In early-vision tasks, human performance varies across conditions as the information available at the retinal output does, while falling well below the retinal-stage ideal, so substantial losses lie in central factors
+# THEORY-1242: In early-vision tasks, human performance varies across conditions as the information available at the retinal output does, while falling well below the retinal-stage ideal, so substantial losses lie in central factors
 
 ## Source
 

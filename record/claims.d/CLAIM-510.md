@@ -1,5 +1,8 @@
 ---
+number: 510
 status: Proposed
+formerly:
+- CLAIM-tmp665pn
 title: 'Measurement can establish, and not only estimate, a correspondence among local descriptions: some correspondences that measurement estimates can be checked against evidence the measurement did not itself produce'
 version: 1
 role: thesis
@@ -31,7 +34,7 @@ summary: >-
   independently validated. No held case meets it yet.
 ---
 
-# CLAIM-tmp665pn: Measurement can establish, and not only estimate, a correspondence among local descriptions: some correspondences that measurement estimates can be checked against evidence the measurement did not itself produce
+# CLAIM-510: Measurement can establish, and not only estimate, a correspondence among local descriptions: some correspondences that measurement estimates can be checked against evidence the measurement did not itself produce
 
 ## The claim
 

@@ -1,5 +1,8 @@
 ---
+number: 1238
 status: Proposed
+formerly:
+- THEORY-tmpmi9cv
 promote_when: >-
   Two results, of different kinds. For the representation: an independent
   round-trip test of the DISINFOX mapping (incidents in, STIX out, back
@@ -29,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-083 — Proposed; the preprint this thesis comes from, read in full in NOTE-028 -->
 
-# THEORY-tmpmi9cv: Disinformation incidents carried in STIX 2.1 as the DISINFOX mapping carries them are an interoperable representation that survives exchange between organisations, and sharing them in this form improves analysts' correlation and exposure of incidents and their reuse of labels
+# THEORY-1238: Disinformation incidents carried in STIX 2.1 as the DISINFOX mapping carries them are an interoperable representation that survives exchange between organisations, and sharing them in this form improves analysts' correlation and exposure of incidents and their reuse of labels
 
 ## Source
 

@@ -14,7 +14,7 @@ history:
     review, at the status review's ruling (the owner delegated these
     rulings; ADR-065): THEORY-624 was narrowed to a report of what
     Orseau, McGill and Legg do and argue, and the rival account, their
-    relative definition of agency, is now THEORY-tmpj60c9, Proposed,
+    relative definition of agency, is now THEORY-1236, Proposed,
     which carries the edge. Status, title and claims are unchanged.
 tags:
 - agency
@@ -31,7 +31,7 @@ answers:
 bears_on:
 - QUESTION-032
 ---
-<!-- inactive-ok-file: THEORY-249 THEORY-tmpj60c9 — Proposed; the frame objection and the rival account, cited as open -->
+<!-- inactive-ok-file: THEORY-249 THEORY-1236 — Proposed; the frame objection and the rival account, cited as open -->
 
 
 # THEORY-801: Agents are the systems that would adapt their policy were their actions to affect the world differently, so the agent is wherever that adaptation is: a thermostat is not an agent while it together with its design process is, an RL training process is while its learnt policy generally is not, and humans are
@@ -60,7 +60,7 @@ the verdicts in prose from the definition.
   definition is operational in principle, not that it picks out agency.
 - Against it: the verdicts depend on the chosen variables (§5.1–5.2), the
   frame problem [THEORY-249](THEORY-249.md) presses, and mechanism interventions are not
-  available for most systems of interest. [THEORY-tmpj60c9](THEORY-tmpj60c9.md) is a rival account, and [THEORY-624](THEORY-624.md) reports the paper that proposes it.
+  available for most systems of interest. [THEORY-1236](THEORY-1236.md) is a rival account, and [THEORY-624](THEORY-624.md) reports the paper that proposes it.
 - The owner's question on conditional theorems whose promote_when moves
   to a QUESTION ([THEORY-185](THEORY-185.md), -133, -419, -527) is not decided by filing
   this.

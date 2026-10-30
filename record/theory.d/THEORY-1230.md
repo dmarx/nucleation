@@ -1,5 +1,8 @@
 ---
+number: 1230
 status: Proposed
+formerly:
+- THEORY-tmp07j62
 promote_when: >-
   A general result, inside relational quantum mechanics as defined in this
   paper (facts fixed by interaction, the classical sum rule only within
@@ -31,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-621 — Proposed; the sibling account from another source, cited as open -->
 
-# THEORY-tmp07j62: In relational quantum mechanics, with facts fixed by interaction and the classical sum rule used only within one context or where facts are stable, facts relative to different systems never yield contradictory predictions in extended Wigner's-friend scenarios, and a superobserver's later facts agree with his friend's
+# THEORY-1230: In relational quantum mechanics, with facts fixed by interaction and the classical sum rule used only within one context or where facts are stable, facts relative to different systems never yield contradictory predictions in extended Wigner's-friend scenarios, and a superobserver's later facts agree with his friend's
 
 ## Source
 

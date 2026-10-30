@@ -1,5 +1,8 @@
 ---
+number: 1232
 status: Proposed
+formerly:
+- THEORY-tmp771g4
 promote_when: >-
   An analysis of the Friedkin–Johnsen reflected-appraisal map (Eqs. 6, 9
   and 10 of LIT-1404) that finds its fixed points and their stability for
@@ -29,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-916 — Proposed; the DeGroot–Friedkin account the comparison rests on, cited as open -->
 
-# THEORY-tmp771g4: Under reflected appraisal across issues, whether power concentrates in one member depends on the single-issue step: with Friedkin–Johnsen anchoring on initial positions almost every random strongly connected group evolves to a single leader, and with DeGroot consensus the same random complete networks keep power spread
+# THEORY-1232: Under reflected appraisal across issues, whether power concentrates in one member depends on the single-issue step: with Friedkin–Johnsen anchoring on initial positions almost every random strongly connected group evolves to a single leader, and with DeGroot consensus the same random complete networks keep power spread
 
 ## Source
 

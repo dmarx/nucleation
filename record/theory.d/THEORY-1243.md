@@ -1,5 +1,8 @@
 ---
+number: 1243
 status: Proposed
+formerly:
+- THEORY-tmpsudhw
 promote_when: >-
   Evidence on which way the traits of a real incipient endosymbiosis enter
   its dynamics: whether a partner's free-living growth falls with its own
@@ -35,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
-# THEORY-tmpsudhw: In incipient endosymbioses in nature, mutual dependence evolves ahead of reproductive cohesion, so that endosymbioses are more likely to be mutually dependent than cohesive
+# THEORY-1243: In incipient endosymbioses in nature, mutual dependence evolves ahead of reproductive cohesion, so that endosymbioses are more likely to be mutually dependent than cohesive
 
 ## Source
 

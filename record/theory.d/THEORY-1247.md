@@ -1,5 +1,8 @@
 ---
+number: 1247
 status: Active
+formerly:
+- THEORY-tmpwf9vz
 title: 'Griesemer and Shavit propose, as a first and rough sketch, that a collective becomes a new level of individuality only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it, some core interactions have become generatively entrenched, and it has organizational closure, and that such a community can be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone'
 version: 1
 tags:
@@ -23,7 +26,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-418 — Proposed; the account that extends this one and holds the question whether the proposal is right -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose proposal this entry reports -->
 
-# THEORY-tmpwf9vz: Griesemer and Shavit propose, as a first and rough sketch, that a collective becomes a new level of individuality only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it, some core interactions have become generatively entrenched, and it has organizational closure, and that such a community can be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone
+# THEORY-1247: Griesemer and Shavit propose, as a first and rough sketch, that a collective becomes a new level of individuality only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it, some core interactions have become generatively entrenched, and it has organizational closure, and that such a community can be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone
 
 ## Source
 

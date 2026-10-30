@@ -1,5 +1,8 @@
 ---
+number: 350
 status: Open
+formerly:
+- QUESTION-tmp2s3h6
 title: 'With V1/V2 and category-selective cortex densely sampled in the same subjects, during clearly seen images held for over a second, is content-specific gamma-band phase or amplitude coupling between them, with the evoked response removed, again brief or absent at a sensitivity that detects it elsewhere, or is it sustained for the duration of the image?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   grant that the null "could stem from methodological limitations".
 ---
 
-# QUESTION-tmp2s3h6: With V1/V2 and category-selective cortex densely sampled in the same subjects, during clearly seen images held for over a second, is content-specific gamma-band phase or amplitude coupling between them, with the evoked response removed, again brief or absent at a sensitivity that detects it elsewhere, or is it sustained for the duration of the image?
+# QUESTION-350: With V1/V2 and category-selective cortex densely sampled in the same subjects, during clearly seen images held for over a second, is content-specific gamma-band phase or amplitude coupling between them, with the evoked response removed, again brief or absent at a sensitivity that detects it elsewhere, or is it sustained for the duration of the image?
 
 ## Why it is a question
 

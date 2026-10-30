@@ -15,7 +15,7 @@ history:
     from the submitted preprint, with "content" in the authors' broad
     sense as the body says; nothing in the record contradicts it. What
     the condition asked beyond the title, practitioners' own reports,
-    moves to THEORY-tmpvrkbi, Proposed, which extends this entry and
+    moves to THEORY-1246, Proposed, which extends this entry and
     keeps the condition word for word (ADR-065 §3). The old
     promote_when: "Participant-based first-person evidence, not
     teachers' texts: reports gathered from practitioners of at least two
@@ -49,7 +49,7 @@ summary: >-
   about what practitioners experience, and "not truly contentless" depends
   on counting calm or simplicity as content.
 ---
-<!-- inactive-ok-file: THEORY-tmpvrkbi — Proposed; filed beside this reading by the twenty-fourth status review: the thesis about the experiences themselves -->
+<!-- inactive-ok-file: THEORY-1246 — Proposed; filed beside this reading by the twenty-fourth status review: the thesis about the experiences themselves -->
 <!-- inactive-ok-file: CLAIM-412 CLAIM-411 TERM-073 TERM-072 THEORY-063 — Proposed; the claims, terms and accounts this one bears on, named and not leaned on -->
 
 # THEORY-866: Expert texts of Shamatha, Transcendental and Stillness Meditation describe their so-called contentless goal-states as lacking thoughts, perceptions, images and memories but keeping many forms of content, and as differing across the practices in attentional stability and vividness

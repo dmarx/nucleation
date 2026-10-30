@@ -19,7 +19,7 @@ history:
     and to policies with every probability at least β, and the
     experiment is reported with its hedges, three games, one temperature,
     by eye. The wide form, which Kaisers and Tuyls assert, is kept as
-    THEORY-tmpdpn31, Proposed, which extends this entry and inherits the
+    THEORY-1234, Proposed, which extends this entry and inherits the
     promote_when (ADR-047, kind 1). The old title: The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is exact for frequency-adjusted Q-learning, not for Q-learning, whose expected update carries an extra factor of each action's selection probability and whose trajectories in 2×2 games depart from the model depending on initialization. The old
     promote_when: The 2003 derivation (LIT-1501) read and found to assume, as Kaisers and Tuyls say, that every Q-value changes at rate α; and a quantitative comparison, not only plots, of Q-learning and frequency-adjusted Q-learning against the model's predicted trajectories in 2×2 games over a range of temperatures, showing the frequency-adjusted learner within noise of the model and Q-learning off it in an initialization-dependent way. It is refuted if plain Q-learning with small steps matches the model as closely as the frequency-adjusted learner across initializations. Results in multi-state tasks are wider than this and neither promote nor refute it.
 tags:
@@ -35,11 +35,11 @@ summary: >-
   which is not read. The derivation of the discrepancy and of the
   frequency adjustment was re-derived and second-checked at the status
   review of 2026-10-30. The experiments are three games, one temperature,
-  compared by eye; whether Q-learning departs in general is [THEORY-tmpdpn31](THEORY-tmpdpn31.md).
+  compared by eye; whether Q-learning departs in general is [THEORY-1234](THEORY-1234.md).
 ---
 <!-- inactive-ok-file: LIT-1501 NOTE-1140 CLAIM-446 — Proposed, Unavailable or new; the sources and the accounts this bears on, named -->
 
-<!-- inactive-ok-file: THEORY-tmpdpn31 — Proposed; the wide form this entry was narrowed from, which extends it -->
+<!-- inactive-ok-file: THEORY-1234 — Proposed; the wide form this entry was narrowed from, which extends it -->
 
 # THEORY-932: The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is, in the small-step limit, the expected dynamics of a learner that updates every action's value each step, and so of frequency-adjusted Q-learning wherever every action's probability is at least its adjustment parameter; it is not that of Q-learning, whose expected update carries an extra factor of each action's selection probability, so that its policy dynamics depend on the Q-values; in Kaisers and Tuyls's three 2×2 games at one temperature, compared by eye, Q-learning's trajectories departed from the model depending on initialization and the frequency-adjusted learner's followed it
 
@@ -130,5 +130,5 @@ The title said the model is "exact for frequency-adjusted Q-learning"
 without condition, and that Q-learning's trajectories "in 2×2 games"
 depart from it depending on initialization. The paper asserts both in
 general, from three games at τ = 0.1 compared by eye. The general form is
-kept as [THEORY-tmpdpn31](THEORY-tmpdpn31.md), Proposed, which extends this entry and inherits
+kept as [THEORY-1234](THEORY-1234.md), Proposed, which extends this entry and inherits
 the old promote_when ([ADR-047](../decisions.d/ADR-047.md)'s kind 1).

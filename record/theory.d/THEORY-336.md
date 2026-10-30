@@ -33,7 +33,7 @@ history:
     from that ideal's. Another review restating the logic, or a further fit
     of a single ideal at one stage, cannot settle it: the clause is about
     the comparison across stages." The review asserts the parallel itself,
-    so that thesis moves to THEORY-tmpqpx0q, Proposed, which extends this
+    so that thesis moves to THEORY-1242, Proposed, which extends this
     entry and keeps the condition word for word (ADR-065 §3).
 tags:
 - cognition

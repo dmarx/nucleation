@@ -1,5 +1,8 @@
 ---
+number: 1235
 status: Proposed
+formerly:
+- THEORY-tmpgj1yq
 promote_when: >-
   An experimental evolution study in which a loss-of-function mutant of a
   costly, leaky function invades a population or community, with its
@@ -34,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
-# THEORY-tmpgj1yq: Losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
+# THEORY-1235: Losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
 
 ## Source
 

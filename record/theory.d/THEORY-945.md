@@ -19,7 +19,7 @@ history:
     attributed, with the gap the reading found in its proof. The
     experiment is named as the one task it was, at two sizes. And "the
     authors call strong" now names the one assumption they call so. The
-    old title, which the paper asserts, is kept as THEORY-tmp3xe34,
+    old title, which the paper asserts, is kept as THEORY-1231,
     Proposed, which extends this entry and inherits the promote_when
     (ADR-047, kind 1). The old title: When each agent's Q-function is approximated as an average of pairwise terms and expanded about the mean action of its neighbours, the first-order term vanishes and the approximation error is a second-order remainder bounded by the curvature of the pairwise Q-function, leaving a two-body problem between an agent and its neighbours' average; with homogeneous agents, mean field Q-learning converges to the Nash Q-value under assumptions the authors call strong, and learned tasks of 500 and 1000 agents where independent and centralized-critic baselines failed. The old promote_when:
     A checked derivation, recorded here, of the expansion that removes the first-order term and of the remainder bound (made when filed, from NOTE-1148), together with either a proof that reconciles the contraction condition (Boltzmann temperature above K/2) with the greedy-in-the-limit assumption, or an independent replication in which mean field Q-learning learns tasks of hundreds of homogeneous agents where independent learners fail. It is refuted if the expansion's first-order term does not vanish, or if replications with heterogeneous but exchangeable agents fail where the paper's succeed. Results for agents that are not exchangeable within a neighbourhood fall outside it and neither promote nor refute it.
@@ -39,10 +39,10 @@ summary: >-
   high temperature while it assumes a greedy limit, and the cancellation
   of remainders is argued from homogeneity, not proved. The approximation
   requires agents interchangeable within a neighbourhood. Whether the
-  method works as claimed is [THEORY-tmp3xe34](THEORY-tmp3xe34.md).
+  method works as claimed is [THEORY-1231](THEORY-1231.md).
 ---
 
-<!-- inactive-ok-file: THEORY-tmp3xe34 — Proposed; the wide form this entry was narrowed from, which extends it -->
+<!-- inactive-ok-file: THEORY-1231 — Proposed; the wide form this entry was narrowed from, which extends it -->
 
 # THEORY-945: When each agent's Q-function is approximated as an average of pairwise terms and expanded about the mean action of its neighbours, the first-order term vanishes and the approximation error is a second-order remainder bounded by the curvature of the pairwise Q-function, leaving a two-body problem between an agent and its neighbours' average; Yang et al. state that with homogeneous agents mean field Q-learning converges to the Nash Q-value under three assumptions, one of which they call a strong constraint, by a proof whose contraction step needs a temperature above K/2 while its greedy-in-the-limit assumption needs the temperature to fall to zero; in their Gaussian Squeeze runs with 500 and 1000 agents, mean field Q-learning and actor-critic learned the optimal allocation where independent learners, FMQ, Rec-FMQ and a MADDPG variant failed
 
@@ -123,6 +123,6 @@ Q-value under the authors' assumptions. The record found that the proof
 needs a temperature above K/2 for its contraction, while it assumes a
 greedy limit. So convergence is reported, not held. The title also said
 "tasks" of 500 and 1000 agents where it was one task at two sizes. The
-wide form, which the paper asserts, is kept as [THEORY-tmp3xe34](THEORY-tmp3xe34.md), Proposed,
+wide form, which the paper asserts, is kept as [THEORY-1231](THEORY-1231.md), Proposed,
 which extends this entry and inherits the old promote_when ([ADR-047](../decisions.d/ADR-047.md)'s kind
 1). The plural "tasks" was a mis-statement and is recorded here only.

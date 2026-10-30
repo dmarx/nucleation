@@ -27,7 +27,7 @@ history:
     where particular designs sit, not what no design can reach." The paper
     asserts the trade itself ("we show through the RUM Conjecture that
     creating the ultimate access method is infeasible"), so that thesis
-    moves to THEORY-tmptf9gh, Proposed, which extends this entry and keeps
+    moves to THEORY-1244, Proposed, which extends this entry and keeps
     the condition word for word (ADR-065 §3).
 tags:
 - databases

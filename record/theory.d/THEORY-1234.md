@@ -1,5 +1,8 @@
 ---
+number: 1234
 status: Proposed
+formerly:
+- THEORY-tmpdpn31
 title: 'The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is exact for frequency-adjusted Q-learning, not for Q-learning, whose expected update carries an extra factor of each action''s selection probability and whose trajectories in 2×2 games depart from the model depending on initialization'
 version: 1
 tags:
@@ -32,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1501 — Unavailable; the model Kaisers and Tuyls correct, known here only through them -->
 
-# THEORY-tmpdpn31: The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is exact for frequency-adjusted Q-learning, not for Q-learning, whose expected update carries an extra factor of each action's selection probability and whose trajectories in 2×2 games depart from the model depending on initialization
+# THEORY-1234: The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateless games is exact for frequency-adjusted Q-learning, not for Q-learning, whose expected update carries an extra factor of each action's selection probability and whose trajectories in 2×2 games depart from the model depending on initialization
 
 ## Source
 

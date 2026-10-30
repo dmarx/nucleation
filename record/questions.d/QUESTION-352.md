@@ -1,5 +1,8 @@
 ---
+number: 352
 status: Open
+formerly:
+- QUESTION-tmp5fmg2
 title: 'Once Qualified Competitors have used the index snapshot, the Glue and RankEmbed data and the syndication licence ordered in United States v. Google, do their results close the gap on long-tail queries, and does their search share move, compared with rivals or periods without the data?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   the decree did.
 ---
 
-# QUESTION-tmp5fmg2: Once Qualified Competitors have used the index snapshot, the Glue and RankEmbed data and the syndication licence ordered in United States v. Google, do their results close the gap on long-tail queries, and does their search share move, compared with rivals or periods without the data?
+# QUESTION-352: Once Qualified Competitors have used the index snapshot, the Glue and RankEmbed data and the syndication licence ordered in United States v. Google, do their results close the gap on long-tail queries, and does their search share move, compared with rivals or periods without the data?
 
 ## Why it is a question
 

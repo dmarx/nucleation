@@ -28,7 +28,7 @@ history:
     (ADR-047 kind 3; see the note of 2026-10-30). Nothing in the record
     contradicts the report. The condition asked for comparative and
     demographic evidence from real symbioses, which the authors call
-    imperative but do not assert, so it moves to QUESTION-tmp8bdij
+    imperative but do not assert, so it moves to QUESTION-353
     (ADR-065 §3). The answers edge on QUESTION-277 is moved to bears_on
     (ADR-060). The old title: "In Athreya, Czuppon and Gokhale's model
     of an incipient endosymbiosis, the partner with the larger and
@@ -74,7 +74,7 @@ summary: >-
   authors take the model as a null: a transition "is far from an
   inevitable outcome of the existence of a higher level of selection".
 ---
-<!-- inactive-ok-file: QUESTION-tmp8bdij — Open; the question this entry's old condition moved to -->
+<!-- inactive-ok-file: QUESTION-353 — Open; the question this entry's old condition moved to -->
 <!-- inactive-ok-file: QUESTION-277 THEORY-141 THEORY-443 CASE-173 CASE-177 — Open or Proposed; the question, accounts and cases this is set beside, nothing here rests on them -->
 # THEORY-1051: In Athreya, Czuppon and Gokhale's model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, which the authors read as a Red King effect in which the collective's shared fate aligns interests; with equal within-collective rates for both partners, the other partner's dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective; and in its simulations dependence rose from zero at the higher collective carrying capacities tried and not at the lowest, under a condition the authors show sufficient and not necessary, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default
 
@@ -139,7 +139,7 @@ capacity is high enough". The simulations show traits leaving (0,0) at K_C = 50
 and 500 and not at 10, and the authors' condition K_C > aK_HK_S/d is shown
 sufficient, not necessary ([NOTE-1211](../notes.d/NOTE-1211.md), C3). Only b_H = b_S and d_H = d_S were
 simulated. Whether real symbioses bear out the model's predictions is
-[QUESTION-tmp8bdij](../questions.d/QUESTION-tmp8bdij.md).
+[QUESTION-353](../questions.d/QUESTION-353.md).
 
 ## Connections
 

@@ -1,5 +1,8 @@
 ---
+number: 1244
 status: Proposed
+formerly:
+- THEORY-tmptf9gh
 promote_when: >-
   A proof, in a stated cost model (cell-probe, external-memory or the like)
   and for a stated set of operations, of a quantified version: a lower bound
@@ -26,7 +29,7 @@ summary: >-
   entry's question.
 ---
 
-# THEORY-tmptf9gh: No access method is optimal on read, update and memory overhead at once: bounding any two of the three forces the third above a hard lower bound that cannot be further reduced
+# THEORY-1244: No access method is optimal on read, update and memory overhead at once: bounding any two of the three forces the third above a hard lower bound that cannot be further reduced
 
 ## Source
 

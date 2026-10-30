@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [30 Oct 18:30 — The twenty-fourth status review: ADR-065 swept by reading](2026-10.md#the-twenty-fourth-status-review-adr-065-swept-by-reading)
 - [30 Oct 17:14 — The twenty-third status review: held entries rechecked when what they wait on moved](2026-10.md#the-twenty-third-status-review-held-entries-rechecked-when-what-they-wait-on-moved)
 - [30 Oct 08:29 — The twenty-second status review: ADR-065 applied to 58 readings](2026-10.md#the-twenty-second-status-review-adr-065-applied-to-58-readings)
 - [30 Oct 08:00 — Readable substitutes for unread works: 38 readings filed, four claims promoted, Le Cam's criterion derived](2026-10.md#readable-substitutes-for-unread-works-38-readings-filed-four-claims-promoted-le-cams-criterion-derived)
@@ -123,8 +124,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-114 entries across 1 book, newest first.
+115 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 114 | 2026-10-07 | 2026-10-30 |
+| [2026-10](2026-10.md) | 115 | 2026-10-07 | 2026-10-30 |

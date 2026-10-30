@@ -1,5 +1,8 @@
 ---
+number: 359
 status: Open
+formerly:
+- QUESTION-tmpugz1x
 title: 'Is the revision closure of Aevyra''s The Ledger of Will, Proposition 4, the Moore–Nerode minimal-machine construction applied to the expanded target family {T_d ∘ J_u}, under the same hypotheses, as its authors say?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   Moore (1956), Nerode (1958) or a standard automata text.
 ---
 
-# QUESTION-tmpugz1x: Is the revision closure of Aevyra's The Ledger of Will, Proposition 4, the Moore–Nerode minimal-machine construction applied to the expanded target family {T_d ∘ J_u}, under the same hypotheses, as its authors say?
+# QUESTION-359: Is the revision closure of Aevyra's The Ledger of Will, Proposition 4, the Moore–Nerode minimal-machine construction applied to the expanded target family {T_d ∘ J_u}, under the same hypotheses, as its authors say?
 
 ## Why it is a question
 

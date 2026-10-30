@@ -28,7 +28,7 @@ history:
     More single deterministic runs on toy problems cannot settle it, and
     neither can a further derivation of which objectives are special
     cases." The old title, as the wide form the paper asserts, moves with
-    that condition, both word for word, to THEORY-tmpvevpl, Proposed, which extends
+    that condition, both word for word, to THEORY-1245, Proposed, which extends
     this entry (ADR-065 §3; ADR-047, kind 1).
 tags:
 - probabilistic-modeling
@@ -42,7 +42,7 @@ summary: >-
   layer. The recursion is a construction (strong). That it plans through
   costs rests on single deterministic runs of a T-maze and an 8 × 8 maze.
   The title keeps that scope. Active as a report of the construction and
-  of those runs; the general form is THEORY-tmpvevpl, Proposed.
+  of those runs; the general form is THEORY-1245, Proposed.
 ---
 
 <!-- inactive-ok-file: THEORY-045 THEORY-285 — Proposed; named as the record's other active-inference accounts, nothing here rests on them -->
@@ -103,7 +103,7 @@ agent too. Neither happened, in single deterministic runs.
   given A, B, C and D, its location is observed, and moves are primitive,
   which is Raja et al.'s point ([LIT-598](../literature.d/LIT-598.md)).
 - **That it plans through costs in general.** That, with tractability, is
-  [THEORY-tmpvevpl](THEORY-tmpvevpl.md), Proposed.
+  [THEORY-1245](THEORY-1245.md), Proposed.
 
 ## Connections
 

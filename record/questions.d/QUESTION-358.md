@@ -1,5 +1,8 @@
 ---
+number: 358
 status: Open
+formerly:
+- QUESTION-tmpiwx25
 title: 'Does an independent computation of the linearized plane Couette and Poiseuille operators in the energy norm reproduce transient growth of order R, resonance of order R² and a minimal destabilizing perturbation of order R⁻², with leading constants near those of Trefethen et al.''s Table 1?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   unread.
 ---
 
-# QUESTION-tmpiwx25: Does an independent computation of the linearized plane Couette and Poiseuille operators in the energy norm reproduce transient growth of order R, resonance of order R² and a minimal destabilizing perturbation of order R⁻², with leading constants near those of Trefethen et al.'s Table 1?
+# QUESTION-358: Does an independent computation of the linearized plane Couette and Poiseuille operators in the energy norm reproduce transient growth of order R, resonance of order R² and a minimal destabilizing perturbation of order R⁻², with leading constants near those of Trefethen et al.'s Table 1?
 
 ## Why it is a question
 

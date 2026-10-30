@@ -18,7 +18,7 @@ history:
     violation is offered as evidence (ADR-047 kind 3). Nothing in the
     record contradicts the report. What the condition asked beyond the
     title, a general consistency result inside RQM, moves to
-    THEORY-tmp07j62, Proposed, which extends this entry and keeps the
+    THEORY-1230, Proposed, which extends this entry and keeps the
     condition word for word (ADR-065 §3). The old title: "Di Biagio and
     Rovelli locate the Frauchiger–Renner contradiction and the violation
     of the Local Friendliness inequalities in one step, a superobserver
@@ -54,9 +54,9 @@ summary: >-
   wrong is cited to others, inter-observer agreement is one sentence, and
   an agent reasoning about himself is left undone. What the paper
   argues is held; whether relative facts cohere in general is
-  THEORY-tmp07j62's question.
+  THEORY-1230's question.
 ---
-<!-- inactive-ok-file: THEORY-tmp07j62 — Proposed; filed beside this reading by the twenty-fourth status review: the general consistency of relative facts -->
+<!-- inactive-ok-file: THEORY-1230 — Proposed; filed beside this reading by the twenty-fourth status review: the general consistency of relative facts -->
 <!-- inactive-ok-file: THEORY-621 — Proposed; the RQM rule this one shares its gap with, cited as open -->
 
 # THEORY-1081: Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; they base quantum ontology on facts relative to systems rather than on stable facts, arguing that stability is itself relational and only approximate and counting the Local Friendliness violation as evidence, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong

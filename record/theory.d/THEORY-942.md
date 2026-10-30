@@ -19,7 +19,7 @@ history:
     conjugation step. The conjugation serves the converse, that every
     asymptotically stable sink chain component contains an MCC, which the
     title does not assert. That converse, which the source asserts, is kept
-    as THEORY-tmp9386m, Proposed, which extends this entry and inherits the
+    as THEORY-1233, Proposed, which extends this entry and inherits the
     promote_when (ADR-047, kind 1). The title was narrowed for precision:
     the limit chain also moves out of transient profiles, so it is not
     only chains confined to the sinks. The body's "Only the converse is
@@ -38,12 +38,12 @@ summary: >-
   lies in one chain component follows from chain transitivity, re-derived
   and second-checked on 2026-10-30. The converse, that attracting
   components contain MCCs, rests on a conjugation step that is asserted,
-  not carried out, and is [THEORY-tmp9386m](THEORY-tmp9386m.md). Not shown: what the stationary
+  not carried out, and is [THEORY-1233](THEORY-1233.md). Not shown: what the stationary
   distribution tends to, how it splits among several sinks, or invariance
   to duplicated strategies, which the reader found it lacks.
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-tmp9386m — Proposed; the converse half of Theorem 2.4.24, which extends this entry -->
+<!-- inactive-ok-file: THEORY-1233 — Proposed; the converse half of Theorem 2.4.24, which extends this entry -->
 
 # THEORY-942: The α-Rank chain over pure strategy profiles, built from Fermi-imitation fixation probabilities in finite populations with rare mutation, has a unique stationary distribution at every finite ranking intensity; as the intensity grows without bound its transition matrix converges to that of a chain that moves only along weakly better unilateral deviations, whose closed classes are the sink strongly connected components of the game's weakly-better-response graph, on each of which it is a Markov-Conley chain, and each of which lies inside a single chain component of the replicator flow
 
@@ -77,7 +77,7 @@ Theorem 2.5.1 (p. 15, proof p. 45).
   The paper's converse, that every asymptotically stable sink chain
   component contains an MCC, is argued through a volume-preserving
   conjugation of the interior flow. That argument is asserted, not
-  carried out, and is [THEORY-tmp9386m](THEORY-tmp9386m.md).
+  carried out, and is [THEORY-1233](THEORY-1233.md).
 
 What could have come out otherwise: a sink of the better-response graph
 could have straddled two chain components, or an attracting component
@@ -92,7 +92,7 @@ could have avoided the pure profiles altogether.
 - **That every MCC is in an asymptotically stable component, or the
   converse.** Neither is proved here. The paper claims the converse, that
   every asymptotically stable sink chain component contains an MCC, and
-  that is [THEORY-tmp9386m](THEORY-tmp9386m.md).
+  that is [THEORY-1233](THEORY-1233.md).
 - **That the ranking resists padding.** In the symmetric
   single-population model, duplicating scissors in rock-paper-scissors
   moves rock to first place at every α tried ([NOTE-1156](../notes.d/NOTE-1156.md)).
@@ -140,7 +140,7 @@ reaches every other by weakly better moves, so they are pairwise chain
 equivalent, and they lie in one chain component. This step does not use
 the conjugation.
 
-4. **What the converse would need ([THEORY-tmp9386m](THEORY-tmp9386m.md)).** In log-ratio
+4. **What the converse would need ([THEORY-1233](THEORY-1233.md)).** In log-ratio
 coordinates u = log(x_{i+1}/x_1) for each population, population p's
 payoff differences do not depend on its own coordinates, so the interior
 vector field has divergence 0. That is the conjugation the paper

@@ -47,7 +47,7 @@ history:
     way out the notes of 2026-10-29 and 2026-10-30 named: no held case
     checks a measured correspondence against evidence the measurement did
     not produce, and an estimate needs none. The stronger form is the
-    record's own and is not shown false, so it is filed as CLAIM-tmp665pn,
+    record's own and is not shown false, so it is filed as CLAIM-510,
     Proposed, with the old defeater (b) (ADR-047, kind 2). Version 4's
     title read: 'Physical interconnection can generate effective
     constraints on joint behaviour; measurement can establish

@@ -1,5 +1,8 @@
 ---
+number: 355
 status: Open
+formerly:
+- QUESTION-tmpfqjj8
 title: 'Measured against the agreement between two or more native raters scoring the same translations, how close does a reference-based metric such as COMET come to that ceiling in scoring the pragmatic adequacy of LLM translations of culturally loaded utterances into English, per pragmatic phenomenon, on items chosen in advance?'
 version: 1
 tags:
@@ -13,7 +16,7 @@ summary: >-
   one rater per language, r = 0.81 has no ceiling to be read against.
 ---
 
-# QUESTION-tmpfqjj8: Measured against the agreement between two or more native raters scoring the same translations, how close does a reference-based metric such as COMET come to that ceiling in scoring the pragmatic adequacy of LLM translations of culturally loaded utterances into English, per pragmatic phenomenon, on items chosen in advance?
+# QUESTION-355: Measured against the agreement between two or more native raters scoring the same translations, how close does a reference-based metric such as COMET come to that ceiling in scoring the pragmatic adequacy of LLM translations of culturally loaded utterances into English, per pragmatic phenomenon, on items chosen in advance?
 
 ## Why it is a question
 

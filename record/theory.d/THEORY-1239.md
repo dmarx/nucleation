@@ -1,5 +1,8 @@
 ---
+number: 1239
 status: Proposed
+formerly:
+- THEORY-tmppxcqi
 title: 'No logistic system, one that separates propositions from general laws of inference, can carry commonsense knowledge, whose defaults later evidence displaces: attempts to repair its monotonicity will continue to fail'
 version: 1
 tags:
@@ -32,7 +35,7 @@ summary: >-
   half" means [THEORY-462](THEORY-462.md).
 ---
 
-# THEORY-tmppxcqi: No logistic system, one that separates propositions from general laws of inference, can carry commonsense knowledge, whose defaults later evidence displaces: attempts to repair its monotonicity will continue to fail
+# THEORY-1239: No logistic system, one that separates propositions from general laws of inference, can carry commonsense knowledge, whose defaults later evidence displaces: attempts to repair its monotonicity will continue to fail
 
 ## Source
 

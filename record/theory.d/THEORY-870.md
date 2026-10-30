@@ -14,7 +14,7 @@ history:
     The title now states the one study's measurements with its hedges,
     read in full in NOTE-1058 from bioRxiv v3; nothing in the record
     contradicts them. The generic form, which the paper asserts, moves
-    to THEORY-tmpqkkyl, Proposed, which extends this entry (ADR-047 kind
+    to THEORY-1241, Proposed, which extends this entry (ADR-047 kind
     1) and keeps the condition word for word except its
     version-of-record route, dropped because no discrepancy between
     versions is named (ADR-065 §4). The old title: "Experienced
@@ -57,7 +57,7 @@ summary: >-
   EEG, so this is a finding about a practice period and about reports,
   not a neural signature of an experience with little content.
 ---
-<!-- inactive-ok-file: THEORY-tmpqkkyl — Proposed; filed beside this reading by the twenty-fourth status review: the general form of the finding -->
+<!-- inactive-ok-file: THEORY-1241 — Proposed; filed beside this reading by the twenty-fourth status review: the general form of the finding -->
 <!-- inactive-ok-file: CLAIM-412 CLAIM-411 — Proposed; the claims this one bears on, named and not leaned on -->
 
 # THEORY-870: In one study of 33 experienced Transcendental Meditation practitioners and 33 matched controls who counted instead, the practitioners rated their session higher on a retrospective pure-awareness scale whose top was defined for them as free from content (d = 0.77), and a classifier on EEG separated meditation from counting at 65% balanced accuracy on held-out subjects and, within practitioners, meditation from rest with 88% sensitivity; the authors found no robust association between the ratings and the EEG features

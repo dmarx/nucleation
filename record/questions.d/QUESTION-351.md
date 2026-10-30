@@ -1,5 +1,8 @@
 ---
+number: 351
 status: Open
+formerly:
+- QUESTION-tmp4sz5q
 title: 'Recorded with single units or dense bilateral prefrontal sampling in a no-report or task-irrelevant design, is a clearly seen image''s category present in prefrontal cortex while its identity and orientation, decodable posteriorly in the same subjects, are absent there with Bayesian support for the absence, and does prefrontal cortex stay silent at stimulus offset under an equally sensitive test?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   open.
 ---
 
-# QUESTION-tmp4sz5q: Recorded with single units or dense bilateral prefrontal sampling in a no-report or task-irrelevant design, is a clearly seen image's category present in prefrontal cortex while its identity and orientation, decodable posteriorly in the same subjects, are absent there with Bayesian support for the absence, and does prefrontal cortex stay silent at stimulus offset under an equally sensitive test?
+# QUESTION-351: Recorded with single units or dense bilateral prefrontal sampling in a no-report or task-irrelevant design, is a clearly seen image's category present in prefrontal cortex while its identity and orientation, decodable posteriorly in the same subjects, are absent there with Bayesian support for the absence, and does prefrontal cortex stay silent at stimulus offset under an equally sensitive test?
 
 ## Why it is a question
 

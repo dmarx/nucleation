@@ -1,5 +1,8 @@
 ---
+number: 1246
 status: Proposed
+formerly:
+- THEORY-tmpvrkbi
 promote_when: >-
   Participant-based first-person evidence, not teachers' texts: reports
   gathered from practitioners of at least two of the three practices by a
@@ -33,7 +36,7 @@ summary: >-
   [THEORY-866](THEORY-866.md)'s old condition.
 ---
 
-# THEORY-tmpvrkbi: The so-called contentless goal-states of Shamatha, Transcendental and Stillness Meditation are neither truly contentless nor identical: they lack thoughts, perceptions, images and memories but keep wakefulness, calm, stillness, a non-conceptual knowing and the like, and they differ across the practices in attentional stability
+# THEORY-1246: The so-called contentless goal-states of Shamatha, Transcendental and Stillness Meditation are neither truly contentless nor identical: they lack thoughts, perceptions, images and memories but keep wakefulness, calm, stillness, a non-conceptual knowing and the like, and they differ across the practices in attentional stability
 
 ## Source
 

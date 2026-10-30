@@ -1,5 +1,8 @@
 ---
+number: 354
 status: Open
+formerly:
+- QUESTION-tmpeay6p
 title: 'Do Monderer and Shapley (1996) state, as their Lemma 2.5, that a finite strategic game has the finite improvement property exactly when it has a generalized ordinal potential, with the standard definitions of improvement path, finite improvement property and generalized ordinal potential?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1462 — Unfetched; the paper whose wording this question asks about -->
 
-# QUESTION-tmpeay6p: Do Monderer and Shapley (1996) state, as their Lemma 2.5, that a finite strategic game has the finite improvement property exactly when it has a generalized ordinal potential, with the standard definitions of improvement path, finite improvement property and generalized ordinal potential?
+# QUESTION-354: Do Monderer and Shapley (1996) state, as their Lemma 2.5, that a finite strategic game has the finite improvement property exactly when it has a generalized ordinal potential, with the standard definitions of improvement path, finite improvement property and generalized ordinal potential?
 
 ## Why it is a question
 

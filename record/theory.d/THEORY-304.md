@@ -42,7 +42,7 @@ history:
     showing growth bounded independently of R. What cannot settle it:
     experiments on transition, which bear on the conjecture this account
     excludes, not on the linear scalings." Its demand for an independent
-    computation of the same scalings moves to QUESTION-tmpiwx25; the
+    computation of the same scalings moves to QUESTION-358; the
     decision of 2026-10-19 to keep this entry Proposed predates ADR-065.
 tags:
 - natural-sciences

@@ -22,7 +22,7 @@ history:
   note: >-
     At the status review's ruling (the owner delegated these rulings);
     ADR-065 §3, ADR-057. The twenty-fourth status review split what
-    Griesemer and Shavit propose off as THEORY-tmpwf9vz, Active, a report of the
+    Griesemer and Shavit propose off as THEORY-1247, Active, a report of the
     sketch, which NOTE-173 read in full. This entry now extends it. "On
     this sketch" in the title asserts the account, so this entry keeps the
     question whether the account holds, and keeps its promote_when. The
@@ -35,7 +35,7 @@ date: '2026-10-16'
 source:
 - LIT-188
 extends:
-- THEORY-tmpwf9vz
+- THEORY-1247
 summary: >-
   Griesemer & Shavit (2023), [LIT-188](../literature.d/LIT-188.md), read in [NOTE-173](../notes.d/NOTE-173.md). A conceptual
   sketch, so called by its authors, with no model, data or operational
@@ -157,7 +157,7 @@ why the account is Proposed.
 ## Note of 2026-10-30: the proposal split off
 
 What Griesemer and Shavit propose, as distinct from whether it is right, is
-now [THEORY-tmpwf9vz](THEORY-tmpwf9vz.md), Active, and this entry extends it ([ADR-065](../decisions.d/ADR-065.md) §3). The phrase "on
+now [THEORY-1247](THEORY-1247.md), Active, and this entry extends it ([ADR-065](../decisions.d/ADR-065.md) §3). The phrase "on
 this sketch" in this title asserts the account, as "as X proposes" would.
 So this entry keeps the question whether the account holds, and its
 promote_when. The entries that test it ([CASE-171](../cases.d/CASE-171.md), [QUESTION-277](../questions.d/QUESTION-277.md)) cite this

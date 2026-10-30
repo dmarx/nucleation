@@ -1,5 +1,8 @@
 ---
+number: 356
 status: Open
+formerly:
+- QUESTION-tmpfw1ib
 title: 'In a real community whose members'' private opinions are measured independently of what they express, does a small, persistently vocal minority go with a large silent share of the majority, and does that silence, rather than conversion or network geometry alone, account for most of the gap between expressed and private opinion?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   model "should also be validated with empirical data".
 ---
 
-# QUESTION-tmpfw1ib: In a real community whose members' private opinions are measured independently of what they express, does a small, persistently vocal minority go with a large silent share of the majority, and does that silence, rather than conversion or network geometry alone, account for most of the gap between expressed and private opinion?
+# QUESTION-356: In a real community whose members' private opinions are measured independently of what they express, does a small, persistently vocal minority go with a large silent share of the majority, and does that silence, rather than conversion or network geometry alone, account for most of the gap between expressed and private opinion?
 
 ## Why it is a question
 

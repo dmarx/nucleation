@@ -32,7 +32,7 @@ history:
     operates. Nor can observational data on expressed opinion alone, which
     cannot separate silence from absence." Whether the mechanism operates in
     a real community is not what the title claims, and the authors ask for
-    it rather than assert it; it moves to QUESTION-tmpfw1ib.
+    it rather than assert it; it moves to QUESTION-356.
 tags:
 - social-science
 - network-science

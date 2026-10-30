@@ -18,7 +18,7 @@ history:
     dispute it as a criterion of agency, not as a description of the
     paper. What the condition asked beyond the title, that the
     comparison be a criterion of agency on real systems, moves to
-    THEORY-tmpj60c9, Proposed, which extends this entry and keeps the
+    THEORY-1236, Proposed, which extends this entry and keeps the
     condition word for word (ADR-065 §3), and the rivals edges move with
     it. The old title: "Whether an identified system is an agent or a
     device can be cast as Bayesian model comparison between descriptions
@@ -54,7 +54,7 @@ summary: >-
 bears_on:
 - QUESTION-032
 ---
-<!-- inactive-ok-file: THEORY-tmpj60c9 — Proposed; filed beside this reading by the twenty-fourth status review: the relative definition of agency the paper proposes -->
+<!-- inactive-ok-file: THEORY-1236 — Proposed; filed beside this reading by the twenty-fourth status review: the relative definition of agency the paper proposes -->
 <!-- inactive-ok-file: CLAIM-168 CLAIM-174 THEORY-036 THEORY-249 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited for the position it states, not leaned on -->
 
@@ -115,7 +115,7 @@ The old title said "some priors make everything look like an agent". The paper
 says only that under the speed prior, "if any device can be represented as an
 agent then everything may look like an agent" ([NOTE-705](../notes.d/NOTE-705.md), C5, argued and not
 shown). That is a dropped hedge, not a wider thesis, so it gets this note only.
-The relative definition of agency the paper proposes is [THEORY-tmpj60c9](THEORY-tmpj60c9.md), Proposed.
+The relative definition of agency the paper proposes is [THEORY-1236](THEORY-1236.md), Proposed.
 
 ## Connections
 

@@ -29,7 +29,7 @@ history:
     record contradicts them. The old "almost every random strongly
     connected group" stated a general law, beside re-runs that gave 93%
     and 96% single leaders on sparser networks of density 0.4. The
-    comparison with the DeGroot–Friedkin step stays in THEORY-tmp771g4,
+    comparison with the DeGroot–Friedkin step stays in THEORY-1232,
     Proposed, which extends this entry and keeps the old title and
     condition word for word (ADR-065 §3; ADR-047 kind 1), because it
     puts the record's own re-run beside two papers, and a THEORY is a
@@ -61,9 +61,9 @@ summary: >-
   anchoring, his simulations give a single leader in 99.0–100% of 100,000
   random networks. Re-runs on sparser networks gave 93% and 96%. The
   contrast with the DeGroot step, and which step real groups follow, are
-  not this reading's: the first is [THEORY-tmp771g4](THEORY-tmp771g4.md).
+  not this reading's: the first is [THEORY-1232](THEORY-1232.md).
 ---
-<!-- inactive-ok-file: THEORY-tmp771g4 — Proposed; filed beside this reading by the twenty-fourth status review: the comparison of the two single-issue steps -->
+<!-- inactive-ok-file: THEORY-1232 — Proposed; filed beside this reading by the twenty-fourth status review: the comparison of the two single-issue steps -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; the companion account, cited as open and not leaned on -->
 
 # THEORY-1161: In Friedkin's simulations of reflected appraisal with Friedkin–Johnsen anchoring on initial positions, 99.0–100% of 100,000 random strongly connected networks of 5 to 25 members, complete or with random zero weights, evolve to a single leader and the rest to two
@@ -108,7 +108,7 @@ almost never do.
 - **Not a comparison with the DeGroot step.** Friedkin's paper does not
   make one. The contrast with Jia et al.'s DeGroot–Friedkin model, and the
   general claim that the single-issue step decides whether power
-  concentrates, are [THEORY-tmp771g4](THEORY-tmp771g4.md), Proposed.
+  concentrates, are [THEORY-1232](THEORY-1232.md), Proposed.
 
 ## Note of 2026-10-30: the re-runs
 
@@ -213,12 +213,12 @@ print(classify(np.ones(5) / 5), classify(np.eye(5)[0]))
 The re-runs agree with Friedkin's Table 2 on complete networks, and on
 complete networks they set the two updates far apart. That comparison puts
 the record's own computation beside two papers, so it is not this
-reading's: it is [THEORY-tmp771g4](THEORY-tmp771g4.md).
+reading's: it is [THEORY-1232](THEORY-1232.md).
 
 ## Connections
 
 [CASE-092](../cases.d/CASE-092.md)'s note of 2026-10-23 asks that a coupled meaning–influence model
-be compared with "DeGroot–Friedkin" reflected appraisal. On [THEORY-tmp771g4](THEORY-tmp771g4.md)
+be compared with "DeGroot–Friedkin" reflected appraisal. On [THEORY-1232](THEORY-1232.md)
 that is two baselines with opposite predictions, and the comparison
 should name the single-issue step. [CLAIM-297](../claims.d/CLAIM-297.md)'s authority updated from
 performance has the same shape as both rules.

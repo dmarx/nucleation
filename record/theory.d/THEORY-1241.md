@@ -1,5 +1,8 @@
 ---
+number: 1241
 status: Proposed
+formerly:
+- THEORY-tmpqkkyl
 promote_when: >-
   An independent replication showing three things. First, that the
   practitioners' higher pure-awareness reports survive a report method
@@ -46,7 +49,7 @@ summary: >-
   this entry's question.
 ---
 
-# THEORY-tmpqkkyl: Experienced Transcendental Meditation practitioners report more pure awareness than matched counting controls, and multivariate EEG separates the meditation period from counting and from rest, but the reports are not shown to track any EEG feature
+# THEORY-1241: Experienced Transcendental Meditation practitioners report more pure awareness than matched counting controls, and multivariate EEG separates the meditation period from counting and from rest, but the reports are not shown to track any EEG feature
 
 ## Source
 

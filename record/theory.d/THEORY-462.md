@@ -31,7 +31,7 @@ history:
     logistic, the further claim is promoted. More examples of human
     inconsistency, or of stereotypes overridden by evidence, cannot settle
     it." The memo asserts the further claim, so it moves with that
-    condition, word for word, to THEORY-tmppxcqi, Proposed, which extends this entry
+    condition, word for word, to THEORY-1239, Proposed, which extends this entry
     (ADR-065 §3; ADR-047, kind 1).
 tags:
 - logic
@@ -49,7 +49,7 @@ summary: >-
   account takes from it only the half that holds by definition and marks
   the rest as the memo's claim. Active as the definitional half and a
   report of how the memo supports the rest; the further claim is
-  THEORY-tmppxcqi, Proposed.
+  THEORY-1239, Proposed.
 ---
 <!-- inactive-ok-file: LIT-334 — Unavailable; Gärdenfors's conceptual spaces, named as a neighbouring account, not leaned on -->
 <!-- inactive-ok-file: THEORY-057 THEORY-541 — Proposed; accounts that cite the same memo, named in Connections, not leaned on -->
@@ -102,7 +102,7 @@ assertion).
   account ("Apology!", p. 2).
 - **That logic cannot be repaired.** Non-monotonic logics were developed to
   do exactly this. The record holds no reading of them, so it does not say
-  whether they succeed. That claim is [THEORY-tmppxcqi](THEORY-tmppxcqi.md), Proposed.
+  whether they succeed. That claim is [THEORY-1239](THEORY-1239.md), Proposed.
 - **How strongly a default is bound.** The memo never says how much
   "strain" a match can bear or when a frame is given up, and it argues
   against numerical scores (§5.5; [NOTE-337](../notes.d/NOTE-337.md), Limitations).

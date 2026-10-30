@@ -33,7 +33,7 @@ history:
     the published abstract matches the preprint's. The wider thesis,
     which the authors assert ("subcortical affective processes are less
     modifiable by reappraisal than previously thought", p. 20), moves with
-    the old title to THEORY-tmpm533l, Proposed, which extends this entry
+    the old title to THEORY-1237, Proposed, which extends this entry
     and keeps the old condition without its version-of-record clause
     (ADR-065 §3 and §4; ADR-047 kind 1). The old title: "Instructed
     reappraisal lowers reported negative affect to aversive pictures

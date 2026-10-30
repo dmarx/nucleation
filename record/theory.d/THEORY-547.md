@@ -22,7 +22,7 @@ history:
     false output is a plausible continuation, a confabulation in the
     essay's sense. Nothing in the record contradicts it. What the
     condition asked beyond the title, evidence on deployed models, moves
-    to THEORY-tmppyhmx, Proposed, which extends this entry and keeps the
+    to THEORY-1240, Proposed, which extends this entry and keeps the
     condition word for word (ADR-065 §3; ADR-047 kind 1). The old
     promote_when: "Evidence on whether deployed, instruction-tuned and
     preference-tuned chat models represent truth independently of the
@@ -52,7 +52,7 @@ summary: >-
   what makes sense in the story, denies it truth-directedness and
   intention, and never uses the word "sycophancy".
 ---
-<!-- inactive-ok-file: THEORY-tmppyhmx — Proposed; filed beside this reading by the twenty-fourth status review: the wider thesis about deployed chat models -->
+<!-- inactive-ok-file: THEORY-1240 — Proposed; filed beside this reading by the twenty-fourth status review: the wider thesis about deployed chat models -->
 <!-- inactive-ok-file: THEORY-173 THEORY-461 THEORY-490 THEORY-538 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
 # THEORY-547: A language model idealized as continuing any text with a plausible next word from the collection of all plausible texts follows narrative coherence and not truth, so its false statements are confabulations within the story the context sets up; whether trained and aligned chat models keep that nature is an open empirical question the idealization does not settle

@@ -1,5 +1,8 @@
 ---
+number: 1240
 status: Proposed
+formerly:
+- THEORY-tmppyhmx
 promote_when: >-
   Evidence on whether deployed, instruction-tuned and preference-tuned
   chat models represent truth independently of the framing of the
@@ -30,7 +33,7 @@ summary: >-
   promote_when is [THEORY-547](THEORY-547.md)'s old condition, word for word.
 ---
 
-# THEORY-tmppyhmx: Trained, instruction-tuned and preference-tuned chat models keep the nature of the idealized fiction machine: what they assert follows the narrative coherence of the frame, role or story the conversation sets up, not a representation of truth that stays fixed across frames
+# THEORY-1240: Trained, instruction-tuned and preference-tuned chat models keep the nature of the idealized fiction machine: what they assert follows the narrative coherence of the frame, role or story the conversation sets up, not a representation of truth that stays fixed across frames
 
 ## Source
 

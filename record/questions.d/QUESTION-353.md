@@ -1,5 +1,8 @@
 ---
+number: 353
 status: Open
+formerly:
+- QUESTION-tmp8bdij
 title: 'Across real symbioses, does the partner with the larger and faster-growing population become obligate first more often than chance, and does the other partner''s dependence follow the balance of births and deaths inside the collective, as Athreya, Czuppon and Gokhale''s model predicts?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-277 CASE-173 — Open or Proposed; the question this refines and the case it names -->
 
-# QUESTION-tmp8bdij: Across real symbioses, does the partner with the larger and faster-growing population become obligate first more often than chance, and does the other partner's dependence follow the balance of births and deaths inside the collective, as Athreya, Czuppon and Gokhale's model predicts?
+# QUESTION-353: Across real symbioses, does the partner with the larger and faster-growing population become obligate first more often than chance, and does the other partner's dependence follow the balance of births and deaths inside the collective, as Athreya, Czuppon and Gokhale's model predicts?
 
 ## Why it is a question
 

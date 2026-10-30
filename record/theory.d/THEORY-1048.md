@@ -22,7 +22,7 @@ history:
     reports what Morris, Lenski and Zinser's hypothesis says, read in
     full in NOTE-1212, and nothing in the record contradicts the report.
     What the condition asked beyond the title, that the authors be
-    right, moves to THEORY-tmpgj1yq, Proposed, which extends this entry
+    right, moves to THEORY-1235, Proposed, which extends this entry
     and keeps the condition word for word (ADR-065 §3). The answers edge
     on QUESTION-277 is moved to bears_on (ADR-060): the reading is
     evidence on the question, not an answer to it as posed. The old
@@ -58,7 +58,7 @@ summary: >-
   on a peroxide-removing community. The dependence it produces is one-way,
   from beneficiaries to helpers, and involves no collective.
 ---
-<!-- inactive-ok-file: THEORY-tmpgj1yq — Proposed; filed beside this reading by the twenty-fourth status review: the hypothesis itself, whether it is true -->
+<!-- inactive-ok-file: THEORY-1235 — Proposed; filed beside this reading by the twenty-fourth status review: the hypothesis itself, whether it is true -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1570 LIT-1225 THEORY-141 — Open, Deferred or Proposed; the question this bears on and the accounts set beside it, nothing here rests on them -->
 # THEORY-1048: On the Black Queen Hypothesis of Morris, Lenski and Zinser, losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
 

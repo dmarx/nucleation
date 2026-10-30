@@ -26,7 +26,7 @@ history:
     the survey cannot test it, read in full in NOTE-1211 from bioRxiv
     v2; no discrepancy with the version of record is named. Nothing in
     the record contradicts it. What the condition asked beyond the
-    title, evidence from real symbioses, moves to THEORY-tmpsudhw,
+    title, evidence from real symbioses, moves to THEORY-1243,
     Proposed, which extends this entry and keeps the condition word for
     word (ADR-065 §3). The answers edge on QUESTION-277 is moved to
     bears_on (ADR-060). The old promote_when: "Evidence on which way the
@@ -64,7 +64,7 @@ summary: >-
   correlation but not of their functional coupling, which is what decides
   it.
 ---
-<!-- inactive-ok-file: THEORY-tmpsudhw — Proposed; filed beside this reading by the twenty-fourth status review: the inference the authors draw for nature -->
+<!-- inactive-ok-file: THEORY-1243 — Proposed; filed beside this reading by the twenty-fourth status review: the inference the authors draw for nature -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1605 — Open or Deferred; the question this bears on, and an unread model of host control set beside it -->
 # THEORY-1050: In Athreya, Czuppon and Gokhale's adaptive-dynamics model of an incipient endosymbiosis, mutual dependence (the product of the partners' obligacies) evolves ahead of reproductive cohesion (the product of their adhesions) early on, but only under the mapping in which each partner's free-living growth depends on its own obligacy alone while dissociation depends on both partners' adhesions; the authors' own appendix shows the bias vanishing under matched mappings and reversing under the opposite one, and their survey of real symbioses cannot test it
 

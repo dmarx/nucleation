@@ -1,5 +1,8 @@
 ---
+number: 357
 status: Open
+formerly:
+- QUESTION-tmphn7l4
 title: 'Outside MNIST and CIFAR-10, or under a second probe family such as a regularized nonlinear readout, do encoders constrained to preserve their input''s information exactly still span a range of downstream quality that includes worse than the raw input?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   experiments, under a linear probe only.
 ---
 
-# QUESTION-tmphn7l4: Outside MNIST and CIFAR-10, or under a second probe family such as a regularized nonlinear readout, do encoders constrained to preserve their input's information exactly still span a range of downstream quality that includes worse than the raw input?
+# QUESTION-357: Outside MNIST and CIFAR-10, or under a second probe family such as a regularized nonlinear readout, do encoders constrained to preserve their input's information exactly still span a range of downstream quality that includes worse than the raw input?
 
 ## Why it is a question
 

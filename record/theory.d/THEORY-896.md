@@ -29,7 +29,7 @@ history:
     and checked them by script with controls. The steps are in the note of
     2026-10-30. The title states the mathematics and attributes nothing.
     The condition asked only for the attribution's lemma number, page and
-    wording, so it moves to QUESTION-tmpeay6p (ADR-065 §3). The note of
+    wording, so it moves to QUESTION-354 (ADR-065 §3). The note of
     2026-10-30 headed "what holds it back" is removed, since nothing now
     holds the entry back; its content is in that question. The old
     promote_when: Monderer and Shapley (1996), LIT-1462, read first-hand: the lemma's wording, number and page confirmed (reported as Lemma 2.5), together with the paper's definitions of the finite improvement property and of generalized ordinal potential, and agreement with the proof given here. The mathematics is checked below. What waits is the attribution and the exact statement.

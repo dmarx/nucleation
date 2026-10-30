@@ -1,5 +1,8 @@
 ---
+number: 1237
 status: Proposed
+formerly:
+- THEORY-tmpm533l
 promote_when: >-
   A replication, with Bayes-factor evidence for the null, in an independent
   sample or with another reappraisal strategy (distancing as well as
@@ -59,7 +62,7 @@ summary: >-
   is [THEORY-871](THEORY-871.md)'s old condition, without the version-of-record clause.
 ---
 
-# THEORY-tmpm533l: Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal
+# THEORY-1237: Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal
 
 ## Source
 

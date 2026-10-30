@@ -18,7 +18,7 @@ history:
     overstated, since the intrusion set keeps a free-text description
     whose contents in the 118 incidents were not checked (ADR-047 kind
     3). What the condition asked beyond the title, an independent
-    round-trip test and a deployment study, moves to THEORY-tmpmi9cv,
+    round-trip test and a deployment study, moves to THEORY-1238,
     Proposed, which extends this entry and keeps the condition word for
     word (ADR-065 §3). The old title: "Disinformation incidents labelled
     with DISARM techniques can be carried in standard STIX 2.1 without
@@ -50,9 +50,9 @@ summary: >-
   nation-state, which is the layer the EEAS's Exposure Matrix grades in
   four tiers. What the mapping is, and that the incidents were
   ingested, is held; whether the representation survives exchange and
-  whether sharing helps is THEORY-tmpmi9cv's question.
+  whether sharing helps is THEORY-1238's question.
 ---
-<!-- inactive-ok-file: THEORY-tmpmi9cv — Proposed; filed beside this reading by the twenty-fourth status review: whether the representation survives exchange and sharing helps -->
+<!-- inactive-ok-file: THEORY-1238 — Proposed; filed beside this reading by the twenty-fourth status review: whether the representation survives exchange and sharing helps -->
 <!-- inactive-ok-file: LIT-083 — Proposed; the preprint this account reports, read in full in NOTE-028; its standing is the LIT's question -->
 
 # THEORY-651: Disinformation incidents labelled with DISARM techniques can be carried in standard STIX 2.1 without extending it, as an intrusion set that uses attack patterns, is attributed to a threat actor and targets locations; the DISINFOX mapping that moved 118 incidents into OpenCTI this way keeps only a name, a free-text description, a first-seen date and labels beside those three relationships, with no object or property for an incident's narratives, channels, evidence or countermeasures or for the confidence of its attribution

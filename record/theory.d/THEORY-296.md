@@ -31,7 +31,7 @@ history:
     duration of the image. Results from other metrics or bands, or from
     coupling with prefrontal cortex, cannot settle it." Its demand for a
     denser recording is an independent test of the same null, and moves to
-    QUESTION-tmp2s3h6.
+    QUESTION-350.
 tags:
 - consciousness
 - neuroscience
