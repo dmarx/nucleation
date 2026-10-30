@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp3zal3
 title: "Does a macro description's effective-information advantage survive when the same intervention distribution over micro states is used at both levels, and does the EI-optimal level agree with an independent interventionist test of which level the effects track?"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,12 @@ history:
     the micro exactly at its partitions and their refinements;
     Hoel's EI, uniform at each level, parts from it on Eberhardt
     and Lee's (13), (14) and note 6. The question stays Open.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    Note of 2026-10-30 added: THEORY-787 is Rejected, and the record's own
+    answer is CLAIM-tmpxk5cy by ARG-tmp2wo7e; the temporal macros are split
+    off as QUESTION-tmpzfd02. Status unchanged.
 tags:
 - causality
 - information-theory
@@ -41,7 +47,8 @@ summary: >-
 answered_by:
 - THEORY-787
 ---
-<!-- inactive-ok-file: THEORY-787 — Proposed; the causal thesis this question was filed to test, cited in the note of 2026-10-29 as open -->
+<!-- inactive-ok-file: THEORY-787 — Rejected on 2026-10-30; the causal thesis this question was filed to test, cited as such -->
+<!-- inactive-ok-file: CLAIM-tmpxk5cy ARG-tmp2wo7e QUESTION-tmpzfd02 — Proposed or Open; the record's own answer, its argument and the case split off, cited in the note of 2026-10-30 -->
 
 # QUESTION-204: Does a macro description's effective-information advantage survive when the same intervention distribution over micro states is used at both levels, and does the EI-optimal level agree with an independent interventionist test of which level the effects track?
 
@@ -145,3 +152,24 @@ Two limits keep the question Open.
   a choice [THEORY-1169](../theory.d/THEORY-1169.md) does not make.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-10-30: [THEORY-787](../theory.d/THEORY-787.md) rejected, and the record's own answer
+
+[THEORY-787](../theory.d/THEORY-787.md), the account this question was asked of, is Rejected on
+2026-10-30 at the owner's direction, by its own refutation condition: the
+first half of this question is answered no ([THEORY-1167](../theory.d/THEORY-1167.md)). The record now
+answers in its own voice. [CLAIM-tmpxk5cy](../claims.d/CLAIM-tmpxk5cy.md) (Proposed, interpretive) holds
+that a system's causes are found at the coarsest description whose
+interventions are unambiguous. [ARG-tmp2wo7e](../arguments.d/ARG-tmp2wo7e.md) sets out the inference from
+[THEORY-1167](../theory.d/THEORY-1167.md) and [THEORY-1169](../theory.d/THEORY-1169.md) to it. On the second half, that claim takes
+the common-distribution ties and causal feature learning's partitions to
+be the same level, which [THEORY-1169](../theory.d/THEORY-1169.md) shows. It takes Hoel's
+uniform-per-level EI to fail the test, which Eberhardt and Lee's (13) and
+(14) show.
+
+The temporal and spatio-temporal macros of [LIT-1038](../literature.d/LIT-1038.md), which [THEORY-1167](../theory.d/THEORY-1167.md)
+does not reach, are split off as [QUESTION-tmpzfd02](QUESTION-tmpzfd02.md). What stays open here
+is whether a graded criterion can rank lossy coarse-grainings without
+bringing a distribution back. Whether that remainder leaves this question
+Open, or makes it Answered with that part split off, is left to the
+status review. The status is unchanged.

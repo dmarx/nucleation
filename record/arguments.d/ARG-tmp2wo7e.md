@@ -1,0 +1,118 @@
+---
+status: Proposed
+title: 'From the effective-information bound and its ties to proportionality: a gain that depends on the intervention distribution is not a property of the system, the coarse-grainings that lose nothing are, and the coarsest of them is where the causes are'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Filed at the owner's direction of 2026-10-30 ("we might also justify an
+    ARG here to clarify how this CLAIM emerged"), with CLAIM-tmpxk5cy and
+    the rejection of THEORY-787 the same day.
+form: formal-application
+tags:
+- causality
+- information-theory
+- philosophy-of-science
+date: '2026-10-30'
+line: formal-apparatus
+grounds:
+- THEORY-1167
+- THEORY-1169
+- LIT-1038
+- LIT-1839
+- LIT-1843
+- LIT-1833
+concludes:
+- CLAIM-tmpxk5cy
+summary: >-
+  How the record went from [THEORY-787](../theory.d/THEORY-787.md), Hoel, Albantakis and Tononi's
+  causal emergence, to [CLAIM-tmpxk5cy](../claims.d/CLAIM-tmpxk5cy.md), proportionality. Two results the
+  record derived on 2026-10-29 are applied to the question of where a
+  system's causes are. One is the bound ([THEORY-1167](../theory.d/THEORY-1167.md)). The other is its
+  ties, which are causal feature learning's partitions ([THEORY-1169](../theory.d/THEORY-1169.md)). One
+  further premise is interpretive: that the coarsest lossless description
+  is the causal one. Proposed for that premise.
+---
+<!-- inactive-ok-file: CLAIM-tmpxk5cy — Proposed; the claim this argument concludes -->
+<!-- inactive-ok-file: THEORY-787 QUESTION-204 QUESTION-tmpzfd02 — Rejected or Open; the account this argument rejects and the questions it leaves open, cited as such -->
+
+# ARG-tmp2wo7e: From the effective-information bound and its ties to proportionality: a gain that depends on the intervention distribution is not a property of the system, the coarse-grainings that lose nothing are, and the coarsest of them is where the causes are
+
+## The inference
+
+1. **Where the macro advantage comes from.** [LIT-1038](../literature.d/LIT-1038.md) scores each level
+   with its own uniform distribution over interventions, and finds macro
+   descriptions with more effective information than the micro
+   ([THEORY-222](../theory.d/THEORY-222.md)). Score both levels with one distribution over micro
+   states, and no coarse-graining of a transition exceeds the micro
+   ([THEORY-1167](../theory.d/THEORY-1167.md), by data processing). So the advantage is the gain from
+   changing the distribution. Comolatti and Hoel concede the stationary
+   case ([LIT-1843](../literature.d/LIT-1843.md)).
+2. **Why that gain is not the system's.** The distribution is chosen by the
+   analyst. Eberhardt and Lee call the maximum-entropy choice "extraneous
+   to the system" ([LIT-1839](../literature.d/LIT-1839.md)). A quantity that changes sign when the
+   analyst changes the distribution, with the mechanism held fixed, is
+   not a property of the mechanism. [THEORY-787](../theory.d/THEORY-787.md) had tied itself to exactly
+   this test ("in trouble if the macro advantage disappears whenever the
+   same intervention distribution over micro states is used at both
+   levels"). So it is rejected on its own terms.
+3. **What survives as the system's.** The coarse-grainings that keep all
+   of the micro effective information are the same for every full-support
+   distribution ([THEORY-1169](../theory.d/THEORY-1169.md)). They merge only causes with identical
+   interventional rows, and only effects with proportional columns. So
+   which coarse-grainings lose nothing does not depend on the analyst's
+   choice. They are also the partitions that causal feature learning
+   reaches by a criterion that uses no effective information and no
+   distribution: two micro states share a macro state iff intervening to
+   either gives the same effects ([LIT-1833](../literature.d/LIT-1833.md)). Two independent routes reach
+   the same partitions.
+4. **The bridging premise.** Among the descriptions that lose no causal
+   information, the causes are found at the coarsest: a finer one draws
+   distinctions that no intervention tells apart, and a coarser one loses
+   some. This is proportionality. It is not derived here. It is the step
+   from "what loses nothing" to "where the causes are", and it is the
+   record's own.
+5. **Conclusion.** A macro description can be where a system's causes
+   are, as the proportionate one, but never by carrying more causal
+   information than the micro ([CLAIM-tmpxk5cy](../claims.d/CLAIM-tmpxk5cy.md)).
+
+Steps 1 to 3 are demonstrated: they are theorems the record checked
+numerically. Step 4 is interpretive, and the conclusion inherits its
+warrant.
+
+## Critical questions
+
+- **Does the mapping premise hold?** The results concern effective
+  information of a known transition matrix. The question is where a
+  system's causes are. The mapping takes "causal information" to be
+  effective information under some distribution with full support. That
+  is [LIT-1038](../literature.d/LIT-1038.md)'s own measure, so the application meets [THEORY-787](../theory.d/THEORY-787.md) on its
+  own ground. It does not cover measures that data processing does not
+  bound, such as per-transition or normalized ones ([LIT-1843](../literature.d/LIT-1843.md)). The claim
+  says so.
+- **Are the assumptions met?** Each has a scope limit:
+  - **A discrete, known mechanism.** Estimated systems need a threshold
+    for "the same effect". That is what [CLAIM-tmpxk5cy](../claims.d/CLAIM-tmpxk5cy.md)'s `defeated_if`
+    tests.
+  - **One transition.** Macros spanning several micro steps are not
+    covered; that case is in [QUESTION-tmpzfd02](../questions.d/QUESTION-tmpzfd02.md).
+  - **Full support.** A distribution that never intervenes on some micro
+    state cannot tell it apart from anything. Then the ties can be coarser
+    than the causal partition.
+- **Is step 4 the only reading?** No. Two rivals would stop short of it:
+  - **The micro is always the causal level, and coarse descriptions are
+    only convenient.** Step 4 answers that the extra micro distinctions
+    make no difference to any intervention, so it is the micro that is
+    disproportionate. Whether that answer is decisive is a question for
+    the philosophy of causation. Yablo's proportionality is the standard
+    statement of it, and it is named, not registered.
+  - **Several levels are equally causal.** This holds whenever a finer
+    partition is also lossless. Step 4 picks the coarsest, which is unique.
+    "Same interventional effects" is an equivalence relation, so its
+    partition is the coarsest lossless one, and every lossless partition
+    refines it ([THEORY-1169](../theory.d/THEORY-1169.md)).
+- **Would more evidence discriminate?** On estimated systems, yes: whether
+  a proportionate level is stable across thresholds and sample sizes,
+  which is the claim's `defeated_if`. On toy matrices, no: there it holds
+  by construction.
