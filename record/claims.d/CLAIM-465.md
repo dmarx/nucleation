@@ -69,3 +69,16 @@ authority stays where the emergency put it.
 - **More than one case.** One documented incident, so Proposed. A second,
   in another domain (an emergency power, a crisis team), is what would
   move it.
+
+## Note of 2026-10-30: what holds it back
+
+CASE-135, the one case, shows a release that policy provided for and that
+was not carried out (Command was to announce when the Mayday was complete,
+LIT-1374 p. 63), not escalation without a release condition; the second
+case the body asks for would need one where no release condition existed.
+The defeat condition's second clause is unanswered: TERM-017's suspension,
+when an applicable constraint may be disabled, applies to the escalated
+regime as well as the incumbent, and the claim does not say why release is
+not that. Its first clause also contradicts "What it does not say", which
+counts a lapse built into the escalation as a release condition, so the
+condition needs restating.

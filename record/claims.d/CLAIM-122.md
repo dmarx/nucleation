@@ -1,10 +1,10 @@
 ---
 number: 122
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpzeoja
 title: 'Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,20 @@ history:
     statement and a 0.5-bit deficiency (CASE-125, CLAIM-407); A17
     made it a Proposition without this claim's note of 2026-10-18. The claim
     is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Proposed → Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057). Its grounds CASE-013 and CASE-003 and its term
+    TERM-023 are Active, the objection it answers (CLAIM-089) is Rejected,
+    and CLAIM-482 answers the aggregate version this claim leaves open.
+    Nothing meets its defeat condition: CLAIM-482 shows a fitted revealed
+    preference describes a change in authority and does not predict it.
+    ARG-005's critical question, whether installing the device expresses
+    a strengthened preference, does not reach CASE-003, where policy and
+    evidence are fixed by construction, and CLAIM-407 builds the
+    supervisory test with numbers; CLAIM-407 now corroborates it
+    (ADR-058). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,6 +57,8 @@ illustrated_by:
 - CASE-125
 complements:
 - CLAIM-354
+corroborated_by:
+- CLAIM-407
 ---
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answered in part, answered in full on 2026-10-27 -->
