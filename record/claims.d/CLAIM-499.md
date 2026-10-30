@@ -59,6 +59,6 @@ deeper.
 
 The measurement its defeated_if names has not been made: no reading in the
 record tracks the barrier after alignment against depth at fixed width
-under one alignment method (QUESTION-317). It composes Entezari et al.'s
+under one alignment method ([QUESTION-317](../questions.d/QUESTION-317.md)). It composes Entezari et al.'s
 depth curves, which are before alignment, with Ferbach et al.'s width
 bound, which is sufficient and not necessary, and neither measures it.

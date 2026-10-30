@@ -72,11 +72,11 @@ authority stays where the emergency put it.
 
 ## Note of 2026-10-30: what holds it back
 
-CASE-135, the one case, shows a release that policy provided for and that
+[CASE-135](../cases.d/CASE-135.md), the one case, shows a release that policy provided for and that
 was not carried out (Command was to announce when the Mayday was complete,
-LIT-1374 p. 63), not escalation without a release condition; the second
+[LIT-1374](../literature.d/LIT-1374.md) p. 63), not escalation without a release condition; the second
 case the body asks for would need one where no release condition existed.
-The defeat condition's second clause is unanswered: TERM-017's suspension,
+The defeat condition's second clause is unanswered: [TERM-017](../terms.d/TERM-017.md)'s suspension,
 when an applicable constraint may be disabled, applies to the escalated
 regime as well as the incumbent, and the claim does not say why release is
 not that. Its first clause also contradicts "What it does not say", which

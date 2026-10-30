@@ -172,11 +172,11 @@ From the evaluation and learning-in-games readings filed the same day.
 ## Note of 2026-10-30: what holds it back
 
 Its own note of 2026-10-24 is unanswered. Sato and Crutchfield's fixed
-learning rules (THEORY-936) give switching of control with no switching of
+learning rules ([THEORY-936](../theory.d/THEORY-936.md)) give switching of control with no switching of
 regime, so the governance-instability diagnostic, "does control keep
 switching", fires on a fixed rule too, and the claim does not yet say how
 to tell the two apart, which is the second half of its defeated_if. It also
 does not say whether its cycles lie within strongly connected components or
-between them (NOTE-1156), and its title says observed coherence cannot tell
+between them ([NOTE-1156](../notes.d/NOTE-1156.md)), and its title says observed coherence cannot tell
 the three reliefs apart where the body says that holds for accommodation
 and entrenchment only.
