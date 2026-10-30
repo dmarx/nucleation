@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmphg89g
 title: 'Renderings that keep the proposition can perform a different communicative act, so preserving the proposition is not sufficient for preserving the communicative event'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -16,6 +16,18 @@ history:
     validated measure of it. THEORY-162 moves from grounds to
     corroborated_by (ADR-058). The defeated_if is restated for the
     sufficiency half.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    LIT-785 and LIT-780 leave grounds, at the nineteenth status review's
+    ruling (the owner delegated these rulings; ADR-057, ADR-058). How to
+    Do Things with Words and Forms of Talk are Unavailable and no NOTE
+    reads either, and an unread work takes no edge. The body already says
+    Austin and Goffman "are cited for it and unread here", and keeps the
+    citation. Since version 2 footing is out of the title and
+    "communicative act" is TERM-030's; the claim stands on CASE-056,
+    CASE-027 and CASE-018. The supports entries for this claim on LIT-785
+    and LIT-780 are removed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,8 +45,6 @@ works:
 grounds:
 - CASE-027
 - CASE-018
-- LIT-785
-- LIT-780
 - CASE-056
 corroborated_by:
 - THEORY-162

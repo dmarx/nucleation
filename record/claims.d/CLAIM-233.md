@@ -3,8 +3,8 @@ number: 233
 status: Active
 formerly:
 - CLAIM-tmphn6za
-title: 'The central theses'' defeat conditions pit them only against embedding, propositional or surface similarity, and every rival account the record names (functional equivalence, Gutt''s interpretive resemblance, speech-act pragmatics) also predicts that judged pragmatic observables beat text similarity'
-version: 2
+title: 'The central theses'' defeat conditions pit them only against embedding, propositional or surface similarity, and two rivals the record holds, functional equivalence as Nida states it and a proposition with its illocutionary force, also predict that judged pragmatic observables beat text similarity'
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -18,6 +18,24 @@ history:
     CLAIM-005 and CLAIM-078, Rejected; this claim keeps what the rival
     accounts predict, and undercuts that argument in place of objecting
     to the theses.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Narrowed at the nineteenth status review's ruling (the owner delegated
+    these rulings; ADR-057, ADR-058, ADR-047). The title was 'The central
+    theses' defeat conditions pit them only against embedding,
+    propositional or surface similarity, and every rival account the
+    record names (functional equivalence, Gutt's interpretive resemblance,
+    speech-act pragmatics) also predicts that judged pragmatic observables
+    beat text similarity'. What Gutt's account predicts needs Translation
+    and Relevance (LIT-784), which is Unavailable and which no NOTE reads,
+    and an unread work takes no edge; LIT-784 leaves grounds and its
+    supports entry for this claim is removed. Functional equivalence is
+    now held as Nida states it in CASE-056, which joins grounds, and
+    speech-act pragmatics as the proposition-with-force rival the body
+    already argued. The Gutt clause, the record's own extrapolation, is
+    CLAIM-tmphcevw, Proposed (ADR-047's kind 2). The claim still undercuts
+    ARG-026: one rival that passes the test suffices.
 role: granted
 warrant: interpretive
 tags:
@@ -29,7 +47,7 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-023
 grounds:
-- LIT-784
+- CASE-056
 undercuts:
 - ARG-026
 summary: >-
@@ -38,8 +56,9 @@ summary: >-
   defeat condition in the line has one form: human judgements of fidelity
   or of shared kind are predicted as well by a text-similarity score as by
   the theory's measures. [CLAIM-023](CLAIM-023.md) says the pragmatic point is not new, and
-  a functional-equivalence, relevance-theoretic or speech-act account
-  passes the same test. Granted, because it is read off the texts. It does
+  a functional-equivalence account as Nida states it, or a proposition
+  with its force, passes the same test; whether Gutt's relevance-theoretic
+  account does is CLAIM-tmphcevw, Proposed. Granted, because it is read off the texts. It does
   not say the theses are false, only that their stated tests cannot
   separate them from the positions they claim to improve on.
 ---
@@ -49,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier fidelity thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
 
-# CLAIM-233: The central theses' defeat conditions pit them only against embedding, propositional or surface similarity, and every rival account the record names (functional equivalence, Gutt's interpretive resemblance, speech-act pragmatics) also predicts that judged pragmatic observables beat text similarity
+# CLAIM-233: The central theses' defeat conditions pit them only against embedding, propositional or surface similarity, and two rivals the record holds, functional equivalence as Nida states it and a proposition with its illocutionary force, also predict that judged pragmatic observables beat text similarity
 
 ## The objection
 
@@ -68,19 +87,22 @@ score as well as by the theory's measures.
 - [CLAIM-078](CLAIM-078.md): "Structural and decision-theoretic measures add no prediction of
   communicative-identity changes beyond text similarity".
 
-No rival account the record names holds that fidelity judgements follow
+No rival account the record holds says that fidelity judgements follow
 embedding or surface similarity. [CLAIM-023](CLAIM-023.md) says the contribution is "not that
 translation is pragmatic or that speech acts change contexts, but a specified,
 testable account of which communicative distinctions a translation
-preserves". It grounds on Gutt ([LIT-784](../literature.d/LIT-784.md)), and it records that the
+preserves". It names Gutt (LIT-784, unread), and it records that the
 translation-studies works the exchange recommended (Nida, House, Reiss and
-Vermeer, Nord) are absent from the manuscript and from the record. Each of
-those positions puts fidelity in function or effect. A functional-equivalence
-account, Gutt's interpretive resemblance and plain speech-act pragmatics all
-predict that ratings of stance and footing beat embedding similarity on
-renderings built to dissociate the two. So a pass is what every one of them
-predicts, and it cannot tell the thesis from the position [CLAIM-023](CLAIM-023.md) disclaims
-as not new.
+Vermeer, Nord) are absent from the manuscript and from the record. One is
+held through quotation: Nida's principle, as CASE-056 records it, is that "the
+relationship between receptor and message should be substantially the same as
+that which existed between the original receptors and the message". That puts
+fidelity in the effect on the receiver, not in the text, so a
+functional-equivalence account predicts that ratings of stance and footing
+beat embedding similarity on renderings built to dissociate the two. A pass is
+what it predicts, and the test cannot tell the thesis from the position
+[CLAIM-023](CLAIM-023.md) disclaims as not new. Whether Gutt's interpretive resemblance
+predicts the same is CLAIM-tmphcevw's question, which waits on a reading of Gutt.
 
 The same holds for the rival [CLAIM-115](CLAIM-115.md) itself names. The manuscript's
 Abstract, as [QUESTION-021](../questions.d/QUESTION-021.md) quotes it, sets the account against "a privileged
@@ -134,3 +156,14 @@ from its rivals?". This claim keeps what the rival accounts predict,
 which is about the subject matter, and undercuts that argument. [CLAIM-232](CLAIM-232.md)
 no longer rests on it; the two complement each other. The text above is
 unchanged.
+
+## Note of 2026-10-30: narrowed to the rivals the record holds
+
+The nineteenth status review narrowed the title (ADR-057). Version 2 said
+"every rival account the record names (functional equivalence, Gutt's
+interpretive resemblance, speech-act pragmatics)" predicts a pass. Gutt is
+named and unread (LIT-784, Unavailable), so what his account predicts moves to
+CLAIM-tmphcevw, Proposed. Functional equivalence stays, held through Nida's
+principle as CASE-056 quotes it, and speech-act pragmatics stays as the
+proposition-with-force rival above. The objection to ARG-026 needs one rival
+that passes the test, and two remain.
