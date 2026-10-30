@@ -24,10 +24,10 @@ extends:
 - THEORY-1081
 summary: >-
   The consistency Di Biagio and Rovelli claim for relational quantum
-  mechanics, filed beside THEORY-1081 by the twenty-fourth status review
-  (ADR-065 §3; ADR-047 kind 1). THEORY-1081, Active, holds what they
+  mechanics, filed beside [THEORY-1081](THEORY-1081.md) by the twenty-fourth status review
+  ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1081](THEORY-1081.md), Active, holds what they
   argue; whether relative facts cohere in general is this entry's
-  question, with THEORY-1081's old condition.
+  question, with [THEORY-1081](THEORY-1081.md)'s old condition.
 ---
 <!-- inactive-ok-file: THEORY-621 — Proposed; the sibling account from another source, cited as open -->
 
@@ -35,16 +35,16 @@ summary: >-
 
 ## Source
 
-Di Biagio and Rovelli (2021), LIT-1666, read in full in NOTE-1226, §§2.2–2.3.
+Di Biagio and Rovelli (2021), [LIT-1666](../literature.d/LIT-1666.md), read in full in [NOTE-1226](../notes.d/NOTE-1226.md), §§2.2–2.3.
 The contradiction "follows from inappropriately mixing contexts" (p. 8), and
 "Wigner will always agree with his Friend about the value of L_S once he too
 interacts with them" (p. 10).
 
 ## Where the evidence stands
 
-What the paper argues is THEORY-1081, Active, which this entry extends. The
+What the paper argues is [THEORY-1081](THEORY-1081.md), Active, which this entry extends. The
 decohered case is credited to others, agreement between observers is argued
-from one entangled state's correlation (THEORY-1080), and an agent reasoning
-about an experiment on himself "has not been done within RQM yet". THEORY-621,
+from one entangled state's correlation ([THEORY-1080](THEORY-1080.md)), and an agent reasoning
+about an experiment on himself "has not been done within RQM yet". [THEORY-621](THEORY-621.md),
 Proposed, carries the same gap for Rovelli's single-friend rule from another
-source. The `promote_when` above is THEORY-1081's condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.
+source. The `promote_when` above is [THEORY-1081](THEORY-1081.md)'s condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.

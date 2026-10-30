@@ -39,8 +39,8 @@ extends:
 - THEORY-870
 summary: >-
   The general form of Chandia-Jorquera et al.'s finding, filed beside
-  THEORY-870 by the twenty-fourth status review (ADR-065 §3; ADR-047 kind
-  1). THEORY-870, Active, holds what the one study measured; whether
+  [THEORY-870](THEORY-870.md) by the twenty-fourth status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind
+  1). [THEORY-870](THEORY-870.md), Active, holds what the one study measured; whether
   practitioners in general report more pure awareness, robustly to demand,
   and whether EEG separates the practice from other effortless ones, is
   this entry's question.
@@ -50,13 +50,13 @@ summary: >-
 
 ## Source
 
-Chandia-Jorquera et al. (2026), LIT-1354, read in full in NOTE-1058 from the
+Chandia-Jorquera et al. (2026), [LIT-1354](../literature.d/LIT-1354.md), read in full in [NOTE-1058](../notes.d/NOTE-1058.md) from the
 bioRxiv v3 preprint.
 
 ## Where the evidence stands
 
 What the one study of 33 practitioners and 33 controls measured is
-THEORY-870, Active, which this entry extends. The `promote_when` above is
-THEORY-870's condition before the twenty-fourth status review narrowed and
+[THEORY-870](THEORY-870.md), Active, which this entry extends. The `promote_when` above is
+[THEORY-870](THEORY-870.md)'s condition before the twenty-fourth status review narrowed and
 promoted it, carried here unchanged except its version-of-record route,
-dropped because no discrepancy between versions is named (ADR-065 §4).
+dropped because no discrepancy between versions is named ([ADR-065](../decisions.d/ADR-065.md) §4).

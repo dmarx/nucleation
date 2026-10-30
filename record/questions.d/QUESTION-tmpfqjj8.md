@@ -8,8 +8,8 @@ tags:
 date: '2026-10-30'
 line: pragmatic-transport
 summary: >-
-  The promotion condition formerly on THEORY-1120, moved here when the
-  twenty-fourth status review narrowed and promoted it (ADR-065 §3). With
+  The promotion condition formerly on [THEORY-1120](../theory.d/THEORY-1120.md), moved here when the
+  twenty-fourth status review narrowed and promoted it ([ADR-065](../decisions.d/ADR-065.md) §3). With
   one rater per language, r = 0.81 has no ceiling to be read against.
 ---
 
@@ -17,7 +17,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1120 holds what Singh et al. measured: COMET correlates with one native
+[THEORY-1120](../theory.d/THEORY-1120.md) holds what Singh et al. measured: COMET correlates with one native
 rater per language at Pearson r = 0.813. With no second rater there is no
 inter-rater agreement, so how good that is cannot be read, and the
 per-phenomenon differences of 0.1 or less were not tested.

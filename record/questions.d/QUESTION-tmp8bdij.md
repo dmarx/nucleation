@@ -10,8 +10,8 @@ line: distributed-agency
 refines:
 - QUESTION-277
 summary: >-
-  The promotion condition formerly on THEORY-1051, moved here when the
-  twenty-fourth status review narrowed and promoted THEORY-1051 (ADR-065
+  The promotion condition formerly on [THEORY-1051](../theory.d/THEORY-1051.md), moved here when the
+  twenty-fourth status review narrowed and promoted [THEORY-1051](../theory.d/THEORY-1051.md) ([ADR-065](../decisions.d/ADR-065.md)
   §3). The model makes the prediction; whether real symbioses bear it out
   is this question.
 ---
@@ -21,10 +21,10 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1051 holds what Athreya, Czuppon and Gokhale's model shows. No growth
+[THEORY-1051](../theory.d/THEORY-1051.md) holds what Athreya, Czuppon and Gokhale's model shows. No growth
 parameters, carrying capacities or within-collective rates are measured in
 any real symbiosis, and the authors call measuring births and deaths inside
-the collective "imperative". CASE-173 and NOTE-1236 report none for
+the collective "imperative". [CASE-173](../cases.d/CASE-173.md) and [NOTE-1236](../notes.d/NOTE-1236.md) report none for
 *Buchnera*.
 
 ## What would answer it

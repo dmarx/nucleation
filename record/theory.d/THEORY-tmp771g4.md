@@ -19,13 +19,13 @@ source:
 extends:
 - THEORY-1161
 summary: >-
-  The general contrast, filed beside THEORY-1161 by the twenty-fourth
-  status review (ADR-065 §3; ADR-047 kind 1). THEORY-1161, Active, holds
+  The general contrast, filed beside [THEORY-1161](THEORY-1161.md) by the twenty-fourth
+  status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1161](THEORY-1161.md), Active, holds
   what Friedkin's simulations showed; whether the anchored step's
   autocratic fixed points attract almost every start, and the DeGroot
   step's do not, is this entry's question. Re-runs on sparse networks of
   density 0.4 gave 93% and 96% single leaders; the DeGroot side rests on
-  THEORY-916, Proposed.
+  [THEORY-916](THEORY-916.md), Proposed.
 ---
 <!-- inactive-ok-file: THEORY-916 — Proposed; the DeGroot–Friedkin account the comparison rests on, cited as open -->
 
@@ -33,18 +33,18 @@ summary: >-
 
 ## Source
 
-Friedkin (2011/2012), LIT-1404, read in full in NOTE-1374; and Jia,
-MirTabatabaei, Friedkin and Bullo (2015), LIT-1146, read in NOTE-1135, whose
-result is THEORY-916.
+Friedkin (2011/2012), [LIT-1404](../literature.d/LIT-1404.md), read in full in [NOTE-1374](../notes.d/NOTE-1374.md); and Jia,
+MirTabatabaei, Friedkin and Bullo (2015), [LIT-1146](../literature.d/LIT-1146.md), read in [NOTE-1135](../notes.d/NOTE-1135.md), whose
+result is [THEORY-916](THEORY-916.md).
 
 ## Where the evidence stands
 
-What Friedkin's simulations showed is THEORY-1161, Active, which this entry
+What Friedkin's simulations showed is [THEORY-1161](THEORY-1161.md), Active, which this entry
 extends. Neither paper compares the two single-issue steps; the comparison is
-the record's re-run, set out with its script in THEORY-1161's note of
+the record's re-run, set out with its script in [THEORY-1161](THEORY-1161.md)'s note of
 2026-10-30. On random complete networks the anchored step gave a single leader
 every time and the DeGroot step a median largest self-weight of about 0.27 and
 0.13; on strongly connected networks of density 0.4 the anchored step gave a
 single leader in 93% and 96% of runs, which sits against "almost every". Jia
-et al.'s theorem for the DeGroot step is THEORY-916, Proposed, its proofs not
-yet checked. The `promote_when` above is THEORY-1161's condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.
+et al.'s theorem for the DeGroot step is [THEORY-916](THEORY-916.md), Proposed, its proofs not
+yet checked. The `promote_when` above is [THEORY-1161](THEORY-1161.md)'s condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.
