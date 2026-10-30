@@ -85,14 +85,14 @@ distinct contexts are how people "properly locate their performances".
 
 ## Note of 2026-10-30: what holds it back
 
-Its ground THEORY-406 is Proposed and rests on Skimmed readings of boyd:
-Chapters 1, 4 and 7 are now read in full (NOTE-1432), the methods chapter
+Its ground [THEORY-406](../theory.d/THEORY-406.md) is Proposed and rests on Skimmed readings of boyd:
+Chapters 1, 4 and 7 are now read in full ([NOTE-1432](../notes.d/NOTE-1432.md)), the methods chapter
 and Chapters 5–6 are not, and no study the record holds makes the
 comparison its promote_when asks for, conflict while the audiences are kept
 apart against conflict when a channel joins them. The same reading narrows
 the evidence for the title's last clause. The collisions boyd documents
 among teenagers are mostly one presentation read by an unintended audience
 without its context, not presentations that differ by audience meeting
-(THEORY-406, "What this does not say"), and CASE-064 is of that kind too.
+([THEORY-406](../theory.d/THEORY-406.md), "What this does not say"), and [CASE-064](../cases.d/CASE-064.md) is of that kind too.
 The one case of differing presentations colliding is Carmichael's, which
 the record has only through Meyrowitz, unread.

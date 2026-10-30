@@ -335,9 +335,9 @@ interior.
 ## Note of 2026-10-30: what holds it back
 
 Defeater (b)'s candidate is still unruled: whether a symmetry or
-conservation law, or Deutsch and Marletto's possibility facts (THEORY-1066),
+conservation law, or Deutsch and Marletto's possibility facts ([THEORY-1066](../theory.d/THEORY-1066.md)),
 counts as realizing a constraint. The template still has no held domain
-case either, since CLAIM-136 and CLAIM-151 are Proposed. CLAIM-151 was
-revised on 2026-10-30 only in its edges (CLAIM-004 left rests_on, CLAIM-255
-left complements), and it stays Proposed, held by CLAIM-221's unanswered
+case either, since [CLAIM-136](CLAIM-136.md) and [CLAIM-151](CLAIM-151.md) are Proposed. [CLAIM-151](CLAIM-151.md) was
+revised on 2026-10-30 only in its edges ([CLAIM-004](CLAIM-004.md) left rests_on, [CLAIM-255](CLAIM-255.md)
+left complements), and it stays Proposed, held by [CLAIM-221](CLAIM-221.md)'s unanswered
 residue.

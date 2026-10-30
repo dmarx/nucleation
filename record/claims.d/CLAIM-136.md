@@ -203,8 +203,8 @@ way".
 
 ## Note of 2026-10-30: what holds it back
 
-Rechecked after CLAIM-132's version 2 (2026-10-30), which swaps the unread
-LIT-893 for LIT-329 in its grounds and adds a derivation; its bearing here
+Rechecked after [CLAIM-132](CLAIM-132.md)'s version 2 (2026-10-30), which swaps the unread
+[LIT-893](../literature.d/LIT-893.md) for [LIT-329](../literature.d/LIT-329.md) in its grounds and adds a derivation; its bearing here
 is unchanged. The wait is the same: the owner has not chosen between the
-strict and the weak version, and CLAIM-134 (Chakravartty's dilemma) and
-CLAIM-138 (the Newman objection) are still live, Proposed and unanswered.
+strict and the weak version, and [CLAIM-134](CLAIM-134.md) (Chakravartty's dilemma) and
+[CLAIM-138](CLAIM-138.md) (the Newman objection) are still live, Proposed and unanswered.

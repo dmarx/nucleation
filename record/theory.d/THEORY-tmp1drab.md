@@ -16,13 +16,13 @@ supports:
 - CLAIM-172
 summary: >-
   What the Haken–Kelso–Bunz paper proposes and what the first report of
-  critical fluctuations measured, split from THEORY-069 by the
-  twenty-third status review on THEORY-1110's pattern (ADR-058, ADR-065),
+  critical fluctuations measured, split from [THEORY-069](THEORY-069.md) by the
+  twenty-third status review on [THEORY-1110](THEORY-1110.md)'s pattern ([ADR-058](../decisions.d/ADR-058.md), [ADR-065](../decisions.d/ADR-065.md)),
   so that a claim needing only the model and that report can stand on it.
-  Both papers are read in full (NOTE-1424, NOTE-1433). Whether the switch
+  Both papers are read in full ([NOTE-1424](../notes.d/NOTE-1424.md), [NOTE-1433](../notes.d/NOTE-1433.md)). Whether the switch
   is a nonequilibrium phase transition with critical slowing and
   hysteresis as its warning signs, which needs relaxation-time and
-  hysteresis data neither paper shows, stays THEORY-069's question,
+  hysteresis data neither paper shows, stays [THEORY-069](THEORY-069.md)'s question,
   Proposed.
 ---
 <!-- inactive-ok-file: THEORY-069 — Proposed; the account this is split from, which holds the question whether the switch is the transition it proposes -->
@@ -31,15 +31,15 @@ summary: >-
 
 ## Source
 
-- Haken, Kelso and Bunz (1985), LIT-588, read in full in NOTE-1424: a
+- Haken, Kelso and Bunz (1985), [LIT-588](../literature.d/LIT-588.md), read in full in [NOTE-1424](../notes.d/NOTE-1424.md): a
   theory paper with one simulation and no new data. Its figures were not
   viewed; what they show is taken from their captions and the text.
-- Kelso, Scholz and Schöner (1986), LIT-1851, read in full in NOTE-1433,
+- Kelso, Scholz and Schöner (1986), [LIT-1851](../literature.d/LIT-1851.md), read in full in [NOTE-1433](../notes.d/NOTE-1433.md),
   figures included.
 
 ## What was proposed and what was measured
 
-**The model (LIT-588, §§2–3).** Relative phase φ between the hands is the
+**The model ([LIT-588](../literature.d/LIT-588.md), §§2–3).** Relative phase φ between the hands is the
 order parameter, "created by the cooperation of the individual components"
 and in turn governing them (pp. 348–349). It moves in a potential
 V = −a cos φ − b cos 2φ: in-phase and anti-phase are both stable while
@@ -53,7 +53,7 @@ relations, an abrupt switch from anti-phase to in-phase at a critical
 frequency, and the system staying in-phase when the frequency is lowered
 (p. 348).
 
-**The fluctuations (LIT-1851).** As wrist or finger movement is paced
+**The fluctuations ([LIT-1851](../literature.d/LIT-1851.md)).** As wrist or finger movement is paced
 faster, the standard deviation of relative phase rises as the anti-phase
 pattern nears the switch, peaks in the transition and falls once in-phase
 is reached; started in-phase, the same movement shows neither the switch
@@ -67,19 +67,19 @@ transition" (p. 283).
 
 - That the switch is a nonequilibrium phase transition with critical
   slowing and hysteresis as early warning. Critical slowing is predicted in
-  LIT-1851, which calls its own evidence "very preliminary"; hysteresis is
-  reported from Kelso's experiments in LIT-588 with no data. That is
-  THEORY-069's question.
+  [LIT-1851](../literature.d/LIT-1851.md), which calls its own evidence "very preliminary"; hysteresis is
+  reported from Kelso's experiments in [LIT-588](../literature.d/LIT-588.md) with no data. That is
+  [THEORY-069](THEORY-069.md)'s question.
 - That the fluctuations hold across subjects. Most subjects run are not
   shown, and in the transition region the measure partly reflects the
-  switch itself (NOTE-1433, Limitations).
+  switch itself ([NOTE-1433](../notes.d/NOTE-1433.md), Limitations).
 - That the result is replicated. Both papers are by the model's authors.
 - That HKB-like dynamics reaches beyond bimanual movement. Kelso's later
-  extensions are reported in THEORY-069, from LIT-601.
+  extensions are reported in [THEORY-069](THEORY-069.md), from [LIT-601](../literature.d/LIT-601.md).
 
 ## Connections
 
-- CLAIM-172 draws its criterion of a combined form from this model: a pair
+- [CLAIM-172](../claims.d/CLAIM-172.md) draws its criterion of a combined form from this model: a pair
   whose relative phase has its own attractors, fluctuations and switch.
-- THEORY-069 is the general account, Proposed, with the promote_when this
+- [THEORY-069](THEORY-069.md) is the general account, Proposed, with the promote_when this
   entry does not meet.

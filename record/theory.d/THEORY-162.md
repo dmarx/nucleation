@@ -123,6 +123,6 @@ applying it to translation "is a further step these sources do not take".
 against the marble and spouse, "might"-order, and declaration and assertion
 contrasts, and none is held. Mandelkern's *Bounded Meaning* (2024) and
 Elbourne (2005) are unfiled and have no open copy, so this waits on a copy
-from the owner. CLAIM-061's revision of 2026-10-30 removed two unread works
-(LIT-785, LIT-780) from its grounds and kept this reading under
+from the owner. [CLAIM-061](../claims.d/CLAIM-061.md)'s revision of 2026-10-30 removed two unread works
+([LIT-785](../literature.d/LIT-785.md), [LIT-780](../literature.d/LIT-780.md)) from its grounds and kept this reading under
 corroborated_by; it does not bear on the rival.
