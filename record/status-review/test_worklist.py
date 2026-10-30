@@ -251,3 +251,18 @@ def test_a_history_note_that_only_mentions_an_objection_does_not_write_it_in(tmp
         assert not r.written("CLAIM-012", "CLAIM-013"), note
     hist[:] = [{"version": 2, "date": "2026-10-19", "note": "Narrowed to concede CLAIM-012. Title changed."}]
     assert r.written("CLAIM-012", "CLAIM-013")
+
+
+def test_a_sole_blocker_a_recent_note_already_holds_is_not_work(tmp_path):
+    # after pass 19, 29 of 33 sole blockers had a premise or claims held by notes of that week
+    r = record(tmp_path)
+    today = date(2026, 10, 30)
+    assert r.open_sole_blockers(today) == r.sole_blockers()
+    r.bodies["CLAIM-015"] = "\n## Note of 2026-10-29: what holds it back\n\nA missing result.\n"
+    assert [p for p, _ in r.open_sole_blockers(today)] == ["TERM-001"]
+    # the claims held, not the premise: still not work while every claim is held
+    r.bodies["CLAIM-015"] = ""
+    for c in ("CLAIM-014", "CLAIM-016"):
+        r.bodies[c] = "\n## Note of 2026-10-29: what holds it back\n\nA missing result.\n"
+    assert [p for p, _ in r.open_sole_blockers(today)] == ["TERM-001"]
+    assert [p for p, _ in r.open_sole_blockers(date(2026, 11, 20))] == ["CLAIM-015", "TERM-001"]

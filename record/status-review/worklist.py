@@ -275,6 +275,13 @@ class Record:
                 held_back.setdefault(open_[0], []).append(c)
         return sorted(held_back.items(), key=lambda kv: (-len(kv[1]), kv[0]))
 
+    def open_sole_blockers(self, today: date | None = None) -> list[tuple]:
+        """Sole blockers no standing blocker note already answers: neither the premise is held,
+        nor every claim it holds back."""
+        today = today or date.today()
+        return [(p, cs) for p, cs in self.sole_blockers() if not self.held_since(p, today)
+                and not all(self.held_since(c, today) for c in cs)]
+
     def reading_depth(self, code: str) -> str | None:
         """How deeply a reading's sources are read: Read if any NOTE on a source says so."""
         return self.depth_of(set(as_list(self.docs.get(code, {}).get("source"))))
@@ -366,8 +373,9 @@ def main(root: str = "record", top: int = 30, show: str | None = None):
         print(f"### {line} ({len(codes)})")
         for c in codes:
             print(f"- {short(r, c)}")
-    sole = r.sole_blockers()
-    print(f"\n## Sole blockers (top {top} of {len(sole)}): the one unheld premise of each claim listed\n")
+    sole, all_sole = r.open_sole_blockers(today), r.sole_blockers()
+    print(f"\n## Sole blockers (top {top} of {len(sole)}; {len(all_sole) - len(sole)} more held by a recent"
+          " note): the one unheld premise of each claim listed\n")
     for t, cs in sole[:top]:
         print(f"- {len(cs):2d} {short(r, t, 70)} <- {', '.join(cs)}")
     print("\n## Blocker notes a premise has changed since\n")
