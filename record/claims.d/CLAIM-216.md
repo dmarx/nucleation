@@ -1,10 +1,21 @@
 ---
 number: 216
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpattzh
 title: "A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). It has no premise the record does not hold, no
+    objection, and no defeat condition. CLAIM-210, which its body already
+    cites for the fidelity clause not needing the ontological one, now
+    carries that in rests_on. The concession is written into CLAIM-204
+    (version 3); CLAIM-139 is Superseded and keeps the objection as
+    history. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -12,6 +23,8 @@ tags:
 - philosophy-of-language
 date: '2026-10-10'
 line: pragmatic-transport
+rests_on:
+- CLAIM-210
 objects_to:
 - CLAIM-204
 - CLAIM-139
@@ -23,7 +36,7 @@ summary: >-
   rise or fall together". The record's replies of 2026-10-10 had already
   separated the receiver thesis and the incremental thesis; the
   restatement joined the four clauses again under one defeat condition.
-  Open. It says what would answer it, and does not say an integrative
+  Active since 2026-10-30; CLAIM-204 concedes it. It says what would answer it, and does not say an integrative
   statement is useless.
 ---
 <!-- inactive-ok-file: CLAIM-204 CLAIM-139 — Proposed; the theses this objection is to, open -->
@@ -140,3 +153,11 @@ naming the study in its defeat condition, as the record's replies do.
 Open. The separate theses are filed as proposals beside [CLAIM-139](CLAIM-139.md) and
 [CLAIM-204](CLAIM-204.md), and the owner has decided neither this objection nor
 A240's recommendations.
+
+## Note of 2026-10-30: promoted
+
+The status review of this date promoted it. CLAIM-204 now records the
+concession, this objection's second answer: it is the integrative
+statement, and the separate theses carry the defeat conditions of the
+clauses its own condition does not test. A240's hierarchy and its other
+recommendations are not adopted by this.

@@ -213,3 +213,12 @@ of the speaker's intention counts as a relation in [CLAIM-151](CLAIM-151.md)'s s
 Neither text decides that. For teasing neither text says anything, and
 Bach and Harnish, the work most likely to, is unread. The objection stays
 open.
+
+## Note of 2026-10-30: what holds it back
+
+For teasing, the case left once its 2026-10-13 corrections are taken, the
+intention-based reading is missing: Bach and Harnish (LIT-1040) is unread,
+and neither Grice nor Strawson says whether standing that enters through
+the content of the intention counts as a relation (QUESTION-073). Its
+title's "holds no counter" and "plausibly meet it" are corrected by that
+note and are not restated.

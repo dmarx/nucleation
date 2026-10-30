@@ -137,3 +137,11 @@ case by case after the verdicts are known.
   [QUESTION-073](../questions.d/QUESTION-073.md) leaves open.
 - It does not say the owner holds it. It is the assistant's proposal, filed
   as a proposal.
+
+## Note of 2026-10-30: what holds it back
+
+An objection is unanswered: CLAIM-213 files the reading that this
+ontological clause carries a realist commitment that CLAIM-152, which is
+Active, says the record does not make. The record has not said whether
+kinds that events realize commit it to realism about them. Its own text
+says the study cannot test it (A232 §11), so an argument is the route.

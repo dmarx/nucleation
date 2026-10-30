@@ -76,3 +76,12 @@ and is sharper for it. Which questions a population answers determinately
 is a property of the responses, so changing it is a change of empirical
 model and not of cover. That is the conflation [CLAIM-201](CLAIM-201.md)'s operational
 "cover" risks.
+
+## Note of 2026-10-30: what holds it back
+
+Neither answer its body names is on record: no construction of the
+operational cover as a family of contexts with restriction maps, and no
+separate name for the operational notion with each entry saying which sense
+it means. Promoting it makes that renaming due on CLAIM-201, and CLAIM-257,
+CLAIM-256 and CLAIM-125, which are Active, use "cover" in the operational
+sense.

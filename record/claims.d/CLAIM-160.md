@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CLAIM-tmpdfqoo
 title: 'Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    CLAIM-255 leaves complements; it now rests on this claim (status
+    review, ADR-057). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -27,7 +33,6 @@ grounds:
 complements:
 - CLAIM-204
 - CLAIM-151
-- CLAIM-255
 uses:
 - TERM-030
 summary: >-

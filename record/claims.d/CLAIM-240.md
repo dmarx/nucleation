@@ -153,3 +153,10 @@ between populations with unequal access is access and not weighting, is
 filed as [CLAIM-458](CLAIM-458.md), a counter, Proposed. A test of this claim across
 such populations meets it by fitting weights only on the components both
 can perceive. The claim is unchanged.
+
+## Note of 2026-10-30: what holds it back
+
+The result its own text says decides it is missing: no weighting of the
+profile's components has been fitted on one set of renderings and judges
+and tested on another set from the same population against the best single
+component. CASE-067 is qualitative.
