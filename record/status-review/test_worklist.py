@@ -47,6 +47,21 @@ ENTRIES = {
     # filed the same day with the concession already in its text, and saying so
     "claims.d/CLAIM-010.md": {"status": "Proposed", "role": "thesis", "date": "2026-10-10",
                               "objected_by": ["CLAIM-009"]},
+    # one Proposed premise is all that holds two claims back, and one claim alone
+    "claims.d/CLAIM-014.md": {"status": "Proposed", "role": "thesis", "line": "l1",
+                              "rests_on": ["CLAIM-001", "CLAIM-015"]},
+    "claims.d/CLAIM-015.md": {"status": "Proposed", "role": "thesis", "line": "l2"},
+    "claims.d/CLAIM-016.md": {"status": "Proposed", "role": "thesis", "line": "l1", "grounds": ["CLAIM-015"]},
+    "claims.d/CLAIM-017.md": {"status": "Proposed", "role": "thesis", "rests_on": ["CLAIM-015", "CLAIM-002"]},
+    # readings: one read in full, one only skimmed, one with no note at all
+    "theory.d/THEORY-002.md": {"status": "Proposed", "source": ["LIT-001"]},
+    "theory.d/THEORY-003.md": {"status": "Proposed", "source": ["LIT-002"]},
+    "theory.d/THEORY-004.md": {"status": "Proposed", "source": ["LIT-003"]},
+    "notes.d/NOTE-001.md": {"status": "Read", "paper": "LIT-001"},
+    "notes.d/NOTE-002.md": {"status": "Skimmed", "paper": "LIT-002"},
+    # a Proposed reading still lists an Active claim under `supports`: the repair bot writes the
+    # converse `grounds` onto the claim, and the lint's inverted_ground then fails
+    "theory.d/THEORY-005.md": {"status": "Proposed", "source": ["LIT-001"], "supports": ["CLAIM-008"]},
 }
 
 
@@ -61,16 +76,19 @@ def record(tmp_path: Path) -> Record:
 
 def test_dependents_are_transitive(tmp_path):
     r = record(tmp_path)
-    assert r.dependents("CLAIM-002") == {"CLAIM-003", "CLAIM-004"}
+    assert r.dependents("CLAIM-002") == {"CLAIM-003", "CLAIM-004", "CLAIM-017"}
     assert r.dependents("CLAIM-004") == set()
 
 
 def test_load_bearing_lists_proposed_by_reach(tmp_path):
     rows = record(tmp_path).load_bearing()
-    assert [x["code"] for x in rows] == ["CLAIM-002", "CLAIM-003", "CLAIM-005"]  # CLAIM-005: ARG-001 rests on it
+    # CLAIM-015 and CLAIM-002 both reach three; CLAIM-015 more directly. CLAIM-005: ARG-001 rests on it
+    assert [x["code"] for x in rows] == ["CLAIM-015", "CLAIM-002", "CLAIM-003", "CLAIM-005"]
+    by = {x["code"]: x for x in rows}
     # a Superseded TERM is a premise the record no longer holds
-    assert rows[0]["reach"] == 2 and rows[0]["open_premises"] == ["TERM-001"] and rows[0]["live_objections"] == []
-    assert rows[1]["open_premises"] == ["CLAIM-002"] and rows[1]["live_objections"] == ["CLAIM-005"]
+    assert by["CLAIM-002"]["reach"] == 3 and by["CLAIM-002"]["open_premises"] == ["TERM-001"]
+    assert by["CLAIM-002"]["live_objections"] == []
+    assert by["CLAIM-003"]["open_premises"] == ["CLAIM-002"] and by["CLAIM-003"]["live_objections"] == ["CLAIM-005"]
 
 
 def test_inversions_find_active_resting_on_proposed(tmp_path):
@@ -94,7 +112,7 @@ def test_answered_questions_need_an_active_answer(tmp_path):
 
 def test_unblocked_means_premises_active_and_no_live_objection(tmp_path):
     # CLAIM-002 uses a retired TERM, CLAIM-003 has a live objection; the counters have neither
-    assert record(tmp_path).unblocked() == ["CLAIM-005", "CLAIM-011"]
+    assert record(tmp_path).unblocked() == ["CLAIM-005", "CLAIM-011", "CLAIM-015"]
 
 
 def test_successors_are_followed_to_a_live_entry(tmp_path):
@@ -140,3 +158,40 @@ def test_a_recent_blocker_note_holds_an_entry_out_of_the_work(tmp_path):
     assert "CLAIM-003" not in work and held == ["CLAIM-003"]
     # after HELD_DAYS the note is stale and the entry is work again
     assert "CLAIM-003" in [x["code"] for x in r.load_bearing(today=date(2026, 11, 10))]
+
+
+def test_ready_leaves_out_unblocked_claims_a_recent_blocker_note_holds(tmp_path):
+    # the unblocked list read no blocker notes, so a pass re-read what the last one had decided
+    r = record(tmp_path)
+    r.bodies["CLAIM-011"] = "\n## Note of 2026-10-25: what holds it back\n\nA missing result.\n"
+    today = date(2026, 10, 28)
+    assert r.ready(today) == ["CLAIM-005", "CLAIM-015"]
+    assert r.held_unblocked(today) == [("CLAIM-011", date(2026, 10, 25))]
+    assert "CLAIM-011" in r.ready(date(2026, 11, 20))
+
+
+def test_sole_blockers_rank_premises_by_the_claims_each_alone_holds_back(tmp_path):
+    # CLAIM-015 is the only unheld premise of CLAIM-014 and CLAIM-016; CLAIM-017 needs CLAIM-002 too.
+    # CLAIM-003 is one premise short but has a live objection, so the premise alone would not free it.
+    # a retired premise holds a claim back too: CLAIM-002's Superseded TERM
+    assert record(tmp_path).sole_blockers() == [("CLAIM-015", ["CLAIM-014", "CLAIM-016"]), ("TERM-001", ["CLAIM-002"])]
+
+
+def test_reading_depth_is_the_best_note_on_any_source(tmp_path):
+    r = record(tmp_path)
+    assert [r.reading_depth(t) for t in ("THEORY-002", "THEORY-003", "THEORY-004")] == ["Read", "Skimmed", None]
+    # THEORY-001 names no source at all, which the lint would also report
+    assert r.unread_readings() == [("THEORY-001", None), ("THEORY-003", "Skimmed"), ("THEORY-004", None)]
+
+
+def test_a_blocker_note_is_stale_when_a_premise_it_names_has_changed_since(tmp_path):
+    r = record(tmp_path)
+    r.bodies["CLAIM-014"] = "\n## Note of 2026-10-20: what holds it back\n\nCLAIM-001 is not shown.\n"
+    assert r.stale_blockers() == []
+    r.docs["CLAIM-001"]["history"] = [{"version": 2, "date": "2026-10-22", "note": "Promoted."}]
+    assert r.stale_blockers() == [("CLAIM-014", "2026-10-20", ["CLAIM-001"])]
+
+
+def test_a_stale_converse_is_an_inversion_in_waiting(tmp_path):
+    # pass 8: the bot adds missing converses and never removes stale ones
+    assert record(tmp_path).converse_inversions() == [("THEORY-005", "CLAIM-008")]

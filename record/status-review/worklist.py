@@ -2,8 +2,11 @@
 """Derive the status-review worklist from the record's frontmatter (ADR-057).
 
 Nothing here is kept by hand: every section is recomputed from the record, so
-the worklist cannot fall behind it. Run from the repository root, on a freshly
-fetched origin/main:
+the worklist cannot fall behind it. The sections that must be empty come first,
+then the work in the order a pass takes it (ADR-057 v6): claims ready for a
+ruling, grouped by line; the premises that alone hold claims back; blocker
+notes a premise has outrun; and what is held or unread. Run from the
+repository root, on a freshly fetched origin/main:
 
     python3 record/status-review/worklist.py            # every section, top 30
     python3 record/status-review/worklist.py --top 60
@@ -16,7 +19,7 @@ from pathlib import Path
 import fire
 import yaml
 
-SCHEMES = ["claims", "theory", "terms", "questions", "cases", "arguments"]
+SCHEMES = ["claims", "theory", "terms", "questions", "cases", "arguments", "notes"]
 # dependent -> premise edges: what a document needs to be true, or to mean what it says
 NEEDS = {"CLAIM": ["rests_on", "grounds", "uses"], "THEORY": ["presupposes"], "ARG": ["rests_on", "grounds"]}
 RETIRED = {"Superseded", "Rejected"}
@@ -108,6 +111,10 @@ class Record:
         filed = [d for d, text in FILED_WITH.findall(self.bodies.get(target, "")) if objection in text]
         return any(d >= on for d in revised + filed)
 
+    def blocker_date(self, code: str) -> str | None:
+        """The date of the entry's latest blocker note, however old."""
+        return max(BLOCKER.findall(self.bodies.get(code, "")), default=None)
+
     def held_since(self, code: str, today: date) -> date | None:
         """The date of the entry's latest blocker note, if it is recent enough to stand."""
         dates = [date.fromisoformat(d) for d in BLOCKER.findall(self.bodies.get(code, ""))]
@@ -144,6 +151,16 @@ class Record:
                 for c, fm in sorted(self.docs.items()) if scheme(c) == "CLAIM" and self.status(c) == "Active"
                 for f in ("rests_on", "grounds") for t in as_list(fm.get(f))
                 if t in self.docs and self.status(t) != "Active"]
+
+    def converse_inversions(self) -> list[tuple]:
+        """Proposed readings that still list an Active claim under `supports`.
+
+        The repair bot writes the converse `grounds` onto the claim, and the lint's inverted_ground
+        then fails: a stale converse left when an edge moved, which the bot never removes.
+        """
+        return [(t, c) for t, fm in sorted(self.docs.items())
+                if scheme(t) == "THEORY" and self.status(t) != "Active"
+                for c in as_list(fm.get("supports")) if scheme(c) == "CLAIM" and self.status(c) == "Active"]
 
     def sound_unheld(self) -> list[tuple]:
         """Sound ARGs (inference Active, every premise Active) whose conclusion the record does not hold.
@@ -200,6 +217,61 @@ class Record:
                 if scheme(q) == "QUESTION" and self.status(q) == "Open"
                 for a in [[t for t in as_list(fm.get("answered_by")) if self.status(t) == "Active"]] if a]
 
+    def ready(self, today: date | None = None) -> list[str]:
+        """Unblocked CLAIMs that no standing blocker note holds: the claims a pass can rule on now."""
+        today = today or date.today()
+        return [c for c in self.unblocked() if not self.held_since(c, today)]
+
+    def held_unblocked(self, today: date | None = None) -> list[tuple]:
+        """Unblocked CLAIMs a standing blocker note holds: what they wait on is not in the graph."""
+        today = today or date.today()
+        return [(c, d) for c in self.unblocked() if (d := self.held_since(c, today))]
+
+    def sole_blockers(self) -> list[tuple]:
+        """Unheld premises ranked by how many claims each is the only thing holding back.
+
+        A claim counts when it has no live objection and exactly one premise the record does not
+        hold. Freeing the premise, or showing the edge is corroboration (ADR-058), frees the claim.
+        This replaced reach as the order of work once the reliance ranking flattened (ADR-057 v6).
+        """
+        held_back: dict[str, list[str]] = {}
+        for c in sorted(self.docs):
+            if scheme(c) != "CLAIM" or self.status(c) != "Proposed" or self.live_objections(c):
+                continue
+            open_ = sorted({t for t in self.premises(c) if scheme(t) != "LIT" and self.status(t) != "Active"})
+            if len(open_) == 1:
+                held_back.setdefault(open_[0], []).append(c)
+        return sorted(held_back.items(), key=lambda kv: (-len(kv[1]), kv[0]))
+
+    def reading_depth(self, code: str) -> str | None:
+        """How deeply a reading's sources are read: Read if any NOTE on a source says so."""
+        sources = set(as_list(self.docs.get(code, {}).get("source")))
+        depths = {self.status(n) for n, fm in self.docs.items()
+                  if scheme(n) == "NOTE" and sources & set(as_list(fm.get("paper")))}
+        return "Read" if "Read" in depths else "Skimmed" if "Skimmed" in depths else None
+
+    def unread_readings(self) -> list[tuple]:
+        """Proposed THEORYs no source of which is read in full: reading, not review, is their next step."""
+        return [(t, d) for t in sorted(self.docs) if scheme(t) == "THEORY" and self.status(t) == "Proposed"
+                and (d := self.reading_depth(t)) != "Read"]
+
+    def stale_blockers(self) -> list[tuple]:
+        """Blocker notes that name a premise of their entry which has been revised since the note.
+
+        The note says what the entry waited on; once that premise changes, the wait may be over.
+        """
+        out = []
+        for c in sorted(self.docs):
+            if self.status(c) != "Proposed" or not (d := self.blocker_date(c)):
+                continue
+            note = self.bodies[c][self.bodies[c].rfind(f"## Note of {d}: what holds it back"):]
+            changed = [t for t in self.premises(c) if re.search(rf"\b{t}\b", note)
+                       and any(str(h.get("date", "")) > d for h in self.docs[t].get("history") or []
+                               if isinstance(h, dict))]
+            if changed:
+                out.append((c, d, changed))
+        return out
+
     def unblocked(self) -> list[str]:
         """Proposed CLAIMs whose premises are all Active and that no live objection stands against."""
         return [c for c in sorted(self.docs) if scheme(c) == "CLAIM" and self.status(c) == "Proposed"
@@ -214,9 +286,13 @@ def short(r: Record, code: str, n: int = 90) -> str:
 
 def main(root: str = "record", top: int = 30, show: str | None = None):
     r = Record.load(Path(root))
+    today = date.today()
     if show:
         fm = r.docs[show]
         print(short(r, show, 200), f"| {fm.get('role')} {fm.get('warrant')}")
+        if scheme(show) == "THEORY":
+            print("sources read:", r.reading_depth(show) or "no NOTE")
+        print("blocker note:", r.blocker_date(show) or "none")
         print("defeated_if:", fm.get("defeated_if"))
         for f in NEEDS.get(scheme(show), []) + ["objected_by", "countered_by", "objects_to", "answers"]:
             for t in as_list(fm.get(f)):
@@ -224,18 +300,13 @@ def main(root: str = "record", top: int = 30, show: str | None = None):
         for d in sorted(r.needed_by.get(show, ())):
             print(f"  needed by: {short(r, d)}")
         return
-    print(f"## Load-bearing Proposed entries (top {top})\n")
-    for x in r.load_bearing()[:top]:
-        print(f"- {x['reach']:3d}/{x['direct']:<2d} {short(r, x['code'])}  "
-              f"open premises: {x['open_premises'] or '-'}; live objections: {x['live_objections'] or '-'}")
-    held = r.load_bearing(held=True)
-    print(f"\n## Held, with a blocker note under {HELD_DAYS} days old ({len(held)})\n")
-    for x in held:
-        print(f"- {x['reach']:3d}/{x['direct']:<2d} {short(r, x['code'])}  "
-              f"held since {r.held_since(x['code'], date.today())}")
-    print("\n## Credence inversions: Active CLAIMs resting on what is not held\n")
+    # 1. What must be empty: each is a finding the record contradicts itself on.
+    print("## Credence inversions: Active CLAIMs resting on what is not held\n")
     for row in r.inversions():
         print("- {} {} {} [{}]".format(*row))
+    print("\n## Stale converses: a Proposed reading still supports an Active claim\n")
+    for t, c in r.converse_inversions():
+        print(f"- {t} supports {c}")
     print("\n## Sound arguments whose conclusion is not held\n")
     for row in r.sound_unheld():
         print("- {} concludes {} [{}]".format(*row))
@@ -248,10 +319,36 @@ def main(root: str = "record", top: int = 30, show: str | None = None):
     print("\n## Open questions with an Active answer\n")
     for q, a in r.open_with_active_answer():
         print(f"- {short(r, q, 70)} <- {', '.join(a)}")
-    ub = r.unblocked()
-    print(f"\n## Unblocked Proposed CLAIMs ({len(ub)}): premises held, no live objection\n")
-    for c in ub:
-        print(f"- {short(r, c)}")
+    # 2. The work, in the order a pass takes it.
+    ready = r.ready(today)
+    print(f"\n## Ready for a ruling ({len(ready)}): premises held, no live objection, no standing blocker note\n")
+    by_line: dict[str, list[str]] = {}
+    for c in ready:
+        by_line.setdefault((as_list(r.docs[c].get("line")) or ["(no line)"])[0], []).append(c)  # primary line
+    for line, codes in sorted(by_line.items(), key=lambda kv: (-len(kv[1]), kv[0])):
+        print(f"### {line} ({len(codes)})")
+        for c in codes:
+            print(f"- {short(r, c)}")
+    sole = r.sole_blockers()
+    print(f"\n## Sole blockers (top {top} of {len(sole)}): the one unheld premise of each claim listed\n")
+    for t, cs in sole[:top]:
+        print(f"- {len(cs):2d} {short(r, t, 70)} <- {', '.join(cs)}")
+    print("\n## Blocker notes a premise has changed since\n")
+    for c, d, ts in r.stale_blockers():
+        print(f"- {c} (note of {d}): {', '.join(ts)} revised since")
+    held = r.held_unblocked(today)
+    print(f"\n## Held: unblocked, with a blocker note under {HELD_DAYS} days old ({len(held)})\n")
+    for c, d in held:
+        print(f"- {short(r, c, 70)}  held since {d}")
+    unread = r.unread_readings()
+    print(f"\n## Proposed readings no source of which is read in full ({len(unread)})\n")
+    for t, d in unread:
+        print(f"- {short(r, t, 70)}  {d or 'no NOTE'}")
+    rows = r.load_bearing()
+    print(f"\n## Load-bearing Proposed entries by reach (top {top} of {len(rows)})\n")
+    for x in rows[:top]:
+        print(f"- {x['reach']:3d}/{x['direct']:<2d} {short(r, x['code'])}  "
+              f"open premises: {x['open_premises'] or '-'}; live objections: {x['live_objections'] or '-'}")
 
 
 if __name__ == "__main__":
