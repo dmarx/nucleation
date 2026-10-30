@@ -101,3 +101,19 @@ responses are.
   action.
 - **[CLAIM-358](../claims.d/CLAIM-358.md) and [QUESTION-095](../questions.d/QUESTION-095.md).** The plainest case the record holds of a
   decision cached and reused at lower cost.
+
+## Note of 2026-10-30: the dropped clause
+
+<!-- inactive-ok-block: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the four kinds -->
+The tenth status review's narrowing dropped one clause: that "the planned
+cues became more accessible (d = .80, k = 6)". It was imprecise. Table V's
+if-component pools detection, discrimination, accessibility, attention and
+memory for the planned cue, three of the five measures from one test
+each, so the d = .80 is not an estimate of accessibility. That is the
+record's mis-statement of the table, not a wider claim the source makes,
+so it is kind 3 under ADR-047 and gets this note only. The review's other
+changes, naming the fixed-effect pooling, the missing bias correction and
+the goal-intention comparison, make explicit what the old title left
+implicit and drop nothing. Whether the process effects survive correction
+and mediate goal attainment was not claimed by either title and stays
+QUESTION-308 (kind 4).
