@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpny1e4
 title: 'Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-359 is removed: the fifteenth status
+    review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings), moved this claim from CLAIM-359's
+    rests_on to its complements, since CLAIM-359 uses only this
+    claim's first clause, which holds by construction, and not its
+    clause on factions. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,8 +43,6 @@ summary: >-
   example. It does not say role boundaries hold under pressure.
 illustrated_by:
 - CASE-080
-supports:
-- CLAIM-359
 bears_on:
 - QUESTION-089
 ---

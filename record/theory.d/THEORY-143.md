@@ -14,7 +14,7 @@ promote_when: >-
   settle whether real communities sit in the region where the effect
   occurs.
 title: 'When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -24,6 +24,15 @@ history:
     learning; with an outside audience and a propagandist, or a biased
     agent among the scientists, sparse communication can hurt. The account
     is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-276 is removed: the fifteenth status
+    review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings), moved this reading from CLAIM-276's
+    grounds to its corroborated_by (ADR-058), since that claim cites
+    Zollman's model as a reading that bears on it and its argument is
+    A1's. The account is unchanged.
 tags:
 - epistemology
 - network-science
@@ -42,8 +51,6 @@ summary: >-
 extended_by:
 - THEORY-148
 - THEORY-422
-supports:
-- CLAIM-276
 bears_on:
 - QUESTION-047
 ---
@@ -124,3 +131,13 @@ Holman and Bruner's finding ([LIT-751](../literature.d/LIT-751.md), Unavailable,
 biased agent among the scientists it is best for them to be highly
 connected. Neither contradicts the account, whose condition is a community
 of unbiased agents learning for itself. The account is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+Its promote_when is unmet: all of the evidence is simulation of one
+model family, and no laboratory or field study has been read that varies
+communication structure in groups learning by trying options and
+measures accuracy and speed against the difficulty of the problem. It
+could be narrowed to the result within the bandit models, as [THEORY-422](THEORY-422.md)
+states the wider survey, keeping the wide form as a Proposed THEORY
+under [ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a claim comes to need only that.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8z857
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-25'
@@ -61,6 +61,25 @@ history:
     citing it for that is added under "Five quantities, not one".
     THEORY-921's supports entry for this claim is removed. The claim is
     unchanged.
+- version: 7
+  date: '2026-10-29'
+  note: >-
+    At the fifteenth status review, at the status review's ruling (the
+    owner delegated these rulings; ADR-057, ADR-058), eight works leave
+    grounds. LIT-1498 is Unavailable and the record holds no reading of
+    it; the body still says it was sought. LIT-1477, LIT-1479, LIT-1483,
+    LIT-1490, LIT-1491, LIT-1496 and LIT-1500 were registered on
+    2026-10-24, after the claim, and enter only through the readings filed
+    from them, as CLAIM-443's did at the fourteenth review: THEORY-901,
+    THEORY-920 and THEORY-903 stay in grounds; THEORY-897, THEORY-907,
+    THEORY-910, THEORY-912 and THEORY-921 corroborate it; THEORY-914,
+    THEORY-915 and THEORY-917 are cited without an edge as rivals or a
+    narrowing, and NOTE-1137 for a quotation. The supports entry for this
+    claim on each of the eight is removed. THEORY-962 and THEORY-963 move
+    from grounds to corroborated_by: they entered with the notes of
+    2026-10-25, which leave the claim unchanged, and the argument does not
+    rest on them. Their supports entries for this claim are removed. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -97,16 +116,6 @@ grounds:
 - THEORY-901
 - THEORY-920
 - THEORY-903
-- THEORY-962
-- THEORY-963
-- LIT-1498
-- LIT-1477
-- LIT-1479
-- LIT-1483
-- LIT-1490
-- LIT-1491
-- LIT-1496
-- LIT-1500
 corroborated_by:
 - THEORY-897
 - THEORY-900
@@ -114,6 +123,8 @@ corroborated_by:
 - THEORY-910
 - THEORY-912
 - THEORY-921
+- THEORY-962
+- THEORY-963
 summary: >-
   The owner's, 2026-10-23, quoting "A governance prior can become
   self-protecting by reducing the access of the processes most likely to

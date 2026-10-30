@@ -1,10 +1,28 @@
 ---
 number: 475
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpi1bjh
 title: 'Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Defeater narrowed, relations corrected and promoted by the fifteenth
+    status review (ADR-057, ADR-058), at the status review's ruling (the
+    owner delegated these rulings). Defeater (b) read 'leaves the set of
+    questions they can formulate and pursue unchanged in size and in
+    shape', which ran TERM-092's askable and investigable sets together
+    while the title and defeater (a) speak of the askable; it now tests
+    the askable set (TERM-092's note of 2026-10-29). LIT-1071, LIT-1634,
+    LIT-1643 and LIT-1662 leave grounds: the body cites them as prior
+    art, and two are unread. Simon's reading, THEORY-1072, Active, is
+    corroboration: it supports the claim in its own terms, and carrying
+    it to questions is the record's step (note of 2026-10-27, evening).
+    Its premise CLAIM-470 and the terms it uses are Active, TERM-092
+    adopted at this review; nothing objects to it, and nothing in the
+    record meets either defeater.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -14,8 +32,8 @@ defeated_if: >-
   questions its language can express and the bound falls only on answers.
   (b) That giving agents a reusable specification (a concept, notation,
   tool or record) at fixed resources leaves the set of questions they can
-  formulate and pursue unchanged in size and in shape. Not defeated by an
-  agent that can articulate a distinction with no physical significance:
+  formulate (TERM-092's askable set) unchanged in size and in shape. Not
+  defeated by an agent that can articulate a distinction with no physical significance:
   the claim is that what is askable is bounded, not that it is real.
 tags:
 - epistemology
@@ -28,11 +46,8 @@ rests_on:
 - CLAIM-470
 complements:
 - CLAIM-478
-grounds:
-- LIT-1071
-- LIT-1634
-- LIT-1643
-- LIT-1662
+corroborated_by:
+- THEORY-1072
 uses:
 - TERM-065
 - TERM-064
@@ -52,9 +67,8 @@ summary: >-
   makes cheap.
 ---
 <!-- inactive-ok-file: THEORY-1056 THEORY-1084 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
-<!-- inactive-ok-file: CLAIM-470 CLAIM-478 CLAIM-476 CLAIM-184 — Proposed; the claims this rests on and sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-478 CLAIM-476 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1634 LIT-1643 LIT-1662 LIT-1655 LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
-<!-- inactive-ok-file: TERM-085 — Proposed; the correctability term this extends, cited as open -->
 
 # CLAIM-475: Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder
 
@@ -106,7 +120,11 @@ reached from cost instead of dependence.
 **Progress can be measured in questions.** A17 §7: progress "can consist in
 expanding the set of questions that can meaningfully be investigated under
 fixed resources", and a new framework can change the shape of that set as
-well as its size. It gives the claim a test (defeater b).
+well as its size. It gives the claim a test (defeater b). A17's words name
+the investigable set, the askable questions with budget left to pursue them
+([TERM-092](../terms.d/TERM-092.md)). Defeater (b) tests the askable set, which bounds the investigable
+from above, so a framework that makes new questions formulable meets the test
+even where pursuing them stays out of reach.
 
 ## What it changes in the record
 

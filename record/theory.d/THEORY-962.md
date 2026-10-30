@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwtj3m
 title: 'In a finite partial-monitoring game, the signals of a set D of actions determine the expected loss difference of actions i and j under every outcome distribution iff ℓ_i − ℓ_j lies in the sum of the row spaces of their signal matrices; when it does not, two outcome distributions differing along a vector in the common kernel give every action in D the same signal law and reverse the preference between i and j, so no amount of play restricted to D can learn the comparison'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-25'
@@ -23,6 +23,15 @@ history:
     step with D = {i, j} where it needs D = N⁺_{i,j} (THEORY-961), so
     the lemma as stated, for general D, is the corrected form.
     THEORY-963 is added beside THEORY-964. The account is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Its supports entry for CLAIM-446 is removed: the fifteenth status
+    review, at the status review's ruling (the owner delegated these
+    rulings; ADR-057, ADR-058), moved this reading from that claim's
+    grounds to its corroborated_by, since it entered with the claim's
+    notes of 2026-10-25 and the argument does not rest on it. The reading
+    is unchanged.
 tags:
 - learning-theory
 - game-theory
@@ -37,8 +46,6 @@ summary: >-
   span of their signal row spaces. Global and local observability are the
   two choices of D the classification uses. It says what can be
   estimated, not how fast; the rates are [THEORY-964](THEORY-964.md).
-supports:
-- CLAIM-446
 answers:
 - QUESTION-272
 extended_by:

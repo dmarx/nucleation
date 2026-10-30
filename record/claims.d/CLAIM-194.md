@@ -1,10 +1,10 @@
 ---
 number: 194
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmprrjrd
 title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -23,6 +23,17 @@ history:
     THEORY-1110's pattern: the claim uses the conditions as stated, not
     their truth. The body cites the split where it cites the proposal. The
     claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). THEORY-072 moves
+    from grounds to corroborated_by (ADR-058): the argument runs through
+    THEORY-073, THEORY-066 and THEORY-1119, all Active, and cites
+    THEORY-072 as a second account that puts the line at production. Both
+    targets wrote the concession in at the fourteenth review (CLAIM-157
+    and CLAIM-174, histories of 2026-10-29), and no objection to it is on
+    file. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -37,8 +48,9 @@ objects_to:
 grounds:
 - THEORY-073
 - THEORY-066
-- THEORY-072
 - THEORY-1119
+corroborated_by:
+- THEORY-072
 summary: >-
   A counter to the block criterion and to the agency test's first
   condition, found by two separate reviews of the unlinked THEORYs in the
@@ -47,7 +59,8 @@ summary: >-
   near-decomposability gap is a statistic of coupling, and coupling is the
   same whether the system made the boundary or something else did.
   [THEORY-072](../theory.d/THEORY-072.md) and THEORY-1119 place the line at production and
-  self-distinction instead. Proposed: no case has been measured.
+  self-distinction instead. No case has been measured: the point is that
+  a coupling statistic has no term for who made the coupling.
 complements:
 - CLAIM-367
 - CLAIM-414

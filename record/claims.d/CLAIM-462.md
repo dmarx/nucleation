@@ -1,10 +1,10 @@
 ---
 number: 462
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -13,6 +13,22 @@ history:
     without naming, after TERM-085 version 2 said whose correctability
     it is (twelfth status review, ADR-057). The title, defeater and
     status are unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises
+    CLAIM-422 and CLAIM-099 and its grounds CASE-176, CASE-175 and
+    CASE-170 are Active, it uses TERM-085, which is Active, no objection
+    is filed, and nothing in the record meets its defeated_if; Cover's
+    account of judicial words made deeds through others (NOTE-1384) holds
+    a version of it for courts. The last bullet of "What it does not say"
+    read: That it is new. Cover (LIT-1601) on interpretation and
+    enforcement, Pettit (LIT-1614) on contestability, Hillebrecht
+    (LIT-1607) and Rosenberg (LIT-1615) on compliance and courts' limits,
+    all unread, may hold it already. It now says Cover is read and the
+    other three are Unavailable, as the note of 2026-10-29 said. Title and
+    defeater are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -125,11 +141,15 @@ well as "ordinary action" (A9).
   is that correction "should depend on appropriately constituted and
   reviewable procedures—not simply on whether the actor exercising power
   consents to being corrected".
-- **That it is new.** Cover ([LIT-1601](../literature.d/LIT-1601.md)) on interpretation and enforcement,
-  Pettit ([LIT-1614](../literature.d/LIT-1614.md)) on contestability, Hillebrecht ([LIT-1607](../literature.d/LIT-1607.md)) and
-  Rosenberg ([LIT-1615](../literature.d/LIT-1615.md)) on compliance and courts' limits, all unread, may
-  hold it already; A9's preferred next step was the question first
-  ([QUESTION-278](../questions.d/QUESTION-278.md)), "rather than prematurely declare" a result.
+- **That it is new.** Cover ([LIT-1601](../literature.d/LIT-1601.md)), read in [NOTE-1384](../notes.d/NOTE-1384.md), holds a
+  version of it for courts: a judgment corrects only through the roles
+  that carry it into deeds, a different relation from the one that makes
+  it right. He does not treat the correction of one institution by
+  others. Pettit ([LIT-1614](../literature.d/LIT-1614.md)) on contestability, and Hillebrecht
+  ([LIT-1607](../literature.d/LIT-1607.md)) and Rosenberg ([LIT-1615](../literature.d/LIT-1615.md)) on compliance and courts' limits,
+  are Unavailable and may hold it already; A9's preferred next step was
+  the question first ([QUESTION-278](../questions.d/QUESTION-278.md)), "rather than prematurely declare"
+  a result.
 
 ## Note of 2026-10-29: Cover, read, holds part of it
 

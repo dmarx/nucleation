@@ -1,10 +1,24 @@
 ---
 number: 360
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmppk4ya
 title: 'The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Grounds move from
+    THEORY-186 to THEORY-740, Active, which holds the deep and shallow
+    solutions from a decoupled, balanced start: the claim's own limits say
+    the deep linear results need such starts, so it never used
+    THEORY-186's extension to random ones. THEORY-200 moves to
+    corroborated_by (ADR-058): THEORY-195 already holds the invariance at
+    the training-set size that learns the task, and THEORY-200 adds
+    displacement. Every ground is Active, no objection is on file, and
+    nothing held meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,11 +38,12 @@ date: '2026-10-18'
 line:
 - learned-structure
 grounds:
-- THEORY-186
+- THEORY-740
 - THEORY-187
 - THEORY-195
-- THEORY-200
 - THEORY-206
+corroborated_by:
+- THEORY-200
 summary: >-
   The owner's, U38 of the exchange of 2026-10-17, on A37's proposed
   experiment: "I think we may already have an empirical demonstration that
@@ -78,15 +93,15 @@ organization that reaches it.
 
 ## The record's cases, assigned
 
-- **C: deep linear networks ([THEORY-186](../theory.d/THEORY-186.md)).** A shallow and a deep linear
+- **C: deep linear networks ([THEORY-740](../theory.d/THEORY-740.md)).** A shallow and a deep linear
   network trained on the same data reach the same end-to-end map. The
   shallow one learns every mode exponentially on one timescale; the deep
   one learns them one at a time, strongest first, each in a sigmoidal
   transition, and between stages single predictions "can move the wrong
-  way". A38: "same eventual capability but different developmental
+  way" ([THEORY-186](../theory.d/THEORY-186.md), from the decoupled solution). A38: "same eventual capability but different developmental
   attainability". And "aggregate optimization improvement can coexist with
   temporarily worsening constituent predictions".
-- **B, inside the same case, at a time budget ([THEORY-186](../theory.d/THEORY-186.md), [THEORY-187](../theory.d/THEORY-187.md)).**
+- **B, inside the same case, at a time budget ([THEORY-740](../theory.d/THEORY-740.md), [THEORY-187](../theory.d/THEORY-187.md)).**
   The deep network reaches mode α at about (τ/s_α) ln(s_α/ε), the shallow
   one at about τ ln(s_α/ε), so with a deadline the deep network has the
   strong modes (s_α > 1) sooner and the weak ones later. From small initial strength

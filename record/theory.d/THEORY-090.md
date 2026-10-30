@@ -223,3 +223,16 @@ goes through; a graded override has none, and in that form it does not.
 [CLAIM-435](../claims.d/CLAIM-435.md) recasts the rivalry as one question, whether the earliest
 trade-off curves are continuous, and if not, which form the override
 takes. The statement is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+No marker that tells a felt alarm from an unfelt one has been fixed in
+advance and applied to animals or patients without functioning cortex. No
+comparative or lesion result shows one-trial generalised avoidance and
+protection of an injury vanishing with basic arousal while reflex
+withdrawal survives. Both sources argue from cited findings whose
+feltness is the point at issue, and the function clause is argued from
+felt pain's advantages, which presupposes that the pain is felt. Once
+[CLAIM-435](../claims.d/CLAIM-435.md)'s other premises are held, a split on [THEORY-1110](THEORY-1110.md)'s pattern, an
+Active reading of what Newen and Montemayor propose, is the route that
+would make [CLAIM-435](../claims.d/CLAIM-435.md)'s ground held.

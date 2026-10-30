@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpeftzb
 title: 'Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category''s own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,14 @@ history:
     THEORY-854 moved from grounds to corroborated_by (ADR-058): cited as
     a documented instance of the loop, not a premise; THEORY-862 holds
     what was reported.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    THEORY-036 removed from grounds by the fifteenth status review
+    (ADR-058), at the status review's ruling (the owner delegated these
+    rulings): the body cites it only under "What it does not say", for
+    A27's conclusion, which this claim does not draw. The body citation
+    stays. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,7 +47,6 @@ rests_on:
 - CLAIM-342
 grounds:
 - THEORY-273
-- THEORY-036
 - CASE-103
 - THEORY-839
 - THEORY-862
@@ -64,7 +71,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study, and this claim is Proposed with it -->
-<!-- inactive-ok-file: CLAIM-342 THEORY-273 THEORY-036 — Proposed; the claim and readings this one rests on, and it is Proposed with them -->
+<!-- inactive-ok-file: THEORY-273 — Proposed; a reading this one cites, and it is Proposed with it -->
 
 # CLAIM-402: Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category's own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent
 
@@ -167,3 +174,10 @@ carry over when K_r is dynamic and history-dependent. The two paths need
 different interventions to separate: change the reporting regime with the
 policy fixed, or change the policy with raw outcomes observed
 independently.
+
+## Note of 2026-10-29: what holds it back
+
+Its remaining Proposed ground, [THEORY-273](../theory.d/THEORY-273.md), waits on readings of Lemeire
+(2018) and Slater (2015). The body cites it only under "What it does not
+say", as it cited [THEORY-036](../theory.d/THEORY-036.md), so the edge may be corroboration; the next
+pass should rule on it.

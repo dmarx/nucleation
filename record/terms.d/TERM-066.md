@@ -187,3 +187,14 @@ A41: "Its tendency toward conformity is part of its construction, not an
 emergent discovery." In A47's report the conformity-scored allocation was
 the worst of four arms after a reversal of expertise ([CASE-158](../cases.d/CASE-158.md);
 reported, not reproduced). The term is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+The choice its settle section names is unmade, between the
+fidelity-relative sense taken here and the purpose-relative institutional
+sense, and [QUESTION-087](../questions.d/QUESTION-087.md), which would supply the standard, is Open. Its one
+user does not hold to it: [CLAIM-404](../claims.d/CLAIM-404.md) is stated in this term but uses
+"capture" mostly in the institutional sense the term declines (A20 §1's
+regulatory capture, Besley and Prat's captured press, Schram and Ule's
+assigned capture), invoking this term only for what a verdict of capture
+would need.

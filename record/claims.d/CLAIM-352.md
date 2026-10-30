@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmph678z
 title: 'Sen''s two aspects of freedom divide along the record''s line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,15 @@ history:
     description, agency and legibility: A18's two notions of freedom are
     Sen's opportunity and process aspects under other names, applied to
     institutions. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    THEORY-025 moves from grounds to corroborated_by (ADR-058) at the
+    fifteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings): the body cites conversion
+    only as a parallel to CLAIM-345, and the claim does not use
+    THEORY-025's negative thesis against resource metrics. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,7 +45,6 @@ rests_on:
 - CLAIM-079
 - CLAIM-027
 grounds:
-- THEORY-025
 - THEORY-411
 complements:
 - CLAIM-075
@@ -53,6 +61,8 @@ summary: >-
   [NOTE-263](../notes.d/NOTE-263.md) (Sen's lecture) and [NOTE-259](../notes.d/NOTE-259.md) (Robeyns). The sharp edge:
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
+corroborated_by:
+- THEORY-025
 ---
 
 # CLAIM-352: Sen's two aspects of freedom divide along the record's line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy
@@ -132,3 +142,9 @@ constraints". They are Sen's opportunity and process aspects under other
 names, applied to institutions. A18 did not cite Sen or this claim. It is
 a second appearance. The sharp edge holds: authority over revision is not
 by that fact a fair process.
+
+## Note of 2026-10-29: what holds it back
+
+Its "no scalar without a standard" step stands on [THEORY-411](../theory.d/THEORY-411.md), which is
+Proposed and was not reviewed in this pass; its premises [CLAIM-079](CLAIM-079.md) and
+[CLAIM-027](CLAIM-027.md) are Active and it has no objection.

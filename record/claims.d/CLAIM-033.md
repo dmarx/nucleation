@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpa4al1
 title: 'In published translations, renderings that lose distinctions along one dimension commonly gain specificity along another, so loss is not one-dimensional'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -27,6 +27,15 @@ history:
     can broaden the region of possible readings along one dimension
     while narrowing it along another, so loss is not
     one-dimensional'. Status and warrant unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    THEORY-170 moves from grounds to corroborated_by at the fifteenth
+    status review (ADR-058), at the status review's ruling (the owner
+    delegated these rulings): the body cites it as a prior statement, and
+    Jakobson's examples show that a rendering can gain along one dimension
+    while losing along another, not how often published translations do.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,7 +51,7 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-042
-grounds:
+corroborated_by:
 - THEORY-170
 summary: >-
   A75, recovered: transport maps region to region, and "the translation
@@ -96,3 +105,10 @@ Jakobson's example alone settles. The title now states the rate the
 condition tests. The possibility is not given up: it is Jakobson's
 point, [THEORY-170](../theory.d/THEORY-170.md), and the examples above are its instances. The warrant
 stays interpretive, because no sample has been drawn.
+
+## Note of 2026-10-29: what holds it back
+
+Its title is a claim of prevalence, and no sample of published
+translations has been drawn by a rule stated in advance and rated by
+independent judges, which is what its defeat condition tests. Jakobson's
+examples ([THEORY-170](../theory.d/THEORY-170.md)) and [CASE-012](../cases.d/CASE-012.md) show only that such a rendering occurs.

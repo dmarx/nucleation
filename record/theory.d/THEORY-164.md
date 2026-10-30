@@ -1,20 +1,10 @@
 ---
 number: 164
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8h3pe
-promote_when: >-
-  A second experiment, by other hands or with another meaning space and
-  channel, that varies group size with network connectivity and total
-  interaction held fixed and again finds larger groups ending with more
-  systematic languages; and, for the mechanism, a study that manipulates
-  input variability at a fixed group size (for example by injecting
-  variant forms) and finds structure following it. Further correlations
-  between community size and grammatical complexity across natural
-  languages cannot settle it, since they carry the confounds the claim
-  is about.
-title: 'In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect'
-version: 2
+title: 'As Raviv, Meyer and Lev-Ari report it, in a laboratory game where 12 fully connected groups of eight and 12 of four built a new communication system with total interaction held fixed, the larger groups'' languages grew more systematic faster, ended more systematic and differed less from one another, while communicative success and convergence did not differ by size; input variability, higher in the larger groups, predicted the next round''s gain in structure, an association measured and not manipulated'
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -25,6 +15,20 @@ history:
     grounds to its corroborated_by, since it is horizontal interaction,
     not a chain, and the claim does not rest on it. The reading is
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the fifteenth status review, at the status
+    review's ruling (the owner delegated these rulings; ADR-057; ADR-047's
+    evidence ruling, read in NOTE-628 from the main text, which states
+    every finding the title gives; the supplement was not read). Narrowed:
+    attributed to the paper, its design stated, and the mechanism stated
+    as the lagged association it was, as "What this does not say" already
+    said. The old title: In groups that build a new communication system,
+    larger groups make it more systematic, and the greater variety of
+    input they face drives the effect. The wide form, which the paper
+    asserts, is kept as THEORY-tmpjlg7h, Proposed, which extends this
+    entry and inherits the promote_when (ADR-047, kind 1).
 tags:
 - linguistics
 - compositionality
@@ -44,7 +48,7 @@ summary: >-
 ---
 
 
-# THEORY-164: In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect
+# THEORY-164: As Raviv, Meyer and Lev-Ari report it, in a laboratory game where 12 fully connected groups of eight and 12 of four built a new communication system with total interaction held fixed, the larger groups' languages grew more systematic faster, ended more systematic and differed less from one another, while communicative success and convergence did not differ by size; input variability, higher in the larger groups, predicted the next round's gain in structure, an association measured and not manipulated
 
 ## Source
 
@@ -54,8 +58,9 @@ supplementary models were not read).
 
 ## The claim
 
-When people who share no language build one by communicating, the size of
-the group they communicate in shapes the result. With everyone able to
+In the authors' experiment, when people who shared no language built one
+by communicating, the size of the group they communicated in shaped the
+result. With everyone able to
 talk to everyone and the same total amount of interaction, members of
 larger groups end with languages whose forms map more systematically onto
 meanings (parts of labels for parts of meanings), reach that structure

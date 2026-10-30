@@ -27,7 +27,7 @@ promote_when: >-
   the flame asserted without the definitions applied, which is how every
   holding in the record now treats it.
 title: 'Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -40,6 +40,15 @@ history:
     closure. This THEORY keeps the demarcation thesis and stays Proposed;
     its promote_when (a flame and a protocell analysed under Definitions
     1-4, and two unread works) is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    CLAIM-194 now lists this reading under corroborated_by (ADR-058), at
+    the fifteenth status review's ruling (the owner delegated these
+    rulings), and the supports edge here becomes corroborates: its
+    argument runs through THEORY-073, THEORY-066 and THEORY-1119, and it
+    cites this account as a second, organism-level placing of the line at
+    production. The claim and status are unchanged.
 tags:
 - philosophy-of-biology
 - individuation
@@ -65,7 +74,7 @@ summary: >-
   fast dependence. On the record's reading, that builds differentiation
   into closure. No paper analyses a flame under the 2015 definitions.
   Neither paper says closure defines an organism.
-supports:
+corroborates:
 - CLAIM-194
 ---
 <!-- inactive-ok-file: LIT-536 LIT-529 LIT-524 — Unavailable, no lawful full text; Biological Autonomy, Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
@@ -222,3 +231,13 @@ record's interpretation.
 - **"What Lives?" ([LIT-211](../literature.d/LIT-211.md), [NOTE-109](../notes.d/NOTE-109.md)).** Its "Dissipative
   Self-Organizing Systems" and "Cognitive Autonomy" clusters map onto the
   two sides of this line, and this account says what separates them.
+
+## Note of 2026-10-29: what holds it back
+
+No canonical dissipative structure has been analysed under Definitions
+1–4 of [LIT-582](../literature.d/LIT-582.md), with its candidate constraints and their time scales
+listed, and no protocell model has been shown to realise closure under
+them; the candle reading under "What this does not say" is a sketch.
+Biological Autonomy ([LIT-536](../literature.d/LIT-536.md)), which would show whether Moreno and Mossio
+fold differentiation into closure, is Unavailable, and Mossio and Bich
+(2014) is not held.

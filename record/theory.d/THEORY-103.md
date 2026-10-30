@@ -24,7 +24,7 @@ promote_when: >-
   neither can more reports that subjects see everything, since both sides
   accept those data and dispute only whether the surplus is experienced.
 title: 'Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -34,6 +34,16 @@ history:
     (THEORY-415), Taylor's reading (THEORY-563) and
     illusionism (THEORY-633), and says why none is declared a rival:
     none states LIT-431's timing argument. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The fifteenth status review (ADR-060), at the status review's
+    ruling (the owner delegated these rulings). QUESTION-061 moves
+    from answers to bears_on: overflow says most items in a
+    partial-report array are held and unaccessed, not that one
+    content reaches some consumers and not others, so if held it
+    would settle no delimited part of the question, whose body
+    already gives this reading's limit. The reading is unchanged.
 tags:
 - consciousness
 - cognition
@@ -58,7 +68,7 @@ rivals:
 - THEORY-096
 presupposed_by:
 - THEORY-098
-answers:
+bears_on:
 - QUESTION-061
 ---
 <!-- inactive-ok-file: THEORY-415 THEORY-563 THEORY-633 — Proposed; the Dennett and illusionist accounts named in the rival accounts section to say why none is declared a rival, not leaned on -->
@@ -199,3 +209,13 @@ unaccessed surplus is experienced, which is the premise each adopts.
   image while it stays on. Fragile VSTM is placed in V4, the same
   territory, but after offset and for unaccessed items, which that study
   does not test.
+
+## Note of 2026-10-29: what holds it back
+
+The step from held surplus to experienced surplus has no result behind
+it. The record holds no recording showing that the uncued items'
+representations are recurrent like seen items' rather than feedforward
+like masked ones, and no first-hand reading of Sperling, Landman et al.,
+Sligte et al. or the critics Block answers. Block calls the issue
+"certainly still open" and rests the step on a plausibility argument (C5
+in [NOTE-500](../notes.d/NOTE-500.md)).

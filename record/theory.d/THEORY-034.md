@@ -1,18 +1,10 @@
 ---
 number: 34
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpd2g4g
-promote_when: >-
-  The founding texts Chakravartty targets are read, and the placements
-  below are checked against them: Ladyman 1998 (LIT-342), French & Ladyman
-  2003, and Every Thing Must Go (LIT-301), which he quotes for objects
-  "purged of their intrinsic natures". The account is refuted if a held
-  non-eliminative OSR text denies relata every intrinsic identity-fixing
-  feature and meets the dilemma. Another survey restating the dilemma
-  cannot settle it; only a primary text placing itself on one horn can.
-title: 'Chakravartty''s dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record''s readings two are of that kind: Floridi''s informational structural realism and Esfeld and Lam''s moderate structural realism'
-version: 2
+title: 'Chakravartty''s dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and of the seven structural-realist texts read here against it, two are of that kind: Floridi''s informational structural realism and Esfeld and Lam''s moderate structural realism'
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -23,6 +15,25 @@ history:
     Esfeld and Lam's moderate structural realism (LIT-895, NOTE-695) to be a
     second. LIT-895 added to the source and to the placement table, and
     THEORY-453, which states that account, named in Connections.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the fifteenth status review (ADR-057;
+    ADR-047's evidence ruling: Chakravartty's chapter, LIT-196, read in
+    full in NOTE-149, and each placed text read in its NOTE, for a title
+    that claims no more than those readings show), at the status review's
+    ruling (the owner delegated these rulings). The census is now of the
+    seven texts placed in the table, not of the record's readings, so
+    reading another text cannot falsify it. The old title: Chakravartty's
+    dilemma reaches only structural realisms that keep relata but deny them
+    every intrinsic identity-fixing feature, and among the record's
+    readings two are of that kind: Floridi's informational structural
+    realism and Esfeld and Lam's moderate structural realism. The
+    promote_when asked for the founding texts (LIT-342, French and Ladyman
+    2003, LIT-301) to be read and placed, which the title does not claim.
+    Nobody has placed them, so the dropped clause is open scope (ADR-047,
+    kind 4), and the promote_when moves unchanged to QUESTION-tmp4xx0a.
+    CLAIM-134 keeps this reading under grounds.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -44,14 +55,17 @@ summary: >-
   other OSR texts on that map are the record's own synthesis, from [NOTE-192](../notes.d/NOTE-192.md),
   [NOTE-095](../notes.d/NOTE-095.md), [NOTE-099](../notes.d/NOTE-099.md), [NOTE-189](../notes.d/NOTE-189.md) and [NOTE-142](../notes.d/NOTE-142.md). The account does not say the
   dilemma is sound, and it does not say eliminative OSR survives; the
-  chapter itself leaves eliminative OSR untouched.
+  chapter itself leaves eliminative OSR untouched. Whether the founding
+  texts are of the target kind is QUESTION-tmp4xx0a.
 supports:
 - CLAIM-134
+bears_on:
+- QUESTION-tmp4xx0a
 ---
 <!-- inactive-ok-file: LIT-301 LIT-342 — Unavailable; founding texts named in promote_when and as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-453 THEORY-038 — Proposed; the second position of the target kind, placed in the table and named, and the eliminative-horn account, named; nothing here rests on their being settled -->
 
-# THEORY-034: Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings two are of that kind: Floridi's informational structural realism and Esfeld and Lam's moderate structural realism
+# THEORY-034: Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and of the seven structural-realist texts read here against it, two are of that kind: Floridi's informational structural realism and Esfeld and Lam's moderate structural realism
 
 ## Source
 
@@ -103,7 +117,7 @@ relations.
   a regress. Whether it answers the dilemma is open ([NOTE-099](../notes.d/NOTE-099.md)).
 - That Every Thing Must Go is outside the dilemma's reach. Chakravartty
   quotes it for objects "purged of their intrinsic natures", and it is
-  unread ([LIT-301](../literature.d/LIT-301.md), Deferred).
+  unread ([LIT-301](../literature.d/LIT-301.md), Deferred). That is [QUESTION-tmp4xx0a](../questions.d/QUESTION-tmp4xx0a.md).
 - That the category-theoretic or graph-theoretic routes rescue the target
   position. Yoneda fixes identity only up to isomorphism among presupposed
   objects ([THEORY-032](THEORY-032.md)). Leitgeb & Ladyman ([LIT-154](../literature.d/LIT-154.md)) defend primitive structural

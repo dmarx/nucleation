@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpl228b
 title: 'Beyond what it does operationally, luria is an apparatus in Barad''s constitutive sense for the objects of a record, and only for them: the record''s objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record''s own inquiry reconstitutes the apparatus that constitutes them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -20,6 +20,21 @@ history:
     constitutive thesis, which needs an argument the operational facts do
     not supply. Defeater rewritten to match; status, role and warrant
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Relations corrected by the fifteenth status review (ADR-057,
+    ADR-058), at the status review's ruling (the owner delegated these
+    rulings). LIT-1653 and LIT-1657 leave grounds: both are Unavailable
+    and unread, and the sense of apparatus compared is the exchange's
+    account and her readers' quotations, which TERM-087 carries. The
+    third defeater read 'Or, on Barad's own terms, that her apparatus
+    cannot be carried to a record without the quantum premise she
+    grounds it in (the template conception Jaksland finds she rejects;
+    the note of the readings below)'; THEORY-1083 shows Barad rejects the
+    template reading, which the note of 2026-10-27 (later) already
+    conceded by taking it, so the defeater now says the claim stands on
+    that reading. Status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,10 +43,11 @@ defeated_if: >-
   constitution follows from the operational facts alone, so that the
   Baradian description is a redescription. Or a showing that the record's
   objects are individuated independently of its grammar (by its files,
-  say), so that the grammar only describes them. Or, on Barad's own terms,
-  that her apparatus cannot be carried to a record without the quantum
-  premise she grounds it in (the template conception Jaksland finds she
-  rejects; the note of the readings below).
+  say), so that the grammar only describes them. Or a showing that
+  Barad's concept of an apparatus cannot be detached from the quantum
+  premise she grounds it in, so that on the template reading this claim
+  takes, which Barad rejects (THEORY-1083), the concept has no content
+  left to carry to a record.
 tags:
 - design-rationale
 - epistemology
@@ -45,8 +61,6 @@ rests_on:
 - CLAIM-479
 grounds:
 - CASE-131
-- LIT-1653
-- LIT-1657
 complements:
 - CLAIM-183
 - CLAIM-181
@@ -311,3 +325,12 @@ abstract structure (p. 5). But the concrete states are individuated before any
 abstraction (§2, p. 4), so the apparatus constitutes only the abstract
 objects. That is the part of this claim A7 called demonstrable, and the
 reading supports nothing beyond it.
+
+## Note of 2026-10-29: what holds it back
+
+Its first defeater is unanswered: no consequence of "constituted" has been
+shown that does not follow from [CLAIM-469](CLAIM-469.md)'s operational facts, and the
+CEGAR reading ([NOTE-1231](../notes.d/NOTE-1231.md)) supports only those; [QUESTION-284](../questions.d/QUESTION-284.md), which asks
+for a criterion telling constitution from characterization, is Open, and
+the two-apparatus experiment above is unbuilt. It is also stated in
+[TERM-087](../terms.d/TERM-087.md)'s agential sense, which waits on a reading of Barad herself.

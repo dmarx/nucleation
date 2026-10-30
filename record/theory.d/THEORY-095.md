@@ -26,7 +26,7 @@ promote_when: >-
   functionalism or physicalism about qualia, which this account leaves
   open by design.
 title: 'Phenomenal character is not fixed by long-arm functional role or by externally individuated representational content: on Inverted Earth it stays the same while both invert, so only internal accounts, short-arm functional or physical, remain open'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -35,6 +35,14 @@ history:
     to bears_on: this reading does not say whether a state meeting a
     functional characterization of affect must be felt, and the
     question's body gives its limit. The reading is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The fifteenth status review (ADR-058), at the status review's
+    ruling (the owner delegated these rulings). CLAIM-413 moves from
+    supports to corroborates: the claim cites Inverted Earth as an
+    instance of experience coming apart from what fixes its content,
+    and does not stand on it. The reading is unchanged.
 tags:
 - consciousness
 - metaphysics
@@ -59,7 +67,7 @@ summary: >-
   both rest on an externalist shift of content and on first-person
   sameness, and Block concedes that a short-arm functional theory of
   qualia would escape.
-supports:
+corroborates:
 - CLAIM-413
 ---
 <!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-023 — Proposed; named in prose to say this account does not bear on them, nothing here rests on them -->
@@ -213,3 +221,12 @@ source: this account would stand without it.
   and the short-arm role, the twins' shared internal factor, does not.
   This account asks the functionalist to do for qualia what the two-factor
   theory does for content, and says nobody has.
+
+## Note of 2026-10-29: what holds it back
+
+Two premises are argued, not settled: that the traveller's colour
+contents shift with long embedding, and that his phenomenal character
+stays the same. The record holds no externalist reply (Burge's reply to
+Block is unread, and none of Harman, Tye, Lycan or Dretske is held), so
+neither the shift nor the case against Lycan's gradual-shift reply has
+been tested against the side it attacks.

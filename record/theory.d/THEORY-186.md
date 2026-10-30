@@ -13,7 +13,7 @@ promote_when: >-
   later silent-alignment analysis that supplies one would serve. Further
   simulations of small hand-built datasets cannot settle it.
 title: 'A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data''s spectrum, not from nonlinearity'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-09'
@@ -34,6 +34,13 @@ history:
     it and keeps the claim that small random, unbalanced starts follow the
     solution. Its promote_when already concerned only that and is
     unchanged. The status stays Proposed.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    CLAIM-360's grounds edge moves to THEORY-740 at the fifteenth status
+    review, at the status review's ruling (the owner delegated these
+    rulings; ADR-058): it uses only the decoupled, balanced solution. The
+    supports edge here is removed. The claim and status are unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -48,8 +55,6 @@ summary: >-
   generated data the spectrum falls with depth in the tree, so the schedule
   is coarse to fine. It is not a claim about nonlinear networks, about
   correlated inputs, or about learning that starts from prior knowledge.
-supports:
-- CLAIM-360
 extends:
 - THEORY-740
 bears_on:
@@ -151,3 +156,15 @@ So balance is less special under SGD than under gradient flow. But the
 attraction acts over the long run, at stationarity. It does not supply
 balance during the stage-like transitions this account describes, which
 still need the balanced start, or something close to it.
+
+## Note of 2026-10-29: what holds it back
+
+No held result proves that a two-layer linear network started from small
+random, unbalanced weights converges to the decoupled solution as the
+initial scale goes to zero; [LIT-862](../literature.d/LIT-862.md) shows it in simulation (Fig. 3C), and
+[LIT-864](../literature.d/LIT-864.md) solves unbalanced starts only when already decoupled. A simulation
+run at the fifteenth status review agrees (four modes, five seeds per
+scale: as the scale falls from 10⁻¹ to 10⁻⁴, the off-diagonal part of the
+product falls from 15% to 2% of the largest strength, and the deviation
+from the aligned logistic from 33% to 0.1%), which the promote_when rules
+out as settling it.

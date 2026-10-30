@@ -1,13 +1,13 @@
 ---
 number: 92
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpkcsdo
 complements:
 - TERM-065
 - TERM-064
 title: 'inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -24,6 +24,16 @@ history:
     the investigable is a fourth set. The settle condition no longer
     waits on a study, which is CLAIM-475's defeater (b) (twelfth
     status review, ADR-057). Status unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Adopted at the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). The note of
+    2026-10-29 held it until CLAIM-475 said which set its defeater (b)
+    tests. CLAIM-475, version 2, now tests the askable set, and CLAIM-474
+    uses the askable set ('Askable without answerable'), so each claim
+    stated in it uses one of its sets, which is its settle condition. The
+    definition is unchanged.
 tags:
 - epistemology
 - cognition
@@ -37,9 +47,9 @@ summary: >-
   well as answering. The frontier moves when resources grow and when
   reusable specifications make formulation cheaper, and it can change
   shape as well as size. The term separates askable from expressible and
-  from answerable, which [CLAIM-474](../claims.d/CLAIM-474.md)'s last failure turns on. Proposed.
+  from answerable, which [CLAIM-474](../claims.d/CLAIM-474.md)'s last failure turns on.
 ---
-<!-- inactive-ok-file: CLAIM-475 CLAIM-470 CLAIM-474 TERM-085 — Proposed or new; the entries this term serves -->
+<!-- inactive-ok-file: CLAIM-474 — Proposed; the claim stated in this term beside CLAIM-475 -->
 
 # TERM-092: inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers
 

@@ -16,7 +16,17 @@ promote_when: >-
   Further case reports of cancer-like growth cannot settle it, because
   the survey's broad definition of cancer is what makes them count.
 title: 'Multicellular cooperation depends on suppressing cells that gain fitness at the expense of the organism, across five foundations (proliferation inhibition, controlled cell death, division of labour, resource allocation and maintenance of the extracellular environment); cancer-like cheating on them is found across the independent origins of complex multicellularity, so complex multicellularity can be understood as a system for detecting and suppressing cheaters'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-359 is removed: the fifteenth status
+    review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings), moved this reading from CLAIM-359's
+    grounds to its corroborated_by (ADR-058), since that claim cites
+    it as a biological precedent and its steps stand on its premises.
+    The account is unchanged.
 tags:
 - natural-sciences
 - philosophy-of-biology
@@ -31,8 +41,6 @@ summary: >-
   multicellularity finds cancer-like cheating widely, division-of-labour
   cheating in every form. Proposed: a literature review whose survey is
   limited by what has been studied, with no model or new data.
-supports:
-- CLAIM-359
 corroborates:
 - CLAIM-060
 ---
@@ -93,3 +101,14 @@ classify reports and add no data.
   cancer is also "a matter of being in an environment that has poor
   cheater detection and suppression" puts part of the failure in the
   collective, not only in the defecting units.
+
+## Note of 2026-10-29: what holds it back
+
+Its promote_when is unmet: the review classifies published reports and
+adds no data, and no experiment has been read in which disrupting
+suppression in a lineage without described cancer-like growth lets
+cheating cells arise and spread, nor comparative work showing
+suppression scaling with body size across independent origins of
+multicellularity. It could be narrowed to what Aktipis et al. report and
+propose, keeping the wide form as a Proposed THEORY under [ADR-047](../decisions.d/ADR-047.md)'s kind
+1, if a claim comes to need only that.

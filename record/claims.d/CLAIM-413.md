@@ -1,10 +1,10 @@
 ---
 number: 413
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpjw8ev
-title: 'Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; in its current, developmental and epistemic senses it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical'
-version: 2
+title: 'Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; its current, developmental and epistemic senses come apart from one another, and in the current sense it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical'
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -15,6 +15,30 @@ history:
     IWMT does not require current coupling. Villalobos and Cea could not be
     read (Unavailable), so their description is marked unchecked. The claim
     is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The fifteenth status review (ADR-057, ADR-058), at the status
+    review's ruling (the owner delegated these rulings). THEORY-095
+    moves from grounds to corroborated_by: the body cites Inverted
+    Earth as the record's reading of the same split for content,
+    beside dreams and Putnam's vat, and its directive says nothing
+    here rests on it. The title is corrected to the body, which
+    asserts that grounding comes apart from occurrence only in the
+    current sense and leaves the developmental objection open (A3,
+    A6); the dropped developmental clause overreached the claim's
+    own body (ADR-047, kind 3), so this note is its record. The old
+    title: Grounding is not a property of an experience but a
+    relation among an interpretation, what it purports to be about,
+    and a process that constrains it independently; in its current,
+    developmental and epistemic senses it comes apart from whether
+    the interpretation occurs, so ungrounded is not unconstrained,
+    and what makes an interpretive organization experiential need
+    not be what makes its contents veridical. Status Proposed to
+    Active: its one premise, CLAIM-342, is Active, no objection is
+    filed against it, the developmental objection is conceded by the
+    corrected title, and nothing in the record meets its defeat
+    condition.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,10 +59,10 @@ line:
 - evidence-for-experience
 rests_on:
 - CLAIM-342
-grounds:
-- THEORY-095
 complements:
 - CLAIM-412
+corroborated_by:
+- THEORY-095
 summary: >-
   The owner's premise at U1, that sensory apparatus is necessary for
   grounded experience, as A1, A3, A5 and A7 restated it. A1: "grounding
@@ -55,7 +79,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-342 — Proposed; the claim this one rests on for its epistemic sense, open as this one is -->
 <!-- inactive-ok-file: CLAIM-412 THEORY-095 — Proposed; the claim this complements and a reading cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1345 LIT-1350 LIT-1356 — Deferred; works registered unread, cited as such -->
-# CLAIM-413: Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; in its current, developmental and epistemic senses it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical
+# CLAIM-413: Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; its current, developmental and epistemic senses come apart from one another, and in the current sense it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical
 
 ## The claim
 

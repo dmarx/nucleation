@@ -18,7 +18,17 @@ promote_when: >-
   cannot settle it, because in that model displaced and synonymous
   variants share their parent's statistics by construction.
 title: 'On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CLAIM-360 moves this reading from grounds to corroborated_by at the
+    fifteenth status review, at the status review's ruling (the owner
+    delegated these rulings; ADR-058): THEORY-195 already holds the
+    invariance at the training-set size that learns the task, and this
+    reading adds displacement. The supports edge here is removed. The
+    claim and status are unchanged.
 tags:
 - learning-theory
 - compositionality
@@ -37,8 +47,6 @@ summary: >-
   construction, so the model shows that trained networks do the grouping,
   not that the invariances could not separate, and the extension to
   images is an analogy.
-supports:
-- CLAIM-360
 bears_on:
 - QUESTION-039
 ---

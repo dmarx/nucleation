@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpj48qx
 paper: 'LIT-825'
 title: 'Larger communities create more systematic languages'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -18,6 +18,13 @@ history:
     with the numbered models 1–18, D with example languages) was not
     read, so model specifications beyond the Methods text, and the extra
     groups, are known only from the main text's account of them.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Its acknowledgement of THEORY-164 as Proposed is removed: the
+    fifteenth status review, at the status review's ruling (the owner
+    delegated these rulings; ADR-057), narrowed THEORY-164 and promoted
+    it. The note is otherwise unchanged.
 date: '2026-10-09'
 summary: >-
   Varies community size alone in a laboratory language-creation game:
@@ -27,8 +34,6 @@ summary: >-
   greater in larger groups, predicted gains in structure; small groups
   differed more from each other on every measure.
 ---
-
-<!-- inactive-ok-file: THEORY-164 — Proposed; filed from this reading -->
 
 # NOTE-628: Larger communities create more systematic languages
 

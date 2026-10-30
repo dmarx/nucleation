@@ -4,7 +4,17 @@ status: Deferred
 formerly:
 - QUESTION-tmpn1400
 title: 'In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The fifteenth status review (ADR-060), at the status review's
+    ruling (the owner delegated these rulings). THEORY-103 moves
+    from answered_by to bearing: overflow says most items in a
+    partial-report array are held and unaccessed, not that one
+    content reaches some consumers and not others, so it settles no
+    delimited part of this question. The question is unchanged.
 tags:
 - consciousness
 - neuroscience
@@ -14,9 +24,10 @@ line: 'organizational-affect'
 answered_by:
 - THEORY-096
 - THEORY-098
-- THEORY-103
 - THEORY-102
 - THEORY-245
+bearing:
+- THEORY-103
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-003](../claims.d/CLAIM-003.md). [THEORY-096](../theory.d/THEORY-096.md),

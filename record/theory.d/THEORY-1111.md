@@ -82,3 +82,12 @@ club flotation, the G14) rather than from data on spectators.
 - **[CASE-105](../cases.d/CASE-105.md).** The supporter's topophilic tie to the ground predicts
   that supporters' continuity follows place, not franchise, when a club
   relocates.
+
+## Note of 2026-10-29: what holds it back
+
+Its promote_when is unmet: no survey has been read that measures the two
+axes and recovers the four types as distinct, populated groups, and no
+repeated measure of spectator composition at commodified clubs against
+member-owned ones; the paper itself reports no data ([NOTE-1244](../notes.d/NOTE-1244.md)).
+[CLAIM-490](../claims.d/CLAIM-490.md) needs the taxonomy to describe real spectators, so narrowing
+it to what Giulianotti proposes would not free that claim.

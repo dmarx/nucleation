@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpejpqc
 title: 'A shared interpretation''s coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation''s stability is no evidence of its truth'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    THEORY-143 moves from grounds to corroborated_by (ADR-058) at the
+    fifteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings): the body cites Zollman's
+    model as a reading that bears on the claim, and its argument is
+    A1's. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,7 +31,6 @@ works:
 line:
 - distributed-agency
 grounds:
-- THEORY-143
 - THEORY-146
 uses:
 - TERM-027
@@ -39,6 +47,8 @@ complements:
 - CLAIM-297
 - CLAIM-351
 - CLAIM-359
+corroborated_by:
+- THEORY-143
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-146 CLAIM-191 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -94,3 +104,12 @@ challenges and, through it, fidelity to evidence. A42's revised thesis keeps
 governance. Filed as [CLAIM-359](CLAIM-359.md), which complements this claim, and
 [CLAIM-349](CLAIM-349.md). Neither measures fidelity where there is no ground
 truth, the gap this claim names.
+
+## Note of 2026-10-29: what holds it back
+
+Its last clause says a collective interpretation's stability is no
+evidence of its truth, but Active readings give regimes where consensus
+does track the truth: [THEORY-321](../theory.d/THEORY-321.md)'s DeGroot consensus when the largest
+influence weight vanishes, and [THEORY-422](../theory.d/THEORY-422.md)'s pooling problems. The
+argument supports "not by itself evidence of its truth", and the claim
+is not promoted until the clause is restated at that strength.
