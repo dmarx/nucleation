@@ -4,7 +4,20 @@ status: Proposed
 formerly:
 - CLAIM-tmp83ge2
 title: 'Veit''s common currency and ALARM''s override are two regimes of one ordering serving as the negotiation''s potential, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest potential orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The fifteenth status review (ADR-057, ADR-058), at the status
+    review's ruling (the owner delegated these rulings). LIT-1438
+    and LIT-1472 leave grounds: the first is named only in the
+    defeat condition, as a rival mechanism the test must exclude,
+    and the second is unread and named as the design of a test,
+    which the body now cites by code. THEORY-090 stays in grounds:
+    the claim needs only what ALARM proposes, and a held reading of
+    that proposal is the route once the claim's other premises are
+    held. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,9 +47,7 @@ rests_on:
 grounds:
 - THEORY-101
 - THEORY-090
-- LIT-1438
 - LIT-1466
-- LIT-1472
 summary: >-
   A consequence of the owner's reframing of valence as ordering-potential
   ([CLAIM-440](CLAIM-440.md)). [THEORY-101](../theory.d/THEORY-101.md) records that its rivalry with ALARM "would
@@ -105,7 +116,7 @@ choices between cost–resource pairs.
   semiorder ([CLAIM-436](CLAIM-436.md), part 3b), and a chain of options each a
   little costlier and a little richer than the last produces cyclic
   choices: each step taken, the endpoints reversed. Tversky's
-  intransitivity experiments are the design. Cycles are evidence for an
+  intransitivity experiments (LIT-1472, unread) are the design. Cycles are evidence for an
   override with a threshold and against a currency of either kind, which
   cannot cycle.
 
@@ -150,3 +161,11 @@ be separate mechanisms, which is the first defeater.
   part 1), so the test needs enough pairs to tell a steep curve from a
   discontinuity, and a design showing that the discontinuity does not
   move with the size of the resource.
+
+## Note of 2026-10-29: what holds it back
+
+It rests on CLAIM-440, the owner's reframing of valence as
+ordering-potential, which the record does not hold. It grounds on
+THEORY-101 for Veit's common currency and on THEORY-090 for ALARM's
+override, readings still Proposed on whether each account is true, and
+no held reading states either author's proposal alone.

@@ -165,3 +165,13 @@ promotion.
   rational control of action and speech, and report is its least weighty
   element. That is why removing report alone was never going to remove
   access.
+
+## Note of 2026-10-29: what holds it back
+
+No result shows the confound operating. The record holds no within-study
+contrast of conspicuous and inconspicuous rivalry recorded in prefrontal
+cortex at intracranial sensitivity, and no probe of thought content in a
+standard no-report paradigm. Block argues from the situation, not from a
+measurement, that uninstructed subjects form percept-aligned thoughts,
+and Brascamp et al. (2015), the one design he offers, is held only as he
+reports it.
