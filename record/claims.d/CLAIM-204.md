@@ -173,6 +173,6 @@ extension testable; it does not make its ontology so.
   receivers recover and no admissible probe identifies survives without
   evidence that it did ([CLAIM-223](CLAIM-223.md)).
 - It does not carry the defeat of its clauses. A finding under its
-  condition defeats the conjunction; the ontological clause (CLAIM-215),
-  statistical recovery (CLAIM-209) and receivers' recovery (CLAIM-220)
-  are stated apart, each with its own condition, as CLAIM-216 asks.
+  condition defeats the conjunction; the ontological clause ([CLAIM-215](CLAIM-215.md)),
+  statistical recovery ([CLAIM-209](CLAIM-209.md)) and receivers' recovery ([CLAIM-220](CLAIM-220.md))
+  are stated apart, each with its own condition, as [CLAIM-216](CLAIM-216.md) asks.

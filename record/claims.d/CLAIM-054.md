@@ -65,10 +65,10 @@ there or in the record.
 
 ## Note of 2026-10-30: what holds it back
 
-Its one ground, CASE-026, is a stipulated thought experiment. The
+Its one ground, [CASE-026](../cases.d/CASE-026.md), is a stipulated thought experiment. The
 performative side it turns on, complicity in the speaker–audience relation,
-is footing, for which CLAIM-227 (Active) finds no validated measure.
-CLAIM-061 was promoted only after dropping footing to concede CLAIM-227, and
-on a documented case (CASE-056). The missing result is a documented
+is footing, for which [CLAIM-227](CLAIM-227.md) (Active) finds no validated measure.
+[CLAIM-061](CLAIM-061.md) was promoted only after dropping footing to concede [CLAIM-227](CLAIM-227.md), and
+on a documented case ([CASE-056](../cases.d/CASE-056.md)). The missing result is a documented
 rendering in which readers' understanding is kept and the relation is judged
 lost, by a measure of footing.

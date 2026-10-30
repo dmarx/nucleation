@@ -156,7 +156,7 @@ A240's recommendations.
 
 ## Note of 2026-10-30: promoted
 
-The status review of this date promoted it. CLAIM-204 now records the
+The status review of this date promoted it. [CLAIM-204](CLAIM-204.md) now records the
 concession, this objection's second answer: it is the integrative
 statement, and the separate theses carry the defeat conditions of the
 clauses its own condition does not test. A240's hierarchy and its other

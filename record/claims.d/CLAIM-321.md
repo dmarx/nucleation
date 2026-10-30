@@ -114,4 +114,4 @@ where single conditions are met.
   and prompt templates they test.
 - That every kind of relation fails. Interactions such as holding or
   wearing are rated near ceiling by human raters, under a rubric that
-  asks only whether an action is depicted (THEORY-522, CLAIM-097).
+  asks only whether an action is depicted ([THEORY-522](../theory.d/THEORY-522.md), [CLAIM-097](CLAIM-097.md)).

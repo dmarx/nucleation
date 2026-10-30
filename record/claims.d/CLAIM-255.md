@@ -63,5 +63,5 @@ It does not decide which variable [QUESTION-029](../questions.d/QUESTION-029.md)
 ## Note of 2026-10-30: what holds it back
 
 Two of its three clauses are premises the record does not hold: intended
-meaning fixed at production is CLAIM-160, and the act partly constituted by
-roles, standing and norms is CLAIM-151, both Proposed.
+meaning fixed at production is [CLAIM-160](CLAIM-160.md), and the act partly constituted by
+roles, standing and norms is [CLAIM-151](CLAIM-151.md), both Proposed.

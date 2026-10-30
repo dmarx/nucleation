@@ -63,8 +63,8 @@ conserved, are not in it. It is the place where [CLAIM-074](CLAIM-074.md) meets 
 ## Parallels
 
 In iterated learning the learners' own bias, not the source, fixes what a
-chain conserves: Bayesian samplers converge to their prior (THEORY-155), and
+chain conserves: Bayesian samplers converge to their prior ([THEORY-155](../theory.d/THEORY-155.md)), and
 human function learners to a positive linear function whatever trained the
-first (THEORY-489). Neither varies the learners' adaptation, so they show
+first ([THEORY-489](../theory.d/THEORY-489.md)). Neither varies the learners' adaptation, so they show
 that the interpreter's state sets what survives a chain, not that learning
 moves it.

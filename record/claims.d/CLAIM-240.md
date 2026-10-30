@@ -174,4 +174,4 @@ can perceive. The claim is unchanged.
 The result its own text says decides it is missing: no weighting of the
 profile's components has been fitted on one set of renderings and judges
 and tested on another set from the same population against the best single
-component. CASE-067 is qualitative.
+component. [CASE-067](../cases.d/CASE-067.md) is qualitative.

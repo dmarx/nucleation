@@ -114,8 +114,8 @@ recurs in A12 (Batch 5) and A14 (PR 6). Recorded here, not filed.
 ## Note of 2026-10-30: what holds it back
 
 Its body reads "admits none" two ways, and the same case fails the title
-under each. Read over supports, Wang et al.'s tap/box model (LIT-842,
-NOTE-645, THEORY-623) is contextual of Hardy type and still has two global
+under each. Read over supports, Wang et al.'s tap/box model ([LIT-842](../literature.d/LIT-842.md),
+[NOTE-645](../notes.d/NOTE-645.md), [THEORY-623](../theory.d/THEORY-623.md)) is contextual of Hardy type and still has two global
 assignments, so a contextual utterance can admit some. Read over
 distributions, as the note of 2026-10-10 does, that ambiguous phrase admits
 no compatible global distribution, so an ambiguous utterance need not admit
@@ -125,5 +125,5 @@ of none, and one utterance can be both.
 
 By Fine's theorem (Abramsky–Brandenburger), a model with no global extension
 is never a mixture of global assignments over the same observables, so the
-defeat condition cannot be met; CLAIM-238 already lists "Every pattern" as
+defeat condition cannot be met; [CLAIM-238](CLAIM-238.md) already lists "Every pattern" as
 an unmeetable universal negative.

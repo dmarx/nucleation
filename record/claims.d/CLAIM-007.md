@@ -58,7 +58,7 @@ intermediate state carries no information about the final relational content
 beyond what that endpoint carries, in any chain whatever. What the claim
 means is that the order in which relations are fixed along the path is
 informative, and no result in the record measures that for a reconstruction
-chain. THEORY-948's early-phase layout control is image generation under
+chain. [THEORY-948](../theory.d/THEORY-948.md)'s early-phase layout control is image generation under
 intervention, not an observation of a translation path. Until the condition
-is restated at that level, which is the owner's call as for CLAIM-029, it is
+is restated at that level, which is the owner's call as for [CLAIM-029](CLAIM-029.md), it is
 not promoted.

@@ -217,8 +217,8 @@ open.
 ## Note of 2026-10-30: what holds it back
 
 For teasing, the case left once its 2026-10-13 corrections are taken, the
-intention-based reading is missing: Bach and Harnish (LIT-1040) is unread,
+intention-based reading is missing: Bach and Harnish ([LIT-1040](../literature.d/LIT-1040.md)) is unread,
 and neither Grice nor Strawson says whether standing that enters through
-the content of the intention counts as a relation (QUESTION-073). Its
+the content of the intention counts as a relation ([QUESTION-073](../questions.d/QUESTION-073.md)). Its
 title's "holds no counter" and "plausibly meet it" are corrected by that
 note and are not restated.

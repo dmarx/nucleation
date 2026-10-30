@@ -208,9 +208,9 @@ dispute onto documented cases without settling it.
 
 ## Note of 2026-10-30: what holds it back
 
-CLAIM-221's residue is unanswered: whether standing that enters through
+[CLAIM-221](CLAIM-221.md)'s residue is unanswered: whether standing that enters through
 the content of the speaker's intention, as in Strawson's orders, is a
 relation in this claim's sense, which decides whether the defeat
 condition's "intention held fixed" can be met for reproach at all. For
-reprimand CLAIM-221 grants the claim through Searle, but the claim's
+reprimand [CLAIM-221](CLAIM-221.md) grants the claim through Searle, but the claim's
 dependents need it beyond institutional acts.

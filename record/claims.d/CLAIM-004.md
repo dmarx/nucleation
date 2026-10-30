@@ -130,10 +130,10 @@ people who did not write it.
 
 ## Note of 2026-10-30: what holds it back
 
-The criterion is still missing. CASE-056 supplies the documented first
+The criterion is still missing. [CASE-056](../cases.d/CASE-056.md) supplies the documented first
 pair the fifth review asked for: Phillips's handshake, which Nida judges
 keeps the greeting, against a literal "kiss" the UBS handbooks judge
 amorous where kissing is. What would promote it is the criterion stated
 so that it sorts more pairs than this one, and shows the classes
-disjoint even though TERM-030 counts norms and audience in the
-configuration and CLAIM-151 counts them among the act's constituents.
+disjoint even though [TERM-030](../terms.d/TERM-030.md) counts norms and audience in the
+configuration and [CLAIM-151](CLAIM-151.md) counts them among the act's constituents.

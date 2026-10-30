@@ -124,7 +124,7 @@ The interlocutor's reading of 2026-10-12 favours "making this the principal empi
 
 ## Note of 2026-10-30: what holds it back
 
-The discriminating study (CASE-055) has not been run and its margin is
-not fixed. The rival-set objection is unanswered: CLAIM-205 undercuts
-ARG-031, and no strong contextual baseline has been specified against
+The discriminating study ([CASE-055](../cases.d/CASE-055.md)) has not been run and its margin is
+not fixed. The rival-set objection is unanswered: [CLAIM-205](CLAIM-205.md) undercuts
+[ARG-031](../arguments.d/ARG-031.md), and no strong contextual baseline has been specified against
 which the thesis is restated.

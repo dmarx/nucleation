@@ -194,6 +194,6 @@ general converse, which stays Proposed, is not used. Quotations of
 The result its defeat condition names is missing: no receivers have been
 given a report task and a re-performance task on the same renderings, and
 the line's central cases are not classified as reports or re-performances.
-CLAIM-461's objection, that compensation also serves report fidelity, is
+[CLAIM-461](CLAIM-461.md)'s objection, that compensation also serves report fidelity, is
 unanswered: the history note of 2026-10-27 names it, but the sentence it
 targets under "What it does not say" is unchanged.

@@ -110,7 +110,7 @@ already about the thesis and is unchanged.
 ## Note of 2026-10-30: what holds it back
 
 No fidelity profile has been measured for any compared pair of
-transports on any task. Only D_obs has a formula (QUESTION-005), and
-whether components move together is QUESTION-013, so whether trade-offs
+transports on any task. Only D_obs has a formula ([QUESTION-005](../questions.d/QUESTION-005.md)), and
+whether components move together is [QUESTION-013](../questions.d/QUESTION-013.md), so whether trade-offs
 occur at all, the first branch of the defeat condition, has no
-observation. The order-theoretic part is CLAIM-371 and is Active.
+observation. The order-theoretic part is [CLAIM-371](CLAIM-371.md) and is Active.

@@ -140,8 +140,8 @@ case by case after the verdicts are known.
 
 ## Note of 2026-10-30: what holds it back
 
-An objection is unanswered: CLAIM-213 files the reading that this
-ontological clause carries a realist commitment that CLAIM-152, which is
+An objection is unanswered: [CLAIM-213](CLAIM-213.md) files the reading that this
+ontological clause carries a realist commitment that [CLAIM-152](CLAIM-152.md), which is
 Active, says the record does not make. The record has not said whether
 kinds that events realize commit it to realism about them. Its own text
 says the study cannot test it (A232 §11), so an argument is the route.

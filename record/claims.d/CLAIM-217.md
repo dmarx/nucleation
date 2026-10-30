@@ -204,7 +204,7 @@ still the owner's.
 
 ## Note of 2026-10-30: what holds it back
 
-Its premise CLAIM-151 is Proposed, held by CLAIM-221's residue for
-reproach. CLAIM-152's circularity charge (note of 2026-10-12) is
-unanswered, and the CLAIM-160 tension over whose uptake is meant is
+Its premise [CLAIM-151](CLAIM-151.md) is Proposed, held by [CLAIM-221](CLAIM-221.md)'s residue for
+reproach. [CLAIM-152](CLAIM-152.md)'s circularity charge (note of 2026-10-12) is
+unanswered, and the [CLAIM-160](CLAIM-160.md) tension over whose uptake is meant is
 still the owner's.

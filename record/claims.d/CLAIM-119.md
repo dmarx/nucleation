@@ -100,5 +100,5 @@ No judged communicative categories have been tested for closure under
 formal concept analysis's attribute–object correspondence, or for
 lattice-predicted confusions against a flat feature list, which is what
 the defeat condition asks. The claim's own source disclaims applying the
-lattice to human concepts, and QUESTION-025, whether constraint-structured
+lattice to human concepts, and [QUESTION-025](../questions.d/QUESTION-025.md), whether constraint-structured
 attributes still give linear directions, is open.

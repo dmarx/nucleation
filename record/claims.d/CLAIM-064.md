@@ -64,8 +64,8 @@ changed by this.
 ## Note of 2026-10-30: what holds it back
 
 Its defeat condition is a comparative null with no margin over an
-observable set (CLAIM-238): "as often as when they can" has no margin, so
+observable set ([CLAIM-238](CLAIM-238.md)): "as often as when they can" has no margin, so
 nothing could meet it. It needs restating with a margin and a fixed
 judged attribute before a ruling. No renderings have been rated for
-recoverable speaker, audience and attitude; CLAIM-061 holds one case of
+recoverable speaker, audience and attitude; [CLAIM-061](CLAIM-061.md) holds one case of
 the converse.

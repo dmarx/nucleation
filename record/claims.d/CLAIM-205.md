@@ -67,5 +67,5 @@ second, and undercuts that argument. The text above is unchanged.
 ## Note of 2026-10-30: what holds it back
 
 What the rival accounts license rests on no reading in the record:
-LIT-784, LIT-829 and LIT-791 are Unavailable. The strong contextual
+[LIT-784](../literature.d/LIT-784.md), [LIT-829](../literature.d/LIT-829.md) and [LIT-791](../literature.d/LIT-791.md) are Unavailable. The strong contextual
 baseline it proposes is not specified beyond the reading's table.

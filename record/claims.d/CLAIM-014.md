@@ -55,12 +55,12 @@ this claim's defeat condition is untouched.
 ## Note of 2026-10-30: what holds it back
 
 Its title has Blackwell comparison test whether "a rendering" preserves the
-information. The Active CLAIM-230 shows that is not well typed: the order
+information. The Active [CLAIM-230](CLAIM-230.md) shows that is not well typed: the order
 compares rendering procedures over a designed distribution of situations.
-Its own premise, CLAIM-050, was narrowed at version 4 to say so, and to
-report fidelity only. Krifka (LIT-835, NOTE-602) fixes the changes that
+Its own premise, [CLAIM-050](CLAIM-050.md), was narrowed at version 4 to say so, and to
+report fidelity only. Krifka ([LIT-835](../literature.d/LIT-835.md), [NOTE-602](../notes.d/NOTE-602.md)) fixes the changes that
 count only for commitments, obligations and declared facts, not the
-speaker–audience relation, and he offers no observables; CLAIM-227 finds no
+speaker–audience relation, and he offers no observables; [CLAIM-227](CLAIM-227.md) finds no
 validated measure of footing. A narrowing to procedures would concede
-CLAIM-230 but frees nothing. The claim waits on its own test: eliciting
+[CLAIM-230](CLAIM-230.md) but frees nothing. The claim waits on its own test: eliciting
 performative updates with stable response distributions.

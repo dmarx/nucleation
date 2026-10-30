@@ -113,7 +113,7 @@ The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found the 
 ## Note of 2026-10-30: what holds it back
 
 The first clause is a prevalence, "often", and no text→image→text chain
-has been run: CASE-009 is stipulated, and CASE-062's documented gains are
+has been run: [CASE-009](../cases.d/CASE-009.md) is stipulated, and [CASE-062](../cases.d/CASE-062.md)'s documented gains are
 on content probes, not on the interpersonal relation. The defeat
-condition's margin and rate are still not fixed (CLAIM-238), so even a
+condition's margin and rate are still not fixed ([CLAIM-238](CLAIM-238.md)), so even a
 chain that was run could not yet meet or miss it.

@@ -59,11 +59,11 @@ ordering them this way.
 
 ## Note of 2026-10-30: what holds it back
 
-Its one route is ARG-008. That inference is Active, but its premise
-CLAIM-029 is Proposed, because CLAIM-029's own defeat condition is met as
-written by THEORY-683, so the argument is not sound. Its title is also wider
-than ARG-008 version 2 carries: a test bed only with generator and evaluator
+Its one route is [ARG-008](../arguments.d/ARG-008.md). That inference is Active, but its premise
+[CLAIM-029](CLAIM-029.md) is Proposed, because [CLAIM-029](CLAIM-029.md)'s own defeat condition is met as
+written by [THEORY-683](../theory.d/THEORY-683.md), so the argument is not sound. Its title is also wider
+than [ARG-008](../arguments.d/ARG-008.md) version 2 carries: a test bed only with generator and evaluator
 separated, stimuli held out from training and agreement across model
-families, and not evidence about human pragmatics. When CLAIM-029 is
+families, and not evidence about human pragmatics. When [CLAIM-029](CLAIM-029.md) is
 promoted, this claim is narrowed to those conditions in the same
 contribution.

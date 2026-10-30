@@ -76,8 +76,8 @@ judgement.
 
 A supposition the manuscript makes in order to test it, and the test has not
 been run on human pragmatic judgements. The two language studies the record
-holds test lexical selection (LIT-842) or a language model's anaphora
-resolution with the contextuality built into the schema (LIT-844).
-THEORY-013 reads the published behavioural data as showing none once direct
+holds test lexical selection ([LIT-842](../literature.d/LIT-842.md)) or a language model's anaphora
+resolution with the contextuality built into the schema ([LIT-844](../literature.d/LIT-844.md)).
+[THEORY-013](../theory.d/THEORY-013.md) reads the published behavioural data as showing none once direct
 influences are separated. It waits on a Contextuality-by-Default analysis of
 human pragmatic judgements that robustly finds or excludes contextuality.

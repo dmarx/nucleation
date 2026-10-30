@@ -136,6 +136,6 @@ are now related by `complements`.
 ## Note of 2026-10-30: what holds it back
 
 No signature, family of decisions or class of transformations is
-stated. QUESTION-052's eigenspace candidate is unproved for the directed
+stated. [QUESTION-052](../questions.d/QUESTION-052.md)'s eigenspace candidate is unproved for the directed
 case, and no held-out test across realizations, media or languages has
 been run.
