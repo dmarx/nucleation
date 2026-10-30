@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmpimeo0), from the NIH author manuscript in
+  read in full 2026-10-30 ([NOTE-tmpimeo0](../notes.d/NOTE-tmpimeo0.md)), from the NIH author manuscript in
   PubMed Central (PMC8022896), fetched as XML through NCBI's E-utilities.
   Two online experiments with a lexical decision task and two goals, speed
   and accuracy. False feedback that one goal was ahead of target was
@@ -75,7 +75,7 @@ J. Lukas Thürmer, Michael F. Scheier and Charles S. Carver (2019 online; 2020),
 
 ## Standing in the record
 
-Filed on 2026-10-30, with Fulford et al. 2010 (LIT-tmphhuac), as the
-experimental test of the thesis CLAIM-468 and CLAIM-440 attribute to
-Carver 2003 (LIT-1445): that positive affect from running ahead lowers a
+Filed on 2026-10-30, with Fulford et al. 2010 ([LIT-tmphhuac](LIT-tmphhuac.md)), as the
+experimental test of the thesis [CLAIM-468](../claims.d/CLAIM-468.md) and [CLAIM-440](../claims.d/CLAIM-440.md) attribute to
+Carver 2003 ([LIT-1445](LIT-1445.md)): that positive affect from running ahead lowers a
 goal's priority and frees effort for another.

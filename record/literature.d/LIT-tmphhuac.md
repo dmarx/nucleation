@@ -1,16 +1,16 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmpjpcbm), from a JSTOR download of the
+  read in full 2026-10-30 ([NOTE-tmpjpcbm](../notes.d/NOTE-tmpjpcbm.md)), from a JSTOR download of the
   published article posted on a Boston University research group's page
   (https://sites.bu.edu/amplab/files/2024/06/Goal-pursuit.pdf), a copy that
-  counts under ADR-064. An experience-sampling study of 24 people, 12 with
+  counts under [ADR-064](../decisions.d/ADR-064.md). An experience-sampling study of 24 people, 12 with
   bipolar I disorder in remission, rating effort, progress and expected
   progress on three of their own goals three times a day for 21 days.
   Progress beyond expectation was followed by less effort on that goal
   (coasting) and progress short of it by more (pushing); the BD group
   coasted significantly less. Affect was not measured: the paper restates
-  Carver 2003 (LIT-1445) that positive affect lets a goal take lower
+  Carver 2003 ([LIT-1445](LIT-1445.md)) that positive affect lets a goal take lower
   priority, and tests only the progress-to-effort link it predicts.
 title: 'Pushing and Coasting in Dynamic Goal Pursuit: Coasting Is Attenuated in Bipolar Disorder'
 version: 1
@@ -75,8 +75,8 @@ Daniel Fulford, Sheri L. Johnson, Maria M. Llabre and Charles S. Carver (2010), 
 
 ## Standing in the record
 
-Filed on 2026-10-30 as a reading that restates Carver 2003 (LIT-1445),
-which CLAIM-468 and CLAIM-440 cite for the view that positive affect lowers
+Filed on 2026-10-30 as a reading that restates Carver 2003 ([LIT-1445](LIT-1445.md)),
+which [CLAIM-468](../claims.d/CLAIM-468.md) and [CLAIM-440](../claims.d/CLAIM-440.md) cite for the view that positive affect lowers
 a goal's priority and which could not be fetched. It is a second-hand
 statement of that thesis by Carver's own group, and a test of only its
 behavioural consequence.

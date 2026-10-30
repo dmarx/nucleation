@@ -137,17 +137,17 @@ reorders which goal performance serves.
 
 ## Connections
 
-It extends Fulford et al. (2010, LIT-tmphhuac), which it cites as the "only
+It extends Fulford et al. (2010, [LIT-tmphhuac](../literature.d/LIT-tmphhuac.md)), which it cites as the "only
 one published study" testing the hypotheses directly, and Louro, Pieters and
 Zeelenberg (2007). It takes Carver and Scheier's control-process model
-(1990, 1998; LIT-1441, read in the record through LIT-1449 and NOTE-1102)
-and Carver 2003 (LIT-1445) as its theory. Phan and Beck (in press) is cited
+(1990, 1998; [LIT-1441](../literature.d/LIT-1441.md), read in the record through [LIT-1449](../literature.d/LIT-1449.md) and [NOTE-1102](NOTE-1102.md))
+and Carver 2003 ([LIT-1445](../literature.d/LIT-1445.md)) as its theory. Phan and Beck (in press) is cited
 for feedback's effect on affect. Carver died while it was under revision
 (acknowledgements).
 
 ## Bearing on the record
 
-- **CLAIM-468: largely.** The objection's positive half needs evidence that
+- **[CLAIM-468](../claims.d/CLAIM-468.md): largely.** The objection's positive half needs evidence that
   positive affect lowers a goal's priority, and waits on Carver 2003 for it.
   This paper states the thesis's shifting form from Carver 2003 and tests
   it: running ahead lowers the overshot goal's hold on performance and moves
@@ -158,7 +158,7 @@ for feedback's effect on affect. Carver died while it was under revision
   emotion-regulation plan matters, not that positive affect was present and
   was what it regulated. Carver 2003 itself stays unread, so the claim's
   attribution to that paper should now cite the reading of this one.
-- **CLAIM-440: partly, against clause 3 for positive valence.** Clause 3
+- **[CLAIM-440](../claims.d/CLAIM-440.md): partly, against clause 3 for positive valence.** Clause 3
   makes intensity how far the negotiation's decisions follow the
   prevailing ordering. Here, the state the theory calls positive goes with
   the overshot goal ceding performance to a rival, which is the difficulty

@@ -144,7 +144,7 @@ therefore depends first on which of the two a study measured.
 ## Connections
 
 It rests on Csikszentmihalyi (1975, 1990) and on Nakamura and
-Csikszentmihalyi (2002, LIT-914 in the record, unread), from which its
+Csikszentmihalyi (2002, [LIT-914](../literature.d/LIT-914.md) in the record, unread), from which its
 Figure 1 is taken. Its foil is Seligman (2002, 2011). It draws on appraisal
 theory (Moors, Scherer, Lazarus) and on the task-involvement literature
 (Harackiewicz; Elliot). Swann et al. (2018) is cited for a Kuhnian
@@ -152,7 +152,7 @@ diagnosis of the field.
 
 ## Bearing on the record
 
-- **CLAIM-441: partly.** The objection waits on whether flow is reported
+- **[CLAIM-441](../claims.d/CLAIM-441.md): partly.** The objection waits on whether flow is reported
   as positive during the episode, and names exit 3, that "people in flow
   are absorbed rather than happy, and that the enjoyment is reported
   afterwards". This reading confirms that the literature is divided on
@@ -172,22 +172,22 @@ diagnosis of the field.
   run against them. That bears on exit 1: flow's positivity is placed on
   the enjoyment side and not on the side of an ordering of the
   organism's states by their bearing on its maintenance.
-- **TERM-076: partly.** Its nonvacuity condition makes valence undefined
+- **[TERM-076](../terms.d/TERM-076.md): partly.** Its nonvacuity condition makes valence undefined
   where nothing is contested, and flow is the case pressed against it.
   The reading does not decide whether flow is positive in the episode.
   It does supply a distinction the record can use: absorption alone (task
-  involvement, as in CASE-051's absorbed writer) is not inherently
+  involvement, as in [CASE-051](../cases.d/CASE-051.md)'s absorbed writer) is not inherently
   enjoyable, so undefined valence there is no anomaly; and if flow's
   enjoyment is not homeostatic "pleasure", it fits exit 1, which leaves
   the definition standing. Nothing here bears on exit 4.
-- **CLAIM-440: partly, by way of CLAIM-441.** The same: the flow case
+- **[CLAIM-440](../claims.d/CLAIM-440.md): partly, by way of [CLAIM-441](../claims.d/CLAIM-441.md).** The same: the flow case
   against its first consequence is narrowed, not answered.
-- **CLAIM-162 and CLAIM-433.** CLAIM-162 reads flow as nothing overridden;
-  this paper does not discuss conflict among motives. CLAIM-433's
+- **[CLAIM-162](../claims.d/CLAIM-162.md) and [CLAIM-433](../claims.d/CLAIM-433.md).** [CLAIM-162](../claims.d/CLAIM-162.md) reads flow as nothing overridden;
+  this paper does not discuss conflict among motives. [CLAIM-433](../claims.d/CLAIM-433.md)'s
   restriction to goal-conduciveness valence is the distinction exit 1
   relies on, and the pleasure/enjoyment split is evidence for it within
   flow research, at second hand.
-- **LIT-914.** It stays unread. This paper uses it only for Figure 1, so
+- **[LIT-914](../literature.d/LIT-914.md).** It stays unread. This paper uses it only for Figure 1, so
   it is not a substitute for reading it.
 - No instruction for machine-learning practice; nothing for the anthology.
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmpt2y26), from the open-access published
+  read in full 2026-10-30 ([NOTE-tmpt2y26](../notes.d/NOTE-tmpt2y26.md)), from the open-access published
   article (CC BY-NC) in PubMed Central, PMC3045658, fetched as XML through
   the Europe PMC REST API. Two laboratory experiments (n = 76, 78) in
   which students promised to do something for someone close to them, then
@@ -69,6 +69,6 @@ Edward Orehek, Elena Bessarabova, Xiaoyan Chen and Arie W. Kruglanski (2011), *M
 
 ## Standing in the record
 
-Filed on 2026-10-30 for CLAIM-468, whose positive half rests on the
+Filed on 2026-10-30 for [CLAIM-468](../claims.d/CLAIM-468.md), whose positive half rests on the
 reported view that positive affect lowers a goal's priority. This paper
 finds that the direction depends on competing goals.

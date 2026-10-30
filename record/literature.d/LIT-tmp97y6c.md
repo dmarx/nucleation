@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmp8y6gc), from the open-access published
+  read in full 2026-10-30 ([NOTE-tmp8y6gc](../notes.d/NOTE-tmp8y6gc.md)), from the open-access published
   article (CC BY) in PubMed Central, PMC7033418, fetched as XML through the
   Europe PMC REST API. A conceptual review: 42 studies from 2014–2019
   operationalized flow in 24 ways, 17 of them without enjoyment. Abuhamdeh
@@ -75,7 +75,7 @@ Sami Abuhamdeh (2020), *Frontiers in Psychology* 11:158 — DOI-10.3389/fpsyg.20
 
 ## Standing in the record
 
-Filed on 2026-10-30 for CLAIM-441, which asks whether flow is positive
+Filed on 2026-10-30 for [CLAIM-441](../claims.d/CLAIM-441.md), which asks whether flow is positive
 during the episode or only in retrospect. The record's anchor for flow,
-Nakamura and Csikszentmihalyi (LIT-914), could not be read; this review
+Nakamura and Csikszentmihalyi ([LIT-914](LIT-914.md)), could not be read; this review
 reports the dispute about that question and takes a side.
