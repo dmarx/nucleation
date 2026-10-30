@@ -4,7 +4,18 @@ status: Active
 formerly:
 - CLAIM-tmpc4chg
 title: 'Causal-loop consistency and sheaf contextuality are both local-to-global problems, but passing to distributions affects them oppositely: a loop with no deterministic solution has a distributional fixed point, while a model with no global section in its supports has no global distribution either'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The nineteenth status review (ADR-058; an unread work takes no
+    edge), at the status review's ruling (the owner delegated these
+    rulings). LIT-892, Deutsch's paper, Unavailable and read by no
+    NOTE, leaves grounds: the claim's fixed-point argument is the
+    classical one shown in the body, and Deutsch is cited only as
+    the model whose condition it is. The body keeps the citation.
+    The text is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -22,7 +33,6 @@ grounds:
 - LIT-016
 - THEORY-012
 - CASE-035
-- LIT-892
 complements:
 - CLAIM-037
 - CLAIM-044

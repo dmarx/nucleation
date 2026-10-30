@@ -4,7 +4,24 @@ status: Active
 formerly:
 - CLAIM-tmp3sn40
 title: 'Characters classify finite-dimensional representations of a finite or compact group up to isomorphism only over a field of characteristic zero; they forget the isomorphisms, fix neither the group nor a permutation action, and classify kinds, not tokens or positions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The nineteenth status review (ADR-058; an unread work takes no
+    edge), at the status review's ruling (the owner delegated these
+    rulings). LIT-893, Serre's textbook, Unavailable and read by no
+    NOTE, leaves grounds; the body keeps it as the standard
+    citation. LIT-329 (Peter and Weyl, read in NOTE-305) joins
+    grounds for the orthogonality relations the body's argument
+    uses. The body's opening said: "These are standard results,
+    checked here by reasoning. Serre's Linear Representations of
+    Finite Groups (LIT-893) is registered as their standard source
+    and is unread here." It now names the read proof, and a
+    paragraph after item 4 derives the general characteristic-zero
+    case and reduces the compact case to the compact Lie case. The
+    title is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -17,7 +34,7 @@ line:
 objects_to:
 - CLAIM-137
 grounds:
-- LIT-893
+- LIT-329
 - THEORY-032
 complements:
 - CLAIM-043
@@ -41,9 +58,13 @@ supports:
 
 ## The claim
 
-These are standard results, checked here by reasoning. Serre's *Linear
-Representations of Finite Groups* ([LIT-893](../literature.d/LIT-893.md)) is registered as their
-standard source and is unread here.
+These are standard results, checked here by reasoning. The orthogonality
+relations they use are proved in Peter and Weyl (LIT-329, read in NOTE-305,
+eqs. 6–8), for compact Lie groups by Schur's method with integration over the
+group; a finite group is the zero-dimensional case, where the integral is the
+average over G. Serre's *Linear Representations of Finite Groups*
+([LIT-893](../literature.d/LIT-893.md)) is their standard textbook source and is unread here; it is
+cited, not stood on.
 
 1. The character χ_ρ(g) = Tr ρ(g) is a class function, χ(hgh⁻¹) = χ(g), and
    it is unchanged when ρ is replaced by SρS⁻¹. So a change of coordinates
@@ -59,6 +80,19 @@ standard source and is unread here.
    there are as many of them as there are conjugacy classes.
 4. The same holds for continuous finite-dimensional complex representations
    of a compact group.
+
+Two steps the list compresses. Over a field K of characteristic zero, KG is
+semisimple (Maschke), and each simple module S_i has a central idempotent
+e_i ∈ KG that acts as the identity on S_i and as zero on every other simple
+(Wedderburn). Extend χ_V linearly to KG. If V ≅ ⊕ S_i^{m_i}, then e_i
+projects V onto its S_i-isotypic part, so χ_V(e_i) = m_i · dim_K S_i. Because
+the characteristic is zero, dim_K S_i ≠ 0 in K, so χ_V fixes each m_i, and so
+fixes V up to isomorphism. In characteristic p the same equation fixes m_i
+only mod p, which is the first failure below. For a compact group G that is
+not a Lie group, the image of ρ₁ ⊕ ρ₂ is a closed subgroup of a general linear
+group, so it is a compact Lie group H (Cartan's closed-subgroup theorem). Both
+representations factor through H, and equal characters on G are equal
+characters on H. So item 4 reduces to the Lie case.
 
 The exchange states the core correctly. A194 §1: "For finite-dimensional
 complex representations of finite groups", ρ₁ ≅ ρ₂ ⇔ χ_ρ₁ = χ_ρ₂, which

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp85p0g
 title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while an exact threshold override does not, a threshold override with a discrimination threshold is a lexicographic semiorder whose choices can cycle and so is no ordering at all, and even where each instant has a currency, successive currencies need not share exchange rates'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +27,17 @@ history:
     error in the finite construction or in the lexicographic argument
     below, or a misstatement of Debreu's theorem's hypotheses." Status
     Proposed to Active.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    The nineteenth status review (ADR-058; an unread work takes no
+    edge), at the status review's ruling (the owner delegated these
+    rulings). LIT-1454, Debreu's 1954 paper, Unavailable and read by
+    no NOTE, leaves grounds. Part 3 uses the connected-separable
+    form, which Theory of Value (LIT-1435, read in NOTE-1112, pp.
+    56, 72–73) proves and which stays in grounds; the 1954 paper is
+    cited only for the second-countable form, as an attribution. The
+    text is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,7 +53,6 @@ line:
 - organizational-affect
 grounds:
 - LIT-1435
-- LIT-1454
 summary: >-
   The formal half of the owner's reframing of 2026-10-23, that a "common
   currency" is better read as a negotiation admitting an (at least
