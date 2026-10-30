@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmplcm41
 title: 'A dynamic beta–Bernoulli latent-feature model of an organization''s members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-26'
@@ -35,6 +35,14 @@ history:
     qualified under a prior on the activation; item 4's example is traced to
     the original; the model per member is a factorial HMM. Title, standing
     and status unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    At the twentieth status review (ADR-057, ADR-058), at the status
+    review's ruling (the owner delegated these rulings), CLAIM-454 moves
+    from supports to illustrates: the claim cites the case as the model
+    built on its division (§10), and its argument does not use the case's
+    findings. Title, standing and status unchanged.
 standing: stipulated
 kind: construction
 tags:
@@ -55,7 +63,7 @@ summary: >-
   and having, using and splitting features are confounded in the
   reconstruction. It shows what such a model would have to get right
   before its features could count for anything.
-supports:
+illustrates:
 - CLAIM-454
 ---
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the quotient test cited as one way to tell a birth from a split, nothing here rests on it -->
@@ -354,3 +362,12 @@ one on the model's form.
   diagonal covariance.
 
 The case is unchanged: its title, standing and status stand.
+
+## Note of 2026-10-30: what holds it back
+
+The title's third clause, that having a capacity and using it are "not
+identified from the outputs", is qualified by this case's note of
+2026-10-27 (later): under a prior on the activation the data favour "not
+held" over "held and unused", weakly. The clause needs narrowing to the
+confounds that are exact (absorption into the private map, co-occurring
+features identified only in sum) before the case can be promoted.

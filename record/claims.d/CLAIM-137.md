@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpaedgb
 title: 'A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -22,6 +22,17 @@ history:
     realization, as a group character identifies a representation up
     to isomorphism, so that invariant has classificatory priority over
     any particular realization.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The last bullet under "What it does not say" is brought up to date at
+    the twentieth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings): CLAIM-115 has been Superseded by
+    CLAIM-220 since the seventh status review. It read: "That the
+    manuscript's thesis has changed. No draft carries this, and CLAIM-115
+    stands." Its directive is corrected to match. The note of 2026-10-29
+    on what holds it back is replaced by one of 2026-10-30, since
+    CLAIM-151 was revised on that date. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -72,7 +83,7 @@ illustrated_by:
 - CASE-057
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-136 — Proposed; the constitution claim this rests on and the individuation claim beside it, both open -->
-<!-- inactive-ok-file: CLAIM-115 — Proposed; cited as the manuscript's thesis, which this does not replace -->
+<!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as the manuscript's thesis this claim was filed beside -->
 
 # CLAIM-137: A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, once one symmetry group is identified across the realizations by its action on the situation and not by labels of a medium, so that invariant has classificatory priority over any particular realization
 
@@ -169,8 +180,9 @@ invariant, and the step from priority to "guides" is not argued.
   [CLAIM-136](CLAIM-136.md)'s business.
 - That classificatory priority is constitution. That inference is disclaimed
   ([CLAIM-150](CLAIM-150.md)).
-- That the manuscript's thesis has changed. No draft carries this, and
-  [CLAIM-115](CLAIM-115.md) stands.
+- That the manuscript's thesis has changed. No draft carries this.
+  CLAIM-115, the thesis it was filed beside, is Superseded by CLAIM-220,
+  which does not rest on this claim.
 
 ## Note of 2026-10-10: the replies
 
@@ -187,9 +199,11 @@ with χ₁(g^k) = ω^k and χ₂(g^k) = ω^(2k), the automorphism g ↦ g² give
 χ₁(g^(2k)) = ω^(2k) = χ₂(g^k), so it swaps the two nontrivial characters.
 The owner's position and its defeat condition are unchanged.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-It rests on [CLAIM-151](CLAIM-151.md), which is Proposed. No communicative invariant has
-been built ([TERM-041](../terms.d/TERM-041.md)), and [CASE-057](../cases.d/CASE-057.md) meets the condition of one act realized
-in two media only by construction. As an interpretive owner thesis it also
-needs the owner's assent to the narrowed title.
+It rests on CLAIM-151, still Proposed after its revision of 2026-10-30,
+which waits on CLAIM-221's residue: whether standing that enters through
+the content of the speaker's intention is a relation in CLAIM-151's
+sense. No communicative invariant has been built (TERM-041), and
+CASE-057 meets the condition of one act realized in two media only by
+construction.

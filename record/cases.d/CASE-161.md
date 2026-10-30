@@ -1,10 +1,10 @@
 ---
 number: 161
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpfmdj6
 title: 'Reciprocally produced, externally reset and feedback-only governing rules in a 32-member population: with ordinary trajectories identical, reciprocal production repairs the loss of one rule and not of both and fails after producer outages of 36 updates for audit and 40 for admission, after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00 in the three arrangements, and a self-dependent production graph does not regenerate a zeroed rule'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -14,6 +14,20 @@ history:
     numbers were checked against the stored results in
     dmarx/PerspectiveLab@7e2edc2 and found to agree; the wrong-incumbent
     counts and the 80-update outages were added from the v1.6 report.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted at the twentieth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its documentation
+    is dmarx/PerspectiveLab@7e2edc2 and its stored results: every figure
+    in the title and under "Results, as stored" was read again from
+    experiments/maintained_population/results/ (study.json,
+    duration_scan.csv), experiments/joint_closure/results/ (study.json,
+    topology_ablation.json) and EXPERIMENT_REPORT_V17.md, and agrees. The
+    runs were not regenerated. The second bullet under "What it cannot
+    show" now gives v2.1's own words, "not guaranteed to recover"; it said
+    "not reliably repaired", which v1.6's 48 of 48 repairs of a zeroed
+    admission rule do not bear out. The title is unchanged.
 standing: stipulated
 kind: executed-study
 tags:
@@ -108,10 +122,12 @@ reset does not.
   "internal" means inside the simulated population by stipulation
   ([QUESTION-090](../questions.d/QUESTION-090.md) asks when a population develops such maintenance).
 - Closure of constraints in [TERM-070](../terms.d/TERM-070.md)'s sense, agency or normativity.
-- That reciprocal production guarantees repair. A total loss of the
-  slowly rebuilt admission rule is not reliably repaired before audit
-  decays (v2.1, dmarx/PerspectiveLab@9f82bfd
-  experiments/diagnostic_identification/).
+- That reciprocal production guarantees repair. v2.1 reports that a
+  total loss of the slowly rebuilt admission rule is not guaranteed to
+  recover, because audit, which decays faster, may fail first: 20
+  updates after the loss its population averaged near 0.36 audit and
+  0.32 admission integrity (dmarx/PerspectiveLab@9f82bfd
+  EXPERIMENT_REPORT_V21.md, experiments/diagnostic_identification/).
 
 ## Provenance
 

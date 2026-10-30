@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdga80
 title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-22'
@@ -55,6 +55,17 @@ history:
     A note filed with its concessions names CLAIM-411, promoted at the
     nineteenth status review, at the status review's ruling (the owner
     delegated these rulings; ADR-057, ADR-059). The claim is unchanged.
+- version: 8
+  date: '2026-10-30'
+  note: >-
+    THEORY-871 moves from grounds to corroborated_by at the twentieth
+    status review (ADR-057, ADR-058), at the status review's ruling (the
+    owner delegated these rulings): the note of 2026-10-22 says Bo et
+    al.'s result "fits the claim", and the body holds that the reappraisal
+    evidence motivates construction without establishing constitution, a
+    result THEORY-056 and THEORY-680 absorb as well. Version 7's grounds
+    were THEORY-871. The directive naming TERM-072 and TERM-073 as
+    Proposed is dropped, since both are Active. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -97,10 +108,9 @@ summary: >-
   [CLAIM-411](CLAIM-411.md) presses and [QUESTION-254](../questions.d/QUESTION-254.md) asks for.
 objected_by:
 - CLAIM-411
-grounds:
+corroborated_by:
 - THEORY-871
 ---
-<!-- inactive-ok-file: TERM-072 TERM-073 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-411 CLAIM-413 THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1346 LIT-1348 LIT-1351 LIT-1353 LIT-1354 LIT-1355 LIT-1359 — Deferred; works registered unread, cited as such -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
@@ -406,3 +416,13 @@ is conceded: interpretation alone does not establish experience, and the
 claim owes the further organizational condition, which it names as
 perspectival organization and has not yet stated in a form that meets
 [CLAIM-411](CLAIM-411.md)'s defeater.
+
+## Note of 2026-10-30: what holds it back
+
+The qualifying organization is not stated: part 3 names it only as
+perspectival organization, and no statement of it independent of report
+meets CLAIM-411's defeater (QUESTION-254). Two objections the body
+records are unanswered: that the identity is eliminativism by another
+name (Negro, THEORY-868), and that nothing means anything to a system
+unless there is already something it is like to be it, which is the
+circularity its own defeated_if names.
