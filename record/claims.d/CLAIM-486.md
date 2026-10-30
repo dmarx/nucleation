@@ -55,7 +55,7 @@ communicative event.
 
 [CASE-056](../cases.d/CASE-056.md) is the documented case: Phillips renders Paul's "holy kiss" as
 "a hearty handshake all round", which changes what the verse directs, and
-Nida judged that it keeps the greeting. CASE-031 was checked as a candidate and
+Nida judged that it keeps the greeting. [CASE-031](../cases.d/CASE-031.md) was checked as a candidate and
 does not fill the role: the renderings it reaches change form, register
 and tone and keep Marot's propositions (its note of 2026-10-10).
 
@@ -76,7 +76,7 @@ grain a defender could choose, with independent evidence the act was kept.
 
 ## Note of 2026-10-29: what holds it back
 
-The one documented case, CASE-056, is answered by the defender's reply that
+The one documented case, [CASE-056](../cases.d/CASE-056.md), is answered by the defender's reply that
 its defeat condition states: the handshake keeps the coarser proposition
 "greet one another warmly". No case in the record changes the proposition at
 every grain a defender could choose, with independent evidence that the act
