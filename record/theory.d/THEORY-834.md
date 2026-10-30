@@ -15,7 +15,18 @@ promote_when: >-
   non-members' reports are taken up as readily. Further argument from
   the stranger's position cannot settle it.
 title: 'A member of a discipline who has been trained into its paradigms yet remains rooted in experience those paradigms omit or distort is better placed than its insiders to perceive those omissions and distortions as anomalies, and better placed than outsiders who share the experience to have them taken up, because insiders share the assumptions that produced the anomalies and outsiders lack the professional authority to press them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-403 is removed: the fifteenth status
+    review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings), moved this reading from CLAIM-403's
+    grounds to its corroborated_by (ADR-058), since that claim uses
+    only Collins's point that the outsider within lacks the authority
+    to press the anomalies she sees, not the thesis that her position
+    detects them better. The account is unchanged.
 tags:
 - social-science
 - epistemology
@@ -29,10 +40,8 @@ summary: >-
   feminist sociologists did detect. It does not say that every outsider
   within sees them, that insiders cannot, or that what the outsider within
   reports is true; and it offers no comparison of who detects what.
-supports:
-- CLAIM-403
 ---
-<!-- inactive-ok-file: CLAIM-403 THEORY-151 — Proposed; a claim and an account this one bears on, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-151 — Proposed; an account this one bears on, nothing here rests on it -->
 # THEORY-834: A member of a discipline who has been trained into its paradigms yet remains rooted in experience those paradigms omit or distort is better placed than its insiders to perceive those omissions and distortions as anomalies, and better placed than outsiders who share the experience to have them taken up, because insiders share the assumptions that produced the anomalies and outsiders lack the professional authority to press them
 
 ## Source

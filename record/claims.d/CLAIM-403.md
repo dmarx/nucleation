@@ -1,10 +1,10 @@
 ---
 number: 403
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpj163u
 title: 'A contribution''s admission to an organization''s inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor''s part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -24,6 +24,19 @@ history:
   note: >-
     Note of 2026-10-29 added, from the reading of Cover
     (NOTE-1384): execution is a step after uptake. The claim is
+    unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premise
+    CLAIM-349 and its ground THEORY-327 are Active, it has no
+    objection, and nothing in the record meets its defeat condition.
+    THEORY-151 and THEORY-834 move from grounds to corroborated_by
+    (ADR-058): the claim takes from Longino the names of its top
+    rungs, not her thesis that the norms confer objectivity, and from
+    Collins that the outsider within lacks authority to press what she
+    sees, not that her position detects anomalies better. The claim is
     unchanged.
 role: thesis
 warrant: interpretive
@@ -45,9 +58,7 @@ line:
 rests_on:
 - CLAIM-349
 grounds:
-- THEORY-151
 - THEORY-327
-- THEORY-834
 summary: >-
   A24 §6 of the exchange of 2026-10-20, on the owner's U24: "Someone's
   contribution may be received and politely acknowledged yet have no
@@ -62,10 +73,13 @@ illustrated_by:
 - CASE-138
 complements:
 - CLAIM-448
+corroborated_by:
+- THEORY-151
+- THEORY-834
 ---
-<!-- inactive-ok-file: THEORY-834 — Proposed; Collins's outsider within, cited as the standing condition before recognition, and this claim is Proposed with it -->
+<!-- inactive-ok-file: THEORY-834 — Proposed; Collins's outsider within, cited as the standing condition before recognition, a reading that corroborates this claim, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1320 — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->
-<!-- inactive-ok-file: CLAIM-349 CLAIM-362 THEORY-151 THEORY-327 CLAIM-406 — Proposed; the claim and readings this one rests on or cites, and it is Proposed with them -->
+<!-- inactive-ok-file: CLAIM-362 THEORY-151 — Proposed; a claim this one cites and a reading that corroborates it, nothing here rests on them -->
 
 # CLAIM-403: A contribution's admission to an organization's inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor's part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed
 

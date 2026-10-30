@@ -18,7 +18,17 @@ promote_when: >-
   cannot settle it either way: the claim is stated to hold whichever
   answer is right.
 title: 'Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-183 is removed: the fifteenth status
+    review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings), moved this reading from CLAIM-183's
+    grounds to its corroborated_by (ADR-058), since that claim added
+    it by analogy, as its note of 2026-10-11 says. The account is
+    unchanged.
 tags:
 - social-ontology
 - cognition
@@ -34,8 +44,6 @@ summary: >-
   then built systems to detect reportable deposits. Narratives regulate
   too. Proposed: the regulative view is assumed, and the effect on banks
   is asserted, not documented.
-supports:
-- CLAIM-183
 ---
 <!-- inactive-ok-file: LIT-483 — Unavailable, unread; Groups as Agents, named as unread -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; the group-judgment and corporate-responsibility accounts, named for contrasts -->
@@ -109,3 +117,14 @@ Tollefsen ([LIT-736](../literature.d/LIT-736.md)) argues it in a short paper, in
   hope to "take control of the intentional spiral" (p. 9) is close to the
   essay's recursive self-governance (§8.3), though Tollefsen gives no
   mechanism for it.
+
+## Note of 2026-10-29: what holds it back
+
+Its promote_when is unmet: the paper assumes the regulative view rather
+than defending it, and asserts without documenting that banks built
+compliance systems because of the Bank of New England ruling; no
+comparative case has been read in which an institution attributed a
+state it lacked then built the structure that made the attribution true,
+beyond what the penalty alone explains. It could be narrowed to what
+Tollefsen argues, keeping the wide form as a Proposed THEORY under
+ADR-047's kind 1, if a claim comes to need only that.

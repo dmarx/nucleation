@@ -1,10 +1,27 @@
 ---
 number: 359
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpp9ox0
 title: 'A self-governing organization''s robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises
+    CLAIM-282 and CLAIM-025 are Active, it has no objection, and
+    nothing in the record meets its defeat condition; the readings of
+    2026-10-29 (NOTE-1356, NOTE-1371) bear out both halves. CLAIM-281
+    moves from rests_on to complements: the claim uses only its first
+    clause, which CLAIM-281's note of 2026-10-29 says holds by
+    construction, and not its contested clause on factions; the
+    example of a safeguard that serves both is carried by CLAIM-342,
+    Active. THEORY-135 and THEORY-141 move from grounds to
+    corroborated_by (ADR-058): the body cites them as a biological
+    precedent, and the claim's steps stand on its premises. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,17 +45,14 @@ line:
 - will-organization
 rests_on:
 - CLAIM-282
-- CLAIM-281
 - CLAIM-025
-grounds:
-- THEORY-135
-- THEORY-141
 complements:
 - CLAIM-276
 - CLAIM-342
 - CLAIM-404
 - CLAIM-410
 - CLAIM-445
+- CLAIM-281
 summary: >-
   The owner's question, U41 of the exchange of 2026-10-17: "is literature
   on organizational robustness to insider threats potentially useful to
@@ -52,9 +66,12 @@ summary: >-
   which no protocol of that kind supplies.
 illustrated_by:
 - CASE-108
+corroborated_by:
+- THEORY-135
+- THEORY-141
 ---
 
-<!-- inactive-ok-file: CLAIM-276 CLAIM-277 CLAIM-281 CLAIM-347 THEORY-135 THEORY-141 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
+<!-- inactive-ok-file: CLAIM-276 CLAIM-281 THEORY-135 THEORY-141 — Proposed; claims this one complements and cites, and readings that corroborate it, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1206 LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the parts read, nothing here rests on them -->
 
 # CLAIM-359: A self-governing organization's robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones

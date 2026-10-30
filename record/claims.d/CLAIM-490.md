@@ -58,3 +58,10 @@ their share of the whole.
 - **Not that the stance is not the fanbase's.** If the fanbase as
   organized speaks through its committed members, the credit may be due;
   that is [QUESTION-119](../questions.d/QUESTION-119.md)'s question.
+
+## Note of 2026-10-29: what holds it back
+
+It grounds on THEORY-1111's taxonomy, which is unmeasured, and its own
+defeat condition names the missing result: survey evidence on whether
+spectators' type of attachment predicts taking part in the expressions
+that make up a fanbase's stance.

@@ -15,7 +15,17 @@ promote_when: >-
   multilevel and inclusive-fitness versions are equivalent by
   construction, cannot settle it.
 title: 'In a major evolutionary transition, where formerly free-living units come to form a higher-level unit, the collective is stable only if selection between collectives comes to trump selection among the units within them, typically through mechanisms such as policing, kinship and division of labour that align the interests of the units; the levels at which selection acts are then a product of evolution, to be explained rather than assumed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-359 is removed: the fifteenth status
+    review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings), moved this reading from CLAIM-359's
+    grounds to its corroborated_by (ADR-058), since that claim cites
+    it as a biological precedent and its steps stand on its premises.
+    The account is unchanged.
 tags:
 - philosophy-of-biology
 - philosophy-of-science
@@ -31,8 +41,6 @@ summary: >-
   transitions make the hierarchy an explanandum. Proposed: a review
   stating general principles that Okasha himself says may explain any one
   transition only coarsely.
-supports:
-- CLAIM-359
 rivals:
 - THEORY-607
 corroborates:
@@ -95,3 +103,14 @@ or data.
   produced, not given. Okasha does not discuss organizations, and his
   caution against presupposing a collective action problem carries over to
   them.
+
+## Note of 2026-10-29: what holds it back
+
+Its promote_when is unmet: Okasha states the principle in a review with
+no model or data, and no experimental evolution of new higher-level
+units or comparative work across independent transitions has been read
+showing that the collectives which evolved adaptations of their own are
+those in which selection among their members was suppressed or their
+interests aligned. It could be narrowed to what Okasha holds, keeping
+the wide form as a Proposed THEORY under ADR-047's kind 1, if a claim
+comes to need only that.

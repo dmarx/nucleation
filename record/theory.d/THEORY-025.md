@@ -17,7 +17,18 @@ promote_when: >-
   The cross-country table in Drèze & Sen 2013, cited second-hand in
   LIT-287, is not that comparison.
 title: 'Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-352 is removed: the fifteenth status
+    review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings), moved this reading from CLAIM-352's
+    grounds to its corroborated_by (ADR-058), since that claim cites
+    conversion only as a parallel to CLAIM-345 and does not use the
+    negative thesis against resource metrics. The account is
+    unchanged.
 tags:
 - ethics
 - society-and-governance
@@ -37,8 +48,6 @@ summary: >-
   and a shared intuition, and Sen says it stands without his positive
   proposal. The resourcist reply (Pogge) is not held, and the claim does
   not say capabilities are the right replacement.
-supports:
-- CLAIM-352
 corroborates:
 - CLAIM-060
 ---
@@ -87,3 +96,14 @@ Robeyns ([LIT-287](../literature.d/LIT-287.md)) makes conversion one of the eigh
 - [LIT-202](../literature.d/LIT-202.md) (Pettigrew) discusses adaptive preferences in the context of consent. It cites Elster and Khader, not Sen, so the link is thematic.
 - [LIT-146](../literature.d/LIT-146.md) treats Nussbaum's capabilities as a value theory for animals.
 - [THEORY-411](THEORY-411.md) states what Sen puts in place of the metrics this account rejects: weights left to public reasoning, and a partial ordering where admissible weightings agree.
+
+## Note of 2026-10-29: what holds it back
+
+Its promote_when is unmet: the resourcist reply (Pogge 2002, or Rawls on
+special needs) is unread, so whether a resource index specified without
+reference to individual conversion can register the contented disabled
+person's claim is untested here, and no controlled comparison showing
+income and achieved functionings coming apart at the individual level
+has been read. It could be narrowed to Sen's argument, which is held
+first-hand in NOTE-258, keeping the wide form as a Proposed THEORY under
+ADR-047's kind 1, if a claim comes to need only that.

@@ -13,7 +13,18 @@ promote_when: >-
   faster than those that do not. Agreement among philosophers, or the
   plausibility of the norms, cannot settle it.
 title: 'Scientific objectivity belongs to a community''s critical practices rather than to individual method: because evidence bears on hypotheses only through background assumptions that no evidence supports, a community is objective to the degree that its criticism has venues, uptake, public standards and tempered equality of intellectual authority'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-403 is removed: the fifteenth status
+    review (ADR-057), at the status review's ruling (the owner
+    delegated these rulings), moved this reading from CLAIM-403's
+    grounds to its corroborated_by (ADR-058), since that claim takes
+    from Longino the names of its top rungs, uptake and tempered
+    equality, not her thesis that the norms confer objectivity. The
+    account is unchanged.
 tags:
 - philosophy-of-science
 - epistemology
@@ -27,8 +38,6 @@ summary: >-
   meets four norms: venues, uptake, public standards, and tempered
   equality. Proposed because the record reads the summary, not the books,
   and the norms' epistemic benefit is argued rather than shown.
-supports:
-- CLAIM-403
 bears_on:
 - QUESTION-047
 ---
@@ -91,3 +100,14 @@ reasoning in progress, not only the review of finished claims.
   judgments cannot be read off its members' judgments proposition by
   proposition. Longino's community is a different kind of collective:
   knowledge is held socially without the group forming one judgment.
+
+## Note of 2026-10-29: what holds it back
+
+Its promote_when is unmet in both halves: the books in which Longino
+makes the argument (LIT-717, LIT-732) are unread, so the norms and the
+underdetermination premise are checked only against her own summary in
+§5 of the SEP entry, and no evidence has been read that communities
+meeting the four norms, measured independently, track truth better or
+correct error faster. It could be narrowed to what the entry argues,
+keeping the wide form as a Proposed THEORY under ADR-047's kind 1, if a
+claim comes to need only that.
