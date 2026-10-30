@@ -247,3 +247,12 @@ perspective taking, and lists "broadened views of the ingroup" only among
 the mediators not tested. Its perspective-taking leg, the nearest it
 comes, could not be separated from empathy, and nothing in it tests a
 change in how one's own view is held. The claim is unchanged.
+
+## Note of 2026-10-30: what holds it back
+
+Kept Proposed by the eighteenth status review. Its own note of 2026-10-22
+found the third disjunct of its defeat condition live: habitus and
+transposable schemas may explain the same transitions, and no model in the
+record out-predicts them at matched complexity, which is the critical
+question ARG-025 fails. The same note found it citing Swidler and Wacquant,
+who disagree, for sense 2, and the claim has not said which it means.

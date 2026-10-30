@@ -275,3 +275,15 @@ criterion.
   puzzles, not answered.
 
 So the distinction remains the record's own. The claim stays Proposed.
+
+## Note of 2026-10-30: what holds it back
+
+Kept Proposed by the eighteenth status review. Without an answer to
+QUESTION-118, on what must be transmitted, the claim cannot tell
+continuation from causal descent where every candidate is causally
+continuous, as in training (note of 2026-10-26) and CASE-105's three
+successors. CASE-105's 2005 Nationals, continuity by name and place with
+no causal path from the original club, is the test its defeat condition
+names, and nothing in the record says whether the league, the club or its
+supporters count it as continuation. The note of 2026-10-22 limited the
+criterion to a carrier's persistence, and the title does not say so.

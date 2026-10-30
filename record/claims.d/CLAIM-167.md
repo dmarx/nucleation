@@ -96,3 +96,15 @@ and where, there is an agent ([TERM-044](../terms.d/TERM-044.md)<!-- ref::uses: 
   flow follows where the drive enters, not the coupling. So telling peers
   from hierarchy needs an intervention on one member, as [QUESTION-063](../questions.d/QUESTION-063.md)
   asks.
+
+## Note of 2026-10-30: what holds it back
+
+Kept Proposed by the eighteenth status review. Its defeat condition is met
+by its own example or cannot be met. For a target about the driven part,
+such as "predict the musician's timing", a one-way driver taken as an
+exogenous input loses nothing, including the driven part's response to an
+intervention on it (checked in p18/claim167_input_description.py, with a
+mutual pair as control); for a target that needs both parts, the driven
+part alone cannot serve. The restatement is the owner's. Its sense of
+"one system" is also CLAIM-157's threshold criterion (TERM-049), which is
+Proposed.

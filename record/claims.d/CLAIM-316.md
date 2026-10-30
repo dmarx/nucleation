@@ -1,10 +1,26 @@
 ---
 number: 316
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp2gewd
 title: 'A person''s drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Eighteenth status review (ADR-057). Status Proposed to Active, at the
+    status review's ruling (the owner delegated these rulings): its term,
+    TERM-051, is Active and defines a profile as time-indexed; the will
+    line's account it is argued from, CLAIM-027, is Active and now in
+    rests_on, where the summary already put it; no objection is filed
+    against it; and nothing in the record meets its defeat condition. That
+    no drive profile has been estimated in a person over successive windows
+    is the defeat condition's test, not a premise, as the ninth review held
+    for CLAIM-159, which is Active and already says that will-organization
+    governs how the profile changes. QUESTION-033 moves from answers to
+    bears_on (ADR-060): the claim says that the apportionment changes, and
+    offers no way to apportion drive. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -15,10 +31,12 @@ tags:
 - self
 date: '2026-10-15'
 line: distributed-agency
-answers:
+bears_on:
 - QUESTION-033
 uses:
 - TERM-051
+rests_on:
+- CLAIM-027
 complements:
 - CLAIM-166
 summary: >-
@@ -30,7 +48,6 @@ summary: >-
   interpretive. The microbiome part, which the reviews support, stays in
   [CLAIM-166](CLAIM-166.md).
 ---
-<!-- inactive-ok-file: CLAIM-159 — Proposed; the will-line claims that give non-constancy its home, open -->
 
 # CLAIM-316: A person's drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime
 

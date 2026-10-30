@@ -73,3 +73,12 @@ on that sense the pair may qualify. The owner's method is to name and
 characterize the combined form first and then ask which sense of "self", if
 any, it earns. Until that is done this objection is a marker for the
 subject sense, not a verdict.
+
+## Note of 2026-10-30: what holds it back
+
+Kept Proposed by the eighteenth status review. It has no defeat condition,
+and its body calls it "a marker for the subject sense, not a verdict":
+without a criterion for when an organized whole is a subject
+(QUESTION-046), "not a subject" is a stipulation, as that question says of
+this claim. CLAIM-175's objection is written in (version 2) and is not
+what holds it.
