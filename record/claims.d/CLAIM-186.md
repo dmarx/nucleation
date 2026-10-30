@@ -161,7 +161,7 @@ The bearing is the assistant's reading. Neither paper is about arguments.
 ## Note of 2026-10-30: what holds it back
 
 The test its own text names has not been run. No stretch of exchanges in
-the record has its turns per filed entry (CASE-183's measure) set against
+the record has its turns per filed entry ([CASE-183](../cases.d/CASE-183.md)'s measure) set against
 the drift the workbench records for it, and there is no slow or
 differently anchored exchange to compare with the translation exchange.
-ARG-028, which would carry the measures to this claim, is Proposed.
+[ARG-028](../arguments.d/ARG-028.md), which would carry the measures to this claim, is Proposed.

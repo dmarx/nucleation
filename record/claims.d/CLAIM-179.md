@@ -165,11 +165,11 @@ Unavailable.
 
 ## Note of 2026-10-30: what holds it back
 
-Its premise, Grudin's disparity account (THEORY-311), is Proposed: no
+Its premise, Grudin's disparity account ([THEORY-311](../theory.d/THEORY-311.md)), is Proposed: no
 study in the record measures, member by member, the extra work asked and
 the benefit received across groupware. The record's own reading of
-LIT-757 finds the one issue-based system Grudin cites abandoned for a
-political reason, not the disparity, and LIT-758 reports IBIS adopted. The
+[LIT-757](../literature.d/LIT-757.md) finds the one issue-based system Grudin cites abandoned for a
+political reason, not the disparity, and [LIT-758](../literature.d/LIT-758.md) reports IBIS adopted. The
 title says the disparity is removed, while the body says it moves to the
 owner's reviewing, which is the mechanism the defeat condition names.
 Nothing beyond the record's own five weeks says whether that sinks

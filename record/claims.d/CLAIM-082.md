@@ -178,10 +178,10 @@ the second clause of this claim's defeat condition.
 
 ## Note of 2026-10-30: what holds it back
 
-THEORY-159 is a premise here, not corroboration or an attribution
-(ADR-058). The title asserts Saussure's account, and the second clause of
-`defeated_if` is THEORY-159's promote_when. A "Saussure proposes" split of
-THEORY-159 would not free it, since the claim needs the account true, not
+[THEORY-159](../theory.d/THEORY-159.md) is a premise here, not corroboration or an attribution
+([ADR-058](../decisions.d/ADR-058.md)). The title asserts Saussure's account, and the second clause of
+`defeated_if` is [THEORY-159](../theory.d/THEORY-159.md)'s promote_when. A "Saussure proposes" split of
+[THEORY-159](../theory.d/THEORY-159.md) would not free it, since the claim needs the account true, not
 only proposed. It waits on a study that adds, loses or merges a term in a
 language's inventory and measures the neighbouring terms' use against
 terms outside the field.

@@ -135,7 +135,7 @@ such.
   c_a and u are fixed and known in the proof. The record's reconstruction
   costs are estimates, and reconstruction gets cheaper as related
   arguments are filed.
-- **That recognition costs a fixed amount per use.** CLAIM-314:
+- **That recognition costs a fixed amount per use.** [CLAIM-314](CLAIM-314.md):
   certifying that stored answers cover a new question is NP-complete even
   for conjunctive queries, and its cost grows with what is stored. Where
   reuse is found by search, each filing raises the cost of using the
@@ -167,6 +167,6 @@ question it answers, so that the worst case is the wrong standard.
 ## Note of 2026-10-30: what holds it back
 
 The bound corrected in version 3 has not yet been re-derived by a second
-reviewer. Promoting this objection makes its concession due on CLAIM-303,
+reviewer. Promoting this objection makes its concession due on [CLAIM-303](CLAIM-303.md),
 which has not answered: it could restrict its last clause to reuse that
 can be forecast, or hold that the record always has some forecast.

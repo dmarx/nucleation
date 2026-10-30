@@ -106,10 +106,10 @@ distributional neighbourhoods from four hand-picked words. [ARG-033](../argument
 
 Its promote_when is unmet: no study in the record changes a language's
 inventory and measures the neighbouring terms' use against a control. A
-split of what Saussure proposes, on THEORY-1110's pattern, would be Active
-at once, since Part Two ch. IV is read in full (NOTE-594), but it frees
-nothing yet. CLAIM-082 asserts the account, and needs this entry promoted,
-not split. CLAIM-242 needs only the proposal: value as a concept, and that
-values do not cross between languages. The split is due when CLAIM-242 is
-otherwise promotable. CLAIM-242 then grounds on the split and drops this
+split of what Saussure proposes, on [THEORY-1110](THEORY-1110.md)'s pattern, would be Active
+at once, since Part Two ch. IV is read in full ([NOTE-594](../notes.d/NOTE-594.md)), but it frees
+nothing yet. [CLAIM-082](../claims.d/CLAIM-082.md) asserts the account, and needs this entry promoted,
+not split. [CLAIM-242](../claims.d/CLAIM-242.md) needs only the proposal: value as a concept, and that
+values do not cross between languages. The split is due when [CLAIM-242](../claims.d/CLAIM-242.md) is
+otherwise promotable. [CLAIM-242](../claims.d/CLAIM-242.md) then grounds on the split and drops this
 entry from its grounds.
