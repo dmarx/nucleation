@@ -1,10 +1,21 @@
 ---
 number: 460
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp7mzg1
 title: 'In the completely locked-in state, evidence of lucid judgement has to cross a channel the patient drives, which is action in active inference''s sense, so such cases can show the judgement–observation loop running down but never running with no action at all, and a null result cannot tell lost judgement from a lost channel'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted at the nineteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its one ground,
+    CASE-107, is Active and states the asymmetry. Nothing objects to it,
+    and nothing in the record meets its defeated_if: the command-
+    following studies the case reads answer through imagined action, a
+    channel the patient drives, and by their authors' own account their
+    null results cannot be interpreted. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

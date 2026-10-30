@@ -1,10 +1,10 @@
 ---
 number: 411
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp1lvwf
 title: 'Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight''s apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -28,6 +28,17 @@ history:
     Note of 2026-10-22 added, from the readings of that day: the works read
     support the objection, and none meets its defeater. The claim is
     unchanged.
+- version: 5
+  date: '2026-10-30'
+  note: >-
+    Promoted at the nineteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). It has no
+    premise and nothing objects to it. Nothing in the record meets its
+    defeated_if: none of the candidates tried in the exchange or in the
+    readings of 2026-10-22 (QUESTION-254, CLAIM-439) states a qualifying
+    organization independent of report. Its target CLAIM-412 was filed
+    conceding it, and now says so in a note filed with its concessions.
+    The claim is unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-

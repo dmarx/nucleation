@@ -1,10 +1,10 @@
 ---
 number: 497
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpxk5cy
 title: "A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-30'
@@ -15,6 +15,22 @@ history:
     already the record's (THEORY-1167, THEORY-1169) and what this adds is
     the record's own interpretive step from those results to where causes
     are (ADR-032, ADR-043).
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted at the nineteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), on the owner's
+    direction of 2026-10-30 to "adopt the proportionality thesis". Its
+    grounds are Active: THEORY-1167 and THEORY-1169, and LIT-1833 and
+    LIT-1834, read in full in NOTE-1420 and NOTE-1415. Nothing objects
+    to it, and nothing in the record meets its defeated_if. The reviewer
+    re-checked the bound, the characterization of the lossless
+    partitions and the uniqueness of the coarsest one by enumeration
+    (p19/claim497_partitions.py, with a uniform-per-level control).
+    QUESTION-204 moves from answers to bears_on (ADR-060): whether real
+    systems have a stable proportionate level, the question's empirical
+    half, is this claim's own defeated_if, not something it settles. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,7 +53,7 @@ date: '2026-10-30'
 line:
 - formal-apparatus
 - distributed-agency
-answers:
+bears_on:
 - QUESTION-204
 grounds:
 - THEORY-1167
@@ -56,7 +72,7 @@ summary: >-
   in the sense of proportionality. It does not say the macro adds causal
   information.
 ---
-<!-- inactive-ok-file: QUESTION-204 QUESTION-335 — Open; the questions this claim answers in part and leaves open, cited as open -->
+<!-- inactive-ok-file: QUESTION-204 QUESTION-335 — Open; the question this claim bears on and the case it leaves open, cited as open -->
 <!-- inactive-ok-file: THEORY-787 — Rejected; the account this claim replaces, cited as rejected -->
 
 # CLAIM-497: A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on

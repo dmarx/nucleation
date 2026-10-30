@@ -54,3 +54,11 @@ sufficient, not necessary, and falls if weights concentrate near a
 low-dimensional subspace. Nor does it hold for curved paths: Draxler et
 al. ([LIT-653](../literature.d/LIT-653.md)) find barriers on minimum-energy paths falling as networks get
 deeper.
+
+## Note of 2026-10-30: what holds it back
+
+The measurement its defeated_if names has not been made: no reading in the
+record tracks the barrier after alignment against depth at fixed width
+under one alignment method (QUESTION-317). It composes Entezari et al.'s
+depth curves, which are before alignment, with Ferbach et al.'s width
+bound, which is sufficient and not necessary, and neither measures it.

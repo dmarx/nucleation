@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpra2cf
 title: 'Valence intensity need not be the strength of the prevailing ordering''s potential: in Hesp et al.''s model negative valence is a weakening of the preference ordering''s precision with a fall back to habit, and positive affect is reported to lower a goal''s priority, so for either sign stronger valence can go with a weaker hold of the ordering'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    LIT-1445 removed from grounds at the nineteenth status review, at
+    the status review's ruling (the owner delegated these rulings;
+    ADR-057, ADR-058): Carver 2003 is Unfetched and no NOTE reads it, so
+    it takes no edge, and the body keeps the citation. A dated note says
+    what holds it back. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -17,7 +26,6 @@ objects_to:
 - CLAIM-440
 grounds:
 - LIT-1468
-- LIT-1445
 complements:
 - CLAIM-438
 summary: >-
@@ -72,3 +80,12 @@ and holds even of motivational valence.
   fear is a case where strong negative valence and a strong hold go
   together, as the clause says. The objection is that the relation can
   run either way, so the clause needs a condition.
+
+## Note of 2026-10-30: what holds it back
+
+Its positive half rests on Carver 2003 (LIT-1445), which is unread; the
+claim says that is why it is Proposed. It also has no defeated_if, which
+it needs before a ruling: for the negative half, a reading of Hesp et al.
+on which a fall in γ is not a weaker hold of the preference ordering; for
+the positive half, Carver read and found not to hold that positive affect
+lowers a goal's priority.

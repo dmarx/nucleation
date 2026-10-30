@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdga80
 title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-22'
@@ -49,6 +49,12 @@ history:
     illusions and reappraisals that motivate it show that experience is
     constructed, not that construction is experience'. The body is
     unchanged.
+- version: 7
+  date: '2026-10-30'
+  note: >-
+    A note filed with its concessions names CLAIM-411, promoted at the
+    nineteenth status review, at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-059). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -390,3 +396,13 @@ verdict on support. It is now [ARG-018](../arguments.d/ARG-018.md), from [THEORY
 2026-10-22 and 2026-10-25 in its body. This claim keeps the constitution
 thesis and does not undercut that argument: what defeats it is the rival
 readings.
+
+## Note of 2026-10-30: filed with its concessions
+
+CLAIM-411 has been written into this claim since filing. The defeated_if
+says the claim is "Not defeated by unconscious interpretation as such", and
+part 3 of the body says "Not every interpretation qualifies". The objection
+is conceded: interpretation alone does not establish experience, and the
+claim owes the further organizational condition, which it names as
+perspectival organization and has not yet stated in a form that meets
+CLAIM-411's defeater.
