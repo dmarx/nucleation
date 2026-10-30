@@ -39,6 +39,7 @@ bears_on:
 - QUESTION-315
 ---
 <!-- inactive-ok-file: LIT-751 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
+<!-- inactive-ok-file: ADR-047 THEORY-tmp5c7t8 — ADR-047 Superseded by ADR-057, which keeps its evidence rulings; THEORY-tmp5c7t8 Proposed, the reading that keeps the old title without its "only if" -->
 <!-- inactive-ok-file: THEORY-143 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
@@ -106,3 +107,15 @@ Holman and Bruner ([LIT-744](../literature.d/LIT-744.md)) give a historical case
 - **The owner's essay.** §8.2's epistemic networks can be steered from
   outside without any member being captured; the remedy proposed is a
   community-level rule about how merit is counted.
+
+## Note of 2026-10-30: the dropped clause
+
+The old title said an independent funder counteracts industrial selection
+"only if it discounts industry-funded work". That was imprecise. Holman and
+Bruner compare two funder policies at one parameter setting (Figure 2) and
+assert that a merit-based funder worsens the bias and one that discounts
+industry-funded work counteracts it (NOTE-574, C4). They assert no
+necessity, and no other policy is tested. The "only if" is not kept as a
+proposal (ADR-047, kind 3). The rest of the old title, which the paper
+asserts, is kept as the Proposed reading THEORY-tmp5c7t8, with the funder
+clause restated without the "only if".
