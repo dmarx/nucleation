@@ -179,18 +179,18 @@ is enough to show she lacks ultimacy (p. 150).
 
 ## Connections
 
-THEORY-316 states Pereboom's causal-history incompatibilism from a partial
-reading (NOTE-823). Timpe takes Pereboom's own taxonomy as his target and
+[THEORY-316](../theory.d/THEORY-316.md) states Pereboom's causal-history incompatibilism from a partial
+reading ([NOTE-823](NOTE-823.md)). Timpe takes Pereboom's own taxonomy as his target and
 places Pereboom on the wide side, keeping an alternatives condition, which
-agrees with NOTE-823's report that Pereboom leaves open alternatives
+agrees with [NOTE-823](NOTE-823.md)'s report that Pereboom leaves open alternatives
 conditions "necessary for moral responsibility but nevertheless irrelevant
-to explaining why" (Pereboom p. 2). Fischer 2010 (LIT-tmppshez) answers
+to explaining why" (Pereboom p. 2). Fischer 2010 ([LIT-tmppshez](../literature.d/LIT-tmppshez.md)) answers
 the Dilemma Defense that Timpe's n. 31 points to through Goetz, and
 concedes that determinism may undermine "sourcehood" (p. 331).
 
 ## Bearing on the record
 
-- **THEORY-316, not met; it sharpens a caveat rather than confirming or
+- **[THEORY-316](../theory.d/THEORY-316.md), not met; it sharpens a caveat rather than confirming or
   refuting.** Its promote_when asks for a first-hand reading of Pereboom's
   Chapter 1, pp. 10–37, and a checked leeway reply. Timpe quotes Pereboom's
   book only at pp. 68–69 and 85, on agent causation, and cites p. 18 on
@@ -199,12 +199,12 @@ concedes that determinism may undermine "sourcehood" (p. 331).
   it entails a weak alternatives condition. That does not touch Step 2. It
   qualifies Step 1: Frankfurt-style cases do not defeat every
   alternatives condition, since the incompatibilist must keep the one
-  ultimacy entails, which is what THEORY-316's "Not that every
+  ultimacy entails, which is what [THEORY-316](../theory.d/THEORY-316.md)'s "Not that every
   alternative-possibilities condition is false" already allows. Timpe's
   argument runs from ultimacy to alternatives, not the other way, so it is
   not the refuting argument the promote_when names, that condition (3)
   matters only because it secures alternatives.
-- **THEORY-119**, that the principle of alternate possibilities is false by
+- **[THEORY-119](../theory.d/THEORY-119.md)**, that the principle of alternate possibilities is false by
   Frankfurt-style cases: Timpe accepts PAP may fail and holds that a weaker
   alternatives condition, entailed by ultimacy, survives for the
   incompatibilist.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmpegx3g) in full, from an offprint scan posted on
+  read 2026-10-30 ([NOTE-tmpegx3g](../notes.d/NOTE-tmpegx3g.md)) in full, from an offprint scan posted on
   Kelso's lab page at Florida Atlantic University
   (https://ccs.fau.edu/hbblab/pdfs/Kelso_1986_PhysLettersA.pdf), read from
   the page images; worth reading as the first quantified report of
@@ -59,7 +59,7 @@ summary: >-
 J. A. S. Kelso, J. P. Scholz and G. Schöner (1986), *Physics Letters A*
 118(6):279–284. doi:10.1016/0375-9601(86)90359-2.
 
-Read in full on 2026-10-30 (NOTE-tmpegx3g), from an offprint scan on
+Read in full on 2026-10-30 ([NOTE-tmpegx3g](../notes.d/NOTE-tmpegx3g.md)), from an offprint scan on
 Kelso's lab page.
 
 ## Key takeaways
@@ -82,7 +82,7 @@ Kelso's lab page.
 
 ## Standing in the record
 
-Filed on 2026-10-30 at the owner's request, with HKB 1985 (LIT-588) and
-Kelso, Scholz and Schöner 1988 (LIT-tmpupvec), as first-hand data for
-THEORY-069. The authors include the model's own author; no independent
+Filed on 2026-10-30 at the owner's request, with HKB 1985 ([LIT-588](LIT-588.md)) and
+Kelso, Scholz and Schöner 1988 ([LIT-tmpupvec](LIT-tmpupvec.md)), as first-hand data for
+[THEORY-069](../theory.d/THEORY-069.md). The authors include the model's own author; no independent
 replication is read. No instruction for machine-learning practice.

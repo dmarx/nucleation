@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmpb8btj) in full, from the published PDF on the
+  read 2026-10-30 ([NOTE-tmpb8btj](../notes.d/NOTE-tmpb8btj.md)) in full, from the published PDF on the
   author's faculty page at Union College
   (https://minerva.union.edu/zaibertl/zaibert%20on%20searle%20and%20collective%20intentions.pdf);
   worth reading as a secondary report of Searle's unread "Collective
-  Intentions and Actions" (LIT-490), which it quotes page by page (CIA
+  Intentions and Actions" ([LIT-490](LIT-490.md)), which it quotes page by page (CIA
   401–412), and as the argument that the paper gives no analysis of
   we-intentions: its favoured form is a complex individual by-means-of
   intention, and Searle concedes he has not shown that reduction to
@@ -69,7 +69,7 @@ doi:10.1111/1536-7150.t01-1-00008.
 
 ## Key takeaways
 
-- Searle's "Collective Intentions and Actions" (LIT-490) does not show
+- Searle's "Collective Intentions and Actions" ([LIT-490](LIT-490.md)) does not show
   that collective intentionality is irreducible. On its own words, as
   Zaibert quotes them, its arguments only "suggest that our intuition is
   right", and "I have not demonstrated that no such analysis could ever
@@ -87,7 +87,7 @@ doi:10.1111/1536-7150.t01-1-00008.
 
 ## Why this is here
 
-THEORY-625's promote_when waits on an argument that collective
+[THEORY-625](../theory.d/THEORY-625.md)'s promote_when waits on an argument that collective
 intentionality is irreducible, which Searle's 2006 paper defers to his
-1990 paper (LIT-490), and that paper is Unavailable. This is a published
+1990 paper ([LIT-490](LIT-490.md)), and that paper is Unavailable. This is a published
 report of the 1990 paper, with page references, by a critic.

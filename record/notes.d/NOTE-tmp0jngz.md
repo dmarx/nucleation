@@ -161,29 +161,29 @@ transitions in the decerebrate cat (Shik et al. 1966) and Grillner's
 "switch mechanism". Its noise term is the opening that Schöner, Haken and
 Kelso's 1986 stochastic theory (Biological Cybernetics 53:247, not filed)
 fills, and the critical fluctuations it promises are reported in Kelso,
-Scholz and Schöner 1986 (LIT-tmp8grr0, NOTE-tmpegx3g). Kelso's 2021
-retrospective (LIT-601, NOTE-467) restates this model as the "top tier"
-above the coupled components, and *Dynamic Patterns* (LIT-578) is the
+Scholz and Schöner 1986 ([LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md), [NOTE-tmpegx3g](NOTE-tmpegx3g.md)). Kelso's 2021
+retrospective ([LIT-601](../literature.d/LIT-601.md), [NOTE-467](NOTE-467.md)) restates this model as the "top tier"
+above the coupled components, and *Dynamic Patterns* ([LIT-578](../literature.d/LIT-578.md)) is the
 book-length treatment.
 
 ## Bearing on the record
 
-- **THEORY-069: partly.** The paper is the model's original statement,
-  and it confirms THEORY-069's equations, the b/a = 1/4 threshold, the
+- **[THEORY-069](../theory.d/THEORY-069.md): partly.** The paper is the model's original statement,
+  and it confirms [THEORY-069](../theory.d/THEORY-069.md)'s equations, the b/a = 1/4 threshold, the
   direction of the switch (anti-phase to in-phase as frequency rises),
   and the derivation from coupled oscillators. It also states hysteresis
   as an observed feature of Kelso's experiments (p. 348) and derives it,
-  which corrects THEORY-069's line that "the read text does not report
+  which corrects [THEORY-069](../theory.d/THEORY-069.md)'s line that "the read text does not report
   the hysteresis data": this text reports it, though it does not show the
   data. It does not meet the condition that matters most in the
   `promote_when`: it reports neither critical fluctuations nor critical
   slowing, naming both as future work (p. 355). The 1985 paper is a
-  theory paper; for first-hand data see NOTE-tmpegx3g and NOTE-tmpswmu1.
-- **THEORY-069's `promote_when` names Schöner, Haken and Kelso (1986).**
+  theory paper; for first-hand data see [NOTE-tmpegx3g](NOTE-tmpegx3g.md) and [NOTE-tmpswmu1](NOTE-tmpswmu1.md).
+- **[THEORY-069](../theory.d/THEORY-069.md)'s `promote_when` names Schöner, Haken and Kelso (1986).**
   That is the stochastic theory in Biological Cybernetics 53:247, still
   not filed and not read. It is a different paper from Kelso, Scholz and
-  Schöner's Physics Letters A report of the same year (LIT-tmp8grr0).
-- **LIT-601 and NOTE-467.** Kelso's 2021 account of this paper is
+  Schöner's Physics Letters A report of the same year ([LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md)).
+- **[LIT-601](../literature.d/LIT-601.md) and [NOTE-467](NOTE-467.md).** Kelso's 2021 account of this paper is
   faithful on the model. One small difference: he speaks of hybrid
   oscillators; this paper uses a Van der Pol variant (Eq. 3.6) and a
   superposition with a Van der Pol term (Eq. 3.9), and notes the choice
@@ -210,7 +210,7 @@ book-length treatment.
 ## Open questions
 
 - Do critical fluctuations and critical slowing precede the switch, as
-  the synergetic analogy predicts? (Fluctuations: LIT-tmp8grr0.
+  the synergetic analogy predicts? (Fluctuations: [LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md).
   Relaxation time: Scholz, Kelso and Schöner 1987, not filed.)
 - Is the transition reached at a critical amplitude, as Eqs. 3.24 and
   3.27 imply?

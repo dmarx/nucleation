@@ -140,15 +140,15 @@ analysis (SIGIR 1996).
 
 ## Bearing on the record
 
-- **TERM-056: fully.** The term cites this paper for query drift, "where
+- **[TERM-056](../terms.d/TERM-056.md): fully.** The term cites this paper for query drift, "where
   the need stays fixed and the search leaves it". That is what the paper
   says. Its definition is "the alteration of the focus of a search topic
   caused by improper expansion" (p. 206). In its example the topic (tire
   recycling) stays as stated, and the expanded query comes to "look more
   like a query about plastics and general recycling". The paper never
   considers the need itself changing. So nothing here blurs the
-  distinction TERM-056 draws; the paper supplies one side of it.
-- **CLAIM-301: partly.** The claim's body cites this paper only for the
+  distinction [TERM-056](../terms.d/TERM-056.md) draws; the paper supplies one side of it.
+- **[CLAIM-301](../claims.d/CLAIM-301.md): partly.** The claim's body cites this paper only for the
   term query drift, as "the IR literature's", and its note of 2026-10-29
   counts the source as Unavailable and unread. That much is now met: the
   term and its cause are here, and the record's earlier reading of the
@@ -156,10 +156,10 @@ analysis (SIGIR 1996).
   documents retrieved under one aspect supply the terms that pull the
   query further toward that aspect. But it is a single round of feedback
   with the need held fixed, so it gives no evidence that the question
-  being investigated drifts, which is CLAIM-301's thesis. The claim's
+  being investigated drifts, which is [CLAIM-301](../claims.d/CLAIM-301.md)'s thesis. The claim's
   other open items, a filed CASE for the exchange's drift and the matched
   study its `defeated_if` names, are untouched.
-- **LIT-1079's summary.** Its first half holds: expansion hurts when
+- **[LIT-1079](../literature.d/LIT-1079.md)'s summary.** Its first half holds: expansion hurts when
   most of the top-ranked documents are off-topic. Its second half, "ways
   to keep expansion on the original query", is loose. The remedy is to
   refine the set of feedback documents by reranking, with the query's

@@ -126,14 +126,14 @@ The paper reports and interprets. Its claims, by section:
 ## Connections
 
 It cites Giroux's *Après Canguilhem* (2010) as the main reference on
-Canguilhem's normativity (note 9). Giroux 2021 (LIT-tmphwtnd, read in
-NOTE-tmptu1ne) quotes the same definition of health from the same book and
+Canguilhem's normativity (note 9). Giroux 2021 ([LIT-tmphwtnd](../literature.d/LIT-tmphwtnd.md), read in
+[NOTE-tmptu1ne](NOTE-tmptu1ne.md)) quotes the same definition of health from the same book and
 the same refusal to treat society as an organism. Both lean on Goldstein,
-as does Di Paolo's paraphrase reported in NOTE-719.
+as does Di Paolo's paraphrase reported in [NOTE-719](NOTE-719.md).
 
 ## Bearing on the record
 
-- **CLAIM-018: partly.** The claim waits on a NOTE that reads Canguilhem's
+- **[CLAIM-018](../claims.d/CLAIM-018.md): partly.** The claim waits on a NOTE that reads Canguilhem's
   book, and its defeat condition is a reading on which normativity "is not
   a capacity to establish new norms under changed conditions". This paper
   is a reading of the book by another, and it says the opposite of the

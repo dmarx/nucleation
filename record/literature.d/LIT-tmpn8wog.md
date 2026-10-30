@@ -1,17 +1,17 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmpz05rj) in full, from the author's upload of
+  read 2026-10-30 ([NOTE-tmpz05rj](../notes.d/NOTE-tmpz05rj.md)) in full, from the author's upload of
   the published pages
   (https://kevin-timpe.publicplatform.net/wp-content/uploads/sites/26/2018/12/source.pdf),
-  an author's upload under ADR-064. Worth reading as the argument that
+  an author's upload under [ADR-064](../decisions.d/ADR-064.md). Worth reading as the argument that
   the best source incompatibilism is "wide": ultimacy requires
   indeterminism, indeterminism leaves some alternative, so an
   alternative-possibilities condition is entailed by the ultimacy
   condition, and the dichotomy between leeway and source incompatibilism
   should be dropped. Read it knowing that the entailed alternatives may be
   non-robust and do no explanatory work, and that it quotes Pereboom's
-  book (LIT-1006, unread) at three places only.
+  book ([LIT-1006](LIT-1006.md), unread) at three places only.
 title: 'Source Incompatibilism and Its Alternatives'
 version: 1
 history:
@@ -80,8 +80,8 @@ Philosophical Quarterly*, 44(2), 143–155.
 
 ## Why this is here
 
-THEORY-316 states Pereboom's view that Frankfurt-style cases defeat
+[THEORY-316](../theory.d/THEORY-316.md) states Pereboom's view that Frankfurt-style cases defeat
 alternative-possibilities conditions but leave the causal-history
 condition standing as the more fundamental one, from a partial reading of
-*Living without Free Will* (LIT-1006, Unavailable). This paper argues that
+*Living without Free Will* ([LIT-1006](LIT-1006.md), Unavailable). This paper argues that
 the causal-history condition itself entails an alternatives condition.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmpelzjc), from the publisher's open-access
+  read in full 2026-10-30 ([NOTE-tmpelzjc](../notes.d/NOTE-tmpelzjc.md)), from the publisher's open-access
   PDF (frontiersin.org/articles/10.3389/fpsyg.2013.00746/pdf; also
   PMC3813926), text extracted with pdftotext. Worth reading as Metzinger's
   own later statement of minimal phenomenal selfhood: he proposes reducing
@@ -68,7 +68,7 @@ Thomas Metzinger (2013). *Frontiers in Psychology* 4:746. DOI
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpelzjc.*
+*From the reading, [NOTE-tmpelzjc](../notes.d/NOTE-tmpelzjc.md).*
 
 - **Transparency, defined.** A transparent representation is "not
   experienced as" a representation; an opaque one is, "for example in
@@ -93,7 +93,7 @@ Thomas Metzinger (2013). *Frontiers in Psychology* 4:746. DOI
 
 ## Standing in the record
 
-Filed on 2026-10-30 for THEORY-064, the self-model account, whose
+Filed on 2026-10-30 for [THEORY-064](../theory.d/THEORY-064.md), the self-model account, whose
 `promote_when` names exactly the phenomenological test this paper turns
 into a research question. It narrows the test to self-location and makes
 lucid, bodiless dreaming the place to look, but it reports no case either

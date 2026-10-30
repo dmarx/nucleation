@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmp9x3x4), Skimmed: §§1–3 and 5–8 in full, with
+  read 2026-10-30 ([NOTE-tmp9x3x4](../notes.d/NOTE-tmp9x3x4.md)), Skimmed: §§1–3 and 5–8 in full, with
   Theorem 26 and its proof checked line by line, from arXiv's v2 (13
   October 2025, 23 pages); §4, on representing loss functions, was not
   read. Worth reading as a short, self-contained proof of Le Cam's
@@ -65,7 +65,7 @@ van Rooyen, B. (2025). On Experiments. arXiv:2508.08288.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp9x3x4 (Skimmed: §4 not read).*
+*From the reading, [NOTE-tmp9x3x4](../notes.d/NOTE-tmp9x3x4.md) (Skimmed: §4 not read).*
 
 - **Fixed-prior randomization theorem (Theorem 26, pp. 18–19).** For a
   fixed prior π and finite sets, Risk^π_L(e) ≤ Risk^π_L(e′) + ε‖L‖∞ for all
@@ -85,7 +85,7 @@ van Rooyen, B. (2025). On Experiments. arXiv:2508.08288.
 
 ## Standing in the record
 
-Filed on 2026-10-30 for CLAIM-488. Theorem 26 is the converse that claim
+Filed on 2026-10-30 for [CLAIM-488](../claims.d/CLAIM-488.md). Theorem 26 is the converse that claim
 waits on, proved for a fixed prior. The uniform version that the claim's
 first step needs, deficiency as a maximum over the unknown, needs one more
 minimax exchange; the NOTE says what.

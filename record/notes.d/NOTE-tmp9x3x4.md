@@ -124,16 +124,16 @@ for signed losses.
 ## Connections
 
 Le Cam's 1964 paper and Torgersen's 1991 book are the sources; neither is
-read here, and the record holds Torgersen as LIT-778, Unavailable. The ε = 0
-case is Blackwell's order, read in LIT-781 (NOTE-595). Han's lecture
-(LIT-tmp44f5w, NOTE-tmp30fln) states the uniform version and sketches its
-converse. CLAIM-381 computes the uniform directed deficiency between finite
+read here, and the record holds Torgersen as [LIT-778](../literature.d/LIT-778.md), Unavailable. The ε = 0
+case is Blackwell's order, read in [LIT-781](../literature.d/LIT-781.md) ([NOTE-595](NOTE-595.md)). Han's lecture
+([LIT-tmp44f5w](../literature.d/LIT-tmp44f5w.md), [NOTE-tmp30fln](NOTE-tmp30fln.md)) states the uniform version and sketches its
+converse. [CLAIM-381](../claims.d/CLAIM-381.md) computes the uniform directed deficiency between finite
 tables as a linear programme; its programme carries the ½ that Lemma 30's
 lacks.
 
 ## Bearing on the record
 
-- **CLAIM-488: partly.** The claim's first step lacks the converse of the
+- **[CLAIM-488](../claims.d/CLAIM-488.md): partly.** The claim's first step lacks the converse of the
   randomization criterion for finite experiments, uniform in the unknown:
   that if, for every [0, 1]-loss problem and every rule for e′, some rule
   for e is within ε at every θ, then a single garbling f has
@@ -153,7 +153,7 @@ lacks.
      the record states this step.
   3. **Restrict to [0, 1] losses**, or measure the loss by its range
      max L − min L rather than ‖L‖∞, because of the factor-2 point below.
-  With those, the converse holds in CLAIM-381's finite setting, and the
+  With those, the converse holds in [CLAIM-381](../claims.d/CLAIM-381.md)'s finite setting, and the
   easy direction closes the circle. The reading therefore supplies the
   hard step; the uniform statement is a short re-derivation away, not in
   the paper.
@@ -189,5 +189,5 @@ lacks.
 ## Open questions
 
 - Whether the record wants the uniform converse written out as its own
-  CLAIM, with steps 1–3 above, which is what CLAIM-488's note of
+  CLAIM, with steps 1–3 above, which is what [CLAIM-488](../claims.d/CLAIM-488.md)'s note of
   2026-10-29 calls "a checked re-derivation".

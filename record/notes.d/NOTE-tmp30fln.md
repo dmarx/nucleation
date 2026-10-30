@@ -138,24 +138,24 @@ proof of the hard half is a minimax argument.
 Le Cam's 1964 paper (cited, with the annotation "deficiency paper") is the
 source; Le Cam's 1986 book is annotated "a hard book". Blackwell's
 comparison of experiments is the case ε = 0, held in the record through
-LIT-781 (Blackwell's 1953 paper, read in NOTE-595), whose finite converse is
-also a minimax argument. CLAIM-381 defines the deficiency between two finite
+[LIT-781](../literature.d/LIT-781.md) (Blackwell's 1953 paper, read in [NOTE-595](NOTE-595.md)), whose finite converse is
+also a minimax argument. [CLAIM-381](../claims.d/CLAIM-381.md) defines the deficiency between two finite
 tables in the kernel form of slide 13, as a least maximum over items of a
 total variation, and shows it a linear programme. van Rooyen's paper
-(LIT-tmphckuv, read in NOTE-tmp9x3x4) proves the same converse with a prior
+([LIT-tmphckuv](../literature.d/LIT-tmphckuv.md), read in [NOTE-tmp9x3x4](NOTE-tmp9x3x4.md)) proves the same converse with a prior
 fixed.
 
 ## Bearing on the record
 
-- **CLAIM-488: partly.** Its note of 2026-10-30 says the first step still
+- **[CLAIM-488](../claims.d/CLAIM-488.md): partly.** Its note of 2026-10-30 says the first step still
   lacks Le Cam's randomization criterion for finite experiments: that a
   deficiency of ε bounds every [0, 1]-loss risk gap by ε, which the record
   already has, and the converse, which it has neither read nor re-derived.
   This lecture states the criterion in both directions, uniform in θ, in
-  the form CLAIM-381 computes (slide 13). The first direction is proved
+  the form [CLAIM-381](../claims.d/CLAIM-381.md) computes (slide 13). The first direction is proved
   (slide 14) and agrees with the record's two lines. The converse is only
   sketched (slide 15). The sketch is the right argument, and in
-  CLAIM-381's finite setting each gap it leaves can be closed. A checked
+  [CLAIM-381](../claims.d/CLAIM-381.md)'s finite setting each gap it leaves can be closed. A checked
   re-derivation would need to state three things the slide does not:
   (1) the observation spaces are finite, so that the action set 𝒴 is
   admissible and M's rules form a compact convex set; (2) the minimax
@@ -167,7 +167,7 @@ fixed.
   supplies the converse's argument and its statement, not its proof; the
   claim's note asks for "a checked re-derivation", and this reading makes
   one short but does not do it.
-- **Le Cam's distance and CLAIM-488's "approximate case".** Slide 16 is the
+- **Le Cam's distance and [CLAIM-488](../claims.d/CLAIM-488.md)'s "approximate case".** Slide 16 is the
   symmetric version; the claim's first step needs only the directed
   deficiency.
 - No instruction for machine-learning practice; nothing for the anthology.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmp0e1ym), from the published PDF
+  read in full 2026-10-30 ([NOTE-tmp0e1ym](../notes.d/NOTE-tmp0e1ym.md)), from the published PDF
   deposited in KU Leuven's repository Lirias
   (lirias.kuleuven.be/retrieve/96184). Two recall studies (110 school
   students, 100 university students) in which people described unpleasant
@@ -71,7 +71,7 @@ Peter Kuppens, Iven Van Mechelen, Dirk J. M. Smits & Paul De Boeck (2003).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp0e1ym.*
+*From the reading, [NOTE-tmp0e1ym](../notes.d/NOTE-tmp0e1ym.md).*
 
 - **A test of necessity and sufficiency.** Componential theories assume
   strong links between emotions and appraisals, and some (Smith and
@@ -91,7 +91,7 @@ Peter Kuppens, Iven Van Mechelen, Dirk J. M. Smits & Paul De Boeck (2003).
 
 ## Standing in the record
 
-Filed on 2026-10-30 for THEORY-055, Frijda's appraisal account. Its
+Filed on 2026-10-30 for [THEORY-055](../theory.d/THEORY-055.md), Frijda's appraisal account. Its
 `promote_when` says correlations between appraisal reports and emotion
 labels "cannot settle it"; this paper's design is a sharper version of that
 kind of evidence, not an escape from it. It carries no instruction for

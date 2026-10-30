@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmpynmwh), from the journal's own PDF of
+  read in full 2026-10-30 ([NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md)), from the journal's own PDF of
   the article (CC BY-NC) on tidsskrift.dk
   (tidsskrift.dk/KKF/article/download/28067/24695/65067), text extracted
   with pdftotext. This is the version Barad calls authorized; an earlier
@@ -76,7 +76,7 @@ An earlier version appeared in *Qui Parle* 19(2) (2011), pp. 121–158.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpynmwh.*
+*From the reading, [NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md).*
 
 - **The agential cut, in Barad's words.** "A specific intra-action enacts
   an agential cut (in contrast to the Cartesian cut – an inherent
@@ -102,10 +102,10 @@ An earlier version appeared in *Qui Parle* 19(2) (2011), pp. 121–158.
 
 ## Standing in the record
 
-Filed on 2026-10-30 as a first-hand reading of Barad for TERM-087, whose
+Filed on 2026-10-30 as a first-hand reading of Barad for [TERM-087](../terms.d/TERM-087.md), whose
 third sense of "cut" had rested on second-hand accounts. It states the
 agential cut and its contrast with the Cartesian cut in her own words. It
 does not define an apparatus, does not say that cuts are movable, and does
-not mention Heisenberg; those parts of TERM-087 still rest on Faye and
-Jaksland's quotations from Barad 2007 (LIT-1657). It carries no instruction
+not mention Heisenberg; those parts of [TERM-087](../terms.d/TERM-087.md) still rest on Faye and
+Jaksland's quotations from Barad 2007 ([LIT-1657](LIT-1657.md)). It carries no instruction
 for machine-learning practice.

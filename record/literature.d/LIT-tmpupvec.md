@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmpswmu1) in full, from the publisher's PDF posted
+  read 2026-10-30 ([NOTE-tmpswmu1](../notes.d/NOTE-tmpswmu1.md)) in full, from the publisher's PDF posted
   on Kelso's lab page at Florida Atlantic University
   (https://ccs.fau.edu/hbblab/pdfs/1988_Kelso_Scholz_Schoner_Dynamics_governs_switching_among_pattern.pdf);
   worth reading as the experiment showing that an intended switch between
@@ -57,7 +57,7 @@ summary: >-
 J. A. S. Kelso, J. P. Scholz and G. Schöner (1988), *Physics Letters A*
 134(1):8–12. doi:10.1016/0375-9601(88)90537-3.
 
-Read in full on 2026-10-30 (NOTE-tmpswmu1), from the publisher's PDF on
+Read in full on 2026-10-30 ([NOTE-tmpswmu1](../notes.d/NOTE-tmpswmu1.md)), from the publisher's PDF on
 Kelso's lab page.
 
 ## Key takeaways
@@ -73,11 +73,11 @@ Kelso's lab page.
   10 Hz was set to get the order of magnitude right (p. 11).
 - **Cited, not shown.** The introduction reports that enhanced
   fluctuations and growth in relaxation time accompanied the spontaneous
-  transition, citing Kelso, Scholz and Schöner 1986 (LIT-tmp8grr0) and
+  transition, citing Kelso, Scholz and Schöner 1986 ([LIT-tmp8grr0](LIT-tmp8grr0.md)) and
   Scholz, Kelso and Schöner 1987 (Physics Letters A 123:390, not filed).
 
 ## Standing in the record
 
-Filed on 2026-10-30 at the owner's request, with HKB 1985 (LIT-588) and
-Kelso, Scholz and Schöner 1986 (LIT-tmp8grr0), for THEORY-069. No
+Filed on 2026-10-30 at the owner's request, with HKB 1985 ([LIT-588](LIT-588.md)) and
+Kelso, Scholz and Schöner 1986 ([LIT-tmp8grr0](LIT-tmp8grr0.md)), for [THEORY-069](../theory.d/THEORY-069.md). No
 instruction for machine-learning practice.

@@ -185,12 +185,12 @@ contexts dynamic and of the Carmichael case; Goffman (1959, 1963, 1966,
 1967) is the frame for self-presentation; Livingstone (2008) for privacy as
 control over a situation; Nissenbaum (2004) on contextual integrity is
 mentioned for privacy (p. 40). None of these is held in the record.
-NOTE-710 read §1.5, §4.4 and the Top Friends passage of §5.4; this reading
+[NOTE-710](NOTE-710.md) read §1.5, §4.4 and the Top Friends passage of §5.4; this reading
 adds the rest of Chapters 1 and 4 and Chapter 7.
 
 ## Bearing on the record
 
-- **THEORY-406: not at all, for its promote_when.** The promote_when asks
+- **[THEORY-406](../theory.d/THEORY-406.md): not at all, for its promote_when.** The promote_when asks
   for a study that observes the same people presenting differently to two
   audiences, records when the audiences are kept apart and when a channel
   brings them together, and measures conflict in both conditions, with the
@@ -202,23 +202,23 @@ adds the rest of Chapters 1 and 4 and Chapter 7.
   measure of conflict. Her evidence is the kind the promote_when says
   cannot settle the question: vivid cases and interviews in which
   collisions are reported as awkward.
-- **THEORY-406, as a reading of boyd.** The full chapters confirm what
-  THEORY-406 quotes (pp. 34, 36–38, 146) and the "unseen" clause (p. 38,
+- **[THEORY-406](../theory.d/THEORY-406.md), as a reading of boyd.** The full chapters confirm what
+  [THEORY-406](../theory.d/THEORY-406.md) quotes (pp. 34, 36–38, 146) and the "unseen" clause (p. 38,
   p. 169). They add two refinements a status review may want:
   - **What collides.** In the cases boyd documents (pp. 165–166), the
     conflict usually comes from a single presentation, often content others
     co-wrote, read by an unintended audience that lacks the context to
     interpret it: a quiz result taken for drug use, joking insults taken
-    for meanness. THEORY-406's title speaks of presentations that differ by
+    for meanness. [THEORY-406](../theory.d/THEORY-406.md)'s title speaks of presentations that differ by
     audience. Carmichael is that case; the teens' cases are mostly
     misreading out of context.
   - **The remedy.** Teens restore separation by controlling the audience
     rather than by changing what they present (p. 163), and boyd says this
     does not fully restore a coherent context (p. 167). This is consistent
-    with THEORY-406's conditional (trouble when boundaries go), not a test
+    with [THEORY-406](../theory.d/THEORY-406.md)'s conditional (trouble when boundaries go), not a test
     of it.
-- **CLAIM-317 and CLAIM-196.** The reading gives them no measured
-  evidence beyond NOTE-710's. CLAIM-196's thesis that role conflict needs
+- **[CLAIM-317](../claims.d/CLAIM-317.md) and [CLAIM-196](../claims.d/CLAIM-196.md).** The reading gives them no measured
+  evidence beyond [NOTE-710](NOTE-710.md)'s. [CLAIM-196](../claims.d/CLAIM-196.md)'s thesis that role conflict needs
   an overlap of contexts gets illustration from pp. 146 and 163–166, not a
   comparison.
 - No instruction for machine-learning practice; nothing for the anthology.

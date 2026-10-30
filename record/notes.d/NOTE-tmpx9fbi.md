@@ -152,20 +152,20 @@ kind can be specified at all.
 
 ## Connections
 
-THEORY-120 states Frankfurt's 1971 hierarchical account from the paper
-read first-hand (LIT-692); Holton reports that by 1987/88 Frankfurt had
+[THEORY-120](../theory.d/THEORY-120.md) states Frankfurt's 1971 hierarchical account from the paper
+read first-hand ([LIT-692](../literature.d/LIT-692.md)); Holton reports that by 1987/88 Frankfurt had
 replaced higher-order desires with decisions as the mark of
-identification. THEORY-029 reports, via the IEP (LIT-297), that the essay
+identification. [THEORY-029](../theory.d/THEORY-029.md) reports, via the IEP ([LIT-297](../literature.d/LIT-297.md)), that the essay
 ends the regress in a decisive commitment made "without reservation";
 Holton's resonance condition, the anticipation that review will confirm
 the decision, is the nearest thing in the handout, and he says it is not
 needed in the conflict case. His remark that the model "looks more like
-Bratman's" points to Bratman's self-governing policies (LIT-596,
-Unavailable), which THEORY-029's promote_when also names.
+Bratman's" points to Bratman's self-governing policies ([LIT-596](../literature.d/LIT-596.md),
+Unavailable), which [THEORY-029](../theory.d/THEORY-029.md)'s promote_when also names.
 
 ## Bearing on the record
 
-- **THEORY-029, partly, at second hand.** Its promote_when asks for a
+- **[THEORY-029](../theory.d/THEORY-029.md), partly, at second hand.** Its promote_when asks for a
   first-hand reading of "Identification and Wholeheartedness" to decide
   whether Velleman's unwitting-decision counterexample reaches the 1987/88
   view, and if not, whether that view's conditions can be stated without
@@ -173,15 +173,15 @@ Unavailable), which THEORY-029's promote_when also names.
   not run the counterexample. It does report what the stopping point is: a
   decision that Frankfurt does not analyse, carrying in the checking case
   the agent's anticipation that reviews will confirm it. A condition of
-  that kind is a condition on the agent's own stance, which is THEORY-029's
+  that kind is a condition on the agent's own stance, which is [THEORY-029](../theory.d/THEORY-029.md)'s
   second horn, and the absence of an analysis is consistent with its
   charge that non-alienability is secured by stipulation. Holton's point
   that resonance is not needed in the conflict case suggests the essay's
   conditions are not uniform across its cases, which the reading of the
   essay would have to settle. So it supports the account's dilemma on this
   essay without meeting the promote_when.
-- **THEORY-120**: the handout reports that Frankfurt left the higher-order
-  account behind for decisions by 1987/88, the move THEORY-029 already
+- **[THEORY-120](../theory.d/THEORY-120.md)**: the handout reports that Frankfurt left the higher-order
+  account behind for decisions by 1987/88, the move [THEORY-029](../theory.d/THEORY-029.md) already
   records.
 - No instruction for machine-learning practice; nothing for the anthology.
 
