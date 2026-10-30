@@ -178,7 +178,7 @@ test.
 - **Locating is not identifying.** ROME's causal traces and edits find
   where restoring or writing a hidden state helps ([THEORY-998](../theory.d/THEORY-998.md)), not
   the variable that does the work; that the edit's site stores the fact
-  was proposed as a hypothesis and is Rejected (THEORY-1011).
+  was proposed as a hypothesis and is Rejected ([THEORY-1011](../theory.d/THEORY-1011.md)).
 - **Activity does not give role.** In Claude 3 Sonnet, a feature's
   activation predicts its ablation effect at a correlation of about 0.12,
   attribution at about 0.81 ([THEORY-987](../theory.d/THEORY-987.md)). Steering usually needs a
@@ -212,7 +212,7 @@ test.
 - Not that no perspective is ever exactly one feature's carriers. It says
   the allocation cannot show that one is.
 - Not that an organizational perspective exists in any firm or network.
-  That is CLAIM-418's ground, and it is untouched here.
+  That is [CLAIM-418](CLAIM-418.md)'s ground, and it is untouched here.
 - Not that relations suffice. Relations among carriers with no shared
   feature organize nothing interpretive. The claim is about what the
   allocation lacks, not about what would be enough.

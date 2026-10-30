@@ -421,8 +421,8 @@ perspectival organization and has not yet stated in a form that meets
 
 The qualifying organization is not stated: part 3 names it only as
 perspectival organization, and no statement of it independent of report
-meets CLAIM-411's defeater (QUESTION-254). Two objections the body
+meets [CLAIM-411](CLAIM-411.md)'s defeater ([QUESTION-254](../questions.d/QUESTION-254.md)). Two objections the body
 records are unanswered: that the identity is eliminativism by another
-name (Negro, THEORY-868), and that nothing means anything to a system
+name (Negro, [THEORY-868](../theory.d/THEORY-868.md)), and that nothing means anything to a system
 unless there is already something it is like to be it, which is the
 circularity its own defeated_if names.

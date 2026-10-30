@@ -181,7 +181,7 @@ invariant, and the step from priority to "guides" is not argued.
 - That classificatory priority is constitution. That inference is disclaimed
   ([CLAIM-150](CLAIM-150.md)).
 - That the manuscript's thesis has changed. No draft carries this.
-  CLAIM-115, the thesis it was filed beside, is Superseded by CLAIM-220,
+  [CLAIM-115](CLAIM-115.md), the thesis it was filed beside, is Superseded by [CLAIM-220](CLAIM-220.md),
   which does not rest on this claim.
 
 ## Note of 2026-10-10: the replies
@@ -201,9 +201,9 @@ The owner's position and its defeat condition are unchanged.
 
 ## Note of 2026-10-30: what holds it back
 
-It rests on CLAIM-151, still Proposed after its revision of 2026-10-30,
-which waits on CLAIM-221's residue: whether standing that enters through
-the content of the speaker's intention is a relation in CLAIM-151's
-sense. No communicative invariant has been built (TERM-041), and
-CASE-057 meets the condition of one act realized in two media only by
+It rests on [CLAIM-151](CLAIM-151.md), still Proposed after its revision of 2026-10-30,
+which waits on [CLAIM-221](CLAIM-221.md)'s residue: whether standing that enters through
+the content of the speaker's intention is a relation in [CLAIM-151](CLAIM-151.md)'s
+sense. No communicative invariant has been built ([TERM-041](../terms.d/TERM-041.md)), and
+[CASE-057](../cases.d/CASE-057.md) meets the condition of one act realized in two media only by
 construction.
