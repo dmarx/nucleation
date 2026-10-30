@@ -162,13 +162,17 @@ are left to the book ([NOTE-460](../notes.d/NOTE-460.md), Limitations).
   what makes a motive the agent's own. The shapes are alike and the
   questions differ; the précis does not touch ownership of motives.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-Kept Proposed by the eighth status review. No reading in the record measures the
-attentional availability of self-model content together with reported
-selfhood, and none reports a wholly opaque self-model either way:
-[THEORY-597](THEORY-597.md)'s meditation reports of "loss of basic self" and [THEORY-768](THEORY-768.md)'s
-full-body illusion record changes in selfhood with no measure of opacity,
-as [THEORY-768](THEORY-768.md) says. Being No One ([LIT-467](../literature.d/LIT-467.md)), whose case studies the précis
-leaves out, is Unavailable. [CLAIM-156](../claims.d/CLAIM-156.md) now cites this reading as
-corroboration; [CLAIM-355](../claims.d/CLAIM-355.md) still grounds on it.
+No reading in the record measures the attentional availability of
+self-model content together with reported selfhood, or reports a wholly
+opaque self-model either way. Metzinger 2013 (LIT-tmptcw4n,
+NOTE-tmpelzjc), read in full, narrows the test to the minimal case,
+"transparent spatiotemporal self-location is necessary and sufficient"
+for minimal selfhood. It names phenomenally opaque self-location in
+fully lucid bodiless dreams as the decisive case, and reports none. It
+also reads some meditative reports as identification with "phenomenality
+per se", not loss of self, so THEORY-597's "loss of basic self" cannot
+count as selfhood falling with opacity without a measure of opacity.
+Being No One (LIT-467) is Unavailable. CLAIM-156 cites this reading as
+corroboration, and CLAIM-355 still grounds on it.

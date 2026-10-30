@@ -180,13 +180,15 @@ is borrowed.
   standard it would take a measure of Self-access in IFS, and of the self as
   context in ACT, that changes first and specifically.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-Kept Proposed by the eighth status review. No study in the record gives
-self-as-context exercises apart from defusion and acceptance, or measures
-the self as context separately from them, so none shows its change
-preceding outcome; the one defusion study counts here only under RFT's
-deictic reading, which its authors call "no more than a heuristic". [LIT-543](../literature.d/LIT-543.md),
-which might report this domain separately, is Unavailable, and the premise
-[THEORY-050](THEORY-050.md) is Proposed. [CLAIM-156](../claims.d/CLAIM-156.md) and [CLAIM-349](../claims.d/CLAIM-349.md) now cite this reading as
-corroboration, not as a ground.
+The gap is now confirmed, not only observed. Stockton et al.'s
+systematic review of ACT mediation trials from 2006 to 2015
+(LIT-tmp06sqw, NOTE-tmpxbidq) found that "self as context has been
+consistently overlooked as a potential mediator". No study the record
+holds gives self-as-context exercises apart from defusion and acceptance
+or measures the process separately. Morrison et al.'s object-in-hand
+exercise (NOTE-tmp0mi8i) went to some participants only and was not
+measured. LIT-543 is Unavailable, and the premise THEORY-050 is
+Proposed. CLAIM-156 and CLAIM-349 cite this reading as corroboration, not
+as a ground.

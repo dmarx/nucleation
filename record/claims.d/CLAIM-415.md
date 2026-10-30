@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3gvbj
 title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -39,6 +39,18 @@ history:
     be a false unity as the owner can, and a judgement can shape a
     person who rejects it, because resisting it makes it
     consequential.
+- version: 5
+  date: '2026-10-30'
+  note: >-
+    LIT-tmpg0s3y, Schroeder and Prentice 1998, read in full
+    (NOTE-tmpjgs12), joins grounds at the twenty-first status review, at
+    the status review's ruling (the owner delegated these rulings;
+    ADR-057, ADR-058). It is the record's one read field case of conduct
+    governed by a norm attributed to peers who do not privately hold it,
+    the claim's first clause. It is also the read source for pluralistic
+    ignorance, which LIT-1370 left unread. It restates Prentice and
+    Miller's 1993 result for men and does not replicate it, and a dated
+    note says so. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,6 +76,7 @@ grounds:
 - LIT-939
 - LIT-1379
 - LIT-1390
+- LIT-tmpg0s3y
 summary: >-
   From the owner's U39 of the exchange of 2026-10-22: how an individual's
   perspective is shaped by "the perception of a plurality of opinion where
@@ -190,11 +203,38 @@ was written to keep apart.
   he is" (ch. VI). What remains the claim's own is a collective unity its
   supposed members do not compose.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: Schroeder and Prentice, read
 
-Its defeat condition separates a change in how a person organizes their
-conduct from conformity of expression, and no read result shows the first
-under a misperceived consensus. Lerman et al. ([LIT-1390](../literature.d/LIT-1390.md)) measure perception
-and Vilone and Polizzi ([LIT-939](../literature.d/LIT-939.md)) expression; Prentice and Miller's men
-([LIT-1370](../literature.d/LIT-1370.md)), the one such result cited, are unread, and [CASE-140](../cases.d/CASE-140.md) to [CASE-142](../cases.d/CASE-142.md)
-are constructed.
+- **The first clause, in conduct.** Self-reported drinking months later
+  tracked the comfort students attributed to the average student, more
+  steeply with fear of negative evaluation. Exposing pluralistic
+  ignorance left attributed comfort unchanged and removed that moderation
+  (NOTE-tmpjgs12, C3–C4). That is conduct, not expression, but its
+  mechanism is compliance under fear of censure, not a change in how the
+  person organizes their activity. It rests on one interaction at
+  p = .05, with no untreated control (fn. 13).
+- **The one cited case of private change is restated, not replicated.**
+  The paper says Prentice and Miller's men "modified their private
+  attitudes over time in the direction of the position they mistakenly
+  assumed to be held by the average student" (p. 2153). Its own
+  first-year men closed the gap by revising their estimate of others
+  (7.87 to 7.12), not their own comfort (7.15 to 7.05).
+- **Prentice and Miller's women.** The paper also reports a 1993 study
+  in which both sexes showed alienation from the university when they
+  believed their attitudes deviant. If so, the defeat condition's "what
+  ... Prentice and Miller's women show at most" understates them. This
+  is second hand and recorded here only.
+- **False unity.** The authors suggest the consequential error is "the
+  underestimation of the variability of the group" (p. 2174). This is
+  close to step 1, and unmeasured.
+
+## Note of 2026-10-30: what holds it back
+
+The first clause now has one read field result (LIT-tmpg0s3y). Its
+mechanism is compliance under fear of censure, so the claim must still
+say which side of its defeat condition such conduct falls on, and the
+result rests on one interaction at p = .05 with no untreated control.
+The third clause, that resisting a judgement makes it consequential, has
+no read result: it rests on Cooley's statement and the constructed
+CASE-142. The one cited case of private change, Prentice and Miller's men
+(LIT-1370), is unread, and the authors' 1998 cohort did not reproduce it.

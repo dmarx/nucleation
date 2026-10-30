@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpjylq8
 title: "No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -34,6 +34,17 @@ history:
     LIT-1728 leaves grounds: it is Unavailable and read only at second
     hand, and an unread work takes no edge; the body keeps the citation.
     The claim is unchanged.
+- version: 5
+  date: '2026-10-30'
+  note: >-
+    LIT-1728, Cialdini et al. 1997, returns to grounds at the
+    twenty-first status review, at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-058). It left grounds at the
+    nineteenth review only because it was unread, and it is now read in
+    full (NOTE-tmpps63a). The summary calls it the claim's best evidence,
+    and the claim's answer to CLAIM-494 stands on it. A dated note
+    records where the reading falls short of the claim's wording. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,6 +71,7 @@ answers:
 grounds:
 - LIT-1735
 - LIT-1703
+- LIT-1728
 summary: >-
   The owner's position, from the discussion that raised self-categorization
   theory (2026-10-28 and 29). Selves come at more and less inclusive
@@ -77,7 +89,6 @@ objected_by:
 - CLAIM-494
 ---
 <!-- inactive-ok-file: QUESTION-300 QUESTION-297 CLAIM-494 NOTE-1266 CLAIM-492 THEORY-1114 THEORY-1115 THEORY-655 LIT-1700 LIT-1735 LIT-1706 LIT-1782 LIT-1752 LIT-1759 LIT-1758 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1728 — Unavailable; Cialdini et al., cited in the body and read only at second hand (NOTE-1274, NOTE-1277), no edge (ADR-058) -->
 
 # CLAIM-491: No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 
@@ -334,16 +345,6 @@ is a self-concept. That is the third sense of "self-interest" the note on
 Scheffler named. On that reading, [CLAIM-492](CLAIM-492.md)'s demand for a criterion
 apart from caring is still unmet.
 
-## Note of 2026-10-30: what holds it back
-
-Two objections are unanswered. [CLAIM-494](CLAIM-494.md), Batson et al.'s empathic helping
-with self–other merging controlled, is Proposed, and nothing in the record
-answers it. [CLAIM-492](CLAIM-492.md) is conceded: the thesis has content only with a
-criterion of the self's extent that comes apart from caring, and the
-readings offer candidates (fusion, the activated social self) but show
-none coming apart from caring. Its best evidence, Cialdini et al.
-([LIT-1728](../literature.d/LIT-1728.md)), is Unavailable and read only at second hand.
-
 ## Note of 2026-10-30: filed with its concessions
 
 [CLAIM-492](CLAIM-492.md) has been written into this claim's defeated_if since filing:
@@ -353,3 +354,43 @@ self-categorization, that can come apart from caring. That conditional
 is conceded. The claim has not yet named such a criterion and shown it
 coming apart from caring, and until it does it says nothing that caring
 alone does not.
+
+## Note of 2026-10-30: Cialdini et al., read
+
+Cialdini et al. (LIT-1728) are now read in full (NOTE-tmpps63a). The
+body's account of them holds in direction and needs three corrections of
+scope.
+
+- **Willingness, not helping.** Students chose how much costly help they
+  would give an imagined near stranger, acquaintance, friend or family
+  member. With oneness (the IOS circles and a "we" item) entered,
+  empathic concern stopped predicting that choice in every test, near
+  strangers included (fn. 5). No help was given, and empathic concern was
+  rated after the choice (fn. 6).
+- **Others, not groups.** The paper reserves "oneness" for a dyad with a
+  specified other and keeps it apart from "we-ness" as group membership
+  or social identity (fn. 1). It bears on the title's "others". On its
+  "group", and on collectivism, it offers only a speculative parallel
+  (p. 492). Placing oneness beside identity fusion under one heading is
+  the record's grouping, not the paper's.
+- **Not self-interest either.** The authors call oneness-based helping
+  "nonaltruistic" and decline to call it egoistic: the dichotomy "loses
+  its meaning" (pp. 490–491). That supports "no action is selfless", not
+  "self-interest on a larger self-identity".
+
+On CLAIM-492, the paper separates oneness from empathic concern: severity
+of need raised empathic concern and not oneness (p. 491). It does not
+separate oneness from closeness or from caring in general, which is what
+CLAIM-492 asks.
+
+## Note of 2026-10-30: what holds it back
+
+CLAIM-494 is unanswered. Cialdini et al. (LIT-1728), now read, found the
+opposite in their own paradigm, but the objection rests on Batson et
+al.'s reply (LIT-1700), which criticises that paradigm and is unread.
+CLAIM-492's conceded condition is unmet: no reading shows a measure of
+the self's extent coming apart from caring, and Cialdini et al. separate
+oneness only from empathic concern. And the collectivist half of the
+title has no direct evidence. Cialdini et al.'s oneness is dyadic, and
+the group readings (NOTE-1275, NOTE-1289, NOTE-1278) show a changed
+self-concept, not a self enlarged to the group's good.

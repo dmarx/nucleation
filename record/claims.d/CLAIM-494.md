@@ -42,7 +42,7 @@ summary: >-
   as the empirical objection to the owner's thesis; both papers are
   unread, so the record holds the disagreement, not its resolution.
 ---
-<!-- inactive-ok-file: CLAIM-491 QUESTION-300 LIT-1728 — Proposed, Open or Deferred; the thesis objected to, its question, and the unread works on each side -->
+<!-- inactive-ok-file: CLAIM-491 QUESTION-300 — Proposed or Open; the thesis objected to and its question -->
 <!-- inactive-ok-file: LIT-1700 LIT-1683 until 2027-04-29 — Unavailable, cited and read at second hand (NOTE-1274, NOTE-1282), not grounds; ask again whether the objection holds once they are read, or by this date -->
 
 # CLAIM-494: Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
@@ -81,8 +81,13 @@ thesis to saying why such a self counts as the agent's own.
 
 ## Note of 2026-10-30: what holds it back
 
-Its evidence, Batson et al. 1997 ([LIT-1700](../literature.d/LIT-1700.md)), is Unavailable and known only
-from the SEP's report ([NOTE-1274](../notes.d/NOTE-1274.md)), which gives no numbers. That report also
-argues that none of the merging measures in the exchange tests what egoism
-needs, so whether merging was controlled in the sense [CLAIM-491](CLAIM-491.md) means, an
-extended self-identification, is unanswered.
+Its evidence, Batson et al. 1997 (LIT-1700), is Unavailable and known
+only from the SEP's report (NOTE-1274), which gives no numbers. The paper
+it answers, Cialdini et al. (LIT-1728), is now read (NOTE-tmpps63a) and
+cuts against it: with oneness controlled, empathic concern predicted no
+willingness to help in any of twelve relationship conditions, near
+strangers included. That weighs against the objection without defeating
+it, because the helping was imagined and the reply criticised that
+paradigm. What would settle it is a read result, the reply or a later
+study, in which empathic concern predicts real helping with oneness
+measured as Cialdini et al. measured it.

@@ -2,7 +2,7 @@
 status: Read
 paper: LIT-tmptort0
 title: 'Kuppens, Van Mechelen, Smits & De Boeck — The appraisal basis of anger'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-30'
@@ -17,6 +17,16 @@ history:
     consulted, not read. The copy was retrieved from that address earlier
     on 2026-10-30; a second fetch the same day was reset by the server.
     None of the cited works was read.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The bearing on THEORY-055 corrected at the twenty-first status
+    review, at the status review's ruling (the owner delegated these
+    rulings; ADR-057), to agree with this note's own Limitations: every
+    situation was unpleasant, so concern pertinence may have held
+    throughout, and the paper weighs only on the claim that emotions
+    differ by mode. The verdict was: against it, weakly, and in a kind
+    of evidence its `promote_when` says cannot settle it.
 date: '2026-10-30'
 summary: >-
   In two recall studies, anger was associated with other accountability
@@ -159,30 +169,35 @@ Frijda's, makes the same kind of prediction about category instances.
 
 ## Bearing on the record
 
-- **[THEORY-055](../theory.d/THEORY-055.md): against it, weakly, and in a kind of evidence its
-  `promote_when` says cannot settle it.** The `promote_when` sets aside
-  "correlations between people's appraisal reports and their emotion
-  labels, since the rival reads appraisals as descriptions produced by the
-  same categorization". This design is a refinement of that kind, not a
-  way out of it. What it manipulates is which memories people recall
-  (an instruction to recall situations with or without an appraisal), not
-  the event or its pertinence to a concern; and appraisals, action
-  tendency and emotion are all reported by the same person about the same
-  recalled episode. The authors themselves treat necessity and sufficiency
-  "in logical terms only, without aiming to make causal claims" (p. 257).
-  So it is not the result the account's `promote_when` asks for ("holding
-  the event fixed and changing only its pertinence to the person's
-  concerns"), nor the rival's fatal one. Within those limits it cuts
-  against two parts of the account. Wanting to express opposition, the
-  nearest item to Frijda's mode of hostility, was neither necessary nor
-  sufficient for anger (study 2), and the paper names Frijda's
-  definition of emotion as change in action readiness as implying
-  equivalence (p. 256). And anger occurred where people denied goal
-  obstacles, the nearest item to concern pertinence. The one finding that
-  leans the other way, that no anger was reported with every component
-  absent (p. 267), is post hoc. Because the rival account also predicts
-  instances with no common feature, this result does not tell the two
-  apart.
+- **THEORY-055: it weighs only on the claim that emotions differ by mode,
+  in a kind of evidence its `promote_when` says cannot settle it.** The
+  `promote_when` sets aside "correlations between people's appraisal
+  reports and their emotion labels, since the rival reads appraisals as
+  descriptions produced by the same categorization". This design is a
+  refinement of that kind, not a way out of it. What it manipulates is
+  which memories people recall (an instruction to recall situations with
+  or without an appraisal), not the event or its pertinence to a concern;
+  and appraisals, action tendency and emotion are all reported by the
+  same person about the same recalled episode. The authors themselves
+  treat necessity and sufficiency "in logical terms only, without aiming
+  to make causal claims" (p. 257). So it is not the result the account's
+  `promote_when` asks for ("holding the event fixed and changing only its
+  pertinence to the person's concerns"), nor the rival's fatal one.
+  - **The elicitation thesis is not reached.** Anger did occur where
+    people denied goal obstacles. But every situation sampled was
+    unpleasant, so concern pertinence may have held throughout (see
+    Limitations), and the paper cannot show anger without it.
+  - **The mode thesis is weighed against, weakly.** Wanting to express
+    opposition, the nearest item to Frijda's mode of hostility, was only
+    marginally associated with anger and was neither necessary nor
+    sufficient for it (study 2). The paper names Frijda's definition of
+    emotion as change in action readiness as implying equivalence
+    (p. 256). The action-tendency wording failed in study 1, and the
+    finding is one self-report item.
+  - The one finding that leans the other way, that no anger was reported
+    with every component absent (p. 267), is post hoc. Because the rival
+    account also predicts instances with no common feature, this result
+    does not tell the two apart.
 - **[THEORY-057](../theory.d/THEORY-057.md).** Consistent with its denial of necessary features for
   category instances; the paper cites the prototype view in support. The
   same self-report limit applies.
