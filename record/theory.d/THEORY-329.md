@@ -1,21 +1,40 @@
 ---
 number: 329
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpzojtc
-promote_when: >-
-  A randomized or quasi-experimental study in which the anger expressed in
-  a post is varied while its claim, source and topic are held fixed, and
-  sharing is measured as behaviour, on any platform. It promotes the
-  account if anger raises sharing and lowers it for joy; it refutes the
-  causal half if the effect vanishes. A second observational corpus with
-  more controls, or another lexicon on the same Weibo data, cannot settle
-  it: those only re-establish the association, which is already held. The
-  first half (fake news carries more anger than true news) is refuted on
-  Weibo if fake and true posts matched for author, topic and date show no
-  anger gap.
-title: "On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown"
-version: 1
+title: "In 32,479 Weibo posts of 2011–2016 scored with an emotion lexicon, posts tagged fake by the platform's fact-checkers carry more anger and less joy than true posts from verified accounts, and a post's share of anger words goes with more retweets after controls; whether the gap is due to falsity, and whether anger causes the spread, is not shown"
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-second status review, at the
+    status review's ruling (the owner delegated these rulings;
+    ADR-065; ADR-047 kinds 1 and 3): NOTE-852 read the paper in full,
+    and the title now says what was measured: 32,479 lexicon-scored
+    posts, the fake set tagged by Weibo's fact-checkers after it had
+    spread and the true set from verified accounts, so that the
+    fake-against-true gap may be selection's as well as falsity's, as
+    the body already said. The paper's thesis, that anger makes fake
+    news viral and that fake news on Weibo is angrier, moves to
+    THEORY-tmpueu4s, Proposed, which extends this entry and keeps the
+    old condition word for word, its matched-comparison refutation
+    clause included (ADR-047 kind 1). The old title: "On Weibo, fake
+    news carries more anger and less joy than true news, and a post's
+    share of anger words goes with more retweets after controls; that
+    anger causes the spread is not shown" The old promote_when: "A
+    randomized or quasi-experimental study in which the anger
+    expressed in a post is varied while its claim, source and topic
+    are held fixed, and sharing is measured as behaviour, on any
+    platform. It promotes the account if anger raises sharing and
+    lowers it for joy; it refutes the causal half if the effect
+    vanishes. A second observational corpus with more controls, or
+    another lexicon on the same Weibo data, cannot settle it: those
+    only re-establish the association, which is already held. The
+    first half (fake news carries more anger than true news) is
+    refuted on Weibo if fake and true posts matched for author, topic
+    and date show no anger gap."
 tags:
 - social-science
 - emotion-and-affect
@@ -31,10 +50,14 @@ summary: >-
   topic controls, anger share predicts more retweets within 48 hours and
   joy share fewer (R² 0.08–0.13). The paper calls this causal; the design
   is observational, and the fake set is selected for having spread.
+  Active as a report of the association (ADR-065); the paper's causal
+  thesis is THEORY-tmpueu4s, Proposed.
 ---
 <!-- inactive-ok-file: LIT-083 THEORY-055 THEORY-057 — Proposed; named in Connections to mark what this account is not about, not leaned on -->
 
-# THEORY-329: On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown
+<!-- inactive-ok-file: THEORY-tmpueu4s — Proposed; the paper's thesis split from this entry, cited as open -->
+
+# THEORY-329: In 32,479 Weibo posts of 2011–2016 scored with an emotion lexicon, posts tagged fake by the platform's fact-checkers carry more anger and less joy than true posts from verified accounts, and a post's share of anger words goes with more retweets after controls; whether the gap is due to falsity, and whether anger causes the spread, is not shown
 
 ## Source
 
@@ -106,3 +129,9 @@ Table S18).
   experimentally. This account is about content features predicting
   sharing at scale, not about one person's emotion passing to another.
 - [LIT-083](../literature.d/LIT-083.md) covers the response side of disinformation, this the spread.
+
+## Note of 2026-10-30: narrowed and promoted
+
+Promoted as a report of what the corpus measured (ADR-065). The paper's
+thesis, that anger makes fake news viral, is THEORY-tmpueu4s, Proposed,
+which extends this entry and keeps its old condition.

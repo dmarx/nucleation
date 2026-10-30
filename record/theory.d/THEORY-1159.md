@@ -1,21 +1,41 @@
 ---
 number: 1159
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpz6ryi
-promote_when: >-
-  An ablation in which a joint multi-marginal coupling and independently
-  fitted pairwise couplings share the same cost, the same anchors and the
-  same search space, scored on held-out correspondences on two kinds of
-  data: data whose true correspondences are transitive, and data where
-  some are not, such as maps through an intermediate network that loses or
-  merges distinctions. The account is supported if the joint fit wins on
-  the first kind without losing pairwise accuracy on the second; it is
-  weakened if it gains only where the truth is consistent by construction.
-  A further comparison of HOT against other methods on consistent
-  benchmarks does not settle it.
-title: 'Aligning three networks jointly, through one multi-marginal fused Gromov–Wasserstein coupling with an anchor-based random-walk cost and a cluster decomposition, finds held-out correspondences better than pairwise and existing multi-network methods, in both pairwise and whole-tuple hits, on benchmarks whose true correspondences are consistent across the three networks by construction; whether the joint coupling itself is the cause is not separated from the new cost and the clustering'
-version: 1
+title: 'Aligning three networks jointly, through one multi-marginal fused Gromov–Wasserstein coupling with an anchor-based random-walk cost and a cluster decomposition, finds held-out correspondences better than pairwise and existing multi-network methods in most cases, as the paper''s plots show, in both pairwise and whole-tuple hits, on benchmarks whose true correspondences are consistent across the three networks by construction; whether the joint coupling itself is the cause is not separated from the new cost and the clustering'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-second status review, at the
+    status review's ruling (the owner delegated these rulings;
+    ADR-065; ADR-047 kind 3 for the narrowing): the title reports one
+    study with its hedges kept, and NOTE-1334 read the paper in full.
+    "In most cases" is restored from the paper (p. 5), and the main
+    results are plots. The wider thesis the paper asserts, that the
+    gain comes from aligning jointly, moves to THEORY-tmph970r,
+    Proposed, which extends this entry and keeps the old condition
+    (ADR-047 kind 1). The old title: "Aligning three networks jointly,
+    through one multi-marginal fused Gromov–Wasserstein coupling with
+    an anchor-based random-walk cost and a cluster decomposition,
+    finds held-out correspondences better than pairwise and existing
+    multi-network methods, in both pairwise and whole-tuple hits, on
+    benchmarks whose true correspondences are consistent across the
+    three networks by construction; whether the joint coupling itself
+    is the cause is not separated from the new cost and the
+    clustering" The old promote_when: "An ablation in which a joint
+    multi-marginal coupling and independently fitted pairwise
+    couplings share the same cost, the same anchors and the same
+    search space, scored on held-out correspondences on two kinds of
+    data: data whose true correspondences are transitive, and data
+    where some are not, such as maps through an intermediate network
+    that loses or merges distinctions. The account is supported if the
+    joint fit wins on the first kind without losing pairwise accuracy
+    on the second; it is weakened if it gains only where the truth is
+    consistent by construction. A further comparison of HOT against
+    other methods on consistent benchmarks does not settle it."
 tags:
 - network-science
 - mathematics
@@ -25,13 +45,16 @@ source:
 summary: >-
   Zeng et al. (2024), [LIT-1814](../literature.d/LIT-1814.md), §5 and Appendix C, read in
   [NOTE-1334](../notes.d/NOTE-1334.md). Reported as plots against 13 baselines on ER, Douban,
-  DBLP and ACM triples, with 10% anchors and 90% held out. Proposed: the
-  result is empirical, its ground truth is a consistent set of node
-  triples, and no ablation holds the cost and the clustering fixed while
-  changing joint for pairwise fitting.
+  DBLP and ACM triples, with 10% anchors and 90% held out. Active as a
+  report (ADR-065). Its ground truth is a consistent set of node triples,
+  and no ablation holds the cost and the clustering fixed while changing
+  joint for pairwise fitting, so the paper's attribution of the gain to
+  joint fitting is THEORY-tmph970r, Proposed.
 ---
 
-# THEORY-1159: Aligning three networks jointly, through one multi-marginal fused Gromov–Wasserstein coupling with an anchor-based random-walk cost and a cluster decomposition, finds held-out correspondences better than pairwise and existing multi-network methods, in both pairwise and whole-tuple hits, on benchmarks whose true correspondences are consistent across the three networks by construction; whether the joint coupling itself is the cause is not separated from the new cost and the clustering
+<!-- inactive-ok-file: THEORY-tmph970r — Proposed; the wider thesis split from this entry, cited as open -->
+
+# THEORY-1159: Aligning three networks jointly, through one multi-marginal fused Gromov–Wasserstein coupling with an anchor-based random-walk cost and a cluster decomposition, finds held-out correspondences better than pairwise and existing multi-network methods in most cases, as the paper's plots show, in both pairwise and whole-tuple hits, on benchmarks whose true correspondences are consistent across the three networks by construction; whether the joint coupling itself is the cause is not separated from the new cost and the clustering
 
 ## Source
 
@@ -77,3 +100,9 @@ cost could have matched it. Neither happened against these baselines.
   maps.
 - **Exact values.** The main results are plots; numbers above are
   readings.
+
+## Note of 2026-10-30: narrowed and promoted
+
+The title now keeps the paper's "in most cases" (p. 5). The paper's
+attribution of the gain to joint fitting, with the ablation that would
+test it, is THEORY-tmph970r, Proposed, which extends this entry.

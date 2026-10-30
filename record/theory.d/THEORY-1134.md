@@ -1,18 +1,39 @@
 ---
 number: 1134
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpa9y98
-promote_when: >-
-  A held-out evaluation, on expert MQM from a domain and year the metric
-  was not trained near, that reports for the same segments both the
-  agreement between the metric's score and its own error spans and the
-  agreement of each with the human annotation, and finds the first
-  reliably larger than the second; or one that finds them comparable.
-  Further correlations with humans alone do not settle it, since the
-  claim is about the gap.
-title: 'A translation metric that predicts a sentence score and token-level error spans from one shared encoder reaches segment-level agreement with expert MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best among open metrics and GPT-4 prompting at the time, while its score and its own spans agree with each other at Pearson 0.73 to 0.92, so the explanation it gives is far more coherent with its score than either is with the human judgement'
-version: 1
+title: 'A translation metric that predicts a sentence score and token-level error spans from one shared encoder reaches segment-level agreement with expert MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best among open metrics and GPT-4 prompting at the time, while the score computed from its own spans correlates with its regression scores at Pearson 0.73 to 0.82, and at 0.90 to 0.92 with its final score, which includes the span score by construction'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-second status review, at the
+    status review's ruling (the owner delegated these rulings;
+    ADR-065; ADR-047 kind 2): NOTE-1341 read the paper in full, and
+    the title now reports Tables 2a, 4 and 5 and says that the top
+    correlation is partly by construction. Its last clause, the
+    record's reading that the explanation is far more coherent with
+    the score than either is with human judgement, moves to
+    CLAIM-tmp2um57, Proposed, grounded in this entry, without "far":
+    converted to one scale under normality, Kendall τ of 0.39 to 0.47
+    is Pearson of about 0.58 to 0.67, against the heads' 0.73 to 0.82.
+    The old title: "A translation metric that predicts a sentence
+    score and token-level error spans from one shared encoder reaches
+    segment-level agreement with expert MQM annotation of Kendall τ
+    about 0.4 and span F1 under 0.33, the best among open metrics and
+    GPT-4 prompting at the time, while its score and its own spans
+    agree with each other at Pearson 0.73 to 0.92, so the explanation
+    it gives is far more coherent with its score than either is with
+    the human judgement" The old promote_when: "A held-out evaluation,
+    on expert MQM from a domain and year the metric was not trained
+    near, that reports for the same segments both the agreement
+    between the metric's score and its own error spans and the
+    agreement of each with the human annotation, and finds the first
+    reliably larger than the second; or one that finds them
+    comparable. Further correlations with humans alone do not settle
+    it, since the claim is about the gap."
 tags:
 - translation
 date: '2026-10-29'
@@ -25,12 +46,13 @@ summary: >-
   the heads' agreement as support for the spans as explanation; the
   record reads it as coherence. The top of the agreement, 0.90–0.92, is
   partly arithmetic, since the final score includes the span score with
-  weight 2/9. Proposed: one test set, and the comparison is across
-  different statistics (Pearson between heads, Kendall and F1 against
-  humans).
+  weight 2/9. Active as a report of one test set (ADR-065); the record's
+  reading of the gap, across different statistics, is CLAIM-tmp2um57.
 ---
 
-# THEORY-1134: A translation metric that predicts a sentence score and token-level error spans from one shared encoder reaches segment-level agreement with expert MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best among open metrics and GPT-4 prompting at the time, while its score and its own spans agree with each other at Pearson 0.73 to 0.92, so the explanation it gives is far more coherent with its score than either is with the human judgement
+<!-- inactive-ok-file: CLAIM-tmp2um57 — Proposed; the record's reading split from this entry, cited as open -->
+
+# THEORY-1134: A translation metric that predicts a sentence score and token-level error spans from one shared encoder reaches segment-level agreement with expert MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best among open metrics and GPT-4 prompting at the time, while the score computed from its own spans correlates with its regression scores at Pearson 0.73 to 0.82, and at 0.90 to 0.92 with its final score, which includes the span score by construction
 
 ## Source
 
@@ -75,3 +97,10 @@ disagreed while each tracked humans.
   translations it scores ([CASE-071](../cases.d/CASE-071.md)).
 - **For other domains.** One news test set, three pairs, all with English
   on one side.
+
+## Note of 2026-10-30: narrowed and promoted
+
+Promoted as a report of what the paper measured (ADR-065). The record's
+reading, that the spans are more coherent with the score than either is
+with expert judgement, is CLAIM-tmp2um57, Proposed, grounded in this
+entry; its body states the conversion of τ to a Pearson scale.

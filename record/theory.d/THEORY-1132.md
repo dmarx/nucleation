@@ -20,7 +20,6 @@ summary: >-
   are soft; and the paper never reports the gap that measures how far
   independent pairwise optima are from joint realizability.
 ---
-<!-- inactive-ok-file: THEORY-1159 — Proposed; the empirical companion, cited as open -->
 
 # THEORY-1132: For K networks compared under square loss, the multi-marginal fused Gromov–Wasserstein objective of a joint coupling tensor is exactly the sum of the pairwise fused GW objectives of its two-way marginals, so the joint optimum is at least the sum of the pairwise optima, with equality exactly when some choice of pairwise optimal couplings is jointly realizable as the marginals of one tensor; a joint alignment is consistent in that sense by construction, which for deterministic couplings means the pairwise maps compose and for soft ones does not
 
