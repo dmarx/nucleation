@@ -9,9 +9,9 @@ tags:
 date: '2026-10-30'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-242, moved here when the status
-  review of 2026-10-30 promoted it under ADR-065. Vilone and Polizzi's
-  result (LIT-939, read in NOTE-810) is simulation only, and they say the
+  The promotion condition formerly on [THEORY-242](../theory.d/THEORY-242.md), moved here when the status
+  review of 2026-10-30 promoted it under [ADR-065](../decisions.d/ADR-065.md). Vilone and Polizzi's
+  result ([LIT-939](../literature.d/LIT-939.md), read in [NOTE-810](../notes.d/NOTE-810.md)) is simulation only, and they say the
   model "should also be validated with empirical data".
 ---
 
@@ -19,11 +19,11 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-242 holds what Vilone and Polizzi's agent-based models show: with private
+[THEORY-242](../theory.d/THEORY-242.md) holds what Vilone and Polizzi's agent-based models show: with private
 beliefs fixed, a small hard-core minority can drive 55–60% of agents, nearly
 all of the majority, into silence, so that expressed opinion leans far toward
 the minority. Whether the mechanism operates in any real community is open.
-QUESTION-261 asks what happens once such an apparent consensus is exposed; this
+[QUESTION-261](QUESTION-261.md) asks what happens once such an apparent consensus is exposed; this
 asks whether it forms by silence at all.
 
 ## What would answer it

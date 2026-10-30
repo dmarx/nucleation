@@ -103,7 +103,7 @@ agent too. Neither happened, in single deterministic runs.
   given A, B, C and D, its location is observed, and moves are primitive,
   which is Raja et al.'s point ([LIT-598](../literature.d/LIT-598.md)).
 - **That it plans through costs in general.** That, with tractability, is
-  THEORY-tmpvevpl, Proposed.
+  [THEORY-tmpvevpl](THEORY-tmpvevpl.md), Proposed.
 
 ## Connections
 

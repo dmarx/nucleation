@@ -137,11 +137,11 @@ nothing forces each stage to belong to one person only.
 Kept Proposed by the twenty-fourth status review. The title is a
 conditional in the record's voice, not a report of Lewis. Its middle
 clause, "so Parfit's premises do not show that identity is not what
-matters", is Lewis's interpretive conclusion against THEORY-447, a declared
+matters", is Lewis's interpretive conclusion against [THEORY-447](THEORY-447.md), a declared
 rival. Whether it is fair to read "identity matters" as the I-relation
 among stages is the point in dispute (promotion-audit decision of
 2026-10-20). What is missing is the second half of the condition: a showing
 that what a person wants in wanting to survive is something a stage can
 want. The condition's first half asks for an argument for the antecedent.
 A conditional title does not assert the antecedent, so that half asks for
-more than the title (ADR-065 §1). It is left as it stands.
+more than the title ([ADR-065](../decisions.d/ADR-065.md) §1). It is left as it stands.

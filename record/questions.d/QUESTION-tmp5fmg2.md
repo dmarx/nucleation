@@ -8,9 +8,9 @@ tags:
 date: '2026-10-30'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-480. It moved here when the
+  The promotion condition formerly on [THEORY-480](../theory.d/THEORY-480.md). It moved here when the
   twenty-fourth status review promoted that entry as a report of the
-  remedies opinion (ADR-065 §3). The court expects the shared data to help
+  remedies opinion ([ADR-065](../decisions.d/ADR-065.md) §3). The court expects the shared data to help
   rivals, and finds nothing about whether it will. This question asks what
   the decree did.
 ---
@@ -19,10 +19,10 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-480 reports what the court in United States v. Google ordered: an
+[THEORY-480](../theory.d/THEORY-480.md) reports what the court in United States v. Google ordered: an
 index snapshot, Glue and RankEmbed data shared "at least twice" under a cap
 and privacy treatment, and five years of syndication. It leaves the
-parameters to a Technical Committee (NOTE-004). Long-tail queries are about
+parameters to a Technical Committee ([NOTE-004](../notes.d/NOTE-004.md)). Long-tail queries are about
 90% of distinct queries. Of 3.7M unique phrases over seven days, 93% were
 seen only by Google (op. pp. 89–95). Whether the sharing narrows that gap
 is untested. On the EU Digital Markets Act precedent, privacy filtering

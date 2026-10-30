@@ -134,7 +134,7 @@ the framework's thesis in the record's voice: cognitive mechanisms can be
 derived as the best trade of utility against opportunity cost. It is not a
 report that Lieder and Griffiths propose it. The paper supports it only by
 recasting others' models, and step 5 of the method lets constraints be
-refitted (NOTE-873). No resource-rational model with independently measured
+refitted ([NOTE-873](../notes.d/NOTE-873.md)). No resource-rational model with independently measured
 costs has been shown to predict out of sample better than a rival with no
 cost term. The title asserts the thesis, so it keeps its condition
-(ADR-065 §6).
+([ADR-065](../decisions.d/ADR-065.md) §6).
