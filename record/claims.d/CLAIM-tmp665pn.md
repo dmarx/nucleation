@@ -60,3 +60,11 @@ signal exchange and then checked against a co-located reference that took
 no part in the exchange. An argument that every check reduces to
 consistency would defeat it. The pragmatic-transport form of the question
 is [QUESTION-005](../questions.d/QUESTION-005.md).
+
+## Note of 2026-10-30: what holds it back
+
+No held case checks a measured correspondence against evidence the
+measurement did not produce: Singer's are validated only by cycle
+consistency under a noise model (NOTE-1224), Robinson's are trusted
+(NOTE-1221), and Hansen and Ghrist adjust relationships until a section
+exists (NOTE-1233). One such case would promote it.
