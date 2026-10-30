@@ -54,9 +54,11 @@ class Record:
         self.objectors: dict[str, set[str]] = {}
         # work -> statuses of the NOTEs that read it
         self.read_as: dict[str, set[str]] = {}
+        self.notes_on: dict[str, set[str]] = {}
         for code, fm in docs.items():
             if scheme(code) == "NOTE":
                 for work in as_list(fm.get("paper")):
+                    self.notes_on.setdefault(work, set()).add(code)
                     self.read_as.setdefault(work, set()).add(str(fm.get("status", "")).split()[0] if fm.get("status") else "")
             for target in as_list(fm.get("objects_to")):
                 self.objectors.setdefault(target, set()).add(code)
@@ -301,21 +303,31 @@ class Record:
                 and (d := self.reading_depth(t)) != "Read"]
 
     def stale_blockers(self) -> list[tuple]:
-        """Blocker notes that name a premise of their entry which has been revised since the note.
+        """Blocker notes that name something which has moved since the note was written.
 
-        The note says what the entry waited on; once that premise changes, the wait may be over.
+        The note says what the entry waits on. When an entry it names is revised, or a work it
+        names gets a reading, the wait may be over, so the entry comes back before its timer runs
+        out. The timer (HELD_DAYS) only guarantees one look at the latest; this is the earlier one.
         """
         out = []
         for c in sorted(self.docs):
             if self.status(c) != "Proposed" or not (d := self.blocker_date(c)):
                 continue
             note = self.bodies[c][self.bodies[c].rfind(f"## Note of {d}: what holds it back"):]
-            changed = [t for t in self.premises(c) if re.search(rf"\b{t}\b", note)
-                       and any(str(h.get("date", "")) > d for h in self.docs[t].get("history") or []
-                               if isinstance(h, dict))]
+            named = sorted({t for t in re.findall(r"\b[A-Z]+-\d+\b", note) if t in self.docs and t != c})
+            changed = [t for t in named if self.moved_since(t, d)]
             if changed:
                 out.append((c, d, changed))
         return out
+
+    def moved_since(self, code: str, day: str) -> bool:
+        """Whether an entry was revised, or a work was read, after the given date."""
+        # a work's own history is bookkeeping (status, edges); for a work only a reading counts
+        revised = scheme(code) != "LIT" and any(
+            str(h.get("date", "")) > day for h in self.docs[code].get("history") or [] if isinstance(h, dict))
+        read = any(str(self.docs[n].get("date", "")) > day for n in self.notes_on.get(code, ())
+                   if self.status(n) in ("Read", "Skimmed"))
+        return revised or read
 
     def unblocked(self) -> list[str]:
         """Proposed CLAIMs whose premises are all Active and that no live objection stands against."""
@@ -378,7 +390,7 @@ def main(root: str = "record", top: int = 30, show: str | None = None):
           " note): the one unheld premise of each claim listed\n")
     for t, cs in sole[:top]:
         print(f"- {len(cs):2d} {short(r, t, 70)} <- {', '.join(cs)}")
-    print("\n## Blocker notes a premise has changed since\n")
+    print("\n## Blocker notes something they name has moved since: an entry revised, a work read\n")
     for c, d, ts in r.stale_blockers():
         print(f"- {c} (note of {d}): {', '.join(ts)} revised since")
     held = r.held_unblocked(today)
