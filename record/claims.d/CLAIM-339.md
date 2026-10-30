@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpki5gp
 title: 'A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle''s reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -18,6 +18,13 @@ history:
     ground is now Active, and its one objection, CLAIM-342, is written
     in (the note of 2026-10-29, "filed with its concessions"). The claim
     is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057): its target, CLAIM-341, written
+    into objects_to. CLAIM-341 and CLAIM-342 both name this counter as
+    an objection to CLAIM-341's judgement–observation loop, and the
+    field was missing. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -28,6 +35,8 @@ date: '2026-10-16'
 line:
 - distributed-agency
 - pragmatic-transport
+objects_to:
+- CLAIM-341
 grounds:
 - LIT-1181
 - THEORY-285

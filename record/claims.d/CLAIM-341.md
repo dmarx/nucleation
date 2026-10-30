@@ -1,10 +1,10 @@
 ---
 number: 341
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpq9do8
 title: 'The loop that keeps a lucid agent''s model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference''s action–perception cycle misplaces where the agent is active'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,25 @@ history:
     description, agency and legibility: A16 §8 re-derived this loop as
     "governance of the observer" without citing it or CLAIM-330 and
     CLAIM-340. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057). THEORY-593 and THEORY-454 moved
+    from grounds to corroborated_by (ADR-058). The loop is CLAIM-297's
+    circuit, and the two readings are cited as instances of an observer
+    shaped by earlier cognition, in perception and in working memory.
+    The section "Evidence that judging changes the judge" already says
+    the record had no evidence from outside its exchanges that judging
+    changes the judge until it registered Feldman and Lynch. CLAIM-337
+    and CLAIM-339, which object to this claim in its body, now say so in
+    objects_to, and the note of 2026-10-29, "filed with its
+    concessions", names them. Promoted at the status review's ruling
+    (the owner delegated these rulings): its premises CLAIM-297 and
+    CLAIM-275 are Active, its grounds are readings of the literature and
+    the Active THEORY-419, both objections are written in, and nothing
+    in the record meets its defeated_if. CASE-107's completely locked-in
+    evidence is a hypothesis about contingency, not a showing that lucid
+    judgement fails. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,11 +62,12 @@ rests_on:
 - CLAIM-275
 grounds:
 - LIT-1181
-- THEORY-593
-- THEORY-454
 - THEORY-419
 - LIT-1196
 - LIT-1188
+corroborated_by:
+- THEORY-593
+- THEORY-454
 complements:
 - CLAIM-336
 - CLAIM-342
@@ -329,3 +349,20 @@ without [CLAIM-330](CLAIM-330.md) and [CLAIM-340](CLAIM-340.md), which say when 
 answers to a fixed query family, against preserving how the family is
 selected) appears once. The exchange took the loop on to institutions in
 [CLAIM-404](CLAIM-404.md).
+
+## Note of 2026-10-29: filed with its concessions
+
+Two counters object to this claim, and its text already says what it grants
+each.
+
+- CLAIM-339, that a loop cut off from action loses one route for evidence
+  it did not select. "What keeps the loop honest" grants it: action is one
+  source of such evidence, not a necessary one. CLAIM-342, Active, answers
+  the rest.
+- CLAIM-337, that the loop is active inference's action and perception one
+  Markov blanket inward. "Judgement is not action" answers its premise that
+  a judgement is behaviour by where the judgement acts. "What it does not
+  say" grants that active inference can redescribe the loop as mental
+  action, precision and structure learning with no action on the world.
+  The claim keeps the disagreement about the diagram, which CLAIM-337
+  itself says is all the redescription leaves.

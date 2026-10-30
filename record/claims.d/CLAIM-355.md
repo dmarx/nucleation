@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -36,6 +36,18 @@ history:
     1999 registered, Unfetched (LIT-1835); A27's scheme is not
     to be credited to either 1999 paper until it is read. The claim
     is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057). THEORY-563 moved from grounds to
+    corroborated_by (ADR-058). The claim uses the real-pattern sense,
+    which is Dennett's (LIT-220), not Taylor's thesis that consciousness
+    is such a pattern, and Taylor's user-illusion, a real pattern whose
+    literal reading misdescribes, is independent support for the split
+    between real binding and a constructed owner. THEORY-872, which the
+    note of 2026-10-22 cites as supporting the split, is added to
+    corroborated_by. The body now cites LIT-220 for the sense; it read
+    "real in THEORY-563's sense". The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,8 +73,10 @@ line:
 grounds:
 - THEORY-064
 - THEORY-691
-- THEORY-563
 - THEORY-125
+corroborated_by:
+- THEORY-563
+- THEORY-872
 complements:
 - CLAIM-165
 - CLAIM-155
@@ -158,8 +172,9 @@ The claim has three parts.
    represent". A27 §12's loop runs from distributed regulation, through an
    integrated affective mode and a unified self-attribution, to changes in
    governance and further integration. The macrostate the attribution
-   compresses is real in [THEORY-563](../theory.d/THEORY-563.md)'s sense, a description that trades
-   accuracy for compression: A27's z = C(x) is "a **task-relative
+   compresses is real in the sense of Dennett's real patterns (LIT-220), a
+   description that trades accuracy for compression, the sense Taylor gives
+   consciousness (THEORY-563): A27's z = C(x) is "a **task-relative
    sufficient statistic of distributed regulation**", "real for one
    explanatory target while hiding morally or phenomenologically important
    differences at another scale".
@@ -342,3 +357,13 @@ not be fetched. Whether it uses the words "functional" and "phenomenal",
 or gives A27's five-part list, is what a reading would settle. Until then
 the scheme this claim quotes from A27 is not to be credited to either 1999
 paper. The claim is unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+Its working grounds are Proposed: THEORY-064 or THEORY-691 for the owner as
+a content, and THEORY-125 for a group state that is not its members' in
+aggregation. Drayson's objection (THEORY-646), sharpened by Gładziejewski's
+lossy-compression reading (the note of 2026-10-22), is answered only
+conditionally: no case in the record shows a unified self-model
+misdescribing who controls what, which is what CASE-114 is built to test
+and has not run.

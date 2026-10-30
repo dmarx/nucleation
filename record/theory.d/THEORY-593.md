@@ -17,7 +17,17 @@ promote_when: >-
   cue-integration or completion data cannot settle it, since every such
   case already fits by stipulation.
 title: "Perceptual learning can install perceiver-specific frames that change which objects a perceiver individuates from the same input, so cognition can shape the perceptual system over time while leaving open whether any single percept is cognitively penetrated"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057, ADR-058), at the status review's
+    ruling (the owner delegated these rulings): the edge to CLAIM-341
+    changes from supports to corroborates. CLAIM-341's loop is
+    CLAIM-297's circuit, and it cites this reading as an instance, in
+    perception, of an observer shaped by earlier cognition, not as a
+    ground its argument rests on. The account is unchanged.
 tags:
 - cognition
 - neuroscience
@@ -34,7 +44,7 @@ summary: >-
   "bottom-up" means once priors sit in early processing, calls a frame "a
   specific top-down prediction" in §3.iii, and shows different weightings,
   not different objects.
-supports:
+corroborates:
 - CLAIM-341
 ---
 <!-- inactive-ok-file: LIT-190 THEORY-529 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
@@ -114,3 +124,12 @@ would test it is in `promote_when`.
 - Cross-modal integration and unity ([LIT-190](../literature.d/LIT-190.md)) is the record's nearest
   neighbour on multisensory binding, about consciousness rather than object
   individuation.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. NOTE-150 read the paper in
+full, and the paper runs no test. No experiment in the record separates a
+frame from attention or imagery with the individuated object as the
+measure, and the criterion promote_when asks for first, saying which
+learned tunings are frames, is not stated. The evidence it rereads shows
+changed weightings and estimates, not different objects.

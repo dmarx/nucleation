@@ -141,3 +141,13 @@ the account, not a finding the essay reports.
 - **[THEORY-043](THEORY-043.md).** The essay's selves are produced by parts that know
   nothing of them, so it sits on the decomposition side, and its counting
   rule is interpretive, not architectural.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. NOTE-364 read the essay in
+full, from a transcription whose quotations are unchecked against the
+printing. Neither promote_when result is in the record: no argument that
+the features a self shares with a centre of gravity are the ones that
+matter, against the reader who credits a self with a first-person point of
+view, and no built case of a process with no self in it authoring a self-
+narrative with a true interpretation; Gilbert is stipulated.

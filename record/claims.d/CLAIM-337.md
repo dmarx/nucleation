@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp9cjyo
 title: 'Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057): its target, CLAIM-341, which the
+    body argues against throughout, written into objects_to, since a
+    body citation doing an objection's work goes in the field. The claim
+    is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -15,6 +23,8 @@ date: '2026-10-16'
 line:
 - distributed-agency
 - pragmatic-transport
+objects_to:
+- CLAIM-341
 grounds:
 - LIT-1191
 - LIT-1195
@@ -99,3 +109,10 @@ what crosses it judgement.
   structure-learning strand rests on [THEORY-564](../theory.d/THEORY-564.md) alone. Parr and
   Friston give attention no power to change content short of an overt
   saccade, which is action on the world.
+
+## Note of 2026-10-29: what holds it back
+
+Its grounds THEORY-662 and THEORY-564 are Proposed: no fitted test of
+Brouillet and Friston's fluency inference, and Smith et al.'s structure
+learning is one simulation. It also grounds on THEORY-577, Proposed, but
+uses only that reading's first clause, that problem reports are behaviour.

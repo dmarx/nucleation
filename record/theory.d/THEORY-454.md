@@ -15,7 +15,17 @@ promote_when: >-
   differences between working memory and perception cannot settle it,
   since Block grants that they "do not show a change in format".
 title: "Perception is constitutively iconic, nonconceptual and nonpropositional and cognition paradigmatically discursive, and percepts are put to cognitive use only inside a 'cognitive envelope', the global workspace read as conceptualisation, where working memory holds recoded, task-dependent abstractions rather than the percepts themselves"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057, ADR-058), at the status review's
+    ruling (the owner delegated these rulings): the edge to CLAIM-341
+    changes from supports to corroborates. CLAIM-341's loop is
+    CLAIM-297's circuit, and it cites this reading as an instance, in
+    working memory, of an observer shaped by earlier cognition, not as a
+    ground its argument rests on. The account is unchanged.
 tags:
 - cognition
 - consciousness
@@ -31,7 +41,7 @@ summary: >-
   and are task-dependent abstractions (moderate). The rereading of the
   workspace as conceptualisation rather than consciousness is asserted,
   not argued against the consciousness reading.
-supports:
+corroborates:
 - CLAIM-341
 ---
 <!-- inactive-ok-file: LIT-636 — Unavailable; Block's book, the unread source of the main thesis's arguments, named and not leaned on -->
@@ -117,3 +127,12 @@ whether the difference is one of format is left open.
   on the cognitive side.
 - **Framing without penetration.** Ivy and Mroczko-Wąsowicz ([LIT-099](../literature.d/LIT-099.md),
   [NOTE-150](../notes.d/NOTE-150.md)) cite the book for a border without cognitive penetration.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. NOTE-498 read the précis in
+full, but the main thesis's arguments are in the book (LIT-636), unread.
+The promote_when's result is not in the record: no test of whether working-
+memory contents fail the tracking and mirroring conditions for iconicity
+that the corresponding percepts meet. Block grants that his nine lines of
+evidence "do not show a change in format".

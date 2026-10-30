@@ -1,10 +1,10 @@
 ---
 number: 175
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpygda8
 title: 'A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis''s own terms, more clearly than Otto and his notebook, and merits a name of its own'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -13,6 +13,18 @@ history:
     thesis whose "own terms" this claim argues on, with the point that the
     step from coupling to parthood is stated rather than argued. The claim
     is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057). Grounds move from THEORY-579 to
+    THEORY-tmplyryk, what Clark and Chalmers argue, split on
+    THEORY-1110's pattern (ADR-058): the claim argues on the extended-
+    mind thesis's own terms and needs their statement, not their truth.
+    Promoted at the status review's ruling (the owner delegated these
+    rulings): every ground is Active or a reading of the literature, its
+    uses are Active terms, no objection is filed against it, and no
+    perturbation study of the kind its defeated_if names is in the
+    record. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,7 +45,7 @@ objects_to:
 - CLAIM-165
 grounds:
 - LIT-097
-- THEORY-579
+- THEORY-tmplyryk
 - LIT-571
 - CASE-046
 uses:
@@ -49,7 +61,7 @@ summary: >-
   combined form and survives only as a question about selfhood. The name
   is not yet chosen.
 ---
-<!-- inactive-ok-file: THEORY-579 — Proposed; the statement of the extended-mind thesis this claim argues on, cited as an open account -->
+<!-- inactive-ok-file: THEORY-579 — Proposed; named in the history as the reading the grounds moved from -->
 <!-- inactive-ok-file: CLAIM-165 — Proposed; the objection this replies to, narrowed in answer -->
 
 # CLAIM-175: A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own
