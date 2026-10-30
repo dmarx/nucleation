@@ -1,5 +1,8 @@
 ---
+number: 497
 status: Proposed
+formerly:
+- CLAIM-tmpxk5cy
 title: "A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on"
 version: 1
 history:
@@ -53,10 +56,10 @@ summary: >-
   in the sense of proportionality. It does not say the macro adds causal
   information.
 ---
-<!-- inactive-ok-file: QUESTION-204 QUESTION-tmpzfd02 — Open; the questions this claim answers in part and leaves open, cited as open -->
+<!-- inactive-ok-file: QUESTION-204 QUESTION-335 — Open; the questions this claim answers in part and leaves open, cited as open -->
 <!-- inactive-ok-file: THEORY-787 — Rejected; the account this claim replaces, cited as rejected -->
 
-# CLAIM-tmpxk5cy: A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on
+# CLAIM-497: A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on
 
 ## The claim
 
@@ -104,7 +107,7 @@ is never a richer one.
   With data, rows are merged by a threshold, and whether real systems have
   a stable proportionate level is what `defeated_if` tests.
 - **Not about temporal or spatio-temporal macros**, where a macro step
-  spans several micro steps. [QUESTION-tmpzfd02](../questions.d/QUESTION-tmpzfd02.md) holds that case.
+  spans several micro steps. [QUESTION-335](../questions.d/QUESTION-335.md) holds that case.
 - **Not that only causal partitions are useful.** A description chosen
   for prediction or compression for a declared target can be coarser or
   finer ([QUESTION-252](../questions.d/QUESTION-252.md)), and normalized measures can rise at a macro

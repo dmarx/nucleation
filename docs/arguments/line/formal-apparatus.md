@@ -6,8 +6,8 @@
 
 **Formal apparatus** — results that hold whatever any substantive line concludes — gluing and contextuality, comparison of experiments and probes, identifiability, conservation, and thresholds for naming a unit; held as a second line by the general results other lines borrow, so that setting a substantive line aside does not retire them (ADR-040).
 
-0 of 40 ARG documents. Back to the [full index](../README.md).
+1 of 41 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-041](../../../record/arguments.d/ARG-041.md) | From the effective-information bound and its ties to proportionality: a gain that depends on the intervention distribution is not a property of the system, the coarse-grainings that lose nothing are, and the coarsest of them is where the causes are | How the record went from [THEORY-787](../../../record/theory.d/THEORY-787.md), Hoel, Albantakis and Tononi's causal emergence, to [CLAIM-497](../../../record/claims.d/CLAIM-497.md), proportionality. Two results the record derived on 2026-10-29 are applied to the question of where a system's causes are. One is the bound ([THEORY-1167](../../../record/theory.d/THEORY-1167.md)). The other is its ties, which are causal feature learning's partitions ([THEORY-1169](../../../record/theory.d/THEORY-1169.md)). One further premise is interpretive: that the coarsest lossless description is the causal one. Proposed for that premise. | Proposed |

@@ -6,7 +6,7 @@
 
 **Answered** — the record holds an Active CLAIM or THEORY, or several together, that answer it as posed and in full scope. A question answered only in part is split, and the answered part becomes a child question (ADR-049).
 
-32 of 334 QUESTION documents. Back to the [full index](../README.md).
+32 of 335 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

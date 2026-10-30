@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**887 document(s) awaiting a decision.**
+**888 document(s) awaiting a decision.**
 
 ## LITs
 
-35 of the 887.
+35 of the 888.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -51,7 +51,7 @@
 
 ## THEORYs
 
-578 of the 887.
+577 of the 888.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -442,7 +442,6 @@
 | 2026-10-20 | Proposed | [THEORY-776](../../record/theory.d/THEORY-776.md) | 0 | 38 | 0 | For every β < 1/3 and every smooth, strictly positive and strictly decreasing energy profile e(t) on [0, T], there is a weak solution of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent β in space and time, with ∫|v(t)|² = e(t) at every time; for such a solution the energy flux across a mollification scale ε, integrated over any time interval, tends as ε → 0 to ½ times the drop in e, which is strictly negative, so energy leaves the resolved field for vanishing scales on every interval; this is one-way for the energy of the whole box, not at every point, and it is chosen by the prescribed profile, not forced by the equations |
 | 2026-10-20 | Proposed | [THEORY-763](../../record/theory.d/THEORY-763.md) | 0 | 29 | 0 | For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls |
 | 2026-10-20 | Proposed | [THEORY-772](../../record/theory.d/THEORY-772.md) | 0 | 22 | 0 | For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction's first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale |
-| 2026-10-20 | Proposed | [THEORY-787](../../record/theory.d/THEORY-787.md) | 0 | 21 | 6 | A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information |
 | 2026-10-20 | Proposed | [THEORY-783](../../record/theory.d/THEORY-783.md) | 0 | 17 | 0 | In neural-network training, sign-descent-like optimizers such as Adam make independent skills of unequal frequency compete for coordinate signs, so that they are learned one after another where gradient descent would learn them together; this is one source of sequential skill onset, beside dependence between skills, as Liu, Liu, Michaud, Gore and Tegmark propose |
 | 2026-10-20 | Proposed | [THEORY-777](../../record/theory.d/THEORY-777.md) | 0 | 12 | 0 | In Monte Carlo on a 64×64 periodic square-lattice Ising model at its critical point, parametrized by a field and 13 nearby couplings and observed only through the spins left after n checkerboard decimations (b = √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the gradient of T_c stay within a factor of about two of their microscopic values, while the others fall by up to about six decades, in three groups whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4 |
 | 2026-10-20 | Proposed | [THEORY-821](../../record/theory.d/THEORY-821.md) | 0 | 12 | 0 | For every α < 1/15 there are weak solutions of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent α in space and time, that satisfy the local energy inequality; in the construction their dissipation measure is a nonnegative function of time alone, equal at each time to the rate at which the total energy falls, zero while the local energy equality holds and positive on all of space during a short final interval in which the solution's energy is drained to zero; uncountably many such solutions share one initial datum and one dissipation measure; for them the local coarse-grained energy flux into vanishing scales converges to that measure, so the transfer is one-way at every place and time in the limit and spread uniformly over the box, with its timing chosen by the construction, not forced by the equations |
@@ -636,7 +635,7 @@
 
 ## ADRs
 
-3 of the 887.
+3 of the 888.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -646,7 +645,7 @@
 
 ## QUESTIONs
 
-8 of the 887.
+8 of the 888.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -661,7 +660,7 @@
 
 ## CLAIMs
 
-219 of the 887.
+220 of the 888.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -884,10 +883,11 @@
 | 2026-10-29 | Proposed | [CLAIM-494](../../record/claims.d/CLAIM-494.md) | 0 | 38 | 1 | Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self |
 | 2026-10-29 | Proposed | [CLAIM-493](../../record/claims.d/CLAIM-493.md) | 0 | 2 | 1 | When a fanbase is set against an outside party such as its club's owner, its more extreme members become more prototypical of it, so a vocal minority can fix the fanbase's public stance through a group process and not only through biased sampling of who speaks |
 | 2026-10-29 | Proposed | [CLAIM-490](../../record/claims.d/CLAIM-490.md) | 0 | 1 | 0 | A fanbase is a mixture of spectators who relate to the club in different ways, as supporters, followers, fans and flâneurs, so the public stance credited to it is weighted towards the most committed types before any bias in who is sampled |
+| 2026-10-30 | Proposed | [CLAIM-497](../../record/claims.d/CLAIM-497.md) | 0 | 9 | 1 | A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on |
 
 ## CASEs
 
-13 of the 887.
+13 of the 888.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -907,7 +907,7 @@
 
 ## TERMs
 
-16 of the 887.
+16 of the 888.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -930,7 +930,7 @@
 
 ## ARGs
 
-15 of the 887.
+16 of the 888.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -949,6 +949,7 @@
 | 2026-10-28 | Proposed | [ARG-030](../../record/arguments.d/ARG-030.md) | 0 | 2 | 0 | Low supervisory cost shows that an organization does not dominate its processes |
 | 2026-10-28 | Proposed | [ARG-031](../../record/arguments.d/ARG-031.md) | 0 | 2 | 0 | In the discriminating study, transport measures that beat the static pragmatic profile would show what the line adds to functional and relevance-theoretic accounts |
 | 2026-10-28 | Proposed | [ARG-040](../../record/arguments.d/ARG-040.md) | 0 | 1 | 1 | In use, an utterance is interpreted by its contrast with the alternatives its speaker could have used, so what a translation must let a receiver reconstruct is those contrasts, not the wording or the proposition |
+| 2026-10-30 | Proposed | [ARG-041](../../record/arguments.d/ARG-041.md) | 0 | 3 | 0 | From the effective-information bound and its ties to proportionality: a gain that depends on the intervention distribution is not a property of the system, the coarse-grainings that lose nothing are, and the coarsest of them is where the causes are |
 
 *Relied on* counts the documents that depend on each one, directly or transitively, through `rests_on`, `grounds`, `uses`, `presupposes` — and ranks the table, age breaking ties. An open question many documents rest on is a decision the record has already built on.
 

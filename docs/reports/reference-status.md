@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**776 documents cited without acknowledgement.** Not listed: 14671 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**777 documents cited without acknowledgement.** Not listed: 14695 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -151,7 +151,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/questions.d/QUESTION-201.md:26`](../../record/questions.d/QUESTION-201.md)
 - [`record/questions.d/QUESTION-202.md:18`](../../record/questions.d/QUESTION-202.md)
 - [`record/questions.d/QUESTION-203.md:15`](../../record/questions.d/QUESTION-203.md)
-- [`record/questions.d/QUESTION-204.md:35`](../../record/questions.d/QUESTION-204.md)
+- [`record/questions.d/QUESTION-204.md:41`](../../record/questions.d/QUESTION-204.md)
 - [`record/questions.d/QUESTION-205.md:15`](../../record/questions.d/QUESTION-205.md)
 - [`record/questions.d/QUESTION-206.md:17`](../../record/questions.d/QUESTION-206.md)
 - [`record/questions.d/QUESTION-207.md:15`](../../record/questions.d/QUESTION-207.md)
@@ -665,7 +665,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-784.md:85`](../../record/theory.d/THEORY-784.md)
 - [`record/theory.d/THEORY-785.md:59`](../../record/theory.d/THEORY-785.md)
 - [`record/theory.d/THEORY-786.md:56`](../../record/theory.d/THEORY-786.md)
-- [`record/theory.d/THEORY-787.md:56`](../../record/theory.d/THEORY-787.md)
+- [`record/theory.d/THEORY-787.md:77`](../../record/theory.d/THEORY-787.md)
 - [`record/theory.d/THEORY-788.md:58`](../../record/theory.d/THEORY-788.md)
 - [`record/theory.d/THEORY-789.md:56`](../../record/theory.d/THEORY-789.md)
 - [`record/theory.d/THEORY-790.md:48`](../../record/theory.d/THEORY-790.md)
@@ -4221,11 +4221,11 @@ The Price equation follows from any ancestor–descendant mapping in a closed po
 - [`record/theory.d/THEORY-770.md:82`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-829.md:13`](../../record/theory.d/THEORY-829.md)
 
-### [THEORY-787](../../record/theory.d/THEORY-787.md) — Proposed
+### [THEORY-787](../../record/theory.d/THEORY-787.md) — Rejected
 
 A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
 
-6 citations in 2 files await a look; 15 other citations of it are acknowledged.
+6 citations in 2 files await a look; 28 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1839.md:29`](../../record/literature.d/LIT-1839.md)
 - [`record/literature.d/LIT-1839.md:92`](../../record/literature.d/LIT-1839.md)
@@ -8228,6 +8228,14 @@ Empathic concern for another produces motivation whose ultimate goal is the othe
 
 - [`record/literature.d/LIT-1700.md:54`](../../record/literature.d/LIT-1700.md)
 
+### [CLAIM-497](../../record/claims.d/CLAIM-497.md) — Proposed
+
+A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on
+
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-335.md:43`](../../record/questions.d/QUESTION-335.md)
+
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
 Dynamics of collectives with opinionated agents: The case of scrambling connectivity
@@ -9955,6 +9963,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-480.md:71: annotation no longer applies — CLAIM-419, CLAIM-479, QUESTION-283 is Active now
 - record/claims.d/CLAIM-487.md:36: annotation no longer applies — CLAIM-159 is Active now
 - record/claims.d/CLAIM-496.md:44: annotation no longer applies — CLAIM-259, QUESTION-130 is Active now
+- record/claims.d/CLAIM-497.md:59: annotation no longer applies — QUESTION-204, QUESTION-335 is Active now
 - record/literature.d/LIT-1025.md:41: annotation no longer applies — CLAIM-279, CLAIM-280, THEORY-214 is Active now
 - record/literature.d/LIT-1031.md:41: annotation no longer applies — CLAIM-284 is Active now
 - record/literature.d/LIT-1049.md:61: annotation no longer applies — THEORY-327 is Active now
@@ -10095,7 +10104,7 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-1124.md:31: annotation no longer applies — CLAIM-135 is Active now
 - record/theory.d/THEORY-1133.md:25: annotation no longer applies — CLAIM-135, LIT-1804, LIT-1813 is Active now
 - record/theory.d/THEORY-1145.md:36: annotation no longer applies — CLAIM-135 is Active now
-- record/theory.d/THEORY-1167.md:50: annotation no longer applies — QUESTION-204 is Active now
+- record/theory.d/THEORY-1167.md:58: annotation no longer applies — QUESTION-204 is Active now
 - record/theory.d/THEORY-1168.md:39: annotation no longer applies — QUESTION-132 is Active now
 - record/theory.d/THEORY-1169.md:54: annotation no longer applies — QUESTION-204 is Active now
 - record/theory.d/THEORY-152.md:33: annotation no longer applies — THEORY-140 is Active now
@@ -10127,7 +10136,7 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-744.md:47: annotation no longer applies — CLAIM-331 is Active now
 - record/theory.d/THEORY-747.md:44: annotation no longer applies — CLAIM-331 is Active now
 - record/theory.d/THEORY-771.md:65: annotation no longer applies — CLAIM-331 is Active now
-- record/theory.d/THEORY-787.md:62: annotation no longer applies — QUESTION-204 is Active now
+- record/theory.d/THEORY-787.md:83: annotation no longer applies — QUESTION-204 is Active now
 - record/theory.d/THEORY-795.md:33: annotation no longer applies — CLAIM-280, THEORY-214 is Active now
 - record/theory.d/THEORY-845.md:32: annotation no longer applies — CLAIM-342 is Active now
 - record/theory.d/THEORY-846.md:36: annotation no longer applies — CLAIM-081, CLAIM-199 is Active now

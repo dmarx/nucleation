@@ -1,5 +1,8 @@
 ---
+number: 335
 status: Open
+formerly:
+- QUESTION-tmpzfd02
 title: "Does causal emergence of effective information in Hoel, Albantakis and Tononi's temporal and spatio-temporal macros survive a common intervention distribution, or does it come from comparing a macro step that spans several micro steps with a single micro step?"
 version: 1
 history:
@@ -26,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-787 — Rejected; the account whose remaining case this question holds -->
 
-# QUESTION-tmpzfd02: Does causal emergence of effective information in Hoel, Albantakis and Tononi's temporal and spatio-temporal macros survive a common intervention distribution, or does it come from comparing a macro step that spans several micro steps with a single micro step?
+# QUESTION-335: Does causal emergence of effective information in Hoel, Albantakis and Tononi's temporal and spatio-temporal macros survive a common intervention distribution, or does it come from comparing a macro step that spans several micro steps with a single micro step?
 
 ## Why it is a question
 
@@ -37,7 +40,7 @@ element answers a two-spike burst. In the other, nine heterogeneous
 elements are coarse-grained in space and time together ([NOTE-726](../notes.d/NOTE-726.md)). There
 the macro effect is k micro steps ahead, and [LIT-1038](../literature.d/LIT-1038.md) compares it with the
 micro mechanism over one step. [THEORY-1167](../theory.d/THEORY-1167.md)'s "What this does not say"
-leaves this case out, and so does [CLAIM-tmpxk5cy](../claims.d/CLAIM-tmpxk5cy.md).
+leaves this case out, and so does [CLAIM-497](../claims.d/CLAIM-497.md).
 
 ## What would answer it
 

@@ -6,7 +6,7 @@
 
 **Social identity** — the psychology of group membership — social identity and self-categorization theory, how people categorize themselves and others and when a group identity becomes salient, identification and its measurement, in-group bias and intergroup relations, rivalry, recategorization and common in-group identity, group-based emotion, crowds and fandom. What a group is, as ontology, is social-ontology; here it is how people come to see themselves and act as members (ADR-062).
 
-3 of 496 CLAIM documents. Back to the [full index](../README.md).
+3 of 497 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

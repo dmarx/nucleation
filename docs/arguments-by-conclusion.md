@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 45 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 46 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 28 matches
 
@@ -117,3 +117,5 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
 - [CLAIM-486](../record/claims.d/CLAIM-486.md) — A rendering can keep the communicative act while changing the proposition, so preserving the proposition is not necessary for preserving the communicative event *(Proposed, thesis)*
   - [ARG-020](../record/arguments.d/ARG-020.md) — The compensation hypothesis gives the mechanism by which a rendering keeps the act while changing the proposition *(Rejected, cause-to-effect)*
   - [ARG-021](../record/arguments.d/ARG-021.md) — The manuscript's renderings, which keep the words and change the act, show that keeping the proposition is not necessary for keeping the act *(Rejected, existence)*
+- [CLAIM-497](../record/claims.d/CLAIM-497.md) — A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on *(Proposed, thesis)*
+  - [ARG-041](../record/arguments.d/ARG-041.md) — From the effective-information bound and its ties to proportionality: a gain that depends on the intervention distribution is not a property of the system, the coarse-grainings that lose nothing are, and the coarsest of them is where the causes are *(Proposed, formal-application)*

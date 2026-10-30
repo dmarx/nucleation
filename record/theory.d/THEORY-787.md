@@ -26,9 +26,9 @@ status_note: >-
   Comolatti and Hoel concede it (LIT-1843). The independent interventionist
   test the promote_when asks for, causal feature learning (LIT-1833), can
   confirm that a macro is proportionate but never that it beats the micro
-  (THEORY-1169). What the record holds instead is CLAIM-tmpxk5cy, by
-  ARG-tmp2wo7e. Hoel's temporal and spatio-temporal macros, which the bound
-  does not reach, are QUESTION-tmpzfd02. The arithmetic it rested on,
+  (THEORY-1169). What the record holds instead is CLAIM-497, by
+  ARG-041. Hoel's temporal and spatio-temporal macros, which the bound
+  does not reach, are QUESTION-335. The arithmetic it rested on,
   THEORY-222, stands.
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
@@ -48,7 +48,7 @@ history:
   note: >-
     Status Proposed → Rejected at the owner's direction of 2026-10-30
     ("reject it and adopt the proportionality thesis"), on THEORY-1167 and
-    THEORY-1169; replaced in the record's voice by CLAIM-tmpxk5cy. The body
+    THEORY-1169; replaced in the record's voice by CLAIM-497. The body
     is unchanged: it is the account as filed, with its two dated notes of
     2026-10-29.
 
@@ -81,7 +81,7 @@ answers:
 - QUESTION-204
 ---
 <!-- inactive-ok-file: QUESTION-204 — Open; the question whose first half the note of 2026-10-29 reports answered, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpxk5cy ARG-tmp2wo7e QUESTION-tmpzfd02 — Proposed or Open; what replaces this account and the case it leaves, named in the status note -->
+<!-- inactive-ok-file: CLAIM-497 ARG-041 QUESTION-335 — Proposed or Open; what replaces this account and the case it leaves, named in the status note -->
 
 
 # THEORY-787: A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
