@@ -1,0 +1,177 @@
+---
+status: Read
+paper: LIT-tmpupvec
+title: 'Kelso, Scholz & Schöner — Dynamics governs switching'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Read in full on 2026-10-30 from the copy on J. A. S. Kelso's lab page
+    at Florida Atlantic University
+    (https://ccs.fau.edu/hbblab/pdfs/1988_Kelso_Scholz_Schoner_Dynamics_governs_switching_among_pattern.pdf),
+    an author's posting that counts under ADR-064. It is the publisher's
+    typeset PDF: Physics Letters A 134(1), 12 December 1988, pp. 8–12,
+    received 6 June 1988, revised 22 September 1988, five pages. Text
+    extracted with pdftotext; pages 10 and 11 were also read as images, for
+    Figs. 2–4 and the equations. Read: the abstract, the whole text, the
+    four figures and the references. The papers it cites for the
+    spontaneous transition (refs. 7, 12–16) were not read here, except
+    ref. 14, read the same day (NOTE-tmpegx3g).
+date: '2026-10-30'
+summary: >-
+  Four people switched on cue between in-phase and anti-phase finger
+  movement. Going from in-phase to anti-phase took about twice as long as
+  the reverse at every frequency tested, with a longer-tailed
+  distribution, significant for each subject. A stochastic HKB equation
+  with the earlier experiments' parameters plus a term pulling relative
+  phase toward the intended pattern reproduces the asymmetry and the
+  shapes, with one parameter set to the right order of magnitude: the
+  less stable a pattern, the faster it is left. Loss of stability before
+  spontaneous switches is cited, not shown.
+---
+<!-- inactive-ok-file: THEORY-069 — Proposed; the account this reading bears on, cited as open -->
+
+# NOTE-tmpswmu1: Kelso, Scholz & Schöner — Dynamics governs switching
+
+## Contribution
+
+It extends coordination dynamics from switches that happen to people to
+switches people make. Before it, the HKB dynamics described spontaneous
+transitions as a control parameter crosses a critical point. Here an
+instructed, intentional switch between the same two patterns, at
+frequencies where both are stable, is shown to take time in proportion to
+how stable the starting pattern is, as a model in which intention is one
+more term in the same dynamics predicts.
+
+## Key insight
+
+An intention does not override the pattern dynamics; it tilts them. Leaving
+the deep in-phase well takes longer than leaving the shallow anti-phase
+one, even when the person wants to leave, so the landscape that governs
+involuntary switching also shapes voluntary switching.
+
+## Assumptions
+
+- **The intrinsic dynamics stay valid under intention.** Relative phase
+  obeys φ̇ = −a sin φ − 2b sin 2φ + √Q ξ_t (Eq. 1) while an intention is
+  in force (p. 11).
+- **Intention is a force toward the intended phase ψ.**
+  f_int(φ, t) = −θ(t − t₀) c_int sin(φ − ψ) (Eq. 2), switched on
+  instantaneously at the transient's onset t₀, "neglecting hypothesized
+  physiological processes associated with intentional acts".
+- **Parameters from the spontaneous-transition experiments.** a = 1 Hz,
+  b = 0.5 Hz, Q = 0.25 Hz, "for which the two states ... differ in their
+  stability, and the relative phase fluctuations and relaxation times are
+  of the correct order of magnitude" (p. 11).
+- **Switching time is measured by eye.** From where φ "first diverged
+  from its previous mean state" to where it stabilized within ±15° for
+  two consecutive cycles, using interactive graphic displays of the
+  trajectories and relative phase (p. 10).
+
+## Key results
+
+- **Task (p. 9).** Index fingers moved in the transverse plane, in-phase
+  or anti-phase; a metronome set the frequency for 10 cycles and stopped;
+  after 10 more cycles a tone cued an immediate switch to the other
+  pattern, held for 20 cycles. Fingers tracked by WATSMART at 200 Hz,
+  with EMG of the first dorsal interosseous.
+- **Asymmetry (p. 10, Fig. 2).** Mean switching time, over six trials and
+  four subjects, at 1.75–2.75 Hz: about 300–400 ms from anti-phase to
+  in-phase and about 550–650 ms from in-phase to anti-phase, read from
+  the figure. "Clearly, switching from the in-phase to the anti-phase
+  mode is slower by approximately a factor of two." Per-subject ANOVA:
+  "Fs(1,60) = 52.5 (JB), 20.7 (JD), 27.3 (JJ) and 100.4 (JS),
+  Ps < 0.0001."
+- **Distributions (Fig. 3).** In-phase to anti-phase has a larger mean
+  and a longer tail.
+- **Model (pp. 11–12, Fig. 4).** Solving the Fokker–Planck equation for
+  Eq. (3) with c_int ≈ 10 Hz, "chosen to account roughly for the
+  observed order of magnitudes", gives densities with the same asymmetry
+  and tail, and mean switching times of 0.41 s (anti- to in-phase) and
+  0.85 s (in- to anti-phase), described as "in remarkable agreement with
+  the experimental result".
+- **Holding an unstable pattern.** The theory "can account for the ability
+  of the system to sustain a pattern that is intrinsically unstable,
+  because an intention (as part of the dynamics) can change the
+  stabilities of the intrinsic dynamics" (p. 12).
+- **Cited, not shown (p. 8).** "As theoretically predicted [11,12]
+  enhanced fluctuations of relative phase [13,14] and growth in relaxation
+  time ... [15,16] — both indicative of loss of stability — accompanied
+  the transition from one (anti-phase) to the other (in-phase) pattern",
+  and switching times of spontaneous transitions "were predicted [12]
+  and found to be in striking agreement with theory [16]".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Intentional switching from in-phase to anti-phase takes about twice as long as the reverse | strong for these subjects | four subjects, six trials each per condition, F(1,60) ≥ 20.7, p < 0.0001 each; consistent across 1.75–2.75 Hz |
+| C2 | The asymmetry follows from the patterns' different stability | moderate | stochastic model with intrinsic parameters from earlier experiments; one adjusted parameter |
+| C3 | Intention acts as a perturbation within the order-parameter dynamics | moderate as a model | C2's fit; the form of f_int is the simplest chosen, not derived |
+| C4 | Spontaneous transitions show enhanced fluctuations and growing relaxation time | cited | refs. 13–16; not shown here |
+| C5 | The tools of stochastic dynamics are adequate for "inherently biological and even psychological questions" | asserted | the summary's generalization |
+
+## Concepts
+
+- **Intrinsic dynamics** — the relative-phase dynamics without any
+  intention, Eq. (1), identified from spontaneous transitions.
+- **Intentional information** — a contribution to the dynamics that
+  attracts relative phase to an intended value ψ, Eq. (2).
+- **Switching time** — the length of the transient from one pattern to
+  the other, a random variable whose distribution follows from the
+  time-dependent probability density of relative phase.
+
+## Connections
+
+It applies the stochastic HKB theory (Schöner, Haken and Kelso 1986, not
+filed; the model of LIT-588) and the intentional-dynamics formulation of
+Schöner and Kelso (refs. 20–21, not filed) to new data, and relies on
+Kelso, Scholz and Schöner 1986 (LIT-tmp8grr0, NOTE-tmpegx3g) and Scholz,
+Kelso and Schöner 1987 (not filed) for the spontaneous transition's loss
+of stability. Kelso 2021 (LIT-601, NOTE-467) summarizes it.
+
+## Bearing on the record
+
+- **THEORY-069: partly, and indirectly.** It does not test the
+  spontaneous transition, so it meets none of the `promote_when`'s three
+  findings at first hand. What it adds is independent of them: the two
+  patterns differ in stability as the model says, measured by switching
+  times rather than fluctuations, and in-phase is the deeper well. Its
+  introduction cites growth in relaxation time before the spontaneous
+  switch (refs. 15–16), which is the evidence THEORY-069 still lacks; the
+  citation points to Scholz, Kelso and Schöner 1987 (Physics Letters A
+  123:390, doi:10.1016/0375-9601(87)90038-7), the paper to file next.
+- **THEORY-069's report of a fit "with a single free parameter".** This
+  paper's fit has one new parameter, c_int, set to the order of magnitude
+  of the switching times; the theoretical means (0.41 s and 0.85 s) are
+  each above the observed (about 0.35 s and 0.6 s, read from Fig. 2). The
+  asymmetry and the tail are reproduced; the values only roughly.
+- **behavioral-integration.** A case where intention and pattern dynamics
+  are not separate controllers: the intended act runs through the same
+  landscape as the involuntary one. It bears on THEORY-069's line that no
+  controller chooses the pattern: here a choice is made, and the dynamics
+  still sets its cost.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Four subjects**, all named by initials; whether they were the
+  authors or naive is not said.
+- **Switching time was judged interactively** from displays, with a
+  ±15° criterion; no reliability check is reported.
+- **The model's fit** is to order of magnitude; c_int is free, the
+  intention is assumed to act instantly at the observed onset, and the
+  delay between cue and onset is not analysed.
+- **Spontaneous-transition evidence** is cited, not shown.
+- **A slip.** The text says the theoretical means "should be compared to
+  the data in fig. 1"; the switching-time data are in Fig. 2.
+
+## Open questions
+
+- Does the intentional term's strength vary with the person or the
+  frequency, and can it be measured independently of the switching
+  times?
+- Is the cue-to-onset delay also asymmetric?
+- Do switches in other effectors, or between people, show the same
+  dependence on pattern stability?

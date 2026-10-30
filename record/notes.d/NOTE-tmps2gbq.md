@@ -1,0 +1,240 @@
+---
+status: Read
+paper: LIT-756
+title: 'Shipman & Marshall — Formality considered harmful'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Read in full on 2026-10-30 from the authors' web version on Frank
+    Shipman's pages at Texas A&M
+    (https://people.engr.tamu.edu/shipman/formality-paper/harmful.html),
+    an author's posting that counts under ADR-064. It is an HTML text
+    titled "Formality Considered Harmful: Experiences, Emerging Themes, and
+    Directions", both authors at Xerox Palo Alto Research Center, about
+    6,700 words before the references; HTML converted to text with a
+    script. Read: the abstract, the keywords, all five sections, the
+    acknowledgements and the reference list. It is not the journal text.
+    The 1999 article (Computer Supported Cooperative Work 8(4):333–352,
+    retitled "... and Directions on the Use of Formal Representations in
+    Interactive Systems") was not seen: Springer's page returned 429 on
+    2026-10-30, and Crossref, OpenAlex and Semantic Scholar carry no
+    abstract. What can be said of the difference is in the body, under
+    "The version read". Section and subsection numbers are the web
+    version's; it has no page numbers.
+date: '2026-10-30'
+summary: >-
+  From the authors' experience with hypermedia, design-rationale,
+  knowledge-based, groupware and software-engineering systems: users
+  resist making structure, content or procedure explicit, and are often
+  right to. Formalisms cost cognitive overhead, demand tacit knowledge be
+  stated, commit people to structure too early, and fit only one person,
+  group or task; "there is always information that falls between the
+  cracks". Designers should formalize only what the task needs, infer
+  structure from informal material, and support incremental
+  formalization and restructuring as the task is reconceived. Read in the
+  authors' web version, earlier than the 1999 journal text.
+---
+<!-- inactive-ok-file: CLAIM-181 — Proposed; the counter this reading bears on, cited as open -->
+
+# NOTE-tmps2gbq: Shipman & Marshall — Formality considered harmful
+
+## The version read
+
+The web version is the authors' own text, from Xerox PARC. Its abstract,
+keywords and reference list date it. Its latest references are "to
+appear" items of 1993–94 (Hypertext '93, HICSS '94), so the text is of
+about 1993–94, some five years before the journal article. Three
+differences from the 1999 article can be stated; the rest is unknown.
+
+- **Title.** The web title ends "Experiences, Emerging Themes, and
+  Directions"; the journal's adds "on the Use of Formal Representations in
+  Interactive Systems".
+- **Abstract.** The web abstract locates the cause in "users'
+  unwillingness to make structure, content, or procedures explicit". The
+  record's entry, registered on 2026-10-06 from the journal's abstract,
+  has "unwillingness or inability". That wording was not rechecked today.
+- **Keywords.** The web version lists "Formalization, structure,
+  hypermedia, argumentation, knowledge-based systems, groupware,
+  representation". The LIT's keywords, taken from the journal, add design
+  environments, knowledge representation and tacit knowledge.
+
+Whether the 1999 text adds cases, sections or later work (the journal
+article runs to 20 pages) was not checked.
+
+## Contribution
+
+It named a common cause behind the disappointing uptake of very different
+systems for intellectual work: they asked people to formalize, and people
+would not or could not. It took the users' side, arguing that the refusal
+is often rational, and turned the finding into design advice:
+incremental, system-assisted formalization, and structure that can be
+revised as understanding changes.
+
+## Key insight
+
+A formalism is not a neutral container for what people already know. It
+asks them to chunk, label and link before they know how, in categories
+others do not share, at a cost that may exceed the service it buys, and
+it changes the task while doing so. The interface is not the problem:
+"if you build the right interface to an embedded representation, users
+will formalize the desired aspect of their task domain" is called "a
+dangerously seductive line of reasoning" (§2).
+
+## Assumptions
+
+- **Evidence from experience.** The paper reviews the authors' "own
+  experiences designing and using such systems" and "corroborative
+  reports by others" (§1); it reports no controlled study.
+- **A spectrum of formality.** Informal (a text editor), semi-formal
+  (idea processors, hypermedia), formal (a representation "fully
+  interpreted by a computer program"); rejection follows when the
+  formality demanded "exceeds that which a user expects, needs, or is
+  willing to tolerate" (§1).
+- **Interfaces left out on purpose.** The systems' interfaces are not
+  described, so that the formalisms themselves are judged (§2).
+
+## Key results
+
+- **Five kinds of system (§2).**
+  - *Hypermedia* (KMS, the Virtual Notebook System, NoteCards, Aquanet):
+    users carried over old habits, could not decide how big an idea is,
+    rarely used typed links and used them inconsistently; "even
+    sophisticated users with a background in knowledge representation had
+    problems formalizing previously implicit structures" (§2.1).
+  - *Argumentation and design rationale* (IBIS, PHI, itIBIS, gIBIS, QOC,
+    Toulmin): successes "relied on severe social pressure, extensive
+    training, or continuing human facilitation"; outside groups needed the
+    minutes turned back into prose. Three problems: people cannot always
+    chunk intertwined ideas; they "seldom agree on how information can be
+    classified and related ... what one person thinks is an argument may
+    be an issue to someone else"; and "there is always information that
+    falls between the cracks, no matter how well thought out the formal
+    representation is" (§2.2).
+  - *Knowledge-based systems*: even with end-user modification tools,
+    users struggled with "system concepts such as classes or rules"
+    (§2.3).
+  - *Groupware*: typed mail was used as plain mail; scheduling would make
+    explicit what is better left implicit; workflow fails on exceptions,
+    and choosing which procedures to encode "can quickly lead to a
+    political battle whose first casualty is the workflow system" (§2.4).
+  - *Software engineering*: the essential difficulty is knowing what to
+    state, whatever the interface (§2.5).
+- **What the cases share (§2).** Formalisms "structure the activity in
+  unexpected or unintended ways, are understood differently by different
+  people, may be an unfamiliar addition to a formerly familiar task, may
+  cause people to lose information that doesn't fit, and in general
+  require people to make knowledge explicit that may be difficult or
+  undesirable to articulate."
+- **Why users are right to resist (§3).**
+  - *Cognitive overhead* (§3.1): learning the language and crossing
+    Norman's "gulf of execution"; an ATMS over Toulmin networks cost more
+    than it returned, since by the time contradictions were specified the
+    user had done most of the evaluation.
+  - *Tacit knowledge* (§3.2): introspection "interrupts the task,
+    structures and changes it"; quoting Hutchins et al., a special
+    language "may also restrict the user's flexibility to think about the
+    domain in different ways"; design students could not produce IBIS
+    though their talk followed it; "post hoc analysis is very different
+    from generation".
+  - *Premature structure* (§3.3): migrating from one formalization to
+    another "may be more difficult than formalizing the information from
+    an informal state"; Malone's piles defer classification.
+  - *Situational structure* (§3.4): sharing a formalization requires
+    agreeing on chunking, labelling and linking, which removes the
+    productive ambiguity of a legal text; a representation built for one
+    task fitted a closely related one poorly.
+- **Directions (§4).** Formalize what the task essentially needs (§4.1);
+  weigh optional formalization against its benefit and infer structure
+  from informal material (§4.2); and "expect, allow, and support
+  reconceptualization and incremental formalization in longer tasks"
+  (§4.3), which meets each of the four problems, though situated structure
+  "only partially".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Users' unwillingness to make structure, content or procedure explicit causes many unexpected difficulties with interactive systems | moderate | experience across five kinds of system, and others' reports; no controlled comparison |
+| C2 | Users are often justified in resisting formalization | moderate as argument | the four reasons of §3, each with cited cases |
+| C3 | Any formal representation leaves some information falling between the cracks | weak as universal; moderate as observation | gIBIS and the authors' own design-rationale work (§2.2) |
+| C4 | People seldom agree on how to classify and relate pieces of argument | moderate | the authors' disputes with collaborators; Toulmin experience (§2.2) |
+| C5 | Incremental, system-assisted formalization addresses overhead, tacit knowledge, premature structure and, partly, situational structure | weak to moderate | Shipman's 1993 dissertation and related systems, cited, not shown here |
+
+## Concepts
+
+- **Formalism** — an abstract representation embedded in a system that
+  "describe[s] and constrain[s] some aspect of their work or its content"
+  (§1).
+- **Semi-formal** — requiring "some — but not complete — encoding of
+  information into a schematic form" (§1).
+- **Premature structure** — structure imposed before the information or
+  the task is understood, costly to undo (§3.3).
+- **Situational structure** — structure that fits one person, group or
+  task and not another (§3.4).
+- **Incremental formalization** — entering information informally and
+  adding structure later, in small steps, with the system suggesting
+  structure it recognizes (§4.3).
+
+## Connections
+
+It draws on Halasz's reflections on NoteCards, Conklin and Begeman on
+gIBIS, Conklin and Yakemovic on itIBIS, Grudin on why groupware fails,
+Suchman on situated action, Polanyi on tacit knowledge, Norman and
+Hutchins et al. on the gulf of execution, and Malone on office piles. In
+the record it belongs to the design-rationale batch of ADR-030 and is the
+standard statement of premature formalization.
+
+## Bearing on the record
+
+- **CLAIM-181: partly.** The claim's note of 2026-10-29 says it is held
+  back partly because Shipman and Marshall, "whose finding it turns on the
+  record, are unread". They are now read, in the authors' earlier web
+  version, and the attribution holds: they found that people resist
+  formalizing and often should. Three passages bear directly on the
+  counter.
+  - "There is always information that falls between the cracks, no
+    matter how well thought out the formal representation is" (§2.2) is
+    the claim's "lost" case.
+  - "What one person thinks is an argument may be an issue to someone
+    else" (§2.2) is a move forced into one category where it fits two.
+  - Their remedy, incremental formalization and restructuring "as tasks
+    are reconceptualized" (§5), is what CLAIM-419 says the record does
+    when it amends its grammar.
+
+  Two cautions about the claim's paraphrase. Its line "When they are made
+  to formalize early, the structure that results belongs to the system and
+  not to them" goes beyond the text. The paper says formalisms "structure
+  the activity in unexpected or unintended ways" and that a special
+  language may stop some intentions "from arising at all" (Hutchins et
+  al., quoted in §3.2). That is close, but the authors never say whose the
+  structure is. And the paper studies systems imposed on users, not a
+  vocabulary its users chose and can amend. That difference is the
+  ground CLAIM-419 stands on. What CLAIM-181 itself still waits on, a move
+  that mattered and that the record cannot hold, is a fact about this
+  record that no reading can supply.
+- **ADR-032's literature roles** that "recurred" but stay in prose are
+  the paper's "information that doesn't fit", noticed and left informal on
+  purpose. Shipman and Marshall would call that keeping it informal until
+  formalizing pays; they would not call it a loss.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Anecdote.** The evidence is the authors' and others' experience,
+  reported as anecdotes; there is no measure of how often users resist,
+  or of what predicts it.
+- **Their own remedy is cited, not shown.** Incremental formalization's
+  benefits are argued and referred to Shipman's dissertation.
+- **Version.** Read in a text five years earlier than the journal
+  article; anything added in 1999 is not covered here.
+
+## Open questions
+
+- When does formalizing pay, and can that be predicted from the task
+  before a system is built?
+- Does structure inferred from informal material avoid the costs of
+  formalization, or move them to correcting the system's guesses?
+- What happens to a formalism its users can amend (an evolving
+  vocabulary) as against one imposed on them?
