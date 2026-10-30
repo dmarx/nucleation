@@ -24,9 +24,9 @@ complements:
 - CLAIM-471
 - CLAIM-143
 summary: >-
-  The clause CLAIM-471 dropped when the twenty-fourth status review
-  narrowed "establish" to "estimate" (ADR-047, kind 2). It is the record's
-  own wording, and no source asserts it. CLAIM-143's order of tests needs
+  The clause [CLAIM-471](CLAIM-471.md) dropped when the twenty-fourth status review
+  narrowed "establish" to "estimate" ([ADR-047](../decisions.d/ADR-047.md), kind 2). It is the record's
+  own wording, and no source asserts it. [CLAIM-143](CLAIM-143.md)'s order of tests needs
   it to be possible, since the order asks for correspondences that are
   independently validated. No held case meets it yet.
 ---
@@ -35,23 +35,23 @@ summary: >-
 
 ## The claim
 
-CLAIM-471 version 4 said measurement "can establish correspondences among
+[CLAIM-471](CLAIM-471.md) version 4 said measurement "can establish correspondences among
 local descriptions". The twenty-fourth status review narrowed that to
 "estimate", because nothing the record holds goes further. This entry keeps
 the stronger form as a thesis: for some measured correspondences there is
 evidence, not produced by the measurement, against which the estimate can
-be checked. That is what CLAIM-143's proviso asks for ("independently
+be checked. That is what [CLAIM-143](CLAIM-143.md)'s proviso asks for ("independently
 validated and not admitted because they remove the disagreement"). It is
-also what CLAIM-342 asks of any loop: evidence whose arrival or scoring
+also what [CLAIM-342](CLAIM-342.md) asks of any loop: evidence whose arrival or scoring
 does not pass through the interpretation it tests.
 
 ## Where it stands
 
-- Singer (NOTE-1224) estimates relative angles and validates them jointly,
+- Singer ([NOTE-1224](../notes.d/NOTE-1224.md)) estimates relative angles and validates them jointly,
   by consistency around cycles, under a noise model.
-- Hansen and Ghrist (NOTE-1233, §8.7) adjust measured relationships until
+- Hansen and Ghrist ([NOTE-1233](../notes.d/NOTE-1233.md), §8.7) adjust measured relationships until
   a section exists.
-- Robinson (NOTE-1221) trusts his maps, and in his Case 2 a sensor bias
+- Robinson ([NOTE-1221](../notes.d/NOTE-1221.md)) trusts his maps, and in his Case 2 a sensor bias
   cannot be told apart from an error in the maps.
 
 None of them checks a correspondence against independent evidence. A held
@@ -59,4 +59,4 @@ case would promote this claim. An example is clock offsets estimated by
 signal exchange and then checked against a co-located reference that took
 no part in the exchange. An argument that every check reduces to
 consistency would defeat it. The pragmatic-transport form of the question
-is QUESTION-005.
+is [QUESTION-005](../questions.d/QUESTION-005.md).
