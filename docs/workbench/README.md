@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [30 Oct 02:44 — The status-review procedure revised after sixteen passes, and a fresh worklist](2026-10.md#the-status-review-procedure-revised-after-sixteen-passes-and-a-fresh-worklist)
 - [30 Oct 02:17 — The sixteenth status review: nine claims promoted, mostly by sorting grounds from corroboration](2026-10.md#the-sixteenth-status-review-nine-claims-promoted-mostly-by-sorting-grounds-from-corroboration)
 - [30 Oct 01:22 — The ADR-047 kind-1 sweep: twenty-two wide forms and two glosses kept, seven mis-statements noted](2026-10.md#the-adr-047-kind-1-sweep-twenty-two-wide-forms-and-two-glosses-kept-seven-mis-statements-noted)
 - [30 Oct 00:34 — The fifteenth status review: nine claims and three readings promoted, two terms adopted, and ADR-047's kind-1 rule restored](2026-10.md#the-fifteenth-status-review-nine-claims-and-three-readings-promoted-two-terms-adopted-and-adr-047s-kind-1-rule-restored)
@@ -115,8 +116,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-106 entries across 1 book, newest first.
+107 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 106 | 2026-10-07 | 2026-10-30 |
+| [2026-10](2026-10.md) | 107 | 2026-10-07 | 2026-10-30 |
