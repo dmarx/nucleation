@@ -1,5 +1,8 @@
 ---
+number: 332
 status: Answered
+formerly:
+- QUESTION-tmpdq47o
 title: 'Is the communicative object a presheaf over contexts?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ summary: >-
   family splits it into sectors, stays [QUESTION-055](QUESTION-055.md)'s.
 ---
 
-# QUESTION-tmpdq47o: Is the communicative object a presheaf over contexts?
+# QUESTION-332: Is the communicative object a presheaf over contexts?
 
 ## Why it was a question
 

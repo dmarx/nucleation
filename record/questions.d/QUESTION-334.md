@@ -1,5 +1,8 @@
 ---
+number: 334
 status: Open
+formerly:
+- QUESTION-tmpsuo85
 title: "Outside NASA, does an organization's first acceptance of a deviation, traced prospectively, predict widening acceptance and later failure more often than in comparable organizations that eliminate deviations, and does an independent safety function interrupt the pattern?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, the general theory this asks about -->
 
-# QUESTION-tmpsuo85: Outside NASA, does an organization's first acceptance of a deviation, traced prospectively, predict widening acceptance and later failure more often than in comparable organizations that eliminate deviations, and does an independent safety function interrupt the pattern?
+# QUESTION-334: Outside NASA, does an organization's first acceptance of a deviation, traced prospectively, predict widening acceptance and later failure more often than in comparable organizations that eliminate deviations, and does an independent safety function interrupt the pattern?
 
 ## Why it is a question
 

@@ -1,5 +1,8 @@
 ---
+number: 333
 status: Open
+formerly:
+- QUESTION-tmpmy9xu
 title: 'Does how far fear falls within or across exposure or extinction sessions predict fear at follow-up once initial fear is controlled, in the studies Craske et al. 2014 cite or a later meta-analysis, and in well-powered clinical samples?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   this question.
 ---
 
-# QUESTION-tmpmy9xu: Does how far fear falls within or across exposure or extinction sessions predict fear at follow-up once initial fear is controlled, in the studies Craske et al. 2014 cite or a later meta-analysis, and in well-powered clinical samples?
+# QUESTION-333: Does how far fear falls within or across exposure or extinction sessions predict fear at follow-up once initial fear is controlled, in the studies Craske et al. 2014 cite or a later meta-analysis, and in well-powered clinical samples?
 
 ## Why it is a question
 

@@ -111,7 +111,7 @@
 
 ## From A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation
 
-- [CLAIM-038](../record/claims.d/CLAIM-038.md) — A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation *(thesis, Proposed)*
+- [CLAIM-038](../record/claims.d/CLAIM-038.md) — A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation *(thesis, Active)*
   - [CLAIM-141](../record/claims.d/CLAIM-141.md) — Causal-loop consistency and sheaf contextuality are both local-to-global problems, but passing to distributions affects them oppositely: a loop with no deterministic solution has a distributional fixed point, while a model with no global section in its supports has no global distribution either *(granted, Active)* — through [ARG-010](../record/arguments.d/ARG-010.md)
   - [CLAIM-144](../record/claims.d/CLAIM-144.md) — Inertial observers who disagree about temporal order differ in coordinates, not in a failure to glue: only spacelike-separated events change order between frames, and frames are global charts related by a group action *(granted, Active)* — through [ARG-010](../record/arguments.d/ARG-010.md)
 

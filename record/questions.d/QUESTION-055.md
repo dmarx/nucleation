@@ -33,7 +33,7 @@ history:
     Split again under ADR-049 by the fourteenth status review (ADR-057),
     at the status review's ruling (the owner delegated these rulings).
     Whether the communicative object is a presheaf over contexts is
-    QUESTION-tmpdq47o, Answered by CLAIM-038, which went Active the same
+    QUESTION-332, Answered by CLAIM-038, which went Active the same
     day. This question is narrowed to what is left, the base category
     and the sectors, and stays Open. Version 3's title was 'If
     communicative categories form a non-Boolean lattice, what structure
@@ -52,7 +52,7 @@ summary: >-
   [CLAIM-044](../claims.d/CLAIM-044.md), [QUESTION-025](QUESTION-025.md) and [QUESTION-031](QUESTION-031.md). Given a presheaf over
   contexts, the negation is the Heyting pseudo-complement, and that part
   is [QUESTION-247](QUESTION-247.md), Answered. That the communicative object is a
-  presheaf over contexts is QUESTION-tmpdq47o, Answered by CLAIM-038. Over
+  presheaf over contexts is QUESTION-332, Answered by CLAIM-038. Over
   which base, and whether probes split it into sectors, is open. [THEORY-041](../theory.d/THEORY-041.md) and [THEORY-042](../theory.d/THEORY-042.md) bear on it; the body
   gives each one's limit.
 refined_by:
@@ -91,5 +91,5 @@ base category the communicative object has, and whether some probe family
 splits it into sectors ([THEORY-042](../theory.d/THEORY-042.md)).
 
 **Split, 2026-10-29 ([ADR-049](../decisions.d/ADR-049.md)).** Whether the communicative object is such
-a presheaf is [QUESTION-tmpdq47o](QUESTION-tmpdq47o.md), Answered by [CLAIM-038](../claims.d/CLAIM-038.md), which went Active
+a presheaf is [QUESTION-332](QUESTION-332.md), Answered by [CLAIM-038](../claims.d/CLAIM-038.md), which went Active
 at the fourteenth status review.

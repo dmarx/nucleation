@@ -25,7 +25,7 @@ history:
     defeat condition: CLAIM-219 finds no contextuality proper in the
     behavioural data read so far, which bears on whether pragmatic
     judgements are contextual (CLAIM-009), not on whether the theory must
-    presuppose that they are not. It now answers QUESTION-tmpdq47o, split
+    presuppose that they are not. It now answers QUESTION-332, split
     off QUESTION-055 under ADR-049. The first bullet of "Language data
     are not compatible families" is restated in version 2's terms; it
     read: "In Wang et al. (LIT-842) the language data are signalling, so
@@ -55,7 +55,7 @@ grounds:
 uses:
 - TERM-042
 answers:
-- QUESTION-tmpdq47o
+- QUESTION-332
 summary: >-
   A78, after the owner's U29 pointer to this record's sheaf-
   contextuality readings, which the assistant said it "couldn't reopen".

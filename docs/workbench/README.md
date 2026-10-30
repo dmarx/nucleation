@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 23:30 — The fourteenth status review: seven claims and two readings promoted, two objections written in, and QUESTION-055 split](2026-10.md#the-fourteenth-status-review-seven-claims-and-two-readings-promoted-two-objections-written-in-and-question-055-split)
 - [29 Oct 22:36 — The thirteenth status review: eleven claims and ten readings promoted, two terms adopted, CLAIM-489 rejected on its own condition](2026-10.md#the-thirteenth-status-review-eleven-claims-and-ten-readings-promoted-two-terms-adopted-claim-489-rejected-on-its-own-condition)
 - [29 Oct 10:17 — The twelfth status review: four terms adopted, three formal readings proved, two splits, and ARG-022 rejected on its own condition](2026-10.md#the-twelfth-status-review-four-terms-adopted-three-formal-readings-proved-two-splits-and-arg-022-rejected-on-its-own-condition)
 - [29 Oct 09:54 — The eleventh status review: the unwritten concessions cleared, twelve promotions, and CLAIM-154 narrowed on a computed counterexample](2026-10.md#the-eleventh-status-review-the-unwritten-concessions-cleared-twelve-promotions-and-claim-154-narrowed-on-a-computed-counterexample)
@@ -111,8 +112,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-102 entries across 1 book, newest first.
+103 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 102 | 2026-10-07 | 2026-10-29 |
+| [2026-10](2026-10.md) | 103 | 2026-10-07 | 2026-10-29 |

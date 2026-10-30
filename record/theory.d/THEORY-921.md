@@ -17,7 +17,7 @@ history:
     far fear falls during an extinction or exposure session, or across
     sessions, does not predict how much fear is expressed at follow-up, in
     animals, human laboratory samples and fearful human samples. The
-    promote_when moves unchanged to QUESTION-tmpmy9xu, as THEORY-920's did
+    promote_when moves unchanged to QUESTION-333, as THEORY-920's did
     to QUESTION-327. CLAIM-446 now cites it as corroboration, not a
     ground; its supports entry for that claim is removed.
 tags:
@@ -27,7 +27,7 @@ date: '2026-10-24'
 source:
 - LIT-1500
 bears_on:
-- QUESTION-tmpmy9xu
+- QUESTION-333
 summary: >-
   Craske et al. (2014), [LIT-1500](../literature.d/LIT-1500.md), read in full from the PMC author
   manuscript in [NOTE-1137](../notes.d/NOTE-1137.md), citing six studies. The authors read it as

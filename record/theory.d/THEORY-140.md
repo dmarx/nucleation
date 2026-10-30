@@ -21,7 +21,7 @@ history:
     3): it overstated the Board's own finding that the causes were not
     fixed. The promote_when asked for evidence beyond NASA that the pattern
     is general and causal, which the title never claimed, and moves
-    unchanged to QUESTION-tmpsuo85, as THEORY-285's did to QUESTION-303.
+    unchanged to QUESTION-334, as THEORY-285's did to QUESTION-303.
     CLAIM-422 now lists this reading under corroborated_by (ADR-058), and
     the supports edge to it is removed.
 tags:
@@ -38,13 +38,13 @@ summary: >-
   reproduced it, so "history is cause". Two cases in one agency,
   reconstructed after the fact. The title states the Board's finding;
   whether the pattern is general and causal, which is Vaughan's theory in
-  a book the record has not read, is QUESTION-tmpsuo85.
+  a book the record has not read, is QUESTION-334.
 reports:
 - CASE-138
 corroborates:
 - CLAIM-030
 bears_on:
-- QUESTION-tmpsuo85
+- QUESTION-334
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, which the chapter applies -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for comparison -->
@@ -99,7 +99,7 @@ post-Challenger reforms might have held. The Board found neither.
   ([CASE-138](../cases.d/CASE-138.md)).
 - **Not a general theory.** It is two cases in one agency; the general
   account is Vaughan's, and the record has not read it. Whether it is
-  one is [QUESTION-tmpsuo85](../questions.d/QUESTION-tmpsuo85.md).
+  one is [QUESTION-334](../questions.d/QUESTION-334.md).
 
 ## Connections
 
