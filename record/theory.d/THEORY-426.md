@@ -1,21 +1,35 @@
 ---
 number: 426
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp38ky3
-promote_when: >-
-  A comparison on shared tasks larger than toy mazes, with variance over
-  runs, between sophisticated active inference and a Bayes-adaptive
-  planner (for example Monte Carlo tree search over belief states), that
-  reports both what each solves and the number of belief states each
-  evaluates as the horizon and the number of plausible outcomes grow.
-  Promote if the pruned recursion solves problems one-step expected free
-  energy cannot, at a cost that stays far below the full tree where many
-  outcomes remain plausible. More single deterministic runs on toy
-  problems cannot settle it, and neither can a further derivation of
-  which objectives are special cases.
-title: "Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion, which lets the agent plan through short-term costs that one-step agents cannot; that the pruning keeps deep search tractable beyond toy problems is argued, not shown"
-version: 1
+title: "Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion; in single deterministic runs on a T-maze and an 8 × 8 maze it planned through short-term costs that agents with a shorter horizon did not; that the pruning keeps deep search tractable beyond toy problems is argued, not shown"
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the status
+    review's ruling (the owner delegated these rulings); ADR-065, ADR-057.
+    NOTE-454 read the paper in full, as prose, and nothing in the record
+    contradicts it. The equations were not recoverable, so the
+    construction is reported from the prose of Eq. 1.11. The planning
+    result now keeps the paper's own scope: single deterministic runs on a
+    T-maze and an 8 × 8 maze (NOTE-454, C2). The old title stated that
+    result generally. The old title: Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion, which lets the agent plan through short-term costs that one-step agents cannot; that the pruning keeps deep search tractable beyond toy problems is argued, not shown. The old promote_when asked for
+    more than the narrowed title claims: "A comparison on shared tasks
+    larger than toy mazes, with variance over runs, between sophisticated
+    active inference and a Bayes-adaptive planner (for example Monte Carlo
+    tree search over belief states), that reports both what each solves
+    and the number of belief states each evaluates as the horizon and the
+    number of plausible outcomes grow. Promote if the pruned recursion
+    solves problems one-step expected free energy cannot, at a cost that
+    stays far below the full tree where many outcomes remain plausible.
+    More single deterministic runs on toy problems cannot settle it, and
+    neither can a further derivation of which objectives are special
+    cases." The old title, as the wide form the paper asserts, moves with
+    that condition, both word for word, to THEORY-tmpvevpl, Proposed, which extends
+    this entry (ADR-065 §3; ADR-047, kind 1).
 tags:
 - probabilistic-modeling
 - information-theory
@@ -27,14 +41,13 @@ summary: >-
   [NOTE-454](../notes.d/NOTE-454.md) as prose: the equations were not recoverable from the text
   layer. The recursion is a construction (strong). That it plans through
   costs rests on single deterministic runs of a T-maze and an 8 × 8 maze.
-  [NOTE-454](../notes.d/NOTE-454.md) declined a THEORY because the results are a construction plus
-  illustrations; this one is filed Proposed under the owner's ruling,
-  stating only the claim the reading supports.
+  The title keeps that scope. Active as a report of the construction and
+  of those runs; the general form is THEORY-tmpvevpl, Proposed.
 ---
 
 <!-- inactive-ok-file: THEORY-045 THEORY-285 — Proposed; named as the record's other active-inference accounts, nothing here rests on them -->
 
-# THEORY-426: Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion, which lets the agent plan through short-term costs that one-step agents cannot; that the pruning keeps deep search tractable beyond toy problems is argued, not shown
+# THEORY-426: Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion; in single deterministic runs on a T-maze and an 8 × 8 maze it planned through short-term costs that agents with a shorter horizon did not; that the pruning keeps deep search tractable beyond toy problems is argued, not shown
 
 ## Source
 
@@ -89,6 +102,8 @@ agent too. Neither happened, in single deterministic runs.
 - **That the agent perceives or acts in any rich sense.** The rat is
   given A, B, C and D, its location is observed, and moves are primitive,
   which is Raja et al.'s point ([LIT-598](../literature.d/LIT-598.md)).
+- **That it plans through costs in general.** That, with tractability, is
+  THEORY-tmpvevpl, Proposed.
 
 ## Connections
 

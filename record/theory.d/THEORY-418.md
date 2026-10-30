@@ -15,7 +15,18 @@ promote_when: >-
   promised model of community reliability, or further definitions and
   illustrations, cannot settle it.
 title: "A collective becomes a new level of individuality, on this sketch, only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it and some core interactions have become generatively entrenched so that it has organizational closure; such a community can then be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings);
+    ADR-065 §3, ADR-057. The twenty-fourth status review split what
+    Griesemer and Shavit propose off as THEORY-tmpwf9vz, Active, a report of the
+    sketch, which NOTE-173 read in full. This entry now extends it. "On
+    this sketch" in the title asserts the account, so this entry keeps the
+    question whether the account holds, and keeps its promote_when. The
+    title and the condition are unchanged.
 tags:
 - philosophy-of-biology
 - individuation
@@ -23,6 +34,8 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-188
+extends:
+- THEORY-tmpwf9vz
 summary: >-
   Griesemer & Shavit (2023), [LIT-188](../literature.d/LIT-188.md), read in [NOTE-173](../notes.d/NOTE-173.md). A conceptual
   sketch, so called by its authors, with no model, data or operational
@@ -140,3 +153,21 @@ why the account is Proposed.
   levels of selection ([LIT-160](../literature.d/LIT-160.md)) are the broader map. O'Malley and Parke
   ([LIT-210](../literature.d/LIT-210.md), [NOTE-159](../notes.d/NOTE-159.md)) report that eukaryogenesis may not have been a
   transition in individuality at all.
+
+## Note of 2026-10-30: the proposal split off
+
+What Griesemer and Shavit propose, as distinct from whether it is right, is
+now THEORY-tmpwf9vz, Active, and this entry extends it (ADR-065 §3). The phrase "on
+this sketch" in this title asserts the account, as "as X proposes" would.
+So this entry keeps the question whether the account holds, and its
+promote_when. The entries that test it (CASE-171, QUESTION-277) cite this
+one.
+
+## Note of 2026-10-30: what holds it back
+
+The record has no operational criteria that sort real groups into
+collection, conexus and community. Nor does it have a worked case showing
+the new level of individuality at the conexus–community step, with benefit
+that cannot be booked per member and a knockout effect. NOTE-173 found none
+in the paper: "No data were reported". CASE-171 and QUESTION-277 name the
+mealybug patchwork as a place to test it, and its reports are unread.

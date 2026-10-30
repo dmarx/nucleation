@@ -124,3 +124,13 @@ than 55 percent more time".
   term; Kirsh supplies neither its arithmetic nor a test.
 - [CLAIM-296](../claims.d/CLAIM-296.md) and [CASE-085](../cases.d/CASE-085.md): "If I can't find the garlic, I am not likely to think
   of rubbing it on the salad bowl—I miss some available actions."
+
+## Note of 2026-10-30: what holds it back
+
+Kept Proposed by the twenty-fourth status review. The title is not a report
+of Kirsh. It asserts, in the record's voice, that agents arrange their
+surroundings this way and that set-up is recovered over the choice points
+an arrangement serves. Only the size of the savings is hedged. Neither
+paper measures a saving or tests the scope rule (NOTE-871, NOTE-872). The
+condition asks for that measured study, which is what the title asserts, so
+it stays (ADR-065 §6).
