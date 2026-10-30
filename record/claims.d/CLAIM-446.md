@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8z857
 title: 'Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-25'
@@ -48,6 +48,19 @@ history:
     THEORY-901, not THEORY-900 or THEORY-920, whose citations there are
     removed. THEORY-914 is now cited where the test names the
     inhibitory-learning rival. The claim is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    THEORY-921 moved from grounds to corroborated_by by the fourteenth
+    status review, at the status review's ruling (the owner delegated
+    these rulings; ADR-057, ADR-058). Version 5 removed its only body
+    citation, which was for a sentence it does not carry. What it does
+    carry, that fear falling during exposure does not predict fear at
+    follow-up, is an instance of the dissociation between anxious affect
+    and what is learned, and the argument does not rest on it. A sentence
+    citing it for that is added under "Five quantities, not one".
+    THEORY-921's supports entry for this claim is removed. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,7 +94,6 @@ complements:
 - CLAIM-277
 grounds:
 - THEORY-285
-- THEORY-921
 - THEORY-901
 - THEORY-920
 - THEORY-903
@@ -101,6 +113,7 @@ corroborated_by:
 - THEORY-907
 - THEORY-910
 - THEORY-912
+- THEORY-921
 summary: >-
   The owner's, 2026-10-23, quoting "A governance prior can become
   self-protecting by reducing the access of the processes most likely to
@@ -136,8 +149,10 @@ corrective actions remain accessible."
 urgently the defensive process claims precedence), defensive authority g
 (how much influence it is granted), epistemic access, and anxious affect.
 They dissociate: low belief with strong alarm; strong alarm with a valued
-action carried through; little felt anxiety with automatic avoidance. This
-continues [CLAIM-283](CLAIM-283.md) (claimed precedence against granted authority) and
+action carried through; little felt anxiety with automatic avoidance. A
+related dissociation is reported for exposure: how far fear falls during
+a session does not predict fear at follow-up (Craske et al., [THEORY-921](../theory.d/THEORY-921.md)).
+This continues [CLAIM-283](CLAIM-283.md) (claimed precedence against granted authority) and
 [CLAIM-349](CLAIM-349.md) (access, authority, action).
 
 **Avoidance destroys identifiability.** Let H_D be "dangerous if
@@ -353,3 +368,11 @@ account of [THEORY-914](../theory.d/THEORY-914.md) are not excluded, and nothing
 its defeated_if. The readings promoted on 2026-10-29 hold its laboratory
 steps in healthy people ([THEORY-901](../theory.d/THEORY-901.md), [THEORY-920](../theory.d/THEORY-920.md)) and the causal work of
 safety behaviour ([THEORY-903](../theory.d/THEORY-903.md)); none measures authority.
+
+## Note of 2026-10-29: [CLAIM-443](CLAIM-443.md) promoted
+
+The fourteenth status review promoted [CLAIM-443](CLAIM-443.md), so the premise the note
+above names as Proposed is now Active. The claim stays held by the rest
+of that note: no result measures defensive authority apart from threat
+belief, the uncertainty estimate and the belief about one's own future
+control, so the rivals it names are not excluded.

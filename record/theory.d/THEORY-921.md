@@ -1,24 +1,33 @@
 ---
 number: 921
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxdq9s
-promote_when: >-
-  A reading of the studies the paper cites (Baker et al. 2010; Culver et
-  al. 2012; Kircanski et al. 2012; Prenoveau et al. 2013; Plendl &
-  Wolfgang 2010; Rescorla 2006), or of a later meta-analysis, finding
-  that within- and between-session fear reduction during exposure or
-  extinction does not predict fear at follow-up. It is refuted by a
-  well-powered clinical sample in which fear reduction during exposure
-  reliably predicts follow-up outcome after initial fear is controlled.
-title: 'How far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful human samples'
-version: 1
+title: 'As Craske et al.''s 2014 review reports it, citing six studies and reporting no data of its own, how far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful, mostly analog, human samples'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fourteenth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-057; ADR-047's evidence
+    ruling, read in full in NOTE-1137). Narrowed: attributed to the
+    review, which reports no data, and its human samples marked mostly
+    analog, as "What this does not say" already said. The old title: How
+    far fear falls during an extinction or exposure session, or across
+    sessions, does not predict how much fear is expressed at follow-up, in
+    animals, human laboratory samples and fearful human samples. The
+    promote_when moves unchanged to QUESTION-tmpmy9xu, as THEORY-920's did
+    to QUESTION-327. CLAIM-446 now cites it as corroboration, not a
+    ground; its supports entry for that claim is removed.
 tags:
 - psychopathology-and-treatment
 - learning-and-conditioning
 date: '2026-10-24'
 source:
 - LIT-1500
+bears_on:
+- QUESTION-tmpmy9xu
 summary: >-
   Craske et al. (2014), [LIT-1500](../literature.d/LIT-1500.md), read in full from the PMC author
   manuscript in [NOTE-1137](../notes.d/NOTE-1137.md), citing six studies. The authors read it as
@@ -26,12 +35,10 @@ summary: >-
   learning that exposure produces need not change together. That is the
   basis of their case against habituation-based exposure. The paper
   reports no data, and the cited studies are mostly analog samples.
-supports:
-- CLAIM-446
 ---
-<!-- inactive-ok-file: CLAIM-446 CLAIM-349 — Proposed; the claims this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; the claim this corroborates, named, nothing here rests on it -->
 
-# THEORY-921: How far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful human samples
+# THEORY-921: As Craske et al.'s 2014 review reports it, citing six studies and reporting no data of its own, how far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful, mostly analog, human samples
 
 ## Source
 

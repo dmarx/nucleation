@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmr1t8
 title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -15,6 +15,14 @@ history:
     antecedent and the body cites them as the routes it may take;
     CASE-109, a stipulated case, moved to illustrated_by. THEORY-070
     stays a ground. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Blocker note of 2026-10-29 added at the fourteenth status review
+    (ADR-057): CLAIM-261, named as Proposed in the note of 2026-10-28,
+    is Active since the ninth review, so the claim is held by THEORY-070
+    alone. CLAIM-443 leaves supports, since it no longer rests on this
+    claim. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -68,8 +76,6 @@ summary: >-
   negotiation, and keeping up the relations among specialists it needs,
   have costs of their own. The sharp edge: it does not say local settlement is always cheaper, that
   an integrated agent works less hard, or anything about authenticity.
-supports:
-- CLAIM-443
 bears_on:
 - QUESTION-054
 ---
@@ -219,3 +225,14 @@ cost over recurring conflicts, escalating against accommodating, is in the
 record. A45's cost terms "would need operational definitions". The
 objection once filed as [CLAIM-163](CLAIM-163.md) is now [ARG-016](../arguments.d/ARG-016.md), which holds that
 "synchronization" names no mechanism.
+
+## Note of 2026-10-29: what holds it back
+
+The note of 2026-10-28 is out of date in one respect: [CLAIM-261](CLAIM-261.md) is
+Active. The claim is held by its ground [THEORY-070](../theory.d/THEORY-070.md), kept Proposed
+because no fit in the record shows control intensity falling with its
+cost ([THEORY-070](../theory.d/THEORY-070.md)'s promote_when (1)); that intrinsic cost is what gives
+escalation the price this claim says a learned accommodation saves. The
+reuse inequality of the note of 2026-10-23 is accounting, exact when
+C_maintenance and C_error are totals over the N encounters (checked at
+the fourteenth review); whether it is ever met turns on that cost.

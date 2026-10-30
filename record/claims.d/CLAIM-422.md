@@ -1,10 +1,10 @@
 ---
 number: 422
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmplrpat
 title: 'A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -12,14 +12,35 @@ history:
     Note of 2026-10-22 added after the safety reports were read: four
     sources bear the claim out, and its attribution to GAO is narrowed.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fourteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premise
+    CLAIM-025 and its grounds CASE-135 and CASE-138 are Active, it has no
+    objection, and nothing in the record meets its defeat condition.
+    THEORY-140 moves from grounds to corroborated_by (ADR-058): the claim's
+    own directive said nothing here rests on it, and CASE-138 holds the
+    decay it cites. The defeat condition's first clause, which a single
+    case of procedure and capacity coinciding would have met, was: A case
+    in which an organization's adopted procedure reliably predicts its
+    later performance under the conditions the procedure was written for,
+    with no separate fact about maintained capacity needed to explain a
+    failure. It now asks for a showing that capacity is fixed by
+    procedure. The body's attribution to GAO is corrected as its note of
+    2026-10-22 said, and "What it does not say" no longer calls THEORY-140
+    Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A case in which an organization's adopted procedure reliably predicts
-  its later performance under the conditions the procedure was written
-  for, with no separate fact about maintained capacity needed to explain
-  a failure; or a showing that the three cannot be measured apart in any
-  organization, so that the distinction is idle.
+  A showing that an organization's maintained capacity is fixed by its
+  adopted procedures, so that wherever a procedure is in force the
+  capacity it is for is present, with each case the claim cites
+  (CASE-135, CASE-138, and the CRM and United 173 sources) better
+  explained as a procedure not in force than as a capacity not
+  maintained; or a showing that the three cannot be measured apart in
+  any organization, so that the distinction is idle. A case in which
+  procedure and capacity coincide does not defeat it.
 tags:
 - agency
 - operations-research
@@ -30,9 +51,10 @@ line:
 rests_on:
 - CLAIM-025
 grounds:
-- THEORY-140
 - CASE-138
 - CASE-135
+corroborated_by:
+- THEORY-140
 works:
 - organization-of-perspective
 - who-gets-to-say-stop
@@ -44,15 +66,15 @@ summary: >-
   different things." A25: "Institutional learning is not complete when an
   organization changes its rules." It rests on [CLAIM-025](CLAIM-025.md), which separates
   the operative regime, the governing organization and the capacity to
-  transform it, and grounds in the record's reading of the Columbia board
-  ([THEORY-140](../theory.d/THEORY-140.md)). The edge: a recorded correction is evidence of a
+  transform it, with the record's reading of the Columbia board
+  ([THEORY-140](../theory.d/THEORY-140.md)) as corroboration. The edge: a recorded correction is evidence of a
   correction, not of its maintenance.
 complements:
 - CLAIM-464
 supports:
 - CLAIM-462
 ---
-<!-- inactive-ok-file: THEORY-140 THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-422: A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained
 
@@ -72,9 +94,11 @@ capacity are three different things." It added: "A change in the archive
 of rules is not automatically a change in the collective dispositions that
 those rules are meant to maintain." From Challenger and Columbia
 ([CASE-138](../cases.d/CASE-138.md)), A25: "Institutional learning is not complete when an
-organization changes its rules." And from NASA's own lessons-learned
-system, as GAO found it ([LIT-1378](../literature.d/LIT-1378.md)): "A correction is recorded ⇏ The
-corrected capacity is maintained." It sorted the outcomes into no
+organization changes its rules." And from NASA's lessons-learned
+system: "A correction is recorded ⇏ The corrected capacity is
+maintained." GAO's finding is narrower than A25 put it: NASA counted how
+often lessons were accessed, not how often they were applied ([LIT-1378](../literature.d/LIT-1378.md),
+p. 21), so a recorded lesson is not shown to be an applied one. It sorted the outcomes into no
 correction, ephemeral correction and maintained correction.
 
 So the claim has three objects:
@@ -113,7 +137,7 @@ capacity is for.
   U23 was weakened accordingly. Whether a culture changed is a further
   question the claim does not answer for any case.
 - **Not that NASA failed to learn.** It learned and then lost part of what
-  it learned. The Columbia board's reading is [THEORY-140](../theory.d/THEORY-140.md), Proposed.
+  it learned. The Columbia board's finding is [THEORY-140](../theory.d/THEORY-140.md).
 
 ## Note of 2026-10-22: the case sources, read
 

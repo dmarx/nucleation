@@ -1,10 +1,10 @@
 ---
 number: 410
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpyxupb
 title: 'Removing a constraint on an organization''s members does not move it along one scale of more or less governance: it changes a profile of who holds rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members'' first-order options and their share in revising the conditions of their action can move in opposite directions'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -20,6 +20,17 @@ history:
     the USIP takeover laid out as a profile, with interpretation and
     organizational control as further positions, and the gap between a
     procedure for appeal and a path to remedy. The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fourteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises
+    CLAIM-086, CLAIM-057 and CLAIM-282 and its ground THEORY-149 are
+    Active, it has no objection, and nothing in the record meets its
+    defeat condition. THEORY-470 moves from grounds to corroborated_by
+    (ADR-058): the claim cites Doctorow's reading as one instance of
+    transfer, and its own directive said nothing here rests on it. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +55,7 @@ rests_on:
 - CLAIM-282
 grounds:
 - THEORY-149
+corroborated_by:
 - THEORY-470
 complements:
 - CLAIM-352

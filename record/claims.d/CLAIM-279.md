@@ -1,10 +1,10 @@
 ---
 number: 279
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpgfyls
 title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-25'
@@ -24,6 +24,16 @@ history:
     Note of 2026-10-29 added, from the readings of Cooper and West
     (NOTE-1369), whose paper does not contain the sentence
     attributed to it, and Letten et al. (NOTE-1377). The claim
+    is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fourteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its one ground,
+    CASE-079, is Active; no objection is filed against it; nothing in
+    the record meets its defeated_if. THEORY-214 is added to
+    corroborated_by (ADR-058): the attack-or-innovation ambiguity it
+    reports on r/place is this claim's relativity, observed. The claim
     is unchanged.
 role: thesis
 warrant: interpretive
@@ -46,6 +56,7 @@ grounds:
 - CASE-079
 corroborated_by:
 - THEORY-218
+- THEORY-214
 complements:
 - CLAIM-152
 - CLAIM-369
@@ -193,3 +204,13 @@ they need. The translation is for two species and two resources at a
 stable equilibrium.
 
 The claim is unchanged and stays Proposed.
+
+## Note of 2026-10-29: promoted
+
+The fourteenth status review promoted the claim, at the status review's
+ruling (the owner delegated these rulings). Its ground [CASE-079](../cases.d/CASE-079.md) is
+Active, no objection is filed, and nothing meets its defeated_if.
+[THEORY-214](../theory.d/THEORY-214.md)'s attack-or-innovation ambiguity on r/place is this claim's
+relativity, observed, and now corroborates it. The niche-emergence test
+it disclaims ([QUESTION-083](../questions.d/QUESTION-083.md)) is still unrun; the claim does not depend on
+it.

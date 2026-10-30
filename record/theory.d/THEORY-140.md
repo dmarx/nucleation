@@ -1,19 +1,29 @@
 ---
 number: 140
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpe60l0
-promote_when: >-
-  Evidence beyond the two Shuttle accidents that the pattern is general
-  and causal: organizations in which accepted anomalies can be traced
-  prospectively, showing that the first acceptance of a deviation predicts
-  widening acceptance and later failure more often than in comparable
-  organizations that eliminate deviations. It would also need evidence that
-  an independent safety function, as the Board recommends, interrupts the
-  pattern. More retrospective accident reconstructions cannot settle it,
-  since they select the cases that ended badly.
-title: 'At NASA, as the Columbia Accident Investigation Board found, the Challenger and Columbia accidents had the same organizational cause: evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms'
-version: 1
+title: 'The Columbia Accident Investigation Board found that the institutional causes of the Challenger accident had not been fixed and recurred in Columbia''s: in both, evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms'
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Narrowed and promoted by the fourteenth status review (ADR-057;
+    ADR-047's evidence ruling: the Board's chapter, LIT-734, read in full
+    in NOTE-578, for a title that claims no more than the Board found), at
+    the status review's ruling (the owner delegated these rulings). The
+    title now attributes the finding to the Board, whose evidence lies in
+    parts of the report the record has not read, and says the institutional
+    causes recurred rather than that one cause was shared, as CASE-138 was
+    narrowed on 2026-10-22. The old title: At NASA, as the Columbia Accident Investigation Board found, the Challenger and Columbia accidents had the same organizational cause: evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms. "The same
+    organizational cause" is not kept as a Proposed entry (ADR-047, kind
+    3): it overstated the Board's own finding that the causes were not
+    fixed. The promote_when asked for evidence beyond NASA that the pattern
+    is general and causal, which the title never claimed, and moves
+    unchanged to QUESTION-tmpsuo85, as THEORY-285's did to QUESTION-303.
+    CLAIM-422 now lists this reading under corroborated_by (ADR-058), and
+    the supports edge to it is removed.
 tags:
 - social-science
 - society-and-governance
@@ -25,22 +35,23 @@ summary: >-
   Vaughan's normalization of deviance ([LIT-715](../literature.d/LIT-715.md), unread). Foam strikes
   and O-ring erosion followed the same trajectory of incremental
   acceptance. Organizational culture, structure and political constraint
-  reproduced it, so "history is cause". Proposed: two cases in one agency,
-  reconstructed after the fact, and the general theory is in a book the
-  record has not read.
-supports:
-- CLAIM-422
+  reproduced it, so "history is cause". Two cases in one agency,
+  reconstructed after the fact. The title states the Board's finding;
+  whether the pattern is general and causal, which is Vaughan's theory in
+  a book the record has not read, is QUESTION-tmpsuo85.
 reports:
 - CASE-138
 corroborates:
 - CLAIM-030
+bears_on:
+- QUESTION-tmpsuo85
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, which the chapter applies -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for comparison -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; Argyris, named for comparison -->
 <!-- inactive-ok-file: THEORY-142 — Proposed; March, named for comparison -->
 
-# THEORY-140: At NASA, as the Columbia Accident Investigation Board found, the Challenger and Columbia accidents had the same organizational cause: evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms
+# THEORY-140: The Columbia Accident Investigation Board found that the institutional causes of the Challenger accident had not been fixed and recurred in Columbia's: in both, evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms
 
 ## Source
 
@@ -82,8 +93,13 @@ post-Challenger reforms might have held. The Board found neither.
 - **Not that NASA chose to gamble.** The deviation was normal from inside.
 - **Not that all constraints were NASA's own.** They "were not entirely of
   NASA's own making".
+- **Not one unchanged mechanism.** The Board finds that Challenger's
+  institutional causes were not fixed and that related failure mechanisms
+  recurred, not that one cause sat unaltered between the accidents
+  ([CASE-138](../cases.d/CASE-138.md)).
 - **Not a general theory.** It is two cases in one agency; the general
-  account is Vaughan's, and the record has not read it.
+  account is Vaughan's, and the record has not read it. Whether it is
+  one is [QUESTION-tmpsuo85](../questions.d/QUESTION-tmpsuo85.md).
 
 ## Connections
 

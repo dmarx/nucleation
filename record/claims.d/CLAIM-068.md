@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj8d91
 title: 'Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -14,6 +14,17 @@ history:
     as a typed edge for a prose citation of 'weak support', a
     mechanism stated and not tested. THEORY-173's supports entry for
     this claim is removed. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    At the fourteenth status review, at the status review's ruling (the
+    owner delegated these rulings; ADR-057, ADR-058), THEORY-164 moved
+    from grounds to corroborated_by. The body cites it among three
+    readings, beside LIT-820 and THEORY-167, which take no edge, and says
+    it is horizontal interaction, not a chain; the claim does not rest on
+    it. CLAIM-056 is dropped from rests_on because the body never uses
+    it. The supports entries for this claim on THEORY-164 and CLAIM-056
+    are removed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,13 +39,11 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-090
-- CLAIM-056
 uses:
 - TERM-027
-grounds:
-- THEORY-164
 corroborated_by:
 - THEORY-173
+- THEORY-164
 summary: >-
   A50 §3 and §6, A52 §5.5 and §7.4–7.5, recovered. The manuscript keeps
   the stable conventional endpoint and one stance-drift example, but not
@@ -45,7 +54,8 @@ illustrated_by:
 ---
 <!-- inactive-ok-file: THEORY-164 THEORY-167 — Proposed; cited as bearing on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-081 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-056 CLAIM-090 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-090 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-234 — Superseded by ARG-027; the objection as conceded on 2026-10-10, cited as history -->
 <!-- inactive-ok-file: THEORY-173 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-068: Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission
@@ -140,3 +150,13 @@ it gives is contraction: homogenization when a large model takes part in
 transmission. It bears on this claim's attraction toward conventional
 regions, not on the extension to footing, which [CLAIM-234](CLAIM-234.md) says "has
 no study under it".
+
+## Note of 2026-10-29: what holds it back
+
+Its premise [CLAIM-090](CLAIM-090.md) is Proposed: no chain in the record ends on a prior
+measured on its own transmitters before transmission ([QUESTION-137](../questions.d/QUESTION-137.md)). Its
+defeat condition asks for chains started from different stances, and no
+such study is held. [ARG-027](../arguments.d/ARG-027.md), which argued that the iterated-learning
+readings show stance stabilization, is Rejected. [CASE-068](../cases.d/CASE-068.md)'s diffusion
+chains show an evaluative signal kept and amplified, not chains from
+different stances converging.

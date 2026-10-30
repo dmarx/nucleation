@@ -1,10 +1,25 @@
 ---
 number: 195
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmptfikp
 title: 'For an argument, the constraint set that persistence is relative to is fixed by an amendable decision, not discovered: the record stipulates what counts as the same claim persisting, which makes the choice explicit without making it non-arbitrary'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Fourteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings). Status Proposed to Active.
+    CLAIM-185 moves from rests_on to complements: this claim applies its
+    point to CLAIM-185's persistence but does not stand on CLAIM-185's
+    thesis, that persistence is the nucleation threshold, and would hold
+    if that thesis failed. Its premise CLAIM-079 and grounds THEORY-134
+    and THEORY-132 are Active, no objection is filed against it, and
+    nothing in the record meets its defeated_if; the alternatives the
+    record's decisions weighed show the identity criteria were chosen,
+    not forced. CLAIM-185's supports entry for this claim is removed.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,8 +37,9 @@ line: nucleating-argument
 works:
 - luria-nucleating-an-argument
 rests_on:
-- CLAIM-185
 - CLAIM-079
+complements:
+- CLAIM-185
 grounds:
 - THEORY-134
 - THEORY-132

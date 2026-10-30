@@ -4,7 +4,19 @@ status: Proposed
 formerly:
 - CLAIM-tmpzi3da
 title: 'Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another''s influence, with trust, specialization and higher-level agency arising from its history and not imposed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Two body sentences corrected by the fourteenth status review
+    (ADR-057, ADR-060), at the status review's ruling (the owner
+    delegated these rulings). "It answers QUESTION-088, whose test is
+    the same as this claim's defeater." now reads "It bears on": the
+    field is bears_on, and the title, "can be modelled as", does not
+    settle the question. "It is under CLAIM-278's objection, which A7
+    granted." now names ARG-036, to which the Superseded CLAIM-278
+    moved. A blocker note is added. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,7 +82,7 @@ The record already reads several of these this way: procrastination
 reversal ([CLAIM-198](CLAIM-198.md)). What this claim adds is that one set of variables
 should cover them all. A5 §8 gave them: persistence of the influence
 topology, responsiveness to feedback, diversity of influential processes,
-concentration of authority and cross-regional transport. It answers
+concentration of authority and cross-regional transport. It bears on
 [QUESTION-088](../questions.d/QUESTION-088.md), whose test is the same as this claim's defeater.
 
 ## What it does not say
@@ -81,4 +93,15 @@ concentration of authority and cross-regional transport. It answers
 - It does not say the mappings are established. A7 §14: "Computational
   similarity to a phenomenon is insufficient evidence that the same
   mechanism explains the human case."
-- It is under [CLAIM-278](CLAIM-278.md)'s objection, which A7 granted.
+- It is under A7 §14's objection, which A7 granted, filed as [CLAIM-278](CLAIM-278.md)
+  and now [ARG-036](../arguments.d/ARG-036.md), which finds the lab's evidence does not yet support it.
+
+## Note of 2026-10-29: what holds it back
+
+No prediction in the record follows from the shared organizational
+variables and not from phenomenon-specific or central-executive models
+with flexibility penalized, which is this claim's defeated_if and
+[QUESTION-088](../questions.d/QUESTION-088.md)'s test. The one argument concluding it, [ARG-036](../arguments.d/ARG-036.md), fails its
+own critical question (the lab's matched comparators find the
+organizational vocabulary adds no constraint), and [CLAIM-467](CLAIM-467.md) undercuts
+it.

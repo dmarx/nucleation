@@ -258,3 +258,13 @@ feature selector. Neither version derives a joint prediction of the
 pragmatic-transport and will-organization lines, which is what the
 claim's defeater asks of the mapping. The claim stays untested and is
 unchanged.
+
+## Note of 2026-10-29: what holds it back
+
+Its premise [CLAIM-286](CLAIM-286.md) is Proposed, held because no prediction follows
+from the shared variables that phenomenon-specific models lack
+([ARG-036](../arguments.d/ARG-036.md)). The second half of its own defeated_if is unanswered: no
+joint prediction of the pragmatic-transport and will-organization lines
+has been derived through the mapping ([QUESTION-088](../questions.d/QUESTION-088.md)'s test of
+compression), and the lab's v2.9, its one version with frames, operators
+and a governor, predicts exactly as a one-feature selector.

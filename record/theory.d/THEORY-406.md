@@ -99,3 +99,14 @@ language by setting.
   the reading those claims ground in.
 - Goffman's dramaturgy (1959) is the frame boyd names as "at the core" of
   her account of identity (p. 125). It is not held.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the fourteenth status review. boyd is read only in part
+([NOTE-710](../notes.d/NOTE-710.md), Skimmed), so the reading cannot be promoted on one source read
+in full. Its promote_when, a study comparing conflict between differing
+presentations when the audiences are kept apart and when a channel brings
+them together, is unmet: the record holds no such study, and the
+Carmichael case reaches it only through Meyrowitz, unread. It is not split
+into what boyd proposes, since [CLAIM-317](../claims.d/CLAIM-317.md), the claim that grounds in it,
+needs the dynamic to hold.

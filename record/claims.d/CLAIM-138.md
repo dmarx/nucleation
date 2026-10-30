@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpayhau
 title: 'The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
@@ -12,6 +12,14 @@ history:
     Note of 2026-10-25 added, from the reading of Isaac (LIT-1361) in
     NOTE-1163: a further instance of the remedy, in phenomenal
     structure. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    At the fourteenth status review (ADR-057, ADR-058), at the status
+    review's ruling (the owner delegated these rulings), CASE-069 moves
+    from grounds to illustrated_by: the note of 2026-10-10 calls it a
+    documented instance of the claim's point, and the argument does not
+    use it. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -25,7 +33,6 @@ rests_on:
 - CLAIM-011
 grounds:
 - LIT-045
-- CASE-069
 summary: >-
   The exchange drew the parallel itself, four times (A187 §6, A191 §10,
   A203 §19, A218 Ch2.10). What it did not draw is the cost. The standard
@@ -167,3 +174,14 @@ remedy adds, so this claim's cost carries over: the general frame does not
 escape Newman by being about constraints, it pays as the communicative
 case pays, with a "partly". The observation is the filer's; the exchange
 did not draw it.
+
+## Note of 2026-10-29: what holds it back
+
+Whether the remedy concedes anything turns on whether independently
+specified relations that are concrete, determinate or modal count as
+non-structural input. Esfeld and Lam ([NOTE-695](../notes.d/NOTE-695.md)) accept the remedy and deny
+the cost, and the ontic reading in [NOTE-038](../notes.d/NOTE-038.md)'s C4 escapes Newman by refusing
+extensional relations; this claim records that dispute and does not answer
+it. Promoting it would also require writing the concession into [CLAIM-136](CLAIM-136.md),
+whose revision waits on the owner's choice between its strict and weak
+versions.

@@ -16,7 +16,7 @@ promote_when: >-
   changes the course. Cases of platforms that decayed after a constraint
   weakened cannot settle it; the account was told from them.
 title: "Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -25,6 +25,14 @@ history:
     description, agency and legibility: A19's "release of existing
     asymmetry" and A20's first configuration are this reading's mechanism,
     stated generally and uncited. The reading is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The fourteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings), moved this reading from CLAIM-410's
+    grounds to its corroborated_by (ADR-058), so the supports edge to
+    CLAIM-410 is removed. Kept Proposed, with a dated note saying what
+    holds it back. The reading is unchanged.
 tags:
 - society-and-governance
 date: '2026-10-16'
@@ -40,8 +48,6 @@ summary: >-
   with no counterfactual; most figures are unsourced, and the text
   misstates the court in United States v. Google and the legal form of the
   EU Digital Markets Act.
-supports:
-- CLAIM-410
 ---
 
 # THEORY-470: Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored
@@ -124,3 +130,13 @@ power asymmetries"), are this reading's mechanism, stated generally.
 Neither reply cited it. [CLAIM-408](../claims.d/CLAIM-408.md)'s table of A19's four mechanisms
 names this reading for the third and demonstrates only the first. The
 reading is Proposed and rests on a talk.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the fourteenth status review. Read in full ([NOTE-041](../notes.d/NOTE-041.md)),
+but the title states Doctorow's causal thesis, which the talk argues from
+examples chosen after the fact. Its promote_when, a comparison across
+platforms or periods that differ in the four constraints, is unmet in the
+record. Not split into what Doctorow argues, since [CLAIM-410](../claims.d/CLAIM-410.md), the one
+claim that cited it, uses it as an instance and now lists it as
+corroboration.

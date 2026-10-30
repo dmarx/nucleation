@@ -140,3 +140,15 @@ from which [THEORY-725](../theory.d/THEORY-725.md) was split, keeps the general 
 rational. The source cites that result without proof, and this argument
 does not use it. The note of 2026-10-18 above records that A21 cited
 [THEORY-127](../theory.d/THEORY-127.md), and that record is left as it stands.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the fourteenth status review. Step 3 uses French's and
+Pettit's thesis that a collective can hold reasons of its own, made by its
+procedure, and both readings, [THEORY-131](../theory.d/THEORY-131.md) and [THEORY-139](../theory.d/THEORY-139.md), are Proposed. The
+record holds no case of a corporation acting on a policy-made or avowed
+judgment that departs from its members' aggregated views, and Velasquez's
+objection that a corporation is not an agent ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md)) is
+unread. Steps 1 and 2, [CLAIM-030](CLAIM-030.md) and [THEORY-725](../theory.d/THEORY-725.md), carry only the comparison
+of members' conclusions with members' reasons aggregated premise by
+premise.

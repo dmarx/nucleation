@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmplwgbk
 title: 'Cross-modal chains expose reconstruction because media differ in expressive affordances, and each interpreter, such as a captioner, may add motives and relations that were not present'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    CLAIM-257 no longer rests on this claim, at the fourteenth status
+    review's ruling (ADR-057; the owner delegated these rulings): its
+    body never cites it, and the restated measure is a definition. The
+    `supports: CLAIM-257` converse is removed, and CLAIM-257 now lists
+    this claim under complements. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,8 +31,6 @@ summary: >-
   A110 §21, recovered. The manuscript's Case III keeps the protocol and
   drops the reason for it; C7 Appendix D keeps a related control
   (captioners blind to the source).
-supports:
-- CLAIM-257
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -48,3 +55,10 @@ C7 Appendix D: "For cross-modal chains, do not let captioners see the source tex
 or the intended communicative condition unless testing a specified
 side-information intervention." That is the control the affordance argument
 implies, kept without its argument. The improving direction is [CLAIM-087](CLAIM-087.md).
+
+## Note of 2026-10-29: what holds it back
+
+No cross-modal chain has been run against a text-only chain of the same
+length ([CASE-009](../cases.d/CASE-009.md) is a design), so the defeat condition is untested.
+Tushnet's legal cases ([NOTE-1016](../notes.d/NOTE-1016.md)) show describers adding to images, not
+that cross-modal chains add more relations than text-only ones.

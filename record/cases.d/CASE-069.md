@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpq8ynx
 title: 'Labov''s recorded sounding sessions: ritual insult turning personal, with the same exchange shape and a different act'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    At the fourteenth status review (ADR-057, ADR-058), at the status
+    review's ruling (the owner delegated these rulings), CLAIM-138 moves
+    from supports to illustrates: the case is a documented instance of
+    that claim's point, which its argument does not use. Its support for
+    CLAIM-151 is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -25,6 +34,7 @@ summary: >-
   the acts still differ.
 supports:
 - CLAIM-151
+illustrates:
 - CLAIM-138
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-138 — Proposed; the claims this case supports, open -->

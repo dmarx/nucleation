@@ -1,10 +1,10 @@
 ---
 number: 38
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpbbjw4
 title: 'A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -15,6 +15,23 @@ history:
     The change is from A125 §2 and A129 §2, at the owner's U41; A151 §2,
     A173 and A178 §4.2 restate it. The new wording drops "compatible",
     which also fits this entry's own finding that language data signal.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted at the fourteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premise
+    CLAIM-042 and its readings THEORY-012 and THEORY-171 are Active, no
+    objection is filed against it, and nothing in the record meets its
+    defeat condition: CLAIM-219 finds no contextuality proper in the
+    behavioural data read so far, which bears on whether pragmatic
+    judgements are contextual (CLAIM-009), not on whether the theory must
+    presuppose that they are not. It now answers QUESTION-tmpdq47o, split
+    off QUESTION-055 under ADR-049. The first bullet of "Language data
+    are not compatible families" is restated in version 2's terms; it
+    read: "In Wang et al. (LIT-842) the language data are signalling, so
+    they are not compatible families. This claim's compatibility premise
+    therefore needs Contextuality-by-Default, or a sheaf corrected for
+    signalling." Title, defeater and warrant are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,6 +54,8 @@ grounds:
 - LIT-843
 uses:
 - TERM-042
+answers:
+- QUESTION-tmpdq47o
 summary: >-
   A78, after the owner's U29 pointer to this record's sheaf-
   contextuality readings, which the assistant said it "couldn't reopen".
@@ -50,7 +69,7 @@ complements:
 argued_by:
 - ARG-010
 ---
-<!-- inactive-ok-file: CLAIM-009 CLAIM-042 CLAIM-119 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-119 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; the definition version 1 was stated in, cited as history -->
 <!-- inactive-ok-file: ARG-010 — Rejected; the physical analogy offered for this claim and declined, cited as such -->
 
@@ -112,10 +131,14 @@ global interpretation.
 
 ## Language data are not compatible families
 
-- **The compatibility premise.** In Wang et al. ([LIT-842](../literature.d/LIT-842.md)) the language data
-  are signalling, so they are not compatible families. This claim's
-  compatibility premise therefore needs Contextuality-by-Default, or a
-  sheaf corrected for signalling.
+- **Compatibility.** In Wang et al. ([LIT-842](../literature.d/LIT-842.md)) the language data
+  are signalling, so they are not compatible families. Version 1's
+  compatibility premise would have needed Contextuality-by-Default, or a
+  sheaf corrected for signalling. Version 2, in [TERM-042](../terms.d/TERM-042.md)'s terms, does not
+  ask the data to agree on overlaps, so signalling data are communicative
+  objects too. Which criterion of global extension then separates
+  contextuality from direct context effects, as the defeat condition
+  requires, is [CLAIM-037](CLAIM-037.md)'s question.
 - **More non-gluing.** Abramsky, Barbosa and Searle ([LIT-843](../literature.d/LIT-843.md)) give a second,
   independent instance of the non-gluing noted above, from incomparable
   causal pasts (Example 7.2). They also give an example of a gluing that is

@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpx3m7e
 title: 'Observational distortion should be summed over the contexts both covers can host, with the target''s new questions asked of the source too, and the questions only one side can decide reported as a separate change of cover, so that a rendering that adds a relation pays for it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    At the fourteenth status review (ADR-057), at the status review's
+    ruling (the owner delegated these rulings), CLAIM-076 moves from
+    rests_on to complements: the body never cites it, and the restated
+    measure is a definition that answers CLAIM-256 whether or not a given
+    interpreter adds relations. Title, defeater and status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -16,11 +25,10 @@ tags:
 - philosophy-of-language
 date: '2026-10-10'
 line: pragmatic-transport
-rests_on:
-- CLAIM-076
 complements:
 - CLAIM-005
 - CLAIM-201
+- CLAIM-076
 uses:
 - TERM-021
 - TERM-043

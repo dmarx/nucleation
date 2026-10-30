@@ -1,10 +1,10 @@
 ---
 number: 450
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmprfgwn
 title: 'Three standards for a communicative distinction come apart: statistical distinguishability of an interpreter''s response profiles, measured locally by the Fisher metric and never raised by a parameter-independent garbling; usability by a bounded receiver, which a transformation can raise; and pragmatic efficacy in the act; and where response models are singular, as Watanabe''s theory treats, a missing response can come from an absent attempt or an unresponsive receiver alike, and only intervention or later dynamics separate them'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-25'
@@ -27,6 +27,18 @@ history:
     of predictors, which waits on CASE-055, is not used here. Version
     3's rests_on read: CLAIM-199, CLAIM-223, CLAIM-220. The claim is
     unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted to Active at the fourteenth status review, at the status
+    review's ruling (the owner delegated these rulings; ADR-057). Its
+    premises CLAIM-199, Active since the thirteenth review, and CLAIM-223
+    are Active, as are its grounds. Nothing objects to it, and nothing in
+    the record meets its defeat condition. The garbling inequality and
+    CASE-152's Fisher matrix were rechecked
+    (p14/claim450_fisher_garbling.py): G_source − G_target has no
+    eigenvalue below −10⁻¹⁵ over 300 garblings, and a θ-dependent kernel
+    breaks the order in 250 of 300. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

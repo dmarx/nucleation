@@ -4,13 +4,20 @@ status: Superseded
 formerly:
 - CLAIM-tmpsxsr8
 title: 'The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
   note: >-
     Moved to ARG-029 under ADR-061, as an argument about
     support; the claim's text below is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    CLAIM-038 went Active at the fourteenth status review (ADR-057), at
+    the status review's ruling (the owner delegated these rulings), so
+    "Both stances stand" no longer calls it Proposed. It read:
+    "CLAIM-038 is a Proposed thesis". The claim is otherwise unchanged.
 role: granted
 warrant: interpretive
 tags:
@@ -42,7 +49,7 @@ complements:
 - CLAIM-038
 ---
 <!-- inactive-ok-file: CLAIM-139 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-038 CLAIM-142 CLAIM-115 — Proposed; the operational theses compared, the claim that names the change and the manuscript's thesis, open -->
+<!-- inactive-ok-file: CLAIM-142 CLAIM-115 — Proposed; the claim that names the change and the manuscript's thesis, open -->
 <!-- inactive-ok-file: ARG-029 — Proposed; the argument this claim moved to -->
 
 # CLAIM-247: The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record
@@ -93,7 +100,7 @@ rival. [CLAIM-139](CLAIM-139.md) quotes A214 §13: "A traditional ontology
 of intrinsically individuated objects plus relational properties might
 reproduce the same statistical predictions."
 
-Both stances stand. [CLAIM-038](CLAIM-038.md) is a Proposed thesis, [CLAIM-046](CLAIM-046.md) has been
+Both stances stand. [CLAIM-038](CLAIM-038.md) has been Active since 2026-10-29, [CLAIM-046](CLAIM-046.md) has been
 Active since 2026-10-27, [CLAIM-112](CLAIM-112.md) is Active, [CLAIM-139](CLAIM-139.md) is Proposed, and [TERM-014](../terms.d/TERM-014.md), [TERM-042](../terms.d/TERM-042.md) and
 [TERM-040](../terms.d/TERM-040.md) are all Active. No claim says which bearer the line now holds, and
 [CLAIM-115](CLAIM-115.md), the manuscript's thesis, uses no TERM for it.

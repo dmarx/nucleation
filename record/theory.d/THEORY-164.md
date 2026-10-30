@@ -14,7 +14,17 @@ promote_when: >-
   languages cannot settle it, since they carry the confounds the claim
   is about.
 title: 'In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Its supports entry for CLAIM-068 is removed: the fourteenth status
+    review, at the status review's ruling (the owner delegated these
+    rulings; ADR-057, ADR-058), moved this reading from CLAIM-068's
+    grounds to its corroborated_by, since it is horizontal interaction,
+    not a chain, and the claim does not rest on it. The reading is
+    unchanged.
 tags:
 - linguistics
 - compositionality
@@ -31,8 +41,6 @@ summary: >-
   mechanism supported by lagged association, not manipulation. It says
   nothing yet about natural communities, where size travels with network
   density and second-language learners.
-supports:
-- CLAIM-068
 ---
 
 

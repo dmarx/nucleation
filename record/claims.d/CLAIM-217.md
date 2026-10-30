@@ -192,3 +192,12 @@ is left to the owner.
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
 The interlocutor's reading of 2026-10-12 recommends to "weaken CLAIM-217's implication that competent uptake directly fixes all relevant act identity", and judges that [CLAIM-152](CLAIM-152.md) "has the stronger argument as currently formulated": this entry "risks solving an epistemological problem by stipulating an ontological relationship". Recorded as advice, with [CLAIM-255](CLAIM-255.md) and the note on [CLAIM-241](CLAIM-241.md). The two open tensions on this entry are still the owner's.
+
+## Note of 2026-10-29: what holds it back
+
+Its premise [CLAIM-151](CLAIM-151.md) is Proposed, held by [CLAIM-004](CLAIM-004.md)'s missing criterion
+and [CLAIM-221](CLAIM-221.md)'s unanswered residue. [CLAIM-152](CLAIM-152.md)'s circularity charge (note of
+2026-10-12) is unanswered: nothing says whether grounding the standard in
+uptake's partial constitution of the act is an argument independent of the
+partition it selects. The [CLAIM-160](CLAIM-160.md) tension over whose uptake is meant is
+still the owner's.
