@@ -16,7 +16,18 @@ promote_when: >-
   is the leeway position. More statements of the origination intuition
   cannot settle it.
 title: "Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    A dated note says which alternative-possibilities conditions the
+    title means, after Timpe (LIT-tmpn8wog, NOTE-tmpz05rj) argued that
+    ultimacy entails a weak one, and records Fischer's renewed
+    concession (LIT-tmppshez, NOTE-tmpxvceo), at the status review's
+    ruling (the owner delegated these rulings; ADR-057; ADR-047 kind 3).
+    No edge is added: neither paper supplies what the promote_when asks
+    for. Title and status unchanged.
 tags:
 - free-will
 - ethics
@@ -124,3 +135,28 @@ incompatibilist condition is fundamental.
   manipulation cases of that kind do not show it insufficient. Whether it
   is true, and not only consistent with the cases, is what Chapter 4
   argues. Indeterministic manipulation is not discussed in the pages read.
+
+## Note of 2026-10-30: which alternative-possibilities conditions the title means
+
+The title's "defeat alternative-possibilities conditions" means principles
+(1) and (2), and any such condition "relevant to explaining why an agent
+is morally responsible" (p. 1), as the body says; it does not mean every
+such condition. Timpe (LIT-tmpn8wog, read in NOTE-tmpz05rj) argues that
+the incompatibilist's ultimacy condition entails a weak, possibly
+non-robust alternatives condition that Frankfurt-style cases leave
+standing (p. 150), and counts Pereboom among those who keep one (p. 147).
+That agrees with Pereboom's allowance of conditions "necessary for moral
+responsibility but nevertheless irrelevant to explaining why" (p. 2). It
+weighs on the title's wording, not its thesis. Fischer (LIT-tmppshez, read
+in NOTE-tmpxvceo), writing after the book, again concedes the route Step 2
+builds on: determinism may still undermine responsibility through "lack of
+'sourcehood'" (p. 331).
+
+## Note of 2026-10-30: what holds it back
+
+Pereboom's Chapter 1, pp. 10–37, where his new Frankfurt-style case is
+argued, is unread (LIT-1006 is Unavailable), and no reply from the leeway
+side has been read first-hand: Widerker and Goetz are known only through
+Fischer's quotations (NOTE-tmpxvceo), and Fischer and Timpe write from the
+compatibilist and source sides. Timpe's argument runs from ultimacy to
+alternatives, so it is not the refuting argument the promote_when names.

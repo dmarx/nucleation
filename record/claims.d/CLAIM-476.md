@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpl228b
 title: 'Beyond what it does operationally, luria is an apparatus in Barad''s constitutive sense for the objects of a record, and only for them: the record''s objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record''s own inquiry reconstitutes the apparatus that constitutes them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -35,6 +35,17 @@ history:
     template reading, which the note of 2026-10-27 (later) already
     conceded by taking it, so the defeater now says the claim stands on
     that reading. Status unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    Corrected (ADR-047 kind 3) at the status review's ruling (the owner
+    delegated these rulings; ADR-057). The summary said "Barad is unread
+    here", and "What it does not say" said "Barad is unread here
+    (LIT-1653, LIT-1657); the sense of apparatus compared is A4 and A6's
+    account of her." Her 2012 essay is now read (LIT-tmpqga3b,
+    NOTE-tmpynmwh). It confirms the cut but gives no general account of
+    an apparatus, so it takes no edge (ADR-058). Title, status and edges
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -76,7 +87,8 @@ summary: >-
   constitutive thesis: those objects are constituted in Barad's sense, not
   only made governable. That needs an argument the operational facts do
   not supply, and the readings press on it, since Barad rejects carrying
-  agential realism as a template. Barad is unread here.
+  agential realism as a template. Of Barad, only her 2012 essay is read here
+  (NOTE-tmpynmwh), and it gives no general account of an apparatus.
 ---
 <!-- inactive-ok-file: CLAIM-470 TERM-089 LIT-1652 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: LIT-1665 — Deferred; registered unread -->
@@ -181,9 +193,13 @@ inquiry reconstitutes."
   ones.** [CLAIM-419](CLAIM-419.md)'s limit stands: a move forced silently into a wrong
   shape leaves no decision behind. An apparatus that constitutes objects
   can constitute the wrong ones.
-- **Not Barad's own reading.** Barad is unread here ([LIT-1653](../literature.d/LIT-1653.md),
-  [LIT-1657](../literature.d/LIT-1657.md)); the sense of apparatus compared is A4 and A6's account
-  of her.
+- **Not Barad's own reading.** Barad's book and article are unread here
+  (LIT-1653, LIT-1657). Her 2012 essay (LIT-tmpqga3b, read in NOTE-tmpynmwh)
+  states the agential cut in the sense this claim uses, "a “local”
+  resolution within the phenomenon of the inherent ontological
+  indeterminacy" (p. 32), but uses "apparatus" only of the two-slit set-up,
+  so the sense of apparatus compared is still A4 and A6's account of her and
+  Faye and Jaksland's quotation of Barad 2007.
 
 ## What would test it beyond the record
 
@@ -326,11 +342,11 @@ abstraction (§2, p. 4), so the apparatus constitutes only the abstract
 objects. That is the part of this claim A7 called demonstrable, and the
 reading supports nothing beyond it.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
 Its first defeater is unanswered: no consequence of "constituted" has been
-shown that does not follow from [CLAIM-469](CLAIM-469.md)'s operational facts, and the
-CEGAR reading ([NOTE-1231](../notes.d/NOTE-1231.md)) supports only those; [QUESTION-284](../questions.d/QUESTION-284.md), which asks
-for a criterion telling constitution from characterization, is Open, and
-the two-apparatus experiment above is unbuilt. It is also stated in
-[TERM-087](../terms.d/TERM-087.md)'s agential sense, which waits on a reading of Barad herself.
+shown that does not follow from CLAIM-469's operational facts,
+QUESTION-284 is Open, and the two-apparatus experiment is unbuilt. Barad's
+2012 essay, now read, supplies the cut but no account of the apparatus, so
+the constitutive sense the title names rests on TERM-087's second-hand
+clause, which waits on a reading of LIT-1657.

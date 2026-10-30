@@ -144,3 +144,16 @@ conceptual account with two examples, offered in summary.
   making sense of a social experience and to a group's powerlessness in
   shaping the shared resources. The gloss is Leonelli's use, not
   Fricker's definition.
+
+## Note of 2026-10-30: what holds it back
+
+The book (LIT-1004) is still unread, and the promote_when says secondary
+summaries cannot settle it. Maitra (LIT-tmp8pt4c, read in NOTE-tmp8uvyb)
+reports the book, with its pages, as differing from the précis on both of
+the promote_when's points: testimonial injustice needs identity prejudice
+(book pp. 35, 42), and hermeneutical injustice is defined through
+hermeneutical marginalization, which may be "systematic, or incidental"
+(pp. 153, 158). With Fricker's own 2006 paper (THEORY-326), two sources
+now place the book's definitions where this account's caveats expected a
+narrowing. If a reading of the book confirms them, this account is refuted
+as a statement of Fricker, as its promote_when says.

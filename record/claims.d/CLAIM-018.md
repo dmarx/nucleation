@@ -1,10 +1,10 @@
 ---
 number: 18
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp5ljag
 title: 'Canguilhem''s distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -13,6 +13,25 @@ history:
     delegated these rulings; ADR-057). The book is Unavailable and no NOTE
     reads it, so the citation takes no edge (ADR-058); the body keeps it.
     The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner
+    delegated these rulings; ADR-057), an interpretive ruling listed for
+    the owner. Two readings, each read in full, quote The Normal and the
+    Pathological for the account of health the claim reads. Giroux
+    (LIT-tmphwtnd, NOTE-tmptu1ne) quotes "the possibility of tolerating
+    infractions of the habitual norm and instituting new norms in new
+    situations" (Canguilhem 1991, pp. 196–197). Vissio (LIT-tmpwml4z,
+    NOTE-tmps4pgb) reports that the sick organism is "confined and
+    reduced in its capacity to change these norms", normativity being
+    the capacity to redefine them (p. 227). The claim now grounds on
+    both (ADR-058), and the book itself takes no edge. Nothing in the
+    record meets the defeat condition; both report its opposite. Both
+    also report Canguilhem's refusal of normativity to a society, now
+    recorded in "What it does not say". The note of 2026-10-30 that said
+    "The claim waits on a NOTE that reads the book" is removed by this
+    ruling.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,6 +44,9 @@ date: '2026-10-04'
 line: will-organization
 works:
 - organization-of-will
+grounds:
+- LIT-tmphwtnd
+- LIT-tmpwml4z
 summary: >-
   An interpretation, not a premise (Section 6.8): "Nor does the present
   argument depend upon importing Canguilhem's account into viability
@@ -45,14 +67,13 @@ support viable activity."
 
 "Institutions are not organisms, and regulatory failure is not literally
 disease." The audit's verdict on Canguilhem: an "illuminating philosophical
-analogue, not a co-foundation". It cites Canguilhem ([LIT-817](../literature.d/LIT-817.md)), and
-the record holds no reading of the book, so the citation takes no edge.
-
-## Note of 2026-10-30: what holds it back
-
-The record holds no reading of Canguilhem: [LIT-817](../literature.d/LIT-817.md) is Unavailable and no
-NOTE reads it, and the defeat condition is itself a reading of the book.
-[NOTE-719](../notes.d/NOTE-719.md) reports Di Paolo's paraphrase ("After Canguilhem and Goldstein, a
-successful cure may well re-define rather than simply restore the
-organism's own normativity"), which is an attribution at second hand, not a
-reading. The claim waits on a NOTE that reads the book.
+analogue, not a co-foundation". It cites Canguilhem ([LIT-817](../literature.d/LIT-817.md)), which
+is Unavailable and takes no edge; the reading of him it needs is Giroux's and
+Vissio's, who quote the book (LIT-tmphwtnd, LIT-tmpwml4z). Nor does it say
+Canguilhem would draw the correspondence: he refuses normativity, and so
+health, to a society, which "is not an individual, because it is not an
+organism endowed with a purpose and a totality that are obtained by a
+specialized system of devices of regulation" (Canguilhem 2012, pp. 76–77, as
+Giroux quotes it), and for which, as Vissio reports New Reflections, "there
+is not a social pathology". The correspondence is the record's, between his
+concept and its own.
