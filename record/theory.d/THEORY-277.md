@@ -154,7 +154,7 @@ although the fit itself cannot be measured.
 
 ## Note of 2026-10-30: a re-derivation of Lemma C.4, awaiting a second checker
 
-The second check at the status review (ADR-065 §5) followed what the file
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed what the file
 records and found one direction written out and the other only cited.
 Throughout, K is prefix complexity, A ⊆ {0,1}ⁿ (restricting a model to
 strings of x's length costs O(log n)), Λ(A) = K(A) + log |A| and
@@ -221,11 +221,11 @@ computable.
 
 ## Note of 2026-10-30: what holds it back
 
-Lemma C.4's re-derivation above has had one checker, and ADR-065 §5 needs
+Lemma C.4's re-derivation above has had one checker, and [ADR-065](../decisions.d/ADR-065.md) §5 needs
 a second. The title's last clause, that the fit cannot be computed or
 approximated, rests on Theorems D.2 and D.6, which no one has
 re-derived. Once a second checker confirms steps 3 to 6, the entry can be
 narrowed to Theorem IV.8 and Remark IV.10 and promoted. The computability
-clause would then go to a Proposed THEORY that extends it (ADR-047 kind 1).
+clause would then go to a Proposed THEORY that extends it ([ADR-047](../decisions.d/ADR-047.md) kind 1).
 
 If a second checker confirms steps 3 to 6, the narrowed title would be: "For a string x of length n and every complexity bound α, a finite set of complexity at most α + O(log n) that minimises two-part code length has randomness deficiency within O(log n) of the best achievable at complexity α; the minimal two-part code length and the best fit plus K(x) agree to within O(log n) in argument and value". Until then the title above stands.

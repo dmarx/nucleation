@@ -32,13 +32,13 @@ date: '2026-10-24'
 source:
 - LIT-1516
 summary: >-
-  Omidshafiei et al. (2019), LIT-1516, Theorems 2.1.2, 2.4.24 and 2.5.1,
-  read from arXiv v4 in NOTE-1156, proofs followed. Irreducibility is
+  Omidshafiei et al. (2019), [LIT-1516](../literature.d/LIT-1516.md), Theorems 2.1.2, 2.4.24 and 2.5.1,
+  read from arXiv v4 in [NOTE-1156](../notes.d/NOTE-1156.md), proofs followed. Irreducibility is
   immediate, and the α → ∞ limit is of transition matrices. That each MCC
   lies in one chain component follows from chain transitivity, re-derived
   and second-checked on 2026-10-30. The converse, that attracting
   components contain MCCs, rests on a conjugation step that is asserted,
-  not carried out, and is THEORY-tmp9386m. Not shown: what the stationary
+  not carried out, and is [THEORY-tmp9386m](THEORY-tmp9386m.md). Not shown: what the stationary
   distribution tends to, how it splits among several sinks, or invariance
   to duplicated strategies, which the reader found it lacks.
 ---
@@ -77,7 +77,7 @@ Theorem 2.5.1 (p. 15, proof p. 45).
   The paper's converse, that every asymptotically stable sink chain
   component contains an MCC, is argued through a volume-preserving
   conjugation of the interior flow. That argument is asserted, not
-  carried out, and is THEORY-tmp9386m.
+  carried out, and is [THEORY-tmp9386m](THEORY-tmp9386m.md).
 
 What could have come out otherwise: a sink of the better-response graph
 could have straddled two chain components, or an attracting component
@@ -92,7 +92,7 @@ could have avoided the pure profiles altogether.
 - **That every MCC is in an asymptotically stable component, or the
   converse.** Neither is proved here. The paper claims the converse, that
   every asymptotically stable sink chain component contains an MCC, and
-  that is THEORY-tmp9386m.
+  that is [THEORY-tmp9386m](THEORY-tmp9386m.md).
 - **That the ranking resists padding.** In the symmetric
   single-population model, duplicating scissors in rock-paper-scissors
   moves rock to first place at every α tried ([NOTE-1156](../notes.d/NOTE-1156.md)).
@@ -110,7 +110,7 @@ ties, every MCC is a single profile, a pure equilibrium ([NOTE-1156](../notes.d/
 
 ## Note of 2026-10-30: the re-derivation, written out
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 1. **Uniqueness.** With finite payoffs, the fixation probability (1 −
 e^(−αΔ))/(1 − e^(−mαΔ)), or 1/m at Δ = 0, is positive. So every move that
@@ -140,7 +140,7 @@ reaches every other by weakly better moves, so they are pairwise chain
 equivalent, and they lie in one chain component. This step does not use
 the conjugation.
 
-4. **What the converse would need (THEORY-tmp9386m).** In log-ratio
+4. **What the converse would need ([THEORY-tmp9386m](THEORY-tmp9386m.md)).** In log-ratio
 coordinates u = log(x_{i+1}/x_1) for each population, population p's
 payoff differences do not depend on its own coordinates, so the interior
 vector field has divergence 0. That is the conjugation the paper
@@ -176,6 +176,6 @@ components". The limit chain also has transitions out of profiles that
 are not in any sink. It moves along weakly better deviations everywhere.
 It is the MCC only on the sinks, which are its closed classes. The old
 wording was imprecise rather than false in substance, so it is recorded
-here only (ADR-047's kind 3). The paper's Theorem 2.5.1 says "the
+here only ([ADR-047](../decisions.d/ADR-047.md)'s kind 3). The paper's Theorem 2.5.1 says "the
 macro-model's transition probabilities become the MCC transitions"
-(NOTE-1156), with the same ellipsis.
+([NOTE-1156](../notes.d/NOTE-1156.md)), with the same ellipsis.

@@ -33,8 +33,8 @@ date: '2026-10-24'
 source:
 - LIT-1520
 summary: >-
-  Sato & Crutchfield (arXiv 2002; PRE 2003), LIT-1520, read in full from
-  arXiv v2 in NOTE-1144, Eqs. 1–13. The entropy-like term is what memory
+  Sato & Crutchfield (arXiv 2002; PRE 2003), [LIT-1520](../literature.d/LIT-1520.md), read in full from
+  arXiv v2 in [NOTE-1144](../notes.d/NOTE-1144.md), Eqs. 1–13. The entropy-like term is what memory
   decay becomes under softmax choice. The limit, the dissipation rate and
   the Hamiltonian were re-derived, second-checked at the status review of
   2026-10-30. The model updates every action's memory at the same rate, so
@@ -93,7 +93,7 @@ Eqs. 1–13 (pp. 1–2).
 
 ## Note of 2026-10-30: the re-derivation, written out
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 1. **The limit.** Q̇_i = R_i − αQ_i, and x_i = e^(βQ_i)/Σ_j e^(βQ_j)
 gives ẋ_i/x_i = β(Q̇_i − Σ_j x_j Q̇_j). So ẋ_i/x_i = β(R_i − x·R) −
@@ -145,11 +145,11 @@ The old title said that softmax learners with decaying memories follow
 the equation, with no condition on how memories are updated or how fast.
 Read so, it is false. Q-learning is softmax over decaying memories, yet
 it updates only the chosen action, and its expected dynamics carry a
-factor x_i that the equation lacks (THEORY-932). The old title also said
+factor x_i that the equation lacks ([THEORY-932](THEORY-932.md)). The old title also said
 "Hamiltonian in zero-sum games" with no condition, where the source
 states the result for an interior Nash equilibrium. Both conditions are
 the source's own. These clauses were mis-statements, so they are
-recorded here only (ADR-047's kind 3), and the title now states the
+recorded here only ([ADR-047](../decisions.d/ADR-047.md)'s kind 3), and the title now states the
 conditions.
 
 The version-of-record demand concerned Eq. 14. v2 prints the three-agent

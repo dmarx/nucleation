@@ -167,7 +167,7 @@ the FIP ([NOTE-1116](../notes.d/NOTE-1116.md)).
 
 ## Note of 2026-10-30: the re-derivation, checked
 
-The second check at the status review (ADR-065 §5) followed each step
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step
 under "What was actually shown".
 
 1. **If.** If P rises strictly at every strict unilateral improvement, then

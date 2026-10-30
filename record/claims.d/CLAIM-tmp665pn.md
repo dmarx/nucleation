@@ -65,6 +65,6 @@ is [QUESTION-005](../questions.d/QUESTION-005.md).
 
 No held case checks a measured correspondence against evidence the
 measurement did not produce: Singer's are validated only by cycle
-consistency under a noise model (NOTE-1224), Robinson's are trusted
-(NOTE-1221), and Hansen and Ghrist adjust relationships until a section
-exists (NOTE-1233). One such case would promote it.
+consistency under a noise model ([NOTE-1224](../notes.d/NOTE-1224.md)), Robinson's are trusted
+([NOTE-1221](../notes.d/NOTE-1221.md)), and Hansen and Ghrist adjust relationships until a section
+exists ([NOTE-1233](../notes.d/NOTE-1233.md)). One such case would promote it.

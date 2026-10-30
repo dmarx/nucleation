@@ -31,7 +31,7 @@ date: '2026-10-24'
 source:
 - LIT-1512
 summary: >-
-  Yang et al. (2018), read in full in NOTE-1148 from arXiv v5. The
+  Yang et al. (2018), read in full in [NOTE-1148](../notes.d/NOTE-1148.md) from arXiv v5. The
   expansion and the remainder bound were re-derived when filed and
   second-checked on 2026-10-30; the appendix states an equality where
   only an inequality holds, which leaves the bound intact. The
@@ -39,7 +39,7 @@ summary: >-
   high temperature while it assumes a greedy limit, and the cancellation
   of remainders is argued from homogeneity, not proved. The approximation
   requires agents interchangeable within a neighbourhood. Whether the
-  method works as claimed is THEORY-tmp3xe34.
+  method works as claimed is [THEORY-tmp3xe34](THEORY-tmp3xe34.md).
 ---
 
 <!-- inactive-ok-file: THEORY-tmp3xe34 — Proposed; the wide form this entry was narrowed from, which extends it -->
@@ -81,7 +81,7 @@ its greedy limit.
 
 ## Note of 2026-10-30: the re-derivation, written out
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 1. **The first-order term.** Write a^k = ā + δa^k with ā = (1/N) Σ_k a^k,
 so Σ_k δa^k = 0. Taylor's theorem about ā gives Q(a^k) = Q(ā) +
@@ -123,6 +123,6 @@ Q-value under the authors' assumptions. The record found that the proof
 needs a temperature above K/2 for its contraction, while it assumes a
 greedy limit. So convergence is reported, not held. The title also said
 "tasks" of 500 and 1000 agents where it was one task at two sizes. The
-wide form, which the paper asserts, is kept as THEORY-tmp3xe34, Proposed,
-which extends this entry and inherits the old promote_when (ADR-047's kind
+wide form, which the paper asserts, is kept as [THEORY-tmp3xe34](THEORY-tmp3xe34.md), Proposed,
+which extends this entry and inherits the old promote_when ([ADR-047](../decisions.d/ADR-047.md)'s kind
 1). The plural "tasks" was a mis-statement and is recorded here only.

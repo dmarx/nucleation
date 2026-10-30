@@ -127,7 +127,7 @@ did.
 
 ## Note of 2026-10-30: the re-derivation, written out
 
-The second check at the status review (ADR-065 §5) followed each step. H is
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step. H is
 finite, each J_z maps H to H, and words act left to right.
 
 1. **≈ is the coarsest revision-invariant refinement of ∼_D.** It refines

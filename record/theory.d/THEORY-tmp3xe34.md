@@ -24,10 +24,10 @@ promote_when: >-
   exchangeable within a neighbourhood fall outside it and neither promote
   nor refute it.
 summary: >-
-  The wide form of Yang et al. (2018), LIT-1512, kept here when the
-  twenty-fourth status review narrowed THEORY-945 to the re-derived
+  The wide form of Yang et al. (2018), [LIT-1512](../literature.d/LIT-1512.md), kept here when the
+  twenty-fourth status review narrowed [THEORY-945](THEORY-945.md) to the re-derived
   expansion and to what the paper states and ran, and promoted it
-  (ADR-047, kind 1). The paper asserts that mean field Q-learning
+  ([ADR-047](../decisions.d/ADR-047.md), kind 1). The paper asserts that mean field Q-learning
   converges to the Nash Q-value under its assumptions, and that it makes
   many-agent learning tractable. Its proof does not reconcile a
   high-temperature contraction with a greedy limit, and its many-agent
@@ -38,15 +38,15 @@ summary: >-
 
 ## Source
 
-Yang, Luo, Li, Zhou, Zhang & Wang (2018), LIT-1512, read in NOTE-1148
+Yang, Luo, Li, Zhou, Zhang & Wang (2018), [LIT-1512](../literature.d/LIT-1512.md), read in [NOTE-1148](../notes.d/NOTE-1148.md)
 from arXiv:1802.05438v5.
 
 ## What is shown and what is not
 
-THEORY-945 holds the expansion and the bound, re-derived, and reports the
+[THEORY-945](THEORY-945.md) holds the expansion and the bound, re-derived, and reports the
 theorem and the Gaussian Squeeze runs. This entry asserts the theorem,
 and asserts the runs as the method's general capacity. Against the
 theorem: Proposition 1, which the proof uses, needs the Boltzmann
 temperature above K/2, while Assumption 2 needs it to go to zero, and the
-paper does not reconcile them (NOTE-1148). Against the general capacity:
+paper does not reconcile them ([NOTE-1148](../notes.d/NOTE-1148.md)). Against the general capacity:
 the experiment at 500 and 1000 agents is one task, run by the authors.

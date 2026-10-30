@@ -8,8 +8,8 @@ tags:
 date: '2026-10-30'
 line: formal-apparatus
 summary: >-
-  The part of THEORY-884's former promote_when that asked for more than
-  its title. THEORY-884 was promoted on its own re-derivation, second-checked
+  The part of [THEORY-884](../theory.d/THEORY-884.md)'s former promote_when that asked for more than
+  its title. [THEORY-884](../theory.d/THEORY-884.md) was promoted on its own re-derivation, second-checked
   at the twenty-fourth status review. Whether its criterion is the
   classical construction, which the authors say it is, needs a reading of
   Moore (1956), Nerode (1958) or a standard automata text.
@@ -19,10 +19,10 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-884 states Proposition 4's criterion and bound, and the record has
+[THEORY-884](../theory.d/THEORY-884.md) states Proposition 4's criterion and bound, and the record has
 proved both. The authors call the result "a finite-machine refinement
-construction in the tradition of Moore and Nerode" (LIT-1376, §4.4), and
-THEORY-884's body repeats that. No classical source is read here.
+construction in the tradition of Moore and Nerode" ([LIT-1376](../literature.d/LIT-1376.md), §4.4), and
+[THEORY-884](../theory.d/THEORY-884.md)'s body repeats that. No classical source is read here.
 
 ## What would answer it
 

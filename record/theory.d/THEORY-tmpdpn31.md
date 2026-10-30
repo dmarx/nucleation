@@ -22,10 +22,10 @@ promote_when: >-
   initializations. Results in multi-state tasks are wider than this and
   neither promote nor refute it.
 summary: >-
-  The wide form of Kaisers & Tuyls (AAMAS 2010), LIT-1511, kept here when
-  the twenty-fourth status review narrowed THEORY-932 to what the
+  The wide form of Kaisers & Tuyls (AAMAS 2010), [LIT-1511](../literature.d/LIT-1511.md), kept here when
+  the twenty-fourth status review narrowed [THEORY-932](THEORY-932.md) to what the
   derivation proves and what their three games showed, and promoted it
-  (ADR-047, kind 1). The paper asserts that the model is exact for
+  ([ADR-047](../decisions.d/ADR-047.md), kind 1). The paper asserts that the model is exact for
   frequency-adjusted Q-learning and that Q-learning departs from it
   depending on initialization. Its plots are three games, one
   temperature, compared by eye.
@@ -36,13 +36,13 @@ summary: >-
 
 ## Source
 
-Kaisers and Tuyls (2010), LIT-1511, read in full in NOTE-1140. The model
-they correct is Tuyls, Verbeeck and Lenaerts (2003), LIT-1501, which is
+Kaisers and Tuyls (2010), [LIT-1511](../literature.d/LIT-1511.md), read in full in [NOTE-1140](../notes.d/NOTE-1140.md). The model
+they correct is Tuyls, Verbeeck and Lenaerts (2003), [LIT-1501](../literature.d/LIT-1501.md), which is
 Unavailable and is known here only as Kaisers and Tuyls restate it.
 
 ## What is shown and what is not
 
-THEORY-932 holds what is proved. The model is the expected dynamics of an
+[THEORY-932](THEORY-932.md) holds what is proved. The model is the expected dynamics of an
 all-update learner, and so of frequency-adjusted Q-learning wherever every
 probability is at least β. Q-learning's expected update carries a factor
 x_i. This entry asserts more. It says "exact" without the small-step and

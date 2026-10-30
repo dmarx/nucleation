@@ -23,11 +23,11 @@ promote_when: >-
   grows, nor about invariance to copies. Results on those neither promote
   nor refute it.
 summary: >-
-  The half of Omidshafiei et al.'s Theorem 2.4.24 that THEORY-942 does not
+  The half of Omidshafiei et al.'s Theorem 2.4.24 that [THEORY-942](THEORY-942.md) does not
   assert, kept here when the twenty-fourth status review promoted
-  THEORY-942 on the other half (ADR-047, kind 1). The paper's proof
+  [THEORY-942](THEORY-942.md) on the other half ([ADR-047](../decisions.d/ADR-047.md), kind 1). The paper's proof
   conjugates the interior flow to a volume-preserving one, and then
-  argues inductively that an attractor reaches a vertex. NOTE-1156 found
+  argues inductively that an attractor reaches a vertex. [NOTE-1156](../notes.d/NOTE-1156.md) found
   that step asserted, not carried out.
 ---
 
@@ -35,7 +35,7 @@ summary: >-
 
 ## Source
 
-Omidshafiei et al., LIT-1516, read in NOTE-1156 from arXiv v4: Theorem
+Omidshafiei et al., [LIT-1516](../literature.d/LIT-1516.md), read in [NOTE-1156](../notes.d/NOTE-1156.md) from arXiv v4: Theorem
 2.4.24 (p. 14, proof p. 44).
 
 ## What is shown and what is not
@@ -49,8 +49,8 @@ interior field has divergence 0, since no population's payoff
 differences depend on its own mix, and a script at the status review of
 2026-10-30 confirmed it. What is not carried out is the induction: that
 the trace of an attractor on a face is again an attractor there, and that
-the vertex's weakly-better closure is pulled in. THEORY-942 holds the
+the vertex's weakly-better closure is pulled in. [THEORY-942](THEORY-942.md) holds the
 other half, that each MCC lies inside one chain component, re-derived. The
 converse of this entry, that every MCC lies in an asymptotically stable
 component, is false: in matching pennies the whole square is one
-component (NOTE-1156).
+component ([NOTE-1156](../notes.d/NOTE-1156.md)).

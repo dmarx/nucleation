@@ -30,12 +30,12 @@ source:
 - LIT-1511
 - LIT-1501
 summary: >-
-  Kaisers & Tuyls (AAMAS 2010), LIT-1511, read in full in NOTE-1140,
-  correcting the model of Tuyls, Verbeeck & Lenaerts (2003), LIT-1501,
+  Kaisers & Tuyls (AAMAS 2010), [LIT-1511](../literature.d/LIT-1511.md), read in full in [NOTE-1140](../notes.d/NOTE-1140.md),
+  correcting the model of Tuyls, Verbeeck & Lenaerts (2003), [LIT-1501](../literature.d/LIT-1501.md),
   which is not read. The derivation of the discrepancy and of the
   frequency adjustment was re-derived and second-checked at the status
   review of 2026-10-30. The experiments are three games, one temperature,
-  compared by eye; whether Q-learning departs in general is THEORY-tmpdpn31.
+  compared by eye; whether Q-learning departs in general is [THEORY-tmpdpn31](THEORY-tmpdpn31.md).
 ---
 <!-- inactive-ok-file: LIT-1501 NOTE-1140 CLAIM-446 — Proposed, Unavailable or new; the sources and the accounts this bears on, named -->
 
@@ -87,7 +87,7 @@ known here only as Kaisers and Tuyls restate it.
 
 ## Note of 2026-10-30: the re-derivation, written out
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 1. **The model from the all-update rule.** With x_i ∝ e^(Q_i/τ),
 ẋ_i/x_i = τ⁻¹(Q̇_i − x·Q̇). If Q̇_i = α(r_i + γ max_j Q_j − Q_i) for every
@@ -130,5 +130,5 @@ The title said the model is "exact for frequency-adjusted Q-learning"
 without condition, and that Q-learning's trajectories "in 2×2 games"
 depart from it depending on initialization. The paper asserts both in
 general, from three games at τ = 0.1 compared by eye. The general form is
-kept as THEORY-tmpdpn31, Proposed, which extends this entry and inherits
-the old promote_when (ADR-047's kind 1).
+kept as [THEORY-tmpdpn31](THEORY-tmpdpn31.md), Proposed, which extends this entry and inherits
+the old promote_when ([ADR-047](../decisions.d/ADR-047.md)'s kind 1).
