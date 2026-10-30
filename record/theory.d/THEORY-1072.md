@@ -20,7 +20,7 @@ summary: >-
   which Simon rejects, or that any problem is ill structured for every
   solver.
 ---
-<!-- inactive-ok-file: THEORY-1084 CLAIM-475 — Proposed; the companion THEORY and the claim this bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-475 — Proposed; the claim this bears on, cited as open -->
 
 # THEORY-1072: In Simon's analysis, whether a problem is well structured is a relation between the problem and a bounded solver, judged by practicable rather than in-principle computability, so it comes in degrees and has no sharp boundary; on that standard even theorem proving and chess fail some of the conditions, chess is well structured in the small and ill structured in the large, and problems presented by the world become well structured only in being prepared for a solver
 

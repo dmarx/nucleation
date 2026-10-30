@@ -1,21 +1,10 @@
 ---
 number: 1108
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpyig9c
-promote_when: >-
-  Physiology, not gene content, from Asgard lineages other than the
-  Lokiarchaeota, and above all from those placed closest to eukaryotes:
-  cultures or in situ measurements showing whether they too grow only
-  with partners that remove their products, and whether they lack
-  internal membranes. Further surveys of metagenome-assembled genomes
-  for catabolic genes cannot settle it, since gene presence in incomplete
-  genomes is what the claim already rests on. It is refuted for the
-  Asgard ancestor if the lineages nearest eukaryotes are found to grow
-  without partners, by respiration or autotrophy, as their primary way of
-  life.
 title: 'On Imachi and colleagues'' cultivation of Candidatus Prometheoarchaeum syntrophicum MK-D1, the first Asgard archaeon grown in the laboratory is a small, internally simple coccus with long branching protrusions that degrades amino acids only in syntrophy, handing hydrogen and formate to partners that can be exchanged, and from its genome and other Asgard genomes the authors infer that the Asgard ancestor was likewise dependent on metabolic partners; the isolate is a modern relative separated from the host lineage by about two billion years, grown only in co-culture, and the entangle–engulf–endogenize model built on it is a hypothesis the authors call not definitive'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -26,13 +15,35 @@ history:
     the Asgard ancestor rests on gene presence in metagenome-assembled
     genomes, and the eukaryogenesis model is offered as a hypothesis.
     Hence Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065). The title
+    reports what Imachi and colleagues' cultivation shows and what they
+    infer from it; NOTE-1238 read the paper in full, and nothing in the
+    record contradicts the report. What the condition asked beyond the
+    title, that the authors be right, moves to THEORY-tmp5wtkk,
+    Proposed, which extends this entry and keeps the condition word for
+    word (ADR-065 §3). The answers edge on QUESTION-277 is moved to bears_on
+    (ADR-060): the reading is evidence on the question, not an answer to
+    it as posed. The old promote_when: "Physiology, not gene content,
+    from Asgard lineages other than the Lokiarchaeota, and above all
+    from those placed closest to eukaryotes: cultures or in situ
+    measurements showing whether they too grow only with partners that
+    remove their products, and whether they lack internal membranes.
+    Further surveys of metagenome-assembled genomes for catabolic genes
+    cannot settle it, since gene presence in incomplete genomes is what
+    the claim already rests on. It is refuted for the Asgard ancestor if
+    the lineages nearest eukaryotes are found to grow without partners,
+    by respiration or autotrophy, as their primary way of life."
 tags:
 - endosymbiosis
 - natural-sciences
 date: '2026-10-27'
 source:
 - LIT-1591
-answers:
+bears_on:
 - QUESTION-277
 summary: >-
   Imachi et al. (2020), [LIT-1591](../literature.d/LIT-1591.md), read in [NOTE-1238](../notes.d/NOTE-1238.md). Partner
@@ -45,7 +56,8 @@ summary: >-
   individuality may have begun from a host already dependent on others,
   with no partner specificity, cohesion or control.
 ---
-<!-- inactive-ok-file: QUESTION-277 LIT-1597 THEORY-1048 NOTE-1238 THEORY-1099 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works and account set beside it, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp5wtkk — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1597 THEORY-1048 NOTE-1238 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works and account set beside it, nothing here rests on them -->
 
 # THEORY-1108: On Imachi and colleagues' cultivation of Candidatus Prometheoarchaeum syntrophicum MK-D1, the first Asgard archaeon grown in the laboratory is a small, internally simple coccus with long branching protrusions that degrades amino acids only in syntrophy, handing hydrogen and formate to partners that can be exchanged, and from its genome and other Asgard genomes the authors infer that the Asgard ancestor was likewise dependent on metabolic partners; the isolate is a modern relative separated from the host lineage by about two billion years, grown only in co-culture, and the entangle–engulf–endogenize model built on it is a hypothesis the authors call not definitive
 
@@ -118,3 +130,7 @@ from genomes expected. It did not.
   complexity and do not take it as contrary evidence.
 - **[LIT-1597](../literature.d/LIT-1597.md).** The hydrogen hypothesis shares the word "syntrophy" and
   little else with this model.
+
+## Note of 2026-10-30: promoted, and the wider thesis filed beside it
+
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Imachi and colleagues' cultivation shows and what they infer from it, and [NOTE-1238](../notes.d/NOTE-1238.md) read the paper in full. Whether the Asgard ancestor depended on metabolic partners is [THEORY-tmp5wtkk](THEORY-tmp5wtkk.md)'s question, Proposed, which keeps this entry's old promote_when.

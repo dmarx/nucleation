@@ -31,7 +31,6 @@ summary: >-
   time points.
 ---
 
-<!-- inactive-ok-file: THEORY-179 — Proposed; the finding this reading produces, filed with it -->
 
 # NOTE-657: Bhattacharyya et al. 2023, heritable iron memory in E. coli
 

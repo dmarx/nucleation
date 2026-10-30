@@ -1,21 +1,40 @@
 ---
 number: 488
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpaw08o
-promote_when: >-
-  A systematically sampled corpus of Russian military writing (Military
-  Thought, Army Collection, Red Star, senior officers' speeches), with the
-  selection rule stated and dissenting authors included, coded for how
-  hybrid war is defined. The account is supported if most writers define
-  it by its objective (a target state's orientation and worldview) with
-  conventional force subordinate to an information campaign, and in
-  trouble if most define it by its means, or if the definition is held by
-  a small set of authors only. The same corpus extended past 2022 would
-  test whether the full-scale invasion of Ukraine changed the view. More
-  quotations from the authors already cited cannot settle it.
-title: "Russian military writers of 2015–2020 use 'hybrid war' for a category of war marked off by its objective, reshaping a target state's governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as in Western usage, for a set of means below the threshold of armed conflict"
-version: 1
+title: 'Clark (2020), synthesising open writing by Russian military authors of 2015 to 2020, chiefly Chekinov and Bogdanov, Bartosh and Kiselev, with no stated rule for choosing sources, reports that they use "hybrid war" for a category of war marked off by its objective, reshaping a target state''s governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as he says Western usage does, for a set of means below the threshold of armed conflict'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the status review of 2026-10-30, at the status
+    review's ruling (the owner delegated these rulings; ADR-065, ADR-057;
+    ADR-047's evidence ruling), the source read in full in NOTE-012.
+    Narrowed: attributed to Clark's synthesis, its core authors and its lack
+    of a sampling rule named (NOTE-012, C1 and Limitations). Dropped: the
+    claim that Russian military writers of the period as a body use the term
+    so, the institutional reading Clark asserts and NOTE-012 rates weak to
+    moderate (C2). The old title: Russian military writers of 2015–2020 use
+    'hybrid war' for a category of war marked off by its objective,
+    reshaping a target state's governance, geostrategic orientation and
+    worldview, in which every action up to conventional military force is
+    subordinate to an information campaign, and not, as in Western usage,
+    for a set of means below the threshold of armed conflict. The old
+    promote_when: A systematically sampled corpus of Russian military
+    writing (Military Thought, Army Collection, Red Star, senior officers'
+    speeches), with the selection rule stated and dissenting authors
+    included, coded for how hybrid war is defined. The account is supported
+    if most writers define it by its objective (a target state's orientation
+    and worldview) with conventional force subordinate to an information
+    campaign, and in trouble if most define it by its means, or if the
+    definition is held by a small set of authors only. The same corpus
+    extended past 2022 would test whether the full-scale invasion of Ukraine
+    changed the view. More quotations from the authors already cited cannot
+    settle it. The wide form, which the source asserts, is kept as
+    THEORY-tmpe2s1g, Proposed, which extends this entry and inherits the
+    promote_when word for word (ADR-047, kind 1).
 tags:
 - society-and-governance
 date: '2026-10-16'
@@ -30,8 +49,9 @@ summary: >-
   institutional weak to moderate, and the US policy recommendations
   advocacy. Written before the 2022 invasion.
 ---
+<!-- inactive-ok-file: THEORY-tmpe2s1g — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
-# THEORY-488: Russian military writers of 2015–2020 use 'hybrid war' for a category of war marked off by its objective, reshaping a target state's governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as in Western usage, for a set of means below the threshold of armed conflict
+# THEORY-488: Clark (2020), synthesising open writing by Russian military authors of 2015 to 2020, chiefly Chekinov and Bogdanov, Bartosh and Kiselev, with no stated rule for choosing sources, reports that they use "hybrid war" for a category of war marked off by its objective, reshaping a target state's governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as he says Western usage does, for a set of means below the threshold of armed conflict
 
 ## Source
 

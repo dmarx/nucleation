@@ -46,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-868 THEORY-867 — Proposed; the two objections filed from the same batch, named -->
 <!-- inactive-ok-file: CLAIM-412 CLAIM-136 CLAIM-138 — Proposed; the record's claims this account bears on, not leaned on -->
-<!-- inactive-ok-file: THEORY-959 THEORY-953 — Proposed; the two readings of Isaac filed on 2026-10-25, named -->
+<!-- inactive-ok-file: THEORY-959 — Proposed; a reading of Isaac filed on 2026-10-25, named -->
 
 # THEORY-880: The specific phenomenal character of an experience is fixed by its place in a quality space, the structure of all the discriminations a sensory system can make, and that structure is mirrored many-to-one in neural feature maps; whether the state is conscious at all is left to a separate general mechanism; so experiences are holistic, a change anywhere in the space can change every experience in it, and spectrum inversion is excluded actually by the asymmetry of colour space and nomologically by its ties to the other senses
 

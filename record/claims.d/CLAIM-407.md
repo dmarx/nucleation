@@ -74,7 +74,6 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-122 CLAIM-127 — Proposed; the earlier, unparameterized appearances of this result, cited as its history, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-174 — Proposed; named as what this result does not test, open -->
-<!-- inactive-ok-file: THEORY-852 — Proposed; Szeidl and Szucs's structural split, cited as an instance of the shape, nothing rests on it -->
 
 # CLAIM-407: A coarse-graining exactly informationally closed under a process's ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T's fibres over the states of positive probability
 

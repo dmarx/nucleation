@@ -1,20 +1,32 @@
 ---
 number: 1074
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmphcxoi
-promote_when: >-
-  A general result that, for any arrangement of commuting classical
-  subsystems coupled unitarily, the relative facts that the states held
-  relative to two different outside systems assign never conflict about
-  the same variables, with the conditions on "coupling properly" stated;
-  or a scenario meeting those conditions in which they do conflict, which
-  would refute it. Further worked examples computed inside one joint
-  distribution cannot settle it, because there agreement follows from
-  probability theory. Neither can the local-friendliness theorems, which
-  bear on absolute facts, not on agreement between perspectives.
 title: 'In Di Biagio and Rovelli''s relational account two classical subsystems'' perspectives merge, agreeing on a variable''s value and on each other''s, when they couple to that variable or to each other, and a coupling to a complementary variable can remove a relative fact from a perspective that did not interact; that this answers the combination problem and keeps perspectives consistent is shown only in worked examples computed relative to a single outside system'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings); ADR-065, ADR-057. The title
+    reports what the paper computes and that its general claims rest on
+    worked examples computed relative to one outside system; NOTE-1214 read
+    it in full from v2, no clause of the condition asks for v1, and nothing
+    in the record contradicts the report. The old promote_when asked that
+    the general claims be true: "A general result that, for any arrangement
+    of commuting classical subsystems coupled unitarily, the relative facts
+    that the states held relative to two different outside systems assign
+    never conflict about the same variables, with the conditions on
+    "coupling properly" stated; or a scenario meeting those conditions in
+    which they do conflict, which would refute it. Further worked examples
+    computed inside one joint distribution cannot settle it, because there
+    agreement follows from probability theory. Neither can the
+    local-friendliness theorems, which bear on absolute facts, not on
+    agreement between perspectives." It moves word for word to
+    THEORY-tmpp0j0p, Proposed, which carries the general claim and extends
+    this entry (ADR-065 §3; ADR-047, kind 1).
 tags:
 - quantum-foundations
 date: '2026-10-27'
@@ -24,12 +36,13 @@ summary: >-
   Di Biagio and Rovelli (2025), [LIT-1676](../literature.d/LIT-1676.md), read from arXiv v2 in
   [NOTE-1214](../notes.d/NOTE-1214.md), §VI and Apps. D–E. The merge, and the disturbance of a
   third party's relative fact, are computed in a three-system example and
-  in Wigner's friend. Proposed because the general claims, a solution to
-  RQM's combination problem and consistency of perspectives, are asserted.
+  in Wigner's friend. The general claims, a solution to
+  RQM's combination problem and consistency of perspectives, are asserted,
+  not shown; whether they hold is THEORY-tmpp0j0p, Proposed.
   Every computation is relative to one outside system, where agreement is
   automatic. This is the same gap [THEORY-621](THEORY-621.md) and [THEORY-1080](THEORY-1080.md) name.
 ---
-<!-- inactive-ok-file: THEORY-621 THEORY-1080 — Proposed; the earlier statements whose consistency gap this restates, cited as open -->
+<!-- inactive-ok-file: THEORY-621 — Proposed; the earlier statement whose consistency gap this restates, cited as open -->
 
 # THEORY-1074: In Di Biagio and Rovelli's relational account two classical subsystems' perspectives merge, agreeing on a variable's value and on each other's, when they couple to that variable or to each other, and a coupling to a complementary variable can remove a relative fact from a perspective that did not interact; that this answers the combination problem and keeps perspectives consistent is shown only in worked examples computed relative to a single outside system
 

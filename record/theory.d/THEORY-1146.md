@@ -1,34 +1,62 @@
 ---
 number: 1146
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmppip5e
-promote_when: >-
-  Results on causal systems larger than toy SCMs, with confounding and a
-  known causal partition, in which the information bottleneck at full
-  sufficiency recovers the observational partition by p(y | x) and the
-  causal bottleneck, computed through an adjustment set, recovers the
-  partition by p(y | do(x)), reliably and with the optimiser's failure
-  rate reported; or a case where the observational and causal partitions
-  differ and the causal bottleneck does not find the latter.
-title: 'Under confounding the partition of a variable X by what it predicts about a target Y differs from its partition by what setting it does to Y, so the information bottleneck at full sufficiency learns distinctions no intervention could use and misses ones only intervention reveals, while the causal information bottleneck, computed from observational data through a backdoor set, recovers the causal partition; in three toy models projected gradient search found it in 95 to 100 percent of runs'
-version: 1
+title: 'Under confounding the partition of a variable X by what it predicts about a target Y can differ from its partition by what setting it does to Y, so the information bottleneck at full sufficiency can learn distinctions no intervention could use and miss ones only intervention reveals, as it did in two confounded toy models, while the causal information bottleneck, computed from observational data through a backdoor set, recovered the causal partition in all three toy models, projected gradient search finding it in 95 to 100 percent of runs'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-second status review, at the
+    status review's ruling (the owner delegated these rulings;
+    ADR-065; ADR-047 kind 3 for the narrowing): NOTE-1347 read the
+    paper in full. The old title stated universally that under
+    confounding the partitions differ and that the information
+    bottleneck learns useless distinctions and misses causal ones;
+    confounding makes that possible, not necessary, so the title now
+    says "can" and reports what happened in the two confounded toy
+    models. That the causal partition is the optimum is THEORY-1125.
+    Whether search finds it on larger systems moves to
+    QUESTION-tmprxak2, which this entry now bears on. The old title:
+    "Under confounding the partition of a variable X by what it
+    predicts about a target Y differs from its partition by what
+    setting it does to Y, so the information bottleneck at full
+    sufficiency learns distinctions no intervention could use and
+    misses ones only intervention reveals, while the causal
+    information bottleneck, computed from observational data through a
+    backdoor set, recovers the causal partition; in three toy models
+    projected gradient search found it in 95 to 100 percent of runs"
+    The old promote_when: "Results on causal systems larger than toy
+    SCMs, with confounding and a known causal partition, in which the
+    information bottleneck at full sufficiency recovers the
+    observational partition by p(y | x) and the causal bottleneck,
+    computed through an adjustment set, recovers the partition by p(y
+    | do(x)), reliably and with the optimiser's failure rate reported;
+    or a case where the observational and causal partitions differ and
+    the causal bottleneck does not find the latter."
 tags:
 - causality
 - information-theory
 date: '2026-10-29'
 source:
 - LIT-1802
+bears_on:
+- QUESTION-tmprxak2
 summary: >-
   Simoes, Dastani and van Ommen (UAI 2025), [LIT-1802](../literature.d/LIT-1802.md), §8 and
   Appendices E–F, read in [NOTE-1347](../notes.d/NOTE-1347.md). Three SCMs with 7, 4 and 16
   values of X; ensembles of 4 to 12 optimisers; a penalty against unused
   values of T was needed at full control. The difference between the
   partitions follows from the definitions; what the experiments add is
-  that the search finds the causal one. Proposed: toy problems only.
+  that the search finds the causal one, in toy problems only. Active as a
+  report (ADR-065); whether search finds it at scale is QUESTION-tmprxak2.
 ---
 
-# THEORY-1146: Under confounding the partition of a variable X by what it predicts about a target Y differs from its partition by what setting it does to Y, so the information bottleneck at full sufficiency learns distinctions no intervention could use and misses ones only intervention reveals, while the causal information bottleneck, computed from observational data through a backdoor set, recovers the causal partition; in three toy models projected gradient search found it in 95 to 100 percent of runs
+<!-- inactive-ok-file: QUESTION-tmprxak2 — Open; the question this report leaves, cited as open -->
+
+# THEORY-1146: Under confounding the partition of a variable X by what it predicts about a target Y can differ from its partition by what setting it does to Y, so the information bottleneck at full sufficiency can learn distinctions no intervention could use and miss ones only intervention reveals, as it did in two confounded toy models, while the causal information bottleneck, computed from observational data through a backdoor set, recovered the causal partition in all three toy models, projected gradient search finding it in 95 to 100 percent of runs
 
 ## Source
 
@@ -76,3 +104,10 @@ encoders that leave values of T unused (p. 17).
   without one the causal partition is not identifiable this way.
 - **That the abstractions reveal causal structure better than direct
   inspection.** The paper argues it (p. 7) and compares with nothing.
+
+## Note of 2026-10-30: narrowed and promoted
+
+The title said the partitions differ under confounding and that the
+bottleneck learns and misses distinctions, as if always; it now says what
+confounding makes possible and what the toy models showed. Whether the
+search scales is [QUESTION-tmprxak2](../questions.d/QUESTION-tmprxak2.md).

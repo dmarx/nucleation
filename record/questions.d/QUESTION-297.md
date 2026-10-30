@@ -22,7 +22,7 @@ summary: >-
   injury becomes part of its identity (chosen trauma, cultural trauma),
   which is the owner's extended self running backward in time.
 ---
-<!-- inactive-ok-file: QUESTION-301 QUESTION-299 CLAIM-491 CLAIM-492 CLAIM-420 THEORY-889 THEORY-179 LIT-1740 LIT-1745 LIT-1762 LIT-1708 LIT-1746 LIT-1738 LIT-1751 LIT-1764 LIT-1696 LIT-1692 LIT-1715 LIT-1793 LIT-1718 LIT-1770 LIT-1701 LIT-1727 LIT-1679 — Open, Proposed or Deferred; the questions, claims, case and works the question is organised around, cited as open -->
+<!-- inactive-ok-file: QUESTION-301 QUESTION-299 CLAIM-491 CLAIM-492 CLAIM-420 LIT-1740 LIT-1745 LIT-1762 LIT-1708 LIT-1746 LIT-1738 LIT-1751 LIT-1764 LIT-1696 LIT-1692 LIT-1715 LIT-1793 LIT-1718 LIT-1770 LIT-1701 LIT-1727 LIT-1679 — Open, Proposed or Deferred; the questions, claims, case and works the question is organised around, cited as open -->
 
 # QUESTION-297: When the effects of trauma reach descendants who did not live through it, by which route do they travel: germline epigenetics, the womb, parenting, or a group's narrative and identity; and on the identity route, does an ancestor's injury become part of the descendant's self?
 

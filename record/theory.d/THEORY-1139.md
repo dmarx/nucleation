@@ -1,19 +1,40 @@
 ---
 number: 1139
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpe8kmr
-promote_when: >-
-  An inspection of the restriction maps a sheaf-learning model fits on
-  real heterophilic graphs, against a labelling held out from that
-  inspection, showing that the learned transports take the class-aligned
-  form the separation theory prescribes (sign flips or rotations across
-  classes, identity within them) and that accuracy depends on that form,
-  for instance by an ablation that keeps the learned maps' magnitudes and
-  scrambles their alignment. Benchmark accuracy alone, however high, does
-  not settle it.
-title: 'A graph network that learns its sheaf restriction maps from node features at each layer reaches the top of the standard small heterophilic node-classification benchmarks and stays within about one point of the best on homophilic ones; on a synthetic balanced bipartite graph it learns the negative transport the theory prescribes, but whether the maps it learns on real graphs have the geometry the theory credits for its success has not been examined'
-version: 1
+title: 'A graph network that learns its sheaf restriction maps from node features at each layer reaches the top, mostly within one standard deviation, of the standard small heterophilic node-classification benchmarks and stays within about one point of the best on homophilic ones; on a synthetic balanced bipartite graph it learns the negative transport the theory prescribes, but whether the maps it learns on real graphs have the geometry the theory credits for its success has not been examined'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status
+    review's ruling (the owner delegated these rulings; ADR-065): the
+    title reports one study's benchmarks and synthetic experiment,
+    with its concession about real graphs kept, and NOTE-1332 read the
+    paper in full. The title now says that most first places are
+    within one standard deviation, as the body already did. The wider
+    thesis the paper asserts, that the model succeeds because it
+    learns the geometry the theory prescribes, moves to
+    THEORY-tmpu5c8o, Proposed, which extends this entry and keeps the
+    old condition (ADR-047 kind 1). The old title: "A graph network
+    that learns its sheaf restriction maps from node features at each
+    layer reaches the top of the standard small heterophilic
+    node-classification benchmarks and stays within about one point of
+    the best on homophilic ones; on a synthetic balanced bipartite
+    graph it learns the negative transport the theory prescribes, but
+    whether the maps it learns on real graphs have the geometry the
+    theory credits for its success has not been examined" The old
+    promote_when: "An inspection of the restriction maps a
+    sheaf-learning model fits on real heterophilic graphs, against a
+    labelling held out from that inspection, showing that the learned
+    transports take the class-aligned form the separation theory
+    prescribes (sign flips or rotations across classes, identity
+    within them) and that accuracy depends on that form, for instance
+    by an ablation that keeps the learned maps' magnitudes and
+    scrambles their alignment. Benchmark accuracy alone, however high,
+    does not settle it."
 tags:
 - representation-learning
 - network-science
@@ -25,12 +46,15 @@ summary: >-
   in [NOTE-1332](../notes.d/NOTE-1332.md). The results are empirical: Table 1 on nine datasets
   of 183 to 18,717 nodes with ten fixed splits, baselines copied from
   earlier papers, spreads of one to nine points; and one synthetic
-  bipartite experiment in which the learned maps are inspected. Proposed:
-  the paper's explanation of its accuracy, that the model learns the
-  right geometry, is tested only on the synthetic case.
+  bipartite experiment in which the learned maps are inspected. Active as
+  a report (ADR-065); the paper's explanation of its accuracy, that the
+  model learns the right geometry, is tested only on the synthetic case
+  and is THEORY-tmpu5c8o, Proposed.
 ---
 
-# THEORY-1139: A graph network that learns its sheaf restriction maps from node features at each layer reaches the top of the standard small heterophilic node-classification benchmarks and stays within about one point of the best on homophilic ones; on a synthetic balanced bipartite graph it learns the negative transport the theory prescribes, but whether the maps it learns on real graphs have the geometry the theory credits for its success has not been examined
+<!-- inactive-ok-file: THEORY-tmpu5c8o — Proposed; the wider thesis split from this entry, cited as open -->
+
+# THEORY-1139: A graph network that learns its sheaf restriction maps from node features at each layer reaches the top, mostly within one standard deviation, of the standard small heterophilic node-classification benchmarks and stays within about one point of the best on homophilic ones; on a synthetic balanced bipartite graph it learns the negative transport the theory prescribes, but whether the maps it learns on real graphs have the geometry the theory credits for its success has not been examined
 
 ## Source
 
@@ -82,3 +106,10 @@ specific baselines on the benchmarks.
   here ([QUESTION-130](../questions.d/QUESTION-130.md)).
 - **Anything about larger graphs or other tasks.** Only node
   classification on these nine sets is reported.
+
+## Note of 2026-10-30: promoted
+
+Promoted as a report of what the paper measured ([ADR-065](../decisions.d/ADR-065.md)). The paper's
+explanation of its accuracy, that the learned maps have the class-aligned
+geometry its theory prescribes, is [THEORY-tmpu5c8o](THEORY-tmpu5c8o.md), Proposed, which
+extends this entry and keeps its old condition.

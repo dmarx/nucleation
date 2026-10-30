@@ -29,12 +29,19 @@ work. Then take work in this order:
    than a premise that could be promoted. A sole blocker is counted, not
    listed, while a recent blocker note holds the premise or every claim it
    holds back: that note already says what the wait is.
-3. **Blocker notes a premise has changed since.** The wait may be over.
+3. **Blocker notes something they name has moved since.** An entry the note
+   names was revised, or a work it names got a reading, after the note was
+   written. The wait may be over, so look before the timer runs out.
 4. **Proposed readings no source of which is read in full.** These need
    reading, not review. Leave them out of clusters.
 5. **Live claims that need a work no NOTE reads.** An unread work takes no
    edge (ADR-058). Either the work is read, or the edge goes and the body
    keeps the citation; an Active claim on the list is checked first.
+
+**The held timer is a floor, not the review.** An entry with a blocker note
+under 14 days old is listed as held. The timer guarantees it is looked at
+again at least once; it does not stop anyone looking sooner, and section 3
+brings it back early when what it waits on moves (ADR-057 v7).
 
 The load-bearing ranking by reach came last on 2026-10-30. By then the most
 any Proposed entry was relied on was 1, and the ranking had stopped ordering
@@ -56,6 +63,14 @@ the NOTEs on its sources. It proposes exact text and edits nothing.
 - **A THEORY** is a reading. It goes Active when it is read in full and its
   `promote_when` holds, or when its title claims no more than one study read
   in full measured (ADR-047's evidence rulings).
+  - A `promote_when` asks only for what the title asserts (ADR-065). A title
+    that reports what a source proposes, argues or finds, or what one study
+    measured with its hedges kept, goes Active on its reading; a demand for
+    replication or an independent test moves to a QUESTION, or, where the
+    source asserts the wider thesis, to a Proposed THEORY that `extends` the
+    entry and keeps the old condition. A demand for the version of record of
+    a copy already read is dropped unless a discrepancy is named; the NOTE
+    records which copy was read. A general title keeps its strict condition.
   - A checked, step-by-step re-derivation meets a request for a proof. Write
     it out, and put any computation in a script with controls that someone
     else re-runs before the ruling.

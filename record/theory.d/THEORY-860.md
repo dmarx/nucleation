@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwiydx
 title: 'In Szeidl and Szucs''s model of two outlets competing for readers and advertisers, where state-owned advertisers reward only the connected outlet''s slant, with weight δ, every equilibrium has the slant gap between the connected and the unconnected outlet equal to their owners'' ideal-point gap plus a favor-exchange term (βδ/NT)·Σ over government advertisers of masⱼWⱼ, up to measurement noise; readers'' preference for slant cancels from the gap, so equal observed gaps can come from different mixes of ideology and exchange'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -14,6 +14,13 @@ history:
     step by step, which meets the condition for Active under ADR-047 v2.
     The last clause, that equal gaps can come from different mixes, is the
     record's reading of (8).
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    THEORY-852 went Active at the twenty-second status review, at the status
+    review's ruling (the owner delegated these rulings); ADR-065; the
+    parenthetical that called it Proposed is corrected. Nothing else
+    changes.
 tags:
 - society-and-governance
 - social-science
@@ -31,7 +38,6 @@ summary: >-
   and one-shot episodes. The authors check numerically, not analytically,
   that the conditions pick out an equilibrium at their estimates.
 ---
-<!-- inactive-ok-file: THEORY-852 — Proposed; the structural estimates that rest on this condition, filed beside it -->
 
 # THEORY-860: In Szeidl and Szucs's model of two outlets competing for readers and advertisers, where state-owned advertisers reward only the connected outlet's slant, with weight δ, every equilibrium has the slant gap between the connected and the unconnected outlet equal to their owners' ideal-point gap plus a favor-exchange term (βδ/NT)·Σ over government advertisers of masⱼWⱼ, up to measurement noise; readers' preference for slant cancels from the gap, so equal observed gaps can come from different mixes of ideology and exchange
 
@@ -90,7 +96,7 @@ that to argue that audiences cannot explain the change in relative slant.
   sum of the two terms, not each. Separating them takes variation in the
   exchange term with the ideal points held fixed, which is the paper's
   identifying assumption, and the empirical split is
-  [THEORY-852](THEORY-852.md), Proposed.
+  [THEORY-852](THEORY-852.md).
 - **Not robust to more than two outlets** as stated. With more outlets
   the marginal shares need not coincide and the reader term need not
   cancel.

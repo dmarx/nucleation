@@ -4,7 +4,7 @@ status: Answered
 formerly:
 - QUESTION-tmp4147z
 title: 'In the coupled meaning–authority model, is authority''s effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime''s κ′, how far the prevailing interpretation bends the reading of the evidence?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -28,6 +28,13 @@ history:
     only varied κ′ (κ′ = κ′₀ + c r), its effect on authority would be
     4ηs c r m, second order at symmetry, and would move no linear threshold.
     The answer is unchanged.
+- version: 5
+  date: '2026-10-30'
+  note: >-
+    THEORY-852 went Active at the twenty-second status review, at the status
+    review's ruling (the owner delegated these rulings); ADR-065; the
+    parenthetical that called it Proposed is corrected. Nothing else
+    changes.
 tags:
 - complex-systems
 - epistemology
@@ -48,7 +55,7 @@ summary: >-
 answered_by:
 - CLAIM-400
 ---
-<!-- inactive-ok-file: THEORY-838 THEORY-852 — Proposed; readings of 2026-10-21 named as static candidates, not answers -->
+<!-- inactive-ok-file: THEORY-838 — Proposed; readings of 2026-10-21 named as static candidates, not answers -->
 <!-- inactive-ok-file: CLAIM-338 CLAIM-342 CLAIM-297 — Proposed; the claims and the candidate term the question works from, cited as open -->
 
 # QUESTION-253: In the coupled meaning–authority model, is authority's effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime's κ′, how far the prevailing interpretation bends the reading of the evidence?
@@ -109,7 +116,7 @@ empirical candidate for which facts become legible enough to count as
 evidence, but it is an aggregate cross-section with no dynamics. Szeidl and
 Szucs's endogenous-ownership counterfactual has the shape of the slower
 variable, authority setting owners' ideology and ideology setting slant
-([THEORY-852](../theory.d/THEORY-852.md), Proposed), but only across episodes in a static model,
+([THEORY-852](../theory.d/THEORY-852.md)), but only across episodes in a static model,
 not as a dynamical one. Nor whether legibility should be adopted
 as a term ([TERM-064](../terms.d/TERM-064.md) is Proposed).
 

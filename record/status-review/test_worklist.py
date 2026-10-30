@@ -266,3 +266,22 @@ def test_a_sole_blocker_a_recent_note_already_holds_is_not_work(tmp_path):
         r.bodies[c] = "\n## Note of 2026-10-29: what holds it back\n\nA missing result.\n"
     assert [p for p, _ in r.open_sole_blockers(today)] == ["TERM-001"]
     assert [p for p, _ in r.open_sole_blockers(date(2026, 11, 20))] == ["CLAIM-015", "TERM-001"]
+
+
+def test_a_blocker_note_is_stale_when_a_work_or_entry_it_names_has_moved_since(tmp_path):
+    # a held claim's timer guarantees one look at most 14 days on; this brings it back sooner when
+    # what its note waits on moves: a work it names gets read, or any entry it names is revised
+    r = record(tmp_path)
+    r.docs |= {"LIT-004": {"status": "Unavailable"}, "THEORY-009": {"status": "Proposed"}}
+    r.bodies["CLAIM-015"] = ("\n## Note of 2026-10-20: what holds it back\n\n"
+                             "It waits on LIT-004, unread, and on THEORY-009.\n")
+    assert r.stale_blockers() == []
+    r.docs["NOTE-003"] = {"status": "Read", "paper": "LIT-004", "date": "2026-10-25"}
+    r = Record(r.docs, r.bodies)
+    assert r.stale_blockers() == [("CLAIM-015", "2026-10-20", ["LIT-004"])]
+    r.docs["THEORY-009"]["history"] = [{"version": 2, "date": "2026-10-26", "note": "Narrowed."}]
+    assert r.stale_blockers() == [("CLAIM-015", "2026-10-20", ["LIT-004", "THEORY-009"])]
+    # a reading dated before the note is what the note already knew
+    r.docs["NOTE-003"]["date"] = "2026-10-19"
+    r.docs["THEORY-009"]["history"] = []
+    assert r.stale_blockers() == []

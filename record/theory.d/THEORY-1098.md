@@ -1,22 +1,10 @@
 ---
 number: 1098
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp247k7
-promote_when: >-
-  Evidence that dates the steps in the Monocercomonoides line: the SUF
-  replacement, the loss of the glycine cleavage system and SHMT, and the
-  loss of the organelle, placed in order on a tree of Preaxostyla with
-  several more amitochondriate and MRO-bearing genomes, and a functional
-  account of what the MRO of the closest relatives still does that M.
-  exilis does without. Proteomic or tagged-marker evidence that M. exilis
-  has no mitosome below microscopic resolution would close the other gap.
-  A second annotation of the same draft genome cannot settle it. It is
-  refuted if a reduced mitosome is found, or if genes that compensate for
-  the organelle's absence turn up once the hypothetical proteins are
-  characterized.
 title: 'On Karnkowska and colleagues'' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle''s essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -27,13 +15,37 @@ history:
     among relatives, and "no compensating changes" is an absence bounded
     by annotation. The authors do not exclude a highly reduced mitosome
     below FIB-SEM resolution. Hence Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065). The title
+    reports what Karnkowska and colleagues' genome analysis finds and
+    infers; NOTE-1243 read the paper in full, and nothing in the record
+    contradicts the report. What the condition asked beyond the title,
+    that the authors be right, moves to THEORY-tmpvjwpy, Proposed, which
+    extends this entry and keeps the condition word for word (ADR-065
+    §3). The answers edge on QUESTION-277 is moved to bears_on (ADR-060): the
+    reading is evidence on the question, not an answer to it as posed.
+    The old promote_when: "Evidence that dates the steps in the
+    Monocercomonoides line: the SUF replacement, the loss of the glycine
+    cleavage system and SHMT, and the loss of the organelle, placed in
+    order on a tree of Preaxostyla with several more amitochondriate and
+    MRO-bearing genomes, and a functional account of what the MRO of the
+    closest relatives still does that M. exilis does without. Proteomic
+    or tagged-marker evidence that M. exilis has no mitosome below
+    microscopic resolution would close the other gap. A second
+    annotation of the same draft genome cannot settle it. It is refuted
+    if a reduced mitosome is found, or if genes that compensate for the
+    organelle's absence turn up once the hypothetical proteins are
+    characterized."
 tags:
 - endosymbiosis
 - natural-sciences
 date: '2026-10-27'
 source:
 - LIT-1574
-answers:
+bears_on:
 - QUESTION-277
 summary: >-
   Karnkowska et al. (2019), [LIT-1574](../literature.d/LIT-1574.md), read in [NOTE-1243](../notes.d/NOTE-1243.md). The SUF
@@ -46,7 +58,8 @@ summary: >-
   eukaryote. The order is inferred, not dated, and absence is limited by
   annotation.
 ---
-<!-- inactive-ok-file: QUESTION-277 CASE-168 THEORY-1100 THEORY-1049 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpvjwpy — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: QUESTION-277 CASE-168 THEORY-1100 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
 
 # THEORY-1098: On Karnkowska and colleagues' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found
 
@@ -126,3 +139,7 @@ exilis*, making it the single trigger.
 - **[THEORY-1049](THEORY-1049.md).** McCutcheon et al. find the host supplying what a
   shrinking symbiont lacks. Here the host supplies everything the
   organelle once did, and the organelle goes.
+
+## Note of 2026-10-30: promoted, and the wider thesis filed beside it
+
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Karnkowska and colleagues' genome analysis finds and infers, and [NOTE-1243](../notes.d/NOTE-1243.md) read the paper in full. Whether Monocercomonoides lost its mitochondrion in this way is [THEORY-tmpvjwpy](THEORY-tmpvjwpy.md)'s question, Proposed, which keeps this entry's old promote_when.

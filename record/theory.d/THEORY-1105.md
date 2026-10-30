@@ -1,26 +1,10 @@
 ---
 number: 1105
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmphywi5
-promote_when: >-
-  Two kinds of result are needed, one per half of the claim. For the
-  donors: the Myxococcota and Planctomycetota signals recovered by an
-  independent pipeline under a strict pangenome filter (such as
-  Tobiasson et al.'s 50% of species per class), and shown not to be
-  genes carried into the eukaryotic lineage by the Asgard or
-  alphaproteobacterial partner. For the waves: a clock other than stem
-  length, or a validation of stem length on genes of known common
-  acquisition, that orders Planctomycetota before the mitochondrion.
-  Neither half establishes that any donor was a partner in an
-  association. That would need evidence of a kind gene ancestries do not
-  give, such as a cell-biological or physiological trace of a third
-  partner. More stem-length analyses, or more donors found by the same
-  calibrated thresholds, cannot settle it. It is in trouble if the extra
-  donors vanish under the stricter filter, or if an independent clock
-  puts their genes after the mitochondrion's.
 title: 'In Bernabeu, Manzano-Morales, Marcet-Houben and Gabaldón''s reconstruction of the last eukaryotic common ancestor''s proteome, two bacterial phyla besides the mitochondrial ancestor, Myxococcota and Planctomycetota, each account for a share of the proteome comparable to that of Alphaproteobacteria and Asgard archaea under thresholds calibrated on those accepted partners, and stem-length distributions order the acquisitions as waves, Asgard first, then Planctomycetota, then the mitochondrial ancestor and Myxococcota together; the authors read this as serial associations with several partners, while conceding that their data cannot say whether any donor was a symbiont'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -32,13 +16,41 @@ history:
     Tobiasson et al. dispute on their own data (THEORY-1101). The step
     from gene donors to partners is one the authors themselves do not
     take as shown. Hence Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065). The title
+    reports what Bernabeu and colleagues' reconstruction finds and how
+    the authors read it; NOTE-1237 read the paper in full, and nothing
+    in the record contradicts the report. What the condition asked
+    beyond the title, that the authors be right, moves to
+    THEORY-tmppt0ig, Proposed, which extends this entry and keeps the
+    condition word for word (ADR-065 §3). The answers edge on QUESTION-277 is moved
+    to bears_on (ADR-060): the reading is evidence on the question, not
+    an answer to it as posed. The old promote_when: "Two kinds of result
+    are needed, one per half of the claim. For the donors: the
+    Myxococcota and Planctomycetota signals recovered by an independent
+    pipeline under a strict pangenome filter (such as Tobiasson et al.'s
+    50% of species per class), and shown not to be genes carried into
+    the eukaryotic lineage by the Asgard or alphaproteobacterial
+    partner. For the waves: a clock other than stem length, or a
+    validation of stem length on genes of known common acquisition, that
+    orders Planctomycetota before the mitochondrion. Neither half
+    establishes that any donor was a partner in an association. That
+    would need evidence of a kind gene ancestries do not give, such as a
+    cell-biological or physiological trace of a third partner. More
+    stem-length analyses, or more donors found by the same calibrated
+    thresholds, cannot settle it. It is in trouble if the extra donors
+    vanish under the stricter filter, or if an independent clock puts
+    their genes after the mitochondrion's."
 tags:
 - endosymbiosis
 - natural-sciences
 date: '2026-10-27'
 source:
 - LIT-1561
-answers:
+bears_on:
 - QUESTION-277
 summary: >-
   Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón (2026), [LIT-1561](../literature.d/LIT-1561.md), read
@@ -52,7 +64,8 @@ summary: >-
   symbiotic interaction", and also say their data "do not provide
   information on the host or endosymbiotic nature of any partner".
 ---
-<!-- inactive-ok-file: NOTE-1237 THEORY-1104 THEORY-1101 THEORY-1109 NOTE-1242 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
+<!-- inactive-ok-file: THEORY-tmppt0ig — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: NOTE-1237 NOTE-1242 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 # THEORY-1105: In Bernabeu, Manzano-Morales, Marcet-Houben and Gabaldón's reconstruction of the last eukaryotic common ancestor's proteome, two bacterial phyla besides the mitochondrial ancestor, Myxococcota and Planctomycetota, each account for a share of the proteome comparable to that of Alphaproteobacteria and Asgard archaea under thresholds calibrated on those accepted partners, and stem-length distributions order the acquisitions as waves, Asgard first, then Planctomycetota, then the mitochondrial ancestor and Myxococcota together; the authors read this as serial associations with several partners, while conceding that their data cannot say whether any donor was a symbiont
 
 ## Source
@@ -143,3 +156,7 @@ in dispute.
   disagreement. The distribution shown is of gene donors, so it bears on G.
   It bears on the question's routes to dependence only if the donors were
   partners, and the paper leaves that open.
+
+## Note of 2026-10-30: promoted, and the wider thesis filed beside it
+
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Bernabeu and colleagues' reconstruction finds and how the authors read it, and [NOTE-1237](../notes.d/NOTE-1237.md) read the paper in full. Whether Myxococcota and Planctomycetota were major donors in waves is [THEORY-tmppt0ig](THEORY-tmppt0ig.md)'s question, Proposed, which keeps this entry's old promote_when.

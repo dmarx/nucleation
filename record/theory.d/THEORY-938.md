@@ -30,7 +30,7 @@ summary: >-
   size the process is absorbed in a pure profile with probability one
   (Proposition 5). The equivalence is pointwise in time, not uniform.
 ---
-<!-- inactive-ok-file: NOTE-1149 THEORY-899 THEORY-905 CLAIM-444 CLAIM-443 CLAIM-446 CLAIM-451 — Proposed or new; the source and the accounts this bears on, named -->
+<!-- inactive-ok-file: NOTE-1149 THEORY-905 CLAIM-444 CLAIM-443 CLAIM-446 CLAIM-451 — Proposed or new; the source and the accounts this bears on, named -->
 
 # THEORY-938: Cross learning has the expected motion of the replicator dynamic and follows it on any finite horizon in the continuous-time limit, but for every learning speed the discrete process converges with probability one to a pure strategy profile, even in games where the replicator dynamic cycles
 

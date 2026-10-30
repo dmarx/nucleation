@@ -1,27 +1,45 @@
 ---
 number: 124
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8wxwa
-promote_when: >-
-  A second recording, not the IBL Brainwide Map, analysed for both halves
-  of the claim: neuron types tested against a covariance-matched unimodal
-  null in each area, and separability tested over the conditions each
-  area distinguishes. It should differ from the source in the way that
-  most threatens the claim: several tasks, or one with many more
-  variables, or a less-trained animal, or another species such as monkey
-  prefrontal cortex, where categorical results have been reported. The
-  claim holds if non-sensory areas again fail the null while their
-  distinguishable conditions stay separable in nearly every split. It is
-  refuted if non-sensory areas there broadly form types beyond the null,
-  or if their distinguishable conditions sit in near-degenerate,
-  for example collinear, geometry, so that many dichotomies fail. It is
-  also weakened if separability falls well below 1 under a stricter
-  criterion, such as a fixed accuracy threshold in the large-N limit.
-  Further analyses of the IBL data cannot settle it, since they share the
-  task, the variables and the animals.
-title: 'During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way'
-version: 1
+title: 'In Posani et al.''s analysis of the IBL Brainwide Map, recorded while trained mice performed one visual decision task, the eight-variable selectivity profiles of neurons within one cortical area clustered beyond a covariance-matched Gaussian null only in VISp, AUDp and SSp-ul of about 20 areas tested, while profiles pooled across areas clustered along anatomical lines; and over the task conditions each area distinguishes, at least 95% of random balanced dichotomies were linearly decodable above a label-shuffled null in 15 of 16 areas, a lenient criterion'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the status review of 2026-10-30, at the status
+    review's ruling (the owner delegated these rulings; ADR-065, ADR-057;
+    ADR-047's evidence ruling), the source read in full in NOTE-549.
+    Narrowed: attributed to the paper, the dataset and the single task
+    named, "rarely form discrete functional types" stated as the
+    Gaussian-null test it was, and "separable in nearly every way" as the
+    dichotomy count above a shuffle null. Dropped: the general statement
+    about neurons in mouse cortex during a visual decision task, which the
+    paper asserts in its title ("rarely categorical, highly separable
+    representations along the cortical hierarchy"). The old title: During a
+    visual decision task, neurons within a single area of mouse cortex
+    rarely form discrete functional types, yet the task conditions the area
+    distinguishes are linearly separable in nearly every way. The old
+    promote_when: A second recording, not the IBL Brainwide Map, analysed
+    for both halves of the claim: neuron types tested against a
+    covariance-matched unimodal null in each area, and separability tested
+    over the conditions each area distinguishes. It should differ from the
+    source in the way that most threatens the claim: several tasks, or one
+    with many more variables, or a less-trained animal, or another species
+    such as monkey prefrontal cortex, where categorical results have been
+    reported. The claim holds if non-sensory areas again fail the null while
+    their distinguishable conditions stay separable in nearly every split.
+    It is refuted if non-sensory areas there broadly form types beyond the
+    null, or if their distinguishable conditions sit in near-degenerate, for
+    example collinear, geometry, so that many dichotomies fail. It is also
+    weakened if separability falls well below 1 under a stricter criterion,
+    such as a fixed accuracy threshold in the large-N limit. Further
+    analyses of the IBL data cannot settle it, since they share the task,
+    the variables and the animals. The wide form, which the source asserts,
+    is kept as THEORY-tmp1ykjb, Proposed, which extends this entry and
+    inherits the promote_when word for word (ADR-047, kind 1).
 tags:
 - neuroscience
 - cognition
@@ -41,8 +59,9 @@ summary: >-
 bears_on:
 - QUESTION-042
 ---
+<!-- inactive-ok-file: THEORY-tmp1ykjb — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
-# THEORY-124: During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way
+# THEORY-124: In Posani et al.'s analysis of the IBL Brainwide Map, recorded while trained mice performed one visual decision task, the eight-variable selectivity profiles of neurons within one cortical area clustered beyond a covariance-matched Gaussian null only in VISp, AUDp and SSp-ul of about 20 areas tested, while profiles pooled across areas clustered along anatomical lines; and over the task conditions each area distinguishes, at least 95% of random balanced dichotomies were linearly decodable above a label-shuffled null in 15 of 16 areas, a lenient criterion
 
 ## Source
 

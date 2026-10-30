@@ -1,25 +1,49 @@
 ---
 number: 865
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp111ci
-promote_when: >-
-  An independent replication, by a group other than the authors and on
-  open-weight models, of the two dissociations the account rests on.
-  First, that the component of a concept or intermediate along its
-  verbalizable (J-lens) directions carries most of its causal effect on
-  report and on two-hop answers while the larger orthogonal remainder
-  carries little once those directions are clamped. Second, that a swap
-  along those directions redirects report and flexible inference and
-  leaves automatic uses of the same information unchanged, on a battery
-  of tasks whose automatic or flexible label is fixed before the
-  experiment. It is refuted if the orthogonal remainder, clamped and
-  matched in norm, carries report or reasoning effects comparable to the
-  J-space part; or if, on a pre-specified battery, swaps disrupt the
-  automatic tasks about as often as the flexible ones. More readouts from
-  the lens, or more case studies from one model family, cannot settle it.
-title: "In Claude language models, a sparse set of residual-stream directions that a corpus-averaged Jacobian lens identifies as verbalizable (the J-space) is causally privileged for verbal report, for holding instructed concepts, for unspoken intermediate steps of reasoning and for passing one argument to many functions, while continuation, anomaly detection and line wrapping use the same information without routing through it; it carries workspace-like content only in a middle band of layers, holds on the order of tens of active directions and under a tenth of activation variance, and is amplified and relayed by the weights more than other directions"
-version: 1
+title: 'In Gurnee, Sofroniew et al.''s experiments on Claude Sonnet 4.5, Haiku 4.5, Opus 4.5 and Opus 4.6, the residual-stream directions a corpus-averaged Jacobian lens marks as verbalizable (the J-space) carried most of the causal effect on verbal report and on unspoken two-hop intermediates while holding a small share of their variance (swaps along them succeeding on 59% and 61% of trials, against 5% and 28% for the remainder, which fell to 0% and 6% with the J-space clamped), held instructed concepts, and passed one swapped argument to several functions (76 of 192 swaps); in two small task sets (n = 8 and 11), report and flexible inference followed a swap while continuation, anomaly detection and line wrapping did not, a split the authors partly define by this result; and by the lens''s own statistics the J-space works in a middle band of layers, holds about 25 active directions and under 10% of activation variance, and is amplified and relayed by the weights more than other directions'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the status review of 2026-10-30, at the status
+    review's ruling (the owner delegated these rulings; ADR-065, ADR-057;
+    ADR-047's evidence ruling), the source read in full in NOTE-1069.
+    Narrowed: attributed to the paper, the four models named, the effect
+    sizes given, the selectivity result stated with its sample sizes and its
+    partly definitional split (p. 21), and the band, capacity and broadcast
+    results stated as measured by the lens. Dropped: the claim for Claude
+    language models in general and the unqualified selectivity, which the
+    paper asserts in its title and outlook. The old title: In Claude
+    language models, a sparse set of residual-stream directions that a
+    corpus-averaged Jacobian lens identifies as verbalizable (the J-space)
+    is causally privileged for verbal report, for holding instructed
+    concepts, for unspoken intermediate steps of reasoning and for passing
+    one argument to many functions, while continuation, anomaly detection
+    and line wrapping use the same information without routing through it;
+    it carries workspace-like content only in a middle band of layers, holds
+    on the order of tens of active directions and under a tenth of
+    activation variance, and is amplified and relayed by the weights more
+    than other directions. The old promote_when: An independent replication,
+    by a group other than the authors and on open-weight models, of the two
+    dissociations the account rests on. First, that the component of a
+    concept or intermediate along its verbalizable (J-lens) directions
+    carries most of its causal effect on report and on two-hop answers while
+    the larger orthogonal remainder carries little once those directions are
+    clamped. Second, that a swap along those directions redirects report and
+    flexible inference and leaves automatic uses of the same information
+    unchanged, on a battery of tasks whose automatic or flexible label is
+    fixed before the experiment. It is refuted if the orthogonal remainder,
+    clamped and matched in norm, carries report or reasoning effects
+    comparable to the J-space part; or if, on a pre-specified battery, swaps
+    disrupt the automatic tasks about as often as the flexible ones. More
+    readouts from the lens, or more case studies from one model family,
+    cannot settle it. The wide form, which the source asserts, is kept as
+    THEORY-tmpz11fs, Proposed, which extends this entry and inherits the
+    promote_when word for word (ADR-047, kind 1).
 tags:
 - consciousness
 - cognition
@@ -38,10 +62,11 @@ summary: >-
 bears_on:
 - QUESTION-048
 ---
-<!-- inactive-ok-file: THEORY-091 THEORY-096 THEORY-023 THEORY-869 THEORY-881 — Proposed; accounts this one is set beside, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpz11fs — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
+<!-- inactive-ok-file: THEORY-091 THEORY-096 THEORY-023 THEORY-881 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-411 CLAIM-412 TERM-072 — Proposed; the batch's claims and term, cited as open -->
 
-# THEORY-865: In Claude language models, a sparse set of residual-stream directions that a corpus-averaged Jacobian lens identifies as verbalizable (the J-space) is causally privileged for verbal report, for holding instructed concepts, for unspoken intermediate steps of reasoning and for passing one argument to many functions, while continuation, anomaly detection and line wrapping use the same information without routing through it; it carries workspace-like content only in a middle band of layers, holds on the order of tens of active directions and under a tenth of activation variance, and is amplified and relayed by the weights more than other directions
+# THEORY-865: In Gurnee, Sofroniew et al.'s experiments on Claude Sonnet 4.5, Haiku 4.5, Opus 4.5 and Opus 4.6, the residual-stream directions a corpus-averaged Jacobian lens marks as verbalizable (the J-space) carried most of the causal effect on verbal report and on unspoken two-hop intermediates while holding a small share of their variance (swaps along them succeeding on 59% and 61% of trials, against 5% and 28% for the remainder, which fell to 0% and 6% with the J-space clamped), held instructed concepts, and passed one swapped argument to several functions (76 of 192 swaps); in two small task sets (n = 8 and 11), report and flexible inference followed a swap while continuation, anomaly detection and line wrapping did not, a split the authors partly define by this result; and by the lens's own statistics the J-space works in a middle band of layers, holds about 25 active directions and under 10% of activation variance, and is amplified and relayed by the weights more than other directions
 
 ## Source
 

@@ -1,21 +1,41 @@
 ---
 number: 911
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpfian9
-promote_when: >-
-  The version of record (Journal of Legal Studies 2022) read and found to
-  report the same counts and duration gap; and an independent coding of
-  lawfulness, by legal sources rather than news searches (court rulings,
-  constitutional texts against decrees), of the same or a comparable
-  universe of national states of emergency that reproduces the two
-  patterns: unlawful ones concentrated after political turmoil rather than
-  natural disasters, and lasting much longer than lawful ones. It is refuted
-  if such a coding finds unlawfulness spread evenly across causes, or the
-  duration gap explained by the coding rule that counts overlong SOEs as
-  unlawful.
-title: 'Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and unlawful emergencies lasted 321 days on average against 115'
-version: 1
+title: 'Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and those so coded lasted 321 days on average against 115, a gap the coding of overlong emergencies as unlawful builds in part'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-second status review, at the
+    status review's ruling (the owner delegated these rulings;
+    ADR-065; ADR-047 kinds 1 and 3): the title reports the paper's
+    counts with its hedge ("reported as unlawful") kept, and NOTE-1125
+    read the working paper in full. The last clause now keeps that
+    hedge and says that the coding builds part of the duration gap in,
+    as the body already did. The demand for the version of record is
+    dropped under ADR-065 §4: no discrepancy between it and the
+    working paper is named. The abstract's thesis moves to
+    THEORY-tmp2mjzt, Proposed, which extends this entry and keeps the
+    rest of the old condition word for word (ADR-047 kind 1). The old
+    title: "Of 853 national states of emergency declared from 1949 to
+    2017, 115 were reported as unlawful in declaration, conduct or
+    duration; 97 of those followed political turmoil and 14 natural
+    disasters, democracies were less likely than autocracies to run
+    one, and unlawful emergencies lasted 321 days on average against
+    115" The old promote_when: "The version of record (Journal of
+    Legal Studies 2022) read and found to report the same counts and
+    duration gap; and an independent coding of lawfulness, by legal
+    sources rather than news searches (court rulings, constitutional
+    texts against decrees), of the same or a comparable universe of
+    national states of emergency that reproduces the two patterns:
+    unlawful ones concentrated after political turmoil rather than
+    natural disasters, and lasting much longer than lawful ones. It is
+    refuted if such a coding finds unlawfulness spread evenly across
+    causes, or the duration gap explained by the coding rule that
+    counts overlong SOEs as unlawful."
 tags:
 - society-and-governance
 date: '2026-10-24'
@@ -27,13 +47,16 @@ summary: >-
   Unlawfulness is coded from news and NGO reports and from durations past
   the constitutional maximum, and the authors call the cases "suspected to
   be unlawful". Descriptive counts and weak logits; nothing here shows that
-  emergency measures outlive the emergency.
+  emergency measures outlive the emergency. Active as a report (ADR-065);
+  the abstract's thesis is THEORY-tmp2mjzt, Proposed.
 supports:
 - CLAIM-445
 ---
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the claim this bears on, named, nothing here rests on it -->
 
-# THEORY-911: Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and unlawful emergencies lasted 321 days on average against 115
+<!-- inactive-ok-file: THEORY-tmp2mjzt — Proposed; the thesis split from this entry, cited as open -->
+
+# THEORY-911: Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and those so coded lasted 321 days on average against 115, a gap the coding of overlong emergencies as unlawful builds in part
 
 ## Source
 
@@ -84,3 +107,11 @@ the scale of the crisis, as the authors allowed (p. 8). Only 14 of 115 did.
   SOE to postpone review of their emergency conduct (p. 11), is the claim's
   mechanism stated for emergencies. It does not reach the claim's test,
   which needs threat decline measured.
+
+## Note of 2026-10-30: narrowed and promoted
+
+Promoted as a report of the paper's counts ([ADR-065](../decisions.d/ADR-065.md)). The version of record
+was not read, and no discrepancy with it is named; [NOTE-1125](../notes.d/NOTE-1125.md) says which
+copy was read. The abstract's thesis, that unlawful emergencies follow
+turmoil and last longer, is [THEORY-tmp2mjzt](THEORY-tmp2mjzt.md), Proposed, which extends this
+entry and waits on an independent coding of lawfulness.

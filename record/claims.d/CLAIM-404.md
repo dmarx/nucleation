@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -17,6 +17,13 @@ history:
     THEORY-856; "reasons correctly" is qualified; Szeidl and Szucs's
     endogenous ownership is noted as the nearest thing to the defeat
     condition. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    THEORY-852 went Active at the twenty-second status review, at the status
+    review's ruling (the owner delegated these rulings); ADR-065; the
+    parenthetical that called it Proposed is corrected. Nothing else
+    changes.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,7 +81,7 @@ illustrated_by:
 - CASE-123
 ---
 <!-- inactive-ok-file: CLAIM-342 CLAIM-348 CLAIM-359 CLAIM-410 THEORY-146 THEORY-151 CLAIM-297 CLAIM-277 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
-<!-- inactive-ok-file: THEORY-859 THEORY-858 THEORY-852 — Proposed; general forms and a structural counterfactual from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->
+<!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1324 LIT-1332 — Unavailable; Stigler and Entman, named as works the replies cited that no lawful copy reached -->
 <!-- inactive-ok-file: TERM-066 — Proposed; the candidate definitions of capture and legibility filed with this claim, and it is stated in them -->
 <!-- ref::uses-file: TERM-066 TERM-064 — stated in "capture" and "legible"; the body uses the words in the senses those terms define -->
@@ -264,7 +271,7 @@ by the evaluation), and
   counterfactual: targeted advertising raises an outlet's value to a more
   pro-government owner, so control of resources can, through a change of
   ownership, change the owner's ideal point and with it the criteria
-  ([THEORY-852](../theory.d/THEORY-852.md), Proposed; [NOTE-1039](../notes.d/NOTE-1039.md)). It does not defeat the
+  ([THEORY-852](../theory.d/THEORY-852.md); [NOTE-1039](../notes.d/NOTE-1039.md)). It does not defeat the
   claim: it runs from resources through ownership to criteria, not from
   evidence to criteria, and it is a model counterfactual.
 - **That influence over evidence is wrongful.** [THEORY-404](../theory.d/THEORY-404.md)'s paper "does not

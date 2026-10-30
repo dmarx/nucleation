@@ -1,21 +1,10 @@
 ---
 number: 818
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpdjsgt
-promote_when: >-
-  A rerun of the two-scale Lorenz 96 test at the paper's parameters
-  (ε = 0.5, K = 18, J = 20, F = 10, h_x = −1, h_y = 1), by the record or
-  another group, that fits the discrepancy NARMAX with a structure chosen by
-  a rule fixed before scoring, and reports the Kolmogorov–Smirnov distance
-  of x₁ and the lead time at anomaly correlation 0.6 against the full system
-  and against the polynomial-plus-AR(1) closure, at δ = 0.05 at least. A
-  rerun whose model orders were tuned on the scored statistics, or a
-  comparison read off figures, does not settle it. The promotion audit's
-  one-study rule (ADR-047 v3) may also apply, since the title claims no more
-  than this study measured.
-title: 'In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from 2 to 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound'
-version: 1
+title: 'In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from about 2 to about 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound'
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -27,6 +16,40 @@ history:
     trial and error against the same long-run statistics that are then
     reported, with no held-out selection rule, and because the forecast
     comparison is read from plotted curves.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The title now says 'from about 2 to about 4 time units', since those
+    lead times are read from plotted curves (NOTE-1028). Old title: "In
+    two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J
+    = 20, F = 10), a discrete-time closure for each resolved variable that
+    fits the one-step discrepancy of a fourth-order Runge–Kutta step as a
+    NARMAX series, with one autoregressive lag, at most two lags of the
+    resolved variable and at most one moving-average term, reproduces the
+    mean, spread, distribution, autocorrelation and neighbour
+    cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with
+    observations every 0.05, extends the 20-member ensemble forecast lead
+    time at anomaly correlation 0.6 from 2 to 4 time units over a
+    polynomial-plus-AR(1) closure; the model structure was chosen by trial
+    and error, differs between the two observation spacings, and carries
+    no error bound". Promoted to Active under ADR-065, at the status
+    review's ruling (the owner delegated these rulings). The title reports
+    what one study, read in full in NOTE-1028, measured, with the study's
+    hedges kept, and nothing in the record contradicts it. The old
+    promote_when read: "A rerun of the two-scale Lorenz 96 test at the
+    paper's parameters (ε = 0.5, K = 18, J = 20, F = 10, h_x = −1, h_y =
+    1), by the record or another group, that fits the discrepancy NARMAX
+    with a structure chosen by a rule fixed before scoring, and reports
+    the Kolmogorov–Smirnov distance of x₁ and the lead time at anomaly
+    correlation 0.6 against the full system and against the
+    polynomial-plus-AR(1) closure, at δ = 0.05 at least. A rerun whose
+    model orders were tuned on the scored statistics, or a comparison read
+    off figures, does not settle it. The promotion audit's one-study rule
+    (ADR-047 v3) may also apply, since the title claims no more than this
+    study measured." Its demand for a rerun whose model structure is
+    chosen by a rule fixed before scoring asks more than the title
+    asserts, which already concedes the trial-and-error selection, and
+    moves to QUESTION-tmpe8p5t.
 tags:
 - probabilistic-modeling
 - complex-systems
@@ -48,7 +71,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-747 — Proposed; the analogous empirical account from the turbulence reading -->
 
-# THEORY-818: In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from 2 to 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound
+# THEORY-818: In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from about 2 to about 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound
 
 ## Source
 

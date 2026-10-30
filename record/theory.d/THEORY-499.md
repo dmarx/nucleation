@@ -1,20 +1,41 @@
 ---
 number: 499
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpd9dko
-promote_when: >-
-  Radiometric ages from samples of the other six craters in the ~800 Ma
-  cluster (Al-Khwarizmi, Stefan, Saha, Godin, Das, Lowell), or a CI-like
-  projectile signature at more than one of them. The account is promoted if
-  the sampled craters date inside the shower window the model gives (about
-  700–850 Ma) and the projectile material is carbonaceous. It is refuted if
-  their sample ages scatter outside it, since the cluster would then be an
-  artefact of scaling N(1) to Copernicus. More model runs cannot settle it,
-  Solutions 1–4 carried through included: they bound what is plausible, not
-  what happened.
-title: "The breakup of the Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr ago, can plausibly have supplied the cluster of large lunar craters dated near 800 Ma, but only in the most favourable of five model solutions, with an average largest lunar impactor too small for Copernicus, and with the cluster's absolute date inherited from Copernicus alone"
-version: 1
+title: "The breakup of the Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr ago, can plausibly have supplied the cluster of large lunar craters dated near 800 Ma, but shown only for the most favourable of five model solutions, the one carried through, with an average largest lunar impactor too small for Copernicus, and with the cluster's absolute date inherited from Copernicus alone"
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-second status review, at the
+    status review's ruling (the owner delegated these rulings;
+    ADR-065; ADR-047 kind 3 for the narrowing): the title reports what
+    the model shows, with its hedges kept, and NOTE-002 read the paper
+    in full. "Only in the most favourable of five model solutions"
+    could be read as saying the other four fail; they were never
+    carried through (§6.2), so the title now says the result is shown
+    only for the one carried through. The thesis of the paper's title,
+    that the shower happened and made the cluster, moves to
+    THEORY-tmp1hdru, Proposed, which extends this entry and keeps the
+    old condition (ADR-047 kind 1). The old title: "The breakup of the
+    Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr
+    ago, can plausibly have supplied the cluster of large lunar
+    craters dated near 800 Ma, but only in the most favourable of five
+    model solutions, with an average largest lunar impactor too small
+    for Copernicus, and with the cluster's absolute date inherited
+    from Copernicus alone" The old promote_when: "Radiometric ages
+    from samples of the other six craters in the ~800 Ma cluster
+    (Al-Khwarizmi, Stefan, Saha, Godin, Das, Lowell), or a CI-like
+    projectile signature at more than one of them. The account is
+    promoted if the sampled craters date inside the shower window the
+    model gives (about 700–850 Ma) and the projectile material is
+    carbonaceous. It is refuted if their sample ages scatter outside
+    it, since the cluster would then be an artefact of scaling N(1) to
+    Copernicus. More model runs cannot settle it, Solutions 1–4
+    carried through included: they bound what is plausible, not what
+    happened."
 tags:
 - natural-sciences
 date: '2026-10-16'
@@ -30,10 +51,13 @@ summary: >-
   estimate: one factor is tuned by eye, only the most favourable solution is
   propagated, and the seven craters are dated by N(1) against one
   sample-dated crater. The Earth, Mars and Venus links are the authors' own
-  speculation.
+  speculation. Active as a reading of the model (ADR-065); whether the
+  shower happened is THEORY-tmp1hdru, Proposed.
 ---
 
-# THEORY-499: The breakup of the Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr ago, can plausibly have supplied the cluster of large lunar craters dated near 800 Ma, but only in the most favourable of five model solutions, with an average largest lunar impactor too small for Copernicus, and with the cluster's absolute date inherited from Copernicus alone
+<!-- inactive-ok-file: THEORY-tmp1hdru — Proposed; the thesis split from this entry, cited as open -->
+
+# THEORY-499: The breakup of the Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr ago, can plausibly have supplied the cluster of large lunar craters dated near 800 Ma, but shown only for the most favourable of five model solutions, the one carried through, with an average largest lunar impactor too small for Copernicus, and with the cluster's absolute date inherited from Copernicus alone
 
 ## Source
 
@@ -110,3 +134,9 @@ results from Solutions 1–4 are unlikely to be relevant" (§6.2).
 - The template event is the 465.8 Ma L-chondrite breakup, whose source
   family the paper leaves open. The record holds no reading of it.
 - No other THEORY in the record bears on impact chronology.
+
+## Note of 2026-10-30: narrowed and promoted
+
+Promoted as a reading of what the model shows ([ADR-065](../decisions.d/ADR-065.md)). Whether the
+shower happened, which sample ages from the other six craters would
+settle, is [THEORY-tmp1hdru](THEORY-tmp1hdru.md), Proposed, which extends this entry.

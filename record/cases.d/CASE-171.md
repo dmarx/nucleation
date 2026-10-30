@@ -29,7 +29,6 @@ reported_in:
 summary: >-
   In the mealybug Planococcus citri, Moranella lives inside Tremblaya. Essential amino-acid pathways need gene products from both bacteria and the insect ([LIT-1565](../literature.d/LIT-1565.md)). At least 22 genes the insect acquired from other bacteria, none from Tremblaya, fill symbiont gaps ([LIT-1569](../literature.d/LIT-1569.md)), and the inner symbiont has been replaced several times across mealybugs while those genes persisted ([LIT-1572](../literature.d/LIT-1572.md)). Used as the case where function is distributed across nested boundaries and constituent lineages turn over.
 ---
-<!-- inactive-ok-file: THEORY-1049 — Proposed; filed from the reading cited in the note of 2026-10-27 (later) -->
 <!-- inactive-ok-file: LIT-1565 LIT-1569 LIT-1572 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 <!-- inactive-ok-file: QUESTION-277 THEORY-418 — Open or Proposed; the question and account the case is filed to test -->
 

@@ -1,18 +1,10 @@
 ---
 number: 852
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmplydnj
-promote_when: >-
-  Evidence that the identifying assumptions hold, or an estimate that does
-  not need them: a change in the government's reward for slant that is
-  exogenous by construction (a rule change in how state advertising is
-  allocated, say) with the owner unchanged, yielding a positive weight on
-  profit; or an independent measure of the owners' editorial preferences
-  across the episodes showing them constant. A further fit of the same
-  model to the same episodes does not settle it.
 title: 'Under Szeidl and Szucs''s structural model and its identifying assumptions (an owner''s ideology fixed across episodes; the government''s online advertising budget not driven by the outlets'' slant), both owner ideology and favor exchange drove the Hungarian portal Origo''s reduced coverage of corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new owner''s ideology alone by 63% after 2016, and the two together by 74%, so they are substitutes; and a ban on targeted government advertising would have raised it by 41–79%'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -22,6 +14,26 @@ history:
     favors as THEORY-850. These estimates add the identifying
     assumptions, which the authors call "arguably strong" for print and
     weaker for online, and which the record cannot check.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings); ADR-065, ADR-057. The title
+    states the estimates conditional on the structural model and its
+    identifying assumptions, as Tables IV and V report them, which is the
+    study's own hedge; NOTE-1039 read the article in full, and nothing in
+    the record contradicts the report (CLAIM-404 treats it as a model
+    counterfactual). The old promote_when asked that the identifying
+    assumptions hold: "Evidence that the identifying assumptions hold, or an
+    estimate that does not need them: a change in the government's reward
+    for slant that is exogenous by construction (a rule change in how state
+    advertising is allocated, say) with the owner unchanged, yielding a
+    positive weight on profit; or an independent measure of the owners'
+    editorial preferences across the episodes showing them constant. A
+    further fit of the same model to the same episodes does not settle it."
+    It moves word for word to THEORY-tmpt4mf4, Proposed, which carries the
+    unconditional finding the paper asserts and extends this entry (ADR-065
+    §3 and §7; ADR-047, kind 1).
 tags:
 - society-and-governance
 - social-science

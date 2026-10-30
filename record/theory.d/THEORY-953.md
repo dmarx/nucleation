@@ -1,23 +1,10 @@
 ---
 number: 953
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpeq5py
-promote_when: >-
-  A comparison, for one quality space, of models built from behaviourally
-  different procedures (matching, judgements of equal distance,
-  descriptor ratings), in which their agreement is measured against what
-  a shared stimulus geometry or a shared response process would produce
-  without any common experience, and the agreement beyond that null is
-  shown, with its residual discrepancies explained by identified
-  procedural effects. Coarse agreement between two colour models, or more
-  examples of convergence, does not meet it, since those are what the
-  rival explanations also predict. It is refuted for a modality if the
-  discrepancies between methods persist beyond their stated uncertainties
-  after the identified effects are corrected, as the critics of visual,
-  colour and odour metrics hold.
-title: 'On Isaac''s structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; the convergence observed is coarse, with discrepancies that often exceed each method''s own uncertainty, and the models average over subjects, so what they converge on is a standard observer'
-version: 1
+title: 'On Isaac''s structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; he concedes that the convergence observed is coarse, with discrepancies that in many cases exceed each method''s own uncertainty, and that because the models average over subjects what they converge on is a standard observer'
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -28,6 +15,38 @@ history:
     timbre models), which were not read here. The paper concedes the
     discrepancies and offers no measure of how much convergence is
     enough. Hence Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-second status review, at the status
+    review's ruling (the owner delegated these rulings); ADR-065; ADR-047,
+    kind 3. The coarseness of the convergence is now attributed to Isaac as
+    his concession, since the comparisons it rests on are cited and not read
+    here. The old title: On Isaac's structuralist account, the strongest
+    evidence that a quality-space model targets phenomenal experience, and
+    not only behaviour or neural activity, is convergence between models of
+    the same space derived through different behavioural procedures, since
+    experience is what those procedures share; the convergence observed is
+    coarse, with discrepancies that often exceed each method's own
+    uncertainty, and the models average over subjects, so what they converge
+    on is a standard observer. NOTE-1163 read the paper in full from the
+    version of record, and nothing in the record contradicts the report;
+    THEORY-868 and THEORY-880 cite it as compatible or as sharing its gap.
+    The old promote_when asked that convergence be shown beyond a null: "A
+    comparison, for one quality space, of models built from behaviourally
+    different procedures (matching, judgements of equal distance, descriptor
+    ratings), in which their agreement is measured against what a shared
+    stimulus geometry or a shared response process would produce without any
+    common experience, and the agreement beyond that null is shown, with its
+    residual discrepancies explained by identified procedural effects.
+    Coarse agreement between two colour models, or more examples of
+    convergence, does not meet it, since those are what the rival
+    explanations also predict. It is refuted for a modality if the
+    discrepancies between methods persist beyond their stated uncertainties
+    after the identified effects are corrected, as the critics of visual,
+    colour and odour metrics hold." It moves word for word to
+    THEORY-tmpc4jdo, Proposed, which carries Isaac's thesis and extends this
+    entry (ADR-065 §3; ADR-047, kind 1).
 tags:
 - consciousness
 - philosophy-of-science
@@ -46,7 +65,7 @@ summary: >-
   the target an ideal observer, which the paper leaves as an open puzzle.
 ---
 <!-- inactive-ok-file: THEORY-868 THEORY-880 CLAIM-138 — Proposed; the structuralist accounts and the claim this one is set beside, nothing here rests on their being settled -->
-# THEORY-953: On Isaac's structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; the convergence observed is coarse, with discrepancies that often exceed each method's own uncertainty, and the models average over subjects, so what they converge on is a standard observer
+# THEORY-953: On Isaac's structuralist account, the strongest evidence that a quality-space model targets phenomenal experience, and not only behaviour or neural activity, is convergence between models of the same space derived through different behavioural procedures, since experience is what those procedures share; he concedes that the convergence observed is coarse, with discrepancies that in many cases exceed each method's own uncertainty, and that because the models average over subjects what they converge on is a standard observer
 
 ## Source
 
@@ -104,8 +123,8 @@ space and odour the critics say it is.
   can agree because they share the stimulus's physical geometry, or a
   common decision and response process, without sharing an experience.
   The "least common denominator" argument names experience as the common
-  factor and does not rule these out. That is the gap the promote_when
-  asks to close.
+  factor and does not rule these out. That is the gap [THEORY-tmpc4jdo](THEORY-tmpc4jdo.md)'s
+  promote_when asks to close.
 - **Not that convergence has been shown.** It is coarse for colour, the
   best case, and disputed elsewhere.
 - **Not a measure.** The paper gives no degree of agreement that would
@@ -132,3 +151,10 @@ space and odour the critics say it is.
 - **[QUESTION-255](../questions.d/QUESTION-255.md).** The question's line is evidence for experience. This
   is one structuralist answer to what makes behavioural evidence evidence
   of experience, at the level of character only.
+
+## Note of 2026-10-30: narrowed
+
+The old title stated the coarseness of convergence, and discrepancies
+beyond each method's uncertainty, as the record's own fact. The record has
+read only Isaac's report of the comparisons (Oleari; MacLeod and Willen;
+Decock; Barwich are cited, not read), so the clause is now his concession.

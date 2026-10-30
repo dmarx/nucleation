@@ -1,19 +1,29 @@
 ---
 number: 926
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2ela3
-promote_when: >-
-  A checked re-derivation recorded in this file, which the reading made
-  (NOTE-1146) and which ADR-047 counts toward promotion, together with
-  the NeurIPS 2020 version read and found to state the same theorem. It
-  is refuted by an n-bit communicative game, in the paper's sense, with
-  some antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies that
-  no set of pure strategies realizes. The title claims nothing about
-  strong strategies or about the spinning-top shape. Results about those
-  neither promote nor refute it.
 title: 'In a game where each player can transmit n bits before a win or a loss becomes unattainable, every antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some set of pure strategies'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-065 §5. A second checker followed the
+    construction and re-checked the instances' arithmetic by script
+    (status review 22). The demand for the NeurIPS 2020 version is dropped
+    under ADR-065 §4: no discrepancy between versions is named (the gap
+    about draws is in the theorem as stated, and the title already
+    excludes it), and NOTE-1146 records the copy read (arXiv v2). The old
+    promote_when: A checked re-derivation recorded in this file, which the
+    reading made (NOTE-1146) and which ADR-047 counts toward promotion,
+    together with the NeurIPS 2020 version read and found to state the
+    same theorem. It is refuted by an n-bit communicative game, in the
+    paper's sense, with some antisymmetric pattern of wins and losses
+    among ⌊2ⁿ⌋ strategies that no set of pure strategies realizes. The
+    title claims nothing about strong strategies or about the spinning-top
+    shape. Results about those neither promote nor refute it.
 tags:
 - game-theory
 - mathematics
@@ -80,3 +90,27 @@ records cannot be excluded on structural grounds. Wherever contestants can
 recognize one another before the outcome is settled, any pattern of wins
 can arise. Whether an ordinal potential exists is then a fact about the
 strategies in play, not about the game ([NOTE-1146](../notes.d/NOTE-1146.md)).
+
+## Note of 2026-10-30: the second check
+
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
+
+Fix an antisymmetric pattern P of wins and losses over m = ⌊2ⁿ⌋ indices.
+Strategy π_i spends its first n bits of moves encoding i, which the
+definition lets it do whatever the opponent plays, and decodes the
+opponent's index j from the opponent's moves. Both players now know i, j
+and P. By the definition, neither a win nor a loss has yet been ruled out,
+so some continuation reaches the outcome P_ij for π_i. Both follow the
+lexicographically first such continuation, which each can compute alone.
+Because P_ji = −P_ij, it is the same line from either side, so the outcome
+agrees whichever seat each strategy holds, and sign f(π_i, π_j) = P_ij.
+Each π_i is deterministic, so it is pure. A cycle through all m strategies
+is the pattern in which each beats its predecessor and the first beats the
+last.
+
+The instances' arithmetic: log₂ 180! = 1093.92, computed from the
+log-gamma function; ⌊2^5.58⌋ = 47; and 10 minutes × 60 s × 60 Hz = 36,000.
+As a check on the construction, a script (in the session's scratchpad)
+built it in a toy game with two bits of signalling followed by a free
+resignation, and all 64 antisymmetric patterns of wins and losses on 4
+strategies were realised.

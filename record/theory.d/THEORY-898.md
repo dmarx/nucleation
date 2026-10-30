@@ -1,20 +1,39 @@
 ---
 number: 898
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2890h
-promote_when: >-
-  A study that measures, in a securitised public, both outward attention to
-  routine security practices and latent anxiety (by survey, physiology or
-  behaviour other than the outburst itself), before and after a disruption,
-  and finds low attention with measurable latent anxiety under routine, and
-  expressed anxiety and blame of the security apparatus after disruption by
-  it, distinguishing this from habituation or low perceived risk. It is
-  refuted if routine inaction goes with no latent anxiety, or if the
-  post-disruption reaction is equally strong when the disruption has no
-  security meaning.
-title: 'In Gangneung, South Korea, in 2022, people outwardly ignored routine retaliatory missile launches and beach-front military sites, while a missile malfunction at night under a news embargo was followed by tweets voicing fear of war with North Korea and blaming the government and military'
-version: 1
+title: 'In Gangneung, South Korea, in 2022, people the authors observed by chance in beach-front cafés outwardly ignored routine retaliatory missile launches and military sites on the beach, while a missile malfunction at night under a news embargo was followed by tweets voicing fear of war with North Korea and blaming the government and military'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed first: the observation was of people in beach-front cafés on
+    one afternoon, by chance, and of outward behaviour only (NOTE-1133).
+    Old title: "In Gangneung, South Korea, in 2022, people outwardly
+    ignored routine retaliatory missile launches and beach-front military
+    sites, while a missile malfunction at night under a news embargo was
+    followed by tweets voicing fear of war with North Korea and blaming
+    the government and military". Promoted to Active under ADR-065, at the
+    status review's ruling (the owner delegated these rulings). The title
+    reports what one study, read in full in NOTE-1133, measured, with the
+    study's hedges kept, and nothing in the record contradicts it. The old
+    promote_when read: "A study that measures, in a securitised public,
+    both outward attention to routine security practices and latent
+    anxiety (by survey, physiology or behaviour other than the outburst
+    itself), before and after a disruption, and finds low attention with
+    measurable latent anxiety under routine, and expressed anxiety and
+    blame of the security apparatus after disruption by it, distinguishing
+    this from habituation or low perceived risk. It is refuted if routine
+    inaction goes with no latent anxiety, or if the post-disruption
+    reaction is equally strong when the disruption has no security
+    meaning." Its demand for a study measuring latent anxiety before and
+    after a disruption asks for the thesis the authors propose, that
+    routine inaction keeps an anxiety latent which disruption by the
+    security apparatus releases, and that thesis moves with the old
+    condition word for word to THEORY-tmp9ae7b, Proposed, extending this
+    entry (ADR-047 kind 1).
 tags:
 - society-and-governance
 - emotion-and-affect
@@ -33,7 +52,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-445 CLAIM-446 — Proposed; the claims this bears on, named, nothing here rests on them -->
 
-# THEORY-898: In Gangneung, South Korea, in 2022, people outwardly ignored routine retaliatory missile launches and beach-front military sites, while a missile malfunction at night under a news embargo was followed by tweets voicing fear of war with North Korea and blaming the government and military
+# THEORY-898: In Gangneung, South Korea, in 2022, people the authors observed by chance in beach-front cafés outwardly ignored routine retaliatory missile launches and military sites on the beach, while a missile malfunction at night under a news embargo was followed by tweets voicing fear of war with North Korea and blaming the government and military
 
 ## Source
 

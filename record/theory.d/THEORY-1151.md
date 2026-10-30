@@ -1,22 +1,35 @@
 ---
 number: 1151
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpt1otv
-promote_when: >-
-  Tests on errors and hallucinations produced by real translation systems
-  in language pairs and kinds the training data did not synthesise (for
-  instance a multilingual hallucination benchmark, or naturally occurring
-  number and entity errors with human labels), showing whether detection
-  stays at the level the synthetic tests report. Results on more
-  synthetic perturbations of the trained kinds do not settle it.
 title: 'A learned translation metric trained with synthetic hallucinations and diagnostic perturbations alongside human MQM flags most injected localized critical errors (all but 0 to 17 percent, by type and model size) and ranks fully detached hallucinations below other translations with AUROC up to 0.96, and without a reference it ranks hallucinations better than with one; how far this reflects the synthetic training data has not been separated from how far it generalises'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status
+    review's ruling (the owner delegated these rulings; ADR-065): the
+    title reports what one study measured, with its hedge on
+    generalisation kept, and NOTE-1341 read the paper in full. What
+    the condition asked beyond the title, whether detection
+    generalises past what training synthesised, moves to
+    QUESTION-tmprfta8, which this entry now bears on. The old
+    promote_when: "Tests on errors and hallucinations produced by real
+    translation systems in language pairs and kinds the training data
+    did not synthesise (for instance a multilingual hallucination
+    benchmark, or naturally occurring number and entity errors with
+    human labels), showing whether detection stays at the level the
+    synthetic tests report. Results on more synthetic perturbations of
+    the trained kinds do not settle it."
 tags:
 - translation
 date: '2026-10-29'
 source:
 - LIT-1816
+bears_on:
+- QUESTION-tmprfta8
 summary: >-
   Guerreiro et al. (TACL 2024), [LIT-1816](../literature.d/LIT-1816.md), §7 (Tables 6 and 8, Fig. 4),
   read in [NOTE-1341](../notes.d/NOTE-1341.md). Localized errors are SMAUG perturbations of
@@ -24,8 +37,11 @@ summary: >-
   system outputs. The training data includes synthetic detached and
   oscillatory hallucinations and DEMETR perturbations. The localized-error
   table's "All" row is inconsistent with its rows. The larger model is
-  worse on oscillatory hallucinations. Proposed.
+  worse on oscillatory hallucinations. Active as a report (ADR-065);
+  whether detection generalises is QUESTION-tmprfta8.
 ---
+
+<!-- inactive-ok-file: QUESTION-tmprfta8 — Open; the question this report leaves, cited as open -->
 
 # THEORY-1151: A learned translation metric trained with synthetic hallucinations and diagnostic perturbations alongside human MQM flags most injected localized critical errors (all but 0 to 17 percent, by type and model size) and ranks fully detached hallucinations below other translations with AUROC up to 0.96, and without a reference it ranks hallucinations better than with one; how far this reflects the synthetic training data has not been separated from how far it generalises
 
@@ -72,3 +88,9 @@ earlier COMET metrics (p. 988); xCOMET could have kept them.
   predicted spans, severities differ only about 35% of the time (p. 987).
 - **Anything about omissions** or partial hallucinations beyond the
   benchmark's aggregate.
+
+## Note of 2026-10-30: promoted
+
+Promoted as a report of what the paper measured ([ADR-065](../decisions.d/ADR-065.md)). Whether its
+robustness holds on real errors in pairs and kinds its training did not
+synthesise is [QUESTION-tmprfta8](../questions.d/QUESTION-tmprfta8.md).

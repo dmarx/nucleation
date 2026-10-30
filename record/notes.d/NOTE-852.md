@@ -29,7 +29,7 @@ summary: >-
   anxiety-management and information-sharing motive than joy-dominated
   ones. The paper calls this causal; the design is observational.
 ---
-<!-- inactive-ok-file: LIT-083 THEORY-329 — Proposed; the neighbouring work, not leaned on, and the account filed from this reading -->
+<!-- inactive-ok-file: LIT-083 — Proposed; the neighbouring work, not leaned on -->
 
 # NOTE-852: Chuai & Zhao — Anger makes fake news viral online
 
