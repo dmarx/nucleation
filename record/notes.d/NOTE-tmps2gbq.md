@@ -183,12 +183,12 @@ It draws on Halasz's reflections on NoteCards, Conklin and Begeman on
 gIBIS, Conklin and Yakemovic on itIBIS, Grudin on why groupware fails,
 Suchman on situated action, Polanyi on tacit knowledge, Norman and
 Hutchins et al. on the gulf of execution, and Malone on office piles. In
-the record it belongs to the design-rationale batch of ADR-030 and is the
+the record it belongs to the design-rationale batch of [ADR-030](../decisions.d/ADR-030.md) and is the
 standard statement of premature formalization.
 
 ## Bearing on the record
 
-- **CLAIM-181: partly.** The claim's note of 2026-10-29 says it is held
+- **[CLAIM-181](../claims.d/CLAIM-181.md): partly.** The claim's note of 2026-10-29 says it is held
   back partly because Shipman and Marshall, "whose finding it turns on the
   record, are unread". They are now read, in the authors' earlier web
   version, and the attribution holds: they found that people resist
@@ -200,7 +200,7 @@ standard statement of premature formalization.
   - "What one person thinks is an argument may be an issue to someone
     else" (§2.2) is a move forced into one category where it fits two.
   - Their remedy, incremental formalization and restructuring "as tasks
-    are reconceptualized" (§5), is what CLAIM-419 says the record does
+    are reconceptualized" (§5), is what [CLAIM-419](../claims.d/CLAIM-419.md) says the record does
     when it amends its grammar.
 
   Two cautions about the claim's paraphrase. Its line "When they are made
@@ -211,10 +211,10 @@ standard statement of premature formalization.
   al., quoted in §3.2). That is close, but the authors never say whose the
   structure is. And the paper studies systems imposed on users, not a
   vocabulary its users chose and can amend. That difference is the
-  ground CLAIM-419 stands on. What CLAIM-181 itself still waits on, a move
+  ground [CLAIM-419](../claims.d/CLAIM-419.md) stands on. What [CLAIM-181](../claims.d/CLAIM-181.md) itself still waits on, a move
   that mattered and that the record cannot hold, is a fact about this
   record that no reading can supply.
-- **ADR-032's literature roles** that "recurred" but stay in prose are
+- **[ADR-032](../decisions.d/ADR-032.md)'s literature roles** that "recurred" but stay in prose are
   the paper's "information that doesn't fit", noticed and left informal on
   purpose. Shipman and Marshall would call that keeping it informal until
   formalizing pays; they would not call it a loss.

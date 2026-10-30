@@ -143,10 +143,10 @@ walk whose small-ε limit sees only the manifold.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | From a symmetric, positivity-preserving, positive semi-definite kernel, the normalised walk is conjugate to a symmetric operator with a spectral decomposition | strong | Eq. 2, "can be verified"; standard and checked in THEORY-728 |
+| C1 | From a symmetric, positivity-preserving, positive semi-definite kernel, the normalised walk is conjugate to a symmetric operator with a spectral decomposition | strong | Eq. 2, "can be verified"; standard and checked in [THEORY-728](../theory.d/THEORY-728.md) |
 | C2 | Euclidean distance between diffusion-map coordinates equals the diffusion distance D_m, as the paper defines it | strong | exact identity from Eq. 4 |
-| C3 | Truncating to the leading j₀ coordinates keeps D_m to a relative error 1 + O(e^{−αm}) | weak as stated | asserted; the neglected terms are not bounded relative to the kept ones, the defect THEORY-745 records for the companion's Proposition 1 |
-| C4 | With the α = 1 normalisation, A_ε^{t/ε} converges to the Laplace–Beltrami heat semigroup at rate O(ε^{1/2}) on bandlimited functions, whatever the sampling density | moderate | Theorem 2.1, stated without proof; the proof is in the companion (LIT-1246), read in NOTE-985 and THEORY-744 |
+| C3 | Truncating to the leading j₀ coordinates keeps D_m to a relative error 1 + O(e^{−αm}) | weak as stated | asserted; the neglected terms are not bounded relative to the kept ones, the defect [THEORY-745](../theory.d/THEORY-745.md) records for the companion's Proposition 1 |
+| C4 | With the α = 1 normalisation, A_ε^{t/ε} converges to the Laplace–Beltrami heat semigroup at rate O(ε^{1/2}) on bandlimited functions, whatever the sampling density | moderate | Theorem 2.1, stated without proof; the proof is in the companion ([LIT-1246](../literature.d/LIT-1246.md)), read in [NOTE-985](NOTE-985.md) and [THEORY-744](../theory.d/THEORY-744.md) |
 | C5 | The α-normalised walk's generator is Δ − e^{(1−α)U} Δ e^{−(1−α)U}; α = 0, 1/2, 1 give potential 2U, potential U and Laplace–Beltrami | moderate | Eq. 14, "it can be shown (9)" |
 | C6 | Diffused labels classify a hyperspectral image better than nearest neighbours or Gaussian classifiers | weak | one image, a specialist's judgement, no numbers |
 
@@ -155,7 +155,7 @@ walk whose small-ε limit sees only the manifold.
 - **Diffusion distance D_m** — here the distance induced by the symmetric
   kernel ã^(m) (p. 7427). It is not the distance between the m-step
   transition rows weighted by the inverse stationary density, which is
-  Coifman and Lafon's definition (LIT-1246) and THEORY-728's. The two
+  Coifman and Lafon's definition ([LIT-1246](../literature.d/LIT-1246.md)) and [THEORY-728](../theory.d/THEORY-728.md)'s. The two
   differ by the rescaling of each coordinate by the square root of the
   stationary density: the paper's coordinates are the eigenvectors φ_i of
   the symmetric ã, not the right eigenvectors φ_i/√π of the walk.
@@ -169,17 +169,17 @@ walk whose small-ε limit sees only the manifold.
 It builds on Chung's normalised graph Laplacian, Belkin and Niyogi's
 Laplacian eigenmaps and the manifold-learning methods it lists (refs. 3–7).
 Its proofs are deferred to Coifman and Lafon's "Diffusion maps" (ref. 9,
-LIT-1246, read in full in NOTE-985) and Nadler et al. on anisotropic
+[LIT-1246](../literature.d/LIT-1246.md), read in full in [NOTE-985](NOTE-985.md)) and Nadler et al. on anisotropic
 diffusion (ref. 10). The companion PNAS paper on multiscale methods is ref.
-18. THEORY-728 states and proves the finite construction; THEORY-744 states
-the α-family's small-ε limit from the companion; THEORY-745 corrects the
+18. [THEORY-728](../theory.d/THEORY-728.md) states and proves the finite construction; [THEORY-744](../theory.d/THEORY-744.md) states
+the α-family's small-ε limit from the companion; [THEORY-745](../theory.d/THEORY-745.md) corrects the
 companion's truncation bound, which this paper states in the same relative
-form. Zhai (LIT-975, §5.3) relates his power kernels to the diffusion
+form. Zhai ([LIT-975](../literature.d/LIT-975.md), §5.3) relates his power kernels to the diffusion
 distance.
 
 ## Bearing on the record
 
-- **THEORY-565: partly.** Its promote_when asks for a Read NOTE on a copy
+- **[THEORY-565](../theory.d/THEORY-565.md): partly.** Its promote_when asks for a Read NOTE on a copy
   whose equations can be read, together with Coifman and Lafon's
   companion, that follows the proofs of Theorem 2.1 and of the α-family
   and states their sampling conditions; it is promoted if the α = 1
@@ -189,13 +189,13 @@ distance.
   Eq. 14 are stated here without proof and that its sampling condition is
   only "each ball of radius √ε contains enough sample points". The proofs
   are not in this paper. The other half of the promote_when, the
-  companion read in full, is NOTE-985, filed 2026-10-20 before this
-  reading, with THEORY-744 Active on the α-family's limit (α = 1: Brownian
-  motion on the manifold, "with no trace of the density") and NOTE-985's
+  companion read in full, is [NOTE-985](NOTE-985.md), filed 2026-10-20 before this
+  reading, with [THEORY-744](../theory.d/THEORY-744.md) Active on the α-family's limit (α = 1: Brownian
+  motion on the manifold, "with no trace of the density") and [NOTE-985](NOTE-985.md)'s
   record that the heat-kernel proof's semigroup step "does not follow as
-  written". So whether THEORY-565 is now met depends on how the status
-  review weighs NOTE-985's reservation about the heat-kernel step; this
-  reading adds nothing to that question. Two points in THEORY-565's text
+  written". So whether [THEORY-565](../theory.d/THEORY-565.md) is now met depends on how the status
+  review weighs [NOTE-985](NOTE-985.md)'s reservation about the heat-kernel step; this
+  reading adds nothing to that question. Two points in [THEORY-565](../theory.d/THEORY-565.md)'s text
   need correcting from the reading:
   - its "What was actually shown" defines the diffusion distance as the
     inverse-stationary-weighted distance "(the standard definition; the
@@ -203,12 +203,12 @@ distance.
     it is the ã^(m)-induced distance above, which is not that one;
   - it says truncation is "approximately isometric for m beyond some m₀",
     which is the paper's claim; the paper states it as a relative error,
-    and THEORY-745's objection applies.
-- **THEORY-728 (Active).** Its isometry is for the inverse-stationary-
+    and [THEORY-745](../theory.d/THEORY-745.md)'s objection applies.
+- **[THEORY-728](../theory.d/THEORY-728.md) (Active).** Its isometry is for the inverse-stationary-
   weighted distance of the companion, not for the distance this paper
   defines; both isometries hold, for different coordinates. Its text
   should not cite this paper for the weighted definition.
-- **NOTE-784.** This reading replaces it. The skim's statements stand
+- **[NOTE-784](NOTE-784.md).** This reading replaces it. The skim's statements stand
   except its definition of the diffusion distance, given as "the standard
   definition; the paper's formula was not seen", which the paper does not
   use.
@@ -217,7 +217,7 @@ distance.
   Δφ − (‖∇U‖² − ΔU)φ. With Δ the analyst's Laplacian of Eqs. 6 and 9,
   conjugating Eq. 6 by e^{U} gives Eq. 14's sign. Eq. 5 is also called the
   adjoint of Eq. 6, where it is a conjugate (the symmetrised form). The
-  record's THEORY-744, from the companion, uses the non-negative
+  record's [THEORY-744](../theory.d/THEORY-744.md), from the companion, uses the non-negative
   Laplacian and is unaffected.
 - The LIT's anthology-candidate flag stands, for the manifold-learning
   content. No instruction for machine-learning practice in the reading.
@@ -242,6 +242,6 @@ distance.
 
 - Under what quantitative sampling condition does the α = 1 limit hold for
   finite samples? The paper does not say; the companion's §5 is where the
-  record has it (NOTE-985).
+  record has it ([NOTE-985](NOTE-985.md)).
 - An absolute bound for the truncation in this paper's coordinates, as
-  THEORY-745 gives for the companion's.
+  [THEORY-745](../theory.d/THEORY-745.md) gives for the companion's.

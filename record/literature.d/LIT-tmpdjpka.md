@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmpx9fbi) in full, from MIT OpenCourseWare's
+  read 2026-10-30 ([NOTE-tmpx9fbi](../notes.d/NOTE-tmpx9fbi.md)) in full, from MIT OpenCourseWare's
   copy of the handout
   (https://ocw.mit.edu/courses/24-120-moral-psychology-spring-2009/7084f5f927420e445327e4c1fdecfc30_MIT24_120s09_lec19.pdf),
-  a course page under ADR-064. Worth reading as a two-page secondary
-  report of Frankfurt's "Identification and Wholeheartedness" (LIT-575,
+  a course page under [ADR-064](../decisions.d/ADR-064.md). Worth reading as a two-page secondary
+  report of Frankfurt's "Identification and Wholeheartedness" ([LIT-575](LIT-575.md),
   unread), with page references that fall within the 1988 reprint
   (pp. 159–176; the handout does not name the edition) for decisive
   identification, its "resonance" and the "outlaw" desire, and as a
@@ -78,7 +78,7 @@ Holton, R. (2009). *24.120 Moral Psychology*, lecture handout XIX,
 
 ## Why this is here
 
-THEORY-029's promote_when names "Identification and Wholeheartedness"
-(LIT-575) first, as the reply that answers the regress directly, and the
+[THEORY-029](../theory.d/THEORY-029.md)'s promote_when names "Identification and Wholeheartedness"
+([LIT-575](LIT-575.md)) first, as the reply that answers the regress directly, and the
 essay is Unavailable. This handout reports the essay's account of
 decisive identification with page references.

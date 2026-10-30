@@ -38,7 +38,7 @@ summary: >-
 
 It is the first quantified report that variability of relative phase
 grows before the switch from anti-phase to in-phase coordination. Before
-it, the HKB model (LIT-588) and its stochastic extension predicted such
+it, the HKB model ([LIT-588](../literature.d/LIT-588.md)) and its stochastic extension predicted such
 critical fluctuations, and earlier work only "hinted" at them, for
 example in the widening of Lissajous trajectories (p. 280). After it, the
 switch had one of the signatures that separate a loss of stability from
@@ -140,30 +140,30 @@ be lost.
 ## Connections
 
 It tests a prediction of the stochastic generalization of HKB (Schöner,
-Haken and Kelso 1986, ref. 11, not filed) of the model in LIT-588
-(NOTE-tmp0jngz). The direct measures of relaxation time it promises
+Haken and Kelso 1986, ref. 11, not filed) of the model in [LIT-588](../literature.d/LIT-588.md)
+([NOTE-tmp0jngz](NOTE-tmp0jngz.md)). The direct measures of relaxation time it promises
 appeared as Scholz, Kelso and Schöner 1987, "Critical slowing down and
 switching time" (Physics Letters A 123:390–394,
 doi:10.1016/0375-9601(87)90038-7, not filed). Kelso, Scholz and Schöner
-1988 (LIT-tmpupvec, NOTE-tmpswmu1) cites this paper and that one for the
+1988 ([LIT-tmpupvec](../literature.d/LIT-tmpupvec.md), [NOTE-tmpswmu1](NOTE-tmpswmu1.md)) cites this paper and that one for the
 loss of stability, and moves from spontaneous to intended switching.
-Kelso 2021 (LIT-601, NOTE-467) summarizes all three.
+Kelso 2021 ([LIT-601](../literature.d/LIT-601.md), [NOTE-467](NOTE-467.md)) summarizes all three.
 
 ## Bearing on the record
 
-- **THEORY-069: partly.** Its `promote_when` asks for three findings at
+- **[THEORY-069](../theory.d/THEORY-069.md): partly.** Its `promote_when` asks for three findings at
   first hand. This paper gives one in full and part of another. It shows
   the switch running from anti-phase to in-phase as frequency rises,
   with no switch from in-phase (Figs. 1–4), and it shows the variance of
   relative phase rising before the switch, in the pattern that switches
-  and not in the other: the "critical fluctuations" THEORY-069 had only
+  and not in the other: the "critical fluctuations" [THEORY-069](../theory.d/THEORY-069.md) had only
   from Kelso's retrospective. It does not show the other half of the
   second finding, relaxation time after a perturbation; it predicts it
   and calls its own evidence "very preliminary". It does not test
   hysteresis. And it is by the model's authors, not an independent
   replication. The paper that would complete the second finding is
   Scholz, Kelso and Schöner 1987, not filed.
-- **THEORY-069's refutation clause** ("refuted if the fluctuations and
+- **[THEORY-069](../theory.d/THEORY-069.md)'s refutation clause** ("refuted if the fluctuations and
   relaxation time do not grow before the switch"): the fluctuation half is
   met against refutation here, in a few subjects and without a reported
   test.

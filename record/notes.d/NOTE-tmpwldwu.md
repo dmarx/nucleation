@@ -145,19 +145,19 @@ without data.
 
 ## Connections
 
-It is a companion to Kanerva's book (ref. 4, LIT-928) and cites Keeler's
+It is a companion to Kanerva's book (ref. 4, [LIT-928](../literature.d/LIT-928.md)) and cites Keeler's
 and Chou's comparisons with the Hopfield network. Kanerva's 1992 report
-(LIT-921, read in NOTE-779) gives the signal-to-noise analysis in matrix
-form but, as NOTE-779 records, not the critical distance; this report
+([LIT-921](../literature.d/LIT-921.md), read in [NOTE-779](NOTE-779.md)) gives the signal-to-noise analysis in matrix
+form but, as [NOTE-779](NOTE-779.md) records, not the critical distance; this report
 names the critical distance but gives no analysis. The definition
-NOTE-242 reads from Bricken and Pehlevan (LIT-269, App. B.5), "the
+[NOTE-242](NOTE-242.md) reads from Bricken and Pehlevan ([LIT-269](../literature.d/LIT-269.md), App. B.5), "the
 largest query–target distance from which iterated reads still converge to
 the target", matches this report's description. Hopfield's network itself
-is LIT-918 (NOTE-819).
+is [LIT-918](../literature.d/LIT-918.md) ([NOTE-819](NOTE-819.md)).
 
 ## Bearing on the record
 
-- **CLAIM-180: partly.** The claim needs the critical distance and cites
+- **[CLAIM-180](../claims.d/CLAIM-180.md): partly.** The claim needs the critical distance and cites
   Kanerva's book for it, unread. This report, by Kanerva and two
   co-authors, states the property in the claim's own terms: a cue within
   the critical distance converges on the stored pattern, and one beyond it
@@ -165,8 +165,8 @@ is LIT-918 (NOTE-819).
   pattern's attracting zone (pp. 15–16). That supports the claim's
   description first-hand. It does not meet the want, because the report
   only asserts the property and sends its derivation to the book, so
-  where the critical distance comes from still waits on LIT-928.
-- **CLAIM-180, "taken for new".** The claim says "taken for new" has no
+  where the critical distance comes from still waits on [LIT-928](../literature.d/LIT-928.md).
+- **[CLAIM-180](../claims.d/CLAIM-180.md), "taken for new".** The claim says "taken for new" has no
   Hopfield analogue, since the network never treats a cue as new. In SDM
   the report gives one: for a single pattern, divergence takes many
   iterations and convergence about ten, so "the two situations are easy to
@@ -174,7 +174,7 @@ is LIT-918 (NOTE-819).
   the memory. For stored sequences it is "hard to tell" (p. 18). A
   restated idea read as a step in a chain of reasoning is closer to the
   sequence case, where a failed retrieval passes unnoticed.
-- **CLAIM-180, capacity.** "The greater the population of the memory, the
+- **[CLAIM-180](../claims.d/CLAIM-180.md), capacity.** "The greater the population of the memory, the
   smaller the critical distance" (p. 15). A fuller record retrieves only
   closer restatements. That is the claim's capacity point in SDM's own
   terms, and it is consistent with the correction of 2026-10-14 that

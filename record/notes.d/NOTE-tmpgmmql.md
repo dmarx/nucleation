@@ -182,12 +182,12 @@ constitutes international relations", p. 431), Snyder and Diesing on
 divided crisis governments, and Shepsle and Weingast on win-sets and the
 ex post veto. He lists Tsebelis's "nested games" among related models of
 linked games (p. 441 n. 43). In the record it is one of the four accounts
-A28 named beside CLAIM-423, with Pierson's path dependence (LIT-1372),
+A28 named beside [CLAIM-423](../claims.d/CLAIM-423.md), with Pierson's path dependence ([LIT-1372](../literature.d/LIT-1372.md)),
 Allison and Tsebelis.
 
 ## Bearing on the record
 
-- **CLAIM-423: met, fully, for Putnam's half of the defeat condition.**
+- **[CLAIM-423](../claims.d/CLAIM-423.md): met, fully, for Putnam's half of the defeat condition.**
   The claim falls if Putnam already states that components' time
   horizons decide which component holds authority. He does not. Read in
   full, the article locates authority over a deal in three things: the
@@ -222,13 +222,13 @@ Allison and Tsebelis.
   half, the state's continuity as an actor while the organization behind
   its positions changes, Putnam does not take up: his game is one
   negotiation, and nothing in it runs across successive coalitions.
-- **CLAIM-423's other open items are untouched.** Pierson's 2000 article
+- **[CLAIM-423](../claims.d/CLAIM-423.md)'s other open items are untouched.** Pierson's 2000 article
   is still unread, and no case shows a horizon, rather than a formal
   rule, deciding authority.
-- **CLAIM-331.** Putnam's one remark on slowness (p. 432) fits the premise
+- **[CLAIM-331](../claims.d/CLAIM-331.md).** Putnam's one remark on slowness (p. 432) fits the premise
   that slower variables sit at a higher level of organization (state
   structures against issue politics), and is no argument for it.
-- **LIT-1375's summary** ("domestic coalitions set the win-set within
+- **[LIT-1375](../literature.d/LIT-1375.md)'s summary** ("domestic coalitions set the win-set within
   which an international deal is possible") is accurate, though narrow:
   the win-set also depends on ratification institutions and on the
   negotiators' strategies.

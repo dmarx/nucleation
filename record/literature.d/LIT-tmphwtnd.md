@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmptu1ne), from the published article in
+  read in full 2026-10-30 ([NOTE-tmptu1ne](../notes.d/NOTE-tmptu1ne.md)), from the published article in
   PubMed Central (PMC8527978; made available in the PMC Open Access Subset
   under Springer Nature's COVID-19 terms), fetched as XML through the
   Europe PMC REST API. Worth reading for two things. It argues, from
@@ -71,7 +71,7 @@ article 111. DOI 10.1007/s40656-021-00463-x, PMC8527978.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmptu1ne.*
+*From the reading, [NOTE-tmptu1ne](../notes.d/NOTE-tmptu1ne.md).*
 
 - **Canguilhem's health is normativity.** Health is "the possibility of
   transcending the norm, which defines the momentary normal, the
@@ -95,8 +95,8 @@ article 111. DOI 10.1007/s40656-021-00463-x, PMC8527978.
 
 ## Standing in the record
 
-Filed on 2026-10-30 for CLAIM-018, which reads Canguilhem's normativity as
+Filed on 2026-10-30 for [CLAIM-018](../claims.d/CLAIM-018.md), which reads Canguilhem's normativity as
 a capacity for norm-changing adaptation. The record cannot read
-Canguilhem's book (LIT-817); this paper quotes his definition of health and
+Canguilhem's book ([LIT-817](LIT-817.md)); this paper quotes his definition of health and
 his reason for refusing it to collectivities. It carries no instruction for
 machine-learning practice.

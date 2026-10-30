@@ -190,38 +190,38 @@ Maitra's own arguments:
 
 ## Connections
 
-The record holds Fricker's précis (NOTE-832, Skimmed), from which
-THEORY-317 states the two definitions, and her 2006 paper "Powerlessness
-and Social Interpretation" (LIT-1046, NOTE-859), drawn from the book's
-last chapter, from which THEORY-326 states a generic definition of
+The record holds Fricker's précis ([NOTE-832](NOTE-832.md), Skimmed), from which
+[THEORY-317](../theory.d/THEORY-317.md) states the two definitions, and her 2006 paper "Powerlessness
+and Social Interpretation" ([LIT-1046](../literature.d/LIT-1046.md), [NOTE-859](NOTE-859.md)), drawn from the book's
+last chapter, from which [THEORY-326](../theory.d/THEORY-326.md) states a generic definition of
 hermeneutical injustice through hermeneutical marginalization, systematic
-or incidental. Maitra's report of the book agrees with NOTE-859's reading
+or incidental. Maitra's report of the book agrees with [NOTE-859](NOTE-859.md)'s reading
 of the paper on that point. Langton's 2010 review in *Hypatia* and
 Alcoff's unpublished comments are cited (draft p. 14, n. 9) and not held
 here.
 
 ## Bearing on the record
 
-- **THEORY-317, partly, and against its definitions as stated, at second
+- **[THEORY-317](../theory.d/THEORY-317.md), partly, and against its definitions as stated, at second
   hand.** Its promote_when asks whether the book requires identity
   prejudice for testimonial injustice, and whether hermeneutical injustice
   requires a lacuna owed to a group's powerlessness or admits local gaps;
   it is refuted as a statement of Fricker if the book differs from the
   précis on either point. On the first, Maitra reports that the book
   requires identity prejudice, individual, defined at p. 35, and excludes
-  innocent error at p. 42, so THEORY-317's "prejudice" should narrow to
+  innocent error at p. 42, so [THEORY-317](../theory.d/THEORY-317.md)'s "prejudice" should narrow to
   identity prejudice, as its own caveat anticipates. On the second, she
   reports a generic definition through hermeneutical marginalization
   (p. 158) that is systematic or incidental, with the systematic case only
-  as the central one: that differs from the précis, as THEORY-326 says.
+  as the central one: that differs from the précis, as [THEORY-326](../theory.d/THEORY-326.md) says.
   Marginalization is still defined for groups (p. 153), so local or
   institutional gaps that fall on no group are not shown to be admitted.
   The promote_when says secondary summaries cannot settle it, so this is
   evidence for where the book's definitions are (pp. 28, 35, 42, 153, 155,
   158), not a ruling.
-- **THEORY-326**, the rival, is corroborated at second hand: a second
+- **[THEORY-326](../theory.d/THEORY-326.md)**, the rival, is corroborated at second hand: a second
   source reports the book's definition in its terms.
-- **QUESTION-072**, part 2, asks whether a project memory's failure to file
+- **[QUESTION-072](../questions.d/QUESTION-072.md)**, part 2, asks whether a project memory's failure to file
   a contributor's move could be a wrong in Fricker's sense. Maitra's
   condition adds a question: does whoever files owe the contributor a
   matched credibility judgement? A role, such as reviewer or curator, would
@@ -245,6 +245,6 @@ here.
 
 - Does the book, read first-hand, give the generic definition at p. 158
   and treat the systematic case as a sub-case, as reported here and in
-  NOTE-859?
+  [NOTE-859](NOTE-859.md)?
 - What fixes the hearer's obligation on Maitra's account: role,
   relationship or stakes? She leaves it open (draft p. 6).

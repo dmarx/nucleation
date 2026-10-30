@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmpxvceo) in full, from the published PDF on
+  read 2026-10-30 ([NOTE-tmpxvceo](../notes.d/NOTE-tmpxvceo.md)) in full, from the published PDF on
   andrewmbailey.com (https://andrewmbailey.com/jmf/Frankfurt_Cases_Moral_of_the_Stories.pdf),
   which the owner ruled a lawful copy on 2026-10-30. Worth reading as
   Fischer's reply to the Dilemma Defense: a deterministic Frankfurt case
@@ -85,8 +85,8 @@ doi:10.1215/00318108-2010-002.
 
 ## Why this is here
 
-THEORY-316 states Pereboom's causal-history incompatibilism from a partial
-reading of *Living without Free Will* (LIT-1006, Unavailable) and waits on
+[THEORY-316](../theory.d/THEORY-316.md) states Pereboom's causal-history incompatibilism from a partial
+reading of *Living without Free Will* ([LIT-1006](LIT-1006.md), Unavailable) and waits on
 the rest of its Chapter 1 and on a reply from the leeway side. This paper
 reports Pereboom's buffer case and Widerker's dilemma, and is the
 compatibilist's statement of what the cases do and do not show.

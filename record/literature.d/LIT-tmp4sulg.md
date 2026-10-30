@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmpwldwu), Skimmed: chapter 1 in full (pp. 1–28)
+  read 2026-10-30 ([NOTE-tmpwldwu](../notes.d/NOTE-tmpwldwu.md)), Skimmed: chapter 1 in full (pp. 1–28)
   and chapters 2–3 looked over, from NASA's public-domain NTRS copy
   (ntrs.nasa.gov/api/citations/19920001076/downloads/19920001076.pdf, 60
   scanned pages with an OCR text layer). Worth reading as a short,
@@ -12,7 +12,7 @@ status_note: >-
   shrinks as the memory fills; and in an autoassociative memory the two
   outcomes are "easy to distinguish in practice". Read it knowing that
   the critical distance is asserted, not derived (the derivation is
-  referred to Kanerva's book, LIT-928, still unread), that no simulation
+  referred to Kanerva's book, [LIT-928](LIT-928.md), still unread), that no simulation
   data are given for the convergence figures, and that most of the report
   describes the Stanford hardware prototype.
 title: 'Sparse Distributed Memory: Principles and Operation'
@@ -78,7 +78,7 @@ Research Center; Stanford CSL-TR-89-400. NTRS 19920001076.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwldwu (Skimmed: chapter 1 in full).*
+*From the reading, [NOTE-tmpwldwu](../notes.d/NOTE-tmpwldwu.md) (Skimmed: chapter 1 in full).*
 
 - **The memory.** Words are both addresses and data. A write adds the
   word, bit by bit as +1 or −1, into the counters of every hard location
@@ -101,8 +101,8 @@ Research Center; Stanford CSL-TR-89-400. NTRS 19920001076.
 
 ## Standing in the record
 
-Filed on 2026-10-30 for CLAIM-180, whose statement of the critical
-distance rests on NOTE-242's reading of LIT-269 while the book it comes
-from, LIT-928, is unread. This report is Kanerva's own short statement of
+Filed on 2026-10-30 for [CLAIM-180](../claims.d/CLAIM-180.md), whose statement of the critical
+distance rests on [NOTE-242](../notes.d/NOTE-242.md)'s reading of [LIT-269](LIT-269.md) while the book it comes
+from, [LIT-928](LIT-928.md), is unread. This report is Kanerva's own short statement of
 the property, and confirms the claim's description of it, but it defers
 the mathematics to the book. Most of the report describes the hardware.

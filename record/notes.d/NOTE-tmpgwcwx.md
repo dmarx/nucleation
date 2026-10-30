@@ -136,15 +136,15 @@ here.
 ## Connections
 
 The programme is the book-length form of the papers the record has read:
-Mossio, Saborido and Moreno 2009 (LIT-570, NOTE-444) and Montévil and Mossio
-2015 (LIT-582, NOTE-468), which the authors acknowledge as reworked into
+Mossio, Saborido and Moreno 2009 ([LIT-570](../literature.d/LIT-570.md), [NOTE-444](NOTE-444.md)) and Montévil and Mossio
+2015 ([LIT-582](../literature.d/LIT-582.md), [NOTE-468](NOTE-468.md)), which the authors acknowledge as reworked into
 the book (p. xxxiii names Montévil and Saborido among the co-authors whose
 ideas are reused). Its account of autopoiesis and its criticisms are the
-ones Nahas and Sachs report (NOTE-094).
+ones Nahas and Sachs report ([NOTE-094](NOTE-094.md)).
 
 ## Bearing on the record
 
-- **THEORY-072: not met; consistent as far as it goes.** The account's
+- **[THEORY-072](../theory.d/THEORY-072.md): not met; consistent as far as it goes.** The account's
   `promote_when` says reading chapters 1 and 3 "would show whether the
   authors keep differentiation as a separate condition or fold it into
   closure". The Introduction does not answer that. It never uses
@@ -154,16 +154,16 @@ ones Nahas and Sachs report (NOTE-094).
   internal complexity and functionality" (p. xx), that metabolism is
   "functionally diversified", unlike any dissipative structure (p. xxvi),
   and that closure and functionality are "reciprocally defining" (p.
-  xxx). That fits THEORY-072's reading that the 2015 closure builds in
+  xxx). That fits [THEORY-072](../theory.d/THEORY-072.md)'s reading that the 2015 closure builds in
   what the 2009 paper called differentiation, but it is the authors'
   preview, not the analysis, and no flame is analysed under the
   definitions. Its one remark on the candle flame (p. xxvii) gives
   autopoiesis's criterion, an internally produced boundary, which is a
   different line. Two further points for the account: the authors say
   ecosystems fulfil "only the requirements for closure" (p. xxxi), which
-  agrees with LIT-582's footnote 27 that closure does not make an
-  organism; and that remark bears on Baedke's objection (LIT-167,
-  NOTE-148) that closure criteria take in ecosystems, which the authors
+  agrees with [LIT-582](../literature.d/LIT-582.md)'s footnote 27 that closure does not make an
+  organism; and that remark bears on Baedke's objection ([LIT-167](../literature.d/LIT-167.md),
+  [NOTE-148](NOTE-148.md)) that closure criteria take in ecosystems, which the authors
   appear to accept for closure and meet with regulation, agency and
   development.
 - No instruction for machine-learning practice; nothing for the anthology.

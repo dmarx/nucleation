@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmps4pgb), from the open-access published
+  read in full 2026-10-30 ([NOTE-tmps4pgb](../notes.d/NOTE-tmps4pgb.md)), from the open-access published
   article (CC BY 4.0) in PubMed Central, PMC7678399, fetched as XML
   through the Europe PMC REST API. A short exposition of Canguilhem's
   philosophy of norms as an "attitudinal" vitalism. Worth reading for its
@@ -64,7 +64,7 @@ Gabriele Vissio (2020). *International Journal for the Semiotics of Law* 33(4),
 
 ## Key takeaways
 
-*From the reading, NOTE-tmps4pgb.*
+*From the reading, [NOTE-tmps4pgb](../notes.d/NOTE-tmps4pgb.md).*
 
 - **Normativity is a capacity to change norms.** Life establishes norms in
   relation to a milieu; disease is a change in those norms and "a state of
@@ -84,7 +84,7 @@ Gabriele Vissio (2020). *International Journal for the Semiotics of Law* 33(4),
 
 ## Standing in the record
 
-Filed on 2026-10-30 for CLAIM-018. With Giroux 2021 (LIT-tmphwtnd), it is
+Filed on 2026-10-30 for [CLAIM-018](../claims.d/CLAIM-018.md). With Giroux 2021 ([LIT-tmphwtnd](LIT-tmphwtnd.md)), it is
 the record's second-hand access to Canguilhem's normativity while his book
-(LIT-817) is Unavailable. It carries no instruction for machine-learning
+([LIT-817](LIT-817.md)) is Unavailable. It carries no instruction for machine-learning
 practice.

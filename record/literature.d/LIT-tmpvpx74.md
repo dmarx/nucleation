@@ -68,9 +68,9 @@ Published online 3 May 2018. Open access, CC BY 4.0.
 
 ## Why this is here
 
-CLAIM-271, THEORY-131 and THEORY-139 each record that Velasquez's
+[CLAIM-271](../claims.d/CLAIM-271.md), [THEORY-131](../theory.d/THEORY-131.md) and [THEORY-139](../theory.d/THEORY-139.md) each record that Velasquez's
 objection, that a corporation is not an agent and so not morally
-responsible (LIT-1429, LIT-1432), is registered and unread. Both of
+responsible ([LIT-1429](LIT-1429.md), [LIT-1432](LIT-1432.md)), is registered and unread. Both of
 Velasquez's papers are Unavailable. This paper was found on 2026-10-30
 as one that sets out Velasquez's position among the accounts of
 corporate agency it weighs. It could not be fetched, so whether it

@@ -38,7 +38,7 @@ generalized ordinal potentials with the finite improvement property,
 Rosenthal's theorem that congestion games are potential games, worked
 traffic examples, the Braess paradox, and bounds on the price of stability.
 Nothing in them is new; their value here is a clear second statement of
-the definitions and the theorem THEORY-896 attributes to Monderer and
+the definitions and the theorem [THEORY-896](../theory.d/THEORY-896.md) attributes to Monderer and
 Shapley.
 
 ## Key insight
@@ -129,9 +129,9 @@ games in which improvement cannot go round in circles.
 
 ## Connections
 
-Monderer and Shapley (1996, LIT-1462) is the source the slides cite and the
-record cannot read. Candogan et al. (LIT-1442) restate the exact
-definition. THEORY-896 states the same equivalence and proves it in the
+Monderer and Shapley (1996, [LIT-1462](../literature.d/LIT-1462.md)) is the source the slides cite and the
+record cannot read. Candogan et al. ([LIT-1442](../literature.d/LIT-1442.md)) restate the exact
+definition. [THEORY-896](../theory.d/THEORY-896.md) states the same equivalence and proves it in the
 record with a different potential, the length of the longest improvement
 path ending at a profile, where the slides count the improvement
 sequences ending there. Both are finite for the same reason: with the FIP
@@ -140,13 +140,13 @@ improvement sequence has fewer than |S| steps.
 
 ## Bearing on the record
 
-- **THEORY-896: partly.** Its promote_when asks for Monderer and Shapley
+- **[THEORY-896](../theory.d/THEORY-896.md): partly.** Its promote_when asks for Monderer and Shapley
   read first-hand: the lemma's wording, number and page, the paper's
   definitions of the FIP and of generalized ordinal potential, and
   agreement with the record's proof. These slides do not meet that: they
   are not the paper, and they give no lemma number or page. What they do
   give:
-  - **The class.** THEORY-896 notes that its two restatements disagree on
+  - **The class.** [THEORY-896](../theory.d/THEORY-896.md) notes that its two restatements disagree on
     whether the equivalence is with generalized ordinal or with ordinal
     potentials. Apt states it for generalized ordinal potentials, as
     Duersch, Oechssler and Schipper do, and slide 13 shows a finite game
@@ -154,12 +154,12 @@ improvement sequence has fewer than |S| steps.
     potentials is false. Biggar and Shames's weaker sentence, that ordinal
     potential games have the FIP, is consistent with this.
   - **The definitions** of the FIP and of generalized ordinal potential
-    agree with THEORY-896's, except that Apt's improvement paths are
+    agree with [THEORY-896](../theory.d/THEORY-896.md)'s, except that Apt's improvement paths are
     maximal; finiteness of every path is the same condition either way.
   - **The proof.** Apt's sketch and the record's proof differ only in the
     potential chosen, and both work.
   So the mathematics and the class are corroborated by a second source;
-  the attribution's exact form still waits on LIT-1462.
+  the attribution's exact form still waits on [LIT-1462](../literature.d/LIT-1462.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

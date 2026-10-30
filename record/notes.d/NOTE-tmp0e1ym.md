@@ -154,12 +154,12 @@ sufficiency (p. 256). It cites the prototype approach (Shaver et al. 1987)
 and Russell and Fehr's semantic analyses as consistent with no necessary
 features (p. 266). Parkinson's (1997) "at best ... a contingent connection"
 is the position it supports. Barrett's constructionist account
-(THEORY-057, from LIT-542), which the record holds as the rival of
+([THEORY-057](../theory.d/THEORY-057.md), from [LIT-542](../literature.d/LIT-542.md)), which the record holds as the rival of
 Frijda's, makes the same kind of prediction about category instances.
 
 ## Bearing on the record
 
-- **THEORY-055: against it, weakly, and in a kind of evidence its
+- **[THEORY-055](../theory.d/THEORY-055.md): against it, weakly, and in a kind of evidence its
   `promote_when` says cannot settle it.** The `promote_when` sets aside
   "correlations between people's appraisal reports and their emotion
   labels, since the rival reads appraisals as descriptions produced by the
@@ -183,7 +183,7 @@ Frijda's, makes the same kind of prediction about category instances.
   absent (p. 267), is post hoc. Because the rival account also predicts
   instances with no common feature, this result does not tell the two
   apart.
-- **THEORY-057.** Consistent with its denial of necessary features for
+- **[THEORY-057](../theory.d/THEORY-057.md).** Consistent with its denial of necessary features for
   category instances; the paper cites the prototype view in support. The
   same self-report limit applies.
 - No instruction for machine-learning practice; nothing for the anthology.

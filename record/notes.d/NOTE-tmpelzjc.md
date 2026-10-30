@@ -181,17 +181,17 @@ The paper has no data of its own. Its claims, in order:
 
 It builds on Blanke and Metzinger 2009 and adopts Windt's (2010, 2014)
 account of dreams as "immersive spatiotemporal hallucinations". It cites
-Lenggenhager et al. 2007 (LIT-1279, read in NOTE-999) as showing MPS "can be
+Lenggenhager et al. 2007 ([LIT-1279](../literature.d/LIT-1279.md), read in [NOTE-999](NOTE-999.md)) as showing MPS "can be
 experimentally controlled" (Box 1) and as dissociating the origin of the
 1PP from the body volume (note 5). Its transparency is the précis's
-(LIT-568, read in NOTE-460), and its account of the knowing self extends
+([LIT-568](../literature.d/LIT-568.md), read in [NOTE-460](NOTE-460.md)), and its account of the knowing self extends
 the précis's phenomenal model of the intentionality relation. Alsmith's
 objection to full-body illusions is the same worry the critics of
 Lenggenhager et al. raised, from another side.
 
 ## Bearing on the record
 
-- **THEORY-064: not met; it restates the test more sharply.** The account's
+- **[THEORY-064](../theory.d/THEORY-064.md): not met; it restates the test more sharply.** The account's
   `promote_when` asks for states in which more of the self-model becomes
   attentionally available as constructed, with reported selfhood falling
   in step, or a reliable report of a wholly opaque self-model with selfhood
@@ -207,12 +207,12 @@ Lenggenhager et al. raised, from another side.
   that it is all a self is. It does add, from the author, that lucid
   dreams are a standard example of opacity (note 2), which supports
   `promote_when`'s choice of lucid dreaming as the place to look.
-- **THEORY-768 (minimal selfhood as whole-body identification).** This paper
+- **[THEORY-768](../theory.d/THEORY-768.md) (minimal selfhood as whole-body identification).** This paper
   argues against the body condition in Blanke and Metzinger 2009: "explicit
   body representation is not necessary" (p. 5), and MPS may reduce to
-  self-location. It bears against THEORY-768's body clause, on
+  self-location. It bears against [THEORY-768](../theory.d/THEORY-768.md)'s body clause, on
   survey-report evidence the paper calls ambiguous.
-- **THEORY-597 (meditation and "loss of basic self").** The paper reads some
+- **[THEORY-597](../theory.d/THEORY-597.md) (meditation and "loss of basic self").** The paper reads some
   meditation reports as identification with the maximal unit,
   "phenomenality per se", not as loss of self (p. 5). That is a rival
   reading of the same reports, offered without data.

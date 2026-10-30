@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmp5wau0) in full, all 47 slides, from the
+  read 2026-10-30 ([NOTE-tmp5wau0](../notes.d/NOTE-tmp5wau0.md)) in full, all 47 slides, from the
   author's course page at CWI
   (homepages.cwi.nl/~apt/stra13/potential13-sli.pdf). Worth reading as a
   clear secondary statement of the potential-game definitions and of
@@ -63,7 +63,7 @@ University of Amsterdam.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp5wau0.*
+*From the reading, [NOTE-tmp5wau0](../notes.d/NOTE-tmp5wau0.md).*
 
 - **Definitions (slides 6, 10, 12, 14).** Exact potential: every
   unilateral payoff change equals the potential's change. Ordinal: the
@@ -82,9 +82,9 @@ University of Amsterdam.
 
 ## Standing in the record
 
-Filed on 2026-10-30 for THEORY-896. It confirms, second-hand, that the
+Filed on 2026-10-30 for [THEORY-896](../theory.d/THEORY-896.md). It confirms, second-hand, that the
 class matched to the FIP is the generalized ordinal one. Biggar and
-Shames's weaker restatement, which THEORY-896 records, says only that
+Shames's weaker restatement, which [THEORY-896](../theory.d/THEORY-896.md) records, says only that
 ordinal potential games have the FIP; the slides' two-by-two game shows
 that the converse fails for ordinal potentials, so an equivalence can
 hold only for the generalized class. Its sketch agrees with the record's

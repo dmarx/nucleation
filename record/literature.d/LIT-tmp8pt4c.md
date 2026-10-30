@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmp8uvyb) in full, from the author's draft of
+  read 2026-10-30 ([NOTE-tmp8uvyb](../notes.d/NOTE-tmp8uvyb.md)) in full, from the author's draft of
   14 July 2010 on her University of Michigan page
   (https://public.websites.umich.edu/~imaitra/Research/NEI0710.pdf),
   which the owner ruled a lawful copy on 2026-10-30. The draft is marked
   "Draft – Please do not cite without author's permission", so the
   record cites the published version (Philosophical Books 51(4),
   195–211) and treats the draft only as the copy read. Worth reading as a
-  secondary report of Fricker's Epistemic Injustice (LIT-1004, unread),
+  secondary report of Fricker's Epistemic Injustice ([LIT-1004](LIT-1004.md), unread),
   with page references to the book for its definitions and central cases,
   and as an argument that testimonial injustice needs a hearer's
   obligation to the speaker and can occur without individual identity
@@ -94,6 +94,6 @@ above.
 
 ## Why this is here
 
-THEORY-317 states Fricker's two definitions from her précis alone and
-waits on a reading of the book (LIT-1004), which is Unavailable. This
+[THEORY-317](../theory.d/THEORY-317.md) states Fricker's two definitions from her précis alone and
+waits on a reading of the book ([LIT-1004](LIT-1004.md)), which is Unavailable. This
 critical study reports the book's definitions with page references.

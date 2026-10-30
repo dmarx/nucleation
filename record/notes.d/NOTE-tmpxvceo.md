@@ -174,31 +174,31 @@ determinism to non-responsibility open, sourcehood among them.
 
 ## Connections
 
-It extends Frankfurt 1969 (LIT-694), and argues for the thesis THEORY-119
+It extends Frankfurt 1969 ([LIT-694](../literature.d/LIT-694.md)), and argues for the thesis [THEORY-119](../theory.d/THEORY-119.md)
 states, that an agent can be responsible though she could not have done
-otherwise. The record's Fischer and Ravizza readings (LIT-687, LIT-728)
-and THEORY-121's guidance control are the positive account this paper's
-last sentence gestures at. THEORY-316 states Pereboom's view, which
+otherwise. The record's Fischer and Ravizza readings ([LIT-687](../literature.d/LIT-687.md), [LIT-728](../literature.d/LIT-728.md))
+and [THEORY-121](../theory.d/THEORY-121.md)'s guidance control are the positive account this paper's
+last sentence gestures at. [THEORY-316](../theory.d/THEORY-316.md) states Pereboom's view, which
 Fischer names as the "source" alternative (p. 317, n. 6) and whose buffer
 case he takes up.
 
 ## Bearing on the record
 
-- **THEORY-316, partly; it does not meet the promote_when.** That asks
+- **[THEORY-316](../theory.d/THEORY-316.md), partly; it does not meet the promote_when.** That asks
   for a first-hand reading of Pereboom's Chapter 1, pp. 10–37, where his
   new Frankfurt-style case is argued, and for a checked reply from the
   leeway side. This paper gives neither: it describes Pereboom's "Tax
   Evasion" (book pp. 18–28) in one footnote without quoting it, and it
   reports Widerker's dilemma only to answer it. What it does give: the
   leading compatibilist, writing after Pereboom's book, defends Step 1 of
-  THEORY-316 on both horns of the Dilemma Defense, and again concedes what
+  [THEORY-316](../theory.d/THEORY-316.md) on both horns of the Dilemma Defense, and again concedes what
   Step 2 builds on, that the cases leave open that determinism undermines
   responsibility by another route, "lack of 'sourcehood'" (p. 331). It
   also reports that Pereboom himself pointed out that a deterministic case
   avoids Goetz's objection where buffer cases cannot (n. 20). It neither
   confirms nor refutes the claim that the causal-history condition is the
   more fundamental one.
-- **THEORY-119**, that the principle of alternate possibilities is false by
+- **[THEORY-119](../theory.d/THEORY-119.md)**, that the principle of alternate possibilities is false by
   Frankfurt-style cases, is supported: this is the fullest statement in the
   record of why the Dilemma Defense does not defeat it, though "the jury is
   still out" on the indeterministic horn.

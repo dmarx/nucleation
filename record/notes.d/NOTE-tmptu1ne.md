@@ -157,13 +157,13 @@ reading of the population level on Rose, Krieger, Diez Roux and the
 Canadian population-health approach. Its use of biological individuality
 (Wilson and Barker; Bouchard and Huneman) meets the record's readings on
 individuation, such as Baedke's objection that closure criteria take in
-colonies (LIT-167, NOTE-148). Vissio 2020 (LIT-tmpwml4z, read in
-NOTE-tmps4pgb) reads the same Canguilhem as a vitalist philosopher of
+colonies ([LIT-167](../literature.d/LIT-167.md), [NOTE-148](NOTE-148.md)). Vissio 2020 ([LIT-tmpwml4z](../literature.d/LIT-tmpwml4z.md), read in
+[NOTE-tmps4pgb](NOTE-tmps4pgb.md)) reads the same Canguilhem as a vitalist philosopher of
 values and reports the same refusal of a social pathology.
 
 ## Bearing on the record
 
-- **CLAIM-018: partly.** The claim's defeat condition is "a reading of
+- **[CLAIM-018](../claims.d/CLAIM-018.md): partly.** The claim's defeat condition is "a reading of
   Canguilhem on which normativity in health is not a capacity to establish
   new norms under changed conditions"; it waits on a NOTE that reads the
   book. This reading does not read the book, but it quotes the book's

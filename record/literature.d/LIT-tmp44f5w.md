@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmp30fln) in full, all 26 slides with their
+  read 2026-10-30 ([NOTE-tmp30fln](../notes.d/NOTE-tmp30fln.md)) in full, all 26 slides with their
   handwritten annotations, from the course's own copy at
   web.stanford.edu/class/ee378c/lecture4_annotated.pdf. Worth reading as
   a compact statement of Le Cam's deficiency for decision problems with
@@ -65,7 +65,7 @@ and equivalence*. Stanford EE378C, lecture slides with annotations, April
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp30fln.*
+*From the reading, [NOTE-tmp30fln](../notes.d/NOTE-tmp30fln.md).*
 
 - **Deficiency by decisions (slide 11).** For every finite Θ₀ ⊆ Θ, finite
   action set, loss L : Θ × A → [0, 1] and rule δ_N there is a rule δ_M
@@ -83,6 +83,6 @@ and equivalence*. Stanford EE378C, lecture slides with annotations, April
 
 ## Standing in the record
 
-Filed on 2026-10-30 for CLAIM-488. It states the criterion that claim's
+Filed on 2026-10-30 for [CLAIM-488](../claims.d/CLAIM-488.md). It states the criterion that claim's
 first step needs in both directions and proves the direction the record
 already had; the converse is sketched, not proved.

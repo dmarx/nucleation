@@ -42,7 +42,7 @@ summary: >-
 ## Contribution
 
 A close critique of the one place Searle gives an account of collective
-intentions, "Collective Intentions and Actions" (1990, LIT-490). It argues
+intentions, "Collective Intentions and Actions" (1990, [LIT-490](../literature.d/LIT-490.md)). It argues
 that the paper never analyses a we-intention: the two collective analyses
 it states are rejected by Searle himself, and the analysis he favours
 describes an individual's complex intention. It also argues that Searle's
@@ -191,11 +191,11 @@ intentions; he does not show that there are collective intentions.
 
 ## Connections
 
-Searle's 2006 paper (LIT-482, read in NOTE-388) refers its notion of
-collective intentionality to the 1990 paper, and THEORY-625 records that
+Searle's 2006 paper ([LIT-482](../literature.d/LIT-482.md), read in [NOTE-388](NOTE-388.md)) refers its notion of
+collective intentionality to the 1990 paper, and [THEORY-625](../theory.d/THEORY-625.md) records that
 it defers the irreducibility argument there. This reading supplies that
 paper's content at second hand. Zaibert's distinction between collective
-intentions and collective intentionality bears on what THEORY-625 calls
+intentions and collective intentionality bears on what [THEORY-625](../theory.d/THEORY-625.md) calls
 collective acceptance: if acceptance is not an intention, Zaibert's
 argument against irreducible we-intentions does not reach it, and he
 himself leaves collective desires and beliefs open (p. 220). Tuomela and
@@ -204,27 +204,27 @@ not held here.
 
 ## Bearing on the record
 
-- **THEORY-625, against, at second hand.** Its promote_when needs "an
+- **[THEORY-625](../theory.d/THEORY-625.md), against, at second hand.** Its promote_when needs "an
   argument that collective intentionality is irreducible to interlocking
-  individual attitudes", which the 2006 paper defers to LIT-490. By
-  Zaibert's quotations, LIT-490 does not give one: Searle says "I have not
+  individual attitudes", which the 2006 paper defers to [LIT-490](../literature.d/LIT-490.md). By
+  Zaibert's quotations, [LIT-490](../literature.d/LIT-490.md) does not give one: Searle says "I have not
   demonstrated that no such analysis could ever succeed" (CIA 406), offers
   the irreducibility as an intuition his arguments "suggest" (CIA 401),
   and rejects the best reductive account by a single case (CIA 404). So
-  the reading does not meet what THEORY-625 waits on, and it indicates
-  that a first-hand reading of LIT-490 would not meet it either. It does
-  not refute THEORY-625's account of institutions, which needs collective
+  the reading does not meet what [THEORY-625](../theory.d/THEORY-625.md) waits on, and it indicates
+  that a first-hand reading of [LIT-490](../literature.d/LIT-490.md) would not meet it either. It does
+  not refute [THEORY-625](../theory.d/THEORY-625.md)'s account of institutions, which needs collective
   acceptance rather than collective intentions in Zaibert's narrow sense.
-  This is a critic's report and does not replace reading LIT-490.
-- **THEORY-414**, the rival that treats institutions as rules in
+  This is a critic's report and does not replace reading [LIT-490](../literature.d/LIT-490.md).
+- **[THEORY-414](../theory.d/THEORY-414.md)**, the rival that treats institutions as rules in
   equilibrium among individuals, is not discussed, but the report removes
-  one support THEORY-625 might have had against it: the 1990 paper's
+  one support [THEORY-625](../theory.d/THEORY-625.md) might have had against it: the 1990 paper's
   irreducibility claim is stated as an intuition.
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations
 
-- **Second hand.** Every claim about LIT-490 rests on Zaibert's
+- **Second hand.** Every claim about [LIT-490](../literature.d/LIT-490.md) rests on Zaibert's
   quotations and his notation. He drops Searle's upper-case expressions
   after Searle does, and some of his formal comparison depends on
   restoring them.
@@ -240,7 +240,7 @@ not held here.
 
 ## Open questions
 
-- Does LIT-490 itself, read first-hand, contain more than Zaibert reports,
+- Does [LIT-490](../literature.d/LIT-490.md) itself, read first-hand, contain more than Zaibert reports,
   for instance an argument against reduction beyond the egoist case?
 - Is collective acceptance, as Searle's later work uses it, an intention,
   a desire or a belief? Zaibert's critique reaches only the first.

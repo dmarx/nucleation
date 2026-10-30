@@ -169,16 +169,16 @@ The essay has no results of its own. Its claims, in order:
 ## Connections
 
 The essay presents itself as a companion to Barad 2010 (note 57) and points
-to Barad 2007 (LIT-1657) for the physics (notes 49, 53), and to Barad 2003
-(LIT-1653) for posthumanist performativity (note 23). It draws its
+to Barad 2007 ([LIT-1657](../literature.d/LIT-1657.md)) for the physics (notes 49, 53), and to Barad 2003
+([LIT-1653](../literature.d/LIT-1653.md)) for posthumanist performativity (note 23). It draws its
 nonhuman cases from Vicki Kirby (*Quantum Anthropologies*, 2011) and Astrid
 Schrader (2010). Its quantum physics is Bohr's complementarity read as
-ontology, the line Faye and Jaksland (NOTE-1220) and Jaksland (NOTE-1230)
+ontology, the line Faye and Jaksland ([NOTE-1220](NOTE-1220.md)) and Jaksland ([NOTE-1230](NOTE-1230.md))
 examine in the record. Its view of performativity is set against Butler's.
 
 ## Bearing on the record
 
-- **TERM-087: partly.** The term waits on "a reading of Barad herself that
+- **[TERM-087](../terms.d/TERM-087.md): partly.** The term waits on "a reading of Barad herself that
   confirms or corrects the third sense". This reading confirms the core in
   her own words: an agential cut is enacted by an intra-action within a
   phenomenon, it is "a 'local' resolution within the phenomenon of the
@@ -186,18 +186,18 @@ examine in the record. Its view of performativity is set against Butler's.
   yields "agential separability – the local condition of
   exteriority-within-phenomena", and it is defined against "the Cartesian
   cut – an inherent distinction – between subject and object" (p. 32),
-  which matches TERM-087's first sense. It does not confirm the rest. The
+  which matches [TERM-087](../terms.d/TERM-087.md)'s first sense. It does not confirm the rest. The
   essay never defines an apparatus in general (the word is used only of the
   two-slit set-up), never says that a cut is movable or that "no agential
   cut is an inherent distinction", and never mentions Heisenberg. Those
   parts still rest on Faye and Jaksland's quotations from Barad 2007. One
   difference to note: Barad reads Bohr's phenomenon as an ontological
   inseparability of object and apparatus "which do not preexist the
-  experiment" (p. 42), whereas TERM-087, after Faye and Jaksland, holds
+  experiment" (p. 42), whereas [TERM-087](../terms.d/TERM-087.md), after Faye and Jaksland, holds
   Bohr's own separation fixed and epistemic. That is a disagreement between
   Barad and her critics about Bohr, which the term already reports, not a
   correction of the term.
-- **CLAIM-476.** It calls luria an apparatus "in Barad's constitutive
+- **[CLAIM-476](../claims.d/CLAIM-476.md).** It calls luria an apparatus "in Barad's constitutive
   sense" for a record's objects. The essay supports the sense of cut the
   claim uses (a differentiation enacted within a phenomenon, not
   presupposed), but gives no general account of an apparatus, so it does
@@ -217,13 +217,13 @@ examine in the record. Its view of performativity is set against Butler's.
   what can be jointly measured gets no such conclusion from it.
 - **Terms are defined in the notes or by reference**: phenomenon (note 28),
   spacetimemattering (note 25), diffraction (notes 30, 58). Apparatus, the
-  word TERM-087 most needs, is not defined.
+  word [TERM-087](../terms.d/TERM-087.md) most needs, is not defined.
 - **The version.** Barad says the Qui Parle printing is not the version she
   submitted (notes 1 and 15); this reading is of the authorized one only.
 
 ## Open questions
 
 - Does Barad 2007 define the apparatus and the movability of the cut as
-  Faye and Jaksland quote her? Only a reading of LIT-1657 settles it.
+  Faye and Jaksland quote her? Only a reading of [LIT-1657](../literature.d/LIT-1657.md) settles it.
 - Is the agential cut ontological in a sense that differs from a movable
   Heisenberg cut taken realistically? The essay does not compare them.

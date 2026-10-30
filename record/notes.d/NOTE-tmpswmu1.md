@@ -125,31 +125,31 @@ involuntary switching also shapes voluntary switching.
 ## Connections
 
 It applies the stochastic HKB theory (Schöner, Haken and Kelso 1986, not
-filed; the model of LIT-588) and the intentional-dynamics formulation of
+filed; the model of [LIT-588](../literature.d/LIT-588.md)) and the intentional-dynamics formulation of
 Schöner and Kelso (refs. 20–21, not filed) to new data, and relies on
-Kelso, Scholz and Schöner 1986 (LIT-tmp8grr0, NOTE-tmpegx3g) and Scholz,
+Kelso, Scholz and Schöner 1986 ([LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md), [NOTE-tmpegx3g](NOTE-tmpegx3g.md)) and Scholz,
 Kelso and Schöner 1987 (not filed) for the spontaneous transition's loss
-of stability. Kelso 2021 (LIT-601, NOTE-467) summarizes it.
+of stability. Kelso 2021 ([LIT-601](../literature.d/LIT-601.md), [NOTE-467](NOTE-467.md)) summarizes it.
 
 ## Bearing on the record
 
-- **THEORY-069: partly, and indirectly.** It does not test the
+- **[THEORY-069](../theory.d/THEORY-069.md): partly, and indirectly.** It does not test the
   spontaneous transition, so it meets none of the `promote_when`'s three
   findings at first hand. What it adds is independent of them: the two
   patterns differ in stability as the model says, measured by switching
   times rather than fluctuations, and in-phase is the deeper well. Its
   introduction cites growth in relaxation time before the spontaneous
-  switch (refs. 15–16), which is the evidence THEORY-069 still lacks; the
+  switch (refs. 15–16), which is the evidence [THEORY-069](../theory.d/THEORY-069.md) still lacks; the
   citation points to Scholz, Kelso and Schöner 1987 (Physics Letters A
   123:390, doi:10.1016/0375-9601(87)90038-7), the paper to file next.
-- **THEORY-069's report of a fit "with a single free parameter".** This
+- **[THEORY-069](../theory.d/THEORY-069.md)'s report of a fit "with a single free parameter".** This
   paper's fit has one new parameter, c_int, set to the order of magnitude
   of the switching times; the theoretical means (0.41 s and 0.85 s) are
   each above the observed (about 0.35 s and 0.6 s, read from Fig. 2). The
   asymmetry and the tail are reproduced; the values only roughly.
 - **behavioral-integration.** A case where intention and pattern dynamics
   are not separate controllers: the intended act runs through the same
-  landscape as the involuntary one. It bears on THEORY-069's line that no
+  landscape as the involuntary one. It bears on [THEORY-069](../theory.d/THEORY-069.md)'s line that no
   controller chooses the pattern: here a choice is made, and the dynamics
   still sets its cost.
 - No instruction for machine-learning practice; nothing for the anthology.
