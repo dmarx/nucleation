@@ -45,6 +45,7 @@ bears_on:
 - QUESTION-314
 ---
 <!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: ADR-047 THEORY-tmp85kj5 — ADR-047 Superseded by ADR-057, which keeps its evidence rulings; THEORY-tmp85kj5 Proposed, the reading that keeps the general clause of the old title -->
 
 # THEORY-904: Gollwitzer and Sheeran (2006) conclude, narratively from a handful of studies that measured or manipulated the goal intention, that implementation intentions affect performance only when the goal intention they serve is strong and activated, so the planned response is not elicited mechanically by its cue; in 2024, across eight tests, plan effects were larger with strong, activated or self-concordant goal intentions than with weak, unactivated or self-discordant ones (d = .79 for the difference), and in 31 physical-activity tests split at the median of intention, planning helped with strong intentions (d = .31) and had no effect with weak ones (d ≈ 0)
 
@@ -100,3 +101,15 @@ cue-to-action link with no gate would do.
   authors left open.
 - **[CLAIM-349](../claims.d/CLAIM-349.md).** The goal keeps authority over whether the planned
   response is allowed to act; the plan's own authority is conditional.
+
+## Note of 2026-10-30: the dropped clause
+
+The old title's evidence clause, "matched in 2024 by large plan effects
+under high motivation (d = .79, k = 8)", was a mis-statement. Table 2's
+d = .79 is the difference between plan effects with strong, activated or
+self-concordant goal intentions and with weak ones, over eight tests
+([LIT-1488](../literature.d/LIT-1488.md), pp. 173, 177), not a plan effect under high motivation; [NOTE-1131](../notes.d/NOTE-1131.md)'s
+note of 2026-10-29 records the same correction. The clause is not kept as a
+proposal ([ADR-047](../decisions.d/ADR-047.md), kind 3). The old title's general clause, the gate itself,
+which Gollwitzer and Sheeran assert, is kept as the Proposed reading
+[THEORY-tmp85kj5](THEORY-tmp85kj5.md).

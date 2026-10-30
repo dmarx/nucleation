@@ -209,3 +209,21 @@ the aligned weights the derivation assumes.
   acquired: here, the input spectrum through the attention product.
   [THEORY-229](THEORY-229.md) is the self-supervised instance of the same pattern.
 - **[CLAIM-118](../claims.d/CLAIM-118.md)** is corroborated by this reading.
+
+## Note of 2026-10-30: the dropped clause
+
+<!-- inactive-ok-block: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the four kinds -->
+The ninth status review's narrowing dropped no generalization the source
+asserts. Version 2's title said the modes "decouple exactly only when
+inputs are isotropic", that the layer "learns as a two-layer linear
+network does" without naming the aligned start, and that it converges to
+"a preconditioned estimator". The first was imprecise: the review's
+integration of the corrected flow showed that exact decoupling, and Eq.
+11's fixed point, at finite N also need the modes to start equal, and that
+the q flow is not the p flow with p and q exchanged. The second and third
+left out conditions the derivation always had. These were the record's own
+imprecisions, introduced by its version-2 correction of the source, not
+claims of Mainali & Teixeira, so they are kind 3 under [ADR-047](../decisions.d/ADR-047.md) and get
+this note only. Whether misaligned starts come into alignment is open
+scope that neither the paper nor the record asserts (kind 4), and stays
+[QUESTION-305](../questions.d/QUESTION-305.md).
