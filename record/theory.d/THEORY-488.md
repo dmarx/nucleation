@@ -33,7 +33,7 @@ history:
     extended past 2022 would test whether the full-scale invasion of Ukraine
     changed the view. More quotations from the authors already cited cannot
     settle it. The wide form, which the source asserts, is kept as
-    THEORY-tmpe2s1g, Proposed, which extends this entry and inherits the
+    THEORY-1207, Proposed, which extends this entry and inherits the
     promote_when word for word (ADR-047, kind 1).
 tags:
 - society-and-governance
@@ -49,7 +49,7 @@ summary: >-
   institutional weak to moderate, and the US policy recommendations
   advocacy. Written before the 2022 invasion.
 ---
-<!-- inactive-ok-file: THEORY-tmpe2s1g — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
+<!-- inactive-ok-file: THEORY-1207 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
 # THEORY-488: Clark (2020), synthesising open writing by Russian military authors of 2015 to 2020, chiefly Chekinov and Bogdanov, Bartosh and Kiselev, with no stated rule for choosing sources, reports that they use "hybrid war" for a category of war marked off by its objective, reshaping a target state's governance, geostrategic orientation and worldview, in which every action up to conventional military force is subordinate to an information campaign, and not, as he says Western usage does, for a set of means below the threshold of armed conflict
 

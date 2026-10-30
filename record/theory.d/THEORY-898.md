@@ -32,7 +32,7 @@ history:
     after a disruption asks for the thesis the authors propose, that
     routine inaction keeps an anxiety latent which disruption by the
     security apparatus releases, and that thesis moves with the old
-    condition word for word to THEORY-tmp9ae7b, Proposed, extending this
+    condition word for word to THEORY-1202, Proposed, extending this
     entry (ADR-047 kind 1).
 tags:
 - society-and-governance

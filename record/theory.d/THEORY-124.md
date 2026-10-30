@@ -38,7 +38,7 @@ history:
     such as a fixed accuracy threshold in the large-N limit. Further
     analyses of the IBL data cannot settle it, since they share the task,
     the variables and the animals. The wide form, which the source asserts,
-    is kept as THEORY-tmp1ykjb, Proposed, which extends this entry and
+    is kept as THEORY-1196, Proposed, which extends this entry and
     inherits the promote_when word for word (ADR-047, kind 1).
 tags:
 - neuroscience
@@ -59,7 +59,7 @@ summary: >-
 bears_on:
 - QUESTION-042
 ---
-<!-- inactive-ok-file: THEORY-tmp1ykjb — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
+<!-- inactive-ok-file: THEORY-1196 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
 # THEORY-124: In Posani et al.'s analysis of the IBL Brainwide Map, recorded while trained mice performed one visual decision task, the eight-variable selectivity profiles of neurons within one cortical area clustered beyond a covariance-matched Gaussian null only in VISp, AUDp and SSp-ul of about 20 areas tested, while profiles pooled across areas clustered along anatomical lines; and over the task conditions each area distinguishes, at least 95% of random balanced dichotomies were linearly decodable above a label-shuffled null in 15 of 16 areas, a lenient criterion
 

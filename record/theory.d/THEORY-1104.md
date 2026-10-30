@@ -25,14 +25,14 @@ history:
     reports what Tobiasson and colleagues' survey finds and how the
     authors read it; NOTE-1242 read the paper in full, and nothing in
     the record contradicts the report. What the condition asked beyond
-    the title, that the authors be right, moves to THEORY-tmp2abrp,
+    the title, that the authors be right, moves to THEORY-1197,
     Proposed, which extends this entry and keeps the condition word for
     word (ADR-065 §3). Narrowed first: "with no pathway from one donor"
     was a mis-statement, since by NOTE-1242 Myxococcota leads Asgard in
     nicotinate and nucleotide-sugar metabolism, so the title now names
     that signal (ADR-047 kind 3; dated note below). The record's own
     critique, "a reading the gene ancestries alone cannot establish", is
-    split off as CLAIM-tmplh4g2 (kind 2). The old title: "In Tobiasson,
+    split off as CLAIM-508 (kind 2). The old title: "In Tobiasson,
     Luo, Wolf and Koonin's constrained-tree survey of widespread
     eukaryotic protein families, Asgard archaea are the largest single
     prokaryotic source, with about half the likelihood weight in the
@@ -81,7 +81,7 @@ summary: >-
   mitochondrion and "no indication of another symbiotic event". The
   composition is shown; the scenario is read off it.
 ---
-<!-- inactive-ok-file: THEORY-tmp2abrp CLAIM-tmplh4g2 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
+<!-- inactive-ok-file: THEORY-1197 CLAIM-508 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
 <!-- inactive-ok-file: NOTE-1242 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 # THEORY-1104: In Tobiasson, Luo, Wolf and Koonin's constrained-tree survey of widespread eukaryotic protein families, Asgard archaea are the largest single prokaryotic source, with about half the likelihood weight in the best-resolved families and the lead in nearly every functional system, while Alphaproteobacteria contribute a small, coherent set centred on the mitochondrion and other bacteria about a third of families, scattered across functions with no pathway led by one donor except a narrow Myxococcota signal in nucleotide-sugar and nicotinate metabolism; the authors read this as one Asgard host lineage, one endosymbiont and piecemeal gene transfer rather than further symbioses
 
@@ -181,4 +181,4 @@ The old title said the other bacteria's genes were scattered "with no pathway fr
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Tobiasson and colleagues' survey finds and how the authors read it, and [NOTE-1242](../notes.d/NOTE-1242.md) read the paper in full. Whether eukaryogenesis had one host lineage, one endosymbiont and piecemeal transfer is [THEORY-tmp2abrp](THEORY-tmp2abrp.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-tmplh4g2](../claims.d/CLAIM-tmplh4g2.md), Proposed.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Tobiasson and colleagues' survey finds and how the authors read it, and [NOTE-1242](../notes.d/NOTE-1242.md) read the paper in full. Whether eukaryogenesis had one host lineage, one endosymbiont and piecemeal transfer is [THEORY-1197](THEORY-1197.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-508](../claims.d/CLAIM-508.md), Proposed.

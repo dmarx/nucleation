@@ -26,7 +26,7 @@ history:
     difference in what the experts can do, or does not recur across seeds.
     Whether the balancing losses produce competent specialists, rather than
     equally used ones, is a separate question." The mechanism study moves to
-    THEORY-tmptcb8e, Proposed, which extends this entry; the demand for the
+    THEORY-1218, Proposed, which extends this entry; the demand for the
     ICLR version names no discrepancy and is dropped (ADR-065 §3 and §4;
     ADR-047, kind 1).
 tags:

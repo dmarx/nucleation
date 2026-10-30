@@ -23,7 +23,7 @@ history:
     reports what Shigenobu and colleagues' genome shows and what they
     infer from it; NOTE-1236 read the paper in full, and nothing in the
     record contradicts the report. What the condition asked beyond the
-    title, that the authors be right, moves to THEORY-tmptlzgt,
+    title, that the authors be right, moves to THEORY-1219,
     Proposed, which extends this entry and keeps the condition word for
     word (ADR-065 §3). The answers edge on QUESTION-277 is moved to bears_on
     (ADR-060): the reading is evidence on the question, not an answer to
@@ -56,7 +56,7 @@ summary: >-
   inferences. The paper names no mechanism of loss beyond a homeostatic
   niche: it says nothing of drift.
 ---
-<!-- inactive-ok-file: THEORY-tmptlzgt — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1219 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 CASE-173 LIT-1573 — Open, Proposed or Unfetched; the question, case, account and unread work this is set beside, nothing here rests on them -->
 # THEORY-1103: On Shigenobu and colleagues' genome of Buchnera sp. APS, the aphid symbiont keeps the genes for the amino acids its host cannot make and has lost almost all of those its host can, uses host-made glutamate and aspartate as precursors, and lacks phospholipid synthesis and nearly all its own transcriptional regulators, so that its metabolism interlocks with the host's and it presumably lives only inside the bacteriocyte, a state reached by gene loss from an E. coli-like ancestor
 
@@ -124,4 +124,4 @@ sequence shows.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Shigenobu and colleagues' genome shows and what they infer from it, and [NOTE-1236](../notes.d/NOTE-1236.md) read the paper in full. Whether Buchnera's metabolism interlocks with its host's as inferred is [THEORY-tmptlzgt](THEORY-tmptlzgt.md)'s question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Shigenobu and colleagues' genome shows and what they infer from it, and [NOTE-1236](../notes.d/NOTE-1236.md) read the paper in full. Whether Buchnera's metabolism interlocks with its host's as inferred is [THEORY-1219](THEORY-1219.md)'s question, Proposed, which keeps this entry's old promote_when.

@@ -22,11 +22,11 @@ history:
     reports what Santana-Molina and colleagues find and how they read
     it; NOTE-1239 read the paper in full, and nothing in the record
     contradicts the report. What the condition asked beyond the title,
-    that the authors be right, moves to THEORY-tmpcoo9s, Proposed, which
+    that the authors be right, moves to THEORY-1205, Proposed, which
     extends this entry and keeps the condition word for word (ADR-065
     §3). Narrowed first: the record's own critique, "but it is what any
     archaeal-host, bacterial-endosymbiont origin would leave", is split
-    off as CLAIM-tmp1vxtu (ADR-047 kind 2), and the paper's support for
+    off as CLAIM-506 (ADR-047 kind 2), and the paper's support for
     the Asgard placements (four at bootstrap 39–97%, two ambiguous) is
     added. The old title: "Santana-Molina, Williams, Snel and Spang find
     that the last eukaryotic common ancestor's central carbon metabolism
@@ -73,7 +73,7 @@ summary: >-
   as support for syntrophy; it does not discriminate syntrophy from other
   symbiogenetic models.
 ---
-<!-- inactive-ok-file: THEORY-tmpcoo9s CLAIM-tmp1vxtu — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
+<!-- inactive-ok-file: THEORY-1205 CLAIM-506 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
 <!-- inactive-ok-file: NOTE-1239 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1591 LIT-1597 — Open, Deferred or Unavailable; the question this bears on and unread works it is set beside, nothing here rests on them -->
 # THEORY-1109: Santana-Molina, Williams, Snel and Spang find that the last eukaryotic common ancestor's central carbon metabolism was chimeric: a few Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate pathway, four placed with Asgard archaea at bootstrap 39–97% and two ambiguously, most alphaproteobacterial ones in the mitochondrial TCA cycle and pyruvate conversion, and others from various bacteria with no third dominant donor, since remodelled by loss, horizontal replacement and retargeting so that compartment no longer follows origin; the authors take the cytosol–mitochondrion split as support for syntrophy
@@ -162,4 +162,4 @@ and compartments. In the main they are not.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Santana-Molina and colleagues find and how they read it, and [NOTE-1239](../notes.d/NOTE-1239.md) read the paper in full. Whether eukaryotes began in a syntrophic partnership is [THEORY-tmpcoo9s](THEORY-tmpcoo9s.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-tmp1vxtu](../claims.d/CLAIM-tmp1vxtu.md), Proposed.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Santana-Molina and colleagues find and how they read it, and [NOTE-1239](../notes.d/NOTE-1239.md) read the paper in full. Whether eukaryotes began in a syntrophic partnership is [THEORY-1205](THEORY-1205.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-506](../claims.d/CLAIM-506.md), Proposed.

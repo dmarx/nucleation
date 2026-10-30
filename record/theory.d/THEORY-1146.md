@@ -19,7 +19,7 @@ history:
     says "can" and reports what happened in the two confounded toy
     models. That the causal partition is the optimum is THEORY-1125.
     Whether search finds it on larger systems moves to
-    QUESTION-tmprxak2, which this entry now bears on. The old title:
+    QUESTION-346, which this entry now bears on. The old title:
     "Under confounding the partition of a variable X by what it
     predicts about a target Y differs from its partition by what
     setting it does to Y, so the information bottleneck at full
@@ -43,7 +43,7 @@ date: '2026-10-29'
 source:
 - LIT-1802
 bears_on:
-- QUESTION-tmprxak2
+- QUESTION-346
 summary: >-
   Simoes, Dastani and van Ommen (UAI 2025), [LIT-1802](../literature.d/LIT-1802.md), §8 and
   Appendices E–F, read in [NOTE-1347](../notes.d/NOTE-1347.md). Three SCMs with 7, 4 and 16
@@ -51,10 +51,10 @@ summary: >-
   values of T was needed at full control. The difference between the
   partitions follows from the definitions; what the experiments add is
   that the search finds the causal one, in toy problems only. Active as a
-  report (ADR-065); whether search finds it at scale is QUESTION-tmprxak2.
+  report (ADR-065); whether search finds it at scale is QUESTION-346.
 ---
 
-<!-- inactive-ok-file: QUESTION-tmprxak2 — Open; the question this report leaves, cited as open -->
+<!-- inactive-ok-file: QUESTION-346 — Open; the question this report leaves, cited as open -->
 
 # THEORY-1146: Under confounding the partition of a variable X by what it predicts about a target Y can differ from its partition by what setting it does to Y, so the information bottleneck at full sufficiency can learn distinctions no intervention could use and miss ones only intervention reveals, as it did in two confounded toy models, while the causal information bottleneck, computed from observational data through a backdoor set, recovered the causal partition in all three toy models, projected gradient search finding it in 95 to 100 percent of runs
 
@@ -110,4 +110,4 @@ encoders that leave values of T unused (p. 17).
 The title said the partitions differ under confounding and that the
 bottleneck learns and misses distinctions, as if always; it now says what
 confounding makes possible and what the toy models showed. Whether the
-search scales is [QUESTION-tmprxak2](../questions.d/QUESTION-tmprxak2.md).
+search scales is [QUESTION-346](../questions.d/QUESTION-346.md).

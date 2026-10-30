@@ -6,7 +6,7 @@
 
 **The current account** — the best explanation the record holds for why this happens.
 
-274 of 505 CLAIM documents. Back to the [full index](../README.md).
+274 of 509 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -18,7 +18,7 @@ history:
     as the body already did. The demand for the version of record is
     dropped under ADR-065 §4: no discrepancy between it and the
     working paper is named. The abstract's thesis moves to
-    THEORY-tmp2mjzt, Proposed, which extends this entry and keeps the
+    THEORY-1198, Proposed, which extends this entry and keeps the
     rest of the old condition word for word (ADR-047 kind 1). The old
     title: "Of 853 national states of emergency declared from 1949 to
     2017, 115 were reported as unlawful in declaration, conduct or
@@ -48,13 +48,13 @@ summary: >-
   the constitutional maximum, and the authors call the cases "suspected to
   be unlawful". Descriptive counts and weak logits; nothing here shows that
   emergency measures outlive the emergency. Active as a report (ADR-065);
-  the abstract's thesis is THEORY-tmp2mjzt, Proposed.
+  the abstract's thesis is THEORY-1198, Proposed.
 supports:
 - CLAIM-445
 ---
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the claim this bears on, named, nothing here rests on it -->
 
-<!-- inactive-ok-file: THEORY-tmp2mjzt — Proposed; the thesis split from this entry, cited as open -->
+<!-- inactive-ok-file: THEORY-1198 — Proposed; the thesis split from this entry, cited as open -->
 
 # THEORY-911: Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and those so coded lasted 321 days on average against 115, a gap the coding of overlong emergencies as unlawful builds in part
 
@@ -113,5 +113,5 @@ the scale of the crisis, as the authors allowed (p. 8). Only 14 of 115 did.
 Promoted as a report of the paper's counts ([ADR-065](../decisions.d/ADR-065.md)). The version of record
 was not read, and no discrepancy with it is named; [NOTE-1125](../notes.d/NOTE-1125.md) says which
 copy was read. The abstract's thesis, that unlawful emergencies follow
-turmoil and last longer, is [THEORY-tmp2mjzt](THEORY-tmp2mjzt.md), Proposed, which extends this
+turmoil and last longer, is [THEORY-1198](THEORY-1198.md), Proposed, which extends this
 entry and waits on an independent coding of lawfulness.

@@ -34,7 +34,7 @@ history:
     built flat does not bear on the second half of the title, which is
     arithmetic and already checked." Its demand for a rerun of the
     released harness reproducing Table 1 asks for replication, more than
-    the title asserts, and moves to QUESTION-tmphbreu.
+    the title asserts, and moves to QUESTION-343.
 tags:
 - network-science
 - compositionality

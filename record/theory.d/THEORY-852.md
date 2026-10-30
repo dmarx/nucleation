@@ -31,7 +31,7 @@ history:
     positive weight on profit; or an independent measure of the owners'
     editorial preferences across the episodes showing them constant. A
     further fit of the same model to the same episodes does not settle it."
-    It moves word for word to THEORY-tmpt4mf4, Proposed, which carries the
+    It moves word for word to THEORY-1217, Proposed, which carries the
     unconditional finding the paper asserts and extends this entry (ADR-065
     §3 and §7; ADR-047, kind 1).
 tags:

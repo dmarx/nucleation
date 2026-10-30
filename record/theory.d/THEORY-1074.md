@@ -25,7 +25,7 @@ history:
     agreement follows from probability theory. Neither can the
     local-friendliness theorems, which bear on absolute facts, not on
     agreement between perspectives." It moves word for word to
-    THEORY-tmpp0j0p, Proposed, which carries the general claim and extends
+    THEORY-1213, Proposed, which carries the general claim and extends
     this entry (ADR-065 §3; ADR-047, kind 1).
 tags:
 - quantum-foundations
@@ -38,7 +38,7 @@ summary: >-
   third party's relative fact, are computed in a three-system example and
   in Wigner's friend. The general claims, a solution to
   RQM's combination problem and consistency of perspectives, are asserted,
-  not shown; whether they hold is THEORY-tmpp0j0p, Proposed.
+  not shown; whether they hold is THEORY-1213, Proposed.
   Every computation is relative to one outside system, where agreement is
   automatic. This is the same gap [THEORY-621](THEORY-621.md) and [THEORY-1080](THEORY-1080.md) name.
 ---

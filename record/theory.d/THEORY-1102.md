@@ -23,13 +23,13 @@ history:
     reports what Pittis and Gabaldón's analysis finds and how the
     authors read it; NOTE-1240 read the paper in full, and nothing in
     the record contradicts the report. What the condition asked beyond
-    the title, that the authors be right, moves to THEORY-tmpcrrbq,
+    the title, that the authors be right, moves to THEORY-1206,
     Proposed, which extends this entry and keeps the condition word for
     word (ADR-065 §3). Narrowed first: the record's own critique in the
     old title's last clause (that reading length as time assumes
     proportional rates, that the alphaproteobacterial difference is
     marginal, and that stem length shortens when a closer relative is
-    sampled) is split off as CLAIM-tmppxk4w (ADR-047 kind 2). The title
+    sampled) is split off as CLAIM-509 (ADR-047 kind 2). The title
     now gives the P value and the assumption in the paper's own word,
     "correlated". The old title: "On Pittis and Gabaldón's stem-length
     analysis of the LECA proteome, families of alphaproteobacterial
@@ -76,7 +76,7 @@ summary: >-
   chimaeric host could have come from partners or from transfer, which
   the paper cannot tell apart.
 ---
-<!-- inactive-ok-file: THEORY-tmpcrrbq CLAIM-tmppxk4w — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
+<!-- inactive-ok-file: THEORY-1206 CLAIM-509 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
 <!-- inactive-ok-file: QUESTION-277 NOTE-1240 — Open, Deferred, Proposed or unmerged; the question this answers in part, the reading it comes from and the dating study set beside it, nothing here rests on them -->
 
 # THEORY-1102: On Pittis and Gabaldón's stem-length analysis of the LECA proteome, families of alphaproteobacterial origin and mitochondrial location sit closer to their prokaryotic relatives, after correction for each family's rate, than families of other bacterial origin (P = 0.044), which sit closer than archaeal families, and the authors read this as late acquisition of the mitochondrion by a host whose proteome was already chimaeric, under their stated assumption that rates before and after LECA are correlated
@@ -153,4 +153,4 @@ narrow.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Pittis and Gabaldón's analysis finds and how the authors read it, and [NOTE-1240](../notes.d/NOTE-1240.md) read the paper in full. Whether the mitochondrion was acquired late by an already chimaeric host is [THEORY-tmpcrrbq](THEORY-tmpcrrbq.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-tmppxk4w](../claims.d/CLAIM-tmppxk4w.md), Proposed.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Pittis and Gabaldón's analysis finds and how the authors read it, and [NOTE-1240](../notes.d/NOTE-1240.md) read the paper in full. Whether the mitochondrion was acquired late by an already chimaeric host is [THEORY-1206](THEORY-1206.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-509](../claims.d/CLAIM-509.md), Proposed.

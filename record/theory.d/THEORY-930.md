@@ -33,7 +33,7 @@ history:
     bear on it." Its demand for the same profile under other samplers,
     other games and other equilibria asks for the paper's wider
     hypothesis, that real-world games have this geometry, which moves with
-    the old condition word for word to THEORY-tmp5qakg, Proposed,
+    the old condition word for word to THEORY-1199, Proposed,
     extending this entry (ADR-047 kind 1).
 tags:
 - game-theory

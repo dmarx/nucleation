@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [30 Oct 08:29 — The twenty-second status review: ADR-065 applied to 58 readings](2026-10.md#the-twenty-second-status-review-adr-065-applied-to-58-readings)
 - [30 Oct 08:00 — Readable substitutes for unread works: 38 readings filed, four claims promoted, Le Cam's criterion derived](2026-10.md#readable-substitutes-for-unread-works-38-readings-filed-four-claims-promoted-le-cams-criterion-derived)
 - [30 Oct 05:08 — The twentieth status review: two lab cases promoted, no live claim left on an unread work](2026-10.md#the-twentieth-status-review-two-lab-cases-promoted-no-live-claim-left-on-an-unread-work)
 - [30 Oct 04:42 — The nineteenth status review: the ready list emptied, five claims promoted and eight Active claims taken off unread works](2026-10.md#the-nineteenth-status-review-the-ready-list-emptied-five-claims-promoted-and-eight-active-claims-taken-off-unread-works)
@@ -121,8 +122,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-112 entries across 1 book, newest first.
+113 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 112 | 2026-10-07 | 2026-10-30 |
+| [2026-10](2026-10.md) | 113 | 2026-10-07 | 2026-10-30 |

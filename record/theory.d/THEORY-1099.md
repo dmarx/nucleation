@@ -23,7 +23,7 @@ history:
     reports what Kay and colleagues' dating finds and how the authors
     read it; NOTE-1234 read the paper in full, and nothing in the record
     contradicts the report. What the condition asked beyond the title,
-    that the authors be right, moves to THEORY-tmp9psoh, Proposed, which
+    that the authors be right, moves to THEORY-1203, Proposed, which
     extends this entry and keeps the condition word for word (ADR-065
     §3). The answers edge on QUESTION-277 is moved to bears_on (ADR-060): the
     reading is evidence on the question, not an answer to it as posed.
@@ -61,7 +61,7 @@ summary: >-
   that the priors shape which family can be older, and that the authors
   themselves cannot order phagocytosis and the mitochondrion.
 ---
-<!-- inactive-ok-file: THEORY-tmp9psoh — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1203 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1597 NOTE-1234 NOTE-1240 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works set beside it, nothing here rests on them -->
 
 # THEORY-1099: On Kay and colleagues' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open
@@ -159,4 +159,4 @@ force it.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Kay and colleagues' dating finds and how the authors read it, and [NOTE-1234](../notes.d/NOTE-1234.md) read the paper in full. Whether the host's elaboration predates the mitochondrion is [THEORY-tmp9psoh](THEORY-tmp9psoh.md)'s question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Kay and colleagues' dating finds and how the authors read it, and [NOTE-1234](../notes.d/NOTE-1234.md) read the paper in full. Whether the host's elaboration predates the mitochondrion is [THEORY-1203](THEORY-1203.md)'s question, Proposed, which keeps this entry's old promote_when.

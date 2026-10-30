@@ -42,7 +42,7 @@ history:
     panel. It is refuted if the association disappears among residents whose
     families were not in the county, or if it is accounted for by a
     present-day confounder the instrument shares with attitudes. The wide
-    form, which the source asserts, is kept as THEORY-tmpyx5bf, Proposed,
+    form, which the source asserts, is kept as THEORY-1225, Proposed,
     with the thermometer figure corrected, which extends this entry and
     inherits the promote_when word for word (ADR-047, kind 1).
 tags:
@@ -61,7 +61,7 @@ summary: >-
   transmission mechanism has the weakest evidence: a parent–child
   correlation in 241 Southern respondents not linked to county slavery.
 ---
-<!-- inactive-ok-file: THEORY-tmpyx5bf — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
+<!-- inactive-ok-file: THEORY-1225 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: CLAIM-420 CLAIM-329 — Proposed; the claims it bears on, named, not leaned on -->
 
 # THEORY-889: In Acharya, Blackwell and Sen's analysis, white Southerners surveyed in 2006 to 2011 who live in counties where a larger share of the 1860 population was enslaved are, with state fixed effects and 1860 county controls, somewhat less Democratic, less supportive of affirmative action and more racially resentful, by about 0.09 to 0.13 standard deviations per standard deviation (about 20 points) of slave share, and in 1984 to 1998 survey data colder toward black Americans, by about 0.32; a cotton-suitability instrument gives larger estimates; the direct effect estimated with present black share held fixed is about as large; and in county presidential vote, which counts black voters until disenfranchisement, the difference appeared after Reconstruction rather than before the war

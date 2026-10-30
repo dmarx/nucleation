@@ -18,7 +18,7 @@ history:
     fake-against-true gap may be selection's as well as falsity's, as
     the body already said. The paper's thesis, that anger makes fake
     news viral and that fake news on Weibo is angrier, moves to
-    THEORY-tmpueu4s, Proposed, which extends this entry and keeps the
+    THEORY-1221, Proposed, which extends this entry and keeps the
     old condition word for word, its matched-comparison refutation
     clause included (ADR-047 kind 1). The old title: "On Weibo, fake
     news carries more anger and less joy than true news, and a post's
@@ -51,11 +51,11 @@ summary: >-
   joy share fewer (R² 0.08–0.13). The paper calls this causal; the design
   is observational, and the fake set is selected for having spread.
   Active as a report of the association (ADR-065); the paper's causal
-  thesis is THEORY-tmpueu4s, Proposed.
+  thesis is THEORY-1221, Proposed.
 ---
 <!-- inactive-ok-file: LIT-083 THEORY-055 THEORY-057 — Proposed; named in Connections to mark what this account is not about, not leaned on -->
 
-<!-- inactive-ok-file: THEORY-tmpueu4s — Proposed; the paper's thesis split from this entry, cited as open -->
+<!-- inactive-ok-file: THEORY-1221 — Proposed; the paper's thesis split from this entry, cited as open -->
 
 # THEORY-329: In 32,479 Weibo posts of 2011–2016 scored with an emotion lexicon, posts tagged fake by the platform's fact-checkers carry more anger and less joy than true posts from verified accounts, and a post's share of anger words goes with more retweets after controls; whether the gap is due to falsity, and whether anger causes the spread, is not shown
 
@@ -133,5 +133,5 @@ Table S18).
 ## Note of 2026-10-30: narrowed and promoted
 
 Promoted as a report of what the corpus measured ([ADR-065](../decisions.d/ADR-065.md)). The paper's
-thesis, that anger makes fake news viral, is [THEORY-tmpueu4s](THEORY-tmpueu4s.md), Proposed,
+thesis, that anger makes fake news viral, is [THEORY-1221](THEORY-1221.md), Proposed,
 which extends this entry and keeps its old condition.

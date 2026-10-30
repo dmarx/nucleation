@@ -45,7 +45,7 @@ history:
     discrepancies between methods persist beyond their stated uncertainties
     after the identified effects are corrected, as the critics of visual,
     colour and odour metrics hold." It moves word for word to
-    THEORY-tmpc4jdo, Proposed, which carries Isaac's thesis and extends this
+    THEORY-1204, Proposed, which carries Isaac's thesis and extends this
     entry (ADR-065 §3; ADR-047, kind 1).
 tags:
 - consciousness
@@ -123,7 +123,7 @@ space and odour the critics say it is.
   can agree because they share the stimulus's physical geometry, or a
   common decision and response process, without sharing an experience.
   The "least common denominator" argument names experience as the common
-  factor and does not rule these out. That is the gap [THEORY-tmpc4jdo](THEORY-tmpc4jdo.md)'s
+  factor and does not rule these out. That is the gap [THEORY-1204](THEORY-1204.md)'s
   promote_when asks to close.
 - **Not that convergence has been shown.** It is coarse for colour, the
   best case, and disputed elsewhere.

@@ -23,7 +23,7 @@ history:
     reports what Imachi and colleagues' cultivation shows and what they
     infer from it; NOTE-1238 read the paper in full, and nothing in the
     record contradicts the report. What the condition asked beyond the
-    title, that the authors be right, moves to THEORY-tmp5wtkk,
+    title, that the authors be right, moves to THEORY-1200,
     Proposed, which extends this entry and keeps the condition word for
     word (ADR-065 §3). The answers edge on QUESTION-277 is moved to bears_on
     (ADR-060): the reading is evidence on the question, not an answer to
@@ -56,7 +56,7 @@ summary: >-
   individuality may have begun from a host already dependent on others,
   with no partner specificity, cohesion or control.
 ---
-<!-- inactive-ok-file: THEORY-tmp5wtkk — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1200 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 LIT-1597 THEORY-1048 NOTE-1238 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works and account set beside it, nothing here rests on them -->
 
 # THEORY-1108: On Imachi and colleagues' cultivation of Candidatus Prometheoarchaeum syntrophicum MK-D1, the first Asgard archaeon grown in the laboratory is a small, internally simple coccus with long branching protrusions that degrades amino acids only in syntrophy, handing hydrogen and formate to partners that can be exchanged, and from its genome and other Asgard genomes the authors infer that the Asgard ancestor was likewise dependent on metabolic partners; the isolate is a modern relative separated from the host lineage by about two billion years, grown only in co-culture, and the entangle–engulf–endogenize model built on it is a hypothesis the authors call not definitive
@@ -133,4 +133,4 @@ from genomes expected. It did not.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Imachi and colleagues' cultivation shows and what they infer from it, and [NOTE-1238](../notes.d/NOTE-1238.md) read the paper in full. Whether the Asgard ancestor depended on metabolic partners is [THEORY-tmp5wtkk](THEORY-tmp5wtkk.md)'s question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Imachi and colleagues' cultivation shows and what they infer from it, and [NOTE-1238](../notes.d/NOTE-1238.md) read the paper in full. Whether the Asgard ancestor depended on metabolic partners is [THEORY-1200](THEORY-1200.md)'s question, Proposed, which keeps this entry's old promote_when.

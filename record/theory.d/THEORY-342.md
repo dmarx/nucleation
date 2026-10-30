@@ -25,7 +25,7 @@ history:
     Its demand for the same measurement on another game, or on Hex with a
     standard implementation or larger networks, asks for generality the
     title does not claim, and the author asks for it rather than asserting
-    it; it moves to QUESTION-tmp0w77a.
+    it; it moves to QUESTION-338.
 tags:
 - learning-theory
 - anthology-candidate

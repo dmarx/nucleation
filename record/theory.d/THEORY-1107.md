@@ -23,7 +23,7 @@ history:
     reports the scenario Sørensen and colleagues propose; NOTE-1241 read
     the paper in full, and nothing in the record contradicts the report.
     What the condition asked beyond the title, that the authors be
-    right, moves to THEORY-tmpme290, Proposed, which extends this entry
+    right, moves to THEORY-1211, Proposed, which extends this entry
     and keeps the condition word for word (ADR-065 §3). The answers edge on
     QUESTION-277 is moved to bears_on (ADR-060): the reading is evidence
     on the question, not an answer to it as posed. The old promote_when:
@@ -58,7 +58,7 @@ summary: >-
   integration. It is a scenario built from systems at different stages,
   not a sequence observed in any one.
 ---
-<!-- inactive-ok-file: THEORY-tmpme290 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1211 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 CASE-167 THEORY-1050 THEORY-1051 LIT-1605 — Open, Proposed or Unavailable; the question, cases, accounts and unread work set beside this, nothing here rests on them -->
 
 # THEORY-1107: On Sørensen and colleagues' scenario, an endosymbiont becomes an organelle in steps: the host first targets effector proteins into it; an imported host protein redundant with one of its functions then lets the endosymbiont's own gene decay, making it dependent; and a general import pathway, once evolved, brings in hundreds of proteins; this genetic integration arises only in permanent, vertically transmitted associations, and host effector control without vertical transmission, as in rhizobia, does not lead to it
@@ -144,4 +144,4 @@ symbiont, or replaced functions with no effector stage anywhere.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports the scenario Sørensen and colleagues propose, and [NOTE-1241](../notes.d/NOTE-1241.md) read the paper in full. Whether endosymbionts become organelles by these steps is [THEORY-tmpme290](THEORY-tmpme290.md)'s question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports the scenario Sørensen and colleagues propose, and [NOTE-1241](../notes.d/NOTE-1241.md) read the paper in full. Whether endosymbionts become organelles by these steps is [THEORY-1211](THEORY-1211.md)'s question, Proposed, which keeps this entry's old promote_when.

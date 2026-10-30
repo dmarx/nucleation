@@ -42,7 +42,7 @@ history:
     disrupt the automatic tasks about as often as the flexible ones. More
     readouts from the lens, or more case studies from one model family,
     cannot settle it. The wide form, which the source asserts, is kept as
-    THEORY-tmpz11fs, Proposed, which extends this entry and inherits the
+    THEORY-1226, Proposed, which extends this entry and inherits the
     promote_when word for word (ADR-047, kind 1).
 tags:
 - consciousness
@@ -62,7 +62,7 @@ summary: >-
 bears_on:
 - QUESTION-048
 ---
-<!-- inactive-ok-file: THEORY-tmpz11fs — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
+<!-- inactive-ok-file: THEORY-1226 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: THEORY-091 THEORY-096 THEORY-023 THEORY-881 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-411 CLAIM-412 TERM-072 — Proposed; the batch's claims and term, cited as open -->
 

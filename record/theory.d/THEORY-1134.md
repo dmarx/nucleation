@@ -16,7 +16,7 @@ history:
     correlation is partly by construction. Its last clause, the
     record's reading that the explanation is far more coherent with
     the score than either is with human judgement, moves to
-    CLAIM-tmp2um57, Proposed, grounded in this entry, without "far":
+    CLAIM-507, Proposed, grounded in this entry, without "far":
     converted to one scale under normality, Kendall τ of 0.39 to 0.47
     is Pearson of about 0.58 to 0.67, against the heads' 0.73 to 0.82.
     The old title: "A translation metric that predicts a sentence
@@ -47,10 +47,10 @@ summary: >-
   record reads it as coherence. The top of the agreement, 0.90–0.92, is
   partly arithmetic, since the final score includes the span score with
   weight 2/9. Active as a report of one test set (ADR-065); the record's
-  reading of the gap, across different statistics, is CLAIM-tmp2um57.
+  reading of the gap, across different statistics, is CLAIM-507.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp2um57 — Proposed; the record's reading split from this entry, cited as open -->
+<!-- inactive-ok-file: CLAIM-507 — Proposed; the record's reading split from this entry, cited as open -->
 
 # THEORY-1134: A translation metric that predicts a sentence score and token-level error spans from one shared encoder reaches segment-level agreement with expert MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best among open metrics and GPT-4 prompting at the time, while the score computed from its own spans correlates with its regression scores at Pearson 0.73 to 0.82, and at 0.90 to 0.92 with its final score, which includes the span score by construction
 
@@ -102,5 +102,5 @@ disagreed while each tracked humans.
 
 Promoted as a report of what the paper measured ([ADR-065](../decisions.d/ADR-065.md)). The record's
 reading, that the spans are more coherent with the score than either is
-with expert judgement, is [CLAIM-tmp2um57](../claims.d/CLAIM-tmp2um57.md), Proposed, grounded in this
+with expert judgement, is [CLAIM-507](../claims.d/CLAIM-507.md), Proposed, grounded in this
 entry; its body states the conversion of τ to a Pearson scale.

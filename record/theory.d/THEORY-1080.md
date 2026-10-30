@@ -25,7 +25,7 @@ history:
     conflict, which would refute it. Not settled by the single S–O–P case of
     §II.D, which the paper already gives, nor by arguments that
     observer-independent facts are impossible, which bear on the first half
-    only." It moves word for word to THEORY-tmpux2fy, Proposed, which
+    only." It moves word for word to THEORY-1222, Proposed, which
     carries Rovelli's general claim and extends this entry (ADR-065 §3;
     ADR-047, kind 1).
 tags:
@@ -40,7 +40,7 @@ summary: >-
   in-toto description) is Rovelli's stated position, well supported by his
   text. The second half reports that consistency is shown for one
   case (von Neumann's correlation, p. 9) and left to the reader in general
-  (p. 15); whether it holds in general is THEORY-tmpux2fy, Proposed. Rovelli's own relativity analogy breaks where relativity
+  (p. 15); whether it holds in general is THEORY-1222, Proposed. Rovelli's own relativity analogy breaks where relativity
   supplies an invariant, which bears on [QUESTION-021](../questions.d/QUESTION-021.md) by analogy only.
 ---
 <!-- inactive-ok-file: THEORY-621 CLAIM-137 — Proposed; neighbours cited as open -->

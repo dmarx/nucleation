@@ -24,7 +24,7 @@ bearing:
 - THEORY-124
 ---
 <!-- inactive-ok-file: THEORY-262 — Proposed; a reading listed with its limit, not an answer -->
-<!-- inactive-ok-file: THEORY-tmp1ykjb — Proposed; the wide form of THEORY-124, which now carries the wording quoted below -->
+<!-- inactive-ok-file: THEORY-1196 — Proposed; the wide form of THEORY-124, which now carries the wording quoted below -->
 
 # QUESTION-042: In a recorded brain, where anatomy fixes the candidate units independently, do the blocks that clear an Occam-priced test fall at the anatomical boundaries, at which scale, and how long do short-range and long-range blocks last?
 
@@ -55,5 +55,5 @@ functional types", is no longer [THEORY-124](../theory.d/THEORY-124.md)'s wordin
 Brainwide Map (selectivity profiles beating a covariance-matched Gaussian null
 for clustering in only three of about 20 areas, with pooled profiles
 clustering along anatomy) and promoted it, Active ([ADR-065](../decisions.d/ADR-065.md)). The wide wording
-is now carried by [THEORY-tmp1ykjb](../theory.d/THEORY-tmp1ykjb.md), Proposed, which extends it. The point made
+is now carried by [THEORY-1196](../theory.d/THEORY-1196.md), Proposed, which extends it. The point made
 above stands on the narrowed, Active entry.

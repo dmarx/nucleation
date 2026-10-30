@@ -17,7 +17,7 @@ history:
     within one standard deviation, as the body already did. The wider
     thesis the paper asserts, that the model succeeds because it
     learns the geometry the theory prescribes, moves to
-    THEORY-tmpu5c8o, Proposed, which extends this entry and keeps the
+    THEORY-1220, Proposed, which extends this entry and keeps the
     old condition (ADR-047 kind 1). The old title: "A graph network
     that learns its sheaf restriction maps from node features at each
     layer reaches the top of the standard small heterophilic
@@ -49,10 +49,10 @@ summary: >-
   bipartite experiment in which the learned maps are inspected. Active as
   a report (ADR-065); the paper's explanation of its accuracy, that the
   model learns the right geometry, is tested only on the synthetic case
-  and is THEORY-tmpu5c8o, Proposed.
+  and is THEORY-1220, Proposed.
 ---
 
-<!-- inactive-ok-file: THEORY-tmpu5c8o — Proposed; the wider thesis split from this entry, cited as open -->
+<!-- inactive-ok-file: THEORY-1220 — Proposed; the wider thesis split from this entry, cited as open -->
 
 # THEORY-1139: A graph network that learns its sheaf restriction maps from node features at each layer reaches the top, mostly within one standard deviation, of the standard small heterophilic node-classification benchmarks and stays within about one point of the best on homophilic ones; on a synthetic balanced bipartite graph it learns the negative transport the theory prescribes, but whether the maps it learns on real graphs have the geometry the theory credits for its success has not been examined
 
@@ -111,5 +111,5 @@ specific baselines on the benchmarks.
 
 Promoted as a report of what the paper measured ([ADR-065](../decisions.d/ADR-065.md)). The paper's
 explanation of its accuracy, that the learned maps have the class-aligned
-geometry its theory prescribes, is [THEORY-tmpu5c8o](THEORY-tmpu5c8o.md), Proposed, which
+geometry its theory prescribes, is [THEORY-1220](THEORY-1220.md), Proposed, which
 extends this entry and keeps its old condition.

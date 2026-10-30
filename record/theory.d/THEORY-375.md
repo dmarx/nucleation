@@ -13,7 +13,7 @@ history:
     and 2.3 was its margin over the distance value (Table 3, NOTE-904);
     and 'larger than the cache' was never measured. Both are corrected as
     kind 3 of ADR-047's routing; whether cycle length relative to cache
-    size decides the crossover is carried by QUESTION-tmpbumel. Old title:
+    size decides the crossover is carried by QUESTION-340. Old title:
     "In one simulator evicting whole query-shaped cache regions, no
     replacement value function was best on every workload: a value based
     on distance from the current query beat LRU where queries clustered
@@ -32,7 +32,7 @@ history:
     synthetic paths do not settle it." Its demand for an analysis, or for
     experiments in another system that recover the crossover, asks for an
     explanation and generality the title does not claim, and moves to
-    QUESTION-tmpbumel.
+    QUESTION-340.
 tags:
 - databases
 - operations-research

@@ -23,12 +23,12 @@ history:
     reports what Campbell and colleagues measured and how they read it;
     NOTE-1235 read the paper in full, and nothing in the record
     contradicts the report. What the condition asked beyond the title,
-    that the authors be right, moves to THEORY-tmppc8wy, Proposed, which
+    that the authors be right, moves to THEORY-1214, Proposed, which
     extends this entry and keeps the condition word for word (ADR-065
     §3). Narrowed first to what the comparison measured, with its hedges
     kept: only Magicicada septendecim of the four species differs
     significantly, and lineages were tracked by marker genes. The old
-    wide form, which the paper asserts, is THEORY-tmppc8wy (kind 1). The
+    wide form, which the paper asserts, is THEORY-1214 (kind 1). The
     old title: "On Campbell and colleagues' comparison of cicadas, hosts
     whose endosymbiont Hodgkinia has split into many interdependent
     lineages compensate by sending more Hodgkinia cells to each egg, up
@@ -66,7 +66,7 @@ summary: >-
   The authors also speculate that a larger transmitted population weakens
   bottlenecks and could feed further splitting.
 ---
-<!-- inactive-ok-file: THEORY-tmppc8wy — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1214 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 CASE-177 LIT-1563 LIT-1586 LIT-1612 LIT-1602 — Open, Proposed or Unfetched; the question, case, account and unread works this is set beside, nothing here rests on them -->
 # THEORY-1106: Campbell and colleagues report, from four cicada species with five or six eggs each, that Hodgkinia cells per egg range from about 4,900 in a species with one Hodgkinia lineage to about 30,000, some six times as many, in Magicicada septendecim, whose Hodgkinia has split into many interdependent lineages and the only species that differs significantly, while Sulcia numbers are not raised, the transmission route is the same, and every egg sampled carries every lineage tracked by marker genes; the authors take the raised titre as a host adaptation that compensates for the symbiont's fragmentation, and a cost of it
 
@@ -138,4 +138,4 @@ change in the host's transmission. Neither was found.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Campbell and colleagues measured and how they read it, and [NOTE-1235](../notes.d/NOTE-1235.md) read the paper in full. Whether cicada hosts compensate for Hodgkinia's splitting in general is [THEORY-tmppc8wy](THEORY-tmppc8wy.md)'s question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Campbell and colleagues measured and how they read it, and [NOTE-1235](../notes.d/NOTE-1235.md) read the paper in full. Whether cicada hosts compensate for Hodgkinia's splitting in general is [THEORY-1214](THEORY-1214.md)'s question, Proposed, which keeps this entry's old promote_when.

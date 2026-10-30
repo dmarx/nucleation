@@ -35,7 +35,7 @@ history:
     Its demand for an intervention on co-occurrence counts, or for the
     threshold across more model sizes and families, asks for a causal and
     general claim the title does not make; the authors disclaim causal
-    claims (Appendix A), so it moves to QUESTION-tmpr9uuw.
+    claims (Appendix A), so it moves to QUESTION-344.
 tags:
 - representation-learning
 date: '2026-10-14'

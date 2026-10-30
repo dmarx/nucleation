@@ -35,7 +35,7 @@ history:
     correlations with the same plasmid reporter; refits of the switching
     model to the same two time points; and demonstrations of bistable
     switches, which are a different mechanism. The wide form, which the
-    source asserts, is kept as THEORY-tmpfnh2y, Proposed, which extends
+    source asserts, is kept as THEORY-1209, Proposed, which extends
     this entry and inherits the promote_when word for word (ADR-047, kind
     1).
 tags:
@@ -54,7 +54,7 @@ summary: >-
   paper's "memory", "conditioning" and "decision-making" are functional
   labels, not evidence of learning.
 ---
-<!-- inactive-ok-file: THEORY-tmpfnh2y — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
+<!-- inactive-ok-file: THEORY-1209 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
 # THEORY-179: In Bhattacharyya et al.'s single-cell swarm assays of E. coli MG1655, the daughters of one mother swarmed alike at the fourth generation sampled and varied again at the seventh; swarm size correlated with a plasmid fepA-promoter reporter of Fur derepression by low iron (Spearman r = 0.71), and an iron chelator or added iron shifted swarming and held the shared state longer; a three-class switching model fitted to two time points matched the lineages only with a delay of three to four generations before switching, which the authors read as ruling out a bistable switch
 

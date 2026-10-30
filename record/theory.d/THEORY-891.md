@@ -38,7 +38,7 @@ history:
     it says nothing about the direction of the partner-driven coupling,
     which the study did not measure." Its demand for an independent
     replication with an equivalence test and other temporal measures asks
-    for replication and generality, and moves to QUESTION-tmped4x9.
+    for replication and generality, and moves to QUESTION-342.
 tags:
 - complex-systems
 - embodied-cognition

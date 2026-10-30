@@ -27,7 +27,7 @@ history:
     reports what McCutcheon and colleagues' survey shows and what they
     infer from it; NOTE-1213 read the paper in full, and nothing in the
     record contradicts the report. What the condition asked beyond the
-    title, that the authors be right, moves to THEORY-tmpfaj83,
+    title, that the authors be right, moves to THEORY-1208,
     Proposed, which extends this entry and keeps the condition word for
     word (ADR-065 §3). The answers edge on QUESTION-277 is moved to bears_on
     (ADR-060): the reading is evidence on the question, not an answer to
@@ -61,7 +61,7 @@ summary: >-
   they no longer encode. The host's role is inferred, not shown: the
   mechanisms are, in the paper's word, mysteries.
 ---
-<!-- inactive-ok-file: THEORY-tmpfaj83 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1208 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 CASE-173 CASE-171 CASE-174 LIT-1559 LIT-1560 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
 # THEORY-1049: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
 
@@ -150,4 +150,4 @@ Two readings sharpen what this account rests on.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what McCutcheon and colleagues' survey shows and what they infer from it, and [NOTE-1213](../notes.d/NOTE-1213.md) read the paper in full. Whether endosymbionts lose these genes at these thresholds and the host supplies what they lack is [THEORY-tmpfaj83](THEORY-tmpfaj83.md)'s question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what McCutcheon and colleagues' survey shows and what they infer from it, and [NOTE-1213](../notes.d/NOTE-1213.md) read the paper in full. Whether endosymbionts lose these genes at these thresholds and the host supplies what they lack is [THEORY-1208](THEORY-1208.md)'s question, Proposed, which keeps this entry's old promote_when.

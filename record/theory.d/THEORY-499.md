@@ -18,7 +18,7 @@ history:
     carried through (§6.2), so the title now says the result is shown
     only for the one carried through. The thesis of the paper's title,
     that the shower happened and made the cluster, moves to
-    THEORY-tmp1hdru, Proposed, which extends this entry and keeps the
+    THEORY-1195, Proposed, which extends this entry and keeps the
     old condition (ADR-047 kind 1). The old title: "The breakup of the
     Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr
     ago, can plausibly have supplied the cluster of large lunar
@@ -52,10 +52,10 @@ summary: >-
   propagated, and the seven craters are dated by N(1) against one
   sample-dated crater. The Earth, Mars and Venus links are the authors' own
   speculation. Active as a reading of the model (ADR-065); whether the
-  shower happened is THEORY-tmp1hdru, Proposed.
+  shower happened is THEORY-1195, Proposed.
 ---
 
-<!-- inactive-ok-file: THEORY-tmp1hdru — Proposed; the thesis split from this entry, cited as open -->
+<!-- inactive-ok-file: THEORY-1195 — Proposed; the thesis split from this entry, cited as open -->
 
 # THEORY-499: The breakup of the Eulalia parent body beside the Jupiter 3:1 resonance, 785–965 Myr ago, can plausibly have supplied the cluster of large lunar craters dated near 800 Ma, but shown only for the most favourable of five model solutions, the one carried through, with an average largest lunar impactor too small for Copernicus, and with the cluster's absolute date inherited from Copernicus alone
 
@@ -139,4 +139,4 @@ results from Solutions 1–4 are unlikely to be relevant" (§6.2).
 
 Promoted as a reading of what the model shows ([ADR-065](../decisions.d/ADR-065.md)). Whether the
 shower happened, which sample ages from the other six craters would
-settle, is [THEORY-tmp1hdru](THEORY-tmp1hdru.md), Proposed, which extends this entry.
+settle, is [THEORY-1195](THEORY-1195.md), Proposed, which extends this entry.

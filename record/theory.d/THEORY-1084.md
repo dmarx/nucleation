@@ -26,7 +26,7 @@ history:
     at any memory size and a qualitatively different mechanism succeeds. A
     system that solves a problem once someone has formalized it does not
     count, since that is the preparation the claim is about." It moves word
-    for word to THEORY-tmpstm9o, Proposed, which carries the thesis and
+    for word to THEORY-1216, Proposed, which carries the thesis and
     extends this entry (ADR-065 §3; ADR-047, kind 1).
 tags:
 - cognition
@@ -41,7 +41,7 @@ summary: >-
   the seriality of the solver; nothing is implemented or tested, and Simon
   states the last part as what his analysis "suggests" and as "reason to
   be optimistic". Active as a report of the proposal; whether it is
-  right, which wants a test, is THEORY-tmpstm9o, Proposed.
+  right, which wants a test, is THEORY-1216, Proposed.
 ---
 <!-- inactive-ok-file: CLAIM-470 — Proposed; the claim whose defeater this bears on, cited as open -->
 

@@ -36,7 +36,7 @@ history:
     held; nor can the paper's Eq. 9, whose values were never computed
     against measurement." Its demand for a measurement on another database
     and web stack asks for an independent test beyond the one testbed the
-    title reports, and moves to QUESTION-tmpuhx4v.
+    title reports, and moves to QUESTION-347.
 tags:
 - databases
 - operations-research

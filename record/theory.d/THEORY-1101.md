@@ -23,14 +23,14 @@ history:
     reports what Tobiasson and colleagues find and conclude; NOTE-1242
     read the paper in full, and nothing in the record contradicts the
     report. What the condition asked beyond the title, that the authors
-    be right, moves to THEORY-tmp60tmj, Proposed, which extends this
+    be right, moves to THEORY-1201, Proposed, which extends this
     entry and keeps the condition word for word (ADR-065 §3). Narrowed
     first (ADR-047's routing): the authors' hedge "at least across the
     long evolutionary timescales analysed here" is restored, and the
     closing clause, which applied the result to orderings the paper does
     not itself address, is dropped. Its general form goes to
-    THEORY-tmp60tmj (kind 1), and its application to particular
-    orderings to CLAIM-tmppxk4w (kind 2). The old title: "Tobiasson,
+    THEORY-1201 (kind 1), and its application to particular
+    orderings to CLAIM-509 (kind 2). The old title: "Tobiasson,
     Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that
     normalized stem length does not behave as a clock of acquisition
     time: alphaproteobacterial stems are longer than Asgard ones for the
@@ -75,7 +75,7 @@ summary: >-
   the gene acquisition time". The paper still favours a late mitochondrion, on
   other grounds.
 ---
-<!-- inactive-ok-file: THEORY-tmp60tmj CLAIM-tmppxk4w — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
+<!-- inactive-ok-file: THEORY-1201 CLAIM-509 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
 <!-- inactive-ok-file: NOTE-1242 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 # THEORY-1101: Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that normalized stem length does not behave as a clock of acquisition time: alphaproteobacterial stems are longer than Asgard ones for the 70% of stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation genes presumed acquired together vary by more than two orders of magnitude, and information-processing genes have short stems; they conclude that even normalized stem lengths are set primarily by factors other than acquisition time, at least over the long timescales analysed, and suggest that adaptation after acquisition lengthens stems
 
@@ -156,4 +156,4 @@ Neither happened on these data.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Tobiasson and colleagues find and conclude, and [NOTE-1242](../notes.d/NOTE-1242.md) read the paper in full. Whether normalized stem length is in general no clock of acquisition is [THEORY-tmp60tmj](THEORY-tmp60tmj.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-tmppxk4w](../claims.d/CLAIM-tmppxk4w.md), Proposed.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Tobiasson and colleagues find and conclude, and [NOTE-1242](../notes.d/NOTE-1242.md) read the paper in full. Whether normalized stem length is in general no clock of acquisition is [THEORY-1201](THEORY-1201.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-509](../claims.d/CLAIM-509.md), Proposed.

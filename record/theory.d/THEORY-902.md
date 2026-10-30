@@ -35,7 +35,7 @@ history:
     influence no longer predicts later closure, or if feedback about
     influence leaves closure unchanged. More issue-sequence data from
     self-reports alone cannot settle it. The wide form, which the source
-    asserts, is kept as THEORY-tmpmkl9i, Proposed, which extends this entry
+    asserts, is kept as THEORY-1212, Proposed, which extends this entry
     and inherits the promote_when word for word (ADR-047, kind 1).
 tags:
 - social-science
@@ -54,7 +54,7 @@ summary: >-
 supports:
 - CLAIM-448
 ---
-<!-- inactive-ok-file: THEORY-tmpmkl9i — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
+<!-- inactive-ok-file: THEORY-1212 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: CLAIM-448 CLAIM-403 THEORY-916 LIT-1146 — Proposed or Deferred; the claim, account and companion work this bears on, named, nothing here rests on them -->
 
 # THEORY-902: In Friedkin, Jia and Bullo's study of 30 four-person student groups discussing 15 choice dilemmas, a member's self-reported closure to influence on the next issue rose with their influence centrality on the previous issue, an effect constant along the sequence, and with their average centrality over all prior issues, an effect that grew along it; influence networks thinned and discussions shortened while the rate of consensus did not change. Closure and centrality both come from the members' own chip allocations, and prior closure is not controlled

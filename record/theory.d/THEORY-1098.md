@@ -23,7 +23,7 @@ history:
     reports what Karnkowska and colleagues' genome analysis finds and
     infers; NOTE-1243 read the paper in full, and nothing in the record
     contradicts the report. What the condition asked beyond the title,
-    that the authors be right, moves to THEORY-tmpvjwpy, Proposed, which
+    that the authors be right, moves to THEORY-1223, Proposed, which
     extends this entry and keeps the condition word for word (ADR-065
     §3). The answers edge on QUESTION-277 is moved to bears_on (ADR-060): the
     reading is evidence on the question, not an answer to it as posed.
@@ -58,7 +58,7 @@ summary: >-
   eukaryote. The order is inferred, not dated, and absence is limited by
   annotation.
 ---
-<!-- inactive-ok-file: THEORY-tmpvjwpy — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1223 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 CASE-168 THEORY-1100 — Open or Proposed; the question, case and accounts set beside this, nothing here rests on them -->
 
 # THEORY-1098: On Karnkowska and colleagues' genome analysis, the oxymonad Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed one by one, Fe–S cluster assembly to a bacterial-type SUF system shared with mitochondriate relatives and then the glycine cleavage system by loss, and the loss left the rest of the cell canonical, with no compensating changes found
@@ -142,4 +142,4 @@ exilis*, making it the single trigger.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Karnkowska and colleagues' genome analysis finds and infers, and [NOTE-1243](../notes.d/NOTE-1243.md) read the paper in full. Whether Monocercomonoides lost its mitochondrion in this way is [THEORY-tmpvjwpy](THEORY-tmpvjwpy.md)'s question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Karnkowska and colleagues' genome analysis finds and infers, and [NOTE-1243](../notes.d/NOTE-1243.md) read the paper in full. Whether Monocercomonoides lost its mitochondrion in this way is [THEORY-1223](THEORY-1223.md)'s question, Proposed, which keeps this entry's old promote_when.
