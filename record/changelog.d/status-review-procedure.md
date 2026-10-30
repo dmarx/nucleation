@@ -1,6 +1,6 @@
 ### Changed
 
-- **Status-review worklist reordered (ADR-057 version 6).** The sections that
+- **Status-review worklist reordered ([ADR-057](record/decisions.d/ADR-057.md) version 6).** The sections that
   must be empty come first, now including stale converses (a Proposed reading
   still supporting an Active claim). Then the work: claims ready for a ruling
   (unblocked and not held by a recent blocker note), grouped by line; sole
@@ -11,5 +11,5 @@
 ### Added
 
 - `record/status-review/README.md`: how a pass is run, from building the
-  worklist to landing the pull request, including ADR-047's routing of a
+  worklist to landing the pull request, including [ADR-047](record/decisions.d/ADR-047.md)'s routing of a
   narrowing's dropped clauses. It replaces briefs kept outside the record.
