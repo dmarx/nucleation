@@ -24,7 +24,7 @@ summary: >-
   operative structure changes, with a way to tell that change from
   discovery and from redescription.
 ---
-<!-- inactive-ok-file: CLAIM-471 CLAIM-481 CLAIM-480 CLAIM-342 CLAIM-143 CLAIM-478 THEORY-1088 THEORY-1090 QUESTION-283 — Proposed, Open or new; the claims and readings the question presses on -->
+<!-- inactive-ok-file: CLAIM-481 CLAIM-480 CLAIM-342 CLAIM-143 CLAIM-478 THEORY-1088 THEORY-1090 QUESTION-283 — Proposed, Open or new; the claims and readings the question presses on -->
 
 # QUESTION-282: Under what conditions do interactions change the physically operative correspondence structure among systems (the compatibility operator itself, not only the states it relates), rather than merely reveal it to a measurement or redescribe it in a model?
 

@@ -66,7 +66,7 @@ summary: >-
   than the parts used (THEORY-1090; QUESTION-283). It is independent evidence
   for [CLAIM-477](CLAIM-477.md), that constraints are realized by organization.
 ---
-<!-- inactive-ok-file: CLAIM-477 CLAIM-478 CLAIM-471 — Proposed; the claims this corroborates and sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-477 CLAIM-478 — Proposed; the claims this corroborates and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 — Unavailable; cited for what it is standardly cited for -->
 <!-- inactive-ok-file: QUESTION-283 CLAIM-419 CLAIM-479 — Open, Proposed or new; the question this result raises and the claims about luria it bears on -->
 

@@ -57,7 +57,7 @@ summary: >-
   with no partner specificity, cohesion or control.
 ---
 <!-- inactive-ok-file: THEORY-1200 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
-<!-- inactive-ok-file: QUESTION-277 LIT-1597 THEORY-1048 NOTE-1238 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works and account set beside it, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1597 NOTE-1238 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works and account set beside it, nothing here rests on them -->
 
 # THEORY-1108: On Imachi and colleagues' cultivation of Candidatus Prometheoarchaeum syntrophicum MK-D1, the first Asgard archaeon grown in the laboratory is a small, internally simple coccus with long branching protrusions that degrades amino acids only in syntrophy, handing hydrogen and formate to partners that can be exchanged, and from its genome and other Asgard genomes the authors infer that the Asgard ancestor was likewise dependent on metabolic partners; the isolate is a modern relative separated from the host lineage by about two billion years, grown only in co-culture, and the entangle–engulf–endogenize model built on it is a hypothesis the authors call not definitive
 

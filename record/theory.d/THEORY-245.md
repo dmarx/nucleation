@@ -1,23 +1,10 @@
 ---
 number: 245
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7j1bc
-promote_when: >-
-  A second recording of the same pattern with a different method or
-  sample: single-unit or dense bilateral prefrontal recordings, in a
-  no-report or task-irrelevant design, showing that a seen image's
-  category is present in prefrontal cortex while its identity and
-  orientation, decodable posteriorly in the same subjects, are absent
-  there, with Bayesian support for the absence; and an offset test with
-  the same sensitivity. It is refuted by prefrontal identity or
-  orientation coding of seen, task-irrelevant images in signals this
-  study did not sample (single units, low frequencies, activity-silent
-  states probed by perturbation), or by a prefrontal response at stimulus
-  offset under matched conditions. More demonstrations that category is
-  decodable in prefrontal cortex cannot settle it.
-title: 'In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image''s category but not its identity, and its orientation at most weakly, while posterior cortex carried all three; no prefrontal site responded at stimulus offset'
-version: 2
+title: 'In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image''s category but not its identity, and a face''s orientation at most weakly, while posterior cortex carried category, face orientation and the identity of objects, letters and false fonts, though not of faces; no prefrontal site showed the preregistered onset-and-offset response, and one, found in an exploratory analysis, responded at offset earlier than predicted'
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -27,6 +14,37 @@ history:
     from answers to bears_on: as the Connections section already said,
     the result does not meet the question's bar, since no dimension's
     access was measured. The reading is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted to Active under ADR-065 and ADR-047's routing, at
+    the status review's ruling (the owner delegated these rulings). The old
+    title read: "In a preregistered multimodal test with clearly seen
+    images, prefrontal cortex carried a seen image's category but not its
+    identity, and its orientation at most weakly, while posterior cortex
+    carried all three; no prefrontal site responded at stimulus offset". Two
+    clauses misstated the source and are dropped with this note only
+    (ADR-047 kind 3): posterior identity was found for objects, letters and
+    false fonts "but not for faces", and orientation was tested for faces
+    only; and while no prefrontal electrode showed the preregistered
+    onset-and-offset profile, an exploratory analysis found one in the
+    inferior frontal sulcus with responses "0.15 s post-onset and
+    post-offset". The narrowed title reports what one preregistered study,
+    read in full in NOTE-812, measured, and nothing in the record
+    contradicts it. The old promote_when read: "A second recording of the
+    same pattern with a different method or sample: single-unit or dense
+    bilateral prefrontal recordings, in a no-report or task-irrelevant
+    design, showing that a seen image's category is present in prefrontal
+    cortex while its identity and orientation, decodable posteriorly in the
+    same subjects, are absent there, with Bayesian support for the absence;
+    and an offset test with the same sensitivity. It is refuted by
+    prefrontal identity or orientation coding of seen, task-irrelevant
+    images in signals this study did not sample (single units, low
+    frequencies, activity-silent states probed by perturbation), or by a
+    prefrontal response at stimulus offset under matched conditions. More
+    demonstrations that category is decodable in prefrontal cortex cannot
+    settle it." Its demand for a second recording by another method moves to
+    QUESTION-tmp4sz5q.
 tags:
 - consciousness
 - neuroscience
@@ -47,9 +65,9 @@ bears_on:
 - QUESTION-061
 ---
 <!-- inactive-ok-file: QUESTION-061 — Deferred; the question this result bears on, on a set-aside line -->
-<!-- inactive-ok-file: THEORY-096 THEORY-296 — Proposed; the onset-transient finding this replicates for category, the workspace account whose broadcast and ignition clauses it tests, and the companion account from the same reading -->
+<!-- inactive-ok-file: THEORY-096 — Proposed; the workspace account whose broadcast and ignition clauses it tests -->
 
-# THEORY-245: In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three; no prefrontal site responded at stimulus offset
+# THEORY-245: In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and a face's orientation at most weakly, while posterior cortex carried category, face orientation and the identity of objects, letters and false fonts, though not of faces; no prefrontal site showed the preregistered onset-and-offset response, and one, found in an exploratory analysis, responded at offset earlier than predicted
 
 ## Source
 

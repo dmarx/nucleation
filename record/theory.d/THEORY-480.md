@@ -1,27 +1,46 @@
 ---
 number: 480
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpa54f5
-promote_when: >-
-  An account of what the decree in United States v. Google did once
-  Qualified Competitors had used the index snapshot, the Glue and RankEmbed
-  data and the syndication licence: whether their results closed the gap
-  on long-tail queries, and whether search share moved, compared with
-  rivals or periods without the data. It is supported if the data
-  measurably improved rivals' long-tail quality and their share, and in
-  trouble if rivals that took the data gained nothing, or if the
-  privacy treatment left too little of it to use. The court's reasoning,
-  the appellate history and the decree's terms cannot settle it, since
-  they say what the court expected, not what happened.
-title: "Where a general-search monopoly was kept by exclusive distribution deals, the court in United States v. Google treated the user-interaction data that scale produced as the fruit to be remedied, and held that sharing the raw data and index metadata, but not the engineered signals and models built from them, can restore rivals' ability to compete without breaking the firm up; that the sharing will work is the court's expectation, not a finding"
-version: 1
+title: "Where a general-search monopoly was kept by exclusive distribution deals, the court in United States v. Google treated the user-interaction data that scale produced as a fruit of the violation and ordered the raw data and index metadata shared with qualified competitors, but not the engineered signals and models built from them, as a behavioural remedy while rejecting divestiture; that the sharing will let rivals compete is the court's expectation, not a finding"
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the status
+    review's ruling (the owner delegated these rulings); ADR-065, ADR-057.
+    This answers, for this entry, the report-title question the promotion
+    audit left open on 2026-10-21. The title reports the remedies opinion
+    and keeps the court's hedge. NOTE-004 read the opinion in full, and
+    nothing in the record contradicts the report. The old title said the
+    court "held that sharing ... can restore rivals' ability to compete".
+    The opinion orders the sharing to deny a fruit and unfetter the
+    market. It also accepts testimony that the shared data will not let
+    rivals clone Search (NOTE-004, C16). So the title now says what was
+    ordered, and leaves its effect as the court's expectation. That was an
+    imprecise statement, and correcting it drops nothing (ADR-047, kind
+    3). The old title: Where a general-search monopoly was kept by exclusive distribution deals, the court in United States v. Google treated the user-interaction data that scale produced as the fruit to be remedied, and held that sharing the raw data and index metadata, but not the engineered signals and models built from them, can restore rivals' ability to compete without breaking the firm up; that the sharing will work is the court's expectation, not a finding. The old promote_when asked what the decree did,
+    which the title concedes is unknown: "An account of what the decree in
+    United States v. Google did once Qualified Competitors had used the
+    index snapshot, the Glue and RankEmbed data and the syndication
+    licence: whether their results closed the gap on long-tail queries,
+    and whether search share moved, compared with rivals or periods
+    without the data. It is supported if the data measurably improved
+    rivals' long-tail quality and their share, and in trouble if rivals
+    that took the data gained nothing, or if the privacy treatment left
+    too little of it to use. The court's reasoning, the appellate history
+    and the decree's terms cannot settle it, since they say what the court
+    expected, not what happened." It moves unchanged to QUESTION-tmp5fmg2 (ADR-065 §3).
 tags:
 - society-and-governance
 - information-retrieval
 date: '2026-10-16'
 source:
 - LIT-006
+bears_on:
+- QUESTION-tmp5fmg2
 summary: >-
   Mehta (2025), [LIT-006](../literature.d/LIT-006.md), the remedies opinion, read in full in [NOTE-004](../notes.d/NOTE-004.md).
   The court finds that exclusive distribution produced a scale advantage
@@ -35,7 +54,7 @@ summary: >-
   proof, not a finding that there is none.
 ---
 
-# THEORY-480: Where a general-search monopoly was kept by exclusive distribution deals, the court in United States v. Google treated the user-interaction data that scale produced as the fruit to be remedied, and held that sharing the raw data and index metadata, but not the engineered signals and models built from them, can restore rivals' ability to compete without breaking the firm up; that the sharing will work is the court's expectation, not a finding
+# THEORY-480: Where a general-search monopoly was kept by exclusive distribution deals, the court in United States v. Google treated the user-interaction data that scale produced as a fruit of the violation and ordered the raw data and index metadata shared with qualified competitors, but not the engineered signals and models built from them, as a behavioural remedy while rejecting divestiture; that the sharing will let rivals compete is the court's expectation, not a finding
 
 ## Source
 
@@ -83,7 +102,7 @@ fruit at all. It did neither.
   to the Technical Committee and the final judgment ([NOTE-004](../notes.d/NOTE-004.md),
   Limitations). Both privacy experts agreed raw logs can re-identify users,
   and the EU Digital Markets Act precedent excluded 99% of queries after
-  filtering (op. pp. 161–164).
+  filtering (op. pp. 161–164). Whether it does is [QUESTION-tmp5fmg2](../questions.d/QUESTION-tmp5fmg2.md).
 - **That search data is a moat for LLMs.** The court found plaintiffs "did
   not establish that Google's scale advantage in Search translates into a
   quality advantage in GenAI search-assisted responses" (op. p. 156), and

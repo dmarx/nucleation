@@ -19,7 +19,6 @@ summary: >-
   relaxation rates or time-scale separation, does not say what produces the
   restriction maps, and treats only linear flows of a fixed Laplacian.
 ---
-<!-- inactive-ok-file: CLAIM-471 — Proposed; the gluing claim this formal statement serves, cited as open -->
 
 # THEORY-1070: For a weighted cellular sheaf of finite-dimensional vector spaces on a finite cell complex, the kernel of the degree-k Hodge Laplacian is the k-th sheaf cohomology, in degree 0 the space of global sections, and the linear flow ẋ = −Δ^k x converges exponentially to the orthogonal projection of its initial state onto that kernel, each eigencomponent decaying at its own eigenvalue; the inner products on the stalks are part of the data, so the same sections can come with different rates, and the Laplacian does not determine the sheaf
 

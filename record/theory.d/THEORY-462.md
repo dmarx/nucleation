@@ -1,20 +1,38 @@
 ---
 number: 462
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8bxd9
-promote_when: >-
-  A reading of the non-monotonic formalisms the critique motivated (default
-  logic, circumscription and their successors), testing whether they
-  represent the memo's cases, defaults displaced by later evidence, within
-  a logical system with a stated consequence relation. If they do, the
-  memo's further claim, that no logistic system can carry commonsense, is
-  refuted, and the account narrows to its first half, which holds by
-  definition. If each repair gives up what made the system logistic, the
-  further claim is promoted. More examples of human inconsistency, or of
-  stereotypes overridden by evidence, cannot settle it.
-title: "If commonsense knowledge includes defaults that later evidence displaces, a monotonic logic, in which an added axiom can never remove a theorem, cannot represent that displacement as it stands; Minsky's further claim, that no consistency-seeking logical system can carry commonsense knowledge, is asserted, not shown"
-version: 1
+title: "If commonsense knowledge includes defaults that later evidence displaces, a monotonic logic, in which an added axiom can never remove a theorem, cannot represent that displacement as it stands; Minsky's further claim, that no logistic system, one that separates propositions from general laws of inference, can carry commonsense knowledge even once repaired, is asserted, not shown"
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-fourth status review, at the status review's
+    ruling (the owner delegated these rulings); ADR-065, ADR-057. The
+    first clause holds by definition, and the body sets out the step. The
+    second reports how the memo supports its further claim: "I think such
+    attempts will continue to fail" (NOTE-337, C7). NOTE-337 read the memo
+    in full, and nothing in the record contradicts either clause. The title
+    now names the memo's own target, "logistic" systems, which separate
+    propositions from general laws of inference. "Consistency-seeking
+    logical system" ran C7's target together with C8's separate claim about
+    consistency. That was an imprecise statement, and correcting it drops
+    nothing (ADR-047, kind 3). The old title: If commonsense knowledge includes defaults that later evidence displaces, a monotonic logic, in which an added axiom can never remove a theorem, cannot represent that displacement as it stands; Minsky's further claim, that no consistency-seeking logical system can carry commonsense knowledge, is asserted, not shown. The old promote_when
+    tested the further claim, which the title reports and does not assert:
+    "A reading of the non-monotonic formalisms the critique motivated
+    (default logic, circumscription and their successors), testing whether
+    they represent the memo's cases, defaults displaced by later evidence,
+    within a logical system with a stated consequence relation. If they do,
+    the memo's further claim, that no logistic system can carry
+    commonsense, is refuted, and the account narrows to its first half,
+    which holds by definition. If each repair gives up what made the system
+    logistic, the further claim is promoted. More examples of human
+    inconsistency, or of stereotypes overridden by evidence, cannot settle
+    it." The memo asserts the further claim, so it moves with that
+    condition, word for word, to THEORY-tmppxcqi, Proposed, which extends this entry
+    (ADR-065 §3; ADR-047, kind 1).
 tags:
 - logic
 - cognition
@@ -29,12 +47,14 @@ summary: >-
   to fail"), and consistency being undesirable is argued by analogy. The
   reading says the memo is a source of hypotheses, not evidence; this
   account takes from it only the half that holds by definition and marks
-  the rest as the memo's claim.
+  the rest as the memo's claim. Active as the definitional half and a
+  report of how the memo supports the rest; the further claim is
+  THEORY-tmppxcqi, Proposed.
 ---
 <!-- inactive-ok-file: LIT-334 — Unavailable; Gärdenfors's conceptual spaces, named as a neighbouring account, not leaned on -->
 <!-- inactive-ok-file: THEORY-057 THEORY-541 — Proposed; accounts that cite the same memo, named in Connections, not leaned on -->
 
-# THEORY-462: If commonsense knowledge includes defaults that later evidence displaces, a monotonic logic, in which an added axiom can never remove a theorem, cannot represent that displacement as it stands; Minsky's further claim, that no consistency-seeking logical system can carry commonsense knowledge, is asserted, not shown
+# THEORY-462: If commonsense knowledge includes defaults that later evidence displaces, a monotonic logic, in which an added axiom can never remove a theorem, cannot represent that displacement as it stands; Minsky's further claim, that no logistic system, one that separates propositions from general laws of inference, can carry commonsense knowledge even once repaired, is asserted, not shown
 
 ## Source
 
@@ -82,7 +102,7 @@ assertion).
   account ("Apology!", p. 2).
 - **That logic cannot be repaired.** Non-monotonic logics were developed to
   do exactly this. The record holds no reading of them, so it does not say
-  whether they succeed.
+  whether they succeed. That claim is [THEORY-tmppxcqi](THEORY-tmppxcqi.md), Proposed.
 - **How strongly a default is bound.** The memo never says how much
   "strain" a match can bear or when a frame is given up, and it argues
   against numerical scores (§5.5; [NOTE-337](../notes.d/NOTE-337.md), Limitations).

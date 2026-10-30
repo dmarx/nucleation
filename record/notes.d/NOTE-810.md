@@ -28,7 +28,7 @@ summary: >-
   silence. The network's direct effect on perception is small and not
   even of constant sign. Simulation only, with no empirical validation.
 ---
-<!-- inactive-ok-file: CLAIM-192 THEORY-242 — Proposed; the thesis this reading bears on, named and not leaned on, and the account filed from this reading -->
+<!-- inactive-ok-file: CLAIM-192 — Proposed; the thesis this reading bears on, named and not leaned on, and the account filed from this reading -->
 
 # NOTE-810: Vilone and Polizzi — Opinion misperception and the emergence of silence
 

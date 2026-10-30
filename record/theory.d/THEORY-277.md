@@ -16,7 +16,21 @@ promote_when: >-
   theorem is about, and the authors say the result does not transfer
   directly.
 title: 'For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twenty-fourth status review, as second checker under ADR-065 §5.
+    The file's re-derivation covers only the easy direction of Theorem
+    IV.8. The converse rests on Lemma C.4, which the file and NOTE-787
+    record only as "the counting checks out", and the promotion audit of
+    2026-10-19 found that its covering construction did not close. A
+    re-derivation of Lemma C.4 by a different covering argument is
+    written out in the note of 2026-10-30. It has had one checker, so it
+    does not yet meet §5, and the computability clause (Theorems D.2 and
+    D.6) is not re-derived at all. The title, status and promote_when are
+    unchanged.
 tags:
 - learning-theory
 - information-theory
@@ -137,3 +151,81 @@ although the fit itself cannot be measured.
   noise bits is a formal version of Dennett's "description more efficient
   than the bit map" that separates pattern from noise. Neither [LIT-239](../literature.d/LIT-239.md)
   nor [LIT-224](../literature.d/LIT-224.md) cites Dennett, and the link is the record's.
+
+## Note of 2026-10-30: a re-derivation of Lemma C.4, awaiting a second checker
+
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed what the file
+records and found one direction written out and the other only cited.
+Throughout, K is prefix complexity, A ⊆ {0,1}ⁿ (restricting a model to
+strings of x's length costs O(log n)), Λ(A) = K(A) + log |A| and
+δ(x | A) = log |A| − K(x | A).
+
+1. **The easy direction holds.** Symmetry of information gives K(A) +
+K(x | A*) = K(x) + K(A | x*) + O(1), and K(x | A) ≥ K(x | A*) − O(1). So
+δ(x | A) ≤ Λ(A) − K(x) − K(A | x*) + O(1) ≤ Λ(A) − K(x) + O(1). Applied to
+a set witnessing λ_x(α), β_x(α) + K(x) ≤ λ_x(α) + O(1).
+
+2. **The converse needs Lemma C.4.** For every A ∋ x there should be an
+S ∋ x, with ⌈log |S|⌉ = ⌈log |A|⌉, such that K(S) ≤ K(A) − K(A | x) +
+O(log Λ(A)). Chopping the enumerated strings into blocks in the order
+they qualify does not prove it, because the block that x lands in need not
+ever fill. That is the step the audit of 2026-10-19 could not close.
+
+3. **The lemma, by an online cover.** Put k = K(A), m = ⌈log |A|⌉ and
+l = K(A | x). Let L list, in enumeration order, the sets B ⊆ {0,1}ⁿ with
+K(B) ≤ k and ⌈log |B|⌉ = m; there are fewer than 2^(k+1) of them. Given x
+together with k, m and n, A is fixed by its place among the members of L
+that contain x. So x lies in at least 2^(l − c log Λ(A)) of them. Put
+2t = 2^(l − c log Λ(A)). If 2t < n + 2, then l = O(log Λ(A) + log n) and
+S = A already meets the bound, so assume 2t ≥ n + 2.
+
+4. **A finite game.** An adversary presents up to 2^(k+1) subsets of
+{0,1}ⁿ of size at most 2^m. After each, the chooser may add that set to
+its cover. The chooser wins if, at every moment, every string already in
+2t presented sets is covered, and the cover never exceeds
+Q = 2^(k+2) p sets, where p = (n + 2)/(2t). Choosing each presented set
+with probability p wins with positive probability. A string in 2t
+presented sets is uncovered with probability at most (1 − p)^(2t) <
+e^−(n+2), so by a union bound over the 2ⁿ strings the probability that any
+is uncovered is below 1/2. By Markov's inequality the probability that
+the cover exceeds Q is at most 1/2. The game is finite, so it is
+determined (Zermelo). An adversary with a winning strategy would win
+against every deterministic chooser, and so with probability 1 against
+the random one. That contradicts the above, so the chooser has a winning
+strategy, and an exhaustive search finds it from (n, m, k, t).
+
+5. **The covering set.** Run that strategy against the enumeration of L.
+Once x has appeared in 2t sets, which happens at a finite stage, some chosen
+set S covers it, and S was fixed when it was chosen. S is a member of L,
+so ⌈log |S|⌉ = m. It is named by (n, m, k, t) and its place among the
+chosen sets. Hence K(S) ≤ log Q + O(log Λ(A) + log n) = k − l + O(log
+Λ(A) + log n).
+
+6. **The converse.** Take A witnessing β_x(α), and S from step 5. Then
+K(S) ≤ α + O(log n), and Λ(S) ≤ K(A) − K(A | x) + log |A| + O(log n). By
+step 1's identity, K(A) − K(A | x) ≤ K(x) − K(x | A) + O(log n). So Λ(S) ≤
+K(x) + β_x(α) + O(log n), that is, λ_x(α + O(log n)) ≤ β_x(α) + K(x) +
+O(log n). Together with step 1 this is Theorem IV.8, and Remark IV.10
+follows: a set of complexity at most α + O(log n) that minimises Λ has
+δ ≤ λ_x(α + O(log n)) − K(x) + O(1) ≤ β_x(α) + O(log n).
+
+A script (numpy, in the session's scratchpad, s277_cover.py) simulated
+the game of step 4, with n = 10, m = 4, 2^(k+1) = 512 sets and 2t = 64,
+against randomized adversaries with a heavy core and a planted string.
+The random chooser won all 300 plays, with covers of 40 to 108 sets
+against the bound of 192. As a control, the chooser at p/8 lost 83 of
+300 plays. A second control showed the naive chopping's block containing
+the planted string still unfilled when the adversary stopped, in all 300
+plays. The script checks only the combinatorics; complexity is not
+computable.
+
+## Note of 2026-10-30: what holds it back
+
+Lemma C.4's re-derivation above has had one checker, and [ADR-065](../decisions.d/ADR-065.md) §5 needs
+a second. The title's last clause, that the fit cannot be computed or
+approximated, rests on Theorems D.2 and D.6, which no one has
+re-derived. Once a second checker confirms steps 3 to 6, the entry can be
+narrowed to Theorem IV.8 and Remark IV.10 and promoted. The computability
+clause would then go to a Proposed THEORY that extends it ([ADR-047](../decisions.d/ADR-047.md) kind 1).
+
+If a second checker confirms steps 3 to 6, the narrowed title would be: "For a string x of length n and every complexity bound α, a finite set of complexity at most α + O(log n) that minimises two-part code length has randomness deficiency within O(log n) of the best achievable at complexity α; the minimal two-part code length and the best fit plus K(x) agree to within O(log n) in argument and value". Until then the title above stands.

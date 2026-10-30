@@ -33,7 +33,7 @@ summary: >-
   the authors on every network, real ones included, so this shows what
   topology permits, and nothing about what people perceive, believe or do.
 ---
-<!-- inactive-ok-file: CLAIM-415 THEORY-242 — Proposed; the claim and account this one bears on, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-415 — Proposed; the claim and account this one bears on, named, not leaned on -->
 <!-- inactive-ok-file: LIT-1370 — Deferred or Unavailable; cited as a work the source names, not leaned on -->
 
 # THEORY-887: When an attribute is concentrated on well-connected nodes, many nodes can see it in a majority of their neighbours though it is globally rare, and the share that do grows with the correlation between degree and attribute, as the network becomes more disassortative and as its degree distribution becomes heavier-tailed

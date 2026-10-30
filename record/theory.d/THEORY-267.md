@@ -44,7 +44,6 @@ extended_by:
 ---
 
 <!-- inactive-ok-file: THEORY-810 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
-<!-- inactive-ok-file: THEORY-242 — Proposed; filed from a companion reading the same day -->
 
 # THEORY-267: In Rasooly and Rozzi's pre-registered randomised experiment on 817 Manifold play-money markets, about 59% of a ±5-point price shock that no trader's information supported was still present after 60 days in unresolved markets, with about 25% undone in the first week and reversion slowing after it; their model of finitely many risk-averse traders gives such partial, slowing reversion even with no learning, and the data cannot tell that from learning
 

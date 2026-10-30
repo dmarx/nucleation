@@ -1,20 +1,37 @@
 ---
 number: 296
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpztbz7
-promote_when: >-
-  A recording with dense sampling of V1/V2 and of category-selective
-  cortex in the same subjects (the iEEG here had 12 V1/V2 electrodes),
-  during clearly seen images held for over a second, that tests
-  content-specific phase or amplitude coupling in the gamma band over the
-  whole stimulus with the evoked response removed. It is supported if
-  such coupling is again brief or absent at a sensitivity that detects it
-  elsewhere, and refuted if it is sustained for the duration of the
-  image. Results from other metrics or bands, or from coupling with
-  prefrontal cortex, cannot settle it.
-title: 'In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked'
-version: 1
+title: 'In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex, which iEEG sampled with 12 electrodes: the preregistered phase coupling was brief, low-frequency and mostly stimulus-evoked, and exploratory amplitude coupling, gamma included, was also brief'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted to Active under ADR-065 and ADR-047's routing, at
+    the status review's ruling (the owner delegated these rulings). The old
+    title read: "In a preregistered multimodal test with clearly seen
+    images, category-selective posterior cortex showed no sustained
+    content-specific synchronization with early visual cortex: the coupling
+    was brief, low-frequency and mostly stimulus-evoked". Its last clause
+    held for the preregistered phase coupling only; the exploratory
+    amplitude coupling, with the evoked response removed, was mainly gamma
+    and also brief, so the clause is restated (ADR-047 kind 3, this note
+    only). The authors' own hedge, sparse V1/V2 sampling, is now in the
+    title. The narrowed title reports what one preregistered study, read in
+    full in NOTE-812, measured, and nothing in the record contradicts it.
+    The old promote_when read: "A recording with dense sampling of V1/V2 and
+    of category-selective cortex in the same subjects (the iEEG here had 12
+    V1/V2 electrodes), during clearly seen images held for over a second,
+    that tests content-specific phase or amplitude coupling in the gamma
+    band over the whole stimulus with the evoked response removed. It is
+    supported if such coupling is again brief or absent at a sensitivity
+    that detects it elsewhere, and refuted if it is sustained for the
+    duration of the image. Results from other metrics or bands, or from
+    coupling with prefrontal cortex, cannot settle it." Its demand for a
+    denser recording is an independent test of the same null, and moves to
+    QUESTION-tmp2s3h6.
 tags:
 - consciousness
 - neuroscience
@@ -31,9 +48,9 @@ summary: >-
   sampled in iEEG. It tests IIT's proposed implementation, not
   integrated information.
 ---
-<!-- inactive-ok-file: THEORY-098 THEORY-245 — Proposed; the sensory-recurrence account this bears on, the sustained-content finding it sits beside, and the companion account from the same reading -->
+<!-- inactive-ok-file: THEORY-098 — Proposed; the sensory-recurrence account this bears on -->
 
-# THEORY-296: In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked
+# THEORY-296: In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex, which iEEG sampled with 12 electrodes: the preregistered phase coupling was brief, low-frequency and mostly stimulus-evoked, and exploratory amplitude coupling, gamma included, was also brief
 
 ## Source
 

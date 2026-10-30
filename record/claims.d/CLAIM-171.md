@@ -76,8 +76,12 @@ and Goffman on keying, both unread.
 ## Note of 2026-10-30: what holds it back
 
 Unanswered: whether a writer's projected receiver can be identified
-other than by a reading. [CLAIM-151](CLAIM-151.md) version 2's role-based constituents are
-the one filed candidate, and no entry argues that they fix the projected
-receiver rather than the addressee position ([QUESTION-031](../questions.d/QUESTION-031.md)). The
-reception-side readings it needs ([QUESTION-073](../questions.d/QUESTION-073.md): Austin on uptake, Goffman
-on keying) are unread.
+other than by a reading. Two filed candidates say it can, and neither is
+held: [CLAIM-151](CLAIM-151.md) version 2's role-based constituents, which no entry argues
+fix the projected receiver rather than the addressee position
+([QUESTION-031](../questions.d/QUESTION-031.md)); and Grice's analysis ([THEORY-444](../theory.d/THEORY-444.md), read in full in
+[NOTE-735](../notes.d/NOTE-735.md)), on which what an utterer means is fixed by the utterer's
+intention toward an audience and read by public criteria, so that being
+identified through a reading would not make it constituted by one. The
+reception-side readings this objection needs ([QUESTION-073](../questions.d/QUESTION-073.md): Austin on
+uptake, Goffman on keying) are unread.

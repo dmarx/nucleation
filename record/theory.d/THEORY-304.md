@@ -1,19 +1,10 @@
 ---
 number: 304
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp62hye
-promote_when: >-
-  An independent computation or review of the linearized plane Couette
-  and Poiseuille operators, such as Reddy & Henningson (1993) or Schmid &
-  Henningson's monograph, read here and reproducing the O(R) transient
-  growth, O(R²) resonance and O(R⁻²) minimal destabilizing perturbation
-  with constants near those of Table 1. It is refuted by a correct
-  computation in the energy norm showing growth bounded independently of
-  R. What cannot settle it: experiments on transition, which bear on the
-  conjecture this account excludes, not on the linear scalings.
-title: 'In plane Couette and Poiseuille flow the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability'
-version: 2
+title: 'In plane Couette and Poiseuille flow, measured in the energy norm, the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability'
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -28,6 +19,31 @@ history:
     scalings and their constants still rest on the source's computation
     alone, so this THEORY keeps its promote_when unchanged. The status stays
     Proposed.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted to Active under ADR-065, at the status review's
+    ruling (the owner delegated these rulings). The old title read: "In
+    plane Couette and Poiseuille flow the linearized operator is so far from
+    normal that perturbations can grow transiently by O(R) and resonate by
+    O(R²), and operator perturbations of size O(R⁻²) make it
+    eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis
+    predicts stability". Non-normality is norm-relative and every figure is
+    in the energy norm, so the norm is now in the title; the norm-free
+    reading is asserted by no one (ADR-047 kind 3, this note only). The
+    title claims no more than the computation read in full in NOTE-839
+    measured, its lower bounds are CLAIM-383, and nothing in the record
+    contradicts it. The old promote_when read: "An independent computation
+    or review of the linearized plane Couette and Poiseuille operators, such
+    as Reddy & Henningson (1993) or Schmid & Henningson's monograph, read
+    here and reproducing the O(R) transient growth, O(R²) resonance and
+    O(R⁻²) minimal destabilizing perturbation with constants near those of
+    Table 1. It is refuted by a correct computation in the energy norm
+    showing growth bounded independently of R. What cannot settle it:
+    experiments on transition, which bear on the conjecture this account
+    excludes, not on the linear scalings." Its demand for an independent
+    computation of the same scalings moves to QUESTION-tmpiwx25; the
+    decision of 2026-10-19 to keep this entry Proposed predates ADR-065.
 tags:
 - natural-sciences
 - mathematics
@@ -46,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim that cites this paper, open -->
 <!-- inactive-ok-file: THEORY-323 — Proposed; the general account this case falls under -->
 
-# THEORY-304: In plane Couette and Poiseuille flow the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability
+# THEORY-304: In plane Couette and Poiseuille flow, measured in the energy norm, the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability
 
 ## Source
 

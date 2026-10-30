@@ -35,7 +35,7 @@ summary: >-
   attitude permissible and apt, not required, and offers no evidence that
   users hold it. It is not a general denial that chatbots have minds.
 ---
-<!-- inactive-ok-file: THEORY-023 THEORY-045 THEORY-490 THEORY-547 THEORY-646 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
+<!-- inactive-ok-file: THEORY-023 THEORY-045 THEORY-490 THEORY-646 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
 # THEORY-461: If a substantial class of mental states, interoceptive, affective, perceptual and bodily-agentive, depends on an animate body, then today's text-only chatbots lack them and their self-ascriptions of such states are systematically untrue, and users can engage them without false belief by make-believe, as a new kind of interactive, self-involving and blended fictional character
 

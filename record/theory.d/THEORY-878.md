@@ -40,7 +40,7 @@ summary: >-
 bears_on:
 - QUESTION-054
 ---
-<!-- inactive-ok-file: THEORY-056 THEORY-680 THEORY-070 THEORY-871 — Proposed; the accounts this result bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-056 THEORY-680 THEORY-070 — Proposed; the accounts this result bears on, named, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the claim whose grounds include the dispute this bears on, named -->
 
 # THEORY-878: Instructed reappraisal of aversive pictures engages anterior prefrontal, temporo-parietal and cerebellar regions that show evidence of no response to negative emotion generation, beside a larger set of regions engaged both by generation and by reappraisal: in this task part of regulation runs in regions apart from generation, and most of it in regions shared with it

@@ -1,21 +1,10 @@
 ---
 number: 242
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp3gjfu
-promote_when: >-
-  An empirical study of a real community that measures members' private
-  opinions independently of what they express publicly, for example by
-  an anonymous survey set beside platform posts. It must find that a
-  small, persistently vocal minority goes with a large silent share of
-  the majority, and that this silence, not conversion or network
-  geometry alone, accounts for most of the gap between expressed and
-  private opinion. Another simulation, with a different decision rule,
-  cannot settle it: it would show robustness, not that the mechanism
-  operates. Nor can observational data on expressed opinion alone, which
-  cannot separate silence from absence.
 title: "A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -23,6 +12,27 @@ history:
     Note of 2026-10-22 added after Lerman et al. were read: the title's
     confinement of the small direct distortion to its model matters. The
     theory is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active under ADR-065, at the status review's ruling (the
+    owner delegated these rulings). The title reports what Vilone and
+    Polizzi's simulations show, as a possibility ("can") and with the
+    topological clause confined to the model; NOTE-810 read the paper in
+    full, and nothing in the record contradicts it (Lerman et al. measure a
+    different quantity, as the note of 2026-10-22 says). The old
+    promote_when read: "An empirical study of a real community that measures
+    members' private opinions independently of what they express publicly,
+    for example by an anonymous survey set beside platform posts. It must
+    find that a small, persistently vocal minority goes with a large silent
+    share of the majority, and that this silence, not conversion or network
+    geometry alone, accounts for most of the gap between expressed and
+    private opinion. Another simulation, with a different decision rule,
+    cannot settle it: it would show robustness, not that the mechanism
+    operates. Nor can observational data on expressed opinion alone, which
+    cannot separate silence from absence." Whether the mechanism operates in
+    a real community is not what the title claims, and the authors ask for
+    it rather than assert it; it moves to QUESTION-tmpfw1ib.
 tags:
 - social-science
 - network-science

@@ -19,7 +19,7 @@ summary: >-
   decoherence settles which outcome occurred, or what fixes the division
   into systems.
 ---
-<!-- inactive-ok-file: THEORY-621 THEORY-1081 — Proposed; the RQM rule this rests on and the interpretive neighbour, cited as open -->
+<!-- inactive-ok-file: THEORY-621 — Proposed; the RQM rule this rests on and the interpretive neighbour, cited as open -->
 
 # THEORY-1075: In relational quantum mechanics as Di Biagio and Rovelli define it, a fact relative to one system is stable for another, so that the other may sum over it classically, only approximately and only relative to that other system: decoherence of the first system by an environment the second cannot reach gives the classical rule to order of the environment states' overlap, a differently coupled system may still see interference, and a fact can be stable for a system for which it is not yet a fact
 

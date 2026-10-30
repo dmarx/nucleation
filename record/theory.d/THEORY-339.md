@@ -123,3 +123,15 @@ correlation.
 - [CLAIM-295](../claims.d/CLAIM-295.md): keeping a summary in place of samples adds no information and narrows
   the queries it serves ([NOTE-875](../notes.d/NOTE-875.md)).
 - [THEORY-355](THEORY-355.md) and [THEORY-346](THEORY-346.md) treat stores in the world.
+
+## Note of 2026-10-30: what holds it back
+
+The title states a general effect in people from five small online
+experiments by one group, so it keeps its condition ([ADR-065](../decisions.d/ADR-065.md) §6): the
+missing result is a preregistered replication outside the original
+paradigm that measures, in the same participants, both the carry-over of an
+induced error and the time or effort saved. The first finding also says
+more than the 2014 study tested: the sub-answer predicted the later answer
+when asked first (r = 0.28) and not when asked after (r = −0.11), but the
+difference between the two correlations was not tested ([NOTE-886](../notes.d/NOTE-886.md)), so "only
+when asked first" is not shown.

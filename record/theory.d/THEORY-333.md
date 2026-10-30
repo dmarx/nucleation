@@ -32,7 +32,6 @@ summary: >-
 bears_on:
 - QUESTION-114
 ---
-<!-- inactive-ok-file: THEORY-344 — Proposed; the survey placing cracking among adaptive methods, named, not leaned on -->
 
 # THEORY-333: Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested
 

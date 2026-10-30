@@ -70,7 +70,6 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-321 LIT-1482 — Proposed or Deferred; the accounts and companion work this bears on, named, nothing here rests on them -->
 <!-- inactive-ok-file: QUESTION-348 — Open; the question the condition's test in groups moved to -->
-<!-- inactive-ok-file: THEORY-1161 — Proposed; the Friedkin–Johnsen comparison, cited in the note of 2026-10-29 as open -->
 
 # THEORY-916: In the DeGroot–Friedkin model, where a group reaches DeGroot consensus on each issue and each member's self-weight on the next issue equals their control over the last, with fixed relative interpersonal weights that form a strongly connected network, self-weights converge from every non-autocratic start to one equilibrium ordered by the eigenvector centralities of those weights: power accumulates above a centrality threshold, is autocratic exactly when the network is a star and democratic exactly when it is doubly stochastic; and in the networks that are not strongly connected that the authors treat, members to whom some other member does not listen, even indirectly, end with none
 

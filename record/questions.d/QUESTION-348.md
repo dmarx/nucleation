@@ -17,7 +17,7 @@ summary: >-
   reflected appraisal goes; whether groups bear it out is this question,
   and the authors say its assessment "has just begun".
 ---
-<!-- inactive-ok-file: THEORY-916 THEORY-1161 — Proposed; the model whose condition moved here and the Friedkin–Johnsen comparison, cited as open -->
+<!-- inactive-ok-file: THEORY-916 — Proposed; the model whose condition moved here and the Friedkin–Johnsen comparison, cited as open -->
 
 # QUESTION-348: In groups that discuss a sequence of issues under a stable network of relative influence, measured independently of the members' self-weights, does each member's influence over outcomes come to order as the network's eigenvector centralities and concentrate above them, as the DeGroot–Friedkin model proves for its own dynamics?
 

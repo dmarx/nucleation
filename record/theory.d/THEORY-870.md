@@ -1,27 +1,44 @@
 ---
 number: 870
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp9y4pc
-promote_when: >-
-  An independent replication, or a first-hand reading of the version of
-  record with its data, showing three things. First, that the
-  practitioners' higher pure-awareness reports survive a report method
-  that does not define the scale's top as "free from content" for the
-  participant, with expectations measured or matched across groups.
-  Second, that the EEG separation of meditation from counting survives a
-  comparison with another effortless, eyes-closed practice that does not
-  aim at pure awareness, so that it is not a difference between tasks or
-  groups. Third, that some EEG feature or pattern tracks reported pure
-  awareness within practitioners over time. The first two would promote
-  the report and EEG halves as stated; only the third would license
-  calling the EEG a signature of pure awareness, which this account does
-  not claim. It is refuted if the report difference vanishes once demand
-  is controlled, or if the classifiers fail on held-out data from a
-  second sample. More studies that compare meditators meditating with
-  non-meditators doing something else cannot settle it.
-title: 'Experienced Transcendental Meditation practitioners report more pure awareness than matched counting controls, and multivariate EEG separates the meditation period from counting and from rest, but the reports are not shown to track any EEG feature'
-version: 1
+title: 'In one study of 33 experienced Transcendental Meditation practitioners and 33 matched controls who counted instead, the practitioners rated their session higher on a retrospective pure-awareness scale whose top was defined for them as free from content (d = 0.77), and a classifier on EEG separated meditation from counting at 65% balanced accuracy on held-out subjects and, within practitioners, meditation from rest with 88% sensitivity; the authors found no robust association between the ratings and the EEG features'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the
+    status review's ruling (the owner delegated these rulings; ADR-065).
+    The title now states the one study's measurements with its hedges,
+    read in full in NOTE-1058 from bioRxiv v3; nothing in the record
+    contradicts them. The generic form, which the paper asserts, moves
+    to THEORY-tmpqkkyl, Proposed, which extends this entry (ADR-047 kind
+    1) and keeps the condition word for word except its
+    version-of-record route, dropped because no discrepancy between
+    versions is named (ADR-065 §4). The old title: "Experienced
+    Transcendental Meditation practitioners report more pure awareness
+    than matched counting controls, and multivariate EEG separates the
+    meditation period from counting and from rest, but the reports are
+    not shown to track any EEG feature". The old promote_when: "An
+    independent replication, or a first-hand reading of the version of
+    record with its data, showing three things. First, that the
+    practitioners' higher pure-awareness reports survive a report method
+    that does not define the scale's top as "free from content" for the
+    participant, with expectations measured or matched across groups.
+    Second, that the EEG separation of meditation from counting survives
+    a comparison with another effortless, eyes-closed practice that does
+    not aim at pure awareness, so that it is not a difference between
+    tasks or groups. Third, that some EEG feature or pattern tracks
+    reported pure awareness within practitioners over time. The first
+    two would promote the report and EEG halves as stated; only the
+    third would license calling the EEG a signature of pure awareness,
+    which this account does not claim. It is refuted if the report
+    difference vanishes once demand is controlled, or if the classifiers
+    fail on held-out data from a second sample. More studies that
+    compare meditators meditating with non-meditators doing something
+    else cannot settle it."
 tags:
 - consciousness
 - neuroscience
@@ -40,9 +57,10 @@ summary: >-
   EEG, so this is a finding about a practice period and about reports,
   not a neural signature of an experience with little content.
 ---
-<!-- inactive-ok-file: CLAIM-412 CLAIM-411 THEORY-866 — Proposed; the claims and the sibling account this one bears on, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpqkkyl — Proposed; filed beside this reading by the twenty-fourth status review: the general form of the finding -->
+<!-- inactive-ok-file: CLAIM-412 CLAIM-411 — Proposed; the claims this one bears on, named and not leaned on -->
 
-# THEORY-870: Experienced Transcendental Meditation practitioners report more pure awareness than matched counting controls, and multivariate EEG separates the meditation period from counting and from rest, but the reports are not shown to track any EEG feature
+# THEORY-870: In one study of 33 experienced Transcendental Meditation practitioners and 33 matched controls who counted instead, the practitioners rated their session higher on a retrospective pure-awareness scale whose top was defined for them as free from content (d = 0.77), and a classifier on EEG separated meditation from counting at 65% balanced accuracy on held-out subjects and, within practitioners, meditation from rest with 88% sensitivity; the authors found no robust association between the ratings and the EEG features
 
 ## Source
 

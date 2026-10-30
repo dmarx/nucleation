@@ -33,7 +33,7 @@ summary: >-
   theory.
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-094 — Proposed; the evidential accounts this reading bears on, open -->
-<!-- inactive-ok-file: THEORY-298 THEORY-091 THEORY-245 THEORY-296 — Proposed; the account filed from this reading, and readings it bears on, open -->
+<!-- inactive-ok-file: THEORY-298 THEORY-091 — Proposed; the account filed from this reading, and readings it bears on, open -->
 
 # NOTE-849: Seth & Bayne — Theories of consciousness
 

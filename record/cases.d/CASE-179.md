@@ -37,7 +37,7 @@ summary: >-
   the structure, and whether revision improves prediction on interventions
   the apparatus did not choose. Not run.
 ---
-<!-- inactive-ok-file: CLAIM-474 CLAIM-471 CLAIM-481 CLAIM-480 CLAIM-342 QUESTION-282 QUESTION-283 QUESTION-063 — Proposed, Open or new; the claims and questions the study would test -->
+<!-- inactive-ok-file: CLAIM-474 CLAIM-481 CLAIM-480 CLAIM-342 QUESTION-282 QUESTION-283 QUESTION-063 — Proposed, Open or new; the claims and questions the study would test -->
 
 # CASE-179: A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish
 

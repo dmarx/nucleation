@@ -47,7 +47,7 @@ summary: >-
   nonlinearity.
 ---
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim this account bears on, open -->
-<!-- inactive-ok-file: THEORY-304 THEORY-325 — Proposed; companion accounts filed from the same readings -->
+<!-- inactive-ok-file: THEORY-325 — Proposed; companion accounts filed from the same readings -->
 
 # THEORY-323: Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance
 

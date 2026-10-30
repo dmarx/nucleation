@@ -1,23 +1,10 @@
 ---
 number: 1051
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpyk1k6
-promote_when: >-
-  Comparative or experimental evidence relating the partners' population
-  growth parameters to which becomes obligate first, across independent
-  symbioses, with the faster-evolving partner (larger population, faster
-  growth) found obligate first more often than chance; and, for at least
-  one symbiosis, measured rates of partner birth and death inside the
-  collective, with the host's dependence matching the model's prediction
-  from their balance (deaths dominating: host fully dependent; births
-  dominating: host independent). The model's own simulations, or the
-  observation that symbionts are often more obligate than hosts, cannot
-  settle it, since symbionts live inside hosts for other reasons. It is
-  refuted if slower-evolving partners are as often obligate first, or if
-  host dependence is unrelated to within-collective demography.
-title: 'In Athreya, Czuppon and Gokhale''s model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, a Red King effect in which the collective''s shared fate aligns interests; the other partner''s dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective, and dependence rises at all only if the collective''s carrying capacity is high enough, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default'
-version: 1
+title: 'In Athreya, Czuppon and Gokhale''s model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, which the authors read as a Red King effect in which the collective''s shared fate aligns interests; with equal within-collective rates for both partners, the other partner''s dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective; and in its simulations dependence rose from zero at the higher collective carrying capacities tried and not at the lowest, under a condition the authors show sufficient and not necessary, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default'
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -29,13 +16,51 @@ history:
     one symbiont unit per host. The carrying-capacity condition is shown
     sufficient by simulation, not necessary. Nothing is tested against
     data. Hence Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the
+    status review's ruling (the owner delegated these rulings; ADR-065).
+    The title reports the model's results, read in full in NOTE-1211,
+    with two hedges the old title dropped: only equal within-collective
+    rates were simulated, and the carrying-capacity condition is shown
+    sufficient, not necessary, so "rises at all only if" overstated it
+    (ADR-047 kind 3; see the note of 2026-10-30). Nothing in the record
+    contradicts the report. The condition asked for comparative and
+    demographic evidence from real symbioses, which the authors call
+    imperative but do not assert, so it moves to QUESTION-tmp8bdij
+    (ADR-065 §3). The answers edge on QUESTION-277 is moved to bears_on
+    (ADR-060). The old title: "In Athreya, Czuppon and Gokhale's model
+    of an incipient endosymbiosis, the partner with the larger and
+    faster-growing population evolves faster and becomes fully obligate
+    first, a Red King effect in which the collective's shared fate
+    aligns interests; the other partner's dependence then stays where it
+    was, rises to full dependence, or falls to none, according to
+    whether partners are born or die inside the collective, and
+    dependence rises at all only if the collective's carrying capacity
+    is high enough, so a full transition to a mutually dependent,
+    co-reproducing pair is a parameter-dependent outcome and not the
+    default". The old promote_when: "Comparative or experimental
+    evidence relating the partners' population growth parameters to
+    which becomes obligate first, across independent symbioses, with the
+    faster-evolving partner (larger population, faster growth) found
+    obligate first more often than chance; and, for at least one
+    symbiosis, measured rates of partner birth and death inside the
+    collective, with the host's dependence matching the model's
+    prediction from their balance (deaths dominating: host fully
+    dependent; births dominating: host independent). The model's own
+    simulations, or the observation that symbionts are often more
+    obligate than hosts, cannot settle it, since symbionts live inside
+    hosts for other reasons. It is refuted if slower-evolving partners
+    are as often obligate first, or if host dependence is unrelated to
+    within-collective demography."
 tags:
 - endosymbiosis
 - individuation
 date: '2026-10-27'
 source:
 - LIT-1570
-answers:
+bears_on:
 - QUESTION-277
 summary: >-
   Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-1211](../notes.d/NOTE-1211.md). With
@@ -43,13 +68,15 @@ summary: >-
   first. In the base model the host's R₀ is then exactly 1, so host
   obligacy is neutral. With within-collective deaths the host goes fully
   obligate, and with within-collective births it goes back to
-  independence. Obligacy rises from zero only if the collective's carrying capacity
-  exceeds about aK_HK_S/d; collective growth rate does not matter. The
+  independence. Obligacy rose from zero in simulations where the
+  collective's carrying capacity exceeded about aK_HK_S/d, a condition
+  shown sufficient, not necessary; collective growth rate does not matter. The
   authors take the model as a null: a transition "is far from an
   inevitable outcome of the existence of a higher level of selection".
 ---
+<!-- inactive-ok-file: QUESTION-tmp8bdij — Open; the question this entry's old condition moved to -->
 <!-- inactive-ok-file: QUESTION-277 THEORY-141 THEORY-443 CASE-173 CASE-177 — Open or Proposed; the question, accounts and cases this is set beside, nothing here rests on them -->
-# THEORY-1051: In Athreya, Czuppon and Gokhale's model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, a Red King effect in which the collective's shared fate aligns interests; the other partner's dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective, and dependence rises at all only if the collective's carrying capacity is high enough, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default
+# THEORY-1051: In Athreya, Czuppon and Gokhale's model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, which the authors read as a Red King effect in which the collective's shared fate aligns interests; with equal within-collective rates for both partners, the other partner's dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective; and in its simulations dependence rose from zero at the higher collective carrying capacities tried and not at the lowest, under a condition the authors show sufficient and not necessary, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default
 
 ## Source
 
@@ -104,6 +131,15 @@ of demography. In the model, neither happens.
 - **Not a model of conflict.** Interests are aligned by construction, and
   there is no within-collective selection. So it cannot speak to
   policing or to [THEORY-141](THEORY-141.md)'s condition.
+
+## Note of 2026-10-30: narrowed
+
+The old title said dependence "rises at all only if the collective's carrying
+capacity is high enough". The simulations show traits leaving (0,0) at K_C = 50
+and 500 and not at 10, and the authors' condition K_C > aK_HK_S/d is shown
+sufficient, not necessary ([NOTE-1211](../notes.d/NOTE-1211.md), C3). Only b_H = b_S and d_H = d_S were
+simulated. Whether real symbioses bear out the model's predictions is
+[QUESTION-tmp8bdij](../questions.d/QUESTION-tmp8bdij.md).
 
 ## Connections
 

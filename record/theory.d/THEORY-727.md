@@ -38,7 +38,7 @@ summary: >-
 extended_by:
 - THEORY-323
 ---
-<!-- inactive-ok-file: THEORY-323 THEORY-304 THEORY-325 — Proposed; the account this was split from and its companions, cited as open -->
+<!-- inactive-ok-file: THEORY-323 THEORY-325 — Proposed; the account this was split from and its companions, cited as open -->
 
 # THEORY-727: For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum
 

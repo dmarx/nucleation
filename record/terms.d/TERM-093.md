@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-089
 title: 'correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -21,6 +21,13 @@ history:
     Adopted at the status review's ruling (the owner delegated these
     rulings): CLAIM-471 and CLAIM-474 state in it which sense they mean,
     which is its settle condition.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The 'discovered' row follows CLAIM-471's narrowing at the
+    twenty-fourth status review, at the status review's ruling (the owner
+    delegated these rulings). It read: 'measurement establishes a
+    correspondence that already held'. The term is otherwise unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -39,7 +46,7 @@ summary: >-
   sense was stated as the maps that wiring sets and not the joint
   behaviour they admit.
 ---
-<!-- inactive-ok-file: CLAIM-471 CLAIM-474 CLAIM-481 CLAIM-480 QUESTION-282 CASE-179 — Proposed, Open or new; the entries this term serves -->
+<!-- inactive-ok-file: CLAIM-474 CLAIM-481 CLAIM-480 QUESTION-282 CASE-179 — Proposed, Open or new; the entries this term serves -->
 
 # TERM-093: correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted
 
@@ -58,7 +65,7 @@ It is held in one of three ways ([CLAIM-471](../claims.d/CLAIM-471.md)):
 | how held | what it is | example the record has read |
 |---|---|---|
 | **formed** | physical interconnection fixes the maps: joining systems identifies some of their variables, so which local quantities must agree, and on what shared space, is set by how they are connected, while the law that holds at a junction is fixed beforehand | Baez and Fong's wiring, [NOTE-1223](../notes.d/NOTE-1223.md): a map of terminals such as {1, 2} → {3} sets the joined potentials equal and adds the currents (Example 5.17), under the same Kirchhoff condition at every junction |
-| **discovered** | measurement establishes a correspondence that already held | Singer's relative angles, [NOTE-1224](../notes.d/NOTE-1224.md); Robinson's geometric maps, [NOTE-1221](../notes.d/NOTE-1221.md) |
+| **discovered** | measurement estimates a correspondence that already held; it is established only where the estimate is checked against evidence the measurement did not produce ([CLAIM-143](../claims.d/CLAIM-143.md)) | Singer's relative angles, [NOTE-1224](../notes.d/NOTE-1224.md); Robinson's geometric maps, [NOTE-1221](../notes.d/NOTE-1221.md) |
 | **adapted** | an apparatus revises its own rules of comparison | discourse sheaves, [NOTE-1222](../notes.d/NOTE-1222.md) |
 
 Forming sets which maps hold where. The joint behaviour they admit is their

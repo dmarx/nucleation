@@ -24,7 +24,7 @@ summary: >-
   the same thing is what happens when a record's relation scheme cannot
   express what a composed organization requires.
 ---
-<!-- inactive-ok-file: CLAIM-480 CLAIM-471 CLAIM-419 CLAIM-479 CLAIM-476 CLAIM-469 QUESTION-282 — Proposed, Open or new; the claims and question this one presses on -->
+<!-- inactive-ok-file: CLAIM-480 CLAIM-419 CLAIM-479 CLAIM-476 CLAIM-469 QUESTION-282 — Proposed, Open or new; the claims and question this one presses on -->
 
 # QUESTION-283: Can composing systems create an effective structure whose adequate specification needs a richer relational vocabulary than the parts needed separately (relations of higher arity, history, or a new kind) and, if so, under what conditions, and is the new vocabulary forced by the composite or only by the restricted class of descriptions in use?
 

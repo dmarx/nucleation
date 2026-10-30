@@ -32,7 +32,7 @@ summary: >-
   from. Conceded, so Active. It gives a mechanism for [CLAIM-478](CLAIM-478.md)'s
   second half and is not a test of individuality.
 ---
-<!-- inactive-ok-file: CLAIM-473 CLAIM-478 CLAIM-157 CLAIM-471 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
+<!-- inactive-ok-file: CLAIM-473 CLAIM-478 CLAIM-157 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
 <!-- inactive-ok-file: LIT-1659 LIT-1649 LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-481: Coupling does not by itself separate time scales: two identical undamped oscillators coupled with stiffness k have normal modes at ω₀ and √(ω₀² + 2k), nearly equal when k ≪ ω₀², and neither decays; separation comes where the coupling dissipates relative differences faster than collective ones, as in ẋ = −ax − k(x − y), ẏ = −ay − k(y − x), whose collective and relative modes relax at rates a and a + 2k, and in a Laplacian flow ẋ = −κLx, where the spectrum of L sets the rates

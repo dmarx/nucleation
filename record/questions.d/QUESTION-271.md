@@ -127,7 +127,7 @@ unchanged.
 
 ## Note of 2026-10-26: two failures run, in weakened form
 
-<!-- inactive-ok-file: CASE-162 CASE-163 THEORY-932 — Proposed; the lab's runs filed 2026-10-26 and the reading on inverse-frequency weighting, cited as bearing on failures 3 and 4, not as answering them -->
+<!-- inactive-ok-file: CASE-162 CASE-163 — Proposed; the lab's runs filed 2026-10-26 and the reading on inverse-frequency weighting, cited as bearing on failures 3 and 4, not as answering them -->
 
 - **Proxies in [CASE-158](../cases.d/CASE-158.md)'s design** (v1.1, [CASE-162](../cases.d/CASE-162.md),
   dmarx/PerspectiveLab@7e2edc2). An evaluator scored 80% on agreement

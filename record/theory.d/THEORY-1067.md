@@ -20,7 +20,7 @@ summary: >-
   achieves below it. It says nothing of what a bounded algorithm can do
   above it.
 ---
-<!-- inactive-ok-file: CLAIM-475 CLAIM-471 THEORY-1056 — Proposed; the claims this bears on and the companion account of the cheap method, cited as open -->
+<!-- inactive-ok-file: CLAIM-475 THEORY-1056 — Proposed; the claims this bears on and the companion account of the cheap method, cited as open -->
 
 # THEORY-1067: In angular synchronization from m pairwise offsets, each exact with probability p and otherwise uniform over L values, no estimator of any computational cost can recover all n angles with small error when p is below about √((n/m)·2 log₂ L/(L − 1)), nor an angle of average degree below about √((n/m)·log₂ L/(L − 1)), because each offset carries at most I(L, p) ≈ ½(L − 1)p² bits; below these thresholds a global configuration that exists is not determined by the pairwise evidence, whatever the resources spent on finding it
 

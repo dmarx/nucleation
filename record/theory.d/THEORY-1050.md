@@ -1,24 +1,10 @@
 ---
 number: 1050
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpmjn0i
-promote_when: >-
-  Evidence on which way the traits of a real incipient endosymbiosis enter
-  its dynamics: whether a partner's free-living growth falls with its own
-  investment in the partnership only, or with both partners', and whether
-  the stability of the association (loss of the symbiont, failed
-  transmission) needs both partners' adaptations or one's. That evidence
-  must come from experiments or comparative data, not the model, and it
-  must be paired with measured trajectories showing dependence ahead of
-  co-transmission in a young symbiosis. Further simulations under the same
-  mapping, or more qualitative tables of dependence and transmission mode,
-  cannot settle it. It is refuted for a system if its free growth depends
-  on both partners' obligacy and its dissociation on one partner's
-  adhesion (the mapping that reverses the bias), or if young symbioses
-  are found co-transmitted before they are mutually dependent.
 title: 'In Athreya, Czuppon and Gokhale''s adaptive-dynamics model of an incipient endosymbiosis, mutual dependence (the product of the partners'' obligacies) evolves ahead of reproductive cohesion (the product of their adhesions) early on, but only under the mapping in which each partner''s free-living growth depends on its own obligacy alone while dissociation depends on both partners'' adhesions; the authors'' own appendix shows the bias vanishing under matched mappings and reversing under the opposite one, and their survey of real symbioses cannot test it'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -30,13 +16,41 @@ history:
     authors chose "from biological considerations". The authors say their
     table of real symbioses "does not allow us to confirm/refute" it.
     Hence Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-fourth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065). The title
+    reports Athreya, Czuppon and Gokhale's model result with their own
+    appendix's dependence on the mapping and their own concession that
+    the survey cannot test it, read in full in NOTE-1211 from bioRxiv
+    v2; no discrepancy with the version of record is named. Nothing in
+    the record contradicts it. What the condition asked beyond the
+    title, evidence from real symbioses, moves to THEORY-tmpsudhw,
+    Proposed, which extends this entry and keeps the condition word for
+    word (ADR-065 §3). The answers edge on QUESTION-277 is moved to
+    bears_on (ADR-060). The old promote_when: "Evidence on which way the
+    traits of a real incipient endosymbiosis enter its dynamics: whether
+    a partner's free-living growth falls with its own investment in the
+    partnership only, or with both partners', and whether the stability
+    of the association (loss of the symbiont, failed transmission) needs
+    both partners' adaptations or one's. That evidence must come from
+    experiments or comparative data, not the model, and it must be
+    paired with measured trajectories showing dependence ahead of
+    co-transmission in a young symbiosis. Further simulations under the
+    same mapping, or more qualitative tables of dependence and
+    transmission mode, cannot settle it. It is refuted for a system if
+    its free growth depends on both partners' obligacy and its
+    dissociation on one partner's adhesion (the mapping that reverses
+    the bias), or if young symbioses are found co-transmitted before
+    they are mutually dependent."
 tags:
 - endosymbiosis
 - individuation
 date: '2026-10-27'
 source:
 - LIT-1570
-answers:
+bears_on:
 - QUESTION-277
 summary: >-
   Athreya, Czuppon & Gokhale (2025), [LIT-1570](../literature.d/LIT-1570.md), read in [NOTE-1211](../notes.d/NOTE-1211.md). In
@@ -50,7 +64,8 @@ summary: >-
   correlation but not of their functional coupling, which is what decides
   it.
 ---
-<!-- inactive-ok-file: QUESTION-277 LIT-1605 — Open or Deferred; the question this answers in part, and an unread model of host control set beside it -->
+<!-- inactive-ok-file: THEORY-tmpsudhw — Proposed; filed beside this reading by the twenty-fourth status review: the inference the authors draw for nature -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1605 — Open or Deferred; the question this bears on, and an unread model of host control set beside it -->
 # THEORY-1050: In Athreya, Czuppon and Gokhale's adaptive-dynamics model of an incipient endosymbiosis, mutual dependence (the product of the partners' obligacies) evolves ahead of reproductive cohesion (the product of their adhesions) early on, but only under the mapping in which each partner's free-living growth depends on its own obligacy alone while dissociation depends on both partners' adhesions; the authors' own appendix shows the bias vanishing under matched mappings and reversing under the opposite one, and their survey of real symbioses cannot test it
 
 ## Source

@@ -27,7 +27,7 @@ summary: >-
   agents and the parameters shown; the zero-decay, zero-sum case was first
   reported in Sato, Akiyama and Farmer (PNAS 2002), which is not held.
 ---
-<!-- inactive-ok-file: NOTE-1144 THEORY-928 CLAIM-451 — Proposed or new; the source and the accounts this bears on, named -->
+<!-- inactive-ok-file: NOTE-1144 CLAIM-451 — Proposed or new; the source and the accounts this bears on, named -->
 
 # THEORY-936: In two-agent rock–scissors–paper played by softmax reinforcement learners, nonzero tie rewards give quasiperiodic tori and Hamiltonian chaos without memory decay, and limit cycles and chaotic attractors with it, over a large share of the tie-reward range simulated
 

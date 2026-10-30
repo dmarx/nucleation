@@ -1,20 +1,41 @@
 ---
 number: 651
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpvi4bd
-promote_when: >-
-  Two results, of different kinds. For the representation: an independent
-  round-trip test of the DISINFOX mapping (incidents in, STIX out, back
-  in) that reports what is preserved and lost, and a comparison with the
-  OASIS DAD-CDM model on the same incidents. For the use: a deployment
-  study in which analysts in several organisations consume the shared
-  incidents, measuring whether correlation, exposure or reuse of labels
-  improves. The first kind promotes the representational half; only the
-  second can bear on whether sharing in this form helps. A further count
-  of incidents ingested cannot settle either.
-title: "Disinformation incidents labelled with DISARM techniques can be carried in standard STIX 2.1 without extending it, as an intrusion set that uses attack patterns, is attributed to a threat actor and targets locations; the DISINFOX mapping that moved 118 incidents into OpenCTI this way drops their content, narratives, channels, evidence and the confidence of their attribution"
-version: 1
+title: 'Disinformation incidents labelled with DISARM techniques can be carried in standard STIX 2.1 without extending it, as an intrusion set that uses attack patterns, is attributed to a threat actor and targets locations; the DISINFOX mapping that moved 118 incidents into OpenCTI this way keeps only a name, a free-text description, a first-seen date and labels beside those three relationships, with no object or property for an incident''s narratives, channels, evidence or countermeasures or for the confidence of its attribution'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the
+    status review's ruling (the owner delegated these rulings; ADR-065).
+    The title reports the mapping and its demonstration, read in full in
+    NOTE-028 (arXiv v1, the only version; no journal version found), and
+    nothing in the record contradicts it. Its critique clause is
+    narrowed to what Tables 3–4 show: the old "drops their content"
+    overstated, since the intrusion set keeps a free-text description
+    whose contents in the 118 incidents were not checked (ADR-047 kind
+    3). What the condition asked beyond the title, an independent
+    round-trip test and a deployment study, moves to THEORY-tmpmi9cv,
+    Proposed, which extends this entry and keeps the condition word for
+    word (ADR-065 §3). The old title: "Disinformation incidents labelled
+    with DISARM techniques can be carried in standard STIX 2.1 without
+    extending it, as an intrusion set that uses attack patterns, is
+    attributed to a threat actor and targets locations; the DISINFOX
+    mapping that moved 118 incidents into OpenCTI this way drops their
+    content, narratives, channels, evidence and the confidence of their
+    attribution". The old promote_when: "Two results, of different
+    kinds. For the representation: an independent round-trip test of the
+    DISINFOX mapping (incidents in, STIX out, back in) that reports what
+    is preserved and lost, and a comparison with the OASIS DAD-CDM model
+    on the same incidents. For the use: a deployment study in which
+    analysts in several organisations consume the shared incidents,
+    measuring whether correlation, exposure or reuse of labels improves.
+    The first kind promotes the representational half; only the second
+    can bear on whether sharing in this form helps. A further count of
+    incidents ingested cannot settle either."
 tags:
 - society-and-governance
 date: '2026-10-16'
@@ -27,12 +48,14 @@ summary: >-
   reading rates that demonstration strong. Nothing beyond ingestion was
   measured. Attribution is one ungraded edge to an actor, typically a
   nation-state, which is the layer the EEAS's Exposure Matrix grades in
-  four tiers. Proposed because the source is an unevaluated preprint and
-  its claim of priority is narrower than its abstract says.
+  four tiers. What the mapping is, and that the incidents were
+  ingested, is held; whether the representation survives exchange and
+  whether sharing helps is THEORY-tmpmi9cv's question.
 ---
-<!-- inactive-ok-file: LIT-083 — Proposed; the preprint this account rests on, read in full in NOTE-028, and the account is Proposed for that reason -->
+<!-- inactive-ok-file: THEORY-tmpmi9cv — Proposed; filed beside this reading by the twenty-fourth status review: whether the representation survives exchange and sharing helps -->
+<!-- inactive-ok-file: LIT-083 — Proposed; the preprint this account reports, read in full in NOTE-028; its standing is the LIT's question -->
 
-# THEORY-651: Disinformation incidents labelled with DISARM techniques can be carried in standard STIX 2.1 without extending it, as an intrusion set that uses attack patterns, is attributed to a threat actor and targets locations; the DISINFOX mapping that moved 118 incidents into OpenCTI this way drops their content, narratives, channels, evidence and the confidence of their attribution
+# THEORY-651: Disinformation incidents labelled with DISARM techniques can be carried in standard STIX 2.1 without extending it, as an intrusion set that uses attack patterns, is attributed to a threat actor and targets locations; the DISINFOX mapping that moved 118 incidents into OpenCTI this way keeps only a name, a free-text description, a first-seen date and labels beside those three relationships, with no object or property for an incident's narratives, channels, evidence or countermeasures or for the confidence of its attribution
 
 ## Source
 

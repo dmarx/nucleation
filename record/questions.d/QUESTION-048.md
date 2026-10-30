@@ -34,7 +34,7 @@ bearing:
 ---
 <!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
 <!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim this question bears on, with its line set aside -->
-<!-- inactive-ok-file: THEORY-245 THEORY-296 THEORY-298 — Proposed; the COGITATE readings, cited for the kind of evidence they are -->
+<!-- inactive-ok-file: THEORY-298 — Proposed; the COGITATE readings, cited for the kind of evidence they are -->
 
 # QUESTION-048: What can report, no-report, deficit and architectural evidence each establish about experience as opposed to access, and does any of it survive in a system that lacks cortex or biology?
 

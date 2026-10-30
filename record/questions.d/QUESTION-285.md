@@ -26,7 +26,7 @@ summary: >-
   functions the rungs are.
 ---
 <!-- inactive-ok-file: THEORY-1055 CLAIM-342 TERM-089 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
-<!-- inactive-ok-file: CLAIM-341 CLAIM-342 CLAIM-470 CLAIM-475 CLAIM-471 CLAIM-476 THEORY-621 TERM-089 — Proposed or new; the claims, reading and term the question presses on, cited as open -->
+<!-- inactive-ok-file: CLAIM-341 CLAIM-342 CLAIM-470 CLAIM-475 CLAIM-476 THEORY-621 TERM-089 — Proposed or new; the claims, reading and term the question presses on, cited as open -->
 <!-- inactive-ok-file: LIT-1666 LIT-1676 LIT-1640 LIT-1658 LIT-1653 LIT-1657 — Deferred or Unavailable; registered works the question would read, cited as unread -->
 
 # QUESTION-285: What organization turns an interaction into a measurement, a measurement into a record that something uses, and observation into inquiry, without a conscious investigator; and what keeps an apparatus that revises its own discriminations answerable to what it did not produce?

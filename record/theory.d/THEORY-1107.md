@@ -59,7 +59,7 @@ summary: >-
   not a sequence observed in any one.
 ---
 <!-- inactive-ok-file: THEORY-1211 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
-<!-- inactive-ok-file: QUESTION-277 CASE-167 THEORY-1050 THEORY-1051 LIT-1605 — Open, Proposed or Unavailable; the question, cases, accounts and unread work set beside this, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 CASE-167 LIT-1605 — Open, Proposed or Unavailable; the question, cases, accounts and unread work set beside this, nothing here rests on them -->
 
 # THEORY-1107: On Sørensen and colleagues' scenario, an endosymbiont becomes an organelle in steps: the host first targets effector proteins into it; an imported host protein redundant with one of its functions then lets the endosymbiont's own gene decay, making it dependent; and a general import pathway, once evolved, brings in hundreds of proteins; this genetic integration arises only in permanent, vertically transmitted associations, and host effector control without vertical transmission, as in rhizobia, does not lead to it
 

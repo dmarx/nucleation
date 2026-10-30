@@ -25,7 +25,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
-<!-- inactive-ok-file: CLAIM-481 CLAIM-471 CLAIM-480 LIT-1668 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
+<!-- inactive-ok-file: CLAIM-481 CLAIM-480 LIT-1668 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-1642 LIT-1664 LIT-1654 LIT-1670 — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-478 QUESTION-284 QUESTION-035 — Proposed or Open; neighbours cited as open -->

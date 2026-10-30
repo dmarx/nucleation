@@ -98,7 +98,7 @@ supports:
 ---
 <!-- inactive-ok-file: TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1370 — Unavailable; works registered unread, or entries set aside, cited as such -->
-<!-- inactive-ok-file: CLAIM-349 CLAIM-355 CLAIM-402 THEORY-242 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-349 CLAIM-355 CLAIM-402 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-415: A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential
 
