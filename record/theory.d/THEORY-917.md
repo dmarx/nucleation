@@ -97,3 +97,14 @@ predict. In these reward tasks it did not.
   claim's "poorly governed information seeking" in one study.
 - **[THEORY-907](THEORY-907.md).** The foraging half of the same review, where the
   direction is consistent.
+
+## Note of 2026-10-30: the dropped clause
+
+The old title ended "and random exploration shows no relation to
+anxiety". That clause is not kept as a Proposed reading (ADR-047, kind
+3). It was imprecise: the review reports that "no studies to date have
+specifically linked random exploration to anxiety" (p. 19), which is an
+absence of evidence, and NOTE-1127 rates it so. The old wording turned it
+into a finding of no relation, which the review does not claim. The rest
+of the old title, the facet pattern in directed exploration, is kept as a
+Proposed reading that extends this one.

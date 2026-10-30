@@ -94,3 +94,15 @@ was done about it.
 - **[LIT-1498](../literature.d/LIT-1498.md)**, unread, is cited by the claim for danger inferred from
   one's own safety behaviour in anxiety disorders, the clinical form of
   this phenomenon.
+
+## Note of 2026-10-30: the dropped clause
+
+The old title said the withdrawal of avoidance raised expectancy "though
+not their skin conductance or startle in the one study that measured
+them". That clause is not kept as a Proposed reading (ADR-047, kind 3).
+It was imprecise: the review reports only that "CR (SCR and FPS) were not
+affected (Xia et al., 2019)" (pp. 19–20) and does not say whether the
+other two studies measured them, so "the one study that measured them"
+read more into the review than it says. The rest of the old title, the
+three studies' finding in the record's voice, is kept as a Proposed
+reading that extends this one.
