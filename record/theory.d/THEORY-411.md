@@ -17,7 +17,17 @@ promote_when: >-
   The arithmetic of the four-weight example cannot settle it, since it is
   true whatever the weights are for.
 title: "In Sen's capability approach the weighting of functionings is left to public reasoning, and evaluation can still guide action without agreement on weights: where every weighting in an agreed range, or every view by its own argument, ranks one option above another, that ranking holds, so the approach is deliberately incomplete and yields a partial ordering"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    At the sixteenth status review (ADR-058), at the status review's
+    ruling (the owner delegated these rulings), its edge to CLAIM-352
+    moves from supports to corroborates: that claim's title needs only
+    an evaluative map from trajectories to valued functionings, which
+    Sen's lecture and Robeyns give first-hand, not this reading's
+    partial ordering. The reading is unchanged.
 tags:
 - ethics
 - society-and-governance
@@ -34,8 +44,9 @@ summary: >-
   not given by the IEP, and the SEP ([LIT-283](../literature.d/LIT-283.md)) says Sen "has never
   explained in detail" how selection should be done.
 supports:
-- CLAIM-352
 - CLAIM-354
+corroborates:
+- CLAIM-352
 ---
 <!-- inactive-ok-file: THEORY-025 THEORY-434 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 

@@ -1,10 +1,10 @@
 ---
 number: 402
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpeftzb
 title: 'Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category''s own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -27,6 +27,16 @@ history:
     rulings): the body cites it only under "What it does not say", for
     A27's conclusion, which this claim does not draw. The body citation
     stays. The claim is unchanged.
+- version: 5
+  date: '2026-10-29'
+  note: >-
+    Promoted by the sixteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). THEORY-273
+    moves from grounds to corroborated_by (ADR-058): the body cites it
+    only under "What it does not say", and the argument runs through
+    CLAIM-342, THEORY-839, THEORY-862 and CASE-103, all Active. No
+    objection is on file, and nothing held meets the defeat condition.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,12 +56,12 @@ line:
 rests_on:
 - CLAIM-342
 grounds:
-- THEORY-273
 - CASE-103
 - THEORY-839
 - THEORY-862
 corroborated_by:
 - THEORY-854
+- THEORY-273
 summary: >-
   A27 §1 of the exchange of 2026-10-20, on the owner's U27 ("are we perhaps
   better positioned now to address [QUESTION-007](../questions.d/QUESTION-007.md)? -009? -011? -028?"),
@@ -71,7 +81,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study, and this claim is Proposed with it -->
-<!-- inactive-ok-file: THEORY-273 — Proposed; a reading this one cites, and it is Proposed with it -->
+<!-- inactive-ok-file: THEORY-273 — Proposed; corroborates this claim, cited under what it does not say -->
 
 # CLAIM-402: Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category's own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent
 

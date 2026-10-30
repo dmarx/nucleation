@@ -60,3 +60,10 @@ is the design argument of the nucleating-argument line.
 What would settle it is the move-by-move reading the defeater names, done
 on a second exchange and on an exchange with another owner or another
 assistant family.
+
+## Note of 2026-10-29: what holds it back
+
+The comparison was counted in one exchange and the population is one owner
+and one assistant family. It waits on the move-by-move reading its defeat
+condition names, done on a second exchange and on one with another owner or
+assistant family; none is in the record.

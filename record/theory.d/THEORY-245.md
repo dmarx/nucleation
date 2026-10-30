@@ -17,7 +17,16 @@ promote_when: >-
   offset under matched conditions. More demonstrations that category is
   decodable in prefrontal cortex cannot settle it.
 title: 'In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image''s category but not its identity, and its orientation at most weakly, while posterior cortex carried all three; no prefrontal site responded at stimulus offset'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The sixteenth status review (ADR-060), at the status review's
+    ruling (the owner delegated these rulings). QUESTION-061 moves
+    from answers to bears_on: as the Connections section already said,
+    the result does not meet the question's bar, since no dimension's
+    access was measured. The reading is unchanged.
 tags:
 - consciousness
 - neuroscience
@@ -34,7 +43,7 @@ summary: >-
   dimensions were unaccessed, or that prefrontal cortex lacks them in
   other signals: high gamma and BOLD only, no single units, and every
   image was seen.
-answers:
+bears_on:
 - QUESTION-061
 ---
 <!-- inactive-ok-file: QUESTION-061 — Deferred; the question this result bears on, on a set-aside line -->
@@ -117,7 +126,7 @@ ignited it. Both were preregistered as possible outcomes.
 ## Connections
 
 - **[QUESTION-061](../questions.d/QUESTION-061.md)** asks whether a conscious content reaches every consumer
-  at once or only some. This answers part of it, as a fact about
+  at once or only some. This bears on it, as a fact about
   representation: for clearly seen images, the hub region receives the
   category and not the identity or orientation that posterior cortex
   holds. It does not meet the question's own bar, a content shown absent
