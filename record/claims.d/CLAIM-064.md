@@ -60,3 +60,12 @@ able to recover it.
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md)) found this claim using [TERM-035](../terms.d/TERM-035.md),
 which is Superseded. It now uses [TERM-030](../terms.d/TERM-030.md): the situation of saying is [TERM-030](../terms.d/TERM-030.md)'s configuration of the communicative situation. The claim's status is not
 changed by this.
+
+## Note of 2026-10-30: what holds it back
+
+Its defeat condition is a comparative null with no margin over an
+observable set (CLAIM-238): "as often as when they can" has no margin, so
+nothing could meet it. It needs restating with a margin and a fixed
+judged attribute before a ruling. No renderings have been rated for
+recoverable speaker, audience and attitude; CLAIM-061 holds one case of
+the converse.

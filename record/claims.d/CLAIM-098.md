@@ -1,10 +1,10 @@
 ---
 number: 98
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpse4aa
 title: 'Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,19 @@ history:
     claim adds is that directed lossy transport is the better model for
     translation, and its defeat condition is about predictive power, which
     makes it interpretive. The status stays Proposed. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the seventeenth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings). Its premise
+    CLAIM-035 and its term TERM-004 are Active. CLAIM-260's objection is
+    written in by the note of 2026-10-10: the title's category is one of
+    Markov kernels, which always compose, and approximate transports with
+    their distortion budgets join it only when the distortion obeys a
+    triangle inequality and later kernels are nonexpansive, as in total
+    variation; other distortions are QUESTION-017's. Nothing in the record
+    meets the defeat condition, whose first half CLAIM-035 denies. The
+    claim, its warrant and its defeat condition are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

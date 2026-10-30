@@ -86,3 +86,14 @@ this claim rests. This claim keeps the yardstick role and the reading
 that symmetry is not opposed to transport. Its title states the nesting
 as the premise of that reading and is kept; its warrant stays
 interpretive.
+
+## Note of 2026-10-30: what holds it back
+
+"Their main use" ranks what symmetries are for, and nothing in the
+record argues for that ranking beyond A110's own words. The test the
+defeat condition names, whether symmetry invariants sort lossy transports
+as judges rank them, has not been run. CLAIM-249 (Active) also shows the
+invariants can be compared across realizations only after the group is
+identified across them by an anchored correspondence, which the claim's
+"shared observational scenario" assumes and a translation between media
+does not supply.
