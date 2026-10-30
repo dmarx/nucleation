@@ -37,7 +37,7 @@ summary: >-
   The empathy–altruism hypothesis as Batson et al. (1997) defend it
   against Cialdini et al. (1997): in experiments (two, by the SEP's
   account), empathy predicted helping with self–other merging controlled,
-  and merging did not mediate it. Sober and Wilson (1998; LIT-1683) argue on
+  and merging did not mediate it. Sober and Wilson (1998; [LIT-1683](../literature.d/LIT-1683.md)) argue on
   independent grounds that psychological egoism is not established. Filed
   as the empirical objection to the owner's thesis; both papers are
   unread, so the record holds the disagreement, not its resolution.

@@ -127,7 +127,7 @@ not shown") made a question of who can act, which is [QUESTION-072](../questions
 
 ## Note of 2026-10-30: what holds it back
 
-Its first half rests on CLAIM-476, which is Proposed: no consequence of an
-apparatus constituting its objects has been shown beyond CLAIM-469's
-operational facts, and QUESTION-284's criterion for telling constitution
+Its first half rests on [CLAIM-476](CLAIM-476.md), which is Proposed: no consequence of an
+apparatus constituting its objects has been shown beyond [CLAIM-469](CLAIM-469.md)'s
+operational facts, and [QUESTION-284](../questions.d/QUESTION-284.md)'s criterion for telling constitution
 from characterization is Open.
