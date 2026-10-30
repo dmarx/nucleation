@@ -59,7 +59,7 @@ supports:
 ## The claim
 
 These are standard results, checked here by reasoning. The orthogonality
-relations they use are proved in Peter and Weyl (LIT-329, read in NOTE-305,
+relations they use are proved in Peter and Weyl ([LIT-329](../literature.d/LIT-329.md), read in [NOTE-305](../notes.d/NOTE-305.md),
 eqs. 6–8), for compact Lie groups by Schur's method with integration over the
 group; a finite group is the zero-dimensional case, where the integral is the
 average over G. Serre's *Linear Representations of Finite Groups*
