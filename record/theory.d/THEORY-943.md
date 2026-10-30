@@ -95,7 +95,7 @@ center's model of how honest reports correlate.
 
 ## Note of 2026-10-30: the second check and a corrected figure
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 Proposition 1. If the reference rater is truthful, announcing a earns Σ_n
 g(n | s) S(g(· | a), n), where s is what the rater saw. A strictly proper
@@ -150,5 +150,5 @@ A random search over models with 2 to 4 signals found 8 such models in
 about 20,000 under the quadratic rule, none of them with two signals, and
 none at all under the log rule. For two signals the clause does hold in
 general, but that is the record's own derivation and is not filed. The
-general clause is shown false, so it is recorded here only (ADR-047's kind
+general clause is shown false, so it is recorded here only ([ADR-047](../decisions.d/ADR-047.md)'s kind
 3), and the title now states the authors' example.

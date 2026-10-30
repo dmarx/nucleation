@@ -86,7 +86,7 @@ a cycle: beat its whole class, not its latest member. That bears on
 
 ## Note of 2026-10-30: the second check
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 In a symmetric zero-sum game with antisymmetric payoff matrix A the value
 is 0, and a mixed strategy p is an equilibrium strategy for either player

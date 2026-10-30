@@ -79,7 +79,7 @@ for good ([THEORY-905](THEORY-905.md)).
 
 ## Note of 2026-10-30: the second check
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 Imitation of success. A revising member of type b meets a member of type a
 with probability π_a and adopts a with probability equal to that member's

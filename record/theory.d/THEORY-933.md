@@ -77,7 +77,7 @@ supplement B, and supplement D (Table 6).
 
 ## Note of 2026-10-30: the second check
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 Theorem 1. With V_jt = max_u Q_jt − Σ Q_i(ū_i), the condition at ū gives
 Q_jt(ū) = Σ Q_i(ū_i) + V_jt. Since each ū_i maximises Q_i, Σ Q_i(ū_i) ≥ Σ
@@ -89,7 +89,7 @@ u_i = u*_i and 0 otherwise have the unique maxima u*_i, and their profile
 u* is the unique joint maximiser.
 
 Strictness. [[2, 1], [1, 8]] satisfies IGM with Q_1 = Q_2 = (0, 1), and it
-is not monotonically representable (THEORY-929). The experiment's counts
+is not monotonically representable ([THEORY-929](THEORY-929.md)). The experiment's counts
 add up: 114 + 177 + 19 = 310.
 
 That additive or monotonic factorisation implies IGM needs a unique

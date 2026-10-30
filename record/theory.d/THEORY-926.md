@@ -93,7 +93,7 @@ strategies in play, not about the game ([NOTE-1146](../notes.d/NOTE-1146.md)).
 
 ## Note of 2026-10-30: the second check
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 Fix an antisymmetric pattern P of wins and losses over m = ⌊2ⁿ⌋ indices.
 Strategy π_i spends its first n bits of moves encoding i, which the

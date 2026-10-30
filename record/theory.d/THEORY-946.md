@@ -105,7 +105,7 @@ behavioural mixtures as well as copies.
 
 ## Note of 2026-10-30: the second check
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 Uniqueness. The value is 0, so p is an equilibrium strategy of either
 player exactly when Ap ≤ 0. The equilibrium set {p in the simplex : Ap ≤

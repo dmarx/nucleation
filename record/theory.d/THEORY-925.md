@@ -79,7 +79,7 @@ the agent's own action would bias the gradient; this one is built not to.
 
 ## Note of 2026-10-30: the second check
 
-The second check at the status review (ADR-065 §5) followed the step. The
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed the step. The
 actors are decentralised, so the joint policy is the product Π_b π^b(u^b |
 τ^b), and u^a is independent of u^−a given τ. The baseline's contribution
 to the expected gradient is therefore Σ p(s, τ) Σ_{u^−a} π^−a(u^−a | τ)

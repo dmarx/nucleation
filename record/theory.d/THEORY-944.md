@@ -93,7 +93,7 @@ evaluate the portfolio, not the option ([NOTE-1143](../notes.d/NOTE-1143.md)).
 
 ## Note of 2026-10-30: the second check
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 Independence. By the minimax theorem every Nash pair of a finite zero-sum
 game attains max_p min_q pᵀMq = min_q max_p pᵀMq, so the value does not

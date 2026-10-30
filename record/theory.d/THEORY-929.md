@@ -83,7 +83,7 @@ Rashid, Samvelyan, Schroeder de Witt, Farquhar, Foerster & Whiteson,
 
 ## Note of 2026-10-30: the second check
 
-The second check at the status review (ADR-065 §5) followed each step.
+The second check at the status review ([ADR-065](../decisions.d/ADR-065.md) §5) followed each step.
 
 Sufficiency. Let ū^a maximise Q_a. For any joint action u, Q_a(ū^a) ≥
 Q_a(u^a) for each a, and raising the arguments of a non-decreasing f one
