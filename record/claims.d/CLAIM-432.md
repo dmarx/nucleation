@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpi98gg
 title: 'A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda''s sense, so psychopathy''s affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation''s concerns; that profile, threat without remorse, is the construct''s, and it is changed by redesigning the corporation''s concerns, not its members'' characters'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
@@ -23,6 +23,19 @@ history:
     corroborated_by: the body does not cite it, and Huebner argues the
     same possibility of an unfelt group emotion independently, as for
     CLAIM-039. The claim is unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-1430, Bakan, and LIT-1426, Collins, both Unavailable and read by
+    no NOTE, leave grounds. Bakan is the source of the thesis the claim
+    reads, and his entry says the record does not take it from him; the
+    summary keeps the attribution and now cites the code. Collins is
+    cited in part 3 for members' role duties, one of two routes by which
+    a harm becomes the corporation's own concern; a decision procedure
+    that weighs the harm is the other, so the claim does not need hers.
+    The body keeps the citation. The claim is otherwise unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,12 +78,10 @@ grounds:
 - THEORY-139
 - THEORY-892
 - CASE-151
-- LIT-1430
-- LIT-1426
 corroborated_by:
 - THEORY-125
 summary: >-
-  The record's reading of Bakan's "institutional psychopath", filed at the
+  The record's reading of Bakan's "institutional psychopath" (LIT-1430, unread), filed at the
   owner's request on 2026-10-23 and revised the same day when the owner
   pointed out that the record's framework assigns affect to
   corporation-like things ([CLAIM-039](CLAIM-039.md), reopened). On Frijda's account an
@@ -222,3 +233,11 @@ valence at all becomes a question about its dynamics, not about whether
 it is conscious, and the Veit–List route above loses its force against
 the functional claim, whatever it says about feeling.
 
+## Note of 2026-10-30: what holds it back
+
+Its premises CLAIM-039 and CLAIM-271 are Proposed: the first waits on an
+answer to THEORY-101's identification of valence with a felt state, the
+second on French's and Pettit's readings (THEORY-131, THEORY-139). Its
+live objection CLAIM-431 is unanswered here, and part 5's test, whether a
+corporation changed only by sanction reverts when the sanction lifts, has
+not been run.

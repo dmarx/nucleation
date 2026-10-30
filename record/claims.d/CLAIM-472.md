@@ -4,7 +4,20 @@ status: Proposed
 formerly:
 - CLAIM-tmpdr90u
 title: 'Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-1657, Barad's book, Unavailable and read by no NOTE, leaves
+    grounds, as it left CLAIM-476's on 2026-10-29: the body cites it to
+    say her text is unread, and her statements of the first half reach
+    the claim at second hand (NOTE-1220, NOTE-1230) and through
+    CLAIM-476, on which the first half rests. The body keeps the
+    citation. CLAIM-363 moves from complements to rests_on: the second
+    half is its indexing applied. The text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,9 +35,6 @@ date: '2026-10-27'
 line: nucleating-argument
 rests_on:
 - CLAIM-476
-grounds:
-- LIT-1657
-complements:
 - CLAIM-363
 summary: >-
   The owner asked at U6 of the exchange of 2026-10-27 for Barad's
@@ -114,3 +124,10 @@ allows a category to be added. It does not guarantee that someone notices the
 missing category, has authority to add it, or can do so without costly
 consequences". That is [CLAIM-419](CLAIM-419.md)'s limit ("whether every such move is caught is
 not shown") made a question of who can act, which is [QUESTION-072](../questions.d/QUESTION-072.md)'s.
+
+## Note of 2026-10-30: what holds it back
+
+Its first half rests on CLAIM-476, which is Proposed: no consequence of an
+apparatus constituting its objects has been shown beyond CLAIM-469's
+operational facts, and QUESTION-284's criterion for telling constitution
+from characterization is Open.
