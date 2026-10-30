@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpyulw1
 title: 'The minimax regret of every finite partial-monitoring game against an oblivious adversary, degenerate and duplicate actions included, is 0 when no two actions are neighbours, Θ̃(√n) when every pair of neighbours is locally observable, Θ(n^2/3) when every pair is globally but some pair is not locally observable, and linear otherwise; its lower bounds are proved against stochastic outcomes, so the same four classes hold for them'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-25'
@@ -21,6 +21,15 @@ history:
     the paper's games and on CLAIM-446's variants, and the √n upper bound's
     degenerate case by simulation. That the classes carry over to
     stochastic outcomes is the record's inference.
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Its supports entry for CLAIM-446 is removed: the fifteenth status
+    review, at the status review's ruling (the owner delegated these
+    rulings; ADR-057, ADR-058), moved this reading from that claim's
+    grounds to its corroborated_by, since it entered with the claim's
+    notes of 2026-10-25 and the argument does not rest on it. The reading
+    is unchanged.
 tags:
 - learning-theory
 - game-theory
@@ -41,8 +50,6 @@ summary: >-
   best policy in a fixed, known game, up to game-dependent constants. It
   does not cover a learner barred from some actions, feedback that changes
   during play, or adaptive adversaries.
-supports:
-- CLAIM-446
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the earlier statement this one completes, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose variants are classified here, nothing here rests on it -->

@@ -1,10 +1,10 @@
 ---
 number: 257
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpx3m7e
 title: 'Observational distortion should be summed over the contexts both covers can host, with the target''s new questions asked of the source too, and the questions only one side can decide reported as a separate change of cover, so that a rendering that adds a relation pays for it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -14,6 +14,19 @@ history:
     rests_on to complements: the body never cites it, and the restated
     measure is a definition that answers CLAIM-256 whether or not a given
     interpreter adds relations. Title, defeater and status are unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). It rests on no
+    premise, and the terms it uses, TERM-021 and TERM-043, are Active. Its
+    restated measure is a definition, checked by reading, and its worked
+    case's total variation of 0.6 is right. CLAIM-256, which it answers,
+    is granted and written into CLAIM-005. No objection is filed, and
+    nothing in the record meets its defeated_if: the receiver judgements
+    it names (CASE-055, CASE-185) have not been collected. Promoted on
+    CLAIM-259's pattern, a restated measure whose defeater is an untested
+    receiver result. Title and defeater are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
