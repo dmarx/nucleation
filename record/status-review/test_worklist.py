@@ -236,3 +236,18 @@ def test_a_live_claim_grounded_on_an_unread_work_is_listed(tmp_path):
     r.docs["CLAIM-021"]["status"] = "Active"
     assert not any(row[0] == "CLAIM-021" for row in r.inversions())
     assert r.unread_grounds() == [("CLAIM-021", ["LIT-004"])]
+
+
+def test_a_history_note_that_only_mentions_an_objection_does_not_write_it_in(tmp_path):
+    # passes 18 and 19: CLAIM-308's note said CLAIM-314's objection "is open", CLAIM-491's added
+    # a converse edge for CLAIM-494, and CLAIM-212's filed CLAIM-461 "as the objection"; each was
+    # read as a concession
+    r = record(tmp_path)
+    hist = r.docs["CLAIM-013"]["history"]
+    for note in ("CLAIM-012's objection to it is open. The claim is unchanged.",
+                 "objected_by converse added for CLAIM-012. The claim is unchanged.",
+                 "The narrowing it proposed is filed as the objection CLAIM-012. The claim is unchanged."):
+        hist[:] = [{"version": 2, "date": "2026-10-19", "note": note}]
+        assert not r.written("CLAIM-012", "CLAIM-013"), note
+    hist[:] = [{"version": 2, "date": "2026-10-19", "note": "Narrowed to concede CLAIM-012. Title changed."}]
+    assert r.written("CLAIM-012", "CLAIM-013")

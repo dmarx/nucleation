@@ -54,3 +54,13 @@ interpolation between two endpoints. A many-model average needs the
 conditions of Zhou et al.'s Theorem 1 to hold jointly for every member,
 and nothing in the record tests that. Nor does it say why averaging
 improves accuracy where it does.
+
+## Note of 2026-10-30: what holds it back
+
+The measurement its defeated_if names has not been made: no reading in the
+record compares an averaged network's layer features with the average of
+its members' features, for soups of many fine-tuned models or for SWA
+iterates ([QUESTION-318](../questions.d/QUESTION-318.md)). Its ground, [THEORY-111](../theory.d/THEORY-111.md), measured pairs at three
+interpolation points and found features proportional to the interpolation
+in nearly every layer, not equal to it in every layer, so a reading that
+answers this should test proportionality layer by layer.

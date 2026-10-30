@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp5ljag
 title: 'Canguilhem''s distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Grounds on LIT-817 removed at the status review's ruling (the owner
+    delegated these rulings; ADR-057). The book is Unavailable and no NOTE
+    reads it, so the citation takes no edge (ADR-058); the body keeps it.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -17,8 +25,6 @@ date: '2026-10-04'
 line: will-organization
 works:
 - organization-of-will
-grounds:
-- LIT-817
 summary: >-
   An interpretation, not a premise (Section 6.8): "Nor does the present
   argument depend upon importing Canguilhem's account into viability
@@ -39,5 +45,14 @@ support viable activity."
 
 "Institutions are not organisms, and regulatory failure is not literally
 disease." The audit's verdict on Canguilhem: an "illuminating philosophical
-analogue, not a co-foundation". It rests on Canguilhem as cited
-([LIT-817](../literature.d/LIT-817.md)); the record holds no reading of the book.
+analogue, not a co-foundation". It cites Canguilhem ([LIT-817](../literature.d/LIT-817.md)), and
+the record holds no reading of the book, so the citation takes no edge.
+
+## Note of 2026-10-30: what holds it back
+
+The record holds no reading of Canguilhem: [LIT-817](../literature.d/LIT-817.md) is Unavailable and no
+NOTE reads it, and the defeat condition is itself a reading of the book.
+[NOTE-719](../notes.d/NOTE-719.md) reports Di Paolo's paraphrase ("After Canguilhem and Goldstein, a
+successful cure may well re-define rather than simply restore the
+organism's own normativity"), which is an attribution at second hand, not a
+reading. The claim waits on a NOTE that reads the book.

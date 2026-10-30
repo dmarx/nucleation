@@ -4,7 +4,22 @@ status: Active
 formerly:
 - CLAIM-tmp5ty0h
 title: 'Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    LIT-775 leaves grounds, and LIT-822, LIT-804 and LIT-807 take its
+    place, at the nineteenth status review's ruling (the owner delegated
+    these rulings; ADR-057, ADR-058). Structural Anthropology is
+    Unavailable and no NOTE reads it, and an unread work takes no edge;
+    the body keeps its citation. The title rests on Lévi-Strauss's
+    analysis as Descola reads it (LIT-822, NOTE-641) and as the software
+    papers model it (LIT-804, NOTE-609; LIT-807, NOTE-632), the works the
+    body reads. THEORY-432 is not made a ground: it is Proposed and claims
+    more than this claim uses. LIT-775's supports entry for this claim is
+    removed. The body's "the record does not hold them", written before
+    those works were filed, is corrected. The claim is unchanged.
 role: granted
 warrant: interpretive
 tags:
@@ -13,7 +28,9 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 grounds:
-- LIT-775
+- LIT-822
+- LIT-804
+- LIT-807
 summary: >-
   A102 §2, recovered: Lévi-Strauss treated myth variants as related by
   transformations, and "Recent computational work has explicitly modeled
@@ -42,8 +59,9 @@ Santucci (2021).
 Manuscript §2: "Lévi-Strauss extended relational and transformational analysis
 to myths: variants reveal their structures through changes of elements and
 positions. This is a productive antecedent". That is the precursor framing A102
-warned against. Neither Descola nor Doja et al. is cited, and the record does
-not hold them. It holds *Structural Anthropology* ([LIT-775](../literature.d/LIT-775.md)), unread. Granted,
+warned against. Neither Descola nor Doja et al. is cited there; the record now reads both
+(below). It holds *Structural Anthropology* ([LIT-775](../literature.d/LIT-775.md)) unread, and cites it
+only as the work they read. Granted,
 because it is a point about priority that the manuscript's own §1 disclaimer of
 novelty ([CLAIM-023](CLAIM-023.md)) commits it to.
 

@@ -1,10 +1,26 @@
 ---
 number: 353
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpi5t5f
 title: 'A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow''s impossibility this is not escaped by giving endorsement richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Proposed → Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057). It rests on CLAIM-027 and grounds on
+    THEORY-027, both Active. Its title states Sen's axioms with operator
+    jurisdiction read as pairwise decisiveness, so it is THEORY-027
+    transposed, and the informational clause follows because weak Pareto,
+    the domain and decisiveness are stated on rankings alone. A check over
+    all 576 two-operator profiles on four options (p19/claim353_sen.py)
+    finds forced cycles for disjoint, overlapping and identical pairs, and
+    none when one jurisdiction or the unrestricted domain is dropped, or
+    when Pareto is dropped for distinct pairs. No objection is filed, and
+    nothing in the record shows that operator jurisdiction lacks pairwise
+    decisiveness. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

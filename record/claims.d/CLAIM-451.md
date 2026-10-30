@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpuxcp6
 title: 'When an organization''s record of winning moves cycles, the failure is organizational nonintegrability, distinct from a perspective''s own preference instability and from switching of the governing regime; it becomes organizational tension only when realized as costly reversal against demands the organization maintains, and cognitive dissonance only when that tension is detected and appraised as aversive; learning can relieve it by accommodation, by entrenched precedence or by cheap periodic coordination, which observed coherence does not tell apart, and ambivalence and nonintegrability entail neither one another'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,14 @@ history:
     One sentence added at the eighth status review saying that the
     governance-instability row is a failure of TERM-078's persistence,
     the use the uses edge records. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    LIT-1474 removed from grounds at the nineteenth status review, at
+    the status review's ruling (the owner delegated these rulings;
+    ADR-057, ADR-058): it is Unavailable and no NOTE reads it, so it
+    takes no edge, and the body keeps the citation. A dated note says
+    what holds it back. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,8 +50,6 @@ complements:
 - CLAIM-364
 - CLAIM-198
 - CLAIM-448
-grounds:
-- LIT-1474
 summary: >-
   The owner's, 2026-10-23, quoting "A potential exists exactly when the
   finite relation of observed wins is acyclic": "rather than asserting
@@ -162,3 +168,15 @@ From the evaluation and learning-in-games readings filed the same day.
   account of how the others learn joins accommodation, entrenchment and
   periodic coordination. Mixing, as the value between populations orders
   hull-nested populations, is a related route ([THEORY-944](../theory.d/THEORY-944.md)).
+
+## Note of 2026-10-30: what holds it back
+
+Its own note of 2026-10-24 is unanswered. Sato and Crutchfield's fixed
+learning rules ([THEORY-936](../theory.d/THEORY-936.md)) give switching of control with no switching of
+regime, so the governance-instability diagnostic, "does control keep
+switching", fires on a fixed rule too, and the claim does not yet say how
+to tell the two apart, which is the second half of its defeated_if. It also
+does not say whether its cycles lie within strongly connected components or
+between them ([NOTE-1156](../notes.d/NOTE-1156.md)), and its title says observed coherence cannot tell
+the three reliefs apart where the body says that holds for accommodation
+and entrenchment only.

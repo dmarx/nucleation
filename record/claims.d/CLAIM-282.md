@@ -3,8 +3,25 @@ number: 282
 status: Active
 formerly:
 - CLAIM-tmppy0ey
-title: 'Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator''s authority independent of its own endorsements'
-version: 1
+title: 'Forbidding self-endorsement does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic endorsements recycle authority, so an operator''s authority depends on its own endorsements, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing endorsements, makes it exactly independent of them'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed at the nineteenth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-057). The old title said
+    "once endorsement can carry authority more than one hop, reciprocal and
+    cyclic endorsements recycle it, and only one-hop allocation within an
+    epoch makes an operator's authority independent of its own
+    endorsements". CLAIM-tmphnxf0 shows both clauses false: leave-one-out
+    delegation carries authority beyond one hop and keeps each operator's
+    authority exactly independent of its own endorsements. The body argued
+    only the damped recursive rule and the one-hop rule, and the title now
+    says only that. The dropped clauses are shown false, so they get this
+    note only (ADR-047, kind 3), and the objection is written in here
+    (ADR-059). The 2026-10-29 note's last sentence is corrected to match.
+    The status stays Active.
 role: granted
 warrant: demonstrated
 tags:
@@ -36,10 +53,12 @@ supports:
 - CLAIM-410
 illustrated_by:
 - CASE-077
+objected_by:
+- CLAIM-tmphnxf0
 ---
 <!-- inactive-ok-file: CLAIM-277 CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-282: Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator's authority independent of its own endorsements
+# CLAIM-282: Forbidding self-endorsement does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic endorsements recycle authority, so an operator's authority depends on its own endorsements, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing endorsements, makes it exactly independent of them
 
 ## The claim
 
@@ -97,6 +116,12 @@ concludes, so it carries `formal-apparatus` as a second line ([ADR-040](../decis
 - It does not say the slower social route is a defect. A5 and the owner
   hold that durable trust is how authority should arise ([CLAIM-277](CLAIM-277.md)).
   The same route is also how authority is captured.
+- It does not say one-hop allocation is the only rule that makes an
+  operator's authority independent of its own endorsements. Leave-one-out
+  delegation, which counts the authority reaching an operator only along
+  paths that have not passed through it, does so while carrying authority
+  beyond one hop ([CLAIM-tmphnxf0](CLAIM-tmphnxf0.md)). That rule is not a cycle ban: cycles
+  that avoid the operator still feed it.
 
 ## Note of 2026-10-29: evidence-based subjective logic, an instance with a ceiling
 
@@ -111,5 +136,5 @@ near-certain A_32 can make R_12 near-certain whatever A_12 says.
 What it adds is a ceiling: no user's evidence about j can exceed the
 evidence about j that others hold directly, so recycling cannot create
 evidence, only re-weight it. It does not make an operator's standing
-independent of its own opinions, which this claim says only one-hop
-allocation does. The claim is unchanged.
+independent of its own opinions, as one-hop allocation does. The claim
+is unchanged.

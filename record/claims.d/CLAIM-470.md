@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpalzo4
 title: 'Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,18 @@ history:
     fixed one, and CASE-178 records this record's own answer space
     revised by decision (a scheme, three vocabularies). The text is
     unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The nineteenth status review (ADR-058; an unread work takes no
+    edge), at the status review's ruling (the owner delegated these
+    rulings). LIT-1645, Dewey's Logic, Unavailable and read by no
+    NOTE, leaves grounds: the claim cites Dewey as its nearest
+    predecessor, and its last clause stands on A16's bifurcation
+    example, Simon (NOTE-1232) and CASE-178, not on Dewey. The body
+    keeps the citation. LIT-1652, now Active and read in NOTE-1231,
+    leaves the body's acknowledgement directive for inactive works.
+    The text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,7 +61,6 @@ corroborates:
 - CLAIM-477
 grounds:
 - LIT-988
-- LIT-1645
 - LIT-1652
 uses:
 - TERM-065
@@ -67,7 +78,7 @@ summary: >-
   investigates.
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-476 CLAIM-419 CLAIM-475 — Proposed; the frame this is a case of and the claims it sits beside, cited as open -->
-<!-- inactive-ok-file: LIT-1645 LIT-1651 LIT-1652 LIT-1675 LIT-1641 LIT-1665 LIT-1637 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
+<!-- inactive-ok-file: LIT-1645 LIT-1651 LIT-1675 LIT-1641 LIT-1665 LIT-1637 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-470: Inquiry is a form of specification: a question fixes which differences would count as an answer, an inquiry adds the operations that make those differences accessible, and what it finds can stabilize into a specification that constrains later inquiry; so inquiry stands to its findings as a specification to its realizations, with one difference, that an inquiry can revise what an answer could be
 

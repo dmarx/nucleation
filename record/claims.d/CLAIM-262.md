@@ -128,3 +128,13 @@ perspectives that each advocate one of n interpretations, "when n=2 we
 should see drift diffusion dynamics". Filed with its conditions and two
 constructions in which it holds exactly as [CLAIM-453](CLAIM-453.md), which
 corroborates this claim's continuous case. The claim is unchanged.
+
+## Note of 2026-10-30: what holds it back
+
+"Both occur" is shown only in models, [THEORY-068](../theory.d/THEORY-068.md)'s accumulators and
+[CLAIM-453](CLAIM-453.md)'s constructions. No agent's coordination has been compared under a
+switching model and a continuous one on the same data, which is what
+[QUESTION-079](../questions.d/QUESTION-079.md) asks for and what the defeat condition's first clause
+presupposes. The continuous example is the owner's reading: nobody has
+fitted Twitch Plays Pokémon's input logs ([CASE-075](../cases.d/CASE-075.md)) with a drift process
+against a switching model.

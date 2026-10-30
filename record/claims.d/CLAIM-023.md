@@ -4,7 +4,20 @@ status: Active
 formerly:
 - CLAIM-tmp7cc3w
 title: 'The contribution is not that translation is pragmatic or that speech acts change contexts, but a specified, testable account of which communicative distinctions a translation preserves'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    LIT-784 leaves grounds, at the nineteenth status review's ruling (the
+    owner delegated these rulings; ADR-057, ADR-058). Translation and
+    Relevance is Unavailable and no NOTE reads it, and an unread work
+    takes no edge. The claim cites Gutt as the exchange names him, A40's
+    "direct challenge to claims of theoretical novelty", and the body
+    keeps that citation. LIT-835, read in NOTE-602, joins grounds: the
+    body's "Krifka, read" is the record's check that speech acts
+    changing contexts is prior art. LIT-784's supports entry for this
+    claim is removed. The claim is unchanged.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -15,7 +28,7 @@ line: pragmatic-transport
 works:
 - what-survives-translation
 grounds:
-- LIT-784
+- LIT-835
 summary: >-
   Disclaimed from A35 §9 on and sharpened at A40 against Gutt and
   Krifka. The manuscript §1 keeps it ("not the claim that each
