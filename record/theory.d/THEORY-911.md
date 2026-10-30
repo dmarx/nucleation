@@ -110,8 +110,8 @@ the scale of the crisis, as the authors allowed (p. 8). Only 14 of 115 did.
 
 ## Note of 2026-10-30: narrowed and promoted
 
-Promoted as a report of the paper's counts (ADR-065). The version of record
-was not read, and no discrepancy with it is named; NOTE-1125 says which
+Promoted as a report of the paper's counts ([ADR-065](../decisions.d/ADR-065.md)). The version of record
+was not read, and no discrepancy with it is named; [NOTE-1125](../notes.d/NOTE-1125.md) says which
 copy was read. The abstract's thesis, that unlawful emergencies follow
-turmoil and last longer, is THEORY-tmp2mjzt, Proposed, which extends this
+turmoil and last longer, is [THEORY-tmp2mjzt](THEORY-tmp2mjzt.md), Proposed, which extends this
 entry and waits on an independent coding of lawfulness.

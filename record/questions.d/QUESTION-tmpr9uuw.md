@@ -7,8 +7,8 @@ tags:
 date: '2026-10-30'
 line: learned-structure
 summary: >-
-  The promotion condition formerly on THEORY-269, moved here when the
-  status review of 2026-10-30 promoted it under ADR-065. Merullo et al.
+  The promotion condition formerly on [THEORY-269](../theory.d/THEORY-269.md), moved here when the
+  status review of 2026-10-30 promoted it under [ADR-065](../decisions.d/ADR-065.md). Merullo et al.
   measured a correlation in three models and say they can draw neither
   causal claims nor conclusions about scale from it.
 ---
@@ -17,7 +17,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-269 reports Merullo et al. (LIT-972, read in NOTE-786): across 24
+[THEORY-269](../theory.d/THEORY-269.md) reports Merullo et al. ([LIT-972](../literature.d/LIT-972.md), read in [NOTE-786](../notes.d/NOTE-786.md)): across 24
 factual relations in three models, how well an affine map reproduces a
 relation tracks how often its subjects and objects co-occur in
 pretraining, with a threshold count per model. The authors: "We can not

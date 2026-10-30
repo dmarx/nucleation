@@ -25,11 +25,11 @@ extends:
 bears_on:
 - QUESTION-277
 summary: >-
-  The wider thesis Karnkowska et al. assert, filed beside THEORY-1098 by
-  the twenty-second status review (ADR-065 §3; ADR-047 kind 1).
-  THEORY-1098, Active, holds what Karnkowska and colleagues' genome
+  The wider thesis Karnkowska et al. assert, filed beside [THEORY-1098](THEORY-1098.md) by
+  the twenty-second status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1).
+  [THEORY-1098](THEORY-1098.md), Active, holds what Karnkowska and colleagues' genome
   analysis finds and infers; whether the thesis holds is this entry's
-  question, and its promote_when is THEORY-1098's old condition, word for
+  question, and its promote_when is [THEORY-1098](THEORY-1098.md)'s old condition, word for
   word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
@@ -38,8 +38,8 @@ summary: >-
 
 ## Source
 
-Karnkowska et al. (2019), LIT-1574, read in full in NOTE-1243. The paper argues that the functions were removed in turn, the SUF replacement shared across Preaxostyla and the glycine cleavage loss after the split from Paratrimastix, before the organelle went.
+Karnkowska et al. (2019), [LIT-1574](../literature.d/LIT-1574.md), read in full in [NOTE-1243](../notes.d/NOTE-1243.md). The paper argues that the functions were removed in turn, the SUF replacement shared across Preaxostyla and the glycine cleavage loss after the split from Paratrimastix, before the organelle went.
 
 ## Where the evidence stands
 
-What the paper shows, and what it does not, is THEORY-1098, Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is THEORY-1098's condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.
+What the paper shows, and what it does not, is [THEORY-1098](THEORY-1098.md), Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is [THEORY-1098](THEORY-1098.md)'s condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.

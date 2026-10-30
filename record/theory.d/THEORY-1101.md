@@ -156,4 +156,4 @@ Neither happened on these data.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Tobiasson and colleagues find and conclude, and NOTE-1242 read the paper in full. Whether normalized stem length is in general no clock of acquisition is THEORY-tmp60tmj's question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now CLAIM-tmppxk4w, Proposed.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Tobiasson and colleagues find and conclude, and [NOTE-1242](../notes.d/NOTE-1242.md) read the paper in full. Whether normalized stem length is in general no clock of acquisition is [THEORY-tmp60tmj](THEORY-tmp60tmj.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-tmppxk4w](../claims.d/CLAIM-tmppxk4w.md), Proposed.

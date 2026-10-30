@@ -123,7 +123,7 @@ space and odour the critics say it is.
   can agree because they share the stimulus's physical geometry, or a
   common decision and response process, without sharing an experience.
   The "least common denominator" argument names experience as the common
-  factor and does not rule these out. That is the gap THEORY-tmpc4jdo's
+  factor and does not rule these out. That is the gap [THEORY-tmpc4jdo](THEORY-tmpc4jdo.md)'s
   promote_when asks to close.
 - **Not that convergence has been shown.** It is coarse for colour, the
   best case, and disputed elsewhere.

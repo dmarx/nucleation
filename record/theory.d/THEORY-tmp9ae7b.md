@@ -21,9 +21,9 @@ source:
 extends:
 - THEORY-898
 summary: >-
-  Ku and Finch's ontological agency (LIT-1478, read in NOTE-1133), filed
-  beside THEORY-898 when the status review of 2026-10-30 narrowed and
-  promoted that entry under ADR-065 (ADR-047 kind 1). The Gangneung
+  Ku and Finch's ontological agency ([LIT-1478](../literature.d/LIT-1478.md), read in [NOTE-1133](../notes.d/NOTE-1133.md)), filed
+  beside [THEORY-898](THEORY-898.md) when the status review of 2026-10-30 narrowed and
+  promoted that entry under [ADR-065](../decisions.d/ADR-065.md) ([ADR-047](../decisions.d/ADR-047.md) kind 1). The Gangneung
   observations illustrate it; inner states were not measured, and
   habituation and low perceived risk were not tested against it.
 ---
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Ku & Finch (2024), LIT-1478, read in full in NOTE-1133 from the version
+Ku & Finch (2024), [LIT-1478](../literature.d/LIT-1478.md), read in full in [NOTE-1133](../notes.d/NOTE-1133.md) from the version
 of record.
 
 ## The thesis
@@ -47,7 +47,7 @@ in with the audience's routines with minimal disruption" (p. 315).
 
 ## What the evidence is
 
-THEORY-898: one afternoon of routine launches in Gangneung, observed by
+[THEORY-898](THEORY-898.md): one afternoon of routine launches in Gangneung, observed by
 chance and judged from outward behaviour, and one night of tweets after a
 malfunction, filtered on "war" and "North Korea".
 

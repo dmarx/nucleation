@@ -27,9 +27,9 @@ promote_when: >-
   find no difference. No result of this kind can show whether the reports
   are of an experience.
 summary: >-
-  The wide form of Gurnee, Sofroniew et al. (2026), LIT-1347, section 3.5.3,
-  kept here when the status review of 2026-10-30 narrowed THEORY-869 to what
-  the ablation measured and promoted it (ADR-065; ADR-047, kind 1). The
+  The wide form of Gurnee, Sofroniew et al. (2026), [LIT-1347](../literature.d/LIT-1347.md), section 3.5.3,
+  kept here when the status review of 2026-10-30 narrowed [THEORY-869](THEORY-869.md) to what
+  the ablation measured and promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). The
   authors conclude that "the J-space supports the model's propensity to
   provide rich experiential reports, whether about itself or another entity"
   (p. 28). The measure is a model-graded register on few prompts, in one
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-LIT-1347, read in full in NOTE-1069. What the source measured is THEORY-869, which this entry extends.
+[LIT-1347](../literature.d/LIT-1347.md), read in full in [NOTE-1069](../notes.d/NOTE-1069.md). What the source measured is [THEORY-869](THEORY-869.md), which this entry extends.
 
 ## The claim
 
@@ -51,4 +51,4 @@ specific to self-report.
 
 ## What would settle it
 
-The promote_when, carried word for word from THEORY-869 when that entry was narrowed. More readings of the same source cannot settle it.
+The promote_when, carried word for word from [THEORY-869](THEORY-869.md) when that entry was narrowed. More readings of the same source cannot settle it.

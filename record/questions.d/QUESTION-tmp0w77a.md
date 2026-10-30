@@ -7,8 +7,8 @@ tags:
 date: '2026-10-30'
 line: distributed-agency
 summary: >-
-  The promotion condition formerly on THEORY-342, moved here when the
-  status review of 2026-10-30 promoted it under ADR-065. Jones measured
+  The promotion condition formerly on [THEORY-342](../theory.d/THEORY-342.md), moved here when the
+  status review of 2026-10-30 promoted it under [ADR-065](../decisions.d/ADR-065.md). Jones measured
   one game with one nonstandard implementation and gave no uncertainty on
   the slope, and he asks twice for the test on other games.
 ---
@@ -17,7 +17,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-342 reports Jones's exchange rate (LIT-1069, read in NOTE-884): on
+[THEORY-342](../theory.d/THEORY-342.md) reports Jones's exchange rate ([LIT-1069](../literature.d/LIT-1069.md), read in [NOTE-884](../notes.d/NOTE-884.md)): on
 9×9 Hex, at fixed Elo, about 15× less search for each 10× more training,
 down to a one-node search. It is one game, small boards, a modified
 AlphaZero with small fully connected networks, and no standard errors on

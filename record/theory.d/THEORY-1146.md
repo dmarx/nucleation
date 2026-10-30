@@ -110,4 +110,4 @@ encoders that leave values of T unused (p. 17).
 The title said the partitions differ under confounding and that the
 bottleneck learns and misses distinctions, as if always; it now says what
 confounding makes possible and what the toy models showed. Whether the
-search scales is QUESTION-tmprxak2.
+search scales is [QUESTION-tmprxak2](../questions.d/QUESTION-tmprxak2.md).

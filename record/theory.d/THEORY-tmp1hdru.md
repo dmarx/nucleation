@@ -20,9 +20,9 @@ source:
 extends:
 - THEORY-499
 summary: >-
-  The thesis of Bottke et al. (2026), LIT-009, in its title, kept here when
-  the twenty-second status review narrowed and promoted THEORY-499, the
-  reading of the plausibility model (ADR-065; ADR-047 kind 1). The model
+  The thesis of Bottke et al. (2026), [LIT-009](../literature.d/LIT-009.md), in its title, kept here when
+  the twenty-second status review narrowed and promoted [THEORY-499](THEORY-499.md), the
+  reading of the plausibility model ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). The model
   shows that a source could have done it; only Copernicus of the seven
   craters has a sample age.
 ---
@@ -31,9 +31,9 @@ summary: >-
 
 ## Source
 
-Bottke, Vokrouhlický, Dykhuis & Zellner (2026), LIT-009, read in full in
-NOTE-002 from the arXiv preprint 2606.05036v1. What the model shows is
-THEORY-499, which this entry extends.
+Bottke, Vokrouhlický, Dykhuis & Zellner (2026), [LIT-009](../literature.d/LIT-009.md), read in full in
+[NOTE-002](../notes.d/NOTE-002.md) from the arXiv preprint 2606.05036v1. What the model shows is
+[THEORY-499](THEORY-499.md), which this entry extends.
 
 ## The thesis
 

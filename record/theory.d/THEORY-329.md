@@ -132,6 +132,6 @@ Table S18).
 
 ## Note of 2026-10-30: narrowed and promoted
 
-Promoted as a report of what the corpus measured (ADR-065). The paper's
-thesis, that anger makes fake news viral, is THEORY-tmpueu4s, Proposed,
+Promoted as a report of what the corpus measured ([ADR-065](../decisions.d/ADR-065.md)). The paper's
+thesis, that anger makes fake news viral, is [THEORY-tmpueu4s](THEORY-tmpueu4s.md), Proposed,
 which extends this entry and keeps its old condition.

@@ -20,9 +20,9 @@ source:
 extends:
 - THEORY-1139
 summary: >-
-  The wider thesis of Bodnar et al. (2022), LIT-1811, kept here when the
-  twenty-second status review promoted THEORY-1139, the reading of what
-  was measured (ADR-065; ADR-047 kind 1). The learned maps were inspected
+  The wider thesis of Bodnar et al. (2022), [LIT-1811](../literature.d/LIT-1811.md), kept here when the
+  twenty-second status review promoted [THEORY-1139](THEORY-1139.md), the reading of what
+  was measured ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). The learned maps were inspected
   only in the synthetic bipartite case; whether the maps learned on real
   graphs have this geometry, and whether accuracy depends on it, is open.
 ---
@@ -31,9 +31,9 @@ summary: >-
 
 ## Source
 
-Bodnar et al. (2022), LIT-1811, §§3.2, 5–6 and Appendix F of arXiv
-2202.04579v4; read in full in NOTE-1332. What the experiments showed is
-THEORY-1139, which this entry extends.
+Bodnar et al. (2022), [LIT-1811](../literature.d/LIT-1811.md), §§3.2, 5–6 and Appendix F of arXiv
+2202.04579v4; read in full in [NOTE-1332](../notes.d/NOTE-1332.md). What the experiments showed is
+[THEORY-1139](THEORY-1139.md), which this entry extends.
 
 ## The thesis
 

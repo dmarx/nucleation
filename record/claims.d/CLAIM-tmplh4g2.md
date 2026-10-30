@@ -20,10 +20,10 @@ grounds:
 bears_on:
 - QUESTION-277
 summary: >-
-  Split from THEORY-1104 by the twenty-second status review (ADR-065;
-  ADR-047's kind 2, the record's own extrapolation). THEORY-1104 reports
+  Split from [THEORY-1104](../theory.d/THEORY-1104.md) by the twenty-second status review ([ADR-065](../decisions.d/ADR-065.md);
+  [ADR-047](../decisions.d/ADR-047.md)'s kind 2, the record's own extrapolation). [THEORY-1104](../theory.d/THEORY-1104.md) reports
   Tobiasson and colleagues' reading of diffuse bacterial genes as
-  transfer; THEORY-1105 reports Bernabeu and colleagues' concession about
+  transfer; [THEORY-1105](../theory.d/THEORY-1105.md) reports Bernabeu and colleagues' concession about
   their own donors. This claim is what the record draws from both.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
@@ -32,7 +32,7 @@ summary: >-
 
 ## The claim
 
-Tobiasson and colleagues (THEORY-1104) read the absence of functional coherence among non-alphaproteobacterial genes as the mark of isolated transfers rather than further endosymbioses. But coherence is what a partner leaves only if its genes survive together. A partner whose genes were mostly lost, replaced by host or other genes, or retained thinly across pathways would leave the same diffuse trace. Bernabeu and colleagues (THEORY-1105) find major donors and say themselves that their data "do not provide information on potential types of interaction". On either reading, whether a donor was a partner is a question gene ancestries do not settle.
+Tobiasson and colleagues ([THEORY-1104](../theory.d/THEORY-1104.md)) read the absence of functional coherence among non-alphaproteobacterial genes as the mark of isolated transfers rather than further endosymbioses. But coherence is what a partner leaves only if its genes survive together. A partner whose genes were mostly lost, replaced by host or other genes, or retained thinly across pathways would leave the same diffuse trace. Bernabeu and colleagues ([THEORY-1105](../theory.d/THEORY-1105.md)) find major donors and say themselves that their data "do not provide information on potential types of interaction". On either reading, whether a donor was a partner is a question gene ancestries do not settle.
 
 ## What it does not say
 

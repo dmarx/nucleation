@@ -144,4 +144,4 @@ symbiont, or replaced functions with no effector stage anywhere.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports the scenario Sørensen and colleagues propose, and NOTE-1241 read the paper in full. Whether endosymbionts become organelles by these steps is THEORY-tmpme290's question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports the scenario Sørensen and colleagues propose, and [NOTE-1241](../notes.d/NOTE-1241.md) read the paper in full. Whether endosymbionts become organelles by these steps is [THEORY-tmpme290](THEORY-tmpme290.md)'s question, Proposed, which keeps this entry's old promote_when.

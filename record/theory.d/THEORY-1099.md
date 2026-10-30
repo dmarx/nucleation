@@ -159,4 +159,4 @@ force it.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Kay and colleagues' dating finds and how the authors read it, and NOTE-1234 read the paper in full. Whether the host's elaboration predates the mitochondrion is THEORY-tmp9psoh's question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Kay and colleagues' dating finds and how the authors read it, and [NOTE-1234](../notes.d/NOTE-1234.md) read the paper in full. Whether the host's elaboration predates the mitochondrion is [THEORY-tmp9psoh](THEORY-tmp9psoh.md)'s question, Proposed, which keeps this entry's old promote_when.

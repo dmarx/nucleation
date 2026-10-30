@@ -28,10 +28,10 @@ bears_on:
 - QUESTION-277
 summary: >-
   The wider thesis Sørensen, Stiller, Kröninger & Nowack assert, filed
-  beside THEORY-1107 by the twenty-second status review (ADR-065 §3;
-  ADR-047 kind 1). THEORY-1107, Active, holds the scenario Sørensen and
+  beside [THEORY-1107](THEORY-1107.md) by the twenty-second status review ([ADR-065](../decisions.d/ADR-065.md) §3;
+  [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1107](THEORY-1107.md), Active, holds the scenario Sørensen and
   colleagues propose; whether the thesis holds is this entry's question, and
-  its promote_when is THEORY-1107's old condition, word for word.
+  its promote_when is [THEORY-1107](THEORY-1107.md)'s old condition, word for word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
@@ -39,8 +39,8 @@ summary: >-
 
 ## Source
 
-Sørensen, Stiller, Kröninger & Nowack (2025), LIT-1560, read in full in NOTE-1241. The authors offer the sequence as plausible "in the light of the available, though limited, data".
+Sørensen, Stiller, Kröninger & Nowack (2025), [LIT-1560](../literature.d/LIT-1560.md), read in full in [NOTE-1241](../notes.d/NOTE-1241.md). The authors offer the sequence as plausible "in the light of the available, though limited, data".
 
 ## Where the evidence stands
 
-What the paper shows, and what it does not, is THEORY-1107, Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is THEORY-1107's condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.
+What the paper shows, and what it does not, is [THEORY-1107](THEORY-1107.md), Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is [THEORY-1107](THEORY-1107.md)'s condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.

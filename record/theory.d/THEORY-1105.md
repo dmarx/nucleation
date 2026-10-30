@@ -159,4 +159,4 @@ in dispute.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Bernabeu and colleagues' reconstruction finds and how the authors read it, and NOTE-1237 read the paper in full. Whether Myxococcota and Planctomycetota were major donors in waves is THEORY-tmppt0ig's question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Bernabeu and colleagues' reconstruction finds and how the authors read it, and [NOTE-1237](../notes.d/NOTE-1237.md) read the paper in full. Whether Myxococcota and Planctomycetota were major donors in waves is [THEORY-tmppt0ig](THEORY-tmppt0ig.md)'s question, Proposed, which keeps this entry's old promote_when.

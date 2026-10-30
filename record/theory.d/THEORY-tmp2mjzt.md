@@ -41,9 +41,9 @@ extends:
 - THEORY-911
 summary: >-
   The thesis of Bjørnskov, Voigt & Khesali's abstract (2022; working paper
-  2021), LIT-1473, kept here when the twenty-second status review narrowed
-  THEORY-911 to the counts the paper reports and promoted it (ADR-065;
-  ADR-047 kind 1). Its coding of lawfulness is from news and NGO reports,
+  2021), [LIT-1473](../literature.d/LIT-1473.md), kept here when the twenty-second status review narrowed
+  [THEORY-911](THEORY-911.md) to the counts the paper reports and promoted it ([ADR-065](../decisions.d/ADR-065.md);
+  [ADR-047](../decisions.d/ADR-047.md) kind 1). Its coding of lawfulness is from news and NGO reports,
   and part of the duration gap is built in by the coding.
 ---
 
@@ -51,8 +51,8 @@ summary: >-
 
 ## Source
 
-Bjørnskov, Voigt & Khesali, LIT-1473, read in full in NOTE-1125 from ILE
-Working Paper No. 51 (August 2021). What the paper reports is THEORY-911,
+Bjørnskov, Voigt & Khesali, [LIT-1473](../literature.d/LIT-1473.md), read in full in [NOTE-1125](../notes.d/NOTE-1125.md) from ILE
+Working Paper No. 51 (August 2021). What the paper reports is [THEORY-911](THEORY-911.md),
 which this entry extends.
 
 ## The thesis

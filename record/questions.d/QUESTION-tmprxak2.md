@@ -8,10 +8,10 @@ tags:
 date: '2026-10-30'
 line: formal-apparatus
 summary: >-
-  The promotion condition formerly on THEORY-1146, moved here when the
+  The promotion condition formerly on [THEORY-1146](../theory.d/THEORY-1146.md), moved here when the
   twenty-second status review narrowed that reading to what three toy
-  models showed and promoted it (ADR-065). That the causal partition is the
-  optimum is THEORY-1125; whether search finds it at scale is this
+  models showed and promoted it ([ADR-065](../decisions.d/ADR-065.md)). That the causal partition is the
+  optimum is [THEORY-1125](../theory.d/THEORY-1125.md); whether search finds it at scale is this
   question.
 ---
 
@@ -19,11 +19,11 @@ summary: >-
 
 ## Why it is a question
 
-Simoes, Dastani and van Ommen (2025), LIT-1802, show that at full causal
+Simoes, Dastani and van Ommen (2025), [LIT-1802](../literature.d/LIT-1802.md), show that at full causal
 control the causal information bottleneck is optimised by the partition of
-X by p(y | do(x)) (THEORY-1125), and that projected gradient search found
+X by p(y | do(x)) ([THEORY-1125](../theory.d/THEORY-1125.md)), and that projected gradient search found
 it in 95 to 100 percent of runs on three toy models whose X has at most 16
-values (THEORY-1146). The search needed ensembles of 4 to 12 optimisers and
+values ([THEORY-1146](../theory.d/THEORY-1146.md)). The search needed ensembles of 4 to 12 optimisers and
 a penalty against unused values of T, and the authors expect local minima
 to need "modifications" at scale. They do not claim that it scales.
 

@@ -109,7 +109,7 @@ specific baselines on the benchmarks.
 
 ## Note of 2026-10-30: promoted
 
-Promoted as a report of what the paper measured (ADR-065). The paper's
+Promoted as a report of what the paper measured ([ADR-065](../decisions.d/ADR-065.md)). The paper's
 explanation of its accuracy, that the learned maps have the class-aligned
-geometry its theory prescribes, is THEORY-tmpu5c8o, Proposed, which
+geometry its theory prescribes, is [THEORY-tmpu5c8o](THEORY-tmpu5c8o.md), Proposed, which
 extends this entry and keeps its old condition.

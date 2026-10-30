@@ -26,9 +26,9 @@ promote_when: >-
   the county, or if it is accounted for by a present-day confounder the
   instrument shares with attitudes.
 summary: >-
-  The wide form of Acharya, Blackwell and Sen (2016), LIT-1388, kept here
-  when the status review of 2026-10-30 narrowed THEORY-889 to what the
-  analysis measured and promoted it (ADR-065; ADR-047, kind 1). The paper
+  The wide form of Acharya, Blackwell and Sen (2016), [LIT-1388](../literature.d/LIT-1388.md), kept here
+  when the status review of 2026-10-30 narrowed [THEORY-889](THEORY-889.md) to what the
+  analysis measured and promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). The paper
   argues that the attitude difference originated in emancipation's
   incentives to repress black labor and votes and was transmitted locally.
   The causal reading rests on an untestable exclusion restriction, residence
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-LIT-1388, read in full in NOTE-1089. What the source measured is THEORY-889, which this entry extends.
+[LIT-1388](../literature.d/LIT-1388.md), read in full in [NOTE-1089](../notes.d/NOTE-1089.md). What the source measured is [THEORY-889](THEORY-889.md), which this entry extends.
 
 ## The claim
 
@@ -52,4 +52,4 @@ institutions passed them on.
 
 ## What would settle it
 
-The promote_when, carried word for word from THEORY-889 when that entry was narrowed. More readings of the same source cannot settle it.
+The promote_when, carried word for word from [THEORY-889](THEORY-889.md) when that entry was narrowed. More readings of the same source cannot settle it.

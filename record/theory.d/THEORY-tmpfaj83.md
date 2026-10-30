@@ -27,10 +27,10 @@ bears_on:
 - QUESTION-277
 summary: >-
   The wider thesis McCutcheon, Garber, Spencer & Warren assert, filed
-  beside THEORY-1049 by the twenty-second status review (ADR-065 §3;
-  ADR-047 kind 1). THEORY-1049, Active, holds what McCutcheon and
+  beside [THEORY-1049](THEORY-1049.md) by the twenty-second status review ([ADR-065](../decisions.d/ADR-065.md) §3;
+  [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1049](THEORY-1049.md), Active, holds what McCutcheon and
   colleagues' survey shows and what they infer from it; whether the thesis
-  holds is this entry's question, and its promote_when is THEORY-1049's old
+  holds is this entry's question, and its promote_when is [THEORY-1049](THEORY-1049.md)'s old
   condition, word for word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
@@ -39,8 +39,8 @@ summary: >-
 
 ## Source
 
-McCutcheon, Garber, Spencer & Warren (2024), LIT-1571, read in full in NOTE-1213. The paper's conclusion is that such symbionts can only work if the host supplies what they no longer encode, and it leaves how as four open mysteries.
+McCutcheon, Garber, Spencer & Warren (2024), [LIT-1571](../literature.d/LIT-1571.md), read in full in [NOTE-1213](../notes.d/NOTE-1213.md). The paper's conclusion is that such symbionts can only work if the host supplies what they no longer encode, and it leaves how as four open mysteries.
 
 ## Where the evidence stands
 
-What the paper shows, and what it does not, is THEORY-1049, Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is THEORY-1049's condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.
+What the paper shows, and what it does not, is [THEORY-1049](THEORY-1049.md), Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is [THEORY-1049](THEORY-1049.md)'s condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.

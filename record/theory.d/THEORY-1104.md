@@ -177,8 +177,8 @@ Myxococcota signal it did not.
 
 ## Note of 2026-10-30: the Myxococcota signal
 
-The old title said the other bacteria's genes were scattered "with no pathway from one donor". By the paper as read in NOTE-1242, Myxococcota beats Asgard in nicotinate and nucleotide-sugar metabolism, in pathways with more than 20 EPOCs, though the signal reduces to nucleotidases and phosphoribosyltransferases. The title now names it; the authors' reading of the remainder as diffuse transfer is unchanged.
+The old title said the other bacteria's genes were scattered "with no pathway from one donor". By the paper as read in [NOTE-1242](../notes.d/NOTE-1242.md), Myxococcota beats Asgard in nicotinate and nucleotide-sugar metabolism, in pathways with more than 20 EPOCs, though the signal reduces to nucleotidases and phosphoribosyltransferases. The title now names it; the authors' reading of the remainder as diffuse transfer is unchanged.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what Tobiasson and colleagues' survey finds and how the authors read it, and NOTE-1242 read the paper in full. Whether eukaryogenesis had one host lineage, one endosymbiont and piecemeal transfer is THEORY-tmp2abrp's question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now CLAIM-tmplh4g2, Proposed.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what Tobiasson and colleagues' survey finds and how the authors read it, and [NOTE-1242](../notes.d/NOTE-1242.md) read the paper in full. Whether eukaryogenesis had one host lineage, one endosymbiont and piecemeal transfer is [THEORY-tmp2abrp](THEORY-tmp2abrp.md)'s question, Proposed, which keeps this entry's old promote_when. The record's own critique, once in the title, is now [CLAIM-tmplh4g2](../claims.d/CLAIM-tmplh4g2.md), Proposed.

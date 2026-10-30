@@ -21,9 +21,9 @@ promote_when: >-
   closure, or if feedback about influence leaves closure unchanged. More
   issue-sequence data from self-reports alone cannot settle it.
 summary: >-
-  The wide form of Friedkin, Jia and Bullo (2016), LIT-1482, kept here when
-  the status review of 2026-10-30 narrowed THEORY-902 to what their
-  experiment measured and promoted it (ADR-065; ADR-047, kind 1). The
+  The wide form of Friedkin, Jia and Bullo (2016), [LIT-1482](../literature.d/LIT-1482.md), kept here when
+  the status review of 2026-10-30 narrowed [THEORY-902](THEORY-902.md) to what their
+  experiment measured and promoted it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). The
   authors argue that a reflected-appraisal step, closure set by realized
   influence, concentrates influence in deliberating groups. Closure and
   influence came from one self-report, prior closure was not controlled, and
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-LIT-1482, read in full in NOTE-1126. What the source measured is THEORY-902, which this entry extends.
+[LIT-1482](../literature.d/LIT-1482.md), read in full in [NOTE-1126](../notes.d/NOTE-1126.md). What the source measured is [THEORY-902](THEORY-902.md), which this entry extends.
 
 ## The claim
 
@@ -47,4 +47,4 @@ of it.
 
 ## What would settle it
 
-The promote_when, carried word for word from THEORY-902 when that entry was narrowed. More readings of the same source cannot settle it.
+The promote_when, carried word for word from [THEORY-902](THEORY-902.md) when that entry was narrowed. More readings of the same source cannot settle it.

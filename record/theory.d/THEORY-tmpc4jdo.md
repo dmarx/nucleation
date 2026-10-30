@@ -23,9 +23,9 @@ promote_when: >-
   beyond their stated uncertainties after the identified effects are
   corrected, as the critics of visual, colour and odour metrics hold.
 summary: >-
-  Isaac's "own considered view" (2025), LIT-1361, §5, kept here when the
-  twenty-second status review narrowed THEORY-953 and promoted it as a
-  report (ADR-065; ADR-047, kind 1). The argument does not rule out a shared
+  Isaac's "own considered view" (2025), [LIT-1361](../literature.d/LIT-1361.md), §5, kept here when the
+  twenty-second status review narrowed [THEORY-953](THEORY-953.md) and promoted it as a
+  report ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). The argument does not rule out a shared
   stimulus geometry or a shared response process as the common factor, and
   the convergence is partial by the paper's own account.
 ---
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Isaac (2025), LIT-1361, §5 with footnote 15; read in full in NOTE-1163.
-What Isaac argues, and what he concedes, is THEORY-953, which this entry
+Isaac (2025), [LIT-1361](../literature.d/LIT-1361.md), §5 with footnote 15; read in full in [NOTE-1163](../notes.d/NOTE-1163.md).
+What Isaac argues, and what he concedes, is [THEORY-953](THEORY-953.md), which this entry
 extends.
 
 ## Why it is Proposed

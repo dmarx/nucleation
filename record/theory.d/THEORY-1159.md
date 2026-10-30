@@ -105,4 +105,4 @@ cost could have matched it. Neither happened against these baselines.
 
 The title now keeps the paper's "in most cases" (p. 5). The paper's
 attribution of the gain to joint fitting, with the ablation that would
-test it, is THEORY-tmph970r, Proposed, which extends this entry.
+test it, is [THEORY-tmph970r](THEORY-tmph970r.md), Proposed, which extends this entry.

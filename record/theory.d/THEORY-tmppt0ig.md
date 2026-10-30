@@ -29,11 +29,11 @@ bears_on:
 - QUESTION-277
 summary: >-
   The wider thesis Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón
-  assert, filed beside THEORY-1105 by the twenty-second status review
-  (ADR-065 §3; ADR-047 kind 1). THEORY-1105, Active, holds what Bernabeu
+  assert, filed beside [THEORY-1105](THEORY-1105.md) by the twenty-second status review
+  ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1105](THEORY-1105.md), Active, holds what Bernabeu
   and colleagues' reconstruction finds and how the authors read it;
   whether that is true is this entry's question, and its promote_when is
-  THEORY-1105's old condition, word for word.
+  [THEORY-1105](THEORY-1105.md)'s old condition, word for word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
@@ -41,8 +41,8 @@ summary: >-
 
 ## Source
 
-Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón (2026), LIT-1561, read in full in NOTE-1237. The authors: "our data support premitochondrial waves of gene acquisitions from additional major prokaryotic donors as the most likely scenario".
+Bernabeu, Manzano-Morales, Marcet-Houben & Gabaldón (2026), [LIT-1561](../literature.d/LIT-1561.md), read in full in [NOTE-1237](../notes.d/NOTE-1237.md). The authors: "our data support premitochondrial waves of gene acquisitions from additional major prokaryotic donors as the most likely scenario".
 
 ## Where the evidence stands
 
-What the paper shows, and what it does not, is THEORY-1105, Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is THEORY-1105's condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.
+What the paper shows, and what it does not, is [THEORY-1105](THEORY-1105.md), Active, which this entry extends: that entry is the reading, this one the thesis. The `promote_when` above is [THEORY-1105](THEORY-1105.md)'s condition before the twenty-second status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the paper says.

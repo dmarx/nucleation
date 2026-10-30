@@ -150,4 +150,4 @@ Two readings sharpen what this account rests on.
 
 ## Note of 2026-10-30: promoted, and the wider thesis filed beside it
 
-The twenty-second status review promoted this reading under ADR-065: it reports what McCutcheon and colleagues' survey shows and what they infer from it, and NOTE-1213 read the paper in full. Whether endosymbionts lose these genes at these thresholds and the host supplies what they lack is THEORY-tmpfaj83's question, Proposed, which keeps this entry's old promote_when.
+The twenty-second status review promoted this reading under [ADR-065](../decisions.d/ADR-065.md): it reports what McCutcheon and colleagues' survey shows and what they infer from it, and [NOTE-1213](../notes.d/NOTE-1213.md) read the paper in full. Whether endosymbionts lose these genes at these thresholds and the host supplies what they lack is [THEORY-tmpfaj83](THEORY-tmpfaj83.md)'s question, Proposed, which keeps this entry's old promote_when.

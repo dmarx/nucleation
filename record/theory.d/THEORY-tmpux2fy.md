@@ -21,9 +21,9 @@ promote_when: >-
   arguments that observer-independent facts are impossible, which bear on
   the first half only.
 summary: >-
-  Rovelli's general consistency claim (1996), LIT-1635, §III.D, p. 15, kept
-  here when the twenty-second status review promoted THEORY-1080 as a report
-  (ADR-065; ADR-047, kind 1). Shown for one measurement (p. 9) and
+  Rovelli's general consistency claim (1996), [LIT-1635](../literature.d/LIT-1635.md), §III.D, p. 15, kept
+  here when the twenty-second status review promoted [THEORY-1080](THEORY-1080.md) as a report
+  ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1). Shown for one measurement (p. 9) and
   introduced in general with "The reader may convince himself".
 ---
 
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Rovelli (1996), LIT-1635, arXiv quant-ph/9609002v2, §§II.D and III.D; read
-in NOTE-1227. What the paper states and shows is THEORY-1080, which this
+Rovelli (1996), [LIT-1635](../literature.d/LIT-1635.md), arXiv quant-ph/9609002v2, §§II.D and III.D; read
+in [NOTE-1227](../notes.d/NOTE-1227.md). What the paper states and shows is [THEORY-1080](THEORY-1080.md), which this
 entry extends.
 
 ## Why it is Proposed

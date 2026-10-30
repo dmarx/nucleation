@@ -47,13 +47,13 @@ bearing:
 
 The gap and Occam test computed on recorded joint activity, for a stated target, and compared with the anatomical partition and with the timing of transient long-range coupling.
 
-## Note of 2026-10-30: THEORY-124 narrowed
+## Note of 2026-10-30: [THEORY-124](../theory.d/THEORY-124.md) narrowed
 
 The phrase quoted above, that within one area neurons "rarely form discrete
-functional types", is no longer THEORY-124's wording. The status review of
-2026-10-30 narrowed THEORY-124 to what Posani et al. measured on the IBL
+functional types", is no longer [THEORY-124](../theory.d/THEORY-124.md)'s wording. The status review of
+2026-10-30 narrowed [THEORY-124](../theory.d/THEORY-124.md) to what Posani et al. measured on the IBL
 Brainwide Map (selectivity profiles beating a covariance-matched Gaussian null
 for clustering in only three of about 20 areas, with pooled profiles
-clustering along anatomy) and promoted it, Active (ADR-065). The wide wording
-is now carried by THEORY-tmp1ykjb, Proposed, which extends it. The point made
+clustering along anatomy) and promoted it, Active ([ADR-065](../decisions.d/ADR-065.md)). The wide wording
+is now carried by [THEORY-tmp1ykjb](../theory.d/THEORY-tmp1ykjb.md), Proposed, which extends it. The point made
 above stands on the narrowed, Active entry.

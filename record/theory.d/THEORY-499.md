@@ -137,6 +137,6 @@ results from Solutions 1–4 are unlikely to be relevant" (§6.2).
 
 ## Note of 2026-10-30: narrowed and promoted
 
-Promoted as a reading of what the model shows (ADR-065). Whether the
+Promoted as a reading of what the model shows ([ADR-065](../decisions.d/ADR-065.md)). Whether the
 shower happened, which sample ages from the other six craters would
-settle, is THEORY-tmp1hdru, Proposed, which extends this entry.
+settle, is [THEORY-tmp1hdru](THEORY-tmp1hdru.md), Proposed, which extends this entry.
