@@ -65,3 +65,11 @@ view only that would make helping egoistic, so neither side measured what
 egoism needs. The owner's thesis claims less than identity, an extended
 self-identification, so the argument leaves it open. It does put the
 thesis to saying why such a self counts as the agent's own.
+
+## Note of 2026-10-30: what holds it back
+
+Its evidence, Batson et al. 1997 (LIT-1700), is Unavailable and known only
+from the SEP's report (NOTE-1274), which gives no numbers. That report also
+argues that none of the merging measures in the exchange tests what egoism
+needs, so whether merging was controlled in the sense CLAIM-491 means, an
+extended self-identification, is unanswered.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpjylq8
 title: "No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -15,6 +15,14 @@ history:
     rule as an analogy, and its note of 2026-10-29 on Stich says kin
     selection is silent about motive. A dated note says what holds it
     back. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    objected_by converse added for CLAIM-492 and CLAIM-494, which object
+    to it and were recorded only on the objectors' side; and a note
+    filed with its concessions names CLAIM-492, promoted at the
+    eighteenth status review, at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-059). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +62,9 @@ summary: >-
   that groups have no good of their own.
 corroborated_by:
 - THEORY-655
+objected_by:
+- CLAIM-492
+- CLAIM-494
 ---
 <!-- inactive-ok-file: QUESTION-300 QUESTION-297 CLAIM-494 NOTE-1266 CLAIM-492 THEORY-1114 THEORY-1115 THEORY-655 LIT-1700 LIT-1735 LIT-1706 LIT-1782 LIT-1752 LIT-1759 LIT-1758 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1728 until 2027-04-29 — an Unavailable ground; Cialdini et al. is read at second hand (NOTE-1274, NOTE-1277); ask again whether the thesis holds once it is read, or by this date -->
@@ -322,3 +333,13 @@ comes apart from caring. The readings of 2026-10-29 offer candidates for
 that criterion (fusion, the activated social self) but show none coming
 apart from caring. Its ground [THEORY-1114](../theory.d/THEORY-1114.md) is Proposed, and [LIT-1728](../literature.d/LIT-1728.md), its
 best evidence, is read only at second hand.
+
+## Note of 2026-10-30: filed with its concessions
+
+CLAIM-492 has been written into this claim's defeated_if since filing:
+the thesis is answered only if it is tied to a criterion of the self's
+extent, such as perceived overlap, fusion or salient
+self-categorization, that can come apart from caring. That conditional
+is conceded. The claim has not yet named such a criterion and shown it
+coming apart from caring, and until it does it says nothing that caring
+alone does not.

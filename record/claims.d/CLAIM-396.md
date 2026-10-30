@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmp3gd3i
 title: 'Directional information measures between reciprocally coupled units follow the path of a one-sided drive rather than the symmetry of the coupling, so the observed direction of information flow does not by itself reveal which way, or whether both ways, the units are coupled'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Note of 2026-10-30 added at the eighteenth status review: the linear
+    Gaussian pair computed with an unrecorded drive. The drive, not the
+    coupling, sets the delayed-MI asymmetry there, so the defeated_if's
+    second branch is not met; one-way flow is not monotone in the drive;
+    and with the drive recorded, conditioned transfer entropy separates a
+    symmetric from a one-way pair without intervention. The claim is
+    unchanged and stays Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,3 +75,42 @@ It bears on [CLAIM-172](CLAIM-172.md) and [CLAIM-167](CLAIM-167.md), which read 
 architecture from whether coupling runs both ways or one: an observational
 direction test would class the beads as hierarchical under strong drive.
 [QUESTION-186](../questions.d/QUESTION-186.md) asks for the second system that would test the claim.
+
+## Note of 2026-10-30: the linear Gaussian pair, computed
+
+The second branch of the defeated_if asks whether, in the linear Gaussian
+pair, delayed-MI asymmetry is fixed by the coupling and not by the drive.
+It is not. The eighteenth status review computed exact stationary moments
+for a pair with symmetric coupling 0.4, relaxation 1 and unit noise, and an
+unrecorded Ornstein–Uhlenbeck drive (rate 0.5) entering x₁ at strength d
+(p18/claim396_lgpair.py; controls: no drive gives zero asymmetry, no
+coupling gives zero MI and TE, the moments match a simulation).
+
+- With no drive, delayed MI and transfer entropy are symmetric. Any d > 0
+  makes both favour x₁ → x₂, and moving the drive to x₂ reverses the sign.
+- At d = 4 and lag 0.5 the symmetric pair reads ΔMI = 0.301,
+  TE₁→₂ = 0.151 and TE₂→₁ = 0.022. A pair coupled one way, x₁ → x₂, with
+  the same drive reads 0.292, 0.150 and 0.024 (p18/claim396_match.py).
+  The two are close on all three measures, which is this claim's second
+  half for an unrecorded drive.
+- One-way flow is not monotone in the drive here. TE₁→₂/TE₂→₁ rises to
+  about 230 at d = 2 and falls back to between 4 and 8 for d from 4 to 64,
+  because x₂ comes to carry information about the unrecorded drive.
+  THEORY-275's one-way reading under strong drive is for a recorded drive
+  and the fitted bead model, which this model is not.
+- With the drive recorded, transfer entropy conditioned on its past
+  separates the two pairs without intervention: TE₂→₁ given the drive is
+  0.0067 for the symmetric pair and exactly 0 for the one-way pair
+  (p18/claim396_conditioned.py). "Telling them apart needs an intervention
+  on a member" holds at most where the drive is unrecorded.
+
+This is THEORY-275's model class, linear, Gaussian and two-body, so it is
+not QUESTION-186's second system.
+
+## Note of 2026-10-30: what holds it back
+
+It generalizes one linear Gaussian pair, and the test it names is a second
+system with a known reciprocal coupling driven at graded strengths
+(QUESTION-186), which has not been found. The computation of 2026-10-30
+confirms that the drive sets the direction within that model class and
+reaches no further.

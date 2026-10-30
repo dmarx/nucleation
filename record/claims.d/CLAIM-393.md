@@ -104,3 +104,13 @@ study unless the information changes which description is shorter.
   warrant is interpretive.
 - It leaves [CLAIM-174](CLAIM-174.md)'s second kind of defeater untouched: a clear agent,
   such as a person, that fails one of the tests.
+
+## Note of 2026-10-30: what holds it back
+
+Its premise, that attributions of agency to an artifact at matched
+behaviour change with whether its mechanism is known, is Boyle's forecast,
+and no study in the record tests it; the study its section "What would tell
+them apart" describes has not been read or run. Boyle's other track also
+cuts against the legal half: corporations, whose workings are known, are
+given legal personality for efficiency and with no claim to a mind
+(NOTE-1014, C1 and C5), and the claim does not answer it.
