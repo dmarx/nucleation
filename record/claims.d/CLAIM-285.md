@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpxuigm
 title: 'An endorsement scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,16 @@ history:
     construction or an observation under it, so the warrant is interpretive
     (ADR-043). The title is restated to lead with that. The defeat condition
     is unchanged, and the status stays Proposed.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    rests_on gains CLAIM-tmphnxf0, filed by the nineteenth status review,
+    at the status review's ruling (the owner delegated these rulings;
+    ADR-057): the clause that the two conditions need not be confined to
+    one-hop allocation now rests on it, and the first disjunct of the
+    defeat condition cannot be met. Kept Proposed: that operators bound by
+    the conditions delegate, and to aligned others, has no population model
+    under it. The title and defeat condition are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +51,7 @@ line:
 rests_on:
 - CLAIM-282
 - CLAIM-375
+- CLAIM-tmphnxf0
 uses:
 - TERM-053
 summary: >-
@@ -93,6 +104,7 @@ endorsements toward an ally, because the move changes a* through the ally's
 authority. It cannot raise its own g_i that way. Whether a given rule meets
 the first condition is the subject of [CLAIM-282](CLAIM-282.md): one-hop allocation within
 a governance epoch meets it exactly, and recursive delegation does not.
+Leave-one-out delegation meets it beyond one hop (CLAIM-tmphnxf0).
 Endorsement here is any effect on another operator's share of future
 influence ([TERM-053](../terms.d/TERM-053.md)), and explicit voting is one case of it.
 
@@ -134,14 +146,11 @@ together beyond one hop. Neither is shown, so this claim is interpretive.
 
 ## Note of 2026-10-30: what holds it back
 
-The first half of its defeat condition is missing a result: no population
-model shows operators bound by the two conditions delegating, or delegating
-to aligned others rather than at random. [CLAIM-375](CLAIM-375.md) shows only that the
-incentive exists under one hop. The beyond-one-hop clause has a
-construction (p18/cluster_da_checks.py): leave-one-out damped delegation
-keeps each operator's authority exactly insensitive to its own
-endorsements while carrying authority further than one hop. Shifting
-endorsement to a nearer ally then moved the decision toward the endorser
-in 15 of 18 trials, not all, so [CLAIM-375](CLAIM-375.md)'s guarantee does not carry over.
-That construction is not yet filed, and it conflicts with Active
-[CLAIM-282](CLAIM-282.md)'s "only one-hop allocation".
+The second half of its defeat condition is missing a result: no
+population model shows operators bound by the two conditions delegating,
+or delegating to aligned others rather than at random. CLAIM-375 shows the
+incentive exists under one hop. Beyond one hop, CLAIM-tmphnxf0 keeps the
+first condition exactly, but the incentive is not guaranteed there.
+Raising an endorsement of an ally nearer than the decision moved the
+decision toward the endorser in 1,772 of 2,141 trials
+(p19/claim282_loo.py, C6b).

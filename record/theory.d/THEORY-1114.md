@@ -54,7 +54,7 @@ summary: >-
   stronger claim, that the self is generated rather than stored, is not
   part of it.
 ---
-<!-- inactive-ok-file: LIT-1726 LIT-1767 — Deferred; the primary studies, filed unread, named as what promotion needs -->
+<!-- inactive-ok-file: LIT-1726 LIT-1767 — Unavailable; the primary studies, filed unread, named as what promotion needs -->
 <!-- inactive-ok-file: LIT-1723 — Unavailable; the 1987 book that first stated the account, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-406 THEORY-650 THEORY-691 — Proposed; neighbouring accounts of the self, compared, not leaned on -->
 
@@ -173,7 +173,8 @@ here.
 
 No study that varies only the comparative frame has been read. Oakes,
 Turner & Haslam 1991 ([LIT-1726](../literature.d/LIT-1726.md)) and Haslam et al. 1992 ([LIT-1767](../literature.d/LIT-1767.md)) are
-filed unread, and every result the record holds reaches it through the
+filed and Unavailable: no lawful copy was reached, and every result the record holds reaches it through the
 theory's authors without data. The promote_when also asks for a result
 from outside the originating group, or a preregistered replication there,
-and none is filed.
+and none is filed. Lea et al. 2007 (NOTE-1268) has the right design but
+comes from the authors' group and is not filed.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpjylq8
 title: "No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -23,6 +23,17 @@ history:
     filed with its concessions names CLAIM-492, promoted at the
     eighteenth status review, at the status review's ruling (the owner
     delegated these rulings; ADR-057, ADR-059). The claim is unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    THEORY-1114 moves from grounds to corroborated_by (ADR-058) at the
+    nineteenth status review, at the status review's ruling (the owner
+    delegated these rulings; ADR-057): the body counts self-categorization
+    theory as one of four kinds of support and says the thesis is not
+    settled by it, so the claim does not stand on its contested thesis.
+    LIT-1728 leaves grounds: it is Unavailable and read only at second
+    hand, and an unread work takes no edge; the body keeps the citation.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,8 +58,6 @@ line:
 answers:
 - QUESTION-300
 grounds:
-- THEORY-1114
-- LIT-1728
 - LIT-1735
 - LIT-1703
 summary: >-
@@ -62,12 +71,13 @@ summary: >-
   that groups have no good of their own.
 corroborated_by:
 - THEORY-655
+- THEORY-1114
 objected_by:
 - CLAIM-492
 - CLAIM-494
 ---
 <!-- inactive-ok-file: QUESTION-300 QUESTION-297 CLAIM-494 NOTE-1266 CLAIM-492 THEORY-1114 THEORY-1115 THEORY-655 LIT-1700 LIT-1735 LIT-1706 LIT-1782 LIT-1752 LIT-1759 LIT-1758 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1728 until 2027-04-29 — an Unavailable ground; Cialdini et al. is read at second hand (NOTE-1274, NOTE-1277); ask again whether the thesis holds once it is read, or by this date -->
+<!-- inactive-ok-file: LIT-1728 — Unavailable; Cialdini et al., cited in the body and read only at second hand (NOTE-1274, NOTE-1277), no edge (ADR-058) -->
 
 # CLAIM-491: No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 
@@ -324,15 +334,15 @@ is a self-concept. That is the third sense of "self-interest" the note on
 Scheffler named. On that reading, [CLAIM-492](CLAIM-492.md)'s demand for a criterion
 apart from caring is still unmet.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-Two objections are unanswered. [CLAIM-494](CLAIM-494.md) is Batson et al.'s empathic
-helping without self–other merging. [CLAIM-492](CLAIM-492.md) says the thesis is true by
-definition unless it is tied to a criterion of the self's extent that
-comes apart from caring. The readings of 2026-10-29 offer candidates for
-that criterion (fusion, the activated social self) but show none coming
-apart from caring. Its ground [THEORY-1114](../theory.d/THEORY-1114.md) is Proposed, and [LIT-1728](../literature.d/LIT-1728.md), its
-best evidence, is read only at second hand.
+Two objections are unanswered. CLAIM-494, Batson et al.'s empathic helping
+with self–other merging controlled, is Proposed, and nothing in the record
+answers it. CLAIM-492 is conceded: the thesis has content only with a
+criterion of the self's extent that comes apart from caring, and the
+readings offer candidates (fusion, the activated social self) but show
+none coming apart from caring. Its best evidence, Cialdini et al.
+(LIT-1728), is Unavailable and read only at second hand.
 
 ## Note of 2026-10-30: filed with its concessions
 
