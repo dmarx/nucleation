@@ -42,7 +42,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-784 — Unavailable; Gutt's book, unread here, of which this thesis is the precursor -->
 <!-- inactive-ok-file: LIT-791 LIT-829 — Unavailable; Nida's and Nord's books, unread here, named for comparison and not leaned on -->
-<!-- inactive-ok-file: CLAIM-501 CLAIM-205 — Proposed; the claims this reading bears on, open -->
 
 # NOTE-tmpfykfi: Gutt — Translation and Relevance (thesis, 1989)
 

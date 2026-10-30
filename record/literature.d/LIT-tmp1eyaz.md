@@ -51,7 +51,6 @@ summary: >-
   precursor of the 1991 book ([LIT-784](LIT-784.md)).
 ---
 <!-- inactive-ok-file: LIT-784 — Unavailable; the book this thesis became, unread here, named for placing the thesis -->
-<!-- inactive-ok-file: CLAIM-501 CLAIM-205 — Proposed; the claims this reading bears on, open -->
 
 # LIT-tmp1eyaz: Translation and Relevance
 

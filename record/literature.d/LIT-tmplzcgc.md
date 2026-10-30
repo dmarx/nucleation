@@ -41,7 +41,6 @@ summary: >-
   and the brief, not a general preference, decides which.
 ---
 <!-- inactive-ok-file: LIT-829 — Unavailable; Nord's book, unread here, named as a different work -->
-<!-- inactive-ok-file: CLAIM-205 — Proposed; the claim this reading bears on, open -->
 
 # LIT-tmplzcgc: Translating as a purposeful activity: a prospective approach
 

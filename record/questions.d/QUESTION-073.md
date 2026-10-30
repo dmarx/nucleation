@@ -136,3 +136,19 @@ posed.
 Teasing itself is in none of the pages read. The question stays open. Its
 reading condition is now partly met: Goffman's *Frame Analysis* and Bach
 and Harnish remain unread.
+
+## Note of 2026-10-30: Bach and Harnish's side, second-hand
+
+Harnish's restatement of the expressed-attitude theory (LIT-tmp7ybhu,
+NOTE-tmpvf3w7) answers "intention" for every communicative act. Acts are
+defined by the attitude expressed, and context and mutual presumptions
+guide the hearer's inference (p. 15); institutional acts are a separate
+class (pp. 22–23). Berdini (LIT-tmpyrsss, NOTE-tmpq3jbs) quotes Bach and
+Harnish that acts "at best ... create mutual beliefs ... about rights and
+obligations" (1979, p. 124), so standing would enter only as mutual
+belief. That states the intention side in its authors' terms. Harnish adds
+that expressing a belief and taking responsibility for it may coincide
+(p. 38), which bears on whether standing that enters through the intention
+counts as a relation. Neither text mentions teasing or supplies a case
+with the intention fixed. Goffman's *Frame Analysis* and Bach and Harnish's
+book ([LIT-1040](../literature.d/LIT-1040.md)) remain unread. The question stays open.

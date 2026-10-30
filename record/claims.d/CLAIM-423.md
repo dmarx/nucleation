@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppkmq0
 title: 'In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,14 @@ history:
     precursor and Sewell were read: none states the claim, and Abbott
     and Sewell are added to the accounts it must answer. Putnam was not
     reached. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings):
+    Putnam's two-level games (LIT-1375) are read in full (NOTE-tmpgmmql)
+    and do not state the claim. A dated note records the check and the
+    credit owed to Putnam. Stale directives for LIT-1375 and CLAIM-331,
+    both now Active, are corrected. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,8 +55,7 @@ summary: >-
 complements:
 - CLAIM-445
 ---
-<!-- inactive-ok-file: LIT-1375 — Unavailable; works registered unread, or entries set aside, cited as such -->
-<!-- inactive-ok-file: CLAIM-327 CLAIM-331 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-327 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-423: In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
 
@@ -159,12 +166,27 @@ The claim falls if Pierson or Putnam already state it.
   claim's continuous state under changing organization, stated in 1992.
   Neither links speed to authority, so neither defeats the claim.
 
+## Note of 2026-10-30: Putnam read
+
+Putnam ([LIT-1375](../literature.d/LIT-1375.md), NOTE-tmpgmmql) does not state the claim. Authority over
+a deal lies in Level II preferences and coalitions, ratification
+institutions and the autonomy of central decision-makers (p. 449), and
+negotiators' strategies, with the chief negotiator's veto (pp. 456–458).
+Horizons appear only in passing: electoral calendars set timing (pp.
+428–429), incumbency puts the domestic game first (p. 457), and state
+structures are too slow to explain change "unless 'time' is measured in
+decades or centuries" (p. 432). None makes a horizon decide which
+component holds authority. Two pieces are his and are credited: the state
+as a plural of contending decision-makers ("the state, they", p. 432), and
+authority over a deal shifting with "the balance of power at Level II"
+(p. 457). The state's continuity across successive coalitions is outside
+his one-negotiation frame.
+
 ## Note of 2026-10-30: what holds it back
 
-Its defeat condition is only half checked. The claim falls if Putnam's
-two-level games already state it, and Putnam ([LIT-1375](../literature.d/LIT-1375.md)) is Unavailable and
-unread. Pierson's 2000 article was not reached; [THEORY-885](../theory.d/THEORY-885.md) reads only the
-1997 text, which leaves the authority half open. No case in the record
-shows a component's temporal horizon, rather than the formal rule that
-gives an event its consequence, deciding which component holds
-authority.
+Putnam is now checked and does not state the claim. Pierson's 2000
+article (LIT-1372) is still unread, and [THEORY-885](../theory.d/THEORY-885.md) reads only the 1997
+precursor, so the path-dependence half of the defeat condition is checked
+only against the precursor. No case in the record shows a component's
+temporal horizon, rather than the formal rule that gives an event its
+consequence, deciding which component holds authority.

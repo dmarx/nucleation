@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp351uu
 title: 'What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers'' recovery beyond the similarity of static stance and footing ratings'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-059): a dated note records that the body's premise for the static
+    profile as the rival, "Each fixes a profile of the rendering as read
+    once", is now held false, because CLAIM-205 is Active and ARG-031 is
+    Rejected. The directive for CLAIM-205 is corrected. The claim's text
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,7 +53,6 @@ illustrated_by:
 bears_on:
 - QUESTION-002
 ---
-<!-- inactive-ok-file: CLAIM-205 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-228 CLAIM-259 — Proposed; the record's other replies of 2026-10-10, open, cited for the revised thesis and the measures this one tests -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
@@ -121,6 +130,18 @@ functionalist would also pass.
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
 The interlocutor's reading of 2026-10-12 favours "making this the principal empirical thesis, with one qualification": the rival set should include a strong contextual baseline. Filed as the counter [CLAIM-205](CLAIM-205.md), with the test it calls distinctive, prediction under an unobserved composition, as [QUESTION-074](../questions.d/QUESTION-074.md). Whether this entry becomes the principal thesis is still among the owner's decisions on PR [#121](https://github.com/dmarx/nucleation/issues/121).
+
+## Note of 2026-10-30: the rival's premise held false
+
+"Why the second is the rival" says that each rival account "fixes a
+profile of the rendering as read once". The record now holds the
+contrary. CLAIM-205, Active since 2026-10-30, holds that functional and
+relevance-theoretic accounts, as Nida, Nord and Gutt state them, need not
+fix one context or a static stance profile, and ARG-031, the inference
+from a win over the static profile to what the line adds, is Rejected. A
+win over the static profile would therefore not tell the line from those
+accounts. The proposed stronger rival is CLAIM-tmpnw3vv, Proposed. The
+text above is unchanged.
 
 ## Note of 2026-10-30: what holds it back
 

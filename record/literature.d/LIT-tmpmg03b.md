@@ -51,7 +51,6 @@ summary: >-
   Its example is Phillips's handshake for the "holy kiss" of Romans 16:16.
 ---
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida's book, unread here, of which this is an abridged chapter -->
-<!-- inactive-ok-file: CLAIM-205 — Proposed; the claim this reading bears on, open -->
 
 # LIT-tmpmg03b: Principles of Correspondence
 

@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpc25sn
 title: 'The relational-constitution thesis''s defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings;
+    ADR-058): Harnish's "Commitments and Speech Acts" (LIT-tmp7ybhu, read
+    in NOTE-tmpvf3w7) joins grounds for the intention-based line's
+    individuation of communicative acts. Berdini (LIT-tmpyrsss) is cited
+    in the body only. The title and text are unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -16,6 +25,7 @@ grounds:
 - CASE-018
 - LIT-482
 - THEORY-172
+- LIT-tmp7ybhu
 objects_to:
 - CLAIM-151
 summary: >-
@@ -216,9 +226,12 @@ open.
 
 ## Note of 2026-10-30: what holds it back
 
-For teasing, the case left once its 2026-10-13 corrections are taken, the
-intention-based reading is missing: Bach and Harnish ([LIT-1040](../literature.d/LIT-1040.md)) is unread,
-and neither Grice nor Strawson says whether standing that enters through
-the content of the intention counts as a relation ([QUESTION-073](../questions.d/QUESTION-073.md)). Its
-title's "holds no counter" and "plausibly meet it" are corrected by that
-note and are not restated.
+For teasing, the intention-based reading is still missing. Harnish
+(LIT-tmp7ybhu) confirms that Bach and Harnish individuate communicative
+acts by the attitude the speaker R-intends to be recognized, with context
+only as input to the hearer's inference. Berdini (LIT-tmpyrsss) quotes
+them that acts "at best ... create mutual beliefs ... about rights and
+obligations" (1979, p. 124). Neither text mentions teasing, reproach or
+standing, and the book ([LIT-1040](../literature.d/LIT-1040.md)) is unread. Harnish's suggestion that
+expressed attitude and liability to censure coincide (p. 38) leaves open
+whether QUESTION-073's dispute is verbal.

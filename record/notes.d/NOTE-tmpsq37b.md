@@ -28,7 +28,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-829 — Unavailable; Nord's book, unread here, named as a different work -->
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida's book, unread here, named as Nord cites it -->
-<!-- inactive-ok-file: CLAIM-205 — Proposed; the claim this reading bears on, open -->
 
 # NOTE-tmpsq37b: Nord — Translating as a purposeful activity: a prospective approach
 

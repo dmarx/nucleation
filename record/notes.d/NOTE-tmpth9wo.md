@@ -29,7 +29,6 @@ summary: >-
   meaning before style. There is no single right answer.
 ---
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida's book, unread here, of which this is an abridged chapter -->
-<!-- inactive-ok-file: CLAIM-205 — Proposed; the claim this reading bears on, open -->
 
 # NOTE-tmpth9wo: Nida — Principles of Correspondence
 
