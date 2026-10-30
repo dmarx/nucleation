@@ -1,5 +1,8 @@
 ---
+number: 1177
 status: Proposed
+formerly:
+- THEORY-tmp93zbe
 promote_when: >-
   A second, independent proof of the general (arbitrary outcome space) case
   is read and checked, such as the treatment in Torgersen's book or Le
@@ -29,7 +32,7 @@ summary: >-
   its last step needs a regular conditional distribution.
 ---
 
-# THEORY-tmp93zbe: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
+# THEORY-1177: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
 ## Source
 

@@ -1,5 +1,8 @@
 ---
+number: 1193
 status: Proposed
+formerly:
+- THEORY-tmpyavz1
 promote_when: >-
   A reading of the studies the paper cites (Baker et al. 2010; Culver et
   al. 2012; Kircanski et al. 2012; Prenoveau et al. 2013; Plendl &
@@ -27,7 +30,7 @@ summary: >-
   evidence.
 ---
 
-# THEORY-tmpyavz1: How far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful human samples
+# THEORY-1193: How far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful human samples
 
 ## Source
 

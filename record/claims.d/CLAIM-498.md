@@ -1,5 +1,8 @@
 ---
+number: 498
 status: Proposed
+formerly:
+- CLAIM-tmp4vtm7
 title: 'Averaging weights within a basin averages features: the network whose weights are the average of several networks in one low-loss basin has, in every layer, the average of their features'
 version: 1
 role: thesis
@@ -29,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-2 rule this entry is filed under -->
 
-# CLAIM-tmp4vtm7: Averaging weights within a basin averages features: the network whose weights are the average of several networks in one low-loss basin has, in every layer, the average of their features
+# CLAIM-498: Averaging weights within a basin averages features: the network whose weights are the average of several networks in one low-loss basin has, in every layer, the average of their features
 
 ## The claim
 

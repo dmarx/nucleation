@@ -1,5 +1,8 @@
 ---
+number: 1186
 status: Proposed
+formerly:
+- THEORY-tmpnyjn4
 promote_when: >-
   A study in which the same participants do more than one exploration
   task (a Horizon Task and a restless or two-armed bandit at least),
@@ -33,7 +36,7 @@ summary: >-
   study links them, and [THEORY-917](THEORY-917.md)'s note of 2026-10-30 says why.
 ---
 
-# THEORY-tmpnyjn4: Across computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples and not yet replicated, directed exploration tends to rise with trait or cognitive anxiety and to fall with state or somatic anxiety
+# THEORY-1186: Across computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples and not yet replicated, directed exploration tends to rise with trait or cognitive anxiety and to fall with state or somatic anxiety
 
 ## Source
 

@@ -1,5 +1,8 @@
 ---
+number: 1189
 status: Proposed
+formerly:
+- THEORY-tmpuynw0
 promote_when: >-
   The version of record read and found to rate the same phenomena; and a
   study, preferably in people with an anxiety disorder as well as
@@ -32,7 +35,7 @@ summary: >-
   evidence.
 ---
 
-# THEORY-tmpuynw0: In laboratory avoidance learning in healthy humans, an avoidance response that remains available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it; the more effective and the cheaper the response, the slower it extinguishes
+# THEORY-1189: In laboratory avoidance learning in healthy humans, an avoidance response that remains available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it; the more effective and the cheaper the response, the slower it extinguishes
 
 ## Source
 

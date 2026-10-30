@@ -1,5 +1,8 @@
 ---
+number: 1192
 status: Proposed
+formerly:
+- THEORY-tmpxi9bt
 title: 'Across 642 experimental tests to September 2019, forming implementation intentions reliably improved behaviour, cognitive performance, affect regulation and social judgement, but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, with large heterogeneity'
 version: 1
 tags:
@@ -33,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-tmpxi9bt: Across 642 experimental tests to September 2019, forming implementation intentions reliably improved behaviour, cognitive performance, affect regulation and social judgement, but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, with large heterogeneity
+# THEORY-1192: Across 642 experimental tests to September 2019, forming implementation intentions reliably improved behaviour, cognitive performance, affect regulation and social judgement, but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, with large heterogeneity
 
 ## Source
 

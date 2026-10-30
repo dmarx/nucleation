@@ -1,5 +1,8 @@
 ---
+number: 1181
 status: Proposed
+formerly:
+- THEORY-tmph4reb
 title: 'The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated'
 version: 1
 tags:
@@ -39,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-tmph4reb: The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated
+# THEORY-1181: The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated
 
 ## Source
 

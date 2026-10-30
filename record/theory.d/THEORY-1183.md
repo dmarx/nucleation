@@ -1,5 +1,8 @@
 ---
+number: 1183
 status: Proposed
+formerly:
+- THEORY-tmpkznad
 promote_when: >-
   The account is promoted by a study of collectively maintained patterns in
   a second system, not r/place, with its own record of attacks and repairs,
@@ -36,7 +39,7 @@ summary: >-
   is their own conjecture from SHAP curves.
 ---
 
-# THEORY-tmpkznad: Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning
+# THEORY-1183: Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning
 
 ## Source
 

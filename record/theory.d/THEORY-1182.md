@@ -1,5 +1,8 @@
 ---
+number: 1182
 status: Proposed
+formerly:
+- THEORY-tmphoue8
 promote_when: >-
   A systematic search with a meta-analysis or a large preregistered
   study, in people with fear-based anxiety disorders against controls,
@@ -31,7 +34,7 @@ summary: >-
   evidence.
 ---
 
-# THEORY-tmphoue8: Across seven computational learning studies selected without a systematic search, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it
+# THEORY-1182: Across seven computational learning studies selected without a systematic search, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it
 
 ## Source
 

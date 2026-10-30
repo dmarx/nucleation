@@ -6,7 +6,7 @@
 
 **Linguistics** — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.
 
-27 of 497 CLAIM documents. Back to the [full index](../README.md).
+27 of 499 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

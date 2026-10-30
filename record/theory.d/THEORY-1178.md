@@ -1,5 +1,8 @@
 ---
+number: 1178
 status: Proposed
+formerly:
+- THEORY-tmpcdn7t
 title: 'In slices of striatum, visual and prefrontal cortex and hippocampus, Hebbian co-activation leaves a synaptic eligibility trace, lasting about 1 s in striatum, 3 to 10 s in cortex and about 2 s in CA1, that a later neuromodulator or plateau potential converts into a weight change and whose sign it can set: experimental support for three-factor learning rules on behavioural time scales'
 version: 1
 tags:
@@ -35,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-tmpcdn7t: In slices of striatum, visual and prefrontal cortex and hippocampus, Hebbian co-activation leaves a synaptic eligibility trace, lasting about 1 s in striatum, 3 to 10 s in cortex and about 2 s in CA1, that a later neuromodulator or plateau potential converts into a weight change and whose sign it can set: experimental support for three-factor learning rules on behavioural time scales
+# THEORY-1178: In slices of striatum, visual and prefrontal cortex and hippocampus, Hebbian co-activation leaves a synaptic eligibility trace, lasting about 1 s in striatum, 3 to 10 s in cortex and about 2 s in CA1, that a later neuromodulator or plateau potential converts into a weight change and whose sign it can set: experimental support for three-factor learning rules on behavioural time scales
 
 ## Source
 

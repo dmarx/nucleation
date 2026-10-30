@@ -1,5 +1,8 @@
 ---
+number: 1180
 status: Proposed
+formerly:
+- THEORY-tmpdwshh
 promote_when: >-
   For the foraging pattern: a replicated study with clinical as well as
   sub-clinical anxiety, in which less leaving of depleting patches is
@@ -33,7 +36,7 @@ summary: >-
   evidence.
 ---
 
-# THEORY-tmpdwshh: In foraging tasks, higher stress or anxiety goes consistently with less exploration, and in one task with a predator to check for, people higher in somatic anxiety checked less and did worse, a reduction associated with greater aversion to detecting the predator
+# THEORY-1180: In foraging tasks, higher stress or anxiety goes consistently with less exploration, and in one task with a predator to check for, people higher in somatic anxiety checked less and did worse, a reduction associated with greater aversion to detecting the predator
 
 ## Source
 

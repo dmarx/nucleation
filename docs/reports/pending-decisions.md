@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**876 document(s) awaiting a decision.**
+**900 document(s) awaiting a decision.**
 
 ## LITs
 
-35 of the 876.
+35 of the 900.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -51,7 +51,7 @@
 
 ## THEORYs
 
-576 of the 876.
+598 of the 900.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -631,10 +631,32 @@
 | 2026-10-29 | Proposed | [THEORY-1153](../../record/theory.d/THEORY-1153.md) | 0 | 1 | 0 | In English-source TED and Europarl translations, the additions a translator makes for the target audience that a named-entity and null-alignment filter can find are mostly unit conversions and entity descriptions or specifications, and their mix differs by target language |
 | 2026-10-29 | Proposed | [THEORY-1157](../../record/theory.d/THEORY-1157.md) | 0 | 1 | 0 | Native-speaker crowd judges agree only modestly on the graded politeness of written requests in their own language, mean pairwise Spearman about 0.46 across nine languages, and the same bilinguals agree less on English requests, about 0.36 |
 | 2026-10-29 | Proposed | [THEORY-1171](../../record/theory.d/THEORY-1171.md) | 0 | 1 | 1 | In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect |
+| 2026-10-30 | Proposed | [THEORY-1174](../../record/theory.d/THEORY-1174.md) | 0 | 2 | 0 | Industry can bias a scientific community toward a worse treatment without corrupting any individual, by selectively funding researchers whose methods already favour its product, provided researchers differ in method and both influence and the training of newcomers follow productivity; an independent funder that discounts industry-funded work counteracts this, and one that funds on productivity alone makes it worse |
+| 2026-10-30 | Proposed | [THEORY-1176](../../record/theory.d/THEORY-1176.md) | 0 | 2 | 0 | Implementation intentions affect performance only when the goal intention they serve is strong and activated, so the cue-triggered response is gated by the goal and does not fire on the cue alone |
+| 2026-10-30 | Proposed | [THEORY-1172](../../record/theory.d/THEORY-1172.md) | 0 | 0 | 0 | Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually |
+| 2026-10-30 | Proposed | [THEORY-1173](../../record/theory.d/THEORY-1173.md) | 0 | 0 | 0 | Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault |
+| 2026-10-30 | Proposed | [THEORY-1175](../../record/theory.d/THEORY-1175.md) | 0 | 0 | 0 | Between tests, implementation intentions in the contingent if-then format had larger effects than plans that schedule when, where and what without linking cue to response (d = .43 against .29); rehearsing the plan once raised the effect, keeping a copy to revisit lowered it (.31 against .44), and adding how or for how long to a time-and-place cue roughly halved it |
+| 2026-10-30 | Proposed | [THEORY-1177](../../record/theory.d/THEORY-1177.md) | 0 | 0 | 0 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
+| 2026-10-30 | Proposed | [THEORY-1178](../../record/theory.d/THEORY-1178.md) | 0 | 0 | 0 | In slices of striatum, visual and prefrontal cortex and hippocampus, Hebbian co-activation leaves a synaptic eligibility trace, lasting about 1 s in striatum, 3 to 10 s in cortex and about 2 s in CA1, that a later neuromodulator or plateau potential converts into a weight change and whose sign it can set: experimental support for three-factor learning rules on behavioural time scales |
+| 2026-10-30 | Proposed | [THEORY-1179](../../record/theory.d/THEORY-1179.md) | 0 | 0 | 0 | In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior |
+| 2026-10-30 | Proposed | [THEORY-1180](../../record/theory.d/THEORY-1180.md) | 0 | 0 | 0 | In foraging tasks, higher stress or anxiety goes consistently with less exploration, and in one task with a predator to check for, people higher in somatic anxiety checked less and did worse, a reduction associated with greater aversion to detecting the predator |
+| 2026-10-30 | Proposed | [THEORY-1181](../../record/theory.d/THEORY-1181.md) | 0 | 0 | 0 | The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated |
+| 2026-10-30 | Proposed | [THEORY-1182](../../record/theory.d/THEORY-1182.md) | 0 | 0 | 0 | Across seven computational learning studies selected without a systematic search, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it |
+| 2026-10-30 | Proposed | [THEORY-1183](../../record/theory.d/THEORY-1183.md) | 0 | 0 | 0 | Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning |
+| 2026-10-30 | Proposed | [THEORY-1184](../../record/theory.d/THEORY-1184.md) | 0 | 0 | 0 | In three laboratory studies of healthy humans, offering a costless avoidance response for a stimulus never paired with the aversive outcome led people to use it, and withdrawing the response then raised their expectancy of the outcome for that stimulus; signalling of the response is a confound |
+| 2026-10-30 | Proposed | [THEORY-1185](../../record/theory.d/THEORY-1185.md) | 0 | 0 | 0 | Merging models trained on different tasks from different initialisations fails where their features have no counterpart in the other model, and such features grow more common with depth |
+| 2026-10-30 | Proposed | [THEORY-1186](../../record/theory.d/THEORY-1186.md) | 0 | 0 | 0 | Across computational studies of exploration in reward-based bandit tasks, mostly in sub-clinical samples and not yet replicated, directed exploration tends to rise with trait or cognitive anxiety and to fall with state or somatic anxiety |
+| 2026-10-30 | Proposed | [THEORY-1187](../../record/theory.d/THEORY-1187.md) | 0 | 0 | 0 | Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features |
+| 2026-10-30 | Proposed | [THEORY-1188](../../record/theory.d/THEORY-1188.md) | 0 | 0 | 0 | Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width |
+| 2026-10-30 | Proposed | [THEORY-1189](../../record/theory.d/THEORY-1189.md) | 0 | 0 | 0 | In laboratory avoidance learning in healthy humans, an avoidance response that remains available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it; the more effective and the cheaper the response, the slower it extinguishes |
+| 2026-10-30 | Proposed | [THEORY-1190](../../record/theory.d/THEORY-1190.md) | 0 | 0 | 0 | In a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety |
+| 2026-10-30 | Proposed | [THEORY-1191](../../record/theory.d/THEORY-1191.md) | 0 | 0 | 0 | In a simulated active inference agent, a habit learned by counting the agent's own state transitions and policy choices emerges from goal-directed behaviour, and once acquired it persists, and reinforces itself, after the reward is devalued, while an agent devalued before acquisition switches at once |
+| 2026-10-30 | Proposed | [THEORY-1192](../../record/theory.d/THEORY-1192.md) | 0 | 0 | 0 | Across 642 experimental tests to September 2019, forming implementation intentions reliably improved behaviour, cognitive performance, affect regulation and social judgement, but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, with large heterogeneity |
+| 2026-10-30 | Proposed | [THEORY-1193](../../record/theory.d/THEORY-1193.md) | 0 | 0 | 0 | How far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful human samples |
 
 ## ADRs
 
-3 of the 876.
+3 of the 900.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -644,7 +666,7 @@
 
 ## QUESTIONs
 
-8 of the 876.
+8 of the 900.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -659,7 +681,7 @@
 
 ## CLAIMs
 
-211 of the 876.
+213 of the 900.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -874,10 +896,12 @@
 | 2026-10-29 | Proposed | [CLAIM-490](../../record/claims.d/CLAIM-490.md) | 0 | 2 | 1 | A fanbase is a mixture of spectators who relate to the club in different ways, as supporters, followers, fans and flâneurs, so the public stance credited to it is weighted towards the most committed types before any bias in who is sampled |
 | 2026-10-29 | Proposed | [CLAIM-493](../../record/claims.d/CLAIM-493.md) | 0 | 2 | 1 | When a fanbase is set against an outside party such as its club's owner, its more extreme members become more prototypical of it, so a vocal minority can fix the fanbase's public stance through a group process and not only through biased sampling of who speaks |
 | 2026-10-30 | Proposed | [CLAIM-497](../../record/claims.d/CLAIM-497.md) | 0 | 9 | 1 | A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on |
+| 2026-10-30 | Proposed | [CLAIM-498](../../record/claims.d/CLAIM-498.md) | 0 | 0 | 0 | Averaging weights within a basin averages features: the network whose weights are the average of several networks in one low-loss basin has, in every layer, the average of their features |
+| 2026-10-30 | Proposed | [CLAIM-499](../../record/claims.d/CLAIM-499.md) | 0 | 0 | 0 | The linear barrier left after aligning independently trained networks over the architecture's symmetries rises with depth |
 
 ## CASEs
 
-13 of the 876.
+13 of the 900.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -897,7 +921,7 @@
 
 ## TERMs
 
-14 of the 876.
+14 of the 900.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -918,7 +942,7 @@
 
 ## ARGs
 
-16 of the 876.
+16 of the 900.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -945,4 +969,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (26): [THEORY-351](../../record/theory.d/THEORY-351.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-426](../../record/theory.d/THEORY-426.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-438](../../record/theory.d/THEORY-438.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-521](../../record/theory.d/THEORY-521.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-572](../../record/theory.d/THEORY-572.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-615](../../record/theory.d/THEORY-615.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [CLAIM-460](../../record/claims.d/CLAIM-460.md), [CLAIM-465](../../record/claims.d/CLAIM-465.md), [CLAIM-466](../../record/claims.d/CLAIM-466.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (48): [THEORY-351](../../record/theory.d/THEORY-351.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-426](../../record/theory.d/THEORY-426.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-438](../../record/theory.d/THEORY-438.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-521](../../record/theory.d/THEORY-521.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-572](../../record/theory.d/THEORY-572.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-615](../../record/theory.d/THEORY-615.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [CLAIM-460](../../record/claims.d/CLAIM-460.md), [CLAIM-465](../../record/claims.d/CLAIM-465.md), [CLAIM-466](../../record/claims.d/CLAIM-466.md), [CLAIM-498](../../record/claims.d/CLAIM-498.md), [CLAIM-499](../../record/claims.d/CLAIM-499.md), [THEORY-1172](../../record/theory.d/THEORY-1172.md), [THEORY-1173](../../record/theory.d/THEORY-1173.md), [THEORY-1175](../../record/theory.d/THEORY-1175.md), [THEORY-1177](../../record/theory.d/THEORY-1177.md), [THEORY-1178](../../record/theory.d/THEORY-1178.md), [THEORY-1179](../../record/theory.d/THEORY-1179.md), [THEORY-1180](../../record/theory.d/THEORY-1180.md), [THEORY-1181](../../record/theory.d/THEORY-1181.md), [THEORY-1182](../../record/theory.d/THEORY-1182.md), [THEORY-1183](../../record/theory.d/THEORY-1183.md), [THEORY-1184](../../record/theory.d/THEORY-1184.md), [THEORY-1185](../../record/theory.d/THEORY-1185.md), [THEORY-1186](../../record/theory.d/THEORY-1186.md), [THEORY-1187](../../record/theory.d/THEORY-1187.md), [THEORY-1188](../../record/theory.d/THEORY-1188.md), [THEORY-1189](../../record/theory.d/THEORY-1189.md), [THEORY-1190](../../record/theory.d/THEORY-1190.md), [THEORY-1191](../../record/theory.d/THEORY-1191.md), [THEORY-1192](../../record/theory.d/THEORY-1192.md), [THEORY-1193](../../record/theory.d/THEORY-1193.md) — these are the cheapest to close, since nothing depends on the answer.

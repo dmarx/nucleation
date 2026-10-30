@@ -1,5 +1,8 @@
 ---
+number: 1173
 status: Proposed
+formerly:
+- THEORY-tmp5748l
 promote_when: >-
   A first-hand reading of the book's chapters on testimonial injustice
   (LIT-1004, chs. 1–2, with ch. 6 on pre-emptive testimonial injustice)
@@ -38,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, named in the inherited promote_when as what would settle this -->
 
-# THEORY-tmp5748l: Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault
+# THEORY-1173: Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault
 
 ## Source
 

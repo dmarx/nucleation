@@ -1,5 +1,8 @@
 ---
+number: 1190
 status: Proposed
+formerly:
+- THEORY-tmpv4uka
 promote_when: >-
   Data, not more simulation: in a sequential avoidance task with known
   transition structure, people's choices are fit better by a model with a
@@ -33,7 +36,7 @@ summary: >-
   the paper leaves to future work.
 ---
 
-# THEORY-tmpv4uka: In a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety
+# THEORY-1190: In a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety
 
 ## Source
 

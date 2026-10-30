@@ -6,7 +6,7 @@
 
 **Operations research** — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
-5 of 497 CLAIM documents. Back to the [full index](../README.md).
+5 of 499 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

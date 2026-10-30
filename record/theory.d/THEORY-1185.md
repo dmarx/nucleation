@@ -1,5 +1,8 @@
 ---
+number: 1185
 status: Proposed
+formerly:
+- THEORY-tmpnozcu
 title: 'Merging models trained on different tasks from different initialisations fails where their features have no counterpart in the other model, and such features grow more common with depth'
 version: 1
 tags:
@@ -35,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-tmpnozcu: Merging models trained on different tasks from different initialisations fails where their features have no counterpart in the other model, and such features grow more common with depth
+# THEORY-1185: Merging models trained on different tasks from different initialisations fails where their features have no counterpart in the other model, and such features grow more common with depth
 
 ## Source
 

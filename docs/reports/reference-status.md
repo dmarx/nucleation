@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**774 documents cited without acknowledgement.** Not listed: 14478 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**774 documents cited without acknowledgement.** Not listed: 14506 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes
 
-801 citations in 559 files await a look; 12 other citations of it are acknowledged.
+812 citations in 567 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-030.md:14`](../../record/claims.d/CLAIM-030.md)
 - [`record/claims.d/CLAIM-033.md:22`](../../record/claims.d/CLAIM-033.md)
@@ -266,6 +266,16 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-117.md:176`](../../record/theory.d/THEORY-117.md)
 - [`record/theory.d/THEORY-1170.md:26`](../../record/theory.d/THEORY-1170.md)
 - [`record/theory.d/THEORY-1171.md:30`](../../record/theory.d/THEORY-1171.md)
+- [`record/theory.d/THEORY-1173.md:36`](../../record/theory.d/THEORY-1173.md)
+- [`record/theory.d/THEORY-1177.md:27`](../../record/theory.d/THEORY-1177.md)
+- [`record/theory.d/THEORY-1180.md:34`](../../record/theory.d/THEORY-1180.md)
+- [`record/theory.d/THEORY-1182.md:32`](../../record/theory.d/THEORY-1182.md)
+- [`record/theory.d/THEORY-1183.md:33`](../../record/theory.d/THEORY-1183.md)
+- [`record/theory.d/THEORY-1184.md:31`](../../record/theory.d/THEORY-1184.md)
+- [`record/theory.d/THEORY-1186.md:32`](../../record/theory.d/THEORY-1186.md)
+- [`record/theory.d/THEORY-1189.md:33`](../../record/theory.d/THEORY-1189.md)
+- [`record/theory.d/THEORY-1190.md:31`](../../record/theory.d/THEORY-1190.md)
+- [`record/theory.d/THEORY-1193.md:28`](../../record/theory.d/THEORY-1193.md)
 - [`record/theory.d/THEORY-123.md:13`](../../record/theory.d/THEORY-123.md)
 - [`record/theory.d/THEORY-123.md:44`](../../record/theory.d/THEORY-123.md)
 - [`record/theory.d/THEORY-123.md:171`](../../record/theory.d/THEORY-123.md)
@@ -282,7 +292,6 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-140.md:20`](../../record/theory.d/THEORY-140.md)
 - [`record/theory.d/THEORY-141.md:115`](../../record/theory.d/THEORY-141.md)
 - [`record/theory.d/THEORY-143.md:143`](../../record/theory.d/THEORY-143.md)
-- [`record/theory.d/THEORY-146.md:13`](../../record/theory.d/THEORY-146.md)
 - [`record/theory.d/THEORY-151.md:112`](../../record/theory.d/THEORY-151.md)
 - [`record/theory.d/THEORY-156.md:23`](../../record/theory.d/THEORY-156.md)
 - [`record/theory.d/THEORY-158.md:14`](../../record/theory.d/THEORY-158.md)
@@ -533,6 +542,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-334.md:38`](../../record/theory.d/THEORY-334.md)
 - [`record/theory.d/THEORY-334.md:123`](../../record/theory.d/THEORY-334.md)
 - [`record/theory.d/THEORY-335.md:12`](../../record/theory.d/THEORY-335.md)
+- [`record/theory.d/THEORY-335.md:151`](../../record/theory.d/THEORY-335.md)
 - [`record/theory.d/THEORY-360.md:13`](../../record/theory.d/THEORY-360.md)
 - [`record/theory.d/THEORY-360.md:18`](../../record/theory.d/THEORY-360.md)
 - [`record/theory.d/THEORY-360.md:39`](../../record/theory.d/THEORY-360.md)
@@ -751,7 +761,6 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-900.md:12`](../../record/theory.d/THEORY-900.md)
 - [`record/theory.d/THEORY-901.md:12`](../../record/theory.d/THEORY-901.md)
 - [`record/theory.d/THEORY-903.md:12`](../../record/theory.d/THEORY-903.md)
-- [`record/theory.d/THEORY-904.md:13`](../../record/theory.d/THEORY-904.md)
 - [`record/theory.d/THEORY-907.md:12`](../../record/theory.d/THEORY-907.md)
 - [`record/theory.d/THEORY-908.md:13`](../../record/theory.d/THEORY-908.md)
 - [`record/theory.d/THEORY-909.md:13`](../../record/theory.d/THEORY-909.md)
@@ -760,8 +769,10 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-913.md:13`](../../record/theory.d/THEORY-913.md)
 - [`record/theory.d/THEORY-915.md:12`](../../record/theory.d/THEORY-915.md)
 - [`record/theory.d/THEORY-917.md:12`](../../record/theory.d/THEORY-917.md)
+- [`record/theory.d/THEORY-917.md:104`](../../record/theory.d/THEORY-917.md)
 - [`record/theory.d/THEORY-918.md:13`](../../record/theory.d/THEORY-918.md)
 - [`record/theory.d/THEORY-920.md:12`](../../record/theory.d/THEORY-920.md)
+- [`record/theory.d/THEORY-920.md:102`](../../record/theory.d/THEORY-920.md)
 - [`record/theory.d/THEORY-921.md:13`](../../record/theory.d/THEORY-921.md)
 - [`record/theory.d/THEORY-922.md:12`](../../record/theory.d/THEORY-922.md)
 - [`record/theory.d/THEORY-923.md:13`](../../record/theory.d/THEORY-923.md)

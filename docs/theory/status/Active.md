@@ -6,7 +6,7 @@
 
 **The current account** — the best explanation the record holds for why this happens.
 
-589 of 1171 THEORY documents. Back to the [full index](../README.md).
+589 of 1193 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

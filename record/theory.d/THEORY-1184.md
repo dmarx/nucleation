@@ -1,5 +1,8 @@
 ---
+number: 1184
 status: Proposed
+formerly:
+- THEORY-tmplw8dg
 promote_when: >-
   The version of record read and found to report the same; and a study
   in which avoidance of a never-punished stimulus is made available
@@ -33,7 +36,7 @@ summary: >-
   why.
 ---
 
-# THEORY-tmplw8dg: In three laboratory studies of healthy humans, offering a costless avoidance response for a stimulus never paired with the aversive outcome led people to use it, and withdrawing the response then raised their expectancy of the outcome for that stimulus; signalling of the response is a confound
+# THEORY-1184: In three laboratory studies of healthy humans, offering a costless avoidance response for a stimulus never paired with the aversive outcome led people to use it, and withdrawing the response then raised their expectancy of the outcome for that stimulus; signalling of the response is a confound
 
 ## Source
 

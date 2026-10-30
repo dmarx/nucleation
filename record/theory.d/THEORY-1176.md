@@ -1,5 +1,8 @@
 ---
+number: 1176
 status: Proposed
+formerly:
+- THEORY-tmp85kj5
 title: 'Implementation intentions affect performance only when the goal intention they serve is strong and activated, so the cue-triggered response is gated by the goal and does not fire on the cue alone'
 version: 1
 tags:
@@ -35,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-tmp85kj5: Implementation intentions affect performance only when the goal intention they serve is strong and activated, so the cue-triggered response is gated by the goal and does not fire on the cue alone
+# THEORY-1176: Implementation intentions affect performance only when the goal intention they serve is strong and activated, so the cue-triggered response is gated by the goal and does not fire on the cue alone
 
 ## Source
 

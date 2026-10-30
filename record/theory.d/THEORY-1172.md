@@ -1,5 +1,8 @@
 ---
+number: 1172
 status: Proposed
+formerly:
+- THEORY-tmp1h9ud
 title: 'Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually'
 version: 1
 tags:
@@ -36,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-tmp1h9ud: Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually
+# THEORY-1172: Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually
 
 ## Source
 

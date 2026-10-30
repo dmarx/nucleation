@@ -39,7 +39,7 @@ bears_on:
 - QUESTION-315
 ---
 <!-- inactive-ok-file: LIT-751 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
-<!-- inactive-ok-file: ADR-047 THEORY-tmp5c7t8 — ADR-047 Superseded by ADR-057, which keeps its evidence rulings; THEORY-tmp5c7t8 Proposed, the reading that keeps the old title without its "only if" -->
+<!-- inactive-ok-file: ADR-047 THEORY-1174 — ADR-047 Superseded by ADR-057, which keeps its evidence rulings; THEORY-1174 Proposed, the reading that keeps the old title without its "only if" -->
 <!-- inactive-ok-file: THEORY-143 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
@@ -117,5 +117,5 @@ assert that a merit-based funder worsens the bias and one that discounts
 industry-funded work counteracts it ([NOTE-574](../notes.d/NOTE-574.md), C4). They assert no
 necessity, and no other policy is tested. The "only if" is not kept as a
 proposal ([ADR-047](../decisions.d/ADR-047.md), kind 3). The rest of the old title, which the paper
-asserts, is kept as the Proposed reading [THEORY-tmp5c7t8](THEORY-tmp5c7t8.md), with the funder
+asserts, is kept as the Proposed reading [THEORY-1174](THEORY-1174.md), with the funder
 clause restated without the "only if".
