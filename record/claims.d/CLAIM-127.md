@@ -195,3 +195,15 @@ and the Epilogue. The rest of the book was not read.
   P(y | do(x), do(z)) (pp. 160–161). Whether an elicitation C is the first
   kind or the second is the question this claim's "two routes to
   signalling" leave open.
+
+## Note of 2026-10-30: what holds it back
+
+The defeat condition's second branch appears met for the manuscript's
+experiments. There every framing is an assigned do(I) (CLAIM-130),
+do(I = a) equals conditioning on I = a (the note of 2026-10-10), and with
+I in every context the compatibility, signalling and contextuality
+verdicts equal the per-a verdicts (checked on the 4-cycle at the status
+review of 2026-10-30). What the do-index still separates is the frame
+entered as separate contexts of one cover, which turns a framing effect
+into signalling. Until the title and defeat condition are revised to that
+contrast, or to unassigned framings, the claim cannot be promoted.
