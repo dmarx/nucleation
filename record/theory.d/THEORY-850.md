@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkd2bw
 title: 'In Hungary, 1994–2016, state-owned firms'' advertising, and not private firms'', shifted sharply toward print and online outlets when they became connected to the governing right and away when the 2015 Orbán–Simicska fallout ended a connection, at all five such events studied; and the outlets'' share of articles on corruption scandals moved the opposite way at the three events with content data'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -15,6 +15,13 @@ history:
     control, and nothing in the record contradicts it (ADR-047 v3). The
     mechanism behind the content favors is filed apart, as THEORY-852,
     Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    THEORY-852 went Active at the twenty-second status review, at the status
+    review's ruling (the owner delegated these rulings); ADR-065; the
+    parenthetical that called it Proposed is corrected. Nothing else
+    changes.
 tags:
 - society-and-governance
 - social-science
@@ -31,7 +38,6 @@ summary: >-
 supports:
 - CLAIM-404
 ---
-<!-- inactive-ok-file: THEORY-852 — Proposed; the structural split between ideology and exchange, filed beside this one -->
 
 # THEORY-850: In Hungary, 1994–2016, state-owned firms' advertising, and not private firms', shifted sharply toward print and online outlets when they became connected to the governing right and away when the 2015 Orbán–Simicska fallout ended a connection, at all five such events studied; and the outlets' share of articles on corruption scandals moved the opposite way at the three events with content data
 
@@ -79,7 +85,7 @@ audience-led explanation predicts.
 
 - **Not why the content moved.** The reduced form cannot tell an owner who
   shared the government's view from one paid by it. That split needs the
-  structural model ([THEORY-852](THEORY-852.md), Proposed).
+  structural model ([THEORY-852](THEORY-852.md)).
 - **Not that left-wing governments did otherwise.** The authors take no
   stand on favoritism under left governments.
 - **Not that advertising was the only favor**, nor corruption coverage the

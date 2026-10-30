@@ -1,24 +1,33 @@
 ---
 number: 1084
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpq9x5h
-promote_when: >-
-  A system built only from the components Simon names, a solver working in
-  a locally well structured problem space and a recognition-driven
-  retrieval mechanism that keeps modifying that space from a large memory
-  or from the environment, shown to perform on problems of the ill
-  structured kind (design under requirements that arrive during the work,
-  with no fixed initial solution test) comparably to a system or expert
-  given the full specification at the outset, with the gap traced to the
-  size or content of its memory and not to a missing mechanism. The
-  converse settles it the other way: a class of such problems on which
-  that architecture fails at any memory size and a qualitatively different
-  mechanism succeeds. A system that solves a problem once someone has
-  formalized it does not count, since that is the preparation the claim is
-  about.
 title: 'Simon proposes that ill structured problems can be handled by an alternation between a solver working on a problem that is well structured at each moment and a recognition and retrieval system that keeps modifying the problem space from memory or the environment, that a serial solver gains nothing by assembling the problem space at the outset, and that nothing but the size of the knowledge base may separate ill from well structured problems, so that no qualitatively new mechanisms are needed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings); ADR-065, ADR-057. The title
+    reports what Simon proposes, NOTE-1232 read the paper in full from the
+    published article, and nothing in the record contradicts the report. The
+    old promote_when asked that the proposal be right: "A system built only
+    from the components Simon names, a solver working in a locally well
+    structured problem space and a recognition-driven retrieval mechanism
+    that keeps modifying that space from a large memory or from the
+    environment, shown to perform on problems of the ill structured kind
+    (design under requirements that arrive during the work, with no fixed
+    initial solution test) comparably to a system or expert given the full
+    specification at the outset, with the gap traced to the size or content
+    of its memory and not to a missing mechanism. The converse settles it
+    the other way: a class of such problems on which that architecture fails
+    at any memory size and a qualitatively different mechanism succeeds. A
+    system that solves a problem once someone has formalized it does not
+    count, since that is the preparation the claim is about." It moves word
+    for word to THEORY-tmpstm9o, Proposed, which carries the thesis and
+    extends this entry (ADR-065 §3; ADR-047, kind 1).
 tags:
 - cognition
 - epistemology
@@ -31,7 +40,8 @@ summary: >-
   design by an organization and to the NSS chess program, and argued from
   the seriality of the solver; nothing is implemented or tested, and Simon
   states the last part as what his analysis "suggests" and as "reason to
-  be optimistic". Proposed for want of a test.
+  be optimistic". Active as a report of the proposal; whether it is
+  right, which wants a test, is THEORY-tmpstm9o, Proposed.
 ---
 <!-- inactive-ok-file: CLAIM-470 — Proposed; the claim whose defeater this bears on, cited as open -->
 

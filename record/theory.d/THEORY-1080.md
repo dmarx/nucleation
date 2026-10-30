@@ -1,20 +1,33 @@
 ---
 number: 1080
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpleurt
-promote_when: >-
-  A proof that, for an arbitrary network of systems observing each other,
-  rules (i) and (ii) of §III.D (no state except within a further
-  observer's information; no information without interaction) exclude any
-  contradiction between what a third system predicts of two observers'
-  information and what it finds on interacting with them; or a scenario
-  satisfying both rules in which they conflict, which would refute it. Not
-  settled by the single S–O–P case of §II.D, which the paper already
-  gives, nor by arguments that observer-independent facts are impossible,
-  which bear on the first half only.
 title: 'In relational quantum mechanics as Rovelli first stated it, the relation between two observers'' descriptions is itself a quantum fact relative to a third system, so no observer''s view can be deduced from another''s and there is no description in toto, only a net of partial descriptions; the views are held consistent only in that the third system predicts correlated outcomes, which is shown for a single measurement and asserted in general'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings); ADR-065, ADR-057. The title
+    reports what Rovelli states and what the paper shows, consistency for
+    one measurement and asserted in general; NOTE-1227 read it in full from
+    arXiv v2, the condition never asked for the journal text and no
+    discrepancy is named, and nothing in the record contradicts the report
+    (NOTE-1226 finds it stands for 2021). The old promote_when asked that
+    consistency be proved in general: "A proof that, for an arbitrary
+    network of systems observing each other, rules (i) and (ii) of §III.D
+    (no state except within a further observer's information; no information
+    without interaction) exclude any contradiction between what a third
+    system predicts of two observers' information and what it finds on
+    interacting with them; or a scenario satisfying both rules in which they
+    conflict, which would refute it. Not settled by the single S–O–P case of
+    §II.D, which the paper already gives, nor by arguments that
+    observer-independent facts are impossible, which bear on the first half
+    only." It moves word for word to THEORY-tmpux2fy, Proposed, which
+    carries Rovelli's general claim and extends this entry (ADR-065 §3;
+    ADR-047, kind 1).
 tags:
 - quantum-foundations
 - metaphysics
@@ -25,9 +38,9 @@ summary: >-
   Rovelli (1996), [LIT-1635](../literature.d/LIT-1635.md), read in arXiv v2 in [NOTE-1227](../notes.d/NOTE-1227.md), §§II.D,
   III.D, IV.A–B. The first half (no deducible relation between views, no
   in-toto description) is Rovelli's stated position, well supported by his
-  text. Proposed because of the second half: consistency is shown for one
+  text. The second half reports that consistency is shown for one
   case (von Neumann's correlation, p. 9) and left to the reader in general
-  (p. 15). Rovelli's own relativity analogy breaks where relativity
+  (p. 15); whether it holds in general is THEORY-tmpux2fy, Proposed. Rovelli's own relativity analogy breaks where relativity
   supplies an invariant, which bears on [QUESTION-021](../questions.d/QUESTION-021.md) by analogy only.
 ---
 <!-- inactive-ok-file: THEORY-621 CLAIM-137 — Proposed; neighbours cited as open -->

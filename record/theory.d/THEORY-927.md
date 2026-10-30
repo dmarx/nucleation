@@ -1,22 +1,34 @@
 ---
 number: 927
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2p13l
-promote_when: >-
-  A study that tracks gate weights over training in a sparsely-gated
-  mixture of experts without balancing losses and shows the concentration
-  arising by the stated route, experts that are selected more being trained
-  more and so selected still more, for example by showing that it depends
-  on early selection and not on differences in initial competence, or that
-  it disappears when experts are trained equally while allocation is left
-  free; and the ICLR 2017 version read and found to report Table 6 as v1
-  does. It is refuted if the concentration proves to track a real
-  difference in what the experts can do, or does not recur across seeds.
-  Whether the balancing losses produce competent specialists, rather than
-  equally used ones, is a separate question.
 title: 'In a sparsely-gated mixture-of-experts layer trained without balancing losses, the gate came to give large weights to the same few experts, which the authors attribute to self-reinforcement, favoured experts being trained more and so selected more; in one 256-expert language model, the squared coefficient of variation of expert importance or load as an auxiliary loss reduced the peak-to-mean load from 17.8 to at most 1.47 and test perplexity from 39.8 to 35.6–35.7'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings); ADR-065, ADR-057. The title
+    reports one study with its hedges kept: the mechanism is the authors'
+    attribution, and the fix is measured in one 256-expert model. NOTE-1145
+    read arXiv v1, the only arXiv version, in full, and nothing in the
+    record contradicts the report. The old promote_when: "A study that
+    tracks gate weights over training in a sparsely-gated mixture of experts
+    without balancing losses and shows the concentration arising by the
+    stated route, experts that are selected more being trained more and so
+    selected still more, for example by showing that it depends on early
+    selection and not on differences in initial competence, or that it
+    disappears when experts are trained equally while allocation is left
+    free; and the ICLR 2017 version read and found to report Table 6 as v1
+    does. It is refuted if the concentration proves to track a real
+    difference in what the experts can do, or does not recur across seeds.
+    Whether the balancing losses produce competent specialists, rather than
+    equally used ones, is a separate question." The mechanism study moves to
+    THEORY-tmptcb8e, Proposed, which extends this entry; the demand for the
+    ICLR version names no discrepancy and is dropped (ADR-065 §3 and §4;
+    ADR-047, kind 1).
 tags:
 - learning-theory
 - complex-systems

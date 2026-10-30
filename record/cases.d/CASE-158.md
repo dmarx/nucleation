@@ -43,7 +43,7 @@ variants:
 - CASE-162
 ---
 <!-- inactive-ok-file: CLAIM-278 CLAIM-277 TERM-066 — Proposed; the objection this design is built to meet and the claim and term it bears on, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-937 THEORY-927 — Proposed; the mixture-of-experts readings of PR #330 cited as the router's prior art, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-937 — Proposed; the mixture-of-experts reading of PR #330 cited as the router's prior art, nothing here rests on them -->
 
 # CASE-158: Audited governance against a contextual router after a reversal of expertise: specialist denoisers with frozen, separately trained operators propose for one shared latent at each step, and spatial grants are revised from independent held-out probes of every proposal, available only from the next episode, against a fixed allocation, a conformity-scored allocation and a contextual mixture-of-experts router; the question is whether governance does anything a router does not, and under full-information audits the record predicts it cannot
 

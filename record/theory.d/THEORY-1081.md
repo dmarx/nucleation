@@ -31,7 +31,7 @@ summary: >-
   wrong is cited to others, inter-observer agreement is one sentence, and
   an agent reasoning about himself is left undone. Proposed for those.
 ---
-<!-- inactive-ok-file: THEORY-621 THEORY-1080 — Proposed; the RQM rule and the consistency reading this one shares its gap with, cited as open -->
+<!-- inactive-ok-file: THEORY-621 — Proposed; the RQM rule this one shares its gap with, cited as open -->
 
 # THEORY-1081: Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; on that ground they base quantum ontology on facts relative to systems, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong
 

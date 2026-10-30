@@ -90,3 +90,11 @@ on the estimator is given. One corpus was used.
   corpus, by an estimator that needs replacing. A hierarchy over members'
   activity would need the same test against a flat mixed-membership
   model, with held-out data the inference did not see.
+
+## Note of 2026-10-30: what holds it back
+
+The title states held-out likelihoods that the paper estimated only by the
+harmonic-mean estimator, which can overestimate and have infinite variance,
+with no interval given. A re-estimate with a controlled estimator is the
+missing result. Narrowing to what the paper reports would free nothing, so
+it is not narrowed (ADR-065 §7).
